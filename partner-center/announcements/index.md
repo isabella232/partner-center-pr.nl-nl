@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: HT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917209"
+ms.locfileid: "93027887"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,7 +22,8 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **Aankondigingen van oktober 2020** | **Aangekondigd** |
 |---------|:---------|:---------|
-|Functionaliteit|[Vernieuwde digitale ervaring in Cloud Solution Provider nu beschikbaar](2020-october.md#15)|28 oktober|
+|Functionaliteit|[Windows 10 Educatief-upgrade is nu beschikbaar voor gekwalificeerde Cloud Solution Provider Education-klanten](2020-october.md#16)|28 oktober|
+|Functies|[Vernieuwde digitale ervaring in Cloud Solution Provider nu beschikbaar](2020-october.md#15)|28 oktober|
 |Functionaliteit|[Inleiding tot prestatiestandaarden voor vereisten voor factuurpartners in het CSP-programma (Cloud Solution Provider)](2020-october.md#13)|27 oktober|
 |Aanbiedingen/markten|[Oktober 2020: lijst met abonnementsprijzen voor Cloud Solution Provider-software bijgewerkt](2020-october.md#14)|26 oktober|
 |Aanbiedingen/markten|[Updates voor de Microsoft 365 Business Voice-aanbieding](2020-october.md#12)|16 oktober|
@@ -36,16 +37,16 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Aanbiedingen/markten|[Geplande nieuwe aanbiedingen en producten voor Dynamics 365](2020-october.md#4)|2 oktober|
 |Aanbiedingen/markten|[Windows 7 jaar 2 ESU (Extended Security Updates), nu beschikbaar voor CSP-partners (Cloud Solution Provider)](2020-october.md#3)|1 oktober|
 |Aanbiedingen/markten|[Nieuwe SKU's bieden klanten de krachtige functionaliteit van Project Cortex, en meer](2020-october.md#2)|1 oktober|
-|Functionaliteit|[Fiscaal jaar 2021 (FJ21), aankondiging van het incentives-programma voor CSP (Cloud Solution Provider)](2020-october.md#1)|1 oktober|
+|Functies|[Fiscaal jaar 2021 (FJ21), aankondiging van het incentives-programma voor CSP (Cloud Solution Provider)](2020-october.md#1)|1 oktober|
 | **Categorie** | **Aankondigingen van september 2020** | **Datum** |
-|Functionaliteit|[Kennisgeving over vervulling van softwarelicentiesleutel en download in Partnercentrum](2020-september.md#17)|30 september|
-|Functionaliteit|[Wijzigingen in evolutie van CSP-programma (Cloud Solution Provider) en Open License-programma: Op weg naar een betere ervaring voor partners en klanten](2020-september.md#16)|30 september|
-|Functionaliteit|[Beschikbaarheid van het transitiehulpprogramma voor nieuwe abonnementen tussen partners voor Azure-abonnement](2020-september.md#15)|28 september|
-|Functionaliteit|[Update testen: API-updates en verbeteringen van de gebruikersinterface in Partnercentrum, voor het validatieproces voor Education-klanten](2020-september.md#14)|28 september|
-|Functionaliteit|[Update - O365-gebruiks-API's voor CSP en gebruiksrapporten over CSP-licenties ](2020-september.md#13)|29 september|
-|Functionaliteit|[Geplande btw-wijzigingen in de Russische federale wetgeving](2020-september.md#12)|25 september|
+|Functies|[Kennisgeving over vervulling van softwarelicentiesleutel en download in Partnercentrum](2020-september.md#17)|30 september|
+|Functies|[Wijzigingen in evolutie van CSP-programma (Cloud Solution Provider) en Open License-programma: Op weg naar een betere ervaring voor partners en klanten](2020-september.md#16)|30 september|
+|Functies|[Beschikbaarheid van het transitiehulpprogramma voor nieuwe abonnementen tussen partners voor Azure-abonnement](2020-september.md#15)|28 september|
+|Functies|[Update testen: API-updates en verbeteringen van de gebruikersinterface in Partnercentrum, voor het validatieproces voor Education-klanten](2020-september.md#14)|28 september|
+|Functies|[Update - O365-gebruiks-API's voor CSP en gebruiksrapporten over CSP-licenties ](2020-september.md#13)|29 september|
+|Functies|[Geplande btw-wijzigingen in de Russische federale wetgeving](2020-september.md#12)|25 september|
 |Functies|[SDK-release in .NET Standard v1.16.2](2020-september.md#11)|22 september|
-|Functionaliteit|[Inzichten van Partnercentrum - Dé resource voor rapportage om uw bedrijf te begrijpen in Microsoft.](2020-september.md#10)|23 september|
+|Functies|[Inzichten van Partnercentrum - Dé resource voor rapportage om uw bedrijf te begrijpen in Microsoft.](2020-september.md#10)|23 september|
 |Aanbiedingen/markten|[Aankondiging van algemene beschikbaarheid van Azure SQL Edge](2020-september.md#9)|22 september|
 |Functies|[Op 30 september 30 2020 zijn wijzigingen gepland in de CSP O365-gebruiks-API's voor CSP en gebruiksrapporten over CSP-licenties.](2020-september.md#8)|17 september|
 |Functies|[MPA-update voor indirecte resellers. Actie vereist voor gebruikers van de MPA-API en de nieuwe MPA-rapportageversie](2020-september.md#7)|16 september|
@@ -56,7 +57,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Aanbiedingen/markten|[Vanaf 1 oktober 2020 is het Office 365-oproepabonnement beschikbaar voor nieuwe markten](2020-september.md#2)|1 september|
 |Aanbiedingen/markten|[Microsoft Defender ATP (Advanced Threat Protection) voor Servers voor Education is nu beschikbaar](2020-september.md#1)|1 september|
 | **Categorie** | **Aankondigingen van augustus 2020** | **Datum** |
-|Functionaliteit|[API-updates en verbeteringen van de gebruikersinterface in Partnercentrum, voor het validatieproces voor Education-klanten](2020-august.md#8)|31 augustus|
+|Functies|[API-updates en verbeteringen van de gebruikersinterface in Partnercentrum, voor het validatieproces voor Education-klanten](2020-august.md#8)|31 augustus|
 |Aanbiedingen/markten|[Updates voor de Microsoft 365 Voice-promotie](2020-august.md#7)|14 augustus|
 |Functies|[SDK-release in .NET Standard v1.16.1](2020-august.md#6)|12 augustus|
 |Functies|[Self-serviceaankopen voor Microsoft Project en Microsoft Visio is binnenkort beschikbaar](2020-august.md#5)|12 augustus|
@@ -66,8 +67,8 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Aanbiedingen/markten|[Aankondiging van de beschikbaarheid van aanbiedingen voor Visio Abonnement 1- en Abonnement 2- proefversies ](2020-august.md#1)|3 augustus|
 | **Categorie** | **Aankondigingen van juli 2020** | **Datum** |
 |Aanbiedingen/markten|[Wijzigingen in de lancering van Enterprise Voice en van uitgebreide dial-out voor audiovergaderingen](2020-july.md#10)|31 juli|
-|Functionaliteit|[Wijzigingen gepland in de Partnercentrum-API's](2020-july.md#9)|28 juli|
-|Functionaliteit|[SDK-release in .NET Standard v1.16.1-preview](2020-july.md#8)|21 juli|
+|Functies|[Wijzigingen gepland in de Partnercentrum-API's](2020-july.md#9)|28 juli|
+|Functies|[SDK-release in .NET Standard v1.16.1-preview](2020-july.md#8)|21 juli|
 |Functies|[CSP-incentives (Cloud Solution Provider) voor in aanmerking komende Microsoft commerciële marketplace-aanbiedingen zijn uitgebreid voor FJ21](2020-july.md#7)|22 juli|
 |Functies|[Er zijn nieuwe mogelijkheden toegevoegd voor de rapporten met inzichten van Partnercentrum ](2020-july.md#6)|16 juli|
 |Aanbiedingen/markten|[Onbeperkt geldige software in het Cloud Solution Provider-programma ](2020-july.md#5)|15 juli|
@@ -77,35 +78,35 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 | **Categorie** | **Aankondigingen van juni 2020** | **Datum** |
 | Aanbiedingen/markten | [Nu beschikbaar: Windows 7 jaar 2 ESU voor CSP-partners](2020-june.md#6) | 29 juni |
 | Functies | [Update van de functie voor het verwijderen van een relatie in Partnercentrum](2020-june.md#5) | 29 juni |
-| Functionaliteit | [Factureringsfrequentie wordt standaard gewijzigd van maandelijks in jaarlijks](2020-june.md#4) | 17 juni |
+| Functies | [Factureringsfrequentie wordt standaard gewijzigd van maandelijks in jaarlijks](2020-june.md#4) | 17 juni |
 | Aanbiedingen/markten | [Wijzigingen in Microsoft 365 F1](2020-june.md#3) | 15 juni |
-| Functionaliteit | [Abonnementen op Windows Server-software voor Medium vernieuwen voor CSP](2020-june.md#2) | 12 juni |
+| Functies | [Abonnementen op Windows Server-software voor Medium vernieuwen voor CSP](2020-june.md#2) | 12 juni |
 | Aanbiedingen/markten | [Aanbiedingen en producten voor Microsoft Dynamics 365 en Power Platform (nieuw en einde-van-leven)](2020-june.md#1) | 11 juni |
-| Functionaliteit | [Twee of meer bedrijfsaccounts samenvoegen in Partnercentrum](../merge-accounts.md) | 9 juni |
+| Functies | [Twee of meer bedrijfsaccounts samenvoegen in Partnercentrum](../merge-accounts.md) | 9 juni |
 | **Categorie** | **Aankondigingen van mei 2020** | **Datum** |
-| Functionaliteit | [Microsoft 365 A3 – Correctie van de aanbieding voor Licentie zonder toezicht voor Education](2020-may.md#5) | 28 mei |
-| Functionaliteit | [Actieve klanten kunnen hun EP (Enhancement Plan) vernieuwen via het CSP-programma (Cloud Solution Provider), en onlinelicenties ontvangen](2020-may.md#4) | 26 mei |
-| Functionaliteit | [Adreswijziging voor Americas Operations Center](2020-may.md#3) | 15 mei |
+| Functies | [Microsoft 365 A3 – Correctie van de aanbieding voor Licentie zonder toezicht voor Education](2020-may.md#5) | 28 mei |
+| Functies | [Actieve klanten kunnen hun EP (Enhancement Plan) vernieuwen via het CSP-programma (Cloud Solution Provider), en onlinelicenties ontvangen](2020-may.md#4) | 26 mei |
+| Functies | [Adreswijziging voor Americas Operations Center](2020-may.md#3) | 15 mei |
 | Functies | [Microsoft gaat de verkoop van de zelfstandige Microsoft Kaizala Pro-SKU beëindigen](2020-may.md#2) | 7 mei |
-| Functionaliteit | [Nieuwe RPA-aanbiedingen (Robotic Process Automation) beschikbaar in Education-programma's](2020-may.md#1) | 1 mei |
+| Functies | [Nieuwe RPA-aanbiedingen (Robotic Process Automation) beschikbaar in Education-programma's](2020-may.md#1) | 1 mei |
 | **Categorie** | **Aankondigingen van april 2020** | **Datum** |
 | Functies | [Bijgewerkte CSP-promoties voor Office 365](2020-april.md#14) | 30 april |
-| Functionaliteit | [Nieuwe mogelijkheid voor zelfservice voor Azure Reservations-klanten met partnertoestemming](2020-april.md#13) | 29 april |
+| Functies | [Nieuwe mogelijkheid voor zelfservice voor Azure Reservations-klanten met partnertoestemming](2020-april.md#13) | 29 april |
 | Aanbiedingen/markten | [Microsoft heeft de prijs (euro's) van CSP voor Microsoft 365 E3 omgekeerd.](2020-april.md#12) | 24 april |
 | Functies | [HERINNERING: Activering van beveiligingsmaatregelen voor transacties in Partnercentrum in CSP](2020-april.md#11) | 23 april |
-| Functionaliteit | [De standaardaanpassingen in de Microsoft-klantovereenkomst zijn verplaatst](2020-april.md#10) | 21 april |
+| Functies | [De standaardaanpassingen in de Microsoft-klantovereenkomst zijn verplaatst](2020-april.md#10) | 21 april |
 | Aanbiedingen/markten | [Aankondiging dat MDATP (Microsoft Defender Advanced Threat Protection) voor servers vanaf 1 april 2020 beschikbaar is voor CSP.](2020-april.md#9) | 17 april |
 | Functies | [Adreswijziging voor Americas Operations Center](2020-april.md#8) |14 april |
 | Functies | [Commerciële Microsoft 365 E3 - Op 1 mei 2020 wordt Licentie zonder toezicht opnieuw gelanceerd](2020-april.md#7) |10 april |
 | Aanbiedingen/markten | [Nieuwe mogelijkheden voor uw Microsoft 365 Education-klanten met Microsoft 365 A5 Compliance](2020-april.md#6) | 10 april|
 | Aanbiedingen/markten | [Office 365 E1-proefversie is nu beschikbaar voor CSP-partners](2020-april.md#5) | 7 april |
 | Aanbiedingen/markten | [Dynamics 365 - Nieuwe producten uitgebracht](2020-april.md#4) | 6 april |
-| Functionaliteit | [Nu beschikbaar: resources voor Operations-gereedheid, op één plek](2020-april.md#3) | 3 april |
+| Functies | [Nu beschikbaar: resources voor Operations-gereedheid, op één plek](2020-april.md#3) | 3 april |
 | Aanbiedingen/markten | [Vanaf 1 april 2020 is Microsoft 365 Business Voice beschikbaar voor CSP-partners](2020-april.md#2) | 1 april |
 | Functies | [Partners moeten de Microsoft Partner-overeenkomst hebben geaccepteerd.](2020-april.md#1) | 1 april |
 | **Categorie** | **Aankondigingen van maart 2020** | **Datum** |
 | Aanbiedingen/markten | [Microsoft heeft vanaf 21 april 2020 de naam van de aanbiedingen voor Office 365 SMB (kleine en middelgrote bedrijven) gewijzigd](2020-march.md#7) | 30 maart |
-| Functionaliteit | [Nieuwe mogelijkheden in Partnercentrum helpen directe factureringspartners om indirecte reseller te worden](2020-march.md#6) | 20 maart |
+| Functies | [Nieuwe mogelijkheden in Partnercentrum helpen directe factureringspartners om indirecte reseller te worden](2020-march.md#6) | 20 maart |
 | Aanbiedingen/markten | [Nieuwe Microsoft 365-SKU op instapniveau, voor eerstelijnswerknemers - CSP](2020-march.md#5) | 10 maart |
 | Functies | [Bijgewerkt: Wijzigingen in de validatie van Education-klanten in CSP](2020-march.md#4) | 10 maart |
 | Aanbiedingen/markten | [Updates voor Microsoft 365-cloudserviceprovider - april 2020](2020-march.md#3) |9 maart |
@@ -113,19 +114,19 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 | Aanbiedingen/markten | [Nu beschikbaar: zelfstandige versie van MDATP (Microsoft Defender Advanced Threat Protection) voor CSP.](2020-march.md#1) | 2 maart |
 | **Categorie** | **Aankondigingen van februari 2020** | **Datum** |
 | Aanbiedingen/markten | [Nieuw proces voor het indienen van tegoedaanvragen voor voorheffing van belastingen](2020-february.md#9) | 25 februari |
-| Functionaliteit | [Mogelijkheid om de nieuwe Microsoft-klantovereenkomst te accepteren is nu beschikbaar.](2020-february.md#8) | 25 februari |
+| Functies | [Mogelijkheid om de nieuwe Microsoft-klantovereenkomst te accepteren is nu beschikbaar.](2020-february.md#8) | 25 februari |
 | Aanbiedingen/markten | [Prijslijst op basis van licenties - preview van maart bijgewerkt](2020-february.md#7) | 19 februari |
-| Functionaliteit | [Stap vóór 29 februari 2020 over van basislijnbeleid op standaardinstellingen voor beveiliging](2020-february.md#6) | 12 februari |
+| Functies | [Stap vóór 29 februari 2020 over van basislijnbeleid op standaardinstellingen voor beveiliging](2020-february.md#6) | 12 februari |
 | Aanbiedingen/markten | [Op 1 februari 2020 worden aanbiedingen voor audiovergaderingen geïntroduceerd bij multinationals met gebruikers in India](2020-february.md#5) | 5 februari |
-| Functionaliteit | [Nieuw prijzenoverzicht en nieuwe wisselkoers-API's beschikbaar voor prijzen van Azure-abonnementen](2020-february.md#4) |4 februari |
+| Functies | [Nieuw prijzenoverzicht en nieuwe wisselkoers-API's beschikbaar voor prijzen van Azure-abonnementen](2020-february.md#4) |4 februari |
 | Functies | [Wijzigingen in de ondersteuningservaring van Partnercentrum](2020-february.md#3) | 4 februari |
 | Functies | [Nu vereist: Acceptatie van Microsoft-klantovereenkomst in CSP.](2020-february.md#2) | 4 februari |
 | Aanbiedingen/markten | [Microsoft heeft extra Dynamics 365-producten uitgebracht, met ingang van 1 februari 2020](2020-february.md#1) | 3 februari |
 | **Categorie** | **Aankondigingen van januari 2020** | **Datum** |
 | Aanbiedingen/markten | [Vanaf 1 februari 2020 zijn Windows Server- en SQL Server-abonnementen beschikbaar voor CSP-partners (Cloud Solution Provider) in Rusland](2020-january.md#7) | 31 jan |
 | Aanbiedingen/markten | [De invoegtoepassingen voor vergaderruimten en vergaderingen voor Microsoft 365 F1 zijn nu beschikbaar voor GCC (Government Community Cloud)](2020-january.md#6) | 29 jan |
-| Functionaliteit | [Nu beschikbaar. Self-serviceaankopen voor Power Apps en Power Automate, voor commerciële klanten in de VS](2020-january.md#5) | 28 jan |
-| Functionaliteit | [Aankondiging van een nieuw rapportagedashboard in Partnercentrum](2020-january.md#4) |27 jan |
+| Functies | [Nu beschikbaar. Self-serviceaankopen voor Power Apps en Power Automate, voor commerciële klanten in de VS](2020-january.md#5) | 28 jan |
+| Functies | [Aankondiging van een nieuw rapportagedashboard in Partnercentrum](2020-january.md#4) |27 jan |
 | Functies | [Vergeet niet om de acceptatie van de Microsoft-klantovereenkomst vóór 31 januari 2020 te bevestigen](2020-january.md#3) | 27 jan |
 | Functies | [Updateplanning voor prijslijst en aanbiedingen voor januari 2020](2020-january.md#2) | 7 jan |
 | Aanbiedingen/markten | [Microsoft heeft extra Dynamics 365-producten, en meer, uitgebracht, met ingang van 1 februari 2020](2020-january.md#1) | 2 jan |
