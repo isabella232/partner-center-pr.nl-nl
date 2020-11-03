@@ -45,7 +45,7 @@ Het groeiend en optimaliseren van het Microsoft Cloud Solution Provider-programm
 
 Vandaag delen we een paar aanstaande wijzigingen in de vereisten voor directe factuur partners in het Cloud Solution Provider-programma.
 
-Eerst **wordt een prestatie norm geïntroduceerd als onderdeel van de vereisten voor de directe factuur partner** . Partners die zich willen inschrijven als directe factuur partners in het Cloud Solution Provider-programma, moeten voldoen aan ten minste USD300K in de omzet van het Cloud Solution Provider-programma gedurende de 12 maanden vóór de vereiste datum voor de verlenging van de [ondersteunings contract](https://partner.microsoft.com/support/partnersupport) .
+Eerst **wordt een prestatie norm geïntroduceerd als onderdeel van de vereisten voor de directe factuur partner**. Partners die zich willen inschrijven als directe factuur partners in het Cloud Solution Provider-programma, moeten voldoen aan ten minste USD300K in de omzet van het Cloud Solution Provider-programma gedurende de 12 maanden vóór de vereiste datum voor de verlenging van de [ondersteunings contract](https://partner.microsoft.com/support/partnersupport) .
 
 Deze prestatie norm wordt in januari 2021 van kracht voor actuele directe factuur partners, en u moet voldoen aan de vereisten voor de vernieuwings datum van uw partner ondersteunings abonnement.
 
@@ -63,7 +63,7 @@ Bekijk de bijgewerkte vereisten en aanbevelingen voor de [directe factuur partne
 
 **Bestaande partners** die momenteel zijn geregistreerd in het Cloud Solution Provider-programma als directe factuur partners, moeten voldoen aan de nieuwe prestatie norm vanaf januari 2021. U hebt de tijd tot uw abonnement voor het ondersteunings plan van de volgende partner aan de vereisten voldoet. U kunt uw afsluitende omzet van twaalf maanden bekijken in het partner centrum door [deze hand leiding](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)te volgen.
 
-Nieuwe partners die in het Cloud Solution Provider-programma worden inge schreven, worden gestart als indirecte wederverkopers vanaf **oktober 2020** . Ze moeten gedurende de afgelopen 12 maanden ten minste USD300K hebben voor de CSP-omzet. U kunt uw afsluitende omzet van 12 maanden bekijken in het partner centrum door [deze hand leiding](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)te volgen. 
+Nieuwe partners die in het Cloud Solution Provider-programma worden inge schreven, worden gestart als indirecte wederverkopers vanaf **oktober 2020**. Ze moeten gedurende de afgelopen 12 maanden ten minste USD300K hebben voor de CSP-omzet. U kunt uw afsluitende omzet van 12 maanden bekijken in het partner centrum door [deze hand leiding](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)te volgen. 
 
 2. **vereiste voor ondersteunings contract** 
 
