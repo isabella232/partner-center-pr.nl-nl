@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917248"
+ms.locfileid: "93027904"
 ---
 # <a name="october-2020-announcements"></a>Aankondigingen van oktober 2020
 
@@ -23,6 +23,42 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 2020 mede delingen: [maart](2020-march.md)  |  [april](2020-april.md)  |  [mei](2020-may.md)juni tot en met  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [september](2020-september.md) | Oktober
 
 ______________
+
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Windows 10 education-upgrade is nu beschikbaar voor klanten met een geschikte Cloud Solution Provider (CSP) onderwijs
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-10-28
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+CSP-partners die Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnementen voor hun onderwijs klanten hebben aangeschaft, kunnen ze nu helpen hun Windows 10 Home-apparaten te upgraden naar Windows 10 education.
+
+### <a name="impacted-audience"></a>Doel groep
+
+CSP-partners die Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnementen voor hun onderwijs klanten hebben gekocht
+
+### <a name="details"></a>Details
+
+Vanaf 1 november 2020 kunnen Csp's die Microsoft 365 a3/A5 of Windows 10 Enter prise a3/A5-abonnementen hebben aangeschaft, hun onderwijs gebruikers upgraden van Windows 10 Home naar Windows 10 onderwijs, dat is ontworpen voor zowel het klas lokaal als het onderwijs op afstand.
+
+Van 1 november 2020 is Windows 10 Home een in aanmerking komend besturings systeem voor onderwijs klanten waarvoor een licentie is verkregen via de Microsoft Cloud overeenkomst (via CSP). Deze Beschik baarheid, die tot nu toe alleen beschikbaar is in onderwijs Programma's voor volume licenties (VL), is ingeschakeld via Microsoft 365-beheer Portal ondersteuning. 
+
+#### <a name="how-the-upgrade-process-works"></a>Hoe het upgrade proces werkt
+
+CSP-partners kunnen hun klanten helpen bij te werken door een ondersteunings aanvraag in hun naam in te dienen. De aanvraag wordt door Microsoft Ondersteuning gecontroleerd om ervoor te zorgen dat uw klant hiervoor in aanmerking komt. Zodra de aanvraag is goedgekeurd, wordt de Windows 10 Pro education-sleutel aan de klant verstrekt.
+
+Wanneer de klant de sleutel installeert en het apparaat wordt toegevoegd aan het Tenant domein via Azure Active Directory (AAD), wordt het apparaat automatisch bijgewerkt naar Windows 10 education (abonnement).   
+
+Meer informatie over het uitvoeren van een upgrade van klanten vindt u in het [onderwerp stapsgewijze hand leiding en veelgestelde vragen](../upgrade-windows-to-education.md).
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Meld u aan bij uw in aanmerking komende klanten en leid deze door met het stapsgewijze proces.
+- Deel deze informatie met de juiste personen in uw organisatie.  
+
+________________
 
 ## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>De digitale ervaring van de Cloud Solution Provider (CSP) is nu beschikbaar
 
@@ -46,7 +82,7 @@ Deze nieuwe digitale ervaring bevat:
 - Het nieuwe programma Cloud Solution Provider Guidebook om partners te helpen bij het identificeren van nieuwe kansen: in deze stapsgewijze hand leiding vindt u informatie over het versnellen van de groei van uw bedrijfs activiteiten met het programma en het uitbreiden van de omzet kansen.
 - Inhoud van het CSP-programma in de oplossings werkruimte: oplossings werkruimte is een digitale ervaring die u één bestemming biedt voor on-demand bronnen om uw ideeën sneller op de markt te brengen. Service providers kunnen nu CSP-programma-specifieke inhoud en resources vinden in de werk ruimte oplossing.
 
-### <a name="additional-resources"></a>Aanvullende resources
+### <a name="additional-resources"></a>Aanvullende bronnen
 
 - Ga naar [de pagina met de vernieuwde CSP](https://aka.ms/CSP) 
 - Bekijk [de nieuwe CSP-programma Guidebook](https://aka.ms/cspguidebook) en meer informatie over groei kansen
@@ -84,7 +120,7 @@ De [Azure SQL Edge](2020-september.md#9) is op eind september 2020 uitgegeven. H
 
 U kunt alle prijs lijsten voor het CSP-partner centrum vinden door u aan te melden bij het partner centrum en te navigeren naar verkoop/aanbiedingen en prijzen.
 
-### <a name="additional-resources"></a>Aanvullende resources
+### <a name="additional-resources"></a>Aanvullende bronnen
 
 - [Pagina Veelgestelde vragen over ondersteuning voor Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
 - [Windows 7-ondersteuning en-Microsoft 365-apps](/deployoffice/endofsupport/windows-7-support)
@@ -298,7 +334,7 @@ Deze aanbiedingen zijn van invloed op de volgende klanten:
 - Net nieuwe klant tenants
 - Bestaande tenants van klanten die geen actieve of recent geannuleerde abonnementen (binnen de afgelopen 30 dagen) hebben ontvangen voor een zakelijke Voice-of audio conferencing-licentie op CSP, Web direct of andere micro soft-commerciële kanalen
 
-#### <a name="additional-resources"></a>Aanvullende resources
+#### <a name="additional-resources"></a>Aanvullende bronnen
 
 - Ga naar de [pagina Microsoft 365 Business Voice-partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) voor meer informatie over zakelijke Voice. 
 - Raadpleeg audio conferencing in Microsoft 365 voor meer informatie over de [mogelijkheden van audio vergaderingen](/microsoftteams/audio-conferencing-in-office-365).
@@ -555,7 +591,7 @@ Op 1 november 2020 brengt micro soft de volgende nieuwe en bijgewerkte versies v
 - Dynamics 365 Customer Voice gebruikers abonnements licentie (GEBRUIKERSABONNEMENTSLICENTIES) 
 - Aanbiedingen in CSP uitvouwen
 
-### <a name="additional-resources"></a>Aanvullende resources
+### <a name="additional-resources"></a>Aanvullende bronnen
 
 - Bekijk het tabblad project bewerkingen in het [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel-document voor details van de aanbiedings-id.
 - Meer informatie vindt u op de [Start pagina van micro soft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/).

@@ -295,9 +295,6 @@
         - name: PoE (proof of execution) maken
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Een belastingfactuur indienen als PoE
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Coöperatieve claims voor Incentives
       items:
         - name: Coöperatieve claims voor Incentives
