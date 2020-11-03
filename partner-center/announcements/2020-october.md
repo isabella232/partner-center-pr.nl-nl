@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.date: 10/30/2020
+ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93027904"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132824"
 ---
 # <a name="october-2020-announcements"></a>Aankondigingen van oktober 2020
 
@@ -23,6 +23,28 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 2020 mede delingen: [maart](2020-march.md)  |  [april](2020-april.md)  |  [mei](2020-may.md)juni tot en met  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [september](2020-september.md) | Oktober
 
 ______________
+
+## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Updates van onderdelen van Windows Server-software
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-10-29
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+Cloud Solution Provider (CSP)-partners die eerder Windows Server Standard-software abonnementen hebben aangeschaft
+
+### <a name="details"></a>Details
+
+Micro soft kondigt de release van een nieuwe functie-update voor Windows Server-software-abonnementen op de CSP toe op 30 oktober 2020. De update bevat Windows Server software Subscription-producten: Windows Server Standard, **Version 20H2** (CSP-product-id: DG7GMGF0DVT9). Het bijgewerkte Download bestand is nu beschikbaar voor dit product. Partners kunnen ervoor kiezen om het meest recente bestand te downloaden om de nieuwe functies te krijgen.
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Deel deze informatie met de juiste contact personen in uw organisatie.
+- Raadpleeg de [documentatie van Windows Server versie 20H2](/windows/release-information/status-windows-10-20h2)
+
+________________
 
 ## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Windows 10 education-upgrade is nu beschikbaar voor klanten met een geschikte Cloud Solution Provider (CSP) onderwijs
 
