@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/28/2020
-ms.openlocfilehash: 760e0157437dbad74c779100123b4239083ca6b7
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.date: 10/29/2020
+ms.openlocfilehash: 7b965bff0a962e26e5e5800a6059e4a6fc7a1d6a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917141"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045380"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Vereisten voor inschrijving als een CSP-partner voor directe facturering
 
@@ -24,27 +24,26 @@ ms.locfileid: "92917141"
 
 ## <a name="enroll-as-a-direct-partner"></a>Inschrijven als een directe partner
 
-Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw klant en met micro soft. We hebben de inschrijvings vereisten voor de directe factuur partners bijgewerkt vanaf 31 augustus 2018. Deze nieuwe vereisten helpen u bij het versnellen van de groei van uw bedrijf met het juiste CSP-inschrijvings model. Ze helpen u ook om uw klant relaties te versterken met services die zijn toegevoegd aan toegevoegde waarde en ondersteuning.
+Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw klant en met micro soft. Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw klant en met micro soft. We hebben vanaf 27 oktober 2020 de inschrijvings vereisten voor directe factuur partners bijgewerkt. Aan de hand van deze vereisten kunt u de groei van uw bedrijf versnellen met het juiste provider model voor cloud oplossingen en uw klant relaties versterken met services die zijn toegevoegd aan toegevoegde waarde en ondersteuning.  
 
 ### <a name="minimum-requirements"></a>Minimale vereisten
 
-|**Vereiste**| **Uitleg**|
+|**Vereiste**|                |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN-id**   |Een MPN-ID (Active Microsoft Partner Network) voor uw bedrijfs locatie.    |
+|**MPN-id**   |Een actief lidmaatschap van de Microsoft Partner Network en MPN-ID voor de locatie waar u wilt verkopen.   |
 |**Goedkeurings**   |De autoriteit om juridische overeenkomsten namens uw organisatie te accepteren en te ondertekenen.|
-|**CONT**|Moet voldoen aan ten minste USD300K in het Cloud Solution Provider-programma jaarlijkse omzet tijdens de voorafgaande twaalf maanden als een indirecte wederverkoper. Partners kunnen hun navolgende twaalf maanden aan opbrengst van het partner centrum beoordelen. de verkoop waaruit uw USD300K-afsluitende opbrengst van twaalf maanden bestaan, is onderhevig aan de beoordeling en verificatie door micro soft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De vereiste voor de USD300K-omzet wordt berekend op basis van de Cloud omzet en zal permanente software in CSP uitsluiten. Raadpleeg de [analyse van abonnementen](https://partner.microsoft.com/dashboard/analytics/licenseanalytics) voor meer informatie over de vorige omzet van 12 maanden.|
-|**Ondersteuning**   |De mogelijkheid om het eerste niveau van Cloud product ondersteuning te bieden aan uw klanten. <br/>Een micro soft-ondersteunings plan, een geavanceerde ondersteuning voor partners (ASfP) of Premier Support voor partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteunings abonnementen](https://partner.microsoft.com/support/partnersupport).<br/> BELANG rijk: u moet een krediet controle door lopen voordat u een ondersteunings abonnement kunt aanschaffen. We sturen u een e-mail wanneer u de krediet controle hebt door gegeven. |
-|**Beheerde service**   |Ten minste één beheerde service, IP-service of klant oplossings toepassing. Meer informatie over het toevoegen van [beheerde services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
+|**Ondersteuning**   |De mogelijkheid om het eerste niveau van Cloud product ondersteuning te bieden aan uw klanten. <br/>Een micro soft-ondersteunings plan, een geavanceerde ondersteuning voor partners (ASfP) of Premier Support voor partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteunings abonnementen](https://partner.microsoft.com/support/partnersupport).<br/>BELANG rijk: u moet een krediet controle door lopen voordat u een ondersteunings abonnement kunt aanschaffen. We sturen u een e-mail wanneer u de krediet controle hebt door gegeven. |
+|**Opbrengst vereiste**|Moet voldoen aan ten minste USD300K in het Cloud Solution Provider-programma jaarlijkse omzet tijdens de voorafgaande twaalf maanden als een indirecte wederverkoper. Partners kunnen hun navolgende twaalf maanden aan omzet van het partner centrum beoordelen.<br/>De verkoop waaruit uw USD300K-afsluitende 12 maanden bestaan, is onderhevig aan controle en verificatie door micro soft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De vereiste voor de USD300K-omzet wordt berekend op basis van de Cloud omzet en zal permanente software in CSP uitsluiten.|
 |**Debiteuren** |De organisatie-infra structuur voor het beheren van facturering en inrichting van klanten.|
+|**Aanbeveling**|             |
+|**Beheerde service**   |Ten minste één beheerde service, IP-service of klant oplossings toepassing. Meer informatie over het toevoegen van [beheerde services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
+
 
 ### <a name="verify-direct-bill-eligibility"></a>Geschiktheid voor direct betalen controleren
 
-Als u dit nog niet hebt gedaan, controleert u de minimale vereisten hierboven om te controleren of u eraan kunt voldoen en voert u de [vragen lijst van de Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider/assessment)uit.
+Nadat u hebt gecontroleerd of u voldoet aan de minimum vereisten voor inschrijving als een directe factuur partner, kunt u door gaan naar het [inschrijvings formulier](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
 
-We gebruiken uw antwoorden op de vragen in het formulier om ons te helpen bepalen of u in aanmerking komt voor inschrijving in het CSP-programma als een directe factuur partner.
-
-Nadat we hebben gecontroleerd of uw bedrijf aan de vereisten voldoet om zich in te schrijven als een directe factuur partner en dat u de inschrijvings toepassing hebt voltooid, worden de Bedrijfs gegevens die u in het inschrijvings proces hebt verstrekt, gecontroleerd en geverifieerd. Als onderdeel van deze beoordeling controleren we het tegoed van uw bedrijf. We laten u weten per e-mail wanneer uw bedrijf de krediet controle heeft door gegeven.
-
+Nadat u hebt gecontroleerd of uw bedrijf voldoet aan de vereisten om zich te registreren als een directe factuur partner en u de inschrijvings toepassing hebt voltooid, worden de Bedrijfs gegevens die u in het inschrijvings proces hebt verstrekt, gecontroleerd en geverifieerd. Als onderdeel van deze beoordeling controleren we het tegoed van uw bedrijf. We laten u weten per e-mail wanneer uw bedrijf de krediet controle heeft door gegeven.
 >[!IMPORTANT]
 >Het controleren van het tegoed van uw bedrijf kan ons enkele dagen of langer duren. Gedurende deze periode is het belang rijk dat u geen micro soft-ondersteunings abonnement aanschaft. U moet alleen een micro soft-ondersteunings abonnement aanschaffen wanneer u hebt gemeld dat u de krediet controle hebt door gegeven.
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749736"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795809"
 ---
 # <a name="october-2020-announcements"></a>Aankondigingen van oktober 2020
 
@@ -57,7 +57,7 @@ Ten tweede, in augustus 2018, hebben we de vereisten voor de directe factuur par
 
 ### <a name="direct-bill-partner-requirements"></a>Vereisten voor de directe factuur partner
 
-Bekijk de bijgewerkte vereisten en aanbevelingen voor de [directe factuur partner](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) om te evalueren hoe u een winstgevender bedrijf kunt bouwen en uitbreiden met het juiste model in het Cloud Solution Provider-programma:
+Bekijk de bijgewerkte vereisten en aanbevelingen voor de [directe factuur partner](../direct-partner-new-requirements.md#minimum-requirements) om te evalueren hoe u een winstgevender bedrijf kunt bouwen en uitbreiden met het juiste model in het Cloud Solution Provider-programma:
 
 1. **vereiste voor nieuwe omzet prestaties**
 
@@ -80,11 +80,11 @@ Vergelijk de [Opties voor ondersteunings contract](https://partner.microsoft.com
 
 Om ervoor te zorgen dat u klaar en bekend bent met betrekking tot de infra structuur die nodig is voor de ondersteuning van het directe factuur programma, hebben we enkele extra aanbevelingen. Laat zien dat u ten minste één beheerde service, een IP-service of een oplossings toepassing voor klanten hebt. Partners moeten een waarde toevoegen boven aan Microsoft Cloud Services en niet alleen een rechtstreekse wederverkoop van onze services doen. Het is een belang rijk onderdeel van de go-to-Market-strategie van een partner. Meer [informatie](https://partner.microsoft.com/solutions/managed-services) over het toevoegen van beheerde services. We raden u aan om te voldoen aan de minimale infrastructuur mogelijkheden, zoals facturering en inrichting. 
 
-Directe-factuur partners in het CSP-programma die niet aan de nieuwe vereisten voldoen, moeten zich opnieuw registreren als indirecte wederverkopers in het programma binnen de Microsoft Partner Network. Meer [informatie](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) over hoe u de overgang van een directe factuur partner kunt maken naar een indirecte wederverkoper.  
+Directe-factuur partners in het CSP-programma die niet aan de nieuwe vereisten voldoen, moeten zich opnieuw registreren als indirecte wederverkopers in het programma binnen de Microsoft Partner Network. Meer [informatie](../transition-direct-to-indirect.md) over hoe u de overgang van een directe factuur partner kunt maken naar een indirecte wederverkoper.  
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de [bijgewerkte vereisten voor de directe factuur partner](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements).
+- Bekijk de [bijgewerkte vereisten voor de directe factuur partner](../direct-partner-new-requirements.md#minimum-requirements).
 - Lees de veelgestelde vragen en andere informatie in de [resource galerie voor bewerkingen op de website van micro soft partner](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
 - Zoek [een indirecte provider om mee te werken](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) als de optie voor de indirecte wederverkoper beter aansluit bij uw bedrijfs behoeften.
 ________________________________
@@ -232,7 +232,7 @@ Deze aanbiedingen zijn van invloed op de volgende klanten:
 #### <a name="additional-resources"></a>Aanvullende bronnen
 
 - Ga naar de [pagina Microsoft 365 Business Voice-partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) voor meer informatie over zakelijke Voice. 
-- Raadpleeg audio conferencing in Microsoft 365 voor meer informatie over de [mogelijkheden van audio vergaderingen](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365).
+- Raadpleeg audio conferencing in Microsoft 365 voor meer informatie over de [mogelijkheden van audio vergaderingen](/microsoftteams/audio-conferencing-in-office-365).
 - Meer informatie over deze promoties vindt u in de [Veelgestelde vragen](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)over gerelateerde partners.
 
 ### <a name="next-steps"></a>Volgende stappen
@@ -273,7 +273,7 @@ Hier is what's nieuw in de Azure Portal:
 
 - Flexibele navigatie waarmee u gegevens in een wille keurige sectie kunt weer geven, bewerken en opslaan zonder dat u de vorige sectie hoeft te volt ooien.
 - Nieuwe volledige pagina zonder meerdere geneste niveaus.
-- Nieuwe functionaliteit voor het coderen en organiseren van Azure-resources. Zie [Tags gebruiken om uw Azure-resources te organiseren](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources)voor meer informatie over labelen.
+- Nieuwe functionaliteit voor het coderen en organiseren van Azure-resources. Zie [Tags gebruiken om uw Azure-resources te organiseren](/azure/azure-resource-manager/management/tag-resources)voor meer informatie over labelen.
 
 Als u vragen hebt over deze wijzigingen, neemt u contact op met ons [ondersteunings team](https://aka.ms/marketplacepublishersupport).
 
@@ -490,7 +490,7 @@ Op 1 november 2020 brengt micro soft de volgende nieuwe en bijgewerkte versies v
 
 - Bekijk het tabblad project bewerkingen in het [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel-document voor details van de aanbiedings-id.
 - Meer informatie vindt u op de [Start pagina van micro soft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/).
-- Bekijk de [nieuwe aankondigings aanbieding](https://docs.microsoft.com/partner-center/announcements/2020-september#3)van september Dynamics.
+- Bekijk de [nieuwe aankondigings aanbieding](2020-september.md#3)van september Dynamics.
 
 ________________
 
