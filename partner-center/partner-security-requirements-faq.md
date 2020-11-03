@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "92528635"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133045"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Veelgestelde vragen over de beveiligings vereisten van de partner
+# <a name="common-questions-about-partner-security-requirements"></a>Veelgestelde vragen over de beveiligings vereisten van partners
 
 **Van toepassing op**
 
@@ -26,17 +26,16 @@ ms.locfileid: "92528635"
 
 - Alle ingeschakelde gebruikers, inclusief gast gebruikers
 
-## <a name="partner-security-requirements"></a>Beveiligings vereisten voor partners
 
-Dit artikel bevat enkele veelgestelde vragen over de [beveiligings vereisten](partner-security-requirements.md)van de partner.
+In dit artikel vindt u antwoorden op enkele veelgestelde vragen over de [beveiligings vereisten](partner-security-requirements.md)van de partner.
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Wat zijn de beveiligings vereisten van de partner en waarom moeten partners worden geïmplementeerd?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Wat zijn de beveiligings vereisten van de partner en waarom moeten partners deze implementeren?
 
 Meer en voortdurende beveiligings-en privacy-veiligheids maatregelen zijn te vinden op onze belangrijkste prioriteiten en we blijven onze klanten en tenants helpen beveiligen. We blijven een geavanceerder en uitgebreid aantal beveiligings aanvallen zien, voornamelijk gerelateerd aan incidenten met betrekking tot identiteits inbreuken. Als preventieve controles een belang rijke rol spelen in een algemene verdedigings strategie om beveiligings aanvallen te tegen gaan, hebben we [verplichte beveiligings vereisten](partner-security-requirements.md) geïntroduceerd in 2019. Alle partners die deel nemen aan het programma Cloud Solution Provider (CSP), leveranciers van het configuratie scherm en Advisor, moeten de vereisten implementeren om te blijven voldoen aan het beleid.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Wat zijn de belangrijkste tijd lijnen en mijl palen?
 
-De voor waarden die zijn gekoppeld aan deze beveiligings vereisten, waaronder tijd lijnen en mijl palen, zijn opgenomen in de [micro soft-partner overeenkomst](microsoft-partner-agreement.md) in 2019. U moet deze beveiligings vereisten zo snel mogelijk implementeren om te blijven voldoen aan uw deelname aan het CSP-programma.
+De voor waarden die zijn gekoppeld aan deze beveiligings vereisten, waaronder tijd lijnen en mijl palen, zijn opgenomen in de [micro soft-partner overeenkomst](microsoft-partner-agreement.md). U moet deze beveiligings vereisten zo snel mogelijk implementeren om te blijven voldoen aan uw deelname aan het CSP-programma.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Wat gebeurt er als de beveiligings vereisten van de partner niet worden geïmplementeerd?
 
@@ -46,11 +45,11 @@ Partners die zich niet houden aan deze beveiligings procedures, kunnen de mogeli
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Zijn de beveiligings vereisten van toepassing op alle geographs?
 
-Ja, de beveiligings vereisten zijn van toepassing op alle geographs. We raden u ten zeerste aan alle partners die door middel van een soevereine Cloud (21Vianet, Amerikaanse overheid en Duitsland) handelen, in te voeren en deze nieuwe beveiligings vereisten onmiddellijk aan te nemen. Deze partners zijn echter niet verplicht om te voldoen aan de nieuwe beveiligings vereisten met ingang van 1 augustus. Micro soft geeft in de toekomst aanvullende informatie over de afdwinging van deze beveiligings vereisten voor soevereine Clouds.
+Ja, de beveiligings vereisten zijn van toepassing op alle geographs. We raden u ten zeerste aan alle partners door middel van een soevereine Cloud (Amerikaanse overheid en Duitsland) te handelen en deze nieuwe beveiligings vereisten onmiddellijk aan te nemen. Deze partners zijn momenteel echter niet vereist om te voldoen aan de beveiligings vereisten. Micro soft geeft in de toekomst aanvullende informatie over de afdwinging van deze beveiligings vereisten voor soevereine Clouds.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Is het mogelijk een uitsluiting voor een account te krijgen?
 
-Nee, het is niet mogelijk om een gebruikers account uit te sluiten van de vereiste dat MFA moet worden afgedwongen. Gezien de zeer beschermde aard van een partner, vereist de micro soft-partner overeenkomst dat multi-factor Authentication wordt afgedwongen voor elk gebruikers account in uw partner Tenant.
+Nee, het is niet mogelijk om een gebruikers account uit te sluiten van de vereiste voor het afdwingen van multi-factor Authentication (MFA). Gezien de zeer beschermde aard van een partner, vereist de micro soft-partner overeenkomst dat multi-factor Authentication wordt afgedwongen voor elk gebruikers account in uw partner Tenant.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Hoe kan ik weet ik of ik aan de beveiligings vereisten van de partner heb voldaan?
 
@@ -97,7 +96,7 @@ Alle partners in het CSP-programma (directe factuur, indirecte provider en indir
 
 ## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
-### <a name="what-is-multi-factor-authentication-mfa"></a>Wat is Multi-Factor Authentication (MFA)?
+### <a name="what-is-multi-factor-authentication-mfa"></a>Wat is multi-factor Authentication (MFA)?
 
 MFA is een beveiligings mechanisme, waarbij individuen worden geverifieerd via meer dan één vereiste beveiligings-en validerings procedure. Het werkt met twee of meer van de volgende verificatie methoden:
 
@@ -308,7 +307,7 @@ De technische afdwinging voor de beveiligings vereisten van de partner wordt gec
 
 Azure Active Directory (Azure AD) ["baseline"-beleids regels worden verwijderd en vervangen](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) door "standaard instellingen voor beveiliging", een uitgebreidere reeks beveiligings beleidsregels voor u en uw klanten. Met [standaard instellingen voor beveiliging](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) kunt u uw organisatie beschermen tegen beveiligings aanvallen met betrekking tot identiteits diefstal.
 
-Uw MFA-implementatie (multi-factor Authentication) wordt verwijderd als gevolg van het buiten gebruik stellen van basislijn beleid als u niet hebt overgeschakeld van basislijn beleidsregels naar het beleid voor beveiligings standaarden of [andere opties voor MFA-implementatie](partner-security-requirements.md#actions-that-you-need-to-take). Gebruikers in uw partner-tenants die MFA beveiligde bewerkingen uitvoeren, worden gevraagd MFA-verificatie te volt ooien. Bekijk [hier](partner-security-requirements-mandating-mfa.md)meer gedetailleerde richt lijnen.
+Uw MFA-implementatie (multi-factor Authentication) wordt verwijderd als gevolg van het buiten gebruik stellen van basislijn beleid als u niet hebt overgeschakeld van basislijn beleidsregels naar het beleid voor beveiligings standaarden of [andere opties voor MFA-implementatie](partner-security-requirements.md#implementing-multi-factor-authentication). Gebruikers in uw partner-tenants die MFA beveiligde bewerkingen uitvoeren, worden gevraagd MFA-verificatie te volt ooien. Bekijk [hier](partner-security-requirements-mandating-mfa.md)meer gedetailleerde richt lijnen.
 Voer een van de volgende acties uit om te blijven voldoen en onderbrekingen tot een minimum te beperken:
 
 - Overgang naar standaard instellingen voor beveiliging

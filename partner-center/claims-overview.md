@@ -1,7 +1,7 @@
 ---
 title: Overzicht van prikkels en claims
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Meer informatie over het indienen van een succes volle mede-op-claim voor uw prikkels door de juiste documentatie, facturen, verklaringen en het bewijs van de uitvoering te organiseren.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528461"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133079"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Coöperatieve marketing fondsen verdienen
 
@@ -41,6 +41,9 @@ Meer informatie vindt u op de pagina [mede-op-funds-resources](https://partner.m
 Micro soft berekent de in aanmerking komende belonings winst met behulp van een gesplitst percentage (zoals 60% korting-40% co-op). U ontvangt het deel van de korting met behulp van de bestaande afbetalings uitgebracht voor uw afzonderlijke programma, terwijl micro soft het co-gedeelte van de winst van het inkomen zal toenemen.
 
 Meer informatie over het afbetalings uitgebracht en het percentage splitsen vindt u in de programma gids voor prikkels. Gebruik [deze procedure](incentives-determined-your-program-eligibility.md) om toegang te krijgen tot uw programma gids.
+
+>[!NOTE]
+>Als uw mede-op-inkomsten lager zijn dan de drempel waarde voor de op te betalen periode, wordt de mede-op-inkomsten omgezet in een korting aan het einde van het semester. Raadpleeg uw prikkel programma-gids voor meer informatie of om het drempel bedrag te bepalen.
 
 ## <a name="when-to-claim-your-funds"></a>Wanneer u uw fondsen claimt
 
@@ -75,4 +78,4 @@ Aan de hand van de volgende resources kunt u aan de slag met het werken met mede
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Aan de slag met prikkels](incentives-get-started-intro.md)
+- [Aan de slag gaan met Incentives](incentives-get-started-intro.md)

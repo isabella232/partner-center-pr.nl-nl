@@ -1,7 +1,7 @@
 ---
 title: Beveiligings vereisten voor partners
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Introduceert de partner vereisten om multi-factor Authentication (MFA) in te scha kelen en het Framework van het veilige toepassings model te gebruiken.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "92528654"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680383"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Partner beveiligings vereisten voor partners die partner Center-of partner Center-Api's gebruiken
 
@@ -58,7 +58,7 @@ Als u wilt voldoen aan de vereisten voor de beveiliging van de partner, moet u m
 
 - Aankoop Azure Active Directory Premium voor elk gebruikers account. Zie [een Cloud implementatie van Azure multi-factor Authentication plannen](/azure/active-directory/authentication/howto-mfa-getstarted)voor meer informatie.
 
-- Het gebruik van een oplossing van derden voor het afdwingen van multi-factor Authentication voor elk gebruikers account in uw partner Tenant. Zie [hoe de beveiligings vereisten worden afgedwongen](#how-the-requirements-will-be-enforced)om ervoor te zorgen dat de oplossing de verwachte oplossing zal bieden.
+- Het gebruik van een oplossing van derden voor het afdwingen van multi-factor Authentication voor elk gebruikers account in uw partner Tenant. Zie [hoe de beveiligings vereisten worden afgedwongen](#how-the-requirements-are-enforced)om ervoor te zorgen dat de oplossing de verwachte oplossing zal bieden.
 
 > [!NOTE]
 > Hoewel multi-factor Authentication niet contractueel is vereist voor een soevereine Cloud (21Vianet, Amerikaanse overheid en Duitsland), is het raadzaam deze beveiligings vereisten aan te passen.
@@ -92,7 +92,7 @@ Als u wilt overstappen van basislijn beleidsregels naar standaard instellingen v
 
 Omdat deze vereisten van toepassing zijn op alle gebruikers accounts in uw partner-Tenant, moet u rekening houden met verschillende dingen om te zorgen voor een soepele implementatie, met inbegrip van het identificeren van gebruikers accounts in Azure Active Directory die geen multi-factor Authentication kunnen uitvoeren, evenals toepassingen en apparaten die worden gebruikt door uw organisatie die geen ondersteuning bieden voor moderne verificatie.
 
-Voordat u een actie uitvoert, raden we u aan het volgende te identificeren:
+Voordat u een actie uitvoert, raden we u aan de volgende validaties uit te voeren: 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Hebt u een toepassing of apparaat dat geen ondersteuning biedt voor het gebruik van moderne authenticatie?
 
@@ -100,9 +100,9 @@ Wanneer u de verouderde verificatie van multi-factor Authentication afdwingt, wo
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Hebt u de beschikking over de Office 365 van de licenties die zijn gekoppeld aan uw partner-Tenant?
 
-Voordat u een oplossing implementeert, wordt u aangeraden te bepalen welke versie van Microsoft Office wordt gebruikt door gebruikers in uw partner Tenant. Er is een kans dat uw gebruikers connectiviteits problemen ondervinden met toepassingen zoals Outlook. Voordat u multi-factor Authentication afdwingt, is het belang rijk om ervoor te zorgen dat Outlook 2013 SP1 of hoger wordt gebruikt en dat voor uw organisatie moderne authenticatie is ingeschakeld. Zie [moderne verificatie inschakelen in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) voor meer informatie.
+Voordat u een oplossing implementeert, wordt u aangeraden te bepalen welke versie van Microsoft Office wordt gebruikt door gebruikers in uw partner Tenant. Er is een kans dat uw gebruikers connectiviteits problemen ondervinden met toepassingen zoals Outlook. Voordat u multi-factor Authentication afdwingt, is het belang rijk om ervoor te zorgen dat Outlook 2013 SP1 of hoger wordt gebruikt en dat voor uw organisatie moderne authenticatie is ingeschakeld. Zie voor meer informatie [moderne verificatie inschakelen in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
-Als u moderne verificatie wilt inschakelen voor apparaten waarop Windows wordt uitgevoerd en waarop Microsoft Office 2013 is geïnstalleerd, moet u twee register sleutels maken. Zie [moderne authenticatie inschakelen voor Office 2013 op Windows-apparaten](/office365/admin/security-and-compliance/enable-modern-authentication).
+Als u moderne verificatie wilt inschakelen voor apparaten met Windows, waarop Microsoft Office 2013 is geïnstalleerd, moet u twee register sleutels maken. Zie [moderne authenticatie inschakelen voor Office 2013 op Windows-apparaten](/office365/admin/security-and-compliance/enable-modern-authentication).
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Is er een beleid dat voor komt dat uw gebruikers hun mobiele apparaten kunnen gebruiken tijdens het werken?
 
@@ -116,7 +116,7 @@ Het is belang rijk dat u bedrijfs beleid identificeert waarmee wordt voor komen 
 
 #### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Welke automatisering of integratie moet u gebruiken om gebruikers referenties te gebruiken voor verificatie?
 
-Omdat de vereiste is om MFA af te dwingen voor elke gebruiker, inclusief service accounts, in uw partner Directory, wordt de automatisering of integratie van de gebruikers referenties voor verificatie beïnvloed. Daarom is het belang rijk dat u bepaalt welke accounts in deze situaties worden gebruikt. Raadpleeg de volgende lijst met voor beelden van toepassingen of services die u moet overwegen:
+Omdat de vereiste is om MFA af te dwingen voor elke gebruiker, inclusief service accounts, in uw partner Directory, wordt de automatisering of integratie van de gebruikers referenties voor verificatie beïnvloed. Het is dus belang rijk dat u bepaalt welke accounts in deze situaties worden gebruikt. Raadpleeg de volgende lijst met voor beelden van toepassingen of services die u moet overwegen:
 
 - Configuratie scherm dat wordt gebruikt om resources namens uw klanten in te richten
 
@@ -124,21 +124,23 @@ Omdat de vereiste is om MFA af te dwingen voor elke gebruiker, inclusief service
 
 - Power shell-scripts die gebruikmaken van AZ, AzureRM, Azure AD, MS online, enzovoort.
 
-De bovenstaande lijst is niet volledig. Daarom is het belang rijk dat u een volledige evaluatie uitvoert van elke toepassing of service in uw omgeving die gebruikmaakt van de gebruikers referenties voor verificatie. Voor concurreren met de vereiste voor multi-factor Authentication moet u waar mogelijk de richt lijnen in het Framework van het [veilige toepassings model](/partner-center/develop/enable-secure-app-model) implementeren.
+De bovenstaande lijst is niet volledig. Het is dus belang rijk dat u een volledige evaluatie uitvoert van elke toepassing of service in uw omgeving die gebruikmaakt van de gebruikers referenties voor verificatie. Voor concurreren met de vereiste voor multi-factor Authentication moet u waar mogelijk de richt lijnen in het Framework van het [veilige toepassings model](/partner-center/develop/enable-secure-app-model) implementeren.
 
 ## <a name="accessing-your-environment"></a>Toegang tot uw omgeving
 
-U wordt aangeraden de aanmeldings activiteit te bekijken als u meer wilt weten over wat of wie verificatie uitvoert zonder dat deze wordt aangevraagd voor multi-factor Authentication. Via Azure Active Directory Premium kunt u gebruikmaken van het aanmeld rapport. Zie [activiteiten rapporten voor aanmelden in de Azure Active Directory-Portal](/azure/active-directory/reports-monitoring/concept-sign-ins) voor meer informatie. Als u niet beschikt over Azure Active Directory Premium, of als u op zoek bent naar een manier om dit op te halen via Power shell, moet u gebruikmaken van de cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity)  van de Power shell-module van [Partner Center](https://www.powershellgallery.com/packages/PartnerCenter/) .
+U wordt aangeraden de aanmeldings activiteit te bekijken als u meer wilt weten over wat of wie verificatie uitvoert zonder dat deze wordt aangevraagd voor multi-factor Authentication. Via Azure Active Directory Premium kunt u gebruikmaken van het aanmeld rapport. Zie voor meer informatie over dit onderwerp de [rapporten voor aanmeldings activiteiten in de Azure Active Directory Portal](/azure/active-directory/reports-monitoring/concept-sign-ins). Als u niet beschikt over Azure Active Directory Premium, of als u op zoek bent naar een manier om deze aanmeldings activiteit te verkrijgen via Power shell, moet u gebruikmaken van de cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity)  van de Power shell-module van [Partner Center](https://www.powershellgallery.com/packages/PartnerCenter/) .
 
-## <a name="how-the-requirements-will-be-enforced"></a>Hoe de vereisten worden afgedwongen
+## <a name="how-the-requirements-are-enforced"></a>Hoe de vereisten worden afgedwongen
 
-De beveiligings vereisten voor de partner worden afgedwongen door Azure Active Directory en in het partner centrum, door te controleren of de MFA-claim aanwezig is om te identificeren dat de verificatie van de multi-factor Authentication is uitgevoerd. Vanaf 18 november 2019 zal micro soft aanvullende beveiligings maatregelen (voorheen bekend als ' technische afdwinging ') activeren voor tenants van partners. 
+De beveiligings vereisten van de partner worden afgedwongen door Azure Active Directory en in het partner centrum, door te controleren of de MFA-claim aanwezig is om te identificeren dat de verificatie van de multi-factor Authentication is uitgevoerd. Gestart op 18 november 2019, micro soft heeft aanvullende beveiligings maatregelen (voorheen bekend als ' technische afdwinging ') ingeschakeld voor partner tenants.
 
-Bij de activering worden gebruikers in de partner-Tenant gevraagd om verificatie van multi-factor Authentication (MFA) te volt ooien bij het uitvoeren van een beheerder namens (ADMINISTRATE)-bewerkingen. We zullen het bereik van de beveiligings maatregelen blijven uitbreiden naar extra scenario's en gebruikers rollen, waarbij partners met voorafgaande kennisgeving worden betrokken. Raadpleeg dit document voor meer informatie, dat regel matig wordt bijgewerkt. Partners die niet aan de vereisten voldoen, moeten deze maat regelen zo spoedig mogelijk implementeren om bedrijfs onderbrekingen te voor komen. 
+Bij de activering worden gebruikers in de partner-Tenant gevraagd om verificatie van multi-factor Authentication (MFA) te volt ooien bij het uitvoeren van een beheerder namens (ADMINISTRATE)-bewerkingen, toegang te krijgen tot de Partner Center-portal of de API voor Partner Center. Zie [eisen multi-factor Authentication (MFA) voor uw partner Tenant](partner-security-requirements-mandating-mfa.md)voor meer informatie. 
+
+Partners die niet aan de vereisten voldoen, moeten deze maat regelen zo spoedig mogelijk implementeren om bedrijfs onderbrekingen te voor komen. 
 
 Als u Azure Multi-Factor Authentication of de standaard instellingen van Azure AD gebruikt, zijn er geen aanvullende acties die u moet uitvoeren.
 
-Wanneer u een multi-factor Authentication-oplossing van derden gebruikt, is er mogelijk een kans dat de MFA-claim niet kan worden uitgegeven. Als deze claim ontbreekt, kan Azure Active Directory niet bepalen of de verificatie aanvraag door multi-factor Authentication wordt aangevraagd. Lees [de vereisten voor de partner beveiliging testen](/powershell/partnercenter/test-partner-security-requirements)voor meer informatie over hoe u kunt controleren of uw oplossing de verwachte claim afgeeft. 
+Als u een multi-factor Authentication-oplossing van derden gebruikt, is het mogelijk dat de MFA-claim niet kan worden uitgegeven. Als deze claim ontbreekt, kan Azure Active Directory niet bepalen of de verificatie aanvraag door multi-factor Authentication wordt aangevraagd. Lees [de vereisten voor de partner beveiliging testen](/powershell/partnercenter/test-partner-security-requirements)voor meer informatie over hoe u kunt controleren of uw oplossing de verwachte claim afgeeft. 
 
 > [!IMPORTANT]
 > Als uw oplossing van derden de verwachte claim niet uitgeeft, moet u samen werken met de leverancier die de oplossing heeft ontwikkeld om te bepalen welke acties moeten worden uitgevoerd.

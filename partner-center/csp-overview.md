@@ -1,7 +1,7 @@
 ---
 title: Overzicht van het programma Cloud Solution Provider
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over de voor delen en verschillende modellen in het Cloud Solution Provider-programma (CSP) waarmee u uw bedrijf kunt laten groeien met nieuwe klanten en nieuwe expertise.
@@ -9,19 +9,19 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9780fe0b90a4889fca1f3a887c445a75b1549eaa
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528789"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917192"
 ---
 # <a name="cloud-solution-provider-program"></a>Programma Cloud Solution Provider 
 
 **Van toepassing op**
 
 - Partnercentrum
-- Partners in het CSP-programma
+
 
 Dit artikel geeft een overzicht van het programma Cloud Solution Provider (CSP) en legt de verschillende operationele modellen en hun vereisten uit, evenals andere informatie over de verkoop via dit programma.  Het CSP-programma helpt u bij het maken van meer betrokkenen in de bedrijven van klanten, na het opnieuw verkopen van licenties, en kan de volgende voor delen omvatten: 
 
@@ -41,6 +41,10 @@ Dit artikel geeft een overzicht van het programma Cloud Solution Provider (CSP) 
 Ondersteuning
 
 - Breid uw ondersteunings mogelijkheden uit door een-op-een te kopen, met een prioriteit van Cloud ondersteuning met een micro soft Advanced support for partners-pakket. U kunt ook een micro soft Premier Support for partners-pakket gebruiken om toegang te krijgen tot de volledige catalogus met proactieve services, 24/7 verhoogde ondersteunings ondersteuning en technisch account beheer in de Cloud, hybride en on-premises.
+
+Opbrengst
+
+- Moet voldoen aan ten minste USD300K in het Cloud Solution Provider-programma jaarlijkse omzet tijdens de voorafgaande twaalf maanden als een indirecte wederverkoper. Partners kunnen hun navolgende twaalf maanden aan opbrengst van het partner centrum beoordelen. de verkoop waaruit uw USD300K-afsluitende opbrengst van twaalf maanden bestaan, is onderhevig aan de beoordeling en verificatie door micro soft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De vereiste voor de USD300K-omzet wordt berekend op basis van de Cloud omzet en zal permanente software in CSP uitsluiten.
 
 Services
 
@@ -70,7 +74,7 @@ U kunt het volledige aanbod van [micro soft-Cloud Services](https://partner.micr
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Registreren in het CSP-programma](enrolling-in-the-csp-program.md)
+- [Inschrijven voor het CSP-programma](enrolling-in-the-csp-program.md)
 - [Bekijk de vereisten voor elk CSP-model](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 - [Toep assen op verkopen in nationale Clouds van micro soft](csp-national-clouds-overview.md)
 - [Micro soft-klant overeenkomsten per regio en taal](agreements.md)

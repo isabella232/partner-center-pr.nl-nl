@@ -1,5 +1,5 @@
 ---
-title: Mede-op-claims beheren
+title: Coöperatieve claims beheren
 description: Meer informatie over het proces voor het samen stellen van claims, met inbegrip van deadlines, valuta problemen en het betwisten van een geweigerde mede-op-claim.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92528647"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133147"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Claims voor de mede-op-verzoek beheren
 
@@ -65,16 +65,14 @@ Als het materiaal dat u hebt aangeleverd met uw claim voor samenwerking ontoerei
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer onder **stimulansen** de optie **plannen beheren** .
+2. Selecteer onder **stimulansen** voor **co-op-beheer** .
 
-3. Selecteer **co-op-beheer** .
+3. Selecteer de claim voor samenwerking die u wilt betwisten. De pagina claim op de co-op wordt geopend.
 
-4. Selecteer de claim voor samenwerking die u wilt betwisten. De pagina claim op de co-op wordt geopend.
-
-5. Klik onder aan de pagina op **Betwisten** .
+4. Klik onder aan de pagina op **Betwisten** .
 
 De claim wordt binnen vijf werkdagen door ons validatieteam beoordeeld. Gedurende deze periode heeft de claim de status **Betwist** . We nemen contact met u op als er aanvullende informatie nodig is. Wanneer de evaluatie is voltooid, wordt de status bijgewerkt naar **Goedgekeurd** , **Afgewezen** of **Partneractie vereist** .
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Aan de slag met prikkels](incentives-get-started-intro.md)
+- [Aan de slag gaan met Incentives](incentives-get-started-intro.md)

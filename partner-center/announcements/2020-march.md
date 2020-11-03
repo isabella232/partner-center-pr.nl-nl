@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92528696"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795795"
 ---
 # <a name="march-2020-announcements"></a>Aankondigingen van maart 2020
 
@@ -317,7 +317,7 @@ Raadpleeg de specifieke wijzigingen in het bestand met de naam ' Dynamics CSP-aa
 
 - [Dynamics 365-startpagina](https://dynamics.microsoft.com/)
 - [Start pagina voor de gids voor apps voor gemengde realiteit](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Start pagina voor het fraude-apps-platform](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing//docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [Start pagina voor het fraude-apps-platform](/dynamics365/fraud-protection/overview)
 - [FY20 PowerApps en flow-licentie-updates](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Micro soft Dynamics 365-licentie verlening](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dynamics 365 en energie platform: Beschik baarheid, gegevens locatie, taal en lokalisatie-inhoud](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

@@ -1,0 +1,615 @@
+- name: Documentatie voor Microsoft Partnercentrum
+  href: index.yml
+- name: Aankondigingen
+  href: announcements/TOC.md
+- name: Lidmaatschap van partnernetwerk
+  items:
+    - name: Partner van Microsoft
+      href: mpn-overview.md
+    - name: Een Partnercentrum-account maken
+      href: mpn-create-a-partner-center-account.md
+    - name: Een zakelijk e-mailadres krijgen
+      href: buy-email-domain.md
+    - name: Problemen met het instellen van accounts oplossen
+      href: troubleshoot-account-sign-n.md
+    - name: Verplaatsingen naar Partnercentrum
+      items:
+        - name: Verplaatsen vanuit PAC - overzicht
+          href: pac-to-pc-overview.md
+        - name: Taken in PAC en PC vergelijken
+          href: moving-from-pac-to-pc.md
+        - name: PAC-taken uitvoeren in PC
+          href: o365-partner-admin-center-to-partner-center.md
+    - name: Verplaatsingen vanuit PMC
+      items:
+        - name: Migratie vanuit PMC voorbereiden
+          href: prepare-pmc-pc-migration.md
+        - name: Handleiding voor verplaatsen vanuit PMC
+          href: guide-to-migration.md
+        - name: PMC en PC vergelijken
+          href: move-pmc-pc-map.md
+        - name: Veel bedrijven verplaatsen
+          href: move-multiple-companies.md
+        - name: Bedrijven consolideren
+          href: consolidate-accounts.md
+        - name: Voordelen voor PMC activeren
+          href: partner-membership-center-tech-benefits-activate.md
+    - name: Aanbiedingen voor leden
+      items:
+        - name: Action Pack
+          href: mpn-get-action-pack.md
+        - name: Uw aanbiedingen vernieuwen
+          href: renew-mpn-offers.md
+        - name: Uw MPN-voordelen vinden
+          href: mpn-find-benefits.md
+    - name: Competenties
+      items:
+        - name: Meer informatie over competenties
+          href: learn-about-competencies.md
+        - name: Uitzondering voor App Dev-competentie
+          href: app-dev-isv.md
+    - name: Geavanceerde specialisaties
+      href: advanced-specializations.md
+    - name: Een Azure Expert MSP worden
+      href: azure-expert-msp.md
+    - name: Voordelen
+      items:
+        - name: Overzicht van de voordelen
+          href: manage-your-partner-network-benefits.md
+        - name: Voordelen van Go-to-Market
+          href: mpn-learn-about-go-to-market-benefits.md
+        - name: Veelgestelde vragen over de voordelen
+          href: benefits-faq.md
+    - name: Marketplace Rewards
+      href: marketplace-rewards.md
+    - name: Softwaregarantie
+      items:
+        - name: Overzicht van programma's
+          href: software-assurance-lp.md
+        - name: Vouchers voor trainingen (SATV)
+          href: software-assurance-satv.md
+        - name: Planningsservices (PS)
+          href: software-assurance-dps.md
+          items:
+            - name: Geschiktheidsvereisten
+              href: software-assurance-dps-requirements.md
+    - name: Facturen en belastingen
+      href: mpn-view-print-maps-invoice.md
+    - name: Nieuwe functies testen
+      href: test-drive-new-features.md
+- name: Cloud Solution Provider (CSP)
+  href: csp-overview.md
+  items:
+    - name: Inschrijven voor het CSP-programma
+      href: enrolling-in-the-csp-program.md
+    - name: Microsoft Partner-overeenkomst - CSP's
+      href: microsoft-partner-agreement.md
+    - name: Vereisten voor de directe CSP-partner
+      href: direct-partner-new-requirements.md
+    - name: 'Microsoft-klantovereenkomsten (op regio, taal)'
+      href: agreements.md
+    - name: Beperkte toegang tot directe facturering
+      href: restricted-direct-bill-capabilities.md
+    - name: Directe CSP-factureringspartner overschakelen naar indirecte reseller
+      href: transition-direct-to-indirect.md
+    - name: 'CSP-overeenkomsten, prijslijsten, aanbiedingen'
+      href: csp-documents-and-learning-resources.md
+    - name: Azure Cost Management van Cloudyn voor CSP's
+      href: azure-cost-management-app-for-csp-partners.md
+    - name: 'Regionale markten voor CSP, valuta'
+      href: regional-authorization-overview.md
+    - name: Instructies voor tenantconsolidatie voor regionale autorisatie in CSP
+      href: csp-regional-authorization-tenant-consolidation.md
+    - name: Updatemethode om de acceptatie van de Microsoft-klantovereenkomst te bevestigen
+      href: confirm-consent.md
+    - name: Acceptatie van de Microsoft-klantovereenkomst bevestigen
+      href: confirm-customer-agreement.md
+    - name: Wanneer de acceptatie van de klantovereenkomst moet worden bevestigd namens de klant
+      href: attest-acceptance-customer-agreement.md
+    - name: Toepassen op verkopen in nationale clouds
+      href: csp-national-clouds-overview.md
+      items:
+        - name: Partnercentrum voor Microsoft Cloud for US Government
+          href: partner-center-for-microsoft-us-govt-cloud.md
+        - name: 'Veelgestelde vragen: Microsoft Cloud for US Government'
+          href: faq-for-us-govt-cloud.md
+        - name: Partnercentrum voor Microsoft Cloud Duitsland
+          href: partner-center-for-microsoft-cloud-germany.md
+        - name: Inschrijven bij CSP voor Microsoft Cloud for US Government
+          href: enroll-in-csp-for-microsoft-us-govt-cloud.md
+        - name: Office 365 Government GCC voor CSP verkopen
+          href: csp-gcc-overview.md
+        - name: Geschiktheidscriteria voor Office 365 Government GCC-partners en -klanten
+          href: csp-gcc-validate.md
+        - name: Gebruikers- en licentiebeheer voor Microsoft Cloud Duitsland
+          href: user-management-in-partner-center-for-microsoft-cloud-germany.md
+        - name: Gebruikers- en licentiebeheer voor Microsoft Cloud for US Government
+          href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
+- name: Een Partnercentrum-account beheren
+  items:
+    - name: Algemeen accountbeheer
+      items:
+        - name: Over uw account
+          href: partner-center-account-setup.md
+        - name: Over de accountstructuur
+          href: account-structure.md
+        - name: Uw werkaccount koppelen
+          href: azure-active-directory-tenants-and-partner-center.md
+        - name: Domeineigendom controleren
+          href: become-global-admin.md
+        - name: Accountgegevens controleren
+          href: verification-responses.md
+        - name: Partneraccounts samenvoegen
+          href: merge-accounts.md
+        - name: Meer Azure AD-tenants toevoegen
+          href: multi-tenant-account.md
+        - name: Uw partnerprofiel bijwerken
+          href: update-your-partner-profile.md
+        - name: Locaties beheren
+          href: manage-locations.md
+        - name: Control Panel Vendor worden
+          href: enroll-as-cpv.md
+        - name: Geblokkeerde accounts herstellen
+          href: suspended-partner-center-account.md
+        - name: Azure AD-toepassingen toevoegen
+          href: service-principal.md
+        - name: Learn-account koppelen
+          href: ms-learn-associate.md
+    - name: Gebruikers beheren
+      items:
+        - name: Gebruikersaccounts maken
+          href: create-user-accounts-and-set-permissions.md
+        - name: Rollen toewijzen aan gebruikers
+          href: permissions-overview.md
+        - name: Uw rol vinden
+          href: find-your-role.md
+        - name: Control Panel Vendor worden
+          href: enroll-as-cpv.md
+        - name: Een gebruikerswachtwoord opnieuw instellen
+          href: reset-a-user-password.md
+        - name: Mijn wachtwoord opnieuw instellen
+          href: reset-my-pasword.md
+        - name: Gebruiker kan zich niet aanmelden
+          href: unable-to-sign-in.md
+        - name: Gebruiker heeft geen MPN-beheerder
+          href: no-mpn-admin.md
+    - name: Uw bedrijf beheren
+      items:
+        - name: Azure Partner Shared Services
+          href: shared-services.md
+        - name: Prijzen en aanbiedingen
+          href: pricing-and-offers.md
+- name: Verwijzingen
+  items:
+    - name: Uw bedrijf laten groeien
+      href: grow-your-business.md
+    - name: Overzicht van verwijzingen
+      href: referrals.md
+    - name: Bedrijfsprofielen beheren
+      href: create-a-marketing-profile.md
+    - name: Leads beheren
+      href: manage-leads.md
+    - name: Collectieve verkoopkansen beheren
+      items:
+        - name: Over collectieve verkoopleads
+          href: manage-co-sell-opportunities.md
+        - name: CRM-connectors voor collectieve verkoop gebruiken
+          items:
+            - name: Voor Dynamics 365
+              href: connector-dynamics.md
+            - name: Voor Salesforce
+              href: connector-salesforce.md
+        - name: Problemen met connectors oplossen
+          href: connectors-troubleshoot.md
+        - name: Collectieve verkoop - Migratie van PSC naar PC
+          href: psc-to-pc.md
+    - name: Uw deals registreren
+      href: register-deals.md
+    - name: Verwijzingsinzichten ophalen
+      href: referral-insights.md
+    - name: Uw bedrijfsprofiel analyseren
+      href: analyze-your-marketing-profile.md
+- name: Incentives
+  items:
+    - name: Aan de slag gaan met Incentives
+      items:
+        - name: Veelgestelde vragen over Incentives
+          href: incentives-faq.md
+        - name: Aan de slag gaan met Incentives
+          href: incentives-get-started-intro.md
+        - name: De 10 hoofdzaken van Incentives
+          href: incentives-ten-essentials.md
+        - name: Inschrijven bij Incentives
+          href: incentives-enroll.md
+        - name: Programmageschiktheid controleren
+          href: incentives-determined-your-program-eligibility.md
+          displayName: incentives
+        - name: Uitbetalings- en belastingprofielen begrijpen
+          href: incentives-create-and-manage-your-payout-and-tax-profiles.md
+          displayName: incentives
+        - name: Veelgestelde vragen over uitbetalings- en belastingprofielen
+          href: incentives-payout-tax-profile-faqs.md
+          displayName: incentives
+        - name: Winstgeschiktheid controleren
+          href: incentives-confirm-your-earnings-eligibility.md
+          displayName: incentives
+        - name: Betalingen en programma's weergeven
+          href: understand-incentive-payouts.md
+          displayName: incentives
+        - name: Uw betalingspagina openen
+          href: incentives-unified-user-guide.md
+          displayName: incentives
+    - name: Abonnementen en PoE (proof of execution)
+      items:
+        - name: Abonnementen en PoE
+          href: incentives-plans-proofs-intro.md
+          displayName: 'incentives, proof of execution, proofs of execution'
+        - name: Uw plan maken
+          href: incentives-create-your-plan.md
+          displayName: incentives
+        - name: PoE (proof of execution) maken
+          href: incentives-prepare-your-proof-of-execution.md
+          displayName: incentives
+        - name: Een belastingfactuur indienen als PoE
+          href: incentives-tax-invoice-poe.md
+          displayName: incentives
+    - name: Coöperatieve claims voor Incentives
+      items:
+        - name: Coöperatieve claims voor Incentives
+          href: claims-overview.md
+          displayName: incentives
+        - name: Coöperatieve claims beheren
+          href: create-incentives-claims.md
+          displayName: incentives
+        - name: Kernvereisten weergeven
+          href: core-requirements.md
+          displayName: incentives
+        - name: Goedkeuring en deadlines voor coöperatieve claims
+          href: incentives-managing-co-op-claims.md
+          displayName: incentives
+    - name: Incentives-claims voor CPOR-koppeling
+      items:
+        - name: CPOR-koppelingen begrijpen
+          href: incentives-customer-associations-intro.md
+        - name: Een klantkoppeling maken
+          href: submit-osa-claim.md
+        - name: Klantkoppelingen beheren
+          href: incentives-manage-customer-associations.md
+          displayName: incentives
+        - name: Problemen met klantkoppeling
+          href: incentives-customer-association-issues.md
+          displayName: incentives
+    - name: Problemen met betalingen en winst oplossen
+      href: incentives-payment-issues.md
+      displayName: incentives
+- name: Facturering en belastingen
+  href: billing.md
+  items:
+    - name: Billing basics (Grondbeginselen van facturering)
+      href: billing-basics.md
+    - name: Factureringstypen in Partnercentrum
+      href: billing-different-types.md
+    - name: Meer informatie over uw factuur
+      href: read-your-bill.md
+    - name: De afstemmingsbestanden gebruiken
+      href: use-the-reconciliation-files.md
+    - name: Kostentypen voor afstemmingsbestanden
+      href: recon-file-charge-types.md
+    - name: Dagelijks gebruik van afstemmingsbestanden
+      href: daily-rated-usage-recon-files.md
+    - name: Afstemmingsbestanden op basis van licentie
+      href: license-based-recon-files.md
+    - name: Algemene scenario's voor facturering
+      href: common-billing-scenarios.md
+      items:
+        - name: Scenario's voor maandelijkse facturering
+          href: common-billing-scenarios-monthly.md
+        - name: Scenario's voor jaarlijkse facturering
+          href: common-billing-scenarios-annual.md
+        - name: Scenario's voor eenmalige en terugkerende kosten
+          href: common-billing-scenarios-onetime-recurring.md
+        - name: Facturen begrijpen
+          href: invoice-file.md
+        - name: Facturering op basis van licenties
+          href: license-based-billing.md
+        - name: Facturering van mobiele provider
+          href: mobile-operator-billing.md
+        - name: Scenario's voor SaaS-abonnementen op basis van licenties
+          href: common-billing-scenarios-saas.md
+    - name: Facturering voor Marketplace-aanbiedingen
+      href: csp-commercial-marketplace-billing.md
+    - name: Digitale handtekeningen weergeven - Partnercentrum India
+      href: digital-signature.md
+    - name: Tax and tax exemptions (Belastingen en btw-vrijstellingen)
+      href: tax-and-tax-exemptions.md
+      items:
+        - name: BTW-gegevens van bedrijf
+          href: organization-tax-info.md
+        - name: Btw-gegevens (VAT) bij registratie in Partnercentrum
+          href: vat-info.md
+        - name: Tegoed ontvangen voor voorheffing van belastingen
+          href: withholding-tax-credit-form.md
+        - name: Regionale belastingen voor spraakservices
+          href: tax-and-fees-voice-services.md
+        - name: Belastinggegevens voor uitgevers van commerciële marketplace
+          href: tax-details-marketplace.md
+        - name: IRS-belastingformulieren begrijpen die zijn uitgegeven door Microsoft
+          href: understand-irs-tax-forms.md
+        - name: Stel uw betalingsaccount en belastingformulieren
+          href: set-up-your-payout-account.md
+        - name: Request an SLA credit from Microsoft (Een SLA-tegoed aanvragen van Microsoft)
+          href: request-credit.md
+    - name: Een Azure-uitgavenbudget voor uw klanten instellen
+      href: set-an-azure-spending-budget-for-your-customers.md
+- name: Betaald krijgen
+  items:
+    - name: 'Wanbetaling, fraude of misbruik beheren'
+      href: non-payment-fraud-misuse.md
+    - name: Niet-toegewezen betalingen beheren
+      href: unallocated-payment.md
+    - name: Commerciële marketplace-betalingen
+      items:
+        - name: Betaald krijgen - marketplace
+          href: marketplace-get-paid.md
+        - name: Details van betaalbeleid
+          href: payout-policy-details.md
+        - name: 'Betalingsdrempels, methoden en tijdsbestek'
+          href: payment-thresholds-methods-timeframes.md
+        - name: Uitbetalingsinstructies
+          href: payout-statement.md
+        - name: Veelgestelde vragen over uitbetalingen
+          href: payout-faq.md
+- name: Communiceren met klanten
+  items:
+    - name: Communiceren met uw klanten
+      href: connect-with-your-customers.md
+    - name: Een nieuwe klant toevoegen
+      href: add-a-new-customer.md
+    - name: Een resellerrelatie met een klant aanvragen
+      href: request-a-relationship-with-a-customer.md
+    - name: Een relatie als reseller met een klant verwijderen
+      href: remove-a-relationship.md
+    - name: Machtigingen voor gedelegeerd beheer krijgen van een klant
+      href: customers-revoke-admin-privileges.md
+    - name: Uw lijst met klanten weergeven
+      href: see-your-customer-list.md
+    - name: Activiteitenlogboeken voor klanten weergeven
+      href: activity-logs.md
+    - name: Accountgegevens van klanten bijwerken
+      href: update-customer-account-info.md
+    - name: Toestaan dat klanten hun eigen services kopen
+      href: give-customers-permission.md
+    - name: Meerdere gebruikers voor een klant toevoegen
+      href: adding-multiple-users-to-a-customer-account.md
+    - name: Meerdere gebruikers importeren
+      href: file-customer-users.md
+    - name: Contactpersonen voor ondersteuning toewijzen
+      href: assign-support-contacts.md
+- name: CSP-aanbiedingen
+  href: csp-offers.md
+  items:
+    - name: Commerciële marketplace
+      items:
+        - name: Overzicht van commerciële marketplace
+          href: csp-commercial-marketplace-overview.md
+        - name: Marketplace-aanbiedingen ontdekken
+          href: csp-commercial-marketplace-discover.md
+        - name: Marketplace-aanbiedingen aanschaffen
+          href: csp-commercial-marketplace-purchase.md
+        - name: Exclusieve Marketplace-aanbiedingen van ISV's (Independent Software Vendor)
+          href: isv-opt-in.md
+        - name: Marketplace-aanbiedingen beheren
+          href: csp-commercial-marketplace-manage.md
+        - name: Ondersteuning voor Marketplace-aanbiedingen
+          href: csp-commercial-marketplace-support.md
+        - name: Contracten voor Marketplace-aankopen
+          href: csp-commercial-marketplace-contracting.md
+    - name: Azure-reserveringen
+      href: azure-reservations.md
+      items:
+        - name: VM-grootten aanpassen voor maximaal reserveringsgebruik
+          href: azure-usage.md
+        - name: Microsoft Azure-reserveringen kopen namens uw klanten
+          href: azure-reservations-buying.md
+        - name: Manage Microsoft Azure reservations on behalf of your customers (Microsoft Azure-reserveringen beheren namens uw klanten)
+          href: azure-reservations-manage.md
+        - name: Azure Reserved VM Instances (RI) en serverabonnementen
+          href: azure-ri-server-subscriptions.md
+    - name: Beschikbare Azure-services in Azure CSP
+      href: azure-plan-available.md
+    - name: Azure-abonnement
+      href: azure-plan-lp.md
+      items:
+        - name: Overzicht van Azure-abonnementen
+          href: azure-plan-get-started.md
+        - name: Het Azure-abonnement kopen
+          href: purchase-azure-plan.md
+        - name: Azure-aanbiedingen vergelijken
+          href: compare-azure-offers.md
+        - name: Uw klanten laten overstappen naar een Azure-plan
+          href: azure-plan-transition.md
+        - name: Verdiende tegoed van partner
+          href: partner-earned-credit.md
+        - name: Hoe het verdiende tegoed van de partner wordt berekend en betaald
+          href: partner-earned-credit-explanation.md
+        - name: Rollen en machtigingen voor het verdiende tegoed van de partner
+          href: azure-roles-perms-pec.md
+        - name: Nieuwe Commerce-ervaring in CSP - Azure-facturering
+          href: azure-plan-billing.md
+        - name: Prijslijst voor de nieuwe Commerce-ervaring in CSP voor Azure
+          href: azure-plan-price-list.md
+        - name: Abonnementen en resources beheren onder het Azure-abonnement
+          href: azure-plan-manage.md
+        - name: Beheerdersbevoegdheden voor Azure CSP-abonnementen opnieuw instellen
+          href: revoke-reinstate-csp.md
+        - name: Overdracht van Azure-abonnementen
+          href: switch-azure-subscriptions-to-a-different-partner.md
+    - name: Software-abonnementen
+      href: csp-software-subscriptions.md
+    - name: On-premises software verkopen via het CSP-programma
+      href: csp-on-premise-software.md
+    - name: Onlineservices (abonnementen)
+      href: customer-subscriptions.md
+      items:
+        - name: 'Klantabonnementen maken, onderbreken of annuleren'
+          href: create-a-new-subscription.md
+        - name: Promoties gebruiken om nieuwe klanten aan te trekken
+          href: promotions.md
+        - name: Uw klanten proefversies bieden voor Microsoft-producten
+          href: offer-your-customers-trials-of-microsoft-products.md
+        - name: Abonnementen op commerciële marketplace-producten verkopen
+          href: sell-marketplace-products.md
+        - name: Azure-abonnementen toewijzen in Partnercentrum
+          href: assign-azure-subscriptions.md
+        - name: Gebruikers en licenties beheren
+          href: assign-licenses-to-users.md
+        - name: Licenties of services toevoegen aan een bestaand abonnement
+          href: add-licenses-or-services-to-an-existing-subscription.md
+        - name: Licenties toewijzen of intrekken voor meerdere gebruikers
+          href: bulk-license-provisioning-for-multiple-users.md
+        - name: Klanten van op licenties gebaseerde services verplaatsen naar het CSP-programma
+          href: transition-seat-based-services.md
+        - name: Abonnementen op de Minecraft Education-editie verkopen
+          href: minecraft-subscriptions.md
+        - name: Verkopen aan gespecialiseerde branches
+          href: Get-special-pricing-for-offers.md
+        - name: Verkopen aan onderwijsklanten
+          href: sell-to-education-customers.md
+        - name: Acceptatie en tevredenheid verhogen
+          href: increasing-adoption-and-satisfaction.md
+        - name: Instellen van apparaten vereenvoudigen met Windows Autopilot
+          href: autopilot.md
+    - name: Aanbiedingen voor nieuwere versies upgraden of overdragen
+      items:
+        - name: Dynamics AX abonnementen upgraden naar Dynamics 365
+          href: manual-subscription-migration.md
+        - name: Migrate Dynamics 365 Business Edition Offers to newer versions (Aanbiedingen van Dynamics 365 Business Edition migreren naar nieuwere versies)
+          href: migrate-dynamics-365-to-new.md
+        - name: Office 365 Enterprise E4-abonnementen migreren naar nieuwere Office 365-versies
+          href: migrate-office365-e4-subscriptions-to-newer-versions.md
+        - name: Skype voor Bedrijven Online (Abonnement 1) migreren naar nieuwere Office 365-versies
+          href: skype-retiring.md
+        - name: Kaizala Pro-abonnementen migreren naar Microsoft 365
+          href: migrate-kaizala-pro-partner.md
+    - name: Adviseurs die Office 365 verkopen
+      items:
+        - name: Een uitnodiging maken voor de Office 365-proefversie
+          href: advisors-create-a-trial-invitation.md
+        - name: Klanten toevoegen aan aanbiedingen voor de Office 365-proefversie
+          href: advisors-build-your-business.md
+        - name: Een aanbieding maken voor een Office 365-aankoop
+          href: advisor-create-a-purchase-offer.md
+- name: Gegevens en analyses in Partnercentrum
+  items:
+    - name: Toegang krijgen tot gebruikersgegevens en -analyses
+      href: data-analysis-lp.md
+    - name: Analytics-app voor Power BI
+      items:
+        - name: Inleiding tot de Analytics-app
+          href: power-bi-app-for-direct-partners.md
+        - name: De Analytics-app installeren
+          href: power-bi-app-for-direct-partners-install.md
+        - name: De Analytics-app gebruiken
+          href: power-bi-app-for-direct-partners-use.md
+    - name: Inzichten van Partnercentrum (PCI)
+      items:
+        - name: Over Inzichten
+          href: partner-center-insights.md
+        - name: Inzichten voor op rollen gebaseerde toegang
+          href: pci-roles.md
+        - name: Rapporten over inzichten
+          items:
+            - name: Azure-gebruik
+              href: pci-azure-usage-report.md
+            - name: Voordelen
+              href: pci-benefits-report.md
+            - name: CloudAscent-tendens
+              href: pci-customer-opportunities.md
+            - name: Competenties
+              href: pci-competencies-report.md
+            - name: Klant
+              href: pci-customer-report.md
+            - name: Microsoft Learn-analyse
+              href: ms-learn-analytics.md
+            - name: Overzicht
+              href: pci-overview-report.md
+            - name: Productlicenties
+              href: pci-product-licenses-report.md
+            - name: Productabonnementen
+              href: pci-product-subscriptions-report.md
+            - name: Prestaties van resellers
+              href: pci-resellers-performance.md
+            - name: Training
+              href: pci-training-dashboard.md
+        - name: Bekende problemen
+          href: pci-known-issues.md
+        - name: Rapporten met inzichten downloaden
+          href: pci-download-reports.md
+    - name: Indicatoren voor partnerbijdragen
+      href: partner-contribution-indicators.md
+    - name: Andere gegevens analyseren
+      items:
+        - name: Azure-gebruik van klant
+          href: analyze-azure-usage.md
+        - name: Prestaties van indirecte reseller
+          href: analyze-indirect-resellers.md
+        - name: Abonnementen en licenties
+          href: analyze-subscriptions-licenses.md
+- name: Werken met andere partners
+  items:
+    - name: Een partner zoeken
+      href: find-a-partner.md
+    - name: Werken met andere partners
+      href: work-with-other-partners.md
+    - name: Taken van indirecte provider
+      href: indirect-provider-tasks-in-partner-center.md
+    - name: Taken van indirecte reseller
+      href: indirect-reseller-tasks-in-partner-center.md
+    - name: Ondersteunde CSP-partnerrelaties
+      href: csp-supported-partner-relationships.md
+    - name: Ondersteuning voor meerdere kanalen
+      href: multichannel.md
+    - name: Ondersteuning voor meerdere partners
+      href: multipartner.md
+- name: Ondersteuning krijgen van Microsoft
+  href: support-from-microsoft.md
+  items:
+    - name: Problemen met het Partnercentrum rapporteren
+      href: report-problems-with-partner-center.md
+    - name: Problemen rapporteren namens een klant
+      href: report-problems-on-behalf-of-a-customer.md
+    - name: Ontvang geautomatiseerde servicemeldingen met onze API's
+      href: get-automated-service-notifications-with-our-apis.md
+- name: Uw klanten ondersteuning bieden
+  href: customer-support.md
+  items:
+    - name: Servicestatus controleren
+      href: check-service-health.md
+    - name: Ondersteuning voor facturering bieden
+      href: provide-billing-support.md
+    - name: Technische ondersteuning bieden
+      href: provide-technical-support.md
+    - name: Klantcommunicatie van Microsoft
+      href: customer-communication-from-microsoft.md
+    - name: Zelfondersteuning voor klanten
+      href: customer-self-support.md
+    - name: Problemen escaleren naar Microsoft
+      href: escalate-problems-to-microsoft.md
+- name: Andere resources voor ondersteuning
+  items:
+    - name: Licenties toewijzen aan resources
+      href: support-resources-licensing.md
+    - name: Id's en domeinnamen vinden
+      href: find-ids-and-domain-names.md
+- name: Beveiligingsvereisten
+  items:
+    - name: Overzicht
+      href: partner-security-requirements.md
+    - name: MFA vereisten voor uw partnertenant
+      href: partner-security-requirements-mandating-mfa.md
+    - name: Meervoudige verificatie instellen voor uw gebruikers
+      href: mfa-for-users.md
+    - name: Status van vereisten
+      href: partner-security-compliance.md
+    - name: Veelgestelde vragen
+      href: partner-security-requirements-faq.md

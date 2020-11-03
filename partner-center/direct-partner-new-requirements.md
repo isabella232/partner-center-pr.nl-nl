@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92528297"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795766"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Vereisten voor inschrijving als een CSP-partner voor directe facturering
 
@@ -32,9 +32,10 @@ Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw kla
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-id**   |Een MPN-ID (Active Microsoft Partner Network) voor uw bedrijfs locatie.    |
 |**Goedkeurings**   |De autoriteit om juridische overeenkomsten namens uw organisatie te accepteren en te ondertekenen.|
+|**CONT**|Vanaf januari 2021 moeten partners die zijn Inge schreven als directe factuur partners, ten minste USD € 300 euro hebben in het Cloud Solution Provider-programma opbrengst op een wereld wijd account niveau van de twaalf maanden.| 
 |**Ondersteuning**   |De mogelijkheid om het eerste niveau van Cloud product ondersteuning te bieden aan uw klanten. <br/>Een micro soft-ondersteunings plan, een geavanceerde ondersteuning voor partners (ASfP) of Premier Support voor partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteunings abonnementen](https://partner.microsoft.com/support/partnersupport).<br/> BELANG rijk: u moet een krediet controle door lopen voordat u een ondersteunings abonnement kunt aanschaffen. We sturen u een e-mail wanneer u de krediet controle hebt door gegeven. |
 |**Beheerde service**   |Ten minste één beheerde service, IP-service of klant oplossings toepassing. Meer informatie over het toevoegen van [beheerde services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Debiteuren** |De organisatie-infra structuur voor het beheren van facturering en inrichting van klanten.
+|**Debiteuren** |De organisatie-infra structuur voor het beheren van facturering en inrichting van klanten.|
 
 ### <a name="verify-direct-bill-eligibility"></a>Geschiktheid voor direct betalen controleren
 

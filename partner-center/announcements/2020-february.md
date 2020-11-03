@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92528699"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132841"
 ---
 # <a name="february-2020-announcements"></a>Aankondigingen van februari 2020
 
@@ -175,7 +175,7 @@ Ons systeem geeft aan dat uw organisatie momenteel gebruikmaakt van basislijn be
 
 ### <a name="key-considerations"></a>Belangrijkste overwegingen
 
-Beleid voor standaard instellingen van beveiliging is een van de [Opties](../partner-security-requirements.md#actions-that-you-need-to-take) die partners kunnen kiezen voor het implementeren van MFA voor de beveiligings vereisten, afhankelijk van hun bedrijfs behoeften. Het biedt een basis niveau van beveiliging zonder extra kosten. Lees [hoe u MFA inschakelt voor uw organisatie met Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) en de volgende belang rijke overwegingen:
+Beleid voor standaard instellingen van beveiliging is een van de [Opties](../partner-security-requirements.md#implementing-multi-factor-authentication) die partners kunnen kiezen voor het implementeren van MFA voor de beveiligings vereisten, afhankelijk van hun bedrijfs behoeften. Het biedt een basis niveau van beveiliging zonder extra kosten. Lees [hoe u MFA inschakelt voor uw organisatie met Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) en de volgende belang rijke overwegingen:
 
 - Voor de partners die gebruikmaken van [voorwaardelijke toegang](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), zijn standaard instellingen voor beveiliging niet beschikbaar.
 - Met de standaard instellingen voor beveiliging worden alle beleids regels in één keer afgedwongen, inclusief de vereiste MFA voor beheerders beleid, het beveiligings beleid voor de eind gebruiker en de vereiste MFA voor Service beheer.
@@ -247,7 +247,7 @@ Raadpleeg de aanbiedings lijst 0aa62437-b86a-48bd-ae51-85c8dcec5e6d.
 
 Raadpleeg de prijs lijst. Deel deze informatie ook met alle relevante contact personen in uw organisatie, met name uw verkoop team.
 
-**Vragen?**
+**Beantwoorden?**
 
 Als u vragen hebt over deze aanbiedingen, controleert u uw relevante Yammer-partner groep.
 

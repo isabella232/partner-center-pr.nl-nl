@@ -1,7 +1,7 @@
 ---
-title: Een klant koppeling maken
+title: Een klantkoppeling maken
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Maak klant koppelingen met het model van de claim partner van record (CPOR). Helpt bij het beheren van de verkoop, het gebruik en de stimulansen voor Microsoft 365 & Dynamics 365-klanten.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528738"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917247"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Klant koppelingen via het geclaimde partner of record (CPOR) model voor Microsoft 365 en Dynamics 365
 
@@ -35,9 +35,9 @@ U hebt de volgende informatie nodig om een claim te volt ooien:
 
 - De **MPN-id** voor uw entiteit die de claim maakt
 
-- **Domein naam** van de klant [Dit zoeken](find-domain-name.md)
+- **Domein naam** van de klant [Dit zoeken](find-ids-and-domain-names.md)
 
-- De **Directory-id** of **Tenant-id** van de klant [vindt u deze](find-domain-name.md)
+- De **Directory-id** of **Tenant-id** van de klant [vindt u deze](find-ids-and-domain-names.md)
 
 - Het **oplossings gebied** , zoals Business Applications of Microsoft 365
 
@@ -65,7 +65,7 @@ U moet ook inzicht krijgen in de volgende punten:
 
 - Een klant kan meerdere partners hebben, maar elke werk belasting (voor OSU-Microsoft 365) of-abonnement (voor OSA-Sell en OSU-Business toepassingen) kan slechts worden gekoppeld aan één partner.
 
-## <a name="create-a-customer-association"></a>Een klant koppeling maken
+## <a name="create-a-customer-association"></a>Een klantkoppeling maken
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
@@ -73,7 +73,7 @@ U moet ook inzicht krijgen in de volgende punten:
 
 3. Selecteer boven aan de pagina klant koppelingen de optie **+ klant koppeling** .
 
-4. Selecteer de **MPN-ID** van de partnerlocatie die aan de klant moet worden gekoppeld en voeg vervolgens de domeinnaam en directory-id van de klant toe. [Dit zoeken](find-domain-name.md)
+4. Selecteer de **MPN-ID** van de partnerlocatie die aan de klant moet worden gekoppeld en voeg vervolgens de domeinnaam en directory-id van de klant toe. [Dit zoeken](find-ids-and-domain-names.md)
 
 5. Selecteer **Doorgaan** .
 

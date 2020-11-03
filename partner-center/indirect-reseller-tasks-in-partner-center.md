@@ -1,7 +1,7 @@
 ---
 title: Werken met indirecte providers in het CSP-programma
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe indirecte wederverkopers kunnen samen werken met micro soft indirecte providers (of distributeurs) om hulp te krijgen bij klant ondersteuning en facturering.
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92528679"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795845"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Meer informatie over hoe u partner kunt samen werken met indirecte providers in het Cloud Solution Provider-programma
 
+**Van toepassing op**
+
+- Partnercentrum
+
 **Juiste rollen**
 
-- Globale beheerder
-- Gebruikersbeheerder
-- Beheer agent
+
+- Alle micro soft-partners willen registreren in het Cloud Solution Provider-programma
 
 
 De snel groeiende vraag naar cloud oplossingen en-services biedt veel mogelijkheden voor micro soft-partners van elke omvang om winstgevende cloud oplossingen te bouwen. Partners die klaar zijn om de markt in te voeren, maar die geen meerdere leveranciers willen beheren of die geen end-to-end beheer infrastructuur voor klanten hebben, kunnen zich inschrijven voor het micro soft-programma voor Cloud Solution Provider (CSP) als indirecte wederverkopers.
@@ -47,7 +50,7 @@ Zie [aan de slag als een indirecte wederverkoper](https://partner.microsoft.com/
 
 ### <a name="before-you-begin"></a>Voordat u begint
 
-Als u geen ervaring hebt met CSP, moet u zich registreren in het programma als een indirecte wederverkoper. Vervolgens moet u een account maken in het partner centrum. Hiervoor moet u de volgende informatie opgeven tijdens het inschrijvings proces. Het kan een paar minuten duren voordat u deze items verzamelt voordat u aan de slag gaat:
+Vanaf oktober 2020 kunnen alle micro soft-partners die nieuw zijn voor CSP, zich registreren in het CSP-programma als een indirecte wederverkoper. Vervolgens moet u een account maken in het partner centrum. Hiervoor geeft u de volgende informatie op tijdens het inschrijvings proces. Het kan een paar minuten duren voordat u deze items verzamelt voordat u aan de slag gaat:
 
 - **Globale beheerders referenties voor uw werk account**
 
@@ -65,7 +68,7 @@ Als u geen ervaring hebt met CSP, moet u zich registreren in het programma als e
 
 ### <a name="get-started"></a>Aan de slag
 
-1. Als u het proces wilt starten, gaat u naar de [**welkomst pagina**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) om u te registreren.
+1. Als u het inschrijvings proces wilt starten, gaat u naar de [**welkomst pagina**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) om u te registreren.
 
 2. Bekijk de **welkomst pagina** om er zeker van te zijn dat u de informatie hebt die u nodig hebt om u te registreren en selecteer vervolgens **volgende** .
 
@@ -99,6 +102,16 @@ Als u geen ervaring hebt met CSP, moet u zich registreren in het programma als e
 
    2. Selecteer uw naam in de lijst met gebruikers. Selecteer vervolgens **beheer agent** als deze nog niet is geselecteerd. Selecteer **Update** .
 
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Alle indirecte wederverkopers moeten de micro soft-partner overeenkomst ondertekenen
+
+1.  Als u nog niet hebt overgegaan naar partner Center vanuit het lidmaatschap van partners, doet u dat nu. Lees de [hand leiding voor het migreren van PMC naar partner Center](guide-to-migration.md)voor meer informatie over het overstappen naar het partner centrum. 
+
+2.  Als u een lidmaatschaps account van een partner centrum (MPN-ID) hebt, moet u zich nog steeds officieel inschrijven in het Cloud Solution Provider-programma. Als u de status van uw lidmaatschap wilt controleren, gaat u naar uw [**partner profiel**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) en bevestigt u het account type. Schrijf u vervolgens [in als een indirecte wederverkoper](enrolling-in-the-csp-program.md). Zodra u bent Inge schreven als een indirecte wederverkoper, [accepteert u de CSP-relatie aanvraag van uw indirecte provider](indirect-reseller-tasks-in-partner-center.md).
+
+3.  Als u zich al hebt geregistreerd bij Partner Center als een indirecte wederverkoper, accepteert u de micro soft-partner overeenkomst in het [dash board van het partner centrum](https://partner.microsoft.com/pcv/dashboard/overview) met de referenties van de globale beheerder. Bevestig dat u de micro soft-partner overeenkomst hebt ondertekend in het gedeelte met **programma gegevens** van het Partner profiel. U ziet ook een melding over een bericht met een waarschuwing op de overzichts pagina van CSP. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Groene, geaccepteerde banner":::
+
 
 ## <a name="connect-with-an-indirect-provider"></a>Verbinding maken met een indirecte-provider
 
@@ -128,6 +141,8 @@ Als een indirecte provider met u verbinding wil maken in het partner centrum, ga
 
 
 ## <a name="next-steps"></a>Volgende stappen
+
+- [Het proces voor account verificatie](verification-responses.md)
 
 - [Uw Partner Center-account beheren](partner-center-account-setup.md)
 

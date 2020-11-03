@@ -1,7 +1,7 @@
 ---
 title: Beperkte directe factuur mogelijkheden
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over de vereisten voor de direct factureren van de CSP en wat u kunt doen om te voor komen dat de mogelijkheden worden beperkt. Ga na of uw mogelijkheden zijn beperkt.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92527560"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795764"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Beperkte directe factuur mogelijkheden en de vereisten voor CSP direct-factuur partners  
 
@@ -51,7 +51,7 @@ Als uw directe factuur mogelijkheden beperkt zijn, kunt u niet langer nieuwe aan
 
 U kunt de [Azure partner Shared Services-aanbieding](shared-services.md) ook niet gebruiken onder het CSP-programma om nieuwe Azure-abonnementen te kopen voor eigen gebruik.
 
-Bestaande directe factuur abonnementen worden niet beïnvloed. Ze blijven geldig en worden vervolgens vernieuwd. U wordt direct door micro soft gefactureerd tot deze zijn geannuleerd. U kunt bestaande abonnementen nog steeds op de volgende manieren beheren:
+Bestaande directe factuur abonnementen worden niet beïnvloed. Ze blijven geldig en worden automatisch verlengd. U wordt direct door micro soft gefactureerd tot deze zijn geannuleerd. U kunt bestaande abonnementen nog steeds op de volgende manieren beheren:
 
 - Bestaande abonnementen onderbreken
 

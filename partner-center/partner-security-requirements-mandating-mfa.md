@@ -1,7 +1,7 @@
 ---
 title: MFA vereisten voor uw partnertenant
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe eisen MFA voor uw partner tenants uw toegang tot klant bronnen helpt beveiligen. Bevat voorbeeld scenario's.
@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a85a7e415eac7f54ccd52302e350ce20de9856d
-ms.sourcegitcommit: 0cea15df24a6a1b310535eb1cb5e167dc2248a95
+ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "92528729"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680403"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Eisen multi-factor Authentication (MFA) voor uw partner-Tenant
 
@@ -43,9 +43,7 @@ Partners zijn verplicht multi-factor Authentication (MFA) af te dwingen voor all
 
 Meer en voortdurende beveiligings-en privacy-veiligheids maatregelen zijn te vinden op onze belangrijkste prioriteiten en we blijven onze klanten en tenants helpen beveiligen. Alle partners die deel nemen aan het programma Cloud Solution Provider (CSP), leveranciers van het configuratie scherm (CPVs) en Advisor, moeten de vereisten voor de beveiliging van de partner implementeren om te blijven voldoen aan het [beleid](partner-security-requirements.md) .
 
-Micro soft begon met de activering van aanvullende beveiligings maatregelen voor partner tenants. Deze activering van beveiligingen kan de partners helpen hun tenants en hun klanten te beveiligen door eisen multi-factor Authentication (MFA) te verifiëren om onbevoegde toegang te voor komen.
-
-De activering van de partner gedelegeerde beheer mogelijkheden is voltooid voor alle partner tenants. Om partners en klanten verder te beschermen, vanaf 1 mei 2020, beginnen we met de activering van partner Center-trans acties in CSP, waardoor partners hun bedrijven en klanten kunnen beschermen tegen incidenten met betrekking tot identiteits diefstal.
+Om partners te helpen hun bedrijven en klanten te beschermen tegen incidenten met betrekking tot identiteits diefstal, hebben we de extra beveiligings maatregelen voor partner tenants geactiveerd, waarmee partners hun tenants en hun klanten kunnen helpen bij de verificatie van eisen multi-factor Authentication (MFA) om onbevoegde toegang te voor komen. 
 
 Deze documentatie bevat partners met gedetailleerde ervaring en richt lijnen met betrekking tot de activering van beveiligings maatregelen.
 

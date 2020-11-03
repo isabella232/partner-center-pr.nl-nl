@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528755"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795828"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Uw partneraccount samenvoegen met een ander partneraccount
 
@@ -89,7 +89,27 @@ Als u besluit de uitnodiging voor het samen voegen van accounts te accepteren: �
 3. Voeg de MPN-ID toe die zich bevindt in het **partner profiel** van het account dat u wilt uitnodigen om met u samen te voegen. U moet de wereld wijde MPN-ID van de partner gebruiken. U kunt geen locatie MPN-ID gebruiken.
 
 4. Wanneer u **samen voegen** selecteert, wordt er een uitnodiging verzonden naar het partner bedrijf. Wanneer de gebruiker uw aanvraag accepteert, kunt u het samen voegen van accounts in het partner centrum starten. Als het bedrijf uw aanvraag weigert om accounts samen te voegen, kunnen ze uitleggen waarom ze de aanvraag hebben afgewezen. Er is een lijst met al uw account samenvoegingen beschikbaar onder de **samenvoeg geschiedenis** .
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Voor beeld van twee bedrijven die accounts samen voegen
 
+1. Contoso heeft 
+
+    a. een [globale MPN-id van 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) en één onderliggende [locatie MPN-id's van 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. een Azure AD-Tenant = @contoso.com
+ 
+    c. een Gold-competentie die een periode van 1 oktober, 2020
+2. Fabricam heeft
+ 
+    a.  een globale MPN-ID van 3333333 en twee onderliggende locatie MPN-Id's van 4444444 en 5555555
+
+    b.  een AAD-Tenant = @fabricam.com
+
+    c.  twee Gold-competenties die verloopt dec 1e 2020
+3.  Contoso koopt fabricam en gaat [hier](https://partner.microsoft.com/dashboard/account/merger) om een aanvraag voor samen voegen te initiëren
+4.  Fabricam meldt zich aan bij het partner centrum en gaat naar dezelfde pagina als contoso tijdens stap #3, om de aanvraag van Contoso goed te keuren.
+5.  Contoso controleert de details van de samen voeging op diezelfde pagina en geeft een bevestiging om door te gaan met de account fusie.
+    
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Beheerdersrollen en -machtigingen toewijzen](permissions-overview.md)

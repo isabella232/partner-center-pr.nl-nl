@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
+ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528806"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "93244060"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details van het programma voor stimulansen weer geven, beheren en exporteren
 
@@ -105,6 +105,61 @@ Op deze pagina worden alle afzonderlijke inkomsten weer gegeven, met inbegrip va
 Selecteer de pijl-omlaag aan de rechter kant van de pagina om meer informatie over het verdienen te bekijken. Als u dit doet, worden de hendel, het omzet bedrag, het product en de klant weer gegeven. Neem contact op met de ondersteuning als deze gegevens om de een of andere reden niet beschikbaar zijn, maar u er toegang tot hebt. Als het verdienen het resultaat van een aanpassing is en niet een trans actie, worden de velden product en klant niet weer gegeven.
 
 Als u de transactie gegevens op deze pagina wilt exporteren, selecteert u **exporteren** en volgt u de instructies op de pagina gegevens exporteren. Bestanden die zijn geëxporteerd uit de pagina transactie geschiedenis, tonen gegevens in transactie valuta, winst in transactie valuta en Amerikaanse dollars en de betaalde waarde in betalen naar valuta.
+
+### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Uw belasting factuur indienen als bewijs van de uitvoering (PoE)
+
+>[!NOTE]
+>Deze inhoud is **alleen** gekoppeld aan partners in India, China, Italië, Korea, Mexico en Taiwan. <br><br>Partners in India moeten een harde kopie van de belasting factuur indienen.
+
+#### <a name="submit-a-tax-invoice"></a>Een BTW-factuur verzenden
+
+Als u een partner bent in een van de hierboven genoemde landen, stelt micro soft u per e-mail op de hoogte dat u een BTW-factuur moet indienen om uw winst derving te claimen. De e-mail die u ontvangt, bevat instructies voor het indienen van uw belasting factuur en ook een overzicht van de vereiste aanvullende informatie.
+
+Partners in India moeten hun BTW-factuur bij een harde kopie indienen. Partners in de andere landen kunnen een harde of een tijdelijke kopie indienen.
+
+U moet uw BTW-factuur binnen 180 dagen na uw claim indienen. Zodra we uw factuur hebben ontvangen en gevalideerd, zullen we uw stimulans verwerken die de betaling verdienen.
+
+U moet de volgende gegevens samen met uw BTW-factuur indienen:
+
+- Factuur nummer (dit is een nummer dat u genereert) 
+
+- Referentie nummer van Channel prikkels (CI) (door micro soft) 
+
+- De naam van uw prestatie programma
+
+- De juridische naam en het factuur adres in uw partner Profiel 
+
+- Winst bedrag
+
+- Btw-bedrag
+
+Als u het referentie nummer van het kanaal stimulans (CI) niet weet, kunt u het vinden op de volgende drie plaatsen: 
+
+- De e-mail melding die door micro soft wordt verzonden naar uw prikkel beheerder. 
+
+- Het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/) (aanmelden is vereist), op het tabblad **betaald** en op het tabblad **in behandeling** .  
+
+- Uw betalings rapport, dat zich bevindt op de [export pagina voor het downloaden van betalingen](/partner-center/understand-incentive-payouts#payment-download-export). 
+
+#### <a name="if-your-submission-is-rejected"></a>Als uw inzending is afgewezen
+
+De meest waarschijnlijke oorzaak van een verzen ding die wordt afgewezen, is als de gegevens op de belasting factuur niet overeenkomen met de informatie in onze records. Voor beelden van ontbrekende of onjuiste gegevens zijn: 
+
+- Het BTW-nummer van uw bedrijf (GST)
+
+- Uw geharmoniseerd systeem van de nomenclatuur (HSN) en de service accounting code (SAC)-nummers
+
+- Factuur nummer (mag niet groter zijn dan 16 cijfers)
+
+- Factuurdatum
+
+- Belasting waarde (inclusief en exclusief)
+
+- Als uw bedrijf zich in dezelfde staat als micro soft bevindt, moeten de belasting percentages voor de centrale goederen en service belasting (CGST) en de SGST (staats belasting) worden uitgelijnd.
+
+- Als uw bedrijf een andere status heeft dan micro soft, moet u het percentage voor de geïntegreerde goederen en service belasting (IGST) opgeven.
+
+Inzendingen kunnen ook worden afgewezen als deze meer dan 180 dagen na de claim worden geleverd, als de factuur ongeldig is of als de gegevens onjuist zijn ingevoerd.
 
 ### <a name="estimated-payment-month"></a>Geschatte betalings maand
 
@@ -284,7 +339,7 @@ Het overzichts rapport van de trans actie bevat details over het overzichts nive
 >[!NOTE]
 >Het overzichts rapport van de trans actie bevat geen klant-en abonnements gegevens voor abonnementen die nieuwer zijn dan 60 dagen, of als de verbruiks omzet minder dan één cent is.
 
-|Kolomnaam |Description |
+|Kolomnaam |Beschrijving |
 |------ |:-----------|
 |  earningId | Unieke id voor elk verdienen  |
 |  participantId | De primaire identiteit van de partner die onder het programma is aangegaan  |

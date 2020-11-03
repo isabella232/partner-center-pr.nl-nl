@@ -1,7 +1,7 @@
 ---
 title: Rollen & machtigingen toewijzen aan gebruikers
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over welke rollen het meest geschikt zijn voor de gebruikers van uw bedrijf die commerciële trans acties, verwijzingen, prikkels of MPN-lidmaatschappen in het partner centrum beheren.
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92528668"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133028"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Gebruikers rollen en-machtigingen toewijzen aan gebruikers van een bedrijf die moeten werken in het partner centrum
 
@@ -52,7 +52,7 @@ U bepaalt welke soorten toegang uw gebruikers hebben voor het partner centrum do
 ||* Ondersteunings tickets maken voor het partner centrum
 ||* Partner-ondersteunings tickets weer geven die u maakt
 |Standaard gebruiker|  Mijn profiel weer geven   |[Uw wachtwoord opnieuw instellen](reset-my-pasword.md)
-|Beheer agent | * Klant beheer|[Maak verbinding met uw klanten](connect-with-your-customers.md)
+|Beheer agent | * Klant beheer|[Communiceren met uw klanten](connect-with-your-customers.md)
 ||* Apparaten lijst toevoegen aan het partner centrum
 ||* Profielen maken en Toep assen op apparaten
 ||* Abonnements beheer
@@ -97,8 +97,6 @@ CPVs ontwikkel apps die worden gebruikt door de Cloud Solution Provider (CSP)-pa
 |**Gast gebruiker**   | **Rollen**|
 |---------------------------|:--------------------|
 ||MPN-partner beheerder|
-||Account beheerder|
-||Prikkel beheerder|
 ||Bedrijfs profiel beheerder|
 ||Beheerder van verwijzingen|
 
@@ -138,7 +136,7 @@ Deze rollen zijn niet Azure Active Directory rollen. Deze rollen beheren het bed
 ||* Verwijzingen ontvangen en beheren
 ||* Verwijzingen voor verkopen weer geven, maken en beheren|
 ||* Aanvragen voor partner services weer geven, maken en beheren
-|Bedrijfs profiel beheerder   |* Bedrijfs profiel weer geven, maken en beheren |[Een bedrijfs profiel maken](create-a-marketing-profile.md)
+|Bedrijfs profiel beheerder   |* Bedrijfs profiel weer geven, maken en beheren |[Een bedrijfsprofiel maken](create-a-marketing-profile.md)
 ||* Aanvragen voor partner services weer geven, maken en beheren
 ||* Ondersteunings tickets maken voor het partner centrum
 ||* Partner-ondersteunings tickets weer geven die u maakt|

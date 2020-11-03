@@ -1,5 +1,5 @@
 ---
-title: Mede delingen van april 2020
+title: Aankondigingen van april 2020
 description: Mede delingen van april 2020 voor het micro soft Partner Center, zoals nieuwe mogelijkheden, aanbiedingen, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92528708"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132991"
 ---
-# <a name="april-2020-announcements"></a>Mede delingen van april 2020
+# <a name="april-2020-announcements"></a>Aankondigingen van april 2020
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Partner Center voor april 2020.
 
@@ -192,7 +192,7 @@ Als u meer hulp nodig hebt bij technische problemen, kunt u [een ondersteunings 
 Hartelijk dank voor uw partnerschap en betrokkenheid om ervoor te zorgen dat ons ecosysteem op vertrouwen kan worden uitgevoerd.
 
 >[!NOTE] 
->Als u basislijn beleidsregels gebruikt en niet hebt overgeschakeld naar het beleid voor beveiligings standaards of [andere opties voor MFA-implementatie](..\partner-security-requirements.md#actions-that-you-need-to-take), moet u zo snel mogelijk overstappen naar de [belangrijkste bronnen](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Als u basislijn beleidsregels gebruikt en niet hebt overgeschakeld naar het beleid voor beveiligings standaards of [andere opties voor MFA-implementatie](..\partner-security-requirements.md#implementing-multi-factor-authentication), moet u zo snel mogelijk overstappen naar de [belangrijkste bronnen](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 

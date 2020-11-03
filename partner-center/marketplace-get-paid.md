@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528759"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189727"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Betaald krijgen in de commerciële marketplace
 
@@ -35,7 +35,7 @@ Voordat u de eerste keer betaalt, moet u uw account voor betaling instellen en d
 
 Standaard worden betalingen maandelijks verzonden, zoals hierboven wordt beschreven. U hebt echter de mogelijkheid om uw uitbetalingen voor een programma in de wacht te zetten en micro soft brengt uw betalingen niet aan uw account door. Als u ervoor kiest om uw uitbetalingen in de wacht te zetten, blijven we de inkomsten op de pagina **uitbetalingen** vastleggen. Er worden echter geen betalingen naar uw account verzonden totdat u de blok kering verwijdert.
 
-Ga naar **account instellingen** om uw betalingen in de wacht te zetten. Ga onder **toekenning en belasting** naar het gedeelte toekennings- **en BTW-profiel toewijzing en** Zoek het programma waarvoor u de betalingen wilt houden. Schakel het selectie vakje **mijn betaling bewaren** in om betalingen voor dit programma te bewaren. U kunt de status van uw uitbetalings blokkering op elk gewenst moment wijzigen, maar uw beslissing is van invloed op de volgende maandelijkse uitbetaling. Als u bijvoorbeeld de uitbetaling van april wilt bewaren, moet u ervoor zorgen dat u vóór het einde van maart de status van uw uitbetalings blokkering hebt ingesteld **op aan.**
+Als u uw betalingen in de wacht wilt plaatsen, selecteert u in de rechter bovenhoek het tandwiel pictogram **instellingen** en vervolgens de **instellingen voor ontwikkel aars** . Selecteer **uitbetaling en BTW** in het linkermenu en zoek in het gedeelte **toekennings-en BTW-profiel toewijzing** het programma waarvoor u betalingen wilt houden. Schakel het selectie vakje **mijn betaling bewaren** in om betalingen voor dit programma te bewaren. U kunt de status van uw uitbetalings blokkering op elk gewenst moment wijzigen, maar uw beslissing is van invloed op de volgende maandelijkse uitbetaling. Als u bijvoorbeeld de uitbetaling van april wilt bewaren, moet u ervoor zorgen dat u vóór het einde van maart de status van uw uitbetalings blokkering hebt ingesteld **op aan.**
 
 Zodra u de status van de uitbetalings blokkering hebt ingesteld op **aan** , worden alle uitbetalingen voor dit programma in de wacht stand **gezet** totdat u het selectie vakje uitschakelt. Wanneer u dit doet, wordt u opgenomen in de volgende maandelijkse uitbetalings cyclus (op voor waarde dat de betalings drempel is bereikt). Als u uw uitbetalingen in de wacht hebt, maar graag een betaling wilt laten genereren in juni, schakelt u het selectie vakje uit **vóór het** einde van mei.
 

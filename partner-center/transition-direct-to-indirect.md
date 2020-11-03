@@ -9,21 +9,25 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528606"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795862"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller (Overstappen van partner voor directe facturering van Cloud Solution Provider naar indirecte CSP-reseller)
 
 **Van toepassing op:**
+- Partnercentrum
 
-- CSP-partners
+**Juiste rollen**
+
+- Alle CSP direct-factuur partners
 
 >[!Note]
 >Dit artikel is bedoeld voor directe factuur partners die hebben besloten om over te stappen op indirecte wederverkopers. Maar zelfs als u nog geen expliciete beslissing hebt genomen om u in te schrijven als een indirecte wederverkoper, worden directe factuur partners die niet voldoen aan de nieuwe [vereisten](direct-partner-new-requirements.md) voor het CSP direct factuur-partner programma, door micro soft op de hoogte gesteld wanneer hun [directe factuur mogelijkheden worden beperkt](restricted-direct-bill-capabilities.md).
+<br>Vanaf januari 2021 wordt een nieuwe omzet vereiste toegevoegd. Partners die zijn Inge schreven als een directe factuur partner, moeten een trans actie hebben uitgevoerd van ten minste USD € 300 euro in het Cloud Solution Provider-programma opbrengst op het niveau van een wereld wijde account in de afgelopen 12 maanden.
 
 U kunt zich registreren in het programma voor indirecte wederverkopers met behulp van uw bestaande directe incasso-Tenant.
 
@@ -277,7 +281,7 @@ Een overdrachts aanvraag maken als de overgangs partner:
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Overzicht":::
 
-8. Klik op **Maken** .
+8. Klik op **Create** .
 
 9. Er wordt een aanvraag voor een actieve abonnements overdracht weer gegeven onder **abonnements overdracht** .
 

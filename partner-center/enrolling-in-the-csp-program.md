@@ -1,7 +1,7 @@
 ---
 title: Registreren bij het Cloud Solution Provider-programma
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over het registreren van het software-verkoop model van de Cloud Solution Provider (CSP) dat het beste is voor uw bedrijf, zoals een indirecte wederverkoper of een directe factuur partner.
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 1074b25ef90495db82600fc5c18b335a91970d84
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528803"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917158"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registreren bij het Cloud Solution Provider-programma
 
 **Van toepassing op**
 
-- Programma Cloud Solution Provider  
+- Partnercentrum  
 
 **Juiste rollen**
 
@@ -73,6 +73,7 @@ Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw kla
 |**MPN-id**   |Een MPN-ID (Active Microsoft Partner Network) voor uw bedrijfs locatie.    |
 |**Goedkeurings**   |De autoriteit om juridische overeenkomsten namens uw organisatie te accepteren en te ondertekenen.|
 |**Ondersteuning**   |De mogelijkheid om het eerste niveau van Cloud product ondersteuning te bieden aan uw klanten. <br>Een micro soft-ondersteunings plan, een geavanceerde ondersteuning voor partners (ASfP) of Premier Support voor partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteunings abonnementen](https://partner.microsoft.com/support/partnersupport).<br> BELANG rijk: u moet een krediet controle door lopen voordat u een ondersteunings abonnement aanschaft. We sturen u een e-mail wanneer u de krediet controle hebt door gegeven. |
+|**Opbrengst vereiste**|Moet voldoen aan ten minste USD300K in het Cloud Solution Provider-programma jaarlijkse omzet tijdens de voorafgaande twaalf maanden als een indirecte wederverkoper. Partners kunnen hun navolgende twaalf maanden aan opbrengst van het partner centrum beoordelen. de verkoop waaruit uw USD300K-afsluitende opbrengst van twaalf maanden bestaan, is onderhevig aan de beoordeling en verificatie door micro soft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De vereiste voor de USD300K-omzet wordt berekend op basis van de Cloud omzet en zal permanente software in CSP uitsluiten.|
 |**Beheerde service**   |Ten minste één beheerde service, IP-service of klant oplossings toepassing. Meer informatie over het toevoegen van [beheerde services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Debiteuren** |De organisatie-infra structuur voor het beheren van facturering en inrichting van klanten.
 
