@@ -46,6 +46,8 @@
       items:
         - name: Meer informatie over competenties
           href: learn-about-competencies.md
+        - name: Veelgestelde vragen over competenties
+          href: competencies-faq.md
         - name: Uitzondering voor App Dev-competentie
           href: app-dev-isv.md
     - name: Geavanceerde specialisaties

@@ -1,7 +1,7 @@
 ---
-title: MFA vereisten voor uw partnertenant
+title: Eisen multi-factor Authentication (MFA) voor uw partner-Tenant
 ms.topic: article
-ms.date: 10/26/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe eisen MFA voor uw partner tenants uw toegang tot klant bronnen helpt beveiligen. Bevat voorbeeld scenario's.
@@ -9,21 +9,19 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
-ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
+ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92680403"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133101"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Eisen multi-factor Authentication (MFA) voor uw partner-Tenant
 
 **Van toepassing op**
 
 - Alle partners in het Cloud Solution Provider-programma
-  - Directe factuur
-  - Indirecte provider
-  - Indirecte wederverkoper
+- Alle leveranciers van het configuratie scherm
 - Alle Advisors
 
 **Betrokken rollen**
@@ -34,8 +32,7 @@ ms.locfileid: "92680403"
 - Factureringsbeheerder
 - Globale beheerder
 
-Het doel van deze functie is om partners te helpen hun toegang tot klant bronnen te beveiligen tegen inbreuk op de referenties.
-Partners zijn verplicht multi-factor Authentication (MFA) af te dwingen voor alle gebruikers accounts in hun partner Tenant, met inbegrip van de gast gebruiker, met deze functie deze partner rollen worden verplicht voor het volt ooien van de MFA-verificatie voor de volgende gebieden:
+Dit artikel bevat gedetailleerde voor beelden en richt lijnen voor eisen multi-factor Authentication (MFA) in het partner centrum. Het doel van deze functie is om partners te helpen hun toegang tot klant bronnen te beveiligen tegen inbreuk op de referenties. Partners zijn verplicht MFA af te dwingen voor alle gebruikers accounts in hun partner Tenant, met inbegrip van gast gebruikers. Gebruikers worden verplicht om de MFA-verificatie te volt ooien voor de volgende gebieden:
 
 - [Dash board van partner centrum](#partner-center-dashboard)
 - [Partnercentrum-API](#partner-center-api)
@@ -43,9 +40,7 @@ Partners zijn verplicht multi-factor Authentication (MFA) af te dwingen voor all
 
 Meer en voortdurende beveiligings-en privacy-veiligheids maatregelen zijn te vinden op onze belangrijkste prioriteiten en we blijven onze klanten en tenants helpen beveiligen. Alle partners die deel nemen aan het programma Cloud Solution Provider (CSP), leveranciers van het configuratie scherm (CPVs) en Advisor, moeten de vereisten voor de beveiliging van de partner implementeren om te blijven voldoen aan het [beleid](partner-security-requirements.md) .
 
-Om partners te helpen hun bedrijven en klanten te beschermen tegen incidenten met betrekking tot identiteits diefstal, hebben we de extra beveiligings maatregelen voor partner tenants geactiveerd, waarmee partners hun tenants en hun klanten kunnen helpen bij de verificatie van eisen multi-factor Authentication (MFA) om onbevoegde toegang te voor komen. 
-
-Deze documentatie bevat partners met gedetailleerde ervaring en richt lijnen met betrekking tot de activering van beveiligings maatregelen.
+Om partners te helpen hun bedrijven en klanten te beschermen tegen identiteits diefstal en onbevoegde toegang, hebben we extra beveiligings maatregelen geactiveerd voor partner tenants die MFA verplicht stellen en verifiëren. 
 
 ## <a name="partner-center-dashboard"></a>Dash board van partner centrum
 
@@ -55,23 +50,20 @@ Bepaalde pagina's in het dash board van de partner centrum worden beveiligd met 
 - Alle pagina's op het tabblad **ondersteuning > klant aanvragen** , bijvoorbeeld de pagina die wordt geopend onder https://partner.microsoft.com/dashboard/support/csp/customers/*
 - Pagina Facturering
 
-Als u probeert toegang te krijgen tot een van deze pagina's en u hebt geen MFA-verificatie eerder voltooid, moet u dit doen.
-
-> [!NOTE]
-> Andere pagina's in het partner centrum, zoals overzichts pagina, Service Health status controle pagina wordt niet door MFA beveiligd.
-
-De volgende gebruikers typen zijn geautoriseerd voor toegang tot deze door MFA beveiligde pagina's en worden daarom beïnvloed door deze functie
+In de volgende tabel ziet u welke gebruikers typen zijn geautoriseerd voor toegang tot deze door MFA beveiligde pagina's (en die daarom worden beïnvloed door deze functie).
 
 
-| Met MFA beveiligde pagina's       | Beheerders agents      |  Verkoop medewerkers     |   Helpdesk medewerkers     | Globale beheerder      |  Factureringsbeheerder     | 
+| Met MFA beveiligde pagina       | Beheerders agents      |  Verkoop medewerkers     |   Helpdesk medewerkers     | Globale beheerder      |  Factureringsbeheerder     | 
 |---    |---    |---    |---    |---    |---    |
 | Tabblad alle pagina's onder klanten      |   x    |    x   |  x     |       |       |
 | Het tabblad alle pagina's onder ondersteuning > van klant aanvragen     | x      |       |    x   |       |       |
 | Pagina Facturering     |   x    |       |       |    x   |   x    |
 
-## <a name="examples-showing-how-verification-works"></a>Voor beelden van de werking van verificatie
+Als u probeert toegang te krijgen tot een van deze pagina's en u hebt geen MFA-verificatie eerder voltooid, moet u dit doen. Andere pagina's in het partner centrum, zoals de pagina overzicht, de pagina Service Health status controle vereist geen MFA.
 
-Houd rekening met de volgende twee voor beelden om te laten zien hoe verificatie werkt.
+## <a name="verification-examples"></a>Verificatie voorbeelden
+
+Bekijk de volgende voor beelden om te laten zien hoe verificatie werkt in het dash board van de Partner Center.
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Voor beeld 1: partner heeft Azure AD MFA geïmplementeerd
 
@@ -108,7 +100,7 @@ Houd rekening met de volgende twee voor beelden om te laten zien hoe verificatie
 6. John probeert toegang te krijgen tot een van de met MFA beveiligde pagina's in het partner centrum. Omdat John geen MFA-verificatie heeft voltooid, stuurt het partner centrum John door naar Azure AD om de MFA-verificatie te volt ooien. Omdat John een geregistreerde MFA heeft, wordt deze keer alleen gevraagd om de MFA-verificatie te volt ooien.
 
 > [!NOTE]
->Actie: de beheerder van het bedrijf moet MFA nu implementeren via een van de [Opties](partner-security-requirements.md#actions-that-you-need-to-take) die worden voorgesteld door het partner centrum.
+>Actie: bedrijfs beheerders hebben [drie opties](partner-security-requirements.md#implementing-multi-factor-authentication) voor het implementeren van MFA.
 
 ## <a name="partner-center-api"></a>Partnercentrum-API
 
@@ -117,7 +109,7 @@ De partner centrum-API ondersteunt alleen app-only-verificatie en app +-gebruike
 Wanneer app + gebruikers verificatie wordt gebruikt, is voor het partner centrum MFA-verificatie vereist. Meer in het bijzonder, wanneer een partner toepassing een API-aanvraag naar het partner centrum wil verzenden, moet deze een toegangs token bevatten in de autorisatie-header van de aanvraag. 
 
 > [!NOTE]
->Het [beveiligde toepassings model](/partner-center/develop/enable-secure-app-model) is een veilig, schaalbaar Framework voor het verifiëren van CSP-partners en CPVs via de Microsoft Azure MFA-architectuur wanneer u de Partner Center-API aanroept, moet u deze implementeren voordat u MFA op uw Tenant inschakelt. 
+>Het [Framework van het veilige toepassings model](/partner-center/develop/enable-secure-app-model) is een schaalbaar Framework voor het verifiëren van CSP-partners en CPVs via de Microsoft Azure MFA-architectuur bij het aanroepen van partner Center-api's. U moet dit framework implementeren voordat u MFA op uw Tenant inschakelt. 
 
 Wanneer het partner centrum een API-aanvraag ontvangt met een toegangs token dat is verkregen met behulp van app + gebruikers authenticatie, controleert de Partner Center-API of de *MFA* -waarde in de claim van de *verificatie methode Reference (AMR)* aanwezig is. U kunt een JWT-decoder gebruiken om te controleren of een toegangs token de verwachte waarde voor de verificatie methode verwijzing (AMR) bevat of niet:
 
@@ -163,17 +155,17 @@ Als App-Only verificatie wordt gebruikt, werken de Api's die ondersteuning biede
 
 ## <a name="partner-delegated-administration"></a>Door de partner gedelegeerd beheer
 
-### <a name="using-service-portals"></a>Service portals gebruiken
-
 Partner accounts, met inbegrip van beheerders agents en helpdesk agenten, kunnen gebruikmaken van hun partner gedelegeerde beheerders bevoegdheden voor het beheren van klant bronnen via micro soft Online Services portals, opdracht regel interface (CLI) en Api's (met behulp van app + gebruikers verificatie).
 
-Bij het openen van micro soft Online Services-portals die gebruikmaken van de door de partner gedelegeerde beheerders bevoegdheden (beheerder namens) voor het beheer van klant resources, moeten veel van deze portals interactief worden geverifieerd met de klant Azure Active Directory Tenant ingesteld als verificatie context. de partner account is vereist om zich aan te melden bij de Tenant van de klant.
+### <a name="using-service-portals"></a>Service portals gebruiken
 
-Wanneer Azure Active Directory dergelijke verificatie aanvragen ontvangt, is het partner account vereist om MFA-verificatie te volt ooien. Er zijn twee mogelijke gebruikers ervaringen, afhankelijk van het feit of de partner account een beheerde of federatieve identiteit is:
+Bij het openen van micro soft Online Services-portals met behulp van de door de partner gedelegeerde beheerders bevoegdheden (namen van Administrators) voor het beheer van klant resources, moeten veel van deze portals interactief worden geverifieerd met de Azure AD-Tenant van de klant als verificatie context. de partner account is vereist om zich aan te melden bij de klant Tenant.
 
-- Als het partner account een **beheerde** identiteit is, wordt de gebruiker door Azure Active Directory direct gevraagd om de MFA-verificatie te volt ooien. Als het partner account niet is geregistreerd voor MFA met Azure Active Directory eerder, wordt de gebruiker gevraagd de [MFA-registratie te volt ooien](#mfa-registration-experience) .
+Wanneer Azure AD dergelijke verificatie aanvragen ontvangt, is het partner account vereist voor het volt ooien van de MFA-verificatie. Er zijn twee mogelijke gebruikers ervaringen, afhankelijk van het feit of de partner account een beheerde of federatieve identiteit is:
 
-- Als het partner account een **federatieve** identiteit is, is de ervaring afhankelijk van de manier waarop de partner beheerder federatie in azure Active Directory heeft geconfigureerd. Bij het instellen van Federatie in Azure Active Directory kan de partner beheerder Azure Active Directory aangeven of de federatieve id-provider MFA ondersteunt of niet. Als dit het geval is, wordt de gebruiker door Azure Active Directory omgeleid naar de federatieve id-provider om de MFA-verificatie te volt ooien. Anders wordt de gebruiker door Azure Active Directory direct gevraagd om de MFA-verificatie te volt ooien. Als het partner account niet is geregistreerd voor MFA met Azure Active Directory eerder, wordt de gebruiker gevraagd de [MFA-registratie te volt ooien](#mfa-registration-experience) .
+- Als het partner account een **beheerde** identiteit is, wordt de gebruiker rechtstreeks door Azure AD gevraagd om de MFA-verificatie te volt ooien. Als het partner account niet eerder is geregistreerd voor MFA met Azure AD, wordt de gebruiker gevraagd om de [MFA-registratie te volt ooien](#mfa-registration-experience) .
+
+- Als het partner account een **federatieve** identiteit is, is de ervaring afhankelijk van de manier waarop de partner beheerder Federatie in azure AD heeft geconfigureerd. Bij het instellen van Federatie in azure AD kan de partner beheerder aangeven of de federatieve id-provider MFA ondersteunt of niet. Als dit het geval is, wordt de gebruiker door Azure AD omgeleid naar de federatieve id-provider om de MFA-verificatie te volt ooien. Anders vraagt Azure AD de gebruiker direct om de MFA-verificatie te volt ooien. Als het partner account niet eerder is geregistreerd voor MFA met Azure AD, wordt de gebruiker gevraagd om de [MFA-registratie te volt ooien](#mfa-registration-experience) .
 
 De algemene ervaring is vergelijkbaar met het scenario waarin een Tenant van een eind gebruiker MFA voor de beheerders heeft geïmplementeerd. De Tenant van de klant heeft bijvoorbeeld de [standaard instellingen voor Azure AD-beveiliging](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)ingeschakeld. hiervoor zijn alle accounts met beheerders rechten nodig om zich aan te melden bij de klant TENANT met MFA-verificatie, met inbegrip van beheerders agents en helpdesk agenten. Voor test doeleinden kunnen partners de [standaard instellingen van de Azure AD-beveiliging](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) inschakelen in de Tenant van de klant en vervolgens proberen om toegang te krijgen tot de eigenaar van de klant.
 
@@ -205,16 +197,10 @@ Nadat u op **volgende** hebt geklikt, wordt de gebruiker gevraagd om te kiezen u
 :::image type="content" source="images/MfaRegistration2.png" alt-text="MFA-registratie stap 1":::
 
 Na een geslaagde registratie is de gebruiker verplicht om de MFA-verificatie te volt ooien op basis van de door de gebruiker gekozen verificatie.
-
-## <a name="request-for-technical-exception"></a>Aanvraag voor technische uitzonde ring
-
-Partners kunnen van toepassing zijn op een technische uitzonde ring om MFA-verificatie te onderdrukken als er technische problemen met micro soft Online Services optreden en er geen bruikbare oplossingen of tijdelijke oplossingen zijn. Lees de volgende secties voordat u dit doet:
-
-- [Lijst met veelvoorkomende problemen die door partners worden gerapporteerd](#list-of-common-issues-reported-by-partners)
-- [Een aanvraag indienen voor een technische uitzonde ring](#how-to-submit-a-request-for-technical-exception)
  
-### <a name="list-of-common-issues-reported-by-partners"></a>Lijst met veelvoorkomende problemen die door partners worden gerapporteerd
-Lees, voordat u een technische uitzonde ring toepast, de lijst met veelvoorkomende problemen die door andere partners zijn gerapporteerd om te begrijpen of ze geldige redenen voor technische uitzonde ringen zijn.
+## <a name="list-of-common-issues"></a>Lijst met veelvoorkomende problemen
+
+Lees, voordat u een [technische uitzonde ring](#how-to-submit-a-request-for-technical-exception) van de MFA-vereiste toepast, de lijst met veelvoorkomende problemen die door andere partners zijn gerapporteerd om te begrijpen of uw aanvraag geldig is.
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Probleem 1: partner heeft meer tijd nodig om MFA voor hun partner agenten te implementeren
 Een partner is niet gestart of is nog steeds in het proces van het implementeren van MFA voor hun partner agenten die toegang nodig hebben tot micro soft Online Services-portals met behulp van gedelegeerde beheer bevoegdheden voor het beheren van klant resources. De partner heeft meer tijd nodig om de MFA-implementatie te volt ooien. Is dit een geldige reden voor een technische uitzonde ring?
@@ -261,7 +247,9 @@ Een partner heeft MFA geïmplementeerd voor hun gebruikers met behulp van een MF
 
 - De aankoop order van de MFA-oplossing van derden die u gebruikt of die u wilt gebruiken.
 
-### <a name="how-to-submit-a-request-for-technical-exception"></a>Een aanvraag indienen voor een technische uitzonde ring
+## <a name="how-to-submit-a-request-for-technical-exception"></a>Een aanvraag indienen voor een technische uitzonde ring
+
+Partners kunnen van toepassing zijn op een technische uitzonde ring om MFA-verificatie te onderdrukken als er technische problemen met micro soft Online Services optreden en er geen bruikbare oplossingen of tijdelijke oplossingen zijn. Bekijk de [lijst met veelvoorkomende problemen](#list-of-common-issues) in de vorige sectie voordat u dit doet.
 
 Een aanvraag indienen voor een technische uitzonde ring:
 
@@ -274,3 +262,7 @@ Een aanvraag indienen voor een technische uitzonde ring:
 4. Geef de gevraagde details op voor het indienen van een service aanvraag voor een technische uitzonde ring en klik op **verzenden** .
 
 Micro soft kan Maxi maal drie werk dagen duren om een antwoord te geven op een aanvraag voor technische uitzonde ring.
+
+## <a name="next-steps"></a>Volgende stappen
+
+ - [Status van partner beveiligings vereisten](partner-security-compliance.md)

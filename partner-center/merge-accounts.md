@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795828"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189744"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Uw partneraccount samenvoegen met een ander partneraccount
 
@@ -98,18 +98,28 @@ Als u besluit de uitnodiging voor het samen voegen van accounts te accepteren: �
   
     b. een Azure AD-Tenant = @contoso.com
  
-    c. een Gold-competentie die een periode van 1 oktober, 2020
+    c. een Gold-competentie die verloopt op 1 oktober 2020
 2. Fabricam heeft
  
     a.  een globale MPN-ID van 3333333 en twee onderliggende locatie MPN-Id's van 4444444 en 5555555
 
-    b.  een AAD-Tenant = @fabricam.com
+    b.  een Azure AD-Tenant = @fabricam.com
 
-    c.  twee Gold-competenties die verloopt dec 1e 2020
-3.  Contoso koopt fabricam en gaat [hier](https://partner.microsoft.com/dashboard/account/merger) om een aanvraag voor samen voegen te initiëren
+    c.  twee Gold-competenties die verlopen op 1 december 2020
+3.  Contoso koopt fabricam en gaat [hier](https://partner.microsoft.com/dashboard/account/merger) om een aanvraag voor samen voegen te initiëren.
 4.  Fabricam meldt zich aan bij het partner centrum en gaat naar dezelfde pagina als contoso tijdens stap #3, om de aanvraag van Contoso goed te keuren.
 5.  Contoso controleert de details van de samen voeging op diezelfde pagina en geeft een bevestiging om door te gaan met de account fusie.
+6.  Na de fusie wordt het bedrijfs account als volgt weer gegeven:
+
+    a.  Een bedrijf met de naam contoso met een globale MPN-ID van 1111111 en 4 ondergeschikte locatie MPN-Id's van 2222222, 3333333, 4444444 en 5555555
     
+    b.  Het heeft twee Azure AD-tenants ( @contoso.com + @fabricam.com ) die toegang hebben tot hetzelfde partner centrum-account
+    
+    c.  Het heeft twee competentie voordelen, een die verloopt op 1 oktober 2020 en een andere die verloopt op 1 december 2020. Ze kunnen op 1 december 2020 worden vernieuwd als een pakket met enkele competentie voordelen. Wanneer ze worden vernieuwd, behoudt contoso alle drie de competenties, zelfs als ze slechts één voor delen van het pakket kunnen onderhouden.
+    
+7.  De beheerders van Contoso blijven het beheer van de functies van het partner centrum voor @contoso.com gebruikers. Beheerders van fabricam blijven het beheer van de functies van het partner centrum voor @fabricam.com de gebruikers. Beheerders van Contoso kunnen alleen fabricam-gebruikers beheren als ze worden uitgenodigd als een gast in de Tenant van fabricam.
+8.  Contoso kan besluiten de Tenant te negeren @fabricam.com en de nieuwe referenties van de fabricam-werk nemers opnieuw te verlenen @contoso.com met nieuwe rollen en machtigingen.
+
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Beheerdersrollen en -machtigingen toewijzen](permissions-overview.md)

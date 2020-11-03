@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 144ca69d3ea52921351d84dae40d007a976ddf73
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92528851"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749736"
 ---
 # <a name="october-2020-announcements"></a>Aankondigingen van oktober 2020
 
@@ -22,6 +22,71 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 
 2020 mede delingen: [maart](2020-march.md)  |  [april](2020-april.md)  |  [mei](2020-may.md)juni tot en met  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [september](2020-september.md) | Oktober
 
+________________________________
+
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Introductie van een prestatie norm voor directe vereisten voor factuur partners in het Cloud Solution Provider-programma (CSP)
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-10-27
+- Functionaliteit
+ 
+### <a name="summary"></a>Samenvatting
+
+We introduceren een prestatie norm als onderdeel van de vereisten voor directe factuur partners in het Cloud Solution Provider-programma.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Directe factuur partners in het Cloud Solution Provider-programma.
+
+### <a name="details"></a>Details
+
+Het groeiend en optimaliseren van het Microsoft Cloud Solution Provider-programma is een belang rijk onderdeel van onze reis naar een nieuwe Commerce-ervaring voor partners en klanten. Daarom zullen we het programma blijven ontwikkelen om te voldoen aan de veranderende behoeften van klanten en de meest efficiënte en winstgevende ervaring bieden, onze partners.
+
+Vandaag delen we een paar aanstaande wijzigingen in de vereisten voor directe factuur partners in het Cloud Solution Provider-programma.
+
+Eerst **wordt een prestatie norm geïntroduceerd als onderdeel van de vereisten voor de directe factuur partner** . Partners die zich willen inschrijven als directe factuur partners in het Cloud Solution Provider-programma, moeten voldoen aan ten minste USD300K in de omzet van het Cloud Solution Provider-programma gedurende de 12 maanden vóór de vereiste datum voor de verlenging van de [ondersteunings contract](https://partner.microsoft.com/support/partnersupport) .
+
+Deze prestatie norm wordt in januari 2021 van kracht voor actuele directe factuur partners, en u moet voldoen aan de vereisten voor de vernieuwings datum van uw partner ondersteunings abonnement.
+
+Als u niet in staat bent om te voldoen aan de bijgewerkte vereisten voor de directe factuur partner, moet u zich opnieuw inschrijven als een indirecte wederverkoper in het Cloud Solution Provider-programma. 
+
+Deze nieuwe omzet vereiste helpt partners in het Cloud Solution Provider-programma bij het bouwen van een rendabeler bedrijf via het juiste model, met een duidelijkere prestatie norm en focussen op het leveren van grotere waarden aan klanten met minder infra structuur en operationele overhead.
+
+Ten tweede, in augustus 2018, hebben we de vereisten voor de directe factuur partner bijgewerkt met nieuwe criteria voor partners om een ondersteunings abonnement voor een gekwalificeerde partner aan te schaffen. We benadrukken het belang van dit vereiste voor alle direct-factuur partners in het Cloud Solution Provider-programma opnieuw uit.
+
+### <a name="direct-bill-partner-requirements"></a>Vereisten voor de directe factuur partner
+
+Bekijk de bijgewerkte vereisten en aanbevelingen voor de [directe factuur partner](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) om te evalueren hoe u een winstgevender bedrijf kunt bouwen en uitbreiden met het juiste model in het Cloud Solution Provider-programma:
+
+1. **vereiste voor nieuwe omzet prestaties**
+
+**Bestaande partners** die momenteel zijn geregistreerd in het Cloud Solution Provider-programma als directe factuur partners, moeten voldoen aan de nieuwe prestatie norm vanaf januari 2021. U hebt de tijd tot uw abonnement voor het ondersteunings plan van de volgende partner aan de vereisten voldoet. U kunt uw afsluitende omzet van twaalf maanden bekijken in het partner centrum door [deze hand leiding](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)te volgen.
+
+Nieuwe partners die in het Cloud Solution Provider-programma worden inge schreven, worden gestart als indirecte wederverkopers vanaf **oktober 2020** . Ze moeten gedurende de afgelopen 12 maanden ten minste USD300K hebben voor de CSP-omzet. U kunt uw afsluitende omzet van 12 maanden bekijken in het partner centrum door [deze hand leiding](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)te volgen. 
+
+2. **vereiste voor ondersteunings contract** 
+
+Breid uw ondersteunings mogelijkheden uit door een van twee ondersteunings contract opties te kopen:  
+
+   - Micro soft-geavanceerde ondersteuning voor partners (ASfP): één-op-één, Cloud ondersteuning met prioriteit  
+   - Micro soft Premier Support for partners (PSfP): toegang tot de volledige catalogus met proactieve services, 24/7 verhoogde ondersteunings ondersteuning en technisch account beheer in de Cloud, hybride en on-premises. 
+
+Vergelijk de [Opties voor ondersteunings contract](https://partner.microsoft.com/support/partnersupport) om een gekwalificeerd abonnement aan te schaffen.
+
+### <a name="direct-bill-partner-recommendations"></a>Aanbevelingen voor directe factuur partner
+
+**De belangrijkste mogelijkheden demonstreren**
+
+Om ervoor te zorgen dat u klaar en bekend bent met betrekking tot de infra structuur die nodig is voor de ondersteuning van het directe factuur programma, hebben we enkele extra aanbevelingen. Laat zien dat u ten minste één beheerde service, een IP-service of een oplossings toepassing voor klanten hebt. Partners moeten een waarde toevoegen boven aan Microsoft Cloud Services en niet alleen een rechtstreekse wederverkoop van onze services doen. Het is een belang rijk onderdeel van de go-to-Market-strategie van een partner. Meer [informatie](https://partner.microsoft.com/solutions/managed-services) over het toevoegen van beheerde services. We raden u aan om te voldoen aan de minimale infrastructuur mogelijkheden, zoals facturering en inrichting. 
+
+Directe-factuur partners in het CSP-programma die niet aan de nieuwe vereisten voldoen, moeten zich opnieuw registreren als indirecte wederverkopers in het programma binnen de Microsoft Partner Network. Meer [informatie](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) over hoe u de overgang van een directe factuur partner kunt maken naar een indirecte wederverkoper.  
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Bekijk de [bijgewerkte vereisten voor de directe factuur partner](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements).
+- Lees de veelgestelde vragen en andere informatie in de [resource galerie voor bewerkingen op de website van micro soft partner](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
+- Zoek [een indirecte provider om mee te werken](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) als de optie voor de indirecte wederverkoper beter aansluit bij uw bedrijfs behoeften.
 ________________________________
 
 ## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Updates voor Microsoft 365 Business Voice-aanbiedingen
@@ -517,7 +582,7 @@ ________________
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-10-01
-- Functies
+- Functionaliteit
 
 ### <a name="summary"></a>Samenvatting
 

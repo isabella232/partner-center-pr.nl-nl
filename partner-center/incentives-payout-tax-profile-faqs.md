@@ -1,19 +1,19 @@
 ---
 title: Veelgestelde vragen over prikkels en BTW-profielen
 ms.topic: article
-ms.date: 10/22/2020
+ms.date: 10/27/2020
 description: Veelgestelde vragen over de toekenning van prikkels en BTW-profielen. Vragen bevatten waarom u uw uitbetalings-en BTW-profielen niet kunt zien en wat u ermee kunt doen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
-ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
+ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/23/2020
-ms.locfileid: "92528853"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133130"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Veelgestelde vragen over de toekenning van prikkels en BTW-profielen
 
@@ -26,32 +26,6 @@ Juiste rollen:
 - Prikkel beheerder
 - Accountbeheerder
 - Globale beheerder
-
-## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mijn belasting profiel is verlopen. Hoe kan ik dit probleem oplossen?
-
-Als een BTW-profiel is verlopen of verloopt, betekent dit dat het BTW-formulier dat u aan micro soft hebt gegeven, moet worden bijgewerkt. Gebruik de volgende procedure om de BTW-profielen te bewerken:
-
-1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
-
-2. Selecteer het tandwielpictogram om het menu **Instellingen** te openen.
-
-3. Selecteer onder **Accountinstellingen** **Uitbetaling en btw** en selecteer vervolgens **Uitbetalings- en belastingprofielen** .
-
-4. Selecteer het **BTW-profiel** .
-
-5. Selecteer de kolom **verval datum** en navigeer vervolgens naar het BTW-profiel dat is verlopen of op het punt staat te verlopen.
-
-6. Selecteer **bewerken** om het bewerkings proces van het BTW-profiel te starten.
-
-7. Werk de BTW-formulieren bij door de vereiste gegevens op te geven.
-
-## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Hoe zorgt micro soft ervoor dat de Bank gegevens inderdaad van het bedrijf zijn en niet een persoonlijke Bank rekening voor een werk nemer?
-
-Het is de verantwoordelijkheid van het bedrijf om ervoor te zorgen dat de rol van prikkel beheerder-die de machtigingen heeft voor het bewerken van deze informatie, alleen wordt verstrekt aan de juiste werk nemers.
-
-## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Kan ik dezelfde bank-en belasting gegevens gebruiken voor alle stimulerings Programma's bij micro soft?
-
-Als uw bedrijf is uitgenodigd voor meerdere stimulerings Programma's, kunt u hetzelfde betalings account gebruiken voor al uw prikkel-Program ma's of ervoor kiezen om verschillende betalings accounts te hebben voor de verschillende Program ma's.
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>Waarom moet ik mijn uitbetaling en/of belasting gegevens opgeven?
 
@@ -94,6 +68,32 @@ Belastingprofielen die zijn gemaakt voor een MPN-locatie worden opnieuw gebruikt
 ## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ik kan me alleen aanmelden met mijn @onmicrosoft.com domein. Wat moet ik doen?
 
 Neem contact op met uw accountbeheerder om extra domeinen aan het AAD-account toe te voegen.
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mijn belasting profiel is verlopen. Hoe kan ik dit probleem oplossen?
+
+Als een BTW-profiel is verlopen of verloopt, betekent dit dat het BTW-formulier dat u aan micro soft hebt gegeven, moet worden bijgewerkt. Gebruik de volgende procedure om de BTW-profielen te bewerken:
+
+1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
+
+2. Selecteer het tandwielpictogram om het menu **Instellingen** te openen.
+
+3. Selecteer onder **Accountinstellingen** **Uitbetaling en btw** en selecteer vervolgens **Uitbetalings- en belastingprofielen** .
+
+4. Selecteer het **BTW-profiel** .
+
+5. Selecteer de kolom **verval datum** en navigeer vervolgens naar het BTW-profiel dat is verlopen of op het punt staat te verlopen.
+
+6. Selecteer **bewerken** om het bewerkings proces van het BTW-profiel te starten.
+
+7. Werk de BTW-formulieren bij door de vereiste gegevens op te geven.
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Hoe zorgt micro soft ervoor dat de Bank gegevens inderdaad van het bedrijf zijn en niet een persoonlijke Bank rekening voor een werk nemer?
+
+Het is de verantwoordelijkheid van het bedrijf om ervoor te zorgen dat de rol van prikkel beheerder-die de machtigingen heeft voor het bewerken van deze informatie, alleen wordt verstrekt aan de juiste werk nemers.
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Kan ik dezelfde bank-en belasting gegevens gebruiken voor alle stimulerings Programma's bij micro soft?
+
+Als uw bedrijf is uitgenodigd voor meerdere stimulerings Programma's, kunt u hetzelfde betalings account gebruiken voor al uw prikkel-Program ma's of ervoor kiezen om verschillende betalings accounts te hebben voor de verschillende Program ma's.
 
 ## <a name="next-steps"></a>Volgende stappen
 

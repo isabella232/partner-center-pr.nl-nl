@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/09/2020
-ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/28/2020
+ms.openlocfilehash: 760e0157437dbad74c779100123b4239083ca6b7
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795766"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917141"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Vereisten voor inschrijving als een CSP-partner voor directe facturering
 
@@ -28,11 +28,11 @@ Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw kla
 
 ### <a name="minimum-requirements"></a>Minimale vereisten
 
-|**Vereiste**|                             |
+|**Vereiste**| **Uitleg**|
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-id**   |Een MPN-ID (Active Microsoft Partner Network) voor uw bedrijfs locatie.    |
 |**Goedkeurings**   |De autoriteit om juridische overeenkomsten namens uw organisatie te accepteren en te ondertekenen.|
-|**CONT**|Vanaf januari 2021 moeten partners die zijn Inge schreven als directe factuur partners, ten minste USD € 300 euro hebben in het Cloud Solution Provider-programma opbrengst op een wereld wijd account niveau van de twaalf maanden.| 
+|**CONT**|Moet voldoen aan ten minste USD300K in het Cloud Solution Provider-programma jaarlijkse omzet tijdens de voorafgaande twaalf maanden als een indirecte wederverkoper. Partners kunnen hun navolgende twaalf maanden aan opbrengst van het partner centrum beoordelen. de verkoop waaruit uw USD300K-afsluitende opbrengst van twaalf maanden bestaan, is onderhevig aan de beoordeling en verificatie door micro soft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De vereiste voor de USD300K-omzet wordt berekend op basis van de Cloud omzet en zal permanente software in CSP uitsluiten. Raadpleeg de [analyse van abonnementen](https://partner.microsoft.com/dashboard/analytics/licenseanalytics) voor meer informatie over de vorige omzet van 12 maanden.|
 |**Ondersteuning**   |De mogelijkheid om het eerste niveau van Cloud product ondersteuning te bieden aan uw klanten. <br/>Een micro soft-ondersteunings plan, een geavanceerde ondersteuning voor partners (ASfP) of Premier Support voor partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteunings abonnementen](https://partner.microsoft.com/support/partnersupport).<br/> BELANG rijk: u moet een krediet controle door lopen voordat u een ondersteunings abonnement kunt aanschaffen. We sturen u een e-mail wanneer u de krediet controle hebt door gegeven. |
 |**Beheerde service**   |Ten minste één beheerde service, IP-service of klant oplossings toepassing. Meer informatie over het toevoegen van [beheerde services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Debiteuren** |De organisatie-infra structuur voor het beheren van facturering en inrichting van klanten.|
@@ -55,6 +55,9 @@ Huidige direct-factuur partners moeten voldoen aan de nieuwe vereisten om in het
 Als u besluit om over te stappen van een directe factuur naar een indirecte reseller, zijn er een aantal belang rijkere handelingen die u moet uitvoeren. Lees voor meer informatie over overgangen de [overgang van de partner solution provider (CSP) naar de indirecte dealer van CSP](transition-direct-to-indirect.md).
 
 ## <a name="next-steps"></a>Volgende stappen
+
+- [Nieuwe opbrengst vereiste voor directe factuur partners](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+ 
 
 - [Aanvullende informatie over een indirecte wederverkoper](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
