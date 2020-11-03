@@ -1,0 +1,66 @@
+---
+title: Request an SLA credit from Microsoft (Een SLA-tegoed aanvragen van Microsoft)
+ms.topic: article
+ms.date: 04/28/2020
+description: Meer informatie over de voor delen, beperkingen en procedures voor het aanvragen van een service overeenkomst (SLA) van micro soft als uw klanten een service storing ondervinden.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+author: parthpandyaMSFT
+ms.author: parthp
+ms.localizationpriority: medium
+ms.custom: SEOAPR.20
+ms.openlocfilehash: cb8f6b2280318427b2015403b528fc288ef64d97
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "92527492"
+---
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a><span data-ttu-id="fd731-103">Hoe en wanneer een Service-Level Agreement (SLA)-tegoed van micro soft wordt aangevraagd</span><span class="sxs-lookup"><span data-stu-id="fd731-103">How and when to request a service-level agreement (SLA) credit from Microsoft</span></span>
+
+<span data-ttu-id="fd731-104">U kunt **tegoeden van de service overeenkomst (Sla)** aanvragen bij micro soft als een service die u voor uw klanten levert een storing heeft.</span><span class="sxs-lookup"><span data-stu-id="fd731-104">You're able to request **service-level agreement (SLA) credits** from Microsoft if a service that you're providing for your customers has an outage.</span></span>
+
+## <a name="sla-credit-calculation"></a><span data-ttu-id="fd731-105">SLA-credit berekening</span><span class="sxs-lookup"><span data-stu-id="fd731-105">SLA credit calculation</span></span>
+
+<span data-ttu-id="fd731-106">SLA-credits van micro soft worden bepaald op basis van de betrokken service (s).</span><span class="sxs-lookup"><span data-stu-id="fd731-106">SLA credits from Microsoft are determined based on which service(s) were impacted.</span></span> <span data-ttu-id="fd731-107">Als uw klant bijvoorbeeld een Office 365-pakket heeft, maar alleen een share point-onderbreking heeft gehad, wordt het SLA-tegoed alleen goedgekeurd voor share point en niet voor het hele abonnement van de klant.</span><span class="sxs-lookup"><span data-stu-id="fd731-107">For example, if your customer has an Office 365 suite but only experienced a SharePoint outage, the SLA credit is approved only for SharePoint and not the customer's entire plan.</span></span>
+
+<span data-ttu-id="fd731-108">*De verantwoording wordt pro rata berekend op basis van de betrokken service en de duur van de storing.*</span><span class="sxs-lookup"><span data-stu-id="fd731-108">*Credits are pro-rated based on the service affected and the duration of the outage.*</span></span> <span data-ttu-id="fd731-109">Zie het [geconsolideerde Sla-document voor Online Services](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37)voor een overzicht van de scenario's die in aanmerking komen voor sla-credits.</span><span class="sxs-lookup"><span data-stu-id="fd731-109">To see the types of scenarios that qualify for SLA credits, see the [Online Services Consolidated SLA document](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37).</span></span> <span data-ttu-id="fd731-110">Deze informatie is ook van toepassing op Services die via het Cloud Solution Provider-programma worden verkocht.</span><span class="sxs-lookup"><span data-stu-id="fd731-110">This information applies to services sold through the Cloud Solution Provider program, too.</span></span>
+
+## <a name="request-an-sla-credit"></a><span data-ttu-id="fd731-111">Een SLA-tegoed aanvragen</span><span class="sxs-lookup"><span data-stu-id="fd731-111">Request an SLA credit</span></span>
+
+<span data-ttu-id="fd731-112">*De provider van de Cloud Solution Provider (CSP) moet de claim en alle vereiste gegevens aan het einde van de kalender maand indienen, volgend op de maand waarin het incident heeft plaatsgevonden.*</span><span class="sxs-lookup"><span data-stu-id="fd731-112">*The Cloud Solution Provider (CSP) partner must submit the claim and all required information by the end of the calendar month following the month in which the incident occurred.*</span></span> <span data-ttu-id="fd731-113">Als het incident bijvoorbeeld op 15 februari heeft plaatsgevonden, moet micro soft de claim en alle vereiste informatie op 31 maart ontvangen.</span><span class="sxs-lookup"><span data-stu-id="fd731-113">For example, if the incident occurred on February 15th, Microsoft must receive the claim and all required information by March 31st.</span></span> <span data-ttu-id="fd731-114">Eind klanten en indirecte wederverkopers kunnen geen SLA-krediet claims verzenden; de indirect provider of de direct factuur partner moet namens hen claims indienen.</span><span class="sxs-lookup"><span data-stu-id="fd731-114">End customers and indirect resellers can't submit SLA credit claims; either the indirect provider or direct bill partner must submit claims on their behalf.</span></span>
+
+### <a name="required-information"></a><span data-ttu-id="fd731-115">Vereiste informatie</span><span class="sxs-lookup"><span data-stu-id="fd731-115">Required information</span></span>
+
+<span data-ttu-id="fd731-116">Voordat u [een sla-krediet aanvraag](#submit-sla-credit-request) naar micro soft verzendt, moet u de volgende informatie verzamelen die u in uw ondersteunings ticket kunt gebruiken:</span><span class="sxs-lookup"><span data-stu-id="fd731-116">Before you [submit an SLA credit request](#submit-sla-credit-request) to Microsoft, you must gather the following information to include in your support ticket:</span></span>
+
+- <span data-ttu-id="fd731-117">De GUID van de klant Tenant</span><span class="sxs-lookup"><span data-stu-id="fd731-117">The customer tenant's GUID</span></span>
+- <span data-ttu-id="fd731-118">De [id van het storings incident](#outage-incident-identifier)?</span><span class="sxs-lookup"><span data-stu-id="fd731-118">The [outage incident identifier](#outage-incident-identifier)?</span></span>
+- <span data-ttu-id="fd731-119">Waren de betrokken abonnementen die zijn aangeschaft via CSP?</span><span class="sxs-lookup"><span data-stu-id="fd731-119">Were the impacted subscriptions purchased through CSP?</span></span> <span data-ttu-id="fd731-120">( *Ja* of *Nee* )</span><span class="sxs-lookup"><span data-stu-id="fd731-120">( *yes* or *no* )</span></span>
+
+#### <a name="outage-incident-identifier"></a><span data-ttu-id="fd731-121">Id van uitval incident</span><span class="sxs-lookup"><span data-stu-id="fd731-121">Outage incident identifier</span></span>
+
+<span data-ttu-id="fd731-122">U kunt de id voor het uitval incident vinden op de pagina **service Health** in het Microsoft 365 beheer centrum.</span><span class="sxs-lookup"><span data-stu-id="fd731-122">You can find the identifier for the outage incident on the **Service Health** page in the Microsoft 365 admin center.</span></span> <span data-ttu-id="fd731-123">De **id van het onderbrekings incident** is een getal voorafgegaan door een afkorting van twee letters die de betrokken service aanduidt (bijvoorbeeld *EX25194* voor een Exchange Online-onderbreking).</span><span class="sxs-lookup"><span data-stu-id="fd731-123">The **Outage Incident ID** is a number preceded by a two-letter abbreviation that indicates the affected service (for example, *EX25194* for an Exchange Online outage).</span></span> <span data-ttu-id="fd731-124">In de volgende tabel worden veelvoorkomende afkortingen van services beschreven:</span><span class="sxs-lookup"><span data-stu-id="fd731-124">The follow table describes common service abbreviations:</span></span>
+
+| <span data-ttu-id="fd731-125">Afkorting van twee letters</span><span class="sxs-lookup"><span data-stu-id="fd731-125">Two-letter abbreviation</span></span> | <span data-ttu-id="fd731-126">Micro soft-service</span><span class="sxs-lookup"><span data-stu-id="fd731-126">Microsoft service</span></span> |
+| ----------------------- | ----------------- |
+| <span data-ttu-id="fd731-127">KADE</span><span class="sxs-lookup"><span data-stu-id="fd731-127">EX</span></span> | <span data-ttu-id="fd731-128">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="fd731-128">Exchange Online</span></span> |
+| <span data-ttu-id="fd731-129">FO</span><span class="sxs-lookup"><span data-stu-id="fd731-129">FO</span></span> | <span data-ttu-id="fd731-130">Exchange Online-beveiliging</span><span class="sxs-lookup"><span data-stu-id="fd731-130">Exchange Online Protection</span></span> |
+| <span data-ttu-id="fd731-131">SB</span><span class="sxs-lookup"><span data-stu-id="fd731-131">SB</span></span> | <span data-ttu-id="fd731-132">Skype voor bedrijven online (voorheen Lync online)</span><span class="sxs-lookup"><span data-stu-id="fd731-132">Skype for Business Online (formerly Lync Online)</span></span> |
+| <span data-ttu-id="fd731-133">Besturingssysteem</span><span class="sxs-lookup"><span data-stu-id="fd731-133">OS</span></span> | <span data-ttu-id="fd731-134">Office-abonnement</span><span class="sxs-lookup"><span data-stu-id="fd731-134">Office Subscription</span></span> |
+| <span data-ttu-id="fd731-135">PB</span><span class="sxs-lookup"><span data-stu-id="fd731-135">PB</span></span> | <span data-ttu-id="fd731-136">Power BI voor Office 365</span><span class="sxs-lookup"><span data-stu-id="fd731-136">Power BI for Office 365</span></span> |
+| <span data-ttu-id="fd731-137">SP</span><span class="sxs-lookup"><span data-stu-id="fd731-137">SP</span></span> | <span data-ttu-id="fd731-138">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="fd731-138">SharePoint Online</span></span> |
+| <span data-ttu-id="fd731-139">YA</span><span class="sxs-lookup"><span data-stu-id="fd731-139">YA</span></span> | <span data-ttu-id="fd731-140">Yammer Enter prise</span><span class="sxs-lookup"><span data-stu-id="fd731-140">Yammer Enterprise</span></span> |
+| <span data-ttu-id="fd731-141">MO</span><span class="sxs-lookup"><span data-stu-id="fd731-141">MO</span></span> | <span data-ttu-id="fd731-142">Portal fout</span><span class="sxs-lookup"><span data-stu-id="fd731-142">Portal error</span></span> |
+
+### <a name="submit-sla-credit-request"></a><span data-ttu-id="fd731-143">SLA-krediet aanvraag indienen</span><span class="sxs-lookup"><span data-stu-id="fd731-143">Submit SLA credit request</span></span>
+
+<span data-ttu-id="fd731-144">Uw SLA-krediet aanvraag naar micro soft verzenden via het dash board van de partner centrum:</span><span class="sxs-lookup"><span data-stu-id="fd731-144">To submit your SLA credit request to Microsoft through the Partner Center dashboard:</span></span>
+
+1. <span data-ttu-id="fd731-145">Meld u aan bij het dash board van de partner centrum.</span><span class="sxs-lookup"><span data-stu-id="fd731-145">Sign in to the Partner Center dashboard.</span></span>
+2. <span data-ttu-id="fd731-146">Kies in het menu links **service aanvragen** en selecteer vervolgens **partner-ondersteunings aanvragen** .</span><span class="sxs-lookup"><span data-stu-id="fd731-146">In the left-hand menu, choose **Service requests** , then select **Partner support requests** .</span></span>
+3. <span data-ttu-id="fd731-147">Kies op de pagina **partner aanvraag** de optie **nieuwe aanvraag** .</span><span class="sxs-lookup"><span data-stu-id="fd731-147">On the **Partner request** page, choose **New request** .</span></span>
+4. <span data-ttu-id="fd731-148">Zoek op de pagina **de aanvraag starten** naar de sectie **CSP-klanten, orders en abonnementen** .</span><span class="sxs-lookup"><span data-stu-id="fd731-148">On the **Start the request** page, find the section **CSP - customers, orders and subscriptions** .</span></span> <span data-ttu-id="fd731-149">In deze sectie kiest **u een probleem type selecteren** en selecteert u vervolgens **aanvragen voor tegoeden voor klanten services** .</span><span class="sxs-lookup"><span data-stu-id="fd731-149">In this section, choose **Select an issue type** , then select **Customer services credit requests** .</span></span>
+5. <span data-ttu-id="fd731-150">Op de pagina **Aanbevolen oplossingen** onder hebt **u meer hulp nodig? klikt u** op **Ja** .</span><span class="sxs-lookup"><span data-stu-id="fd731-150">On the **Recommended solutions** page, under **Do you need more help?** , choose **Yes** .</span></span>
+6. <span data-ttu-id="fd731-151">Vul op de pagina **Details** de sectie Details van het **probleem** in.</span><span class="sxs-lookup"><span data-stu-id="fd731-151">On the **Details** page, fill out the **Issue details** section.</span></span> <span data-ttu-id="fd731-152">In het tekstvak **Details** moet u de [vereiste informatie](#required-information) invoeren die u eerder hebt verzameld.</span><span class="sxs-lookup"><span data-stu-id="fd731-152">In the **Details** text box, be sure to enter the [required information](#required-information) that you gathered earlier.</span></span>
+7. <span data-ttu-id="fd731-153">Kies **verzenden** om in uw sla-krediet aanvraag te verzenden.</span><span class="sxs-lookup"><span data-stu-id="fd731-153">Choose **Submit** to send in your SLA credit request.</span></span>

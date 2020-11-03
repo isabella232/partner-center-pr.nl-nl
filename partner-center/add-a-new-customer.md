@@ -1,0 +1,73 @@
+---
+title: Een nieuwe klant record toevoegen
+ms.topic: how-to
+ms.date: 04/27/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Meer informatie over het toevoegen van een nieuwe klant record in Partner Center. Vervolgens kunt u de abonnementen van klanten verkopen, facturering beheren of klanten ondersteuning bieden.
+author: parthp
+ms.author: parthp
+ms.localizationpriority: medium
+ms.custom: SEOAPR.20
+ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92528666"
+---
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a><span data-ttu-id="b0489-104">Een nieuwe klant record toevoegen in het partner centrum</span><span class="sxs-lookup"><span data-stu-id="b0489-104">How to add a new customer record in Partner Center</span></span>
+
+<span data-ttu-id="b0489-105">**Van toepassing op**</span><span class="sxs-lookup"><span data-stu-id="b0489-105">**Applies to**</span></span>
+
+- <span data-ttu-id="b0489-106">Partnercentrum</span><span class="sxs-lookup"><span data-stu-id="b0489-106">Partner Center</span></span>
+- <span data-ttu-id="b0489-107">Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid</span><span class="sxs-lookup"><span data-stu-id="b0489-107">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="b0489-108">Partners van Cloud Solution Provider-Program ma's</span><span class="sxs-lookup"><span data-stu-id="b0489-108">Cloud Solution Provider program partners</span></span>
+
+<span data-ttu-id="b0489-109">**Juiste rollen**</span><span class="sxs-lookup"><span data-stu-id="b0489-109">**Appropriate roles**</span></span>
+
+- <span data-ttu-id="b0489-110">Globale beheerder</span><span class="sxs-lookup"><span data-stu-id="b0489-110">Global admin</span></span>
+- <span data-ttu-id="b0489-111">Beheerder van gebruikers beheer</span><span class="sxs-lookup"><span data-stu-id="b0489-111">User management admin</span></span>
+- <span data-ttu-id="b0489-112">Beheer agent</span><span class="sxs-lookup"><span data-stu-id="b0489-112">Admin agent</span></span>
+- <span data-ttu-id="b0489-113">Verkoop agent</span><span class="sxs-lookup"><span data-stu-id="b0489-113">Sales agent</span></span>
+
+<span data-ttu-id="b0489-114">In dit artikel leest u hoe u een nieuwe klant kunt toevoegen aan uw lijst met klanten in partner centrum.</span><span class="sxs-lookup"><span data-stu-id="b0489-114">This article tells how to add a new customer to your list of customers in Partner Center.</span></span> <span data-ttu-id="b0489-115">Volg deze stappen om abonnementen te verkopen, facturering te beheren of ondersteuning te bieden aan een klant.</span><span class="sxs-lookup"><span data-stu-id="b0489-115">Follow these steps before you can sell subscriptions, manage billing, or provide support to a customer.</span></span>
+
+>[!NOTE]
+><span data-ttu-id="b0489-116">Voor bestaande klanten, met inbegrip van klanten die al klant records hebben in het partner centrum via een [multi kanaal](multichannel.md) of een [multipartner](multipartner.md) scenario, kunt u [een relatie met hen aanvragen](request-a-relationship-with-a-customer.md), in plaats van de stappen hier te volgen.</span><span class="sxs-lookup"><span data-stu-id="b0489-116">For existing customers, including those who already have customer records in Partner Center through a [multi-channel](multichannel.md) or [Multipartner](multipartner.md) scenario, you can [Request a relationship with them](request-a-relationship-with-a-customer.md), instead of following the steps here.</span></span>
+
+## <a name="to-add-a-new-customer-in-partner-center"></a><span data-ttu-id="b0489-117">Een nieuwe klant toevoegen in het Partner Center</span><span class="sxs-lookup"><span data-stu-id="b0489-117">To add a new customer in Partner Center</span></span>
+
+1. <span data-ttu-id="b0489-118">Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens **klant toevoegen** .</span><span class="sxs-lookup"><span data-stu-id="b0489-118">Select **Customers** from the Partner Center menu, and then select **Add customer** .</span></span>
+
+2. <span data-ttu-id="b0489-119">Voer op de pagina **account gegevens** de gegevens van de klant en de primaire contact gegevens in.</span><span class="sxs-lookup"><span data-stu-id="b0489-119">On the **Account info** page, enter the customer's details and primary contact information.</span></span> <span data-ttu-id="b0489-120">Controleer ook of de klant de nieuwste [micro soft-klant overeenkomst](agreements.md)heeft geaccepteerd en ondertekend.</span><span class="sxs-lookup"><span data-stu-id="b0489-120">Verify as well that the customer has accepted and signed the latest [Microsoft Customer Agreement](agreements.md).</span></span>
+
+   >[!NOTE]
+   >
+   ><span data-ttu-id="b0489-121">Als u de nauw keurigheid tijdens klantverificatie wilt garanderen, moet u het volgende doen:</span><span class="sxs-lookup"><span data-stu-id="b0489-121">To ensure accuracy during customer verification, please ensure that you:</span></span>
+   >
+   >- <span data-ttu-id="b0489-122">Geef de naam van de juiste legaal/officiële op zoals deze wordt weer gegeven in de officiële documenten</span><span class="sxs-lookup"><span data-stu-id="b0489-122">Use exact legal/official name as it appears in the official documents</span></span>
+   >- <span data-ttu-id="b0489-123">Vermijd het gebruik van acroniemen of korte formulieren</span><span class="sxs-lookup"><span data-stu-id="b0489-123">Avoid using acronyms or short forms</span></span>
+   >- <span data-ttu-id="b0489-124">Geen test namen gebruiken</span><span class="sxs-lookup"><span data-stu-id="b0489-124">Do not use test names</span></span>
+   >- <span data-ttu-id="b0489-125">Geef het volledige, exacte adres (locatie gegevens, plaats, provincie, land en post code) op</span><span class="sxs-lookup"><span data-stu-id="b0489-125">Provide complete, exact address (location details, city, state, country, and postal/zip code)</span></span>
+
+   >[!IMPORTANT]
+   > <span data-ttu-id="b0489-126">Op 1 oktober 2019 heeft micro soft de **klant overeenkomst van micro** Soft geïntroduceerd voor het CSP-programma om de Microsoft Cloud overeenkomst te vervangen.</span><span class="sxs-lookup"><span data-stu-id="b0489-126">On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement.</span></span> <span data-ttu-id="b0489-127">Meer informatie over de [micro soft-klant overeenkomst en het bevestigen van toestemming](confirm-customer-agreement.md)</span><span class="sxs-lookup"><span data-stu-id="b0489-127">Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-agreement.md)</span></span>
+  
+3. <span data-ttu-id="b0489-128">Als u een indirecte provider bent, selecteert u de indirecte wederverkoper die u aan de abonnementen van deze klant wilt koppelen in de lijst.</span><span class="sxs-lookup"><span data-stu-id="b0489-128">If you're an indirect provider, select the indirect reseller you want to associate with this customer's subscriptions from the list.</span></span>
+
+4. <span data-ttu-id="b0489-129">Selecteer **volgende: abonnementen** wanneer u klaar bent met het invoeren van alle vereiste gegevens.</span><span class="sxs-lookup"><span data-stu-id="b0489-129">Select **Next: Subscriptions** when you're finished entering all required information.</span></span>
+
+5. <span data-ttu-id="b0489-130">Op de pagina **abonnementen** selecteert u de aanbieding (en) die uw klant wil kopen van u, voert u het aantal licenties in en selecteert u **volgende: controleren** .</span><span class="sxs-lookup"><span data-stu-id="b0489-130">On the **Subscriptions** page, select the offer(s) your customer wants to buy from you, enter the number of licenses, and then select **Next: Review** .</span></span>
+
+6. <span data-ttu-id="b0489-131">Controleer uw vermeldingen op de pagina **controleren** op nauw keurigheid en selecteer vervolgens **verzenden** als de gegevens correct zijn.</span><span class="sxs-lookup"><span data-stu-id="b0489-131">On the **Review** page, check your entries for accuracy and then select **Submit** if the information is correct.</span></span>
+
+   >[!NOTE]
+   ><span data-ttu-id="b0489-132">Als u de details van de klant wilt wijzigen, selecteert u **bijwerken** in het gedeelte **account info** .</span><span class="sxs-lookup"><span data-stu-id="b0489-132">If you need to change any customer details, select **Update** in the **Account info** section.</span></span> <span data-ttu-id="b0489-133">Als u de aanbiedingen die u hebt geselecteerd, wilt wijzigen, selecteert u **bijwerken** in het gedeelte **abonnementen** .</span><span class="sxs-lookup"><span data-stu-id="b0489-133">If you need to change the offers you selected, select **Update** in the **Subscriptions** section.</span></span>
+
+7. <span data-ttu-id="b0489-134">Selecteer **gereed** wanneer u klaar bent met het toevoegen van de klant gegevens en de vereiste abonnementen hebt gekocht.</span><span class="sxs-lookup"><span data-stu-id="b0489-134">Select **Done** when you've finished adding the customer information and purchased the required subscriptions.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="b0489-135">Volgende stappen</span><span class="sxs-lookup"><span data-stu-id="b0489-135">Next steps</span></span>
+
+- <span data-ttu-id="b0489-136">Zie [partner aanbiedingen in het Cloud Solution Provider-programma](csp-offers.md) voor meer informatie over wat u kunt verkopen aan klanten via het Cloud Solution Provider-programma.</span><span class="sxs-lookup"><span data-stu-id="b0489-136">For more information about what you can sell to customers through the Cloud Solution Provider program, see [Partner offers in the Cloud Solution Provider program](csp-offers.md)</span></span>
+
