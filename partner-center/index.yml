@@ -1,0 +1,113 @@
+### YamlMime:Landing
+title: Documentatie voor Partnercentrum
+summary: In Partnercentrum kunt u uw bedrijf laten groeien via het MPN (Microsoft Partner Network), het CSP-programma (Cloud Solution Provider), en meer.
+metadata:
+  title: Documentatie voor Partnercentrum
+  description: In Partnercentrum kunt u uw bedrijf laten groeien via het MPN (Microsoft Partner Network), het CSP-programma (Cloud Solution Provider), en meer.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: landing-page
+  author: LauraBrenner
+  ms.author: labrenne
+  ms.date: 10/16/2020
+  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
+  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "92526849"
+landingContent:
+- title: Aan de slag gaan met Partnercentrum
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: Aankondigingen van partnercentrum
+      url: announcements/index.md
+    - text: Partner van Microsoft
+      url: mpn-overview.md
+    - text: Een Partnercentrum-account maken
+      url: mpn-create-a-partner-center-account.md
+    - text: De voordelen en aanbiedingen van uw MPN lidmaatschap beheren
+      url: manage-your-partner-network-benefits.md
+    - text: Meer informatie over competenties
+      url: learn-about-competencies.md
+- title: Uw bedrijf laten groeien
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Communiceren met uw klanten
+      url: connect-with-your-customers.md
+    - text: CSP-programma (Cloud Solution Provider)
+      url: csp-overview.md
+    - text: Klantverwijzingen ophalen
+      url: manage-leads.md
+    - text: Incentives-programma's
+      url: incentives-get-started-intro.md
+    - text: Collectieve verkoopkansen beheren
+      url: manage-co-sell-opportunities.md
+    - text: Een geavanceerde specialisatie verdienen
+      url: advanced-specializations.md
+- title: Belangrijke concepten en taken
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Beveiligingsvereisten voor Partnercentrum
+      url: partner-security-requirements.md
+    - text: Een bedrijfsprofiel maken
+      url: create-a-marketing-profile.md
+    - text: Inleiding tot het Azure-abonnement
+      url: azure-plan-lp.md
+    - text: Ondersteuning krijgen van Microsoft
+      url: support-from-microsoft.md
+  - linkListType: how-to-guide
+    links:
+    - text: Uw MPN-accountlocaties beheren
+      url: manage-locations.md
+    - text: Uw MPN-aanbiedingen vernieuwen
+      url: renew-mpn-offers.md
+    - text: Uw MPN-voordelen zoeken
+      url: mpn-find-benefits.md
+    - text: Uw rol vinden
+      url: find-your-role.md
+- title: Accounts en facturering
+  linkLists:
+  - linkListType: how-to-guide
+    links:
+    - text: Uw account voor het partnercentrum beheren
+      url: partner-center-account-setup.md
+    - text: Rollen en machtigingen toewijzen aan gebruikers
+      url: permissions-overview.md
+    - text: Gebruikers en gebruikerslicenties beheren
+      url: assign-licenses-to-users.md
+    - text: Billing basics (Grondbeginselen van facturering)
+      url: billing-basics.md
+    - text: Stel uw betalingsaccount en belastingformulieren
+      url: set-up-your-payout-account.md
+    - text: Meer informatie over uw factuur
+      url: read-your-bill.md
+- title: Bronnen voor ontwikkelaars
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: Aanmelden voor het Early Adopter-programma voor API en SDK van Partnercentrum
+      url: /partner-center/develop/early-adopter-program
+    - text: Ontwikkelaarsdocumentatie voor Partnercentrum
+      url: /partner-center/develop
+    - text: REST API-verwijzing voor Partnercentrum
+      url: /partner-center/develop/partner-center-rest-api-reference
+    - text: .NET API-verwijzing voor Partnercentrum
+      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
+    - text: Partnercentrum-SDK voor Java
+      url: /java/partnercenter/overview
+    - text: Partnercentrum PowerShell
+      url: /powershell/partnercenter/overview
+- title: Verkopen in de commerciële marketplace (ISV's)
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Documentatie voor de commerciële marketplace
+      url: /azure/marketplace
+    - text: Wat is de commerciële marketplace van Microsoft?
+      url: /azure/marketplace/overview
+    - text: Uw publicatieopties bepalen
+      url: /azure/marketplace/determine-your-listing-type

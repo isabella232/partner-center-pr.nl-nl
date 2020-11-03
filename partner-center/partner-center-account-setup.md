@@ -1,0 +1,130 @@
+---
+title: Uw account voor het partnercentrum beheren
+description: Meer informatie over het beheren van het profiel, de catalogus, de Bank en de belasting gegevens van uw bedrijf, rollen, machtigingen en meer in het partner centrum.
+ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+author: parthpandyaMSFT
+ms.author: parthp
+ms.localizationpriority: high
+ms.custom: SEOMAY.20
+ms.date: 10/19/2020
+ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92528825"
+---
+# <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a><span data-ttu-id="14896-103">Uw partner Center-account beheren: bedrijfs profielen, Bank gegevens, rollen, machtigingen & meer</span><span class="sxs-lookup"><span data-stu-id="14896-103">Manage your Partner Center account - company profiles, bank information, roles, permissions & more</span></span>
+
+<span data-ttu-id="14896-104">**Van toepassing op**</span><span class="sxs-lookup"><span data-stu-id="14896-104">**Applies to**</span></span>
+
+- <span data-ttu-id="14896-105">Partnercentrum</span><span class="sxs-lookup"><span data-stu-id="14896-105">Partner Center</span></span>
+ 
+<span data-ttu-id="14896-106">**Juiste rollen**</span><span class="sxs-lookup"><span data-stu-id="14896-106">**Appropriate roles**</span></span>
+
+- <span data-ttu-id="14896-107">Globale beheerder</span><span class="sxs-lookup"><span data-stu-id="14896-107">Global admin</span></span>
+- <span data-ttu-id="14896-108">MPN-account beheerder</span><span class="sxs-lookup"><span data-stu-id="14896-108">MPN account admin</span></span>
+
+<span data-ttu-id="14896-109">Het account dat u maakt in het partner centrum wanneer u zich registreert, is uw werk-e-mail plus uw bedrijfs gegevens.</span><span class="sxs-lookup"><span data-stu-id="14896-109">The account you create on the Partner Center when you enroll is your work email plus your business information.</span></span> <span data-ttu-id="14896-110">Nadat u een account in het partner centrum hebt gemaakt, voltooit u het instellen van het volledige profiel van uw bedrijf, inclusief ondersteunings Details, belasting vrijstellingen voor bestanden, indien van toepassing, en primaire contact gegevens.</span><span class="sxs-lookup"><span data-stu-id="14896-110">After you create an account on the Partner Center, you will finish setting up your company's full profile including support details, file tax exemptions if appropriate, and primary contact information.</span></span> <span data-ttu-id="14896-111">Het account van uw bedrijf bevat ook gebruikers accounts voor iedereen die het partner centrum gaat gebruiken voor het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van zakelijke profielen, het beheren van verwijzingen, het werken met prikkel Programma's en het bieden van ondersteuning.</span><span class="sxs-lookup"><span data-stu-id="14896-111">Your company's account will also include user accounts for anyone who will use the Partner Center for adding or managing customers, selling subscriptions, working with billing and invoicing, creating business profiles, managing referrals, working with incentives programs, and providing support.</span></span>
+
+<span data-ttu-id="14896-112">Zie ook</span><span class="sxs-lookup"><span data-stu-id="14896-112">See also</span></span> 
+- [<span data-ttu-id="14896-113">Werk nemers uitnodigen om lid te worden van het partner centrum</span><span class="sxs-lookup"><span data-stu-id="14896-113">Invite employees to join Partner Center</span></span>](guide-to-migration.md)
+- [<span data-ttu-id="14896-114">Een nieuwe gebruiker toevoegen</span><span class="sxs-lookup"><span data-stu-id="14896-114">Add a new user</span></span>](create-user-accounts-and-set-permissions.md)
+
+## <a name="programs-in-which-you-are-enrolled"></a><span data-ttu-id="14896-115">Program ma's waarin u bent Inge schreven</span><span class="sxs-lookup"><span data-stu-id="14896-115">Programs in which you are enrolled</span></span>
+
+<span data-ttu-id="14896-116">Veel van het werk dat u doet om uw partner Center-account te beheren, is gekoppeld aan de specifieke Program ma's die u hebt Inge schreven en de gebruikers rollen en machtigingen die u hebt toegewezen in het partner centrum.</span><span class="sxs-lookup"><span data-stu-id="14896-116">Much of the work you do to manage your Partner Center account relates to the specific program(s) you are enrolled in and the user roles and permissions you have been assigned in the Partner Center.</span></span>
+
+<span data-ttu-id="14896-117">Als u wilt zien welke Program ma's u hebt, hebt u toegang tot in Partner Center:</span><span class="sxs-lookup"><span data-stu-id="14896-117">To see which programs you have access to in Partner Center:</span></span>
+
+1. <span data-ttu-id="14896-118">Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.</span><span class="sxs-lookup"><span data-stu-id="14896-118">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+2. <span data-ttu-id="14896-119">Ga naar het navigatie deel venster links.</span><span class="sxs-lookup"><span data-stu-id="14896-119">Look to the left navigation pane.</span></span> <span data-ttu-id="14896-120">De opties die zijn gekoppeld aan de Inge schreven Program ma's worden weer gegeven.</span><span class="sxs-lookup"><span data-stu-id="14896-120">Options associated with your enrolled programs will appear.</span></span>
+
+<span data-ttu-id="14896-121">Hier volgt een voor beeld.</span><span class="sxs-lookup"><span data-stu-id="14896-121">Here's one example.</span></span> <span data-ttu-id="14896-122">We gaan ervan uit dat een gebruiker toegang heeft tot drie Program ma's in het dash board van de Partner Center: het **MPN** -programma, het programma **referrals** en het programma voor **commerciële Marketplace** .</span><span class="sxs-lookup"><span data-stu-id="14896-122">Let's assume a user has access to three programs in the Partner Center dashboard: The **MPN** program, the **Referrals** program, and the **Commercial Marketplace** program.</span></span> <span data-ttu-id="14896-123">Wanneer ze zich aanmelden bij het dash board van de partner centrum, worden deze drie Program ma's aan de linkerkant van het scherm weer gegeven.</span><span class="sxs-lookup"><span data-stu-id="14896-123">When they sign into the Partner Center dashboard, they will see these three programs on the left side of the screen.</span></span>
+
+:::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Inge schreven Program ma's menu":::
+
+## <a name="account-management"></a><span data-ttu-id="14896-125">Accountbeheer</span><span class="sxs-lookup"><span data-stu-id="14896-125">Account management</span></span>
+
+<span data-ttu-id="14896-126">Het partner centrum heeft nu account beheer onder twee verschillende secties: **partner instellingen** en **instellingen voor ontwikkel aars** .</span><span class="sxs-lookup"><span data-stu-id="14896-126">Partner Center today has account management under two different sections: **Partner settings** and **Developer settings** .</span></span>
+
+>[!NOTE]
+><span data-ttu-id="14896-127">Om toegang te krijgen tot **partner instellingen** of **instellingen voor ontwikkel aars** , moet u zich aanmelden bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum en vervolgens de optie **instellingen** (het tandwiel pictogram) in de rechter bovenhoek van het scherm selecteren.</span><span class="sxs-lookup"><span data-stu-id="14896-127">To access **Partner settings** or **Developer settings** , you need to sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard), then select the **Settings** option (the gear icon) in the upper-right corner of the screen.</span></span> <span data-ttu-id="14896-128">U kunt vervolgens **partner instellingen** of instellingen voor **ontwikkel aars** selecteren in de vervolg keuzelijst.</span><span class="sxs-lookup"><span data-stu-id="14896-128">You can then select either **Partner settings** or **Developer settings** from the drop-down menu.</span></span>
+
+:::image type="content" source="images/accountsettings/account1.png" alt-text="Account instellingen":::
+
+<span data-ttu-id="14896-130">Partners kunnen de optie voor het beheren van **partner instellingen** en/of **instellingen voor ontwikkel aars** zien, op basis van het feit of hun bedrijf is geregistreerd bij deze Program ma's.</span><span class="sxs-lookup"><span data-stu-id="14896-130">Partners can see the option to manage **Partner settings** and/or **Developer settings** based on whether their company has enrolled in those programs.</span></span> <span data-ttu-id="14896-131">De optie instellingen is alleen beschikbaar als uw bedrijf is inge schreven bij ten minste één programma dat is gekoppeld aan deze instelling.</span><span class="sxs-lookup"><span data-stu-id="14896-131">The settings option will only be available if your company has enrolled in at least one program associated with that setting.</span></span>
+
+<span data-ttu-id="14896-132">Als u uw account instellingen wilt beheren, moet u de juiste optie voor account instellingen selecteren voor het betreffende programma.</span><span class="sxs-lookup"><span data-stu-id="14896-132">To manage your account settings, you must select the appropriate account settings option for the program in question.</span></span>  
+
+<span data-ttu-id="14896-133">Dit is een gedeeltelijke lijst met beschik bare Program ma's en de bijbehorende optie voor de instellingen die is gekoppeld aan het programma:</span><span class="sxs-lookup"><span data-stu-id="14896-133">This is a partial list of programs available and the corresponding settings option associated with that program:</span></span>
+
+|<span data-ttu-id="14896-134">**Programma naam**</span><span class="sxs-lookup"><span data-stu-id="14896-134">**Program name**</span></span>   |<span data-ttu-id="14896-135">**Optie instellingen**</span><span class="sxs-lookup"><span data-stu-id="14896-135">**Settings option**</span></span> |
+|---------------------|:-----------------------|
+|<span data-ttu-id="14896-136">MPN</span><span class="sxs-lookup"><span data-stu-id="14896-136">MPN</span></span>   |<span data-ttu-id="14896-137">Partner</span><span class="sxs-lookup"><span data-stu-id="14896-137">Partner</span></span>|
+|<span data-ttu-id="14896-138">CSP</span><span class="sxs-lookup"><span data-stu-id="14896-138">CSP</span></span>    |<span data-ttu-id="14896-139">Partner</span><span class="sxs-lookup"><span data-stu-id="14896-139">Partner</span></span>|
+|<span data-ttu-id="14896-140">Verwijzingen</span><span class="sxs-lookup"><span data-stu-id="14896-140">Referrals</span></span>   |<span data-ttu-id="14896-141">Partner</span><span class="sxs-lookup"><span data-stu-id="14896-141">Partner</span></span>|
+|<span data-ttu-id="14896-142">Commerciële Marketplace</span><span class="sxs-lookup"><span data-stu-id="14896-142">Commercial Marketplace</span></span>|<span data-ttu-id="14896-143">Ontwikkelaar</span><span class="sxs-lookup"><span data-stu-id="14896-143">Developer</span></span>|
+|<span data-ttu-id="14896-144">Windows en Xbox</span><span class="sxs-lookup"><span data-stu-id="14896-144">Windows and Xbox</span></span>|<span data-ttu-id="14896-145">Ontwikkelaar</span><span class="sxs-lookup"><span data-stu-id="14896-145">Developer</span></span>|
+|<span data-ttu-id="14896-146">Office Store</span><span class="sxs-lookup"><span data-stu-id="14896-146">Office Store</span></span>|<span data-ttu-id="14896-147">Ontwikkelaar</span><span class="sxs-lookup"><span data-stu-id="14896-147">Developer</span></span>|
+|<span data-ttu-id="14896-148">Edge-extensies</span><span class="sxs-lookup"><span data-stu-id="14896-148">Edge extensions</span></span>|<span data-ttu-id="14896-149">Ontwikkelaar</span><span class="sxs-lookup"><span data-stu-id="14896-149">Developer</span></span>|
+
+## <a name="the-differences-in-partner-and-developer-settings-options"></a><span data-ttu-id="14896-150">De verschillen tussen de instellingen van de partner en de ontwikkelaar</span><span class="sxs-lookup"><span data-stu-id="14896-150">The differences in Partner and Developer settings options</span></span>
+
+### <a name="locate-your-mpn-id"></a><span data-ttu-id="14896-151">Uw MPN-ID zoeken</span><span class="sxs-lookup"><span data-stu-id="14896-151">Locate your MPN ID</span></span>
+
+<span data-ttu-id="14896-152">Ongeacht of u een partner of een ontwikkelaar bent, moet u uw MPN-ID gebruiken voor het registreren van ondersteunings tickets.</span><span class="sxs-lookup"><span data-stu-id="14896-152">Regardless of whether you are a partner or a developer, you need to use your MPN ID for such things as logging support tickets.</span></span> <span data-ttu-id="14896-153">Als u een ontwikkelaar bent, vindt u uw MPN-id op de detailpagina **Accountinstellingen** .</span><span class="sxs-lookup"><span data-stu-id="14896-153">If you are a developer, your MPN ID is located on your **Account settings** details page.</span></span>
+
+<span data-ttu-id="14896-154">De partner MPN-ID bevindt zich op de **profiel** pagina van de partner.</span><span class="sxs-lookup"><span data-stu-id="14896-154">The partner MPN ID is located on the **Partner profile** page.</span></span>
+
+### <a name="see-partner-and-developer-settings"></a><span data-ttu-id="14896-155">Zie instellingen voor partner-en ontwikkel aars</span><span class="sxs-lookup"><span data-stu-id="14896-155">See partner and developer settings</span></span>
+
+<span data-ttu-id="14896-156">De opties voor de **partner instellingen** verschillen van de opties voor de **instellingen voor ontwikkel aars** .</span><span class="sxs-lookup"><span data-stu-id="14896-156">**Partner settings** options will differ from **Developer settings** options.</span></span> <span data-ttu-id="14896-157">Hieronder vindt u een voor beeld van scherm opnamen van elke set opties.</span><span class="sxs-lookup"><span data-stu-id="14896-157">See below for sample screenshots of each set of options.</span></span> <span data-ttu-id="14896-158">Als u toegang hebt tot andere Program ma's, ziet u mogelijk ook andere opties dan de afbeeldings voorbeelden die hier worden weer gegeven.</span><span class="sxs-lookup"><span data-stu-id="14896-158">If you have access to other programs, you may also see different options than the screenshot samples shown here.</span></span>
+
+<span data-ttu-id="14896-159">**Opties voor partner instellingen** :</span><span class="sxs-lookup"><span data-stu-id="14896-159">**Partner settings options** :</span></span>
+
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="partner opties":::
+
+<span data-ttu-id="14896-161">**Opties voor ontwikkelaars instellingen** :</span><span class="sxs-lookup"><span data-stu-id="14896-161">**Developer settings options** :</span></span>
+
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="opties voor ontwikkel aars":::
+
+## <a name="enrolling-in-programs"></a><span data-ttu-id="14896-163">Registreren in Program ma's</span><span class="sxs-lookup"><span data-stu-id="14896-163">Enrolling in programs</span></span>
+
+<span data-ttu-id="14896-164">Er zijn veel Partner Center-Program ma's beschikbaar.</span><span class="sxs-lookup"><span data-stu-id="14896-164">There are many Partner Center programs available.</span></span> <span data-ttu-id="14896-165">Elk programma heeft andere vereisten waaraan uw bedrijf moet voldoen voordat het kan worden inge schreven in dat programma.</span><span class="sxs-lookup"><span data-stu-id="14896-165">Each program has different requirements your company needs to meet before it can enroll in that program.</span></span>
+
+<span data-ttu-id="14896-166">Zie de volgende gedeeltelijke lijst voor meer informatie over het inschrijven van bepaalde partner Center-Program ma's:</span><span class="sxs-lookup"><span data-stu-id="14896-166">To learn about enrolling in certain Partner Center programs, see the following, partial list:</span></span>
+
+- [<span data-ttu-id="14896-167">Commercieel Marketplace-programma</span><span class="sxs-lookup"><span data-stu-id="14896-167">Commercial Marketplace program</span></span>](/azure/marketplace/partner-center-portal/create-account)
+- [<span data-ttu-id="14896-168">MPN programma</span><span class="sxs-lookup"><span data-stu-id="14896-168">MPN program</span></span>](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
+- [<span data-ttu-id="14896-169">CSP-programma</span><span class="sxs-lookup"><span data-stu-id="14896-169">CSP program</span></span>](enrolling-in-the-csp-program.md)
+- [<span data-ttu-id="14896-170">Office Store</span><span class="sxs-lookup"><span data-stu-id="14896-170">Office Store</span></span>](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
+
+<span data-ttu-id="14896-171">Zie ook [partner netwerk bronnen](https://partner.microsoft.com/)voor meer informatie over het inschrijven in Partner Center-Program ma's.</span><span class="sxs-lookup"><span data-stu-id="14896-171">To learn more about enrolling in Partner Center programs, see also [Partner network resources](https://partner.microsoft.com/).</span></span>
+
+## <a name="the-account-picker"></a><span data-ttu-id="14896-172">De account kiezer</span><span class="sxs-lookup"><span data-stu-id="14896-172">The account picker</span></span>
+
+<span data-ttu-id="14896-173">U kunt een deel van meer dan één account maken.</span><span class="sxs-lookup"><span data-stu-id="14896-173">You can be part of more than one account.</span></span> <span data-ttu-id="14896-174">Als u deel uitmaakt van meerdere accounts, wordt de ' account kiezer ' weer gegeven in het navigatie menu aan de linkerkant.</span><span class="sxs-lookup"><span data-stu-id="14896-174">If you are part of multiple accounts you will see the “account picker” in the left navigation menu.</span></span> <span data-ttu-id="14896-175">Als u de account kiezer selecteert, worden alle accounts waarvan u lid bent, weer gegeven als een lijst.</span><span class="sxs-lookup"><span data-stu-id="14896-175">If you select the account picker, all the accounts you are a member of will appear as a list.</span></span> <span data-ttu-id="14896-176">U kunt elk ervan selecteren en overschakelen naar dat account, waar u alle Program ma's en informatie ziet die betrekking hebben op dat account.</span><span class="sxs-lookup"><span data-stu-id="14896-176">You can select any of them and switch to that account where you will see all programs and information that pertains to that account.</span></span> <span data-ttu-id="14896-177">Als u geen account kiezer ziet, kunt u lid zijn van één account.</span><span class="sxs-lookup"><span data-stu-id="14896-177">If you don't see an account picker, you a member of a single account.</span></span>
+
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="account kiezer":::
+
+## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a><span data-ttu-id="14896-179">Andere bronnen om u te helpen bij het beheren van uw partner centrum-account</span><span class="sxs-lookup"><span data-stu-id="14896-179">Other resources to help you manage your Partner Center account</span></span>
+
+<span data-ttu-id="14896-180">Als u bent Inge schreven in Program ma's zoals het MPN-programma of het programma van de Cloud Solution Provider (CSP), kunnen de volgende resources u helpen bij het beheren van uw account.</span><span class="sxs-lookup"><span data-stu-id="14896-180">If you are enrolled in programs like the MPN program or the Cloud Solution Provider (CSP) program, the following resources may help you manage your account.</span></span>
+
+|<span data-ttu-id="14896-181">**Om dit te doen**</span><span class="sxs-lookup"><span data-stu-id="14896-181">**To do this**</span></span>   |<span data-ttu-id="14896-182">**Leest u**</span><span class="sxs-lookup"><span data-stu-id="14896-182">**Read this**</span></span>   |
+|-----------------------|:-----------------------|
+|<span data-ttu-id="14896-183">Controleren of uw bedrijfs profiel actueel is</span><span class="sxs-lookup"><span data-stu-id="14896-183">Ensure your company profile is current</span></span>   |[<span data-ttu-id="14896-184">Uw partnerprofiel bijwerken</span><span class="sxs-lookup"><span data-stu-id="14896-184">Update your partner profile</span></span>](update-your-partner-profile.md)|
+|<span data-ttu-id="14896-185">Nieuwe gebruikers toevoegen</span><span class="sxs-lookup"><span data-stu-id="14896-185">Add new users</span></span>|[<span data-ttu-id="14896-186">Gebruikersaccounts maken en machtigingen toewijzen</span><span class="sxs-lookup"><span data-stu-id="14896-186">Create user accounts and assign permissions</span></span>](create-user-accounts-and-set-permissions.md)|
+|<span data-ttu-id="14896-187">De status van uw verificatie vinden</span><span class="sxs-lookup"><span data-stu-id="14896-187">Find the status of your verification</span></span>|[<span data-ttu-id="14896-188">Uw accountgegevens verifiëren</span><span class="sxs-lookup"><span data-stu-id="14896-188">Verify your account information</span></span>](verification-responses.md)|
+|<span data-ttu-id="14896-189">Iedereen in uw bedrijf die moet werken in het partner centrum, moet rollen zijn toegewezen.</span><span class="sxs-lookup"><span data-stu-id="14896-189">Everyone in your company who needs to work in the Partner Center must be assigned roles.</span></span> <span data-ttu-id="14896-190">Voor elke rol zijn specifieke machtigingen en taken beschikbaar.</span><span class="sxs-lookup"><span data-stu-id="14896-190">Each role has specific permissions and tasks available to it.</span></span>|[<span data-ttu-id="14896-191">Gebruikers accounts maken en machtigingen instellen</span><span class="sxs-lookup"><span data-stu-id="14896-191">Create user accounts and set permissions</span></span>](create-user-accounts-and-set-permissions.md)|
+|<span data-ttu-id="14896-192">De machtigingen van elke rol controleren</span><span class="sxs-lookup"><span data-stu-id="14896-192">Review the permissions each role entails</span></span>|[<span data-ttu-id="14896-193">Beheerdersrollen en -machtigingen toewijzen</span><span class="sxs-lookup"><span data-stu-id="14896-193">Assign users roles and permissions</span></span>](permissions-overview.md)
+|<span data-ttu-id="14896-194">De locaties van uw bedrijf beheren</span><span class="sxs-lookup"><span data-stu-id="14896-194">Manage your company's locations</span></span>|[<span data-ttu-id="14896-195">Uw partner account beheren: locaties</span><span class="sxs-lookup"><span data-stu-id="14896-195">Manage your partner account: Locations</span></span>](manage-locations.md)
+|<span data-ttu-id="14896-196">Als een werk nemer het wacht woord vergeet en u deze opnieuw moet instellen</span><span class="sxs-lookup"><span data-stu-id="14896-196">If an employee forgets their password and you need to reset it</span></span>  |[<span data-ttu-id="14896-197">Een gebruikerswachtwoord opnieuw instellen</span><span class="sxs-lookup"><span data-stu-id="14896-197">Reset a user password</span></span>](reset-a-user-password.md)|
+|<span data-ttu-id="14896-198">Inschrijven in Partner Center als een leverancier van het configuratie scherm</span><span class="sxs-lookup"><span data-stu-id="14896-198">Enroll in Partner Center as a Control Panel Vendor</span></span>|[<span data-ttu-id="14896-199">Inschrijven in Partner Center als een leverancier van het configuratie scherm</span><span class="sxs-lookup"><span data-stu-id="14896-199">Enroll in Partner Center as a Control Panel Vendor</span></span>](enroll-as-cpv.md)|
+|<span data-ttu-id="14896-200">Uw Microsoft Learn-account koppelen aan het partner centrum</span><span class="sxs-lookup"><span data-stu-id="14896-200">Associate your Microsoft Learn account in Partner Center</span></span>|[<span data-ttu-id="14896-201">Uw Microsoft Learn-account koppelen aan het partner centrum</span><span class="sxs-lookup"><span data-stu-id="14896-201">Associate your Microsoft Learn account in Partner Center</span></span>](ms-learn-associate.md)|
+|<span data-ttu-id="14896-202">Zorg ervoor dat u uw bedrijf in de handel brengt zodat klanten u kunnen vinden</span><span class="sxs-lookup"><span data-stu-id="14896-202">Make sure to market your company so that customers can find you</span></span>   |[<span data-ttu-id="14896-203">Een bedrijfs profiel maken</span><span class="sxs-lookup"><span data-stu-id="14896-203">Create a business profile</span></span>](create-a-marketing-profile.md)|
+|<span data-ttu-id="14896-204">Blijf op de hoogte met de huidige prijzen en aanbiedingen</span><span class="sxs-lookup"><span data-stu-id="14896-204">Stay up-to-date with current pricing and offers</span></span>   |[<span data-ttu-id="14896-205">Prijzen en aanbiedingen</span><span class="sxs-lookup"><span data-stu-id="14896-205">Pricing and offers</span></span>](pricing-and-offers.md)|
+|<span data-ttu-id="14896-206">API: een partner-MPN-ID verifiëren</span><span class="sxs-lookup"><span data-stu-id="14896-206">API: Verify a partner MPN ID</span></span>|[<span data-ttu-id="14896-207">Een partner MPN-ID verifiëren</span><span class="sxs-lookup"><span data-stu-id="14896-207">Verify a partner MPN ID</span></span>](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)
