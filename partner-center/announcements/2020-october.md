@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4877c3c21449c8b5cc4224973d159d70635d9262
-ms.sourcegitcommit: 4bff85c6a13a990d5eb6c4a4ef44e1013d06948e
+ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92903036"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917248"
 ---
 # <a name="october-2020-announcements"></a>Aankondigingen van oktober 2020
 
@@ -23,6 +23,38 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 2020 mede delingen: [maart](2020-march.md)  |  [april](2020-april.md)  |  [mei](2020-may.md)juni tot en met  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [september](2020-september.md) | Oktober
 
 ______________
+
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>De digitale ervaring van de Cloud Solution Provider (CSP) is nu beschikbaar
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-10-28
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+CSP-partners
+
+### <a name="details"></a>Details
+
+Micro soft streeft ernaar onze partners te helpen hun potentieel te maximaliseren, innovatieve oplossingen te bouwen en meer klant succes te best rijken in de Microsoft Partner Network. Het programma Cloud Solution Provider (CSP) is een van onze snelste groeiende Program ma's met meer dan 90.000 deelnemende bedrijven.
+Ter verbetering van de zakelijke groei van partners in het Cloud Solution Provider-programma, introduceren we een vernieuwde toepassing van de digitale CSP (Cloud Solution Program) op de website van Microsoft Partner Network en een nieuwe CSP-Guidebook. Deze vernieuwde ervaring en nieuwe resources helpen partners om nieuwe kansen te ontgrendelen en hun bedrijf effectiever te laten groeien in het CSP-programma.
+
+Deze nieuwe digitale ervaring bevat:
+
+- De digitale ervaring van de CSP is vernieuwd om de groei van partners te helpen versnellen: de vernieuwde CSP-pagina biedt een gestroomlijnde ervaring voor de overstap van de partner over inschrijving, bouw praktijken, go-to-Market en verkopen. Partners kunnen hun omzet kansen verg Roten met verkoop campagnes en go-to-Market-resources. Andere geïntegreerde bronnen helpen partners het bijwerken en eenvoudig te maken om zaken te doen in het CSP-programma.
+- Het nieuwe programma Cloud Solution Provider Guidebook om partners te helpen bij het identificeren van nieuwe kansen: in deze stapsgewijze hand leiding vindt u informatie over het versnellen van de groei van uw bedrijfs activiteiten met het programma en het uitbreiden van de omzet kansen.
+- Inhoud van het CSP-programma in de oplossings werkruimte: oplossings werkruimte is een digitale ervaring die u één bestemming biedt voor on-demand bronnen om uw ideeën sneller op de markt te brengen. Service providers kunnen nu CSP-programma-specifieke inhoud en resources vinden in de werk ruimte oplossing.
+
+### <a name="additional-resources"></a>Aanvullende resources
+
+- Ga naar [de pagina met de vernieuwde CSP](https://aka.ms/CSP) 
+- Bekijk [de nieuwe CSP-programma Guidebook](https://aka.ms/cspguidebook) en meer informatie over groei kansen
+- Begin met het gebruik van de oplossings werkruimte om uw procedures te bouwen en uw stappen te vereenvoudigen
+- Verstuur meer campagnes met verkoop resources 
+- Stimuleer uw collega's om de CSP-pagina te bezoeken en de bovenstaande resources in uw organisatie te delen. Als u indirecte providers bent, kunt u de resources delen met uw indirecte wederverkopers.
+
+________________
 
 ## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Updates van prijzen lijst voor software abonnementen van oktober 2020 voor Cloud Solution Provider (CSP)
 

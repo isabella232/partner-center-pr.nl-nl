@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93027887"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133011"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,8 +22,9 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **Aankondigingen van oktober 2020** | **Aangekondigd** |
 |---------|:---------|:---------|
-|Functionaliteit|[Windows 10 Educatief-upgrade is nu beschikbaar voor gekwalificeerde Cloud Solution Provider Education-klanten](2020-october.md#16)|28 oktober|
-|Functies|[Vernieuwde digitale ervaring in Cloud Solution Provider nu beschikbaar](2020-october.md#15)|28 oktober|
+|Functionaliteit|[Abonnementen op updates voor Windows Server-software ](2020-october.md#17)|29 oktober|
+|Functies|[Windows 10 Educatief-upgrade is nu beschikbaar voor gekwalificeerde Cloud Solution Provider Education-klanten](2020-october.md#16)|28 oktober|
+|Functionaliteit|[Vernieuwde digitale ervaring in Cloud Solution Provider nu beschikbaar](2020-october.md#15)|28 oktober|
 |Functionaliteit|[Inleiding tot prestatiestandaarden voor vereisten voor factuurpartners in het CSP-programma (Cloud Solution Provider)](2020-october.md#13)|27 oktober|
 |Aanbiedingen/markten|[Oktober 2020: lijst met abonnementsprijzen voor Cloud Solution Provider-software bijgewerkt](2020-october.md#14)|26 oktober|
 |Aanbiedingen/markten|[Updates voor de Microsoft 365 Business Voice-aanbieding](2020-october.md#12)|16 oktober|
