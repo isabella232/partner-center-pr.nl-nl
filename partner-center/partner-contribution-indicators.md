@@ -1,7 +1,7 @@
 ---
 title: Indica toren voor partner bijdragen
 ms.topic: article
-ms.date: 09/16/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over zeven bijdragen aan de partner (PCI) die laten zien hoe u aan de slag gaat met Dynamics 365 Customer engagement of Dynamics 365 Finance and Operations.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
+ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528740"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93344388"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Partner bijdrage indicatoren (PCI) geven de impact van de partner op zeven belang rijke metingen van de klant geslaagd
 
@@ -89,7 +89,7 @@ Elke indicator brengt een score over die wordt toegevoegd aan het totaal. Hier v
 |Klant succes-maandelijkse actieve gebruikers groei  | 25 punten |
 
 De volgende afbeelding bevat een snelle en visuele verwijzing.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Geeft PCI-scores weer om Silver-of Gold-competentie te garanderen." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Geeft een grafiek weer met Maxi maal beschik bare scores voor elk van de zeven (PCI)-bijdragen per partner." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Drempel waarden voor elke PCI-metriek
 
@@ -111,8 +111,8 @@ Raadpleeg de volgende tabellen voor meer informatie:
 | PCI-metriek | Prestatie-indicator: nieuwe netto-omzet | Prestatie-indicator: nieuwe klant toegevoegd | Capability-indicator: functionele consultants | Capability-indicator: groei van functionele consultant | Capability-indicator: ontwikkel aars | Succes indicator van klant: nieuwe grote implementaties | Succes indicator van klant: maandelijkse actieve gebruikers groei |
 |---|---|---|---|---|---|---|---|
 | **Maximum aantal punten** | 10 punten | 10 punten | 15 punten | 15 punten | 5 punten | 20 punten | 25 punten |
-| **Ontwikkeld** | $300.000 | 10 punten | 10 punten | *\* Zie opmerking* | 5 punten | 5 punten | 25% |
-| **Het ontwikkelen** | $150.000 | 5 punten | 5 punten |*\* Zie opmerking* | 2 punten | 1 punt | 25% |
+| **Ontwikkeld** | $300.000 | 10 | 10 | *\* Zie opmerking* | 5 | 5 | 25% |
+| **Het ontwikkelen** | $150.000 | 5  | 5  |*\* Zie opmerking* | 2 | 1 | 25% |
 
 *\* Opmerking: de groei doelen variëren op basis van het aantal basis-consultants. Zie [tabel 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) voor groei doelen.*
 
@@ -122,8 +122,8 @@ Raadpleeg de volgende tabellen voor meer informatie:
 | PCI-metriek | Prestatie-indicator: nieuwe netto-omzet | Prestatie-indicator: nieuwe klant toegevoegd | Capability-indicator: functionele consultants | Capability-indicator: groei van functionele consultant | Capability-indicator: ontwikkel aars | Succes indicator van klant: nieuwe grote implementaties | Succes indicator van klant: maandelijkse actieve gebruikers groei |
 |---|---|---|---|---|---|---|---|
 | **Maximum aantal punten** | 10 punten | 10 punten | 15 punten | 15 punten | 5 punten | 20 punten | 25 punten |
-| **Ontwikkeld** | $300.000 | 3 punten | 15 punten | *\* Zie opmerking* | 5 punten | 3 punten | 25% |
-| **Het ontwikkelen** | $150.000 | 1 punt | 5 punten |*\* Zie opmerking* | 2 punten | 1 punt | 25% |
+| **Ontwikkeld** | $300.000 | 3 | 15 | *\* Zie opmerking* | 5  | 3 | 25% |
+| **Het ontwikkelen** | $150.000 | 1 | 5 |*\* Zie opmerking* | 2 | 1 | 25% |
 
 *\* Opmerking: de groei doelen variëren op basis van het aantal basis-consultants. Zie [tabel 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) voor groei doelen.*
 
@@ -300,12 +300,12 @@ Voer de volgende stappen uit om de diagrammen van uw partner bijdrage indicatore
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
 
-2. Selecteer **CSP** in het navigatie menu en selecteer vervolgens **partner bijdrage indicatoren** . 
+2. Selecteer **CSP** in het navigatie menu en selecteer vervolgens **partner bijdrage indicatoren**. 
 
    U ziet het dash board partner bijdrage indicatoren met gekoppelde grafieken.
 
    > [!NOTE]
-   > Als u deze opties niet ziet, probeert u **MPN** te selecteren in het menu, gevolgd door een **partner bijdrage indicatoren** . Als u deze opties nog niet kunt vinden, hebt u mogelijk niet de juiste gebruikersrol toegewezen in partner centrum. Neem contact op met de wereld wijde beheerder van het partner centrum of de MPN-partner beheerder voor hulp.
+   > Als u deze opties niet ziet, probeert u **MPN** te selecteren in het menu, gevolgd door een **partner bijdrage indicatoren**. Als u deze opties nog niet kunt vinden, hebt u mogelijk niet de juiste gebruikersrol toegewezen in partner centrum. Neem contact op met de wereld wijde beheerder van het partner centrum of de MPN-partner beheerder voor hulp.
 
 ### <a name="read-the-charts"></a>De grafieken lezen
 
@@ -313,7 +313,7 @@ De volgende afbeelding laat zien hoe u een aantal van de gebieden en grafieken k
 
 Zie voor meer informatie over het gebruik van dit gebied het verzamelen van resources en Video's die aan het einde van dit artikel zijn gevonden.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Geeft PCI-scores weer om Silver-of Gold-competentie te garanderen.":::
+   :::image type="content" source="images/pci/howto.png" alt-text="De grafiek lezen":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
