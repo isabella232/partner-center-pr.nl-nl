@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133028"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363619"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Gebruikers rollen en-machtigingen toewijzen aan gebruikers van een bedrijf die moeten werken in het partner centrum
 
@@ -127,21 +127,38 @@ Deze rollen zijn niet Azure Active Directory rollen. Deze rollen beheren het bed
 ||* Ondersteunings tickets maken voor het partner centrum
 ||* Partner-ondersteunings tickets weer geven die u maakt
 
+## <a name="manage-referrals"></a>Verwijzingen beheren
 
-## <a name="manage-referrals"></a>Verwijzingen beheren 
+> [!Note]
+>De nieuwe referrals gebruikersrol is beschikbaar vanaf 16de november 2020. Bestaande verwijzings beheerders behouden hun rollen bereik voor verwijzings beheerder voor het hele bedrijf.
 
-|**Role**|**Wat u kunt doen**|**Meer informatie**|
-|-----------------------------|:------------------------|---|
-|Beheerder van verwijzingen       |* Zakelijke profielen weer geven, maken en beheren|[Verschillende leads beheren, zoals vragen van klanten, gekwalificeerde marketingleads en gekwalificeerde verkoopleads](manage-leads.md)
-||* Verwijzingen ontvangen en beheren
-||* Verwijzingen voor verkopen weer geven, maken en beheren|
-||* Aanvragen voor partner services weer geven, maken en beheren
-|Bedrijfs profiel beheerder   |* Bedrijfs profiel weer geven, maken en beheren |[Een bedrijfsprofiel maken](create-a-marketing-profile.md)
-||* Aanvragen voor partner services weer geven, maken en beheren
-||* Ondersteunings tickets maken voor het partner centrum
-||* Partner-ondersteunings tickets weer geven die u maakt|
+|**Role** | **Wat u kunt doen**|**Meer informatie**
+|------------------------------|:-------------------------|---|
+|Beheerder van verwijzingen|Alles op het tabblad verwijzingen maken en beheren in het partner centrum|[Collectieve-verkoopkansen beheren](manage-co-sell-opportunities.md)
+||    Kan alle verkoop kansen en potentiële klanten weer geven en bewerken
+||    Kan team leden toewijzen aan een deal
+||    Kan zakelijke profielen weer geven en bewerken
+||    Kan deals weer geven en registreren voor verkoop kansen die zijn gemarkeerd als binnengehaald en die in aanmerking komen voor de registratie van deals
+||    Kan ondersteunings tickets maken en weer geven
+|Referenties gebruiker|Maak en beheer alleen verkoop kansen als deze deel uitmaken van het team |[Collectieve-verkoopkansen beheren](manage-co-sell-opportunities.md)
+||    Kan verkoop kansen maken voor de locaties waaraan de rol is toegewezen.
+||    Kan deals weer geven en registreren voor verkoop kansen die zijn gemarkeerd als binnengehaald en die in aanmerking komen voor de registratie van deals als ze een teamlid zijn.
+||    Kan ondersteunings tickets maken en weer geven
+|Bedrijfs profiel beheerder|Zakelijke profielen maken en beheren | [Zakelijke profielen beheren](create-a-marketing-profile.md)
+||    Kan ondersteunings tickets maken en weer geven
 
-## <a name="manage-incentives"></a>Prikkels beheren 
+In combi natie met de nieuwe referrals gebruikersrol maken we ook kennis met het bereik van de locatie voor deals. De volgende tabel geeft uitleg over de deals-toegang op basis van de locatie.
+
+|**Bereik** | **Wat u kunt doen** |
+|------------------------------|:-------------------------|
+|Het hele bedrijf | Zowel beheerders als gebruikers hebben toegang tot het maken van deals voor elke locatie in het bedrijf|
+|| Verwijzings beheerder heeft toegang om alle deals weer te geven en te bewerken |
+|| Referentie gebruikers hebben toegang tot het weer geven en bewerken van alle deals alleen als ze deel uitmaken van het team |
+|Een of meer locaties | Zowel beheerders als gebruikers hebben toegang tot het maken van deals voor de toegewezen locatie in het bedrijf|
+|| Verwijzings beheerder heeft toegang om alle deals weer te geven en te bewerken die horen bij de toegewezen locaties|
+|| Verwijzings gebruikers hebben toegang tot het weer geven en bewerken van alle deals die tot de toegewezen locaties behoren als ze deel uitmaken van het team|
+
+## <a name="manage-incentives"></a>Prikkels beheren
 
 |**Role** | **Wat u kunt doen**|**Meer informatie**
 |------------------------------|:-------------------------|---|

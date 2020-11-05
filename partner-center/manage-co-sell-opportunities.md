@@ -1,5 +1,5 @@
 ---
-title: Verkoop kansen beheren
+title: Collectieve verkoopkansen beheren
 ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528797"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363636"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Verkoop kansen beheren in het partner centrum
 
@@ -63,7 +63,7 @@ U kunt drie soorten verkoop kansen maken.
 
 Selecteer de klant voor deze specifieke deal. Voer de locatie in en begin met het typen van de naam. De automatische suggestie begint met het weer geven van aanbevelingen op basis van de zoek criteria. Omdat veel bedrijven meer dan één bedrijfs entiteit op dezelfde locatie hebben, worden er mogelijk meerdere resultaten weer geven. Als u niet zeker weet welke u wilt kiezen, kunt u bevestigen welk D-U-N-S-nummer bij uw klant hoort. Zorg ervoor dat u de exacte overeenkomst selecteert voor de klant met wie u wilt werken.
 
-Wanneer u op **de klant selecteren** klikt, wordt u gevraagd om de naam, het telefoon nummer en het e-mail adres op te geven voor de persoon die het belangrijkste contact punt is voor deze deal. Deze gegevens zijn optioneel en zijn alleen vereist als u van plan bent om micro soft-verkopen uit te nodigen om u te helpen met de betrokkenheid. Selecteer **Next** .
+Wanneer u op **de klant selecteren** klikt, wordt u gevraagd om de naam, het telefoon nummer en het e-mail adres op te geven voor de persoon die het belangrijkste contact punt is voor deze deal. Deze gegevens zijn optioneel en zijn alleen vereist als u van plan bent om micro soft-verkopen uit te nodigen om u te helpen met de betrokkenheid. Selecteer **Volgende**.
 
 > [!IMPORTANT]
 > Zorg ervoor dat u de toestemming van de klant hebt verkregen om hun contact gegevens aan micro soft te verstrekken voor de deal. Micro soft kan deze informatie gebruiken om rechtstreeks contact op te nemen met de klant.
@@ -75,6 +75,7 @@ Voer de details van de huidige deal in. De velden die hieronder zijn gedefinieer
 | **Veldnaam** | **Verplicht/optioneel** | **Details** |
 |-------------|--------|-------|
 |**Naam van deal** | Verplicht | De beschrijvende naam om uw deal op een later tijdstip te identificeren. |
+|**Locatie**| Verplicht | Het locatie bereik van de MPN van de verwijzing. Gebruikers met een verwijzing naar dit locatie bereik kunnen de verwijzingen weer geven als ze deel uitmaken van het team. Verwijzings beheerders en referentie beheerders met een globaal bereik kunnen de verwijzingen onafhankelijk van de locatie weer geven. De locatie kan niet worden bewerkt nadat de verwijzing is gemaakt.|
 |**Geschatte waarde** | Verplicht | De waarde van de deal op basis van de informatie die beschikbaar is tijdens het maken van de deal.|
 |**Geschatte Sluitings datum**| Verplicht| De datum waarop u verwacht de deal met de klant te sluiten. |
 |**CRM-ID**| Optioneel | Codeer de deal met de ID van de opportuniteit in uw eigen CRM voor het bijhouden van het doel.|
@@ -134,15 +135,15 @@ Als u in deze fase een nieuwe verkoop kans hebt ontvangen van een micro soft-ver
 
 - **Accepteren:** Voer een naam in voor de deal, bewerk de geschatte deal waarde en de geschatte aankoop periode op basis van uw beoordeling. Wanneer u de contact persoon met de klant hebt gemaakt, moet u informatie opgeven in het veld **notities** om meer te weten te komen over wat de klant zoekt. U kunt eventueel uw CRM-ID invoeren (alleen voor uw referentie), de marketing campagne-ID die de respectieve verkoop kans heeft opgeleverd en contact personen toevoegen van uw bedrijf, die aan deze deal werken.
 
-- Wanneer u klaar bent, selecteert u **volgende** . We gaan de verwijzing naar **de volgende fase** verplaatsen, wat betekent dat u actief wilt samen werken met de klant om hun behoeften aan te pakken. We gebruiken deze informatie ook om in de toekomst vergelijk bare aanbiedingen te vinden.
+- Wanneer u klaar bent, selecteert u **volgende**. We gaan de verwijzing naar **de volgende fase** verplaatsen, wat betekent dat u actief wilt samen werken met de klant om hun behoeften aan te pakken. We gebruiken deze informatie ook om in de toekomst vergelijk bare aanbiedingen te vinden.
 
-- **Weigeren** : Selecteer de reden waarom u de deal weigert en Voeg eventuele notities toe die u wilt toevoegen en selecteer vervolgens **afhandelen** . We archiveren deze als **geweigerd** en melden micro soft of de partner die u deze mogelijkheid heeft gestuurd.
+- **Weigeren** : Selecteer de reden waarom u de deal weigert en Voeg eventuele notities toe die u wilt toevoegen en selecteer vervolgens **afhandelen**. We archiveren deze als **geweigerd** en melden micro soft of de partner die u deze mogelijkheid heeft gestuurd.
 
 - Als u niet binnen de toegewezen tijd reageert (momenteel 14 dagen), zullen we deze archiveren als **verlopen** en een melding ontvangen van micro soft of de partner die u deze mogelijkheid heeft gestuurd.
 
 ### <a name="accepted-stage"></a>Geaccepteerde fase
 
-Werk de deal af met de klant. Als u de informatie die u hebt ingevoerd voor een geaccepteerde verwijzing wilt wijzigen, selecteert u **bewerken** . U kunt vervolgens de naam van de deal, de geschatte aankoop datum, de geschatte waarde, de notities, de CRM-ID en/of de marketing campagne-ID bijwerken.  U kunt ook **uw team toevoegen** selecteren om de naam, het telefoon nummer en het e-mail adres op te geven van alle extra mensen die aan de deal werken. Oplossingen kunnen ook worden bewerkt op basis van de behoeften van de klant.
+Werk de deal af met de klant. Als u de informatie die u hebt ingevoerd voor een geaccepteerde verwijzing wilt wijzigen, selecteert u **bewerken**. U kunt vervolgens de naam van de deal, de geschatte aankoop datum, de geschatte waarde, de notities, de CRM-ID en/of de marketing campagne-ID bijwerken.  U kunt ook **uw team toevoegen** selecteren om de naam, het telefoon nummer en het e-mail adres op te geven van alle extra mensen die aan de deal werken. Oplossingen kunnen ook worden bewerkt op basis van de behoeften van de klant.
 
 Alle deals die u hebt gemaakt, bevinden zich standaard in de fase geaccepteerd.
 
@@ -184,7 +185,7 @@ Een deal komt alleen in aanmerking voor registratie van deals als deze voldoet a
 
 Als de deal in aanmerking komt voor de registratie van deals, wordt er extra mijl paal toegevoegd voor de levens cyclus van de deal ' deals registratie ', zoals hieronder wordt weer gegeven.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Afbeelding met de levens cyclus van de deal waar de verkoop fase kan worden gemarkeerd.":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Afbeelding van de levens cyclus van de deal, de locatie van waaruit de registratie van deals kan worden gestart.":::
 
 U kunt ervoor kiezen om de deal onmiddellijk te registreren nadat u de deal hebt gemarkeerd als gewonnen of op een later tijdstip via de knop **nu registreren** voor de deal levenscyclus.
 Zodra de deal is geregistreerd, kunt u de voortgang van de validatie van de deal bekijken vanuit dezelfde levens cyclus. Als er actie is vereist van uw bedrijf, worden de juiste fouten weer gegeven in de weer gave levens cyclus van deals. De deal gaat in de gesloten status wanneer de deal validatie is voltooid.
@@ -217,20 +218,20 @@ Nee, deals kunnen niet worden gewijzigd nadat ze naar een Terminal status zijn v
 
 Dit kan gebeuren als uw bedrijf meerdere tenants heeft die zijn gekoppeld aan hetzelfde MPN-account. Ga naar de account instellingen van het partner centrum en controleer de tenants die aan het account zijn gekoppeld. Maak vervolgens een ondersteunings ticket dat vraagt om de tenants te koppelen. Geef de Tenant-ID op waarin u bent aangemeld in het ondersteunings ticket.
 
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Afbeelding met de levens cyclus van de deal waar de verkoop fase kan worden gemarkeerd.":::
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Afbeelding van de account instellingen waar Tenant gegevens kunnen worden gevonden.":::
 
 **K3. Wie ontvangt een e-mail melding van het partner centrum?**
 
 In de onderstaande werk stroom wordt uitgelegd hoe de e-mails worden verzonden naar de partners van het Partner Center-referentie systeem voor inkomende referenties van partners.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Afbeelding met de levens cyclus van de deal waar de verkoop fase kan worden gemarkeerd.":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Afbeelding van de logica van de manier waarop e-mails worden verzonden naar partners voor nieuwe binnenkomende verwijzingen.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Meer verkoop kansen ophalen
 
 Hier volgen enkele tips waarmee u meer verkoop kansen kunt verkrijgen die geschikt zijn voor uw bedrijf:
 
-- **Reageer snel op deals** . Wanneer u tijdig reageert op binnenkomende aanvragen, wordt uw zicht baarheid in toekomstige partner Zoek resultaten geleidelijk verbeterd. Zorg ervoor dat uw team snel met uw intentie reageert.
-- **Wees choosy met de deals die u aanvaardt** . We volgen de soorten deals die u aanvaardt en weigert en gebruikt deze informatie om Vergelijk bare deals te vinden. Het accepteren van deals die geen goede geschiktheid hebben, verbetert niet de zoek resultaten en kunnen invloed hebben op de kwaliteit van de opportuniteiten die u ontvangt.
+- **Reageer snel op deals**. Wanneer u tijdig reageert op binnenkomende aanvragen, wordt uw zicht baarheid in toekomstige partner Zoek resultaten geleidelijk verbeterd. Zorg ervoor dat uw team snel met uw intentie reageert.
+- **Wees choosy met de deals die u aanvaardt**. We volgen de soorten deals die u aanvaardt en weigert en gebruikt deze informatie om Vergelijk bare deals te vinden. Het accepteren van deals die geen goede geschiktheid hebben, verbetert niet de zoek resultaten en kunnen invloed hebben op de kwaliteit van de opportuniteiten die u ontvangt.
 - **Meld de geschatte afname van de deal, de eind datum en de uiteindelijke status van uw deals** (gewonnen of verloren). We gebruiken deze gegevens om u te blijven voorzien van kwaliteits verwijzingen.
 
 ## <a name="next-steps"></a>Volgende stappen
