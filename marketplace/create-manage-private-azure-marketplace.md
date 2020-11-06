@@ -1,18 +1,17 @@
 ---
 title: Privé Azure Marketplace in Azure Portal maken en beheren
 description: Meer informatie over het maken en beheren van privé Azure Marketplace (preview) in de Azure Portal.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "92528421"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414855"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Maak en beheer privé Azure Marketplace (preview) in de Azure Portal
 
@@ -129,38 +128,38 @@ Voor meer informatie over de cmdlets in de Power shell-module AZ. Portal, Zie [M
 
 ## <a name="create-private-azure-marketplace"></a>Een persoonlijke Azure Marketplace maken
 
-1. Meld u aan bij [Azure Portal](https://portal.azure.com/).
-2. Selecteer **alle services** en vervolgens **Marketplace** .
+1. Meld u aan bij de [Azure-portal](https://portal.azure.com/).
+2. Selecteer **alle services** en vervolgens **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal hoofd venster.":::
 
 3. Selecteer **privé Marketplace** in de opties aan de linkerkant.
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Azure Portal hoofd venster.":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Selecteer privé Marketplace in het hoofd venster van Azure Portal.":::
 
 4. Selecteer aan de **slag** om een persoonlijke Azure Marketplace te maken (u hoeft dit slechts één keer te doen).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Azure Portal hoofd venster.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Selecteer aan de slag in het hoofd venster van de Azure Portal.":::
 
     Als er al een persoonlijke Azure Marketplace bestaat voor deze Tenant, wordt het **beheren van Marketplace** standaard geselecteerd.
 
 5. Zodra u klaar bent, hebt u een lege en uitgeschakelde persoonlijke Azure Marketplace.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Azure Portal hoofd venster.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Het lege persoonlijke venster voor Azure Marketplace.":::
 
 ## <a name="add-items-from-gallery"></a>Items uit de galerie toevoegen
 
 Een item is een combi natie van een aanbieding en een abonnement. U kunt items zoeken en toevoegen op de pagina Marketplace beheren.
 
-1. Selecteer **items toevoegen** .
+1. Selecteer **items toevoegen**.
 
 2. Blader door de **Galerie** of gebruik het zoek veld om het gewenste item te vinden.
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Azure Portal hoofd venster.":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Door de galerie bladeren of het zoek veld gebruiken.":::
 
 3. Bij het toevoegen van een nieuwe aanbieding worden standaard alle huidige plannen toegevoegd aan de lijst met toegestane abonnementen. Als u de plannings selectie wilt wijzigen voordat u de geselecteerde items toevoegt, selecteert u de vervolg keuzelijst op de tegel van de aanbieding en werkt u de vereiste abonnementen bij.
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Azure Portal hoofd venster.":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Vereiste abonnementen bijwerken.":::
 
 4. Selecteer in de linkerbenedenhoek nadat u uw **selecties hebt gemaakt** .
 
@@ -174,22 +173,22 @@ U kunt de plannen van een item bewerken op de pagina Marketplace beheren.
 1. Bekijk in de kolom **plannen** de beschik bare abonnementen in het vervolg keuzemenu voor dat item.
 2. Schakel de selectie vakjes in of uit om te kiezen welke abonnementen u beschikbaar wilt maken voor uw gebruikers.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Azure Portal hoofd venster.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Het selectie vakje voor het vereiste item in-of uitschakelen.":::
 
 > [!NOTE]
 > Voor elke aanbieding moet ten minste één abonnement zijn geselecteerd om de update te laten plaatsvinden. Als u alle abonnementen met betrekking tot een aanbieding wilt verwijderen, verwijdert u de hele aanbieding (Zie de volgende sectie).
 
 ## <a name="delete-offers"></a>Aanbiedingen verwijderen
 
-Schakel op de pagina Marketplace beheren het selectie vakje in naast de naam van de aanbieding (Zie het scherm hierboven) en selecteer **items verwijderen** .
+Schakel op de pagina Marketplace beheren het selectie vakje in naast de naam van de aanbieding (Zie het scherm hierboven) en selecteer **items verwijderen**.
 
 ## <a name="enabledisable-private-azure-marketplace"></a>Privé Azure Marketplace in-/uitschakelen
 
 Op de pagina Marketplace beheren ziet u een van deze banners, waarin de huidige status van de persoonlijke Azure Marketplace wordt weer gegeven:
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Azure Portal hoofd venster.":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="Status banner uitschakelen":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Azure Portal hoofd venster.":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="Status banner inschakelen":::
 
 U kunt de persoonlijke Azure Marketplace zo nodig in-of uitschakelen.
 
@@ -205,7 +204,7 @@ Wanneer persoonlijke Azure Marketplace is ingeschakeld, zien gebruikers welke ab
 
 Gebruikers kunnen filteren op aanbiedingen die niet zijn toegestaan:
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Azure Portal hoofd venster.":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="Filter optie.":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Kopen of implementeren in een privé Azure Marketplace
 
@@ -213,16 +212,16 @@ Hoewel de pagina met product details vergelijkbaar is met de open bare Azure Mar
 
 - Wanneer een gebruiker een toegestaan plan selecteert, wordt de knop **maken** ingeschakeld:
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Azure Portal hoofd venster.":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Span doek voor aanbiedingen er kan een plan worden gemaakt.":::
 
 - Wanneer een gebruiker een niet-toegestaan plan selecteert, wordt er een banner notitie gemaakt dat het plan niet is toegestaan en wordt de knop **maken** uitgeschakeld.
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Azure Portal hoofd venster.":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Banner van aanbieding voor een abonnement kan niet worden gemaakt.":::
 
 - Als een selectie van een product plan niet wordt weer gegeven op de pagina product details, maar de beheerder een of meer plannen heeft goedgekeurd, wordt een banner notities **gemaakt** waarvoor plannen zijn toegestaan en wordt de knop maken ingeschakeld:
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Azure Portal hoofd venster.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Banner van aanbieding voor een abonnement kan worden gemaakt en de beschik bare abonnementen worden weer gegeven.":::
 
-## <a name="contact-support"></a>Contact opnemen met ondersteuning
+## <a name="contact-support"></a>Contact opnemen met de ondersteuning
 
 Voor ondersteuning voor Azure Marketplace gaat u naar [micro soft Q&A](/answers/products/). 
