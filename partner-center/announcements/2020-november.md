@@ -1,5 +1,5 @@
 ---
-title: Mede delingen van november 2020
+title: November 2020-aankondigingen
 description: Mede delingen van november 2020 voor het micro soft-partner centrum, inclusief nieuwe mogelijkheden, aanbiedingen, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,20 +9,111 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93328050"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333892"
 ---
-# <a name="november-2020-announcements"></a>Mede delingen van november 2020
+# <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft partner centrum voor november 2020.
 
 2020 aankondigingen: [april](2020-april.md)juni tot en met september tot en met  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md) | Maand
 
 ______________
+
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Inhoud van commerciële licentie partners uitbreiden in de galerie met Operations Readiness
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-11-5
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Vanaf november 5 2020 wordt de inhoud van de commerciële licentie partner van partner University ook beschikbaar gesteld in de galerie met Operations Readiness.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Commerciële partners
+
+### <a name="details"></a>Details
+
+Vanaf 5 november 2020 wordt de inhoud van de commerciële licentie partner van partner University ook beschikbaar gesteld in de galerie met Operations Readiness. Dit consolideert de bestaande operationele en commerciële licentie partner om inhoud te starten in de galerie met Operations Readiness met onze bedoelende commerciële licentie partner-inhoud van partner University. Zo beschikt u met partners over een naadloze ervaring voor de gereedheid. De volgende verzamelingen zijn toegevoegd aan de galerie met Operations Readiness:
+
+- [Microsoft Azure-aanbiedingen en licenties](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [Commerciële licentie verlening: CSP-Spotlight-oproep](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [Commerciële licentie verlening-oproep voor licentie-updates](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>Volgende stappen
+
+Deel deze informatie met alle relevante contact personen in uw organisatie.
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Micro soft teams kamers Premium SKU starten
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-11-3
+- Aanbiedingen/markten
+
+### <a name="summary"></a>Samenvatting
+
+Micro soft teams kamers Premium SKU voor micro soft teams via het programma Cloud Solution Provider (CSP) is nu beschikbaar.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+
+### <a name="details"></a>Details
+
+De nieuwe micro soft teams-kamers Premium SKU voor micro soft teams-kamers is nu beschikbaar voor klanten die een CSP aanschaffen via USD50 per apparaat per product. De micro soft teams kamers Premium SKU is een alternatief voor de standaard-SKU van micro soft teams-kamers (voorheen een licentie voor Vergader ruimte genoemd). Deze SKU bevat alles in de standaard aanbieding, zoals de vereiste licenties voor micro soft teams, Skype voor bedrijven online en intune-beheer. De aanbieding biedt ook telefoon systeem, dat nodig is voor de integratie van open bare telefoonnet werk (openbaar geschakelde telefonie) en audio vergaderingen, indien beschikbaar. 
+
+Met de Premium-aanbieding hebben klanten toegang tot de nieuw gepubliceerde micro soft teams-kamers beheerde services, waar experts het beheer en de activiteiten voor Vergader ruimten namens de klant afhandelen. Met deze Cloud service voor IT-beheer en-bewaking blijven de apparaten van micro soft teams en hun rand apparatuur up-to-date en beveiligd. Ze zijn ook proactief bewaakt en beheerd, en onderhouden een omgeving die is geoptimaliseerd voor een goede ervaring in de kamer.
+
+#### <a name="released-at-launch"></a>Vrijgegeven bij het starten
+
+   |****|**Micro soft teams kamers Standard USD15-apparaat per maand**|**Micro soft teams kamers Premium USD50-apparaat per maand**|
+   |-------------------|:------|:------|
+   |Skype voor Bedrijven|Ja| |
+   |Microsoft Teams|Ja|Ja|
+   |Telefoon systeem|Ja|Ja|
+   |Audio vergaderingen|Ja|Ja|
+   |Microsoft Intune|Ja|Ja|
+   | |Micro soft teams-kamers standaard USD15 per apparaat per maand|Micro soft teams kamers Premium USD50 per apparaat per maand|
+   |Beheerde services van micro soft teams-kamers| |Ja|
+   |Wereld wijde Beschik baarheid|Ja|In geselecteerde markten|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Beheerde services van micro soft teams-kamers
+
+- Proactieve beheer: zakelijke (24x7x365 beheer van uw room-systemen, waaronder patches, configuratie beheer en meer.
+• Realtime controle en analyse van de hoofd oorzaak: bewaking en detectie met door micro soft gecooerdineerde incident beheer reacties, in combi natie met de klant, indien nodig. Met de mobiele app kunt u op de hoogte blijven van waarschuwingen.
+- Beheerde updates: beheer en levering van toepassingen, Windows KB en firmware-updates.
+- Beveiliging tegen beveiligings Risico's: beveiliging tegen beveiligings Risico's via micro soft Defender Advanced Threat Protection.
+- Klanten ondersteuning: zakelijke (24x7x365-ticket ondersteuning via ons speciaal Service Operations Center met ondersteunings incidenten voor niet-geautomatiseerde aanvragen. Gedetailleerd toegangs beheer op basis van rollen.
+- Inzichten en aanbevelingen: geaggregeerde inzichten in klanten en rapporten over de gezondheid van de kamer, de inventaris, het gebruik, online vergaderingen en de trends van het incident.
+
+#### <a name="offer-details"></a>Details van aanbieding
+
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |-------------------|:------|:------|
+   |Teams kamers Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams kamers Premium (VS en CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Teams kamers Premium voor faculteiten|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Bekijk de nieuwe aanbieding en de geografische Beschik baarheid daarvan de veelgestelde [vragen (FAQ)]().
+- Vertrouwd raken met de nieuwe aanbieding en de geografische Beschik baarheid. 
+- Meer informatie over micro soft-kamers en gerelateerde aanbiedingen in [micro soft-team kamers](https://rooms.microsoft.com/).
+- Gebruik de [partner gids teams](https://aka.ms/teamscallingmeetingsguide) om uw prak tijken te ontwikkelen met teams in Vergader ruimten en maak een verkoop klare aanbieding.
+- Raadpleeg de [Veelgestelde vragen over de micro soft teams-kamers](https://aka.ms/PartnerMTRFAQ) voor meer informatie over de product oplossing en-services. 
+- Deel deze informatie met alle contact personen in uw organisatie en begrijp de verkoop kansen en cross-sell-mogelijkheden.
+
+________________
 
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Nieuwe micro soft teams Advanced Communications-Sku's voor Government Community Cloud (GCC) binnenkort beschikbaar
 
@@ -191,7 +282,7 @@ Deze aanbiedingen zijn van invloed op de volgende klanten:
 - Net nieuwe klant tenants
 - Bestaande tenants van klanten die geen actieve of recent geannuleerde abonnement hebben (binnen de laatste 30 dagen) bij een zakelijke Voice-of audio conferencing-licentie op CSP, Web direct of een ander micro soft-commercieel kanaal
 
-#### <a name="additional-resources"></a>Aanvullende bronnen
+#### <a name="additional-resources"></a>Aanvullende resources
 
 - Ga naar de [pagina Microsoft 365 Business Voice-partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) voor meer informatie over zakelijke Voice. 
 - Meer informatie over deze promotie vindt u in de [Veelgestelde vragen](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)over gerelateerde partners.
