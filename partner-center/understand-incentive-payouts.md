@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244060"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360051"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details van het programma voor stimulansen weer geven, beheren en exporteren
 
@@ -39,8 +39,8 @@ Gebruik deze pagina's om details weer te geven over uw vroegere, in behandeling 
 
 U kunt op een paar manieren toegang krijgen tot prikkelgegevens in het [dash board](https://partner.microsoft.com/dashboard)van partner Center:
 
-- Selecteer **prikkels** in het menu aan de linkerkant. Er worden verschillende opties weer gegeven onder **stimulansen** , waaronder **overzicht** . Bekijk deze opties voor meer informatie over de status van prikkel-Program ma's, belonings betalingen, inkomsten en claims.
-- Selecteer het pictogram **Money** (uitbetaling) in de rechter bovenhoek. U kunt vervolgens andere opties selecteren, zoals **transactie geschiedenis** , **betalingen** , **gegevens exporteren** of Office- **omzet rapport** .
+- Selecteer **prikkels** in het menu aan de linkerkant. Er worden verschillende opties weer gegeven onder **stimulansen** , waaronder **overzicht**. Bekijk deze opties voor meer informatie over de status van prikkel-Program ma's, belonings betalingen, inkomsten en claims.
+- Selecteer het pictogram **Money** (uitbetaling) in de rechter bovenhoek. U kunt vervolgens andere opties selecteren, zoals **transactie geschiedenis** , **betalingen** , **gegevens exporteren** of Office- **omzet rapport**.
 
 De volgende pagina's worden hier beschreven:
 
@@ -70,7 +70,7 @@ Toegang krijgen tot het **overzicht van Mijn incentives** :
    - Als u wilt groeperen op locatie, selecteert u het tabblad **op locatie** boven de tabel.
    - Als u meer details over registraties binnen een specifieke groep wilt weer geven, selecteert u het pictogram met het dubbele punt haak aan het einde van een bepaalde rij. Deze dubbele punt haak verg root de weer gave.
 
-4. Als verdere actie is vereist om u in te schrijven voor een programma, wordt deze informatie weergegeven in de kolom **Status** . In dit geval selecteert u het punthaaksymbool om meer te weten te komen over de volgende stappen die u moet volgen.
+4. Als verdere actie is vereist om u in te schrijven voor een programma, wordt deze informatie weergegeven in de kolom **Status**. In dit geval selecteert u het punthaaksymbool om meer te weten te komen over de volgende stappen die u moet volgen.
 
 >[!NOTE]
 >Raadpleeg de volgende tabel voor meer informatie over de verschillende inschrijvings statussen die worden weer gegeven in de kolom **status** .
@@ -95,7 +95,7 @@ De totalen op deze pagina geven alle MPN-Id's die u gebruikt. U kunt filteren op
 |Volgende geschatte betaling      |De enkele volgende betaling die aan u wordt geleverd (zelfs als er binnenkort nog andere worden ontvangen), in Amerikaanse dollars.                                     |
 |Laatste betaling           |De hoeveelheid (in Amerikaanse dollars), programma naam en MPN-ID van uw meest recente betaling.                                      |
 |Betalingen per bron       |De hoeveelheid betalingen, in Amerikaanse dollars, die wordt weer gegeven in de afgelopen 12 maanden.                                      |
-|Betalingen                       |Selecteer **betaald** of **in behandeling** en sorteer vervolgens naar wens. Selecteer **weer geven** voor meer informatie over een specifieke betaling. Als u een kopie van de betalings remise-instructie wilt downloaden, selecteert u **downloaden** . Het kan tot 24 uur duren voordat de gegevens van de transactie geschiedenis worden weer gegeven, zodat u de bijbehorende inkomsten niet meteen kunt zien.  |
+|Betalingen                       |Selecteer **betaald** of **in behandeling** en sorteer vervolgens naar wens. Selecteer **weer geven** voor meer informatie over een specifieke betaling. Als u een kopie van de betalings remise-instructie wilt downloaden, selecteert u **downloaden**. Het kan tot 24 uur duren voordat de gegevens van de transactie geschiedenis worden weer gegeven, zodat u de bijbehorende inkomsten niet meteen kunt zien.  |
 
 Als u de gegevens op deze pagina wilt exporteren, selecteert u **exporteren** en volgt u de instructies op de pagina gegevens exporteren.
 
@@ -139,7 +139,7 @@ Als u het referentie nummer van het kanaal stimulans (CI) niet weet, kunt u het 
 
 - Het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/) (aanmelden is vereist), op het tabblad **betaald** en op het tabblad **in behandeling** .  
 
-- Uw betalings rapport, dat zich bevindt op de [export pagina voor het downloaden van betalingen](/partner-center/understand-incentive-payouts#payment-download-export). 
+- Uw betalings rapport, dat zich bevindt op de [export pagina voor het downloaden van betalingen](#payment-download-export). 
 
 #### <a name="if-your-submission-is-rejected"></a>Als uw inzending is afgewezen
 
@@ -167,7 +167,7 @@ De pagina transactie geschiedenis bevat nu een tabel met uw geschatte betalings 
 
 De geschatte betalings maand wordt berekend op basis van programma configuratie regels en tijd lijnen, en wordt verwerkt in de volgende/aanstaande betalings cyclus.
 
-De geraamde betalings maand is momenteel beschikbaar voor alle verdienen typen, met uitzonde ring van co-op, die worden weer gegeven als **niet van toepassing** . Voor de inkomsten van 1 juli 2020 wordt de geschatte betalings maand weer gegeven als **niet beschikbaar** .
+De geraamde betalings maand is momenteel beschikbaar voor alle verdienen typen, met uitzonde ring van co-op, die worden weer gegeven als **niet van toepassing**. Voor de inkomsten van 1 juli 2020 wordt de geschatte betalings maand weer gegeven als **niet beschikbaar**.
 
 #### <a name="estimated-payment-month-example"></a>Voor beeld van een geschatte betalings maand
 
@@ -196,7 +196,7 @@ Houd er rekening mee dat uw betaling alleen wordt vrijgegeven in de verwachte ma
 |**Status verdienen** |**Reden** |**Partner actie vereist?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Verwerkte        | Het verdienen komt in aanmerking voor betaling. Deze status blijft van toepassing op een koel periode zoals gedefinieerd in de programma gids voor het prestatie programma.       |Nee        |
-|Verschijnen      |De betalings order is gegenereerd interne beoordelingen voordat de betaling wordt verwerkt.       |Nee       |
+|Aankomend      |De betalings order is gegenereerd interne beoordelingen voordat de betaling wordt verwerkt.       |Nee       |
 |Factuur met openstaande BTW      |Uw belasting factuur is onvolledig of ongeldig.          |U moet uw BTW-factuur bijwerken voordat u kunt betalen         |
 |Afgewezen tijdens beoordeling        |De betaling is tijdens de controle afgewezen.          |Neem contact op met micro soft ondersteuning voor meer informatie         |
 |Mislukt        |De betaling is mislukt vanwege een micro soft-systeem fout.         |Neem contact op met micro soft ondersteuning voor meer informatie         |
@@ -331,7 +331,7 @@ Het overzichts rapport van de trans actie bevat details over het overzichts nive
 ### <a name="download-the-transaction-summary-report"></a>Het transactie samenvattings rapport downloaden
 
 1. Selecteer op de pagina **prikkel overzicht** het pictogram **Money** (uitbetaling) in de rechter bovenhoek.
-2. Selecteer **Gegevens exporteren** .
+2. Selecteer **Gegevens exporteren**.
 3. Selecteer het tabblad Overzicht van de **trans actie** .
 4. Selecteer de juiste filters om de Program ma's en hendels weer te geven die in aanmerking komen voor geaggregeerde inkomsten. Als er geen gegevens worden weer gegeven, komen uw Program ma's niet in aanmerking voor geaggregeerde hendels.
 5. Selecteer **downloaden starten**   om het rapport te exporteren.  

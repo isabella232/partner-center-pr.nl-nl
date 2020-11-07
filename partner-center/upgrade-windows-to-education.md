@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028788"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360000"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Windows 10 Home-klanten upgraden naar Windows 10 education
 
@@ -49,9 +49,9 @@ Partners moeten een ondersteunings aanvraag maken en sleutels ontvangen van onde
 
 2. Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens de klant die ondersteuning nodig heeft.
 
-3. Selecteer **Service beheer** en selecteer **service aanvragen** .
+3. Selecteer **Service beheer** en selecteer **service aanvragen**.
 
-4. Selecteer **nieuwe aanvraag** en selecteer vervolgens **Office 365 en Enter prise Mobility Suite** .
+4. Selecteer **nieuwe aanvraag** en selecteer vervolgens **Office 365 en Enter prise Mobility Suite**.
 
 5. U gaat naar de Office 365-Portal waar u zich moet aanmelden met de referenties van uw partner centrum.
 
@@ -63,9 +63,9 @@ Partners moeten een ondersteunings aanvraag maken en sleutels ontvangen van onde
 - **Beschrijving:** Er wordt gevraagd om de sleutels [insert nummer] in te scha kelen voor een upgrade naar Windows 10-onderwijs. (Houd er rekening mee dat het aangevraagde aantal sleutels niet groter mag zijn dan uw Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnements licenties.) Abonnements-ID van de klant [Voeg abonnements-ID-GUID voor klanten in voor hun Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnement.]
 - **Contact nummer:** Dit wordt vooraf ingevuld. controleren om te bevestigen of bij te werken.
 - **E-mail:** Dit wordt vooraf ingevuld en dit moet het e-mail adres zijn dat u gebruikt als micro soft Portal-beheerder (alleen voor globale beheerder of facturerings beheerder).
-- **Voorkeurs methode voor contact personen** : Kies **telefoon** of **plan terugbellen** .
+- **Voorkeurs methode voor contact personen** : Kies **telefoon** of **plan terugbellen**.
 
-8. Selecteer **contact opnemen** . De verwachte wacht tijd wordt aangegeven in het deel venster **hulp nodig?** .
+8. Selecteer **contact opnemen**. De verwachte wacht tijd wordt aangegeven in het deel venster **hulp nodig?** .
 
 9. De aanvraag wordt door **Microsoft ondersteuning** gecontroleerd om er zeker van te zijn dat de klant in aanmerking komt. Zodra de aanvraag is goedgekeurd, wordt een e-mail verzonden naar de partner met instructies over het verkrijgen van toegang tot de sleutels.
 
@@ -75,7 +75,7 @@ Partners moeten een ondersteunings aanvraag maken en sleutels ontvangen van onde
 
 Als u Windows 10 Home wilt bijwerken met een product code voor Windows 10 Pro education, moet de klant het volgende doen:  
 
-1. Selecteer **Start** en selecteer vervolgens **instellingen > Update & beveiliging > activering** . Selecteer **product code wijzigen** en voer vervolgens de 25-tekens Windows 10 Pro-product code in. Selecteer **volgende** om de upgrade naar Windows 10 Pro te starten.
+1. Selecteer **Start** en selecteer vervolgens **instellingen > Update & beveiliging > activering**. Selecteer **product code wijzigen** en voer vervolgens de 25-tekens Windows 10 Pro-product code in. Selecteer **volgende** om de upgrade naar Windows 10 Pro te starten.
 
 2. Wanneer het apparaat wordt toegevoegd aan het Tenant domein (via AAD), wordt het apparaat automatisch bijgewerkt naar Windows 10-onderwijs.  
 
@@ -100,4 +100,4 @@ De Windows 10 education-upgrade is gebaseerd op de actieve Microsoft 365 a3/A5-o
 Meer informatie vindt u op de volgende koppelingen:
 
 - [Windows Eduction-functies](https://www.microsoft.com/education/products/windows/features)
-- [Windows education hub](https://docs.microsoft.com/education/windows/)
+- [Windows education hub](/education/windows/)
