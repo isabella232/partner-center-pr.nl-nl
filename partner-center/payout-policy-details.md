@@ -1,82 +1,60 @@
 ---
-title: Details van het uitbetalings beleid-micro soft Commercial Marketplace
+title: Uitbetalings schema's en beleids Details-Azure Marketplace
 description: Meer informatie over de details van het uitzonderings beleid voor commerciële Marketplace, met inbegrip van planningen en rekoppeling.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 09/28/2020
-ms.openlocfilehash: eec5f85f38280757bc1e5d5c36a4dd1ac5ce8d22
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 11/06/2020
+ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528741"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381389"
 ---
-# <a name="payout-policy-details"></a>Details van betaalbeleid
+# <a name="payout-schedules-and-policy-details"></a>Uitbetalings schema's en beleids Details
 
-In dit artikel wordt het uitbetalings proces van micro soft beschreven, waar u de status van een uitbetaling en het terugkoppelings beleid kunt vinden.
+In dit artikel wordt het uitzonderings schema van micro soft beschreven, waar u de status van een uitbetaling en het proces voor niet-betaling van de klant kunt vinden.
 
 ## <a name="payment-schedules"></a>Betalings schema's
 
-In de volgende secties wordt het proces voor uitbetaling beschreven.
+In de volgende secties wordt het proces voor uitbetalingen voor **Enterprise Agreement** en **Credit Card-en factuur** transacties beschreven.
 
-### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>Enterprise Agreement trans acties na 1 mei 2020
+### <a name="enterprise-agreement-transactions"></a>Enterprise Agreement trans acties
 
-#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>Update naar ons uitbetalings model voor uitgevers van commerciële Marketplace
+Wanneer een klant een product koopt van Microsoft AppSource of Azure Marketplace met behulp van hun bestaande micro soft-Enterprise Agreement voor trans acties, zullen we uitbetalingen doen in de volgende uitbetalings cyclus 30 dagen na de klant factuur. Trans acties waarbij een klant gebruikmaakt van een credit card, hebben een periode van 30 dagen vóór de betaling.
 
-Vanaf 1 mei 2020 wordt ons beleid voor uitbetalingen bijgewerkt met betrekking tot producten die zijn gekocht in azure Marketplace of AppSource door klanten met een micro soft-Enterprise Agreement. Wanneer een klant een product koopt van Azure Marketplace of AppSource met behulp van hun bestaande micro soft-Enterprise Agreement voor trans acties na 1 mei 2020, gaan we uitbetalingen uitgeven in de volgende uitbetalings cyclus van 30 dagen na de klant factuur. Trans acties waarbij een klant gebruikmaakt van een credit card, zijn ongewijzigd en blijven een periode van 30 dagen hebben vóór de uitbetaling. Deze tabel bevat details over het schema voor uitbetaling.
+Een uitbetaling vindt vaak plaats voordat micro soft de betaling van de klant verzamelt. Zie het [proces voor klant niet-betaling](#process-for-customer-non-payment) hieronder voor de acties die we ondernemen als de klant micro soft niet kan betalen, maar er al een uitbetaling is verleend.
 
-> [!NOTE]
-> Zie de onderstaande procedure voor het [verwerken van niet-betaalde klanten](#process-for-customer-non-payment) voor de acties die we ondernemen als de klant niet kan betalen, maar we al een uitbetaling aan u hebben verzonden.
-
-| Gebeurtenis  | Datum (UTC) | Zicht baarheid van partners: partner centrum uitbetalings rapport  |  Zicht baarheid van partners: Partner Center Analytics\* |
+| Gebeurtenis | Beschrijving | Zicht baarheid van rapporten | Time |
 | --- | --- | --- | --- |
-| Trans actie of gebruiks maand | 8/1/2020 – 8/31/2020 | N.v.t. | **Gebruiks rapport** : nieuw verbruik wordt weer gegeven (elke vier uur vernieuwd)<br>**Bestel rapport** : n.v.t. |
-| Einde van de term (maand) | 8/31/2020 | N.v.t. | **Gebruiks rapport** : weer gegeven maand einde verbruik<br>**Bestel rapport** : n.v.t. |
-| Order gegenereerd | 9/3/2020 – 9/7/2020 | N.v.t. | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Het verdienen van uitbetalingen berekenen | 9/4/2020 – 9/10/2020 | Gemarkeerd als niet- **verwerkt** in de transactie geschiedenis van het uitbetalings dashboard | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Maandelijkse uitbetaling | 10/5/2020 | Gemarkeerd als **gepland** in de transactie geschiedenis van het uitbetalings dashboard | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Uitbetalings datum\** | 10/15/2020 | Gemarkeerd als **verzonden** in transactie geschiedenis en in de sectie betalingen van het uitbetalings dashboard | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Klant factuur verzameld | 12/1/2020 | Gemarkeerd als **verzonden** in transactie geschiedenis en in de sectie betalingen van het uitbetalings dashboard | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief  |
-|  |  |  |  |
+| Gebruik of maand van trans actie | Klant gebruikt of koopt een service. | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 1** |
+| Inkoop order is gemaakt | Het totale gebruik, het totaal aantal trans acties bepalen | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 2** |
+| Het verdienen van ISV-uitbetaling is gemaakt | De kosten van het Agency en de inkomsten van de betaling bepalen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de uitbetalings verklaring | **Maand 3 (1e week)** |
+| Uitbetaling voorbereiden | De inkomsten worden voor bereid voor de maandelijkse betaling | Gemarkeerd als gepland in de transactie geschiedenis van de uitbetalings verklaring | **Maand 3 (1e week)** |
+| **Uitbetalings datum** | **De betaling wordt verzonden naar Publisher** | **Gemarkeerd als verzonden in de transactie geschiedenis en in de sectie betalingen van de uitbetalings verklaring** | **Maand 3 (niet later dan de 15e)** |
+| Factuur betaald door klant | Micro soft verzamelt de betaling van de klant | Geen wijziging | **Maand 4 tot en met 12** |
+|
 
-\* Gebruiks-en order rapporten zijn toegankelijk in de sectie analyseren van het partner centrum. \* *. De uitbetalings datum is in Pacific (standaard tijd) (PST).
+\* De uitbetalings datum is in Pacific (standaard tijd) (PST).
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Klanten die betalen met een credit card of factuur
 
-Voor alle aankopen met een credit card of een maandelijkse factuur geldt een periode van 30 dagen om ervoor te zorgen dat de fondsen worden gewist en er geen terugstortingen of verdachte fraude zijn.
+Voor alle aankopen met een credit card of een maandelijkse factuur geldt een periode van 30 dagen om ervoor te zorgen dat de klant geld wordt verzameld.
 
-| Gebeurtenis  | Datum (UTC) | Zicht baarheid van partners: partner centrum uitbetalings rapport  |  Zicht baarheid van partners: Partner Center Analytics\*  |
+| Gebeurtenis | Beschrijving | Zicht baarheid van rapporten | Time |
 | --- | --- | --- | --- |
-| Trans actie of gebruiks maand | 8/1/2019 - 8/31/2019 | N.v.t. | **Gebruiks rapport** : nieuw verbruik wordt weer gegeven (elke vier uur vernieuwd)<br>**Bestel rapport** : n.v.t. |
-| Einde van de term (maand) | 8/31/2019 | N.v.t. | **Gebruiks rapport** : weer gegeven maand einde verbruik<br>**Bestel rapport** : n.v.t. |
-| Order gegenereerd | 9/3/2019 – 9/7/2019 | N.v.t. | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Klant factuur verzameld | 9/7/2019 – 9/10/2019 | N.v.t. | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Uitbetaling berekenen | 9/8/2019 -9/12/2019 | Gemarkeerd als niet- **verwerkt** in de transactie geschiedenis van het uitbetalings dashboard | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Maandelijkse uitbetaling | 11/5/2019\* | Gemarkeerd als **gepland** in de transactie geschiedenis van het uitbetalings dashboard | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Uitbetalings datum\** | 11/15/2019 | Gemarkeerd als **verzonden** in de transactie geschiedenis en in de sectie betalingen op het uitbetalings dashboard | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-|  |  |  |  |
+| Gebruik of maand van trans actie | Klant gebruikt of koopt een service. | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 1** |
+| Factuur betaald door klant | Het totale gebruik, de totale transactie waarde en de factuur van de klant bepalen | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 2** |
+| Het verdienen van ISV-uitbetaling is gemaakt | De kosten van het Agency en de inkomsten van de betaling bepalen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de uitbetalings verklaring | **Maand 2** |
+| Periode van 30 dagen voor het bedrijf | Zorgen voor verzameling van middelen, mogelijke terugstortingen en restitutie aanvragen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de uitbetalings verklaring | **Maand 3** |
+| Uitbetaling voorbereiden | De inkomsten worden voor bereid voor de maandelijkse betaling | Gemarkeerd als gepland in de transactie geschiedenis van de uitbetalings verklaring | **Eerste week van maand 4** |
+| **Uitbetalings datum** | **De betaling wordt verzonden naar Publisher** | **Gemarkeerd als verzonden in de transactie geschiedenis en in de sectie betalingen van de uitbetalings verklaring** | **Maand 4 (niet later dan de 15e)** |
+|
 
-\* Gebruiks-en order rapporten zijn toegankelijk in de sectie analyseren van het partner centrum.</br>\** De uitbetalings datum is in Pacific (standaard tijd) (PST).
-
-### <a name="enterprise-agreement-transactions-prior-to-may-1-2020"></a>Enterprise Agreement trans acties vóór 1 mei 2020
-
-Alle aankopen die vóór deze datum plaatsvinden, worden verwerkt en betaald volgens onderstaande planning, nadat micro soft de betaling van klanten heeft verzameld en de kosten voor Marketplace heeft verwerkt.
-
-| Gebeurtenis  | Datum (UTC)  | Zicht baarheid van partners: partner centrum uitbetalings rapport  |  Zicht baarheid van partners: Partner Center Analytics\*  |
-| --- | --- | --- | --- |
-| Trans actie of gebruiks maand | 8/1/2019 – 8/31/2019 | N.v.t. | **Gebruiks rapport** : nieuw verbruik wordt weer gegeven (elke vier uur vernieuwd)<br>**Bestel rapport** : n.v.t. |
-| Einde van de term (maand) | 8/31/2019 | N.v.t. | **Gebruiks rapport** : weer gegeven maand einde verbruik<br>**Bestel rapport** : n.v.t. |
-| Order gegenereerd | 9/3/2019 – 9/7/2019 | N.v.t. | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Klant factuur verzameld | 12/1/2019 | N.v.t. | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Uitbetaling berekenen | 12/5/2019 – 12/7/2019 | Gemarkeerd als niet- **verwerkt** in de transactie geschiedenis van het uitbetalings dashboard | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Maandelijkse uitbetaling | 1/5/2019 | Gemarkeerd als **gepland** in de transactie geschiedenis van het uitbetalings dashboard | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-| Uitbetalings datum\** | 1/15/2019 | Gemarkeerd als **verzonden** in transactie geschiedenis en in de sectie betalingen op het uitbetalings dashboard | **Gebruiks rapport** : verbruik weer gegeven met OrderID/OrderLineItemID<br>**Bestel rapport** : klant orders weer gegeven als actief |
-|  |  |  |  |
-
-\* Gebruiks-en order rapporten zijn toegankelijk in de sectie analyseren van het partner centrum.</br>\** De uitbetalings datum is in Pacific (standaard tijd) (PST).
+\* De uitbetalings datum is in Pacific (standaard tijd) (PST).
 
 ## <a name="process-for-customer-non-payment"></a>Proces voor niet-betaling van klant
 
@@ -88,7 +66,7 @@ Micro soft brengt alle uitbetalingen die u aan u hebt betaald, aan met een van d
 
 Hier volgt een voorbeeld schema:
 
-| Gebeurtenis | Geschatte datum | Zicht baarheid partner |
+| Gebeurtenis | Geschatte datum * | Zicht baarheid partner |
 | --- | --- | --- |
 | Voor beeld van uitbetalings datum | 10/15/2020 | Gemarkeerd als **verzonden** in de sectie transactie geschiedenis en in betalingen in het uitbetalings dashboard |
 | <font color="red">Als de klant micro soft niet betaalt</font> | 12/2/2020 – 12/5/2020 | Geen wijziging, hetzelfde als hierboven |
@@ -100,6 +78,8 @@ Hier volgt een voorbeeld schema:
 | Uitbetaling wordt in mindering gebracht | 01-03-2021 | Er wordt een negatieve trans actie weer geven in de uitbetalings verklaring van partner Center |
 | Uitbetaling wordt Inge houden | 3/15/2021 | Toekomstige uitbetalingen worden weer gegeven in de uitbetalings verklaring van partner Center. De betaling wordt pas ontvangen als het saldo niet langer negatief is.  |
 |||
+
+\* De uitbetalings datum is in Pacific (standaard tijd) (PST).
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Aantal dagen dat betalingen een uitbetalings account bereiken
 
@@ -117,4 +97,4 @@ Normaal gesp roken verstuurt de betaling in een bepaalde maand op de vijftiende 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Belastinginformatie](tax-details-marketplace.md)
+Meer informatie over [belasting gegevens](tax-details-marketplace.md).

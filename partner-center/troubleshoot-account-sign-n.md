@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528733"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381406"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Problemen met de account installatie of MPN oplossen
 
@@ -38,7 +38,7 @@ U kunt de details op dit scherm niet wijzigen. Dit is een ontwerp en geen fout.
 Selecteer **accepteren** en **door gaan** om door te gaan.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Als de IT-afdeling zich heeft **aangemeld voor partner centrum** .
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Als de IT-afdeling zich heeft **aangemeld voor partner centrum**.
 
 Dit bericht wordt weer gegeven omdat er virus gebruikers zijn uitgeschakeld of omdat een virus registratie is uitgeschakeld op de Azure AD-Tenant. De globale beheerder voor uw Azure AD-account kan de vereiste functies inschakelen door de volgende Power shell-opdracht uit te voeren:
 
@@ -50,7 +50,7 @@ Lees voor meer informatie [self-service registreren](/azure/active-directory/use
 
 Als u uw wacht woord bent verg eten, selecteert u de koppeling **geen toegang tot uw account?** op de aanmeldings pagina. Met deze optie kunt u uw wacht woord opnieuw instellen of uw globale beheerder vragen om u nieuwe referenties toe te wijzen.
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>Op de Scree ' vertel ons over uw bedrijf ' wordt het fout bericht ' er is iets misgegaan ' weer gegeven
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>In het scherm ' vertel ons over uw bedrijf ' verschijnt de fout melding ' er is iets fout gegaan '
 
 Dit fout bericht wordt meestal weer gegeven als u per ongeluk speciale tekens, spaties of land code gebruikt in het telefoon nummer van uw bedrijf. De waarde die is opgegeven in het veld telefoon nummer mag Maxi maal 10 tekens bevatten.
 

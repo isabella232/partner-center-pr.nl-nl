@@ -1,20 +1,20 @@
 ---
 title: Migreren vanaf partner Sales Connect (PSC)
-ms.topic: article
-ms.date: 08/27/2020
-ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
 description: Meer informatie over hoe micro soft-partners kunnen migreren van partner Sales Connect (PSC) naar partner centrum en om deals te maken of te beheren die door micro soft-verkopers worden verzonden.
+ms.topic: article
 author: vikramb
 ms.author: vikramb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 11/06/2020
+ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528484"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381427"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -30,7 +30,7 @@ ms.locfileid: "92528484"
 - Partner Sales Connect (PSC)-beheerder
 - Manager van partner Sales Connect (PSC)
 
-Zoals u weet, verliest uw bedrijf geen toegang tot de PSC post van 31 december 2020. U vindt hier echter alles wat u wilt doen om trans acties te maken, uw deals te beheren en te handelen op deals die door micro soft-verkopers naar u worden verzonden in het partner centrum. Er zijn echter ook verschillen en de volgende richt lijnen helpen u bij het maken van de overgang naar het vloeiender en direct sturen van uw overstap naar partner Center.
+Zoals u weet, verliest uw bedrijf geen toegang tot de PSC post van 31 maart 2021. U vindt hier echter alles wat u wilt doen om trans acties te maken, uw deals te beheren en te handelen op deals die door micro soft-verkopers naar u worden verzonden in het partner centrum. Er zijn echter ook verschillen en de volgende richt lijnen helpen u bij het maken van de overgang naar het vloeiender en direct sturen van uw overstap naar partner Center.
 
 >[!Important]
 > Als u hier bent, omdat u een banner in PSC hebt gezien over de migratie, bent u op de juiste plaats. Deze hand leiding is niet van toepassing op de oplossings beoordeling (SA) en OEM IOT-partners die hun deals in PSC beheren.
@@ -47,7 +47,7 @@ Zoals u weet, verliest uw bedrijf geen toegang tot de PSC post van 31 december 2
 >[!Important]
 > Zorg ervoor dat de MPN-ID die wordt weer gegeven in de banner PSC beschikbaar is in de lijst met MPN-locaties in partner centrum. U kunt in het partner centrum controleren door naar ' account instellingen ' en '[locaties](manage-locations.md)' te gaan om de lijst te vinden van alle MPNs die zijn gekoppeld aan het partner centrum-account.
 
- :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden.":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Als u PSC voor deals of de verkoper bent
 
@@ -63,26 +63,55 @@ Als u het tabblad verwijzingen niet ziet:
 
 - De [globale beheerder](permissions-overview.md) van uw bedrijf kan u toegang verlenen tot het tabblad verwijzingen. Als u uw globale beheerder wilt vinden, gaat u naar partner instellingen van het tandwiel pictogram rechtsboven in het partner centrum. Selecteer de pagina gebruikers beheer in het tweede niveau van de linker navigatie balk. Klik op de vervolg keuzelijst met ' alle gebruikers ' in de rechter bovenhoek van de pagina en wijzig in ' globale beheerders '. Op de pagina worden vervolgens alle globale beheerders weer gegeven met hun respectievelijke e-mail-Id's. Neem contact op met de IT-afdeling om toegang te krijgen tot referentie beheerders voor uw werk account.
 
->[!Important]
-> Als uw rol alleen gebruikers beheert in PSC, kunt u de rol [account beheerder](permissions-overview.md#manage-mpn-membership-and-your-company) in het partner centrum krijgen. Als uw rol ook het beheren van mogelijkheden voor co-sell omvat, moet u de beheerdersrol van [referrals](permissions-overview.md#manage-referrals) ophalen. U kunt ook een wijzigings beheer kwalificeren tussen de PSC-Administrators om met de account beheerder van het partner centrum te werken in plaats van alle PSC-beheerders die afzonderlijk aan de account beheerders op de computer zijn gekoppeld.
+  >[!Important]
+  > Als uw rol alleen gebruikers beheert in PSC, kunt u de rol [account beheerder](permissions-overview.md#manage-mpn-membership-and-your-company) in het partner centrum krijgen. Als uw rol ook het beheren van mogelijkheden voor co-sell omvat, moet u de beheerdersrol van [referrals](permissions-overview.md#manage-referrals) ophalen. U kunt ook een wijzigings beheer kwalificeren tussen de PSC-Administrators om met de account beheerder van het partner centrum te werken in plaats van alle PSC-beheerders die afzonderlijk aan de account beheerders op de computer zijn gekoppeld.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden.":::
+  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Afbeelding van de account beheerder op de pagina partner instellingen gebruikers beheer.":::
 
 - Ga naar het tabblad Verwijzingen in het navigatie deel venster links en controleer of u toegang hebt tot de pagina's.
 
+  >[!Note]
+  > Mogelijk moet u zich afmelden bij Partner Center en u vervolgens weer aanmelden om uw referenties voor toegang tot de pagina's met verwijzingen te vernieuwen.
+
+## <a name="user-migration"></a>Gebruikers migratie
+
+Nadat u uw account hebt ingesteld in het partner centrum, gebruikt u de wizard Gebruikers migreren op de pagina verkoop kansen om het automatisch toe te wijzen van partner centrum rollen aan werk nemers van uw bedrijf.
+
 >[!Note]
-> Mogelijk moet u zich afmelden bij Partner Center en u vervolgens weer aanmelden om uw referenties voor toegang tot de pagina's met verwijzingen te vernieuwen.
+> Gebruikers migratie kan alleen worden uitgevoerd door [account beheerders](permissions-overview.md#manage-mpn-membership-and-your-company) van uw bedrijf. Als u de rol account beheerder niet hebt, kunt u een account beheerder vinden die u kan helpen bij het instellen van de gebruikers accounts met behulp van de wizard gebruikers migratie. De functionaliteit voor gebruikers migratie is vanaf 16 november 2020 beschikbaar.
 
-Nadat u uw account hebt ingesteld in Partner Center,
+:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Afbeelding van de wizard gebruikers migratie.":::
 
-- Nodig alle gebruikers die een rol ' deals Manager ' of ' verkoper ' hebben in de volgende stap in het partner centrum.
-- De [account beheerder](permissions-overview.md#manage-mpn-membership-and-your-company) die u heeft geholpen bij het openen van verwijzingen, kan alle gebruikers uitnodigen.
-- Vraag de account beheerder tijdens het uitnodigen van de gebruikers om de rol van [verwijzings beheerder](permissions-overview.md#manage-referrals) toe te wijzen.
-- Sommige PSC-gebruikers gebruiken mogelijk een niet-werk account of een account uit een ander domein dan dat u in het partner centrum gebruikt. Al deze gebruikers moeten zich aanmelden bij het partner centrum met hun werk account dat aan uw Azure AD-Tenant is gekoppeld. Uw [globale beheerder](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) kan u hierbij helpen. Als u uw globale beheerder wilt vinden, gaat u naar partner instellingen van het tandwiel pictogram rechtsboven in het partner centrum. Klik op de pagina gebruikers beheer in het tweede niveau van de linker navigatie balk. Klik op de vervolg keuzelijst met ' alle gebruikers ' in de rechter bovenhoek van de pagina en wijzig in ' globale beheerders '.
-- De globale beheerder kan een nieuw gebruikers account maken in uw Azure AD-Tenant of toegang tot de gast gebruiker toewijzen aan de andere gebruikers van het domein account.
-- Zodra de accounts zijn ingesteld voor alle PSC-beheer en-gebruikers, moet u zich aanmelden bij het partner centrum. Ga naar het tabblad Referral in het linkernavigatievenster en controleer of ze de pagina referrals kunnen zien.
+Account beheerders krijgen een koppeling van de wizard PSC-gebruikers migratie op de pagina mogelijkheden voor samen verkoop naast de hand leiding voor verwijzingen. Ze kunnen de gebruikers migratie initiëren door te klikken op de koppeling. Deze actie kan meerdere keren worden uitgevoerd totdat alle gebruikers die het bedrijf wil migreren, de juiste rollen hebben toegewezen in het partner centrum.
+
+De tabel gebruikers migratie bevat de volgende gegevens:
+
+- Gebruikers account: e-mail-ID van de werk nemer
+- PSC-partner account: het account waaraan de werk nemer is gekoppeld in PSC
+- PSC-gebruikersrol: een van de drie rollen die zijn toegewezen aan in PSC.
+- Locatie van de PC-MPN: de locatie waarvoor de gebruiker relevante PC-rollen krijgt. Het account van de PSC-partner MPN wordt gebruikt om de equivalente MPN locatie in het partner centrum te vinden om machtigingen toe te wijzen. De hele organisatie geeft de vOrg MPN-ID aan.
+- PC-gebruikersrol: werk nemers krijgen rollen toegewezen op basis van hun PSC-gebruikers rollen. Aan de beheerder in PSC worden de beheerders rollen voor verwijzingen toegewezen in de PC. Aan de verkoper wordt de gebruikersrol referrals toegewezen in PC. Meer informatie over de PC-rollen en wat gebruikers met deze rollen in [Partner Center kunnen](permissions-overview.md#manage-referrals) doen
+- PC AAD-Tenant-de Tenant waaraan de gebruikers zijn toegewezen in het partner centrum
+- Status: er zijn drie mogelijke statussen van de migratie
+    - Niet gemigreerd: er is geen PC-verwijzings functie toegewezen aan de gebruiker
+    - Gemigreerd: de gebruiker is gemigreerd met de relevante rol die is toegewezen, zoals weer gegeven in de tabel
+    - Fout-kan de migratie niet volt ooien omdat er een fout is opgetreden
+
+De migratie kan mislukken en resulteert in enkele omstandigheden waarvoor de oplossingen hieronder zijn opgegeven
+
+1. De PSC-gebruikers gebruiken mogelijk een niet-werk account.
+
+2. De PSC-gebruikers gebruiken mogelijk een account uit een ander domein dan dat u in het partner centrum gebruikt.
+
+   - Voor het oplossen van fouten met betrekking tot de scenario's 1 en 2, moeten alle gebruikers zich aanmelden bij het partner centrum met hun werk account dat aan uw Azure AD-Tenant is gekoppeld. Uw [globale beheerder](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) kan u hierbij helpen. Als u uw globale beheerder wilt vinden, gaat u naar partner instellingen van het tandwiel pictogram rechtsboven in het partner centrum. Klik op de pagina gebruikers beheer in het tweede niveau van de linker navigatie balk. Klik op de vervolg keuzelijst met ' alle gebruikers ' in de rechter bovenhoek van de pagina en wijzig in ' globale beheerders '. De globale beheerder kan een nieuw gebruikers account maken in uw Azure AD-Tenant of toegang tot de gast gebruiker toewijzen aan de andere gebruikers van het domein account. Zodra de accounts zijn ingesteld voor alle PSC-beheer en-gebruikers, moet u zich aanmelden bij het partner centrum. Ga naar het tabblad Referral in het linkernavigatievenster en controleer of ze de pagina referrals kunnen zien.
+
+3. De gebruiker heeft al een referral-rol toegewezen in het partner centrum.
+    - U kunt de bestaande rol van de gebruiker controleren op de pagina gebruikers beheer in de account instellingen en zo nodig wijzigen.
+
+Nadat u de gebruikers migratie hebt voltooid, gebruikt u de volgende richt lijnen om de migratie strategie te bepalen: 
 
 Als uw bedrijf een PDM heeft: wanneer uw partner centrum-account is ingesteld en uw gebruikers over rollen en machtigingen beschikken, kunt u uw activiteiten naar het partner centrum verplaatsen. Informeer de PDM om de switch te laten wachten tot de deadline voor de migratie is voltooid, waardoor al uw nieuwe deals in het partner centrum kunnen stromen.
+
 >[!Note]
 >Zodra u deze switch hebt gemaakt, kunt u alleen op de bestaande actieve deals in PSC reageren. U kunt geen nieuwe deals maken en geen deals ontvangen van micro soft-verkopers in PSC.
 
@@ -120,7 +149,7 @@ In deze sectie vindt u de exacte toewijzing van kenmerken tussen de PSC en het p
 
 **Start pagina van PSC en standaard weergave van de verkoop kansen in het partner centrum**
 
- :::image type="content" source="images/pscmigration/homepage.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden.":::
+ :::image type="content" source="images/pscmigration/homepage.png" alt-text="Afbeelding met de veld Toewijzingen tussen de start pagina van partner Sales Connect en de standaard weergave van verkoop kansen in het partner centrum.":::
 
 **Weer gave van een PSC-raster en de weer gave van het partner centrum**
 
@@ -128,7 +157,7 @@ In deze sectie vindt u de exacte toewijzing van kenmerken tussen de PSC en het p
 - De rol van deal is geen vereist veld in de PC. Deze wordt niet weer gegeven en niet vastgelegd in een van de werk stromen. Deze wordt automatisch afgeleid van de micro soft-verkoper, gebaseerd op de oplossingen die zijn toegevoegd aan de deal.
 - De datum van laatste wijziging wordt niet weer gegeven op de pagina met referentie Details van de PC. Partners kunnen de sorteer functionaliteit gebruiken om de deals te sorteren op basis van de datum waarop het laatst is bijgewerkt.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden.":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Afbeelding met de veld Toewijzingen tussen de weer gave van de partner Sales Connect (PSC) en de deal weergave van het partner centrum.":::
 
 **Weer gave Details van deal in PSC en partner Center**
 
@@ -141,26 +170,26 @@ In deze sectie vindt u de exacte toewijzing van kenmerken tussen de PSC en het p
 >[!Note]
 >Alle deals die zijn gemarkeerd als gewonnen of verloren kunnen niet worden bewerkt. Wees voorzichtig tijdens het verplaatsen van een deal naar een van deze Terminal statussen.
 
- :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden.":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Afbeelding met de veld Toewijzingen tussen de weer gave Details van de partner Sales Connect (PSC) en de weer gave Details van het partner centrum.":::
 
 **De weer gave voor het toevoegen van producten en het partner centrum ' oplossingen toevoegen '**
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden.":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Afbeelding van de veld Toewijzingen tussen de weer gave partner Sales Connect (PSC) voor het toevoegen van producten en de weer gave oplossingen toevoegen aan partner centrum.":::
 
 **Gebruikers beheer in PSC en partner Center**
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden.":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Afbeelding van de veld Toewijzingen tussen de partner Sales Connect (PSC) User Management Home en het partner centrum-gebruikers beheer in de weer gave account instellingen.":::
 
 **Gebruikersrol toewijzing in PSC en partner centrum**
 
 - De overeenkomstige rol voor de PSC-beheerder is de rol account beheerder in het partner centrum.
 - Er is slechts één rol in het partner centrum voor het delen van het beheer van de verkoop. Dit is de rol van verwijzings beheerder.
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden.":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Afbeelding van de veld Toewijzingen tussen de toewijzings weergave van de rol partner Sales Connect (PSC) en de weer gave van de roltoewijzing van de Partner Center.":::
 
 **Meldingen in PSC en partner centrum**
 
- :::image type="content" source="images/pscmigration/notifications.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden.":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="Afbeelding van de toewijzing tussen de PSC-meldingen (partner Sales Connect) en de weer gave meldingen in het partner centrum.":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>Overstappen van PSC naar partner Center: veelgestelde vragen
 
@@ -168,7 +197,39 @@ In deze sectie vindt u de exacte toewijzing van kenmerken tussen de PSC en het p
 
 U kunt contact opnemen met uw beheerders die worden vermeld op de pagina ' geen toegang ' om de toegewezen rollen te krijgen. U hebt de rol '[verwijzings beheerder](permissions-overview.md#manage-referrals)' nodig voor lees-en schrijf machtigingen onder het gedeelte referrals. Als u alleen zakelijke profielen beheert, hebt u de rol ' bedrijfs profiel beheerder ' nodig in het partner centrum.
 
-:::image type="content" source="images/pscmigration/noaccess.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-ID kunnen vinden." mag alleen worden gebruikt door de partners die zijn geregistreerd in het ISV Connect-programma voor het registreren van een deal zonder een bijbehorende verkoop kans in het partner centrum. Voor het registreren van deals met een verkoop kans wordt er een pop-upvenster weer gegeven wanneer de deal is gemarkeerd als gewonnen en als deze voldoet aan de criteria voor registratie van deals.
+:::image type="content" source="images/pscmigration/noaccess.png" alt-text="Afbeelding van de ervaring van geen toegang in het partner centrum.":::
+
+**Inclusief. Wie kan mij toegang verlenen tot de sectie referrals in Partner Center?**
+
+Uw [account beheerder](permissions-overview.md#manage-mpn-membership-and-your-company) kan u toegang verlenen tot het tabblad verwijzingen. Als u uw account beheerder wilt vinden, gaat u naar partner instellingen van het tandwiel pictogram rechtsboven in het partner centrum. Klik op de pagina gebruikers beheer in het tweede niveau van de linker navigatie balk. Klik op de vervolg keuzelijst met ' alle gebruikers ' in de rechter bovenhoek van de pagina en wijzig in account Administrators. Op de pagina worden vervolgens alle account beheerders weer gegeven met hun respectievelijke e-mail-Id's. Neem contact op met de IT-afdeling om toegang te krijgen tot referentie beheerders voor uw werk account.
+
+**K3. De knop + nieuwe deal wordt voor ons account grijs weer gegeven. Wat moet ik doen om te beginnen met het maken van deals?**
+
+Dit gebeurt alleen als er geen oplossingen voor samen verkoop zijn gekoppeld aan de MPN-organisatie die u in partner centrum gebruikt. Neem contact op met uw PDM om de MPN-ID van uw oplossingen te corrigeren of maak een ondersteunings ticket met de melding ' nieuwe deal knop is grijs weer gegeven na de migratie van de PSC '.
+
+**Taal. Kan ik deals toewijzen aan een specifieke persoon vanuit onze organisatie, zoals een PSC?**
+
+U kunt team leden toewijzen aan een specifieke deal. Het blokkeert niet dat andere referentie beheerders deze deals kunnen bekijken of ermee handelen. 
+
+**Q5. Is er een overzicht van alle aan mij toegewezen deals?**
+
+U kunt de functie Favorieten gebruiken. Dit is een tabblad gebruikers niveau. U kunt alle deals markeren die aan u zijn toegewezen als favorieten om snel toegang te krijgen tot de deals.
+
+**Q6. Is er een weer gave met het kenmerk alleen-lezen voor de deals?**
+
+Nee, er is geen weer gave met het kenmerk alleen-lezen van de deals in het gedeelte referrals. Alle referentie beheerders hebben volledige lees-en schrijf toegang tot alle deals.
+
+**Q7. Hoe kan ik een deal registreren nadat ik deze heb gewonnen?**
+
+Als de deal aan de onderstaande criteria voldoet, wordt er een pop-up weer gegeven om de [registratie van deals](./register-deals.md)te starten.
+
+- Er is een stimulans die in aanmerking komt voor een oplossing die aan de deal is gekoppeld.
+- De verkoper van micro soft wordt uitgenodigd om deel te nemen aan de deal of u hebt aan de deal uitgenodigd.
+- Micro soft Card heeft de status geaccepteerd of gewonnen in het partner centrum.
+
+**Q8. Er verschijnt een fout bericht wanneer ik op de knop + nieuwe deal registratie Klik in de sectie deals registratie. Hoe kan ik mijn deals registreren?**
+
+De "+ nieuwe registratie van deals" mag alleen worden gebruikt door de partners die zijn geregistreerd in het ISV Connect-programma voor het registreren van een deal zonder een bijbehorende verkoop kans in het partner centrum. Voor het registreren van deals met een verkoop kans wordt er een pop-upvenster weer gegeven wanneer de deal is gemarkeerd als gewonnen en als deze voldoet aan de criteria voor registratie van deals.
 
 **Q9. Is het toevoegen van een klant organisatie verplicht?**
 
@@ -214,7 +275,9 @@ Als u de Help-onderwerpen voor co-verkopen nog niet hebt gelezen, kunt u met de 
 |Een bedrijfs profiel maken en beheren|[Bedrijfsprofielen beheren](./create-a-marketing-profile.md)
 |Leads voor uw bedrijfs profiel beheren |[Leads beheren](./manage-leads.md)|
 
-## <a name="additional-resources"></a>Aanvullende bronnen
+## <a name="next-steps"></a>Volgende stappen
+
+Volg deze aanvullende bronnen:
 
 - [Partner Sales Connect to Partner Center](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -werkmap: werk boek om verkoop processen en-rollen van partners uit te lijnen met nieuwe verkoop processen via partner Center versus verkoop verbinding met partner.
 - [Gebruiks richtlijnen](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) voor de IT-afdeling van partners: richt lijnen voor het identificeren van een besturings model via partner centrum voor het beheren van leads of het verkopen van verkoop kansen en het registreren van deals.
