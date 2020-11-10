@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92528659"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433343"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>De Azure-plan abonnementen van een klant overdragen naar een andere partner
 
-## <a name="applies-to"></a>Van toepassing op
+**Juiste rollen**
 
 - Partners in het Cloud Solution Provider-programma (CSP)
 
@@ -67,21 +67,21 @@ De klant moet ook de abonnementen identificeren die ze willen overdragen vanaf h
 De volgende partner van het abonnement moet een aanvraag formulier voor de overdracht van het partner centrum volt ooien om een abonnements overdracht aan te vragen:
 
 1.  Selecteer **klanten** in het menu van het partner centrum en selecteer de klant waarvoor u een aanvraag formulier voor de overdracht wilt uitvoeren namens.
-2.  Selecteer in het menu klant **abonnementen** .
+2.  Selecteer in het menu klant **abonnementen**.
 3.  Selecteer de sectie **overdrachts aanvraag** .
-4.  Selecteer in de **sectie overdrachts aanvraag** de optie **nieuwe aanvraag toevoegen** .
+4.  Selecteer in de **sectie overdrachts aanvraag** de optie **nieuwe aanvraag toevoegen**.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Sectie overdrachten":::
 
 5.  Vul het formulier voor de **nieuwe overdrachts aanvraag** in.
 
-6.  Selecteer verzenden **overdracht aanvraag**  >  **verzenden** .
+6.  Selecteer verzenden **overdracht aanvraag**  >  **verzenden**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Sectie overdrachten":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formulier voor aanvraag voor overdracht volt ooien":::
 
 7.  Bevestiging van overdrachts aanvraag controleren
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Sectie overdrachten":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="In behandeling zijnde overdracht bekijken":::
 
     >[!Note]
     >De volgende partner kan de overdrachts aanvraag annuleren door **Aanvraag annuleren** te selecteren in de rechter bovenhoek alleen wanneer de status van de overdrachts aanvraag ' in behandeling ' is. Wanneer de status van de overdrachts aanvraag ' wordt uitgevoerd ' of ' voltooid ' is, kunnen annuleringen niet worden geannuleerd.
@@ -90,7 +90,7 @@ De volgende partner van het abonnement moet een aanvraag formulier voor de overd
 
 De beheerder agent van de huidige partner van de klant ontvangt een e-mail dat de klant een overdracht van hun abonnementen heeft aangevraagd:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Sectie overdrachten":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Beoordelen":::
 
 Bekijk en accepteer het aanvraag formulier voor de overdracht van het partner centrum om de overdracht van het abonnement te volt ooien.
 
@@ -99,11 +99,11 @@ Bekijk en accepteer het aanvraag formulier voor de overdracht van het partner ce
 
 1.  Selecteer **aanvraag voor overdracht controleren** van de e-mail of
 1.  Selecteer **klanten** in het menu van het partner centrum en selecteer de klant voor wie een aanvraag voor de overdracht is ingediend namens.
-2.  Selecteer in het menu klant **abonnementen** .
+2.  Selecteer in het menu klant **abonnementen**.
 3.  Selecteer de sectie **overdrachts aanvraag** .
 4.  Uitbrei ding van overdrachts gegevens door de gekozen **aanvraag-id** voor de overdracht te selecteren onder **ontvangen aanvragen**
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Sectie overdrachten":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Overdrachts aanvraag bron controles":::
 
 5.  Overdrachts aanvraag controleren. Selecteer de aangevraagde Azure-abonnementen om over te dragen.
 
@@ -114,7 +114,7 @@ Bekijk en accepteer het aanvraag formulier voor de overdracht van het partner ce
 
 6.  Selecteer vervolgens **accepteren en overdragen** om het overdrachts proces te volt ooien.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Sectie overdrachten":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Abonnementen selecteren die moeten worden overgedragen onder uw Azure-abonnementen":::
 
 7.  Bevestiging van acceptatie van overdracht weer geven.
 

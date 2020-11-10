@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132824"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433305"
 ---
 # <a name="october-2020-announcements"></a>Aankondigingen van oktober 2020
 
@@ -23,6 +23,27 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 2020 mede delingen: [maart](2020-march.md)  |  [april](2020-april.md)  |  [mei](2020-may.md)juni tot en met  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [september](2020-september.md) | Oktober
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Correctie voor het aanroepen van plan uitbreidingen 
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-10-29
+- Aanbiedingen/markten
+
+### <a name="impacted-audience"></a>Doel groep
+
+Directe providers, indirecte providers en indirecte wederverkopers
+
+### <a name="details"></a>Details
+
+Op 1 oktober 2020 hebben we [de beschik baarheid van het aanroepen van Office 365 op nieuwe markten](2020-september.md#2)aangekondigd. Deze aankondiging is niet juist en 240 minuten per gebruiker per maand voor binnenlandse abonnementen is niet beschikbaar zoals eerder vermeld. 
+
+
+Raadpleeg de [product documentatie](/microsoftteams/calling-plan-landing-page)van micro soft teams voor meer informatie over het aanroepen van plannen.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Updates van onderdelen van Windows Server-software
 
@@ -174,7 +195,7 @@ Vandaag delen we een paar aanstaande wijzigingen in de vereisten voor directe fa
 
 Eerst **wordt een prestatie norm geïntroduceerd als onderdeel van de vereisten voor de directe factuur partner**. Partners die zich willen inschrijven als directe factuur partners in het Cloud Solution Provider-programma, moeten voldoen aan ten minste USD300K in de omzet van het Cloud Solution Provider-programma gedurende de 12 maanden vóór de vereiste datum voor de verlenging van de [ondersteunings contract](https://partner.microsoft.com/support/partnersupport) .
 
-Deze prestatie norm wordt in januari 2021 van kracht voor actuele directe factuur partners, en u moet voldoen aan de vereisten voor de vernieuwings datum van uw partner ondersteunings abonnement.
+Deze prestatienorm wordt in januari 2021 van kracht voor actuele directe facturering-partners, en u moet aan de vereisten voldoen op het moment van de vernieuwingsdatum van uw partnerondersteuningsabonnement.
 
 Als u niet in staat bent om te voldoen aan de bijgewerkte vereisten voor de directe factuur partner, moet u zich opnieuw inschrijven als een indirecte wederverkoper in het Cloud Solution Provider-programma. 
 
