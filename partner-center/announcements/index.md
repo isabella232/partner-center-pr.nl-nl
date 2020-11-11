@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/02/2020
-ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.date: 11/10/2020
+ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333909"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488122"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **November 2020-aankondigingen** | **Aangekondigd** |
 |---------|:---------|:---------|
+|Functionaliteit|[Testen beschikbaar: API-updates en verbeteringen van de gebruikersinterface (UI) in Partnercentrum, voor het validatieproces voor Education-klanten](2020-november.md#7)|10 november|
 |Functionaliteit|[Inhoud van commerciële licentiepartners uitbreiden in de galerie voor operationele gereedheid](2020-november.md#6)|2 november|
 |Aanbiedingen/markten|[Lancering van de Premium-SKU voor Microsoft Teams-ruimten](2020-november.md#5)|2 november|
 |Aanbiedingen/markten|[Nieuwe SKU's voor geavanceerde communicatie via Microsoft Teams voor Government Community Cloud (GCC) komen binnenkort](2020-november.md#4)|2 november|
@@ -29,7 +30,8 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Aanbiedingen/markten|[Inleiding tot Microsoft 365 Business Voice voor non-profitorganisaties](2020-november.md#2)|2 november|
 |Aanbiedingen/markten|[Promotie voor Cloud Solution Provider voor Microsoft 365 Business Voice is nu beschikbaar](2020-november.md#1)|2 november|
 | **Categorie** | **Aankondigingen van oktober 2020** | **Datum** |
-|Functionaliteit|[Abonnementen op updates voor Windows Server-software ](2020-october.md#17)|29 oktober|
+|Aanbiedingen/markten|[Correctie voor Calling Plan-uitbreiding](2020-october.md#18)|29 oktober|
+|Functies|[Abonnementen op updates voor Windows Server-software ](2020-october.md#17)|29 oktober|
 |Functies|[Windows 10 Educatief-upgrade is nu beschikbaar voor gekwalificeerde Cloud Solution Provider Education-klanten](2020-october.md#16)|28 oktober|
 |Functies|[Vernieuwde digitale ervaring in Cloud Solution Provider nu beschikbaar](2020-october.md#15)|28 oktober|
 |Functionaliteit|[Inleiding tot prestatiestandaarden voor vereisten voor factuurpartners in het CSP-programma (Cloud Solution Provider)](2020-october.md#13)|27 oktober|
