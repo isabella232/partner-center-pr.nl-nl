@@ -6,14 +6,14 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 89b014b87dd37cc2d38a5931b2f5433394f369c9
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528743"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488194"
 ---
-# <a name="tax-details-for-commercial-marketplace-publishers"></a>Belasting gegevens voor uitgevers van commerciële markt plaatsen
+# <a name="tax-details-for-commercial-marketplace-publishers"></a>Belastinggegevens voor uitgevers van commerciële marketplace
 
 Zie uw land/regio's van distributie in de onderstaande tabellen voor meer informatie over uw belasting overwegingen voor prijs selectie en de BTW-verantwoordelijkheid onder de [Microsoft Azure Marketplace Publisher-overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560) of de overeenkomst met de moderne Uitgever.
 
@@ -269,7 +269,7 @@ Het volgende geldt alleen voor uitgevers van Azure Marketplace, ongeacht wat het
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>Gemengde remise landen/regio's voor uitgevers
 
-Bepaalde micro soft-facturerings partners kunnen verkoop, gebruik, goederen en diensten, toegevoegde waarde of soort gelijke belastingen, indien van toepassing, voor de aanschaf van uw app (s) of In-App product (en) in de onderstaande landen/regio's verzamelen en verkopen. De [rapporten](/azure/marketplace/payout-summary-overview) die micro soft voor u beschikbaar maakt, identificeren de trans acties waarvoor een facturerings partner de verkoop, het gebruik, de goederen en diensten, toegevoegde waarde of vergelijk bare belastingen die van toepassing zijn op de aanschaf van uw app (s) of het In-App product (en) via de Store. Met uitzonde ring van de trans acties die in deze rapportage worden beschreven, zullen zowel micro soft noch haar aanbieders van facturerings Services alle omzet, gebruik, goederen en diensten, toegevoegde waarde of andere vergelijk bare BTW in verband met de aanschaf van uw app (s) of In-App product (en) in deze land/regio (s) remitteren. U bent verantwoordelijk voor het beoordelen van de rapportage die aan u is gegeven en het bepalen en naleven van uw verplichtingen, indien van toepassing, om belastingen te registreren, te innen en te betalen in verband met trans acties met betrekking tot uw app (s) of In-App product (en).
+Bepaalde micro soft-facturerings partners kunnen verkoop, gebruik, goederen en diensten, toegevoegde waarde of soort gelijke belastingen, indien van toepassing, voor de aanschaf van uw app (s) of In-App product (en) in de onderstaande landen/regio's verzamelen en verkopen. De rapporten in uw [uitbetalings verklaring](payout-statement.md) die micro soft beschikbaar maakt, identificeren de trans acties waarvoor een facturerings partner de verkoop, het gebruik, de goederen en diensten, toegevoegde waarde of vergelijk bare belastingen die van toepassing zijn op de aanschaf van uw app (s) of het In-App product (en) via de Store. Met uitzonde ring van de trans acties die in deze rapportage worden beschreven, zullen zowel micro soft noch haar aanbieders van facturerings Services alle omzet, gebruik, goederen en diensten, toegevoegde waarde of andere vergelijk bare BTW in verband met de aanschaf van uw app (s) of In-App product (en) in deze land/regio (s) remitteren. U bent verantwoordelijk voor het beoordelen van de rapportage die aan u is gegeven en het bepalen en naleven van uw verplichtingen, indien van toepassing, om belastingen te registreren, te innen en te betalen in verband met trans acties met betrekking tot uw app (s) of In-App product (en).
 
 | Gemengde remise landen/regio's |
 |------------------------------------|
@@ -289,4 +289,4 @@ Het volgende geldt alleen voor Azure Marketplace-uitgevers:
 
 ## <a name="next-steps"></a>Volgende stappen
 
-[Stel uw betalingsaccount en belastingformulieren](/azure/marketplace/marketplace-payout-account-setup)
+[Stel uw betalingsaccount en belastingformulieren](set-up-your-payout-account.md)

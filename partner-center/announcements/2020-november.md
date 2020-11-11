@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333892"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488103"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
@@ -23,6 +23,56 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft par
 2020 aankondigingen: [april](2020-april.md)juni tot en met september tot en met  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md) | Maand
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testen beschikbaar: verbeteringen in het partner centrum-API en de gebruikers interface (UI) voor het onderwijs klant validatie proces
+
+### <a name="categories"></a>Categorieën
+
+- Datum 2020-11-10
+- Mogelijkheden | Efficiëntie van schijf & schalen
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners die academische aanbiedingen verkopen via het programma Cloud Solution Provider (CSP).
+
+### <a name="summary"></a>Samenvatting
+
+Testen is nu beschikbaar voor partner centrum API-updates en UI-uitbrei dingen voor het trainings proces van het onderwijs klant.
+
+### <a name="details"></a>Details
+
+Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode voor klant validatie te bieden voor het handelen van studie aanbiedingen in het CSP-programma. Als onderdeel hiervan introduceren we de API van partner Center en de verbeteringen van de gebruikers interface in het tweede kwar taal van dit boek jaar (FY21 Q2). Deze uitbrei dingen zullen duidelijkheid en zicht baarheid toevoegen aan het validatie proces van de klant, evenals de mogelijkheid om nauw keurige gegevens in te voeren, waardoor de klant validatie is voltooid.
+
+**Verbeteringen in het partner centrum**
+
+- Nieuwe Api's voor het ophalen en plaatsen van kwalificaties om nauw keurige gegevens invoer te ondersteunen en het validatie proces van het onderwijs klant door micro soft te verbeteren.
+
+- UI-verbeteringen ter ondersteuning van nauw keurige gegevens invoer en verbeteren het validatie proces van het onderwijs klant door micro soft.
+
+Testen.
+
+Om een beter inzicht te krijgen in de Api's en gegevens invoer die vereist zijn voor een succes volle klant validatie, kunnen partners deze verbeteringen vanaf oktober 2020 testen. We geven binnenkort meer informatie over de exacte timing en hoe ze kunnen deel nemen. De bestaande partner Center-Api's worden vóór het einde van FY21 Q2 afgetrokken. Op dat moment moet u overstappen op de nieuwe partner centrum-Api's.
+
+   - Testen van de beschik bare partner test datums van 1 oktober tot 2 december 2020. Partners die willen deel nemen, moeten de test handleiding voor het onderwijs van de klanten van het partner centrum downloaden voor het voorbereiden, registreren en wat ze kunnen verwachten tijdens de test fase.
+
+**Library-en Museum-klanten**
+
+Naast deze verbeteringen, zijn we enthousiast om dat in FY21 Q2 aan te kondigen, kunnen we prijzen voor het onderwijs van bibliotheken en Museum inschakelen, waardoor de Education-klanten met wie u de CSP-aanbiedingen kunt maken, worden uitgebreid.
+
+Micro soft behoudt zich het recht voor om de status van een klant of voorgestelde klant als een bevoegd onderwijs gebruiker te controleren. Raadpleeg de [gebruikers vereisten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) voor het onderwijs recht op het onderwijs voor volledige informatie.
+
+## <a name="next-steps"></a>Volgende stappen
+
+Bekijk de nieuwe gebruikers interface-en API-wijzigingen van het partner centrum en de test handleiding in het trainings proces voor de verbetering van de inhouds validatie van het IT- [partner centrum](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+
+• Meld u aan om te kunnen deel nemen aan testen. (Zie de [test handleiding](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) voor meer informatie.) 
+
+• Zorg ervoor dat uw organisatie vertrouwd is met de [gebruikers vereisten voor het onderwijs](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)recht op het onderwijs. 
+
+• Deel deze informatie met de juiste teams binnen uw organisatie, samen met uw wederverkopers om hen te helpen deze wijzigingen voor te bereiden.
+
+
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Inhoud van commerciële licentie partners uitbreiden in de galerie met Operations Readiness
 
@@ -282,7 +332,7 @@ Deze aanbiedingen zijn van invloed op de volgende klanten:
 - Net nieuwe klant tenants
 - Bestaande tenants van klanten die geen actieve of recent geannuleerde abonnement hebben (binnen de laatste 30 dagen) bij een zakelijke Voice-of audio conferencing-licentie op CSP, Web direct of een ander micro soft-commercieel kanaal
 
-#### <a name="additional-resources"></a>Aanvullende resources
+#### <a name="additional-resources"></a>Aanvullende bronnen
 
 - Ga naar de [pagina Microsoft 365 Business Voice-partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) voor meer informatie over zakelijke Voice. 
 - Meer informatie over deze promotie vindt u in de [Veelgestelde vragen](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)over gerelateerde partners.

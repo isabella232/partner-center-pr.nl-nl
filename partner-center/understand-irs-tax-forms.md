@@ -1,19 +1,19 @@
 ---
-title: Informatie over IRS-belasting formulieren die door micro soft zijn uitgegeven
+title: IRS-belastingformulieren begrijpen die zijn uitgegeven door Microsoft
 description: Meer informatie over de BTW-formulieren die door micro soft worden uitgegeven, inclusief wie ze ontvangt en wanneer ze beschikbaar worden gesteld.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92528714"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487870"
 ---
-# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Informatie over IRS-belasting formulieren die door micro soft zijn uitgegeven
+# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>IRS-belastingformulieren begrijpen die zijn uitgegeven door Microsoft
 
 U kunt elk jaar een of meer BTW-formulieren van micro soft ontvangen. Dit is afhankelijk van uw locatie en het aantal verkopen of betalingen dat u ontvangt. Micro soft is verplicht deze formulieren uit te geven en deze op te lossen met de service interne omzet belasting.
 
@@ -27,7 +27,7 @@ In dit artikel vindt u meer informatie over deze formulieren, met inbegrip van w
 |1042-S | Gerelateerd aan betalingen aan u die zijn onderworpen aan Verenigde Staten bron belasting | Gedrukte formulieren worden weer gegeven op of vóór **15 maart** , en. PDF-kopieën worden op hetzelfde moment beschikbaar gesteld in partner centrum (in **partner centrum-ontwikkelaars instellingen** onder **toekenning en belasting > uitbetalingen en BTW-profielen** )  |
 
 > [!NOTE]
-> Het adres dat we gebruiken op IRS-belasting formulieren zijn afkomstig van het adres in uw [BTW-profiel](/azure/marketplace/marketplace-payout-account-setup). Als uw adres is gewijzigd, moet u ervoor zorgen dat u het adres in uw **BTW-profiel** bijwerkt.
+> Het adres dat we gebruiken op IRS-belasting formulieren zijn afkomstig van het adres in uw BTW-profiel wanneer u [uw uitbetalings account en BTW-formulieren instelt](set-up-your-payout-account.md). Als uw adres is gewijzigd, moet u ervoor zorgen dat u het adres in uw **BTW-profiel** bijwerkt.
 
 De BTW-formulieren worden naar u verzonden via de volgende adressen:
 

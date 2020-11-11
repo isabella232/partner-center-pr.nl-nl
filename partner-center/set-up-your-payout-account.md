@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528613"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488127"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Stel uw betalingsaccount en belastingformulieren
 
@@ -28,7 +28,7 @@ Nadat u uw account hebt ingesteld, zijn er twee dingen die u moet doen voordat u
 - [Uw account voor betaling instellen](#payout-account)
 
 > [!NOTE]
-> Zie voor meer informatie over hoe en wanneer u betaalt voor de Money die uw aanbieding maakt, [aan de slag](/azure/marketplace/marketplace-payout-account-setup).
+> Zie voor meer informatie over hoe en wanneer u betaalt voor de Money die uw aanbieding maakt, [aan de slag in de commerciële Marketplace](marketplace-get-paid.md).
 
 ## <a name="tax-forms"></a>BTW-formulieren
 
@@ -44,13 +44,13 @@ U kunt uw belasting formulieren elektronisch volt ooien en verzenden in het part
 > [!IMPORTANT]
 > Verschillende landen en regio's hebben verschillende belasting vereisten. De exacte hoeveelheid die u in BTW moet betalen, is afhankelijk van de landen en regio's waar u uw aanbieding verkoopt. Raadpleeg de [Microsoft Azure Marketplace Publisher-overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560) voor meer informatie over welke landen/regio's micro soft verkoop en het gebruik van belasting namens u verkrijgt. In andere landen/regio's, afhankelijk van waar u bent Inge schreven, moet u mogelijk verkoop-en gebruiks belasting voor uw aanbiedings verkoop rechtstreeks naar de lokale belasting dienst remitteren. Daarnaast kan de omzet van de app die u ontvangt, als bate worden belast. We raden u aan om contact op te nemen met de relevante instantie voor uw land of regio, die u het beste kan helpen bij het bepalen van de juiste belasting gegevens voor uw commerciële Marketplace-activiteiten.
 
-1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het pictogram **account instellingen** in de rechter bovenhoek en selecteer vervolgens **instellingen voor ontwikkel aars** .
+1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het pictogram **account instellingen** in de rechter bovenhoek en selecteer vervolgens **instellingen voor ontwikkel aars**.
 
-2. Selecteer in het navigatie menu aan de linkerkant de optie **uitbetaling en belasting** en selecteer vervolgens **betaling en BTW-toewijzingen** .
+2. Selecteer in het navigatie menu aan de linkerkant de optie **uitbetaling en belasting** en selecteer vervolgens **betaling en BTW-toewijzingen**.
 
 3. Selecteer de combi natie van het programma en de verkoper waarvoor u BTW-gegevens wilt configureren.
 
-4. Als u een bestaand BTW-profiel wilt gebruiken, selecteert u dit in de vervolg keuzelijst. Anders selecteert u **Nieuw profiel maken** en drukt u op **verzenden** . U gaat naar de pagina BTW-profielen.
+4. Als u een bestaand BTW-profiel wilt gebruiken, selecteert u dit in de vervolg keuzelijst. Anders selecteert u **Nieuw profiel maken** en drukt u op **verzenden**. U gaat naar de pagina BTW-profielen.
 
 5. Klik op de knop **bewerken** om uw belasting gegevens te bewerken.
 
@@ -77,12 +77,12 @@ Als u zich buiten het Verenigde Staten bevindt, kunt u profiteren van de voor de
 Een uitbetalings account is de Bank rekening waarnaar we de opbrengst van uw verkoop verstuurt. U kunt alle betaal accounts weer geven die u hebt ingevoerd op de profiel pagina.
 
 > [!NOTE]
-> Op sommige markten kan PayPal worden gebruikt voor uw uitbetalings account. Als u wilt weten of PayPal wordt ondersteund voor een specifieke markt, raadpleegt u [betalings drempels, methoden en tijds perioden](/azure/marketplace/payment-thresholds-methods-timeframes) en de onderstaande [PayPal-informatie](#paypal-info) voor meer informatie.
+> Op sommige markten kan PayPal worden gebruikt voor uw uitbetalings account. Als u wilt weten of PayPal wordt ondersteund voor een specifieke markt, raadpleegt u [betalings drempels, methoden en tijds perioden](payment-thresholds-methods-timeframes.md) en de onderstaande [PayPal-informatie](#paypal-info) voor meer informatie.
 
 ### <a name="create-a-payment-profile"></a>Een betalings profiel maken
 
-1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en selecteer vervolgens **account instellingen** .
-2. Onder de kop *uitbetaling en belasting* selecteert u **toekennings-en BTW-profiel toewijzing** .
+1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en selecteer vervolgens **account instellingen**.
+2. Onder de kop *uitbetaling en belasting* selecteert u **toekennings-en BTW-profiel toewijzing**.
 
     > [!NOTE]
     > Omdat dit gevoelige informatie is, wordt u mogelijk gevraagd om u opnieuw aan te melden.
@@ -116,7 +116,7 @@ Als u ervoor hebt gekozen om een bank account te gebruiken om uitbetalingen te o
 
 Controleer het volgende om ervoor te zorgen dat uw uitbetaling slaagt:
 
-- De **naam van de account houder** die u hebt ingevoerd voor uw account voor betaling in het partner centrum, moet exact dezelfde naam hebben als de Bank rekening. Als uw bank rekening naam bijvoorbeeld een tweede naam bevat, voegt u een tweede naam toe aan de **naam van uw account houder** .
+- De **naam van de account houder** die u hebt ingevoerd voor uw account voor betaling in het partner centrum, moet exact dezelfde naam hebben als de Bank rekening. Als uw bank rekening naam bijvoorbeeld een tweede naam bevat, voegt u een tweede naam toe aan de **naam van uw account houder**.
 - Uitbetalingen worden rechtstreeks van micro soft naar uw bank rekening overgebracht in de valuta USD.
 - Bank gegevens die zijn ingevoerd in het partner centrum in Latijns, worden omgezet in Cyrillische tekens.
 
@@ -124,27 +124,27 @@ Controleer het volgende om ervoor te zorgen dat uw uitbetaling slaagt:
 
 U kunt bestaande betalings profielen bewerken als u wijzigingen wilt aanbrengen of onjuiste gegevens wilt corrigeren.
 
-1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en selecteer vervolgens **instellingen voor ontwikkel aars** .
+1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en selecteer vervolgens **instellingen voor ontwikkel aars**.
 
-2. Selecteer onder de kop *uitbetaling en belasting* de optie **uitbetalings-en BTW-profielen** .
+2. Selecteer onder de kop *uitbetaling en belasting* de optie **uitbetalings-en BTW-profielen**.
 
 3. Uw betalings profielen worden samen met hun status weer gegeven. Zoek het profiel dat u wilt bewerken en klik helemaal rechts op **bewerken**
 
 > [!IMPORTANT]
-> Het wijzigen van uw uitbetalings account kan uw betalingen vertragen met Maxi maal één betalings cyclus. Deze vertraging treedt op omdat we de account wijziging moeten verifiëren, net zoals we hebben gedaan toen u het account voor betaling voor het eerst instelde. U ontvangt nog steeds voor het volledige bedrag nadat uw account is geverifieerd. alle betalingen die moeten worden uitgevoerd voor de huidige betalings cyclus, worden toegevoegd aan de volgende betaling. Zie [aan de slag](/azure/marketplace/marketplace-payout-account-setup) voor meer informatie.
+> Het wijzigen van uw uitbetalings account kan uw betalingen vertragen met Maxi maal één betalings cyclus. Deze vertraging treedt op omdat we de account wijziging moeten verifiëren, net zoals we hebben gedaan toen u het account voor betaling voor het eerst instelde. U ontvangt nog steeds voor het volledige bedrag nadat uw account is geverifieerd. alle betalingen die moeten worden uitgevoerd voor de huidige betalings cyclus, worden toegevoegd aan de volgende betaling. Zie [aan de slag met de commerciële Marketplace](marketplace-get-paid.md)voor meer informatie.
 
 ### <a name="paypal-info"></a>PayPal-informatie
 
 In landen en regio's selecteren kunt u een betalings account maken door uw PayPal-gegevens in te voeren. U kunt PayPal echter kiezen als betalings account:
 
-- Controleer de [betalings drempels, methoden en tijds perioden](/azure/marketplace/payment-thresholds-methods-timeframes) om te bevestigen of PayPal een ondersteunde betalings methode is in uw land of regio.
+- Controleer de [betalings drempels, methoden en tijds perioden](payment-thresholds-methods-timeframes.md) om te bevestigen of PayPal een ondersteunde betalings methode is in uw land of regio.
 - Bekijk de volgende veelgestelde vragen. Afhankelijk van uw situatie is PayPal mogelijk niet de optie voor het beste betaal account, en kan een bank rekening worden aangeraden.
 
 Veelgestelde vragen over het gebruik van PayPal als betalings methode:
 
 - **Welke PayPal-instellingen heb ik nodig om betalingen te kunnen ontvangen?** Zorg ervoor dat uw PayPal-account geen eCheck-betalingen blokkeert. Deze instelling wordt beheerd op de pagina voor keuren voor betalings ontvangsten van PayPal. Zie [de pagina voor het instellen van PayPal-accounts](https://go.microsoft.com/fwlink/p/?linkid=513139) voor meer informatie.
 
-- **Wordt mijn land/regio ondersteund?** Bekijk de [betalings drempels, methoden en tijds perioden](/azure/marketplace/payment-thresholds-methods-timeframes) om erachter te komen waar PayPal een ondersteunde betalings methode is.
+- **Wordt mijn land/regio ondersteund?** Bekijk de [betalings drempels, methoden en tijds perioden](payment-thresholds-methods-timeframes.md) om erachter te komen waar PayPal een ondersteunde betalings methode is.
 
 - **Moeten mijn PayPal-account worden geregistreerd in hetzelfde land/dezelfde regio als mijn partner centrum-account?** Nee. Wanneer u een PayPal-account instelt, kunt u de standaard configuratie accepteren. U hebt geen problemen met andere landen/regio's en valuta's, tenzij u de betaling in sommige valuta's hebt geblokkeerd. Deze instelling wordt beheerd op de pagina voor keuren voor betalings ontvangsten van PayPal.
 
@@ -173,7 +173,7 @@ Als u een uitgever bent die zich in Rusland bevindt, moet u mogelijk documentati
 
 Controleer het volgende om ervoor te zorgen dat uw uitbetaling slaagt:
 
-- De **naam van de account houder** die u hebt ingevoerd voor uw account voor betaling in het partner centrum, moet exact dezelfde naam hebben als de Bank rekening. Als uw bank rekening naam bijvoorbeeld een tweede naam bevat, voegt u een tweede naam toe aan de **naam van uw account houder** .
+- De **naam van de account houder** die u hebt ingevoerd voor uw account voor betaling in het partner centrum, moet exact dezelfde naam hebben als de Bank rekening. Als uw bank rekening naam bijvoorbeeld een tweede naam bevat, voegt u een tweede naam toe aan de **naam van uw account houder**.
 - Uitbetalingen worden rechtstreeks van micro soft overgedragen naar uw bank rekening in roebel (RUB).
 - Bank gegevens die zijn ingevoerd in het partner centrum in Latijns, worden omgezet in Cyrillische tekens.
 - Uitbetalingen moeten worden gedaan aan een bank rekening en niet aan een bank kaart.
@@ -205,4 +205,4 @@ Als u ervoor hebt gekozen om een bank account te gebruiken om uitbetalingen te o
 
 ## <a name="next-steps"></a>Volgende stappen
 
-[Facturering in de commerciële marketplace](/azure/marketplace/billing-details)
+[Betaald krijgen in de commerciële marketplace](marketplace-get-paid.md)

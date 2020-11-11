@@ -9,19 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528517"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488076"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Meer informatie over het lezen van regel items in uw partner centrum-afstemmings bestanden
 
 Van toepassing op:
 
 - Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 
 U kunt uw afstemmings bestanden downloaden van het partner centrum voor een gedetailleerde weer gave van regel items van elke kosten in een facturerings cyclus. Details van regel items zijn kosten voor abonnementen van elke klant en gedetailleerde gebeurtenissen (zoals een middel grote aanvulling van licenties voor een abonnement).
 
@@ -30,13 +30,14 @@ Juiste rollen:
 - Factureringsbeheerder
 - Globale beheerder
 
-Zie [uw factuur lezen](read-your-bill.md)voor meer informatie over het lezen van uw **facturen** .
+Zie [uw factuur lezen](read-your-bill.md)voor meer informatie over het lezen van uw **facturen**.
 
 ## <a name="understand-reconciliation-file-fields"></a>Informatie over afstemmings bestand velden
 
 - [Velden voor afstemmings bestanden op basis van licentie](license-based-recon-files.md)
 - [Velden voor afstemmings bestand op basis van gebruik](usage-based-recon-files.md)
 - [Velden voor het afstemmen van dagelijks geclassificeerd gebruik](daily-rated-usage-recon-files.md)
+- [Eenmalige inkopen CSP-afstemmings bestand velden](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Meer informatie over kosten typen in afstemmings bestanden
 
@@ -50,11 +51,11 @@ Volg deze stappen voor het oplossen van problemen met de opmaak in uw afstemming
 
 1. Open het afstemmings bestand (in CSV-indeling) in micro soft Excel.
 2. Selecteer de eerste kolom in het bestand.
-3. Open de **wizard tekst naar kolommen converteren** . Selecteer op het lint de optie **gegevens** en selecteer vervolgens **tekst naar kolommen** .
-4. Selecteer in de wizard **gescheiden bestands type** . Selecteer vervolgens **Volgende** .
-5. Selecteer **komma** in het veld scheidings **tekens** . (Als **tabblad** al is geselecteerd, kunt u deze optie ingeschakeld laten.) Selecteer vervolgens **volgende** .
-6. Selecteer in het veld **kolom gegevens indeling** de optie **datum: MDJ** . Selecteer vervolgens **Volgende** .
-7. Selecteer in het veld **kolom gegevens indeling** de **tekst** voor alle bedragkolommen. Selecteer vervolgens **Voltooien** .
+3. Open de **wizard tekst naar kolommen converteren**. Selecteer op het lint de optie **gegevens** en selecteer vervolgens **tekst naar kolommen**.
+4. Selecteer in de wizard **gescheiden bestands type**. Selecteer vervolgens **Volgende**.
+5. Selecteer **komma** in het veld scheidings **tekens** . (Als **tabblad** al is geselecteerd, kunt u deze optie ingeschakeld laten.) Selecteer vervolgens **volgende**.
+6. Selecteer in het veld **kolom gegevens indeling** de optie **datum: MDJ**. Selecteer vervolgens **Volgende**.
+7. Selecteer in het veld **kolom gegevens indeling** de **tekst** voor alle bedragkolommen. Selecteer vervolgens **Voltooien**.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Afstemmings bestanden programmatisch downloaden
 
@@ -71,24 +72,24 @@ BTW of belasting toegevoegde waarde (BTW) toewijzen aan uw factuur:
 
 Partners in het **indirecte model** kunnen deze extra velden gebruiken in zowel op licenties gebaseerde afstemmings bestanden als voor het specificeren van de bestanden op reseller.
 
-| MPN-id | Description |
+| MPN-id | Beschrijving |
 | ------ | ----------- |
 | MPN-id | De Microsoft Partner Network-ID (MPN) van de Cloud Solution Provider (CSP)-partner (direct of indirect). |
 | [Reseller MPN-ID](#reseller-mpn-id) | De [MPN-id van de dealer van de record voor het abonnement](#reseller-mpn-id). Dit veld komt overeen met de wederverkoper-ID die wordt vermeld voor het specifieke abonnement in partner centrum. Wordt alleen weer gegeven voor reconciliatie bestanden voor partners in het indirecte model. |
 
 ### <a name="reseller-mpn-id"></a>Reseller MPN-ID
 
-Als een CSP-partner het abonnement rechtstreeks aan de klant heeft verkocht, wordt hun **MPN-id** twee keer vermeld, zowel de **MPN-id** als de **wederverkoper MPN-id** .
+Als een CSP-partner het abonnement rechtstreeks aan de klant heeft verkocht, wordt hun **MPN-id** twee keer vermeld, zowel de **MPN-id** als de **wederverkoper MPN-id**.
 
 Als een CSP-partner een wederverkoper heeft zonder **MPN-id** , wordt deze waarde in plaats daarvan ingesteld op de **MPN-id** van de partner.
 
-Als de CSP-partner een **wederverkoper MPN-id** verwijdert, wordt deze waarde ingesteld op *-1* .
+Als de CSP-partner een **wederverkoper MPN-id** verwijdert, wordt deze waarde ingesteld op *-1*.
 
 De **wederverkoper MPN-id** weer geven of bijwerken:
 
 1. Meld u aan bij Partnercentrum.
 2. Selecteer **klanten** in het menu van het partner centrum.
 3. Kies de klant in de lijst.
-4. Selecteer in het menu klant de optie **abonnementen** .
+4. Selecteer in het menu klant de optie **abonnementen**.
 5. Kies het abonnement in de lijst.
-6. Selecteer **bijwerken** om de wederverkoper te wijzigen **(MPN-id)** .
+6. Selecteer **bijwerken** om de wederverkoper te wijzigen **(MPN-id)**.
