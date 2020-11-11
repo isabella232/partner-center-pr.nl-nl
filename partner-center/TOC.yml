@@ -338,9 +338,11 @@
         - name: Het aantal desktop en kostenniveaus voor een overeenkomst zoeken
           href: chip-locate-agreement.md
         - name: Geschiktheid voor oplossingsbeoordeling
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: Betalingsstatus van oplossingsbeoordeling
           href: chip-solution-assessment-payment.md
+        - name: Veelgestelde vragen over geschiktheid voor oplossingsbeoordeling
+          href: chip-faq.md
         - name: Problemen met toegang tot CHIP
           href: chip-access-trouble.md
 - name: Facturering en belastingen
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: Afstemmingsbestanden op basis van licentie
       href: license-based-recon-files.md
+    - name: Eenmalige aanschaf van CSP-afstemmingsbestanden
+      href: modern-invoice-reconciliation-file.md
+    - name: Effectieve berekening van eenheidsprijs
+      href: effective-unit-price-calculation.md
     - name: Algemene scenario's voor facturering
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
