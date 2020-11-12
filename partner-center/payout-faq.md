@@ -4,15 +4,15 @@ description: Krijg antwoorden op veelgestelde vragen over uitbetalingen in de co
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528772"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532018"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Veelgestelde vragen over uitbetalingen door commerciële Marketplace
 
@@ -71,7 +71,7 @@ Gebruik AssetID, orderID en regel item-ID die wordt weer gegeven in het rapport 
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Mijn account Hoe kan ik instellen dat er geen betaling wordt ontvangen?
-U kunt betalingen in het [profiel voor uitbetaling](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)bewaren. Controleer gewoon de **wacht stand** . Micro soft houdt de betaling over aan u totdat u de blok kering uitbrengt.
+U kunt betalingen in het [profiel voor uitbetaling](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)bewaren. Controleer gewoon de **wacht stand**. Micro soft houdt de betaling over aan u totdat u de blok kering uitbrengt.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Waarom ontvang ik mijn betaling in een andere valuta dan de aankoopvaluta?
 
@@ -91,11 +91,11 @@ Zoek in de download van het transactieoverzicht de kolom Btw-model op. Hierin wo
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Hoe kan ik belastingformulieren voor servicekosten downloaden?
 
-Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen** . Er wordt een link naar het belastingformulier voor servicekosten weergegeven voor een betaling met servicekostenbelasting.
+Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen**. Er wordt een link naar het belastingformulier voor servicekosten weergegeven voor een betaling met servicekostenbelasting.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Hoe kan ik een bronbelastingformulier als PDF downloaden?
 
-Ga naar de pagina *Betaling uitbetaling* en vervolgens naar het gedeelte **Lijst met betalingen** . Er wordt een koppeling naar een bronbelastingformulier weergegeven naast een betaling.
+Ga naar de pagina *Betaling uitbetaling* en vervolgens naar het gedeelte **Lijst met betalingen**. Er wordt een koppeling naar een bronbelastingformulier weergegeven naast een betaling.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Waar vind ik de belastingformulieren voor het eind van het jaar?
 
@@ -111,7 +111,7 @@ Bronbelasting is van toepassing op Amerikaanse uitgevers die een W-9-formulier h
 #### <a name="how-do-i-access-a-payout-statement"></a>Hoe kan ik toegang krijgen tot een uitbetalingsoverzicht?
 
 1. Controleer uw rollen. U moet de rol *financiële bijdrager* of *accounteigenaar* hebben om toegang te krijgen tot het uitbetalingsoverzicht.
-2. Selecteer in de rechter bovenhoek het **uitbetalings** pictogram om uw uitbetalings verklaring weer te geven. U kunt kiezen tussen **transactie geschiedenis** , **betaling** en **downloaden** .
+2. Selecteer in de rechter bovenhoek het **uitbetalings** pictogram om uw uitbetalings verklaring weer te geven. U kunt kiezen tussen **transactie geschiedenis** , **betaling** en **downloaden**.
 
 **Meer Lees** : [uitbetalings rollen en machtigingen](payout-statement.md#roles-and-permissions), [uitbetalings instructies](payout-statement.md) 
 
@@ -131,11 +131,11 @@ Hiermee wordt uw winst weer gegeven als een niet-verwerkt, verwerkt of verzonden
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Hoe kan ik belastingformulieren voor servicekosten downloaden?
 
-Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen** . Er wordt een link naar het belastingformulier voor servicekosten weergegeven voor een betaling met servicekostenbelasting.
+Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen**. Er wordt een link naar het belastingformulier voor servicekosten weergegeven voor een betaling met servicekostenbelasting.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Hoe kan ik een bronbelasting formulier in PDF downloaden?
 
-Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen** . Er wordt een koppeling naar een bronbelastingformulier weergegeven naast een betaling.
+Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen**. Er wordt een koppeling naar een bronbelastingformulier weergegeven naast een betaling.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Waar vind ik de belastingformulieren voor het eind van het jaar?
 

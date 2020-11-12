@@ -4,15 +4,15 @@ description: Meer informatie over uitbetalings overzichten en samen vattingen en
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92528624"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532052"
 ---
 # <a name="payout-statements"></a>Uitbetalingsinstructies
 
@@ -50,7 +50,7 @@ U kunt ook de [partner-uitbetalings-API](https://apidocs.microsoft.com/services/
 
 Op de pagina **transactie geschiedenis** ziet u het overzicht van uw inkomsten, de geschatte volgende betaling en uw inkomsten-en betalings trends in de afgelopen 36 maanden. U kunt ook transactie gegevens uit deze sectie downloaden.
 
-:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Illustreert het uitbetalings pictogram in de rechter bovenhoek van de Partner Center-Portal":::
+:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Transactie overzicht.":::
 
 - De **inkomsten die dit jaar zijn verzonden** , zijn het totale inkomen en de uitsplitsing van de inkomsten die zijn betaald en worden betaald in de komende maand.
 - **Geschatte betalings maand** : de totale inkomsten die in de komende maanden worden verwacht.
@@ -59,13 +59,13 @@ Op de pagina **transactie geschiedenis** ziet u het overzicht van uw inkomsten, 
 
 Gebruik de selectie in het datum bereik in de rechter bovenhoek van de pagina om de uitvoer van de pagina te filteren zodat de afgelopen 3, 6, 12 of 36 maanden worden weer gegeven. Of selecteer een aangepast datum bereik van Maxi maal 36 maanden. Het standaard datum bereik is 12 maanden.
 
-:::image type="content" source="images/payouts/search-filter.png" alt-text="Illustreert het uitbetalings pictogram in de rechter bovenhoek van de Partner Center-Portal":::
+:::image type="content" source="images/payouts/search-filter.png" alt-text="Het zoek filter in de rechter bovenhoek van de pagina.":::
 
 ### <a name="transaction-history-summary"></a>Overzicht transactie geschiedenis
 
 Dit toont details over het verdienen, waaronder de oorsprong van het verdienen van het product, de status en de geschatte betalings maand.
 
-:::image type="content" source="images/payouts/transaction-history.png" alt-text="Illustreert het uitbetalings pictogram in de rechter bovenhoek van de Partner Center-Portal":::
+:::image type="content" source="images/payouts/transaction-history.png" alt-text="Transactie geschiedenis.":::
 
 - **Huidige datum** : de datum van aankoop.
 - **Type verdienen** : het type van verdienen, zoals verkoop, korting of co-op.
@@ -82,7 +82,7 @@ Er worden verdienen trans acties weer gegeven zodra de trans actie voldoet aan d
 
 Klik boven aan de pagina op **downloaden** om meer informatie over een verdienen te bekijken. In de volgende tabel wordt elke kolom in het rapport uitgelegd.
 
-| Kolomnaam | Description | Toepasselijkheid voor prikkel Programma's/markt plaatsen |
+| Kolomnaam | Beschrijving | Toepasselijkheid voor prikkel Programma's/markt plaatsen |
 | --- | --- | --- |
 | agreementEndDate | Eind datum van overeenkomst | Prikkel-sommige Program ma's alleen |
 | agreementNumber | Overeenkomst nummer | Prikkel-sommige Program ma's alleen |
@@ -171,7 +171,7 @@ De pagina **betalingen** bevat informatie over het geld dat u bij micro soft heb
 >[!Note]
 > Om in aanmerking te komen voor toekenning, moet uw opbrengst de [betalings drempelwaarde](payment-thresholds-methods-timeframes.md) van $50 bereiken. Zie de [micro soft Publisher-overeenkomst](https://go.microsoft.com/fwlink/?LinkID=699560)voor meer informatie.
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Illustreert het uitbetalings pictogram in de rechter bovenhoek van de Partner Center-Portal":::
+:::image type="content" source="images/payouts/payments-overview.png" alt-text="Scherm overzicht van betalingen.":::
 
 - **Totaal betaald dit jaar** : het gecombineerde totaal bedrag dat aan u dit jaar is betaald, in Amerikaanse dollars, voor al uw Program ma's.
 - **Volgende geraamde betaling** : de enkele volgende betaling die aan u wordt toegeleverd (zelfs als er binnenkort nog andere betalingen beschikbaar zijn), in Amerikaanse dollars.
@@ -182,7 +182,7 @@ De pagina **betalingen** bevat informatie over het geld dat u bij micro soft heb
 
 In de **lijst met betalingen** worden betaalde en openstaande betalingen weer gegeven. U kunt BTW-gegevens voor service kosten downloaden in PDF-indeling en de details van het verdienen van een bepaalde betaling bekijken.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Illustreert het uitbetalings pictogram in de rechter bovenhoek van de Partner Center-Portal":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Transactie geschiedenis exporteren":::
 
 - **Betaald** : alle betalingen zijn verzonden. Kies het jaar in de vervolg keuzelijst om te filteren op de betalingen die in dat jaar zijn uitgebracht.
 - **In behandeling** : toekomstige betalingen.
@@ -198,7 +198,7 @@ In de volgende tabel worden de verschillende statussen voor het verdienen beschr
 | Status verdienen | Reden | Partner actie vereist? |
 | --- | --- | --- |
 | Verwerkte | Het verdienen komt in aanmerking voor betaling. Deze status blijft van toepassing op een koel periode zoals gedefinieerd in de programma gids voor het programma prikkel. | Nee |
-| Verschijnen | De betalings order is gegenereerd interne beoordelingen voordat de betaling wordt verwerkt. | Nee |
+| Aankomend | De betalings order is gegenereerd interne beoordelingen voordat de betaling wordt verwerkt. | Nee |
 | Factuur met openstaande BTW | Uw belasting factuur is onvolledig of ongeldig. | U moet uw BTW-factuur bijwerken voordat u kunt betalen |
 | Afgewezen tijdens beoordeling | De betaling is tijdens de controle afgewezen. | Neem contact op met micro soft ondersteuning voor meer informatie |
 | Mislukt | De betaling is mislukt vanwege een micro soft-systeem fout. | Neem contact op met micro soft ondersteuning voor meer informatie |
@@ -216,7 +216,7 @@ In de volgende tabel worden de verschillende statussen voor het verdienen beschr
 
 Klik boven aan de pagina op **downloaden** om meer informatie over uw betalingen weer te geven. In de volgende tabel wordt elke kolom in het rapport uitgelegd.
 
-| Kolomnaam | Description |
+| Kolomnaam | Beschrijving |
 | --- | --- |
 | participantID | De primaire identiteit van de partner die onder het programma is aangegaan |
 | participantIDType | Doorgaans programma-ID voor prikkel Programma's en verkoper-ID voor Store-Program ma's |
@@ -244,7 +244,7 @@ Het filter kan ertoe leiden dat er **geen gegevens beschikbaar zijn** . Dit kan 
 
 Hier volgt een voor beeld van een export van een betaling:
 
-:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Illustreert het uitbetalings pictogram in de rechter bovenhoek van de Partner Center-Portal":::
+:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Rapport betalingen exporteren.":::
 
 ### <a name="historical-statements"></a>Historische instructies
 
@@ -253,7 +253,7 @@ De samen vatting **export gegevens** biedt ook toegang tot historische instructi
 > [!NOTE]
 > Een historische instructie is een moment opname en wordt niet vernieuwd. Neem contact op met de [ondersteuning](https://partner.microsoft.com/support/v2/?stage=1) en vraag zo nodig de meest recente gegevens aan.
 
-:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Illustreert het uitbetalings pictogram in de rechter bovenhoek van de Partner Center-Portal":::
+:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Historische overzichten exporteren.":::
 
 - De transactie geschiedenis van vóór 1 juli 2019 wordt afzonderlijk verwerkt en maakt gebruik van verschillende velden uit latere geschiedenis rapporten.
 - De verouderde transactie geschiedenis bevat een kolom met de naam ' gereserveerd ' die overeenkomt met de kolom ' winst ' in de moderne geschiedenis, behalve dat alle inkomsten met een status gelijk aan ' betaling verzonden ' worden uitgesloten.
@@ -274,7 +274,7 @@ In de volgende tabel wordt elke kolom in een historische instructie uitgelegd.
 | Naam van bovenliggend product | De naam van het bovenliggende product. Als er geen bovenliggend product voor de trans actie is, dan is de naam van het bovenliggende product = product naam. |
 | Productnaam | Naam van het product |
 | Producttype | Type product, zoals app, invoeg toepassing of spel |
-| Aantal | Wanneer de opbrengst bron Microsoft Store voor bedrijven, vertegenwoordigt de hoeveelheid het aantal aangeschafte licenties. Voor alle andere opbrengst bronnen is de hoeveelheid altijd 1. Zelfs wanneer één trans actie wordt gesplitst in twee regel items omdat er twee verschillende betalings methoden zijn gebruikt, wordt voor elk regel item een hoeveelheid van 1 weer gegeven. |
+| Hoeveelheid | Wanneer de opbrengst bron Microsoft Store voor bedrijven, vertegenwoordigt de hoeveelheid het aantal aangeschafte licenties. Voor alle andere opbrengst bronnen is de hoeveelheid altijd 1. Zelfs wanneer één trans actie wordt gesplitst in twee regel items omdat er twee verschillende betalings methoden zijn gebruikt, wordt voor elk regel item een hoeveelheid van 1 weer gegeven. |
 | Transactietype | Type trans actie, zoals aankoop, terugbetaling, omkering of terugstorting |
 | Betalings wijze | Het betalings instrument van de klant dat wordt gebruikt voor de trans actie, zoals kaart, facturering van mobiele provider of PayPal |
 | Land/regio | Het land of de regio waar de trans actie plaatsvond |

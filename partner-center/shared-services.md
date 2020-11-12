@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92528616"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532035"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Voeg Shared Services van Azure-partners toe zodat partners Azure-abonnementen kunnen kopen voor hun eigen gebruik
 
-**Van toepassing op**
-
-- Partnercentrum
  
 **Juiste rollen**
 
@@ -32,23 +29,23 @@ Azure partner Shared Services is een nieuw aanbiedings type voor partners in het
 
 ## <a name="create-the-shared-services-tenant"></a>De Shared Services-Tenant maken
 
-1. Ga naar **instellingen**  >  **account instellingen**  >  **gedeelde services** .
+1. Ga naar **instellingen**  >  **account instellingen**  >  **gedeelde services**.
 
    :::image type="content" source="images/sharedservices2.png" alt-text="Account instellingen > gedeelde services":::
 
-2. Als u nog geen Shared Services-Tenant hebt, klikt u op **gedeelde services maken** .
+2. Als u nog geen Shared Services-Tenant hebt, klikt u op **gedeelde services maken**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Account instellingen > gedeelde services":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Gedeelde services maken":::
 
 3. Hiermee maakt u een Tenant voor gedeelde services en wordt het Azure CSP Shared Services-abonnement gekocht om te worden gebruikt voor gedeelde resources en interne werk belasting.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Account instellingen > gedeelde services":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="De Tenant maken en het abonnement aanschaffen":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Over de Azure-Interne/gedeelde services aanbieding
 
 - Het Azure-Interne/gedeelde services-abonnement is een nieuw Azure-aanbiedings type in CSP die toegankelijk is via het partner centrum waarmee partners hun eigen gebruik van Azure kunnen verkrijgen.
 
-- Azure-Interne/gedeelde services aanbieding komt niet in aanmerking voor kortingen en prikkels.
+- Azure-Interne/gedeelde services aanbieding komt in aanmerking voor kortingen en prikkels.  Azure partner Shared Services-abonnementen komen in aanmerking en kunnen worden gebruikt om RIs aan te schaffen.
 
 - De aanbieding Azure-Interne/gedeelde services kan alleen worden toegepast op de Shared Services-Tenant.
 
@@ -78,3 +75,7 @@ Partners met BYOL of gratis services die zijn geïmplementeerd met APSS, worden 
 Als u gebruik wilt maken van de volledige catalogus met Marketplace-aanbiedingen die beschikbaar zijn (niet alleen BYOL en gratis services), raden wij u aan CSP-partners gedeelde services te implementeren met behulp van web direct Azure-abonnementen.  CSP-partners die eerder BYOL en gratis service bronnen van derden van de Marketplace hebben geïmplementeerd en willen blijven gebruiken en meer aanbiedingen van derden kunnen implementeren, worden aanbevolen om het APSS-abonnement te migreren naar web direct om [bestaande Azure-abonnementen te migreren](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 Partners, die van plan zijn APSS-abonnement te blijven gebruiken na 1 maart 2019 en nieuwe [BYOL-Services](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) van derden of gratis services willen implementeren, kunnen de instructies van isv's volgen om deze te implementeren in hun APSS-abonnementen.
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Software-abonnementen verkopen via CSP](csp-software-subscriptions.md)
