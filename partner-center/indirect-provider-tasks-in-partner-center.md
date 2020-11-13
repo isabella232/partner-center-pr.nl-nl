@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92528677"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567046"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partner met indirecte resellers in het programma Cloud Solution Provider
 
@@ -55,7 +55,7 @@ Voer de volgende stappen uit om uw partnerschap met indirecte wederverkopers en 
 
    - Voordat u met wederverkopers kunt communiceren, moet u partnerschappen met hen tot stand brengen in het partner centrum.
 
-3. Verbinding maken met klanten
+3. Communiceren met klanten
 
    - Nieuwe klanten en abonnementen koppelen aan wederverkopers
 
@@ -109,9 +109,9 @@ Voor bestaande abonnementen kunt u, als u besluit om met een indirecte wederverk
 
 Volg de onderstaande stappen om samen werking met een bestaande indirecte wederverkoper te verwijderen. 
 
-1. Selecteer in het menu Partner Center op het dash board de optie **indirecte wederverkopers** . 
+1. Selecteer in het menu Partner Center op het dash board de optie **indirecte wederverkopers**. 
 
-2. Selecteer op de pagina **indirecte wederverkopers** de optie samen **werking verwijderen** . Er wordt een bericht weer gegeven waarin wordt gevraagd om bevestiging. Selecteer Ja om door te gaan.
+2. Selecteer op de pagina **indirecte wederverkopers** de optie samen **werking verwijderen**. Er wordt een bericht weer gegeven waarin wordt gevraagd om bevestiging. Selecteer Ja om door te gaan.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Partnership verwijderen":::
 
@@ -124,7 +124,7 @@ Volg de onderstaande stappen om samen werking met een bestaande indirecte wederv
 Afhankelijk van het niveau van toegang en betrokkenheid, wilt u mogelijk met de indirecte wederverkoper communiceren, evenals een eind klant over deze wijziging.
 
 
-## <a name="connect-with-customers"></a>Verbinding maken met klanten
+## <a name="connect-with-customers"></a>Communiceren met klanten
 
 Wanneer u nieuwe klanten ontvangt, moet u accounts voor hen maken in het partner centrum. Wanneer u een nieuw klant account toevoegt, kunt u een specifieke wederverkoper aanwijzen om het account te beheren en de abonnementen en services van de klanten in hun naam te beheren.
 
@@ -134,24 +134,24 @@ Wanneer u een wederverkoper koppelt aan een nieuw klant account, bent u verantwo
 
 1. Selecteer **indirecte wederverkopers** in het menu van uw **partner centrum** .
 
-2. Zoek de indirecte wederverkoper waaraan u nieuwe klanten wilt toewijzen en selecteer vervolgens **nieuwe klant toevoegen** . Houd er rekening mee dat de indirecte wederverkoper al voor u is geselecteerd op het detail formulier van de klant. Geef de details van de klant op en selecteer **volgende: abonnementen** .
+2. Zoek de indirecte wederverkoper waaraan u nieuwe klanten wilt toewijzen en selecteer vervolgens **nieuwe klant toevoegen**. Houd er rekening mee dat de indirecte wederverkoper al voor u is geselecteerd op het detail formulier van de klant. Geef de details van de klant op en selecteer **volgende: abonnementen**.
 
 3. Op de pagina **Nieuw abonnement** selecteert u de abonnementen die de klant wil kopen en voert u vervolgens het aantal licenties in dat de klant nodig heeft.
 
-4. Selecteer **Volgende: Review** .
+4. Selecteer **Volgende: Review**.
 
-5. Als de order juist is, selecteert u **verzenden** . Als de order onjuist is, selecteert u **Annuleren** om de gehele bewerking te annuleren en opnieuw te beginnen.
+5. Als de order juist is, selecteert u **verzenden**. Als de order onjuist is, selecteert u **Annuleren** om de gehele bewerking te annuleren en opnieuw te beginnen.
 
 6. Nadat u de order hebt ingediend, wordt de **bevestigings** pagina weer gegeven. Onder **installatie-informatie** worden de account naam van de beheerder en het tijdelijke wacht woord weer gegeven. Kopieer de naam en het wacht woord van het gebruikers account, zodat u deze kunt verzenden naar de nieuwe klant.
 
     > [!IMPORTANT]  
     > Noteer de naam en het wacht woord van het gebruikers account, omdat u deze gegevens niet meer kunt openen nadat u deze pagina hebt gesloten.
 
-7. Selecteer **Gereed** . De nieuwe klant wordt weer gegeven in de lijst met klanten die is gekoppeld aan de indirecte wederverkoper. De wederverkoper heeft nu beheerders toegang tot de account gegevens en abonnementen van de klant en kan de abonnementen namens de klant beheren.
+7. Selecteer **Gereed**. De nieuwe klant wordt weer gegeven in de lijst met klanten die is gekoppeld aan de indirecte wederverkoper. De wederverkoper heeft nu beheerders toegang tot de account gegevens en abonnementen van de klant en kan de abonnementen namens de klant beheren.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Nieuwe abonnementen toevoegen aan klant accounts
 
-Wanneer klanten nieuwe abonnementen willen kopen, bestaande bij te werken of extra licenties moeten kopen, kunt u deze wijzigingen aanbrengen in het account van de klant.
+Wanneer klanten nieuwe abonnementen willen kopen, bestaande bij te werken, of om aanvullende licenties te kopen, kunt u deze wijzigingen aanbrengen in het account van de klant via de M365-Portal. U kunt dit niet doen in de Azure Portal.
 
 1. Selecteer **klanten** in het menu van uw **partner centrum** .
 
@@ -159,11 +159,11 @@ Wanneer klanten nieuwe abonnementen willen kopen, bestaande bij te werken of ext
 
 3. Op de pagina **Nieuw abonnement** selecteert u de abonnementen en voert u het aantal licenties in dat de klant wil kopen.
 
-4. Als u het abonnement wilt koppelen aan een wederverkoper, selecteert u de naam van de reseller in de lijst en selecteert u vervolgens **verzenden** . Als u de wederverkoper aan het abonnement koppelt, kunnen ze stimulansen verdienen, indien van toepassing.
+4. Als u het abonnement wilt koppelen aan een wederverkoper, selecteert u de naam van de reseller in de lijst en selecteert u vervolgens **verzenden**. Als u de wederverkoper aan het abonnement koppelt, kunnen ze stimulansen verdienen, indien van toepassing.
 
 5. De nieuwe abonnementen worden weer gegeven in de lijst abonnementen van de klant.
 
-6. Als u wilt dat de wederverkoper klant ondersteunings aanvragen voor het nieuwe abonnement afhandelt, selecteert u het abonnement en selecteert u vervolgens de reseller in de lijst **met aangewezen ondersteunings contactpersonen** .
+6. Als u wilt dat de wederverkoper klant ondersteunings aanvragen voor het nieuwe abonnement afhandelt, selecteert u het abonnement en selecteert u vervolgens de reseller in de lijst **met aangewezen ondersteunings contactpersonen** . 
 
 7. Selecteer **verzenden** wanneer u klaar bent.
 

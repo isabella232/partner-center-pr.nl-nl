@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528765"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567071"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Problemen met partner centrum melden en logboek-of diagnostische gegevens verzenden
 
 **Van toepassing op**
 
 - Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 
 Neem contact op met partner Center-ondersteuning als u problemen ondervindt of hulp nodig hebt bij het partner centrum.
 
@@ -31,15 +31,33 @@ Alle aangemelde partner centrum-gebruikers kunnen een partner ondersteunings aan
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Een probleem melden met het partner centrum
 
-1. Selecteer in uw **Partner Center** -dash board de optie **ondersteuning** en selecteer vervolgens **partner-ondersteunings aanvragen** .
+1. Selecteer in uw **Partner Center** -dash board de optie **ondersteuning** en selecteer vervolgens **partner-ondersteunings aanvragen**.
 
-2. Selecteer **nieuwe aanvraag** en zoek naar het probleem type dat het beste het probleem beschrijft. Selecteer het type probleem en **Bekijk oplossingen** .
+2. Selecteer **nieuwe aanvraag** en zoek naar het probleem type dat het beste het probleem beschrijft. Selecteer het type probleem en **Bekijk oplossingen**.
 
 3. Bekijk de pagina **Aanbevolen oplossingen** voor de stappen of gerelateerde documenten die u kunnen helpen bij het oplossen van uw probleem.
 
-4. Als de **Aanbevolen oplossingen** uw probleem hebben opgelost, kunt u **terugkeren naar het dash board** selecteren. Als u nog steeds hulp nodig hebt, kunt u door gaan en Details van het **probleem opgeven** .
+4. Als de **Aanbevolen oplossingen** uw probleem hebben opgelost, kunt u **terugkeren naar het dash board** selecteren. Als u nog steeds hulp nodig hebt, kunt u door gaan en Details van het **probleem opgeven**.
 
 5. Voer de **Details** van het probleem uit en **Verzend** het vervolgens naar. De ondersteunings medewerker van een partner neemt contact met u op.
+
+## <a name="schedule-a-support-appointment"></a>Een ondersteunings afspraak plannen 
+
+**Momenteel als preview-versie*
+
+Als voor uw probleem een conversatie met uw ondersteunings certificaat is vereist, kunt u de afspraak plannen vanuit uw ticket details.
+
+:::image type="content" source="images/support/ticket.png" alt-text="Een ondersteunings afspraak plannen":::
+
+1.  Selecteer op de pagina ticket details in partner centrum een beschik bare datum en tijd in de agenda van de ondersteunings partner. U ziet alleen de beschik bare datums en tijden in uw lokale tijd zone.
+
+:::image type="content" source="images/support/ticket2.png" alt-text="Afspraak plannen":::
+
+2. Het partner centrum controleert de agenda van de ondersteunings afdeling voor Beschik baarheid.
+
+1. Wanneer u een afspraak plant, stuurt het partner centrum u een agenda-uitnodiging met informatie over de manier waarop de ondersteunings afdeling contact met u opneemt, zodat u deze afspraak kunt volgen in uw eigen werk agenda.
+
+:::image type="content" source="images/support/ticket3.png" alt-text="Datum en tijd":::
 
 ## <a name="send-diagnostics"></a>Diagnostische gegevens verzenden
 
@@ -65,3 +83,6 @@ U kunt de diagnostische gegevens bekijken en vervolgens opslaan in een bestand d
 
 Partner ondersteuning vraagt u mogelijk dit hulp programma meerdere keren uit te voeren, zodat ze de meest actuele informatie kunnen verkrijgen.
 
+## <a name="next-steps"></a>Volgende stappen
+
+- [Een service probleem namens een klant melden](report-problems-on-behalf-of-a-customer.md)
