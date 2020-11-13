@@ -3,3 +3,7 @@
   items:
     - name: Azure Private Marketplace maken
       href: create-manage-private-azure-marketplace.md
+- name: Naslaginformatie
+  items:
+    - name: Azure PowerShell
+      href: /powershell/module/az.marketplace
