@@ -1,19 +1,19 @@
 ---
 title: Uitbetaling en belastingprofielen in het Partnercentrum
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 11/12/2020
 description: Maak en beheer uw uitbetalings-en BTW-profiel zodat u kunt betalen voor uw prikkel werkzaamheden. Omvat het maken, beheren en gebruiken van verschillende profielen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ca2ffe992ff92b98546934f4a249779f39179acb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528782"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626028"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Toekennings-en belasting profielen voor stimuli maken en beheren in partner centrum
 
@@ -24,7 +24,7 @@ ms.locfileid: "92528782"
 **Juiste rollen:**
 
 - Prikkel beheerder
-- Factureringsbeheerder
+- Accountbeheerder
 - Globale beheerder
 
 Voordat u een betaling kunt ontvangen voor uw incentive-programma's voor een bepaalde MPN-locatie, moet u uw inschrijving voltooien door een geldig betalings- en belastingprofiel te koppelen aan het programma en de MPN-locatie. Microsoft gebruikt dit profiel om betalingen te doen. U kunt mogelijk een bankoverboeking of een creditnota gebruiken voor betaling, afhankelijk van de regels van het incentive-programma. 
@@ -43,15 +43,11 @@ Gebruikers met prikkels kunnen prikkel winst en betalings gegevens en-rapporten 
 
 ### <a name="choose-your-disbursement-currency"></a>Kies uw valuta voor schot
 
-In de lokale valuta van elke respectieve entiteit worden standaard kosten voor het stimuleren van een stimulans gemaakt. U kunt tijdens het instellen van het profiel een andere valuta opgeven. Betalingen worden berekend met behulp van een wissel koers die maandelijks door micro soft is ingesteld. Als gevolg van de geselecteerde valuta bent u verantwoordelijk voor eventuele wijzigingen in de waarde.
-
-### <a name="bank-and-tax-information-and-other-programs"></a>Bank-en belasting gegevens en andere Program ma's
-
-Geef de gegevens op die hieronder worden beschreven, zelfs als micro soft uw bank gegevens al gebruikt voor betalingen. Dit zorgt voor de privacy en beveiliging van de gegevens van uw bedrijf, omdat het kopiëren van uw profiel naar het nieuwe hulp programma gevoelige informatie kan openbaren. Door loop dit proces is ook een goede kans om ervoor te zorgen dat de gegevens volledig en nauw keurig zijn.
+Belonings betalingen worden uitgevoerd in de valuta die u hebt geselecteerd bij het instellen van uw betalings profiel. Betalingen worden berekend met behulp van een wissel koers die maandelijks door micro soft is ingesteld. Als gevolg van de geselecteerde valuta bent u verantwoordelijk voor eventuele wijzigingen in de waarde.
 
 ### <a name="using-different-profiles-for-different-microsoft-programs"></a>Verschillende profielen gebruiken voor verschillende micro soft-Program ma's
 
-Binnen de detail handel kunnen betalingen voor elk van de vijf Retail prikkel-Program ma's naar dezelfde bank rekening gaan. U kunt er ook voor kiezen om Retail Xbox-betalingen te laten gaan naar één bank rekening terwijl Retail Office wordt betaald aan een ander bank account.
+Als uw bedrijf is inge schreven in meerdere stimulerings Programma's, kunt u hetzelfde betalings account voor al deze Program ma's gebruiken of kiezen voor het gebruik van verschillende betalings accounts voor verschillende Program ma's.
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Uitbetalings-en BTW-profielen maken en beheren in het partner centrum
 
@@ -66,23 +62,23 @@ In de volgende secties vindt u een overzicht van het proces voor het maken en be
 
    - Meerdere domeinen kunnen worden geregistreerd binnen één Azure AD-account. Neem contact op met uw globale beheerder om te bepalen welke domeinen zijn gekoppeld.
    - Als u zich alleen kunt aanmelden met het @onmicrosoft.com domein, neemt u contact op met uw account beheerder om extra domeinen toe te voegen aan het Azure ad-account.
-   - Als u wordt gevraagd om een **werk-of school account** of een **persoonlijk account** te selecteren, selecteert u **werk-of school account** .
+   - Als u wordt gevraagd om een **werk-of school account** of een **persoonlijk account** te selecteren, selecteert u **werk-of school account**.
 
-2. Selecteer het tandwiel pictogram om het menu **instellingen** te openen en selecteer vervolgens **partner instellingen** .
+2. Selecteer het tandwiel pictogram om het menu **instellingen** te openen en selecteer vervolgens **partner instellingen**.
 
-3. Selecteer in het menu **account instellingen** de optie **uitbetaling en belasting** . 
+3. Selecteer in het menu **account instellingen** de optie **uitbetaling en belasting**. 
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Uitbetalings-en BTW-profielen toewijzen aan afzonderlijke Program ma's
 
 1. Meld u aan bij het [dash board van het partner centrum](https://partner.microsoft.com/dashboard/)en selecteer vervolgens het tandwiel pictogram om het menu **instellingen** te openen. 
 
-2. Selecteer **partner instellingen** , vouw de **sectie uitbetaling en belasting** uit en selecteer vervolgens **toekennings-en BTW-profiel toewijzing** . 
+2. Selecteer **partner instellingen** , vouw de **sectie uitbetaling en belasting** uit en selecteer vervolgens **toekennings-en BTW-profiel toewijzing**. 
    
    Er wordt een lijst met uw Program ma's weer gegeven. Selecteer de pijl naast een programma om de profiel gegevens weer te geven. 
 
 3. Selecteer in het vervolg keuzemenu **BTW-profiel** het gewenste BTW-profiel of selecteer de optie om een nieuw profiel te maken. Wanneer u de optie voor het maken van een nieuw profiel selecteert, wordt u naar behoren omgeleid.  Selecteer door gaan in het pop-upvenster. Het proces voor het maken van een nieuw BTW-profiel is hieronder beschreven.
 
-4. Selecteer de **Betalings wijze** .
+4. Selecteer de **Betalings wijze**.
 
    - Als u **elektronische Bank overboeking** hebt geselecteerd als uw betalings wijze, selecteert u het gewenste betalings profiel of selecteert u de optie om een nieuw profiel te maken. Wanneer u de optie voor het maken van een nieuw profiel selecteert, wordt u naar behoren omgeleid. Selecteer door gaan in het pop-upvenster. Het proces voor het maken van een nieuw betalings profiel is hieronder opgenomen.
 
@@ -94,9 +90,9 @@ In de volgende secties vindt u een overzicht van het proces voor het maken en be
     >[!NOTE]
     >De beschik baarheid van de betalings wijze is afhankelijk van de regels van het prestatie programma.
     
-5. Selecteer de **valuta** .
+5. Selecteer de **valuta**.
 
-6. Wanneer u alle velden van betaling hebt ingevuld, selecteert u **verzenden** .
+6. Wanneer u alle velden van betaling hebt ingevuld, selecteert u **verzenden**.
 
 ## <a name="create-your-bank-profile"></a>Uw bank profiel maken
 
@@ -109,17 +105,17 @@ Bank profielen worden op organisatie niveau gemaakt. Hierdoor kan één bank pro
     **Locatie van bank account:** Het land waar de Bank van uw bedrijf zich bevindt.
     **Betalings wijze:** De betalings wijze die de voor keur heeft voor partner centrum is een elektronische bank overdracht.
 
-2. Selecteer **Next** .
+2. Selecteer **Next**.
 
 3. Geef uw gegevens op de pagina **Bank account** op. De velden die op deze pagina worden weer gegeven, variëren per land. 
 
-4. Selecteer **Next** .
+4. Selecteer **Next**.
 
 5. Voer op de pagina **begunstigde** de juiste informatie in. De begunstigde is degene die de Bank zou contacteren als ze uw account moeten bespreken.
 
 6. Wanneer de velden zijn voltooid, selecteert u **volt ooien** en selecteert u vervolgens **bevestigen** om uw bank profiel te maken.
 
-U wordt omgeleid naar de pagina **uitbetalings-en BTW-profielen** . De status van uw nieuwe profiel wordt **in afwachting van micro soft-validatie** weer gegeven totdat de validatie is voltooid. Dit proces kan Maxi maal 48 uur duren. Zodra de validatie is voltooid, wordt de profiel status weer gegeven als **goedgekeurd** of **actie vereist** . Als **actie vereist** is, herhaalt u de bovenstaande stappen om de benodigde gegevens op te geven. 
+U wordt omgeleid naar de pagina **uitbetalings-en BTW-profielen** . De status van uw nieuwe profiel wordt **in afwachting van micro soft-validatie** weer gegeven totdat de validatie is voltooid. Dit proces kan Maxi maal 48 uur duren. Zodra de validatie is voltooid, wordt de profiel status weer gegeven als **goedgekeurd** of **actie vereist**. Als **actie vereist** is, herhaalt u de bovenstaande stappen om de benodigde gegevens op te geven. 
 
 ## <a name="create-your-tax-profile"></a>Uw BTW-profiel maken
 
@@ -133,20 +129,20 @@ Als u informatie nodig hebt over het volt ooien van de W8-of W9-formulieren, kun
 >[!IMPORTANT]
 > Voer alleen details in voor uw bedrijf. Geef nooit persoonlijke gegevens op.
 
-1. Vul op de pagina **zakelijk profiel** de vereiste velden in en selecteer **volgende** . 
+1. Vul op de pagina **zakelijk profiel** de vereiste velden in en selecteer **volgende**. 
 
 2. Selecteer op de pagina **instellen** de optie die van toepassing is op uw bedrijf.
 
    - Selecteer de optie aan de linkerkant als uw bedrijf is opgenomen in de Verenigde Staten alleen, of als dit profiel voor een persoon is.
    - Selecteer de optie aan de rechter kant als uw bedrijf is opgenomen buiten het Verenigde Staten en selecteer uw land/regio in de lijst.
 
-3. Selecteer **Next** . 
+3. Selecteer **Next**. 
 
-4. Geef op de pagina **belasting status** de vereiste gegevens op en selecteer **volgende** . De velden op deze pagina kunnen per land verschillen. uw gegevens. 
+4. Geef op de pagina **belasting status** de vereiste gegevens op en selecteer **volgende**. De velden op deze pagina kunnen per land verschillen. uw gegevens. 
 
-5. Op de pagina **extra documentatie** , de vereiste velden en selecteer **volgende** . 
+5. Op de pagina **extra documentatie** , de vereiste velden en selecteer **volgende**. 
 
-6. Selecteer **Bladeren** om documenten te uploaden die vereist zijn voor uw land of regio. Wanneer de document naam wordt weer gegeven, selecteert u **uploaden** . 
+6. Selecteer **Bladeren** om documenten te uploaden die vereist zijn voor uw land of regio. Wanneer de document naam wordt weer gegeven, selecteert u **uploaden**. 
 
 7. Selecteer **verwijderen** als u het document wilt verwijderen.
 
