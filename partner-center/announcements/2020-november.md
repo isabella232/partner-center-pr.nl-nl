@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488103"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691296"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
@@ -23,6 +23,128 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft par
 2020 aankondigingen: [april](2020-april.md)juni tot en met september tot en met  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md) | Maand
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Wijzigingen in de facturerings valuta van de partner van de EU/EVA voor nieuwe Commerce aanbiedingen.  
+
+### <a name="categories"></a>Categorieën
+- Datum 2020-11-17
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep  
+
+Partners die communiceren via het programma Cloud solution provider in de regio EU/EVA 
+
+### <a name="summary"></a>Samenvatting 
+
+In de regio Europese Unie (EU)/European Free Trade Association (EVA) zal alle nieuwe Commerce aanbiedingen in het Cloud Solution Provider-programma de facturerings locatie van de partner gebruiken in plaats van de facturerings locatie van de klant. Dit betekent dat partners door micro soft worden gefactureerd op basis van hun locatie valuta, niet op de locatie valuta van de klant. Dit gebeurt in twee fasen: 
+
+- **Fase 1: nieuwe klanten die een nieuwe Commerce-aanbieding kopen in CSP**
+
+Vanaf januari 2021 worden partners die nieuwe klanten hebben, nieuwe Commerce aanbiedingen in rekening gebracht voor die aankopen in de valuta van de partner locatie. Partners met bestaande klanten die al nieuwe Commerce-aanbiedingen in CSP hebben gekocht, worden in de valuta van de facturerings locatie van de klant gefactureerd tijdens deze fase. 
+
+ 
+
+- **Fase 2: bestaande klanten die een nieuwe Commerce-aanbieding in CSP hebben gekocht vóór 1 januari 2021** 
+
+De volgende fase 1 en tijdens het kalender jaar 2021, micro soft zet de facturering van nieuwe Commerce-aanbiedingen voor partners met bestaande klanten over, die een nieuwe Commerce-aanbieding in CSP heeft gekocht vóór 2021 januari, van klant locatie valuta tot partner locatie valuta. Partners worden vooraf op de hoogte gesteld voordat deze wijziging wordt geïmplementeerd.  
+
+>Eraan Deze wijziging is alleen van invloed op de facturerings valuta van de partner en niet op de prijzen van nieuwe Commerce-aanbiedingen in CSP. 
+
+De nieuwe Commerce-aanbiedingen in het bereik voor deze wijziging zijn: Azure-abonnementen die deel uitmaken van een Azure-abonnement, Azure-reserve ringen, Server abonnementen, permanente software en micro soft Commercial Marketplace-aankopen in het Cloud Solution Provider-programma.
+
+### <a name="partner-benefits"></a>Voor delen van partner  
+
+- Deze update vermindert de complexiteit en de overhead met de facturering in meerdere valuta in de regio EU/EVA voor de nieuwe Commerce ervaring.  
+
+- Partners ontvangen een geconsolideerde factuur in één valuta en ontvangen geen factuur meer voor elke locatie valuta van de klant. 
+
+- Belonings uitbetalingen worden in dezelfde valuta als de factuur valuta van de partner.
+
+- Partners zien een gereduceerde facturerings complexiteit die wordt veroorzaakt door het factureren van meerdere valuta's, waarmee tijd en resources worden vrijgemaakt die momenteel zijn gekoppeld aan het afstemmen van accounts. 
+
+- Voor partners die nog geen nieuwe Commerce-aanbiedingen hebben toegepast, wordt deze wijziging afgestemd op het vorige partner-facturerings model, waardoor partners de nieuwe Commerce-ervaring in CSP gemakkelijker kunnen overstappen. 
+
+### <a name="resources"></a>Resources 
+
+Lees de informatie over dit onderwerp in de [Operations Gallery] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ op de website van micro soft partner.  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>API-beperking naar partners die partner Center-Api's aanroepen
+
+### <a name="categories"></a>Categorieën
+
+- Datum 2020-11-17
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Micro soft introduceert de API-beperking tot partners die partner Center-Api's aanroepen voor een meer consistente prestaties binnen een bepaalde periode.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners die communiceren via het Cloud Solution Provider-programma
+
+### <a name="details"></a>Details
+
+Micro soft implementeert de API-beperking in Q1 2021 om een meer consistente prestaties te bieden binnen een tijds spanne voor partners die de Api's van het partner centrum aanroepen. Met beperking wordt het aantal aanvragen voor een service binnen een bepaalde periode beperkt om te voor komen dat bronnen worden overmatigd. Wanneer een drempel waarde wordt overschreden, zal het partner centrum gedurende een bepaalde periode alle verdere aanvragen van die client kunnen beperken.  
+
+### <a name="partner-benefits"></a>Voor delen van partner 
+
+Het partner centrum is ontworpen om een groot aantal aanvragen af te handelen, maar als er veel aanvragen worden gedaan door een aantal partners, helpt het beperken van de optimale prestaties en betrouw baarheid van alle partners. Het zorgt voor minimale downtime. Door het grote aantal aanvragen te verminderen, kunnen we ervoor zorgen dat de prestaties van alle partners consistent zijn. 
+
+
+### <a name="apis-to-be-throttled"></a>Api's die moeten worden beperkt
+
+|**Bewerking**|**Documentatie voor Partnercentrum**|
+|-------------------------|----------------------------------|
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions|[Alle abonnementen van een klant ophalen](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Een abonnement op de ID ophalen](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/Customers/{customer_id}/orders||[Alle bestellingen van een klant ophalen](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/orders/{order_id}|[Een order op basis van ID ophalen](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/Customers/{customer_id}/orders/{order_id}/provisioningstatus|[De inrichtings status van het abonnement ophalen](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Orders beheren en een abonnement beheren](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Een lijst met invoeg toepassingen voor een abonnement ophalen](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Een lijst met Azure-rechten voor een abonnement ophalen](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Registratie status van abonnement ophalen](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Alle overdrachten van een klant ophalen](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Upgrade status van product ophalen](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Een lijst met aanbiedingen voor proef conversie ophalen](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+Deze aankondiging is erop gericht partners te voorzien van vroegtijdige kennis van de komende wijzigingen, waardoor ze kunnen voorbereiden. We raden u ten zeerste aan om partners vertrouwd te raken met deze Api's en overweeg de API voor het activiteiten logboek te gebruiken voor meer efficiëntie en om te voor komen dat deze wordt beperkt. Raadpleeg de informatie in [API Throttle-richt lijnen](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)voor meer informatie over deze functie. 
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de [richt lijnen](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)voor het beperken van de API en neem de nodige maat regelen. 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 fouten vanwege dubbele MCA-aanvragen
+
+### <a name="categories"></a>Categorieën
+
+- Datum 2020-11-16
+- Functies
+
+### <a name="context"></a>Context
+
+- In februari moesten partners de micro soft-klant overeenkomst ondertekenen (MCuA). Dit was een migratie van de vorige Microsoft Cloud Agreement (MCA). 
+- Als onderdeel van deze wijzigings partner werden de partners gevraagd om de overeenkomst type parameter op te geven, zoals [hier](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)wordt beschreven.
+
+### <a name="what-happened-next"></a>Wat is er nu gebeurd:
+
+- Niet alle partners hebben de parameter aanvraag opgenomen in de implementatie. Micro soft heeft de MCA naar deze partners geretourneerd.
+- De partner verzendt de handtekening aanvraag vervolgens opnieuw naar de klant en stuurt de MCA naar micro soft. 
+- De duplicatie heeft invloed op de mogelijkheid van micro soft om service te bieden aan partners.
+- In september 2020 hebben we een melding verzonden naar partners via Yammer in meerdere forums, waardoor de para meter wordt door gegeven aan partners. Micro soft kan de dubbele waarden niet meer accepteren en er worden 409-fouten weer gegeven.
+
+>[Opmerking] Dit is geen nieuwe contract-en API-wijziging voor partners.
+
+- In oktober hebben we nauw samengewerkt met partners die de meeste dubbele aanvragen hadden om het probleem op te lossen.
+- Op dit moment wordt aan partners geadviseerd en worden er persoonlijke e-mail berichten verzonden naar de tien misleidende partijen, om hun aanvragen te beoordelen en aan ons te vragen, zodat we het probleem kunnen helpen testen en oplossen.
+- Op 10 november 2020 hebben we het accepteren van duplicaten gestopt, en partners die de para meters niet hebben gecorrigeerd, heeft 409 fouten aangetroffen.
+- Nadat de wijziging is teruggedraaid, worden er geen dubbele items geaccepteerd. 
+- Op 14 januari 2021 worden er echter geen dubbele items meer geaccepteerd. Op deze manier kunnen partners meer tijd aanpassingen aan hun einde aanbrengen. We hebben al een melding ontvangen van een partner dat ze een update willen implementeren op 11/16 waarop we nauw met hen kunnen werken.
+- Wij vragen u om de partners te helpen bij het testen door hun tenants toe te voegen aan een vlucht met de wijzigingen zodat de update van de oplossing naar verwachting werkt.
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testen beschikbaar: verbeteringen in het partner centrum-API en de gebruikers interface (UI) voor het onderwijs klant validatie proces

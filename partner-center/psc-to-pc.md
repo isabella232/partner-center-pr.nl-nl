@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/06/2020
-ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381427"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670164"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -78,7 +78,7 @@ Als u het tabblad verwijzingen niet ziet:
 Nadat u uw account hebt ingesteld in het partner centrum, gebruikt u de wizard Gebruikers migreren op de pagina verkoop kansen om het automatisch toe te wijzen van partner centrum rollen aan werk nemers van uw bedrijf.
 
 >[!Note]
-> Gebruikers migratie kan alleen worden uitgevoerd door [account beheerders](permissions-overview.md#manage-mpn-membership-and-your-company) van uw bedrijf. Als u de rol account beheerder niet hebt, kunt u een account beheerder vinden die u kan helpen bij het instellen van de gebruikers accounts met behulp van de wizard gebruikers migratie. De functionaliteit voor gebruikers migratie is vanaf 16 november 2020 beschikbaar.
+> Gebruikers migratie kan alleen worden uitgevoerd door [account beheerders](permissions-overview.md#manage-mpn-membership-and-your-company) van uw bedrijf. Als u de rol account beheerder niet hebt, kunt u een account beheerder vinden die u kan helpen bij het instellen van de gebruikers accounts met behulp van de wizard gebruikers migratie. De functie voor gebruikers migratie is beschikbaar vanaf november 18, 2020.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Afbeelding van de wizard gebruikers migratie.":::
 

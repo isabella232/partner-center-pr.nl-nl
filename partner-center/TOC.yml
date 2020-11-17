@@ -614,7 +614,7 @@
           href: advisor-create-a-purchase-offer.md
 - name: Gegevens en analyses in Partnercentrum
   items:
-    - name: Toegang krijgen tot gebruikersgegevens en -analyses
+    - name: Toegang tot abonnementsgegevens en -analyses
       href: data-analysis-lp.md
     - name: Analytics-app voor Power BI
       items:
@@ -628,7 +628,7 @@
       items:
         - name: Over Inzichten
           href: partner-center-insights.md
-          displayName: mpn
+          displayName: data
         - name: Inzichten voor op rollen gebaseerde toegang
           href: pci-roles.md
         - name: Rapporten over inzichten

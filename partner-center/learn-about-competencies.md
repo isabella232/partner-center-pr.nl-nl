@@ -1,7 +1,7 @@
 ---
 title: Micro soft Gold, Silver-competentie vereisten
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Leer hoe u de status van een elite micro soft partner kunt verdienen en nieuwe klanten kunt aantrekken door aan competentie vereisten te voldoen om Gold-en Silver-lidmaatschaps niveaus te verdienen.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92528725"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691330"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Onderscheiden van uw bedrijf door micro soft-competenties te bereiken
 
@@ -65,6 +65,10 @@ Zie [Microsoft Partner Network-competenties](https://partner.microsoft.com/membe
 
 - Meer informatie over het aanwijzen van uw expertise door een Gold-competentie te koppelen aan een of meer [Geavanceerde specials](advanced-specializations.md).
 
-- Meer informatie over specifieke [Go-to-Market-voor delen](mpn-learn-about-go-to-market-benefits.md) die zijn opgenomen in competenties.
+- Meer informatie over specifieke [Go-to-Market-resources](mpn-learn-about-go-to-market-benefits.md) die zijn opgenomen in competenties.
 
 - Meer informatie over [facturen en belastingen voor competenties](mpn-view-print-maps-invoice.md).
+
+- Bekijk een partner centrum Insights- [competentie rapport](pci-competencies-report.md) waarin de huidige status van uw competenties wordt weer gegeven.
+
+- Krijg antwoorden op [Veelgestelde vragen](competencies-faq.md) over competenties.

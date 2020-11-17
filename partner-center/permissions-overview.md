@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363619"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670147"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Gebruikers rollen en-machtigingen toewijzen aan gebruikers van een bedrijf die moeten werken in het partner centrum
 
@@ -130,7 +130,7 @@ Deze rollen zijn niet Azure Active Directory rollen. Deze rollen beheren het bed
 ## <a name="manage-referrals"></a>Verwijzingen beheren
 
 > [!Note]
->De nieuwe referrals gebruikersrol is beschikbaar vanaf 16de november 2020. Bestaande verwijzings beheerders behouden hun rollen bereik voor verwijzings beheerder voor het hele bedrijf.
+>De nieuwe referrals gebruikersrol is beschikbaar vanaf 18 november 2020. Bestaande verwijzings beheerders behouden hun rollen bereik voor verwijzings beheerder voor het hele bedrijf.
 
 |**Role** | **Wat u kunt doen**|**Meer informatie**
 |------------------------------|:-------------------------|---|
@@ -149,7 +149,7 @@ Deze rollen zijn niet Azure Active Directory rollen. Deze rollen beheren het bed
 
 In combi natie met de nieuwe referrals gebruikersrol maken we ook kennis met het bereik van de locatie voor deals. De volgende tabel geeft uitleg over de deals-toegang op basis van de locatie.
 
-|**Bereik** | **Wat u kunt doen** |
+|**Scope** | **Wat u kunt doen** |
 |------------------------------|:-------------------------|
 |Het hele bedrijf | Zowel beheerders als gebruikers hebben toegang tot het maken van deals voor elke locatie in het bedrijf|
 || Verwijzings beheerder heeft toegang om alle deals weer te geven en te bewerken |

@@ -1,7 +1,7 @@
 ---
 title: Geavanceerde specials verdienen
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Versterk uw bedrijfs profiel in de micro soft Partner Directory. Meer informatie over het verdienen van geavanceerde specials in combi natie met uw gouden en Silver competenties.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528804"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691381"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Verdien een geavanceerde specialisatie om expertise te presen teren
 
@@ -32,24 +32,25 @@ Met geavanceerde specials kunt u ook zichzelf onderscheiden aan klanten. Zodra u
 U kunt geavanceerde specials op twee belang rijke gebieden van deskundigheid verdienen:
 
 - Azure
-- Moderne werk plek en beveiliging
+- Modern werk en beveiliging
 
 Geavanceerde specials van **Azure** zijn:
 
-- Migratie van Windows-servers en SQL Server naar Microsoft Azure 
-- Virtueel bureau blad van micro soft Windows
-- Migratie van Linux en open source-data bases naar Microsoft Azure
-- Kubernetes op Microsoft Azure
 - Data Warehouse-migratie naar Microsoft Azure
-- SAP in Microsoft Azure
+- Kubernetes op Microsoft Azure
+- Migratie van Linux en open source-data bases naar Microsoft Azure
+- Virtueel bureau blad van micro soft Windows
 - Modernisering van webtoepassingen naar Microsoft Azure
+- SAP in Microsoft Azure
+- Migratie van Windows-servers en SQL Server naar Microsoft Azure
  
-De **moderne werk plek en geavanceerde beveiligingen** zijn onder andere:
+De geavanceerde specials van **moderne werk en beveiliging** omvatten:
 
-- Vergaderingen en Vergader zalen voor micro soft-teams
 - Acceptatie-en wijzigings beheer
-- Teamwork implementeren
 - Aanroepen voor micro soft teams
+- Vergaderingen en Vergader zalen voor micro soft-teams
+- Teamwork implementeren
+- Identiteits- en toegangsbeheer
 - Bedreigingsbeveiliging
  
 > [!NOTE]
@@ -63,7 +64,7 @@ Voor toegang tot dit gebied vanuit het partner centrum:
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
 
-2. Selecteer in de sectie MPN van het menu Partner Center **adv. specializes** . Het menu wordt uitgevouwen om alle Geavanceerd beschik bare specialisaties weer te geven.
+2. Selecteer in de sectie MPN van het menu Partner Center **adv. specializes**. Het menu wordt uitgevouwen om alle Geavanceerd beschik bare specialisaties weer te geven.
 
 3. Als u details wilt weer geven, selecteert u de naam van de geavanceerde specialisatie. U ziet specifieke vereisten en stappen, uw huidige status en koppelingen naar verdere stappen of resources.
 
@@ -79,44 +80,46 @@ Voor alle geavanceerde specials moet u een uitgelijnde Gold-competentie hebben b
 
 U moet een audit met een auditor van derden volt ooien voor de volgende geavanceerde specials van Azure:
 
-- Migratie van Windows-servers en SQL Server naar Microsoft Azure
-- Migratie van Linux en open source-data base naar Microsoft Azure
 - Data Warehouse-migratie naar Microsoft Azure
 - Kubernetes op Microsoft Azure
-- Modernisering van webtoepassingen naar Microsoft Azure
+- Migratie van Linux en open source-data base naar Microsoft Azure
 - Virtueel bureau blad van micro soft Windows
+- Modernisering van webtoepassingen naar Microsoft Azure
+- Migratie van Windows-servers en SQL Server naar Microsoft Azure
 
 ### <a name="audit-example-in-partner-center"></a>Voor beeld van een controle in het partner centrum
 
-Als u geïnteresseerd bent in de geavanceerde specialisatie **van webtoepassingen op Microsoft Azure** , selecteert u deze in het menu van het partner centrum. U gaat naar de pagina vereisten.
+Als u geïnteresseerd bent in de geavanceerde specialisatie **van webtoepassingen op Microsoft Azure**, selecteert u deze in het menu van het partner centrum. U gaat naar de pagina vereisten.
 
 :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Een voor beeld van een pagina met vereisten voor het verdienen van een actief Gold-competentie voor het Cloud platform.":::
 
 Totdat u aan alle vereisten voldoet, blijft uw status **niet gestart.**
 Zodra u aan de vereisten voldoet, is de knop **controle plannen** ingeschakeld.
 
-Nadat u alle vereisten hebt voltooid, verandert de status in **actief** . Met de status actief wordt automatisch een geavanceerde specialisatie code voor uw **bedrijfs profiel** ingeschakeld. Dit profiel is zichtbaar voor alle klanten die proberen [een oplossings provider te vinden](https://www.microsoft.com/solution-providers/home).
+Nadat u alle vereisten hebt voltooid, verandert de status in **actief**. Met de status actief wordt automatisch een geavanceerde specialisatie code voor uw **bedrijfs profiel** ingeschakeld. Dit profiel is zichtbaar voor alle klanten die proberen [een oplossings provider te vinden](https://www.microsoft.com/solution-providers/home).
 
 ## <a name="prerequisites-that-include-customer-references---an-example"></a>Vereisten die klant verwijzingen bevatten: een voor beeld
 
 U hebt klant verwijzingen nodig voor de volgende geavanceerde specials:
 
-- SAP op Azure
+
 - Acceptatie-en wijzigings beheer
-- Teamwork implementeren
 - Aanroepen voor micro soft teams
 - Vergaderingen en Vergader ruimtes
+- SAP op Azure
+- Teamwork implementeren
+- Identiteits- en toegangsbeheer
 - Bedreigingsbeveiliging
 
 ### <a name="customer-reference-example-in-partner-center"></a>Voor beeld van klant referentie in partner centrum
 
-Een voor beeld van een geavanceerde specialisatie waarvoor klant verwijzingen vereist is, is **vergaderingen en Vergader zalen voor micro soft-teams** .
+Een voor beeld van een geavanceerde specialisatie waarvoor klant verwijzingen vereist is, is **vergaderingen en Vergader zalen voor micro soft-teams**.
 
 Naast Gold-competentie, certificeringen en een prestatie vereiste, moet u drie klant verwijzingen leveren die aantonen dat u de mogelijkheid hebt om te implementeren en te beheren.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Een voor beeld van een pagina met vereisten voor het verdienen van een actief Gold-competentie voor het Cloud platform.":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Voor beeld van de pagina met voor waarden van geavanceerde specialisatie waarvoor klant verwijzingen zijn vereist.":::
 
-Totdat u aan alle vereisten voldoet, blijft uw status **niet gestart.** Zodra u alle vereisten hebt voltooid, verandert de status in **actief** . Met de status actief wordt automatisch een geavanceerde specialisatie code voor uw **bedrijfs profiel** ingeschakeld. Dit profiel is zichtbaar voor alle klanten die proberen [een oplossings provider te vinden](https://www.microsoft.com/solution-providers/home).
+Totdat u aan alle vereisten voldoet, blijft uw status **niet gestart.** Zodra u alle vereisten hebt voltooid, verandert de status in **actief**. Met de status actief wordt automatisch een geavanceerde specialisatie code voor uw **bedrijfs profiel** ingeschakeld. Dit profiel is zichtbaar voor alle klanten die proberen [een oplossings provider te vinden](https://www.microsoft.com/solution-providers/home).
 
 ## <a name="next-steps"></a>Volgende stappen
 

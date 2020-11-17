@@ -1,7 +1,7 @@
 ---
-title: Verg root de acceptatie en tevredenheid
+title: Acceptatie en tevredenheid verhogen
 ms.topic: how-to
-ms.date: 07/21/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over het gebruik van metrische gegevens in Partner Center. Met metrische gegevens kan worden aangegeven of uw bedrijf groeit, hoe klanten hun licenties gebruiken en waar ze zich richten op investeringen.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92528125"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691364"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Metrische gegevens gebruiken in het partner centrum om de aanneming en tevredenheid te verg Roten
 
@@ -49,7 +49,7 @@ U kunt licentie-en gebruikers gegevens voor één klant of in uw port Folio vind
 
 3. Kies een klant.
 
-4. Selecteer **klant inzichten** .
+4. Selecteer **klant inzichten**.
 
 ### <a name="find-license-and-user-data-across-your-portfolio"></a>Licentie-en gebruikers gegevens in uw port Folio zoeken
 
@@ -67,7 +67,7 @@ Terminologie:
 
 - **Implementatie%** = toegewezen licenties/verkochte licenties
 
-- **Gebruik%** = actieve rechten/totale rechten
+- **Gebruik%** = actieve gebruikers/totaal aantal gebruikers
 
    Soms is het gebruik% oneffen of groter dan 100%. Dit kan gebeuren om verschillende redenen:
 
@@ -85,17 +85,17 @@ Als u een groot aantal Help-en instructies met betrekking tot vragen hebt, zijn 
 
 ### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Nadenken over het verbeteren van de acceptatie en het gebruik van klanten-een paar scenario's
 
-**Probleem** : het acceptatie tempo van de gebruiker is laag en er zijn veel licenties die niet worden gebruikt.
+**Probleem**: het acceptatie tempo van de gebruiker is laag en er zijn veel licenties die niet worden gebruikt.
 
-**Wat u kunt overwegen** : klanten begrijpen mogelijk niet de waarde die de software kan leveren. Ze moeten helpen bij het maken van de manier waarop ze deze kunnen opnemen in hun dag om taken te vereenvoudigen die ze al uitvoeren, of om nieuwe soorten productiviteit in te scha kelen.
+**Wat u kunt overwegen**: klanten begrijpen mogelijk niet de waarde die de software kan leveren. Ze moeten helpen bij het maken van de manier waarop ze deze kunnen opnemen in hun dag om taken te vereenvoudigen die ze al uitvoeren, of om nieuwe soorten productiviteit in te scha kelen.
 
 **Wat u kunt** doen: casestudy's, gebruikers ervaringen over specifieke scenario's, zelf studie blogs of Video's.
 
-**Probleem** : er is een groot aantal ondersteunings oproepen voor hulp en vragen.
+**Probleem**: er is een groot aantal ondersteunings oproepen voor hulp en vragen.
 
-**Wat u kunt overwegen** : klanten kunnen nieuw zijn in de software, de product versie of hun taak.
+**Wat u kunt overwegen**: klanten kunnen nieuw zijn in de software, de product versie of hun taak.
 
-**Wat u moet proberen** : u kunt een dubbele strategie voor het bieden van een training (persoonlijk of online) gebruiken om de algemene expertise van klanten te verhogen, terwijl u ook een aantal selfservice opties aanbiedt die voor klanten beschikbaar zijn.
+**Wat u moet proberen**: u kunt een dubbele strategie voor het bieden van een training (persoonlijk of online) gebruiken om de algemene expertise van klanten te verhogen, terwijl u ook een aantal selfservice opties aanbiedt die voor klanten beschikbaar zijn.
 
 Mogelijk wilt u uw ondersteunings site opnieuw ontwerpen om ook de selfservice opties te omvatten die worden beschreven in [Customer self-support,](customer-self-support.md) naast uw contact gegevens voor ondersteuning.
 
