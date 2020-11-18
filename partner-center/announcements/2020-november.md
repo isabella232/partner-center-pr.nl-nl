@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1e6002354323d2c528cbf32271144bbf61d40ac8
+ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691296"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94845336"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
@@ -23,6 +23,128 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft par
 2020 aankondigingen: [april](2020-april.md)juni tot en met september tot en met  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md) | Maand
 
 ______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Verbeteringen in het partner centrum-API en gebruikers interface (UI) voor het versterken van klant controle in bepaalde landen
+
+### <a name="categories"></a>Categorieën
+
+- Datum 2020-11-17
+- Mogelijkheden | Verbeterde klant controle
+
+### <a name="impacted-audience"></a>Doel groep
+
+Directe factuur partners of indirecte providers die deel nemen aan het programma van de Cloud Solution Provider (CSP) die nieuwe of bestaande klanten hebben in de volgende landen:
+
+- Armenië (AM)
+- Azerbeidzjan (AZ)
+- Belarus (per)
+- Hongarije (HU)
+- Kazachstan (KZ)
+- Kirgizië (KG)
+- Moldavië (MD)
+- Rusland (RU)
+- Tadzjikistan (TJ)
+- Oezbekistan (UZ)
+- Oekraïne (UA)
+
+### <a name="summary"></a>Samenvatting
+
+Als onderdeel van de voortdurende toezeg ging van micro soft voor klanten en partners rond de naleving van zakelijke prak tijken, zullen sommige partners met klanten in bepaalde landen nu worden gevraagd om een paar extra gegevens velden over deze klanten te volt ooien wanneer de partner de volgende keer probeert om een bestaand klant abonnement bij te werken of een nieuw abonnement voor een nieuwe klant te maken. 
+
+### <a name="details"></a>Details
+
+Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode voor klant validatie te bieden voor het handelen van klant abonnementen in het CSP-programma. Als onderdeel van deze inspanning hebben we partner Center-API en UI-verbeteringen geïntroduceerd die van invloed zijn op partners die aan alle volgende criteria voldoen: 
+
+- De partner heeft een directe facturerings relatie met micro soft (zoals een directe factuur partner of een indirecte provider); maar
+
+- De partner doet zaken met nieuwe of bestaande klanten in de volgende landen: Armenië (AM), Azerbeidzjan (AZ), Belarus (BY), Hongarije (HU), Kazachstan (KZ), Kirgizië (KG), Moldavië (MD), Rusland (RU), Tadzjikistan (TJ), Oezbekistan (UZ) en Oekraïne (UA) 
+
+Voor dergelijke partners met een klant in deze landen is de partner nu verplicht om de **juridische id** van de specifieke klant in te dienen (ook wel bekend als de **organisatie-Inn** van de klant) en het **telefoon nummer** van de klant wanneer de partner een abonnement voor die klant probeert bij te werken of te maken. Deze partners kunnen nu ook een optionele, **middelste naam** invoeren voor de klant.
+
+### <a name="partner-center-enhancements"></a>Verbeteringen in het partner centrum
+
+- Verbeteringen van de gebruikers interface van partner Center om de validatie van klanten in specifieke landen te verbeteren
+
+- Nieuwe Api's ter ondersteuning van verbeterde validatie van klanten in specifieke landen
+
+**Wijzigingen in de gebruikers interface van het partner centrum-klant account**
+
+De pagina klant account van partner Center is als volgt bijgewerkt:
+
+1. **Organisatie-Inn** (ook wel bekend als de juridische id). Dit veld is nu vereist voor klanten in specifieke landen. 
+
+   > [!NOTE]
+   > Gegevens moeten alleen in alfanumerieke tekens worden ingevoerd, zonder afbreek streepjes, speciale tekens of spaties. Partners moeten samen werken met hun klant contact in deze landen om de status van de juridische id van de klant te bevestigen, zoals hun BTW-ID of INN nummer. Zie de volgende tabel voor meer landspecifieke informatie.  
+
+2. **Middelste naam.** Dit veld is optioneel voor alle klanten. Als u de tweede voor naam of het eerste van de klant kent, kan de partner deze hier invoeren.
+
+3. **Telefoon nummer.** Dit veld was eerder optioneel, maar is nu vereist voor klanten in specifieke landen.  
+
+Het veld vereisten voor de landspecifieke **organisatie-Inn** (juridische id) worden hieronder weer gegeven.
+
+| Land/regio | A14-Area | ISO-land code | Vereisten voor veld tekens | Landspecifieke veld naam in systeem eigen taal | Engelse vertaling of opmerkingen |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| Armenië | CEE      | AM               | 8 of 10 cijfers         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/openbaar service nummer                     |
+| Azerbeidzjan| CEE      | AZ               | 7 of 10 cijfers         | :::no-loc text="ИНН/VOEN/ПИК"::: | TIN/INN/PIC              |
+| Belarus | CEE      | BY               | 9 cijfers         | :::no-loc text="УНП"::: | UNP (dit betekent belasting-ID)                    |
+| Hongarije | CEE      | HU               | 10 of 11 cijfers         | :::no-loc text="TIN"::: | TIN (belasting-ID)                     |
+| Kazachstan | CEE      | KZ              | 12 cijfers         | :::no-loc text="БИН/ИИН"::: | BIN-IIN                     |
+| Kirgistan | CEE      | KG               | 14 cijfers         | :::no-loc text="ИНН"::: | UNN/openbaar service nummer                     |
+| Moldavië  | CEE        | MD               | 6, 7, 8 of 13 cijfers         | :::no-loc text="IDNO/IDNP"::: | De unieke status-ID (IDNO) die aan de juridische entiteit is toegewezen, wordt ook als fiscale code gevormd. \"Staat REGI ster van wettelijke eenheden met betrekking tot bedrijven die zijn geregistreerd in de Republiek Moldavië, gepubliceerd door het ministerie van informatie-en communicatie technologie in de gouvernementele portal van open data data.gov.md.\"                    |
+| Rusland | CEE      | RU               | 9, 10 of 12 cijfers         | :::no-loc text="ИНН"::: | INN                     |
+| Tadzjikistan | CEE      | TJ               | 9, 10 of 12 cijfers     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/EIN/KPP                     |
+| Oezbekistan | CEE     | UZ               | 9 cijfers                 | :::no-loc text="INN":::         | INN                               |
+| Oekraïne   | CEE      | UA               | 8, 10 of 12 cijfers      | :::no-loc text="EGRPOU/EDRPOU":::        | Identificatie code van een rechts persoon                             | 
+
+**Wijzigingen in de partner centrum-API**
+
+De volgende contract wijzigingen worden aangebracht in de partner centrum-API. Deze wijzigingen zijn beperkt tot partners die klant accounts beheren in de eerder genoemde landen.
+
+> [!NOTE]
+> Als u een partner bent die een strikte interpretatie van het JSON-antwoord van het partner centrum gebruikt, kan dit van invloed zijn op deze wijzigingen als updates niet aan uw einde zijn voltooid. JSON is geen aanbevolen integratie met partner Center-Api's.
+
+| Updates voor REST-resources | Documentatie voor gerelateerde Partner Center |
+|---------------------------|-----------------------|
+| Nieuw vereist veld: organizationRegistrationNumber | - [Een klant maken](/partner-center/develop/create-a-customer#company-profile)<br/>- [Een klant voor een indirecte wederverkoper maken](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [Klant resources](/partner-center/develop/customer-resources#customercompanyprofile) |
+| Het bijgewerkte veld is nu vereist: PhoneNumber<br/>Optioneel veld: middelste naam | - [Hulpprogramma bronnen](/partner-center/develop/utility-resources#address) |
+| Nieuwe onjuiste aanvraag REST-fout codes: 600002, 600049, 600050, 600051 | - [REST-fout codes van het partner centrum](/partner-center/develop/error-codes#error-codes) |
+
+*Voorgesteld extern contract voor klanten:*
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Wijzigingen in de facturerings valuta van de partner van de EU/EVA voor nieuwe Commerce aanbiedingen.  
 
 ### <a name="categories"></a>Categorieën
@@ -146,8 +268,15 @@ Bekijk de [richt lijnen](https://docs.microsoft.com/partner-center/develop/api-t
 - Wij vragen u om de partners te helpen bij het testen door hun tenants toe te voegen aan een vlucht met de wijzigingen zodat de update van de oplossing naar verwachting werkt.
 
 
+### <a name="next-steps-for-partners"></a>Volgende stappen voor partners
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testen beschikbaar: verbeteringen in het partner centrum-API en de gebruikers interface (UI) voor het onderwijs klant validatie proces
+- Bekijk deze nieuwe gebruikers interface en API-wijzigingen van het partner centrum. Wanneer u de volgende keer probeert om een klant abonnement te maken of een bestaand abonnement voor een klant bij een van deze landen bij te werken, controleert u de account gegevens van de klant om ervoor te zorgen dat u gegevens hebt toegevoegd aan de twee nieuwe, verplichte velden voor die klant: organisatie INN (juridische id) en telefoon nummer. U kunt deze informatie bijwerken via het Partner Center- [dash board](https://partner.microsoft.com/dashboard) of via partner Center- [api's](/partner-center/develop/create-a-customer#company-profile).
+
+- Deel deze informatie met de juiste teams binnen uw organisatie om ze voor te bereiden op deze wijzigingen.
+
+
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testen beschikbaar: de verbeteringen van de Partner Center API en de gebruikers interface (UI) voor het onderwijs klant validatie proces
 
 ### <a name="categories"></a>Categorieën
 
@@ -250,14 +379,14 @@ Met de Premium-aanbieding hebben klanten toegang tot de nieuw gepubliceerde micr
 
    |****|**Micro soft teams kamers Standard USD15-apparaat per maand**|**Micro soft teams kamers Premium USD50-apparaat per maand**|
    |-------------------|:------|:------|
-   |Skype voor Bedrijven|Ja| |
+   |Skype voor Bedrijven|Yes| |
    |Microsoft Teams|Ja|Ja|
    |Telefoon systeem|Ja|Ja|
    |Audio vergaderingen|Ja|Ja|
    |Microsoft Intune|Ja|Ja|
    | |Micro soft teams-kamers standaard USD15 per apparaat per maand|Micro soft teams kamers Premium USD50 per apparaat per maand|
-   |Beheerde services van micro soft teams-kamers| |Ja|
-   |Wereld wijde Beschik baarheid|Ja|In geselecteerde markten|
+   |Beheerde services van micro soft teams-kamers| |Yes|
+   |Wereld wijde Beschik baarheid|Yes|In geselecteerde markten|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Beheerde services van micro soft teams-kamers
 
