@@ -611,7 +611,7 @@ Deze aanbiedingen zijn van invloed op de volgende klanten:
 - Net nieuwe klant tenants
 - Bestaande tenants van klanten die geen actieve of recent geannuleerde abonnement hebben (binnen de laatste 30 dagen) bij een zakelijke Voice-of audio conferencing-licentie op CSP, Web direct of een ander micro soft-commercieel kanaal
 
-#### <a name="additional-resources"></a>Aanvullende resources
+#### <a name="additional-resources"></a>Aanvullende bronnen
 
 - Ga naar de [pagina Microsoft 365 Business Voice-partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) voor meer informatie over zakelijke Voice. 
 - Meer informatie over deze promotie vindt u in de [Veelgestelde vragen](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)over gerelateerde partners.
