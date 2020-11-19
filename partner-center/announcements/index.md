@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488122"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691313"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,9 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **November 2020-aankondigingen** | **Aangekondigd** |
 |---------|:---------|:---------|
+|Functionaliteit|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2020-november.md#10)|17 november|
+|Functies|[API-beperking voor Partner Center-API's](2020-november.md#9)|17 november|
+|Functies|[409 fouten vanwege dubbele MCA-aanvragen](2020-november.md#8)|16 november|
 |Functionaliteit|[Testen beschikbaar: API-updates en verbeteringen van de gebruikersinterface (UI) in Partnercentrum, voor het validatieproces voor Education-klanten](2020-november.md#7)|10 november|
 |Functionaliteit|[Inhoud van commerciële licentiepartners uitbreiden in de galerie voor operationele gereedheid](2020-november.md#6)|2 november|
 |Aanbiedingen/markten|[Lancering van de Premium-SKU voor Microsoft Teams-ruimten](2020-november.md#5)|2 november|
