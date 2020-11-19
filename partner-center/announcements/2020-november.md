@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
-ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
+ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 11/19/2020
-ms.locfileid: "94885591"
+ms.locfileid: "94932817"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
@@ -23,6 +23,43 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft par
 2020 aankondigingen: [april](2020-april.md)juni tot en met september tot en met  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md) | Maand
 
 ______________
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nieuwe, geïntegreerde account beheer ervaring
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-11-18
+- Functies
+
+## <a name="summary"></a>Samenvatting
+
+Vanaf 18 november zal het partner centrum de nieuwe account beheer ervaring implementeren waarmee de gebruikers ervaring voor partners wordt verbeterd. Partners kunnen nu hun account voor alle Program ma's beheren via instellingen-> account instellingen.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners
+
+### <a name="details"></a>Details
+
+De sleutel wijziging in account beheer is de integratie van de vorige weer gave van de **partner instellingen** voor partners die zijn Inge schreven bij commerciële Program ma's (Microsoft Partner Network, Cloud solution provider, verwijzingen, enzovoort) en **ontwikkelaars instellingen** weer geven voor partners die zijn Inge schreven bij ontwikkel programma's (commerciële Marketplace, Windows & Xbox, enzovoort) in een weer gave met instellingen voor Unified **account** .
+
+### <a name="entry-point"></a>Ingangs punt
+
+Meld u aan bij het dash board van het partner centrum, selecteer het pictogram  **instellingen**   en klik op **account instellingen**. U moet niet langer kiezen tussen partners en ontwikkel aars, omdat alle profielen en instellingen nu worden gecombineerd.
+
+### <a name="left-navigation-hierarchy"></a>Navigatie hiërarchie links
+
+- Organisatie profiel
+   - Juridisch beheer van uw juridische bedrijfs profiel, partner profiel en bedrijfs locaties.
+   - Tenants: al uw gegevens over uw Azure AD-tenants, commercieel en ontwikkelaar, worden hier bijgehouden.
+   - Id's-partner centrum-identiteiten voor uw bedrijf-MPNID, publisherId, etc
+- Gebruikers beheer: beheer uw gebruikers en wijs deze commerciële en ontwikkelaars rollen vanaf één plek toe. U kunt hier ook groepen en Azure AD-toepassingen beheren.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Deel deze informatie met alle relevante contact personen in uw bedrijf.
+
+
+
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 voor Mid-Market promoties (LATAM, APAC en India)
 
@@ -303,6 +340,7 @@ Bekijk de [richt lijnen](https://docs.microsoft.com/partner-center/develop/api-t
 - Deel deze informatie met de juiste teams binnen uw organisatie om ze voor te bereiden op deze wijzigingen.
 
 
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testen beschikbaar: de verbeteringen van de Partner Center API en de gebruikers interface (UI) voor het onderwijs klant validatie proces
 

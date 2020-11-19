@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
-ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
+ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "92528857"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932838"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>De voor delen en aanbiedingen van uw Microsoft Partner Network lidmaatschap beheren in het partner centrum
 
@@ -43,7 +43,7 @@ Nadat u een lidmaatschaps voordeel pakket hebt aangeschaft, moet u software sleu
 
 Voor delen pakketten zijn onder andere toewijzingen van gelicentieerde software, Cloud Services, Visual Studio-abonnementen en technische ondersteuning. Voor delen van pakketten kunnen ook bepaalde go-to-Market-bronnen,-aanbiedingen en marktgerelateerde Program ma's omvatten. U kunt Action Pack abonnements gegevens ophalen op de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) -site.  
 
-Als u al uw lidmaatschaps voordelen wilt weer geven en beheren, gaat u naar uw [pagina **vergoedingen**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (aanmelden vereist). U kunt zich ook aanmelden bij het [dash board](https://partner.microsoft.com/dashboard)van het partner centrum, de **optie [voor delen** ] selecteren in het menu links en vervolgens de opties voor voor delen selecteren die worden weer gegeven.  
+Als u al uw lidmaatschaps voordelen wilt weer geven en beheren, gaat u naar uw [pagina **vergoedingen**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (aanmelden vereist). U kunt zich ook aanmelden bij het [dash board](https://partner.microsoft.com/dashboard)van het partner centrum, de **optie [voor delen**] selecteren in het menu links en vervolgens de opties voor voor delen selecteren die worden weer gegeven.  
 
 Voor het activeren van de meeste voor delen of het downloaden van gerelateerde software sleutels, enzovoort, vereist het partner centrum meestal dat iemand de rol van de beheerder van de globale beheerder of de MPN-partner heeft toegewezen. Neem contact op met de globale beheerder van uw partner centrum om te controleren of u over de juiste machtigingen beschikt, als u geen voor delen kunt zien of als u de voor delen niet kunt activeren. [Meer informatie over Partner Center-rollen](permissions-overview.md).
 
@@ -63,15 +63,34 @@ Voor het activeren van de meeste voor delen of het downloaden van gerelateerde s
 
    d. Volg de koppelingen om de software-installatie pakketten te downloaden en te installeren.
 
-## <a name="manage-cloud-services-benefits"></a>Voor delen van Cloud Services beheren
+## <a name="azure-and-cloud-products"></a>Azure-en Cloud producten
 
-1. Selecteer **Cloud** om uw lijst met abonnementen op Cloud Services weer te geven.
+Het tabblad **Azure & Cloud producten** bevat de op gebruik gebaseerde abonnementen (Azure-tegoed) en de op licenties gebaseerde abonnementen (zoals Office 365) die u voor u hebt ingericht, de licentie hoeveelheid voor elk product, het type aanbieding dat is ingericht voor het product dat bij u in aanmerking komt, het type van de vergoeding (of het van kernen of incrementeel is) en de verval datum van het
 
-2. Zoek het abonnement of product dat u wilt gebruiken en selecteer vervolgens de pijl-omlaag aan de rechter kant van de rij om de details van het abonnement of het product uit te breiden.
+:::image type="content" source="images/benefits/azuretab.png" alt-text="Het tabblad Azure en Cloud producten":::
 
-3. Als u Microsoft Azure op gebruik gebaseerde abonnementen wilt activeren, moet u zichzelf als gebruiker toewijst. Ga naar de Microsoft Azure-portal om het abonnement te beheren.
+### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>Op gebruik gebaseerde abonnementen-Microsoft Azure tegoed
 
-   Als u abonnementen op basis van licenties wilt activeren, selecteert u **sleutels ophalen** om de product licentie sleutel (s) te kopiëren en voert u een speciale instructies uit om het abonnement te activeren.  
+Er zijn twee soorten op gebruik gebaseerde abonnementen die u zou kunnen ontvangen, afhankelijk van het type aanbieding dat u hebt geactiveerd als een MPN partner-kaarten, zilver en/of goud – maandelijks tegoed of een tegoed.
+
+U kunt het volgende inrichten:
+
+- $100/maand (of equivalent in lokale valuta) Azure maandelijks tegoed of/en
+- $6000, $12000 of/en $13000/jaar (of elk daarvan is equivalent in de lokale valuta) Azure bulk tegoed
+
+Als u een Microsoft Azure-abonnement in het partner centrum wilt activeren, moet u toegang toewijzen aan een gebruiker binnen het bedrijf (inclusief gast gebruikers), die een gebruikers vermelding heeft die in uw Azure Active Directory is gemaakt.
+Voor de $100/maand (of een equivalent in de lokale valuta) kunt u op elk gewenst moment gebruikers toevoegen aan of verwijderen uit dit abonnement. 
+
+Voor de credit van Azure bulk (jaarlijks) is de optie verwijderen niet beschikbaar in partner centrum, maar u kunt het tegoed tijdens het registratie jaar overzetten naar iemand anders. Een credit abonnement van Azure bulk (jaarlijks) kan niet worden gecombineerd met andere licenties, vooraf betaalde of tegoed aanbiedingen (zoals micro soft Enterprise Agreement, Cloud Solution partner, Azure in Open, Azure Pass, Action Pack, enzovoort).
+
+## <a name="license-based-subscriptions"></a>Abonnementen op basis van licenties
+
+In het gedeelte op licenties gebaseerde abonnementen van het tabblad Azure & Cloud Products vindt u alle Cloud producten waarvoor een product code voor activering is vereist, zoals micro soft O365, micro soft Dynamics, Microsoft Intune, Azure AD Basic, Power BI, enzovoort. deze worden aan u aangeboden, afhankelijk van het type aanbieding dat u hebt geactiveerd als een MPN-partner, zilver of goud.
+
+Als u de abonnementen op basis van licenties wilt activeren, klikt u op het vervolg keuzemenu in een regel met het product van belang en leest u de instructies voor het inwisselen van de sleutels. Zodra u de instructies hebt gelezen, selecteert u de koppeling waarmee u wordt omgeleid naar de portal voor het inwisselen van sleutels en de toegewezen sleutel voor uw product.
+
+>[!IMPORTANT]
+>Wanneer een sleutel wordt ingewisseld, kan dezelfde sleutel niet een tweede keer worden ingewisseld. Zorg er dus voor dat u weet of u meer licenties (seats) wilt toevoegen of de eind datum wilt verlengen. Als u ervoor kiest om meer licenties toe te voegen en de eind datum niet uitbreiden, krijgt u een actief abonnement van minder dan 12 maanden. Zorg ervoor dat u bent aangemeld met de juiste referenties om de sleutels op de juiste Tenant te activeren.
 
 ## <a name="manage-visual-studio-subscriptions"></a>Visual Studio-abonnementen beheren
 
@@ -79,10 +98,10 @@ Voor het activeren van de meeste voor delen of het downloaden van gerelateerde s
 
 2. Zoek het abonnement dat u wilt gebruiken en selecteer vervolgens de pijl-omlaag aan de rechter kant van de rij om de details van het abonnement uit te vouwen.
 
-3. Als u een Visual Studio-abonnement wilt activeren, selecteert u een gebruiker in de lijst en selecteert u **gebruiker toewijzen** .
+3. Als u een Visual Studio-abonnement wilt activeren, selecteert u een gebruiker in de lijst en selecteert u **gebruiker toewijzen**.
 
    > [!IMPORTANT]  
-   > Als de gebruiker die u wilt toewijzen, zich niet in de lijst bevindt, kunt u [nieuwe gebruikers toevoegen](create-user-accounts-and-set-permissions.md) in **account instellingen** .
+   > Als de gebruiker die u wilt toewijzen, zich niet in de lijst bevindt, kunt u [nieuwe gebruikers toevoegen](create-user-accounts-and-set-permissions.md) in **account instellingen**.
 
 4. Herhaal dit proces voor elk abonnement dat u wilt toewijzen. Gebruikers kunnen hun abonnementen beheren in de Visual Studio-Portal.
 
@@ -97,13 +116,13 @@ Ga als volgt te werk om uw technische voor delen te bekijken in Partner Center:
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
 
-2. Selecteer **voor delen** , vervolgens de **technische voor delen** van het navigatie menu aan de linkerkant. De pagina technische voor delen wordt weer gegeven met een lijst met technische ondersteunings voordelen die beschikbaar zijn voor uw goud, zilver of micro soft Action Pack competenties.
+2. Selecteer **voor delen**, vervolgens de **technische voor delen** van het navigatie menu aan de linkerkant. De pagina technische voor delen wordt weer gegeven met een lijst met technische ondersteunings voordelen die beschikbaar zijn voor uw goud, zilver of micro soft Action Pack competenties.
 
    Als u deze opties of de pagina technische voor delen niet ziet, hebt u mogelijk niet de juiste [gebruikers rollen](permissions-overview.md) toegewezen in partner centrum. Neem contact op met de globale beheerder van uw partner centrum om toegang te krijgen.
 
 3. Vouw de lijst met voor delen uit. Als u aan de slag wilt met een specifiek ondersteunings voordeel, moet u het volgende doen wanneer u deze voor het eerst gebruikt:
 
-   - **Activeer het technische voor deel.** Nadat u de details van een voor deel hebt uitgebreid, selecteert u **activeren** . Wacht enkele dagen om uw activerings aanvraag te verwerken.
+   - **Activeer het technische voor deel.** Nadat u de details van een voor deel hebt uitgebreid, selecteert u **activeren**. Wacht enkele dagen om uw activerings aanvraag te verwerken.
 
    - **De toegangs-ID en contract-ID van product ondersteuning weer geven en delen.** Nadat uw activerings aanvraag is verwerkt, worden de gegevens over de **toegangs-id** en de **contract-id** de volgende keer dat u dat technisch voor deel uitbreidt, weer geven. U of de gebruikers van uw bedrijf moeten deze informatie mogelijk delen wanneer u voor het eerst een ondersteunings aanvraag indient voor bepaalde soorten producten of services.
 
@@ -113,7 +132,7 @@ Ga als volgt te werk om uw technische voor delen te bekijken in Partner Center:
 
    **Technische ondersteuning (oplossen).** Gebruik dit type technische ondersteuning wanneer de functionaliteit wordt verbroken of wanneer iets niet werkt zoals verwacht (bijvoorbeeld wanneer er een fout bericht wordt weer gegeven). Hier volgt een aantal richt lijnen:
 
-   - Voor Gold/Silver-competentie-partners (niet beschikbaar voor Action Pack abonnees) gebruikt u **hand tekening product ondersteuning** voor **Cloud producten** .
+   - Voor Gold/Silver-competentie-partners (niet beschikbaar voor Action Pack abonnees) gebruikt u **hand tekening product ondersteuning** voor **Cloud producten**.
 
    - Gebruik **micro soft product support** incidenten voor **recente on-premises producten** (alleen huidige en vorige versies) voor zowel Action Pack als Gold/Silver-competentie partners.
 
@@ -137,22 +156,22 @@ Ga als volgt te werk om uw technische voor delen te bekijken in Partner Center:
 
 2. Als u een go-to-Market-aanbieding of programma wilt activeren, moet u eerst een bedrijfs marketing contact toewijzen. Deze contact persoon ontvangt opvolgings communicatie over uw actieve go-to-Market-aanbiedingen.
 
-3. Als u uw contact gegevens voor marketing wilt toevoegen of bijwerken, gaat u naar de pagina go-to-Market en selecteert u vervolgens **toevoegen** , **bijwerken** of **wijzigen** . Voer nu de volgende stappen uit:  
+3. Als u uw contact gegevens voor marketing wilt toevoegen of bijwerken, gaat u naar de pagina go-to-Market en selecteert u vervolgens **toevoegen**, **bijwerken** of **wijzigen**. Voer nu de volgende stappen uit:  
 
-   a. Selecteer een gebruiker uit de lijst. Als de gebruiker die u wilt toewijzen, zich niet in de lijst bevindt, kunt u [nieuwe gebruikers toevoegen](create-user-accounts-and-set-permissions.md) in **account instellingen** .
+   a. Selecteer een gebruiker uit de lijst. Als de gebruiker die u wilt toewijzen, zich niet in de lijst bevindt, kunt u [nieuwe gebruikers toevoegen](create-user-accounts-and-set-permissions.md) in **account instellingen**.
 
    b. Geef een e-mail adres op voor de gebruiker die afwijkt van het e-mail adres dat is gekoppeld aan het partner centrum-account van uw bedrijf.
 
       We sturen instructies voor het gebruik van uw Go-to-Market-aanbieding naar het e-mail adres van de aangewezen marketing contact persoon.
 
-   c.  Geef het telefoonnummer en de voorkeurstaal van de contactpersoon voor deze marketing-contactpersoon op. Wanneer u klaar bent met het invoeren van deze gegevens, selecteert u **Gebruiker toewijzen** .
+   c.  Geef het telefoonnummer en de voorkeurstaal van de contactpersoon voor deze marketing-contactpersoon op. Wanneer u klaar bent met het invoeren van deze gegevens, selecteert u **Gebruiker toewijzen**.
 
-4. Nadat u uw marketing contactpersoon hebt bijgewerkt, kunt u de go-to-Market-aanbieding vinden die u wilt gaan gebruiken. vervolgens selecteert u de pijl-omlaag aan de rechter kant van de rij om de details van de aanbieding uit te breiden. In de lijst wordt elk type aanbieding weer gegeven dat onder de naam van de voor waarde beschikbaar is (zoals, **zilver kernen** , **goud kernen** en **ISV-samen verkoop is klaar** ).
+4. Nadat u uw marketing contactpersoon hebt bijgewerkt, kunt u de go-to-Market-aanbieding vinden die u wilt gaan gebruiken. vervolgens selecteert u de pijl-omlaag aan de rechter kant van de rij om de details van de aanbieding uit te breiden. In de lijst wordt elk type aanbieding weer gegeven dat onder de naam van de voor waarde beschikbaar is (zoals, **zilver kernen**, **goud kernen** en **ISV-samen verkoop is klaar**).
 
 5. Selecteer **activeren** om de aanbieding te activeren.
 
    > [!NOTE]
-   >Het kan enkele dagen duren om e-mail instructies aan de toegewezen marketing contactpersoon te sturen en een go-to-Market-aanbieding te activeren. Zodra de aanbieding is geactiveerd, worden wijzigingen op de pagina go-to-Market weer geven. In de kolom **status** ziet u dat de aanbieding wordt gewijzigd in **actief** . In de kolom **Expires** ziet u de datum waarop de aanbieding verloopt. U kunt deze aanbieding gebruiken tot de verval datum. Meer informatie over de [verschillende soorten go-to-Market-bronnen,-aanbiedingen en-Program ma's](mpn-learn-about-go-to-market-benefits.md) die beschikbaar zijn.  
+   >Het kan enkele dagen duren om e-mail instructies aan de toegewezen marketing contactpersoon te sturen en een go-to-Market-aanbieding te activeren. Zodra de aanbieding is geactiveerd, worden wijzigingen op de pagina go-to-Market weer geven. In de kolom **status** ziet u dat de aanbieding wordt gewijzigd in **actief**. In de kolom **Expires** ziet u de datum waarop de aanbieding verloopt. U kunt deze aanbieding gebruiken tot de verval datum. Meer informatie over de [verschillende soorten go-to-Market-bronnen,-aanbiedingen en-Program ma's](mpn-learn-about-go-to-market-benefits.md) die beschikbaar zijn.  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Een voor deel van een lidmaatschap of aanbieding annuleren
 
