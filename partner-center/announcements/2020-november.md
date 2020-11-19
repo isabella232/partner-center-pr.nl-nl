@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1e6002354323d2c528cbf32271144bbf61d40ac8
-ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
+ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94845336"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94885591"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
@@ -22,6 +22,34 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft par
 
 2020 aankondigingen: [april](2020-april.md)juni tot en met september tot en met  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md) | Maand
 
+______________
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 voor Mid-Market promoties (LATAM, APAC en India)
+
+### <a name="categories"></a>Categorieën
+- Datum 2020-11-18
+- Aanbiedingen/markten
+
+### <a name="summary"></a>Samenvatting
+We introduceren een nieuwe Office 365 E1-aanbieding voor de Mid-Market, beperkt tot de opkomende markten van LATAM, India en APAC (met uitzonde ring van ontwikkelde markten in APAC).
+
+### <a name="impacted-audience"></a>Doel groep
+Alle partners handelen via het programma Cloud Solution Provider (CSP) in de hierboven vermelde deelnemende markten.
+
+### <a name="details"></a>Details
+De aanbieding bestaat uit 30% korting op Office 365 E1 voor CSP. Het wordt gestart op 1 december 2020 en is zes maanden beschikbaar tot en met 31 mei 2020. Deze aanbieding is alleen beschikbaar voor klanten die geen ervaring hebben met de MW-Cloud en Maxi maal 500 stoelen hebben. Houd er rekening mee dat dit is beperkt tot opkomende markten van LATAM, India en APAC, om de overgang naar de Cloud mogelijk te maken. 
+
+#### <a name="offer-details"></a>Details van aanbieding
+
+   |**Naam van aanbieding**|**Aanbiedings-id**|
+   |-------------------|:------|
+   |Office 365 E1 voor Mid-Market promoties|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>Volgende stappen
+Dit is in de tussen tijd beschikbaar op 1 december. u kunt deze informatie delen met alle contact personen in uw organisatie (in de deelnemende regio's). Ga aan de slag met klanten die nog geen deel uitmaken van de cloud in de deelnemende regio's. 
+
+### <a name="questions"></a>Vragen?
+Neem contact op met de [ondersteuning van partner Center](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) voor vragen, query's of meer informatie.
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Verbeteringen in het partner centrum-API en gebruikers interface (UI) voor het versterken van klant controle in bepaalde landen
@@ -379,14 +407,14 @@ Met de Premium-aanbieding hebben klanten toegang tot de nieuw gepubliceerde micr
 
    |****|**Micro soft teams kamers Standard USD15-apparaat per maand**|**Micro soft teams kamers Premium USD50-apparaat per maand**|
    |-------------------|:------|:------|
-   |Skype voor Bedrijven|Yes| |
+   |Skype voor Bedrijven|Ja| |
    |Microsoft Teams|Ja|Ja|
    |Telefoon systeem|Ja|Ja|
    |Audio vergaderingen|Ja|Ja|
    |Microsoft Intune|Ja|Ja|
    | |Micro soft teams-kamers standaard USD15 per apparaat per maand|Micro soft teams kamers Premium USD50 per apparaat per maand|
-   |Beheerde services van micro soft teams-kamers| |Yes|
-   |Wereld wijde Beschik baarheid|Yes|In geselecteerde markten|
+   |Beheerde services van micro soft teams-kamers| |Ja|
+   |Wereld wijde Beschik baarheid|Ja|In geselecteerde markten|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Beheerde services van micro soft teams-kamers
 
@@ -583,7 +611,7 @@ Deze aanbiedingen zijn van invloed op de volgende klanten:
 - Net nieuwe klant tenants
 - Bestaande tenants van klanten die geen actieve of recent geannuleerde abonnement hebben (binnen de laatste 30 dagen) bij een zakelijke Voice-of audio conferencing-licentie op CSP, Web direct of een ander micro soft-commercieel kanaal
 
-#### <a name="additional-resources"></a>Aanvullende bronnen
+#### <a name="additional-resources"></a>Aanvullende resources
 
 - Ga naar de [pagina Microsoft 365 Business Voice-partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) voor meer informatie over zakelijke Voice. 
 - Meer informatie over deze promotie vindt u in de [Veelgestelde vragen](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)over gerelateerde partners.
