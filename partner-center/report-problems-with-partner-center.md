@@ -1,20 +1,20 @@
 ---
 title: Problemen met het Partnercentrum rapporteren
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Meer informatie over het rapporteren van problemen met partner centrum en het verzamelen van diagnostische gegevens voor het partner ondersteunings team.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567071"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983335"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Problemen met partner centrum melden en logboek-of diagnostische gegevens verzenden
 
@@ -23,9 +23,7 @@ ms.locfileid: "94567071"
 - Partnercentrum
 - Partnercentrum voor Microsoft Cloud for US Government
 
-Neem contact op met partner Center-ondersteuning als u problemen ondervindt of hulp nodig hebt bij het partner centrum.
-
-**Gebruikersrollen**
+**Juiste rollen**
 
 Alle aangemelde partner centrum-gebruikers kunnen een partner ondersteunings aanvragen maken. Gebruikers kunnen alleen ondersteunings aanvragen weer geven die zijn verzonden nadat ze zich hebben aangemeld bij het partner centrum.
 
@@ -58,6 +56,12 @@ Als voor uw probleem een conversatie met uw ondersteunings certificaat is vereis
 1. Wanneer u een afspraak plant, stuurt het partner centrum u een agenda-uitnodiging met informatie over de manier waarop de ondersteunings afdeling contact met u opneemt, zodat u deze afspraak kunt volgen in uw eigen werk agenda.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Datum en tijd":::
+
+## <a name="hours-of-operation"></a>Bewerkings uren
+
+**Partner ondersteuning**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Ondersteunings uren":::
 
 ## <a name="send-diagnostics"></a>Diagnostische gegevens verzenden
 
