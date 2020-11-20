@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92528709"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947678"
 ---
 # <a name="august-2020-announcements"></a>Aankondigingen van augustus 2020
 
@@ -89,7 +89,7 @@ Directe factuur partners en indirecte providers die deel nemen aan het CSP-progr
 
 ### <a name="summary"></a>Samenvatting
 
-Vanaf 21 juli 2020 kunnen partners beginnen met het downloaden van de versie van de **.NET Standard SDK micro soft Partner Center** .NET SDK v 1.16.1, samen met bijgewerkte voor beelden van de public **Partner Center SDK github** .
+Vanaf 21 juli 2020 kunnen partners beginnen met het downloaden van de versie van de **.NET Standard SDK micro soft Partner Center** .NET SDK v 1.16.1, samen met bijgewerkte voor beelden van de public **Partner Center SDK github**.
 
 ### <a name="details"></a>Details
 
@@ -167,8 +167,6 @@ De nieuwe geavanceerde invoeg toepassing voor communicatie voor micro soft teams
 
 Vrijgegeven bij het starten
 - Limieten voor Live-gebeurtenissen op 20 K-deel nemers (50 gelijktijdige, 16 uur)
-- Compatibiliteits opname-integratie (ISV) 
-- Contact opnemen met Solution Integration (ISV) 
 
 Later uitgebracht in CY2020
 - 1.000-persoons interactieve teams vergadering 

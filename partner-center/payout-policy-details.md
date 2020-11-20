@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531984"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947661"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Uitbetalings schema's en beleids Details
 
@@ -32,9 +32,9 @@ Een uitbetaling vindt vaak plaats voordat micro soft de betaling van de klant ve
 | --- | --- | --- | --- |
 | Gebruik of maand van trans actie | Klant gebruikt of koopt een service. | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 1** |
 | Inkoop order is gemaakt | Het totale gebruik, het totaal aantal trans acties bepalen | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 2** |
-| Het verdienen van ISV-uitbetaling is gemaakt | De kosten van het Agency en de inkomsten van de betaling bepalen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de uitbetalings verklaring | **Maand 3 (1e week)** |
-| Uitbetaling voorbereiden | De inkomsten worden voor bereid voor de maandelijkse betaling | Gemarkeerd als gepland in de transactie geschiedenis van de uitbetalings verklaring | **Maand 3 (1e week)** |
-| **Uitbetalings datum** | **De betaling wordt verzonden naar Publisher** | **Gemarkeerd als verzonden in de transactie geschiedenis en in de sectie betalingen van de uitbetalings verklaring** | **Maand 3 (niet later dan de 15e)** |
+| Het verdienen van ISV-uitbetaling is gemaakt | De kosten van het Agency en de inkomsten van de betaling bepalen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 3 (1e week)** |
+| Uitbetaling voorbereiden | De inkomsten worden voor bereid voor de maandelijkse betaling | Gemarkeerd als gepland in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 3 (1e week)** |
+| **Uitbetalings datum** | **De betaling wordt verzonden naar Publisher** | **Gemarkeerd als verzonden in de transactie geschiedenis en in de sectie betalingen van de [uitbetalings verklaring](payout-statement.md)** | **Maand 3 (niet later dan de 15e)** |
 | Factuur betaald door klant | Micro soft verzamelt de betaling van de klant | Geen wijziging | **Maand 4 tot en met 12** |
 |
 
@@ -48,10 +48,10 @@ Voor alle aankopen met een credit card of een maandelijkse factuur geldt een per
 | --- | --- | --- | --- |
 | Gebruik of maand van trans actie | Klant gebruikt of koopt een service. | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 1** |
 | Factuur betaald door klant | Het totale gebruik, de totale transactie waarde en de factuur van de klant bepalen | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 2** |
-| Het verdienen van ISV-uitbetaling is gemaakt | De kosten van het Agency en de inkomsten van de betaling bepalen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de uitbetalings verklaring | **Maand 2** |
-| Periode van 30 dagen voor het bedrijf | Zorgen voor verzameling van middelen, mogelijke terugstortingen en restitutie aanvragen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de uitbetalings verklaring | **Maand 3** |
-| Uitbetaling voorbereiden | De inkomsten worden voor bereid voor de maandelijkse betaling | Gemarkeerd als gepland in de transactie geschiedenis van de uitbetalings verklaring | **Eerste week van maand 4** |
-| **Uitbetalings datum** | **De betaling wordt verzonden naar Publisher** | **Gemarkeerd als verzonden in de transactie geschiedenis en in de sectie betalingen van de uitbetalings verklaring** | **Maand 4 (niet later dan de 15e)** |
+| Het verdienen van ISV-uitbetaling is gemaakt | De kosten van het Agency en de inkomsten van de betaling bepalen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 2** |
+| Periode van 30 dagen voor het bedrijf | Zorgen voor verzameling van middelen, mogelijke terugstortingen en restitutie aanvragen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 3** |
+| Uitbetaling voorbereiden | De inkomsten worden voor bereid voor de maandelijkse betaling | Gemarkeerd als gepland in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 4 (1e week)** |
+| **Uitbetalings datum** | **De betaling wordt verzonden naar Publisher** | **Gemarkeerd als verzonden in de transactie geschiedenis en in de sectie betalingen van de [uitbetalings verklaring](payout-statement.md)** | **Maand 4 (niet later dan de 15e)** |
 |
 
 \* De uitbetalings datum is in Pacific (standaard tijd) (PST).
@@ -97,4 +97,4 @@ Normaal gesp roken verstuurt de betaling in een bepaalde maand op de vijftiende 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-Meer informatie over [belasting gegevens](tax-details-marketplace.md).
+- [Belastinginformatie](tax-details-marketplace.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932817"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947695"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
@@ -51,7 +51,7 @@ Meld u aan bij het dash board van het partner centrum, selecteer het pictogram �
 - Organisatie profiel
    - Juridisch beheer van uw juridische bedrijfs profiel, partner profiel en bedrijfs locaties.
    - Tenants: al uw gegevens over uw Azure AD-tenants, commercieel en ontwikkelaar, worden hier bijgehouden.
-   - Id's-partner centrum-identiteiten voor uw bedrijf-MPNID, publisherId, etc
+   - Id's-partner centrum-identiteiten voor uw bedrijf-uw MPNIDs, publisherIds, enzovoort.
 - Gebruikers beheer: beheer uw gebruikers en wijs deze commerciële en ontwikkelaars rollen vanaf één plek toe. U kunt hier ook groepen en Azure AD-toepassingen beheren.
 
 ### <a name="next-steps"></a>Volgende stappen

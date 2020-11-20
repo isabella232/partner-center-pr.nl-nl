@@ -8,12 +8,12 @@ description: Synchroniseer uw referenties in Partner Center met uw Sales Force-C
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92528685"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947848"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connector voor Sales Force-verkoop-overzicht
 
@@ -84,21 +84,21 @@ Voordat u de oplossing voor het automatiseren van energie op de productie omgevi
 
 5. Zoek naar **Partner Center referrals connectors voor Sales Force** in het pop-upvenster.  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="AppSource openen":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Klik op de knop **nu downloaden** en vervolgens op **door gaan** .
+6. Klik op de knop **nu downloaden** en vervolgens op **door gaan**.
 
 7. Hiermee opent u de pagina waar u de Sales Force CRM-omgeving kunt selecteren om de toepassing te installeren.  Ga akkoord met de voor waarden.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="AppSource openen":::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Beschik bare CRMS":::
 
 8. Vervolgens gaat u naar de pagina **uw oplossingen beheren** .  Navigeer naar partner Center referrals met behulp van de pijl knoppen aan de onderkant van de pagina. **Geplande installatie** moet naast Partner Center referrals-oplossing worden weer gegeven. De installatie duurt 10-15 minuten.
 
 9. Zodra de installatie is voltooid, gaat u terug naar [energie automatisering](https://flow.microsoft.com) en selecteert u **oplossingen** vanuit het navigatie gebied links. U ziet dat **Partner Center referrals synchronisatie voor Sales Force** beschikbaar is in de lijst met oplossingen.
 
-10. Selecteer **Partner Center referrals synchronisatie voor Sales Force** . De volgende stroom voor het automatiseren van stromen en entiteiten zijn beschikbaar:
+10. Selecteer **Partner Center referrals synchronisatie voor Sales Force**. De volgende stroom voor het automatiseren van stromen en entiteiten zijn beschikbaar:
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="AppSource openen":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Sales Force-stromen":::
 
 
 
@@ -113,9 +113,9 @@ Voordat u de oplossing voor het automatiseren van energie op de productie omgevi
     - CRM-beheerder met de stroom voor het automatiseren van stromen in de oplossing.
 4. Selecteer **verbindingen** in de linkernavigatiebalk en selecteer de oplossing Partner Center referrals in de lijst.
 
-5. Maak een verbinding door te klikken op **een verbinding maken** .
+5. Maak een verbinding door te klikken op **een verbinding maken**.
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="AppSource openen":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Verbinding maken":::
 
 - Zoek naar partner Center referrals (preview) in de zoek balk in de rechter bovenhoek.
 
@@ -123,21 +123,21 @@ Voordat u de oplossing voor het automatiseren van energie op de productie omgevi
 
 -  Maak vervolgens een verbinding met de partner centrum-gebeurtenissen voor uw partner centrum-gebruiker met de referenties van de beheerder.
 
-- Maak een verbinding voor Common Data Service (huidige omgeving) voor de gebruiker van de CRM-beheerder.
+- Maak een verbinding voor Sales Force voor de CRM-beheerders gebruiker.
 
 -  Zodra u alle verbindingen hebt toegevoegd, ziet u de volgende verbindingen in uw omgeving:
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="AppSource openen":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Verbindingen observeren":::
 
 ### <a name="edit-the-connections"></a>De verbindingen bewerken
 
-1. Ga terug naar de pagina oplossingen en selecteer **standaard oplossing** .  Selecteer **verbindings verwijzing (preview)** door te klikken op **alle** .
+1. Ga terug naar de pagina oplossingen en selecteer **standaard oplossing**.  Selecteer **verbindings verwijzing (preview)** door te klikken op **alle**.
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="AppSource openen":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Connector bewerking starten":::
 
 2. Bewerk elk van de verbindingen één voor één door het pictogram drie punten te selecteren. Voeg de relevante verbindingen toe.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="AppSource openen":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Connectors bewerken":::
 
 3. Schakel de stromen in de volgende volg orde in:
 
@@ -157,35 +157,35 @@ Met de webhook-Api's van partner Center kunt u zich registreren voor bron wijzig
 
 2. Verbindingen toevoegen voor een partner centrum-gebruiker (a.) met referrals beheerders referenties (b.) partner Center-gebeurtenissen zoals hieronder gemarkeerd
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="AppSource openen":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
 3. Wanneer u deze updates maakt, ziet u
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="AppSource openen":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
 
-4. Sla de wijzigingen op en selecteer **inschakelen** .
+4. Sla de wijzigingen op en selecteer **inschakelen**.
 
    Voer de volgende stappen uit om het partner centrum-webhooks in staat te stellen om te Luis teren naar gebeurtenis wijzigingen:
 
-5. Selecteer **partner centrum naar Sales Force CRM (Insider preview)** .
+5. Selecteer **partner centrum naar Sales Force CRM (Insider preview)**.
 
-6. Selecteer het **bewerkings** pictogram en selecteer **Wanneer een HTTP-aanvraag wordt ontvangen** .
+6. Selecteer het **bewerkings** pictogram en selecteer **Wanneer een HTTP-aanvraag wordt ontvangen**.
 
 7. Selecteer het **Kopieer** pictogram om de gegeven HTTP post-URL te kopiëren.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="AppSource openen":::
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="URL kopiëren":::
 
-8. Selecteer nu de stroom voor het automatiseren van partner Center-webhooks (Insider preview) en selecteer **uitvoeren** .
+8. Selecteer nu de stroom voor het automatiseren van partner Center-webhooks (Insider preview) en selecteer **uitvoeren**.
 
-9. Zorg ervoor dat het venster stroom uitvoeren wordt geopend in het rechterdeel venster en klik op **door gaan** .
+9. Zorg ervoor dat het venster stroom uitvoeren wordt geopend in het rechterdeel venster en klik op **door gaan**.
 
 10. Voer de volgende details in:
 
-    1. **Http-trigger eindpunt** : URL gekopieerd uit eerdere stap
+    1. **Http-trigger eindpunt**: URL gekopieerd uit eerdere stap
 
-    2. **Te registreren gebeurtenissen** : ' verwijzing-gemaakt ' en ' referentie-bijgewerkt '
+    2. **Te registreren gebeurtenissen**: ' verwijzing-gemaakt ' en ' referentie-bijgewerkt '
 
-    3. **Bestaande trigger eindpunten overschrijven indien aanwezig** : Ja (Hiermee worden alle bestaande eind punten overschreven.)
+    3. **Bestaande trigger eindpunten overschrijven indien aanwezig**: Ja (Hiermee worden alle bestaande eind punten overschreven.)
 
 11. Selecteer **uitvoeren** en selecteer vervolgens **gereed.**
 
@@ -205,13 +205,13 @@ Meerdere stappen van elk van de energiebeheer stromen kunnen worden aangepast op
 
    2. Selecteer **bewerken** om de stroom voor het automatiseren van de stroom te bewerken/aan te passen.
 
-   3. Selecteer **(bereik) de lead of de opportuniteit synchroniseren** .
+   3. Selecteer **(bereik) de lead of de opportuniteit synchroniseren**.
 
 2. Als u CRM-veld toewijzingen voor het maken van gebeurtenissen wilt aanpassen, selecteert u **of het een nieuwe gedeelde verkoop kans is en klikt u vervolgens** op. Selecteer de substap **Indien ja** en vouw vervolgens **een nieuwe opportuniteit maken in het CRM** uit. U kunt de toewijzingen in deze sectie bewerken met de gids voor veld toewijzing.
 
    1. Als u CRM-veld toewijzingen voor update gebeurtenissen wilt aanpassen, klikt u op de stap (bereik) synchroniseren van de lead of de verkoop kans.
 
-   2. Selecteer **deze optie als het een update is voor een verkoop kans en klik vervolgens** . Selecteer de substap **Indien ja** en vouw vervolgens uit **als het verschil tussen de objecten verkoop kansen in partner centrum en CRM** .  
+   2. Selecteer **deze optie als het een update is voor een verkoop kans en klik vervolgens**. Selecteer de substap **Indien ja** en vouw vervolgens uit **als het verschil tussen de objecten verkoop kansen in partner centrum en CRM**.  
 
    3. Selecteren **als ja** , gevolgd door **bestaande verkoop kans bijwerken**
 
@@ -219,9 +219,9 @@ Meerdere stappen van elk van de energiebeheer stromen kunnen worden aangepast op
 
    1. Selecteer **bewerken**  om de stroom voor het automatiseren van de stroom te bewerken/aan te passen.
 
-   2. Selecteer **(bereik) de opportuniteit synchroniseren** .
+   2. Selecteer **(bereik) de opportuniteit synchroniseren**.
 
-   3. Voor het aanpassen van CRM-veld toewijzingen (op basis van de hand leiding veld Toewijzingen) voor update gebeurtenissen, selecteert u **of er verschil is tussen de objecten leads in Partner Center en CRM** .
+   3. Voor het aanpassen van CRM-veld toewijzingen (op basis van de hand leiding veld Toewijzingen) voor update gebeurtenissen, selecteert u **of er verschil is tussen de objecten leads in Partner Center en CRM**.
 
    4. Selecteer de substap **als ja** en vouw vervolgens de stap **een referral met verkoopkansgegevens bijwerken** uit.
 
@@ -250,17 +250,17 @@ Een set aangepaste velden is beschikbaar als onderdeel van partner Center referr
 
 De volgende aangepaste velden moeten deel uitmaken van de sectie CRM:
 
-- **Synchroniseren met partner centrum** : of u de mogelijkheid wilt synchroniseren met micro soft Partner Center
+- **Synchroniseren met partner centrum**: of u de mogelijkheid wilt synchroniseren met micro soft Partner Center
 
-- **Verwijzings-id** : een veld met alleen-lezen-id voor micro soft Partner Center Referral
+- **Verwijzings-id**: een veld met alleen-lezen-id voor micro soft Partner Center Referral
 
-- **Verwijzings koppeling** : een alleen-lezen koppeling naar de verwijzing in het micro soft partner centrum
+- **Verwijzings koppeling**: een alleen-lezen koppeling naar de verwijzing in het micro soft partner centrum
 
-- **Hoe kan ik micro soft helpen** : Help vereist van micro soft voor de verwijzing
+- **Hoe kan ik micro soft helpen**: Help vereist van micro soft voor de verwijzing
 
-- **Producten** : lijst met producten die zijn gekoppeld aan deze verkoop kans
+- **Producten**: lijst met producten die zijn gekoppeld aan deze verkoop kans
 
-- **Controle** : een audit trail met alleen-lezen voor synchronisatie met partner Center-verwijzingen
+- **Controle**: een audit trail met alleen-lezen voor synchronisatie met partner Center-verwijzingen
 
 ### <a name="scenarios"></a>DENKBAAR
 
@@ -270,7 +270,7 @@ De volgende aangepaste velden moeten deel uitmaken van de sectie CRM:
 
    2. Zorg ervoor dat de volgende sectie aanwezig is wanneer u een nieuwe kans maakt in de Sales Force CRM-omgeving
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="AppSource openen":::
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Sales Force-omgeving":::
 
    3. Als u deze mogelijkheid wilt synchroniseren met micro soft Partner Center, moet u ervoor zorgen dat u de volgende velden in de kaart weergave instelt:
 
@@ -278,7 +278,7 @@ De volgende aangepaste velden moeten deel uitmaken van de sectie CRM:
        - "How can micro soft Help?": Selecteer een van de volgende opties:
        - Producten: oplossings-Id's van het product
 
-   4. Wanneer u de optie  **synchronisatie van verkoop kansen met partner Center** hebt ingesteld op **Ja** , wacht u 10 minuten en meldt u zich aan bij uw partner centrum-account. Uw verwijzingen worden gesynchroniseerd met Sales Force CRM.
+   4. Wanneer u de optie  **synchronisatie van verkoop kansen met partner Center** hebt ingesteld op **Ja**, wacht u 10 minuten en meldt u zich aan bij uw partner centrum-account. Uw verwijzingen worden gesynchroniseerd met Sales Force CRM.
 
    5. Wanneer de optie ' synchroniseren met partner centrum ' is ingesteld op ' ja ' en u de opportuniteit bijwerkt in Sales Force CRM, worden de wijzigingen gesynchroniseerd met uw partner centrum-account.
 
@@ -294,9 +294,9 @@ De volgende aangepaste velden moeten deel uitmaken van de sectie CRM:
 
     4. Meld u aan bij uw Sales Force CRM-omgeving.
 
-    5. Navigeer naar **Open verkoop kansen** . De verwijzing die is gemaakt in het micro soft Partner Center is nu gesynchroniseerd in Sales Force CRM.
+    5. Navigeer naar **Open verkoop kansen**. De verwijzing die is gemaakt in het micro soft Partner Center is nu gesynchroniseerd in Sales Force CRM.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="AppSource openen":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Scherm Sales Force-verkoop kans":::
 
     6. Wanneer u een gesynchroniseerde verwijzing selecteert, worden de kaart weergave Details ingevuld.
 
