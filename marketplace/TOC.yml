@@ -1,8 +1,11 @@
 - name: Klantdocumentatie voor Microsoft Marketplace
   href: index.yml
+- name: Azure Marketplace
   items:
     - name: Azure Private Marketplace maken
       href: create-manage-private-azure-marketplace.md
+    - name: Azure Marketplace-partnerintegraties
+      href: partner-integrations.md
 - name: Naslaginformatie
   items:
     - name: Azure PowerShell

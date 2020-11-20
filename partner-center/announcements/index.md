@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/10/2020
-ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.date: 11/17/2020
+ms.openlocfilehash: d8bd7be9d77f9c8d59af5d45821b9c0728457e52
+ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691313"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94885608"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,7 +22,9 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **November 2020-aankondigingen** | **Aangekondigd** |
 |---------|:---------|:---------|
-|Functionaliteit|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2020-november.md#10)|17 november|
+|Aanbiedingen/markten|[Office 365 E1 voor mid-market Promo (LATAM, APAC en India)](2020-november.md#12)|18 november|
+|Functies|[Partner Center-API-updates en verbeteringen in de gebruikersinterface (UI) om de klantcontrole in bepaalde landen te verbeteren](2020-november.md#11)|17 november|
+|Functies|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2020-november.md#10)|17 november|
 |Functies|[API-beperking voor Partner Center-API's](2020-november.md#9)|17 november|
 |Functies|[409 fouten vanwege dubbele MCA-aanvragen](2020-november.md#8)|16 november|
 |Functionaliteit|[Testen beschikbaar: API-updates en verbeteringen van de gebruikersinterface (UI) in Partnercentrum, voor het validatieproces voor Education-klanten](2020-november.md#7)|10 november|
