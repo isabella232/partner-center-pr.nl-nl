@@ -1,19 +1,19 @@
 ---
-title: Azure Marketplace-partner integraties
+title: Azure Marketplace-partnerintegraties
 description: Meer informatie over Azure Marketplace-oplossingen die zijn geïntegreerd met uw Azure-omgeving en over een koppeling naar implementatie handleidingen van micro soft-partners.
 ms.service: partner-services
 ms.topic: conceptual
-author: dsindona
-ms.author: dsindona
+author: JasonWHowell
+ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: 7c97936e7764361c21503eca174433029707cf69
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691683"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006902"
 ---
-# <a name="azure-marketplace-partner-integrations"></a>Azure Marketplace-partner integraties
+# <a name="azure-marketplace-partner-integrations"></a>Azure Marketplace-partnerintegraties
 
 Meer informatie over hoe u partner oplossingen integreert in uw Azure-omgeving. Dit artikel bevat een overzicht van elke oplossing en koppelingen naar gedetailleerde implementatie handleidingen. Oplossingen worden in alfabetische volg orde weer gegeven. 
 

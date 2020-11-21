@@ -2,16 +2,16 @@
 title: Privé Azure Marketplace in Azure Portal maken en beheren
 description: Meer informatie over het maken en beheren van privé Azure Marketplace (preview) in de Azure Portal.
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487700"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006936"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Maak en beheer privé Azure Marketplace (preview) in de Azure Portal
 
@@ -37,8 +37,8 @@ U moet aan deze vereisten voldoen voordat u de rol Marketplace-beheerder kunt to
 
 - U hebt toegang tot een **globale beheerders** gebruiker.
 - De Tenant heeft ten minste één abonnement (kan elk wille keurig type zijn).
-- De gebruiker van de globale beheerder krijgt de rol **Inzender** of hoger toegewezen voor het abonnement dat u in stap 2 hebt gekozen.
-- De gebruiker van de globale beheerder heeft verhoogde toegang ingesteld op **Ja** (Zie [bevoegdheden voor toegang-globaal-beheerder](/azure/role-based-access-control/elevate-access-global-admin)).
+- De gebruiker van de globale beheerder krijgt de rol **Inzender** of hoger voor het gekozen abonnement.
+- De gebruiker van de globale beheerder heeft verhoogde toegang ingesteld op **Ja** (Zie [toegang verhogen om alle Azure-abonnementen en-beheer groepen te beheren](/azure/role-based-access-control/elevate-access-global-admin)).
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>De rol Marketplace-beheerder toewijzen met Power shell
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)
