@@ -9,13 +9,13 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 10/16/2020
-  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
-  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.date: 11/19/2020
+  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
+  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "92526849"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "94983314"
 landingContent:
 - title: Aan de slag gaan met Partnercentrum
   linkLists:
@@ -85,22 +85,6 @@ landingContent:
       url: set-up-your-payout-account.md
     - text: Meer informatie over uw factuur
       url: read-your-bill.md
-- title: Bronnen voor ontwikkelaars
-  linkLists:
-  - linkListType: reference
-    links:
-    - text: Aanmelden voor het Early Adopter-programma voor API en SDK van Partnercentrum
-      url: /partner-center/develop/early-adopter-program
-    - text: Ontwikkelaarsdocumentatie voor Partnercentrum
-      url: /partner-center/develop
-    - text: REST API-verwijzing voor Partnercentrum
-      url: /partner-center/develop/partner-center-rest-api-reference
-    - text: .NET API-verwijzing voor Partnercentrum
-      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
-    - text: Partnercentrum-SDK voor Java
-      url: /java/partnercenter/overview
-    - text: Partnercentrum PowerShell
-      url: /powershell/partnercenter/overview
 - title: Verkopen in de commerciële marketplace (ISV's)
   linkLists:
   - linkListType: concept
