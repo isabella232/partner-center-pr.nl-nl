@@ -1,5 +1,5 @@
 ---
-title: Veelgestelde vragen over voor delen
+title: Veelgestelde vragen over de voordelen
 ms.topic: article
 ms.date: 09/08/2020
 description: Antwoorden op vragen over het verlopen van voor delen, het verlengen en activeren van licenties voor Azure, Cloud, Visual Studio en technische en ondersteunings voordelen
@@ -9,19 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "92528345"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417248"
 ---
-# <a name="benefits-faq"></a>Veelgestelde vragen over voor delen
+# <a name="benefits-faq"></a>Veelgestelde vragen over de voordelen
 
 Van toepassing op:
 
 - Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Algemene vragen
 
@@ -44,7 +44,7 @@ Gebruik de volgende procedure om uw voor delen te verlengen:
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer in het navigatie venster links de optie **MPN** .
+2. Selecteer in het navigatie venster links de optie **MPN**.
 
 3. Selecteer op het tabblad **MPN** de optie **voor delen** .
 
@@ -87,16 +87,16 @@ U kunt abonnementen toewijzen aan iedereen in uw lijst met gebruikers beheer in 
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer in het navigatie venster links de optie **MPN** .
+2. Selecteer in het navigatie venster links de optie **MPN**.
 
-3. Selecteer **voor delen** en selecteer vervolgens **Visual Studio** .
+3. Selecteer **voor delen** en selecteer vervolgens **Visual Studio**.
 
 4. Wijs de gewenste gebruikers toe aan uw bestaande Visual Studio-abonnementen die beschikbaar zijn.
 
 Nadat u het abonnement hebt toegewezen, moet de gebruiker zich aanmelden bij Visual Studio om het te kunnen beheren.
 
 >[!Note]
-> Een gebruiker die is toegewezen aan een Visual Studio-abonnement op Partner Center kan pas 90 dagen na de oorspronkelijke toewijzing worden verwijderd.
+> Visual Studio-abonnementen kunnen na 90 dagen van de oorspronkelijke toewijzing opnieuw worden toegewezen van een abonnee naar een andere.
 
 ## <a name="technical-benefits-and-support"></a>Technische voor delen en ondersteuning
 
@@ -106,9 +106,9 @@ Installatie, activering en andere productgerelateerde hulp worden via Microsoft 
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer in het navigatie venster links de optie **MPN** .
+2. Selecteer in het navigatie venster links de optie **MPN**.
 
-3. Selecteer **voor delen** en selecteer vervolgens **technische voor delen** .
+3. Selecteer **voor delen** en selecteer vervolgens **technische voor delen**.
 
 4. Gebruik de sectie technische voor delen om een toegangs-ID/contract-ID te activeren en te ontvangen.
 

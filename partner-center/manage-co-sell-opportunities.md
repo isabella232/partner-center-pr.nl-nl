@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363636"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417265"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Verkoop kansen beheren in het partner centrum
 
@@ -40,7 +40,7 @@ Profiteer van de mogelijkheden voor co-selling.  Mogelijkheden voor co-verkoop z
 **Oplossings evaluatie (SA)** : dit soort deals kan alleen worden gemaakt door een set partners die gecontroleerd zijn door het Business team van de oplossings beoordeling voor het uitvoeren van technologie Beoordelingen voor klanten die gebruikmaken van of planning maken voor het gebruik van micro soft-technologieën.
 
 > [!NOTE]
-> Privé-deals, zelfs als ze niet echt samen werken, zijn hier opgenomen om een eenvoudig pad te geven voor het bijwerken van een pijp lijn in een deel van de verkoop kans in een niet-Terminal fase ( **gewonnen, verloren, geweigerd en verlopen** ).
+> Privé-deals, zelfs als ze niet echt samen werken, zijn hier opgenomen om een eenvoudig pad te geven voor het bijwerken van een pijp lijn in een deel van de verkoop kans in een niet-Terminal fase (**gewonnen, verloren, geweigerd en verlopen**).
 
 ## <a name="navigating-the-co-sell-section"></a>Navigeren in de sectie co-sell
 
@@ -63,7 +63,7 @@ U kunt drie soorten verkoop kansen maken.
 
 Selecteer de klant voor deze specifieke deal. Voer de locatie in en begin met het typen van de naam. De automatische suggestie begint met het weer geven van aanbevelingen op basis van de zoek criteria. Omdat veel bedrijven meer dan één bedrijfs entiteit op dezelfde locatie hebben, worden er mogelijk meerdere resultaten weer geven. Als u niet zeker weet welke u wilt kiezen, kunt u bevestigen welk D-U-N-S-nummer bij uw klant hoort. Zorg ervoor dat u de exacte overeenkomst selecteert voor de klant met wie u wilt werken.
 
-Wanneer u op **de klant selecteren** klikt, wordt u gevraagd om de naam, het telefoon nummer en het e-mail adres op te geven voor de persoon die het belangrijkste contact punt is voor deze deal. Deze gegevens zijn optioneel en zijn alleen vereist als u van plan bent om micro soft-verkopen uit te nodigen om u te helpen met de betrokkenheid. Selecteer **Volgende**.
+Wanneer u op **de klant selecteren** klikt, wordt u gevraagd om de naam, het telefoon nummer en het e-mail adres op te geven voor de persoon die het belangrijkste contact punt is voor deze deal. Deze gegevens zijn optioneel en zijn alleen vereist als u van plan bent om micro soft-verkopen uit te nodigen om u te helpen met de betrokkenheid. Selecteer **Next**.
 
 > [!IMPORTANT]
 > Zorg ervoor dat u de toestemming van de klant hebt verkregen om hun contact gegevens aan micro soft te verstrekken voor de deal. Micro soft kan deze informatie gebruiken om rechtstreeks contact op te nemen met de klant.
@@ -100,14 +100,14 @@ In deze sectie moet u de informatie opgeven met betrekking tot de oplossingen di
 
 Zodra u de oplossings gegevens hebt verstrekt, selecteert u volgende om naar de sectie te gaan waar u het type verkoop kunt bepalen. U hebt drie opties als u oplossingen hebt gekozen uit de eerste drie opties en niet een oplossings evaluatie:
 
-**Privé-deal** : als u micro soft niet uitnodigt en een afspraak maakt in deze stap, is dit van het type privé pijplijn. Micro soft-verkopers kunnen geen inzicht krijgen in de details van deze deal.
+**Privé-deal**: als u micro soft niet uitnodigt en een afspraak maakt in deze stap, is dit van het type privé pijplijn. Micro soft-verkopers kunnen geen inzicht krijgen in de details van deze deal.
 
 > [!Important]
 > Registratie van deals is niet van toepassing op privé-deals. Wees voorzichtig tijdens het maken van een privé-deal met prikkel oplossingen die in aanmerking komen voor het registreren van deals in het partner centrum.
 
 **Trans acties samen verkopen:** Als u een andere optie dan de standaard selectie voor de vraag **' identificeert u het type hulp van micro soft '** selecteert, wordt de deal omgezet in een mede verkochte deal waarbij een micro soft-verkoper u mogelijk kan helpen met het sluiten van de deal. Een verzoek om hulp van micro soft is geen garantie dat een micro soft-verkoper deelneemt aan de deal. Micro soft verkoop medewerkers hebben 14 dagen besloten of ze willen deel nemen. Zorg er in de sectie Notities voor dat u het gewenste type Help kunt identificeren.
 
-**Trans acties van partner-naar-partner (P2P)** : u kunt andere partners uitnodigen voor de deal door te klikken op de koppeling partner uitnodigen. Hieronder ziet u het proces voor het maken van een P2P-deal.
+**Trans acties van partner-naar-partner (P2P)**: u kunt andere partners uitnodigen voor de deal door te klikken op de koppeling partner uitnodigen. Hieronder ziet u het proces voor het maken van een P2P-deal.
 
 - **Een partner selecteren:** Nadat u op partner voor de uitnodiging hebt geklikt, kunt u beginnen met het typen van de partner naam om een lijst met voorgestelde partners te verkrijgen die overeenkomen met de naam die u invoert. Selecteer de partner die u wilt om meer informatie voor die partner op te vullen. U kunt alleen zoeken naar partners die zich in het micro soft Cosell ecosysteem bevinden en in Partner Center handelen.
 
@@ -137,7 +137,7 @@ Als u in deze fase een nieuwe verkoop kans hebt ontvangen van een micro soft-ver
 
 - Wanneer u klaar bent, selecteert u **volgende**. We gaan de verwijzing naar **de volgende fase** verplaatsen, wat betekent dat u actief wilt samen werken met de klant om hun behoeften aan te pakken. We gebruiken deze informatie ook om in de toekomst vergelijk bare aanbiedingen te vinden.
 
-- **Weigeren** : Selecteer de reden waarom u de deal weigert en Voeg eventuele notities toe die u wilt toevoegen en selecteer vervolgens **afhandelen**. We archiveren deze als **geweigerd** en melden micro soft of de partner die u deze mogelijkheid heeft gestuurd.
+- **Weigeren**: Selecteer de reden waarom u de deal weigert en Voeg eventuele notities toe die u wilt toevoegen en selecteer vervolgens **afhandelen**. We archiveren deze als **geweigerd** en melden micro soft of de partner die u deze mogelijkheid heeft gestuurd.
 
 - Als u niet binnen de toegewezen tijd reageert (momenteel 14 dagen), zullen we deze archiveren als **verlopen** en een melding ontvangen van micro soft of de partner die u deze mogelijkheid heeft gestuurd.
 
@@ -214,13 +214,7 @@ Dit is de laatste fase voor alle verkoop kansen. U kunt alle deals weer geven di
 
 Nee, deals kunnen niet worden gewijzigd nadat ze naar een Terminal status zijn verplaatst. Verlopen, weigeren, gewonnen en verloren zijn de Terminal statussen waar geen verdere updates mogelijk zijn voor de deal. Wees voorzichtig wanneer u de deal in een van deze Terminal statussen wilt verplaatsen.
 
-**Inclusief. Ik heb een nieuwe verwijzings melding ontvangen, maar kan deze niet vinden in het partner centrum?**
-
-Dit kan gebeuren als uw bedrijf meerdere tenants heeft die zijn gekoppeld aan hetzelfde MPN-account. Ga naar de account instellingen van het partner centrum en controleer de tenants die aan het account zijn gekoppeld. Maak vervolgens een ondersteunings ticket dat vraagt om de tenants te koppelen. Geef de Tenant-ID op waarin u bent aangemeld in het ondersteunings ticket.
-
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Afbeelding van de account instellingen waar Tenant gegevens kunnen worden gevonden.":::
-
-**K3. Wie ontvangt een e-mail melding van het partner centrum?**
+**Inclusief. Wie ontvangt een e-mail melding van het partner centrum?**
 
 In de onderstaande werk stroom wordt uitgelegd hoe de e-mails worden verzonden naar de partners van het Partner Center-referentie systeem voor inkomende referenties van partners.
 
