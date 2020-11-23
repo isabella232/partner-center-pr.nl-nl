@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/17/2020
-ms.openlocfilehash: d8bd7be9d77f9c8d59af5d45821b9c0728457e52
-ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
+ms.date: 11/19/2020
+ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 11/19/2020
-ms.locfileid: "94885608"
+ms.locfileid: "94932766"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **November 2020-aankondigingen** | **Aangekondigd** |
 |---------|:---------|:---------|
+|Functionaliteit|[Nieuwe, uniforme accountbeheerervaring](2020-november.md#13)|18 november|
 |Aanbiedingen/markten|[Office 365 E1 voor mid-market Promo (LATAM, APAC en India)](2020-november.md#12)|18 november|
 |Functies|[Partner Center-API-updates en verbeteringen in de gebruikersinterface (UI) om de klantcontrole in bepaalde landen te verbeteren](2020-november.md#11)|17 november|
 |Functies|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2020-november.md#10)|17 november|
