@@ -1,7 +1,7 @@
 ---
 title: Locaties in uw partner account beheren
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over het toevoegen van een nieuwe locatie en hoe de MPN-ID van de locatie wordt gebruikt in prikkel Programma's, CSP-bedrijven, abonnementen en andere trans acties.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92528724"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514793"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Uw MPN-account locaties beheren en een nieuwe locatie toevoegen
 
@@ -58,9 +58,9 @@ Juridische Bedrijfs gegevens opgeven, inclusief de naam van het bedrijf, het adr
 
 1. Meld u aan met het MPN-account in het partner centrum. Het MPN-account moet globale beheerders-of account beheerders bevoegdheden hebben. 
 
-1. Selecteer de **partner instellingen** op het **pictogram instelling** .
+1. Selecteer de **organisatie-instellingen** op het **pictogram instelling**.
 
-2. Selecteer **locaties.**
+2. Selecteer **juridisch** en selecteer vervolgens **locaties.**
 
 3. Selecteer **een locatie toevoegen** en voeg de adres gegevens in van de locatie die u wilt toevoegen aan uw bedrijf, evenals een primaire contact persoon voor de locatie.
 
@@ -69,18 +69,15 @@ Juridische Bedrijfs gegevens opgeven, inclusief de naam van het bedrijf, het adr
 
 ## <a name="change-global-partner-account-location"></a>Locatie van globale partner account wijzigen
 
-1. Controleer op de pagina **[locaties](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** de lijst met locaties om ervoor te zorgen dat de gewenste locatie als uw rechts persoon wordt weer gegeven. Als dat niet het geval is, voegt u deze toe.
+1. Controleer op **[bedrijfs locaties](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** de lijst met locaties om ervoor te zorgen dat de gewenste locatie als uw rechts persoon wordt weer gegeven. Als dat niet het geval is, voegt u deze toe.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Structuur van MPN-locaties":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="Scherm afbeelding van de pagina account locaties van partner centrum met een lijst met alle huidige locaties.":::
 
-2. Selecteer het **partner profiel** en selecteer vervolgens **juridisch zakelijk profiel bijwerken**
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Structuur van MPN-locaties":::
-
+2. Selecteer **juridisch** en selecteer **juridisch zakelijk profiel bijwerken**
+  
 3. Selecteer de regio en rechts persoon en **Verzend** deze.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Structuur van MPN-locaties":::
-
+  
 ## <a name="next-steps"></a>Volgende stappen
 
 - Meer informatie over het [verificatie proces](verification-responses.md).

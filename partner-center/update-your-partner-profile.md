@@ -7,14 +7,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/20/2020
+ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93d7c706c5281d239062a1eb4fa95d5fba92097
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007004"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514704"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Uw organisatie profiel gegevens verifiëren in het partner centrum
 
@@ -53,9 +53,11 @@ U kunt nu uw juridische adres bijwerken in het partner centrum.
 
 Als tijdens uw migratie van Partner Membership Center naar partner Center het verkeerde bedrijf is geïdentificeerd als het juridische bedrijf, kunt u dit wijzigen in het juiste juridisch bedrijf.
 
-1. Ga vanuit **account instellingen** naar **locaties** en zorg ervoor dat het bedrijf dat u wilt, als uw juridische bedrijf in de lijst staat. Als dat niet het geval is, kunt u het toevoegen. Selecteer **locatie toevoegen**. Voeg de locatie gegevens toe en **Sla** deze op.
+1. Ga vanuit **account instellingen** naar **organisatie profiel** en ga naar **rechts**.
 
-2. Ga vervolgens naar **organisatie profiel** en selecteer **juridisch zakelijk profiel bijwerken**.
+1.  Schuif omlaag naar **locaties** en zorg ervoor dat het bedrijf dat u wilt als uw juridische bedrijf in de lijst staat. Als dat niet het geval is, kunt u het toevoegen. Selecteer **locatie toevoegen**. Voeg de locatie gegevens toe en **Sla** deze op.
+
+2. Schuif de volgende keer omhoog om een **juridisch zakelijk profiel** bij te werken.
 
 3. U ziet de locatie die u zojuist hebt toegevoegd. Selecteer de IT en het bedrijf dat u wilt gebruiken als uw bedrijf en selecteer vervolgens **Opslaan**.
 

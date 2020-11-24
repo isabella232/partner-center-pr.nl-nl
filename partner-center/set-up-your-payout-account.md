@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488127"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514755"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Stel uw betalingsaccount en belastingformulieren
 
@@ -44,7 +44,7 @@ U kunt uw belasting formulieren elektronisch volt ooien en verzenden in het part
 > [!IMPORTANT]
 > Verschillende landen en regio's hebben verschillende belasting vereisten. De exacte hoeveelheid die u in BTW moet betalen, is afhankelijk van de landen en regio's waar u uw aanbieding verkoopt. Raadpleeg de [Microsoft Azure Marketplace Publisher-overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560) voor meer informatie over welke landen/regio's micro soft verkoop en het gebruik van belasting namens u verkrijgt. In andere landen/regio's, afhankelijk van waar u bent Inge schreven, moet u mogelijk verkoop-en gebruiks belasting voor uw aanbiedings verkoop rechtstreeks naar de lokale belasting dienst remitteren. Daarnaast kan de omzet van de app die u ontvangt, als bate worden belast. We raden u aan om contact op te nemen met de relevante instantie voor uw land of regio, die u het beste kan helpen bij het bepalen van de juiste belasting gegevens voor uw commerciële Marketplace-activiteiten.
 
-1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het pictogram **account instellingen** in de rechter bovenhoek en selecteer vervolgens **instellingen voor ontwikkel aars**.
+1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en klik vervolgens op **account instellingen**.
 
 2. Selecteer in het navigatie menu aan de linkerkant de optie **uitbetaling en belasting** en selecteer vervolgens **betaling en BTW-toewijzingen**.
 
@@ -81,7 +81,7 @@ Een uitbetalings account is de Bank rekening waarnaar we de opbrengst van uw ver
 
 ### <a name="create-a-payment-profile"></a>Een betalings profiel maken
 
-1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en selecteer vervolgens **account instellingen**.
+1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en klik vervolgens op **account instellingen**.
 2. Onder de kop *uitbetaling en belasting* selecteert u **toekennings-en BTW-profiel toewijzing**.
 
     > [!NOTE]
@@ -124,7 +124,7 @@ Controleer het volgende om ervoor te zorgen dat uw uitbetaling slaagt:
 
 U kunt bestaande betalings profielen bewerken als u wijzigingen wilt aanbrengen of onjuiste gegevens wilt corrigeren.
 
-1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en selecteer vervolgens **instellingen voor ontwikkel aars**.
+1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en klik vervolgens op  **account instellingen**.
 
 2. Selecteer onder de kop *uitbetaling en belasting* de optie **uitbetalings-en BTW-profielen**.
 

@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007499"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514772"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Facturering en facturering van Azure Marketplace
 
@@ -57,7 +57,7 @@ Wanneer uw factuur wordt ontvangen, varieert:
 - Als uw betaal middel een credit card is, wordt u direct na de aankoop van de reserve ring gefactureerd. Deze factuur is gescheiden van uw maandelijkse factuur.
 - Als uw betalings middel is cheque/bedrading, wordt deze aankoop opgenomen op uw maandelijkse factuur voor Marketplace.
 
-Er worden facturen gemaakt voor factureringsrekeningen van Microsoft Online-serviceprogramma (MOSP), Microsoft-klantovereenkomst (MCA) en Microsoft Partner-overeenkomst (MPA). Facturen genereren op basis van uw type facturerings account. Azure Marketplace factureert u enkele dagen na het einde van de [facturerings periode](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice). De factuur voor Azure Marketplace, reserve ringen en spot-Vm's wordt gegenereerd rond de [negende dag van de maand](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). Hier worden de respectieve kosten van de vorige maand weer gegeven. Als een gebruiker bijvoorbeeld een reserve ring heeft aangeschaft op 1 maart en een andere reserve ring op 30 maart, bevat één factuur in april beide reserve ringen.
+Er worden facturen gemaakt voor factureringsrekeningen van Microsoft Online-serviceprogramma (MOSP), Microsoft-klantovereenkomst (MCA) en Microsoft Partner-overeenkomst (MPA). Facturen genereren op basis van uw type facturerings account. Azure Marketplace factureert u enkele dagen na het einde van de facturerings periode. De factuur voor Azure Marketplace, reserve ringen en spot-Vm's wordt gegenereerd rond de [negende dag van de maand](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). Hier worden de respectieve kosten van de vorige maand weer gegeven. Als een gebruiker bijvoorbeeld een reserve ring heeft aangeschaft op 1 maart en een andere reserve ring op 30 maart, bevat één factuur in april beide reserve ringen.
 
 Zie [uw kosten voor Azure External service begrijpen](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)voor meer informatie over facturen.
 

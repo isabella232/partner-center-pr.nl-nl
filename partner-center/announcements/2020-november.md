@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947695"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514738"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
@@ -23,6 +23,32 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft par
 2020 aankondigingen: [april](2020-april.md)juni tot en met september tot en met  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md) | Maand
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Introductie van de mogelijkheid om SaaS-aanbiedingen te kopen met een facturering naar gebruik in het partner centrum 
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-11-24
+- Functies
+
+## <a name="summary"></a>Samenvatting
+
+Micro soft introduceert de mogelijkheid voor partners in het Cloud Solution Provider-programma om SaaS-aanbiedingen te kopen met facturering naar gebruik in Partner Center. 
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners
+
+### <a name="details"></a>Details
+
+Micro soft introduceert de mogelijkheid voor partners in het Cloud Solution Provider-programma, met inbegrip van indirecte providers en directe factuur partners, om SaaS-aanbiedingen te kopen met [facturering](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)naar gebruik   in Partner Center. Tegenwoordig kunnen partners in het Cloud Solution Provider-programma SaaS-aanbiedingen bekijken en [kopen met behulp van de Azure Portal](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase).Met deze nieuwe ervaring kunnen partners deze aanbiedingen kopen via de CSP-Marketplace in het partner centrum en de API, zoals voor andere typen SaaS-aanbiedingen. 
+
+### <a name="next-steps"></a>Volgende stappen
+
+Deel deze informatie met alle relevante contact personen in uw bedrijf.
+
+
+
+
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nieuwe, geïntegreerde account beheer ervaring
 
 ### <a name="categories"></a>Categorieën
