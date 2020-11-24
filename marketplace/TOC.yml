@@ -1,11 +1,35 @@
 - name: Klantdocumentatie voor Microsoft Marketplace
   href: index.yml
+- name: Microsoft AppSource
+  items:
+    - name: Over Microsoft AppSource
+      href: appsource-overview.md
+    - name: Software aanschaffen op AppSource
+      href: purchase-software-appsource.md
 - name: Azure Marketplace
   items:
-    - name: Azure Private Marketplace maken
+    - name: Over Azure Marketplace
+      href: azure-marketplace-overview.md
+    - name: Aanschaffen
+      href: azure-purchasing-invoicing.md
+    - name: Facturering
+      href: billing-invoicing.md
+    - name: Persoonlijke aanbiedingen
+      href: private-offers.md
+    - name: Geschiktheid voor abonnementsoverdracht
+      href: transfer-eligibility.md
+    - name: Privé Azure Marketplace maken en beheren
       href: create-manage-private-azure-marketplace.md
     - name: Azure Marketplace-partnerintegraties
       href: partner-integrations.md
+- name: Algemene bronnen
+  items:
+    - name: Restitutiebeleid
+      href: refund-policies.md
+    - name: Juridische contracten
+      href: legal-contracts.md
+    - name: Ondersteuning krijgen
+      href: get-support.md
 - name: Naslaginformatie
   items:
     - name: Azure PowerShell
