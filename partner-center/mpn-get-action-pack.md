@@ -1,7 +1,7 @@
 ---
 title: Micro soft Action Pack-aanbiedingen kopen of vernieuwen
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over het aanschaffen van een abonnement op micro soft Action Pack en het gebruik van Action Pack-voor delen. Leer ook hoe u uw factuur kunt vernieuwen, annuleren, bekijken en nog veel meer.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "92528168"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812857"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Een abonnement op Microsoft Action Pack of een Silver- of Gold-competentie kopen of verlengen
 
@@ -52,7 +52,7 @@ Een [competentie partner](https://partner.microsoft.com/membership/competencies)
 ### <a name="check-your-renewal-eligibility"></a>Controleer de geschiktheid voor het vernieuwen
 
 >[!IMPORTANT]
->Als u wordt uitgenodigd om uw abonnement te verlengen in het partner centrum, moet u er rekening mee houden dat het vernieuwings venster beleid is gewijzigd en u uw abonnement pas kunt vernieuwen nadat het is verlopen. Als uw abonnement bijvoorbeeld op 22 juni verloopt, kunt u het vernieuwen vanaf 23 juni en 30 dagen na.       
+>Als u wordt uitgenodigd om uw abonnement te verlengen in het partner centrum, moet u er rekening mee houden dat het vernieuwings venster beleid is gewijzigd en u uw abonnement pas kunt vernieuwen nadat het is verlopen. Als uw abonnement bijvoorbeeld op 22 juni verloopt, kunt u het vernieuwen vanaf 23 juni en 30 dagen na.
 >U kunt de verval datum van uw abonnement vinden op de pagina [**lidmaatschaps aanbiedingen**](https://partnercenter.microsoft.com/pcv/partnership/offers) (aanmelden is vereist). Als u in aanmerking komt voor verlenging in het partner centrum, volgt u de onderstaande stappen.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Een micro soft Action Pack-abonnement vernieuwen in het partner centrum
@@ -64,13 +64,13 @@ Een [competentie partner](https://partner.microsoft.com/membership/competencies)
     >[!NOTE]
     >Als **abonnement vernieuwen** niet wordt weer gegeven of grijs is, kunt u uw Action Pack-abonnement nog niet vernieuwen. Het vernieuwings venster beleid is gewijzigd en u kunt uw abonnement pas vernieuwen nadat het is verlopen. Als uw abonnement bijvoorbeeld op 22 juni verloopt, kunt u het vernieuwen vanaf 23 juni en 30 dagen na.  
 
-3. Als u betaalt met een credit card, volgt u de instructies voor het toevoegen van uw creditcard gegevens. Als u met een elektronische Bank overboeking betaalt, geeft u de naam, het telefoon nummer en het e-mail adres van de contact persoon op en selecteert u vervolgens **verzenden** . 
-     
+3. Als u betaalt met een credit card, volgt u de instructies voor het toevoegen van uw creditcard gegevens. Als u met een elektronische Bank overboeking betaalt, geeft u de naam, het telefoon nummer en het e-mail adres van de contact persoon op en selecteert u vervolgens **verzenden**.
+
 4. Controleer de details van uw bestelling en selecteer vervolgens **kopen** wanneer u klaar bent om Action Pack te kopen. Uw credit card wordt direct in rekening gebracht.
 
-5. Uw bestelling is bevestigd. Selecteer **Sluiten** .
+5. Uw bestelling is bevestigd. Selecteer **Sluiten**.
 
-Uw Action Pack-abonnement wordt elk jaar automatisch verlengd op deze datum. U kunt de automatische verlenging op elk gewenst moment uitschakelen in de lijst met **aangeschafte** aanbiedingen. u kunt het automatisch vernieuwen van abonnementen echter pas weer inschakelen nadat u uw abonnement opnieuw hebt vernieuwd. 
+Uw Action Pack-abonnement wordt elk jaar automatisch verlengd op deze datum.
 
 ### <a name="update-your-bill-to-address"></a>Uw factuur adres bijwerken
 
@@ -80,39 +80,29 @@ In het proces van het vernieuwen of aanschaffen van Action Pack, hebt u de mogel
   
  1. Werk op de pagina **partner profiel** uw adres bij.
 
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Automatische vernieuwing van Action Pack abonnement uitschakelen
-
-1. Ga naar de pagina [**lidmaatschaps aanbiedingen**](https://partnercenter.microsoft.com/pcv/partnership/offers) .  Selecteer **micro soft Action Pack-abonnement** om uw abonnements gegevens weer te geven. 
-
-2. Selecteer **Automatische verlenging** uitschakelen als u niet wilt dat uw Action Pack abonnement elk jaar automatisch wordt vernieuwd. 
-
-    >[!NOTE]
-    >Als u automatische verlenging van abonnementen uitschakelt, kunt u deze niet meer inschakelen totdat u het abonnement opnieuw verlengt. U wordt geadviseerd om u te verlengen voordat uw abonnement verloopt.
-
-
 ## <a name="cancel-your-action-pack-subscription"></a>Uw Action Pack-abonnement annuleren
 
 Als u uw micro soft Action Pack-abonnement wilt annuleren, moet u mogelijk contact opnemen met de partner ondersteuning.
 
 1. Ga naar de pagina [**lidmaatschaps aanbiedingen**](https://partnercenter.microsoft.com/pcv/partnership/offers) . Selecteer **micro soft Action Pack-abonnement** om uw abonnements gegevens weer te geven. 
 
-3. Selecteer **abonnement annuleren** . Volg de instructies voor het maken van een ondersteunings aanvraag. 
+3. Selecteer **abonnement annuleren**. Volg de instructies voor het maken van een ondersteunings aanvraag. 
 
 4. Selecteer op het formulier voor de ondersteunings aanvraag de volgende waarden om uw aanvraag correct te routeren:
 
     -  Selecteer **rapport problemen met partner centrum** en selecteer vervolgens **nieuwe aanvraag** op de volgende pagina.
 
-    -  Vouw het **soort probleem** lijst uit en selecteer **Help bij partner factuur, betaling of afstemmings bestand** . 
+    -  Vouw het **soort probleem** lijst uit en selecteer **Help bij partner factuur, betaling of afstemmings bestand**. 
 
-5. Vul de vereiste gegevens in en selecteer vervolgens **verzenden** . Het partner centrum-ondersteunings team neemt contact met u op om u te helpen bij het annuleren van uw abonnement.
+5. Vul de vereiste gegevens in en selecteer vervolgens **verzenden**. Het partner centrum-ondersteunings team neemt contact met u op om u te helpen bij het annuleren van uw abonnement.
 
-Als u de status van uw service aanvraag wilt controleren, selecteert u **Partner Center-aanvragen** van **ondersteuning** en selecteert u **openen** . Kies de juiste service aanvraag in de lijst.  
+Als u de status van uw service aanvraag wilt controleren, selecteert u **Partner Center-aanvragen** van **ondersteuning** en selecteert u **openen**. Kies de juiste service aanvraag in de lijst.  
 
 ## <a name="download-your-action-pack-invoice"></a>Uw Action Pack factuur downloaden
 
 1. Ga naar de pagina [**lidmaatschaps aanbiedingen**](https://partnercenter.microsoft.com/pcv/partnership/offers) . Selecteer **micro soft Action Pack-abonnement** om uw abonnements gegevens weer te geven. 
 
-3. Selecteer **factuur downloaden** .
+3. Selecteer **factuur downloaden**.
  
 ## <a name="next-steps"></a>Volgende stappen
 

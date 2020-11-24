@@ -1,26 +1,26 @@
 ---
 title: Competenties-Veelgestelde vragen
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Antwoorden op vragen over het bereiken van Microsoft Partner Network Gold-en Silver-competenties, verval datum van voor deel, verlenging en activering van licenties voor Azure, Cloud, Visual Studio en technische en ondersteunings voordelen
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755270"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812818"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Competenties-Veelgestelde vragen
 
 Van toepassing op:
 
 - Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 - Partners in het Microsoft Partner Network-programma (MPN)
 
 In dit artikel vindt u antwoorden op algemene vragen over examens, certificeringen en software-voor delen die betrekking hebben op het bereiken van een Microsoft Partner Network competentie.
@@ -44,7 +44,7 @@ Ze kunnen dit doen vanuit het partner centrum, als volgt:
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
 
-1. Selecteer **MPN** gevolgd door **competenties** .
+1. Selecteer **MPN** gevolgd door **competenties**.
 
 1. Ga naar de bovenkant van de pagina competenties, zoek de optie **vaardig heden-rapport downloaden** en selecteer deze.
 
@@ -79,7 +79,7 @@ Raadpleeg de volgende bronnen:
 
 - [Down load](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) licentie tabellen voor competentie partners.
 
-- [Down load](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) de licentie tabel voor micro soft Action Pack-abonnements partners.
+- [Down load](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) de licentie tabel voor micro soft Action Pack-abonnements partners.
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>V. Hoe kan ik een micro soft-certificerings profiel-ID (MCP-ID of MCID) koppelen aan mijn micro soft Partner Center-account?
 
