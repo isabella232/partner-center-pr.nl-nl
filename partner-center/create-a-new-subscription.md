@@ -9,19 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528584"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038877"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Klantabonnementen maken, onderbreken of annuleren
 
 **Van toepassing op**
 
 - Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 - CSP-partners
 
 **Juiste rollen**
@@ -36,8 +36,8 @@ Nadat u een record van uw klant in het partner centrum hebt gemaakt, kunt u deze
 
 Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Ga naar de pagina prijzen en aanbiedingen van het partner centrum om een lijst weer te geven van welke aanbiedingen zijn beperkt.
 
-> [!IMPORTANT]
-> Als partner in het CSP-programma kunt u alleen SaaS-abonnementen op **basis van licenties** kopen van ISV-uitgevers in het partner centrum. Dit betekent dat u een **op licenties gebaseerde SaaS-** aanbieding kunt kopen die de ISV-Uitgever voor u beschikbaar heeft gesteld, met inbegrip van [exclusieve aanbiedingen](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) waartoe u toegang hebt. Ga naar de [Azure-beheer Portal](https://portal.azure.com/)om andere commerciële Marketplace-aanbiedingen van onafhankelijke software leveranciers te kopen of beheren (zoals **op gebruik gebaseerde** , gecontroleerde of op verbruiks gebaseerde aanbiedingen voor Azure-toepassingen, containers of vm's). Zie [commerciële Marketplace-producten kopen](csp-commercial-marketplace-purchase.md)voor meer informatie.
+>[!IMPORTANT]
+> Als partner in het CSP-programma kunt u SaaS **-abonnementen op basis van licenties** of **Data limieten** aanschaffen bij ISV-uitgevers in het partner centrum. Dit betekent dat u een **op licenties gebaseerde** SaaS- **metered** aanbieding kunt aanschaffen die de ISV-Uitgever voor u beschikbaar heeft gesteld, met inbegrip van [exclusieve aanbiedingen](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) waartoe u toegang hebt. Als u andere commerciële Marketplace-aanbiedingen van onafhankelijke software leveranciers wilt kopen of beheren (zoals aanbiedingen op basis van het gebruik van Azure-toepassingen, containers of Vm's), gaat u naar de [Azure Portal](https://portal.azure.com/).
 
 ## <a name="create-a-new-subscription"></a>Een nieuw abonnement maken
 
@@ -45,12 +45,12 @@ Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Ga naar de pag
 
 2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
 
-3. Selecteer **abonnement toevoegen** . Op het tabblad **Online Services** worden alle beschik bare SaaS-aanbiedingen voor Marketplace weer gegeven.
+3. Selecteer **abonnement toevoegen**. Op het tabblad **Online Services** worden alle beschik bare SaaS-aanbiedingen voor Marketplace weer gegeven.
 
 4. Als u alleen bepaalde typen abonnementen wilt zien, selecteert u de gewenste opties in de beschik bare filters:
-   - **Uitgever** : Kies **micro soft** om alleen aanbiedingen van micro soft of **partner** te bekijken voor commerciële Marketplace-producten die door isv's worden gepubliceerd.
-   - **Facturerings type** : Selecteer het type abonnement facturering dat u wilt gebruiken: **licentie** of **gebruik** . Zie [factuur op basis van licenties](license-based-billing.md) voor informatie die u kan helpen bij het bepalen van de maandelijkse en jaarlijkse facturerings frequentie.
-   - **Categorie** : Kies **Enter prise** , **Small Business** of **proef versie** . Zie voor meer informatie over proef abonnementen [uw klanten een proef versie van micro soft-producten aanbieden](offer-your-customers-trials-of-microsoft-products.md).
+   - **Uitgever**: Kies **micro soft** om alleen aanbiedingen van micro soft of **partner** te bekijken voor commerciële Marketplace-producten die door isv's worden gepubliceerd.
+   - **Facturerings type**: Selecteer het type abonnement facturering dat u wilt gebruiken: **licentie** of **gebruik**. Zie [factuur op basis van licenties](license-based-billing.md) voor informatie die u kan helpen bij het bepalen van de maandelijkse en jaarlijkse facturerings frequentie.
+   - **Categorie**: Kies **Enter prise**, **Small Business** of **proef versie**. Zie voor meer informatie over proef abonnementen [uw klanten een proef versie van micro soft-producten aanbieden](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Selecteer de product abonnementen die u wilt kopen voor uw klant. De producten die u ziet, zijn afhankelijk van het type klant segment (onderwijs, overheid enz.) en de filters die u hebt toegepast. Sommige aanbiedingen die op Marketplace worden weer gegeven, zijn mogelijk niet altijd beschikbaar voor een specifieke klant of een specifieke CSP-partner. Dit kan een van de volgende zijn:
 
@@ -60,17 +60,17 @@ Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Ga naar de pag
 
    - Voor ISV SaaS-aanbiedingen kunnen er een paar redenen zijn waarom de aanbieding niet beschikbaar is voor aankoop: de ISV biedt mogelijk geen ondersteuning voor het factuur land of de regio van de klant. de ISV heeft mogelijk ervoor gekozen om de aanbieding niet beschikbaar te stellen via het CSP-programma; het is ook mogelijk dat de ISV de aanbieding [exclusief](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) heeft gemaakt voor bepaalde CSP-partners. De ISV-aanbieding kan ook niet worden verwerkt via het partner centrum (bijvoorbeeld containers of bepaalde op gebruik gebaseerde aanbiedingen).  
 
-6. Voer het aantal licenties (indien nodig) in voor elk abonnement dat u wilt toevoegen en selecteer **toevoegen aan winkel wagen** .
+6. Voer het aantal licenties (indien nodig) in voor elk abonnement dat u wilt toevoegen en selecteer **toevoegen aan winkel wagen**.
 
 7. Wanneer u klaar bent met het toevoegen van abonnementen, selecteert u uw bestelling **controleren** en controleren.
 
-8. Wanneer u uw orders hebt gecontroleerd en u klaar bent om deze abonnementen te kopen, selecteert u **kopen** .
+8. Wanneer u uw orders hebt gecontroleerd en u klaar bent om deze abonnementen te kopen, selecteert u **kopen**.
 
 9. Nadat u een abonnement voor een klant hebt gekocht, gebeurt het volgende:
 
     - U kunt het abonnement bekijken of bewerken door de naam van het abonnement te selecteren op de pagina **abonnementen** van die klant. Hier kunt u licenties voor invoeg toepassingen selecteren als er een beschikbaar is, het aantal licenties wijzigen of het abonnement opschorten.
 
-    **Voor ISV SaaS-abonnementen (op basis van licenties):**
+    **Voor ISV SaaS-abonnementen (op basis van licenties en data limieten):**
     - U ontvangt een koppeling naar de site van de ISV-Uitgever. Deze koppeling helpt u bij het volt ooien van de implementatie of het instellen van het account voor het abonnement van de klant.
       
     >[!NOTE]
@@ -104,7 +104,7 @@ Partners kunnen een abonnement opschorten of annuleren indien dit wordt aangevra
 
 ### <a name="suspend-a-subscription"></a>Een abonnement opschorten
 
-Wanneer u de status van een abonnement wijzigt in **opgeschort** , kunnen gebruikers zich niet aanmelden of hebben geen toegang tot services.
+Wanneer u de status van een abonnement wijzigt in **opgeschort**, kunnen gebruikers zich niet aanmelden of hebben geen toegang tot services.
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
 
@@ -112,7 +112,7 @@ Wanneer u de status van een abonnement wijzigt in **opgeschort** , kunnen gebrui
 
 3. Kies het abonnement dat u wilt beheren.
 
-4. Kies **Onderbroken** bij **Status** . Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
+4. Kies **Onderbroken** bij **Status**. Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
 5. Alle gegevens worden verwijderd, tenzij het abonnement binnen 90 dagen opnieuw wordt geactiveerd 90, plus het aantal dagen tussen het tijdstip waarop het account is geopend en de eerste facturerings periode (Maxi maal 120 dagen).
 
@@ -149,7 +149,7 @@ Ga als volgt te werk om een SaaS-abonnement op basis van een licentie van een IS
 
 4. Selecteer **Annuleren** in de kolom **status** . Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
-5. Als er een dialoog venster wordt weer gegeven, vult u de relevante gegevens in en selecteert u vervolgens **verzenden** .
+5. Als er een dialoog venster wordt weer gegeven, vult u de relevante gegevens in en selecteert u vervolgens **verzenden**.
 
 6. Selecteer **Ja, annuleren** om de annulering te bevestigen.
 
@@ -166,13 +166,13 @@ Als u wilt voor komen dat een actief abonnement op commerciële Marketplace auto
 
 2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
 
-3. Selecteer **Abonnementen** . Hier vindt u een overzicht van de op licenties gebaseerde abonnementen die u hebt aangeschaft voor de klant.
+3. Selecteer **Abonnementen**. Hier vindt u een overzicht van de op licenties gebaseerde abonnementen die u hebt aangeschaft voor de klant.
 
 4. Selecteer in de kolom **abonnement** het abonnement dat u wilt wijzigen.
 
 5. Zoek op de pagina abonnements Details het gedeelte **status** en schakel het selectie vakje **automatisch verlengen** uit.
 
-6. Selecteer **Indienen** .
+6. Selecteer **Indienen**.
 
 ## <a name="next-steps"></a>Volgende stappen
 
@@ -180,4 +180,4 @@ Als u wilt voor komen dat een actief abonnement op commerciële Marketplace auto
 
 - [Commerciële Marketplace-Producten voor uw klanten beheren](csp-commercial-marketplace-manage.md)
 
-- [Overzicht van commerciële Marketplace](csp-commercial-marketplace-overview.md)
+- [Overzicht van commerciële marketplace](csp-commercial-marketplace-overview.md)

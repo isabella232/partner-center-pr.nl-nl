@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528569"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038845"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Aanbiedingen en prijzen ontdekken in het Partner Center-Commercial Marketplace
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Aanbiedingen en prijzen ontdekken in Partner Center Commercial Marketplace
 
 **Van toepassing op**
 
@@ -28,25 +28,25 @@ ms.locfileid: "92528569"
 - Globale beheerder
 - Beheer agent
 
-Als onafhankelijke software leveranciers (Isv's) kiezen om een aanbieding in de commerciële Marketplace te publiceren, kunnen ze ook bepalen of de aanbieding beschikbaar moet worden gesteld in het CSP-programma. Als ze ervoor kiezen om de aanbieding via het CSP-programma te verkopen, moeten CSP-partners de aanbieding zien in het Marketplace-gebied van partner centrum.
+Als onafhankelijke software leveranciers (Isv's) kiezen om een aanbieding in de commerciële Marketplace te publiceren, kunnen ze ook bepalen of de aanbieding beschikbaar moet worden gesteld in het CSP-programma. Als ze ervoor kiezen om de aanbieding via het CSP-programma te verkopen, zouden CSP-partners de aanbieding in Partner Center Marketplace kunnen zien.
 
-Als een ISV-aanbieding niet wordt weer gegeven zoals u verwacht in het partner centrum, kan dat zijn door:
+Als een ISV-aanbieding niet wordt weer gegeven zoals u verwacht in het partner centrum, kan dit de volgende reden zijn:
 
-- De ISV heeft besloten de aanbieding niet via het CSP-programma te verkopen. Sommige ISV-producten kunnen bijvoorbeeld beschikbaar zijn gesteld in andere gebieden van de commerciële Marketplace (zoals in [Microsoft AppSource](https://appsource.microsoft.com/) en [Azure Marketplace](https://azuremarketplace.microsoft.com/)), maar worden mogelijk niet weer gegeven voor Csp's in het partner centrum Marketplace.
+- De ISV heeft besloten de aanbieding niet via het CSP-programma te verkopen. Sommige ISV-producten kunnen bijvoorbeeld beschikbaar zijn gesteld in andere gebieden van de commerciële Marketplace (zoals in [Microsoft AppSource](https://appsource.microsoft.com/) en [Azure Marketplace](https://azuremarketplace.microsoft.com/)), maar worden mogelijk niet weer gegeven voor partners in het CSP-programma in Partner Center Marketplace.
 
 - De ISV heeft besloten de aanbieding exclusief te maken voor een select aantal CSP-partners. Zie verderop in dit Help-onderwerp voor meer informatie over exclusieve aanbiedingen.
 
-- Het aanbiedings type kan mogelijk niet worden gebruikt door het partner centrum of Azure Portal (bijvoorbeeld containers of sommige op gebruik gebaseerde aanbiedingen).
+- Het type van de aanbieding kan niet worden gebruikt via partner centrum of Azure Portal (bijvoorbeeld containers of sommige op gebruik gebaseerde aanbiedingen).
 
 - Het facturerings land van uw gekoppelde klant (s) wordt mogelijk niet ondersteund voor deze ISV-aanbieding.
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>Marketplace-aanbiedingen weer geven in het partner centrum
 
-Beschik bare commerciële Marketplace-aanbiedingen weer geven in het CSP-programma: 
+Beschik bare commerciële Marketplace-aanbiedingen weer geven in het CSP-programma:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van het partner centrum en selecteer vervolgens **CSP** in het navigatie menu aan de linkerkant.
+1. Meld u aan bij het Partner Center- [dash board](https://partner.microsoft.com/dashboard)en selecteer vervolgens **CSP** in het navigatie menu aan de linkerkant.
 
-2. Selecteer **verkopen** , gevolgd door **Marketplace** . Standaard worden producten van alle typen en categorieën weer geven.
+2. Selecteer **verkopen**, gevolgd door **Marketplace**. Standaard worden producten van alle typen en categorieën weer geven.
 
 3. Selecteer een filter op type of categorie. U kunt ook **zoeken** gebruiken om specifieke tref woorden, namen van het aanbod of de namen van ISV-uitgevers te vinden.
 
@@ -70,17 +70,17 @@ Beschik bare commerciële Marketplace-aanbiedingen weer geven in het CSP-program
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Marketplace-aanbiedingen via partner Center-Api's weer geven
 
-CSP-programma partners kunnen ook Api's gebruiken om een lijst met in aanmerking komende aanbiedingen te retour neren. In aanmerking komende aanbiedingen zijn alleen de SaaS-ISV-aanbiedingen die beschikbaar zijn voor de partner om te verkopen via de Marketplace van het partner centrum. Raadpleeg de richt lijnen voor het [verkrijgen van een lijst met aanbiedingen voor een markt](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)voor partners die gebruikmaken van api's voor het identificeren van aanbiedingen in de catalogus.
+CSP-programma partners kunnen ook Api's gebruiken om een lijst met in aanmerking komende aanbiedingen te retour neren. In aanmerking komende aanbiedingen zijn alleen de SaaS ISV-aanbiedingen die beschikbaar zijn voor de partner om te verkopen via partner Center Marketplace. Raadpleeg de richt lijnen voor het [verkrijgen van een lijst met aanbiedingen voor een markt](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)voor partners die gebruikmaken van api's voor het identificeren van aanbiedingen in de catalogus.
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Bekijk de nieuwste prijzen voor Marketplace-aanbiedingen in het partner centrum
 
 Volg deze stappen voor de meest recente prijs informatie die is gekoppeld aan een aanbieding:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van het partner centrum en selecteer vervolgens **CSP** in het navigatie menu aan de linkerkant.
+1. Meld u aan bij het Partner Center- [dash board](https://partner.microsoft.com/dashboard)en selecteer vervolgens **CSP** in het navigatie menu aan de linkerkant.
 
-2. Selecteer **verkopen** , gevolgd door **prijzen en aanbiedingen** .
+2. Selecteer **verkopen**, gevolgd door **prijzen en aanbiedingen**.
 
-3. Schuif omlaag naar het gedeelte **Marketplace** , selecteer een locatie en down load **Marketplace-prijzen** . Hiermee genereert u een spread sheet met de nieuwste prijs gegevens voor SaaS, op licenties gebaseerde aanbiedingen die beschikbaar zijn via ISV-Publishers. Enkele prijzen voor Azure-toepassingen kunnen hier ook worden weer gegeven. Deze informatie wordt dagelijks bijgewerkt, zodat u deze kunt controleren op huidige prijzen, zo vaak als u wilt.
+3. Schuif omlaag naar het gedeelte **Marketplace** , selecteer een locatie en down load **Marketplace-prijzen**. Hiermee genereert u een spread sheet met de meest recente prijs gegevens voor SaaS, aanbiedingen op basis van licenties en aanbiedingen met gecontroleerde Beschik baarheid van ISV-Publishers. Enkele prijzen voor Azure-toepassingen kunnen hier ook worden weer gegeven. Deze informatie wordt dagelijks bijgewerkt, zodat u deze kunt controleren op huidige prijzen, zo vaak als u wilt.
 
 4. Als een ISV-product een gratis proef periode bevat, worden in het werk blad twee rijen weer gegeven voor dat product:
 
@@ -92,7 +92,7 @@ Als CSP-programma partner komt u mogelijk in aanmerking voor andere stimulansen 
 
 ## <a name="learn-about-marketplace-exclusive-offers"></a>Meer informatie over aanbiedingen voor exclusieve Marketplace
 
-Isv's hebben de mogelijkheid om hun aanbiedingen alleen beschikbaar te maken voor specifieke partners in het CSP-programma. Dit wordt een exclusieve aanbieding genoemd. Alle partners in het CSP-programma kunnen nog steeds alle ISV-aanbiedingen bekijken in de commerciële Marketplace van partner Center, inclusief de aanbiedingen die zijn gemarkeerd als Exclusive.
+Isv's hebben de mogelijkheid om hun aanbiedingen alleen beschikbaar te maken voor specifieke partners in het CSP-programma. Dit wordt een exclusieve aanbieding genoemd. Alle partners in het CSP-programma kunnen nog steeds alle ISV-aanbiedingen in Partner Center Commercial Marketplace bekijken, inclusief de aanbiedingen die zijn gemarkeerd als Exclusive.
 
 Als een aanbieding **niet** is gemarkeerd als exclusief, kunnen alle partners die aanbieding kopen (ervan uitgaande dat het factuur land van de geselecteerde klant overeenkomt met de land beschikbaarheid van de aanbieding van de ISV).
 

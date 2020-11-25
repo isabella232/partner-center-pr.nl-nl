@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528566"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038826"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Overzicht van de commerciële Marketplace in het partner centrum
 
@@ -68,7 +68,7 @@ Ga naar de [basis beginselen van facturering](billing-basics.md) voor meer infor
 
 Zie de volgende tabellen voor meer informatie over waar u een specifieke Marketplace-activiteit kunt volt ooien voor op licenties gebaseerde of op gebruik gebaseerde ISV-aanbiedingen.
 
-|**Voor op licenties gebaseerde SaaS-aanbiedingen van onafhankelijke software leveranciers**  |**Gebruiken**  |
+|**Voor SaaS-aanbiedingen op basis van licenties of Data limieten van onafhankelijke software leveranciers**  |**Gebruiken**  |
 |:------------------------------------|:------------------|
 |Beschik bare aanbiedingen detecteren of zoeken  | Partner Center-dash board of partner Center-Api's  |
 |Een aanbieding kopen  | Partner Center-dash board of partner Center-Api's  |
