@@ -1,7 +1,7 @@
 ---
 title: Registreren bij het Cloud Solution Provider-programma
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over het registreren van het software-verkoop model van de Cloud Solution Provider (CSP) dat het beste is voor uw bedrijf, zoals een indirecte wederverkoper of een directe factuur partner.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045390"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322080"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registreren bij het Cloud Solution Provider-programma
 
@@ -42,7 +42,7 @@ Het kan ons enkele dagen duren om de door u verstrekte informatie te controleren
 3. Nadat uw gegevens zijn geverifieerd, gaat u akkoord met de overeenkomst voor micro soft indirect reseller.
 
 > [!IMPORTANT]  
-> Een partner in het CSP-programma kan onlineservices momenteel niet verkopen naar een andere partner in het CSP-programma. Micro soft bekijkt voortdurend het beleid en de mogelijkheden van alle Program ma's. Nieuws over functie releases of beleids wijzigingen worden aangekondigd via de gebruikelijke communicatie kanalen, inclusief de aankondigingen van partners in het [partner centrum](announcements/index.md).
+> Een partner in het CSP-programma kan onlineservices momenteel niet verkopen naar een andere partner in het CSP-programma. Deze beperking is alleen van toepassing op de Tenant die wordt gebruikt voor het uitvoeren van CSP-trans acties. CSP-partners die een niet-CSP-Tenant gebruiken voor hun bedrijfs gebruik, kunnen onlineservices aanschaffen bij een andere CSP-partner. Micro soft bekijkt voortdurend het beleid en de mogelijkheden van alle Program ma's. Nieuws over functie releases of beleids wijzigingen worden aangekondigd via de gebruikelijke communicatie kanalen, inclusief de aankondigingen van partners in het [partner centrum](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Inschrijven als een indirecte wederverkoper
 
@@ -60,7 +60,7 @@ Verschillende indirecte providers bieden verschillende ondersteuning en services
 
 Als u nog niet met een provider (ook bekend als een distributeur) werkt, kunt u in [de lijst met officiële micro soft-providers zoeken](https://partnercenter.microsoft.com/partner/find-a-provider) naar een.
 
-Zie [aan de slag als een indirecte wederverkoper](https://partner.microsoft.com/cloud-solution-provider/whats-required) op de [website van Microsoft Partner Network](https://partner.microsoft.com/)voor meer informatie over wat er nodig is om deel te nemen aan het CSP-programma als een indirecte wederverkoper. 
+Zie [aan de slag als een indirecte wederverkoper](https://partner.microsoft.com/cloud-solution-provider/whats-required) op de [website van Microsoft Partner Network](https://partner.microsoft.com/)voor meer informatie over wat er nodig is om deel te nemen aan het CSP-programma als een indirecte wederverkoper.
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Inschrijven als directe factuur partner
 
@@ -99,4 +99,4 @@ Lees [de vereisten om een nieuwe locatie voor een CSP-bedrijf toe te voegen](man
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners](microsoft-partner-agreement.md)
+[Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners](microsoft-partner-agreement.md)

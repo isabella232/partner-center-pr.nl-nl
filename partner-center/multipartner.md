@@ -1,7 +1,7 @@
 ---
 title: Ondersteuning voor meerdere partners
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Een klant wil mogelijk met meerdere partners werken in het Cloud Solution Provider-programma dat is gespecialiseerd in verschillende services.
@@ -9,26 +9,27 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e34a8f8c85b1ad7826869a50f79a26550cf4790
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92527482"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322114"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Ondersteuning voor meerdere partners voor klanten die met meer dan één partner willen werken
 
 **Van toepassing op**
 
--  Partnercentrum
--  Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum
+- Partnercentrum voor Microsoft Cloud for US Government
 
 **Juiste rollen**
--   Globale beheerder
--   Gebruikersbeheerder
--   Verkoop agent
 
-De functie voor meerdere partners van het partner Centrum ondersteunt scenario's wanneer een klant wil werken met meer dan één partner. Het is bijvoorbeeld mogelijk dat een klant een partner wil inhuren voor hun expertise in Office 365, maar een andere partner in te huren die is gespecialiseerd in Microsoft Azure. 
+- Globale beheerder
+- Gebruikersbeheerder
+- Verkoop agent
+
+De functie voor meerdere partners van het partner Centrum ondersteunt scenario's wanneer een klant wil werken met meer dan één partner. Het is bijvoorbeeld mogelijk dat een klant een partner wil inhuren voor hun expertise in Office 365, maar een andere partner in te huren die is gespecialiseerd in Microsoft Azure.
 
 Een Azure CSP-Tenant kan een extra Azure-abonnement van een andere CSP-partner bevatten.
 
@@ -45,10 +46,4 @@ Functionaliteit voor meerdere partners biedt geen:
 - De record partner voor een abonnement wijzigen
 
 > [!IMPORTANT]  
-> Een partner in het CSP-programma kan onlineservices momenteel niet verkopen naar een andere partner in het CSP-programma. Micro soft bekijkt voortdurend het beleid en de mogelijkheden van alle Program ma's. Nieuws over functie releases of beleids wijzigingen worden aangekondigd via de gebruikelijke communicatie kanalen, inclusief de aankondigingen van partners in het [partner centrum](announcements/index.md).
-
-
-
-
-
-
+> Een partner in het CSP-programma kan onlineservices momenteel niet verkopen naar een andere partner in het CSP-programma. Deze beperking is alleen van toepassing op de Tenant die wordt gebruikt voor het uitvoeren van CSP-trans acties. CSP-partners die een niet-CSP-Tenant gebruiken voor hun bedrijfs gebruik, kunnen onlineservices aanschaffen bij een andere CSP-partner. Micro soft bekijkt voortdurend het beleid en de mogelijkheden van alle Program ma's. Nieuws over functie releases of beleids wijzigingen worden aangekondigd via de gebruikelijke communicatie kanalen, inclusief de aankondigingen van partners in het [partner centrum](announcements/index.md).
