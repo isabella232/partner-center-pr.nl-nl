@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92528703"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354221"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Ontvang gegevens over hoe goed uw klanten en Azure-abonnementen doen
 
@@ -32,7 +32,7 @@ ms.locfileid: "92528703"
 
 Gegevens stations kunnen zakelijke beslissingen nemen. Gebruik de metrische gegevens op de pagina voor **Azure-gebruik** om uw successen en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie wanneer u nieuwe zakelijke doelen plant.
 
-Meld u aan bij het [dash board](https:/partner.microsoft.com/dashboard)van partner Center om naar het **Azure-gebruik** te gaan. Selecteer **analyses** in het menu van het partner centrum en selecteer vervolgens **Azure-gebruik** .
+Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van partner Center om naar het **Azure-gebruik** te gaan. Selecteer **analyses** in het menu van het partner centrum en selecteer vervolgens **Azure-gebruik**.
 
 > [!NOTE]
 > Azure Usage Analytics is alleen beschikbaar voor partners in het Cloud Solution Provider-programma.
@@ -41,9 +41,9 @@ We volgen de volgende metrische gegevens:
 
 ## <a name="summary"></a>Samenvatting
 
-- **Aantal verkochte Azure-abonnementen** : aantal abonnementen dat binnen de opgegeven tijds periode wordt verkocht  
-- **Klanten met gebruik** : aantal klanten met Azure Usage in de opgegeven tijds periode  
-- **Klanten zonder gebruik** : aantal klanten zonder Azure-gebruik in de opgegeven tijds periode  
+- **Aantal verkochte Azure-abonnementen**: aantal abonnementen dat binnen de opgegeven tijds periode wordt verkocht  
+- **Klanten met gebruik**: aantal klanten met Azure Usage in de opgegeven tijds periode  
+- **Klanten zonder gebruik**: aantal klanten zonder Azure-gebruik in de opgegeven tijds periode  
 
 ## <a name="top-5-customers-in-category"></a>Top 5 van klanten in categorie
 
@@ -59,8 +59,8 @@ Deze sectie geeft het voorspelde verloop risico voor Azure-abonnementen aan. Dez
 
 ## <a name="azure-subscription-churn"></a>Verloop van Azure-abonnement
 
-- **Actieve abonnementen** : aantal actieve abonnementen op datum  
-- **Oningerichte abonnementen** : aantal abonnementen dat is opgeheven of opgeschort op datum  
+- **Actieve abonnementen**: aantal actieve abonnementen op datum  
+- **Oningerichte abonnementen**: aantal abonnementen dat is opgeheven of opgeschort op datum  
 
 ## <a name="customer-count"></a>Aantal klanten
 
