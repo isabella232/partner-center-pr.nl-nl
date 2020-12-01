@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514738"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439085"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
@@ -30,7 +30,7 @@ ______________
 - Datum: 2020-11-24
 - Functies
 
-## <a name="summary"></a>Samenvatting
+### <a name="summary"></a>Samenvatting
 
 Micro soft introduceert de mogelijkheid voor partners in het Cloud Solution Provider-programma om SaaS-aanbiedingen te kopen met facturering naar gebruik in Partner Center. 
 
@@ -46,8 +46,7 @@ Micro soft introduceert de mogelijkheid voor partners in het Cloud Solution Prov
 
 Deel deze informatie met alle relevante contact personen in uw bedrijf.
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nieuwe, geïntegreerde account beheer ervaring
 
@@ -56,7 +55,7 @@ Deel deze informatie met alle relevante contact personen in uw bedrijf.
 - Datum: 2020-11-18
 - Functies
 
-## <a name="summary"></a>Samenvatting
+### <a name="summary"></a>Samenvatting
 
 Vanaf 18 november zal het partner centrum de nieuwe account beheer ervaring implementeren waarmee de gebruikers ervaring voor partners wordt verbeterd. Partners kunnen nu hun account voor alle Program ma's beheren via instellingen-> account instellingen.
 
@@ -84,8 +83,7 @@ Meld u aan bij het dash board van het partner centrum, selecteer het pictogram �
 
 Deel deze informatie met alle relevante contact personen in uw bedrijf.
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 voor Mid-Market promoties (LATAM, APAC en India)
 
@@ -113,6 +111,7 @@ Dit is in de tussen tijd beschikbaar op 1 december. u kunt deze informatie delen
 
 ### <a name="questions"></a>Vragen?
 Neem contact op met de [ondersteuning van partner Center](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) voor vragen, query's of meer informatie.
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Verbeteringen in het partner centrum-API en gebruikers interface (UI) voor het versterken van klant controle in bepaalde landen
@@ -254,8 +253,6 @@ In de regio Europese Unie (EU)/European Free Trade Association (EVA) zal alle ni
 
 Vanaf januari 2021 worden partners die nieuwe klanten hebben, nieuwe Commerce aanbiedingen in rekening gebracht voor die aankopen in de valuta van de partner locatie. Partners met bestaande klanten die al nieuwe Commerce-aanbiedingen in CSP hebben gekocht, worden in de valuta van de facturerings locatie van de klant gefactureerd tijdens deze fase. 
 
- 
-
 - **Fase 2: bestaande klanten die een nieuwe Commerce-aanbieding in CSP hebben gekocht vóór 1 januari 2021** 
 
 De volgende fase 1 en tijdens het kalender jaar 2021, micro soft zet de facturering van nieuwe Commerce-aanbiedingen voor partners met bestaande klanten over, die een nieuwe Commerce-aanbieding in CSP heeft gekocht vóór 2021 januari, van klant locatie valuta tot partner locatie valuta. Partners worden vooraf op de hoogte gesteld voordat deze wijziging wordt geïmplementeerd.  
@@ -279,6 +276,8 @@ De nieuwe Commerce-aanbiedingen in het bereik voor deze wijziging zijn: Azure-ab
 ### <a name="resources"></a>Resources 
 
 Lees de informatie over dit onderwerp in de [Operations Gallery] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ op de website van micro soft partner.  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>API-beperking naar partners die partner Center-Api's aanroepen
 
@@ -310,7 +309,7 @@ Het partner centrum is ontworpen om een groot aantal aanvragen af te handelen, m
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions|[Alle abonnementen van een klant ophalen](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Een abonnement op de ID ophalen](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/orders||[Alle bestellingen van een klant ophalen](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/orders||[Alle bestellingen van een klant ophalen](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/Customers/{customer_id}/orders/{order_id}|[Een order op basis van ID ophalen](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/Customers/{customer_id}/orders/{order_id}/provisioningstatus|[De inrichtings status van het abonnement ophalen](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Orders beheren en een abonnement beheren](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Deze aankondiging is erop gericht partners te voorzien van vroegtijdige kennis v
 
 Bekijk de [richt lijnen](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)voor het beperken van de API en neem de nodige maat regelen. 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 fouten vanwege dubbele MCA-aanvragen
 
@@ -365,8 +364,7 @@ Bekijk de [richt lijnen](https://docs.microsoft.com/partner-center/develop/api-t
 
 - Deel deze informatie met de juiste teams binnen uw organisatie om ze voor te bereiden op deze wijzigingen.
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testen beschikbaar: de verbeteringen van de Partner Center API en de gebruikers interface (UI) voor het onderwijs klant validatie proces
 
@@ -405,17 +403,17 @@ Naast deze verbeteringen, zijn we enthousiast om dat in FY21 Q2 aan te kondigen,
 
 Micro soft behoudt zich het recht voor om de status van een klant of voorgestelde klant als een bevoegd onderwijs gebruiker te controleren. Raadpleeg de [gebruikers vereisten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) voor het onderwijs recht op het onderwijs voor volledige informatie.
 
-## <a name="next-steps"></a>Volgende stappen
+### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de nieuwe gebruikers interface-en API-wijzigingen van het partner centrum en de test handleiding in het trainings proces voor de verbetering van de inhouds validatie van het IT- [partner centrum](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Bekijk de nieuwe gebruikers interface-en API-wijzigingen van het partner centrum en de test handleiding in het trainings proces voor de verbetering van de inhouds validatie van het IT- [partner centrum](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-• Meld u aan om te kunnen deel nemen aan testen. (Zie de [test handleiding](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) voor meer informatie.) 
+- Meld u aan om te kunnen deel nemen aan testen. (Zie de [test handleiding](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) voor meer informatie.) 
 
-• Zorg ervoor dat uw organisatie vertrouwd is met de [gebruikers vereisten voor het onderwijs](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)recht op het onderwijs. 
+- Zorg ervoor dat uw organisatie vertrouwd is met de [gebruikers vereisten voor het onderwijs](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)recht op het onderwijs. 
 
-• Deel deze informatie met de juiste teams binnen uw organisatie, samen met uw wederverkopers om hen te helpen deze wijzigingen voor te bereiden.
+- Deel deze informatie met de juiste teams binnen uw organisatie, samen met uw wederverkopers om hen te helpen deze wijzigingen voor te bereiden.
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Inhoud van commerciële licentie partners uitbreiden in de galerie met Operations Readiness
 
@@ -471,19 +469,19 @@ Met de Premium-aanbieding hebben klanten toegang tot de nieuw gepubliceerde micr
 
    |****|**Micro soft teams kamers Standard USD15-apparaat per maand**|**Micro soft teams kamers Premium USD50-apparaat per maand**|
    |-------------------|:------|:------|
-   |Skype voor Bedrijven|Ja| |
+   |Skype voor Bedrijven|Yes| |
    |Microsoft Teams|Ja|Ja|
    |Telefoon systeem|Ja|Ja|
    |Audio vergaderingen|Ja|Ja|
    |Microsoft Intune|Ja|Ja|
    | |Micro soft teams-kamers standaard USD15 per apparaat per maand|Micro soft teams kamers Premium USD50 per apparaat per maand|
-   |Beheerde services van micro soft teams-kamers| |Ja|
-   |Wereld wijde Beschik baarheid|Ja|In geselecteerde markten|
+   |Beheerde services van micro soft teams-kamers| |Yes|
+   |Wereld wijde Beschik baarheid|Yes|In geselecteerde markten|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Beheerde services van micro soft teams-kamers
 
 - Proactieve beheer: zakelijke (24x7x365 beheer van uw room-systemen, waaronder patches, configuratie beheer en meer.
-• Realtime controle en analyse van de hoofd oorzaak: bewaking en detectie met door micro soft gecooerdineerde incident beheer reacties, in combi natie met de klant, indien nodig. Met de mobiele app kunt u op de hoogte blijven van waarschuwingen.
+- Real-time bewaking en analyse van de hoofd oorzaak: bewaking en detectie met door micro soft gecooerdineerde incident beheer reacties in combi natie met de klant, indien nodig. Met de mobiele app kunt u op de hoogte blijven van waarschuwingen.
 - Beheerde updates: beheer en levering van toepassingen, Windows KB en firmware-updates.
 - Beveiliging tegen beveiligings Risico's: beveiliging tegen beveiligings Risico's via micro soft Defender Advanced Threat Protection.
 - Klanten ondersteuning: zakelijke (24x7x365-ticket ondersteuning via ons speciaal Service Operations Center met ondersteunings incidenten voor niet-geautomatiseerde aanvragen. Gedetailleerd toegangs beheer op basis van rollen.
@@ -675,7 +673,7 @@ Deze aanbiedingen zijn van invloed op de volgende klanten:
 - Net nieuwe klant tenants
 - Bestaande tenants van klanten die geen actieve of recent geannuleerde abonnement hebben (binnen de laatste 30 dagen) bij een zakelijke Voice-of audio conferencing-licentie op CSP, Web direct of een ander micro soft-commercieel kanaal
 
-#### <a name="additional-resources"></a>Aanvullende bronnen
+#### <a name="additional-resources"></a>Aanvullende resources
 
 - Ga naar de [pagina Microsoft 365 Business Voice-partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) voor meer informatie over zakelijke Voice. 
 - Meer informatie over deze promotie vindt u in de [Veelgestelde vragen](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)over gerelateerde partners.

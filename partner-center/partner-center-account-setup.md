@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81ca02a0fb93f88893e7339d63deec55b6913d9c
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038907"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96438998"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Uw partner centrum-account, het bedrijfs profiel, de Bank gegevens, rollen, machtigingen en meer beheren
 
-Het account dat u maakt in het partner centrum wanneer u zich registreert, is uw werk-e-mail plus uw bedrijfs gegevens. Nadat u een account hebt gemaakt, voltooit u het instellen van het volledige profiel van uw bedrijf, inclusief ondersteunings Details, belasting vrijstellingen voor bestanden, indien van toepassing, en primaire contact gegevens. Het account van uw bedrijf bevat ook gebruikers accounts voor iedereen die het partner centrum gaat gebruiken voor het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van zakelijke profielen, het beheren van verwijzingen, het werken met prikkel Programma's en het bieden van ondersteuning.
-
 **Relevante rollen** – globale beheerder, MPN-beheerder
+
+Het account dat u maakt in het partner centrum wanneer u zich registreert, is uw werk-e-mail plus uw bedrijfs gegevens. Nadat u een account hebt gemaakt, voltooit u het instellen van het volledige profiel van uw bedrijf, inclusief ondersteunings Details, belasting vrijstellingen voor bestanden, indien van toepassing, en primaire contact gegevens. Het account van uw bedrijf bevat ook gebruikers accounts voor iedereen die het partner centrum gaat gebruiken voor het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van zakelijke profielen, het beheren van verwijzingen, het werken met prikkel Programma's en het bieden van ondersteuning.
 
 Zie ook artikelen [uitnodigden om lid te worden van partner centrum](guide-to-migration.md) en [een nieuwe gebruiker toe te voegen](create-user-accounts-and-set-permissions.md).
 

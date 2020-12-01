@@ -9,19 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92528149"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96438978"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Maandelijkse Azure-uitgaven budgetten instellen, controleren of verwijderen voor klanten in het partner centrum
 
 Van toepassing op:
 
 - Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 
 U kunt [een maandelijks Azure-uitgaven budget instellen voor uw klanten](#set-azure-spending-budget) in Partner Center. Dit helpt uw klanten hun Azure-uitgaven te beheren. Met deze optie kunt u de Azure-uitgaven van uw klanten vergelijken met het budget tijdens de maand. Het helpt uw klanten ook hun Azure-uitgaven te budget teren, zodat de maandelijkse factuur niet hoger is dan verwacht.
 
@@ -40,9 +40,9 @@ U kunt ook [een Azure-uitgaven budget](#remove-azure-spending-budget) voor klant
 
 ## <a name="azure-spending-data"></a>Azure-uitgaven gegevens
 
-De kosten voor Azure-uitgaven zijn een *schatting* en de *werkelijke facturerings bedragen kunnen variëren* . De waarde van de gegevens *weerspiegelt niet* de belastingen, tegoeden, aanpassingen of andere kosten die van toepassing kunnen zijn.
+De kosten voor Azure-uitgaven zijn een *schatting* en de *werkelijke facturerings bedragen kunnen variëren*. De waarde van de gegevens *weerspiegelt niet* de belastingen, tegoeden, aanpassingen of andere kosten die van toepassing kunnen zijn.
 
-De uitgaven gegevens worden *eenmaal per dag vernieuwd* . Uw klanten kunnen Azure-Services en-resources blijven gebruiken (en worden gefactureerd), tenzij u de account instellingen in de Azure Portal wijzigt.
+De uitgaven gegevens worden *eenmaal per dag vernieuwd*. Uw klanten kunnen Azure-Services en-resources blijven gebruiken (en worden gefactureerd), tenzij u de account instellingen in de Azure Portal wijzigt.
 
 ## <a name="set-azure-spending-budget"></a>Azure-uitgaven budget instellen
 
@@ -50,11 +50,11 @@ U kunt *een maandelijks Azure-uitgaven budget instellen* voor meerdere klanten i
 
 1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/).
 
-2. Kies in het menu aan de rechter kant onder **CSP** de optie **Azure-uitgaven** .
+2. Kies in het menu aan de rechter kant onder **CSP** de optie **Azure-uitgaven**.
 
 3. Selecteer op de pagina **Azure-uitgaven** onder **klanten met Microsoft Azure abonnementen** de klant (en) waarvoor u een budget wilt instellen.
 
-4. Voer een waarde in voor het **maandelijkse budget** .
+4. Voer een waarde in voor het **maandelijkse budget**.
 
 5. Kies **Toep assen** om uw wijzigingen op te slaan.
 
@@ -62,11 +62,11 @@ U kunt ook *een budget voor een individuele klant instellen* in de abonnements i
 
 1. Meld u aan bij het dash board van de partner centrum.
 
-2. Kies in het menu aan de rechter kant onder **CSP** de optie **klanten** .
+2. Kies in het menu aan de rechter kant onder **CSP** de optie **klanten**.
 
 3. Selecteer op de pagina **klanten** de **Bedrijfs naam** van de klant.
 
-4. Op de pagina **abonnementen** van de klant, onder op **gebruik gebaseerd abonnement** , kiest u **budget wijzigen** .
+4. Op de pagina **abonnementen** van de klant, onder op **gebruik gebaseerd abonnement**, kiest u **budget wijzigen**.
 
 5. Voer een waarde in voor het budget.
 
@@ -78,11 +78,11 @@ U kunt *een maandelijks Azure-uitgaven budget* voor uw klanten (s) verwijderen i
 
 1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/).
 
-2. Kies in het menu aan de rechter kant onder **CSP** de optie **Azure-uitgaven** .
+2. Kies in het menu aan de rechter kant onder **CSP** de optie **Azure-uitgaven**.
 
 3. Selecteer op de pagina **Azure-uitgaven** onder **klanten met Microsoft Azure abonnementen** de klant (s) waarvan u het budget wilt verwijderen.
 
-4. Kies **budget verwijderen** .
+4. Kies **budget verwijderen**.
 
 ## <a name="check-current-azure-spending"></a>Huidige Azure-uitgaven controleren
 
@@ -90,9 +90,9 @@ U kunt op elk gewenst moment *de huidige Azure-uitgaven en maandelijkse budgette
 
 1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/).
 
-2. Kies in het menu aan de rechter kant onder **CSP** de optie **Azure-uitgaven** .
+2. Kies in het menu aan de rechter kant onder **CSP** de optie **Azure-uitgaven**.
 
-3. Op de pagina **Azure-uitgaven** , onder **klanten met Microsoft Azure abonnementen** , ziet u een overzicht van de maandelijkse budgetten van klanten, de huidige uitgaven ramingen en het percentage van het gebruikte budget.
+3. Op de pagina **Azure-uitgaven** , onder **klanten met Microsoft Azure abonnementen**, ziet u een overzicht van de maandelijkse budgetten van klanten, de huidige uitgaven ramingen en het percentage van het gebruikte budget.
 
 ## <a name="notifications-for-budget-limits"></a>Meldingen voor budget limieten
 
@@ -100,24 +100,29 @@ U kunt *e-mail meldingen inschakelen* voor wanneer de maandelijkse uitgaven van 
 
 1. Meld u aan bij Partnercentrum.
 
-2. Kies in het menu aan de rechter kant onder **CSP** de optie **Azure-uitgaven** .
+2. Ga naar **Settings**.
 
-3. Schakel op de pagina **Azure-uitgaven** onder **e-mail meldingen** de instelling **e-mails ophalen** in **op** aan.
+3. Selecteer **mijn voor keuren**.
 
-4. Kies **e-mail adres wijzigen** om het e-mail adres voor meldingen te bekijken.
+4. Configureer een voor keur e-mail adres als u dat nog niet hebt gedaan.
 
-5. Als het e-mail adres *niet klopt* , voert u het juiste e-mail adres in en kiest u **bijwerken** . Als het e-mail adres *juist is* , kiest u **Annuleren** .
+5. Configureer de voorkeurs taal voor de melding.
+
+6. Selecteer het tabblad **CSP** onder **meldings voorkeuren** .
+
+7. Controleer de e-mail optie voor **Azure-uitgaven** meldingen en **Sla** deze op.
+
 
 ## <a name="itemized-costs-by-service"></a>Gespecificeerde kosten per service
 
-U kunt de *gespecificeerde kosten (en het geschatte gebruik) per service weer geven voor op gebruik gebaseerde abonnementen* :
+U kunt de *gespecificeerde kosten (en het geschatte gebruik) per service weer geven voor op gebruik gebaseerde abonnementen*:
 
 1. Meld u aan bij Partnercentrum.
 
-2. Kies in het menu aan de rechter kant onder **CSP** de optie **klanten** .
+2. Kies in het menu aan de rechter kant onder **CSP** de optie **klanten**.
 
 3. Selecteer op de pagina **klanten** de **Bedrijfs naam** van de klant.
 
-4. Selecteer op de pagina **abonnementen** van de klant onder **op gebruik gebaseerde abonnementen** de naam van het **abonnement** .
+4. Selecteer op de pagina **abonnementen** van de klant onder **op gebruik gebaseerde abonnementen** de naam van het **abonnement**.
 
 5. Op de pagina van het abonnement kunt u de **gespecificeerde kosten** per service controleren en het **geschatte gebruik** voor de huidige maand.

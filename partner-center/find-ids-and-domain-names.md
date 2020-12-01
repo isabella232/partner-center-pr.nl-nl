@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360068"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439233"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Belang rijke Id's voor een gebruiker zoeken
 
@@ -33,7 +33,7 @@ Volg deze stappen om de Tenant-ID van Azure AD of de primaire domein naam binnen
 > [!NOTE]
 > De Tenant-ID kan verschillende namen in verschillende toepassingen of bronnen worden genoemd. De Tenant-ID kan bijvoorbeeld worden aangeduid als de Directory-ID, de Azure Active Directory (Azure AD)-Tenant, micro soft-ID of voor bepaalde rapporten, zelfs het *tenantguid*.
 
-1. Meld u aan bij de [Azure-portal](https://portal.azure.com/).
+1. Meld u aan bij [Azure Portal](https://portal.azure.com/).
 
 2. Selecteer **Azure Active Directory** in het menu.
 
@@ -53,7 +53,7 @@ Volg deze stappen om de Tenant-ID van Azure AD of de primaire domein naam binnen
 
 Het is niet altijd voldoende om de domein naam en Tenant-ID te zoeken. Mogelijk moet u ook de specifieke object-ID vinden die aan een gebruiker is toegewezen. Volg deze stappen om de object-ID van een gebruiker te zoeken in de Azure Portal:
 
-1. Meld u aan bij de [Azure-portal](https://portal.azure.com/).
+1. Meld u aan bij [Azure Portal](https://portal.azure.com/).
 
 2. Selecteer **Azure Active Directory** in het menu.
 
@@ -78,3 +78,4 @@ Het is niet altijd voldoende om de domein naam en Tenant-ID te zoeken. Mogelijk 
 - [Uw Tenant-ID programmatisch vinden met Power shell of CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Meer informatie over gebruikers profielen in Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Ontdek hoe partners klant gegevens kunnen zien of exporteren in het partner centrum](see-your-customer-list.md)
+

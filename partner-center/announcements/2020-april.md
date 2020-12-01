@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132991"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439142"
 ---
 # <a name="april-2020-announcements"></a>Aankondigingen van april 2020
 
@@ -30,8 +30,8 @@ _________________
 
 - Datum: 2020-04-30
 - Type: mogelijkheden
-- Status: binnenkort beschikbaar
-- [Meer informatie](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>Samenvatting
 
@@ -49,7 +49,7 @@ Op 4 mei 2020 maakt micro soft nieuwe kortings aanbiedingen voor Office 365 E1 e
 Deze aanbiedingen vervangen de huidige proef versie van Office 365 E1 en verschillen op de volgende manieren:
 
 - Partners handelen jaarlijks Office 365 E1 of Microsoft 365 Business Basic Sku's maken gebruik van een CSP-aanbieding met een korting van 100% voor de eerste zes maanden, in plaats van een unieke proef versie van 6 maanden. Meer [informatie over CSP-aanbiedingen](../promotions.md).
-- Best Ellen is technisch beperkt tot ' nieuwe klanten ', in plaats van de proef versie van Office 365 E1, die werd beperkt tot nieuwe klanten via een schriftelijke beleids regel. Bekijk [de veelgestelde vragen over micro soft-partners](https://aka.ms/CSPCOVIDPromo)voor meer informatie.
+- Best Ellen is technisch beperkt tot ' nieuwe klanten ', in plaats van de proef versie van Office 365 E1, die werd beperkt tot nieuwe klanten via een schriftelijke beleids regel. 
 - Voor SMB-klanten is Microsoft 365 Business Basic opgenomen in deze promotie. Zo zorgt u ervoor dat partners klanten kunnen starten met minder dan 300 seats in de juiste product familie met Microsoft 365 voor bedrijven.
 Klanten die momenteel zijn gelicentieerd met de proef versie van Office 365 E1 (beschikbaar tot 4 mei 2020) blijven op hun huidige abonnement. deze wijziging is alleen van invloed op net nieuwe klanten.
 
@@ -58,12 +58,13 @@ Definitie van nieuwe klanten
 Nieuwe klanten die in aanmerking komen voor deze promotie zijn:
 
 1. Net nieuwe klant tenants
-2. Bestaande klanten die momenteel geen betaalde of recent geannuleerde abonnement hebben (binnen de laatste 30 dagen) in hun Tenant voor een van de producten die zijn gedefinieerd in de [micro soft partner-gids met veelgestelde vragen (FAQ)](https://aka.ms/CSPCOVIDPromo).
+2. Bestaande klanten die momenteel geen betaalde of recent geannuleerde abonnement hebben (binnen de laatste 30 dagen) in hun Tenant voor een van de producten die zijn gedefinieerd in de micro soft partner-gids met veelgestelde vragen (FAQ)
 
-### <a name="additional-resources"></a>Aanvullende bronnen
+ 
+### <a name="additional-resources"></a>Aanvullende resources
 
 - Ga naar het [partner centrum voor partners](https://www.microsoft.com/microsoft-365/partners/remotework) voor meer informatie over veilig extern werk.
-- Meer informatie over deze wijzigingen vindt u in de [Veelgestelde vragen over gerelateerde partners](https://aka.ms/CSPCOVIDPromo).
+
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -168,16 +169,16 @@ Grotere en voortdurende beveiligings-en privacy-veiligheids maatregelen zijn te 
 
 Onlangs hebben we de beveiligings maatregelen voor ADMINISTRATE-mogelijkheden (admin-on-to-from) voor alle partner tenants geactiveerd, waardoor hun bedrijven en klanten beschermd zijn tegen incidenten met betrekking tot identiteits diefstal.
 
-Om partners en klanten te helpen verbeteren, **vanaf 1 mei 2020, beginnen we met de activering van beveiligingen voor Partner Center-trans acties in CSP** . De activering van de aanvullende beveiligings maatregelen betekent dat partners worden gevraagd om multi-factor Authentication (MFA) te gebruiken voor alle trans acties in CSP met behulp van de gebruikers ervaring of Api's van partner Center, waardoor ongeoorloofde toegang en de beveiliging van hun klanten en tenants van beveiligings incidenten met betrekking tot identiteits diefstal wordt voor komen. Meer informatie [vindt u hier](../partner-security-requirements-mandating-mfa.md).
+Om partners en klanten te helpen verbeteren, **vanaf 1 mei 2020, beginnen we met de activering van beveiligingen voor Partner Center-trans acties in CSP**. De activering van de aanvullende beveiligings maatregelen betekent dat partners worden gevraagd om multi-factor Authentication (MFA) te gebruiken voor alle trans acties in CSP met behulp van de gebruikers ervaring of Api's van partner Center, waardoor ongeoorloofde toegang en de beveiliging van hun klanten en tenants van beveiligings incidenten met betrekking tot identiteits diefstal wordt voor komen. Meer informatie [vindt u hier](../partner-security-requirements-mandating-mfa.md).
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- **Als u de aanbevolen beveiligings vereisten voor het beveiligen van uw Tenant en gebruikers nog niet hebt geactiveerd** , moet u onmiddellijk blijven voldoen aan het beleid en voor komen dat er verstoringen optreden bij het beheren van klanten of het handelen in CSP. Partners die de beveiligings vereisten niet implementeren, kunnen hun deelname aan het CSP-programma risico lopen.
+- **Als u de aanbevolen beveiligings vereisten voor het beveiligen van uw Tenant en gebruikers nog niet hebt geactiveerd**, moet u onmiddellijk blijven voldoen aan het beleid en voor komen dat er verstoringen optreden bij het beheren van klanten of het handelen in CSP. Partners die de beveiligings vereisten niet implementeren, kunnen hun deelname aan het CSP-programma risico lopen.
 - Indirecte providers moeten deze beveiligings vereisten voor hun eigen bedrijven implementeren en samen werken met wederverkopers om ervoor te zorgen dat ze de vereisten implementeren en deze e-mail sjabloon gebruiken. We nemen ook rechtstreeks contact op met uw wederverkopers via e-mail communicatie.
 - Ga naar [de pagina beveiligings vereisten van partner centrum](https://partner.microsoft.com/commerce/security/compliance) om te bepalen welke voortgang en belang rijke acties u moet uitvoeren. Werk samen met uw globale beheerder om de voortgang van uw beveiligings vereisten regel matig te controleren voor elk van uw tenants.
 - Als u een CPV-oplossing (configuratie scherm) gebruikt, kunt u contact opnemen met uw CPV.
 
-### <a name="additional-resources"></a>Aanvullende bronnen
+### <a name="additional-resources"></a>Aanvullende resources
 
 Bekijk deze bronnen om u te helpen bij het implementeren van de beveiligings vereisten.
 
@@ -237,7 +238,7 @@ Voer de volgende stappen uit om de wijzigingen te openen:
 
 U kunt zich ook aanmelden bij partner centrum en naar [deze URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c007d538-f817-84e3-06b5-ff4005c1a6bb)gaan.
 
-### <a name="additional-resources"></a>Aanvullende bronnen
+### <a name="additional-resources"></a>Aanvullende resources
 
 Voor meer informatie over de micro soft-klant overeenkomst gaat u naar [de verzameling.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
@@ -280,7 +281,7 @@ Deel deze informatie met de juiste contact personen in uw organisatie. Dit kan z
 
 We zullen later in het jaar meer open bare informatie hebben om met uw klanten te delen.
 
-### <a name="additional-resources"></a>Aanvullende bronnen
+### <a name="additional-resources"></a>Aanvullende resources
 
 - Ga naar de pagina [micro soft Defender Advanced Threat Protection](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) voor meer informatie.
 - Lees de [Azure Security Center-documentatie](/azure/security-center/) voor meer informatie over Azure Security Center.
@@ -560,7 +561,7 @@ Met ingang van 1 april 2020 worden voor de aanbiedingen met de uiteindelijke pri
 |Weer geven en PFAM|Dynamics 365 commerce-Cloud schaal eenheid standaard|Dynamics 365 commerce Scale eenheid Basic-Cloud|
 |Weer geven en PFAM|Dynamics 365 commerce Cloud Scale-eenheid Premium|Dynamics 365 commerce Scale-eenheid Premium-Cloud|
 
-### <a name="additional-resources"></a>Aanvullende bronnen
+### <a name="additional-resources"></a>Aanvullende resources
 
 - [Dynamics 365-start pagina](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Start pagina voor de gids voor apps voor gemengde realiteit](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

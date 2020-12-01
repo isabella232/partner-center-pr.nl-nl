@@ -1,17 +1,17 @@
 ---
 title: Privé Azure Marketplace in Azure Portal maken en beheren
-description: Meer informatie over het maken en beheren van privé Azure Marketplace (preview) in de Azure Portal.
+description: Meer informatie over het maken en beheren van privé Azure Marketplace (preview) in de Azure Portal. Met private Azure Marketplace (preview) kunnen beheerders bepalen welke oplossingen van derden hun gebruikers kunnen gebruiken.
 ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006936"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439252"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Maak en beheer privé Azure Marketplace (preview) in de Azure Portal
 
@@ -127,7 +127,7 @@ Voor meer informatie over de cmdlets in de Power shell-module AZ. Portal, Zie [M
 
 ## <a name="create-private-azure-marketplace"></a>Een persoonlijke Azure Marketplace maken
 
-1. Meld u aan bij de [Azure-portal](https://portal.azure.com/).
+1. Meld u aan bij [Azure Portal](https://portal.azure.com/).
 2. Selecteer **alle services** en vervolgens **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal hoofd venster.":::
