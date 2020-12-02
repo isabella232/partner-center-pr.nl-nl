@@ -2,6 +2,8 @@
   href: index.yml
 - name: Aankondigingen
   href: announcements/TOC.md
+- name: Over Partnercentrum
+  href: overview.md
 - name: Lidmaatschap van partnernetwerk
   items:
     - name: Partner van Microsoft
@@ -60,8 +62,13 @@
         - name: Uitzondering voor App Dev-competentie
           href: app-dev-isv.md
     - name: Geavanceerde specialisaties
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: Uw expertise tentoonstellen
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: Status toepassen of controleren
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Een Azure Expert MSP worden
       href: azure-expert-msp.md
     - name: Voordelen
