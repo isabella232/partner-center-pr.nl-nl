@@ -1,5 +1,5 @@
 ---
-title: Een uitnodiging voor een proef versie van Office 365 maken
+title: Een uitnodiging maken voor de Office 365-proefversie
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92527576"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474152"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Adviseurs: een uitnodiging voor een proef versie maken en verzenden voor clients om Office 365 te proberen
 
-**Van toepassing op**
 
-- Partnercentrum
- 
 **Juiste rollen**
 
 - Adviseurs
@@ -35,19 +32,19 @@ Als u bent gecertificeerd om gedelegeerd beheer aan te bieden, kunt u een optie 
 
 ## <a name="to-create-a-trial-invitation"></a>Een uitnodiging voor een proef abonnement maken
 
-1. Navigeer naar **experimenten en aankoop aanbiedingen**  >  **maken uitnodigingen** .
+1. Navigeer naar **experimenten en aankoop aanbiedingen**  >  **maken uitnodigingen**.
 
 2. Selecteer op de pagina **uitnodiging voor proef abonnement maken** de opties voor de uitnodiging voor een proef versie die u wilt toevoegen:
 
-    - **Partner kantoor** : als uw bedrijf meerdere kant oren heeft, kiest u het kantoor dat u wilt koppelen aan deze uitnodiging.
+    - **Partner kantoor**: als uw bedrijf meerdere kant oren heeft, kiest u het kantoor dat u wilt koppelen aan deze uitnodiging.
 
         Zie [een locatie toevoegen](manage-locations.md)voor het toevoegen van partner-Office-locaties. Het kan tot 24 uur duren voordat nieuwe Office-locaties worden weer gegeven in de lijst met partners.
 
-    - **Gebruiks locatie** : Kies de locatie waar uw client de services gaat gebruiken.
-    - **Proef abonnementen** : de lijst met proef abonnementen die u kunt kiezen, wordt bepaald op basis van de gebruiks locatie van het land of de regio van de client.
-    - **Gedelegeerd beheer** : deze optie is alleen beschikbaar voor partners die zijn gecertificeerd om gedelegeerd beheer aan te bieden. Kies deze optie als u wilt dat uw client wordt gedelegeerd. Als u dit doet, kan uw client de uitnodiging voor de proef versie accepteren met of zonder toestemming van gedelegeerd beheer. Zie [gedelegeerd beheer aanbieden](customers-revoke-admin-privileges.md)voor meer informatie over gedelegeerd beheer.
+    - **Gebruiks locatie**: Kies de locatie waar uw client de services gaat gebruiken.
+    - **Proef abonnementen**: de lijst met proef abonnementen die u kunt kiezen, wordt bepaald op basis van de gebruiks locatie van het land of de regio van de client.
+    - **Gedelegeerd beheer**: deze optie is alleen beschikbaar voor partners die zijn gecertificeerd om gedelegeerd beheer aan te bieden. Kies deze optie als u wilt dat uw client wordt gedelegeerd. Als u dit doet, kan uw client de uitnodiging voor de proef versie accepteren met of zonder toestemming van gedelegeerd beheer. Zie [gedelegeerd beheer aanbieden](customers-revoke-admin-privileges.md)voor meer informatie over gedelegeerd beheer.
 
-3. Klik op **Volgende** .
+3. Klik op **Volgende**.
 
 4. Kopieer op de pagina **uitnodiging voor proef** versie de informatie en URL van de proef versie en plak deze in een e-mail bericht, een document of een webpagina om een aangepaste uitnodiging voor een proef abonnement te maken.
 
@@ -57,3 +54,7 @@ Als u bent gecertificeerd om gedelegeerd beheer aan te bieden, kunt u een optie 
 5. Personaliseer uw bericht door uw bedrijfs logo, inleiding, afsluitende bijdragen of andere informatie op te nemen.
 
 6. Verzend de uitnodiging voor de proef versie naar uw client.
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Een aankoop aanbieding maken](advisor-create-a-purchase-offer.md)

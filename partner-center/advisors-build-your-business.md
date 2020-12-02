@@ -1,5 +1,5 @@
 ---
-title: Clients toevoegen met proef aanbiedingen van Office 365
+title: Klanten toevoegen aan aanbiedingen voor de Office 365-proefversie
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92527575"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474169"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Advisor: bouw uw client basis met Office 365-proef versie uitnodigingen en aanbiedingen
 
-**Van toepassing op**
 
-- Partnercentrum
- 
 **Juiste rollen**
 
 - Adviseurs
@@ -29,7 +26,7 @@ ms.locfileid: "92527575"
 
 Als geautoriseerde micro soft Advisor biedt **partner centrum** u de mogelijkheid om uw client basis uit te breiden en blijvende relaties te maken met uw klanten. Met partner Center kunt u de uitnodigingen voor proef abonnementen en aanbiedingen van uw klanten verzenden, en hen de gedelegeerde beheer services aanbieden, afhankelijk van de services die u mag opgeven.
 
-Als u zich aanmeldt bij het partner centrum, gaat u naar **proef-en aanbiedings aanbiedingen** , worden enkele hulp middelen en taken weer geven waarmee u uw bedrijf kunt verg Roten.
+Als u zich aanmeldt bij het partner centrum, gaat u naar **proef-en aanbiedings aanbiedingen**, worden enkele hulp middelen en taken weer geven waarmee u uw bedrijf kunt verg Roten.
 
 ## <a name="create-and-send-trial-invitations"></a>Uitnodigingen voor proef versies maken en verzenden
 
@@ -53,5 +50,7 @@ Nadat u een uitnodiging voor een proef abonnement hebt verzonden naar uw klanten
 Wanneer u het aankoop aanbod maakt, wordt er een aangepaste URL voor u gemaakt. De URL bevat een Inge sloten code die u identificeert als abonnements adviseur. U kunt deze URL voor één klant of veel klanten gebruiken. Verzend de URL naar uw klant in een e-mail bericht of post deze op uw website.
 
 Als uw klant een ander aantal licenties wil, stuurt u deze een nieuwe aanbieding of kan het aantal licenties worden gewijzigd wanneer het abonnement wordt aangeschaft.
+
+## <a name="next-steps"></a>Volgende stappen
 
 Zie [een aankoop aanbieding maken](advisor-create-a-purchase-offer.md)voor meer informatie over aankoop aanbiedingen.

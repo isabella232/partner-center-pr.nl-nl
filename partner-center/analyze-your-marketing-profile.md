@@ -9,32 +9,24 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528513"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474033"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Uw bedrijfs profiel analyseren: Zie hoe goed u doel klanten en mogelijke verwijzingen aantrekt
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Van toepassing op**
-
-- Partnercentrum
-- Microsoft Partner Network partners
-- Partners van Cloud Solution Provider-Program ma's
-
 **Juiste rollen**
 
 - Globale beheerder
 - MPN-partner beheerder
-- Verwijzings beheerder
 - Bedrijfs profiel beheerder
-- Beheer agent
-- Verkoop agent
+- Beheerder van verwijzingen
 
 Met de pagina met **zakelijke profiel inzichten** in Partner Center kunt u zien hoe goed u de aandacht van uw doel klanten vastlegt en verwijzingen genereert.
 
@@ -46,10 +38,15 @@ Nadat u het [bedrijfs profiel](create-a-marketing-profile.md)van uw bedrijf hebt
 
 De **overzichts grafiek profiel prestaties** bevat de volgende informatie voor de geselecteerde tijds periode:
 
-- **Zoek resultaten** : informatie over de zoek termen die klanten gebruiken om uw bedrijfs profiel te vinden.
-- **Pagina weergaven** : het totale aantal keren dat klanten uw bedrijfs profiel hebben bekeken.
-- **Contact klikken** : het totale aantal keer dat klanten uw bedrijfs profiel hebben geselecteerd op de pagina [een oplossings provider zoeken](https://www.microsoft.com/solution-providers/home) .
-- **Gegenereerde verwijzingen** : het totale aantal verwijzingen dat naar u is verzonden nadat een klant uw bedrijfs profiel heeft geselecteerd.
+- **Zoek resultaten**: informatie over de zoek termen die klanten gebruiken om uw bedrijfs profiel te vinden.
+- **Pagina weergaven**: het totale aantal keren dat klanten uw bedrijfs profiel hebben bekeken.
+- **Contact klikken**: het totale aantal keer dat klanten uw bedrijfs profiel hebben geselecteerd op de pagina [een oplossings provider zoeken](https://www.microsoft.com/solution-providers/home) .
+- **Gegenereerde verwijzingen**: het totale aantal verwijzingen dat naar u is verzonden nadat een klant uw bedrijfs profiel heeft geselecteerd.
 
 > [!TIP]
 > Zorg ervoor dat u de [pagina Referral Insights](referral-insights.md) bekijkt om meer details te bekijken over de manier waarop uw verwijzingen worden uitgevoerd, wanneer u begint te [reageren op deze verwijzingen](manage-leads.md).
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Een bedrijfsprofiel maken](create-a-marketing-profile.md)
+- [Bekijk referentie inzichten in het partner centrum en ontdek hoe uw verwijzingen worden uitgevoerd](referral-insights.md)

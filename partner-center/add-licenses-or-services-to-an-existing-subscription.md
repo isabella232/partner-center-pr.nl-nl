@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528516"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474220"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Licenties of meer services toevoegen aan het abonnement van een klant
-
-**Van toepassing op**
-
-- Partnercentrum
-- Partners van Cloud Solution Provider-Program ma's
 
 **Juiste rollen**
 
@@ -35,7 +30,7 @@ Als uw klant meer licenties nodig heeft dan het huidige abonnement levert, of ee
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Upgrades die worden ondersteund in het CSP-programma <a id="upgradesubscription"></a>
 
-De volgende upgrades worden ondersteund in de Cloud Solution Provider:
+De volgende upgrades worden ondersteund in het Cloud Solution Provider-programma:
 
 | Aanbieding | Mogelijke upgrades|
 |---:|:---|
@@ -66,9 +61,9 @@ Zie een abonnement annuleren en een nieuw abonnement toevoegen in [algemene fact
 
 1. Als u wilt weten of een abonnement in aanmerking komt voor een upgrade, kiest u uw klant en opent u vervolgens de bijbehorende lijst met abonnementen.
 
-2. Als het abonnement kan worden bijgewerkt, ziet u een informatie pictogram rechts na de naam van het abonnement. Beweeg de muis aanwijzer over dit pictogram en selecteer **Nu bijwerken** .
+2. Als het abonnement kan worden bijgewerkt, ziet u een informatie pictogram rechts na de naam van het abonnement. Beweeg de muis aanwijzer over dit pictogram en selecteer **Nu bijwerken**.
 
-3. Selecteer de nieuwe aanbieding en kies vervolgens **verzenden** .
+3. Selecteer de nieuwe aanbieding en kies vervolgens **verzenden**.
 
 4. Er is mogelijk meer werk om een aantal gebruikers accounts voor bepaalde services te laten overstappen. Als dit het geval is, biedt het partner centrum een lijst van accounts en services die worden beïnvloed. Zie het Knowledge Base-artikel voor meer informatie over het [opnieuw toewijzen van licenties terwijl u de plannen in Office 365 verwisselt](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
