@@ -20,6 +20,8 @@
       href: transfer-eligibility.md
     - name: Privé Azure Marketplace maken en beheren
       href: create-manage-private-azure-marketplace.md
+    - name: Privé Azure Marketplace beheren - PowerShell
+      href: manage-private-azure-marketplace-powershell.md
     - name: Azure Marketplace-partnerintegraties
       href: partner-integrations.md
 - name: Algemene bronnen
