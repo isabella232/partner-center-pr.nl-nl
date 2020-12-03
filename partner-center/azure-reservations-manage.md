@@ -9,20 +9,14 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528554"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534757"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Microsoft Azure reserve ringen voor klanten beheren, annuleren, uitwisselen of terugbetalen
-
-**Van toepassing op**
-
-- Partnercentrum
-- Microsoft Azure-portal 
-- Partners in CSP
 
 **Juiste rollen**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92528554"
 - Helpdesk medewerker
 - Verkoop agent
 - Beheerder van gebruikers beheer
+
+In dit artikel wordt uitgelegd hoe u Azure-reserve ringen voor een klant beheert, met inbegrip van het annuleren van een reserve ring, het omruilen van een reserve ring of het aanvragen van een restitutie.
 
 > [!NOTE]
 > Dit artikel is alleen van toepassing op partners in het Cloud Solution Provider-programma (CSP). Klanten die andere soorten abonnementen gebruiken (zoals betalen per gebruik, individuele, micro soft-klant overeenkomst of Enterprise Agreement-abonnementen), moeten in plaats daarvan [deze Azure rehanden documentatie](/azure/cost-management-billing/reservations)lezen.

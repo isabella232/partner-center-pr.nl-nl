@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528555"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534808"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Klanten van de overstap naar Azure plannen van bestaande CSP Azure-aanbiedingen
 
@@ -27,9 +27,9 @@ ms.locfileid: "92528555"
 - Verkoop agent
 - Beheerder van gebruikers beheer
 
-Indirecte providers en directe factuur partners kunnen overstappen op de nieuwe Commerce-ervaring die beschikbaar is in het Microsoft Cloud service provider-programma (CSP) voor Azure. (Indirecte wederverkopers moeten door hun indirecte providers werken.) Klanten hebben een gestroomlijnde manier om Cloud Services te kopen, of ze aankopen van partners, van micro soft-verkopers of rechtstreeks op internet.
+In dit artikel wordt uitgelegd hoe CSP-partners partner centrum kunnen gebruiken om klanten te verplaatsen van bestaande CSP Azure-aanbiedingen naar Azure-Services onder het Azure-abonnement. Indirecte providers en directe factuur partners kunnen overstappen op de nieuwe Commerce-ervaring die beschikbaar is in het Microsoft Cloud service provider-programma (CSP) voor Azure. (Indirecte wederverkopers moeten door hun indirecte providers werken.) Klanten hebben een gestroomlijnde manier om Cloud Services te kopen, of ze aankopen van partners, van micro soft-verkopers of rechtstreeks op internet.
 
-De overgangs mogelijkheid is alleen voor klanten die overstappen naar de nieuwe Commerce-ervaring voor Azure en die de micro soft-klant overeenkomst hebben ondertekend en niet voor andere aanbiedingen in CSP, zoals Office 365 of Dynamics 365.
+De overgangs mogelijkheid is alleen voor klanten die overstappen naar de nieuwe Commerce-ervaring voor Azure en die de micro soft-klant overeenkomst hebben ondertekend. Het is niet voor andere aanbiedingen in CSP, zoals Office 365 of Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Bestaande CSP-aanbiedingen overzetten naar een Azure-abonnement
 
@@ -39,17 +39,17 @@ U kunt vanuit Partner Center een klant vanuit hun bestaande CSP Azure-aanbieding
 
 1. Selecteer Azure-abonnement voor uw klant.
 
-2. Selecteer **overgangs facturering naar Azure-abonnement** .
+2. Selecteer **overgangs facturering naar Azure-abonnement**.
 
    :::image type="content" source="images/azure/transition1.png" alt-text="Scherm opname van rapport met op gebruik gebaseerde abonnementen met een optie die kan worden geselecteerd: overgang van Azure-abonnement naar Azure-plan.":::
 
 3. Selecteer **Doorgaan**
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Scherm opname van rapport met op gebruik gebaseerde abonnementen met een optie die kan worden geselecteerd: overgang van Azure-abonnement naar Azure-plan.":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Dialoog venster met de titel overgang naar Azure plan met implicaties voor het lezen van de overgang en twee opties om te selecteren, door te gaan of te annuleren.":::
 
    Uw klant wordt overgezet naar het Azure-abonnement.
 
-   **De overgangs werk stroom automatiseert de vereiste stappen** :
+   **De overgangs werk stroom automatiseert de vereiste stappen**:
 
    - Aankoop van Azure-abonnement (en)
    - Eén abonnement per klant in directe CSP-scenario's  
@@ -63,7 +63,7 @@ U kunt vanuit Partner Center een klant vanuit hun bestaande CSP Azure-aanbieding
 
 4. Ga terug naar de **abonnementen** pagina van uw klant om de budget limiet bij te werken met behulp van de lokale valuta.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Scherm opname van rapport met op gebruik gebaseerde abonnementen met een optie die kan worden geselecteerd: overgang van Azure-abonnement naar Azure-plan.":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Gedeeltelijke weer gave van de pagina Abonnementen van partner Center met budget limieten die zijn ingesteld in de lokale valuta voor een facturerings periode.":::
 
    >[!NOTE]
    >Het budget dat u in het partner centrum instelt, wordt niet overgedragen naar de Azure Portal. U moet ook het budget en de waarschuwing in Azure Portal instellen.
@@ -77,7 +77,7 @@ U kunt vanuit Partner Center een klant vanuit hun bestaande CSP Azure-aanbieding
 
 Volg de overgangs voortgang in Azure Portal en in partner centrum.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Scherm opname van rapport met op gebruik gebaseerde abonnementen met een optie die kan worden geselecteerd: overgang van Azure-abonnement naar Azure-plan.":::
+:::image type="content" source="images/azure/details1.png" alt-text="Scherm afbeelding met een tabel met een lijst met overgangs gegevens per abonnement: bevat abonnements-I D, overgangs datum en overgangs status.":::
 
 ### <a name="billing-impact-to-partners"></a>Facturering van gevolgen voor partners
 

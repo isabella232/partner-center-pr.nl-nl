@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528492"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534689"
 ---
-# <a name="new-commerce-experience-in-csp---azure-billing"></a>Nieuwe Commerce-ervaring in CSP-Azure-facturering 
+# <a name="new-commerce-experience-in-csp---azure-billing"></a>Nieuwe Commerce-ervaring in CSP - Azure-facturering 
 
-**Juiste rollen:**
+**Juiste rollen**
 
 - Beheer agent
 - Factureringsbeheerder
 - Globale beheerder
 
-Facturering onder het Azure-abonnement is een vereenvoudigde facturerings ervaring met behulp van een uitgelijnde enkele facturerings datum en facturerings periode op basis van een kalender maand.
+In dit artikel wordt uitgelegd hoe u de bestands structuur van de factuur en de reconciliatie voor het Azure-abonnement kunt openen en begrijpen. Facturering onder het Azure-abonnement is een vereenvoudigde facturerings ervaring met behulp van een uitgelijnde enkele facturerings datum en facturerings periode op basis van een kalender maand.
 
 ## <a name="summary-of-billing-essentials"></a>Samen vatting van de basis beginselen van facturering
 
-- **Factuur datum** : factuur-en afstemmings bestand is beschikbaar in het dash board van de partner centrum/API door de achtste (middernacht UTC).
+- **Factuur datum**: factuur-en afstemmings bestand is beschikbaar in het dash board van de partner centrum/API door de achtste (middernacht UTC).
 
-- **Facturerings periode factuur** : de facturerings periode van de factuur is uitgelijnd op de kalender maand, bijvoorbeeld 10/1-10/31, 11/1-11/30.
+- **Facturerings periode factuur**: de facturerings periode van de factuur is uitgelijnd op de kalender maand, bijvoorbeeld 10/1-10/31, 11/1-11/30.
 
-- **Kosten voor service perioden** : kosten worden uitgelijnd op de kalender maand. Als er bijvoorbeeld een gefactureerde partner Azure-Services toevoegt via een Azure-abonnement op 10/15 en de klant begint met het verbruik van Azure-Services op 10/15, ontvangt de factuur dan op basis van het gebruik van facturen/afstemming op 11/8 voor klant verbruik voor de service periode 10/15-10/31. De factuur van de volgende maand die wordt gegenereerd op 12/8 bevat alle kosten voor de service periode 11/1-11/31.
+- **Kosten voor service perioden**: kosten worden uitgelijnd op de kalender maand. Als er bijvoorbeeld een gefactureerde partner Azure-Services toevoegt via een Azure-abonnement op 10/15 en de klant begint met het verbruik van Azure-Services op 10/15, ontvangt de factuur dan op basis van het gebruik van facturen/afstemming op 11/8 voor klant verbruik voor de service periode 10/15-10/31. De factuur van de volgende maand die wordt gegenereerd op 12/8 bevat alle kosten voor de service periode 11/1-11/31.
 
-- **Factuur betalings termijn** : netto 60 dagen.
+- **Factuur betalings termijn**: netto 60 dagen.
 
-- **Factuur valuta** : partners worden nog steeds gefactureerd in de country's toegewezen valuta van de klant. Als de gefactureerde partner zich bijvoorbeeld in Ierland bevindt met klanten in het Verenigd Konink rijk, Noor wegen en Duitsland, ontvangt de gefactureerde partner een factuur/afstemming van GBP, NOK en EUR.
+- **Factuur valuta**: partners worden nog steeds gefactureerd in de country's toegewezen valuta van de klant. Als de gefactureerde partner zich bijvoorbeeld in Ierland bevindt met klanten in het Verenigd Konink rijk, Noor wegen en Duitsland, ontvangt de gefactureerde partner een factuur/afstemming van GBP, NOK en EUR.
 
-- **Partner prikkels** : betaalde 45 dagen aan het einde van de factuur maand.
+- **Partner prikkels**: betaalde 45 dagen aan het einde van de factuur maand.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Toegang tot uw facturen en reconciliatie bestanden
 
@@ -54,7 +54,7 @@ Om toegang te krijgen tot de factuur en het afstemmings bestand:
 
    :::image type="content" source="images/azure/billing3.png" alt-text="verrekeningscode":::
 
-4. Selecteer **factuur** of **afstemmings bestand** .  
+4. Selecteer **factuur** of **afstemmings bestand**.  
 
    Als u historische facturen en afstemmings bestanden wilt weer geven, vouwt u de rij facturerings geschiedenis hieronder uit.
 
@@ -106,7 +106,7 @@ Om toegang te krijgen tot de factuur en het afstemmings bestand:
 
 5. Bekijk het factuur afstemmings bestand en het dagelijks geclassificeerde gebruiks bestand voor aanvullende facturerings gegevens.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="verrekeningscode":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="betalen":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Het afstemmings bestand van de factuur lezen
 
@@ -134,7 +134,7 @@ Om toegang te krijgen tot de factuur en het afstemmings bestand:
 
   - Meting die geschikt is voor de partner die wordt beheerd via 7/8-7/31 (de werkelijke prijs van een eenheid is de prijs van de **onderneming** , het tegoed van de partner.
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="verrekeningscode":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>Factuur in klant valuta
 
@@ -142,7 +142,7 @@ Voor Azure-Services via een Azure-abonnement geldt een prijs in USD en gefacture
 
 Micro soft gebruikt Thomson Reuters om de FX-tarieven te bepalen die worden gebruikt om de prijs-en valuta conversie te bepalen. De FX-tarieven worden vernieuwd en beschikbaar op de dag vóór de eerste van de maand waarop ze van toepassing zijn.
 
-**Voor beeld** : gebruiks kosten voor de service periode van 1 augustus tot en met 31 augustus worden gefactureerd op basis van het FX-tarief dat is gepubliceerd op 31 juli. Deze kosten worden weer gegeven op de factuur van september en het FX-tarief wordt op de laatste pagina van de factuur vermeld.
+**Voor beeld**: gebruiks kosten voor de service periode van 1 augustus tot en met 31 augustus worden gefactureerd op basis van het FX-tarief dat is gepubliceerd op 31 juli. Deze kosten worden weer gegeven op de factuur van september en het FX-tarief wordt op de laatste pagina van de factuur vermeld.
 
 ## <a name="azure-reservations"></a>Azure-reserveringen
 
@@ -160,7 +160,7 @@ De bestaande Azure-bestedings ervaring is bijgewerkt ter ondersteuning van de ni
 
 Omdat het facturerings model voor Azure-Services via een Azure-abonnement post-pay-verbruik is, om een grotere factuur te voor komen dan verwacht, kunnen partners een maandelijks budget Toep assen en het percentage van het gebruik bijhouden. Een budget kan worden toegepast op één klant of meerdere klanten tegelijk. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="verrekeningscode":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Uitgaven voor Azure":::
 
 ## <a name="next-steps"></a>Volgende stappen
 

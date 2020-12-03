@@ -1,6 +1,6 @@
 ---
 title: Beschikbare Azure-services in Azure CSP
-description: In deze sectie worden de Azure-Services besproken die zijn en niet beschikbaar zijn in het Azure Cloud Solution Provider-programma (CSP).
+description: In dit artikel wordt Inge gaan op de Azure-Services die zijn en niet beschikbaar zijn in het Azure Cloud Solution Provider-programma (CSP).
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528497"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534961"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure-Services die beschikbaar zijn in het Azure Cloud Solution Provider-programma (CSP)
 
@@ -81,7 +81,7 @@ In de volgende tabel wordt een regel matig bijgewerkte lijst weer gegeven met de
 | Azure-product,-service of-functie | Amerikaanse overheid | Duitsland |
 | ------ | :-----------: | :-----------: |
 |  **Compute**  |    |    |
-|  Virtual Machines  |  X  |  X  |
+|  Virtuele machines  |  X  |  X  |
 |  Cloud Services  |    |    |
 |  Virtuele-machineschaalsets  |  X  |  X  |
 |  Functions  |    |    |
@@ -91,7 +91,7 @@ In de volgende tabel wordt een regel matig bijgewerkte lijst weer gegeven met de
 |  CDN (Content Delivery Network)  |    |    |
 |  Traffic Manager  |    |    |
 |  ExpressRoute  |  X  |  X  |
-|  Virtual Network  |  X  |  X  |
+|  Virtueel netwerk  |  X  |  X  |
 |  Load Balancer  |  X  |  X  |
 |  VPN Gateway  |  X  |  X  |
 |  Application Gateway  |  X  |  X  |
@@ -168,7 +168,7 @@ In de volgende tabel wordt een regel matig bijgewerkte lijst weer gegeven met de
 |  Multi-Factor Authentication  |    |    |
 |  Azure Active Directory Domain Services  |    |    |
 |  Key Vault  |  X  |  X  |
-|  Beveiligingscentrum  |  X  |  X  |
+|  Security Center  |  X  |  X  |
 |  **Hulpprogramma's voor ontwikkelaars**  |    |    |
 |  Visual Studio Team Services  |    |    |
 |  Application Insights  |    |    |

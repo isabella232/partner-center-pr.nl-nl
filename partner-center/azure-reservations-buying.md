@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure reserve ringen voor klanten kopen
 description: Meer informatie over het kopen of kopen van Azure-reserve ringen namens uw klanten in partner centrum. Hier worden ook de markten vermeld waarop Azure-reserve ringen niet beschikbaar zijn.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92528687"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534604"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Microsoft Azure reserve ringen namens uw klanten kopen in het partner centrum
-
-**Van toepassing op**
-
-- Partnercentrum
-- Microsoft Azure-portal
-- Partners in CSP
 
 **Juiste rollen**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92528687"
 - Helpdesk medewerker
 - Verkoop agent
 - Beheerder van gebruikers beheer
+
+In dit artikel wordt uitgelegd hoe u Azure-reserve ringen kunt kopen of aanschaffen namens uw klanten in partner centrum. Het identificeert ook markten waar Azure-reserve ringen niet beschikbaar zijn.
  
 > [!NOTE]
 > Dit artikel is alleen van toepassing op partners in het Cloud Solution Provider-programma (CSP). Klanten die andere soorten abonnementen gebruiken (zoals betalen per gebruik, individuele, micro soft-klant overeenkomst of Enterprise Agreement-abonnementen), moeten in plaats daarvan [deze Azure rehanden documentatie](/azure/cost-management-billing/reservations)lezen.
@@ -110,7 +106,7 @@ Volg de onderstaande stappen om Microsoft Azure reserve ringen namens uw klanten
 
 2. Zoek op de pagina **klanten** de klant die Azure-reserve ringen wil kopen en selecteer vervolgens de pijl-omlaag om de rij van de klant uit te vouwen.  
 
-3. Selecteer **producten toevoegen** en selecteer vervolgens **Azure** . 
+3. Selecteer **producten toevoegen** en selecteer vervolgens **Azure**. 
 
     a. Kies het markt segment van de klant in de lijst **segment** .
 
@@ -125,7 +121,7 @@ Volg de onderstaande stappen om Microsoft Azure reserve ringen namens uw klanten
 
 5. Gebruik de filters om Azure-reserve ringen te vinden op virtuele machines die voldoen aan de vereisten van uw klant.  
 
-6. Nadat u de reserve ring (en) hebt gevonden die u wilt kopen, voert u het aantal gereserveerde instanties in dat nodig is voor de klant in **hoeveelheid** en selecteert **u vervolgens toevoegen aan winkel wagen** .  
+6. Nadat u de reserve ring (en) hebt gevonden die u wilt kopen, voert u het aantal gereserveerde instanties in dat nodig is voor de klant in **hoeveelheid** en selecteert **u vervolgens toevoegen aan winkel wagen**.  
 
 7. Herhaal stap 5 en 6 totdat u alle benodigde items aan de order hebt toegevoegd. Selecteer **controleren** om te controleren of uw bestelling juist is.  
 
@@ -139,7 +135,7 @@ Volg de onderstaande stappen om Microsoft Azure reserve ringen namens uw klanten
       >Als u ervoor kiest om het bereik van de reserve ring te beperken tot één Azure-abonnement, moet u mogelijk het vCPU-quotum van het abonnement verhogen. Als u het vCPU-quotum van het abonnement wilt verhogen, moet u in de Azure Portal een ondersteunings aanvraag maken. Volg de instructies [in dit onderwerp](/azure/azure-supportability/resource-manager-core-quotas-request) om de aanvraag te maken. 
 
       >[!NOTE]   
-      >Als uw klant zich onder het Azure-abonnement bevindt, wordt de **Scope**  ingesteld op **gedeeld** . 
+      >Als uw klant zich onder het Azure-abonnement bevindt, wordt de **Scope**  ingesteld op **gedeeld**. 
 
     - Als u een provider partner bent, selecteert u de wederverkoper die u aan het product wilt koppelen.
     
@@ -150,7 +146,8 @@ Volg de onderstaande stappen om Microsoft Azure reserve ringen namens uw klanten
 
 10. Als u de reserve ring van de klant wilt beheren in de Azure Portal, gaat u naar de pagina klant op uw **klanten** en selecteert u vervolgens de pijl-omlaag om de rij van de klant uit te vouwen. Selecteer **Microsoft Azure Management Portal** om de record van de klant te openen in de Azure Portal.
 
-## <a name="azure-reservations-resources"></a>Resources voor Azure-reserve ringen
+## <a name="next-steps"></a>Volgende stappen
+
 |**Voor informatie over**   |**Leest u**    |
 |:-----------------------------|:-----------------|
 |Overzicht van Azure-reserve ringen in CSP  | [Gereserveerde instanties van Microsoft Azure verkopen](azure-reservations.md) |

@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528597"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534927"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Abonnementen en resources beheren onder het Azure-abonnement
 
-Wanneer u een klant overstapt naar het Azure-abonnement, worden er standaard privileged-beheerders rechten toegewezen in azure (eigendoms rechten van het abonnement door de beheerder.
+**Juiste rollen**
+
+- Beheer agent
+
+
+In dit artikel wordt uitgelegd hoe CSP-partners verschillende RBAC-opties (op rollen gebaseerd toegangs beheer) kunnen gebruiken om operationele controle en beheer van de Azure-resources van een klant te verkrijgen. Wanneer u een klant overstapt naar het Azure-abonnement, worden er standaard privileged-beheerders rechten toegewezen in azure (eigendoms rechten van het abonnement door de beheerder.
 
  > [!NOTE]
  > Beheerders rechten voor het Azure-abonnement kunnen worden verwijderd door de klant op een abonnement, resource groep of workload-niveau. 
@@ -27,9 +32,9 @@ Wanneer u een klant overstapt naar het Azure-abonnement, worden er standaard pri
 
 - **Beheerder namens (administrate)** : met [administrate](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)heeft elke gebruiker met de rol beheerder in de partner-Tenant toegang tot de Azure-abonnementen die u via het CSP-programma maakt.
 
-- Met **Azure Lighthouse** : administrate is het niet mogelijk om afzonderlijke groepen te maken die samen werken met verschillende klanten, of om verschillende rollen in te scha kelen voor groepen of gebruikers. Met Azure Lighthouse kunt u verschillende groepen toewijzen aan verschillende klanten of rollen. Omdat gebruikers over het juiste toegangs niveau beschikken via het beheer van gedelegeerde resources van Azure, kunt u het aantal gebruikers met de rol beheerder (en dus volledige ADMINISTRATE) verminderen. Dit helpt de beveiliging te verbeteren door het beperken van onnodige toegang tot de resources van uw klanten. Daarnaast hebt u meer flexibiliteit om meerdere klanten op schaal te beheren. Lees [Azure Lighthouse en het Cloud Solution Provider-programma](/azure/lighthouse/concepts/cloud-solution-provider)voor meer informatie.
+- Met **Azure Lighthouse**: administrate is het niet mogelijk om afzonderlijke groepen te maken die samen werken met verschillende klanten, of om verschillende rollen in te scha kelen voor groepen of gebruikers. Met Azure Lighthouse kunt u verschillende groepen toewijzen aan verschillende klanten of rollen. Omdat gebruikers over het juiste toegangs niveau beschikken via het beheer van gedelegeerde resources van Azure, kunt u het aantal gebruikers met de rol beheerder (en dus volledige ADMINISTRATE) verminderen. Dit helpt de beveiliging te verbeteren door het beperken van onnodige toegang tot de resources van uw klanten. Daarnaast hebt u meer flexibiliteit om meerdere klanten op schaal te beheren. Lees [Azure Lighthouse en het Cloud Solution Provider-programma](/azure/lighthouse/concepts/cloud-solution-provider)voor meer informatie.
 
--  **Map-of gast gebruikers of [service-principals](/azure/active-directory/develop/app-objects-and-service-principals)** : u kunt nauw KEURige toegang tot CSP-abonnementen delegeren door gebruikers toe te voegen aan de klanten Directory of door gast gebruikers toe te VOEGen en specifieke RBAC-rollen toe te wijzen.
+- **Map-of gast gebruikers of [service-principals](/azure/active-directory/develop/app-objects-and-service-principals)**: u kunt nauw KEURige toegang tot CSP-abonnementen delegeren door gebruikers toe te voegen aan de klanten Directory of door gast gebruikers toe te VOEGen en specifieke RBAC-rollen toe te wijzen.
 
 Micro soft raadt aan dat gebruikers de minimale machtigingen hebben die ze nodig hebben om hun werk uit te voeren als een beveiligings procedure. Zie [Azure Active Directory privileged Identity Management resources](/azure/active-directory/privileged-identity-management/pim-configure).
 
@@ -60,11 +65,11 @@ U hebt beheerders toegang nodig voor het beheren van de services van uw klant en
 
 2. Selecteer het type actie dat door de waarschuwing moet worden uitgevoerd. Als u bijvoorbeeld opgeeft dat u een e-mail bericht wilt ontvangen, ontvangt u een e-mail met de melding dat er een roltoewijzing wordt verwijderd.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Azure-waarschuwing":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="waarschuwing configureren":::
 
 ### <a name="aobo-removal"></a>ADMINISTRATE verwijderen
 
-Klanten kunnen de toegang tot hun abonnementen beheren door te gaan naar **Access Control** op de Azure Portal. Op het tabblad **roltoewijzingen** selecteert u **toegang verwijderen** . Als dit het geval is, kunt u het volgende doen:
+Klanten kunnen de toegang tot hun abonnementen beheren door te gaan naar **Access Control** op de Azure Portal. Op het tabblad **roltoewijzingen** selecteert u **toegang verwijderen**. Als dit het geval is, kunt u het volgende doen:
 
 - Neem contact op met uw klant om te zien of de beheerders toegang kan worden hersteld.
 

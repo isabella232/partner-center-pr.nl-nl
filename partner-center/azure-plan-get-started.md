@@ -9,14 +9,20 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528598"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534910"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Beginnen met betalen naar gebruik-tarieven met het Azure-abonnement
+
+**Juiste rollen**
+
+- Beheer agent
+- Verkoop agent
+
 
 Micro soft heeft een nieuwe Commerce ervaring geïntroduceerd in Partner Center.  Met deze nieuwe Commerce-ervaring krijgen partners toegang tot Azure-Services tegen betalen per gebruik-tarieven voor klanten onder de klant overeenkomst van micro soft.
 

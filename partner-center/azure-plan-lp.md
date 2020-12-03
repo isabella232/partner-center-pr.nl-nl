@@ -9,14 +9,20 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "92528169"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534740"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Inleiding: met Azure plan kunnen partners Azure kopen tegen betalen naar gebruik-tarieven voor klanten
+
+**Juiste rollen**
+
+- Beheer agent
+- Verkoop agent
+- Globale beheerder
 
 Micro soft heeft een nieuwe Commerce ervaring geïntroduceerd in Partner Center, het Azure-abonnement.  Met deze nieuwe Commerce-ervaring krijgen partners toegang tot Azure-Services tegen betalen per gebruik-tarieven voor klanten onder de klant overeenkomst van micro soft.
 
@@ -30,7 +36,7 @@ Zet uw klanten over naar Azure-Services onder het Azure-abonnement in de nieuwe 
 >Vanaf 1 februari 2020 wordt de bestaande Microsoft Cloud overeenkomst verwijderd uit het CSP-programma. Vanaf dat moment is partner bevestiging (Attestation) van de acceptatie van de klant voor de nieuwe micro soft-klant overeenkomst vereist voor alle andere aanbiedingen, waaronder Microsoft 365, Dynamics 365 en bestaande Azure. Partners in de CSP kunnen geen nieuwe order voor de klant maken zonder dat de micro soft-klant overeenkomst is attest. Lees [bevestigen van de klant overeenkomst van micro soft](confirm-customer-agreement.md)voor volledige informatie.
 
 
-## <a name="learn-about-the-azure-plan"></a>Meer informatie over het Azure-abonnement
+## <a name="next-steps"></a>Volgende stappen
 
 |**Om dit te doen**   |**Leest u**   |
 |------------------|---------------------|

@@ -9,14 +9,14 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528558"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534723"
 ---
-# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Prijs lijst voor de nieuwe Commerce-ervaring in CSP voor Azure
+# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Prijslijst voor de nieuwe Commerce-ervaring in CSP voor Azure
 
 **Juiste rollen**
 
@@ -31,16 +31,16 @@ De prijs lijst voor de nieuwe Azure commerce-ervaring in CSP wordt in partner ce
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Prijzen voor abonnementen bekijken onder de prijzen van het Azure-abonnement
 
-1. Selecteer in het menu partner centrum aan de linkerkant de optie **verkopen** en selecteer vervolgens **Marketplace** .
+1. Selecteer in het menu partner centrum aan de linkerkant de optie **verkopen** en selecteer vervolgens **Marketplace**.
 
 2. Selecteer onder prijzen van Azure-abonnement het land waarvoor u de prijzen wilt bepalen.
 
-3. Selecteer in het veld **Export type** de **prijs stelling voor Azure plan verbruik** , de **prijzen voor Azure plan reserveringen** of de **FX-tarieven** . 
+3. Selecteer in het veld **Export type** de **prijs stelling voor Azure plan verbruik**, de **prijzen voor Azure plan reserveringen** of de **FX-tarieven**. 
 
 >[!NOTE] 
 >De **FX-tarieven** zijn niet van het specifieke land.
 
-4. Selecteer naast **prijs voor datum** de gewenste datum, bijvoorbeeld **actueel** .
+4. Selecteer naast **prijs voor datum** de gewenste datum, bijvoorbeeld **actueel**.
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="land specifiek":::
 
@@ -49,21 +49,21 @@ De prijs lijst voor de nieuwe Azure commerce-ervaring in CSP wordt in partner ce
 
 ## <a name="azure-price-list-specifics"></a>Details van de prijzen lijst van Azure
 
-- Prijzen voor Azure-abonnementen zijn beschikbaar via de Marketplace-pagina in Partner Center, onder **verkopen** .
+- Prijzen voor Azure-abonnementen zijn beschikbaar via de Marketplace-pagina in Partner Center, onder **verkopen**.
 
 - Exports zijn beschikbaar voor de verbruiks Services, Azure Reservations en FX-tarieven van Azure plan.
 
 - De opties voor exporteren zijn onder andere:
 
-  - **Prijzen vandaag** : Dit omvat alle meters en prijzen van de 1e van de maand tot de huidige datum van de huidige maand. Dit omvat nieuwe prijzen, gewijzigde prijzen of verwijderde prijzen. Alle prijzen hebben een geldige begin-en eind datum om uit te leggen of ze nieuw of verwijderd zijn.
+  - **Prijzen vandaag**: Dit omvat alle meters en prijzen van de 1e van de maand tot de huidige datum van de huidige maand. Dit omvat nieuwe prijzen, gewijzigde prijzen of verwijderde prijzen. Alle prijzen hebben een geldige begin-en eind datum om uit te leggen of ze nieuw of verwijderd zijn.
 
-  - **Prijs van vorige maand** : Down loads van elk type resource zijn per maand. Voor prijs bestanden bevat dit alle meters die beschikbaar waren tijdens die maand. Als er een nieuwe meter in het midden van de maand wordt weer gegeven, ziet u als een meter met een ingangs datum die de beschik baarheid weerspiegelt. Vergelijkbaar met prijzen die niet meer worden uitgevoerd, met een geldige eind datum die beschrijft wanneer deze niet meer beschikbaar zijn.
+  - **Prijs van vorige maand**: Down loads van elk type resource zijn per maand. Voor prijs bestanden bevat dit alle meters die beschikbaar waren tijdens die maand. Als er een nieuwe meter in het midden van de maand wordt weer gegeven, ziet u als een meter met een ingangs datum die de beschik baarheid weerspiegelt. Vergelijkbaar met prijzen die niet meer worden uitgevoerd, met een geldige eind datum die beschrijft wanneer deze niet meer beschikbaar zijn.
 
-  - **FX-tarieven** : de FX-tarieven zijn beschikbaar voor het downloaden van de dag voor de 1e van de maand, 18:00 uur PST. Als u bijvoorbeeld de tarieven voor november wilt, downloadt u de tarieven op 31 oktober. De voor gaande FX-tarieven voor de maand zijn ook beschikbaar.
+  - **FX-tarieven**: de FX-tarieven zijn beschikbaar voor het downloaden van de dag voor de 1e van de maand, 18:00 uur PST. Als u bijvoorbeeld de tarieven voor november wilt, downloadt u de tarieven op 31 oktober. De voor gaande FX-tarieven voor de maand zijn ook beschikbaar.
 
 - Prijzen in de prijs lijsten zijn directe prijzen. Sommige partners komen mogelijk in aanmerking voor het tegoed van de partner. Lees hoe het tegoed van de partner wordt berekend [en betaald](partner-earned-credit-explanation.md)voor meer informatie over de manier waarop het tegoed voor de leverancier wordt bepaald.
 
-- **In aanmerking komende Services** : het tegoed van de partner is van toepassing op Services die worden vermeld in de Azure-prijs informatie over het **plannen van prijzen** , kunnen worden geëxporteerd op de pagina met prijs informatie voor [Azure](https://partner.microsoft.com/commerce/sales) Houd er rekening mee dat er uitzonde ringen zijn, waaronder, maar niet beperkt tot, producten van derden die zijn geïdentificeerd als ' derde partij ' in de kolom Tags van de prijs lijst voor verbruik van Azure plan en Azure plan-reserve ringen.
+- **In aanmerking komende Services**: het tegoed van de partner is van toepassing op Services die worden vermeld in de Azure-prijs informatie over het **plannen van prijzen** , kunnen worden geëxporteerd op de pagina met prijs informatie voor [Azure](https://partner.microsoft.com/commerce/sales) Houd er rekening mee dat er uitzonde ringen zijn, waaronder, maar niet beperkt tot, producten van derden die zijn geïdentificeerd als ' derde partij ' in de kolom Tags van de prijs lijst voor verbruik van Azure plan en Azure plan-reserve ringen.
 
 ## <a name="price-list-data"></a>Prijs lijst gegevens
 
@@ -114,3 +114,7 @@ Met deze API kunnen partners ook maandelijkse wissel koersen ophalen omdat de pr
 > De prijs-API is specifiek voor de prijzen van Azure-abonnementen. U moet nog steeds de bestaande RateCard-API en prijs lijsten gebruiken die zijn gepost op de pagina prijzen en aanbiedingen van het partner centrum voor Azure-resources of-reserve ringen die zijn geïmplementeerd op abonnementen die niet van het Azure-abonnement zijn. De prijs-API van het Azure-abonnement biedt geen ondersteuning voor software, Marketplace of prijzen op basis van licenties, zoals Microsoft 365 of Dynamics 365.
 
 Zie de volledige [API-documentatie voor prijzen](/partner/develop/pricing)voor meer informatie over de prijzen van Azure-abonnementen en api's voor wisselkoersen.
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Abonnementen en resources beheren onder het Azure-abonnement](azure-plan-manage.md)

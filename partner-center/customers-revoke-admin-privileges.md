@@ -1,7 +1,7 @@
 ---
 title: De beheerders bevoegdheden van een klant verkrijgen
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Verkrijg de machtigingen die u nodig hebt voor het beheren van de service of het abonnement van een klant in hun naam. Meer informatie over hoe machtigingen worden verleend, ingetrokken en beheerd.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92528124"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534876"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Machtigingen voor het beheren van de service of het abonnement van een klant verkrijgen
 
@@ -31,7 +31,7 @@ Voor het beheren van de service of het abonnement van een klant in hun naam, moe
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Een klant uitnodigen om een reseller-relatie met u te maken
 
-1.  Selecteer **klanten** en selecteer vervolgens **een reseller-relatie aanvragen** .
+1.  Selecteer **klanten** en selecteer vervolgens **een reseller-relatie aanvragen**.
 
 2.  Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het conceptbericht openen in de standaardtoepassing voor e-mail, of u kunt het bericht kopiëren naar het klembord en in een e-mailbericht plakken. 
 
@@ -47,13 +47,13 @@ Voor het beheren van de service of het abonnement van een klant in hun naam, moe
 6.  Als u het account, de services, gebruikers en licenties van de klant wilt beheren, vouwt u de record van de klant uit door de pijl-omlaag bij de naam te selecteren en selecteert u vervolgens de beheer portal voor de service die u wilt beheren.
 
 >[!IMPORTANT]  
->Klanten kunnen beheerders machtigingen opnieuw toewijzen of verwijderen in de beheer portal van een service. Tenzij en totdat u de overeenkomst met de klant opnieuw hebt door lopen, blijft u verantwoordelijk voor het leveren van klanten ondersteuning en het naleven van de voor waarden van de overeenkomst in de Cloud reseller, zelfs nadat een klant de beheerders machtigingen opnieuw heeft toegewezen of verwijderd. Als de klant hulp nodig heeft, neemt u contact op met micro soft ondersteuning om een service aanvraag namens de klant te openen.
+>Klanten kunnen beheerders machtigingen opnieuw toewijzen of verwijderen in de beheer portal van een service. U moet er echter voor zorgen dat u de klant op de hoogte stelt dat het verwijderen van uw beheerders machtigingen betekent dat u niet langer een service aanvraag kunt openen in de naam van micro soft. Het is niet mogelijk om deze typen service aanvragen voor de klant te openen tot u de overeenkomst met de klant opnieuw onderhandelt.
 
 Uw klanten kunnen nagaan of hun partners beheerders bevoegdheden voor hun Tenant hebben in de Office 365-beheer Portal. Om dit te doen:
 
 1. De klant moet zich aanmelden bij de Office 365-beheer portal als globale beheerder.
 
-2. Selecteer **instellingen**  >  **partner relaties** .
+2. Selecteer **instellingen**  >  **partner relaties**.
 
 3. Op de pagina **partner relaties** wordt de klant een lijst weer gegeven met de partners met wie ze werken en de gebruikers aan wie de bevoegdheden voor gedelegeerd beheer zijn verleend voor hun Tenant.
 
@@ -68,7 +68,7 @@ Uw klant kan besluiten uw gedelegeerde beheerders bevoegdheden te verwijderen va
 Machtigingen voor gedelegeerd beheer van een partner verwijderen:
 
 1. Selecteer op de pagina **partner relaties** de partner van belang.
-2. Selecteer in het detail venster **gedelegeerde beheerder verwijderen** .
+2. Selecteer in het detail venster **gedelegeerde beheerder verwijderen**.
 3. Selecteer **verwijderen** in het bevestigings venster.
 
 >[!IMPORTANT]  

@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528549"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534944"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Het formaat van Microsoft Azure-VM’s wijzigen voor een maximaal reserveringsgebruik
 
-**Van toepassing op**
+**Juiste rollen**
 
-- Partnercentrum
-- Azure Portal
-- Partners in het CSP-programma
+- Beheer agent
+- Verkoop agent
+
+In dit artikel wordt uitgelegd hoe u de grootte van een virtuele machine (VM) kunt aanpassen aan de computer vereisten van uw klanten wanneer u Microsoft Azure reserve ringen voor hen aanschaft.
  
 > [!NOTE]
 > Dit artikel is alleen van toepassing op partners in het Cloud Solution Provider-programma (CSP). Klanten die andere soorten abonnementen gebruiken (zoals betalen per gebruik, individuele, micro soft-klant overeenkomst of Enterprise Agreement-abonnementen), moeten in plaats daarvan [deze Azure rehanden documentatie](/azure/cost-management-billing/reservations)lezen.
@@ -32,7 +33,7 @@ ms.locfileid: "92528549"
 Wanneer u Microsoft Azure reserve ringen namens uw klanten koopt, moet u een grootte van een virtuele machine (VM) kiezen om te voldoen aan de computer behoeften van de klant. U kunt deze informatie vinden met een van de volgende methoden:
 
 - Azure-gebruiks-API
-- Azure Portal
+- De Azure-portal
 - Azure PowerShell
 - De Azure Resource Manager-API (ARM)
 
@@ -66,7 +67,7 @@ Hieronder vindt u instructies voor het gebruik van deze methoden. Nadat u een re
 
 Gebruik de informatie in de onderstaande afbeelding om de locatie en grootte van de virtuele machine op te halen waarvoor u een reserve ring wilt kopen. 
 
-:::image type="content" source="images/usage2.png" alt-text="Informatie over grootte en regio op de detail pagina":::
+:::image type="content" source="images/usage2.png" alt-text="Locatie en grootte van virtuele machine":::
 
 ### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Informatie over VM-grootte ophalen met behulp van de API voor Azure Resource Manager (ARM)
 
@@ -74,10 +75,10 @@ Gebruik de informatie in de onderstaande afbeelding om de locatie en grootte van
 
 2. /Subscriptions/ <Subscription ID> /ResourceGroups/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ? API-Version = 2017-12-01
 
-3. De aanroep retourneert de waarden voor **vmSize** en **locatie** , zoals hieronder wordt weer gegeven.
+3. De aanroep retourneert de waarden voor **vmSize** en **locatie**, zoals hieronder wordt weer gegeven.
 
-    :::image type="content" source="images/usage3.png" alt-text="Informatie over grootte en regio op de detail pagina":::
-    :::image type="content" source="images/usage4.png" alt-text="Informatie over grootte en regio op de detail pagina":::
+    :::image type="content" source="images/usage3.png" alt-text="waarde vmSize":::
+    :::image type="content" source="images/usage4.png" alt-text="locatie waarde":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Azure VM-gebruik en-reserverings korting controleren
 
@@ -85,7 +86,7 @@ Nadat u een voor Azure gereserveerde VM-instantie hebt aangeschaft namens een kl
 
 U kunt het reserverings gebruik van de klant controleren en zien op welke virtuele machines de reserverings kortingen worden toegepast met behulp van een van de volgende methoden:
 
-- Azure Portal
+- De Azure-portal
 - Azure-gebruiks-API
 
 Hieronder vindt u instructies voor het gebruik van deze methoden.
@@ -117,7 +118,7 @@ Hieronder vindt u instructies voor het gebruik van deze methoden.
 
 U kunt gegevens over reserverings gebruik ophalen met de API voor Azure-gebruik om te controleren of de klant de reserverings korting krijgt en te zien op welke Vm's (virtuele machines) de korting wordt toegepast. Vergelijk voor beeld A met voor beeld B om te zien hoe u het reserverings gebruik van een klant kunt controleren.
 
-:::image type="content" source="images/usage5.png" alt-text="Informatie over grootte en regio op de detail pagina":::
+:::image type="content" source="images/usage5.png" alt-text="Voor beelden van reserverings gebruik":::
 
 - De reservationId identificeert de Azure-reserve ring die is gebruikt voor het Toep assen van de korting op de virtuele machine.
 - consumptionMeter is de MeterId voor de virtuele machine waarop de reserverings korting van toepassing is.
@@ -128,7 +129,7 @@ Zie voor meer informatie [klant gebruiks records voor Azure ophalen](/partner-ce
 >[!IMPORTANT]
 >Software kosten, zoals micro soft Windows Server, zijn momenteel niet opgenomen in de prijs van een VM-reserve ring en worden weer gegeven als afzonderlijke regel items in de order record en op uw factuur. Als een klant echter de Azure Hybrid Use Benefit heeft, worden de software kosten niet toegepast. Zie [Windows-software kosten die niet zijn opgenomen in gereserveerde instanties](/azure/billing/billing-reserved-instance-windows-software-costs)voor meer informatie.  
 
-## <a name="azure-reservations-resources"></a>Resources voor Azure-reserve ringen
+## <a name="next-steps"></a>Volgende stappen
 
 |**Voor informatie over**   |**Leest u**    |
 |:-----------------------------|:-----------------|

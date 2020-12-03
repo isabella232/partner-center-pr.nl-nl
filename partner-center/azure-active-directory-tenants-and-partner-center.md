@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528496"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534791"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Een werk account maken dat uw bedrijf koppelt aan uw partner centrum-account
-
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -44,7 +40,7 @@ Als u meer dan één geldig zakelijk e-mail adres hebt, kunt u het gebruiken dat
 
 Als u niet zeker weet of uw bedrijf een werk account heeft, voert u de volgende stappen uit om te controleren. Als u een actief abonnement hebt op Microsoft Azure of Office 365, hebt u al een werk account.
 
-1. Meld u aan bij [Azure Portal](https://portal.azure.com).
+1. Meld u aan bij de [Azure-portal](https://portal.azure.com).
 
 2. Selecteer Azure Active Directory in het menu en selecteer vervolgens domein namen.
 
@@ -71,3 +67,8 @@ Wanneer u een Azure-abonnement aanschaft, huurt u een speciale, beveiligde ruimt
 Een Azure-werk account is een toegewezen en geïsoleerde virtuele weer gave van uw bedrijf in de open bare Azure-Cloud die u voor u hebt gemaakt wanneer u zich abonneert op een micro soft-Cloud service zoals Azure, Microsoft Intune of Office 365.
 
 Uw werk account fungeert als host voor uw Azure AD-gebruikers en de informatie over hun wacht woorden, profiel gegevens, machtigingen enzovoort. Het werk account bevat ook groepen, toepassingen en andere informatie die betrekking heeft op een bedrijf en de beveiliging ervan.
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Uw Partner Center-account beheren](partner-center-account-setup.md)
+- [Controle status bijhouden](verification-responses.md)

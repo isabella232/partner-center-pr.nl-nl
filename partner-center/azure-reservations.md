@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528552"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534893"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Microsoft Azure reserve ringen verkopen aan klanten met behulp van partner centrum, de Azure Portal of Api's
-
-**Van toepassing op**
-
-- Partnercentrum
-- Microsoft Azure-portal
-- Partners in het CSP-programma
 
 **Juiste rollen**
 
@@ -32,8 +26,10 @@ ms.locfileid: "92528552"
 - Verkoop agent
 - Beheerder van gebruikers beheer
 
+Als partner in het Cloud Solution Provider-programma (CSP) kunt u Azure-reserve ringen voor klanten kopen, verkopen of beheren. Gebruik partner centrum, de Azure Portal of de partner centrum-API.
+
 > [!NOTE]
-> Dit artikel is alleen van toepassing op partners in het Cloud Solution Provider-programma (CSP). Klanten die andere soorten abonnementen gebruiken (zoals betalen per gebruik, individuele, micro soft-klant overeenkomst of Enterprise Agreement-abonnementen), moeten in plaats daarvan [deze Azure rehanden documentatie](/azure/cost-management-billing/reservations)lezen.
+> Dit artikel is alleen van toepassing op partners in CSP. Klanten die andere soorten abonnementen gebruiken (zoals betalen per gebruik, individuele, micro soft-klant overeenkomst of Enterprise Agreement-abonnementen), moeten in plaats daarvan [deze Azure rehanden documentatie](/azure/cost-management-billing/reservations)lezen.
 
 Partners in het CSP-programma kunnen hun klanten een Microsoft Azure reserve ringen aanbieden. Klanten kunnen aanzienlijke besparingen krijgen wanneer ze vooraf worden gereserveerd. Azure-reserve ringen bieden klanten eenvoud en flexibiliteit op de volgende manieren:
 

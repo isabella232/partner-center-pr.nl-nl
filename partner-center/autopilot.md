@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528501"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534983"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Windows Autopilot-profielen gebruiken op nieuwe apparaten om de kant-en-klaar-ervaring van een klant aan te passen
-
-**Van toepassing op**
-
-- CSP-direct-factuur partners, indirecte providers en indirecte wederverkopers
 
 **Juiste rollen**
 
@@ -37,7 +33,7 @@ In dit artikel wordt uitgelegd hoe u auto pilot-profielen kunt maken en Toep ass
 
 Als u nog niet bekend bent met auto pilot, raadpleegt u de informatie in deze artikelen:
 
-- [Overzicht van Windows auto pilot](/windows/deployment/windows-10-auto-pilot)
+- [Overzicht van Windows Autopilot](/windows/deployment/windows-10-auto-pilot)
 - [Naslag Gids voor auto pilot-implementatie](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Overzicht
@@ -73,9 +69,9 @@ In Partner Center kunt u Windows auto pilot-implementatie profielen maken en dez
 
 1. Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens de klant voor wie u het auto pilot-profiel wilt maken.
 
-2. Selecteer op de detail pagina van de klant de optie **apparaten** .
+2. Selecteer op de detail pagina van de klant de optie **apparaten**.
 
-3. Onder **Windows auto pilot-profielen** selecteert u **Nieuw profiel toevoegen** .
+3. Onder **Windows auto pilot-profielen** selecteert u **Nieuw profiel toevoegen**.
 
 4. Voer de naam en beschrijving van het profiel in en configureer de OOBE-instellingen. U kunt kiezen uit:  
 
@@ -101,9 +97,9 @@ Nadat u een auto pilot-profiel voor een klant hebt gemaakt, kunt u dit Toep asse
 
 1. Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens de klant voor wie u het auto pilot-profiel hebt gemaakt.
 
-2. Selecteer op de detail pagina van de klant de optie **apparaten** .
+2. Selecteer op de detail pagina van de klant de optie **apparaten**.
 
-3. Selecteer onder **profielen Toep assen op apparaten** de apparaten of apparaatgroepen waaraan u profielen wilt toevoegen en selecteer vervolgens **profiel Toep assen** . Het profiel dat u zojuist hebt toegepast, wordt weer gegeven in de kolom **profiel** .
+3. Selecteer onder **profielen Toep assen op apparaten** de apparaten of apparaatgroepen waaraan u profielen wilt toevoegen en selecteer vervolgens **profiel Toep assen**. Het profiel dat u zojuist hebt toegepast, wordt weer gegeven in de kolom **profiel** .
 
 4. Volg de onderstaande stappen om te controleren of het profiel correct wordt toegepast op het apparaat.
 
@@ -117,9 +113,9 @@ Nadat u een auto pilot-profiel voor een klant hebt gemaakt, kunt u dit Toep asse
 
 1. Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens de klant voor wie u het auto pilot-profiel hebt gemaakt.
 
-2. Selecteer op de detail pagina van de klant de optie **apparaten** .
+2. Selecteer op de detail pagina van de klant de optie **apparaten**.
 
-3. Selecteer onder **profielen Toep assen op apparaten** de apparaten waarvan u het profiel wilt verwijderen en selecteer vervolgens **profiel verwijderen** .
+3. Selecteer onder **profielen Toep assen op apparaten** de apparaten waarvan u het profiel wilt verwijderen en selecteer vervolgens **profiel verwijderen**.
 
    >[!NOTE]
    >Als u een profiel van een apparaat verwijdert, wordt het profiel niet uit de lijst verwijderd. Als u een profiel wilt verwijderen, volgt u de instructies in [Update of verwijdert u een auto pilot-profiel](#update-or-delete-an-autopilot-profile).
@@ -132,9 +128,9 @@ Wanneer het apparaat van de klant verbinding maakt met internet, wordt de nieuws
 
 1. Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens de klant voor wie u een auto pilot-profiel wilt wijzigen.
 
-2. Selecteer op de detail pagina van de klant de optie **apparaten** .
+2. Selecteer op de detail pagina van de klant de optie **apparaten**.
 
-3. Selecteer onder **Windows auto pilot-profielen** het profiel dat u wilt bijwerken. Breng de gewenste wijzigingen aan en selecteer vervolgens **verzenden** .
+3. Selecteer onder **Windows auto pilot-profielen** het profiel dat u wilt bijwerken. Breng de gewenste wijzigingen aan en selecteer vervolgens **verzenden**.
 
 Als u dit profiel wilt verwijderen, selecteert u **profiel verwijderen** in de rechter bovenhoek van de pagina.
 
@@ -149,13 +145,13 @@ Als u van plan bent om de combi natie van OEM-naam, serie nummer en model te geb
 
 - Deze tuple werkt alleen voor nieuwere apparaten (bijvoorbeeld 4.000 hashes) en wordt niet ondersteund voor 128b-hashes (RS2 en eerdere apparaten).
 
-- De tuple-registratie is hoofdletter gevoelig, dus de gegevens in het bestand moeten overeenkomen met de namen van het model en de fabrikant ***precies*** zoals opgegeven door de OEM-provider (hardwareprovider).
+- De tuple-registratie is hoofdletter gevoelig, dus de gegevens in het bestand moeten overeenkomen met de namen van het model en de fabrikant **_precies_* gelijk aan de naam van de OEM-provider (hardwareprovider).
 
 Volg de onderstaande instructies om apparaten toe te voegen aan het account van een klant in het partner centrum.
 
-1. Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens de klant van wie u de apparaten wilt beheren.
+1. Selecteer _ *klanten** in het menu van het partner centrum en selecteer vervolgens de klant van wie u de apparaten wilt beheren.
 
-2. Selecteer op de detail pagina van de klant de optie **apparaten** .
+2. Selecteer op de detail pagina van de klant de optie **apparaten**.
 
 3. Selecteer **apparaten toevoegen** onder **profielen Toep assen op apparaten** .
 
@@ -164,7 +160,7 @@ Volg de onderstaande instructies om apparaten toe te voegen aan het account van 
     >[!NOTE]
     >U zou dit CSV-bestand moeten hebben ontvangen bij de aankoop van uw apparaat. Als u geen CSV-bestand hebt ontvangen, kunt u er zelf een maken door de stappen in [apparaten toevoegen aan Windows auto pilot te](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)volgen.  
 
-5. Upload het CSV-bestand en selecteer vervolgens **Opslaan** .
+5. Upload het CSV-bestand en selecteer vervolgens **Opslaan**.
 
 Als u een foutbericht krijgt terwijl u probeert het .csv-bestand te uploaden, moet u de bestandsindeling controleren. U kunt alleen de hardwarehash gebruiken, of de OEM-naam, het serienummer en het model (in die kolomvolgorde) of de Windows-product-id. U kunt ook het bestand Sample. csv gebruiken dat is opgenomen in de koppeling naast **apparaten toevoegen** om een apparaten lijst te maken.
 

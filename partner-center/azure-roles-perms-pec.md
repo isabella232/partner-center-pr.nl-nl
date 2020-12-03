@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48774cb830ceb575a84177efb57431afdcb9b25
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "92528353"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534587"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Rollen en machtigingen komen in aanmerking voor het verdienen van het tegoed van de partner
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>Rollen en machtigingen die zijn vereist voor het verdienen van het tegoed van de partner
 
 De volgende rollen zijn gekoppeld aan de machtigings niveaus die bepalen of een partner in aanmerking komt voor het tegoed van de partner.
 
@@ -116,9 +116,9 @@ Inzender Search Service | Hiermee kunt u zoek services beheren, maar niet de toe
 Beveiligingsbeheerder | In Security Center: kan beveiligings beleid weer geven, beveiligings status weer geven, beveiligings beleid bewerken, waarschuwingen en aanbevelingen weer geven, waarschuwingen en aanbevelingen negeren | Ja | 
 Beveiligings beheer (verouderd) | Dit is een verouderde rol. Gebruik in plaats daarvan beveiligings beheerder | Ja | 
 Beveiligingslezer | In Security Center: kunt u aanbevelingen en waarschuwingen weer geven, beveiligings beleid weer geven, beveiligings status weer geven, maar geen wijzigingen aanbrengen | Nee | 
-Inzender Site Recovery | Hiermee kunt u Site Recovery-service beheren, behalve het maken van een kluis en roltoewijzing | Ja | 
+Site Recovery-inzender | Hiermee kunt u Site Recovery-service beheren, behalve het maken van een kluis en roltoewijzing | Ja | 
 Site Recovery-operator | Een failover en failback, maar geen andere Site Recovery beheer bewerkingen uitvoeren | Ja | 
-Site Recovery lezer | Hiermee kunt u de Site Recovery status weer geven, maar geen andere beheer bewerkingen uitvoeren | Nee | 
+Site Recovery-lezer | Hiermee kunt u de Site Recovery status weer geven, maar geen andere beheer bewerkingen uitvoeren | Nee | 
 Inzender voor ruimtelijke ankers | Hiermee kunt u ruimtelijke ankers in uw account beheren, maar niet verwijderen | Ja | 
 Eigenaar van ruimtelijk ankers | Hiermee kunt u ruimtelijke ankers in uw account beheren, met inbegrip van het verwijderen ervan | Ja | 
 Lezer van ruimtelijk ankers-account | Hiermee kunt u eigenschappen van ruimtelijke ankers in uw account zoeken en lezen | Nee | 
@@ -147,3 +147,7 @@ Inzender voor virtuele machines | Met kunt u virtuele machines beheren, maar nie
 Gebruikers aanmelding voor de virtuele machine | Bekijk Virtual Machines in de portal en meld u aan als een gewone gebruiker. | Ja | 
 Inzender voor webabonnementen | Hiermee kunt u de Webabonnementen voor websites beheren, maar niet de toegang tot de abonnementen. | Ja | 
 Website bijdrager | Hiermee beheert u websites (geen Webabonnementen), maar hebt u geen toegang tot ze | Ja |
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Tegoed van de partner: een overzicht van hoe het werkt in de nieuwe Commerce-ervaring in CSP](partner-earned-credit.md)
