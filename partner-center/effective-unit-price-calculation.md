@@ -1,20 +1,20 @@
 ---
-title: Prijs berekening effectief eenheid
+title: Effectieve berekening van eenheidsprijs
 ms.topic: how-to
 ms.date: 11/10/2020
-description: Meer informatie over de werkelijke prijs eenheid en hoe deze worden berekend. Bevat een voor beeld van een berekening.
+description: Meer informatie over de werkelijke eenheids prijs en hoe deze worden berekend. Dit artikel bevat ook een voor beeld van een berekening.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94499138"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556324"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Efficiënte eenheid prijs berekening voor het verbruik van het Azure-abonnement
 
@@ -35,7 +35,7 @@ Omdat we dagelijks het verbruik in de facturerings cyclus controleren, schommelt
 Als u niet weet of uw meter gelaagde prijzen gebruikt, gebruikt u de onderstaande procedure om erachter te komen. 
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
-2. Selecteer **verkopen** , selecteer **prijzen en aanbiedingen** en selecteer vervolgens de **prijs** van het Azure-abonnement.
+2. Selecteer **verkopen**, selecteer **prijzen en aanbiedingen** en selecteer vervolgens de **prijs** van het Azure-abonnement.
 3. Zoek uw meter op ID en down load de prijs gegevens. 
 
 ## <a name="sample-calculation"></a>Voorbeeld berekening
@@ -55,7 +55,7 @@ De volgende waarden zijn van toepassing in de tabel:
 >[!NOTE]
 >Opmerking: de meter in dit voor beeld heeft geen lagen voor de prijzen.
 
-| Datum | BCU (factureer bare verbruiks eenheid) | BC (factureer bare kosten) | Werkelijke eenheids prijs |
+| Date | BCU (factureer bare verbruiks eenheid) | BC (factureer bare kosten) | Werkelijke eenheids prijs |
 | ------ | ----------- | ----------- | ----------- |  
 | 3-aug | 29 | 21,39 | 0.737586206896552 |
 | 10-aug | 210,950039 | 155,63 | 0.737757626107858 |

@@ -1,6 +1,6 @@
 ---
-title: Maak verbinding met uw klanten
-description: Meer informatie over hoe u verbinding maakt met nieuwe en bestaande klanten als een indirecte wederverkoper
+title: Communiceren met uw klanten
+description: Als u een indirecte wederverkoper bent in het CSP-programma, helpt dit artikel u bij het maken van verbinding met uw nieuwe en bestaande klanten.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92528667"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556307"
 ---
-# <a name="connect-with-customers"></a>Verbinding maken met klanten
+# <a name="connect-with-customers"></a>Communiceren met klanten
 
 **Van toepassing op:**
 
@@ -38,7 +38,7 @@ Wanneer u verbinding maakt met een indirecte provider, krijgt u niet automatisch
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Een klant uitnodigen om een reseller-relatie met u te maken
 
-1. Selecteer **klanten** in het menu van het **partner centrum** en selecteer vervolgens **een reseller-relatie aanvragen** .
+1. Selecteer **klanten** in het menu van het **partner centrum** en selecteer vervolgens **een reseller-relatie aanvragen**.
 
 2. Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het concept bericht openen in e-mail of u kunt het bericht naar het klem bord kopiëren en dit in een e-mail plakken.
 
@@ -64,7 +64,7 @@ Als u beheerders rechten wilt krijgen voor het beheren van de abonnementen en se
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Een klant uitnodigen om op hetzelfde moment een reseller-relatie met u en uw indirecte provider in te richten
 
-1. Selecteer **indirecte providers** in het **menu van uw partner centrum** .
+1. Selecteer **indirecte providers** in het **menu van uw partner centrum**.
 
 2. Selecteer **nieuwe klanten uitnodigen** om een klant uit te nodigen om een reseller-relatie met zowel u als de indirecte provider tegelijk te maken. De provider moet beschikken over een reseller-relatie met uw klant zodat deze bestellingen namens de klant kan indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties moet toevoegen aan bestaande abonnementen.
 
@@ -82,9 +82,9 @@ Als u de relatie met een klant wilt verwijderen, voert u de onderstaande stappen
 
 1.  Ga vanuit Partner Center naar **klanten** en selecteer de klant waarvan u de relatie wilt verwijderen.
 
-2.  Selecteer het **account** .
+2.  Selecteer het **account**.
 
-3.  Selecteer **klant relatie verwijderen** .
+3.  Selecteer **klant relatie verwijderen**.
 
 4.  De klant wordt niet meer weer gegeven in de lijst met klanten.
 

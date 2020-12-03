@@ -2,17 +2,17 @@
 title: Factuur facturen van partner Center begrijpen
 ms.topic: article
 ms.date: 05/18/2020
-description: Inzicht in de velden in uw factuur bestand voor het factureren van het partner centrum. informatie bevat velden en definities voor alle factuur velden en velden met eenmalige kosten.
+description: Inzicht in de velden in het factuur bestand voor het factureren van het partner centrum. Opgenomen zijn velden en definities voor alle factuur velden en velden met eenmalige kosten.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528795"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556290"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Informatie over de facturerings factuur velden van partner Center
 
@@ -34,12 +34,12 @@ De volgende velden worden op uw factuur bestanden weer gegeven.
 | VS-FEIN | Uw Federal werkgevers id-nummer (FEIN). Dit is uw Verenigde Staten id-nummer van de federale belasting. |
 | Klant nummer | Uw klant nummer. |
 | Factureren aan | Het adres waarnaar we uw factuur verzenden. U kunt de naam en/of het adres van uw bedrijf wijzigen in het facturerings Profiel van uw partner centrum. |
-| Kosten op basis van licenties | De vaste maandelijkse of jaarlijkse kosten voor uw gekochte op gebruik gebaseerde licenties, vóór de service gefactureerd. Dit aantal is de som van alle kosten in de kolom **Subtotaal** (kolom **T** ) in het afstemmings bestand op basis van licenties. |
-| Kosten op basis van gebruik | Uw Azure-gebruik. Dit geldt ook voor nieuwe services of toepassingen die tijdens de facturerings periode zijn ingeschakeld en gebruikt. Dit aantal is de som van alle kosten in de kolom **PretaxCharges** (kolom **Z** ) in het afstemmings bestand op basis van gebruik. |
-| Kortingen | De korting die de klant ontvangt van de normale prijs van het abonnement. Dit aantal wordt weer gegeven als een *vaste hoeveelheid* , niet als een prijs per eenheid of licentie. |
+| Kosten op basis van licenties | De vaste maandelijkse of jaarlijkse kosten voor uw gekochte op gebruik gebaseerde licenties, vóór de service gefactureerd. Dit aantal is de som van alle kosten in de kolom **Subtotaal** (kolom **T**) in het afstemmings bestand op basis van licenties. |
+| Kosten op basis van gebruik | Uw Azure-gebruik. Dit geldt ook voor nieuwe services of toepassingen die tijdens de facturerings periode zijn ingeschakeld en gebruikt. Dit aantal is de som van alle kosten in de kolom **PretaxCharges** (kolom **Z**) in het afstemmings bestand op basis van gebruik. |
+| Kortingen | De korting die de klant ontvangt van de normale prijs van het abonnement. Dit aantal wordt weer gegeven als een *vaste hoeveelheid*, niet als een prijs per eenheid of licentie. |
 | Tegoeden | Tegoeden of aanpassingen voor wijzigingen in abonnementen (bijvoorbeeld licentie verhogen of afname). |
 | Subtotaal | Totaal vóór belastingen en kosten en tegoed. |
-| Btw | De totale belastingen voor uw huidige kosten, zoals deze worden opgeteld in het gedeelte met **Details** , beginnend op pagina 2 van uw factuur. Dit aantal is de som van alle kosten in de kolom **TaxAmount** (kolom **AA** ) in uw afstemmings bestand op basis van gebruik en de kolom **belasting** (kolom **U** ) in het afstemmings bestand op basis van licenties. |
+| Btw | De totale belastingen voor uw huidige kosten, zoals deze worden opgeteld in het gedeelte met **Details** , beginnend op pagina 2 van uw factuur. Dit aantal is de som van alle kosten in de kolom **TaxAmount** (kolom **AA**) in uw afstemmings bestand op basis van gebruik en de kolom **belasting** (kolom **U**) in het afstemmings bestand op basis van licenties. |
 | Overige tegoeden | Tegoed-exclusieve bedragen. |
 | Totale huidige kosten | Het verschuldigde bedrag in uw facturerings valuta voor de facturerings periode. Deze kosten moeten worden betaald door de verval datum van de betaling. |
 | Betalingsinstructies | Beschrijving van hoe u uw factuur kunt betalen op basis van uw regio. *Zorg er altijd voor dat u uw factuur nummer opgeeft wanneer u een betaling doet.* |
@@ -59,7 +59,7 @@ De volgende velden zijn alleen van toepassing op **eenmalige kosten** in Partner
 | Veld | Definitie |
 | ----- | ---------- |
 | Date | Aankoop datum. |
-| Description | Product naam. |
+| Beschrijving | Product naam. |
 | Aantal | Het aantal producten (zoals reserve ringen) dat is gekocht. |
 | Eenheidsprijs | Prijs per product (zoals een reserve ring). |
 | Kortingen | Alle toepasselijke kortingen. |

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over hoe het tegoed van de partner (PEC) vereenvoudigde, uniforme prijzen voor Azure biedt. Dit biedt beheerde services met toegevoegde waarde en helpt concurrentie marges te elimineren.
+description: Meer informatie over hoe de door de partner aangehaalde tegoed (PEC) vereenvoudigde, gereduceerde Azure-prijzen en beheerde services met toegevoegde waarde biedt, terwijl u de concurrentie op de marges helpt elimineren.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92528245"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556392"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Tegoed van de partner: een overzicht van hoe het werkt in de nieuwe Commerce-ervaring in CSP
 
@@ -51,18 +51,18 @@ Als klanten overstappen op Cloud Computing platformen, worden ze geconfronteerd 
 
 Uw klanten kunnen u helpen hun bedrijf optimaal te benutten in Azure. Met beheerde services kunt u uw klanten regel matig voorzien van de ondersteunt-service. Enkele van de dagelijkse bewerkingen en ondersteuning die u kunt bieden zijn onder andere:
 
-- **Cloud bewerkingen en-beheer Services** : klanten kijken naar partners van micro soft om de kosten in azure te verlagen tijdens het reproduceren van de isolatie, beveiligings beleidsregels en audit modellen die ze vandaag hebben. Ze verwachten ook dat partners toegang hebben tot rijpe hulpprogram ma's voor het identificeren van de werk belasting en de eenmalige implementatie en lopende operationele kosten van Azure. Daarnaast hebben klanten ondersteuning nodig voor automatisering en indeling, het patchen van updates, configuratie beheer, back-up en herstel na nood gevallen en identiteits beheer. 
+- **Cloud bewerkingen en-beheer Services**: klanten kijken naar partners van micro soft om de kosten in azure te verlagen tijdens het reproduceren van de isolatie, beveiligings beleidsregels en audit modellen die ze vandaag hebben. Ze verwachten ook dat partners toegang hebben tot rijpe hulpprogram ma's voor het identificeren van de werk belasting en de eenmalige implementatie en lopende operationele kosten van Azure. Daarnaast hebben klanten ondersteuning nodig voor automatisering en indeling, het patchen van updates, configuratie beheer, back-up en herstel na nood gevallen en identiteits beheer. 
 
-- **Cloud bewaking en technische ondersteuning** : in een wereld met Cloud gebruik zijn de hulpprogram ma's en vereisten ontwikkeld, maar de bezorgdheid voor het vinden van de juiste resource voor het beheren van de IT-infra structuur is niet gewijzigd. De meeste organisaties hebben gewoon geen tijd, resources of speciaal personeel nodig om elk aspect ervan te bewaken. Dit is de plaats waar u als vertrouwde partner de meeste waarde toevoegt. Azure biedt veel ingebouwde mogelijkheden voor het controleren van bewaking, die extra, dieper bewakings hulpmiddelen bieden, sorteren de fout-positieven van de echte waarschuwingen en proactief handelen op de waarschuwingen voordat er meet bare verlies van prestaties nodig is. 
+- **Cloud bewaking en technische ondersteuning**: in een wereld met Cloud gebruik zijn de hulpprogram ma's en vereisten ontwikkeld, maar de bezorgdheid voor het vinden van de juiste resource voor het beheren van de IT-infra structuur is niet gewijzigd. De meeste organisaties hebben gewoon geen tijd, resources of speciaal personeel nodig om elk aspect ervan te bewaken. Dit is de plaats waar u als vertrouwde partner de meeste waarde toevoegt. Azure biedt veel ingebouwde mogelijkheden voor het controleren van bewaking, die extra, dieper bewakings hulpmiddelen bieden, sorteren de fout-positieven van de echte waarschuwingen en proactief handelen op de waarschuwingen voordat er meet bare verlies van prestaties nodig is. 
 
 
 ### <a name="included-in-monitoring-and-technical-support"></a>Opgenomen in bewaking en technische ondersteuning:
 
-- **Systeem status controle** : de bewaking van VM'S, CPU-gebruik, geheugen gebruik, opslag-IOPs en de prestaties van het besturings systeem volt ooien. Omvat bewaking van de prestaties van de toepassing en de bewerkings status, en dash boards en rapporten over de systeem status.
+- **Systeem status controle**: de bewaking van VM'S, CPU-gebruik, geheugen gebruik, opslag-IOPs en de prestaties van het besturings systeem volt ooien. Omvat bewaking van de prestaties van de toepassing en de bewerkings status, en dash boards en rapporten over de systeem status.
 
-- **Log Analytics en waarschuwingen** : elke client, apparaat en gebruiker die toegang heeft tot een netwerk, produceert gegevens die zijn geregistreerd. Het analyseren van logboeken kan dieper inzicht bieden in prestaties, beveiliging, resource verbruik en andere zinvolle metrische gegevens.
+- **Log Analytics en waarschuwingen**: elke client, apparaat en gebruiker die toegang heeft tot een netwerk, produceert gegevens die zijn geregistreerd. Het analyseren van logboeken kan dieper inzicht bieden in prestaties, beveiliging, resource verbruik en andere zinvolle metrische gegevens.
 
-- **Database bewaking** : een weer gave in de data base van de klant waarmee partners een hoge Beschik baarheid van database servers kunnen garanderen. Het proces bestaat uit het bewaren van logboeken met grootte, verbindings tijd en gebruikers van data bases, analyse van het gebruik van trends en het benutten van gegevens om problemen proactief te verhelpen.
+- **Database bewaking**: een weer gave in de data base van de klant waarmee partners een hoge Beschik baarheid van database servers kunnen garanderen. Het proces bestaat uit het bewaren van logboeken met grootte, verbindings tijd en gebruikers van data bases, analyse van het gebruik van trends en het benutten van gegevens om problemen proactief te verhelpen.
 
 - **Prestatie bewaking** van de app: end-to-end-tracking van alle aspecten van een toepassing (of webpagina). Bij het bewaken van apps moet u elk deel bekijken, van winkel wagens naar registratie pagina's, van de app (s) van een klant voor prestatie problemen om de beste gebruikers ervaring te bieden.
 
@@ -75,6 +75,6 @@ Deze services zijn geschikt voor het verkrijgen van toegang tot partners in de A
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Hoe het tegoed van de partner wordt berekend en betaald](partner-earned-credit-explanation.md)
+- [Hoe het verdiende tegoed van de partner wordt berekend en betaald](partner-earned-credit-explanation.md)
 - [Abonnementen en resources beheren onder het Azure-abonnement](azure-plan-manage.md)
 - [Prijs lijst voor de nieuwe Azure commerce-ervaring in CSP](azure-plan-price-list.md)

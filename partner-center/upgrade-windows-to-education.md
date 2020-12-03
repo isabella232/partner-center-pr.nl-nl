@@ -1,22 +1,22 @@
 ---
-title: Windows 10 Home-klanten upgraden naar Windows 10 education
+title: Windows 10 Home naar Windows 10 education bijwerken
 ms.topic: article
 ms.date: 10/28/2020
-description: Windows 10 Home-klanten upgraden naar Windows 10 education
+description: Meer informatie over hoe Cloud Solution Provider (CSP)-partners sommige van hun onderwijs klanten kunnen upgraden van Windows 10 Home naar Windows 10 onderwijs
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360000"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556409"
 ---
-# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Windows 10 Home-klanten upgraden naar Windows 10 education
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Upgrade sommige onderwijs klanten van Windows 10 Home naar Windows 10 education
 
 **Van toepassing op**
 
@@ -63,7 +63,7 @@ Partners moeten een ondersteunings aanvraag maken en sleutels ontvangen van onde
 - **Beschrijving:** Er wordt gevraagd om de sleutels [insert nummer] in te scha kelen voor een upgrade naar Windows 10-onderwijs. (Houd er rekening mee dat het aangevraagde aantal sleutels niet groter mag zijn dan uw Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnements licenties.) Abonnements-ID van de klant [Voeg abonnements-ID-GUID voor klanten in voor hun Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnement.]
 - **Contact nummer:** Dit wordt vooraf ingevuld. controleren om te bevestigen of bij te werken.
 - **E-mail:** Dit wordt vooraf ingevuld en dit moet het e-mail adres zijn dat u gebruikt als micro soft Portal-beheerder (alleen voor globale beheerder of facturerings beheerder).
-- **Voorkeurs methode voor contact personen** : Kies **telefoon** of **plan terugbellen**.
+- **Voorkeurs methode voor contact personen**: Kies **telefoon** of **plan terugbellen**.
 
 8. Selecteer **contact opnemen**. De verwachte wacht tijd wordt aangegeven in het deel venster **hulp nodig?** .
 

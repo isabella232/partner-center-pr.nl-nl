@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Meer informatie over de voor delen van Microsoft Partner Network (MPN), inclusief de micro soft-Action Pack, competenties en programma opties om naar de markt te gaan en uw oplossingen te verkopen.
+description: Meer informatie over de voor delen van Microsoft Partner Network (MPN), zoals micro soft Action Pack, competenties of programma opties om naar de markt te gaan en uw oplossingen te verkopen.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528790"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556375"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner met micro soft en de voor delen van lidmaatschap ontdekken
 
@@ -31,7 +31,7 @@ Wanneer u deelneemt aan een micro soft-partner programma, maakt u deel uit van e
 
 ## <a name="join-the-microsoft-partner-network"></a>Word lid van de Microsoft Partner Network
 
-Als u wilt deel nemen aan de Microsoft Partner Network, gaat u naar de [pagina **lidmaatschap**](https://partner.microsoft.com/membership) op de website van MPN en selecteert u **Inschrijven** of **nu lid worden** .
+Als u wilt deel nemen aan de Microsoft Partner Network, gaat u naar de [pagina **lidmaatschap**](https://partner.microsoft.com/membership) op de website van MPN en selecteert u **Inschrijven** of **nu lid worden**.
 
 ## <a name="action-pack"></a>Action Pack
 

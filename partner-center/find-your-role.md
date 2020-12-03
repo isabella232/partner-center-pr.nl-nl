@@ -1,6 +1,6 @@
 ---
 title: De rol zoeken die u hebt toegewezen
-description: Leer waar u in het partner centrum gaat om uw rol en machtigingen te vinden.
+description: Leer waar u in het partner centrum gaat om de rol te vinden die u hebt toegewezen, uw machtigingen en uw globale beheerder.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: e382509ae11797d81b5b56b3f1c58e7b1ebafee2
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 4f4a36bbe5021b6c73025e14bf3f608bd6a269e8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92528663"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556273"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Zoek uw rol, uw machtigingen en uw globale beheerder
 
@@ -31,7 +31,7 @@ Als uw globale beheerder u nog niet heeft verteld, kunt u de volgende handelinge
 
 1. Aanmelden bij het Partner Center- [dash board](https://partner.microsoft.com/dashboard/home).
 
-1. Selecteer het pictogram **account instellingen** en selecteer vervolgens **Mijn profiel** .
+1. Selecteer het pictogram **account instellingen** en selecteer vervolgens **Mijn profiel**.
  
 1. Selecteer het tabblad **rollen en machtigingen** . U ziet uw rollen en machtigingen.
  
@@ -44,7 +44,7 @@ Soms moet een gebruiker hun rol wellicht wijzigen of kan een nieuwe gebruiker ee
 
 Een globale beheerder zoeken die de rol kan wijzigen of rollen aan een nieuwe gebruiker kan toewijzen: 
 
-1. Selecteer in het **pictogram account instellingen** in de rechter bovenhoek van het partner centrum **gebruikers beheer** .
+1. Selecteer in het **pictogram account instellingen** in de rechter bovenhoek van het partner centrum **gebruikers beheer**.
 
 1. Filteren op globale beheerder
 
