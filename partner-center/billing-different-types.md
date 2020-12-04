@@ -1,5 +1,5 @@
 ---
-title: Facturerings typen in het partner centrum
+title: Factureringstypen in Partnercentrum
 description: Meer informatie over de verschillende facturerings typen, facturerings perioden en facturerings datums die u kunt zien in Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 40d83a70aa5eb5781b924bbafb8b619efacc5681
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 559e5d15d4414addab55411b28e19964ac4a08c5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92528296"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570668"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Facturerings typen in Partner Center: bevat op licenties gebaseerde, op gebruik gebaseerde en eenmalige facturering
-
-**Van toepassing op**
-
-- Partnercentrum
-- Partners in het CSP-programma
 
 **Juiste rollen**
 

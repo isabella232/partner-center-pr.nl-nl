@@ -9,18 +9,61 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: d0bc790e31cf38aabc1703f073c42f8946c316ee
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 38a9b83c5c13ed0a0c0f27db409335f9b86b8173
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556723"
+ms.locfileid: "96570770"
 ---
 # <a name="december-2020-announcements"></a>Aankondigingen van december 2020
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft partner centrum voor november 2020.
 
-2020 aankondigingen: [april](2020-april.md)  |  [kan](2020-may.md)juni tot en met  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)| December
+2020 aankondigingen: [april](2020-april.md)  |  [kan](2020-may.md)juni tot en met  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md) | December
+
+
+______________
+
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Binnenkort wordt een update van de US Microsoft 365 Business Voice met een gespreks plan aangeboden
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-3
+- Aanbiedingen/markten
+
+### <a name="summary"></a>Samenvatting 
+
+Op 1 januari 2021 gaat micro soft onze partners en klanten gaan overstappen naar een nieuwe Microsoft 365 Business stem met de oproep plan aanbieding. Er is geen partner actie vereist.
+
+### <a name="impacted-audience"></a>Doel groep 
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+
+### <a name="details"></a>Details
+
+Micro soft zal de bestaande zakelijke stem vervangen door de oproep plan aanbieding in de VS met een nieuwe aanbieding ter ondersteuning van interne vereisten voor telecommunicatie-producten. De nieuwe aanbieding heeft dezelfde functieset en prijs. De wijzigingen van de aanbieding zijn intern voor micro soft en mogen niet van invloed zijn op de manier waarop CSP partners de zakelijke stem op de markt brengen, verkopen of ondersteunen voor de aanbieding van het aanroepende abonnement. De wijziging is alleen van toepassing op deze aanbieding.
+
+Voor nieuwe verkopen gaat u de nieuwe aanbieding gebruiken vanaf 1 januari 2021. De oude aanbieding wordt vervangen door de nieuwe aanbieding op de prijs lijst.
+
+Bestaande klanten worden automatisch overgezet naar de nieuwe aanbieding op hun verlengings datum. U hoeft geen actie te ondernemen bij partners en klanten te vernieuwen.
+
+
+* * Details van de nieuwe aanbieding
+ 
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business Voice (VS)|86713ec1-ad33-42cf-a1ce-8397d4d875fe|PZW-00023|
+   
+* * Oude aanbiedings gegevens
+
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business Voice (VS)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
+
+### <a name="next-steps"></a>Volgende stappen
+
+Raadpleeg de prijs lijst en deel deze informatie met alle relevante contact personen in uw organisatie.
 
 ______________
 

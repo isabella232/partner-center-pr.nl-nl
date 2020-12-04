@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "92527570"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570702"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Factureringsoverzicht voor partners van het CSP-programma die in Partner Center werkzaam zijn 
-
-**Van toepassing op**
-
-- Partnercentrum
-- Partners in het Cloud Solution Provider-programma (CSP)
 
 **Juiste rollen**
 
@@ -31,13 +26,16 @@ ms.locfileid: "92527570"
 - Helpdesk medewerker
 - Verkoop agent
 
+In dit artikel vindt u de basis informatie over de facturering en de factuur voor CSP-partners in het partner centrum, inclusief hoe u klanten kunt factureren en hoe u uw factuur kunt vinden en lezen.
+
+
 ## <a name="find-your-bill"></a>Uw factuur zoeken
 
 Uw factuur zoeken:
 
-1. [Meld u aan bij het dash board van de partner centrum](https://partner.microsoft.com/dashboard/home).
+1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
 
-2. Kies **facturering** in het menu aan de linkerkant.
+2. Kies **facturering** in het menu van het partner centrum.
 
 3. Op de **facturerings** pagina kunt u uw laatste factuur downloaden of vorige facturen downloaden in de sectie **facturerings geschiedenis** .
 
@@ -45,17 +43,17 @@ Uw factuur zoeken:
 
 Micro soft heeft geen vereisten of voor waarden voor het afhandelen van uw eigen facturering.
 
-[Raadpleeg uw reconciliatie bestanden](#find-your-bill)om het gebruik van de klant te bepalen. U kunt de naam van de klant en andere relevante velden gebruiken om het gebruik te bepalen.
+Raadpleeg uw [reconciliatie bestanden](#find-your-bill)om het gebruik van de klant te bepalen. Gebruik de naam van de klant en andere relevante velden om het gebruik te bepalen.
 
 ### <a name="billing-types"></a>Facturerings typen
 
-Facturerings typen in het partner centrum zijn onder andere **op licenties gebaseerd op facturen** , **facturering op basis van gebruik** en **eenmalige facturering** . 
+Facturerings typen in het partner centrum zijn onder andere **op licenties gebaseerd op facturen**, **facturering op basis van gebruik** en **eenmalige facturering**. 
 
 ### <a name="billing-currency"></a>Facturerings valuta
 
-Factuur op basis van **licentie en op basis van gebruik** : u wordt gefactureerd voor product (en) in de valuta van het land of de regio waarin u zich bevindt. U factureert hetzelfde, ongeacht de locatie van de klant naar wie u de producten hebt verkocht.
+Factuur op basis van **licentie en op basis van gebruik**: u wordt gefactureerd voor product (en) in de valuta van het land of de regio waarin u zich bevindt. U factureert hetzelfde, ongeacht de locatie van de klant naar wie u de producten hebt verkocht.
 
-**Eenmalige facturering** : uw factuur wordt gegenereerd in de context van de valuta van de klant. Dit betekent dat als u een partner bent die gebruikmaakt van klanten uit verschillende factureer bare valuta's, een factuur ontvangt voor elk type valuta van de klant. Lees meer over [eenmalige en recurrent](azure-plan-billing.md). 
+**Eenmalige facturering**: uw factuur wordt gegenereerd in de context van de valuta van de klant. Dit betekent dat als u een partner bent die gebruikmaakt van klanten uit verschillende factureer bare valuta's, een factuur ontvangt voor elk type valuta van de klant. Lees meer over [eenmalige en recurrent](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Facturen
 
@@ -72,7 +70,7 @@ Prijs lijsten worden maandelijks bijgewerkt. Preview-prijs lijsten zijn vooraf b
 Prijs lijsten weer geven:
 
 1. [Meld u aan bij het dash board van de partner centrum](https://partner.microsoft.com/dashboard/home).
-2. Kies in het menu links de optie **verkopen** en selecteer vervolgens **prijzen en aanbiedingen** .
+2. Kies in het menu links de optie **verkopen** en selecteer vervolgens **prijzen en aanbiedingen**.
 3. Op de pagina **prijzen en aanbiedingen** kunt u zes maanden aan prijs lijsten (inclusief de huidige maand) en preview-prijs lijsten bekijken (indien van toepassing).
 
 Prijzen **op basis van licenties** worden gegarandeerd voor de duur van het abonnement, meestal 12 maanden vanaf de aankoop datum. 
@@ -106,7 +104,7 @@ De facturerings frequentie wordt op order niveau gewijzigd en zodra de frequenti
 De facturerings frequentie van een online service voor een klant wijzigen:
 
 1. [Meld u aan bij het dash board van de partner centrum](https://partner.microsoft.com/dashboard/home).
-2. Kies in het menu links de optie **klanten** .
+2. Kies in het menu links de optie **klanten**.
 3. Selecteer de klant van wie u de facturerings frequentie wilt wijzigen.
 4. Selecteer op de pagina **abonnementen** van de klant het abonnement dat u wilt wijzigen.
 5. Selecteer **maandelijks** of **jaarlijks** onder **facturerings frequentie** op de pagina **Details** . U ziet een bevestigings pagina met belang rijke informatie over het wijzigen van de facturerings frequentie en een lijst met de abonnementen die u wilt wijzigen.
@@ -153,7 +151,7 @@ Service tarieven met data limiet kunnen worden gewijzigd in de factuur cyclus.
 De huidige facturerings status, facturen en reconciliatie bestanden weer geven:
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
-2. Kies **facturering** in het menu aan de linkerkant en selecteer vervolgens **terugkerende en eenmalige aankopen** .
+2. Kies **facturering** in het menu aan de linkerkant en selecteer vervolgens **terugkerende en eenmalige aankopen**.
 3. Selecteer op de pagina facturerings status een factuur of afstemmings bestand om meer gedetailleerde informatie weer te geven.
 
 ### <a name="customer-order-history"></a>Order geschiedenis van de klant
@@ -161,7 +159,7 @@ De huidige facturerings status, facturen en reconciliatie bestanden weer geven:
 De order historie van een klant bekijken:
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
-2. Kies in het menu aan de linkerkant de optie **klanten** .
+2. Kies in het menu aan de linkerkant de optie **klanten**.
 3. Zoek op de pagina **klanten** de klant waarvan u de order geschiedenis wilt weer geven. Selecteer de pijl-omlaag om de record van de klant uit te vouwen.
 4. Kies **orders weer geven** om de order historie van de klant weer te geven.
 
@@ -173,3 +171,8 @@ Mogelijk moet u om de volgende redenen een tegoed of herfacturering aanvragen:
 - Er is een belasting restitutie toegepast nadat de factuur is gegenereerd. U kunt een tegoed of herfacturering aanvragen om de belasting restitutie terug te krijgen in de oorspronkelijke factuur. Dit geldt ook voor restituties. U kunt een tegoed of herfacturering aanvragen van de oorspronkelijke factuur en vervolgens terugstorting doen.
 
 **Voor alle eenmalige en terugkerende trans acties** kan micro soft een credit nota uitgeven wanneer u een tegoed of herfacturering aanvraagt. De factuur wordt geannuleerd wanneer het tegoed wordt uitgegeven. 
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Meer informatie over uw factuur-en afstemmings bestand](read-your-bill.md)
+- [Algemene facturerings scenario's voor CSP-programma partners](common-billing-scenarios.md)

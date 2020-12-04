@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528481"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570787"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Een partner centrum-account maken voor het beheren van de netwerk voordelen en-competenties
 
@@ -25,25 +25,29 @@ ms.locfileid: "92528481"
 
 Voordat u een account kunt maken in het partner centrum, moet uw bedrijf lid zijn van de Microsoft Partner Network. Als u nog geen lid bent van het netwerk, kunt u [nu deel nemen](https://partner.microsoft.com/commercial#). Nadat u een partner centrum-account hebt gemaakt, Bekijk deze korte video [uw dash board](https://vimeo.com/290338211).
 
-## <a name="before-you-begin"></a>Voordat u begint
+## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>Een werk-e-mail adres ophalen voordat u een partner centrum-account instelt
+
+Uw bedrijf moet een e-mail domein aanschaffen om zakelijke e-mail adressen voor uw werk nemers in te stellen. Werk samen met uw IT-afdeling om een e-mail domein te kopen, omdat dit een technisch proces is. Gebruik de nieuwe e-mail om uw Azure AD-Tenant en uw partner centrum-account in te stellen.
+
+## <a name="get-started"></a>Aan de slag
 
 Als u een account in het partner centrum wilt maken, moet u de volgende informatie in de hand hebben. Het kan een paar minuten duren voordat u deze items verzamelt voordat u aan de slag gaat:
 
--   Algemene beheerder werk-e-mail.
+- Algemene beheerder werk-e-mail.
 
--   Als u niet zeker weet wat het werk account van uw bedrijf is, raadpleegt u [het werk account van uw bedrijf en het partner centrum](azure-active-directory-tenants-and-partner-center.md) als uw bedrijf geen werk account heeft, kunt u er een maken tijdens het proces voor het maken van het account. 
+- Als u niet zeker weet wat het werk account van uw bedrijf is, raadpleegt u [het werk account van uw bedrijf en het partner centrum](azure-active-directory-tenants-and-partner-center.md) als uw bedrijf geen werk account heeft, kunt u er een maken tijdens het proces voor het maken van het account. 
 
--   De juridische bedrijfs naam en het adres van uw bedrijf.  
+- De juridische bedrijfs naam en het adres van uw bedrijf.  
 
--   Bevoegdheid om juridische overeenkomsten te ondertekenen. Zorg ervoor dat u gemachtigd bent om juridische overeenkomsten te ondertekenen binnen de naam van uw bedrijf, omdat u daarom wordt gevraagd tijdens het inschrijvings proces.
+- Bevoegdheid om juridische overeenkomsten te ondertekenen. Zorg ervoor dat u gemachtigd bent om juridische overeenkomsten te ondertekenen binnen de naam van uw bedrijf, omdat u daarom wordt gevraagd tijdens het inschrijvings proces.
 
--   Naam en bedrijfse-mail van de persoon die u wilt gebruiken als uw primaire contact persoon. Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om te verifiëren dat (1) hij of zij zich heeft aangemeld voor een partner centrum-account en dat (2) dit e-mail adres tot uw bedrijf behoort. Nadat de primaire contact persoon zijn of haar e-mail adres heeft geverifieerd, gaan we verder met de door u verstrekte informatie.
+- Naam en bedrijfse-mail van de persoon die u wilt gebruiken als uw primaire contact persoon. Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om te verifiëren dat (1) hij of zij zich heeft aangemeld voor een partner centrum-account en dat (2) dit e-mail adres tot uw bedrijf behoort. Nadat de primaire contact persoon zijn of haar e-mail adres heeft geverifieerd, gaan we verder met de door u verstrekte informatie.
 
-Deze informatie wordt gecontroleerd tijdens het proces voor het maken van het account. 
+Deze informatie wordt gecontroleerd tijdens het proces voor het maken van het account. Zie [account verificatie](verification-responses.md) voor informatie over het verificatie proces
  
 ## <a name="create-a-partner-center-account"></a>Een Partnercentrum-account maken
 
-1.  Lees de informatie op de pagina **Welkom** en selecteer **volgende** .
+1.  Lees de informatie op de pagina **Welkom** en selecteer **volgende**.
 
 2.  Meld u aan als een globale beheerder voor het werk account van uw bedrijf. Als u niet zeker weet wat het werk account van uw bedrijf is, raadpleegt u [het werk account van uw bedrijf en het partner centrum](azure-active-directory-tenants-and-partner-center.md).
 
@@ -51,7 +55,7 @@ Deze informatie wordt gecontroleerd tijdens het proces voor het maken van het ac
 
     Als uw bedrijf geen werk account heeft, selecteert u **er een maken** om er nu een in te stellen. Nadat u een werk account hebt gemaakt, meldt u zich aan met de referenties van uw globale beheerder voor het werk account dat u zojuist hebt gemaakt.
 
-3.  Geef het juridische bedrijfs profiel en de primaire contact gegevens van uw bedrijf op of werk het bij en selecteer **nu registreren** . 
+3.  Geef het juridische bedrijfs profiel en de primaire contact gegevens van uw bedrijf op of werk het bij en selecteer **nu registreren**. 
 
     De primaire contact persoon moet degene zijn in uw bedrijf. we kunnen contact opnemen met uw toepassing (dit kan u of een andere persoon in uw bedrijf zijn). We gebruiken deze informatie ook om te controleren of deze persoon bij uw bedrijf werkt en zich heeft aangemeld voor een partner centrum-account.
 
@@ -62,9 +66,9 @@ Deze informatie wordt gecontroleerd tijdens het proces voor het maken van het ac
 
 5.  Controleer of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
 
-    a. Selecteer het pictogram **instellingen** in het [dash board](https://partner.microsoft.com/dashboard/home**)van de partner centrum en selecteer vervolgens **gebruikers beheer** .  
+    a. Selecteer het pictogram **instellingen** in het [dash board](https://partner.microsoft.com/dashboard/home**)van de partner centrum en selecteer vervolgens **gebruikers beheer**.  
 
-    b. Selecteer uw naam in de lijst met gebruikers en selecteer vervolgens **beheer agent** als deze nog niet is geselecteerd. Selecteer **Update** .  
+    b. Selecteer uw naam in de lijst met gebruikers en selecteer vervolgens **beheer agent** als deze nog niet is geselecteerd. Selecteer **Bijwerken**.  
 
 ## <a name="view-mpn-account-details"></a>Details van MPN-account weer geven
 
@@ -91,7 +95,7 @@ Volg deze stappen om account details weer te geven of de MPN-overeenkomst weer t
 
 2. Er wordt een overzichts pagina weer gegeven. (Als de overzichts pagina niet wordt weer gegeven, selecteert u **overzicht** in het navigatie menu aan de linkerkant.)
 
-3. Selecteer het tandwiel pictogram in de rechter bovenhoek van het dash board en selecteer vervolgens **partner instellingen** . Hiermee gaat u naar de pagina Partner profiel.
+3. Selecteer het tandwiel pictogram in de rechter bovenhoek van het dash board en selecteer vervolgens **partner instellingen**. Hiermee gaat u naar de pagina Partner profiel.
 
 4. Op de pagina Partner profiel ziet u verschillende gebieden. Dit zijn onder andere een **juridisch zakelijk profiel** gebied en een **informatie gebied over Program ma's** .
 
@@ -100,7 +104,7 @@ Volg deze stappen om account details weer te geven of de MPN-overeenkomst weer t
 
    :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="Afbeelding van het gedeelte programma-informatie op de pagina Partner profiel met een rood vak waarin het veld MPN programma status in dit gebied wordt weer gegeven, samen met de bijbehorende koppeling naar de Microsoft Partner Network overeenkomst.":::
 
-6. Als u deze overeenkomst wilt weer geven of downloaden, selecteert u **Microsoft Partner Network overeenkomst** .  
+6. Als u deze overeenkomst wilt weer geven of downloaden, selecteert u **Microsoft Partner Network overeenkomst**.  
 
 > [!NOTE]
 > U kunt ook de bovenstaande stappen gebruiken om andere overeenkomsten te bekijken of te downloaden voor andere geregistreerde Program ma's, zoals de micro soft-partner overeenkomst, als u zich in het programma van de Cloud Solution Provider (CSP) bevindt.

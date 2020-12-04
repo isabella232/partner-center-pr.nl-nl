@@ -2,21 +2,21 @@
 title: Veelgestelde vragen over Solution Assessment Incentives
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Antwoorden op veelgestelde vragen over de evaluatie van de oplossing
+description: Meer informatie over antwoorden op veelgestelde vragen over de evaluatie van de oplossing in de Channel prikkeling platform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0796d8d5a79de181feb9c64c0e48ea4720817953
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447281"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570447"
 ---
-# <a name="solution-assessment-incentives-faq"></a>Veelgestelde vragen over het evalueren van oplossingen
+# <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Veelgestelde vragen over het beoordelen van oplossingen voor het Channel prikkel platform (CHIP) 
 
 Hieronder vindt u antwoorden op veelgestelde vragen.
 

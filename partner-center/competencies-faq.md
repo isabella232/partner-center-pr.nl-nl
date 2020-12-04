@@ -2,18 +2,18 @@
 title: Competenties-Veelgestelde vragen
 ms.topic: article
 ms.date: 11/23/2020
-description: Antwoorden op vragen over het bereiken van Microsoft Partner Network Gold-en Silver-competenties, verval datum van voor deel, verlenging en activering van licenties voor Azure, Cloud, Visual Studio en technische en ondersteunings voordelen
+description: Antwoorden over MPN Gold-of Silver-competenties, verval datum van voor deel, verlenging of activering van licenties voor Azure, Cloud, Visual Studio, technisch, ondersteunings voordelen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812818"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570481"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Competenties-Veelgestelde vragen
 

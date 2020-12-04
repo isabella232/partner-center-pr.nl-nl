@@ -9,18 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92528080"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570651"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Licenties op hetzelfde moment toewijzen of intrekken voor meerdere gebruikers in een klant account
-
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -38,11 +34,11 @@ In het partner centrum worden alle licentie rechten van de klant bijgehouden en 
 
 1. Selecteer **klanten** in het menu van het **partner centrum** en kies vervolgens een klant in de lijst.
 
-2. Selecteer **gebruikers en licenties** .
+2. Selecteer **gebruikers en licenties**.
 
 3. Schakel het selectie vakje voor twee of meer gebruikers in de lijst in. (Als u alle gebruikers op de huidige pagina wilt selecteren, schakelt u het selectie vakje aan de bovenkant van de kolom **gebruikers** in.)
 
-    U kunt gebruikers zoeken en selecteren op meerdere pagina's met de **eerste** , **vorige** , **volgende** en **laatste** hulpprogram ma's.
+    U kunt gebruikers zoeken en selecteren op meerdere pagina's met de **eerste**, **vorige**, **volgende** en **laatste** hulpprogram ma's.
 
 4. Selecteer de koppeling **geselecteerde gebruikers** . De weer gegeven lijst toont de geselecteerde gebruikers.
 
@@ -71,7 +67,7 @@ In het partner centrum worden alle licentie rechten van de klant bijgehouden en 
 7. Selecteer meer dan één product voor de gebruikers door het selectie vakje van elk product in te scha kelen.
     -   Selecteer **service plannen** voor elk product weer geven om de service plannen te bekijken en te selecteren die de gebruikers nodig hebben.
 
-8. Selecteer **Opslaan** . Het partner centrum opent een pagina met **bijgewerkte bevestigings licenties** die de gebruikers en hun nieuwe licenties vermelden.
+8. Selecteer **Opslaan**. Het partner centrum opent een pagina met **bijgewerkte bevestigings licenties** die de gebruikers en hun nieuwe licenties vermelden.
 
 >[!NOTE]
 >Sommige micro soft-producten zijn mogelijk niet op bepaalde locaties beschikbaar. Andere producten zijn afhankelijk van andere producten of services of kunnen niet samen aan dezelfde gebruiker worden toegewezen. Nadat u het bestand hebt opgeslagen, worden in de bevestigings pagina de resultaten van alle gebruikers weer gegeven van de toewijzing van geslaagde licenties en eventuele fouten van de licentie toewijzing.
@@ -80,11 +76,11 @@ In het partner centrum worden alle licentie rechten van de klant bijgehouden en 
 
 1. Selecteer **klanten** in het menu van het **partner centrum** en kies vervolgens een klant in de lijst.
 
-2. Selecteer **gebruikers en licenties** .
+2. Selecteer **gebruikers en licenties**.
 
 3. Schakel het selectie vakje voor twee of meer gebruikers in de lijst in. (Als u alle gebruikers op de huidige pagina wilt selecteren, schakelt u het selectie vakje aan de bovenkant van de kolom **gebruikers** in.)
 
-    Pagina door de **eerste** , **vorige** , **volgende** en **laatste** hulpprogram ma's om andere gebruikers te zoeken en te selecteren. U kunt verschillende pagina's selecteren.
+    Pagina door de **eerste**, **vorige**, **volgende** en **laatste** hulpprogram ma's om andere gebruikers te zoeken en te selecteren. U kunt verschillende pagina's selecteren.
 
 4. Nadat u de gebruikers hebt geselecteerd, kiest u de koppeling **geselecteerde gebruikers** . De weer gegeven lijst bevat alleen de geselecteerde gebruikers.
 
@@ -94,7 +90,7 @@ In het partner centrum worden alle licentie rechten van de klant bijgehouden en 
 
    Als alle geselecteerde gebruikers bijvoorbeeld Office 365 Enter prise-licenties hebben en u deze wilt intrekken, schakelt u het selectie vakje in om het uit te scha kelen.
 
-7. Selecteer **Opslaan** .
+7. Selecteer **Opslaan**.
 
 ## <a name="next-steps"></a>Volgende stappen
 

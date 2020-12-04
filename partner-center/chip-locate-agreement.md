@@ -1,22 +1,22 @@
 ---
-title: Het aantal desktop-en kosten niveau voor een overeenkomst zoeken
+title: Aantal Bureau bladen zoeken, kosten niveau in CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Waar vind ik de informatie over het aantal desktop-en kosten niveau in de CHIP.
+description: Meer informatie over het gebruik van de Channel prikkel platform (CHIP) om de informatie over het aantal desktop-en kosten niveaus voor een overeenkomst te vinden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422195"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570549"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Het aantal desktop-en kosten niveau voor een overeenkomst zoeken
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Het aantal desktop en kostenniveaus voor een overeenkomst zoeken
 
 U kunt downloaden naar Excel, een bestand met details van de overeenkomst voor het aantal pc's en het kosten niveau.
 

@@ -1,6 +1,6 @@
 ---
 title: De service status voor een klant controleren
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,18 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 60957d227197460a0cdb108e1826758e0ec48e03
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92528072"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570617"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Bekijk de service status voor een klant die een mogelijk service probleem of storingen meldt
-
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -29,16 +25,16 @@ ms.locfileid: "92528072"
 - Helpdesk medewerker
 - Verkoop agent
 
-Een van de eerste dingen die u kunt doen wanneer een klant problemen ondervindt met een service, is om de service status te controleren. 
+In dit artikel wordt uitgelegd hoe u het partner centrum gebruikt om de service status van een klant te controleren wanneer er een probleem optreedt met een service. 
 
-## <a name="check-service-health"></a>Service status controleren
+## <a name="check-service-health"></a>Servicestatus controleren
 
-1. Selecteer de **klant** die het probleem heeft vanuit de **klanten lijst** .
+1. Selecteer de **klant** die het probleem heeft vanuit de **klanten lijst**.
 
 2. Selecteer **Service beheer** in het menu links. Hiermee worden de services weer geven die zijn ingericht voor de klant en de service status voor elk. Partners kunnen klikken op de service waarover ze geïnteresseerd zijn om meer informatie te krijgen. 
 
 >[!NOTE] 
-> Met de koppelingen voor service status op de **Service beheer** pagina's wordt de partner naar het M365-beheer centrum of de Azure portal geleid als **gedelegeerd beheerder** . Zodra de partner een van beide bestemmingen heeft verkregen, kan de partner naar de service status pagina's in een van de portals navigeren voor meer informatie over de storing.
+> Met de koppelingen voor service status op de **Service beheer** pagina's wordt de partner naar het M365-beheer centrum of de Azure portal geleid als **gedelegeerd beheerder**. Zodra de partner een van beide bestemmingen heeft verkregen, kan de partner naar de service status pagina's in een van de portals navigeren voor meer informatie over de storing.
  
 Tijdens het uitvallen van een service biedt micro soft regel matige updates voor het oplossen van het probleem. Deze meldingen worden ook weer gegeven op de Microsoft Azure-portal of in het beheer centrum van Microsoft 365.
 
@@ -48,5 +44,5 @@ Tijdens het uitvallen van een service biedt micro soft regel matige updates voor
 
 - Microsoft 365 en Microsoft Azure elke [API die partners kunnen gebruiken om de Real-Time service status](get-automated-service-notifications-with-our-apis.md), berichten centrum communicatie en geplande onderhouds gebeurtenissen op te halen.
 
- 
+ 
 

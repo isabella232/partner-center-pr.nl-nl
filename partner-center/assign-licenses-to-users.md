@@ -1,22 +1,22 @@
 ---
-title: Gebruikers en gebruikers licenties voor klant accounts beheren
+title: Gebruikers voor klant accounts beheren
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het beheren van gebruikers voor uw klanten in partner centrum, zoals het maken van gebruikers accounts, het toevoegen of verwijderen van gebruikers licenties, het opnieuw instellen van gebruikers wachtwoorden en het verwijderen of herstellen van gebruikers accounts.
+description: 'Gebruikers beheren voor uw klanten in Partner Center: gebruikers accounts maken, gebruikers licenties toevoegen of verwijderen, wacht woorden opnieuw instellen en gebruikers accounts verwijderen of herstellen.'
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474067"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570736"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gebruikers en gebruikers licenties voor klant accounts beheren
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gebruikers en gebruikers licenties voor klant accounts beheren 
 
 **Juiste rollen**
 
@@ -76,21 +76,21 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 
 2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
 
-3.  Selecteer **gebruikers en licenties** in het menu klant. Kies de gebruiker in de lijst.
+3. Selecteer **gebruikers en licenties** in het menu klant. Kies de gebruiker in de lijst.
 
-4.  Selecteer onder aan het scherm **wacht woord opnieuw instellen**. 
+4. Selecteer onder aan het scherm **wacht woord opnieuw instellen**. 
 
-5.  Het nieuwe tijdelijke wacht woord naar de gebruiker verzenden.
+5. Het nieuwe tijdelijke wacht woord naar de gebruiker verzenden.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Gebruikers accounts voor een klant verwijderen
 
-1.  Selecteer in het menu **Partner Center** **klanten**. Kies de klant in de lijst.
+1. Selecteer in het menu **Partner Center** **klanten**. Kies de klant in de lijst.
 
-2.  Selecteer **gebruikers en licenties** in het menu klant. Kies de gebruiker in de lijst.
+2. Selecteer **gebruikers en licenties** in het menu klant. Kies de gebruiker in de lijst.
 
-3.  Selecteer onder aan het scherm de optie **gebruikers account verwijderen**.
+3. Selecteer onder aan het scherm de optie **gebruikers account verwijderen**.
 
 Als u dit account wilt herstellen, kunt u het vinden op het tabblad **Verwijderde gebruikers** van de lijst **gebruikers en licenties** van de klant. U hebt 30 dagen de tijd om een verwijderde gebruiker te herstellen.
 
@@ -98,19 +98,18 @@ Als u dit account wilt herstellen, kunt u het vinden op het tabblad **Verwijderd
 
 ## <a name="restore-deleted-user-accounts"></a>Verwijderde gebruikers accounts herstellen
 
-1.  Selecteer **klanten** in het menu van het **partner centrum** en kies vervolgens de klant in de lijst.
+1. Selecteer **klanten** in het menu van het **partner centrum** en kies vervolgens de klant in de lijst.
 
-2.  Selecteer **gebruikers en licenties**.
+2. Selecteer **gebruikers en licenties**.
 
-3.  Selecteer het tabblad **Verwijderde gebruikers ()** . Het moet worden gelezen **(1)** of groter wanneer er verwijderde gebruikers zijn die kunnen worden hersteld.
+3. Selecteer het tabblad **Verwijderde gebruikers ()** . Het moet worden gelezen **(1)** of groter wanneer er verwijderde gebruikers zijn die kunnen worden hersteld.
 
-4.  Selecteer een of meer van de selectie vakjes van de verwijderde gebruikers en selecteer vervolgens **herstellen**.
+4. Selecteer een of meer van de selectie vakjes van de verwijderde gebruikers en selecteer vervolgens **herstellen**.
 
     Alle geselecteerde gebruikers accounts worden weer gegeven op de pagina **gebruikers en licenties** .
 
-## <a name="related-topics"></a>Verwante onderwerpen
+## <a name="next-steps"></a>Volgende stappen
 
+- [Licenties toewijzen of intrekken voor meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md)
 
-[Licenties toewijzen of intrekken voor meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md)
-
-[Meerdere gebruikers voor een klant account maken](adding-multiple-users-to-a-customer-account.md)
+- [Meerdere gebruikers voor een klant account maken](adding-multiple-users-to-a-customer-account.md)

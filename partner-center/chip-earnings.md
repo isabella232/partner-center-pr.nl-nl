@@ -1,22 +1,22 @@
 ---
-title: Inkomsten in CHIP weer geven
+title: Inkomsten in CHIP weergeven
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Richt lijnen voor het weer geven van de winst in de CHIP
+description: Meer informatie over het weer geven van uw prikkel instructie en inkomsten in het Channel prikkeling platform (CHIP)-hulp programma.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422196"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570498"
 ---
-# <a name="view-earnings-in-chip"></a>Inkomsten in CHIP weer geven
+# <a name="view-earnings-using-the-chip-tool"></a>Inkomsten weer geven met het CHIP-hulp programma
 
 U kunt uw instructie voor prikkels openen via het Channel prikkel platform tool (CHIP).
 
@@ -32,7 +32,7 @@ U kunt uw instructie voor prikkels openen via het Channel prikkel platform tool 
 
 ### <a name="explanation-of-details-tabs"></a>Uitleg van de tabbladen Details
 
-|**Tabbesturingselement**|**Beschrijving**|
+|**Tabbesturingselement**|**Definitie**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|Bevat details over het programma voor stimulansen voor de geselecteerde tijds periode, waaronder klant naam, overeenkomst, hendel Details|
 |DeltaReport-Pivot|Updates van de laatst gepubliceerde instructie voor alleen Enter prise|
@@ -41,4 +41,4 @@ U kunt uw instructie voor prikkels openen via het Channel prikkel platform tool 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Controleer de betalings status in de CHIP](chip-payment-status.md)
+- [De betalingsstatus in CHIP controleren](chip-payment-status.md)

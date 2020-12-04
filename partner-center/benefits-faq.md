@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417248"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570685"
 ---
 # <a name="benefits-faq"></a>Veelgestelde vragen over de voordelen
 
-Van toepassing op:
+**Juiste rollen**
 
-- Partnercentrum
-- Partnercentrum voor Microsoft Cloud for US Government
+- MPN-beheerder
+
+In dit artikel komen veel Veelgestelde vragen over de voor delen van Microsoft Partner Network (MPN) aan de orde.
+
 
 ## <a name="general-questions"></a>Algemene vragen
 
@@ -87,7 +89,7 @@ U kunt abonnementen toewijzen aan iedereen in uw lijst met gebruikers beheer in 
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer in het navigatie venster links de optie **MPN**.
+2. Selecteer in het menu van het partner centrum **MPN**.
 
 3. Selecteer **voor delen** en selecteer vervolgens **Visual Studio**.
 
@@ -96,7 +98,7 @@ U kunt abonnementen toewijzen aan iedereen in uw lijst met gebruikers beheer in 
 Nadat u het abonnement hebt toegewezen, moet de gebruiker zich aanmelden bij Visual Studio om het te kunnen beheren.
 
 >[!Note]
-> Visual Studio-abonnementen kunnen na 90 dagen van de oorspronkelijke toewijzing opnieuw worden toegewezen van een abonnee naar een andere.
+> Visual Studio-abonnementen kunnen opnieuw worden toegewezen van een abonnee naar een andere 90 dagen na de oorspronkelijke toewijzing.
 
 ## <a name="technical-benefits-and-support"></a>Technische voor delen en ondersteuning
 
@@ -106,7 +108,7 @@ Installatie, activering en andere productgerelateerde hulp worden via Microsoft 
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer in het navigatie venster links de optie **MPN**.
+2. Selecteer in het menu van het partner centrum **MPN**.
 
 3. Selecteer **voor delen** en selecteer vervolgens **technische voor delen**.
 
@@ -115,3 +117,7 @@ Installatie, activering en andere productgerelateerde hulp worden via Microsoft 
 5. Meld u aan bij [Microsoft ondersteuning](https://support.microsoft.com/supportforbusiness/productselection).
 
 6. Selecteer het product dat u wilt installeren en maak vervolgens een technische ondersteunings ticket.
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Verdien een geavanceerde specialisatie om uw expertise te presen teren](advanced-specializations.md)
