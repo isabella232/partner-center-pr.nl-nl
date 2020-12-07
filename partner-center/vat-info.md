@@ -1,19 +1,19 @@
 ---
-title: BTW-informatie over de toegevoegde waarde in het partner centrum-registratie
+title: Btw-gegevens (VAT) bij registratie in Partnercentrum
 description: Als u een BTW-ID-nummer moet opgeven tijdens het registratie proces van de partner centrum, kunt u aan de hand van deze informatie aan de slag.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92528651"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755636"
 ---
-# <a name="vat-info"></a>BTW-gegevens
+# <a name="value-added-tax-vat-information"></a>Informatie over de belasting over de toegevoegde waarde (BTW)
 
 **Van toepassing op:**
 
@@ -25,6 +25,24 @@ Als u een BTW-ID-nummer moet opgeven tijdens het registratie proces van het part
 ## <a name="understanding-vat-numbers"></a>Meer informatie over BTW-nummers
 
 Een BTW-nummer (belasting toegevoegde waarde) is een id die wordt gebruikt voor landen of regio's in de Europese Unie. Zie de officiële [intracommunautaire site](http://ec.europa.eu/taxation_customs/vies/vieshome.do)van de Europese Unie voor meer informatie.
+
+## <a name="location-specific-vat-information"></a>Locatiespecifieke BTW-informatie
+
+De volgende gegevens zijn uniek voor de hieronder vermelde landen of regio's.
+
+### <a name="european-union"></a>Europese Unie
+
+In de lidstaten van de Europese Unie moeten partners hun geldige BTW-ID-nummer voor terugboeking en juiste facturering opgeven. Het BTW-nummer moet worden geaccepteerd als geldig.
+
+Micro soft biedt geen ondersteuning voor tegoed en herfacturering. Voordat u abonnementen verkoopt, moet u [uw BTW-nummer registreren in het](organization-tax-info.md) partner centrum.
+
+### <a name="south-africa"></a>Zuid-Afrika
+
+Micro soft past nu de standaard BTW toe op digitale inhoud en services die door partners in Zuid-Afrika zijn aangeschaft. Als u de BTW van uw facturen wilt uitsluiten en dit zelf wilt beheren, moet u het facturerings Profiel van uw partner bijwerken door [uw BTW-nummer van micro soft te verzenden](organization-tax-info.md).
+
+### <a name="turkey"></a>Turkije
+
+Micro soft past nu de standaard BTW toe op digitale inhoud en services die door partners in Turkije zijn gekocht. Als u de BTW van uw facturen wilt uitsluiten en dit zelf wilt beheren, moet u het facturerings Profiel van uw partner bijwerken door [uw BTW-nummer van micro soft te verzenden](organization-tax-info.md).
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Geaccepteerde notaties voor BTW-nummers
 
