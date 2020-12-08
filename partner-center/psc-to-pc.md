@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 12/04/2020
-ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
-ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
+ms.date: 12/07/2020
+ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
+ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "96612808"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96776901"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -66,22 +66,22 @@ Selecteer de optie **verwijzingen** in het navigatie menu van het partner centru
   >[!Note]
   > Mogelijk moet u zich afmelden bij Partner Center en u vervolgens weer aanmelden om uw referenties voor toegang tot de pagina's met verwijzingen te vernieuwen.
 
-Als de optie **verwijzingen** niet wordt weer geven in het menu van het partner centrum of aan de pagina met verwijzingen, neemt u contact op met de [globale beheerder](permissions-overview.md) van uw bedrijf en vraagt u om u toegang te geven tot de opties voor **verwijzingen** en het bijbehorende gebied. 
+Als de optie **verwijzingen** niet wordt weer geven in het menu van het partner centrum of aan de pagina met verwijzingen, neemt u contact op met de [account beheerder](permissions-overview.md) van uw bedrijf en vraagt u om u toegang te geven tot de opties voor **verwijzingen** en het bijbehorende gebied.
 
-De globale beheerder van uw bedrijf zoeken:
+De account beheerder van uw bedrijf zoeken:
 
 1. Selecteer **account instellingen** in het tandwiel pictogram rechtsboven in het dash board van de partner centrum.
 
-1. Selecteer **gebruikers beheer** in het navigatie menu van het tweede niveau links. 
+1. Selecteer **gebruikers beheer** in het navigatie menu van het tweede niveau links.
 
-1. Selecteer boven aan de lijst met gebruikers de vervolg keuzelijst **filter** . Wijzig de optie in **globale beheerder**.
+1. Selecteer boven aan de lijst met gebruikers de vervolg keuzelijst **filter** . Wijzig de optie in **account beheerder**.
 
-   Op de pagina worden alle globale beheerders weer gegeven met hun respectievelijke e-mail adressen. E-mail een van de gebruikers en vraag hen om de beheerdersrol voor uw werk account toe te wijzen.
+   Op de pagina worden alle account beheerders weer gegeven met hun respectieve e-mail adressen. E-mail een van de gebruikers en vraag hen om de beheerdersrol voor uw werk account toe te wijzen.
 
   :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Afbeelding van de account beheerder op de pagina partner instellingen gebruikers beheer.":::
 
 >[!Important]
->- Als uw rol alleen het beheer van gebruikers in PSC omvat, vraagt u de globale beheerder van uw bedrijf om u de rol [account beheerder](permissions-overview.md#manage-mpn-membership-and-your-company) toe te wijzen in het partner centrum. 
+>- Als uw rol alleen het beheer van gebruikers in PSC omvat, vraagt u de account beheerder van uw bedrijf om u de rol [account beheerder](permissions-overview.md#manage-mpn-membership-and-your-company) toe te wijzen in het partner centrum. 
 >- Als uw rol ook mogelijkheden voor het beheren van co-verkoop omvat, moet u [de beheerdersrol](permissions-overview.md#manage-referrals) toewijzen.
 > - Het is een goed idee om ook een lead voor veranderingen beheer te benoemen onder de PSC-beheerders. Als u dit doet, voor komt u dat alle PSC-beheerders afzonderlijk kunnen worden bereikt door account beheerders van het partner centrum. In plaats daarvan kan de lead voor veranderingen beheer de primaire persoon zijn die werkt met de account beheerder van het partner centrum.
 
@@ -129,7 +129,7 @@ Soms kan de migratie mislukken en resulteert dit in fouten. Hier volgen enkele r
 
 Nadat u de gebruikers migratie hebt voltooid, gebruikt u de volgende richt lijnen om de migratie strategie te bepalen:
 
-Als uw bedrijf een PDM heeft: wanneer uw partner centrum-account is ingesteld en uw gebruikers over rollen en machtigingen beschikken, kunt u uw activiteiten naar het partner centrum verplaatsen. Informeer de PDM om de switch te laten wachten tot de deadline voor de migratie is voltooid, waardoor al uw nieuwe deals in het partner centrum kunnen stromen.
+Als uw bedrijf een partner Development Manager (PDM) heeft: wanneer uw partner centrum-account is ingesteld en uw gebruikers over rollen en machtigingen beschikken, kunt u uw activiteiten naar het partner centrum verplaatsen. Informeer de PDM om de switch te laten wachten tot de deadline voor de migratie is voltooid, waardoor al uw nieuwe deals in het partner centrum kunnen stromen.
 
 >[!Note]
 >Zodra u deze switch hebt gemaakt, kunt u alleen op de bestaande actieve deals in PSC reageren. U kunt geen nieuwe deals maken en geen deals ontvangen van micro soft-verkopers in PSC.
@@ -137,7 +137,7 @@ Als uw bedrijf een PDM heeft: wanneer uw partner centrum-account is ingesteld en
 Als uw bedrijf geen PDM heeft, moet u ervoor zorgen dat alle gebruikers accounts zijn ingesteld en geverifieerd door alle gebruikers. U wordt gewaarschuwd via een e-mail en een banner in PSC met betrekking tot de exacte datum waarop u in het partner centrum gezamenlijk kunt beginnen met verkopen. Houd er rekening mee dat u nog steeds de bestaande actieve deals in PSC moet beheren.
 
 >[!Important]
->Actieve deals worden niet gemigreerd naar de PC. U hebt tot en met 31 december 2020 de deals te sluiten en te registreren.
+>Actieve deals worden niet gemigreerd naar de PC. U hebt tot 31 maart 2021 de deals te sluiten en te registreren.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Volgende stappen voor PSC-beheerders, PSC-deal managers en PSC-verkopers
 
@@ -263,7 +263,7 @@ U kunt contact opnemen met uw beheerders die worden vermeld op de pagina ' geen 
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2-wie kan me toegang verlenen tot de sectie referrals in Partner Center?
 
-Uw [account beheerder](permissions-overview.md#manage-mpn-membership-and-your-company) kan u toegang verlenen tot het tabblad verwijzingen. Als u uw globale beheerder wilt vinden, selecteert u **account instellingen** in het tandwiel pictogram rechtsboven in het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum. Selecteer vervolgens **gebruikers beheer** op de navigatie balk links op het tweede niveau. Selecteer boven aan de lijst met gebruikers de vervolg keuzelijst **filter** en wijzig de optie in **globale beheerder**. Op de pagina worden alle globale beheerders weer gegeven met hun respectievelijke e-mail adressen. Vraag een van hen om de rol van verwijzings beheerder voor uw werk account toe te wijzen.
+Uw [account beheerder](permissions-overview.md#manage-mpn-membership-and-your-company) kan u toegang verlenen tot het tabblad verwijzingen. Als u uw account beheerder wilt vinden, selecteert u **account instellingen** in het tandwiel pictogram rechtsboven in het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum. Selecteer vervolgens **gebruikers beheer** op de navigatie balk links op het tweede niveau. Selecteer boven aan de lijst met gebruikers de vervolg keuzelijst **filter** en wijzig de optie in **account beheerder**. Op de pagina worden alle account beheerders weer gegeven met hun respectieve e-mail adressen. Vraag een van hen om de rol van verwijzings beheerder voor uw werk account toe te wijzen.
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3-de knop + nieuwe deal is voor ons account grijs weer gegeven. Wat moet ik doen om te beginnen met het maken van deals?
 
