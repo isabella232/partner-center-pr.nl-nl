@@ -1,7 +1,7 @@
 ---
 title: Software Assurance Planning Services
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over het inschrijven en kwalificeren van micro soft planning services-afspraken, zodat u trainingen en andere services kunt leveren aan klanten met Software Assurance.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "92528177"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926641"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services in Partnercentrum
 
@@ -42,10 +42,9 @@ In dit artikel wordt uitgelegd hoe u elke stap kunt volt ooien.
 
 ## <a name="verify-eligibility-new-partners"></a>Geschiktheid controleren (nieuwe partners)
 
-Voordat partner bedrijven en consultants kunnen inschrijven in een van de aanbiedingen van de plannings Services, moeten ze voldoen aan de vereisten voor naleving en competentie vereisten:
+Voordat partner bedrijven en consultants kunnen inschrijven in een van de aanbiedingen van de planning services, moeten ze voldoen aan de vereiste competentie vereisten:
 
-- **Trainings vereisten voor naleving.** Aan de trainings vereisten voor naleving van het programma moet worden voldaan op bedrijfs niveau.
-- **Competentie vereisten.** Competentie vereisten zijn specifiek voor de afspraak die moet worden geleverd. Uw bedrijf kan bijvoorbeeld worden inge schreven in de DDPS-aanbieding (Desktop Deployment Planning Services). U komt echter alleen in aanmerking voor een specifieke afspraak binnen de DDPS-aanbieding als uw bedrijf ook een bevoegde competentie voor die specifieke betrokkenheid bevat.
+**Competentie vereisten.** Competentie vereisten zijn specifiek voor de afspraak die moet worden geleverd. Uw bedrijf kan bijvoorbeeld worden inge schreven in de DDPS-aanbieding (Desktop Deployment Planning Services). U komt echter alleen in aanmerking voor een specifieke afspraak binnen de DDPS-aanbieding als uw bedrijf ook een bevoegde competentie voor die specifieke betrokkenheid bevat.
 
 >[!NOTE]
 > Voor meer informatie over geschiktheids vereisten voor specifieke afspraken bekijkt u de [geschiktheids vereisten voor planning services-afspraken](software-assurance-dps-requirements.md).
@@ -53,8 +52,8 @@ Voordat partner bedrijven en consultants kunnen inschrijven in een van de aanbie
 Om te helpen bij het verifiëren van de geschiktheid van uw bedrijf voor het inschrijven van een specifieke planning services-afspraak:
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
-2. Selecteer **MPN** in het menu en selecteer vervolgens **Program ma's** .
-3. Selecteer **Software Assurance-inschrijving** .
+2. Selecteer **MPN** in het menu en selecteer vervolgens **Program ma's**.
+3. Selecteer **Software Assurance-inschrijving**.
 4. Selecteer het tabblad inschrijving van het **plannings Services-programma** boven aan de pagina. Er wordt een groen vinkje weer geven naast eventuele vereisten of competenties die u al hebt voltooid.
 
 ## <a name="enroll-new-partners"></a>Registreren (nieuwe partners)

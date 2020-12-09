@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527527"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926658"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider-programma regionale markten en valuta's waar u CSP-aanbiedingen kunt verkopen
 
@@ -43,23 +43,23 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 
 | Land/regio           | Valuta |
 | ------------------------ |:--------:|
-| Angola                   |          |
+| Angola                   |   USD    |
 | Benin                    |   USD    |
-| Botswana                 |          |
+| Botswana                 |   USD    |
 | Burkina Faso             |   USD    |
 | Burundi                  |   USD    |
 | Kameroen                 |   USD    |
-| Cabo Verde               |          |
+| Cabo Verde               |   USD    |
 | Centraal-Afrikaanse Republiek |   USD    |
 | Tsjaad                     |   USD    |
 | Comoren                  |   USD    |
 | Congo                    |   USD    |
 | Congo (DRC)              |   USD    |
-| Cote d'Ivoire            |          |
+| Cote d'Ivoire            |   USD    |
 | Djibouti                 |   USD    |
 | Equatoriaal-Guinea        |   USD    |
 | Eritrea                  |   USD    |
-| Ethiopië                 |          |
+| Ethiopië                 |   USD    |
 | Frans-Polynesië         |   USD    |
 | Gabon                    |   USD    |
 | Gambia                   |   USD    |
@@ -80,7 +80,7 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 | Réunion                  |   USD    |
 | Rwanda                   |   USD    |
 | Sao Tomé en principe    |   USD    |
-| Senegal                  |          |
+| Senegal                  |   USD    |
 | Seychellen               |   USD    |
 | Sierra Leone             |   USD    |
 | Somalië                  |   USD    |
@@ -88,8 +88,8 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 | Sint-Helena, Ascension en Tristan da Cunha|    USD   |
 | Tanzania                 |   USD    |
 | Togo                     |   USD    |
-| Oeganda                   |          |
-| Zambia                   |          |
+| Oeganda                   |   USD    |
+| Zambia                   |   USD    |
 |
 
 ## <a name="asia-and-pacific-region-and-market"></a>Regio en markt voor Azië en Stille Oceaan
@@ -99,17 +99,17 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 | Land/regio     | Valuta |
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
-|  Bhutan            |          |
+|  Bhutan            |   USD    |
 |  Brunei Darussalam |   USD    |
-|  Cambodja          |          |
+|  Cambodja          |   USD    |
 |  Hongkong         |   USD    |
 |  Indonesië         |   USD    |
-|  Laos              |          |
+|  Laos              |   USD    |
 |  Macao             |   USD    |
 |  Maleisië          |   USD    |
-|  Maldiven          |          |
-|  Myanmar           |          |
-|  Nepal             |          |
+|  Maldiven          |   USD    |
+|  Myanmar           |   USD    |
+|  Nepal             |   USD    |
 |  Filipijnen       |   USD    |
 |  Singapore         |   USD    |
 |  Sri Lanka         |   USD    |
@@ -179,9 +179,9 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Oostenrijk        |   EUR    |
 |  België        |   EUR    |
 |  Bouveteiland  |   EUR    |
-|  Bulgarije       |          |
+|  Bulgarije       |   EUR    |
 |  Kroatië        |   EUR    |
-|  Cyprus         |          |
+|  Cyprus         |   EUR    |
 |  Tsjechische Republiek |   EUR    |
 |  Denemarken        |   DKK    |
 |  Estland        |   EUR    |
@@ -191,7 +191,7 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Duitsland        |   EUR    |
 |  Gibraltar      |   GBP    |
 |  Griekenland         |   EUR    |
-|  Groenland      |          |
+|  Groenland      |   EUR    |
 |  Guernsey       |   GBP    |
 |  Hongarije        |   EUR    |
 |  IJsland        |   EUR    |
@@ -203,8 +203,8 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Liechtenstein  |   EUR    |
 |  Litouwen      |   EUR    |
 |  Luxemburg     |   EUR    |
-|  Malta          |          |
-|  Monaco         |          |
+|  Malta          |   EUR    |
+|  Monaco         |   EUR    |
 |  Nederland    |   EUR    |
 |  Noorwegen         |   NOK    |
 |  Polen         |   EUR    |
@@ -278,13 +278,13 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Falklandeilanden|  USD    |
 |  Frans-Guyana  |   USD    |
 |  Grenada        |   USD    |
-|  Guadeloupe     |          |
+|  Guadeloupe     |   USD    |
 |  Guatemala      |   USD    |
 |  Guyana         |   USD    |
 |  Haïti          |   USD    |
 |  Honduras       |   USD    |
 |  Jamaica        |   USD    |
-|  Martinique     |          |
+|  Martinique     |   USD    |
 |  Mexico         |   USD    |
 |  Montserrat     |   USD    |
 |  Nicaragua      |   USD    |
@@ -315,9 +315,9 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 
 |  Land/regio | Valuta |
 |  -------------- |:--------:|
-|  Afghanistan    |          |
+|  Afghanistan    |   USD    |
 |  Albanië        |   USD    |
-|  Algerije        |          |
+|  Algerije        |   USD    |
 |  Armenië        |   USD    |
 |  Azerbeidzjan     |   USD    |
 |  Bahrein        |   USD    |
@@ -328,21 +328,21 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Georgië        |   USD    |
 |  Irak           |   USD    |
 |  Israël         |   USD    |
-|  Jordanië         |          |
+|  Jordanië         |   USD    |
 |  Kazachstan     |   USD    |
 |  Kosovo         |   USD    |
 |  Koeweit         |   USD    |
 |  Kirgistan     |   USD    |
 |  Libanon        |   USD    |
 |  Lesotho        |   USD    |
-|  Libië          |          |
+|  Libië          |   USD    |
 |  Macedonië, Republiek|   |
 |  Mauritanië     |   USD    |
-|  Moldavië        |          |
-|  Mongolië       |          |
-|  Montenegro     |          |
+|  Moldavië        |   USD    |
+|  Mongolië       |   USD    |
+|  Montenegro     |   USD    |
 |  Marokko        |   USD    |
-|  Mozambique     |          |
+|  Mozambique     |   USD    |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
 |  Palestijnse gebied, bezet |        |
@@ -351,15 +351,15 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Servië         |   USD    |
 |  Zuid-Afrika   |   USD    |
 |  Swaziland      |   USD    |
-|  Tadzjikistan     |          |
+|  Tadzjikistan     |   USD    |
 |  Tunesië        |   USD    |
 |  Turkije         |   USD    |
-|  Turkmenistan   |          |
+|  Turkmenistan   |   USD    |
 |  Oekraïne        |   USD    |
 |  Verenigde Arabische Emiraten| USD |
-|  Oezbekistan     |          |
+|  Oezbekistan     |   USD    |
 |  Jemen          |   USD    |
-|  Zimbabwe       |          |
+|  Zimbabwe       |   USD    |
 |
 
 ## <a name="new-zealand-region-and-market"></a>Regio en markt voor Nieuw-Zeeland

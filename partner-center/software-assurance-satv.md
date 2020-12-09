@@ -1,7 +1,7 @@
 ---
 title: Voucher programma voor Software Assurance-training
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Lees hoe u zich kunt inschrijven in het programma voor Software Assurance-trainings Programma's, zodat u gecompenseerd krijgt voor het leveren van training en het plannen van zakelijke klanten.
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92528148"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926611"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Het SATV-programma (Software Assurance Training Voucher) in Partnercentrum
 
@@ -45,11 +45,11 @@ U kunt de geschiktheid van uw bedrijf verifiëren met inbegrip van toepasselijke
 
 ## <a name="enroll-in-the-training-program"></a>Inschrijven in het trainings programma
 
-Als uw bedrijf voldoet aan de vereisten en de programmadeelnemers de compliancetraining hebben voltooid, kan de overeenkomst voor het Software Assurance Training Voucher-programma worden ondertekend en kunt u zich inschrijven. Zorg ervoor dat u alle [SATV-programma beleidsregels](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)bekijkt en volg de instructies in [stap 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) van de werk stroom om het registratie proces voor SATV in het partner centrum te volt ooien.
+Nadat uw bedrijf aan de vereisten voldoet, kunt u de programma overeenkomst voor Software Assurance-trainings Programma's ondertekenen en inschrijven. Zorg ervoor dat u alle [SATV-programma beleidsregels](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)bekijkt en volg de instructies in [stap 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) van de werk stroom om het registratie proces voor SATV in het partner centrum te volt ooien.
 
 
 ## <a name="confirm-course-eligibility"></a>Geschiktheid voor cursus bevestigen
-Nadat de partners in het SATV-programma zijn Inge schreven, kunnen ze trainings sessies bieden voor door SATV in aanmerking komende cursussen waarvoor klanten hun trainings bonnen kunnen gebruiken. In aanmerking komende cursussen worden weer gegeven in de [Kwalificatie catalogus](https://savl-catalog.microsoft.com/)van de SATV-cursus. Bekijk [stap 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) van de werk stroom om te begrijpen welke typen cursussen in aanmerking komen voor SATV.
+Nadat de partners in het SATV-programma zijn Inge schreven, kunnen ze trainings sessies bieden voor door SATV in aanmerking komende cursussen waarvoor klanten hun trainings bonnen kunnen gebruiken. In aanmerking komende cursussen worden weer gegeven in de kwalificatie catalogus van de SATV-cursus. Bekijk [stap 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) van de werk stroom om te begrijpen welke typen cursussen in aanmerking komen voor SATV of om een koppeling naar de kwalificatie catalogus van de cursus te verkrijgen.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Klanten een boek stuk maken en toewijzen
 
