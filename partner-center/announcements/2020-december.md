@@ -1,5 +1,5 @@
 ---
-title: Aankondigingen van december 2020
+title: December 2020-aankondigingen
 description: Mede delingen van december 2020 voor het micro soft-partner centrum, inclusief nieuwe mogelijkheden, aanbiedingen, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,19 +9,115 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 38a9b83c5c13ed0a0c0f27db409335f9b86b8173
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 1341e60fd9914f421fd59335a8f037f3d915b72f
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570770"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869296"
 ---
-# <a name="december-2020-announcements"></a>Aankondigingen van december 2020
+# <a name="december-2020-announcements"></a>December 2020-aankondigingen
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft partner centrum voor november 2020.
 
 2020 aankondigingen: [april](2020-april.md)  |  [kan](2020-may.md)juni tot en met  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md) | December
 
+______________
+
+## <a name="sdk-release-on-net-standard-v1163"></a><a name="4"></a>SDK-release op .NET Standard (v 1.16.3)
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-8
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+Directe factuur partners en indirecte providers die deel nemen aan het CSP-programma dat gebruikmaakt van de .NET SDK van het partner centrum.
+
+### <a name="details"></a>Details
+
+Vanaf december 08 2020 kunnen partners beginnen met het downloaden van de versie van [MicrosoftPartnerCenter. NETSDK (NuGet Gallery | Micro soft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), samen met bijgewerkte voor beelden van het Public Partner Center SDK [github](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Deze versie bevat updates voor het volgende:
+ 
+**SelfServePolicies-nieuwe functionaliteit toegevoegd**
+
+- [GetSelfServePolicies](/partner-center/develop/get-a-self-serve-policy-by-id.md)
+- [GetListOfSelfServicePolicies](/partner-center/develop/get-a-list-of-self-serve-policies.md)
+- [CreateSelfServePolicies](/partner-center/develop/create-a-self-serve-policy.md)
+- [UpdateSelfServePolicies](/partner-center/develop/update-a-self-serve-policy.md)
+- [DeleteSelfServePolicies](/partner-center/develop/delete-a-self-serve-policy.md)
+ 
+**Bedrijfs profiel van klanten**
+
+- [OrganizationRegistrationNumber](/partner-center/develop/create-a-customer.md) toegevoegd
+ 
+**CustomerBillingProfile.DefaultAddress**
+
+- Middelste naam toegevoegd
+ 
+### <a name="next-steps"></a>Volgende stappen
+
+- Down load de meest recente versie [MicrosoftPartnerCenter. NETSDK (NuGet Gallery | Micro soft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)
+- De GitHub-voor [beelden](https://github.com/Microsoft/Partner-Center-DotNet-Samples) downloaden en bekijken
+
+______________
+
+## <a name="december-2020-license-based-price-list-release-notes"></a><a name="3"></a>Release opmerkingen bij de prijs lijst van december 2020
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-8
+- Aanbiedingen/markten
+
+### <a name="summary"></a>Samenvatting 
+
+De prijs lijst en de lijst matrix voor de aanbieding van december 2020 bevat enkele problemen.
+
+### <a name="impacted-audience"></a>Doel groep 
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+
+### <a name="details"></a>Details
+
+De prijs lijsten op basis van licenties en aanbiedingen lijst matrix bestanden bevatten enkele afwijkingen. Deze problemen zijn alleen gerelateerd aan de op licenties gebaseerde prijs bestanden en moeten worden gecorrigeerd in de updates van januari 2021.
+
+#### <a name="incorrect-offers-in-the-license-based-price-list"></a>Onjuiste aanbiedingen in de prijs lijst op basis van licentie
+
+De prijs lijsten op basis van een licentie bevatten de onderstaande aanbiedingen die niet mogen voor komen in de prijs lijsten. Deze aanbiedingen zijn voorheen opgenomen in de prijs lijsten en zijn niet gepubliceerd. Het is niet mogelijk om te plannen wanneer deze beschikbaar zijn. Als ze in de toekomst worden toegevoegd, worden ze weer gegeven als toegevoegd in de toekomst preview-prijs lijsten.
+
+   |**Naam van aanbieding**|**Aanbiedings-id**|
+   |-------------------|:------|
+   |Dynamics 365 Human Resources (prijzen voor non-profit organisaties)|1596fa61-7da1-4263-98f8-b27dfa4cfbb5|
+   |Dynamics 365 human resources zijn gekoppeld aan het kwalificeren van de Dynamics 365 base-aanbieding (prijzen voor non-profit organisaties)|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
+   |Dynamics 365 human resources zijn gekoppeld aan het kwalificeren van de Dynamics 365 base-aanbieding (prijzen voor non-profit organisaties) (gekwalificeerde aanbieding)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
+   |Dynamics 365 Human Resources sandbox (prijzen voor non-profit organisaties)|079ec5ba-d726-4384-95af-62d135c210d2|
+   |Dynamics 365 Human Resources self-service (prijzen voor non-profit organisaties)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
+   |Dynamics 365 bewerkingen: order regels (prijzen voor non-profit organisaties)|7dd6b78a-3d53-47f8-8a64-bd84609a9a70|
+   
+#### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Onjuiste aanbiedingen in de matrix voor de aanbiedings lijst
+   
+De onderstaande aanbiedingen bevinden zich in de matrix voor de aanbiedings lijst. Ze zijn niet beschikbaar, er is nog geen streef datum voor Beschik baarheid. Partners moeten deze negeren.
+
+   |**Naam van aanbieding**|**Aanbiedings-id**|
+   |-------------------|:------|
+   |Dynamics 365-bewerkingen-database capaciteit (prijzen voor non-profit organisaties)|1d3f4d81-89b9-419e-a880-31b2c50b8d66|
+   |Dynamics 365 bewerkingen-bestands capaciteit (prijzen voor non-profit organisaties)|dc173a86-285b-444c-881e-3ece531f67da|
+
+#### <a name="powerapps-offer"></a>Powerapps-aanbieding
+
+Deze aanbieding is opgenomen in de matrix voor de aanbiedings lijst, maar niet de prijs lijst van december. De aanbieding is beschikbaar en de prijzen zijn te vinden in het bestand met prijzen lijst november van de vorige maand. Deze aanbieding moet worden toegevoegd aan de prijs lijst van januari.
+
+   |**Naam van aanbieding**|**Aanbiedings-id**|
+   |-------------------|:------|
+   |Power apps per app-abonnement|5e1087b6-246b-4503-b88a-b60bdf0b3840|
+
+### <a name="next-steps"></a>Volgende stappen
+
+Controleer de release opmerkingen vaak wanneer er andere problemen worden gedetecteerd, worden deze toegevoegd aan deze aankondiging.
+
+### <a name="last-updated"></a>Laatst bijgewerkt
+
+8 december 2020
 
 ______________
 
@@ -72,7 +168,7 @@ ______________
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-12-3
-- Functionaliteit
+- Functies
 
 ### <a name="impacted-audience"></a>Doel groep 
 

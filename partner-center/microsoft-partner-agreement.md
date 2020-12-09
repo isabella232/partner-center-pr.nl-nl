@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e706c85a31967c163c2b147b0f40bfc4c99f67e2
-ms.sourcegitcommit: 5cbea13b9f5b34e8588382caab9a08537b4ca36f
+ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/17/2020
-ms.locfileid: "92528731"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869330"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners
 
@@ -30,6 +30,8 @@ Als u wilt blijven deel nemen aan het CSP-programma, moet u de micro soft-partne
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Controleren of uw MPN-ID actief is en is gemigreerd naar het partner centrum
 
+1. Als u uw MPN-account niet hebt gemigreerd van het Partner Membership Center (PMC) naar het partner centrum, moet u [uw MPN-account migreren naar het partner centrum](move-pmc-pc-map.md). U voltooit de rest van de stappen nadat de migratie is voltooid. 
+
 1. Meld u aan bij partner centrum met de referenties van uw MPN-account.
  
 1. Selecteer **Settings** bij instellingen [partner profiel](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
@@ -38,14 +40,16 @@ Als u wilt blijven deel nemen aan het CSP-programma, moet u de micro soft-partne
  
 1. Als de status van het MPN **-programma afgewezen/afgekeurd** of **in behandeling** is, is uw account verificatie mislukt. Lees [verificatie proces](verification-responses.md) voor meer informatie over het oplossen van het verificatie probleem.
 
-1. Als u de status van een MPN-account niet ziet of als u uw MPN-account niet hebt gemigreerd van het Partner Membership Center (PMC) naar het partner centrum, moet u [uw MPN-account migreren naar het partner centrum](move-pmc-pc-map.md).
+
 
 >[!NOTE]
 >De referenties van uw MPN-ID-account mogen niet hetzelfde zijn als de referenties van uw CSP-account.
 
-## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Bevestig dat u bent Inge schreven als indirecte dealer van CSP
+## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Bevestig dat u bent ingeschreven als een CSP Indirect Reseller
 
-1. Meld u aan bij partner centrum met de referenties van uw CSP-account.
+1. Als u zich nog niet hebt geregistreerd als een [indirecte CSP-dealer](enrolling-in-the-csp-program.md)  in het partner centrum, moet u dat eerst doen. Voer de overige stappen uit nadat u zich hebt Inge schreven als CSP indirecte wederverkoper in Partner Center.
+
+1. Meld u aan bij partner centrum met de referenties van uw globale CSP-beheerders account.
 
 1. Selecteer **Settings** bij instellingen [partner profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
@@ -57,7 +61,7 @@ Als u wilt blijven deel nemen aan het CSP-programma, moet u de micro soft-partne
  
 1. Als de status van de indirecte wederverkoper wordt **afgewezen** of **geweigerd** , is uw account verificatie mislukt. Lees [verificatie proces](verification-responses.md) voor meer informatie over het oplossen van het verificatie probleem.
 
-1. Als u zich eerder hebt voorgedaan met partner Center als een indirecte wederverkoper, accepteert u de micro soft-partner overeenkomst in het dash board van het partner centrum met de referenties van de globale beheerder. U kunt controleren of de micro soft-partner overeenkomst al is ondertekend door het [partner profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **programma gegevens** of de banner melding op de overzichts pagina van de CSP.
+1. Als u zich eerder hebt verplaatst naar partner Center als een indirecte wederverkoper, accepteert u de micro soft-partner overeenkomst in het dash board van het partner centrum met de referenties van de globale beheerder. U kunt controleren of de micro soft-partner overeenkomst al is ondertekend door het [partner profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **programma gegevens** of de banner melding op de overzichts pagina van de CSP.
 
 Vergeet niet om de CSP-relatie aanvraag met uw indirecte provider te accepteren.
 
@@ -65,23 +69,23 @@ Vergeet niet om de CSP-relatie aanvraag met uw indirecte provider te accepteren.
 
 Als u wilt weten of u de MPA hebt ondertekend:
 
-1. Meld u als globale beheerder voor uw bedrijf aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van partner Center.
+ Ga als globale beheerder voor uw bedrijf naar uw CSP- [overzicht](https://partner.microsoft.com/pcv/dashboard/overview) en controleer de groene banner waarmee u wordt gewaarschuwd dat u de MPA hebt geaccepteerd.
 
-2. Ga naar uw **CSP-overzicht** en controleer de groene banner waarmee u wordt gewaarschuwd dat u de MPA hebt geaccepteerd.
  
 :::image type="content" source="images/mpagreen.png" alt-text="Groene banner met MPA-acceptatie":::
 
 >[!NOTE]
 >Alleen de globale beheerder in uw bedrijf kan de MPA bekijken en ondertekenen. Als u niet de globale beheerder bent, moet u uw globale beheerder vragen om de MPA te controleren.
 
-## <a name="microsoft-customer-agreement"></a>Microsoft-klantovereenkomst
 
-Acceptatie van de klant van de micro soft-klant overeenkomst (MCuA) is vereist in CSP voor de aankoop van Azure-Services via een Azure-abonnement en voor alle andere aanbiedingen in CSP die na 31 januari 2020 zijn gekocht. Lees voor meer informatie [klant acceptatie bevestigen van de micro soft-klant overeenkomst](confirm-customer-agreement.md).
+## <a name="downloadable-step-by-step-guides"></a>Download bare stapsgewijze hand leidingen
 
+1. [Migreren van PMC naar Partnercentrum, en akkoord gaan met de Microsoft Partner-overeenkomst](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+
+2. [Onboarding voor MPN-leden en de Microsoft Partner-overeenkomst](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+
+3. [Acceptatiestatus van de Microsoft Partner-overeenkomst controleren](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+ 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Migreren van PMC naar partner centrum en akkoord gaan met de micro soft-partner overeenkomst](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
-
-- [Onboarding voor MPN-leden en de micro soft-partner overeenkomst](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
-
-- [Acceptatie status van micro soft-partner overeenkomst controleren](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+- [Registreren bij het Cloud Solution Provider-programma](enrolling-in-the-csp-program.md)
