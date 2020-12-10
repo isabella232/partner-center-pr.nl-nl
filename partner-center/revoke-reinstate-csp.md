@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c694f48fb62fc031bfaf78be6a1c4e43629a7adb
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 13fdeb01ecd73dc1a63d174a4ad5cb8e1bdc813a
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92528161"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011499"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Beheerders bevoegdheden voor de Azure CSP-abonnementen van een klant opnieuw invoeren  
 
@@ -29,7 +29,7 @@ Als CSP-partner verwachten uw klanten vaak dat u hun Azure-gebruik en hun system
 
 Er zijn twee niveaus van beheerders bevoegdheden voor Azure in CSP.
 
-**Beheerders bevoegdheden op Tenant niveau** ( **gedelegeerde beheerders bevoegdheden** ): CSP-partners krijgen deze bevoegdheden bij het tot stand brengen van de leverancier van de CSP-dealer met klanten. Dit geeft CSP-partners toegang tot de tenants van hun klanten, waardoor ze beheer functies kunnen uitvoeren zoals gebruikers toevoegen/beheren, wacht woorden opnieuw instellen en gebruikers licenties beheren.
+**Beheerders bevoegdheden op Tenant niveau** (**gedelegeerde beheerders bevoegdheden**): CSP-partners krijgen deze bevoegdheden bij het tot stand brengen van de leverancier van de CSP-dealer met klanten. Dit geeft CSP-partners toegang tot de tenants van hun klanten, waardoor ze beheer functies kunnen uitvoeren zoals gebruikers toevoegen/beheren, wacht woorden opnieuw instellen en gebruikers licenties beheren.
 
 **Beheerders bevoegdheden op abonnements niveau** : CSP-partners krijgen deze bevoegdheden tijdens het maken van Azure CSP-abonnementen voor hun klanten. Met deze bevoegdheden hebben CSP-partners volledige toegang tot deze abonnementen, waardoor ze Azure-bronnen kunnen inrichten en beheren.
 
@@ -47,7 +47,7 @@ Als u gedelegeerde beheerders bevoegdheden wilt herstellen, moet u samen werken 
 
 ## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>De groep Administrator-agents toevoegen als eigenaar van het Azure CSP-abonnement
 
-Uw klant moet uw groep Administrators agent toevoegen als eigenaar van het abonnement van de Azure CSP.
+Uw klant moet uw groep Administrators agent toevoegen als eigenaar van een Azure CSP-abonnement, een resource groep of een resource. 
 
 1. Gebruik de Power shell-console of Power shell Integrated Scripting Environment (ISE). Zorg ervoor dat AzureAD-modules zijn geïnstalleerd.
 
@@ -67,13 +67,20 @@ Uw klant moet uw groep Administrators agent toevoegen als eigenaar van het abonn
 4. De gebruiker met de eigenaar heeft toegang tot het abonnement van Azure CSP, meldt zich aan bij Azure met haar referenties.
 
    ```powershell
-   Connect-AzAccount
+   Connect-AzureRmAccount
    ```
 
-5. Ze kan de groep van uw beheerders agent toevoegen als eigenaar van het CSP Azure-abonnement.
+5. Ze kan de groep van uw beheerders agent als eigenaar toevoegen aan het CSP Azure-abonnement, de resource groep of de resource door een juiste resource-URI in de bereik parameter toe te passen. 
 
     ```powershell
-    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    # Grant owner role at subscription level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+
+    # Grant owner role at resource group level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>/resourceGroups/<Resource group name>"
+
+    # Grant owner role at resource level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "<Resource Uri>"
     ```
 
 ## <a name="next-steps"></a>Volgende stappen

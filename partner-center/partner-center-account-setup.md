@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556443"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011520"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Uw partner centrum-account, het bedrijfs profiel, de Bank gegevens, rollen, machtigingen en meer beheren
 
 **Relevante rollen** – globale beheerder, MPN-beheerder
 
-Het account dat u maakt in het partner centrum wanneer u zich registreert, is uw werk-e-mail plus uw bedrijfs gegevens. Nadat u een account hebt gemaakt, voltooit u het instellen van het volledige profiel van uw bedrijf, inclusief ondersteunings Details, belasting vrijstellingen voor bestanden, indien van toepassing, en primaire contact gegevens. Het account van uw bedrijf bevat ook gebruikers accounts voor iedereen die het partner centrum gaat gebruiken voor het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van zakelijke profielen, het beheren van verwijzingen, het werken met prikkel Programma's en het bieden van ondersteuning.
+Het account dat u op partner centrum maakt wanneer u zich inschrijft, is uw werk-e-mail plus uw bedrijfs gegevens. Nadat u een account hebt gemaakt, voltooit u het instellen van het volledige profiel van uw bedrijf, inclusief ondersteunings Details, belasting vrijstellingen voor bestanden, indien van toepassing, en primaire contact gegevens. Het account van uw bedrijf bevat ook gebruikers accounts voor iedereen die het partner centrum gaat gebruiken voor het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van zakelijke profielen, het beheren van verwijzingen, het werken met prikkel Programma's en het bieden van ondersteuning.
 
 Zie ook artikelen [uitnodigden om lid te worden van partner centrum](guide-to-migration.md) en [een nieuwe gebruiker toe te voegen](create-user-accounts-and-set-permissions.md).
 
@@ -41,9 +41,19 @@ Hiermee wordt de pagina account instellingen weer gegeven.
 
 Of u nu een partner of een ontwikkelaar bent, u kunt uw MPN-ID gebruiken voor het registreren van ondersteunings tickets. Uw MPN-ID bevindt zich op de pagina met **juridische informatie** over thee. U kunt deze ook vinden in het **identiteits profiel**.
 
+## <a name="account-settings---partners-resellers"></a>Account instellingen: partners, wederverkopers
+
+Wanneer u het pictogram **instellingen** selecteert en het menu **account instellingen** opent, wordt de standaard weergave, als uw bedrijf deel uitmaakt van het Cloud Solution Provider-programma, **juridische informatie** met twee tabbladen, **partner** en **wederverkoper**. Elk tabblad bevat aspecten van uw bedrijf.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu bevat tabbladen voor partners en wederverkopers":::
+
+Het tabblad partner bevat alle juridische Bedrijfs gegevens, zoals de geregistreerde juridische naam en het adres voor uw bedrijf, evenals de primaire contact persoon en de bedrijfs locaties. Het tabblad Reseller voor partners die CSP-bedrijven uitvoeren, omvat het **profiel voor klant ondersteuning**.
+
+Als uw bedrijf geen deel uitmaakt van CSP, wordt in de standaard weergave alleen het tabblad **partner** weer gegeven waarin het **profiel voor klant ondersteuning** wordt opgenomen.
+
 ## <a name="organization-profile"></a>Organisatie profiel
 
-Gebruik deze pagina's om dergelijke gebieden te beheren als juridisch zakelijk profiel, partner profiel en bedrijfs locaties. Selecteer tabbladen als **juridische** of **tenants** (hieronder beschreven in meer details) om dat gebied te bewerken. Selecteer het tabblad voor het programma waarin u geïnteresseerd bent (MPN, CSP of Commercial Marketplace) om uw informatie en hebben status te bekijken.
+Gebruik deze pagina's voor het beheren van de uitgebreide gebieden van uw bedrijf, met inbegrip van het profiel van de juridische onderneming, het Partner profiel en de tenants. Elk gebied afzonderlijk beheren. Deze worden hieronder beschreven. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Het menu juridisch info.":::
 
@@ -81,7 +91,7 @@ Wat u gebruikt in het partner centrum en de gebieden die u kunt bijwerken of bek
 
 Uw favoriete e-mail adres bijwerken om de meldingen van het partner centrum te ontvangen:
 
-1. Meld u aan bij uw [Partner Center-dash board](https://partner.microsoft.com/dashboard).
+1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard).
 1. Ga naar de [**engagement voorkeur**](https://partner.microsoft.com/dashboard/engagement/preference), selecteer de **wijzigings** koppeling, werk het e-mail adres bij en selecteer **Opslaan**.
 
 ### <a name="find-your-user-role"></a>Uw gebruikersrol zoeken
