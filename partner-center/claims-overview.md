@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133079"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354505"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Coöperatieve marketing fondsen verdienen
-
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -52,7 +48,7 @@ De tijd lijn voor mede-op-fondsen is onderverdeeld in peri Oden van 2 6 maanden,
 - H1 is de eerste helft van het boek jaar, 1 juli tot en met 31 december.
 - H2 is de tweede helft van het boek jaar, 1 januari tot en met 30 juni.
 
-De periode van zes maanden waarin u uw inkomsten wilt oplopen, wordt uw **verdienen periode** . U moet deze winst op een bepaald moment gebruiken tijdens de volgende **periode** van zes maanden. Als u uw winst niet aan het einde van de gebruiks periode gebruikt, wordt deze verbeurd. De **claim periode** is de periode van zes maanden waarin u de vergoeding voor uw prestatie programma-activiteiten kunt claimen.
+De periode van zes maanden waarin u uw inkomsten wilt oplopen, wordt uw **verdienen periode**. U moet deze winst op een bepaald moment gebruiken tijdens de volgende **periode** van zes maanden. Als u uw winst niet aan het einde van de gebruiks periode gebruikt, wordt deze verbeurd. De **claim periode** is de periode van zes maanden waarin u de vergoeding voor uw prestatie programma-activiteiten kunt claimen.
 
 In de onderstaande tabel ziet u de verschillende verdienen-, gebruiks-en claim perioden. Tenzij anders vermeld, zijn de peri Oden van de eerste dag van de eerste maand tot de laatste dag van de vorige maand.
 

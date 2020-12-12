@@ -8,20 +8,18 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570481"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354454"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Competenties-Veelgestelde vragen
 
-Van toepassing op:
+**Juiste rollen**
 
-- Partnercentrum
-- Partnercentrum voor Microsoft Cloud for US Government
-- Partners in het Microsoft Partner Network-programma (MPN)
+- MPN-partner beheerder
 
 In dit artikel vindt u antwoorden op algemene vragen over examens, certificeringen en software-voor delen die betrekking hebben op het bereiken van een Microsoft Partner Network competentie.
 

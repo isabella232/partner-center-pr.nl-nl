@@ -1,5 +1,5 @@
 ---
-title: Geschiktheid van oplossings beoordeling
+title: Geschiktheid voor oplossingsbeoordeling
 ms.topic: how-to
 ms.date: 11/09/2020
 description: Meer informatie over het controleren van de vereisten voor deelname aan het programma voor het evalueren van oplossingen.
@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447280"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354470"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Geschiktheids vereisten voor het programma voor de bepaling van de oplossings beoordeling
+
+**Juiste rollen**
+
+- Primaire contact persoon of programma beheerder
 
 Partners met de status actief en geregistreerd in het programma voor de beoordeling van de oplossings bepaling in FY20 komen in aanmerking voor stimulansen in FY21 als ze een actief MPN-lidmaatschap en een actieve Silver of Gold MPN-competentie hebben. Partner kwalificaties worden jaarlijks beoordeeld op geschiktheid. Als gevestigde partners in het huidige jaar niet in aanmerking komen voor geschiktheids-en deelname vereisten, worden ze tijdens de volgende jaarlijkse beoordeling verwijderd. Alle nieuwe partners zijn in hun gebied opvolgd met de lokale oplossing evaluatie specialist (SAS). De SA'S identificeren de partners op basis van het overeenkomende aantal vaardig heden en expertise in het partner bedrijf en de zakelijke behoeften van de dochter ondernemingen die door de SAS worden ondersteund.
 

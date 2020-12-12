@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528800"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354607"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bijgewerkte methode om acceptatie van klant te bevestigen van de micro soft-klant overeenkomst
 
-**Van toepassing op**
-
--  Partnercentrum
 
 **Juiste rollen**
 
@@ -30,8 +27,8 @@ ms.locfileid: "92528800"
 > [!NOTE]
 > De bron van de overeenkomst wordt momenteel alleen ondersteund door het partner centrum in de open bare cloud van micro soft. Het is niet van toepassing op:
 > * Partner centrum beheerd door 21Vianet
-> * Partner centrum voor Microsoft Cloud Duitsland
-> * Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+> * Partnercentrum voor Microsoft Cloud Duitsland
+> * Partnercentrum voor Microsoft Cloud for US Government
 
 >[!NOTE]
 >Vanaf 31 januari 2020 moeten alle klanten, bestaande en nieuwe, de nieuwe micro soft-klant overeenkomst ondertekenen. Lees voor meer informatie [klant acceptatie bevestigen van de micro soft-klant overeenkomst](confirm-customer-agreement.md).
@@ -48,7 +45,7 @@ Als partner moet u de acceptatie van de klant van micro soft verkrijgen voordat 
 
 - Datum van acceptatie
 
-Directe factuur partners en indirecte providers moeten acceptatie van klant bevestigen van de klant overeenkomst van micro soft bij het handelen via partner Center of partner Center-API. Bevestiging is *verplicht* .
+Directe factuur partners en indirecte providers moeten acceptatie van klant bevestigen van de klant overeenkomst van micro soft bij het handelen via partner Center of partner Center-API. Bevestiging is *verplicht*.
 
 Als er geen bevestiging is opgegeven voor een bepaalde klant:
 
@@ -70,21 +67,21 @@ Dit geldt voor productie-en sandbox-omgevingen.
 
 Gebruik de volgende procedure om de acceptatie van klanten te bevestigen terwijl u een nieuwe klant Tenant maakt in het partner centrum. U moet een beheer agent of verkoop agent zijn om dit te kunnen doen.
 
-1. Selecteer **klanten** en vervolgens **nieuwe klant** en selecteer vervolgens **account gegevens** .
+1. Selecteer **klanten** en vervolgens **nieuwe klant** en selecteer vervolgens **account gegevens**.
 
-2. Voer de gegevens in van het **bedrijf** en de **primaire contact persoon** .
+2. Voer de gegevens in van het **bedrijf** en de **primaire contact persoon**.
 
    :::image type="content" source="images/mca/mca1.png" alt-text="Bedrijfs gegevens":::
 
-3. Onder **micro soft-klant overeenkomst** selecteert u dat de **klant de nieuwste micro soft-klant overeenkomst heeft geaccepteerd** .
+3. Onder **micro soft-klant overeenkomst** selecteert u dat de **klant de nieuwste micro soft-klant overeenkomst heeft geaccepteerd**.
 
 4. Voer bij **acceptatie datum** van de overeenkomst de juiste datum in. U kunt dit niet instellen op een datum in de toekomst.
 
 5. Voer de details in van de gebruiker die de acceptatie heeft opgegeven.
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="Bedrijfs gegevens":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="Acceptatie datum toevoegen":::
 
-   Standaard worden de gegevens van de primaire contact persoon weer gegeven. Als dat niet het geval is, selecteert u **bijwerken** en voert u vervolgens de **voor naam** , **Achternaam** , **e-mail adres** en het * *telefoon nummer* (optioneel) in van de persoon die de overeenkomst heeft geaccepteerd.
+   Standaard worden de gegevens van de primaire contact persoon weer gegeven. Als dat niet het geval is, selecteert u **bijwerken** en voert u vervolgens de **voor naam**, **Achternaam**, **e-mail adres** en het **telefoon nummer* (optioneel) in van de persoon die de overeenkomst heeft geaccepteerd.
 
 6. Selecteer **volgende** om door te gaan met de resterende stappen voor het maken van de Tenant van de klant.
 
@@ -94,27 +91,27 @@ U moet een beheer agent of verkoop agent zijn om dit te kunnen doen.
 
 1. Selecteer **klanten** en zoek en selecteer de klant die u wilt zien.
 
-2. Selecteer **account gegevens** .
+2. Selecteer **account gegevens**.
 
-3. Selecteer in de **micro soft-klant overeenkomst** **Update** .
+3. Selecteer in de **micro soft-klant overeenkomst** **Update**.
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="Bedrijfs gegevens":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="Bijwerken":::
 
-4. Voer de **voor naam** , **Achternaam** , het **e-mail adres** en het **telefoon nummer** (optioneel) in van de gebruiker die de overeenkomst heeft geaccepteerd.
+4. Voer de **voor naam**, **Achternaam**, het **e-mail adres** en het **telefoon nummer** (optioneel) in van de gebruiker die de overeenkomst heeft geaccepteerd.
 
 5. Voer bij **acceptatie datum** van de overeenkomst de juiste datum in. U kunt dit niet instellen op een datum in de toekomst.
 
-6. Selecteer **Opslaan en doorgaan** .
+6. Selecteer **Opslaan en doorgaan**.
 
 ## <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Acceptatie van klant bevestigen bij het maken van een nieuwe order voor een bestaande klant
 
 Als u probeert een nieuwe bestelling te maken voor een bestaande klant die u nog niet eerder hebt bevestigd, ontvangt u een prompt om de bevestiging te volt ooien. Gebruik de volgende procedure om dit te doen.
 
-1. Voer de **voor naam** , **Achternaam** , het **e-mail adres** en het **telefoon nummer** (optioneel) in van de gebruiker die de overeenkomst heeft geaccepteerd.
+1. Voer de **voor naam**, **Achternaam**, het **e-mail adres** en het **telefoon nummer** (optioneel) in van de gebruiker die de overeenkomst heeft geaccepteerd.
 
 2. Voer bij **acceptatie datum** van de overeenkomst de juiste datum in. U kunt dit niet instellen op een datum in de toekomst.
 
-3. Selecteer **Opslaan en doorgaan** .
+3. Selecteer **Opslaan en doorgaan**.
 
 ## <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Bevestiging van acceptatie van klant voor een bestaande klant ophalen
 
@@ -122,7 +119,7 @@ U kunt de bevestiging van acceptatie van klanten ophalen voor een bestaande klan
 
 1. Selecteer **klanten** en zoek en selecteer de klant die u wilt zien.
 
-2. Selecteer **account gegevens** .
+2. Selecteer **account gegevens**.
 
 3. Onder **micro soft-klant overeenkomst** ziet u of er al dan niet een bevestiging voor deze klant is ontvangen.
 

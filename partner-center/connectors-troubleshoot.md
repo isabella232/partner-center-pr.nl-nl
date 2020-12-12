@@ -8,18 +8,17 @@ description: Meer informatie over antwoorden op veelgestelde vragen over het geb
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92528683"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354539"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Problemen oplossen met referrals connectors
 
 **Van toepassing op:**
 
-- Partnercentrum
 - Dynamics 365 CRM
 - Sales Force CRM
 
@@ -80,7 +79,7 @@ Volg deze stappen voor probleem oplossing:
 
 3. Wat moet u doen als de volgende fout wordt weer gegeven tijdens het activeren van het partner centrum naar CRM-stroom in het geautomatiseerde platform?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Fout bericht waarvoor aanmelding is vereist":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Fout bericht dat updates vereist":::
 
 Volg deze stappen voor probleem oplossing:
 
@@ -95,11 +94,11 @@ U voegt verbindingen toe aan de stroom terwijl de stroom wordt uitgevoerd. u kun
 - Selecteer elke stroom en bewerk ze afzonderlijk.
 - Alle stappen in de stroom uitvouwen 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Fout bericht waarvoor aanmelding is vereist":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Stappen die verbindingen nodig hebben":::
 
 - Selecteer de stappen waarin een waarschuwings pictogram wordt weer gegeven om verbindingen te koppelen en verbindingen toe te voegen. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Fout bericht waarvoor aanmelding is vereist":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Stap per stap voor het bewerken van de stroom":::
 
 
 5. Wat moet u doen als de stromen van de connectors oplossing voor het samen verkopen van verwijzingen niet worden ingeschakeld?
@@ -114,9 +113,9 @@ A. In energie automatisering moet u stromen bewerken in de volgende volg orde en
 - Sales Force to Partner Center (Insider preview)
 - Sales Force Micro Solutions to Partner Center (Insider preview)
 
- B. Selecteer voor elke stroom de optie **alleen gebruikers uitvoeren** . Selecteer **verbinding gebruiken** in plaats van **via alleen-uitvoeren gebruiker** .  
+ B. Selecteer voor elke stroom de optie **alleen gebruikers uitvoeren** . Selecteer **verbinding gebruiken** in plaats van **via alleen-uitvoeren gebruiker**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Fout bericht waarvoor aanmelding is vereist":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Een stroom activeren":::
 
 
 C. Activeer deze hieronder vermelde stromen:
@@ -128,7 +127,7 @@ C. Activeer deze hieronder vermelde stromen:
     
 D. Alle resterende stromen activeren.
 
-E. Selecteer bij stroom Partner Center-webhook registratie **uitvoeren** . Geef de **http-URL** op van de eerste actie in **Partner Center naar Sales Force** -stroom. Selecteer alle vier de opties onder **gebeurtenissen die u wilt registreren** en selecteer **Ja** voor overschrijven.
+E. Selecteer bij stroom Partner Center-webhook registratie **uitvoeren**. Geef de **http-URL** op van de eerste actie in **Partner Center naar Sales Force** -stroom. Selecteer alle vier de opties onder **gebeurtenissen die u wilt registreren** en selecteer **Ja** voor overschrijven.
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Vragen en antwoorden over uitvoeren/onderhoud
 
@@ -140,11 +139,11 @@ Raadpleeg [stroom fouten oplossen](/power-automate/fix-flow-failures)om ervoor t
  
 Selecteer **audit** om de status van de verwijzings synchronisatie te bepalen. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Fout bericht waarvoor aanmelding is vereist":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Verwijzingen synchroniseren":::
 
 Zorg ervoor dat aan de volgende voor waarden wordt voldaan:
 
-- De oplossings-id is opgenomen als onderdeel van de verkoop kans.
+- De oplossings-ID is opgenomen als onderdeel van de verkoop kans.
 
 - Land code van twee letters is vereist.
 
@@ -156,7 +155,53 @@ Voer de volgende stappen uit:
 
 - Partner verkopers moeten ervoor zorgen dat de optie **synchronisatie met partner Center** is ingeschakeld in de sectie CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Fout bericht waarvoor aanmelding is vereist" in het partner centrum.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Zorg ervoor dat u synch hebt ingeschakeld":::
+
+- Verkopers moeten een omzet en een afsluitings datum opgeven bij het kwalificeren van een potentiële klant.
+
+- Als de CRM-ID wordt weer gegeven in de fase **maken** of **bijwerken** van de verkoop kans, maar er geen lead opportuniteit met die id is gevonden in CRM, wordt het bijwerken of maken genegeerd.
+
+- Zorg ervoor dat het veld referentie valuta is geconfigureerd in de Sales Force-omgeving. 
+
+4. Wat moet u doen als de connector wordt losgekoppeld en u geen verwijzings synchronisatie meer hebt. 
+
+Hier volgen enkele van de opties die u kunt uitproberen:
+
+- Controleer of de gebruikers naam of het wacht woord voor de partner centrum-gebruiker is verlopen met de rollen beheerder van verwijzing.
+
+- U kunt naar de niet-gesynchroniseerde verkoop kans gaan, een kleine update maken en bekijken of de verwijzing is gesynchroniseerd.
+
+- Als de stromen zijn uitgevoerd en mislukt, selecteert u de stroom en verzendt u de uitgevoerde bewerking opnieuw.
+
+5. Wat moet u doen wanneer u geen toegang krijgt tot fouten?
+
+Controleer of de juiste rollen bestaan
+
+- Rol van verwijzings beheerder voor Partner Center-verkoper 
+ 
+- De rol systeem beheerder of systeemaanpasser op uw CRM-exemplaar
+
+- Zorg ervoor dat de gebruiker die het stroom account energie automatiseert, https://flow.microsoft.com ten minste één keer vooraf meldt
+
+6. Wat moet u doen als u ziet dat de **land code van het klant account** ontbreekt tijdens het maken van een mede verkoop kans.
+
+U moet de ISO-land code van twee letters toevoegen aan het klant account in CRM.
+
+7. Wat moet u doen als u de fout melding ziet dat de **oplossings-id is vereist** tijdens het maken van een verkoop kans op verkoop?
+
+Voor het maken van een verwijzing naar een mede verkoop, hebt u een micro soft-oplossing voor een kant-en-klare verkoop nodig. 
+
+8. Wat moet u doen wanneer u verkoop kansen die zijn gemaakt in het partner centrum, ziet die niet zijn gesynchroniseerd met CRM, zelfs als er geen stroom fouten zijn:
+
+Ga als volgt te werk:
+
+- Nadat u een nieuwe mede verkochte deal in het partner centrum hebt gemaakt, controleert u of het partner centrum voor Dynamics 365 stroom wordt aangeroepen (het kan meerdere keren worden opgeroepen).
+
+- Als de stroom wordt aangeroepen, controleert u alle aanroepen van stromen en identificeert u de stroom uitvoering waarmee de CRM wordt bijgewerkt. U kunt de acties volgen en controleren of er een probleem is opgetreden bij het bijwerken van het CRM.
+
+- Controleer de *nieuwe deal** in het partner centrum om te zien of deze wordt gevuld met CRM-id.
+
+- Zorg ervoor dat de deal niet per ongeluk is gesloten als "gewonnen" of "verloren" in het partner centrum.
 
 ## <a name="next-steps"></a>Volgende stappen
 

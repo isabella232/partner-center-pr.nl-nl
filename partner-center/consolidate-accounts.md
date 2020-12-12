@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92528104"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354522"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Uw bedrijfs rekeningen samen voegen bij de migratie van PMC naar het partner centrum
 
@@ -62,3 +62,9 @@ In PMC was het mogelijk dat elke locatie een eigen vaardig heden, de eigen kaart
 In Partner Center worden alle locatie accounts samengevoegd tot één globaal account. Dit betekent dat alle go-to-Market-aanbiedingen,-Program ma's en-competenties ook worden geconsolideerd. Er zijn geen extra voor delen tool kits (ABTKs) beschikbaar. U kunt de distributie van marketing resources, aanbiedingen, Program ma's en competenties echter wel indelen als vereist voor uw bedrijf. Wanneer u consolideert, wordt er een extensie gegeven. Met deze uitbrei ding kan uw bedrijf profiteren van de marketing bronnen, aanbiedingen en Program ma's die in PMC zijn gebruikt voor een extra jaar.
 
 Lees voor meer informatie over de verschillen tussen PMC en partner Center [overstappen van PMC naar partner Center](guide-to-migration.md).
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Uw Partner Center-account beheren](partner-center-account-setup.md)
+
+- [Locaties beheren](manage-locations.md)

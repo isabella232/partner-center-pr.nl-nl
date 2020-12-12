@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 720e3c4f97e374b0137db2302988a0fbd2db9432
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a301aa85310142b3327baabbf3c8545b31f489bd
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92528684"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354386"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Facturerings scenario's van partner centrum voor eenmalige en geselecteerde terugkerende aankopen
 
@@ -35,7 +35,7 @@ Het afstemmings bestand bevat het volgende:
 - $-4,00 gefactureerd herfactureren voor service periode van 11 juni. Dit is de periode waarin 1 licentie is geweest. Berekening = (maand-prijs/totaal aantal dagen in service periode) x dagen in gefactureerde service periode x aantal licenties = (4/30) x 30 x 1 = 4,00.
 - $8,00 gefactureerd herfactureren voor service periode van 10 juli: 9 juni. Dit is de periode waarin u 2 licenties hebt. Calculation = (4/30) x 30 x 2 = 8,00.
 
-|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Aantal** |**Kostentype** |
+|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |6/11/2019      |6/10/2019   |7/09/2019         |$4                |1                 |$4            |Nieuw         |
 |6/11/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$4       |addQuantity           |
@@ -51,7 +51,7 @@ Het afstemmings bestand bevat het volgende:
 - $-3,87 gefactureerd herfactureren voor service periode van 11 juni. Dit is de periode waarin 1 licentie is geweest. Berekening = (maand-prijs/totaal aantal dagen in service periode) x dagen in gefactureerde service periode x aantal licenties = (4/30) x 29 x 1 = 3,87.
 - $7,74 gefactureerd op basis van de herwaardering voor service periode van 12 juli. Dit is de periode waarin u 2 licenties hebt. Calculation = (4/30) x 29 x 2 = 7,74.
 
-|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Aantal** |**Kostentype** |
+|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |6/11/2019 (u hebt één licentie)     |6/10/2019   |7/09/2019         |$4         |1        |$4            |Nieuw         |
 |6/12/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$3,87       |addQuantity           |
@@ -67,7 +67,7 @@ Het afstemmings bestand bevat het volgende:
 - $-8,00 gefactureerd herfactureren voor service periode van 11 juni. Dit is de periode waarin u 2 licenties hebt. Berekening = (maand-prijs/totaal aantal dagen in service periode) x dagen in service periode van profactoris x aantal licenties = (4/30) x 30 x 2 = 8,00.
 - $4,00 gefactureerd op basis van de herwaardering voor service periode van 11 juni: 9 juli. Dit is de periode waarin 1 licentie is geweest. Calculation = (4/30) x 30 x 1 = 4,00.
 
-|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Aantal** |**Kostentype** |
+|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |6/11/2019      |6/10/2019   |7/09/2019         |$4                |2                 |$8            |Nieuw         |
 |6/11/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$8       |removeQuantity           |
@@ -83,8 +83,12 @@ Het afstemmings bestand bevat het volgende:
 - $-7,74 gefactureerd herfactureren voor service periode van 11 juni. Dit is de periode waarin u 2 licenties hebt. Berekening = (maand-prijs/totaal aantal dagen in service periode) x dagen in gefactureerde service periode x aantal licenties = (4/30) x 29 x 2 = 7,74.
 - $3,87 gefactureerd op basis van de herwaardering voor service periode van 12 juli. Dit is de periode waarin 1 licentie is geweest. Calculation = (4/30) x 29 x 1 = 3,87.
 
-|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Aantal** |**Kostentype** |
+|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |6/11/2019 (u hebt 2 licenties)     |6/10/2019   |7/09/2019         |$4         |2        |$8       |Nieuw       |
 |6/12/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$7,74       |removeQuantity           |
 |6/12/2019 (u hebt 1 licentie)    | 6/10/2019    |7/09/2019   |$4    |1      |$3,87    |removeQuantity |
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Voor beelden van maandelijkse facturerings scenario's voor nieuwe abonnementen, wijziging van licentie bedragen of onderbrekingen](common-billing-scenarios-monthly.md)

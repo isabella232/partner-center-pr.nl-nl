@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 616f706ddb4613f927e0c2830dd794fa3db3944e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527508"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354573"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Voor beelden van maandelijkse facturerings scenario's voor nieuwe abonnementen, wijziging van licentie bedragen of onderbrekingen
 
@@ -29,13 +29,13 @@ Deze [veelvoorkomende facturerings scenario's](common-billing-scenarios.md) zijn
 
 Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het op een licentie gebaseerd afstemmings bestand van 15 januari bevat de volgende facturerings regels:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Aantal |
+|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Cyclus kosten   |4,00       |1        |4,00 |
 
 Het op de licentie gebaseerde afstemmings bestand van 15 februari bevat de volgende facturerings regel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Aantal |
+|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |2/13/2018         |3/12/2018    |Cyclus kosten   |4,00       |1        |4,00 |
 
@@ -43,13 +43,13 @@ Het op de licentie gebaseerde afstemmings bestand van 15 februari bevat de volge
 
 Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het op een licentie gebaseerd afstemmings bestand van 15 januari bevat de volgende facturerings regels:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Aantal |
+|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Cyclus kosten   |4,00       |1        |4,00    |
 
 Op 1 februari verhoogt u het aantal licenties van een tot twee. Het op de licentie gebaseerde afstemmings bestand van 15 februari bevat de volgende facturerings regels:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Aantal |
+|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 1/13/2018        |2/12/2018    |Cyclus exemplaar prorente   |-4,00       |1        |-4,00   |
 |1/13/2018         |1/31/2018    | Cyclus exemplaar prorente   |2.45       |1        |2.45    |
@@ -70,13 +70,13 @@ Prijs van rato eenheid = 1,54 = 12 x 0,129
 
 Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het op een licentie gebaseerd afstemmings bestand van 15 januari bevat de volgende facturerings regels:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Aantal |
+|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Cyclus kosten   |4,00       |1        |4,00    |
 
 Op 1 februari wordt een abonnement onderbroken. Het op de licentie gebaseerde afstemmings bestand van 15 februari bevat de volgende facturerings regel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Aantal |
+|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|2/12/2018|Annulerings kosten|-4,00|1|-4,00
 
@@ -84,19 +84,19 @@ Op 1 februari wordt een abonnement onderbroken. Het op de licentie gebaseerde af
 
 Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het op een licentie gebaseerd afstemmings bestand van 15 januari bevat de volgende facturerings regels:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Aantal |
+|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|2/12/2018|Cyclus kosten|4,00|1|4,00
 
 Het op de licentie gebaseerde afstemmings bestand van 15 februari bevat de volgende facturerings regel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Aantal |
+|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2/13/2018|3/12/2018|Cyclus kosten|4,00|1|4,00
 
 Op 1 maart wordt het abonnement onderbroken. Het op 15 maart op licentie gebaseerde afstemmings bestand bevat de volgende facturerings regel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Aantal |
+|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 3/1/2018|3/12/2018|Annulerings kosten|-1,72|1|-1,72
 
@@ -107,3 +107,7 @@ Eenheids prijs = dagen in service periode x dagelijkse prijs x aantal licenties.
 Er zijn 12 dagen in de annulerings periode 3/1/2018 – 3/12/2018.
 
 Daarom is de eenheids prijs =-1,716 (12 x 0,143 x (-1)).
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Facturerings scenario's voor eenmalige en geselecteerde terugkerende aankopen](common-billing-scenarios-onetime-recurring.md)
