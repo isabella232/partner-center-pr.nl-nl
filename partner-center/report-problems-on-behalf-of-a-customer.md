@@ -1,5 +1,5 @@
 ---
-title: Problemen namens een klant melden
+title: Problemen rapporteren namens een klant
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528744"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153142"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Meld een service probleem namens een klant, zoals wanneer en hoe dit moet gebeuren
 
 **Van toepassing op**
 
 - Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 
 **Juiste rollen**
 
@@ -31,11 +31,13 @@ Als uw klant een service probleem ondervindt dat u niet kunt oplossen en dat vol
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Een service aanvraag indienen voor een klant
 
-1. Selecteer in het menu van het **partner centrum** **service aanvragen** en vervolgens de vraag van de **klant** . 
+1. Selecteer in het menu Partner Center onder CSP de optie **klanten**
 
-2. Zoek op de pagina klant aanvragen naar de gewenste klant.
+2. Op de pagina klanten selecteert of zoekt u de gewenste klant
+    
+3. Selecteer in het menu klant **service aanvragen** .
 
-3. Selecteer in de vervolg keuzelijst **nieuwe aanvraag** de optie **Azure** of **Office 365, Dynamics 365, Enter prise Mobility Suite** . U wordt omgeleid naar het Microsoft Azure-portal of het Office 365-beheer centrum.
+4. Selecteer in de vervolg keuzelijst **nieuwe aanvraag** de optie **Azure** of **Office 365, Dynamics 365, Enter prise Mobility Suite**. U wordt omgeleid naar het Microsoft Azure-portal of het Office 365-beheer centrum.
 
 >[!NOTE]
 >Ondersteunings partners die Dynamics 365 in CSP ondersteunen, zijn vereist voor het onderhouden van een ondersteunings overeenkomst met een ASfP-abonnement of hoger. Deze ondersteunings overeenkomst is vereist voor het indienen van Dynamics 365-incidenten namens een CSP-klant. Meer [informatie](https://partner.microsoft.com/support/partnersupport) over de opties voor de ondersteunings overeenkomst.
@@ -49,9 +51,9 @@ Als uw klant een service probleem ondervindt dat u niet kunt oplossen en dat vol
 >
 >- Hoewel de helpdesk beheerder in het partner centrum geen service aanvragen kan maken in de Azure-Service Portal, kunnen ze een ondersteunings groep maken in de Azure-Service Portal en deze groep machtigingen geven om ondersteunings aanvragen in het logboek te registreren.
 
-1. Selecteer **Nieuwe ondersteuningsaanvraag** .
+1. Selecteer **Nieuwe ondersteuningsaanvraag**.
 
-2. Vul de ondersteunings aanvraag in met de juiste gegevens en selecteer vervolgens **maken** :
+2. Vul de ondersteunings aanvraag in met de juiste gegevens en selecteer vervolgens **maken**:
 
    - Zorg er in de sectie **basis beginselen** van de ondersteunings aanvraag voor dat u **Cloud Solution Provider** selecteert in het veld **ondersteunings plan** .
 
@@ -79,7 +81,7 @@ In een van deze gevallen kunt u de volgende procedure gebruiken om een ondersteu
 
 1. Kies in de sectie **een service aanvraag maken** de juiste ondersteunings categorie. Mogelijk moet u meer selecteren **...** om meer artikelen weer te geven.
 
-2. Vul het formulier service aanvraag in en selecteer **verzenden** .
+2. Vul het formulier service aanvraag in en selecteer **verzenden**.
 
    > [!TIP]
    > Zorg ervoor dat u uw contact gegevens en niet van uw klant opneemt.
@@ -149,5 +151,5 @@ Neem contact op met de [ondersteuning voor Dynamics](/dynamics365/customer-engag
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Ondersteuning voor uw klanten bieden](customer-support.md)
-- [Service status controleren](check-service-health.md)
+- [Uw klanten ondersteuning bieden](customer-support.md)
+- [Servicestatus controleren](check-service-health.md)
