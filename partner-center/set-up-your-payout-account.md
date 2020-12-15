@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514755"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492684"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Stel uw betalingsaccount en belastingformulieren
+
+**Juiste rollen:**
+
+- Accountbeheerder
+- Globale beheerder
 
 Als u geld wilt ontvangen van de verkoop van aanbiedingen in de commerciële Marketplace, moet u uw account voor betaling instellen en de benodigde belasting formulieren invullen in het [partner centrum](https://partner.microsoft.com/dashboard).
 
@@ -32,19 +37,16 @@ Nadat u uw account hebt ingesteld, zijn er twee dingen die u moet doen voordat u
 
 ## <a name="tax-forms"></a>BTW-formulieren
 
-### <a name="fill-out-your-tax-forms"></a>Vul uw belasting formulieren in
+U beheert uw BTW-profiel en BTW-formulieren op de pagina **uitbetaling en belasting** van partner centrum. De machtigingen van uw organisatie bepalen de profielen en informatie die u ziet.
 
-Eerst moet u een BTW-profiel maken en toewijzen aan de Program ma's waarmee u deel uitmaakt. U kunt uw *BTW-profiel* voor de commerciële Marketplace maken door de volgende stappen uit te voeren:
+### <a name="create-or-update-your-tax-profile"></a>Uw BTW-profiel maken of bijwerken
 
-- Geef het land/de regio van de woon plaats en het burgerschap op.
-- Vul de juiste belasting formulieren in.
-
-U kunt uw belasting formulieren elektronisch volt ooien en verzenden in het partner centrum. in de meeste gevallen hoeft u geen formulieren af te drukken en te verzenden.
+Eerst moet u een BTW-profiel maken en toewijzen aan de Program ma's waarmee u deel uitmaakt. Gebruik de volgende stappen om uw *BTW-profiel* te maken of bij te werken in het partner centrum. U kunt uw belasting formulieren elektronisch volt ooien en verzenden in het dash board van de partner centrum. in de meeste gevallen hoeft u geen formulieren af te drukken en te verzenden.
 
 > [!IMPORTANT]
 > Verschillende landen en regio's hebben verschillende belasting vereisten. De exacte hoeveelheid die u in BTW moet betalen, is afhankelijk van de landen en regio's waar u uw aanbieding verkoopt. Raadpleeg de [Microsoft Azure Marketplace Publisher-overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560) voor meer informatie over welke landen/regio's micro soft verkoop en het gebruik van belasting namens u verkrijgt. In andere landen/regio's, afhankelijk van waar u bent Inge schreven, moet u mogelijk verkoop-en gebruiks belasting voor uw aanbiedings verkoop rechtstreeks naar de lokale belasting dienst remitteren. Daarnaast kan de omzet van de app die u ontvangt, als bate worden belast. We raden u aan om contact op te nemen met de relevante instantie voor uw land of regio, die u het beste kan helpen bij het bepalen van de juiste belasting gegevens voor uw commerciële Marketplace-activiteiten.
 
-1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en klik vervolgens op **account instellingen**.
+1. In het [dash board van de partner centrum](https://partner.microsoft.com/dashboard)selecteert u het tandwiel pictogram **instellingen** in de rechter bovenhoek en vervolgens de **account instellingen**.
 
 2. Selecteer in het navigatie menu aan de linkerkant de optie **uitbetaling en belasting** en selecteer vervolgens **betaling en BTW-toewijzingen**.
 

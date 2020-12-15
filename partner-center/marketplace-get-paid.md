@@ -1,23 +1,28 @@
 ---
-title: Betaald krijgen in de commerciële marketplace
-description: Meer informatie over het ontvangen van betalingen voor inkomsten in de commerciële Marketplace-Azure Marketplace. Inclusief uitbetalings beleid, status van uitbetalings blokkering en uitbetalings instructies.
+title: Betalen in partner centrum
+description: Meer informatie over het ontvangen van betalingen voor inkomsten als een micro soft-partner, zoals commerciële Marketplace-aanbiedingen, prikkel Programma's en het Cloud Solution Provider-programma. Inclusief uitbetalings beleid, status van uitbetalings blokkering en uitbetalings instructies.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514721"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492446"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Betaald krijgen in de commerciële marketplace
+# <a name="getting-paid-in-partner-center"></a>Betalen in partner centrum
+
+**Juiste rollen:**
+
+- Accountbeheerder
+- Globale beheerder
 
 In dit artikel vindt u belang rijke informatie over het ontvangen van betalingen voor uw aanbiedingen, invoeg toepassingen en reclame-inkomsten. Er wordt een overzicht gegeven van het uitbetalings beleid, de vereiste stappen voor het ophalen van de betalings wijze en de uitbetalings overzicht
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Beleid voor uitbetaling van commerciële Marketplace en-overeenkomsten
+## <a name="payout-policies-and-agreements"></a>Uitbetalings beleid en-overeenkomsten
 
 Als u aan de slag wilt, moet u zich houden aan de overeenkomsten en het beleid voor uitbetaling.
 
@@ -49,4 +54,4 @@ In de uitbetalings verklaring worden uw inkomsten uit de verkoop van uw aanbiedi
 ## <a name="next-steps"></a>Volgende stappen
 
 - [API voor partner uitbetalingen](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Veelgestelde vragen over Marketplace-uitbetalingen](payout-faq.md)
+- [Veelgestelde vragen over uitbetalingen](payout-faq.md)

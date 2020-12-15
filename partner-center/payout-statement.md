@@ -1,22 +1,30 @@
 ---
-title: Uitbetalings verklaring voor de commerciële Marketplace in het partner centrum
-description: Meer informatie over uitbetalings overzichten en samen vattingen en het weer geven en exporteren van uw betalings gegevens voor de commerciële Marketplace
+title: Uitbetalingsinstructies
+description: Meer informatie over uitbetalings overzichten en samen vattingen en het weer geven en exporteren van uw betalings gegevens vanuit het micro soft Partner Center
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/23/2020
-ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 10/29/2020
+ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532052"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492633"
 ---
 # <a name="payout-statements"></a>Uitbetalingsinstructies
 
+**Juiste rollen:**
+
+- Accountbeheerder
+- Globale beheerder
+
 De **uitbetalings verklaring** geeft een overzicht van uw uitbetalingen uit aanbiedingen die via de commerciële Marketplace worden verkocht. Hierin worden de transactie geschiedenis van uw inkomsten weer gegeven, wordt uw volgende betaling geschat en worden de betalings trends weer gegeven. U kunt ook transactie geschiedenis en betalings overzichten downloaden. In dit artikel wordt uitgelegd hoe u toegang krijgt tot uw uitbetalings verklaring en de verschillende uitbetalings pagina's en down loads die voor u toegankelijk zijn in het partner centrum.
+
+>[!NOTE]
+>U ziet alleen gegevens voor MPN-Id's en-Program ma's waarmee u bent verbonden. Als u aanvullende gegevens wilt zien, gebruikt u uw account beheerder voor machtigingen. 
 
 ## <a name="roles-and-permissions"></a>Rollen en machtigingen
 
@@ -50,6 +58,7 @@ U kunt ook de [partner-uitbetalings-API](https://apidocs.microsoft.com/services/
 
 Op de pagina **transactie geschiedenis** ziet u het overzicht van uw inkomsten, de geschatte volgende betaling en uw inkomsten-en betalings trends in de afgelopen 36 maanden. U kunt ook transactie gegevens uit deze sectie downloaden.
 
+
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Transactie overzicht.":::
 
 - De **inkomsten die dit jaar zijn verzonden** , zijn het totale inkomen en de uitsplitsing van de inkomsten die zijn betaald en worden betaald in de komende maand.
@@ -57,9 +66,11 @@ Op de pagina **transactie geschiedenis** ziet u het overzicht van uw inkomsten, 
 - **Trend van inkomsten en betalingen** : maandelijks betaalde en betalings bedragen voor de afgelopen 36 maanden.
 - **Downloaden** : transactie gegevens downloaden in CSV-of. TSV-indeling.
 
-Gebruik de selectie in het datum bereik in de rechter bovenhoek van de pagina om de uitvoer van de pagina te filteren zodat de afgelopen 3, 6, 12 of 36 maanden worden weer gegeven. Of selecteer een aangepast datum bereik van Maxi maal 36 maanden. Het standaard datum bereik is 12 maanden.
+Gebruik de selectie in het datum bereik in de rechter bovenhoek van de pagina om de uitvoer van de pagina te filteren zodat de afgelopen 3, 6, 12 of 36 maanden worden weer gegeven. Of selecteer een aangepast datum bereik van Maxi maal 36 maanden. Het standaard datum bereik is 12 maanden. U kunt ook filteren op inschrijvings-ID, programma, betalings-ID, verdienen type, hendel en status. Er zijn gegevens beschikbaar voor het huidige boek jaar (1 juli 30 juni) en de vorige twee boek jaren.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Het zoek filter in de rechter bovenhoek van de pagina.":::
+
+Selecteer de pijl-omlaag aan de rechter kant van de pagina om meer informatie over het verdienen te bekijken. Als u dit doet, worden de hendel, het omzet bedrag, het product en de klant weer gegeven. Neem contact op met de ondersteuning als deze gegevens om de een of andere reden niet beschikbaar zijn, maar u er toegang tot hebt. Als het verdienen het resultaat van een aanpassing is en niet een trans actie, worden de velden product en klant niet weer gegeven.
 
 ### <a name="transaction-history-summary"></a>Overzicht transactie geschiedenis
 
@@ -74,13 +85,49 @@ Dit toont details over het verdienen, waaronder de oorsprong van het verdienen v
     - **Gepland** : de inkomsten zijn in afwachting van wachtende koel periode.
     - **Verwerkt** : de inkomsten worden voor bereid voor de volgende betaling.
     - **Verzonden** : de winst is betaald.
-- **Geschatte betalings maand** : de maand dat de inkomsten zullen worden betaald.
+- **Geschatte betalings maand** : de maand dat de inkomsten zullen worden betaald. Zie de [volgende sectie](#estimated-payment-month) voor meer informatie.
 
 Er worden verdienen trans acties weer gegeven zodra de trans actie voldoet aan de toekennings kwalificatie. Zie [Veelgestelde vragen over uitbetalingen door commerciële Marketplace](payout-faq.md#why-are-my-earnings-missing)als u wilt weten waarom er sprake is van ontbrekende of onverwachte inkomsten.
+
+#### <a name="estimated-payment-month"></a>Geschatte betalings maand
+
+De pagina transactie geschiedenis bevat nu een tabel met uw geschatte betalings bedragen voor de komende maanden. U kunt deze informatie ook bekijken en downloaden in de export van de transactie geschiedenis en het samenvattings rapport. Deze informatie maakt het gemakkelijker om afstemmingen en betalings projecties te maken.
+
+De geschatte betalings maand wordt berekend op basis van programma configuratie regels en tijd lijnen, en wordt verwerkt in de volgende/aanstaande betalings cyclus.
+
+De geraamde betalings maand is momenteel beschikbaar voor alle verdienen typen, met uitzonde ring van co-op, die worden weer gegeven als **niet van toepassing**. Voor de inkomsten van 1 juli 2020 wordt de geschatte betalings maand weer gegeven als **niet beschikbaar**.
+
+In de volgende tabel ziet u een voor beeld van een geschatte betalings maand.
+
+| Maand | Bedrag |
+| ------ | :-----------: |
+|  Sep-2020 |  $7.273,99   |
+|  Okt-2020 | $8.692,30  |
+|  Nov-2020 | $107,89  |
+
+De geschatte hoeveelheid kan verschillen van het werkelijke bedrag om verschillende redenen:
+
+- Verwerkings status: als de inkomsten opnieuw worden berekend, is de werkelijke hoeveelheid verschillend
+- Aanpassingen: het werkelijke bedrag varieert afhankelijk van de aanpassingen die zijn opgetreden of die zijn verzonden.
+- Wijziging van regels: een wijziging in de regels kan een herberekening weer geven in het werkelijke betaalde bedrag
+- Te betalen: als er een betalings fout optreedt, kan de werkelijke hoeveelheid afwijken
+
+Houd er rekening mee dat uw betaling alleen wordt vrijgegeven in de verwachte maand als de drempel waarde van uw programma en de regels voor betalings geschiktheid worden voldaan. Deze regels omvatten, maar zijn niet beperkt tot de onderstaande lijst:
+
+- Uw BTW-profiel moet up-to-date zijn
+- Uw winst moet voldoen aan of hoger zijn dan de minimale drempel waarde die in de programma gids is gedefinieerd.
+- Uitbetaling in de wacht stand: als u de optie ' mijn betaling bewaren ' selecteert op de pagina Profiel toewijzing.
+- Uitbetalings instrument niet beschikbaar: betaling of/en BTW-profiel is niet voltooid.
 
 ### <a name="transaction-history-download"></a>Transactie geschiedenis downloaden
 
 Klik boven aan de pagina op **downloaden** om meer informatie over een verdienen te bekijken. In de volgende tabel wordt elke kolom in het rapport uitgelegd.
+
+>[!NOTE]
+>De transactie geschiedenis die u wilt exporteren, heeft twee nieuwe velden vanaf augustus 2020:
+>
+>- **lastPaymentCurrency**  De valuta waarin de meest recente betaling is ontvangen, in alle MPNs waartoe de partner die momenteel is aangemeld, toegang heeft. Als er geen betaling is ontvangen, is de laatste betalings valuta US dollars.
+>- **earningAmountInLastPaymentCurrency**  Het verdienen bedrag in de laatste betalings valuta.
 
 | Kolomnaam | Beschrijving | Toepasselijkheid voor prikkel Programma's/markt plaatsen |
 | --- | --- | --- |
@@ -164,6 +211,21 @@ Klik boven aan de pagina op **downloaden** om meer informatie over een verdienen
 | workload | Workload | Prikkel-sommige Program ma's alleen |
 |
 
+### <a name="transaction-adjustment-codes"></a>Transactie correctie codes
+
+De volgende tabel bevat reden codes voor aanpassingen en de bijbehorende beschrijvingen.
+
+|**Reden code**   |**Beschrijving**   |
+|------------------|:-------------------------------------|
+| AR-naleving | Correctie die de winst vermindert wanneer micro soft-facturen niet op tijd door de partner worden betaald. |
+| Rollover voor co-op | Correctie waarbij co-op-inkomen naar een andere periode wordt overgedragen of waarmee mede-op-inkomsten worden omgezet in kortingen. |
+| OPS-aanpassing | Aanpassing waarmee micro soft-systeem berekenings fouten worden gecorrigeerd. |
+| Aanpassing van OPS micro soft onjuist calc | Correctie die onjuiste berekeningen corrigeert. |
+| Aanpassing van OPS micro soft onjuiste inschrijving | Aanpassing voor registraties die betrekking hebben op de inschrijving. |
+| Partner mapping (abonnement) MCI/CSP | Correctie die de verkeerde uitlijning van het abonnement corrigeert. |
+| Beleids uitzondering | Correctie die een programma regel overschrijft.  |
+| Inkomsten vorige periode | Aanpassing van de winst buiten de huidige verdienen periode. |
+
 ## <a name="payments"></a>Betalingen
 
 De pagina **betalingen** bevat informatie over het geld dat u bij micro soft hebt behaald. Ook wordt weer gegeven wanneer en hoeveel u gaat uitbetalen.
@@ -214,7 +276,7 @@ In de volgende tabel worden de verschillende statussen voor het verdienen beschr
 
 ### <a name="payments-download"></a>Betalingen downloaden
 
-Klik boven aan de pagina op **downloaden** om meer informatie over uw betalingen weer te geven. In de volgende tabel wordt elke kolom in het rapport uitgelegd.
+ In de volgende tabel wordt elke kolom in het rapport uitgelegd. Klik boven aan de pagina betalingen op **downloaden** om meer informatie over uw betalingen weer te geven.
 
 | Kolomnaam | Beschrijving |
 | --- | --- |
@@ -238,7 +300,7 @@ Klik boven aan de pagina op **downloaden** om meer informatie over uw betalingen
 
 ## <a name="export-data"></a>Gegevens exporteren
 
-De pagina **gegevens exporteren** wordt niet automatisch vernieuwd. Mogelijk moet u de pagina hand matig vernieuwen om de meest recente gegevens te zien. Selecteer op de drie tabbladen een **transactie geschiedenis** , **betalingen** , **transactie overzicht** of **historische instructie** exporteren.
+De pagina **gegevens exporteren** wordt niet automatisch vernieuwd. Mogelijk moet u de pagina hand matig vernieuwen om de meest recente gegevens te zien. Selecteer op de drie tabbladen een **transactie geschiedenis**, **betalingen**, **transactie overzicht** of **historische instructie** exporteren.
 
 Het filter kan ertoe leiden dat er **geen gegevens beschikbaar zijn** . Dit kan gebeuren als u de standaard periode van drie maanden hebt geselecteerd en vervolgens een betalings-ID hebt geselecteerd van een verdienen dat buiten die periode valt. Als dit het geval is, vouwt u uw tijds periode uit en probeert u het opnieuw.
 
@@ -274,7 +336,7 @@ In de volgende tabel wordt elke kolom in een historische instructie uitgelegd.
 | Naam van bovenliggend product | De naam van het bovenliggende product. Als er geen bovenliggend product voor de trans actie is, dan is de naam van het bovenliggende product = product naam. |
 | Productnaam | Naam van het product |
 | Producttype | Type product, zoals app, invoeg toepassing of spel |
-| Hoeveelheid | Wanneer de opbrengst bron Microsoft Store voor bedrijven, vertegenwoordigt de hoeveelheid het aantal aangeschafte licenties. Voor alle andere opbrengst bronnen is de hoeveelheid altijd 1. Zelfs wanneer één trans actie wordt gesplitst in twee regel items omdat er twee verschillende betalings methoden zijn gebruikt, wordt voor elk regel item een hoeveelheid van 1 weer gegeven. |
+| Aantal | Wanneer de opbrengst bron Microsoft Store voor bedrijven, vertegenwoordigt de hoeveelheid het aantal aangeschafte licenties. Voor alle andere opbrengst bronnen is de hoeveelheid altijd 1. Zelfs wanneer één trans actie wordt gesplitst in twee regel items omdat er twee verschillende betalings methoden zijn gebruikt, wordt voor elk regel item een hoeveelheid van 1 weer gegeven. |
 | Transactietype | Type trans actie, zoals aankoop, terugbetaling, omkering of terugstorting |
 | Betalings wijze | Het betalings instrument van de klant dat wordt gebruikt voor de trans actie, zoals kaart, facturering van mobiele provider of PayPal |
 | Land/regio | Het land of de regio waar de trans actie plaatsvond |

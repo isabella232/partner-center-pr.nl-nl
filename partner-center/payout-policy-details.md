@@ -1,22 +1,27 @@
 ---
-title: Uitbetalings schema's en beleids Details-Azure Marketplace
-description: Meer informatie over de details van het uitzonderings beleid voor commerciële Marketplace, met inbegrip van planningen en rekoppeling.
+title: Uitbetalings schema's en-processen
+description: Meer informatie over uitbetalingen en trans acties, zoals betalings schema's en rekoppelings processen voor de commerciële Marketplace en andere trans acties.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513284"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492667"
 ---
-# <a name="payout-schedules-and-policy-details"></a>Uitbetalings schema's en beleids Details
+# <a name="payout-schedules-and-processes"></a>Uitbetalings schema's en-processen
 
-In dit artikel wordt het uitzonderings schema van micro soft beschreven, waar u de status van een uitbetaling en het proces voor niet-betaling van de klant kunt vinden.
+**Juiste rollen:**
+
+- Accountbeheerder
+- Globale beheerder
+
+In dit artikel wordt het betalings schema van micro soft beschreven, waar u de status van een uitbetaling en het proces voor niet-betaling van de klant kunt vinden.
 
 ## <a name="payment-schedules"></a>Betalings schema's
 
@@ -90,7 +95,7 @@ Hier volgt een voorbeeld schema:
 Normaal gesp roken verstuurt de betaling in een bepaalde maand op de vijftiende dag van die maand, maar neemt het extra tijd in beslag om uw account te bereiken. Het aantal dagen is afhankelijk van de betalings wijze die we voor uw account gebruiken, zoals hieronder wordt beschreven.
 
 > [!NOTE]
-> De dagen die hieronder worden weer gegeven, zijn ongeveer gelijk aan. elke betaling kan een langere of korter tijd duren om uw account te bereiken.
+> De dagen die hieronder worden weer gegeven, zijn ongeveer gelijk aan. elke betaling kan meer of minder tijd in beslag nemen om uw account te bereiken.
 
 | Betalingswijze     | Aantal dagen voor het bereiken van het uitbetalings account     |
 |--------------------|--------------------------------------------|

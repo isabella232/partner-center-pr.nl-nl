@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626028"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492463"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Toekennings-en belasting profielen voor stimuli maken en beheren in partner centrum
 
@@ -72,7 +72,7 @@ In de volgende secties vindt u een overzicht van het proces voor het maken en be
 
 1. Meld u aan bij het [dash board van het partner centrum](https://partner.microsoft.com/dashboard/)en selecteer vervolgens het tandwiel pictogram om het menu **instellingen** te openen. 
 
-2. Selecteer **partner instellingen** , vouw de **sectie uitbetaling en belasting** uit en selecteer vervolgens **toekennings-en BTW-profiel toewijzing**. 
+2. Selecteer **partner instellingen**, vouw de **sectie uitbetaling en belasting** uit en selecteer vervolgens **toekennings-en BTW-profiel toewijzing**. 
    
    Er wordt een lijst met uw Program ma's weer gegeven. Selecteer de pijl naast een programma om de profiel gegevens weer te geven. 
 
@@ -152,4 +152,4 @@ Als u informatie nodig hebt over het volt ooien van de W8-of W9-formulieren, kun
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Veelgestelde vragen over prikkels en BTW-profielen](incentives-payout-tax-profile-faqs.md)
+- [Veelgestelde vragen over uitbetalingen en belastingen](payout-faq.md)

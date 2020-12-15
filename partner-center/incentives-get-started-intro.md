@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "92528181"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492599"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Gebruik deze bronnen om u te helpen aan de slag te gaan met prikkels
 
@@ -48,8 +48,8 @@ Voordat u kunt betalen voor uw werk in een prikkel programma, moet u specifieke 
 | Meer informatie over de geschiktheids vereisten voor een specifiek programma voor prikkels | [Geschiktheid van uw programma bepalen](incentives-determined-your-program-eligibility.md)  |
 | Zoek en geef de gegevens op die micro soft nodig heeft voordat u de uitbetalingen voor prikkels kunt ontvangen | [Uitbetalings-en BTW-profielen maken en beheren in het partner centrum](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Bevestig dat u alle details hebt ingevoerd die u nodig hebt om de inkomsten van prikkels te ontvangen | [Uw inkomstengeschiktheid bevestigen](incentives-confirm-your-earnings-eligibility.md)  |
-| Alle gegevens en rapporten voor uw prikkel programma weer geven | [Uw incentive-betalingen en -programma's bekijken](understand-incentive-payouts.md)  |
-| Toegang tot uw programma-specifieke pagina voor prikkels | [Toegang tot de pagina prikkel uitbetalingen](incentives-unified-user-guide.md)  |
+| Alle gegevens en rapporten voor uw prikkel programma weer geven | [Uw prikkel Programma's en betalingen weer geven](understand-incentive-payouts.md)  |
+| Toegang tot uw programma-specifieke pagina voor prikkels | [Toegang tot uw uitbetalings verklaring](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Volgende stappen
 

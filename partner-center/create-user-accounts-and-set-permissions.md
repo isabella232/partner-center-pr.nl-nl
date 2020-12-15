@@ -4,19 +4,19 @@ description: Aan elke werk nemer moet een rol worden toegewezen voordat ze toega
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 41f7f68c61630daf30595e28bd5de52f5a5787c8
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92528664"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492531"
 ---
-# <a name="create-user-accounts"></a>Gebruikers accounts maken  
+# <a name="create-user-accounts"></a>Gebruikersaccounts maken  
 
 **Juiste rollen**
 
@@ -28,9 +28,9 @@ Maak gebruikers accounts voor werk nemers die toegang nodig hebben tot het partn
 
 ## <a name="add-a-new-user"></a>Een nieuwe gebruiker toevoegen
 
-1. Selecteer op het pictogram **instellingen** in de rechter bovenhoek van het partner centrum **account instellingen** en selecteer vervolgens **gebruikers beheer** .
+1. Selecteer op het pictogram **instellingen** in de rechter bovenhoek van het partner centrum **account instellingen** en selecteer vervolgens **gebruikers beheer**.
 
-2. Selecteer **Gebruiker toevoegen** .
+2. Selecteer **Gebruiker toevoegen**.
 
 3. Voer de volledige naam en het unieke e-mail adres van de gebruiker in.
 

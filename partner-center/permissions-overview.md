@@ -8,13 +8,13 @@ description: Meer informatie over welke rollen het meest geschikt zijn voor de g
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
-ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
+ms.custom: SEOMAY.20, contperf-fy21q1
+ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94670147"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492701"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Gebruikers rollen en-machtigingen toewijzen aan gebruikers van een bedrijf die moeten werken in het partner centrum
 
@@ -149,7 +149,7 @@ Deze rollen zijn niet Azure Active Directory rollen. Deze rollen beheren het bed
 
 In combi natie met de nieuwe referrals gebruikersrol maken we ook kennis met het bereik van de locatie voor deals. De volgende tabel geeft uitleg over de deals-toegang op basis van de locatie.
 
-|**Scope** | **Wat u kunt doen** |
+|**Bereik** | **Wat u kunt doen** |
 |------------------------------|:-------------------------|
 |Het hele bedrijf | Zowel beheerders als gebruikers hebben toegang tot het maken van deals voor elke locatie in het bedrijf|
 || Verwijzings beheerder heeft toegang om alle deals weer te geven en te bewerken |
