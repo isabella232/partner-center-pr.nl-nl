@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d8dac9e5d8720a39d6bf585a1f6cd9bd5c70465a
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926675"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514757"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners
 
@@ -56,7 +56,7 @@ Als u wilt blijven deel nemen aan het CSP-programma, moet u de micro soft-partne
 
 1. Selecteer  bij instellingen [partner profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
-1. Raadpleeg de sectie **programma-info** . Als uw informatie niet de **indirecte wederverkoper** status weergeeft, moet u zich [Inschrijven als een indirecte wederverkoper](https://partner.microsoft.com/cloud-solution-provider/whats-required).
+1. Raadpleeg de sectie **programma-info** . Als uw informatie niet de **indirecte wederverkoper** status weergeeft, moet u zich [Inschrijven als een indirecte wederverkoper](indirect-reseller-tasks-in-partner-center.md).
 
 1. Als de status van de  **indirecte wederverkoper** **actief** is, bent u een actieve indirecte wederverkoper in Partner Center.
  

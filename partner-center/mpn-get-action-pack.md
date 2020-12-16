@@ -1,7 +1,7 @@
 ---
 title: Micro soft Action Pack-aanbiedingen kopen of vernieuwen
-ms.topic: article
-ms.date: 11/23/2020
+ms.topic: how-to
+ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over het aanschaffen van een abonnement op micro soft Action Pack en het gebruik van Action Pack-voor delen. Leer ook hoe u uw factuur kunt vernieuwen, annuleren, bekijken en nog veel meer.
@@ -9,20 +9,15 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812857"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514727"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Een abonnement op Microsoft Action Pack of een Silver- of Gold-competentie kopen of verlengen
 
-**Van toepassing op**
-
-- Partnercentrum
-- Partner lidmaatschap centrum
-- MPN-programma partners
 
 **Juiste rollen**
 
@@ -30,13 +25,13 @@ ms.locfileid: "95812857"
 - Gebruikersbeheerder
 - MPN-partner beheerder
 - Beheer agent
-- Verkoop agent
 
-Nu kunnen leden van de Microsoft Partner Network (MPN.md) in het [dash board](https://partner.microsoft.com/dashboard)van de Partner Center uw voor delen kopen of vernieuwen. Dit biedt onder andere de micro soft Action Pack-abonnement en Silver-en Gold-competenties.
+
+Vanuit het [dash board](https://partner.microsoft.com/dashboard)van de Partner Center kunnen leden van de Microsoft Partner Network (MPN)) aanbiedingen kopen of vernieuwen, waaronder het micro soft Action Pack-abonnement en Silver-en Gold-competenties.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Micro soft Action Pack voor de eerste keer kopen
 
-Als u geen ervaring hebt met het samen werken met micro soft, is de eerste stap om deel te nemen aan de Microsoft Partner Network. Als u nog geen lid bent van het partner netwerk, gaat u naar [de pagina lidmaatschap](https://partner.microsoft.com/membership) op de site van het partner netwerk en selecteert u **nu lid worden** als u klaar bent om u aan te melden. 
+Als u geen ervaring hebt met het samen werken met micro soft, is de eerste stap om deel te nemen aan de Microsoft Partner Network. Als u wilt deel nemen aan MPN, gaat u naar [de pagina lidmaatschap](https://partner.microsoft.com/membership) op de site van het partner netwerk en selecteert u **nu deel nemen** wanneer u klaar bent om u aan te melden.
 
 Nadat u het partner netwerk hebt toegevoegd, volgt u de [instructies op de partner netwerk site](https://partner.microsoft.com/membership/action-pack) (aanmelden vereist) om uw eerste Action Pack-abonnement te kopen. 
 
@@ -62,7 +57,7 @@ Een [competentie partner](https://partner.microsoft.com/membership/competencies)
 2. Selecteer **abonnement vernieuwen** en selecteer vervolgens uw betalings wijze. U kunt betalen met een credit card of een elektronische Bank overboeking.
 
     >[!NOTE]
-    >Als **abonnement vernieuwen** niet wordt weer gegeven of grijs is, kunt u uw Action Pack-abonnement nog niet vernieuwen. Het vernieuwings venster beleid is gewijzigd en u kunt uw abonnement pas vernieuwen nadat het is verlopen. Als uw abonnement bijvoorbeeld op 22 juni verloopt, kunt u het vernieuwen vanaf 23 juni en 30 dagen na.  
+    >Als **abonnement vernieuwen** niet wordt weer gegeven of grijs is, kunt u uw Action Pack-abonnement nog niet vernieuwen. Het vernieuwings venster beleid is gewijzigd, zodat u uw abonnement pas kunt vernieuwen **nadat** het is verlopen. Als uw abonnement bijvoorbeeld op 22 juni verloopt, kunt u het vernieuwen vanaf 23 juni en 30 dagen na.  
 
 3. Als u betaalt met een credit card, volgt u de instructies voor het toevoegen van uw creditcard gegevens. Als u met een elektronische Bank overboeking betaalt, geeft u de naam, het telefoon nummer en het e-mail adres van de contact persoon op en selecteert u vervolgens **verzenden**.
 
@@ -70,15 +65,13 @@ Een [competentie partner](https://partner.microsoft.com/membership/competencies)
 
 5. Uw bestelling is bevestigd. Selecteer **Sluiten**.
 
-Uw Action Pack-abonnement wordt elk jaar automatisch verlengd op deze datum.
-
 ### <a name="update-your-bill-to-address"></a>Uw factuur adres bijwerken
 
 In het proces van het vernieuwen of aanschaffen van Action Pack, hebt u de mogelijkheid om uw factuur adres te valideren.
 
  1. Nadat u **verzenden** hebt geselecteerd, kunt u de details van uw aankoop bekijken. Selecteer **bijwerken** als u ziet dat uw adres moet worden bijgewerkt.
   
- 1. Werk op de pagina **partner profiel** uw adres bij.
+ 1. Werk op de pagina **juridisch profiel** uw adres bij.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Uw Action Pack-abonnement annuleren
 
@@ -115,6 +108,3 @@ Als u de status van uw service aanvraag wilt controleren, selecteert u **Partner
 -   [Add users and assign permissions to them](create-user-accounts-and-set-permissions.md) (Gebruikers toevoegen en machtigingen toewijzen)
 
 -   [Create a business profile to get sales leads from Microsoft](create-a-marketing-profile.md) (Een bedrijfsprofiel maken om sales leads te krijgen van Microsoft)
-
-
-

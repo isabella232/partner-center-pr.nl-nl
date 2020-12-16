@@ -1,7 +1,7 @@
 ---
 title: Werken met indirecte providers in het CSP-programma
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe indirecte wederverkopers kunnen samen werken met micro soft indirecte providers (of distributeurs) om hulp te krijgen bij klant ondersteuning en facturering.
@@ -10,16 +10,14 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492395"
+ms.locfileid: "97514747"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Meer informatie over hoe u partner kunt samen werken met indirecte providers in het Cloud Solution Provider-programma
-
-
 
 **Juiste rollen**
 
@@ -70,33 +68,22 @@ Vanaf oktober 2020 kunnen alle micro soft-partners die nieuw zijn voor CSP, zich
 
 2. Bekijk de **welkomst pagina** om er zeker van te zijn dat u de informatie hebt die u nodig hebt om u te registreren en selecteer vervolgens **volgende**.
 
-3. Meld u aan met uw werk account. Selecteer **Aanmelden** en voer vervolgens de gebruikers naam en het wacht woord in die u gebruikt om u aan te melden als globale beheerder voor Office 365, Microsoft Azure of micro soft Dynamics CRM.
+3. Meld u aan met uw werk account: de gebruikers naam en het wacht woord die u gebruikt om u aan te melden als een globale beheerder voor Office 365, Microsoft Azure of micro soft Dynamics CRM. Als u geen werk account hebt, selecteert u **er een maken** om er een in te stellen. Nadat u uw werk account hebt gemaakt, meldt u zich aan met de referenties van de globale beheerder voor uw nieuwe account.
 
-   Als u geen werk account hebt, selecteert u **er een maken** om er een in te stellen. Nadat u uw werk account hebt gemaakt, meldt u zich aan met de referenties van de globale beheerder voor uw nieuwe account.
-
-4. Lees de informatie over het koppelen van uw Microsoft Partner Network-ID (MPN-ID) aan uw nieuwe partner centrum-account. We moeten de MPN-ID van uw bedrijf koppelen aan uw nieuwe partner Center-account, zodat u uw lidmaatschaps voordelen en prikkels kunt beheren in het partner centrum. Selecteer **Aanmelden**.
-
-5. Voer de gebruikers naam in die u gebruikt om u aan te melden bij de PMC-site (Partner Membership Center). De site van het partner lidmaatschaps centrum is waar u momenteel uw micro soft partner-account beheert. Als u zich aanmeldt bij Partner Membership Center, kunnen we uw MPN-ID ophalen en deze koppelen aan uw nieuwe partner centrum-account. Selecteer **Next**.
-
-6. Voer het wacht woord in voor het account van uw partner lidmaatschap centrum en selecteer **Aanmelden**.
-
-7. Selecteer het bedrijfs profiel met de MPN-ID die is gekoppeld aan uw prikkels, lidmaatschaps voordelen en competenties. We kunnen deze gegevens vervolgens verplaatsen naar uw partner centrum-account. Selecteer **Doorgaan**.
-
-   Als de MPN-ID die u wilt gebruiken, niet op deze pagina wordt weer gegeven, selecteert u **Annuleren** en meldt u zich opnieuw aan met de gebruikers naam en het wacht woord voor het bedrijfs profiel dat u wilt gebruiken.
 
    > [!IMPORTANT]  
-   > Selecteer de MPN-ID die is gekoppeld aan een actief bedrijfs profiel dat zich in hetzelfde land/dezelfde regio bevindt als uw Azure AD-Tenant.
+   > Selecteer de MPN-ID die is gekoppeld aan het actieve bedrijfs profiel dat zich in hetzelfde land/dezelfde regio bevindt als uw Azure AD-Tenant.
 
-8. Het juridische zakelijke profiel van uw bedrijf, de primaire contact gegevens en informatie over de klant ondersteuning opgeven of bijwerken. Selecteer **nu registreren**.
+4. Het juridische zakelijke profiel van uw bedrijf, de primaire contact gegevens en informatie over de klant ondersteuning opgeven of bijwerken. (Als u uw juridische Bedrijfs gegevens wilt vinden, selecteert u **organisatie profiel** en selecteert u **juridische gegevens**.) Selecteer **nu registreren**.
 
-   De primaire contact persoon moet degene van uw bedrijf zijn die wij kunnen contacteren voor uw toepassing. De primaire contact persoon kan u of een andere persoon in uw bedrijf zijn. Opmerking: we accepteren geen e-mail adressen van e-mail services op Internet zoals Gmail, Yahoo! E-mail, iCloud-mail, AOL-mail of Outlook-e-mail.
+   De primaire contact persoon is degene die in uw bedrijf kan worden gecontacteerd met betrekking tot uw toepassing. Het kan u of een andere persoon in uw bedrijf zijn. Opmerking: we accepteren geen e-mail adressen van e-mail services op Internet zoals Gmail, Yahoo! E-mail, iCloud-mail, AOL-mail of Outlook-e-mail.
 
    > [!IMPORTANT]  
    > Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om te verifiëren dat (1) hij of zij zich heeft aangemeld voor een partner centrum-account, en (2) dat dit e-mail adres tot uw bedrijf behoort. Nadat de primaire contact persoon zijn of haar e-mail adres heeft geverifieerd, gaan we verder met de door u verstrekte informatie. Er worden updates voor de inschrijvings status verzonden naar de primaire contact persoon.
 
-9. Als uw partner centrum-account klaar is voor gebruik, controleert u of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
+5. Als uw partner centrum-account klaar is voor gebruik, controleert u of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
 
-   1. Selecteer in uw **partner centrum** het pictogram **instellingen** en selecteer vervolgens **gebruikers beheer**.
+   1. Selecteer het pictogram **instellingen** in het dash board van de partner centrum en selecteer vervolgens **gebruikers beheer** onder **account instellingen**.
 
    2. Selecteer uw naam in de lijst met gebruikers. Selecteer vervolgens **beheer agent** als deze nog niet is geselecteerd. Selecteer **Bijwerken**.
 
@@ -136,6 +123,10 @@ Als een indirecte provider met u verbinding wil maken in het partner centrum, ga
 
    > [!IMPORTANT]  
    > Uw indirecte provider moet een reseller-relatie hebben met uw klanten om namens hen bestellingen te kunnen indienen.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>Uw CSP-land en de CSP-regio's waar u zakendoet
+
+De locatie van uw bedrijf als een indirecte dealer van CSP bepaalt de indirecte providers met wie u kunt werken en de regio's waar u de CSP-onderneming kunt doen. Lees meer over de [regionale markten en valuta's van het programma Cloud Solution Provider Program waarin u CSP-aanbiedingen kunt verkopen](regional-authorization-overview.md).
 
 
 ## <a name="next-steps"></a>Volgende stappen

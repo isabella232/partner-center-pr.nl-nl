@@ -1,7 +1,7 @@
 ---
 title: Veelgestelde vragen over de voordelen
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Antwoorden op vragen over het verlopen van voor delen, het verlengen en activeren van licenties voor Azure, Cloud, Visual Studio en technische en ondersteunings voordelen
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570685"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514684"
 ---
 # <a name="benefits-faq"></a>Veelgestelde vragen over de voordelen
 
@@ -98,7 +98,7 @@ U kunt abonnementen toewijzen aan iedereen in uw lijst met gebruikers beheer in 
 Nadat u het abonnement hebt toegewezen, moet de gebruiker zich aanmelden bij Visual Studio om het te kunnen beheren.
 
 >[!Note]
-> Visual Studio-abonnementen kunnen opnieuw worden toegewezen van een abonnee naar een andere 90 dagen na de oorspronkelijke toewijzing.
+> Visual Studio-abonnementen kunnen opnieuw worden toegewezen van een abonnee naar een andere als 90 dagen zijn verstreken sinds de oorspronkelijke toewijzing.
 
 ## <a name="technical-benefits-and-support"></a>Technische voor delen en ondersteuning
 
