@@ -738,6 +738,8 @@
     - name: MFA vereisten voor uw partnertenant
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: MFA instellen voor uw gebruikers
+      href: mfa-for-users.md
     - name: Status van vereisten
       href: partner-security-compliance.md
       displayName: csp
