@@ -1,7 +1,7 @@
 ---
 title: Het tegoed van de partner voor beheerde services
 ms.topic: article
-ms.date: 11/30/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe micro soft partner (PEC) voor beheerde services wordt berekend en betaald, en hoe u ervoor kunt zorgen dat u in aanmerking komt.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474305"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622164"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hoe het verdiende tegoed van de partner wordt berekend en betaald
 
@@ -30,27 +30,29 @@ De partner die het tegoed voor beheerde services (PEC) heeft behaald, erkent en 
 
 Lees ook de [beheerders bevoegdheden voor Azure CSP-abonnementen opnieuw invoeren](revoke-reinstate-csp.md)
 
-## <a name="important-eligibility-and-calculation-information"></a>Belangrijke informatie over geschiktheid en berekening
+## <a name="eligibility"></a>Geschiktheid
 
-- De partner moet beschikken over een actieve MPN-overeenkomst en een geldige RBAC-rol voor het ontvangen van tegoed voor de Azure-assets die ze beheren. 
+De volgende vereisten zijn van toepassing op het ontvangen van de partner (PEC): 
 
-- In het geval van indirecte providers en hun indirecte wederverkopers komt de indirecte provider in aanmerking voor PEC als de indirecte provider of de indirecte reseller, of beide over een beschik bare operationele controle en beheer van de Azure-resources van de klant in CSP.
+- U moet over een actieve MPN-overeenkomst en een geldige RBAC-rol (Role-based Access Control) beschikken om het ontvangen van tegoed voor de door u beheerde Azure-assets te krijgen.
 
-- PEC is gekoppeld aan gefactureerd (Factureerbaar) verbruik van het Azure-eigendom van de klant in CSP die wordt beheerd door de partner. PEC wordt alleen beschikbaar gesteld voor partners in CSP, gefactureerd door micro soft (indirecte provider en directe factuur partner). 
+- U moet over een 24x7 operationeel beheer en beheer van de Azure-resources van de klant in CSP beschikken. Dit betekent dat u beheerders bevoegdheden nodig hebt voor het Azure-abonnement van de klant, Azure-resource groep, Azure-resource. In het geval van indirecte providers en hun indirecte wederverkopers komt de indirecte provider in aanmerking voor PEC als hetzij de indirecte provider ofwel de indirecte reseller ofwel beide over dit operationele beheer beschikken. Zie [beheerders bevoegdheden voor Azure CSP-abonnementen herstellen voor](https://docs.microsoft.com/partner-center/revoke-reinstate-csp)meer informatie.
 
-- In aanmerking komende Services: het tegoed van de partner is van toepassing op Services die worden vermeld in de prijzen van het **Azure-abonnement** . de partners kunnen exporteren van de prijs pagina van het [Azure-abonnement](https://partner.microsoft.com/commerce/sales) . 
+- Naast de bovenstaande vereisten is PEC alleen van toepassing op Services die worden vermeld in de prijzen van het Azure-abonnement. deze kunt u exporteren via de prijs pagina voor [Azure-abonnementen](https://partner.microsoft.com/commerce/sales) .
 
-- Services die niet in aanmerking komen: het tegoed van de partner is **_niet_* _ van toepassing op het volgende:
+- PEC is **niet** van toepassing op de volgende services:
     - Azure plan-reserve ringen
-    - Producten van derden geïdentificeerd als _ *derde partij** in de **kolom Tags** van de verbruiks prijs van het Azure-abonnement    
+    - Producten van derden geïdentificeerd als derde partij in de kolom Tags van de verbruiks prijs van het Azure-abonnement
     - Producten in de prijs lijst voor Marketplace
-   - [Azure Spot Virtual Machines](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
+    - [Azure Spot Virtual Machines](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-- PEC wordt dagelijks berekend en kan worden weer gegeven in het dagelijks gebruiks bestand en het maandelijkse factuur afstemmings bestand. Een partner (een indirecte provider of een indirecte wederverkoper) moet toegang hebben tot de hele dag (24x7) om ervoor te zorgen dat ze PEC verdienen. PEC wordt dagelijks berekend op basis van de beheerde Azure-assets. De maximale PEC voor een bepaalde facturerings periode is 15%. Partners die permanente privileged Access via de maand (toegangs duur) bewaren en voor alle in aanmerking komende resources (bereik van toegang), verdienen een volledige PEC van 15%. De beperking van het bereik en de periode resulteert in een lager PEC-tempo voor de maand. Dagelijks geclassificeerd gebruiks bestand wordt dagelijks op basis van een Azure-Asset weer gegeven, ongeacht of de PEC wordt toegepast. Partners kunnen ook worden inge schreven in waarschuwingen om te detecteren of er wijzigingen zijn in permanente toegang.
+- PEC wordt naar het Azure-resource niveau geverdiend. Als u geldige toegang hebt op het niveau van het abonnement of de resource groep, verdient elke resource die tot de hogere entiteit rolt, een PEC.
 
-- PEC wordt naar het Azure-resource niveau geverdiend. Als de partner geldige toegang heeft op het abonnement of het niveau van de resource groep, verdient elke resource die rollen tot de hogere entiteit heeft, de PEC.  
+- Meer informatie over PEC is ook beschikbaar op de pagina [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) .
 
-- Er zijn ook PEC-Details beschikbaar in [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners)
+### <a name="calculation"></a>Berekening
+
+PEC wordt dagelijks berekend en kan worden weer gegeven in het dagelijks gebruiks bestand en het maandelijkse factuur afstemmings bestand. Een partner (een indirecte provider of een indirecte wederverkoper) moet toegang hebben tot de hele dag (24x7) om ervoor te zorgen dat ze PEC verdienen. PEC wordt dagelijks berekend op basis van de beheerde Azure-assets. De maximale PEC voor een bepaalde facturerings periode is 15%. Partners die permanente privileged Access via de maand (toegangs duur) bewaren en voor alle in aanmerking komende resources (bereik van toegang), verdienen een volledige PEC van 15%. De beperking van het bereik en de periode resulteert in een lager PEC-tempo voor de maand. Dagelijks geclassificeerd gebruiks bestand wordt dagelijks op een Azure-Asset weer gegeven, of PEC wordt toegepast. Partners kunnen ook worden inge schreven in waarschuwingen om wijzigingen in permanente toegang te controleren.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
@@ -66,10 +68,10 @@ Azure Cost Management (ACM) met behulp van kosten analyse kunt u als partner de 
 
 4. Selecteer **PartnerEarnedCreditApplied** in de vervolg keuzelijst van een draai grafiek om de kosten weer te geven waarop een PEC is toegepast. Wanneer de eigenschap **PartnerEarnedCreditApplied** is ingesteld op True, hebben de bijbehorende kosten het voor deel van het tegoed van de partner. 
 
-Wanneer de eigenschap PartnerEarnedCreditApplied is ingesteld op False, voldoen de bijbehorende kosten niet aan het vereiste recht voor het tegoed of is de aangeschafte service niet in aanmerking komen voor een partner die het tegoed ontvangt.
+   Wanneer de eigenschap PartnerEarnedCreditApplied is ingesteld op False, voldoen de bijbehorende kosten niet aan het vereiste recht voor het tegoed of is de aangeschafte service niet in aanmerking komen voor een partner die het tegoed ontvangt.
 
->[!NOTE] 
->Normaal gesp roken duurt het gebruik voor Services 8-24 uur in **Cost Management** en de PEC-tegoeden worden binnen 48 uur na de toegangs tijd weer gegeven in azure Cost Management.
+   >[!NOTE] 
+   >Normaal gesp roken duurt het gebruik voor Services 8-24 uur in **Cost Management** en de PEC-tegoeden worden binnen 48 uur na de toegangs tijd weer gegeven in azure Cost Management.
 
 5. U kunt ook groeperen op, en filteren op, de eigenschap **PartnerEarnedCreditApplied** met behulp **van de Group by en** filter functies toevoegen om te zoomen op de kosten met PEC en de kosten waarop geen PEC is toegepast.
 

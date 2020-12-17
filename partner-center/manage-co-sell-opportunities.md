@@ -1,7 +1,7 @@
 ---
 title: Collectieve verkoopkansen beheren
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als gekwalificeerde micro soft-partner kunt u samen verkopen met micro soft. Meer informatie over het definiëren van deals, het uitnodigen van micro soft om samen te werken of verzonden deals weer te geven.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417265"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622198"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Verkoop kansen beheren in het partner centrum
 
@@ -44,13 +44,19 @@ Profiteer van de mogelijkheden voor co-selling.  Mogelijkheden voor co-verkoop z
 
 ## <a name="navigating-the-co-sell-section"></a>Navigeren in de sectie co-sell
 
-De sectie Cosell bevat drie tabbladen op het hoogste niveau.
+Voer de volgende stappen uit om toegang te krijgen tot de sectie voor samen verkopen:
 
-**Inkomend** : alle verkoop kansen die worden verzonden naar de partner van micro soft-verkopers voor het samen werken van de verkoop zijn beschikbaar op dit tabblad.
+1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
 
-**Uitgaand** : alle verkoop kansen die door de partner zijn gemaakt, zijn beschikbaar op dit tabblad. Partners kunnen drie verschillende verkoop kansen creëren: mede verkoop, privé en partner voor partner.
+2. Selecteer in het navigatie menu links de optie **verwijzingen**, gevolgd door **verkoop kansen**.
 
-**Favorieten** : verkoop kansen die als favorieten zijn gemarkeerd in de tabbladen inkomend of uitgaand gezamenlijk verkoop verkeer worden op dit tabblad weer gegeven. Markeer een verkoop kans als favoriet door te klikken op het hart pictogram op de verkoop kans in de lijst weergave. U kunt de verkoop kans verwijderen uit favorieten door nogmaals op hetzelfde pictogram te klikken.
+   In deze sectie ziet u drie tabbladen op het hoogste niveau:
+
+   - **Inkomend** : alle verkoop kansen die worden verzonden naar de partner van micro soft-verkopers voor het samen werken van de verkoop zijn beschikbaar op dit tabblad.
+
+   - **Uitgaand** : alle verkoop kansen die door de partner zijn gemaakt, zijn beschikbaar op dit tabblad. Partners kunnen drie verschillende verkoop kansen creëren: mede verkoop, privé en partner voor partner.
+
+   - **Favorieten** : verkoop kansen die als favorieten zijn gemarkeerd in de tabbladen inkomend of uitgaand gezamenlijk verkoop verkeer worden op dit tabblad weer gegeven. Markeer een verkoop kans als favoriet door te klikken op het hart pictogram op de verkoop kans in de lijst weergave. U kunt de verkoop kans verwijderen uit favorieten door nogmaals op hetzelfde pictogram te klikken.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Een verkoop kans maken
 
@@ -63,7 +69,7 @@ U kunt drie soorten verkoop kansen maken.
 
 Selecteer de klant voor deze specifieke deal. Voer de locatie in en begin met het typen van de naam. De automatische suggestie begint met het weer geven van aanbevelingen op basis van de zoek criteria. Omdat veel bedrijven meer dan één bedrijfs entiteit op dezelfde locatie hebben, worden er mogelijk meerdere resultaten weer geven. Als u niet zeker weet welke u wilt kiezen, kunt u bevestigen welk D-U-N-S-nummer bij uw klant hoort. Zorg ervoor dat u de exacte overeenkomst selecteert voor de klant met wie u wilt werken.
 
-Wanneer u op **de klant selecteren** klikt, wordt u gevraagd om de naam, het telefoon nummer en het e-mail adres op te geven voor de persoon die het belangrijkste contact punt is voor deze deal. Deze gegevens zijn optioneel en zijn alleen vereist als u van plan bent om micro soft-verkopen uit te nodigen om u te helpen met de betrokkenheid. Selecteer **Next**.
+Wanneer u op **de klant selecteren** klikt, wordt u gevraagd om de naam, het telefoon nummer en het e-mail adres op te geven voor de persoon die het belangrijkste contact punt is voor deze deal. Deze gegevens zijn optioneel en zijn alleen vereist als u van plan bent om micro soft-verkopen uit te nodigen om u te helpen met de betrokkenheid. Selecteer **Volgende**.
 
 > [!IMPORTANT]
 > Zorg ervoor dat u de toestemming van de klant hebt verkregen om hun contact gegevens aan micro soft te verstrekken voor de deal. Micro soft kan deze informatie gebruiken om rechtstreeks contact op te nemen met de klant.

@@ -9,18 +9,72 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 1341e60fd9914f421fd59335a8f037f3d915b72f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 841ef4701ef7c973cc7a4fffaa26bb24b8d6f7e9
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869296"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622147"
 ---
 # <a name="december-2020-announcements"></a>December 2020-aankondigingen
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft partner centrum voor november 2020.
 
-2020 aankondigingen: [april](2020-april.md)  |  [kan](2020-may.md)juni tot en met  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md) | December
+2020 aankondigingen: [april](2020-april.md)  |  [kan](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md) | December
+
+______________
+
+## <a name="power-apps-promo-offer-now-available"></a><a name="5"></a>Aanbiedingen voor Power apps-aanbieding nu beschikbaar
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-16
+- Aanbiedingen/markten
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+
+### <a name="details"></a>Details
+
+Aanbieding van Power apps voor het eerst gepland voor 1 december werd enigszins uitgesteld. De aanbieding moet beschikbaar zijn op 16 december 2020. Deze aanbieding is beschikbaar tegen een gereduceerde prijs en heeft een ander belang rijk verschil van de standaard aanbiedingen in het partner centrum.
+ 
+**Details van aanbieding**
+
+- De aanbieding is tot en met 30 juni 2021 beschikbaar voor aankoop.
+- De aanbieding is een periode van 12 maanden tegen een gereduceerde prijs, zoals andere CSP-aanbiedingen.
+- Deze aanbieding wordt niet automatisch verlengd en verloopt aan het einde van de periode van 12 maanden. In eerste instantie wordt de eigenschap autorenew ingesteld op **True** , maar dit wordt gewijzigd zodat de aanbieding verloopt aan het einde van de 12-maandelijkse termijn van de aanbieding.
+- Partners moeten de prijs aanbieding voor niet-aanbieding (aanbiedings-id: 5e1087b6-246b-4503-b88a-b60bdf0b3840) kopen vóór het verval van 12 maanden als ze de services die worden geboden door de eerste aanbieding, willen blijven gebruiken.
+
+**Prijsdetails**
+
+De onderstaande prijs informatie voor de aanbieding geldt voor deze aanbieding in de prijzen lijst van januari 2021.
+
+- Weergave naam aanbieding: Power apps per app-plan promotie (200 Seat-min.)
+- Aanbiedings-ID: 988b7b06-e034-4b3e-89ea-51198cb2723e
+- Type licentie overeenkomst: zakelijk
+- Aankoop eenheid: 1 maand (en)
+- Secundair licentie type: niet-specifiek
+- Prijs lijst: de lijst met prijzen kan worden gedownload vanaf [deze locatie](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n). Opmerking: u moet zijn aangemeld bij het partner centrum om de prijzen te kunnen downloaden. Als u niet bent aangemeld bij Partner Center, ontvangt u een bericht dat de status niet is **geautoriseerd** .
+- ERP-prijs: nu nog niet beschikbaar is, gaat u naar de ERP van deze aanbieding in de volgende update van de prijs lijst van januari op 1/1/2021
+- Materiaal-ID: SEQ-00016
+ 
+**Details van aanbieding**
+
+De onderstaande aanbiedings gegevens voor deze aanbieding vindt u in de matrix met aanbiedingen van januari 2021.
+
+- Inrichtings-ID: POWERAPPS_PER_APP
+- Duur: 1 jaar
+- Facturerings frequentie: maandelijks; Verstrekt
+- Min. aantal seats: 200
+- Maximum aantal stoelen: 10000000
+- Limiet voor aanbiedingen: geen
+- Toegestane landen: Amerikaanse ondergeschikte afgelegen eilanden Engels (Franse zuidelijke gebieden); Bouvet eiland; Brits territorium in de Indische Oceaan; Jemen Heard-en Mc Donald-eilanden; Wallis en Futuna; Vanuatu Antarctica; Tuvalu Somalië Tokelau; Sierra Leone; Swaziland Sint-Helena, Ascension en Tristan da Cunha; Sao Tomé en principe; Pitcairneilanden; Palau Salomons eilanden Nauru Niue; Norfolk eiland; Varen Noordelijke Marianen; Lesotho Kiribati Equatoriaal-Guinea; Guinee-Bissau; Cook eilanden; Eritrea Christmas eiland; Burkina Faso; Centraal-Afrikaanse Republiek; Kosovo Cocoseilanden; Spits bergen en Jan Mayen; Åland; Zuid-Soedan; Zuid-Georgië en de zuidelijke Sandwich eilanden Samoa Saint--Barthélemy; Britse Maagden eilanden Saint-Pierre en Miquelon; Tsjaad Niger Montserrat Guyana Haïti Gambia Guam Parel Gabon Grenada Gibraltar Guernsey Liberia Micronesia Falklandeilanden; Dominica; Djibouti; Congo Congo (DRC); Zimbabwe Amerikaans-Samoa; Zambia Zuid-Afrika; Mayotte Vietnam Saint Vincent en de Grenadines; Amerikaanse Maagden eilanden Venezuela Heilige stoel (Vaticaan stad); Oekraïne Oeganda Oezbekistan Verenigde Staten; Uruguay Tanzania Taiwan Trinidad en Tobago; Turkije Tunesië Tonga Oost-leste; Turkmenistan Tadzjikistan Thai Togo El Salvador; Sint-Maarten; Turks-en Caicos-eilanden; Suriname Singapore Trad San Marino; Senegal Slowaakse Zweden Seychell Saudi-Arabië; Servië Rwanda Werd Roemenië Réunion Qatar Paraguay Portugal Filipijnen Palestijnse gebieden, bezet; Polen Puerto Rico; Pakistan Peru Panama Papoea-Nieuw-Guinea; Frans-Polynesië; Nieuw-Zeeland; Oman; Nepal Nl Noor wegen Nigeria Nicaragua Nieuw-Caledonië; Namibië Mozambique Maleisië Mexico Martinique Malawi Maldiv Mauritius Malta Myanmar Macau SAR; Mongolië Mali Madagaskar Marshall eilanden; Macedonië, voormalige Joegoslavische Republiek; Montenegro Saint-Martin; Marokko Monaco Werden Letland Libië Luxemburg Libanon Saint Lucia; Litouwen Sri Lanka; Caymaneilanden; Liechtenstein Laos Kazachstan Koeweit Koreaanse Comoren Cambodja Saint Kitts en Nevis; Kenia Kirgizië Japan Jordanië Jamaica Jersey; Italië; IJsland; Irak; Ierland; India; Indonesië; Isle of man; Honduras; Israël; Hongarije Hong Kong SAR; Kroatië Guatemala Griekse Guadeloupe Frans-Guyana; Heilbot Ghana Faeröer eilanden; Verenigd Konink rijk; Georgië Rijk Fiji Ethiopië Finland Ligt Betreft Estland Ecuador; Dominicaanse Republiek; Algerije Duitsland; Denemarken; Cyprus Tsjechië; Curaçao; Kaapverdië; Costa Rica; Chili Kameroen Colombia Côte d'Ivoire; Benelux Zwitser Belize Land Botswana Ngultrum Bahama's Bonaire, Sint Eustatius en Saba; Braziliaan Benin Brunei Bermuda Bolivia België Bulgarije Bahrein Burundi Bosnië en Herzegovina; Bangladesh Barbados Azerbeidzjan Aruba Australië Vestiging Oosten rijk Angola Armenië Afghanistan Albanië Anguilla Andorra Verenigde Arabische Emiraten; Antigua en Barbuda
+
+### <a name="next-steps"></a>Volgende stappen
+
+- De aanbieding voor aanbiedingen is beschikbaar in de matrix 1 januari 2021 officiële CSP Partner Center licentie-basis prijs lijst en aanbiedings lijst. 
+- Vragen over deze promotie kunnen worden verzonden naar de [micro soft Community-aankondiging](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
 
 ______________
 
@@ -29,7 +83,7 @@ ______________
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-12-8
-- Functies
+- Mogelijkheden
 
 ### <a name="impacted-audience"></a>Doel groep
 
@@ -37,7 +91,7 @@ Directe factuur partners en indirecte providers die deel nemen aan het CSP-progr
 
 ### <a name="details"></a>Details
 
-Vanaf december 08 2020 kunnen partners beginnen met het downloaden van de versie van [MicrosoftPartnerCenter. NETSDK (NuGet Gallery | Micro soft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), samen met bijgewerkte voor beelden van het Public Partner Center SDK [github](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Deze versie bevat updates voor het volgende:
+Vanaf december 08 2020 kunnen partners beginnen met het downloaden van de versie van [MicrosoftPartnerCenter. NETSDK (NuGet Gallery | Micro soft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), samen met bijgewerkte voor beelden van het Public Partner Center SDK [github](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Deze versie bevat updates voor de volgende methoden:
  
 **SelfServePolicies-nieuwe functionaliteit toegevoegd**
 
@@ -83,7 +137,7 @@ De prijs lijsten op basis van licenties en aanbiedingen lijst matrix bestanden b
 
 #### <a name="incorrect-offers-in-the-license-based-price-list"></a>Onjuiste aanbiedingen in de prijs lijst op basis van licentie
 
-De prijs lijsten op basis van een licentie bevatten de onderstaande aanbiedingen die niet mogen voor komen in de prijs lijsten. Deze aanbiedingen zijn voorheen opgenomen in de prijs lijsten en zijn niet gepubliceerd. Het is niet mogelijk om te plannen wanneer deze beschikbaar zijn. Als ze in de toekomst worden toegevoegd, worden ze weer gegeven als toegevoegd in de toekomst preview-prijs lijsten.
+De prijs lijsten op basis van een licentie bevatten de onderstaande aanbiedingen die niet mogen voor komen in de prijs lijsten. Deze aanbiedingen zijn voorheen opgenomen in de prijs lijsten en zijn niet gepubliceerd. Het is niet mogelijk om te plannen wanneer deze aanbiedingen beschikbaar zijn. Als ze in de toekomst worden toegevoegd, worden ze weer gegeven als toegevoegd in de toekomst preview-prijs lijsten.
 
    |**Naam van aanbieding**|**Aanbiedings-id**|
    |-------------------|:------|
@@ -96,7 +150,7 @@ De prijs lijsten op basis van een licentie bevatten de onderstaande aanbiedingen
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Onjuiste aanbiedingen in de matrix voor de aanbiedings lijst
    
-De onderstaande aanbiedingen bevinden zich in de matrix voor de aanbiedings lijst. Ze zijn niet beschikbaar, er is nog geen streef datum voor Beschik baarheid. Partners moeten deze negeren.
+De onderstaande aanbiedingen bevinden zich in de matrix voor de aanbiedings lijst. Ze zijn niet beschikbaar, er is nog geen streef datum voor Beschik baarheid. Partners moeten deze regel items negeren.
 
    |**Naam van aanbieding**|**Aanbiedings-id**|
    |-------------------|:------|
@@ -168,7 +222,7 @@ ______________
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-12-3
-- Functies
+- Mogelijkheden
 
 ### <a name="impacted-audience"></a>Doel groep 
 
@@ -176,7 +230,7 @@ Partners die academische aanbiedingen verkopen via het Cloud Solution Provider-p
 
 ### <a name="summary"></a>Samenvatting 
 
-Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode voor klant validatie te bieden voor het handelen van studie aanbiedingen in het Cloud Solution Provider-programma. Als onderdeel van deze toezeg ging maken we kennis met de partner centrum-API en verbeteringen van de gebruikers interface waarmee u duidelijkheid en inzicht kunt krijgen in het hebben-proces van de klant, en de mogelijkheid om nauw keurige gegevens in te voeren, waardoor de klant hebben succes kan verbeteren. 
+Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode voor klant validatie te bieden voor het handelen van studie aanbiedingen in het Cloud Solution Provider-programma. Als onderdeel van deze toezeg ging maken we kennis met de partner centrum-API en verbeteringen van de gebruikers interface waarmee u duidelijkheid en inzicht kunt krijgen in het hebben-proces van de klant, en de mogelijkheid om nauw keurige gegevens in te voeren, waardoor de klant hebben sneller kan worden uitgevoerd. 
 
 **Verbeteringen in het partner centrum** 
 
@@ -196,7 +250,7 @@ Om een beter inzicht te krijgen in de Api's en gegevens invoer die vereist zijn 
 
 Naast de bovenstaande uitbrei dingen zijn we enthousiast dat we de aanbiedingen voor de academische prijzen voor bibliotheken en Museum kunnen inschakelen, waardoor de Education-klanten met wie u de CSP-aanbiedingen kunt maken, worden uitgebreid. 
 
-Micro soft behoudt zich het recht voor om de status van een klant of voorgestelde klant als een bevoegd onderwijs gebruiker te controleren. Raadpleeg de [gebruikers vereisten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) voor het onderwijs recht op het onderwijs voor volledige informatie. 
+Micro soft behoudt zich het recht voor om de status van een klant of voorgestelde klant als een bevoegd onderwijs gebruiker te controleren. Zie de [gebruikers vereisten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) voor het onderwijs recht op het onderwijs voor volledige informatie. 
 
 ### <a name="next-stepsadditional-resources"></a>Volgende stappen/aanvullende resources
 
