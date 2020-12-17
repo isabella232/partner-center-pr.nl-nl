@@ -7,14 +7,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/23/2020
+ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514704"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636004"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Uw organisatie profiel gegevens verifiëren in het partner centrum
 
@@ -65,16 +65,12 @@ Als tijdens uw migratie van Partner Membership Center naar partner Center het ve
 
 De MPN-ID die is gekoppeld aan uw CSP-account bijwerken:
 
-1. Meld u aan bij uw partner Center-dash board.
+1. Meld u aan bij het dash board van het partner centrum en selecteer vervolgens **instellingen**.
  
-1. Selecteer **organisatie profiel** in **account instellingen**.
+1. Selecteer **id's** uit **account instellingen**.
 
-1. Selecteer **bijwerken** bij **gekoppelde MPNID**.
+1. Gebruik in de sectie **CSP** de **Update** koppeling om de MPN-id bij te werken die is gekoppeld aan uw CSP-account.
  
-1. Selecteer **Doorgaan**.
- 
-1. Voeg uw MPN-ID toe.
-
 
 ## <a name="update-your-billing-address"></a>Uw facturerings adres bijwerken
 

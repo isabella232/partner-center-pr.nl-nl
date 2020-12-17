@@ -1,7 +1,7 @@
 ---
 title: Werken met indirecte providers in het CSP-programma
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe indirecte wederverkopers kunnen samen werken met micro soft indirecte providers (of distributeurs) om hulp te krijgen bij klant ondersteuning en facturering.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514747"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636021"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Meer informatie over hoe u partner kunt samen werken met indirecte providers in het Cloud Solution Provider-programma
 
@@ -69,10 +69,7 @@ Vanaf oktober 2020 kunnen alle micro soft-partners die nieuw zijn voor CSP, zich
 2. Bekijk de **welkomst pagina** om er zeker van te zijn dat u de informatie hebt die u nodig hebt om u te registreren en selecteer vervolgens **volgende**.
 
 3. Meld u aan met uw werk account: de gebruikers naam en het wacht woord die u gebruikt om u aan te melden als een globale beheerder voor Office 365, Microsoft Azure of micro soft Dynamics CRM. Als u geen werk account hebt, selecteert u **er een maken** om er een in te stellen. Nadat u uw werk account hebt gemaakt, meldt u zich aan met de referenties van de globale beheerder voor uw nieuwe account.
-
-
-   > [!IMPORTANT]  
-   > Selecteer de MPN-ID die is gekoppeld aan het actieve bedrijfs profiel dat zich in hetzelfde land/dezelfde regio bevindt als uw Azure AD-Tenant.
+  
 
 4. Het juridische zakelijke profiel van uw bedrijf, de primaire contact gegevens en informatie over de klant ondersteuning opgeven of bijwerken. (Als u uw juridische Bedrijfs gegevens wilt vinden, selecteert u **organisatie profiel** en selecteert u **juridische gegevens**.) Selecteer **nu registreren**.
 
@@ -81,7 +78,16 @@ Vanaf oktober 2020 kunnen alle micro soft-partners die nieuw zijn voor CSP, zich
    > [!IMPORTANT]  
    > Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om te verifiëren dat (1) hij of zij zich heeft aangemeld voor een partner centrum-account, en (2) dat dit e-mail adres tot uw bedrijf behoort. Nadat de primaire contact persoon zijn of haar e-mail adres heeft geverifieerd, gaan we verder met de door u verstrekte informatie. Er worden updates voor de inschrijvings status verzonden naar de primaire contact persoon.
 
-5. Als uw partner centrum-account klaar is voor gebruik, controleert u of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
+5. Koppel uw MPN-ID aan uw Azure ID-Tenant.
+
+    1. Selecteer **id's** uit **account instellingen**.
+
+    1. Gebruik in de sectie **CSP** de **Update** koppeling om de MPN-id bij te werken die is gekoppeld aan uw CSP-account. 
+ 
+ > [!IMPORTANT]  
+   > Selecteer de MPN-ID die is gekoppeld aan het actieve bedrijfs profiel dat zich in hetzelfde land/dezelfde regio bevindt als uw Azure AD-Tenant.
+
+6. Als uw partner centrum-account klaar is voor gebruik, controleert u of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
 
    1. Selecteer het pictogram **instellingen** in het dash board van de partner centrum en selecteer vervolgens **gebruikers beheer** onder **account instellingen**.
 

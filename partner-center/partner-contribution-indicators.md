@@ -1,7 +1,7 @@
 ---
 title: Indica toren voor partner bijdragen
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over zeven bijdragen aan de partner (PCI) die laten zien hoe u aan de slag gaat met Dynamics 365 Customer engagement of Dynamics 365 Finance and Operations.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344388"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636038"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Partner bijdrage indicatoren (PCI) geven de impact van de partner op zeven belang rijke metingen van de klant geslaagd
 
@@ -42,23 +42,23 @@ PCI biedt een geavanceerde weer gave van de technische mogelijkheden van een par
 
 *Prestatie-indica toren:*
 
-1. **Netto nieuwe omzet** : netto nieuwe omzet over alle verkoop kanalen voor micro soft Dynamics 365-producten. (Zie [definities voor netto nieuwe inkomsten](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)voor meer informatie over deze metrische gegevens.)
+1. **Netto nieuwe omzet**: netto nieuwe omzet over alle verkoop kanalen voor micro soft Dynamics 365-producten. (Zie [definities voor netto nieuwe inkomsten](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)voor meer informatie over deze metrische gegevens.)
 
 2. **Net-klant voegt klanten toe** die zijn aangeschaft voor Dynamics 365 voor alle verkoop kanalen. (Zie voor meer informatie over deze metrische gegevens de [definities voor net klanten toevoegen](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 *Capabilities-indica toren:*
 
-3. **Functionele consultants** : aantal personen die momenteel een actief consultant-certificerings instantie hebben gekoppeld aan Dynamics 365. (Zie [definities voor functionele consultants](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)(Engelstalig) voor meer informatie over deze metrische gegevens.
+3. **Functionele consultants**: aantal personen die momenteel een actief consultant-certificerings instantie hebben gekoppeld aan Dynamics 365. (Zie [definities voor functionele consultants](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)(Engelstalig) voor meer informatie over deze metrische gegevens.
 
-4. **Groei van functionele consultant** : groei van het aantal functionele consultant-Associates.  De basislijn momentopname voor de functionele consultant groei metrische gegevens in PCI wordt nu op 1 oktober 2020 gezet. (Zie [definities voor de groei van functionele consultant](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)voor meer informatie over deze metrische gegevens.)
+4. **Groei van functionele consultant**: groei van het aantal functionele consultant-Associates. Er zijn enkele opties voor het verkrijgen van punten voor deze indicator. Voor één optie is de basislijn momentopname vereist voor de functie voor de groei van de functionele consultant in PCI die op 1 oktober 2020 moet worden uitgevoerd. (Zie [definities voor de groei van functionele consultant](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)voor meer informatie over alle opties om punten te verkrijgen voor deze metrische gegevens.)
 
-5. **Ontwikkel aars** : aantal personen die momenteel met een actieve ontwikkelaar een certificerings instantie voor Dynamics 365 hebben. (Zie [definities voor ontwikkel aars](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)voor meer informatie over deze metrische gegevens.)
+5. **Ontwikkel aars**: aantal personen die momenteel met een actieve ontwikkelaar een certificerings instantie voor Dynamics 365 hebben. (Zie [definities voor ontwikkel aars](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)voor meer informatie over deze metrische gegevens.)
 
 *Succes indicatoren van klant:*
 
-6. **Nieuwe grote implementaties** : aantal productie tenants dat de drempel voor hoog gebruik in de afgelopen 12 maanden overschrijdt. (Zie [definities voor nieuwe grote implementaties](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)voor meer informatie over deze metrische gegevens.)
+6. **Nieuwe grote implementaties**: aantal productie tenants dat de drempel voor hoog gebruik in de afgelopen 12 maanden overschrijdt. (Zie [definities voor nieuwe grote implementaties](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)voor meer informatie over deze metrische gegevens.)
 
-7. **Maandelijkse actieve gebruikers groei** : groei in maandelijkse actieve gebruikers gedurende de afgelopen 12 maanden over al uw klanten. (Zie [definities voor maandelijkse actieve gebruikers groei](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)voor meer informatie over deze metrische gegevens.)
+7. **Maandelijkse actieve gebruikers groei**: groei in maandelijkse actieve gebruikers gedurende de afgelopen 12 maanden over al uw klanten. (Zie [definities voor maandelijkse actieve gebruikers groei](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)voor meer informatie over deze metrische gegevens.)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>De invloed van de vaardig heden op een PCI-Score
 Er worden punten toegekend voor elke bereikte indicator, wat resulteert in een PCI-Score met één getal. Er zijn Maxi maal 100 maximum punten mogelijk. 
@@ -98,12 +98,12 @@ Elke PCI-metriek heeft micro soft-ingestelde drempel waarden die de maximum punt
 Punten over elke metriek worden berekend voor het leveren van een afzonderlijke PCI-score voor klant betrokkenheid en financiële middelen en bewerkingen. Deze score wordt maandelijks bijgewerkt.
 
 Partners kunnen het maximum aantal punten voor een bepaalde metriek verdienen als ze voldoen aan de hieronder vermelde drempel waarden. Gedeeltelijke punten kunnen worden behaald voor alle metrische gegevens, met uitzonde ring van functionele consultant groei.
+
 Een ontwikkelde markt partner met $150.000 in net nieuwe inkomsten verdienen bijvoorbeeld een halve ($ 150000/$ 300000) van de maximale 10 punten.
 
 Raadpleeg de volgende tabellen voor meer informatie:
 - [Tabel 1. Drempel waarden voor klant betrokkenheid](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [Tabel 2. Drempel waarden voor Financiën en bewerkingen](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [Tabel 3. Groei van functionele consultant](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>Tabel 1 klant verlovings drempels
 
@@ -114,7 +114,7 @@ Raadpleeg de volgende tabellen voor meer informatie:
 | **Ontwikkeld** | $300.000 | 10 | 10 | *\* Zie opmerking* | 5 | 5 | 25% |
 | **Het ontwikkelen** | $150.000 | 5  | 5  |*\* Zie opmerking* | 2 | 1 | 25% |
 
-*\* Opmerking: de groei doelen variëren op basis van het aantal basis-consultants. Zie [tabel 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) voor groei doelen.*
+*\* Opmerking: de groei doelen variëren op basis van het aantal basis-consultants en de specifieke optie die een partner gebruikt om punten te verkrijgen. Zie [definities voor functionele consultant groei](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)voor meer informatie over de opties om punten te verkrijgen of de specifieke groei doelen van elke optie.*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>Tabel 2 drempel waarden voor Financiën en bewerkingen
 
@@ -125,19 +125,7 @@ Raadpleeg de volgende tabellen voor meer informatie:
 | **Ontwikkeld** | $300.000 | 3 | 15 | *\* Zie opmerking* | 5  | 3 | 25% |
 | **Het ontwikkelen** | $150.000 | 1 | 5 |*\* Zie opmerking* | 2 | 1 | 25% |
 
-*\* Opmerking: de groei doelen variëren op basis van het aantal basis-consultants. Zie [tabel 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) voor groei doelen.*
-
-### <a name="table-3-functional-consultant-growth"></a>Groei van de functionele consultant voor tabel 3
-
->[!NOTE]
-> In de volgende tabel ziet u een **ontwikkelde** en **ontwikkelende** kolom met de functionele consultant basislijn die u nodig hebt om punten te verdienen. De datum van de moment opname van de basis lijn wordt gemaakt op 1 oktober 2020.
-
-
-| Ontwikkeld | Het ontwikkelen | De groei die nodig is om alle 15 punten te verdienen *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35% |
-| 30-49 | 15-24 | 25% |
-| 50 en hoger | 25 en hoger | 15% |
+*\* Opmerking: de groei doelen variëren op basis van het aantal basis-consultants en de specifieke optie die een partner gebruikt om punten te verkrijgen. Zie [definities voor functionele consultant groei](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)voor meer informatie over de opties om punten te verkrijgen of de specifieke groei doelen van elke optie.*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Gedetailleerde definities van PCI-metrische gegevens
 
@@ -208,13 +196,30 @@ Functionele consultants is een Capability-indicator en een van de zeven belangri
 
 - Functionele consultants worden gedefinieerd als het aantal personen die een momenteel actieve functionele consultant certificerings instantie hebben, zoals een certificerings consultant voor klanten betrokkenheid of een certificerings instantie voor Financiën en operationele consultant.
 
-- Voor certificerings instantie van de klant betrokkenheid moet een individu worden door gegeven: MB-200 **en** een van de volgende: mb-210, mb-220, mb-230, mb-240 of MB6-898.
+- De certificerings instantie voor de IT-consultant van de klant vereist dat er een persoon is die:
+  - MB-200 \* of pl-200<br/>
+  **en** een van de volgende examens:
+  - MB-210, MB-220, MB-230, MB-240 of MB6-898 \* \* .
 
-- Voor de certificerings instantie voor financiering en operationele consultant moet een individu worden door gegeven: MB-300 **en** een van de volgende: mb-310, MB-320, mb-330, MB6-897 of MB6-898.
+- Voor financiering en operationele consultant certificering is een persoon vereist die het volgende moet door geven:
+  - MB-300<br/>
+  **en** een van de volgende examens:
+  - MB-310, MB-320, MB-330, MB-897 \* \* of MB6-898 \* \* .
+
+> [!NOTE]
+> Examens die zijn gemarkeerd met een sterretje ( \* ) worden in de komende maanden buiten gebruik gesteld of vervangen. Zie hieronder voor specifieke details:
+>
+> - Examens die zijn gemarkeerd met één asterisk ( \* ) worden op 31 December 2020 buiten gebruik gesteld. Examens die op 31 december 2020 worden gebruikt, blijven geldig voor de competentie en verlenging tot en met 31 december 2021, indien dit wordt gedaan voordat ze buiten gebruik worden gesteld.
+> - Examens die zijn gemarkeerd met twee sterretjes ( \* \* ) worden buiten gebruik gesteld op 31 januari 2021. Examens op 31 januari 2021 blijven in aanmerking voor competentie-verwezenlijking en verlenging tot 31 januari 2022, indien dit wordt gedaan voordat ze buiten gebruik worden gesteld.
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definities voor PCI-metrische #4-functionele consultant groei
 
-De groei van functionele consultant is een Capability-indicator en een van de zeven belangrijkste partner bijdrage indicatoren die [eerder in dit artikel zijn beschreven](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Hier vindt u meer informatie over hoe de KPI van de functionele consultant wordt gedefinieerd en hoe de punten van deze categorie worden berekend:
+De groei van functionele consultant is een Capability-indicator en een van de zeven belangrijkste partner bijdrage indicatoren die [eerder in dit artikel zijn beschreven](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Een partner heeft een van de twee opties om de alle-of-Nothing-punten (15 of 0 punten) te bereiken die beschikbaar zijn voor deze metriek. Er worden geen gedeeltelijke punten toegekend. 
+
+Hier vindt u meer informatie over hoe de KPI van de functionele consultant wordt gedefinieerd en hoe de punten van deze categorie worden berekend.
+
+**Optie één om punten te verkrijgen:**
 
 - De groei van functionele consultant wordt gedefinieerd als de groei van het aantal gecertificeerde functionele consultant-Associates sinds een basislijn momentopname. De datum van de basislijn momentopname wordt gemaakt op 1 oktober 2020.
 
@@ -224,7 +229,19 @@ De groei van functionele consultant is een Capability-indicator en een van de ze
 
 - Als u in aanmerking wilt komen voor Points, moet u Mini maal **15** functionele consultant-Associates hebben voor ontwikkelde markt partners en **vijf** voor het ontwikkelen van markt partners wanneer de basislijn momentopname wordt gemaakt.
 
-- **Er worden geen gedeeltelijke punten toegekend.** De groei boven op de basislijn momentopname moet voldoen aan of hoger zijn dan de drempel waarden die zijn aangegeven in [tabel 3. Functionele consultant groei](partner-contribution-indicators.md#table-3-functional-consultant-growth).
+- **Er worden geen gedeeltelijke punten toegekend.** De groei boven op de basislijn momentopname moet voldoen aan of hoger zijn dan de drempel waarden die in de volgende tabel worden aangegeven. In de tabel ziet u een **ontwikkelde** en **ontwikkelende** kolom met de functionele consultant basislijn die u nodig hebt om punten te verdienen.
+
+  | Ontwikkeld | Het ontwikkelen | De groei die nodig is om alle 15 punten te verdienen *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35% |
+  | 30-49 | 15-24 | 25% |
+  | 50 en hoger | 25 en hoger | 15% |
+
+**Optie twee om punten te verkrijgen:**
+
+- Ontwikkelde markt partners kunnen 50 of meer functionele consultants tijdig certificeren voor hun eerste op PCI gebaseerde DITe trouwdag. (Het ontwikkelen van markt partners kan 25 of meer functionele consultants in tijd certificeren voor hun eerste op PCI gebaseerde DITe trouwdag.)
+
+- Als u deze drempel bereikt, ontvangt u de volledige 15 punten voor functionele consultant groei van 24 maanden vanaf die datum. Dit betekent dat u het maximum aantal punten voor functionele consultant groei voor twee dit jubileums ontvangt.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>Definities voor PCI-meet #5-ontwikkel aars
 
@@ -234,9 +251,21 @@ Ontwikkel aars is een Capability-indicator en een van de zeven belangrijkste par
 
 - Punten voor de ontwikkel aars-indicator zijn gebaseerd op de moment opname van de huidige maand, met een maximum van 5 beschik bare punten.
 
-- Ontwikkel aars van klant betrokkenheid ontvangen tegoed wanneer ze beide MB-200 door geven **en** een van de volgende: mb-400 of MB2-716.
+- Ontwikkel aars van klant betrokkenheid ontvangen een tegoed wanneer ze het volgende passeren:
+  - PL-400<br/>**or**
+  - MB-200 \* **en** een van de volgende examens:
+    - MB-400 \* of MB2-716\*\*
 
-- Financiële en operationele ontwikkel aars ontvangen tegoed wanneer ze beide MB-300 door geven **en** een van de volgende: mb-500 of MB6-894.
+- Financiële en operationele ontwikkel aars ontvangen een tegoed wanneer ze het volgende passeren:
+  - MB-300<br/>
+  **en** een van de volgende examens:
+  - MB-500 of MB-894\*\*
+
+> [!NOTE]
+> Examens die zijn gemarkeerd met een sterretje ( \* ) worden in de komende maanden buiten gebruik gesteld of vervangen. Zie hieronder voor specifieke details:
+>
+> - Examens die zijn gemarkeerd met één asterisk ( \* ) worden op 31 December 2020 buiten gebruik gesteld. Examens die op 31 december 2020 worden gebruikt, blijven geldig voor de competentie en verlenging tot en met 31 december 2021, indien dit wordt gedaan voordat ze buiten gebruik worden gesteld.
+> - Examens die zijn gemarkeerd met twee sterretjes ( \* \* ) worden buiten gebruik gesteld op 31 januari 2021. Examens op 31 januari 2021 blijven in aanmerking voor competentie-verwezenlijking en verlenging tot 31 januari 2022, indien dit wordt gedaan voordat ze buiten gebruik worden gesteld.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definities voor PCI-metrische #6-nieuwe grote implementaties
 

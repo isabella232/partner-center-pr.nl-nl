@@ -9,18 +9,157 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 841ef4701ef7c973cc7a4fffaa26bb24b8d6f7e9
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: c546885d74f5959dd02c0c7ce0fdbc22f9ff5313
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622147"
+ms.locfileid: "97635987"
 ---
 # <a name="december-2020-announcements"></a>December 2020-aankondigingen
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft partner centrum voor november 2020.
 
 2020 aankondigingen: [april](2020-april.md)  |  [kan](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md) | December
+
+______________
+
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Wijzigingen in de voorbereidings vereisten van de klant voor de Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-17
+- Aanbiedingen/markten
+ 
+### <a name="summary"></a>Samenvatting
+
+Als onderdeel van onze toezeg ging om partners en klanten te helpen hun bedrijf uit te voeren op basis van vertrouwen, zullen we aan het eind van maart 2021 extra klant gegevens aanvragen.
+
+### <a name="impacted-audience"></a>Doel groep
+
+CSP direct-factuur partners en indirecte providers die nieuwe of bestaande klanten hebben in de landen die worden vermeld in de volgende sectie
+
+### <a name="details"></a>Details
+
+Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode voor klant validatie te bieden voor het handelen van klant abonnementen in het CSP-programma. Eind maart 2021 worden de verbeteringen van de Partner Center API en gebruikers interface (UI) geïntroduceerd die van invloed zijn op partners die voldoen aan de volgende criteria:
+
+1. De partner heeft een directe facturerings relatie met micro soft (wat betekent dat de partner een directe factuur partner of een indirecte provider is).
+
+2. De partner doet zaken met nieuwe of bestaande klanten in de volgende landen:
+    - Thailand
+    - Vietnam
+    - Turkije
+    - Polen
+    - Zuid-Afrika
+    - India
+    - Brazilië
+    - Irak
+    - Myanmar
+    - Zuid-Soedan
+    - Saoedi-Arabië
+    - Verenigde Arabische Emiraten
+    - Venezuela
+
+Partners die aan de criteria voldoen, moeten de **juridische id** van een klant (ook wel de **organisatie Inn**) en het **telefoon nummer** van de klant indienen wanneer ze de volgende update of een abonnement voor die klant maken. Deze partners kunnen ook een optionele **middelste naam** voor de klant invoeren.
+
+Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben in november 2020 al geknoeid met een eerdere release.
+
+- Armenië
+- Azerbeidzjan
+- Belarus
+- Hongarije
+- Kazachstan
+- Kirgistan
+- Moldavië
+- Rusland
+- Tadzjikistan
+- Oekraïne
+- Oezbekistan
+
+Partners met klanten in de rest van de wereld hebben de mogelijkheid aan het einde van maart 2021 om de **juridische id**, het **telefoon nummer** en de **middelste naam** voor klanten als optionele Details in te voeren.
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Raadpleeg de technische documentatie en veelgestelde vragen in de verzameling speciale [partners](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richt lijnen.
+- Bereid u voor op het opnemen van de wijzigingen met behulp van partner Center API en webervaring. API/Sdk's zijn beschikbaar voor testen.
+- Zorg ervoor dat u de aanvullende gegevens indient bij het voorbereiden van nieuwe klanten of het wijzigen van bestaande klant gegevens.
+- Als u een CPV-oplossing (configuratie scherm) gebruikt, raadpleegt u uw CPV.
+
+### <a name="questions"></a>Vragen?
+
+Neem contact op met uw belasting adviseur of gemeentelijke belasting dienst als u vragen hebt met betrekking tot de juridische id (ook wel INN of TIN genoemd). Micro soft kan geen ondersteuning bieden voor belasting kwesties. 
+
+Als u ondersteuning nodig hebt voor uw bewerkingen met micro soft, [opent u een service aanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+______________
+
+## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Herinnering: permanente software in het programma Cloud Solution Provider (CSP) is op grote schaal beschikbaar vanaf januari 2021
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-17
+- Uw bedrijf uitbreiden
+ 
+### <a name="summary"></a>Samenvatting
+
+Dit is een herinnering van 19 januari 2021, alle CSP-partners kunnen commerciële licenties voor permanente software verkopen. We introduceren ook nieuwe producten en geografische regio's.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle CSP-partners
+
+### <a name="details"></a>Details
+
+We willen u eraan herinneren dat vanaf **19 januari 2021** alle partners die zijn Inge schreven in het CSP-programma, commerciële, permanente software licenties kunnen verkopen voor on-premises implementatie via CSP. Dit biedt klanten de flexibiliteit om de licentie te bepalen die ze nodig hebben als onderdeel van hun digitale trans formatie.
+
+Het volgende gebeurt ook op dezelfde datum:
+
+- De prijs lijst met een permanente software cryptografie provider wordt opnieuw gepubliceerd in het partner centrum. U vindt deze in het gedeelte **Software** van de pagina [verkoop > prijs & aanbiedingen](https://partnercenter.microsoft.com/pcv/sales) , die extra producten en geografi bevat. Bekijk [hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) de volledige details.
+
+- De functie voor het uitvoeren van partner centrum-software en-licenties voor licentie sleutels worden buiten gebruik gesteld. Zie [aankondiging](https://docs.microsoft.com/partner-center/announcements/2020-september#17) -en partners zullen het Microsoft 365-beheer centrum uitsluitend gebruiken voor dit doel. Dit zorgt voor de veiligste en efficiënte ervaring voor klanten. Meer informatie over de Microsoft 365-beheer centrum-software vindt u in het [overzicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [algemene taken](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)en de mogelijkheden voor het [uitvoeren van licentie sleutels](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+
+### <a name="perpetual-software-in-csp"></a>Permanente software in CSP
+
+Het toevoegen van permanente software aan het CSP-programma in de nieuwe Commerce-ervaring verkort de tijd en kosten die partners nodig hebben om meerdere licentie Programma's te beheren. Dit leidt tot betere verkoop-, operationele en beheer mogelijkheden. Partners kunnen hun bedrijf uitbreiden door diverse oplossingen en beheerde services te bieden met de flexibiliteit om licenties en beheerde services te combi neren voor hybride Cloud omgevingen, waardoor de overstap naar de Cloud verder versnelt. Klanten kunnen profiteren van een vereenvoudigde benadering en meer flexibiliteit bij het aanschaffen van software licenties. Dit aankoop proces is eenvoudig te begrijpen, verbetert het beheer van de licentie middelen rechtstreeks en heeft voorspel bare kosten.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de volgende resources en deel ze met de relevante contact personen in uw organisatie:
+
+- [Permanente CSP-software producten en geografische regio's](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) worden toegevoegd op 19 januari 2021
+
+- Microsoft 365 [overzicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)van het beheer centrum, [algemene taken](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)en mogelijkheden voor het [uitvoeren van licentie sleutels](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+
+- [Verkoop kansen voor partners uitbreiden in het Cloud Solution Provider-programma](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (partner aankondiging)
+
+- [Permanente software in de gereedheids materialen van het programma Cloud Solution Provider Program](https://partner.microsoft.com/resources/collection/software-in-csp#/) , met inbegrip van een overzichts presentatie, licentie richtlijnen, veelgestelde vragen over partners, operationele en technische (SDK/API) webinars en veel meer nuttige bronnen. Gebruik deze [gereedheids toewijzing](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) om snel de juiste informatie te vinden voor uw rol.
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen.
+
+______________
+
+## <a name="online-services-and-software-channel-authorization-guide"></a><a name="6"></a>Autorisatie gids voor Online Services en software kanalen
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-17
+- Functies
+ 
+### <a name="impacted-audience"></a>Doel groep
+
+Directe factuur, indirecte providers en partners in meerdere lagen die deel nemen aan het programma van de Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Details
+
+In overeenstemming met uw micro soft-partner overeenkomst (Zie de sectie **Online Services en software kanaal autorisatie – wijzigingen in de hand leidingen**) micro soft meldt u dat de autorisatie gids voor Online Services en software kanalen wordt bijgewerkt. 
+
+[Hier](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)vindt u een voor beeld van de bijgewerkte hand leiding, met een Redline die aangeeft welke wijzigingen [hier beschikbaar zijn](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf). Deze update wordt van kracht 30 dagen na de datum van deze kennisgeving. Er is op dit moment geen verdere actie nodig.
+
+### <a name="next-steps"></a>Volgende stappen
+
+U hoeft geen actie te ondernemen. Dit is alleen ter informatie.
 
 ______________
 
@@ -37,7 +176,7 @@ Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
 
 ### <a name="details"></a>Details
 
-Aanbieding van Power apps voor het eerst gepland voor 1 december werd enigszins uitgesteld. De aanbieding moet beschikbaar zijn op 16 december 2020. Deze aanbieding is beschikbaar tegen een gereduceerde prijs en heeft een ander belang rijk verschil van de standaard aanbiedingen in het partner centrum.
+Aanbieding van Power apps-aanbiedingen die in eerste instantie voor 1 december 2020 worden gepland, is enigszins uitgesteld. De aanbieding moet beschikbaar zijn op 16 december 2020. Deze aanbieding is beschikbaar tegen een gereduceerde prijs en heeft een ander belang rijk verschil van de standaard aanbiedingen in het partner centrum.
  
 **Details van aanbieding**
 
@@ -83,7 +222,7 @@ ______________
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-12-8
-- Mogelijkheden
+- Functies
 
 ### <a name="impacted-audience"></a>Doel groep
 
@@ -222,7 +361,7 @@ ______________
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-12-3
-- Mogelijkheden
+- Functies
 
 ### <a name="impacted-audience"></a>Doel groep 
 
