@@ -8,19 +8,110 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/02/2020
-ms.openlocfilehash: c546885d74f5959dd02c0c7ce0fdbc22f9ff5313
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.date: 12/17/2020
+ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97635987"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666771"
 ---
 # <a name="december-2020-announcements"></a>December 2020-aankondigingen
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft partner centrum voor november 2020.
 
 2020 aankondigingen: [april](2020-april.md)  |  [kan](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md) | December
+
+______________
+
+## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>Permanente software in CSP: nieuwe producten en geografies
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-17
+- Aanbiedingen
+
+### <a name="impacted-audience"></a>Doel groep
+
+CSP direct-factuur partners, indirecte providers en indirecte wederverkopers
+
+### <a name="details"></a>Details
+
+Omdat we onze commerce mogelijkheden verbeteren om klanten en partners een betere koop ervaring te bieden, wordt de aanbod portefeuille uitgebreid met de beschik baarheid van permanente software licenties binnen het Cloud Solution Provider-programma (CSP). Door de toevoeging van software licenties binnen CSP kunnen deelnemende partners zich richten op het aanbieden van diverse oplossingen en beheerde services aan hun klanten. Daarnaast biedt het klanten de mogelijkheid om de overgang naar de cloud te stimuleren en partners de flexibiliteit te bieden die nodig is voor hybride Cloud omgevingen.
+
+Vanaf 19 januari 2021 zal micro soft alle CSP direct-factuur partners, indirecte providers en indirecte wederverkopers in staat stellen software licenties binnen het CSP-programma te verkopen en we zullen ook extra producten en geografische regio's toevoegen. 
+
+Volledige informatie over permanente software in CSP Zie de gereedheids verzameling:  [permanente software in het Cloud Solution Provider-programma](https://partner.microsoft.com/resources/collection/software-in-csp#/).
+
+### <a name="products"></a>Producten
+
+Deze aanvullende producten worden weer gegeven in de prijs lijst van januari 2021 voor de CSP die wordt gepubliceerd op 19 januari 2020.  Dit is een nieuwe publicatie van de eerste januari 2021 CSP-prijs lijst gepubliceerd op 1 januari 2021.
+
+- Exchange Server Enter prise 2019
+- CAL voor Exchange Server Enter prise 2019-apparaat
+- Exchange Server Enter prise 2019 User CAL
+- Exchange server-standaard 2019
+- Exchange Server Standard 2019-apparaat-CAL
+- Exchange Server Standard 2019 User CAL
+
+### <a name="geographies"></a>Geografische gebieden
+
+Aanvullende geografische grafieken die vanaf 19 januari 2021 beschikbaar zijn voor onbeperkte software in CSP zijn:
+
+|**Beschik bare geografische gebieden**|| | |
+|-----------------------------|-------------------------------|------------|----------------------|
+|Azerbeidzjan|Belarus|Benin|Bhutan|
+|Bonaire, Sint Eustatius en Saba|Bouveteiland|Brazilië|
+|Brits Territorium in de Indische Oceaan|Burkina Faso|Burundi|Cambodja|
+|Centraal-Afrikaanse Republiek|Tsjaad|Christmaseiland|Cocoseilanden|
+|Comoren|Congo|Kongo, Democratische Republiek|Cookeilanden|
+|Djibouti|Equatoriaal-Guinea|Eritrea|Falklandeilanden|
+|Frans-Guyana|Frans-Polynesië|Franse Gebieden in de zuidelijke Indische Oceaan|Gabon|
+|Gambia|Georgië|Gibraltar|Groenland|
+|Grenada|Guadeloupe|Guam|Guernsey|
+|Guinee|Guinee-Bissau|Haïti|Heard- en McDonald-eilanden|
+Heilige stoel|Hongarije|India|Irak|
+|Isle of Man|Jersey|Kazachstan|Kiribati|
+|Zuid-Korea|Kirgistan|Liberia|Madagaskar|
+|Malawi|Maldiven|Mali|Marshalleilanden|
+|Martinique|Mauritanië|Mayotte|Micronesië (Federale Staten van)|
+|Moldavië|Mongolië|Montserrat|Mozambique|
+|Myanmar|Nauru|Nederlandse Antillen|Nieuw-Caledonië|
+|Niger|Niue|Norfolk|Noordelijke Marianen|
+|Palau|Papoea-Nieuw-Guinea|Pitcairn|Polen|
+|Qatar|Réunion|Rusland|Saint Barthélemy|
+|Sint-Helena, Ascension en Tristan da Cunha|Saint Lucia|Saint-Martin (Frans-deel)|Saint-Pierre en Miquelon|
+|Saint Vincent en de Grenadines|Samoa|San Marino|Sao Tomé en principe|
+|Saoedi-Arabië|Seychellen|Sierra Leone|Sint-Maarten (Nederlands deel)|Salomonseilanden|
+|Somalië|Zuid-Afrika|Zuid-Georgië en de Zuidelijke Sandwich-eilanden|Zuid-Soedan|
+|Suriname|Spitsbergen en Jan Mayen|Swaziland|Taiwan|
+|Tadzjikistan|Thailand|Timor-Leste|Togo|
+|Tokelau|Tonga|Turkije|Turkmenistan|
+|Turks- en Caicos-eilanden|Tuvalu|Oekraïne|Verenigde Staten ondergeschikte afgelegen eilanden|
+|Oezbekistan|Vanuatu|Venezuela|Vietnam|
+|Britse Maagdeneilanden|Wallis en Futuna
+
+
+____________
+
+## <a name="government-academic-and-non-profit-continuing-the-open-license-program-changes-and-evolution-of-csp"></a><a name="9"></a>Overheid, onderwijs en non-profit organisatie: door gaan met het Open License-programma wijzigingen en de ontwikkeling van CSP
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-17
+- Uw bedrijf uitbreiden
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle CSP-partners
+
+### <a name="details"></a>Details
+
+Vandaag de dag blijven we op de hoogte van de toekomstige wijzigingen voor [de](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)open bare sector (overheid, onderwijs en non-profit) die worden gekocht via het Open License-programma, evenals gerelateerde wijzigingen aan het programma Cloud solution provider.
+
+### <a name="next-steps"></a>Volgende stappen
+
+De volledige aankondiging is alleen beschikbaar voor micro soft-partners. [Meld u aan om toegang te krijgen tot de volledige aankondiging](https://partner.microsoft.com/resources/detail/public-sector-open-license-csp-evolution-to-a-better-experience-pc-announcement-pdf).
 
 ______________
 

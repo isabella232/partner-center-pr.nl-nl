@@ -6,15 +6,15 @@ description: Meer informatie over het controleren van uw bedrijfs gegevens, zoal
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636004"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666788"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Uw organisatie profiel gegevens verifiëren in het partner centrum
 
@@ -27,13 +27,13 @@ De eerste keer dat u zich bij Partner Center als globale beheerder aanmeldt, moe
 
 Uw partner profiel bestaat uit uw juridische zakelijke gegevens, de naam en het e-mail adres van de primaire contact persoon, de Program ma's waarmee uw bedrijf deelneemt, en, indien van toepassing, uw andere bedrijven die nu onder uw juridische zaken worden samengevoegd. Zorg ervoor dat de bedrijfs naam en het adres in uw juridisch bedrijfs profiel geen spel fouten en afkortingen bevatten en overeenkomen met uw formele zakelijke registratie records voor bedrijven. Als u als enige eigenaar werkt, moet u uw bedrijfs naam gebruiken als uw geldige naam.
 
-1. Ga naar **instellingen** en selecteer **account instellingen**.
+1. Ga naar het **instellingen** pictogram en selecteer **account instellingen**.
  
 1. Selecteer **organisatie profiel**. 
 
 2. Controleer uw **juridische zakelijke profiel**, de **primaire contact gegevens** en de **programma-informatie**.
 
-Als u uw andere bedrijven hebt samengevoegd onder uw juridische zaken, kunt u ook hun gegevens bekijken. 
+Als u uw andere bedrijven hebt samengevoegd onder uw juridische zaken, kunt u deze informatie ook bekijken. 
 
 ## <a name="update-your-legal-business-profile"></a>Uw juridische zakelijke profiel bijwerken
 
@@ -69,8 +69,8 @@ De MPN-ID die is gekoppeld aan uw CSP-account bijwerken:
  
 1. Selecteer **id's** uit **account instellingen**.
 
-1. Gebruik in de sectie **CSP** de **Update** koppeling om de MPN-id bij te werken die is gekoppeld aan uw CSP-account.
- 
+1. Gebruik in de sectie **CSP** de **Update** koppeling om de MPN-id bij te werken die is gekoppeld aan uw CSP-account 
+
 
 ## <a name="update-your-billing-address"></a>Uw facturerings adres bijwerken
 
