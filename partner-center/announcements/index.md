@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622181"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666737"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,15 +22,20 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **December 2020-aankondigingen** | **Aangekondigd** |
 |---------|:---------|:---------|
+|Aanbiedingen/markten|[Onbeperkt geldige software in het CSP-programma:  nieuwe producten en beschikbaarheidsregio's](2020-december.md#10)|17 december|
+|Uw bedrijf laten groeien|[Overheid, hoger onderwijs en non-profitorganisaties: nieuwe wijzigingen in het Open License-programma en verdere ontwikkeling van het CSP-programma](2020-december.md#9)|17 december|
+|Aanbiedingen/markten|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2020-december.md#8)|17 december|
+|Uw bedrijf laten groeien|[Herinnering: vanaf januari 2021 is de onbeperkt geldige software in het Cloud Solution Provider-programma (CSP-programma) op grote schaal beschikbaar](2020-december.md#7)|17 december|
+|Functionaliteit|[Autorisatiehandleiding voor online services en softwarekanalen](2020-december.md#6)|17 december|
 |Aanbiedingen/markten|[Power Apps-aanbieding nu beschikbaar](2020-december.md#5)|16 december|
 |Functionaliteit|[SDK-release in .NET Standard (v1.16.3)](2020-december.md#4)|8 december|
 |Aanbiedingen/markten|[Releaseopmerkingen bij de op licentie gebaseerde prijslijst van december 2020](2020-december.md#3)|8 december|
 |Aanbiedingen/markten|[Binnenkort wordt een update van de US Microsoft 365 Business Voice met een gespreksabonnement aangeboden](2020-december.md#2)|3 december|
-|Functionaliteit|[Nu Live: API-updates en verbeteringen van de gebruikersinterface in Partnercentrum, voor het validatieproces voor Education-klanten](2020-december.md#1)|3 december|
+|Functies|[Nu Live: API-updates en verbeteringen van de gebruikersinterface in Partnercentrum, voor het validatieproces voor Education-klanten](2020-december.md#1)|3 december|
 | **Categorie** | **November 2020-aankondigingen** | **Aangekondigd** |
-|Functionaliteit|[Nieuwe, uniforme accountbeheerervaring](2020-november.md#13)|18 november|
+|Functies|[Nieuwe, uniforme accountbeheerervaring](2020-november.md#13)|18 november|
 |Aanbiedingen/markten|[Office 365 E1 voor mid-market Promo (LATAM, APAC en India)](2020-november.md#12)|18 november|
-|Functies|[Partner Center-API-updates en verbeteringen in de gebruikersinterface (UI) om de klantcontrole in bepaalde landen te verbeteren](2020-november.md#11)|17 november|
+|Functionaliteit|[Partner Center-API-updates en verbeteringen in de gebruikersinterface (UI) om de klantcontrole in bepaalde landen te verbeteren](2020-november.md#11)|17 november|
 |Functies|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2020-november.md#10)|17 november|
 |Functies|[API-beperking voor Partner Center-API's](2020-november.md#9)|17 november|
 |Functies|[409 fouten vanwege dubbele MCA-aanvragen](2020-november.md#8)|16 november|
