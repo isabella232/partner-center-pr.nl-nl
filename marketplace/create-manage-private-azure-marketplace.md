@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
-ms.date: 09/18/2020
-ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.date: 12/22/2020
+ms.openlocfilehash: 09f7bcb29dc619e4e31c0aa3d5c73fade5218819
+ms.sourcegitcommit: 30d154cdf40aa75400be7805cd9b2685b66a1382
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439252"
+ms.lasthandoff: 12/24/2020
+ms.locfileid: "97760807"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Maak en beheer privé Azure Marketplace (preview) in de Azure Portal
 
@@ -38,7 +38,25 @@ U moet aan deze vereisten voldoen voordat u de rol Marketplace-beheerder kunt to
 - U hebt toegang tot een **globale beheerders** gebruiker.
 - De Tenant heeft ten minste één abonnement (kan elk wille keurig type zijn).
 - De gebruiker van de globale beheerder krijgt de rol **Inzender** of hoger voor het gekozen abonnement.
-- De gebruiker van de globale beheerder heeft verhoogde toegang ingesteld op **Ja** (Zie [toegang verhogen om alle Azure-abonnementen en-beheer groepen te beheren](/azure/role-based-access-control/elevate-access-global-admin)).
+
+### <a name="assign-the-marketplace-admin-role-with-iam"></a>De rol Marketplace-beheerder toewijzen met IAM
+
+1. Meld u aan bij [Azure Portal](https://portal.azure.com/).
+1. Selecteer **alle services** en vervolgens **Marketplace**.
+
+   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal hoofd venster.":::
+
+3. Selecteer **privé Marketplace** in de opties aan de linkerkant.
+1. Selecteer **toegangs beheer (IAM)** om de rol Marketplace-beheerder toe te wijzen.
+
+    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Toegangs beheer scherm van IAM.":::
+
+1. Selecteer **+ Toevoegen** > **Roltoewijzing toevoegen**.
+1. Kies onder **rol** **Marketplace-beheerder**.
+
+    :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="Menu functie toewijzing.":::
+
+1. Selecteer de gewenste gebruiker in de vervolg keuzelijst en selecteer vervolgens **gereed**.
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>De rol Marketplace-beheerder toewijzen met Power shell
 
@@ -53,74 +71,83 @@ Gebruik het volgende Power shell-script om de rol Marketplace-beheerder toe te w
 > Gast gebruikers die zijn uitgenodigd voor de Tenant, kunnen tot 48 uur duren totdat hun account beschikbaar is voor het toewijzen van de rol Marketplace-beheerder. Zie [Eigenschappen van een Azure Active Directory B2B-samenwerkings gebruiker](/azure/active-directory/b2b/user-properties)voor meer informatie.
 
 ```PowerShell
-function Assign-MarketplaceAdminRole {
-[CmdletBinding()]
-param(
-[Parameter(Mandatory)]
-[string]$TenantId,
+function Assign-MarketplaceAdminRole { 
+[CmdletBinding()] 
+param( 
+[Parameter(Mandatory)] 
+[string]$TenantId, 
+ 
+[Parameter(Mandatory)] 
+[string]$SubscriptionId, 
 
-[Parameter(Mandatory)]
-[string]$SubscriptionId,
+ 
 
-[Parameter(Mandatory)]
-[string]$GlobalAdminUsername,
+[Parameter(Mandatory)] 
+[string]$GlobalAdminUsername, 
 
-[Parameter(Mandatory)]
-[string]$UsernameToAssignRoleFor
-)
+ 
 
-$MarketplaceAdminRoleDefinitionName = "Marketplace Admin"
+[Parameter(Mandatory)] 
+[string]$UsernameToAssignRoleFor 
+) 
 
-Write-Output "TenantId = $TenantId"
-Write-Output "SubscriptionId = $SubscriptionId"
-Write-Output "GlobalAdminUsername = $GlobalAdminUsername"
-Write-Output "UsernameToAssignRoleFor = $UsernameToAssignRoleFor"
+$MarketplaceAdminRoleDefinitionName = "Marketplace Admin" 
 
-Write-Output "$($GlobalAdminUsername) is about to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)"
+ 
+
+Write-Output "TenantId = $TenantId" 
+Write-Output "SubscriptionId = $SubscriptionId" 
+Write-Output "GlobalAdminUsername = $GlobalAdminUsername" 
+Write-Output "UsernameToAssignRoleFor = $UsernameToAssignRoleFor" 
+
+ 
+
+Write-Output "$($GlobalAdminUsername) is about to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)" 
+
+ 
 
 $profile = Connect-AzAccount -Tenant $TenantId -SubscriptionId $SubscriptionId
 
-if($profile -eq $null)
-{
-Write-Error -Message "Failed to connect to tenant and/or subscription" -ErrorAction Stop
-}
-elseif($profile.Context.Account.Id -ne $GlobalAdminUsername)
-{
-Write-Error "Connected with $($profile.Context.Account.Id) instead of with the global admin that was specified in the script parameters, which is $($GlobalAdminUsername)"
-}
-else
-{
-Write-Output "$($GlobalAdminUsername) was connected successfully to Tenant=$($profile.Context.Tenant), Subscription=$($profile.Context.Subscription), AccountId=$($profile.Context.Account.Id), Environment=$($profile.Context.Environment)"
-}
+ 
 
-$MarketPlaceAdminRole = Get-AzRoleDefinition $MarketplaceAdminRoleDefinitionName
+ 
+if($profile -eq $null) 
+{ 
+Write-Error -Message "Failed to connect to tenant and/or subscription" -ErrorAction Stop 
+} 
+elseif($profile.Context.Account.Id -ne $GlobalAdminUsername) 
+{ 
+Write-Error "Connected with $($profile.Context.Account.Id) instead of with the global admin that was specified in the script parameters, which is $($GlobalAdminUsername)" 
+} 
+else 
+{ 
+Write-Output "$($GlobalAdminUsername) was connected successfully to Tenant=$($profile.Context.Tenant), Subscription=$($profile.Context.Subscription), AccountId=$($profile.Context.Account.Id), Environment=$($profile.Context.Environment)" 
+} 
 
-if($MarketPlaceAdminRole -eq $null)
-{
-Write-Error -Message "'$($MarketplaceAdminRoleDefinitionName)' role is not available" -ErrorAction Stop
-}
-else
-{
-Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is available"
-}
+ 
 
-Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-$elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
+$MarketPlaceAdminRole = Get-AzRoleDefinition $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace"
 
-if($elevatedAccessOnRoot.Count -eq 0)
-{
-Write-Error -Message "$($GlobalAdminUsername) doesn't have permissions to assign '$($MarketplaceAdminRoleDefinitionName)'. Please verify it has elevated access 'On' in portal, https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin" -ErrorAction Stop
-}
-else
-{
-Write-Output "$GlobalAdminUsername has elevated access on root"
-}
+ 
 
-New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace"
+if($MarketPlaceAdminRole -eq $null) 
+{ 
+Write-Error -Message "'$($MarketplaceAdminRoleDefinitionName)' role is not available" -ErrorAction Stop 
+} 
+else 
+{ 
+Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is available" 
+} 
 
-}
+ 
 
-Assign-MarketplaceAdminRole
+Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..." 
+
+New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace" 
+
+} 
+
+Assign-MarketplaceAdminRole 
 ```
 
 Voor meer informatie over de cmdlets in de Power shell-module AZ. Portal, Zie [Microsoft Azure PowerShell: Portal-dash board-cmdlets](/powershell/module/az.portal/).
@@ -191,8 +218,8 @@ Op de pagina Marketplace beheren ziet u een van deze banners, waarin de huidige 
 
 U kunt de persoonlijke Azure Marketplace zo nodig in-of uitschakelen.
 
-1. Als deze optie is uitgeschakeld, selecteert u **privé Marketplace inschakelen** .
-2. Als deze optie is ingeschakeld, selecteert u **privé Marketplace uitschakelen** om uit te scha kelen.
+- Als deze optie is uitgeschakeld, selecteert u **privé Marketplace inschakelen** .
+- Als deze optie is ingeschakeld, selecteert u **privé Marketplace uitschakelen** om uit te scha kelen.
 
 ## <a name="browsing-private-azure-marketplace"></a>Surfen op persoonlijke Azure Marketplace
 
@@ -219,7 +246,7 @@ Hoewel de pagina met product details vergelijkbaar is met de open bare Azure Mar
 
 - Als een selectie van een product plan niet wordt weer gegeven op de pagina product details, maar de beheerder een of meer plannen heeft goedgekeurd, wordt een banner notities **gemaakt** waarvoor plannen zijn toegestaan en wordt de knop maken ingeschakeld:
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Banner van aanbieding voor een abonnement kan worden gemaakt en de beschik bare abonnementen worden weer gegeven.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Banner van aanbieding waarin een plan kan worden gemaakt en de beschik bare abonnementen worden weer gegeven.":::
 
 ## <a name="contact-support"></a>Contact opnemen met ondersteuning
 

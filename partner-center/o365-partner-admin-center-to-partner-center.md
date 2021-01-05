@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527534"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720812"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Partners van Office 365 partner beheer centrum: bereid u voor op het verplaatsen van bedrijfs activiteiten naar het partner centrum
 
@@ -36,9 +36,7 @@ We brengen Office 365 partner beheer centrum functies in het partner centrum om 
 - Verstuur uitnodigingen voor relaties met klanten namens uzelf en uw provider
 - Afzonderlijke gebruikers beheren en licenties gemakkelijker toewijzen
 
-U kunt Partner Center direct gaan gebruiken voor veel van de taken die u momenteel gebruikt voor het gebruik van het Office 365 partner-beheer centrum. 
-
-Voor nu worden beide sites ondersteund, dus wanneer u de overgang naar de nieuwe site uitvoert, kunt u ook het Office 365 partner-beheer centrum gebruiken. Alle wijzigingen die u op één locatie aanbrengt, worden weer gegeven in beide.
+U wordt direct omgeleid naar het partner centrum voor alle taken waarvoor u momenteel het Office 365-partner beheer centrum gebruikt.
 
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>De functies van het beheer centrum voor Office 365-partners zoeken in het partner centrum
 
@@ -46,9 +44,9 @@ Het volt ooien van taken in het partner centrum gebeurt anders in het beheer cen
 
 | Office 365 partner beheer centrum functie                       | Waar is het in Partner Center? | 
 |   -----------------------------------------------  | -------------- |
-| Uw bedrijf bouwen: aankoop aanbieding maken | Werk samen met uw provider om aanbiedingen aan uw klanten te verkopen |
+| Uw bedrijf bouwen: aankoop aanbieding maken | Partner centrum: proef abonnementen en aanbiedingen van aankopen > aankoop aanbieding maken |
 | Uw bedrijf bouwen: machtigingen voor gedelegeerde beheerder aanvragen | Partner centrum: klanten > een wederverkoper-relatie aanvragen |
-| Uw bedrijf bouwen: uitnodigingen voor proef abonnementen maken | Niet beschikbaar. U kunt nog steeds het Office 365 partner-beheer centrum gebruiken voor dit |
+| Uw bedrijf bouwen: uitnodigingen voor proef abonnementen maken | Partner centrum: proef abonnementen en aanbiedingen van aankopen > een uitnodiging maken |
 | Service aanvragen: client lijst: Office 365-beheer centrum | Partner centrum: klanten > Services beheren |
 | Service aanvragen: client lijst: service aanvragen | Partner centrum: aanvragen van een service aanvraag > klant |
 | Service aanvragen: gemarkeerd | Dash board: klanten: Selecteer de ster naast de naam van het bedrijf |

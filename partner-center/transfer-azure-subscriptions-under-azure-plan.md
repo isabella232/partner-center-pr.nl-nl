@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433343"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893203"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>De Azure-plan abonnementen van een klant overdragen naar een andere partner
 
@@ -49,7 +49,7 @@ De klant moet in gesprek zijn met beide partners (huidige en toekomstige) voorda
 
 - De klant houdt de huidige CSP-partner op hun intentie om over te gaan naar overgang
 - Toekomstige CSP-partner werkt samen met de klant om ervoor te zorgen dat aan de behoeften van de klant kan worden voldaan
-- Toekomstige CSP-partner brengt een relatie met de klant tot stand voordat de overgang begint  
+- Toekomstige CSP-partner brengt een relatie met de klant tot stand en koopt een Azure-abonnement voordat de overgang begint  
 - De klant moet de klant overeenkomst van micro soft ondertekenen met een toekomstige CSP-partner
 - Toekomstige CSP-partner moet de micro soft-partner overeenkomst hebben ondertekend om dit hulp programma te gebruiken
 
@@ -90,7 +90,7 @@ De volgende partner van het abonnement moet een aanvraag formulier voor de overd
 
 De beheerder agent van de huidige partner van de klant ontvangt een e-mail dat de klant een overdracht van hun abonnementen heeft aangevraagd:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Beoordelen":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Controleren":::
 
 Bekijk en accepteer het aanvraag formulier voor de overdracht van het partner centrum om de overdracht van het abonnement te volt ooien.
 

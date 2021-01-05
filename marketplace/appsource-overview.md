@@ -6,18 +6,18 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5769326965955762d2c262fd42a099cf745417e6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
+ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007514"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "97771689"
 ---
 # <a name="what-is-microsoft-appsource"></a>Wat is Microsoft AppSource?
 
 Microsoft AppSource is een online winkel met duizenden zakelijke toepassingen en services die zijn gebouwd door toonaangevende software providers. U kunt AppSource gebruiken om de bedrijfs software en-services te zoeken, te uitproberen, te kopen en te implementeren die u helpen bij het uitvoeren van uw bedrijf.
 
-De AppSource-catalogus bevat SaaS-toepassingen (Software as a Service), oplossingen die zijn gebouwd voor Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power apps en Consulting Services van micro soft-partners. U hebt toegang tot de AppSource-product catalogus op [https://appsource.microsoft.com](https://appsource.microsoft.com) , evenals de in-product ervaring in Microsoft 365, Dynamics 365 en micro soft power platform. Oplossingen van AppSource zijn mogelijk ook beschikbaar van micro soft-wederverkopers in het Cloud Solution Provider-programma.
+De AppSource-catalogus bevat SaaS-toepassingen (Software as a Service), oplossingen die zijn gebouwd voor Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power apps en Consulting Services van micro soft-partners. Open de AppSource-product catalogus op [https://appsource.microsoft.com](https://appsource.microsoft.com) of via de in-product ervaring in Microsoft 365, Dynamics 365 en micro soft power platform. Oplossingen van AppSource zijn mogelijk ook beschikbaar van micro soft-wederverkopers in het Cloud Solution Provider-programma.
 
 ## <a name="find-what-you-need-on-appsource"></a>Vind wat u nodig hebt op AppSource
 
@@ -44,11 +44,15 @@ Elk product dat beschikbaar is in AppSource, is gecertificeerd volgens specifiek
 
 ## <a name="terms-and-conditions"></a>Voorwaarden
 
-De software leverancier definieert de prijs, de gebruiksrecht overeenkomst en het privacybeleid. Elk aanbod op AppSource bevat koppelingen naar de gebruiksrecht overeenkomst en het privacybeleid van de uitgever. Het bevestigen van deze overeenkomsten, en het weer geven van een kans om ze te bekijken, maakt deel uit van de inkoop stroom. Zie [juridische contracten](legal-contracts.md) voor meer informatie.
+De software leverancier definieert de prijs, gebruiksrecht overeenkomst en privacybeleid. Elk aanbod op AppSource bevat koppelingen naar de gebruiksrecht overeenkomst en het privacybeleid van de uitgever. Het weer geven en bevestigen van deze overeenkomsten maakt deel uit van de inkoop stroom. Zie [juridische contracten](legal-contracts.md)voor meer informatie.
+
+## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS-en M365-geïntegreerde apps detecteren
+
+Onze partners kunnen een koppeling maken tussen SaaS-en M365-geïntegreerde apps. Zo kunt u de geïntegreerde apps downloaden en gebruiken wanneer u de gekoppelde SaaS-app ophaalt. In dit geval kan het Zoek resultaat alleen de SaaS-app retour neren waarin de pictogrammen van de geïntegreerde apps worden weer gegeven. U kunt navigeren tussen de SaaS en de geïntegreerde app op de pagina Product Details van elke. Als een SaaS-app moet worden aangeschaft, raadpleegt [u SaaS-aanbiedingen aanschaffen op Microsoft AppSource](purchase-software-appsource.md).
 
 ## <a name="find-ratings-and-reviews"></a>Beoordelingen en beoordelingen zoeken
 
-Op elke aanbiedings pagina vindt u beoordelingen en beoordelingen van andere klanten. Classificaties gebruiken een schaal van vijf sterren en de gemiddelde beoordeling wordt weer gegeven op elke kaart. Verbatim revisies zijn ook beschikbaar, zodat u meer te weten kunt komen over de ervaringen van andere klanten. Zodra u een oplossing hebt aangeschaft, kunt u een beoordeling achterlaten en kunnen andere klanten beslissingen nemen.
+Op elke aanbiedings pagina vindt u beoordelingen en beoordelingen van andere klanten. Beoordelingen gebruiken een schaal van vijf sterren en de gemiddelde beoordeling wordt weer gegeven op elke kaart. Verbatim revisies zijn ook beschikbaar, zodat u meer te weten kunt komen over de ervaringen van andere klanten. Zodra u een oplossing hebt aangeschaft, kunt u een beoordeling achterlaten en kunnen andere klanten beslissingen nemen.
 
 ## <a name="next-steps"></a>Volgende stappen
 

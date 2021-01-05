@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666771"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736533"
 ---
 # <a name="december-2020-announcements"></a>December 2020-aankondigingen
 
@@ -22,75 +22,148 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft par
 
 2020 aankondigingen: [april](2020-april.md)  |  [kan](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md) | December
 
-______________
+________________
 
-## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>Permanente software in CSP: nieuwe producten en geografies
+## <a name="unused-channel-incentive-co-operative-marketing-fund-co-op-funds-from-the-fy21-h1-usage-period-to-be-rolled-over-to-the-h2-usage-period"></a><a name="13"></a>Ongebruikt Channel aanmoedigend marketing Fonds (mede-op-op) fondsen van de FY21 H1-gebruiks periode worden doorgevoerd naar de H2-gebruiks periode
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2020-12-17
+- Datum: 2020-12-22
 - Aanbiedingen
+
+### <a name="summary"></a>Samenvatting
+
+Ongebruikte co-a-fondsen voor de gebruiks periode van FY21 H1 (1 juli tot en met 31 december 2020) worden doorgevoerd naar de gebruiks periode van FY21 H2 (1 januari tot 30 juni 2021)
 
 ### <a name="impacted-audience"></a>Doel groep
 
-CSP direct-factuur partners, indirecte providers en indirecte wederverkopers
+Partners die deel nemen aan de Cloud Solution Provider (CSP) direct factuur partner, indirecte provider en indirecte wederverkoper prikkel-Program ma's
 
 ### <a name="details"></a>Details
 
-Omdat we onze commerce mogelijkheden verbeteren om klanten en partners een betere koop ervaring te bieden, wordt de aanbod portefeuille uitgebreid met de beschik baarheid van permanente software licenties binnen het Cloud Solution Provider-programma (CSP). Door de toevoeging van software licenties binnen CSP kunnen deelnemende partners zich richten op het aanbieden van diverse oplossingen en beheerde services aan hun klanten. Daarnaast biedt het klanten de mogelijkheid om de overgang naar de cloud te stimuleren en partners de flexibiliteit te bieden die nodig is voor hybride Cloud omgevingen.
+We herkennen de voortdurende impact van deze uitdagende tijden voor onze partners en hun klanten. Om partners een extra flexibiliteit te bieden, geven we een eenmalige overschakeling van ongebruikte mede-op-fondsen van de huidige FY21 H1-gebruiks periode, die loopt van 1 juli tot en met 31 december 2021. Mede-op-fondsen worden beloond als onderdeel van uw winst derving en kunnen worden geclaimd voor in aanmerking komende marketing-, vraag-en gereedheids activiteiten.
 
-Vanaf 19 januari 2021 zal micro soft alle CSP direct-factuur partners, indirecte providers en indirecte wederverkopers in staat stellen software licenties binnen het CSP-programma te verkopen en we zullen ook extra producten en geografische regio's toevoegen. 
+Met deze rollover kunnen ongebruikte bedragen op basis van uw account die na het sluiten van de H1-claim periode resteren, worden gebruikt voor in aanmerking komende activiteiten tijdens de FY21 H2-gebruiks periode, die loopt van 1 januari tot 30 juni 2021.  
 
-Volledige informatie over permanente software in CSP Zie de gereedheids verzameling:  [permanente software in het Cloud Solution Provider-programma](https://partner.microsoft.com/resources/collection/software-in-csp#/).
+Claims moeten binnen 45 dagen na voltooiing van de activiteit worden ingediend via het [claim hulpprogramma](https://partner.microsoft.com/dashboard/incentives/claims/web/) van partner centrum en worden geaccepteerd tot 15 augustus 2021.
 
-### <a name="products"></a>Producten
+U kunt het saldo van uw mede-op controleren in het [dash board](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)voor de resultaten van uw partner centrum. Raadpleeg de verzameling op de micro soft partner [-](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) website voor aanvullende informatie over in aanmerking komende activiteiten, claims indienen en meer.
 
-Deze aanvullende producten worden weer gegeven in de prijs lijst van januari 2021 voor de CSP die wordt gepubliceerd op 19 januari 2020.  Dit is een nieuwe publicatie van de eerste januari 2021 CSP-prijs lijst gepubliceerd op 1 januari 2021.
+### <a name="next-steps"></a>Volgende stappen
 
-- Exchange Server Enter prise 2019
-- CAL voor Exchange Server Enter prise 2019-apparaat
-- Exchange Server Enter prise 2019 User CAL
-- Exchange server-standaard 2019
-- Exchange Server Standard 2019-apparaat-CAL
-- Exchange Server Standard 2019 User CAL
+- Blijf marketing, het genereren van de vraag en de gereedheids inspanningen en verzend claims voor in aanmerking komende activiteiten binnen 45 dagen na voltooiing.
+- Controleer regel matig rekening houdend op het saldo van uw account om ervoor te zorgen dat u het volledige bedrag gebruikt door het einde van de H2-gebruiks periode op 30 juni 2021.
 
-### <a name="geographies"></a>Geografische gebieden
+### <a name="questions"></a>Vragen?
 
-Aanvullende geografische grafieken die vanaf 19 januari 2021 beschikbaar zijn voor onbeperkte software in CSP zijn:
+U vindt aanbevolen stappen en Help-artikelen voor vragen met betrekking tot prikkels door "prikkels" te typen in de zoek balk op de start pagina van het partner centrum. Als u meer hulp nodig hebt, kunt u rechtstreeks een [ondersteunings aanvraag](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) maken in het partner centrum. Meer informatie vindt u op [aka.MS/IncentivesSupport](https://aka.ms/IncentivesSupport).
 
-|**Beschik bare geografische gebieden**|| | |
-|-----------------------------|-------------------------------|------------|----------------------|
-|Azerbeidzjan|Belarus|Benin|Bhutan|
-|Bonaire, Sint Eustatius en Saba|Bouveteiland|Brazilië|
-|Brits Territorium in de Indische Oceaan|Burkina Faso|Burundi|Cambodja|
-|Centraal-Afrikaanse Republiek|Tsjaad|Christmaseiland|Cocoseilanden|
-|Comoren|Congo|Kongo, Democratische Republiek|Cookeilanden|
-|Djibouti|Equatoriaal-Guinea|Eritrea|Falklandeilanden|
-|Frans-Guyana|Frans-Polynesië|Franse Gebieden in de zuidelijke Indische Oceaan|Gabon|
-|Gambia|Georgië|Gibraltar|Groenland|
-|Grenada|Guadeloupe|Guam|Guernsey|
-|Guinee|Guinee-Bissau|Haïti|Heard- en McDonald-eilanden|
-Heilige stoel|Hongarije|India|Irak|
-|Isle of Man|Jersey|Kazachstan|Kiribati|
-|Zuid-Korea|Kirgistan|Liberia|Madagaskar|
-|Malawi|Maldiven|Mali|Marshalleilanden|
-|Martinique|Mauritanië|Mayotte|Micronesië (Federale Staten van)|
-|Moldavië|Mongolië|Montserrat|Mozambique|
-|Myanmar|Nauru|Nederlandse Antillen|Nieuw-Caledonië|
-|Niger|Niue|Norfolk|Noordelijke Marianen|
-|Palau|Papoea-Nieuw-Guinea|Pitcairn|Polen|
-|Qatar|Réunion|Rusland|Saint Barthélemy|
-|Sint-Helena, Ascension en Tristan da Cunha|Saint Lucia|Saint-Martin (Frans-deel)|Saint-Pierre en Miquelon|
-|Saint Vincent en de Grenadines|Samoa|San Marino|Sao Tomé en principe|
-|Saoedi-Arabië|Seychellen|Sierra Leone|Sint-Maarten (Nederlands deel)|Salomonseilanden|
-|Somalië|Zuid-Afrika|Zuid-Georgië en de Zuidelijke Sandwich-eilanden|Zuid-Soedan|
-|Suriname|Spitsbergen en Jan Mayen|Swaziland|Taiwan|
-|Tadzjikistan|Thailand|Timor-Leste|Togo|
-|Tokelau|Tonga|Turkije|Turkmenistan|
-|Turks- en Caicos-eilanden|Tuvalu|Oekraïne|Verenigde Staten ondergeschikte afgelegen eilanden|
-|Oezbekistan|Vanuatu|Venezuela|Vietnam|
-|Britse Maagdeneilanden|Wallis en Futuna
+________________
 
+## <a name="docusign-migration-to-adobe-sign-in-2021-for-partners-who-have-microsoft-partner-agreements-mpas"></a><a name="12"></a>DocuSign migratie naar Adobe Sign in 2021 voor partners met micro soft-partner overeenkomsten (MPAs)
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-22
+- Mogelijkheden: verbetert beveiliging & naleving
+
+### <a name="summary"></a>Samenvatting
+
+Micro soft gaat de verwerking van de elektronische hand tekening van DocuSign naar Adobe-ondertekenen.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Cloud Solution Provider-partners (CSP) met micro soft-partner overeenkomsten (MPAs)
+
+### <a name="details"></a>Details
+
+Adobe Sign is de voor Keurs-oplossing voor elektronische hand tekeningen (ESS) van micro soft. In januari 2021 gaat micro soft de verwerking van de elektronische hand tekening vanuit DocuSign naar Adobe ondertekenen, te beginnen met MPAs. U moet een soepele overgang verwachten. Na de migratie ontvangt u e-mail berichten van een [adobesign@adobesign.com](mailto:adobesign@adobesign.com) account, waarmee u een koppeling naar een nieuwe handtekening omgeving krijgt. Voor de beste ervaring voegt [adobesign@adobesign.com](mailto:adobesign@adobesign.com) u toe aan uw lijst met veilige afzenders.
+
+De overgang naar Adobe Sign zorgt voor een veilige en efficiënte elektronische hand tekening waarmee klanten en partners meerwaarde kunnen bieden. U krijgt meer informatie over accounts migratie plannen voor Adobe-aanmelding in januari 2021.  
+
+### <a name="next-steps"></a>Volgende stappen
+
+Deel deze informatie met de juiste belanghebbenden in uw organisatie. Er worden in januari 2021 meer informatie over de migratie verzonden.
+
+### <a name="questions"></a>Vragen?
+
+Als u vragen hebt, neemt u contact op met uw regionale Operations Center met het hulp programma voor oproep registratie (CLT) op [https://clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) of via [Explore.MS](https://www.explore.ms/publichome.aspx). Volg het standaard CLT-proces nauw keurig zodat we zo snel mogelijk uw query kunnen omzetten.
+
+______________
+
+## <a name="january-2021-pricing-and-catalog-schedules"></a><a name="11"></a>Prijs-en catalogus planningen van januari 2021
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-22
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+Directe en indirecte providers die deel nemen aan het programma Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Details
+
+De prijzen van het partner centrum en catalogus updates die normaal gesp roken op de eerste dag van de maand worden gepland, hebben een kleine wijziging in de planning voor januari 2021. Alle prijs bestanden zijn zo gebruikelijk dat deze beschikbaar zijn op 31 december 2020 bij ongeveer 18:00 uur Pacific (standaard tijd). De onderstaande updates die normaal gesp roken op de eerste dag van de maand optreden, zullen echter iets worden vertraagd. 
+
+- De prijs lijsten op basis van het gebruik van Azure worden tot eind datum 4 januari 2021 vertraagd. De op 1 januari 2021 op Azure-gebruik gebaseerde prijs bestanden hebben slechts een prijs van Maxi maal december 21 2020. Op 4 januari worden de bestanden bijgewerkt.
+- De prijs bestanden op basis van licenties zijn bijgewerkt op 1 januari 2021, maar er is een lichte vertraging tot er nieuwe aanbiedingen beschikbaar zijn in de catalogus voor aankoop. Catalogus updates op basis van licenties zijn gepland voor 5 januari 2021 tot 17:00 uur PST. 
+
+Houd er rekening mee dat alle andere prijslijst bestanden volgens de planning op het gebruikelijke schema beschikbaar moeten zijn, maar dat de bovenstaande twee producten enigszins worden vertraagd.
+
+### <a name="next-steps"></a>Volgende stappen
+
+In samen vatting zijn de onderstaande prijs bestanden beschikbaar zoals gebruikelijk op 31 december 2020 bij ongeveer 18:00 uur PST:
+
+- Lijst met prijzen op basis van licentie en lijst matrix voor aanbiedingen
+- Op gebruik gebaseerde prijs bestanden, maar alleen met updates tot 21 december 2020
+- Prijs lijsten voor reserve ringen op basis van gebruik
+- Prijs lijsten voor software abonnementen
+- Lijst met onbeperkte software prijzen
+- Prijs lijsten voor verbruik van Azure-abonnementen
+- Prijs lijsten voor reserve ringen van Azure plan
+- Verbruik wisselkoers tarieven van Azure-plan
+
+Het volgende prijs bestand wordt bijgewerkt door de 18:00 uur-PST van 4 januari 2021:
+
+- Op gebruik gebaseerde prijs bestanden
+
+De catalogus van de partner centrum wordt vernieuwd met updates van januari 2021 van 18:00 uur PST van 5 januari 2021.
+ 
+______________
+
+## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Microsoft 365 ondersteuning voor apps en services van Internet Explorer 11 en micro soft Edge verouderde aankondiging
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2020-12-21
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+IT-beheerders, IT-besluit vormers, Chief Information officers en eind gebruikers
+
+### <a name="details"></a>Details
+
+Microsoft 365-abonnees, in zowel consumenten-als commerciële contexten, worden goed geleverd met deze wijziging via snellere en meer responsieve webtoegang tot meer functies van sluit zoals Outlook, teams, share point en meer.
+
+De nieuwe micro soft Edge is onze beste expressie van een moderne browser en we zijn enthousiast voor klanten. Nu we de nieuwe micro soft Edge hebben verzonden en het grootste deel van onze Windows 10-klanten naar de nieuwe browser hebben bijgewerkt, bieden we ondersteuning voor de verouderde desktop-app van micro soft Edge.
+
+**Gevolgen van de wijziging**
+
+- Vanaf **November 30 2020** kunnen klanten geen verbinding meer maken met de Web-App van micro soft teams in Internet Explorer 11. Micro soft is van mening dat klanten optimaal gebruikmaken van Microsoft 365 en de beste expressie van een moderne browser bij gebruik van de [nieuwe micro soft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+- Na **9 2021 maart** kunnen apps en sites die zijn gemaakt voor micro soft Edge verouderd blijven werken in de nieuwe micro soft Edge, maar als er sprake is van een compatibiliteits probleem, is er voor de [app gegarandeerd](https://aka.ms/appassure) dat er ondersteuning wordt geboden.
+- Na **17 2021 augustus** hebben klanten een gedegradeerde ervaring of kunnen ze geen verbinding maken met Microsoft 365-apps en-services in Internet Explorer 11. Micro soft is van mening dat klanten optimaal gebruikmaken van Microsoft 365 en de beste expressie van een moderne browser bij gebruik van de [nieuwe micro soft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Lees het blog bericht voor meer informatie over de aankondiging.
+- Gebruik deze mogelijkheid om contact op te nemen met uw partners om te helpen bij het implementeren van de nieuwe micro soft Edge.
+- Aanvullende bronnen en meer informatie: [Edge YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) of [Edge-acceptatie](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+
+### <a name="questions"></a>Vragen
+
+Neem contact op met het [commerciële Zoek gtm-team](mailto:CommercialSearchGTM@microsoft.com?subject=Internet%20Explorer%2011%20and%20Microsoft%20Edge%20legacy%20announcement) voor vragen.
 
 ____________
 
@@ -99,7 +172,7 @@ ____________
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-12-17
-- Uw bedrijf uitbreiden
+- Uw bedrijf laten groeien
 
 ### <a name="impacted-audience"></a>Doel groep
 
@@ -189,7 +262,7 @@ ______________
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-12-17
-- Uw bedrijf uitbreiden
+- Uw bedrijf laten groeien
  
 ### <a name="summary"></a>Samenvatting
 
@@ -295,11 +368,11 @@ De onderstaande aanbiedings gegevens voor deze aanbieding vindt u in de matrix m
 
 - Inrichtings-ID: POWERAPPS_PER_APP
 - Duur: 1 jaar
-- Facturerings frequentie: maandelijks; Verstrekt
+- Facturerings frequentie: maandelijks of jaarlijks
 - Min. aantal seats: 200
 - Maximum aantal stoelen: 10000000
 - Limiet voor aanbiedingen: geen
-- Toegestane landen: Amerikaanse ondergeschikte afgelegen eilanden Engels (Franse zuidelijke gebieden); Bouvet eiland; Brits territorium in de Indische Oceaan; Jemen Heard-en Mc Donald-eilanden; Wallis en Futuna; Vanuatu Antarctica; Tuvalu Somalië Tokelau; Sierra Leone; Swaziland Sint-Helena, Ascension en Tristan da Cunha; Sao Tomé en principe; Pitcairneilanden; Palau Salomons eilanden Nauru Niue; Norfolk eiland; Varen Noordelijke Marianen; Lesotho Kiribati Equatoriaal-Guinea; Guinee-Bissau; Cook eilanden; Eritrea Christmas eiland; Burkina Faso; Centraal-Afrikaanse Republiek; Kosovo Cocoseilanden; Spits bergen en Jan Mayen; Åland; Zuid-Soedan; Zuid-Georgië en de zuidelijke Sandwich eilanden Samoa Saint--Barthélemy; Britse Maagden eilanden Saint-Pierre en Miquelon; Tsjaad Niger Montserrat Guyana Haïti Gambia Guam Parel Gabon Grenada Gibraltar Guernsey Liberia Micronesia Falklandeilanden; Dominica; Djibouti; Congo Congo (DRC); Zimbabwe Amerikaans-Samoa; Zambia Zuid-Afrika; Mayotte Vietnam Saint Vincent en de Grenadines; Amerikaanse Maagden eilanden Venezuela Heilige stoel (Vaticaan stad); Oekraïne Oeganda Oezbekistan Verenigde Staten; Uruguay Tanzania Taiwan Trinidad en Tobago; Turkije Tunesië Tonga Oost-leste; Turkmenistan Tadzjikistan Thai Togo El Salvador; Sint-Maarten; Turks-en Caicos-eilanden; Suriname Singapore Trad San Marino; Senegal Slowaakse Zweden Seychell Saudi-Arabië; Servië Rwanda Werd Roemenië Réunion Qatar Paraguay Portugal Filipijnen Palestijnse gebieden, bezet; Polen Puerto Rico; Pakistan Peru Panama Papoea-Nieuw-Guinea; Frans-Polynesië; Nieuw-Zeeland; Oman; Nepal Nl Noor wegen Nigeria Nicaragua Nieuw-Caledonië; Namibië Mozambique Maleisië Mexico Martinique Malawi Maldiv Mauritius Malta Myanmar Macau SAR; Mongolië Mali Madagaskar Marshall eilanden; Macedonië, voormalige Joegoslavische Republiek; Montenegro Saint-Martin; Marokko Monaco Werden Letland Libië Luxemburg Libanon Saint Lucia; Litouwen Sri Lanka; Caymaneilanden; Liechtenstein Laos Kazachstan Koeweit Koreaanse Comoren Cambodja Saint Kitts en Nevis; Kenia Kirgizië Japan Jordanië Jamaica Jersey; Italië; IJsland; Irak; Ierland; India; Indonesië; Isle of man; Honduras; Israël; Hongarije Hong Kong SAR; Kroatië Guatemala Griekse Guadeloupe Frans-Guyana; Heilbot Ghana Faeröer eilanden; Verenigd Konink rijk; Georgië Rijk Fiji Ethiopië Finland Ligt Betreft Estland Ecuador; Dominicaanse Republiek; Algerije Duitsland; Denemarken; Cyprus Tsjechië; Curaçao; Kaapverdië; Costa Rica; Chili Kameroen Colombia Côte d'Ivoire; Benelux Zwitser Belize Land Botswana Ngultrum Bahama's Bonaire, Sint Eustatius en Saba; Braziliaan Benin Brunei Bermuda Bolivia België Bulgarije Bahrein Burundi Bosnië en Herzegovina; Bangladesh Barbados Azerbeidzjan Aruba Australië Vestiging Oosten rijk Angola Armenië Afghanistan Albanië Anguilla Andorra Verenigde Arabische Emiraten; Antigua en Barbuda
+- Toegestane landen: Amerikaanse ondergeschikte eilanden, Engels (Franse zuidelijke gebieden), Bouvet eiland, Brits territorium in de Indische Oceaan Jemen, Heard en Mc Donald eilanden, Wallis en Futuna, Vanuatu, Antarctica, Tuvalu, Somalië, Tokelau, Sierra Leone, Swaziland, Sint-Helena, Ascension, Tristan da Cunha, SÃ £ o TomÃ © en PrÃncipe, Pitcairneilanden, Palau, Salomons eilanden, Nauru, Niue, Norfolk eiland, Mauritanië, Noordelijke Marianen, Lesotho, Kiribati, Equatoriaal-Guinea, Guinee-Bissau , Cook eilanden, Eritrea, Christmas eiland, Burkina Faso, Centraal-Afrikaanse Republiek, Kosovo, Cocos (Keeling) eilanden, spits bergen en Jan Mayen, Ã... land eilanden, Zuid-Soedan, Zuid-Georgië en de zuidelijke Sandwich eilanden, Samoa, Saint BarthÃ © lemy, Britse Maagden eilanden, Saint-Pierre en Miquelon, Tsjaad, Niger, Montserrat, Guyana, Haïti, Gambia, Guam, Guinee, Gabon, Grenada, Gibraltar, Guernsey, Liberia, Micronesia, Falklandeilanden, Dominica, Djibouti, Congo, Congo (DRC), Zimbabwe, Amerikaans-Samoa, Zambia, Zuid-Afrika, Mayotte, Vietnam, Saint Vincent en de Grenadines, Amerikaanse Maagden eilanden, Venezuela, Heilige stoel (Vaticaan stad) , Oekraïne, Uganda, Oezbekistan, Verenigde Staten, Uruguay, Tanzania, Taiwan, Trinidad en Tobago, Turkije, Tunesië, Tonga, Oost-Leste, Turkmenistan, Tadzjikistan, Thai land, Togo, El Salvador, Sint-Maarten, Turks-en Caicos-eilanden, Suriname, Singapore, Slovenië, San Marino, Senegal, Slowakije, Zweden, Seychellen, Saoedi-Arabië, Servië, Rwanda, Rusland, Roemenië, RÃ © Unie, Qatar, Paraguay, Portugal, Filipijnen, Palestijnse, Peru, Panama, Papoea-Guinea, Pakistan, Nederlands-Polynesië , Nieuw-Zeeland, Oman, Nepal, Nederland, Noor wegen, Nigeria, Nicaragua, Nieuw-Caledonië, Namibië, Mozambique, Maleisië, Mexico, Martinique, Malawi, Maldiven, Mauritius, Malta, Myanmar, Macau SAR, Mongolië, Mali, Madagaskar, Marshall eilanden, Macedonië, FYROM, Montenegro, Saint-Martin, Marokko, Monaco, Moldavië, Letland, Libië, Luxemburg, Libanon, Saint Lucia, Litouwen, Sri Lanka, Caymaneilanden, Luxembourg, Laos, Kazachstan, Koeweit, Korea, Comoren, Cambodja, St Kitts en Nevis, Kenia, Kirgizië, Japan, Jordanië , Jamaica, Jersey, Italië, IJsland, Irak, Ierland, India, Indonesië, Isle of man, Honduras, Israël, Hongarije, Hong Kong SAR, Kroatië, Guatemala, Grieken land, Guadeloupe, Frans-Guyana, groen land, Ghana, Faeröer, Verenigd Konink rijk, Georgië, Frank rijk, Fiji, Ethiopië, Finland, Spanje, Egypte, Estland, Ecuador, Dominicaanse Republiek, Algerije, Duitsland, Denemarken, Cyprus, Tsjechië, CuraÃ § ao, Kaapverdië, Costa Rica, Chili, Kameroen, Colombia, CÃ ́te dâ €™ Ivoire, Canada, Zwitser land , Belize, Belarus, Botswana, Bhutan, Bahama's, Bonaire, Sint Eustatius en Saba, Brazilië, Benin, Brunei, Bermuda, Bolivia, België, Bulgarije, Bahrein, Burundi, Bosnië en Herzegovina, Bangladesh, Barbados, Azerbeidzjan, Aruba, Australië, Argentinië, Oosten rijk, Angola, Armenië, Afghanistan, Albanië, Anguilla, Andorra, Verenigde Arabische Emiraten, Antigua en Barbuda
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -355,7 +428,7 @@ ______________
 
 ### <a name="summary"></a>Samenvatting 
 
-De prijs lijst en de lijst matrix voor de aanbieding van december 2020 bevat enkele problemen.
+De prijs lijst en de lijst matrix voor de aanbieding van december 2020 bevatten enkele problemen.
 
 ### <a name="impacted-audience"></a>Doel groep 
 
@@ -375,7 +448,7 @@ De prijs lijsten op basis van een licentie bevatten de onderstaande aanbiedingen
    |Dynamics 365 human resources zijn gekoppeld aan het kwalificeren van de Dynamics 365 base-aanbieding (prijzen voor non-profit organisaties)|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
    |Dynamics 365 human resources zijn gekoppeld aan het kwalificeren van de Dynamics 365 base-aanbieding (prijzen voor non-profit organisaties) (gekwalificeerde aanbieding)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
    |Dynamics 365 Human Resources sandbox (prijzen voor non-profit organisaties)|079ec5ba-d726-4384-95af-62d135c210d2|
-   |Dynamics 365 Human Resources self-service (prijzen voor non-profit organisaties)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
+   |Dynamics 365 Human Resources Self-Service (prijzen voor non-profit organisaties)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
    |Dynamics 365 bewerkingen: order regels (prijzen voor non-profit organisaties)|7dd6b78a-3d53-47f8-8a64-bd84609a9a70|
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Onjuiste aanbiedingen in de matrix voor de aanbiedings lijst

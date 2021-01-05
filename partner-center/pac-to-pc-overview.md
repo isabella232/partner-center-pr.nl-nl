@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528734"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720829"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Partner beheer centrum wordt verplaatst naar het partner centrum
 
@@ -41,13 +41,10 @@ Tijdens 2018 april wordt PAC buiten gebruik gesteld en CSP-partners worden autom
 
 - Partners van Cloud solutions provider: als u een CSP-partner bent, wordt u automatisch omgeleid naar het partner centrum vanaf april 2018.
 
-- Advisor-partners (als u geen gebruikmaakt van Transact via CSP en PAC gebruikt voor het leveren van tests/citaten voor uw klanten): zodra we besluiten op de tijd lijn voor uw automatische omleiding naar partner Center, zullen we deze hier aankondigen.
+- Advisor-partners (als u geen gebruikmaakt van de cryptografie provider en PAC gebruikt voor het leveren van tests/citaten voor uw klanten): als u een Advisor-partner bent, wordt u automatisch omgeleid naar het partner centrum vanaf juni 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Ga nu aan de slag met het micro soft Partner Center.
 
 Ga nu aan de slag met [het micro soft Partner Center](https://partnercenter.microsoft.com/) om te beginnen met de OVERSTAP van Pac.  U gebruikt dezelfde referenties voor het partner centrum dat u voor PAC gebruikt.
 
-> [!IMPORTANT]  
-> Sommige functies en functies die beschikbaar waren in PAC, zijn niet beschikbaar in het partner centrum.
-
- Lees de [side-by-side-vergelijking](moving-from-pac-to-pc.md) om te begrijpen en vertrouwd te raken met deze wijzigingen. 
+Lees de [side-by-side-vergelijking](moving-from-pac-to-pc.md) om te begrijpen en vertrouwd te raken met deze wijzigingen.
