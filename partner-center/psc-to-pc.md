@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
+ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916844"
+ms.locfileid: "97950583"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -321,7 +321,7 @@ Het partner centrum is niet rechtstreeks toegankelijk via uw PDMs, zoals bij een
 - Gast gebruiker in Partner Center: u kunt uw PDM- @microsoft.com account toevoegen als gast gebruiker in Partner Center en hieraan een rol voor verwijzings beheerder toewijzen, zodat deze verwijzingen kunnen weer geven en er acties op worden uitgevoerd.
 - Een [nieuwe gebruiker](./create-user-accounts-and-set-permissions.md#add-a-new-user) maken in uw Tenant: u kunt een nieuwe gebruiker maken in uw eigen Tenant en deze gegevens delen met de PDM, zodat ze kunnen worden weer gegeven en er kan worden gereageerd op verwijzingen die vergelijkbaar zijn met andere referral-gebruikers in uw account.
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>De juiste MPN-ID zoeken als uw account in PSC niet is gekoppeld aan een ongeldige MPN
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>De juiste MPN-ID zoeken als uw account in PSC niet is gekoppeld aan een geldige MPN
 
 Als u hier een span doek hebt gezien in een PSC met de melding ' PSC ongeldig MPN-ID-koppelings probleem ', bent u op de juiste plaats.
 
