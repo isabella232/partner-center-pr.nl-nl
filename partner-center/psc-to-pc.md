@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776901"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916844"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -320,6 +320,20 @@ Het partner centrum is niet rechtstreeks toegankelijk via uw PDMs, zoals bij een
 - OCP Insights: als PDMs alleen de deals en de voortgang die eraan zijn gerelateerd weer geven, kunnen ze gebruikmaken van de OCP Insights-Portal om uw organisatie weergave te krijgen. Dit is een intern hulp programma dat alleen beschikbaar is voor PDMs. U ziet dat OCP Insights niet beschikbaar is voor de gebruikers van uw bedrijf.
 - Gast gebruiker in Partner Center: u kunt uw PDM- @microsoft.com account toevoegen als gast gebruiker in Partner Center en hieraan een rol voor verwijzings beheerder toewijzen, zodat deze verwijzingen kunnen weer geven en er acties op worden uitgevoerd.
 - Een [nieuwe gebruiker](./create-user-accounts-and-set-permissions.md#add-a-new-user) maken in uw Tenant: u kunt een nieuwe gebruiker maken in uw eigen Tenant en deze gegevens delen met de PDM, zodat ze kunnen worden weer gegeven en er kan worden gereageerd op verwijzingen die vergelijkbaar zijn met andere referral-gebruikers in uw account.
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>De juiste MPN-ID zoeken als uw account in PSC niet is gekoppeld aan een ongeldige MPN
+
+Als u hier een span doek hebt gezien in een PSC met de melding ' PSC ongeldig MPN-ID-koppelings probleem ', bent u op de juiste plaats.
+
+Zoek eerst de juiste MPN-ID door de onderstaande stappen te volgen
+
+- Aanmelden bij uw partner centrum-account
+- Gebruik de instructies in de [account instellingen documentatie](./partner-center-account-setup.md#locate-your-mpn-id) om de MPN-id te vinden.
+
+Volgende,
+
+- Als u een PDM hebt, vraagt u deze om uw MPN-ID te corrigeren met de juiste MPN-ID van uw partner Center-account.
+- Als u geen PDM hebt, stuurt u een e-mail bericht naar het adres dat is opgegeven in het vaandel banner met de informatie over de PSC-account die wordt weer gegeven in de PSC-banner en de juiste MPN-ID van uw partner centrum-account.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Resources die u helpen bij het maken en beheren van uw deals in Partner Center
 

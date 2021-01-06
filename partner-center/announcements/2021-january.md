@@ -9,20 +9,39 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 7a499c8c0fc64d00dcc8efe56f4bd5830d5e23bd
-ms.sourcegitcommit: 87677b45535a7b9d9ebd9afcbe4ea2491b4a1f52
+ms.openlocfilehash: 827d4d732e8aa5ff7e343ef3732ff0036eb8d628
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97902666"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916793"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Partner Center voor januari 2021.
 
+2021 aankondigingen: [januari](2021-january.md)
+
 2020 aankondigingen: [mei](2020-may.md)van juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md) | 13
 
 ________________
+## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Afschaffing en buiten gebruik stellen van bestaande Api's voor het door geven van de educatie van het onderwijs en voor de vorming van kwalificaties voor het einde van februari 2021
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners die academische aanbiedingen verkopen via het Cloud Solution Provider-programma met behulp van de Partner Center-API
+
+### <a name="details"></a>Details 
+
+Dit is een follow-up van de API-verbeteringen die zijn uitgebracht in december 2020. In 2020 december zijn de nieuwe GET-en POST-kwalificaties-Api's uitgebracht, en als gevolg hiervan worden de oude Api's voor het ophalen en plaatsen van de kwalificatie beëindigd na het einde van februari 2021. Op dat moment moet u de nieuwe Api's van het hulp programma voor het ophalen en POST Partner Center gebruiken om opleidings aanbiedingen te kunnen kopen. 
+
+## <a name="next-steps"></a>Volgende stappen
+
+- Als u dit nog niet hebt gedaan, moet u bijwerken naar de nieuwe Api's voor een geslaagde en tijdige overgang.
+- Bekijk de nieuwe API-wijzigingen van het partner centrum en [richt u op de resources voor de bewerkings voorbereiding: Partner Center onderwijs van klant validatie proces verbeteringen](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- Deel deze informatie met de juiste teams in uw organisatie en met uw wederverkopers om hen te helpen deze wijzigingen voor te bereiden.
+
+_____________
 
 ## <a name="dynamics-365-offers-for-february-2021"></a><a name="1"></a>Dynamics 365-aanbiedingen voor februari 2021
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514757"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916827"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners
 
@@ -50,7 +50,7 @@ Als u wilt blijven deel nemen aan het CSP-programma, moet u de micro soft-partne
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Bevestig dat u bent ingeschreven als een CSP Indirect Reseller
 
-1. Als u zich nog niet hebt geregistreerd als een [indirecte CSP-dealer](enrolling-in-the-csp-program.md)  in het partner centrum, moet u dat eerst doen. Voer de overige stappen uit nadat u zich hebt Inge schreven als CSP indirecte wederverkoper in Partner Center.
+1. Als u zich nog niet hebt geregistreerd als een [indirecte CSP-dealer](indirect-reseller-tasks-in-partner-center.md) in het partner centrum, moet u dat eerst doen. Voer de overige stappen uit nadat u zich hebt Inge schreven als CSP indirecte wederverkoper in Partner Center.
 
 1. Meld u aan bij partner centrum met de referenties van uw globale CSP-beheerders account.
 
@@ -83,11 +83,11 @@ Als u wilt weten of u de MPA hebt ondertekend:
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Down load de stapsgewijze hand leiding die het meest geschikt is voor waar u zich in het proces bevindt
 
-1. Als u uw MPN-account migreert van PMC naar partner Center: [migreren van PMC naar partner Center en micro soft partner overeenkomst accepteren](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. Als u uw MPN-account migreert van PMC naar Partnercentrum: [Migreren van PMC naar Partnercentrum, en akkoord gaan met de Microsoft Partner-overeenkomst](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. Als u zich wilt registreren als een CSP indirecte reseller in Partner Center: [onboarding voor MPN-leden en de micro soft-partner overeenkomst](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. Als u zich wilt inschrijven als een CSP Indirect Reseller in Partnercentrum: [Onboarding voor MPN-leden en de Microsoft Partner-overeenkomst](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. Als u de status van de MPA in het partner centrum wilt controleren nadat u stap 1 en/of stap 2 hebt voltooid: [Controleer de acceptatie status van de micro soft-partner overeenkomst](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. Als u de status van uw MPA in Partnercentrum wilt controleren nadat u stap 1 en/of stap 2 hebt voltooid: [Acceptatiestatus van de Microsoft Partner-overeenkomst controleren](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -2,25 +2,22 @@
 title: Aanbiedingen aan onderwijs klanten verkopen
 description: Meer informatie over het maken van een onderwijs klant en het verkopen van aanbiedingen in het partner centrum. Inclusief bevestiging van de verificatie status voor uw onderwijs klant.
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 12/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528739"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916893"
 ---
-# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Aanbiedingen voor educatief verkoop & het maken van een onderwijs klant in het partner centrum
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Aanbiedingen verkopen aan onderwijs klanten en een onderwijs klant maken in het partner centrum
 
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -28,7 +25,7 @@ ms.locfileid: "92528739"
 - Beheer agent
 - Verkoop agent
 
-## <a name="create-an-education-customer"></a>Een onderwijs klant maken
+## <a name="create-an-education-customer"></a>Een onderwijsklant maken
 
 In dit artikel wordt uitgelegd hoe u een onderwijs klant maakt in partner centrum en verkoopt aan deze producten. Het bevat ook informatie over het weer geven van de verificatie status en het opnieuw verzenden van de verificatie aanvraag, indien nodig.
 
@@ -37,34 +34,42 @@ In dit artikel wordt uitgelegd hoe u een onderwijs klant maakt in partner centru
 
 1. Meld u aan bij Partnercentrum.
 
-2. Selecteer **klanten** en selecteer vervolgens **een klant toevoegen** . Selecteer **opleiding** in de vervolg keuzelijst **speciale kwalificaties** .  Vul de rest van de account gegevens in zoals vereist.  De belangrijkste velden die het verificatie proces ondersteunen zijn onder andere:
+2. Selecteer **klanten** en selecteer vervolgens **een klant toevoegen**. Selecteer **opleiding** in de vervolg keuzelijst **speciale kwalificaties** .  Vul de rest van de account gegevens in zoals vereist.  De belangrijkste velden die het verificatie proces ondersteunen zijn onder andere:
 
-   - **Bedrijfs naam** : Voer de naam van de rechts persoon in die vereist is voor verificatie
-   - **Land/regio-en adres regels** : Voer het e-mail adres van de volledige entiteit in – vereist voor verificatie
-   - **E-mail adres** : Voer de e-mail in eigendom van de entiteit in, geen gratis e-mail of on.Microsoft.com-e-mail die vereist is voor verificatie
+   - **Bedrijfs naam**: Voer de naam van de rechts persoon in die vereist is voor verificatie
+   - **Land/regio-en adres regels**: Voer het e-mail adres van de volledige entiteit in – vereist voor verificatie
+   - **E-mail adres**: Voer de e-mail in eigendom van de entiteit in, geen gratis e-mail of on.Microsoft.com-e-mail die vereist is voor verificatie
    - **Contact gegevens** van de klant: deze gegevens worden gebruikt als onderdeel van het verificatie proces
-   - **Primaire domein naam** : wordt gebruikt om het account en e-mail adres van de klant te maken.  Kies een naam die lijkt op de naam van het bedrijf zonder spaties of speciale tekens.  Deze naam kan later niet worden gewijzigd.
+   - **Primaire domein naam**: wordt gebruikt om het account en e-mail adres van de klant te maken.  Kies een naam die lijkt op de naam van het bedrijf zonder spaties of speciale tekens.  Deze naam kan later niet worden gewijzigd.
 
-3. Wanneer u klaar bent, selecteert u **controleren** .
+3. Wanneer u klaar bent, selecteert u **controleren**.
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Onderwijs klant account":::
 
+4. Nadat u de **beoordeling** hebt bevestigd, ontvangt u een **inbeoordelings** status als de verzonden informatie geldig is. 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="Onderwijs klant account in beoordeling"lightbox="images/edu/create-review-expanded.png":::
+
 ### <a name="confirm-your-education-customers-verification-status"></a>Bevestig de verificatie status van uw opleidings klant
 
-Op de pagina **account** van de klant, Zie **speciale kwalificatie status** .
+Op de pagina **account** van de klant, Zie **speciale kwalificatie status**.
 Status voorbeelden:
 
 - Als door de klant geverifieerde verificatie: onderwijs
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Onderwijs klant account":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="De opleidings verificatie is voltooid":::
 
 - Als de klant de verificatie niet heeft door gegeven: geen onderwijs klant
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Onderwijs klant account":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="De opleidings verificatie is mislukt" lightbox="images/edu/fail-reason-expanded.png":::
 
 - Als de klant niet is gelabeld als een onderwijs klant: geen
 
-   :::image type="content" source="images/edunottagged.png" alt-text="Onderwijs klant account":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="onderwijs klant is niet als zodanig gelabeld" lightbox="images/edu/account-one-expanded.png":::
+
+- Als de klant ingaat als een onderwijs klant: wordt gecontroleerd
+
+    :::image type="content" source="images/edu/in-review.png" alt-text="onderwijs klant wordt gecontroleerd" lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Corrigeer de gegevens van de klant account en verzend deze opnieuw voor verificatie
 
@@ -76,15 +81,15 @@ U moet over globale beheerders bevoegdheden beschikken om de gegevens van de kla
 
 1. Op de pagina **account** ziet u informatie dat de klant kwalificatie wordt beschouwd als ' geen onderwijs klant '.
 
-2. Vernieuw de browser om de pagina opnieuw in te stellen. Er wordt een **bijwerk** knop en de **status van de speciale kwalificaties** ingesteld op **geen** .
+2. Vernieuw de browser om de pagina opnieuw in te stellen. Er wordt een **bijwerk** knop en de **status van de speciale kwalificaties** ingesteld op **geen**.
 
-3. Selecteer **Update** . Selecteer op de pagina **Service beheer** de optie **Office 365** .
+3. Selecteer **Bijwerken**. Selecteer op de pagina **Service beheer** de optie **Office 365**.
 
 4. U wordt omgeleid naar het Office 365-beheer centrum op een nieuw tabblad van uw browser. U wordt mogelijk gevraagd om u aan te melden met uw referenties.
 
-5. Selecteer **Instellingen** .
+5. Selecteer **Instellingen**.
 
-6. Selecteer het tabblad **organisatie profiel** boven aan het scherm en klik vervolgens op **organisatie-informatie** . U kunt nu de klant gegevens bijwerken.
+6. Selecteer het tabblad **organisatie profiel** boven aan het scherm en klik vervolgens op **organisatie-informatie**. U kunt nu de klant gegevens bijwerken.
 
 7. Selecteer **wijzigingen opslaan** onder aan de zijbalk.  
 
@@ -92,7 +97,7 @@ U moet over globale beheerders bevoegdheden beschikken om de gegevens van de kla
 
 1. Ga naar het tabblad partner centrum en de pagina klant **account** . Vernieuw de browser en controleer of de bedrijfs pagina is bijgewerkt met de nieuwe informatie. Selecteer de knop **bijwerken** om de nieuwe verificatie van het onderwijs te aanvragen.
 
-2. Als de bijgewerkte Details van de klant in aanmerking komen voor educatief aanbod, worden de **speciale kwalificaties** die zijn bijgewerkt tot **onderwijs** , weer geven. Als u nog steeds **geen onderwijs klant** ziet, neemt u contact op met de ondersteuning voor hand matige verificatie.
+2. Als de bijgewerkte Details van de klant in aanmerking komen voor educatief aanbod, worden de **speciale kwalificaties** die zijn bijgewerkt tot **onderwijs**, weer geven. Als u nog steeds **geen onderwijs klant** ziet, neemt u contact op met de ondersteuning voor hand matige verificatie.
 
 ## <a name="next-steps"></a>Volgende stappen
 
