@@ -301,6 +301,9 @@
         - name: Coöperatieve claims voor Incentives
           href: claims-overview.md
           displayName: incentives
+        - name: Beschikbare coöperatieve fondsen weergeven
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: Coöperatieve claims beheren
           href: create-incentives-claims.md
           displayName: incentives
