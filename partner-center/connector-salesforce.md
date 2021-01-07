@@ -1,19 +1,19 @@
 ---
 title: De co-sell connector voor Sales Force CRM Partner Center
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchroniseer uw referenties in Partner Center met uw Sales Force-CRM. Verkopers kunnen vervolgens samen met micro soft verkopen binnen uw CRM-systemen.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947848"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960948"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connector voor Sales Force-verkoop-overzicht
 
@@ -51,7 +51,7 @@ Voor het synchroniseren van de verwijzingen tussen partner centrum en Sales Forc
 
 3. Onder Sales Force installeert u aangepaste velden en objecten met behulp van Package Installer hieronder.
   
-Ga [hier](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) om het pakket te installeren in een bedrijf:
+Ga [hier](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) om het pakket in elk bedrijf te installeren.
 
 
 Opmerking: als u in een sandbox installeert, moet u het eerste deel van de URL vervangen door http://test.salesforce.com
@@ -179,7 +179,7 @@ Met de webhook-Api's van partner Center kunt u zich registreren voor bron wijzig
 
 9. Zorg ervoor dat het venster stroom uitvoeren wordt geopend in het rechterdeel venster en klik op **door gaan**.
 
-10. Voer de volgende details in:
+10. Voer de volgende gegevens in:
 
     1. **Http-trigger eindpunt**: URL gekopieerd uit eerdere stap
 
