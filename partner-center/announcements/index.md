@@ -8,39 +8,42 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736529"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916810"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
 Meer informatie over belangrijke updates in Partnercentrum. Deze informatie wordt regelmatig bijgewerkt. Kom dus vaak hier terug!
 
-| **Categorie** | **December 2020-aankondigingen** | **Aangekondigd** |
+| **Categorie** | **Aankondigingen van januari 2021** | **Aangekondigd** |
 |---------|:---------|:---------|
+|Functies|[Afschaffing en buiten gebruik stellen van bestaande GET en PUT Qualification API's voor het Education-klantvalidatieproces voor het einde van februari 2021](2021-january.md#2)|5 januari|
+|Aanbiedingen/markten|[Dynamics 365-aanbiedingen voor februari 2021](2021-january.md#1)|4 januari|
+| **Categorie** | **December 2020-aankondigingen** | **Aangekondigd** |
 |Aanbiedingen|[Ongebruikte kanaal-incentive-fondsen voor coöperatieve marketing (co-op) uit de H1-gebruiksperiode van FY21, door te rollen naar de H2-gebruiksperiode](2020-december.md#13)|22 december|
-|Functies|[DocuSign-migratie naar Adobe Sign in 2021 voor partners met Microsoft Partner-overeenkomsten (MPA’s)](2020-december.md#12)|22 december|
+|Functionaliteit|[DocuSign-migratie naar Adobe Sign in 2021 voor partners met Microsoft Partner-overeenkomsten (MPA’s)](2020-december.md#12)|22 december|
 |Aanbiedingen/markten|[Schema’s van prijzen en catalogus van januari 2021](2020-december.md#11)|22 december|
-|Functies|[Microsoft 365-ondersteuning voor apps en services van Internet Explorer 11 en aankondiging verouderde versie van Microsoft Edge](2020-december.md#10)|21 december|
+|Functionaliteit|[Microsoft 365-ondersteuning voor apps en services van Internet Explorer 11 en aankondiging verouderde versie van Microsoft Edge](2020-december.md#10)|21 december|
 |Uw bedrijf laten groeien|[Overheid, hoger onderwijs en non-profitorganisaties: nieuwe wijzigingen in het Open License-programma en verdere ontwikkeling van het CSP-programma](2020-december.md#9)|17 december|
 |Aanbiedingen/markten|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2020-december.md#8)|17 december|
 |Uw bedrijf laten groeien|[Herinnering: vanaf januari 2021 is de onbeperkt geldige software in het Cloud Solution Provider-programma (CSP-programma) op grote schaal beschikbaar](2020-december.md#7)|17 december|
 |Functionaliteit|[Autorisatiehandleiding voor online services en softwarekanalen](2020-december.md#6)|17 december|
 |Aanbiedingen/markten|[Power Apps-aanbieding nu beschikbaar](2020-december.md#5)|16 december|
-|Functies|[SDK-release in .NET Standard (v1.16.3)](2020-december.md#4)|8 december|
+|Functionaliteit|[SDK-release in .NET Standard (v1.16.3)](2020-december.md#4)|8 december|
 |Aanbiedingen/markten|[Releaseopmerkingen bij de op licentie gebaseerde prijslijst van december 2020](2020-december.md#3)|8 december|
 |Aanbiedingen/markten|[Binnenkort wordt een update van de US Microsoft 365 Business Voice met een gespreksabonnement aangeboden](2020-december.md#2)|3 december|
 |Functies|[Nu Live: API-updates en verbeteringen van de gebruikersinterface in Partnercentrum, voor het validatieproces voor Education-klanten](2020-december.md#1)|3 december|
 | **Categorie** | **November 2020-aankondigingen** | **Aangekondigd** |
-|Functies|[Nieuwe, uniforme accountbeheerervaring](2020-november.md#13)|18 november|
+|Functionaliteit|[Nieuwe, uniforme accountbeheerervaring](2020-november.md#13)|18 november|
 |Aanbiedingen/markten|[Office 365 E1 voor mid-market Promo (LATAM, APAC en India)](2020-november.md#12)|18 november|
 |Functies|[Partner Center-API-updates en verbeteringen in de gebruikersinterface (UI) om de klantcontrole in bepaalde landen te verbeteren](2020-november.md#11)|17 november|
-|Functionaliteit|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2020-november.md#10)|17 november|
-|Functionaliteit|[API-beperking voor Partner Center-API's](2020-november.md#9)|17 november|
+|Functies|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2020-november.md#10)|17 november|
+|Functies|[API-beperking voor Partner Center-API's](2020-november.md#9)|17 november|
 |Functies|[409 fouten vanwege dubbele MCA-aanvragen](2020-november.md#8)|16 november|
 |Functionaliteit|[Testen beschikbaar: API-updates en verbeteringen van de gebruikersinterface (UI) in Partnercentrum, voor het validatieproces voor Education-klanten](2020-november.md#7)|10 november|
 |Functionaliteit|[Inhoud van commerciële licentiepartners uitbreiden in de galerie voor operationele gereedheid](2020-november.md#6)|2 november|
@@ -51,7 +54,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Aanbiedingen/markten|[Promotie voor Cloud Solution Provider voor Microsoft 365 Business Voice is nu beschikbaar](2020-november.md#1)|2 november|
 | **Categorie** | **Aankondigingen van oktober 2020** | **Datum** |
 |Aanbiedingen/markten|[Correctie voor Calling Plan-uitbreiding](2020-october.md#18)|29 oktober|
-|Functionaliteit|[Abonnementen op updates voor Windows Server-software ](2020-october.md#17)|29 oktober|
+|Functies|[Abonnementen op updates voor Windows Server-software ](2020-october.md#17)|29 oktober|
 |Functies|[Windows 10 Educatief-upgrade is nu beschikbaar voor gekwalificeerde Cloud Solution Provider Education-klanten](2020-october.md#16)|28 oktober|
 |Functies|[Vernieuwde digitale ervaring in Cloud Solution Provider nu beschikbaar](2020-october.md#15)|28 oktober|
 |Functies|[Inleiding tot prestatiestandaarden voor vereisten voor factuurpartners in het CSP-programma (Cloud Solution Provider)](2020-october.md#13)|27 oktober|
