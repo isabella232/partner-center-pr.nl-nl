@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: fc5a34bbb8326b38c13cc73ca9fff099f9b1c0db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916827"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979754"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners
 
@@ -54,7 +54,7 @@ Als u wilt blijven deel nemen aan het CSP-programma, moet u de micro soft-partne
 
 1. Meld u aan bij partner centrum met de referenties van uw globale CSP-beheerders account.
 
-1. Selecteer  bij instellingen [partner profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+1. Selecteer bij **instellingen** de optie **account instellingen** en selecteer vervolgens [partner profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 1. Raadpleeg de sectie **programma-info** . Als uw informatie niet de **indirecte wederverkoper** status weergeeft, moet u zich [Inschrijven als een indirecte wederverkoper](indirect-reseller-tasks-in-partner-center.md).
 
@@ -79,6 +79,10 @@ Als u wilt weten of u de MPA hebt ondertekend:
 
 >[!NOTE]
 >Alleen de globale beheerder in uw bedrijf kan de MPA bekijken en ondertekenen. Als u niet de globale beheerder bent, moet u uw globale beheerder vragen om de MPA te controleren.
+
+U kunt ook zien of u de overeenkomst hebt ondertekend door **overeenkomsten** van **account instellingen** te selecteren.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Indicatie dat de MPA is ondertekend":::
 
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Down load de stapsgewijze hand leiding die het meest geschikt is voor waar u zich in het proces bevindt

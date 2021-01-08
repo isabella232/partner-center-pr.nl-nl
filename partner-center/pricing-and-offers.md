@@ -1,7 +1,7 @@
 ---
 title: Prijzen en aanbiedingen
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bekijk de huidige prijs lijsten voor services op basis van licenties, zoals Office 365, micro soft Dynamics CRM en Enter prise Mobility Suite, en op gebruik gebaseerde services zoals Azure.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92527561"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979818"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prijzen en aanbiedingen voor Office 365, Dynamics CRM, Enter prise Mobility Suite, Azure en meer
 
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -31,7 +28,7 @@ ms.locfileid: "92527561"
 - Verkoop agent
 - Factureringsbeheerder
 
-Als u de nieuwste Program ma's en aanbiedingen van de Cloud solution provider wilt bekijken, gaat u in de Partner Portal naar **verkoop > prijzen en aanbiedingen** . U vindt afzonderlijke prijs lijsten voor de verschillende soorten producten die beschikbaar zijn. De volgende prijs lijsten zijn beschikbaar op de pagina **prijzen en aanbiedingen** :
+Als u de nieuwste Program ma's en aanbiedingen van de Cloud solution provider wilt bekijken, gaat u in de Partner Portal naar **verkoop > prijzen en aanbiedingen**. U vindt afzonderlijke prijs lijsten voor de verschillende soorten producten die beschikbaar zijn. De volgende prijs lijsten zijn beschikbaar op de pagina **prijzen en aanbiedingen** :
 
 - **Services op basis van licenties** bevatten prijs informatie voor Office 365, Enter prise Mobility en Security E3, evenals Dynamics 365. De sectie prijs op basis van licenties omvat de huidige en preview-prijzen en de lijst matrix van de aanbieding. Prijs lijsten bevatten een lijst prijs en geschatte prijzen voor winkels (ERP) voor aanbiedingen in alle ondersteunde valuta's. De lijst matrix met aanbiedingen bevat Beschik baarheid in de markt en andere belang rijke informatie over de aanbiedingen. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
 - **Op gebruik gebaseerde services** bevatten prijs informatie voor Microsoft Azure en Visual Studio. U kunt ook de [Azure-Services in de CSP-prijs calculator](https://azure.microsoft.com/pricing/calculator/)gebruiken. De op gebruik gebaseerde down load omvat zowel de CSP-prijs lijst voor alle ondersteunde valuta's als de prijs bestanden voor de gedeelde services in ERP. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
@@ -46,7 +43,7 @@ Als u de nieuwste Program ma's en aanbiedingen van de Cloud solution provider wi
 
 ## <a name="price-list-preview-and-change-frequency"></a>Voor beeld van prijs lijst en wijzigings frequentie 
 
-Services op basis van licenties bevatten een preview-versie van de prijs lijst, die 30 dagen vóór eventuele wijzigingen wordt geleverd. Als u de prijs lijst preview wilt bekijken, gaat u naar **verkoop > prijzen en aanbiedingen** . Er is geen prijs voorbeeld voor op gebruik gebaseerde services omdat deze services dynamisch zijn. In de volgende tabel wordt uitgelegd hoe de tabel met prijzen kan worden gelezen.
+Services op basis van licenties bevatten een preview-versie van de prijs lijst, die 30 dagen vóór eventuele wijzigingen wordt geleverd. Als u de prijs lijst preview wilt bekijken, gaat u naar **verkoop > prijzen en aanbiedingen**. Er is geen prijs voorbeeld voor op gebruik gebaseerde services omdat deze services dynamisch zijn. In de volgende tabel wordt uitgelegd hoe de tabel met prijzen kan worden gelezen.
 
 |**Item**        |**Definitie**      |
 |:-----------   |:-----------   |
@@ -105,7 +102,7 @@ Services op basis van licenties kunnen worden verkregen als basis aanbiedingen o
 3. Ga in de klanten lijst naar uw klant. Klik op het abonnement voor het basis aanbod dat u zojuist hebt aangeschaft. Op de pagina abonnement beheren ziet u beschik bare invoeg toepassingen die kunnen worden toegepast op de basis aanbieding.
 
 > [!Note] 
-> Sommige basis aanbiedingen hebben **eenheids type** -waarden van **invoeg toepassings licenties** . Voor een basis aanbod houdt dit simpelweg in dat u na het kopen geen gebruikers licenties toewijst. Als de aanbieding in de catalogus kan worden gekocht, is het een **basis aanbod** , ongeacht het eenheids type in de gebruikers interface.
+> Sommige basis aanbiedingen hebben **eenheids type** -waarden van **invoeg toepassings licenties**. Voor een basis aanbod houdt dit simpelweg in dat u na het kopen geen gebruikers licenties toewijst. Als de aanbieding in de catalogus kan worden gekocht, is het een **basis aanbod** , ongeacht het eenheids type in de gebruikers interface.
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Verschillen tussen prijzen voor Azure en niet-Azure
 
@@ -169,7 +166,7 @@ Hieronder vindt u een overzicht van de werking van deze aanbiedingen:
 - Het abonnement wordt niet verlengd en verloopt na 6 jaar
 - De facturerings frequentie voor de aanbieding wordt per jaar weer gegeven, maar de partner wordt gefactureerd op basis van de eerste factuur na het ophalen van het abonnement
 - Abonnementen voor a1 72-months zijn na de aankoop vergrendeld en kunnen niet worden geannuleerd en kunnen geen licentie aantallen aan het abonnement worden toegevoegd na de eerste aankoop
-- Partners die moeten annuleren, moeten een ondersteunings ticket maken met de reden voor annulering en de abonnements-ID waarvoor ze hulp nodig hebben.
+- Dit abonnement kan niet worden geannuleerd en kan niet worden terugbetaald.
 
 ## <a name="estimated-retail-price-erp"></a>Geschatte detailhandels prijs (ERP)
 

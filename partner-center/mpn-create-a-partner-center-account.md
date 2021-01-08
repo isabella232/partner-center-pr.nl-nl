@@ -1,7 +1,7 @@
 ---
 title: Een Partnercentrum-account maken
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over hoe Microsoft Partner Network leden een partner centrum-account kunnen maken voor het beheren van hun netwerk voordelen en-vaardig heden.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570787"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979733"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Een partner centrum-account maken voor het beheren van de netwerk voordelen en-competenties
 
@@ -55,16 +55,20 @@ Deze informatie wordt gecontroleerd tijdens het proces voor het maken van het ac
 
     Als uw bedrijf geen werk account heeft, selecteert u **er een maken** om er nu een in te stellen. Nadat u een werk account hebt gemaakt, meldt u zich aan met de referenties van uw globale beheerder voor het werk account dat u zojuist hebt gemaakt.
 
-3.  Geef het juridische bedrijfs profiel en de primaire contact gegevens van uw bedrijf op of werk het bij en selecteer **nu registreren**. 
+3.  Het juridische zakelijke profiel van uw bedrijf opgeven of bijwerken.
+
+    U kunt uw bedrijfs profiel opzoeken of bedrijfs gegevens hand matig invoeren. Als uw bedrijf is geregistreerd met [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), gebruikt u de Duns-id om uw bedrijfs gegevens op te zoeken. Als u uw bedrijfs gegevens zelf wilt opgeven, selecteert u **hand matig**.
+
+4. Zodra u de gegevens van het bedrijf hebt opgegeven, voert u de gegevens van de primaire contact persoon in en selecteert u **nu registreren**.
 
     De primaire contact persoon moet degene zijn in uw bedrijf. we kunnen contact opnemen met uw toepassing (dit kan u of een andere persoon in uw bedrijf zijn). We gebruiken deze informatie ook om te controleren of deze persoon bij uw bedrijf werkt en zich heeft aangemeld voor een partner centrum-account.
 
     > [!IMPORTANT]  
     > Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om te verifiëren dat (1) hij of zij zich heeft aangemeld voor een partner centrum-account, en (2) dat dit e-mail adres tot uw bedrijf behoort. Nadat de primaire contact persoon zijn of haar e-mail adres heeft geverifieerd, gaan we verder met de door u verstrekte informatie.
 
-4.  Lees en accepteer de voor waarden in de Microsoft Partner Network overeenkomst. 
+5.  Lees en accepteer de voor waarden in de Microsoft Partner Network overeenkomst. 
 
-5.  Controleer of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
+6.  Controleer of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
 
     a. Selecteer het pictogram **instellingen** in het [dash board](https://partner.microsoft.com/dashboard/home**)van de partner centrum en selecteer vervolgens **gebruikers beheer**.  
 

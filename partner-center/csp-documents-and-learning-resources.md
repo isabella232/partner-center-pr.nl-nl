@@ -9,19 +9,19 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afb3fad6f0345ef8a602c78b891634a64a2adf84
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527547"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979689"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Hulplijn, overeenkomsten, prijslijsten en aanbiedingen voor het programma Cloud Solution Provider
 
 **Van toepassing op**
 
 - Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 
 
 Lees de informatie in dit artikel om inzicht te krijgen in de vereisten voor deelname aan het CSP-programma (Cloud Solution Provider) van micro soft.
@@ -77,3 +77,8 @@ Als partner in CSP kunt u een breed scala aan micro soft-producten,-services en-
 Voor CSP-partners die de topgebruiks record-API gebruiken, publiceert micro soft ook een lijst met de Azure-Services in CSP op de pagina **prijzen en aanbiedingen** .
 
 Ga voor meer informatie over Azure Marketplace-aanbiedingen gepubliceerd door onafhankelijke software leveranciers (Isv's) naar de pagina **Marketplace** in het navigatie menu links. Op dit moment kunnen alleen SaaS-product typen (software als een service) worden aangeschaft in het partner centrum. U moet de Azure Portal bezoeken om andere typen Azure Marketplace-aanbiedingen te verkrijgen.
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Meer informatie over de micro soft-partner overeenkomst](microsoft-partner-agreement.md)
+- [Registreren bij het Cloud Solution Provider-programma](enrolling-in-the-csp-program.md)

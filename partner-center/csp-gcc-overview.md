@@ -9,25 +9,20 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3086ada5238fac6ec993bffa8c852517281c98a3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528565"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979427"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Office 365 Government GCC voor CSP-abonnementen op gekwalificeerde klanten verkopen
-
-**Van toepassing op**
-
-- Partnercentrum
-- CSP-partners
 
 **Juiste rollen**
 
 - Globale beheerder
 - Beheer agent
-- Verkoop agent
+
 
 ## <a name="overview"></a>Overzicht
 
@@ -41,10 +36,10 @@ Micro soft-partners in het Cloud Solution Provider-programma (CSP) kunnen [Offic
 
 Nadat uw bedrijf is goedgekeurd voor het verkopen van Office 365 Government GCC voor CSP-aanbiedingen, kunt u beginnen met verkopen aan klanten met behulp van partner centrum. Raadpleeg deze bronnen voor meer informatie over het gebruik van partner centrum voor het verkopen van abonnementen: 
 
--   Voor een stapsgewijze hand leiding voor het verkopen van Office 365 Government GCC voor CSP-abonnementen kunt u [hier](https://go.microsoft.com/fwlink/?linkid=2007323)terecht.  
+- Lees gids voor het [verkopen van Office 365 Government gcc voor CSP-abonnementen](https://go.microsoft.com/fwlink/?linkid=2007323)voor een stapsgewijze hand leiding.  
 
 
-## <a name="additional-resources"></a>Aanvullende bronnen
+## <a name="next-steps"></a>Volgende stappen
 
 Krijg toegang tot informatie over de mogelijkheden van de [partner in Amerikaanse overheid](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) op de website van Microsoft 365 voor partners.
 

@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528570"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979529"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Facturering voor commerciële Marketplace-Producten en-abonnementen in partner centrum
 
-**Van toepassing op**
-
-- Partnercentrum
-- Partners in het CSP-programma
 
 **Juiste rollen**
 
@@ -35,7 +31,7 @@ U kunt facturen openen via het [dash board](https://partner.microsoft.com/dashbo
 Partners in het CSP-programma worden gefactureerd voor ISV-commerciële Marketplace-oplossingen die zijn aangeschaft voor een klant, wanneer ze deze producten aanschaffen bij een partner centrum of vanuit de Azure Portal (met de vooraf aangeschafte Azure-Tenant voor CSP van de klant).
 
 >[!NOTE]
->Als klanten hun eigen Azure AD-Tenant gebruiken (niet één gekocht bij een partner in het CSP-programma), kunnen klanten er ook voor kiezen om rechtstreeks vanuit ([Microsoft AppSource](https://appsource.microsoft.com/) of [Azure Marketplace](https://azuremarketplace.microsoft.com/)) hun eigen ISV-oplossing te kopen. Als dit het geval is, ontvangen ze hun eigen factuur rechtstreeks van micro soft. En als een partner in het CSP-programma een Azure-abonnement of het nieuwe Azure-plan aan de klant verkoopt en de [op rollen gebaseerde toegang van](/azure/role-based-access-control/built-in-roles) de klant (of indirecte wederverkoper) verleent aan die Tenant (waarbij elke rol aan de klant wordt toegewezen, behalve **lezer** ), kan die klant (of indirecte wederverkoper) ook commerciële Marketplace-aanbiedingen kopen zonder voorafgaande goed keuring of melding aan de CSP In dergelijke gevallen waarschuwt micro soft partners in het CSP-programma over aankopen door hun klanten. Micro soft biedt echter een optioneel [Azure monitor](/azure/azure-monitor/platform/alerts-activity-log) -mechanisme dat u kunt gebruiken voor het instellen van waarschuwingen of meldingen over activiteiten in een Azure-abonnement.
+>Als klanten hun eigen Azure AD-Tenant gebruiken (niet één gekocht bij een partner in het CSP-programma), kunnen klanten er ook voor kiezen om rechtstreeks vanuit ([Microsoft AppSource](https://appsource.microsoft.com/) of [Azure Marketplace](https://azuremarketplace.microsoft.com/)) hun eigen ISV-oplossing te kopen. Als dit het geval is, ontvangen ze hun eigen factuur rechtstreeks van micro soft. En als een partner in het CSP-programma een Azure-abonnement of het nieuwe Azure-plan aan de klant verkoopt en de [op rollen gebaseerde toegang van](/azure/role-based-access-control/built-in-roles) de klant (of indirecte wederverkoper) verleent aan die Tenant (waarbij elke rol aan de klant wordt toegewezen, behalve **lezer**), kan die klant (of indirecte wederverkoper) ook commerciële Marketplace-aanbiedingen kopen zonder voorafgaande goed keuring of melding aan de CSP In dergelijke gevallen waarschuwt micro soft partners in het CSP-programma over aankopen door hun klanten. Micro soft biedt echter een optioneel [Azure monitor](/azure/azure-monitor/platform/alerts-activity-log) -mechanisme dat u kunt gebruiken voor het instellen van waarschuwingen of meldingen over activiteiten in een Azure-abonnement.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Toegang tot facturerings gegevens voor producten voor commerciële Marketplace
 
@@ -45,7 +41,7 @@ De globale beheerder of facturerings beheerder van uw bedrijf ontvangt een e-mai
 
 2. Selecteer **facturering** in het menu van het partner centrum. 
 
-    Boven aan de facturerings pagina ziet u twee tabbladen: **terugkerende** en **terugkerende en eenmalige aankopen** . Op elk tabblad kunt u toegang krijgen tot factuur-en afstemmings bestanden voor verschillende Marketplace-Producten:
+    Boven aan de facturerings pagina ziet u twee tabbladen: **terugkerende** en **terugkerende en eenmalige aankopen**. Op elk tabblad kunt u toegang krijgen tot factuur-en afstemmings bestanden voor verschillende Marketplace-Producten:
 
     - **Terugkerend** tabblad: toont factuur-en afstemmings bestanden voor abonnementen die betrekking hebben op Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro en Microsoft Azure.
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 827d4d732e8aa5ff7e343ef3732ff0036eb8d628
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.date: 01/07/2021
+ms.openlocfilehash: 17c4e19216218d070515b34d326dcca6596e94a8
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916793"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979801"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -23,6 +23,64 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 2021 aankondigingen: [januari](2021-january.md)
 
 2020 aankondigingen: [mei](2020-may.md)van juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md) | 13
+
+________________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Wijzigingen in de facturerings valuta van de partner van de EU/EVA voor nieuwe Commerce aanbiedingen
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-07
+- Moderne werk plek
+
+### <a name="impacted-audience"></a>Doel groep
+
+- Directe provider, indirecte provider, indirecte wederverkoper
+- Alle partners handelen via het programma Cloud solution provider in de regio EU/EVA 
+
+### <a name="details"></a>Details
+
+In de regio Europese Unie (EU)/European Free Trade Association (EVA) zal alle nieuwe Commerce aanbiedingen in het Cloud Solution Provider-programma de facturerings locatie van de partner gebruiken in plaats van de facturerings locatie van de klant. Dit betekent dat partners door micro soft worden gefactureerd op basis van hun locatie valuta, niet op de locatie valuta van de klant. Dit gebeurt in twee fasen:
+
+**Fase 1:**
+
+- Nieuwe klant die een nieuwe Commerce-aanbieding koopt in CSP
+
+- Bestaande klanten hebben de eerste keer een nieuwe Commerce-aanbieding gekocht-Tenant gemaakt vóór 11 mei 2020
+
+Vanaf januari 28, 2021, partners die net nieuwe klanten hebben die een nieuwe Commerce-aanbieding kopen, of bestaande klanten met tenants die zijn gemaakt vóór 11 mei 2020 de eerste aankoop van nieuwe Commerce aanbiedingen, wordt gefactureerd voor die aankopen in de valuta van de partner locatie.  
+
+Partners met bestaande klanten die al nieuwe Commerce aanbiedingen in CSP hebben gekocht, blijven in de valuta van de facturerings locatie van de klant in rekening worden gebracht tijdens deze fase. Daarnaast worden partners met bestaande klanten een eerste aankoop van een nieuwe Commerce-aanbieding, waarvan de tenants zijn gemaakt op of na 11 mei 2020, in rekening gebracht voor de valuta van de klant.
+
+**Fase 2:**
+
+- Bestaande klanten die al een nieuwe Commerce-aanbieding in CSP hebben gekocht vóór fase 1
+- Bestaande klanten hebben nieuwe Commerce aanbiedingen voor het eerst gekocht: de Tenant is gemaakt op of na 11 mei 2020
+
+De volgende fase 1 en tijdens het kalender jaar 2021, micro soft zet de facturering van nieuwe Commerce-aanbiedingen voor partners met bestaande klanten over, die een nieuwe Commerce-aanbieding in CSP vóór fase 1 hebben gekocht, en klanten die hun tenants hebben gemaakt op of na 11 mei 2020, van de valuta van de klant locatie tot de valuta van de partner. Partners worden goed geïnformeerd voordat deze wijziging wordt geïmplementeerd.
+
+Na fase 2 worden partners in de regio van de EU/EVA gefactureerd in de valuta van de partner locatie voor alle klanten en alle CSP-aankopen.
+
+>[!NOTE]
+>Deze wijziging is alleen van invloed op de facturerings valuta van de partner en niet op de prijzen van nieuwe Commerce-aanbiedingen in CSP.
+
+De nieuwe Commerce-aanbiedingen in het bereik voor deze wijziging zijn: Azure-abonnementen die deel uitmaken van een Azure-abonnement, Azure-reserve ringen, Server abonnementen, permanente software en micro soft Commercial Marketplace-aankopen in het Cloud Solution Provider-programma.
+
+### <a name="partner-benefits"></a>Voor delen van partner
+
+Deze update vermindert de complexiteit en de overhead met de facturering in meerdere valuta in de regio EU/EVA voor de nieuwe Commerce ervaring.
+
+- Partners ontvangen een geconsolideerde factuur in één valuta en er wordt geen factuur meer ontvangen voor elke klant locatie valuta
+- Belonings uitbetalingen worden in dezelfde valuta als de factuur valuta van de partner
+- Partners zien een gereduceerde facturerings complexiteit die wordt veroorzaakt door multi-currency-facturering, waarmee tijd en resources worden vrijgemaakt die momenteel zijn gekoppeld aan het afstemmen van accounts
+- Voor partners die nog geen nieuwe Commerce-aanbiedingen hebben toegepast, wordt deze wijziging uitgelijnd met het vorige partner-facturerings model, waardoor partners eenvoudiger kunnen overstappen op de nieuwe Commerce-ervaring in CSP
+
+### <a name="next-steps"></a>Volgende stappen
+
+Lees de informatie over dit onderwerp in de [Operations-galerie](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (aanmelden vereist) op de website van micro soft partner.  
+
+### <a name="questions"></a>Vragen?
+
+Voor vragen met betrekking tot deze melding kunt u contact opnemen met [ondersteuning van partner centrum](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (aanmelden vereist).
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Afschaffing en buiten gebruik stellen van bestaande Api's voor het door geven van de educatie van het onderwijs en voor de vorming van kwalificaties voor het einde van februari 2021

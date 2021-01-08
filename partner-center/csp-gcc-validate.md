@@ -1,5 +1,5 @@
 ---
-title: Office 365 Government GCC-partner en criteria voor klant geschiktheid
+title: Geschiktheidscriteria voor Office 365 Government GCC-partners en -klanten
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527531"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979634"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 Government GCC voor CSP-partner-en klant geschiktheids criteria-partner centrum
-
-**Van toepassing op**
-
-- Partnercentrum
-- CSP-partners
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC voor CSP-partner-en klant geschiktheids criteria 
 
 **Juiste rollen**
 
@@ -32,7 +27,7 @@ ms.locfileid: "92527531"
 >[!NOTE]
 >Het validatie proces en de hieronder beschreven criteria zijn specifiek voor directe factuur partners. Directe factuur partners bevatten directe wederverkopers en indirecte providers.  Als u een indirecte wederverkoper bent, kunt u samen werken met uw indirecte provider.
 
-Als u geïnteresseerd bent in het goed keuren van uw organisatie (of de organisatie van uw klant) voor Office 365 Government GCC voor CSP, raadpleegt u de onderstaande vereisten.
+Als u wilt dat uw bedrijf (of het bedrijf van uw klant) is goedgekeurd voor Office 365 Government GCC voor CSP, raadpleegt u de onderstaande vereisten.
 
 U kunt worden goedgekeurd als u een partner bent voor Amerikaanse federale, staats-, lokale of tribalee overheids entiteiten. Als u wilt dat uw organisatie in aanmerking komt voor validatie, vult u het beknopte beschik bare formulier [in.](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)
 
@@ -68,3 +63,6 @@ Office 365 Government GCC voor CSP-partners en klanten worden gevalideerd voor d
 
 Een internationale commerciële entiteit kan worden gekwalificeerd als deze voldoen aan de bovenstaande vereisten en de Amerikaanse aanwezigheid hebben geverifieerd (zoals post adres, fysieke locatie, enzovoort).
 
+## <a name="next-steps"></a>Volgende stappen
+
+- [Office 365 Government GCC voor CSP-abonnementen op gekwalificeerde klanten verkopen](csp-gcc-overview.md)

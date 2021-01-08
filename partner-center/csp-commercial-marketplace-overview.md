@@ -9,19 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038826"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979444"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Overzicht van de commerciële Marketplace in het partner centrum
 
-**Van toepassing op**
+**Juiste rollen**
 
-- Partnercentrum
-- Partners in het CSP-programma
+- Globale beheerder
 
 Als u een partner bent in het Cloud Solution Provider-programma (CSP), kunt u micro soft-producten bundelen en verkopen in combi natie met oplossingen die zijn gepubliceerd door onafhankelijke software leveranciers (Isv's) van derden. Doordat oplossingen op deze manier kunnen worden gebundeld, kunt u eind gebruikers beter behartigen en uw CSP-services-bedrijf uitbreiden.
 

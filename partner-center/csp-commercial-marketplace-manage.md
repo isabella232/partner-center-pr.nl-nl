@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528582"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979673"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Commerciële Marketplace-Producten en aanbiedingen voor uw klanten beheren
 
-**Van toepassing op**
-
-- Partnercentrum
-- Partners in het CSP-programma
 
 **Juiste rollen**
 
@@ -36,7 +32,7 @@ Nadat u een abonnement hebt aangeschaft bij een onafhankelijke ISV-Uitgever, kun
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van het partner centrum en selecteer vervolgens **klanten** in het navigatie menu links.
 
-2. Selecteer een geschikte klant en selecteer vervolgens **abonnementen** . Hier vindt u een overzicht van de op licenties gebaseerde abonnementen die u hebt aangeschaft voor de klant.
+2. Selecteer een geschikte klant en selecteer vervolgens **abonnementen**. Hier vindt u een overzicht van de op licenties gebaseerde abonnementen die u hebt aangeschaft voor de klant.
 
 3. Selecteer in de kolom **abonnement** het abonnement dat u wilt weer geven of bewerken. Dit geeft u meer informatie over het instellen of inrichten van de aanbieding. (Als er meer acties nodig zijn voor de aanbieding, wordt mogelijk ook de status ' actie vereist ' weer gegeven in de kolom Status. Dit kan ook vergezeld gaan van een koppeling naar de site van de ISV-Uitgever.)
 
@@ -63,7 +59,7 @@ De uitgever moet u een gepersonaliseerde koppeling geven en een autorisatie code
 
 1. U kunt deze aangepaste koppeling op een paar manieren vinden in de ISV-Uitgever:
 
-   - U kunt de koppeling zien op de bevestigings pagina die wordt weer gegeven nadat u een ISV SaaS-aanbieding hebt aangeschaft. Als u deze koppeling wilt vinden op de pagina, zoekt en selecteert u **Ga naar de site van de Publisher** .
+   - U kunt de koppeling zien op de bevestigings pagina die wordt weer gegeven nadat u een ISV SaaS-aanbieding hebt aangeschaft. Als u deze koppeling wilt vinden op de pagina, zoekt en selecteert u **Ga naar de site van de Publisher**.
 
    - U kunt de koppeling zien op de pagina Abonnementen van de specifieke klant. Deze Publisher-koppeling wordt weer gegeven in de rij die is gekoppeld aan de ISV-aanbieding of het aangeschafte abonnement voor de klant.
 
@@ -102,13 +98,13 @@ Voor SaaS-Commercial Marketplace-aanbiedingen kunt u gebruikers licenties toevoe
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van het partner centrum en selecteer vervolgens **klanten** in het navigatie menu links.
 
-2. Selecteer een geschikte klant en selecteer vervolgens **abonnementen** . Hier vindt u een overzicht van de op licenties gebaseerde abonnementen die u hebt aangeschaft voor de klant.
+2. Selecteer een geschikte klant en selecteer vervolgens **abonnementen**. Hier vindt u een overzicht van de op licenties gebaseerde abonnementen die u hebt aangeschaft voor de klant.
 
 3. Selecteer in de kolom **abonnement** het abonnement dat u wilt wijzigen.
 
 4. Zoek op de pagina abonnements Details het veld **hoeveelheid** . Hier kunt u het aantal licenties verhogen of verlagen.
 
-5. Wijzig de hoeveelheid en selecteer vervolgens **verzenden** .
+5. Wijzig de hoeveelheid en selecteer vervolgens **verzenden**.
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Abonnementen beheren met partner Center-Api's
 

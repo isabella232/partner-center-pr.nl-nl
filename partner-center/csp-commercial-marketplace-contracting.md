@@ -9,26 +9,22 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527506"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979651"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contracten voor CSP-partners die zaken doen in de commerciële Marketplace
 
-**Van toepassing op**
-
-- Partnercentrum
-- Partners in het CSP-programma
 
 **Juiste rollen**
 
 - Globale beheerder
 - Beheer agent
 
-Deze sectie heeft betrekking op contracten voor partners in het CSP-programma die ervoor kiezen om ISV Marketplace-aanbiedingen of-producten voor hun klanten te kopen via de commerciële Marketplace van het partner centrum of de Azure Portal.
+Dit artikel heeft betrekking op contracten voor partners in het CSP-programma die ervoor kiezen om ISV Marketplace-aanbiedingen of-producten voor hun klanten te kopen via de commerciële Marketplace van het partner centrum of de Azure Portal.
 
 De [CSP-programma gids](https://go.microsoft.com/fwlink/p/?LinkId=617100) bevat de voor waarden voor commerciële Marketplace-aanbiedingen tussen micro soft en partners in het CSP-programma. CSP-partners moeten deze voor waarden controleren om ervoor te zorgen dat ze in overeenstemming zijn met het programma.  
 

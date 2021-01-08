@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528562"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979563"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Toep assen op verkopen in nationale Clouds van micro soft als onderdeel van het CSP-programma
+
+**Van toepassing op**
+
+- Partner centrum voor micro soft Government Cloud
+- Partner centrum voor Microsoft Cloud Duitsland
+
+
+**Juiste rollen**
+
+- Globale beheerder
 
 Naast de verkoop aan klanten als onderdeel van het Global Cloud Solution Provider-programma, kunnen gekwalificeerde micro soft-partners ook cloud oplossingen verkopen aan klanten in drie afzonderlijke nationale Clouds. Nationale Clouds zijn fysieke en logische netwerkgebruikte exemplaren van micro soft Enter prise Cloud Services, die worden beperkt binnen de geografische grenzen van specifieke landen en die worden beheerd door het lokale personeel. 
 
@@ -49,3 +59,7 @@ Gekwalificeerde partners kunnen micro soft-cloud oplossingen verkopen aan klante
     Micro soft is de technologie provider, maar de service wordt niet gebruikt. 21Vianet is onafhankelijk van invloed op, biedt en beheert de levering van micro soft-Cloud Services. 21Vianet van micro soft-technologieën biedt ondersteuning voor Azure-en Office 365-Services en kan Azure-en Office 365-Data Centers gebruiken waarmee gegevens in de vasteland-China worden bewaard. 21Vianet biedt ook abonnements-en facturerings Services, evenals ondersteuning.
 
     Zie voor meer informatie over het registreren en verkopen van klanten in Azure en Office 365 beheerd door 21Vianet in China [partner centrum dat wordt beheerd door 21vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Veelgestelde vragen over partner centrum voor Microsoft Cloud voor de Amerikaanse overheid](faq-for-us-govt-cloud.md)
