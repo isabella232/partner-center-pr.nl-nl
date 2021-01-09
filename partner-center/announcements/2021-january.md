@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 17c4e19216218d070515b34d326dcca6596e94a8
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979801"
+ms.locfileid: "98041004"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -25,21 +25,59 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 2020 aankondigingen: [mei](2020-may.md)van juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md) | 13
 
 ________________
+
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Licentie-basis prijs lijst updates voor januari 2021 
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-08
+- Aanbiedingen/markten
+
+### <a name="summary"></a>Samenvatting
+
+De prijs lijsten van januari en februari voor aanbiedingen op basis van een licentie zijn bijgewerkt om bepaalde onjuiste lijst prijzen te corrigeren.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners communiceren via het programma Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Details 
+
+De prijs lijsten op basis van licenties voor januari 2021 en februari 2021 bevatten een paar onjuiste lijst prijzen. De aanbiedingen en valuta's die van invloed zijn op zijn hieronder. De juiste prijzen zijn bijgewerkt en beschikbaar vanaf 7 januari 2021 2PM PST (Pacific (standaard tijd)). 
+
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E3|2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091|AAA-35638| 
+   |Microsoft 365 Business Basic|bd938f12-058f-4927-bba3-ae36b1d2501c|AAA-10624|
+
+Beïnvloede valuta's: 
+
+- Microsoft 365 de prijs problemen voor E3 zijn beperkt tot alleen deze valuta's: JPY (Japanse yen), GBP (geweldig Britse pond), EUR (Europese Unie), AUD (Australische dollar). 
+- Microsoft 365 Business Basic-problemen zijn beperkt tot USD (Verenigde Staten dollars). 
+
+Partners moeten verwijzen naar de momenteel beschik bare prijs lijsten voor januari en februari voor de juiste prijzen. 
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Partners moeten de nieuwste prijslijst bestanden downloaden van het partner centrum om de gecorrigeerde prijzen voor januari en februari te krijgen. 
+- Globale beheerders voor tenants die hebben gekocht tussen 1 januari en 6 januari, worden via een e-mail van een partner centrum gewaarschuwd voor eind januari met meer details. 
+
+_____________ 
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Wijzigingen in de facturerings valuta van de partner van de EU/EVA voor nieuwe Commerce aanbiedingen
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2021-01-07
-- Moderne werk plek
+- Functionaliteit
 
 ### <a name="impacted-audience"></a>Doel groep
 
-- Directe provider, indirecte provider, indirecte wederverkoper
 - Alle partners handelen via het programma Cloud solution provider in de regio EU/EVA 
 
 ### <a name="details"></a>Details
 
-In de regio Europese Unie (EU)/European Free Trade Association (EVA) zal alle nieuwe Commerce aanbiedingen in het Cloud Solution Provider-programma de facturerings locatie van de partner gebruiken in plaats van de facturerings locatie van de klant. Dit betekent dat partners door micro soft worden gefactureerd op basis van hun locatie valuta, niet op de locatie valuta van de klant. Dit gebeurt in twee fasen:
+In de regio Europese Unie (EU)/European Free Trade Association (EVA) zal alle nieuwe Commerce aanbiedingen in het Cloud Solution Provider-programma de facturerings locatie van de partner gebruiken in plaats van de facturerings locatie van de klant. Daarom worden partners door micro soft gefactureerd op basis van hun locatie valuta, niet de locatie valuta van de klant. Dit gebeurt in twee fasen:
 
 **Fase 1:**
 
@@ -61,9 +99,8 @@ De volgende fase 1 en tijdens het kalender jaar 2021, micro soft zet de facturer
 Na fase 2 worden partners in de regio van de EU/EVA gefactureerd in de valuta van de partner locatie voor alle klanten en alle CSP-aankopen.
 
 >[!NOTE]
->Deze wijziging is alleen van invloed op de facturerings valuta van de partner en niet op de prijzen van nieuwe Commerce-aanbiedingen in CSP.
+>Deze wijziging is alleen van invloed op de facturerings valuta van de partner en niet op de prijzen van nieuwe Commerce-aanbiedingen in CSP. De nieuwe Commerce-aanbiedingen in het bereik voor deze wijziging zijn: Azure-abonnementen die deel uitmaken van een Azure-abonnement, Azure-reserve ringen, Server abonnementen, permanente software en micro soft Commercial Marketplace-aankopen in het Cloud Solution Provider-programma.
 
-De nieuwe Commerce-aanbiedingen in het bereik voor deze wijziging zijn: Azure-abonnementen die deel uitmaken van een Azure-abonnement, Azure-reserve ringen, Server abonnementen, permanente software en micro soft Commercial Marketplace-aankopen in het Cloud Solution Provider-programma.
 
 ### <a name="partner-benefits"></a>Voor delen van partner
 
@@ -82,6 +119,13 @@ Lees de informatie over dit onderwerp in de [Operations-galerie](https://partner
 
 Voor vragen met betrekking tot deze melding kunt u contact opnemen met [ondersteuning van partner centrum](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (aanmelden vereist).
 
+### <a name="change-log"></a>Wijzigingenlogboek
+
+- 17 november 2020: oorspronkelijke publicatie
+ 
+- 7 januari 2021: er is een aanvullend scenario opgenomen voor fase 1 en fase 2
+
+
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Afschaffing en buiten gebruik stellen van bestaande Api's voor het door geven van de educatie van het onderwijs en voor de vorming van kwalificaties voor het einde van februari 2021
 
@@ -91,9 +135,9 @@ Partners die academische aanbiedingen verkopen via het Cloud Solution Provider-p
 
 ### <a name="details"></a>Details 
 
-Dit is een follow-up van de API-verbeteringen die zijn uitgebracht in december 2020. In 2020 december zijn de nieuwe GET-en POST-kwalificaties-Api's uitgebracht, en als gevolg hiervan worden de oude Api's voor het ophalen en plaatsen van de kwalificatie beëindigd na het einde van februari 2021. Op dat moment moet u de nieuwe Api's van het hulp programma voor het ophalen en POST Partner Center gebruiken om opleidings aanbiedingen te kunnen kopen. 
+Dit is een follow-up van de API-verbeteringen die zijn uitgebracht in december 2020. In december 2020 zijn nieuwe GET-en POST-kwalificaties-Api's uitgebracht, en als gevolg hiervan worden de oude Api's voor het ophalen en plaatsen van de kwalificatie buiten gebruik gesteld door eind februari 2021. Op dat moment moet u de nieuwe Api's van het hulp programma voor het ophalen en POST Partner Center gebruiken om opleidings aanbiedingen te kunnen kopen. 
 
-## <a name="next-steps"></a>Volgende stappen
+### <a name="next-steps"></a>Volgende stappen
 
 - Als u dit nog niet hebt gedaan, moet u bijwerken naar de nieuwe Api's voor een geslaagde en tijdige overgang.
 - Bekijk de nieuwe API-wijzigingen van het partner centrum en [richt u op de resources voor de bewerkings voorbereiding: Partner Center onderwijs van klant validatie proces verbeteringen](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
@@ -157,7 +201,7 @@ Deze Sku's zijn verwijderd uit de lijst met 1 januari 2021 voor de uiteindelijke
    |Dynamics 365-bewerkingen-apparaat voor het migratie programma van AX|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
    |Dynamics 365-team leden voor het AX-migratie programma|1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2|
 
-## <a name="next-steps"></a>Volgende stappen
+### <a name="next-steps"></a>Volgende stappen
 
 Bekijk de resources over dit onderwerp en deel ze met de juiste belanghebbenden in uw organisatie. 
 
