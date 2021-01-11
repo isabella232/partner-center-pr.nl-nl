@@ -9,22 +9,81 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98041004"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062447"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Partner Center voor januari 2021.
 
-2021 aankondigingen: [januari](2021-january.md)
+2021 aankondigingen: januari
 
-2020 aankondigingen: [mei](2020-may.md)van juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md) | 13
+2020 aankondigingen: [mei](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md)  
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>Update van commerciële prijzen voor de Indiase rupee 
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-08
+- Aanbiedingen/markten
+
+### <a name="impacted-audience"></a>Doel groep
+
+CSP-partners communiceren in India.
+
+### <a name="details"></a>Details 
+
+Micro soft brengt wijzigingen aan in de prijs lijst voor Indische rupee om prijzen voor commerciële software en onlineservices in India en de Aziatische regio af te stemmen.
+
+De volledige aankondiging is alleen beschikbaar voor micro soft-partners. [Meld u aan voor toegang tot de volledige aankondiging](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
 
 ________________
+
+## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>Plan-en telefoon systeem updates aanroepen voor 1 februari 20201
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-08
+- Aanbiedingen/markten
+
+### <a name="summary"></a>Samenvatting
+
+Er is binnenkort een add-on-aanbieding aan Microsoft 365, die het telefoon systeem en het binnenlandse oproep plan en een zelfstandig, intern oproep plan bevat.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners communiceren via het programma Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Details 
+
+De aanbieding voor gebundelde invoeg toepassingen voor Microsoft 365 E1, E3 en E5 omvat het telefoon systeem en het gespreks plan van de huis. Daarnaast is een nieuw, zelfstandig, intern oproep plan aanbod alleen beschikbaar voor E5. De nieuwe aanbiedingen zijn alleen beschikbaar voor klanten in de Verenigde Staten, Puerto Rico en Canada. voor alle andere landen en regio's blijven de bestaande globale zelfstandige Sku's en de prijzen hetzelfde. 
+
+Deze aanbiedingen zijn beschikbaar voor commercieel, student, faculteit, Government Community Cloud (GCC) en non-profit klanten in de VS, Puerto Rico en Canada. Oproep plannen zijn niet beschikbaar in een van de andere gebieden van de Verenigde Staten.
+
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |-------------------|:------|:------|
+   |Micro soft teams die essentiële onderdelen voor V.S. en Canada aanroepen|1ee81de6-4d8b-4cf1-b926-2fd2a774a4ca|8N2-00010|
+   |Micro soft teams die essentiële onderdelen voor V.S. en Canada aanroepen (prijzen voor non-profit organisaties)|0c2ece0d-39b7-40ec-8c08-87c2b6c75d62|8N2-00011|
+   |Micro soft teams die essentiële onderdelen voor de VS en Canada voor faculteiten aanroepen|b8baa3b8-8cc2-4f26-a212-7fbeb28e7895|8N3-00003|
+   |Micro soft-teams die essentiële onderdelen aanroepen voor VS en Canada voor studenten|26956da8-eeb5-44e3-aa79-d36e0e42b930|8N3-00004|
+   |Micro soft teams die essentiële onderdelen voor GCC en Canada aanroepen|7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1|8N4-00002|
+   |Microsoft 365 intern gespreks plan voor de Verenigde Staten en Canada|60d2919e-427a-46c9-bd03-89cbad27d53f|TK2-00050|
+   |Microsoft 365 intern gespreks plan voor faculteiten voor de Verenigde Staten en Canada|602e7548-375b-4e01-bf79-a9a8b8ff16d4|LM7-00006|
+   |Microsoft 365 intern gespreks plan voor studenten voor de Verenigde Staten en Canada|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
+   |Microsoft 365 intern gespreks plan voor GCC voor de Verenigde Staten en Canada|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Deel deze informatie met de relevante contact personen in uw organisatie en begrijp inzicht in de verkoop kansen voor verkopen en cross-selling. 
+- Raadpleeg de sectie resources van de [partner handleiding voor teams](https://aka.ms/teamscallingmeetingsguide).
+
+_____________ 
 
 ## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Licentie-basis prijs lijst updates voor januari 2021 
 
@@ -77,15 +136,15 @@ _____________
 
 ### <a name="details"></a>Details
 
-In de regio Europese Unie (EU)/European Free Trade Association (EVA) zal alle nieuwe Commerce aanbiedingen in het Cloud Solution Provider-programma de facturerings locatie van de partner gebruiken in plaats van de facturerings locatie van de klant. Daarom worden partners door micro soft gefactureerd op basis van hun locatie valuta, niet de locatie valuta van de klant. Dit gebeurt in twee fasen:
+In de regio Europese Unie (EU)/European Free Trade Association (EVA) zal alle nieuwe Commerce aanbiedingen in het Cloud Solution Provider-programma de facturerings locatie van de partner gebruiken in plaats van de facturerings locatie van de klant. Daarom worden partners door micro soft gefactureerd op basis van hun locatie valuta, niet de locatie valuta van de klant. Deze wijzigingen worden uitgevoerd in twee fasen:
 
 **Fase 1:**
 
 - Nieuwe klant die een nieuwe Commerce-aanbieding koopt in CSP
 
-- Bestaande klanten hebben de eerste keer een nieuwe Commerce-aanbieding gekocht-Tenant gemaakt vóór 11 mei 2020
+- Bestaande klanten hebben nieuwe Commerce aanbiedingen voor het eerst gekocht-Tenant gemaakt vóór 11 mei 2020
 
-Vanaf januari 28, 2021, partners die net nieuwe klanten hebben die een nieuwe Commerce-aanbieding kopen, of bestaande klanten met tenants die zijn gemaakt vóór 11 mei 2020 de eerste aankoop van nieuwe Commerce aanbiedingen, wordt gefactureerd voor die aankopen in de valuta van de partner locatie.  
+Vanaf 28 januari 2021 worden partners die net nieuwe klanten hebben die een nieuwe Commerce-aanbieding kopen of bestaande klanten met tenants die zijn gemaakt vóór 11 mei 2020 hun eerste aankoop van nieuwe Commerce aanbiedingen, gefactureerd voor die aankopen in de valuta van de partner locatie.  
 
 Partners met bestaande klanten die al nieuwe Commerce aanbiedingen in CSP hebben gekocht, blijven in de valuta van de facturerings locatie van de klant in rekening worden gebracht tijdens deze fase. Daarnaast worden partners met bestaande klanten een eerste aankoop van een nieuwe Commerce-aanbieding, waarvan de tenants zijn gemaakt op of na 11 mei 2020, in rekening gebracht voor de valuta van de klant.
 
@@ -94,7 +153,7 @@ Partners met bestaande klanten die al nieuwe Commerce aanbiedingen in CSP hebben
 - Bestaande klanten die al een nieuwe Commerce-aanbieding in CSP hebben gekocht vóór fase 1
 - Bestaande klanten hebben nieuwe Commerce aanbiedingen voor het eerst gekocht: de Tenant is gemaakt op of na 11 mei 2020
 
-De volgende fase 1 en tijdens het kalender jaar 2021, micro soft zet de facturering van nieuwe Commerce-aanbiedingen voor partners met bestaande klanten over, die een nieuwe Commerce-aanbieding in CSP vóór fase 1 hebben gekocht, en klanten die hun tenants hebben gemaakt op of na 11 mei 2020, van de valuta van de klant locatie tot de valuta van de partner. Partners worden goed geïnformeerd voordat deze wijziging wordt geïmplementeerd.
+De volgende fase 1 en het kalender jaar 2021, micro soft zet de facturering van nieuwe Commerce-aanbiedingen voor partners met bestaande klanten over, die een nieuwe Commerce-aanbieding in CSP vóór fase 1 hebben gekocht, en klanten die hun tenants hebben gemaakt op of na 11 mei 2020, van de valuta van de klant locatie tot de valuta van de partner. Partners worden goed geïnformeerd voordat deze wijziging wordt geïmplementeerd.
 
 Na fase 2 worden partners in de regio van de EU/EVA gefactureerd in de valuta van de partner locatie voor alle klanten en alle CSP-aankopen.
 
@@ -122,7 +181,6 @@ Voor vragen met betrekking tot deze melding kunt u contact opnemen met [onderste
 ### <a name="change-log"></a>Wijzigingenlogboek
 
 - 17 november 2020: oorspronkelijke publicatie
- 
 - 7 januari 2021: er is een aanvullend scenario opgenomen voor fase 1 en fase 2
 
 
@@ -170,7 +228,7 @@ Micro soft kondigt aanstaande nieuwe Dynamics 365-aanbiedings wijzigingen aan di
 
 **Dynamics 365 Customer Voice extra reactie**
 
-Op 1 februari 2021 maakt micro soft een nieuwe aanbieding ' extra antwoord ' met een reactie recht van 1 K om de bestaande aanbieding te vervangen door 2 K enquête reacties, het einde van de verkoop van op 1 februari 2021.
+Op 1 februari 2021 maakt micro soft een nieuwe aanbieding ' extra antwoord ' met een reactie recht van 1-K om de bestaande aanbieding te vervangen door 2-K enquête reacties, het einde van de verkoop van op 1 februari 2021.
 
 Zie het tabblad ' Customer Voice Extraion ' in het [Excel-bestand voor Dynamics CSP Offers-February 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) voor de SKU-gegevens. Bekijk de [Start pagina van micro soft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/en-us/customer-voice/overview/) voor meer informatie.
 
