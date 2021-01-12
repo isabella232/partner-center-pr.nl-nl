@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514697"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105525"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Vereisten voor inschrijving als een CSP-partner voor directe facturering
 
-**Van toepassing op**
+**Juiste rollen**
 
-- Directe factuur partners in het Cloud Solution Provider-programma
+- Globale beheerder
 
 ## <a name="enroll-as-a-direct-partner"></a>Inschrijven als een directe partner
 
-Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw klant en met micro soft. Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw klant en met micro soft. We hebben vanaf 27 oktober 2020 de inschrijvings vereisten voor directe factuur partners bijgewerkt. Aan de hand van deze vereisten kunt u de groei van uw bedrijf versnellen met het juiste provider model voor cloud oplossingen en uw klant relaties versterken met services die zijn toegevoegd aan toegevoegde waarde en ondersteuning.  
+Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw klant en met micro soft. We hebben vanaf 27 oktober 2020 de inschrijvings vereisten voor directe factuur partners bijgewerkt. Aan de hand van deze vereisten kunt u de groei van uw bedrijf versnellen met het juiste provider model voor cloud oplossingen en uw klant relaties versterken met services die zijn toegevoegd aan toegevoegde waarde en ondersteuning.  
 
 ### <a name="minimum-requirements"></a>Minimale vereisten
 

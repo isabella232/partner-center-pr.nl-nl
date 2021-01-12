@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fc5a34bbb8326b38c13cc73ca9fff099f9b1c0db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979754"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105508"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners
 
@@ -95,4 +95,4 @@ U kunt ook zien of u de overeenkomst hebt ondertekend door **overeenkomsten** va
  
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Registreren bij het Cloud Solution Provider-programma](enrolling-in-the-csp-program.md)
+- [Registreren bij het Cloud Solution Provider-programma](indirect-reseller-tasks-in-partner-center.md)

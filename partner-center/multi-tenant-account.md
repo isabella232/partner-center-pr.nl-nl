@@ -1,7 +1,7 @@
 ---
 title: Extra tenants toevoegen aan uw partner centrum-account
 ms.topic: article
-ms.date: 07/30/2020
+ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over het toevoegen, consolideren en beheren van meerdere Azure AD-tenants in uw partner centrum-account. Lees ook over een aantal van de redenen waarom u dit zou willen doen.
@@ -9,18 +9,15 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528752"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105546"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Meerdere tenants toevoegen en beheren in uw partner centrum-account
 
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -42,7 +39,7 @@ Met deze functie kunt u meerdere tenants voor uw bedrijf beheren en deze consoli
 ## <a name="add-another-azure-ad-tenant-to-your-account"></a>Nog een Azure AD-Tenant aan uw account toevoegen
 
 1. Meld u als globale beheerder aan bij het [dash board](https://partner.microsoft.com/dashboard)van het partner centrum.
-1. Selecteer op het pictogram **instellingen** **account instellingen** en selecteer vervolgens **tenants** .
+1. Selecteer op het pictogram **instellingen** **account instellingen** en selecteer vervolgens **tenants**.
  
 :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="tenants koppelen"::: 
 
@@ -50,15 +47,36 @@ Met deze functie kunt u meerdere tenants voor uw bedrijf beheren en deze consoli
 
 1. Meld u als globale beheerder aan bij de Tenant die u wilt koppelen en bevestig de koppeling. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="tenants koppelen"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="koppelen van tenants bevestigen"::: 
 
-5. Nadat u hebt bevestigd, ziet u de melding **alle instellingen** .  Selecteer **terug naar Tenant beheer** en de zojuist toegevoegde Tenant wordt weer gegeven. 
+5. Nadat u hebt bevestigd, ziet u de melding **alle instellingen** .  Selecteer **terug naar Tenant beheer om** de zojuist toegevoegde Tenant weer te geven. 
  
 
 >[!NOTE]
 >U kunt een Tenant niet koppelen aan een account als het al is gekoppeld aan een ander partner centrum-account.
 
+
+## <a name="remove-a-tenant-from-your-account"></a>Een Tenant verwijderen uit uw account
  
+1. Meld u als globale beheerder aan bij het [dash board](https://partner.microsoft.com/dashboard)van het partner centrum.
+
+1. Selecteer op het pictogram **instellingen** **Account instellingen** -> tenants en klik op het tabblad **partner** .
+ 
+3. Klik op **verwijderen** voor de Tenant die u wilt ontkoppelen.
+
+4. Het ontkoppelen van een Tenant betekent dat de gebruikers van die Tenant niet langer toegang hebben tot het partner centrum-account en dat dit gevolgen kan hebben voor uw vaardig heden. 
+
+De knop **verwijderen** is ingeschakeld voor alle gekoppelde tenants, met uitzonde ring van de primaire Tenant en de Tenant waarmee u momenteel bent aangemeld.
+
+:::image type="content" source="images/disassociate.png" alt-text="tenants met de knop verwijderen":::
+ 
+
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Gebruikers toevoegen](create-user-accounts-and-set-permissions.md)
+
+
+
+
+
+
