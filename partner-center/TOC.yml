@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: Rapporten over inzichten
           items:
+            - name: Overzicht
+              href: pci-overview-report.md
+            - name: Klant
+              href: pci-customer-report.md
+            - name: Prestaties van resellers
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: Productabonnementen
+              href: pci-product-subscriptions-report.md
             - name: Azure-gebruik
               href: pci-azure-usage-report.md
+            - name: Teams-gebruik
+              href: pci-teams-usage-report.md
+            - name: Office 365-gebruik
+              href: pci-office-365-usage-report.md
+            - name: Dynamics-gebruik
+              href: pci-dynamics-usage-report.md
+            - name: Enterprise Mobility + Security-gebruik
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: Power BI-gebruik
+              href: pci-power-bi-usage-report.md
+            - name: Training
+              href: pci-training-dashboard.md
+            - name: Microsoft Learn-analyse
+              href: ms-learn-analytics.md
+            - name: Competenties
+              href: pci-competencies-report.md
             - name: Voordelen
               href: pci-benefits-report.md
             - name: CloudAscent-tendens
               href: pci-customer-opportunities.md
-            - name: Competenties
-              href: pci-competencies-report.md
-            - name: Klant
-              href: pci-customer-report.md
-            - name: Microsoft Learn-analyse
-              href: ms-learn-analytics.md
-            - name: Overzicht
-              href: pci-overview-report.md
             - name: Productlicenties
               href: pci-product-licenses-report.md
-            - name: Productabonnementen
-              href: pci-product-subscriptions-report.md
-            - name: Prestaties van resellers
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: Training
-              href: pci-training-dashboard.md
         - name: Veelgestelde vragen over inzichten
           href: pci-known-issues.md
         - name: Rapporten met inzichten downloaden
