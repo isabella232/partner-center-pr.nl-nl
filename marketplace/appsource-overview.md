@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771689"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146384"
 ---
 # <a name="what-is-microsoft-appsource"></a>Wat is Microsoft AppSource?
 
@@ -48,7 +48,18 @@ De software leverancier definieert de prijs, gebruiksrecht overeenkomst en priva
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS-en M365-geïntegreerde apps detecteren
 
-Onze partners kunnen een koppeling maken tussen SaaS-en M365-geïntegreerde apps. Zo kunt u de geïntegreerde apps downloaden en gebruiken wanneer u de gekoppelde SaaS-app ophaalt. In dit geval kan het Zoek resultaat alleen de SaaS-app retour neren waarin de pictogrammen van de geïntegreerde apps worden weer gegeven. U kunt navigeren tussen de SaaS en de geïntegreerde app op de pagina Product Details van elke. Als een SaaS-app moet worden aangeschaft, raadpleegt [u SaaS-aanbiedingen aanschaffen op Microsoft AppSource](purchase-software-appsource.md).
+Onze partners kunnen een koppeling maken tussen een SaaS-toepassing en de bijbehorende invoeg toepassingen voor Microsoft 365. Hiermee kunt u de invoeg toepassingen van specifieke Microsoft 365 Services of producten downloaden en gebruiken wanneer u een SaaS-app aan invoeg toepassingen koppelt.
+
+In dit geval kan het Zoek resultaat alleen de SaaS-app retour neren met bijbehorende product pictogrammen voor invoeg toepassingen op de product kaart van de SaaS-app. U kunt navigeren tussen de product detail pagina's van de SaaS-toepassing en de geïntegreerde app.
+
+Als u op zoek bent naar de zelfstandige invoeg toepassingen, kunt u deze vinden op een van de volgende manieren:
+
+- Open de [AppSource-product catalogus](https://appsource.microsoft.com/marketplace/apps/)en klik in de linkernavigatiebalk onder **producten** op **Microsoft 365**. Selecteer in de lijst met producten die worden weer gegeven onder **Microsoft 365** de vakken voor de gewenste producten.
+- Of selecteer het pictogram van het product add-in op de product kaart van de SaaS-toepassing om naar de specifieke module te gaan die verborgen is in de zoek weergave.
+
+Als een SaaS-app moet worden aangeschaft, raadpleegt [u SaaS-aanbiedingen aanschaffen op Microsoft AppSource](purchase-software-appsource.md).
+
+Microsoft 365 gebruikers met beheerders rechten kunnen zowel de SaaS als invoeg toepassingen op één plek implementeren. Zie voor meer informatie [Microsoft 365-Apps testen en implementeren-Microsoft 365-beheerder](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md).
 
 ## <a name="find-ratings-and-reviews"></a>Beoordelingen en beoordelingen zoeken
 
