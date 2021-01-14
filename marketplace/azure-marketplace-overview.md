@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 89ed8850d92861ea7da2d83a9945980f0ca71daa
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007513"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182525"
 ---
 # <a name="what-is-azure-marketplace"></a>Wat is Azure Marketplace?
 
@@ -59,11 +59,11 @@ Er zijn een aantal opties voor betaling:
 - Creditcard
 - Factuur (met bestaande micro soft-aankoop overeenkomst)
 
-Azure Marketplace-aankopen worden automatisch toegevoegd aan uw Azure-factuur en worden in rekening gebracht op basis van de betalings wijze die aan het account is gekoppeld. Voor hulp bij het koppelen van verschillende betalings accounts raadpleegt u [account type voor facturering controleren](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) in het onderwerp **Azure External charges** .
+Azure Marketplace-aankopen worden automatisch toegevoegd aan uw Azure-factuur en worden in rekening gebracht op basis van de betalings wijze die aan het account is gekoppeld. Voor hulp bij het koppelen van verschillende betalings accounts raadpleegt u [account type voor facturering controleren](/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) in het onderwerp **Azure External charges** .
 
 ## <a name="certification-and-security"></a>Certificering en beveiliging
 
-Elk product dat beschikbaar is op Azure Marketplace, is gecertificeerd volgens specifieke criteria. We raden u aan om elk product zorgvuldig te bekijken, zodat u zeker weet dat het voldoet aan de unieke vereisten van uw organisatie. Zie het beleid voor commerciële Marketplace- [certificerings](https://docs.microsoft.com/legal/marketplace/certification-policies)instanties voor meer informatie over het certificerings beleid dat we voor elk type aanbieding bekijken.
+Elk product dat beschikbaar is op Azure Marketplace, is gecertificeerd volgens specifieke criteria. We raden u aan om elk product zorgvuldig te bekijken, zodat u zeker weet dat het voldoet aan de unieke vereisten van uw organisatie. Zie het beleid voor commerciële Marketplace- [certificerings](/legal/marketplace/certification-policies)instanties voor meer informatie over het certificerings beleid dat we voor elk type aanbieding bekijken.
 
 ## <a name="terms-and-conditions"></a>Voorwaarden
 

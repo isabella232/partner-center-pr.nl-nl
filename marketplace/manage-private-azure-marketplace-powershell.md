@@ -8,12 +8,12 @@ ms.prod: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: c5b8b9fcc247818315887109e2163c0722bfbd97
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: d0021be17ab12b6e549b0e5263772a4a1e42f8a3
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96536261"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182338"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Snelstartgids: een persoonlijke Azure Marketplace beheren met Power shell
 
@@ -30,7 +30,7 @@ In dit artikel wordt beschreven hoe u aanbiedingen kunt beheren in een persoonli
   * [Installeer de PowerShell-module](/powershell/azure/install-az-ps).
   * Maak verbinding met uw Azure-account met de cmdlet [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount).
 * Als u ervoor kiest om Azure Cloud Shell te gebruiken:
-  * Raadpleeg [Overzicht van Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview) voor meer informatie.
+  * Raadpleeg [Overzicht van Azure Cloud Shell](/azure/cloud-shell/overview) voor meer informatie.
 
   > [!IMPORTANT]
   > Hoewel de Power shell-module **AZ. Marketplace** in preview is, moet u deze afzonderlijk installeren met behulp van de `Install-Module` cmdlet. Nadat de PowerShell-module algemeen beschikbaar is geworden, wordt deze onderdeel van toekomstige releases van de Az PowerShell-module en is deze standaard beschikbaar vanuit Azure Cloud Shell.

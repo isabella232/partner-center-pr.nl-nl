@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189744"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182593"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Uw partneraccount samenvoegen met een ander partneraccount
 
@@ -77,6 +77,8 @@ Als u besluit de uitnodiging voor het samen voegen van accounts te accepteren: Â
 
 - Alle Software Assurance-boek stukken worden in beide accounts bewaard. 
 
+- Er is geen invloed op de koppeling DPOR of PAL. Eventuele gekoppelde omzet bijdragen gaan in op het nieuwe globale partner account
+
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Een bedrijf uitnodigen om het partner centrum-account samen te voegen met uw partner centrum-account
 
 >[!Note]
@@ -84,11 +86,11 @@ Als u besluit de uitnodiging voor het samen voegen van accounts te accepteren: Â
 
 1. Selecteer **instellingen** in het dash board van uw partner centrum. 
 
-2. Selecteer **account samen voegen** .
+2. Selecteer **account samen voegen**.
 
 3. Voeg de MPN-ID toe die zich bevindt in het **partner profiel** van het account dat u wilt uitnodigen om met u samen te voegen. U moet de wereld wijde MPN-ID van de partner gebruiken. U kunt geen locatie MPN-ID gebruiken.
 
-4. Wanneer u **samen voegen** selecteert, wordt er een uitnodiging verzonden naar het partner bedrijf. Wanneer de gebruiker uw aanvraag accepteert, kunt u het samen voegen van accounts in het partner centrum starten. Als het bedrijf uw aanvraag weigert om accounts samen te voegen, kunnen ze uitleggen waarom ze de aanvraag hebben afgewezen. Er is een lijst met al uw account samenvoegingen beschikbaar onder de **samenvoeg geschiedenis** .
+4. Wanneer u **samen voegen** selecteert, wordt er een uitnodiging verzonden naar het partner bedrijf. Wanneer de gebruiker uw aanvraag accepteert, kunt u het samen voegen van accounts in het partner centrum starten. Als het bedrijf uw aanvraag weigert om accounts samen te voegen, kunnen ze uitleggen waarom ze de aanvraag hebben afgewezen. Er is een lijst met al uw account samenvoegingen beschikbaar onder de **samenvoeg geschiedenis**.
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Voor beeld van twee bedrijven die accounts samen voegen
 

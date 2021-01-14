@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691347"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182491"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) + server-abonnementen voor klanten verkrijgen, inrichten, & beheren
 
@@ -47,7 +47,7 @@ Met [Azure reserved VM instances](https://azure.microsoft.com/pricing/reserved-v
 
 Met een niet-overeenkomende combi natie van aantrekkelijke prijzen en ongeëvenaarde implementatie flexibiliteit krijgen klanten de beste algemene waarde wanneer ze Azure Reservations kiezen.
 
-- Zie [reserve ringen kopen](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) in azure Portal.
+- Zie [reserve ringen kopen](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) in azure Portal.
 
 - Zie de **commerciële prijs lijst van Azure RI CSP** onder de categorie **Microsoft Azure gereserveerde instanties** op de pagina [prijzen en aanbiedingen](https://partner.microsoft.com/dashboard/sell/pricingandoffers) van het partner centrum voor software abonnementen en Linux-ISV-abonnementen.
 
@@ -69,24 +69,24 @@ Als u wilt weten hoe u Azure Reservations kunt positioneren met uw klanten en zo
 
 1. Bekijk en begrijp de [nieuwe Commerce Operations Guide van het partner centrum](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
-2. Informatie over updates voor Azure Reservations en server abonnementen in de [Partner Center API (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances).
+2. Informatie over updates voor Azure Reservations en server abonnementen in de [Partner Center API (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances).
 
 
 ### <a name="sales-readiness"></a>Verkoop voorbereiding
 
 - [Extern bureaublad-services (RDS) Client Access License (mede deling)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure Reserved VM Instances (Azure Portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [Server abonnementen](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [Server abonnementen](./csp-software-subscriptions.md)
 
-- [SQL DB-reserve ringen (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [SQL DB-reserve ringen (Azure Portal)](/azure/sql-database/sql-database-reserved-capacity)
 
-- [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Azure Cosmos DB (Azure Portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [SQL Managed instance (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [SQL Managed instance (Azure Portal)](/azure/sql-database/sql-database-managed-instance)
 
-- [SUSE en Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SUSE en Red Hat Enterprise Linux (Azure Portal)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
 - [Red Hat Linux op Azure](https://azure.com/redhat)
 
@@ -98,7 +98,7 @@ Als u wilt weten hoe u Azure Reservations kunt positioneren met uw klanten en zo
 
 - [Azure prijscalculator](https://azure.microsoft.com/pricing/calculator)
 
-- [Reserve ringen van Azure Databricks eenheid](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Reserve ringen van Azure Databricks eenheid](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>Training
@@ -114,7 +114,7 @@ Eerder vastgelegde licenties op aanvraag voor de licentie controle zijn onder me
 
 - Azure Reservations overzicht in CSP (mei 2018)
 
-## <a name="operations"></a>Operations
+## <a name="operations"></a>Bewerkingen
 
 [Partner centrum nieuwe Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf): uitgebreide hand leiding met betrekking tot het sleutel beleid en operationele aspecten, zoals overeenkomsten, best Ellen via partner centrum, factuur, prijs lijst Details, prikkels, afstemmings bestanden, API/SDK, sandbox en gedeelde Azure partner-services.
 

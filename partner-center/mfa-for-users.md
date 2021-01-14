@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97579976"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182372"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Meervoudige verificatie instellen voor uw gebruikers
 
@@ -39,11 +39,10 @@ Hiermee wordt MFA ingeschakeld voor deze gebruiker. Ingeschakeld betekent dat de
 :::image type="content" source="images/MFA/securityverification.png" alt-text="Opgeven hoe moet worden gecontroleerd":::
 
 >[!NOTE]
->U kunt uw gebruikers **afdwingen** om MFA te gebruiken met behulp van dezelfde stappen als hierboven en vervolgens **afdwingen** te selecteren. Voor meer informatie, Lees [toestaan per gebruiker Azure multi-factor Authentication om aanmeldings gebeurtenissen te beveiligen](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates). 
+>U kunt uw gebruikers **afdwingen** om MFA te gebruiken met behulp van dezelfde stappen als hierboven en vervolgens **afdwingen** te selecteren. Voor meer informatie, Lees [toestaan per gebruiker Azure multi-factor Authentication om aanmeldings gebeurtenissen te beveiligen](/azure/active-directory/authentication/howto-mfa-userstates). 
 
 Alle gebruikers worden **uitgeschakeld**. Wanneer u gebruikers inschrijft in azure Multi-Factor Authentication per gebruiker, verandert de status in **ingeschakeld**. Wanneer ingeschakelde gebruikers zich aanmelden en het registratie proces volt ooien, wordt de status ervan gewijzigd in **afgedwongen**. 
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Rollen en machtigingen toewijzen aan gebruikers](permissions-overview.md)
-

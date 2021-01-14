@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736533"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182559"
 ---
 # <a name="december-2020-announcements"></a>December 2020-aankondigingen
 
@@ -152,7 +152,7 @@ De nieuwe micro soft Edge is onze beste expressie van een moderne browser en we 
 **Gevolgen van de wijziging**
 
 - Vanaf **November 30 2020** kunnen klanten geen verbinding meer maken met de Web-App van micro soft teams in Internet Explorer 11. Micro soft is van mening dat klanten optimaal gebruikmaken van Microsoft 365 en de beste expressie van een moderne browser bij gebruik van de [nieuwe micro soft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- Na **9 2021 maart** kunnen apps en sites die zijn gemaakt voor micro soft Edge verouderd blijven werken in de nieuwe micro soft Edge, maar als er sprake is van een compatibiliteits probleem, is er voor de [app gegarandeerd](https://aka.ms/appassure) dat er ondersteuning wordt geboden.
+- Na **9 2021 maart** kunnen apps en sites die zijn gemaakt voor micro soft Edge verouderd blijven werken in de nieuwe micro soft Edge, maar als er sprake is van een compatibiliteits probleem, is er voor de [app gegarandeerd](/fasttrack/products-and-capabilities#app-assure) dat er ondersteuning wordt geboden.
 - Na **17 2021 augustus** hebben klanten een gedegradeerde ervaring of kunnen ze geen verbinding maken met Microsoft 365-apps en-services in Internet Explorer 11. Micro soft is van mening dat klanten optimaal gebruikmaken van Microsoft 365 en de beste expressie van een moderne browser bij gebruik van de [nieuwe micro soft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Volgende stappen
@@ -280,7 +280,7 @@ Het volgende gebeurt ook op dezelfde datum:
 
 - De prijs lijst met een permanente software cryptografie provider wordt opnieuw gepubliceerd in het partner centrum. U vindt deze in het gedeelte **Software** van de pagina [verkoop > prijs & aanbiedingen](https://partnercenter.microsoft.com/pcv/sales) , die extra producten en geografi bevat. Bekijk [hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) de volledige details.
 
-- De functie voor het uitvoeren van partner centrum-software en-licenties voor licentie sleutels worden buiten gebruik gesteld. Zie [aankondiging](https://docs.microsoft.com/partner-center/announcements/2020-september#17) -en partners zullen het Microsoft 365-beheer centrum uitsluitend gebruiken voor dit doel. Dit zorgt voor de veiligste en efficiënte ervaring voor klanten. Meer informatie over de Microsoft 365-beheer centrum-software vindt u in het [overzicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [algemene taken](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)en de mogelijkheden voor het [uitvoeren van licentie sleutels](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- De functie voor het uitvoeren van partner centrum-software en-licenties voor licentie sleutels worden buiten gebruik gesteld. Zie [aankondiging](./2020-september.md#17) -en partners zullen het Microsoft 365-beheer centrum uitsluitend gebruiken voor dit doel. Dit zorgt voor de veiligste en efficiënte ervaring voor klanten. Meer informatie over de Microsoft 365-beheer centrum-software vindt u in het [overzicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [algemene taken](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)en de mogelijkheden voor het [uitvoeren van licentie sleutels](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Permanente software in CSP
 
@@ -292,7 +292,7 @@ Bekijk de volgende resources en deel ze met de relevante contact personen in uw 
 
 - [Permanente CSP-software producten en geografische regio's](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) worden toegevoegd op 19 januari 2021
 
-- Microsoft 365 [overzicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)van het beheer centrum, [algemene taken](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)en mogelijkheden voor het [uitvoeren van licentie sleutels](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Microsoft 365 [overzicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)van het beheer centrum, [algemene taken](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)en mogelijkheden voor het [uitvoeren van licentie sleutels](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 - [Verkoop kansen voor partners uitbreiden in het Cloud Solution Provider-programma](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (partner aankondiging)
 
@@ -573,4 +573,4 @@ _ 31 augustus 2020: oorspronkelijke publicatie
 
 - 10 november 2020: herinnering om u aan te melden voor testen 
 
-- 3 december 2020: API-updates Live 
+- 3 december 2020: API-updates Live

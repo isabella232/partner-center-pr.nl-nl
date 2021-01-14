@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389302"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182321"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner inzichten – Veelgestelde vragen
 
@@ -26,15 +26,15 @@ Dit is gerelateerd aan bekende problemen met het weer geven of weer geven van ra
 
 V) **Ik zie de Insights-hub niet in mijn partner centrum-account. Wat moet ik doen?**
 
-A) Zorg ervoor dat u bent aangemeld bij het MPN-account voor uw organisatie. U hebt geen toegang tot het inzichten-dash board vanuit uw CSP-account. Zorg er ook voor dat u de rapport Viewer of de rol van Report Viewer kunt gebruiken die door uw globale beheerder is geopend.  Zie [dit artikel](https://docs.microsoft.com/partner-center/pci-roles)voor meer informatie over rollen.
+A) Zorg ervoor dat u bent aangemeld bij het MPN-account voor uw organisatie. U hebt geen toegang tot het inzichten-dash board vanuit uw CSP-account. Zorg er ook voor dat u de rapport Viewer of de rol van Report Viewer kunt gebruiken die door uw globale beheerder is geopend.  Zie [dit artikel](./pci-roles.md)voor meer informatie over rollen.
 
 V) **Ik zie de gefactureerde omzet of gegevens over verbruikte omzet van Azure (ACR) niet in mijn rapporten. Waarom is dat?**
 
-A) gefactureerde omzet-en ACR-gegevens zijn alleen beschikbaar voor gebruikers die Management Report viewers zijn.  Zie [dit artikel](https://docs.microsoft.com/partner-center/pci-roles)voor meer informatie over rollen.
+A) gefactureerde omzet-en ACR-gegevens zijn alleen beschikbaar voor gebruikers die Management Report viewers zijn.  Zie [dit artikel](./pci-roles.md)voor meer informatie over rollen.
 
 V) **Ik zie de gefactureerde omzet of gegevens over verbruikte omzet van Azure (ACR) niet in mijn rapporten. Waarom is dat?**
 
-A) gefactureerde omzet-en ACR-gegevens zijn alleen beschikbaar voor gebruikers die Management Report viewers zijn. Zie [dit artikel](https://docs.microsoft.com/partner-center/pci-roles)voor meer informatie over rollen.
+A) gefactureerde omzet-en ACR-gegevens zijn alleen beschikbaar voor gebruikers die Management Report viewers zijn. Zie [dit artikel](./pci-roles.md)voor meer informatie over rollen.
 
 V) **het land dat is gerapporteerd voor mijn klant lijkt onjuist te zijn. Waarom is dat?**
 

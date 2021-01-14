@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007505"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182474"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace-aankopen
 
@@ -25,7 +25,7 @@ Wanneer u via Azure Marketplace koopt, elimineert u de complexiteit van het behe
 
 ## <a name="permission-to-purchase"></a>Machtiging voor aankoop
 
-Nadat u de juiste software toepassing hebt gevonden, is het volt ooien van de aankoop eenvoudig. U hebt echter wel de juiste machtigingen nodig in het Azure-abonnement. Omdat Azure wordt uitgevoerd op een [op rol gebaseerd Access Control](https://docs.microsoft.com/azure/role-based-access-control/overview) model (RBAC), hebben uw account de eigenaar van het **abonnement** of de machtiging **Inzender** nodig om een aankoop te doen.
+Nadat u de juiste software toepassing hebt gevonden, is het volt ooien van de aankoop eenvoudig. U hebt echter wel de juiste machtigingen nodig in het Azure-abonnement. Omdat Azure wordt uitgevoerd op een [op rol gebaseerd Access Control](/azure/role-based-access-control/overview) model (RBAC), hebben uw account de eigenaar van het **abonnement** of de machtiging **Inzender** nodig om een aankoop te doen.
 
 Voordat u een aankoop voltooit, controleert u of de gebruiker de juiste configuratie heeft in de Azure-Tenant. Dit helpt bij het voor komen van fouten tijdens de aankoop.
 
@@ -55,7 +55,7 @@ Deze instellingen zijn van toepassing op alle gebruikers met toegang tot uw Azur
 
 ## <a name="cost-management"></a>Kostenbeheer
 
-Wanneer u producten aanschaft vanuit Azure Marketplace, wilt u inzichten krijgen die u helpen bij het beheren van de kosten. Azure Cost Management is een gratis hulp programma voor het weer geven van informatie over de producten die u hebt aangeschaft. U kunt Cost Management gebruiken om details te bekijken van de services die u in de loop van de tijd wilt best Eden en hoe deze kosten volgen op de budgetten die u hebt ingesteld. Naast het instellen van budgetten kunt u ook rapporten plannen en abonnements kosten analyseren. Meer informatie over Azure Cost Management door het volt ooien van de Microsoft Learn module voor het [analyseren van kosten en het maken van budgetten met Azure Cost Management](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+Wanneer u producten aanschaft vanuit Azure Marketplace, wilt u inzichten krijgen die u helpen bij het beheren van de kosten. Azure Cost Management is een gratis hulp programma voor het weer geven van informatie over de producten die u hebt aangeschaft. U kunt Cost Management gebruiken om details te bekijken van de services die u in de loop van de tijd wilt best Eden en hoe deze kosten volgen op de budgetten die u hebt ingesteld. Naast het instellen van budgetten kunt u ook rapporten plannen en abonnements kosten analyseren. Meer informatie over Azure Cost Management door het volt ooien van de Microsoft Learn module voor het [analyseren van kosten en het maken van budgetten met Azure Cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 U kunt de kosten en facturen van uw Azure Marketplace bekijken via het hulpprogramma kostenanalyse onder Azure Cost Management.
 
@@ -63,4 +63,4 @@ U kunt de kosten en facturen van uw Azure Marketplace bekijken via het hulpprogr
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Facturering en facturering](billing-invoicing.md)
+- [Facturering](billing-invoicing.md)

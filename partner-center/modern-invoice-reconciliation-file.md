@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 71ffee8426244c211338e97becab516c07251e45
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94499129"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182576"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Eenmalige CSP-velden voor het afstemmen van inkopen
 
@@ -28,9 +28,9 @@ Zie [reconciliatie bestanden gebruiken](use-the-reconciliation-files.md)voor mee
 | CustomerId | Unieke micro soft-id voor de klant in GUID-indeling. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Organisatie naam van de klant zoals gerapporteerd in het partner centrum. Deze kolom is belang rijk voor het afstemmen van de factuur met uw systeem gegevens. | *Modern verkoop DE2 in Johnny* |
 | CustomerDomainName | Domein naam van de klant. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Het land waar de klant zich bevindt. Bekijk de volledige [lijst met landen](/partner-center/regional-authorization-overview) voor uw regio.  | *NORMALIS* |
+| CustomerCountry | Het land waar de klant zich bevindt. Bekijk de volledige [lijst met landen](./regional-authorization-overview.md) voor uw regio.  | *NORMALIS* |
 | InvoiceNumber | Het factuur nummer dat is gekoppeld aan het afstemmings bestand.  | *G002297372* |
-| MpnId | De MPN-id van de CSP-partner. Zie [How to specificeren op partner](/partner-center/use-the-reconciliation-files#itemize-reconciliation-files-by-partner)voor meer informatie. | *6034453* |
+| MpnId | De MPN-id van de CSP-partner. Zie [How to specificeren op partner](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)voor meer informatie. | *6034453* |
 | ResellerMpnId | De MPN-id van de dealer van de record voor het abonnement. | *6048879* |
 | OrderId | De unieke id voor een order in het micro soft-factuur platform. Kan handig zijn om de volg orde te identificeren wanneer u contact opneemt met ondersteuning. Niet gebruikt voor afstemming. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate | De datum waarop de bestelling is geplaatst. | *10/3/2020* |
@@ -39,9 +39,9 @@ Zie [reconciliatie bestanden gebruiken](use-the-reconciliation-files.md)voor mee
 | AvailabilityId | De unieke id van de beschik baarheid. | *DZH318Z08B80* |
 | SkuName | De naam van de SKU. | *Tables-LRS* |
 | ProductName | De product naam. | *Tabellen* |
-| ChargeType | Het [type kosten](/partner-center/recon-file-charge-types) of correctie. | *Nieuw* |
+| ChargeType | Het [type kosten](./recon-file-charge-types.md) of correctie. | *Nieuw* |
 | UnitPrice | Prijs per licentie, zoals gepubliceerd in de prijs lijst, op het moment van aankoop. Zorg ervoor dat dit overeenkomt met de informatie die is opgeslagen in uw facturerings systeem tijdens het afstemmen. | *0,045* |
-| Hoeveelheid | Het aantal licenties. Zorg ervoor dat dit overeenkomt met de informatie die is opgeslagen in uw facturerings systeem tijdens het afstemmen. | *1* |
+| Aantal | Het aantal licenties. Zorg ervoor dat dit overeenkomt met de informatie die is opgeslagen in uw facturerings systeem tijdens het afstemmen. | *1* |
 | Subtotaal | Totaal voor belasting. Het subtotaal moet gelijk zijn aan het factureer bare aantal vermenigvuldigd met de werkelijke eenheids prijs. | *0* |
 | TaxTotal | Kosten belasting bedrag. Op basis van de belasting regels van uw markt en specifieke omstandigheden. | *0* |
 | Totaal | De totale hoeveelheid is gelijk aan het subtotaal plus het BTW-bedrag. | *0* |
@@ -54,7 +54,7 @@ Zie [reconciliatie bestanden gebruiken](use-the-reconciliation-files.md)voor mee
 | ChargeStartDate | De datum waarop het partner centrum de abonnements kosten in rekening brengt. Als het abonnement is gekocht met een jaarlijkse facturerings periode en een maandelijks facturerings abonnement, is dit de dag waarop het abonnement is gekocht. Met ingang van het volgende afstemmings bestand wordt het aantal 30 dagen verhoogd. | *9/1/2020* |
 | ChargeEndDate | De einddag van de kosten voor de facturerings cyclus van het abonnement. Als het abonnement is gekocht met een jaarlijkse facturerings periode en een maandelijks facturerings plan, is dit de 30e dag nadat het abonnement is gekocht. Met ingang van het volgende afstemmings bestand wordt het aantal 30 dagen verhoogd. | *9/30/2020* |
 | TermAndBillingCycle | De duur van de toezeg ging om het abonnement te blijven op het moment van aankoop. | *Opgeslagen gegevens (GB/maand)* |
-| EffectiveUnitPrice | De eenheids prijs in rekening gebracht voor het berekenen van de kosten voor de facturerings cyclus. Kortingen, aanpassingen in facturerings dagen en andere factoren bepalen de werkelijke eenheids prijs. Zie [effectief eenheids prijs berekenen](/partner-center/effective-unit-price-calculation)voor meer informatie.  | *0,03825* |
+| EffectiveUnitPrice | De eenheids prijs in rekening gebracht voor het berekenen van de kosten voor de facturerings cyclus. Kortingen, aanpassingen in facturerings dagen en andere factoren bepalen de werkelijke eenheids prijs. Zie [effectief eenheids prijs berekenen](./effective-unit-price-calculation.md)voor meer informatie.  | *0,03825* |
 | Unit type | Het type eenheid waarin de meter wordt gefactureerd. | *1 GB/maand* |
 | AlternateId | De alternatieve ID van het order regel item waarnaar wordt verwezen. | *6dc5c039750a* |
 | BillableQuantity | De totale hoeveelheid die wordt gefactureerd.  | *0,005001* |

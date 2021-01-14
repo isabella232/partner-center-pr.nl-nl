@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622164"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182406"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hoe het verdiende tegoed van de partner wordt berekend en betaald
 
@@ -36,7 +36,7 @@ De volgende vereisten zijn van toepassing op het ontvangen van de partner (PEC):
 
 - U moet over een actieve MPN-overeenkomst en een geldige RBAC-rol (Role-based Access Control) beschikken om het ontvangen van tegoed voor de door u beheerde Azure-assets te krijgen.
 
-- U moet over een 24x7 operationeel beheer en beheer van de Azure-resources van de klant in CSP beschikken. Dit betekent dat u beheerders bevoegdheden nodig hebt voor het Azure-abonnement van de klant, Azure-resource groep, Azure-resource. In het geval van indirecte providers en hun indirecte wederverkopers komt de indirecte provider in aanmerking voor PEC als hetzij de indirecte provider ofwel de indirecte reseller ofwel beide over dit operationele beheer beschikken. Zie [beheerders bevoegdheden voor Azure CSP-abonnementen herstellen voor](https://docs.microsoft.com/partner-center/revoke-reinstate-csp)meer informatie.
+- U moet over een 24x7 operationeel beheer en beheer van de Azure-resources van de klant in CSP beschikken. Dit betekent dat u beheerders bevoegdheden nodig hebt voor het Azure-abonnement van de klant, Azure-resource groep, Azure-resource. In het geval van indirecte providers en hun indirecte wederverkopers komt de indirecte provider in aanmerking voor PEC als hetzij de indirecte provider ofwel de indirecte reseller ofwel beide over dit operationele beheer beschikken. Zie [beheerders bevoegdheden voor Azure CSP-abonnementen herstellen voor](./revoke-reinstate-csp.md)meer informatie.
 
 - Naast de bovenstaande vereisten is PEC alleen van toepassing op Services die worden vermeld in de prijzen van het Azure-abonnement. deze kunt u exporteren via de prijs pagina voor [Azure-abonnementen](https://partner.microsoft.com/commerce/sales) .
 
@@ -48,7 +48,7 @@ De volgende vereisten zijn van toepassing op het ontvangen van de partner (PEC):
 
 - PEC wordt naar het Azure-resource niveau geverdiend. Als u geldige toegang hebt op het niveau van het abonnement of de resource groep, verdient elke resource die tot de hogere entiteit rolt, een PEC.
 
-- Meer informatie over PEC is ook beschikbaar op de pagina [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) .
+- Meer informatie over PEC is ook beschikbaar op de pagina [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners) .
 
 ### <a name="calculation"></a>Berekening
 

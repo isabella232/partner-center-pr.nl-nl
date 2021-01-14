@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011520"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182457"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Uw partner centrum-account, het bedrijfs profiel, de Bank gegevens, rollen, machtigingen en meer beheren
 
@@ -122,9 +122,9 @@ Er zijn veel Partner Center-Program ma's beschikbaar. Elk programma heeft andere
 
 Zie de volgende gedeeltelijke lijst voor meer informatie over het inschrijven van bepaalde partner Center-Program ma's:
 
-- [Commercieel Marketplace-programma](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Commercieel Marketplace-programma](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft Partner Network lidmaatschaps voordelen](mpn-overview.md)
-- [CSP-programma](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [CSP-programma](./enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Zie ook [partner netwerk bronnen](https://partner.microsoft.com/)voor meer informatie over het inschrijven in Partner Center-Program ma's.

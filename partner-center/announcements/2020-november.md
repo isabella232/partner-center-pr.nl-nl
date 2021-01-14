@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439085"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182542"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft partner centrum voor november 2020.
 
-2020 aankondigingen: [april](2020-april.md)juni tot en met september tot en met  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [oktober](2020-October.md) | Maand
+2020 aankondigingen: [april](2020-april.md)juni tot en met september tot en met  |  [](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md) | Maand
 
 ______________
 ## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Introductie van de mogelijkheid om SaaS-aanbiedingen te kopen met een facturering naar gebruik in het partner centrum 
@@ -40,7 +40,7 @@ Alle partners
 
 ### <a name="details"></a>Details
 
-Micro soft introduceert de mogelijkheid voor partners in het Cloud Solution Provider-programma, met inbegrip van indirecte providers en directe factuur partners, om SaaS-aanbiedingen te kopen met [facturering](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)naar gebruik   in Partner Center. Tegenwoordig kunnen partners in het Cloud Solution Provider-programma SaaS-aanbiedingen bekijken en [kopen met behulp van de Azure Portal](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase).Met deze nieuwe ervaring kunnen partners deze aanbiedingen kopen via de CSP-Marketplace in het partner centrum en de API, zoals voor andere typen SaaS-aanbiedingen. 
+Micro soft introduceert de mogelijkheid voor partners in het Cloud Solution Provider-programma, met inbegrip van indirecte providers en directe factuur partners, om SaaS-aanbiedingen te kopen met [facturering](/azure/marketplace/partner-center-portal/saas-metered-billing)naar gebruik   in Partner Center. Tegenwoordig kunnen partners in het Cloud Solution Provider-programma SaaS-aanbiedingen bekijken en [kopen met behulp van de Azure Portal](../csp-commercial-marketplace-purchase.md).Met deze nieuwe ervaring kunnen partners deze aanbiedingen kopen via de CSP-Marketplace in het partner centrum en de API, zoals voor andere typen SaaS-aanbiedingen. 
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -308,24 +308,24 @@ Het partner centrum is ontworpen om een groot aantal aanvragen af te handelen, m
 |**Bewerking**|**Documentatie voor Partnercentrum**|
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions|[Alle abonnementen van een klant ophalen](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Een abonnement op de ID ophalen](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/orders||[Alle bestellingen van een klant ophalen](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/Customers/{customer_id}/orders/{order_id}|[Een order op basis van ID ophalen](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/Customers/{customer_id}/orders/{order_id}/provisioningstatus|[De inrichtings status van het abonnement ophalen](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Orders beheren en een abonnement beheren](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Een lijst met invoeg toepassingen voor een abonnement ophalen](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Een lijst met Azure-rechten voor een abonnement ophalen](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Registratie status van abonnement ophalen](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Alle overdrachten van een klant ophalen](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Upgrade status van product ophalen](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Een lijst met aanbiedingen voor proef conversie ophalen](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Een abonnement ophalen op basis van id](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/Customers/{customer_id}/orders||[Alle bestellingen van een klant ophalen](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/orders/{order_id}|[Een bestelling ophalen op basis van id](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/Customers/{customer_id}/orders/{order_id}/provisioningstatus|[De inrichtingsstatus van het abonnement ophalen](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Orders beheren en een abonnement beheren](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Een lijst met invoegtoepassingen voor een abonnement ophalen](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Een lijst met Azure-rechten voor een abonnement ophalen](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[De registratiestatus van het abonnement ophalen](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Alle overdrachten van een klant ophalen](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Upgradestatus van product ophalen](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Een lijst met aanbiedingen voor omzetten van de proefversie ophalen](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-Deze aankondiging is erop gericht partners te voorzien van vroegtijdige kennis van de komende wijzigingen, waardoor ze kunnen voorbereiden. We raden u ten zeerste aan om partners vertrouwd te raken met deze Api's en overweeg de API voor het activiteiten logboek te gebruiken voor meer efficiëntie en om te voor komen dat deze wordt beperkt. Raadpleeg de informatie in [API Throttle-richt lijnen](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)voor meer informatie over deze functie. 
+Deze aankondiging is erop gericht partners te voorzien van vroegtijdige kennis van de komende wijzigingen, waardoor ze kunnen voorbereiden. We raden u ten zeerste aan om partners vertrouwd te raken met deze Api's en overweeg de API voor het activiteiten logboek te gebruiken voor meer efficiëntie en om te voor komen dat deze wordt beperkt. Raadpleeg de informatie in [API Throttle-richt lijnen](/partner-center/develop/api-throttling-guidance)voor meer informatie over deze functie. 
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de [richt lijnen](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)voor het beperken van de API en neem de nodige maat regelen. 
+Bekijk de [richt lijnen](/partner-center/develop/api-throttling-guidance)voor het beperken van de API en neem de nodige maat regelen. 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Context
 
 - In februari moesten partners de micro soft-klant overeenkomst ondertekenen (MCuA). Dit was een migratie van de vorige Microsoft Cloud Agreement (MCA). 
-- Als onderdeel van deze wijzigings partner werden de partners gevraagd om de overeenkomst type parameter op te geven, zoals [hier](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)wordt beschreven.
+- Als onderdeel van deze wijzigings partner werden de partners gevraagd om de overeenkomst type parameter op te geven, zoals [hier](/partner-center/develop/get-confirmation-of-customer-agreement)wordt beschreven.
 
 ### <a name="what-happened-next"></a>Wat is er nu gebeurd:
 
@@ -469,14 +469,14 @@ Met de Premium-aanbieding hebben klanten toegang tot de nieuw gepubliceerde micr
 
    |****|**Micro soft teams kamers Standard USD15-apparaat per maand**|**Micro soft teams kamers Premium USD50-apparaat per maand**|
    |-------------------|:------|:------|
-   |Skype voor Bedrijven|Yes| |
+   |Skype voor Bedrijven|Ja| |
    |Microsoft Teams|Ja|Ja|
    |Telefoon systeem|Ja|Ja|
    |Audio vergaderingen|Ja|Ja|
    |Microsoft Intune|Ja|Ja|
    | |Micro soft teams-kamers standaard USD15 per apparaat per maand|Micro soft teams kamers Premium USD50 per apparaat per maand|
-   |Beheerde services van micro soft teams-kamers| |Yes|
-   |Wereld wijde Beschik baarheid|Yes|In geselecteerde markten|
+   |Beheerde services van micro soft teams-kamers| |Ja|
+   |Wereld wijde Beschik baarheid|Ja|In geselecteerde markten|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Beheerde services van micro soft teams-kamers
 
@@ -673,7 +673,7 @@ Deze aanbiedingen zijn van invloed op de volgende klanten:
 - Net nieuwe klant tenants
 - Bestaande tenants van klanten die geen actieve of recent geannuleerde abonnement hebben (binnen de laatste 30 dagen) bij een zakelijke Voice-of audio conferencing-licentie op CSP, Web direct of een ander micro soft-commercieel kanaal
 
-#### <a name="additional-resources"></a>Aanvullende resources
+#### <a name="additional-resources"></a>Aanvullende bronnen
 
 - Ga naar de [pagina Microsoft 365 Business Voice-partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) voor meer informatie over zakelijke Voice. 
 - Meer informatie over deze promotie vindt u in de [Veelgestelde vragen](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)over gerelateerde partners.
