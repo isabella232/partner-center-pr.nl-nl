@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062447"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235933"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -23,6 +23,24 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 2021 aankondigingen: januari
 
 2020 aankondigingen: [mei](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md)  
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Update van commerciële prijzen voor Noorse kroon 
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-14
+- Aanbiedingen/markten
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners van Cloud solution providers die de Noorse kroon gebruiken.
+
+### <a name="details"></a>Details
+
+Van 1 maart 2021 worden de prijzen van Noorse kroon voor commerciële on-premises software en onlineservices gewijzigd in opnieuw uitlijnen met de geldende prijs niveaus in de regio.
+De volledige aankondiging is alleen beschikbaar voor micro soft-partners. [Meld u aan om toegang te krijgen tot de volledige aankondiging](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
 
 _____________ 
 
@@ -128,7 +146,7 @@ _____________
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2021-01-07
-- Functionaliteit
+- Functies
 
 ### <a name="impacted-audience"></a>Doel groep
 

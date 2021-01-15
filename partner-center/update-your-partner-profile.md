@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b0c9611927d644cc7a5beecc89e0a8cc6f066b7
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215880"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235916"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Uw organisatie profiel gegevens verifiëren in het partner centrum
 
@@ -27,8 +27,9 @@ De eerste keer dat u zich bij Partner Center als globale beheerder aanmeldt, moe
 
 Uw partner profiel bestaat uit uw juridische zakelijke gegevens, de naam en het e-mail adres van de primaire contact persoon, de Program ma's waarmee uw bedrijf deelneemt, en, indien van toepassing, uw andere bedrijven die nu onder uw juridische zaken worden samengevoegd. Zorg ervoor dat de bedrijfs naam en het adres in uw juridisch bedrijfs profiel geen spel fouten en afkortingen bevatten en overeenkomen met uw formele zakelijke registratie records voor bedrijven. Als u als enige eigenaar werkt, moet u uw bedrijfs naam gebruiken als uw geldige naam.
 
-- Voor MPN-accounts kan zowel de beheerder van de globale beheerder als het account de juridische bedrijfs naam bijwerken.
-- Voor de account van een indirecte dealer van CSP kan de globale beheerder de naam van het rechts bedrijf bijwerken. 
+>[!Important]
+>- Voor MPN-accounts kan zowel de beheerder van de globale beheerder als het account de juridische bedrijfs naam bijwerken.
+>- Voor de account van een indirecte dealer van CSP kan de globale beheerder de naam van het rechts bedrijf bijwerken. 
 
 ## <a name="locate-the-legal-business-profile"></a>Het juridische zakelijke profiel zoeken
 
@@ -83,12 +84,7 @@ Als u de globale beheerder, facturerings beheerder of beheer agent bent, kunt u 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-
 - [Controleer de verificatie status](verification-responses.md)
  
 - [MPN locaties beheren](manage-locations.md)
 
-
-
-Voor MPN-programma kan de beheerder van de globale beheerder en account de juridische bedrijfs naam bijwerken.
-Voor een indirecte dealer van CSP kan globale beheerder de naam van het rechts bedrijf bijwerken.

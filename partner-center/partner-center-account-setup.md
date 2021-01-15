@@ -1,7 +1,7 @@
 ---
 title: Uw account voor het partnercentrum beheren
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over het gebruik van partner Center voor het beheren van het profiel van uw bedrijf, de Bank-en belasting gegevens, rollen, machtigingen en meer.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182457"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235967"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Uw partner centrum-account, het bedrijfs profiel, de Bank gegevens, rollen, machtigingen en meer beheren
 
-**Relevante rollen** – globale beheerder, MPN-beheerder
+**Relevante rollen** – globale beheerder
+- MPN-account beheerder
 
 Het account dat u op partner centrum maakt wanneer u zich inschrijft, is uw werk-e-mail plus uw bedrijfs gegevens. Nadat u een account hebt gemaakt, voltooit u het instellen van het volledige profiel van uw bedrijf, inclusief ondersteunings Details, belasting vrijstellingen voor bestanden, indien van toepassing, en primaire contact gegevens. Het account van uw bedrijf bevat ook gebruikers accounts voor iedereen die het partner centrum gaat gebruiken voor het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van zakelijke profielen, het beheren van verwijzingen, het werken met prikkel Programma's en het bieden van ondersteuning.
 
@@ -60,6 +61,10 @@ Gebruik deze pagina's voor het beheren van de uitgebreide gebieden van uw bedrij
 ### <a name="legal-info"></a>Juridische informatie
 
 Wanneer u de eerste keer deelneemt aan partner Center, loopt uw bedrijf via een verificatie proces met micro soft. U kunt de status van uw verificatie volgen op de pagina **juridische informatie** . Hier wordt de primaire contact persoon weer gegeven (wie micro soft contact maakt met betrekking tot vragen over partners) en de primaire juridische contact persoon (degene die uw juridische informatie en status beheert). Alle bedrijfs locaties van uw bedrijf worden weer gegeven en kunnen hier worden toegevoegd.
+
+### <a name="primary-contact-email"></a>E-mail van primaire contact persoon
+
+Het primaire e-mail adres van de contact persoon wordt gebruikt om u te informeren over de verificatie van uw account. Het is belang rijk dat het e-mail adres dat u voor de primaire contact persoon opgeeft, regel matig wordt beheerd en gevolgd.  
 
 Meer informatie over [verificatie en uw account gegevens](verification-responses.md).
 
