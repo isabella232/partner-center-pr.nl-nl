@@ -1,7 +1,7 @@
 ---
 title: Uw accountgegevens verifiëren
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Volg de status van uw account verificatie wanneer u probeert in te schrijven in een nieuw partner centrum-programma. Meer informatie over hoe u indien nodig aanvullende gegevens kunt opgeven.
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0f4102fb5d520ad9af6f66f8dfa1980903721ff
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 49c9d6730dd221ea81806644c8d05ff65442272f
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92528292"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215795"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Uw account gegevens verifiëren wanneer u zich registreert in een nieuw partner centrum-programma
 
@@ -39,9 +39,9 @@ Ga naar [Deze pagina voor het](https://partner.microsoft.com/pcv/accountsettings
 
 |**Type verificatie**   |**Wat is er gecontroleerd?**   |**Wat u moet doen als u bent afgewezen**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
-|Eigendom van e-mail   |E-maileigendom verifieert of het primaire adres van de contactpersoon (primaire e-mailadres) geldig is. Het primaire e-mailadres van de contactpersoon moet een werkaccount zijn dat wordt bewaakt en e-mail kan verzenden/ontvangen. **Partners mogen het volgende niet gebruiken** : (1) een persoonlijk e-mailadres dat niet is gekoppeld aan het bedrijfsdomein. (2) een gebruiker die zich aanmeldt voor de Tenant is niet gekoppeld aan e-mail (bijvoorbeeld jsmith@testcompany.onmicrosoft.com ).  |Als u het e-mail bericht over de e-mail eigendom niet binnen één werkdag ontvangt, kunt u de aanvraag opnieuw verzenden met behulp van de volgende koppelingen: voor [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile), voor [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). Op de profiel pagina, klikt u op de koppeling e-mail adres opnieuw verzenden voor micro soft om de e-mail opnieuw naar u te verzenden. Om ervoor te zorgen dat het e-mail bericht wordt ontvangen, moet u e-mail berichten van Microsoft.com markeren als een ' veilig ' domein, en ongewenste e-mail mappen controleren.|
+|Eigendom van e-mail   |E-maileigendom verifieert of het primaire adres van de contactpersoon (primaire e-mailadres) geldig is. Het primaire e-mailadres van de contactpersoon moet een werkaccount zijn dat wordt bewaakt en e-mail kan verzenden/ontvangen. **Partners mogen het volgende niet gebruiken**: (1) een persoonlijk e-mailadres dat niet is gekoppeld aan het bedrijfsdomein. (2) een gebruiker die zich aanmeldt voor de Tenant is niet gekoppeld aan e-mail (bijvoorbeeld jsmith@testcompany.onmicrosoft.com ).  |Als u het e-mail bericht over de e-mail eigendom niet binnen één werkdag ontvangt, kunt u de aanvraag opnieuw verzenden met behulp van de volgende koppelingen: voor [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile), voor [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). Op de profiel pagina, klikt u op de koppeling e-mail adres opnieuw verzenden voor micro soft om de e-mail opnieuw naar u te verzenden. Om ervoor te zorgen dat het e-mail bericht wordt ontvangen, moet u e-mail berichten van Microsoft.com markeren als een ' veilig ' domein, en ongewenste e-mail mappen controleren.|
 |Werkzaamheden |Bij het verifiëren van de werk nemer wordt bevestigd dat de primaire contact persoon van het inschrijvings bedrijf een actief e-mail adres heeft op een e-mail domein dat eigendom is van het bedrijf.|Als de verificatie van de werk nemer wordt afgewezen, moet de primaire contact persoon (normaal gesp roken uw globale of account beheerder) documentatie verschaffen die het e-mail domein van de contact persoon bevestigt, onder het eigendom van de werk gever. [Een ondersteunings ticket maken](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).|
-|Business   |Controleer of de bedrijfs naam en het adres in uw juridisch bedrijfs profiel geen spel fouten en afkortingen bevatten en overeenkomen met uw formele zakelijke registratie records voor bedrijven. Als u als enige eigenaar werkt, moet u de naam van uw bedrijf bijwerken naar uw geldige naam. Bedrijfs verificatie bevestigt dat de registratie van het bedrijf een legitieme zakelijke entiteit is en op het adres dat wordt gebruikt voor de inschrijving.|Als de bedrijfs verificatie mislukt, wordt de primaire contact persoon (normaal gesp roken uw globale of account beheerder) gevraagd om officiële documentatie, zoals een bedrijfs registratie of een certificaat voor belasting registratie of een ontvangst bewijs, te verstrekken uit het land van herkomst of de gemeente dat het bedrijf is gemachtigd om zaken te doen onder die entiteit naam en zich bevindt op het inschrijvings adres. [Een ondersteunings ticket maken](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
+|Business   | Bedrijfs verificatie bevestigt dat de registratie van het bedrijf een legitieme zakelijke entiteit is en op het adres dat wordt gebruikt voor de inschrijving.|Controleer of de bedrijfs naam en het adres in uw [juridisch bedrijfs profiel](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) geen spel fouten en afkortingen bevatten en overeenkomen met uw formele zakelijke registratie records voor bedrijven. De primaire contact persoon (normaal gesp roken uw globale of account beheerder) wordt gevraagd officiële documentatie te geven, zoals een bedrijfs registratie of een certificaat voor belasting registratie of een ontvangst bewijs, vanuit het land van herkomst of de gemeente dat het bedrijf gemachtigd is om zaken te doen onder die entiteit naam en zich bevindt op het inschrijvings adres. [Een ondersteunings ticket maken](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
 >Meer informatie over het bijwerken van uw [juridisch zakelijk profiel (adres)](update-your-partner-profile.md).

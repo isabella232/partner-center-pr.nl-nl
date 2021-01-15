@@ -6,15 +6,15 @@ description: Meer informatie over het controleren van uw bedrijfs gegevens, zoal
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.openlocfilehash: 3b0c9611927d644cc7a5beecc89e0a8cc6f066b7
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666788"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215880"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Uw organisatie profiel gegevens verifiëren in het partner centrum
 
@@ -27,6 +27,11 @@ De eerste keer dat u zich bij Partner Center als globale beheerder aanmeldt, moe
 
 Uw partner profiel bestaat uit uw juridische zakelijke gegevens, de naam en het e-mail adres van de primaire contact persoon, de Program ma's waarmee uw bedrijf deelneemt, en, indien van toepassing, uw andere bedrijven die nu onder uw juridische zaken worden samengevoegd. Zorg ervoor dat de bedrijfs naam en het adres in uw juridisch bedrijfs profiel geen spel fouten en afkortingen bevatten en overeenkomen met uw formele zakelijke registratie records voor bedrijven. Als u als enige eigenaar werkt, moet u uw bedrijfs naam gebruiken als uw geldige naam.
 
+- Voor MPN-accounts kan zowel de beheerder van de globale beheerder als het account de juridische bedrijfs naam bijwerken.
+- Voor de account van een indirecte dealer van CSP kan de globale beheerder de naam van het rechts bedrijf bijwerken. 
+
+## <a name="locate-the-legal-business-profile"></a>Het juridische zakelijke profiel zoeken
+
 1. Ga naar het **instellingen** pictogram en selecteer **account instellingen**.
  
 1. Selecteer **organisatie profiel**. 
@@ -37,15 +42,15 @@ Als u uw andere bedrijven hebt samengevoegd onder uw juridische zaken, kunt u de
 
 ## <a name="update-your-legal-business-profile"></a>Uw juridische zakelijke profiel bijwerken
 
-U kunt nu uw juridische adres bijwerken in het partner centrum.
+Werk uw juridische adres bij in Partner Center.
 
-1. Ga naar **instellingen** en selecteer **organisatie profiel**
+1. Ga naar **instellingen** en selecteer **organisatie profiel**.
 
 
 2. Selecteer **juridisch**  en selecteer vervolgens het juridische zakelijke profiel dat u wilt gebruiken.
 
 >[!Important]
->Als u een CSP-partner (Cloud Solution Provider) bent, kunt u het land dat is gekoppeld aan uw juridische adres niet wijzigen. Het land van rechts adres is gekoppeld aan uw Tenant en services, evenals de valuta waarmee u zakendoet. Als u zich niet in het CSP-programma bevindt, kunt u het land wijzigen dat aan uw juridische adres is gekoppeld. De naam van het rechts bedrijf kan niet worden bijgewerkt in het partner centrum als uw hebben-status is "geautoriseerd". U moet [een ondersteunings ticket maken](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Als u een CSP-partner (Cloud Solution Provider) bent, kunt u het land dat is gekoppeld aan uw juridische adres niet wijzigen. Het land van rechts adres is gekoppeld aan uw Tenant en services, evenals de valuta waarmee u zakendoet. Als u zich niet in het CSP-programma bevindt, kunt u het land wijzigen dat aan uw juridische adres is gekoppeld. De naam van het rechts bedrijf kan niet worden bijgewerkt in het partner centrum als uw validatie status ' geautoriseerd ' is. Als u de naam wilt wijzigen, moet u [een ondersteunings ticket maken](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Wanneer u verzenden selecteert, wordt uw juridische identiteit **opnieuw** beoordeeld en ontvangt u een andere e-mail die u moet accepteren.
 
@@ -85,3 +90,5 @@ Als u de globale beheerder, facturerings beheerder of beheer agent bent, kunt u 
 
 
 
+Voor MPN-programma kan de beheerder van de globale beheerder en account de juridische bedrijfs naam bijwerken.
+Voor een indirecte dealer van CSP kan globale beheerder de naam van het rechts bedrijf bijwerken.

@@ -10,18 +10,15 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64467ec608c2ca87dbc2b7d5dfb02adb08f13c18
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "92527486"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215846"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Install and preview the Partner Center Analytics app for Microsoft Power BI (Partner Center Analytics-app voor Microsoft Power BI installeren en preview bekijken)
 
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 -   Globale beheerder
@@ -54,11 +51,11 @@ Zorg ervoor dat u voldoet aan de volgende vereisten voordat u de preview-versie 
 
 1. Klik in de bovenstaande sectie op de bron koppeling van de app die u hebt gegeven (direct provider/indirecte provider/indirecte reseller).
 
-2. Klik op **nu downloaden** . 
+2. Klik op **nu downloaden**. 
 
 3. Klik op **door gaan** om de voor waarden te accepteren.
 
-4. Onder al een account? Selecteer **Aanmelden** .
+4. Onder al een account? Selecteer **Aanmelden**.
 
 5. Voer op de volgende pagina uw Power BI gebruikers naam en wacht woord in en selecteer aanmelden.
 
@@ -77,9 +74,9 @@ Zorg ervoor dat u voldoet aan de volgende vereisten voordat u de preview-versie 
 > [!NOTE]  
 >  Het kan enkele minuten duren voordat dit venster wordt weer gegeven.
 
-12. Meld u op de pagina **Partner Center Analytics connector** aan met de referenties van de globale beheerder, de beheerders agent of de facturerings beheerder voor de Azure AD-Tenant van uw bedrijf en selecteer **Aanmelden** .
+12. Meld u op de pagina **Partner Center Analytics connector** aan met de referenties van de globale beheerder, de beheerders agent of de facturerings beheerder voor de Azure AD-Tenant van uw bedrijf en selecteer **Aanmelden**.
  
-13. Wanneer u wordt gevraagd om toegang, selecteert u **accepteren** . 
+13. Wanneer u wordt gevraagd om toegang, selecteert u **accepteren**. 
 
 Zodra de Partner Center Analytics-service is verbonden met Power BI, gaan de gegevens worden geladen. Afhankelijk van de hoeveelheid gegevens kan dit tot tien minuten duren. 
 

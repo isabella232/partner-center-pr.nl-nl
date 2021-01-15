@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950583"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215948"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950583"
 - Partner Sales Connect (PSC)-beheerder
 - Manager van partner Sales Connect (PSC)
 
-In dit artikel worden partners begeleid bij het migreren van partner Sales Connect naar het partner centrum, zodat ze gezamenlijk verkoop contracten kunnen blijven maken en beheren in het partner centrum.
+Dit artikel bevat richt lijnen voor partners die migreren van partner Sales Connect to Partner Center, zodat ze gezamenlijk verkoop deals kunnen blijven maken en beheren in het partner centrum.
 
 Zoals u weet, zal uw bedrijf na 31 maart 2021 geen toegang meer hebben tot PSC. U kunt echter nog steeds alles vinden wat u in het partner centrum wilt doen, zoals het maken van trans acties voor de verkoop, het beheren van uw deals en het handelen op deals die door micro soft-verkopers naar u worden verzonden.
 
@@ -353,7 +353,6 @@ Als u de Help-onderwerpen voor co-verkopen nog niet hebt gelezen, kunt u met de 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-Volg deze aanvullende bronnen:
 
 - [Partner Sales Connect to Partner Center](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -werkmap: werk boek om verkoop processen en-rollen van partners uit te lijnen met nieuwe verkoop processen via partner Center versus verkoop verbinding met partner.
 - [Gebruiks richtlijnen](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) voor de IT-afdeling van partners: richt lijnen voor het identificeren van een besturings model via partner centrum voor het beheren van leads of het verkopen van verkoop kansen en het registreren van deals.

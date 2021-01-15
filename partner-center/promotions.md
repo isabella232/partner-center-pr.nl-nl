@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11d31ba8fc33c965be7d5a6eeb4b5a32e5a4fa77
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "92527493"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215863"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Gebruik promoties om nieuwe klanten aan te trekken en de besparingen eraan door te geven
 
-**Van toepassing op**
 
-- Partnercentrum
-- Partners in het Cloud Solution Provider-programma (CSP)
 
 **Juiste rollen**
 
@@ -50,13 +47,13 @@ Neem even de tijd om de belang rijke feiten over promoties te bekijken:
 U kunt op de pagina **Promoties** zien voor welke promoties u in aanmerking komt. Selecteer **acties** in het menu van het **partner centrum** om een lijst met huidige promoties en de korting, het promotie type en de start-en eind datum voor het abonnement weer te geven. Als er geen promoties beschikbaar zijn, wordt dit in een bericht aangegeven. 
 
 > [!NOTE]  
-> U kunt ook promoties bekijken bij het doen van een aankoop. Wanneer u een abonnement selecteert, wordt de promotieprijs weergegeven op de pagina **Controleren** .
+> U kunt ook promoties bekijken bij het doen van een aankoop. Wanneer u een abonnement selecteert, wordt de promotieprijs weergegeven op de pagina **Controleren**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Abonnementen kopen tegen promotieprijzen
 
 1. Selecteer in het menu van uw **partner centrum** **klanten** en selecteer vervolgens de klant die het abonnement koopt. 
 
-2. Selecteer **abonnement toevoegen** .
+2. Selecteer **abonnement toevoegen**.
 
 3. Selecteer op de pagina **Nieuw abonnement** het abonnement waarop de promotie van toepassing is.
 
@@ -67,3 +64,6 @@ U kunt op de pagina **Promoties** zien voor welke promoties u in aanmerking komt
 6. Selecteer **verzenden** om te kopen. De klant krijgt de promotie prijs op de volgende factuur te zien.  
 
 
+## <a name="next-steps"></a>Volgende stappen
+
+- [Verkopen aan gespecialiseerde doel groepen](sell-to-education-customers.md)

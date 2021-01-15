@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92527480"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215931"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Ondersteuning voor facturering voor uw klanten bieden en helpen bij het beantwoorden van vragen over facturering
 
-**Van toepassing op**
-
-- Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
 
 **Juiste rollen**
+
 - Globale beheerder
 - Gebruikersbeheerder
 - Helpdesk medewerker
 - Factureringsbeheerder
 - Verkoop agent
 
-U bent eigenaar van de facturerings relatie met uw klanten en u bent zelf verantwoordelijk voor het beantwoorden van vragen over facturering van uw klanten.
+U bent eigenaar van de facturerings relatie met uw klanten en u bent zelf verantwoordelijk voor het beantwoorden van de facturerings vragen die uw klanten mogelijk hebben.
 
-- U bent zelf verantwoordelijk voor een tijdige betaling aan micro soft.
+- U bent zelf verantwoordelijk voor betalingen op het moment van micro soft.
 
 - We raden u aan om een beleid voor duidelijke verzamelingen te maken met klanten die uw incasso proces details weer geven en wanneer de toegang tot de abonnementen, services of software van de klant wordt beïnvloed.
 
@@ -66,4 +63,7 @@ Elke online service heeft specifieke en gedetailleerde vereisten voor het bieden
 - [Azure-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Office 365-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>Volgende stappen
+
+- [Technische ondersteuning bieden](provide-technical-support.md)

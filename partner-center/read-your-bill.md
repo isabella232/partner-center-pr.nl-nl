@@ -9,19 +9,15 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92527567"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215812"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Meer informatie over uw factuur-en afstemmings bestand-lees hoe u deze kunt vinden in Partner Center
 
-**Van toepassing op**
-
-- Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
 
 **Juiste rollen**
 
@@ -38,17 +34,17 @@ Micro soft verleent één factuur voor eventuele kosten op basis van licenties (
 
 Bijvoorbeeld:  
 
-**Scenario 1 [enkele valuta]** : de partner heeft aankopen voor de 145P-aanbieding en O365-licenties.  
+**Scenario 1 [enkele valuta]**: de partner heeft aankopen voor de 145P-aanbieding en O365-licenties.  
 
 - Partner ontvangt één factuur-PDF en 2 afstemmings bestanden voor de kosten voor O365 en Azure (145p).  
 
-**Scenario 2 [enkele valuta]** : de partner heeft aankopen gedaan voor Azure RI, Marketplace en/of Azure, samen met 145p-aankopen.
+**Scenario 2 [enkele valuta]**: de partner heeft aankopen gedaan voor Azure RI, Marketplace en/of Azure, samen met 145p-aankopen.
 
 - Partner ontvangt één factuur-PDF en een afstemmings bestand met de kosten voor Azure (145p). 
 
 - De partner ontvangt een andere factuur-PDF en een afstemmings bestand met de kosten voor Azure RI, Marketplace, Azure-abonnement. 
 
-**Scenario 3 [Multi-Currency]** : partner heeft aankopen voor Azure ri in DKK en Azure-abonnement in EUR samen met 145p-aankopen in EUR.
+**Scenario 3 [Multi-Currency]**: partner heeft aankopen voor Azure ri in DKK en Azure-abonnement in EUR samen met 145p-aankopen in EUR.
 
 - Partner ontvangt één factuur-PDF en een afstemmings bestand met de kosten voor Azure RI in DKK. 
 
@@ -60,7 +56,7 @@ Bijvoorbeeld:
 
 U kunt uw factuur vinden op de facturerings pagina van het dash board in Partner Center. U kunt ook uw facturerings geschiedenis, bestedings trends en afstemmings bestanden op deze pagina vinden. 
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum. 
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum. 
 
 2. Selecteer **facturering** in het menu aan de linkerkant. 
 
@@ -72,28 +68,32 @@ U kunt de vorige facturen vinden in de sectie facturerings geschiedenis. Kies he
 
 ## <a name="understanding-invoice-pdf"></a>Factuur PDF 
 
-**Facturen voor gebruik en kosten op basis van licenties** : facturen voor de kosten voor services, zoals Office 365 en Azure, zijn binnen twee (2) dagen na de geselecteerde facturerings datum [UTC] beschikbaar.  
+**Facturen voor gebruik en kosten op basis van licenties**: facturen voor de kosten voor services, zoals Office 365 en Azure, zijn binnen twee (2) dagen na de geselecteerde facturerings datum [UTC] beschikbaar.  
 
-**Facturen voor eenmalige en terugkerende kosten** : facturen voor de kosten voor services zoals Azure RI, Azure-abonnement en Marketplace zijn niet later dan achtste van elke maand beschikbaar.  
+**Facturen voor eenmalige en terugkerende kosten**: facturen voor de kosten voor services zoals Azure RI, Azure-abonnement en Marketplace zijn niet later dan achtste van elke maand beschikbaar.  
 
 Hieronder ziet u enkele van de belangrijkste velden in het factuur PDF-document –
 
-**Factuur nummer** : de unieke id voor het factuur document dat voor de desbetreffende facturerings periode is gegenereerd. 
+**Factuur nummer**: de unieke id voor het factuur document dat voor de desbetreffende facturerings periode is gegenereerd. 
 
-**Facturerings periode** : dit is de periode waarin u gebruik hebt en services op basis van licenties. 
+**Facturerings periode**: dit is de periode waarin u gebruik hebt en services op basis van licenties. 
 
-**Factuur datum** : de factuur datum of jubileum datum waarop uw factuur per maand wordt gegenereerd. 
+**Factuur datum**: de factuur datum of jubileum datum waarop uw factuur per maand wordt gegenereerd. 
 
-**Verval datum betaling** : de datum waarop uw betaling moet worden ontvangen. 
+**Verval datum betaling**: de datum waarop uw betaling moet worden ontvangen. 
 
-**Kosten** : het verschuldigde bedrag in uw facturerings valuta voor de desbetreffende facturerings periode. 
+**Kosten**: het verschuldigde bedrag in uw facturerings valuta voor de desbetreffende facturerings periode. 
 
-**Tegoeden** : tegoed (zoals sla) of aanpassingen voor wijzigingen in abonnementen (bijvoorbeeld licentie verhogen of afname). 
+**Tegoeden**: tegoed (zoals sla) of aanpassingen voor wijzigingen in abonnementen (bijvoorbeeld licentie verhogen of afname). 
 
-**Betalings instructies** : hier wordt beschreven hoe u uw factuur kunt betalen op basis van uw regio. Zorg er altijd voor dat u uw factuur nummer opgeeft wanneer u een betaling doet. 
+**Betalings instructies**: hier wordt beschreven hoe u uw factuur kunt betalen op basis van uw regio. Zorg er altijd voor dat u uw factuur nummer opgeeft wanneer u een betaling doet. 
 
 Zie [factuur bestands velden](invoice-file.md)voor een gedetailleerde beschrijving van alle velden in uw factuur bestand (inclusief velden voor eenmalige kosten). 
 
 ## <a name="understand-reconciliation-files"></a>Informatie over afstemmings bestanden
 
  Reconciliatie bestanden, die een inzoomen/gedetailleerde Details van uw kosten bieden, zijn beschikbaar om samen met de factuur-PDF te worden gedownload. De afstemmings bestanden bevatten klant-id's en abonnements-id's die u kunt gebruiken om klant facturen te maken. Raadpleeg  [How to use the reconciliatie files](use-the-reconciliation-files.md) voor meer informatie over de afstemmings bestanden. 
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [De reconciliatie bestanden gebruiken](use-the-reconciliation-files.md)
