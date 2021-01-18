@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.date: 01/15/2021
+ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235933"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560473"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -23,6 +23,112 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 2021 aankondigingen: januari
 
 2020 aankondigingen: [mei](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md)  
+
+_____________ 
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Security, compliance en Identity (SCI) wordt gestart op 1 februari 2021 
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-15
+- Aanbiedingen/markten
+
+### <a name="summary"></a>Samenvatting
+
+Verschillende Microsoft 365 worden gestart, worden in januari opgenomen in de prijs lijst preview en zijn vanaf 1 februari 2021 beschikbaar.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+
+### <a name="details"></a>Details
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Sku's voor de overheid van het Microsoft 365 G5-nalevings onderdeel](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+We zullen drie nieuwe onderdelen van het onderdeel voor de Cloud Community (GCC) en GCC High Customers starten, die vanaf 1 februari 2021 beschikbaar zullen zijn. Deze Sku's zijn het equivalent van Microsoft 365 E5 Information Protection en governance, M365 E5 Insider Risk Management en Microsoft 365 E5 eDiscovery-& audit die momenteel beschikbaar zijn in de handel. 
+
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E5 Information Protection en governance voor GCC|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |Microsoft 365 E5 eDiscovery en audit voor GCC|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |Microsoft 365 E5 Risk Management voor GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |Microsoft 365 E5 Information Protection en DLP (invoeg toepassing) voor GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[invoeg toepassing voor het bewaren van het controle logboek van 10 jaar](https://docs.microsoft.com/microsoft-365/compliance/)
+
+Met een invoeg toepassing die beschikbaar is met een van de vereisten van Microsoft 365 E5 kunnen klanten tien jaar hun gegevens bewaren. 
+
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |-------------------|:------|:------|
+   |10 jaar voor het bewaren van controle logboeken voor EDU toevoegen|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |10 jaar extra Bewaar periode voor controle logboeken|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>Frontline-worker-invoeg toepassingen
+
+Vanaf 1 februari 2021 kunnen klanten drie nieuwe programmatische aanbiedingen voor beveiliging en naleving kopen voor Frontline-werk rollen als invoeg toepassingen voor de [Microsoft 365 F1-en F3-sku's](https://www.microsoft.com/microsoft-365/firstline-workers).
+
+Deze programmatische aanbieding vervangt de huidige promotie voor [beveiliging en naleving](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) , die verloopt op **28 februari 2021**. In tegens telling tot de huidige promotie bieden de F5-invoeg toepassingen klanten meer voors pellen voor prognoses naarmate hun Frontline-personeel groeit.
+
+   
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 F5-beveiliging|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Microsoft 365 F5-naleving|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Microsoft 365 F5 Security & naleving|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>Volgende stappen
+
+Controleer de preview van de prijs lijst en deel deze met de juiste belanghebbenden in uw organisatie. Ga voor meer informatie naar [micro soft Security and Compliance-micro soft tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen. 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>DocuSign migratie naar Adobe-ondertekenen voor partners onder micro soft-partner overeenkomsten (MPAs) 
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-15
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Micro soft gaat de verwerking van de elektronische hand tekening van DocuSign naar Adobe-ondertekening.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Bestaande directe en indirecte CSP-partners (Cloud Solution Provider) onder MPA. Partners in Oekraïne, Rusland en Kazachstan moeten de groen van een jaar fysiek of elektronisch opnieuw ondertekenen.
+
+### <a name="details"></a>Details
+
+In februari 2021 gaat micro soft de verwerking van alle elektronische hand tekeningen van DocuSign naar Adobe-ondertekenen voor CSP-partners. 
+
+U moet een soepele overgang verwachten. Na de migratie ontvangt u een e-mail bericht van adobesign@adobesign.com in plaats van DocuSign, wanneer uw elektronische hand tekening vereist is. Dit e-mail bericht bevat een koppeling naar de webpagina van Adobe, waar u zich moet aanmelden. Micro soft-partners hoeven bestaande overeenkomsten niet opnieuw te ondertekenen, maar alleen toekomstige kanaal overeenkomsten. 
+
+U vindt een voor beeld van een e-mail bericht voor de hand tekening van Adobe-ondertekening in [de resource galerie](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf). 
+
+**Voor de beste ervaring moet u het volgende doen:**
+
+1. Voeg toe adobesign@adobesign.com aan de lijst met veilige afzenders om e-mail berichten van dit account rechtstreeks naar uw map Ongewenste e-mail te sturen.
+2. Werk samen met uw IT-afdeling voor het volgende:
+   - Voeg het adobesign@adobesign.com e-mail adres toe aan de lijst met veilige afzenders om ervoor te zorgen dat deze niet is opgenomen in een vooraf ingestelde phishing-regel.
+   - Werk het bestaande beveiligings beleid bij om ervoor te zorgen dat alle vereiste ontvangers de documentatie kunnen ondertekenen onder uw Adobe Sign Enter prise-licentie.
+
+Adobe Sign is de voor Keurs-oplossing voor elektronische hand tekeningen (ESS) van micro soft. De overgang naar Adobe Sign zorgt voor een veilige en efficiënte elektronische hand tekening waarmee klanten en partners meerwaarde kunnen bieden.
+
+Raadpleeg de volgende **zelf studies** voor meer informatie over het elektronisch ondertekenen van documenten en het overdragen van elektronische hand tekeningen: 
+- [Een document elektronisch ondertekenen | Zelf studies voor Adobe-ondertekening](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Iemand anders delegeren om een document te ondertekenen | Zelf studies voor Adobe-ondertekening](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Volgende stappen
+
+Deel deze informatie met de juiste belanghebbenden in uw organisatie.
+
+### <a name="questions"></a>Vragen?
+
+Als u vragen hebt, neemt u contact op met uw regionale Operations Center met het [hulp programma voor oproep registratie (CLT)](https://clt.partners.extranet.microsoft.com/CLT) of op [Verken MS](https://www.explore.ms/). Volg het standaard CLT-proces nauw keurig zodat we zo snel mogelijk uw query kunnen omzetten.
 
 _____________ 
 
