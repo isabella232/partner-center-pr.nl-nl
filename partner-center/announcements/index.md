@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235950"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560490"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,8 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **Aankondigingen van januari 2021** | **Aangekondigd** |
 |---------|:---------|:---------|
+|Aanbiedingen/markten|[Beveiliging, naleving en identitieit (SCI) komt op 1 februari 2021](2021-january.md#9)|15 januari|
+|Functies|[DocuSign-migratie naar Adobe Sign voor partners met Microsoft Partner-overeenkomsten (MPA’s)](2021-january.md#8)|15 januari|
 |Aanbiedingen/markten|[Update voor commerciële prijzen voor de Noorse kroon](2021-january.md#7)|14 januari|
 |Aanbiedingen/markten|[Update voor commerciële prijzen voor de Indiase rupee](2021-january.md#6)|8 januari|
 |Aanbiedingen/markten|[Updates voor belabonnementen en telefoonsystemen voor 1 februari 2021](2021-january.md#5)|8 januari|
