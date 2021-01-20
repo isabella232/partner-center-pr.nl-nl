@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560490"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571649"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,8 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **Aankondigingen van januari 2021** | **Aangekondigd** |
 |---------|:---------|:---------|
+|Uw bedrijf laten groeien|[Onbeperkt geldige software nu algemeen beschikbaar in het Cloud Solution Provider-programma ](2021-january.md#11)|19 januari|
+|Uw bedrijf laten groeien|[Herinnering: Maak kennis met API-beperking voor partners die Partner Center-API's aanroepen](2021-january.md#10)|19 januari|
 |Aanbiedingen/markten|[Beveiliging, naleving en identitieit (SCI) komt op 1 februari 2021](2021-january.md#9)|15 januari|
 |Functies|[DocuSign-migratie naar Adobe Sign voor partners met Microsoft Partner-overeenkomsten (MPA’s)](2021-january.md#8)|15 januari|
 |Aanbiedingen/markten|[Update voor commerciële prijzen voor de Noorse kroon](2021-january.md#7)|14 januari|
@@ -39,7 +41,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Uw bedrijf laten groeien|[Overheid, hoger onderwijs en non-profitorganisaties: nieuwe wijzigingen in het Open License-programma en verdere ontwikkeling van het CSP-programma](2020-december.md#9)|17 december|
 |Aanbiedingen/markten|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2020-december.md#8)|17 december|
 |Uw bedrijf laten groeien|[Herinnering: vanaf januari 2021 is de onbeperkt geldige software in het Cloud Solution Provider-programma (CSP-programma) op grote schaal beschikbaar](2020-december.md#7)|17 december|
-|Functionaliteit|[Autorisatiehandleiding voor online services en softwarekanalen](2020-december.md#6)|17 december|
+|Functies|[Autorisatiehandleiding voor online services en softwarekanalen](2020-december.md#6)|17 december|
 |Aanbiedingen/markten|[Power Apps-aanbieding nu beschikbaar](2020-december.md#5)|16 december|
 |Functies|[SDK-release in .NET Standard (v1.16.3)](2020-december.md#4)|8 december|
 |Aanbiedingen/markten|[Releaseopmerkingen bij de op licentie gebaseerde prijslijst van december 2020](2020-december.md#3)|8 december|
@@ -50,8 +52,8 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Aanbiedingen/markten|[Office 365 E1 voor mid-market Promo (LATAM, APAC en India)](2020-november.md#12)|18 november|
 |Functies|[Partner Center-API-updates en verbeteringen in de gebruikersinterface (UI) om de klantcontrole in bepaalde landen te verbeteren](2020-november.md#11)|17 november|
 |Functies|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2020-november.md#10)|17 november|
-|Functies|[API-beperking voor Partner Center-API's](2020-november.md#9)|17 november|
-|Functies|[409 fouten vanwege dubbele MCA-aanvragen](2020-november.md#8)|16 november|
+|Functionaliteit|[API-beperking voor Partner Center-API's](2020-november.md#9)|17 november|
+|Functionaliteit|[409 fouten vanwege dubbele MCA-aanvragen](2020-november.md#8)|16 november|
 |Functionaliteit|[Testen beschikbaar: API-updates en verbeteringen van de gebruikersinterface (UI) in Partnercentrum, voor het validatieproces voor Education-klanten](2020-november.md#7)|10 november|
 |Functionaliteit|[Inhoud van commerciële licentiepartners uitbreiden in de galerie voor operationele gereedheid](2020-november.md#6)|2 november|
 |Aanbiedingen/markten|[Lancering van de Premium-SKU voor Microsoft Teams-ruimten](2020-november.md#5)|2 november|
