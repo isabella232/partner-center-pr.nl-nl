@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182474"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584208"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace-aankopen
 
@@ -60,6 +60,20 @@ Wanneer u producten aanschaft vanuit Azure Marketplace, wilt u inzichten krijgen
 U kunt de kosten en facturen van uw Azure Marketplace bekijken via het hulpprogramma kostenanalyse onder Azure Cost Management.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Gebruik Azure Cost Management om inzicht te krijgen in uw gekochte producten.":::
+
+## <a name="purchase-validation-checks"></a>Validatie controles voor aankoop
+
+Het kopen van een aanbieding via Azure Marketplace kan om verschillende redenen mislukken. Het gebruik van de opdracht regel interface (CLI) voor een aankoop heeft waarschijnlijk veel problemen als gevolg van het aanschaffen van een aanbieding die niet beschikbaar of zichtbaar is in azure Marketplace. Hieronder ziet u de controles die ertoe kunnen leiden dat een aankoop mislukt:
+
+1. Het abonnement hoort bij een Enterprise Agreement (EA) en de EA-beheerder uitgeschakeld Azure Marketplace-aankopen.
+1. De EA-beheerder heeft aankopen alleen voor gratis aanbiedingen ingeschakeld en de aanbieding is een betaalde aanbieding.
+1. De aanbieding is niet gevonden in de Marketplace.
+1. De Independent Software Vendor (ISV) is gestopt met het verkopen van de aanbieding, ten minste in uw regio.
+1. Het abonnement dat u gebruikt, behoort tot een facturerings account in een regio waarin de aanbieding niet beschikbaar is.
+1. Het abonnement/facturerings account is niet gekoppeld aan een geldig betalings middel (zoals een geldige credit card).
+1. Het abonnement behoort tot een Cloud Solution Provider (CSP) en de ISV heeft geweigerd om via een CSP te verkopen.
+1. Privé Marketplace is ingeschakeld voor het abonnement en de aanbieding bevindt zich niet in de lijst met toegestane aanbiedingen.
+1. De aanbieding is privé/Preview voor specifieke klanten en het abonnement bevindt zich niet in de lijst met toegestane klanten.
 
 ## <a name="next-steps"></a>Volgende stappen
 

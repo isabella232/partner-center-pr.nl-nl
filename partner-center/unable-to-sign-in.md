@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9458c2dc320851877f77d8a142974715f1b2521
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0a7cc7d6335cdda0cec19a7676d2b6103592842e
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528599"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584191"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Als u zich niet kunt aanmelden bij het partner centrum en uw wacht woord opnieuw moet instellen
 
@@ -23,6 +23,8 @@ ms.locfileid: "92528599"
 - Partner centrum gebruikers
 
 Als u uw wacht woord bent verg eten en u niet kunt aanmelden bij het partner centrum, moet u contact opnemen met de ondersteuning. Zoek de juiste contact persoon op het [ondersteunings team voor zakelijke producten](/microsoft-365/admin/contact-support-for-business-products). 
+
+Als u een MPN-partner of een indirecte CSP-leverancier bent, kunt u uw indirecte provider vragen om een nieuwe globale beheerder voor u te maken in uw Azure AD-Tenant of een nieuw wacht woord voor u te maken met behulp van de gedelegeerde beheerders bevoegdheden. 
 
 Lees [uw werk-of school wachtwoord opnieuw instellen met behulp van beveiligings gegevens](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)voor verschillende manieren om uw wacht woord opnieuw in te stellen en toegang tot uw werk account te krijgen.
 

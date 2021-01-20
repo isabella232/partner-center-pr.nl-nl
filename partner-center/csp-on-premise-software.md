@@ -1,7 +1,7 @@
 ---
 title: On-premises software verkopen via CSP
 ms.topic: how-to
-ms.date: 05/05/2020
+ms.date: 01/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe partners in het CSP-programma on-premises software-abonnementen kunnen kopen, beheren, verkopen en annuleren namens klanten in het partner centrum.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92528112"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584178"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>On-premises software verkopen via het programma Cloud Solution Provider (CSP)
 
@@ -40,17 +40,12 @@ Als u software-abonnementen namens een klant wilt kopen, gaat u naar de detail p
 Nadat u uw software hebt aangeschaft, moeten u en uw klanten deze downloaden. Gebruik de volgende procedure om dit te doen. 
 
 >[!NOTE]
->U moet een beheerders agent zijn voor het verkrijgen van sleutels en down loads. 
+>U moet een beheerders agent zijn voor het verkrijgen van sleutels en down loads.
 
-1. Ga naar de detail pagina van uw klant en selecteer vervolgens **Software** . U ziet een lijst van alle software die u namens de klant hebt aangeschaft. 
-2.  Vouw het product uit dat u wilt downloaden. Selecteer in het veld **product selecteren** de **versie** , de **taal** en het **bestands type/besturings systeem** dat u wilt. 
-3.  Selecteer **verzenden** om de specifieke producten weer te geven. 
-4.  Selecteer **sleutels en down loads ophalen** . 
-5.  Selecteer **downloaden** om te beginnen met downloaden of selecteer **koppeling kopiëren** om de koppeling te kopiëren en naar de klant te verzenden. 
+1. Ga naar de detail pagina van uw klant en selecteer vervolgens **Software**. U ziet een lijst van alle software die u namens de klant hebt aangeschaft.
+2. Kopieer de koppeling van een **koppeling naar software product codes en down loads** en deel de koppeling met uw klant. Wanneer ze deze koppeling selecteren, worden ze omgeleid naar de micro soft-beheer Portal om de product codes te downloaden en te verkrijgen.
 
->[!NOTE]
->Deze koppeling verloopt na twee weken of 50 down loads, afhankelijk van wat het eerste komt. Zodra de koppeling is verlopen, keert u terug naar deze pagina en selecteert u **sleutels ophalen en down loads** opnieuw om nog twee weken of 50 down loads te kunnen uitvoeren. U kunt dit zo vaak doen als u dat nodig hebt. 
-
+Als u of uw klanten meer willen weten over het downloaden van licentie sleutels, raadpleegt u [software en product codes voor licenties downloaden](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="cancel-a-purchase"></a>Een aankoop annuleren
 
@@ -65,11 +60,11 @@ Gebruik de volgende procedure om een aankoop te annuleren. Zodra de annulering i
     - Reden van restitutie
     - Aangevraagde hoeveelheid
 
-2.  Selecteer op de pagina Details van de klant **Software** . U ziet een lijst van alle software die u hebt aangeschaft. 
+2.  Selecteer op de pagina Details van de klant **Software**. U ziet een lijst van alle software die u hebt aangeschaft. 
 
-3.  Zoek de software die u wilt annuleren en selecteer **Annuleren** . Het **rapport Meld een probleem met de partner centrum** pagina wordt geopend. 
+3.  Zoek de software die u wilt annuleren en selecteer **Annuleren**. Het **rapport Meld een probleem met de partner centrum** pagina wordt geopend. 
 
-4.  Onder **Details** , in de lijst **type probleem** , selecteert u **CSP aankoop/terugbetaling namens klanten** .
+4.  Onder **Details**, in de lijst **type probleem** , selecteert u **CSP aankoop/terugbetaling namens klanten**.
 
 5.  Vul de velden **impact** en **titel** in. 
 
@@ -81,6 +76,6 @@ Gebruik de volgende procedure om een aankoop te annuleren. Zodra de annulering i
 
 7.  Voer in het veld **contact persoon** uw naam, e-mail adres en telefoon nummer in. 
 
-8.  Als u een bestand om een of andere reden moet toevoegen, selecteert u **bestanden toevoegen** . Deze stap is optioneel. 
+8.  Als u een bestand om een of andere reden moet toevoegen, selecteert u **bestanden toevoegen**. Deze stap is optioneel. 
 
-9.  Wanneer u klaar bent, selecteert u **verzenden** .
+9.  Wanneer u klaar bent, selecteert u **verzenden**.

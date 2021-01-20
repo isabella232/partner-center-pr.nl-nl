@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/15/2021
-ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560473"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571666"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -24,7 +24,84 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 
 2020 aankondigingen: [mei](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md)  
 
-_____________ 
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Permanente software is nu algemeen beschikbaar voor het Cloud Solution Provider-programma
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-19
+- Uw bedrijf laten groeien
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle CSP-partners
+
+### <a name="details"></a>Details
+
+Net [als](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) vandaag heeft we u op de hoogte gesteld dat commerciële, permanente software licenties nu algemeen beschikbaar zijn voor alle CSP-partners om te verkopen. De prijs lijst voor de permanente software van de Partner Center CSP is opnieuw gepubliceerd en bevat nu aanvullende producten en geografische regio's.
+
+Houd er ook rekening mee dat vanaf nu de Partner Center-software en de mogelijkheden voor het uitvoeren van licentie sleutels buiten gebruik zijn gesteld en dat partners en klanten het Microsoft 365-beheer centrum voor dit doel kunnen gebruiken.
+Hieronder vindt u meer informatie over de volgende stappen.
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Down load de lijst met geprijsde **CSP-software** in het gedeelte **Software** van de pagina [prijs & aanbiedingen](https://partnercenter.microsoft.com/en-us/pcv/sales) voor partners. [Hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)vindt u een lijst met de nieuwe producten en geografische regio's die u kunt toevoegen.
+- Bekijk de [Microsoft 365 beheer centrum-software-en product licentie sleutels procedures downloaden](https://go.microsoft.com/fwlink/p/?linkid=2152525) en delen met uw klanten wanneer ze klaar zijn om hun software en licentie sleutels te downloaden.
+- Bekijk de [permanente software in de gereedheids materialen van het Cloud Solution Provider-programma](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Gebruik deze [gereedheids toewijzing](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) om snel de juiste informatie te vinden voor uw rol.
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante CSP-Yammer-community's voor meer vragen.
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Herinnering: Inleiding tot de API-beperking voor partners die partner Center-Api's aanroepen 
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-19
+- Uw bedrijf laten groeien
+
+### <a name="summary"></a>Samenvatting
+
+Micro soft implementeert de API-beperking om een meer consistente prestaties te bieden binnen een tijds Panne voor partners die de Api's van het partner centrum aanroepen.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)  
+
+### <a name="details"></a>Details
+
+Vanaf februari 2021 heeft micro soft de API-beperking geïmplementeerd, zodat er meer consistentie is binnen een tijds Panne voor partners die de Api's van het partner centrum aanroepen.Met beperking wordt het aantal aanvragen van een service in een bepaalde periode beperkt om te voor komen dat bronnen worden gevermijdd.Wanneer een drempel waarde voor bandbreedte beperking wordt overschreden, beperkt het partner centrum voor een bepaalde periode verdere aanvragen van die client.
+  
+**Voor delen van partner:** Het partner centrum is ontworpen om een groot aantal aanvragen af te handelen, maar als er veel aanvragen worden gedaan door een aantal partners, helpt het beperken van de optimale prestaties en betrouw baarheid van alle partners.  
+
+- Beperking zorgt voor minimale downtime.
+- Met beperking wordt het aantal aanvragen voor grote volumes verminderd, waardoor er consistente prestaties zijn voor alle partners.
+
+**Api's die moeten worden beperkt:**
+
+| Bewerking | Documentatie voor Partnercentrum |
+| ------ | ------- |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions  | [Alles-van-een-een-klant-s-abonnementen](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Een abonnement ophalen op basis van id](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/orders  | [Alle klant orders ophalen](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/Customers/{customer_id}/orders/{order_id}  | [Een bestelling ophalen op basis van id](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/orders/{order_id}/provisioningstatus  | [De inrichtingsstatus van het abonnement ophalen](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Orders beheren en een abonnement beheren](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons  | [Een lijst met invoegtoepassingen voor een abonnement ophalen](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements | [Een lijst met Azure-rechten voor een abonnement ophalen](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus  | [De registratiestatus van het abonnement ophalen](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [Alle overdrachten van een klant ophalen](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Upgradestatus van product ophalen](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [Een lijst met aanbiedingen voor omzetten van de proefversie ophalen](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+We raden u ten zeerste aan dat partners gebruikmaken van de API voor het activiteiten logboek voor meer efficiëntie en om te voor komen dat deze wordt beperkt.Raadpleeg de Details [voor meer informatie](/partner-center/develop/api-throttling-guidance)over deze functie.  
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de [bronnen](/partner-center/develop/api-throttling-guidance)   voor dit onderwerp en voer de benodigde stappen uit.  
+
+_____________
 
 ## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Security, compliance en Identity (SCI) wordt gestart op 1 februari 2021 
 
@@ -43,7 +120,7 @@ Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
 
 ### <a name="details"></a>Details
 
-#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Sku's voor de overheid van het Microsoft 365 G5-nalevings onderdeel](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Sku's voor de overheid van het Microsoft 365 G5-nalevings onderdeel](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
 We zullen drie nieuwe onderdelen van het onderdeel voor de Cloud Community (GCC) en GCC High Customers starten, die vanaf 1 februari 2021 beschikbaar zullen zijn. Deze Sku's zijn het equivalent van Microsoft 365 E5 Information Protection en governance, M365 E5 Insider Risk Management en Microsoft 365 E5 eDiscovery-& audit die momenteel beschikbaar zijn in de handel. 
 
@@ -54,7 +131,7 @@ We zullen drie nieuwe onderdelen van het onderdeel voor de Cloud Community (GCC)
    |Microsoft 365 E5 Risk Management voor GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
    |Microsoft 365 E5 Information Protection en DLP (invoeg toepassing) voor GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
 
-#### <a name="10-year-audit-log-retention-add-on"></a>[invoeg toepassing voor het bewaren van het controle logboek van 10 jaar](https://docs.microsoft.com/microsoft-365/compliance/)
+#### <a name="10-year-audit-log-retention-add-on"></a>[invoeg toepassing voor het bewaren van het controle logboek van 10 jaar](/microsoft-365/compliance/)
 
 Met een invoeg toepassing die beschikbaar is met een van de vereisten van Microsoft 365 E5 kunnen klanten tien jaar hun gegevens bewaren. 
 
