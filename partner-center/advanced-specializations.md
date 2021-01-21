@@ -1,7 +1,7 @@
 ---
 title: Meer informatie over geavanceerde specials
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Versterk uw bedrijfs profiel in de micro soft Partner Directory. Meer informatie over de geavanceerde specials die u kunt bereiken samen met uw bestaande Gold-en Silver-vaardig heden.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204016"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658396"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Verdien een geavanceerde specialisatie om uw gevalideerde mogelijkheden te presen teren
 
@@ -45,6 +45,7 @@ Elke geavanceerde specialisatie komt overeen met een oplossings gebied:
 
 Geavanceerde specials van **Azure** zijn:
 
+- Analytics op Microsoft Azure
 - Migratie van Data Warehouse naar Microsoft Azure
 - Kubernetes in Microsoft Azure
 - Migratie van Linux en open source-data bases naar Microsoft Azure

@@ -1,7 +1,7 @@
 ---
 title: Facturering van Azure-abonnement-factuur & afstemmings bestanden
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over de bestands structuur van de factuur en reconciliatie die betrekking heeft op facturering voor het Azure-abonnement.
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534689"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658430"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nieuwe Commerce-ervaring in CSP - Azure-facturering 
 
@@ -46,7 +46,7 @@ De globale beheerder of facturerings beheerder van uw bedrijf ontvangt een e-mai
 
 Om toegang te krijgen tot de factuur en het afstemmings bestand:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/) van het Partnercentrum.
 
 2. Selecteer **facturering** in het menu van het partner centrum.
 
@@ -140,9 +140,7 @@ Om toegang te krijgen tot de factuur en het afstemmings bestand:
 
 Voor Azure-Services via een Azure-abonnement geldt een prijs in USD en gefactureerd in de toegewezen valuta van het klant land. Als de facturerings valuta niet-USD is, wordt de gebruikte FX-tarief op de laatste pagina van de factuur weer gegeven. De FX-tarieven worden maandelijks bepaald en toegepast op de volgende factuur. Bekijk de [nieuwe Commerce-Beschik baarheid voor landen en de matrix voor klant](https://go.microsoft.com/fwlink/?linkid=2112354)valuta's voor een volledige lijst met landen valuta's.
 
-Micro soft gebruikt Thomson Reuters om de FX-tarieven te bepalen die worden gebruikt om de prijs-en valuta conversie te bepalen. De FX-tarieven worden vernieuwd en beschikbaar op de dag vóór de eerste van de maand waarop ze van toepassing zijn.
-
-**Voor beeld**: gebruiks kosten voor de service periode van 1 augustus tot en met 31 augustus worden gefactureerd op basis van het FX-tarief dat is gepubliceerd op 31 juli. Deze kosten worden weer gegeven op de factuur van september en het FX-tarief wordt op de laatste pagina van de factuur vermeld.
+Micro soft volgt de Londen aandelen beurs voor conversie. We gebruiken de wissel koers, die gelijk is aan de wissel koers die is vastgelegd op de laatste seconde van de laatste werkdag van de maand op de beurs in Londen. De FX-tarieven worden vernieuwd en beschikbaar op de dag vóór de eerste van de maand waarop ze van toepassing zijn.
 
 ## <a name="azure-reservations"></a>Azure-reserveringen
 
