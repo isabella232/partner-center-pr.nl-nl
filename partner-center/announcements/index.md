@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
-ms.translationtype: HT
+ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571649"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685902"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **Aankondigingen van januari 2021** | **Aangekondigd** |
 |---------|:---------|:---------|
+|Functies|[Wijzigingen in azure aanbod Beschik baarheid in CSP met betrekking tot de nieuwe Commerce-ervaring in CSP voor Azure](2021-january.md#12)|21 januari|
 |Uw bedrijf laten groeien|[Onbeperkt geldige software nu algemeen beschikbaar in het Cloud Solution Provider-programma ](2021-january.md#11)|19 januari|
 |Uw bedrijf laten groeien|[Herinnering: Maak kennis met API-beperking voor partners die Partner Center-API's aanroepen](2021-january.md#10)|19 januari|
 |Aanbiedingen/markten|[Beveiliging, naleving en identitieit (SCI) komt op 1 februari 2021](2021-january.md#9)|15 januari|
@@ -52,8 +53,8 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Aanbiedingen/markten|[Office 365 E1 voor mid-market Promo (LATAM, APAC en India)](2020-november.md#12)|18 november|
 |Functies|[Partner Center-API-updates en verbeteringen in de gebruikersinterface (UI) om de klantcontrole in bepaalde landen te verbeteren](2020-november.md#11)|17 november|
 |Functies|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2020-november.md#10)|17 november|
-|Functionaliteit|[API-beperking voor Partner Center-API's](2020-november.md#9)|17 november|
-|Functionaliteit|[409 fouten vanwege dubbele MCA-aanvragen](2020-november.md#8)|16 november|
+|Functies|[API-beperking voor Partner Center-API's](2020-november.md#9)|17 november|
+|Functies|[409 fouten vanwege dubbele MCA-aanvragen](2020-november.md#8)|16 november|
 |Functionaliteit|[Testen beschikbaar: API-updates en verbeteringen van de gebruikersinterface (UI) in Partnercentrum, voor het validatieproces voor Education-klanten](2020-november.md#7)|10 november|
 |Functionaliteit|[Inhoud van commerciële licentiepartners uitbreiden in de galerie voor operationele gereedheid](2020-november.md#6)|2 november|
 |Aanbiedingen/markten|[Lancering van de Premium-SKU voor Microsoft Teams-ruimten](2020-november.md#5)|2 november|

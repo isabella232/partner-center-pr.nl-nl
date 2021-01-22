@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571666"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685919"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -23,6 +23,92 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 2021 aankondigingen: januari
 
 2020 aankondigingen: [mei](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md)  
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Wijzigingen in azure aanbod Beschik baarheid in CSP met betrekking tot de nieuwe Commerce-ervaring in CSP voor Azure
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-21
+- Functies
+ 
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners communiceren via het programma Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Details:
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>De nieuwe Commerce-ervaring voor Azure in CSP
+
+Met de nieuwe micro soft commerce-ervaring wordt een consistente en vereenvoudigde aankoop ervaring voor klanten gemaakt en kunnen ze digitaal transformeren, met meer flexibiliteit in hoe en waar ze worden gekocht. Partners spelen een belang rijke rol in de cloud van de klant, ongeacht de kanalen die klanten kiezen om aan te gaan met micro soft. Zodra het bijgewerkte commerce platform en-model volledig zijn gestart, kunnen partners deel nemen aan verkoop bewegingen voor grotere zakelijke klanten, en met kleine en middel grote bedrijven, en kunnen partners hun deelname aan het succes van de klant verg Roten.
+
+De nieuwe Commerce-ervaring voor Azure in het Cloud Solution Provider-programma breidt partner kansen uit om beheerde services te bouwen en te leveren, hun klanten database verder uit te breiden en klanten te helpen bij hun digitale trans formatie.
+
+De nieuwe Commerce-ervaring biedt de volgende voor delen:
+
+- Vereenvoudigt het aankoop proces van Azure met Azure-abonnement.
+- Maakt betere prijs uitlijning over kanalen. Op basis van feedback van klanten en partners maakt de nieuwe Azure-ervaring in het Cloud Solution Provider-programma gebruik van één prijs lijst, in USD, waarmee klanten en partners een consistente prijs opleveren op een wereld wijde schaal.
+- Vermindert de verwervings belemmeringen van klanten door u hulpprogram ma's te bieden die de juiste governance, gebruikers ervaring en beleids regels bevatten om ze te verplaatsen naar de nieuwe Azure-ervaring in het Cloud Solution Provider-programma.
+- Biedt partners de mogelijkheid om hun klanten efficiënter te beheren door gebruik te maken van mogelijkheden als Azure Lighthouse en Azure Cost Management. 
+- Breidt de toegang tot Azure Marketplace uit.
+
+Door de nieuwe Commerce-ervaring voor Azure uit te breiden, hebben we overgangs hulpprogramma's ingeschakeld voor het verbeteren van de flexibiliteit voor het beheer van Azure op een manier die past bij de veranderende bedrijfs behoeften van klanten en om uw klanten te helpen bij de nieuwe Azure-aanbieding in het Cloud Solution Provider-programma. Bekijk het overzicht van de hulpprogram ma's die beschikbaar zijn voor het ondersteunen van de overgang van Azure-abonnementen van klanten in het Cloud Solution Provider-programma.
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Nieuwe Azure in Cloud Solution Provider-programma aanbieding (Azure-abonnement)
+
+Met de nieuwe Commerce-ervaring krijgen partners via een Azure-abonnement toegang tot Azure-Services tegen betalen per gebruik-tarieven voor klanten onder de klant overeenkomst van micro soft. Dit plan vereenvoudigt de aankoop ervaring door het maken van meerdere Azure-abonnementen in een Azure-abonnement. Het is niet meer nodig om een afzonderlijke order per Azure-abonnement in het partner centrum in te dienen.
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Wijzigingen in de vorige Azure-aanbieding Beschik baarheid in het Cloud Solution Provider-programma
+
+Wanneer we de nieuwe Azure-aanbieding in het Cloud Solution Provider-programma (Azure-abonnement) hebben aangekondigd, hebben we onze partners gewaarschuwd dat de vorige Azure-aanbieding en het platform voor enige tijd beschikbaar blijven, naast de nieuwe Azure-ervaring, en dat wij zes maanden vóór eventuele wijzigingen aan de vorige Azure-aanbieding in kennis zullen worden gesteld.
+
+De nieuwe Azure-aanbieding in het Cloud Solution Provider-programma (Azure-abonnement) biedt partners een verbeterde ervaring, maar we willen graag partners tijd bieden om de nieuwe functies van Azure met hun services te integreren en hun klanten te laten overstappen naar de nieuwe ervaring.
+
+De vorige Azure-aanbieding bevat drie fasen van de wijziging. Vandaag delen we meer informatie over deze drie fasen.
+
+#### <a name="three-phases"></a>Drie fasen
+
+**Fase 1: vanaf 21 juli 2021**
+
+In fase 1 bevindt alle nieuwe Azure Cloud Solution Provider zakelijke Program ma's zich op het nieuwe Azure-abonnement. De volgende richt lijnen zijn van toepassing:
+
+- Voor alle bestaande reseller relaties tussen partners en klanten in het Cloud Solution Provider-programma, als de klant de vorige Azure-aanbieding al heeft gekocht, kan de partner door gaan met Transact en kan de klant de vorige Azure-aanbieding van die partner blijven aanschaffen.
+- De vorige Azure-aanbieding is niet langer beschikbaar voor net-nieuwe partners die communiceren in CSP
+- De vorige Azure-aanbieding is niet langer beschikbaar voor net-nieuwe klanten die via een partner in CSP kopen
+- Voor alle nieuwe wederverkoper-relaties of nieuwe klant verwervingen kunnen partners de nieuwe Azure-aanbieding alleen transacten (Azure-abonnement)
+- Voor alle bestaande wederverkoper relaties tussen partners en klanten, als de klant nog nooit Azure heeft gekocht, mag de partner alleen handelen en kan de klant alleen de nieuwe Azure-aanbieding van die partner kopen.
+
+**Fase 2: tijdens het kalender jaar 2022**
+
+In fase 2, die in het kalender jaar 2022, de kans en de verkoop marge van de partner, wordt verwijderd uit de vorige Azure-aanbieding. We zullen de ingangs datum van fase 2 van tevoren 6 maanden door geven aan partners.
+
+**Fase 3: datum van TBD**
+
+In fase 3 worden alle resterende klanten in de vorige Azure-aanbieding gemigreerd naar de nieuwe Azure-aanbieding in het Cloud Solution Provider-programma (Azure-abonnement). Net als bij de vorige fasen zullen we de fase 3 begin datum door geven aan partners 6 maanden vooraf.
+
+#### <a name="partner-earned-credit-pec"></a>Door de partner aangehaalde tegoed (PEC)
+
+Met de nieuwe Commerce-ervaring worden partners op voortdurende wijze herkend voor gedifferentieerde Services met toegevoegde waarde via het krediet model van de partner. Partners die zijn geïnteresseerd in de partner, hebben het succes van de klant op prijs gebracht via Services met toegevoegde waarde die een duurzame winstgevendheid genereren.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Partners worden nadrukkelijk aangemoedigd om vertrouwd te raken met de volgende bronnen:
+
+#### <a name="partner-earned-credit-pec"></a>Door de partner aangehaalde tegoed (PEC)
+
+- [Het tegoed van een partner (gids) (micro soft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [Tegoed van de partner-overzicht-partner centrum | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [Het tegoed van de partner voor beheerde services-partner centrum | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [Rollen, machtigingen voor de partner die is gecrediteerd-partner centrum | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [On-demand training module op het tegoed van de partner in Azure in CSP-modules (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>De nieuwe Commerce ervaring
+
+- [Galerie met partner resources: een nieuwe Commerce-ervaring in CSP voor Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>Vragen?
+
+Voor vragen met betrekking tot deze melding kunt u contact opnemen met [Partner Center-ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Permanente software is nu algemeen beschikbaar voor het Cloud Solution Provider-programma
