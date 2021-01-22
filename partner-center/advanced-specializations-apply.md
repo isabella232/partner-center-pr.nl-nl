@@ -1,7 +1,7 @@
 ---
 title: Toep assen op geavanceerde specials
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Versterk uw bedrijfs profiel in de micro soft Partner Directory. Meer informatie over het gebruik van partner Center voor het Toep assen op en het verdienen van geavanceerde specials.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440058"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658413"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Gebruik Partner Center om een geavanceerde specialisatie toe te passen en de status te controleren
 
@@ -37,7 +37,7 @@ Voor toegang tot dit gebied moet u de rol van MPN- **account beheerder** of **gl
 
 ### <a name="follow-these-steps-to-access-this-area"></a>Volg deze stappen om toegang te krijgen tot dit gebied:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
 2. Selecteer de sectie **MPN** van het menu partner centrum, gevolgd door **adv. specials**. Het menu wordt uitgevouwen om alle Geavanceerd beschik bare specialisaties weer te geven.
 
@@ -60,20 +60,21 @@ Beide taken kunnen worden uitgevoerd in het partner centrum.
 
 Geavanceerde specials waarvoor een audit met een auditor van derden is vereist:
 
-- Data Warehouse-migratie naar Microsoft Azure
-- Kubernetes op Microsoft Azure
-- Migratie van Linux en open source-data base naar Microsoft Azure
-- Virtueel bureau blad van micro soft Windows
-- Modernisering van webtoepassingen naar Microsoft Azure
-- Migratie van Windows-servers en SQL Server naar Microsoft Azure
+- Analytics op Microsoft Azure
+- Migratie van Data Warehouse naar Microsoft Azure
+- Kubernetes in Microsoft Azure
+- Migratie van Linux en opensourcedatabase naar Microsoft Azure
+- Microsoft Windows Virtual Desktop
+- Modernisering van webtoepassingen voor Microsoft Azure
+- Migratie van Windows Server en SQL Server naar Microsoft Azure
 
 Geavanceerde specials waarvoor klant verwijzingen zijn vereist zijn onder andere:
 
-- Acceptatie-en wijzigings beheer
-- Aanroepen voor micro soft teams
+- Overname en wijzigingsbeheer
+- Aanroep voor Microsoft Teams
 - Vergaderingen en Vergader zalen voor micro soft-teams
 - SAP op Azure
-- Teamwork implementeren
+- Implementatie van teamwork
 - Identiteits- en toegangsbeheer
 - Bedreigingsbeveiliging
 
@@ -85,7 +86,7 @@ Naast hun eigen vereisten moet u ook een *geplande controle* door geven aan somm
 
 Voer vervolgens de volgende stappen uit om een controle in het partner centrum te plannen:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
 2. Selecteer de sectie **MPN** van het menu partner centrum, gevolgd door **adv. specials**. Het menu wordt uitgevouwen om alle Geavanceerd beschik bare specialisaties weer te geven.
 
@@ -104,7 +105,7 @@ Naast hun eigen vereisten moet u ook *klanten referenties* opgeven voor een aant
 
 Voer vervolgens de volgende stappen uit om klant referenties op te geven in het partner centrum:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
 2. Selecteer de sectie **MPN** van het menu partner centrum, gevolgd door **adv. specials**. Het menu wordt uitgevouwen om alle Geavanceerd beschik bare specialisaties weer te geven.
 
