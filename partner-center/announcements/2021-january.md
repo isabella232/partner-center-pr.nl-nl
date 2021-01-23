@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705025"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717825"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -23,6 +23,38 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 2021 aankondigingen: januari
 
 2020 aankondigingen: [mei](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md)  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> Het controle logboek van het partner centrum bevat twee nieuwe bewerkings typen voor DAP
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-25
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle CSP-partners
+
+### <a name="details"></a>Details
+
+Zoals u dat vandaag hebt aangekondigd, zullen we u laten weten dat we twee nieuwe bewerkings typen hebben weer gegeven in de activiteiten logboeken van de Partner Center om inzicht te krijgen in de partners wanneer de klant de gedelegeerde beheerders relaties heeft goedgekeurd of verwijderd.
+
+Hieronder vindt u de nieuwe bewerkings typen:
+
+"operationType": "dap_admin_relationship_terminated"
+
+"operationType": "dap_admin_relationship_approved",
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Maak gebruik van de nieuwe bewerkings typen om de gebeurtenissen bij te houden wanneer de DAP door de klant is goedgekeurd en door de klant is beëindigd.  
+- [Een record met partner Center-activiteiten ophalen-partner centrum voor app-ontwikkel aars | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Controle bronnen-partner centrum app-ontwikkelaar | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante CSP-Yammer-community's voor meer vragen.
 
 ________________
 ## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Wijzigingen in azure aanbod Beschik baarheid in CSP met betrekking tot de nieuwe Commerce-ervaring in CSP voor Azure
@@ -130,7 +162,7 @@ Houd er ook rekening mee dat vanaf nu de Partner Center-software en de mogelijkh
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Down load de lijst met geprijsde **CSP-software** in het gedeelte **Software** van de pagina [prijs & aanbiedingen](https://partnercenter.microsoft.com/en-us/pcv/sales) voor partners. [Hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)vindt u een lijst met de nieuwe producten en geografische regio's die u kunt toevoegen.
+- Down load de lijst met geprijsde **CSP-software** in het gedeelte **Software** van de pagina [prijs & aanbiedingen](https://partnercenter.microsoft.com/pcv/sales) voor partners. [Hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)vindt u een lijst met de nieuwe producten en geografische regio's die u kunt toevoegen.
 - Bekijk de [Microsoft 365 beheer centrum-software-en product licentie sleutels procedures downloaden](https://go.microsoft.com/fwlink/p/?linkid=2152525) en delen met uw klanten wanneer ze klaar zijn om hun software en licentie sleutels te downloaden.
 - Bekijk de [permanente software in de gereedheids materialen van het Cloud Solution Provider-programma](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Gebruik deze [gereedheids toewijzing](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) om snel de juiste informatie te vinden voor uw rol.
 
@@ -516,7 +548,7 @@ Micro soft kondigt aanstaande nieuwe Dynamics 365-aanbiedings wijzigingen aan di
 
 Op 1 februari 2021 maakt micro soft een nieuwe aanbieding ' extra antwoord ' met een reactie recht van 1-K om de bestaande aanbieding te vervangen door 2-K enquête reacties, het einde van de verkoop van op 1 februari 2021.
 
-Zie het tabblad ' Customer Voice Extraion ' in het [Excel-bestand voor Dynamics CSP Offers-February 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) voor de SKU-gegevens. Bekijk de [Start pagina van micro soft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/en-us/customer-voice/overview/) voor meer informatie.
+Zie het tabblad ' Customer Voice Extraion ' in het [Excel-bestand voor Dynamics CSP Offers-February 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) voor de SKU-gegevens. Bekijk de [Start pagina van micro soft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/) voor meer informatie.
 
 **Dynamics 365 Customer Service Insights-einde van de levens duur**
 
