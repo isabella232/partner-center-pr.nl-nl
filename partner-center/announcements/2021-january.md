@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685919"
+ms.locfileid: "98705025"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -126,8 +126,7 @@ Alle CSP-partners
 
 Net [als](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) vandaag heeft we u op de hoogte gesteld dat commerciële, permanente software licenties nu algemeen beschikbaar zijn voor alle CSP-partners om te verkopen. De prijs lijst voor de permanente software van de Partner Center CSP is opnieuw gepubliceerd en bevat nu aanvullende producten en geografische regio's.
 
-Houd er ook rekening mee dat vanaf nu de Partner Center-software en de mogelijkheden voor het uitvoeren van licentie sleutels buiten gebruik zijn gesteld en dat partners en klanten het Microsoft 365-beheer centrum voor dit doel kunnen gebruiken.
-Hieronder vindt u meer informatie over de volgende stappen.
+Houd er ook rekening mee dat vanaf nu de Partner Center-software en de mogelijkheden voor het volt ooien van licentie sleutels buiten gebruik zijn gesteld en dat partners naar het Microsoft 365 beheer centrum voor dit doel kunnen verwijzen. Hieronder vindt u meer informatie over de volgende stappen.
 
 ### <a name="next-steps"></a>Volgende stappen
 

@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878797"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705008"
 ---
 # <a name="september-2020-announcements"></a>Aankondigingen van september 2020
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft partner centrum voor september 2020.
 
-2020 aankondigingen: [februari](2020-february.md)  |  [maart](2020-march.md)mei van juni tot en met  |  [April](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [augustus](2020-august.md) | 2008
+2020 aankondigingen: [februari](2020-february.md)  |  [maart](2020-march.md)mei van juni tot en met  |  [](2020-april.md)  |  [](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [augustus](2020-august.md) | 2008
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>Licentie sleutel voor partner centrum-software en download bericht over de uitvoering
@@ -36,7 +36,7 @@ Alle Cloud Solution partner (CSP)-partners die software bieden
 
 ### <a name="details"></a>Details
 
-Partners van vandaag kunnen partner centrum of het Microsoft 365-beheer centrum gebruiken voor het downloaden van software en de uitvoering van licentie sleutels voor CSP-software orders. Vanaf **19 januari 2021** worden de software van het partner centrum en de uitvoering van de licentie sleutel buiten gebruik gesteld. partners zullen het **Microsoft 365 beheer centrum** uitsluitend gebruiken voor dit doel. De pagina klant software in het partner centrum bevat een ' diepe koppeling ' naar het Microsoft 365-beheer centrum, waar u de klant licenties en software downloads kunt verkrijgen. Dit helpt de veiligste en efficiënte ervaring voor klanten te garanderen.
+Partners van vandaag kunnen partner centrum of het Microsoft 365-beheer centrum gebruiken voor het downloaden van software en de uitvoering van licentie sleutels voor CSP-software orders. Vanaf **19 januari 2021** worden de mogelijkheden van het partner centrum en de uitvoering van de licentie sleutel buiten gebruik gesteld, en partners verwijzen klanten naar het **Microsoft 365-beheer centrum** uitsluitend voor dit doel einde. De pagina klant software in het partner centrum bevat een ' diepe koppeling ' naar het Microsoft 365-beheer centrum waar u klanten kunt laten wijzen om de klant licenties en software downloads te verkrijgen. Dit helpt de veiligste en efficiënte ervaring voor klanten te garanderen.
 
 Software licentie sleutels en download koppelingen zijn waardevol en Maxi maal gewenst-na intellectuele eigendoms activa. Als ze worden gelekt, kunnen ze snel worden uitgeput met hun activerings limieten en een negatieve klant-en partner ervaring veroorzaken. Daarom is het van essentieel belang dat partners de veiligste technologie en aanbevolen procedures gebruiken om deze waardevolle activa te beschermen en hun klanten te beveiligen.
 
@@ -197,7 +197,7 @@ Met deze wijziging worden de definities van de metrische gegevens die beschikbaa
 
 De bijgewerkte definities worden hieronder weer gegeven. Omdat er geen wijzigingen zijn in het API-schema, is er geen nieuwe integratie vereist. 
 
-| **Metrisch gegeven** | **Bijgewerkte definities** |
+| **Meting** | **Bijgewerkte definities** |
 |---------|:---------|
 |licensesActive |Aantal licenties dat is gebruikt in de afgelopen 28 dagen |
 |licensesQualified |Aantal beschik bare evaluatie-en niet-proef licenties voor de product-SKU |
@@ -260,7 +260,7 @@ Het **MyInsights** Reporting Tool wordt binnenkort vervangen door Partner Center
 
 ### <a name="what-is-insights"></a>Wat is inzichten?
 
-Het Insights-dash board in Partner Center biedt een uniforme, 360-diploma weergave van de Kpi's (Key Performance Indica tors) van uw partner organisatie, zoals Office 365, azure, Dynamics 365 en licentie modellen, zoals de Cloud Solution Provider (CSP) en Enterprise Agreement (EA). Er worden voortdurend nieuwe mogelijkheden toegevoegd en alle rapporten ondersteunen het [exporteren van onbewerkte gegevens](../pci-download-reports.md), zodat u ad-hoc gegevens analyse kunt uitvoeren op basis van uw bedrijfs behoeften. Met twee rapportage rollen van het partner centrum, de [rapport viewer en de rapport Viewer](../pci-roles.md)van de Manager, kunt u de toegang tot en het gebruik van inzichten in uw organisatie beter beheren.
+Het Insights-dash board in Partner Center biedt een uniforme, 360-diploma weergave van de Kpi's (Key Performance Indica tors) van uw partner organisatie, zoals Office 365, azure, Dynamics 365 en licentie modellen, zoals de Cloud Solution Provider (CSP) en Enterprise Overeenkomst (EA). Er worden voortdurend nieuwe mogelijkheden toegevoegd en alle rapporten ondersteunen het [exporteren van onbewerkte gegevens](../pci-download-reports.md), zodat u ad-hoc gegevens analyse kunt uitvoeren op basis van uw bedrijfs behoeften. Met twee rapportage rollen van het partner centrum, de [rapport viewer en de rapport Viewer](../pci-roles.md)van de Manager, kunt u de toegang tot en het gebruik van inzichten in uw organisatie beter beheren.
 
 Recent toegevoegde rapporten:
 
@@ -542,7 +542,7 @@ De ondersteunings ervaring voor partner prikkels is verbeterd met verbeterde hul
 
 Er zijn verbeteringen toegevoegd voor partner prikkels om uw algemene ondersteunings ervaring te verbeteren door betere Help voor inhouds detectie en een gestroomlijnd ticket voor het verzenden van gegevens tijdens het ondersteunings proces.
 
-#### <a name="new-capabilities"></a>Nieuwe mogelijkheden
+#### <a name="new-capabilities"></a>Nieuwe functionaliteit
 
 - Nieuwe op zoek opdrachten gebaseerde ervaring is toegankelijk binnen het [partner centrum](https://aka.ms/IncentivesSupport) en op [Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) voor niet-partner centrum-accounts. De nieuwe ervaring omvat nieuwe stappen voor probleem oplossing, veelgestelde vragen en koppelingen naar relevante zelfhulp artikelen en op de Microsoft Partner Network-ondersteunings pagina.
 - Start een nieuwe ondersteunings aanvraag rechtstreeks in het partner centrum. Nadat u de beschik bare specifieke Help voor het onderwerp hebt bekeken, kunt u, als u nog hulp nodig hebt, direct vanuit Partner Center alleen een ticket maken.
@@ -590,7 +590,7 @@ Voor bestaande Dynamics 365-klanten met PSA:
 
 Controleer het tabblad project bewerkingen in het [Excel-document van de Dynamics CSP Offers-October 2020](https://partner.microsoft.com/resources/detail/microsoft-dynamics-365-new-ids-offers-csp-october-2020-xls) voor de details van de aanbiedings-id.
 
-#### <a name="additional-resources"></a>Aanvullende resources
+#### <a name="additional-resources"></a>Aanvullende bronnen
 
 - [Overgangs bronnen](https://partner.microsoft.com/asset/collection/psa-transition-resources#/) voor PSA
 - [Inleiding tot micro soft Dynamics 365 project Service Automation](https://cloudblogs.microsoft.com/dynamics365/bdm/2020/02/20/introducing-microsoft-dynamics-365-project-operations/) blog
@@ -629,7 +629,7 @@ Micro soft kondigt met trots aan dat het aanroepende plan beschikbaar is in de v
 
 ### <a name="details"></a>Details
 
-Microsoft 365 gespreks plan is beschikbaar in de volgende nieuwe markten op 1 oktober 2020: Oosten rijk, Denemarken, Italië, Portugal, Zweden en Zwitser land. De nieuwe geografische Beschik baarheid wordt gestart in de commerciële, wereld wijde open bare sector, non-profit organisatie en de Cloud Community via Enterprise Agreement (EA) of Enterprise Agreement-abonnement (EAS), inschrijving voor education Solutions (EES), Web direct en CSP. 
+Microsoft 365 gespreks plan is beschikbaar in de volgende nieuwe markten op 1 oktober 2020: Oosten rijk, Denemarken, Italië, Portugal, Zweden en Zwitser land. De nieuwe geografische Beschik baarheid wordt gestart in de commerciële, wereld wijde open bare sector, non-profit organisatie en de Cloud Community via Enterprise Overeenkomst (EA) of Enterprise Overeenkomst-abonnement (EAS), inschrijving voor education Solutions (EES), Web direct en CSP. 
 
 Alle functies van het gespreks plan zijn beschikbaar voor de nationale en internationale oproep plannen van micro soft, waaronder de Amerikaanse abonnementen 120, 240 en 1.200 minuten per gebruiker per maand (p/u/m), en het internationale abonnement met 1.200-minuten p/u/m en 600 internationale minuten p/u/m. 
 

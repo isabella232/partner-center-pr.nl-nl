@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182559"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705042"
 ---
 # <a name="december-2020-announcements"></a>December 2020-aankondigingen
 
@@ -280,7 +280,7 @@ Het volgende gebeurt ook op dezelfde datum:
 
 - De prijs lijst met een permanente software cryptografie provider wordt opnieuw gepubliceerd in het partner centrum. U vindt deze in het gedeelte **Software** van de pagina [verkoop > prijs & aanbiedingen](https://partnercenter.microsoft.com/pcv/sales) , die extra producten en geografi bevat. Bekijk [hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) de volledige details.
 
-- De functie voor het uitvoeren van partner centrum-software en-licenties voor licentie sleutels worden buiten gebruik gesteld. Zie [aankondiging](./2020-september.md#17) -en partners zullen het Microsoft 365-beheer centrum uitsluitend gebruiken voor dit doel. Dit zorgt voor de veiligste en efficiënte ervaring voor klanten. Meer informatie over de Microsoft 365-beheer centrum-software vindt u in het [overzicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [algemene taken](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)en de mogelijkheden voor het [uitvoeren van licentie sleutels](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- De functie voor het uitvoeren van partner centrum-software en-licenties voor licentie sleutels worden buiten gebruik gesteld. Zie de [aankondiging](./2020-september.md#17) en partners om klanten te laten verwijzen naar het Microsoft 365-beheer centrum voor dit doel. Dit zorgt voor de veiligste en efficiënte ervaring voor klanten. Meer informatie over de Microsoft 365-beheer centrum-software vindt u in het [overzicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [algemene taken](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)en de mogelijkheden voor het [uitvoeren van licentie sleutels](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Permanente software in CSP
 
