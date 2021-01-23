@@ -110,6 +110,9 @@
     - name: Microsoft Partner-overeenkomst - CSP's
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Hoe indirecte providers hun wederverkopers kunnen helpen bij het aannemen van de MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: Vereisten voor de directe CSP-partner
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'
