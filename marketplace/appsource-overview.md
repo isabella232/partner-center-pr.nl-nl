@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166695"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759858"
 ---
 # <a name="what-is-microsoft-appsource"></a>Wat is Microsoft AppSource?
 
@@ -46,7 +46,7 @@ Elk product dat beschikbaar is in AppSource, is gecertificeerd volgens specifiek
 
 De software leverancier definieert de prijs, gebruiksrecht overeenkomst en privacybeleid. Elk aanbod op AppSource bevat koppelingen naar de gebruiksrecht overeenkomst en het privacybeleid van de uitgever. Het weer geven en bevestigen van deze overeenkomsten maakt deel uit van de inkoop stroom. Zie [juridische contracten](legal-contracts.md)voor meer informatie.
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS-en M365-geïntegreerde apps detecteren
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>SaaS en Microsoft 365 geïntegreerde apps detecteren
 
 Onze partners kunnen een koppeling maken tussen een SaaS-toepassing en de bijbehorende invoeg toepassingen voor Microsoft 365. Hiermee kunt u de invoeg toepassingen van specifieke Microsoft 365 Services of producten downloaden en gebruiken wanneer u een SaaS-app aan invoeg toepassingen koppelt.
 
