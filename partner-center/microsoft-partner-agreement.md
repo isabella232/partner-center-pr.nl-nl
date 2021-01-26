@@ -1,20 +1,20 @@
 ---
 title: De micro soft Partner Agreement (MPA) voor CSP
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over de micro soft CSP-partner vereisten voor het ondertekenen en verifiëren van deze geïntegreerde, digitaal geaccepteerde micro soft Partner Agreement (MPA).
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105508"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773482"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners
 
@@ -68,6 +68,20 @@ Als u wilt blijven deel nemen aan het CSP-programma, moet u de micro soft-partne
 
 Vergeet niet om de CSP-relatie aanvraag met uw indirecte provider te accepteren.
 
+## <a name="sign-the-mpa"></a>De MPA ondertekenen
+
+1. Meld u aan bij partner centrum met uw CSP indirect reseller-account. U moet de globale beheerder zijn.
+1. Ga naar de **[overzichts](https://partner.microsoft.com/pcv/dashboard/overview)** pagina van CSP.  Als u niet **akkoord en door gaan** of de groene banner ziet dat MPA is ondertekend, hebt u niet de juiste rol om MPA te ondertekenen. Neem contact op met uw globale beheerder om de MPA te ondertekenen.
+
+1. Als u de **micro soft-partner overeenkomst** wilt bekijken en downloaden voordat u deze ondertekent, klikt u op de koppeling voor de micro soft-partner overeenkomst, zoals hieronder
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nieuwe locatie van de MPA-overeenkomst":::
+
+>[!NOTE]
+>Als u de koppeling van de **micro soft-partner overeenkomst** niet ziet, controleert u uw rol in partner centrum. Alleen globale beheerders van de CSP-Tenant kunnen MPA in het partner centrum bekijken en ondertekenen. Als u uw rol wilt controleren, gaat u naar **gebruikers beheer** en controleert u of het aangemelde account is gemarkeerd als **globale beheerder**. Als dat niet het geval is, kan dit account niet worden gebruikt voor het ondertekenen van de MPA. U kunt zoeken naar globale beheerders in uw bedrijf op de pagina gebruikers beheer.
+
+:::image type="content" source="images/user-management-clean.png" alt-text="Uw rol vinden":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Controleer of u de MPA hebt ondertekend
 
 Als u wilt weten of u de MPA hebt ondertekend:
@@ -75,17 +89,17 @@ Als u wilt weten of u de MPA hebt ondertekend:
  Ga als globale beheerder voor uw bedrijf naar uw CSP- [overzicht](https://partner.microsoft.com/pcv/dashboard/overview) en controleer de groene banner waarmee u wordt gewaarschuwd dat u de MPA hebt geaccepteerd.
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="Groene banner met MPA-acceptatie":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Groene banner met MPA-acceptatie":::
 
 >[!NOTE]
 >Alleen de globale beheerder in uw bedrijf kan de MPA bekijken en ondertekenen. Als u niet de globale beheerder bent, moet u uw globale beheerder vragen om de MPA te controleren.
 
 U kunt ook zien of u de overeenkomst hebt ondertekend door **overeenkomsten** van **account instellingen** te selecteren.
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="Indicatie dat de MPA is ondertekend":::
+:::image type="content" source="images/agreement-new.png" alt-text="Indicatie dat de MPA is ondertekend":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Down load de stapsgewijze hand leiding die het meest geschikt is voor waar u zich in het proces bevindt
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Down load de stapsgewijze hand leiding die het meest geschikt is voor de locatie van het MPA-handtekening proces
 
 1. Als u uw MPN-account migreert van PMC naar Partnercentrum: [Migreren van PMC naar Partnercentrum, en akkoord gaan met de Microsoft Partner-overeenkomst](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

@@ -1,29 +1,27 @@
 ---
 title: Werken met indirecte providers in het CSP-programma
 ms.topic: how-to
-ms.date: 12/16/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe indirecte wederverkopers kunnen samen werken met micro soft indirecte providers (of distributeurs) om hulp te krijgen bij klant ondersteuning en facturering.
 ms.prod: ''
 ms.custom: contperf-fy21q2
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636021"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773447"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Meer informatie over hoe u partner kunt samen werken met indirecte providers in het Cloud Solution Provider-programma
 
 **Juiste rollen**
 
-
-- Alle micro soft-partners willen registreren in het Cloud Solution Provider-programma
-
+- Globale beheerder
 
 De snel groeiende vraag naar cloud oplossingen en-services biedt veel mogelijkheden voor micro soft-partners van elke omvang om winstgevende cloud oplossingen te bouwen. Partners die klaar zijn om de markt in te voeren, maar die geen meerdere leveranciers willen beheren of die geen end-to-end beheer infrastructuur voor klanten hebben, kunnen zich inschrijven voor het micro soft-programma voor Cloud Solution Provider (CSP) als indirecte wederverkopers.
 
@@ -80,18 +78,17 @@ Vanaf oktober 2020 kunnen alle micro soft-partners die nieuw zijn voor CSP, zich
 
 5. Koppel uw MPN-ID aan uw Azure ID-Tenant.
 
-    1. Selecteer **id's** uit **account instellingen**.
-
-    1. Gebruik in de sectie **CSP** de **Update** koppeling om de MPN-id bij te werken die is gekoppeld aan uw CSP-account. 
- 
+    1. Meld u aan met uw MPN-account. Ga naar **instellingen**  ->  **account instellingen**  ->  **organisatie profiel-**  ->  **id's**. Bekijk uw MPN-Id's en selecteer de id waarvan het land hetzelfde is als het land van uw CSP-account. Met andere woorden, uw CSP-account en de bijbehorende MPN-ID moeten zich in hetzelfde land/dezelfde regio bevinden.
+    
+     
  > [!IMPORTANT]  
-   > Selecteer de MPN-ID die is gekoppeld aan het actieve bedrijfs profiel dat zich in hetzelfde land/dezelfde regio bevindt als uw Azure AD-Tenant.
+   > Selecteer de MPN-ID die zich in hetzelfde land/dezelfde regio bevindt als uw CSP-account.
 
 6. Als uw partner centrum-account klaar is voor gebruik, controleert u of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
 
    1. Selecteer het pictogram **instellingen** in het dash board van de partner centrum en selecteer vervolgens **gebruikers beheer** onder **account instellingen**.
 
-   2. Selecteer uw naam in de lijst met gebruikers. Selecteer vervolgens **beheer agent** als deze nog niet is geselecteerd. Selecteer **Bijwerken**.
+   2. Selecteer uw naam in de lijst met gebruikers. Selecteer vervolgens **beheer agent** als deze nog niet is geselecteerd. Selecteer **Update**.
 
 ## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Alle indirecte wederverkopers moeten de micro soft-partner overeenkomst ondertekenen
 
@@ -146,5 +143,5 @@ De locatie van uw bedrijf als een indirecte dealer van CSP bepaalt de indirecte 
 - [Een bedrijfsprofiel maken](create-a-marketing-profile.md)
 
 - [Meer informatie over het verificatie proces](verification-responses.md)
- 
+
 - [Zie vereisten voor de directe factuur partner](direct-partner-new-requirements.md)

@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ca7dd4239821fedfdb017c7a475b31b9e91cf68
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: a6cf5bc3d1e0f28a9c4e0a11d8a603297fa57bf9
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717692"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773499"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-adopt-the-microsoft-partner-agreement-mpa"></a>Hoe indirecte providers hun indirecte wederverkopers kunnen helpen bij het aannemen van de micro soft-partner overeenkomst (MPA)
 
@@ -126,13 +126,13 @@ In het geval van problemen verhoogt u een [ondersteunings ticket](https://partne
 ### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Ik wil mijn MPN-account migreren van het Partner Membership Center naar het partner centrum. Hoe kan ik dit doen? Ik weet niet wie mijn MPN-beheerder was in PMC, hoe kan ik migreren? 
 
 **Antwoord** Ga door naar de stapsgewijze hand leiding voor het [migreren van MPN van PMC naar PC](guide-to-migration.md). Het heeft verschillende koppelingen naar hep die u migreert.
--   [De micro soft Partner Agreement (MPA) voor CSP](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process)
+-   [De micro soft Partner Agreement (MPA) voor CSP](microsoft-partner-agreement.md)
 
 In het geval van problemen verhoogt u een [ondersteunings ticket](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) vanuit het partner centrum. 
 
 ### <a name="are-there-any-localized-step-by-step-instructions-available"></a>Zijn er gelokaliseerde stapsgewijze instructies beschikbaar?
 
-**Antwoord** Ja, er zijn gelokaliseerde richt lijnen beschikbaar: [indirect reseller voor de micro soft-partner overeenkomst in het CSP-programma](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (beschik bare talen: Spaans, Koreaans, Chinees, Japans)
+**Antwoord** Ja, er zijn gelokaliseerde richt lijnen beschikbaar op: [indirecte wederverkoper onboarding voor micro soft-partner overeenkomst in het CSP-programma](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (beschik bare talen: Spaans, Koreaans, Chinees, Japans)
 
 ### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-sign-mpa-"></a>Ik weet niet wie de partner centrum beheerder is die de MPA kan ondertekenen?
 
@@ -159,8 +159,8 @@ Selecteer onder **account instellingen** het tabblad **juridisch profiel** op de
 
 Als u het probleem niet zelf kunt oplossen, verhoogt u een ondersteunings ticket in het partner centrum door u aan te melden met uw CSP-account en:
 
-- Klik [hier](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54) voor zakelijke verificatie problemen  
-- Klik [hier](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b) voor meer informatie over het controleren van de werk nemers
+- Maak een [ondersteunings aanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)voor problemen met de verificatie van uw bedrijf.  
+- Maak een [ondersteunings aanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)voor problemen met de verificatie van werk nemers.
 
 :::image type="content" source="images/rejected-faq-mpa.png" alt-text="afgekeurd":::
 
