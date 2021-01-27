@@ -1,7 +1,7 @@
 ---
 title: Micro soft Gold, Silver-competentie vereisten
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Leer hoe u de status van een elite micro soft partner kunt verdienen en nieuwe klanten kunt aantrekken door aan competentie vereisten te voldoen om Gold-en Silver-lidmaatschaps niveaus te verdienen.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
+ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691330"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98912536"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Onderscheiden van uw bedrijf door micro soft-competenties te bereiken
 
@@ -38,7 +38,7 @@ Het bereiken van een competentie kan ook een vermelding zijn voor verdere voor d
 
 U kunt de vereisten en wat uw bedrijf heeft behaald bekijken vanuit het gebied competentie van het dash board van uw partner centrum.
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
 2. Selecteer **Competenties** in het gedeelte MPN van het menu Partnercentrum.
 
@@ -68,6 +68,8 @@ Zie [Microsoft Partner Network-competenties](https://partner.microsoft.com/membe
 - Meer informatie over specifieke [Go-to-Market-resources](mpn-learn-about-go-to-market-benefits.md) die zijn opgenomen in competenties.
 
 - Meer informatie over [facturen en belastingen voor competenties](mpn-view-print-maps-invoice.md).
+
+- Meer informatie over [het betalen van de kosten](mpn-pay-fee-silver-gold-competency.md) die zijn gekoppeld aan een Silver-of Gold-competentie-lidmaatschap.
 
 - Bekijk een partner centrum Insights- [competentie rapport](pci-competencies-report.md) waarin de huidige status van uw competenties wordt weer gegeven.
 
