@@ -1,20 +1,20 @@
 ---
-title: Uitbetalings schema's en-processen
+title: Uitbetalingsschema's en-processen
 description: Meer informatie over uitbetalingen en trans acties, zoals betalings schema's en rekoppelings processen voor de commerciële Marketplace en andere trans acties.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492667"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861407"
 ---
-# <a name="payout-schedules-and-processes"></a>Uitbetalings schema's en-processen
+# <a name="payout-schedules-and-processes"></a>Uitbetalingsschema's en-processen
 
 **Juiste rollen:**
 
@@ -25,11 +25,11 @@ In dit artikel wordt het betalings schema van micro soft beschreven, waar u de s
 
 ## <a name="payment-schedules"></a>Betalings schema's
 
-In de volgende secties wordt het proces voor uitbetalingen voor **Enterprise Agreement** en **Credit Card-en factuur** transacties beschreven.
+In de volgende secties wordt het proces voor uitbetalingen voor **Enterprise overeenkomst** en **Credit Card-en factuur** transacties beschreven.
 
-### <a name="enterprise-agreement-transactions"></a>Enterprise Agreement trans acties
+### <a name="enterprise-agreement-transactions"></a>Enterprise Overeenkomst trans acties
 
-Wanneer een klant een product koopt van Microsoft AppSource of Azure Marketplace met behulp van hun bestaande micro soft-Enterprise Agreement voor trans acties, zullen we uitbetalingen doen in de volgende uitbetalings cyclus 30 dagen na de klant factuur. Trans acties waarbij een klant gebruikmaakt van een credit card, hebben een periode van 30 dagen vóór de betaling.
+Wanneer een klant een product koopt van Microsoft AppSource of Azure Marketplace met behulp van hun bestaande micro soft-Enterprise Overeenkomst voor trans acties, zullen we uitbetalingen doen in de volgende uitbetalings cyclus 30 dagen na de klant factuur. Trans acties waarbij een klant gebruikmaakt van een credit card, hebben een periode van 30 dagen vóór de betaling.
 
 Een uitbetaling vindt vaak plaats voordat micro soft de betaling van de klant verzamelt. Zie het [proces voor klant niet-betaling](#process-for-customer-non-payment) hieronder voor de acties die we ondernemen als de klant micro soft niet kan betalen, maar er al een uitbetaling is verleend.
 
@@ -37,6 +37,7 @@ Een uitbetaling vindt vaak plaats voordat micro soft de betaling van de klant ve
 | --- | --- | --- | --- |
 | Gebruik of maand van trans actie | Klant gebruikt of koopt een service. | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 1** |
 | Micro soft berekent het factuur bedrag | Het totale gebruik, het totaal aantal trans acties bepalen | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 2** |
+| Factuur betaald door klant | Micro soft verzamelt de betaling van de klant | Geen wijziging | **Maand 2** |
 | Betaling verzonden | De kosten van het Agency en de inkomsten van de betaling bepalen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 3 (1e week)** |
 | Uitbetaling voorbereiden | De inkomsten worden voor bereid voor de maandelijkse betaling | Gemarkeerd als gepland in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 3 (1e week)** |
 | **Verzonden betaling** | **De betaling wordt verzonden naar Publisher** | **Gemarkeerd als verzonden in de transactie geschiedenis en in de sectie betalingen van de [uitbetalings verklaring](payout-statement.md)** | **Maand 3 (niet later dan de 15e)** |

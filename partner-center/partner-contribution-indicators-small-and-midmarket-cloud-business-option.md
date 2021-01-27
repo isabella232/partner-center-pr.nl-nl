@@ -1,7 +1,7 @@
 ---
 title: Bijdrage indicatoren van partners-SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over de partners van de partner contributie indicatoren (PCI) moet voldoen voordat ze de midmarket van de kleine en de cloud oplossingen kunnen bereiken.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204138"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861424"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Gebruik partner-bijdrage indicatoren om de vaardig heden van de kleine en midmarket cloud oplossingen te bereiken
 
@@ -157,13 +157,12 @@ Net nieuwe omzet is een [prestatie-indicator](partner-contribution-indicators-sm
 - Nieuwe opbrengst van het net wordt gedefinieerd als netto nieuwe gefactureerde omzet over alle verkoop kanalen voor het kwalificeren van Dynamics 365-producten.
 - Nieuwe opbrengst van het net wordt opgeteld bij een periode van 12 maanden met een Maxi maal mogelijk aantal van 10 punten.
 - Punten voor netto nieuwe opbrengst worden berekend als facturerings minus tegoed en geaggregeerd over 12 maanden.
-- Nieuwe opbrengst wordt berekend op basis van het volgende, in aanmerking komende producten die het pad naar de klant betrokkenheid of het pad voor de financiën en het bewerkings traject volgen:
+- Nieuwe opbrengst wordt berekend op basis van een combi natie van de volgende producten die in aanmerking komen:
   - Dynamics 365 Customer engagement-kwalificerende producten zijn onder andere: verkoop, marketing, klanten service, veld Service, Project Server, abonnement 1, Automation, marketing, micro soft Relationship Sales
-  - Financiën en bewerkingen-in aanmerking komende producten zijn onder andere: bedrijfs centrale, capaciteit en opslag, financiën en activiteiten (waaronder fraude bescherming, bedrijfs activiteiten, detail handel, HR, abonnement 2), gemengde realiteit, teamlid
-  - Dynamics 365 Business Central
-
-- Verkoop kanalen zijn onder andere Enterprise Agreement (EA), Cloud Solution Provider (CSP) en Web direct.
-- Alleen voor Enterprise Agreement omzet: deze omzet omvat de omzet van het eerste jaar van de overeenkomst. De terugkerende opbrengst van het tweede en derde jaar is niet opgenomen.
+  - Voor financiering en bewerkingen-in aanmerking komende producten zijn onder andere: Dynamics 365 Business Central, capaciteit en opslag, financiën en activiteiten (met inbegrip van fraude bescherming, bedrijfs activiteiten, detail handel, HR, abonnement 2), gemengde realiteit, teamlid
+  
+- Verkoop kanalen zijn onder andere Enterprise Overeenkomst (EA), Cloud Solution Provider (CSP) en Web direct.
+- Alleen voor Enterprise Overeenkomst omzet: deze omzet omvat de omzet van het eerste jaar van de overeenkomst. De terugkerende opbrengst van het tweede en derde jaar is niet opgenomen.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definities voor PCI-metrische #2-net-klant toevoegingen
 
@@ -183,7 +182,7 @@ Net klanten toevoegen is een [prestatie-indicator](partner-contribution-indicato
 
 - Er kunnen Maxi maal behaalde en gedeeltelijke punten worden behaald voor net-klanten toevoegen.
 
-- Verkoop kanalen zijn onder andere Enterprise Agreement (EA), Cloud Solution Provider (CSP) en Web direct.
+- Verkoop kanalen zijn onder andere Enterprise Overeenkomst (EA), Cloud Solution Provider (CSP) en Web direct.
 
 - Voor meerdere partners/klanten of klanten die rechtstreeks met micro soft werken: er zijn verschillende berekeningen van **klant toevoegingen** en **klant verlies** voor gevallen waarin meerdere partners zijn gekoppeld aan dezelfde klant via verschillende abonnementen of voor gevallen waarin de klant mogelijk al rechtstreeks met micro soft werkt. Deze berekeningen worden hieronder weer gegeven.
 
