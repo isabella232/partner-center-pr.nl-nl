@@ -51,6 +51,9 @@
         - name: Uw MPN-voordelen vinden
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: Competentie kosten betalen
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: Competenties
       items:
         - name: Meer informatie over competenties
