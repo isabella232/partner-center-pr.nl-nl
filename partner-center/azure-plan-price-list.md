@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534723"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924953"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Prijslijst voor de nieuwe Commerce-ervaring in CSP voor Azure
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534723"
 - Verkoop agent
 - Beheerder van gebruikers beheer
 
-De prijs lijst voor de nieuwe Azure commerce-ervaring in CSP wordt in partner centrum geplaatst. De prijs lijst wordt dynamisch geleverd in real-time nauw keurig bestand en de prijzen worden alleen in USD weer gegeven. Facturering wordt echter uitgevoerd in de ondersteunde valuta die van toepassing is op de valuta locatie van de klant. Lees voor meer informatie over de facturering in de valuta locatie van de klant [Azure-abonnement-facturering](azure-plan-billing.md).
+De prijs lijst voor de nieuwe Azure commerce-ervaring in CSP wordt in partner centrum geplaatst. De prijs lijst wordt dynamisch geleverd in real-time nauw keurig bestand en de prijzen worden alleen in USD weer gegeven. Vanaf januari 28 2021 worden partners in de regio EU/EVA en UK die nieuwe klanten hebben en bestaande CSP-klanten nieuwe Commerce aanbiedingen kopen voor de eerste keer waarvan de tenants zijn gemaakt vóór 11 mei 2020, in rekening gebracht voor deze aankopen in de valuta van de partner locatie.  Partners die zich buiten de EU/EVA-en UK-regio bevinden, blijven in rekening gebracht voor de valuta van de partner locatie, de [facturering van het Azure-abonnement](azure-plan-billing.md).
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Prijzen voor abonnementen bekijken onder de prijzen van het Azure-abonnement
 

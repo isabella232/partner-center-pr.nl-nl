@@ -1,7 +1,7 @@
 ---
 title: Werken met indirecte providers in het CSP-programma
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe indirecte wederverkopers kunnen samen werken met micro soft indirecte providers (of distributeurs) om hulp te krijgen bij klant ondersteuning en facturering.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773447"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924985"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Meer informatie over hoe u partner kunt samen werken met indirecte providers in het Cloud Solution Provider-programma
 
@@ -76,30 +76,39 @@ Vanaf oktober 2020 kunnen alle micro soft-partners die nieuw zijn voor CSP, zich
    > [!IMPORTANT]  
    > Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om te verifiëren dat (1) hij of zij zich heeft aangemeld voor een partner centrum-account, en (2) dat dit e-mail adres tot uw bedrijf behoort. Nadat de primaire contact persoon zijn of haar e-mail adres heeft geverifieerd, gaan we verder met de door u verstrekte informatie. Er worden updates voor de inschrijvings status verzonden naar de primaire contact persoon.
 
-5. Koppel uw MPN-ID aan uw Azure ID-Tenant.
+5. Koppel uw MPN-ID aan uw CSP-account. 
+  Uw CSP-account en de bijbehorende MPN-ID moeten zich in hetzelfde land bevinden.
 
-    1. Meld u aan met uw MPN-account. Ga naar **instellingen**  ->  **account instellingen**  ->  **organisatie profiel-**  ->  **id's**. Bekijk uw MPN-Id's en selecteer de id waarvan het land hetzelfde is als het land van uw CSP-account. Met andere woorden, uw CSP-account en de bijbehorende MPN-ID moeten zich in hetzelfde land/dezelfde regio bevinden.
+   a. Meld u aan bij partner centrum met de referenties van uw MPN-account (uw MPN-referenties kunnen afwijken van uw CSP-referenties).
+   
+   b. Ga naar **instellingen**  ->  **account instellingen**  ->  **organisatie profiel-**  ->  **id's**.
+ 
+    c. Zoek de MPN-ID van het type "locatie" die overeenkomt met het land van dit CSP-account. 
+
+    d. Als u de locatie MPN-ID die overeenkomt met de CSP-account die u wilt gebruiken niet kunt vinden, kunt u een nieuwe locatie toevoegen waarmee een nieuwe MPN-ID wordt gemaakt. Meer informatie over het [beheren van locaties](manage-locations.md).
+
+    e. U kunt deze stap nu uitstellen, maar het is niet mogelijk om micro soft Partner Agreement (MPA) of Transact in CSP te ondertekenen, totdat u de MPN-ID aan uw CSP-account hebt gekoppeld.
     
      
  > [!IMPORTANT]  
-   > Selecteer de MPN-ID die zich in hetzelfde land/dezelfde regio bevindt als uw CSP-account.
+   > Selecteer de MPN-ID die zich in hetzelfde land als uw CSP-account bevindt.
 
-6. Als uw partner centrum-account klaar is voor gebruik, controleert u of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
+6. Nadat micro soft de verificatie van de inschrijving heeft voltooid die 3-5 werk dagen in beslag neemt, ondertekent u de micro soft-partner overeenkomst in het [dash board van het partner centrum](https://partner.microsoft.com/pcv/dashboard/overview) met de referenties van de globale beheerder. Als u de **micro soft-partner overeenkomst** wilt bekijken en downloaden voordat u deze ondertekent, klikt u op de koppeling voor de micro soft-partner overeenkomst, zoals hieronder  Als uw account na 5 werk dagen is vastgelopen, leest u [het account verificatie proces](verification-responses.md).
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nieuwe locatie van de MPA-overeenkomst":::
+
+ 
+7. Bevestig dat u de micro soft-partner overeenkomst hebt ondertekend in het gedeelte met **programma gegevens** van het Partner profiel. U ziet ook een melding over een bericht met een waarschuwing op de overzichts pagina van CSP. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Groene, geaccepteerde banner":::
+
+
+8. Als uw partner centrum-account klaar is voor gebruik, controleert u of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
 
    1. Selecteer het pictogram **instellingen** in het dash board van de partner centrum en selecteer vervolgens **gebruikers beheer** onder **account instellingen**.
 
    2. Selecteer uw naam in de lijst met gebruikers. Selecteer vervolgens **beheer agent** als deze nog niet is geselecteerd. Selecteer **Update**.
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Alle indirecte wederverkopers moeten de micro soft-partner overeenkomst ondertekenen
-
-1.  Als u nog niet hebt overgegaan naar partner Center vanuit het lidmaatschap van partners, doet u dat nu. Lees de [hand leiding voor het migreren van PMC naar partner Center](guide-to-migration.md)voor meer informatie over het overstappen naar het partner centrum. 
-
-2.  Als u een lidmaatschaps account van een partner centrum (MPN-ID) hebt, moet u zich nog steeds officieel inschrijven in het Cloud Solution Provider-programma. Als u de status van uw lidmaatschap wilt controleren, gaat u naar uw [**partner profiel**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) en bevestigt u het account type. Schrijf u vervolgens [in als een indirecte wederverkoper](enrolling-in-the-csp-program.md). Zodra u bent Inge schreven als een indirecte wederverkoper, [accepteert u de CSP-relatie aanvraag van uw indirecte provider](indirect-reseller-tasks-in-partner-center.md).
-
-3.  Als u zich al hebt geregistreerd bij Partner Center als een indirecte wederverkoper, accepteert u de micro soft-partner overeenkomst in het [dash board van het partner centrum](https://partner.microsoft.com/pcv/dashboard/overview) met de referenties van de globale beheerder. Bevestig dat u de micro soft-partner overeenkomst hebt ondertekend in het gedeelte met **programma gegevens** van het Partner profiel. U ziet ook een melding over een bericht met een waarschuwing op de overzichts pagina van CSP. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Groene, geaccepteerde banner":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>Verbinding maken met een indirecte-provider
 
@@ -145,3 +154,4 @@ De locatie van uw bedrijf als een indirecte dealer van CSP bepaalt de indirecte 
 - [Meer informatie over het verificatie proces](verification-responses.md)
 
 - [Zie vereisten voor de directe factuur partner](direct-partner-new-requirements.md)
+- [Microsoft Partner-overeenkomst](microsoft-partner-agreement.md)

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570702"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924951"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Factureringsoverzicht voor partners van het CSP-programma die in Partner Center werkzaam zijn 
 
@@ -33,7 +33,7 @@ In dit artikel vindt u de basis informatie over de facturering en de factuur voo
 
 Uw factuur zoeken:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
 2. Kies **facturering** in het menu van het partner centrum.
 
@@ -53,7 +53,7 @@ Facturerings typen in het partner centrum zijn onder andere **op licenties gebas
 
 Factuur op basis van **licentie en op basis van gebruik**: u wordt gefactureerd voor product (en) in de valuta van het land of de regio waarin u zich bevindt. U factureert hetzelfde, ongeacht de locatie van de klant naar wie u de producten hebt verkocht.
 
-**Eenmalige facturering**: uw factuur wordt gegenereerd in de context van de valuta van de klant. Dit betekent dat als u een partner bent die gebruikmaakt van klanten uit verschillende factureer bare valuta's, een factuur ontvangt voor elk type valuta van de klant. Lees meer over [eenmalige en recurrent](azure-plan-billing.md). 
+**Eenmalige facturering**: vanaf januari 28, 2021, worden partners in de regio EU/EVA en UK die nieuwe klanten hebben en bestaande CSP-klanten nieuwe Commerce aanbiedingen kopen voor de eerste keer dat de tenants die zijn gemaakt vóór 11 mei 2020, worden gefactureerd voor die aankopen in de valuta van de partner locatie.  Partners die zich buiten de EU/EVA-en UK-regio bevinden, blijven in rekening gebracht voor de valuta van de partner. Lees meer over [eenmalige en recurrent](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Facturen
 
@@ -150,15 +150,15 @@ Service tarieven met data limiet kunnen worden gewijzigd in de factuur cyclus.
 
 De huidige facturerings status, facturen en reconciliatie bestanden weer geven:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 2. Kies **facturering** in het menu aan de linkerkant en selecteer vervolgens **terugkerende en eenmalige aankopen**.
-3. Selecteer op de pagina facturerings status een factuur of afstemmings bestand om meer gedetailleerde informatie weer te geven.
+3. Selecteer op de pagina met de factuurstatus een factuur of afstemmingsbestand om gedetailleerdere informatie weer te geven.
 
 ### <a name="customer-order-history"></a>Order geschiedenis van de klant
 
 De order historie van een klant bekijken:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 2. Kies in het menu aan de linkerkant de optie **klanten**.
 3. Zoek op de pagina **klanten** de klant waarvan u de order geschiedenis wilt weer geven. Selecteer de pijl-omlaag om de record van de klant uit te vouwen.
 4. Kies **orders weer geven** om de order historie van de klant weer te geven.

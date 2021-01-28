@@ -1,5 +1,5 @@
 ---
-title: Veelgestelde vragen over uitbetalingen en BTW-profielen
+title: Veelgestelde vragen over uitbetalings- en belastingprofielen
 description: Krijg antwoorden op veelgestelde vragen over uitbetalingen en belasting gegevens in Partner Center. Bevat antwoorden over waarom uw inkomsten anders zijn dan verwacht.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492582"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924913"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Veelgestelde vragen over uitbetalingen en belastingen
 
@@ -128,10 +128,6 @@ Zoek in de download van het transactieoverzicht de kolom Btw-model op. Hierin wo
 
 Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen**. Er wordt een link naar het belastingformulier voor servicekosten weergegeven voor een betaling met servicekostenbelasting.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Hoe kan ik een bronbelastingformulier als PDF downloaden?
-
-Ga naar de pagina *Betaling uitbetaling* en vervolgens naar het gedeelte **Lijst met betalingen**. Er wordt een koppeling naar een bronbelastingformulier weergegeven naast een betaling.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Waar vind ik de belastingformulieren voor het eind van het jaar?
 
 Ga naar de [Profielpagina](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) om uw belastingformulieren voor het eind van het jaar weer te geven.
@@ -170,7 +166,7 @@ Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lij
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Hoe kan ik een bronbelasting formulier in PDF downloaden?
 
-Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen**. Er wordt een koppeling naar een bronbelastingformulier weergegeven naast een betaling.
+Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen**. Er wordt een koppeling naar een bronbelastingformulier weergegeven naast een betaling. Een bronbelasting formulier is alleen van toepassing op geselecteerde prikkel Programma's en niet op een commerciële markt toekenning.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Waar vind ik de belastingformulieren voor het eind van het jaar?
 

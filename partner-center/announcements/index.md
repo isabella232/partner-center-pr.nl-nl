@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/27/2021
+ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717842"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924919"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,17 +22,18 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **Aankondigingen van januari 2021** | **Aangekondigd** |
 |---------|:---------|:---------|
-|Functies|[Het controle logboek van het partner centrum bevat twee nieuwe bewerkings typen voor DAP](2021-january.md#13)|25 januari|
-|Functies|[Wijzigingen in azure aanbod Beschik baarheid in CSP met betrekking tot de nieuwe Commerce-ervaring in CSP voor Azure](2021-january.md#12)|21 januari|
-|Uw bedrijf laten groeien|[Onbeperkt geldige software nu algemeen beschikbaar in het Cloud Solution Provider-programma ](2021-january.md#11)|19 januari|
-|Uw bedrijf laten groeien|[Herinnering: Maak kennis met API-beperking voor partners die Partner Center-API's aanroepen](2021-january.md#10)|19 januari|
-|Aanbiedingen/markten|[Beveiliging, naleving en identitieit (SCI) komt op 1 februari 2021](2021-january.md#9)|15 januari|
-|Functies|[DocuSign-migratie naar Adobe Sign voor partners met Microsoft Partner-overeenkomsten (MPA’s)](2021-january.md#8)|15 januari|
-|Aanbiedingen/markten|[Update voor commerciële prijzen voor de Noorse kroon](2021-january.md#7)|14 januari|
-|Aanbiedingen/markten|[Update voor commerciële prijzen voor de Indiase rupee](2021-january.md#6)|8 januari|
-|Aanbiedingen/markten|[Updates voor belabonnementen en telefoonsystemen voor 1 februari 2021](2021-january.md#5)|8 januari|
-|Aanbiedingen/markten|[Updates voor licentiebasisprijzen voor januari 2021](2021-january.md#4)|8 januari|
-|Moderne werkplek|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2021-january.md#3)|7 januari|
+|Moderne werkplek|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2021-january.md#14)|27 januari|
+|Functies|[Micro soft Partner Agreement (MPA) – indirecte reseller update & nieuwe veelgestelde vragen](2021-january.md#13)|27 januari|
+|Functies|[Het controle logboek van het partner centrum bevat twee nieuwe bewerkings typen voor DAP](2021-january.md#12)|25 januari|
+|Functies|[Wijzigingen in azure aanbod Beschik baarheid in CSP met betrekking tot de nieuwe Commerce-ervaring in CSP voor Azure](2021-january.md#11)|21 januari|
+|Uw bedrijf laten groeien|[Onbeperkt geldige software nu algemeen beschikbaar in het Cloud Solution Provider-programma ](2021-january.md#10)|19 januari|
+|Uw bedrijf laten groeien|[Herinnering: Maak kennis met API-beperking voor partners die Partner Center-API's aanroepen](2021-january.md#9)|19 januari|
+|Aanbiedingen/markten|[Beveiliging, naleving en identitieit (SCI) komt op 1 februari 2021](2021-january.md#8)|15 januari|
+|Functies|[DocuSign-migratie naar Adobe Sign voor partners met Microsoft Partner-overeenkomsten (MPA’s)](2021-january.md#7)|15 januari|
+|Aanbiedingen/markten|[Update voor commerciële prijzen voor de Noorse kroon](2021-january.md#6)|14 januari|
+|Aanbiedingen/markten|[Update voor commerciële prijzen voor de Indiase rupee](2021-january.md#5)|8 januari|
+|Aanbiedingen/markten|[Updates voor belabonnementen en telefoonsystemen voor 1 februari 2021](2021-january.md#4)|8 januari|
+|Aanbiedingen/markten|[Updates voor licentiebasisprijzen voor januari 2021](2021-january.md#3)|8 januari|
 |Functies|[Afschaffing en buiten gebruik stellen van bestaande GET en PUT Qualification API's voor het Education-klantvalidatieproces voor het einde van februari 2021](2021-january.md#2)|5 januari|
 |Aanbiedingen/markten|[Dynamics 365-aanbiedingen voor februari 2021](2021-january.md#1)|4 januari|
 | **Categorie** | **December 2020-aankondigingen** | **Aangekondigd** |

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717825"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924890"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -24,8 +24,98 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 
 2020 aankondigingen: [mei](2020-may.md)juni tot en met  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [oktober](2020-October.md)  |  [november](2020-november.md)  |  [](2020-december.md)  
 
+_____________ 
+
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> Fase 1 nu Live: EU/EVA & UK wijzigingen in de facturerings valuta van partners voor nieuwe Commerce aanbiedingen
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-28
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+- Alle partners handelen via het programma Cloud solution provider in de EU/EVA & UK
+
+### <a name="details"></a>Details
+
+In de Europese Unie (EU)/European Free Trade Association (EVA) en het Verenigd Konink rijk (UK) gebruiken alle nieuwe Commerce aanbiedingen in het Cloud Solution Provider-programma de facturerings locatie van de partner in plaats van de facturerings locatie van de klant. Daarom worden partners door micro soft gefactureerd op basis van hun locatie valuta, niet de locatie valuta van de klant. Deze wijzigingen worden uitgevoerd in twee fasen:
+
+**Fase 1:**
+
+- Nieuwe klant die een nieuwe Commerce-aanbieding koopt in CSP
+
+- Bestaande klanten hebben nieuwe Commerce aanbiedingen voor het eerst gekocht-Tenant gemaakt vóór 11 mei 2020
+
+Vanaf 28 januari 2021 worden partners die net nieuwe klanten hebben die een nieuwe Commerce-aanbieding kopen of bestaande klanten met tenants die zijn gemaakt vóór 11 mei 2020 hun eerste aankoop van nieuwe Commerce aanbiedingen, gefactureerd voor die aankopen in de valuta van de partner locatie.  
+
+Partners met bestaande klanten die al nieuwe Commerce aanbiedingen in CSP hebben gekocht, blijven in de valuta van de facturerings locatie van de klant in rekening worden gebracht tijdens deze fase. Daarnaast worden partners met bestaande klanten een eerste aankoop van een nieuwe Commerce-aanbieding, waarvan de tenants zijn gemaakt op of na 11 mei 2020, in rekening gebracht voor de valuta van de klant.
+
+**Fase 2:**
+
+- Bestaande klanten die al een nieuwe Commerce-aanbieding in CSP hebben gekocht vóór fase 1
+- Bestaande klanten hebben nieuwe Commerce aanbiedingen voor het eerst gekocht: de Tenant is gemaakt op of na 11 mei 2020
+
+De volgende fase 1 en het kalender jaar 2021, micro soft zet de facturering van nieuwe Commerce-aanbiedingen voor partners met bestaande klanten over, die een nieuwe Commerce-aanbieding in CSP vóór fase 1 hebben gekocht, en klanten die hun tenants hebben gemaakt op of na 11 mei 2020, van de valuta van de klant locatie tot de valuta van de partner. Partners worden goed geïnformeerd voordat deze wijziging wordt geïmplementeerd.
+
+Na fase 2 worden partners in de EU/EVA & UK gefactureerd in de valuta van de partner locatie voor alle klanten en alle CSP-aankopen.
+
+>[!NOTE]
+>Deze wijziging is alleen van invloed op de facturerings valuta van de partner en niet op de prijzen van nieuwe Commerce-aanbiedingen in CSP. De nieuwe Commerce-aanbiedingen in het bereik voor deze wijziging zijn: Azure-abonnementen die deel uitmaken van een Azure-abonnement, Azure-reserve ringen, Server abonnementen, permanente software en micro soft Commercial Marketplace-aankopen in het Cloud Solution Provider-programma.
+
+### <a name="partner-benefits"></a>Voor delen van partner
+
+Deze update vermindert de complexiteit en de overhead met de facturering in meerdere valuta in de EU/EVA & UK voor de nieuwe Commerce ervaring.
+
+- Partners ontvangen een geconsolideerde factuur in één valuta en er wordt geen factuur meer ontvangen voor elke klant locatie valuta
+- Belonings uitbetalingen worden in dezelfde valuta als de factuur valuta van de partner
+- Partners zien een gereduceerde facturerings complexiteit die wordt veroorzaakt door multi-currency-facturering, waarmee tijd en resources worden vrijgemaakt die momenteel zijn gekoppeld aan het afstemmen van accounts
+- Voor partners die nog geen nieuwe Commerce-aanbiedingen hebben toegepast, wordt deze wijziging uitgelijnd met het vorige partner-facturerings model, waardoor partners eenvoudiger kunnen overstappen op de nieuwe Commerce-ervaring in CSP
+
+### <a name="next-steps"></a>Volgende stappen
+
+Lees de informatie over dit onderwerp in de [Operations-galerie](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (aanmelden vereist) op de website van micro soft partner.  
+
+### <a name="questions"></a>Vragen?
+
+Voor vragen met betrekking tot deze melding kunt u contact opnemen met [ondersteuning van partner centrum](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (aanmelden vereist).
+
+### <a name="change-log"></a>Wijzigingenlogboek
+
+- 17 november 2020: oorspronkelijke publicatie
+- 7 januari 2021: er is een aanvullend scenario opgenomen voor fase 1 en fase 2
+- 28 januari 2021: 
+    -    Aankondiging fase 1 is Live 
+    -    Het Verenigd Konink rijk is niet opgenomen in de EU/EVA en maakt deel uit van de [micro soft-Europese regio en-markt](https://docs.microsoft.com/partner-center/regional-authorization-overview) en zal worden beïnvloed
+
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> Het controle logboek van het partner centrum bevat twee nieuwe bewerkings typen voor DAP
+## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Micro soft Partner Agreement (MPA) – indirecte reseller update & nieuwe veelgestelde vragen 
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-27
+- Functies
+ 
+### <a name="impacted-audience"></a>Doel groep
+
+Alle indirecte wederverkopers & indirecte providers die communiceren via het CSP-programma (Cloud Solution Provider).
+
+### <a name="details"></a>Details
+
+De implementatie van de micro soft Partner Agreement (MPA) voor indirecte wederverkopers wordt momenteel uitgevoerd. We hebben uw feedback gehoord en bevatten nu geconsolideerde algemene query's over het accepteren van de MPA in een nieuwe [pagina met veelgestelde vragen](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)voor meer informatie over de ondersteuning van providers en wederverkopers.
+
+### <a name="next-steps"></a>Volgende stappen
+
+**Indirecte wederverkopers:** Als u de MPA niet hebt geaccepteerd, bekijkt u de [Veelgestelde vragen over MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) en volgt u de stapsgewijze richt lijnen die u [hier](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) kunt vinden om de MPA te accepteren.
+
+**Indirecte providers:** Neem contact op met uw indirecte wederverkopers en ondersteunt deze met de [Veelgestelde vragen over MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) en de stapsgewijze richt lijnen die [hier](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)beschikbaar zijn.
+
+### <a name="questions"></a>Vragen?
+
+Voor vragen met betrekking tot deze melding kunt u contact opnemen met [Partner Center-ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> Het controle logboek van het partner centrum bevat twee nieuwe bewerkings typen voor DAP
 
 ### <a name="categories"></a>Categorieën
 
@@ -57,7 +147,7 @@ Hieronder vindt u de nieuwe bewerkings typen:
 Raadpleeg uw relevante CSP-Yammer-community's voor meer vragen.
 
 ________________
-## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Wijzigingen in azure aanbod Beschik baarheid in CSP met betrekking tot de nieuwe Commerce-ervaring in CSP voor Azure
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Wijzigingen in azure aanbod Beschik baarheid in CSP met betrekking tot de nieuwe Commerce-ervaring in CSP voor Azure
 
 ### <a name="categories"></a>Categorieën
 
@@ -143,7 +233,7 @@ Partners worden nadrukkelijk aangemoedigd om vertrouwd te raken met de volgende 
 Voor vragen met betrekking tot deze melding kunt u contact opnemen met [Partner Center-ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Permanente software is nu algemeen beschikbaar voor het Cloud Solution Provider-programma
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a> Permanente software is nu algemeen beschikbaar voor het Cloud Solution Provider-programma
 
 ### <a name="categories"></a>Categorieën
 
@@ -171,7 +261,7 @@ Houd er ook rekening mee dat vanaf nu de Partner Center-software en de mogelijkh
 Raadpleeg uw relevante CSP-Yammer-community's voor meer vragen.
 
 _____________
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Herinnering: Inleiding tot de API-beperking voor partners die partner Center-Api's aanroepen 
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Herinnering: Inleiding tot de API-beperking voor partners die partner Center-Api's aanroepen 
 
 ### <a name="categories"></a>Categorieën
 
@@ -220,7 +310,7 @@ Bekijk de [bronnen](/partner-center/develop/api-throttling-guidance)   voor 
 
 _____________
 
-## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Security, compliance en Identity (SCI) wordt gestart op 1 februari 2021 
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="8"></a>Security, compliance en Identity (SCI) wordt gestart op 1 februari 2021 
 
 ### <a name="categories"></a>Categorieën
 
@@ -280,7 +370,7 @@ Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedinge
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>DocuSign migratie naar Adobe-ondertekenen voor partners onder micro soft-partner overeenkomsten (MPAs) 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>DocuSign migratie naar Adobe-ondertekenen voor partners onder micro soft-partner overeenkomsten (MPAs) 
 
 ### <a name="categories"></a>Categorieën
 
@@ -326,7 +416,7 @@ Als u vragen hebt, neemt u contact op met uw regionale Operations Center met het
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Update van commerciële prijzen voor Noorse kroon 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>Update van commerciële prijzen voor Noorse kroon 
 
 ### <a name="categories"></a>Categorieën
 
@@ -344,7 +434,7 @@ De volledige aankondiging is alleen beschikbaar voor micro soft-partners. [Meld 
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>Update van commerciële prijzen voor de Indiase rupee 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Update van commerciële prijzen voor de Indiase rupee 
 
 ### <a name="categories"></a>Categorieën
 
@@ -363,7 +453,7 @@ De volledige aankondiging is alleen beschikbaar voor micro soft-partners. [Meld 
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>Plan-en telefoon systeem updates aanroepen voor 1 februari 20201
+## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>Plan-en telefoon systeem updates aanroepen voor 1 februari 20201
 
 ### <a name="categories"></a>Categorieën
 
@@ -403,7 +493,7 @@ Deze aanbiedingen zijn beschikbaar voor commercieel, student, faculteit, Governm
 
 _____________ 
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Licentie-basis prijs lijst updates voor januari 2021 
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3"></a>Licentie-basis prijs lijst updates voor januari 2021 
 
 ### <a name="categories"></a>Categorieën
 
@@ -438,69 +528,6 @@ Partners moeten verwijzen naar de momenteel beschik bare prijs lijsten voor janu
 
 - Partners moeten de nieuwste prijslijst bestanden downloaden van het partner centrum om de gecorrigeerde prijzen voor januari en februari te krijgen. 
 - Globale beheerders voor tenants die hebben gekocht tussen 1 januari en 6 januari, worden via een e-mail van een partner centrum gewaarschuwd voor eind januari met meer details. 
-
-_____________ 
-
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Wijzigingen in de facturerings valuta van de partner van de EU/EVA voor nieuwe Commerce aanbiedingen
-
-### <a name="categories"></a>Categorieën
-
-- Datum: 2021-01-07
-- Functies
-
-### <a name="impacted-audience"></a>Doel groep
-
-- Alle partners handelen via het programma Cloud solution provider in de regio EU/EVA 
-
-### <a name="details"></a>Details
-
-In de regio Europese Unie (EU)/European Free Trade Association (EVA) zal alle nieuwe Commerce aanbiedingen in het Cloud Solution Provider-programma de facturerings locatie van de partner gebruiken in plaats van de facturerings locatie van de klant. Daarom worden partners door micro soft gefactureerd op basis van hun locatie valuta, niet de locatie valuta van de klant. Deze wijzigingen worden uitgevoerd in twee fasen:
-
-**Fase 1:**
-
-- Nieuwe klant die een nieuwe Commerce-aanbieding koopt in CSP
-
-- Bestaande klanten hebben nieuwe Commerce aanbiedingen voor het eerst gekocht-Tenant gemaakt vóór 11 mei 2020
-
-Vanaf 28 januari 2021 worden partners die net nieuwe klanten hebben die een nieuwe Commerce-aanbieding kopen of bestaande klanten met tenants die zijn gemaakt vóór 11 mei 2020 hun eerste aankoop van nieuwe Commerce aanbiedingen, gefactureerd voor die aankopen in de valuta van de partner locatie.  
-
-Partners met bestaande klanten die al nieuwe Commerce aanbiedingen in CSP hebben gekocht, blijven in de valuta van de facturerings locatie van de klant in rekening worden gebracht tijdens deze fase. Daarnaast worden partners met bestaande klanten een eerste aankoop van een nieuwe Commerce-aanbieding, waarvan de tenants zijn gemaakt op of na 11 mei 2020, in rekening gebracht voor de valuta van de klant.
-
-**Fase 2:**
-
-- Bestaande klanten die al een nieuwe Commerce-aanbieding in CSP hebben gekocht vóór fase 1
-- Bestaande klanten hebben nieuwe Commerce aanbiedingen voor het eerst gekocht: de Tenant is gemaakt op of na 11 mei 2020
-
-De volgende fase 1 en het kalender jaar 2021, micro soft zet de facturering van nieuwe Commerce-aanbiedingen voor partners met bestaande klanten over, die een nieuwe Commerce-aanbieding in CSP vóór fase 1 hebben gekocht, en klanten die hun tenants hebben gemaakt op of na 11 mei 2020, van de valuta van de klant locatie tot de valuta van de partner. Partners worden goed geïnformeerd voordat deze wijziging wordt geïmplementeerd.
-
-Na fase 2 worden partners in de regio van de EU/EVA gefactureerd in de valuta van de partner locatie voor alle klanten en alle CSP-aankopen.
-
->[!NOTE]
->Deze wijziging is alleen van invloed op de facturerings valuta van de partner en niet op de prijzen van nieuwe Commerce-aanbiedingen in CSP. De nieuwe Commerce-aanbiedingen in het bereik voor deze wijziging zijn: Azure-abonnementen die deel uitmaken van een Azure-abonnement, Azure-reserve ringen, Server abonnementen, permanente software en micro soft Commercial Marketplace-aankopen in het Cloud Solution Provider-programma.
-
-
-### <a name="partner-benefits"></a>Voor delen van partner
-
-Deze update vermindert de complexiteit en de overhead met de facturering in meerdere valuta in de regio EU/EVA voor de nieuwe Commerce ervaring.
-
-- Partners ontvangen een geconsolideerde factuur in één valuta en er wordt geen factuur meer ontvangen voor elke klant locatie valuta
-- Belonings uitbetalingen worden in dezelfde valuta als de factuur valuta van de partner
-- Partners zien een gereduceerde facturerings complexiteit die wordt veroorzaakt door multi-currency-facturering, waarmee tijd en resources worden vrijgemaakt die momenteel zijn gekoppeld aan het afstemmen van accounts
-- Voor partners die nog geen nieuwe Commerce-aanbiedingen hebben toegepast, wordt deze wijziging uitgelijnd met het vorige partner-facturerings model, waardoor partners eenvoudiger kunnen overstappen op de nieuwe Commerce-ervaring in CSP
-
-### <a name="next-steps"></a>Volgende stappen
-
-Lees de informatie over dit onderwerp in de [Operations-galerie](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (aanmelden vereist) op de website van micro soft partner.  
-
-### <a name="questions"></a>Vragen?
-
-Voor vragen met betrekking tot deze melding kunt u contact opnemen met [ondersteuning van partner centrum](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (aanmelden vereist).
-
-### <a name="change-log"></a>Wijzigingenlogboek
-
-- 17 november 2020: oorspronkelijke publicatie
-- 7 januari 2021: er is een aanvullend scenario opgenomen voor fase 1 en fase 2
-
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Afschaffing en buiten gebruik stellen van bestaande Api's voor het door geven van de educatie van het onderwijs en voor de vorming van kwalificaties voor het einde van februari 2021

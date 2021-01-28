@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658430"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925002"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nieuwe Commerce-ervaring in CSP - Azure-facturering 
 
@@ -36,7 +36,7 @@ In dit artikel wordt uitgelegd hoe u de bestands structuur van de factuur en de 
 
 - **Factuur betalings termijn**: netto 60 dagen.
 
-- **Factuur valuta**: partners worden nog steeds gefactureerd in de country's toegewezen valuta van de klant. Als de gefactureerde partner zich bijvoorbeeld in Ierland bevindt met klanten in het Verenigd Konink rijk, Noor wegen en Duitsland, ontvangt de gefactureerde partner een factuur/afstemming van GBP, NOK en EUR.
+- **Factuur valuta**: vanaf januari 28 2021 worden partners in de regio EU/EVA en UK die nieuwe klanten hebben en bestaande CSP-klanten nieuwe Commerce aanbiedingen kopen voor de eerste keer dat de tenants die zijn gemaakt vóór 11 mei 2020, worden gefactureerd voor die aankopen in de valuta van de partner locatie. Partners die zich buiten de EU/EVA-en UK-regio bevinden, blijven in rekening gebracht voor de valuta van de partner.
 
 - **Partner prikkels**: betaalde 45 dagen aan het einde van de factuur maand.
 
