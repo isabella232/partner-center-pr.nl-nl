@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 2879a129879f894da89f57dc79366d2122a4a160
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924890"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042732"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -26,7 +26,7 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 
 _____________ 
 
-## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> Fase 1 nu Live: EU/EVA & UK wijzigingen in de facturerings valuta van partners voor nieuwe Commerce aanbiedingen
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Fase 1 nu Live: EU/EVA & UK wijzigingen in de facturerings valuta van partners voor nieuwe Commerce aanbiedingen
 
 ### <a name="categories"></a>Categorieën
 
@@ -87,6 +87,74 @@ Voor vragen met betrekking tot deze melding kunt u contact opnemen met [onderste
 - 28 januari 2021: 
     -    Aankondiging fase 1 is Live 
     -    Het Verenigd Konink rijk is niet opgenomen in de EU/EVA en maakt deel uit van de [micro soft-Europese regio en-markt](https://docs.microsoft.com/partner-center/regional-authorization-overview) en zal worden beïnvloed
+
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Wijzigingen in de voorbereidings vereisten van de klant voor de Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-01-28
+- Verbeterde beveiliging en naleving
+
+### <a name="impacted-audience"></a>Doel groep
+
+CSP direct-factuur partners en indirecte providers die nieuwe of bestaande klanten hebben in de landen die in de volgende sectie worden weer gegeven.
+
+### <a name="summary"></a>Samenvatting
+
+Als onderdeel van onze toezeg ging om partners en klanten te helpen zaken op basis van vertrouwen uit te voeren, zullen we bijkomende klant gegevens aanvragen, met ingang van een effectief eind maart 2021.
+
+### <a name="details"></a>Details
+
+Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode voor klant validatie te bieden voor het handelen van klant abonnementen in het CSP-programma. Eind maart 2021 worden de verbeteringen van de Partner Center API en gebruikers interface (UI) geïntroduceerd die van invloed zijn op partners die voldoen aan de volgende criteria:
+
+1. De partner heeft een directe facturerings relatie met micro soft (wat betekent dat de partner een directe factuur partner of een indirecte provider is).
+2. De partner doet zaken met nieuwe of bestaande klanten in de volgende landen:
+    - Thailand
+    - Vietnam
+    - Turkije
+    - Polen
+    - Zuid-Afrika
+    - India
+    - Brazilië
+    - Irak
+    - Myanmar
+    - Zuid-Soedan
+    - Saoedi-Arabië
+    - Verenigde Arabische Emiraten
+    - Venezuela
+
+Partners die aan de criteria voldoen, moeten de **juridische id** van een klant (ook wel de **organisatie Inn**) en het **telefoon nummer** van de klant indienen wanneer ze nieuwe klanten voordoen of bestaande klant gegevens wijzigen. Deze partners kunnen ook een optionele **middelste naam** voor de klant invoeren.
+
+Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben in november 2020 al geknoeid met een eerdere release.
+
+- Armenië
+- Azerbeidzjan
+- Belarus
+- Hongarije
+- Kazachstan
+- Kirgistan
+- Moldavië
+- Rusland
+- Tadzjikistan
+- Oekraïne
+- Oezbekistan
+
+Partners met klanten in de rest van de wereld hebben de mogelijkheid aan het einde van maart 2021 om de **juridische id**, het **telefoon nummer** en de **middelste naam** voor klanten als optionele Details in te voeren.
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Bekijk de technische documentatie en veelgestelde vragen in de verzameling dedicated [partner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (aanmelden is vereist) voor meer gedetailleerde richt lijnen.
+- Bereid u voor op het opnemen van de wijzigingen met behulp van partner Center API en webervaring. API/Sdk's zijn beschikbaar voor testen.
+- Zorg ervoor dat u de aanvullende gegevens indient bij het voorbereiden van nieuwe klanten of het wijzigen van bestaande klant gegevens.
+- Als u een CPV-oplossing (configuratie scherm) gebruikt, raadpleegt u uw CPV.
+
+### <a name="questions"></a>Vragen?
+
+Neem contact op met uw belasting adviseur of gemeentelijke belasting dienst als u vragen hebt met betrekking tot de juridische id (ook wel INN of TIN genoemd). Micro soft kan geen ondersteuning bieden voor belasting kwesties.
+
+Als u ondersteuning voor uw bewerkingen met micro soft nodig hebt, [opent u een service aanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (aanmelden vereist).
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Micro soft Partner Agreement (MPA) – indirecte reseller update & nieuwe veelgestelde vragen 
@@ -453,7 +521,7 @@ De volledige aankondiging is alleen beschikbaar voor micro soft-partners. [Meld 
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>Plan-en telefoon systeem updates aanroepen voor 1 februari 20201
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Plan-en telefoon systeem updates aanroepen voor 1 februari 2021
 
 ### <a name="categories"></a>Categorieën
 

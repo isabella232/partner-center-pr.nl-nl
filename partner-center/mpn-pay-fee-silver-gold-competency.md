@@ -1,19 +1,19 @@
 ---
 title: Betaal de kosten voor een MPN-competentie
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: Leer hoe u de kosten betaalt of de betalings gegevens bijwerkt die zijn gekoppeld aan het bereiken of verlengen van een of meer Silver-of Gold-competenties.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921170"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042681"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>De kosten betalen die zijn gekoppeld aan een Silver-of Gold-competentie
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921170"
 In dit artikel wordt beschreven hoe en wanneer u de kosten betaalt die zijn gekoppeld aan het bereiken van een Silver-of Gold Microsoft Partner Network-competentie. In dit artikel wordt ook beschreven hoe u uw voorkeurs methode voor betaling wijzigt, hoe u een bestelling annuleert en hoe u een korting van 25 procent op de vergoeding ontvangt wanneer u overstapt van een Silver-naar-goud-competentie.
 
 > [!NOTE]
-> Zie [Microsoft Partner Network-competenties](https://partner.microsoft.com/membership/competencies)voor meer informatie over de voor delen van het bereiken van een Silver-of Gold-competentie, de specifieke beschik bare vaardig heden en hun unieke vereisten. U kunt ook de Microsoft Partner Network [licentie tabellen voor competenties] controleren voor meer informatie over de voor delen voor elke beschik bare competentie.
+> Zie [Microsoft Partner Network-competenties](https://partner.microsoft.com/membership/competencies)voor meer informatie over de voor delen van het bereiken van een Silver-of Gold-competentie, de specifieke beschik bare vaardig heden en hun unieke vereisten. U kunt ook de Microsoft Partner Network [licentie tabellen voor competenties](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) controleren voor meer informatie over de voor delen voor elke beschik bare competentie.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Voldoen aan de vereisten van een competentie en de kosten betalen
 
@@ -43,7 +43,7 @@ Voer anders de volgende stappen uit om de kosten te betalen voor een Silver-of G
 
 2. Selecteer [lidmaatschaps aanbiedingen](https://partner.microsoft.com/dashboard/mpn/offers) in het navigatie menu. 
 
-3. Ga onder **aanbiedingen die beschikbaar zijn voor aankoop** naar de tegel Zilver lidmaatschap * * of de tegel **Gold Membership** die aan uw specifieke competentie is gekoppeld. 
+3. Onder **aanbiedingen die beschikbaar zijn voor aankoop**, vindt u de tegel **Zilver lidmaatschap** of **Gold Membership** die aan uw specifieke competentie is gekoppeld. 
 
 4. Selecteer de optie **Abonneren** rechtsonder op de specifieke Silver-of Gold-lidmaatschaps tegel.
 
@@ -54,7 +54,7 @@ Voer anders de volgende stappen uit om de kosten te betalen voor een Silver-of G
 
 4. Controleer en bevestig uw gegevens op de pagina **Inkoop Details** .
 
-   (Meer informatie over het bijwerken [van de **belasting-ID** van uw bedrijf](https://docs.microsoft.com/partner-center/organization-tax-info) of de factuur van uw bedrijf naar het [  bedrijfs adres](https://docs.microsoft.com/partner-center/mpn-get-action-pack).
+   (Meer informatie over het bijwerken [van de **belasting-ID** van uw bedrijf](https://docs.microsoft.com/partner-center/organization-tax-info) of de factuur van uw bedrijf naar het [  bedrijfs adres](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Lidmaatschap biedt pagina met betalings gegevens voor de inkoop." border="false":::
 
@@ -130,7 +130,7 @@ Als u betaalt voor uw Silver-of Gold-lidmaatschaps kosten via elektronische over
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Details van de pagina met velden voor het uploaden van het bewijs van een Selecteer bare optie, upload betalings bewijs, voor elke gekochte aanbieding." border="false":::
 
-1. Vul de gegevens in voor de andere velden die zijn gerelateerd aan uw recente trans actie voor elektronisch betalen, zoals **betaal datum**, * betaald aan account nummer * * en **trans actie/Ref nr.**.
+1. Vul de gegevens in voor de andere velden die zijn gerelateerd aan uw recente trans actie voor elektronische betaling, zoals **betaal datum**, **betaald op rekening nummer** en **trans actie/ref Nee**.
 
   Er wordt mogelijk een groen bericht weer gegeven om u te laten weten dat uw aanvraag is voltooid.
 

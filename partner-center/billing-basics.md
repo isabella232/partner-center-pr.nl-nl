@@ -1,7 +1,7 @@
 ---
 title: Overzicht van het Partner Center-facturerings programma
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Informatie over basis facturering en factuur gegevens voor CSP-partners in het partner centrum. Hierin wordt beschreven hoe u klanten kunt factureren en hoe u uw factuur kunt vinden en lezen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924951"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042715"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Factureringsoverzicht voor partners van het CSP-programma die in Partner Center werkzaam zijn 
 
@@ -86,6 +86,8 @@ U ziet de **aanpassingen** en **tegoeden** op uw volgende facturerings factuur n
 De betalings voorwaarden zijn netto 60 dagen. Facturen moeten worden betaald met de verval datum van de factuur (60 dagen na de facturerings datum), of uw account is achterloopt, wat van invloed kan zijn op uw inschrijving in CSP. 
 
 U kunt de volledige functionaliteit van uw uitgestelde accounts terugkrijgen wanneer u het achterstallige bedrag betaalt.
+
+Zodra de gecorrigeerde facturerings gegevens zijn verstrekt, wordt uw betaling binnen vijf werk dagen op de facturerings pagina van het partner centrum weer gegeven.
 
 ### <a name="taxes-and-vat"></a>Belastingen en BTW
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/27/2021
-ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924919"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042698"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,7 +22,8 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 | **Categorie** | **Aankondigingen van januari 2021** | **Aangekondigd** |
 |---------|:---------|:---------|
-|Moderne werkplek|[EU/EFTA Wijziging in valuta in facturering bij partner voor nieuwe commerciële aanbiedingen](2021-january.md#14)|27 januari|
+|Moderne werkplek|[Fase 1 nu Live: EU/EVA & UK wijzigingen in de facturerings valuta van partners voor nieuwe Commerce aanbiedingen](2021-january.md#15)|28 januari|
+|Moderne werkplek|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2021-january.md#14)|28 januari|
 |Functies|[Micro soft Partner Agreement (MPA) – indirecte reseller update & nieuwe veelgestelde vragen](2021-january.md#13)|27 januari|
 |Functies|[Het controle logboek van het partner centrum bevat twee nieuwe bewerkings typen voor DAP](2021-january.md#12)|25 januari|
 |Functies|[Wijzigingen in azure aanbod Beschik baarheid in CSP met betrekking tot de nieuwe Commerce-ervaring in CSP voor Azure](2021-january.md#11)|21 januari|
