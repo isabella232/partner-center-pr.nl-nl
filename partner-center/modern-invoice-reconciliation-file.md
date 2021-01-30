@@ -1,19 +1,19 @@
 ---
 title: Bestands velden afstemmen voor eenmalige inkopen CSP
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: Meer informatie over alle artikelen op uw CSP-afstemmings bestand voor eenmalige aankopen in het partner centrum, inclusief voorbeeld waarden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182576"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098802"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Eenmalige CSP-velden voor het afstemmen van inkopen
 
@@ -64,6 +64,9 @@ Zie [reconciliatie bestanden gebruiken](use-the-reconciliation-files.md)voor mee
 | PCToBCExchangeRateDate | De datum waarop de prijs valuta naar de facturerings valuta wordt bepaald. | *9/30/2020* |
 | MeterDescription | Beschrijving van meter.  | *Tabellen-LRS opgeslagen gegevens (GB/maand)* |
 | ReservationOrderId | De reserverings order-id. | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>U kunt uw Azure-verbruik in uw eenmalige aankoop afstemmings bestand afstemmen. Ga hiervoor naar het afstemmings bestand van het dagelijks geclassificeerde gebruik en zoek naar uw abonnement op. Hiermee worden alle kosten weer gegeven die zijn gekoppeld aan uw Azure plan-ID. Uw Azure SubscriptionID wordt weer gegeven als de EntitlementID.
 
 ## <a name="next-steps"></a>Volgende stappen
 

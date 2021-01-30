@@ -1,7 +1,7 @@
 ---
 title: On-premises software verkopen via CSP
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe partners in het CSP-programma on-premises software-abonnementen kunnen kopen, beheren, verkopen en annuleren namens klanten in het partner centrum.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584178"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098853"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>On-premises software verkopen via het programma Cloud Solution Provider (CSP)
 
@@ -37,13 +37,16 @@ Als u software-abonnementen namens een klant wilt kopen, gaat u naar de detail p
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Software-abonnementen activeren en beheren
 
-Nadat u uw software hebt aangeschaft, moeten u en uw klanten deze downloaden. Gebruik de volgende procedure om dit te doen. 
+Nadat u uw software hebt aangeschaft, moeten uw klanten deze downloaden. Gebruik de volgende procedure om dit te doen.
 
 >[!NOTE]
 >U moet een beheerders agent zijn voor het verkrijgen van sleutels en down loads.
 
 1. Ga naar de detail pagina van uw klant en selecteer vervolgens **Software**. U ziet een lijst van alle software die u namens de klant hebt aangeschaft.
-2. Kopieer de koppeling van een **koppeling naar software product codes en down loads** en deel de koppeling met uw klant. Wanneer ze deze koppeling selecteren, worden ze omgeleid naar de micro soft-beheer Portal om de product codes te downloaden en te verkrijgen.
+2. Kopieer de ' diepe koppeling ' van een **koppeling naar software product codes en down loads** en deel de koppeling met uw klant. Wanneer ze deze koppeling selecteren, worden ze omgeleid naar het micro soft-beheer centrum om de product codes te downloaden en te verkrijgen.
+
+>[!NOTE]
+>Alleen klanten kunnen de product codes bekijken en informatie downloaden in het micro soft-beheer centrum. Partners kunnen deze informatie niet zien.
 
 Als u of uw klanten meer willen weten over het downloaden van licentie sleutels, raadpleegt u [software en product codes voor licenties downloaden](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 

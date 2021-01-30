@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925039"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098887"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Uw MPN-account locaties beheren en een nieuwe locatie toevoegen
 
@@ -47,6 +47,20 @@ Als u een nieuw CSP-account wilt toevoegen, moet u eerst controleren of u aan de
  >Meld u aan met de **nieuwe** referenties voor het **nieuwe** CSP-account. Gebruik uw bestaande referenties niet als het partner centrum u heeft herkend als al een account.
 
 2. Ga akkoord met de micro soft-partner overeenkomst en activeer het account.
+
+## <a name="view-your-mpn-locations"></a>Uw MPN-locaties weer geven
+
+1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home) van de partner centrum met de referenties van uw MPN-account. (Uw MPN-referenties kunnen afwijken van uw CSP-referenties) 
+ 
+1. Selecteer op het pictogram **instellingen** **account instellingen**, **organisatie profiel**, **juridisch**. 
+
+1. Controleer op het tabblad **partner** of er geen banner fout bericht wordt weer gegeven waarin u wordt gevraagd om gemigreerde locaties te herstellen vanuit PMC. Als dat het geval is, volgt u de instructies en verhelpt u deze locaties. 
+
+3. Als er geen fout bericht wordt weer gegeven, selecteert u in  **instellingen**  **account instellingen**, **organisatie profiel**, **id's**.
+
+4. Zoek naar de MPN-ID van het type "locatie" die overeenkomt met het land van dit CSP-account en gebruik het om de koppeling te doorzoeken en te volt ooien.
+
+5. Als u de locatie MPN-ID die overeenkomt met de CSP-account die u wilt gebruiken niet kunt vinden, kunt u een nieuwe locatie toevoegen waarmee een nieuwe MPN-ID wordt gemaakt. Zie hieronder **een MPN-locatie toevoegen** .
 
 ## <a name="add-an-mpn-location"></a>Een MPN-locatie toevoegen
 

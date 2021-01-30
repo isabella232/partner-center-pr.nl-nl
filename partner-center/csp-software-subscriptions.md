@@ -1,7 +1,7 @@
 ---
 title: Software-abonnementen verkopen via CSP
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe partners in het CSP-programma het partner centrum kunnen gebruiken voor het kopen, beheren, verkopen en annuleren van voor Azure gereserveerde instanties en server abonnementen voor klanten.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528581"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098836"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Software abonnementen verkopen via het programma Cloud Solution Provider (CSP)
 
@@ -46,25 +46,25 @@ De Azure Hybrid Benefit helpt u meer waarde te krijgen van uw Windows Server-lic
 > | Amerikaans-Samoa     | Grenada     | Pitcairneilanden     |
 > | Andorra     | Guadeloupe     | Réunion     |
 > | Anguilla     | Guam     | Saba   |
-> | Antarctica     | Guernsey     | Saint--Barthélemy   |
+> | Antarctica     | Guernsey     | Saint Barthélemy   |
 > | Antigua en Barbuda       | Guinee     | Saint Lucia   |
 > | Aruba       | Guinee-Bissau     | Saint-Martin   |
 > | Azerbeidzjan       | Guyana     | Saint-Pierre en Miquelon   |
 > | Benin     | Haïti       | Saint Vincent en de Grenadines     |
-> | Bhutan     | Heard Island en McDonald eilanden       | Samoa     |
+> | Bhutan     | Heard- en McDonald-eilanden       | Samoa     |
 > | Bonaire     | Isle of Man     | San Marino     |
 > | Bouveteiland     | Jan Mayen     | Sao Tomé en principe   |
 > | Brits Territorium in de Indische Oceaan       | Jersey     | Seychellen   |
 > | Britse Maagdeneilanden     | Kiribati       | Sierra Leone   |
-> | Burkina Faso     | Kosovo     | Sint-Eustatius     |
+> | Burkina Faso     | Kosovo     | Sint Eustatius     |
 > | Burundi     | Laos     | Sint Maarten     |
 > | Cambodja     | Lesotho     | Salomonseilanden     |
 > | Centraal-Afrikaanse Republiek     | Liberia     | Somalië     |
-> | Tsjaad     | Madagaskar     | Zuid-Georgië en de zuidelijke Sandwich eilanden     |
+> | Tsjaad     | Madagaskar     | Zuid-Georgië en de Zuidelijke Sandwicheilanden     |
 > | China     | Malawi     | Zuid-Soedan     |
 > | Christmaseiland     | Maldiven     | Sint-Helena, Ascension en Tristan da Cunha     |
 > | Cocoseilanden     | Mali     | Suriname     |
-> | Comoren     | Marshalleilanden     | Jan     |
+> | Comoren     | Marshalleilanden     | Svalbard     |
 > | Congo     | Martinique     | Swaziland     |
 > | Congo (DRC)     | Mauritanië     | Timor-Leste   |
 > | Cookeilanden     | Mayotte     | Togo   |
@@ -72,7 +72,7 @@ De Azure Hybrid Benefit helpt u meer waarde te krijgen van uw Windows Server-lic
 > | Dominica     | Montserrat     | Tonga   |
 > | Equatoriaal-Guinea     | Mozambique     | Turks- en Caicos-eilanden   |
 > | Eritrea     | Myanmar     | Tuvalu   |
-> | Falklandeilanden     | Nauru     |  Kleine afgelegen eilanden van de Verenigde Staten   |
+> | Falklandeilanden     | Nauru     | Amerikaanse ondergeschikte afgelegen eilanden   |
 > | Frans-Guyana     | Nieuw-Caledonië     | Vanuatu   |
 > | Frans-Polynesië     | Niger     | Vaticaanstad   |
 > | Franse Gebieden in de zuidelijke Indische Oceaan     | Niue     | Wallis en Futuna   |
@@ -92,31 +92,22 @@ Voor het kopen van software-abonnementen namens een klant:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Software-abonnementen activeren en beheren
 
-Nadat u het software abonnement hebt aangeschaft, volgt u de onderstaande stappen om het te downloaden.
+Nadat u uw software hebt aangeschaft, moeten uw klanten deze downloaden. Gebruik de volgende procedure om dit te doen.
 
 >[!NOTE]
->U moet een beheerders agent zijn om software te downloaden en activerings sleutels op te halen.
+>U moet een beheerders agent zijn voor het verkrijgen van sleutels en down loads.
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
-
-2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
-
-3. Ga naar de detail pagina van uw klant en selecteer vervolgens **Software** . U ziet een lijst van alle software die u namens de klant hebt aangeschaft. 
-
-4. Vouw het product uit dat u wilt downloaden. Selecteer in het veld **product selecteren** de **versie** , de **taal** en het **bestands type/besturings systeem** dat u wilt. 
-
-5. Selecteer **verzenden** om de specifieke producten weer te geven. 
-
-6. Selecteer **sleutels en down loads ophalen** . 
-
-7. Selecteer **downloaden** om te beginnen met downloaden of selecteer **koppeling kopiëren** om de koppeling te kopiëren en naar de klant te verzenden. 
+1. Ga naar de detail pagina van uw klant en selecteer vervolgens **Software**. U ziet een lijst van alle software die u namens de klant hebt aangeschaft.
+2. Kopieer de ' diepe koppeling ' van een **koppeling naar software product codes en down loads** en deel de koppeling met uw klant. Wanneer ze deze koppeling selecteren, worden ze omgeleid naar het micro soft-beheer centrum om de product codes te downloaden en te verkrijgen.
 
 >[!NOTE]
->Deze koppeling verloopt na twee weken of 50 down loads, afhankelijk van wat het eerste komt. Zodra de koppeling is verlopen, keert u terug naar deze pagina en selecteert u **sleutels ophalen en down loads** opnieuw om nog twee weken of 50 down loads te kunnen uitvoeren. U kunt dit zo vaak doen als u dat nodig hebt. 
+>Alleen klanten kunnen de product codes bekijken en informatie downloaden in het micro soft-beheer centrum. Partners kunnen deze informatie niet zien.
+
+Als u of uw klanten meer willen weten over het downloaden van licentie sleutels, raadpleegt u [software en product codes voor licenties downloaden](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Downloaden van server abonnementen en licentie sleutels die beschikbaar zijn via Microsoft 365 beheer centrum voor klanten 
 
-Uw klanten kunnen licentie sleutels en down loads voor het CSP-Server abonnement ophalen van Microsoft 365 beheer centrum. Voor een overzicht van de licentie sleutels en down loads van het CSP-Server abonnement moet de klant naar Microsoft 365-beheer centrum gaan > **facturering > uw producten > tabblad software** . Raadpleeg het [tabblad software onder facturering](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)voor meer informatie.  
+Uw klanten kunnen licentie sleutels en down loads voor het CSP-Server abonnement ophalen van Microsoft 365 beheer centrum. Voor een overzicht van de licentie sleutels en down loads van het CSP-Server abonnement moet de klant naar Microsoft 365-beheer centrum gaan > **facturering > uw producten > tabblad software**. Raadpleeg het [tabblad software onder facturering](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)voor meer informatie.  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Activiteit voor toegang tot software sleutels en software downloads weer geven
 
@@ -129,7 +120,7 @@ Voor controle-of nalevings doeleinden moet u mogelijk een lijst controleren met 
 
 2. Selecteer het tandwiel pictogram in de rechter bovenhoek.
 
-3. Selecteer in het menu **activiteiten logboek** .
+3. Selecteer in het menu **activiteiten logboek**.
 
 4. Voer het datum bereik in voor de activiteit die u wilt weer geven. In het activiteiten logboek wordt een lijst weer gegeven met gebruikers die toegang hebben verkregen tot software sleutels of gedownloade software tijdens de opgegeven tijd. 
 
@@ -159,7 +150,7 @@ Volg de onderstaande stappen om een aankoop te annuleren:
 
 4. Selecteer op de pagina Details van klant de optie **Software** om de lijst met software te zien die voor de klant is gekocht. 
 
-5. Zoek de software-aankoop die u wilt annuleren en selecteer **Annuleren** . Er wordt een dialoog venster weer gegeven.
+5. Zoek de software-aankoop die u wilt annuleren en selecteer **Annuleren**. Er wordt een dialoog venster weer gegeven.
 
 6. Selecteer in de vervolg keuzelijst order nummer het juiste nummer van de order-ID die u wilt annuleren. (Meer informatie over een order-of Order-ID-nummer kunt u vinden op de pagina **order geschiedenis** van de klant.)
 
@@ -194,7 +185,7 @@ Als u een software aankoop hebt geprobeerd te annuleren via het partner centrum,
 
 1. Wanneer u de koppeling **klant ondersteuning** selecteert in het venster aankoop annuleren, wordt het **rapport een probleem met de partner centrum** -pagina geopend.
 
-2. Onder **Details** , in de lijst Type probleem, selecteert u **CSP aankoop/terugbetaling namens klanten** .
+2. Onder **Details**, in de lijst Type probleem, selecteert u **CSP aankoop/terugbetaling namens klanten**.
 
 3. Vul de velden impact en titel in.
 
@@ -210,9 +201,9 @@ Als u een software aankoop hebt geprobeerd te annuleren via het partner centrum,
 
 5. Voer in het veld contact persoon uw naam, e-mail adres en telefoon nummer in.
 
-6. Als u een bestand om een of andere reden moet toevoegen, selecteert u **bestanden toevoegen** . Deze stap is optioneel.
+6. Als u een bestand om een of andere reden moet toevoegen, selecteert u **bestanden toevoegen**. Deze stap is optioneel.
 
-7. Wanneer u klaar bent, selecteert u **verzenden** .
+7. Wanneer u klaar bent, selecteert u **verzenden**.
 
 ## <a name="next-steps"></a>Volgende stappen
 

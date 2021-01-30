@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924985"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065468"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Meer informatie over hoe u partner kunt samen werken met indirecte providers in het Cloud Solution Provider-programma
 
@@ -76,8 +76,8 @@ Vanaf oktober 2020 kunnen alle micro soft-partners die nieuw zijn voor CSP, zich
    > [!IMPORTANT]  
    > Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om te verifiëren dat (1) hij of zij zich heeft aangemeld voor een partner centrum-account, en (2) dat dit e-mail adres tot uw bedrijf behoort. Nadat de primaire contact persoon zijn of haar e-mail adres heeft geverifieerd, gaan we verder met de door u verstrekte informatie. Er worden updates voor de inschrijvings status verzonden naar de primaire contact persoon.
 
-5. Koppel uw MPN-ID aan uw CSP-account. 
-  Uw CSP-account en de bijbehorende MPN-ID moeten zich in hetzelfde land bevinden.
+5. Koppel uw MPN-ID aan uw CSP-account. Uw CSP-account en de bijbehorende MPN-ID moeten zich in hetzelfde land bevinden en uw MPN-ID moet zich in het partner centrum.
+  
 
    a. Meld u aan bij partner centrum met de referenties van uw MPN-account (uw MPN-referenties kunnen afwijken van uw CSP-referenties).
    
@@ -88,10 +88,9 @@ Vanaf oktober 2020 kunnen alle micro soft-partners die nieuw zijn voor CSP, zich
     d. Als u de locatie MPN-ID die overeenkomt met de CSP-account die u wilt gebruiken niet kunt vinden, kunt u een nieuwe locatie toevoegen waarmee een nieuwe MPN-ID wordt gemaakt. Meer informatie over het [beheren van locaties](manage-locations.md).
 
     e. U kunt deze stap nu uitstellen, maar het is niet mogelijk om micro soft Partner Agreement (MPA) of Transact in CSP te ondertekenen, totdat u de MPN-ID aan uw CSP-account hebt gekoppeld.
-    
-     
+
  > [!IMPORTANT]  
-   > Selecteer de MPN-ID die zich in hetzelfde land als uw CSP-account bevindt.
+ > Selecteer de MPN-ID die beschikbaar is in partner centrum en in hetzelfde land als uw CSP-account en zorg ervoor dat uw MPN-ID zich in partner centrum bevindt.
 
 6. Nadat micro soft de verificatie van de inschrijving heeft voltooid die 3-5 werk dagen in beslag neemt, ondertekent u de micro soft-partner overeenkomst in het [dash board van het partner centrum](https://partner.microsoft.com/pcv/dashboard/overview) met de referenties van de globale beheerder. Als u de **micro soft-partner overeenkomst** wilt bekijken en downloaden voordat u deze ondertekent, klikt u op de koppeling voor de micro soft-partner overeenkomst, zoals hieronder  Als uw account na 5 werk dagen is vastgelopen, leest u [het account verificatie proces](verification-responses.md).
 
