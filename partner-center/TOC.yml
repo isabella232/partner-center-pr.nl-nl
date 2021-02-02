@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: Uitzondering voor App Dev-competentie
           href: app-dev-isv.md
+        - name: Het rapport vaardig heden gebruiken
+          href: mpn-skills-report.md
     - name: Geavanceerde specialisaties
       items:
         - name: Uw expertise tentoonstellen
