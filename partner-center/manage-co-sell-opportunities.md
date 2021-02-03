@@ -9,38 +9,37 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
+ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622198"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "99480065"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Verkoop kansen beheren in het partner centrum
 
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
 - MPN-partner beheerder
 - Beheerder van verwijzingen
 
-Profiteer van de mogelijkheden voor co-selling.  Mogelijkheden voor co-verkoop zijn een samen werking van meerdere partijen om producten te verkopen die voldoen aan de behoeften van een klant. In dit artikel wordt uitgelegd hoe u de mogelijkheden van co-sell in Partner Center kunt gebruiken voor het effectief samen verkopen en verkrijgen van nieuwe klanten.
+Profiteer van de mogelijkheden voor co-selling.  Een verkoop kans is een samen werking van meerdere partijen om producten te verkopen die voldoen aan de behoeften van klanten. In dit artikel wordt uitgelegd hoe u de mogelijkheden van co-sell in Partner Center kunt gebruiken voor het effectief samen verkopen en verkrijgen van nieuwe klanten.
 
 ## <a name="types-of-co-sell-opportunities"></a>Typen mogelijkheden voor gezamenlijk verkoop
 
-**Co-sell** : dit is de plaats waar een of meer verkopers van micro soft actief bezig zijn bij het oplossen van een probleem met de klant. De verkoop kansen kunnen afkomstig zijn van een klant account waar een vertegenwoordiger van micro soft de partner uitnodigt om deel te nemen aan een mede-verkoop activiteit of van een partner waar ze extra hulp van micro soft-verkoop nodig hebben om de deal te sluiten.
+**Verkoop kans** per verkoop: Dit geldt voor een of meer micro soft-verkopers die actief zijn in de deal om een klant probleem op te lossen. De verkoop kansen kunnen afkomstig zijn van een klant account waar een vertegenwoordiger van micro soft de partner uitnodigt om deel te nemen aan een mede-verkopende activiteit of van een partner waar ze meer hulp nodig hebben van de verkoop van micro soft om de deal te sluiten.
 
 **Partner-to-partner (P2P)** : dit is de plek waar één partner andere partners kan uitnodigen in het micro soft Cosell-ecosysteem om samen te werken. Partners kunnen eventueel een vertegenwoordiger van micro soft uitnodigen om de deal te helpen sluiten. Beide partners en micro soft kunnen worden uitgenodigd, zelfs na het maken van een deal, zolang deze vooraf is voltooid. (Voltooid omvat gewonnen, verloren, afgewezen en verlopen).
 
-**Privé-deal** : dit is wanneer een partner besluit om onafhankelijk te werken op een deal die is gemaakt in het partner centrum. Partners hebben de mogelijkheid om micro soft-verkopers te uitnodigen na het maken van de deal om er een samen werkende verkoop activiteit van te maken. De details van de deal worden niet gedeeld met het micro soft-verkoop team tot het moment dat de partner de hulp van micro soft Sales expliciet aanstreeft.
+**Privé-deal** : dit is wanneer een partner besluit om onafhankelijk te werken op een deal die is gemaakt in het partner centrum. Partners kunnen het micro soft-verkoop team een zicht stellen of micro soft-verkopers uitnodigen om actief hulp te krijgen nadat ze de deal hebben gemaakt. De details van de deal worden pas met het micro soft-verkoop team gedeeld als de tijd partners expliciet Ja selecteren voor de vraag "wilt u dat micro soft-verkopers deze deal kunnen bekijken?" u kunt ook de Help van het micro soft-verkoop team opvragen door een van de opties te kiezen voor de vraag ' Identificeer het soort hulp dat u nodig hebt van micro soft? '.
+
+**Trans acties** die door een partner worden geleid: Dit zijn deals waarbij een partner onafhankelijk van een deal wil werken, maar is een goed zicht op het geven van de details van de deal aan micro soft-leden van het verkoop team. Partners kunnen micro soft-verkopers uitnodigen nadat ze de deal hebben gemaakt. Deze deals komen in aanmerking voor de registratie van deals wanneer een stimulans die in aanmerking komt voor een oplossing deel uitmaakt van de deal. Het uitpakken van een micro soft-verkoper is niet vereist voor de registratie van deals als aan de voor waarden voor de stimulans in aanmerking komt voldaan. U kunt een trans actie van een deal partner door geven door Ja aan de vraag te beantwoorden "wilt u dat micro soft-verkopers deze deal kunnen bekijken?"
 
 **Oplossings evaluatie (SA)** : dit soort deals kan alleen worden gemaakt door een set partners die gecontroleerd zijn door het Business team van de oplossings beoordeling voor het uitvoeren van technologie Beoordelingen voor klanten die gebruikmaken van of planning maken voor het gebruik van micro soft-technologieën.
 
 > [!NOTE]
-> Privé-deals, zelfs als ze niet echt samen werken, zijn hier opgenomen om een eenvoudig pad te geven voor het bijwerken van een pijp lijn in een deel van de verkoop kans in een niet-Terminal fase (**gewonnen, verloren, geweigerd en verlopen**).
+> Privé-deals, zelfs als ze niet echt samen werken, worden opgenomen in het tabblad verkoop kansen om een eenvoudig pad te bieden voor het upgraden van een pijp lijn in een niet-Terminal fase (**gewonnen, verloren, geweigerd en verlopen**).
 
 ## <a name="navigating-the-co-sell-section"></a>Navigeren in de sectie co-sell
 
@@ -67,9 +66,9 @@ U kunt drie soorten verkoop kansen maken.
 
 ### <a name="select-your-customer"></a>Selecteer uw klant
 
-Selecteer de klant voor deze specifieke deal. Voer de locatie in en begin met het typen van de naam. De automatische suggestie begint met het weer geven van aanbevelingen op basis van de zoek criteria. Omdat veel bedrijven meer dan één bedrijfs entiteit op dezelfde locatie hebben, worden er mogelijk meerdere resultaten weer geven. Als u niet zeker weet welke u wilt kiezen, kunt u bevestigen welk D-U-N-S-nummer bij uw klant hoort. Zorg ervoor dat u de exacte overeenkomst selecteert voor de klant met wie u wilt werken.
+Selecteer de klant voor een specifieke deal. Voer de locatie in en begin met het typen van de naam. In het vak suggestie worden aanbevelingen weer gegeven op basis van de zoek criteria. Omdat veel bedrijven meer dan één bedrijfs entiteit op dezelfde locatie hebben, worden er mogelijk meerdere resultaten weer geven. Als u niet zeker weet welke u wilt kiezen, kunt u bevestigen welk D-U-N-S-nummer bij uw klant hoort. Zorg ervoor dat u de exacte overeenkomst selecteert voor de klant waarmee u aan het werk bent.
 
-Wanneer u op **de klant selecteren** klikt, wordt u gevraagd om de naam, het telefoon nummer en het e-mail adres op te geven voor de persoon die het belangrijkste contact punt is voor deze deal. Deze gegevens zijn optioneel en zijn alleen vereist als u van plan bent om micro soft-verkopen uit te nodigen om u te helpen met de betrokkenheid. Selecteer **Volgende**.
+Wanneer u op **de klant selecteren** klikt, wordt u gevraagd om de naam, het telefoon nummer en het e-mail adres op te geven voor de persoon die het belangrijkste contact punt is voor deze deal. Deze gegevens zijn optioneel en zijn alleen vereist als u van plan bent om micro soft-verkopen uit te nodigen om u te helpen met de betrokkenheid. Selecteer **Next**.
 
 > [!IMPORTANT]
 > Zorg ervoor dat u de toestemming van de klant hebt verkregen om hun contact gegevens aan micro soft te verstrekken voor de deal. Micro soft kan deze informatie gebruiken om rechtstreeks contact op te nemen met de klant.
@@ -104,14 +103,16 @@ In deze sectie moet u de informatie opgeven met betrekking tot de oplossingen di
 > [!Important]
 > Er kan slechts één beoordelings type worden geselecteerd voor een oplossing voor de evaluatie van oplossingen en er kunnen geen andere oplossingen worden toegevoegd. Zodra een evaluatie van de oplossing is geselecteerd, moet de partner de locatie kiezen waarvoor de evaluatie wordt gemaakt. Dit is nodig voor het corrigeren van problemen met prikkels.
 
-Zodra u de oplossings gegevens hebt verstrekt, selecteert u volgende om naar de sectie te gaan waar u het type verkoop kunt bepalen. U hebt drie opties als u oplossingen hebt gekozen uit de eerste drie opties en niet een oplossings evaluatie:
+Zodra u de oplossings gegevens hebt verstrekt, selecteert u volgende om naar de sectie te gaan waar u het type verkoop kunt bepalen. U hebt vier opties als u oplossingen hebt gekozen uit de eerste drie opties in het oplossings type en niet op een oplossings evaluatie:
 
-**Privé-deal**: als u micro soft niet uitnodigt en een afspraak maakt in deze stap, is dit van het type privé pijplijn. Micro soft-verkopers kunnen geen inzicht krijgen in de details van deze deal.
+**Privé-deal**: als u micro soft niet uitnodigt en een afspraak maakt in deze stap, is dit van het type privé pijplijn. Micro soft-verkopers kunnen geen inzicht krijgen in de details van deze deal. U kunt een privé-deal maken door **geen hulp** te selecteren die op dit moment vereist is voor de vraag **' Identificeer het soort hulp dat u nodig hebt van micro soft? '** en **Nee** voor de vraag **' wilt u dat micro soft-verkopers deze deal bekijken? '**. U kunt een privé-deal altijd upgraden naar een partner-LED of een actieve trans actie voor gezamenlijk verkopen voordat de deal een Terminal status bereikt (gewonnen, verloren).
 
 > [!Important]
 > Registratie van deals is niet van toepassing op privé-deals. Wees voorzichtig tijdens het maken van een privé-deal met prikkel oplossingen die in aanmerking komen voor het registreren van deals in het partner centrum.
 
-**Trans acties samen verkopen:** Als u een andere optie dan de standaard selectie voor de vraag **' identificeert u het type hulp van micro soft '** selecteert, wordt de deal omgezet in een mede verkochte deal waarbij een micro soft-verkoper u mogelijk kan helpen met het sluiten van de deal. Een verzoek om hulp van micro soft is geen garantie dat een micro soft-verkoper deelneemt aan de deal. Micro soft verkoop medewerkers hebben 14 dagen besloten of ze willen deel nemen. Zorg er in de sectie Notities voor dat u het gewenste type Help kunt identificeren.
+**Gestuurde deal** van de partner: als u geen actieve Help van het micro soft-verkoop team wilt zoeken, maar u ze zichtbaar wilt maken voor uw pijp lijn, kunt u een deal met een partner-LED aanmaken. U kunt een door een partner geleide deal maken door geen hulp te selecteren die **op dit moment vereist** is voor de vraag **' Identificeer het soort hulp dat u nodig hebt van micro soft? '** en **Ja** voor de vraag **' wilt u dat micro soft-verkopers deze deal bekijken? '**. Deze deals komen in aanmerking voor de registratie van deals, maar micro soft-verkopers zijn niet actief bij het helpen van de partner. De vereisten voor het registreren van deals hebben een stimulans die in aanmerking komt voor de deal en de status gewonnen van de deal.
+
+**Trans acties samen verkopen:** Als u een andere optie dan de standaard selectie voor de vraag **' identificeert u het type hulp van micro soft '** selecteert, verandert de deal in een mede-verkoop transactie waarbij een micro soft-verkoper u mogelijk kan helpen met het sluiten van de deal. Een verzoek om hulp van micro soft garandeert niet dat een micro soft-verkoper deelneemt aan de deal. Micro soft verkoop medewerkers hebben 14 dagen besloten of ze willen deel nemen. Zorg er in de sectie Notities voor dat u het gewenste type Help kunt identificeren.
 
 **Trans acties van partner-naar-partner (P2P)**: u kunt andere partners uitnodigen voor de deal door te klikken op de koppeling partner uitnodigen. Hieronder ziet u het proces voor het maken van een P2P-deal.
 
@@ -129,7 +130,7 @@ Zodra u de oplossings gegevens hebt verstrekt, selecteert u volgende om naar de 
 
 - **Het type Help identificeren:** Het type Help identificeren: tot slot kunt u de specifieke Help identificeren die u nodig hebt van de genodigde partner.
 
-Herhaal dit voor alle partners die u wilt uitnodigen om deel uit te maken van deze deal. Een partner voor een partner kan ook een micro soft-verkoper betrokken hebben waarbij u zowel micro soft als de partners voor de deal uitnodigt. U kunt micro soft en de partners later ook uitnodigen nadat u de deal hebt gemaakt.
+Herhaal dit voor alle partners die u wilt uitnodigen voor deze deal. Een partner voor een partner kan ook een micro soft-verkoper betrokken hebben waarbij u zowel micro soft als de partners voor de deal uitnodigt. U kunt micro soft en de partners later ook uitnodigen nadat u de deal hebt gemaakt.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Reageren op een verkoop kans
 
@@ -149,7 +150,7 @@ Als u in deze fase een nieuwe verkoop kans hebt ontvangen van een micro soft-ver
 
 ### <a name="accepted-stage"></a>Geaccepteerde fase
 
-Werk de deal af met de klant. Als u de informatie die u hebt ingevoerd voor een geaccepteerde verwijzing wilt wijzigen, selecteert u **bewerken**. U kunt vervolgens de naam van de deal, de geschatte aankoop datum, de geschatte waarde, de notities, de CRM-ID en/of de marketing campagne-ID bijwerken.  U kunt ook **uw team toevoegen** selecteren om de naam, het telefoon nummer en het e-mail adres op te geven van alle extra mensen die aan de deal werken. Oplossingen kunnen ook worden bewerkt op basis van de behoeften van de klant.
+Werk de deal af met de klant. Als u de informatie die u hebt ingevoerd voor een geaccepteerde verwijzing wilt wijzigen, selecteert u **bewerken**. U kunt vervolgens de naam van de deal, de geschatte aankoop datum, de geschatte waarde, de notities, de CRM-ID en/of de marketing campagne-ID bijwerken.  U kunt ook **uw team toevoegen** selecteren om de naam, het telefoon nummer en het e-mail adres op te geven van alle mensen die aan de deal werken. Oplossingen kunnen ook worden bewerkt op basis van de behoeften van de klant.
 
 Alle deals die u hebt gemaakt, bevinden zich standaard in de fase geaccepteerd.
 
@@ -182,14 +183,15 @@ Wanneer u klaar bent, kunt u een van de twee acties uitvoeren, die de deal als *
 
 Een deal komt alleen in aanmerking voor registratie van deals als deze voldoet aan de onderstaande criteria.
 
-1. Micro soft wordt uitgenodigd voor de deal.
-2. Micro soft heeft de uitnodiging geaccepteerd of heeft de deal als gewonnen gemarkeerd. U kunt de status van micro soft begrijpen door te kijken naar de micro soft-kaart onder uw details van uw deal.
-3. Er is een stimulans in aanmerking komende oplossingen in de deal.
+- Het deal type is een co-sell of partner-LED.
+- Er is een stimulans in aanmerking komende oplossingen in de deal.
+- De status van de deal wordt gewonnen.
+- Als het type van de deal mede verkocht is, heeft micro soft de uitnodiging geaccepteerd of is de deal als gewonnen gemarkeerd. U kunt de status van micro soft begrijpen door te kijken naar de micro soft-kaart onder uw details van uw deal.
 
 > [!Important]
 > Registreer de deal alleen als uw bedrijfs naam en de stimulans die in aanmerking komen in de deal, duidelijk worden vermeld in het contract met de klant.
 
-Als de deal in aanmerking komt voor de registratie van deals, wordt er extra mijl paal toegevoegd voor de levens cyclus van de deal ' deals registratie ', zoals hieronder wordt weer gegeven.
+Als de deal in aanmerking komt voor de registratie van deals, wordt er nog een mijl paal toegevoegd aan de levens cyclus van de deal, de zogenaamde registratie van deals, zoals hieronder wordt weer gegeven.
 
 :::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Afbeelding van de levens cyclus van de deal, de locatie van waaruit de registratie van deals kan worden gestart.":::
 
@@ -205,7 +207,9 @@ In de volgende tabel ziet u de combi Naties van wie kan worden uitgenodigd in de
 
 |**Type oorspronkelijke deal**|**Wie kan worden uitgenodigd**|**Opmerkingen**|
 |-----|:-----|:-----|
-|Privé|Micro soft en/of andere partners|De deal wordt bijgewerkt naar co-sell als micro soft wordt uitgenodigd.|
+|Persoonlijk|Micro soft en/of andere partners|De deal wordt bijgewerkt naar co-sell als micro soft wordt uitgenodigd.|
+|Persoonlijk|Micro soft-verkoop team voor het weer geven van de deals|De deal wordt geüpgraded naar een partner, wanneer micro soft sales team de zicht baarheid van de deals krijgt.|
+|Partner-LED|Micro soft en/of andere partners|De deal wordt bijgewerkt naar co-sell als micro soft wordt uitgenodigd.|
 |Gezamenlijk verkopen|Andere partners|Andere partners kunnen alleen worden uitgenodigd als uw bedrijf de deal heeft gestart. Partners kunnen niet worden uitgenodigd voor deals op het tabblad binnenkomend.|
 |Partner voor partner zonder micro soft|Microsoft|De deal wordt bijgewerkt naar een mede verkochte deal.|
 |Partner voor partner zonder micro soft|Andere partners||
@@ -216,17 +220,25 @@ Dit is de laatste fase voor alle verkoop kansen. U kunt alle deals weer geven di
 
 ## <a name="frequently-asked-questions"></a>Veelgestelde vragen
 
-**Eerste. Kan een deal worden bewerkt nadat deze is gemarkeerd als gewonnen of verloren?**
+**Nils. Kan een deal worden bewerkt nadat deze is gemarkeerd als gewonnen of verloren?**
 
 Nee, deals kunnen niet worden gewijzigd nadat ze naar een Terminal status zijn verplaatst. Verlopen, weigeren, gewonnen en verloren zijn de Terminal statussen waar geen verdere updates mogelijk zijn voor de deal. Wees voorzichtig wanneer u de deal in een van deze Terminal statussen wilt verplaatsen.
 
-**Inclusief. Wie ontvangt een e-mail melding van het partner centrum?**
+**Nils. Wie ontvangt een e-mail melding van het partner centrum?**
 
 In de onderstaande werk stroom wordt uitgelegd hoe de e-mails worden verzonden naar de partners van het Partner Center-referentie systeem voor inkomende referenties van partners.
 
 :::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Afbeelding van de logica van de manier waarop e-mails worden verzonden naar partners voor nieuwe binnenkomende verwijzingen.":::
 
-## <a name="getting-more-co-sell-opportunities"></a>Meer verkoop kansen ophalen
+**Nils. Welk soort prikkels komt in aanmerking voor de registratie van deals?**
+
+Alleen IP-prikkels komen in aanmerking voor de registratie van deals. Dit zijn onder andere
+
+- Azure IP co-sell
+- Premium-Apps Premier
+- Upapps Standard
+
+## <a name="get-more-co-sell-opportunities"></a>Profiteer van meer verkoop kansen
 
 Hier volgen enkele tips waarmee u meer verkoop kansen kunt verkrijgen die geschikt zijn voor uw bedrijf:
 
