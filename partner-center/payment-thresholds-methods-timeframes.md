@@ -6,13 +6,13 @@ ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 09/02/2020
-ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 02/02/2021
+ms.openlocfilehash: 81c5ecb93caef7836dc6e6725a700ac74d881558
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532001"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530711"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Betalingsdrempels, methoden en tijdsbestek
 
@@ -33,6 +33,10 @@ We sturen doorgaans elke betaling die in een bepaalde maand verschuldigd is door
 | ACH/SEPA | 2-3 werk dagen |
 | Directe overboeking | 7-10 werk dagen |
 | | |
+
+>[!NOTE]
+>Als gevolg van wijzigingen in de wisselkoers tarieven, kan het exacte verkoop bedrag enigszins variëren van de ene valuta naar de andere. De wissel koersen worden maandelijks berekend. Op basis van het moment waarop uw trans actie plaatsvond, wordt de juiste wissel koers toegepast. De wissel koers en het datum bedrag waarvoor dit geldt, worden aangegeven in het rapport voor betaling in de kolommen exchangeRate en exchangeRateDate.
+
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Betalings wijzen in landen en regio's
 

@@ -1,7 +1,7 @@
 ---
 title: Bijdrage indicatoren van partners-dit
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over zeven bijdragen aan de partner (PCI) die partners tonen over het bereiken van een Silver-of Gold Cloud Business Applications competentie.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204067"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530813"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Gebruik partner-bijdrage indicatoren om de Cloud Business Applications competentie te bereiken
 
@@ -125,7 +125,7 @@ Raadpleeg de volgende tabellen voor meer informatie:
 | PCI-metriek | Prestatie-indicator: nieuwe netto-omzet | Prestatie-indicator: nieuwe klant toegevoegd | Capability-indicator: functionele consultants | Capability-indicator: groei van functionele consultant | Capability-indicator: ontwikkel aars | Succes indicator van klant: nieuwe grote implementaties | Succes indicator van klant: maandelijkse actieve gebruikers groei |
 |---|---|---|---|---|---|---|---|
 | **Maximum aantal punten** | 10 punten | 10 punten | 15 punten | 15 punten | 5 punten | 20 punten | 25 punten |
-| **Ontwikkeld** | $300.000 | 10 | 10 | *\* Zie opmerking* | 5 | 5 | 25% |
+| **Ontwikkeld** | $300.000 | 10 | 15 | *\* Zie opmerking* | 5 | 5 | 25% |
 | **Het ontwikkelen** | $150.000 | 5  | 5  |*\* Zie opmerking* | 2 | 1 | 25% |
 
 *\* Opmerking: de groei doelen variëren op basis van het aantal basis-consultants en de specifieke optie die een partner gebruikt om punten te verkrijgen. Zie [definities voor functionele consultant groei](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)voor meer informatie over de opties om punten te verkrijgen of de specifieke groei doelen van elke optie.*
@@ -187,8 +187,8 @@ Net nieuwe omzet is een [prestatie-indicator](partner-contribution-indicators.md
   - Producten die in aanmerking komen voor de klant, zijn onder andere: verkoop, klanten service, veld Service, project Service Automation, marketing, micro soft Relationship Sales, plan 1, talen recht en lid van het ondernemings team.
   - Voor financiering en bewerkingen-in aanmerking komende producten zijn: Unified Operations, Finance, supply chain management, Retail, commerce, abonnement 2, Mixed Reality, talen recht en ondernemings team.
 
-- Verkoop kanalen zijn onder andere Enterprise Agreement (EA), Cloud Solution Provider (CSP) en Web direct.
-- Alleen voor Enterprise Agreement omzet: deze omzet omvat de omzet van het eerste jaar van de overeenkomst. De terugkerende opbrengst van het tweede en derde jaar is niet opgenomen.
+- Verkoop kanalen zijn onder andere Enterprise Overeenkomst (EA), Cloud Solution Provider (CSP) en Web direct.
+- Alleen voor Enterprise Overeenkomst omzet: deze omzet omvat de omzet van het eerste jaar van de overeenkomst. De terugkerende opbrengst van het tweede en derde jaar is niet opgenomen.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definities voor PCI-metrische #2-net-klant toevoegingen
 
@@ -214,7 +214,7 @@ Net klanten toevoegen is een [prestatie-indicator](partner-contribution-indicato
   > [!NOTE]
   > Zie deze [Microsoft Partner Network definities](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)voor meer informatie over ontwikkelde en ontwikkelings markten.
 
-- Verkoop kanalen zijn onder andere Enterprise Agreement (EA), Cloud Solution Provider (CSP) en Web direct.
+- Verkoop kanalen zijn onder andere Enterprise Overeenkomst (EA), Cloud Solution Provider (CSP) en Web direct.
 
 - Voor meerdere partners/klanten of klanten die rechtstreeks met micro soft werken: er zijn verschillende berekeningen van **klant toevoegingen** en **klant verlies** voor gevallen waarin meerdere partners zijn gekoppeld aan dezelfde klant via verschillende abonnementen of voor gevallen waarin de klant mogelijk al rechtstreeks met micro soft werkt. Deze berekeningen worden hieronder weer gegeven.
 

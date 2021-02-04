@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776811"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530830"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Uw leads analyseren-Bekijk hoe goed u doel klanten en mogelijke verwijzingen aantrekt
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Uw leads analyseren: bekijk hoe goed u doelklanten en mogelijke verwijzingen aantrekt (Engelstalig)
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Juiste rollen**
 
 - Beheerder van verwijzingen
-
-**Van toepassing op**
-
-- Marketplace-leads
-- Gekwalificeerde leads
 
 Op de pagina **leads** onder het gedeelte **Analytics** in verwijzingen kunt u zien hoe uw verwijzingen worden uitgevoerd. Bekijk deze metrische gegevens regel matig om trends of gebieden te identificeren die aandacht nodig hebben, en begin te best Eden aan uw bedrijfs doelen.
 
@@ -115,3 +110,7 @@ Er kunnen verschillende redenen zijn waarom u een lege grafiek krijgt, zoals hie
 
 > [!TIP]
 > Als u wilt zien hoe uw verkoop kansen worden uitgevoerd, raadpleegt u de [pagina met trainingen voor verkoop kansen](referral-insights.md).
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Leads beheren](manage-leads.md)

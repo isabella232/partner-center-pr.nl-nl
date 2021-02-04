@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983335"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530660"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Problemen met partner centrum melden en logboek-of diagnostische gegevens verzenden
 
@@ -53,7 +53,7 @@ Als voor uw probleem een conversatie met uw ondersteunings certificaat is vereis
 
 2. Het partner centrum controleert de agenda van de ondersteunings afdeling voor Beschik baarheid.
 
-1. Wanneer u een afspraak plant, stuurt het partner centrum u een agenda-uitnodiging met informatie over de manier waarop de ondersteunings afdeling contact met u opneemt, zodat u deze afspraak kunt volgen in uw eigen werk agenda.
+1. Wanneer u een afspraak plant, stuurt het partner centrum u een agenda-uitnodiging met informatie over de manier waarop de ondersteunings afdeling contact met u opneemt, zodat u deze afspraak kunt volgen in uw eigen werk agenda.  Hoewel deze functie nog steeds in preview is, is de uitnodiging voor e-mail en agenda in het Engels, maar de advocaat kan u ondersteunen in de taal die u hebt geselecteerd bij het maken van uw ticket.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Datum en tijd":::
 
