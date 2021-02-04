@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042698"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552410"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
 Meer informatie over belangrijke updates in Partnercentrum. Deze informatie wordt regelmatig bijgewerkt. Kom dus vaak hier terug!
 
-| **Categorie** | **Aankondigingen van januari 2021** | **Aangekondigd** |
+|**Categorie**|**Aankondigingen van februari 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Functies|[Reageren op COVID-19: Microsoft Partner Network update](2021-february.md#3)|4 februari|
+|Functies|[Nieuwe updates voor de module referrals in Partner Center](2021-february.md#2)|4 februari|
+|Moderne werkplek|[Afschaffing en buiten gebruik stellen van de kwalificaties-Api's voor het validatie proces van de opleidings klant op 25 februari 2021 en de kwalificatie verkrijgen met behulp van 4e mei 2021](2021-february.md#1)|4 februari|
+| **Categorie** | **Aankondigingen van januari 2021** | **Aangekondigd** |
 |Moderne werkplek|[Fase 1 nu Live: EU/EVA & UK wijzigingen in de facturerings valuta van partners voor nieuwe Commerce aanbiedingen](2021-january.md#15)|28 januari|
 |Moderne werkplek|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2021-january.md#14)|28 januari|
 |Functies|[Micro soft Partner Agreement (MPA) – indirecte reseller update & nieuwe veelgestelde vragen](2021-january.md#13)|27 januari|

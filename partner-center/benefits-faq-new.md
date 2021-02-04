@@ -1,7 +1,7 @@
 ---
 title: Veelgestelde vragen over Microsoft Partner Network voor delen
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Vragen over beleid met betrekking tot Microsoft Partner Network voor delen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349545"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552406"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Veelgestelde vragen over Microsoft Partner Network voor delen
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349545"
 
 - MPN-partner beheerder
 
-
 In het volgende artikel worden enkele van de belangrijkste vragen Microsoft Partner Network-partners (MPN) beantwoord over hun MPN-lidmaatschaps voordelen, competenties en product licenties.
+
+## <a name="responding-to-covid-19"></a>Reageren op COVID-19
+
+**V.** **onze competentie dagen zijn op de hoogte en we kunnen niet voldoen aan de competentie vereisten vanwege gevolgen voor COVID-19. Wat moet ik doen?**
+
+A. Als uw competentie datum ligt tussen 1 januari en 30 juni 2021, worden uw bestaande competenties of competenties uitgebreid (met uitzonde ring van de Cloud Business Applications competentie) met de volgende jubileum datum in 2022. U hoeft niet te voldoen aan de vereisten voor examens of prestaties, maar u betaalt nog wel de competentie kosten.Raadpleeg ons [blog bericht](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)voor meer informatie.
 
 ## <a name="membership"></a>Lidmaatschap
 
@@ -140,18 +145,7 @@ A. De ingrijpende en Action Pack aankoop van vaardig heden is voltooid in het pa
 
 A. U kunt naar het [ondersteunings gedeelte van partner Center](https://partner.microsoft.com/support) gaan voor koppelingen naar bronnen die mogelijk van een hulp programma zijn of om een ticket te openen met het ondersteunings team voor partners, indien nodig.
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>Competentie-extensie om de effecten van COVID-19 te verschuiven
-
-**V: biedt micro soft hulp bij partners die zijn gericht op Hardship?**
-
-A: voor partners met een competentie datum van 1 juli tot en met 31 december 2020 wordt de bestaande competentie of deskundigheid van de partner uitgebreid via de volgende jubileum datum in 2021. De partner ontvangt een herinnering voor verlenging om deze nieuwe aanbieding weer te geven. De partner moet hun competentie kosten betalen binnen de verlengings periode van 30 dagen.
-
-**V: wat gebeurt er als een partner de verlengings periode van 30 dagen heeft gemist?**
-
-A: de partner kan hun competentie opnieuw activeren en opnieuw toegang krijgen tot resources en voor delen door hun kosten te betalen op de pagina lidmaatschaps aanbiedingen van het partner centrum tot 30 dagen na de jubileum datum. Als een partner de respijt periode van 30 dagen heeft geduurd na de datum van de aanbieding, moet hij of zij een ondersteunings ticket indienen via het partner centrum, waarin wordt vermeld dat er een COVID-overschrijving moet worden verleend nadat de verlengings periode van 30 dagen is verstreken.
-
-Lees de [MPN-aanbieding](renew-mpn-offers.md)voor meer informatie.
-
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Voordelen van het Microsoft Partner Network zoeken](mpn-find-benefits.md) 
+- [Voordelen van het Microsoft Partner Network zoeken](mpn-find-benefits.md)
+- [MPN-aanbieding vernieuwen](renew-mpn-offers.md)
