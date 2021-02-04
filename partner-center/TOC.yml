@@ -118,6 +118,9 @@
     - name: Microsoft Partner-overeenkomst - CSP's
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Locaties beheren
+      href: manage-locations.md
+      displayName: 'mpn, csp'
     - name: Hoe indirecte providers hun wederverkopers kunnen helpen bij het aannemen van de MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,9 +200,6 @@
         - name: Uw partnerprofiel bijwerken
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Locaties beheren
-          href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: Control Panel Vendor worden
           href: enroll-as-cpv.md
           displayName: csp
