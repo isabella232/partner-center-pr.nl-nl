@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/03/2021
-ms.openlocfilehash: dd389d0857f1ddf391086155ea5a595f0fa5b2d6
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99554344"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588713"
 ---
 # <a name="february-2021-announcements"></a>Aankondigingen van februari 2021
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Partner Center voor februari 2021.
 
 _______________
+
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Premium-evaluaties, een invoeg toepassing voor Compliance Manager, is beschikbaar op 1 maart 2021
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-02-05
+- Functies
+
+### <a name="affected-audience"></a>Betrokken doel groep
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+
+### <a name="summary"></a>Samenvatting
+
+Premium-analyses worden in februari opgenomen in de preview van de prijs lijst en zijn vanaf 1 maart 2021 beschikbaar.
+
+### <a name="details"></a>Details
+
+Premium-evaluaties zijn een optionele invoeg toepassing voor Compliance Manager en kunnen klanten helpen bij de naleving van nationale, regionale en branchespecifieke vereisten die het verzamelen en gebruiken van gegevens regelen. Premium-evaluaties zijn gereserveerd voor Office 365 E5, A5 en G5, en Microsoft 365 E5-, A5-en G5-klanten.
+
+|**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+|------------------|:--------------------|:------------------|
+|CSP-Corp-invoeg toepassing|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
+|CSP-Corp-proef versie|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
+|CSP-educatieve-faculteiten-invoeg toepassing|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
+|CSP-educatieve-faculteiten-proef versie|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de volgende bronnen voor dit onderwerp en deel de informatie met de juiste belanghebbenden in uw organisatie.   
+
+- [Microsoft 365 E5 beveiliging en naleving](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
+- [Evaluaties bouwen en beheren in micro soft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+
+_________________________________________________________
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> Reageren op COVID-19: Microsoft Partner Network update
 
 ### <a name="categories"></a>Categorieën

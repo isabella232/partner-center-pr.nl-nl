@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.date: 02/05/2021
+ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552410"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588730"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van februari 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Functies|[Premium-evaluaties, een invoeg toepassing voor Compliance Manager, is beschikbaar op 1 maart 2021](2021-february.md#4)|5 februari|
 |Functies|[Reageren op COVID-19: Microsoft Partner Network update](2021-february.md#3)|4 februari|
 |Functies|[Nieuwe updates voor de module referrals in Partner Center](2021-february.md#2)|4 februari|
 |Moderne werkplek|[Afschaffing en buiten gebruik stellen van de kwalificaties-Api's voor het validatie proces van de opleidings klant op 25 februari 2021 en de kwalificatie verkrijgen met behulp van 4e mei 2021](2021-february.md#1)|4 februari|

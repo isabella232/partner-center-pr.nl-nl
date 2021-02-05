@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215948"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588747"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -127,7 +127,70 @@ Soms kan de migratie mislukken en resulteert dit in fouten. Hier volgen enkele r
 3. De gebruiker heeft al een referral-rol toegewezen in het partner centrum.
     - U kunt de bestaande rol van de gebruiker controleren. Selecteer in de rechter bovenhoek van partner Center **instellingen** (het tandwiel pictogram) en vervolgens de **account instellingen**. Wanneer u een tweede navigatie menu ziet, selecteert u **gebruikers beheer** en zoekt u naar de gebruiker.
 
-Nadat u de gebruikers migratie hebt voltooid, gebruikt u de volgende richt lijnen om de migratie strategie te bepalen:
+## <a name="psc-deals-migration"></a>Migratie van PSC-deals
+
+Nadat u de gebruikers migratie hebt voltooid, gebruikt u de wizard voor het migreren van deals op de pagina verkoop kansen om alle in aanmerking komende open deals van PSC naar PC te brengen. **De koppeling voor de migratie van deals is alleen zichtbaar referentie beheerders met het hele organisatie bereik in het partner centrum.** In de rechter bovenhoek van de pagina verkoop kansen vindt u een koppeling met de naam **' migratie van de PSC-deal '** , waarmee de wizard voor het migreren van deals wordt geopend.
+
+Lees deze sectie voordat u de dealing-migratie start.
+
+**Komt in aanmerking voor migratie**
+
+Alleen sommige deals komen in aanmerking voor migratie van PSC naar PC. Deze migratie wizard is ontworpen om partners te helpen bij het nemen van hun deals naar het partner centrum, waar ze nog steeds actief met hun klanten werken om de deal te sluiten. **Alleen deals die de status open hebben met geldige partner gegevens (geldige MPN-ID) en niet-ondergaande deal registratie, komen in aanmerking voor migratie.**
+
+**Niet in aanmerking komen voor migratie**
+
+- Oplossingen voor oplossings evaluatie komen niet in aanmerking voor de migratie van deals
+- OEM-licentie verlening zakelijke deals komen niet in aanmerking voor de migratie van deals
+- Alle trans acties die zijn gemarkeerd als binnengehaald in PSC, komen niet in aanmerking voor migratie. Registratie van deals als u in aanmerking komt voor de deals die zijn gemarkeerd als binnengehaald, moeten worden uitgevoerd in PSC.
+
+## <a name="pre-requisites-for-deal-migration"></a>Vereisten voor de migratie van deals
+
+Volg de onderstaande instructies voor het instellen van de deals in PSC voor een succes volle migratie voordat u begint met de implementatie van de deal van de PC.
+
+1. Alle leden van het verkoop team in uw bedrijf die aan de open-deals werken, worden op de hoogte gebracht van deze migratie.
+2. De leden van het verkoop team zijn getraind voor het gebruik van partner Center voor het beheer van deals.
+3. De deals hebben alle vereiste informatie zoals hieronder wordt beschreven.
+    - Bedrijfs gegevens van de klant, inclusief naam en adres
+    - Contact gegevens van de klant als het een mede verkochte deal is
+    - Ten minste één oplossing
+    - Ten minste één teamlid met alle details: voor naam, achternaam, e-mail-ID en telefoon nummer
+    - Deal waarde
+    - Geschatte Sluitings datum van deal
+    - Partner notities
+
+U kunt de mogelijkheden voor bulksgewijs downloaden en uploaden in PSC gebruiken om de gegevens voor alle in aanmerking komende deals op te schonen.
+
+>[!Note]
+> De migratie van deals slaagt zelfs als niet aan de bovenstaande vereisten wordt voldaan. Maar u kunt de status van de deal niet wijzigen als een van de hierboven genoemde verplichte velden in het partner centrum niet beschikbaar is. U moet vervolgens alle vereiste gegevens invoeren die ontbreken in de deals in Partner Center om aan de slag te gaan. **Het wordt ten zeerste aangeraden om de in aanmerking komende deals in PSC op te schonen voordat u deze migreert naar het partner centrum.**
+
+De deal migratie in Partner Center is gebouwd als één klik op ervaring. U hoeft alleen maar op de knop **' deals migreren '** te klikken zodra uw bedrijf klaar is om de in aanmerking komende deals te migreren. **U kunt de deals niet kiezen die u wilt migreren vanaf een PSC. Als u geen deals naar het partner centrum wilt migreren, verplaatst u ze naar de status gesloten in PSC voordat u de migratie start.**
+
+>[!Note]
+> Na het initiëren van de migratie **kan het tot 24 uur duren voordat de deals worden gemigreerd**.
+
+Zodra de migratie is voltooid, is de status van het banner bericht gewijzigd in voltooid met een koppeling naar het migratie rapport. Down load het rapport om de details weer te geven van deals die zijn gemigreerd van PSC naar PC.
+
+Het rapport bevat de onderstaande Details.
+
+1. **Partner Center engagement-id** : de unieke id in het partner centrum voor alle deals in een engagement. Er zijn twee deals: één voor de partner en één voor micro soft in een mede-verkoop afspraak in het partner centrum.
+2. **Partner centrum referral ID** : de unieke id in het partner centrum voor de deal van de partner.
+3. De naam van de **deal** -id die is opgegeven voor de deal in PSC.
+4. **PSC-deal-id** : de unieke id in PSC voor de deal.
+5. **Fouten** : om aan te geven of er fouten zijn opgetreden tijdens het migreren van een specifieke deal.
+
+Alle deals die zijn gemigreerd, zijn niet zichtbaar in PSC. U kunt werken met de gemigreerde deals op de PC. Er worden geen wijzigingen aangebracht in de interacties met micro soft-verkopers voor het verkopen van trans acties.
+
+Deals die zijn gemigreerd vanuit PSC, zijn beschikbaar in de tabbladen binnenkomend en uitgaand op basis van de bron van de deal. Alle door partners gemaakte deals zijn beschikbaar op het tabblad Uitgaand en door micro soft geïnitieerde deals zijn beschikbaar op het tabblad binnenkomend van partner Center. Er zijn twee soorten deals die na de migratie worden gemaakt.
+
+1. **Trans acties samen verkopen** : deals die zijn gemarkeerd als co-sell in PSC, worden gemaakt als trans acties voor samen verkoop in Partner Center.
+2. Trans acties met een door de **partner geleide** deals: deals die niet zijn gemarkeerd als co-Sell, worden gemaakt als deals met betrekking tot de partner in Partner Center. Deals met een partner zijn zichtbaar voor verkopers van micro soft en kunnen worden geüpgraded voor het verkopen van deals voordat de eind status wordt bereikt (gewonnen, verloren). Daarnaast komen de door partners geleide deals in aanmerking voor de registratie van deals als er een stimulans in aanmerking komt voor de deal.
+
+>[!Important]
+> Als er fouten optreden omdat sommige deals niet kunnen worden gemigreerd, **kunt u de deal migratie opnieuw starten door te klikken op de knop ' deals migreren '**. Deze functie wordt alleen ingeschakeld als er nog enkele in aanmerking komende deals worden gemigreerd. Dit is ook handig als u zich in de overgangs fase bevindt, waarbij sommige nieuwe deals worden gemaakt in PSC na het initiëren van de migratie van deals.
+
+Zodra alle deals zijn gemigreerd, ziet u dat er een banner wordt weer gegeven **met de knop "** **geen te migreren aanbiedingen** ". deze wordt **uitgeschakeld**.
+
+Nadat de gebruikers migratie en/of de migratie is voltooid, gebruikt u de volgende richt lijnen om de migratie strategie te bepalen:
 
 Als uw bedrijf een partner Development Manager (PDM) heeft: wanneer uw partner centrum-account is ingesteld en uw gebruikers over rollen en machtigingen beschikken, kunt u uw activiteiten naar het partner centrum verplaatsen. Informeer de PDM om de switch te laten wachten tot de deadline voor de migratie is voltooid, waardoor al uw nieuwe deals in het partner centrum kunnen stromen.
 
@@ -327,7 +390,7 @@ Als u hier een span doek hebt gezien in een PSC met de melding ' PSC ongeldig MP
 
 Zoek eerst de juiste MPN-ID door de onderstaande stappen te volgen
 
-- Aanmelden bij uw partner centrum-account
+- Meld u aan bij uw partner centrum-account
 - Gebruik de instructies in de [account instellingen documentatie](./partner-center-account-setup.md#locate-your-mpn-id) om de MPN-id te vinden.
 
 Volgende,
