@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527526"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624252"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Marketplace-beloningen beheren in Partner Center & marketing-, verkoop-en technische voor delen activeren
 
@@ -34,7 +34,7 @@ De beschik baarheid van Marketplace-beloningen wordt berekend op basis van alle 
 
 2. Als u een voordeel voor sales en marketing wilt activeren, moet u eerst een bedrijfs-marketingcontact toewijzen. Deze contactpersoon ontvangt opvolgingscommunicatie over uw Marketplace-beloningen.
 
-3. Als u uw marketing contactpersoongegevens wilt toevoegen of bijwerken, gaat u naar het tabblad voor delen van verkoop en marketing op de pagina Marketplace-beloningen en selecteert u vervolgens **toevoegen, bijwerken of wijzigen** . 
+3. Als u uw marketing contactpersoongegevens wilt toevoegen of bijwerken, gaat u naar het tabblad voor delen van verkoop en marketing op de pagina Marketplace-beloningen en selecteert u vervolgens **toevoegen, bijwerken of wijzigen**. 
 
    Ga daarna als volgt te werk:
 
@@ -42,13 +42,13 @@ De beschik baarheid van Marketplace-beloningen wordt berekend op basis van alle 
 
    - Geef een e-mail adres op voor de gebruiker die afwijkt van het e-mail adres dat is gekoppeld aan het partner centrum-account van uw bedrijf. We sturen instructies voor het gebruik van uw Marketplace-voordelen naar het e-mailadres van uw aangewezen marketing-contactpersoon.
 
-   - Geef het telefoonnummer en de voorkeurstaal van de contactpersoon voor deze marketing-contactpersoon op. Wanneer u klaar bent met het invoeren van deze gegevens, selecteert u **Gebruiker toewijzen** .
+   - Geef het telefoonnummer en de voorkeurstaal van de contactpersoon voor deze marketing-contactpersoon op. Wanneer u klaar bent met het invoeren van deze gegevens, selecteert u **Gebruiker toewijzen**.
 
 4. Nadat u de marketing-contactpersoon hebt bijgewerkt, selecteert u **Activeren** voor het voordeel dat u wilt gaan gebruiken. Zodra u een voordeel hebt geactiveerd, neemt een lid van het team Beloningen binnen een week contact op met uw marketing-contactpersoon.
 
 ## <a name="technical-benefits"></a>Technische voordelen
 
-1. U kunt uw technische voor deel gebruiken om technische hulp te vragen tijdens de ontwikkelings fase van de voor-en implementatie van uw Cloud en hybride oplossingen. Als u hulp wilt aanvragen, vult u het aanvraag formulier in en selecteert u vervolgens **aanvraag verzenden** .
+1. U kunt uw technische voor deel gebruiken om technische hulp te vragen tijdens de ontwikkelings fase van de voor-en implementatie van uw Cloud en hybride oplossingen. Als u hulp wilt aanvragen, vult u het aanvraag formulier in en selecteert u vervolgens **aanvraag verzenden**.
 
 2. Het gebruik van de voor delen van Azure sponsor wordt gedeeld via een e-mail wanneer u deze voor delen ontgrendelt.
 
@@ -60,11 +60,11 @@ De Marketplace-informatie over beloningen is beschikbaar via de Azure AD-Tenant 
 
 1. Meld u aan bij de PGA in Partner Center als beheerder van de globale beheerder of het account.
 
-2. Selecteer **instellingen** (rechtsboven), **partner instellingen** , **tenants** . 
+2. Selecteer **instellingen** (aan de rechter kant), **account instellingen**, **tenants**. 
 
 3. Selecteer **een andere Azure AD-Tenant koppelen** en selecteer de Azure AD-Tenant die u wilt koppelen aan de PGA.
 
-4. Voeg de gebruikers naam en het wacht woord toe van elke gebruiker in de Azure AD-Tenant die u wilt koppelen en selecteer **indienen** .
+4. Voeg de gebruikers naam en het wacht woord toe van elke gebruiker in de Azure AD-Tenant die u wilt koppelen en selecteer **indienen**.
 
 5. Meld u af bij Partner Center en meld u vervolgens aan met de gebruikers naam en het wacht woord voor de Tenant die u zojuist aan de PGA hebt gekoppeld.
 

@@ -1,7 +1,7 @@
 ---
 title: Hoe indirecte providers hun wederverkopers kunnen helpen bij het aannemen van de micro soft-partner overeenkomst-Veelgestelde vragen
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: De belangrijkste vragen met betrekking tot micro soft Partner Agreement zijn beantwoord
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e1848ae63756141e43c980b8910ce556b6ffb32
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530847"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624286"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Hoe indirecte providers hun indirecte wederverkopers kunnen helpen de micro soft Partner Agreement (MPA) te accepteren
 
@@ -104,8 +104,6 @@ Dit geldt ook voor ' Advisor '-partners die zijn gebruikt in CSP. Micro soft hee
 
 Met uw CSP-account dat is gekoppeld aan de locatie MPN ID, kunt u samen werken met indirecte providers, klanten beheren en stimulansen verdienen.
     
-- [Overzicht van het programma Cloud Solution Provider](csp-overview.md)
-
 - [De micro soft Partner Agreement (MPA) voor CSP](microsoft-partner-agreement.md)
 
 - [Werken met indirecte providers in het CSP-programma](indirect-reseller-tasks-in-partner-center.md)
@@ -134,6 +132,39 @@ In het geval van problemen verhoogt u een [ondersteunings ticket](https://partne
 
 **Antwoord** Meld u aan bij partner centrum met de referenties van het MPN-account (MPN en CSP-aanmeldings referenties kunnen afwijken). Selecteer  bij instellingen **account instellingen**  ->  **organisatie profiel-**  ->  **id's** om uw MPN-id's weer te geven. Als u een nieuwe MPN-locatie/dochter maatschappij wilt toevoegen, gaat u naar **juridisch profiel** en klikt u op **locatie toevoegen**.
 
+## <a name="questions-about-csp-regional-authorization"></a>Vragen over regionale autorisatie van CSP
+
+#### <a name="what-is-a-csp-region"></a>Wat is een CSP-regio?
+
+**Antwoord** Een CSP-regio bestaat uit een of meer landen waar CSP-bedrijven kunnen worden uitgevoerd. Business omvat bijvoorbeeld het werken met indirecte providers, het maken van verbinding met klanten, het handelen en het toerekenen van prikkels. U hebt ten minste één CSP-account (Office 365 werk account) nodig om zaken te doen in een CSP-regio. Meer informatie over de [CSP-regio](regional-authorization-overview.md).
+
+Als u een indirecte dealer van een CSP bent, moet u zich aanmelden met een indirecte provider in dezelfde regio en mag u alleen verkopen aan klanten in dezelfde regio.
+
+#### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>Waarom kan ik mijn MPN-ID niet koppelen aan mijn Tenant?
+
+**Antwoord**  Als u uw MPN-ID niet aan uw Tenant kunt koppelen en u een fout ziet, betekent dit dat de MPN-ID en de Tenant zich niet in hetzelfde land bevinden. De koppeling werkt alleen als deze zich in hetzelfde land bevinden. Dit komt doordat micro soft prikkels per land en MPN-ID-niveau worden betaald. Als u bijvoorbeeld een CSP-account in Frank rijk hebt, hebt u een MPN-locatie (MPN-ID) in Frank rijk nodig om betaalde prikkels te verkrijgen. Een MPN-ID in VK werkt niet, hoewel ze zich in dezelfde CSP-regio bevinden. 
+
+Om dit probleem op te lossen, maakt u een MPN-locatie in hetzelfde land als CSP-land. Meer informatie over het [beheren van MPN-locaties](manage-locations.md).
+
+#### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>Ik heb een indirect dealer-account van CSP in Frank rijk. Kan ik partner samen werken met een indirecte provider in Duitsland?
+
+**Antwoord** Klikt. Zodra het CSP indirect reseller-account actief is in een CSP-regio, kan hetzelfde account worden gebruikt om zaken te doen in de hele regio. Meer informatie over de [CSP-regio](regional-authorization-overview.md).
+
+#### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>Ik ben een indirecte wederverkoper in de VS. Kan ik partner met een indirecte provider in UK?
+
+**Antwoord** Geen. CSP is een regionaal programma. Het CSP-account van zowel een indirecte wederverkoper als een indirecte provider moet zich in dezelfde CSP-regio bevinden om zaken te doen. Om dit op te lossen, moet u een nieuw CSP-account maken in de Europese regio, een MPN-locatie maken in hetzelfde land als het CSP-account land en vervolgens de relatie aanvraag van uw indirecte provider accepteren. U kunt bijvoorbeeld een indirect een CSP-reseller-account maken in Frank rijk, een MPN-locatie maken in Frank rijk en vervolgens de uitnodiging accepteren van een indirecte provider die zich in Frank rijk of een van de andere landen in de CSP-Europese regio bevindt.
+
+#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>Kan ik meer dan 1 MPN-en CSP-accounts hebben in Partner Center?
+
+**Antwoord** U kunt slechts één MPN-account (aanmelden) en een of meer CSP-accounts (aanmeldingen) hebben, afhankelijk van de CSP-regio's van uw bedrijf. U kunt bijvoorbeeld uw MPN-account in de Verenigde Staten (hoofd kantoor) met locaties in VS (dochter), VK (dochter maatschappij) en Australië (dochter maatschappij) hebben.
+U kunt één CSP-account (Office 365-werk account) in Nederland hebben dat dezelfde aanmeldings referenties heeft als uw MPN-account. U kunt een tweede CSP-account hebben in het Verenigd Konink rijk die verschillende aanmeldings referenties heeft voor het beheren van CSP-bedrijven in de Europese regio, en derde in Australië die verschillende aanmeldings referenties van andere twee hebben voor het beheren van CSP-bedrijven in Australië.
+
+Alle drie de CSP-accounts moeten worden gekoppeld aan MPN-ID-account accounts om zaken te doen en stimulansen te verdienen in deze dochter ondernemingen. De MPN-competenties en-voor delen kunnen alleen worden beheerd door het MPN-account.
+
+#### <a name="i-am-a-csp-indirect-reseller-in-us-and-want-to-expand-my-business-to-europe-what-do-i-need-to-do-in-partner-center"></a>Ik ben een indirecte leverancier van CSP in Nederland en wil mijn bedrijf uitbreiden naar Europa. Wat moet ik doen in Partner Center?
+
+**Antwoord** U hebt een MPN-locatie nodig in het land waar u zaken wilt doen en u moet zich inschrijven voor het programma voor indirecte dealer van de provider in hetzelfde land. Meer informatie over het maken van nieuwe [MPN-locaties en CSP-inschrijvingen](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business).
+
 ## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>Vraag over het migreren van uw MPN-account van PMC naar het partner centrum
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Ik wil mijn MPN-account migreren van het Partner Membership Center naar het partner centrum. Hoe kan ik dit doen? Ik weet niet wie mijn MPN-beheerder was in PMC, hoe kan ik migreren? 
@@ -142,10 +173,7 @@ In het geval van problemen verhoogt u een [ondersteunings ticket](https://partne
 
 Nadat u het MPN-account hebt gemigreerd, leest u meer over het ondertekenen van MPA, lees dan de [micro soft-partner-overeenkomst] 9microsoft-Partner-Agreement. MD # down load-Step-by-Step-Guide-right-for-out-in-the-MPA-process proces)
 
-In het geval van problemen verhoogt u een [ondersteunings ticket](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) vanuit het partner centrum. 
-
-
-
+In het geval van problemen verhoogt u een [ondersteunings ticket](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) vanuit het partner centrum.
 
 #### <a name="how-do-i-check-if-my-mpn-id-is-migrated-into-partner-center"></a>Hoe kan ik controleren of mijn MPN-ID wordt gemigreerd naar het partner centrum?
 
@@ -161,6 +189,7 @@ Selecteer onder **account instellingen** het tabblad **juridisch profiel** op de
 #### <a name="i-enrolled-in-mpn-program-and-as-a-csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-is-in-rejected-state-what-should-i-do"></a>Ik heb me Inge schreven in het programma MPN en als een programma voor indirecte dealer van CSP, maar mijn profiel voor de verificatie van uw juridisch bedrijf heeft de status afgewezen. Wat moet ik doen?
 
 **Antwoord** U moet de juridische profiel gegevens bijwerken door op **bijwerken** te klikken. Lees de volgende artikelen voordat u doorgaat:
+
 - [Uw accountgegevens verifiëren](verification-responses.md#what-is-verified-and-how-to-respond)
 
 - [Uw organisatie profiel verifiëren](update-your-partner-profile.md)

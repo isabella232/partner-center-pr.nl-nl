@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92528300"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624048"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkopen aan gespecialiseerde branches zoals educatie, non-profit en overheidsgebruikers
-
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -44,17 +40,17 @@ De volgende stappen zijn alleen van toepassing op indirecte providers en directe
 
 1. Selecteer in uw partner Center- [dash board](https://partner.microsoft.com/dashboard)het tandwiel pictogram in de rechter bovenhoek van het venster om de **account instellingen** te openen.
 
-2. Zoek in uw **partner profiel** in de sectie **programma info** naar **wederverkoper kwalificaties** .
+2. Zoek in uw **juridisch profiel** in de sectie **programma-informatie** naar wederverkoper- **kwalificaties**.
 
 3. Als u geen wederverkoper- **kwalificaties** ziet, bent u nog niet gemachtigd om speciale aanbiedingen aan te schaffen.
 
 ## <a name="check-the-customer-qualifications"></a>De klant kwalificaties controleren
 
-1. Selecteer in het menu **Partner Center** **klanten** . Kies de klant in de lijst.
+1. Selecteer in het menu **Partner Center** **klanten**. Kies de klant in de lijst.
 
-2. Selecteer in het menu klant de optie **account** . Zoek in de sectie **Bedrijfs gegevens** naar **speciale kwalificaties** .
+2. Selecteer in het menu klant de optie **account**. Zoek in de sectie **Bedrijfs gegevens** naar **speciale kwalificaties**.
 
-3. Als **speciale kwalificaties** is ingesteld op **geen** , maar de klant voldoet aan de kwalificaties, kunt u de bijbehorende gegevens **bijwerken** om deze op te geven.
+3. Als **speciale kwalificaties** is ingesteld op **geen**, maar de klant voldoet aan de kwalificaties, kunt u de bijbehorende gegevens **bijwerken** om deze op te geven.
 
 ## <a name="where-to-find-special-offers"></a>Waar u speciale aanbiedingen kunt vinden
 
@@ -81,4 +77,4 @@ Aankoop regels voor het verkopen van speciale aanbiedingen aan klanten:
 
 - [Minecraft: Education Edition-abonnementen voor onderwijs klanten verkopen](minecraft-subscriptions.md)
 
-- [Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid](partner-center-for-microsoft-us-govt-cloud.md)
+- [Partnercentrum voor Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

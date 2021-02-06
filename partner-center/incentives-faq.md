@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133062"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624218"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Veelgestelde vragen over prikkels
-
-**Van toepassing op:**
-
-- Partnercentrum
 
 **Juiste rollen:**
 
@@ -35,7 +31,7 @@ Nee. Zowel de beheerder van de globale beheerder als het account kan gebruikers 
 
 Als u probeert deel te nemen aan MPN en uw bedrijf al een lid is, herkent MPN het domein en wordt u aan het bestaande account gekoppeld. Het bestaande account kan hetzelfde bedrijf of een gerelateerde onderneming zijn die hetzelfde e-mail domein gebruikt, of dezelfde Azure-activiteit Directory (Azure AD) voor het beheren van meerdere domeinen.
 
-U kunt de primaire contact persoon identificeren op de profiel pagina van de partner. Als uw locatie de MPNHQ locatie is, hoeft u alleen de vereiste machtigingen voor het beheren van prikkels in te stellen. Zie [overzicht van machtigingen](permissions-overview.md)voor meer informatie over rollen en machtigingen.
+U kunt de primaire contact persoon identificeren op de pagina rechts profiel. Als uw locatie de MPNHQ locatie is, hoeft u alleen de vereiste machtigingen voor het beheren van prikkels in te stellen. Zie [overzicht van machtigingen](permissions-overview.md)voor meer informatie over rollen en machtigingen.
 
 Als u zich niet in hetzelfde land als de MPNHQ-locatie bevindt, raadpleegt u de [instructies voor Multi-National accounts](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) voor meer informatie over dit scenario.
 
@@ -51,8 +47,8 @@ Zie [permissions Overview](permissions-overview.md)(Engelstalig) voor meer infor
 
 Zoeken naar een globale beheerder of account beheerder die de rol kan wijzigen of rollen kan toewijzen aan een nieuwe gebruiker:
 
-1. Selecteer in het pictogram account instellingen in de rechter bovenhoek van het partner centrum **gebruikers beheer** .
-2. Filter op ofwel **globale beheerder** of **account beheerder** .
+1. Selecteer in het pictogram account instellingen in de rechter bovenhoek van het partner centrum **gebruikers beheer**.
+2. Filter op ofwel **globale beheerder** of **account beheerder**.
 3. U kunt ook naar **Mijn profiel** gaan, **rollen en machtigingen** selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen bij het verhogen van uw machtigingen.
  
 Zie [uw rol zoeken](find-your-role.md)voor meer informatie.  
@@ -63,9 +59,9 @@ De waarschijnlijke reden waarom u geen stimulansen ziet, is dat u niet over de j
 
 1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/) met uw Azure AD-Tenant referenties (uw werk referenties). Als u zich niet kunt aanmelden, neemt u contact op met de globale beheerder van uw bedrijf.
 
-2. Als u zich aanmeldt en u wordt gevraagd om te selecteren uit uw **werk account** of **persoonlijk account** , selecteert u **werk account** .
+2. Als u zich aanmeldt en u wordt gevraagd om te selecteren uit uw **werk account** of **persoonlijk account**, selecteert u **werk account**.
 
-3. Selecteer in het menu partner centrum **prikkels** en selecteer vervolgens **overzicht** . Als u geen gebruikers machtigingen voor prikkelt of prikkels hebt, worden de contact gegevens voor alle globale accounts en account beheerders van uw bedrijf weer gegeven. Neem contact op met een van deze beheerders om de rol van de stimulans te verkrijgen voor de vereiste MPN-Id's en stimulerings Programma's.
+3. Selecteer in het menu partner centrum **prikkels** en selecteer vervolgens **overzicht**. Als u geen gebruikers machtigingen voor prikkelt of prikkels hebt, worden de contact gegevens voor alle globale accounts en account beheerders van uw bedrijf weer gegeven. Neem contact op met een van deze beheerders om de rol van de stimulans te verkrijgen voor de vereiste MPN-Id's en stimulerings Programma's.
 
 4. Als u al een rol voor Stimulanss beheerder hebt, ziet u de registraties voor uw bedrijf voor de MPN-Id's en stimulerings Programma's waarvoor u toegang hebt.
 

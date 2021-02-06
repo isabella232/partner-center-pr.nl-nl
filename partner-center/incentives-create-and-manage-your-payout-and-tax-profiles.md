@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492463"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624235"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Toekennings-en belasting profielen voor stimuli maken en beheren in partner centrum
 
-**Van toepassing op:**
-
-- Partnercentrum
 
 **Juiste rollen:**
 
@@ -64,7 +61,7 @@ In de volgende secties vindt u een overzicht van het proces voor het maken en be
    - Als u zich alleen kunt aanmelden met het @onmicrosoft.com domein, neemt u contact op met uw account beheerder om extra domeinen toe te voegen aan het Azure ad-account.
    - Als u wordt gevraagd om een **werk-of school account** of een **persoonlijk account** te selecteren, selecteert u **werk-of school account**.
 
-2. Selecteer het tandwiel pictogram om het menu **instellingen** te openen en selecteer vervolgens **partner instellingen**.
+2. Selecteer het tandwiel pictogram om het menu **instellingen** te openen en selecteer vervolgens **account instellingen**.
 
 3. Selecteer in het menu **account instellingen** de optie **uitbetaling en belasting**. 
 
@@ -72,7 +69,7 @@ In de volgende secties vindt u een overzicht van het proces voor het maken en be
 
 1. Meld u aan bij het [dash board van het partner centrum](https://partner.microsoft.com/dashboard/)en selecteer vervolgens het tandwiel pictogram om het menu **instellingen** te openen. 
 
-2. Selecteer **partner instellingen**, vouw de **sectie uitbetaling en belasting** uit en selecteer vervolgens **toekennings-en BTW-profiel toewijzing**. 
+2. Selecteer **account instellingen**, vouw de **sectie uitbetaling en belasting** uit en selecteer vervolgens **toekennings-en BTW-profiel toewijzing**. 
    
    Er wordt een lijst met uw Program ma's weer gegeven. Selecteer de pijl naast een programma om de profiel gegevens weer te geven. 
 

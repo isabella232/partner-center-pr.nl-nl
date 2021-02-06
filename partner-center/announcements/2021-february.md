@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.date: 02/04/2021
+ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588713"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624167"
 ---
 # <a name="february-2021-announcements"></a>Aankondigingen van februari 2021
 
@@ -70,22 +70,7 @@ Alle partners
 
 ### <a name="details"></a>Details
 
-Micro soft zal de competentie-en geavanceerde specialisatie vereisten voor alle partners met een jubileum datum (AD) tussen 1 januari 2021 en 30 juni 2021 afzien. De uitzonde ring hierop is de Cloud Business Applications (dit) competentie, waarvoor partners die een AD hebben op of na 1 april 2021 tot en met 30 juni 2021, worden beloond met de vijf tien punten in de buurt van de metrische vereiste voor de functionele consultant in de PCI-construct.  
-
-**Partners met competenties (met uitzonde ring van de Cloud Business Applications competentie) die jubileum datums hebben tussen 1 januari 2021 en 30 juni 2021,** komen in aanmerking voor een competentie-uitbrei ding van één jaar. Uw bestaande competenties of competenties worden uitgebreid met uw volgende jubileum datum in 2022.Informatie die specifiek is voor uw organisatie, is beschikbaar in het partner centrum vanaf februari en is afgestemd op uw verlengings periode.U hebt. om actie te ondernemen in het partner centrum om de competentie kosten te betalen en uw verlenging te volt ooien.Als u het einde van de periode voor het verlengen van uw vaardig heden met een duur van 30 dagen nadert en niet kunt verlengen in het partner centrum, neemt u contact op met de [partner ondersteuning](https://partner.microsoft.com/support) voor hulp.  
-
-**Voor partners met de Cloud Business Applications competentie:** Zoals eerder werd gecommuniceerd, worden de scores voor communicatie indicatoren (PCI) van de partner van kracht op 1 april 2021. Als uw jubileum datum voor de Cloud Business Applications competentie ligt tussen 1 januari 2021 en 31 maart 2021, moet u voldoen aan de vereisten die zijn gepubliceerd in het partner centrum en de competentie kosten betalen om uw verlenging te volt ooien. Als uw jubileum datum voor de Cloud Business Applications competentie ligt tussen 1 april 2021 en 30 juni 2021, krijgt u de 15 punten voor de metrische gegevens van de functionele consultant groei. U moet voldoen aan de overige vereisten die zijn gepubliceerd in het partner centrum en de competentie kosten betalen om uw verlenging te volt ooien.  
-
-**Voor partners die een geavanceerde specialisatie in 2021 vernieuwen:** Partners met een speciale specialisatie datum van 1 januari 2021 tot en met 30 juni 2021 komen in aanmerking voor een uitbrei ding van één jaar in 2022, mits u de vereiste Gold-competentie behoudt die wordt afgestemd op de geavanceerde specialisatie, waarbij de competentie kosten kunnen worden betaald om te verlengen. Informatie die specifiek is voor uw organisatie, is beschikbaar in het partner centrum vanaf februari en is afgestemd op uw verlengings periode.  
-
-### <a name="next-steps"></a>Volgende stappen
-
-- Zie [reageren op COVID-19: Microsoft Partner Network update-Microsoft Partner Network](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)voor meer updates.
-
-### <a name="questions"></a>Vragen?
-
-Voor vragen met betrekking tot deze melding kunt u contact opnemen met [Partner Center-ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
-
+Micro soft biedt competentie-uitbrei ding (met uitzonde ring van de Cloud Business Applications competentie) en geavanceerde specialisatie-uitbrei ding voor partners met jubileum datums (AD) van 1 januari 2021 tot en met 30 juni 2021. Raadpleeg ons blog bericht over [partners](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) voor meer informatie.
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nieuwe updates voor de module referrals in Partner Center
 
@@ -129,7 +114,7 @@ Als u hulp nodig hebt bij het gebruik van een van de nieuwe functies, raadpleegt
 Voor aanvullende ondersteuning kunt u [een ticket openen met ons partner ondersteunings team](https://partner.microsoft.com/support/?stage=1).
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25th-2021-and-get-qualification-by-may-4th-2021"></a><a name="1"></a> Het afnemen en buiten gebruik stellen van de kwalificatie-Api's voor het validatie proces van de opleidings klant op 25 februari 2021 en het verkrijgen van een kwalificatie van 4 mei 2021.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Het afnemen en buiten gebruik stellen van de kwalificatie-Api's voor het validatie proces van de opleidings klant op 25 februari 2021 en het verkrijgen van een kwalificatie van 4 mei 2021.
 
 ### <a name="categories"></a>Categorieën
 
@@ -142,7 +127,7 @@ Partners die academische, non-profit en GCC-aanbiedingen verkopen via het Cloud 
 
 ### <a name="details"></a>Details
 
-Dit is een follow-up van de verbeteringen van het partner centrum, [uitgebracht in december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Als onderdeel van deze release zijn de nieuwe GET-en POST-kwalificaties-Api's geïmplementeerd. als gevolg hiervan zijn **de bestaande put-kwalificaties Api's Partner Center api's buiten gebruik gesteld op 25e februari 2021 en krijgen ze een kwalificatie met een vierde van 2021**. Op dat moment moet u overstappen op het gebruik van de nieuwe Api's van het POST Partner Center om opleidings aanbiedingen en de nieuwe kwalificaties-API te kunnen kopen om vooraf gekwalificeerde non-profit en GCC-aanbiedingen aan te schaffen.
+Deze aankondiging is een follow-up van de verbeteringen van het partner centrum, [uitgebracht in december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Als onderdeel van deze release zijn de nieuwe GET-en POST-kwalificaties-Api's geïmplementeerd. als gevolg hiervan zijn **de bestaande put-kwalificaties Api's Partner Center api's buiten gebruik gesteld op 25 februari 2021 en krijgen ze een kwalificatie van 4 mei 2021**. Op dat moment moet u overstappen op het gebruik van de nieuwe Api's van het POST Partner Center om opleidings aanbiedingen en de nieuwe kwalificaties-API te kunnen kopen om vooraf gekwalificeerde non-profit en GCC-aanbiedingen aan te schaffen.
 
 ### <a name="next-steps"></a>Volgende stappen
 

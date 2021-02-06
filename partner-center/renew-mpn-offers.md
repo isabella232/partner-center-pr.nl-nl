@@ -1,7 +1,7 @@
 ---
 title: Uw MPN-aanbiedingen vernieuwen
 ms.topic: article
-ms.date: 02/02/2021
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Renew Microsoft Partner Network-aanbiedingen (MPN) voor vaardig heden en geavanceerde specials-het venster voor het vernieuwen van de dag van aankoop datum plus één dag wordt gestart.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be1590d83f6349e9caeb85ed9303e7a10d0cca6b
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552435"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624133"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Uw MPN-aanbiedingen voor vaardig heden en geavanceerde specials vernieuwen tijdens het vernieuwings venster
 
@@ -24,15 +24,7 @@ ms.locfileid: "99552435"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Reageren op COVID-19: Microsoft Partner Network update
 
-Update van 27 januari 2021:  
-
-Micro soft zal de competentie-en geavanceerde specialisatie vereisten voor alle partners met een jubileum datum (AD) tussen 1 januari 2021 en 30 juni 2021 afzien. De uitzonde ring hierop is de Cloud Business Applications (dit) competentie, waarvoor partners die een AD hebben op of na 1 april 2021 tot en met 30 juni 2021, worden beloond met de vijf tien punten in de buurt van de metrische vereiste voor de functionele consultant in de PCI-construct.  
-
-**Partners met competenties (met uitzonde ring van de Cloud Business Applications competentie) die jubileum datums hebben tussen 1 januari 2021 en 30 juni 2021,** komen in aanmerking voor een competentie-uitbrei ding van één jaar. Uw bestaande competenties of competenties worden uitgebreid met uw volgende jubileum datum in 2022.Informatie die specifiek is voor uw organisatie, is beschikbaar in het partner centrum vanaf februari en is afgestemd op uw verlengings periode.U moet actie ondernemen in het partner centrum om de competentie kosten te betalen en uw verlenging te volt ooien.Als u het einde van de periode voor het verlengen van uw vaardig heden met een duur van 30 dagen nadert en niet kunt verlengen in het partner centrum, neemt u contact op met de [partner ondersteuning](https://partner.microsoft.com/support) voor hulp.  
-
-**Voor partners met de Cloud Business Applications competentie:** Zoals eerder werd gecommuniceerd, worden de scores voor communicatie indicatoren (PCI) van de partner van kracht op 1 april 2021. Als uw jubileum datum voor de Cloud Business Applications competentie ligt tussen 1 januari 2021 en 31 maart 2021, moet u voldoen aan de vereisten die zijn gepubliceerd in het partner centrum en de competentie kosten betalen om uw verlenging te volt ooien. Als uw jubileum datum voor de Cloud Business Applications competentie ligt tussen 1 april 2021 en 30 juni 2021, krijgt u de 15 punten voor de metrische gegevens van de functionele consultant groei. U moet voldoen aan de overige vereisten die zijn gepubliceerd in het partner centrum en de competentie kosten betalen om uw verlenging te volt ooien.  
-
-**Voor partners die een geavanceerde specialisatie in 2021 vernieuwen:** Partners met een speciale specialisatie datum van 1 januari 2021 tot en met 30 juni 2021 komen in aanmerking voor een uitbrei ding van één jaar in 2022, mits u de vereiste Gold-competentie behoudt die wordt afgestemd op de geavanceerde specialisatie, waarbij de competentie kosten kunnen worden betaald om te verlengen. Informatie die specifiek is voor uw organisatie, is beschikbaar in het partner centrum vanaf februari en is afgestemd op uw verlengings periode.  
+Micro soft biedt competentie-uitbrei ding (met uitzonde ring van de Cloud Business Applications competentie) en geavanceerde specialisatie-uitbrei ding voor partners met jubileum datums (AD) van 1 januari 2021 tot en met 30 juni 2021. Raadpleeg ons blog bericht over [partners](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) voor meer informatie.
 
 ## <a name="renewal-reminders"></a>Herinneringen voor verlenging
 

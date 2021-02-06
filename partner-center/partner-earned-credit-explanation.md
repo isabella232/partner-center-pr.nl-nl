@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182406"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623997"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hoe het verdiende tegoed van de partner wordt berekend en betaald
 
@@ -52,7 +52,7 @@ De volgende vereisten zijn van toepassing op het ontvangen van de partner (PEC):
 
 ### <a name="calculation"></a>Berekening
 
-PEC wordt dagelijks berekend en kan worden weer gegeven in het dagelijks gebruiks bestand en het maandelijkse factuur afstemmings bestand. Een partner (een indirecte provider of een indirecte wederverkoper) moet toegang hebben tot de hele dag (24x7) om ervoor te zorgen dat ze PEC verdienen. PEC wordt dagelijks berekend op basis van de beheerde Azure-assets. De maximale PEC voor een bepaalde facturerings periode is 15%. Partners die permanente privileged Access via de maand (toegangs duur) bewaren en voor alle in aanmerking komende resources (bereik van toegang), verdienen een volledige PEC van 15%. De beperking van het bereik en de periode resulteert in een lager PEC-tempo voor de maand. Dagelijks geclassificeerd gebruiks bestand wordt dagelijks op een Azure-Asset weer gegeven, of PEC wordt toegepast. Partners kunnen ook worden inge schreven in waarschuwingen om wijzigingen in permanente toegang te controleren.
+PEC wordt dagelijks berekend en kan worden weer gegeven in het dagelijks gebruiks bestand en het maandelijkse factuur afstemmings bestand. Een partner (een indirecte provider of een indirecte wederverkoper) moet toegang hebben tot de hele dag (24x7) om ervoor te zorgen dat ze PEC verdienen. PEC wordt dagelijks berekend op basis van de beheerde Azure-assets. Partners die permanente privileged Access via de maand (toegangs duur) bewaren en voor alle in aanmerking komende resources (bereik van toegang), verdienen volledige PEC. De beperking van het bereik en de periode resulteert in een lager PEC-tempo voor de maand. Dagelijks geclassificeerd gebruiks bestand wordt dagelijks op een Azure-Asset weer gegeven, of PEC wordt toegepast. Partners kunnen ook worden inge schreven in waarschuwingen om wijzigingen in permanente toegang te controleren.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 

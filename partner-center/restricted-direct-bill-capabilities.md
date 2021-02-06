@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795764"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623980"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Beperkte directe factuur mogelijkheden en de vereisten voor CSP direct-factuur partners  
 
@@ -31,9 +31,9 @@ Voer de volgende stappen uit om te controleren of de toegang van de directe fact
 
 1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard).
 
-2. Ga naar partner **instellingen**  ->  **partner profiel** .
+2. Ga naar **account instellingen**  ->  **juridisch profiel**.
 
-3. Zoek onder **programma-informatie** naar **Microsoft Cloud Solution Provider-status** .
+3. Zoek onder **programma-informatie** naar **Microsoft Cloud Solution Provider-status**.
 
 4. Als de status van het programma de waarde **beperkt** heeft, betekent dit dat de toegang van uw directe factuur partner voor directe facturerings mogelijkheden is beperkt.
 

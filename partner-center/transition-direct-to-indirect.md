@@ -9,21 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795862"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624303"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller (Overstappen van partner voor directe facturering van Cloud Solution Provider naar indirecte CSP-reseller)
 
-**Van toepassing op:**
-- Partnercentrum
-
 **Juiste rollen**
 
-- Alle CSP direct-factuur partners
+- Globale beheerders
 
 >[!Note]
 >Dit artikel is bedoeld voor directe factuur partners die hebben besloten om over te stappen op indirecte wederverkopers. Maar zelfs als u nog geen expliciete beslissing hebt genomen om u in te schrijven als een indirecte wederverkoper, worden directe factuur partners die niet voldoen aan de nieuwe [vereisten](direct-partner-new-requirements.md) voor het CSP direct factuur-partner programma, door micro soft op de hoogte gesteld wanneer hun [directe factuur mogelijkheden worden beperkt](restricted-direct-bill-capabilities.md).
@@ -41,7 +38,7 @@ U kunt zich registreren in het programma voor indirecte wederverkopers met behul
 
 3. Controleer de partner gegevens op het Inschrijvings formulier.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Overzicht":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Nu registreren":::
 
 4. Selecteer nu registreren. Uw bedrijf voor indirecte wederverkopers gebruikt dezelfde AAD-Tenant die u voor uw directe bedrijf gebruikt.
 
@@ -51,13 +48,13 @@ U kunt zich registreren in het programma voor indirecte wederverkopers met behul
 5. Wanneer uw inschrijving is goedgekeurd, meldt u zich opnieuw aan bij Partner Center.
 
     > [!NOTE]
-    > Hoewel goed keuring doorgaans direct is, kan het tot vijf werk dagen duren. Zodra het is goedgekeurd, ontvangt u een melding voor het e-mail adres dat u hebt opgegeven onder primaire contact persoon in het Inschrijvings formulier. U kunt ook uw inschrijvings status controleren onder **instellingen**  >  **partner instellingen**  >  **partner profiel** > programma-informatie.
+    > Hoewel goed keuring doorgaans direct is, kan het tot vijf werk dagen duren. Zodra het is goedgekeurd, ontvangt u een melding voor het e-mail adres dat u hebt opgegeven onder primaire contact persoon in het Inschrijvings formulier. U kunt ook uw inschrijvings status controleren onder **instellingen**  >  **account instellingen**  >  **partner profiel** > programma-informatie.
 
-6. Op uw **overzichts** pagina ziet u de overeenkomst voor de indirecte wederverkoper. Selecteer **accepteren en door gaan** . Met deze actie worden de mogelijkheden van de indirecte wederverkoper ingeschakeld.
+6. Op uw **overzichts** pagina ziet u de overeenkomst voor de indirecte wederverkoper. Selecteer **accepteren en door gaan**. Met deze actie worden de mogelijkheden van de indirecte wederverkoper ingeschakeld.
 
 Wanneer u de indirecte wederverkoper overeenkomst hebt geaccepteerd, ziet u dat uw partner profiel u identificeert **als een** directe factuur en een indirecte wederverkoper.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Overzicht":::
+:::image type="content" source="images/direct/direct3.png" alt-text="Indirecte wederverkoper overeenkomst":::
 
 > [!IMPORTANT]
 > Zodra u zich hebt Inge schreven als een indirecte wederverkoper met de nieuwe mogelijkheid, is er geen optie om terug te keren naar een Tenant met alleen directe facturering. Zorg ervoor dat u uw bedrijfs behoeften volledig evalueert voordat u zich aanmeldt als een indirecte wederverkoper.
@@ -66,7 +63,7 @@ Wanneer u de indirecte wederverkoper overeenkomst hebt geaccepteerd, ziet u dat 
 
 Tijdens deze fase blijft u de vereisten voor het abonnement van uw directe klanten beheren, inclusief het facturerings proces. U kunt ook beginnen met het accepteren van klanten van uw indirecte provider en als een indirecte wederverkoper.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Overzicht":::
+:::image type="content" source="images/direct/direct4.png" alt-text="U bent een directe factuur en een indirecte wederverkoper":::
 
 ## <a name="find-an-indirect-provider"></a>Een indirecte provider zoeken
 
@@ -100,7 +97,7 @@ Een uitnodiging voor een indirecte wederverkoper maken:
 
 3. Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het concept bericht openen in e-mail of u kunt het bericht naar het klem bord kopiëren en in een e-mail plakken.
 
-4. Bewerk de tekst in het e-mail bericht om te zeggen wat u nodig hebt, maar zorg ervoor dat u de koppeling opneemt wanneer deze is aangepast om de klant rechtstreeks aan uw account en uw provider account te koppelen. Selecteer vervolgens **Done** .
+4. Bewerk de tekst in het e-mail bericht om te zeggen wat u nodig hebt, maar zorg ervoor dat u de koppeling opneemt wanneer deze is aangepast om de klant rechtstreeks aan uw account en uw provider account te koppelen. Selecteer vervolgens **Done**.
 
 5. Nadat de klant u en uw provider zijn geautoriseerd om de leveranciers van de record te zijn, hebt u beheerders rechten om hun abonnementen, licenties en gebruikers namens hen te beheren en kan uw indirecte provider bestellingen voor hen indienen.
 6. Als u het account, de services, gebruikers en licenties van de klant wilt beheren, vouwt u de record van de klant uit door de pijl-omlaag bij de naam te selecteren.
@@ -176,17 +173,17 @@ Deze functie gebruiken voor een bestaande Tenant van de klant:
 
 2. Selecteer op de **pagina klanten** een bestaande klant en klik op het pictogram **snelle koppelingen** om de samenvattings weergave van de klant uit te vouwen.
 
-3. Onder **indirecte provider (s)** , klikt u op **klant overzetten op een indirecte provider** .
+3. Onder **indirecte provider (s)**, klikt u op **klant overzetten op een indirecte provider**.
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Overzicht":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Klant naar een indirecte provider overzetten":::
 
 4. Selecteer in het pop-updialoogvenster de **indirecte provider** die u wilt hebben reseller-relatie met de klant.
 
-5. Klik op **Opslaan en doorgaan** .
+5. Klik op **Opslaan en doorgaan**.
 
-6. Controleer of de geselecteerde indirecte provider wordt weer gegeven onder **indirecte provider (s)** .
+6. Controleer of de geselecteerde indirecte provider wordt weer gegeven onder **indirecte provider (s)**.
 
-    :::image type="content" source="images/direct/direct5-2.png" alt-text="Overzicht":::
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Indirecte provider vermeld":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Een uitnodiging voor een indirecte reseller naar de klant verzenden
 
@@ -196,11 +193,11 @@ Uw indirecte provider kan geen bestellingen voor uw bestaande directe factuur kl
 
 2. Selecteer **nieuwe klanten uitnodigen** om een klant uit te nodigen om een reseller-relatie met zowel u als de indirecte provider tegelijk te maken. De provider moet een reseller-relatie hebben met uw klant. Daarom kunnen ze bestellingen voor uw klant indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties aan bestaande abonnementen wil toevoegen.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Overzicht":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Nieuwe klanten uitnodigen":::
 
 3. Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het concept bericht openen in e-mail of u kunt het bericht naar het klem bord kopiëren en in een e-mail plakken.
 
-4. Bewerk de tekst in het e-mail bericht om te zeggen wat u nodig hebt, maar zorg ervoor dat u de koppeling opneemt wanneer deze is aangepast om de klant rechtstreeks aan uw account en uw provider account te koppelen. Selecteer vervolgens **Done** .
+4. Bewerk de tekst in het e-mail bericht om te zeggen wat u nodig hebt, maar zorg ervoor dat u de koppeling opneemt wanneer deze is aangepast om de klant rechtstreeks aan uw account en uw provider account te koppelen. Selecteer vervolgens **Done**.
 
 5. Nadat de klant u en uw provider zijn geautoriseerd om de leveranciers van de record te zijn, hebt u beheerders rechten om hun abonnementen, licenties en gebruikers namens hen te beheren en kan uw indirecte provider bestellingen voor hen indienen.
 
@@ -251,7 +248,7 @@ De functie is een proces dat uit vier stappen bestaat, waarbij:
 > [!NOTE]
 > U kunt ook [Partner Center API/SDK](/partner-center/develop/manage-customers) gebruiken om de bestaande abonnementen over te dragen naar uw indirecte provider.
 >
-> - [De abonnements overdracht van een klant ophalen](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [De geschiktheid voor abonnementsoverdracht van een klant ophalen](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
 > - [De overdracht van een klant maken](/partner-center/develop/create-a-transfer)
 > - [De overdracht van een klant intrekken](/partner-center/develop/withdraw-a-transfer)
 > - [De overdracht van een klant accepteren](/partner-center/develop/accept-a-transfer)
@@ -269,23 +266,23 @@ Een overdrachts aanvraag maken als de overgangs partner:
 
 3. Controleer onder **indirecte provider (s)** of de bedoelde indirecte provider wordt vermeld.
 
-4. Klik op **abonnementen weer geven** .
+4. Klik op **abonnementen weer geven**.
 
-5. Zoek op de pagina **abonnementen** naar **abonnements overdracht** .
+5. Zoek op de pagina **abonnementen** naar **abonnements overdracht**.
 
-6. Klik onder **abonnements overdracht** op **abonnements overdracht aanvragen** .
+6. Klik onder **abonnements overdracht** op **abonnements overdracht aanvragen**.
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Overzicht":::
+    :::image type="content" source="images/direct/direct8.png" alt-text="Abonnements overdracht aanvragen":::
 
 7. Selecteer in het dialoog venster overdrachts aanvraag een of meer abonnementen die moeten worden overgedragen.
 
-    :::image type="content" source="images/direct/direct9.png" alt-text="Overzicht":::
+    :::image type="content" source="images/direct/direct9.png" alt-text="Overdrachts aanvraag maken":::
 
-8. Klik op **Create** .
+8. Klik op **Create**.
 
-9. Er wordt een aanvraag voor een actieve abonnements overdracht weer gegeven onder **abonnements overdracht** .
+9. Er wordt een aanvraag voor een actieve abonnements overdracht weer gegeven onder **abonnements overdracht**.
 
-    :::image type="content" source="images/direct/direct10.png" alt-text="Overzicht":::
+    :::image type="content" source="images/direct/direct10.png" alt-text="Lijst met overdrachts aanvragen":::
 
 10. Informeer uw indirecte provider dat u een aanvraag voor abonnements overdracht naar hen hebt gemaakt.
 
@@ -293,23 +290,23 @@ Een overdrachts aanvraag maken als de overgangs partner:
 
 U kunt als volgt een overdrachts aanvraag controleren en accepteren:
 
-1. Meld u aan bij Partner Center als een **beheer** agent of **verkoop agent** .
+1. Meld u aan bij Partner Center als een **beheer** agent of **verkoop agent**.
 
 2. Op de pagina **klanten** selecteert u de gewenste klant en klikt u op het pictogram snelle koppelingen om de samenvattings weergave van de klant uit te vouwen.
 
-3. Bevestig dat de overgangs partner wordt vermeld onder een **indirecte wederverkoper (s)** .
+3. Bevestig dat de overgangs partner wordt vermeld onder een **indirecte wederverkoper (s)**.
 
-4. Klik op **abonnementen weer geven** .
+4. Klik op **abonnementen weer geven**.
 
-5. Zoek op de pagina **abonnementen** naar **abonnements overdracht** .
+5. Zoek op de pagina **abonnementen** naar **abonnements overdracht**.
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Overzicht":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Overdrachts aanvraag weer geven":::
 
 6. Klik onder **abonnements overdracht** op de overdrachts aanvraag die u wilt controleren.
 
-7. Klik op **accepteren** (of **afwijzen** ) waar van toepassing.
+7. Klik op **accepteren** (of **afwijzen**) waar van toepassing.
 
-    :::image type="content" source="images/direct/direct12.png" alt-text="Overzicht":::
+    :::image type="content" source="images/direct/direct12.png" alt-text="Overdrachts aanvraag accepteren":::
 
 8. Wacht tot de overdrachts aanvraag is voltooid.
 
@@ -323,23 +320,23 @@ U kunt als volgt een overdrachts aanvraag controleren en accepteren:
 
 De overgangs partner moet het volgende doen:
 
-1. Meld u aan bij Partner Center als een **beheer agent** of **verkoop agent** .
+1. Meld u aan bij Partner Center als een **beheer agent** of **verkoop agent**.
 
 2. Selecteer op de pagina **klanten** de gewenste klant en klik op het pictogram **snelle koppelingen** om de samenvattings weergave van de klant uit te vouwen.
 
-3. Klik op **abonnementen weer geven** .
+3. Klik op **abonnementen weer geven**.
 
-4. Zoek op de pagina **abonnementen** naar **abonnements overdracht** .
+4. Zoek op de pagina **abonnementen** naar **abonnements overdracht**.
 
-5. Controleer of de overdrachts aanvraag is gemarkeerd als **voltooid** .
+5. Controleer of de overdrachts aanvraag is gemarkeerd als **voltooid**.
 
 6. Controleer of het abonnement (en) niet meer wordt weer gegeven als actief op de pagina **abonnementen** :
 
    1. Als dit een Azure-abonnement is (MS-AZR-0145P), wordt het niet meer weer gegeven.
 
-   2. Als dit een abonnement op basis van licenties is (Office 365, Dynamics, intune), wordt de status weer gegeven als **opgeschort** .
+   2. Als dit een abonnement op basis van licenties is (Office 365, Dynamics, intune), wordt de status weer gegeven als **opgeschort**.
 
-   :::image type="content" source="images/direct/direct13.png" alt-text="Overzicht":::
+   :::image type="content" source="images/direct/direct13.png" alt-text="Abonnement is onderbroken":::
 
 ### <a name="considerations"></a>Overwegingen
 

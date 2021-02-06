@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528760"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624184"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Gids voor migratie van PMC naar Partnercentrum
 
@@ -53,9 +53,9 @@ Als uw bedrijf geen werk-e-mail en AAD-Tenant heeft, kunnen we u helpen bij het 
 >[!NOTE]
 >Als u een partner bent in China en u bent Inge schreven in het programma voor de Microsoft Partner Network en de Cloud Solution Provider (CSP), hebt u voor elk account een afzonderlijke Tenant. Uw account met het Cloud Solution Provider-programma wordt beheerd op de nationale Cloud en uw Microsoft Partner Network-account wordt beheerd op de wereld wijde Cloud. De twee accounts kunnen niet worden gekoppeld.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Aan de slag":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Vertel ons over uw bedrijf":::
 
-Nadat u de gegevens hebt gecontroleerd of bijgewerkt, selecteert u **accepteren en door gaan** .
+Nadat u de gegevens hebt gecontroleerd of bijgewerkt, selecteert u **accepteren en door gaan**.
 De voor waarden op deze pagina zijn **precies hetzelfde** als de overeenkomst die uw bedrijf al heeft aangemeld bij PMC.  
 Met deze stap wordt het maken van uw Azure AD-Tenant gestart en wordt uw met het werk account geleverd.
 
@@ -71,7 +71,7 @@ Selecteer **accepteren en door gaan** om ook het volgende te doen:
 
 Wanneer uw nieuwe Azure AD-Tenant wordt gemaakt, kunt u uw werk nemers uitnodigen om zich aan te melden bij het partner centrum.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Aan de slag":::
+:::image type="content" source="images/migration/invite.png" alt-text="Werk nemers uitnodigen":::
 
 Als u bent aangemeld met een bestaande AAD-Tenant, worden uw werk nemers met u verplaatst. Wijs in dit geval uw werk nemers rollen toe die bepalen wat ze kunnen doen in het partner centrum. 
 
@@ -84,11 +84,11 @@ Als uw AAD-Tenant nieuw is, wijst niemand de rol van globale beheerder toe. Als 
 
 Hoewel u de aanbiedingen kunt gebruiken die u al hebt aangeschaft, kunt u pas nieuwe aanbiedingen kopen als u de stap voor het toewijzen van een globale beheerder hebt voltooid.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Aan de slag":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Beheer overnemen":::
 
 Wanneer u aan de slag selecteert, wordt het volgende scherm weer gegeven:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Aan de slag":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Domeineigendom controleren":::
 
 Uw domein registratie is al voor u ingevuld. Alleen de eigenaar van het domein kan het DNS-bestand bijwerken. door het tekst bestand te kopiëren en toe te voegen aan uw DNS-record, kunnen we controleren of u de eigenaar bent. Het duurt enkele minuten voordat de update is uitgevoerd. U moet zich afmelden bij het partner centrum en u vervolgens weer aanmelden. Uw rol is gewijzigd in globale beheerder.
 
@@ -96,11 +96,11 @@ Uw domein registratie is al voor u ingevuld. Alleen de eigenaar van het domein k
 
 Volg de rond leiding door uw dash board. Hier kunt u uw lidmaatschap beheren, een bedrijfs profiel voor verwijzingen toevoegen, registreren in het Cloud Solution Provider-programma en meldingen en aanbiedingen die relevant zijn voor uw bedrijf op elk gewenst moment weer geven door **dash board** te selecteren. U kunt ook prikkels beheren, kopen op Marketplace, registreren voor Go-to-Market-Services en meer.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Aan de slag":::
+:::image type="content" source="images/migration/fre.png" alt-text="Volg de rond leiding":::
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>De micro soft-partner overeenkomst ondertekenen
 
-Als u een indirecte wederverkoper bent en u uw partner Center-account hebt ingesteld, moet u zich nog steeds officieel inschrijven in het Cloud Solution Provider-programma. Als u de status van uw lidmaatschap wilt controleren, gaat u naar uw [partner profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) en bevestigt u het account type. Schrijf u vervolgens in als een [indirecte wederverkoper](enrolling-in-the-csp-program.md).
+Als u een indirecte wederverkoper bent en u uw partner Center-account hebt ingesteld, moet u zich nog steeds officieel inschrijven in het Cloud Solution Provider-programma. Als u de status van uw lidmaatschap wilt controleren, gaat u naar uw [juridische profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) en bevestigt u het account type. Schrijf u vervolgens in als een [indirecte wederverkoper](enrolling-in-the-csp-program.md).
 
  Zodra u bent Inge schreven als een indirecte wederverkoper, accepteert u de [CSP-relatie aanvraag met uw indirecte provider](indirect-reseller-tasks-in-partner-center.md).
 
@@ -112,7 +112,7 @@ Ga vervolgens akkoord met de micro soft-partner overeenkomst in het [dash board]
 
 - [Microsoft Partner-overeenkomst](microsoft-partner-agreement.md)
 
-- [Gebruikers accounts maken](create-user-accounts-and-set-permissions.md)
+- [Gebruikersaccounts maken](create-user-accounts-and-set-permissions.md)
 
 - [Gebruikersrollen en -machtigingen toewijzen](permissions-overview.md)
 
