@@ -1,27 +1,27 @@
 ---
 title: Problemen met betalingen en inkomsten oplossen
 ms.topic: article
-ms.date: 10/30/2020
+ms.date: 02/05/2021
 description: Meer informatie over het oplossen van problemen zoals ontbrekende of onjuiste inkomsten, geschiktheids problemen en het afstemmen van uw prikkels.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189761"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834880"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Problemen oplossen met ontbrekende betalingen, onjuiste inkomsten en andere problemen
 
-**Van toepassing op** :
+**Van toepassing op**:
 
 - Partnercentrum
 
-**Juiste rollen** :
+**Juiste rollen**:
 
 - Prikkel beheerder
 
@@ -37,7 +37,7 @@ Validatie kan tot 48 uur in beslag nemen. Gedurende deze periode wordt de profie
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Hoe weet ik of mijn uitbetalings- en belastingprofiel goed is ingevuld?
 
-De status van uw inschrijving wordt weergegeven op de pagina Overzicht. Wanneer u klaar bent met het maken van uw profielen, wordt de status **van de registratie gevalideerd** . Nadat uw gegevens zijn gevalideerd, wordt de status gewijzigd in **geregistreerd** . Deze status geeft aan dat uw uitbetalings-en BTW-profiel en uw inschrijving zijn voltooid.
+De status van uw inschrijving wordt weergegeven op de pagina Overzicht. Wanneer u klaar bent met het maken van uw profielen, wordt de status **van de registratie gevalideerd**. Nadat uw gegevens zijn gevalideerd, wordt de status gewijzigd in **geregistreerd**. Deze status geeft aan dat uw uitbetalings-en BTW-profiel en uw inschrijving zijn voltooid.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Waarom moet ik mijn belastingprofiel bijwerken als ik dit met een nieuw incentive-programma wil gebruiken?
 
@@ -62,17 +62,35 @@ Ontbrekende of onjuiste betalingen hebben vaak een van de volgende oorzaken:
   
   3. Selecteer de gewenste document koppeling en controleer de secties 
 
-De geschiktheid van de **partner** en de **in aanmerking komende opbrengst regels** .
+De geschiktheid van de **partner** en de **in aanmerking komende opbrengst regels**.
 
 - **Het betalings profiel is mogelijk niet volledig.** De startdatum voor uw incentive-beloning is de eerste dag van de maand waarin u aan alle geschiktheidsvereisten hebt voldaan, met inbegrip van onboarding met uitbetalings- en belastinggegevens Winsten zijn niet beschikbaar voor de maanden voorafgaand aan het indienen van de uitbetalings- en belastinggegevens Als u bijvoorbeeld alle vereisten in april 2020 indient, is de startdatum van uw verdiensten 1 april 2020.
-- **Mogelijk hebt u een openstaande actie** .  Het kan zijn dat uw winsten niet worden verwerkt omdat u een actie hebt die nog niet is uitgevoerd.
+- **Mogelijk hebt u een openstaande actie**.  Het kan zijn dat uw winsten niet worden verwerkt omdat u een actie hebt die nog niet is uitgevoerd.
 
   **De openstaande acties weer geven**
 
   1. Meld u aan bij [partner prikkels](https://partner.microsoft.com/membership/partner-incentives).
-  2. Open de pagina **transactie geschiedenis** . Controleer de velden op deze pagina op openstaande acties die moeten worden uitgevoerd, zoals een **Onverwerkt BTW-profiel** , een **betalings profiel in behandeling** of een **inzending van BTW-facturen in behandeling** .
+  2. Open de pagina **transactie geschiedenis** . Controleer de velden op deze pagina op openstaande acties die moeten worden uitgevoerd, zoals een **Onverwerkt BTW-profiel**, een **betalings profiel in behandeling** of een **inzending van BTW-facturen in behandeling**.
 
 Neem contact op met de [ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)als deze acties niet helpen en uw betalingen nog steeds ontbreken of onjuist zijn.
+
+## <a name="how-can-i-reconcile-my-adjustments"></a>Hoe kan ik mijn aanpassingen afstemmen?
+
+U kunt uw aanpassingen vinden en afstemmen door uw verdienen-en transactie gegevens te downloaden.
+
+1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
+2. Selecteer in de bovenste navigatie balk het pictogram Money en selecteer vervolgens **transactie geschiedenis**.
+3. Pas de juiste filters toe. (Zie de **belang rijke** opmerking hieronder.)
+4. Nadat u uw gegevens hebt gefilterd, selecteert u **Start downloaden** en selecteert u vervolgens **gegevens exporteren**. Uw gegevens worden in een CSV-bestand geopend.
+5. Navigeer in het CSV-bestand naar kolom P, **type aanverdienen**.
+6. Deze kolom filteren op **aanpassings kortingen**. U kunt de maand van elke aanpassing bekijken in kolom S.
+
+>[!IMPORTANT]
+>Aanpassingen die worden toegepast op eerdere inkomsten perioden, zijn niet zichtbaar in de winst voor de maand waarin de correctie werd toegepast. Aanpassingen worden altijd weer gegeven in het rapport inkomsten voor de maand waarin de correctie is toegepast.
+>
+>Bijvoorbeeld, een correctie voor de inkomsten van januari 2019 die in september 2019 is verwerkt, weerspiegelt niet het bedrag van de inkomsten voor september 2019. Wanneer de betaling voor september 2019 wordt ontvangen, wordt de correctie opgenomen in januari 2019 die in september is toegepast. In dit scenario moet u de transactie gegevens voor januari 2019 downloaden om te zien welke aanpassing is toegepast.
+>
+>Houd dit in acht wanneer u uw datum filters instelt. Zoals hierboven vermeld, zijn aanpassingen voor vorige Peri Oden alleen zichtbaar in de maand waarin de correctie werd toegepast. Controleer of het geselecteerde datum bereik overeenkomt met de maand van de correctie die u wilt zoeken. U moet mogelijk **Alles wissen** selecteren om uw filters te verwijderen en vervolgens nieuwe items Toep assen.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Waarom worden er twee verschillende valuta's gebruikt voor de betalingen voor mijn claims voor samenwerking?
 
@@ -123,7 +141,7 @@ Met deze weer gave kunt u betalingen voor alle Program ma's en MPN-Id's weer gev
 | Bekijk uw betalings gegevens per regel, met inbegrip van loon-en betalings bedragen in de lokale valuta  | Bekijk het veld **lijst met betalingen**   |
 | Een remise brief downloaden   |  **Betalings remise** selecteren  |
 | Details van transactie niveau weer geven voor een specifieke betaling |  **Weer gave** selecteren  |
-| Transactie gegevens exporteren naar Excel  |  Selecteer **downloaden starten** en klik vervolgens op **gegevens exporteren** . Houd er rekening mee dat alle geselecteerde filters worden toegepast op de geëxporteerde gegevens. Zodra de status is gewijzigd in voltooid, selecteert u **downloaden** en volgt u de aanwijzingen voor het exporteren van het rapport met gedetailleerde trans acties. Vernieuw de pagina als de status niet binnen vijf minuten wordt bijgewerkt.  |
+| Transactie gegevens exporteren naar Excel  |  Selecteer **downloaden starten** en klik vervolgens op **gegevens exporteren**. Houd er rekening mee dat alle geselecteerde filters worden toegepast op de geëxporteerde gegevens. Zodra de status is gewijzigd in voltooid, selecteert u **downloaden** en volgt u de aanwijzingen voor het exporteren van het rapport met gedetailleerde trans acties. Vernieuw de pagina als de status niet binnen vijf minuten wordt bijgewerkt.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Ontbrekende of onjuiste inkomsten en betalingen
 
@@ -135,11 +153,11 @@ Neem contact op met de [ondersteuning](https://partner.microsoft.com/dashboard/s
 
 Als er sprake is van een discrepantie in uw verdiensten, voert u de volgende stappen uit:
 
-1. **Controleer of u in aanmerking komt voor verdiensten** .  De winst is alleen beschikbaar als u voldoet aan de geschiktheid van het [programma](incentives-determined-your-program-eligibility.md) en de [winst geschiktheid](incentives-confirm-your-earnings-eligibility.md).
+1. **Controleer of u in aanmerking komt voor verdiensten**.  De winst is alleen beschikbaar als u voldoet aan de geschiktheid van het [programma](incentives-determined-your-program-eligibility.md) en de [winst geschiktheid](incentives-confirm-your-earnings-eligibility.md).
 
-2. **Controleer of het betalingsprofiel is voltooid** .  De startdatum voor uw incentive-beloning is de eerste dag van de maand waarin u aan alle geschiktheidsvereisten hebt voldaan, met inbegrip van onboarding met uitbetalings- en belastinggegevens Winsten zijn niet beschikbaar voor de maanden voorafgaand aan het indienen van de uitbetalings- en belastinggegevens Als u bijvoorbeeld alle vereisten in april 2020 indient, is de startdatum van uw verdiensten 1 april 2020. 
+2. **Controleer of het betalingsprofiel is voltooid**.  De startdatum voor uw incentive-beloning is de eerste dag van de maand waarin u aan alle geschiktheidsvereisten hebt voldaan, met inbegrip van onboarding met uitbetalings- en belastinggegevens Winsten zijn niet beschikbaar voor de maanden voorafgaand aan het indienen van de uitbetalings- en belastinggegevens Als u bijvoorbeeld alle vereisten in april 2020 indient, is de startdatum van uw verdiensten 1 april 2020. 
 
-3. **Controleer of u aan de vereisten hebt voldaan** .  Controleer of u voldoet aan de regels voor [geschiktheid](#my-payment-is-missing-or-incorrect) en in aanmerking komende inkomsten van uw prestatie programma.
+3. **Controleer of u aan de vereisten hebt voldaan**.  Controleer of u voldoet aan de regels voor [geschiktheid](#my-payment-is-missing-or-incorrect) en in aanmerking komende inkomsten van uw prestatie programma.
 
 Neem contact op met de [ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)als deze acties niet helpen en uw inkomsten nog niet zijn afgestemd.
 
@@ -151,7 +169,7 @@ Neem contact op met de [ondersteuning](https://partner.microsoft.com/dashboard/s
 
 3. Selecteer de document koppeling voor het betreffende programma.
 
-4. In het document, raadpleegt u de sectie **programma structuur en-tarieven** .
+4. In het document, raadpleegt u de sectie **programma structuur en-tarieven**.
 
 ## <a name="next-steps"></a>Volgende stappen
 

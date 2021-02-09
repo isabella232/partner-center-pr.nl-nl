@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098853"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834816"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>On-premises software verkopen via het programma Cloud Solution Provider (CSP)
 
@@ -40,7 +40,7 @@ Als u software-abonnementen namens een klant wilt kopen, gaat u naar de detail p
 Nadat u uw software hebt aangeschaft, moeten uw klanten deze downloaden. Gebruik de volgende procedure om dit te doen.
 
 >[!NOTE]
->U moet een beheerders agent zijn voor het verkrijgen van sleutels en down loads.
+>U moet een beheerders agent zijn om de koppeling naar sleutels en down loads op te halen.
 
 1. Ga naar de detail pagina van uw klant en selecteer vervolgens **Software**. U ziet een lijst van alle software die u namens de klant hebt aangeschaft.
 2. Kopieer de ' diepe koppeling ' van een **koppeling naar software product codes en down loads** en deel de koppeling met uw klant. Wanneer ze deze koppeling selecteren, worden ze omgeleid naar het micro soft-beheer centrum om de product codes te downloaden en te verkrijgen.

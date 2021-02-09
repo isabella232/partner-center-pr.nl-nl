@@ -1,19 +1,19 @@
 ---
 title: Veelgestelde vragen over prikkels
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Veelgestelde vragen over micro soft-prikkels. Dit artikel bevat vragen over gebruikers rollen, hoe u zich kunt inschrijven of wat u moet doen over fout berichten.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624218"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835064"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Veelgestelde vragen over prikkels
 
@@ -67,17 +67,11 @@ De waarschijnlijke reden waarom u geen stimulansen ziet, is dat u niet over de j
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Er ontbreken enkele inschrijvingen op de overzichts pagina van prikkels.
 
-Als u minder registraties ziet dan u verwacht op de pagina voor het prikkel **overzicht** , kunt u het volgende doen.
+Als u een uitnodiging hebt ontvangen van of Inge schreven in, een prestatie programma dat niet meer zichtbaar is in het dash board, moet u controleren of u de juiste toegang hebt. Alleen gebruikers met de rol gebruiker of prikkel beheerder kunnen het programma zien. Zie [uw rol zoeken](https://docs.microsoft.com/partner-center/find-your-role).
 
-1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
+Als u uw rol of machtigingen wilt wijzigen, neemt u contact op met de globale account of de beheerder van uw bedrijf. Als u wilt weten wie deze personen zijn, raadpleegt u [uw globale beheerder zoeken](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
 
-2. Selecteer onder **instellingen** [gebruikers beheer](https://partner.microsoft.com/pcv/users).
-
-3. Selecteer uw naam om uw machtigingen weer te geven.
-
-Als u uw rol of machtigingen wilt wijzigen, raadpleegt u de algemene of account beheerder van uw bedrijf.
-
-Op deze pagina worden alleen inschrijvingen weer gegeven die zijn gekoppeld aan het wereld wijde partner account (PGA) dat is gekoppeld aan de Azure AD-Tenant. Als uw bedrijf meer dan één PGA heeft, moet u voor elk abonnement verschillende referenties hebben.
+De pagina overzicht bevat alleen inschrijvingen die zijn gekoppeld aan het wereld wijde partner account (PGA) dat is gekoppeld aan de Azure AD-Tenant. Als uw bedrijf meer dan één PGA heeft, moet u voor elk abonnement verschillende referenties hebben.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Met wie moet ik contact opnemen als ik een fout bericht ontvang of hulp nodig tijdens het inschrijvings proces?
 
