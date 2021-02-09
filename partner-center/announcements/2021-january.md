@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
+ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098870"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "99974753"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -587,8 +587,8 @@ De prijs lijsten op basis van licenties voor januari 2021 en februari 2021 bevat
 
 Beïnvloede valuta's: 
 
-- Microsoft 365 de prijs problemen voor E3 zijn beperkt tot alleen deze valuta's: JPY (Japanse yen), GBP (geweldig Britse pond), EUR (Europese Unie), AUD (Australische dollar). 
-- Microsoft 365 Business Basic-problemen zijn beperkt tot USD (Verenigde Staten dollars). 
+- Microsoft 365 de prijs problemen voor E3 zijn beperkt tot alleen deze valuta's: Japanse yen (JPY), geweldig Britse pond (GBP), Europese Unie (EUR), Australische dollar (AUD). 
+- Microsoft 365 Business basis problemen zijn beperkt tot alleen Verenigde Staten dollars (USD). 
 
 Partners moeten verwijzen naar de momenteel beschik bare prijs lijsten voor januari en februari voor de juiste prijzen. 
 
