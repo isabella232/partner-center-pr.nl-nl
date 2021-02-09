@@ -59,6 +59,9 @@
         - name: Meer informatie over competenties
           href: learn-about-competencies.md
           displayName: mpn
+        - name: Inschrijven als leer partner
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: Veelgestelde vragen over competenties
           href: competencies-faq.md
           displayName: 'renew, mpn'
