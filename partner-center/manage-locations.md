@@ -1,7 +1,7 @@
 ---
 title: Locaties in uw partner account beheren
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over het toevoegen van een nieuwe locatie en hoe de MPN-ID van de locatie wordt gebruikt in prikkel Programma's, CSP-bedrijven, abonnementen en andere trans acties.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624269"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005913"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Uw MPN-account locaties beheren en een nieuwe locatie toevoegen
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Uw MPN-account locaties beheren en een locatie toevoegen (verwijderen)
 
 
 **Juiste rollen**
@@ -79,7 +79,11 @@ Als u een nieuw CSP-account wilt toevoegen, moet u eerst controleren of u aan de
 :::image type="content" source="images/legal-biz.png" alt-text="Een nieuw juridisch bedrijf toevoegen":::
 
 > [!NOTE]
-> Zodra een locatie is toegevoegd in het partner centrum, kan deze niet meer worden verwijderd. U ziet **MPN** in het menu links van partner centrum als u de juiste MPN-id hebt gebruikt om u aan te melden.
+> Zodra een locatie is toegevoegd in het partner centrum, kunt u deze niet meer verwijderen. U ziet **MPN** in het menu links van partner centrum als u de juiste MPN-id hebt gebruikt om u aan te melden.
+
+## <a name="delete-a-location"></a>Een locatie verwijderen
+
+Als u een locatie uit uw account wilt verwijderen, moet u contact opnemen met de [partner ondersteuning](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Zorg ervoor dat u begrijpt wat het effect is van deze actie. Verwijderde locaties kunnen niet worden opgehaald en items die zijn gekoppeld aan de specifieke MPN-id, worden niet meer herkend of zijn actief voor uw bedrijf.
 
 ## <a name="change-country-of-partner-global-account"></a>Het wereld wijde account land van de partner wijzigen 
 
