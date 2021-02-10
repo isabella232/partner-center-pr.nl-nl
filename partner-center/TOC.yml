@@ -9,7 +9,7 @@
     - name: Partner van Microsoft
       href: mpn-overview.md
       displayName: mpn
-    - name: Een Partnercentrum-account maken
+    - name: Een MPN-account maken in het partner centrum
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Een zakelijk e-mailadres krijgen
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: Uw aanbiedingen vernieuwen
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: Een restitutie aanvragen
+          href: mpn-refund-request.md
           displayName: mpn
         - name: Uw MPN-voordelen vinden
           href: mpn-find-benefits.md
@@ -86,6 +89,9 @@
           displayName: mpn
         - name: Voordelen van Go-to-Market
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
+        - name: Demo's voor MPN-partners
+          href: mpn-demos.md
           displayName: mpn
         - name: Veelgestelde vragen over de voordelen
           href: benefits-faq.md
