@@ -1,5 +1,5 @@
 ---
-title: Een Partnercentrum-account maken
+title: Een MPN-account maken in het partner centrum
 ms.topic: article
 ms.date: 02/08/2021
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 129cdd337f9b475b37d14c4e68058736b473fe33
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005943"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013687"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Een partner centrum-account maken voor het beheren van de netwerk voordelen en-competenties
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Een MPN-account maken in het partner centrum om netwerk voordelen en-competenties te beheren
 
 
-Als u geen ervaring hebt met Microsoft Partner Network en geen MPN-ID hebt, kunt u uw inschrijving starten door de [inschrijvings instructies](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)te volgen.
+Als u niet bekend bent met Microsoft Partner Network (MPN) en geen MPN-ID hebt, kunt u uw inschrijving starten door de [inschrijvings instructies](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)te volgen.
 
 ## <a name="prerequisites"></a>Vereisten 
 
 Wanneer u klaar bent om een account te maken in Partner Center om aan de slag te gaan, moet u de volgende items op voor hand hebben.  Het kan een paar minuten duren voordat u deze items verzamelt voordat u aan de slag gaat:
 
-- Zakelijk e-mail adres of Office 365-werk account. Lees meer informatie over [het werk account van uw bedrijf en het partner centrum](azure-active-directory-tenants-and-partner-center.md) 
+- Zakelijk e-mail adres of Office 365-werk account. Lees voor meer informatie [het werk account van uw bedrijf en het partner centrum](azure-active-directory-tenants-and-partner-center.md) 
  
 - De juridische bedrijfs naam en het adres van uw bedrijf.
 
@@ -61,7 +61,7 @@ Zodra u de gegevens van het bedrijf hebt opgegeven, voert u de gegevens van de p
 De primaire contact persoon moet degene zijn in uw bedrijf. we kunnen contact opnemen met uw toepassing (dit kan u of een andere persoon in uw bedrijf zijn).
 
 >[!IMPORTANT]
->Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om het e-mail adres te verifiëren en ervoor te zorgen dat het e-mail adres van uw bedrijf is, nadat de primaire contact persoon het e-mail adres heeft geverifieerd, gaan we verder met de beoordeling van de gegevens die u hebt verstrekt. Verificatie duurt meestal 3-5 werk dagen. 
+>Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om het e-mail adres te verifiëren en ervoor te zorgen dat het e-mail adres bij uw bedrijf hoort. Nadat de primaire contact persoon het e-mail adres heeft geverifieerd, gaan we verder met de door u verstrekte informatie. Verificatie duurt meestal 3-5 werk dagen. 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Account details weer geven of de MPN-overeenkomst weer geven en downloaden
 
