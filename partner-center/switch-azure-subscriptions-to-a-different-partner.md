@@ -9,18 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92528660"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281264"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Meer informatie over het overdragen van Azure-abonnementen van een klant naar een andere partner
 
 **Van toepassing op**
 
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 - Partner centrum voor micro soft Global Cloud
 - Partners in het Cloud Solution Provider-programma (CSP)
 
@@ -43,9 +43,9 @@ Als u de Azure-Services of-abonnementen van een klant wilt overschakelen naar ee
 
    Een Azure-service ticket maken van het partner centrum om een abonnements overdracht aan te vragen:
 
-   1. Selecteer in het menu Partner Center **klanten** , selecteer uw klant in de lijst en selecteer vervolgens **Service beheer** . 
+   1. Selecteer in het menu Partner Center **klanten**, selecteer uw klant in de lijst en selecteer vervolgens **Service beheer**. 
 
-   2. Selecteer in de sectie **ondersteunings tickets** de vervolg keuzelijst **nieuw ticket** en kies **Microsoft Azure** .
+   2. Selecteer in de sectie **ondersteunings tickets** de vervolg keuzelijst **nieuw ticket** en kies **Microsoft Azure**.
    
    3. Selecteer een **nieuwe ondersteunings aanvraag** in het [Azure Portal](https://portal.azure.com).
    
@@ -53,26 +53,26 @@ Als u de Azure-Services of-abonnementen van een klant wilt overschakelen naar ee
    
    5. Selecteer in stap 2 **C-minimale impact** en kies **andere algemene vragen** als het probleem type.
    
-   6. Down load het [formulier CSP-abonnements overdracht](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+   6. Down load het [formulier CSP-abonnements overdracht](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC).
 
-3. De partner van het abonnement: Vul het formulier voor de overdracht van het [CSP-abonnement](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)in, onderteken dit en stuur het vervolgens naar de klant. 
+3. De partner van het abonnement: Vul het formulier voor de overdracht van het [CSP-abonnement](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)in, onderteken dit en stuur het vervolgens naar de klant. 
 
    U hebt de volgende informatie nodig om het formulier in te vullen:
 
-   - De contact gegevens en micro soft-ID van de huidige partner. Selecteer in het menu van het partner centrum **account instellingen** &gt; **organisatie profiel** en gebruik de **micro soft-id** , de **organisatie naam** en het **adres** dat hier wordt vermeld.
+   - De contact gegevens en micro soft-ID van de huidige partner. Selecteer in het menu van het partner centrum **account instellingen** &gt; **organisatie profiel** en gebruik de **micro soft-id**, de **organisatie naam** en het **adres** dat hier wordt vermeld.
 
    - De micro soft-ID van de klant. Selecteer **klanten** in het menu van het partner centrum en vouw vervolgens de lijst van de klant uit om de **micro soft-id** te bekijken.
 
    - De abonnements-ID die moet worden overgedragen. Selecteer in de lijst uitgebreide klant de optie **abonnementen weer geven** en vouw vervolgens het gekozen abonnement uit om de **abonnements-id** weer te geven.
 
    >[!Note]
-   >Het overdragen van een abonnement resulteert in twee abonnement-Id's die u ziet op de pagina **abonnement bewerken** van het overgedragen abonnement: **1** -de abonnements-id van het partner centrum wordt gebruikt voor facturerings doeleinden. **2** -de oorspronkelijke id van het Azure-abonnement wordt bewaard en wordt in partner centrum en in de Azure-beheer portal weer gegeven. Deze ID wordt weer gegeven in het afstemmings bestand.  **Wanneer u logboek registratie tickets ondersteunt, moet u beide Id's gebruiken.**
+   >Het overdragen van een abonnement resulteert in twee abonnement-Id's die u ziet op de pagina **abonnement bewerken** van het overgedragen abonnement: **1**-de abonnements-id van het partner centrum wordt gebruikt voor facturerings doeleinden. **2**-de oorspronkelijke id van het Azure-abonnement wordt bewaard en wordt in partner centrum en in de Azure-beheer portal weer gegeven. Deze ID wordt weer gegeven in het afstemmings bestand.  **Wanneer u logboek registratie tickets ondersteunt, moet u beide Id's gebruiken.**
 
 4. De klant en de nieuwe partner voor het abonnement:
 
    Bekijk het formulier, vul de informatie in over de nieuwe partner en onderteken deze. Controleer of de nieuwe klant een contract overeenkomst heeft. Het formulier opnieuw verzenden naar de huidige partner van de record.
 
-   *Belang rijk* : als de nieuwe CSP-partner geen wederverkoper-relatie met de klant heeft, moet deze een verbinding tot stand brengen voordat het abonnement wordt overgedragen. [U vindt hier informatie over hoe u dit kunt doen](request-a-relationship-with-a-customer.md).
+   *Belang rijk*: als de nieuwe CSP-partner geen wederverkoper-relatie met de klant heeft, moet deze een verbinding tot stand brengen voordat het abonnement wordt overgedragen. [U vindt hier informatie over hoe u dit kunt doen](request-a-relationship-with-a-customer.md).
 
    >[!Note]
    >De nieuwe CSP-partner en de Tenant van de klant moeten zich in hetzelfde land begaan. 

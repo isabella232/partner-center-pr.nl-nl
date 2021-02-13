@@ -9,16 +9,66 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624167"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281224"
 ---
 # <a name="february-2021-announcements"></a>Aankondigingen van februari 2021
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Partner Center voor februari 2021.
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Prijs wijzigingen voor Microsoft 365 E3 voor maart 2021
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-02-11
+- Aanbiedingen/markten
+
+### <a name="affected-audience"></a>Betrokken doel groep
+
+Alle partners handelen via het programma Cloud Solution Provider (CSP) in EUR, AUD, GBP en JPY.
+
+### <a name="details"></a>Details
+
+De prijs lijst voor de preview-versie van de licentie voor maart 2021 is bijgewerkt, zodat de prijs wijzigingen voor Microsoft 365 E3 worden meegenomen. De betrokken aanbieding en valuta's worden hieronder weer gegeven. 
+ 
+Naam van aanbieding: Microsoft 365 E3-aanbiedings-ID: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 material ID: AAA-35638
+
+Deze Microsoft 365 E3-Prijs updates zijn beperkt tot deze valuta's: JPY (Japanse yen), GBP (geweldig Britse pond), EUR (Europese Unie), AUD (Australische dollar). Er zijn andere prijs wijzigingen in het maart-bestand en partners moeten de nieuwste preview-versie krijgen om de andere verwachte wijzigingen weer te geven.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Partners moeten de nieuwste prijs lijst bestanden downloaden van het partner centrum om de nieuwste prijzen voor maart te krijgen. 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Prijs lijst voor preview van licentie is bijgewerkt voor Noorse kroon
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-02-10
+- Aanbiedingen/markten
+
+### <a name="affected-audience"></a>Betrokken doel groep
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+
+### <a name="summary"></a>Samenvatting
+
+De prijs lijst voor de preview-versie van de licentie is bijgewerkt voor de prijs van Noorse kroon voor 1 maart 2021.
+
+### <a name="details"></a>Details
+
+De FX-tarief wijzigingen voor maart waren niet opgenomen in de vorige prijs lijsten op basis van een licentie van maart. Dit bestand is bijgewerkt met de verwachte prijs wijzigingen voor Noorse kroon. Partners moeten het meest recente preview-prijs bestand ophalen om te zien of deze wijzigingen worden verwacht voor 1 maart 2021. Deze wijzigingen gelden alleen voor prijzen voor Noorse kroon-valuta's.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Partners moeten het huidige prijslijst voorbeeld bestand downloaden voor de verwachte wijzigingen voor 1 maart 2021.
 
 _______________
 

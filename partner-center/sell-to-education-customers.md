@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916893"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281306"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Aanbiedingen verkopen aan onderwijs klanten en een onderwijs klant maken in het partner centrum
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916893"
 
 ## <a name="create-an-education-customer"></a>Een onderwijsklant maken
 
-In dit artikel wordt uitgelegd hoe u een onderwijs klant maakt in partner centrum en verkoopt aan deze producten. Het bevat ook informatie over het weer geven van de verificatie status en het opnieuw verzenden van de verificatie aanvraag, indien nodig.
+In dit artikel wordt uitgelegd hoe u een onderwijs klant maakt in partner centrum en verkoopt aan deze producten. Het bevat ook informatie over het weer geven van de verificatie status en het opnieuw verzenden van de verificatie aanvraag, indien nodig. Educatie aanbod is momenteel **alleen beschikbaar voor services op basis van licenties** , zoals Microsoft 365, Dynamics, intune, enzovoort. Het is niet beschikbaar voor andere typen (software-abonnementen, permanente software of Azure-producten).
 
 > [!IMPORTANT]
 > Micro soft verifieert elke nieuw gemaakte onderwijs eigenaar van de klant om ervoor te zorgen dat ze gekwalificeerd zijn voor onderwijs aanbiedingen.  Zorg ervoor dat u de vereiste gegevens zo nauw keurig en volledig kunt invoeren om vertragingen in het verificatie proces te voor komen.
@@ -75,7 +75,7 @@ Status voorbeelden:
 
 Als uw klant de eerste verificatie niet heeft uitgevoerd, kunt u de gegevens nu corrigeren en opnieuw indienen.
 
-### <a name="correct-the-customer-account-information"></a>Corrigeer de account gegevens van de klant
+### <a name="correct-the-customer-account-information"></a>Accountgegevens van klant corrigeren
 
 U moet over globale beheerders bevoegdheden beschikken om de gegevens van de klant bij te werken. U werkt de gegevens op de Office 365-portal bij, omdat deze gegevens niet kunnen worden bijgewerkt vanuit de portal van de partner centrum.
 
@@ -83,7 +83,7 @@ U moet over globale beheerders bevoegdheden beschikken om de gegevens van de kla
 
 2. Vernieuw de browser om de pagina opnieuw in te stellen. Er wordt een **bijwerk** knop en de **status van de speciale kwalificaties** ingesteld op **geen**.
 
-3. Selecteer **Bijwerken**. Selecteer op de pagina **Service beheer** de optie **Office 365**.
+3. Selecteer **Update**. Selecteer op de pagina **Service beheer** de optie **Office 365**.
 
 4. U wordt omgeleid naar het Office 365-beheer centrum op een nieuw tabblad van uw browser. U wordt mogelijk gevraagd om u aan te melden met uw referenties.
 

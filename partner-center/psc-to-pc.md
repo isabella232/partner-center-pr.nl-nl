@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588747"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281346"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -158,7 +158,7 @@ Volg de onderstaande instructies voor het instellen van de deals in PSC voor een
     - Geschatte Sluitings datum van deal
     - Partner notities
 
-U kunt de mogelijkheden voor bulksgewijs downloaden en uploaden in PSC gebruiken om de gegevens voor alle in aanmerking komende deals op te schonen.
+U kunt de mogelijkheden voor bulksgewijs downloaden en uploaden in PSC gebruiken om alle ontbrekende details toe te voegen aan de deal voor alle in aanmerking komende deals.
 
 >[!Note]
 > De migratie van deals slaagt zelfs als niet aan de bovenstaande vereisten wordt voldaan. Maar u kunt de status van de deal niet wijzigen als een van de hierboven genoemde verplichte velden in het partner centrum niet beschikbaar is. U moet vervolgens alle vereiste gegevens invoeren die ontbreken in de deals in Partner Center om aan de slag te gaan. **Het wordt ten zeerste aangeraden om de in aanmerking komende deals in PSC op te schonen voordat u deze migreert naar het partner centrum.**
@@ -178,9 +178,9 @@ Het rapport bevat de onderstaande Details.
 4. **PSC-deal-id** : de unieke id in PSC voor de deal.
 5. **Fouten** : om aan te geven of er fouten zijn opgetreden tijdens het migreren van een specifieke deal.
 
-Alle deals die zijn gemigreerd, zijn niet zichtbaar in PSC. U kunt werken met de gemigreerde deals op de PC. Er worden geen wijzigingen aangebracht in de interacties met micro soft-verkopers voor het verkopen van trans acties.
+Alle deals die zijn gemigreerd, zijn niet zichtbaar in PSC. U kunt door gaan met de gemigreerde deals op de PC, waaronder het volt ooien van de registratie van deals op de PC. Er worden geen wijzigingen aangebracht in de interacties met micro soft-verkopers voor het verkopen van trans acties.
 
-Deals die zijn gemigreerd vanuit PSC, zijn beschikbaar in de tabbladen binnenkomend en uitgaand op basis van de bron van de deal. Alle door partners gemaakte deals zijn beschikbaar op het tabblad Uitgaand en door micro soft geïnitieerde deals zijn beschikbaar op het tabblad binnenkomend van partner Center. Er zijn twee soorten deals die na de migratie worden gemaakt.
+Deals die zijn gemigreerd vanuit PSC, zijn beschikbaar in de tabbladen binnenkomend en uitgaand op basis van de bron van de deal. Alle deals die door uw bedrijf worden gedeeld, zijn beschikbaar op het tabblad Uitgaand en door micro soft geïnitieerde deals zijn beschikbaar op het tabblad binnenkomend van partner Center. Er zijn twee soorten deals die na de migratie worden gemaakt.
 
 1. **Trans acties samen verkopen** : deals die zijn gemarkeerd als co-sell in PSC, worden gemaakt als trans acties voor samen verkoop in Partner Center.
 2. Trans acties met een door de **partner geleide** deals: deals die niet zijn gemarkeerd als co-Sell, worden gemaakt als deals met betrekking tot de partner in Partner Center. Deals met een partner zijn zichtbaar voor verkopers van micro soft en kunnen worden geüpgraded voor het verkopen van deals voordat de eind status wordt bereikt (gewonnen, verloren). Daarnaast komen de door partners geleide deals in aanmerking voor de registratie van deals als er een stimulans in aanmerking komt voor de deal.
@@ -386,12 +386,20 @@ Het partner centrum is niet rechtstreeks toegankelijk via uw PDMs, zoals bij een
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>De juiste MPN-ID zoeken als uw account in PSC niet is gekoppeld aan een geldige MPN
 
-Als u hier een span doek hebt gezien in een PSC met de melding ' PSC ongeldig MPN-ID-koppelings probleem ', bent u op de juiste plaats.
+Als u hier een span doek hebt gezien in een PSC met de melding ' PSC ongeldig MPN-ID-koppelings probleem ', bent u op de juiste plaats. Uw account is mogelijk gekoppeld aan een ongeldige MPN-ID vanwege de volgende redenen:
+
+- Uw bedrijf heeft geen partner centrum-account.
+- Uw PDM heeft een fout gemaakt tijdens het invoeren van de MPN-ID van uw account in de interne systemen die uw PSC-account koppelen aan uw partner centrum-account (MPNID).
+- Uw bedrijf heeft de migratie van het Partner Membership Center (PMC) naar de PC niet voltooid.
 
 Zoek eerst de juiste MPN-ID door de onderstaande stappen te volgen
 
 - Meld u aan bij uw partner centrum-account
 - Gebruik de instructies in de [account instellingen documentatie](./partner-center-account-setup.md#locate-your-mpn-id) om de MPN-id te vinden.
+
+Hieronder ziet u een scherm afbeelding met de exacte locatie waar u de MPN-ID van uw partner centrum kunt vinden
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Installatie kopie met de account instellingen waar de partner hun MPN-ID kan vinden."  lightbox="images/pscmigration/findingMPNID.png":::
 
 Volgende,
 

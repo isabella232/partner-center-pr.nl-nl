@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979818"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281285"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prijzen en aanbiedingen voor Office 365, Dynamics CRM, Enter prise Mobility Suite, Azure en meer
 
@@ -45,7 +45,7 @@ Als u de nieuwste Program ma's en aanbiedingen van de Cloud solution provider wi
 
 Services op basis van licenties bevatten een preview-versie van de prijs lijst, die 30 dagen vóór eventuele wijzigingen wordt geleverd. Als u de prijs lijst preview wilt bekijken, gaat u naar **verkoop > prijzen en aanbiedingen**. Er is geen prijs voorbeeld voor op gebruik gebaseerde services omdat deze services dynamisch zijn. In de volgende tabel wordt uitgelegd hoe de tabel met prijzen kan worden gelezen.
 
-|**Item**        |**Definitie**      |
+|**Item**        |**Definition**      |
 |:-----------   |:-----------   |
 |TOE   |Een nieuw item in de prijs lijst|
 |WIJZIGING   |Wijzigingen in de lijst prijs van maand tot maand. Andere wijzigingen die geen betrekking hebben op de lijst prijs kunnen zich voordoen, partners moeten prijs lijsten vergelijken tussen maanden om wijzigingen aan andere eigenschappen te bepalen.|
@@ -82,7 +82,7 @@ Prijzen op basis van gebruik kunnen in een maand worden gewijzigd. Partners moet
 
 ## <a name="pricing-and-special-segments"></a>Prijzen en speciale segmenten
 
-CSP biedt bepaalde services aan speciale marktsegmenten, bijvoorbeeld onderwijs, non-profit organisaties en overheids Clouds. Niet alle services zijn beschikbaar in elk kanaal. Geen enkel segment wordt standaard ingesteld op de aanroep van het commerciële segment. Alle prijzen op basis van licenties zijn beschikbaar in de prijs lijst op basis van licenties op de pagina prijzen en aanbiedingen. Azure Government prijzen zijn beschikbaar in de prijs lijst op basis van gebruik wanneer u bent aangemeld bij de Azure Government ingeschakelde CSP-Tenant.
+CSP biedt bepaalde services aan speciale marktsegmenten, bijvoorbeeld onderwijs, non-profit organisaties en overheids Clouds. Niet alle services zijn beschikbaar in elk kanaal. Geen enkel segment wordt standaard ingesteld op de aanroep van het commerciële segment. Alle prijzen op basis van licenties zijn beschikbaar in de prijs lijst op basis van licenties op de pagina prijzen en aanbiedingen. Azure Government prijzen zijn beschikbaar in de prijs lijst op basis van gebruik wanneer u bent aangemeld bij de Azure Government ingeschakelde CSP-Tenant. Software-abonnementen en permanente software bieden nog geen ondersteuning voor deze speciale segmenten.
 
 |**Segment**   |**Wie moet worden gekwalificeerd**   |**Partner kwalificeert klant**|**Ingeschakelde product typen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
