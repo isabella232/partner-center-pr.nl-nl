@@ -127,9 +127,6 @@
     - name: Microsoft Partner-overeenkomst - CSP's
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Locaties beheren
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: Hoe indirecte providers hun wederverkopers kunnen helpen bij het aannemen van de MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,6 +194,9 @@
           displayName: mpn
         - name: Uw werkaccount koppelen
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: Locaties beheren
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Domeineigendom controleren
           href: become-global-admin.md
         - name: Accountgegevens controleren
@@ -262,6 +262,8 @@
       items:
         - name: Over collectieve verkoopleads
           href: manage-co-sell-opportunities.md
+        - name: Bulk bewerkingen
+          href: bulk-operations.md
         - name: CRM-connectors voor collectieve verkoop gebruiken
           items:
             - name: Voor Dynamics 365
