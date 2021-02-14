@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281224"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490169"
 ---
 # <a name="february-2021-announcements"></a>Aankondigingen van februari 2021
 
@@ -22,11 +22,49 @@ Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Par
 
 _______________
 
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Inleiding tot micro soft Viva-onderwerpen
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 12 februari 2021
+- Functies
+
+### <a name="affected-audience"></a>Betrokken doel groep
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+
+### <a name="details"></a>Details
+
+Micro soft Vivae-onderwerpen zijn van toepassing op kunst matige intelligentie (AI) om kennis en expertise van uw organisatie te identificeren en deze in gedeelde onderwerpen, zoals producten, klanten of projecten, aan te duiden. Met insluitende onderwerpen over kaarten en onderwerpen vindt u kennis in de context van uw teams, projecten en documenten. AI en mensen werken samen om de kennis en het Opper vlak ervan te verbeteren in de apps die u dagelijks gebruikt. 
+
+Gebruikers moeten een van de volgende licenties hebben om in aanmerking te komen voor Viva-onderwerpen:   
+- Microsoft 365 F1, F3, E3, a3, E5 of A5 
+- Office 365 F3, E1, a1, E3, a3, E5 of A5 
+- Microsoft 365 Business Basic, Standard of Premium 
+- Share point K, abonnement 1 of Plan2 
+
+**Details van aanbieding**
+
+Deze aanbiedingen hebben de ' Topics ' in hun aanbiedings namen in de prijs lijsten van 1 februari. Deze aanbiedings namen worden bijgewerkt met ' Viva-onderwerpen ' wanneer de prijs lijsten worden bijgewerkt op 1 maart.
+
+|**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+|------------------|:--------------------|:------------------|
+|Viva-onderwerpen|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
+|Viva-onderwerpen voor faculteiten|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
+|Viva-onderwerpen voor studenten|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Bekijk de resources voor dit onderwerp en deel deze informatie met de juiste belanghebbenden in uw organisatie.  
+- Meer informatie vindt u in het [Viva-onderwerpen Resource Center](https://resources.techcommunity.microsoft.com/viva-topics).
+
+_______________
+
 ## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Prijs wijzigingen voor Microsoft 365 E3 voor maart 2021
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2021-02-11
+- Datum: 11 februari 2021
 - Aanbiedingen/markten
 
 ### <a name="affected-audience"></a>Betrokken doel groep
@@ -51,7 +89,7 @@ _______________
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2021-02-10
+- Datum: 10 februari 2021
 - Aanbiedingen/markten
 
 ### <a name="affected-audience"></a>Betrokken doel groep
@@ -76,7 +114,7 @@ _______________
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2021-02-05
+- Datum: 5 februari 2021
 - Functies
 
 ### <a name="affected-audience"></a>Betrokken doel groep
@@ -111,7 +149,7 @@ _________________________________________________________
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2021-02-04
+- Datum: 4 februari 2021
 - Functies
 
 ### <a name="impacted-audience"></a>Doel groep
@@ -120,13 +158,13 @@ Alle partners
 
 ### <a name="details"></a>Details
 
-Micro soft biedt competentie-uitbrei ding (met uitzonde ring van de Cloud Business Applications competentie) en geavanceerde specialisatie-uitbrei ding voor partners met jubileum datums (AD) van 1 januari 2021 tot en met 30 juni 2021. Raadpleeg ons blog bericht over [partners](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) voor meer informatie.
+Micro soft biedt competentie-uitbrei ding (met uitzonde ring van de Cloud Business Applications competentie) en geavanceerde specialisatie-uitbrei ding voor partners met jubileum datums (AD) van 1 januari 2021 tot en met 30 juni 2021. Raadpleeg het [blog](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) bericht over partners voor meer informatie.
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nieuwe updates voor de module referrals in Partner Center
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2021-02-03
+- Datum: 5 februari 2021
 - Functies
  
 ### <a name="impacted-audience"></a>Doel groep
@@ -151,7 +189,7 @@ Hier is what's nieuw in de module Partner Center Referrals:
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partners met kant-en-klare aanbiedingen voor de verkoop
 
-- [Verkoop samen met andere partners](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): vraag een andere partner aan bij ons krachtige partner ecosysteem om mee te verkopen en de toegang tot extra doel groepen van de klant te ontgrendelen.  
+- [Verkoop samen met andere partners](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): vraag een andere partner aan bij ons krachtige partner ecosysteem om mee te verkopen en de toegang tot meer doel groepen van de klant te ontgrendelen.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partners met een transactable-aanbieding die in aanmerking komt voor een Azure-oplossing voor prikkel in de commerciële Marketplace
 
@@ -161,14 +199,14 @@ Hier is what's nieuw in de module Partner Center Referrals:
 
 Als u hulp nodig hebt bij het gebruik van een van de nieuwe functies, raadpleegt u de [sectie referrals](https://docs.microsoft.com/partner-center/referrals) in de Knowledge Base of onze informatie over het ondersteunen van materialen die beschikbaar zijn in de [Galerie met webervaringen](https://aka.ms/CoSellExperience) (aanmelden is vereist).
 
-Voor aanvullende ondersteuning kunt u [een ticket openen met ons partner ondersteunings team](https://partner.microsoft.com/support/?stage=1).
+U kunt [een ticket openen met het ondersteunings team van partners](https://partner.microsoft.com/support/?stage=1) voor ondersteuning.
 
 ________________
 ## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Het afnemen en buiten gebruik stellen van de kwalificatie-Api's voor het validatie proces van de opleidings klant op 25 februari 2021 en het verkrijgen van een kwalificatie van 4 mei 2021.
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2021-02-04
+- Datum: 4 februari 2021
 - Functies
 
 ### <a name="impacted-audience"></a>Doel groep
@@ -181,7 +219,7 @@ Deze aankondiging is een follow-up van de verbeteringen van het partner centrum,
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- **Update naar de nieuwe api's**, als u dat nog niet hebt gedaan, voor een geslaagde en tijdige overgang
+- **Bijwerken naar de nieuwe api's** voor een geslaagde en tijdige overgang
 - **Bekijk de nieuwe partner centrum-API-wijzigingen en richt lijnen** in de resources voor de plannings gereedheids: de verbeteringen voor het [validatie proces van het klanten centrum](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - **Deel deze informatie met de juiste teams** binnen uw organisatie en met uw wederverkopers om hen te helpen deze wijzigingen voor te bereiden.
 

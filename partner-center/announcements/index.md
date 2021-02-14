@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 5a5f2ee73c84a3d50e20e6319b07ee2f90aa4972
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281218"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490152"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van februari 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Functies|[Inleiding tot micro soft Viva-onderwerpen](2021-february.md#7)|12 februari|
 |Aanbiedingen/markten|[Prijs wijzigingen voor Microsoft 365 E3 voor maart 2021](2021-february.md#6)|11 februari|
 |Aanbiedingen/markten|[Prijs lijst voor preview van licentie is bijgewerkt voor Noorse kroon](2021-february.md#5)|10 februari|
 |Functies|[Premium-evaluaties, een invoeg toepassing voor Compliance Manager, is beschikbaar op 1 maart 2021](2021-february.md#4)|5 februari|
