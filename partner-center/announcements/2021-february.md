@@ -9,16 +9,120 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490169"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540995"
 ---
 # <a name="february-2021-announcements"></a>Aankondigingen van februari 2021
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Partner Center voor februari 2021.
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Nu Live: DocuSign migratie naar Adobe-ondertekenen voor partners onder micro soft-partner overeenkomsten (MPAs)
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-02-16
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Micro soft gaat de verwerking van de elektronische hand tekening van DocuSign naar Adobe-ondertekening.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Bestaande directe en indirecte CSP-partners (Cloud Solution Provider) onder MPA.
+
+### <a name="details"></a>Details
+
+In februari 2021 gaat micro soft de verwerking van alle elektronische hand tekeningen van DocuSign naar Adobe-ondertekenen voor CSP-partners.
+
+U moet een soepele overgang verwachten. Na de migratie ontvangt u een e-mail bericht van adobesign@adobesign.com in plaats van DocuSign, wanneer uw elektronische hand tekening vereist is. Dit e-mail bericht bevat een koppeling naar de webpagina van Adobe, waar u zich moet aanmelden. Micro soft-partners hoeven bestaande overeenkomsten niet opnieuw te ondertekenen, maar alleen toekomstige kanaal overeenkomsten. Partners in Oekraïne, Rusland en Kazachstan moeten de groen van een jaar fysiek of elektronisch opnieuw ondertekenen.
+
+U vindt een voor beeld van een e-mail bericht voor de hand tekening van Adobe-ondertekening in [de resource galerie](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).
+
+Voor de beste ervaring moet u het volgende doen:
+
+1. Voeg toe adobesign@adobesign.com aan de lijst met veilige afzenders om e-mail berichten van dit account rechtstreeks naar uw map Ongewenste e-mail te sturen.
+2. Werk samen met uw IT-afdeling voor het volgende:
+    - Voeg het adobesign@adobesign.com e-mail adres toe aan de lijst met veilige afzenders om ervoor te zorgen dat deze niet is opgenomen in een vooraf ingestelde phishing-regel.
+    - Werk het bestaande beveiligings beleid bij om ervoor te zorgen dat alle vereiste ontvangers de documentatie kunnen ondertekenen onder uw Adobe Sign Enter prise-licentie.
+
+Bronnen die betrekking hebben op onboarding-, functionaliteits-en bedrijfsproces vragen, vindt u op de [pagina de migratie partner van Adobe Sign](https://aka.ms/eSignature/External).
+
+Adobe Sign is de voor Keurs-oplossing voor elektronische hand tekeningen (ESS) van micro soft. De overgang naar Adobe Sign zorgt voor een veilige en efficiënte elektronische hand tekening waarmee klanten en partners meerwaarde kunnen bieden.
+
+Raadpleeg de volgende zelf studies voor meer informatie over het elektronisch ondertekenen van documenten en het overdragen van elektronische hand tekeningen:
+
+- [Een document elektronisch ondertekenen | Zelf studies voor Adobe-ondertekening](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Iemand anders delegeren om een document te ondertekenen | Zelf studies voor Adobe-ondertekening](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Volgende stappen
+
+Deel deze informatie met de juiste belanghebbenden in uw organisatie.
+
+### <a name="questions"></a>Vragen?
+
+Als u vragen hebt, neemt u contact op met uw regionale Operations Center met het [hulp programma voor oproep registratie (CLT)](https://clt.partners.extranet.microsoft.com/CLT) of op [Verken MS](https://www.explore.ms/). Volg het standaard CLT-proces nauw keurig zodat we zo snel mogelijk uw query kunnen omzetten.
+
+### <a name="change-log"></a>Wijzigingslogboek
+
+- 15 januari 2021: oorspronkelijke publicatie 
+- 16 februari 2021: nu live, nieuwe resource: Adobe Sign migratie partner (pagina) 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Herinnering: Inleiding tot de API-beperking voor partners die partner Center-Api's aanroepen
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-02-16
+- Uw bedrijf laten groeien
+
+### <a name="summary"></a>Samenvatting
+
+Micro soft implementeert de API-beperking om een meer consistente prestaties te bieden binnen een tijds Panne voor partners die de Api's van het partner centrum aanroepen.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)  
+
+### <a name="details"></a>Details
+
+Vanaf februari 2021 heeft micro soft de API-beperking geïmplementeerd, zodat er meer consistentie is binnen een tijds Panne voor partners die de Api's van het partner centrum aanroepen.Met beperking wordt het aantal aanvragen van een service in een bepaalde periode beperkt om te voor komen dat bronnen worden gevermijdd.Wanneer een drempel waarde voor bandbreedte beperking wordt overschreden, beperkt het partner centrum voor een bepaalde periode verdere aanvragen van die client.
+
+**Voor delen van partner:**
+
+Het partner centrum is ontworpen om een groot aantal aanvragen af te handelen, maar als er veel aanvragen worden gedaan door een aantal partners, helpt het beperken van de optimale prestaties en betrouw baarheid van alle partners.  
+
+- Beperking zorgt voor minimale downtime.
+- Met beperking wordt het aantal aanvragen voor grote volumes verminderd, waardoor er consistente prestaties zijn voor alle partners.
+
+**Api's die moeten worden beperkt:**
+
+| Bewerking | Documentatie voor Partnercentrum |
+| ------ | ------- |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions  | [Alles-van-een-een-klant-s-abonnementen](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Een abonnement ophalen op basis van id](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/orders  | [Alle klant orders ophalen](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/Customers/{customer_id}/orders/{order_id}  | [Een bestelling ophalen op basis van id](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/orders/{order_id}/provisioningstatus  | [De inrichtingsstatus van het abonnement ophalen](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Orders beheren en een abonnement beheren](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons  | [Een lijst met invoegtoepassingen voor een abonnement ophalen](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements | [Een lijst met Azure-rechten voor een abonnement ophalen](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus  | [De registratiestatus van het abonnement ophalen](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [Alle overdrachten van een klant ophalen](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Upgradestatus van product ophalen](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [Een lijst met aanbiedingen voor omzetten van de proefversie ophalen](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+We raden u ten zeerste aan dat partners gebruikmaken van de API voor het activiteiten logboek voor meer efficiëntie en om te voor komen dat deze wordt beperkt.Raadpleeg de Details [voor meer informatie](/partner-center/develop/api-throttling-guidance)over deze functie.  
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de [bronnen](/partner-center/develop/api-throttling-guidance)   voor dit onderwerp en voer de benodigde stappen uit.  
 
 _______________
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974753"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541011"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -348,7 +348,9 @@ Alle partners communiceren via het CSP-programma (Cloud Solution Provider) 
 
 Vanaf februari 2021 heeft micro soft de API-beperking geïmplementeerd, zodat er meer consistentie is binnen een tijds Panne voor partners die de Api's van het partner centrum aanroepen.Met beperking wordt het aantal aanvragen van een service in een bepaalde periode beperkt om te voor komen dat bronnen worden gevermijdd.Wanneer een drempel waarde voor bandbreedte beperking wordt overschreden, beperkt het partner centrum voor een bepaalde periode verdere aanvragen van die client.
   
-**Voor delen van partner:** Het partner centrum is ontworpen om een groot aantal aanvragen af te handelen, maar als er veel aanvragen worden gedaan door een aantal partners, helpt het beperken van de optimale prestaties en betrouw baarheid van alle partners.  
+**Voor delen van partner:**
+
+Het partner centrum is ontworpen om een groot aantal aanvragen af te handelen, maar als er veel aanvragen worden gedaan door een aantal partners, helpt het beperken van de optimale prestaties en betrouw baarheid van alle partners.  
 
 - Beperking zorgt voor minimale downtime.
 - Met beperking wordt het aantal aanvragen voor grote volumes verminderd, waardoor er consistente prestaties zijn voor alle partners.
