@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334588"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645636"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Bulk bewerkingen voor verkoop kansen met bestanden met door komma's gescheiden waarden (CSV)
 
@@ -71,7 +71,7 @@ Adres regel 2 van klant|No|Adres regel 2 van het bedrijf van de klant.|NE 148 st
 Klant plaats|Yes|De plaats waar de organisatie van de klant zich bevindt.|Redmond
 Klant status|No|De status waarin de klant organisatie zich bevindt.|Washington
 Post code van de klant|No|Post code van de regio waar de organisatie van de klant zich bevindt.|98052
-Klant land|Yes|Het land of de regio waar de organisatie van de klant zich bevindt. Gebruik de land codes van drie letters zoals [hier]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)wordt vermeld.|VS
+Klant land|Yes|Het land of de regio waar de organisatie van de klant zich bevindt. Gebruik de land codes van twee letters, zoals [hier]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)wordt vermeld.|VS
 D-U-N-S-ID van klant|No|Probeer de DUNS-ID van de organisatie van de klant op te halen. Dit helpt bij een snellere afstemming van de klant organisatie aan de kant van micro soft, die een snellere toewijzing van de verkoper kan worden. U kunt een DUNS-ID gratis ophalen van deze [website](https://www.dnb.com/duns-number/lookup.html).|81466849
 Voor naam van klant contact persoon|Is afhankelijk van|De voor naam is alleen verplicht als u micro soft Help nodig hebt. De voor naam van de primaire contact persoon van de organisatie van de klant die aan deze deal werkt.|Jan
 Achternaam van klant contact persoon|Is afhankelijk van|De achternaam is alleen verplicht als u micro soft Help nodig hebt. De achternaam van de primaire contact persoon van de organisatie van de klant die aan deze deal werkt.|Klant
