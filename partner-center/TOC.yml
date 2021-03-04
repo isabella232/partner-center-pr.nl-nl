@@ -99,6 +99,11 @@
         - name: Azure-en Cloud voordelen
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Voor delen voor Visual Studio
+          href: mpn-benefits-visual-studio.md
+          displayname: 'visual studio, mpn, activate'
+        - name: Technische voor delen voor verkoop en implementatie
+          href: technical-benefits.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Softwaregarantie
@@ -447,6 +452,8 @@
           displayName: 'region, regio'
         - name: Request an SLA credit from Microsoft (Een SLA-tegoed aanvragen van Microsoft)
           href: request-credit.md
+        - name: Hoe BTW-beleid van invloed is op de uitbetaling
+          href: tax-policies-affect-payout.md
     - name: Een Azure-uitgavenbudget voor uw klanten instellen
       href: set-an-azure-spending-budget-for-your-customers.md
       displayName: csp
