@@ -10,27 +10,22 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cf34aa52bd1d0359736dbcf6cc5ed9029f6d9e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528561"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756769"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gebruikers-en licentie beheer in het partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
 
 **Van toepassing op**
 
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 
-De volgende taken worden beheerd in de Microsoft Azure beheer portal voor Microsoft Cloud voor de Amerikaanse overheid:
+**Juiste rollen**
 
-- Gebruikers beheer van de partner
-
-- Gebruikers-en licentie beheer van klanten
-
-- Wacht woorden van gebruikers opnieuw instellen
-
+- Globale beheerder
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Gebruikers beheren in de Azure Portal voor Microsoft Cloud voor de Amerikaanse overheid
 
@@ -49,6 +44,6 @@ Nadat u zich hebt aangemeld voor de Azure Portal voor Microsoft Cloud voor de Am
 
 **Verwante onderwerpen**
 
--  [**Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Partnercentrum voor Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [**Inschrijven in het Cloud Solution Provider-programma voor Microsoft Cloud voor de Amerikaanse overheid**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281346"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756183"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281346"
 
 Dit artikel bevat richt lijnen voor partners die migreren van partner Sales Connect to Partner Center, zodat ze gezamenlijk verkoop deals kunnen blijven maken en beheren in het partner centrum.
 
-Zoals u weet, zal uw bedrijf na 31 maart 2021 geen toegang meer hebben tot PSC. U kunt echter nog steeds alles vinden wat u in het partner centrum wilt doen, zoals het maken van trans acties voor de verkoop, het beheren van uw deals en het handelen op deals die door micro soft-verkopers naar u worden verzonden.
-
-Er zijn echter ook verschillen. De volgende richt lijnen kunnen u helpen om uw overgang naar partner Center soepeler en eenvoudiger te maken.
+>[!Note]
+> Als u hier bent, omdat u een banner in PSC hebt gezien over de migratie, bent u op de juiste plaats. Deze hand leiding is niet van toepassing op de oplossingen beoordeling (SA) en OEM-licentie verlening zakelijke partners die hun deals in PSC beheren.
 
 >[!Important]
-> Als u hier bent, omdat u een banner in PSC hebt gezien over de migratie, bent u op de juiste plaats. Deze hand leiding is niet van toepassing op de oplossings beoordeling (SA) en OEM IOT-partners die hun deals in PSC beheren.
+> Vanaf 1 mei 2021 kan uw bedrijf geen deals in PSC maken of bewerken. **U kunt de bestaande deals-gegevens nog steeds downloaden met behulp van de functie voor bulk export in PSC. U kunt na deze datum ook [open deals](psc-to-pc.md#psc-deals-migration) van PSC naar partner Center migreren.** <br><br> Als er deals zijn waarin u actief bent en die IP-mede-selling-oplossingen bevatten die in aanmerking komen, hebt u twee opties: <br><br> 1. Markeer de deal als gewonnen en voltooi de registratie van deals in PSC vóór 30 april 2021. <br> 2. [Migreer de deals](psc-to-pc.md#psc-deals-migration) naar partner Center zodat u meer tijd hebt om aan de slag te gaan en de registratie van deals te starten.
+
+Zoals u weet, **zal het bedrijf na 31 mei 2021 geen toegang meer hebben tot PSC**. U kunt echter nog steeds alles vinden wat u in het partner centrum wilt doen, zoals het maken van trans acties voor de verkoop, het beheren van uw deals en het handelen op deals die door micro soft-verkopers naar u worden verzonden.
+
+Er zijn echter ook verschillen. De volgende richt lijnen kunnen u helpen om uw overgang naar partner Center soepeler en eenvoudiger te maken.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Wat u moet weten voordat u verdergaat
 
@@ -90,7 +93,7 @@ De account beheerder van uw bedrijf zoeken:
 Nadat u uw account in partner centrum hebt ingesteld, gebruikt u de wizard Gebruikers migreren op de pagina verkoop kansen om het automatisch toe te wijzen van partner centrum rollen aan werk nemers van uw bedrijf.
 
 >[!Note]
-> Gebruikers migratie kan alleen worden uitgevoerd door [account beheerders](permissions-overview.md#manage-mpn-membership-and-your-company) van uw bedrijf. Als u de rol account beheerder niet hebt, kunt u een account beheerder vinden die u kan helpen bij het instellen van de gebruikers accounts met behulp van de wizard gebruikers migratie. De functionaliteit voor gebruikers migratie is vanaf 18 november 2020 beschikbaar.
+> Gebruikers migratie kan alleen worden uitgevoerd door [account beheerders](permissions-overview.md#manage-mpn-membership-and-your-company) van uw bedrijf. Als u de rol account beheerder niet hebt, kunt u een account beheerder vinden die u kan helpen bij het instellen van de gebruikers accounts met behulp van de wizard gebruikers migratie.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Afbeelding van de wizard gebruikers migratie.":::
 
@@ -135,7 +138,7 @@ Lees deze sectie voordat u de dealing-migratie start.
 
 **Komt in aanmerking voor migratie**
 
-Alleen sommige deals komen in aanmerking voor migratie van PSC naar PC. Deze migratie wizard is ontworpen om partners te helpen bij het nemen van hun deals naar het partner centrum, waar ze nog steeds actief met hun klanten werken om de deal te sluiten. **Alleen deals die de status open hebben met geldige partner gegevens (geldige MPN-ID) en niet-ondergaande deal registratie, komen in aanmerking voor migratie.**
+Alleen sommige deals komen in aanmerking voor migratie van PSC naar PC. Deze migratie wizard is ontworpen om partners te helpen bij het nemen van hun deals naar het partner centrum, waar ze nog steeds actief met hun klanten werken om de deal te sluiten. **Alleen deals die zijn gemaakt op basis van 1 januari 2020 met geldige partner accountgegevens (geldige MPN-ID) en niet worden geregistreerd, komen in aanmerking voor migratie.**
 
 **Niet in aanmerking komen voor migratie**
 
@@ -200,7 +203,7 @@ Als uw bedrijf een partner Development Manager (PDM) heeft: wanneer uw partner c
 Als uw bedrijf geen PDM heeft, moet u ervoor zorgen dat alle gebruikers accounts zijn ingesteld en geverifieerd door alle gebruikers. U wordt gewaarschuwd via een e-mail en een banner in PSC met betrekking tot de exacte datum waarop u in het partner centrum gezamenlijk kunt beginnen met verkopen. Houd er rekening mee dat u nog steeds de bestaande actieve deals in PSC moet beheren.
 
 >[!Important]
->Actieve deals worden niet gemigreerd naar de PC. U hebt tot 31 maart 2021 de deals te sluiten en te registreren.
+> U hebt tot en met 30 april 2021 de deals te registreren die zijn gemarkeerd als binnengehaald.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Volgende stappen voor PSC-beheerders, PSC-deal managers en PSC-verkopers
 

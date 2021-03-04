@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755636"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755744"
 ---
 # <a name="value-added-tax-vat-information"></a>Informatie over de belasting over de toegevoegde waarde (BTW)
 
-**Van toepassing op:**
+**Juiste rollen**
 
-- Partnercentrum
-- Commerciële marketplace
+- Accountbeheerder
+
 
 Als u een BTW-ID-nummer moet opgeven tijdens het registratie proces van het partner centrum, kunt u aan de slag met informatie.
 
@@ -78,6 +78,7 @@ Houd er rekening mee dat micro soft geen belasting advies verstrekt, en de volge
 |Spanje |-BTW-nummer notatie: 9 cijfers<br/>-Land-/regiocode: ES<br/>-Voor beeld: X12345678, 12345678X of X1234567X<br/>-Opmerkingen: bevatten 1 of 2 letters: eerst, laatste, of eerste en laatste. |
 |Zweden |-BTW-nummer notatie: 12 cijfers<br/>-Land-/regiocode: SE<br/>-Voor beeld: 123456789001<br/>-Opmerking: de laatste 2 tekens moet ' 01 ' zijn. |
 |Verenigd Koninkrijk |-BTW-nummer notatie: 9 of 12 cijfers<br/>-Land-/regiocode: GB<br/>-Voor beeld: 123456789 of 123456789001<br/>-Opmerkingen: 9 cijfers in het algemeen, maar 12 cijfers als het nummer een subbedrijf binnen een groep vertegenwoordigt. |
+
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Belasting gegevens van het bedrijf en het toevoegen of verzenden van BTW-Id's voor Partner Center-aankopen](organization-tax-info.md)

@@ -1,7 +1,7 @@
 ---
 title: Bijdrage indicatoren van partners-dit
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over zeven bijdragen aan de partner (PCI) die partners tonen over het bereiken van een Silver-of Gold Cloud Business Applications competentie.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530813"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756552"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Gebruik partner-bijdrage indicatoren om de Cloud Business Applications competentie te bereiken
 
@@ -155,7 +155,7 @@ U kunt alleen Tegoed ontvangen voor deze PCI-metrische gegevens voor een bepaald
 - U bent de claim partner of record (CPOR) voor een betaald abonnement dat deel uitmaakt van de Tenant van die klant
 - U bent een digitale partner van record (DPOR) voor een betaald abonnement dat deel uitmaakt van de Tenant van die klant
 
-Een partner wordt de CPOR als deze koppeling heeft gemaakt met een klant op het abonnements niveau via de Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) of Dynamics 365 [Online Services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU)-stimulans.
+Een partner wordt de CPOR als deze koppeling heeft gemaakt met een klant op het abonnements niveau via de Dynamics 365 Online Services Advisor (OSA) of Dynamics 365 Online Services usage (OSU)-stimulans. Zie inzicht in CPOR- [koppelingen](incentives-customer-associations-intro.md)voor meer informatie.
 
 Een partner wordt de DPOR als ze een koppeling hebben gemaakt met een klant op abonnements niveau binnen het product.
 

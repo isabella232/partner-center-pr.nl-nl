@@ -1,19 +1,19 @@
 ---
 title: De connector voor het samen verkopen van Dynamics 365 CRM-partner centrum
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchroniseer verwijzingen in het partner centrum met de connector voor co-sell voor Dynamics 365 CRM. Verkopers kunnen vervolgens samen met micro soft verkopen binnen uw CRM-systemen.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645706"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756788"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connector voor Dynamics 365-overzicht co-sell
 
@@ -31,11 +31,11 @@ De oplossing is gebaseerd op de micro soft-oplossing voor energie automatisering
 |**Onderwerpen**   |**Details**   |**Koppelingen**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |U hebt een geldige MPN-ID nodig|Toevoegen aan [MPN](https://partner.microsoft.com/)|
-|Klaar voor de verkoop|Uw IP/Services-oplossing moet samen worden verkocht.|[Verkopen met micro soft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Klaar voor samen verkopen|Uw IP/Services-oplossing moet samen worden verkocht.|[Verkopen met micro soft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Partnercentrum-account|De MPN-ID die is gekoppeld aan de Partner Center-Tenant, moet gelijk zijn aan de MPN-ID die is gekoppeld aan uw oplossing voor co-selling. Controleer voordat u de connectors implementeert of u de referenties voor samen verkopen in partner centrum Portal kunt zien.|[Uw account beheren](create-user-accounts-and-set-permissions.md)|
 |Gebruikers rollen voor het partner centrum|De werk nemer die de connectors installeert en gebruikt, moet een referentie beheerder zijn|[Beheerdersrollen en -machtigingen toewijzen](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|De rol van CRM-gebruiker is systeem beheerder of systeemaanpasser|[Rollen toewijzen in Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Stroom account voor energie automatisering|Maak een nieuwe productie omgeving met een Data Base voor testen/fase ring en productie. Als u een bestaande productie omgeving met Data Base hebt, kunt u deze opnieuw gebruiken. Gebruiker die connector oplossing gaat installeren, moet beschikken over een automatische licentie en toegang tot deze omgeving. U kunt de voortgang controleren en meer Details ophalen. als de installatie mislukt [, klikt u op geschiedenis](https://flow.microsoft.com/) weer geven onder oplossingen.|[Omgeving maken of beheren](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Stroom account voor energie automatisering|Maak een nieuwe productie omgeving met een Data Base voor testen/fase ring en productie. Als u een bestaande productie omgeving met Data Base hebt, kunt u deze opnieuw gebruiken. Gebruiker die connector oplossing gaat installeren, moet beschikken over een automatische licentie en toegang tot deze omgeving. U kunt de voortgang controleren en meer Details ophalen. als de installatie mislukt [, klikt u op geschiedenis](https://flow.microsoft.com/) weer geven onder oplossingen.|[Omgeving maken of beheren](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Synchronisatie van partner Center referrals voor Dynamics 365 (oplossing voor automatische stroom) installeren
 
@@ -110,7 +110,7 @@ Voordat u de oplossing voor het automatiseren van energie op de productie omgevi
 
 1. Ga terug naar de pagina **oplossingen** en selecteer **standaard oplossing**. Selecteer **verbindings verwijzing (preview)** door te klikken op **alle**.
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Verbinding maken":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="De verbindingen bewerken":::
 
 2. Bewerk elk van de verbindingen één voor één door het pictogram drie punten te selecteren. Voeg de relevante verbindingen toe.
 
@@ -141,9 +141,9 @@ Met de webhook-Api's van partner Center kunt u zich registreren voor bron wijzig
 
 3. Selecteer het **Kopieer** pictogram om de gegeven HTTP post-URL te kopiëren.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="URL kopiëren":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="Webhooks gebruiken om resource wijzigingen te registreren":::
 
-4. Selecteer nu de stroom voor het automatiseren van partner Center-webhooks (Insider preview) en selecteer **uitvoeren**.
+4. Selecteer de stroom voor het automatiseren van partner Center-webhooks (Insider preview) en selecteer vervolgens **uitvoeren**.
 
 5. Zorg ervoor dat het venster stroom uitvoeren wordt geopend in het rechterdeel venster en klik op **door gaan**.
 
@@ -205,7 +205,7 @@ De waarde van een omgevings variabele bijwerken:
 
 3. Update **huidige waarde** (niet bijwerken standaard waarde) met de optie **nieuwe waarde** en geef de waarde op. De waarde moet overeenkomen met het gegevens type van de variabele voor bijvoorbeeld Ja/Nee-gegevens type accepteert ofwel ja of Nee.
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Invoervak voor standaard waarden":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="Omgevings variabelen bijwerken":::
 
 - End-to-end-synchronisatie van Referral-verkoop referenties
 

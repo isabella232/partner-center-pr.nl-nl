@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182542"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756398"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
@@ -98,7 +98,7 @@ We introduceren een nieuwe Office 365 E1-aanbieding voor de Mid-Market, beperkt 
 Alle partners handelen via het programma Cloud Solution Provider (CSP) in de hierboven vermelde deelnemende markten.
 
 ### <a name="details"></a>Details
-De aanbieding bestaat uit 30% korting op Office 365 E1 voor CSP. Het wordt gestart op 1 december 2020 en is zes maanden beschikbaar tot en met 31 mei 2020. Deze aanbieding is alleen beschikbaar voor klanten die geen ervaring hebben met de MW-Cloud en Maxi maal 500 stoelen hebben. Houd er rekening mee dat dit is beperkt tot opkomende markten van LATAM, India en APAC, om de overgang naar de Cloud mogelijk te maken. 
+De aanbieding bestaat uit 30% korting op Office 365 E1 voor CSP. Het wordt gestart op 1 december 2020 en is zes maanden beschikbaar tot en met 31 mei 2021. Deze aanbieding is alleen beschikbaar voor klanten die geen ervaring hebben met de MW-Cloud en Maxi maal 500 stoelen hebben. Houd er rekening mee dat dit is beperkt tot opkomende markten van LATAM, India en APAC, om de overgang naar de Cloud mogelijk te maken. 
 
 #### <a name="offer-details"></a>Details van aanbieding
 
@@ -539,7 +539,7 @@ De nieuwe geavanceerde invoeg toepassing voor communicatie voor micro soft teams
 
 **Welke klanten kunnen de invoeg toepassing aanschaffen?** GCC-klanten kunnen de invoeg toepassing kopen.
 
-**Hoe kan het worden gekocht?** De invoeg toepassing kan worden aangeschaft via Enterprise Agreement, Enterprise Agreement-abonnement, inschrijving voor onderwijs oplossingen, CSP of Web direct.
+**Hoe kan het worden gekocht?** De invoeg toepassing kan worden aangeschaft via Enterprise Overeenkomst, Enterprise Overeenkomst-abonnement, inschrijving voor onderwijs oplossingen, CSP of Web direct.
 
 **Waar kan de verkoop worden verkocht?** Het kan worden verkocht in de Amerikaanse markt.
 

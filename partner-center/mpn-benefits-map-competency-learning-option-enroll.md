@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975984"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756138"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Partner Center gebruiken om in te schrijven als een micro soft learning-partner
 
@@ -115,7 +115,7 @@ Het beantwoorden van een KPI heeft geen betrekking op de duur van de training. V
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>V. Waarom wordt niet weer gegeven als een micro soft learning-partner in de map learning partner?
 
-Mogelijk moet u toevoegen aan de [map Learning Partner](https://docs.microsoft.com/learn/certifications/partners). U kunt vervolgens een koppeling maken naar uw website via de adreslijst pagina van de learning partner.
+Mogelijk moet u toevoegen aan de [map Learning Partner](/learn/certifications/partners). U kunt vervolgens een koppeling maken naar uw website via de adreslijst pagina van de learning partner.
 
 Dit is een hand matig proces dat slechts eenmaal per maand wordt verzonden tijdens de derde week. De volgende update wordt weer gegeven aan het einde van de eerste week van de volgende maand. Neem contact op met de [ondersteuning van partner Frontline](https://partner.microsoft.com/support)om u te helpen de situatie op te lossen. Bereid u voor op de volgende details:
 

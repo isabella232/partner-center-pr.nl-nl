@@ -6,19 +6,209 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
-ms.custom: announcement
+ms.custom: references_regions
 ms.localizationpriority: high
-ms.date: 02/04/2021
-ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: dcdbbda3a93bdf80dfe2c8eacc74ea4f78a7d07e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540995"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756335"
 ---
 # <a name="february-2021-announcements"></a>Aankondigingen van februari 2021
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Partner Center voor februari 2021.
+
+________________
+## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Api's voor het invoegen van kwalificaties worden buiten gebruik gesteld. Als u in mei wilt intrekken,
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 25 februari 2021
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners die academische, non-profit en GCC-aanbiedingen verkopen via het Cloud Solution Provider-programma met behulp van de Partner Center-API
+
+### <a name="details"></a>Details
+
+Deze aankondiging is een follow-up van de verbeteringen van het partner centrum, [uitgebracht in december](2020-december.md#1). Als onderdeel van deze release zijn de nieuwe GET-en POST-kwalificaties-Api's geïmplementeerd. als gevolg hiervan zijn **de bestaande put-kwalificaties-api's buiten gebruik gesteld en wordt het ophalen van de kwalificatie beëindigd met 4 mei 2021**. Als dit het geval is, moet u overstappen op het gebruik van de nieuwe Api's van het POST Partner Center om opleidings aanbiedingen te kopen. Op dezelfde manier moet u de nieuwe kwalificaties van de API voor het kopen van vooraf gekwalificeerde non-profit en GCC-aanbiedingen gebruiken.
+
+### <a name="next-steps"></a>Volgende stappen
+
+- **Bijwerken naar de nieuwe api's** voor een geslaagde en tijdige overgang
+- **Bekijk de nieuwe partner centrum-API-wijzigingen en richt lijnen** in de resources voor de plannings gereedheids: de verbeteringen voor het [validatie proces van het klanten centrum](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Deel deze informatie met de juiste teams** binnen uw organisatie en met uw wederverkopers om hen te helpen bij de voor bereiding op deze wijzigingen
+
+### <a name="questions"></a>Vragen?
+
+Voor vragen met betrekking tot deze melding kunt u contact opnemen met [Partner Center-ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Wijzigingenlogboek
+
+- Februari: bijgewerkte tijd lijnen voor afschaffing van & plaatsen-kwalificaties
+- Januari: herinnering voor toekomstige afschaffing van de GET-kwalificaties van & plaatsen
+
+________________
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Deel de verkoop van deals op schaal met behulp van de functie voor bulk bewerkingen van het partner centrum
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-02-25
+- Verbeterde beveiliging en naleving
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners die samen verkopen in het partner centrum
+
+### <a name="summary"></a>Samenvatting
+
+Mede-verkoop partners kunnen nu verkoop kansen op schaal exporteren en importeren met behulp van de nieuwe functie voor bulk bewerkingen van het gebruik van een partner centrum.
+
+### <a name="details"></a>Details
+
+Mede-verkoop partners kunnen nu verkoop kansen op schaal exporteren en importeren met behulp van de nieuwe functie voor bulk bewerkingen van het gebruik van een partner centrum. Hiermee wordt uw ervaring voor het delen van referenties afgesteld en wordt de bedrijfs continuïteit gegarandeerd wanneer u overstapt van partner Sales Connect. Het is ook een alternatief voor investeringen in de partner centrum-API.
+
+Zie het artikel in de volgende sectie voor meer informatie. 
+
+### <a name="next-steps"></a>Volgende stappen
+
+Meer informatie over de mogelijkheden voor bulk bewerkingen door [bulk bewerkingen te lezen voor verkoop kansen met door komma's gescheiden waarden (CSV)](https://docs.microsoft.com/partner-center/bulk-operations).
+
+### <a name="questions"></a>Vragen?
+
+Neem contact op met de [ondersteuning](https://partner.microsoft.com/support/?stage=1) als u nog vragen hebt.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Migreer uw deals van partner Sales Connect (PSC) met behulp van de nieuwe functie voor het migreren van deals
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-02-25
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners met deals in PSC
+
+### <a name="summary"></a>Samenvatting
+
+Partners met deals in partner Sales Connect (PSC) kunnen profiteren van de nieuwe mede-verkoop ervaring in het partner centrum door hun mede-verkoop deals te migreren met behulp van de functie voor de migratie van deals.
+
+### <a name="details"></a>Details
+
+Partners met deals in PSC kunnen nu sneller worden verplaatst om te profiteren van de nieuwe mede-verkoop ervaring in het partner centrum en om te voor komen dat ze op twee platformen werken door hun mede verkochte deals te migreren naar het partner centrum met behulp van de functie voor de migratie van deals.
+
+Zie het artikel in de volgende sectie voor meer informatie.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Meer informatie over de functie voor het migreren van deals vindt u in de sectie **migratie van PSC-deals** in de [hand leiding voor gezamenlijk verkopen in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+
+### <a name="questions"></a>Vragen?
+
+Neem contact op met de [ondersteuning](https://partner.microsoft.com/support/?stage=1) als u nog vragen hebt.
+
+________________
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>Meer flexibiliteit dankzij door de partner geleide deals voor verkoop
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-02-25
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners met kant-en-klare oplossingen
+
+### <a name="summary"></a>Samenvatting
+
+Partners kunnen nu micro soft-verkopers uitnodigen na het maken van een mede verkoop van een partner om IT een samen werkende verkoop activiteit te maken.
+
+### <a name="details"></a>Details
+
+Partners hebben nu de mogelijkheid om micro soft-verkopers uit te nodigen na het maken van een mede verkochte verkoop partner, zodat deze een samenwerkings activiteit wordt. De details van de deal worden pas met het micro soft-verkoop team gedeeld nadat de partner de hulp van micro soft-verkopers expliciet heeft bepaald. Dit scenario komt ook in aanmerking voor het stimuleren van micro soft-verkopers.
+
+Houd er rekening mee dat door partners gestuurde trans acties worden bijgewerkt naar de actieve mede verkoop op elk moment voordat de sluiting wordt afgesloten.
+
+Zie het artikel in de volgende sectie voor meer informatie.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk onze hand leiding voor het [beheren van verkoop kansen in Partner Center](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)voor meer informatie.
+
+### <a name="questions"></a>Vragen?
+
+Neem contact op met de [ondersteuning](https://partner.microsoft.com/support/?stage=1) als u nog vragen hebt.
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> Wijzigingen in de voorbereidings vereisten van de klant voor de Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-02-25
+- Verbeterde beveiliging en naleving
+
+### <a name="impacted-audience"></a>Doel groep
+
+CSP direct-factuur partners en indirecte providers die nieuwe of bestaande klanten hebben in de landen die in de volgende sectie worden weer gegeven.
+
+### <a name="summary"></a>Samenvatting
+
+Als onderdeel van onze toezeg ging om partners en klanten te helpen op basis van vertrouwen, zullen we bijkomende klant gegevens aanvragen, met ingang van 25 maart 2021.
+
+### <a name="details"></a>Details
+
+Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode voor klant validatie te bieden voor het handelen van klant abonnementen in het CSP-programma. Op 25 maart 2021 worden de verbeteringen van de Partner Center API en gebruikers interface (UI) geïntroduceerd die van invloed zijn op partners die voldoen aan de volgende criteria:
+
+1. De partner heeft een directe facturerings relatie met micro soft (wat betekent dat de partner een directe factuur partner of een indirecte provider is).
+2. De partner doet zaken met nieuwe of bestaande klanten in de volgende landen:
+    - Thailand
+    - Vietnam
+    - Turkije
+    - Polen
+    - Zuid-Afrika
+    - India
+    - Brazilië
+    - Irak
+    - Myanmar
+    - Zuid-Soedan
+    - Saoedi-Arabië
+    - Verenigde Arabische Emiraten
+    - Venezuela
+
+Partners die aan de criteria voldoen, moeten de **juridische id** van een klant (ook wel de **organisatie Inn**) en het **telefoon nummer** van de klant indienen wanneer ze nieuwe klanten voordoen of bestaande klant gegevens wijzigen. Deze partners kunnen ook een optionele **middelste naam** voor de klant invoeren.
+
+Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben in november 2020 al geknoeid met een eerdere release.
+
+- Armenië
+- Azerbeidzjan
+- Belarus
+- Hongarije
+- Kazachstan
+- Kirgistan
+- Moldavië
+- Rusland
+- Tadzjikistan
+- Oekraïne
+- Oezbekistan
+
+Partners met klanten in de rest van de wereld hebben de mogelijkheid om op 25 maart 2021 de **juridische id**, het **telefoon nummer** en de **middelste naam** voor klanten als optionele Details in te voeren.
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Bekijk de technische documentatie en veelgestelde vragen in de verzameling dedicated [partner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (aanmelden is vereist) voor meer gedetailleerde richt lijnen.
+- Bereid u voor op het opnemen van de wijzigingen met behulp van partner Center API en webervaring. API/Sdk's zijn beschikbaar voor testen.
+- Zorg ervoor dat u de aanvullende gegevens indient bij het voorbereiden van nieuwe klanten of het wijzigen van bestaande klant gegevens.
+- Als u een CPV-oplossing (configuratie scherm) gebruikt, raadpleegt u uw CPV.
+
+### <a name="questions"></a>Vragen?
+
+Neem contact op met uw belasting adviseur of gemeentelijke belasting dienst als u vragen hebt met betrekking tot de juridische id (ook wel INN of TIN genoemd). Micro soft kan geen ondersteuning bieden voor belasting kwesties.
+
+Als u ondersteuning voor uw bewerkingen met micro soft nodig hebt, [opent u een service aanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (aanmelden vereist).
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Nu Live: DocuSign migratie naar Adobe-ondertekenen voor partners onder micro soft-partner overeenkomsten (MPAs)
@@ -245,7 +435,7 @@ Premium-evaluaties zijn een optionele invoeg toepassing voor Compliance Manager 
 Bekijk de volgende bronnen voor dit onderwerp en deel de informatie met de juiste belanghebbenden in uw organisatie.   
 
 - [Microsoft 365 E5 beveiliging en naleving](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [Evaluaties bouwen en beheren in micro soft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+- [Evaluaties bouwen en beheren in micro soft Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
@@ -285,23 +475,23 @@ Hier is what's nieuw in de module Partner Center Referrals:
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Alle partners die gebruikmaken van de module referrals in Partner Center  
 
-- [Nieuwe SMB-verbindingen maken](https://docs.microsoft.com/partner-center/connect-with-your-customers): mede verkopen en samen werken met micro soft-verkopers om binnenkomende verkoop kansen te verkrijgen die betrekking hebben op SMB-klanten.
+- [Nieuwe SMB-verbindingen maken](../connect-with-your-customers.md): mede verkopen en samen werken met micro soft-verkopers om binnenkomende verkoop kansen te verkrijgen die betrekking hebben op SMB-klanten.
 
-- [Machtigingen voor verwijzingen uitvouwen](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals): wijs machtigingen toe aan gebruikers, op basis van het feit of u wilt dat ze beschikken over beheerders machtigingen (toegang tot alle verkoop kansen) of gebruikers machtigingen (toegang tot de specifieke verkoop kansen van de gebruiker).
+- [Machtigingen voor verwijzingen uitvouwen](../permissions-overview.md#manage-referrals): wijs machtigingen toe aan gebruikers, op basis van het feit of u wilt dat ze beschikken over beheerders machtigingen (toegang tot alle verkoop kansen) of gebruikers machtigingen (toegang tot de specifieke verkoop kansen van de gebruiker).
 
-- [Partner Sales Connect-gebruikers migratie](https://docs.microsoft.com/partner-center/psc-to-pc#user-migration): wijs bestaande partner Sales Connect-gebruikers machtigingen toe aan de bijbehorende Partner Center-referentie beheerder en wijs gebruikers machtigingen toe en pas vervolgens de nieuwe machtigingen op de gebruikers toe. Raadpleeg de [documentatie voor machtigingen voor verwijzingen](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) voor meer informatie over het beheer van verwijzingen.  
+- [Partner Sales Connect-gebruikers migratie](../psc-to-pc.md#user-migration): wijs bestaande partner Sales Connect-gebruikers machtigingen toe aan de bijbehorende Partner Center-referentie beheerder en wijs gebruikers machtigingen toe en pas vervolgens de nieuwe machtigingen op de gebruikers toe. Raadpleeg de [documentatie voor machtigingen voor verwijzingen](../permissions-overview.md#manage-referrals) voor meer informatie over het beheer van verwijzingen.  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partners met kant-en-klare aanbiedingen voor de verkoop
 
-- [Verkoop samen met andere partners](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): vraag een andere partner aan bij ons krachtige partner ecosysteem om mee te verkopen en de toegang tot meer doel groepen van de klant te ontgrendelen.  
+- [Verkoop samen met andere partners](../manage-co-sell-opportunities.md): vraag een andere partner aan bij ons krachtige partner ecosysteem om mee te verkopen en de toegang tot meer doel groepen van de klant te ontgrendelen.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partners met een transactable-aanbieding die in aanmerking komt voor een Azure-oplossing voor prikkel in de commerciële Marketplace
 
-- [Automatische registratie van deals gebruiken](https://docs.microsoft.com/partner-center/register-deals): Bespaar tijd en zorg voor nauw keurigheid door het registreren van Transactable micro soft Commercial Marketplace Azure aanbiedingen met behulp van het selectie vakje ' deze deal of Win is al dan niet via Azure Marketplace of AppSource. ' Zolang uw transactie datum juist is, wordt de informatie voor de registratie van deals direct opgehaald uit de micro soft Commercial Marketplace.
+- [Automatische registratie van deals gebruiken](../register-deals.md): Bespaar tijd en zorg voor nauw keurigheid door het registreren van Transactable micro soft Commercial Marketplace Azure aanbiedingen met behulp van het selectie vakje ' deze deal of Win is al dan niet via Azure Marketplace of AppSource. ' Zolang uw transactie datum juist is, wordt de informatie voor de registratie van deals direct opgehaald uit de micro soft Commercial Marketplace.
 
 ### <a name="questions"></a>Vragen?
 
-Als u hulp nodig hebt bij het gebruik van een van de nieuwe functies, raadpleegt u de [sectie referrals](https://docs.microsoft.com/partner-center/referrals) in de Knowledge Base of onze informatie over het ondersteunen van materialen die beschikbaar zijn in de [Galerie met webervaringen](https://aka.ms/CoSellExperience) (aanmelden is vereist).
+Als u hulp nodig hebt bij het gebruik van een van de nieuwe functies, raadpleegt u de [sectie referrals](../referrals.md) in de Knowledge Base of onze informatie over het ondersteunen van materialen die beschikbaar zijn in de [Galerie met webervaringen](https://aka.ms/CoSellExperience) (aanmelden is vereist).
 
 U kunt [een ticket openen met het ondersteunings team van partners](https://partner.microsoft.com/support/?stage=1) voor ondersteuning.
 
@@ -319,7 +509,7 @@ Partners die academische, non-profit en GCC-aanbiedingen verkopen via het Cloud 
 
 ### <a name="details"></a>Details
 
-Deze aankondiging is een follow-up van de verbeteringen van het partner centrum, [uitgebracht in december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Als onderdeel van deze release zijn de nieuwe GET-en POST-kwalificaties-Api's geïmplementeerd. als gevolg hiervan zijn **de bestaande put-kwalificaties Api's Partner Center api's buiten gebruik gesteld op 25 februari 2021 en krijgen ze een kwalificatie van 4 mei 2021**. Op dat moment moet u overstappen op het gebruik van de nieuwe Api's van het POST Partner Center om opleidings aanbiedingen en de nieuwe kwalificaties-API te kunnen kopen om vooraf gekwalificeerde non-profit en GCC-aanbiedingen aan te schaffen.
+Deze aankondiging is een follow-up van de verbeteringen van het partner centrum, [uitgebracht in december](./2020-december.md#1). Als onderdeel van deze release zijn de nieuwe GET-en POST-kwalificaties-Api's geïmplementeerd. als gevolg hiervan zijn **de bestaande put-kwalificaties Api's Partner Center api's buiten gebruik gesteld op 25 februari 2021 en krijgen ze een kwalificatie van 4 mei 2021**. Op dat moment moet u overstappen op het gebruik van de nieuwe Api's van het POST Partner Center om opleidings aanbiedingen en de nieuwe kwalificaties-API te kunnen kopen om vooraf gekwalificeerde non-profit en GCC-aanbiedingen aan te schaffen.
 
 ### <a name="next-steps"></a>Volgende stappen
 

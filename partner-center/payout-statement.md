@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492633"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756170"
 ---
 # <a name="payout-statements"></a>Uitbetalingsinstructies
 
@@ -138,7 +138,7 @@ Klik boven aan de pagina op **downloaden** om meer informatie over een verdienen
 | claimId | Unieke id voor claim | Prikkel-sommige Program ma's alleen |
 | customerCountry | Land/regio van klant | markt plaatsen |
 | customerEmail |  |  |
-| customerName | Is altijd leeg | Alleen prikkel programma's (uitzonde ring: OEM) en marketplaces |
+| customerName | Kan leeg zijn | Alleen prikkel programma's (uitzonde ring: OEM) en Marketplace. Voor CSP-trans acties geeft Marketplace de naam van de CSP weer |
 | customerTenantId |  |  |
 | distributorId | Id van distributie server | Prikkel-sommige Program ma's alleen |
 | Distributor | Naam van Distributor | Prikkel-sommige Program ma's alleen |

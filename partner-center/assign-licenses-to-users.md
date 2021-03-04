@@ -1,7 +1,7 @@
 ---
 title: Gebruikers voor klant accounts beheren
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Gebruikers beheren voor uw klanten in Partner Center: gebruikers accounts maken, gebruikers licenties toevoegen of verwijderen, wacht woorden opnieuw instellen en gebruikers accounts verwijderen of herstellen.'
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570736"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756087"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gebruikers en gebruikers licenties voor klant accounts beheren 
 
@@ -29,11 +29,14 @@ U kunt nieuwe gebruikers maken en verwijderen in het account van een klant. U ku
 
 Wanneer u nieuwe abonnementen voor een klant koopt, moet de klant u een lijst geven met alle gebruikers die accounts moeten, hun gebruikers machtigingen en welke services elke gebruiker nodig heeft.  
 
+>[!NOTE]
+>In het gedeelte **gebruikers en licenties** van het tabblad **klant** worden alle gebruikers weer gegeven die zijn gemaakt in een Tenant van een specifieke klant, met inbegrip van gebruikers die licenties hebben gekocht van een andere CSP-partner of van een ander aankoop kanaal.
+
 U kunt [abonnementen toewijzen aan meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md) tegelijk door de namen te importeren met behulp van een [Excel-compatibel CSV-werk blad bestand](adding-multiple-users-to-a-customer-account.md).
 
 <a href="" id="createuseraccounts"></a>
 
-## <a name="create-user-accounts-for-a-customer"></a>Gebruikers accounts maken voor een klant
+## <a name="create-user-accounts-for-a-customer"></a>Gebruikersaccounts maken voor een klant
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
 
@@ -72,7 +75,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Het wacht woord van een gebruiker voor een klant opnieuw instellen
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard) van het Partnercentrum.
 
 2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
 

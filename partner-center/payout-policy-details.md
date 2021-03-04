@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861407"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756849"
 ---
 # <a name="payout-schedules-and-processes"></a>Uitbetalingsschema's en-processen
 
@@ -37,7 +37,6 @@ Een uitbetaling vindt vaak plaats voordat micro soft de betaling van de klant ve
 | --- | --- | --- | --- |
 | Gebruik of maand van trans actie | Klant gebruikt of koopt een service. | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 1** |
 | Micro soft berekent het factuur bedrag | Het totale gebruik, het totaal aantal trans acties bepalen | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 2** |
-| Factuur betaald door klant | Micro soft verzamelt de betaling van de klant | Geen wijziging | **Maand 2** |
 | Betaling verzonden | De kosten van het Agency en de inkomsten van de betaling bepalen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 3 (1e week)** |
 | Uitbetaling voorbereiden | De inkomsten worden voor bereid voor de maandelijkse betaling | Gemarkeerd als gepland in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 3 (1e week)** |
 | **Verzonden betaling** | **De betaling wordt verzonden naar Publisher** | **Gemarkeerd als verzonden in de transactie geschiedenis en in de sectie betalingen van de [uitbetalings verklaring](payout-statement.md)** | **Maand 3 (niet later dan de 15e)** |

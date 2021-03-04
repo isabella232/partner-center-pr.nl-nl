@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834816"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756055"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>On-premises software verkopen via het programma Cloud Solution Provider (CSP)
 
@@ -48,7 +48,7 @@ Nadat u uw software hebt aangeschaft, moeten uw klanten deze downloaden. Gebruik
 >[!NOTE]
 >Alleen klanten kunnen de product codes bekijken en informatie downloaden in het micro soft-beheer centrum. Partners kunnen deze informatie niet zien.
 
-Als u of uw klanten meer willen weten over het downloaden van licentie sleutels, raadpleegt u [software en product codes voor licenties downloaden](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+Als u of uw klanten meer willen weten over het downloaden van licentie sleutels, raadpleegt u [software en product codes voor licenties downloaden](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="cancel-a-purchase"></a>Een aankoop annuleren
 

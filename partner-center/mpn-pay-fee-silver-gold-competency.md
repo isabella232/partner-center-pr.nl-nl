@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042681"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757388"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>De kosten betalen die zijn gekoppeld aan een Silver-of Gold-competentie
 
@@ -37,7 +37,7 @@ Voer anders de volgende stappen uit om de kosten te betalen voor een Silver-of G
 
 - U hebt al voldaan aan de [vereisten](https://partner.microsoft.com/membership/competencies) om een specifieke Silver-of Gold-competentie te bereiken.
 
-- U hebt de rol van partner Center van de [beheerder van de globale beheerder of de MPN](https://docs.microsoft.com/partner-center/permissions-overview). Als u een gast gebruiker bent zonder een van deze rollen, wordt de toegang geweigerd tot een aantal van de partner centrum-pagina's die hieronder worden beschreven. Als dit het geval is, [neemt u contact op met uw globale beheerder](https://docs.microsoft.com/partner-center/find-your-role) en vraagt u deze om u de juiste rol toe te wijzen. 
+- U hebt de rol van partner Center van de [beheerder van de globale beheerder of de MPN](./permissions-overview.md). Als u een gast gebruiker bent zonder een van deze rollen, wordt de toegang geweigerd tot een aantal van de partner centrum-pagina's die hieronder worden beschreven. Als dit het geval is, [neemt u contact op met uw globale beheerder](./find-your-role.md) en vraagt u deze om u de juiste rol toe te wijzen. 
 
 1. Meld u met de referenties van uw organisatie aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
 
@@ -54,7 +54,7 @@ Voer anders de volgende stappen uit om de kosten te betalen voor een Silver-of G
 
 4. Controleer en bevestig uw gegevens op de pagina **Inkoop Details** .
 
-   (Meer informatie over het bijwerken [van de **belasting-ID** van uw bedrijf](https://docs.microsoft.com/partner-center/organization-tax-info) of de factuur van uw bedrijf naar het [  bedrijfs adres](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
+   (Meer informatie over het bijwerken [van de **belasting-ID** van uw bedrijf](./organization-tax-info.md) of de factuur van uw bedrijf naar het [  bedrijfs adres](./mpn-get-action-pack.md).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Lidmaatschap biedt pagina met betalings gegevens voor de inkoop." border="false":::
 

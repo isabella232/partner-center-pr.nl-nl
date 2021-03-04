@@ -1,19 +1,19 @@
 ---
 title: Uitbetaling en belastingprofielen in het Partnercentrum
 ms.topic: how-to
-ms.date: 11/12/2020
+ms.date: 02/24/2021
 description: Maak en beheer uw uitbetalings-en BTW-profiel zodat u kunt betalen voor uw prikkel werkzaamheden. Omvat het maken, beheren en gebruiken van verschillende profielen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624235"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756593"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Toekennings-en belasting profielen voor stimuli maken en beheren in partner centrum
 
@@ -86,10 +86,22 @@ In de volgende secties vindt u een overzicht van het proces voor het maken en be
 
     >[!NOTE]
     >De beschik baarheid van de betalings wijze is afhankelijk van de regels van het prestatie programma.
+
+    - Als uw locatie MPN-ID wordt betaald door een lokale micro soft-dochter onderneming voor een bepaald prestatie programma en als Betalings wijze LRD-credit nota (Limited risico distributeur) toestaat, wordt uw betalings profiel vooraf ingevuld met de betalings methode LRD credit Note. In de rij Betalings wijze LRD in de credit nota voor het betreffende prestatie programma en de locatie MPN-ID ziet u **bevestigde** of **geverifieerde verificatie** als de status in de sectie betalings profiel.
+    
+       Selecteer **verificatie vereist** om de CSP-Tenant-id-details te bevestigen en te controleren die zijn gekoppeld aan de locatie MPN en de betalings methode om de betaling van de credit nota te ontvangen. Controleer in het dialoog venster **Details van credit nota** of de CSP-Tenant-id en de gegeven gegevens juist zijn. Als u meer dan één Tenant-ID krijgt, selecteert u zorgvuldig de Tenant-ID van de CSP waarvoor u betalingen wilt ontvangen. Selecteer vervolgens **bevestigen** om te bevestigen dat uw bedrijfs gegevens juist zijn en dat de prikkel betaling moet worden uitgevoerd op de CSP-Tenant-id die u hebt geselecteerd.
+ 
+      Als de status **bevestigd** wordt weer gegeven, is de toewijzing van de CSP-Tenant-id voltooid en is er geen verdere actie vereist. U kunt nog steeds bevestigd selecteren om de details van de toewijzing weer te geven.
+   
+      In landen waarvoor partners expliciet aanvragen om een BTW-vrijs telling toe te passen, is er een optie om BTW-vrijs telling toe te passen naast het BTW-profiel in de sectie BTW-Profiel van het programma stimulans en de locatie MPN. Als u dit selectie vakje inschakelt, worden de voor delen van belasting vrijstelling toegepast op uw tegoed notitie voor stimuleren. 
+   
+      Deze Betalings wijze is momenteel alleen beschikbaar voor Australië-, Nieuw-Zeelandse-en Canada-partners voor het micro soft commerce-programma voor prestatie verbetering. Als u een directe factuur partner of een indirecte provider hebt in deze drie landen die zijn Inge schreven voor het MCI-programma en u LRD credit notitie niet ziet als de beschik bare Betalings wijze, bevestig dan dat uw Tenant-ID is gekoppeld aan de relevante locatie account van de partner MPN. Lees [hoe u uw organisatie profiel kunt bijwerken](update-your-partner-profile.md)voor meer informatie over deze procedure.
+
     
 5. Selecteer de **valuta**.
 
 6. Wanneer u alle velden van betaling hebt ingevuld, selecteert u **verzenden**.
+
 
 ## <a name="create-your-bank-profile"></a>Uw bank profiel maken
 

@@ -9,18 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528735"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755729"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Tegoed ontvangen op uw partner centrum-account voor belasting inhouding
 
-Van toepassing op:
+**Juiste rollen**
 
-- Partnercentrum
+- Accountbeheerder
+- Factureringsbeheerder
 
 ## <a name="overview"></a>Overzicht
 
@@ -35,9 +36,9 @@ Partners die worden gebruikt voor het indienen van aanvragen voor belasting aang
 
 Voer de volgende stappen uit om een nieuwe belasting te verzenden:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
-2. Kies **facturering** in het menu aan de linkerkant en ga naar de **facturerings geschiedenis** .
+2. Kies **facturering** in het menu aan de linkerkant en ga naar de **facturerings geschiedenis**.
 
 3. Klik op **Nieuw verzenden** naast de factuur waarvoor u een inklaring wilt indienen. Met de nieuwe koppeling verzenden gaat u naar de **nieuwe aanvraag pagina voor belasting inhoud** .
 
@@ -45,9 +46,9 @@ Voer de volgende stappen uit om een nieuwe belasting te verzenden:
 
 4. Bekijk de factuur gegevens om te controleren of u de aanvraag voor de juiste factuur verzendt.
 
-   :::image type="content" source="images/wht2.png" alt-text="Nieuwe inhouding belasting voor een factuur verzenden":::
+   :::image type="content" source="images/wht2.png" alt-text="Details van de belasting voor een factuur volt ooien":::
 
-5. Geef het ' totaal inhouding ' op onder Details van de **belasting** . Het ' totale inhouding ' is het bedrag dat u verwacht te crediteren.
+5. Geef het ' totaal inhouding ' op onder Details van de **belasting**. Het ' totale inhouding ' is het bedrag dat u verwacht te crediteren.
 
 6. **Koppel** een belasting certificaat. U moet een **digitale kopie** van het **certificaat voor bron belasting** in uw aanvraag voor belasting inhoud toevoegen. U hebt dit certificaat ontvangen van uw lokale belasting dienst wanneer u uw BTW aan uw lokale belasting dienst betaalt. Het BTW-bedrag van de factuur in het certificaat voor bron belasting moet overeenkomen met het totaal bedrag in uw aanvraag voor belasting inhouding.
 
@@ -62,17 +63,17 @@ Voer de volgende stappen uit om een nieuwe belasting te verzenden:
 
 ## <a name="update-request-and-resubmit"></a>Aanvraag bijwerken en opnieuw verzenden
 
-Voor het beoordelings team moet u mogelijk correcties aanbrengen en een aanvraag opnieuw verzenden voordat deze kan worden goedgekeurd. De status wordt gewijzigd in **in behandeling zijnde partner actie** . Corrigeer en verzend de aanvraag als volgt:
+Voor het beoordelings team moet u mogelijk correcties aanbrengen en een aanvraag opnieuw verzenden voordat deze kan worden goedgekeurd. De status wordt gewijzigd in **in behandeling zijnde partner actie**. Corrigeer en verzend de aanvraag als volgt:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
 2. Kies **facturering** in het menu links.
 
-3. Zoek op **de facturerings pagina de** aanvraag voor belasting inhoudingen. **Billing history** Aanvragen waarvoor uw aandacht moet worden gevraagd, hebben de status ' partner actie in behandeling '.
+3. Zoek op **de facturerings pagina de** aanvraag voor belasting inhoudingen.  Aanvragen waarvoor uw aandacht moet worden gevraagd, hebben de status ' partner actie in behandeling '.
 
 4. Klik op de aanvraag-ID voor de belasting bron en de status van de aanvraag.
 
-5. Selecteer **bijwerken en opnieuw verzenden** onder **status** .
+5. Selecteer **bijwerken en opnieuw verzenden** onder **status**.
 
 6. Bekijk de opmerkingen die zijn achtergelaten door de revisoren die aangeven wat moet worden gewijzigd.
 
@@ -86,7 +87,7 @@ Als u de aanvraag verzendt, wordt deze teruggestuurd naar het beoordelings team 
 
 Goedgekeurde aanvragen voor belasting inhouding worden uitgevoerd op uw volgende factuur, waarbij het bedrag wordt afgeschreven. Aanvragen die als **voltooid** zijn gemarkeerd, moeten binnen 10 werk dagen worden toegepast. 
 
-Gewiste bedragen worden weer gegeven in de **sectie facturerings geschiedenis facturerings pagina** . De bedragen die zijn gewist, worden weer gegeven in de kolom **laatste betaling** naast de factuur waarop de aanvraag is ingediend.
+Gewiste bedragen worden weer gegeven in de **sectie facturerings geschiedenis facturerings pagina**. De bedragen die zijn gewist, worden weer gegeven in de kolom **laatste betaling** naast de factuur waarop de aanvraag is ingediend.
 
    > [!IMPORTANT]
    > Eerdere facturen worden niet opnieuw gegenereerd of opnieuw uitgegeven. Het clearace-bedrag wordt eenvoudigweg toegepast op de betalingen van de vorige maand.
@@ -110,4 +111,4 @@ Partners die Duitse belasting inhoudingen indienen, moeten de vaste kopieën van
 Partners moeten het nieuwe proces dat hierboven wordt beschreven, gebruiken om nieuwe aanvragen te verzenden en geen ondersteunings aanvraag meer te maken voor nieuwe aanvragen voor belasting verwerking. Partners met aanvullende vragen over aanvragen voor belasting inhoudingen kunnen [ondersteunings aanvragen indienen](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). Ondersteunings aanvragen zijn bedoeld om partners te helpen bij bestaande aanvragen, zodat ze hun **aanvraag-id** moeten hebben om een nieuw ticket in te dienen. Als partners geen aanvraag kunnen indienen via het nieuwe proces, moeten ze een getal (alle 1) invoeren in het formulier voor de ondersteunings aanvraag. 
 
    > [!IMPORTANT]
-   > Partners hoeven geen contact op te nemen met de ondersteuning als de aanvraag status is **voltooid** . Deze status wordt weer gegeven in de **facturerings geschiedenis** naast de factuur voor de verzen ding. De **laatste betalings** bedragen naast de factuur moeten overeenkomen met het bronbelasting bedrag binnen 10 dagen nadat de aanvraag is gemarkeerd als **voltooid** .
+   > Partners hoeven geen contact op te nemen met de ondersteuning als de aanvraag status is **voltooid**. Deze status wordt weer gegeven in de **facturerings geschiedenis** naast de factuur voor de verzen ding. De **laatste betalings** bedragen naast de factuur moeten overeenkomen met het bronbelasting bedrag binnen 10 dagen nadat de aanvraag is gemarkeerd als **voltooid**.

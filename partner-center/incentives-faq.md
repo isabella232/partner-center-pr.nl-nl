@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835064"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756710"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Veelgestelde vragen over prikkels
 
@@ -67,9 +67,9 @@ De waarschijnlijke reden waarom u geen stimulansen ziet, is dat u niet over de j
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Er ontbreken enkele inschrijvingen op de overzichts pagina van prikkels.
 
-Als u een uitnodiging hebt ontvangen van of Inge schreven in, een prestatie programma dat niet meer zichtbaar is in het dash board, moet u controleren of u de juiste toegang hebt. Alleen gebruikers met de rol gebruiker of prikkel beheerder kunnen het programma zien. Zie [uw rol zoeken](https://docs.microsoft.com/partner-center/find-your-role).
+Als u een uitnodiging hebt ontvangen van of Inge schreven in, een prestatie programma dat niet meer zichtbaar is in het dash board, moet u controleren of u de juiste toegang hebt. Alleen gebruikers met de rol gebruiker of prikkel beheerder kunnen het programma zien. Zie [uw rol zoeken](./find-your-role.md).
 
-Als u uw rol of machtigingen wilt wijzigen, neemt u contact op met de globale account of de beheerder van uw bedrijf. Als u wilt weten wie deze personen zijn, raadpleegt u [uw globale beheerder zoeken](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
+Als u uw rol of machtigingen wilt wijzigen, neemt u contact op met de globale account of de beheerder van uw bedrijf. Als u wilt weten wie deze personen zijn, raadpleegt u [uw globale beheerder zoeken](./find-your-role.md#find-your-global-admin).
 
 De pagina overzicht bevat alleen inschrijvingen die zijn gekoppeld aan het wereld wijde partner account (PGA) dat is gekoppeld aan de Azure AD-Tenant. Als uw bedrijf meer dan één PGA heeft, moet u voor elk abonnement verschillende referenties hebben.
 

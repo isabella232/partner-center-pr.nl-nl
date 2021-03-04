@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541011"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756282"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -86,7 +86,7 @@ Voor vragen met betrekking tot deze melding kunt u contact opnemen met [onderste
 - 7 januari 2021: er is een aanvullend scenario opgenomen voor fase 1 en fase 2
 - 28 januari 2021: 
     -    Aankondiging fase 1 is Live 
-    -    Het Verenigd Konink rijk is niet opgenomen in de EU/EVA en maakt deel uit van de [micro soft-Europese regio en-markt](https://docs.microsoft.com/partner-center/regional-authorization-overview) en zal worden beïnvloed
+    -    Het Verenigd Konink rijk is niet opgenomen in de EU/EVA en maakt deel uit van de [micro soft-Europese regio en-markt](../regional-authorization-overview.md) en zal worden beïnvloed
 
 
 ________________
@@ -170,13 +170,13 @@ Alle indirecte wederverkopers & indirecte providers die communiceren via het CSP
 
 ### <a name="details"></a>Details
 
-De implementatie van de micro soft Partner Agreement (MPA) voor indirecte wederverkopers wordt momenteel uitgevoerd. We hebben uw feedback gehoord en bevatten nu geconsolideerde algemene query's over het accepteren van de MPA in een nieuwe [pagina met veelgestelde vragen](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)voor meer informatie over de ondersteuning van providers en wederverkopers.
+De implementatie van de micro soft Partner Agreement (MPA) voor indirecte wederverkopers wordt momenteel uitgevoerd. We hebben uw feedback gehoord en bevatten nu geconsolideerde algemene query's over het accepteren van de MPA in een nieuwe [pagina met veelgestelde vragen](../mpa-indirect-provider-faq.md)voor meer informatie over de ondersteuning van providers en wederverkopers.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-**Indirecte wederverkopers:** Als u de MPA niet hebt geaccepteerd, bekijkt u de [Veelgestelde vragen over MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) en volgt u de stapsgewijze richt lijnen die u [hier](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) kunt vinden om de MPA te accepteren.
+**Indirecte wederverkopers:** Als u de MPA niet hebt geaccepteerd, bekijkt u de [Veelgestelde vragen over MPA](../mpa-indirect-provider-faq.md) en volgt u de stapsgewijze richt lijnen die u [hier](../microsoft-partner-agreement.md) kunt vinden om de MPA te accepteren.
 
-**Indirecte providers:** Neem contact op met uw indirecte wederverkopers en ondersteunt deze met de [Veelgestelde vragen over MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) en de stapsgewijze richt lijnen die [hier](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)beschikbaar zijn.
+**Indirecte providers:** Neem contact op met uw indirecte wederverkopers en ondersteunt deze met de [Veelgestelde vragen over MPA](../mpa-indirect-provider-faq.md) en de stapsgewijze richt lijnen die [hier](../microsoft-partner-agreement.md)beschikbaar zijn.
 
 ### <a name="questions"></a>Vragen?
 
@@ -207,8 +207,8 @@ Hieronder vindt u de nieuwe bewerkings typen:
 ### <a name="next-steps"></a>Volgende stappen
 
 - Maak gebruik van de nieuwe bewerkings typen om de gebeurtenissen bij te houden wanneer de DAP door de klant is goedgekeurd en door de klant is beëindigd.  
-- [Een record met partner Center-activiteiten ophalen-partner centrum voor app-ontwikkel aars | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Controle bronnen-partner centrum app-ontwikkelaar | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [Een record met partner Center-activiteiten ophalen-partner centrum voor app-ontwikkel aars | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Controle bronnen-partner centrum app-ontwikkelaar | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Vragen?
 
@@ -287,9 +287,9 @@ Partners worden nadrukkelijk aangemoedigd om vertrouwd te raken met de volgende 
 #### <a name="partner-earned-credit-pec"></a>Door de partner aangehaalde tegoed (PEC)
 
 - [Het tegoed van een partner (gids) (micro soft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [Tegoed van de partner-overzicht-partner centrum | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [Het tegoed van de partner voor beheerde services-partner centrum | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [Rollen, machtigingen voor de partner die is gecrediteerd-partner centrum | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Tegoed van de partner-overzicht-partner centrum | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [Het tegoed van de partner voor beheerde services-partner centrum | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [Rollen, machtigingen voor de partner die is gecrediteerd-partner centrum | Microsoft Docs](../azure-roles-perms-pec.md)
 - [On-demand training module op het tegoed van de partner in Azure in CSP-modules (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>De nieuwe Commerce ervaring
@@ -321,7 +321,7 @@ Houd er ook rekening mee dat vanaf nu de Partner Center-software en de mogelijkh
 ### <a name="next-steps"></a>Volgende stappen
 
 - Down load de lijst met geprijsde **CSP-software** in het gedeelte **Software** van de pagina [prijs & aanbiedingen](https://partnercenter.microsoft.com/pcv/sales) voor partners. [Hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)vindt u een lijst met de nieuwe producten en geografische regio's die u kunt toevoegen.
-- Bekijk de [Microsoft 365 beheer centrum-software-en product licentie sleutels procedures downloaden](https://go.microsoft.com/fwlink/p/?linkid=2152525) en delen met uw klanten wanneer ze klaar zijn om hun software en licentie sleutels te downloaden.
+- Bekijk de [Microsoft 365 beheer centrum-software-en product licentie sleutels procedures downloaden](/microsoft-365/admin/setup/download-software-licenses-csp) en delen met uw klanten wanneer ze klaar zijn om hun software en licentie sleutels te downloaden.
 - Bekijk de [permanente software in de gereedheids materialen van het Cloud Solution Provider-programma](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Gebruik deze [gereedheids toewijzing](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) om snel de juiste informatie te vinden voor uw rol.
 
 ### <a name="questions"></a>Vragen?

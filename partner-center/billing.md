@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 27bdb4aab3c8092b1ffc458e4da29250e2dbf23e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570634"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756728"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Overzicht: hoofd artikelen over facturering en belasting in het partner centrum
 
@@ -25,7 +25,7 @@ ms.locfileid: "96570634"
 - Globale beheerder
 - Verkoop agent
 
-Deze artilce bevat koppelingen naar informatie over de facturerings-en belasting onderwerpen in het partner centrum, waaronder facturerings resources, facturen, CSP-facturering en belastingen.
+Dit artikel bevat koppelingen naar informatie over de onderwerpen over facturering en belastingen in het partner centrum, inclusief facturerings resources, facturen, CSP-facturering en belastingen.
 
 
 | Onderwerp | Beschrijving |

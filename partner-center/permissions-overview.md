@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492701"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756460"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Gebruikers rollen en-machtigingen toewijzen aan gebruikers van een bedrijf die moeten werken in het partner centrum
 
@@ -129,9 +129,6 @@ Deze rollen zijn niet Azure Active Directory rollen. Deze rollen beheren het bed
 
 ## <a name="manage-referrals"></a>Verwijzingen beheren
 
-> [!Note]
->De nieuwe referrals gebruikersrol is beschikbaar vanaf 18 november 2020. Bestaande verwijzings beheerders behouden hun rollen bereik voor verwijzings beheerder voor het hele bedrijf.
-
 |**Role** | **Wat u kunt doen**|**Meer informatie**
 |------------------------------|:-------------------------|---|
 |Beheerder van verwijzingen|Alles op het tabblad verwijzingen maken en beheren in het partner centrum|[Collectieve-verkoopkansen beheren](manage-co-sell-opportunities.md)
@@ -149,7 +146,7 @@ Deze rollen zijn niet Azure Active Directory rollen. Deze rollen beheren het bed
 
 In combi natie met de nieuwe referrals gebruikersrol maken we ook kennis met het bereik van de locatie voor deals. De volgende tabel geeft uitleg over de deals-toegang op basis van de locatie.
 
-|**Bereik** | **Wat u kunt doen** |
+|**Scope** | **Wat u kunt doen** |
 |------------------------------|:-------------------------|
 |Het hele bedrijf | Zowel beheerders als gebruikers hebben toegang tot het maken van deals voor elke locatie in het bedrijf|
 || Verwijzings beheerder heeft toegang om alle deals weer te geven en te bewerken |

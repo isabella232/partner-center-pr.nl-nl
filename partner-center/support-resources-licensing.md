@@ -1,29 +1,26 @@
 ---
 title: Micro soft-licentie bronnen
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als micro soft-partner hebt u mogelijk vragen over het gebruik van verschillende micro soft-licentie Programma's. In dit artikel vindt u bronnen die u kunnen helpen.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528520"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756807"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Gids voor het nemen van licenties voor resources voor Microsoft-partners 
 
-**Van toepassing op**
-
-- Micro soft MPN-partners, CSP-partners en anderen
 
 In dit artikel worden bronnen gedeeld die kunnen helpen bij het beantwoorden van vragen van de partner licenties.
 
-Als micro soft-partner kunt u betrokken zijn bij een of meer licentie Programma's, kanalen of overeenkomsten. Als u in het dash board van de partner centrum werkt, kan dit onder andere Program ma's zoals het programma Cloud Solution Provider (CSP) of het Microsoft Partner Network-programma (MPN) zijn. Andere licentie Programma's omvatten Enterprise Agreement (EA)-licenties, volume licenties (VL), het OEM-licentie programma, het programma Software Assurance training of vouchers of het open-licentie programma.
+Als micro soft-partner kunt u betrokken zijn bij een of meer licentie Programma's, kanalen of overeenkomsten. Als u in het dash board van de partner centrum werkt, kan dit onder andere Program ma's zoals het programma Cloud Solution Provider (CSP) of het Microsoft Partner Network-programma (MPN) zijn. Andere licentie Programma's omvatten Enterprise Overeenkomst (EA)-licenties, volume licenties (VL), het OEM-licentie programma, het programma Software Assurance training of vouchers of het open-licentie programma.
 
 Aan elk programma zijn specifieke overeenkomsten en voor waarden gekoppeld. Het is ook mogelijk dat de specifieke producten die u gebruikt extra, productspecifieke licentie overeenkomsten hebben die zijn gekoppeld aan het gebruik ervan.
 
@@ -32,7 +29,7 @@ Als u vragen hebt over de werking van deze Program ma's, kunnen deze bronnen u h
 > [!NOTE]
 > Als u hulp nodig hebt bij meer gedetailleerde licentie vragen of met een klant offerte, begint u met de toegewezen indirecte provider (voor het CSP-programma) van uw licentie programma of uw programma-distributeur. Ze zijn vaak uw beste, eerste contact punten voor specifieke licentie vragen of voor vragen over het maken van klant offertes, SKU-aankopen of vereisten. Als u geen partner hebt die deze rol voor u hebt, raadpleegt u [een partner zoeken](find-a-partner.md) om er een te vinden.
 >
-> U kunt ook contact maken met uw micro soft-contacten voor het gebruik van een intern team van licentie experts. Als u geen specifieke micro soft-contact personen hebt, gaat u naar [partner ondersteuning](https://partner.microsoft.com/support/v2/?stage=1) en typt u **Licentiëring** in het veld **problemen** van de ondersteunings pagina. Daar vindt u meer informatie over andere ondersteunings bronnen voor licenties die voor u beschikbaar kunnen zijn. Als u nog steeds hulp nodig hebt, kunt u ook een ondersteunings ticket vastleggen om specifieke licentie vragen te beantwoorden of de juiste product-SKU te vinden.
+> U kunt ook contact maken met uw micro soft-contacten voor het gebruik van een intern team van licentie experts. Als u geen specifieke micro soft-contact personen hebt, gaat u naar [partner ondersteuning](https://partner.microsoft.com/support/v2/?stage=1) en typt u **Licentiëring** in het veld **problemen** van de ondersteunings pagina. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>Algemene informatie over licentie verlening en licentie training
 
@@ -43,7 +40,7 @@ Meer informatie over specifieke licentie Programma's vindt u in de volgende bron
 
 |Functie  | Leest u  |
 |:------------------|:--------------- |
-|CSP-programma licenties vergelijken met andere licentie modellen *(overzicht op hoog niveau)* | Ga naar de [pagina Cryptografie registratie](https://partner.microsoft.com/licensing/). Schuif omlaag totdat u de sectie ziet en *vergelijk de CSP met andere licentie modellen* .  |
+|CSP-programma licenties vergelijken met andere licentie modellen *(overzicht op hoog niveau)* | Ga naar de [pagina Cryptografie registratie](https://partner.microsoft.com/licensing/). Schuif omlaag totdat u de sectie ziet en *vergelijk de CSP met andere licentie modellen*.  |
 |Vergelijk verschillende partner licentieovereenkomsten voor micro soft-Cloud Services en on-premises software *(gedetailleerde weer gave)*  | [Micro soft-licentie overeenkomsten](https://partner.microsoft.com/licensing/licensing-agreements)  |
 |Meer informatie over volume licenties (VL) en licenties voor specifieke oplossingen  | [Micro soft-licentie verlening-producten en oplossingen](https://www.microsoft.com/licensing/default) |
 |Meer informatie over training voor volume licenties en bronnen die u kunnen helpen met prijzen voor VL, citaten, overeenkomsten, product activering en andere hulpprogram ma's  | [Training en resources Microsoft Partner Network](https://partner.microsoft.com/licensing/training-and-resources) |
@@ -69,7 +66,7 @@ Als u specifieke vragen hebt over het afhandelen van licenties, de betaling of d
 |Functie  | Raadpleeg  |
 |:------------------|:--------------- |
 |Antwoorden op vragen over installatie media in het volume licentie programma. | [Pagina licenties uitvoeren](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|Antwoorden op vragen over onlineservices voor de volgende inschrijvings Programma's: Enterprise Agreement (EA), server-en Cloud registratie (SCE) en Open Value-abonnement (OVS).  | [Training en bronnen van micro soft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Antwoorden op vragen over onlineservices voor de volgende inschrijvings Programma's: Enterprise Overeenkomst (EA), server-en Cloud registratie (SCE) en Open Value-abonnement (OVS).  | [Training en bronnen van micro soft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
 |Antwoorden op vragen over onlineservices die zijn gekoppeld aan de micro soft-producten en Services Agreement (MPSA).  | [Training en resources van micro soft Business Center](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) of het [MPSA-licentie overzicht](https://www.microsoft.com/licensing/mpsa/default)  |  
 |Antwoorden op vragen over onlineservices die zijn gekoppeld aan het programma Cloud Solution Provider (CSP).  | [CSP-abonnementen verkopen aan klanten](customer-subscriptions.md)  |
 |Antwoorden op vragen over de betalings-en financierings opties van micro soft.  | [Veelgestelde vragen over het financierings programma van micro soft](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |

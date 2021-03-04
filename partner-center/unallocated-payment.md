@@ -9,18 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92528140"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755809"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Niet-toegewezen betalingen beheren op de facturerings pagina van uw partner centrum
 
-**Van toepassing op**
+**Juiste rollen**
 
-- Partnercentrum
+- Factureringsbeheerder
+- Accountbeheerder
 
 Af en toe ziet u mogelijk een niet-toegewezen betaling op uw facturerings pagina. Een niet-toegewezen betaling is een betaling die u hebt gedaan aan micro soft en die u niet hebt toegepast op een specifieke factuur.
 
@@ -35,3 +36,7 @@ Af en toe ziet u mogelijk een niet-toegewezen betaling op uw facturerings pagina
 Als u dit bedrag wilt Toep assen op een bepaalde factuur, moet u een e-mail sturen bposcapp@microsoft.com en ons laten weten op welke factuur deze betaling moet worden toegepast. Zorg ervoor dat u alle informatie opneemt die u zou doen als u een betaling zou doen. Uw facturerings pagina wordt over 5-6 dagen bijgewerkt. 
 
 Niet-toegewezen betalingen blijven ongedaan totdat u ze aan een factuur toewijst. 
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Facturering voor commerciële Marketplace-Producten en-abonnementen in partner centrum](csp-commercial-marketplace-billing.md)
