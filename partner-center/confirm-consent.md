@@ -1,5 +1,5 @@
 ---
-title: Acceptatie van klant bevestigen voor micro soft-klant overeenkomst
+title: Acceptatie door de klant van Microsoft-klantovereenkomst bevestigen
 description: Meer informatie over het bevestigen van de acceptatie van de klant door de klant overeenkomst van micro soft. Dit kan nodig zijn om micro soft-producten en-services voor klanten te best Ellen.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -8,15 +8,15 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/30/2020
-ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.date: 03/02/2021
+ms.openlocfilehash: ab2f5be77f6480b4a8b47bef0e0fd5096f7c1776
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354607"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029913"
 ---
-# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bijgewerkte methode om acceptatie van klant te bevestigen van de micro soft-klant overeenkomst
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Controleer of de klant de Microsoft-klantovereenkomst heeft geaccepteerd
 
 
 **Juiste rollen**
@@ -30,8 +30,6 @@ ms.locfileid: "97354607"
 > * Partnercentrum voor Microsoft Cloud Duitsland
 > * Partnercentrum voor Microsoft Cloud for US Government
 
->[!NOTE]
->Vanaf 31 januari 2020 moeten alle klanten, bestaande en nieuwe, de nieuwe micro soft-klant overeenkomst ondertekenen. Lees voor meer informatie [klant acceptatie bevestigen van de micro soft-klant overeenkomst](confirm-customer-agreement.md).
 
 Als partner moet u de acceptatie van de klant van micro soft verkrijgen voordat u micro soft-producten en-services voor die klant kunt best Ellen. Om ervoor te zorgen dat partners voldoen aan nalevings vereisten, vraagt micro soft partners om acceptatie te bevestigen door de volgende gegevens te verstrekken over degene die de overeenkomst heeft geaccepteerd:
 
@@ -46,6 +44,9 @@ Als partner moet u de acceptatie van de klant van micro soft verkrijgen voordat 
 - Datum van acceptatie
 
 Directe factuur partners en indirecte providers moeten acceptatie van klant bevestigen van de klant overeenkomst van micro soft bij het handelen via partner Center of partner Center-API. Bevestiging is *verplicht*.
+
+>[!NOTE]
+>Vanaf 31 januari 2020 moeten alle klanten, bestaande en nieuwe, de nieuwe micro soft-klant overeenkomst ondertekenen. Lees voor meer informatie [klant acceptatie bevestigen van de micro soft-klant overeenkomst](confirm-customer-agreement.md).
 
 Als er geen bevestiging is opgegeven voor een bepaalde klant:
 

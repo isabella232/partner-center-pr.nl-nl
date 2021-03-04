@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756144"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029930"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
 Meer informatie over belangrijke updates in Partnercentrum. Deze informatie wordt regelmatig bijgewerkt. Kom dus vaak hier terug!
 
-|**Categorie**|**Aankondigingen van februari 2021**|**Aangekondigd**|
+|**Categorie**|**Aankondigingen van maart 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Functies|[Micro soft Universal Print nu beschikbaar in sommige suites](2021-march.md#1)|3 maart|
+|**Categorie**|**Aankondigingen van februari 2021**|**Aangekondigd**|
 |Functies|[Api's voor het invoegen van kwalificaties worden buiten gebruik gesteld. Als u in mei wilt intrekken,](2021-february.md#14)|25 februari|
 |Functies|[Deel de verkoop van deals op schaal met behulp van de functie voor bulk bewerkingen van het partner centrum](2021-february.md#13)|25 februari|
 |Functies|[Migreer uw deals van partner Sales Connect (PSC) met behulp van de nieuwe functie voor het migreren van deals](2021-february.md#12)|25 februari|
