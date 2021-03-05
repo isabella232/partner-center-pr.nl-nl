@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756170"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185346"
 ---
 # <a name="payout-statements"></a>Uitbetalingsinstructies
 
@@ -56,8 +56,7 @@ U kunt ook de [partner-uitbetalings-API](https://apidocs.microsoft.com/services/
 
 ## <a name="transaction-history"></a>Transactie geschiedenis
 
-Op de pagina **transactie geschiedenis** ziet u het overzicht van uw inkomsten, de geschatte volgende betaling en uw inkomsten-en betalings trends in de afgelopen 36 maanden. U kunt ook transactie gegevens uit deze sectie downloaden.
-
+Op de pagina **transactie geschiedenis** ziet u het overzicht van uw inkomsten, de geschatte volgende betaling en uw inkomsten-en betalings trends in de afgelopen 36 maanden. U kunt ook transactie gegevens downloaden uit deze sectie.<br><br>Dit rapport bevat alle inkomsten die in aanmerking komen voor uitbetaling, inclusief nog niet verzonden betalingen. De inkomsten komen in aanmerking voor uitbetaling wanneer een ISV alle Bank-en belasting gegevens in het partner centrum heeft voltooid, heeft >$50, het ISV-account actief is en de klant is gefactureerd (voor EA-trans acties) of de betaling is ontvangen (voor niet-EA-transacties).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Transactie overzicht.":::
 

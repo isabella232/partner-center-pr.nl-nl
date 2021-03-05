@@ -9,16 +9,83 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/03/2021
-ms.openlocfilehash: 1a386a97d0e55818b2226fd453cfca3b63753247
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102055813"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185261"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft partner centrum voor maart 2021.
+
+________________
+## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Nieuwe micro soft Dynamics 365-producten en aanbiedingen die beschikbaar zijn op 1 april 2021
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-04
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Op 1 april 2021 worden verschillende nieuwe producten en aanbiedingen voor het programma Cloud Solution Provider (CSP) gestart.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+
+### <a name="details"></a>Details
+
+Op 1 april 2021 zal micro soft de volgende nieuwe producten en aanbiedingen starten:
+
+- Power BI Premium per gebruiker
+- GEBRUIKERSABONNEMENTSLICENTIES geo-en-segment uitbreiding van klant spraak en-marketing
+
+**Power BI Premium per gebruiker**
+
+Micro soft introduceert de eerste Power BI Premium aanbiedingen per gebruiker. Power BI Premium wordt momenteel alleen verkocht in een capaciteits constructie. Power BI Premium per gebruiker biedt toegang tot de mogelijkheden van ENTER prise business intelligence (BI) en analyse. De flexibele individuele seat-licentie is voor kleine en middel grote bedrijven.
+
+Bekijk de [Details](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/planned-features) van de Power bi-release voor meer informatie over deze aanbieding.
+
+
+**Details van aanbieding**
+
+Houd er rekening mee dat de naam van de aanbieding iets anders is dan de prijs lijst preview.
+
+| Naam van aanbieding | Aanbiedings-id |
+| ------ |----------- |
+| Power BI Premium per gebruiker | 9c810018-9356-4903-95ab-eeb956289290 | 
+| Power BI Premium per gebruiker voor faculteiten | 3affc44f-f372-4ad5-8657-aadd9574fce0 | 
+| Power BI Premium per gebruiker voor studenten | 657eea87-d0b0-4c89-8c8e-9b04395bd940 | 
+| Power BI Premium per gebruiker (prijs van de non-profit organisatie) | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
+| Power BI Premium per gebruikers Add-On | 244ff87e-5925-44a0-bf31-cea189719b58 | 
+| Power BI Premium per gebruikers Add-On voor faculteiten | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
+| Power BI Premium per gebruikers Add-On voor studenten | cf62d70d-5af5-422a-bda8-97936402ac8e | 
+| Power BI Premium per gebruikers Add-On (prijs van het non-profit personeel) | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
+
+**GEBRUIKERSABONNEMENTSLICENTIES geo-en-segment uitbreiding van klant spraak en-marketing**
+
+Als follow-up van de GEBRUIKERSABONNEMENTSLICENTIES-aanbieding van december 2020 kunnen Dynamics 365-aanbiedingen voor klanten Voice en marketing zijn gewijzigd om nieuwe landen en meer non-profit en onderwijs-Sku's toe te voegen.
+
+| Naam van aanbieding | Aanbiedings-id |
+| ------ |----------- |
+| Dynamics 365 Customer Voice GEBRUIKERSABONNEMENTSLICENTIES (non profit mede werkers prijs) | 7a8642a5-481e-4906-A642-b56dbeeb62a0 |
+| Dynamics 365 Customer Voice GEBRUIKERSABONNEMENTSLICENTIES voor faculteiten | 85162d70-9676-4cf6-a4bc-a0d6672f2657 |
+
+Ga naar de volgende pagina's om meer te weten te komen over deze aanbiedingen:
+
+- [Start pagina voor Dynamics 365 Customer Service Voice](https://dynamics.microsoft.com/customer-voice/overview/)
+- [Start pagina voor Dynamics 365-marketing](https://dynamics.microsoft.com/customer-voice/overview/)
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de resources in dit onderwerp en deel deze informatie met de juiste belanghebbenden in uw organisatie.  
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante Yammer-community's voor vragen over deze aanbiedingen. 
 
 ________________
 ## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Micro soft Universal Print nu beschikbaar in sommige suites

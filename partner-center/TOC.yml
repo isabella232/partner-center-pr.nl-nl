@@ -102,8 +102,12 @@
         - name: Voor delen voor Visual Studio
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
-        - name: Technische voor delen voor verkoop en implementatie
+        - name: Services voor technische presales en implementatie
           href: technical-benefits.md
+          displayname: 'TPD, presales, deployment, technical'
+        - name: Technische voor delen
+          href: mpn-benefits-technical-support.md
+          displayname: 'support, incidents, technical'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Softwaregarantie
