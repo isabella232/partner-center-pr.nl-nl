@@ -1,7 +1,7 @@
 ---
 title: On-premises software verkopen via CSP
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe partners in het CSP-programma on-premises software-abonnementen kunnen kopen, beheren, verkopen en annuleren namens klanten in het partner centrum.
@@ -9,27 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756055"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220241"
 ---
-# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>On-premises software verkopen via het programma Cloud Solution Provider (CSP)
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>On-premises software verkopen via het programma Cloud Solution Provider (CSP)
 
 **Juiste rollen**
 
 - Beheer agent
 - Globale beheerder
 
-On-premises software in CSP ondersteunt een soepele overgang naar de Cloud door de on-premises software in een programma in de cloud te introduceren.Met deze nieuwe aanbieding kunt u de toegevoegde waarde van de partner op elk aankoop scenario zetten, aangezien deze één platform biedt om alle micro soft-producten te transacteren. Als CSP kunt u nu naast open-, EA-en andere Program ma's die momenteel in gebruik zijn, een on-premises software verkopen via het partner centrum. On-premises software in CSP is een nieuw verkoop programma en is niet bedoeld voor het vervangen van andere volume licentie Programma's van micro soft. 
+On-premises software in CSP ondersteunt een soepele overgang naar de Cloud door de on-premises software in een programma in de cloud te introduceren.Met deze nieuwe aanbieding kunt u de toegevoegde waarde van de partner op elk aankoop scenario zetten, aangezien deze één platform biedt om alle micro soft-producten te transacteren. Als CSP kunt u nu ook on-premises software verkopen via partner centrum, naast open, EA en andere Program ma's die momenteel worden gebruikt.  
  
-Hoewel de beste algemene klant waarde met on-premises licentie opties voor software wordt gegarandeerd, hebben we ook het bedrijfs model als partner vriendelijk gemaakt. Eenvoudige licentie verlening van on-premises software in CSP houdt in dat de kosten voorspelbaar en een gestroomlijnd verkoop proces voor u zijn. Dit nieuwe bedrijfs model maakt het eenvoudig om on-premises software voor uw klanten te kopen, te beheren en te prijzen, zodat u zich kunt richten op het winnen van bedrijven met een uitgebreid assortiment IT-toegevoegde IT-beheer oplossingen. 
-
->[!NOTE]
->On-premises software is momenteel beschikbaar voor een beperkt aantal partners. Raadpleeg uw micro soft-contact persoon als u wilt weten of u in aanmerking komt. 
-
+Hoewel de beste algemene klant waarde met on-premises opties voor software licenties wordt gegarandeerd, hebben we ook het bedrijfs model als een partner vriendelijk gemaakt. Eenvoudige licentie verlening van on-premises software in CSP betekent kosten voorspel baarheid en een gestroomlijnd verkoop proces voor u. Dit nieuwe bedrijfs model maakt het eenvoudig om on-premises software voor uw klanten te kopen, te beheren en te prijzen, zodat u zich kunt richten op het winnen van bedrijven met een uitgebreid assortiment IT-toegevoegde IT-beheer oplossingen.
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Software-abonnementen kopen namens klanten
 
@@ -37,18 +33,16 @@ Als u software-abonnementen namens een klant wilt kopen, gaat u naar de detail p
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Software-abonnementen activeren en beheren
 
-Nadat u uw software hebt aangeschaft, moeten uw klanten deze downloaden. Gebruik de volgende procedure om dit te doen.
+Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden. Gebruik de volgende procedure om dit te doen.
 
 >[!NOTE]
 >U moet een beheerders agent zijn om de koppeling naar sleutels en down loads op te halen.
 
 1. Ga naar de detail pagina van uw klant en selecteer vervolgens **Software**. U ziet een lijst van alle software die u namens de klant hebt aangeschaft.
-2. Kopieer de ' diepe koppeling ' van een **koppeling naar software product codes en down loads** en deel de koppeling met uw klant. Wanneer ze deze koppeling selecteren, worden ze omgeleid naar het micro soft-beheer centrum om de product codes te downloaden en te verkrijgen.
+2. Volg de instructies in de [hand leiding](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) voor de partner om de aankoop van uw software namens de klant te volt ooien.
 
 >[!NOTE]
 >Alleen klanten kunnen de product codes bekijken en informatie downloaden in het micro soft-beheer centrum. Partners kunnen deze informatie niet zien.
-
-Als u of uw klanten meer willen weten over het downloaden van licentie sleutels, raadpleegt u [software en product codes voor licenties downloaden](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="cancel-a-purchase"></a>Een aankoop annuleren
 

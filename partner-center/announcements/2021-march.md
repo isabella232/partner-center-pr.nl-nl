@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 03/04/2021
+ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185261"
+ms.locfileid: "102220292"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft partner centrum voor maart 2021.
+
+________________
+## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Licentie sleutel voor partner centrum-software en down loads
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-04
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+De functie voor het downloaden van partner centrum-software en de levering van licentie sleutels is opnieuw ingesteld.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle leveranciers van Cloud Solution Providers (CSP) handelen permanente en server Subscription software orders via partner centrum
+
+### <a name="details"></a>Details
+
+Als reactie op feedback van de partner reactiveren de mogelijkheden van het Partner Center om software-en licentie sleutels te verkrijgen voor de bestellingen van permanente en server abonnementen. Het wordt teruggezet naar de vorige staat voordat deze werd verwijderd op 19 januari 2021. (Zie de [aankondiging](2020-september.md#17).)
+
+Houd er rekening mee dat software licentie sleutels en download koppelingen waardevol en Maxi maal worden aangestuurd na intellectuele-eigendoms activa. Als ze worden gelekt, kunnen ze snel worden uitgeput met hun activerings limieten en een negatieve klant-en partner ervaring veroorzaken.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Raadpleeg de volgende bronnen voor gebruiks instructies en belang rijke richt lijnen voor het distribueren van software sleutels:
+
+- [On-premises software verkopen via het CSP-programma](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [Partner centrum-nieuwe Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (Zie de sectie **richt lijnen voor het distribueren van software sleutels** .)
+
+### <a name="questions"></a>Vragen?
+
+Als u meer vragen over deze kennisgeving hebt, controleert u uw relevante Yammer-community's.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Uw deals migreren van partner Sales Connect (PSC) naar partner centrum
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-04
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Partner Sales Connect (PSC) gaat over naar alleen-lezen toegang vanaf 31 maart 2021. Daarom raden we u aan om te beginnen met het migreren van uw deals van PSC naar partner Center.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners met deals in PSC
+
+### <a name="details"></a>Details
+
+Als onderdeel van onze gedeelde betrokkenheid bij groei is **samen met micro soft** het pad te vinden dat u kunt **detecteren, uw expertise te leveren en uw klant footprint te verg Roten** voor positieve klant resultaten. Met een gemiddelde **duur van 3,5 keer sneller** dan normaal is het beheren van de ervaring voor samen werking in het partner centrum dat u kunt verkopen aan de directe klanten-, partner-en micro soft-verkopers kanalen, en uw volledige referentie pijplijn op één locatie te beheren.
+
+**PSC** gaat over naar **alleen-lezen toegang** vanaf **31 maart 2021**. Daarom raden we u aan om uw overstap naar partner centrum te starten en de verbeteringen van deze functies te openen: 
+
+- **Meer nauw keurige route ring** van de deals die u deelt met micro soft naar de juiste verkoper, op basis van het type hulp die u nodig hebt.
+- **Validatie** van de geschiktheid van een trans actie voor in aanmerking komende oplossingen en om te voldoen aan de criteria van het ISV-verbindings programma, waardoor het goedkeurings proces en de uiteindelijke test voor de uitvoering (PoE) worden vereenvoudigd.
+- **Naadloze gebruikers ervaring** voor het beheren van al uw verkoop kansen en verkoop gekwalificeerde leads op één plek.
+
+Daarnaast hebben we onlangs nieuwe functies toegevoegd in het partner centrum om u te helpen bij het verplaatsen:
+
+- [Bulk bewerkingen voor het samen verkopen van verkoop kansen](https://docs.microsoft.com/partner-center/bulk-operations)
+- [Functie](https://docs.microsoft.com/partner-center/psc-to-pc) voor de migratie van deals (Zie de sectie **migratie van PSC-deals** .)
+
+Met de ervaring voor de samen werking in Partner Center hebben uw verkoop teams meer tijd besteed aan het richten op nurturing-leads en-kansen, het sluiten van deals en het maken van blijvende klant relaties.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Gebruik de [overgangs gids](https://docs.microsoft.com/partner-center/psc-to-pc) van het partner centrum om u te helpen bij de stappen voor het migreren van uw deals van PSC naar partner Center.
+
+### <a name="questions"></a>Vragen?
+
+Neem contact op met de [ondersteuning](https://partner.microsoft.com/support/?stage=1)voor meer vragen.
 
 ________________
 ## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Nieuwe micro soft Dynamics 365-producten en aanbiedingen die beschikbaar zijn op 1 april 2021
