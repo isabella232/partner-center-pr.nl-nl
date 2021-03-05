@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756183"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124819"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -32,9 +32,9 @@ Dit artikel bevat richt lijnen voor partners die migreren van partner Sales Conn
 > Als u hier bent, omdat u een banner in PSC hebt gezien over de migratie, bent u op de juiste plaats. Deze hand leiding is niet van toepassing op de oplossingen beoordeling (SA) en OEM-licentie verlening zakelijke partners die hun deals in PSC beheren.
 
 >[!Important]
-> Vanaf 1 mei 2021 kan uw bedrijf geen deals in PSC maken of bewerken. **U kunt de bestaande deals-gegevens nog steeds downloaden met behulp van de functie voor bulk export in PSC. U kunt na deze datum ook [open deals](psc-to-pc.md#psc-deals-migration) van PSC naar partner Center migreren.** <br><br> Als er deals zijn waarin u actief bent en die IP-mede-selling-oplossingen bevatten die in aanmerking komen, hebt u twee opties: <br><br> 1. Markeer de deal als gewonnen en voltooi de registratie van deals in PSC vóór 30 april 2021. <br> 2. [Migreer de deals](psc-to-pc.md#psc-deals-migration) naar partner Center zodat u meer tijd hebt om aan de slag te gaan en de registratie van deals te starten.
+> Vanaf 1 april 2021 kan uw bedrijf geen deals in PSC maken of bewerken. **U kunt de bestaande deals-gegevens nog steeds downloaden met behulp van de functie voor bulk export in PSC. U kunt na deze datum ook [open deals](psc-to-pc.md#psc-deals-migration) van PSC naar partner Center migreren.** <br><br> Als er deals zijn waarin u actief bent en die IP-mede-selling-oplossingen bevatten die in aanmerking komen, hebt u twee opties: <br><br> 1. Markeer de deal deals als gewonnen en voltooi de registratie van deals in PSC vóór 31 maart 2021. <br> 2. [Migreer de deals](psc-to-pc.md#psc-deals-migration) naar partner Center zodat u meer tijd hebt om aan de slag te gaan en de registratie van deals te starten.
 
-Zoals u weet, **zal het bedrijf na 31 mei 2021 geen toegang meer hebben tot PSC**. U kunt echter nog steeds alles vinden wat u in het partner centrum wilt doen, zoals het maken van trans acties voor de verkoop, het beheren van uw deals en het handelen op deals die door micro soft-verkopers naar u worden verzonden.
+Zoals u weet, **verliest het bedrijf de toegang tot PSC na 30 April 2021**. U kunt echter nog steeds alles vinden wat u in het partner centrum wilt doen, zoals het maken van trans acties voor de verkoop, het beheren van uw deals en het handelen op deals die door micro soft-verkopers naar u worden verzonden.
 
 Er zijn echter ook verschillen. De volgende richt lijnen kunnen u helpen om uw overgang naar partner Center soepeler en eenvoudiger te maken.
 
