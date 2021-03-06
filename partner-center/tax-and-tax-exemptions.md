@@ -1,7 +1,7 @@
 ---
 title: Regionale belastingen en uitzonde ringen voor belastingen
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: Meer informatie over de CSP-programma partners vindt u in het gedeelte over belasting verantwoordelijkheden per regio, het indienen van belasting vrijstellingen voor CSP-verkoop en het verkrijgen van ondersteuning voor belasting vragen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755585"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247680"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Meer informatie over belastingen en BTW-vrijstellings gegevens per regio of land voor partners in het CSP-programma
 
-Van toepassing op:
-
-- Partnercentrum
-- Partnercentrum voor Microsoft Cloud for US Government
 
 Het Cloud Solution Provider-programma (CSP) is een verkoop kanaal dat is gericht op de verkoop van partners van producten. Als gevolg hiervan is micro soft niet altijd verplicht om BTW op partner facturen te berekenen. De regels variëren per land en/of regio. U kunt [land-en regiospecifieke Details voor belasting vrijstellingen](#country-and-region-tax-details)bekijken.
 
@@ -33,7 +29,6 @@ Er zijn specifieke belastinggerelateerde informatie beschikbaar voor Canada en d
 
 Als u zich in een ander land of een andere regio bevindt die belasting kosten, raadpleegt u [de informatie voor andere regio's](#other-regions).
 
-Voor aanvullende vragen kunt u [ondersteuning aanvragen in het partner centrum](#support).
 
 ### <a name="canada"></a>Canada
 

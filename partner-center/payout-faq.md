@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924913"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247660"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Veelgestelde vragen over uitbetalingen en belastingen
 
@@ -63,7 +63,14 @@ Het is de verantwoordelijkheid van het bedrijf om ervoor te zorgen dat de rol va
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mijn belasting profiel is verlopen. Hoe kan ik dit probleem oplossen?
 
-Volg de stappen in [uw BTW-profiel maken of bijwerken](set-up-your-payout-account.md#create-or-update-your-tax-profile) om uw BTW-profiel bij te werken. Op de pagina **BTW-profiel** ziet u de profielen die zijn verlopen of verloopt in de kolom **verval datum** . 
+Als een BTW-profiel is verlopen of verloopt, betekent dit dat het BTW-formulier dat u aan micro soft hebt gegeven, moet worden bijgewerkt. Gebruik de volgende stappen om uw BTW-profiel bij te werken:
+
+1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van het partner centrum en selecteer vervolgens het tandwiel pictogram om het menu **instellingen** te openen.
+2. Selecteer **account instellingen**, vouw de sectie **uitbetaling en belasting** uit en selecteer vervolgens **uitbetaling en BTW** -profiel.
+3. Selecteer het **BTW** -profiel
+4. Controleer de **verval datum** van de kolom en navigeer naar het BTW-profiel dat is verlopen of op het punt staat te verlopen.
+5. Selecteer **bewerken** om het proces voor het bewerken van het BTW-profiel te starten.
+6. Geef in de sectie belasting formulier de bijgewerkte details op.
 
 ## <a name="earnings-incorrect-or-missing"></a>Winst is onjuist of ontbreekt
 

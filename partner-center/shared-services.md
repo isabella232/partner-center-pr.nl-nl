@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532035"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247710"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Voeg Shared Services van Azure-partners toe zodat partners Azure-abonnementen kunnen kopen voor hun eigen gebruik
 
@@ -25,7 +25,7 @@ ms.locfileid: "94532035"
 - Beheer agent
 - Verkoop agent
 
-Azure partner Shared Services is een nieuw aanbiedings type voor partners in het CSP-programma, waardoor partners Azure-abonnementen kunnen kopen voor eigen gebruik.Hiermee maakt u de kans dat partners een uniforme methode gebruiken voor het kopen, bijhouden en beheren van Azure, naast de mogelijkheid om hun Azure-licenties samen te voegen en overeenkomsten te verkopen met micro soft. Met gedeelde Azure-partners hebben partners nu dezelfde flexibiliteit voor het gebruik van Azure-abonnementen in CSP als in de Program ma's van micro soft Enterprise Agreement en Web direct, scenario's voor het openen van ontwikkel-en test omgevingen, het implementeren van interne workloads en het hosten van gedeelde services of multi tenant-toepassingen.  
+Azure partner Shared Services is een nieuw aanbiedings type voor partners in het CSP-programma, waardoor partners Azure-abonnementen kunnen kopen voor eigen gebruik.Hiermee maakt u de kans dat partners een uniforme methode gebruiken voor het kopen, bijhouden en beheren van Azure, naast de mogelijkheid om hun Azure-licenties samen te voegen en overeenkomsten te verkopen met micro soft. Met gedeelde Azure-partners hebben partners nu dezelfde flexibiliteit voor het gebruik van Azure-abonnementen in CSP als in de Program ma's van micro soft Enterprise Overeenkomst en Web direct, scenario's voor het openen van ontwikkel-en test omgevingen, het implementeren van interne workloads en het hosten van gedeelde services of multi tenant-toepassingen.  
 
 ## <a name="create-the-shared-services-tenant"></a>De Shared Services-Tenant maken
 
@@ -45,7 +45,7 @@ Azure partner Shared Services is een nieuw aanbiedings type voor partners in het
 
 - Het Azure-Interne/gedeelde services-abonnement is een nieuw Azure-aanbiedings type in CSP die toegankelijk is via het partner centrum waarmee partners hun eigen gebruik van Azure kunnen verkrijgen.
 
-- Azure-Interne/gedeelde services aanbieding komt in aanmerking voor kortingen en prikkels.  Azure partner Shared Services-abonnementen komen in aanmerking en kunnen worden gebruikt om RIs aan te schaffen.
+- Azure partner Shared Services-abonnementen komen in aanmerking en kunnen worden gebruikt om RIs aan te schaffen.
 
 - De aanbieding Azure-Interne/gedeelde services kan alleen worden toegepast op de Shared Services-Tenant.
 
