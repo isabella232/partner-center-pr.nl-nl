@@ -1,7 +1,7 @@
 ---
 title: Software-abonnementen verkopen via CSP
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over hoe partners in het CSP-programma het partner centrum kunnen gebruiken voor het kopen, beheren, verkopen en annuleren van voor Azure gereserveerde instanties en server abonnementen voor klanten.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6e08baf11061bc027b52d4662311bdc91ee0202
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756102"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475191"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Software abonnementen verkopen via het programma Cloud Solution Provider (CSP)
 
@@ -92,18 +92,25 @@ Voor het kopen van software-abonnementen namens een klant:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Software-abonnementen activeren en beheren
 
-Nadat u uw software hebt aangeschaft, moeten uw klanten deze downloaden. Gebruik de volgende procedure om dit te doen.
+Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (partners die gebruikmaken van het Microsoft 365-beheer centrum). Gebruik de volgende procedure om dit te doen. Het is belang rijk om te begrijpen welke Risico's zijn verbonden aan het kopiëren van koppelingen en het downloaden van software. Zie voor meer informatie **Partner Center gebruiken om software downloads en licentie sleutels voor klanten te verkrijgen** in de [nieuwe Commerce Operations Guide van het partner centrum](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->U moet een beheerders agent zijn om de koppeling naar sleutels en down loads op te halen.
+>U moet een beheer agent zijn in het partner centrum om de koppeling naar sleutels en down loads te verkrijgen.
 
 1. Ga naar de detail pagina van uw klant en selecteer vervolgens **Software**. U ziet een lijst van alle software die u namens de klant hebt aangeschaft.
-2. Kopieer de ' diepe koppeling ' van een **koppeling naar software product codes en down loads** en deel de koppeling met uw klant. Wanneer ze deze koppeling selecteren, worden ze omgeleid naar het micro soft-beheer centrum om de product codes te downloaden en te verkrijgen.
+
+2. Kies product **versie**, **taal**, **bit** en selecteer **sleutels en down loads ophalen**. 
+
+3. Kies **sleutel ophalen** , waarmee het 32-cijferig product wordt weer gegeven in een pop-updialoogvenster dat u kunt kopiëren en verzenden naar de klant. 
+
+4. Kies **downloaden** om de bits te downloaden. 
+
+5. Kies **koppeling kopiëren** als u de klant de koppeling naar de bits-down load wilt sturen. 
+
+6. U kunt ook de software order **Annuleren** en 100% credit ontvangen (indien gedaan binnen de periode van het annulerings beleid van 60 dagen).
 
 >[!NOTE]
->Alleen klanten kunnen de product codes bekijken en informatie downloaden in het micro soft-beheer centrum. Partners kunnen deze informatie niet zien.
-
-Als u of uw klanten meer willen weten over het downloaden van licentie sleutels, raadpleegt u [software en product codes voor licenties downloaden](/microsoft-365/admin/setup/download-software-licenses-csp).
+>Alleen klanten hebben toegang om de product codes te bekijken en informatie te downloaden in het Microsoft 365-beheer centrum (globale beheerdersrol vereist). Partners moeten Partner Center gebruiken om deze informatie te bekijken.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Downloaden van server abonnementen en licentie sleutels die beschikbaar zijn via Microsoft 365 beheer centrum voor klanten 
 
