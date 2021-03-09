@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475276"
+ms.locfileid: "102514082"
 ---
 # <a name="september-2020-announcements"></a>Aankondigingen van september 2020
 
@@ -57,6 +57,12 @@ Het Microsoft 365-beheer centrum verbetert de veilige levering van software die 
 
 Voor vragen met betrekking tot deze melding kunt u contact opnemen met [Partner Center-ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Wijzigingen logboek:
+
+- 30 september 2020: oorspronkelijke publicatie 
+
+- 5 maart 2021: er is een opmerking aan de bovenkant toegevoegd met betrekking tot het herstel van partner Center-software en de mogelijkheden voor het uitvoeren van licentie sleutels.
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Wijzigingen in het programma voor Cloud Solution Provider (CSP) en Open License Program: reis naar een betere partner-en klant ervaring
 
@@ -71,6 +77,9 @@ Alle partners in de CSP en geopende Program ma's
 
 ### <a name="details"></a>Details
 
+>[!NOTE]
+>Vanwege partner feedback hebben we reactiveren de mogelijkheden van het Partner Center om software-en licentie sleutels te verkrijgen voor permanente en server Subscription-software orders. Het wordt teruggezet naar de vorige staat voordat deze werd verwijderd op 19 januari 2021. Zie de [aankondiging van maart 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4)voor meer informatie.
+
 Het micro soft CSP-programma is exponentieel gegroeid, met meer dan 90.000 deelnemende bedrijven. Het is onze verkoop beweging van de primaire partner voor kleine en middel grote bedrijven en voor kleinere zakelijke klanten binnen de nieuwe Commerce ervaring. Op basis van deze impuls hebben we de verkoop kansen voor partners in het CSP-programma uitgebreid. Meer informatie vindt u in onze [partner blog post](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 
 ### <a name="next-steps"></a>Volgende stappen
@@ -83,6 +92,11 @@ Het micro soft CSP-programma is exponentieel gegroeid, met meer dan 90.000 deeln
 
 Voor vragen met betrekking tot deze melding neemt u contact op met het [partner centrum-ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Wijzigingen logboek:
+
+- 30 september 2020: oorspronkelijke publicatie.
+
+- 5 maart 2021: er is een opmerking aan de bovenkant toegevoegd met betrekking tot het herstel van partner Center-software en de mogelijkheden voor het uitvoeren van licentie sleutels.
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Beschik baarheid van het hulp programma nieuwe abonnementen overgang tussen partners voor Azure-abonnement 

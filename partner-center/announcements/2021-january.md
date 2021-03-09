@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475225"
+ms.locfileid: "102514116"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -330,6 +330,12 @@ Houd er ook rekening mee dat vanaf nu de Partner Center-software en de mogelijkh
 ### <a name="questions"></a>Vragen?
 
 Raadpleeg uw relevante CSP-Yammer-community's voor meer vragen.
+
+### <a name="change-log"></a>Wijzigingen logboek:
+
+- 19 januari 2021: oorspronkelijke publicatie 
+
+- 5 maart 2021: er is een opmerking aan de bovenkant toegevoegd met betrekking tot het herstel van partner Center-software en de mogelijkheden voor het uitvoeren van licentie sleutels
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Herinnering: Inleiding tot de API-beperking voor partners die partner Center-Api's aanroepen 
