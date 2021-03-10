@@ -8,12 +8,12 @@ description: Synchroniseer verwijzingen in het partner centrum met de connector 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756788"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532035"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connector voor Dynamics 365-overzicht co-sell
 
@@ -104,7 +104,7 @@ Voordat u de oplossing voor het automatiseren van energie op de productie omgevi
      
       7. Zodra u alle verbindingen hebt toegevoegd, ziet u de volgende verbindingen in uw omgeving:
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Verbindingen":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Verbindingen":::
    
 ## <a name="edit-the-connections"></a>De verbindingen bewerken
 
@@ -141,7 +141,7 @@ Met de webhook-Api's van partner Center kunt u zich registreren voor bron wijzig
 
 3. Selecteer het **Kopieer** pictogram om de gegeven HTTP post-URL te kopiëren.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Webhooks gebruiken om resource wijzigingen te registreren":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Webhooks gebruiken om resource wijzigingen te registreren":::
 
 4. Selecteer de stroom voor het automatiseren van partner Center-webhooks (Insider preview) en selecteer vervolgens **uitvoeren**.
 
@@ -205,7 +205,7 @@ De waarde van een omgevings variabele bijwerken:
 
 3. Update **huidige waarde** (niet bijwerken standaard waarde) met de optie **nieuwe waarde** en geef de waarde op. De waarde moet overeenkomen met het gegevens type van de variabele voor bijvoorbeeld Ja/Nee-gegevens type accepteert ofwel ja of Nee.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="Omgevings variabelen bijwerken":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="Omgevings variabelen bijwerken":::
 
 - End-to-end-synchronisatie van Referral-verkoop referenties
 
