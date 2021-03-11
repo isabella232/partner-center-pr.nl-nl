@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124819"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770265"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Overzicht van het samen werken in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)
 
@@ -81,7 +81,7 @@ De account beheerder van uw bedrijf zoeken:
 
    Op de pagina worden alle account beheerders weer gegeven met hun respectieve e-mail adressen. E-mail een van de gebruikers en vraag hen om de beheerdersrol voor uw werk account toe te wijzen.
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Afbeelding van de account beheerder op de pagina partner instellingen gebruikers beheer.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Afbeelding van de account beheerder op de pagina partner instellingen gebruikers beheer.":::
 
 >[!Important]
 >- Als uw rol alleen het beheer van gebruikers in PSC omvat, vraagt u de account beheerder van uw bedrijf om u de rol [account beheerder](permissions-overview.md#manage-mpn-membership-and-your-company) toe te wijzen in het partner centrum. 
@@ -95,7 +95,7 @@ Nadat u uw account in partner centrum hebt ingesteld, gebruikt u de wizard Gebru
 >[!Note]
 > Gebruikers migratie kan alleen worden uitgevoerd door [account beheerders](permissions-overview.md#manage-mpn-membership-and-your-company) van uw bedrijf. Als u de rol account beheerder niet hebt, kunt u een account beheerder vinden die u kan helpen bij het instellen van de gebruikers accounts met behulp van de wizard gebruikers migratie.
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Afbeelding van de wizard gebruikers migratie.":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Afbeelding van de wizard gebruikers migratie.":::
 
 Account beheerders zien een koppeling van de wizard PSC-gebruikers migratie op de pagina mogelijkheden voor samen verkoop naast de hand leiding voor verwijzingen. Ze kunnen de gebruikers migratie initiëren door de koppeling te selecteren. Beheerders kunnen de koppeling selecteren om de gebruikers migratie te initiëren. Ze kunnen deze gebruikers migratie stap meerdere keren uitvoeren totdat alle gebruikers de juiste rollen hebben toegewezen in het partner centrum.
 

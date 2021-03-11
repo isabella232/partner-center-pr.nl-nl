@@ -6,17 +6,17 @@ description: Meer informatie over het controleren van uw bedrijfs gegevens, zoal
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/03/2021
+ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220258"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770240"
 ---
-# <a name="verify-your-company-profile-information-in-partner-center"></a>De gegevens van uw bedrijfs profiel controleren in het partner centrum
+# <a name="verify-or-update-your-company-profile-information"></a>De gegevens van uw bedrijfs profiel controleren of bijwerken 
 
 **Juiste rollen**
 
@@ -26,7 +26,6 @@ ms.locfileid: "102220258"
 De eerste keer dat u zich bij Partner Center als globale beheerder aanmeldt, moet u bevestigen dat alle bedrijfs gegevens juist zijn. Dit zijn onder andere primaire contact persoon, juridische bedrijfs naam en adres, en programma-informatie. Als uw bedrijf meer dan één locatie heeft, controleert u uw locatie gegevens op nauw keurigheid. Als globale beheerder, facturerings beheerder of beheer agent kunt u ook uw facturerings-en belasting gegevens bekijken en bijwerken.
 
 Uw partner profiel bestaat uit uw juridische zakelijke gegevens, de naam en het e-mail adres van de primaire contact persoon, de Program ma's waarmee uw bedrijf deelneemt, en, indien van toepassing, uw andere bedrijven die nu onder uw juridische zaken worden samengevoegd. Zorg ervoor dat de bedrijfs naam en het adres in uw juridisch bedrijfs profiel geen spel fouten en afkortingen bevatten en overeenkomen met uw formele zakelijke registratie records voor bedrijven. Als u als enige eigenaar werkt, moet u uw bedrijfs naam gebruiken als uw geldige naam.
-
 
 
 ## <a name="locate-the-legal-business-profile"></a>Het juridische zakelijke profiel zoeken
@@ -39,22 +38,37 @@ Uw partner profiel bestaat uit uw juridische zakelijke gegevens, de naam en het 
 
 Als u uw andere bedrijven hebt samengevoegd onder uw juridische zaken, kunt u deze informatie ook bekijken. 
 
-## <a name="update-your-legal-business-profile"></a>Uw juridische zakelijke profiel bijwerken
+## <a name="update-your-legal-business-profile"></a>Uw juridische zakelijke profiel bijwerken 
 
-Werk uw juridische adres bij in Partner Center.
+Werk de naam of het adres van uw rechts bedrijf bij in het partner centrum.
 
 >[!Important]
 >- Voor MPN-accounts kan zowel de beheerder van de globale beheerder als het account de juridische bedrijfs naam bijwerken.
 >- Voor een indirecte dealer-account van CSP kan alleen de globale beheerder de naam van de juridische onderneming bijwerken. 
+>- Directe factuur partners en indirecte providers kunnen de juridische naam van hun bedrijf niet wijzigen als de account verificatie status is **geautoriseerd**. Als u de naam wilt wijzigen, moet u een [ondersteunings ticket](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)maken.
 
-1. Ga naar **instellingen** en selecteer **organisatie profiel**.
 
-2. Selecteer **juridisch**  en selecteer vervolgens het juridische zakelijke profiel dat u wilt gebruiken.
+
+1. Ga naar **instellingen**, **account instellingen** en selecteer **organisatie profiel**.
+
+2. Selecteer **juridisch**  en selecteer vervolgens het profiel voor juridische zaken dat u wilt bijwerken.
+
+1. Klik op **bijwerken**  naast bedrijfs naam/adres en wijzig de details.
  
-1. Wanneer u verzenden selecteert, wordt uw juridische identiteit **opnieuw** beoordeeld en ontvangt u een andere e-mail die u moet accepteren.
+1. Wanneer u verzenden selecteert, wordt uw juridische identiteit **opnieuw** beoordeeld.
+
+1. Als de verificatie mislukt, leert u hoe u [het probleem kunt oplossen](verification-responses.md).
 
 >[!Important]
->Als u een CSP-partner (Cloud Solution Provider) bent, kunt u het land dat is gekoppeld aan uw juridische adres niet wijzigen. Het land van rechts adres is gekoppeld aan uw Tenant en services, evenals de valuta waarmee u zakendoet. Directe factuur partners en indirecte providers kunnen de juridische naam van hun bedrijf niet wijzigen als de validatie status ' geautoriseerd ' is. Als u de naam wilt wijzigen, moet u [een ondersteunings ticket maken](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Als u een CSP-partner (Cloud Solution Provider) bent, kunt u het land dat is gekoppeld aan uw juridische adres niet wijzigen. Het land van rechts adres is gekoppeld aan uw Tenant en services, evenals de valuta waarmee u zakendoet. Lees voor meer informatie over MPN-land updates  [MPN](manage-locations.md#change-country-of-partner-global-account).
+
+
+### <a name="who-can-update-legal-business-name-and-when"></a>Wie kan juridisch bedrijfs naam bijwerken en wanneer
+
+|**Programma**|**Wie kan de bedrijfs naam bijwerken?**|**Wanneer (status) het kan worden bijgewerkt**|**Toegestaan**|
+|---------------------|:-------------------------------|:------------|:-----------------|
+MPN|Globale beheerder; Account beheerder|Daartoe status afgekeurd| Toegestaan|
+|CSP: indirecte wederverkoper|Globale beheerder|Daartoe status afgekeurd| Toegestaan|
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Uw MPN Global Business-account bijwerken
@@ -78,7 +92,6 @@ De MPN-ID die is gekoppeld aan uw CSP-account bijwerken:
 ## <a name="update-your-csp-legal-billing-address"></a>Het geldige CSP-factuur adres bijwerken
 
 Als u de globale beheerder, facturerings beheerder of beheer agent bent, kunt u het adres wijzigen dat op uw factuur wordt weer gegeven in uw **Afbetalings-en BTW-profiel**. U kunt de bedrijfsnaam op uw factuur echter niet wijzigen vanwege een beperking van het factuursysteem.
-
 
 
 ## <a name="next-steps"></a>Volgende stappen

@@ -1,38 +1,38 @@
 ---
-title: Bulk bewerkingen via Excel-bestanden in verwijzingen
+title: Bulksgewijs exporteren en verkoop kansen importeren via Excel/CSV-bestanden in verwijzingen
+description: Meer informatie over het downloaden, maken of bijwerken van verkoop kansen met Excel (CSV)-bestanden in het partner centrum
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het downloaden, maken of bijwerken van verkoop kansen met behulp van Excel-bestanden
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756069"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619389"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Bulk bewerkingen voor verkoop kansen met bestanden met door komma's gescheiden waarden (CSV)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Bulk bewerkingen voor verkoop kansen met bestanden met door komma's gescheiden waarden (CSV)
 
 **Juiste rollen**
 
 - Beheerder van verwijzingen
 - Referenties gebruiker
 
-Bulk bewerkingen in Partner Center bieden uw bedrijf de mogelijkheid om gegevens in de verkoop kansen te exporteren en te importeren. Ga naar de pagina verkoop kansen om de koppelingen importeren en exporteren in de rechter bovenhoek van het vaandel met de pagina titel te vinden. Gebruikers met de machtigingen **beheerder** en **verwijzingen** van verwijzingen kunnen deze functionaliteit gebruiken.
+Bulk bewerkingen in het partner centrum helpen uw bedrijf bij het exporteren en importeren van gegevens over de verkoop kansen. Ga naar de pagina **verkoop kansen** om de koppelingen **importeren** en **exporteren** in de rechter bovenhoek van het vaandel met de pagina titel te vinden. Gebruikers met de machtigingen **beheerder** en **verwijzingen** van verwijzingen kunnen deze functionaliteit gebruiken.
 
 > [!IMPORTANT]
 > De acties voor maken/bijwerken die worden uitgevoerd via bulk import, kunnen niet onomkeerbaar zijn. Wees voorzichtig wanneer u een groot aantal records wijzigt of maakt. Er kan alleen een subset van velden worden gewijzigd na het maken van een deal. **Er zijn geen acties toegestaan zodra een van de deals een Terminal status bereikt zoals geweigerd/verlopen/gewonnen/verloren.**
 
-## <a name="exporting-co-sell-opportunities"></a>Verkoop kansen exporteren
+## <a name="export-co-sell-opportunities"></a>Verkoop kansen exporteren
 
-Hieronder ziet u de details van de export functionaliteit
+De volgende informatie beschrijft de export functionaliteit:
 
-- U kunt **Maxi maal 5000 records** exporteren door te klikken op de knop exporteren.
+- U kunt **Maxi maal 5000 records** exporteren door te klikken op de knop **exporteren** .
 - De deals die worden gedownload, zijn gebaseerd op uw toegangs niveaus. Verwijzings beheerders en verwijzings gebruikers kunnen verschillende resultaten krijgen op basis van hun bereik en worden opgenomen als team leden in de deals. Meer informatie over [machtigingen voor verwijzingen](permissions-overview.md#manage-referrals).
 - De functie exporteren neemt het huidige tabblad op op de pagina verkoop kansen en de filters die zijn toegepast.
 - Een CSV-bestand met alle gegevens op basis van de toegepaste filters worden gegenereerd.
@@ -40,7 +40,7 @@ Hieronder ziet u de details van de export functionaliteit
 - U hoeft niet te wachten totdat de download actie is voltooid. Zelfs als u naar andere pagina's in het partner centrum navigeert, wordt het bestand gedownload zodra de export functie is voltooid.
 - U kunt het gedownloade bestand opnieuw gebruiken om de details van de deal te wijzigen en te uploaden om alle records bij te werken.
 
-## <a name="importing-co-sell-opportunities"></a>Verkoop kansen importeren
+## <a name="import-co-sell-opportunities"></a>Verkoop kansen importeren
 
 - U kunt **Maxi maal 1000 records** maken of bijwerken met behulp van de import functionaliteit.
 - U kunt de sjabloon helemaal zelf bouwen door de sjabloon te downloaden van de pagina importeren in Partner Center.
@@ -95,3 +95,10 @@ Opmerkingen bij micro soft|Nee|Eventuele specifieke opmerkingen bij micro soft a
 Toestemming voor het delen van contact persoon van klant/partner|Ja|Toestemming om contact gegevens van klanten te delen en uw werk nemers van uw bedrijf contact opnemen met gegevens die aan de deal werken. **Er worden geen deals gemaakt of bijgewerkt als u Nee kiest voor deze kolom.** |Ja
 Oplossing 1|Ja|Oplossings-ID (vereist), de valuta (optioneel) waarin de deal waarde is ingevoerd. U kunt [hier](https://en.wikipedia.org/wiki/ISO_4217)de valuta codes vinden, de prijs van de SKU (optioneel) en de hoeveelheid van de SKU (optioneel)  |SOL-1234-PQRS, USD, 10, 100
 Team lid 1|Ja|De voor naam, achternaam, het mobiele nummer en de e-mail-ID van het betrokken teamlid.| Bob, partner, 999999, Bob.partner@Contoso.com
+
+## <a name="next-steps"></a>Volgende stappen
+
+U kunt deze connectors voor partner Centers gebruiken om te verkopen met micro soft vanuit uw CRM-systemen.
+
+- [Connector voor Dynamics 365-overzicht co-sell](connector-dynamics.md)
+- [Connector voor Sales Force-verkoop-overzicht](connector-salesforce.md)

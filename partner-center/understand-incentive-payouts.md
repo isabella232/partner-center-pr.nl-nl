@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755858"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022805"
 ---
 # <a name="view-your-incentives-program-details"></a>Details van uw prikkel programma weer geven
 
@@ -22,18 +22,17 @@ ms.locfileid: "101755858"
 
 - Prikkel beheerder
 - Gebruiker stimuleren
-- Viewer voor alleen-lezen van prikkel
 - Globale beheerder
 - MPN-partner beheerder
 
-In dit artikel wordt uitgelegd hoe u toegang krijgt tot de **overzichts pagina van mijn stimulans** , waarin de algemene status van uw prikkel Programma's wordt weer gegeven, evenals de status van elk programma op elke locatie. Het biedt ook de verschillende statussen voor inschrijving. 
+In dit artikel wordt de **overzichts pagina van mijn stimulans** beschreven, waarin de algemene status van uw prikkel Programma's wordt weer gegeven, evenals de status van elk programma op elke locatie. Het biedt ook de verschillende statussen voor inschrijving.
 
 >[!NOTE]
 >Zie [partner investeringen en prikkels](https://partner.microsoft.com/membership/partner-incentives) (aanmelden vereist) voor meer informatie over prikkel-en stimulerings functies in Partner Center.
 
 ## <a name="access-the-incentives-overview-page"></a>Toegang tot de pagina prikkel overzicht
 
-1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard).
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
 1. Selecteer **prikkels** en vervolgens **overzicht** in het menu.
 1. Bekijk bovenaan de pagina de samenvatting van inkomsten en betalingen, en bekijk meer informatie in de onderstaande tabel. U kunt ook de bijbehorende tabel sorteren, groeperen en uitvouwen:
 

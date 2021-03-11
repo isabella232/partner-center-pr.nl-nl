@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755823"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022737"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Upgrade sommige onderwijs klanten van Windows 10 Home naar Windows 10 education
 
 **Juiste rollen**
 
 - Beheer agent
-- Helpdesk medewerker
+- Factureringsbeheerder
 
 ## <a name="overview"></a>Overzicht
 
@@ -58,7 +58,7 @@ Partners moeten een ondersteunings aanvraag maken en sleutels ontvangen van onde
 - **Titel:** Product code voor de upgrade van Windows 10 Home naar Windows 10
 - **Beschrijving:** Er wordt gevraagd om de sleutels [insert nummer] in te scha kelen voor een upgrade naar Windows 10-onderwijs. (Houd er rekening mee dat het aangevraagde aantal sleutels niet groter mag zijn dan uw Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnements licenties.) Abonnements-ID van de klant [Voeg abonnements-ID-GUID voor klanten in voor hun Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnement.]
 - **Contact nummer:** Dit wordt vooraf ingevuld. controleren om te bevestigen of bij te werken.
-- **E-mail:** Dit wordt vooraf ingevuld en dit moet het e-mail adres zijn dat u gebruikt als micro soft Portal-beheerder (alleen voor globale beheerder of facturerings beheerder).
+- **E-mail:** Dit wordt vooraf ingevuld en moet het e-mail adres zijn dat u gebruikt als micro soft Portal-beheerder (alleen globale beheerder of facturerings beheerder).
 - **Voorkeurs methode voor contact personen**: Kies **telefoon** of **plan terugbellen**.
 
 8. Selecteer **contact opnemen**. De verwachte wacht tijd wordt aangegeven in het deel venster **hulp nodig?** .
@@ -92,8 +92,9 @@ Onderwijs klanten dienen goedkope Windows 10-onderwijs apparaten te overwegen vi
 **Is er een deadline voor wanneer u contact opneemt met ondersteuning en de upgrade sleutel ontvangt?**
 De Windows 10 education-upgrade is gebaseerd op de actieve Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-licentie abonnementen van de klant. Als de klant het abonnement niet verlengt of verlengt, wordt de geschiktheid voor de upgrade ook beëindigd.
 
+## <a name="next-steps"></a>Volgende stappen
+
 **Waar kunnen partners meer informatie krijgen over Windows 10-onderwijs?**
-Meer informatie vindt u op de volgende koppelingen:
 
 - [Windows Eduction-functies](https://www.microsoft.com/education/products/windows/features)
 - [Windows education hub](/education/windows/)

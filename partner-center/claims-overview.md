@@ -1,7 +1,7 @@
 ---
 title: Overzicht van prikkels en claims
 ms.topic: article
-ms.date: 10/29/2020
+ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Meer informatie over het indienen van een succes volle mede-op-claim voor uw prikkels door de juiste documentatie, facturen, verklaringen en het bewijs van de uitvoering te organiseren.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354505"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022703"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Coöperatieve marketing fondsen verdienen
 
@@ -54,10 +54,10 @@ In de onderstaande tabel ziet u de verschillende verdienen-, gebruiks-en claim p
 
 |  Als uw verdienen-en toename periode  |De halfjaarlijkse periode van het boek jaar is  |  Uw gebruiks periode is  |  Uw claim periode is  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Juli-dec 2020**| FY20 H1  |  Jan-juni 2021  |  16 augustus 15 2021  |
-|**Jan-juni 2021** |  FY20 H2  |  Juli-dec 2021  |  Aug 16 2021-feb 15 2022  |
-|**Juli-dec 2021**|  FY21 H1  |  Jan-juni 2022  |  16 augustus 15 2022  |
-|**Jan-juni 2022** |  FY21 H2  |  Juli-dec 2022  |  Aug 16 2022-feb 15 2023  |
+|**Juli-dec 2020**| FY21 H1  |  Jan-juni 2021  |  16 augustus 15 2021  |
+|**Jan-juni 2021** |  FY21 H2  |  Juli-dec 2021  |  Aug 16 2021-feb 15 2022  |
+|**Juli-dec 2021**|  FY22 H1  |  Jan-juni 2022  |  16 augustus 15 2022  |
+|**Jan-juni 2022** |  FY22 H2  |  Juli-dec 2022  |  Aug 16 2022-feb 15 2023  |
 
 >[!NOTE]
 >Micro soft behoudt zich het recht voor om originele documenten voor het testen van de uitvoering (PoE) aan te vragen. Bewaar al uw oorspronkelijke documenten 24 maanden na de datum van de activiteit.

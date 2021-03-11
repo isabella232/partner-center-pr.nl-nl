@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220269"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619423"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van maart 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Functies|[De nieuwe Commerce-ervaring in het Cloud Solution Provider-programma (CSP) voor Azure naar Rusland uitbreiden](2021-march.md#5)|10 maart|
 |Functies|[Licentie sleutel voor partner centrum-software en down loads](2021-march.md#4)|5 maart|
 |Functies|[Uw deals migreren van partner Sales Connect (PSC) naar partner centrum](2021-march.md#3)|5 maart|
 |Functies|[Nieuwe micro soft Dynamics 365-producten en aanbiedingen die beschikbaar zijn op 1 april 2021](2021-march.md#2)|4 maart|

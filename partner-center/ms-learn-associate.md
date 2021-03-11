@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756574"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022720"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Een micro soft-certificerings profiel-ID (MCID) koppelen of ontkoppelen aan een Microsoft Partner Network-account (MPN)
 
@@ -33,8 +33,7 @@ Gebruik de onderstaande procedure om toegang te krijgen tot partner University.
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 2. Selecteer het pictogram met het blauwe **Mijn profiel** in de rechter bovenhoek
-3. Selecteer **partner University Access ophalen** in het **leer** veld.
-Uw partner University-account wordt nu gekoppeld aan uw gebruikers account van uw partner centrum. Uw beoordelingen worden weer gegeven in het rapport met gebruikers vaardigheden van het partner centrum binnen 72hrs. Nieuw door gegeven beoordelingen kunnen 7-10 dagen in beslag nemen in het rapport.
+3. Selecteer **partner University Access ophalen** in het **leer** veld. U moet de referenties van uw partner University-account opgeven (niet uw partner centrum account) uw partner University-account is nu gekoppeld aan uw gebruikers account van uw partner centrum. Uw beoordelingen worden weer gegeven in het rapport met gebruikers vaardigheden van het partner centrum binnen 72hrs. Nieuw door gegeven beoordelingen kunnen 7-10 dagen in beslag nemen in het rapport.
 4. Als u de koppeling wilt verwijderen, selecteert u **toegang verwijderen**.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Een micro soft Learning-account koppelen
@@ -47,6 +46,10 @@ Gebruik de volgende procedure om een micro soft Learning-account te koppelen.
 
 >[!NOTE]
 >Als de referenties voor het micro soft Learning-account hetzelfde zijn als de referenties van het partner University-account, selecteert u **gebruiken email@address om mijn micro soft Learning-account te koppelen**.
+
+## <a name="download-skills-report-microsoft-certification-list"></a>Rapport met vaardig heden downloaden (micro soft-certificerings lijst)
+Als u meer informatie nodig hebt, kan de skillsreport worden geopend en gedownload door elke globale beheerder of MPN partner beheerder van het partner centrum. Voor [meer informatie](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data).
+
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Veelgestelde vragen over het koppelen van accounts
 

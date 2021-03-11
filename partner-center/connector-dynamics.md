@@ -1,19 +1,19 @@
 ---
 title: De connector voor het samen verkopen van Dynamics 365 CRM-partner centrum
+description: Synchroniseer verwijzingen in het partner centrum met de connector voor co-sell voor Dynamics 365 CRM. Verkopers kunnen vervolgens samen met micro soft verkopen binnen uw CRM-systemen.
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Synchroniseer verwijzingen in het partner centrum met de connector voor co-sell voor Dynamics 365 CRM. Verkopers kunnen vervolgens samen met micro soft verkopen binnen uw CRM-systemen.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532035"
+ms.locfileid: "102619406"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connector voor Dynamics 365-overzicht co-sell
 
@@ -88,7 +88,7 @@ Voordat u de oplossing voor het automatiseren van energie op de productie omgevi
 
    - CRM-beheerder met de stroom voor het automatiseren van stromen in de oplossing.
 
-      1. Selecteer **verbindingen** in de linkernavigatiebalk en selecteer de oplossing Partner Center referrals in de lijst.
+      1. Selecteer **verbindingen** in de linkernavigatiebalk en selecteer de oplossing **Partner Center referrals** in de lijst.
 
       2. Maak een verbinding door te klikken op **een verbinding maken**.
 
@@ -110,11 +110,11 @@ Voordat u de oplossing voor het automatiseren van energie op de productie omgevi
 
 1. Ga terug naar de pagina **oplossingen** en selecteer **standaard oplossing**. Selecteer **verbindings verwijzing (preview)** door te klikken op **alle**.
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="De verbindingen bewerken":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="De verbindingen bewerken":::
 
 2. Bewerk elk van de verbindingen één voor één door het pictogram drie punten te selecteren. Voeg de relevante verbindingen toe.
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Verbindingen vermeld"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Verbindingen vermeld"::: 
 
 3.  Ga terug naar de pagina oplossingen, selecteer de synchronisatie van partner Center referrals voor Dynamics 365 en schakel de stroom in door te klikken op het pictogram drie punten naast elke stroom in de volgende reeks. Zie [aanpassings stappen](connector-dynamics.md#customize-synchronization-steps) en [stappen voor probleem oplossing](connectors-troubleshoot.md)als u problemen ondervindt bij het inschakelen van de stroom. 
 
@@ -171,19 +171,19 @@ Hier volgen de beschik bare aanpassingen:
 
 - Deal waarde: standaard wordt de deal waarde van partner Center gesynchroniseerd van en naar **estimatedvalue** in CRM. Als u een ander veld in CRM hebt voor het afhandelen van waarde om te synchroniseren vanaf:
 
-    a.    De naam van het veld deal waarde bijwerken in de Dynamics 365-omgevings variabele met de naam van het CRM-veld. Houd er rekening mee dat u de naam van het veld niet de weergave naam moet opgeven.
+  a. De naam van het veld deal waarde bijwerken in de Dynamics 365-omgevings variabele met de naam van het CRM-veld. Houd er rekening mee dat u de naam van het veld niet de weergave naam moet opgeven.
 
-    b.    Bewerken **[aanpassen] Maak of ontvang Details van de Dynamics 365-stroom**  en navigeer naar een opportuniteit **maken of bijwerken** in CRM en update **Maak een nieuwe kans** en **werk de bestaande opportuniteits** acties bij om **DealValue** waarde toe te wijzen aan het juiste veld in CRM. Verwijder ook de **toewijzing DealValue** uit het veld **geschatte omzet** .
+  b. Bewerken **[aanpassen] Maak of ontvang Details van de Dynamics 365-stroom**  en navigeer naar een opportuniteit **maken of bijwerken** in CRM en update **Maak een nieuwe kans** en **werk de bestaande opportuniteits** acties bij om **DealValue** waarde toe te wijzen aan het juiste veld in CRM. Verwijder ook de **toewijzing DealValue** uit het veld **geschatte omzet** .
 
 - Land code klant account: het is verplicht een land code van twee letters (ISO 3166) op te geven bij het maken van een nieuwe verwijzing. De land code wordt standaard gesynchroniseerd van en van het address1_country veld van het account in CRM. Als u een ander veld in CRM hebt voor de land code waarvan u wilt synchroniseren:
 
-   a.    Voor een niet-opzoek veld land code in account met code van twee letters:
+   a. Voor een niet-opzoek veld land code in account met code van twee letters:
 
    - De land code veld naam van het klant account bijwerken in de Dynamics 365-omgevings variabele met de naam van het CRM-veld. Houd er rekening mee dat u de naam van het veld niet de weergave naam moet opgeven.
 
    - Bewerken **[aanpassen] Maak of ontvang Details van de Dynamics 365-stroom**  en navigeer naar het maken of ophalen van klant account in CRM-actie om land waarde toe te wijzen aan het juiste veld in CRM. Verwijder ook de waarde toewijzing van het land uit adres 1: veld land/regio.
 
-   b.    Voor een veld voor een land code op basis van een zoek opdracht in account:
+   b. Voor een veld voor een land code op basis van een zoek opdracht in account:
 
    - Voeg een nieuw aangepast veld toe aan het account en vul het automatisch in met een land code van twee letters (ISO 3166) op basis van de waarde die is geselecteerd in het veld op basis van zoek opdrachten en vice versa.
 
@@ -205,7 +205,7 @@ De waarde van een omgevings variabele bijwerken:
 
 3. Update **huidige waarde** (niet bijwerken standaard waarde) met de optie **nieuwe waarde** en geef de waarde op. De waarde moet overeenkomen met het gegevens type van de variabele voor bijvoorbeeld Ja/Nee-gegevens type accepteert ofwel ja of Nee.
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="Omgevings variabelen bijwerken":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="Omgevings variabelen bijwerken":::
 
 - End-to-end-synchronisatie van Referral-verkoop referenties
 
@@ -242,13 +242,11 @@ De volgende aangepaste velden moeten deel uitmaken van de sectie CRM:
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
 
-
-
 - Nadat u micro soft-oplossingen hebt toegevoegd, kunt u de details van kant-en-klare oplossingen vooraf invullen, zodat uw verkopers deze niet hoeven toe te voegen. Als u een nieuwe oplossings detail wilt toevoegen, gaat u naar micro soft Solution Details object in CRM en klikt u op **record toevoegen** om één item toe te voegen of **Excel-upload** gebruiken om meerdere vermeldingen toe te voegen.
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="Details van oplossing":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="Details van oplossing":::
 
-### <a name="scenarios"></a>DENKBAAR
+### <a name="scenarios"></a>Scenario's:
 
 1. Verwijzings synchronisatie wanneer verwijzing wordt gemaakt of bijgewerkt in CRM en gesynchroniseerd in partner centrum:
 
@@ -265,6 +263,7 @@ De volgende aangepaste velden moeten deel uitmaken van de sectie CRM:
          :::image type="content" source="images/dynamic-3a.png" alt-text="De juiste velden ophalen in de kaart weergave":::
 
       - **Contact persoon** van de klant: als u een verwijzing naar de verkoop wilt maken, voegt u een contact persoon van de klant toe aan de opportuniteit.
+
       - **Synchroniseren met partner centrum**: Ja
 
       - Micro soft-oplossingen: als u een verwijzing met micro soft wilt delen, voegt u een geldige oplossing voor het samen voegen van de verkoop gereed of micro soft toe.

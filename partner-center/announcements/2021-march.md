@@ -8,17 +8,37 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220292"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619440"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft partner centrum voor maart 2021.
+
+________________
+## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>De nieuwe Commerce-ervaring in het Cloud Solution Provider-programma (CSP) voor Azure naar Rusland uitbreiden
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-10
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle partners in Rusland communiceren via het CSP-programma (Cloud Solution Provider).
+
+### <a name="details"></a>Details
+
+Vanaf 10 2021 maart kunnen we de beschik baarheid van de **nieuwe Commerce-ervaring in CSP voor Azure in Rusland** aankondigen. Met deze ervaring kunt u de manier waarop klanten Azure-Services kopen en gebruiken, stroom lijnen en verbeteren. Het biedt ook partners in het CSP-programma een consistente weer gave van Azure-prijzen voor verkoop bewegingen, USD-prijzen voor globale consistentie, facturerings datum uitlijning en toegang tot Azure Cost Management.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Er zijn verschillende bronnen beschikbaar die de nieuwe Azure commerce-ervaring introduceren en aanvullende informatie bieden. Zoek de meest recente Veelgestelde vragen, dekken, video en meer in de [resource galerie van het CSP-programma updates](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Licentie sleutel voor partner centrum-software en down loads
