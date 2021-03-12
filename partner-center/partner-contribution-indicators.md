@@ -1,7 +1,7 @@
 ---
 title: Bijdrage indicatoren van partners-dit
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over zeven bijdragen aan de partner (PCI) die partners tonen over het bereiken van een Silver-of Gold Cloud Business Applications competentie.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756552"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193644"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Gebruik partner-bijdrage indicatoren om de Cloud Business Applications competentie te bereiken
 
@@ -274,11 +274,11 @@ Een partner heeft een van de twee opties om de alle-of-Nothing-punten (15 of 0 p
 
 - **Er worden geen gedeeltelijke punten toegekend.** De groei boven op de basislijn momentopname moet voldoen aan of hoger zijn dan de drempel waarden die in de volgende tabel worden aangegeven. In de tabel ziet u een **ontwikkelde** en **ontwikkelende** kolom met de functionele consultant basislijn die u nodig hebt om punten te verdienen.
 
-  | Ontwikkeld | Het ontwikkelen | De groei die nodig is om alle 15 punten te verdienen *
+  | Ontwikkeld | Het ontwikkelen | De groei die nodig is om alle 15 punten te verdienen
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35% |
   | 30-49 | 15-24 | 25% |
-  | 50 en hoger | 25 en hoger | 15% |
+  | 50 en hoger | 25 en hoger | Zie de onderstaande opties |
 
 **Optie twee om punten te verkrijgen:**
 

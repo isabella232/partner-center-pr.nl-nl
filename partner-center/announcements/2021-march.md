@@ -8,17 +8,51 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 479f18318a2cc85ca16c399a0379e5528090d229
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619440"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193627"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft partner centrum voor maart 2021.
+
+________________
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Migreer uw oplossingen van de ene commerciële partner (OCP) go-to-Market (GTM) naar de micro soft Commercial Marketplace
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-12
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Van 29 maart 2021 gaat u slechts een beperkt aantal GTM-functies (go-to-Market) van één commerciële partner (OCP) ervaren. We raden u aan uw oplossingen te migreren naar de commerciële Marketplace in Partner Center.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Organisaties die samen verkopen met oplossingen in OCP GTM
+
+### <a name="details"></a>Details
+
+In december 2020 zijn we begonnen met onze reis van het micro soft OCP GTM-hulp programma naar de micro soft Commercial Marketplace in Partner Center. Met deze overgang worden de mogelijkheden van de commerciële Marketplace uitgevouwen, waar u uw oplossingen kunt presen teren aan miljoenen klanten, kansen delen met andere verkopers van micro soft en partners, en gezamenlijk innoverende oplossingen verkopen.
+
+De volgende mijl paal in de overgang vindt plaats op 29 maart 2021. Dat is het geval wanneer u beperkte mogelijkheden van de OCP GTM gaat ervaren, waarbij sommige velden alleen-lezen worden. Als u momenteel mede-verkoop met oplossingen in OCP GTM, raden we u aan uw oplossingen naar de commerciële Marketplace te migreren om te profiteren van de mogelijkheden en uw publicatie ervaring te vereenvoudigen. 
+
+Door over te stappen op de commerciële Marketplace is partner Center het primaire doel voor de publicatie-ervaring voor de co-verkoop. Het is waar u uw bedrijf kunt blijven uitbreiden door uw oplossingen te verbinden met onze gedeelde klanten via dezelfde kanalen en in-product ervaringen die we gebruiken voor micro soft-producten. Meer [informatie over de commerciële Marketplace](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/).
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Als u uw oplossingen nog niet hebt verplaatst, volgt u de instructies in de [overgangs handleiding](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration) of bekijkt u de [Stapsgewijze video zelf studie](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) voor het volt ooien van alle migratie activiteiten en het publiceren van uw oplossing (en) in de commerciële Marketplace.
+
+- Voor vragen met betrekking tot de beperkte mogelijkheden in OCP GTM raadpleegt [u de vereisten voor samen verkoop om te publiceren in de veelgestelde vragen over micro soft Commercial Marketplace](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf). (Zie de sectie "OCP GTM beperkte mogelijkheden vanaf 29 maart 2021.")
+
+### <a name="questions"></a>Vragen?
+
+Neem contact op met de [ondersteuning](https://partner.microsoft.com/support/?stage=1) als u vragen hebt of meer informatie nodig hebt.
 
 ________________
 ## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>De nieuwe Commerce-ervaring in het Cloud Solution Provider-programma (CSP) voor Azure naar Rusland uitbreiden
