@@ -1,17 +1,17 @@
 ---
 title: Software en oplossingen kopen vanuit Azure Marketplace
 description: Meer informatie over hulpprogram ma's voor het vereenvoudigen en stroom lijnen van software-aankopen en-beheer in azure Marketplace.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584208"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412570"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace-aankopen
 
@@ -19,7 +19,7 @@ Azure Marketplace heeft talloze hulpprogram ma's en functies waarmee het proces 
 
 ## <a name="simplified-procurement"></a>Vereenvoudigde aanschaf
 
-Met Azure Marketplace kunt u het aankoopproces vereenvoudigen via verschillende aankoopopties. Als u producten koopt met een credit card die is gekoppeld aan uw Azure-account, worden alle aankopen geconsolideerd op één factuur en gefactureerd met de keuze van de credit card. Als u een grote klant bent, kunt u kopen via een Enterprise Agreement. Met een EA worden software aankopen automatisch opgenomen in uw Azure-factuur. Uw factuur bevat eerst de gebruikskosten voor Azure, gevolgd door de kosten voor Azure Marketplace.
+Met Azure Marketplace kunt u het aankoopproces vereenvoudigen via verschillende aankoopopties. Als u producten koopt met een credit card die is gekoppeld aan uw Azure-account, worden alle aankopen geconsolideerd op één factuur en gefactureerd met de keuze van de credit card. Als u een grote klant bent, kunt u kopen via een Enterprise Overeenkomst. Met een EA worden software aankopen automatisch opgenomen in uw Azure-factuur. Uw factuur bevat eerst de gebruikskosten voor Azure, gevolgd door de kosten voor Azure Marketplace.
 
 Wanneer u via Azure Marketplace koopt, elimineert u de complexiteit van het beheer van afzonderlijke leveranciers relaties en-facturen. U krijgt één geconsolideerde maandelijkse factuur van micro soft waarin zowel uw Azure Marketplace-aankopen als uw Azure-kosten zijn opgenomen.
 
@@ -65,7 +65,7 @@ U kunt de kosten en facturen van uw Azure Marketplace bekijken via het hulpprogr
 
 Het kopen van een aanbieding via Azure Marketplace kan om verschillende redenen mislukken. Het gebruik van de opdracht regel interface (CLI) voor een aankoop heeft waarschijnlijk veel problemen als gevolg van het aanschaffen van een aanbieding die niet beschikbaar of zichtbaar is in azure Marketplace. Hieronder ziet u de controles die ertoe kunnen leiden dat een aankoop mislukt:
 
-1. Het abonnement hoort bij een Enterprise Agreement (EA) en de EA-beheerder uitgeschakeld Azure Marketplace-aankopen.
+1. Het abonnement hoort bij een Enterprise Overeenkomst (EA) en de EA-beheerder uitgeschakeld Azure Marketplace-aankopen.
 1. De EA-beheerder heeft aankopen alleen voor gratis aanbiedingen ingeschakeld en de aanbieding is een betaalde aanbieding.
 1. De aanbieding is niet gevonden in de Marketplace.
 1. De Independent Software Vendor (ISV) is gestopt met het verkopen van de aanbieding, ten minste in uw regio.

@@ -1,17 +1,17 @@
 ---
 title: Persoonlijke Azure Marketplace maken en beheren in de Azure Portal
 description: Meer informatie over het maken en beheren van privé Azure Marketplace (preview) in de Azure Portal. Met private Azure Marketplace (preview) kunnen beheerders bepalen welke oplossingen van derden hun gebruikers kunnen gebruiken.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 73b9137728fba93704d9b0cb2bc93a3f6498bd90
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757067"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412706"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Persoonlijke Azure Marketplace maken en beheren in de Azure Portal
 

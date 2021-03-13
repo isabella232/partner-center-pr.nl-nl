@@ -1,17 +1,17 @@
 ---
 title: Restitutie beleid voor Microsoft AppSource en Azure Marketplace
 description: Meer informatie over het restitutie beleid voor producten die worden verkocht op Microsoft AppSource en Azure Marketplace
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: article
 author: anbene
 ms.author: jeweber
 ms.date: 11/20/2020
-ms.openlocfilehash: 28792f2666f8d7fd2171002dc71b62b151b44c7b
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007515"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412672"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Restitutie beleid voor Microsoft AppSource en Azure Marketplace
 

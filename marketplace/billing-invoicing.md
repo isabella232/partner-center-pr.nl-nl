@@ -1,17 +1,17 @@
 ---
 title: Facturering en facturering voor Azure Marketplace-klanten
 description: In dit artikel worden veelgestelde vragen over facturering en facturering voor Azure Marketplace-klanten beschreven.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514772"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412604"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Facturering en facturering van Azure Marketplace
 
@@ -50,7 +50,7 @@ U wordt gefactureerd voor uw terugkerende aankopen in de periode waarin u deze h
 
 ## <a name="invoices"></a>Facturen
 
-U ontvangt een e-mail aan het begin van elke kalender maand wanneer uw factuur beschikbaar is in de Azure Portal. In uw factuur worden alle gratis en betaalde aanbiedingen weer gegeven die u hebt gekocht en/of verbruikt tijdens de kalender maand. Als u alleen gratis aanbiedingen hebt, ziet u alleen $0 regel items en hoeft u geen betalings acties uit te voeren. **Enterprise Agreement klanten** ontvangen een gecombineerde factuur met de kosten voor Azure en Azure Marketplace (met uitzonde ring van klanten in Australië, Japan en Singapore). **Klanten die rechtstreeks vanuit Azure Marketplace kopen** , ontvangen een factuur voor Azure Marketplace-aankopen. Zie [facturen voor MOSP-accounts](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)voor meer informatie.
+U ontvangt een e-mail aan het begin van elke kalender maand wanneer uw factuur beschikbaar is in de Azure Portal. In uw factuur worden alle gratis en betaalde aanbiedingen weer gegeven die u hebt gekocht en/of verbruikt tijdens de kalender maand. Als u alleen gratis aanbiedingen hebt, ziet u alleen $0 regel items en hoeft u geen betalings acties uit te voeren. **Enterprise overeenkomst klanten** ontvangen een gecombineerde factuur met de kosten voor Azure en Azure Marketplace (met uitzonde ring van klanten in Australië, Japan en Singapore). **Klanten die rechtstreeks vanuit Azure Marketplace kopen** , ontvangen een factuur voor Azure Marketplace-aankopen. Zie [facturen voor MOSP-accounts](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)voor meer informatie.
 
 Wanneer uw factuur wordt ontvangen, varieert:
 
