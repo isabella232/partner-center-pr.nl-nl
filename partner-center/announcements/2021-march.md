@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 479f18318a2cc85ca16c399a0379e5528090d229
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: f5b9069ffe0ebfa15053a3ed18fc2ee3706d9c96
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193627"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103480983"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft partner centrum voor maart 2021.
+
+________________
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Bijwerken naar de ontwikkeling van het programma voor Cloud Solution Provider (CSP) en Open License-programma wijzigingen
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-15
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Er zijn nieuwe aanbiedingen voor permanente software van de commerciële en publieke sector beschikbaar voor het programma van de Cloud Solution Provider (CSP), samen met wijzigingen in het open Licensing-programma.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Commerciële distributeurs en beheerde wederverkopers die verkopen via het Open License-programma, evenals alle CSP-partners die gebruikmaken van permanente software
+
+### <a name="details"></a>Details
+
+In september 2020 heeft micro soft een reeks stappen [aangekondigd](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) in onze digitale trans formatie-reis om mogelijkheden uit te breiden naar partners in het CSP-programma, met inbegrip van de beschik baarheid van on-premises software voor partners. Met deze wijzigingen kunnen partners hun bedrijf groeien en hun bereik uitbreiden door gebruik te maken van software licenties in CSP. plaats ze in de Cloud-eerste wereld. Ze bieden klanten ook de mogelijkheid om over te stappen naar de Cloud en kunnen partners de flexibiliteit geven die nodig is voor klanten hybride Cloud omgevingen.
+
+Ter voortzetting van deze digitale trans formatie kondigen we de volgende wijzigingen aan:
+
+- 1 juli 2021: er worden geen nieuwe Sku's, producten of promoties toegevoegd aan de prijs lijst van het Open License-programma.
+
+- 7 juli 2021: er worden twee commerciële aanbiedingen opgehaald, legitieme Windows-en Visual Studio Professional-producten en aanbiedingen voor open bare sectoren (overheid, onderwijs en non-profit [organisaties bekijken)](https://docs.microsoft.com/partner-center/announcements/2020-december#9)toegevoegd aan de lijst met door de CSP permanente software geprijsd.  De prijs lijst kan worden gevonden in het gedeelte software van de pagina [verkoop > prijzen &](https://partnercenter.microsoft.com/pcv/sales) in partner centrum en wordt op deze datum opnieuw gepubliceerd.
+
+Zie de **volgende stappen** voor meer informatie over de ontwikkeling van het CSP-programma en het openen van het licentie programma.
+
+### <a name="next-steps"></a>Volgende stappen
+
+- CSP-programma evolutie: Bekijk de [permanente software in de gereedheids materialen van het Cloud Solution Provider-programma](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Gebruik deze [gereedheids toewijzing](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) om snel de juiste informatie te vinden voor uw rol.
+
+- Wijzigingen in het licentie programma openen: Bekijk de ontwikkeling van het [CSP-programma en Open License](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) -programma wijzigingen gereedheids materialen. Gebruik deze [gereedheids toewijzing](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) om snel de juiste informatie te vinden voor uw rol.
+
+### <a name="questions"></a>Vragen
+
+Raadpleeg uw relevante CSP-Yammer-community's voor meer vragen.
+
+_______________
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>Bijwerken naar een eerdere aankondiging: Premium-evaluaties, een invoeg toepassing voor nalevings beheer
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-15
+- Uw bedrijf laten groeien
+
+### <a name="summary"></a>Samenvatting
+
+De proef aanbiedingen mogen niet worden vermeld op de prijs lijst en worden verwijderd.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners die communiceren via de Cloud Solution Provider
+
+### <a name="details"></a>Details
+
+De proef aanbiedingen mogen niet zijn opgenomen in de prijs lijst. Deze worden verwijderd uit de prijs lijst van 1 mei 2021.
+
+De oorspronkelijke aankondiging is [hier](https://docs.microsoft.com/partner-center/announcements/2021-february#4).
+
+### <a name="additional-resources"></a>Aanvullende bronnen
+
+- [Microsoft 365 E5 beveiliging en naleving](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
+
+- [Evaluaties bouwen en beheren in micro soft Compliance Manager-Microsoft 365 naleving | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments?view=o365-worldwide)
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de resources over dit onderwerp en deel deze informatie met de juiste belanghebbenden in uw organisatie.
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante Yammer-community's voor vragen over deze aanbiedingen.
 
 ________________
 ## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Migreer uw oplossingen van de ene commerciële partner (OCP) go-to-Market (GTM) naar de micro soft Commercial Marketplace

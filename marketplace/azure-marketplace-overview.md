@@ -5,43 +5,54 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.custom: contperf-fy21q3
+ms.date: 03/09/2021
+ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412587"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486918"
 ---
 # <a name="what-is-azure-marketplace"></a>Wat is Azure Marketplace?
 
-Azure Marketplace is een online winkel met duizenden IT-software toepassingen en-services die zijn gebouwd door toonaangevende technologie bedrijven. In azure Marketplace kunt u de software en services zoeken, uitproberen, kopen en implementeren die u nodig hebt om nieuwe oplossingen te bouwen en uw Cloud infrastructuur te beheren. De catalogus bevat oplossingen voor verschillende branches en technische gebieden, gratis proef versies en ook advies services van micro soft-partners.
+[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) is een online winkel met duizenden IT-software toepassingen en-services die zijn gebouwd door toonaangevende technologie bedrijven. In azure Marketplace kunt u de software en services zoeken, uitproberen, kopen en implementeren die u nodig hebt om nieuwe oplossingen te bouwen en uw Cloud infrastructuur te beheren. De catalogus bevat oplossingen voor verschillende branches en technische gebieden, gratis proef versies en ook advies services van micro soft-partners.
 
 ## <a name="find-what-you-need-in-azure-marketplace"></a>Vind wat u nodig hebt in azure Marketplace
 
-Zoek in onze catalogus op naam of blader door categorieën, zoals analyses, beveiliging, netwerken, opslag en DevOps. Azure Marketplace vereenvoudigt aanschaf van software en IT-beheer (met de verschillende prijs opties en meerdere implementatie methoden) om u te voorzien van flexibiliteit om te voldoen aan uw unieke zakelijke behoeften. Daarnaast stroomlijnt de aanschaf met standaard contract overeenkomsten, geconsolideerde facturering en facturering, en gecentraliseerd abonnements beheer.
+Azure Marketplace biedt eenvoudige Zoek-en filter opties om snel te vinden wat u zoekt. Gebruik de zoek balk boven aan de pagina om oplossingen te zoeken op leverancier, product naam of tref woorden.
 
-De Azure Marketplace-catalogus is beschikbaar via de online winkel en via de Azure Portal.  
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Toont het hoofd venster van Azure Marketplace, waarin u kunt kiezen of u wilt zoeken in apps of Consulting Services.":::
 
-### <a name="search-the-online-store"></a>Zoeken in de online winkel
+Bij het verkennen van de app-Galerie gebruikt u de filters bovenaan om de resultaten te beperken op basis van de beschik baarheid van een gratis proef versie of test drive, besturings systeem, uitgever, prijs model of product type.
 
-Ga naar de [online winkel](https://azuremarketplace.microsoft.com/) en kies aan de bovenkant of er door **apps** of **advies Services** moet worden gebladerd. Apps die hier zijn aangeschaft, worden geïmplementeerd op Azure Marketplace.
+:::image type="content" source="media/azure-marketplace/azure-marketplace-filters.png" alt-text="Hiermee worden de filters boven aan het venster van Azure Marketplace weer gegeven.":::
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Kies in azure Marketplace aan de bovenkant of u door apps of advies Services wilt bladeren.":::
+In het deel venster links kunt u de catalogus filteren op categorieën, zoals analyses, beveiliging, netwerken, opslag en DevOps. Selecteer een categorie om de beschik bare subcategorieën weer te geven.
 
-Gebruik de zoek balk boven aan het scherm of de product categorieën verder omlaag de pagina (niet hierboven weer gegeven) om het perfecte hulp programma voor uw behoeften te vinden.
+:::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="Geeft categorieën weer met subcategorieën.":::
 
-Advies Services zijn alleen beschikbaar in de online winkel, niet op de Azure Portal.
+Azure Marketplace vereenvoudigt aanschaf van software en IT-beheer (met de verschillende prijs opties en meerdere implementatie methoden) om u te voorzien van flexibiliteit om te voldoen aan uw unieke zakelijke behoeften. Daarnaast stroomlijnt de aanschaf met standaard contract overeenkomsten, geconsolideerde facturering en facturering, en gecentraliseerd abonnements beheer. De Azure Marketplace-catalogus is beschikbaar via de online winkel en via de Azure Portal.
 
-### <a name="search-in-the-azure-portal"></a>Zoeken in de Azure Portal
+## <a name="microsoft-preferred-solutions"></a>Voorkeurs oplossingen van micro soft
+
+Bij het zoeken naar of filteren van de catalogus, kunnen de resultaten van micro soft voorkeurs oplossingen zijn, die worden geïdentificeerd door middel van de logo van de voor keuren in de rechter benedenhoek van de app-kaart of de badge op de detail pagina van het product.
+
+:::image type="content" source="media/azure-marketplace/preferred-solution-badge.png" alt-text="Hiermee wordt de badge met de voorkeurs provider van Azure Marketplace weer gegeven.":::
+
+De aanbevolen oplossingen zijn geselecteerd door een team van micro soft-experts en worden gepubliceerd door micro soft-partners met uitgebreide, bewezen expertise en mogelijkheden om specifieke behoeften van klanten in een categorie, branche of branche verticaal aan te pakken.
+
+## <a name="search-in-the-azure-portal"></a>Zoeken in de Azure Portal
 
 Selecteer in de Azure Portal **+ een resource maken** of zoek naar Marketplace. Blader vervolgens door de categorieën aan de linkerkant of gebruik de zoek balk, die een filter functie bevat.
 
 :::image type="content" source="media/azure-marketplace/azure-portal.png" alt-text="Apps kiezen in de Azure Portal.":::
 
+Advies Services zijn alleen beschikbaar in de online winkel, niet op de Azure Portal.
+
 ## <a name="take-action-on-a-listing"></a>Actie ondernemen voor een vermelding
 
-Elke vermelding in azure Marketplace ondersteunt een of meer van de volgende acties:
+Actie ondernemen voor een vermelding door een of meer van de volgende opties te selecteren:
 
 - **Nu downloaden** : Koop de oplossing direct.
 - **Test station** – Bekijk een demo met een curator. Voor test stations is geen configuratie vereist. Ze bieden u de mogelijkheid om te bepalen of de oplossing voldoet aan uw bedrijfs behoeften zonder uw productie gegevens of-omgeving te gebruiken.

@@ -1,7 +1,7 @@
 ---
 title: Uw account voor het partnercentrum beheren
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over het gebruik van partner Center voor het beheren van het profiel van uw bedrijf, de Bank-en belasting gegevens, rollen, machtigingen en meer.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235967"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486995"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Uw partner centrum-account, het bedrijfs profiel, de Bank gegevens, rollen, machtigingen en meer beheren
 
@@ -26,7 +26,7 @@ Het account dat u op partner centrum maakt wanneer u zich inschrijft, is uw werk
 Zie ook artikelen [uitnodigden om lid te worden van partner centrum](guide-to-migration.md) en [een nieuwe gebruiker toe te voegen](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Het menu account instellingen wordt gewijzigd, afhankelijk van de Program ma's die u hebt Inge schreven. Als u bijvoorbeeld een partner bent in het Cloud Solution Provider-programma (CSP), kunt u uw gedeelde Azure-Services beheren via account instellingen.
+>Het menu account instellingen wordt gewijzigd, afhankelijk van de Program ma's die u hebt Inge schreven. Als u bijvoorbeeld een partner bent in het Cloud Solution Provider-programma (CSP), kunt u uw gedeelde Azure-Services beheren via **account instellingen**.
 
 ## <a name="account-management"></a>Accountbeheer
 
@@ -51,6 +51,20 @@ Wanneer u het pictogram **instellingen** selecteert en het menu **account instel
 Het tabblad partner bevat alle juridische Bedrijfs gegevens, zoals de geregistreerde juridische naam en het adres voor uw bedrijf, evenals de primaire contact persoon en de bedrijfs locaties. Het tabblad Reseller voor partners die CSP-bedrijven uitvoeren, omvat het **profiel voor klant ondersteuning**.
 
 Als uw bedrijf geen deel uitmaakt van CSP, wordt in de standaard weergave alleen het tabblad **partner** weer gegeven waarin het **profiel voor klant ondersteuning** wordt opgenomen.
+
+### <a name="when-you-are-in-more-than-one-account"></a>Wanneer u zich in meer dan één account bevindt
+
+U kunt een deel van meer dan één account maken. U kunt controleren of u deel uitmaakt van meerdere accounts door de aanwezigheid van de ' account kiezer ' in het navigatie menu aan de linkerkant.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="De account kiezer identificeren":::
+
+Als u de account kiezer niet ziet, maakt u deel uit van slechts één account. 
+
+Wanneer u op deze kiezer klikt, worden alle accounts waarvan u deel uitmaakt, weer gegeven als een lijst. U kunt vervolgens op een ervan klikken en overschakelen naar dat account. Alles hierna wordt weer gegeven in de context van dat account.  
+
+In het onderstaande voor beeld maakt de aangemelde gebruiker deel uit van de drie gemarkeerde accounts. De gebruiker kan hiertussen scha kelen door te klikken op een account.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="De accounts waarvan u deel uitmaakt":::
 
 ## <a name="organization-profile"></a>Organisatie profiel
 
@@ -90,13 +104,13 @@ Deze pagina bevat de details van uw betaling en belasting, inclusief **factuur**
 
 ## <a name="user-management"></a>Gebruikersbeheer
 
-Wat u gebruikt in het partner centrum en de gebieden die u kunt bijwerken of bekijken, is afhankelijk van uw rol en de machtigingen die aan die rol zijn gekoppeld. Als u bijvoorbeeld geen Stimulanss beheerder bent, kunt u niets wijzigen op de pagina prikkels, maar u kunt wel de gegevens weer geven.
+Wat u gebruikt in het partner centrum en de gebieden die u kunt bijwerken of bekijken, is afhankelijk van uw rol en de machtigingen die aan die rol zijn gekoppeld. Als u bijvoorbeeld geen Stimulanss beheerder bent, kunt u niets wijzigen op de pagina prikkels, maar u kunt wel de gegevens weer geven. Meer informatie over [rollen en machtigingen](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>E-mail adres bijwerken
 
 Uw favoriete e-mail adres bijwerken om de meldingen van het partner centrum te ontvangen:
 
-1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard).
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
 1. Ga naar de [**engagement voorkeur**](https://partner.microsoft.com/dashboard/engagement/preference), selecteer de **wijzigings** koppeling, werk het e-mail adres bij en selecteer **Opslaan**.
 
 ### <a name="find-your-user-role"></a>Uw gebruikersrol zoeken

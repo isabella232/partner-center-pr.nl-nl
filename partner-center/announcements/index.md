@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193610"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103481011"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,8 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van maart 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Functies|[Bijwerken naar de ontwikkeling van het programma voor Cloud Solution Provider (CSP) en Open License-programma wijzigingen](2021-march.md#8)|15 maart|
+|Uw bedrijf uitbreiden|[Bijwerken naar een eerdere aankondiging: Premium-evaluaties, een invoeg toepassing voor nalevings beheer](2021-march.md#7)|15 maart|
 |Functies|[Migreer uw oplossingen van de ene commerciële partner (OCP) go-to-Market (GTM) naar de micro soft Commercial Marketplace](2021-march.md#6)|12 maart|
 |Functies|[De nieuwe Commerce-ervaring in het Cloud Solution Provider-programma (CSP) voor Azure naar Rusland uitbreiden](2021-march.md#5)|10 maart|
 |Functies|[Licentie sleutel voor partner centrum-software en down loads](2021-march.md#4)|5 maart|

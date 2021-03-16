@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412519"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486859"
 ---
 # <a name="what-is-microsoft-appsource"></a>Wat is Microsoft AppSource?
 
@@ -21,13 +22,25 @@ De AppSource-catalogus bevat SaaS-toepassingen (Software as a Service), oplossin
 
 ## <a name="find-what-you-need-on-appsource"></a>Vind wat u nodig hebt op AppSource
 
-AppSource biedt eenvoudige Zoek-en filter opties waarmee u snel kunt vinden wat u zoekt. Gebruik de zoek balk boven aan de pagina om oplossingen te zoeken op leverancier, product naam of tref woorden. Gebruik de filters aan de bovenkant van de pagina om de resultaten te beperken op basis van de beschik baarheid van een gratis proef versie of test drive, een prijs model (gratis of betaald) en Beoordelingen.
+AppSource biedt eenvoudige Zoek-en filter opties om snel te vinden wat u zoekt. Gebruik de **Zoek** balk boven aan de pagina om oplossingen te zoeken op leverancier, product naam of tref woorden.
 
-In het deel venster links kunt u de resultaten filteren op basis van een lijst met product typen, categorieën en industrieën. AppSource-product typen zijn gebaseerd op producten zoals Microsoft 365 en Power apps. Categorieën zijn gebaseerd op bedrijfs functies, zoals samen werking en marketing. U kunt ook kiezen uit een lijst met branches, zoals land bouw en productie.
+[![Toont de landings pagina van micro soft Appsource.](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+Bij het verkennen van de [app-galerie](https://appsource.microsoft.com/marketplace/apps)gebruikt u de filters aan de bovenkant van de pagina om de resultaten te beperken op basis van de beschik baarheid van een gratis proef versie of test drive, een prijs model (gratis of betaald) en klant beoordelingen.
+
+In het deel venster links kunt u de resultaten filteren op basis van een lijst met product typen, categorieën en industrieën. AppSource-product typen zijn gebaseerd op producten zoals Microsoft 365, Dynamics 365 en Power platform. Categorieën zijn gebaseerd op bedrijfs functies, zoals verkoop, samen werking of marketing. U kunt ook kiezen uit een lijst met industrieën als financiële diensten, gezondheids zorg en distributie.
+
+## <a name="microsoft-preferred-solutions"></a>Voorkeurs oplossingen van micro soft
+
+Bij het zoeken naar of filteren van de catalogus, kunnen de resultaten van micro soft voorkeurs oplossingen zijn, die worden geïdentificeerd door middel van de logo van de voor keuren in de rechter benedenhoek van de app-kaart of de badge op de detail pagina van het product.
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Toont de AppSource van de voor keur voor de provider.":::
+
+De aanbevolen oplossingen zijn geselecteerd door een team van micro soft-experts en worden gepubliceerd door micro soft-partners met uitgebreide, bewezen expertise en mogelijkheden om specifieke behoeften van klanten in een categorie, branche of branche verticaal aan te pakken.
 
 ## <a name="take-action-on-a-listing"></a>Actie ondernemen voor een vermelding
 
-Wanneer u een app uit de _app-resultaten_ selecteert, wordt de pagina met de vermelding voor die app weer gegeven. Elke vermelding in AppSource ondersteunt een of meer van de volgende aanbiedings opties:
+Selecteer een app uit de *app-resultaten* om de pagina met vermeldingen voor die app te bekijken. Actie ondernemen voor een vermelding door een of meer van de volgende opties te selecteren:
 
 - **Nu downloaden**: Koop de oplossing direct.
 - Test station: Verken een **geprotesteerde** demo. Een test drive gebruikt uw productie gegevens of-omgeving niet, maar u kunt bepalen of de oplossing voldoet aan uw bedrijfs behoeften.
