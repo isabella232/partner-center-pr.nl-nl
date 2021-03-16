@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103481011"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570172"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van maart 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Efficiëntie van schijf & schalen|[De naam van een rechts bedrijf bijwerken via partner centrum](2021-march.md#9)|16 maart|
 |Functies|[Bijwerken naar de ontwikkeling van het programma voor Cloud Solution Provider (CSP) en Open License-programma wijzigingen](2021-march.md#8)|15 maart|
 |Uw bedrijf uitbreiden|[Bijwerken naar een eerdere aankondiging: Premium-evaluaties, een invoeg toepassing voor nalevings beheer](2021-march.md#7)|15 maart|
 |Functies|[Migreer uw oplossingen van de ene commerciële partner (OCP) go-to-Market (GTM) naar de micro soft Commercial Marketplace](2021-march.md#6)|12 maart|

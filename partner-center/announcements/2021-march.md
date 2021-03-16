@@ -8,17 +8,60 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: f5b9069ffe0ebfa15053a3ed18fc2ee3706d9c96
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103480983"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570189"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft partner centrum voor maart 2021.
+
+________________
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> De naam van een rechts bedrijf bijwerken via partner centrum
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-16
+- Efficiëntie van schijf & schalen
+
+### <a name="summary"></a>Samenvatting
+
+Met ingang van 2021, Microsoft Partner Network (MPN)-partners en Cloud Solution Provider (CSP) kunnen indirecte wederverkopers hun juridische bedrijfs naam bijwerken via partner centrum.
+
+### <a name="impacted-audience"></a>Doel groep
+
+MPN-partners en indirecte leveranciers van CSP'S (niet van toepassing op de CSP direct-factuur partners)
+
+### <a name="details"></a>Details
+
+Vanaf 2021 maart kunnen MPN-partners en indirecte leveranciers van CSP'S hun juridische bedrijfs naam via partner centrum bijwerken op een compatibele, op zichzelf gebaseerde manier. Met deze nieuwe functie hoeven partners niet langer een ondersteunings ticket van het partner centrum in te dienen om hun bedrijfs naam bij te werken. Dit bespaart een aanzienlijke hoeveelheid tijd voor partners wanneer deze activiteiten worden uitgevoerd.
+
+Volg deze stappen om de naam van het bedrijf bij te werken:
+
+1. De beheerder van de globale beheerder of het account moet zich aanmelden bij het partner centrum en naar [account instellingen](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)navigeren.
+
+2. Werk de naam van de juridische onderneming bij.
+
+3. Zodra de bijgewerkte naam is opgeslagen, zal micro soft de verstrekte informatie verifiëren. Verificatie kan vijf tot zeven dagen in behandeling zijn.
+
+4. Zodra de verificatie is voltooid, wordt de bijgewerkte juridische naam gekoppeld aan de partner-Tenant.
+
+5. Als de verificatie status wordt gewijzigd in afgewezen, raadpleegt u [uw account gegevens verifiëren](https://docs.microsoft.com/partner-center/verification-responses) om het probleem op te lossen.
+
+>[!NOTE]
+>Zorg ervoor dat de bedrijfs naam in uw juridisch bedrijfs profiel geen spel fouten en afkortingen bevat en exact overeenkomt met uw formele zakelijke registratie records voor bedrijven. Raadpleeg [uw organisatie profiel verifiëren](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile)voor meer informatie over het bijwerken van uw organisatie profiel.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Deel deze informatie in uw organisatie zodat het juiste team hun processen kan controleren en bijwerken.
+
+### <a name="questions"></a>Vragen?
+
+Neem contact op met de [ondersteuning](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) voor vragen, query's of meer informatie.
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Bijwerken naar de ontwikkeling van het programma voor Cloud Solution Provider (CSP) en Open License-programma wijzigingen
