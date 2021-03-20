@@ -1,7 +1,7 @@
 ---
-title: Een Azure-uitgaven budget instellen voor klanten
+title: Een Azure-uitgavenbegroting voor uw klanten instellen
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 03/17/2021
 description: Meer informatie over het instellen of verwijderen van maandelijkse Azure-uitgaven budgetten voor uw klanten, en voor het weer geven van Azure-uitgaven gegevens en het instellen van meldingen met betrekking tot budget.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438978"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712746"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Maandelijkse Azure-uitgaven budgetten instellen, controleren of verwijderen voor klanten in het partner centrum
 
-Van toepassing op:
+**Juiste rollen**
 
-- Partnercentrum
-- Partnercentrum voor Microsoft Cloud for US Government
+- Beheer agent
 
 U kunt [een maandelijks Azure-uitgaven budget instellen voor uw klanten](#set-azure-spending-budget) in Partner Center. Dit helpt uw klanten hun Azure-uitgaven te beheren. Met deze optie kunt u de Azure-uitgaven van uw klanten vergelijken met het budget tijdens de maand. Het helpt uw klanten ook hun Azure-uitgaven te budget teren, zodat de maandelijkse factuur niet hoger is dan verwacht.
 
@@ -48,7 +47,7 @@ De uitgaven gegevens worden *eenmaal per dag vernieuwd*. Uw klanten kunnen Azure
 
 U kunt *een maandelijks Azure-uitgaven budget instellen* voor meerdere klanten in Partner Center:
 
-1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/).
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/).
 
 2. Kies in het menu aan de rechter kant onder **CSP** de optie **Azure-uitgaven**.
 
@@ -60,7 +59,7 @@ U kunt *een maandelijks Azure-uitgaven budget instellen* voor meerdere klanten i
 
 U kunt ook *een budget voor een individuele klant instellen* in de abonnements instellingen:
 
-1. Meld u aan bij het dash board van de partner centrum.
+1. Meld u aan bij het dashboard van het Partnercentrum.
 
 2. Kies in het menu aan de rechter kant onder **CSP** de optie **klanten**.
 
@@ -76,7 +75,7 @@ U kunt ook *een budget voor een individuele klant instellen* in de abonnements i
 
 U kunt *een maandelijks Azure-uitgaven budget* voor uw klanten (s) verwijderen in het partner centrum:
 
-1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/).
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/).
 
 2. Kies in het menu aan de rechter kant onder **CSP** de optie **Azure-uitgaven**.
 
@@ -88,7 +87,7 @@ U kunt *een maandelijks Azure-uitgaven budget* voor uw klanten (s) verwijderen i
 
 U kunt op elk gewenst moment *de huidige Azure-uitgaven en maandelijkse budgetten van uw klanten volgen* :
 
-1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/).
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/).
 
 2. Kies in het menu aan de rechter kant onder **CSP** de optie **Azure-uitgaven**.
 
@@ -126,3 +125,8 @@ U kunt de *gespecificeerde kosten (en het geschatte gebruik) per service weer ge
 4. Selecteer op de pagina **abonnementen** van de klant onder **op gebruik gebaseerde abonnementen** de naam van het **abonnement**.
 
 5. Op de pagina van het abonnement kunt u de **gespecificeerde kosten** per service controleren en het **geschatte gebruik** voor de huidige maand.
+
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Nieuwe Commerce-ervaring in CSP - Azure-facturering](azure-plan-billing.md)

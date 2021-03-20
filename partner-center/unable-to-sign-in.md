@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a7cc7d6335cdda0cec19a7676d2b6103592842e
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: b60b86bec70b5c33d65532599fa0421604d9ba12
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584191"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712882"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Als u zich niet kunt aanmelden bij het partner centrum en uw wacht woord opnieuw moet instellen
 
 **Juiste rollen**
 
-- Partner centrum gebruikers
+- Alle partners die geïnteresseerd zijn in het partner centrum
 
 Als u uw wacht woord bent verg eten en u niet kunt aanmelden bij het partner centrum, moet u contact opnemen met de ondersteuning. Zoek de juiste contact persoon op het [ondersteunings team voor zakelijke producten](/microsoft-365/admin/contact-support-for-business-products). 
 

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619389"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712186"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Bulk bewerkingen voor verkoop kansen met bestanden met door komma's gescheiden waarden (CSV)
 
@@ -89,7 +89,7 @@ CRM-ID|Nee|Id van deze specifieke verwijzing in uw CRM-systeem, indien van toepa
 Marketing campagne-ID|Nee|Dit veld geeft aan op welke marketing campagne is geresulteerd in deze specifieke verwijzing. Normaal gesp roken gebruikt voor berekening van de ROI|BingSummer2020
 Notities|Nee|Gedetailleerde opmerkingen die de updates met betrekking tot de verwijzing aangeven|Dit is een voor beeld van een opmerking
 Is micro soft Help vereist?|Ja|Dit is om aan te geven of u wilt dat micro soft u helpt bij het maken van deze mede koop-aanvraag|Ja
-Welke specifieke hulp van micro soft?|Is afhankelijk van|Een van de zes verschillende manieren waarop micro soft u kan helpen. Dit geldt alleen als u Nee kiest voor de vraag ' micro soft Help vereist? " <br/> **Voer een getal in dat is gebaseerd op de onderstaande opties** <br/><br/> **1**-specifiek toegevoegde waarde voor de werk belasting  <br/> **2**-technische architectuur van de klant  <br/> **3**-testen van concept/demo  <br/> **4**-offertes en licenties  <br/> **5**-verkoop succes van de klant  <br/> **6**-algemeen of ander|1|
+Welke specifieke hulp van micro soft?|Is afhankelijk van|Een van de zes verschillende manieren waarop micro soft u kan helpen. Dit is alleen van toepassing als u Ja kiest voor de vraag ' micro soft Help vereist? " <br/> **Voer een getal in dat is gebaseerd op de onderstaande opties** <br/><br/> **1**-specifiek toegevoegde waarde voor de werk belasting  <br/> **2**-technische architectuur van de klant  <br/> **3**-testen van concept/demo  <br/> **4**-offertes en licenties  <br/> **5**-verkoop succes van de klant  <br/> **6**-algemeen of ander|1|
 Delen met het micro soft-verkoop team|Ja|Dit is om aan te geven of u de details van de deal wilt delen met het micro soft-verkoop team of niet. Dit geldt alleen als u Nee kiest voor de vraag ' micro soft Help vereist? "|Ja
 Opmerkingen bij micro soft|Nee|Eventuele specifieke opmerkingen bij micro soft als u hulp nodig hebt van micro soft|Hulp nodig bij een haalbaarheids test voor contoso-klanten
 Toestemming voor het delen van contact persoon van klant/partner|Ja|Toestemming om contact gegevens van klanten te delen en uw werk nemers van uw bedrijf contact opnemen met gegevens die aan de deal werken. **Er worden geen deals gemaakt of bijgewerkt als u Nee kiest voor deze kolom.** |Ja

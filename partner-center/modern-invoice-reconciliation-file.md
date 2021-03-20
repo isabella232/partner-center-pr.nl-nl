@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098802"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712253"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Eenmalige CSP-velden voor het afstemmen van inkopen
 
@@ -64,6 +64,7 @@ Zie [reconciliatie bestanden gebruiken](use-the-reconciliation-files.md)voor mee
 | PCToBCExchangeRateDate | De datum waarop de prijs valuta naar de facturerings valuta wordt bepaald. | *9/30/2020* |
 | MeterDescription | Beschrijving van meter.  | *Tabellen-LRS opgeslagen gegevens (GB/maand)* |
 | ReservationOrderId | De reserverings order-id. | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | De beschrijving van het krediet. | *Azure-verbruiks tegoed* |
 
 >[!NOTE]
 >U kunt uw Azure-verbruik in uw eenmalige aankoop afstemmings bestand afstemmen. Ga hiervoor naar het afstemmings bestand van het dagelijks geclassificeerde gebruik en zoek naar uw abonnement op. Hiermee worden alle kosten weer gegeven die zijn gekoppeld aan uw Azure plan-ID. Uw Azure SubscriptionID wordt weer gegeven als de EntitlementID.

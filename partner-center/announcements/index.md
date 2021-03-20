@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/18/2021
+ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570172"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712287"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,9 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van maart 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Functies|[CSP Commercial Marketplace-aanbieding en FY21 CSP-stimulansen voor in aanmerking komende aanbiedingen](2021-march.md#12)|18 maart|
+|Functies|[Naam en vereiste update van Power BI Premium-aanbieding](2021-march.md#11)|18 maart|
+|Aanbiedingen/markten|[Prijzen updates van maart voor Microsoft 365 F3](2021-march.md#10)|16 maart|
 |Efficiëntie van schijf & schalen|[De naam van een rechts bedrijf bijwerken via partner centrum](2021-march.md#9)|16 maart|
 |Functies|[Bijwerken naar de ontwikkeling van het programma voor Cloud Solution Provider (CSP) en Open License-programma wijzigingen](2021-march.md#8)|15 maart|
 |Uw bedrijf uitbreiden|[Bijwerken naar een eerdere aankondiging: Premium-evaluaties, een invoeg toepassing voor nalevings beheer](2021-march.md#7)|15 maart|

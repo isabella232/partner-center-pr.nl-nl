@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705042"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712542"
 ---
 # <a name="december-2020-announcements"></a>December 2020-aankondigingen
 
@@ -274,6 +274,9 @@ Alle CSP-partners
 
 ### <a name="details"></a>Details
 
+>[!NOTE]
+>Vanwege partner feedback hebben we reactiveren de mogelijkheden van het Partner Center om software-en licentie sleutels te verkrijgen voor permanente en server Subscription-software orders. Het wordt teruggezet naar de vorige staat voordat deze werd verwijderd op 19 januari 2021. Zie de [aankondiging van maart 2021](./2021-march.md#4)voor meer informatie.
+
 We willen u eraan herinneren dat vanaf **19 januari 2021** alle partners die zijn Inge schreven in het CSP-programma, commerciële, permanente software licenties kunnen verkopen voor on-premises implementatie via CSP. Dit biedt klanten de flexibiliteit om de licentie te bepalen die ze nodig hebben als onderdeel van hun digitale trans formatie.
 
 Het volgende gebeurt ook op dezelfde datum:
@@ -301,6 +304,12 @@ Bekijk de volgende resources en deel ze met de relevante contact personen in uw 
 ### <a name="questions"></a>Vragen?
 
 Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen.
+
+### <a name="change-log"></a>Wijzigingen logboek:
+
+- 17 december 2020: oorspronkelijke publicatie 
+
+- 5 maart 2021: er is een opmerking aan de bovenkant toegevoegd met betrekking tot het herstel van partner Center-software en de mogelijkheden voor het uitvoeren van licentie sleutels.
 
 ______________
 

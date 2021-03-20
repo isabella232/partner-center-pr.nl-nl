@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102187362"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712899"
 ---
 # <a name="technical-support-benefits"></a>Voor delen van technische ondersteuning
 
@@ -58,12 +58,10 @@ Technische ondersteuning biedt probleem oplossing voor een specifiek probleem, e
 Als onderdeel van het Microsoft Partner Network lidmaatschap komen partners in aanmerking voor de volgende technische ondersteuning
 
 
-|                           Technische ondersteuning                          |  Action Pack |                                      Silver-competentie                                      |                                        Gold-competentie                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Micro soft-product ondersteuning<br>Voor recente on-premises <br>alleen producten | 10 incidenten | 15 incidenten                                                                                | 20 incidenten                                                                                  |   |
-| Ondersteuning voor hand tekeningen in de Cloud<br>Alleen voor Cloud producten                   |              | Cloud competenties:<br>Onbeperkt<br>         <br>Andere competenties:<br>5 incidenten         | Cloud competenties:<br>Onbeperkt<br>          <br>Andere competenties:<br>10 incidenten   
-
-
+| Technische ondersteuning |  Action Pack | Silver-competentie | Gold-competentie |
+|:---:|:---:|:---:|:---:|
+| Micro soft-product ondersteuning<br>Voor recente on-premises <br>alleen producten | 10 incidenten | 15 incidenten  | 20 incidenten |
+| Ondersteuning voor hand tekeningen in de Cloud<br>Alleen voor Cloud producten |  | Cloud competenties:<br>Onbeperkt<br><br>Andere competenties:<br>5 incidenten  | Cloud competenties:<br>Onbeperkt<br>          <br>Andere competenties:<br>10 incidenten  |
 
 * Cloud competenties omvatten: beveiligings competentie, Cloud Business Applications, Cloud platform, Cloud productiviteit, beheer van bedrijfs mobiliteit, kleine en midmarket cloud oplossingen.
 

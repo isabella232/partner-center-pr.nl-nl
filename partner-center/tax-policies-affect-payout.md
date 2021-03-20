@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 3630824c839ccd9f54f3e8e5199a573b5824bb91
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758888"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712950"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Hoe BTW-beleid invloed heeft op de uitbetaling voor Azure Marketplace
 
@@ -20,7 +20,7 @@ ms.locfileid: "101758888"
 -    Gebruikersbeheerder
 -    Beheer agent
 
-## <a name="introduction"></a>Introductie
+## <a name="introduction"></a>Inleiding
 
 Micro soft Commercial Marketplace heeft wereld wijde bereik. Trans acties vinden plaats in de grenzen en afhankelijk van waar de ISV en de klant zich bevinden, kunnen de gevolgen voor de belasting verschillen. Microsoft AppSource en Azure Marketplace gebruiken de gegevens van het Partner Center-BTW-profiel om het land van de ISV te bepalen. Om het land van de klant te bepalen, kunt u de facturerings gegevens van de klant gebruiken of, als de klant zich in de EU bevindt, twee verschillende gegevens gebruiken.
 
@@ -47,7 +47,7 @@ Zie [Scenario D](#foreign-publisher-transacts-with-us-customer) voor trans actie
 
 **Scenario C** : trans acties die worden uitgevoerd tussen een uitgever en een klant in een door de uitgever beheerd fiscaal land dat geen bron belasting voor klanten oplegt. Klanten betalen geen BTW op het verkoop punt en het is de verplichting van de uitgever om alle toepasselijke belastingen te betalen.
 
-Zie [Abonnementen en prijzen voor commerciële Marketplace-aanbiedingen](https://docs.microsoft.com/azure/marketplace/plans-pricing#custom-prices)voor meer informatie over landspecifieke prijzen (bijvoorbeeld om toekomstige belasting te verrekenen).
+Zie [Abonnementen en prijzen voor commerciële Marketplace-aanbiedingen](/azure/marketplace/plans-pricing#custom-prices)voor meer informatie over landspecifieke prijzen (bijvoorbeeld om toekomstige belasting te verrekenen).
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Geeft werk stroom weer voor het uitbetalings proces scenario C.":::
 
@@ -77,5 +77,5 @@ Zie [Abonnementen en prijzen voor commerciële Marketplace-aanbiedingen](https:/
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Veelgestelde vragen over Uitgever](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)
-- [Instructies voor het maken van betalings-en belasting profielen](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile)
+- [Veelgestelde vragen over Uitgever](/azure/marketplace/marketplace-faq-publisher-guide)
+- [Instructies voor het maken van betalings-en belasting profielen](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

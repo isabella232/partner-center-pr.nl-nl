@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514116"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712457"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -315,7 +315,7 @@ Alle CSP-partners
 ### <a name="details"></a>Details
 
 >[!NOTE]
->Vanwege partner feedback hebben we reactiveren de mogelijkheden van het Partner Center om software-en licentie sleutels te verkrijgen voor permanente en server Subscription-software orders. Het wordt teruggezet naar de vorige staat voordat deze werd verwijderd op 19 januari 2021. Zie de [aankondiging van maart 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4)voor meer informatie.
+>Vanwege partner feedback hebben we reactiveren de mogelijkheden van het Partner Center om software-en licentie sleutels te verkrijgen voor permanente en server Subscription-software orders. Het wordt teruggezet naar de vorige staat voordat deze werd verwijderd op 19 januari 2021. Zie de [aankondiging van maart 2021](./2021-march.md#4)voor meer informatie.
 
 Net [als](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) vandaag heeft we u op de hoogte gesteld dat commerciële, permanente software licenties nu algemeen beschikbaar zijn voor alle CSP-partners om te verkopen. De prijs lijst voor de permanente software van de Partner Center CSP is opnieuw gepubliceerd en bevat nu aanvullende producten en geografische regio's.
 

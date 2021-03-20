@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514082"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712508"
 ---
 # <a name="september-2020-announcements"></a>Aankondigingen van september 2020
 
@@ -37,7 +37,7 @@ Alle Cloud Solution partner (CSP)-partners die software bieden
 ### <a name="details"></a>Details
 
 >[!NOTE]
->Vanwege partner feedback hebben we reactiveren de mogelijkheden van het Partner Center om software-en licentie sleutels te verkrijgen voor permanente en server Subscription-software orders. Het wordt teruggezet naar de vorige staat voordat deze werd verwijderd op 19 januari 2021. Zie de [aankondiging van maart 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4)voor meer informatie.
+>Vanwege partner feedback hebben we reactiveren de mogelijkheden van het Partner Center om software-en licentie sleutels te verkrijgen voor permanente en server Subscription-software orders. Het wordt teruggezet naar de vorige staat voordat deze werd verwijderd op 19 januari 2021. Zie de [aankondiging van maart 2021](./2021-march.md#4)voor meer informatie.
 
 Partners van vandaag kunnen partner centrum of het Microsoft 365-beheer centrum gebruiken voor het downloaden van software en de uitvoering van licentie sleutels voor CSP-software orders. Vanaf **19 januari 2021** worden de mogelijkheden van het partner centrum en de uitvoering van de licentie sleutel buiten gebruik gesteld, en partners verwijzen klanten naar het **Microsoft 365-beheer centrum** uitsluitend voor dit doel einde. De pagina klant software in het partner centrum bevat een ' diepe koppeling ' naar het Microsoft 365-beheer centrum waar u klanten kunt laten wijzen om de klant licenties en software downloads te verkrijgen. Dit helpt de veiligste en efficiënte ervaring voor klanten te garanderen.
 
@@ -78,7 +78,7 @@ Alle partners in de CSP en geopende Program ma's
 ### <a name="details"></a>Details
 
 >[!NOTE]
->Vanwege partner feedback hebben we reactiveren de mogelijkheden van het Partner Center om software-en licentie sleutels te verkrijgen voor permanente en server Subscription-software orders. Het wordt teruggezet naar de vorige staat voordat deze werd verwijderd op 19 januari 2021. Zie de [aankondiging van maart 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4)voor meer informatie.
+>Vanwege partner feedback hebben we reactiveren de mogelijkheden van het Partner Center om software-en licentie sleutels te verkrijgen voor permanente en server Subscription-software orders. Het wordt teruggezet naar de vorige staat voordat deze werd verwijderd op 19 januari 2021. Zie de [aankondiging van maart 2021](./2021-march.md#4)voor meer informatie.
 
 Het micro soft CSP-programma is exponentieel gegroeid, met meer dan 90.000 deelnemende bedrijven. Het is onze verkoop beweging van de primaire partner voor kleine en middel grote bedrijven en voor kleinere zakelijke klanten binnen de nieuwe Commerce ervaring. Op basis van deze impuls hebben we de verkoop kansen voor partners in het CSP-programma uitgebreid. Meer informatie vindt u in onze [partner blog post](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 

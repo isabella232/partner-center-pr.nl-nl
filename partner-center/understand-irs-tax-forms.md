@@ -4,14 +4,16 @@ description: Meer informatie over de BTW-formulieren die door micro soft worden 
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487870"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712814"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>IRS-belastingformulieren begrijpen die zijn uitgegeven door Microsoft
 
@@ -23,8 +25,8 @@ In dit artikel vindt u meer informatie over deze formulieren, met inbegrip van w
 
 | IRS-belasting formulier | Beschrijving | Beschikbaarheid |
 |--------------|-------------|--------------|
-|1099-DIVERS, 1099-K | Gerelateerd aan verkoop activiteiten en/of betalingen die aan u zijn gedaan voor deelname aan Marketplace van micro soft | Afgedrukte formulieren krijgen een post stempel op of vóór **31 januari** , en. PDF-kopieën zijn op hetzelfde moment beschikbaar in [partner centrum](https://partner.microsoft.com/dashboard) (in de instellingen voor het **partner centrum-account onder de verantwoording** **en belasting > uitbetaling en BTW-profielen** ) |
-|1042-S | Gerelateerd aan betalingen aan u die zijn onderworpen aan Verenigde Staten bron belasting | Gedrukte formulieren worden weer gegeven op of vóór **15 maart** , en. PDF-kopieën worden op hetzelfde moment beschikbaar gesteld in partner centrum (in **partner centrum-ontwikkelaars instellingen** onder **toekenning en belasting > uitbetalingen en BTW-profielen** )  |
+|1099-DIVERS, 1099-K | Gerelateerd aan verkoop activiteiten en/of betalingen die aan u zijn gedaan voor deelname aan Marketplace van micro soft | Afgedrukte formulieren krijgen een post stempel op of vóór **31 januari**, en. PDF-kopieën zijn op hetzelfde moment beschikbaar in [partner centrum](https://partner.microsoft.com/dashboard) (in de instellingen voor het **partner centrum-account onder de verantwoording** **en belasting > uitbetaling en BTW-profielen**) |
+|1042-S | Gerelateerd aan betalingen aan u die zijn onderworpen aan Verenigde Staten bron belasting | Gedrukte formulieren worden weer gegeven op of vóór **15 maart**, en. PDF-kopieën worden op hetzelfde moment beschikbaar gesteld in partner centrum (in **partner centrum-ontwikkelaars instellingen** onder **toekenning en belasting > uitbetalingen en BTW-profielen**)  |
 
 > [!NOTE]
 > Het adres dat we gebruiken op IRS-belasting formulieren zijn afkomstig van het adres in uw BTW-profiel wanneer u [uw uitbetalings account en BTW-formulieren instelt](set-up-your-payout-account.md). Als uw adres is gewijzigd, moet u ervoor zorgen dat u het adres in uw **BTW-profiel** bijwerkt.
@@ -53,7 +55,7 @@ De BTW-formulieren worden naar u verzonden via de volgende adressen:
 
 | Als ik een Verenigde Staten voor ontwikkel aars die betaalde apps kopen en...   | Ik zou dit formulier moeten ontvangen: |
 |------------------------|-----------------------|
-| Ik had **meer dan 200 app-omzet** met een totale aankoop bedrag van deze omzet **hoger dan $20.000 USD** in het betreffende belasting jaar **not** (in plaats van verkopen die in Brazilië en China zijn gemaakt via de Microsoft Store op Windows 10.)| **1099-K:**<br/>Filer: micro soft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belang rijk:** Formulier 1099-K bevat **bruto-aankoop** bedragen, niet voor betalingen aan u.| 
+| Ik had **meer dan 200 app-omzet** met een totale aankoop bedrag van deze omzet **hoger dan $20.000 USD** in het betreffende belasting jaar (in plaats van verkopen die in Brazilië en China zijn gemaakt via de Microsoft Store op Windows 10.)| **1099-K:**<br/>Filer: micro soft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belang rijk:** Formulier 1099-K bevat **bruto-aankoop** bedragen, niet voor betalingen aan u.| 
 | Ik heb ten **minste $10 in betalingen** ontvangen voor (i) de verkoop van apps in Brazilië en China via de Microsoft Store op Windows 10 of (II) Sales in de Minecraft Marketplace.<br/><br/>**OF**<br/><br/>Ik heb ten minste $600 in betalingen ontvangen die geen betrekking hebben op de app-omzet van micro soft in het betreffende belasting jaar (bijvoorbeeld betalingen of betalingen van een wedstrijd of promotie)| **1099-DIVERSEN:**<br/>Betaler: micro soft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belang rijk:** Bepaalde bedrijfs entiteiten ontvangen geen 1099-Diversen-formulieren, ongeacht de betalings bedragen die van micro soft zijn ontvangen.  Raadpleeg uw belasting medewerker voor meer informatie.| 
 | Geen van de bovenstaande aanvragen is van toepassing.| Geen |
 | <br/><br/>**Als ik een Verenigde Staten ontwikkel aars voor het verkopen van advertenties in apps en...** |<br/><br/>**Ik zou dit formulier moeten ontvangen:** |
@@ -64,7 +66,7 @@ De BTW-formulieren worden naar u verzonden via de volgende adressen:
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Voor ontwikkel aars die zich buiten het Verenigde Staten bevinden
 
 
-| | |
+| **Vraag** | **Antwoord** |
 |---|---|
 | **Ik heb een formulier 1042-S van micro soft ontvangen. Wat is het voor?** | Micro soft heeft u voorzien van een 1042-S-formulier of-formulieren omdat we u de inkomsten hebben betaald die worden beschouwd als rapporteren aan de Verenigde Staten belasting dienst en waarvoor de belasting is geheven.  Formulier 1042-S wordt gebruikt voor deze rapportage vereiste. | 
 | **Wat moet ik doen met de formulieren?** | Over het algemeen is er geen specifieke actie vereist voor uw onderdeel. De notatie van 1042-S kan nuttig zijn als u op uw lokale belasting dienst wilt Toep assen voor elke vorm van belasting tegoed.  Neem contact op met uw eigen belasting adviezen voor meer informatie over dit onderwerp. | 
@@ -74,7 +76,7 @@ De BTW-formulieren worden naar u verzonden via de volgende adressen:
 | **Waarom krijg ik drie kopieën van hetzelfde formulier 1042-S in één envelop?** | Voor de IRS-voor schriften zijn drie exemplaren van het formulier vereist:<br/><br/>-Een voor de records van de ontvanger<br/>-Een voor het indienen met een Verenigde Staten inkomsten belasting-retour nering (indien van toepassing)<br/>-Een voor het indienen met een Verenigde Staten belasting retour nering (indien van toepassing) |
 
 > [!NOTE]
-> Als u aanvullende vragen of problemen hebt met betrekking tot **IRS-belasting formulieren** , gaat u naar [Help en ondersteuning](https://partner.microsoft.com/dashboard/support/) in het dash board van de partner centrum. Micro soft kan geen vragen beantwoorden die betrekking hebben op uw specifieke belasting omstandigheden; voor deze vragen kunt u het advies van uw belasting medewerker vragen.
+> Als u aanvullende vragen of problemen hebt met betrekking tot **IRS-belasting formulieren**, gaat u naar [Help en ondersteuning](https://partner.microsoft.com/dashboard/support/) in het dash board van de partner centrum. Micro soft kan geen vragen beantwoorden die betrekking hebben op uw specifieke belasting omstandigheden; voor deze vragen kunt u het advies van uw belasting medewerker vragen.
 
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022720"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712797"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Een micro soft-certificerings profiel-ID (MCID) koppelen of ontkoppelen aan een Microsoft Partner Network-account (MPN)
 
@@ -48,7 +48,7 @@ Gebruik de volgende procedure om een micro soft Learning-account te koppelen.
 >Als de referenties voor het micro soft Learning-account hetzelfde zijn als de referenties van het partner University-account, selecteert u **gebruiken email@address om mijn micro soft Learning-account te koppelen**.
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>Rapport met vaardig heden downloaden (micro soft-certificerings lijst)
-Als u meer informatie nodig hebt, kan de skillsreport worden geopend en gedownload door elke globale beheerder of MPN partner beheerder van het partner centrum. Voor [meer informatie](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data).
+Als u meer informatie nodig hebt, kan de skillsreport worden geopend en gedownload door elke globale beheerder of MPN partner beheerder van het partner centrum. Voor [meer informatie](./mpn-skills-report.md#view-skills-report-data).
 
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Veelgestelde vragen over het koppelen van accounts

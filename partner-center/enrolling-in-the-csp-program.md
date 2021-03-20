@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322080"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712270"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registreren bij het Cloud Solution Provider-programma
 
@@ -68,7 +68,7 @@ Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw kla
 
 ### <a name="minimum-requirements"></a>Minimale vereisten
 
-|**Vereiste**|                             |
+|**Vereiste**|  **Beschrijving**  |
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-id**   |Een actief lidmaatschap van de Microsoft Partner Network en MPN-ID voor de locatie waar u wilt verkopen.    |
 |**Goedkeurings**   |De autoriteit om juridische overeenkomsten namens uw organisatie te accepteren en te ondertekenen.|

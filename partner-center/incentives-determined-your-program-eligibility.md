@@ -1,27 +1,23 @@
 ---
 title: Geschiktheids programma
-description: Zorg ervoor dat uw stimulanss programma in aanmerking komt zodat u kunt betalen. Dit proces omvat het controleren van de geschiktheid in de programma gids.
+description: Zorg ervoor dat u de geschiktheids vereisten voor het programma stimulans hebt vervuld. Dit proces omvat het controleren van de geschiktheid in de programma gids.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528764"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712155"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Bepaal de geschiktheid van uw prikkel programma
 
-**Van toepassing op** :
-
-- Partnercentrum
-
-**Juiste rollen** :
+**Juiste rollen**:
 
 - Globale beheerder
 - Prikkel beheerder
@@ -40,7 +36,11 @@ De specifieke vereisten voor de geschiktheid voor uw programma vindt u in de pro
 
 3. Selecteer het gewenste programma.
 
-4. Selecteer **Programmagids** in het veld **Programmadetails** .
+4. Selecteer in het veld **status** de optie **vereisten voor geschiktheid**.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Scherm afbeelding is een voor beeld van prikkel vereisten.":::
+
+5. U moet alle niet-ingeschakelde gebieden volt ooien om te kunnen voldoen aan de eisen. Elk stimulanss programma heeft zijn eigen set vereisten.
 
 ## <a name="next-steps"></a>Volgende stappen
 

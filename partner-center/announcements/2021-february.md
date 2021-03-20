@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124785"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712474"
 ---
 # <a name="february-2021-announcements"></a>Aankondigingen van februari 2021
 
@@ -77,7 +77,7 @@ Zie het artikel in de volgende sectie voor meer informatie.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Meer informatie over de mogelijkheden voor bulk bewerkingen door [bulk bewerkingen te lezen voor verkoop kansen met door komma's gescheiden waarden (CSV)](https://docs.microsoft.com/partner-center/bulk-operations).
+Meer informatie over de mogelijkheden voor bulk bewerkingen door [bulk bewerkingen te lezen voor verkoop kansen met door komma's gescheiden waarden (CSV)](../bulk-operations.md).
 
 ### <a name="questions"></a>Vragen?
 
@@ -107,7 +107,7 @@ Zie het artikel in de volgende sectie voor meer informatie.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Meer informatie over de functie voor het migreren van deals vindt u in de sectie **migratie van PSC-deals** in de [hand leiding voor gezamenlijk verkopen in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+Meer informatie over de functie voor het migreren van deals vindt u in de sectie **migratie van PSC-deals** in de [hand leiding voor gezamenlijk verkopen in Partner Center (PC) voor partners die worden gemigreerd vanuit partner Sales Connect (PSC)](../psc-to-pc.md).
 
 ### <a name="questions"></a>Vragen?
 
@@ -139,7 +139,7 @@ Zie het artikel in de volgende sectie voor meer informatie.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk onze hand leiding voor het [beheren van verkoop kansen in Partner Center](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)voor meer informatie.
+Bekijk onze hand leiding voor het [beheren van verkoop kansen in Partner Center](../manage-co-sell-opportunities.md)voor meer informatie.
 
 ### <a name="questions"></a>Vragen?
 

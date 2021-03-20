@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105525"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712203"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Vereisten voor inschrijving als een CSP-partner voor directe facturering
 
@@ -28,7 +28,7 @@ Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw kla
 
 ### <a name="minimum-requirements"></a>Minimale vereisten
 
-|**Vereiste**|                |
+|**Vereiste**|  **Beschrijving**  |
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-id**   |Een actief lidmaatschap van de Microsoft Partner Network en MPN-ID voor de locatie waar u wilt verkopen.   |
 |**Goedkeurings**   |De autoriteit om juridische overeenkomsten namens uw organisatie te accepteren en te ondertekenen.|

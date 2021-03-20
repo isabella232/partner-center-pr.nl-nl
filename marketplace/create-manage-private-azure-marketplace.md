@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412706"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712763"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Persoonlijke Azure Marketplace maken en beheren in de Azure Portal
 
@@ -21,7 +21,7 @@ Als Marketplace-beheerder (toegewezen rol) begint u met een uitgeschakeld en lee
 
 > [!NOTE]
 > - De persoonlijke Azure Marketplace bevindt zich op een Tenant niveau, zodat alle gebruikers onder de Tenant dezelfde gehoste lijst zien.
-> - Alle micro soft-oplossingen (inclusief [goedgekeurde Linux-distributies](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) worden automatisch toegevoegd aan de persoonlijke Azure Marketplace.
+> - Alle micro soft-oplossingen (inclusief [goedgekeurde Linux-distributies](/azure/virtual-machines/linux/endorsed-distros)) worden automatisch toegevoegd aan de persoonlijke Azure Marketplace.
 
 ## <a name="assign-the-marketplace-admin-role"></a>De rol Marketplace-beheerder toewijzen
 
@@ -187,7 +187,7 @@ Een item is een combi natie van een aanbieding en een abonnement. U kunt items z
 4. Selecteer in de linkerbenedenhoek nadat u uw **selecties hebt gemaakt** .
 
 >[!Note]
-> Het **toevoegen van items** aan Marketplace is alleen beschikbaar voor aanbiedingen die niet van micro soft zijn. Micro soft-oplossingen (inclusief goedgekeurde [Linux-distributies](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) worden gelabeld als ' standaard goedgekeurd ' en kunnen niet worden beheerd in een privé Marketplace.
+> Het **toevoegen van items** aan Marketplace is alleen beschikbaar voor aanbiedingen die niet van micro soft zijn. Micro soft-oplossingen (inclusief goedgekeurde [Linux-distributies](/azure/virtual-machines/linux/endorsed-distros)) worden gelabeld als ' standaard goedgekeurd ' en kunnen niet worden beheerd in een privé Marketplace.
 
 ## <a name="edit-items-plans"></a>Plannen van items bewerken
 
@@ -249,7 +249,7 @@ Het meldingen centrum openen:
 Wanneer persoonlijke Azure Marketplace is ingeschakeld, zien gebruikers welke plannen de Marketplace-beheerder heeft goedgekeurd.
 
 - Een groene **goedgekeurde** kennisgeving duidt op een aanbieding van een partner (niet van micro soft) die is goedgekeurd.
-- Een blauw **goedgekeurde** kennisgeving geeft aan dat een micro soft-aanbieding (inclusief goedgekeurde [Linux-distributies](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) wordt goedgekeurd.
+- Een blauw **goedgekeurde** kennisgeving geeft aan dat een micro soft-aanbieding (inclusief goedgekeurde [Linux-distributies](/azure/virtual-machines/linux/endorsed-distros)) wordt goedgekeurd.
 
 Gebruikers kunnen filteren op aanbiedingen die niet zijn goedgekeurd:
 
@@ -304,7 +304,7 @@ Er zijn momenteel twee manieren om services van derden te beperken in Marketplac
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Laat zien hoe u services beperkt in de E-Portal.":::
 
-2. Maak een Azure-beleid om alleen specifieke Vm's toe te staan. Zie [beleid Toep assen op Windows-vm's met Azure Resource Manager](https://docs.microsoft.com/azure/virtual-machines/windows/policy)voor meer informatie over het afdwingen van beleid voor Windows-vm's.
+2. Maak een Azure-beleid om alleen specifieke Vm's toe te staan. Zie [beleid Toep assen op Windows-vm's met Azure Resource Manager](/azure/virtual-machines/windows/policy)voor meer informatie over het afdwingen van beleid voor Windows-vm's.
 
 Met persoonlijke Azure Marketplace kunt u meer flexibiliteit bieden bij het beperken en toestaan van specifieke aanbiedingen en abonnementen. Het informeert eind gebruikers over de beschik baarheid voor implementatie in de Marketplace-galerie, zelfs voordat ze proberen services van derden te implementeren. Als u de implementatie van services van derden wilt toestaan, stelt u Azure Marketplace in op aan/ingeschakeld in EA-Portal en de Azure Portal.
 
@@ -314,7 +314,7 @@ Met persoonlijke Azure Marketplace kunt u meer flexibiliteit bieden bij het bepe
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Wat is het verschil tussen een privé-aanbieding en een persoonlijke Azure Marketplace?
 
-Met een **persoonlijke aanbieding** kunnen uitgevers plannen maken die alleen zichtbaar zijn voor doel klanten. Hierdoor kunnen ze persoonlijke oplossingen delen met de overeengekomen prijzen, persoonlijke voor waarden en gespecialiseerde configuraties. Zie voor meer informatie [persoonlijke aanbiedingen in de commerciële Marketplace](https://docs.microsoft.com/azure/marketplace/private-offers).
+Met een **persoonlijke aanbieding** kunnen uitgevers plannen maken die alleen zichtbaar zijn voor doel klanten. Hierdoor kunnen ze persoonlijke oplossingen delen met de overeengekomen prijzen, persoonlijke voor waarden en gespecialiseerde configuraties. Zie voor meer informatie [persoonlijke aanbiedingen in de commerciële Marketplace](/azure/marketplace/private-offers).
 
 Met de **persoonlijke Azure Marketplace** in de Azure portal kunnen beheerders vooraf goed keuren welke oplossingen van derden hun gebruikers kunnen implementeren. Met een persoonlijke Azure Marketplace kunnen gebruikers profiteren van de voor delen van Azure Marketplace door compatibele aanbiedingen te zoeken, te kopen en te implementeren. Voor het beheren van privé aanbiedingen op basis van een abonnement in een privé-Marketplace moet de Marketplace-beheerder beschikken over een minimale rol ' lezen ' voor het specifieke abonnement.
 
@@ -326,16 +326,16 @@ Privé aanbiedingen op basis van een abonnement zijn alleen zichtbaar voor de ve
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Kunnen we aangepaste installatie kopieën in de persoonlijke Azure Marketplace gebruiken?
 
-Nee. Met persoonlijke Azure Marketplace kan elke IT-beheerder oplossingen van derden van wereld wijde Azure Marketplace beheren. Aangezien aangepaste installatie kopieën zich niet op de wereld wijde Azure Marketplace bevinden, kan de IT-beheerder geen aangepaste installatie kopieën kiezen en selecteren. Als u aangepaste installatie kopieën wilt delen, gebruikt u de [Galerie voor gedeelde afbeeldingen](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries).
+Nee. Met persoonlijke Azure Marketplace kan elke IT-beheerder oplossingen van derden van wereld wijde Azure Marketplace beheren. Aangezien aangepaste installatie kopieën zich niet op de wereld wijde Azure Marketplace bevinden, kan de IT-beheerder geen aangepaste installatie kopieën kiezen en selecteren. Als u aangepaste installatie kopieën wilt delen, gebruikt u de [Galerie voor gedeelde afbeeldingen](/azure/virtual-machines/shared-image-galleries).
 
-1. Stapsgewijze hand leiding voor het maken van een gemeen schappelijke installatie kopie galerie (SIG) ([cli](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli), [Power shell](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell)).
-2. Een definitie van een installatie kopie maken binnen een SIG-bewerking. De klant moet **gegeneraliseerd** kiezen voor het veld status van het besturings systeem. ([Cli](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [Power shell](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. Een beheerde installatie kopie in de galerie met gedeelde afbeeldingen plaatsen ([cli](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli), [Power shell](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell)).
-4. De SIG-VM-installatie kopieën bevinden zich in één abonnement. Gebruik een app-registratie ([cli](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants), [Power shell](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants)) om deze beschikbaar te maken voor andere abonnementen.
+1. Stapsgewijze hand leiding voor het maken van een gemeen schappelijke installatie kopie galerie (SIG) ([cli](/azure/virtual-machines/shared-images-cli), [Power shell](/azure/virtual-machines/shared-images-powershell)).
+2. Een definitie van een installatie kopie maken binnen een SIG-bewerking. De klant moet **gegeneraliseerd** kiezen voor het veld status van het besturings systeem. ([Cli](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [Power shell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
+3. Een beheerde installatie kopie in de galerie met gedeelde afbeeldingen plaatsen ([cli](/azure/virtual-machines/image-version-managed-image-cli), [Power shell](/azure/virtual-machines/image-version-managed-image-powershell)).
+4. De SIG-VM-installatie kopieën bevinden zich in één abonnement. Gebruik een app-registratie ([cli](/azure/virtual-machines/linux/share-images-across-tenants), [Power shell](/azure/virtual-machines/windows/share-images-across-tenants)) om deze beschikbaar te maken voor andere abonnementen.
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Waarom zie ik sommige aanbiedingen **standaard goedgekeurd,** ook al is de uitgever niet van micro soft?
 
-Micro soft ondersteunt Linux-en open-source technologie in Azure. [Goedgekeurde Linux-distributies](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) worden ondersteund op Azure en de prijs is geïntegreerd in virtuele machines. Omdat Azure Linux agent al vooraf is geïnstalleerd op Azure Marketplace, wordt deze behandeld als een micro soft-aanbieding. Aangezien micro soft-aanbiedingen standaard zijn goedgekeurd, kunnen goedgekeurde Linux-distributies niet worden beheerd in een privé-Azure Marketplace en standaard worden goedgekeurd.
+Micro soft ondersteunt Linux-en open-source technologie in Azure. [Goedgekeurde Linux-distributies](/azure/virtual-machines/linux/endorsed-distros) worden ondersteund op Azure en de prijs is geïntegreerd in virtuele machines. Omdat Azure Linux agent al vooraf is geïnstalleerd op Azure Marketplace, wordt deze behandeld als een micro soft-aanbieding. Aangezien micro soft-aanbiedingen standaard zijn goedgekeurd, kunnen goedgekeurde Linux-distributies niet worden beheerd in een privé-Azure Marketplace en standaard worden goedgekeurd.
 
 ## <a name="contact-support"></a>Contact opnemen met ondersteuning
 

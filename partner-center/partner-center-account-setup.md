@@ -1,7 +1,7 @@
 ---
 title: Uw account voor het partnercentrum beheren
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over het gebruik van partner Center voor het beheren van het profiel van uw bedrijf, de Bank-en belasting gegevens, rollen, machtigingen en meer.
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103486995"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712839"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Uw partner centrum-account, het bedrijfs profiel, de Bank gegevens, rollen, machtigingen en meer beheren
 
 **Relevante rollen** – globale beheerder
 - MPN-account beheerder
 
-Het account dat u op partner centrum maakt wanneer u zich inschrijft, is uw werk-e-mail plus uw bedrijfs gegevens. Nadat u een account hebt gemaakt, voltooit u het instellen van het volledige profiel van uw bedrijf, inclusief ondersteunings Details, belasting vrijstellingen voor bestanden, indien van toepassing, en primaire contact gegevens. Het account van uw bedrijf bevat ook gebruikers accounts voor iedereen die het partner centrum gaat gebruiken voor het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van zakelijke profielen, het beheren van verwijzingen, het werken met prikkel Programma's en het bieden van ondersteuning.
+Het account dat u op partner centrum maakt wanneer u zich inschrijft, is uw werk-e-mail plus uw bedrijfs gegevens. Nadat u een account hebt gemaakt, voltooit u het instellen van het volledige profiel van uw bedrijf, inclusief ondersteunings Details, belasting vrijstellingen voor bestanden, indien van toepassing, en primaire contact gegevens. Het account van uw bedrijf bevat ook gebruikers accounts voor iedereen in uw team die partner centrum gaat gebruiken. Het werk dat ze kunnen doen omvat het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van zakelijke profielen, het beheren van verwijzingen, het werken met prikkel Programma's, het bieden van ondersteuning en meer.
 
 Zie ook artikelen [uitnodigden om lid te worden van partner centrum](guide-to-migration.md) en [een nieuwe gebruiker toe te voegen](create-user-accounts-and-set-permissions.md).
 
@@ -30,7 +30,7 @@ Zie ook artikelen [uitnodigden om lid te worden van partner centrum](guide-to-mi
 
 ## <a name="account-management"></a>Accountbeheer
 
-Als u account beheer wilt gebruiken in het partner centrum voor alle partners, commerciële en ontwikkelaar, meldt u zich aan bij het [dash board](https://partner.microsoft.com/dashboard) van de partner centrum en selecteert u **instellingen** (het tandwiel pictogram) in de rechter bovenhoek van het scherm en vervolgens de instellingen voor het **account**. U hoeft niet meer te kiezen tussen de instellingen voor partners en ontwikkel aars, omdat alle profielen en instellingen nu worden gecombineerd.
+Alle commerciële en ontwikkelaars partners hebben toegang tot **account beheer** in het partner centrum door zich aan te melden bij het [dash board](https://partner.microsoft.com/dashboard) van de partner centrum en **instellingen** te selecteren (het tandwiel pictogram) in de rechter bovenhoek van het scherm en vervolgens de **account instellingen**. U hoeft niet meer te kiezen tussen de instellingen voor partners en ontwikkel aars. Alle profielen en instellingen worden nu gecombineerd.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="pictogram instellingen":::
 
@@ -50,13 +50,13 @@ Wanneer u het pictogram **instellingen** selecteert en het menu **account instel
 
 Het tabblad partner bevat alle juridische Bedrijfs gegevens, zoals de geregistreerde juridische naam en het adres voor uw bedrijf, evenals de primaire contact persoon en de bedrijfs locaties. Het tabblad Reseller voor partners die CSP-bedrijven uitvoeren, omvat het **profiel voor klant ondersteuning**.
 
-Als uw bedrijf geen deel uitmaakt van CSP, wordt in de standaard weergave alleen het tabblad **partner** weer gegeven waarin het **profiel voor klant ondersteuning** wordt opgenomen.
+Als uw bedrijf geen deel uitmaakt van de CSP, wordt in de standaard weergave alleen het tabblad **partner** weer gegeven, waarin het **profiel voor klant ondersteuning** wordt opgenomen.
 
 ### <a name="when-you-are-in-more-than-one-account"></a>Wanneer u zich in meer dan één account bevindt
 
 U kunt een deel van meer dan één account maken. U kunt controleren of u deel uitmaakt van meerdere accounts door de aanwezigheid van de ' account kiezer ' in het navigatie menu aan de linkerkant.
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="De account kiezer identificeren":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="De account kiezer identificeren":::
 
 Als u de account kiezer niet ziet, maakt u deel uit van slechts één account. 
 
@@ -64,7 +64,7 @@ Wanneer u op deze kiezer klikt, worden alle accounts waarvan u deel uitmaakt, we
 
 In het onderstaande voor beeld maakt de aangemelde gebruiker deel uit van de drie gemarkeerde accounts. De gebruiker kan hiertussen scha kelen door te klikken op een account.
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="De accounts waarvan u deel uitmaakt":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="De accounts waarvan u deel uitmaakt":::
 
 ## <a name="organization-profile"></a>Organisatie profiel
 
@@ -74,7 +74,13 @@ Gebruik deze pagina's voor het beheren van de uitgebreide gebieden van uw bedrij
 
 ### <a name="legal-info"></a>Juridische informatie
 
-Wanneer u de eerste keer deelneemt aan partner Center, loopt uw bedrijf via een verificatie proces met micro soft. U kunt de status van uw verificatie volgen op de pagina **juridische informatie** . Hier wordt de primaire contact persoon weer gegeven (wie micro soft contact maakt met betrekking tot vragen over partners) en de primaire juridische contact persoon (degene die uw juridische informatie en status beheert). Alle bedrijfs locaties van uw bedrijf worden weer gegeven en kunnen hier worden toegevoegd.
+Wanneer u de eerste keer deelneemt aan partner Center, loopt uw bedrijf via een verificatie proces met micro soft. U kunt de status van uw verificatie volgen op de pagina **juridische informatie** . Hier wordt de primaire contact persoon weer gegeven (wie micro soft contact maakt met betrekking tot vragen over partners) en de primaire juridische contact persoon (degene die uw juridische informatie en status beheert). Alle bedrijfs locaties van uw bedrijf worden weer gegeven en kunnen hier worden toegevoegd. 
+
+### <a name="provide-your-companys-legal-business-details"></a>De juridische zakelijke gegevens van uw bedrijf opgeven
+
+U kunt uw bedrijfs profiel opzoeken of bedrijfs gegevens hand matig invoeren. Als uw bedrijf is geregistreerd met [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), gebruikt u de Duns-id om uw bedrijfs gegevens op te zoeken. Als u uw bedrijfs gegevens zelf wilt opgeven, selecteert u **hand matig**.
+
+Als uw bedrijf zich in **Armenië**, **Hongarije**, **Kirgizië**, **Moldavië**, **Oezbekistan** of **Rusland** bevindt, en u uw adres hand matig invoert, zullen we uw adres voor u valideren. Als de naam die u invoert, afwijkt van de gevalideerde, wordt u aangeraden het gevalideerde adres te gebruiken. Verificatie zorgt ervoor dat het adres juist is en kan worden verzonden naar.
 
 ### <a name="primary-contact-email"></a>E-mail van primaire contact persoon
 

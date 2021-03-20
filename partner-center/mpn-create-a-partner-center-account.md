@@ -1,7 +1,7 @@
 ---
 title: Een MPN-account maken in het partner centrum
 ms.topic: article
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over hoe Microsoft Partner Network leden een partner centrum-account kunnen maken voor het beheren van hun netwerk voordelen en-vaardig heden.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570206"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712916"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Een MPN-account maken in het partner centrum om netwerk voordelen en-competenties te beheren
 
@@ -40,14 +40,14 @@ Wanneer u klaar bent om een account te maken in het partner centrum, moet u de v
 
 ## <a name="get-started"></a>Aan de slag
 
-1. Ga op de pagina [**aan de slag**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) naar uw werk-e-mail die u hebt ontvangen van uw bedrijf, zoals you@yourcompanyname.com .
+1. Op de pagina [**aan de slag**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) begint u met uw werk-e-mail die u van uw bedrijf hebt ontvangen, bijvoorbeeld you@yourcompanyname.com .
 
  
-    a.  Het e-mail adres moet geldig zijn en toegankelijk zijn voor u omdat we een verificatie code verzenden om door te gaan.
+    a.  Het e-mail adres moet geldig zijn en toegankelijk zijn voor u omdat we een verificatie code naar dat e-mail bericht sturen om door te gaan.
 
-    b.  Het e-mail adres mag geen woorden zoals ' info ', ' Administrator ', ' ' bevatten email@. . Of ' marketing@.. . ', omdat deze niet worden ondersteund.
+    b.  Het e-mail adres mag geen woorden zoals ' info ', ' Administrator ', ' ' bevatten email@ . Of " marketing@.. ."; deze adres notaties worden niet ondersteund.
 
-    c.  Als u kaarten wilt kopen of competenties wilt beheren, moet u dit account upgraden door uw domein te verifiëren en beheerder te worden. 
+    c.  Als u kaarten wilt kopen of competenties wilt beheren, moet u dit account upgraden door [uw domein te verifiëren](become-global-admin.md) en een beheerder te worden. 
 
 2. U kunt zich aanmelden met uw Office 365-werk account, bijvoorbeeld you@contoso.onmicrosoft.com .
 
@@ -58,8 +58,11 @@ Wanneer u klaar bent om een account te maken in het partner centrum, moet u de v
 
 U kunt uw bedrijfs profiel opzoeken of bedrijfs gegevens hand matig invoeren. Als uw bedrijf is geregistreerd met [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), gebruikt u de Duns-id om uw bedrijfs gegevens op te zoeken. Als u uw bedrijfs gegevens zelf wilt opgeven, selecteert u **hand matig**.
 
-Zodra u de gegevens van het bedrijf hebt opgegeven, voert u de gegevens van de primaire contact persoon in en selecteert u **nu registreren**.
-De primaire contact persoon moet degene zijn in uw bedrijf. we kunnen contact opnemen met uw toepassing (dit kan u of een andere persoon in uw bedrijf zijn).
+Als uw bedrijf zich in **Armenië**, **Hongarije**, **Kirgizië**, **Moldavië**, **Oezbekistan** of **Rusland** bevindt, en u uw adres hand matig invoert, zullen we uw adres voor u valideren. Als de naam die u invoert, afwijkt van de gevalideerde, wordt u aangeraden het gevalideerde adres te gebruiken. Dit zorgt ervoor dat de elementen van het adres gestandaardiseerd zijn, zoals gedefinieerd door de post instantie van het land, correct ingedeeld en shippable.  
+
+Zodra u de gegevens van het bedrijf hebt opgegeven, voert u de gegevens van de primaire contact persoon in. De primaire contact persoon moet degene zijn in uw bedrijf. we kunnen contact opnemen met uw toepassing (deze contact persoon kan u of een andere persoon in uw bedrijf zijn).
+
+4. Selecteer **nu registreren**.
 
 >[!IMPORTANT]
 >Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om het e-mail adres te verifiëren en ervoor te zorgen dat het e-mail adres bij uw bedrijf hoort. Nadat de primaire contact persoon het e-mail adres heeft geverifieerd, gaan we verder met de door u verstrekte informatie. Verificatie duurt meestal 3-5 werk dagen. 
@@ -75,14 +78,14 @@ U kunt ook andere belang rijke informatie bekijken, zoals MPN-Id's, MPN-locaties
 
 ## <a name="next-steps"></a>Volgende stappen
 
--   [Account gebruikers toevoegen en machtigingen toewijzen](create-user-accounts-and-set-permissions.md)
+-  [Account gebruikers toevoegen en machtigingen toewijzen](create-user-accounts-and-set-permissions.md)
 
--   [Buy for the first time or renew a Microsoft Action Pack subscription](mpn-get-action-pack.md) (Microsoft Action Pack-abonnement kopen of verlengen)
+-  [Buy for the first time or renew a Microsoft Action Pack subscription](mpn-get-action-pack.md) (Microsoft Action Pack-abonnement kopen of verlengen)
 
--   [Uw lidmaatschaps voordelen beheren](manage-your-partner-network-benefits.md)
+-  [Uw lidmaatschaps voordelen beheren](manage-your-partner-network-benefits.md)
 
--   [Meer informatie over competentie vereisten voor het Gold-en Silver-lidmaatschap](https://partner.microsoft.com/membership/competencies)
+-  [Meer informatie over competentie vereisten voor het Gold-en Silver-lidmaatschap](https://partner.microsoft.com/membership/competencies)
 
--   [Create a business profile to get sales leads from Microsoft](create-a-marketing-profile.md) (Een bedrijfsprofiel maken om sales leads te krijgen van Microsoft)
+-  [Create a business profile to get sales leads from Microsoft](create-a-marketing-profile.md) (Een bedrijfsprofiel maken om sales leads te krijgen van Microsoft)
 
--   [Verkoop leads van micro soft ophalen en beheren](manage-leads.md)
+-  [Verkoop leads van micro soft ophalen en beheren](manage-leads.md)

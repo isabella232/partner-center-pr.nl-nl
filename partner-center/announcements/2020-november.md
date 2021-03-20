@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756398"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712525"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
@@ -305,11 +305,11 @@ Het partner centrum is ontworpen om een groot aantal aanvragen af te handelen, m
 
 ### <a name="apis-to-be-throttled"></a>Api's die moeten worden beperkt
 
-|**Bewerking**|**Documentatie voor Partnercentrum**|
+| **Bewerking** | **Documentatie voor Partnercentrum** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions|[Alle abonnementen van een klant ophalen](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Een abonnement ophalen op basis van id](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/orders||[Alle bestellingen van een klant ophalen](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/orders|[Alle bestellingen van een klant ophalen](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/Customers/{customer_id}/orders/{order_id}|[Een bestelling ophalen op basis van id](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/Customers/{customer_id}/orders/{order_id}/provisioningstatus|[De inrichtingsstatus van het abonnement ophalen](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Orders beheren en een abonnement beheren](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ Het partner centrum is ontworpen om een groot aantal aanvragen af te handelen, m
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[De registratiestatus van het abonnement ophalen](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Alle overdrachten van een klant ophalen](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Upgradestatus van product ophalen](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Een lijst met aanbiedingen voor omzetten van de proefversie ophalen](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Een lijst met aanbiedingen voor omzetten van de proefversie ophalen](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 Deze aankondiging is erop gericht partners te voorzien van vroegtijdige kennis van de komende wijzigingen, waardoor ze kunnen voorbereiden. We raden u ten zeerste aan om partners vertrouwd te raken met deze Api's en overweeg de API voor het activiteiten logboek te gebruiken voor meer efficiëntie en om te voor komen dat deze wordt beperkt. Raadpleeg de informatie in [API Throttle-richt lijnen](/partner-center/develop/api-throttling-guidance)voor meer informatie over deze functie. 
