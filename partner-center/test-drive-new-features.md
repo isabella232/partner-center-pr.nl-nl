@@ -9,18 +9,15 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3872f3398516b6a437d570c6949bef8541cdedd4
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527540"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768802"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>De nieuwe functies van het partner centrum testen en de toekomst van het partner centrum helpen vorm geven
 
-**Van toepassing op**
-
-- Partnercentrum
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Help de toekomst van het partner centrum te vorm geven.
 
@@ -30,11 +27,11 @@ We nodigen u uit om nieuwe functies uit te proberen voordat ze worden uitgebrach
 
 ### <a name="test-drive-a-feature"></a>Een functie testen
 
-1. Selecteer in de **account instellingen** de optie **test station nieuwe functies** .
+1. Selecteer in de **account instellingen** de optie **test station nieuwe functies**.
 
-2. Selecteer **functie releases** . U kunt zien welke functies worden uitgebracht voor testen en of u geïnteresseerd bent in deelname.
+2. Selecteer **functie releases**. U kunt zien welke functies worden uitgebracht voor testen en of u geïnteresseerd bent in deelname.
 
-3. Als u een bepaalde functie wilt testen, schuift **u de knop naar aan** .
+3. Als u een bepaalde functie wilt testen, schuift **u de knop naar aan**.
 
 > [!NOTE]  
 > Alleen globale beheerders en beheerders agenten kunnen Preview-versies van functies inschakelen. Uw partner centrum-gebruikers kunnen echter preview-functies zien en gebruiken als ze over de juiste machtigingen beschikken.

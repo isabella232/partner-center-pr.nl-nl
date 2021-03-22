@@ -1,6 +1,6 @@
 ---
 title: De connector voor het samen verkopen van Dynamics 365 CRM-partner centrum
-description: Synchroniseer verwijzingen in het partner centrum met de connector voor co-sell voor Dynamics 365 CRM. Verkopers kunnen vervolgens samen met micro soft verkopen binnen uw CRM-systemen.
+description: Synchroniseer verwijzingen in het partner centrum met de connector voor co-sell voor Dynamics 365 CRM. U kunt vervolgens samen met micro soft verkopen in uw CRM-systeem.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,121 +8,119 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 2082424f8203f0d9c50726e1e5ef7b3e3c39d6c2
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619406"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768768"
 ---
-# <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connector voor Dynamics 365-overzicht co-sell
+# <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Connector voor Dynamics 365 CRM-overzicht co-sell
 
 ### <a name="appropriate-roles"></a>Juiste rollen
 
 - Beheerder van verwijzingen
 - Systeem beheerder of systeemaanpasser op de CRM
 
-Met connector voor co-sell van partner Center kunnen uw verkopers samen werken met micro soft binnen uw CRM-systemen. Ze hoeven niet te worden getraind om gebruik te kunnen maken van het partner centrum voor het beheren van trans acties met co-verkoop. Gebruik de co-Connect connectors om een nieuwe verwijzing naar de verkoop te maken voor een micro soft-verkoper, referenties te ontvangen van de micro soft-verkoper, verwijzingen te accepteren/weigeren, afhandelings gegevens te wijzigen, zoals een deal waarde en een sluitings datum. U kunt ook updates van de micro soft-verkopers ontvangen op deze mede koop-deals. U kunt al uw referenties beheren in de CRM van uw keuze in plaats van in het partner centrum. 
+Met connectors voor het verkopen van partners kunnen uw verkopers samen werken met micro soft binnen uw CRM-systemen. Ze hoeven niet te worden getraind om gebruik te kunnen maken van het partner centrum voor het beheren van trans acties met co-verkoop. Gebruik de co-Connect connectors om een nieuwe verwijzing naar de verkoop te maken voor een micro soft-verkoper, referenties te ontvangen van de micro soft-verkoper, verwijzingen te accepteren of te weigeren, en de deal gegevens te wijzigen, zoals de deal waarde en de sluitings datum. U kunt ook updates van de micro soft-verkopers ontvangen op deze mede koop-deals. U kunt al uw referenties beheren in de CRM van uw keuze in plaats van in het partner centrum.
 
-De oplossing is gebaseerd op de micro soft-oplossing voor energie automatisering en maakt gebruik van partner Center-Api's.
+De oplossing is gebaseerd op het automatiseren van de functies en maakt gebruik van partner Center-Api's.
 
-## <a name="before-you-install---pre-requisites"></a>Voordat u de vereisten installeert
+## <a name="prerequisites"></a>Vereisten
+
+Voordat u de oplossing installeert, moet u ervoor zorgen dat aan de volgende vereisten wordt voldaan.
 
 |**Onderwerpen**   |**Details**   |**Koppelingen**   |
 |--------------|--------------------|------|
-|Microsoft Partner Network-ID |U hebt een geldige MPN-ID nodig|Toevoegen aan [MPN](https://partner.microsoft.com/)|
-|Klaar voor samen verkopen|Uw IP/Services-oplossing moet samen worden verkocht.|[Verkopen met micro soft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
-|Partnercentrum-account|De MPN-ID die is gekoppeld aan de Partner Center-Tenant, moet gelijk zijn aan de MPN-ID die is gekoppeld aan uw oplossing voor co-selling. Controleer voordat u de connectors implementeert of u de referenties voor samen verkopen in partner centrum Portal kunt zien.|[Uw account beheren](create-user-accounts-and-set-permissions.md)|
-|Gebruikers rollen voor het partner centrum|De werk nemer die de connectors installeert en gebruikt, moet een referentie beheerder zijn|[Beheerdersrollen en -machtigingen toewijzen](create-user-accounts-and-set-permissions.md)| 
-|Dynamics 365 CRM|De rol van CRM-gebruiker is systeem beheerder of systeemaanpasser|[Rollen toewijzen in Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Stroom account voor energie automatisering|Maak een nieuwe productie omgeving met een Data Base voor testen/fase ring en productie. Als u een bestaande productie omgeving met Data Base hebt, kunt u deze opnieuw gebruiken. Gebruiker die connector oplossing gaat installeren, moet beschikken over een automatische licentie en toegang tot deze omgeving. U kunt de voortgang controleren en meer Details ophalen. als de installatie mislukt [, klikt u op geschiedenis](https://flow.microsoft.com/) weer geven onder oplossingen.|[Omgeving maken of beheren](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Microsoft Partner Network-ID (MPN) |U hebt een geldige MPN-ID nodig.|[Neem lid van het partner netwerk](https://partner.microsoft.com/)|
+|Klaar voor samen verkopen|Uw IP/Services-oplossing moet samen worden verkocht.|[Verkopen met micro soft](https://partner.microsoft.com/membership/sell-with-microsoft)|
+|Partnercentrum-account|De MPN-ID die is gekoppeld aan de Partner Center-Tenant, moet gelijk zijn aan de MPN-ID die is gekoppeld aan uw oplossing voor co-selling. Controleer voordat u de connectors implementeert of u de referenties voor samen verkopen in de partner centrum-Portal kunt zien.|[Uw account beheren](create-user-accounts-and-set-permissions.md)|
+|Gebruikers rollen voor het partner centrum|De werk nemer die de connectors installeert en gebruikt, moet een verwijzings beheerder zijn.|[Beheerdersrollen en -machtigingen toewijzen](create-user-accounts-and-set-permissions.md)|
+|Dynamics 365 CRM|De rol van CRM-gebruiker is systeem beheerder of systeemaanpasser.|[Rollen toewijzen in Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
+|Stroom account voor energie automatisering|Maak een nieuwe productie omgeving met een Data Base voor testen, fase ring en productie. Als u een bestaande productie omgeving met een Data Base hebt, kan deze opnieuw worden gebruikt. De gebruiker die de connector oplossing gaat installeren, moet beschikken over een automatische licentie en toegang tot deze omgeving. Als de installatie mislukt, kunt u de voortgang controleren en meer informatie krijgen in de [automatische energie](https://flow.microsoft.com/) registratie. Selecteer **Geschiedenis bekijken** onder **oplossingen**.|[Omgeving maken of beheren](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Synchronisatie van partner Center referrals voor Dynamics 365 (oplossing voor automatische stroom) installeren
 
-1. Ga naar [Automatische stroom](https://flow.microsoft.com) en selecteer **omgevingen** in de rechter bovenhoek. In deze stap ziet u de beschik bare CRM-exemplaren.
+1. Ga naar [energie automatisering](https://flow.microsoft.com)en selecteer in de rechter bovenhoek de optie **omgevingen** . In deze stap ziet u de beschik bare CRM-exemplaren.
 
-2. Selecteer het juiste CRM-exemplaar in de vervolg keuzelijst in de rechter bovenhoek.
+1. Selecteer het juiste CRM-exemplaar in de vervolg keuzelijst in de rechter bovenhoek.
 
-3. Selecteer **oplossingen** op de linkernavigatiebalk.
+1. Selecteer **oplossingen** aan de linkerkant.
 
-4. Klik op de koppeling **Open AppSource** in het bovenste menu.
+1. Selecteer de koppeling **Open AppSource** in het bovenste menu.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="AppSource openen":::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Scherm opname van open AppSource.":::
 
-5. Zoek naar **Partner Center referrals connectors voor Dynamics365** in het pop-upvenster.  
+1. Zoek naar **Partner Center referrals connectors voor Dynamics 365** in het pop-upvenster.  
 
-6. Klik op de knop **nu downloaden** en vervolgens op **door gaan**.
+1. Selecteer de knop **nu downloaden** en selecteer vervolgens **door gaan**.
 
-7. Hiermee opent u de pagina waar u de CRM-omgeving (Dynamics 365) kunt selecteren om de toepassing te installeren.  Ga akkoord met de voor waarden.
+1. Er wordt een pagina weer gegeven waar u de CRM-omgeving (Dynamics 365) kunt selecteren om de toepassing te installeren. Ga akkoord met de voor waarden.
 
-8. U kunt de voortgang controleren en meer Details ophalen. als de installatie mislukt, klikt u op **geschiedenis weer geven** onder **oplossingen**.
- 
+1. U kunt de voortgang bewaken en, als de installatie mislukt, kunt u meer details in energie automatisering krijgen door onder **oplossingen** de optie **geschiedenis weer te geven** .
 
-9. Zodra de installatie is voltooid, gaat u terug naar [energie automatisering](https://flow.microsoft.com) en selecteert u **oplossingen** vanuit het navigatie gebied links. U ziet dat **Partner Center referrals synchronisatie voor Dynamics 365** beschikbaar is in de lijst met oplossingen.
+1. Nadat de installatie is voltooid, gaat u terug naar [automatische energie](https://flow.microsoft.com) en selecteert u **oplossingen** aan de linkerkant. De **synchronisatie van partner Center referrals voor Dynamics 365** is nu beschikbaar in de lijst met **oplossingen** .
 
-10. Selecteer de **synchronisatie van partner Center referrals voor Dynamics 365**. De volgende stroom voor het automatiseren van stromen en entiteiten zijn beschikbaar:
+1. Selecteer de **synchronisatie van partner Center referrals voor Dynamics 365**. De volgende stroom voor het automatiseren van stromen en entiteiten zijn beschikbaar.
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Beschik bare CRMS":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Scherm opname waarin de beschik bare CRMs wordt weer gegeven.":::
 
-## <a name="best-practice-test-before-you-go-live"></a>Best practice: test voordat u live gaat
+## <a name="test-before-you-go-live"></a>Testen voordat u live gaat
 
-Voordat u de oplossing voor het automatiseren van energie op de productie omgeving installeert, configureert en bijwerkt, moet u ervoor zorgen dat u de oplossing op een staging CRM-exemplaar test.
+Voordat u de oplossing voor het automatiseren van energie op de productie omgeving installeert, configureert en bijwerkt, moet u ervoor zorgen dat u de oplossing op een staging CRM-exemplaar test. U moet het volgende doen:
 
-- Installeer de oplossing voor het automatiseren van micro soft power op een staging-omgeving/CRM-exemplaar.
-- Configureer en pas de micro soft-oplossing voor het automatiseren van energie aan in faserings omgeving.
-- Test de oplossing op een staging/CRM-exemplaar. 
-- Importeer bij geslaagd als beheerde oplossing naar het productie-exemplaar. 
+- Installeer de oplossing voor het automatiseren van energie beheer op een staging Environment CRM-exemplaar.
+- De oplossing voor energie automatisering configureren en aanpassen in een faserings omgeving.
+- Test de oplossing op een staging CRM-exemplaar.
+- Na een geslaagde test kunt u importeren als een beheerde oplossing naar het productie-exemplaar.
 
 ## <a name="configure-the-solution"></a>De oplossing configureren
 
-1. Wanneer u de oplossing in uw CRM-exemplaar hebt geïnstalleerd, gaat u terug naar [Automatische stroom](https://flow.microsoft.com/).
+1. Nadat u de oplossing in uw CRM-exemplaar hebt geïnstalleerd, gaat u terug naar [Automatische stroom](https://flow.microsoft.com/).
 
+1. Selecteer in de vervolg keuzelijst **omgevingen** in de rechter BOVENHOEK het CRM-exemplaar waarop u de oplossing voor het automatiseren van energie beheer hebt geïnstalleerd.
 
-2. Selecteer in de vervolg keuzelijst **omgevingen** in de rechter BOVENHOEK het CRM-exemplaar waarop u de oplossing voor het automatiseren van energie beheer hebt geïnstalleerd.
-
-3. U moet verbindingen maken die de drie gebruikers accounts koppelen:
+1. U moet verbindingen maken die de drie gebruikers accounts koppelen:
 
    - Partner centrum-gebruiker met referrals beheerders referenties
-
    - Partnercentrum-gebeurtenissen
+   - CRM-beheerder met de stroom voor het automatiseren van stromen in de oplossing
 
-   - CRM-beheerder met de stroom voor het automatiseren van stromen in de oplossing.
+   1. Selecteer **verbindingen** aan de linkerkant en selecteer de oplossing **Partner Center referrals** in de lijst.
 
-      1. Selecteer **verbindingen** in de linkernavigatiebalk en selecteer de oplossing **Partner Center referrals** in de lijst.
+   1. Maak een verbinding door **een verbinding maken** te selecteren.
 
-      2. Maak een verbinding door te klikken op **een verbinding maken**.
+         :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="Scherm opname van een verbinding maken.":::
 
-         :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="Verbinding maken":::
+   1. Zoek naar **Partner Center referrals (preview)** in de zoek balk in de rechter bovenhoek.
 
-      3. Zoek naar **Partner Center referrals (preview)** in de zoek balk in de rechter bovenhoek.
+   1. Maak een verbinding voor uw partner centrum-gebruiker met de referenties van de beheerder van verwijzingen.
 
-      4. Maak een verbinding voor uw partner centrum-gebruiker met de referenties van de beheerder van verwijzingen.
+   1. Maak vervolgens een verbinding met de Partner Center-gebeurtenissen voor uw partner centrum-gebruiker met de referenties van de referentie beheerder.
 
-      5. Maak vervolgens een verbinding met de partner centrum-gebeurtenissen voor uw partner centrum-gebruiker met de referenties van de beheerder.
-
-      6. Maak een verbinding voor Common Data Service (huidige omgeving) voor de gebruiker van de CRM-beheerder.
+   1. Maak een verbinding voor Common Data Service (huidige omgeving) voor de gebruiker van de CRM-beheerder.
      
-      7. Zodra u alle verbindingen hebt toegevoegd, ziet u de volgende verbindingen in uw omgeving:
+   1. Nadat u alle verbindingen hebt toegevoegd, ziet u de volgende verbindingen in uw omgeving.
 
-         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Verbindingen":::
-   
+      :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Scherm opname van verbindingen.":::
+
 ## <a name="edit-the-connections"></a>De verbindingen bewerken
 
-1. Ga terug naar de pagina **oplossingen** en selecteer **standaard oplossing**. Selecteer **verbindings verwijzing (preview)** door te klikken op **alle**.
+1. Ga terug naar de pagina **oplossingen** en selecteer **standaard oplossing**. Selecteer **verbindings verwijzing (preview)** door **alle** te selecteren.
 
-   :::image type="content" source="images/connection-reference-video.gif" alt-text="De verbindingen bewerken":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="Scherm afbeelding waarin de verbindingen worden bewerkt.":::
 
-2. Bewerk elk van de verbindingen één voor één door het pictogram drie punten te selecteren. Voeg de relevante verbindingen toe.
+1. Bewerk elk van de verbindingen één voor één door het pictogram met het weglatings teken te selecteren. Voeg de relevante verbindingen toe.
 
-   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Verbindingen vermeld"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Scherm opname van de weer gegeven verbindingen.":::
 
-3.  Ga terug naar de pagina oplossingen, selecteer de synchronisatie van partner Center referrals voor Dynamics 365 en schakel de stroom in door te klikken op het pictogram drie punten naast elke stroom in de volgende reeks. Zie [aanpassings stappen](connector-dynamics.md#customize-synchronization-steps) en [stappen voor probleem oplossing](connectors-troubleshoot.md)als u problemen ondervindt bij het inschakelen van de stroom. 
+1.  Ga terug naar de pagina **oplossingen** , selecteer **synchronisatie van partner Center referrals voor Dynamics 365** en schakel de stroom in door het pictogram met het weglatings teken naast elke stroom in de volgende reeks te selecteren. Zie [aanpassings stappen](connector-dynamics.md#customize-synchronization-steps) en [stappen voor probleem oplossing](connectors-troubleshoot.md)als u problemen ondervindt tijdens het inschakelen van de stroom.
 
 Schakel de stromen in de volgende volg orde in:
 
 - Inschrijving van partner Center-webhooks (Insider preview)
 - Een verwijzing naar een co-sell maken – Dynamics 365 naar partner Center (Insider preview)
-- Aanpassen Gegevens maken of ophalen uit Dynamics 365 flow 
+- Aanpassen Gegevens maken of ophalen uit Dynamics 365 flow
 - Partner centrum voor Dynamics 365-helper (Insider preview)
 - Partner centrum referentie-updates voor micro soft-verkoop naar Dynamics 365 (Insider preview)
 - Partner centrum voor Dynamics 365 (Insider preview)
@@ -130,88 +128,77 @@ Schakel de stromen in de volgende volg orde in:
 - Dynamics 365-opportunity naar partner Center (Insider preview)
 - Dynamics 365 micro soft Solutions to Partner Center (Insider preview)
  
-
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Webhook-Api's gebruiken om te registreren voor bron wijzigings gebeurtenissen
 
-Met de webhook-Api's van partner Center kunt u zich registreren voor bron wijzigings gebeurtenissen. Deze wijzigings gebeurtenissen worden als HTTP-berichten naar uw URL verzonden.
+U kunt de webhook-Api's van partner Center gebruiken om te registreren voor bron wijzigings gebeurtenissen. Deze wijzigings gebeurtenissen worden als HTTP-berichten naar uw URL verzonden.
 
 1. Selecteer **partner centrum voor Dynamics 365 (Insider preview)**.
 
-2. Selecteer het **bewerkings** pictogram en selecteer **Wanneer een HTTP-aanvraag wordt ontvangen**.
+1. Selecteer het **bewerkings** pictogram en selecteer **Wanneer een HTTP-aanvraag wordt ontvangen**.
 
-3. Selecteer het **Kopieer** pictogram om de gegeven HTTP post-URL te kopiëren.
+1. Selecteer het **Kopieer** pictogram om de gegeven HTTP post-URL te kopiëren.
 
-   :::image type="content" source="images/webhook-video.gif" alt-text="Webhooks gebruiken om resource wijzigingen te registreren":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Scherm opname van het gebruik van webhooks om resource wijzigingen te registreren.":::
 
-4. Selecteer de stroom voor het automatiseren van partner Center-webhooks (Insider preview) en selecteer vervolgens **uitvoeren**.
+1. Selecteer de stroom voor het automatiseren van de **Partner Center-webhook (Insider preview)** en selecteer vervolgens **uitvoeren**.
 
-5. Zorg ervoor dat het venster stroom uitvoeren wordt geopend in het rechterdeel venster en klik op **door gaan**.
+1. Zorg ervoor dat het venster **stroom uitvoeren** wordt geopend in het rechterdeel venster en selecteer **door gaan**.
 
-6. Voer de volgende details in:
+1. Voer de volgende details in:
 
-   - **Http-trigger eindpunt**: URL gekopieerd uit eerdere stap
+   - **Http-trigger eindpunt**: deze URL is uit een eerdere stap gekopieerd.
+   - **Te registreren gebeurtenissen**: Selecteer alle beschik bare gebeurtenissen (door **verwijzing gemaakt**, **verwijzing-bijgewerkt**, **gerelateerde-verwijzing-gemaakt** en **gerelateerde-Referral-bijgewerkt**).
+   - **Bestaande trigger eindpunten overschrijven indien aanwezig?**: Ja. Er kan slechts één URL worden geregistreerd voor een bepaalde webhook-gebeurtenis.
 
-   - **Te registreren gebeurtenissen**: Selecteer alle beschik bare gebeurtenissen (' Referral-created ', ' Referral-updated ', ' Verwante-Referral-created ', ' gerelateerde-Referral-bijgewerkt ')
+1. Selecteer **Run flow** en selecteer vervolgens **gereed.**
 
-   -**Bestaande trigger eindpunten overschrijven indien aanwezig**: Ja het is belang rijk te weten dat er slechts één URL kan worden geregistreerd voor een bepaalde webhook-gebeurtenis. Het is belang rijk te weten dat er slechts één URL kan worden geregistreerd voor een bepaalde webhook-gebeurtenis. 
-
-7. Selecteer **uitvoeren** en selecteer vervolgens **gereed.**
-
-De webhook kan nu Luis teren om gebeurtenissen te maken en bij te werken.
+De webhook kan nu naar gebeurtenissen Luis teren, maken en bijwerken.
 
 ## <a name="customize-synchronization-steps"></a>Synchronisatie stappen aanpassen
 
-CRM-systemen zijn zeer aangepast en u kunt de energiebeheer oplossing aanpassen op basis van uw CRM-installatie.  Wanneer verwijzingen naar links worden gesynchroniseerd tussen partner centrum en uw CRM-systeem, worden de velden die zijn gesynchroniseerd op de Partner Center-PC weer gegeven in de [hand leiding voor aangepaste veld toewijzing](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S).
+CRM-systemen zijn zeer aangepast en u kunt de energiebeheer oplossing aanpassen op basis van uw CRM-installatie. Wanneer verwijzingen naar de verkoop worden gesynchroniseerd tussen het partner centrum en uw CRM-systeem, worden de velden die zijn gesynchroniseerd op de Partner Center-PC weer gegeven in de [hand leiding voor aangepaste veld toewijzing](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S).
 
-Volg de hand leiding voor de veld toewijzing en wijzig indien nodig de juiste wijzigingen in **[aanpassen] Create of Get details van Dynamics 365 flow**  of omgevings variabelen. Het is raadzaam om geen andere stromen bij te werken in de oplossing voor het automatiseren van de oplossing, omdat deze invloed kan hebben op upgrades van toekomstige oplossingen. 
+Volg de hand leiding voor de veld toewijzing en wijzig indien nodig de juiste wijzigingen in **[aanpassen] Create of Get details van Dynamics 365 flow** of omgevings variabelen. Werk geen andere stromen bij in de oplossing voor het automatiseren van de energie, omdat deze invloed kan hebben op toekomstige oplossings upgrades.
 
-Hier volgen de beschik bare aanpassingen:
+De volgende aanpassingen zijn beschikbaar:
 
-- Selectie vakje Opportunity naam: standaard wordt een vinkje weer gegeven naast naam van opportuniteit om aan te geven dat de synchronisatie tussen partner centrum en Dynamics 365 CRM met succes wordt uitgevoerd. Op dezelfde manier wordt een kruis markering weer gegeven als de synchronisatie mislukt. Als u wilt voor komen dat de naam van de verkoop kans wordt gecontroleerd of door gegeven, stelt u de huidige waarde van het selectie vakje voor de weergave naam van de verkoop kans in op Nee.
+- **Selectie vakje voor de naam van de opportunity inschakelen**: standaard wordt een vinkje weer gegeven naast de naam van de opportuniteit om aan te geven dat de synchronisatie tussen partner centrum en Dynamics 365 CRM met succes wordt uitgevoerd. Op dezelfde manier wordt een kruis markering weer gegeven als de synchronisatie mislukt. Als u wilt voor komen dat de naam van de verkoop kans wordt gecontroleerd of gemarkeerd, stelt u de huidige waarde van het **selectie vakje weer geven in de omgevings variabele Opportunity naam in** op Nee.
+- **Deal waarde**: standaard wordt de deal waarde van partner Center gesynchroniseerd van en naar **ESTIMATEDVALUE** in de CRM. Als u een ander veld in de CRM hebt voor de deal waarde om te synchroniseren vanaf:
 
-- Deal waarde: standaard wordt de deal waarde van partner Center gesynchroniseerd van en naar **estimatedvalue** in CRM. Als u een ander veld in CRM hebt voor het afhandelen van waarde om te synchroniseren vanaf:
+  - Werk de naam van het veld **deal waarde** bij in de omgevings variabele Dynamics 365 met de naam van het CRM-veld. Zorg ervoor dat u de naam van het veld opgeeft, niet de weergave naam.
+  - Bewerken **[aanpassen] Maak of ontvang Details van de Dynamics 365-stroom** en ga naar de **verkoop kans maken of bijwerken** in CRM en update **Maak een nieuwe kans** en **werk de bestaande opportuniteits** acties bij om de **DealValue** -waarde toe te wijzen aan het juiste veld in het CRM. Verwijder ook de toewijzing **DealValue** uit het veld **geschatte omzet** .
 
-  a. De naam van het veld deal waarde bijwerken in de Dynamics 365-omgevings variabele met de naam van het CRM-veld. Houd er rekening mee dat u de naam van het veld niet de weergave naam moet opgeven.
+- **Land code klant account**: het is verplicht een land code van twee letters (ISO 3166) op te geven wanneer u een nieuwe verwijzing maakt. De land code wordt standaard gesynchroniseerd van en naar het **address1_country** veld van het account in de CRM. Als u een ander veld in de CRM hebt voor de land code waarvan u wilt synchroniseren:
 
-  b. Bewerken **[aanpassen] Maak of ontvang Details van de Dynamics 365-stroom**  en navigeer naar een opportuniteit **maken of bijwerken** in CRM en update **Maak een nieuwe kans** en **werk de bestaande opportuniteits** acties bij om **DealValue** waarde toe te wijzen aan het juiste veld in CRM. Verwijder ook de **toewijzing DealValue** uit het veld **geschatte omzet** .
+   - Voor een niet-opzoek veld land code in het account dat een code van twee letters bevat:
+     - Werk de naam van het veld **land code van het klant account** in de Dynamics 365-omgevings variabele met de naam van het CRM-veld in. Zorg ervoor dat u de naam van het veld opgeeft, niet de weergave naam.
+     - Bewerken **[aanpassen] Maak of ontvang Details van de Dynamics 365-stroom** en ga naar een **klant account maken of ophalen** in de CRM-actie om een **land** waarde toe te wijzen aan het juiste veld in het CRM. Verwijder ook de toewijzing van de **land** waarde uit het veld **adres 1: land/regio** .
 
-- Land code klant account: het is verplicht een land code van twee letters (ISO 3166) op te geven bij het maken van een nieuwe verwijzing. De land code wordt standaard gesynchroniseerd van en van het address1_country veld van het account in CRM. Als u een ander veld in CRM hebt voor de land code waarvan u wilt synchroniseren:
+   - Voor een veld op basis van opzoek code in het account:
+     - Voeg een nieuw aangepast veld toe aan het account en vul het automatisch in met een land code van twee letters (ISO 3166) op basis van de waarde die is geselecteerd in het veld op basis van zoek opdrachten en omgekeerd.
+     - Volg de bovenstaande stappen voor het veld niet-opzoek land code om een nieuw aangepast veld te synchroniseren vanuit CRM naar en van partner centrum.
 
-   a. Voor een niet-opzoek veld land code in account met code van twee letters:
-
-   - De land code veld naam van het klant account bijwerken in de Dynamics 365-omgevings variabele met de naam van het CRM-veld. Houd er rekening mee dat u de naam van het veld niet de weergave naam moet opgeven.
-
-   - Bewerken **[aanpassen] Maak of ontvang Details van de Dynamics 365-stroom**  en navigeer naar het maken of ophalen van klant account in CRM-actie om land waarde toe te wijzen aan het juiste veld in CRM. Verwijder ook de waarde toewijzing van het land uit adres 1: veld land/regio.
-
-   b. Voor een veld voor een land code op basis van een zoek opdracht in account:
-
-   - Voeg een nieuw aangepast veld toe aan het account en vul het automatisch in met een land code van twee letters (ISO 3166) op basis van de waarde die is geselecteerd in het veld op basis van zoek opdrachten en vice versa.
-
-   - Volg de bovenstaande stappen voor een niet-opzoek land code veld om een nieuw aangepast veld van CRM naar en van het partner centrum te synchroniseren.
-
-- Opportuniteits velden: als er verplichte velden in de verkoop kans moeten worden ingevuld **[aanpassen] maken of ophalen van de Dynamics 365-stroom**  en navigeert u naar een **opportuniteit maken of bijwerken** in CRM en update **maakt u een nieuwe opportuniteits actie** om waarden toe te wijzen aan de verplichte velden op basis van uw bedrijfs vereisten.
-
-- Velden voor potentiële klanten: als er verplichte velden in de lead moeten worden ingevuld **[aanpassen] maken of ophalen van de Dynamics 365-stroom**  en navigeert u naar **maken of bijwerken** van de lead in CRM en update maakt u **een nieuwe lead actie** om waarden toe te wijzen aan de verplichte velden op basis van uw bedrijfs vereisten.
-
-- Klant account: wanneer een nieuwe verwijzing wordt gesynchroniseerd van het partner centrum naar CRM, probeert de oplossing voor het automatiseren van energie te zoeken naar een bestaand account in CRM met behulp van de bedrijfs naam en post code van de klant. Als er geen wordt gevonden, wordt er een nieuw klant account gemaakt in CRM. Als u de zoek criteria en Details van het maken van nieuwe accounts wilt bijwerken, bewerkt u **[aanpassen] maken of ophalen van de Dynamics 365-stroom** en navigeert u naar het **maken of ophalen van een klant account** in CRM en het maken van de actie voor een **klant account**.
+- **Opportuniteits velden**: als er verplichte velden in de **Opportunity** moeten worden ingevuld, bewerkt u **[aanpassen] maken of ophalen van de Dynamics 365-stroom** en gaat u naar een **verkoop kans maken of bijwerken** in de CRM-en update **maakt u een nieuwe opportuniteits actie** om waarden toe te wijzen aan de verplichte velden op basis van uw bedrijfs vereisten.
+- **Velden voor lead**: als er verplichte velden aanwezig zijn in de **lead** die moet worden gevuld, bewerken **[aanpassen] maken of ophalen van de Dynamics 365-stroom** en gaat u naar een **lead maken of bijwerken** in de CRM en update **maakt u een nieuwe lead-actie** om waarden toe te wijzen aan de verplichte velden op basis van uw bedrijfs vereisten.
+- **Klant account**: wanneer een nieuwe verwijzing wordt gesynchroniseerd van het partner centrum naar de CRM, wordt in de oplossing voor het automatiseren van energie beheer gezocht naar een bestaand account in de CRM met behulp van de bedrijfs naam en post code van de klant. Als er er geen wordt gevonden, wordt er een nieuw klant account gemaakt in de CRM. Als u de zoek criteria en nieuwe Details voor het maken van het account wilt bijwerken, bewerkt u **[aanpassen] maken of ophalen van de Dynamics 365-stroom** en gaat u naar **klant account maken of ophalen** in de CRM- **account actie** voor het maken van een klant.
 
 ## <a name="update-environment-variable"></a>Omgevings variabele bijwerken
 
 De waarde van een omgevings variabele bijwerken:
 
-1. Ga naar de pagina **oplossingen** en selecteer **standaard oplossing**. Selecteer **omgevings variabele** door te klikken op alle.
+1. Ga naar de pagina **oplossingen** en selecteer **standaard oplossing**. Selecteer **omgevings variabele** door **alle** te selecteren.
 
-2. Selecteer de omgevings variabele voor de waarde die moet worden bijgewerkt en klik op **bewerken** met behulp van drie puntjes.
+1. Selecteer de omgevings variabele voor de waarde die moet worden bijgewerkt en selecteer **bewerken** met behulp van het pictogram met het weglatings teken.
 
-3. Update **huidige waarde** (niet bijwerken standaard waarde) met de optie **nieuwe waarde** en geef de waarde op. De waarde moet overeenkomen met het gegevens type van de variabele voor bijvoorbeeld Ja/Nee-gegevens type accepteert ofwel ja of Nee.
+1. **Huidige waarde** bijwerken (de **standaard waarde** niet bijwerken) met behulp van de optie **nieuwe waarde** en de waarde opgeven. De waarde moet overeenkomen met het gegevens type van de variabele. Bijvoorbeeld: het gegevens type Ja of Nee accepteert ofwel de waarde Ja of Nee.
 
-   :::image type="content" source="images/environment-variables-video.gif" alt-text="Omgevings variabelen bijwerken":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="Scherm opname van de weer gave van omgevings variabelen voor updates.":::
 
-- End-to-end-synchronisatie van Referral-verkoop referenties
+## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>End-to-end bidirectionele verwijzings synchronisatie voor samen verkoop
 
-Zodra u de oplossing voor het automatiseren van de stroom hebt geïnstalleerd, geconfigureerd en aangepast, kunt u de synchronisatie van verwijzingen naar verkoop kansen testen tussen Dynamics 365 en partner centrum.
+Nadat u de oplossing voor het automatiseren van de stroom hebt geïnstalleerd, geconfigureerd en aangepast, kunt u de synchronisatie van verwijzingen naar verkoop kansen testen tussen Dynamics 365 en partner centrum.
 
-### <a name="pre-requisites"></a>Vereisten
+### <a name="prerequisites"></a>Vereisten
 
 Voor het synchroniseren van de verwijzingen tussen partner centrum en Dynamics 365 CRM, is de oplossing voor het automatiseren van de stroom een duidelijke verwijzings velden van micro soft. Met deze identificatie kunnen uw verkopers teams bepalen welke verwijzingen ze willen delen met micro soft voor co-selling.
 
@@ -219,84 +206,71 @@ Er wordt een set aangepaste velden en objecten toegevoegd als onderdeel van de o
 
 De volgende aangepaste velden moeten deel uitmaken van de sectie CRM:
 
-- **Synchroniseren met partner centrum**: of u de mogelijkheid wilt synchroniseren met micro soft Partner Center. De waarde van dit veld is standaard Nee en moet expliciet worden ingesteld op Ja door uw verkoper om een verkoop kans met micro soft te delen. Voor nieuwe verwijzingen die worden gedeeld door het partner centrum naar CRM, wordt deze veld waarde ingesteld op Ja.
-
-- **Verwijzings-id**: een veld met alleen-lezen-id voor micro soft Partner Center Referral
-
-- **Verwijzings koppeling**: een alleen-lezen koppeling naar de verwijzing in het micro soft partner centrum
-- **Hoe kan ik Help** van micro soft helpen bij het aanwijzen van de verwijzing. Als u een verwijzing naar een mede verkoop wilt maken, selecteert u de juiste Help van micro soft. Een contact persoon van de klant moet zijn gekoppeld aan de mogelijkheid om een verwijzing naar een gezamenlijk verkoop te maken. Als u een verwijzing naar een niet-co-sell wilt maken, schakelt u dit veld uit. Een verwijzing naar een niet-gezamenlijk verkoop kan op elk gewenst moment worden geconverteerd naar een verwijzing naar de verkoop.
-
-- **Zicht baarheid van micro soft Partner Center-Referral**: Selecteer zicht baarheid voor micro soft Partner Center Referral. Als u het zichtbaar maakt voor verkopers van micro soft, kan een niet-verkoop verwijzing worden geconverteerd naar co-sell. Wanneer micro soft Help is vereist, is Referral standaard zichtbaar voor micro soft-verkopers. Dit veld kan niet worden teruggedraaid als dit is gemarkeerd als zichtbaar.
-
+- **Synchroniseren met partner centrum**: of u de opportuniteit synchroniseert met het partner centrum. De waarde van dit veld is standaard Nee en moet expliciet worden ingesteld op Ja door uw verkoper om een verkoop kans met micro soft te delen. Voor nieuwe verwijzingen die worden gedeeld door het partner centrum naar CRM, wordt deze veld waarde ingesteld op Ja.
+- **Verwijzings-id**: een veld met de id alleen-lezen voor de referral van het partner centrum.
+- **Verwijzings koppeling**: een alleen-lezen koppeling naar de verwijzing in het partner centrum.
+- **Hoe kan ik Help** van micro soft helpen bij het aanwijzen van de verwijzing. Als u een verwijzing naar een mede verkoop wilt maken, selecteert u de juiste Help van micro soft. Een contact persoon van de klant moet zijn gekoppeld aan de mogelijkheid om een verwijzing naar een gezamenlijk verkoop te maken. Als u een verwijzing naar een niet-gezamenlijk verkoop wilt maken, selecteert u dit veld niet. Een verwijzing naar een niet-gezamenlijk verkoop kan op elk gewenst moment worden geconverteerd naar een verwijzing naar een gezamenlijk verkoop punt door de juiste optie voor Help vereist te selecteren.
+- **Zicht baarheid van micro soft Partner Center-Referral**: Selecteer zicht baarheid voor de referral van het partner centrum. Als je het object zichtbaar maakt voor verkopers van micro soft, wordt een verwijzing naar een niet-gezamenlijk verkoop object mogelijk geconverteerd naar co-sell. Wanneer micro soft Help is vereist, is de verwijzing standaard zichtbaar voor verkopers van micro soft. Nadat dit veld is gemarkeerd als zichtbaar, kan het niet worden hersteld.
 - **Micro soft CRM-id**: wanneer een verwijzing naar een gezamenlijk verkoop wordt gemaakt en geaccepteerd door micro soft, wordt dit veld gevuld met de CRM-id van micro soft.
+- **Producten: verouderd**: gebruik dit veld niet of Voeg het toe aan de sectie CRM. Het is alleen beschikbaar voor compatibiliteit met eerdere versies. Gebruik in plaats daarvan Partner Center-oplossingen.
+- **Controle**: een audit trail met alleen-lezen voor synchronisatie met partner Center-verwijzingen.
+- **Micro soft Partner Center-oplossingen**: een aangepast object voor het koppelen van kant-en-klare oplossingen en micro soft-oplossingen met de kans. Er kunnen een of meer oplossingen worden toegevoegd aan of verwijderd uit de verkoop kans. Het is verplicht om ten minste één kant-en-klare oplossing toe te voegen aan de verkoop kans voordat u deze deelt met micro soft. Als u dit object aan de verkoop kans wilt koppelen, werkt u het **verkoopkansformulier** in de CRM bij.
 
-- **Producten: verouderd** : gebruik dit veld niet of Voeg het niet toe aan de sectie CRM. het is alleen beschikbaar voor achterwaartse compatibiliteit. Gebruik in plaats daarvan oplossingen van micro soft Partner Center.
+  Selecteer het juiste tabblad in het **verkoopkansformulier** en voeg een subraster toe, zoals hier wordt weer gegeven.
 
-- **Controle**: een audit trail met alleen-lezen voor synchronisatie met partner Center-verwijzingen
+  :::image type="content" source="images/cosellconnectors/dynamics-6.png" alt-text="Scherm opname van het formulier Verkoop kans.":::
 
-- **Micro soft Partner Center-oplossingen**: een aangepast object voor het koppelen van kant-en-klare oplossingen en micro soft-oplossingen met de kans. Een of meer oplossingen kunnen worden toegevoegd en/of uit de opportuniteit worden verwijderd. Het is verplicht om ten minste één kant-en-klare oplossing toe te voegen aan de verkoop kans voordat u deze deelt met micro soft. Als u dit object aan de verkoop kansen wilt koppelen, werkt u het formulier Verkoop kans bij in CRM:
+  :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="Scherm opname van micro soft-oplossingen.":::
 
-  Selecteer het juiste tabblad in het formulier Verkoop kans en voeg een subraster toe, zoals hieronder wordt weer gegeven:
+- Nadat u micro soft-oplossingen hebt toegevoegd, kunt u de details van de kant-en-klare oplossing vooraf invullen zodat uw verkopers deze niet hoeven toe te voegen. Als u een nieuwe oplossings detail wilt toevoegen, gaat u naar het object micro soft Solution Details in het CRM en selecteert u **record toevoegen** om één item toe te voegen of **Excel-upload** gebruiken om meerdere vermeldingen toe te voegen.
 
-  :::image type="content" source="images/cosellconnectors/dynamics-6.png" alt-text="Formulier Verkoop kans":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="Scherm afbeelding met nieuwe Details van de micro soft-oplossing.":::
 
-  :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
+### <a name="scenarios"></a>Scenario's
 
-- Nadat u micro soft-oplossingen hebt toegevoegd, kunt u de details van kant-en-klare oplossingen vooraf invullen, zodat uw verkopers deze niet hoeven toe te voegen. Als u een nieuwe oplossings detail wilt toevoegen, gaat u naar micro soft Solution Details object in CRM en klikt u op **record toevoegen** om één item toe te voegen of **Excel-upload** gebruiken om meerdere vermeldingen toe te voegen.
+1. Verwijzings synchronisatie wanneer verwijzing wordt gemaakt of bijgewerkt in de CRM en gesynchroniseerd in partner centrum:
 
-  :::image type="content" source="images/dynamic-1a.png" alt-text="Details van oplossing":::
+   1. Meld u aan bij uw Dynamics 365 CRM-omgeving met de gebruiker met zicht baarheid in het gedeelte **verkoop kansen** van de CRM.
 
-### <a name="scenarios"></a>Scenario's:
+   1. Zorg ervoor dat de sectie **micro soft Partner Center** aanwezig is wanneer u een nieuwe opportuniteit maakt in de Dynamics 365-omgeving.
 
-1. Verwijzings synchronisatie wanneer verwijzing wordt gemaakt of bijgewerkt in CRM en gesynchroniseerd in partner centrum:
+      :::image type="content" source="images/dynamic-2a.png" alt-text="Scherm opname waarin nieuwe kansen worden weer gegeven.":::
 
-   1. Meld u aan bij uw Dynamics 365 CRM-omgeving met een zicht baarheid in het gedeelte **verkoop kansen** van de CRM.
+   1. Als u deze verkoop kans met partner centrum wilt synchroniseren, moet u ervoor zorgen dat u de volgende velden in de kaart weergave instelt:
 
-   2. Zorg ervoor dat het gedeelte van het micro soft Partner Center aanwezig is wanneer u een nieuwe kans maakt in de Dynamics 365-omgeving
+      - **Hoe kan ik hulp krijgen?**: als u een verwijzing naar een gezamenlijk verkoop punt wilt maken, selecteert u de gewenste optie.
 
-   :::image type="content" source="images/dynamic-2a.png" alt-text="Nieuwe kans"::: 
+         :::image type="content" source="images/dynamic-3a.png" alt-text="Scherm afbeelding die laat zien hoe u de juiste velden kunt ophalen in de kaart weergave.":::
 
-   3. Als u deze verkoop kans met partner centrum wilt synchroniseren, moet u ervoor zorgen dat u de volgende velden in de kaart weergave instelt:
-
-      - **Hoe kan ik hulp krijgen?**: als u een verwijzing naar de verkoop wilt maken, selecteert u een geschikte optie voor de Help.
-
-         :::image type="content" source="images/dynamic-3a.png" alt-text="De juiste velden ophalen in de kaart weergave":::
-
-      - **Contact persoon** van de klant: als u een verwijzing naar de verkoop wilt maken, voegt u een contact persoon van de klant toe aan de opportuniteit.
-
-      - **Synchroniseren met partner centrum**: Ja
-
-      - Micro soft-oplossingen: als u een verwijzing met micro soft wilt delen, voegt u een geldige oplossing voor het samen voegen van de verkoop gereed of micro soft toe.
-       
+      - **Contact persoon** van de klant: als u een verwijzing naar een mede verkoop wilt maken, voegt u een contact persoon voor klanten toe aan de verkoop kans.
+      - **Synchroniseren met partner centrum**: Ja.
+      - **Micro soft-oplossingen**: als u een verwijzing met micro soft wilt delen, moet u een geldige oplossing voor samen verkoop van ready of micro soft toevoegen aan de verkoop kans.
       
-      :::image type="content" source="images/dynamic-4a.png" alt-text="Id van de oplossing":::
+        :::image type="content" source="images/dynamic-4a.png" alt-text="Scherm opname van de oplossings-ID.":::
 
-   4. Zodra de opportuniteit is gemaakt in Dynamics 365 met synchronisatie met de optie voor Partner Center is ingesteld op Ja, wacht u 10 minuten en meldt u zich aan bij uw partner centrum-account. Uw verwijzingen worden gesynchroniseerd met Dynamics 365 en de verwijzings-id. Verwijzings koppeling wordt gevuld. Als er een fout optreedt, wordt het controle veld ingevuld met fout gegevens.
+   1. Nadat de opportunity is gemaakt in Dynamics 365 en de optie **synchroniseren met partner Center** is ingesteld op Ja, wacht u 10 minuten. Meld u vervolgens aan bij uw partner centrum-account. Uw verwijzingen worden gesynchroniseerd met Dynamics 365 en de **verwijzings-id**. **Verwijzings koppeling** wordt gevuld. Als er een fout optreedt, wordt het **controle** veld ingevuld met fout gegevens.
      
-    5. Voor een verkoop kans waarvoor de optie ' synchroniseren met partner centrum ' is ingesteld op ' ja ' en u de verkoop kans bijwerkt in Dynamics 365 CRM, worden de wijzigingen ook gesynchroniseerd in uw partner centrum-account.
+    1. Op dezelfde manier wordt voor een verkoop kans waarvoor de optie voor de **Partner Center** is ingesteld op Ja, de wijzigingen worden gesynchroniseerd in uw partner centrum-account als u de opportuniteit bijwerkt in Dynamics 365 CRM.
 
-    6. Verkoop kansen die zijn gesynchroniseerd met partner Center worden aangeduid met ✔ pictogram in Dynamics 365.
+    1. Verkoop kansen die zijn gesynchroniseerd met partner Center worden aangeduid met ✔ pictogram in Dynamics 365.
 
-2. Verwijzings synchronisatie wanneer verwijzing wordt gemaakt of bijgewerkt in micro soft Partner Center en gesynchroniseerd in de Dynamics 365-omgeving:
+1. Referentie synchronisatie wanneer de referral wordt gemaakt of bijgewerkt in het partner centrum en wordt gesynchroniseerd in de Dynamics 365-omgeving:
 
    1. Meld u aan bij uw partner Center- [dash board](https://partner.microsoft.com/dashboard/home).
 
-   2. Selecteer **verwijzingen** in het menu aan de linkerkant.
+   1. Selecteer **verwijzingen** in het menu links.
 
-   3. Maak een nieuwe verwijzing naar een mede verkoop van het partner centrum door de optie  **nieuwe deal** te selecteren.
+   1. Maak een nieuwe verwijzing naar een mede verkoop van het partner centrum door de optie **nieuwe deal** te selecteren.
 
-   4. Meld u aan bij uw Dynamics 365 CRM-omgeving.
+   1. Meld u aan bij uw Dynamics 365 CRM-omgeving.
 
-   5. Navigeer naar **Open verkoop kansen**. De verwijzing die is gemaakt in het micro soft Partner Center is nu gesynchroniseerd in Dynamics 365 CRM.
+   1. Ga naar **Open verkoop kansen**. De verwijzing die is gemaakt in Partner Center is nu gesynchroniseerd in Dynamics 365 CRM.
 
-   6. Wanneer u een gesynchroniseerde verwijzing selecteert, worden de kaart weergave Details ingevuld.
+   1. Wanneer u een gesynchroniseerde verwijzing selecteert, worden de kaart weergave Details ingevuld.
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Leads beheren](manage-leads.md)
-
 - [Collectieve-verkoopkansen beheren](manage-co-sell-opportunities.md)
-
-- [Meer informatie over het platform van micro soft voor energie automatisering?](/power-automate/)
-
+- [Meer informatie over het micro soft-platform voor energie automatisering](/power-automate/)
 - [Partnercentrum-webhooks](/partner-center/develop/partner-center-webhooks)

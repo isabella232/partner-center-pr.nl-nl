@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756752"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768700"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Problemen met de account installatie of MPN oplossen
 
@@ -28,20 +28,20 @@ Hier volgen enkele suggesties voor het oplossen van veelvoorkomende problemen di
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Wat gebeurt er als u migreert van het lidmaatschaps centrum van de partner en u geen bedrijfs gegevens velden kunt bewerken
 
-In gevallen waarin uw bedrijf al een aanwezigheid heeft in het partner centrum (bijvoorbeeld CSP-account), wordt er een alleen-lezen scherm weer gegeven. In dit scherm worden alle gegevens van uw bedrijf weer gegeven, zoals deze in het partner centrum aanwezig zijn.
+In gevallen waarin uw bedrijf al een aanwezigheid heeft in het partner centrum (bijvoorbeeld een CSP-account), wordt er een alleen-lezen scherm weer gegeven. In dit scherm worden alle gegevens van uw bedrijf weer gegeven, zoals deze in het partner centrum aanwezig zijn.
 
 U kunt de details op dit scherm niet wijzigen. Dit is een ontwerp en geen fout.
 
 Selecteer **accepteren** en **door gaan** om door te gaan.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Als de IT-afdeling zich heeft **aangemeld voor partner centrum**.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Als de IT-afdeling zich heeft **aangemeld voor partner centrum**
 
 Dit bericht wordt weer gegeven omdat er virus gebruikers zijn uitgeschakeld of omdat een virus registratie is uitgeschakeld op de Azure AD-Tenant. De globale beheerder voor uw Azure AD-account kan de vereiste functies inschakelen door de volgende Power shell-opdracht uit te voeren:
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-Lees voor meer informatie [self-service registreren](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+Lees voor meer informatie [Aanmelden via self-service](/azure/active-directory/users-groups-roles/directory-self-service-signup).
 
 ## <a name="you-forgot-your-password"></a>U hebt uw wacht woord verg eten
 

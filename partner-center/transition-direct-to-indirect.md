@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624303"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768751"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller (Overstappen van partner voor directe facturering van Cloud Solution Provider naar indirecte CSP-reseller)
 
 **Juiste rollen**
 
-- Globale beheerders
+- Globale beheerder
 
 >[!Note]
 >Dit artikel is bedoeld voor directe factuur partners die hebben besloten om over te stappen op indirecte wederverkopers. Maar zelfs als u nog geen expliciete beslissing hebt genomen om u in te schrijven als een indirecte wederverkoper, worden directe factuur partners die niet voldoen aan de nieuwe [vereisten](direct-partner-new-requirements.md) voor het CSP direct factuur-partner programma, door micro soft op de hoogte gesteld wanneer hun [directe factuur mogelijkheden worden beperkt](restricted-direct-bill-capabilities.md).
@@ -127,9 +127,9 @@ U beheert uw directe factuur klanten en de klanten van uw indirecte wederverkope
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Klanten identificeren die u hebt verkregen als een directe factuur partner
 
-1. **Klanten** selecteren
+1. Selecteer **Klanten**.
 
-2. Selecteer een klant om de details ervan weer te geven
+2. Selecteer een klant om de details ervan weer te geven.
 
 3. Als deze klant als een directe factuur partner is aangeschaft, worden er opties weer gegeven om producten **toe te voegen** of **weer te geven** en ziet u hun abonnementen.
 
@@ -162,7 +162,7 @@ U kunt de functie voor het uitbrei ding reseller Relationship gebruiken om een r
 
 - Uw indirecte provider wordt niet voorzien van [gedelegeerde beheer bevoegdheden](customers-revoke-admin-privileges.md) aan de Tenant van de klant. Als uw indirecte provider gedelegeerde beheerders bevoegdheden vereist, moet u in plaats daarvan een indirecte uitnodiging voor de wederverkoper verzenden naar de klant.
 
-- Zodra de reseller-relatie tot stand is gebracht, wordt de indirecte provider als een CSP-partner aan de klant weer gegeven onder de pagina partner relaties in [M365-beheer centrum](https://admin.microsoft.com/AdminPortal/Home#/partners) en [Microsoft Store voor bedrijven](/microsoft-store/work-with-partner-microsoft-store-business).
+- Zodra de reseller-relatie tot stand is gebracht, wordt de indirecte provider weer gegeven als een CSP-partner aan de klant op de pagina partner relaties in [Microsoft 365 beheer centrum](https://admin.microsoft.com/AdminPortal/Home#/partners) en [Microsoft Store voor bedrijven](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Om Verwar ring en misverstand te voor komen, bent u contractueel verplicht door uw partner overeenkomst om u te informeren over en om toestemming te krijgen van de klant van de directe factuur voordat u de functie voor de relatie-uitbrei ding gebruikt om een wederverkoper-relatie tot stand te brengen tussen een bestaande directe factuur klant en een indirecte provider.
@@ -223,9 +223,9 @@ Microsoft Cloud overeenkomst is geldig tot en met 31 januari 2020. Na deze datum
 
 Onder het indirecte CSP-model zijn indirecte wederverkopers geen facturerings relaties met micro soft. In plaats daarvan verkrijgen indirecte wederverkopers abonnementen voor hun klanten via hun indirecte providers. Wanneer u overstapt van een directe factuur partner naar een indirecte wederverkoper, moet u de bestaande abonnementen die u als de directe factuur partner hebt, overdragen aan uw indirecte provider. U kunt dit doen met de functie voor zelf-bediende abonnements overdracht in het dash board van partner Center.
 
-### <a name="pre-requisites"></a>Vereisten
+### <a name="prerequisites"></a>Vereisten
 
-- Deze functie is alleen beschikbaar voor het overstappen van partners die de registratie van de indirecte wederverkoper hebben voltooid met behulp van hun bestaande tenants voor directe factuur partner
+- Deze functie is alleen beschikbaar voor het overstappen van partners die de registratie van de indirecte wederverkoper hebben voltooid met behulp van hun bestaande tenants voor directe factuur partners.
 
 - Voordat er abonnementen worden overgedragen die zijn gekoppeld aan een bepaalde klant, moet de overgangs partner de klant naar een indirecte provider verplaatsen.
 

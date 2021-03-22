@@ -3,24 +3,25 @@ title: Hoe BTW-beleid invloed heeft op de uitbetaling voor Azure Marketplace
 description: Meer informatie over hoe BTW-beleid invloed heeft op de uitbetaling voor Azure Marketplace.
 ms.topic: conceptual
 ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712950"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768819"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Hoe BTW-beleid invloed heeft op de uitbetaling voor Azure Marketplace
 
 **Juiste rollen**
 -    Globale beheerder
--    Gebruikersbeheerder
+-    Beheerder van gebruikers beheer
 -    Beheer agent
 
-## <a name="introduction"></a>Inleiding
+## <a name="introduction"></a>Introductie
 
 Micro soft Commercial Marketplace heeft wereld wijde bereik. Trans acties vinden plaats in de grenzen en afhankelijk van waar de ISV en de klant zich bevinden, kunnen de gevolgen voor de belasting verschillen. Microsoft AppSource en Azure Marketplace gebruiken de gegevens van het Partner Center-BTW-profiel om het land van de ISV te bepalen. Om het land van de klant te bepalen, kunt u de facturerings gegevens van de klant gebruiken of, als de klant zich in de EU bevindt, twee verschillende gegevens gebruiken.
 
