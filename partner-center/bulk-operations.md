@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: c8910b98e32abe10ae3bc86f24aae7bec2630741
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712186"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880715"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Bulk bewerkingen voor verkoop kansen met bestanden met door komma's gescheiden waarden (CSV)
 
@@ -82,7 +82,7 @@ Substatus partner referentie|Ja|Hiermee wordt de exacte status van de deal aange
 Micro soft Referral-status|Is afhankelijk van|Hiermee wordt de status van de aanvraag voor samen verkoop aangegeven die u hebt verzonden naar micro soft zoeken naar hulp. Dit is een alleen-lezen veld. Wijzigingen die in dit veld zijn aangebracht tijdens het importeren van de gegevens, worden genegeerd.| In behandeling
 Reden afgewezen/verloren|Is afhankelijk van| U moet deze informatie alleen opgeven als u de substatus van uw veld wijzigt in geweigerd of verloren. U kunt deze kolom anders negeren. <br/> **Voer een getal in dat is gebaseerd op de onderstaande opties** <br/><br/> **1**-project budget is niet voldoende  <br/> **2**-de klant heeft niet gereageerd  <br/> **3**-klant heeft een andere leverancier gekozen  <br/> **4** -niet voldaan aan de vereisten van de klant  <br/> **5** -geen klant <br/> **6**-voorgestelde tijd regel is te kort <br/> **7** -rapporteren als misbruik, ongewenste e-mail of phishing <br/> **8** -andere |6|
 Verkoopfase|Nee|Dit is het veld om de gedetailleerde verkoop fase van de verwijzing aan te geven. Lees [hier](./manage-co-sell-opportunities.md) meer over verkoop stadia|40
-Geschatte deal waarde|Ja|"De waarde van de deal op basis van de eerste gesp rekken met de klant. Dit kan worden gewijzigd totdat de deal een van de statussen van de Terminal bereikt| gewonnen of verloren. '|12563
+Geschatte deal waarde|Ja|De waarde van de deal op basis van de eerste gesp rekken met de klant. Dit kan worden gewijzigd totdat de deal een van de statussen **gewonnen** of **verloren bereikt.**|12563
 Valuta|Ja|De valuta waarin de deal waarde wordt ingevoerd. U kunt [hier](https://en.wikipedia.org/wiki/ISO_4217)de valuta codes vinden.|USD
 Geschatte Sluitings datum|Ja|De geschatte Sluitings datum van de deal op basis van de eerste gesp rekken met de klant in de notatie MM/DD/JJJJ. <br/> **De datum moet in UTC-tijd zone zijn. Alle datums die worden weer gegeven in de gebruikers interface van het partner centrum zijn gebaseerd op gelokaliseerde tijd zones. In de gebruikers interface van het partner centrum is er mogelijk een verschil van +/-dag als u de verwijzing bekijkt waarvoor u de datum in UTC-tijd zone hebt opgegeven.**|1/30/2020
 CRM-ID|Nee|Id van deze specifieke verwijzing in uw CRM-systeem, indien van toepassing. Dit is een invoer veld voor tekst in een vrije vorm.|34234324-sdfsdf-345345-SFD

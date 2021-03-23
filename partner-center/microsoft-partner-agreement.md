@@ -1,7 +1,7 @@
 ---
 title: De micro soft Partner Agreement (MPA) voor CSP
 ms.topic: how-to
-ms.date: 02/11/2021
+ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over de micro soft CSP-partner vereisten voor het ondertekenen en verifiëren van deze geïntegreerde, digitaal geaccepteerde micro soft Partner Agreement (MPA).
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281323"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880800"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners
 
@@ -110,5 +110,7 @@ U kunt ook zien of u de overeenkomst hebt ondertekend door **overeenkomsten** va
 3. Als u de status van uw MPA in Partnercentrum wilt controleren nadat u stap 1 en/of stap 2 hebt voltooid: [Acceptatiestatus van de Microsoft Partner-overeenkomst controleren](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Volgende stappen
+
+- [Hoe indirecte providers hun wederverkopers kunnen helpen bij het aannemen van de micro soft-partner overeenkomst-Veelgestelde vragen](mpa-indirect-provider-faq.md)
 
 - [Registreren bij het Cloud Solution Provider-programma](indirect-reseller-tasks-in-partner-center.md)

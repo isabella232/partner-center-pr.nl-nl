@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567046"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880766"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partner met indirecte resellers in het programma Cloud Solution Provider
 
@@ -168,6 +168,10 @@ Wanneer klanten nieuwe abonnementen willen kopen, bestaande bij te werken, of om
 7. Selecteer **verzenden** wanneer u klaar bent.
 
 ## <a name="next-steps"></a>Volgende stappen
+
+Vind antwoorden op uw vragen over de micro soft-partner overeenkomst
+
+- [Hoe indirecte providers hun wederverkopers kunnen helpen bij het aannemen van de micro soft-partner overeenkomst-Veelgestelde vragen](mpa-indirect-provider-faq.md)
 
 Zie voor meer informatie over het beheren van klant accounts en-abonnementen:
 

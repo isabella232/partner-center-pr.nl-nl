@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712287"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880749"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,8 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van maart 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Aanbiedingen/markten|[Correcties die zijn aangebracht in 1 maart 2021 lijst met permanente software prijzen](2021-march.md#14)|23 maart|
+|Functies|[SDK-release op .NET Standard (v 1.17.0)](2021-march.md#13)|23 maart|
 |Functies|[CSP Commercial Marketplace-aanbieding en FY21 CSP-stimulansen voor in aanmerking komende aanbiedingen](2021-march.md#12)|18 maart|
 |Functies|[Naam en vereiste update van Power BI Premium-aanbieding](2021-march.md#11)|18 maart|
 |Aanbiedingen/markten|[Prijzen updates van maart voor Microsoft 365 F3](2021-march.md#10)|16 maart|

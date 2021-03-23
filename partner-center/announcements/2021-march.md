@@ -8,17 +8,105 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: eb6f57ed9a1b3031aeaaff51260e718ce3420ae3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712304"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880732"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft partner centrum voor maart 2021.
+
+________________
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Correcties die zijn aangebracht in 1 maart 2021 lijst met permanente software prijzen
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-23
+- Aanbiedingen/markten
+
+### <a name="impacted-audience"></a>Doel groep
+
+Indirecte providers en directe factuur partners die permanente software in het Cloud Solution Provider-programma worden toegepast 
+
+### <a name="details"></a>Details
+
+De lijst met prijzen voor permanente software die is gepost op 1 maart 2021 bevatte markten die daar niet had moeten zijn. De prijs lijst met permanente software is op 17 maart 2021 bijgewerkt met de correcties. Deze correcties zijn alleen van toepassing op:
+
+- Product-ID: DF77X4D43RKT 
+- Product naam: Windows 10 Home naar Pro-upgrade voor Microsoft 365 Business
+- Verwijderde of niet-ondersteunde markten: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, BW, BY, BZ, CI, LC, CM, CO, CR, CW, DO, DZ, EG, bijvoorbeeld, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LK, te maken, MA, MC, MD, & NG , NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW'S, AG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, MG, UY, UZ, VE, VN, YE, ZM, ZW
+
+Deze wijzigingen zijn alleen van toepassing op het bovenstaande product. Andere producten hebben geen correcties. 
+
+### <a name="next-steps-and-resources"></a>Volgende stappen en resources
+
+- Partners die permanente software transacteren, moeten de meest recente prijs lijst met permanente software downloaden.
+- Raadpleeg de [regio land codes](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries) voor een beschrijvende toewijzing van de afkorting van twee letters aan landen.
+________________
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> SDK-release op .NET Standard (v 1.17.0)
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-23
+
+- Functies
+ 
+### <a name="impacted-audience"></a>Doel groep
+
+Directe factuur partners en indirecte providers die deel nemen aan het CSP-programma dat gebruikmaakt van de .NET SDK van het partner centrum.
+
+### <a name="details"></a>Details
+
+Vanaf maart 23 2020 kunnen partners beginnen met het downloaden van de versie van [MicrosoftPartnerCenter. NETSDK (NuGet Gallery | Micro soft. Store. PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0), samen met bijgewerkte voor beelden van het Public Partner Center SDK [github](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Deze versie bevat updates voor de volgende methoden:
+
+#### <a name="audit-updated-new-operation-types"></a>Controle bijgewerkt: nieuwe bewerkings typen
+
+Er zijn nieuwe [bewerkings typen](https://docs.microsoft.com/partner-center/develop/auditing-resources) toegevoegd om te weten wanneer de door de klant goedgekeurde en BEËINDIGDe DAP is.
+
+- DapAdminRelationshipApproved
+
+- DapAdminRelationshipTerminated
+
+#### <a name="audit-updated-new-resource-and-operation-types"></a>Controle bijgewerkt: nieuwe resource-en bewerkings typen
+
+Er zijn nieuwe [resource-en bewerkings typen](https://docs.microsoft.com/partner-center/develop/auditing-resources) toegevoegd voor het ondersteunen van het scenario voor de Directory functie van klanten.
+
+- Nieuw resource type "CustomerDirectoryRole"
+
+- Bewerkings typen ' AddUserMember ' en ' RemoveUserMember '
+
+#### <a name="sdk-updates-to-customer-accounts"></a>SDK-updates voor klant accounts
+
+- Ondersteuning voor GET-/customers/{customer-tenant-id}/directSignedMicrosoftCustomerAgreementStatus
+
+- /Customers/{Customer-Tenant-id}/Qualifications ophalen
+
+- POST/Customers/{customer_id}/Qualifications? code = {validationCode}
+
+#### <a name="additional-changes"></a>Aanvullende wijzigingen
+
+De volgende wijzigingen worden geïntroduceerd als onderdeel van nieuwe Commerce en zijn momenteel alleen beschikbaar via een uitnodiging voor partners die deel uitmaken van de M365/D365 nieuwe technische preview van Commerce-ervaring. Partners die geen deel uitmaken van de nieuwe technische preview van Commerce, mogen geen gevolgen ondervinden en moeten neerwaarts compatibel zijn.
+
+- Wijzigingen in catalogus:
+
+  - /Products/{product-id}/SKUs/{SKU-id} ophalen
+
+- Kopen en beheren:
+  - /Customers/{customerId}/subscriptions ophalen
+  - /Customers/{customerId}/subscriptions/{subscriptionId} ophalen
+  - PATCH/customers/{customerId}/subscriptions/{subscriptionId}
+  - /Customers/{customerId}/subscriptions/{subscriptionId}/transitioneligibilities ophalen
+  - /Customers/{customerId}/subscriptions/{subscriptionId}/transitions ophalen
+  - /Customers/{customerId}/subscriptions/{subscriptionId}/transitions plaatsen
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Down load de meest recente versie [MicrosoftPartnerCenter. NETSDK (NuGet Gallery | Micro soft. Store. PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)
+- De GitHub-voor [beelden](https://github.com/Microsoft/Partner-Center-DotNet-Samples) downloaden en bekijken
 
 ________________
 ## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>CSP Commercial Marketplace-aanbieding en FY21 CSP-stimulansen voor in aanmerking komende aanbiedingen
