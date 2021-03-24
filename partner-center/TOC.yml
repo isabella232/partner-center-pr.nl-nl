@@ -111,6 +111,8 @@
         - name: Technische voor delen
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
+        - name: Een logo maken met behulp van een logo Builder
+          href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Softwaregarantie
