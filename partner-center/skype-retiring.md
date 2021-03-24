@@ -9,18 +9,14 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92528317"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028414"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Abonnementen op Skype voor Bedrijven Online Plan 1 migreren naar nieuwere versie van Office 365)
-
-**Van toepassing op**
-
-- Partnercentrum
 
 Het Skype voor bedrijven online-abonnement 1 wordt buiten gebruik gesteld, vanaf 1 augustus 2018. Na deze datum kunnen klanten geen nieuwe abonnementen van Skype voor bedrijven-abonnement 1 meer kopen en worden bestaande abonnementen niet automatisch vernieuwd wanneer ze verlopen en bieden ze geen verlengings optie. Op de detail pagina van het abonnement is de abonnements status Skype voor bedrijven online abonnement 1 gewijzigd in ' verloopt op [datum] ' van ' automatisch relateren op [date] '.  
 
@@ -56,25 +52,25 @@ Micro soft biedt voortdurend nieuwe producten en services aan onze partners. In 
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Uw klanten migreren naar nieuwe abonnementen
 
-1. Als u het nieuwe abonnement wilt kopen, selecteert u in het menu van het **partner centrum** **klanten** , selecteert u de klant die u wilt verplaatsen en selecteert u vervolgens **abonnementen toevoegen** .
+1. Als u het nieuwe abonnement wilt kopen, selecteert u in het menu van het **partner centrum** **klanten**, selecteert u de klant die u wilt verplaatsen en selecteert u vervolgens **abonnementen toevoegen**.
 
-2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer vervolgens **verzenden** . 
+2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer vervolgens **verzenden**. 
 
 Uw klant moet nu over zowel oude als nieuwe abonnementen beschikken, het oude abonnement voor Skype voor bedrijven online plan 1 en het nieuwe doel abonnement, bijvoorbeeld optie 1-Office 365 Enter prise F1.
 
-3. Als u de gebruikers licenties van de klant opnieuw wilt toewijzen, selecteert u in het menu van het **partner centrum** **klanten** , selecteert u de klant die u wilt verplaatsen en selecteert u vervolgens **gebruikers en licenties** . De pagina gebruikers en licenties van de klant wordt geopend.
+3. Als u de gebruikers licenties van de klant opnieuw wilt toewijzen, selecteert u in het menu van het **partner centrum** **klanten**, selecteert u de klant die u wilt verplaatsen en selecteert u vervolgens **gebruikers en licenties**. De pagina gebruikers en licenties van de klant wordt geopend.
 
 4. Als u de gebruikers licentie opnieuw wilt toewijzen, selecteert u de gebruiker die u opnieuw wilt toewijzen en selecteert u vervolgens **licenties beheren.**
 
 5. Op de pagina **licenties beheren** schakelt u het selectie vakje licentie voor Skype voor bedrijven online-abonnement 1 uit en selecteert u een nieuw service abonnement voor het abonnement waarnaar de klant wordt verplaatst.
 
-6. Selecteer **Indienen** . Een bevestigings pagina bevat een lijst met de nieuwe licentie toewijzingen. Herhaal dit hetzelfde proces voor andere gebruikers die licentie toewijzingen nodig hebben.
+6. Selecteer **Indienen**. Een bevestigings pagina bevat een lijst met de nieuwe licentie toewijzingen. Herhaal dit hetzelfde proces voor andere gebruikers die licentie toewijzingen nodig hebben.
 
 Nadat u de gebruikers licentie hebt verplaatst naar de nieuwe service, kunt u het buiten gebruik gestelde abonnement op klant niveau veilig annuleren.
 
-7. Selecteer in het menu **Partner Center** **klanten** . Selecteer de klant van wie u het abonnement wilt annuleren.
+7. Selecteer in het menu **Partner Center** **klanten**. Selecteer de klant van wie u het abonnement wilt annuleren.
 
-8. Stel op de pagina abonnements Details het abonnement in op **opgeschort** .
+8. Stel op de pagina abonnements Details het abonnement in op **opgeschort**.
 
 9. Selecteer **verzenden.**
 

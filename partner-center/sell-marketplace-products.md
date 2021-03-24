@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b37e1ffef291defec0cba03aa9306f7bc82f5cd9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0f90162ce7d3848fc930c956077ae96994848696
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528532"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028448"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Gebruik partner centrum voor het verkopen van klanten abonnementen op commerciële Marketplace-Producten
-
-**Van toepassing op**
-
-- Partnercentrum
-- CSP-partners
 
 Als partner in het CSP-programma kunt u het partner centrum gebruiken voor het verkopen van klanten abonnementen op SaaS-producten (Software as a Service) die zijn gepubliceerd in de commerciële Marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) en [Azure Marketplace](https://azuremarketplace.microsoft.com/)) door onafhankelijke software leveranciers (isv's).
 

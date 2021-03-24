@@ -9,18 +9,14 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21ef2aaa46359570bbf13c12c5fb6c1f5eab080a
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 6ef5373fd9a606cd25345cbe80a55f28fc1f753f
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92528153"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028465"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Een Azure AD-toepassing (Service-Principal) toevoegen in het partner centrum
-
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -33,19 +29,19 @@ In het Commercial Marketplace-programma in Partner Center kunt u nu een Azure AD
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Een Azure AD-toepassing toevoegen (Service-Principal)
 
-1. Selecteer in het dash board van de partner centrum **instellingen** en selecteer vervolgens **instellingen voor ontwikkel aars** .
+1. Selecteer in het dash board van de partner centrum **instellingen** en selecteer vervolgens **instellingen voor ontwikkel aars**.
 
-2. Selecteer **gebruikers** en selecteer vervolgens **Azure AD-toepassingen toevoegen** .
+2. Selecteer **gebruikers** en selecteer vervolgens **Azure AD-toepassingen toevoegen**.
 
 3. Selecteer een bestaande Azure AD-toepassing of maak een nieuwe.
 
 4. Als u een nieuwe Azure AD-toepassing maakt, neemt u de volgende informatie op:  
 
-   - **Antwoord-URL** : de URL waar gebruikers zich kunnen aanmelden om uw Azure AD-toepassing te gebruiken.
+   - **Antwoord-URL**: de URL waar gebruikers zich kunnen aanmelden om uw Azure AD-toepassing te gebruiken.
 
-   - **App-ID-URI** : een logische id voor de Azure AD-toepassing die wordt gepresenteerd wanneer een eenmalige aanmelding wordt verzonden naar Azure AD.
+   - **App-ID-URI**: een logische id voor de Azure AD-toepassing die wordt gepresenteerd wanneer een eenmalige aanmelding wordt verzonden naar Azure AD.
 
-   - **Beveiligings rollen** : de rollen **beheerder** (dezelfde als de rol owner in cpp) en de **ontwikkelaar** (dezelfde als de rol Inzender in cpp) is van toepassing op het commerciële Marketplace-programma in partner centrum en ze kunnen worden gekoppeld aan deze Azure AD-toepassing.  
+   - **Beveiligings rollen**: de rollen **beheerder** (dezelfde als de rol owner in cpp) en de **ontwikkelaar** (dezelfde als de rol Inzender in cpp) is van toepassing op het commerciële Marketplace-programma in partner centrum en ze kunnen worden gekoppeld aan deze Azure AD-toepassing.  
 
 ## <a name="next-steps"></a>Volgende stappen
 

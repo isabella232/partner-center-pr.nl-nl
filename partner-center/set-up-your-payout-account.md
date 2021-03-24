@@ -2,20 +2,21 @@
 title: '& BTW-formulieren instellen voor uitbetalings account-micro soft Commercial Marketplace'
 description: Als u geld wilt ontvangen van de verkoop van aanbiedingen in de commerciële Marketplace, leert u hoe u uw account voor betaling kunt instellen en de benodigde belasting formulieren kunt invullen.
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492684"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028431"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Stel uw betalingsaccount en belastingformulieren
 
-**Juiste rollen:**
+**Juiste rollen**
 
 - Accountbeheerder
 - Globale beheerder
@@ -54,7 +55,7 @@ Eerst moet u een BTW-profiel maken en toewijzen aan de Program ma's waarmee u de
 
 4. Als u een bestaand BTW-profiel wilt gebruiken, selecteert u dit in de vervolg keuzelijst. Anders selecteert u **Nieuw profiel maken** en drukt u op **verzenden**. U gaat naar de pagina BTW-profielen.
 
-5. Klik op de knop **bewerken** om uw belasting gegevens te bewerken.
+5. Selecteer de knop **bewerken** om uw belasting gegevens te bewerken.
 
 6. Selecteer het juiste keuze rondje en selecteer uw land/regio als u daarom wordt gevraagd. Met deze stap bepaalt u de zakelijke entiteit van micro soft die wordt gebruikt voor het maken van uitbetalingen voor uw account.
 
@@ -91,7 +92,7 @@ Een uitbetalings account is de Bank rekening waarnaar we de opbrengst van uw ver
 
 3. Selecteer de betalings wijze die u wilt configureren.
 
-4. Selecteer een bestaand betalings profiel of klik op **een nieuw betalings profiel maken** om een nieuw profiel voor de gekozen betalings wijze te maken.
+4. Selecteer een bestaand betalings profiel of selecteer **een nieuw betalings profiel maken** om een nieuw profiel voor de gekozen betalings wijze te maken.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Een betalings profiel op basis van de Bank maken
 
@@ -111,7 +112,7 @@ Als u ervoor hebt gekozen om een bank account te gebruiken om uitbetalingen te o
 
 5. U moet een betalings profiel selecteren voor elk programma waarmee u deel uitmaakt, maar u kunt hetzelfde profiel gebruiken voor meerdere Program ma's.
 
-6. Klik op verzenden om uw wijzigingen op te slaan.
+6. Selecteer verzenden om uw wijzigingen op te slaan.
 
    > [!NOTE]
    > Micro soft kan tot 48 uur duren om de gegevens in uw profiel te valideren. Wanneer dit proces is voltooid, wordt de *verificatie status* weer gegeven als **voltooid**
@@ -130,7 +131,7 @@ U kunt bestaande betalings profielen bewerken als u wijzigingen wilt aanbrengen 
 
 2. Selecteer onder de kop *uitbetaling en belasting* de optie **uitbetalings-en BTW-profielen**.
 
-3. Uw betalings profielen worden samen met hun status weer gegeven. Zoek het profiel dat u wilt bewerken en klik helemaal rechts op **bewerken**
+3. Uw betalings profielen worden samen met hun status weer gegeven. Zoek het profiel dat u wilt bewerken en selecteer helemaal rechts **bewerken**
 
 > [!IMPORTANT]
 > Het wijzigen van uw uitbetalings account kan uw betalingen vertragen met Maxi maal één betalings cyclus. Deze vertraging treedt op omdat we de account wijziging moeten verifiëren, net zoals we hebben gedaan toen u het account voor betaling voor het eerst instelde. U ontvangt nog steeds voor het volledige bedrag nadat uw account is geverifieerd. alle betalingen die moeten worden uitgevoerd voor de huidige betalings cyclus, worden toegevoegd aan de volgende betaling. Zie [aan de slag met de commerciële Marketplace](marketplace-get-paid.md)voor meer informatie.
@@ -203,7 +204,7 @@ Als u ervoor hebt gekozen om een bank account te gebruiken om uitbetalingen te o
 3. Details van de begunstigde opgeven.
 4. Selecteer op de pagina *profiel toewijzing* de valuta die we willen gebruiken wanneer we uw uitbetalingen doen.
 5. U moet een betalings profiel selecteren voor elk programma waarmee u deel uitmaakt, maar u kunt hetzelfde profiel gebruiken voor meerdere Program ma's.
-6. Klik op verzenden om uw wijzigingen op te slaan.
+6. Selecteer verzenden om uw wijzigingen op te slaan.
 
 ## <a name="next-steps"></a>Volgende stappen
 
