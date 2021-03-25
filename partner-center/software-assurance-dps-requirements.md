@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92528288"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028261"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Geschiktheids vereisten voor planning services-afspraken weer geven
 
@@ -23,7 +23,7 @@ ms.locfileid: "92528288"
 - Globale beheerder
 - MPN-partner beheerder
 
-In dit onderwerp vindt u meer informatie over de vereisten waaraan u moet voldoen voordat uw bedrijf Software Assurance planning services-afspraken voor micro soft kan inschrijven of leveren.
+In dit artikel vindt u meer informatie over de vereisten waaraan u moet voldoen voordat uw bedrijf Software Assurance planning services-afspraken voor micro soft kan registreren of leveren.
 
 >[!NOTE]
 > Naast het voldoen aan de vereisten voor het plannen van services, moet u ook een aantal andere stappen volgen voordat u Software Assurance planning services-afspraken kunt leveren. Zie [Software Assurance-plannings Services in partner centrum](software-assurance-dps.md)voor een overzicht van alle benodigde stappen.

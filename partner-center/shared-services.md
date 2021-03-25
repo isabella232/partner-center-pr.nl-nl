@@ -9,16 +9,15 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247710"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028278"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Voeg Shared Services van Azure-partners toe zodat partners Azure-abonnementen kunnen kopen voor hun eigen gebruik
 
- 
 **Juiste rollen**
 
 - Globale beheerder
@@ -59,7 +58,7 @@ U vindt het Azure-verbruik op uw CSP-factuur en het afstemmings bestand. Het wor
 
 ## <a name="azure-partner-shared-services-pricing"></a>Prijzen van Azure partner Shared Services
 
-Ga naar de **verkoop**  >  **prijzen en aanbiedingen** en selecteer de prijs lijst van de huidige maand voor een overzicht van de nieuwe prijs bestanden voor de Azure partner Shared Services. In de komende weken wordt er ook een specifieke tarieven-API uitgebracht.
+Als u het nieuwe prijs bestand voor gedeelde Azure partner-services wilt bekijken, gaat u naar **verkoop**  >  **prijzen en aanbiedingen** en selecteert u de prijs lijst van de huidige maand. In de komende weken wordt er ook een specifieke tarieven-API uitgebracht.
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace-aanbiedingen en gedeelde Azure partner-services
 

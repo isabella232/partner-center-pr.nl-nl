@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645653"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028295"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Meer informatie over het overdragen van Azure-abonnementen van een klant naar een andere partner
 
 **Van toepassing op**
 
-- Partnercentrum voor Microsoft Cloud for US Government
+- Partner centrum voor micro soft Government Cloud
 - Partner centrum voor micro soft Global Cloud
-- Partners in het Cloud Solution Provider-programma (CSP)
 
 In dit artikel wordt beschreven hoe een klant de Microsoft Azure Services van de ene Cloud Solution Provider (CSP) naar een andere kan overschakelen.
 
@@ -43,7 +42,7 @@ Als u de Azure-Services of-abonnementen van een klant wilt overschakelen naar ee
 
    Een Azure-service ticket maken van het partner centrum om een abonnements overdracht aan te vragen:
 
-   1. Selecteer in het menu Partner Center **klanten**, selecteer uw klant in de lijst en selecteer vervolgens **Service beheer**. 
+   1. Selecteer in het menu Partner Center **klanten**, selecteer uw klant in de lijst en selecteer vervolgens **Service beheer**.
 
    2. Selecteer in de sectie **ondersteunings tickets** de vervolg keuzelijst **nieuw ticket** en kies **Microsoft Azure**.
    
@@ -100,12 +99,12 @@ Als u de Azure-Services of-abonnementen van een klant wilt overschakelen naar ee
      Get-AzRoleAssignment
      ```
 
-7. Verouderde toegangs machtigingen verwijderen
+7. Verouderde toegangs machtigingen verwijderen:
 
    - Selecteer **klanten** in het menu van het partner centrum.
-   - Zoek de klant op de lijst. Selecteer (dubbel klikken) hun bedrijfs naam. Hiermee opent u de pagina klant **abonnementen** .
+   - Zoek de klant op de lijst. Selecteer (dubbel klikken) hun bedrijfs naam. Met deze actie wordt de pagina klant **abonnementen** geopend.
    - Selecteer **Service beheer** in het detail menu van de klant.
-   - Klik onder **Microsoft Azure** op de koppeling om naar de **Microsoft Azure Management Portal** te gaan.
+   - Selecteer onder **Microsoft Azure** de koppeling om naar de **Microsoft Azure Management Portal** te gaan.
 
 ## <a name="next-steps"></a>Volgende stappen
 
