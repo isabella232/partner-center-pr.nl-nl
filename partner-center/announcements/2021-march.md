@@ -8,17 +8,139 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 03/24/2021
+ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880732"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549070"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft partner centrum voor maart 2021.
+
+________________
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Micro soft Operations: introductie van de agenda voor product lancering
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-25
+- Aanbiedingen | Moderne werk plek
+
+### <a name="summary"></a>Samenvatting
+
+In reactie op feedback van de partner stroomt micro soft-activiteiten de communicatie voor het starten van het product.
+
+### <a name="impacted-audience"></a>Doel groep
+
+CSP-partners (Cloud Solution Provider)
+
+### <a name="details"></a>Details
+
+Micro soft streeft ernaar om de partner ervaringen continu te verbeteren. We hadden feedback van u dat u te veel communicatie van micro soft hebt ontvangen, waaronder dubbele aankondigingen voor product lanceringen.
+
+Als reactie op uw feedback heeft micro soft de gereedheids ervaring voor product lanceringen gestroomlijnd voor nieuwe en bestaande aanbiedingen.
+
+We bieden u nu een enkele maandelijkse weer gave van product lanceringen, gepubliceerd in de resource galerie voor de gereedheids taken. In deze maandelijkse [weer gave voor het starten](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) van een product wordt de communicatie van afzonderlijke producten in de resource galerie voor Operations Readiness en in het partner centrum vervangen.
+
+U hebt ook toegang tot deze [product lancerings agenda](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) vanuit [Community-verzamelingen](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [agenda weergaven](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)en [CSP-nieuws brieven](https://partner.microsoft.com/resources/collection/csp-monthly-update#/). We sturen u een melding wanneer we de product lancerings agenda van elke maand publiceren met een aankondiging in de resource galerie voor de gereedheids taken.
+
+U kunt nog steeds informatie vinden over nieuwe en bestaande aanbiedingen in de prijs lijst en prijs lijst wijzigings logboeken, evenals in product Blogs, licentie handleidingen en product marketing pagina's.
+
+De wijziging is van toepassing op het starten van de volgende producten:
+
+- On-premises Dynamics
+- Microsoft 365
+- Microsoft Dynamics 365
+- Windows
+- Server  
+- Hulpprogramma's
+- Teams en telecommunicatie
+
+We blijven specifieke aankondigingen verzenden voor product lanceringen waarvoor Details van de gereedheids bewerkingen zijn vereist.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de bronnen over dit onderwerp en deel deze informatie met de juiste belanghebbenden in uw organisatie.
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen.
+
+________________
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Wijzigingen in de vereisten voor de CSP-klant voor bereiding
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-25
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Als onderdeel van onze toezeg ging om partners en klanten te helpen hun bedrijf op basis van vertrouwen uit te voeren, zullen we bijkomende klant gegevens aanvragen, met ingang van 25 maart 2021.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Cloud Solution Provider (CSP) direct factuur partners en indirecte providers die nieuwe of bestaande klanten hebben in de landen die worden vermeld in de volgende sectie
+
+### <a name="details"></a>Details
+
+Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode voor klant validatie te bieden voor het handelen van klant abonnementen in het CSP-programma. Op 25 maart 2021 worden de verbeteringen van de Partner Center API en gebruikers interface (UI) geïntroduceerd die van invloed zijn op partners die voldoen aan de volgende criteria:
+
+1. De partner heeft een directe facturerings relatie met micro soft (wat betekent dat de partner een directe factuur partner of een indirecte provider is).
+
+2. De partner doet zaken met nieuwe of bestaande klanten in de volgende landen:
+
+    - Thailand
+    - Vietnam
+    - Turkije
+    - Polen
+    - Zuid-Afrika
+    - India
+    - Brazilië
+    - Irak
+    - Myanmar
+    - Zuid-Soedan
+    - Saoedi-Arabië
+    - Verenigde Arabische Emiraten
+    - Venezuela
+
+Partners die aan de criteria voldoen, moeten de **registratie-id** van een klant (ook wel de **organisatie Inn**) en het **telefoon nummer** van de klant indienen wanneer ze nieuwe klanten vrijgeven of bestaande klant gegevens wijzigen. Deze partners kunnen ook een optionele **middelste naam** voor de klant invoeren.
+
+Houd er rekening mee dat wanneer u de registratie-ID van uw bedrijf toevoegt, u uw zakelijke belasting-ID moet gebruiken en niet de persoonlijke ID van de klant.
+
+Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben in november 2020 al geknoeid met een eerdere release.
+
+- Armenië
+- Azerbeidzjan
+- Belarus
+- Hongarije
+- Kazachstan
+- Kirgistan
+- Moldavië
+- Rusland
+- Tadzjikistan
+- Oekraïne
+- Oezbekistan
+
+Partners met klanten in de rest van de wereld hebben de mogelijkheid om op 25 maart 2021 de **registratie-id**, het **telefoon nummer** en de **middelste naam** van het bedrijf in te voeren als optionele Details.
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Raadpleeg de technische documentatie en veelgestelde vragen in de [verzameling speciale partners](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richt lijnen.
+
+- Bereid u voor op het opnemen van de wijzigingen met behulp van de partner centrum-API en webervaring. API/Sdk's zijn beschikbaar voor testen.
+
+- Zorg ervoor dat u de aanvullende gegevens indient bij het voorbereiden van nieuwe klanten of het wijzigen van bestaande klant gegevens.
+
+- Als u een CPV-oplossing (configuratie scherm) gebruikt, raadpleegt u uw CPV.
+
+### <a name="questions"></a>Vragen?
+
+Neem contact op met uw belasting adviseur of gemeentelijke belasting dienst als u vragen hebt met betrekking tot de juridische id (ook wel INN of TIN genoemd). Micro soft kan geen ondersteuning bieden voor belasting kwesties.
+
+Als u ondersteuning nodig hebt in uw bewerkingen met micro soft, [opent u een service aanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
 ## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Correcties die zijn aangebracht in 1 maart 2021 lijst met permanente software prijzen

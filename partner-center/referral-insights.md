@@ -9,19 +9,14 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756483"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549257"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Bekijk referentie inzichten in het partner centrum en ontdek hoe uw verwijzingen worden uitgevoerd
-
-**Van toepassing op**
-
-- Verkoop kansen samen verkopen
-- Privé-deals
 
 Op de pagina **verkoop kansen** onder het gedeelte **Analytics** in verwijzingen kunt u zien hoe uw verwijzingen worden uitgevoerd. Bekijk deze metrische gegevens regel matig om trends of gebieden te identificeren die aandacht nodig hebben, en begin te best Eden aan uw bedrijfs doelen.
 
@@ -32,9 +27,9 @@ Ga in het menu Partner Center naar **referrals > Analytics > mogelijkheden voor 
 
 ## <a name="apply-filters"></a>Filters toepassen
 
-Aan de bovenkant van de pagina **mogelijkheden voor co-verkoop** kunt u de periode selecteren waarvoor u gegevens wilt weer geven. De standaard **selectie is 3** tot drie maanden, maar u kunt ervoor kiezen om gegevens weer te geven voor een periode van zes maanden of één jaar. U kunt ook **aangepast** selecteren om de gegevens voor alle verwijzingen in een bepaalde periode te bekijken.
+Aan de bovenkant van de pagina **mogelijkheden voor co-verkoop** kunt u de periode selecteren waarvoor u gegevens wilt weer geven. De standaard **selectie is 3** tot drie maanden, maar u kunt ervoor kiezen om gegevens zes maanden of één jaar weer te geven. U kunt ook **aangepast** selecteren om de gegevens voor alle verwijzingen in een bepaalde periode te bekijken.
 
-U kunt op de knop filters klikken om het deel venster te openen waarmee u alle gegevens op deze pagina kunt filteren op naam van de klant, het land, het type deal, de afhandelings richting, de naam van de oplossing en de status. Hieronder ziet u de details van deze filters.
+U kunt de knop **filters** selecteren om het deel venster te openen waarmee u alle gegevens op deze pagina kunt filteren op basis van de klant naam, het land, het type deal, de afhandelings richting, de naam van de oplossing en de status. Hieronder ziet u de details van deze filters.
 
 - **Klant naam**: de standaard waarde is **alle**, maar u kunt de gegevens beperken tot een of meer klanten die u selecteert.
 - **Land**: de standaard waarde is **alle**, maar u kunt de gegevens beperken tot een of meer landen van de klant die u selecteert.
@@ -63,7 +58,7 @@ In deze sectie ziet u een visuele indicator van hoe uw deals worden verplaatst v
 
 ## <a name="deals-by-geography"></a>Deals per Geografie
 
-In deze sectie worden de landen/regio's weer gegeven waar deals vandaan komen, samen met de details van elk land/elke regio. Er is een tabel weergave van de details van de deal van elk land en een kaart weergave van alle landen. U kunt in de tabel op een specifiek land klikken of op de kaart weergave klikken om in te zoomen op een specifiek land.
+In deze sectie worden de landen/regio's weer gegeven waar deals vandaan komen, samen met de details van elk land/elke regio. Er is een tabel weergave van de details van de deal van elk land en een kaart weergave van alle landen. U kunt een specifiek land in de tabel selecteren of de kaart weergave selecteren om in te zoomen op een specifiek land.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Afbeelding van de geo-distributie van verwijzingen.":::
 
@@ -94,7 +89,7 @@ De drie dimensies die u kunt kiezen voor het vergelijken van gegevens zijn
 - Landen
 - Oplossingen
 
-Wanneer het type deal is geselecteerd, hebt u de mogelijkheid om de referentie prestaties van te vergelijken met betrekking tot de verkoop kansen en privé-deals. Voor zowel de markten als oplossingen kunt u Maxi maal drie verschillende opties kiezen om de prestaties te vergelijken. De eerste grafiek, die een staaf diagram is, heeft gegevens die worden gepresenteerd met een maand trend op basis van de hoofd draaiing, dat wil zeggen een volume of de waarde voor deals die is binnengehaald. Er is ook een cirkel diagram aan de rechter kant van het staaf diagram, waarin de verdeling per percentage voor dezelfde gegevens wordt weer gegeven.
+Wanneer het type deal is geselecteerd, kunt u de prestaties van de referrals vergelijken met betrekking tot de verkoop kansen en privé-aanbiedingen. Voor zowel de markten als oplossingen kunt u Maxi maal drie verschillende opties kiezen om de prestaties te vergelijken. De eerste grafiek, die een staaf diagram is, heeft gegevens die worden gepresenteerd met een maand trend op basis van de hoofd draaiing, dat wil zeggen een volume of de waarde voor deals die is binnengehaald. Er is ook een cirkel diagram aan de rechter kant van het staaf diagram, waarin de verdeling per percentage voor dezelfde gegevens wordt weer gegeven.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Afbeelding van het gedeelte met de vergelijking.":::
 

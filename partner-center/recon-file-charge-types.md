@@ -1,25 +1,26 @@
 ---
-title: Kosten typen van het afstemmings bestand
+title: Kostentypen voor afstemmingsbestanden
 ms.topic: article
 ms.date: 06/05/2020
 description: Ontdek de typen kosten (zoals, op gebruik gebaseerde en eenmalige), tegoeden en kortingen in Partner Center-afstemmings bestanden.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "92527572"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549223"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Meer informatie over de verschillende kosten typen in Partner Center reconciliatie bestanden
 
 **Van toepassing op**
 
-- Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partner centrum voor micro soft Government Cloud
 
 **Juiste rollen**
 
@@ -27,7 +28,7 @@ ms.locfileid: "92527572"
 - Factureringsbeheerder
 - Globale beheerder
 
-In dit onderwerp vindt u een beschrijving van de toewijzingen tussen een factuur gedeelte en gekoppelde kosten typen die mogelijk in uw afstemmings bestand staan. Uw factuur bevat een samen vatting van de kosten. Uw afstemmings bestand bevat een gedetailleerde verdeling van trans acties met regel items, inclusief kosten typen. Zie [reconciliatie bestanden gebruiken](use-the-reconciliation-files.md)voor meer informatie over het afstemmen van bestanden.
+In dit artikel worden de toewijzingen beschreven tussen een factuur gedeelte en gekoppelde kosten typen die mogelijk in uw afstemmings bestand staan. Uw factuur bevat een samen vatting van de kosten. Uw afstemmings bestand bevat een gedetailleerde verdeling van trans acties met regel items, inclusief kosten typen. Zie [reconciliatie bestanden gebruiken](use-the-reconciliation-files.md)voor meer informatie over het afstemmen van bestanden.
 
 Zowel [afstemmings bestanden op basis van gebruik](usage-based-recon-files.md) en [afstemmings bestanden op basis van een licentie](license-based-recon-files.md) geven alleen gebruiks gerelateerde trans acties en kosten (verbruikte eenheden en gerelateerde kosten) weer.
 

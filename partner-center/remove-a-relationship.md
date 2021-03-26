@@ -9,18 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
-ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
+ms.openlocfilehash: 133df7a2e6fdcf9aad48d3937b04dac33c93122a
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "92528185"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549087"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Een resellerrelatie met een klant aanvragen in het Partnercentrum
-
-**Van toepassing op**
-
-- Partnercentrum
 
 In dit artikel wordt beschreven hoe u een reseller-relatie met een klant verwijdert in het partner centrum.
 
@@ -41,7 +37,7 @@ Als u de relatie wilt verwijderen, moet u Azure RI-reserve ringen annuleren, sof
 
    1. Ga vanuit het partner centrum naar **klanten** en selecteer een klant
 
-   2. Selecteer een abonnement onder **abonnementen** .
+   2. Selecteer een abonnement onder **abonnementen**.
 
    3. **Opgeschort** selecteren
 
@@ -51,9 +47,9 @@ Als u de relatie wilt verwijderen, moet u Azure RI-reserve ringen annuleren, sof
 
    a. Ga vanuit het partner centrum naar **klanten** en selecteer een klant.
 
-   b. Selecteer het **account** .
+   b. Selecteer het **account**.
 
-   c. Selecteer **wederverkoper-relatie verwijderen** .
+   c. Selecteer **wederverkoper-relatie verwijderen**.
 
    > [!NOTE]
    > Als abonnementen nog actief zijn, is de koppeling **reseller Relationship verwijderen** inactief.

@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185346"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549240"
 ---
 # <a name="payout-statements"></a>Uitbetalingsinstructies
 
@@ -169,7 +169,7 @@ Klik boven aan de pagina op **downloaden** om meer informatie over een verdienen
 | deel nemer | Naam van de verdienen partner | Alles |
 | partnerCountryCode | Locatie/land/regio van de verdienen partner | Alles |
 | partNumber | Is altijd leeg | Sommige stimulerings Programma's en markt plaatsen |
-| paymentId | De unieke id voor de betaling. Dit nummer is doorgaans zichtbaar in uw bank afschrift | Alleen SAP-betalingen |
+| paymentId | Unieke id voor het correleren van alle trans acties in het transactie rapport met een specifieke betaling in het betalings rapport | Alles |
 | paymentStatus | Betalingsstatus | Alles |
 | paymentStatusDescription | Beschrijvende beschrijving van de betalings status | Alles |
 | productId | Unieke product-id | markt plaatsen |
@@ -258,18 +258,18 @@ In de volgende tabel worden de verschillende statussen voor het verdienen beschr
 
 | Status verdienen | Reden | Partner actie vereist? |
 | --- | --- | --- |
-| Verwerkte | Het verdienen komt in aanmerking voor betaling. Deze status blijft van toepassing op een koel periode zoals gedefinieerd in de programma gids voor het programma prikkel. | Nee |
-| Aankomend | De betalings order is gegenereerd interne beoordelingen voordat de betaling wordt verwerkt. | Nee |
+| Verwerkte | Het verdienen komt in aanmerking voor betaling. Deze status blijft van toepassing op een koel periode zoals gedefinieerd in de programma gids voor het programma prikkel. | No |
+| Aankomend | De betalings order is gegenereerd interne beoordelingen voordat de betaling wordt verwerkt. | No |
 | Factuur met openstaande BTW | Uw belasting factuur is onvolledig of ongeldig. | U moet uw BTW-factuur bijwerken voordat u kunt betalen |
 | Afgewezen tijdens beoordeling | De betaling is tijdens de controle afgewezen. | Neem contact op met micro soft ondersteuning voor meer informatie |
 | Mislukt | De betaling is mislukt vanwege een micro soft-systeem fout. | Neem contact op met micro soft ondersteuning voor meer informatie |
-| Actief | De betaling wordt uitgevoerd. | Nee |
-| Onjuiste betaling | Het terugkoppelings bedrag wordt uitgevoerd. | Nee |
-| Verzonden | De betaling is naar uw bank verzonden. | Nee |
-| Verwerkt | De betaling heeft een micro soft-systeem fout aangetroffen en wordt opnieuw verwerkt. | Nee |
-| Reversed | De betaling is teruggestort door uw bank en wordt opnieuw verzonden in de volgende betalings cyclus. | Nee |
+| Actief | De betaling wordt uitgevoerd. | No |
+| Onjuiste betaling | Het terugkoppelings bedrag wordt uitgevoerd. | No |
+| Verzonden | De betaling is naar uw bank verzonden. | No |
+| Verwerkt | De betaling heeft een micro soft-systeem fout aangetroffen en wordt opnieuw verwerkt. | No |
+| Reversed | De betaling is teruggestort door uw bank en wordt opnieuw verzonden in de volgende betalings cyclus. | No |
 | Geweigerde BTW-factuur | Uw belasting factuur is afgewezen tijdens de controle. Alle openstaande betalingen worden in de wacht stand gezet totdat de beoordeling van de belasting factuur is voltooid. | Neem contact op met micro soft ondersteuning voor meer informatie |
-| Factuur belasting onder beoordeling | Uw belasting factuur wordt gecontroleerd. Uw betaling wordt vrijgegeven zodra de belasting factuur is goedgekeurd. | Nee |
+| Factuur belasting onder beoordeling | Uw belasting factuur wordt gecontroleerd. Uw betaling wordt vrijgegeven zodra de belasting factuur is goedgekeurd. | No |
 | Afgewezen | De betaling is door uw bank afgewezen. | Neem contact op met uw bank voor meer informatie. |
 |
 

@@ -9,50 +9,46 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9964dd4fb1ae96e890dd357a045acdb152fb95f1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528469"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549189"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registreer deals die u hebt gewonnen in het partner centrum zodat u later meer mogelijkheden kunt krijgen
 
-**Van toepassing op**
-
-- Partnercentrum
-
 U kunt deals die u hebt gewonnen, registreren in het partner centrum door aanvullende informatie over het contract op te geven. Deze informatie helpt ons u in de toekomst meer mogelijkheden te bieden.
 
-Wanneer u voor bepaalde **oplossingen in aanmerking** komt, wordt u gevraagd om aanvullende informatie op te [geven, zodat](manage-leads.md)u uw deal kunt registreren. Micro soft beoordeelt de gegevens die u verstrekt en kunnen tijdens het beoordelings proces worden gevraagd om aanvullende informatie.
+Wanneer u voor bepaalde oplossingen in aanmerking [komt, wordt](manage-leads.md)u gevraagd om aanvullende **informatie op te** geven om uw deal te registreren. Micro soft beoordeelt de informatie die u verstrekt en kan tijdens het beoordelings proces worden gevraagd om aanvullende informatie.
 
 U kunt ook nieuwe deals registreren die u hebt gewonnen die gebruikmaken van een van uw oplossingen, zelfs als deze niet afkomstig zijn van een [verwijzing](referrals.md). 
 
 ## <a name="register-a-new-deal"></a>Een nieuwe deal registreren
 
-Als u een nieuwe deal wilt registreren, gaat u naar **verwijzingen > deals registraties > actie vereist** en selecteert u **+ nieuwe deal** .
+Als u een nieuwe deal wilt registreren, gaat u naar **verwijzingen > deals registraties > actie vereist** en selecteert u **+ nieuwe deal**.
 
 Geef op de pagina **nieuwe deals** de volgende informatie op.
 
-- **Klant Details** : Voer de **Bedrijfs naam** voor uw klant in en selecteer het **land/de regio** . Voer vervolgens de **plaats** en **provincie** in.
-- **Oplossing** : Selecteer de oplossing die voor de deal moet worden gebruikt. Als de juiste oplossing niet wordt weer gegeven, neemt u contact op met de ondersteuning.
-- **Contract type** : Geef aan of dit een **Nieuw** contract of een **verlenging** van een vorig contract is.
-- **Totale contract waarde** : de totale verwachte waarde voor de afspraak. Dit omvat alle software-en service kosten, maar geen hardwarekosten. Zorg ervoor dat u de juiste valuta selecteert.
-- **Oplossings waarde** : de totale waarde van de Cloud oplossing die wordt gebruikt voor de deal. Zorg ervoor dat u alle kosten opneemt die zijn gekoppeld aan software-en onderhouds kosten, maar geen betaalde items, niet-terugkerende aanpassings kosten of rechtstreeks gekoppelde CSP-licentie kosten die door micro soft zijn betaald.
-- **Geïmplementeerd op** : Selecteer **Azure** of een **andere** .
-- **Waar wordt de oplossing geïmplementeerd?** : Selecteer de Tenant van de **klant** of de **partner-Tenant** .
-- **Begin datum contract** : de datum waarop het contract wordt gestart.
-- **Eind datum contract** : als het contract eindigt op een specifieke datum, selecteert u **een eind datum** en geeft u deze datum op. Als dat niet het geval is, selecteert u **permanent** .
-- **Datum van contract ondertekening** : de datum waarop het eind contract is ondertekend door uw organisatie en door de klant.
-- **Registratie-contact persoon** : de voor **naam** , **Achternaam** , **telefoon nummer** en het **e-mail adres** van een persoon in uw organisatie die wij kunnen contacteren als we meer informatie nodig hebben over de informatie die u hier vindt.
+- **Klant Details**: Voer de **Bedrijfs naam** voor uw klant in en selecteer het **land/de regio**. Voer vervolgens de **plaats** en **provincie** in.
+- **Oplossing**: Selecteer de oplossing die voor de deal moet worden gebruikt. Als de juiste oplossing niet wordt weer gegeven, neemt u contact op met de ondersteuning.
+- **Contract type**: Geef aan of dit een **Nieuw** contract of een **verlenging** van een vorig contract is.
+- **Totale contract waarde**: de totale verwachte waarde voor de afspraak. Dit omvat alle software-en service kosten, maar geen hardwarekosten. Zorg ervoor dat u de juiste valuta selecteert.
+- **Oplossings waarde**: de totale waarde van de Cloud oplossing die wordt gebruikt voor de deal. Zorg ervoor dat u alle kosten opneemt die zijn gekoppeld aan software-en onderhouds kosten, maar geen betaalde items, niet-terugkerende aanpassings kosten of rechtstreeks gekoppelde CSP-licentie kosten die door micro soft zijn betaald.
+- **Geïmplementeerd op**: Selecteer **Azure** of een **andere**.
+- **Waar wordt de oplossing geïmplementeerd?**: Selecteer de Tenant van de **klant** of de **partner-Tenant**.
+- **Begin datum contract**: de datum waarop het contract wordt gestart.
+- **Eind datum contract**: als het contract eindigt op een specifieke datum, selecteert u **een eind datum** en geeft u deze datum op. Als dat niet het geval is, selecteert u **permanent**.
+- **Datum van contract ondertekening**: de datum waarop het eind contract is ondertekend door uw organisatie en door de klant.
+- **Registratie-contact persoon**: de voor **naam**, **Achternaam**, **telefoon nummer** en het **e-mail adres** van een persoon in uw organisatie die wij kunnen contacteren als we meer informatie nodig hebben over de informatie die u hier vindt.
 
-Wanneer u alle secties van de pagina hebt voltooid, selecteert u **registreren** . De registratie van de deal wordt vervolgens verplaatst naar de pagina wordt **uitgevoerd** . Micro soft beoordeelt vervolgens de informatie die u hebt ingevoerd.
+Wanneer u alle secties van de pagina hebt voltooid, selecteert u **registreren**. De registratie van de deal wordt vervolgens verplaatst naar de pagina wordt **uitgevoerd** . Micro soft beoordeelt vervolgens de informatie die u hebt ingevoerd.
 
 Als een deal afkomstig is van een verwijzing en u deze nog niet hebt geregistreerd, ziet u de deal die wordt weer gegeven op de pagina **actie vereist** . Registraties van deals die zijn gemaakt en geregistreerd, maar waarvoor verdere updates nodig zijn, worden hier ook weer gegeven. U kunt de filters gebruiken om alleen **onvolledige** weer te geven of om vereiste deals bij te **werken** .
 
 ## <a name="viewing-active-and-closed-deal-registrations"></a>Actieve en gesloten deal-registraties weergeven
 
-U kunt nieuwe, actieve en gesloten registraties van deals bekijken op de verschillende pagina's onder **verwijzingen > registratie van deals** .
+U kunt nieuwe, actieve en gesloten registraties van deals bekijken op de verschillende pagina's onder **verwijzingen > registratie van deals**.
 
 ### <a name="action-required"></a>Vereiste actie
 

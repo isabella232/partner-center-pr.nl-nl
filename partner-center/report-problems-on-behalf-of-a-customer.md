@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756436"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549053"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Meld een service probleem namens een klant, zoals wanneer en hoe dit moet gebeuren
 
 **Van toepassing op**
 
-- Partnercentrum
-- Partnercentrum voor Microsoft Cloud for US Government
+- Partner centrum voor micro soft Government Cloud
 
 **Juiste rollen**
 
@@ -104,7 +103,7 @@ Zoeken naar de contact gegevens van de ISV:
 
 ## <a name="faq"></a>Veelgestelde vragen
 
-Raadpleeg het volgende voor veelgestelde vragen over service aanvragen die u kunt indienen namens een klant. 
+Raadpleeg de volgende veelgestelde vragen over service aanvragen die u kunt indienen namens een klant. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Wat is opgenomen als onderdeel van de ondersteunings rechten?
 
@@ -120,7 +119,7 @@ De eerste reactie tijden zijn afhankelijk van de ernst van het incident dat is v
 
 Eerste reactie tijden voor **technische incidenten met betrekking tot het oplossen** van problemen:
 
-- Kritieke impact (Ernst A): 2 uur (aanzienlijk verlies of vermindering van Services). Productie Services lager.)
+- Kritieke impact (Ernst A): twee uur (aanzienlijk verlies of vermindering van Services). Productie Services lager.)
 - Gemiddelde impact (Ernst B): vier uur (gemiddeld verlies of vermindering van Services). Dit is deels van invloed op productie Services.)
 - Minimale impact (Ernst C): acht uur (mini maal verlies of vermindering van Services). Services zijn nog steeds beschikbaar of niet-productie Services betrokken.)
 

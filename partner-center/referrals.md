@@ -9,18 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528476"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549206"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Grow your business with referrals from Microsoft (Uw bedrijf laten groeien met verwijzingen van Microsoft)
-
-**Van toepassing op**
-
-- Partnercentrum
 
 Veel klanten zoeken naar gekwalificeerde experts om micro soft-technologie en bedrijfs oplossingen te implementeren. Hier ontvangen we vaak direct aanvragen voor hulp van klanten via onze marketing activiteiten en van onze interne verkoop medewerkers van micro soft. Klanten gebruiken ook de [ervaring **een oplossings provider zoeken**](https://www.microsoft.com/solution-providers/search) om bedrijven te vinden die hen kunnen helpen om aan hun bedrijfs behoeften te voldoen. 
 

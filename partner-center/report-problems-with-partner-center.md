@@ -9,23 +9,24 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582033"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549172"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Portal aanvragen en diagnostisch hulp programma voor Partner Center
 
 **Van toepassing op**
 
-- Partnercentrum
-- Partnercentrum voor Microsoft Cloud for US Government
+- Partner centrum voor micro soft Government Cloud
 
 **Juiste rollen**
 
-Alle aangemelde partner centrum-gebruikers kunnen een partner ondersteunings aanvragen maken. Gebruikers kunnen alleen ondersteunings aanvragen weer geven die zijn verzonden nadat ze zich hebben aangemeld bij het partner centrum.
+- Alle partners die geïnteresseerd zijn in het partner centrum
+
+Alle aangemelde partner centrum-gebruikers kunnen een partner ondersteunings aanvraag maken. Gebruikers kunnen alleen ondersteunings aanvragen weer geven die zijn verzonden nadat ze zich hebben aangemeld bij het partner centrum.
 Neem contact op met partner Center-ondersteuning als u problemen ondervindt of hulp nodig hebt bij Portal fouten van de Partner Center. Diagnostische gegevens verzenden zodat het probleem sneller kan worden verholpen.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Een probleem melden met het partner centrum
