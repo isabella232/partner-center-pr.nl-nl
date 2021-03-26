@@ -9,43 +9,39 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216858aff2ecbb5eb11c739db0a0a7ad6ee390f1
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "92528344"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548934"
 ---
-# <a name="reset-my-password"></a><span data-ttu-id="c5133-103">Mijn wachtwoord opnieuw instellen</span><span class="sxs-lookup"><span data-stu-id="c5133-103">Reset my password</span></span>
-
-<span data-ttu-id="c5133-104">**Van toepassing op**</span><span class="sxs-lookup"><span data-stu-id="c5133-104">**Applies to**</span></span>
-
-- <span data-ttu-id="c5133-105">Partnercentrum</span><span class="sxs-lookup"><span data-stu-id="c5133-105">Partner Center</span></span>
+# <a name="reset-my-password"></a><span data-ttu-id="b6cbe-103">Mijn wachtwoord opnieuw instellen</span><span class="sxs-lookup"><span data-stu-id="b6cbe-103">Reset my password</span></span>
  
-<span data-ttu-id="c5133-106">**Juiste rollen**</span><span class="sxs-lookup"><span data-stu-id="c5133-106">**Appropriate roles**</span></span>
+<span data-ttu-id="b6cbe-104">**Juiste rollen**</span><span class="sxs-lookup"><span data-stu-id="b6cbe-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="c5133-107">Globale beheerder</span><span class="sxs-lookup"><span data-stu-id="c5133-107">Global admin</span></span>
-- <span data-ttu-id="c5133-108">Partner centrum gebruikers</span><span class="sxs-lookup"><span data-stu-id="c5133-108">Partner Center users</span></span>
+- <span data-ttu-id="b6cbe-105">Globale beheerder</span><span class="sxs-lookup"><span data-stu-id="b6cbe-105">Global admin</span></span>
+- <span data-ttu-id="b6cbe-106">Alle partners die geïnteresseerd zijn in het partner centrum</span><span class="sxs-lookup"><span data-stu-id="b6cbe-106">All partners interested in Partner Center</span></span>
 
 
-<span data-ttu-id="c5133-109">Als u het wacht woord van uw partner centrum niet meer weet, kunt u het opnieuw instellen.</span><span class="sxs-lookup"><span data-stu-id="c5133-109">If you can't remember your Partner Center password, you can reset it.</span></span>
+<span data-ttu-id="b6cbe-107">Als u het wacht woord van uw partner centrum niet meer weet, kunt u het opnieuw instellen.</span><span class="sxs-lookup"><span data-stu-id="b6cbe-107">If you can't remember your Partner Center password, you can reset it.</span></span>
 
-## <a name="to-reset-your-partner-center-password"></a><span data-ttu-id="c5133-110">Het wacht woord van uw partner centrum opnieuw instellen</span><span class="sxs-lookup"><span data-stu-id="c5133-110">To reset your Partner Center password</span></span>
+## <a name="to-reset-your-partner-center-password"></a><span data-ttu-id="b6cbe-108">Het wacht woord van uw partner centrum opnieuw instellen</span><span class="sxs-lookup"><span data-stu-id="b6cbe-108">To reset your Partner Center password</span></span>
 
-<span data-ttu-id="c5133-111">Uw globale beheerder moet de mogelijkheid hebben ingesteld om uw wacht woord zelf opnieuw in te stellen.</span><span class="sxs-lookup"><span data-stu-id="c5133-111">Your Global admin must have set up the ability for you to reset your password yourself.</span></span> <span data-ttu-id="c5133-112">(Als uw globale beheerder dit nog niet heeft ingesteld, moet u hen vragen [uw wacht woord opnieuw](reset-a-user-password.md)in te stellen.)</span><span class="sxs-lookup"><span data-stu-id="c5133-112">(If your Global admin hasn't set this up yet, you will have to ask them to [reset your password for you](reset-a-user-password.md).)</span></span>
+<span data-ttu-id="b6cbe-109">Als u deze methode wilt gebruiken, moet uw globale beheerder de mogelijkheid al hebben ingesteld om uw wacht woord zelf opnieuw in te stellen.</span><span class="sxs-lookup"><span data-stu-id="b6cbe-109">To use this method, your Global admin must have already set up the ability for you to reset your password yourself.</span></span> <span data-ttu-id="b6cbe-110">(Als uw globale beheerder deze functie nog niet heeft uitgevoerd, vraagt [u deze om uw wacht woord opnieuw](reset-a-user-password.md)in te stellen.)</span><span class="sxs-lookup"><span data-stu-id="b6cbe-110">(If your Global admin hasn't done this feature, ask them to [reset your password for you](reset-a-user-password.md).)</span></span>
 
-1. <span data-ttu-id="c5133-113">Selecteer op het scherm **Aanmelden** **geen toegang tot uw account** en selecteer vervolgens **volgende** .</span><span class="sxs-lookup"><span data-stu-id="c5133-113">On the **Sign in** screen, select **Can't access your account?** and then select **Next** .</span></span>
+1. <span data-ttu-id="b6cbe-111">Selecteer op het scherm **Aanmelden** **geen toegang tot uw account** en selecteer vervolgens **volgende**.</span><span class="sxs-lookup"><span data-stu-id="b6cbe-111">On the **Sign in** screen, select **Can't access your account?** and then select **Next**.</span></span>
 
-2. <span data-ttu-id="c5133-114">Selecteer een **werk-of school account** .</span><span class="sxs-lookup"><span data-stu-id="c5133-114">Select **Work or school account** .</span></span>
+2. <span data-ttu-id="b6cbe-112">Selecteer een **werk-of school account**.</span><span class="sxs-lookup"><span data-stu-id="b6cbe-112">Select **Work or school account**.</span></span>
 
-3. <span data-ttu-id="c5133-115">U wordt nu gevraagd om uw gebruikers-ID en de tekens in de afbeelding of de audio in te voeren.</span><span class="sxs-lookup"><span data-stu-id="c5133-115">You are next asked to enter your user ID and the characters in the picture or audio.</span></span> <span data-ttu-id="c5133-116">Selecteer vervolgens **Volgende** .</span><span class="sxs-lookup"><span data-stu-id="c5133-116">Then select **Next** .</span></span>
+3. <span data-ttu-id="b6cbe-113">Voer uw gebruikers-ID en de tekens in de afbeelding of de audio in.</span><span class="sxs-lookup"><span data-stu-id="b6cbe-113">Enter your user ID and the characters in the picture or audio.</span></span> <span data-ttu-id="b6cbe-114">Selecteer vervolgens **Volgende**.</span><span class="sxs-lookup"><span data-stu-id="b6cbe-114">Then select **Next**.</span></span>
 
-4. <span data-ttu-id="c5133-117">Stel uw nieuwe wacht woord in.</span><span class="sxs-lookup"><span data-stu-id="c5133-117">Set up your new password.</span></span>
+4. <span data-ttu-id="b6cbe-115">Stel uw nieuwe wacht woord in.</span><span class="sxs-lookup"><span data-stu-id="b6cbe-115">Set up your new password.</span></span>
 
-## <a name="if-your-global-admin-has-left-the-company"></a><span data-ttu-id="c5133-118">Als uw globale beheerder het bedrijf heeft verlaten</span><span class="sxs-lookup"><span data-stu-id="c5133-118">If your Global admin has left the company</span></span>
+## <a name="if-your-global-admin-has-left-the-company"></a><span data-ttu-id="b6cbe-116">Als uw globale beheerder het bedrijf heeft verlaten</span><span class="sxs-lookup"><span data-stu-id="b6cbe-116">If your Global admin has left the company</span></span>
 
-<span data-ttu-id="c5133-119">Als uw globale beheerder uw bedrijf heeft verlaten of naar een andere rol heeft geverplaatsd en u een nieuwe globale beheerder wilt toevoegen, moet u een service aanvraag in de [Microsoft Partner Network Portal](https://partner.microsoft.com/commercial#/)registreren.</span><span class="sxs-lookup"><span data-stu-id="c5133-119">If your Global admin has left your company or moved onto another role and you need to add a new Global admin, you have to log a service request on the [Microsoft Partner Network portal](https://partner.microsoft.com/commercial#/).</span></span> <span data-ttu-id="c5133-120">De ondersteunings agent kan de uitbrei ding van een gebruiker aan een globale beheerder vragen als uw aanvrager de vereiste persoonlijke identiteits gegevens kan opgeven en aanvullende informatie over uw bedrijf kan geven.</span><span class="sxs-lookup"><span data-stu-id="c5133-120">The support agent can request elevation of a user to Global admin if your requestor is able to provide the requisite personal identity information and provide additional information about your company.</span></span> 
+<span data-ttu-id="b6cbe-117">Als uw globale beheerder uw bedrijf heeft verlaten of een andere rol heeft verplaatst en u een nieuwe globale beheerder wilt toevoegen, moet u een service aanvraag registreren op de [Microsoft Partner Network Portal](https://partner.microsoft.com/commercial#/).</span><span class="sxs-lookup"><span data-stu-id="b6cbe-117">If your Global admin has left your company or moved to another role and you need to add a new Global admin, you have to log a service request on the [Microsoft Partner Network portal](https://partner.microsoft.com/commercial#/).</span></span> <span data-ttu-id="b6cbe-118">De ondersteunings agent kan de uitbrei ding van een gebruiker aan een globale beheerder vragen als uw aanvrager de vereiste persoonlijke identiteits gegevens kan verstrekken en aanvullende informatie over uw bedrijf kan geven.</span><span class="sxs-lookup"><span data-stu-id="b6cbe-118">The support agent can request elevation of a user to Global admin if your requestor can provide the requisite personal identity information and provide additional information about your company.</span></span> 
 
-## <a name="next-steps"></a><span data-ttu-id="c5133-121">Volgende stappen</span><span class="sxs-lookup"><span data-stu-id="c5133-121">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="b6cbe-119">Volgende stappen</span><span class="sxs-lookup"><span data-stu-id="b6cbe-119">Next steps</span></span>
 
-- [<span data-ttu-id="c5133-122">Als u zich niet kunt aanmelden bij het partner centrum en uw wacht woord opnieuw moet instellen</span><span class="sxs-lookup"><span data-stu-id="c5133-122">If you can't sign into Partner Center and need to reset your password</span></span>](unable-to-sign-in.md)
+- [<span data-ttu-id="b6cbe-120">Als u zich niet kunt aanmelden bij het partner centrum en uw wacht woord opnieuw moet instellen</span><span class="sxs-lookup"><span data-stu-id="b6cbe-120">If you can't sign into Partner Center and need to reset your password</span></span>](unable-to-sign-in.md)
