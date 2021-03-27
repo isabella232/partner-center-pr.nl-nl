@@ -1,5 +1,5 @@
 ---
-title: Controleer of de klant de Microsoft-klantovereenkomst heeft geaccepteerd
+title: Controleren of uw klant de micro soft-klant overeenkomst heeft geaccepteerd voor het CSP-programma
 description: Cloud Solution Provider (CSP)-partners moeten acceptatie van de klant bevestigen van de klant overeenkomst van micro soft voordat ze micro soft-Services voor klanten best Ellen.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -8,29 +8,23 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/05/2020
-ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.date: 03/24/2021
+ms.openlocfilehash: ebb52a3a8223d3b1101e3a8e78728fcc167e25e3
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570566"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633775"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Acceptatie van klant bevestigen van de micro soft-klant overeenkomst in het CSP-partner programma
-
-**Van toepassing op**
-
-- Partnercentrum
-- Microsoft 365-beheer centrum
+# <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Controleren of uw klant de micro soft-klant overeenkomst heeft geaccepteerd voor het CSP-programma
 
 **Juiste rollen**
 
 - Beheer agent
 - Verkoop agent
 
-Op 1 oktober 2019 heeft micro soft de **klant overeenkomst van micro** Soft geïntroduceerd voor het CSP-programma om de Microsoft Cloud overeenkomst te vervangen. Lees aanvullende [richt lijnen](indirect-reseller-tasks-in-partner-center.md) voor indirecte wederverkopers. Om de migratie van partners naar de nieuwe overeenkomst te vergemakkelijken, zijn beide overeenkomsten in het CSP-programma opgenomen tot 31 januari 2020. Vanaf 1 februari 2020 wordt de Microsoft Cloud overeenkomst vervangen door de klant overeenkomst van micro soft.
 
-Klanten hebben twee opties voor het accepteren van de klant overeenkomst van micro soft. 
+Klanten hebben twee opties voor het accepteren van de klant overeenkomst van micro soft.
 
 **Optie 1**: partner attest van klant acceptatie: de partner kan acceptatie van de klant bevestigen met de Partner Center API/SDK of via het dash board van de partner centrum.
 
@@ -42,7 +36,7 @@ U kunt de nieuwste [versie van de](https://aka.ms/customeragreement)micro soft-s
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Optie 1: acceptatie van klant bevestigen in partner centrum
 
-Partners kunnen acceptatie van de klant bevestigen van de klant overeenkomst van micro soft in het partner centrum voor nieuwe en bestaande klanten. Resellers kunnen niet namens hun klanten een verklaring doen en moeten samen werken met hun indirecte provider om de Attestation te kunnen uitvoeren.
+Directe factuur partners kunnen acceptatie van klant bevestigen van de klant overeenkomst van micro soft in het partner centrum voor nieuwe en bestaande klanten. Indirecte wederverkopers kunnen geen attesten namens hun klanten afgeven en moeten samen werken met hun indirecte provider om de Attestation te kunnen volt ooien.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Acceptatie van klant bevestigen voor nieuwe klanten
 
@@ -80,7 +74,7 @@ U moet een beheer agent of verkoop agent zijn om dit te kunnen doen:
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Bevestiging van acceptatie van klant ophalen
 
-U kunt een bevestiging ophalen dat een bestaande klant de klant overeenkomst van micro soft heeft geaccepteerd met behulp van de volgende stappen. U moet een beheer agent of verkoop agent zijn om dit te kunnen doen.
+Gebruik de volgende stappen om de bevestiging te verkrijgen dat een bestaande klant de micro soft-klant overeenkomst heeft geaccepteerd. U moet een beheer agent of verkoop agent zijn om dit te kunnen doen.
 
 1. Selecteer **klanten** en zoek en selecteer de klant die u wilt zien.
 
@@ -92,11 +86,11 @@ U kunt een bevestiging ophalen dat een bestaande klant de klant overeenkomst van
 
 U kunt de API/SDK van partner Center gebruiken om de acceptatie van de klant van micro soft te bevestigen. Raadpleeg voor meer informatie over de API/SDK:
 
-- [Meta gegevens van de overeenkomst ophalen voor de micro soft-klant overeenkomst](/partner-center/develop/get-customer-agreement-metadata)
+- [Metagegevens van de overeenkomst voor de Microsoft-klantovereenkomst ophalen](/partner-center/develop/get-customer-agreement-metadata)
 
-- [Acceptatie van klant bevestigen voor micro soft-klant overeenkomst](/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [Acceptatie door de klant van Microsoft-klantovereenkomst bevestigen](/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [Bevestiging van acceptatie door de klant van micro soft-klant overeenkomst verkrijgen](/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Bevestiging van acceptatie door de klant van Microsoft-klantovereenkomst ophalen](/partner-center/develop/get-confirmation-of-customer-agreement)
 
 - [Een download koppeling voor de micro soft-sjabloon voor klant overeenkomsten ophalen](/partner-center/develop/download-customer-agreement-template)
 
@@ -121,12 +115,12 @@ Voer de volgende stappen uit om een nieuwe klant te maken in het partner centrum
 
 2. Voer onder **account gegevens** informatie over de nieuwe klant in alle vereiste velden in, waaronder de bedrijfs naam en de primaire contact persoon van de klant.
 
-3. Selecteer de eerste optie onder **klant overeenkomst** en **de klant wordt gevraagd om de micro soft-klant overeenkomst in Microsoft 365 beheer centrum te accepteren**. Alle andere verplichte velden op de pagina volt ooien.
+3. Onder **klant overeenkomst** selecteert **u de optie klant wordt gevraagd om de micro soft-klant overeenkomst in Microsoft 365 beheer centrum te accepteren**. Alle andere verplichte velden op de pagina volt ooien.
 
 4. Selecteer **volgende: controleren** en ga door met de stappen voor het maken van de Tenant van de klant. 
 
 >[!NOTE] 
->Nieuwe klanten kunnen pas een nieuwe aankoop maken als ze de micro soft-klant overeenkomst accepteren.  
+>Nieuwe klanten kunnen pas een aankoop doen als ze de micro soft-klant overeenkomst accepteren.  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Nieuwe klant maken":::
 
@@ -140,9 +134,9 @@ Voer de volgende stappen uit om een nieuwe klant te maken in het partner centrum
 
 7. De klant ontvangt vervolgens de uitnodiging voor e-mail van de partner en selecteert de [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement).
 
-8. De klant meldt zich aan Microsoft 365 beheer centrum met de referenties van de klant die eerder van de partner zijn ontvangen.
+8. De klant meldt zich aan Microsoft 365 beheer centrum met de referenties van de klant die u hebt ingevoerd.
 
-9. De klant controleert vervolgens het vak om de klant overeenkomst van micro soft te accepteren.
+9. De klant controleert het vakje om de klant overeenkomst van micro soft te accepteren.
 
 ## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Een nieuwe klant uitnodigen om de reseller relationship-en micro soft-klant overeenkomst te bekijken en te accepteren 
 
@@ -160,7 +154,7 @@ Gebruik de volgende stappen om een nieuwe klant uit te nodigen om de reseller-re
 
 5. Klant ontvangt uitnodiging via e-mail en klikt op de para meter-URL. 
 
-6. De klant gebruikt referenties die door de partner worden verschaft binnen e-mail om zich aan te melden bij Microsoft 365-beheer centrum.
+6. De klant gebruikt de referenties die u binnen e-mail verstrekt om zich aan te melden bij Microsoft 365-beheer centrum.
 
 7. Klant controleert het vakje om de **reseller Relationship** en de **klant overeenkomst van micro soft** te accepteren. 
 
@@ -186,15 +180,35 @@ Gebruik de volgende stappen om een bestaande klant uit te nodigen om de micro so
    :::image type="content" source="images/mca/customeraccept.png" alt-text="gebruikers":::
 
 >[!NOTE]
->In bepaalde scenario's kunnen klanten de micro soft-klant overeenkomst mogelijk niet rechtstreeks accepteren. Zie voor meer informatie over deze situaties [twee scenario's waarin u namens uw klant moet worden verklaard](attest-acceptance-customer-agreement.md).
+>In bepaalde scenario's kunnen klanten de micro soft-klant overeenkomst mogelijk niet rechtstreeks accepteren. Lees voor meer informatie over deze situaties twee scenario's waarbij u de volgende stappen moet afhandelen namens uw klant.
 
-### <a name="historical-timeline-details"></a>Historische tijdlijn Details
+## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Twee scenario's waarin u namens uw klant moet worden verklaard
 
-| Date | Mijlpalen | Details |
-|------------|------------|--------------------------------|
-|01 augustus 2019| UX preview beschikbaar in sandbox| Partners kunnen acceptatie van klant bevestigen van de klant overeenkomst van micro soft met behulp van het dash board van het partner centrum in de CSP-sandbox-omgeving. Partners die toegang hebben tot de CSP sandbox-omgeving, bekijken de gebruikers ervaring wijzigingen. Partners zonder sandbox-toegang kunnen meer te weten komen over de wijzigingen in dit onderwerp.|
-|3 september 2019|Preview van API is beschikbaar in sandbox.|Partner kan acceptatie van klant bevestigen van de klant overeenkomst van micro soft met behulp van de Partner Center-API in de CSP-sandbox-omgeving. API-partners kunnen deze mogelijkheid gebruiken om een voor beeld te krijgen van de API-wijzigingen en aan de slag te gaan met API-integratie om de nieuwe overeenkomst te ondersteunen.|
-|20 september 2019|.NET SDK preview is beschikbaar in sandbox.|Partner kan acceptatie van de klant bevestigen van de micro soft-klant overeenkomst met behulp van de .NET SDK in de CSP-sandbox-omgeving. API-partners kunnen deze mogelijkheid gebruiken om de wijzigingen van de .NET-SDK te bekijken en te werken met API-integratie om de nieuwe overeenkomst te ondersteunen.|
-|1 oktober 2019|Micro soft-klant overeenkomst beschikbaar in productie|Micro soft introduceert de klant overeenkomst van micro soft om de Microsoft Cloud overeenkomst te vervangen. Partners kunnen acceptatie van klant bevestigen van de klant overeenkomst van micro soft met het dash board van de Partner Center en de API in productie. De Microsoft Cloud overeenkomst blijft ondersteund binnen het CSP-partner programma. Partners worden echter wel geadviseerd om te beginnen met de migratie naar de micro soft-klant overeenkomst. Nieuwe aankopen en wijzigingen in het aantal licenties voor bestaande abonnementen vereisen een partner bevestiging van de micro soft-klant overeenkomst of de Microsoft Cloud overeenkomst. Voor bepaalde nieuwe aanbiedingen (bijvoorbeeld het nieuwe Azure-abonnement) moet de micro soft-klant overeenkomst worden bevestigd.|
-|31 januari 2020|Microsoft Cloud overeenkomst verwijderd uit productie|De Microsoft Cloud overeenkomst wordt niet meer geaccepteerd binnen het CSP-partner programma. Voor nieuwe aankopen en wijzigingen in het aantal licenties voor bestaande abonnementen moet de partner bevestigen dat de micro soft-klant overeenkomst moet worden bevestigd. Deze vereiste is van toepassing op nieuwe klanten en bestaande klanten die de Microsoft Cloud overeenkomst mogelijk eerder hebben geaccepteerd.|
-|3 februari 2020|Partner heeft nu de mogelijkheid om de klant via een URL uit te nodigen om de overeenkomst in geverifieerde Microsoft 365-beheer centrum te bekijken en te accepteren. | De klant kan de klant overeenkomst van micro soft accepteren in Microsoft 365 beheer centrum. Directe acceptatie van de klant van de overeenkomst in Microsoft 365 beheer centrum bevestigt de goed keuring van de voor waarden. 
+Er zijn twee scenario's waarbij klanten de micro soft-klant overeenkomst mogelijk niet direct kunnen accepteren binnen het Microsoft 365-beheer centrum.
+
+**Scenario 1**: een bestaande klant heeft een van de volgende gekocht via een bestaande partner relationship: aanbiedingen, software-of software-abonnementen, gereserveerde instanties of Azure-abonnement. De klant probeert nu een nieuwe aankoop te maken (met uitzonde ring van automatische verlenging). Wanneer die klant op de URL klikt, ontvangt het bericht ' Neem contact op met uw partner om te bevestigen dat u de micro soft-klant overeenkomst accepteert. '  
+
+**Om dit op te lossen**, moet u namens de klant een verklaring doen.
+
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Scherm opname van Microsoft 365 beheer centrum pagina waarin u wordt gevraagd om uw partner te bereiken om acceptatie van de micro soft-klant overeenkomst te bevestigen.":::
+
+**Scenario 2**: een bestaande klant heeft een van de volgende aanbiedingen gekocht, software-en software-abonnementen, gereserveerde instanties en Azure-abonnement. De klant probeert nu een nieuwe aankoop te doen met een nieuwe partner.
+
+Wanneer de klant op de URL klikt om het beheer centrum te Microsoft 365 om de nieuwe partner relatie en de overeenkomst te accepteren, ontvangen ze het bericht ' Neem contact op met uw partner om te bevestigen dat de micro soft-klant overeenkomst wordt geaccepteerd. '  
+
+**Om dit op te lossen**, moet u namens de klant een verklaring doen.  
+
+## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Bevestigen dat een klant de overeenkomst heeft geaccepteerd
+
+Als u probeert een nieuwe bestelling te maken voor een bestaande klant die u nog niet eerder hebt bevestigd, ontvangt u een prompt om de bevestiging te volt ooien. Gebruik de volgende procedure om dit te doen.
+
+1. Voer de **voor naam**, **Achternaam**, het **e-mail adres** en het **telefoon nummer** (optioneel) in van de gebruiker die de overeenkomst heeft geaccepteerd.
+
+2. Voer bij **acceptatie datum** van de overeenkomst de juiste datum in. U kunt dit niet instellen op een datum in de toekomst.
+
+3. Selecteer **Opslaan en doorgaan**. 
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [De gegevens van uw bedrijfs profiel controleren of bijwerken](update-your-partner-profile.md)
+- [Microsoft-klantovereenkomsten (op regio, taal)](Agreements.md)

@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215744"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633859"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Uw bedrijfs gegevens weer geven met de Partner Center Analytics-App voor micro soft Power BI
 
@@ -24,7 +24,7 @@ ms.locfileid: "98215744"
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Verkoop agent
 - Beheer agent
 
@@ -48,7 +48,7 @@ Maak een visuele representatie van uw bedrijfs gegevens met de Partner Center An
 
 - Alle geschatte kosten zijn facturen voor facturering/factuur vooraf en zijn niet juridisch bindend. Geschatte kosten zijn alleen bedoeld voor gebruik voor data Insights.
 
-- Klant gegevens zijn gebaseerd op abonnementen. Klanten waarvoor u onlangs accounts hebt gemaakt, maar die nog geen abonnementen hebben, worden niet opgenomen in het aantal.
+- Klant gegevens zijn gebaseerd op abonnementen. Klanten waarvoor u onlangs accounts hebt gemaakt, maar die nog geen abonnementen hebben, worden niet opgenomen in aantallen.
 
 - De geschatte kosten zijn gebaseerd op de meest recente tarief kaart, die is gebaseerd op CSP-prijzen.
 

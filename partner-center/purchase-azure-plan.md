@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215897"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633825"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Koop het Azure-abonnement voor klanten & de nieuwste Azure-Services te openen met betalen per gebruik-tarieven
 
 **Juiste rollen**
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Verkoop agent
 
 Wanneer u een Azure-abonnement aanschaft voor uw klanten onder de klant overeenkomst van micro soft, hebt u toegang tot de volledige catalogus van de nieuwste Azure-Services met betalen per gebruik-tarieven. CSP-partners hebben nu toegang tot een Azure-service wanneer deze algemeen beschikbaar wordt. Een partner kan meerdere Azure-abonnementen hebben onder een Azure-abonnement. 
@@ -79,7 +79,7 @@ Azure-reserve ringen moeten worden gekoppeld aan een actief Azure-abonnement. Ki
 >Als de klant nog geen actief Azure-abonnement heeft, selecteert u Azure om er nu een toe te voegen. Lees [Azure-reserve ringen](azure-reservations-buying.md#purchase-azure-reservations)voor meer instructies.
 
 >[!Note]
->Een reserverings bereik kan alleen worden ingesteld op **gedeeld**, momenteel in het partner centrum. Als u het bereik voor één abonnement wilt selecteren of als u een update van gedeeld naar één abonnement-bereik wilt gebruiken, gaat u naar **Microsoft Azure beheer Portal** met behulp van 
+>Een reserverings bereik kan alleen worden ingesteld op **gedeeld**, momenteel in het partner centrum. Als u het bereik voor één abonnement wilt selecteren of als u een update wilt gebruiken van gedeeld naar een enkel abonnement, gaat u met de volgende instructies naar **Microsoft Azure beheer Portal** . 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Instelling voor reserve ring van gedeelde Scope":::
 

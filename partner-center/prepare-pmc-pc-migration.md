@@ -9,18 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528536"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633876"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Bereid u voor op uw overstap van Partner Membership Center (PMC) naar het partner centrum
 
 **Juiste rollen**
+
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Verkoop agent
 - Beheer agent
 
@@ -120,7 +121,7 @@ Hoewel gast gebruikers met behulp van de MPN-beheerder of globale beheerder kunn
 
 ### <a name="how-should-we-manage-our-mcp-associations-and-our-partner-university-access"></a>Hoe moeten we onze MCP-koppelingen en onze partner University-toegang beheren?
 
-Er zijn geen wijzigingen in MCP-koppelingen die van PMC worden verplaatst. Nieuwe nieuwe werk nemers na het verplaatsen naar het partner centrum moeten echter worden gekoppeld in het partner centrum. Al uw partner University-machtigingen voor bestaande gebruikers blijven behouden, maar nieuwe mede werkers moeten naar [het trainings centrum](https://partner.microsoft.com/training) gaan voor informatie over het verkrijgen van toegang tot partner University.
+Er zijn geen wijzigingen in MCP-koppelingen die van PMC worden verplaatst. Nieuwe werk nemers na het verplaatsen naar het partner centrum moeten echter worden gekoppeld in het partner centrum. Al uw partner University-machtigingen voor bestaande gebruikers blijven behouden, maar nieuwe mede werkers moeten naar [het trainings centrum](https://partner.microsoft.com/training) gaan voor informatie over het verkrijgen van toegang tot partner University.
 
 ### <a name="how-do-i-view-mcp-information-once-i-move-to-partner-center"></a>MCP-gegevens Hoe kan ik weer geven nadat ik mijn partner centrum heb verplaatst?
 
@@ -158,7 +159,7 @@ Uw bedrijf kan net zoveel zakelijke profielen maken als u nodig hebt om de belan
 
 ### <a name="how-will-referrals-be-assigned-what-changes-can-i-expect-for-example-if-i-have-a-global-company-in-one-market-and-locations-in-other-markets-how-will-referrals-be-assigned"></a>Hoe worden verwijzingen toegewezen, welke wijzigingen kan ik verwachten? Als ik bijvoorbeeld een wereld wijd bedrijf op de ene markt en locaties op andere markten heb, hoe worden er verwijzingen worden toegewezen?
 
-Verwijzingen worden toegewezen op basis van de zoek parameters die de klant definieert. Ongeacht of u één locatie of veel hebt, als de klanten een gewenste locatie opgeven en u een bedrijf hebt dat aan de andere para meters voldoet, gaat de verwijzing naar die locatie.
+Verwijzingen worden toegewezen op basis van de zoek parameters die de klant definieert. Ongeacht of u één locatie of veel hebt, als de klant een gewenste locatie heeft opgegeven en u een bedrijf hebt dat aan de andere para meters voldoet, gaat de verwijzing naar die locatie.
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>Ik Migreer naar het partner centrum vanuit Rusland. Ik krijg een fout bericht over web direct. Hoe kan ik wilt u door gaan met de migratie?
 

@@ -10,25 +10,27 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215846"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633689"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Install and preview the Partner Center Analytics app for Microsoft Power BI (Partner Center Analytics-app voor Microsoft Power BI installeren en preview bekijken)
 
 
 **Juiste rollen**
--   Globale beheerder
--   Gebruikersbeheerder
--   Verkoop agent
--   Beheer agent
+
+- Globale beheerder
+- Beheerder van gebruikers beheer
+- Verkoop agent
+- Beheer agent
 
 ## <a name="before-you-begin"></a>Voordat u begint
 
 Selecteer de toepassing die het meest relevant is voor uw bedrijf in de volgende lijst met beschik bare Power BI-apps:
+
 - [Directe provider](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [Indirecte provider](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
@@ -49,25 +51,25 @@ Zorg ervoor dat u voldoet aan de volgende vereisten voordat u de preview-versie 
 
 ## <a name="to-install-the-app"></a>De app installeren
 
-1. Klik in de bovenstaande sectie op de bron koppeling van de app die u hebt gegeven (direct provider/indirecte provider/indirecte reseller).
+1. Selecteer de betreffende app-bron koppeling (direct provider/indirecte leverancier/indirecte wederverkoper) in de bovenstaande sectie.
 
-2. Klik op **nu downloaden**. 
+2. Selecteer **nu downloaden**. 
 
-3. Klik op **door gaan** om de voor waarden te accepteren.
+3. Ga akkoord met de voor waarden door **door gaan** te selecteren.
 
 4. Onder al een account? Selecteer **Aanmelden**.
 
-5. Voer op de volgende pagina uw Power BI gebruikers naam en wacht woord in en selecteer aanmelden.
+5. Voer op de volgende pagina uw Power BI gebruikers naam en wacht woord in en selecteer **Aanmelden**.
 
 6. Installeer de werk ruimte door de naam van de werk ruimte op te geven.
 
 7. U vindt de sjabloon apps die zijn geïnstalleerd onder de sectie apps.
 
-8. Klik op apps en kies de geïnstalleerde apps.
+8. Selecteer **apps** en kies de geïnstalleerde apps.
 
 9. Aan de slag met uw nieuwe app-scherm wordt geopend.
 
-10. Klik op **verbinden** om verbinding te maken met de gegevens.
+10. Selecteer **verbinding maken** om verbinding te maken met de gegevens.
 
 11. Controleer in het pop-upvenster **verbinding maken met partner Center Analytics** of de **verificatie methode** is ingesteld op **oAuth2** of selecteer **oAuth2** in de lijst als dat niet het geval is. 
 

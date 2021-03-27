@@ -1,7 +1,7 @@
 ---
 title: Uw afstemmings bestanden gebruiken
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: Meer informatie over reconciliatie bestanden in het partner centrum en het interpreteren van gedetailleerde weer gaven van het regel item van kosten voor een bepaalde facturerings cyclus.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022771"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633893"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Meer informatie over het lezen van regel items in uw partner centrum-afstemmings bestanden
 
@@ -56,6 +56,27 @@ Volg deze stappen voor het oplossen van problemen met de opmaak in uw afstemming
 
 Afstemmings bestanden kunnen erg groot zijn en soms moeilijk te downloaden. Zie [factuur regel items ophalen](/partner-center/develop/get-invoiceline-items)om de afstemmings bestanden via een programma te downloaden.
 
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Als uw bestand de rijlimiet in Excel overschrijdt
+
+Als u een afstemmings bestand kunt downloaden, maar niet in micro soft Excel wilt openen, betekent dit waarschijnlijk dat het bestand meer rijen bevat dan Excel toestaat. Als dit het geval is, kunt u een van de onderstaande procedures gebruiken om het bestand te openen.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Een afstemmings bestand openen in Power BI
+
+1. Down load het afstemmings bestand zoals u dat gewend bent.
+2. Down load, installeer en open een exemplaar van Power BI.
+3. Selecteer op het tabblad Power BI **Start** de optie **gegevens ophalen**.
+4. Selecteer in de lijst met **algemene gegevens bronnen** de optie **tekst/CSV**.
+5. Open uw afstemmings bestand wanneer u hierom wordt gevraagd.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Een afstemmings bestand openen in een Excel-draai tabel
+
+1. Down load het afstemmings bestand zoals u dat gewend bent.
+2. Open een nieuw bestand in micro soft Excel.
+3. Op het tabblad **gegevens** selecteert u **gegevens ophalen**, selecteert u **uit bestand** en selecteert u vervolgens **tekst/CSV**.
+4. Open uw afstemmings bestand wanneer u hierom wordt gevraagd. Uw gegevens worden weer gegeven.
+5. Selecteer in de vervolg keuzelijst **laden** de optie **laden naar** en klik vervolgens op **OK**.
+6. Selecteer in het dialoog venster **gegevens importeren** het **draai tabel rapport** om het bestand te openen.
+
 ## <a name="map-taxes-or-vat"></a>Belastingen of BTW toewijzen
 
 BTW of belasting toegevoegde waarde (BTW) toewijzen aan uw factuur:
@@ -67,7 +88,7 @@ BTW of belasting toegevoegde waarde (BTW) toewijzen aan uw factuur:
 
 Partners in het **indirecte model** kunnen deze extra velden gebruiken in zowel op licenties gebaseerde afstemmings bestanden als voor het specificeren van de bestanden op reseller.
 
-| MPN-id | Beschrijving |
+| MPN-id | Description |
 | ------ | ----------- |
 | MPN-id | De Microsoft Partner Network-ID (MPN) van de Cloud Solution Provider (CSP)-partner (direct of indirect). |
 | [Reseller MPN-ID](#reseller-mpn-id) | De [MPN-id van de dealer van de record voor het abonnement](#reseller-mpn-id). Dit veld komt overeen met de wederverkoper-ID die wordt vermeld voor het specifieke abonnement in partner centrum. Wordt alleen weer gegeven voor reconciliatie bestanden voor partners in het indirecte model. |

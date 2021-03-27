@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281285"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633757"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prijzen en aanbiedingen voor Office 365, Dynamics CRM, Enter prise Mobility Suite, Azure en meer
 
@@ -22,7 +22,7 @@ ms.locfileid: "100281285"
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - MPN-partner beheerder
 - Verkoop agent
@@ -30,7 +30,7 @@ ms.locfileid: "100281285"
 
 Als u de nieuwste Program ma's en aanbiedingen van de Cloud solution provider wilt bekijken, gaat u in de Partner Portal naar **verkoop > prijzen en aanbiedingen**. U vindt afzonderlijke prijs lijsten voor de verschillende soorten producten die beschikbaar zijn. De volgende prijs lijsten zijn beschikbaar op de pagina **prijzen en aanbiedingen** :
 
-- **Services op basis van licenties** bevatten prijs informatie voor Office 365, Enter prise Mobility en Security E3, evenals Dynamics 365. De sectie prijs op basis van licenties omvat de huidige en preview-prijzen en de lijst matrix van de aanbieding. Prijs lijsten bevatten een lijst prijs en geschatte prijzen voor winkels (ERP) voor aanbiedingen in alle ondersteunde valuta's. De lijst matrix met aanbiedingen bevat Beschik baarheid in de markt en andere belang rijke informatie over de aanbiedingen. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
+- **Services op basis van licenties** bevatten prijs informatie voor Office 365, Enter prise Mobility en Security E3, evenals en Dynamics 365. De sectie prijs op basis van licenties omvat de huidige en preview-prijzen en de lijst matrix van de aanbieding. Prijs lijsten bevatten een lijst prijs en geschatte prijzen voor winkels (ERP) voor aanbiedingen in alle ondersteunde valuta's. De lijst matrix met aanbiedingen bevat Beschik baarheid in de markt en andere belang rijke informatie over de aanbiedingen. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
 - **Op gebruik gebaseerde services** bevatten prijs informatie voor Microsoft Azure en Visual Studio. U kunt ook de [Azure-Services in de CSP-prijs calculator](https://azure.microsoft.com/pricing/calculator/)gebruiken. De op gebruik gebaseerde down load omvat zowel de CSP-prijs lijst voor alle ondersteunde valuta's als de prijs bestanden voor de gedeelde services in ERP. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
 - **Microsoft Azure gereserveerde instanties** bevatten prijs informatie voor alle ondersteunde Valuta's voor gereserveerde instanties van Azure. De prijs down load omvat ook de prijzen voor Shared Services in ERP. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
 - **Software abonnementen** omvatten prijzen voor software-abonnementen op basis van termen voor alle ondersteunde valuta's. Het prijs bestand bevat alle ondersteunde valuta's met de lijst prijs en MSRP. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
@@ -95,7 +95,7 @@ Partner marges, het verschil tussen de lijst prijs en de geschatte prijzen van d
 
 ## <a name="add-on-offer-types"></a>Typen aanbod toevoegen
 
-Services op basis van licenties kunnen worden verkregen als basis aanbiedingen of invoeg toepassingen. Alleen basis aanbiedingen kunnen worden gedetecteerd en tevens via de catalogus van de partner centrum. Invoeg toepassingen moeten worden toegepast nadat de basis aanbiedingen zijn gekocht. De kolom met het secundaire licentie **type** voor een prijs lijst op basis van licentie bevat informatie over elke aanbieding en het bijbehorende type. Basis aanbiedingen hebben **niet-specifieke** waarden in de kolom prijs lijst secundair licentie type en kunnen worden aangeschaft in de catalogus. De waarden van het secundaire licentie type van de **invoeg toepassing** kunnen niet worden aangeschaft in de catalogus. Deze invoeg toepassingen kopen:
+Services op basis van licenties kunnen worden verkregen als basis aanbiedingen of invoeg toepassingen. Alleen basis aanbiedingen kunnen worden gedetecteerd en tevens via de catalogus van de partner centrum. U moet invoeg toepassingen Toep assen na de aankoop van de basis aanbiedingen. De kolom met het secundaire licentie **type** voor een prijs lijst op basis van licentie bevat informatie over elke aanbieding en het bijbehorende type. Basis aanbiedingen hebben **niet-specifieke** waarden in de kolom prijs lijst secundair licentie type en kunnen worden aangeschaft in de catalogus. De waarden van het secundaire licentie type van de **invoeg toepassing** kunnen niet worden aangeschaft in de catalogus. Deze invoeg toepassingen kopen:
 
 1. Raadpleeg de matrix voor de aanbiedings lijst voor een overzicht van de aanbiedings-id's die moeten worden aangeschaft voordat u een invoeg toepassing kunt aanschaffen.
 2. De basis aanbieding kopen vanuit de catalogus
@@ -143,9 +143,9 @@ Alle prijzen in het Partner Center CSP-prijs lijsten zijn inclusief BTW. Voor me
 
 ### <a name="36-month-offers"></a>36 maand aanbiedingen
 
-Er zijn ongeveer 50 Dynamics-aanbiedingen die drie jaar voor waarden hebben. Deze worden aangeduid door **(36 Mo)** in de titel van de aanbiedingen. Deze aanbiedingen zijn vergelijkbaar met de aanbiedingen voor de jaar periode. Het enige verschil is rond de term. Deze aanbiedingen hebben een periode van drie jaar, wat betekent dat de abonnementen automatisch worden verlengd na drie jaar in plaats van één. Hieronder vindt u een overzicht van de werking van deze aanbiedingen:
+Er zijn ongeveer 50 Dynamics-aanbiedingen die drie jaar voor waarden hebben. Deze worden aangeduid door **(36 Mo)** in de titel van de aanbiedingen. Deze aanbiedingen zijn vergelijkbaar met de aanbiedingen voor de jaar periode. Het enige verschil is rond de term. Deze aanbiedingen hebben een periode van drie jaar, zodat de abonnementen automatisch worden verlengd na drie jaar in plaats van één. Hieronder vindt u een overzicht van de werking van deze aanbiedingen:
 
-- Voor waarden zijn 36 maanden, abonnementen worden na drie jaar automatisch verlengd
+- Voor waarden zijn 36 maanden, abonnementen worden automatisch verlengd na drie jaar
 - Partners kunnen het aantal licenties voor de hele periode van het abonnement annuleren of wijzigen
 - Jaarlijks verlenging geldt voor de prijs van de aankoop tijd voor de periode van drie jaar
 - Facturerings frequentie is nog jaarlijks of maandelijks
@@ -162,11 +162,11 @@ Microsoft 365 a1 base aanbieding heeft een termijn van zes jaar.  De Office 365 
 
 Hieronder vindt u een overzicht van de werking van deze aanbiedingen:
 
-- De termijn is 72 maanden of 6 jaar
-- Het abonnement wordt niet verlengd en verloopt na 6 jaar
+- De termijn is 72 maanden of zes jaar
+- Het abonnement wordt niet verlengd en verloopt na zes jaar
 - De facturerings frequentie voor de aanbieding wordt per jaar weer gegeven, maar de partner wordt gefactureerd op basis van de eerste factuur na het ophalen van het abonnement
 - Abonnementen voor a1 72-months zijn na de aankoop vergrendeld en kunnen niet worden geannuleerd en kunnen geen licentie aantallen aan het abonnement worden toegevoegd na de eerste aankoop
-- Dit abonnement kan niet worden geannuleerd en kan niet worden terugbetaald.
+- Dit abonnement kan niet worden geannuleerd en niet worden terugbetaald.
 
 ## <a name="estimated-retail-price-erp"></a>Geschatte detailhandels prijs (ERP)
 

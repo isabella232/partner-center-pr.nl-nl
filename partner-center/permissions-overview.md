@@ -9,19 +9,19 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: a6e6424dfb787bbe9510d47299f945309dd00528
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756460"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633910"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Gebruikers rollen en-machtigingen toewijzen aan gebruikers van een bedrijf die moeten werken in het partner centrum
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - MPN-partner beheerder
 
 U hebt uw partner profiel ingesteld, inclusief de juridische naam en het adres, de ondersteunings Details, de bestands belasting, de Bank gegevens en de primaire contact persoon van uw bedrijf. Volgende stap: laat uw gebruikers instellen met wacht woorden en rollen, zodat ze met u kunnen werken in het partner centrum.

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7488720bf0028dcccd86ee51b18d2a42b753e76
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215829"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633842"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Technische ondersteuning bieden waarmee klanten hun abonnementen kunnen configureren, beheren en gebruiken
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215829"
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Helpdesk medewerker
 - Beheer agent
 
@@ -45,9 +45,9 @@ In Partner Center kunt u het volgende doen:
 
 Partners die in het CSP-model handelen, zijn de vertrouwde Advisor voor hun klanten en zijn eigenaar van de relatie end-to-end, met inbegrip van ondersteuning wanneer hun klant een vraag of probleem heeft. Via ondersteuning voor aanraak punten kunnen partners meer informatie krijgen over de klant en hun bedrijf, om nieuwe services en oplossingen te identificeren die de waarde ondersteunen.
 
-Om aan de ondersteunings vereisten te voldoen, kan de partner ondersteuning van een andere entiteit door lopen, ze kunnen een volledige of een deel van hun ondersteunings structuur uitbesteden en/of ze kunnen een structuur instellen om direct ondersteuning te bieden.  De partner kan in rekening worden gebracht voor alle of een deel van de ondersteuning die aan klanten wordt geboden. De partner moet aan hun klanten samen werken met de ondersteuning die ze bieden, de service-uren en de contact methode, evenals de prijzen (als de kosten voor ondersteuning worden geloosd). 
+Om aan de ondersteunings vereisten te voldoen, kan de partner ondersteuning van een andere entiteit door lopen, ze kunnen een volledige of een deel van hun ondersteunings structuur uitbesteden en/of ze kunnen een structuur instellen om direct ondersteuning te bieden.  De partner kan in rekening worden gebracht voor alle of een deel van de ondersteuning die aan klanten wordt geboden. De partner moet aan hun klanten samen werken met de ondersteuning die ze bieden, de service-uren en de contact methode en de prijzen (als de kosten voor ondersteuning worden geloosd). 
 
-Partners zijn verplicht om inkomende ondersteunings aanvragen van klanten te ontvangen, problemen op te sporen voor het beste van de partner en vervolgens problemen op te lossen die binnen het bereik van de grenzen voor basislijn ondersteuning vallen. Als de partner een probleem niet kan oplossen, kunnen ze problemen naar micro soft escaleren via de volgende ondersteunings voertuigen:
+Partners moeten inkomende ondersteunings aanvragen van klanten ontvangen, problemen met het beste van de partner kunnen vaststellen en vervolgens problemen oplossen die binnen het bereik van de grenzen voor basislijn ondersteuning vallen. Als de partner een probleem niet kan oplossen, kunnen ze problemen naar micro soft escaleren via de volgende ondersteunings voertuigen:
 
 - Ondersteuning voor **commerciële** problemen is beschikbaar voor alle partners in het CSP-programma
 
