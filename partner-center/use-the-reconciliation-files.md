@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633893"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730076"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Meer informatie over het lezen van regel items in uw partner centrum-afstemmings bestanden
 
@@ -77,6 +77,15 @@ Als u een afstemmings bestand kunt downloaden, maar niet in micro soft Excel wil
 5. Selecteer in de vervolg keuzelijst **laden** de optie **laden naar** en klik vervolgens op **OK**.
 6. Selecteer in het dialoog venster **gegevens importeren** het **draai tabel rapport** om het bestand te openen.
 
+## <a name="negative-amount-displayed"></a>Weer gegeven negatief bedrag
+
+Mogelijk wordt er een negatief bedrag in het afstemmings bestand weer geven. Dit wordt waarschijnlijk veroorzaakt door een van de volgende dingen:
+
+- U hebt uw aantal licenties onlangs geannuleerd of gereduceerd
+- U hebt een tegoed ontvangen voor een service licentieovereenkomst (SLA) of voor Azure-verbruik
+
+Als u meer informatie wilt over deze trans actie, controleert u het kenmerk van het type kosten in het afstemmings bestand.
+
 ## <a name="map-taxes-or-vat"></a>Belastingen of BTW toewijzen
 
 BTW of belasting toegevoegde waarde (BTW) toewijzen aan uw factuur:
@@ -88,7 +97,7 @@ BTW of belasting toegevoegde waarde (BTW) toewijzen aan uw factuur:
 
 Partners in het **indirecte model** kunnen deze extra velden gebruiken in zowel op licenties gebaseerde afstemmings bestanden als voor het specificeren van de bestanden op reseller.
 
-| MPN-id | Description |
+| MPN-id | Beschrijving |
 | ------ | ----------- |
 | MPN-id | De Microsoft Partner Network-ID (MPN) van de Cloud Solution Provider (CSP)-partner (direct of indirect). |
 | [Reseller MPN-ID](#reseller-mpn-id) | De [MPN-id van de dealer van de record voor het abonnement](#reseller-mpn-id). Dit veld komt overeen met de wederverkoper-ID die wordt vermeld voor het specifieke abonnement in partner centrum. Wordt alleen weer gegeven voor reconciliatie bestanden voor partners in het indirecte model. |

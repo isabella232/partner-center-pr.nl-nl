@@ -1,7 +1,7 @@
 ---
 title: Bijdrage indicatoren van partners-dit
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Meer informatie over zeven bijdragen aan de partner (PCI) die partners tonen over het bereiken van een Silver-of Gold Cloud Business Applications competentie.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193644"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730260"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Gebruik partner-bijdrage indicatoren om de Cloud Business Applications competentie te bereiken
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193644"
 - Accountbeheerder
 
 In dit artikel worden zeven belang rijke partner contributies (PCI) beschreven die worden gebruikt om de voortgang van een partner te beoordelen bij het bereiken of behouden van een Silver-of Gold-Cloud Business Applications competentie.
+
+U kunt de voortgang van de PCI bekijken in het dash board voor de partner bijdragen. De gegevens worden bijgewerkt op de 20e van elke maand, met de gegevens van de vorige maand. Zo worden de gegevens van februari op 20 maart gepubliceerd.
 
 > [!NOTE]
 > Ontdek hoe partners een andere set van metrische gegevens bijdragen kunnen gebruiken om de midmarket van de Silver-of Gold-en Cloud oplossingen te bereiken met behulp van de Cloud Business Applications SMB-optie. Zie voor meer informatie [partner bijdrage indicatoren gebruiken voor de kleine en midmarket cloud oplossingen competentie](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md). U kunt ook [meer lezen](https://partner.microsoft.com/membership/competencies) over competenties en hun vereisten.
@@ -109,6 +111,20 @@ De volgende afbeelding bevat een snelle en visuele verwijzing.
 
 Elke PCI-metriek heeft micro soft-ingestelde drempel waarden die de maximum punten van uw bedrijf kunnen verdienen. Deze drempel waarden wijken af van de klant betrokkenheid en de bewerkings paden die worden gebruikt om de Cloud Business Applications competentie te bereiken. De drempel waarden zijn ook verschillend voor partners die in ontwikkelde markten opereren tegenover partners die uitsluitend zijn ontworpen op het ontwikkelen van markten. De **ontwikkelde** of **ontwikkelende** markt categorisatie van een land is gebaseerd op de [Microsoft Partner Network definities](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
+Houd er rekening mee dat 4 metrische gegevens worden gemeten op basis van de locatie waar de partner zakendoet, en niet waar de locatie van de MPN is geregistreerd. Dit betekent dat een partner die is geregistreerd in een ontwikkelings markt, die klanten heeft van een ontwikkelde markt, moet voldoen aan de PCI-score voor ontwikkelde landen.
+
+In de volgende tabel ziet u welke locatie van toepassing is op metrische gegevens.
+
+| Naam van metrische gegevens | Locatie |
+|:-------|:--------|
+| Nieuwe netto-omzet | Locatie van klant |
+| Net klant toevoegen | Locatie van klant |
+| Functionele consultant | Partner locatie |
+| Ontwikkelaar | Partner locatie |
+| Groei van functionele consultant | Partner locatie |
+| MAU-groei | Locatie van klant |
+| Nieuwe grote implementaties | Locatie van klant |
+
 Punten over elke metriek worden berekend voor het leveren van een afzonderlijke PCI-score voor klant betrokkenheid en financiële middelen en bewerkingen. Deze score wordt maandelijks bijgewerkt.
 
 Partners kunnen het maximum aantal punten voor een bepaalde metriek verdienen als ze voldoen aan de hieronder vermelde drempel waarden. Gedeeltelijke punten kunnen worden behaald voor alle metrische gegevens, met uitzonde ring van functionele consultant groei.
@@ -160,7 +176,7 @@ Een partner wordt de CPOR als deze koppeling heeft gemaakt met een klant op het 
 Een partner wordt de DPOR als ze een koppeling hebben gemaakt met een klant op abonnements niveau binnen het product.
 
 > [!NOTE]
-> Als zowel CPOR als DPOR bestaan voor een bepaald klant abonnement, ontvangt de CPOR een tegoed voor de relevante PCI-metrische gegevens die aan het abonnement zijn gekoppeld. Als de koppeling via OSA werd gemaakt, ontvangt de CPOR het tegoed voor net nieuwe inkomsten en net klanten toevoegen. Als de koppeling via OSU, ontvangt de CPOR het tegoed voor nieuwe implementaties en maandelijkse actieve gebruikers groei.
+> Als zowel CPOR als DPOR bestaan voor een bepaald klant abonnement, ontvangt de CPOR een tegoed voor de relevante PCI-metrische gegevens die aan het abonnement zijn gekoppeld. Als de koppeling via OSA (opbrengst claim) werd ontvangen, ontvangt de CPOR het tegoed voor net nieuwe omzet en netto klant toevoegingen. Als de koppeling is via OSU (gebruiks claim), ontvangt de CPOR het tegoed voor nieuwe implementaties en maandelijkse actieve gebruikers groei. Pre-Sales claims komen niet in aanmerking voor PCI.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Gedetailleerde definities van PCI-metrische gegevens voor deze competentie
 
@@ -324,9 +340,10 @@ Nieuwe grote implementaties vormen een [succes indicator](partner-contribution-i
   
   (Zie deze [Microsoft Partner Network definities](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)voor meer informatie over ontwikkelde en ontwikkelings markten.)
 
-- Een Tenant wordt beschouwd als een overschrijding van de maandelijkse actieve gebruikers drempel als de Tenant: 
+- Een Tenant wordt beschouwd als een overschrijding van de maandelijkse actieve gebruikers drempel als de Tenant:
 
-  - Onder de opgegeven drempel waarde van 12 maanden geleden *en*
+  - Onder de opgegeven drempel waarde van 12 maanden geleden **en**
+
   - Overschrijdt de drempel waarde ten minste één keer per daaropvolgende 11 maanden.
 
 - Maandelijkse actieve gebruikers worden geteld op Tenant niveau en alleen in de betaalde abonnementen onder de Tenant opgeteld.

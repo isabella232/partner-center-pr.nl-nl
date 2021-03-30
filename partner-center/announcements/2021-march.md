@@ -9,16 +9,59 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/24/2021
-ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: e2e40807ddeb7fc3aa0fcfb20f34eb71d0a9e118
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549070"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730077"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft partner centrum voor maart 2021.
+
+________________
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Nieuwe versie van het Exchange-beheer centrum (SBV)
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-29
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Vanaf 27 april 2021 wordt in het Exchange-beheer centrum (SBV) een nieuwe ervaring geïntroduceerd waarmee de dagelijkse efficiëntie voor gebruikers wordt verbeterd.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Gedelegeerde beheerders hebben toegang tot Exchange via partner centrum
+
+### <a name="details"></a>Details
+
+Vanaf 27 april 2021 worden partners die navigeren naar Exchange via partner Center, omgeleid naar de nieuwe SBV.
+
+Deze nieuwe ervaring is momenteel beschikbaar als preview-versie en beheerders kunnen deze ervaring activeren door de in de rechter bovenhoek van de klassieke SBV te selecteren. Ze kunnen ook naar de nieuwe SBV navigeren door de banner ' nu uitproberen ' te selecteren die op alle pagina's wordt weer gegeven.
+
+De voor delen van de nieuwe SBV zijn onder andere:
+
+- Er zijn inzichten, rapporten en waarschuwings mechanismen toegevoegd voor problemen met betrekking tot de mail stroom. 
+
+- Persoonlijke Dash boards om de productiviteit te verg Roten.
+
+Om u te helpen door de nieuwe ervaring, zijn er Video's beschikbaar in het gedeelte **Training & Guide** van de nieuwe SBV-ervaring. Op deze manier krijgt u een overzicht van hoe u de nieuwe portal het beste kunt gebruiken.
+
+>[!NOTE]
+>Met deze wijziging wordt de klassieke SBV-ervaring niet afgeschaft. Voordat u een wijziging implementeert, wordt u vooraf op de hoogte gebracht.
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Bekijk de [bronnen over dit onderwerp](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/), waar u scherm afbeeldingen van de nieuwe ervaring kunt weer geven.
+
+- Deel deze informatie met de juiste belanghebbenden in uw organisatie. 
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante Yammer-community's voor vragen over deze wijzigingen.
 
 ________________
 ## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Micro soft Operations: introductie van de agenda voor product lancering

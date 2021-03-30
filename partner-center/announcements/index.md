@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549036"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730056"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van maart 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Aanbiedingen/moderne werk plek|[Nieuwe versie van het Exchange-beheer centrum (SBV)](2021-march.md#17)|29 maart|
 |Aanbiedingen/moderne werk plek|[Micro soft Operations: introductie van de agenda voor product lancering](2021-march.md#16)|25 maart|
 |Functies|[Wijzigingen in de vereisten voor de CSP-klant voor bereiding](2021-march.md#15)|25 maart|
 |Aanbiedingen/markten|[Correcties die zijn aangebracht in 1 maart 2021 lijst met permanente software prijzen](2021-march.md#14)|23 maart|
