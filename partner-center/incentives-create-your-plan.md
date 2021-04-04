@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92528393"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179255"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Een marketing plan voor uw prikkel programma genereren
 
-**Van toepassing op:**
-
-- Partnercentrum
-
-**Juiste rollen:**
+**Juiste rollen**
 
 - Prikkel beheerder
 - Factureringsbeheerder
@@ -44,21 +40,21 @@ Raadpleeg de programma gids voor meer informatie over plannen voor uw specifieke
 
 2. Selecteer onder **Incentives** in het linkerdeelvenster **Programma** en selecteer vervolgens uw programma. 
 
-3. Zoek op de pagina **programma** de juiste markt voor uw abonnement en selecteer vervolgens **plan maken** . 
+3. Zoek op de pagina **programma** de juiste markt voor uw abonnement en selecteer vervolgens **plan maken**. 
 
-4. Vul op de pagina **nieuw plan** de vereiste velden in. **Valuta** is de waarde die door het plan moet worden weer gegeven. De e-mail van de **revisor** moet het micro soft-e-mail adres van uw account manager zijn. Er kan slechts één abonnement worden gemaakt per MPN-id, fonds, programma en periode. Selecteer **Opslaan** .
+4. Vul op de pagina **nieuw plan** de vereiste velden in. **Valuta** is de waarde die door het plan moet worden weer gegeven. De e-mail van de **revisor** moet het micro soft-e-mail adres van uw account manager zijn. Er kan slechts één abonnement worden gemaakt per MPN-id, fonds, programma en periode. Selecteer **Opslaan**.
 
 5. Controleer de informatie op de pagina Status van het plan. Selecteer **Bewerken** om gegevens eventueel bij te werken.
 
-6. Wanneer de gegevens op deze pagina juist zijn, selecteert u **nieuwe campagne** .
+6. Wanneer de gegevens op deze pagina juist zijn, selecteert u **nieuwe campagne**.
 
-7. Vul de vereiste velden op de pagina **nieuwe campagne** in en selecteer vervolgens **Opslaan** .
+7. Vul de vereiste velden op de pagina **nieuwe campagne** in en selecteer vervolgens **Opslaan**.
 
-8. Selecteer op de pagina Status de optie **Nieuwe activiteit** . 
+8. Selecteer op de pagina Status de optie **Nieuwe activiteit**. 
 
-9. Vul op de pagina **Nieuwe activiteit** de vereiste velden in. U kunt meerdere landen/regio's selecteren. Wanneer u klaar bent, selecteert u **Opslaan** . 
+9. Vul op de pagina **Nieuwe activiteit** de vereiste velden in. U kunt meerdere landen/regio's selecteren. Wanneer u klaar bent, selecteert u **Opslaan**. 
 
-10. Controleer uw gegevens opnieuw op de pagina Status. Nadat u een plan hebt ingediend, kunt u het niet meer bewerken. Wanneer u klaar bent, selecteert u **Indienen** en selecteert u vervolgens **Bevestigen** .
+10. Controleer uw gegevens opnieuw op de pagina Status. Wanneer u een abonnement hebt ingediend, kunt u dit niet meer bewerken. Wanneer u klaar bent, selecteert u **Indienen** en selecteert u vervolgens **Bevestigen**.
 
 Het plan is nu ingediend. Microsoft informeert uw Incentive-beheerder wanneer het is goedgekeurd of als er aanvullende informatie nodig is. U kunt de voortgang van het plan bekijken in het venster Status van de pagina Status.
 
@@ -68,7 +64,7 @@ Het plan is nu ingediend. Microsoft informeert uw Incentive-beheerder wanneer he
 
 2. Selecteer op de pagina **Incentives** de optie **Planbeheer** en selecteer vervolgens het gewenste programma. De statuspagina wordt geopend.
 
-3. In de sectie **Plannen** wordt de status van elk plan weergegeven in de kolom **Status** .
+3. In de sectie **Plannen** wordt de status van elk plan weergegeven in de kolom **Status**.
 
    Hieronder ziet u de verschillende mogelijke statussen voor uw claim abonnement op CO-niveau.
 
@@ -90,9 +86,9 @@ U moet uw plan maken en indienen op uiterlijk de laatste dag van het jaar waarin
 
 Microsoft betaalt u elke maand op basis van uw inkomsten en de limieten van uw plan. Betalingen vinden plaats op de vijftiende dag van de volgende maand.
 
-Als uw abonnement bijvoorbeeld is goedgekeurd voor $ 10.000 en u $ 5.000 hebt verdiend in de maand april, ontvangt u $ 5.000 op 15 mei.
+Als uw abonnement bijvoorbeeld is goedgekeurd voor $10.000 en u $5.000 in de maand april hebt verdiend, ontvangt u $5.000 op 15 mei.
 
-Als u onder hetzelfde plan $ 15.000 verdient in de maand april, ontvangt u $ 10.000 op 15 mei omdat $ 10.000 de limiet voor uw plan is. Als u meer wilt ontvangen, moet u de limiet van uw plan verhogen voor de volgende maand.
+Als u onder hetzelfde abonnement $15.000 in de maand april, ontvangt u $10.000 op 15 mei, omdat $10.000 de limiet voor uw abonnement is. Als u meer wilt ontvangen, moet u de limiet van uw plan verhogen voor de volgende maand.
 
 ## <a name="next-steps"></a>Volgende stappen
 

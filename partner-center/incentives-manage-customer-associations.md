@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92528376"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179476"
 ---
 # <a name="manage-incentives-customer-associations"></a>Klant koppelingen voor prikkels beheren
 
-**Van toepassing op:**
-
-- Partnercentrum
-
-**Juiste rollen:**
+**Juiste rollen**
 
 - Factureringsbeheerder
 - Globale beheerder
@@ -79,15 +75,15 @@ Als er 30 dagen zijn verstreken en u nog steeds een afgewezen claim wilt betwist
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 2. Open de claim die u wilt betwisten.
-3. Selecteer op de pagina claim de optie **geschil** .
+3. Selecteer op de pagina claim de optie **geschil**.
 4. Voer een zakelijke rechtvaardiging en/of een bijgewerkte PoE in waarin wordt uitgelegd waarom de afwijzing opnieuw moet worden overwogen.
-5. Wanneer u klaar bent met het toevoegen van informatie, selecteert u **Betwisten** . Onze revisoren moeten binnen vijf werk dagen contact met u opnemen met de resultaten.
+5. Wanneer u klaar bent met het toevoegen van informatie, selecteert u **Betwisten**. Onze revisoren moeten binnen vijf werk dagen contact met u opnemen met de resultaten.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Redenen waarom een CPOR-koppelings claim wordt afgewezen
 
 Er zijn drie belang rijke redenen waarom een CPOR-koppelings claim moet worden afgewezen.
 
-**Partner aanvraag:** Partners kunnen aanvragen dat hun koppeling wordt afgewezen. Deze rationele ordening wordt meestal gebruikt wanneer de partner een CPOR-koppelings claim per ongeluk heeft gemaakt met een onjuiste MPN, een onjuiste activiteit heeft gekozen (voor beeld...). U kiest inkomsten koppeling in plaats van vooraf verkochte en werkt niet langer met de klant.
+**Partner aanvraag:** Partners kunnen aanvragen dat hun koppeling wordt afgewezen. Deze rationele ordening wordt meestal gebruikt wanneer de partner een onjuiste MPN heeft gemaakt op basis van een incorrecte CPOR, een onjuiste activiteit heeft gekozen (bijvoorbeeld als u de omzet koppeling hebt gekozen in plaats van vooraf verkoop) of als de klant niet meer werkt.
 
 **Klant afwijzen:** Zodra de CPOR-koppelings claim het samenvatte goedkeurings proces heeft door lopen, wordt de status ervan gewijzigd in goedgekeurd. de klant krijgt de mogelijkheid om toestemming van de koppeling te weigeren. Als de klant toestemming weigert, wordt de koppeling geweigerd.
 
@@ -125,4 +121,4 @@ In de CPOR-koppelings claim bevindt zich aan de rechter kant een knop **geschied
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Aan de slag met prikkels](incentives-get-started-intro.md)
+- [Aan de slag gaan met Incentives](incentives-get-started-intro.md)

@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92528372"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179170"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Gebruik deze bronnen om u te helpen bij het maken van stimulerings plannen en het controleren van de uitvoering
-
-**Van toepassing op**
-
-- Partnercentrum
-- Partners in de Microsoft Partner Network (MPN)
 
 **Juiste rollen**
 
@@ -40,7 +35,7 @@ Met een claim plan op het niveau van een stimulans worden de marketing campagnes
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Wat is een test van de uitvoering (PoE)?
 
-Nadat u voor uw prikkel werkzaamheden hebt betaald, moet u een gedetailleerde test voor de uitvoering (PoE) naar micro soft verzenden. Uw PoE kan informatie bevatten over alle gerelateerde campagnes, de datum waarop een prikkel activiteit heeft plaatsgevonden, de geclaimde hoeveelheid, enzovoort. 
+Nadat u voor uw prikkel werkzaamheden hebt betaald, moet u een gedetailleerde test voor de uitvoering (PoE) naar micro soft verzenden. Uw PoE kan informatie bevatten over alle gerelateerde campagnes, de datum waarop een prikkel activiteit is uitgevoerd en de hoeveelheid die is geclaimd. 
 
 Meer informatie over het [voorbereiden van het uitvoeren van controle](incentives-prepare-your-proof-of-execution.md).
 

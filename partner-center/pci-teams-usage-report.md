@@ -8,16 +8,17 @@ description: Bekijk wat u goed doet en waar u het gebruik kunt verbeteren van te
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147062"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086716"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Gebruiks rapport van teams is beschikbaar via het Partner Center Insights-dash board
 
 **Juiste rollen**
+
 - Globale beheerder
 - Beheer agent
 - Rapport viewer
@@ -51,19 +52,19 @@ In de sectie samen vatting vindt u een overzicht van de belangrijkste indica tor
 
 ## <a name="conversations-trend"></a>Trend van discussies
 
-In de trends in discussies ziet u de maandelijkse trend van teams vergaderingen, oproepen en telefoon systemen, samen met de gemiddelde duur van de vergadering binnen enkele minuten.
+Het trendanalyse rapport van discussies toont de maandelijkse trend van teams vergaderingen, oproepen en telefoon systemen, samen met de gemiddelde duur van de vergadering binnen enkele minuten.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="trends in gebruiks discussie van teams":::
 
 ## <a name="teams-usage-by-workloads"></a>Gebruik van teams per werk belasting
 
-Het gebruik van teams per werk belasting toont de maandelijkse splitsing van Desktop-, mobiele en web-gebruikers van teams, gesplitst op werk belastingen.
+In het rapport teams gebruiken per werk belasting ziet u de maandelijkse gesplitste bureau blad-, mobiele en web-gebruikers van teams, gesplitst op werk belastingen.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Gebruik van teams per werk belasting":::
 
 ## <a name="top-customers-by-usage"></a>Belangrijkste klanten op gebruik
 
-De belangrijkste klanten per gebruik toont het gebruik van de belangrijkste klanten in termen van teams vergaderingen, aanroepen en telefoon systemen en apps van derden.
+Het rapport belangrijkste klanten per gebruik toont het gebruik van de belangrijkste klanten voor teams vergaderingen, aanroepen en telefoon systemen en apps van derden.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Belangrijkste klanten op gebruik":::
 

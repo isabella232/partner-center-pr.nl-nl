@@ -93,6 +93,8 @@
         - name: Demo's voor MPN-partners
           href: mpn-demos.md
           displayName: mpn
+        - name: Voor delen beleid en gebruik-Veelgestelde vragen
+          href: benefits-faq-new.md
         - name: Veelgestelde vragen over de voordelen
           href: benefits-faq.md
           displayName: 'renew, license,'

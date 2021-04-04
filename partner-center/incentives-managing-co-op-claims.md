@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133147"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179153"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Claims voor de mede-op-verzoek beheren
 
-**Van toepassing op:**
-
-- Partnercentrum
-
-**Juiste rollen:**
+**Juiste rollen**
 
 - Prikkel beheerder
 
@@ -65,13 +61,13 @@ Als het materiaal dat u hebt aangeleverd met uw claim voor samenwerking ontoerei
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer onder **stimulansen** voor **co-op-beheer** .
+2. Selecteer onder **stimulansen** voor **co-op-beheer**.
 
 3. Selecteer de claim voor samenwerking die u wilt betwisten. De pagina claim op de co-op wordt geopend.
 
-4. Klik onder aan de pagina op **Betwisten** .
+4. Klik onder aan de pagina op **Betwisten**.
 
-De claim wordt binnen vijf werkdagen door ons validatieteam beoordeeld. Gedurende deze periode heeft de claim de status **Betwist** . We nemen contact met u op als er aanvullende informatie nodig is. Wanneer de evaluatie is voltooid, wordt de status bijgewerkt naar **Goedgekeurd** , **Afgewezen** of **Partneractie vereist** .
+De claim wordt binnen vijf werkdagen door ons validatieteam beoordeeld. Gedurende deze periode heeft de claim de status **Betwist**. We nemen contact met u op als er aanvullende informatie nodig is. Wanneer de evaluatie is voltooid, wordt de status bijgewerkt naar **Goedgekeurd**, **Afgewezen** of **Partneractie vereist**.
 
 ## <a name="next-steps"></a>Volgende stappen
 

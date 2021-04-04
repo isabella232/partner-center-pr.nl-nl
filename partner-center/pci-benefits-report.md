@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92527562"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087005"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport voor delen is beschikbaar via het Partner Center Insights-dash board
 
@@ -43,24 +43,24 @@ U kunt de volgende grafieken in het rapport voor delen visualiseren:
 
 ## <a name="summary"></a>Samenvatting
 
-In het gedeelte samen vatting staan de voor delen die worden verleend met betrekking tot gelicentieerde software, Cloud Services (niet-Azure), Visual Studio-abonnementen, technische ondersteuning en bepaalde go-to-Market Services of aanbiedingen.
+In het gedeelte samen vatting worden de voor delen vermeld die worden verleend met betrekking tot gelicentieerde software, Cloud Services (niet-Azure), Visual Studio-abonnementen, technische ondersteuning en bepaalde go-to-Market-Services of-aanbiedingen.
 
 Voor beeld: lidmaatschaps partners van Microsoft Partner Network (MPN) komen in aanmerking voor technische ondersteuning van on-premises producten en Cloud producten. Partners die een Silver-competentie bereiken, krijgen technische ondersteuning voor 15 incidenten voor on-premises producten. Ze kunnen deze ondersteuning naar behoefte gebruiken. 
 
-:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="overzicht van de pagina voor delen":::
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="samen vatting van voor delen":::
 
 ## <a name="cloud-services-granted"></a>Cloud Services verleend
 
 Dit diagram toont de maandelijkse trend van licenties die zijn verleend tijdens het geselecteerde datum bereik voor abonnementen op basis van licenties van de geselecteerde Cloud service.
 Selecteer een Cloud service op het tabblad **Services** om de grafiek voor een specifieke Cloud service weer te geven. De lijn grafiek vertegenwoordigt de totale licenties die aan uw bedrijf worden verleend.
 
-:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="overzicht van de pagina voor delen":::
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="Cloud Services verleend":::
 
 ## <a name="software-products"></a>Softwareproducten
 
 Dit diagram toont de maandelijkse trend van licenties die zijn verleend tijdens het geselecteerde datum bereik voor een specifiek software product. Selecteer een software product in de vervolg keuzelijst boven op de grafiek om de trend van een specifiek software product weer te geven dat u als voor delen hebt verleend. De lijn grafiek vertegenwoordigt de totale licenties die aan uw bedrijf worden verleend.
 
-:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="overzicht van de pagina voor delen":::
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="verleende software producten":::
 
 ## <a name="visual-studio-subscriptions"></a>Visual Studio-abonnementen
 
@@ -68,15 +68,15 @@ Dit diagram toont de maandelijkse trend van Visual Studio-abonnementen die zijn 
 
 Selecteer een tabblad boven in het diagram om de trend te bekijken van een specifiek Visual Studio-abonnement dat u als voor delen hebt verleend. Kolommen in de grafiek vertegenwoordigen de licenties die voor het abonnement zijn gebruikt. De lijn grafiek vertegenwoordigt de totale licenties die zijn toegewezen aan het abonnement.
 
-:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="overzicht van de pagina voor delen":::
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio-abonnementen":::
 
 ## <a name="technical-benefits"></a>Technische voordelen
 
 Dit diagram toont de maandelijkse trend van de ondersteunings voordelen die zijn verleend tijdens het geselecteerde datum bereik.
 
-Selecteer een tabblad boven in het diagram om de trend van een specifiek ondersteunings voordeel weer te geven dat u hebt gekregen. De lijn grafiek geeft het totale aantal uur aan ondersteuning dat is toegewezen aan het geselecteerde ondersteunings voordeel.
+Selecteer een tabblad boven in het diagram om de trend te bekijken van een specifiek ondersteunings voordeel dat u hebt toegekend. De lijn grafiek geeft het totale aantal uur aan ondersteuning dat is toegewezen aan het geselecteerde ondersteunings voordeel.
 
-:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="overzicht van de pagina voor delen":::
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="technische voor delen":::
 
 ## <a name="go-to-market-offers-or-services"></a>Go-to-Market-aanbiedingen of-services
 
@@ -84,7 +84,7 @@ Dit diagram toont de maandelijkse trend van Go-to-Market-aanbiedingen of service
 
 Selecteer een go-to-Market-aanbieding of service categorie in de vervolg keuzelijst boven aan het diagram om de trend te bekijken van de geselecteerde go-to-Market-services die aan uw bedrijf zijn verleend. Kolommen in de grafiek vertegenwoordigen de gestarte markt aanbiedingen of services die zijn geactiveerd. De lijn grafiek vertegenwoordigt de totale go-to-Market-aanbiedingen of services die aan uw bedrijf worden verleend.
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="overzicht van de pagina voor delen":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Go-to-Market-aanbiedingen":::
 
 ## <a name="next-steps"></a>Volgende stappen
 

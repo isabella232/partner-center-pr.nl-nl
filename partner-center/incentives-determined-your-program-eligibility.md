@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712155"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179213"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Bepaal de geschiktheid van uw prikkel programma
 
-**Juiste rollen**:
+**Juiste rollen**
 
 - Globale beheerder
 - Prikkel beheerder
@@ -40,7 +40,7 @@ De specifieke vereisten voor de geschiktheid voor uw programma vindt u in de pro
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="Scherm afbeelding is een voor beeld van prikkel vereisten.":::
 
-5. U moet alle niet-ingeschakelde gebieden volt ooien om te kunnen voldoen aan de eisen. Elk stimulanss programma heeft zijn eigen set vereisten.
+5. Voltooi alle gebieden die niet zijn ingeschakeld om te voldoen aan het recht. Elk stimulanss programma heeft zijn eigen set vereisten.
 
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -9,24 +9,24 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623997"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087124"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hoe het verdiende tegoed van de partner wordt berekend en betaald
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - Factureringsbeheerder
 - Verkoop agent
 
-De partner die het tegoed voor beheerde services (PEC) heeft behaald, erkent en beloont partners die eigenaar zijn van het operationele beheer en het beheer van onderdelen van, of de volledige Azure-omgeving van hun klanten. In CSP krijgen partners standaard de benodigde toegangs rechten voor het abonnement van de klant, zodat ze 24 X 7 operationeel beheer en beheer van de resources in het abonnement kunnen uitvoeren. In de volgende sectie worden extra manieren beschreven waarop de klant toegang kan inrichten voor het handelen van partners. Het maandelijkse factuurbedrag is het nettobedrag van het tegoed van de partner. Partners kunnen de PEC-gegevens zien op hun maandelijkse afstemmings bestand. Lees [Abonnementen en resources beheren onder het Azure-abonnement](azure-plan-manage.md)voor meer informatie over de manier waarop een klant toegang kan inrichten voor de handelende partner.
+De partner die het tegoed voor beheerde services (PEC) heeft behaald, erkent en beloont partners die eigenaar zijn van het operationele beheer en het beheer van onderdelen van, of de volledige Azure-omgeving van hun klanten. In CSP krijgen partners standaard de benodigde toegangs rechten voor het abonnement van de klant, zodat ze 24 X 7 operationeel beheer en beheer van de resources in het abonnement kunnen uitvoeren. In het volgende gedeelte worden de andere manieren beschreven waarop klanten toegang kunnen inrichten voor transactie partners. Het maandelijkse factuur bedrag is het netto van het tegoed van de partner. Partners kunnen de PEC-gegevens zien op hun maandelijkse afstemmings bestand. Lees [Abonnementen en resources beheren onder het Azure-abonnement](azure-plan-manage.md)voor meer informatie over de manier waarop een klant toegang kan inrichten voor de handelende partner.
 
 Lees ook de [beheerders bevoegdheden voor Azure CSP-abonnementen opnieuw invoeren](revoke-reinstate-csp.md)
 
@@ -66,7 +66,7 @@ Azure Cost Management (ACM) met behulp van kosten analyse kunt u als partner de 
 
    In de weer gave kosten analyse worden de kosten voor uw facturerings account weer gegeven, voor alle services die zijn gekocht en verbruikt tegen de prijzen die u micro soft betaalt.
 
-4. Selecteer **PartnerEarnedCreditApplied** in de vervolg keuzelijst van een draai grafiek om de kosten weer te geven waarop een PEC is toegepast. Wanneer de eigenschap **PartnerEarnedCreditApplied** is ingesteld op True, hebben de bijbehorende kosten het voor deel van het tegoed van de partner. 
+4. Selecteer **PartnerEarnedCreditApplied** in de vervolg keuzelijst van een draai grafiek om de kosten weer te geven waarop PEC is toegepast. Wanneer de eigenschap **PartnerEarnedCreditApplied** is ingesteld op True, hebben de bijbehorende kosten het voor deel van het tegoed van de partner. 
 
    Wanneer de eigenschap PartnerEarnedCreditApplied is ingesteld op False, voldoen de bijbehorende kosten niet aan het vereiste recht voor het tegoed of is de aangeschafte service niet in aanmerking komen voor een partner die het tegoed ontvangt.
 
@@ -85,4 +85,4 @@ Azure Cost Management (ACM) met behulp van kosten analyse kunt u als partner de 
 
 - [Abonnementen en resources beheren onder het Azure-abonnement](azure-plan-manage.md)
 
-- [Beheerders bevoegdheden voor Azure CSP-abonnementen intrekken of opnieuw instatussen](revoke-reinstate-csp.md)
+- [Beheerders bevoegdheden voor Azure CSP-abonnementen intrekken of terugzetten](revoke-reinstate-csp.md)

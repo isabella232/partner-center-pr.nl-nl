@@ -9,24 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee7ca469619e548dc59db390566d19a1b1c8cc24
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: e769758e14f48f6f7deb9dfe3354fa377a559c87
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92528232"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087107"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Microsoft Partner Network technische voor delen activeren buiten het partner centrum
 
+
+**Juiste rollen**
+
+- Alle gebruikers van het partner centrum
+
 Dit artikel is voor Microsoft Partner Network-leden (MPN) die nog steeds gebruikmaken van PMC (Partner Membership Center). Deze leden hebben hulp nodig bij het activeren van bepaalde MPN-lidmaatschaps voordelen, zoals technische voor delen, buiten het huidige [Partner Center-dash board](https://partner.microsoft.com/dashboard).
-
-### <a name="applies-to"></a>Van toepassing op
-
-- Partner lidmaatschaps centrum gebruikers
-
-### <a name="appropriate-roles"></a>Juiste rollen
-
-- MPN-partners die gebruikmaken van PMC (Partner Membership Center)
 
 Veel Microsoft Partner Network-leden (MPN) zijn al [gemigreerd van het partner lidmaatschaps centrum naar het partner centrum](prepare-pmc-pc-migration.md) om hun gebruikers-, klanten-en MPN voordelen te beheren.
 
@@ -48,7 +45,7 @@ Als u een PMC-gebruiker bent, raadpleegt u deze tabel voor hulp bij het activere
 
 \***Voor partners in Europa, het Midden-Oosten en Afrika:** Bij het e-mailen van RegForm, waaronder: partner-ID, MPN gekoppeld e-mail adres, naam, bedrijfs naam, telefoon, plaats en land. Gebruik RegForm om ondersteunings contracten te maken of te activeren. Als u andere MPN problemen hebt, neemt u contact op met de [partner Frontline-ondersteuning](https://partner.microsoft.com/support?issueid=300-0042).
 
-Zodra uw voor deel is geactiveerd, ontvangt de contact persoon voor het programma dat is gekoppeld aan de belangrijkste voor delen van uw bedrijf, product support-Id's voor dat voor deel. Deze Id's bevatten een **toegangs-id** en **contract-id** . 
+Zodra uw voor deel is geactiveerd, ontvangt de contact persoon voor het programma dat is gekoppeld aan de belangrijkste voor delen van uw bedrijf, product support-Id's voor dat voor deel. Deze Id's bevatten een **toegangs-id** en **contract-id**. 
 
 U of de gebruikers van uw bedrijf moeten deze product support-Id's mogelijk delen wanneer u voor het eerst een ondersteunings aanvraag indient voor bepaalde typen producten of services.
 

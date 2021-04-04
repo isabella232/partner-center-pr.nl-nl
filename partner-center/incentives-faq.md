@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756710"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179493"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Veelgestelde vragen over prikkels
 
-**Juiste rollen:**
+**Juiste rollen**
 
 - Prikkel beheerder
-
 - Prikkel gebruiker
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Moet ik de globale beheerder zijn om in te schrijven in prikkels?
@@ -71,7 +70,7 @@ Als u een uitnodiging hebt ontvangen van of Inge schreven in, een prestatie prog
 
 Als u uw rol of machtigingen wilt wijzigen, neemt u contact op met de globale account of de beheerder van uw bedrijf. Als u wilt weten wie deze personen zijn, raadpleegt u [uw globale beheerder zoeken](./find-your-role.md#find-your-global-admin).
 
-De pagina overzicht bevat alleen inschrijvingen die zijn gekoppeld aan het wereld wijde partner account (PGA) dat is gekoppeld aan de Azure AD-Tenant. Als uw bedrijf meer dan één PGA heeft, moet u voor elk abonnement verschillende referenties hebben.
+Op de pagina overzicht worden alleen inschrijvingen weer gegeven die zijn gekoppeld aan het globale account van de partner (PGA) die is gekoppeld aan de Azure AD-Tenant. Als uw bedrijf meer dan één PGA heeft, moet u voor elk abonnement verschillende referenties hebben.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Met wie moet ik contact opnemen als ik een fout bericht ontvang of hulp nodig tijdens het inschrijvings proces?
 

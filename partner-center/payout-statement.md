@@ -1,22 +1,22 @@
 ---
 title: Uitbetalingsinstructies
 description: Meer informatie over uitbetalings overzichten en samen vattingen en het weer geven en exporteren van uw betalings gegevens vanuit het micro soft Partner Center
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549240"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087090"
 ---
 # <a name="payout-statements"></a>Uitbetalingsinstructies
 
-**Juiste rollen:**
+**Juiste rollen**
 
 - Accountbeheerder
 - Globale beheerder
@@ -73,7 +73,7 @@ Selecteer de pijl-omlaag aan de rechter kant van de pagina om meer informatie ov
 
 ### <a name="transaction-history-summary"></a>Overzicht transactie geschiedenis
 
-Dit toont details over het verdienen, waaronder de oorsprong van het verdienen van het product, de status en de geschatte betalings maand.
+In deze weer gave worden de details weer gegeven, waaronder de oorsprong van het verdienen van het product, de status en de geschatte betalings maand.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Transactie geschiedenis.":::
 
@@ -220,7 +220,7 @@ De volgende tabel bevat reden codes voor aanpassingen en de bijbehorende beschri
 | Rollover voor co-op | Correctie waarbij co-op-inkomen naar een andere periode wordt overgedragen of waarmee mede-op-inkomsten worden omgezet in kortingen. |
 | OPS-aanpassing | Aanpassing waarmee micro soft-systeem berekenings fouten worden gecorrigeerd. |
 | Aanpassing van OPS micro soft onjuist calc | Correctie die onjuiste berekeningen corrigeert. |
-| Aanpassing van OPS micro soft onjuiste inschrijving | Aanpassing voor registraties die betrekking hebben op de inschrijving. |
+| Aanpassing van OPS micro soft onjuiste inschrijving | Aanpassing voor niet-berekenings problemen die betrekking hebben op registratie. |
 | Partner mapping (abonnement) MCI/CSP | Correctie die de verkeerde uitlijning van het abonnement corrigeert. |
 | Beleids uitzondering | Correctie die een programma regel overschrijft.  |
 | Inkomsten vorige periode | Aanpassing van de winst buiten de huidige verdienen periode. |

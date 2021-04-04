@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182321"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086869"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner inzichten – Veelgestelde vragen
 
 **Juiste rollen**
+
 - Rapport viewer
 - Rapport Viewer Executive
 
-Dit is gerelateerd aan bekende problemen met het weer geven of weer geven van rapporten die zijn gekoppeld aan inzichten.
+In dit artikel komen bekende problemen aan bod voor het bekijken of weer geven van rapporten die zijn gekoppeld aan inzichten.
 
 V) **Ik zie de Insights-hub niet in mijn partner centrum-account. Wat moet ik doen?**
 

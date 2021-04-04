@@ -8,24 +8,20 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834880"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179510"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Problemen oplossen met ontbrekende betalingen, onjuiste inkomsten en andere problemen
 
-**Van toepassing op**:
-
-- Partnercentrum
-
-**Juiste rollen**:
+**Juiste rollen**
 
 - Prikkel beheerder
 
-Dit artikel helpt u bij het oplossen van eventuele winsten of betalings problemen in uw prikkel programma. De onderwerpen in dit onderwerp zijn onder andere het tijdstip van betaling, het controleren van de geschiktheid van uw winst en het belang van het correct instellen van uw uitbetalings-en BTW-profielen.
+Dit artikel helpt u bij het oplossen van eventuele winsten of betalings problemen in uw prikkel programma. Onderwerpen die in aanmerking komen, zijn onder meer het tijdstip van betaling, het controleren van de geschiktheid van uw winst en het belang van het correct instellen van uw toekennings-en BTW-profielen.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Wie kan uitbetalings-en BTW-profielen voor mijn organisatie maken of bijwerken?
 
@@ -141,7 +137,7 @@ Met deze weer gave kunt u betalingen voor alle Program ma's en MPN-Id's weer gev
 | Bekijk uw betalings gegevens per regel, met inbegrip van loon-en betalings bedragen in de lokale valuta  | Bekijk het veld **lijst met betalingen**   |
 | Een remise brief downloaden   |  **Betalings remise** selecteren  |
 | Details van transactie niveau weer geven voor een specifieke betaling |  **Weer gave** selecteren  |
-| Transactie gegevens exporteren naar Excel  |  Selecteer **downloaden starten** en klik vervolgens op **gegevens exporteren**. Houd er rekening mee dat alle geselecteerde filters worden toegepast op de geëxporteerde gegevens. Zodra de status is gewijzigd in voltooid, selecteert u **downloaden** en volgt u de aanwijzingen voor het exporteren van het rapport met gedetailleerde trans acties. Vernieuw de pagina als de status niet binnen vijf minuten wordt bijgewerkt.  |
+| Transactie gegevens exporteren naar Excel  |  Selecteer **downloaden starten** en selecteer vervolgens **gegevens exporteren**. Alle geselecteerde filters worden toegepast op de geëxporteerde gegevens. Zodra de status is gewijzigd in voltooid, selecteert u **downloaden** en volgt u de aanwijzingen voor het exporteren van het rapport met gedetailleerde trans acties. Vernieuw de pagina als de status niet binnen vijf minuten wordt bijgewerkt.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Ontbrekende of onjuiste inkomsten en betalingen
 

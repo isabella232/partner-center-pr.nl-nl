@@ -1,28 +1,28 @@
 ---
 title: Veelgestelde vragen over uitbetalings- en belastingprofielen
 description: Krijg antwoorden op veelgestelde vragen over uitbetalingen en belasting gegevens in Partner Center. Bevat antwoorden over waarom uw inkomsten anders zijn dan verwacht.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247660"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087039"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Veelgestelde vragen over uitbetalingen en belastingen
 
-**Juiste rollen**:
+**Juiste rollen**
 
 - Accountbeheerder
 - Globale beheerder
 - Prikkel beheerder
 
-In dit artikel vindt u antwoorden op veelgestelde vragen over uitbetalingen en belasting gegevens in het partner centrum. onderwerpen die worden behandeld, omvatten timing van betalingen, het controleren van de geschiktheid van uw inkomen en het belang van het correct instellen van uw uitbetalings-en BTW-profielen.
+In dit artikel vindt u antwoorden op veelgestelde vragen over uitbetalingen en belasting gegevens in het partner centrum. Onderwerpen die worden behandeld, zijn onder meer het tijdstip van betaling, het controleren van de geschiktheid van uw winst en het belang van het correct instellen van uw toekennings-en BTW-profielen.
 
 ## <a name="profile-management"></a>Profiel beheer
 
@@ -42,7 +42,7 @@ Het kan zijn dat u niet over de juiste machtigingen beschikt of dat u bent aange
 
 #### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ik kan me alleen aanmelden met mijn @onmicrosoft.com domein. Wat moet ik doen?
 
-Neem contact op met uw accountbeheerder om extra domeinen aan het AAD-account toe te voegen.
+Neem contact op met uw account beheerder om meer domeinen aan het AAD-account toe te voegen.
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Mijn organisatie neemt deel aan meerdere Program ma's. Moet ik mijn betaling en BTW-profiel meerdere keren opgeven?
 
@@ -61,7 +61,7 @@ Als uw bedrijf is uitgenodigd voor meerdere Program ma's, kunt u hetzelfde betal
 
 Het is de verantwoordelijkheid van het bedrijf om ervoor te zorgen dat de rol van prikkel beheerder-die de machtigingen heeft voor het bewerken van deze informatie, alleen wordt verstrekt aan de juiste werk nemers.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mijn belasting profiel is verlopen. Hoe kan ik dit probleem oplossen?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Mijn belasting profiel is verlopen. Hoe kan ik update herstellen?
 
 Als een BTW-profiel is verlopen of verloopt, betekent dit dat het BTW-formulier dat u aan micro soft hebt gegeven, moet worden bijgewerkt. Gebruik de volgende stappen om uw BTW-profiel bij te werken:
 
@@ -83,7 +83,7 @@ Als een BTW-profiel is verlopen of verloopt, betekent dit dat het BTW-formulier 
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Waarom is mijn loon bedrag anders dan verwacht?
 
 - Als de bestelling deels door uw klant is betaald, wordt uw verdienen bedrag gebaseerd op het gedeeltelijk betaalde bedrag na aftrek van de kosten en de juiste belasting.
-- De verantwoordelijkheid voor het BTW-tarief controleren per land. In het geval van landen/regio's waar btw de verantwoordelijkheid van Microsoft is, int Microsoft de btw en trekt deze van de inkomsten van de uitgever af. Het transactiebedrag dat op het overzicht wordt weergegeven, is het bedrag na btw-aftrek. Zie [Belastinginformatie](tax-details-marketplace.md).
+- De verantwoordelijkheid voor het BTW-tarief controleren per land. In landen waar de belasting van micro soft verantwoordelijk is, verzamelt en trekt micro soft de belasting af van de inkomsten van de uitgever. Het transactiebedrag dat op het overzicht wordt weergegeven, is het bedrag na btw-aftrek. Zie [Belastinginformatie](tax-details-marketplace.md).
 - SaaS-en IaaS-aanbiedingen hebben een gereduceerd tarief voor de organisatie tegen 10% in plaats van de standaard 20%, waardoor er een inkomsten tarief van 90% wordt gelaten. Deze aanbieding is geldig tot en met 30 juni 2021.
 
 **Meer Lees**: [commerciële Marketplace Uitgever overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details](payout-policy-details.md)van uitbetalings beleid, [betalings drempel, methode en tijds bestek](payment-thresholds-methods-timeframes.md), [betaalde](marketplace-get-paid.md), [belasting gegevens](tax-details-marketplace.md), [uitbetalings instructies](payout-statement.md)
@@ -113,7 +113,7 @@ Gebruik AssetID, orderID en regel item-ID die wordt weer gegeven in het rapport 
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Mijn account Hoe kan ik instellen dat er geen betaling wordt ontvangen?
-U kunt betalingen in het [profiel voor uitbetaling](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)bewaren. Controleer gewoon de **wacht stand**. Micro soft houdt de betaling over aan u totdat u de blok kering uitbrengt.
+U kunt betalingen in het [profiel voor uitbetaling](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)bewaren. Als u dit wilt doen **, controleert u of micro** Soft de betaling aan u houdt totdat u de blok kering uitbrengt.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Waarom ontvang ik mijn betaling in een andere valuta dan de aankoopvaluta?
 
@@ -121,7 +121,7 @@ De valuta voor uitbetaling is gebaseerd op de valuta die u hebt geselecteerd in 
 
 #### <a name="how-do-i-reconcile-adjustments"></a>Hoe kan ik correcties afstemmen?
 
-Betalingscorrecties zijn correcties voor compensatiecorrecties zoals systeemproblemen. In het uitbetalingsoverzicht geeft ReasonCode de reden voor de correctie aan. Deze zijn niet bedoeld om rechtstreeks afzonderlijke transacties af te stemmen.
+Betalingscorrecties zijn correcties voor compensatiecorrecties zoals systeemproblemen. In de uitbetalings verklaring geeft ReasonCode de reden voor de aanpassing aan. Deze zijn niet bedoeld om rechtstreeks af te stemmen op afzonderlijke trans acties.
 
 **Verdere Lees**: [commerciële Marketplace Uitgever overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details van uitbetalings beleid](payout-policy-details.md), [belasting gegevens](tax-details-marketplace.md), [betalings drempel, methode en tijds bestek](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ Gebruik de [partner-uitbetalings-API](https://apidocs.microsoft.com/services/par
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Hoe kan ik de huidige bemiddelingskosten en het uitbetalingspercentage vinden?
 
-- Bekijk de overeenkomst voor uitgevers van de commerciële marketplace. De standaardbemiddelingskosten zijn 20%. SaaS Co-Sell in aanmerking komende trans acties hebben een korting van 10% op kosten. Controleer of er aanbiedingen zijn voor korting op bemiddelingskosten.
+- Bekijk de overeenkomst voor uitgevers van de commerciële marketplace. De standaardbemiddelingskosten zijn 20%. SaaS-trans acties die in aanmerking komen voor samen verkoop, hebben een korting van 10% op kosten. Controleer of er aanbiedingen zijn voor korting op bemiddelingskosten.
 - In uw uitbetalings verklaring geeft u het rente bedrag op voor een bepaalde trans actie.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Wanneer kan ik een betaling van Microsoft verwachten wanneer de inkomsten op mijn overzicht worden weergegeven?

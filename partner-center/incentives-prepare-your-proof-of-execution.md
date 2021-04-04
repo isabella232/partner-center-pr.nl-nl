@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92528365"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179442"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Documenten maken en verzenden voor uw bewijs van de uitvoering van uw stimulans (PoE)
 
-**Van toepassing op:**
-
-- Partnercentrum
-
-**Juiste rollen:**
+**Juiste rollen**
 
 - Prikkel beheerder
 
@@ -37,15 +33,15 @@ Voordat u aan uw prikkels werkt, moet u een gedetailleerd bewijs van uitvoering 
 
 4. Zoek in de sectie **campagnes** de gewenste activiteit.
 
-5. Selecteer in de kolom **testen van uitvoering** **Poe toevoegen** .
+5. Selecteer in de kolom **testen van uitvoering** **Poe toevoegen**.
 
-6. Voer de vereiste velden in op de **pagina Nieuw testen van de uitvoering** .
+6. Voer de vereiste velden in op de **pagina Nieuw testen van de uitvoering**.
 
    - **Naam**  Een beschrijvende naam voor de mede-op-claim.
    - **Datum**  De uitvoerings datum. Deze datum moet liggen tussen de begin datum van de campagne en de eind datum van de campagne.
    - **Hoeveelheid**  De hoeveelheid van de mede-op-claim.
 
-7. Selecteer **Opslaan** .
+7. Selecteer **Opslaan**.
 
 8. Voer op de pagina **nieuw bewijs van uitvoerings claim** de vereiste velden in.
 
@@ -54,15 +50,15 @@ Voordat u aan uw prikkels werkt, moet u een gedetailleerd bewijs van uitvoering 
    - **Geschatte hits**   Het geschatte bereik van deze activiteit; aantal personen.
    - **Id van voorafgaande goed keuring**   Dit is de ID die micro soft u stuurt nadat u uw marketing materiaal hebt goedgekeurd.
 
-9. Wanneer u klaar bent, selecteert u **Claim maken** .
+9. Wanneer u klaar bent, selecteert u **Claim maken**.
 
-10. Upload een van de volgende twee documenten op de pagina **Factuur- en onkostengegevens** :
-    - **Factuur van derde partij**  Selecteer in het veld **factuur van derde partij** de optie **slepen of bladeren naar bestanden om te uploaden** . Voeg de factuur en de details van de vereiste factuur toe en selecteer vervolgens **Opslaan** .
-    - **Rapport van certificerings service**  Selecteer **certificerings service rapport toevoegen** . Vul op de pagina **een certificerings service rapport genereren** de vereiste velden in en selecteer vervolgens **Opslaan** .
+10. Upload een van de volgende twee documenten op de pagina **Factuur- en onkostengegevens**:
+    - **Factuur van derde partij**  Selecteer in het veld **factuur van derde partij** de optie **slepen of bladeren naar bestanden om te uploaden**. Voeg de factuur en de details van de vereiste factuur toe en selecteer vervolgens **Opslaan**.
+    - **Rapport van certificerings service**  Selecteer **certificerings service rapport toevoegen**. Vul op de pagina **een certificerings service rapport genereren** de vereiste velden in en selecteer vervolgens **Opslaan**.
 
-11. U kunt ook **bewijs stukken** uploaden als u wilt. Selecteer in het veld **bewijs documenten** de optie **slepen of bladeren naar bestanden om te uploaden** . Als u bewijs documenten selecteert, moet u verklarende opmerkingen toevoegen. Als u dat hebt gedaan, selecteert u **Opslaan** .
+11. U kunt ook **bewijs stukken** uploaden als u wilt. Selecteer in het veld **bewijs documenten** de optie **slepen of bladeren naar bestanden om te uploaden**. Als u bewijs documenten selecteert, moet u verklarende opmerkingen toevoegen. Als u dat hebt gedaan, selecteert u **Opslaan**.
 
-12. Voer een eind opmerking in voordat u uw PoE verzendt en selecteer vervolgens **claim indienen** .
+12. Voer een eind opmerking in voordat u uw PoE verzendt en selecteer vervolgens **claim indienen**.
 
 ## <a name="view-the-status-of-a-poe"></a>Bekijk de status van een PoE
 
@@ -81,6 +77,6 @@ Voordat u aan uw prikkels werkt, moet u een gedetailleerd bewijs van uitvoering 
    - Goedgekeurd
    - Afgewezen
 
-## <a name="next-steps"></a>Volgende stappen:
+## <a name="next-steps"></a>Volgende stappen
 
-- [Aan de slag met prikkels](incentives-get-started-intro.md)
+- [Aan de slag gaan met Incentives](incentives-get-started-intro.md)

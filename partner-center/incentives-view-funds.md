@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182508"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179425"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Beschik bare, geclaimde en resterende mede-op-fondsen weer geven
 
-**Juiste rollen:**
+**Juiste rollen**
 
 - Prikkel beheerder
 - Prikkel gebruiker
@@ -36,7 +36,7 @@ U kunt uw stimulerende fondsen volgen, controleren en afstemmen in het [dash boa
 
 Als u denkt dat er verschillen zijn in de bedragen die in de samen vatting worden weer gegeven, kunt u het transactie rapport downloaden uit de vorige periode. Dit rapport helpt u bij het bepalen van het aantal op de onderverdiende fondsen voor de geselecteerde gebruiks periode. Als u transactie rapporten wilt downloaden of verzonden claims wilt valideren om ervoor te zorgen dat het resterende bedrag aan de co-op nauw keurig is, raadpleegt u de [transactie geschiedenis](./payout-statement.md#transaction-history).
 
-Als u nog steeds problemen hebt met het afstemmen van bedragen of als sommige mede-op-fondsen niet zichtbaar zijn, kunt u het ondersteunings ticket openen. Hiertoe selecteert u het vraag teken in de rechter bovenhoek van de pagina en selecteert u vervolgens **prikkels**.
+Als u nog steeds problemen hebt met het afstemmen van bedragen of als sommige mede-op-fondsen niet zichtbaar zijn, kunt u een ondersteunings ticket openen. Hiertoe selecteert u het vraag teken in de rechter bovenhoek van de pagina en selecteert u vervolgens **prikkels**.
 
 ## <a name="next-steps"></a>Volgende stappen
 

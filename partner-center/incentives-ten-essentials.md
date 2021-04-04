@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92528364"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179102"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>De 10 essentiële zaken voor het werken met prikkels
-
-**Van toepassing op**
-
-- Partnercentrum
-- Partners in de Microsoft Partner Network (MPN)
 
 **Juiste rollen**
 
@@ -49,7 +44,7 @@ Het is belang rijk dat u een solide informatie krijgt over de rollen en machtigi
 
 ## <a name="5-review-the-incentives-faq"></a>5. Raadpleeg de veelgestelde vragen over prikkels
 
-Krijg antwoorden op veelvoorkomende vragen voordat u deze zelfs vraagt. De veelgestelde vragen over prikkels worden regel matig bijgewerkt met behulp van informatie uit Microsoft Ondersteuning, evenals directe communicatie met partners. U kunt de veelgestelde vragen [hier](incentives-faq.md)weer geven.
+Krijg antwoorden op veelvoorkomende vragen voordat u deze zelfs vraagt. De veelgestelde vragen over prikkels worden regel matig bijgewerkt met behulp van informatie van Microsoft Ondersteuning en directe communicatie met partners. U kunt de veelgestelde vragen [hier](incentives-faq.md)weer geven.
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Bevestig de geschiktheid van uw programma
 
@@ -73,4 +68,4 @@ U vindt gedetailleerde procedures voor het uitvoeren van alle hierboven genoemde
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Aan de slag met prikkels](incentives-get-started-intro.md)
+- [Aan de slag gaan met Incentives](incentives-get-started-intro.md)

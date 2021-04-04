@@ -8,16 +8,17 @@ description: Bekijk wat u goed doet en waar u kunt verbeteren met Dynamics-abonn
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d8755cadf7b572972c5abe1483ff6f0be98a1eb8
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147064"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086920"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het Dynamics-gebruiks rapport is beschikbaar via het Partner Center Insights-dash board
 
 **Juiste rollen**
+
 - Globale beheerder
 - Beheer agent
 - Rapport viewer
@@ -38,19 +39,19 @@ Het Dynamics-gebruiks rapport bevat gebruiks gegevens voor de Dynamics 365-abonn
 
 De sectie samen vatting bevat een moment opname van de belangrijkste indica toren voor Dynamics-gebruiks abonnementen die u hebt verkocht of beheerd voor uw klanten.  
 
-- Beschik bare stoelen: totaal aantal licenties dat is verkocht tijdens de geselecteerde periode.
+- Beschik bare stoelen: totaal aantal verkochte licenties tijdens het geselecteerde tijds bestek.
 
    In de micro grafiek wordt een maand-over-maand-trend van het aantal beschik bare stoelen voor het geselecteerde datum bereik weer gegeven.
 
-- Toegewezen stoelen: totaal aantal licenties dat is toegewezen tijdens de geselecteerde periode.
+- Toegewezen stoelen: totaal aantal licenties dat is toegewezen tijdens het geselecteerde tijds bestek.
 
    In de micro grafiek wordt een maand-over-maand-trend van het aantal toegewezen seats weer gegeven tijdens het geselecteerde datum bereik.
 
-- Actieve stoelen: totaal aantal licenties dat gebruik heeft tijdens de geselecteerde periode. 
+- Actieve stoelen: totaal aantal licenties dat gebruik heeft tijdens het geselecteerde tijds bestek. 
 
    Het micro diagram geeft een maandelijkse trend van maandelijkse actieve stoelen gedurende de geselecteerde periode.
 
-- Actief gebruik%: het totale aantal actieve seats uitgedrukt als een percentage van de beschik bare stoelen voor de geselecteerde periode. 
+- Actief gebruik%: het totale aantal actieve seats uitgedrukt als een percentage van de beschik bare stoelen voor het geselecteerde tijds bestek. 
 
    Het micro diagram geeft een maandelijkse trend van het actieve gebruiks percentage gedurende de geselecteerde tijds periode.
 
