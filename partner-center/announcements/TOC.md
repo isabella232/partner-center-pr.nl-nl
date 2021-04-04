@@ -1,4 +1,5 @@
 # [Aankondigingen van partnercentrum](index.md)
+# [April 2021](2021-april.md)
 # [2021 maart](2021-march.md)
 # [Februari 2021](2021-february.md)
 # [Januari 2021](2021-january.md)
@@ -11,6 +12,3 @@
 # [Juni 2020](2020-june.md)
 # [Mei 2020](2020-may.md)
 # [April 2020](2020-april.md)
-# [Maart 2020](2020-march.md)
-# [Februari 2020](2020-february.md)
-# [Januari 2020](2020-january.md)
