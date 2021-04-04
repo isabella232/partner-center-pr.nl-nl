@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104924260"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132397"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Een partner logo, gecertificeerde brief of Award maken met behulp van logo Builder
 
 **Juiste rollen**
 
-- Alle partner centrum gebruikers die graag meer willen weten over de opbouw functie voor Logo's
+- Alle partners die graag meer willen weten over logo Builder
 
 De waarde van het bereiken van een Silver-of Gold-competentie is de kans om u te onderscheiden van klanten. Een logo dat u kunt gebruiken voor uw verkoop-en marketing materiaal en uw bedrijfs profiel in het partner centrum om de competentie of competenties die u hebt bereikt, in uw competentie voordelen aan te tonen. 
 
@@ -28,7 +28,7 @@ Als u bent geaccepteerd in het Azure expert MSP-programma, een partner hebt ontv
 
 ## <a name="what-is-available-in-logo-builder"></a>Wat beschikbaar is in logo Builder
 
-Wat beschikbaar is voor uw bedrijf in logo Builder wordt uitgelijnd op het lidmaatschap van uw Microsoft Partner Network (MPN). Het duurt Maxi maal 24 uur voor een wijziging in uw MPN-lidmaatschap, zoals het bereiken van een nieuwe competentie, die wordt weer gegeven.  
+De logo's die beschikbaar zijn voor uw bedrijf in de opbouw functie voor Logo's, zijn afgestemd op uw Microsoft Partner Network-lidmaatschap (MPN). Het duurt Maxi maal 24 uur voor een wijziging in uw MPN-lidmaatschap, zoals het bereiken van een nieuwe competentie, die wordt weer gegeven.
 
 De activa die u kunt maken in logo Builder omvatten het volgende:
 

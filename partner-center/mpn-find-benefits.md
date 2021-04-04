@@ -9,20 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 2ad3e686c90c286465911e8d01d12686d2c6ad15
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812827"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132975"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Voordelen van het Microsoft Partner Network zoeken 
 
-### <a name="applies-to"></a>Van toepassing op
-
-- Partnercentrum
-
-### <a name="appropriate-roles"></a>Juiste rollen
+**Juiste rollen**
 
 - MPN-partner beheerder
 - Globale beheerder

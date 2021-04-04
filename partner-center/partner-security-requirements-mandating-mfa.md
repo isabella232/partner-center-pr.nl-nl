@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133101"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086359"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Eisen multi-factor Authentication (MFA) voor uw partner-Tenant
 
-**Van toepassing op**
-
-- Alle partners in het Cloud Solution Provider-programma
-- Alle leveranciers van het configuratie scherm
-- Alle Advisors
-
-**Betrokken rollen**
+**Juiste rollen**
 
 - Beheer agent
 - Verkoop agent
@@ -81,7 +75,7 @@ Bekijk de volgende voor beelden om te laten zien hoe verificatie werkt in het da
 
 2. Trent start een nieuwe browser sessie en navigeert naar de overzichts pagina van het dash board van partner Center (dit is geen MFA-beveiligd). Het partner centrum leidt Trent naar Azure AD om zich aan te melden.
 
-3. Omdat Wingtip is ingesteld als identiteits Federatie, stuurt Azure AD de Trent naar de federatieve id-provider om de aanmelding en MFA-verificatie te volt ooien. Nadat u zich hebt aangemeld en MFA hebt gecontroleerd, wordt Trent teruggeleid naar Azure AD en vervolgens naar de overzichts pagina van het dash board-partner centrum.
+3. Omdat Wingtip is ingesteld als identiteits Federatie, stuurt Azure AD de Trent naar de federatieve id-provider om de aanmelding en MFA-verificatie te volt ooien. Bij een geslaagde aanmelding en MFA-verificatie wordt Trent teruggeleid naar Azure AD en vervolgens naar de overzichts pagina van het dash board van het partner centrum.
 
 4. Trent probeert toegang te krijgen tot een van de met MFA beveiligde pagina's in het partner centrum. Omdat Trent de MFA-verificatie al heeft voltooid tijdens het aanmelden, heeft Trent toegang tot de pagina die is beveiligd met MFA zonder dat dit nodig is om de MFA-verificatie te door lopen.
 
@@ -91,7 +85,7 @@ Bekijk de volgende voor beelden om te laten zien hoe verificatie werkt in het da
 
 2. John start een nieuwe browser sessie en navigeert naar de overzichts pagina van het dash board van partner Center (dit is geen MFA-beveiligd). Het partner centrum stuurt John naar Azure AD om zich aan te melden.
 
-3. Omdat fabrikam geen MFA heeft geïmplementeerd, is John niet vereist om MFA-verificatie te volt ooien. Bij een geslaagde aanmelding wordt John omgeleid naar de overzichts pagina van het dash board van partner Center.
+3. Omdat fabrikam geen MFA heeft geïmplementeerd, is John niet vereist om MFA-verificatie te volt ooien. Bij een geslaagde aanmelding wordt John teruggeleid naar de overzichts pagina van het dash board van partner Center.
 
 4. John probeert toegang te krijgen tot een van de met MFA beveiligde pagina's in het partner centrum. Omdat John geen MFA-verificatie heeft voltooid, stuurt het partner centrum John door naar Azure AD om de MFA-verificatie te volt ooien. Aangezien dit de eerste keer is dat John is vereist voor het volt ooien van MFA, wordt John ook gevraagd om [zich te registreren voor MFA](#mfa-registration-experience). Bij een succes volle MFA-registratie en MFA-verificatie heeft John nu toegang tot de pagina met MFA-beveiliging.
 
@@ -174,7 +168,7 @@ De algemene ervaring is vergelijkbaar met het scenario waarin een Tenant van een
 
 ### <a name="using-service-apis"></a>Service-Api's gebruiken
 
-Sommige micro soft Online Services-Api's (zoals Azure Resource Manager, Azure AD Graph, Microsoft Graph enz.) ondersteunen partners die gebruikmaken van gedelegeerde beheerders bevoegdheden voor het programmatisch beheren van klant resources. Om gebruik te maken van de door de partner gedelegeerde beheerders bevoegdheden met deze Api's, moet de partner toepassing een toegangs token bevatten in de autorisatie-header van de API-aanvraag, waarbij het toegangs token wordt verkregen door een partner gebruikers account te hebben om te verifiëren bij Azure AD, waarbij de klant Azure AD is ingesteld als verificatie context. De partner toepassing moet een gebruikers account van de partner aanmelden bij de Tenant van de klant.
+Sommige micro soft Online Services-Api's (zoals Azure Resource Manager, Azure AD Graph, Microsoft Graph enz.) ondersteunen partners die gebruikmaken van gedelegeerde beheerders bevoegdheden voor het programmatisch beheren van klant resources. De partner toepassing moet een toegangs token hebben in de autorisatie-header van de API-aanvraag, waarbij het toegangs token wordt verkregen door een partner gebruikers account te hebben om te verifiëren bij Azure AD, waarbij de klant Azure AD is ingesteld als verificatie context, om de gemachtigde beheerder bevoegdheden voor deze Api's te gebruiken. De partner toepassing moet een gebruikers account van de partner aanmelden bij de Tenant van de klant.
 
 Wanneer Azure AD als verificatie aanvraag wordt ontvangen, moet de partner gebruikers account van Azure AD de MFA-verificatie volt ooien. Als de partner gebruikers account voor MFA nog niet is geregistreerd, wordt het gebruikers account eerst gevraagd de MFA-registratie te volt ooien.
 
@@ -194,7 +188,7 @@ Als tijdens de MFA-verificatie het partner account voor MFA nog niet is geregist
 
 Nadat u op **volgende** hebt geklikt, wordt de gebruiker gevraagd om te kiezen uit een lijst met verificatie methoden.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA-registratie stap 1":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA-registratie stap 2":::
 
 Na een geslaagde registratie is de gebruiker verplicht om de MFA-verificatie te volt ooien op basis van de door de gebruiker gekozen verificatie.
  
@@ -205,7 +199,7 @@ Lees, voordat u een [technische uitzonde ring](#how-to-submit-a-request-for-tech
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Probleem 1: partner heeft meer tijd nodig om MFA voor hun partner agenten te implementeren
 Een partner is niet gestart of is nog steeds in het proces van het implementeren van MFA voor hun partner agenten die toegang nodig hebben tot micro soft Online Services-portals met behulp van gedelegeerde beheer bevoegdheden voor het beheren van klant resources. De partner heeft meer tijd nodig om de MFA-implementatie te volt ooien. Is dit een geldige reden voor een technische uitzonde ring?
 
-**Antwoord** : Nee. De partner moet plannen maken om MFA voor hun gebruikers te implementeren om onderbrekingen te voor komen.
+**Antwoord**: Nee. De partner moet plannen maken om MFA voor hun gebruikers te implementeren om onderbrekingen te voor komen.
 
 > [!NOTE]
 > Hoewel de partner geen MFA voor hun partner agenten heeft geïmplementeerd, kunnen de partner agents nog steeds toegang krijgen tot portals van micro soft Online Services met behulp van de gedelegeerde beheer bevoegdheden van de partner, mits deze de MFA-registratie en MFA-verificatie kunnen volt ooien wanneer u wordt gevraagd om u aan te melden bij de klant Tenant Bij het volt ooien van MFA-registratie wordt de gebruiker niet automatisch voor MFA ingeschakeld.
@@ -213,23 +207,23 @@ Een partner is niet gestart of is nog steeds in het proces van het implementeren
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Probleem 2: partner heeft geen MFA geïmplementeerd voor gebruikers accounts die geen gedelegeerde beheerders bevoegdheden gebruiken
 Een partner heeft sommige gebruikers in hun partner tenants die geen toegang nodig hebben tot micro soft Online Services-portals om klanten resources te beheren met gemachtigde beheer bevoegdheden. De partner is bezig met het implementeren van MFA voor deze gebruikers en heeft meer tijd nodig om te volt ooien. Is dit een geldige reden voor een technische uitzonde ring?
 
-**Antwoord** : Nee. Omdat deze gebruikers accounts geen door de partner gedelegeerde beheer bevoegdheden gebruiken om klant resources te beheren, hoeven ze zich niet aan te melden bij de Tenant van de klant. Deze worden niet beïnvloed door Azure AD waarvoor MFA-verificatie is vereist bij het aanmelden bij de klant Tenant.
+**Antwoord**: Nee. Omdat deze gebruikers accounts geen door de partner gedelegeerde beheer bevoegdheden gebruiken om klant resources te beheren, hoeven ze zich niet aan te melden bij de Tenant van de klant. Deze worden niet beïnvloed door Azure AD waarvoor MFA-verificatie is vereist bij het aanmelden bij de klant Tenant.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Probleem 3: partner heeft geen MFA geïmplementeerd voor gebruikers service accounts
 Een partner heeft sommige gebruikers accounts in hun partner tenants die door apparaten als service accounts worden gebruikt. Dit zijn accounts met weinig bevoegdheden waarvoor geen portals voor Access Partner Center of micro soft Online Services zijn vereist voor het beheren van klant resources met behulp van overgedragen beheer bevoegdheden van de partner. Is dit een geldige reden voor een technische uitzonde ring?
 
-**Antwoord** : Nee. Omdat deze gebruikers accounts geen door de partner gedelegeerde beheer bevoegdheden gebruiken om klant resources te beheren, hoeven ze zich niet aan te melden bij de Tenant van de klant. Deze worden niet beïnvloed door Azure AD waarvoor MFA-verificatie is vereist bij het aanmelden bij de klant Tenant.
+**Antwoord**: Nee. Omdat deze gebruikers accounts geen door de partner gedelegeerde beheer bevoegdheden gebruiken om klant resources te beheren, hoeven ze zich niet aan te melden bij de Tenant van de klant. Deze worden niet beïnvloed door Azure AD waarvoor MFA-verificatie is vereist bij het aanmelden bij de klant Tenant.
 
 ##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Probleem 4: partner kan geen MFA implementeren met behulp van de MS Authenticator-app
 Een partner heeft het beleid ' schoon bureau ', zodat werk nemers hun persoonlijke mobiele apparaten niet op hun werk gebied kunnen zetten. Zonder toegang tot hun persoonlijke mobiele apparaten kunnen de werk nemers de MS Authenticator-app niet installeren. Dit is de enige MFA-verificatie die wordt ondersteund door de standaard instellingen van Azure AD. Is dit een geldige reden voor een technische uitzonde ring?
 
-**Antwoord** : Nee, dit is geen geldige reden voor een technische uitzonde ring. De partner moet rekening houden met de volgende alternatieven, zodat hun werk nemers de MFA-verificatie kunnen volt ooien bij het openen van het partner centrum:
+**Antwoord**: Nee, dit is geen geldige reden voor een technische uitzonde ring. De partner moet rekening houden met de volgende alternatieven, zodat hun werk nemers de MFA-verificatie kunnen volt ooien bij het openen van het partner centrum:
 - De partner kan zich ook aanmelden voor Azure AD Premium of MFA-oplossingen van derden (compatibel met Azure AD), die aanvullende verificatie methoden kunnen bieden.
 
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>Probleem 5: partner kan geen MFA implementeren vanwege het gebruik van verouderde verificatie protocollen
 Een partner heeft een aantal partner agenten die nog steeds gebruikmaken van verouderde verificatie protocollen, die niet compatibel zijn met MFA. De gebruikers gebruiken bijvoorbeeld nog steeds Outlook 2010, dat is gebaseerd op verouderde verificatie protocollen. Door MFA in te scha kelen voor deze partner agenten wordt het gebruik van verouderde verificatie protocollen verstoord.
 
-**Antwoord** : Nee, dit is geen geldige reden voor een technische uitzonde ring. Het gebruik van verouderde verificatie protocollen wordt sterk aangemoedigd vanwege mogelijke beveiligings implicaties omdat deze protocollen niet kunnen worden beveiligd met MFA-verificatie en veel meer gevoelig zijn voor de inbreuk op de referenties. Als u het gebruik van verouderde verificatie protocollen niet meer kunt gebruiken, moeten partners zich aanmelden voor Azure AD Premium, dat het gebruik van toepassings wachtwoorden ondersteunt. Toepassings wachtwoorden zijn eenmalig door het systeem gegenereerde wacht woorden en zijn doorgaans sterker dan door mensen gegenereerde wacht woorden. Met behulp van toepassings wachtwoorden kunnen partners MFA voor hun gebruikers implementeren, terwijl ze terugvallen op toepassings wachtwoorden voor verouderde verificatie protocollen.
+**Antwoord**: Nee, dit is geen geldige reden voor een technische uitzonde ring. Het gebruik van verouderde verificatie protocollen wordt sterk aangemoedigd vanwege mogelijke beveiligings implicaties omdat deze protocollen niet kunnen worden beveiligd met MFA-verificatie en veel meer gevoelig zijn voor de inbreuk op de referenties. Als u het gebruik van verouderde verificatie protocollen niet meer kunt gebruiken, moeten partners zich aanmelden voor Azure AD Premium, dat het gebruik van toepassings wachtwoorden ondersteunt. Toepassings wachtwoorden zijn eenmalig door het systeem gegenereerde wacht woorden en zijn doorgaans sterker dan door mensen gegenereerde wacht woorden. Met behulp van toepassings wachtwoorden kunnen partners MFA voor hun gebruikers implementeren, terwijl ze terugvallen op toepassings wachtwoorden voor verouderde verificatie protocollen.
 
 Lees het bericht over de [Basic-verificatie en Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) voor meer informatie over het meest recente abonnement op ondersteuning voor verouderde verificatie voor Outlook en volg de blog van het [Exchange-team](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) om het nieuwe nieuws te ontvangen. 
 
@@ -239,7 +233,7 @@ Lees het bericht over de [Basic-verificatie en Exchange Online](https://techcomm
 ##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>Probleem 6: partner heeft een MFA van derden geïmplementeerd die niet wordt herkend door Azure AD
 Een partner heeft MFA geïmplementeerd voor hun gebruikers met behulp van een MFA-oplossing van derden. De partner kan de MFA-oplossing van derden echter niet op de juiste manier configureren voor het door sturen naar Azure AD waardoor MFA-verificatie is voltooid tijdens gebruikers verificatie. Is dit een geldige reden voor een technische uitzonde ring?
 
-**Antwoord** : Ja, dit probleem kan worden beschouwd als een geldige reden voor een technische uitzonde ring. Voordat u een aanvraag voor een technische uitzonde ring indient, moet u bevestigen dat de MFA-oplossing van derden niet kan worden geconfigureerd om de *authenticationmethodsreferences* -claim (met de waarde *Multipleauthn* ) naar Azure ad te laten stromen om aan te geven dat de MFA-verificatie is voltooid tijdens de gebruikers verificatie. Bij het indienen van een aanvraag voor een technische uitzonde ring moet u details opgeven over de gebruikte MFA-oplossing van derden en de methode voor integratie (bijvoorbeeld via identiteits Federatie of het aangepaste besturings element van Azure AD) aanduiden, en de volgende informatie opgeven in de aanvraag voor technische uitzonde ringen als ondersteunende documenten:
+**Antwoord**: Ja, dit probleem kan worden beschouwd als een geldige reden voor een technische uitzonde ring. Voordat u een aanvraag voor een technische uitzonde ring indient, moet u bevestigen dat de MFA-oplossing van derden niet kan worden geconfigureerd om de *authenticationmethodsreferences* -claim (met de waarde *Multipleauthn*) naar Azure ad te laten stromen om aan te geven dat de MFA-verificatie is voltooid tijdens de gebruikers verificatie. Bij het indienen van een aanvraag voor een technische uitzonde ring moet u details opgeven over de gebruikte MFA-oplossing van derden en de methode voor integratie (bijvoorbeeld via identiteits Federatie of het aangepaste besturings element van Azure AD) aanduiden, en de volgende informatie opgeven in de aanvraag voor technische uitzonde ringen als ondersteunende documenten:
 
 - De MFA-configuraties van derden.
 
@@ -255,11 +249,11 @@ Een aanvraag indienen voor een technische uitzonde ring:
 
 1. Meld u aan bij Partner Center als globale beheerder of beheer agent.
 
-2. Maak een nieuwe partner service aanvraag door te **navigeren naar ondersteunings**  >  **aanvragen voor partners** en te klikken op **nieuwe aanvraag** .
+2. Maak een nieuwe partner service aanvraag door te **navigeren naar ondersteunings**  >  **aanvragen voor partners** en een **nieuwe aanvraag** te selecteren.
 
-3. Zoeken naar **MFA-aanvraag voor uitzonde ring** in het zoekvak; of selecteer **CSP** uit categorie, selecteer **accounts, onboarding, toegang tot** onderwerp en selecteer vervolgens **MFA-aanvraag voor uitzonde ring** in het subonderwerp en selecteer **volgende stap** .
+3. Zoeken naar **MFA-aanvraag voor uitzonde ring** in het zoekvak; of selecteer **CSP** uit categorie, selecteer **accounts, onboarding, toegang tot** onderwerp en selecteer vervolgens **MFA-aanvraag voor uitzonde ring** in het subonderwerp en selecteer **volgende stap**.
 
-4. Geef de gevraagde details op voor het indienen van een service aanvraag voor een technische uitzonde ring en klik op **verzenden** .
+4. Geef de gevraagde details op voor het indienen van een service aanvraag voor technische uitzonde ring en selecteer **indienen**.
 
 Micro soft kan Maxi maal drie werk dagen duren om een antwoord te geven op een aanvraag voor technische uitzonde ring.
 

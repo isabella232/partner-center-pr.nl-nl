@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932838"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133094"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>De voor delen en aanbiedingen van uw Microsoft Partner Network lidmaatschap beheren in het partner centrum
-
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - MPN-partner beheerder
 
@@ -45,7 +41,7 @@ Voor delen pakketten zijn onder andere toewijzingen van gelicentieerde software,
 
 Als u al uw lidmaatschaps voordelen wilt weer geven en beheren, gaat u naar uw [pagina **vergoedingen**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (aanmelden vereist). U kunt zich ook aanmelden bij het [dash board](https://partner.microsoft.com/dashboard)van het partner centrum, de **optie [voor delen**] selecteren in het menu links en vervolgens de opties voor voor delen selecteren die worden weer gegeven.  
 
-Voor het activeren van de meeste voor delen of het downloaden van gerelateerde software sleutels, enzovoort, vereist het partner centrum meestal dat iemand de rol van de beheerder van de globale beheerder of de MPN-partner heeft toegewezen. Neem contact op met de globale beheerder van uw partner centrum om te controleren of u over de juiste machtigingen beschikt, als u geen voor delen kunt zien of als u de voor delen niet kunt activeren. [Meer informatie over Partner Center-rollen](permissions-overview.md).
+Voor het activeren van de meeste voor delen of het downloaden van gerelateerde software sleutels vereist het partner centrum meestal dat iemand de rol van de beheerder van de globale beheerder of het MPN-partner systeem heeft toegewezen. Neem contact op met de globale beheerder van uw partner centrum om te controleren of u over de juiste machtigingen beschikt, als u geen voor delen kunt zien of als u de voor delen niet kunt activeren. [Meer informatie over Partner Center-rollen](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Software voordelen beheren
 
@@ -76,16 +72,16 @@ Er zijn twee soorten op gebruik gebaseerde abonnementen die u zou kunnen ontvang
 U kunt het volgende inrichten:
 
 - $100/maand (of equivalent in lokale valuta) Azure maandelijks tegoed of/en
-- $6000, $12000 of/en $13000/jaar (of elk daarvan is equivalent in de lokale valuta) Azure bulk tegoed
+- $6.000, $12.000 of/en $13000/jaar (of elk daarvan is equivalent in de lokale valuta) Azure bulk tegoed
 
 Als u een Microsoft Azure-abonnement in het partner centrum wilt activeren, moet u toegang toewijzen aan een gebruiker binnen het bedrijf (inclusief gast gebruikers), die een gebruikers vermelding heeft die in uw Azure Active Directory is gemaakt.
 Voor de $100/maand (of een equivalent in de lokale valuta) kunt u op elk gewenst moment gebruikers toevoegen aan of verwijderen uit dit abonnement. 
 
-Voor de credit van Azure bulk (jaarlijks) is de optie verwijderen niet beschikbaar in partner centrum, maar u kunt het tegoed tijdens het registratie jaar overzetten naar iemand anders. Een credit abonnement van Azure bulk (jaarlijks) kan niet worden gecombineerd met andere licenties, vooraf betaalde of tegoed aanbiedingen (zoals micro soft Enterprise Agreement, Cloud Solution partner, Azure in Open, Azure Pass, Action Pack, enzovoort).
+Voor de credit van Azure bulk (jaarlijks) is de optie verwijderen niet beschikbaar in partner centrum, maar u kunt het tegoed tijdens het registratie jaar overdragen aan iemand anders. Een credit abonnement van Azure bulk (jaarlijks) kan niet worden gecombineerd met andere licenties, vooraf betaalde of tegoed aanbiedingen (dat wil zeggen, micro soft Enterprise Overeenkomst, Cloud Solution partner, Azure in Open, Azure Pass, Action Pack, enzovoort).
 
 ## <a name="license-based-subscriptions"></a>Abonnementen op basis van licenties
 
-In het gedeelte op licenties gebaseerde abonnementen van het tabblad Azure & Cloud Products vindt u alle Cloud producten waarvoor een product code voor activering is vereist, zoals micro soft O365, micro soft Dynamics, Microsoft Intune, Azure AD Basic, Power BI, enzovoort. deze worden aan u aangeboden, afhankelijk van het type aanbieding dat u hebt geactiveerd als een MPN-partner, zilver of goud.
+De sectie abonnementen op basis van licenties op het tabblad Azure & Cloud producten bevat een lijst met alle Cloud producten waarvoor een product code voor activering is vereist, zoals Microsoft Office 365, micro soft Dynamics, Microsoft Intune, Azure AD Basic en Power BI. Het type aanbieding dat u hebt geactiveerd als een MPN-partner-kaarten, zilver of goud, bepaalt welke producten worden weer gegeven.
 
 Als u de abonnementen op basis van licenties wilt activeren, klikt u op het vervolg keuzemenu in een regel met het product van belang en leest u de instructies voor het inwisselen van de sleutels. Zodra u de instructies hebt gelezen, selecteert u de koppeling waarmee u wordt omgeleid naar de portal voor het inwisselen van sleutels en de toegewezen sleutel voor uw product.
 

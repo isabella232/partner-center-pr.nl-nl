@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514727"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132295"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Een abonnement op Microsoft Action Pack of een Silver- of Gold-competentie kopen of verlengen
 
@@ -22,12 +22,12 @@ ms.locfileid: "97514727"
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - MPN-partner beheerder
 - Beheer agent
 
 
-Vanuit het [dash board](https://partner.microsoft.com/dashboard)van de Partner Center kunnen leden van de Microsoft Partner Network (MPN)) aanbiedingen kopen of vernieuwen, waaronder het micro soft Action Pack-abonnement en Silver-en Gold-competenties.
+Vanuit het [dash board](https://partner.microsoft.com/dashboard)van de Partner Center kunnen leden van de Microsoft Partner Network (MPN)) aanbiedingen kopen of vernieuwen, waaronder het micro soft Action Pack-abonnement en de Silver-en Gold-competenties.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Micro soft Action Pack voor de eerste keer kopen
 

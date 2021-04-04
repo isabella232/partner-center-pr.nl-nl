@@ -9,20 +9,20 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624150"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086546"
 ---
 # <a name="security-requirements-status-report"></a>Status rapport van beveiligings vereisten
 
 **Juiste rollen**
-- Leveranciers van het configuratie scherm
-- Globale beheerders
+- CPV-beheerder
+- Globale beheerder
 
-In dit artikel wordt het status rapport voor beveiligings vereisten in partner centrum uitgelegd. Dit rapport bevat metrische gegevens over de naleving van de vereisten voor de beveiliging van de [partner](partner-security-requirements.md) voor multi-factor Authentication (MFA) voor gebruikers in uw partner Tenant.
+In dit artikel wordt het status rapport voor beveiligings vereisten in partner centrum uitgelegd. Dit rapport bevat metrische gegevens over de naleving van vereisten voor de beveiliging van de [partner](partner-security-requirements.md) voor multi-factor Authentication (MFA) voor gebruikers in uw partner Tenant.
 
 Als u dit rapport in [partner centrum](https://partner.microsoft.com/dashboard)wilt openen, gaat u naar **instellingen**  >  **account instellingen**  >  **beveiligings vereisten status**. Het rapport wordt dagelijks bijgewerkt en weerspiegelt de aanmeldings gegevens van de afgelopen zeven dagen.
 
@@ -53,7 +53,7 @@ De metrische gegevens **via de Partner Center-Portal** zijn gerelateerd aan acti
 - Op de tweede dag is Jan aangemeld bij het Partner Center-dash board zonder MFA-verificatie en werden er vijf bewerkingen uitgevoerd.
 - Op de derde dag heeft Jeroen aangemeld bij het Partner Center-dash board met MFA-verificatie en twee bewerkingen uitgevoerd.
 - Er zijn voor de resterende vier dagen geen bewerkingen uitgevoerd door een van de agents.
-- Van de tien verwerkingen die in het 7-dagen venster zijn gemaakt, werden er twee gedaan door de gebruiker met MFA-verificatie. De metriek toont daarom 20%.
+- Van de tien verwerkingen die in het venster van zeven dagen zijn gemaakt, zijn er twee gedaan door de gebruiker met MFA-verificatie. De metriek toont daarom 20%.
 
 Gebruik de aanvragen voor bestands **portals zonder MFA** om te begrijpen welke gebruiker zich heeft aangemeld bij het Partner Center-dash board zonder MFA-verificatie en de tijd van de laatste bezoek tijdens het rapportage venster.
 
@@ -82,7 +82,7 @@ Sommige partners die MFA hebben geïmplementeerd, zien mogelijk metrische rappor
 
 ### <a name="implemented-mfa-for-your-partner-tenant"></a>Geïmplementeerde MFA voor uw partner-Tenant
 
-U moet MFA implementeren voor uw partner-Tenant om naleving te bereiken. Zie [beveiligings vereisten voor het gebruik van partner Center of partner Center api's](partner-security-requirements.md)voor meer informatie over het implementeren van MFA.
+U moet MFA implementeren voor de partner-Tenant om naleving te bereiken. Zie [beveiligings vereisten voor het gebruik van partner Center of partner Center api's](partner-security-requirements.md)voor meer informatie over het implementeren van MFA.
 
 >[!NOTE]
 > MFA-metrische gegevens worden dagelijks berekend en worden uitgevoerd in de afgelopen zeven dagen. Als u alleen een MFA-implementatie hebt voltooid voor uw partner-Tenant, worden de metrische gegevens mogelijk nog niet 100% weer gegeven.

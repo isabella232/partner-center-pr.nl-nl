@@ -1,21 +1,22 @@
 ---
 title: Betalen in partner centrum
-description: Meer informatie over het ontvangen van betalingen voor inkomsten als een micro soft-partner, zoals commerciële Marketplace-aanbiedingen, prikkel Programma's en het Cloud Solution Provider-programma. Inclusief uitbetalings beleid, status van uitbetalings blokkering en uitbetalings instructies.
-ms.service: marketplace
+description: Meer informatie over het ontvangen van betalingen voor inkomsten als een micro soft-partner, zoals commerciële Marketplace-aanbiedingen, prikkel Programma's en het Cloud Solution Provider-programma. Inclusief uitbetalings beleid, status van uitbetalings blokkering en uitbetalings verklaringen.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492446"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133077"
 ---
 # <a name="getting-paid-in-partner-center"></a>Betalen in partner centrum
 
-**Juiste rollen:**
+**Juiste rollen**
 
 - Accountbeheerder
 - Globale beheerder
@@ -38,7 +39,7 @@ Voordat u de eerste keer betaalt, moet u uw account voor betaling instellen en d
 
 ### <a name="payout-hold-status"></a>Status uitbetalings blokkering
 
-Standaard worden betalingen maandelijks verzonden, zoals hierboven wordt beschreven. U hebt echter de mogelijkheid om uw uitbetalingen voor een programma in de wacht te zetten en micro soft brengt uw betalingen niet aan uw account door. Als u ervoor kiest om uw uitbetalingen in de wacht te zetten, blijven we de inkomsten op de pagina **uitbetalingen** vastleggen. Er worden echter geen betalingen naar uw account verzonden totdat u de blok kering verwijdert.
+Standaard worden betalingen maandelijks verzonden, zoals hierboven wordt beschreven. U kunt uw uitbetalingen echter voor een programma in de wacht zetten en micro soft brengt uw betalingen niet aan uw account door. Als u ervoor kiest om uw uitbetalingen in de wacht te zetten, blijven we de inkomsten op de pagina **uitbetalingen** vastleggen. Er worden echter geen betalingen naar uw account verzonden totdat u de blok kering verwijdert.
 
 Als u uw betalingen in de wacht wilt plaatsen, selecteert u het tandwiel pictogram **instellingen** in de rechter bovenhoek en vervolgens de **account instellingen**. Selecteer **uitbetaling en BTW** in het linkermenu en zoek in het gedeelte **toekennings-en BTW-profiel toewijzing** het programma waarvoor u betalingen wilt houden. Schakel het selectie vakje **mijn betaling bewaren** in om betalingen voor dit programma te bewaren. U kunt de status van uw uitbetalings blokkering op elk gewenst moment wijzigen, maar uw beslissing is van invloed op de volgende maandelijkse uitbetaling. Als u bijvoorbeeld de uitbetaling van april wilt bewaren, moet u ervoor zorgen dat u vóór het einde van maart de status van uw uitbetalings blokkering hebt ingesteld **op aan.**
 

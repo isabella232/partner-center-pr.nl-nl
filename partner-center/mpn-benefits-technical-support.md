@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712899"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133026"
 ---
 # <a name="technical-support-benefits"></a>Voor delen van technische ondersteuning
 
 **Juiste rollen**
--   Globale beheerder 
--   MPN-partner beheerder 
--   Beheer agent 
+
+- Globale beheerder
+- MPN-partner beheerder
+- Beheer agent
 
 ## <a name="overview"></a>Overzicht
 
@@ -38,11 +39,11 @@ U kunt als volgt uw technische voor delen bekijken en activeren in Partner Cente
 2. Vouw voor delen uit in het navigatie menu links en selecteer **technische voor delen**. De pagina technische voor delen wordt weer gegeven met een lijst met technische ondersteunings voordelen die beschikbaar zijn voor uw gouden, zilver of micro soft Action Pack lidmaatschaps aanbiedingen. 
 
     > [!NOTE]
-    >Als u geen actieve lidmaatschaps aanbiedingen hebt, ziet u het bericht ' lijkt er nog geen voor delen meer '. Als uw bedrijf actieve lidmaatschaps aanbiedingen heeft, maar u deze niet kunt zien, bent u mogelijk aangemeld met het verkeerde account. Als u uw account wilt controleren, klikt u op het **account** pictogram in de rechter bovenhoek van de pagina en klikt u op **Aanmelden met een ander account** (indien nodig).
+    >Als u geen actieve lidmaatschaps aanbiedingen hebt, ziet u het bericht ' lijkt er nog geen voor delen meer '. Als uw bedrijf actieve lidmaatschaps aanbiedingen heeft, maar u deze niet kunt zien, bent u mogelijk aangemeld met het verkeerde account. Als u uw account wilt controleren, selecteert u het pictogram **account** in de rechter bovenhoek van de pagina en selecteert u **Aanmelden met een ander account** (indien nodig).
 
 3. Om aan de slag te gaan met een product ondersteuning van micro soft of hand tekeningen, moet u het voor deel activeren. De toegangs-ID en contract-ID worden weer gegeven na een geslaagde activering. 
 
-    -   Als u het voor deel wilt activeren, klikt u op de knop activeren. Voor het gebruikers account dat wordt gebruikt voor de activering zijn de rollen globale beheerder of MPN-partner beheerder vereist. Wacht enkele dagen om uw activerings aanvraag te verwerken. 
+    -   Selecteer de knop activeren om het voor deel te activeren. Voor het gebruikers account dat wordt gebruikt voor de activering zijn de rollen globale beheerder of MPN-partner beheerder vereist. Wacht enkele dagen om uw activerings aanvraag te verwerken. 
 
     - U kunt micro soft product support en hand tekening product ondersteuning (Gold-en Silver-leden) gebruiken wanneer de toegangs-ID en contract-ID worden weer gegeven. 
 
@@ -73,7 +74,7 @@ U hebt de toegangs-ID en contract-ID nodig wanneer u het voor deel voor het eers
 
 Elk gebruikers account (AAD of MSA) kan gebruikmaken van technische ondersteuning voor on-premises producten als ze de toegangs-ID en contract-ID hebben
 
-Klik op [ondersteuning voor bedrijven](https://support.serviceshub.microsoft.com/supportforbusiness/create) om een ondersteunings aanvraag voor een on-premises product te maken.
+Selecteer [ondersteuning voor bedrijven](https://support.serviceshub.microsoft.com/supportforbusiness/create) om een ondersteunings aanvraag voor een on-premises product te maken.
 
 ## <a name="signature-cloud-support-cloud-only"></a>Ondersteuning voor hand tekeningen in de Cloud (alleen in de Cloud)
 
@@ -83,13 +84,13 @@ U hebt de toegangs-ID en contract-ID nodig wanneer u het voor deel voor het eers
 
 CSP-partners die Azure-aanvragen maken, kunnen gebruikmaken van het ondersteunings plan ' Cloud solution provider ' zonder een ondersteunings contract toe te voegen.
 
-Gebruikers met de rol **beheerder agent** kunnen [klanten](https://partner.microsoft.com/commerce/customers/list) selecteren onder CSP in het navigatie menu aan de linkerkant, selecteer **Service beheer** en klik op **nieuwe aanvraag**.  Wanneer u de relevante werk belasting selecteert, wordt de werk belasting-specifieke portal geopend en voegt u een ondersteunings contract toe en maakt u een aanvraag.
+Gebruikers met de rol **beheerder agent** kunnen [klanten](https://partner.microsoft.com/commerce/customers/list) selecteren onder CSP in het navigatie menu aan de linkerkant, selecteer **Service beheer** en selecteer **nieuwe aanvraag**.  Wanneer u de relevante werk belasting selecteert, wordt de werk belasting-specifieke portal geopend en voegt u een ondersteunings contract toe en maakt u een aanvraag.
 
 ## <a name="partner-support-plans"></a>Ondersteunings abonnementen voor partners
 
 U kunt betaalde ondersteuning van micro soft krijgen met technische ondersteuning en een aantal extra service opties. 
 
-U kunt [partner ondersteunings plannen vergelijken](https://partner.microsoft.com/support/partnersupport) of hieronder bekijken voor specifieke plannen voor partners:
+U kunt [partner ondersteunings plannen vergelijken](https://partner.microsoft.com/support/partnersupport) of hieronder bekijken voor partner-specifieke abonnementen:
 
 - [Premier Support voor partners](https://partner.microsoft.com/support/microsoft-services-premier-support) -het hoogste niveau van technische ondersteuning van micro soft
 - [Geavanceerde ondersteuning voor partners](https://partner.microsoft.com/support/advanced-cloud-support) -alleen Cloud producten

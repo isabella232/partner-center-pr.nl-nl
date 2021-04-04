@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/01/2021
+ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730056"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280850"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
 Meer informatie over belangrijke updates in Partnercentrum. Deze informatie wordt regelmatig bijgewerkt. Kom dus vaak hier terug!
 
-|**Categorie**|**Aankondigingen van maart 2021**|**Aangekondigd**|
+|**Categorie**|**Mede delingen van april 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Functies|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2021-april.md#2)|2 april|
+|Functies|[Product lanceringen en aanbiedingen van deze maand bekijken](2021-april.md#1)|1 april|
+|**Categorie**|**Aankondigingen van maart 2021**|**Aangekondigd**|
+|Functies|[Bijgewerkte CSP-klant adres validatie-API nu beschikbaar voor testen](2021-march.md#18)|31 maart|
 |Aanbiedingen/moderne werk plek|[Nieuwe versie van het Exchange-beheer centrum (SBV)](2021-march.md#17)|29 maart|
 |Aanbiedingen/moderne werk plek|[Micro soft Operations: introductie van de agenda voor product lancering](2021-march.md#16)|25 maart|
 |Functies|[Wijzigingen in de vereisten voor de CSP-klant voor bereiding](2021-march.md#15)|25 maart|

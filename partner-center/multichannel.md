@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "92527496"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132720"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Ondersteuning voor meerdere kanalen: gebruik andere partners om klanten te ondersteunen die elders zijn aangeschaft
 
 **Van toepassing op**
 
-- Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partner centrum voor micro soft Government Cloud
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Verkoop agent
 
 De multi channel-functie van het partner Centrum ondersteunt scenario's wanneer een klant een partner wil huren om een abonnement te beheren en te ondersteunen dat ze elders hebben gekocht. Ondersteuning voor meerdere kanalen is van toepassing wanneer de klant:

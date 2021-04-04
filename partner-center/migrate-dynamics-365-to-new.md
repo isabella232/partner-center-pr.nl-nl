@@ -9,22 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d441d121c28c2762d1f1c71d6f6a1e81d089f99c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527517"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132635"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrate Dynamics 365 Business Edition Offers to newer versions (Aanbiedingen van Dynamics 365 Business Edition migreren naar nieuwere versies)
 
-**Van toepassing op**
-
-- Partnercentrum
-
 **Juiste rollen**
+
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - Verkoop agent
 
@@ -55,20 +52,20 @@ Dynamics 365 Business Edition-klanten komen in aanmerking voor korting op prijze
 ## <a name="purchase-the-new-plan-for-your-customer"></a>Koop het nieuwe abonnement voor uw klant
 
 1. Selecteer **klanten** in het linkerdeel venster en selecteer vervolgens de klant die u naar het nieuwe abonnement wilt verplaatsen.
-2. Selecteer **abonnement toevoegen** .
-3. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer vervolgens **verzenden** . 
+2. Selecteer **abonnement toevoegen**.
+3. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer vervolgens **verzenden**. 
 
 Uw klant heeft nu zowel het oude als het nieuwe abonnement. De volgende stap is het opnieuw toewijzen van licenties aan de gebruikers van de klant.
 
 1. Selecteer **klanten** in het linkerdeel venster en selecteer vervolgens de klant die u wilt verplaatsen.
-2. Selecteer **gebruikers en licenties** .
-3. Als u een licentie wilt toewijzen aan een gebruiker, selecteert u de gebruiker en selecteert u vervolgens **licenties beheren** . 
+2. Selecteer **gebruikers en licenties**.
+3. Als u een licentie wilt toewijzen aan een gebruiker, selecteert u de gebruiker en selecteert u vervolgens **licenties beheren**. 
 4. Schakel op de pagina **licenties beheren** het selectie vakje Dynamics 365 voor verkoop/klant engagement van de Basic-licentie (gekwalificeerd aanbod) uit en selecteer een nieuw service plan voor het abonnement waarnaar de klant wordt verplaatst. 
-5. Selecteer **Indienen** . U kunt dit doen voor elke gebruiker die de nieuwe licentie nodig heeft. 
+5. Selecteer **Indienen**. U kunt dit doen voor elke gebruiker die de nieuwe licentie nodig heeft. 
 
 Zodra u de licenties hebt verplaatst naar het nieuwe abonnement, kunt u het oude abonnement annuleren. 
 
 1. Selecteer **klanten** in het linkerdeel venster en selecteer vervolgens de klant die u wilt verplaatsen.
-2. Stel op de pagina abonnements Details het oude abonnement in op **opgeschort** en selecteer **indienen** .
+2. Stel op de pagina abonnements Details het oude abonnement in op **opgeschort** en selecteer **indienen**.
 
 Het oude abonnement is nu onderbroken en het nieuwe abonnement is actief. Het opgeschorte abonnement wordt na 120 dagen niet meer ingericht. Uw klant heeft geen extra kosten in rekening gebracht voor het oude abonnement.

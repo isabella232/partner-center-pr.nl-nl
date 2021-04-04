@@ -8,17 +8,130 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/24/2021
-ms.openlocfilehash: e2e40807ddeb7fc3aa0fcfb20f34eb71d0a9e118
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/02/2021
+ms.openlocfilehash: 5b8c5f52207a7b9a49d07885a36b61486be45497
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730077"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280867"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft partner centrum voor maart 2021.
+
+________________
+## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>Bijgewerkte CSP-klant adres validatie-API nu beschikbaar voor testen
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-31
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Als onderdeel van onze toezeg ging om partners en klanten te helpen hun bedrijf op basis van vertrouwen uit te voeren, zullen we wereld wijd partners uitnodigen om de wijzigingen in de ValidateAddress-API te testen.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Alle CSP direct-factuur partners en indirecte providers die nieuwe klant adres gegevens maken of bijwerken
+
+### <a name="details"></a>Details
+
+Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode te bieden voor het indienen van validatie van klant adressen voor het handelen van klant abonnementen in het CSP-programma. Vandaag 31 maart 2021 zijn er wijzigingen aangebracht in de ValidateAddress-API die u wilt uitnodigen om te testen voordat u live gaat met de wijzigingen in juni 2021. 
+
+Houd er rekening mee dat deze wijzigingen alleen van invloed zijn op de ValidateAddress-API. CreateCustomer-en UpdateBillingProfile-Api's worden niet beïnvloed.
+
+Het antwoord retourneert een van de volgende status berichten:
+
+| Status | Beschrijving | Aantal voorgestelde opgehaalde adressen |
+|----------|-------------|-------------------|
+| VerifiedShippable | Adres wordt gecontroleerd en kan worden verzonden naar. | Enkelvoudig |
+| Gegaan | Adres is geverifieerd. | Enkelvoudig |
+| InteractionRequired | Aanbevolen adres (sen) is aanzienlijk gewijzigd en heeft de gebruikers bevestiging nodig. | Enkelvoudig |
+| StreetPartial | De opgegeven straat in het adres is gedeeltelijk en er is meer informatie nodig. | Meerdere: Maxi maal drie|
+| PremisesPartial | De opgegeven locatie (gebouw nummer, Suite nummer, enz.) is gedeeltelijk en er is meer informatie nodig. | Meerdere: Maxi maal drie |
+| Meerdere | Er zijn meerdere velden die gedeeltelijk in het adres voor komen (mogelijk ook met StreetPartial en PremisesPartial). | Meerdere: Maxi maal drie |
+| Geen | Adres is onjuist. | Geen |
+| NotValidated | Het adres kan niet worden verzonden via het validatie proces.  | Geen |
+
+Zodra een adres is verzonden om te worden gevalideerd via de ValidateAddress-API, wordt het volgende antwoord schema geretourneerd:
+
+```csharp
+
+// <summary>
+/// Object represents the address validation response.
+/// </summary>
+
+public class AddressValidationResponse
+{
+   /// <summary>
+   /// Gets or sets the original address
+   /// </summary>
+   /// <value>
+   /// Original Address
+   /// </value>
+   public Address OriginalAddress { get; set; }
+
+   /// <summary>
+   /// Gets or sets the suggested addresses
+   /// </summary>
+   /// <value>
+   /// Suggested Addresses
+   /// </value>
+   public List<Address> SuggestedAddresses { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation status
+   /// </summary>
+   /// <value>
+   /// Status
+   /// </value>
+   public string Status { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation message
+   /// </summary>
+   /// <value>
+   /// Validation Message
+   /// </value>
+   public string ValidationMessage { get; set; }
+   ```
+
+Bekijk dit voorbeeld antwoord. Houd er rekening mee dat voor de Verenigde Staten een extra achtervoegsel van vier cijfers voor de post code wordt geretourneerd als u slechts vijf cijfers invoert voor de post code.
+
+```csharp
+// IAggregatePartner partnerOperations;
+// string customerId;
+// s{
+"suggested_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Microsoft Way",
+    "postal_Code": "98052-8300"
+},
+"original_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Micro Way",
+    "postal_Code": "98052"
+},
+"status":  "InteractionRequired",
+"validation_message": "Address field invalid for property: ‘Street’"
+}
+```
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Deel uw Tenant-ID van de sandbox met onze deskundige expert (MKB), Ali Donkerkhaki, die in de test vlucht moet worden opgenomen, zodat u kunt beginnen met het voorbereiden van de update.
+
+- Als u een CPV-oplossing (configuratie scherm) gebruikt, raadpleegt u uw CPV.
+
+### <a name="questions"></a>Vragen?
+
+Als u vragen hebt of ondersteuning nodig hebt voor uw bedrijfs activiteiten met micro soft, neem dan contact op met de Yammer-groep van uw partner ondersteuning.
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Nieuwe versie van het Exchange-beheer centrum (SBV)

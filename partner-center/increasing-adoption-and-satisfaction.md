@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691364"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178932"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Metrische gegevens gebruiken in het partner centrum om de aanneming en tevredenheid te verg Roten
-
-**Van toepassing op**
-
-- Partnercentrum
-- Programma Cloud Solution Provider
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - Verkoop agent
 
@@ -61,7 +56,7 @@ U kunt licentie-en gebruikers gegevens voor één klant of in uw port Folio vind
 
 Terminologie:
 
-- **Recht** = een licentie die de gebruiker gerechtigd is te gebruiken (deze wordt niet onderbroken voor fraude of niet-betaling, is niet bijgewerkt naar een andere licentie, het is niet geannuleerd door de gebruiker, enzovoort).
+- **Recht** = een licentie die de gebruiker gerechtigd is te gebruiken (deze wordt niet onderbroken voor fraude of niet-betaling, is niet bijgewerkt naar een andere licentie, het is niet geannuleerd door de gebruiker of een ander probleem).
 
 - **Actief** = als de geabonneerde gebruiker het recht heeft gebruikt voor een taak in de afgelopen 28 kalender dagen.
 
@@ -69,7 +64,7 @@ Terminologie:
 
 - **Gebruik%** = actieve gebruikers/totaal aantal gebruikers
 
-   Soms is het gebruik% oneffen of groter dan 100%. Dit kan gebeuren om verschillende redenen:
+   Soms is het gebruik% oneffen of groter dan 100%. Dit probleem kan verschillende oorzaken hebben:
 
   - Als de klant de omzet van werk nemers had en de licentie is overgedragen naar een nieuwe gebruiker.
 
@@ -87,7 +82,7 @@ Als u een groot aantal Help-en instructies met betrekking tot vragen hebt, zijn 
 
 **Probleem**: het acceptatie tempo van de gebruiker is laag en er zijn veel licenties die niet worden gebruikt.
 
-**Wat u kunt overwegen**: klanten begrijpen mogelijk niet de waarde die de software kan leveren. Ze moeten helpen bij het maken van de manier waarop ze deze kunnen opnemen in hun dag om taken te vereenvoudigen die ze al uitvoeren, of om nieuwe soorten productiviteit in te scha kelen.
+**Wat u kunt overwegen**: klanten begrijpen mogelijk niet de waarde die de software kan leveren. Ze hebben hulp nodig bij het voors telling van de manier waarop ze deze kunnen opnemen op hun dag om taken te vereenvoudigen die ze al uitvoeren, of om nieuwe soorten productiviteit in te scha kelen.
 
 **Wat u kunt** doen: casestudy's, gebruikers ervaringen over specifieke scenario's, zelf studie blogs of Video's.
 

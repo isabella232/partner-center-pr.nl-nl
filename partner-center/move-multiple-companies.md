@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528540"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132652"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Meerdere bedrijven verplaatsen naar partner Center vanuit een Partner Membership Center (PMC)
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - Verkoop agent
 
@@ -47,11 +47,11 @@ Nadat u hebt gemigreerd, kunt u die aanwijzing wijzigen als u ontdekt dat de ver
 
 U ziet uw bestaande account en er wordt een opmerking weer gegeven dat uw bedrijfs gegevens (het account waarmee u momenteel bent aangemeld) worden geconsolideerd in dit account.
 
-:::image type="content" source="images/migration/existingaccount2.png" alt-text="Bestaand account":::
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Account in partner centrum":::
 
 In dit scherm ziet u de details van het bestaande account (naam en adres) dat al is gemaakt in het partner centrum, samen met de details van de primaire contact persoon.
 
-Selecteer **Doorgaan** .
+Selecteer **Doorgaan**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Wat er gebeurt tijdens de consolidatie van accounts
 
@@ -76,11 +76,11 @@ Controleer de informatie over uw bedrijf en bewerk zo nodig.  Deze gegevens word
 De details zijn gebaseerd op de informatie in PMC en worden gecontroleerd om ervoor te zorgen dat het bedrijf echt is.
 
 
-:::image type="content" source="images/migration/review.png" alt-text="Bestaand account":::
+:::image type="content" source="images/migration/review.png" alt-text="Details bekijken":::
 
 Als het account dat u wilt verplaatsen zich in hetzelfde land of dezelfde regio bevindt als het bestaande account, kunt u besluiten of u dat adres wilt gebruiken of een andere wilt toevoegen. Als u besluit een ander adres te gebruiken, wordt dat adres gecontroleerd. Als u hetzelfde adres wilt gebruiken, worden het bestaande adres en de primaire contact persoon gebruikt.
 
-Nadat u de informatie op dit scherm hebt gecontroleerd/bewerkt, klikt u op verzenden en worden uw accounts geconsolideerd.
+Nadat u de informatie op dit scherm hebt gecontroleerd/bewerkt, selecteert u **verzenden** en worden uw accounts geconsolideerd.
 
 ## <a name="partner-profile"></a>Partner Profiel
 
@@ -89,7 +89,7 @@ Wanneer u uw profiel bekijkt, ziet u de gegevens voor uw juridische zaken (in PM
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Overstappen van PMC naar Partnercentrum](move-pmc-pc-map.md)
-- [Gebruikers accounts maken](create-user-accounts-and-set-permissions.md)
+- [Gebruikersaccounts maken](create-user-accounts-and-set-permissions.md)
 - [Gebruikersrollen en -machtigingen toewijzen](permissions-overview.md)
 - [Uw lidmaatschaps Programma's beheren](renew-mpn-offers.md)
 - [Het bedrijfs profiel van uw bedrijf maken](create-a-marketing-profile.md)

@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92528224"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086189"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport met product abonnementen is beschikbaar via het Partner Center Insights-dash board
 
 **Juiste rollen**
+
 - Globale beheerder
 - Beheer agent
 - Rapport viewer
 - Rapport Viewer Executive
 
-Het rapport product abonnementen bevat analyses op Cloud abonnementen die u hebt verkocht of die u beheert voor uw klanten. Dit is een productspecifiek rapport dat de prestaties omvat van de abonnementen die zijn gekoppeld aan Cloud producten, zoals Office 365, azure, Dynamics, enzovoort.
+Het rapport product abonnementen bevat analyses op Cloud abonnementen die u hebt verkocht of die u beheert voor uw klanten. Dit is een productspecifiek rapport met de prestaties van abonnementen die zijn gekoppeld aan Cloud producten, zoals Office 365, azure, Dynamics en anderen.
 
 U kunt de volgende secties bekijken in het rapport product abonnementen.
 
@@ -44,7 +45,7 @@ In de sectie samen vatting vindt u een moment opname van de Kpi's (Key Performan
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="samen vatting abonnementen rapport":::
 
-Hieronder vindt u meer informatie over elke sectie van de samen vatting.
+Zie hieronder voor meer informatie over elke sectie van de samen vatting:
 
 - Abonnementen:
   - Huidig aantal Cloud product abonnementen dat door u wordt verkocht of beheerd.
@@ -76,7 +77,7 @@ In de weer gave **abonnementen op geografische** gebieden ziet u de geografische
 
 U kunt in het raster zoeken en een land selecteren om in te zoomen op de locatie in de kaart. Druk op de **Start** optie op de kaart om terug te keren naar de oorspronkelijke weer gave. Beweeg de muis aanwijzer op de kaart om alle abonnementen en actieve abonnementen op land weer te geven. Beide velden in het raster zijn sorteerbaar.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="samen vatting abonnementen rapport":::
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="abonnementen op geografie":::
 
 ## <a name="subscription-addschurns"></a>Toevoeging/verloop van abonnementen
 
@@ -84,19 +85,19 @@ Deze weer gave bevat een trend van abonnementen. Deze worden onderverdeeld in ve
 
 Het gestapelde kolom diagram geeft een overzicht van nieuwe, bestaande en getoonde abonnementen voor de maand. U kunt het kolom diagram opnieuw samen stellen, gesplitst met specifieke stack-items. Hiertoe selecteert u de specifieke items in de legenda. U kunt ook de schuif regelaar boven op het diagram gebruiken om in te zoomen op een specifieke periode.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="samen vatting abonnementen rapport":::
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="toevoeging en verloop van abonnementen":::
 
 ## <a name="subscription-distribution"></a>Abonnements distributie
 
-In deze weer gave ziet u een uitsplitsing van uw huidige abonnementen door uw MPN-locaties, klant segmenten, verkoop kanaal/Azure-prijs model en het type toerekening (bijvoorbeeld DPOR, DAP enz.). Klik op de betreffende tabbladen om de uitsplitsing van deze categorieën weer te geven. Als u het cirkel diagram wilt maken met een uitsplitsing van specifieke item categorieën, selecteert u die item categorieën in de legenda.
+In deze weer gave ziet u een overzicht van uw huidige abonnementen op uw MPN-locaties, klant segmenten, verkoop kanaal/Azure-prijs model en het type toewijzing (bijvoorbeeld DPOR, DAP en andere). Selecteer de betreffende tabbladen om de uitsplitsing van deze categorieën weer te geven. Als u het cirkel diagram wilt maken met een uitsplitsing van specifieke item categorieën, selecteert u die item categorieën in de legenda.
 
-:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="samen vatting abonnementen rapport":::
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="abonnements distributie":::
 
 ## <a name="subscription-state-distribution"></a>Distributie van abonnements status
 
-In deze weer gave ziet u de distributie van uw huidige abonnementen op klanten per abonnements status of-status. Dit omvat de volgende abonnements statussen: **actief** , **uitgeschakeld** , **oningericht** , **Open** , **respijt periode** , **gesloten** en **anderen** .
+In deze weer gave ziet u de distributie van uw huidige abonnementen op klanten per abonnements status of-status. Dit omvat de volgende abonnements statussen: **actief**, **uitgeschakeld**, **oningericht**, **Open**, **respijt periode**, **gesloten** en **anderen**.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="samen vatting abonnementen rapport":::
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distributie van abonnements status":::
 
 ## <a name="products-trend"></a>Trend van producten
 
@@ -104,7 +105,7 @@ In deze weer gave ziet u een staaf diagram en twee cirkel diagrammen. In het sta
 
 In de twee cirkel diagrammen ziet u een uitsplitsing van uw huidige klant abonnementen. In het eerste cirkel diagram worden de abonnementen op producten opsplitst. In het tweede cirkel diagram worden abonnementen op Sku's of plannen opgesplitst. Wanneer u een product selecteert in het cirkel diagram uitsplitsing **per product** , ziet u in het aangrenzende cirkel diagram een uitsplitsing van de abonnementen van dat product per SKU.
 
-:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="samen vatting abonnementen rapport":::
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="trend van producten":::
 
 > [!NOTE]
  > Het aantal abonnementen dat is opgesplitst door Sku's, mag niet altijd overeenkomen met het totale aantal abonnementen voor dat product. Dit kan gebeuren als een klant meerdere Sku's heeft aangeschaft onder hetzelfde product abonnement.

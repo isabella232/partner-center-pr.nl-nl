@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880766"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178949"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partner met indirecte resellers in het programma Cloud Solution Provider
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - Verkoop agent
 
 Met een dergelijke complexe en snel veranderende technologie markt, willen klanten de concurrentie voordelen die technologie oplossingen kunnen geven. In een dergelijk klimaat is het zinvol dat partners investeren in partner-to-partner-betrokkenheid om aanbiedingen te kunnen uitbreiden en klanten nog meer kunnen doen.
 
-Nieuwe wederverkopers voeren de markt in en willen manieren om hun oplossingen te bieden aan klanten buiten hun markt en land instellingen. Als een gevestigde technologie provider is het goed gepositioneerd om de route naar de markt te brengen. Partner met indirecte wederverkopers in het Cloud Solution Provider-programma (CSP) om verbinding te maken met andere partners, nieuwe oplossingen op de markt te brengen en de acceptatie van Cloud Services van klanten te verbeteren.
+Nieuwe wederverkopers voeren de markt in en willen manieren om hun oplossingen te bieden aan klanten buiten hun markt en land instellingen. Als een gevestigde technologie provider bent u goed gepositioneerd om de route naar de markt te brengen. Partner met indirecte wederverkopers in het Cloud Solution Provider-programma (CSP) om verbinding te maken met andere partners, nieuwe oplossingen op de markt te brengen en de acceptatie van Cloud Services van klanten te verbeteren.
 
 In het model van de indirecte provider-Reseller (twee lagen) kunt u partner met indirecte wederverkopers micro soft-cloud oplossingen aan klanten aanbieden. U koopt producten en abonnementen rechtstreeks van micro soft en biedt deze oplossingen aan klanten via uw wederverkopers.
 
@@ -111,7 +111,7 @@ Volg de onderstaande stappen om samen werking met een bestaande indirecte wederv
 
 1. Selecteer in het menu Partner Center op het dash board de optie **indirecte wederverkopers**. 
 
-2. Selecteer op de pagina **indirecte wederverkopers** de optie samen **werking verwijderen**. Er wordt een bericht weer gegeven waarin wordt gevraagd om bevestiging. Selecteer Ja om door te gaan.
+2. Selecteer op de pagina **indirecte wederverkopers** de optie samen **werking verwijderen**. Er wordt een bericht weer gegeven waarin u wordt gevraagd om een bevestiging. Selecteer **Ja** om door te gaan.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Partnership verwijderen":::
 
@@ -151,7 +151,7 @@ Wanneer u een wederverkoper koppelt aan een nieuw klant account, bent u verantwo
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Nieuwe abonnementen toevoegen aan klant accounts
 
-Wanneer klanten nieuwe abonnementen willen kopen, bestaande bij te werken, of om aanvullende licenties te kopen, kunt u deze wijzigingen aanbrengen in het account van de klant via de M365-Portal. U kunt dit niet doen in de Azure Portal.
+Wanneer klanten nieuwe abonnementen willen kopen, bestaande bij te werken, of om aanvullende licenties te kopen, kunt u deze wijzigingen aanbrengen in het account van de klant via de Microsoft 365 Portal. U kunt dit niet doen in de Azure Portal.
 
 1. Selecteer **klanten** in het menu van uw **partner centrum** .
 

@@ -9,19 +9,19 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556392"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086529"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Tegoed van de partner: een overzicht van hoe het werkt in de nieuwe Commerce-ervaring in CSP
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - Factureringsbeheerder
 - Verkoop agent
@@ -30,7 +30,7 @@ Het tegoed van de partner in de nieuwe Commerce-ervaring in CSP is een bedrijfs 
 
 Prijzen kunnen lastig zijn voor veel klanten en partners, met name wanneer u de duizenden Services in azure overweegt en meerdere opties hebt om te kopen. In de nieuwe Commerce-ervaring voor Azure zijn we afgestemd op enkele wereld wijde prijs principes die van toepassing zijn op alle bewegingen die we handelen. CSP-partners kunnen Azure tegen de gepubliceerde prijzen aanbieden. Dit biedt een grotere transparantie voor hun klanten en bouwt vertrouwen.
 
-De digitale trans formatie behoeften van onze klanten wijzigen de aard van de waarde die de partners bieden. Veel klanten kijken naar partners om services boven en buiten de trans actie te leveren. Dergelijke services kunnen hen helpen hun Cloud traject te versoepelen en ze te helpen hun Azure-Services efficiënt te gebruiken. Deze services zijn doorlopend en bevatten Azure-bewaking, beleid en beheer, en het instellen en configureren van fijnafstelling, technische ondersteuning en diverse andere services. 
+De digitale trans formatie behoeften van onze klanten wijzigen de aard van de waarde die de partners bieden. Veel klanten kijken naar partners om services boven en buiten de trans actie te leveren. Dergelijke services kunnen hen helpen hun Cloud traject te versoepelen en ze te helpen hun Azure-Services efficiënt te gebruiken. Deze services zijn doorlopend en bevatten Azure-toezicht, beleid en beheer, het instellen en configureren van fijnafstelling, technische ondersteuning en verschillende andere services. 
 
 Voor deze services moet een partner zowel bekend zijn met de Azure-omgeving van de klant als voor continue en passende governance en controle van de onderliggende resources die ze beheren. Facturerings partners die deze 24 X 7-activiteiten voor Cloud bewerkingen bieden, komen in aanmerking voor een partner die is gefactureerd **voor services** die worden beheerd door het Azure-eigendom van de klant en door de partner worden beheerd.
 
@@ -51,7 +51,7 @@ Als klanten overstappen op Cloud Computing platformen, worden ze geconfronteerd 
 
 Uw klanten kunnen u helpen hun bedrijf optimaal te benutten in Azure. Met beheerde services kunt u uw klanten regel matig voorzien van de ondersteunt-service. Enkele van de dagelijkse bewerkingen en ondersteuning die u kunt bieden zijn onder andere:
 
-- **Cloud bewerkingen en-beheer Services**: klanten kijken naar partners van micro soft om de kosten in azure te verlagen tijdens het reproduceren van de isolatie, beveiligings beleidsregels en audit modellen die ze vandaag hebben. Ze verwachten ook dat partners toegang hebben tot rijpe hulpprogram ma's voor het identificeren van de werk belasting en de eenmalige implementatie en lopende operationele kosten van Azure. Daarnaast hebben klanten ondersteuning nodig voor automatisering en indeling, het patchen van updates, configuratie beheer, back-up en herstel na nood gevallen en identiteits beheer. 
+- **Cloud bewerkingen en-beheer Services**: klanten kijken naar partners van micro soft om de kosten in azure te verlagen tijdens het reproduceren van de isolatie, beveiligings beleidsregels en audit modellen die ze vandaag hebben. Ze verwachten ook dat partners toegang hebben tot de hulpprogram ma's voor het identificeren van de werk belasting en de eenmalige implementatie en lopende operationele kosten van Azure. Daarnaast hebben klanten ondersteuning nodig voor automatisering en indeling, het patchen van updates, configuratie beheer, back-up en herstel na nood gevallen en identiteits beheer. 
 
 - **Cloud bewaking en technische ondersteuning**: in een wereld met Cloud gebruik zijn de hulpprogram ma's en vereisten ontwikkeld, maar de bezorgdheid voor het vinden van de juiste resource voor het beheren van de IT-infra structuur is niet gewijzigd. De meeste organisaties hebben gewoon geen tijd, resources of speciaal personeel nodig om elk aspect ervan te bewaken. Dit is de plaats waar u als vertrouwde partner de meeste waarde toevoegt. Azure biedt veel ingebouwde mogelijkheden voor het controleren van bewaking, die extra, dieper bewakings hulpmiddelen bieden, sorteren de fout-positieven van de echte waarschuwingen en proactief handelen op de waarschuwingen voordat er meet bare verlies van prestaties nodig is. 
 
@@ -62,7 +62,7 @@ Uw klanten kunnen u helpen hun bedrijf optimaal te benutten in Azure. Met beheer
 
 - **Log Analytics en waarschuwingen**: elke client, apparaat en gebruiker die toegang heeft tot een netwerk, produceert gegevens die zijn geregistreerd. Het analyseren van logboeken kan dieper inzicht bieden in prestaties, beveiliging, resource verbruik en andere zinvolle metrische gegevens.
 
-- **Database bewaking**: een weer gave in de data base van de klant waarmee partners een hoge Beschik baarheid van database servers kunnen garanderen. Het proces bestaat uit het bewaren van logboeken met grootte, verbindings tijd en gebruikers van data bases, analyse van het gebruik van trends en het benutten van gegevens om problemen proactief te verhelpen.
+- **Database bewaking**: een weer gave in de data base van de klant waarmee partners een hoge Beschik baarheid van database servers kunnen garanderen. Het proces bestaat uit het bewaren van logboeken met grootte, verbindings tijd en gebruikers van data bases, analyse van het gebruik van trends en het gebruik van gegevens om problemen proactief op te lossen.
 
 - **Prestatie bewaking** van de app: end-to-end-tracking van alle aspecten van een toepassing (of webpagina). Bij het bewaken van apps moet u elk deel bekijken, van winkel wagens naar registratie pagina's, van de app (s) van een klant voor prestatie problemen om de beste gebruikers ervaring te bieden.
 

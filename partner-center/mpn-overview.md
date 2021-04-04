@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556375"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132941"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner met micro soft en de voor delen van lidmaatschap ontdekken
 
@@ -22,10 +22,10 @@ ms.locfileid: "96556375"
 
 - Globale beheerder
 - MPN-partner beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 
-De Microsoft Partner Network (MPN) biedt u het breedste assortiment aan producten in de branche, evenals programma opties om uw bedrijf te onderscheiden, naar de markt te gaan en uw oplossingen te verkopen. U kunt gratis deel nemen aan uw partnerschap met een micro soft Action Pack, start pakket of competentie.
+De Microsoft Partner Network (MPN) biedt u het breedste assortiment aan producten in de branche-en programma-opties om uw bedrijf te onderscheiden, naar de markt te gaan en uw oplossingen te verkopen. U kunt gratis deel nemen aan uw partnerschap met een micro soft Action Pack, start pakket of competentie.
 
 Wanneer u deelneemt aan een micro soft-partner programma, maakt u deel uit van een wereld wijde Community waarmee u verbinding maakt met de relaties, inzichten, hulpprogram ma's, resources en Program ma's die u nodig hebt om uw klanten te vertraagen en de groei van het bedrijf te stimuleren. Bij het bereiken van uw bedrijfs doelen neemt u deel aan het programma op het niveau dat aansluit bij uw unieke behoeften voor toegang tot meer voor delen en ontwikkelt u uw relatie met ons en andere partners in het netwerk. 
 

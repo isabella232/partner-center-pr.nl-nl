@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474084"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103788"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analyseer abonnementen en licenties om u te helpen bij het aansturen van zakelijke beslissingen en nieuwe doelen
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474084"
 Gegevens stations kunnen zakelijke beslissingen nemen. Gebruik de metrische gegevens op de pagina **abonnement en licentie Analytics** om uw successen en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie wanneer u nieuwe zakelijke doelen plant.
 
 **CSP TTM-omzet (USD)**: deze metriek vertegenwoordigt de geaggregeerde CSP (gefactureerd) voor de periode van 12 maanden (TTM) voor de partner locatie accounts en de wereld wijde partner account (PGA) waaraan dit CSP-account is gekoppeld. Als u andere CSP-accounts hebt met een andere PGA, moet u zich aanmelden bij elk van de providers om de bijbehorende geaggregeerde TTM-omzet weer te geven.  Klik op de koppeling Details downloaden om een uitsplitsing van de TTM-omzet (USD) per MPN-ID op te halen.
+
+>[!NOTE]
+>Prijzen voor lokale valuta's (verouderde commerce-FX) in het commerciële beheer worden binnen +/-5% van Amerikaanse dollars beheerd. De verouderde omruil koers (FX) van Commerce wijkt af van de facturerings-FX-tarieven die door Azure worden gebruikt in de moderne commerce-ervaring. De moderne commerce-tarieven voor facturering zijn gebaseerd op de tarieven van micro soft P&L (de FX-tarieven van het Reuters van Schatkist papier). Verouderde commerce-FX-tarieven zijn vertrouwelijk.
+
 
 De rest van het rapport kan worden gedraaid op basis van de volgende producten:
 
@@ -82,6 +86,8 @@ We volgen de volgende metrische gegevens:
 **Proef abonnementen die eindigen op 30 dagen**  
 
  - Lijst met gestarte experimenten, waarbij de eind datum binnen 30 dagen valt en er geen betaalde begin datum aan het abonnement is gekoppeld  
+
+
 
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -9,18 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98912536"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178864"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Onderscheiden van uw bedrijf door micro soft-competenties te bereiken
 
 **Juiste rollen**
+
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 
 Laat uw bewezen expertise zien bij het leveren van kwaliteits oplossingen in een of meer gespecialiseerde bedrijfs terreinen. Micro soft-competenties zijn ontworpen om u voor te bereiden op de behoeften van uw klanten en om u te helpen nieuwe klanten aan te trekken die op zoek zijn naar micro soft Certified Solution Providers. Neem deel aan de Elite-laag van micro soft-partners en doe mee aan uw peers.
 

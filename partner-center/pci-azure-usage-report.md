@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bekijk wat u goed doet en waar u kunt verbeteren met het gebruik van Azure-abonnementen die u verkoopt of beheert voor uw klanten.
+description: Bekijk wat u goed doet en waar u uw gebruik van Azure-abonnementen kunt verbeteren die u verkoopt of beheert voor uw klanten.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92528256"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086206"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het Azure-gebruiks rapport is beschikbaar via het Partner Center Insights-dash board
 
 **Juiste rollen**
+
 - Globale beheerder
 - Beheer agent
 - Rapport viewer
 - Rapport Viewer Executive
 
-In het Azure-gebruiks rapport worden metrische gegevens weer gegeven die betrekking hebben op de Azure-abonnementen van uw klanten. Dit omvat de omzet en het gebruik van Azure-verbruik per meter categorie. U kunt de volgende secties in het Azure-gebruiks rapport bekijken.
+In het Azure-gebruiks rapport worden metrische gegevens weer gegeven die betrekking hebben op de Azure-abonnementen van uw klanten. Dit rapport bevat Azure-verbruiks omzet en-gebruik per meter categorie. U kunt de volgende secties in het Azure-gebruiks rapport bekijken.
 
 - Samenvatting
 - Azure-gebruik per Geografie
@@ -37,9 +38,10 @@ In het Azure-gebruiks rapport worden metrische gegevens weer gegeven die betrekk
 
 In de sectie samen vatting vindt u een overzicht van de belangrijkste prestatie-indica toren (Kpi's) die betrekking hebben op Azure-abonnementen die door u worden verkocht of beheerd door u voor uw klanten.  
 
-- Azure-abonnementen: huidig aantal Azure-klanten abonnementen dat wordt verkocht of beheerd door u percentage groei of afwijzing van Azure-abonnementen tijdens het geselecteerde datum bereik.
+- Azure-abonnementen: huidig aantal Azure-klanten abonnementen dat door u wordt verkocht of beheerd.
+Percentage van de groei of het afwijzen van deze Azure-abonnementen tijdens het geselecteerde datum bereik.
 
-In de micro grafiek wordt een maand-over-maand-trend van het aantal Azure-abonnementen weer gegeven voor het geselecteerde datum bereik
+In de micro grafiek wordt een maand-over-maand-trend van het aantal Azure-abonnementen weer gegeven voor het geselecteerde datum bereik.
 - Actieve Azure-abonnementen: huidig aantal Azure-abonnementen dat wordt verkocht of beheerd door u dat actief gebruik had in de afgelopen 30 dagen.
 Percentage van de groei of weigering van deze abonnementen tijdens het geselecteerde datum bereik.
 
@@ -64,7 +66,7 @@ In de weer gave **Azure-gebruik per geografie** ziet u de geografische verdeling
 
 U kunt in het raster zoeken en een land selecteren om in te zoomen op de locatie in de kaart. Selecteer de optie **Start** op de kaart om terug te keren naar de oorspronkelijke weer gave.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Overzicht van Azure-gebruik":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Azure-gebruik per Geografie":::
 
 ## <a name="azure-utilization"></a>Azure-gebruik
 
@@ -72,7 +74,7 @@ In deze weer gave ziet u de trends van het Azure-verbruik op basis van het aanta
 
 In het staaf diagram wordt de maandelijkse trend van omzet/gebruik weer gegeven. Het lijn diagram geeft de groei trend weer vergeleken met de vorige maand voor de geselecteerde categorieën van Azure service niveau/meter.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Overzicht van Azure-gebruik":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Gebruiks gebruik van Azure":::
 
 ## <a name="next-steps"></a>Volgende stappen
 

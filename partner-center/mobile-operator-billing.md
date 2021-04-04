@@ -1,21 +1,21 @@
 ---
 title: Facturering van mobiele operator-Microsoft Store
 description: De Microsoft Store biedt de facturering van mobiele providers als betalings methode voor mobiele Opera tors die deze mogelijkheid ondersteunen.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, mobiele Opera Tors, Mobile billing, facturering van mobiele Opera tors
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92528618"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178813"
 ---
-# <a name="mobile-operator-billing"></a>Facturering van mobiele Opera tors
+# <a name="mobile-operator-billing"></a>Facturering van mobiele provider
 
 > [!NOTE]
 > Als u op zoek bent naar ondersteuning voor uitbetalingen, zoals het configureren van uitbetalings accounts, ontbrekende uitbetalingen, het plaatsen van uitbetalingen in de wacht of iets anders, neemt u contact op met [de ondersteuning.](https://developer.microsoft.com/windows/support)
@@ -35,17 +35,19 @@ De volgende mobiele Opera tors ondersteunen momenteel facturering van mobiele pr
 | Oostenrijk              | A1 Telekom, Hutchison 3G Oosten rijk, T-Mobile/tele. ring  |
 | België              | Basis, Proximus                                          |
 | Canada               | Telus                                                   |
-| Czechia              | T-Mobile                                                |
+| Czechia              | T-Mobile, Vodafone, O2                                  |
 | Denemarken              | 3, TDC/YouSee, Telenor, Telia                         |
 | Finland              | DNA, Elisa                                              |
 | Frankrijk               | Oranje                                                  |
 | Duitsland              | O2, Telekom Deutschland, Vodafone                       |
 | Hongarije              | Telenor                                                 |
-| Italië                | Tre, wind                                               |
+| Italië                | Tre, wind, Vodafone                                     |
+| Korea                | SK Telecom                                              |
 | Maleisië             | Digitale                                                    |
-| Nederland          | KPN/Telfort                                           |
+| Nederland          | KPN/Telfort, Vodafone                                 |
 | Noorwegen               | Telenor/Talkmore, Telia/OneCall                     |
-| Polen               | Oranje, afspelen                                            |
+| Polen               | Oranje, afspelen, T-mobiel                                  |
+| Saoedi-Arabië         | STC                                                     |
 | Singapore            | M1 Limited, StarHub                                     |
 | Slowakije             | Slowaaks Telekom                                          |
 | Zuid-Afrika         | Vodacom                                                 |
@@ -56,4 +58,4 @@ De volgende mobiele Opera tors ondersteunen momenteel facturering van mobiele pr
 | Turkije               | Turkcell                                                |
 | Verenigde Arabische Emiraten | Etisalat                                                |
 | Verenigde Staten        | Sprint, Verizon                                         |
-| Verenigd Koninkrijk       | 3 UK, EE, O2, Vodaphone                                 |
+| Verenigd Koninkrijk       | 3 UK, EE, O2, Vodafone                                 |

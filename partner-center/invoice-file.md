@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: Inzicht in de velden in het factuur bestand voor het factureren van het partner centrum. Opgenomen zijn velden en definities voor alle factuur velden en velden met eenmalige kosten.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556290"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178898"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Informatie over de facturerings factuur velden van partner Center
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Factureringsbeheerder
 - Helpdesk medewerker
 
@@ -33,7 +35,7 @@ De volgende velden worden op uw factuur bestanden weer gegeven.
 | ----- | ---------- |
 | VS-FEIN | Uw Federal werkgevers id-nummer (FEIN). Dit is uw Verenigde Staten id-nummer van de federale belasting. |
 | Klant nummer | Uw klant nummer. |
-| Factureren aan | Het adres waarnaar we uw factuur verzenden. U kunt de naam en/of het adres van uw bedrijf wijzigen in het facturerings Profiel van uw partner centrum. |
+| Factureren aan | Het adres waarnaar we uw factuur verzenden. U kunt de naam en het adres van uw bedrijf wijzigen in het facturerings Profiel van uw partner centrum. |
 | Kosten op basis van licenties | De vaste maandelijkse of jaarlijkse kosten voor uw gekochte op gebruik gebaseerde licenties, vóór de service gefactureerd. Dit aantal is de som van alle kosten in de kolom **Subtotaal** (kolom **T**) in het afstemmings bestand op basis van licenties. |
 | Kosten op basis van gebruik | Uw Azure-gebruik. Dit geldt ook voor nieuwe services of toepassingen die tijdens de facturerings periode zijn ingeschakeld en gebruikt. Dit aantal is de som van alle kosten in de kolom **PretaxCharges** (kolom **Z**) in het afstemmings bestand op basis van gebruik. |
 | Kortingen | De korting die de klant ontvangt van de normale prijs van het abonnement. Dit aantal wordt weer gegeven als een *vaste hoeveelheid*, niet als een prijs per eenheid of licentie. |

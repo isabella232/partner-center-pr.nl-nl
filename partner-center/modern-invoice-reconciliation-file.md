@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712253"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103771"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Eenmalige CSP-velden voor het afstemmen van inkopen
 
@@ -51,8 +51,8 @@ Zie [reconciliatie bestanden gebruiken](use-the-reconciliation-files.md)voor mee
 | PublisherId | Een unieke id die het partner centrum gebruikt om de uitgever te identificeren. | *NA* |
 | SubscriptionDescription | De naam van het service aanbod dat door de klant is aangeschaft, zoals gedefinieerd in de prijs lijst. Deze kolom is een identiek veld voor de naam van de aanbieding. | *Azure-abonnement* |
 | SubscriptionId | De unieke id voor een abonnement in het micro soft-factuur platform. Niet gebruikt voor afstemming. Houd er rekening mee dat deze id niet hetzelfde is als de abonnements-ID in de partner beheer console. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | De datum waarop het partner centrum de abonnements kosten in rekening brengt. Als het abonnement is gekocht met een jaarlijkse facturerings periode en een maandelijks facturerings abonnement, is dit de dag waarop het abonnement is gekocht. Met ingang van het volgende afstemmings bestand wordt het aantal 30 dagen verhoogd. | *9/1/2020* |
-| ChargeEndDate | De einddag van de kosten voor de facturerings cyclus van het abonnement. Als het abonnement is gekocht met een jaarlijkse facturerings periode en een maandelijks facturerings plan, is dit de 30e dag nadat het abonnement is gekocht. Met ingang van het volgende afstemmings bestand wordt het aantal 30 dagen verhoogd. | *9/30/2020* |
+| ChargeStartDate | De datum waarop de facturerings periode van een abonnement wordt gestart. | *9/1/2020* |
+| ChargeEndDate | De datum waarop de facturerings periode van een abonnement eindigt. | *9/30/2020* |
 | TermAndBillingCycle | De duur van de toezeg ging om het abonnement te blijven op het moment van aankoop. | *Opgeslagen gegevens (GB/maand)* |
 | EffectiveUnitPrice | De eenheids prijs in rekening gebracht voor het berekenen van de kosten voor de facturerings cyclus. Kortingen, aanpassingen in facturerings dagen en andere factoren bepalen de werkelijke eenheids prijs. Zie [effectief eenheids prijs berekenen](./effective-unit-price-calculation.md)voor meer informatie.  | *0,03825* |
 | Unit type | Het type eenheid waarin de meter wordt gefactureerd. | *1 GB/maand* |

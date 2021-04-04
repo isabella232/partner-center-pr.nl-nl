@@ -9,24 +9,23 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322114"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132261"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Ondersteuning voor meerdere partners voor klanten die met meer dan één partner willen werken
 
 **Van toepassing op**
 
-- Partnercentrum
-- Partnercentrum voor Microsoft Cloud for US Government
+- Partner centrum voor micro soft Government Cloud
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Verkoop agent
 
 De functie voor meerdere partners van het partner Centrum ondersteunt scenario's wanneer een klant wil werken met meer dan één partner. Het is bijvoorbeeld mogelijk dat een klant een partner wil inhuren voor hun expertise in Office 365, maar een andere partner in te huren die is gespecialiseerd in Microsoft Azure.

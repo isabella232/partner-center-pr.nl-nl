@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b18f42f34951e09272d59c75b4588e962809ce62
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624201"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132754"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Een BTW-ID toevoegen aan uw facturerings profiel
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Factureringsbeheerder
 - Beheer agent
 - Verkoop agent
@@ -30,11 +30,11 @@ U kunt de volgende procedure gebruiken om uw facturerings profiel bij te werken 
 
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>Uw facturerings profiel bijwerken met uw BTW-ID
 
-1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/).
-2. Kies in het menu **instellingen** (tandwiel pictogram) **account instellingen**.
-3. Kies op de pagina **account instellingen** de optie **partner facturerings profiel** in het menu pagina.
-4. Kies in het gedeelte **financiële gegevens** **bijwerken**.
-5. Geef het BTW-nummer op voor de **BTW-ID** van het bedrijf.
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/).
+2. Kies in het menu **Instellingen** (tandwielpictogram) **Accountinstellingen**.
+3. Kies op de pagina **Accountinstellingen** de optie **Partner-factureringsprofiel** in het paginamenu.
+4. Selecteer in de sectie **Financiële gegevens** **Update**.
+5. Geef het BTW-nummer op voor de **BTW-ID van het bedrijf**.
 
 ## <a name="next-steps"></a>Volgende stappen
 

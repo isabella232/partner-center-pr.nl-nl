@@ -8,24 +8,21 @@ description: Verkoop Minecraft Education Edition-abonnementen aan gekwalificeerd
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528542"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133009"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Minecraft: Education Edition-abonnementen voor onderwijs klanten verkopen
 
-**Van toepassing op**
-
--  Partnercentrum
-
 **Juiste rollen**
--   Globale beheerder
--   Gebruikersbeheerder
--   Verkoop agent
--   Beheer agent
+
+- Globale beheerder
+- Beheerder van gebruikers beheer
+- Verkoop agent
+- Beheer agent
 
 Partners die met onderwijs instellingen werken, kunnen **Minecraft: Education Edition** -abonnementen aanbieden. U koopt het abonnement namens de klant in het partner centrum en de klant downloadt vervolgens de software van de [Microsoft Store voor onderwijs](https://educationstore.microsoft.com). 
 
@@ -40,16 +37,16 @@ Volg de onderstaande stappen voor het kopen van **Minecraft: Education Edition**
 
   1.  Selecteer **klanten** in het menu van het partner centrum.
   
-  2.  Selecteer uw onderwijs klant in uw klanten lijst en selecteer vervolgens **abonnementen toevoegen** .
+  2.  Selecteer uw onderwijs klant in uw klanten lijst en selecteer vervolgens **abonnementen toevoegen**.
   
   3.  Kies de facturerings frequentie die het beste voldoet aan uw behoeften en selecteer vervolgens **onderwijs** in het gedeelte **catalogus** .
 
-  4.  Selecteer het Minecraft-abonnement dat u namens uw klant wilt kopen en voer het aantal licenties in. Selecteer **Volgende: Review** .
+  4.  Selecteer het Minecraft-abonnement dat u namens uw klant wilt kopen en voer het aantal licenties in. Selecteer **Volgende: Review**.
 
       >[!NOTE]
       >U kunt deze licenties in partner centrum bekijken en beheren. Uw cucstomer ziet en beheert deze licenties uit hun inventaris op de pagina met details van de [Minecraft: Education Edition](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) (u moet zijn aangemeld bij de Store for Education om de pagina met details te bekijken). 
 
-  5.  Als de order juist is, selecteert u **verzenden** . Als u wijzigingen moet aanbrengen in de order, selecteert u **Annuleren** en brengt u de gewenste wijzigingen aan.   
+  5.  Als de order juist is, selecteert u **verzenden**. Als u wijzigingen moet aanbrengen in de order, selecteert u **Annuleren** en brengt u de gewenste wijzigingen aan.   
 
   6.  Nadat u het abonnement hebt gekocht, stuurt u uw onderwijs klant naar de inventaris op het [Microsoft Store voor onderwijs](https://educationstore.microsoft.com) om de software te downloaden en de licenties te distribueren.
 

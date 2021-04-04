@@ -9,24 +9,21 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8575d87ab3c4c7970135a87b7ef7564c4fe06232
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92527518"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132737"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrate Dynamics 365 and Customer Engagement Plan from Basic (qualified offers) to newer versions (Abonnement van Dynamics 365 en Customer Engagement (gekwalificeerde aanbiedingen) migreren van Basic naar nieuwere versies)
 
-**Van toepassing op**
-
--  Partnercentrum
-
 **Juiste rollen**
--   Globale beheerder
--   Gebruikersbeheerder
--   Beheer agent
--   Verkoop agent
+
+- Globale beheerder
+- Beheerder van gebruikers beheer
+- Beheer agent
+- Verkoop agent
 
 Met ingang van 1 januari 2019 kunnen deze verouderde aanbiedingen niet langer worden vernieuwd door klanten met Dynamics 365 voor verkoop-en klant betrokkenheid van basis abonnementen. bestaande abonnementen worden niet automatisch vernieuwd wanneer ze verlopen. Op de detail pagina van het abonnement wordt de abonnements status gewijzigd van ' verloopt op [datum] ' van ' automatisch relateren op [date] '. 
 
@@ -90,26 +87,26 @@ Voor het verplaatsen van klanten uit buiten gebruik gestelde Sku's naar nieuwere
 ## <a name="purchase-the-new-plan-for-your-customer"></a>Koop het nieuwe abonnement voor uw klant
 
 1. Selecteer **klanten** in het linkerdeel venster en selecteer vervolgens de klant die u naar het nieuwe abonnement wilt verplaatsen.
-2. Selecteer **abonnement toevoegen** .
-3. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer vervolgens **verzenden** . 
+2. Selecteer **abonnement toevoegen**.
+3. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer vervolgens **verzenden**. 
 
 Uw klant heeft nu zowel het oude als het nieuwe abonnement. De volgende stap is het opnieuw toewijzen van licenties aan de gebruikers van de klant.
 
 1. Selecteer **klanten** in het linkerdeel venster en selecteer vervolgens de klant die u wilt verplaatsen.
-2. Selecteer **gebruikers en licenties** .
-3. Als u een licentie wilt toewijzen aan een gebruiker, selecteert u de gebruiker en selecteert u vervolgens **licenties beheren** . 
+2. Selecteer **gebruikers en licenties**.
+3. Als u een licentie wilt toewijzen aan een gebruiker, selecteert u de gebruiker en selecteert u vervolgens **licenties beheren**. 
 4. Schakel op de pagina **licenties beheren** het selectie vakje Dynamics 365 voor verkoop/klant engagement van de Basic-licentie (gekwalificeerd aanbod) uit en selecteer een nieuw service plan voor het abonnement waarnaar de klant wordt verplaatst. 
-5. Selecteer **Indienen** . U kunt dit doen voor elke gebruiker die de nieuwe licentie nodig heeft. 
+5. Selecteer **Indienen**. U kunt dit doen voor elke gebruiker die de nieuwe licentie nodig heeft. 
 
 Zodra u de licenties hebt verplaatst naar het nieuwe abonnement, kunt u het oude abonnement annuleren. 
 
 1. Selecteer **klanten** in het linkerdeel venster en selecteer vervolgens de klant die u wilt verplaatsen.
-2. Stel op de pagina abonnements Details het oude abonnement in op **opgeschort** en selecteer **indienen** .
+2. Stel op de pagina abonnements Details het oude abonnement in op **opgeschort** en selecteer **indienen**.
 
 Het oude abonnement is nu onderbroken en het nieuwe abonnement is actief. Het opgeschorte abonnement wordt na 120 dagen niet meer ingericht. Uw klant heeft geen extra kosten in rekening gebracht voor het oude abonnement.
- 
+ 
 
- 
+ 
 
 
 

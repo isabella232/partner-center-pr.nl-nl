@@ -8,16 +8,17 @@ description: Bekijk wat u goed doet en waar u kunt verbeteren met betrekking tot
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 727c370fbb787f1a63f50b28b4ef6ae703b7f1a3
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147066"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086308"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het gebruiks rapport van Office 365 is beschikbaar via het Partner Center Insights-dash board
 
 **Juiste rollen**
+
 - Globale beheerder
 - Beheer agent
 - Rapport viewer
@@ -54,7 +55,7 @@ In de sectie samen vatting vindt u een overzicht van de belangrijkste indica tor
 
 ## <a name="office-365-usage-by-geography"></a>Gebruik van Office 365 per Geografie
 
-In het **Office 365-gebruik per geografie** ziet u de distributie van maandelijkse actieve gebruikers (Mau) en betaalde beschik bare eenheden (Pau) per klant land. MAU verwijst naar het aantal licenties dat is gebruikt in de vorige maand en PAU verwijst naar het aantal betaalde stoelen dat wordt verkocht of beheerd tijdens de geselecteerde periode. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkerere kleuren hogere waarden vertegenwoordigen. U kunt zoeken en een land selecteren in het raster. U kunt ook inzoomen voor een naderere zoek functie.
+In het **Office 365-gebruik per geografie** ziet u de distributie van maandelijkse actieve gebruikers (Mau) en betaalde beschik bare eenheden (Pau) per klant land. MAU verwijst naar het aantal licenties dat is gebruikt in de vorige maand en PAU verwijst naar het aantal betaalde stoelen dat wordt verkocht of beheerd tijdens het geselecteerde tijds bestek. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkerere kleuren hogere waarden vertegenwoordigen. U kunt zoeken en een land selecteren in het raster. U kunt ook inzoomen voor een naderere zoek functie.
 
 **In het aantal landen/regio** tabel staan de totale landen/regio's waar Azure-gebruiks gebeurtenissen worden gegenereerd.
 

@@ -2,20 +2,22 @@
 title: Uw partneraccount samenvoegen met een ander partneraccount
 description: 'Meer informatie over het samen voegen van uw partner account met een ander partner account in Partner Center: voor bedrijven die actief zijn van micro soft-partners in het partner centrum.'
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182593"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133060"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Uw partneraccount samenvoegen met een ander partneraccount
 
-**Toepasselijke rollen**
+**Juiste rollen**
 
 - Accountbeheerder
 
@@ -35,7 +37,7 @@ Twee of meer bedrijven die actieve micro soft-partners zijn en accounts in het p
 
 - Rollen van de gebruiker worden overgezet. Als een gebruiker bijvoorbeeld de stimulanss beheerder voor een specifieke locatie had, zouden ze nog steeds na de fusie de rol hebben en de prikkels kunnen zien die ze vóór de fusie hadden gezien.
 
-- Azure AD-tenants en CSP-accounts worden niet samengevoegd en zijn niet van invloed.
+- Azure AD-tenants en CSP-accounts worden niet samengevoegd en hebben geen effect.
 
 - Gepubliceerde aanbiedingen en pijplijn gegevens die aan beide bedrijven zijn gekoppeld, blijven behouden
 
@@ -65,7 +67,7 @@ Als u besluit de uitnodiging voor het samen voegen van accounts te accepteren: �
 
   - Competentie: het partner bedrijf ontvangt één pakket met kern voordelen dat is gekoppeld aan de hoogste verwezenlijking, plus competentie-specifieke voor delen die de partner in aanmerking komt voor het globale account per partner.
 
-- Alle voor delen zijn onderhevig aan de [gebruiks gids voor de Microsoft Partner Network-voor delen](https://aka.ms/partner-benefits-use-guide). Bijvoorbeeld: een geactiveerde O365 E3-token is functioneel gedurende twaalf (12) maanden na de activering. Zodra een token is geactiveerd voor licenties op een Tenant, kunnen deze licenties niet worden verplaatst naar een andere Tenant.
+- Alle voor delen zijn onderhevig aan de [gebruiks gids voor de Microsoft Partner Network-voor delen](https://aka.ms/partner-benefits-use-guide). Bijvoorbeeld: een geactiveerde O365 E3-token werkt gedurende 12 maanden na de activering. Zodra een token is geactiveerd voor licenties op een Tenant, kunnen deze licenties niet worden verplaatst naar een andere Tenant.
 
 - De ID-koppelingen voor beide bedrijven worden bewaard en gekoppeld aan de PGA MPN-ID.
 
@@ -77,7 +79,7 @@ Als u besluit de uitnodiging voor het samen voegen van accounts te accepteren: �
 
 - Alle Software Assurance-boek stukken worden in beide accounts bewaard. 
 
-- Er is geen invloed op de koppeling DPOR of PAL. Eventuele gekoppelde omzet bijdragen gaan in op het nieuwe globale partner account
+- Er is geen effect op de koppeling DPOR of PAL. Eventuele gekoppelde omzet bijdragen gaan in op het nieuwe globale partner account
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Een bedrijf uitnodigen om het partner centrum-account samen te voegen met uw partner centrum-account
 
@@ -94,33 +96,33 @@ Als u besluit de uitnodiging voor het samen voegen van accounts te accepteren: �
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Voor beeld van twee bedrijven die accounts samen voegen
 
-1. Contoso heeft 
+1. Contoso, Ltd. heeft 
 
     a. een [globale MPN-id van 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) en één onderliggende [locatie MPN-id's van 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. een Azure AD-Tenant = @contoso.com
  
     c. een Gold-competentie die verloopt op 1 oktober 2020
-2. Fabricam heeft
+2. Fabrikam, Inc. heeft
  
     a.  een globale MPN-ID van 3333333 en twee onderliggende locatie MPN-Id's van 4444444 en 5555555
 
-    b.  een Azure AD-Tenant = @fabricam.com
+    b.  een Azure AD-Tenant = @fabrikam.com
 
     c.  twee Gold-competenties die verlopen op 1 december 2020
-3.  Contoso koopt fabricam en gaat [hier](https://partner.microsoft.com/dashboard/account/merger) om een aanvraag voor samen voegen te initiëren.
-4.  Fabricam meldt zich aan bij het partner centrum en gaat naar dezelfde pagina als contoso tijdens stap #3, om de aanvraag van Contoso goed te keuren.
+3.  Contoso koopt Fabrikam en gaat [hier](https://partner.microsoft.com/dashboard/account/merger) om een aanvraag voor samen voegen te initiëren.
+4.  Fabrikam meldt zich aan bij partner centrum en gaat naar dezelfde pagina als contoso in stap #3, om de aanvraag van Contoso goed te keuren.
 5.  Contoso controleert de details van de samen voeging op diezelfde pagina en geeft een bevestiging om door te gaan met de account fusie.
 6.  Na de fusie wordt het bedrijfs account als volgt weer gegeven:
 
     a.  Een bedrijf met de naam contoso met een globale MPN-ID van 1111111 en 4 ondergeschikte locatie MPN-Id's van 2222222, 3333333, 4444444 en 5555555
     
-    b.  Het heeft twee Azure AD-tenants ( @contoso.com + @fabricam.com ) die toegang hebben tot hetzelfde partner centrum-account
+    b.  Het heeft twee Azure AD-tenants ( @contoso.com + @fabrikam.com ) die toegang hebben tot hetzelfde partner centrum-account
     
     c.  Het heeft twee competentie voordelen, een die verloopt op 1 oktober 2020 en een andere die verloopt op 1 december 2020. Ze kunnen op 1 december 2020 worden vernieuwd als een pakket met enkele competentie voordelen. Wanneer ze worden vernieuwd, behoudt contoso alle drie de competenties, zelfs als ze slechts één voor delen van het pakket kunnen onderhouden.
     
-7.  De beheerders van Contoso blijven het beheer van de functies van het partner centrum voor @contoso.com gebruikers. Beheerders van fabricam blijven het beheer van de functies van het partner centrum voor @fabricam.com de gebruikers. Beheerders van Contoso kunnen alleen fabricam-gebruikers beheren als ze worden uitgenodigd als een gast in de Tenant van fabricam.
-8.  Contoso kan besluiten de Tenant te negeren @fabricam.com en de nieuwe referenties van de fabricam-werk nemers opnieuw te verlenen @contoso.com met nieuwe rollen en machtigingen.
+7.  De beheerders van Contoso blijven het beheer van de functies van het partner centrum voor @contoso.com gebruikers. De beheerders van Fabrikam blijven het beheer van de functies van het partner centrum voor @fabrikam.com gebruikers. Beheerders van Contoso kunnen de gebruikers van Fabrikam alleen beheren als ze worden uitgenodigd als een gast in de Tenant van fabrikam.
+8.  Contoso kan besluiten de Tenant te negeren @fabrikam.com en de nieuwe referenties van de fabrikam-werk nemers opnieuw uitgeven @contoso.com met nieuwe rollen en machtigingen.
 
 ## <a name="next-steps"></a>Volgende stappen
 

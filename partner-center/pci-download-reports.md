@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528770"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086223"
 ---
 # <a name="download-reports"></a>Rapporten downloaden
 
 **Juiste rollen**
+
 - Rapport Viewer Executive
 - Rapport viewer
 
-## <a name="introduction"></a>Inleiding
+## <a name="introduction"></a>Introductie
 
 Met de hub voor het downloaden van rapporten in het Insights-dash board kunt u de onbewerkte gegevens sets exporteren die de rapporten van partner Center Insights in de vorm van een door tabs gescheiden waarden (TSV) hebben. Zo kunt u een diep gaande analyse van de gegevens uitvoeren op basis van de bedrijfs behoeften.
 
@@ -30,11 +31,11 @@ Zodra het rapport is gegenereerd, wordt het weer gegeven in de sectie **gegenere
 
 **Nieuw rapport maken**
 
-Als u een rapport wilt genereren, selecteert u eerst het rapport in de vervolg keuzelijst **rapport selecteren** . Selecteer vervolgens het datum bereik in de vervolg keuzelijst **datum bereik selecteren** . Selecteer **genereren** . Het rapport wordt gegenereerd in de indeling van de door tabs gescheiden waarden (TSV) en kan binnen een paar minuten worden gedownload in de sectie **gegenereerde rapporten** . Rapporten die zijn gegenereerd in de afgelopen 14 dagen, kunnen worden gedownload.
+Als u een rapport wilt genereren, selecteert u eerst het rapport in de vervolg keuzelijst **rapport selecteren** . Selecteer vervolgens het datum bereik in de vervolg keuzelijst **datum bereik selecteren** . Selecteer **genereren**. Het rapport wordt gegenereerd in de indeling van de door tabs gescheiden waarden (TSV) en kan binnen een paar minuten worden gedownload in de sectie **gegenereerde rapporten** . Rapporten die zijn gegenereerd in de afgelopen 14 dagen, kunnen worden gedownload.
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Nieuw rapport maken":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Nieuw rapport maken":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Gegenereerde rapporten":::
 
 >[!NOTE] 
 >Alleen gebruikers die management zijn van een rapport, kunnen rapporten downloaden. Raadpleeg [PCI-rollen](pci-roles.md)voor meer informatie over op rollen gebaseerde toegang tot de inzichten Dashboard rapporten. 
@@ -43,7 +44,7 @@ Als u een rapport wilt genereren, selecteert u eerst het rapport in de vervolg k
 
 De volgende rapporten zijn beschikbaar voor downloaden:
 
-Het **partner profiel** bevat details over de partner. Details, zoals de partner-ID, partner naam, partner plaats, partner land, enzovoort, zijn beschikbaar in het rapport. Er is geen aggregatie of lookback van toepassing voor dit rapport.
+Het **partner profiel** bevat details over de partner. Details zoals de partner-ID, partner naam, partner plaats en partner land zijn in het rapport beschikbaar. Er is geen aggregatie of lookback van toepassing voor dit rapport.
 
 **Klant gegevens** bieden de details van klanten aan wie een partner is gekoppeld. Het bevat ook belang rijke metrische gegevens, zoals verkochte licenties, geaggregeerde ACR, enzovoort. Het rapport wordt op maand basis geaggregeerd.
 

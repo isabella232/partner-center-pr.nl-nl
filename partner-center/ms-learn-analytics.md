@@ -9,18 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92528830"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132312"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>In het rapport Microsoft Learn Analytics wordt de status weer gegeven van de cursisten in uw bedrijf
 
 **Juiste rollen**
--   Globale beheerder
--   MPN-partner beheerder
+
+- Globale beheerder
+- MPN-partner beheerder
 
 Het Microsoft Learn rapport bevat informatie over de cursisten in uw bedrijf, met inbegrip van de modules die ze hebben voltooid en de leer trajecten die ze hebben. In het rapport wordt de status van elke afzonderlijke kenniser weer gegeven. De globale beheerder en de MPN-beheerder van uw bedrijf kunnen de gegevens weer geven.
 
@@ -31,19 +32,19 @@ Het Microsoft Learn rapport bevat informatie over de cursisten in uw bedrijf, me
 In deze grafieken vindt u een overzicht van het aantal en de maandelijkse cumulatieve trends voor getrainde individuen, module voltooiingen en leer trajecten.
 
 
-**Aantal getrainde individuen** : een telling van alle afzonderlijke informatieers die tijdens het geselecteerde datum bereik ten minste één module hebben uitgevoerd 
+**Aantal getrainde individuen**: een telling van alle afzonderlijke informatieers die tijdens het geselecteerde datum bereik ten minste één module hebben uitgevoerd 
 
-**Mini maal getrainde persoons grafiek voor trend** : maand over het cumulatieve aantal van de actieve kennisers 
+**Mini maal getrainde persoons grafiek voor trend**: maand over het cumulatieve aantal van de actieve kennisers 
 
-**Aantal module-voltooiingen** : aantal module-afrondingen door de kennissen van het bedrijf van de partner tijdens het geselecteerde datum bereik.
+**Aantal module-voltooiingen**: aantal module-afrondingen door de kennissen van het bedrijf van de partner tijdens het geselecteerde datum bereik.
 Als bijvoorbeeld ' module 1 ' is voltooid door 15 individuen en de ' module 2 ' is voltooid met dezelfde 15 individuen, is het aantal module-voltooiings 30. De voltooiings datum van de module moet vallen binnen het geselecteerde datum bereik.
 
-**Overzicht van de trend van module-aanvullingen** : maand over het Cumulatief aantal van de module-voltooiingen 
+**Overzicht van de trend van module-aanvullingen**: maand over het Cumulatief aantal van de module-voltooiingen 
 
-**Aantal voltooide leer trajecten** : aantal voltooide leer trajecten door de cursisten in het bedrijf van de partner tijdens het geselecteerde datum bereik.
+**Aantal voltooide leer trajecten**: aantal voltooide leer trajecten door de cursisten in het bedrijf van de partner tijdens het geselecteerde datum bereik.
 Als bijvoorbeeld het leer traject ' pad 1 ' is voltooid door 20 personen en het leer traject ' pad 2 ' is voltooid door dezelfde 20 personen, is het aantal leer trajecten 40. De voltooiings datum van het leer traject moet vallen binnen het geselecteerde datum bereik.
 
-**Trendanalyse trend van het leer traject** : maand over het cumulatieve aantal van de voltooide leer trajecten 
+**Trendanalyse trend van het leer traject**: maand over het cumulatieve aantal van de voltooide leer trajecten 
 
 ### <a name="trained-individuals-monthly-trend"></a>Maandelijkse trend van getrainde personen
 
@@ -73,7 +74,7 @@ De **X-as** is de maand voor het geselecteerde tijd filter.
 
 **Tabblad module**
 
-Dit tabblad bevat uitsplitsing van modules die in uw bedrijf zijn voltooid door de top 5 van module namen. het product waaraan de module is gekoppeld; en de gebruikersrol die voor de module relevant is.  
+Dit tabblad bevat uitsplitsing van modules die in uw bedrijf zijn voltooid door vijf module namen. het product waaraan de module is gekoppeld; en de gebruikersrol die voor de module relevant is.  
 
 - Ring diagram voltooide modules: uitsplitsing van de module-voltooiingen (aantal weer gegeven in de sectie samen vatting) door de module namen.
 
@@ -89,7 +90,7 @@ Het getal dat in het midden van de grafiek wordt weer gegeven, is het aantal afz
 
 **Tabblad leer traject**   
 
-Dit tabblad bevat een overzicht van de leer trajecten die in uw bedrijf zijn voltooid door de top 5 van module namen. het product waaraan het leer traject is toegewezen; en de rol die voor dit leer traject relevant is.  
+Dit tabblad bevat een overzicht van de leer trajecten die in uw bedrijf zijn voltooid door de belangrijkste vijf module namen. het product waaraan het leer traject is toegewezen; en de rol die voor dit leer traject relevant is.  
 
 - Punten voor het volt ooien van leer trajecten: uitsplitsing van de voltooiing van het leer traject (aantal dat in de samen vatting wordt weer gegeven) op naam.
 
@@ -125,13 +126,13 @@ De globale beheerder en de MPN-beheerder kunnen het rapport weer geven.
 
 Nadat de globale beheerder een nieuwe gebruiker heeft toegevoegd, moet deze gebruiker naar **Mijn profiel** gaan om hun Microsoft Learn-account te koppelen.
 
-- Selecteer het pictogram **uw account** in de rechter bovenhoek van het dash board en selecteer vervolgens **Mijn profiel** . 
+- Selecteer het pictogram **uw account** in de rechter bovenhoek van het dash board en selecteer vervolgens **Mijn profiel**. 
 
 -  Onder **uw leer proces** kan een gebruiker hun micro soft Learning-account koppelen en hun Microsoft-account verbinden met partner University.
 
 3. Kan ik alle gebruikers van het bedrijf zien die zich aanmelden bij Microsoft Learn met een MSA-account in dit rapport?
 
-De beste manier om dit te doen is door deze gebruikers toe te voegen aan uw Azure AD-Tenant en ze toe te voegen aan het partner centrum zodat ze hun Microsoft Learn-account kunnen koppelen via **Mijn profiel** in partner centrum. 
+De beste manier om dit te doen is door deze gebruikers toe te voegen aan uw Azure AD-Tenant en ze vervolgens toe te voegen aan het partner centrum zodat ze hun Microsoft Learn-account kunnen koppelen via **Mijn profiel** in Partner Center. 
 
 Voor gebruikers die hun MSA-account alleen voor trainingen gebruiken, kan het Microsoft Learn team in de nabije toekomst de mogelijkheid bieden om hun werk-e-mail aan hun Microsoft Learn profiel te koppelen. 
 

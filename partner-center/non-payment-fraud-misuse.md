@@ -1,5 +1,5 @@
 ---
-title: Niet-betaling, fraude of misbruik beheren
+title: Wanbetaling, fraude of misbruik beheren
 description: Meer informatie over de verschillende Risico's voor online transacties en de aanbevolen procedures voor het beheren en beperken van deze Risico's in Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,27 +9,27 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 75881544097abdfac8d6f96bde37e9700eb28cf7
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528477"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132346"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Beheer van niet-betaling, fraude of misbruik in het partnercentrum
 
 Van toepassing op:
 
-- Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partner centrum voor micro soft Government Cloud
 
 **Juiste rollen**
+
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - Factureringsbeheerder
 
-U bent financieel verantwoordelijk voor frauduleuze aankopen door uw klanten en/of de niet-betaling van klanten van de klant. Daarom *raden wij u ten zeerste aan om te voorzien in de besturings elementen fraude preventie en detectie risico beperking* .
+U bent financieel verantwoordelijk voor frauduleuze aankopen door uw klanten en/of de niet-betaling van klanten van de klant. Daarom *raden wij u ten zeerste aan om te voorzien in de besturings elementen fraude preventie en detectie risico beperking*.
 
 Om frauduleuze activiteiten of misbruik te voor komen en/of te verhelpen, is het belang rijk om potentiële Risico's te begrijpen en beleids regels en procedures te ontwikkelen die uw bloot stelling kunnen beperken.
 

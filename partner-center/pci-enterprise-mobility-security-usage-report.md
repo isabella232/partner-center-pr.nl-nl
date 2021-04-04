@@ -8,16 +8,17 @@ description: Bekijk wat u goed doet en waar u kunt verbeteren met betrekking tot
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 48577571e77bd0181b78e01558a07edd1a3b925d
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147068"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086274"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het gebruiks rapport van Enterprise Mobility + Security is beschikbaar via het Partner Center Insights-dash board
 
 **Juiste rollen**
+
 - Globale beheerder
 - Beheer agent
 - Rapport viewer
@@ -38,11 +39,11 @@ Het Enterprise Mobility + Security gebruiks rapport bevat gebruiks gegevens voor
 
 In de sectie samen vatting vindt u een overzicht van de belangrijkste indica toren met betrekking tot de Enterprise Mobility + Security-gebruiks abonnementen die u hebt verkocht of beheerd voor uw klanten. 
 
-- Nieuwe abonnementen: totaal aantal abonnementen dat is verkocht of beheerd tijdens de geselecteerde periode.
+- Nieuwe abonnementen: totaal aantal abonnementen dat is verkocht of beheerd tijdens het geselecteerde tijds bestek.
 
    De micro grafiek bevat een trend over een maand over het nieuwe abonnement voor het geselecteerde datum bereik.
 
-- Beschik bare stoelen: totaal aantal licenties dat is verkocht tijdens de geselecteerde periode.
+- Beschik bare stoelen: totaal aantal verkochte licenties tijdens het geselecteerde tijds bestek.
 
    In de micro grafiek wordt een maand-over-maand-trend van het aantal beschik bare stoelen weer gegeven tijdens het geselecteerde datum bereik.
 
@@ -54,7 +55,7 @@ In de sectie samen vatting vindt u een overzicht van de belangrijkste indica tor
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security gebruik per Geografie
 
-In het **Enterprise Mobility + Security gebruik per geografie** ziet u de distributie van maandelijkse actieve gebruikers (Mau) en betaalde beschik bare eenheden (Pau) per klant land. MAU verwijzen naar het aantal licenties dat is gebruikt in de vorige maand en PAU verwijst naar het aantal betaalde stoelen dat wordt verkocht of beheerd tijdens de geselecteerde periode. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkerere kleuren hogere waarden vertegenwoordigen. U kunt zoeken en een land selecteren in het raster. U kunt ook inzoomen voor een naderere zoek functie.
+In het **Enterprise Mobility + Security gebruik per geografie** ziet u de distributie van maandelijkse actieve gebruikers (Mau) en betaalde beschik bare eenheden (Pau) per klant land. MAU verwijst naar het aantal licenties dat is gebruikt in de vorige maand en PAU verwijst naar het aantal betaalde stoelen dat wordt verkocht of beheerd tijdens de geselecteerde periode. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkerere kleuren hogere waarden vertegenwoordigen. U kunt zoeken en een land selecteren in het raster. U kunt ook inzoomen voor een naderere zoek functie.
 
 **In het aantal landen/regio** tabel staan de totale landen/regio's waar Azure-gebruiks gebeurtenissen worden gegenereerd.
 

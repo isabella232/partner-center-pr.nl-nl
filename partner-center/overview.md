@@ -8,16 +8,16 @@ description: Gebruik Partner Center om zaken te doen met micro soft en uw klante
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582645"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132244"
 ---
 # <a name="what-is-partner-center"></a>Wat is Partnercentrum?
 
-##### <a name="appropriate-roles"></a>Juiste rollen
+**Juiste rollen**
 
 - Alle partners die geïnteresseerd zijn in het partner centrum
 
@@ -53,7 +53,7 @@ Stel uw bedrijfs profiel samen om de deskundigheids gebieden van uw bedrijf weer
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Samen verkopen met micro soft en andere partners
 
-Co-Sell is het pad voor partners die gezamenlijk verkopen met micro soft en andere partners voor samen werking, betere verkoop en positieve klant resultaten. Met co-sell kunt u gebruikmaken van het wereld wijde merk van micro soft, verkoop teams, mogelijkheden voor het genereren van de vraag en de commerciële Marketplace om nieuwe klanten wereld wijd te bereiken. Verkoop beide met andere partners en met ons. Meer informatie over het [beheren van mogelijkheden voor gezamenlijk verkopen](manage-co-sell-opportunities.md).
+Co-Sell is het pad voor partners die gezamenlijk verkopen met micro soft en andere partners voor samen werking, betere verkoop en positieve klant resultaten. Met de functie voor samen verkopen kunt u gebruikmaken van het wereld wijde merk, verkoop teams van micro soft en de commerciële Marketplace om nieuwe klanten wereld wijd te bereiken. Verkoop beide met andere partners en met ons. Meer informatie over het [beheren van mogelijkheden voor gezamenlijk verkopen](manage-co-sell-opportunities.md).
 
 ## <a name="manage-customer-software-needs"></a>Software vereisten voor klanten beheren
 

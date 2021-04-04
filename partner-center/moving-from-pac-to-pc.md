@@ -9,20 +9,17 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 064235ebdfee1e85a95908cf7a03f8e6fc676b00
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869279"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132601"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Verplaatsen van partner beheer Center (PAC) naar het partner centrum
 
-**Van toepassing op**
-- Partnercentrum
-- Partner beheer centrum
-
 **Juiste rollen**
+
 - Globale beheerder
 
 Het partner centrum gaat in op één plek waar u uw partnerschap beheert met micro soft en met uw klanten. In het partner centrum kunt u lidmaatschap, klant verwijzingen, prikkels en alle andere aspecten van het Cloud Solution Provider-programma (CSP) beheren. U kunt het meren deel van het werk dat u in het partner centrum hebt in de PAC uitvoeren, terwijl sommige functies of acties anders werken.

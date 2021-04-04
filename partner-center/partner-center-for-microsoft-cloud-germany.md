@@ -1,5 +1,5 @@
 ---
-title: Partner centrum voor Microsoft Cloud Duitsland
+title: Partnercentrum voor Microsoft Cloud Duitsland
 ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92528737"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086512"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner centrum voor Microsoft Cloud Duitsland voor partners die verkopen aan klanten in EU & EVA-landen
 
 **Van toepassing op**
 
--  Partner centrum voor Microsoft Cloud Duitsland
+- Partnercentrum voor Microsoft Cloud Duitsland
 
 **Juiste rollen**
 
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - Verkoop agent
 - Factureringsbeheerder
@@ -41,7 +41,7 @@ Microsoft Cloud Duitsland biedt een afzonderlijk exemplaar van [Microsoft Azure]
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migreer klanten van Microsoft Cloud Duitsland naar een andere Europese regio
 
-Voordat u een klant abonnement van Microsoft Cloud Duitsland naar een andere Europese regio kunt migreren, moet u een bestaand CSP-account hebben dat zich in die regio bevindt en actief is. Als u er nog geen hebt, wordt u gevraagd om er een te maken tijdens de selectie van het CSP-account in het partner centrum. Nadat u het nieuwe account hebt gemaakt, worden uw klanten gekoppeld aan de geselecteerde Tenant.
+Voordat u een klant abonnement van Microsoft Cloud Duitsland naar een andere Europese regio kunt migreren, moet u een bestaand CSP-account (Cloud Solution Provider) hebben dat zich in die regio bevindt en actief is. Als u er nog geen hebt, wordt u gevraagd om er een te maken tijdens de selectie van het CSP-account in het partner centrum. Nadat u het nieuwe account hebt gemaakt, worden uw klanten gekoppeld aan de geselecteerde Tenant.
 
 ### <a name="you-already-have-a-csp-account"></a>U hebt al een CSP-account
 
@@ -49,15 +49,15 @@ Voordat u een klant abonnement van Microsoft Cloud Duitsland naar een andere Eur
 
 1. Ga naar de overzichts pagina van de CSP vanuit het menu links.
  
-1. Wanneer u hierom wordt gevraagd, selecteert u **Ik heb al een Tenant in de Europese regio** en selecteert u vervolgens **volgende** . U wordt gevraagd om u aan te melden bij de nieuwe Tenant. 
+1. Wanneer u hierom wordt gevraagd, selecteert u **Ik heb al een Tenant in de Europese regio** en selecteert u vervolgens **volgende**. U wordt gevraagd om u aan te melden bij de nieuwe Tenant. 
 
 1. Meld u als globale beheerder aan bij de Tenant.
  
-1. Controleer de informatie op de pagina Bevestiging en selecteer vervolgens **bevestigen** .
+1. Controleer de informatie op de pagina Bevestiging en selecteer vervolgens **bevestigen**.
  
 6.  Als dit lukt, wordt u gevraagd **Details weer geven** of **dash board weer geven** te selecteren voor meer informatie. 
 
-    Als aanmelden is mislukt, kan dit een van de volgende betekenen:
+    Als het aanmelden is mislukt, kan dit een van de volgende betekenen:
     
     • U bent geen globale beheerder voor de geselecteerde Tenant
     
@@ -72,8 +72,8 @@ Voordat u een klant abonnement van Microsoft Cloud Duitsland naar een andere Eur
 1. Meld u aan bij CSP Microsoft Cloud Duitsland-Tenant als globale beheerder.
 
 1. Navigeer naar de overzichts pagina van CSP in het menu links.
-. 
-1. Wanneer u hierom wordt gevraagd, selecteert u **Ik heb geen Tenant in de Europese regio** en selecteert u **Nieuw account maken** . 
+ 
+1. Wanneer u hierom wordt gevraagd, selecteert u **Ik heb geen Tenant in de Europese regio** en selecteert u **Nieuw account maken**. 
  
 1. U wordt naar de inschrijvings pagina van het partner centrum geleid, waar u een nieuwe Tenant en CSP-account in een Europese regio kunt maken.
   

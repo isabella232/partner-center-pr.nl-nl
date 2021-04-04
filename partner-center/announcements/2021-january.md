@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 9f0292efc6646e4abd85a6fab1e53ac9e139a915
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712457"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280833"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
@@ -88,29 +88,30 @@ Voor vragen met betrekking tot deze melding kunt u contact opnemen met [onderste
     -    Aankondiging fase 1 is Live 
     -    Het Verenigd Konink rijk is niet opgenomen in de EU/EVA en maakt deel uit van de [micro soft-Europese regio en-markt](../regional-authorization-overview.md) en zal worden beïnvloed
 
-
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Wijzigingen in de voorbereidings vereisten van de klant voor de Cloud Solution Provider (CSP)
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2021-01-28
+- Datum: 2021-04-02
 - Verbeterde beveiliging en naleving
-
-### <a name="impacted-audience"></a>Doel groep
-
-CSP direct-factuur partners en indirecte providers die nieuwe of bestaande klanten hebben in de landen die in de volgende sectie worden weer gegeven.
 
 ### <a name="summary"></a>Samenvatting
 
-Als onderdeel van onze toezeg ging om partners en klanten te helpen zaken op basis van vertrouwen uit te voeren, zullen we bijkomende klant gegevens aanvragen, met ingang van een effectief eind maart 2021.
+Als onderdeel van onze toezeg ging om partners en klanten te helpen hun bedrijf op basis van vertrouwen uit te voeren, zullen we bijkomende klant gegevens aanvragen, met ingang van 25 maart 2021.
+
+### <a name="impacted-audience"></a>Doel groep
+
+CSP direct-factuur partners en indirecte providers die nieuwe of bestaande klanten hebben in de landen die worden vermeld in de volgende sectie
 
 ### <a name="details"></a>Details
 
-Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode voor klant validatie te bieden voor het handelen van klant abonnementen in het CSP-programma. Eind maart 2021 worden de verbeteringen van de Partner Center API en gebruikers interface (UI) geïntroduceerd die van invloed zijn op partners die voldoen aan de volgende criteria:
+Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en veilige methode voor klant validatie te bieden voor het handelen van klant abonnementen in het CSP-programma. Op 25 maart 2021 worden de verbeteringen van de Partner Center API en gebruikers interface (UI) geïntroduceerd die van invloed zijn op partners die voldoen aan de volgende criteria:
 
 1. De partner heeft een directe facturerings relatie met micro soft (wat betekent dat de partner een directe factuur partner of een indirecte provider is).
+
 2. De partner doet zaken met nieuwe of bestaande klanten in de volgende landen:
+
     - Thailand
     - Vietnam
     - Turkije
@@ -125,7 +126,9 @@ Micro soft werkt op vertrouwen. We streven ernaar een compatibele, veilige en ve
     - Verenigde Arabische Emiraten
     - Venezuela
 
-Partners die aan de criteria voldoen, moeten de **juridische id** van een klant (ook wel de **organisatie Inn**) en het **telefoon nummer** van de klant indienen wanneer ze nieuwe klanten voordoen of bestaande klant gegevens wijzigen. Deze partners kunnen ook een optionele **middelste naam** voor de klant invoeren.
+Partners die aan de criteria voldoen, moeten de registratie-ID van een klant (ook wel de organisatie INN) en het telefoon nummer van de klant indienen wanneer ze de volgende update of een abonnement voor die klant maken. Deze partners kunnen ook een optionele middelste naam voor de klant invoeren.
+
+Houd er rekening mee dat wanneer u de registratie-ID van uw bedrijf toevoegt, u uw zakelijke belasting-ID moet gebruiken en niet de persoonlijke ID van de klant.
 
 Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben in november 2020 al geknoeid met een eerdere release.
 
@@ -141,20 +144,32 @@ Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, h
 - Oekraïne
 - Oezbekistan
 
-Partners met klanten in de rest van de wereld hebben de mogelijkheid aan het einde van maart 2021 om de **juridische id**, het **telefoon nummer** en de **middelste naam** voor klanten als optionele Details in te voeren.
+Partners met klanten in de rest van de wereld hebben de mogelijkheid aan het eind maart 2021 om de registratie-ID, het telefoon nummer en de middelste naam van het bedrijf in te voeren als optionele Details.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de technische documentatie en veelgestelde vragen in de verzameling dedicated [partner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (aanmelden is vereist) voor meer gedetailleerde richt lijnen.
+- Raadpleeg de technische documentatie en veelgestelde vragen in de verzameling speciale [partners](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richt lijnen.
 - Bereid u voor op het opnemen van de wijzigingen met behulp van partner Center API en webervaring. API/Sdk's zijn beschikbaar voor testen.
 - Zorg ervoor dat u de aanvullende gegevens indient bij het voorbereiden van nieuwe klanten of het wijzigen van bestaande klant gegevens.
 - Als u een CPV-oplossing (configuratie scherm) gebruikt, raadpleegt u uw CPV.
 
 ### <a name="questions"></a>Vragen?
 
-Neem contact op met uw belasting adviseur of gemeentelijke belasting dienst als u vragen hebt met betrekking tot de juridische id (ook wel INN of TIN genoemd). Micro soft kan geen ondersteuning bieden voor belasting kwesties.
+Neem contact op met uw belasting adviseur of gemeentelijke belasting dienst als u vragen hebt over de registratie-ID van het bedrijf (ook wel INN of TIN genoemd). Micro soft kan geen ondersteuning bieden voor belasting kwesties.
 
-Als u ondersteuning voor uw bewerkingen met micro soft nodig hebt, [opent u een service aanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (aanmelden vereist).
+Als u ondersteuning nodig hebt voor uw bewerkingen met micro soft, opent u een [service aanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Wijzigingen logboek:
+
+17 december 2020: oorspronkelijke publicatie
+
+28 januari 2021: herbevolking; geen wijzigingen.
+
+2 april 2021: de volgende updates zijn beschikbaar:
+
+- Beschik bare start datum
+- De titel voor de organisatie-INN is bijgewerkt naar de registratie-ID van het bedrijf
+- Opmerking toegevoegd voor het verduidelijken van de registratie-ID van het bedrijf
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Micro soft Partner Agreement (MPA) – indirecte reseller update & nieuwe veelgestelde vragen 

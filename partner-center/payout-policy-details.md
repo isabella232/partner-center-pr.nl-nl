@@ -1,22 +1,22 @@
 ---
 title: Uitbetalingsschema's en-processen
 description: Meer informatie over uitbetalingen en trans acties, zoals betalings schema's en rekoppelings processen voor de commerciële Marketplace en andere trans acties.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756849"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086172"
 ---
 # <a name="payout-schedules-and-processes"></a>Uitbetalingsschema's en-processen
 
-**Juiste rollen:**
+**Juiste rollen**
 
 - Accountbeheerder
 - Globale beheerder
@@ -33,7 +33,7 @@ Wanneer een klant een product koopt van Microsoft AppSource of Azure Marketplace
 
 Een uitbetaling vindt vaak plaats voordat micro soft de betaling van de klant verzamelt. Zie het [proces voor klant niet-betaling](#process-for-customer-non-payment) hieronder voor de acties die we ondernemen als de klant micro soft niet kan betalen, maar er al een uitbetaling is verleend.
 
-| Gebeurtenis | Beschrijving | Zicht baarheid van rapporten | Time |
+| Gebeurtenis | Description | Zicht baarheid van rapporten | Time |
 | --- | --- | --- | --- |
 | Gebruik of maand van trans actie | Klant gebruikt of koopt een service. | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 1** |
 | Micro soft berekent het factuur bedrag | Het totale gebruik, het totaal aantal trans acties bepalen | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 2** |
@@ -51,7 +51,7 @@ Een uitbetaling vindt vaak plaats voordat micro soft de betaling van de klant ve
 
 Voor alle aankopen met een credit card of een maandelijkse factuur geldt een periode van 30 dagen om ervoor te zorgen dat de klant geld wordt verzameld.
 
-| Gebeurtenis | Beschrijving | Zicht baarheid van rapporten | Time |
+| Gebeurtenis | Description | Zicht baarheid van rapporten | Time |
 | --- | --- | --- | --- |
 | Gebruik of maand van trans actie | Klant gebruikt of koopt een service. | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 1** |
 | Factuur betaald door klant | Het totale gebruik, de totale transactie waarde en de factuur van de klant bepalen | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 2** |
@@ -67,13 +67,13 @@ Voor alle aankopen met een credit card of een maandelijkse factuur geldt een per
 
 ## <a name="process-for-customer-non-payment"></a>Proces voor niet-betaling van klant
 
-In zeldzame gevallen kan micro soft geen betalingen van klanten verzamelen voor hun aankopen op de Commercial Marketplace. Wanneer een klant micro soft niet kan betalen volgens hun facturerings schema, beginnen we met het incasso proces. Dit proces duurt ongeveer vier maanden en houdt permanente communicatie van micro soft met zich mee. Als de betaling niet aan het einde van dit proces wordt ontvangen, schrijft micro soft de fondsen als niet-geïncasseerd.
+In zeldzame gevallen kan micro soft geen betalingen van klanten verzamelen voor hun aankopen op de Commercial Marketplace. Wanneer een klant micro soft niet kan betalen volgens hun facturerings schema, beginnen we met het incasso proces. Dit proces duurt ongeveer vier maanden en houdt permanente communicatie van micro soft met zich mee. Als aan het einde van dit proces geen betaling wordt ontvangen, schrijft micro soft de fondsen uit als niet-geïncasseerd.
 
 Op basis van het uitbetalings proces dat hier is gegeleeerd, heeft micro soft mogelijk al fondsen betaald aan uitgevers (u) die uiteindelijk niet worden geïncasseerd. Daarom hebben we een proces voor het afstemmen van deze bedragen. Om ervoor te zorgen dat uw (al ontvangen) betaling kan worden afgestemd, ontvangt u een melding wanneer een klant zich in het incasso proces bevindt en worden de aankopen waarschijnlijk afgeschreven.
 
 Micro soft brengt alle uitbetalingen die u aan u hebt betaald, aan met een van de volgende methoden: (1) micro soft kan de onbetaalde bedragen van toekomstige uitbetalingen aftrekken; Als bijvoorbeeld $1.000 in uitbetalingen als niet-verzamelend wordt beschouwd en wordt afgeschreven, worden uw toekomstige uitbetalingen Inge houden tot de $1.000 wordt hersteld, of (2) micro soft kan een restitutie of factuur uitgevers aanvragen voor alle niet-geïnde bedragen.
 
-Hier volgt een voorbeeld schema:
+De volgende planning is een voor beeld:
 
 | Gebeurtenis | Geschatte datum * | Zicht baarheid partner |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Hier volgt een voorbeeld schema:
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Aantal dagen dat betalingen een uitbetalings account bereiken
 
-Normaal gesp roken verstuurt de betaling in een bepaalde maand op de vijftiende dag van die maand, maar neemt het extra tijd in beslag om uw account te bereiken. Het aantal dagen is afhankelijk van de betalings wijze die we voor uw account gebruiken, zoals hieronder wordt beschreven.
+Normaal gesp roken verstuurt de betaling in een bepaalde maand op de vijftiende dag van die maand, maar duurt het nog een keer om uw account te bereiken. Het aantal dagen is afhankelijk van de betalings wijze die we voor uw account gebruiken, zoals hieronder wordt beschreven.
 
 > [!NOTE]
 > De dagen die hieronder worden weer gegeven, zijn ongeveer gelijk aan. elke betaling kan meer of minder tijd in beslag nemen om uw account te bereiken.

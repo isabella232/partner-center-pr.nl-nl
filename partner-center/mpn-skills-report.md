@@ -4,17 +4,17 @@ ms.topic: conceptual
 ms.date: 02/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Meer informatie over het gebruik van het vaardigheden rapport om ervoor te zorgen dat uw bedrijf up-to-date is met betrekking tot de competentie.
+description: Meer informatie over het gebruik van het rapport met vaardig heden om ervoor te zorgen dat uw bedrijf up-to-date is voor het bereiken van vaardig heden.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474321"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132431"
 ---
 # <a name="using-the-skills-report"></a>Het rapport vaardig heden gebruiken
 
@@ -61,7 +61,7 @@ Volg deze stappen om rapport gegevens over vaardig heden weer te geven vanuit he
 2. Selecteer **MPN** gevolgd door **competenties** in het navigatie menu.
 3. Zoek de volgende opties in de rechter bovenhoek van de pagina competenties:  **competentie prestatie rapport** en **Download vaardigheids rapport**. U hebt de optie om de rapport gegevens van kwalificaties weer te geven in de gebruikers interface van het partner centrum of als een gedownload werk blad.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="De pagina competenties van partner Center met twee opties die in de rechter bovenhoek zijn gemarkeerd." border="true":::
-   - Voor een eenvoudig Lees bare weer gave van gegevens van het vaardigheden rapport selecteert u het **rapport competentie prestaties**, gevolgd door de gegevens van de **gebruikers vaardigheid** in de linkerbovenhoek van de pagina competentie rapport. 
+   - Voor een eenvoudig Lees bare weer gave van gegevens van het vaardigheden rapport selecteert u het **rapport competentie prestaties**, gevolgd door de gegevens van de **gebruikers vaardigheden** in de linkerbovenhoek van de pagina competentie rapport. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Becompetentie rapport pagina partner centrum met de optie gegevens van gebruikers vaardigheden in de linkerbovenhoek." border="true":::
    - Als u het rapport in Spreadsheet indeling wilt downloaden, selecteert u **vaardigheden rapport downloaden**. Zodra het bestand wordt gedownload en geopend, ziet u een tabel met details over de vaardig heden van elke gebruiker. De kolommen **die zijn gekoppeld aan PMC** en **gekoppeld aan PC**, geven aan of de vaardig heden van de gebruiker al zijn gekoppeld aan hun eerder PMC-account (Partner Membership Center) en hun partner Center (PC)-account. Als u gebruikers nog steeds in PMC hebt, raadpleegt u de volgende sectie over PMC-gebruikers.
    

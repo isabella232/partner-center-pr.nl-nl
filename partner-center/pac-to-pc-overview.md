@@ -9,22 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
-ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
+ms.openlocfilehash: c266d3e271cd114bd771f17280e1390fb5f765d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97720829"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086495"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Partner beheer centrum wordt verplaatst naar het partner centrum
 
-**Van toepassing op**
-
-- Partnercentrum
-
 **Juiste rollen**
+
 - Globale beheerder
-- Gebruikersbeheerder
+- Beheerder van gebruikers beheer
 - Beheer agent
 - Verkoop agent
 
@@ -41,7 +38,7 @@ Tijdens 2018 april wordt PAC buiten gebruik gesteld en CSP-partners worden autom
 
 - Partners van Cloud solutions provider: als u een CSP-partner bent, wordt u automatisch omgeleid naar het partner centrum vanaf april 2018.
 
-- Advisor-partners (als u geen gebruikmaakt van de cryptografie provider en PAC gebruikt voor het leveren van tests/citaten voor uw klanten): als u een Advisor-partner bent, wordt u automatisch omgeleid naar het partner centrum vanaf juni 2020.
+- Advisor-partners (als u geen gebruikmaakt van Transact via CSP en PAC gebruikt voor het leveren van tests/citaten voor uw klanten): als u een Advisor-partner bent, wordt u automatisch omgeleid naar het partner centrum vanaf juni 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Ga nu aan de slag met het micro soft Partner Center.
 

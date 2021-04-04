@@ -9,24 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92527477"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132618"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrate Office 365 E4 subscriptions to newer Office 365 versions (Abonnementen op Office 365 E4 naar nieuwe versies van Office 365 migreren)
 
-**Van toepassing op**
-
--  Partnercentrum
-
 **Juiste rollen**
--   Globale beheerder
--   Gebruikersbeheerder
--   Beheer agent
--   Verkoop agent
+
+- Globale beheerder
+- Beheerder van gebruikers beheer
+- Beheer agent
+- Verkoop agent
 
 Het abonnement Office 365 Enter prise E4 wordt buiten gebruik gesteld, vanaf 7 april 2017. U kunt na deze datum geen nieuwe Office 365 E4-abonnementen meer kopen en bestaande E4-abonnementen worden niet automatisch verlengd wanneer ze verlopen.
 
@@ -77,21 +74,21 @@ Voer de volgende stappen uit om het Office 365 Enter prise E4-abonnement van de 
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Stap 1: het nieuwe abonnement kopen
 
-1. Selecteer in het menu **Partner Center** **klanten** , selecteer de klant die u wilt verplaatsen en selecteer vervolgens **abonnementen toevoegen** .
+1. Selecteer in het menu **Partner Center** **klanten**, selecteer de klant die u wilt verplaatsen en selecteer vervolgens **abonnementen toevoegen**.
 
-2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer vervolgens **verzenden** .
+2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer vervolgens **verzenden**.
 
    Uw klant moet nu over zowel oude als nieuwe abonnementen beschikken, het oude Office 365 Enter prise E4-abonnement en het nieuwe ' target '-abonnement, bijvoorbeeld optie 1-Office 365 Enter prise E5.
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Stap 2: de gebruikers licenties van de klant opnieuw toewijzen
 
-1. Selecteer in het menu **Partner Center** **klanten** , selecteer de klant die u wilt verplaatsen en selecteer vervolgens **gebruikers en licenties** . De pagina gebruikers en licenties van de klant wordt geopend.
+1. Selecteer in het menu **Partner Center** **klanten**, selecteer de klant die u wilt verplaatsen en selecteer vervolgens **gebruikers en licenties**. De pagina gebruikers en licenties van de klant wordt geopend.
 
-2. Als u gebruikers licenties opnieuw wilt toewijzen, selecteert u de gebruiker die u opnieuw wilt toewijzen en selecteert u vervolgens **licenties beheren** .
+2. Als u gebruikers licenties opnieuw wilt toewijzen, selecteert u de gebruiker die u opnieuw wilt toewijzen en selecteert u vervolgens **licenties beheren**.
 
 3. Schakel op de pagina **licenties beheren** het selectie vakje **Office 365 Enter prise E4** -licentie uit en selecteer een nieuw service plan voor het abonnement waarnaar de klant wordt verplaatst.
 
-4. Selecteer **Indienen** . Een bevestigings pagina bevat een lijst met de nieuwe licentie toewijzingen.
+4. Selecteer **Indienen**. Een bevestigings pagina bevat een lijst met de nieuwe licentie toewijzingen.
 
 5. Herhaal dezelfde stappen met andere gebruikers van klanten die de licentie opnieuw moeten toewijzen.
 
@@ -99,17 +96,17 @@ Nadat u de gebruikers licenties naar de nieuwe service hebt verplaatst, kunt u h
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Stap 3: het oude abonnement annuleren
 
-1. Selecteer in het menu **Partner Center** **klanten** . Selecteer de klant die u wilt verplaatsen en selecteer het abonnement dat u wilt annuleren.
+1. Selecteer in het menu **Partner Center** **klanten**. Selecteer de klant die u wilt verplaatsen en selecteer het abonnement dat u wilt annuleren.
 
-2. Stel op de pagina abonnements Details de status van het abonnement in op **opgeschort** .
+2. Stel op de pagina abonnements Details de status van het abonnement in op **opgeschort**.
 
-3. Selecteer **Indienen** .
+3. Selecteer **Indienen**.
 
 Het oude abonnement is onderbroken en het nieuwe abonnement is actief. Het opgeschorte abonnement wordt na 120 dagen niet meer ingericht. De klant heeft geen extra kosten in rekening gebracht voor het oude abonnement.
 
 
 
- 
+ 
 
 
 

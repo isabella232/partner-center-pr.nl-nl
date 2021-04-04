@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756138"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133043"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Partner Center gebruiken om in te schrijven als een micro soft learning-partner
 
 **Juiste rollen**
 
 - MPN-partner beheerder
-- MPN-account beheerder
+- Accountbeheerder
 
 In dit artikel worden de verschillende manieren beschreven waarop een partner in de Microsoft Partner Network zich kan inschrijven in het Learning Partner-programma.
 
@@ -50,7 +50,7 @@ Learning Action Pack is de ingang op basis niveau in het Learning Partner-progra
 
 Learning Action Pack ondersteunt partners die trainings Services, aanbiedingen of kortingen op Courseware Marketplace willen bieden, en voor delen om partners te helpen bij experts in verschillende micro soft-product lijnen.
 
-Niet-Learning partners kunnen cursussen kopen tegen volledige prijs voor alleen interne trainingen. Als u de inhoud buiten uw organisatie wilt leveren, hebt u een micro soft Certified Trainer (1 MCT) nodig en moet u zich aanmelden voor de learning-Action Pack.
+Niet-Learning partners kunnen cursussen kopen tegen volledige prijs voor alleen interne trainingen. Als u de inhoud buiten uw organisatie wilt leveren, hebt u een micro soft Certified Trainer (One MCT) nodig en moet u zich aanmelden voor de learning-Action Pack.
 
 Zodra u de vereiste Kpi's hebt bereikt, kunt u de aanvullende vereisten volt ooien en kunt u een upgrade uitvoeren naar een Silver/Gold Learning-optie.
 
@@ -109,7 +109,7 @@ Neem contact op met de [partner Frontline-ondersteuning](https://partner.microso
 
 KPI-rapporten worden eenmaal per maand bijgewerkt in het midden van de maand. De beschik baarheid van het leer programma wordt gemeten voor Kpi's die zijn bereikt tijdens de voorafgaande 12 maanden aan prestatie activiteiten, op basis van uw jubileum datum. Bijvoorbeeld: vanaf 15 januari 2020 worden KPI-gegevens weer gegeven voor de periode van januari 2019 tot en met december 2019. Als uw factuur de datum januari 2020 heeft, worden de bijbehorende Kpi's vanaf 15 februari 2019 weer gegeven. **Bevestigingen voor bestellingen en partner rapporten worden niet geaccepteerd.** Alleen werkelijke facturen worden geaccepteerd.
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>V. Is een training van één dag gelijk aan 1 KPI?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>V. Is een training van één dag gelijk aan één KPI?
 
 Het beantwoorden van een KPI heeft geen betrekking op de duur van de training. Voor meer informatie over hoe Kpi's worden gemeten, raadpleegt u de voor beelden van prestaties in de hand leiding voor het inschrijven van de [leer partner](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 

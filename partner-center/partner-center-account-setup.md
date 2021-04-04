@@ -9,17 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712839"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132278"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Uw partner centrum-account, het bedrijfs profiel, de Bank gegevens, rollen, machtigingen en meer beheren
 
-**Relevante rollen** – globale beheerder
-- MPN-account beheerder
+**Juiste rollen** 
+
+- Globale beheerder
+- Accountbeheerder
 
 Het account dat u op partner centrum maakt wanneer u zich inschrijft, is uw werk-e-mail plus uw bedrijfs gegevens. Nadat u een account hebt gemaakt, voltooit u het instellen van het volledige profiel van uw bedrijf, inclusief ondersteunings Details, belasting vrijstellingen voor bestanden, indien van toepassing, en primaire contact gegevens. Het account van uw bedrijf bevat ook gebruikers accounts voor iedereen in uw team die partner centrum gaat gebruiken. Het werk dat ze kunnen doen omvat het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van zakelijke profielen, het beheren van verwijzingen, het werken met prikkel Programma's, het bieden van ondersteuning en meer.
 
@@ -48,7 +50,7 @@ Wanneer u het pictogram **instellingen** selecteert en het menu **account instel
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu bevat tabbladen voor partners en wederverkopers":::
 
-Het tabblad partner bevat alle juridische Bedrijfs gegevens, zoals de geregistreerde juridische naam en het adres voor uw bedrijf, evenals de primaire contact persoon en de bedrijfs locaties. Het tabblad Reseller voor partners die CSP-bedrijven uitvoeren, omvat het **profiel voor klant ondersteuning**.
+Het tabblad partner bevat alle juridische Bedrijfs gegevens, zoals de geregistreerde juridische naam en het adres van uw bedrijf, evenals de primaire contact persoon en de bedrijfs locaties. Het tabblad Reseller voor partners die CSP-bedrijven uitvoeren, omvat het **profiel voor klant ondersteuning**.
 
 Als uw bedrijf geen deel uitmaakt van de CSP, wordt in de standaard weergave alleen het tabblad **partner** weer gegeven, waarin het **profiel voor klant ondersteuning** wordt opgenomen.
 
@@ -60,7 +62,7 @@ U kunt een deel van meer dan één account maken. U kunt controleren of u deel u
 
 Als u de account kiezer niet ziet, maakt u deel uit van slechts één account. 
 
-Wanneer u op deze kiezer klikt, worden alle accounts waarvan u deel uitmaakt, weer gegeven als een lijst. U kunt vervolgens op een ervan klikken en overschakelen naar dat account. Alles hierna wordt weer gegeven in de context van dat account.  
+Wanneer u deze kiezer selecteert, worden alle accounts waarvan u deel uitmaakt, weer gegeven als een lijst. U kunt ze vervolgens selecteren en overschakelen naar dat account. Alles hierna wordt weer gegeven in de context van dat account.  
 
 In het onderstaande voor beeld maakt de aangemelde gebruiker deel uit van de drie gemarkeerde accounts. De gebruiker kan hiertussen scha kelen door te klikken op een account.
 
@@ -74,7 +76,7 @@ Gebruik deze pagina's voor het beheren van de uitgebreide gebieden van uw bedrij
 
 ### <a name="legal-info"></a>Juridische informatie
 
-Wanneer u de eerste keer deelneemt aan partner Center, loopt uw bedrijf via een verificatie proces met micro soft. U kunt de status van uw verificatie volgen op de pagina **juridische informatie** . Hier wordt de primaire contact persoon weer gegeven (wie micro soft contact maakt met betrekking tot vragen over partners) en de primaire juridische contact persoon (degene die uw juridische informatie en status beheert). Alle bedrijfs locaties van uw bedrijf worden weer gegeven en kunnen hier worden toegevoegd. 
+Wanneer u de eerste keer deelneemt aan partner Center, loopt uw bedrijf via een verificatie proces met micro soft. U kunt de status van uw verificatie volgen op de pagina **juridische informatie** . Hier wordt de primaire contact persoon weer gegeven (wie micro soft zal contacteren over vragen over partners) en de primaire juridische contact persoon (degene die uw juridische informatie en status beheert). Alle bedrijfs locaties van uw bedrijf worden weer gegeven en kunnen hier worden toegevoegd. 
 
 ### <a name="provide-your-companys-legal-business-details"></a>De juridische zakelijke gegevens van uw bedrijf opgeven
 
