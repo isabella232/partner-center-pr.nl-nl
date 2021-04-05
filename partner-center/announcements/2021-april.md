@@ -11,17 +11,64 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 091ba83408ccd7896a0395b6d77c7f3a40f9d985
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280884"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374430"
 ---
 # <a name="april-2021-announcements"></a>Mede delingen van april 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft Partner Center voor april 2021.
 
+________________
+## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nieuwe indeling voor de nieuwe Commerce PDF-factuur in CSP
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-04-05
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Micro soft introduceert een nieuwe indeling voor de nieuwe Commerce PDF-factuur in het programma Cloud Solution Provider (CSP) om factuur Details per product detail weer te geven in plaats van de SKU-beschrijving.
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners die communiceren via het CSP-programma
+
+### <a name="details"></a>Details
+
+Vanaf 2021 mei heeft micro soft een nieuwe indeling geïntroduceerd voor de nieuwe Commerce PDF-factuur in het CSP-programma om factuur Details per product detail weer te geven in plaats van de SKU-beschrijving. Met deze nieuwe update worden de regel items op basis van het product type geaggregeerd wanneer elk product op een afzonderlijke regel wordt weer gegeven.
+
+Partners zullen zien dat deze wijziging van kracht wordt in hun facturen voor de facturerings periode tussen 1 april 2021 en 30 april 2021. De betrokken aanbiedingen zijn Microsoft Azure gereserveerde instantie, Azure-abonnementen (Azure-abonnement) en Marketplace.
+
+Eventuele crediterings aanvragen die zijn gedaan nadat de factuur indeling is bijgewerkt, worden in de nieuwe indeling gegenereerd.
+
+#### <a name="partner-benefits"></a>Voor delen van partner
+
+Deze update biedt de volgende verbeteringen voor de facturerings ervaring voor partners:
+
+- Gereduceerde factuur grootte met behoud van kritieke gegevens
+
+- Uitlijning van de indeling voor de industrie normen voor compacte en gebruiks vriendelijke facturen 
+
+Dit heeft geen invloed op de volgende elementen:
+
+- Pagina facturerings overzicht op de factuur PDF
+
+- Bestaande facturerings-Api's
+
+- Reconciliatie bestanden (afstemmings bestanden kunnen worden gebruikt voor het ophalen van gedetailleerde gegevens). 
+
+- Gebruik en facturen met kosten op basis van licenties
+
+### <a name="next-steps"></a>Volgende stappen
+
+Lees de informatie over dit onderwerp in de [Galerie met Operations Readiness-resources](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) op de website van micro soft partner. Voor meer informatie over facturerings-en belasting onderwerpen, waaronder facturerings resources, facturen, CSP-facturering en belastingen, gaat u naar de [sectie facturering](https://docs.microsoft.com/partner-center/billing) in Partner Center.
+
+________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Wijzigingen in de voorbereidings vereisten van de klant voor de Cloud Solution Provider (CSP)
 
 ### <a name="categories"></a>Categorieën
