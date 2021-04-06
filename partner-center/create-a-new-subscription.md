@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het verkopen van uw klanten abonnementen voor producten die door micro soft zijn gepubliceerd, evenals SaaS-producten die zijn gepubliceerd door onafhankelijke software fabrikanten.
+description: Meer informatie over het verkopen van abonnementen aan uw klanten voor producten die door micro soft worden gepubliceerd, evenals SaaS-producten die zijn gepubliceerd door onafhankelijke software fabrikanten.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038877"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502932"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Klantabonnementen maken, onderbreken of annuleren
 
 **Van toepassing op**
 
-- Partnercentrum
 - Partnercentrum voor Microsoft Cloud for US Government
-- CSP-partners
 
 **Juiste rollen**
 
@@ -32,12 +30,12 @@ ms.locfileid: "96038877"
 - Helpdesk medewerker
 - Verkoop agent
 
-Nadat u een record van uw klant in het partner centrum hebt gemaakt, kunt u deze abonnementen verkopen aan producten in de catalogus. Dit geldt ook voor producten die door micro soft worden gepubliceerd, evenals SaaS-producten (Software as a Service) die door onafhankelijke software leveranciers (Isv's) van derden naar de [commerciële Marketplace](https://azuremarketplace.microsoft.com/marketplace)worden gepubliceerd.
+Nadat u een record van uw klant in het partner centrum hebt gemaakt, kunt u deze abonnementen verkopen aan producten in de catalogus. Dit omvat producten die zijn gepubliceerd door micro soft en software as a Service (SaaS)-producten die worden gepubliceerd door onafhankelijke software leveranciers (Isv's) van derden naar de [commerciële Marketplace](https://azuremarketplace.microsoft.com/marketplace).
 
 Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Ga naar de pagina prijzen en aanbiedingen van het partner centrum om een lijst weer te geven van welke aanbiedingen zijn beperkt.
 
 >[!IMPORTANT]
-> Als partner in het CSP-programma kunt u SaaS **-abonnementen op basis van licenties** of **Data limieten** aanschaffen bij ISV-uitgevers in het partner centrum. Dit betekent dat u een **op licenties gebaseerde** SaaS- **metered** aanbieding kunt aanschaffen die de ISV-Uitgever voor u beschikbaar heeft gesteld, met inbegrip van [exclusieve aanbiedingen](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) waartoe u toegang hebt. Als u andere commerciële Marketplace-aanbiedingen van onafhankelijke software leveranciers wilt kopen of beheren (zoals aanbiedingen op basis van het gebruik van Azure-toepassingen, containers of Vm's), gaat u naar de [Azure Portal](https://portal.azure.com/).
+> Als partner in het CSP-programma kunt u SaaS **-abonnementen op basis van licenties** of **Data limieten** aanschaffen bij ISV-uitgevers in het partner centrum. Dit betekent dat u een **op licenties gebaseerde** SaaS-  aanbieding kunt aanschaffen die de ISV-Uitgever voor u beschikbaar heeft gesteld, met inbegrip van [exclusieve aanbiedingen](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) waartoe u toegang hebt. Als u andere commerciële Marketplace-aanbiedingen van onafhankelijke software leveranciers wilt kopen of beheren (zoals aanbiedingen op basis van het gebruik van Azure-toepassingen, containers of Vm's), gaat u naar de [Azure Portal](https://portal.azure.com/).
 
 ## <a name="create-a-new-subscription"></a>Een nieuw abonnement maken
 
@@ -80,7 +78,7 @@ Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Ga naar de pag
    
 ## <a name="update-subscriptions-with-add-ons"></a>Abonnementen bijwerken met invoegtoepassingen 
 
-Als u een invoegtoepassing wilt kopen, moet de klant eerst een actief basisabonnement hebben.  U kunt invoegtoepassingen niet aanschaffen via de catalogus.
+Als u een invoeg toepassing wilt kopen, moet de klant eerst een actief basis abonnement hebben.  U kunt invoegtoepassingen niet aanschaffen via de catalogus.
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
 
@@ -93,7 +91,7 @@ Als u een invoegtoepassing wilt kopen, moet de klant eerst een actief basisabonn
 5. Werk het aantal licenties voor elke vereiste invoeg toepassing bij. Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
 De mogelijkheid om invoeg toepassingen te kopen via partner centrum is alleen beschikbaar voor directe factuur-en indirecte providers.
-Alleen in aanmerking komende invoeg toepassingen worden weer gegeven op basis van de basis vereisten en regionale Beschik baarheid. Raadpleeg de aanbiedingsmatrix voor cloudresellers voor meer informatie over prijzen en aanbiedingen.  Als u het basisabonnement onderbreekt, worden ook alle bijbehorende invoegtoepassingen onderbroken.
+Alleen in aanmerking komende invoeg toepassingen worden weer gegeven op basis van de basis vereisten en regionale Beschik baarheid. Raadpleeg de Cloud reseller-matrix voor meer informatie over prijzen en aanbiedingen. Als u het basisabonnement onderbreekt, worden ook alle bijbehorende invoegtoepassingen onderbroken.
 
 Begindatums voor invoegtoepassingen worden afgestemd met het basisabonnement en de kosten worden berekend op basis van de begindatum van de kosten en de einddatum van de kosten met pro rata kosten op de eerste factuur. Zie voor meer informatie [facturering op basis van licenties](license-based-billing.md).
 
@@ -120,7 +118,7 @@ Wanneer u een abonnement uitbreekt, wordt de datum weer gegeven die u onder de *
 
 ### <a name="cancel-a-subscription"></a>Een abonnement annuleren
 
-U hebt de mogelijkheid om op licenties gebaseerde SaaS-abonnementen te annuleren vanuit ISV-uitgevers van derden binnen de [commerciële Marketplace](csp-commercial-marketplace-overview.md)van partner Center. Zolang u de annulerings periode hebt geannuleerd, ontvangt u een volledige terugbetaling.
+U kunt SaaS-abonnementen van derden op basis van ISV-uitgevers van derden in de [commerciële Marketplace](csp-commercial-marketplace-overview.md)van partner Center annuleren. Zolang u de annulerings periode hebt geannuleerd, ontvangt u een volledige terugbetaling.
 
 Voor ISV-aanbiedingen worden maandelijks gefactureerd:
 

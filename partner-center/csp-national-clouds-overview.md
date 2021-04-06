@@ -9,26 +9,25 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979563"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502898"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Toep assen op verkopen in nationale Clouds van micro soft als onderdeel van het CSP-programma
 
 **Van toepassing op**
 
-- Partner centrum voor micro soft Government Cloud
+- Partnercentrum voor Microsoft Cloud for US Government
 - Partner centrum voor Microsoft Cloud Duitsland
-
 
 **Juiste rollen**
 
 - Globale beheerder
 
-Naast de verkoop aan klanten als onderdeel van het Global Cloud Solution Provider-programma, kunnen gekwalificeerde micro soft-partners ook cloud oplossingen verkopen aan klanten in drie afzonderlijke nationale Clouds. Nationale Clouds zijn fysieke en logische netwerkgebruikte exemplaren van micro soft Enter prise Cloud Services, die worden beperkt binnen de geografische grenzen van specifieke landen en die worden beheerd door het lokale personeel. 
+Naast de verkoop aan klanten als onderdeel van het Global Cloud Solution Provider-programma, kunnen gekwalificeerde micro soft-partners ook cloud oplossingen verkopen aan klanten in drie afzonderlijke nationale Clouds. Nationale Clouds zijn fysieke en logische netwerkgebruikte exemplaren van micro soft Enter prise Cloud Services, die worden beperkt binnen de geografische grenzen van specifieke landen en die worden beheerd door het lokale personeel.
 
 Zie [micro soft National Clouds](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud)(Engelstalig) voor meer informatie over de nationale Cloud aanbiedingen van micro soft.
 
@@ -56,7 +55,7 @@ Gekwalificeerde partners kunnen micro soft-cloud oplossingen verkopen aan klante
     
 -   [**Azure en Office 365 beheerd door 21vianet in China**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Micro soft biedt Cloud Services in China via een unieke samen werking met Shanghai Blue Cloud Technology Co., Ltd. (21Vianet), een volledige dochter onderneming van Peking 21Vianet Broadband Data Center Co., Ltd. 21Vianet is de grootste provider onafhankelijke Internet aanbieder van Data Center, hosting, beheerd netwerk en Cloud Computing Infrastructure Services in China. 
 
-    Micro soft is de technologie provider, maar de service wordt niet gebruikt. 21Vianet is onafhankelijk van invloed op, biedt en beheert de levering van micro soft-Cloud Services. 21Vianet van micro soft-technologieën biedt ondersteuning voor Azure-en Office 365-Services en kan Azure-en Office 365-Data Centers gebruiken waarmee gegevens in de vasteland-China worden bewaard. 21Vianet biedt ook abonnements-en facturerings Services, evenals ondersteuning.
+    Micro soft is de technologie provider, maar de service wordt niet gebruikt. 21Vianet is onafhankelijk van invloed op, biedt en beheert de levering van micro soft-Cloud Services. 21Vianet van micro soft-technologieën biedt ondersteuning voor Azure-en Office 365-Services en kan Azure-en Office 365-Data Centers gebruiken waarmee gegevens in de vasteland-China worden bewaard. 21Vianet biedt ook abonnements-en facturerings Services en ondersteuning.
 
     Zie voor meer informatie over het registreren en verkopen van klanten in Azure en Office 365 beheerd door 21Vianet in China [partner centrum dat wordt beheerd door 21vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
 

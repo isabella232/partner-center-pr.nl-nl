@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534876"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502494"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Machtigingen voor het beheren van de service of het abonnement van een klant verkrijgen
-
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -88,7 +84,7 @@ Als uw klant gedelegeerde beheerders bevoegdheden verwijdert, worden de toewijzi
 
 ### <a name="azure-subscriptions-and-resource-management"></a>Azure-abonnementen en resource beheer
 
-Elk Azure-abonnement heeft een eigen set resource management-rollen. Voordat een CSP-partner het Azure-abonnement van een klant kan beheren, moet de partner worden toegewezen aan een of meer rollen onder het Azure-abonnement. Specifiek:
+Elk Azure-abonnement heeft een eigen set resource management-rollen. Voordat een CSP-partner het Azure-abonnement van een klant kan beheren, moet de partner worden toegewezen aan een of meer rollen onder het Azure-abonnement. Met name:
 
 - Wanneer een klant een uitnodiging voor een wederverkoper accepteert en gedelegeerde beheer bevoegdheid verleent aan een partner, krijgt de partner niet automatisch toegang tot de bestaande Azure-abonnementen onder de Tenant van de klant.
 

@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 645b07fe7ccdc550cba252507962a5a82ae708af
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92528361"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502949"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Kern vereisten voor de activiteiten in uw prestatie programma
-
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -46,7 +42,7 @@ De volgende tabellen schetsen de kern vereisten voor elk van de geaccepteerde ac
 
 | Categorie | Testen van de uitvoering    |
 | ------ | ----------- |
-| Kern vereisten | N.v.t. |
+| Kern vereisten | NA |
 | Communicatie vereisten | Scherm opname van digitale advertentie<br><br>AND<br><br>URL van landings pagina, met programma-specifieke kern vereisten |
 | Metrische gegevens     | Samen vatting van resultaten (zoals een click-out-rapport) |
 |In aanmerking komende onkosten    | Plaatsing van media van derden<br><br>Kosten-Agentschap: marketing-en creatieve services, met inbegrip van de kosten van het Bureau |
@@ -55,7 +51,7 @@ De volgende tabellen schetsen de kern vereisten voor elk van de geaccepteerde ac
 
 | Categorie | Testen van de uitvoering    |
 | ------ | ----------- |
-| Kern vereisten    | N.v.t. |
+| Kern vereisten    | NA |
 | Communicatie vereisten | 1) exemplaar van definitieve communicatie stuk waarin toepassingsspecifieke kern vereisten worden weer gegeven<br><br>2) het bewijs van distributie kan worden voorzien van een verzend envelop met een stempel of ander bewijs van e-mail (direct mail), de uiteindelijke e-mail met de gedateerde koptekst of een ander bewijs van e-mail (e-mail adres) of foto van een telefoon bericht (SMS) |
 | Metrische gegevens     | Geschatte klant (of partner) bereik |
 |In aanmerking komende onkosten    | Data base ophalen<br><br>Gedrukt materiaal<br><br>Porto<br><br>Kosten-Agentschap: marketing-en creatieve services, met inbegrip van de kosten van het Bureau |
@@ -64,7 +60,7 @@ De volgende tabellen schetsen de kern vereisten voor elk van de geaccepteerde ac
 
 | Categorie | Testen van de uitvoering    |
 | ------ | ----------- |
-| Kern vereisten    | N.v.t. |
+| Kern vereisten    | NA |
 | Communicatie vereisten | URL en/of scherm afbeeldingen van site pagina ('s) met een URL<br><br>Overzicht van de werkzaamheden of service overeenkomst voor het SEO-project (alleen SEO-activiteiten) |
 | Metrische gegevens     | Samen vatting van resultaten (zoals een click-out-rapport) |
 |In aanmerking komende onkosten    | Kosten-Agentschap: Marketing Services, met inbegrip van de kosten van het Bureau<br><br>Programmering/ontwikkeling: kosten voor programmering en ontwikkeling<br><br>Kosten-SEO: optimalisatie en onderhouds kosten  |
@@ -73,7 +69,7 @@ De volgende tabellen schetsen de kern vereisten voor elk van de geaccepteerde ac
 
 | Categorie | Testen van de uitvoering    |
 | ------ | ----------- |
-| Kern vereisten    | N.v.t. |
+| Kern vereisten    | NA |
 | Communicatie vereisten | URL en/of scherm afbeeldingen van site pagina's met URL |
 | Metrische gegevens     | Samen vatting van resultaten (zoals een click-out-rapport) |
 |In aanmerking komende onkosten    | Werkelijke kosten tot USD18, 750 per gebruiks periode voor: kosten-reclame bureau Marketing Services, met inbegrip van de kosten van het Bureau<br><br>Programmeer-en ontwikkelings kosten<br><br>Media plaatsing  |
@@ -82,9 +78,9 @@ De volgende tabellen schetsen de kern vereisten voor elk van de geaccepteerde ac
 
 | Categorie | Testen van de uitvoering    |
 | ------ | ----------- |
-| Kern vereisten    |N.v.t. |
+| Kern vereisten    |NA |
 | Communicatie vereisten | Alle uitvoerings bewijzen zoals beschreven op de pagina toepasselijke activiteit is vereist<br><br>Digitale reclame<br><br>Direct e-mail adres<br><br>Partner website en zoek machine optimalisatie<br><br>Telemarketing  |
-| Metrische gegevens     | N.v.t. |
+| Metrische gegevens     | NA |
 |In aanmerking komende onkosten    | Plaatsing van media van derden<br><br>Kosten-Agentschap: marketing-en creatieve services, met inbegrip van de kosten van het Bureau<br><br>Data base ophalen<br><br>Programmering/ontwikkeling: kosten voor programmering en ontwikkeling<br><br>Kosten-SEO: optimalisatie en onderhouds kosten<br><br>Kosten: Call Center-kosten van derden |
 
 ## <a name="market-development"></a>Markt ontwikkeling
@@ -140,7 +136,7 @@ De volgende tabellen schetsen de kern vereisten voor elk van de geaccepteerde ac
 | ------ | ----------- |
 | Kern vereisten    | Services gericht op 100% op micro soft-producten | 
 | Communicatie vereisten | Voor beeld van de resultaten (op basis van wat wordt beschreven in het formulier on-site expert) |
-| Metrische gegevens     | N.v.t. |
+| Metrische gegevens     | NA |
 |In aanmerking komende onkosten    | De werkelijke kosten tot 100% voor het Opper vlak en 50% voor alle andere Program ma's van gestorte mede werkers per gebruiks periode voor: kosten-Services: services van on-site expert-resources |
 
 ### <a name="proof-of-concept"></a>Werkbaar concept
@@ -156,10 +152,10 @@ De volgende tabellen schetsen de kern vereisten voor elk van de geaccepteerde ac
 
 | Categorie | Testen van de uitvoering    |
 | ------ | ----------- |
-| Kern vereisten    | N.v.t. |
+| Kern vereisten    | NA |
 | Communicatie vereisten | URL-landings pagina of scherm afbeelding van website pagina's. Komt niet in aanmerking voor Surface ADD |
 | Metrische gegevens     | Kosten-Agentschap: Marketing Services, met inbegrip van de kosten van het Bureau<br><br>Programmering/ontwikkeling: kosten voor programmering en ontwikkeling<br><br>Kosten-service: arbeids diensten geleverd door partner of externe leverancier ter ondersteuning van de web-installatie |
-|In aanmerking komende onkosten    | N.v.t. |
+|In aanmerking komende onkosten    | NA |
 
 ## <a name="partner-readiness"></a>Partner gereedheid
 
@@ -168,8 +164,8 @@ De volgende tabellen schetsen de kern vereisten voor elk van de geaccepteerde ac
 | Categorie | Testen van de uitvoering    |
 | ------ | ----------- |
 | Kern vereisten    | Oorspronkelijke micro soft-factuur |
-| Communicatie vereisten | N.v.t. |
-| Metrische gegevens     | N.v.t. |
+| Communicatie vereisten | NA |
+| Metrische gegevens     | NA |
 |In aanmerking komende onkosten    | Kosten-jaarlijks inschrijven: MPN jaarlijkse registratie kosten<br><br>Plaque en DVD (eerste set): MPN-lidmaatschap plaque en de eerste set Dvd's<br><br>Extra voordelen Toolkit |
 
 ### <a name="microsoft-exams-and-tuition"></a>Micro soft-examens en Tuition
@@ -196,7 +192,7 @@ De volgende tabellen schetsen de kern vereisten voor elk van de geaccepteerde ac
 | ------ | ----------- |
 | Kern vereisten    | Door micro soft gehoste vergaderingen. Kosten voor vluchten/Hotel worden beperkt tot USD 5.000 per persoon per conferentie, Maxi maal 3 deel nemers, met een totale limiet van USD 45.000 voor vluchten/Hotel kosten per periode per programma. Hosting kan verschillende rechten hebben. |
 | Communicatie vereisten | Kopie van de uitnodiging voor een conferentie/gebeurtenis of registratie bevestiging met bewijs dat de conferentie wordt gehost door micro soft<br><br>Transport traject met reis datums (alleen reis kosten voor vlieg tickets) |
-| Metrische gegevens     | N.v.t. |
+| Metrische gegevens     | NA |
 |In aanmerking komende onkosten    | Kosten registratie: voor Maxi maal drie deel nemers per conferentie<br><br>Reis-vlieg tickets/Hotel: Trans Port (vluchten of trein tarief en toepasselijke belastingen) en Hotel (alleen kamer tarieven en toepasselijke belastingen)<br><br>Opmerking: reis-vlieg tickets/Hotel onkosten worden beperkt tot USD 5.000 per persoon per conferentie, Maxi maal drie deel nemers, met een totale limiet van USD 45.000 voor vluchten/Hotel kosten per periode per programma. Hosting kan verschillende rechten hebben. |
 
 ### <a name="product-seedingdemo-units"></a>Product seeding/demo-eenheden
@@ -205,11 +201,11 @@ De volgende tabellen schetsen de kern vereisten voor elk van de geaccepteerde ac
 | ------ | ----------- |
 | Kern vereisten    | U kunt Maxi maal 10% van de totale transitorische bedragen of USD 3.000 aanspraak maken, afhankelijk van wat groter of per programma periode is. & hub-partners voor Surface-PC'S hebben geen limiet voor claims. |
 | Communicatie vereisten | Systeem specificaties voor demo-eenheden die intern zijn gebouwd.<br><br>Bewijs van levering voor demo-eenheid van derden.<br><br>Bewijs van demo-eenheid van derden. |
-| Metrische gegevens     | N.v.t. |
-|In aanmerking komende onkosten    | N.v.t. |
+| Metrische gegevens     | NA |
+|In aanmerking komende onkosten    | NA |
 
  Down load de [partner prikkels op Guidebook](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (aanmelden is vereist) voor meer informatie.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Mede-op-claims beheren](incentives-managing-co-op-claims.md)
+- [Coöperatieve claims beheren](incentives-managing-co-op-claims.md)

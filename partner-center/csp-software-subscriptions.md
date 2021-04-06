@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475191"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502549"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Software abonnementen verkopen via het programma Cloud Solution Provider (CSP)
-
-**Van toepassing op**
-
-- Providers van cloudoplossingen
 
 **Juiste rollen**
 
@@ -101,7 +97,7 @@ Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (pa
 
 2. Kies product **versie**, **taal**, **bit** en selecteer **sleutels en down loads ophalen**. 
 
-3. Kies **sleutel ophalen** , waarmee het 32-cijferig product wordt weer gegeven in een pop-updialoogvenster dat u kunt kopiëren en verzenden naar de klant. 
+3. Kies **sleutel ophalen** om het product van 32 cijfers weer te geven in een pop-updialoogvenster dat u kunt kopiëren en verzenden naar de klant. 
 
 4. Kies **downloaden** om de bits te downloaden. 
 
@@ -114,7 +110,7 @@ Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (pa
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Downloaden van server abonnementen en licentie sleutels die beschikbaar zijn via Microsoft 365 beheer centrum voor klanten 
 
-Uw klanten kunnen licentie sleutels en down loads voor het CSP-Server abonnement ophalen van Microsoft 365 beheer centrum. Voor een overzicht van de licentie sleutels en down loads van het CSP-Server abonnement moet de klant naar Microsoft 365-beheer centrum gaan > **facturering > uw producten > tabblad software**. Raadpleeg het [tabblad software onder facturering](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)voor meer informatie.  
+Uw klanten kunnen licentie sleutels en down loads voor het CSP-Server abonnement ophalen van Microsoft 365 beheer centrum. Voor een overzicht van de licentie sleutels en down loads van het CSP-Server abonnement moet de klant naar Microsoft 365-beheer centrum gaan > **facturering > uw producten > tabblad software**. Zie het [tabblad software onder facturering](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)voor meer informatie.  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Activiteit voor toegang tot software sleutels en software downloads weer geven
 
@@ -145,7 +141,7 @@ Volg de onderstaande stappen om een aankoop te annuleren:
 
 1. Voordat u het annulerings proces start, controleert u of u het volgende hebt:
 
-    - De naam van de klant, Tenant-GUID of domein naam
+    - De naam van de klant, de Tenant-GUID of de domein naam
 
     - De naam van het product dat u wilt annuleren
     

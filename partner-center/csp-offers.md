@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "92527522"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502864"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Overzicht van partneraanbiedingen in het Cloud Solution Provider-programma
-
-**Van toepassing op**
-
-- CSP-partners
 
 **Juiste rollen**
 
@@ -28,7 +24,7 @@ ms.locfileid: "92527522"
 - Globale beheerder
 - Verkoop agent
 
-Micro soft-partners in het Cloud Solution Provider-programma (CSP) hebben een groeiende catalogus met aanbiedingen die voor hen beschikbaar zijn. U kunt het volledige aanbod van [micro soft-Cloud Services](https://partner.microsoft.com/cloud-solution-provider/products-and-services)en diverse extra aanbiedingen die regel matig veranderen, verkopen. Als u de CSP-aanbiedingen voor de huidige maand wilt bekijken, meldt u zich aan bij Partner Center en gaat u naar de pagina [**prijzen en aanbiedingen**](https://partnercenter.microsoft.com/pcv/sales) .  
+Micro soft-partners in het Cloud Solution Provider-programma (CSP) hebben een groeiende catalogus met aanbiedingen die voor hen beschikbaar zijn. U kunt het volledige aanbod van [micro soft-Cloud Services](https://partner.microsoft.com/cloud-solution-provider/products-and-services)en diverse andere aanbiedingen die regel matig veranderen, verkopen. Als u de CSP-aanbiedingen voor de huidige maand wilt bekijken, meldt u zich aan bij Partner Center en gaat u naar de pagina [**prijzen en aanbiedingen**](https://partnercenter.microsoft.com/pcv/sales) .  
 
 Nog niet Inge schreven in het programma Cloud Solution Provider? Ga naar de [Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider) voor meer informatie over het registreren van. 
 
@@ -59,7 +55,7 @@ Op dit moment kunt u de volgende typen producten en services verkopen aan uw CSP
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Software as a Service (SaaS) en andere [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) -producten
 
-   U kunt abonnementen van onafhankelijke software leveranciers (Isv's) verkopen aan SaaS-producten. Als u alleen SaaS-aanbiedingen in **Online Services** wilt zien, gebruikt u de filters om **Publisher** in te stellen op **partner** . Hiermee worden alle SaaS-aanbiedingen weer gegeven die voor die klant kunnen worden aangeschaft.
+   U kunt abonnementen van onafhankelijke software leveranciers (Isv's) verkopen aan SaaS-producten. Als u alleen SaaS-aanbiedingen in **Online Services** wilt zien, gebruikt u de filters om **Publisher** in te stellen op **partner**. Hiermee worden alle SaaS-aanbiedingen weer gegeven die voor die klant kunnen worden aangeschaft.
 
    U kunt ook informatie over deze producten vinden op de **Marketplace** -pagina.
 
@@ -95,13 +91,13 @@ Als u producten en services namens uw CSP-klanten wilt kopen, selecteert u de it
 
 1. Selecteer **klanten** in het menu van het partner centrum en zoek vervolgens de klant die u van u wil kopen. 
 
-2. Selecteer de pijl-omlaag aan het einde van de rij van de klant om de record van de klant uit te vouwen en selecteer vervolgens **producten toevoegen** . Vanaf nu bent u bezig met het maken van een order. Een order kan meerdere items van verschillende typen bevatten, maar deze moeten allemaal voor dezelfde klant zijn.
+2. Selecteer de pijl-omlaag aan het einde van de rij van de klant om de record van de klant uit te vouwen en selecteer vervolgens **producten toevoegen**. Vanaf nu bent u bezig met het maken van een order. Een order kan meerdere items van verschillende typen bevatten, maar deze moeten allemaal voor dezelfde klant zijn.
 
-3. Selecteer op de pagina **producten toevoegen** de optie van **Azure** , **Online Services** of **Software** .
+3. Selecteer op de pagina **producten toevoegen** de optie van **Azure**, **Online Services** of **Software**.
 
-4. Verfijn de beschik bare filters om de producten die u zoekt gemakkelijker te vinden. Als u de volledige lijst met beschik bare items wilt weer geven, stelt u de toepasselijke filters in op **elke** .
+4. Verfijn de beschik bare filters om de producten die u zoekt gemakkelijker te vinden. Als u de volledige lijst met beschik bare items wilt weer geven, stelt u de toepasselijke filters in op **elke**.
 
-5. Selecteer het product dat de klant wil, voer het gewenste aantal in en selecteer vervolgens **toevoegen aan winkel wagen** .
+5. Selecteer het product dat de klant wil, voer het gewenste aantal in en selecteer vervolgens **toevoegen aan winkel wagen**.
 
 6. Herhaal stap 4 en 5 totdat u alle benodigde items aan uw winkel wagen hebt toegevoegd. Selecteer **controleren** om te controleren of uw bestelling juist is.  
 
@@ -111,16 +107,16 @@ Als u producten en services namens uw CSP-klanten wilt kopen, selecteert u de it
 
 ## <a name="rules-for-special-segments"></a>Regels voor speciale segmenten
 
-Sommige aanbiedingen op basis van licenties kunnen alleen onder bepaalde voor waarden worden aangeschaft. Speciale segment aanbiedingen zijn onder andere onderwijs, non-profit organisaties en GCC-aanbiedingen (Community-Cloud). Meer informatie over deze aankoop voorwaarden vindt u in het [onderwerp inkoop regels voor speciale segmenten](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
+Sommige aanbiedingen op basis van licenties kunnen alleen onder bepaalde voor waarden worden aangeschaft. Speciale segment aanbiedingen zijn onder andere onderwijs-, non-profit en GCC-aanbiedingen (Community-Cloud). Meer informatie over deze aankoop voorwaarden vindt u in het [onderwerp inkoop regels voor speciale segmenten](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="troubleshooting-catalog-purchases"></a>Problemen met catalogus aankopen oplossen
 
 Er kunnen verschillende redenen zijn waarom u de aanbieding die u zoekt, niet kunt vinden in de catalogus. Hieronder vindt u dingen om te controleren of u de verwachte aanbieding niet kunt vinden.
 
-- **Controleer of uw klant gekwalificeerd is** . Veel aanbiedingen kunnen alleen worden verkocht aan klanten die aan speciale kwalificaties voldoen. Deze speciale segmenten zijn onder andere Education, Non-profit en Government Community Cloud (GCC). Controleer voordat u een probleem meldt eerst of de kwalificaties van de klant dienovereenkomstig zijn ingesteld. U kunt dit controleren door in de klantenlijst op de klant te klikken en het account te bekijken. Indien van toepassing, is er een speciale kwalificatie ingesteld op het account. Als u Education probeert aan te schaffen voor een klant die niet is gekwalificeerd, ziet u de betreffende aanbiedingen niet in de catalogus. Raadpleeg de [speciale segmenten Documenation](get-special-pricing-for-offers.md) voor meer informatie over het kwalificeren van uw klanten.
-- **Bepaal of u een invoegtoepassing of een basisaanbieding** wilt aanschaffen. Bij veel van de op licenties gebaseerde services, zoals Microsoft 365 en Dynamics 365, zijn zowel catalogusaankopen van de basisaanbiedingen als invoegtoepassingen mogelijk. Alleen basisaanbiedingen kunnen worden aangeschaft in de catalogus. Als u invoegtoepassingen wilt aanschaffen, moet u eerst de basisaanbieding kopen in de catalogus en vervolgens de klant selecteren in de klantenlijst en vervolgens het abonnement voor de basisaanbieding selecteren. Invoegtoepassingen kunnen worden toegepast op de basisaanbieding op deze pagina voor het beheren van abonnementen. 
-- **Controleer of de producten beschikbaar zijn in uw markt** . Veel producten en services zijn zo geconfigureerd dat ze alleen worden verkocht aan klanten in specifieke landen. U kunt de lijst met ondersteunde landen/regio's vinden in de verschillende prijslijstbestanden. Ondersteunde landen voor op licenties gebaseerde services bevinden zich in de aanbiedingslijstmatrix op de pagina met prijzen en aanbiedingen.
-- **Controleer of de aanbiedingen beschikbaar zijn in de prijslijst** . De lijst met beschikbare aanbiedingen kan van maand tot maand worden gewijzigd. Als u een aanbieding niet in de catalogus kunt vinden, controleer dan of deze beschikbaar is in de huidige prijslijsten op de pagina **Verkopen > Prijzen en aanbiedingen** .
+- **Controleer of uw klant gekwalificeerd is**. Veel aanbiedingen kunnen alleen worden verkocht aan klanten die aan speciale kwalificaties voldoen. Deze speciale segmenten omvatten onderwijs, non-profit organisatie en Government Community Cloud (GCC). Controleer voordat u een probleem meldt eerst of de kwalificaties van de klant dienovereenkomstig zijn ingesteld. U kunt dit controleren door de klant te selecteren in de lijst met klanten en het account te bekijken. Indien van toepassing, is er een speciale kwalificatie ingesteld op het account. Als u Education probeert aan te schaffen voor een klant die niet is gekwalificeerd, ziet u de betreffende aanbiedingen niet in de catalogus. Zie de [documentatie voor speciale segmenten](get-special-pricing-for-offers.md)voor meer informatie over het kwalificeren van uw klanten.
+- **Bepaal of u een invoegtoepassing of een basisaanbieding** wilt aanschaffen. Veel van de op licenties gebaseerde services, zoals Microsoft 365 en Dynamics 365, maken de catalogus aankopen van de basis aanbiedingen en invoeg toepassingen mogelijk. Alleen basisaanbiedingen kunnen worden aangeschaft in de catalogus. Als u invoeg toepassingen wilt aanschaffen, moet u eerst de basis aanbieding in de catalogus aanschaffen en vervolgens de klant selecteren in de lijst klant en vervolgens het abonnement voor de basis aanbieding selecteren. Invoegtoepassingen kunnen worden toegepast op de basisaanbieding op deze pagina voor het beheren van abonnementen. 
+- **Controleer of de producten beschikbaar zijn in uw markt**. Veel producten en services zijn zo geconfigureerd dat ze alleen worden verkocht aan klanten in specifieke landen. U kunt de lijst met ondersteunde landen/regio's vinden in de verschillende prijslijstbestanden. Ondersteunde landen voor op licenties gebaseerde services bevinden zich in de aanbiedingslijstmatrix op de pagina met prijzen en aanbiedingen.
+- **Controleer of de aanbiedingen beschikbaar zijn in de prijslijst**. De lijst met beschikbare aanbiedingen kan van maand tot maand worden gewijzigd. Als u geen aanbieding in de catalogus kunt vinden, controleert u of deze beschikbaar is in de huidige prijs lijsten op de pagina **verkoop > prijzen en aanbiedingen** .
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Aanbevolen documenten met betrekking tot het kopen van items in het partner centrum
 

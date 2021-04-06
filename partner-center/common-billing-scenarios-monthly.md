@@ -2,17 +2,19 @@
 title: Algemene maandelijkse facturerings scenario's
 ms.topic: article
 ms.date: 05/13/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: "Algemene scenario's in Partner Center wanneer u maandelijkse facturering gebruikt: omvat het toevoegen van nieuwe abonnementen, het wijzigen van de licentie hoeveelheid en het uitstellen van abonnementen."
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354573"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502511"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Voor beelden van maandelijkse facturerings scenario's voor nieuwe abonnementen, wijziging van licentie bedragen of onderbrekingen
 
@@ -27,13 +29,13 @@ Deze [veelvoorkomende facturerings scenario's](common-billing-scenarios.md) zijn
 
 ## <a name="new-monthly-subscription"></a>Nieuw maandelijks abonnement
 
-Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het op een licentie gebaseerd afstemmings bestand van 15 januari bevat de volgende facturerings regels:
+Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het afstemmings bestand op basis van de licentie van 15 januari bevat de volgende facturerings regels:
 
 |Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Cyclus kosten   |4,00       |1        |4,00 |
 
-Het op de licentie gebaseerde afstemmings bestand van 15 februari bevat de volgende facturerings regel:
+Het afstemmings bestand op basis van de licentie voor 15 februari bevat de volgende facturerings regel:
 
 |Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -41,13 +43,13 @@ Het op de licentie gebaseerde afstemmings bestand van 15 februari bevat de volge
 
 ## <a name="change-license-quantity"></a>Licentieaantal wijzigen
 
-Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het op een licentie gebaseerd afstemmings bestand van 15 januari bevat de volgende facturerings regels:
+Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het afstemmings bestand op basis van de licentie van 15 januari bevat de volgende facturerings regels:
 
 |Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Cyclus kosten   |4,00       |1        |4,00    |
 
-Op 1 februari verhoogt u het aantal licenties van een tot twee. Het op de licentie gebaseerde afstemmings bestand van 15 februari bevat de volgende facturerings regels:
+Op 1 februari verhoogt u het aantal licenties van een tot twee. Het afstemmings bestand op basis van de licentie voor 15 februari bevat de volgende facturerings regels:
 
 |Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -68,13 +70,13 @@ Prijs van rato eenheid = 1,54 = 12 x 0,129
 
 ## <a name="suspend-before-30-days"></a>Uitstellen vóór 30 dagen
 
-Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het op een licentie gebaseerd afstemmings bestand van 15 januari bevat de volgende facturerings regels:
+Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het afstemmings bestand op basis van de licentie van 15 januari bevat de volgende facturerings regels:
 
 |Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Cyclus kosten   |4,00       |1        |4,00    |
 
-Op 1 februari wordt een abonnement onderbroken. Het op de licentie gebaseerde afstemmings bestand van 15 februari bevat de volgende facturerings regel:
+Op 1 februari schorst u een abonnement. Het afstemmings bestand op basis van de licentie voor 15 februari bevat de volgende facturerings regel:
 
 |Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -82,19 +84,19 @@ Op 1 februari wordt een abonnement onderbroken. Het op de licentie gebaseerde af
 
 ## <a name="suspend-after-30-days"></a>Uitstellen na 30 dagen
 
-Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het op een licentie gebaseerd afstemmings bestand van 15 januari bevat de volgende facturerings regels:
+Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u maandelijkse facturering. Het afstemmings bestand op basis van de licentie van 15 januari bevat de volgende facturerings regels:
 
 |Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|2/12/2018|Cyclus kosten|4,00|1|4,00
 
-Het op de licentie gebaseerde afstemmings bestand van 15 februari bevat de volgende facturerings regel:
+Het afstemmings bestand op basis van de licentie voor 15 februari bevat de volgende facturerings regel:
 
 |Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2/13/2018|3/12/2018|Cyclus kosten|4,00|1|4,00
 
-Op 1 maart wordt het abonnement onderbroken. Het op 15 maart op licentie gebaseerde afstemmings bestand bevat de volgende facturerings regel:
+Op 1 maart wordt het abonnement onderbroken. Het afstemmings bestand van 15 maart op basis van licentie bevat de volgende facturerings regel:
 
 |Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
