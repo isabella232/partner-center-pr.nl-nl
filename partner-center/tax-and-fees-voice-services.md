@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "92528357"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441486"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Regionale belastingen, voor schriften voor openbaar geswitcheerde telefoonnet werk (PTSN)
 
-**Van toepassing op**
-
-- Partnercentrum
-- Office 365-partners die Microsoft 365 Voice-producten handelen
-
 **Juiste rollen**
--    Globale beheerder
--    Gebruikersbeheerder
--    Beheer agent
+
+- Globale beheerder
+- Gebruikersbeheerder
+- Beheer agent
 
 Open bare telefoonnet werk Services (PSTN) in sommige jurisdicties zijn mogelijk onderworpen aan speciale belasting-en regelgeving die van invloed kunnen zijn op de partner volgorde en facturering. In de Verenigde Staten, waaronder Puerto Rico, worden PSTN-Services, die audio vergaderingen, oproep plannen en communicatie tegoeden omvatten, onderworpen aan speciale belasting-en regelgeving. In de Verenigde Staten en Puerto Rico, micro soft prijzen PSTN-Services als exclusief BTW.  Unieke PSTN-belastingen en-voor schriften zijn van invloed op de Office 365-partners die worden Microsoft 365 Voice-producten.  Als een partner de prijs van een micro soft PSTN-service markeert, kan hij verantwoordelijk zijn voor het berekenen en remitteren van de PSTN-belastingen en-kosten.
 
@@ -48,7 +44,7 @@ Office 365 Enter prise E5 geeft een afstemmings bestand weer als twee regel item
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Cyclus kosten   |28,40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Cyclus kosten   |28.40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Cyclus kosten   |2,00   |
 
 **Voor beeld van partner afstemming #2**

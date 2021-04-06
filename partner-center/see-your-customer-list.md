@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ab5b3ef871aa8a969e8da48e2cb6f4cfebf4c6
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 244a8cfc661b371b611a19a5c90ddf131b42a46a
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028329"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441962"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Uw klanten lijst beheren-klanten zoeken, bijwerken of exporteren in het partner centrum
 
 **Van toepassing op**
 
-- Partner centrum voor micro soft Government Cloud
+- Partnercentrum voor Microsoft Cloud for US Government
 
 Klant records zijn van uw belangrijkste informatie-assets in Partner Center. U kunt zoeken in uw data base met klant accounts, de hele klanten database exporteren of een subset exporteren naar een met Excel compatibele bestands indeling met door komma's gescheiden waarden (. CSV). U kunt ook de abonnements gegevens van een klant exporteren naar een CSV-bestand.
 

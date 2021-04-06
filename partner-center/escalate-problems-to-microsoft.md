@@ -1,5 +1,5 @@
 ---
-title: Problemen naar micro soft escaleren
+title: Problemen escaleren naar Microsoft
 description: Ontdek welke problemen micro soft-partners naar verwachting zelf kunnen oplossen voor hun klanten en welke problemen ze nodig hebben om naar micro soft te escaleren.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -9,19 +9,18 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 77695d061c9ce42f32c95abfd8475064991954f9
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92528120"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441843"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Problemen naar micro soft escaleren en leren welke problemen meer geschikt zijn voor micro soft-escalatie  
 
 **Van toepassing op**
 
-- Partnercentrum
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 
 **Juiste rollen**
 
@@ -50,13 +49,13 @@ Er zijn echter verschillende categorieën problemen die u naar micro soft moet a
 
 2. Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens de klant die ondersteuning nodig heeft.
 
-3. Selecteer **Service beheer** en selecteer **service aanvragen** .
+3. Selecteer **Service beheer** en selecteer **service aanvragen**.
 
-4. Selecteer **nieuwe aanvraag** en selecteer vervolgens **Microsoft Office 365** .
+4. Selecteer **nieuwe aanvraag** en selecteer vervolgens **Microsoft Office 365**.
 
 5. U gaat naar de Office 365-Portal waar u zich moet aanmelden met de referenties van uw partner centrum.
 
-6. Selecteer **ondersteuning** , **nieuwe service aanvraag** vanuit het menu aan de linkerkant.
+6. Selecteer **ondersteuning**, **nieuwe service aanvraag** vanuit het menu aan de linkerkant.
 
 7. Selecteer het ondersteunings onderwerp.
 

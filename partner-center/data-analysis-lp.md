@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626066"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441877"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Gebruik Analytics om meer te weten te komen over abonnements opbrengsten
 
@@ -36,9 +36,9 @@ Als u manieren wilt plannen om uw CSP-bedrijf te ontwikkelen, moet u weten hoe u
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Achterstallige Twelve-Month (TTM) CSP-omzet
 
-Afsluitende CSP-omzet van 12 maanden vertegenwoordigt de achterstallige Cloud Solution Provider-programma opbrengst in USD op het globale account niveau van de partner. De gegevens worden op de achtste van elke maand vernieuwd om de afsluitende omzet van twaalf maanden tot de vorige maand weer te geven. Bijvoorbeeld: op 9de september 2020 kunt u de TTM voor de vaste periode van 2019 tot augustus 2020 zien.
+Afsluitende CSP-omzet van 12 maanden vertegenwoordigt de achterstallige Cloud Solution Provider-programma opbrengst in USD op het globale account niveau van de partner. De gegevens worden vernieuwd op het achtste van elke maand, zodat de afsluitende omzet van twaalf maanden wordt weer gegeven tot de vorige maand. Bijvoorbeeld: op 9 september 2020 kunt u de TTM voor de vaste periode van 2019 tot augustus 2020 zien.
 
-De omzet die wordt weer gegeven in het partner centrum wordt berekend voor een vast tijds interval van twaalf maanden en kan niet worden gewijzigd in een kortere periode.
+De omzet die wordt weer gegeven in het partner centrum wordt berekend voor een vast tijds interval van 12 maanden en kan niet worden gewijzigd in een kortere periode.
 
 Een uitsplitsing van de inkomsten op het account niveau van uw partner locatie bekijken:
 
@@ -51,14 +51,14 @@ Een uitsplitsing van de inkomsten op het account niveau van uw partner locatie b
 
 In de onderste helft van het scherm wordt een samen vatting van de abonnementen weer gegeven. Gebruik de volgende filters om de vereiste abonnements details te bekijken:  
 
-1. **Duur** : u kunt ervoor kiezen om het abonnements overzicht voor te bekijken 
+1. **Duur**: u kunt ervoor kiezen om het abonnements overzicht voor te bekijken 
 
 - 30D – afgelopen 30 dagen
 - 3 meter – afgelopen drie maanden
 - 6 min. – afgelopen 6 maanden
 - 12M – afgelopen 12 maanden
 
-2. **Product type** :
+2. **Product type**:
  
 - Office 365
 - Microsoft 365

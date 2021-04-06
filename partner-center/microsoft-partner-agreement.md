@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880800"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441265"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880800"
 
 De micro soft-partner overeenkomst biedt micro soft-partners een geïntegreerde, digitaal geaccepteerde partner overeenkomst. De micro soft-partner overeenkomst bevat een kern verzameling van permanente voor waarden waarmee micro soft, partners en klanten de privacy en beveiliging van gegevens kunnen ondersteunen, de naleving kunnen bevorderen en zakelijke procedures kunnen stimuleren.
 
-Alle software partners van de Cloud Solution Provider (waaronder indirecte providers, indirecte wederverkopers en direct factuur partners) kunnen de MPA online ondertekenen in het partner centrum. Directe en indirecte provider partners die in de overheids Cloud werken, kunnen de MPA ook ondertekenen vanuit het partner centrum.
+Alle software partners van de Cloud Solution Provider (waaronder indirecte providers, indirecte wederverkopers en direct factuur partners) kunnen de MPA online ondertekenen in het partner centrum. Directe en indirecte provider partners die in de Microsoft Cloud voor de Amerikaanse overheid werken, kunnen de MPA ook ondertekenen vanuit het partner centrum.
 
 Als u wilt blijven deel nemen aan het CSP-programma, moet u de micro soft-partner overeenkomst ondertekenen vóór 31 januari 2020. In het partner centrum herinnert u zich dat u de overeenkomst nu eenvoudig kunt ondertekenen vanuit het partner centrum.
 
@@ -64,7 +64,7 @@ Als u wilt blijven deel nemen aan het CSP-programma, moet u de micro soft-partne
  
 4. Als de status van de  **indirecte wederverkoper** **gekwalificeerd** is, gaat u naar het overzicht van uw [**dash board**](https://partner.microsoft.com/pcv/dashboard/overview) om de MPA te accepteren om uw account te activeren.
  
-1. Als de status van de indirecte wederverkoper wordt **afgewezen** of **geweigerd** , is uw account verificatie mislukt. Lees [verificatie proces](verification-responses.md) voor meer informatie over het oplossen van het verificatie probleem.
+1. Als de status van de indirecte wederverkoper wordt **afgewezen** of **geweigerd**, is uw account verificatie mislukt. Lees [verificatie proces](verification-responses.md) voor meer informatie over het oplossen van het verificatie probleem.
 
 1. Als u zich eerder hebt verplaatst naar partner Center als een indirecte wederverkoper, accepteert u de micro soft-partner overeenkomst in het dash board van het partner centrum met de referenties van de globale beheerder. U kunt controleren of de micro soft-partner overeenkomst al is ondertekend door het [partner profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **programma gegevens** of de banner melding op de overzichts pagina van de CSP.
 
@@ -75,7 +75,7 @@ Vergeet niet om de CSP-relatie aanvraag met uw indirecte provider te accepteren.
 1. Meld u aan bij partner centrum met uw CSP indirect reseller-account. U moet de globale beheerder zijn.
 1. Ga naar de **[overzichts](https://partner.microsoft.com/pcv/dashboard/overview)** pagina van CSP.  Als u niet **akkoord en door gaan** of de groene banner ziet dat MPA is ondertekend, hebt u niet de juiste rol om MPA te ondertekenen. Neem contact op met uw globale beheerder om de MPA te ondertekenen.
 
-1. Als u de **micro soft-partner overeenkomst** wilt bekijken en downloaden voordat u deze ondertekent, klikt u op de koppeling voor de micro soft-partner overeenkomst, zoals hieronder
+1. Als u de **micro soft-partner overeenkomst** wilt bekijken en downloaden voordat u deze ondertekent, selecteert u de koppeling voor de micro soft partner overeenkomst zoals hieronder wordt weer gegeven
 
 :::image type="content" source="images/agreement-three.png" alt-text="Nieuwe locatie van de MPA-overeenkomst":::
 

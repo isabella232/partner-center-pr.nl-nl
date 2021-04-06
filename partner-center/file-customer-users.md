@@ -9,18 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07a28e5310716f3df11caa36e51339e877e65627
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92528096"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441418"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Meerdere gebruikers toevoegen aan een klant account door een CSV-bestand te maken
-
-**Van toepassing op**
-
-- Partnercentrum
 
 **Juiste rollen**
 
@@ -46,7 +42,7 @@ Voer de volgende gegevens in het gegevens bestand in:
 | Achternaam  | De achternaam van de gebruiker (optioneel veld)  | 50-teken limiet  |
 | Weergavenaam    | De naam die wordt weer gegeven in het partner centrum (vereist veld)                            | 50-teken limiet                         |
 | E-mail   | Zakelijke e-mail adres van gebruiker bij bedrijf van klant (vereist veld)           | Elke gebruiker moet een uniek e-mail adres hebben |
-| Status update   | Hiermee wordt aangegeven of de nieuwe gebruikers record is gemaakt. | \*\*Leeg laten\*\*                        |
+| Status update   | Wordt gebruikt om aan te geven of de nieuwe gebruikers record is gemaakt | \*\*Leeg laten\*\*                        |
 
 ## <a name="next-steps"></a>Volgende stappen
 

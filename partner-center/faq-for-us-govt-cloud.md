@@ -8,18 +8,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528595"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441469"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Veelgestelde vragen over partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
 
 **Van toepassing op**
 
-- Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Algemene vragen
 
@@ -27,11 +27,11 @@ Gebruik deze veelgestelde vragen om meer te weten te komen over het programma Cl
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>Wat is Microsoft Cloud voor de Amerikaanse overheid?
 
-Microsoft Cloud voor de overheid is ontworpen voor de Amerikaanse overheid van de basis, waardoor klanten van de publieke sector in de Verenigde Staten, van grote federale instanties tot kleine stad regeringen, een keuze kunnen maken uit een bereik van Cloud Computing Services. Micro soft heeft aanzienlijke investeringen in data centers gemaakt en is gericht op de naleving van het beleid van de Amerikaanse federale en status, mandaten en vereisten om de specifieke behoeften van hun klanten optimaal aan te pakken.
+Microsoft Cloud voor de Amerikaanse overheid is speciaal ontworpen voor de Amerikaanse overheid en maakt het mogelijk dat klanten van de publieke sector in de Verenigde Staten, van grote federale instanties tot kleine stad regeringen, hun keuze kunnen maken uit een bereik van Cloud Computing Services. Micro soft heeft aanzienlijke investeringen in data centers gemaakt en is gericht op de naleving van het beleid van de Amerikaanse federale en status, mandaten en vereisten om de specifieke behoeften van hun klanten optimaal aan te pakken.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>Wie komt in aanmerking voor het CSP-programma voor Microsoft Cloud voor de Amerikaanse overheid?
 
-Partners in de Verenigde Staten die de Amerikaanse federale, staats-en lokale overheids instanties in hun overheids capaciteiten ondergaan, komen in aanmerking voor het CSP-programma voor micro soft Government Cloud. Micro soft heeft een strikt validatie programma voor het bepalen van de geschiktheid voordat partners toegang hebben tot de micro soft Government Cloud. Om in aanmerking te komen, moet u bewijzen dat u met overheids klanten werkt. Het registratie proces voor het CSP-programma in micro soft kan voor Amerikaanse overheid worden uitgebreid om aanvullende gegevens vast te leggen voor het uitvoeren van de validatie. Typen bewijs kunnen, maar zijn niet beperkt tot, overheids contract nummers en sponsoren van uw overheids klant.
+Partners in de Verenigde Staten die de Amerikaanse federale, staats-en lokale overheids instanties in hun overheids capaciteiten ondergaan, komen in aanmerking voor het CSP-programma voor Microsoft Cloud voor de Amerikaanse overheid. Micro soft heeft een strikt validatie programma om de geschiktheid te bepalen voordat partners toegang hebben tot Microsoft Cloud voor de Amerikaanse overheid. Om in aanmerking te komen, moet u bewijzen dat u met overheids klanten werkt. Het registratie proces voor het CSP-programma in micro soft kan voor Amerikaanse overheid worden uitgebreid om aanvullende gegevens vast te leggen voor het uitvoeren van de validatie. Typen bewijs kunnen, maar zijn niet beperkt tot, overheids contract nummers en sponsoren van uw overheids klant.
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>Is de klant prijs hetzelfde als voor de CSP-commerciële?
 
@@ -43,13 +43,13 @@ Ja. Het model voor het verdisconteerd van partners voor het CSP-programma voor M
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>CSP-Commercial is een bestaand partner programma. Wat is het CSP-programma voor micro soft Government Cloud?
 
-Het CSP-programma voor micro soft Government Cloud wijkt af van CSP-Commercial in de volgende gebieden:
+Het CSP-programma voor Microsoft Cloud voor de Amerikaanse overheid wijkt af van CSP-Commercial in de volgende gebieden:
 
-- Geschiktheid: het CSP-programma voor de micro soft Government-Cloud is alleen beschikbaar voor partners in Verenigde Staten die Amerikaanse, regionale en lokale overheids instanties in hun overheids capaciteiten hebben. Micro soft heeft een validatie programma om de geschiktheid te bepalen voordat partners toegang hebben tot de Amerikaanse overheids Cloud.
+- Geschiktheid: het CSP-programma voor Microsoft Cloud voor de Amerikaanse overheid is alleen beschikbaar voor partners in Verenigde Staten die Amerikaanse overheids instanties, staats-en lokale overheden in hun overheids hoedanigheid verzorgen. Micro soft heeft een validatie programma om de geschiktheid te bepalen voordat partners toegang hebben tot de Amerikaanse overheids Cloud.
 
 - Onboarding: partners moeten het CSP-programma voor Microsoft Cloud van de Amerikaanse overheid zonder meer van CSP-commercieel op de markt kunnen voorbereiden.
 
-- Beschik baarheid van product: zowel Azure Government als op licenties gebaseerde services zoals Office 365, Enterprise Mobility + Security en Dynamics 365 zijn beschikbaar in het CSP-programma voor micro soft Government Cloud.
+- Beschik baarheid van product: zowel Azure Government als op licenties gebaseerde services zoals Office 365, Enterprise Mobility + Security en Dynamics 365 zijn beschikbaar in het CSP-programma voor Microsoft Cloud voor de Amerikaanse overheid.
 
 - Verdragsluitende: de Microsoft Cloud reseller Agreement (MCRA) is bijgewerkt met unieke overheids voorwaarden.
 
@@ -93,7 +93,7 @@ MCDA voor Microsoft Cloud voor de Amerikaanse overheid wijkt af van de standaard
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>Wat zijn de kwalificaties om Microsoft Cloud voor de Amerikaanse overheid te verkopen?
 
-Kwalificatie criteria voor het verkopen van het CSP-programma voor micro soft Government Cloud zijn hetzelfde als de kwalificatie criteria voor CSP-Commercial, open op zowel directe partners als indirecte wederverkopers. U hoeft niet opnieuw een indirecte wederverkoper te zijn voor het CSP-programma voor de micro soft Government-Cloud als u bent goedgekeurd als een indirecte wederverkoper voor CSP-Commercial.
+Kwalificatie criteria voor het verkopen van het CSP-programma voor Microsoft Cloud voor de Amerikaanse overheid is hetzelfde als de kwalificatie criteria voor CSP-Commercial, open op zowel directe partners als indirecte wederverkopers. U hoeft niet opnieuw te worden beschouwd als een indirecte wederverkoper voor het CSP-programma voor Microsoft Cloud van de Amerikaanse overheid als u bent goedgekeurd als een indirecte wederverkoper voor CSP-Commercial.
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>Ik ben een bestaande partner. Wat heb ik nodig om Microsoft Cloud te verkopen voor de Amerikaanse overheid?
 
@@ -133,18 +133,18 @@ Api's en integratie vereisten voor het CSP-programma voor Microsoft Cloud voor d
 >Er zijn geen topapi's beschikbaar voor het CSP-programma voor Microsoft Cloud voor de Amerikaanse overheid. Deze Api's worden afgeschaft in CSP en zijn daarom niet beschikbaar voor Microsoft Cloud voor de Amerikaanse overheid. Om te voldoen aan wettelijke voor schriften en nalevings vereisten, zijn de volgende Api's niet beschikbaar in het CSP-programma voor Microsoft Cloud voor de Amerikaanse overheid.
 >
 > **Beheer van gebruikers accounts**
->- Gebruikers accounts maken voor een klant
+>- Gebruikersaccounts maken voor een klant
 >- Gebruikers accounts voor een klant verwijderen
->- Gebruikers accounts voor een klant bijwerken
->- Een lijst met alle gebruikers accounts voor een klant ophalen
->- Gebruikers wachtwoord voor een klant opnieuw instellen
->- Gebruikers rollen voor een klant ophalen
->- Gebruikers rollen instellen voor een klant
->- Verwijderde gebruikers voor een klant weer geven
+>- Gebruikersaccounts voor een klant bijwerken
+>- Een lijst met alle gebruikersaccounts voor een klant ophalen
+>- Gebruikerswachtwoord voor een klant opnieuw instellen
+>- Gebruikersrollen voor een klant ophalen
+>- Gebruikersrollen voor een klant instellen
+>- Verwijderde gebruikers voor een klant weergeven
 >- Een verwijderde gebruiker voor een klant herstellen
 >
 > **Licentie beheer**
->- Een lijst met beschik bare licenties ophalen
+>- Een lijst met beschikbare licenties ophalen
 >- Licenties toewijzen aan een gebruiker
 >-  Controleren welke licenties aan een gebruiker zijn toegewezen
 

@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712270"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441809"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registreren bij het Cloud Solution Provider-programma
-
-**Van toepassing op**
-
-- Partnercentrum  
 
 **Juiste rollen**
 
@@ -34,7 +30,7 @@ Als u zich wilt inschrijven in het Cloud Solution Provider-programma, hebt u eer
 
 Als u de CSP-toepassing wilt volt ooien, hebt u de MPN-ID van uw bedrijf, het volledige bedrijfs adres, de Bank gegevens en het werk-e-mail bericht voor de werk nemer die zal fungeren als beheerder voor het partner centrum.
 
-1. Meld u aan bij Partner Center met uw zakelijke e-mail adres (bijvoorbeeld uw Azure AD-Tenant referenties).
+1. Meld u aan bij Partner Center met uw werk-e-mail (dat wil zeggen uw Azure AD-Tenant referenties).
 
 2. Maak uw partner profiel en koppel uw MPN-ID aan uw profiel.
 Het kan ons enkele dagen duren om de door u verstrekte informatie te controleren en te controleren. We sturen u een e-mail wanneer onze beoordeling is voltooid.
@@ -73,7 +69,7 @@ Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw kla
 |**MPN-id**   |Een actief lidmaatschap van de Microsoft Partner Network en MPN-ID voor de locatie waar u wilt verkopen.    |
 |**Goedkeurings**   |De autoriteit om juridische overeenkomsten namens uw organisatie te accepteren en te ondertekenen.|
 |**Ondersteuning**   |De mogelijkheid om het eerste niveau van Cloud product ondersteuning te bieden aan uw klanten. <br>Een micro soft-ondersteunings plan, een geavanceerde ondersteuning voor partners (ASfP) of Premier Support voor partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteunings abonnementen](https://partner.microsoft.com/support/partnersupport).<br> BELANG rijk: u moet een krediet controle door lopen voordat u een ondersteunings abonnement aanschaft. We sturen u een e-mail wanneer u de krediet controle hebt door gegeven. |
-|**Opbrengst vereiste**|Moet voldoen aan ten minste USD300K in het Cloud Solution Provider-programma jaarlijkse omzet tijdens de voorafgaande twaalf maanden als een indirecte wederverkoper. Partners kunnen hun navolgende twaalf maanden aan omzet van het partner centrum beoordelen.<br/>De verkoop waaruit uw USD300K-afsluitende 12 maanden bestaan, is onderhevig aan controle en verificatie door micro soft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De vereiste voor de USD300K-omzet wordt berekend op basis van de Cloud omzet en zal permanente software in CSP uitsluiten.|
+|**Opbrengst vereiste**|Moet voldoen aan ten minste USD300K in het Cloud Solution Provider-programma jaarlijkse omzet tijdens de voorafgaande 12 maanden als een indirecte wederverkoper. Partners kunnen hun navolgende 12 maanden aan omzet in het partner centrum beoordelen.<br/>De verkoop waaruit uw USD300K-afsluitende 12 maanden bestaan, is onderhevig aan controle en verificatie door micro soft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De vereiste voor de USD300K-omzet wordt berekend op basis van de Cloud omzet en zal permanente software in CSP uitsluiten.|
 |**Debiteuren** |De organisatie-infra structuur voor het beheren van facturering en inrichting van klanten.|
 |**Aanbeveling**|             |
 |**Beheerde service**   |Ten minste één beheerde service, IP-service of klant oplossings toepassing. Meer informatie over het toevoegen van [beheerde services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|

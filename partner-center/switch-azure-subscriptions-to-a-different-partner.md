@@ -9,19 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 886c39d192316987dcb68bff4d75302cc18a1305
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028295"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441911"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Meer informatie over het overdragen van Azure-abonnementen van een klant naar een andere partner
 
 **Van toepassing op**
 
-- Partner centrum voor micro soft Government Cloud
-- Partner centrum voor micro soft Global Cloud
+- Partnercentrum voor Microsoft Cloud for US Government
 
 In dit artikel wordt beschreven hoe een klant de Microsoft Azure Services van de ene Cloud Solution Provider (CSP) naar een andere kan overschakelen.
 

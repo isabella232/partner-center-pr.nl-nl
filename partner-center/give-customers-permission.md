@@ -9,19 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528575"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441299"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Geef klanten toestemming in het partner centrum om hun eigen producten of services te kopen
-
-**Van toepassing op**
-
-- Partnercentrum
-- Partners in het CSP-programma
 
 **Juiste rollen**
 
@@ -78,7 +73,7 @@ U hebt nu de keuze om Azure-reserve ringen namens uw klanten te kopen, omdat u d
 
 2. Controleer of aan de klant de rol van **eigenaar** voor dit abonnement is toegewezen.
 
-3. Schakel klant machtigingen in (Schakel deze functie **in** ) om hun eigen Azure-reserve ringen te kopen.
+3. Schakel klant machtigingen in (Schakel deze functie **in**) om hun eigen Azure-reserve ringen te kopen.
 
 Elke stap wordt hieronder weer gegeven.
 
@@ -86,7 +81,7 @@ Elke stap wordt hieronder weer gegeven.
 
 Voordat u klanten toestemming geeft om hun eigen Azure-reserve ringen te kopen, moet u controleren of de klant over een bestaand Azure-abonnement of een globaal Azure-abonnements beschikt. Als de klant geen huidig Azure-abonnement in het partner centrum ziet, moet u een abonnement voor hen aanschaffen voordat u de machtigingen van de klant inschakelt.
 
-- Als u wilt weten of een klant al een Azure-abonnement heeft, meldt u zich aan bij het dash board van het partner centrum en selecteert u vervolgens **CSP** , gevolgd door **klanten** . Selecteer de specifieke klant in de lijst. Selecteer vervolgens **abonnementen** en zoek naar alle op gebruik gebaseerde abonnementen voor Azure plan of Azure Global.
+- Als u wilt weten of een klant al een Azure-abonnement heeft, meldt u zich aan bij het dash board van het partner centrum en selecteert u vervolgens **CSP** , gevolgd door **klanten**. Selecteer de specifieke klant in de lijst. Selecteer vervolgens **abonnementen** en zoek naar alle op gebruik gebaseerde abonnementen voor Azure plan of Azure Global.
 
 - Als een klant geen bestaand Azure-abonnement heeft, kunt u een abonnement voor hen kopen. Zie [het Azure-abonnement kopen](purchase-azure-plan.md).
 
@@ -103,7 +98,7 @@ Om te controleren of de klant is toegewezen aan de rol van **eigenaar** voor een
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
 
-2. Selecteer **CSP** , vervolgens **klanten** en selecteer de specifieke klant.
+2. Selecteer **CSP**, vervolgens **klanten** en selecteer de specifieke klant.
 
 3. Selecteer **abonnementen** voor die klant en zoek het specifieke Azure-abonnement.
 
@@ -119,7 +114,7 @@ U kunt als volgt de toestemming van de klant in het partner centrum inschakelen 
 
 1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
 
-2. Selecteer in het navigatie menu aan de linkerkant **CSP** en vervolgens **klanten** . Er wordt een klanten lijst weer gegeven.
+2. Selecteer in het navigatie menu aan de linkerkant **CSP** en vervolgens **klanten**. Er wordt een klanten lijst weer gegeven.
 
 3. Selecteer een specifieke klant naam.
 

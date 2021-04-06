@@ -1,7 +1,7 @@
 ---
 title: Locaties in uw partner account beheren
 ms.topic: how-to
-ms.date: 02/08/2021
+ms.date: 04/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over het toevoegen van een nieuwe locatie en hoe de MPN-ID van de locatie wordt gebruikt in prikkel Programma's, CSP-bedrijven, abonnementen en andere trans acties.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005913"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441321"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Uw MPN-account locaties beheren en een locatie toevoegen (verwijderen)
 
@@ -26,9 +26,9 @@ ms.locfileid: "100005913"
 
 De MPN-ID van de locatie identificeert elke specifieke locatie van uw bedrijf. U gebruikt de MPN-ID van de locatie om in te schrijven in prikkel-Program ma's, voor het bedrijf van de Transact Cloud Solution Provider (CSP) en andere zakelijke trans acties. De ID van de globale MPN wordt gebruikt voor niet-transactionele activiteiten zoals ondersteunings aanvragen.
 
-## <a name="the-following-is-a-typical-scenario"></a>Hier volgt een typisch scenario:
+## <a name="the-following-scenario-is-typical"></a>Het volgende scenario is gebruikelijk:
 
-Contoso heeft het wereld wijde account van de partner (PGA) in het Verenigd Konink rijk. Dit is hun rechts bedrijf en de algemene MPN-ID wordt gebruikt voor het beheren van alle niet-transactionele zakelijke activiteiten. Contoso heeft ook partner locatie accounts (PLA) die gelijk zijn aan dochter ondernemingen of afdelingen op een andere locatie in UK, Frank rijk en de Verenigde Staten. In de MPN-account structuur worden deze PLAs vertegenwoordigd als unieke locatie MPN-Id's. De PLAs worden gebruikt voor transactionele activiteiten zoals CSP of prikkel Programma's. Uitbetalingen zijn gekoppeld aan specifieke locaties. 
+Contoso heeft het wereld wijde account van de partner (PGA) in het Verenigd Konink rijk. De PGA is de geregistreerde juridische onderneming en de globale MPN-ID wordt gebruikt voor het beheren van alle niet-transactionele bedrijven. Contoso heeft ook partner locatie accounts (PLA) die gelijk zijn aan dochter ondernemingen of afdelingen op een andere locatie in UK, Frank rijk en de Verenigde Staten. In de MPN-account structuur worden deze PLAs vertegenwoordigd als unieke locatie MPN-Id's. De PLAs worden gebruikt voor transactionele activiteiten zoals CSP of prikkel Programma's. Uitbetalingen zijn gekoppeld aan specifieke locaties. 
 
 >[!NOTE]
 >Er is een 1-1-relatie tussen een CSP-Tenant en een MPN locatie-ID.
@@ -56,13 +56,32 @@ Als u een nieuw CSP-account wilt toevoegen, moet u eerst controleren of u aan de
  
 1. Selecteer op het pictogram **instellingen** **account instellingen**, **organisatie profiel**, **juridisch**. 
 
-1. Controleer op het tabblad **partner** of er geen banner fout bericht wordt weer gegeven waarin u wordt gevraagd om gemigreerde locaties te herstellen vanuit PMC. Als dat het geval is, volgt u de instructies en verhelpt u deze locaties. 
+1. Controleer op het tabblad **partner** of er geen banner fout bericht wordt weer gegeven waarin u wordt gevraagd om gemigreerde locaties te herstellen vanuit PMC.  Als uw locaties niet correct zijn ingesteld in PMC en nog niet zijn overgezet naar de PC, moet u die locaties bijwerken.
 
-3. Als er geen fout bericht wordt weer gegeven, selecteert u in  **instellingen**  **account instellingen**, **organisatie profiel**, **id's**.
+:::image type="content" source="images/locations/location-two.png" alt-text="Scherm afbeelding laat zien hoe u de locatie kunt bijwerken.":::
+ 
+4.  Selecteer **bijwerken** op het scherm **PMC locaties controleren** .
+Werk de volgende velden bij:
 
-4. Zoek naar de MPN-ID van het type "locatie" die overeenkomt met het land van dit CSP-account en gebruik het om de koppeling te doorzoeken en te volt ooien.
+- **Naam veld**: Controleer of de naam van de bedrijfs locatie juist is. Als er een dubbele fout wordt weer gegeven, kunt u het wijzigen van, bijvoorbeeld contoso naar contoso, Inc.
 
-5. Als u de locatie MPN-ID die overeenkomt met de CSP-account die u wilt gebruiken niet kunt vinden, kunt u een nieuwe locatie toevoegen waarmee een nieuwe MPN-ID wordt gemaakt. Zie hieronder **een MPN-locatie toevoegen** .
+- **Juridisch entiteits veld**: Zorg ervoor dat u de rechts persoon hebt gekozen waaraan de locatie is gekoppeld
+
+- **Adres regel 1 & 2 velden**: Controleer of het adres juist is
+
+- **Plaats & velden voor provincie**: Zorg ervoor dat de combi natie tussen de plaats en de staat/provincie juist is. Er zijn landen waar het vervolg keuzemenu voor het kiezen van de staat/provincie van toepassing is, en in andere landen dat veld hand matig moet worden ingevoegd.
+
+- Post **code**: Controleer of het veld post code overeenkomt met het land of de regio, de plaats of het adres van de aangegeven categorie.
+
+- **Velden met primaire contact gegevens**: Controleer of de velden voor de voor-en achternaam zijn gevuld en of het opgegeven e-mail adres een werk-e-mail adres is, en niet een persoonlijk account (bijvoorbeeld, @outlook.com @live.com enzovoort)
+
+- **Telefoonnummer veld**: Zorg ervoor dat het telefoon nummer geen speciale tekens, spaties of land code bevat. De waarde die u in het veld telefoon nummer hebt opgegeven, bevat altijd Maxi maal 10 tekens.
+
+5. Als er geen fout bericht wordt weer gegeven, selecteert u in  **instellingen**  **account instellingen**, **organisatie profiel**, **id's**.
+
+6. Zoek de MPN-ID van het type "locatie" die overeenkomt met het land van dit CSP-account en gebruik deze om de koppeling te volt ooien.
+
+7. Als u de locatie MPN-ID die overeenkomt met de CSP-account die u wilt gebruiken niet kunt vinden, kunt u een nieuwe locatie toevoegen, waarmee een nieuwe MPN-ID wordt gemaakt. Zie hieronder **een MPN-locatie toevoegen** .
 
 ## <a name="add-an-mpn-location"></a>Een MPN-locatie toevoegen
 
@@ -80,6 +99,7 @@ Als u een nieuw CSP-account wilt toevoegen, moet u eerst controleren of u aan de
 
 > [!NOTE]
 > Zodra een locatie is toegevoegd in het partner centrum, kunt u deze niet meer verwijderen. U ziet **MPN** in het menu links van partner centrum als u de juiste MPN-id hebt gebruikt om u aan te melden.
+
 
 ## <a name="delete-a-location"></a>Een locatie verwijderen
 

@@ -9,23 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bdcc9feb9f6f022642ece217aa1ba17e24bd20da
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528577"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441435"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Api's gebruiken voor geautomatiseerde service meldingen voor Azure Insights & Office 365-service communicatie
-
-**Van toepassing op**
-
--  Partnercentrum
 
 **Juiste rollen**
 
 - Beheer agent
-- Globaal 
+- Globale beheerder
 - Verkoop agent
 - Helpdesk medewerker
 
@@ -33,11 +29,9 @@ Office 365 en Microsoft Azure bieden elk een API die partners kunnen gebruiken v
 
 Deze Api's zijn beschikbaar voor uw ontwikkel aars:
 
-[Office 365 service Communications-API](/office/office-365-management-api/office-365-service-communications-api-reference)
+- [Office 365 service Communications-API](/office/office-365-management-api/office-365-service-communications-api-reference)
+- [Naslag informatie over rest API](/rest/api/monitor/) voor Azure Insights
 
+ 
 
-[Naslag informatie over rest API](/rest/api/monitor/) voor Azure Insights
-
- 
-
- 
+ 
