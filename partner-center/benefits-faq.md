@@ -9,18 +9,18 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514684"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557695"
 ---
 # <a name="benefits-faq"></a>Veelgestelde vragen over de voordelen
 
 **Juiste rollen**
 
-- MPN-beheerder
+- MPN-partner beheerder
 
 In dit artikel komen veel Veelgestelde vragen over de voor delen van Microsoft Partner Network (MPN) aan de orde.
 
@@ -79,7 +79,7 @@ Nee. Product licenties worden uitgegeven voor demonstratie doeleinden. Uw verkoo
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>V. Ik ondervind problemen bij het toewijzen van gebruikers in azure-tegoed voor bulk. Wat moet ik doen
 
-U kunt Azure-aanbiedingen voor bulk tegoed niet combi neren met andere aanbiedingen. Als een gebruikers toewijzing niet werkt, betekent dit waarschijnlijk dat de gebruiker die u wilt toewijzen, al gebruikmaakt van andere licenties, vooraf betaalde of tegoed aanbiedingen zoals micro soft Enterprise Agreement, Cloud Solution partner, Azure in Open, Azure Pass, Action Pack, enzovoort. Als de gebruiker niet is geabonneerd op een van deze overeenkomsten of plannen en u deze nog steeds niet kunt toewijzen, neemt u contact op met Microsoft Ondersteuning.
+U kunt Azure-aanbiedingen voor bulk tegoed niet combi neren met andere aanbiedingen. Als een gebruikers toewijzing niet werkt, betekent dit waarschijnlijk dat de gebruiker die u wilt toewijzen, al gebruikmaakt van andere licenties, vooraf betaalde of tegoed aanbiedingen zoals micro soft Enterprise Overeenkomst, Cloud Solution partner, Azure in Open, Azure Pass, Action Pack, enzovoort. Als de gebruiker niet is geabonneerd op een van deze overeenkomsten of plannen en u deze nog steeds niet kunt toewijzen, neemt u contact op met Microsoft Ondersteuning.
 
 ## <a name="visual-studio-benefits"></a>Voor delen voor Visual Studio
 

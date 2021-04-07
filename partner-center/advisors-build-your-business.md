@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474169"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557729"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Advisor: bouw uw client basis met Office 365-proef versie uitnodigingen en aanbiedingen
 
 
 **Juiste rollen**
 
-- Adviseurs
+- Advisor
 
 
 Als geautoriseerde micro soft Advisor biedt **partner centrum** u de mogelijkheid om uw client basis uit te breiden en blijvende relaties te maken met uw klanten. Met partner Center kunt u de uitnodigingen voor proef abonnementen en aanbiedingen van uw klanten verzenden, en hen de gedelegeerde beheer services aanbieden, afhankelijk van de services die u mag opgeven.
@@ -45,7 +45,7 @@ Zie [een uitnodiging voor een proef abonnement maken](advisors-create-a-trial-in
 > [!NOTE]
 > Deze functie is alleen beschikbaar voor micro soft-partners die geautoriseerde abonnements adviezen zijn.
 
-Nadat u een uitnodiging voor een proef abonnement hebt verzonden naar uw klanten, voert u een aanbieding uit met een aankoop aanbod. U kunt een aanbieding aanpassen zodat deze de specifieke services bevat die uw klant nodig heeft, evenals het juiste aantal gebruikers licenties. Als u bent gecertificeerd om gedelegeerd beheer aan te bieden, kunt u een optie toevoegen aan het aankoop aanbod waarmee u het abonnement namens uw klant kunt beheren.
+Nadat u een uitnodiging voor een proef abonnement hebt verzonden naar uw klanten, voert u een aanbieding uit met een aankoop aanbod. U kunt een aanbieding aanpassen zodat deze de specifieke services bevat die uw klant nodig heeft en het juiste aantal gebruikers licenties. Als u bent gecertificeerd om gedelegeerd beheer aan te bieden, kunt u een optie toevoegen aan het aankoop aanbod waarmee u het abonnement namens uw klant kunt beheren.
 
 Wanneer u het aankoop aanbod maakt, wordt er een aangepaste URL voor u gemaakt. De URL bevat een Inge sloten code die u identificeert als abonnements adviseur. U kunt deze URL voor één klant of veel klanten gebruiken. Verzend de URL naar uw klant in een e-mail bericht of post deze op uw website.
 

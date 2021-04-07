@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474135"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557746"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Advisor: een aankoop aanbieding maken
 
  
 **Juiste rollen**
 
-- Adviseurs
+- Advisor
 
 
 > [!NOTE]
@@ -48,7 +48,7 @@ Als uw client een ander aantal licenties wil, stuurt u deze een nieuwe aanbiedin
     - **Aantal** licenties: wanneer u een abonnement selecteert, typt u het aantal licenties dat u wilt toevoegen aan de aankoop aanbieding.
     - **Gedelegeerd beheer**: deze optie is alleen beschikbaar voor partners die zijn gecertificeerd om gedelegeerd beheer aan te bieden. Kies deze optie als u wilt dat uw client wordt gedelegeerd. Als u dit doet, kan uw client de aankoop aanbieding accepteren met of zonder toestemming van gedelegeerd beheer.
 
-3. Klik op **Volgende**.
+3. Selecteer **Next**.
 
 4. Kopieer op de pagina **verzenden** de gegevens en URL van het aankoop aanbod en plak deze in een e-mail, een document of een webpagina om een aangepaste aankoop aanbieding te maken.
 

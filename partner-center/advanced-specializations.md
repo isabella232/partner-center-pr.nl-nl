@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658396"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557763"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Verdien een geavanceerde specialisatie om uw gevalideerde mogelijkheden te presen teren
 
 **Juiste rollen**
 
 - Globale beheerder
-- MPN-account beheerder
+- Accountbeheerder
 
-Micro soft Advanced specials is gebaseerd op gerelateerde [Gold-competenties](learn-about-competencies.md) die een partner kan verdienen. Dankzij Gold-competenties, samen met hun gerelateerde geavanceerde specials, kunnen partners de mogelijkheden van klanten verder onderscheiden.
+Micro soft Advanced specials bouwt voort op de gerelateerde [Gold-competenties](learn-about-competencies.md) die een partner kan verdienen. Dankzij Gold-competenties, samen met hun gerelateerde geavanceerde specials, kunnen partners de mogelijkheden van klanten verder onderscheiden.
 
 Om een geavanceerde specialisatie te verdienen, moet een partner vaak voldoen aan veeleisende vereisten, zoals het verkrijgen van klant verwijzingen, het afnemen van een audit van een derde partij, het afnemen van een relevante vaardig heden en het bereiken van bepaalde andere prestatie metingen.
 

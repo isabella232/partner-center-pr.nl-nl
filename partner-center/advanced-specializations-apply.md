@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658413"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557780"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Gebruik Partner Center om een geavanceerde specialisatie toe te passen en de status te controleren
 
 **Juiste rollen**
 
 - Globale beheerder
-- MPN-account beheerder
+- Accountbeheerder
 
 In dit artikel wordt beschreven hoe u het dash board van partner Center kunt gebruiken om een [Geavanceerde specialisatie](advanced-specializations.md)uit te voeren, uw voortgang te controleren en de benodigde stappen en validaties uit te voeren. U ziet ook voor beelden van het gebruik van partner centrum voor het bereiken van bepaalde geavanceerde specials waarvoor een audit of klant verwijzingen zijn vereist.
 
