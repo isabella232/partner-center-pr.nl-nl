@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570155"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964387"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Maak een bedrijfs profiel om verkoop leads van micro soft te verkrijgen en Help klanten u te vinden
 
@@ -84,16 +84,7 @@ Begin door uw eigen tags toe te voegen aan de sectie partner expertise. Tags die
 
 Andere tags die in de zoek opdracht worden gebruikt:
 
--  **Competentie Tags** zijn een behaalde aanwijzing voor de mogelijkheden van uw bedrijf.
--  De **goedkeurings Tags** worden verdiend wanneer micro soft of uw klanten die met u hebben gewerkt uw werk hebben ingeschrijft.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Micro soft toestaan mijn expertise gebieden te bekrachtigen
-
-U wordt aangeraden deze instelling ingeschakeld te laten. 
-
-Wanneer u het succes van klanten in het partner centrum demonstreert of deelneemt aan andere micro soft-certificeringen of-Program ma's, worden er automatisch aantekeningen toegevoegd voor uw specifieke producten, de services en de branches die bijdragen aan dat succes. Officiële verklaringen zijn een belang rijke factor in Zoek resultaten.
-
-Als er producten zijn waarvoor u services levert die u liever niet op uw profiel wilt weer geven, kunt u dit selectie vakje uitschakelen en uw profiel hand matig beheren. Deze verklaringen worden verborgen in uw klanten weergave, maar u kunt ze later op elk gewenst moment weer toevoegen aan uw profiel.
+- **Competentie Tags** zijn een behaalde aanwijzing voor de mogelijkheden van uw bedrijf.
 
 ### <a name="customer-preferences"></a>Klant voorkeuren
 
@@ -121,13 +112,12 @@ Als u vijf hoofd locaties hebt en u er één moet wijzigen, **verwijdert** u eer
 
 Nadat u uw profiel hebt gepubliceerd, worden updates binnen 24 uur weer gegeven in de Zoek opdrachten van [een oplossings provider zoeken](https://www.microsoft.com/solution-providers/home) .
 
-## <a name="improve-the-visibility-of-your-profile"></a>Verbeter de zicht baarheid van uw profiel 
+## <a name="improve-the-visibility-of-your-profile"></a>Verbeter de zicht baarheid van uw profiel
 
 - **[Snel reageren op aanvragen](manage-leads.md)**. Wanneer u een klant referentie ontvangt, kan een sneller antwoord leiden tot betere resultaten op de zoek pagina's voor toekomstige klanten.
 
 - **Wees voorzichtig met uw Tags**.  Het is beter om minder Tags te hebben die het beste overeenkomen met de aanbiedingen, oplossingen, waarde-voor waarden en unieke posities van uw bedrijf.  Zo betaalt u dividenden in toekomstige Zoek resultaten.
 - U kunt **competentie Tags verdienen** via micro soft om uw vakkundigheid in onze producten te demonstreren.
-- **Verdien goedkeurings Tags** van klanten die uw werk waarderen.
 
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042715"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964371"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Factureringsoverzicht voor partners van het CSP-programma die in Partner Center werkzaam zijn 
 
@@ -67,11 +67,7 @@ Voor eenmalige en terugkerende facturering wordt de factureringsperiode aangepas
 
 Prijs lijsten worden maandelijks bijgewerkt. Preview-prijs lijsten zijn vooraf beschikbaar op één (1) maand.
 
-Prijs lijsten weer geven:
-
-1. [Meld u aan bij het dash board van de partner centrum](https://partner.microsoft.com/dashboard/home).
-2. Kies in het menu links de optie **verkopen** en selecteer vervolgens **prijzen en aanbiedingen**.
-3. Op de pagina **prijzen en aanbiedingen** kunt u zes maanden aan prijs lijsten (inclusief de huidige maand) en preview-prijs lijsten bekijken (indien van toepassing).
+Als u de meest recente Program ma's en aanbiedingen van de Cloud solution provider wilt bekijken, gaat u in het dash board van de Partner Portal naar **verkoop > prijzen en aanbiedingen**. U vindt afzonderlijke prijs lijsten voor de verschillende soorten producten die beschikbaar zijn. De volgende prijs lijsten zijn beschikbaar op de pagina **prijzen en aanbiedingen** :
 
 Prijzen **op basis van licenties** worden gegarandeerd voor de duur van het abonnement, meestal 12 maanden vanaf de aankoop datum. 
 
@@ -99,19 +95,6 @@ Voor een BTW- **uitzonde ring voor de toegevoegde waarde** moet u uw BTW-ID (gev
 
 U kunt meer belasting gegevens vinden bij uw gemeentelijke belasting kantoor of belasting adviseur.
 
-### <a name="change-billing-frequency"></a>Factureringsfrequentie wijzigen
-
-De facturerings frequentie wordt op order niveau gewijzigd en zodra de frequentie is gewijzigd, wordt de gereviseerde facturerings cyclus toegepast op alle abonnementen binnen die volg orde. 
-
-De facturerings frequentie van een online service voor een klant wijzigen:
-
-1. [Meld u aan bij het dash board van de partner centrum](https://partner.microsoft.com/dashboard/home).
-2. Kies in het menu links de optie **klanten**.
-3. Selecteer de klant van wie u de facturerings frequentie wilt wijzigen.
-4. Selecteer op de pagina **abonnementen** van de klant het abonnement dat u wilt wijzigen.
-5. Selecteer **maandelijks** of **jaarlijks** onder **facturerings frequentie** op de pagina **Details** . U ziet een bevestigings pagina met belang rijke informatie over het wijzigen van de facturerings frequentie en een lijst met de abonnementen die u wilt wijzigen.
-6. Kies **OK** om de wijziging aan te brengen (of op **Annuleren** om deze ongedaan te maken).
-
 ### <a name="adjustmentscreditscancellations"></a>Aanpassingen/tegoeden/annuleringen
 
 Annulerings tegoeden voor services waarvoor een licentie is gebaseerd, zijn Pro-nominaal geclassificeerd voor ongebruikte dagen voor de tussentijdse annuleringen (en de licentie neemt af op basis van deze formule:
@@ -121,6 +104,7 @@ Annulerings tegoeden voor services waarvoor een licentie is gebaseerd, zijn Pro-
 Micro soft brengt geen kosten voor vroegtijdige beëindiging in rekening voor annulering van services op basis van licenties.
 
 ### <a name="billing-rules"></a>Facturerings regels
+
 Er zijn momenteel twee typen facturerings frequenties: jaarlijks & maandelijks.  
 Service tarieven met data limiet kunnen worden gewijzigd in de factuur cyclus.
 
@@ -146,24 +130,6 @@ Service tarieven met data limiet kunnen worden gewijzigd in de factuur cyclus.
 
 - De factuur die u ontvangt, heeft alleen de kosten die voor die maand zijn samengevoegd. 
 
-## <a name="manage-one-time-billing"></a>Eenmalige facturering beheren
-
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Facturerings status, facturen en reconciliatie bestanden
-
-De huidige facturerings status, facturen en reconciliatie bestanden weer geven:
-
-1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
-2. Kies **facturering** in het menu aan de linkerkant en selecteer vervolgens **terugkerende en eenmalige aankopen**.
-3. Selecteer op de pagina met de factuurstatus een factuur of afstemmingsbestand om gedetailleerdere informatie weer te geven.
-
-### <a name="customer-order-history"></a>Order geschiedenis van de klant
-
-De order historie van een klant bekijken:
-
-1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
-2. Kies in het menu aan de linkerkant de optie **klanten**.
-3. Zoek op de pagina **klanten** de klant waarvan u de order geschiedenis wilt weer geven. Selecteer de pijl-omlaag om de record van de klant uit te vouwen.
-4. Kies **orders weer geven** om de order historie van de klant weer te geven.
 
 ### <a name="credit-notes"></a>Credit nota's
 
@@ -178,3 +144,6 @@ Mogelijk moet u om de volgende redenen een tegoed of herfacturering aanvragen:
 
 - [Meer informatie over uw factuur-en afstemmings bestand](read-your-bill.md)
 - [Algemene facturerings scenario's voor CSP-programma partners](common-billing-scenarios.md)
+- [Factureringsfrequentie wijzigen](common-billing-scenarios.md)
+- [Order geschiedenis van de klant](csp-offers.md) 
+- [Prijzen en aanbiedingen](pricing-and-offers.md)

@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633757"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964422"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prijzen en aanbiedingen voor Office 365, Dynamics CRM, Enter prise Mobility Suite, Azure en meer
 
@@ -28,7 +28,7 @@ ms.locfileid: "105633757"
 - Verkoop agent
 - Factureringsbeheerder
 
-Als u de nieuwste Program ma's en aanbiedingen van de Cloud solution provider wilt bekijken, gaat u in de Partner Portal naar **verkoop > prijzen en aanbiedingen**. U vindt afzonderlijke prijs lijsten voor de verschillende soorten producten die beschikbaar zijn. De volgende prijs lijsten zijn beschikbaar op de pagina **prijzen en aanbiedingen** :
+Als u de meest recente Program ma's en aanbiedingen van de Cloud solution provider wilt bekijken, gaat u in het dash board van de Partner Portal naar **verkoop > prijzen en aanbiedingen**. U vindt afzonderlijke prijs lijsten voor de verschillende soorten producten die beschikbaar zijn. De volgende prijs lijsten zijn beschikbaar op de pagina **prijzen en aanbiedingen** :
 
 - **Services op basis van licenties** bevatten prijs informatie voor Office 365, Enter prise Mobility en Security E3, evenals en Dynamics 365. De sectie prijs op basis van licenties omvat de huidige en preview-prijzen en de lijst matrix van de aanbieding. Prijs lijsten bevatten een lijst prijs en geschatte prijzen voor winkels (ERP) voor aanbiedingen in alle ondersteunde valuta's. De lijst matrix met aanbiedingen bevat Beschik baarheid in de markt en andere belang rijke informatie over de aanbiedingen. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
 - **Op gebruik gebaseerde services** bevatten prijs informatie voor Microsoft Azure en Visual Studio. U kunt ook de [Azure-Services in de CSP-prijs calculator](https://azure.microsoft.com/pricing/calculator/)gebruiken. De op gebruik gebaseerde down load omvat zowel de CSP-prijs lijst voor alle ondersteunde valuta's als de prijs bestanden voor de gedeelde services in ERP. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
@@ -97,7 +97,7 @@ Partner marges, het verschil tussen de lijst prijs en de geschatte prijzen van d
 
 Services op basis van licenties kunnen worden verkregen als basis aanbiedingen of invoeg toepassingen. Alleen basis aanbiedingen kunnen worden gedetecteerd en tevens via de catalogus van de partner centrum. U moet invoeg toepassingen Toep assen na de aankoop van de basis aanbiedingen. De kolom met het secundaire licentie **type** voor een prijs lijst op basis van licentie bevat informatie over elke aanbieding en het bijbehorende type. Basis aanbiedingen hebben **niet-specifieke** waarden in de kolom prijs lijst secundair licentie type en kunnen worden aangeschaft in de catalogus. De waarden van het secundaire licentie type van de **invoeg toepassing** kunnen niet worden aangeschaft in de catalogus. Deze invoeg toepassingen kopen:
 
-1. Raadpleeg de matrix voor de aanbiedings lijst voor een overzicht van de aanbiedings-id's die moeten worden aangeschaft voordat u een invoeg toepassing kunt aanschaffen.
+1. Raadpleeg de matrix voor de aanbiedings lijst voor een overzicht van de aanbiedings-Id's die moeten worden aangeschaft voordat u een invoeg toepassing kunt aanschaffen.
 2. De basis aanbieding kopen vanuit de catalogus
 3. Ga in de klanten lijst naar uw klant. Klik op het abonnement voor het basis aanbod dat u zojuist hebt aangeschaft. Op de pagina abonnement beheren ziet u beschik bare invoeg toepassingen die kunnen worden toegepast op de basis aanbieding.
 

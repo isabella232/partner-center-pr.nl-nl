@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502443"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964404"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Algemene facturerings scenario's voor CSP-programma partners die werken in Partner Center
 
@@ -26,6 +26,22 @@ ms.locfileid: "106502443"
 - Verkoop agent
 
 In deze artikelen wordt uitgelegd wat u moet verwachten om op uw factuur te zien nadat u nieuwe abonnementen hebt toegevoegd, het aantal licenties voor een abonnement hebt aangepast of een abonnement hebt geannuleerd. Andere [facturerings typen van het partner centrum](billing-different-types.md), zoals op gebruik en op licenties gebaseerde abonnementen, worden anders gefactureerd.
+
+
+## <a name="change-billing-frequency"></a>Factureringsfrequentie wijzigen
+
+De facturerings frequentie wordt op order niveau gewijzigd en zodra de frequentie is gewijzigd, wordt de gereviseerde facturerings cyclus toegepast op alle abonnementen binnen die volg orde. 
+
+De facturerings frequentie van een online service voor een klant wijzigen:
+
+1. [Meld u aan bij het dash board van de partner centrum](https://partner.microsoft.com/dashboard/home).
+2. Kies in het menu links de optie **klanten**.
+3. Selecteer de klant van wie u de facturerings frequentie wilt wijzigen.
+4. Selecteer op de pagina **abonnementen** van de klant het abonnement dat u wilt wijzigen.
+5. Selecteer **maandelijks** of **jaarlijks** onder **facturerings frequentie** op de pagina **Details** . U ziet een bevestigings pagina met belang rijke informatie over het wijzigen van de facturerings frequentie en een lijst met de abonnementen die u wilt wijzigen.
+6. Kies **OK** om de wijziging aan te brengen (of op **Annuleren** om deze ongedaan te maken).
+
+## <a name="billing-scenarios"></a>Facturerings scenario's
 
 | Type facturering | Scenario's die worden behandeld |
 | --------------- | ----------------- |

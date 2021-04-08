@@ -390,8 +390,6 @@
     - name: Billing basics (Grondbeginselen van facturering)
       href: billing-basics.md
       displayName: invoice
-    - name: Factureringstypen in Partnercentrum
-      href: billing-different-types.md
     - name: Meer informatie over uw factuur
       href: read-your-bill.md
       displayName: invoice

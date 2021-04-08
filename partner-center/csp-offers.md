@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502864"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964337"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Overzicht van partneraanbiedingen in het Cloud Solution Provider-programma
 
@@ -105,6 +105,15 @@ Als u producten en services namens uw CSP-klanten wilt kopen, selecteert u de it
 
 8. De details van uw order, inclusief uw bestel nummer, worden weer gegeven op de volgende pagina. Selecteer **gereed** om naar de pagina met de **order geschiedenis** te gaan.
 
+### <a name="customer-order-history"></a>Order geschiedenis van de klant
+
+De order historie van een klant bekijken:
+
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
+2. Kies in het menu aan de linkerkant de optie **klanten**.
+3. Zoek op de pagina **klanten** de klant waarvan u de order geschiedenis wilt weer geven. Selecteer de pijl-omlaag om de record van de klant uit te vouwen.
+4. Kies **orders weer geven** om de order historie van de klant weer te geven.
+ 
 ## <a name="rules-for-special-segments"></a>Regels voor speciale segmenten
 
 Sommige aanbiedingen op basis van licenties kunnen alleen onder bepaalde voor waarden worden aangeschaft. Speciale segment aanbiedingen zijn onder andere onderwijs-, non-profit en GCC-aanbiedingen (Community-Cloud). Meer informatie over deze aankoop voorwaarden vindt u in het [onderwerp inkoop regels voor speciale segmenten](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).

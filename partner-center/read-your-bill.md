@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215812"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964354"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Meer informatie over uw factuur-en afstemmings bestand-lees hoe u deze kunt vinden in Partner Center
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215812"
 
 
 Uw **factuur** is een **samen vatting van de kosten van uw partner centrum** (in het programma, alle producten en alle klanten). 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Uw factuur-en afstemmings bestand zoeken 
+
+U kunt uw factuur vinden op de facturerings pagina van het dash board in Partner Center. U kunt ook uw facturerings geschiedenis, bestedings trends en afstemmings bestanden op deze pagina vinden. 
+
+1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum. 
+
+2. Selecteer **facturering** in het menu aan de linkerkant. 
+
+3. Selecteer op de pagina met de factuurstatus een factuur of afstemmingsbestand om gedetailleerdere informatie weer te geven. 
+
+U vindt een koppeling naar uw laatste factuur boven aan de pagina onder account saldo vanaf de laatste factuur datum. 
+
+U kunt de vorige facturen vinden in de sectie facturerings geschiedenis. Kies het juiste jaar en selecteer vervolgens de vervolg keuze pijl naast de juiste facturerings periode. Selecteer de koppeling naast facturen (. PDF) om de factuur van die periode te downloaden. 
 
 ## <a name="invoice-types"></a>Factuur typen
 
@@ -52,19 +66,6 @@ Bijvoorbeeld:
 
 - De partner ontvangt een andere factuur-PDF en een afstemmings bestand met de kosten voor de 145p-aanbieding in EUR (of de facturerings valuta van de partner). 
 
-## <a name="find-your-bill"></a>Uw factuur zoeken 
-
-U kunt uw factuur vinden op de facturerings pagina van het dash board in Partner Center. U kunt ook uw facturerings geschiedenis, bestedings trends en afstemmings bestanden op deze pagina vinden. 
-
-1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum. 
-
-2. Selecteer **facturering** in het menu aan de linkerkant. 
-
-3. Selecteer op de pagina facturering de factuur die u wilt downloaden. 
-
-U vindt een koppeling naar uw laatste factuur boven aan de pagina onder account saldo vanaf de laatste factuur datum. 
-
-U kunt de vorige facturen vinden in de sectie facturerings geschiedenis. Kies het juiste jaar en selecteer vervolgens de vervolg keuze pijl naast de juiste facturerings periode. Selecteer de koppeling naast facturen (. PDF) om de factuur van die periode te downloaden. 
 
 ## <a name="understanding-invoice-pdf"></a>Factuur PDF 
 
