@@ -1,28 +1,37 @@
 ---
-title: Voucher programma voor Software Assurance-training
+title: Software Assurance-trainings programma voor training buiten gebruik stellen
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Lees hoe u zich kunt inschrijven in het programma voor Software Assurance-trainings Programma's, zodat u gecompenseerd krijgt voor het leveren van training en het plannen van zakelijke klanten.
+description: Het programma voor het trainen van Software Assurance-trainingen wordt buiten gebruik gesteld.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926611"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024973"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Het SATV-programma (Software Assurance Training Voucher) in Partnercentrum
+# <a name="training-vouchers-program-retirement"></a>Trainings vouchers programma buiten gebruik stellen
 
-Breid uw bedrijf uit door Software Assurance Partner Program ma's in te schrijven. Micro soft compenseert partners voor het leveren van training, planning en andere services aan zakelijke klanten die Software Assurance hebben.
+Opleidings vouchers worden volledig buiten gebruik gesteld door Software Assurance-voor delen, maar klanten kunnen de boek stuk dagen blijven gebruiken voor training met instructeurs terwijl de bonnen geldig zijn. Dit zijn de belang rijke datums die van toepassing zijn op het buiten gebruik stellen van Program ma's: 
 
-Als een goedgekeurde Software Assurance-trainings partner compenseert micro soft u bij het bieden van technische training aan zakelijke klanten in ruil voor tegoed bonnen die worden ontvangen met Software Assurance. Deelname aan dit programma kan u helpen om meer klanten aan te trekken en de vertrouwde leer partner te worden.
+- 1 februari 2020: Azure-training buiten gebruik gesteld van de catalogus met trainings vouchers.
+- 1 februari 2020: trainings vouchers kunnen niet langer worden geconverteerd naar planning services dagen.  
+- 1 februari 2021: klanten nemen geen trainings voordelen meer in beslag. 
+- 30 juni 2021: de laatste dag voor klanten om opleidings bonnen te maken of toe te wijzen. Alle resterende opleidings boek stuk dagen worden verwijderd van 1 juli 2021.
+- 1 januari 2022: de laatste dag waarop partners trainings bonnen kunnen inwisselen. De partner heeft 60 dagen na de terugbetaling om het proces voor de betalings aanvraag te volt ooien.  
 
-## <a name="get-started"></a>Aan de slag
+>[!NOTE]
+>Er is geen wijziging in de levens cyclus van het boek stuk. Zodra een boek stuk is gemaakt/toegewezen, de reserverings reservering, trainings sessies en het aflossen van het boek stuk moeten binnen 180 dagen vóór de verval datum van het boek stuk worden voltooid.  Zie de veelgestelde vragen voor meer informatie (aanmelden vereist [) voor meer](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) informatie over het buiten gebruik stellen van een trainings boek.  Bekijk de volledige lijst met SATV-in aanmerking komende trainings cursussen in de product catalogus voor training.  U kunt vragen stellen aan het ondersteunings team van de regionale partner: ondersteuning voor de [EMEA-partner](mailto:savoucher@msdirectservices.com); [Algemene ondersteuning voor partners](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>Tot 30 juni 2021
+
+### <a name="get-started"></a>Aan de slag
 
 Als u geen ervaring hebt met Software Assurance-trainings Services, volgt u alle onderstaande stappen. Als u al actief bent in het trainings boek programma, begint u bij stap vier (4) hieronder. 
 

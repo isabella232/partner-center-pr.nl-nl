@@ -1,31 +1,43 @@
 ---
-title: Software Assurance Planning Services
+title: Software Assurance-plannings services buiten gebruik stellen
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Meer informatie over het inschrijven en kwalificeren van micro soft planning services-afspraken, zodat u trainingen en andere services kunt leveren aan klanten met Software Assurance.
+description: Micro soft-plannings services worden buiten gebruik gesteld.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028218"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024990"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services in Partnercentrum
+# <a name="software-assurance-planning-services-retirement"></a>Software Assurance-plannings services buiten gebruik stellen
 
 **Juiste rollen**
 
 - Globale beheerder
 - MPN-partner beheerder
 
-Als een goedgekeurde planning services-partner compenseert micro soft u voor het leveren van plannings afspraken van de eerste implementatie voor zakelijke klanten. Deelname aan dit programma kan u helpen om meer klanten te trekken, hun vertrouwde plannings partner te worden en te verwijzen naar extra klant afspraken.
 
-## <a name="get-started"></a>Aan de slag
+Plannings services worden volledig buiten gebruik gesteld door Software Assurance-voor delen, maar klanten kunnen blijven werken met partners om planning services dagen voor afspraken te gebruiken terwijl de boek stukken geldig zijn. Dit zijn de belang rijke datums die van toepassing zijn op het buiten gebruik stellen van Program ma's: 
+
+- 1 februari 2020: Cloud afspraken voor plannings Services zijn buiten gebruik gesteld.  
+- 1 februari 2020: trainings vouchers kunnen niet langer worden geconverteerd naar planning services dagen.  
+- 1 februari 2021: klanten hebben geen voor delen van plannings services meer. 
+- 30 juni 2021: de laatste dag waarop klanten plannings Services-vouchers maken/toewijzen. Alle resterende plannings Services-dagen worden verwijderd van 1 juli 2021.
+- 1 januari 2022: de laatste dag waarop partners plannings Services kunnen inwisselen. De partner heeft 60 dagen na de terugbetaling om het proces voor de betalings aanvraag te volt ooien.  
+
+>[!NOTE]
+>Er is geen wijziging in de levens cyclus van het boek stuk. Zodra een boek stuk is gemaakt/toegewezen, moet de boek stuk reservering, de klant afspraak en het aflossen van het boek stuk binnen 180 dagen worden voltooid voordat de verval datum van de boek stuk.  Voor meer informatie over het buiten gebruik stellen van plannings Services-Program ma's raadpleegt u de veelgestelde [vragen voor meer](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) informatie (aanmelden vereist).  U kunt vragen stellen aan het ondersteunings team van de regionale partner: ondersteuning voor de [EMEA-partner](mailto:savoucher@msdirectservices.com); [Ondersteuning voor algemene partners](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>Tot 30 juni 2021
+
+### <a name="get-started"></a>Aan de slag
 
 Als u geen ervaring hebt met Software Assurance-plannings Services, volgt u alle onderstaande stappen. Als u al actief bent in de plannings Services-programma (s), begint u elke nieuwe afspraak bij stap vier (4) hieronder.
 
@@ -62,8 +74,6 @@ Nadat uw bedrijf aan de vereisten voldoet, kunt u de Software Assurance Planning
 
 Controleer eerst alle beleids regels van het [Planning Services-programma](https://go.microsoft.com/fwlink/?linkid=2115984). Volg vervolgens de instructies in [stap 2](https://go.microsoft.com/fwlink/?linkid=2115983) van de werk stroom om het inschrijvings proces voor plannings Services in het partner centrum te volt ooien.
 
->[!NOTE]
-> U moet uw vereisten vernieuwen en elk jaar opnieuw inschrijven in de planning services-Program ma's.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Het bedrijfs profiel van uw bedrijf maken of bijwerken (nieuwe partners)
 
