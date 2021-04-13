@@ -12,8 +12,6 @@
     - name: Een MPN-account maken in het partner centrum
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: Een zakelijk e-mailadres krijgen
-      href: buy-email-domain.md
     - name: Problemen met het instellen van accounts oplossen
       href: troubleshoot-account-sign-n.md
     - name: Verplaatsingen naar Partnercentrum
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: Mijn wachtwoord opnieuw instellen
           href: reset-my-pasword.md
-        - name: Gebruiker kan zich niet aanmelden
+        - name: Problemen met aanmelden oplossen
           href: unable-to-sign-in.md
         - name: Gebruiker heeft geen MPN-beheerder
           href: no-mpn-admin.md
