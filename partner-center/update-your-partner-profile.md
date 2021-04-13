@@ -6,15 +6,15 @@ description: Meer informatie over het controleren van uw bedrijfs gegevens, zoal
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712593"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315865"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>De gegevens van uw bedrijfs profiel controleren of bijwerken 
 
@@ -92,6 +92,17 @@ De MPN-ID die is gekoppeld aan uw CSP-account bijwerken:
 ## <a name="update-your-csp-legal-billing-address"></a>Het geldige CSP-factuur adres bijwerken
 
 Als u de globale beheerder, facturerings beheerder of beheer agent bent, kunt u het adres wijzigen dat op uw factuur wordt weer gegeven in uw **Afbetalings-en BTW-profiel**. U kunt de bedrijfsnaam op uw factuur echter niet wijzigen vanwege een beperking van het factuursysteem.
+
+:::image type="content" source="images/billing-profile.png" alt-text="Scherm opname van het gebied waar facturerings gegevens worden toegevoegd":::
+
+|**Veld**  |**Beschrijving**|  
+|---------------------|:------------------|
+|Naam van factuur bedrijf|De bedrijfs naam die wordt weer gegeven in de Bill-To informatie op uw CSP-factuur.  Dit kan niet worden bewerkt in het partner centrum.  Maak een ondersteunings ticket om bij te werken.|
+|Factuur adres|Het factuur adres dat op de CSP-factuur wordt weer gegeven. Update: het [facturerings profiel](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)kan worden bijgewerkt.|
+|Factuur contact|De contact gegevens van de facturering (voor naam, achternaam, primair nummer) voor de CSP-account.  Update: het [facturerings profiel](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)kan worden bijgewerkt.|
+|IO-nummer|Het inkooporder nummer dat wordt weer gegeven op de partner factuur.  Update: het [facturerings profiel](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)kan worden bijgewerkt.|
+|Bedrijfs belasting-ID|Bedrijven in sommige landen kunnen het [BTW-nummer of het lokale equivalent van de toegevoegde waarde](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number)bieden. Als u uw belasting/BTW-ID wilt bijwerken, moet u een globale beheerder, factureringsbeheerder of beheersagent zijn.|
+|Facturerings valuta|De facturerings valuta voor uw CSP-account wordt bepaald door het juridische land van de CSP-account.  Deze kan niet worden gewijzigd nadat het CSP-account is gemaakt.|
 
 
 ## <a name="next-steps"></a>Volgende stappen

@@ -14,14 +14,6 @@
       displayName: mpn
     - name: Problemen met het instellen van accounts oplossen
       href: troubleshoot-account-sign-n.md
-    - name: Verplaatsingen naar Partnercentrum
-      items:
-        - name: Verplaatsen vanuit PAC - overzicht
-          href: pac-to-pc-overview.md
-        - name: Taken in PAC en PC vergelijken
-          href: moving-from-pac-to-pc.md
-        - name: PAC-taken uitvoeren in PC
-          href: o365-partner-admin-center-to-partner-center.md
     - name: Verplaatsingen vanuit PMC
       items:
         - name: Migratie vanuit PMC voorbereiden
@@ -159,8 +151,6 @@
     - name: 'CSP-overeenkomsten, prijslijsten, aanbiedingen'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Azure Cost Management van Cloudyn voor CSP's
-      href: azure-cost-management-app-for-csp-partners.md
     - name: 'Regionale markten voor CSP, valuta'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
