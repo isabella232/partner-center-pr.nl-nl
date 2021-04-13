@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: f550a1b145a4de7a6ecd13dd42241b059da55533
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: c2941c6dcda9551a97ca903f050488ea8fe363c1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374413"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266449"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Mede delingen van april 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Functies|[Herinnering: afschaffing van de GET-kwalificatie op 4 mei 2021](2021-april.md#4)|9 april|
 |Functies|[Nieuwe indeling voor de nieuwe Commerce PDF-factuur in CSP](2021-april.md#3)|5 april|
 |Functies|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2021-april.md#2)|2 april|
 |Functies|[Product lanceringen en aanbiedingen van deze maand bekijken](2021-april.md#1)|1 april|

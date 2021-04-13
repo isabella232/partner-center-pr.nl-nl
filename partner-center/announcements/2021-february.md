@@ -10,48 +10,52 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/08/2021
+ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280901"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266466"
 ---
 # <a name="february-2021-announcements"></a>Aankondigingen van februari 2021
 
 Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Partner Center voor februari 2021.
 
 ________________
-## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Api's voor het invoegen van kwalificaties worden buiten gebruik gesteld. Als u in mei wilt intrekken,
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Herinnering: afschaffing van de GET-kwalificatie op 4 mei 2021
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 25 februari 2021
+- Datum: 2021-04-09
 - Functies
 
 ### <a name="impacted-audience"></a>Doel groep
 
-Partners die academische, non-profit en GCC-aanbiedingen verkopen via het Cloud Solution Provider-programma met behulp van de Partner Center-API
+Partners die een academische, non-profit organisatie en GCC-aanbieding (Government Community Cloud) verkopen via het programma Cloud solution provider met behulp van de Partner Center-API
 
 ### <a name="details"></a>Details
 
-Deze aankondiging is een follow-up van de verbeteringen van het partner centrum, [uitgebracht in december](2020-december.md#1). Als onderdeel van deze release zijn de nieuwe GET-en POST-kwalificaties-Api's geïmplementeerd. als gevolg hiervan zijn **de bestaande put-kwalificaties-api's buiten gebruik gesteld en wordt het ophalen van de kwalificatie beëindigd met 4 mei 2021**. Als dit het geval is, moet u overstappen op het gebruik van de nieuwe Api's van het POST Partner Center om opleidings aanbiedingen te kopen. Op dezelfde manier moet u de nieuwe kwalificaties van de API voor het kopen van vooraf gekwalificeerde non-profit en GCC-aanbiedingen gebruiken.
+Deze aankondiging is een follow-up van de verbeteringen van het partner centrum, [uitgebracht in december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Als onderdeel van deze release zijn de nieuwe GET-en POST-kwalificaties-Api's geïmplementeerd. als gevolg hiervan wordt de bestaande GET-kwalificatie afgetrokken met 4 mei 2021. Op dat moment moet u overstappen op het gebruik van het nieuwe POST Partner Center-Api's in Purchase education-aanbiedingen en de nieuwe kwalificaties-API voor het kopen van voor BEREIDe non-profit en GCC-aanbiedingen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- **Bijwerken naar de nieuwe api's** voor een geslaagde en tijdige overgang
-- **Bekijk de nieuwe partner centrum-API-wijzigingen en richt lijnen** in de resources voor de plannings gereedheids: de verbeteringen voor het [validatie proces van het klanten centrum](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
-- **Deel deze informatie met de juiste teams** binnen uw organisatie en met uw wederverkopers om hen te helpen bij de voor bereiding op deze wijzigingen
+- Update naar de nieuwe Api's voor een geslaagde en tijdige overgang.
+
+- Bekijk de nieuwe partner centrum-API-wijzigingen en richt lijnen in de resources voor de bewerkings voorbereiding: [Partner Center onderwijs van klant validatie proces verbeteringen](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers om hen te helpen deze wijzigingen voor te bereiden.
 
 ### <a name="questions"></a>Vragen?
 
-Voor vragen met betrekking tot deze melding kunt u contact opnemen met [Partner Center-ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+Voor vragen met betrekking tot deze melding neemt u contact op met het [partner centrum-ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
+- April: herinnering voor toekomstige afschaffing van de GET-kwalificatie 
 - Februari: bijgewerkte tijd lijnen voor afschaffing van & plaatsen-kwalificaties
 - Januari: herinnering voor toekomstige afschaffing van de GET-kwalificaties van & plaatsen
+
 
 ________________
 ## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Deel de verkoop van deals op schaal met behulp van de functie voor bulk bewerkingen van het partner centrum

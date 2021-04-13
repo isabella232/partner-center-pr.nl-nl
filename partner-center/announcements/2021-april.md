@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374430"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266517"
 ---
 # <a name="april-2021-announcements"></a>Mede delingen van april 2021
 
 Deze pagina bevat de aankondigingen voor het micro soft Partner Center voor april 2021.
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Herinnering: afschaffing van de GET-kwalificatie op 4 mei 2021
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-04-09
+- Functies
+
+### <a name="impacted-audience"></a>Doel groep
+
+Partners die een academische, non-profit organisatie en GCC-aanbieding (Government Community Cloud) verkopen via het programma Cloud solution provider met behulp van de Partner Center-API
+
+### <a name="details"></a>Details
+
+Deze aankondiging is een follow-up van de verbeteringen van het partner centrum, [uitgebracht in december](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Als onderdeel van deze release zijn de nieuwe GET-en POST-kwalificaties-Api's geïmplementeerd. als gevolg hiervan wordt de bestaande GET-kwalificatie afgetrokken met 4 mei 2021. Op dat moment moet u overstappen op het gebruik van het nieuwe POST Partner Center-Api's in Purchase education-aanbiedingen en de nieuwe kwalificaties-API voor het kopen van voor BEREIDe non-profit en GCC-aanbiedingen.
+
+### <a name="next-steps"></a>Volgende stappen
+
+- Update naar de nieuwe Api's voor een geslaagde en tijdige overgang.
+
+- Bekijk de nieuwe partner centrum-API-wijzigingen en richt lijnen in de resources voor de bewerkings voorbereiding: [Partner Center onderwijs van klant validatie proces verbeteringen](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers om hen te helpen deze wijzigingen voor te bereiden.
+
+### <a name="questions"></a>Vragen?
+
+Voor vragen met betrekking tot deze melding neemt u contact op met het [partner centrum-ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Wijzigingenlogboek
+
+- April: herinnering voor toekomstige afschaffing van de GET-kwalificatie 
+- Februari: bijgewerkte tijd lijnen voor afschaffing van & plaatsen-kwalificaties
+- Januari: herinnering voor toekomstige afschaffing van de GET-kwalificaties van & plaatsen
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nieuwe indeling voor de nieuwe Commerce PDF-factuur in CSP

@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024990"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266500"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Software Assurance-plannings services buiten gebruik stellen
 
@@ -35,7 +35,6 @@ Plannings services worden volledig buiten gebruik gesteld door Software Assuranc
 >[!NOTE]
 >Er is geen wijziging in de levens cyclus van het boek stuk. Zodra een boek stuk is gemaakt/toegewezen, moet de boek stuk reservering, de klant afspraak en het aflossen van het boek stuk binnen 180 dagen worden voltooid voordat de verval datum van de boek stuk.  Voor meer informatie over het buiten gebruik stellen van plannings Services-Program ma's raadpleegt u de veelgestelde [vragen voor meer](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) informatie (aanmelden vereist).  U kunt vragen stellen aan het ondersteunings team van de regionale partner: ondersteuning voor de [EMEA-partner](mailto:savoucher@msdirectservices.com); [Ondersteuning voor algemene partners](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>Tot 30 juni 2021
 
 ### <a name="get-started"></a>Aan de slag
 

@@ -1,7 +1,7 @@
 ---
 title: Een MPN-account maken in het partner centrum
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Meer informatie over hoe Microsoft Partner Network leden een partner centrum-account kunnen maken voor het beheren van hun netwerk voordelen en-vaardig heden.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712916"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266534"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Een MPN-account maken in het partner centrum om netwerk voordelen en-competenties te beheren
 
@@ -25,7 +25,7 @@ Als u niet bekend bent met Microsoft Partner Network (MPN) en geen MPN-ID hebt, 
 
 Wanneer u klaar bent om een account te maken in het partner centrum, moet u de volgende items op voor hand hebben.  Het kan een paar minuten duren voordat u deze items verzamelt voordat u aan de slag gaat:
 
-- Zakelijk e-mail adres of Office 365-werk account. Lees voor meer informatie [het werk account van uw bedrijf en het partner centrum](azure-active-directory-tenants-and-partner-center.md) 
+- Zakelijk e-mail adres of Office 365-werk account. Het is mogelijk dat uw bedrijf een e-mail domein moet aanschaffen om zakelijke e-mail adressen voor uw werk nemers in te stellen. Lees [het werk account van uw bedrijf en het partner centrum](azure-active-directory-tenants-and-partner-center.md)voor meer informatie. 
  
 - De juridische bedrijfs naam en het adres van uw bedrijf.
 
