@@ -1,45 +1,50 @@
 ---
-title: Wereld wijde CSP-markten
+title: Wereldwijde CSP-markten
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bekijk de landen, regio's en valuta's waar u CSP-aanbiedingen kunt verkopen, op basis van de locatie van uw bedrijf.
+description: Bekijk de landen, regio's en valuta's waar u CSP-aanbiedingen kunt verkopen op basis van de locatie van uw bedrijf.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926658"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528606"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider-programma regionale markten en valuta's waar u CSP-aanbiedingen kunt verkopen
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programma regionale markten en valuta's waarin u CSP-aanbiedingen kunt verkopen
 
-De locatie van uw bedrijf bepaalt uw markt. Uw markt omvat de regio's en/of landen waar u een CSP-programma (Cloud Solution Provider) kunt verkopen.
+De locatie van uw bedrijf bepaalt uw markt. Uw markt omvat de regio's en/of landen waar u aanbiedingen Cloud Solution Provider CSP-programma 's kunt verkopen.
 
-Als uw bedrijf zich bijvoorbeeld in het Verenigde Staten bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in de Verenigde Staten en in Amerikaanse ondergeschikte afgelegen eilanden. Als uw bedrijf zich in Brazilië bevindt, kunt u CSP-aanbiedingen alleen aan klanten in Brazilië verkopen. Als uw bedrijf zich in de regio Afrika bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in alle 18 landen in de regio Afrika.
+Als uw bedrijf zich bijvoorbeeld in de Verenigde Staten bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in de Verenigde Staten en op de Amerikaanse eilanden. Als uw bedrijf zich in Brazilië bevindt, kunt u CSP-aanbiedingen verkopen aan klanten alleen in Brazilië. Als uw bedrijf zich in de regio Afrika bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in alle 18 landen in de regio Afrika.
 
-Voordat u CSP-aanbiedingen kunt best Ellen namens een klant, moet de klant de micro soft-klant overeenkomst ondertekenen. U vindt [hier](agreements.md)de toepasselijke micro soft-klant overeenkomst voor uw regio/land.
+Voordat u CSP-aanbiedingen namens een klant kunt bestellen, moet de klant de Microsoft-klantovereenkomst. U vindt hier de toepasselijke Microsoft-klantovereenkomst voor uw [regio/land.](agreements.md)
+
+## <a name="azure-plan-for-csp-region-availability"></a>Beschikbaarheid van Azure Plan voor CSP-regio  
+
+Azure Plan voor CSP is beschikbaar in minder regio's dan Azure Software for CSP.  Raadpleeg Het  [Azure-plan aanschaffen voor de](purchase-azure-plan.md) nieuwste updates over regionale beschikbaarheid voor Azure Plan. 
 
 >[!IMPORTANT]
-> U moet bevestigen dat een klant de klant overeenkomst van micro soft heeft geaccepteerd door informatie te verstrekken over de persoon die het heeft ondertekend. Zie [bevestiging van de acceptatie van de micro soft-klant overeenkomst](confirm-consent.md) voor meer informatie.
+> U moet bevestigen dat een klant de Microsoft-klantovereenkomst door informatie op te geven over de persoon die het heeft ondertekend. Zie [Bevestig dat een klant de Microsoft-klantovereenkomst](confirm-consent.md) voor meer informatie.
 
-Ga naar de locatie van uw bedrijf in een van de onderstaande lijsten om te bepalen waar u CSP-aanbiedingen kunt verkopen. U moet een actieve Microsoft Partner Network-ID (MPN) hebben voor de locatie waar u wilt verkopen.  
+Als u wilt bepalen waar u CSP-aanbiedingen kunt verkopen, vindt u de locatie van uw bedrijf in een van de onderstaande lijsten. U moet een actieve MPN Microsoft Partner Network-id hebben voor de locatie waarin u wilt verkopen.  
+
 
 ## <a name="for-unsupported-countries"></a>Voor niet-ondersteunde landen
 
-Als uw land niet wordt ondersteund, stelt u de CSP-relatie van de klant in met behulp van de Office-beheer-URL. 
+Als uw land niet wordt ondersteund, stelt u de klant-CSP-relatie tot stand met behulp van de Office-beheerders-URL. 
 
-- Directe factuur partners gebruiken de volgende URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Vervang **partnertenantguid** door uw Tenant-id. 
+- Partners voor directe factuur gebruiken de volgende URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Vervang **partnertenantguid door** uw tenant-id. 
 
-- De URL voor indirecte wederverkopers is: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . U kunt **IRtenantguid** vervangen door uw Tenant-id. Vervang **IRMPNID** door uw MPN-id en vervang **IPtenantguid** door de Tenant-id van uw indirecte provider.
+- De URL voor indirecte resellers is: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . U vervangt **IRtenantguid door** uw tenant-id. Vervang **IRMPNID door** uw MPN-id en vervang **IPtenantguid door** de tenant-id van uw indirecte provider.
 
-## <a name="africa-region-and-market"></a>Regio en markt voor Afrika
+## <a name="africa-region-and-market"></a>Regio en markt in Afrika
 
-Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen aan klanten op alle locaties in de lijst verkopen.
+Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
 | Land/regio           | Valuta |
 | ------------------------ |:--------:|
@@ -79,22 +84,22 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 | Nigeria                  |   USD    |
 | Réunion                  |   USD    |
 | Rwanda                   |   USD    |
-| Sao Tomé en principe    |   USD    |
+| Sño Toñ en Prñncipe    |   USD    |
 | Senegal                  |   USD    |
 | Seychellen               |   USD    |
 | Sierra Leone             |   USD    |
 | Somalië                  |   USD    |
 | Zuid-Soedan              |   USD    |
-| Sint-Helena, Ascension en Tristan da Cunha|    USD   |
+| St Helena, Ascension, Tristan da Cunha|    USD   |
 | Tanzania                 |   USD    |
 | Togo                     |   USD    |
 | Oeganda                   |   USD    |
 | Zambia                   |   USD    |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>Regio en markt voor Azië en Stille Oceaan
+## <a name="asia-and-pacific-region-and-market"></a>Regio en markt azië en Stille Oceaan
 
-Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen aan klanten op alle locaties in de lijst verkopen.
+Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
 | Land/regio     | Valuta |
 | --------------     |:--------:|
@@ -118,9 +123,9 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Vietnam           |   USD    |
 |
 
-## <a name="australia-region-and-market"></a>Regio en markt voor Australië
+## <a name="australia-region-and-market"></a>Regio en markt australië
 
-Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen aan klanten op alle locaties in de lijst verkopen.
+Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
 |  Land/regio        | Valuta |
 |  --------------        |:--------:|
@@ -131,7 +136,7 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Fiji                  |   AUD    |
 |  Franse Gebieden in de zuidelijke Indische Oceaan| AUD |
 |  Guam                  |  AUD     |
-|  Heard Island en McDonald eilanden| AUD |
+|  Heard- en McDonald-eilanden| AUD |
 |  Kiribati              |   AUD    |
 |  Marshalleilanden      |   AUD    |
 |  Micronesia            |   AUD    |
@@ -146,10 +151,10 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
 |  Tuvalu                |   AUD    |
-|  Wallis en Futuna     |   AUD    |
+|  Wallis en Walluna     |   AUD    |
 |
 
-## <a name="brazil-region-and-market"></a>Regio en markt voor Brazilië
+## <a name="brazil-region-and-market"></a>Brazilië, regio en markt
 
 Als de locatie van uw bedrijf Brazilië is, kunt u CSP-aanbiedingen verkopen aan klanten in Brazilië.
 
@@ -158,9 +163,9 @@ Als de locatie van uw bedrijf Brazilië is, kunt u CSP-aanbiedingen verkopen aan
 |  Brazilië         |   USD    |
 |
 
-## <a name="canada-region-and-market"></a>Canada regio en markt
+## <a name="canada-region-and-market"></a>Canada-regio en -markt
 
-Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen aan klanten op alle locaties in de lijst verkopen.
+Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
 |  Land/regio | Valuta |
 |  -------------- |:--------:|
@@ -168,13 +173,13 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Saint-Pierre en Miquelon|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>Regio en markt voor Europa
+## <a name="europe-region-and-market"></a>Regio en markt Europa
 
-Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen aan klanten op alle locaties in de lijst verkopen.
+Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
 |  Land/regio | Valuta  |
 |  -------------- |:--------:|
-|  Åland-eilanden  |   EUR    |
+|  Ålandeilanden  |   EUR    |
 |  Andorra        |   EUR    |
 |  Oostenrijk        |   EUR    |
 |  België        |   EUR    |
@@ -221,7 +226,7 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Vaticaanstad   |          |
 |
 
-## <a name="india-region-and-market"></a>Regio en markt voor India
+## <a name="india-region-and-market"></a>Regio en markt india
 
 Als de locatie van uw bedrijf India is, kunt u CSP-aanbiedingen verkopen aan klanten in India.
 
@@ -230,16 +235,16 @@ Als de locatie van uw bedrijf India is, kunt u CSP-aanbiedingen verkopen aan kla
 |  India          |   INR    |
 |
 
-## <a name="japan-region-and-market"></a>Japanse regio en markt
+## <a name="japan-region-and-market"></a>Japan-regio en -markt
 
-Als de locatie van uw bedrijf Japan is, kunt u CSP-aanbiedingen aan klanten in Japan verkopen.
+Als de locatie van uw bedrijf Japan is, kunt u CSP-aanbiedingen verkopen aan klanten in Japan.
 
 |  Land/regio | Valuta |
 |  -------------- |:--------:|
 |  Japan          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>Republiek Korea, regio en markt
+## <a name="korea-republic-of-region-and-market"></a>Korea, Republiek regio en markt
 
 Als de locatie van uw bedrijf Korea, Republiek is, kunt u CSP-aanbiedingen verkopen aan klanten in Korea, Republiek.
 
@@ -248,9 +253,9 @@ Als de locatie van uw bedrijf Korea, Republiek is, kunt u CSP-aanbiedingen verko
 |  Zuid-Korea|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>Latijns-Amerika en de regio van het Caribisch gebied en de markt
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>Latijns-Amerika en de regio En markt van Het
 
-Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen aan klanten op alle locaties in de lijst verkopen.
+Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
 |  Land/regio | Valuta |
 |  -------------- |:--------:|
@@ -293,14 +298,14 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Peru           |   USD    |
 |  Puerto Rico    |   USD    |
 |  Saba           |   USD    |
-|  Saint--Barthélemy|  USD    |
+|  Saint Barthélemy|  USD    |
 |  Saint Kitts en Nevis|    |
 |  Saint Lucia    |   USD    |
 |  Saint-Martin   |   USD    |
 |  Saint Vincent en de Grenadines| USD |
-|  Sint-Eustatius |   USD    |
+|  Sint Eustatius |   USD    |
 |  Sint Maarten   |   USD    |
-|  Zuid-Georgië en de zuidelijke Sandwich eilanden| USD|
+|  Zuid-Georgië en de Zuidelijke Sandwicheilanden| USD|
 |  Suriname       |   USD    |
 |  Trinidad en Tobago|USD   |
 |  Turks- en Caicos-eilanden| USD|
@@ -309,9 +314,9 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Amerikaanse Maagdeneilanden| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Regio en markt voor het Midden-Oosten, Centraal-Europa en Oost-Europa
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Regio en markt voor Midden-Oosten, Europa - centraal en Oost-Europa
 
-Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen aan klanten op alle locaties in de lijst verkopen.
+Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
 |  Land/regio | Valuta |
 |  -------------- |:--------:|
@@ -336,7 +341,7 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Libanon        |   USD    |
 |  Lesotho        |   USD    |
 |  Libië          |   USD    |
-|  Macedonië, Republiek|   |
+|  Noord-Korea|   |
 |  Mauritanië     |   USD    |
 |  Moldavië        |   USD    |
 |  Mongolië       |   USD    |
@@ -345,7 +350,7 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Mozambique     |   USD    |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Palestijnse gebied, bezet |        |
+|  Territorium, Bezet |        |
 |  Qatar          |   USD    |
 |  Saoedi-Arabië   |   USD    |
 |  Servië         |   USD    |
@@ -362,9 +367,9 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Zimbabwe       |   USD    |
 |
 
-## <a name="new-zealand-region-and-market"></a>Regio en markt voor Nieuw-Zeeland
+## <a name="new-zealand-region-and-market"></a>Regio en markt nieuw-Zeeland
 
-Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen aan klanten op alle locaties in de lijst verkopen.
+Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
 |  Land/regio | Valuta |
 |  -------------- |:--------:|
@@ -374,7 +379,7 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Vanuatu        |   NZD    |
 |
 
-## <a name="russia-region-and-market"></a>Russische regio en markt
+## <a name="russia-region-and-market"></a>Rusland-regio en -markt
 
 Als de locatie van uw bedrijf Rusland is, kunt u CSP-aanbiedingen verkopen aan klanten in Rusland.
 
@@ -383,9 +388,9 @@ Als de locatie van uw bedrijf Rusland is, kunt u CSP-aanbiedingen verkopen aan k
 |  Rusland         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwanese regio en markt
+## <a name="taiwan-region-and-market"></a>Regio en markt in Taiwan
 
-Als de locatie van uw bedrijf Taiwan is, kunt u CSP-aanbiedingen aan klanten verkopen in Taiwan.
+Als de locatie van uw bedrijf Taiwan is, kunt u CSP-aanbiedingen verkopen aan klanten in Taiwan.
 
 |  Land/regio | Valuta |
 |  -------------- |:--------:|
@@ -394,10 +399,10 @@ Als de locatie van uw bedrijf Taiwan is, kunt u CSP-aanbiedingen aan klanten ver
 
 ## <a name="united-states-region-and-market"></a>Verenigde Staten regio en markt
 
-Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen aan klanten op alle locaties in de lijst verkopen.
+Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
 |  Land/regio       | Valuta |
 |  -------------        |:--------:|
 |  Verenigde Staten        |   USD    |
-|   Kleine afgelegen eilanden van de Verenigde Staten|   USD    |
+|  Amerikaanse outlyingeilanden|   USD    |
 |

@@ -2,64 +2,66 @@
 title: Effectieve berekening van eenheidsprijs
 ms.topic: how-to
 ms.date: 04/02/2021
-description: Meer informatie over de werkelijke eenheids prijs en hoe deze worden berekend. Dit artikel bevat ook een voor beeld van een berekening.
+description: Meer informatie over de effectieve eenheidsprijs en hoe deze wordt berekend. Dit artikel bevat ook een voorbeeldberekening.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374385"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528563"
 ---
-# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Efficiënte eenheid prijs berekening voor het verbruik van het Azure-abonnement
+# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Berekening van de effectieve eenheidsprijs voor azure-planverbruik
 
-## <a name="the-effective-unit-price"></a>De werkelijke eenheids prijs
+## <a name="the-effective-unit-price"></a>De effectieve eenheidsprijs
 
-De werkelijke eenheids prijs wordt berekend op het niveau van de meter (in plaats van het resource niveau) en wordt dagelijks aangepast op basis van het gebruik van metingen.
+De effectieve eenheidsprijs wordt berekend op meterniveau (in tegenstelling tot het resourceniveau) en wordt dagelijks aangepast op basis van metergebruik.
 
-De werkelijke eenheids prijs wordt berekend aan de hand van de volgende drie factoren:
+We berekenen de effectieve eenheidsprijs aan de hand van de volgende drie factoren:
 
-- Verbruik, dat dagelijks wordt bewaakt tijdens de facturerings cyclus
-- Factureer bare kosten voor de meter
-- Trapsgewijs scha kelen (indien van toepassing)
+- Verbruik, dat dagelijks wordt bewaakt gedurende de factureringscyclus
+- Factureerbare kosten voor de meter
+- Lagen (indien van toepassing)
 
-Omdat we dagelijks het verbruik in de facturerings cyclus controleren, schommelt de werkelijke eenheids prijs. De uiteindelijke prijs voor een bepaalde facturerings cyclus is beschikbaar nadat de verbruiks berekening is gestopt en de facturerings periode is gesloten. U ziet de meeste wijzigingen in het verbruik na de vierde of vijfde decimaal positie.
+Omdat we het verbruik dagelijks bewaken gedurende de factureringscyclus, zal de effectieve eenheidsprijs fluctueren. De uiteindelijke prijs voor een bepaalde factureringscyclus is beschikbaar nadat we de verbruiksberekening hebben gestopt en de factureringsperiode hebben gesloten. U ziet de meeste wijzigingen in het verbruik na de vierde of vijfde decimale plaats.
 
-## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Nagaan of uw meter gelaagde prijzen gebruikt
+## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Uitzoeken of voor uw meter gelaagde prijzen worden gebruikt
 
 Als u niet weet of uw meter gelaagde prijzen gebruikt, gebruikt u de onderstaande procedure om erachter te komen. 
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
-2. Selecteer **verkopen**, selecteer **prijzen en aanbiedingen** en selecteer vervolgens de **prijs** van het Azure-abonnement.
-3. Zoek uw meter op ID en down load de prijs gegevens. 
+2. Selecteer **Verkopen,** selecteer **Prijzen en aanbiedingen** en selecteer vervolgens Prijzen voor **Azure-abonnement.**
+3. Zoek uw meter op id en download vervolgens uw prijsgegevens. 
 
-## <a name="sample-calculation"></a>Voorbeeld berekening
+## <a name="sample-calculation"></a>Voorbeeldberekening
 
-De onderstaande tabel geeft een voor beeld van hoe we de werkelijke eenheids prijs berekenen tijdens de open periode.
+De onderstaande tabel geeft een voorbeeld van hoe we de effectieve eenheidsprijs berekenen tijdens de open periode.
 
-De volgende waarden zijn van toepassing in de tabel: 
+In de tabel zijn de volgende waarden van toepassing: 
 
-- **Up** = eenheids prijs van resource/uur = 0,868
+- **UP** = Eenheidsprijs van de resource/uur = 0,868
 
-- **BCU** = factureer bare verbruiks eenheid voor de meter
+- **BCU** = Factureerbare verbruikseenheid voor de meter
 
-- **BC** = factureer bare kosten voor de meter = BCU * UP * 0,85. Dit weerspiegelt een aanpassing voor de PEC-korting van 15%. Vervolgens gebruiken we de ondergrens van de functie om de waarde te beperken tot twee cijfers na het decimaal teken, zodat de minimum hoeveelheid kan worden gefactureerd. 
+- **BC** = Factureerbare kosten voor de meter = BCU * UP * 0,85. Dit weerspiegelt een aanpassing voor de PEC-korting van 15%. Vervolgens gebruiken we de onderste limiet van de functie om de waarde te beperken tot twee cijfers achter het decimaalteken om het minimumbedrag in rekening te brengen. 
 
-- **Werkelijke eenheids prijs** = BCU/BC
+- **Effectieve eenheidsprijs** = BCU/BC
 
 >[!NOTE]
->De meter in dit voor beeld heeft geen lagen voor de prijzen. De effectief eenheids prijs factoren in kortings percentages en andere aanpassingen.
 
-| Datum | BCU (factureer bare verbruiks eenheid) | BC (factureer bare kosten) | Werkelijke eenheids prijs |
+>Opmerking: De meter in dit voorbeeld heeft geen prijscategorie of andere kortingen: de effectieve eenheidsprijs houdt rekening met kortingspercentages en andere aanpassingen.
+
+
+| Datum | BCU (factureerbare verbruikseenheid) | BC (factureerbare kosten) | Effectieve eenheidsprijs |
 | ------ | ----------- | ----------- | ----------- |  
-| 3-aug | 29 | 21,39 | 0.737586206896552 |
-| 10-aug | 210,950039 | 155,63 | 0.737757626107858 |
-| 25-aug | 555,950039 | 410,17 | 0.737782122900436 |
+| 3 aug | 29 | 21.39 | 0.737586206896552 |
+| 10 aug | 210.950039 | 155.63 | 0.737757626107858 |
+| 25 aug | 555.950039 | 410.17 | 0.737782122900436 |
 
 ## <a name="next-steps"></a>Volgende stappen
 

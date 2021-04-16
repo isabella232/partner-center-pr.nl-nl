@@ -1,60 +1,63 @@
 ---
-title: Prikkels inschrijven
+title: Incentives-inschrijving
 ms.topic: how-to
-ms.date: 11/12/2020
-description: Registreer u in het prikkel programma en wijs de benodigde rollen toe voor gebruikers beheer. In dit artikel wordt het inschrijvings proces beschreven.
+ms.date: 04/15/2021
+description: Schrijf u in voor het incentives-programma en wijs de benodigde rollen toe voor gebruikersbeheer. In dit artikel wordt het inschrijvingsproces beschreven.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: c4e24c22790edddef02e7936eaef9ed788489a37
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179135"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528539"
 ---
-# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inschrijving en gebruikers beheer in het prikkel programma
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inschrijving en gebruikersbeheer in het incentives-programma
 
 **Juiste rollen**
 
-- Prikkel beheerder
+- Incentives-beheerder
 
 >[!NOTE]
->Voordat u in het programma voor prikkels kunt inschrijven, moet u het partner lidmaatschaps centrum voor de [migratie](prepare-pmc-pc-migration.md)van partner Center hebben voltooid.
+>Voordat u zich kunt registreren voor het incentives-programma, moet u de Partner Membership Center voor Partner Center [migratie hebben voltooid.](prepare-pmc-pc-migration.md)
 
-Het inschrijvings proces bestaat uit twee stappen.
+Het inschrijvingsproces bestaat uit twee stappen.
 
-**Stap 1. Gebruikers beheer:** deze stap omvat het tot stand brengen van de prikkel beheerder in Partner Center.
+**Stap 1. Gebruikersbeheer:** Deze stap omvat het opzetten van de Incentive-beheerder in Partner Center.
 
-**Stap 2. Inschrijving:** micro soft stuurt u een uitnodiging om u in te schrijven in uw prikkel programma.
+**Stap 2. Inschrijving:** Microsoft stuurt u een uitnodiging om u in te schrijven voor uw incentive-programma.
 
 ## <a name="user-management"></a>Gebruikersbeheer
 
-Als u zich wilt inschrijven in een partner Center-stimulanss programma, moet de globale beheerder of account beheerder uw bedrijfs gebruikers instellen als beheerders van een stimulans. Zie [uw partner centrum-account beheren](partner-center-account-setup.md)voor meer informatie over partner accounts, rollen en machtigingen. De globale beheerder kan uw bedrijfs gebruikers ook instellen via de Azure Active Directory (Azure AD).
-
-Zodra uw organisatie in aanmerking komt voor prikkel, stuurt micro soft uitnodigingen naar de account beheerder en de beheerder van de stimulans.
+Als u zich wilt inschrijven voor Partner Center incentive-programma, moet de Globale beheerder- of accountbeheerder uw bedrijfsgebruikers instellen als Incentive-beheerders. Zie Manage your Partner Center account (Uw account beheren) voor meer informatie over [partneraccounts, Partner Center en machtigingen.](partner-center-account-setup.md) De Globale beheerder kunt uw bedrijfsgebruikers ook instellen via de Azure Active Directory (Azure AD).
 
 >[!NOTE]
->Alleen de beheerder van de prikkel kan zich inschrijven voor prikkel-Program ma's. Als er geen prikkel beheerder voor uw locatie is, moet de beheerder van de globale beheerder en account er een toewijzen. De prikkel beheerder moet worden toegewezen voor de locatie MPN-Id's. De beheerder van de globale beheerder of het account kan ook worden toegewezen als de beheerder voor de stimulans. Zie [prikkels beheren](permissions-overview.md#manage-incentives)voor meer informatie over verschillende rollen.
+>Alleen de Incentive-beheerder kan zich inschrijven voor incentive-programma's. Als er geen Incentive-beheerder voor uw locatie is, moeten Globale beheerder en accountbeheerder er een toewijzen. De Incentive-beheerder moet worden toegewezen voor de MPN-locatie-ID's. De Globale beheerder of accountbeheerder kan ook worden toegewezen als de Incentive-beheerder. Zie Incentives beheren voor meer informatie [over verschillende rollen.](permissions-overview.md#manage-incentives)
 
-## <a name="enrollment-process"></a>Inschrijvings proces
+## <a name="enrollment-process"></a>Inschrijvingsproces
 
-Zodra uw organisatie in aanmerking komt voor prikkels, stuurt micro soft een uitnodiging naar de prikkel beheerder van de in aanmerking komende MPNLocationID om het inschrijvings proces te starten. Dit e-mail bericht wordt verzonden vanuit het **micro soft partner centrum** en krijgt de uitnodiging voor de **inschrijving** van een certificaat houder. Open de uitnodiging en selecteer **aan de slag**.
+Zodra uw organisatie in aanmerking komt voor incentives, stuurt Microsoft een uitnodiging naar de Incentive-beheerder van de in aanmerking komende MPNLocationID om het inschrijvingsproces te starten. Dit e-mailbericht wordt verzonden **vanuit Microsoft Partner Center** en heeft het onderwerp Uitnodiging voor Partner **Incentive-inschrijving.** Open de uitnodiging en selecteer **Aan de slag.**
 
-U ziet ook een uitnodiging op de start pagina van het partner centrum. Wanneer u dat bericht hebt geselecteerd, kunt u het niet meer zien. De beheerder van de prikkel kan echter nog steeds het proces volt ooien door zich aan te melden bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/) en **overzicht** te selecteren onder **stimulansen** op het navigatie deel van de linkerkant. Selecteer **Inschrijven** en voltooi vervolgens het profiel voor uitbetaling en belasting voor het programma.
+U ziet ook een uitnodiging op de Partner Center startpagina. Zodra u dat bericht hebt geselecteerd, kunt u het niet meer zien. De Incentive-beheerder kan het proces echter nog steeds voltooien door zich aan te melden bij het [Partner Center dashboard](https://partner.microsoft.com/dashboard/) en Overzicht te **selecteren** onder **Incentives** in het linkernavigatiepaneel. Selecteer **Inschrijven en** voltooi vervolgens het uitbetalings- en belastingprofiel voor het programma.
 
-Een inschrijving wordt alleen voltooid als het profiel voor uitbetaling en belasting dat u voor de inschrijving opgeeft, door micro soft is gevalideerd.
+Als u al een standaard bankprofiel hebt ingesteld voor een MPN-locatie en u zich probeert in  te schrijven voor dezelfde MPN-locatie in een incentive-programma, ziet u het standaard bankprofiel wanneer u Inschrijven selecteert en de uitnodiging accepteert. U krijgt ook een beschikbaar belastingprofiel te zien als u dit hebt gemaakt voor die MPN-locatie. Als Microsoft over alle vereiste bank- en belastingprofielgegevens beschikt, wordt u gevraagd om Indienen te selecteren om de inschrijving te voltooien.  Zie [Een standaard bankprofiel instellen.](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)
 
-Bepaalde stimulerings Programma's hebben geen geschiktheids criteria en zijn geopend voor alle partners. De beheerder van de stimulans krijgt de uitnodigingen voor deze Program ma's te zien op de pagina prikkel overzicht, mits deze machtigingen hebben voor het relevante prikkel programma en MPN. Micro soft verzendt geen uitnodigingen voor e-mail voor deze Program ma's.
+U kunt ook een ander bankprofiel dan het standaard bankprofiel kiezen. Als Microsoft aanvullende gegevens nodig heeft voor de betalings- of  belastingprofielen of valuta, wordt u gevraagd om door te gaan en wordt u omgeleid naar de pagina Betalings- en belastingprofiel om de ontbrekende gegevens **op te** geven. 
 
-Voor meer informatie over het inschrijvings proces downloadt u de [hand leiding voor de inschrijving van prikkels](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (aanmelden vereist).
+Een inschrijving wordt alleen als voltooid beschouwd wanneer het uitbetalings- en belastingprofiel dat u voor de inschrijving opsomt, wordt gevalideerd door Microsoft.
 
-## <a name="expiration-and-renewal"></a>Verloop en verlenging
+Bepaalde incentive-programma's hebben geen geschiktheidscriteria en zijn open voor alle partners. De Incentive-beheerder ziet uitnodigingen voor deze programma's op de overzichtspagina van de incentive, mits deze machtigingen hebben voor het relevante incentive-programma en MPN. Microsoft verzendt geen e-mailuitnodigingen voor deze programma's.
 
-De inschrijving van prikkels verloopt aan het einde van het boek jaar. Als u echter een in aanmerking komende partner met een actieve overeenkomst hebt, zal micro soft uw stimulans voor de prikkel door sturen naar het volgende boek jaar. U hoeft geen actie te ondernemen, op voor waarde dat de informatie over de uitbetaling en belasting die vereist zijn voor het prestatie programma, is voltooid conform de regels van het prestatie programma.
+Download de [Incentives Enrollment Guide](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (aanmelding vereist) voor meer informatie over het inschrijvingsproces.
+
+## <a name="expiration-and-renewal"></a>Vervaldatum en verlenging
+
+Incentives-inschrijving verloopt aan het einde van het fiscale jaar. Zolang u echter een in aanmerking komende partner blijft met een actieve overeenkomst, zal Microsoft uw incentives-inschrijving doorsturen naar het volgende fiscale jaar. U hoeft geen actie te ondernemen, zolang de uitbetalings- en belastinggegevens die zijn vereist voor het incentive-programma zijn voltooid volgens de regels van het incentive-programma.
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Geschiktheid van uw programma bepalen](incentives-determined-your-program-eligibility.md)
+- [Uw uitbetalings- en belastingprofielen maken en beheren](incentives-create-and-manage-your-payout-and-tax-profiles.md)

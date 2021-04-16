@@ -5,17 +5,16 @@ metadata:
   title: Documentatie voor Partnercentrum
   description: In Partnercentrum kunt u uw bedrijf laten groeien via het MPN (Microsoft Partner Network), het CSP-programma (Cloud Solution Provider), en meer.
   ms.service: partner-dashboard
-  ms.subservice: partnercenter-csp
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
   ms.date: 02/01/2021
-  ms.openlocfilehash: 902c05a71776e74e735de16e3e464a1a816a5402
-  ms.sourcegitcommit: 299bd9948848c7012485b0ea45c2a319309d2b47
+  ms.openlocfilehash: 95a3e09cd265b9e09970b3f7c57261efb9b21221
+  ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 02/02/2021
-  ms.locfileid: "99251910"
+  ms.lasthandoff: 04/16/2021
+  ms.locfileid: "107528517"
 landingContent:
 - title: Aan de slag gaan met Partnercentrum
   linkLists:
@@ -51,7 +50,7 @@ landingContent:
   linkLists:
   - linkListType: concept
     links:
-    - text: Akkoord met de micro soft-partner overeenkomst
+    - text: Accepteer de Microsoft Partner-overeenkomst
       url: microsoft-partner-agreement.md
     - text: Beveiligingsvereisten voor Partnercentrum
       url: partner-security-requirements.md
