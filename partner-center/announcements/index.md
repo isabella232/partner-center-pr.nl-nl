@@ -9,63 +9,65 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: c2941c6dcda9551a97ca903f050488ea8fe363c1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266449"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584184"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
 Meer informatie over belangrijke updates in Partnercentrum. Deze informatie wordt regelmatig bijgewerkt. Kom dus vaak hier terug!
 
-|**Categorie**|**Mede delingen van april 2021**|**Aangekondigd**|
+|**Categorie**|**Aankondigingen van april 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
-|Functies|[Herinnering: afschaffing van de GET-kwalificatie op 4 mei 2021](2021-april.md#4)|9 april|
-|Functies|[Nieuwe indeling voor de nieuwe Commerce PDF-factuur in CSP](2021-april.md#3)|5 april|
+|Functies|[Nu live: Globale handleiding voor promotie-gereedheid](2021-april.md#6)|16 april|
+|Community: Uitnodigingen en herinneringen|[Update en Cloud Solution Provider van de CSP-community van april](2021-april.md#5)|16 april|
+|Functies|[Herinnering: Afschaffing van GET-kwalificatie op 4 mei 2021](2021-april.md#4)|9 april|
+|Functies|[Nieuwe indeling voor de nieuwe PDF-factuur voor commerce in CSP](2021-april.md#3)|5 april|
 |Functies|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2021-april.md#2)|2 april|
-|Functies|[Product lanceringen en aanbiedingen van deze maand bekijken](2021-april.md#1)|1 april|
+|Functies|[Productlanceringen en aanbiedingen van deze maand weergeven](2021-april.md#1)|1 april|
 |**Categorie**|**Aankondigingen van maart 2021**|**Aangekondigd**|
-|Functies|[Bijgewerkte CSP-klant adres validatie-API nu beschikbaar voor testen](2021-march.md#18)|31 maart|
-|Aanbiedingen/moderne werk plek|[Nieuwe versie van het Exchange-beheer centrum (SBV)](2021-march.md#17)|29 maart|
-|Aanbiedingen/moderne werk plek|[Micro soft Operations: introductie van de agenda voor product lancering](2021-march.md#16)|25 maart|
-|Functies|[Wijzigingen in de vereisten voor de CSP-klant voor bereiding](2021-march.md#15)|25 maart|
-|Aanbiedingen/markten|[Correcties die zijn aangebracht in 1 maart 2021 lijst met permanente software prijzen](2021-march.md#14)|23 maart|
-|Functies|[SDK-release op .NET Standard (v 1.17.0)](2021-march.md#13)|23 maart|
-|Functies|[CSP Commercial Marketplace-aanbieding en FY21 CSP-stimulansen voor in aanmerking komende aanbiedingen](2021-march.md#12)|18 maart|
-|Functies|[Naam en vereiste update van Power BI Premium-aanbieding](2021-march.md#11)|18 maart|
-|Aanbiedingen/markten|[Prijzen updates van maart voor Microsoft 365 F3](2021-march.md#10)|16 maart|
-|Efficiëntie van schijf & schalen|[De naam van een rechts bedrijf bijwerken via partner centrum](2021-march.md#9)|16 maart|
-|Functies|[Bijwerken naar de ontwikkeling van het programma voor Cloud Solution Provider (CSP) en Open License-programma wijzigingen](2021-march.md#8)|15 maart|
-|Uw bedrijf uitbreiden|[Bijwerken naar een eerdere aankondiging: Premium-evaluaties, een invoeg toepassing voor nalevings beheer](2021-march.md#7)|15 maart|
-|Functies|[Migreer uw oplossingen van de ene commerciële partner (OCP) go-to-Market (GTM) naar de micro soft Commercial Marketplace](2021-march.md#6)|12 maart|
-|Functies|[De nieuwe Commerce-ervaring in het Cloud Solution Provider-programma (CSP) voor Azure naar Rusland uitbreiden](2021-march.md#5)|10 maart|
-|Functies|[Licentie sleutel voor partner centrum-software en down loads](2021-march.md#4)|5 maart|
-|Functies|[Uw deals migreren van partner Sales Connect (PSC) naar partner centrum](2021-march.md#3)|5 maart|
-|Functies|[Nieuwe micro soft Dynamics 365-producten en aanbiedingen die beschikbaar zijn op 1 april 2021](2021-march.md#2)|4 maart|
-|Functies|[Micro soft Universal Print nu beschikbaar in sommige suites](2021-march.md#1)|3 maart|
+|Functies|[Bijgewerkte API voor validatie van CSP-klantadressen nu beschikbaar voor testen](2021-march.md#18)|31 maart|
+|Aanbiedingen/moderne werkplek|[Nieuwe EAC-ervaring (Exchange-beheercentrum)](2021-march.md#17)|29 maart|
+|Aanbiedingen/moderne werkplek|[Microsoft Operations: Introductie van de kalender voor productlancering](2021-march.md#16)|25 maart|
+|Functies|[Wijzigingen in onboardingvereisten voor CSP-klanten](2021-march.md#15)|25 maart|
+|Aanbiedingen/markten|[Correcties aangebracht in de prijslijst met doorlopende software van 1 maart 2021](2021-march.md#14)|23 maart|
+|Functies|[SDK-release op .NET Standard (v1.17.0)](2021-march.md#13)|23 maart|
+|Functies|[Aanbieding voor commerciële CSP-marketplace en FY21 CSP-incentives voor in aanmerking komende aanbiedingen](2021-march.md#12)|18 maart|
+|Functies|[Power BI Premium naamgeving van de aanbieding en de vereiste update](2021-march.md#11)|18 maart|
+|Aanbiedingen/markten|[Prijsupdates van maart voor Microsoft 365 F3](2021-march.md#10)|16 maart|
+|Efficiëntie & schalen|[Werk de naam van een juridisch bedrijf bij via Partner Center](2021-march.md#9)|16 maart|
+|Functies|[Bijwerken naar Cloud Solution Provider programma-ontwikkeling (CSP) en wijzigingen in het Open License-programma](2021-march.md#8)|15 maart|
+|Uw bedrijf laten groeien|[Update naar een eerdere aankondiging: Premium Assessments, een invoegaanvoeging voor Compliance Manager](2021-march.md#7)|15 maart|
+|Functies|[Uw oplossingen migreren van ONE Commercial Partner (OCP) go-to-market (GTM) naar de commerciële marketplace van Microsoft](2021-march.md#6)|12 maart|
+|Functies|[De nieuwe commerce-ervaring in het Cloud Solution Provider (CSP)-programma voor Azure naar Rusland uitbreiden](2021-march.md#5)|10 maart|
+|Functies|[Partner Center softwarelicentiesleutel en downloadafhandeling](2021-march.md#4)|5 maart|
+|Functies|[Uw deals migreren van Partner Sales Connect (PSC) naar Partner Center](2021-march.md#3)|5 maart|
+|Functies|[Nieuwe Microsoft Dynamics 365-producten en -aanbiedingen beschikbaar op 1 april 2021](2021-march.md#2)|4 maart|
+|Functies|[Microsoft Universeel afdrukken nu beschikbaar in sommige suites](2021-march.md#1)|3 maart|
 |**Categorie**|**Aankondigingen van februari 2021**|**Aangekondigd**|
-|Functies|[Api's voor het invoegen van kwalificaties worden buiten gebruik gesteld. Als u in mei wilt intrekken,](2021-february.md#14)|25 februari|
-|Functies|[Deel de verkoop van deals op schaal met behulp van de functie voor bulk bewerkingen van het partner centrum](2021-february.md#13)|25 februari|
-|Functies|[Migreer uw deals van partner Sales Connect (PSC) met behulp van de nieuwe functie voor het migreren van deals](2021-february.md#12)|25 februari|
-|Functies|[Meer flexibiliteit dankzij door de partner geleide deals voor verkoop](2021-february.md#11)|25 februari|
-|Functies|[Wijzigingen in de onboarding van de klant van de Cloud Solution Provider (CSP)](2021-february.md#10)|25 februari|
-|Functies|[Nu Live: DocuSign migratie naar Adobe-ondertekenen voor partners onder micro soft-partner overeenkomsten (MPAs)](2021-february.md#9)|16 februari|
-|Uw bedrijf uitbreiden|[Herinnering: Maak kennis met API-beperking voor partners die Partner Center-API's aanroepen](2021-february.md#8)|16 februari|
-|Functies|[Inleiding tot micro soft Viva-onderwerpen](2021-february.md#7)|12 februari|
-|Aanbiedingen/markten|[Prijs wijzigingen voor Microsoft 365 E3 voor maart 2021](2021-february.md#6)|11 februari|
-|Aanbiedingen/markten|[Prijs lijst voor preview van licentie is bijgewerkt voor Noorse kroon](2021-february.md#5)|10 februari|
-|Functies|[Premium-evaluaties, een invoeg toepassing voor Compliance Manager, is beschikbaar op 1 maart 2021](2021-february.md#4)|5 februari|
+|Functies|[PUT-kwalificatie-API's zijn ingetrokken, GET wordt in mei ingetrokken](2021-february.md#14)|25 februari|
+|Functies|[Deals voor co-verkoop op schaal delen met behulp van Partner Center mogelijkheid voor bulkbewerkingen](2021-february.md#13)|25 februari|
+|Functies|[Uw deals migreren van Partner Sales Connect (PSC) met behulp van de nieuwe functie voor dealmigratie](2021-february.md#12)|25 februari|
+|Functies|[Meer flexibiliteit met door partners geleide deals voor co-verkoop](2021-february.md#11)|25 februari|
+|Functies|[Wijzigingen in de onboarding van Cloud Solution Provider (CSP)-klant](2021-february.md#10)|25 februari|
+|Functies|[Nu live: Migratie van DocuSign naar Adobe Sign voor partners onder Microsoft Partner-overeenkomsten (MVA's)](2021-february.md#9)|16 februari|
+|Uw bedrijf laten groeien|[Herinnering: Maak kennis met API-beperking voor partners die Partner Center-API's aanroepen](2021-february.md#8)|16 februari|
+|Functies|[Introductie van Microsoft-onderwerpen over Microsoft-onderwerpen](2021-february.md#7)|12 februari|
+|Aanbiedingen/markten|[Microsoft 365 E3-prijswijzigingen vanaf maart 2021](2021-february.md#6)|11 februari|
+|Aanbiedingen/markten|[Prijslijst met prijzen op basis van licenties bijgewerkt voor Noors kronen](2021-february.md#5)|10 februari|
+|Functies|[Premium-evaluaties, een invoeging voor Compliance Manager, zijn vanaf 1 maart 2021 van start](2021-february.md#4)|5 februari|
 |Functies|[Reageren op COVID-19: Microsoft Partner Network update](2021-february.md#3)|4 februari|
-|Functies|[Nieuwe updates voor de module referrals in Partner Center](2021-february.md#2)|4 februari|
-|Moderne werkplek|[Afschaffing en buiten gebruik stellen van de kwalificaties-Api's voor het validatie proces van de opleidings klant op 25 februari 2021 en de kwalificatie verkrijgen met behulp van 4e mei 2021](2021-february.md#1)|4 februari|
+|Functies|[Nieuwe updates voor de module Verwijzingen in Partner Center](2021-february.md#2)|4 februari|
+|Moderne werkplek|[Afschaffing en afschaffing van PUT Kwalificatie-API's voor de education-klantvalidatieprocedure voor 25 februari 2021 en de GET-kwalificatie voor 4 mei 2021](2021-february.md#1)|4 februari|
 | **Categorie** | **Aankondigingen van januari 2021** | **Aangekondigd** |
-|Moderne werkplek|[Fase 1 nu Live: EU/EVA & UK wijzigingen in de facturerings valuta van partners voor nieuwe Commerce aanbiedingen](2021-january.md#15)|28 januari|
+|Moderne werkplek|[Fase 1 nu live: EU/EFTA & UK Wijziging van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen](2021-january.md#15)|28 januari|
 |Moderne werkplek|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2021-january.md#14)|28 januari|
-|Functies|[Micro soft Partner Agreement (MPA) – indirecte reseller update & nieuwe veelgestelde vragen](2021-january.md#13)|27 januari|
-|Functies|[Het controle logboek van het partner centrum bevat twee nieuwe bewerkings typen voor DAP](2021-january.md#12)|25 januari|
-|Functies|[Wijzigingen in azure aanbod Beschik baarheid in CSP met betrekking tot de nieuwe Commerce-ervaring in CSP voor Azure](2021-january.md#11)|21 januari|
+|Functies|[Microsoft Partner-overeenkomst (MPA) – update voor indirecte resellers & veelgestelde vragen](2021-january.md#13)|27 januari|
+|Functies|[Partner Center auditlogboekwijzigingen die twee nieuwe bewerkingstypen voor DAP bevatten](2021-january.md#12)|25 januari|
+|Functies|[Wijzigingen in de beschikbaarheid van Azure-aanbieding in CSP met betrekking tot de nieuwe commerce-ervaring in CSP voor Azure](2021-january.md#11)|21 januari|
 |Uw bedrijf laten groeien|[Onbeperkt geldige software nu algemeen beschikbaar in het Cloud Solution Provider-programma ](2021-january.md#10)|19 januari|
 |Uw bedrijf laten groeien|[Herinnering: Maak kennis met API-beperking voor partners die Partner Center-API's aanroepen](2021-january.md#9)|19 januari|
 |Aanbiedingen/markten|[Beveiliging, naleving en identitieit (SCI) komt op 1 februari 2021](2021-january.md#8)|15 januari|
