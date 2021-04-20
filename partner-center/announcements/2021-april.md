@@ -10,20 +10,88 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/16/2021
-ms.openlocfilehash: 68635b4c02ddbbcaa6cbf02166a7cf123aaf2c6e
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584172"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728926"
 ---
 # <a name="april-2021-announcements"></a>Aankondigingen van april 2021
 
 Deze pagina bevat de aankondigingen voor Microsoft Partner Center voor april 2021.
 
 ________________
-## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Nu live: Globale handleiding voor promotie-gereedheid
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Licentieprogramma openen: resellers overstappen naar het Cloud Solution Provider (CSP)-programma
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-04-19
+- Uw bedrijf laten groeien
+
+### <a name="summary"></a>Samenvatting
+
+Deze communicatie laat zien hoe u zich kunt voorbereiden op de wijzigingen die binnenkort worden doorgevoerd in het Open Licensing-programma.
+
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
+
+CSP- en Open License-partners
+
+### <a name="details"></a>Details
+
+In 2020 heeft [Microsoft](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) aangekondigd dat doorlopende softwarelicenties breed beschikbaar zullen zijn voor partners en klanten via het Cloud Solution Provider (CSP)-programma. De eerste mijlpaal is bereikt in januari 2021, toen commerciële doorlopende softwareaanbiedingen beschikbaar werden. De volgende belangrijke mijlpaal vindt plaats in juli 2021, wanneer aanbiedingen voor openbare [sectoren](https://aka.ms/openlicensepublicsector) beschikbaar komen. We [hebben](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) ook gecommuniceerd dat met ingang van 1 januari 2022 geen nieuwe softwarelicentieaankopen of verlengingen van Software Assurance of onlineservices kunnen worden gedaan via het Open License-programma.
+
+De overgang van permanente software naar het CSP-programma in de nieuwe commerce-ervaring helpt partners om de mogelijkheden voor het aanbieden van diverse oplossingen en beheerde services uit te breiden. Dit versnelt ook de overgang van klanten naar de cloud.  Om een soepele overgang te garanderen voor zowel onze partners als klanten, hebben we deze aanpassingen en materialen aangebracht om deze digitale transformatie te versnellen:
+
+#### <a name="april-2021"></a>April 2021
+
+[Nu beschikbaar:](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/)Open overgangsmateriaal voor licentie-naar-CSP voor resellers
+
+#### <a name="july-2021"></a>Juli 2021
+
+##### <a name="csp"></a>CSP
+
+- 1 juli: Permanent beschikbare softwarelicenties voor klanten in de publieke sector
+
+- 7 juli: Visual Studio Pro- en Get Genuine Windows Agreement-softwarelicenties beschikbaar voor alle segmenten
+
+##### <a name="open-value"></a>Open waarde
+
+- 1 juli: Aanvullende SKU's die beschikbaar zijn in het Open Value-programma voor onderwijs en non-profitorganisaties, en bieden vergelijkbare aanbiedingen als het Open License-programma
+
+##### <a name="open-license"></a>Licentie openen
+
+- 1 juli: Microsoft start geen nieuwe aanbiedingen meer in het programma Open License.
+
+#### <a name="january-2022"></a>Januari 2022
+
+- 1 januari: Er kunnen geen nieuwe aankopen of verlengingen worden gedaan via het open license-programma
+
+### <a name="next-steps"></a>Volgende stappen
+
+#### <a name="csp-indirect-providers"></a>Indirecte CSP-providers
+
+Gebruik de komende maanden om resellers met open licenties te helpen zich te oriënteren in het CSP-programma door evenementen van de partner-community te bezoeken en het overgangsmateriaal Open License-to-CSP voor resellers te gebruiken:
+
+- [Open licentie-naar-CSP-overgangsmateriaal voor resellers:](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/)aanpasbare overzichtspresentatie, e-mailsjabloon, onboardinghandleiding voor indirecte CSP-resellers en meer om u te helpen de acceptatie voor uw wederverkopers op schaal te stimuleren.
+
+- [CSP Partner Community-gebeurtenissen die](https://globalpbocomm.eventbuilder.com/GlobalCSP) worden gehost door Microsoft Business Operations.  Neem deel aan de verschillende sessies om de basisbeginselen van CSP (basisprincipes van CSP) te leren of blijf up-to-date en stel vragen over Software in CSP (Q&A Sessions).
+
+- (Binnenkort) Trainingssessie voor indirecte CSP-resellers die worden gehost door Microsoft Business Operations.
+
+#### <a name="open-license-resellers"></a>Licentie-resellers openen
+
+- Als uw organisatie momenteel niet is ingeschreven bij het CSP-programma, neem dan contact op met uw distributeur voor informatie over hoe u aan de slag kunt gaan. Maak hier verbinding met een indirecte [provider.](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)
+
+- Als uw organisatie al is ingeschreven bij het CSP-programma, kunt u hier meer informatie vinden over permanente software in [CSP.](https://partner.microsoft.com/resources/collection/software-in-csp)
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen.
+
+________________
+## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Nu live: Algemene handleiding voor gereedheid voor promotie
 
 ### <a name="categories"></a>Categorieën
 
@@ -52,16 +120,16 @@ Koppelingen naar deze handleiding worden ook opgenomen in de volgende verzamelin
 
 - [Partner-nieuwsbrieven,](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)zoals maandelijkse update voor CSP
 
-Als een maandelijkse herinnering publiceren we ook een Partner Center aankondiging met elk nieuw probleem van de algemene handleiding voor promotie-gereedheid.
+Als maandelijkse herinnering publiceren we ook een Partner Center aankondiging met elk nieuw probleem van de algemene handleiding voor promotie-gereedheid.
 
 ### <a name="next-steps"></a>Volgende stappen
 
 Aan het begin van elke maand vindt u de meest recente algemene handleiding voor [gereedheid](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) voor promotie in de [resourcegalerie van Operations Readiness.](https://partner.microsoft.com/resources)
 
-Deel deze informatie met de juiste contactpersonen in uw organisatie en laat ons weten hoe nuttig de handleiding is via de pagina 'Was deze pagina nuttig?' aan het einde van elke pagina.
+Deel deze informatie met de juiste contactpersonen in uw organisaties en laat ons weten hoe nuttig de handleiding is via de pagina 'Was deze pagina nuttig?' aan het einde van elke pagina.
 
 ________________
-## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Update en Cloud Solution Provider (CSP) voor de community van april
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Update en Cloud Solution Provider van de CSP-community van april
 
 ### <a name="categories"></a>Categorieën
 
@@ -70,7 +138,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Resources van de CSP-community zijn op aanvraag beschikbaar en maandelijks bijgewerkt om u op de hoogte te houden en u voor te bereiden op veranderingen in het CSP-programma.
+Resources van de CSP-community zijn op aanvraag beschikbaar en worden maandelijks bijgewerkt om u op de hoogte te houden en u voor te bereiden op veranderingen in het CSP-programma.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -96,7 +164,7 @@ In de [CSP-communityverzameling](https://partner.microsoft.com/resources/collect
 
 - [CSP start updatebronnen met](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) eenvoudig te gebruiken inhoud over belangrijke operationele wijzigingen.
 
-- [Vernieuwingen en herinneringen over](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf) belangrijke CSP-onderwerpen die interesse en query's ontvangen.
+- [Vernieuwingen en herinneringen over belangrijke](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf) CSP-onderwerpen die interesse en query's ontvangen.
 
 #### <a name="csp-community-call-qas"></a>CSP Community Call Q&As
 
@@ -148,7 +216,7 @@ Voor vragen met betrekking tot deze melding kunt u contact opnemen [met Partner 
 
 - April: Herinnering aan aanstaande afschaffing van GET-kwalificatie 
 - Februari: Tijdlijnen bijgewerkt voor afschaffing van GET-& PUT-kwalificaties
-- Januari: Herinnering aan aanstaande afschaffingen van GET-& PUT-kwalificaties
+- Januari: Herinnering aan toekomstige afschaffingen van GET-& PUT-kwalificaties
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nieuwe indeling voor de nieuwe PDF-factuur voor commerce in CSP
@@ -178,7 +246,7 @@ Alle credit-rebill-aanvragen die worden gedaan nadat de factuurindeling is bijge
 
 Deze update biedt de volgende verbeteringen in de factureringservaring voor partners:
 
-- Gereduceerde factuurgrootte terwijl kritieke gegevens behouden blijven
+- Gereduceerde factuurgrootte met behoud van kritieke gegevens
 
 - Afstemming van de indeling op de industriestandaarden voor compacte en gebruiksvriendelijke facturen 
 
@@ -206,7 +274,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Als onderdeel van onze toezegging om partners en klanten te helpen hun bedrijf te runnen op basis van een vertrouwensrelatie, vragen we aanvullende klantgegevens aan, met ingang van 25 maart 2021.
+Als onderdeel van onze toezegging om partners en klanten te helpen hun bedrijf te runnen op basis van vertrouwen, vragen we aanvullende klantgegevens aan, met ingang van 25 maart 2021.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -238,7 +306,7 @@ Partners die aan de criteria voldoen, moeten de bedrijfsregistratie-id (ook wel 
 
 Houd er rekening mee dat wanneer u uw bedrijfsregistratie-id toevoegt, u uw zakelijke btw-id moet gebruiken en niet de persoonlijke id van de klant.
 
-Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben in november 2020 al een eerdere release gehad.
+Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben al een eerdere release in november 2020 in gebruik.
 
 - Armenië
 - Azerbeidzjan
@@ -256,8 +324,8 @@ Partners met klanten in de rest van de wereld kunnen eind maart 2021 de bedrijfs
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de technische documentatie en veelgestelde vragen in de verzameling [toegewezen partners](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
-- Bereid u voor op het opnemen van de wijzigingen Partner Center api en webgebruikerservaring. API's/SDK's zijn beschikbaar voor testen.
+- Bekijk de technische documentatie en veelgestelde vragen in de speciale [partnerverzameling](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
+- Bereid u voor op het opnemen van de wijzigingen met behulp Partner Center API en webgebruikerservaring. API/SDK's zijn beschikbaar om te testen.
 - Zorg ervoor dat u de aanvullende gegevens indient bij het onboarden van nieuwe klanten of het wijzigen van bestaande klantgegevens.
 - Als u een CPV-oplossing (Panel Vendor) gebruikt, raadpleegt u uw CPV.
 
