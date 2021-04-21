@@ -1,6 +1,6 @@
 ---
 title: Aankondigingen van april 2021
-description: Aankondigingen van april 2021 voor Microsoft Partner Center met inbegrip van nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
+description: Aankondigingen van april 2021 voor Microsoft Partner Center nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,17 +10,61 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728926"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823381"
 ---
 # <a name="april-2021-announcements"></a>Aankondigingen van april 2021
 
 Deze pagina bevat de aankondigingen voor Microsoft Partner Center voor april 2021.
+
+________________
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Cloud Solution Provider (CSP)-beleid voor de retourperiode van software en de vervaldatum van de downloadkoppeling
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-04-21
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Er zijn wijzigingen in het beleid voor de retourperiode van de CSP-software en het verlopen van de downloadkoppeling.
+
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
+
+Partners die aanbiedingen voor permanente software of softwareabonnementen in CSP af te betalen
+
+### <a name="details"></a>Details
+
+Houd rekening met de volgende belangrijke meldingen met betrekking tot continue software- en softwareabonnementen via Partner Center:
+
+#### <a name="software-return-period-policy"></a>Beleid voor retourperiode van software
+
+Vanaf 1 juni 2021 verandert de retourperiode voor softwareaanbiedingen in CSP, zoals vermeld in de Microsoft Partner-overeenkomst (MPA), van 60 dagen vanaf de orderdatum in 30 dagen vanaf de orderdatum.
+
+Nadat een order voor een softwareaanbieding is verzonden, hebben partners 30 dagen vanaf de orderdatum de tijd om wijzigingen in een dergelijke volgorde in te dienen:
+
+- Elke doorlopende softwarelicentie die binnen de retourperiode van 30 dagen wordt geretourneerd, ontvangt een volledig tegoed van de betaalde aankoopprijs.
+
+- Elk softwareabonnementsproduct dat binnen de retourperiode van 30 dagen wordt geretourneerd, ontvangt een prorated tegoed van de betaalde aankoopprijs.
+
+Dit bericht is een vervolg op onze e-mailberichten die in december 2020 en april 2021 naar alle CSP-partners zijn verzonden met betrekking tot de retourperiode en andere updates voor de MPA. Raadpleeg deze kennisgevingen voor meer informatie over wijzigingen die van invloed zijn op de MPA.
+
+#### <a name="software-download-link-expiry"></a>Het downloaden van software verloopt
+
+Vanaf 3 juni 2021 hebben de software downloadkoppelingen voor continue software- en softwareabonnementproductaankopen via Partner Center een vervaldatum van vijf dagen vanaf de eerste download. De verloopperiode is van toepassing op alle aankopen vóór 3 juni 2021, en op of na 3 juni 2021.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de [CSP-retourperiode en veelgestelde](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf)vragen over het verlopen van de downloadkoppeling en informeer alle juiste teams binnen uw organisatie over deze wijzigingen:
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante Yammer-community's voor vragen over deze aanbiedingen.
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Licentieprogramma openen: resellers overstappen naar het Cloud Solution Provider (CSP)-programma
@@ -52,11 +96,11 @@ De overgang van permanente software naar het CSP-programma in de nieuwe commerce
 
 ##### <a name="csp"></a>CSP
 
-- 1 juli: Permanent beschikbare softwarelicenties voor klanten in de publieke sector
+- 1 juli: Permanente softwarelicenties beschikbaar voor klanten in de publieke sector
 
-- 7 juli: Visual Studio Pro- en Get Genuine Windows Agreement-softwarelicenties beschikbaar voor alle segmenten
+- 7 juli: Visual Studio Pro- en Get Genuine Windows Agreement-doorlopende softwarelicenties beschikbaar voor alle segmenten
 
-##### <a name="open-value"></a>Open waarde
+##### <a name="open-value"></a>Open Value
 
 - 1 juli: Aanvullende SKU's die beschikbaar zijn in het Open Value-programma voor onderwijs en non-profitorganisaties, en bieden vergelijkbare aanbiedingen als het Open License-programma
 
@@ -66,7 +110,7 @@ De overgang van permanente software naar het CSP-programma in de nieuwe commerce
 
 #### <a name="january-2022"></a>Januari 2022
 
-- 1 januari: Er kunnen geen nieuwe aankopen of verlengingen worden gedaan via het open license-programma
+- 1 januari: er kunnen geen nieuwe aankopen of verlengingen worden gedaan via het Open License-programma
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -100,7 +144,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Gereedheid starten heeft een nieuwe algemene handleiding voor [gereedheid voor promotie gepubliceerd](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) in de operations-gereedheid-resourcegalerie. Deze handleiding biedt een geconsolideerde weergave van alle actieve [wereldwijde promoties.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+Gereedheid starten heeft een nieuwe algemene [handleiding voor gereedheid voor promotie gepubliceerd](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) in de operations readiness-resourcegalerie. Deze handleiding biedt een geconsolideerde weergave van alle actieve [wereldwijde promoties.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -142,7 +186,7 @@ Resources van de CSP-community zijn op aanvraag beschikbaar en worden maandelijk
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-CSP-partners voor directe factuur en indirecte providers
+Directe CSP-factuurpartners en indirecte providers
 
 ### <a name="details"></a>Details
 
@@ -182,7 +226,7 @@ Om ervoor te zorgen dat u het meeste uit de Community Call Q&A kunt halen, bekij
 
 De maandelijkse CSP Community Call Q&A is de beste plek voor vragen met betrekking tot wijzigingen in het CSP-programma. Bekijk elke maand het materiaal en dien uw vragen van tevoren in, zodat we de sessie kunnen besteden aan de onderwerpen die voor u het belangrijkst zijn.
 
-Neem contact op met ondersteuning voor [meer informatie.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)
+Neem contact op met de [ondersteuning voor meer informatie.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)
 
 ________________
 ## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Herinnering: Afschaffing van GET-kwalificatie op 4 mei 2021
@@ -236,17 +280,17 @@ Partners die het CSP-programma gebruiken
 
 ### <a name="details"></a>Details
 
-Vanaf mei 2021 introduceert Microsoft een nieuwe indeling voor de nieuwe PDF-factuur voor commerce in het CSP-programma om factureringsgegevens weer te geven op productdetails in plaats van SKU-beschrijving. Met deze nieuwe update aggregeren we de regelitems op producttype terwijl elk product op een afzonderlijke regel wordt weergegeven.
+Vanaf mei 2021 introduceert Microsoft een nieuwe indeling voor de nieuwe PDF-factuur voor commerce in het CSP-programma om factureringsgegevens per productdetails weer te geven in plaats van een SKU-beschrijving. Met deze nieuwe update aggregeren we de regelitems op producttype terwijl elk product op een afzonderlijke regel wordt weergegeven.
 
 Partners zullen deze wijziging van kracht zien in hun factuur van mei voor de factureringsperiode tussen 1 april 2021 en 30 april 2021. De betrokken aanbiedingen zijn Microsoft Azure gereserveerde instantie, Azure-abonnementen (Azure-abonnement) en Marketplace.
 
 Alle credit-rebill-aanvragen die worden gedaan nadat de factuurindeling is bijgewerkt, worden gegenereerd in de nieuwe indeling.
 
-#### <a name="partner-benefits"></a>Partnervoordelen
+#### <a name="partner-benefits"></a>Voordelen van partners
 
 Deze update biedt de volgende verbeteringen in de factureringservaring voor partners:
 
-- Gereduceerde factuurgrootte met behoud van kritieke gegevens
+- Gereduceerde factuurgrootte terwijl kritieke gegevens behouden blijven
 
 - Afstemming van de indeling op de industriestandaarden voor compacte en gebruiksvriendelijke facturen 
 
@@ -333,7 +377,7 @@ Partners met klanten in de rest van de wereld kunnen eind maart 2021 de bedrijfs
 
 Neem contact op met uw belastingadviseur of lokale belasting kantoor als u vragen hebt met betrekking tot de registratie-id van het bedrijf (ook wel INN of TIN genoemd). Microsoft kan geen richtlijnen geven over belastingzaken.
 
-Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u een [serviceaanvraag.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u een [serviceaanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ## <a name="view-this-months-product-launches-and-offers"></a><a name="1"></a>Productlanceringen en aanbiedingen van deze maand weergeven
 
