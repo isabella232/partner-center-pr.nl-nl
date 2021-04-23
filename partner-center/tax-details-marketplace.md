@@ -1,17 +1,17 @@
 ---
 title: Belastinggegevens voor de commerciële marketplace van Microsoft
-description: Meer informatie over belastingoverwegingen voor prijsselectie, gevolgen voor uitbetalingen en belastingverantwoordelijkheid voor uw distributieregio's/landen.
+description: Meer informatie over belastingoverwegingen voor prijsselectie, gevolgen voor uitbetalingen en belastingverantwoordelijkheid voor uw landen/regio's van distributie.
 ms.topic: conceptual
 ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: fcd3905777cd69665158ebff73f115bf6dd00b9d
-ms.sourcegitcommit: 1f090ea858b25d1d0664d6e94cb4a6898e91dd85
+ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
+ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107715915"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "107894057"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Belastinggegevens voor uitgevers van commerciële marketplace
 
@@ -19,11 +19,11 @@ ms.locfileid: "107715915"
 
 - Globale beheerder
 
-Deze pagina bevat de belastingverantwoordelijkheden en belastingoverwegingen voor uitgevers van commerciële marketplaces (uitgevers) en ontwikkelaars van consumentenmarktplaats in verband met eindaankopen van uitgevers-/ontwikkelaarsproducten die zijn ondertekend met respectievelijk de [Microsoft Azure Marketplace Publisher-overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560) en de [Overeenkomst voor app-ontwikkelaars.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)  De onderstaande informatie is niet bedoeld ter vervanging van de voorwaarden in de Microsoft Publisher-overeenkomst en de Overeenkomst voor app-ontwikkelaars.  Tenzij anders vermeld, is de onderstaande informatie van toepassing op uitgevers van commerciële marketplaces en ontwikkelaars van consumentenmarktplaats die hun producten/aanbiedingen beschikbaar maken voor verkoop via Microsoft Marketplaces. 
+Deze pagina bevat de belastingverantwoordelijkheden en belastingoverwegingen voor uitgevers van commerciële marketplaces (uitgevers) en ontwikkelaars van consumentenmarktplaats in verband met eindaankopen van uitgevers-/ontwikkelaarsproducten die zijn ondertekend met respectievelijk de [Microsoft Azure Marketplace Publisher-overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560) en de [Overeenkomst voor app-ontwikkelaars.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)  De onderstaande informatie is een aanvulling op en niet bedoeld ter vervanging van de voorwaarden in de Microsoft Publisher-overeenkomst en de Overeenkomst voor app-ontwikkelaars.  Tenzij anders vermeld, is de onderstaande informatie van toepassing op uitgevers van commerciële marketplaces en ontwikkelaars van consumentenmarktplaats die hun producten/aanbiedingen beschikbaar maken voor verkoop via Microsoft Marketplaces. 
 
 ## <a name="end-customer-taxation"></a>Belasting van eindklant
 
-**Elk** van de verantwoordelijkheden van Microsoft en uitgevers/ontwikkelaars voor verkoop, gebruik, goederen en services, toegevoegde waarde of vergelijkbare belastingen, indien van toepassing, op eindklantverkoop (eindklantbelasting) is afhankelijk van het land waar uitgevers/ontwikkelaars ervoor kiezen om producten/aanbiedingen beschikbaar te maken voor verkoop aan eindklanten via de Microsoft Marketplace(s). In de onderstaande tabel staan de omstandigheden en verantwoordelijkheid voor eindklantbelasting in landen met verkopen die in aanmerking komen via Microsoft Marketplace(s).  De onderstaande informatie kan worden gewijzigd en uitgevers/ontwikkelaars zijn verantwoordelijk voor het controleren van deze pagina op actuele, nauwkeurige informatie.
+**Elk** van de verantwoordelijkheden van Microsoft en uitgevers/ontwikkelaars voor verkoop, gebruik, goederen en services, toegevoegde waarde of vergelijkbare belastingen, indien van toepassing, op eindklantverkoop (eindklantbelasting) is afhankelijk van het land waar uitgevers/ontwikkelaars ervoor kiezen om producten/aanbiedingen beschikbaar te maken voor verkoop aan eindklanten via de Microsoft Marketplace(s). De onderstaande tabel bevat de omstandigheden en verantwoordelijkheid voor eindklantbelasting in landen met verkopen die in aanmerking komen via Microsoft Marketplace(s).  De onderstaande informatie kan worden gewijzigd en uitgevers/ontwikkelaars zijn verantwoordelijk voor het controleren van deze pagina op actuele, nauwkeurige informatie.
 
 In **door uitgever/ontwikkelaar beheerde landen** fungeert Microsoft als een agent of commissionaire (indien van toepassing) van Uitgever/Ontwikkelaar. Uitgevers/ontwikkelaars erkennen en zijn het ermee eens dat uitgevers/ontwikkelaars de enige verantwoordelijkheid hebben om alle naleving te bepalen die vereist is voor en om eindklantbelasting te beheren, inclusief maar niet beperkt tot registratie, belastingberekening, belastingverzameling, btw-overboeking, validatie van de bedrijfsstatus van klanten en het leveren van belastingfacturen aan klanten. Uitgevers/ontwikkelaars erkennen dat Microsoft, met betrekking tot een verkoop in een door uitgever/ontwikkelaar beheerd land, momenteel mogelijk niet de transactiegegevens kan verstrekken die uitgevers/ontwikkelaars nodig hebben om klanten belastingfacturen te verstrekken. 
 
@@ -31,24 +31,24 @@ In **door Microsoft beheerde landen** fungeert Microsoft als agent van de uitgev
 
 Microsoft garandeert niet dat de acties van Microsoft volledig voldoen aan de verplichtingen van uitgever/ontwikkelaar in door Microsoft beheerde landen.  Voor alle door Microsoft beheerde landen raadt Microsoft uitgevers/ontwikkelaars sterk aan om samen met hun eigen belastingadviseurs te werken om na te gaan of de door Microsoft beheerde belasting voldoende voldoet aan de nalevingsvereisten van uitgevers/ontwikkelaars. Dit is met name essentieel voor alle door Microsoft beheerde landen van waaruit uitgevers/ontwikkelaars hun producten/aanbiedingen verkopen.  Microsoft fungeert als een agent van Uitgever/Ontwikkelaar in door Microsoft beheerde landen.
 
-In **Reseller-landen** fungeert Microsoft als een reseller, in plaats van als de agent van uitgever/ontwikkelaar, bij het beschikbaar maken van uitgevers-/ontwikkelaarsproducten/-aanbiedingen voor verkoop aan eindklanten via de Microsoft Marketplace(s).  Uitgevers/ontwikkelaars zijn verantwoordelijk voor de verkoop, het gebruik, goederen en services, eventuele toegevoegde waarde of vergelijkbare belastingen voor de verkoop van producten/aanbiedingen aan Microsoft en Microsoft is verantwoordelijk voor alle eindklantbelasting voor eindklanten.
+In **Reseller-landen** fungeert Microsoft als een reseller, in plaats van als agent van uitgever/ontwikkelaar, bij het beschikbaar maken van uitgevers-/ontwikkelaarsproducten/-aanbiedingen voor verkoop aan eindklanten via de Microsoft Marketplace(s).  Uitgevers/ontwikkelaars zijn verantwoordelijk voor de verkoop, het gebruik, goederen en services, eventuele toegevoegde waarde of vergelijkbare belastingen voor de verkoop van producten/aanbiedingen aan Microsoft en Microsoft is verantwoordelijk voor alle eindklantbelasting voor eindklanten.
 
 
-### <a name="publisherdeveloper-managed-countries"></a>Door uitgever/ontwikkelaar beheerde landen: 
+### <a name="publisherdeveloper-managed-countries"></a>Uitgever/door ontwikkelaars beheerde landen: 
 
 |   |    |    |   |
 |---------------|:------------------|:--------|:----------|
 |Amerikaanse Maagdeneilanden|Congo (DRC)|Jersey|Norfolk|
-|Afghanistan|Cookeilanden|Jordanië|Oekraïne|
-|Albanië|Costa Rica|Kazachstan|Vanuatu|
-|Algerije|Cote d'Ivore|Kenia|Vaticaanstad|
-|Amerikaans-Samoa|Curaçao|Kiribati|Venezuela|
-|Andorra|Dübouti|Koeweit|Vietnam|
-|Angola|Dominica|Kirgistan|Wallis & Walluna|
-|Anguilla|Dominicaanse Republiek|Laos|Jemen|
-|Antarctica|Ecuador|Libanon|Zambia|
-|Antigua & Barbuda|Egypte|Lesotho|Uruguay||Noord-Macedonië|
-|Aruba|El Salvador|Liberia|
+|Afghanistan|Cookeilanden|Jordanië|Noord-Macedonië|
+|Albanië|Costa Rica|Kazachstan|Oekraïne|
+|Algerije|Cote d'Ivore|Kenia|Vanuatu|
+|Amerikaans-Samoa|Curaçao|Kiribati|Vaticaanstad|
+|Andorra|Dübouti|Koeweit|Venezuela|
+|Angola|Dominica|Kirgistan|Vietnam|
+|Anguilla|Dominicaanse Republiek|Laos|Wallis & Walluna|
+|Antarctica|Ecuador|Libanon|Jemen|
+|Antigua & Barbuda|Egypte|Lesotho|Zambia|
+|Aruba|El Salvador|Liberia|Uruguay|
 |Azerbeidzjan|Equatoriaal-Guinea|Libië|
 |Bangladesh|Eritrea|Macao |
 |Barbados|Ethiopië|Madagaskar|
