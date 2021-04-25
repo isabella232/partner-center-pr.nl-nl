@@ -1,68 +1,67 @@
 ---
-title: Een nieuwe klant record toevoegen
+title: Een nieuwe klantrecord toevoegen
 ms.topic: how-to
 ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het toevoegen van een nieuwe klant record in Partner Center. Vervolgens kunt u de abonnementen van klanten verkopen, facturering beheren of klanten ondersteuning bieden.
+description: Meer informatie over het toevoegen van een nieuwe klantrecord in Partner Center. Vervolgens kunt u de klantabonnementen verkopen, facturering beheren of klantondersteuning bieden.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
+ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474254"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "107941772"
 ---
-# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Een nieuwe klant record toevoegen in het partner centrum
-
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Een nieuwe klantrecord toevoegen in Partner Center
 
 **Juiste rollen**
 
 - Globale beheerder
-- Beheerder van gebruikers beheer
-- Beheer agent
-- Verkoop agent
+- Beheerder van gebruikersbeheer
+- Beheeragent
+- Verkoopagent
 
-In dit artikel wordt beschreven hoe u een nieuwe klant kunt toevoegen aan uw lijst met klanten in partner centrum. Deze stappen zijn vereist voor het verkopen van abonnementen, het beheren van facturering of het bieden van ondersteuning aan een klant.
+In dit artikel wordt beschreven hoe u een nieuwe klant toevoegt aan uw lijst met klanten in Partner Center. Deze stappen zijn vereist voordat u abonnementen kunt verkopen, facturering kunt beheren of ondersteuning kunt bieden aan een klant.
 
 >[!NOTE]
->Voor bestaande klanten, met inbegrip van klanten die al klant records hebben in het partner centrum via een [multi kanaal](multichannel.md) of een [multipartner](multipartner.md) scenario, moet u [een relatie met hen aanvragen](request-a-relationship-with-a-customer.md), in plaats van de stappen hier te volgen.
+>Voor bestaande klanten, inclusief degenen die al klantrecords [](multichannel.md) in Partner Center hebben via een [](request-a-relationship-with-a-customer.md) [scenario](multipartner.md) met meerdere kanalen of meerdere partnerscenario's, moet u een relatie met hen aanvragen in plaats van de stappen hier te volgen.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Een nieuwe klant toevoegen in het Partner Center
 
-1. Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens **klant toevoegen**.
+1. Selecteer **Klanten** in Partner Center menu en selecteer vervolgens **Klant toevoegen.**
 
-2. Voer op de pagina **account gegevens** de gegevens van de klant en de primaire contact gegevens in. Controleer ook of de klant de nieuwste [micro soft-klant overeenkomst](agreements.md)heeft geaccepteerd en ondertekend.
+2. Voer op **de pagina Accountgegevens** de details en primaire contactgegevens van de klant in. Controleer ook of de klant de meest recente [Microsoft-klantovereenkomst.](agreements.md)
 
    >[!NOTE]
    >
-   >Als u de nauw keurigheid tijdens klantverificatie wilt garanderen, moet u het volgende doen:
+   >Zorg ervoor dat u het volgende klantverificatie nauwkeurigheid tijdens de klantverificatie:
    >
-   >- Geef de naam van de juiste legaal/officiële op zoals deze wordt weer gegeven in de officiële documenten
+   >- Gebruik exacte juridische/officiële naam zoals deze wordt weergegeven in de officiële documenten
    >- Vermijd het gebruik van acroniemen of korte formulieren
-   >- Geen test namen gebruiken
-   >- Geef het volledige, exacte adres (locatie gegevens, plaats, provincie, land en post code) op
+   >- Geen testnamen gebruiken
+   >- Geef het volledige, exacte adres op (locatiedetails, plaats, staat, land en postcode)
 
    >[!IMPORTANT]
-   > Op 1 oktober 2019 heeft micro soft de **klant overeenkomst van micro** Soft geïntroduceerd voor het CSP-programma om de Microsoft Cloud overeenkomst te vervangen. Meer informatie over de [micro soft-klant overeenkomst en het bevestigen van toestemming](confirm-customer-agreement.md)
+   > Op 1 oktober 2019 heeft  Microsoft de Microsoft-klantovereenkomst in het CSP-programma geïntroduceerd ter vervanging van de Microsoft Cloud-overeenkomst. Meer informatie over de [Microsoft-klantovereenkomst en hoe u toestemming kunt bevestigen](confirm-customer-agreement.md)
   
-3. Als u een indirecte provider bent, selecteert u de indirecte wederverkoper die u aan de abonnementen van deze klant wilt koppelen in de lijst.
+3. Als u een indirecte provider bent, selecteert u de indirecte reseller die u wilt koppelen aan de abonnementen van deze klant in de lijst.
 
-4. Selecteer **volgende: abonnementen** wanneer u klaar bent met het invoeren van alle vereiste gegevens.
+4. Selecteer **Volgende: Abonnementen wanneer** u klaar bent met het invoeren van alle vereiste gegevens.
 
-5. Op de pagina **abonnementen** selecteert u de aanbieding (en) die uw klant wil kopen van u, voert u het aantal licenties in en selecteert u **volgende: controleren**.
+5. Selecteer op **de pagina** Abonnementen de aanbieding(en) die uw klant van u wil kopen, voer het aantal licenties in en selecteer vervolgens **Volgende: Controleren.**
 
-6. Controleer uw vermeldingen op de pagina **controleren** op nauw keurigheid en selecteer vervolgens **verzenden** als de gegevens correct zijn.
+6. Controleer op **de** pagina Controleren uw vermeldingen op nauwkeurigheid en selecteer verzenden **als** de informatie juist is.
 
    >[!NOTE]
-   >Als u de details van de klant wilt wijzigen, selecteert u **bijwerken** in het gedeelte **account info** . Als u de aanbiedingen die u hebt geselecteerd, wilt wijzigen, selecteert u **bijwerken** in het gedeelte **abonnementen** .
+   >Als u klantgegevens wilt wijzigen, selecteert u **Bijwerken** in de **sectie Accountgegevens.** Als u de geselecteerde aanbiedingen wilt wijzigen, selecteert u **Bijwerken** in **de sectie** Abonnementen.
 
-7. Selecteer **gereed** wanneer u klaar bent met het toevoegen van de klant gegevens en de vereiste abonnementen hebt gekocht.
+7. Selecteer **Gereed** wanneer u klaar bent met het toevoegen van de klantgegevens en de vereiste abonnementen hebt aangeschaft.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie [partner aanbiedingen in het Cloud Solution Provider-programma](csp-offers.md) voor meer informatie over wat u kunt verkopen aan klanten via het Cloud Solution Provider-programma.
+- Zie Partneraanbiedingen in het Cloud Solution Provider-programma voor meer informatie over wat u aan klanten kunt verkopen via het [Cloud Solution Provider-programma](csp-offers.md)
 
