@@ -1,6 +1,6 @@
 ---
-title: Enkele Skype voor bedrijven-abonnementen migreren
-description: Meer informatie over hoe en wanneer bepaalde klanten worden gemigreerd met verstrijking van abonnementen van Skype voor bedrijven online abonnement 1 op nieuwe versies van Office 365.
+title: Enkele Skype voor Bedrijven-abonnementen migreren
+description: Ontdek hoe en wanneer u bepaalde klanten met verlopen Skype voor Bedrijven Online-abonnement 1 migreert naar nieuwe Office 365-versies.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,70 +9,79 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028414"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002855"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Abonnementen op Skype voor Bedrijven Online Plan 1 migreren naar nieuwere versie van Office 365)
 
-Het Skype voor bedrijven online-abonnement 1 wordt buiten gebruik gesteld, vanaf 1 augustus 2018. Na deze datum kunnen klanten geen nieuwe abonnementen van Skype voor bedrijven-abonnement 1 meer kopen en worden bestaande abonnementen niet automatisch vernieuwd wanneer ze verlopen en bieden ze geen verlengings optie. Op de detail pagina van het abonnement is de abonnements status Skype voor bedrijven online abonnement 1 gewijzigd in ' verloopt op [datum] ' van ' automatisch relateren op [date] '.  
+**Juiste rollen**
 
-Om ervoor te zorgen dat klanten zich kunnen voordoen, moet u klanten overstappen met het verstrijken van abonnementen van Skype voor bedrijven online abonnement 1 naar een ondersteunde SKU-optie, hieronder weer gegeven. U wordt aangeraden klanten te verplaatsen naar nieuwe abonnementen vóór de jaarlijkse eind datum van het abonnement om eventuele service storingen voor klanten te voor komen. 
+- Verkoopagent
+
+Het Skype voor Bedrijven Online-abonnement 1 wordt met ingang van 1 augustus 2018 ingetrokken. Na die datum kunnen klanten geen nieuwe abonnementen meer aanschaffen voor Skype voor Bedrijven-abonnement 1. Bestaande abonnementen worden niet automatisch verlengd wanneer ze verlopen en bieden geen verlengingsoptie meer. Op de detailpagina van het abonnement is de abonnementsstatus van Skype voor Bedrijven Online-abonnement 1 gewijzigd in 'Verloopt op [datum]' van 'Automatisch verlengen op [datum]'.  
+
+Om de continuïteit voor klanten te waarborgen, moet u klanten met verlopen Skype voor Bedrijven Online Plan 1-abonnementen overstappen naar een ondersteunde SKU-optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen. 
 
 >[!NOTE]
->Zowel Skype voor bedrijven online abonnement 1 voor commerciële als Amerikaanse Sku's worden buiten gebruik gesteld.
+>Zowel commerciële SKU's voor Skype voor Bedrijven Online Plan 1 als overheids-SKU's worden niet meer gebruikt.
 
-Als u de API (topof partner centrum) gebruikt, kunt u verlopen abonnementen vinden door de eind datum van het abonnement te evalueren samen met de eigenschap automatisch verlengen = false. De abonnementen Skype voor bedrijven online abonnement 1 worden ingesteld op automatisch verlengen = False op 1 september 2018. U kunt klanten op elk gewenst moment verplaatsen naar een nieuw abonnement. 
+Als u de API (ZOWEL VOOR als Partner Center) gebruikt, gaat u naar verlopende abonnementen door de einddatum van het abonnement samen met de eigenschap automatisch verlengen = False te evalueren. De abonnementen op Skype voor Bedrijven Online Abonnement 1 worden op 1 september 2018 ingesteld op automatisch verlengen=Onwaar. U kunt klanten op elk moment verplaatsen naar een nieuw abonnement. 
 
-## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Vervangings plannen voor Skype voor bedrijven online-abonnement 1
+## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Vervangingsplannen voor Skype voor Bedrijven Online Plan 1
 
-Met de nieuwe plannen kunnen uw klanten profiteren van nieuwere functies en functionaliteit in Office 365. Prijs informatie vindt u in de matrix prijs lijst en aanbiedings lijst in partner centrum. 
+Met de nieuwe abonnementen kunnen uw klanten profiteren van nieuwere functies en functionaliteit in Office 365. Prijsdetails vindt u in de matrix met prijzen en aanbiedingslijst in Partner Center. 
 
-- Optie 1: Office 365 Enter prise F1
+- Optie 1: Office 365 Enterprise F1
 - Optie 2: Microsoft 365 Enterprise F1
-- Optie 3: andere Office 365-abonnementen
+- Optie 3: Andere Office 365-abonnementen
 
 |**Functie**    |**Optie 1**   |**Optie 2**   |**Optie 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Alle functies in Skype voor bedrijven online-abonnement 1 ophalen|Ja   |Ja   |Ja   |
-|CHAT en aanwezigheid |Ja   |Ja   |Ja   |
-|Peer-to-peer-audio en video via IP|Ja   |Ja   |Ja   
-|Vergaderingen bijwonen als geverifieerde gebruiker| Ja   |Ja   |Ja   |
+|Alle functies downloaden die zijn opgenomen in Skype voor Bedrijven Online Plan 1|Ja   |Ja   |Ja   |
+|IM en aanwezigheid |Ja   |Ja   |Ja   |
+|Peer-to-peer audio en video via IP|Ja   |Ja   |Ja   
+|Deelnemen aan vergaderingen als geverifieerde gebruiker| Ja   |Ja   |Ja   |
 
-## <a name="transition-customers-to-new-product-plans"></a>Klanten overstappen naar nieuwe product abonnementen
+## <a name="transition-customers-to-new-product-plans"></a>Klanten overstappen op nieuwe productplannen
 
-Micro soft biedt voortdurend nieuwe producten en services aan onze partners. In dergelijke gevallen moet u mogelijk klanten upgraden naar nieuwe services of hun abonnementen migreren vanuit Sku's die uiteindelijk worden afgesloten. Voor het migreren van klanten uit buiten gebruik gestelde Sku's naar nieuwere versies moeten de volgende stappen worden uitgevoerd:
+Microsoft biedt voortdurend nieuwe producten en services aan onze partners. In dergelijke gevallen moet u mogelijk klanten upgraden naar nieuwe services of hun abonnementen migreren van SKU's die uiteindelijk worden afgesloten. Voor het migreren van klanten van buiten gebruik stellende SKU's naar nieuwere SKU's zijn de volgende stappen vereist:
 
 - Het nieuwe abonnement kopen
-- Huidige gebruikers licenties opnieuw toewijzen
+- Huidige gebruikerslicenties opnieuw toewijzen
 - Oud abonnement annuleren
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Uw klanten migreren naar nieuwe abonnementen
 
-1. Als u het nieuwe abonnement wilt kopen, selecteert u in het menu van het **partner centrum** **klanten**, selecteert u de klant die u wilt verplaatsen en selecteert u vervolgens **abonnementen toevoegen**.
+1. Als u het nieuwe abonnement wilt kopen, selecteert u in Partner Center **menu** **Klanten,** selecteert u de klant die u wilt verplaatsen en selecteert u vervolgens **Abonnementen toevoegen.**
 
-2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer vervolgens **verzenden**. 
+2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **Verzenden.** 
 
-Uw klant moet nu over zowel oude als nieuwe abonnementen beschikken, het oude abonnement voor Skype voor bedrijven online plan 1 en het nieuwe doel abonnement, bijvoorbeeld optie 1-Office 365 Enter prise F1.
+Uw klant moet nu zowel oude als nieuwe abonnementen, het oude Skype voor Bedrijven Online-abonnement 1 en het nieuwe doelabonnement hebben, bijvoorbeeld Optie 1 - Office 365 Enterprise F1.
 
-3. Als u de gebruikers licenties van de klant opnieuw wilt toewijzen, selecteert u in het menu van het **partner centrum** **klanten**, selecteert u de klant die u wilt verplaatsen en selecteert u vervolgens **gebruikers en licenties**. De pagina gebruikers en licenties van de klant wordt geopend.
+3. Als u de licenties van de gebruikers van de klant opnieuw wilt toewijzen, selecteert u klanten in het **menu Partner Center,** selecteert u de klant die u verplaatst en selecteert u vervolgens Gebruikers **en licenties.** De pagina Gebruikers en licenties van de klant wordt geopend.
 
-4. Als u de gebruikers licentie opnieuw wilt toewijzen, selecteert u de gebruiker die u opnieuw wilt toewijzen en selecteert u vervolgens **licenties beheren.**
+4. Als u de gebruikerslicentie opnieuw wilt toewijzen, selecteert u de gebruiker die u opnieuw wilt toewijzen en selecteert u **vervolgens Licenties beheren.**
 
-5. Op de pagina **licenties beheren** schakelt u het selectie vakje licentie voor Skype voor bedrijven online-abonnement 1 uit en selecteert u een nieuw service abonnement voor het abonnement waarnaar de klant wordt verplaatst.
+5. Schakel op **de pagina** Licenties beheren het selectievakje Skype voor Bedrijven Online Abonnement 1 uit en selecteer een nieuw serviceabonnement voor het abonnement waar de klant naar overstapt.
 
-6. Selecteer **Indienen**. Een bevestigings pagina bevat een lijst met de nieuwe licentie toewijzingen. Herhaal dit hetzelfde proces voor andere gebruikers die licentie toewijzingen nodig hebben.
+6. Selecteer **Indienen**. Een bevestigingspagina bevat de nieuwe licentietoewijzingen. Ga door met hetzelfde proces voor andere gebruikers die licentietoewijzingen nodig hebben.
 
-Nadat u de gebruikers licentie hebt verplaatst naar de nieuwe service, kunt u het buiten gebruik gestelde abonnement op klant niveau veilig annuleren.
+Nadat u de gebruikerslicentie naar de nieuwe service hebt verplaatst, kunt u het uit gebruik genomen abonnement veilig op klantniveau annuleren.
 
-7. Selecteer in het menu **Partner Center** **klanten**. Selecteer de klant van wie u het abonnement wilt annuleren.
+7. Selecteer in **Partner Center** menu **Klanten.** Selecteer de klant van wie u het abonnement annuleert.
 
-8. Stel op de pagina abonnements Details het abonnement in op **opgeschort**.
+8. Stel op de detailpagina van het abonnement het abonnement in op **Tijdelijk ingesteld.**
 
-9. Selecteer **verzenden.**
+9. Selecteer **Verzenden.**
 
-Het oude abonnement is onderbroken en het nieuwe abonnement is actief. Het opgeschorte abonnement wordt na 120 dagen niet meer ingericht. De klant heeft geen extra kosten in rekening gebracht voor het oude abonnement.
+Het oude abonnement is opgeschort en het nieuwe abonnement is actief. De inrichting van het abonnement wordt na 120 dagen automatisch verwijderd. De klant maakt geen extra kosten voor het oude abonnement.
 
+## <a name="next-steps"></a>Volgende stappen
+
+- [Adviseurs: een uitnodiging voor een proefabonnement maken en verzenden voor clients om Office 365 uit te proberen](advisors-create-a-trial-invitation.md)
+- [Adviseurs: Bouw uw clientbasis met office 365-uitnodigingen voor proefabonnementen en aanbiedingen](advisors-build-your-business.md)
+- [Adviseurs: Een aankoopaanbieding maken](advisor-create-a-purchase-offer.md)
