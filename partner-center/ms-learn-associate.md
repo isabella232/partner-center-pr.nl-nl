@@ -1,90 +1,90 @@
 ---
-title: Microsoft Learn MCP-ID koppelen aan het partner centrum-account
+title: Een Microsoft Learn MCP-id koppelen aan Partner Center-account
 ms.topic: how-to
 ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het koppelen van uw MCP-ID aan uw partner centrum-account, zodat uw bedrijf de paden voor training en leren kan zien die u hebt genomen voor de vaardig heden.
+description: Meer informatie over het koppelen van uw MCP-id aan uw Partner Center-account, zodat uw bedrijf de trainings- en leertrajecten kan zien die u hebt gevolgd voor competenties.
 author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712797"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067504"
 ---
-# <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Een micro soft-certificerings profiel-ID (MCID) koppelen of ontkoppelen aan een Microsoft Partner Network-account (MPN)
+# <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Een Microsoft-certificeringsprofiel-id (MCID) koppelen aan een Microsoft Partner Network (MPN)-account
 
 **Juiste rollen**
 
-- Alle gebruikers van het partner centrum
+- Alle Partner Center gebruikers
 
-In dit artikel wordt beschreven hoe klanten met actieve certificeringen in het micro soft-certificerings programma hun micro soft-certificerings profiel-ID (MCID) kunnen koppelen of ontkoppelen met een organisatie van Microsoft Partner Network (MPN).
+In dit artikel wordt beschreven hoe klanten met actieve certificeringen in het Microsoft Certification Program hun Microsoft-certificeringsprofiel-id (MCID) kunnen koppelen aan of loskoppelen van een Microsoft Partner Network-organisatie (MPN).
 
-U moet een MPN-partner beheerder of globale beheerder zijn om de [competentie](https://partner.microsoft.com/pcv/partnership/competencies) -status (aanmelden vereist) voor examens te controleren of om vaardigheden rapporten te downloaden voor het controleren van de bijbehorende examens. De partner organisatie voldoet aan de competentie vereisten door personen met gekoppelde MCIDs aan hun organisatie te koppelen. Een MCID kan alleen worden gekoppeld aan één MPN-lidmaatschap tegelijk.
+U moet een MPN-partnerbeheerder of [](https://partner.microsoft.com/pcv/partnership/competencies) globale beheerder zijn om de competentiestatus (aanmelding vereist) voor examens te controleren of om vaardighedenrapporten te downloaden voor het beoordelen van gekoppelde examens. De partnerorganisatie voldoet aan competentievereisten door personen met gekoppelde MCID's aan hun organisatie te koppelen. Een MCID kan slechts aan één MPN-lidmaatschap tegelijk worden gekoppeld.
 
-## <a name="get-partner-university-access"></a>Toegang tot partner University verkrijgen
+## <a name="get-partner-university-access"></a>Toegang tot Partner University krijgen
 
-Als u uw micro soft-certificering wilt koppelen, moet u een partner centrum-account (Active AD) hebben die is gekoppeld aan uw partner organisatie. Leden van MPN-partner organisaties moeten hun gebruikers naam en wacht woord (werk account) van hun MPN-partner gebruiken om zich aan te melden bij het partner centrum.
-Gebruik de onderstaande procedure om toegang te krijgen tot partner University.
-
-1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
-2. Selecteer het pictogram met het blauwe **Mijn profiel** in de rechter bovenhoek
-3. Selecteer **partner University Access ophalen** in het **leer** veld. U moet de referenties van uw partner University-account opgeven (niet uw partner centrum account) uw partner University-account is nu gekoppeld aan uw gebruikers account van uw partner centrum. Uw beoordelingen worden weer gegeven in het rapport met gebruikers vaardigheden van het partner centrum binnen 72hrs. Nieuw door gegeven beoordelingen kunnen 7-10 dagen in beslag nemen in het rapport.
-4. Als u de koppeling wilt verwijderen, selecteert u **toegang verwijderen**.
-
-## <a name="associate-a-microsoft-learning-account"></a>Een micro soft Learning-account koppelen
-
-Gebruik de volgende procedure om een micro soft Learning-account te koppelen. 
+Als u uw Microsoft-certificering wilt koppelen, moet u een Partner Center-account (Active AD) hebben dat is gekoppeld aan uw partnerorganisatie. Leden van MPN-partnerorganisaties moeten hun werknaam en wachtwoord (werkaccount) van hun MPN-partnerorganisatie gebruiken om zich aan te melden bij Partner Center.
+Gebruik de onderstaande procedure om toegang te krijgen tot Partner University.
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
-2. Schuif op uw profiel pagina omlaag naar het veld **micro soft-examens en certificeringen** en selecteer **micro soft Learning-account koppelen**.
-3. Wanneer u hierom wordt gevraagd, voert u de referenties in die u gebruikt om u aan te melden bij uw micro soft-certificerings Profiel (uw MCID).
+2. Selecteer het blauwe **pictogram** Mijn profiel in de rechterbovenhoek
+3. Selecteer in **het veld Uw** leerproces de optie Toegang tot Partner University **krijgen.** U moet de referenties van uw Partner University-account (niet uw partnercentrumaccount) invoeren. Uw partneraccount van de universiteit wordt nu gekoppeld aan uw Partner Center-gebruikersaccount. Uw evaluaties worden binnen 72 uur weergegeven in Partner Center rapport Gebruikersvaardigheden. Het kan 7-10 dagen duren voordat onlangs doorgegeven evaluaties in het rapport worden weergegeven.
+4. Als u de associatie wilt verwijderen, selecteert **u Toegang verwijderen.**
+
+## <a name="associate-a-microsoft-learning-account"></a>Een Microsoft Learning koppelen
+
+Gebruik de volgende procedure om een Microsoft Learning koppelen. 
+
+1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
+2. Schuif op de profielpagina omlaag naar het veld **Microsoft-examens** en **-certificeringen** en selecteer Microsoft Learning koppelen.
+3. Wanneer u hier om wordt gevraagd, voert u de referenties in die u gebruikt om u aan te melden bij uw Microsoft-certificeringsprofiel (uw MCID).
 
 >[!NOTE]
->Als de referenties voor het micro soft Learning-account hetzelfde zijn als de referenties van het partner University-account, selecteert u **gebruiken email@address om mijn micro soft Learning-account te koppelen**.
+>Als de Microsoft Learning accountreferenties hetzelfde zijn als de referenties van het Partner **email@address University-account,** selecteert u Gebruiken om mijn Microsoft Learning koppelen.
 
-## <a name="download-skills-report-microsoft-certification-list"></a>Rapport met vaardig heden downloaden (micro soft-certificerings lijst)
-Als u meer informatie nodig hebt, kan de skillsreport worden geopend en gedownload door elke globale beheerder of MPN partner beheerder van het partner centrum. Voor [meer informatie](./mpn-skills-report.md#view-skills-report-data).
+## <a name="download-skills-report-microsoft-certification-list"></a>Vaardighedenrapport downloaden (Microsoft-certificeringslijst)
+Als u meer informatie nodig hebt, kunt u het vaardighedenrapport openen en downloaden door een globale beheerder of MPN-partnerbeheerder van Partner Center. Voor [meer informatie.](./mpn-skills-report.md#view-skills-report-data)
 
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Veelgestelde vragen over het koppelen van accounts
 
-### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Hoe kan een gebruiker hun micro soft-certificerings profiel-ID (MCID) koppelen aan de organisatie van de Microsoft Partner Network (MPN) waarvoor ze werken?
+### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Hoe kan een gebruiker zijn microsoft-certificeringsprofiel-id (MCID) koppelen aan de Microsoft Partner Network organisatie waar ze voor werken?
 
-Gebruikers moeten zich aanmelden bij het partner centrum en naar **Mijn profiel** gaan en vervolgens het **account partner universiteit ophalen** of een **micro soft Learning-account koppelen** en hun referenties invoeren. Als u wilt koppelen aan een micro soft Learning-account, moet de gebruiker de gebruikers naam en het wacht woord invoeren waarmee u zich aanmeldt bij hun micro soft-certificerings Profiel (MCID). Als gevolg van privacy-overwegingen moeten gebruikers het proces voor account koppeling zelf volt ooien.  
+Gebruikers moeten zich aanmelden bij Partner Center en naar **Mijn profiel** navigeren en vervolgens **Partner University-account** of Account koppelen **Microsoft Learning selecteren** en hun referenties invoeren. Als u een account Microsoft Learning, moet de gebruiker de gebruikersnaam en het wachtwoord invoeren die worden gebruikt om zich aan te melden bij het Microsoft-certificeringsprofiel (MCID). Vanwege privacyoverwegingen moeten gebruikers het koppelingsproces voor het account zelf voltooien.  
 
-### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Hoe kan een gebruiker hun MCID ontkoppelen van de MPN-organisatie waarvoor ze werken?
+### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Hoe kan een gebruiker de MCID loskoppelen van de MPN-organisatie waar hij voor werkt?
 
-Meld u aan bij Partner Center, navigeer naar **Mijn profiel** en selecteer vervolgens **toegang verwijderen**. Vanwege privacy-overwegingen moet de gebruiker het proces voor account koppeling zelf volt ooien.
+Meld u aan bij Partner Center, navigeer **naar Mijn profiel** en selecteer Toegang **verwijderen.** Vanwege privacyoverwegingen moet de gebruiker het koppelingsproces voor het account zelf voltooien.
 
-### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>De gebruiker heeft bedrijf A en werkt nu voor bedrijf B. Hoe kunnen ze hun micro soft-certificerings profiel-ID (MCID) koppelen aan bedrijf B?
+### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>De gebruiker heeft bedrijf A verlaten en werkt nu voor bedrijf B. Hoe kunnen ze hun MICROSOFT-certificeringsprofiel-id (MCID) koppelen aan bedrijf B?
 
-De gebruiker moet hun MCID koppelen aan het bedrijf B door de bovenstaande procedure te volgen. Zodra de gebruiker hun MCID koppelt aan bedrijf B, wordt deze automatisch ontkoppeld van bedrijf A.
+De gebruiker moet de MCID koppelen aan het bedrijf B door de bovenstaande procedure te volgen. Zodra de gebruiker zijn MCID aan bedrijf B koppelt, wordt deze automatisch losgekoppeld van bedrijf A.
 
-### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>De gebruiker heeft bedrijf A en heeft geen toegang meer tot het partner centrum. Ze willen hun MCID ontkoppelen van bedrijf A en zijn niet in de planning om deze te koppelen aan een andere MPN-organisatie.
+### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>De gebruiker heeft bedrijf A verlaten en heeft geen toegang meer tot Partner Center. Ze willen hun MCID loskoppelen van bedrijf A en zijn op dit moment niet van plan om deze te koppelen aan een andere MPN-organisatie.
 
-Het account van de gebruiker moet worden verwijderd door de globale beheerder nadat ze het bedrijf verlaten. Als de MCID van de gebruiker nog steeds wordt weer gegeven als gekoppeld aan het bedrijf in het vaardigheids rapport, moet de gebruiker de globale beheerder vragen om deze uit het rapport te verwijderen.
+Het account van de gebruiker moet worden verwijderd door de globale beheerder nadat deze het bedrijf heeft verlaten. Als de MCID van de gebruiker nog steeds wordt weergegeven als gekoppeld aan het bedrijf in het vaardigheidsrapport, moet de gebruiker de globale beheerder vragen deze uit het rapport te verwijderen.
 
-### <a name="the-admin-provided-sign-in-details-for-a-work-email-account-to-a-user-and-they-have-had-no-response"></a>De beheerder heeft aanmeldings Details voor een werk-e-mail account aan een gebruiker gegeven en er is geen antwoord ontvangen.
+### <a name="the-admin-provided-sign-in-details-for-a-work-email-account-to-a-user-and-they-have-had-no-response"></a>De beheerder heeft aanmeldingsgegevens voor een werk-e-mailaccount aan een gebruiker verstrekt en heeft geen antwoord ontvangen.
 
-De beheerder moet eerst het gebruikte e-mail adres verifiëren en vervolgens contact opnemen met de gebruiker aan wie de account gegevens zijn verstrekt.
+De beheerder moet eerst het gebruikte e-mailadres verifiëren en vervolgens contact opnemen met de gebruiker aan wie de accountgegevens zijn verstrekt.
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited"></a>Een gebruiker probeert hun account voor het MCP-leer proces te koppelen aan hun profiel in het partner centrum en ontvangt een bericht dat de koppeling beperkt is.
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Een gebruiker probeert zijn MCP Learning-account te koppelen aan zijn profiel in Partner Center ontvangt een bericht dat de associatie is beperkt. Bijvoorbeeld: 'U hebt geprobeerd te koppelen aan een partnerorganisatie. We hebben echter een periode van 30 dagen tussen verbanden nodig. De volgende beschikbare datum voor een volgende associatie is XXX"
 
-Ter bescherming tegen misbruik heeft een MCP-individu een beperkt aantal associaties dat elk jaar is toegestaan. Elke gebruiker kan de datum in hun profiel controleren om te zien wanneer een nieuwe koppeling kan worden gestart. Als de gebruiker problemen heeft na deze datum, moet deze contact opnemen met de ondersteuning.  
+Ter bescherming tegen misbruik heeft een MCP-persoon een beperkt aantal van 3 associaties die elk jaar zijn toegestaan en is er een afkoelperiode van 30 dagen tussen elke associatie, die begint bij het begin van de associatie. Elke gebruiker kan de datum in het profiel controleren om te zien wanneer ze een nieuwe associatie kunnen starten. Als de gebruiker na die datum problemen heeft met het koppelen, moet deze contact opnemen met de ondersteuning.  
 
 ## <a name="how-to-get-support"></a>Ondersteuning krijgen
 
-Voor technische problemen met het koppelen of ontkoppelen van MCIDs met MPN-partner organisaties die niet worden behandeld in de veelgestelde vragen, opent u een ticket met micro soft [ondersteuning](https://partner.microsoft.com/support).
+Voor technische problemen bij het koppelen of ontkoppelen van MCID's met MPN-partnerorganisaties die niet worden opgelost in de veelgestelde vragen, opent u een ticket met [Microsoft-ondersteuning.](https://partner.microsoft.com/support)
 
-Neem contact op met [certificerings ondersteuning](https://aka.ms/mcpforum)voor vragen met betrekking tot het micro soft-certificaat voor het samen voegen van certificaten (MCID).
+Neem contact op met certificeringsondersteuning voor vragen met betrekking tot het mcid-samenvoegproces (Microsoft [Certification Profile).](https://aka.ms/mcpforum)
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Gebruikers rollen en machtigingen](./permissions-overview.md)
+- [Gebruikersrollen en -machtigingen](./permissions-overview.md)
 - [Competenties](https://partner.microsoft.com/membership/competencies)
-- [In het rapport Microsoft Learn Analytics wordt de status weer gegeven van de cursisten in uw bedrijf](ms-learn-analytics.md)
+- [In Microsoft Learn analytics-rapport ziet u de status van studenten in uw bedrijf](ms-learn-analytics.md)
