@@ -1,82 +1,86 @@
 ---
-title: Beperkte directe factuur mogelijkheden
+title: Beperkte mogelijkheden voor directe factuur
 ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over de vereisten voor de direct factureren van de CSP en wat u kunt doen om te voor komen dat de mogelijkheden worden beperkt. Ga na of uw mogelijkheden zijn beperkt.
+description: Meer informatie over de vereisten van CSP-partners voor directe factuur en wat u kunt doen om te voorkomen dat mogelijkheden worden beperkt. Uitzoeken of uw mogelijkheden zijn beperkt.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623980"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018064"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Beperkte directe factuur mogelijkheden en de vereisten voor CSP direct-factuur partners  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Beperkte mogelijkheden voor directe factuur en de vereisten die nodig zijn voor CSP-partners voor directe factuur
+
+**Juiste rollen**
+
+- Globale beheerder
 
 ## <a name="overview"></a>Overzicht
 
-Directe factuur partners moeten voldoen aan de nieuwe [vereisten](direct-partner-new-requirements.md) om te blijven in het CSP direct Bill-partner programma. Anders is de toegang tot de mogelijkheden voor direct factureren uiteindelijk beperkt en kunnen er meer specifieke taken worden uitgevoerd, zoals het maken van nieuwe aankopen voor hun klanten.
+Directe factuurpartners moeten voldoen aan de nieuwe [vereisten om](direct-partner-new-requirements.md) in het CSP-programma voor directe factuurpartners te blijven. Anders wordt de toegang tot mogelijkheden voor directe factuur uiteindelijk beperkt en kunnen ze meer specifieke taken uitvoeren, zoals het doen van nieuwe aankopen voor hun klanten.
 
 > [!Note]
-> Directe factuur partners die niet voldoen aan de nieuwe vereisten voor het CSP direct factuur-partner programma, worden door micro soft op de hoogte gesteld wanneer hun directe factuur mogelijkheden worden beperkt. Dit geldt voor alle directe factuur partners, ongeacht of deze zich hebben [voorgezet van een directe factuur partner naar indirecte wederverkopers](transition-direct-to-indirect.md) of niet.  
+> Partners met directe factuur die niet voldoen aan de nieuwe vereisten voor het CSP-partnerprogramma voor directe factuur, worden door Microsoft op de hoogte gesteld wanneer hun mogelijkheden voor directe factuur worden beperkt. Dit geldt voor alle directe factuurpartners, ongeacht of ze hebben gekozen voor een overgang van partner voor directe factuur [naar indirecte resellers](transition-direct-to-indirect.md) of niet.  
 
-## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Hoe u kunt zien of uw directe factuur mogelijkheden zijn beperkt
+## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Na te gaan of de mogelijkheden van uw directe factuur zijn beperkt
 
-Voer de volgende stappen uit om te controleren of de toegang van de directe factuur partner-Tenant naar directe facturerings mogelijkheden is beperkt.
+Volg deze stappen om te controleren of de toegang van de tenant van de directe factuurpartner tot de mogelijkheden voor directe factuur is beperkt.
 
-1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard).
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
 
-2. Ga naar **account instellingen**  ->  **juridisch profiel**.
+2. Ga naar **Accountinstellingen**  ->  **Juridisch profiel.**
 
-3. Zoek onder **programma-informatie** naar **Microsoft Cloud Solution Provider-status**.
+3. Zoek **onder Programmagegevens** naar **Microsoft Cloud Solution Provider status**.
 
-4. Als de status van het programma de waarde **beperkt** heeft, betekent dit dat de toegang van uw directe factuur partner voor directe facturerings mogelijkheden is beperkt.
+4. Als de programmastatus de waarde **beperkt heeft,** betekent dit dat de toegang van de tenant van uw directe factuurpartner tot de mogelijkheden voor directe factuur is beperkt.
 
-## <a name="affected-direct-bill-capabilities"></a>Beïnvloede directe factuur mogelijkheden
+## <a name="affected-direct-bill-capabilities"></a>Betrokken mogelijkheden voor directe factuur
 
-Als uw directe factuur mogelijkheden beperkt zijn, kunt u niet langer nieuwe aankopen doen voor uw klanten in Partner Center. Deze beperking omvat:
+Als uw mogelijkheden voor directe factuur zijn beperkt, kunt u geen nieuwe aankopen meer doen voor uw klanten in Partner Center. Deze beperking omvat:
 
 - Azure-abonnementen
 
-- Abonnementen op basis van licenties
+- Op licenties gebaseerde abonnementen
 
-- Voeg nieuwe invoeg toepassingen toe aan bestaande abonnementen op basis van licenties.
+- Voeg nieuwe invoegtoepassingen toe aan bestaande abonnementen op basis van licenties.
 
-- Eenmalige aankopen doen van software-en reserverings producten (zoals software-abonnementen, permanente software en voor Azure gereserveerde exemplaren van virtuele machines).
+- Een een time-aankoop doen van software- en reserveringsproducten (bijvoorbeeld softwareabonnementen, permanente software en Gereserveerde VM-instanties van Azure).
 
-U kunt de [Azure partner Shared Services-aanbieding](shared-services.md) ook niet gebruiken onder het CSP-programma om nieuwe Azure-abonnementen te kopen voor eigen gebruik.
+U kunt ook de aanbieding voor gedeelde [services van de Azure-partner](shared-services.md) in het CSP-programma niet gebruiken om nieuwe Azure-abonnementen voor uw eigen gebruik aan te schaffen.
 
-Bestaande directe factuur abonnementen worden niet beïnvloed. Ze blijven geldig en worden automatisch verlengd. U wordt direct door micro soft gefactureerd tot deze zijn geannuleerd. U kunt bestaande abonnementen nog steeds op de volgende manieren beheren:
+Bestaande directe-factuurabonnementen worden niet beïnvloed. Ze blijven geldig en worden automatisch vernieuwd. U wordt nog steeds rechtstreeks door Microsoft gefactureerd totdat ze zijn geannuleerd. U kunt bestaande abonnementen nog steeds op de volgende manieren beheren:
 
-- Bestaande abonnementen onderbreken
+- Bestaande abonnementen opschorten
 
-- Het aantal licenties aanpassen van bestaande op licenties gebaseerde abonnementen
+- Het aantal licenties van bestaande op licenties gebaseerde abonnementen aanpassen
 
-- Pas het aantal licenties aan van bestaande invoeg toepassingen voor een abonnement. 
- 
-    >[!Note] 
-    >U kunt geen nieuwe invoeg toepassingen toevoegen aan bestaande abonnementen, aangezien deze worden behandeld als nieuwe aankoop.
+- Het aantal licenties van bestaande invoegtoepassingen aan een abonnement aanpassen. 
+
+    >[!Note]
+    >U kunt geen nieuwe invoegtoepassingen toevoegen aan bestaande abonnementen, omdat deze worden behandeld als nieuwe aankoop.
 
 - Implementeer nieuwe Azure-resources en beheer bestaande Azure-resources onder bestaande Azure-abonnementen. Dit omvat resources die beschikbaar zijn via Azure Marketplace en Visual Studio-abonnementen.
 
-Naast nieuwe aankopen hebt u geen toegang tot de volgende mogelijkheden voor direct factureren in het partner centrum:
+Naast nieuwe aankopen hebt u geen toegang tot de volgende mogelijkheden voor directe factuur in Partner Center:
 
-- U kunt geen nieuwe klant tenants maken. De optie **klant maken** onder **klanten** pagina in partner centrum is niet beschikbaar.
+- U kunt geen nieuwe klantten tenants maken. De **optie Klant** maken op de **pagina** Klanten in Partner Center is niet beschikbaar.
 
-- U kunt geen uitnodiging genereren voor een klant die vraagt om een rechtstreekse wederverkoper-relatie. De optie **een reseller-relatie aanvragen** onder **klanten** pagina in partner centrum is niet beschikbaar.
+- U kunt geen uitnodiging genereren voor klanten die een rechtstreekse resellerrelatie aanvragen. De **optie Een resellerrelatie aanvragen** op de **pagina** Klanten in Partner Center is niet beschikbaar.
 
     >[!NOTE]
-    >Als onderdeel van het overstappen van een directe factuur partner naar een indirecte wederverkoper, kunt u, als u uw directe factuur partner-Tenant al hebt Inge schreven als indirecte wederverkoper, een uitnodiging genereren voor de klant die om een indirecte reseller-relatie vraagt.
+    >Als onderdeel van de overgang van directe factuurpartner naar indirecte reseller, kunt u in plaats daarvan een uitnodiging genereren voor klanten die een indirecte resellerrelatie aanvragen als u de tenant van uw directe factuurpartner al hebt geregistreerd als indirecte reseller.
 
-- U kunt geen nieuwe sandbox-Tenant maken. Elke direct Bill-partner-Tenant kan één sandbox-Tenant maken voor het doel van direct factureren API-integratie. Als u nog geen abonnement hebt gemaakt, kunt u dit niet doen nadat u de mogelijkheid van de domiciliërings partner hebt beperkt.  
+- U kunt geen nieuwe sandbox-tenant maken. Elke tenant van een directe factuurpartner kan één sandbox-tenant maken voor API-integratie met directe factuur. Als u nog geen partner hebt gemaakt, kunt u dit niet doen nadat de mogelijkheden van uw directe factuurpartner zijn beperkt.  
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Aanvullende informatie over een indirecte wederverkoper](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [Aanvullende informatie over hoe u een indirecte reseller wordt](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [Nieuwe vereisten voor de CSP direct-partner](direct-partner-new-requirements.md)
+- [Nieuwe vereisten voor directe CSP-partners](direct-partner-new-requirements.md)

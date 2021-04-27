@@ -4,19 +4,19 @@ ms.topic: how-to
 ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Leer wanneer u een klanten service-probleem naar micro soft wilt escaleren en hoe u een ondersteunings ticket kunt indienen voor verschillende typen micro soft-Services.
+description: Informatie over het escaleren van een klantenserviceprobleem naar Microsoft en het indienen van een ondersteuningsticket voor verschillende typen Microsoft-services.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441945"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018115"
 ---
-# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Meld een service probleem namens een klant, zoals wanneer en hoe dit moet gebeuren
+# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Een serviceprobleem melden namens een klant, inclusief wanneer en hoe dit te doen
 
 **Van toepassing op**
 
@@ -24,127 +24,127 @@ ms.locfileid: "106441945"
 
 **Juiste rollen**
 
-- Indirecte provider
+- Globale beheerder
 
-Als uw klant een service probleem ondervindt dat u niet kunt oplossen en dat voldoet aan de criteria die zijn beschreven in [problemen naar micro soft escaleren](escalate-problems-to-microsoft.md), kan uw indirecte provider een ondersteunings ticket voor hen indienen. Dit proces is ook handig voor het escaleren van facturerings problemen of-geschillen en voor fraude problemen.
+Als uw klant een serviceprobleem ondervindt dat u niet kunt oplossen en voldoet aan de criteria die worden beschreven in Problemen escaleren naar [Microsoft,](escalate-problems-to-microsoft.md)kan uw indirecte provider een ondersteuningsticket voor hen indienen. Dit proces is ook nuttig voor het escaleren van factureringsproblemen of geschillen en voor fraudeproblemen.
 
-## <a name="submit-a-service-request-for-a-customer"></a>Een service aanvraag indienen voor een klant
+## <a name="submit-a-service-request-for-a-customer"></a>Een serviceaanvraag indienen voor een klant
 
-1. Selecteer in het menu Partner Center onder CSP de optie **klanten**
+1. Selecteer in Partner Center menu onder CSP de optie **Klanten**
 
-2. Op de pagina klanten selecteert of zoekt u de gewenste klant
+2. Selecteer of zoek op de pagina Klanten naar de klant die u wilt
     
-3. Selecteer in het menu klant **service aanvragen** .
+3. Selecteer Serviceaanvragen in het menu **van de klant**
 
-4. Selecteer in de vervolg keuzelijst **nieuwe aanvraag** de optie **Azure** of **Office 365, Dynamics 365, Enter prise Mobility Suite**. U wordt omgeleid naar het Microsoft Azure-portal of het Office 365-beheer centrum.
+4. Selecteer in **het vervolgkeuzemenu** Nieuwe aanvraag de optie **Azure** of **Office 365, Dynamics 365, Enterprise Mobility Suite.** U wordt omgeleid naar het Microsoft Azure-portal of het Office 365-beheercentrum.
 
 >[!NOTE]
->Ondersteunings partners die Dynamics 365 in CSP ondersteunen, zijn vereist voor het onderhouden van een ondersteunings overeenkomst met een ASfP-abonnement of hoger. Deze ondersteunings overeenkomst is vereist voor het indienen van Dynamics 365-incidenten namens een CSP-klant. Meer [informatie](https://partner.microsoft.com/support/partnersupport) over de opties voor de ondersteunings overeenkomst.
+>Support Operations-partners die Dynamics 365 in CSP uitvoeren, moeten een ondersteuningsovereenkomst van het ASfP-plan (Advanced Support for Partner) of hoger onderhouden. Deze ondersteuningsovereenkomst is vereist voor het indienen van Dynamics 365-incidenten namens een CSP-klant. [Meer informatie over](https://partner.microsoft.com/support/partnersupport) de opties voor ondersteuningsovereenkomst.
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
 > [!IMPORTANT]
-> Wanneer u een service aanvraag voor uw klant in azure wilt maken, moet u rekening houden met het volgende:
+> Wanneer u een serviceaanvraag voor uw klant in Azure moet maken, moet u rekening houden met het volgende:
 >
->- Als u, als indirecte wederverkoper, service aanvragen voor uw klant in azure wilt maken, moet uw indirecte provider u toegang verlenen tot het Azure-account van de klant. Dit wijkt af van beheer namens klanten voor Office 365.
+>- Als u, als indirecte reseller, serviceaanvragen wilt maken voor uw klant in Azure, moet uw indirecte provider u toegang verlenen tot het Azure-account van de klant. Dit verschilt van het beheer namens klanten voor Office 365.
 >
->- Hoewel de helpdesk beheerder in het partner centrum geen service aanvragen kan maken in de Azure-Service Portal, kunnen ze een ondersteunings groep maken in de Azure-Service Portal en deze groep machtigingen geven om ondersteunings aanvragen in het logboek te registreren.
+>- Hoewel de helpdeskbeheerder in Partner Center geen serviceaanvragen kan maken in de Azure-serviceportal, kunnen ze wel een ondersteuningsgroep maken in de Azure-serviceportal en die groep machtigingen geven voor het registreren van ondersteuningsaanvragen.
 
 1. Selecteer **Nieuwe ondersteuningsaanvraag**.
 
-2. Vul de ondersteunings aanvraag in met de juiste gegevens en selecteer vervolgens **maken**:
+2. Vul de juiste gegevens in voor de ondersteuningsaanvraag en selecteer vervolgens **Maken:**
 
-   - Zorg er in de sectie **basis beginselen** van de ondersteunings aanvraag voor dat u **Cloud Solution Provider** selecteert in het veld **ondersteunings plan** .
+   - Selecteer in **de** sectie Basisbeginselen van de ondersteuningsaanvraag de optie **Cloud Solution Provider** in het **veld Ondersteuningsplan.**
 
-   - Voer in het gedeelte **contact** gegevens van het ondersteunings verzoek uw gegevens in, niet de gegevens van uw klant.
+   - Voer in **de** sectie Contactgegevens van de ondersteuningsaanvraag uw gegevens in, niet de gegevens van uw klant.
 
-3. Controleer later de service aanvragen van uw klant in de Microsoft Azure-portal door **ondersteunings aanvragen beheren** te selecteren.
+3. Controleer later de serviceaanvragen van uw klant binnen de Microsoft Azure-portal door **Ondersteuningsaanvragen beheren te selecteren.**
 
-Mogelijk moet u een ondersteunings aanvraag voor een klant maken wanneer u geen beheerders machtigingen voor die klant hebt. Dit kan in een van de volgende twee scenario's optreden:
+Mogelijk moet u een ondersteuningsaanvraag maken voor een klant wanneer u geen beheerdersmachtigingen voor die klant hebt. Dit kan gebeuren in een van de volgende twee scenario's:
 
-- U hebt geen beheerders bevoegdheden aangevraagd toen u de relatie voor het eerst tot stand hebt gebracht.
-- U beheert alleen de Azure-abonnementen van een klant, zodat u geen beheerders machtigingen hebt.
+- U hebt geen beheerdersbevoegdheden gevraagd toen u de relatie voor het eerst tot stand hebt gebracht.
+- U beheert alleen de Azure-abonnementen van een klant, dus u hebt geen beheerdersmachtigingen.
  
-In een van deze gevallen kunt u de volgende procedure gebruiken om een ondersteunings aanvraag te maken. 
+In beide gevallen kunt u de volgende procedure gebruiken om een ondersteuningsaanvraag te maken. 
 
-1. Kopieer de domein naam van de klant vanaf hun account pagina in partner centrum.
+1. Kopieer de domeinnaam van de klant van de accountpagina in Partner Center.
 
 2. Ga naar https://portal.azure.com/ [customerdomainname]. 
 
-3. Selecteer het Azure-abonnement waarvoor u ondersteuning nodig hebt.
+3. Selecteer het Azure-abonnement dat ondersteuning vereist.
 
-4. Selecteer **nieuwe ondersteunings aanvraag** en volg de aanwijzingen voor het maken van de aanvraag. 
+4. Selecteer **Nieuwe ondersteuningsaanvraag** en volg de aanwijzingen om de aanvraag te maken. 
 
  
-### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, micro soft Dynamics CRM Online, Enter prise Mobility Suite
+### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
-1. Kies in de sectie **een service aanvraag maken** de juiste ondersteunings categorie. Mogelijk moet u meer selecteren **...** om meer artikelen weer te geven.
+1. Kies in **de sectie Een serviceaanvraag** maken de juiste ondersteuningscategorie. Mogelijk moet u **Meer... selecteren om** aanvullende artikelen te bekijken.
 
-2. Vul het formulier service aanvraag in en selecteer **verzenden**.
+2. Vul het formulier voor de serviceaanvraag in en selecteer **Verzenden.**
 
    > [!TIP]
-   > Zorg ervoor dat u uw contact gegevens en niet van uw klant opneemt.
+   > Zorg ervoor dat u uw contactgegevens op neem, niet die van uw klant.
 
-3. Controleer later de service aanvragen van uw klant door naar het Office 365-beheer centrum te gaan en **alle ondersteunings tickets weer geven** te selecteren.
+3. Bekijk later de serviceaanvragen van uw klant door naar het Office 365-beheercentrum te gaan en **Alle ondersteuningstickets bekijken te selecteren.**
 
-### <a name="support-for-commercial-marketplace-products"></a>Ondersteuning voor commerciële Marketplace-Producten
+### <a name="support-for-commercial-marketplace-products"></a>Ondersteuning voor commerciële marketplace-producten
 
-Micro soft biedt geen product ondersteuning voor commerciële Marketplace-producten. U moet contact opnemen met de ISV (Independent Software Vendor) die het product heeft gepubliceerd om ondersteuning te krijgen.
+Microsoft biedt geen productondersteuning voor producten op de commerciële marketplace. Neem contact op met de onafhankelijke softwareleverancier (ISV) die het product heeft gepubliceerd om ondersteuning te krijgen.
 
-Zoeken naar de contact gegevens van de ISV:
+Ga als volgt te werk om de contactgegevens van de ISV te vinden:
 
-1.  Selecteer op de pagina **Marketplace** het product waarvoor u hulp nodig hebt.
+1.  Selecteer op **de pagina** Marketplace het product waar u hulp bij nodig hebt.
 
-2.  Op de pagina van het product vindt u contact gegevens over ondersteuning. Dit kan een of meer van de volgende opties zijn:
+2.  Op de pagina van het product vindt u contactgegevens voor ondersteuning. Dit kan een of meer van de volgende opties zijn:
 
-    - Een koppeling naar een ondersteunings toegangs punt op de website van de ISV
-    - Een ondersteunings-e-mail
-    - Het telefoon nummer van de ondersteunings contactpersoon
+    - Een koppeling naar een ondersteuningsinvoerpunt op de website van de ISV
+    - Een e-mail met ondersteuning
+    - Een telefoonnummer van een contactpersoon voor ondersteuning
 
 ## <a name="faq"></a>Veelgestelde vragen
 
-Raadpleeg de volgende veelgestelde vragen over service aanvragen die u kunt indienen namens een klant. 
+Zie de volgende veelgestelde vragen over serviceaanvragen die u namens een klant kunt indienen. 
 
-### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Wat is opgenomen als onderdeel van de ondersteunings rechten?
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Wat is opgenomen als onderdeel van het ondersteuningsrechten?
 
-Service aanvragen moeten worden ingediend via partner centrum. Ze zijn beschikbaar voor Azure, Microsoft Office 365, micro soft Dynamics CRM Online en Enter prise Mobility Suite. Als partner die deelneemt aan het Cloud Solution Provider-programma, kunt u de reactie tijd van prioriteiten verwachten voor uw belang rijke problemen.
+Serviceaanvragen moeten worden ingediend via Partner Center. Ze zijn beschikbaar voor Azure, Microsoft Office 365, Microsoft Dynamics CRM Online en Enterprise Mobility Suite. Als partner die deelneemt aan het Cloud Solution Provider programma, kunt u de reactietijd van prioriteit op uw belangrijkste problemen verwachten.
 
-Ondersteuning voor uw eigen partner-Tenant is niet opgenomen als onderdeel van de CSP-ondersteunings voordelen. Office 365, micro soft Dynamics CRM Online en Enter prise Mobility Suite brengt echter geen afzonderlijke ondersteunings abonnements kosten in rekening voor partners en klanten. Azure brengt kosten in rekening, maar als u het recht hebt op handtekening Cloud ondersteuning of andere Microsoft Partner Network (MPN), kunt u deze gebruiken om deze kosten te betalen.
+Ondersteuning voor uw eigen partner-tenant is niet opgenomen als onderdeel van het CSP-ondersteuningsvoordeel. Office 365, Microsoft Dynamics CRM Online en Enterprise Mobility Suite brengen echter geen afzonderlijke ondersteuningsabonnementskosten in rekening voor partners of klanten. Er worden wel kosten in rekening gebracht in Azure, maar als u recht hebt op Signature Cloud Support- of andere MPN-voordelen (Microsoft Partner Network), kunt u deze voordelen gebruiken om die kosten te betalen.
 
-Dit voor deel is van toepassing op alle partners die deel nemen aan het Cloud Solution Provider-programma, ongeacht of het is betaald of op een proef periode. Ondersteuning voor facturering en abonnements beheer is ook opgenomen als gratis onderdeel van dit pakket.
+Dit voordeel geldt voor alle partners die deelnemen aan het Cloud Solution Provider programma, ongeacht of het betaald is of een proefperiode heeft. Ondersteuning voor facturerings- en abonnementsbeheer is ook opgenomen als een gratis onderdeel van dit pakket.
 
 ### <a name="how-quickly-will-i-get-an-initial-response"></a>Hoe snel krijg ik een eerste reactie?
 
-De eerste reactie tijden zijn afhankelijk van de ernst van het incident dat is verzonden. De ernst van een probleem wordt bepaald door uw indicatie van bedrijfs impact wanneer u een service aanvraag indient.
+De initiële reactietijden zijn afhankelijk van de ernst van het verzonden incident. De ernst van een probleem wordt bepaald door uw indicatie van de bedrijfsimpact wanneer u een serviceaanvraag indient.
 
-Eerste reactie tijden voor **technische incidenten met betrekking tot het oplossen** van problemen:
+Initiële reactietijden voor **technische onderbrekingsincidenten:**
 
-- Kritieke impact (Ernst A): twee uur (aanzienlijk verlies of vermindering van Services). Productie Services lager.)
-- Gemiddelde impact (Ernst B): vier uur (gemiddeld verlies of vermindering van Services). Dit is deels van invloed op productie Services.)
-- Minimale impact (Ernst C): acht uur (mini maal verlies of vermindering van Services). Services zijn nog steeds beschikbaar of niet-productie Services betrokken.)
+- Kritieke impact (ernst A): twee uur (aanzienlijk verlies of degradatie van services. Productieservices zijn uit.)
+- Gemiddelde impact (ernst B): vier uur (gemiddeld verlies of degradatie van services. Productieservices die gedeeltelijk worden beïnvloed.)
+- Minimale impact (ernst C): acht uur (minimaal verlies of degradatie van services. Services die nog steeds beschikbaar zijn of niet-productieservices zijn beïnvloed.)
 
-De eerste reactie tijden zijn alleen ter ondersteuning van het Engels. Ondersteuning voor lokale talen wordt geboden tijdens kantoor uren.
-Voor incidenten die binnen de grenzen van het steun recht vallen, maar niet als incidenten met een verwerkings oplossing worden beschouwd, kan de eerste reactie tijd tot één werkdag zijn.
+De initiële reactietijden zijn alleen voor Engelstalige ondersteuning. Ondersteuning voor lokale taal wordt geboden tijdens de werkuren.
+Voor incidenten die binnen de grenzen van het ondersteuningsrecht vallen, maar die niet worden beschouwd als onderbrekingsincidenten, kan de initiële reactietijd maximaal één werkdag zijn.
 
-### <a name="can-i-submit-a-service-request-by-phone"></a>Kan ik een service aanvraag via de telefoon indienen?
+### <a name="can-i-submit-a-service-request-by-phone"></a>Kan ik een serviceaanvraag per telefoon indienen?
 
-Nee, telefonische ondersteuning is niet beschikbaar voor dit programma.
+Nee, telefonische ondersteuning wordt niet aangeboden voor dit programma.
 
-### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Wat gebeurt er als ik me aanmeld bij het Azure Portal en het partner centrum overs Laan?
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Wat gebeurt er als ik me bij de Azure Portal en mijn Partner Center?
 
-Als u zich rechtstreeks aanmeldt bij de Microsoft Azure-portal, bekijkt u het centrum in uw eigen context, niet op de context van een klant. Daarom moet u zich alleen rechtstreeks aanmelden bij de Microsoft Azure-portal bij het maken van een service aanvraag voor uw eigen abonnementen.
+Als u zich rechtstreeks Microsoft Azure-portal, bekijkt u het centrum in uw eigen context, niet in de context van een klant. Daarom moet u zich alleen rechtstreeks aanmelden bij de Microsoft Azure-portal bij het maken van een serviceaanvraag voor uw eigen abonnementen.
 
-Uw CSP-programma ondersteuning biedt geen ondersteuning voor uw eigen partner abonnement. Daarom moet u uw geldige rechten voor het ondersteunings plan opgeven wanneer u een service aanvraag maakt die betrekking heeft op uw eigen partner abonnement. Voor beelden zijn MPN contract-ID, premier of een ondersteunings abonnement voor Azure. Zie de [Veelgestelde vragen over ondersteuning voor Azure](https://go.microsoft.com/fwlink/?LinkId=717532)voor meer informatie.
+Het ondersteuningsrechten voor uw CSP-programma biedt geen ondersteuning voor uw eigen Partner-abonnement. Daarom moet u uw geldige ondersteuningsplanrechten verstrekken wanneer u een serviceaanvraag maakt die betrekking heeft op uw eigen Partner-abonnement. Voorbeelden zijn MPN-contract-id, Premier of ondersteuning voor Azure abonnement. Zie de veelgestelde vragen over [Ondersteuning voor Azure meer informatie.](https://go.microsoft.com/fwlink/?LinkId=717532)
 
-### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Wat gebeurt er als ik me aanmeld bij de Office 365-beheer centrum Portal en het partner centrum overs laat?
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Wat gebeurt er als ik me meld bij de portal van het Office 365-beheercentrum en mijn Partner Center?
 
-Als u zich rechtstreeks aanmeldt bij het Office 365-beheer centrum, bekijkt u het centrum in uw eigen context, niet op de context van een klant. Daarom moet u zich alleen rechtstreeks aanmelden bij het Office 365-beheer centrum wanneer u een service aanvraag voor uw eigen abonnementen maakt.
+Als u zich rechtstreeks bij het Office 365-beheercentrum meldt, bekijkt u het centrum in uw eigen context, niet in de context van een klant. Daarom moet u zich alleen rechtstreeks aanmelden bij het Office 365-beheercentrum wanneer u een serviceaanvraag voor uw eigen abonnementen maakt.
 
-### <a name="how-do-i-get-additional-dynamics-365-support"></a>Hoe kan ik ontvang ik aanvullende Dynamics 365-ondersteuning?
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>Hoe kan ik ondersteuning voor Dynamics 365?
 
-Als u problemen ondervindt met betrekking tot: Dynamics 365 plan abonnementen, licenties, facturering, Financiën & bewerkingen, Dynamics 365 product licenties of u hebt technische ondersteuning nodig:
+Als u problemen ondervindt met betrekking tot: Dynamics 365-abonnementsabonnementen, licentieverlening, facturering, Finance & Operations, Dynamics 365-productlicenties of als u verdere technische ondersteuning nodig hebt:
  
-Neem contact op met de [ondersteuning voor Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
+Neem contact [op met dynamics-ondersteuning](/dynamics365/customer-engagement/admin/contact-technical-support)
 
 ## <a name="next-steps"></a>Volgende stappen
 

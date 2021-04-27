@@ -1,51 +1,51 @@
 ---
-title: Beheerders bevoegdheden voor Azure CSP opnieuw invoeren
+title: Beheerdersbevoegdheden voor Azure CSP
 ms.topic: how-to
 ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over hoe u klanten helpt om de beheerders bevoegdheden van een partner te herstellen, zodat de partner de Azure CSP-abonnementen van een klant kan beheren.
+description: Leer hoe u klanten kunt helpen de beheerdersbevoegdheden van een partner te herstellen, zodat de partner kan helpen bij het beheren van de Azure CSP van een klant.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315844"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018184"
 ---
-# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Beheerders bevoegdheden voor de Azure CSP-abonnementen van een klant opnieuw invoeren  
+# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen  
 
-**Toepasselijke rollen**
+**Juiste rollen**
 
 - Globale beheerder
-- Beheer agent
+- Beheeragent
 
-Als CSP-partner verwachten uw klanten vaak dat u hun Azure-gebruik en hun systemen hiervoor gaat beheren. Hiervoor moet u beheerders bevoegdheden hebben. Sommige bevoegdheden worden verleend wanneer uw reseller-relatie met de klant tot stand is gebracht. Anderen worden aan u verleend door uw klant.
+Als CSP-partner verwachten uw klanten vaak dat u hun Azure-gebruik en hun systemen voor hen beheert. Hiervoor hebt u beheerdersbevoegdheden nodig. Sommige bevoegdheden worden verleend wanneer uw resellerrelatie met de klant tot stand is gebracht. Andere worden aan u verleend door uw klant.
 
-## <a name="admin-privileges-for-azure-in-csp"></a>Beheerders bevoegdheden voor Azure in CSP
+## <a name="admin-privileges-for-azure-in-csp"></a>Beheerdersbevoegdheden voor Azure in CSP
 
-Er zijn twee niveaus van beheerders bevoegdheden voor Azure in CSP.
+Er zijn twee niveaus van beheerdersbevoegdheden voor Azure in CSP.
 
-**Beheerders bevoegdheden op Tenant niveau** (**gedelegeerde beheerders bevoegdheden**): CSP-partners krijgen deze bevoegdheden bij het tot stand brengen van de leverancier van de CSP-dealer met klanten. Gedelegeerde beheerders bevoegdheden bieden CSP-partners toegang tot de tenants van hun klanten, waardoor ze beheer functies kunnen uitvoeren zoals gebruikers toevoegen/beheren, wacht woorden opnieuw instellen en gebruikers licenties beheren.
+**Beheerdersbevoegdheden op tenantniveau** **(gedelegeerde beheerdersbevoegdheden)**- CSP-partners krijgen deze bevoegdheden tijdens het tot stand brengen van een CSP-resellerrelatie met klanten. Gedelegeerde beheerdersbevoegdheden geven CSP-partners toegang tot de tenants van hun klanten, zodat ze beheerfuncties kunnen uitvoeren, zoals gebruikers toevoegen/beheren, wachtwoorden opnieuw instellen en gebruikerslicenties beheren.
 
-**Beheerders bevoegdheden op abonnements niveau** : CSP-partners krijgen deze bevoegdheden tijdens het maken van Azure CSP-abonnementen voor hun klanten. Met deze bevoegdheden hebben CSP-partners volledige toegang tot deze abonnementen, waardoor ze Azure-bronnen kunnen inrichten en beheren.
+**Beheerdersbevoegdheden op abonnementsniveau:** CSP-partners krijgen deze bevoegdheden tijdens het maken Azure CSP abonnementen voor hun klanten. Deze bevoegdheden bieden CSP-partners volledige toegang tot deze abonnementen, zodat ze Azure-resources kunnen inrichten en beheren.
 
-## <a name="reinstate-csp-partners-admin-privileges"></a>Beheerders bevoegdheden voor de CSP-partners herstellen
+## <a name="reinstate-csp-partners-admin-privileges"></a>Beheerdersbevoegdheden van CSP-partners herstellen
 
-Uw klant kan de toewijzing van de cryptografie functie opnieuw maken zolang u de object-ID van de AdminAgents-groep aan uw klant verstrekt. Als u gedelegeerde beheerders bevoegdheden wilt herstellen, moet u samen werken met uw klant.
+Uw klant kan de CSP-roltoewijzing opnieuw maken zolang u de object-id van de groep AdminAgents aan uw klant op geeft. Als u weer gedelegeerde beheerdersbevoegdheden wilt krijgen, moet u samenwerken met uw klant.
 
-1. Meld u aan bij het dash board van de partner centrum en selecteer **klanten** in het menu partner centrum.
+1. Meld u aan Partner Center dashboard en selecteer klanten in Partner Center **menu.**
 
-2. Selecteer de klant waarmee u werkt en **vraag een reseller-relatie aan.** Hiermee genereert u een koppeling naar de klant die Tenant beheerders rechten heeft.
+2. Selecteer de klant met wie u werkt en vraag **een resellerrelatie aan.** Met deze actie wordt een koppeling gegenereerd naar de klant met tenantbeheerdersrechten.
 
-3. Die klant moet de koppeling selecteren en de wederverkoper-relatie aanvraag goed keuren.
+3. Die klant moet de koppeling selecteren en de aanvraag voor de resellerrelatie goedkeuren.
 
-   :::image type="content" source="images/azure/revoke4.png" alt-text="Voor beeld van een reseller-relatie voor het maken van e-mail":::
+   :::image type="content" source="images/azure/revoke4.png" alt-text="E-mailvoorbeeld van een resellerrelatie maken":::
 
-4. U moet, de partner, verbinding maken met de partner-Tenant om de object-ID van de AdminAgents-groep op te halen.
+4. U, de partner, moet verbinding maken met de partnerten tenant om de object-id van de groep AdminAgents op te halen.
 
   
     ```powershell
@@ -59,27 +59,27 @@ Uw klant kan de toewijzing van de cryptografie functie opnieuw maken zolang u de
     ```
 
 
-5. Uw klant die de rol van **eigenaar of beheerder voor gebruikers toegang** heeft en gemachtigd is om roltoewijzing op het abonnements niveau te maken, doet het volgende:
+5. Uw klant die de rol van eigenaar **of** beheerder van gebruikerstoegang heeft en machtigingen heeft om roltoewijzing op abonnementsniveau te maken, doet het volgende:
 
 
-    1. Hiermee maakt u verbinding met de Tenant waar het CSP-abonnement bestaat.
+    1. Maakt verbinding met de tenant waar het CSP-abonnement zich bevindt.
       ```powershell
         PS C:\WINDOWS\system32> Connect-AzAccount -TenantID "Customer tenant"
       ```
 
-    2. Maakt verbinding met het abonnement (alleen van toepassing als de gebruiker machtigingen voor roltoewijzingen heeft via meerdere abonnementen in de Tenant).
+    2. Maakt verbinding met het abonnement (alleen van toepassing als de gebruiker roltoewijzingsmachtigingen heeft voor meerdere abonnementen in de tenant).
    
-         PS C:\WINDOWS\system32> Set-AzContext-SubscriptionID "CSP-abonnements-ID" '
+         PS C:\WINDOWS\system32> Set-AzContext -SubscriptionID "CSP Subscription ID"'
 
 
-    3. Hiermee wordt de roltoewijzing gemaakt
+    3. Hiermee maakt u de roltoewijzing
     
     ```powershell
       PS C:\WINDOWS\system32> New-AzRoleAssignment -ObjectID "Object ID of the Admin Agents group- needs to be provided by partner" -RoleDefinitionName "Owner" -Scope "/subscriptions/CSP subscription ID"
     ```
 
 
-Als u wilt dat de machtiging rol van eigenaar wordt verleend op resource groeps niveau of op resource niveau in plaats van het abonnements bereik, kunnen de volgende opdrachten werken:
+Als u machtigingen voor de rol eigenaar wilt verlenen op het niveau van de resourcegroep of op resourceniveau in plaats van het abonnementsbereik, kunnen de volgende opdrachten worden gebruikt:
 
 
 ```powershell

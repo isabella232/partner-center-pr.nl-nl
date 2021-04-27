@@ -4,59 +4,64 @@ ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vraag een relatie aan met een klant voor multi-partner-, Multi Channel-scenario's of als uw gedelegeerde beheerders bevoegdheden voor een klant moeten worden hersteld.
+description: Vraag een relatie aan met een klant voor scenario's met meerdere partners of als uw gedelegeerde beheerdersbevoegdheden voor een klant moeten worden hersteld.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548968"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018132"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Een wederverkoper-relatie aanvragen bij een klant in het Partner Center
 
-Als u namens hen een service of abonnement van een klant wilt beheren, moet de klant u beheerders machtigingen verlenen voor die service of dit abonnement en de micro soft-klant overeenkomst ondertekenen.
+**Juiste rollen**
 
-Als u een reseller-relatie met een klant wilt maken en alleen de Azure-abonnementen wilt beheren die u hebt ingericht, hoeft u geen beheerders machtigingen te verkrijgen.
+- Beheeragent
+- Globale beheerder
+
+Als u de service of het abonnement van een klant namens hen wilt beheren, moet de klant u beheerdersmachtigingen voor die service of het abonnement verlenen en de Microsoft-klantovereenkomst.
+
+Als u een resellerrelatie met een klant tot stand wilt brengen en alleen de Azure-abonnementen wilt beheren die u inrichten, hoeft u geen beheerdersmachtigingen te verkrijgen.
 
 >[!NOTE] 
->De optie voor het niet aanvragen van machtigingen is niet beschikbaar voor partners die in Microsoft Cloud werkzaam zijn voor de Amerikaanse overheid of Microsoft Cloud Duitsland. Zie voor meer informatie [klanten beheer rechten delegeren aan partners](customers-revoke-admin-privileges.md).
+>De optie om geen machtigingen aan te vragen is niet beschikbaar voor partners die werken in Microsoft Cloud for US Government of Microsoft Cloud Duitsland. Zie Klanten delegeren beheerbevoegdheden aan [partners voor meer informatie.](customers-revoke-admin-privileges.md)
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Een klant uitnodigen om een reseller-relatie met u te maken
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Een klant uitnodigen om een resellerrelatie met u tot stand te stellen
 
-U kunt een reseller-relatie aanvragen met een klant vanuit uw land of in dezelfde regio.
+U kunt een resellerrelatie met een klant aanvragen vanuit uw land of in dezelfde regio.
 
-1. Selecteer **klanten** in het menu van het **partner centrum** en selecteer vervolgens **een reseller-relatie aanvragen**.
+1. Selecteer **Klanten** in uw **Partner Center** menu en selecteer vervolgens **Een resellerrelatie aanvragen.**
 
-2. Als u beheerders machtigingen van deze klant wilt aanvragen, selecteert u **machtigingen voor gedelegeerd beheer toevoegen voor Azure Active Directory en Office 365**. Als u de relatie tot stand wilt brengen zonder beheerdersmachtigingen aan te vragen, schakelt u deze optie uit.
+2. Als u beheerdersmachtigingen wilt aanvragen bij deze klant, selecteert u **Gedelegeerde beheerbevoegdheden opnemen voor Azure Active Directory en Office 365.** Als u de relatie tot stand wilt brengen zonder beheerdersmachtigingen aan te vragen, schakelt u deze optie uit.
 
 3. Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het conceptbericht openen in de standaardtoepassing voor e-mail, of u kunt het bericht kopiëren naar het klembord en in een e-mailbericht plakken.
 
-   U kunt de tekst in het e-mailbericht bewerken, maar vergeet niet om de koppeling op te nemen, aangezien deze is gepersonaliseerd om de klant rechtstreeks naar uw account te brengen. Selecteer **gereed** wanneer u deze stap hebt voltooid.
+   U kunt de tekst in het e-mailbericht bewerken, maar vergeet niet om de koppeling op te nemen, aangezien deze is gepersonaliseerd om de klant rechtstreeks naar uw account te brengen. Selecteer **Gereed** wanneer u deze stap hebt voltooid.
 
-4. Verzend het e-mail bericht naar uw klant.
+4. Verzend het e-mailbericht naar uw klant.
 
-5. Nadat de klant uw uitnodiging heeft geaccepteerd, wordt deze weer gegeven op uw **klanten** pagina en kunt u de service van daaruit inrichten en beheren.
+5. Nadat de klant uw uitnodiging heeft geaccepteerd,  wordt deze weergegeven op de pagina Klanten en kan deze de service voor de klant van hieruit inrichten en beheren.
 
    > [!NOTE]
-   > Als de klant de micro soft-klant overeenkomst nog niet heeft geaccepteerd, wordt deze gevraagd om dit te doen wanneer ze uw uitnodiging accepteren. De klant moet een globale beheerder zijn om de uitnodiging te accepteren.
+   > Als de klant de uitnodiging nog niet Microsoft-klantovereenkomst, wordt hij gevraagd dit te doen wanneer hij uw uitnodiging accepteert. De klant moet een globale beheerder zijn om de uitnodiging te accepteren.
 
-6. Als u het account, de services, gebruikers en licenties van de klant wilt beheren, vouwt u de record van de klant uit door de pijl-omlaag bij de naam te selecteren.
+6. Als u het account, de services, gebruikers en licenties van de klant wilt beheren, vouwt u de record van de klant uit door de pijl-omlaag bij hun naam te selecteren.
 
 > [!IMPORTANT]  
-> Klanten kunnen beheerders machtigingen opnieuw toewijzen of verwijderen in de beheer portal van een service. Tenzij en totdat u de overeenkomst met de klant opnieuw hebt door lopen, blijft u verantwoordelijk voor het leveren van klanten ondersteuning en het voldoen aan de voor waarden van de micro soft-partner overeenkomst, zelfs nadat een klant de beheerders machtigingen opnieuw heeft toegewezen of verwijderd. Als de klant hulp vereist, kunt u in dit geval micro soft support aanroepen om een service aanvraag namens de klant te openen.
+> Klanten kunnen beheerdersmachtigingen opnieuw toewijzen of verwijderen in de beheerportal van een service. Tenzij en totdat u uw overeenkomst met de klant hebt gesloten, bent u echter verantwoordelijk voor het bieden van klantondersteuning en het voldoen aan de voorwaarden van de Microsoft Partner-overeenkomst, zelfs nadat een klant beheerdersmachtigingen opnieuw toewijst of verwijdert. Als de klant in dit geval hulp nodig heeft, kunt u Microsoft Ondersteuning bellen om namens de klant een serviceaanvraag te openen.
 
-## <a name="changes-to-the-customer-invitation-experience"></a>Wijzigingen in de uitnodigings ervaring van de klant
+## <a name="changes-to-the-customer-invitation-experience"></a>Wijzigingen in de klantuitnodigingservaring
 
-De klant ervaring voor het accepteren van een reseller-relatie van een wederverkoper van een Cloud Solution Provider-partner wordt gehost door verschillende klant gerichte portals. De portal locatie is afhankelijk van het feit of een klant zich in een open bare micro soft-Cloud of een nationale Cloud bevindt:
+De klantervaring voor het accepteren van een uitnodiging voor een resellerrelatie van een Cloud Solution Provider partner wordt gehost door verschillende klantgerichte portals. De locatie van de portal is afhankelijk van of een klant zich in een openbare cloud van Microsoft of een nationale cloud bevindt:
 
-|Typen Cloud klanten  | Waar aanvaardt een klant een uitnodiging voor een reseller-relatie? |
+|Typen cloudklanten  | Waar accepteert een klant een uitnodiging voor een resellerrelatie? |
 |---------|---------
-| Klanten in open bare Cloud | Microsoft 365-beheer centrum |
-| Klanten in het partner centrum voor Microsoft Cloud Duitsland | Beheer Portal Microsoft Office |
-| Klanten in het partner centrum voor Microsoft Cloud voor de Amerikaanse overheid | Beheer Portal Microsoft Office |
+| Klanten in openbare cloud | Microsoft 365-beheercentrum |
+| Klanten in Partner Center voor Microsoft Cloud Duitsland | Microsoft Office-beheerportal |
+| Klanten in Partner Center voor Microsoft Cloud for US Government | Microsoft Office-beheerportal |
 |
 
 ## <a name="next-steps"></a>Volgende stappen
