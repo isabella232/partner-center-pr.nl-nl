@@ -4,30 +4,34 @@ ms.topic: article
 ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Controleer regelmatig uw verwijzingsinzichtgegevens in Partner Center om trends te zien voor het aanpakken van of verbeteringsgebieden om u te helpen uw bedrijfsdoelen te bereiken.
+description: Controleer uw verwijzingsinzichtgegevens regelmatig in Partner Center om trends te zien voor het aanpakken of verbeteren van gebieden om u te helpen uw bedrijfsdoelen te bereiken.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 410ee9bee307f78cc93dabbafab147bb725a8d02
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941813"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120848"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Verwijzingsinzichten verkrijgen in Partner Center en ontdekken hoe uw verwijzingen het doen
 
-Op **de pagina Kansen voor co-verkoop** onder de sectie **Analyse** in Verwijzingen kunt u zien hoe het gaat met uw verwijzingen. Bekijk deze metrische gegevens regelmatig om trends of gebieden te identificeren die aandacht nodig hebben en ga aan de slag met uw bedrijfsdoelen.
+**Juiste rollen**
 
-Ga in het Partner Center-menu naar Verwijzingen > Analytics > Mogelijkheden voor co-verkoop om inzicht te krijgen in uw inzichten over **verkoopkansen.**
+- Verwijzingsbeheerder
+
+Op **de pagina Kansen voor co-verkoop** onder de sectie **Analyse** in Verwijzingen kunt u zien hoe het gaat met uw verwijzingen. Bekijk deze metrische gegevens regelmatig om trends of gebieden te identificeren die aandacht nodig hebben, en ga aan de slag met uw bedrijfsdoelen.
+
+Ga in het menu Partner Center naar Verwijzingen > Analytics > Kansen voor co-verkoop om inzicht te krijgen in uw inzichten over **verkoopkansen.**
 
 > [!Important]
-> Het filter voor het type deal wordt vooraf toegepast met het type **co-verkoop** geselecteerd voor alle gegevens. Verwijder het filter als u de gegevens met betrekking tot privé- en partnerdeals wilt toevoegen.
+> Het filter dealtype wordt vooraf toegepast met Het type **co-verkoop** geselecteerd voor alle gegevens. Verwijder het filter als u de gegevens met betrekking tot privé- en partnerdeals wilt toevoegen.
 
 ## <a name="apply-filters"></a>Filters toepassen
 
-Aan de bovenkant van de **pagina Verkoopkansen kunt** u de periode selecteren waarvoor u gegevens wilt tonen. De standaardselectie is **3 miljoen** (drie maanden), maar u kunt er in plaats daarvan voor kiezen om gegevens voor zes maanden of één jaar weer te geven. U kunt ook Aangepast **selecteren om** gegevens voor alle verwijzingen in een specifieke periode weer te geven.
+Boven aan de pagina **Kansen voor co-verkoop kunt** u de periode selecteren waarvoor u gegevens wilt tonen. De standaardselectie is **3 miljoen** (drie maanden), maar u kunt er in plaats daarvan voor kiezen om gegevens voor zes maanden of één jaar weer te geven. U kunt ook Aangepast **selecteren om** gegevens voor alle verwijzingen in een specifieke periode weer te geven.
 
 U kunt de **knop Filters** selecteren om het deelvenster te openen waarmee u alle gegevens op deze pagina kunt filteren op Klantnaam, Land, Dealtype, Dealrichting, Oplossingsnaam en Status. Hieronder vindt u de details van deze filters.
 
@@ -46,13 +50,13 @@ Deze kaart toont een overzicht van de manier waarop uw kansen voor co-verkoop wo
 
 In de grafiek ziet u het totale aantal deals, het aantal gewonnen deals, het verloren aantal en het totale dealvolume (in USD) voor de geselecteerde periode.
 
-De metrische gegevens voor het wijzigen van percentages (rood of groen, met een pijlindicator) geven het verschil aan tussen de laatste volledige maand **in** het geselecteerde datumbereik en de eerste volledige maand **in dat bereik.** Stel dat de huidige datum 15 juni is en u het filter **3 miljoen** hebt geselecteerd om gegevens voor de afgelopen drie maanden weer te geven. In dit geval laten deze metrische gegevens het verschil zien tussen mei (de laatste volledige maand in de geselecteerde periode) en maart (de eerste volledige maand in de geselecteerde periode) het geselecteerde datumbereik de laatste **3 miljoen,** de vergelijking tussen de gegevens voor mei en de gegevens voor maart.
+De metrische gegevens voor het wijzigen van het percentage (rood of groen weergegeven, met een pijlindicator) geven het verschil aan tussen de laatste volledige maand **in** het geselecteerde datumbereik en de eerste volledige maand **in dat bereik.** Stel dat de huidige datum 15 juni is en u het filter **van 3 miljoen** hebt geselecteerd om gegevens voor de afgelopen drie maanden weer te geven. In dit geval zou deze metrische gegevens het verschil laten zien tussen mei (de laatste volledige maand in de geselecteerde periode) en maart (de eerste volledige maand in de geselecteerde periode) het geselecteerde datumbereik de laatste **3 miljoen** is, de vergelijking tussen de gegevens voor mei en de gegevens voor maart.
 
-:::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Afbeelding van de overzichtskaart van de analyse van verkoopkansen voor co-verkoop.":::
+:::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Afbeelding van de overzichtskaart van de analyse van kansen voor co-verkoop.":::
 
-## <a name="conversion-funnel"></a>Conversie-trechter
+## <a name="conversion-funnel"></a>Conversie trechter
 
-In deze sectie ziet u een visuele indicator van hoe uw deals van de ene status naar de andere gaan tijdens hun levenscyclus. U kunt de volledige levenscyclus bekijken op basis van het dealvolume, evenals de dealwaarde in USD op basis van het hoofd pivot voor deze sectie. De eerste sectie is gelabeld met zowel de status als het type deal om u een visuele indicator van het volume of de waarde per type te geven. Er is ook een **sectie,** Verwijzingen uit het verleden, die wordt gebruikt om de deals aan te geven waarvoor u actie hebt ondernomen om ze te accepteren/af te wijzen of om ze te markeren als gewonnen/verloren in de periode die is geselecteerd voor het rapport. U kunt filters toepassen om de voortgang van de deals in verschillende fasen in hun levenscyclus weer te geven.
+In deze sectie ziet u een visuele indicator van hoe uw deals van de ene status naar de andere gaan tijdens hun levenscyclus. U kunt de volledige levenscyclus weergeven op basis van het dealvolume en de dealwaarde in USD op basis van het hoofd pivot voor deze sectie. De eerste sectie is gelabeld met zowel de status als het type deal om u een visuele indicator van het volume of de waarde per type te geven. Er is ook een **sectie,** Verwijzingen uit het verleden, die wordt gebruikt om de deals aan te geven waarvoor u actie hebt ondernomen om ze te accepteren/af te wijzen of om ze te markeren als gewonnen/verloren in de periode die voor het rapport is geselecteerd. U kunt filters toepassen om de voortgang van de deals in verschillende fasen in hun levenscyclus weer te geven.
 
 Binnenkomende deals voor co-verkoop kunnen worden samengevoegd in Geaccepteerd, Geweigerd of Verlopen, omdat partners de binnenkomende deals voor co-verkoop moeten accepteren of weigeren.
 
@@ -62,60 +66,60 @@ Door partners geleide, privé- en co-sell uitgaande deals worden samengevoegd in
 
 :::image type="content" source="images/referrals/outbound.png" alt-text="Afbeelding met de staten voor uitgaande verwijzingen.":::
 
-:::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="Afbeelding van de conversietrechter voor verwijzingen.":::
+:::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="Afbeelding van de conversie-trechter voor verwijzingen.":::
 
 ## <a name="deals-by-geography"></a>Deals per geografie
 
 In deze sectie ziet u de landen/regio's waar deals vandaan komen, samen met details voor elk land/elke regio. Er is een tabelweergave van de dealdetails voor elk land, samen met een kaartweergave van alle landen. U kunt een specifiek land in de tabel selecteren of de kaartweergave selecteren om in te zoomen op een specifiek land.
 
-:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Afbeelding van de geografische verdeling van verwijzingen.":::
+:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Afbeelding van de geografische distributie van verwijzingen.":::
 
-## <a name="deals-by-solutions"></a>Deals by solutions (Deals per oplossing)
+## <a name="deals-by-solutions"></a>Deals per oplossing
 
-In deze grafiek kunt u zien welke van uw oplossingen de meeste verwijzingen en de hoogste dealwaarde aanstrijen. De tabel heeft drie pivots: co-sell, door partners geleid en privé.
-Op basis van uw draaitabelselectie kunt u de prestaties zien van de deals die per oplossing zijn geaggregeerd.
+In deze grafiek kunt u zien welke van uw oplossingen de meeste verwijzingen en de hoogste dealwaarde aanstrijden. De tabel heeft drie draaitalen: co-sell, door een partner geleid en privé.
+Op basis van uw draaipuntselectie kunt u de prestaties zien van de deals die per oplossing zijn geaggregeerd.
 
 > [!NOTE]
-> Als er meerdere oplossingen zijn opgenomen in een deal, toont de tabel dezelfde deal die wordt geteld voor al deze oplossingen. U moet de waarden met betrekking tot oplossingen niet toevoegen en deze vergelijken met andere metrische gegevens voor verwijzingsvolumes. Deze weergave is bedoeld om u inzicht te geven in de prestaties van oplossingen.
+> Als er meerdere oplossingen in een deal zijn opgenomen, toont de tabel dezelfde deal die wordt geteld voor al deze oplossingen. U moet de waarden met betrekking tot oplossingen niet toevoegen en deze vergelijken met andere metrische gegevens over verwijzingsvolumes. Deze weergave is bedoeld om u inzicht te geven in de prestaties van oplossingen.
 
-De tabel heeft het totale aantal deals waarin de oplossing is opgenomen en de bijbehorende staten, zoals gewonnen deals, deals verloren, deals verlopen, samen met de totale gewonnen en verloren deals in USD-valuta. Er is ook een trendgrafiek voor deals rechts van de tabel met het totale aantal deals en de dealwaarde die is gewonnen in USD-valuta op basis van de oplossing die is geselecteerd. De standaardselectie is alle oplossingen.
+De tabel heeft het totale aantal deals waarin de oplossing is opgenomen en de bijbehorende staten, zoals gewonnen deals, deals verloren, deals verlopen, samen met de totale gewonnen en verloren deals in USD-valuta. Er is ook een trendgrafiek voor deals rechts van de tabel met het totale aantal deals en de dealwaarde die is gewonnen in usd-valuta op basis van de oplossing die is geselecteerd. De standaardselectie is alle oplossingen.
 
-:::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="Afbeelding van de prestaties van de oplossingen.":::
+:::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="Afbeelding met de prestaties van de oplossingen.":::
 
 ## <a name="declined--lost-reasons"></a>Geweigerde & verloren redenen
 
-Deze sectie helpt u bij het analyseren van  de redenen waarom de deals door uw bedrijf worden gemarkeerd **als** Geweigerd of Verloren. De opties in deze representaties zijn dezelfde redenen die uw verkopers hebben gekozen tijdens het sluiten van de deal als geweigerd of verloren.
+Deze sectie helpt u bij het analyseren van  de redenen waarom de deals door uw bedrijf worden gemarkeerd **als** Geweigerd of Verloren. De opties in deze weergaven zijn dezelfde redenen die uw verkopers hebben gekozen tijdens het sluiten van de deal als afgewezen of verloren.
 
 :::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Afbeelding met de redenen die zijn geselecteerd door de partner bij het afnemen of maken van een deal als verloren.":::
 
 ## <a name="comparison-charts"></a>Vergelijkingsdiagrammen
 
-De vergelijkingssectie helpt u bij het vergelijken van de gegevens met betrekking tot verwijzingen op basis van meerdere dimensies, zowel op het volume als op de waarde voor deals die in usd pivot is gewonnen.
+De vergelijkingssectie helpt u bij het vergelijken van de gegevens met betrekking tot verwijzingen op basis van meerdere dimensies, zowel op het volume als de waarde van de deals die is gewonnen in usd pivot.
 De drie dimensies die u kunt kiezen om gegevens te vergelijken, zijn
 
 - Dealtype
 - Markten
 - Oplossingen
 
-Wanneer dealtype is geselecteerd, kunt u de verwijzingsprestaties van vergelijken met betrekking tot kansen voor co-verkoop, door partners geleide en persoonlijke deals. Voor zowel markten als oplossingen kunt u maximaal drie verschillende opties kiezen om de prestaties te vergelijken. In de eerste grafiek, een staafdiagram, worden gegevens weergegeven met een maand-op-maandtrend op basis van de belangrijkste draaigrafiek, volume of de gewonnen waarde voor deals. Er is ook een cirkeldiagram rechts van het staafdiagram, waarin de verdeling per percentage voor dezelfde gegevens wordt weergegeven.
+Wanneer het type deal is geselecteerd, kunt u de verwijzingsprestaties van vergelijken met betrekking tot kansen voor co-verkoop, door partners geleide en privédeals. Voor zowel markten als oplossingen kunt u maximaal drie verschillende opties kiezen om de prestaties te vergelijken. In de eerste grafiek, een staafdiagram, worden gegevens weergegeven met een maand-op-maandtrend op basis van de belangrijkste draaigrafiek, volume of de gewonnen waarde voor deals. Er is ook een cirkeldiagram rechts van het staafdiagram, waarin de verdeling per percentage voor dezelfde gegevens wordt weergegeven.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Afbeelding van de vergelijkingssectie.":::
 
 ## <a name="raw-data-table"></a>Tabel met onbewerkte gegevens
 
-De onderstaande tabel met alle onbewerkte gegevens met  betrekking tot de kansen voor co-verkoop helpt u snel de gegevens te exporteren voor een gedetailleerde of aangepaste analyse die u wilt uitvoeren.
+De onderstaande tabel, met alle onbewerkte gegevens met betrekking  tot de kansen voor co-verkoop, helpt u snel de gegevens te exporteren voor gedetailleerde of aangepaste analyses die u wilt uitvoeren.
 
 :::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Afbeelding van de tabel met onbewerkte gegevens voor verwijzingen.":::
 
 ## <a name="no-data"></a>Geen gegevens
 
-Er kunnen meerdere redenen zijn waarom u een lege grafiek krijgt, zoals hieronder, wanneer u de analyse voor co-verkoop gebruikt, zoals hieronder wordt beschreven.
+Er kunnen meerdere redenen zijn waarom u een lege grafiek zoals hieronder krijgt bij het openen van de analyse voor co-verkoop, zoals hieronder wordt beschreven.
 
 - Er zijn geen gegevens voor dit account. Probeer deals te maken om dit rapport te vullen.
 - Er is een probleem met de netwerkverbinding. Controleer uw internetverbinding en probeer het opnieuw.
 - De pagina wordt geladen met het standaardfilter voor deals voor co-verkoop. Als u alleen privédeals hebt, stelt u het filter voor dealtype opnieuw in.
 - Er zijn geen records die overeenkomen met de filters die u hebt toegepast. Probeer de filters opnieuw in te stellen.
-- Er is een vertraging tussen de wijziging van de status van de kans en het moment dat dezelfde wordt bijgewerkt in het analyserapport. Controleer het rapport na 24 uur.
+- Er is een vertraging tussen de wijziging van de kanstoestand en het moment dat dezelfde wordt bijgewerkt in het analyserapport. Controleer het rapport na 24 uur.
 
 :::image type="content" source="images/referrals/nodata.png" alt-text="Afbeelding met geen gegevensvisualisatie voor verwijzingen.":::
 
@@ -123,4 +127,4 @@ Er kunnen meerdere redenen zijn waarom u een lege grafiek krijgt, zoals hieronde
 > Op de pagina **Inzichten voor verwijzingen** worden alleen gegevens weergegeven voor verwijzingen die zijn gegenereerd in het Partnercentrum. Er worden geen gegevens voor verwijzingen die zijn gegenereerd via [Partner Sales Connect](psc-to-pc.md) of andere mechanismen.
 
 > [!TIP]
-> Als u wilt zien hoe uw bedrijfsprofiel presteert in [de](https://www.microsoft.com/solution-providers/home) ervaring Een oplossingsprovider zoeken, bekijkt u de pagina Zakelijke [profielinzichten.](analyze-your-marketing-profile.md)
+> Als u wilt zien hoe uw bedrijfsprofiel presteert in [de](https://www.microsoft.com/solution-providers/home) ervaring Een oplossingsprovider zoeken, bekijkt u de pagina [Bedrijfsprofielinzichten.](analyze-your-marketing-profile.md)

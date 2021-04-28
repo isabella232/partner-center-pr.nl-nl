@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528606"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120763"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programma regionale markten en valuta's waarin u CSP-aanbiedingen kunt verkopen
+
+**Juiste rollen**
+
+- Globale beheerder
 
 De locatie van uw bedrijf bepaalt uw markt. Uw markt omvat de regio's en/of landen waar u aanbiedingen Cloud Solution Provider CSP-programma 's kunt verkopen.
 
@@ -26,7 +30,7 @@ Voordat u CSP-aanbiedingen namens een klant kunt bestellen, moet de klant de Mic
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Beschikbaarheid van Azure Plan voor CSP-regio  
 
-Azure Plan voor CSP is beschikbaar in minder regio's dan Azure Software for CSP.  Raadpleeg Het  [Azure-plan aanschaffen voor de](purchase-azure-plan.md) nieuwste updates over regionale beschikbaarheid voor Azure Plan. 
+Het Azure-plan voor CSP is beschikbaar in minder regio's dan Azure Software voor CSP. Zie Het Azure-abonnement kopen voor de meest recente updates over regionale beschikbaarheid voor [het Azure-abonnement.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
 > U moet bevestigen dat een klant de Microsoft-klantovereenkomst door informatie op te geven over de persoon die het heeft ondertekend. Zie [Bevestig dat een klant de Microsoft-klantovereenkomst](confirm-consent.md) voor meer informatie.
@@ -40,7 +44,7 @@ Als uw land niet wordt ondersteund, stelt u de klant-CSP-relatie tot stand met b
 
 - Partners voor directe factuur gebruiken de volgende URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Vervang **partnertenantguid door** uw tenant-id. 
 
-- De URL voor indirecte resellers is: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . U vervangt **IRtenantguid door** uw tenant-id. Vervang **IRMPNID door** uw MPN-id en vervang **IPtenantguid door** de tenant-id van uw indirecte provider.
+- De URL voor indirecte resellers is: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Vervang **IRtenantguid door** uw tenant-id. Vervang **IRMPNID door** uw MPN-id en vervang **IPtenantguid door** de tenant-id van uw indirecte provider.
 
 ## <a name="africa-region-and-market"></a>Regio en markt in Afrika
 
