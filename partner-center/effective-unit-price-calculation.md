@@ -9,18 +9,22 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528563"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172214"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Berekening van de effectieve eenheidsprijs voor azure-planverbruik
 
+**Juiste rollen**
+
+- Factureringsbeheerder
+
 ## <a name="the-effective-unit-price"></a>De effectieve eenheidsprijs
 
-De effectieve eenheidsprijs wordt berekend op meterniveau (in tegenstelling tot het resourceniveau) en wordt dagelijks aangepast op basis van metergebruik.
+De effectieve eenheidsprijs wordt berekend op meterniveau (in tegenstelling tot het resourceniveau) en wordt dagelijks aangepast op basis van het metergebruik.
 
 We berekenen de effectieve eenheidsprijs aan de hand van de volgende drie factoren:
 

@@ -1,49 +1,49 @@
 ---
-title: Een micro soft-partner zoeken
+title: Een Microsoft-partner zoeken
 ms.topic: article
 ms.date: 08/25/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Als micro soft-partner hebt u mogelijk vragen over hoe u uw klanten of specifieke Program ma's kunt helpen. Zoek andere partners die u kunnen helpen.
+description: Als Microsoft-partner hebt u mogelijk vragen over hoe u uw klanten of specifieke programma's kunt helpen. Zoek andere partners die u kunnen helpen.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b056d21fd1581c9fa478f720addec0c1d4c3c87
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "92528205"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172333"
 ---
-# <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Zoek een partner of oplossings provider voor het beantwoorden van vragen over Program ma's, licenties of klant deals 
+# <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Een partner of oplossingsprovider zoeken om vragen over programma's, licenties of klantdeals te beantwoorden 
 
-**Van toepassing op**
+**Juiste rollen**
 
-- Micro soft MPN-partners, CSP-partners en anderen
+- Alle Microsoft-partners
 
-In dit artikel wordt uitgelegd hoe u met micro soft-partners andere partners kunt vinden die hen kunnen helpen en hun klanten met micro soft-producten en-services.
+Dit artikel laat Microsoft-partners weten hoe ze andere partners kunnen vinden die hen en hun klanten kunnen helpen met Microsoft-producten en -services.
 
-## <a name="different-microsoft-partners-and-solution-providers"></a>Verschillende micro soft-partners en leveranciers van oplossingen
+## <a name="different-microsoft-partners-and-solution-providers"></a>Verschillende Microsoft-partners en -oplossingsproviders
 
-Er zijn veel soorten partners of distributeurs in het micro soft partner ecosysteem. Enkele van de onderwerpen die in dit artikel worden behandeld, zijn:
+Er zijn veel soorten partners of distributeurs in het Ecosysteem van Microsoft-partners. Enkele van de in dit artikel beschreven informatie zijn:
 
-- Indirecte wederverkopers van de Cloud Solution Provider (CSP) en hun indirecte providers
-- Volume licentie programma distributeurs
+- Cloud Solution Provider (CSP) programma indirecte resellers en hun indirecte providers
+- Distributeurs van het volumelicentieprogramma
 - OEM-distributeurs
 
-Zie voor meer informatie over partner relaties in het CSP-programma [verschillende manieren om met andere partners in het partner centrum te werken](work-with-other-partners.md).
+Zie Voor meer informatie over partnerrelaties in het CSP-programma Verschillende manieren waarop u met andere [partners kunt werken in Partner Center.](work-with-other-partners.md)
 
-## <a name="find-a-partner-solution-provider-or-distributor"></a>Een partner, oplossings provider of distributeur zoeken
+## <a name="find-a-partner-solution-provider-or-distributor"></a>Een partner, oplossingsprovider of distributeur zoeken
 
-Raadpleeg de volgende tabel om u te helpen een partner of distributeur te vinden.
+Zie de volgende tabel om een partner of distributeur te vinden.
 
 |Functie  | Leest u  |
 |:------------------|:--------------- |
-|Een indirecte CSP-provider zoeken *(voor indirecte leveranciers van CSP die nog geen toegewezen indirecte provider hebben)* | [Zoek pagina voor de Microsoft Partner Network voor indirecte providers](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
-|Een Volume Licensing Program solution provider of distributeur zoeken  | [Zoek pagina voor micro soft Solution Provider](https://www.microsoft.com/solution-providers/home)  |
-|Een door micro soft geautoriseerde OEM Channel-distributeur zoeken  | [OEM-zoek pagina voor micro soft Device Partner Center](https://devicepartner.microsoft.com/connect/distributor)  |
+|Een indirecte CSP-provider *zoeken (voor indirecte CSP-resellers die* nog geen indirecte provider hebben toegewezen) | [Microsoft Partner Network de zoekpagina voor indirecte provider](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
+|Een oplossingsprovider of distributeur voor het volumelicentieprogramma zoeken  | [Zoekpagina van Microsoft-oplossingsprovider](https://www.microsoft.com/solution-providers/home)  |
+|Een geautoriseerde OEM-kanaaldistributeur van Microsoft zoeken  | [Oem Partner Center zoekpagina voor Microsoft Device Partner Center](https://devicepartner.microsoft.com/connect/distributor)  |
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Word een indirecte wederverkoper in het CSP-programma](https://partner.microsoft.com/licensing)
-- [Meer informatie over indirecte wederverkopers en indirecte providers in het CSP-programma](work-with-other-partners.md)
+- [Een indirecte reseller worden in het CSP-programma](https://partner.microsoft.com/licensing)
+- [Meer informatie over indirecte resellers en indirecte providers in het CSP-programma](work-with-other-partners.md)

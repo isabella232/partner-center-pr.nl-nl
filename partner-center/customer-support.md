@@ -1,6 +1,6 @@
 ---
 title: Ondersteuning bieden aan uw klanten
-description: Meer informatie over de verantwoordelijkheden van de klant ondersteuning voor partners in het CSP-programma. Behandelt ondersteuning voor facturering, abonnements beheer en technische problemen.
+description: Meer informatie over de verantwoordelijkheden van klantondersteuning voor partners in het CSP-programma. Behandelt ondersteuning voor facturering, abonnementsbeheer en technische problemen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: Kim-Davis
@@ -9,47 +9,49 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 315089a3a20fdd5f9de283494e735f54bd351806
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.openlocfilehash: 2c44581b1c2d7fcf2e4a10de9194a8c7288791a2
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541022"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172265"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Verschillende soorten ondersteuning bieden aan uw klanten
 
 **Van toepassing op**
 
--  Partnercentrum
 -  Partnercentrum voor Microsoft Cloud for US Government
 
+**Juiste rollen**
 
-## <a name="microsoft-partner-support-guidance"></a>Ondersteunings richtlijnen voor micro soft partner
+- Help-agent
 
-Partners die in het CSP-model handelen, zijn de vertrouwde Advisor voor hun klanten en, als u een directe factuur partner bent, eigenaar van de relatie end-to-end. Indirecte wederverkopers moeten samen werken met hun indirecte providers om klanten te ondersteunen. Deze relatie omvat het ondersteunen van uw klanten wanneer ze vragen of problemen hebben. Door ondersteuning te bieden aan uw klanten, hebt u de mogelijkheid om meer te weten te komen over hen en hun bedrijf. Dit helpt u bij het identificeren van nieuwe services en oplossingen die van waarde zijn.
+## <a name="microsoft-partner-support-guidance"></a>Ondersteuningshulp voor Microsoft-partners
 
-Als u wilt voldoen aan de vereiste voor ondersteuning, kunt u de ondersteuning van een ander bedrijf door geven, alle of een deel van de ondersteunings structuur uitbesteden en/of een structuur instellen om direct ondersteuning te bieden. U kunt kosten in rekening brengen voor het geheel of een deel van de ondersteuning van klanten. Zorg ervoor dat u klanten de soorten ondersteuning geeft, de service-uren, de contact methode en de prijzen (als de kosten worden geloosd).
+Partners die in het CSP-model werken, zijn de vertrouwde advisor voor hun klanten en, als u een directe factuurpartner bent, eigenaar van de relatie end-to-end. Indirecte resellers moeten samenwerken met hun indirecte providers om klanten te ondersteunen. Deze relatie omvat het ondersteunen van uw klanten wanneer ze vragen of problemen hebben. Door uw klanten ondersteuning te bieden, hebt u de mogelijkheid om meer over hen en hun bedrijf te leren. Zo kunt u nieuwe services en oplossingen identificeren die waarde creëren.
 
-CSP-klanten kunnen zelf geen ondersteunings tickets maken. Ze moeten contact met u opnemen voor ondersteuning. CSP-partners zijn verplicht om inkomende ondersteunings aanvragen van hun klanten te ontvangen, problemen op te lossen voor het beste van uw mogelijkheden en vervolgens problemen op te sporen die binnen het bereik van de grenzen voor basislijn ondersteuning vallen. Als het probleem niet kan worden opgelost, kunt u problemen naar micro soft escaleren via de volgende ondersteunings voertuigen:
+Om te voldoen aan de ondersteuningsvereiste, kunt u ondersteuning van een ander bedrijf opnieuw verkopen, de ondersteuningsstructuur volledig of deels uitbesteeden en/of een structuur instellen om rechtstreeks ondersteuning te bieden. U kunt kosten in rekening brengen voor alle of een deel van de ondersteuning die aan klanten wordt geleverd. Zorg ervoor dat u klanten de soorten ondersteuning die u biedt, de serviceuren, de contactmethode en de prijzen (indien in rekening brengen voor ondersteuning) doorsuurt.
 
-- Ondersteuning voor **commerciële** problemen is beschikbaar voor alle partners in het CSP-programma
+CSP-klanten kunnen zelf geen ondersteuningstickets maken. Ze moeten contact met u opnemen voor ondersteuning. CSP-partners moeten binnenkomende ondersteuningsaanvragen van hun klanten ontvangen, problemen zo goed mogelijk diagnosticeren en vervolgens problemen oplossen die binnen het bereik van de basislijnondersteuningsgrenzen vallen. Als u een probleem niet kunt oplossen, kunt u problemen naar Microsoft escaleren via de volgende ondersteuningswagens:
 
-- Ondersteuning voor **technische** problemen: u kunt [ondersteunings abonnementen voor partners vergelijken](https://partner.microsoft.com/support/partnersupport) of voor meer informatie raadpleegt u de volgende koppelingen over een specifiek ondersteunings plan:
+- **Ondersteuning** voor commerciële problemen is beschikbaar voor alle partners in het CSP-programma
 
-  - [Premier Support voor partners](https://partner.microsoft.com/support/microsoft-services-premier-support) (basis van de kosten, gebruik voor alle producten)
+- **Ondersteuning** voor technische problemen: u kunt [ondersteuningsplannen van](https://partner.microsoft.com/support/partnersupport) partners vergelijken of zie de volgende koppelingen over een specifiek ondersteuningsplan voor meer informatie:
 
-  - [Geavanceerde ondersteuning voor partners](https://partner.microsoft.com/support/advanced-cloud-support) (basis van de kosten, alleen voor Cloud producten)
+  - [Premier Support voor partners](https://partner.microsoft.com/support/microsoft-services-premier-support) (basiskosten, gebruik voor alle producten)
 
-  - [Ondersteuning voor hand tekeningen](manage-your-partner-network-benefits.md) in de Cloud (opgenomen in MPN-voor delen voor Gold-of Silver-competenties, alleen voor Cloud producten)
+  - [Geavanceerde ondersteuning voor partners](https://partner.microsoft.com/support/advanced-cloud-support) (basiskosten, alleen voor cloudproducten)
 
-  - [Incidenten met product ondersteuning](manage-your-partner-network-benefits.md) (opgenomen in MPN-voor delen voor Gold-, Silver-of micro soft Action Pack-partners, alleen voor recente on-premises producten)
+  - [Signature Cloud Support](manage-your-partner-network-benefits.md) (opgenomen in MPN-voordelen voor Gold- of Silver-competenties, alleen gebruiken voor cloudproducten)
 
-## <a name="providing-billing-subscription-management-and-technical-support"></a>Facturering, abonnements beheer en technische ondersteuning bieden 
+  - [Productondersteuningsincidenten](manage-your-partner-network-benefits.md) (opgenomen in MPN-voordelen voor Gold-, Silver- of Microsoft Action Pack-partners, alleen gebruiken voor recente on-premises producten)
 
-Elke online service heeft specifieke en gedetailleerde vereisten voor het bieden van facturering, abonnements beheer en technische ondersteuning voor klanten. Zie de volgende documenten voor meer informatie.
+## <a name="providing-billing-subscription-management-and-technical-support"></a>Facturering, abonnementsbeheer en technische ondersteuning bieden 
+
+Elke onlineservice heeft specifieke en gedetailleerde vereisten voor het bieden van facturering, abonnementsbeheer en technische ondersteuning aan klanten. Zie de volgende documenten voor meer informatie.
 
 - [Dynamics 365-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [Azure-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Microsoft Office 365-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Microsoft Office 365-abonnementen verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)

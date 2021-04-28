@@ -1,81 +1,85 @@
 ---
-title: Tenant-ID, domein naam, gebruikers object-ID zoeken
+title: Tenant-id, domeinnaam, gebruikersobject-id zoeken
 ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: "Meer informatie over het zoeken naar Id's in de Azure Portal: de Azure AD-Tenant-ID, domein naam of specifieke gebruikers object-ID van een organisatie. Sommige taken hebben deze informatie nodig."
+description: Informatie over het vinden van id's in de Azure Portal- de Azure AD-tenant-id, domeinnaam of specifieke gebruikersobject-id van een organisatie. Sommige taken hebben deze informatie nodig.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439233"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172248"
 ---
-# <a name="locate-important-ids-for-a-user"></a>Belang rijke Id's voor een gebruiker zoeken
+# <a name="locate-important-ids-for-a-user"></a>Belangrijke ID's voor een gebruiker zoeken
 
-In dit artikel wordt beschreven hoe u de [Azure Portal](https://portal.azure.com/) kunt gebruiken om de volgende informatie te vinden voor een gebruiker:
+**Juiste rollen**
 
-- De Tenant-ID van het Microsoft Azure Active Directory (Azure AD) van de organisatie of het bedrijf van de gebruiker
+- Globale beheerder
 
-- De primaire domein naam van de organisatie of het bedrijf dat is gekoppeld aan de Azure AD-Tenant
+In dit artikel wordt beschreven hoe u de [Azure Portal](https://portal.azure.com/) zoeken naar de volgende informatie voor een gebruiker:
 
-- De gebruikers object-ID
+- De Microsoft Azure Active Directory tenant-id (Azure AD) van de organisatie of het bedrijf van de gebruiker
 
-## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>De Microsoft Azure AD Tenant-ID en primaire domein naam zoeken
+- De primaire domeinnaam van de organisatie of het bedrijf dat is gekoppeld aan de Azure AD-tenant
 
-Volg deze stappen om de Tenant-ID van Azure AD of de primaire domein naam binnen de Azure Portal te vinden. (Als u een Tenant-ID wilt zoeken via een programma, raadpleegt u [Tenant-id zoeken met Power shell of cli](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)
+- De object-id van de gebruiker
+
+## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>De tenant Microsoft Azure AD-id en primaire domeinnaam zoeken
+
+Volg deze stappen om de Azure AD-tenant-id of primaire domeinnaam in de Azure Portal. (Zie Tenant-id zoeken met [PowerShell](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)of CLI als u programmatisch een tenant-id wilt zoeken.
 
 > [!NOTE]
-> De Tenant-ID kan verschillende namen in verschillende toepassingen of bronnen worden genoemd. De Tenant-ID kan bijvoorbeeld worden aangeduid als de Directory-ID, de Azure Active Directory (Azure AD)-Tenant, micro soft-ID of voor bepaalde rapporten, zelfs het *tenantguid*.
+> De tenant-id kan verschillende namen worden genoemd in verschillende toepassingen of resources. De tenant-id kan bijvoorbeeld worden aangeduid als de directory-id, de Azure Active Directory-tenant (Azure AD), Microsoft ID of voor bepaalde rapporten, zelfs de *tenantguid*.
 
-1. Meld u aan bij [Azure Portal](https://portal.azure.com/).
-
-2. Selecteer **Azure Active Directory** in het menu.
-
-   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Toont Azure Portal het selecteren van de Azure Active Directory optie in het menu.":::
-
-3. Er wordt een Azure Active Directory **overzichts** pagina weer gegeven. Als u de Tenant-ID van Azure AD of de naam van het primaire domein wilt zoeken, zoekt u naar het veld **Tenant-id** en het veld **primair domein** . Deze velden worden weer gegeven in de sectie informatie over tenants.
-
-   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Geeft overzichts pagina weer met twee gemarkeerde velden, Tenant-ID en primaire domein naam.":::
-
-4. U kunt de Tenant-ID in de Azure Portal op een paar andere manieren vinden. Selecteer **Azure Active Directory** in het menu. Zoek vervolgens de sectie **beheren** in het menu en selecteer **Eigenschappen**.
-
-   Op de pagina eigenschappen wordt ook de bijbehorende Tenant-ID van de gebruiker weer gegeven.
-
-   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Eigenschappen pagina met gemarkeerd Tenant-ID-veld weer geven.":::
-
-## <a name="find-the-user-object-id"></a>De gebruikers object-ID zoeken
-
-Het is niet altijd voldoende om de domein naam en Tenant-ID te zoeken. Mogelijk moet u ook de specifieke object-ID vinden die aan een gebruiker is toegewezen. Volg deze stappen om de object-ID van een gebruiker te zoeken in de Azure Portal:
-
-1. Meld u aan bij [Azure Portal](https://portal.azure.com/).
+1. Meld u aan bij de [Azure-portal](https://portal.azure.com/).
 
 2. Selecteer **Azure Active Directory** in het menu.
 
-3. Ga naar de sectie **beheren** in het menu en selecteer vervolgens **gebruikers**.
+   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Toont Azure Portal de optie Azure Active Directory selecteren in het menu.":::
 
-      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Toont Azure Active Directory menu met gemarkeerde gebruikers opties.":::
+3. Er Azure Active Directory **pagina Overzicht** weergegeven. Als u de Azure AD-tenant-id of primaire domeinnaam wilt zoeken, gaat u naar het **veld Tenant-id** en **het veld Primair** domein. Deze velden worden weergegeven in de sectie Tenantgegevens.
 
-4. Typ op de pagina gebruikers de naam van de gebruiker in het zoekvak.
+   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Toont de pagina Overzicht met twee gemarkeerde velden, tenant-id en primaire domeinnaam.":::
 
-      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Toont de pagina gebruikers met het zoekvak om te zoeken naar een specifieke gebruiker.":::
+4. U kunt de tenant-id op een Azure Portal andere manieren vinden. Selecteer **Azure Active Directory** in het menu. Zoek vervolgens de sectie **Beheren** in het menu en selecteer **Eigenschappen.**
 
-5. Selecteer de naam van de gebruiker die wordt weer gegeven in de lijst.  
+   Op de pagina Eigenschappen wordt ook de gekoppelde tenant-id van de gebruiker weergegeven.
 
-      :::image type="content" source="images/id/6-find-id-azure-portal-select-user-name-partial.png" alt-text="Gebruikers pagina weer geven waarin een rij voor de gezochte gebruiker wordt weer gegeven.":::
+   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Toont de pagina Eigenschappen met het gemarkeerde veld Tenant-id.":::
 
-6. Zoek de sectie identiteit op de profiel pagina van de gebruiker. Het veld object-ID wordt hier weer gegeven met de unieke object-ID van de gebruiker.
+## <a name="find-the-user-object-id"></a>De object-id van de gebruiker zoeken
 
-      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Hiermee wordt de gebruikers profiel pagina met de identiteits sectie en één gemarkeerd veld voor de object-ID weer gegeven.":::
+Alleen het vinden van de domeinnaam en tenant-id is mogelijk niet altijd voldoende. Mogelijk moet u ook de specifieke object-id vinden die aan een gebruiker is toegewezen. Volg deze stappen om de object-id van een gebruiker te vinden in de Azure Portal:
+
+1. Meld u aan bij de [Azure-portal](https://portal.azure.com/).
+
+2. Selecteer **Azure Active Directory** in het menu.
+
+3. Zoek de **sectie** Beheren in het menu en selecteer vervolgens **Gebruikers.**
+
+      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Geeft Azure Active Directory menu weer met gemarkeerde optie Gebruikers.":::
+
+4. Typ op de pagina Gebruikers de naam van de gebruiker in het zoekvak.
+
+      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Toont de pagina Gebruikers met een zoekvak om te zoeken naar een specifieke gebruiker.":::
+
+5. Selecteer de naam van de gebruiker waar deze wordt weergegeven in de lijst.  
+
+      :::image type="content" source="images/id/6-find-id-azure-portal-select-user-name-partial.png" alt-text="Toont de pagina Gebruiker met een rij voor de gezochte gebruiker.":::
+
+6. Zoek de sectie Identiteit op de pagina Profiel van de gebruiker. Het veld Object-id wordt hier weergegeven met de unieke object-id van de gebruiker.
+
+      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Toont de pagina Gebruikersprofiel met de sectie Identiteit en één gemarkeerd veld voor Object-id.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Uw Tenant-ID programmatisch vinden met Power shell of CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
-- [Meer informatie over gebruikers profielen in Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
-- [Ontdek hoe partners klant gegevens kunnen zien of exporteren in het partner centrum](see-your-customer-list.md)
+- [Uw tenant-id programmatisch zoeken met PowerShell of CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
+- [Meer informatie over gebruikersprofielen in Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Ontdek hoe partners klantgegevens kunnen zien of exporteren in Partner Center](see-your-customer-list.md)
 
