@@ -1,81 +1,85 @@
 ---
-title: Tenant-ID, domein naam, gebruikers object-ID zoeken
+title: Tenant-id, domeinnaam, gebruikersobject-id zoeken
 ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: "Meer informatie over het zoeken naar Id's in de Azure Portal: de Azure AD-Tenant-ID, domein naam of specifieke gebruikers object-ID van een organisatie. Sommige taken hebben deze informatie nodig."
+description: Informatie over het vinden van id's in de Azure Portal- de Azure AD-tenant-id, domeinnaam of specifieke gebruikersobject-id van een organisatie. Sommige taken hebben deze informatie nodig.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439233"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172248"
 ---
-# <a name="locate-important-ids-for-a-user"></a><span data-ttu-id="c78c8-104">Belang rijke Id's voor een gebruiker zoeken</span><span class="sxs-lookup"><span data-stu-id="c78c8-104">Locate important IDs for a user</span></span>
+# <a name="locate-important-ids-for-a-user"></a><span data-ttu-id="b4399-104">Belangrijke ID's voor een gebruiker zoeken</span><span class="sxs-lookup"><span data-stu-id="b4399-104">Locate important IDs for a user</span></span>
 
-<span data-ttu-id="c78c8-105">In dit artikel wordt beschreven hoe u de [Azure Portal](https://portal.azure.com/) kunt gebruiken om de volgende informatie te vinden voor een gebruiker:</span><span class="sxs-lookup"><span data-stu-id="c78c8-105">This article describes how to use the [Azure portal](https://portal.azure.com/) to locate the following information for a user:</span></span>
+<span data-ttu-id="b4399-105">**Juiste rollen**</span><span class="sxs-lookup"><span data-stu-id="b4399-105">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="c78c8-106">De Tenant-ID van het Microsoft Azure Active Directory (Azure AD) van de organisatie of het bedrijf van de gebruiker</span><span class="sxs-lookup"><span data-stu-id="c78c8-106">The Microsoft Azure Active Directory (Azure AD) tenant ID of the user's organization or company</span></span>
+- <span data-ttu-id="b4399-106">Globale beheerder</span><span class="sxs-lookup"><span data-stu-id="b4399-106">Global admin</span></span>
 
-- <span data-ttu-id="c78c8-107">De primaire domein naam van de organisatie of het bedrijf dat is gekoppeld aan de Azure AD-Tenant</span><span class="sxs-lookup"><span data-stu-id="c78c8-107">The primary domain name of the organization or company associated with the Azure AD tenant</span></span>
+<span data-ttu-id="b4399-107">In dit artikel wordt beschreven hoe u de [Azure Portal](https://portal.azure.com/) zoeken naar de volgende informatie voor een gebruiker:</span><span class="sxs-lookup"><span data-stu-id="b4399-107">This article describes how to use the [Azure portal](https://portal.azure.com/) to locate the following information for a user:</span></span>
 
-- <span data-ttu-id="c78c8-108">De gebruikers object-ID</span><span class="sxs-lookup"><span data-stu-id="c78c8-108">The user object ID</span></span>
+- <span data-ttu-id="b4399-108">De Microsoft Azure Active Directory tenant-id (Azure AD) van de organisatie of het bedrijf van de gebruiker</span><span class="sxs-lookup"><span data-stu-id="b4399-108">The Microsoft Azure Active Directory (Azure AD) tenant ID of the user's organization or company</span></span>
 
-## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a><span data-ttu-id="c78c8-109">De Microsoft Azure AD Tenant-ID en primaire domein naam zoeken</span><span class="sxs-lookup"><span data-stu-id="c78c8-109">Find the Microsoft Azure AD tenant ID and primary domain name</span></span>
+- <span data-ttu-id="b4399-109">De primaire domeinnaam van de organisatie of het bedrijf dat is gekoppeld aan de Azure AD-tenant</span><span class="sxs-lookup"><span data-stu-id="b4399-109">The primary domain name of the organization or company associated with the Azure AD tenant</span></span>
 
-<span data-ttu-id="c78c8-110">Volg deze stappen om de Tenant-ID van Azure AD of de primaire domein naam binnen de Azure Portal te vinden.</span><span class="sxs-lookup"><span data-stu-id="c78c8-110">Follow these steps to locate the Azure AD tenant ID or primary domain name within the Azure portal.</span></span> <span data-ttu-id="c78c8-111">(Als u een Tenant-ID wilt zoeken via een programma, raadpleegt u [Tenant-id zoeken met Power shell of cli](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)</span><span class="sxs-lookup"><span data-stu-id="c78c8-111">(If you'd like to find a tenant ID programmatically, see [Find tenant ID with PowerShell or CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)</span></span>
+- <span data-ttu-id="b4399-110">De object-id van de gebruiker</span><span class="sxs-lookup"><span data-stu-id="b4399-110">The user object ID</span></span>
+
+## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a><span data-ttu-id="b4399-111">De tenant Microsoft Azure AD-id en primaire domeinnaam zoeken</span><span class="sxs-lookup"><span data-stu-id="b4399-111">Find the Microsoft Azure AD tenant ID and primary domain name</span></span>
+
+<span data-ttu-id="b4399-112">Volg deze stappen om de Azure AD-tenant-id of primaire domeinnaam in de Azure Portal.</span><span class="sxs-lookup"><span data-stu-id="b4399-112">Follow these steps to locate the Azure AD tenant ID or primary domain name within the Azure portal.</span></span> <span data-ttu-id="b4399-113">(Zie Tenant-id zoeken met [PowerShell](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)of CLI als u programmatisch een tenant-id wilt zoeken.</span><span class="sxs-lookup"><span data-stu-id="b4399-113">(If you'd like to find a tenant ID programmatically, see [Find tenant ID with PowerShell or CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="c78c8-112">De Tenant-ID kan verschillende namen in verschillende toepassingen of bronnen worden genoemd.</span><span class="sxs-lookup"><span data-stu-id="c78c8-112">The tenant ID may be called different names in different applications or resources.</span></span> <span data-ttu-id="c78c8-113">De Tenant-ID kan bijvoorbeeld worden aangeduid als de Directory-ID, de Azure Active Directory (Azure AD)-Tenant, micro soft-ID of voor bepaalde rapporten, zelfs het *tenantguid*.</span><span class="sxs-lookup"><span data-stu-id="c78c8-113">For example, the tenant ID may be referred to as the directory ID, the Azure Active Directory (Azure AD) tenant, Microsoft ID, or for certain reports, even the *tenantguid*.</span></span>
+> <span data-ttu-id="b4399-114">De tenant-id kan verschillende namen worden genoemd in verschillende toepassingen of resources.</span><span class="sxs-lookup"><span data-stu-id="b4399-114">The tenant ID may be called different names in different applications or resources.</span></span> <span data-ttu-id="b4399-115">De tenant-id kan bijvoorbeeld worden aangeduid als de directory-id, de Azure Active Directory-tenant (Azure AD), Microsoft ID of voor bepaalde rapporten, zelfs de *tenantguid*.</span><span class="sxs-lookup"><span data-stu-id="b4399-115">For example, the tenant ID may be referred to as the directory ID, the Azure Active Directory (Azure AD) tenant, Microsoft ID, or for certain reports, even the *tenantguid*.</span></span>
 
-1. <span data-ttu-id="c78c8-114">Meld u aan bij [Azure Portal](https://portal.azure.com/).</span><span class="sxs-lookup"><span data-stu-id="c78c8-114">Sign in to the [Azure portal](https://portal.azure.com/).</span></span>
+1. <span data-ttu-id="b4399-116">Meld u aan bij de [Azure-portal](https://portal.azure.com/).</span><span class="sxs-lookup"><span data-stu-id="b4399-116">Sign in to the [Azure portal](https://portal.azure.com/).</span></span>
 
-2. <span data-ttu-id="c78c8-115">Selecteer **Azure Active Directory** in het menu.</span><span class="sxs-lookup"><span data-stu-id="c78c8-115">Select **Azure Active Directory** from the menu.</span></span>
+2. <span data-ttu-id="b4399-117">Selecteer **Azure Active Directory** in het menu.</span><span class="sxs-lookup"><span data-stu-id="b4399-117">Select **Azure Active Directory** from the menu.</span></span>
 
-   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Toont Azure Portal het selecteren van de Azure Active Directory optie in het menu.":::
+   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Toont Azure Portal de optie Azure Active Directory selecteren in het menu.":::
 
-3. <span data-ttu-id="c78c8-117">Er wordt een Azure Active Directory **overzichts** pagina weer gegeven.</span><span class="sxs-lookup"><span data-stu-id="c78c8-117">An Azure Active Directory **Overview** page appears.</span></span> <span data-ttu-id="c78c8-118">Als u de Tenant-ID van Azure AD of de naam van het primaire domein wilt zoeken, zoekt u naar het veld **Tenant-id** en het veld **primair domein** .</span><span class="sxs-lookup"><span data-stu-id="c78c8-118">To find the Azure AD tenant ID or primary domain name, look for the **Tenant ID** field and the **Primary domain** field.</span></span> <span data-ttu-id="c78c8-119">Deze velden worden weer gegeven in de sectie informatie over tenants.</span><span class="sxs-lookup"><span data-stu-id="c78c8-119">These fields appear in the Tenant information section.</span></span>
+3. <span data-ttu-id="b4399-119">Er Azure Active Directory **pagina Overzicht** weergegeven.</span><span class="sxs-lookup"><span data-stu-id="b4399-119">An Azure Active Directory **Overview** page appears.</span></span> <span data-ttu-id="b4399-120">Als u de Azure AD-tenant-id of primaire domeinnaam wilt zoeken, gaat u naar het **veld Tenant-id** en **het veld Primair** domein.</span><span class="sxs-lookup"><span data-stu-id="b4399-120">To find the Azure AD tenant ID or primary domain name, look for the **Tenant ID** field and the **Primary domain** field.</span></span> <span data-ttu-id="b4399-121">Deze velden worden weergegeven in de sectie Tenantgegevens.</span><span class="sxs-lookup"><span data-stu-id="b4399-121">These fields appear in the Tenant information section.</span></span>
 
-   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Geeft overzichts pagina weer met twee gemarkeerde velden, Tenant-ID en primaire domein naam.":::
+   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Toont de pagina Overzicht met twee gemarkeerde velden, tenant-id en primaire domeinnaam.":::
 
-4. <span data-ttu-id="c78c8-121">U kunt de Tenant-ID in de Azure Portal op een paar andere manieren vinden.</span><span class="sxs-lookup"><span data-stu-id="c78c8-121">You can find the tenant ID in the Azure portal in a few other ways.</span></span> <span data-ttu-id="c78c8-122">Selecteer **Azure Active Directory** in het menu.</span><span class="sxs-lookup"><span data-stu-id="c78c8-122">Select **Azure Active Directory** from the menu.</span></span> <span data-ttu-id="c78c8-123">Zoek vervolgens de sectie **beheren** in het menu en selecteer **Eigenschappen**.</span><span class="sxs-lookup"><span data-stu-id="c78c8-123">Then, locate the **Manage** section on the menu and select **Properties**.</span></span>
+4. <span data-ttu-id="b4399-123">U kunt de tenant-id op een Azure Portal andere manieren vinden.</span><span class="sxs-lookup"><span data-stu-id="b4399-123">You can find the tenant ID in the Azure portal in a few other ways.</span></span> <span data-ttu-id="b4399-124">Selecteer **Azure Active Directory** in het menu.</span><span class="sxs-lookup"><span data-stu-id="b4399-124">Select **Azure Active Directory** from the menu.</span></span> <span data-ttu-id="b4399-125">Zoek vervolgens de sectie **Beheren** in het menu en selecteer **Eigenschappen.**</span><span class="sxs-lookup"><span data-stu-id="b4399-125">Then, locate the **Manage** section on the menu and select **Properties**.</span></span>
 
-   <span data-ttu-id="c78c8-124">Op de pagina eigenschappen wordt ook de bijbehorende Tenant-ID van de gebruiker weer gegeven.</span><span class="sxs-lookup"><span data-stu-id="c78c8-124">The Properties page also displays the user's associated Tenant ID.</span></span>
+   <span data-ttu-id="b4399-126">Op de pagina Eigenschappen wordt ook de gekoppelde tenant-id van de gebruiker weergegeven.</span><span class="sxs-lookup"><span data-stu-id="b4399-126">The Properties page also displays the user's associated Tenant ID.</span></span>
 
-   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Eigenschappen pagina met gemarkeerd Tenant-ID-veld weer geven.":::
+   :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Toont de pagina Eigenschappen met het gemarkeerde veld Tenant-id.":::
 
-## <a name="find-the-user-object-id"></a><span data-ttu-id="c78c8-126">De gebruikers object-ID zoeken</span><span class="sxs-lookup"><span data-stu-id="c78c8-126">Find the user object ID</span></span>
+## <a name="find-the-user-object-id"></a><span data-ttu-id="b4399-128">De object-id van de gebruiker zoeken</span><span class="sxs-lookup"><span data-stu-id="b4399-128">Find the user object ID</span></span>
 
-<span data-ttu-id="c78c8-127">Het is niet altijd voldoende om de domein naam en Tenant-ID te zoeken.</span><span class="sxs-lookup"><span data-stu-id="c78c8-127">Just finding the domain name and tenant ID may not always be enough.</span></span> <span data-ttu-id="c78c8-128">Mogelijk moet u ook de specifieke object-ID vinden die aan een gebruiker is toegewezen.</span><span class="sxs-lookup"><span data-stu-id="c78c8-128">You may also need to locate the specific object ID assigned to a user.</span></span> <span data-ttu-id="c78c8-129">Volg deze stappen om de object-ID van een gebruiker te zoeken in de Azure Portal:</span><span class="sxs-lookup"><span data-stu-id="c78c8-129">Follow these steps to find a user's object ID in the Azure portal:</span></span>
+<span data-ttu-id="b4399-129">Alleen het vinden van de domeinnaam en tenant-id is mogelijk niet altijd voldoende.</span><span class="sxs-lookup"><span data-stu-id="b4399-129">Just finding the domain name and tenant ID may not always be enough.</span></span> <span data-ttu-id="b4399-130">Mogelijk moet u ook de specifieke object-id vinden die aan een gebruiker is toegewezen.</span><span class="sxs-lookup"><span data-stu-id="b4399-130">You may also need to locate the specific object ID assigned to a user.</span></span> <span data-ttu-id="b4399-131">Volg deze stappen om de object-id van een gebruiker te vinden in de Azure Portal:</span><span class="sxs-lookup"><span data-stu-id="b4399-131">Follow these steps to find a user's object ID in the Azure portal:</span></span>
 
-1. <span data-ttu-id="c78c8-130">Meld u aan bij [Azure Portal](https://portal.azure.com/).</span><span class="sxs-lookup"><span data-stu-id="c78c8-130">Sign in to the [Azure portal](https://portal.azure.com/).</span></span>
+1. <span data-ttu-id="b4399-132">Meld u aan bij de [Azure-portal](https://portal.azure.com/).</span><span class="sxs-lookup"><span data-stu-id="b4399-132">Sign in to the [Azure portal](https://portal.azure.com/).</span></span>
 
-2. <span data-ttu-id="c78c8-131">Selecteer **Azure Active Directory** in het menu.</span><span class="sxs-lookup"><span data-stu-id="c78c8-131">Select **Azure Active Directory** from the menu.</span></span>
+2. <span data-ttu-id="b4399-133">Selecteer **Azure Active Directory** in het menu.</span><span class="sxs-lookup"><span data-stu-id="b4399-133">Select **Azure Active Directory** from the menu.</span></span>
 
-3. <span data-ttu-id="c78c8-132">Ga naar de sectie **beheren** in het menu en selecteer vervolgens **gebruikers**.</span><span class="sxs-lookup"><span data-stu-id="c78c8-132">Locate the **Manage** section on the menu, then select **Users**.</span></span>
+3. <span data-ttu-id="b4399-134">Zoek de **sectie** Beheren in het menu en selecteer vervolgens **Gebruikers.**</span><span class="sxs-lookup"><span data-stu-id="b4399-134">Locate the **Manage** section on the menu, then select **Users**.</span></span>
 
-      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Toont Azure Active Directory menu met gemarkeerde gebruikers opties.":::
+      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Geeft Azure Active Directory menu weer met gemarkeerde optie Gebruikers.":::
 
-4. <span data-ttu-id="c78c8-134">Typ op de pagina gebruikers de naam van de gebruiker in het zoekvak.</span><span class="sxs-lookup"><span data-stu-id="c78c8-134">From the Users page, type the user's name in the search box.</span></span>
+4. <span data-ttu-id="b4399-136">Typ op de pagina Gebruikers de naam van de gebruiker in het zoekvak.</span><span class="sxs-lookup"><span data-stu-id="b4399-136">From the Users page, type the user's name in the search box.</span></span>
 
-      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Toont de pagina gebruikers met het zoekvak om te zoeken naar een specifieke gebruiker.":::
+      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Toont de pagina Gebruikers met een zoekvak om te zoeken naar een specifieke gebruiker.":::
 
-5. <span data-ttu-id="c78c8-136">Selecteer de naam van de gebruiker die wordt weer gegeven in de lijst.</span><span class="sxs-lookup"><span data-stu-id="c78c8-136">Select the user's name where it appears on the list.</span></span>  
+5. <span data-ttu-id="b4399-138">Selecteer de naam van de gebruiker waar deze wordt weergegeven in de lijst.</span><span class="sxs-lookup"><span data-stu-id="b4399-138">Select the user's name where it appears on the list.</span></span>  
 
-      :::image type="content" source="images/id/6-find-id-azure-portal-select-user-name-partial.png" alt-text="Gebruikers pagina weer geven waarin een rij voor de gezochte gebruiker wordt weer gegeven.":::
+      :::image type="content" source="images/id/6-find-id-azure-portal-select-user-name-partial.png" alt-text="Toont de pagina Gebruiker met een rij voor de gezochte gebruiker.":::
 
-6. <span data-ttu-id="c78c8-138">Zoek de sectie identiteit op de profiel pagina van de gebruiker.</span><span class="sxs-lookup"><span data-stu-id="c78c8-138">Locate the Identity section on the user's Profile page.</span></span> <span data-ttu-id="c78c8-139">Het veld object-ID wordt hier weer gegeven met de unieke object-ID van de gebruiker.</span><span class="sxs-lookup"><span data-stu-id="c78c8-139">The Object ID field appears here with the user's unique object ID.</span></span>
+6. <span data-ttu-id="b4399-140">Zoek de sectie Identiteit op de pagina Profiel van de gebruiker.</span><span class="sxs-lookup"><span data-stu-id="b4399-140">Locate the Identity section on the user's Profile page.</span></span> <span data-ttu-id="b4399-141">Het veld Object-id wordt hier weergegeven met de unieke object-id van de gebruiker.</span><span class="sxs-lookup"><span data-stu-id="b4399-141">The Object ID field appears here with the user's unique object ID.</span></span>
 
-      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Hiermee wordt de gebruikers profiel pagina met de identiteits sectie en één gemarkeerd veld voor de object-ID weer gegeven.":::
+      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Toont de pagina Gebruikersprofiel met de sectie Identiteit en één gemarkeerd veld voor Object-id.":::
 
-## <a name="next-steps"></a><span data-ttu-id="c78c8-141">Volgende stappen</span><span class="sxs-lookup"><span data-stu-id="c78c8-141">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="b4399-143">Volgende stappen</span><span class="sxs-lookup"><span data-stu-id="b4399-143">Next steps</span></span>
 
-- [<span data-ttu-id="c78c8-142">Uw Tenant-ID programmatisch vinden met Power shell of CLI</span><span class="sxs-lookup"><span data-stu-id="c78c8-142">Find your tenant ID programmatically with PowerShell or CLI</span></span>](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
-- [<span data-ttu-id="c78c8-143">Meer informatie over gebruikers profielen in Azure Active Directory</span><span class="sxs-lookup"><span data-stu-id="c78c8-143">Learn more about user profiles in Azure Active Directory</span></span>](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
-- [<span data-ttu-id="c78c8-144">Ontdek hoe partners klant gegevens kunnen zien of exporteren in het partner centrum</span><span class="sxs-lookup"><span data-stu-id="c78c8-144">Find out how partners can see or export customer details in Partner Center</span></span>](see-your-customer-list.md)
+- [<span data-ttu-id="b4399-144">Uw tenant-id programmatisch zoeken met PowerShell of CLI</span><span class="sxs-lookup"><span data-stu-id="b4399-144">Find your tenant ID programmatically with PowerShell or CLI</span></span>](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
+- [<span data-ttu-id="b4399-145">Meer informatie over gebruikersprofielen in Azure Active Directory</span><span class="sxs-lookup"><span data-stu-id="b4399-145">Learn more about user profiles in Azure Active Directory</span></span>](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [<span data-ttu-id="b4399-146">Ontdek hoe partners klantgegevens kunnen zien of exporteren in Partner Center</span><span class="sxs-lookup"><span data-stu-id="b4399-146">Find out how partners can see or export customer details in Partner Center</span></span>](see-your-customer-list.md)
 
