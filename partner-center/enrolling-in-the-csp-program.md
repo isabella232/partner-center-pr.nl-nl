@@ -1,20 +1,20 @@
 ---
 title: Registreren bij het Cloud Solution Provider-programma
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het registreren van het software-verkoop model van de Cloud Solution Provider (CSP) dat het beste is voor uw bedrijf, zoals een indirecte wederverkoper of een directe factuur partner.
+description: Leer hoe u zich kunt inschrijven in het Cloud Solution Provider(CSP) verkoopmodel van het programma dat het beste bij uw bedrijf past, zoals indirecte reseller of partner voor directe factuur.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441809"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213377"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registreren bij het Cloud Solution Provider-programma
 
@@ -24,75 +24,107 @@ ms.locfileid: "106441809"
 
 ## <a name="get-started"></a>Aan de slag
 
-De snel groeiende vraag naar cloud oplossingen en-services biedt veel mogelijkheden voor micro soft-partners van elke omvang om winstgevende cloud oplossingen te bouwen. Partners die klaar zijn om de markt in te voeren, maar die geen meerdere leveranciers willen beheren of die geen end-to-end beheer infrastructuur voor klanten hebben, kunnen zich inschrijven voor het micro soft-programma voor Cloud Solution Provider (CSP) als indirecte wederverkopers.
+De snel groeiende vraag naar cloudoplossingen en -services biedt Microsoft-partners van elke omvang veel mogelijkheden om voordelige cloudoplossingsbedrijven te bouwen. Partners die klaar zijn om de markt op te gaan, maar die niet meerdere leveranciers willen beheren of die mogelijk geen end-to-end infrastructuur voor klantrelatiebeheer hebben, kunnen zich als indirecte resellers inschrijven in het Cloud Solution Provider-programma (CSP) van Microsoft.
 
-Als u zich wilt inschrijven in het Cloud Solution Provider-programma, hebt u eerst een MPN-ID nodig. Hebt u nog geen? Voeg [hier](https://partner.microsoft.com/)een koppeling toe.
+Als u zich wilt registreren voor Cloud Solution Provider programma, hebt u eerst een MPN-id nodig. Hebt u er nog geen? Doe [hier mee.](https://partner.microsoft.com/)
 
-Als u de CSP-toepassing wilt volt ooien, hebt u de MPN-ID van uw bedrijf, het volledige bedrijfs adres, de Bank gegevens en het werk-e-mail bericht voor de werk nemer die zal fungeren als beheerder voor het partner centrum.
+Als u de CSP-toepassing wilt voltooien, hebt u de MPN-id van uw bedrijf, het volledige bedrijfsadres, bankgegevens en het zakelijke e-mailadres nodig voor de werknemer die als beheerder voor de Partner Center.
 
-1. Meld u aan bij Partner Center met uw werk-e-mail (dat wil zeggen uw Azure AD-Tenant referenties).
+1. Meld u aan Partner Center met uw werk-e-mailadres (dat wil zeggen, de referenties van uw Azure AD-tenant).
 
-2. Maak uw partner profiel en koppel uw MPN-ID aan uw profiel.
-Het kan ons enkele dagen duren om de door u verstrekte informatie te controleren en te controleren. We sturen u een e-mail wanneer onze beoordeling is voltooid.
+2. Maak uw partnerprofiel en koppel uw MPN-id aan uw profiel.
+Het kan enkele dagen duren om de informatie die u hebt opgegeven te controleren en te controleren. We sturen u een e-mail wanneer we onze beoordeling hebben voltooid.
 
-3. Nadat uw gegevens zijn geverifieerd, gaat u akkoord met de overeenkomst voor micro soft indirect reseller.
+3. Nadat we uw gegevens hebben geverifieerd, accepteert u de voorwaardenovereenkomst voor indirecte Microsoft-resellers.
 
 > [!IMPORTANT]  
-> Een partner in het CSP-programma kan onlineservices momenteel niet verkopen naar een andere partner in het CSP-programma. Deze beperking is alleen van toepassing op de Tenant die wordt gebruikt voor het uitvoeren van CSP-trans acties. CSP-partners die een niet-CSP-Tenant gebruiken voor hun bedrijfs gebruik, kunnen onlineservices aanschaffen bij een andere CSP-partner. Micro soft bekijkt voortdurend het beleid en de mogelijkheden van alle Program ma's. Nieuws over functie releases of beleids wijzigingen worden aangekondigd via de gebruikelijke communicatie kanalen, inclusief de aankondigingen van partners in het [partner centrum](announcements/index.md).
+> Een partner in het CSP-programma kan momenteel geen onlineservices aan een andere partner in het CSP-programma. Deze beperking geldt alleen voor de tenant die wordt gebruikt voor het uitvoeren van CSP-transacties. CSP-partners die een niet-CSP-tenant gebruiken voor hun zakelijke gebruik, kunnen onlineservices aanschaffen bij een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Nieuws over functiereleases of beleidswijzigingen wordt aangekondigd via de gebruikelijke communicatiekanalen, Partner Center [aankondigingen](announcements/index.md).
 
-## <a name="enroll-as-an-indirect-reseller"></a>Inschrijven als een indirecte wederverkoper
+## <a name="enroll-as-an-indirect-reseller"></a>Inschrijven als een indirecte reseller
 
-Als u zich registreert in het CSP-programma als een indirecte wederverkoper, koopt u producten niet rechtstreeks vanuit of worden ze niet rechtstreeks door micro soft gefactureerd. In plaats daarvan werkt u met indirecte providers (ook wel distributeurs genoemd) die rechtstreeks met micro soft trans acties doen.
+Als u zich bij het CSP-programma als een indirecte reseller inschrijft, koopt u producten niet rechtstreeks van of wordt u rechtstreeks door Microsoft gefactureerd. In plaats daarvan werkt u met indirecte providers (ook wel distributeurs genoemd) die rechtstreeks met Microsoft werken.
 
-Samen werking met een indirecte provider houdt in dat u de infra structuur niet hoeft te hebben om naar de markt te gaan of rechtstreeks van micro soft te kopen, maar in plaats daarvan kunt u een ervaren technologie provider gebruiken om ervoor te zorgen dat uw succes wordt gegarandeerd. In het model van de provider-wederverkoper koopt de provider cloud oplossingen en services van micro soft en is het afhankelijk van u om de producten te implementeren en te onderhouden.
+Samenwerken met een indirecte provider betekent dat u de infrastructuur niet hoeft te hebben om op de markt te komen of om rechtstreeks bij Microsoft te kopen, maar in plaats daarvan kunt u samenwerken met een ervaren technologieprovider om uw succes te garanderen. In het provider-resellermodel koopt de provider cloudoplossingen en -services van Microsoft en vertrouwt deze op u om de producten te implementeren en te servicen.
 
-Verschillende indirecte providers bieden verschillende ondersteuning en services, dus u moet de providers in uw gebied evalueren om te bepalen welke het beste aan uw behoeften voldoet. Over het algemeen zullen de meeste providers:
+Verschillende indirecte providers bieden verschillende ondersteuning en services, dus u moet de providers in uw regio evalueren om te bepalen welke het beste voldoen aan uw behoeften. Over het algemeen doen de meeste providers het volgende:
 
-- Bied u technische training en hulp
+- Technische training en hulp bieden
 
-- Hulp bij de marketing van uw producten en services
+- U helpen uw producten en services op de markt te brengen
 
-- Hulp bij het opzetten van financiering en krediet voorwaarden
+- Hulp bij het opstellen van de voorwaarden voor het maken van tegoeden
 
-Als u nog niet met een provider (ook bekend als een distributeur) werkt, kunt u in [de lijst met officiële micro soft-providers zoeken](https://partnercenter.microsoft.com/partner/find-a-provider) naar een.
+Als u nog niet met een provider werkt (ook wel bekend als distributor), kunt u in de lijst met officiële [Microsoft-providers](https://partnercenter.microsoft.com/partner/find-a-provider) zoeken naar een provider.
 
-Zie [aan de slag als een indirecte wederverkoper](https://partner.microsoft.com/cloud-solution-provider/whats-required) op de [website van Microsoft Partner Network](https://partner.microsoft.com/)voor meer informatie over wat er nodig is om deel te nemen aan het CSP-programma als een indirecte wederverkoper.
+Zie Aan de slag als indirecte reseller op de website van [](https://partner.microsoft.com/cloud-solution-provider/whats-required) Microsoft Partner Network voor meer informatie over wat er nodig is om deel te nemen aan het CSP-programma als indirecte [reseller.](https://partner.microsoft.com/)
 
-## <a name="enroll-as-a-direct-bill-partner"></a>Inschrijven als directe factuur partner
+## <a name="enroll-as-a-direct-bill-partner"></a>Inschrijven als partner voor directe factuur
 
-Als directe factuur partner bent u eigenaar van de end-to-end-relatie met uw klant en met micro soft. We hebben vanaf 27 oktober 2020 de inschrijvings vereisten voor directe factuur partners bijgewerkt. Aan de hand van deze vereisten kunt u de groei van uw bedrijf versnellen met het juiste programma model van de Cloud solution provider en uw klant relaties versterken met services die zijn toegevoegd aan toegevoegde waarde en ondersteuning.  
+Als partner voor directe factuur bent u eigenaar van de end-to-end-relatie met uw klant en met Microsoft. De inschrijvingsvereisten voor partners met directe factuur zijn bijgewerkt vanaf 27 oktober 2020. Deze vereisten helpen u om uw bedrijfsgroei te versnellen met het juiste Cloud Solution Provider programmamodel en om uw klantrelaties te versterken met services en ondersteuning met toegevoegde waarde.  
 
 ### <a name="minimum-requirements"></a>Minimale vereisten
 
 |**Vereiste**|  **Beschrijving**  |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN-id**   |Een actief lidmaatschap van de Microsoft Partner Network en MPN-ID voor de locatie waar u wilt verkopen.    |
-|**Goedkeurings**   |De autoriteit om juridische overeenkomsten namens uw organisatie te accepteren en te ondertekenen.|
-|**Ondersteuning**   |De mogelijkheid om het eerste niveau van Cloud product ondersteuning te bieden aan uw klanten. <br>Een micro soft-ondersteunings plan, een geavanceerde ondersteuning voor partners (ASfP) of Premier Support voor partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteunings abonnementen](https://partner.microsoft.com/support/partnersupport).<br> BELANG rijk: u moet een krediet controle door lopen voordat u een ondersteunings abonnement aanschaft. We sturen u een e-mail wanneer u de krediet controle hebt door gegeven. |
-|**Opbrengst vereiste**|Moet voldoen aan ten minste USD300K in het Cloud Solution Provider-programma jaarlijkse omzet tijdens de voorafgaande 12 maanden als een indirecte wederverkoper. Partners kunnen hun navolgende 12 maanden aan omzet in het partner centrum beoordelen.<br/>De verkoop waaruit uw USD300K-afsluitende 12 maanden bestaan, is onderhevig aan controle en verificatie door micro soft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De vereiste voor de USD300K-omzet wordt berekend op basis van de Cloud omzet en zal permanente software in CSP uitsluiten.|
-|**Debiteuren** |De organisatie-infra structuur voor het beheren van facturering en inrichting van klanten.|
+|**MPN-id**   |Een actief lidmaatschap van de Microsoft Partner Network mpn-id voor de locatie waarin u wilt verkopen.    |
+|**Goedkeuring**   |De autoriteit voor het accepteren en ondertekenen van juridische overeenkomsten namens uw organisatie.|
+|**Ondersteuning**   |De mogelijkheid om uw klanten het eerste niveau van cloudproductondersteuning te bieden. <br>Een Microsoft-ondersteuningsplan, ofwel Geavanceerde ondersteuning voor partners (ASfP) of Premier Support for Partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteuningsplannen](https://partner.microsoft.com/support/partnersupport).<br> BELANGRIJK: U moet een kredietcontrole door geven voordat u een ondersteuningsplan aanschaft. We sturen u een e-mail wanneer u de kredietcontrole hebt doorgenomen. |
+|**Omzetvereiste**|Moet voldoen aan ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma gedurende de voorgaande 12 maanden als indirecte reseller. Partners kunnen hun na 12 maanden aan omzet op Partner Center.<br/>De verkopen die uw USD 300.000 na 12 maanden omzet vormen, zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste usd 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.|
+|**Debiteuren** |De organisatie-infrastructuur die is ingericht voor het beheren van klantfacturering en -inrichting.|
 |**Aanbeveling**|             |
-|**Beheerde service**   |Ten minste één beheerde service, IP-service of klant oplossings toepassing. Meer informatie over het toevoegen van [beheerde services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
+|**Beheerde service**   |Ten minste één beheerde service, IP-service of klantoplossingstoepassing. Meer informatie over het toevoegen [van beheerde services.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
 
-### <a name="verify-direct-bill-eligibility"></a>Geschiktheid voor direct betalen controleren
+### <a name="verify-direct-bill-eligibility"></a>Geschiktheid voor directe factuur controleren
 
-Nadat u hebt gecontroleerd of u voldoet aan de minimum vereisten voor inschrijving als een directe factuur partner, kunt u door gaan naar het [inschrijvings formulier](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
+Nadat u hebt gecontroleerd of u voldoet aan de minimale vereisten om u in te schrijven als partner voor directe factuur, kunt u doorgaan met [het inschrijvingsformulier](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
 
-Nadat u hebt gecontroleerd of uw bedrijf voldoet aan de vereisten om zich te registreren als een directe factuur partner en u de inschrijvings toepassing hebt voltooid, worden de Bedrijfs gegevens die u in het inschrijvings proces hebt verstrekt, gecontroleerd en geverifieerd. Als onderdeel van deze beoordeling controleren we het tegoed van uw bedrijf. We laten u weten per e-mail wanneer uw bedrijf de krediet controle heeft door gegeven.
+Nadat we hebben gecontroleerd of uw bedrijf voldoet aan de geschiktheidsvereisten voor inschrijving als directe factuurpartner en u de inschrijvingstoepassing hebt voltooid, controleren en controleren we de bedrijfsgegevens die u hebt opgegeven in het inschrijvingsproces. Als onderdeel van deze beoordeling controleren we het tegoed van uw bedrijf. We laten u per e-mail weten wanneer uw bedrijf de kredietcontrole heeft doorgenomen.
 >[!IMPORTANT]
->Het controleren van het tegoed van uw bedrijf kan ons enkele dagen of langer duren. Gedurende deze periode is het belang rijk dat u geen micro soft-ondersteunings abonnement aanschaft. U moet alleen een micro soft-ondersteunings abonnement aanschaffen wanneer u hebt gemeld dat u de krediet controle hebt door gegeven.
+>Het kan enkele dagen of meer duren voordat het tegoed van uw bedrijf is gecontroleerd. Gedurende deze tijd is het belangrijk dat u GEEN Microsoft-ondersteuningsplan koopt. U moet pas een Microsoft-ondersteuningsplan aanschaffen nadat we u hebben geïnformeerd dat u de kredietcontrole hebt doorgenomen.
 
-### <a name="transition-from-direct-bill-to-indirect-reseller"></a>Overgang van directe factuur naar indirecte wederverkoper
+### <a name="transition-from-direct-bill-to-indirect-reseller"></a>Overgang van directe factuur naar indirecte reseller
 
-Wanneer het CSP-programma blijft ontwikkelen en groeien, kunt u het beste deel nemen als een indirecte wederverkoper in plaats van een directe factuur partner. U kunt uw directe facturerings Tenant overzetten naar het model voor indirecte wederverkopers in Partner Center.
+Naarmate het CSP-programma zich blijft ontwikkelen en groeien, wilt u er mogelijk liever aan deelnemen als indirecte reseller in plaats van als partner voor directe factuur. U kunt uw tenant voor directe factuur overstappen naar het model voor indirecte resellers in Partner Center.
 
-Zie de [overgang van de directe factuur van de Cloud Solution Provider (CSP) naar de CSP indirecte wederverkoper](transition-direct-to-indirect.md) voor informatie over overgangen van een directe factuur partner naar een indirecte wederverkoper.
+Zie [Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller (Overstappen](transition-direct-to-indirect.md) van een directe factuurpartner naar een indirecte CSP-reseller) voor informatie over de overgang van een directe factuurpartner naar een indirecte reseller.
 
-## <a name="csp-regional-markets-and-currencies"></a>Regionale regio's en valuta's van CSP
+## <a name="csp-regional-markets-and-currencies"></a>Regionale CSP-markten en -valuta's
 
-De locatie van uw bedrijf bepaalt uw markt. Uw markt omvat de regio's en/of landen waar u CSP-aanbiedingen kunt verkopen. Zie de [regionale markten en valuta's van het programma Cloud Solution Provider Program](regional-authorization-overview.md) voor markt locaties en valuta's.
-Lees [de vereisten om een nieuwe locatie voor een CSP-bedrijf toe te voegen](manage-locations.md).
+De locatie van uw bedrijf bepaalt uw markt. Uw markt omvat de regio's en/of landen waar u CSP-aanbiedingen kunt verkopen. Zie [Cloud Solution Provider programma regionale markten en valuta's voor](regional-authorization-overview.md) marktlocaties en valuta's.
+Lees Vereisten om een nieuwe locatie voor een [CSP-bedrijf](manage-locations.md)toe te voegen.
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Geef het partnerregistratie-id-nummer voor specifieke landen op
+
+Als u een indirecte provider, directe factuurpartner of indirecte reseller bent en u zaken doet met nieuwe of bestaande klanten in de volgende landen, moet u registratie-id-nummers voor uw bedrijf verstrekken. Als het land waarin u zaken doet niet hieronder wordt vermeld, is de registratie-id optioneel.
+
+- Armenië 
+- Azerbeidzjan 
+- Belarus 
+- Brazilië 
+- Hongarije 
+- India 
+- Irak 
+- Kazachstan 
+- Kirgistan 
+- Moldavië 
+- Myanmar 
+- Polen 
+- Rusland 
+- Saoedi-Arabië 
+- Zuid-Afrika 
+- Zuid-Soedan  
+- Tadzjikistan 
+- Thailand
+- Turkije 
+- Oekraïne 
+- Verenigde Arabische Emiraten 
+- Oezbekistan 
+- Venezuela
+- Vietnam 
+
+
+Lees Registratie-id-nummergegevens [voor meer informatie](reg-number-id.md)
 
 ## <a name="next-steps"></a>Volgende stappen
 
-[Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners](microsoft-partner-agreement.md)
+[Meer informatie over de Microsoft Partner-overeenkomst (MPA) voor CSP-programmapartners](microsoft-partner-agreement.md)

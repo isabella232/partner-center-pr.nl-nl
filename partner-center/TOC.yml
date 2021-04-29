@@ -9,7 +9,7 @@
     - name: Partner van Microsoft
       href: mpn-overview.md
       displayName: mpn
-    - name: Een MPN-account maken in het partner centrum
+    - name: Een MPN-account maken in Partner Center
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Problemen met het instellen van accounts oplossen
@@ -44,7 +44,7 @@
         - name: Uw MPN-voordelen vinden
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Competentie kosten betalen
+        - name: Competentiekosten betalen
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
     - name: Competenties
@@ -52,7 +52,7 @@
         - name: Meer informatie over competenties
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Inschrijven als leer partner
+        - name: Registreren als learning-partner
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Veelgestelde vragen over competenties
@@ -60,7 +60,7 @@
           displayName: 'renew, mpn'
         - name: Uitzondering voor App Dev-competentie
           href: app-dev-isv.md
-        - name: Het rapport vaardig heden gebruiken
+        - name: Het vaardighedenrapport gebruiken
           href: mpn-skills-report.md
     - name: Geavanceerde specialisaties
       items:
@@ -83,27 +83,27 @@
         - name: Demo's voor MPN-partners
           href: mpn-demos.md
           displayName: mpn
-        - name: Voor delen beleid en gebruik-Veelgestelde vragen
+        - name: Beleid en gebruik van voordelen - Veelgestelde vragen
           href: benefits-faq-new.md
         - name: Veelgestelde vragen over de voordelen
           href: benefits-faq.md
           displayName: 'renew, license,'
-        - name: Azure-en Cloud voordelen
+        - name: Voordelen van Azure en cloud
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
-        - name: Software producten
+        - name: Softwareproducten
           href: mpn-benefits-software.md
           displayname: 'software, on-premise benefit, mpn'
-        - name: Voor delen voor Visual Studio
+        - name: Visual Studio voordelen
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
         - name: Services voor technische presales en implementatie
           href: technical-benefits.md
           displayname: 'TPD, presales, deployment, technical'
-        - name: Technische voor delen
+        - name: Technische voordelen
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
-        - name: Een logo maken met behulp van een logo Builder
+        - name: Een logo maken met Logo Builder
           href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
@@ -133,7 +133,7 @@
     - name: Microsoft Partner-overeenkomst - CSP's
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Hoe indirecte providers hun wederverkopers kunnen helpen bij het aannemen van de MPA
+    - name: Hoe indirecte providers hun resellers kunnen helpen de MPA te gebruiken
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
     - name: Vereisten voor de directe CSP-partner
@@ -151,13 +151,15 @@
     - name: 'CSP-overeenkomsten, prijslijsten, aanbiedingen'
       href: csp-documents-and-learning-resources.md
       displayName: csp
+    - name: Informatie over registratie-id-nummer
+      href: reg-number-id.md
     - name: 'Regionale markten voor CSP, valuta'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
     - name: Instructies voor tenantconsolidatie voor regionale autorisatie in CSP
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Acceptatie van klant bevestigen van de klant overeenkomst van micro soft
+    - name: Bevestigen dat de klant de Microsoft-klantovereenkomst
       href: confirm-customer-agreement.md
       displayName: 'csp, agreement'
     - name: Toepassen op verkopen in nationale clouds
@@ -234,7 +236,7 @@
           href: reset-a-user-password.md
         - name: Mijn wachtwoord opnieuw instellen
           href: reset-my-pasword.md
-        - name: Problemen met aanmelden oplossen
+        - name: Aanmeldingsproblemen oplossen
           href: unable-to-sign-in.md
         - name: Gebruiker heeft geen MPN-beheerder
           href: no-mpn-admin.md
@@ -262,7 +264,7 @@
       items:
         - name: Over collectieve verkoopleads
           href: manage-co-sell-opportunities.md
-        - name: Bulk bewerkingen
+        - name: Bulkbewerkingen
           href: bulk-operations.md
         - name: CRM-connectors voor collectieve verkoop gebruiken
           items:
@@ -279,7 +281,7 @@
       href: register-deals.md
     - name: Verwijzingsinzichten ophalen
       href: referral-insights.md
-    - name: Inzichten voor potentiële klanten ophalen
+    - name: Inzichten over leads verkrijgen
       href: analyze-your-marketing-profile.md
       displayName: mpn
 - name: Incentives
@@ -445,7 +447,7 @@
           displayName: 'region, regio'
         - name: Request an SLA credit from Microsoft (Een SLA-tegoed aanvragen van Microsoft)
           href: request-credit.md
-        - name: Hoe BTW-beleid van invloed is op de uitbetaling
+        - name: Hoe belastingbeleid van invloed is op uitbetaling
           href: tax-policies-affect-payout.md
     - name: Een Azure-uitgavenbudget voor uw klanten instellen
       href: set-an-azure-spending-budget-for-your-customers.md

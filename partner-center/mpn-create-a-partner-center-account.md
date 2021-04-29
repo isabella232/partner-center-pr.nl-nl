@@ -1,7 +1,7 @@
 ---
 title: Een MPN-account maken in Partner Center
 ms.topic: article
-ms.date: 04/08/2021
+ms.date: 04/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Ontdek hoe Microsoft Partner Network een account voor Partner Center maken om hun netwerkvoordelen en -competenties te beheren.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2b4c96f2099d50d05360320070d7c0d96f4590f6
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120797"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213394"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Een MPN-account maken in Partner Center netwerkvoordelen en -competenties te beheren
 
@@ -48,9 +48,9 @@ Wanneer u klaar bent om een account te maken op Partner Center, hebt u de volgen
  
     a.  Het e-mailadres moet geldig zijn en toegankelijk zijn voor u, omdat we een verificatiecode naar dat e-mailbericht verzenden om door te gaan.
 
-    b.  Het e-mailadres mag geen woorden bevatten zoals 'info', 'admin', email@ '' '. Of " marketing@.. ."; deze adresindelingen worden niet ondersteund.
+    b.  Het e-mailadres mag geen woorden bevatten zoals 'info', 'beheerder', email@ '. Of marketing@.. '.'; deze adresindelingen worden niet ondersteund.
 
-    c.  Als u MAPS wilt kopen of competenties wilt beheren, moet u dit account upgraden door uw domein [te verifiëren](become-global-admin.md) en beheerder te worden. 
+    c.  Als u MAPS wilt kopen of competenties wilt beheren, moet u dit account upgraden door uw domein te verifiëren [en](become-global-admin.md) beheerder te worden. 
 
 2. U kunt zich aanmelden met uw Office 365-werkaccount, bijvoorbeeld you@contoso.onmicrosoft.com .
 
@@ -59,20 +59,55 @@ Wanneer u klaar bent om een account te maken op Partner Center, hebt u de volgen
 
 3. Geef de juridische bedrijfsgegevens van uw bedrijf op.
 
-U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd [bij Dun & Brad gaan,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert u **Handmatig.**
+U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd bij [Dun & Brad te](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)schrijven, gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert u **Handmatig.**
 
-Als uw bedrijf zich in **Heeft** bevindt, Hebt u, **Kyrgyzstan,**  **Uzbekkka** of **Rusland** en voert u uw adres handmatig in, dan wordt uw adres voor u gevalideerd.  Als de door u invoeren verschilt van het gevalideerde adres, raden we u aan het gevalideerde adres te gebruiken. Dit zorgt ervoor dat de elementen van het adres worden gestandaardiseerd zoals gedefinieerd door de postinstantie van het land, correct opgemaakt en verzendbaar.  
+Als uw bedrijf zich in **Deen** bevindt, Als u zich in Den Staten, **Kyrgyzstan,**  **Uzbekkka** of **Rusland** bevindt en u uw adres handmatig in typt, wordt uw adres voor u gevalideerd.  Als de door u invoeren verschilt van het gevalideerde adres, raden we u aan het gevalideerde adres te gebruiken. Dit zorgt ervoor dat de elementen van het adres worden gestandaardiseerd zoals gedefinieerd door de postinstantie van het land, correct opgemaakt en verzendbaar.  
 
 Nadat u de bedrijfsgegevens hebt opgegeven, voert u de primaire contactgegevens in. De primaire contactpersoon moet de persoon in uw bedrijf zijn met wie we contact kunnen opnemen over uw toepassing (deze contactpersoon kan u of een andere persoon in uw bedrijf zijn).
+
+## <a name="registration-id-numbers-by-country"></a>Registratie-id-nummers per land
+
+Als u een indirecte provider, directe factuurpartner of indirecte reseller bent en u zaken doet met nieuwe of bestaande klanten in de volgende landen, moet u registratie-id-nummers voor uw bedrijf verstrekken. Als het land waarin u zaken doet niet hieronder wordt vermeld, is de registratie-id optioneel.
+
+De volgende tabel bevat voorbeelden van de registratienummers die voor elk land zijn verzameld. In gevallen waarin meerdere ID's worden vermeld, is er slechts één vereist.
+
+| **Land of regio** | **Details** | 
+|:--|:--|:--|:--|:--|:--|
+| **Armenië** | INN – Btw-nummer<br>Btw-nummer: ook wel een btw-registratienummer genoemd. Dit is het unieke nummer dat een bebelastingspersoon (zakelijk) of niet-belastbare juridische entiteit identificeert die is geregistreerd voor btw.<br>Openbaar servicenummer |  |  | |  |
+| **Azerbeidzjan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Btw-nummer<br>INN – Btw-nummer |  |  |  |  |
+| **Belarus**  | UNP: dit is een getal van negen cijfers (numeriek voor organisaties, alfanumeriek voor personen) dat een regio-id, een serienummer per regio en een controlecijfer bevat. |  |  |  |  |
+|**Brazilië** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurïdica of National Registry of Legal Entities). Dit is een identificatienummer dat is uitgegeven aan Braziliaans bedrijven door het Ministerie van Federale omzet van Brazilië  |  |  |  |  |
+| **China** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – Btw-nummer |  |  |  |  |
+| **Hongarije**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – Btw-nummer |  |  |  |  |
+| **India** | Btw-nummer<br>[PAN–](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) (Presence Across Presence) PAN India Involvement betekent dat er één organisatie is die op verschillende locaties in India actief is. |  |  |  |  |
+| **Irak** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |  |  |  |  |
+| **Kazachstan**  | BIN – Bankidentificatienummer<br>IIN – Id-nummer van vergever |  |  |  |  |
+| **Kirgistan**  | INN – Btw-nummer |  |  |  |  |
+| **Moldavië**  | IDNO: het unieke statusidentificatienummer dat is toegewezen aan de juridische entiteit (ook wel bekend als . Fiscale code).<br>IDNP: persoonlijke code voor geboorte ('Numarul de Identificare') |  |  |  |  |
+| **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer |  |  |  |  |
+| **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Belastingidentificatienummer<br>[PESEL:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) het nationale identificatienummer dat wordt gebruikt in Het Pools Powszechny Moetenniczny System Ewidencji Moetennoeitci, Universal Electronic System for Registration of the Population) |  |  |  |  |
+| **Rusland**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – Belastingidentificatienummer (Russisch "Individualiy Nomer Nalogoplatelshika") |  |  |  |  |
+| **Saoedi-Arabië** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Belastingidentificatienummer |  |  |  |  |
+| **Zuid-Afrika** | TRN: registratienummer voor verkeer |  |  |  |  |
+| **Zuid-Soedan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer |  |  |  |  |
+| **Tadzjikistan**  | INN – Btw-nummer<br>EIN – Identificatienummer van werkgever<br>KPP: dit is een code die de reden voor de organisatieregistratie weerspiegelt. |  |  |  |  |
+| **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer |  |  |  |  |
+| **Turkije** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Belastingidentificatienummer<br>Nin |  |  |  |  |
+| **Oekraïne**  | EGRPOU<br>EDRPOU: lokale id |  |  |  |  |
+| **Verenigde Arabische Emiraten** | Btw-nummer<br>[Btw-nummer:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) ook wel een btw-registratienummer genoemd. Dit is het unieke nummer dat een bebelastingspersoon (zakelijk) of niet-belastbare juridische entiteit identificeert die is geregistreerd voor btw. |  |  |  |  |
+| **Verenigde Staten** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Identificatienummer van werkgever |  |  |  |  |
+| **Oezbekistan**  | INN – Btw-nummer |  |  |  |  |
+| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |  |  |  |  |
+| **Venezuela** | WANT: is een btw-nummer ('Registro de Identificificón Fiscal') |  |  |  |  |
 
 4. Selecteer **Nu inschrijven.**
 
 >[!IMPORTANT]
->Om de beveiliging en privacy van uw bedrijf te waarborgen, sturen we een e-mail naar uw primaire contactpersoon om het e-mailadres te verifiëren en ervoor te zorgen dat het e-mailadres van uw bedrijf is. Nadat de primaire contactpersoon het e-mailadres heeft geverifieerd, gaan we verder met het controleren van de gegevens die u hebt opgegeven. Verificatie duurt meestal 3-5 werkdagen. 
+>Om de beveiliging en privacy van uw bedrijf te waarborgen, sturen we een e-mail naar uw primaire contactpersoon om het e-mailadres te verifiëren en ervoor te zorgen dat het e-mailadres van uw bedrijf is. Nadat de primaire contactpersoon het e-mailadres heeft geverifieerd, gaan we verder met onze beoordeling van de informatie die u hebt opgegeven. Verificatie duurt meestal 3-5 werkdagen. 
 
-## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Accountgegevens weergeven of de MPN-overeenkomst bekijken en downloaden
+## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Accountgegevens weergeven of de MPN-overeenkomst weergeven en downloaden
 
-Meld u Partner Center aan met uw MPN-referenties. Selecteer [**Partnerprofiel om**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) de juridische gegevens van uw bedrijf, uw verificatiestatus en uw MPN-ID's weer te geven en indien nodig ook nieuwe MPN-locaties te maken. 
+Meld u Partner Center uw MPN-referenties aan. Selecteer [**Partnerprofiel om**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) de juridische gegevens van uw bedrijf, uw verificatiestatus en uw MPN-ID's weer te geven en indien nodig ook nieuwe MPN-locaties te maken. 
 
 U kunt ook andere belangrijke informatie weergeven, zoals MPN-id's, MPN-locaties beheren en Microsoft Partner-overeenkomst weergeven met behulp van de linkermenukoppelingen, zoals wordt weergegeven in de volgende schermopname.
 
@@ -81,7 +116,7 @@ U kunt ook andere belangrijke informatie weergeven, zoals MPN-id's, MPN-locaties
 
 ## <a name="next-steps"></a>Volgende stappen
 
--  [Accountgebruikers toevoegen en hieraan machtigingen toewijzen](create-user-accounts-and-set-permissions.md)
+-  [Accountgebruikers toevoegen en machtigingen aan hen toewijzen](create-user-accounts-and-set-permissions.md)
 
 -  [Buy for the first time or renew a Microsoft Action Pack subscription](mpn-get-action-pack.md) (Microsoft Action Pack-abonnement kopen of verlengen)
 
