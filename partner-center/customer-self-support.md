@@ -1,41 +1,44 @@
 ---
-title: Self-ondersteuning voor klanten
+title: Zelfondersteuning voor klanten
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over wanneer en waar klanten zelf ondersteuning kunnen uitvoeren om hun eigen accounts te beheren en wanneer ze contact opnemen met hun partner van de Cloud solution provider.
+description: Ontdek wanneer en waar klanten zelfondersteuning kunnen uitvoeren om hun eigen accounts te beheren en wanneer ze contact moeten opnemen met hun Cloud Solution Provider partner.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e4224df0393e8a9bd06204e0e9667069fb7e64e8
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92527530"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284176"
 ---
-# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Customer self-support via Microsoft Office 365-beheer centrum of via de Azure Portal
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Zelfondersteuning voor klanten via Microsoft Office 365-beheercentrum of via het Azure Portal
 
 **Van toepassing op**
 
--  Partnercentrum
--  Partner centrum voor Microsoft Cloud voor de Amerikaanse overheid
+- Partnercentrum voor Microsoft Cloud for US Government
 
-Klanten kunnen zich aanmelden bij hun eigen Microsoft Office 365-beheer centrum of in de Azure Portal voor het beheren van hun eigen accounts:
+**Juiste rollen**
 
--   Bekijk in-product communicatie en meldingen, zoals informatie over de service status, in het berichten centrum.
+- Helpdeskagent
 
--   Voer alle service configuratie-en beheer taken uit alsof deze rechtstreeks van micro soft zijn gekocht. Dit omvat het configureren van Exchange Online, share point online, Skype voor bedrijven of andere services die ze hebben gekocht.
+Klanten kunnen zich aanmelden bij hun Microsoft Office 365-beheercentrum of bij het Azure Portal hun eigen accounts te beheren:
 
-Klanten kunnen contact opnemen met hun partner van de Cloud solution provider om extra abonnementen aan te schaffen of hun abonnementen te annuleren. Klanten kunnen hun eigen abonnementen niet rechtstreeks met micro soft wijzigen.
+- Bekijk communicatie en meldingen binnen het product, zoals service health-informatie, in de Berichtencentrum.
 
-Wanneer klanten hulp nodig hebben bij producten, kunnen ze Product bronnen voor [ondersteuning](https://partnercenter.microsoft.com/partner/support)vinden. We moedigen partners aan om hun klanten te laten verwijzen naar deze resources als een eerste stap.
+- Voer alle serviceconfiguratie- en beheertaken uit alsof ze rechtstreeks van Microsoft zijn gekocht. Deze taken omvatten het configureren van Exchange Online, SharePoint Online, Skype voor Bedrijven of andere services die ze hebben aangeschaft.
 
- 
+Als klanten extra abonnementen willen aanschaffen of hun abonnementen willen annuleren, moeten ze contact opnemen met hun Cloud Solution Provider partner. Klanten kunnen hun eigen abonnementen niet rechtstreeks wijzigen met Microsoft.
 
- 
+Wanneer klanten hulp nodig hebben met producten, kunnen ze productbronnen vinden op [Ondersteuning](https://partnercenter.microsoft.com/partner/support). We raden partners aan om hun klanten als eerste stap naar deze resources te laten wijzen.
+
+ 
+
+ 
 
 
 

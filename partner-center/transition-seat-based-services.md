@@ -1,6 +1,6 @@
 ---
-title: Klanten op basis van licenties verplaatsen naar het CSP-programma
-description: Meer informatie over het verplaatsen van op licenties gebaseerde klanten van andere kanalen of een andere partner in het Cloud Solution Provider-programma (CSP) in het partner centrum.
+title: Op licenties gebaseerde klanten verplaatsen naar het CSP-programma
+description: Meer informatie over het verplaatsen van klanten op basis van licenties van andere kanalen of een andere partner naar het Cloud Solution Provider (CSP)-programma in Partner Center.
 ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -9,42 +9,48 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768683"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284448"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Verplaats op licenties gebaseerde klanten van andere kanalen & partners naar het Cloud Solution Provider-programma
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Op licenties gebaseerde klanten verplaatsen van andere kanalen & partners naar het Cloud Solution Provider programma
 
-Als uw klant meerdere partners wil aannemen, hun abonnementen naar een andere partner wilt overdragen of als u de aangeschafte abonnementen wilt beheren, kunt u ze hand matig verplaatsen. U kunt klanten ook vanuit een ander kanaal naar het partner centrum verplaatsen.
+**Juiste rollen**
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Verplaats de op licenties gebaseerde abonnementen van uw klant naar het Cloud Solution Provider-programma (CSP)
+- Accountbeheerder
+- Verkoopagent
+- Factureringsagent
 
-1. Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens **een reseller-relatie aanvragen**. U kunt hetzelfde doen als u ondersteuning voor Multi Channel-accounts wilt bieden.
+Als uw klant meerdere partners wil aannemen, hun abonnementen wil overdragen naar een andere partner of hun abonnementen die elders zijn aangeschaft, wilt beheren, kunt u ze handmatig verplaatsen. U kunt klanten ook verplaatsen naar Partner Center van een ander kanaal.
 
-2. Zodra de klant uw uitnodiging heeft geaccepteerd, kunt u de gewenste abonnementen en licenties voor de klant inrichten (bijvoorbeeld hetzelfde Office 365-aanbod dat de klant eerder heeft aangeschaft).
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>De op licenties gebaseerde abonnementen van uw klant verplaatsen naar de Cloud Solution Provider Program (CSP)
 
-3. De klant kan toestaan dat de oorspronkelijke abonnementen verlopen of annuleren. Omdat er echter geen restituties zijn voor geannuleerde abonnementen, kunt u het beste wachten tot de abonnementen bijna de verval datums hebben bereikt.
+1. Selecteer **Klanten** in het Partner Center menu en selecteer vervolgens **Een resellerrelatie aanvragen.** Als u ondersteuning wilt bieden voor accounts met meerdere kanalen, doet u hetzelfde.
+
+2. Zodra de klant uw uitnodiging heeft geaccepteerd, kunt u de gewenste abonnementen en licenties voor de klant inrichten (bijvoorbeeld dezelfde Office 365-aanbieding die de klant eerder heeft aangeschaft).
+
+3. De klant kan toestaan dat de oorspronkelijke abonnementen verlopen of opzeggen. Omdat er echter geen restituties zijn voor geannuleerde abonnementen, kunt u het beste wachten tot de natuurlijke vervaldatums voor de abonnementen zijn verstreken.
 
 
    >[!NOTE]
-   >De klant kan in aanmerking komen voor een tegoed als deze is aangeschaft via de beheer portal van de Microsoft 365 (M365) (bijvoorbeeld via maandelijks of per jaar direct van micro soft). Tegoeden voor abonnementen die rechtstreeks van micro soft zijn aangeschaft, worden verwerkt door **M365-ondersteuning voor facturering**. Zie M365-richt lijnen over het [annuleren van uw M365-abonnement](/microsoft-365/commerce/subscriptions/cancel-your-subscription). Als u beheerders rechten voor de klant hebt gedelegeerd, kunt u contact opnemen met de ondersteuning van M65 namens uw klant. Als dat niet het geval is, vraagt u uw klant om rechtstreeks contact op te nemen met M365-ondersteuning om te bepalen hoeveel tegoed ze in aanmerking komen voor en hoe dit tegoed aan hen wordt verstrekt. Lees de informatie over [gedelegeerde beheerders bevoegdheden](customers-revoke-admin-privileges.md).
+   >De klant komt mogelijk in aanmerking voor een tegoed als deze is gekocht via de beheerportal van Microsoft 365 (M365), bijvoorbeeld via maandelijkse of jaarlijkse facturering rechtstreeks van Microsoft. Tegoeden voor abonnementen die rechtstreeks van Microsoft zijn aangeschaft, worden verwerkt door **M365-factureringsondersteuning.** Zie M365 guidance on how to cancel your M365 subscription (M365-richtlijnen voor het [annuleren van uw M365-abonnement).](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Als u beheerdersbevoegdheden voor de klant hebt gedelegeerd, kunt u namens uw klant contact opnemen met M65-ondersteuning. Zo niet, vraag dan uw klant om rechtstreeks contact op te nemen met de ondersteuning van M365 om erachter te komen voor hoeveel tegoed ze in aanmerking komen en hoe dit tegoed aan hen wordt gegeven. Lees informatie over [gedelegeerde beheerdersbevoegdheden](customers-revoke-admin-privileges.md).
 
 
-4. De klant zal vervolgens door gaan met de abonnementen die u hebt ingericht zonder onderbreking.
+4. De klant gaat vervolgens zonder onderbreking door met de abonnementen die u hebt ingericht.
 
-Als u dezelfde aanbiedingen inricht als de aanbiedingen die uw klant heeft gebruikt, hoeft u geen licenties opnieuw toe te wijzen en kunnen eind gebruikers geen onderbrekingen ondervinden. De aanbiedingen moeten hetzelfde zijn om te garanderen dat er geen gegevens verloren gaan. Zolang het totale aantal licenties hetzelfde blijft en de aanbieding gelijk is aan uw klanten, is dit niet van invloed.
+Als u dezelfde aanbiedingen inrichten als de aanbiedingen die uw klant heeft gebruikt, hoeft u geen licenties opnieuw toe te geven en is er geen onderbreking voor eindgebruikers. De aanbiedingen moeten hetzelfde zijn om te garanderen dat er geen gegevens verloren gaan. Zolang het totale aantal licenties hetzelfde blijft en de aanbieding gelijk is, zullen uw klanten geen invloed hebben.
 
 Als u klanten overzet die gebruikmaken van aanbiedingen die niet meer worden aangeboden, moet u een gelijkwaardig aanbieding vinden om te voorkomen dat er gegevens verloren gaan. Als u de klant overzet naar een andere aanbieding, moet u de licentietoewijzing bijwerken.
 
 >[!NOTE]
-> U, de CSP-partner, moet zich in dezelfde regio bevinden als de Tenant van de klant om die klant naar u te laten overstappen.
+> U, de CSP-partner, moet zich in dezelfde regio als de tenant van de klant hebben om die klant naar u over te brengen.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Beginnen met betalen naar gebruik-tarieven met het Azure-abonnement](azure-plan-get-started.md)
+- [Beginnen met betalen per gebruik-tarieven met het Azure-plan](azure-plan-get-started.md)
  
 
-- [Verschillende manieren om met andere partners in het partner centrum te werken](work-with-other-partners.md)
+- [Verschillende manieren waarop u met andere partners kunt werken in Partner Center](work-with-other-partners.md)

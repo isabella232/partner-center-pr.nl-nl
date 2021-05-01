@@ -1,70 +1,73 @@
 ---
-title: Regionale belastingen en uitzonde ringen voor belastingen
+title: Regionale belastingen en belastingvrijstellingen
 ms.topic: article
 ms.date: 03/05/2021
-description: Meer informatie over de CSP-programma partners vindt u in het gedeelte over belasting verantwoordelijkheden per regio, het indienen van belasting vrijstellingen voor CSP-verkoop en het verkrijgen van ondersteuning voor belasting vragen.
+description: Voor CSP-programmapartners leert u meer over de belastingverantwoordelijkheden per regio, het indienen van btw-vrijstellingen voor CSP-verkoop en het krijgen van ondersteuning voor belastingvragen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247680"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284465"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Meer informatie over belastingen en BTW-vrijstellings gegevens per regio of land voor partners in het CSP-programma
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Meer informatie over belastingen en belastingvrijstellingsgegevens per regio of land voor partners in het CSP-programma
 
+**Juiste rollen**
 
-Het Cloud Solution Provider-programma (CSP) is een verkoop kanaal dat is gericht op de verkoop van partners van producten. Als gevolg hiervan is micro soft niet altijd verplicht om BTW op partner facturen te berekenen. De regels variëren per land en/of regio. U kunt [land-en regiospecifieke Details voor belasting vrijstellingen](#country-and-region-tax-details)bekijken.
+- Globale beheerder
 
-Werk samen met uw belasting adviseur voor het [fileren van belasting vrijstellingen](#file-a-tax-exemption) op basis van uw locatie en de locaties van uw klanten.
+Het Cloud Solution Provider (CSP) is een verkoopkanaal dat is gericht op partnerproducten. Als gevolg hiervan is Microsoft niet altijd verplicht verkoopbelasting in rekening te brengen op partnerfacturen. De regels variëren per land en/of regio. U kunt landspecifieke en regiospecifieke gegevens bekijken [voor btw-vrijstellingen.](#country-and-region-tax-details)
 
-## <a name="country-and-region-tax-details"></a>Details van land en regio belasting
+Werk samen met uw belastingadviseur om [btw-vrijstellingen in te stellen](#file-a-tax-exemption) op basis van uw locatie en de locaties van uw klanten.
 
-Er zijn specifieke belastinggerelateerde informatie beschikbaar voor Canada en de Verenigde Staten. Zie [Details van belasting bewijzen](#tax-receipts-and-daf)voor Taiwan en Korea.
+## <a name="country-and-region-tax-details"></a>Belastinggegevens land en regio
 
-Als u zich in een ander land of een andere regio bevindt die belasting kosten, raadpleegt u [de informatie voor andere regio's](#other-regions).
+Specifieke belastinggerelateerde informatie is beschikbaar voor Canada en de Verenigde Staten. Zie details van btw-ontvangstbewijzen voor Taiwan [en Korea.](#tax-receipts-and-daf)
+
+Zie de informatie voor andere regio's als u zich in een ander land of een andere regio berekent die btw [in rekening brengt.](#other-regions)
 
 
 ### <a name="canada"></a>Canada
 
-De meeste wederverkopers zijn niet uitgesloten van GST/HST/QST. Raadpleeg uw belasting adviseur om te bepalen of u in aanmerking komt voor uitzonde ring en welke documentatie u moet verstrekken aan micro soft.
+De meeste resellers zijn niet uitgesloten van GST/HST/QST. Neem contact op met uw belastingadviseur om te bepalen of u in aanmerking komt voor uitzondering en welke documentatie u aan Microsoft moet verstrekken.
 
-Voor een uitsluiting van een uitzonde ring van PST wordt een BTW-vrijs telling in het bestand beschreven. Geef uw BC-PST-bestand of een voltooid en ondertekend *certificaat van vrijs telling algemeen* op.
+Voor een BC PST-uitzondering kunt u een belastingvrijstelling indienen zoals beschreven. Geef uw BC PST# of een voltooid en ondertekend certificaat *van Uitzondering Algemeen op.*
 
 ### <a name="united-states"></a>Verenigde Staten
 
-Alle wederverkopers in de Verenigde Staten worden verwacht dat ze BTW-vrijstellings documentatie bieden binnen 30 dagen na het accepteren van de micro soft reseller Agreement. Elke status heeft verschillende uitzonderings certificaten voor wederverkoop. Neem contact op met uw belasting adviseur om te bepalen wat relevant is voor uw juridische adres en de geregistreerde statussen.
+Alle resellers in de Verenigde Staten moeten binnen 30 dagen na het accepteren van de Microsoft Reseller-overeenkomst een documentatie over btw-vrijstelling verstrekken. Elke staat heeft verschillende uitzonderingscertificaten voor de certificaten. Werk samen met uw belastingadviseur om te bepalen wat relevant is voor uw juridische adres en geregistreerde staten.
 
-Dit kunnen de uitstaande uitstel certificaten zijn die in meerdere staten werken, zoals het verwerkings certificaat voor de *verkoop* en het *gebruik van de belasting overeenkomst* of het *MTC uniform Sales & gebruik van een BTW-vrijstellings certificaat*.
+Dit kan het volgende omvatten: vrijstellingscertificaten  die in meerdere staten werken, zoals het Certificaat voor verkoop stroomlijnen en Tax *Agreement-certificaat* van vrijstelling gebruiken of het *MTC Uniform Sales & Use Tax Exemption Certificate*( Belastingvrijstellingscertificaat gebruiken).
 
 ### <a name="other-regions"></a>Andere regio's
 
-Als u zich in een ander land of een andere regio bevindt waarin belastingen worden geheven, moet u voor uw vragen [ondersteuning aanvragen in het partner centrum](#support) .
+Als u zich in een ander land of een andere regio berekent die belasting in rekening brengt, kunt u ondersteuning [aanvragen in Partner Center](#support) vragen.
 
 ## <a name="tax-receipts-and-daf"></a>Btw-ontvangst en DAF
 
-Voor belasting bewijzen (voor Taiwan of Korea) of DAF is over het algemeen twee weken tijd nodig om de factuur te genereren.
+Voor btw-ontvangsten (voor Taiwan of Korea) of VOOR DEP is doorgaans twee weken omslagtijd na het genereren van facturen vereist.
 
-## <a name="file-a-tax-exemption"></a>Een BTW-vrijs telling in een bestand opslaan
+## <a name="file-a-tax-exemption"></a>Een btw-vrijstelling indienen
 
-Voordat u een BTW-vrijs telling inschakelt, moet u weten wat de volgende punten zijn:
+Voordat u een btw-vrijstelling indient, moet u de volgende punten begrijpen:
 
-- U moet een BTW-vrijs telling voor elke CSP-Tenant opslaan.
+- U moet een btw-vrijstelling voor elke CSP-tenant indienen.
 
-- U moet het BTW-nummer of het id-nummer (FEIN) van de federale werk gever opgeven. Dit nummer wordt meestal weer gegeven in uw belasting certificaat.
+- U moet uw btw-nummer of het federale identificatienummer van de werkgever (FEIN) indienen. Dit nummer wordt meestal weergegeven in uw belastingcertificaat.
 
-- Afhankelijk van uw land, regio of staat, heeft uw BTW-vrijs telling juridische richt lijnen die specifiek zijn voor het lokale ministerie van belasting omzet (of een vergelijk bare afdeling), en moeten deze dienovereenkomstig worden beheerd. Hoewel veel locaties een belastingbelasting certificaat hebben dat jaarlijks wordt vernieuwd, kunnen sommige locaties een verlenging van twee of meer jaren verlengen. U moet deze en andere informatie controleren door uw certificaat te controleren of contact op te nemen met uw lokale belasting dienst.
+- Afhankelijk van uw land, regio of staat heeft uw btw-vrijstelling wettelijke richtlijnen die specifiek zijn voor de lokale afdeling btw-omzet (of een vergelijkbare afdeling) en dienovereenkomstig moeten worden beheerd. Hoewel veel locaties belastingcertificaten hebben die jaarlijks worden vernieuwd, kunnen sommige locaties met twee of meer jaar worden vernieuwd. U moet deze en andere informatie controleren door uw certificaat te controleren of contact op te nemen met uw lokale btw-instantie.
 
-Wanneer u klaar bent om uw BTW-vrijs telling te openen, opent u een ticket met [Microsoft ondersteuning](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) en geeft u de juiste informatie op.
+Wanneer u klaar bent om uw btw-vrijstelling in te kunnen indienen, opent u een ticket met Microsoft-ondersteuning [en](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) verstrekt u de juiste informatie.
 
 ## <a name="support"></a>Ondersteuning
 
-Voor vragen over BTW-uitzonde ringen en restituties of andere vragen met betrekking tot belasting, vraagt u ondersteuning in het partner centrum. Stel in dat twee weken van micro soft contact met u kan opnemen en het probleem kunnen oplossen.
+Voor vragen over btw-vrijstellingen en restituties of andere vragen over belastingen kunt u ondersteuning aanvragen in Partner Center. Geef Microsoft twee weken de tijd om contact met u op te nemen en het probleem op te lossen.
 
 ## <a name="next-steps"></a>Volgende stappen
 

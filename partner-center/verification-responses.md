@@ -4,58 +4,56 @@ ms.topic: article
 ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Volg de status van uw account verificatie wanneer u probeert in te schrijven in een nieuw partner centrum-programma. Meer informatie over hoe u indien nodig aanvullende gegevens kunt opgeven.
+description: Volg de status van uw accountverificatie wanneer u probeert in te schrijven in een nieuw Partner Center programma. Meer informatie over het leveren van aanvullende informatie, indien nodig.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 49c9d6730dd221ea81806644c8d05ff65442272f
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 0f5520dec7c5af80817223797c14c9f2c16f96c6
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215795"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284533"
 ---
-# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Uw account gegevens verifiëren wanneer u zich registreert in een nieuw partner centrum-programma
+# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Controleer uw accountgegevens wanneer u zich inschrijft in een nieuw Partner Center programma
 
 **Juiste rollen**
 
 - Globale beheerder
-- MPN-account beheerder
+- MPN-partnerbeheerder
 
-Wanneer u zich registreert in een nieuw programma in Partner Center, verifieert micro soft de registratie gegevens van het account dat u hebt verstrekt, zoals de naam van uw bedrijf, het bedrijfs adres en de gegevens van de primaire contact persoon. Tijdens deze procedure kan Microsoft e-mail verzenden naar uw primaire contactpersoon om deze te informeren over de status en om aanvullende documentatie te vragen voor verificatiedoeleinden.
+Wanneer u zich inschrijft voor een nieuw programma in Partner Center, verifieert Microsoft de accountinschrijvingsgegevens die u hebt opgegeven, zoals uw bedrijfsnaam, bedrijfsadres en primaire contactgegevens. Tijdens dit proces kan Microsoft een e-mail verzenden naar uw primaire contactpersoon om hen te informeren over de status en meer verificatiedocumentatie aan te vragen.
 
 >[!NOTE]
->Om ervoor te zorgen dat u het e-mail bericht ontvangt, moet u e-mail berichten van Microsoft.com markeren als een ' veilig ' domein, en ongewenste e-mail mappen controleren.
+>Om ervoor te zorgen dat u het e-mailbericht ontvangt, moet u e-mail van uw Microsoft.com markeren als een 'veilig' domein en ongewenste e-mailmappen in.
 
-Als u de primaire contact persoon bent (globale beheerder of account beheerder), raden we u aan om naar uw partner profiel te gaan om de verificatie status te controleren en de voortgang te volgen.
+Als u de primaire contactpersoon (globale beheerder of accountbeheerder) bent, raden we u aan naar uw partnerprofiel te gaan om de verificatiestatus te controleren en de voortgang bij te houden.
 
-Ga naar [Deze pagina](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)voor MPN-programma.
+Ga voor het MPN-programma naar de [pagina Juridische](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) gegevens.
 
-Ga naar [Deze pagina voor het](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)CSP-programma.
+Ga voor het CSP-programma naar de [pagina Juridische](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) gegevens.
 
 
-## <a name="what-is-verified-and-how-to-respond"></a>Wat wordt gecontroleerd en hoe kan worden gereageerd
+## <a name="what-is-verified-and-how-to-respond"></a>Wat is geverifieerd en hoe te reageren
 
-|**Type verificatie**   |**Wat is er gecontroleerd?**   |**Wat u moet doen als u bent afgewezen**   |
+|**Type verificatie**   |**Wat is geverifieerd**   |**Wat te doen bij afwijzing**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
-|Eigendom van e-mail   |E-maileigendom verifieert of het primaire adres van de contactpersoon (primaire e-mailadres) geldig is. Het primaire e-mailadres van de contactpersoon moet een werkaccount zijn dat wordt bewaakt en e-mail kan verzenden/ontvangen. **Partners mogen het volgende niet gebruiken**: (1) een persoonlijk e-mailadres dat niet is gekoppeld aan het bedrijfsdomein. (2) een gebruiker die zich aanmeldt voor de Tenant is niet gekoppeld aan e-mail (bijvoorbeeld jsmith@testcompany.onmicrosoft.com ).  |Als u het e-mail bericht over de e-mail eigendom niet binnen één werkdag ontvangt, kunt u de aanvraag opnieuw verzenden met behulp van de volgende koppelingen: voor [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile), voor [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). Op de profiel pagina, klikt u op de koppeling e-mail adres opnieuw verzenden voor micro soft om de e-mail opnieuw naar u te verzenden. Om ervoor te zorgen dat het e-mail bericht wordt ontvangen, moet u e-mail berichten van Microsoft.com markeren als een ' veilig ' domein, en ongewenste e-mail mappen controleren.|
-|Werkzaamheden |Bij het verifiëren van de werk nemer wordt bevestigd dat de primaire contact persoon van het inschrijvings bedrijf een actief e-mail adres heeft op een e-mail domein dat eigendom is van het bedrijf.|Als de verificatie van de werk nemer wordt afgewezen, moet de primaire contact persoon (normaal gesp roken uw globale of account beheerder) documentatie verschaffen die het e-mail domein van de contact persoon bevestigt, onder het eigendom van de werk gever. [Een ondersteunings ticket maken](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).|
-|Business   | Bedrijfs verificatie bevestigt dat de registratie van het bedrijf een legitieme zakelijke entiteit is en op het adres dat wordt gebruikt voor de inschrijving.|Controleer of de bedrijfs naam en het adres in uw [juridisch bedrijfs profiel](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) geen spel fouten en afkortingen bevatten en overeenkomen met uw formele zakelijke registratie records voor bedrijven. De primaire contact persoon (normaal gesp roken uw globale of account beheerder) wordt gevraagd officiële documentatie te geven, zoals een bedrijfs registratie of een certificaat voor belasting registratie of een ontvangst bewijs, vanuit het land van herkomst of de gemeente dat het bedrijf gemachtigd is om zaken te doen onder die entiteit naam en zich bevindt op het inschrijvings adres. [Een ondersteunings ticket maken](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
+|Eigendom van e-mail   |E-maileigendom verifieert of het primaire adres van de contactpersoon (primaire e-mailadres) geldig is. Het primaire e-mailadres van de contactpersoon moet een werkaccount zijn dat wordt bewaakt en e-mail kan verzenden/ontvangen. **Partners mogen het volgende niet gebruiken**: (1) een persoonlijk e-mailadres dat niet is gekoppeld aan het bedrijfsdomein. (2) een tenantgebruikersreferentie die niet is gekoppeld aan e-mail (bijvoorbeeld jsmith@testcompany.onmicrosoft.com ).  |Als u niet binnen één werkdag het e-mailbericht over de verificatie van het e-maileigendom ontvangt, kunt u een nieuwe aanvraag indienen via de volgende koppelingen: voor [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)voor [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). Selecteer op de profielpagina de koppeling 'Verificatie-e-mail opnieuw verzenden' voor Microsoft om het e-mailbericht opnieuw naar u te verzenden. Om te controleren of het e-mailbericht is ontvangen, moet u e-mailberichten van Microsoft.com markeren als afkomstig van een 'veilig' domein, en mappen met ongewenste e-mail controleren.|
+|Werkgelegenheid |Verificatie van de arbeidsovereenkomst bevestigt dat de primaire contactpersoon een werknemer van het inschrijvingsbedrijf is, omdat deze een actief e-mailadres heeft in een e-maildomein dat eigendom is van het bedrijf.|Als verificatie van de werknemer wordt geweigerd, moet de primaire contactpersoon (normaal gesproken uw globale of accountbeheerder) documentatie verstrekken waarin wordt bevestigd dat het e-maildomein van de contactpersoon eigendom is van de werkgever. [Maak een ondersteuningsticket](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).|
+|Business   | Bedrijfsverificatie bevestigt dat het inschrijvingsbedrijf een legitieme bedrijfsentiteit is en zich op het adres heeft dat wordt gebruikt voor de inschrijving.|Controleer of de bedrijfsnaam [](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) en het adres in uw juridische bedrijfsprofiel vrij zijn van spelfouten en afkortingen en dat deze exact overeenkomen met uw formele zakelijke registratierecords. De primaire contactpersoon (normaal gesproken de globale beheerder of accountbeheerder) wordt gevraagd om officiële documentatie te verstrekken, zoals een certificaat voor bedrijfsregistratie of belastingregistratie of ontvangst, vanuit het thuisland van het bedrijf of om te bevestigen dat het bedrijf is gemachtigd om zaken te doen onder die entiteitsnaam en zich op het inschrijvingsadres bevindt. [Een ondersteuningsticket maken](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->Meer informatie over het bijwerken van uw [juridisch zakelijk profiel (adres)](update-your-partner-profile.md).
+>Meer informatie over het bijwerken van [uw juridische bedrijfsprofiel (adres).](update-your-partner-profile.md)
 
-## <a name="when-verification-concludes"></a>Wanneer de verificatie wordt beëindigd
+## <a name="when-verification-concludes"></a>Wanneer de verificatie wordt afgesloten
 
-Nadat het verificatie proces is voltooid, wordt de verificatie status van uw inschrijving op de profiel pagina gewijzigd van ' in behandeling ' in ' geautoriseerd ' en worden de proces stappen met de status weer gegeven op die pagina verdwijnt.
-De primaire contact persoon ontvangt een e-mail van micro soft binnen een paar werk dagen nadat de verificatie is voltooid. 
+Zodra het verificatieproces is voltooid, verandert de verificatiestatus van uw inschrijving op de profielpagina van 'in behandeling' in 'geautoriseerd' en verdwijnen de processtappen met de status die op die pagina wordt weergegeven.
+De primaire contactpersoon ontvangt binnen enkele werkdagen nadat de verificatie is voltooid een e-mailbericht van Microsoft. 
 
-Nadat u zich hebt aangemeld bij uw profiel, voert u de vereiste wijzigingen als volgt uit als u **acties in behandeling** ziet:
+Als u na aanmelding bij uw profiel acties in behandeling **ziet,** voltooit u de benodigde wijzigingen als volgt:
 
-- [Ga naar](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)MPN-programma voor meer informatie.  
-- Ga naar het CSP-programma en [hier](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+- Ga voor het MPN-programma naar de [pagina Juridische](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) gegevens.  
+- Ga voor het CSP-programma naar de [pagina Juridische](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) gegevens.
 
-Als u hulp nodig hebt bij het uitvoeren van deze stappen in het partner centrum, kunt u contact opnemen met het partner ondersteunings team door een ticket te openen in het gedeelte ondersteuning van partner centrum.  Begin [hier](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3).
-
-
+Als u hulp nodig hebt bij het voltooien van deze stappen in Partner Center, kunt u contact opnemen met het ondersteuningsteam van de partner door een ticket te openen in de sectie Ondersteuning van Partner Center. Om dit te doen, start u op de [pagina Help en](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3) ondersteuning.

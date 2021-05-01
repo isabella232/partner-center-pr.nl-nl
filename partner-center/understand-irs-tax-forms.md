@@ -1,6 +1,6 @@
 ---
 title: IRS-belastingformulieren begrijpen die zijn uitgegeven door Microsoft
-description: Meer informatie over de BTW-formulieren die door micro soft worden uitgegeven, inclusief wie ze ontvangt en wanneer ze beschikbaar worden gesteld.
+description: Meer informatie over de belastingformulieren die door Microsoft worden uitgegeven, inclusief wie ze ontvangt en wanneer ze beschikbaar worden gesteld.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
@@ -8,75 +8,79 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712814"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284431"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>IRS-belastingformulieren begrijpen die zijn uitgegeven door Microsoft
 
-U kunt elk jaar een of meer BTW-formulieren van micro soft ontvangen. Dit is afhankelijk van uw locatie en het aantal verkopen of betalingen dat u ontvangt. Micro soft is verplicht deze formulieren uit te geven en deze op te lossen met de service interne omzet belasting.
+**Juiste rollen**
 
-In dit artikel vindt u meer informatie over deze formulieren, met inbegrip van wie ze ontvangt en wanneer ze beschikbaar worden gesteld.
+- Globale beheerder
 
-## <a name="types-of-tax-forms"></a>Typen belasting formulieren
+Mogelijk ontvangt u elk jaar een of meer belastingformulieren van Microsoft. Dit is afhankelijk van uw locatie en de hoeveelheid verkopen of betalingen die u ontvangt. Microsoft moet deze formulieren uitgeven en deze indienen bij de Internal Revenue Service (IRS).
 
-| IRS-belasting formulier | Beschrijving | Beschikbaarheid |
+In dit artikel wordt meer uitgelegd over deze formulieren, waaronder wie ze ontvangt en wanneer ze beschikbaar worden gesteld.
+
+## <a name="types-of-tax-forms"></a>Typen belastingformulieren
+
+| IRS-belastingformulier | Beschrijving | Beschikbaarheid |
 |--------------|-------------|--------------|
-|1099-DIVERS, 1099-K | Gerelateerd aan verkoop activiteiten en/of betalingen die aan u zijn gedaan voor deelname aan Marketplace van micro soft | Afgedrukte formulieren krijgen een post stempel op of vóór **31 januari**, en. PDF-kopieën zijn op hetzelfde moment beschikbaar in [partner centrum](https://partner.microsoft.com/dashboard) (in de instellingen voor het **partner centrum-account onder de verantwoording** **en belasting > uitbetaling en BTW-profielen**) |
-|1042-S | Gerelateerd aan betalingen aan u die zijn onderworpen aan Verenigde Staten bron belasting | Gedrukte formulieren worden weer gegeven op of vóór **15 maart**, en. PDF-kopieën worden op hetzelfde moment beschikbaar gesteld in partner centrum (in **partner centrum-ontwikkelaars instellingen** onder **toekenning en belasting > uitbetalingen en BTW-profielen**)  |
+|1099-MISC, 1099-K | Gerelateerd aan verkoopactiviteit en/of betalingen die aan u zijn gedaan voor deelname aan marketplaces van Microsoft | Afgedrukte formulieren worden gemarkeerd op of vóór **31** januari en PDF-kopieën zijn beschikbaar in [Partner Center](https://partner.microsoft.com/dashboard) (in **Partner Center Account-instellingen** onder Uitbetaling en belasting **> Uitbetalings-** en belastingprofielen ) op hetzelfde moment |
+|1042-S | Gerelateerd aan betalingen aan u die onderhevig zijn aan Verenigde Staten bronbelasting | Afgedrukte formulieren worden gemarkeerd op of vóór **15** maart en PDF-kopieën zijn beschikbaar in Partner Center (in **Partner Center Developer Settings** onder Uitbetaling en belasting > **Uitbetaling** en belastingprofielen ) op hetzelfde moment  |
 
 > [!NOTE]
-> Het adres dat we gebruiken op IRS-belasting formulieren zijn afkomstig van het adres in uw BTW-profiel wanneer u [uw uitbetalings account en BTW-formulieren instelt](set-up-your-payout-account.md). Als uw adres is gewijzigd, moet u ervoor zorgen dat u het adres in uw **BTW-profiel** bijwerkt.
+> Het adres dat we op IRS-belastingformulieren gebruiken, is afkomstig van het adres in uw belastingprofiel bij het instellen van uw [uitbetalingsaccount en belastingformulieren.](set-up-your-payout-account.md) Als uw adres is gewijzigd, moet u het adres in uw **belastingprofiel bijwerken.**
 
-De BTW-formulieren worden naar u verzonden via de volgende adressen:
+De belastingformulieren worden vanaf de volgende adressen naar u verzonden:
 
 **Amerikaanse burgers:**
 
-| Bedrijfs groep         | Rechts persoon          | Adres                                          |
+| Bedrijfsgroep         | Rechtspersoon          | Adres                                          |
 |------------------------|-----------------------|--------------------------------------------------|
 | Windows, Office, Azure | Microsoft Corporation | One Microsoft Way<br>Redmond, WA 98052 USA       |
-| Advertenties            | Micro soft online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
+| Advertenties            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
 
-**Niet-Amerikaanse burgers:**
+**Niet-Amerikaanse inwoners:**
 
-| Bedrijfs groep         | Rechts persoon          | Adres                                          |
+| Bedrijfsgroep         | Rechtspersoon          | Adres                                          |
 |------------------------|-----------------------|--------------------------------------------------|
-| Windows, Office, Azure | Micro soft Ireland Operations Limited (betaling wordt gemaakt door micro soft Corporation via micro soft Ireland als gekwalificeerde intermediair voor micro soft Corporation) | Eén micro soft-locatie<br>Zuid graafschap, zakelijk Park<br>Leopardstown, Dublin 18, D18 P521, Ierland|
-| Advertenties          | Micro soft Ireland Operations Limited (betaling wordt gemaakt door micro soft online Inc. via micro soft Ierland fungeert als uitbetalings agent voor micro soft online Inc.) | Eén micro soft-locatie<br>Zuid graafschap& zakelijk Park<br>Leopardstown, Dublin 18, D18 P521, Ierland |
-| Advertenties            | Micro soft online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
+| Windows, Office, Azure | Microsoft Ierland Operations Limited (betaling wordt gedaan door Microsoft Corporation via Microsoft Ierland die fungeert als gekwalificeerde intermediair voor Microsoft Corporation) | Eén Microsoft-plaats<br>South County Business Park<br>18, Dublin, D18 P521, Ierland|
+| Advertenties          | Microsoft Ierland Operations Limited (betaling wordt gedaan door Microsoft Online Inc. via Microsoft Ierland dat optreedt als uitbetalingsagent voor Microsoft Online Inc.) | Eén Microsoft-plaats<br>South County& Business Park<br>18, Dublin, D18 P521, Ierland |
+| Advertenties            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
 
 >[!NOTE]
-> \* De burgers van de volgende landen die een advertentie omzet verdienen, worden betaald via micro soft Ireland Operations Limited: Oosten rijk, België, Bulgarije, Kroatië, Cyprus, Czechia, Denemarken, Estland, Finland, Frank rijk, Duitsland, Grieken land, Hongarije, Ierland, Isle of man, Italië, Letland, Liechtenstein, Litouwen, Luxemburg, Malta, Monaco, Nederland, Noor wegen, Polen, Portugal, Roemenië, Slowakije, Slovenië, Zuid-Afrika, Spanje, Zweden, Zwitser land, Verenigd Konink rijk
+> \* Inwoners van de volgende landen die reclame-inkomsten verdienen, worden betaald via Microsoft Ierland Operations Limited: Italië, Italië, Rechten, Grieks, Tsjechisch, 10, 100, 1000, 1000, 2018, 2018, 2018, 2018, 2018, 2018, 2016, 2018, 2018, 2017, 2017, 2017 en 2017.
 
-## <a name="for-developers-located-in-the-united-states"></a>Voor ontwikkel aars die zich in het Verenigde Staten bevinden
+## <a name="for-developers-located-in-the-united-states"></a>Voor ontwikkelaars die zich in de Verenigde Staten
 
-| Als ik een Verenigde Staten voor ontwikkel aars die betaalde apps kopen en...   | Ik zou dit formulier moeten ontvangen: |
+| Als ik een ontwikkelaar ben Verenigde Staten betaalde apps en...   | Ik zou dit formulier moeten ontvangen: |
 |------------------------|-----------------------|
-| Ik had **meer dan 200 app-omzet** met een totale aankoop bedrag van deze omzet **hoger dan $20.000 USD** in het betreffende belasting jaar (in plaats van verkopen die in Brazilië en China zijn gemaakt via de Microsoft Store op Windows 10.)| **1099-K:**<br/>Filer: micro soft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belang rijk:** Formulier 1099-K bevat **bruto-aankoop** bedragen, niet voor betalingen aan u.| 
-| Ik heb ten **minste $10 in betalingen** ontvangen voor (i) de verkoop van apps in Brazilië en China via de Microsoft Store op Windows 10 of (II) Sales in de Minecraft Marketplace.<br/><br/>**OF**<br/><br/>Ik heb ten minste $600 in betalingen ontvangen die geen betrekking hebben op de app-omzet van micro soft in het betreffende belasting jaar (bijvoorbeeld betalingen of betalingen van een wedstrijd of promotie)| **1099-DIVERSEN:**<br/>Betaler: micro soft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belang rijk:** Bepaalde bedrijfs entiteiten ontvangen geen 1099-Diversen-formulieren, ongeacht de betalings bedragen die van micro soft zijn ontvangen.  Raadpleeg uw belasting medewerker voor meer informatie.| 
-| Geen van de bovenstaande aanvragen is van toepassing.| Geen |
-| <br/><br/>**Als ik een Verenigde Staten ontwikkel aars voor het verkopen van advertenties in apps en...** |<br/><br/>**Ik zou dit formulier moeten ontvangen:** |
-|Ik heb ten **minste $600 in betalingen** ontvangen van advertisements in apps in het betreffende belasting jaar. | **1099-DIVERSEN:**<br/>Betaler: micro soft online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Belang rijk:** Bepaalde bedrijfs entiteiten ontvangen geen 1099-Diversen-formulieren, ongeacht de betalings bedragen die van micro soft zijn ontvangen.  Raadpleeg uw belasting medewerker voor meer informatie. |
-| Ik heb binnen het betreffende belasting jaar **minder dan $600 in betalingen** ontvangen van advertenties in apps. | Geen |
+| Ik had meer dan **200 app-verkopen** met een totaalaankoopbedrag van deze verkopen hoger dan **$ 20.000 USD** in het toepasselijke belastingjaar ( niet meegerekend als verkoop in Brazilië en China via de Microsoft Store op Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belangrijk:** Formulier 1099-K  bevat brutoaankoopbedragen, geen betalingen aan u.| 
+| Ik heb **ten minste $ 10** aan betalingen ontvangen voor (i) app-verkopen in Brazilië en China via de Microsoft Store op Windows 10- of (ii)-verkoop in de Marketplace in Marketplace.<br/><br/>**OF**<br/><br/>Ik heb in het toepasselijke belastingjaar ten minste $ 600 ontvangen aan betalingen die niet zijn gerelateerd aan de verkoop van apps van Microsoft (bijvoorbeeld incentive-betalingen of betalingen van een wedstrijd of promotie)| **1099-MISC:**<br/>Beller: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belangrijk:** Bepaalde bedrijfsentiteiten ontvangen geen formulieren van 1099-MISC, ongeacht de betalingsbedragen die van Microsoft zijn ontvangen.  Neem contact op met uw belastingprofessional voor meer informatie.| 
+| Geen van de bovenstaande is van toepassing.| Geen |
+| <br/><br/>**Als ik een ontwikkelaar ben Verenigde Staten die advertenties in apps en...** |<br/><br/>**Ik zou dit formulier moeten ontvangen:** |
+|Ik heb **ten minste $ 600 aan betalingen ontvangen** van advertenties in apps in het toepasselijke belastingjaar. | **1099-MISC:**<br/>Beller: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Belangrijk:** Bepaalde bedrijfsentiteiten ontvangen geen 1099-MISC-formulieren, ongeacht de betalingsbedragen die van Microsoft zijn ontvangen.  Neem contact op met uw belastingprofessional voor meer informatie. |
+| Ik heb **minder dan $ 600 aan betalingen ontvangen** van advertenties in apps in het toepasselijke belastingjaar. | Geen |
 
 
-## <a name="for-developers-located-outside-of-the-united-states"></a>Voor ontwikkel aars die zich buiten het Verenigde Staten bevinden
+## <a name="for-developers-located-outside-of-the-united-states"></a>Voor ontwikkelaars die zich buiten de Verenigde Staten
 
 
 | **Vraag** | **Antwoord** |
 |---|---|
-| **Ik heb een formulier 1042-S van micro soft ontvangen. Wat is het voor?** | Micro soft heeft u voorzien van een 1042-S-formulier of-formulieren omdat we u de inkomsten hebben betaald die worden beschouwd als rapporteren aan de Verenigde Staten belasting dienst en waarvoor de belasting is geheven.  Formulier 1042-S wordt gebruikt voor deze rapportage vereiste. | 
-| **Wat moet ik doen met de formulieren?** | Over het algemeen is er geen specifieke actie vereist voor uw onderdeel. De notatie van 1042-S kan nuttig zijn als u op uw lokale belasting dienst wilt Toep assen voor elke vorm van belasting tegoed.  Neem contact op met uw eigen belasting adviezen voor meer informatie over dit onderwerp. | 
-| **Waarom is de belasting op mijn betalingen Inge houden toen ik een W8 formulier heb ingevuld?** | De BTW wordt Inge houden als:<br/><br/>1. u hebt de sectie Tax Verdrag van de W8 niet correct ingevuld of <br/>2. u bevindt zich in een land dat geen belasting verdrag heeft met de Verenigde Staten.<br/><br/>U kunt het partner centrum op elk gewenst moment bezoeken om een bijgewerkt W8-formulier in te dienen.<br/><br/> **Opmerking:** Niet alle inkomsten zijn onderhevig aan belasting inhouding. | 
-| **Ik heb een bijgewerkt W8-formulier met geldige verdrags gegevens verzonden. Kan micro soft mij de belasting terugbetalen die is inge houden?** | Zodra de belasting is inge houden, kan deze niet worden gerestitueerd. Neem contact op met uw belasting adviseur om te bespreken of u een lokaal tegoed kunt claimen voor deze belastingen, of dat u een restitutie van de IRS kunt zoeken. | 
-| **Welke verkoop cijfers worden op formulier 1042-S gerapporteerd?** | Alleen verkopen **aan kopers die zich bevinden in de Verenigde Staten die zijn geclassificeerd als onderworpen aan belasting inhoud** , kunnen worden gerapporteerd.  Alle andere verkopen worden niet als rapportbaar beschouwd. | 
-| **Waarom krijg ik drie kopieën van hetzelfde formulier 1042-S in één envelop?** | Voor de IRS-voor schriften zijn drie exemplaren van het formulier vereist:<br/><br/>-Een voor de records van de ontvanger<br/>-Een voor het indienen met een Verenigde Staten inkomsten belasting-retour nering (indien van toepassing)<br/>-Een voor het indienen met een Verenigde Staten belasting retour nering (indien van toepassing) |
+| **Ik heb een formulier 1042-S ontvangen van Microsoft. Waar is het voor?** | Microsoft heeft u een 1042-S-formulier of -formulieren verstrekt omdat we u omzet hebben betaald die als te rapporteren is aan de Verenigde Staten-belastinginstanties en onderworpen was aan bronbelasting.  Formulier 1042-S wordt gebruikt voor deze rapportagevereiste. | 
+| **Wat moet ik doen met de formulieren?** | Over het algemeen is er geen specifieke actie van uw kant vereist. Het formulier 1042-S kan nuttig zijn voor u als u een aanvraag wilt indienen bij uw lokale belastinginstanties voor elke vorm van belastingtegoed.  Neem contact op met uw eigen belastingadviseurs voor meer informatie over dit onderwerp. | 
+| **Waarom is de belasting voor mijn betalingen ingehouden toen ik een W8-formulier invullen?** | Belastingen worden ingetrokken als een van de volgende:<br/><br/>1. U hebt het belastinggedeelte van de W8 niet correct voltooid, of <br/>2. U woont in een land dat geen belasting heeft met de Verenigde Staten.<br/><br/>U kunt op Partner Center bezoek gaan om een bijgewerkt W8-formulier in te dienen.<br/><br/> **Opmerking:** Niet alle inkomsten zijn onderworpen aan holding. | 
+| **Ik heb een bijgewerkt W8-formulier met geldige informatie verzonden. Kan Microsoft de ingehouden belasting terugbetaalen?** | Zodra de belasting is ingetrokken, kan deze niet meer worden gerestitueerd. Neem contact op met uw belastingadviseurs om te bespreken of u een lokaal tegoed voor deze belastingen kunt aanvragen of dat u een restitutie kunt aanvragen bij de IRS. | 
+| **Welke verkopen worden gerapporteerd op formulier 1042-S?** | Alleen verkoop aan **koperen die zich in** de Verenigde Staten die zijn geclassificeerd als onderworpen aan belasting, kunnen worden rapporteren.  Alle andere verkopen worden niet als rapporteerbaar beschouwd. | 
+| **Waarom heb ik drie kopieën van hetzelfde formulier 1042-S in één envelop gekregen?** | IRS-regelgeving vereist dat er drie kopieën van het formulier worden opgegeven:<br/><br/>- Eén voor de records van de ontvanger<br/>- Een voor het indienen met een Verenigde Staten federal tax return (indien van toepassing)<br/>- Een voor het indienen met een Verenigde Staten belastingaangifte (indien van toepassing) |
 
 > [!NOTE]
-> Als u aanvullende vragen of problemen hebt met betrekking tot **IRS-belasting formulieren**, gaat u naar [Help en ondersteuning](https://partner.microsoft.com/dashboard/support/) in het dash board van de partner centrum. Micro soft kan geen vragen beantwoorden die betrekking hebben op uw specifieke belasting omstandigheden; voor deze vragen kunt u het advies van uw belasting medewerker vragen.
+> Als u aanvullende vragen of problemen hebt met [](https://partner.microsoft.com/dashboard/support/) betrekking tot IRS-belastingformulieren, gaat u naar Help en ondersteuning in Partner Center dashboard.  Microsoft kan geen vragen beantwoorden met betrekking tot uw specifieke belastingomstandigheden; Voor deze vragen kunt u advies krijgen van uw belastingprofessional.
 
 ## <a name="next-steps"></a>Volgende stappen
 

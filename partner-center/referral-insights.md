@@ -1,7 +1,7 @@
 ---
 title: Verwijzingsinzichten ophalen
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Controleer uw verwijzingsinzichtgegevens regelmatig in Partner Center om trends te zien voor het aanpakken of verbeteren van gebieden om u te helpen uw bedrijfsdoelen te bereiken.
@@ -9,29 +9,29 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120848"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328080"
 ---
-# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Verwijzingsinzichten verkrijgen in Partner Center en ontdekken hoe uw verwijzingen het doen
+# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Krijg verwijzingsinzichten in Partner Center en ontdek hoe uw verwijzingen het doen
 
 **Juiste rollen**
 
 - Verwijzingsbeheerder
 
-Op **de pagina Kansen voor co-verkoop** onder de sectie **Analyse** in Verwijzingen kunt u zien hoe het gaat met uw verwijzingen. Bekijk deze metrische gegevens regelmatig om trends of gebieden te identificeren die aandacht nodig hebben, en ga aan de slag met uw bedrijfsdoelen.
+Op **de pagina Kansen voor co-verkoop** onder de sectie **Analyse** in Verwijzingen kunt u zien hoe het gaat met uw verwijzingen. Bekijk deze metrische gegevens regelmatig om trends of gebieden te identificeren die aandacht nodig hebben en ga aan de slag met uw bedrijfsdoelen.
 
-Ga in het menu Partner Center naar Verwijzingen > Analytics > Kansen voor co-verkoop om inzicht te krijgen in uw inzichten over **verkoopkansen.**
+Ga in het menu Partner Center naar Verwijzingen > Analytics > Kansen voor co-verkoop om inzicht te krijgen in uw inzichten over **co-verkoopkansen.**
 
 > [!Important]
-> Het filter dealtype wordt vooraf toegepast met Het type **co-verkoop** geselecteerd voor alle gegevens. Verwijder het filter als u de gegevens met betrekking tot privé- en partnerdeals wilt toevoegen.
+> Het filter dealtype wordt vooraf toegepast met het type **co-sell** geselecteerd voor alle gegevens. Verwijder het filter als u de gegevens met betrekking tot privé- en partnerdeals wilt analyseren.
 
 ## <a name="apply-filters"></a>Filters toepassen
 
-Boven aan de pagina **Kansen voor co-verkoop kunt** u de periode selecteren waarvoor u gegevens wilt tonen. De standaardselectie is **3 miljoen** (drie maanden), maar u kunt er in plaats daarvan voor kiezen om gegevens voor zes maanden of één jaar weer te geven. U kunt ook Aangepast **selecteren om** gegevens voor alle verwijzingen in een specifieke periode weer te geven.
+Aan de bovenkant van de **pagina Verkoopkansen** kunt u de periode selecteren waarvoor u gegevens wilt tonen. De standaardselectie is **3 miljoen** (drie maanden), maar u kunt er in plaats daarvan voor kiezen om gegevens voor zes maanden of één jaar weer te geven. U kunt ook Aangepast **selecteren om** gegevens voor alle verwijzingen in een specifieke periode weer te geven.
 
 U kunt de **knop Filters** selecteren om het deelvenster te openen waarmee u alle gegevens op deze pagina kunt filteren op Klantnaam, Land, Dealtype, Dealrichting, Oplossingsnaam en Status. Hieronder vindt u de details van deze filters.
 
@@ -76,7 +76,7 @@ In deze sectie ziet u de landen/regio's waar deals vandaan komen, samen met deta
 
 ## <a name="deals-by-solutions"></a>Deals per oplossing
 
-In deze grafiek kunt u zien welke van uw oplossingen de meeste verwijzingen en de hoogste dealwaarde aanstrijden. De tabel heeft drie draaitalen: co-sell, door een partner geleid en privé.
+In deze grafiek kunt u zien welke van uw oplossingen de meeste verwijzingen en de hoogste dealwaarde aanstrijden. De tabel heeft drie draaitalen: Co-sell, Partner-led en Private.
 Op basis van uw draaipuntselectie kunt u de prestaties zien van de deals die per oplossing zijn geaggregeerd.
 
 > [!NOTE]
@@ -94,14 +94,13 @@ Deze sectie helpt u bij het analyseren van  de redenen waarom de deals door uw b
 
 ## <a name="comparison-charts"></a>Vergelijkingsdiagrammen
 
-De vergelijkingssectie helpt u bij het vergelijken van de gegevens met betrekking tot verwijzingen op basis van meerdere dimensies, zowel op het volume als de waarde van de deals die is gewonnen in usd pivot.
-De drie dimensies die u kunt kiezen om gegevens te vergelijken, zijn
+De vergelijkingssectie helpt u bij het vergelijken van de gegevens met betrekking tot verwijzingen op basis van meerdere dimensies, zowel op het volume als de waarde van de deals die is gewonnen in usd pivot. De drie dimensies die u kunt kiezen om gegevens te vergelijken, zijn:
 
 - Dealtype
 - Markten
 - Oplossingen
 
-Wanneer het type deal is geselecteerd, kunt u de verwijzingsprestaties van vergelijken met betrekking tot kansen voor co-verkoop, door partners geleide en privédeals. Voor zowel markten als oplossingen kunt u maximaal drie verschillende opties kiezen om de prestaties te vergelijken. In de eerste grafiek, een staafdiagram, worden gegevens weergegeven met een maand-op-maandtrend op basis van de belangrijkste draaigrafiek, volume of de gewonnen waarde voor deals. Er is ook een cirkeldiagram rechts van het staafdiagram, waarin de verdeling per percentage voor dezelfde gegevens wordt weergegeven.
+Wanneer het type deal is geselecteerd, kunt u de prestaties van verwijzingen vergelijken met betrekking tot verkoopkansen voor co-verkoop, door partners geleide en privédeals. Voor zowel markten als oplossingen kunt u maximaal drie verschillende opties kiezen om de prestaties te vergelijken. In de eerste grafiek, een staafdiagram, worden gegevens weergegeven met een maand-op-maandtrend op basis van de belangrijkste draaigrafiek, volume of de gewonnen waarde voor deals. Er is ook een cirkeldiagram rechts van het staafdiagram, waarin de verdeling per percentage voor dezelfde gegevens wordt weergegeven.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Afbeelding van de vergelijkingssectie.":::
 
@@ -128,3 +127,8 @@ Er kunnen meerdere redenen zijn waarom u een lege grafiek zoals hieronder krijgt
 
 > [!TIP]
 > Als u wilt zien hoe uw bedrijfsprofiel presteert in [de](https://www.microsoft.com/solution-providers/home) ervaring Een oplossingsprovider zoeken, bekijkt u de pagina [Bedrijfsprofielinzichten.](analyze-your-marketing-profile.md)
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Uw bedrijf laten groeien met Microsoft-verwijzingen](referrals.md)
+- [Uw leads analyseren](analyze-your-marketing-profile.md)

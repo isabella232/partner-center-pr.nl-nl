@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/27/2021
-ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172419"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328029"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,6 +22,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van april 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Gereedheid|[De validatie-API voor CSP-klantadressen wordt live in juni bijgewerkt; testmogelijkheid nu beschikbaar](2021-april.md#10)|30 april|
 |Functies|[Nieuwe locatie voor Partner Center API Swagger-documentatie](2021-april.md#9)|26 april|
 |Functies|[Cloud Solution Provider (CSP)-beleid voor de retourperiode van software en de vervaldatum van de downloadkoppeling](2021-april.md#8)|21 april|
 |Uw bedrijf laten groeien|[Licentieprogramma openen: resellers overstappen naar het Cloud Solution Provider (CSP)-programma](2021-april.md#7)|19 april|

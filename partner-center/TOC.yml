@@ -514,6 +514,9 @@
         - name: Marketplace-aanbiedingen aanschaffen
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
+        - name: Licenties beheren in Marketplace-aanbiedingen
+          href: csp-commercial-marketplace-licensing.md
+          displayName: csp
         - name: Exclusieve Marketplace-aanbiedingen van ISV's (Independent Software Vendor)
           href: isv-opt-in.md
         - name: Marketplace-aanbiedingen beheren
