@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284499"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702719"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>De Azure-abonnementsabonnementen van een klant overdragen aan een andere partner
 
@@ -44,25 +44,25 @@ De klant moet in gesprek zijn met beide partners (huidige en toekomstige) voorda
 - Marketplace-producten van derden worden overdragen zolang de producten voldoen aan de geschiktheidscontrole van Marketplace.
     - Er zijn geen speciale kortingen of regionale beperkingen
     - De producten zijn niet gebaseerd op een abonnement
-    - De toekomstige partner moet samenwerken met de uitgever om ervoor te zorgen dat deze op de toegestane lijst voor implementatie van het product staat
-    - Als niet aan al deze voorwaarden wordt voldaan om de Marketplace-producten over te dragen, moeten de Azure-abonnementen worden geannuleerd en vervolgens opnieuw worden gekocht van Marketplace-producten met de nieuwe partner
+    - De toekomstige partner moet samenwerken met de uitgever om ervoor te zorgen dat deze op de lijst met toegestane implementaties van het product staat
+    - Als niet aan al deze voorwaarden wordt voldaan om de Marketplace-producten over te dragen, moeten de Azure-abonnementen worden overgedragen en vervolgens opnieuw worden gekocht van Marketplace-producten met de nieuwe partner
 
 **Vereisten:**
 
 - Klant betrek huidige CSP-partner bij de intentie om over te zetten
 - Toekomstige CSP-partner werkt samen met de klant om ervoor te zorgen dat aan de behoeften van de klant kan worden voldaan
 - Toekomstige CSP-partner brengt een relatie tot leven met de klant en koopt een Azure-plan voordat de overgang begint  
-- De klant moet een Microsoft-klantovereenkomst met een toekomstige CSP-partner
+- De klant moet zich Microsoft-klantovereenkomst met een toekomstige CSP-partner
 - Toekomstige CSP-partner moet de Microsoft Partner-overeenkomst hebben ondertekend om dit hulpprogramma te kunnen gebruiken
 
 ## <a name="customer-tasks-to-be-completed"></a>Te voltooien klanttaken
 
-Als u een Azure-abonnement wilt overdragen onder een Azure-plan, moet de klant het proces starten door contact op te nemen met de huidige partner. Ze moeten de bedrijfsnaam en het domein van hun huidige partner verzamelen, zodat hun toekomstige partner het formulier voor overdrachtsaanvraag namens hen kan invullen.
+Als u een Azure-abonnement wilt overdragen onder een Azure-plan, moet de klant het proces starten door contact op te nemen met de huidige partner. Ze moeten de bedrijfsnaam en het domein van hun huidige partner verzamelen, zodat hun toekomstige partner het formulier voor overdracht namens hen kan invullen.
 
 De klant moet ook de abonnementen identificeren die hij wil overdragen van zijn huidige partner. U kunt geen partners wijzigen voor abonnementen op Office 365, Enterprise Mobility Suite of Microsoft Dynamics CRM.
 
 >[!Note]  
->Het is de verantwoordelijkheid van de toekomstige partner om het overdrachtsaanvraagformulier in te vullen dat het overdrachtsproces initieert. Microsoft kan niet ingrijpen namens de klant of de huidige partner. De klant moet van plan zijn nauw samen te werken met zijn toekomstige en huidige partner om de overgang soepel te laten verlopen.
+>Het is de verantwoordelijkheid van de toekomstige partner om het formulier voor overdrachtsaanvraag in te vullen dat het overdrachtsproces initieert. Microsoft kan niet ingrijpen namens de klant of de huidige partner. De klant moet van plan zijn nauw samen te werken met zijn toekomstige en huidige partner om de overgang soepel te laten verlopen.
 
 ## <a name="future-partner-tasks-to-be-completed"></a>Toekomstige partnertaken die moeten worden voltooid
 
@@ -103,7 +103,7 @@ Controleer en accepteer het overdrachtsaanvraagformulier van Partner Center om d
 1.  Selecteer in Partner Center menu Klanten **en** selecteer vervolgens de klant namens welke een overdrachtsaanvraag is ingediend.
 2.  Selecteer abonnementen in het menu **Klant.**
 3.  Selecteer de **sectie Overdrachtsaanvraag.**
-4.  Vouw overdrachtsgegevens uit door de gekozen **aanvraag-id voor overdracht te selecteren** onder Ontvangen **aanvragen**
+4.  Vouw overdrachtsgegevens uit door de gekozen **overdrachtsaanvraag-id te selecteren** onder **Ontvangen aanvragen**
 
 :::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Overdrachtsaanvraag voor bronbeoordelingen":::
 
@@ -130,11 +130,12 @@ Controleer en accepteer het overdrachtsaanvraagformulier van Partner Center om d
 >Voor indirecte providers: informeer uw indirecte reseller dat de overdrachtsaanvraag is geaccepteerd.
 
 ### <a name="managing-your-transferred-customer-subscriptions"></a>Uw overgedragen klantabonnementen beheren
+
 - Toegang voor bestaande gebruikers, groepen of service-principals die is toegewezen met behulp van Azure RBAC (op rollen gebaseerd toegangsbeheer) wordt niet beïnvloed tijdens de overgang. Op rollen gebaseerd toegangsbeheer [van Azure (Azure RBAC)](/azure/role-based-access-control/overview) helpt uw klant bij het beheren van wie toegang heeft tot Azure-resources, wat ze kunnen doen met deze resources en tot welke gebieden ze toegang hebben. Als nieuwe partner krijgt u na de abonnementsoverdracht geen RBAC-toegang tot de resources van uw klant. De vorige partner van uw klant behoudt zijn RBAC-toegang. Werk samen met uw klant om te begrijpen wie inzicht heeft in hun abonnementen en hoe u gezochte wijzigingen kunt aanbrengen.
 
-- Daarom is het belangrijk dat uw klant Azure RBAC-toegang voor de vorige partner verwijdert en toegang toevoegt voor de nieuwe partner. Zie Wat is op rollen gebaseerd toegangsbeheer van [Azure (Azure RBAC)?](/azure/role-based-access-control/overview) voor meer informatie over het verlenen van nieuwe toegang door uw klant. Zie Een roltoewijzing [verwijderen](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)voor meer informatie over het verwijderen van de RBAC-toegang van uw vorige partner.
+- Daarom is het belangrijk dat uw klant Azure RBAC-toegang voor de vorige partner verwijdert en toegang toevoegt voor de nieuwe partner. Zie Wat is op rollen gebaseerd toegangsbeheer van [Azure (Azure RBAC)?](/azure/role-based-access-control/overview) voor meer informatie over het verlenen van nieuwe toegang door uw klant. Zie Een roltoewijzing verwijderen voor meer informatie over het verwijderen van de RBAC-toegang van uw vorige partner [door uw klant.](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)
 
-- Bovendien krijgt u niet automatisch beheerderstoegang [namens (AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) tot uw abonnementen. AOBO is nodig voor partners om de Azure-abonnementen van hun klant namens hen te beheren. Zie Machtigingen verkrijgen voor het beheren van de service of het abonnement van een klant voor meer informatie over [Azure-bevoegdheden.](./customers-revoke-admin-privileges.md)
+- Bovendien krijgt u niet automatisch [AOBO-toegang (Admin on Behalf Of)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) tot uw abonnementen. AOBO is nodig voor partners om de Azure-abonnementen van hun klant namens hen te beheren. Zie Machtigingen verkrijgen voor het beheren van de service of het abonnement van een klant voor meer informatie over [Azure-bevoegdheden.](./customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>Volgende stappen:
 

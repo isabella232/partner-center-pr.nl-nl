@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het lezen van op licenties gebaseerde afstemmings bestanden in Partner Center. In dit artikel wordt uitgelegd wat de betekenis is van elk veld in het afstemmings bestand op basis van licentie.
+description: Meer informatie over het lezen van afstemmingsbestanden op basis van licenties in Partner Center. In dit artikel wordt uitgelegd wat de betekenis is van elk veld in uw op licenties gebaseerde reconbestand.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c311de4a504785e15cefc7a93f1ee3da396ea7d
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441282"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702906"
 ---
-# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Informatie over de velden in het Partner Center-afstemmings bestand op basis van licentie
+# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Inzicht in de velden in Partner Center op licenties gebaseerde afstemmingsbestanden
 
 **Van toepassing op**
 
@@ -25,41 +25,41 @@ ms.locfileid: "106441282"
 **Juiste rollen**
 
 - Globale beheerder
-- Beheerder van gebruikers beheer
+- Beheerder van gebruikersbeheer
 - Factureringsbeheerder
-- Beheer agent
+- Beheeragent
 
-Als u uw wijzigingen wilt afstemmen op de orders van een klant, vergelijkt u de **Syndication_Partner_Subscription_Number** van het afstemmings bestand met de **abonnements-id** van het partner centrum.
+Als u uw wijzigingen wilt afstemmen  op de orders van een klant, vergelijkt u de Syndication_Partner_Subscription_Number uit het afstemmingsbestand met de abonnements-id van Partner Center. 
 
-## <a name="fields-in-license-based-reconciliation-files"></a>Velden in op licentie gebaseerde afstemmings bestanden
+## <a name="fields-in-license-based-reconciliation-files"></a>Velden in afstemmingsbestanden op basis van licenties
 
 | Kolom | Beschrijving | Voorbeeldwaarde |
 | ------ | ----------- | ------------ |
-| Partner | De unieke id in de GUID-indeling voor een specifieke facturerings entiteit. Niet vereist voor afstemming. Hetzelfde in alle rijen. | *8ddd03642-test-test-test-46b58d356b4e* |
-| CustomerId | Unieke micro soft-id voor de klant in GUID-indeling. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| CustomerName | De organisatie naam van de klant, zoals gerapporteerd in het partner centrum. *Zeer belang rijk veld voor het afstemmen van de factuur met de systeem gegevens.* | *Klant A testen* |
-| MpnId | De MPN-id van de CSP-partner. Zie [hoe u kunt specificeren op partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMpnId | De MPN-id van de dealer van de record voor het abonnement.  |
-| OrderId | De unieke id voor een order in het micro soft-factuur platform. Kan handig zijn om de volg orde te identificeren wanneer u contact opneemt met ondersteuning. Niet gebruikt voor afstemming. | *566890604832738111* |
-| SubscriptionId | De unieke id voor een abonnement in het micro soft-factuur platform. Kan nuttig zijn bij het identificeren van het abonnement bij het maken van contact met ondersteuning. Niet gebruikt voor afstemming. *Deze waarde is niet hetzelfde als de **abonnements-id** in de partner beheer console. Zie **SyndicationPartnerSubscriptionNumber** in plaats daarvan.* | *usCBMgAAAAAAAAIA* |
-| SyndicationPartnerSubscriptionNumber | De unieke id voor abonnementen. Een klant kan meerdere abonnementen hebben voor hetzelfde abonnement. Deze kolom is belang rijk voor het afstemmen van de analyse van bestanden. Dit veld is gekoppeld aan de **abonnements-id** in de partner beheer console. | *fb977ab5-test-test-test-24c8d9591708* |
-| OfferId | Unieke aanbiedings-id. Id van standaard aanbieding, zoals gedefinieerd in de prijs lijst. *Deze waarde komt niet overeen met de **aanbiedings-id** uit de prijs lijst. Zie **DurableOfferID** in plaats daarvan.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferId | Unieke id van de duurzame aanbieding, zoals gedefinieerd in de prijs lijst. *Deze waarde komt overeen met de **aanbiedings-id** uit de prijs lijst.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
-| OfferName | De naam van het service aanbod dat door de klant is aangeschaft, zoals gedefinieerd in de prijs lijst. | *Microsoft Office 365 (abonnement E3)* |
-| Subscription | De begin datum van het abonnement. De tijd is altijd het begin van de dag, 0:00. Dit veld wordt ingesteld op de dag nadat de order is verzonden. Wordt gebruikt met de **SubscriptionEndDate** om te bepalen: als de klant zich nog in het eerste jaar van het abonnement bevindt of als het abonnement voor het volgende jaar is verlengd. | *2/1/2019 0:00* |
-| SubscriptionEndDate | De eind datum van het abonnement. De tijd is altijd het begin van de dag, 0:00. *12 maanden plus **x** dagen na de begin datum* om te worden uitgelijnd met de factuur datum van de partner of *12 maanden na de vernieuwings datum*. Bij de verlenging worden de prijzen bijgewerkt naar de huidige prijs lijst. De communicatie van de klant is mogelijk vereist voordat de geautomatiseerde verlenging wordt verlengd. | *2/1/2019 0:00* |
-| ChargeStartDate | Start dag van de kosten. De tijd is altijd het begin van de dag, 0:00. Wordt gebruikt voor het berekenen van dagelijkse kosten (*pro rata* kosten) wanneer een klant licentie nummers wijzigt. | *2/1/2019 0:00* |
-| ChargeEndDate | De einddag van de kosten. De tijd is altijd het einde van de dag, 23:59. Wordt gebruikt voor het berekenen van dagelijkse kosten (*pro rata* kosten) wanneer een klant licentie nummers wijzigt. | *2/28/2019 23:59* |
-| ChargeType | Het [type kosten](recon-file-charge-types.md) of correctie. | Zie [kosten typen](recon-file-charge-types.md). |
-| UnitPrice | Prijs per licentie, zoals gepubliceerd in de prijs lijst, op het moment van aankoop. Zorg ervoor dat dit overeenkomt met de informatie die is opgeslagen in uw facturerings systeem tijdens het afstemmen. | *6,82* |
-| Aantal | Aantal licenties. Zorg ervoor dat dit overeenkomt met de informatie die is opgeslagen in uw facturerings systeem tijdens het afstemmen. | *2* |
-| Bedrag | Totaal van de prijs voor de hoeveelheid. Wordt gebruikt om te controleren of de berekenings hoeveelheid overeenkomt met de manier waarop u deze waarde voor uw klanten berekent. | *13,32* |
-| TotalOtherDiscount | De kortings hoeveelheid die op deze kosten wordt toegepast. Product licenties die zijn opgenomen in een competentie of kaarten of nieuwe abonnementen die in aanmerking komen voor een stimulans, bevatten ook een kortings bedrag in deze kolom. | *2,32* |
-| Subtotaal | Totaal voor belasting. Hiermee wordt gecontroleerd of uw subtotaal overeenkomt met het verwachte totaal, in het geval van een korting. | *11* |
-| Btw | Kosten belasting bedrag. Op basis van de belasting regels van uw markt en specifieke omstandigheden. | *0* |
-| TotalForCustomer | Totaal na belasting. Hiermee wordt gecontroleerd of BTW in rekening wordt gebracht op de factuur. | *11* |
-| Valuta | Valuta type. Elke facturerings entiteit heeft slechts één valuta. Controleer of deze overeenkomt met uw eerste factuur. Controleer opnieuw op de belangrijkste updates van het facturerings platform. | *EUR* |
-| DomainName | Domein naam van de klant. Dit veld kan leeg zijn tot de tweede facturerings cyclus. *Gebruik dit veld niet als een unieke id voor de klant. De klant/partner kan de Vanity of het standaard domein bijwerken via de Office 365-Portal.* | *example.onmicrosoft.com* |
-| SubscriptionName | Bijnaam van abonnement. Als er geen bijnaam is opgegeven, maakt partner centrum gebruik van de **aanbieding**. | *PROJECT ONLINE* |
-| SubscriptionDescription | De naam van het service aanbod dat door de klant is aangeschaft, zoals gedefinieerd in de prijs lijst. (Dit is een identiek veld voor de **aanbieding**.) | *PROJECT ONLINE PREMIUM ZONDER PROJECT-CLIENT* |
-| BillingCycleType | Eenmalige facturerings frequentie.| *Maandelijks* |
+| PartnerId | Unieke id in GUID-indeling voor een specifieke factureringsentiteit. Niet vereist voor afstemming. Hetzelfde in alle rijen. | *8ddd03642-test-test-test-46b58d356b4e* |
+| CustomerId | Unieke Microsoft-id voor de klant in GUID-indeling. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| CustomerName | De organisatienaam van de klant, zoals vermeld in Partner Center. *Zeer belangrijk veld voor het afstemmen van de factuur met uw systeemgegevens.* | *Testklant A* |
+| MpnId | MPN-id van de CSP-partner. Zie [hoe u kunt itemeren op partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| ResellerMpnId | MPN-id van de wederverkoper van record voor het abonnement.  |
+| OrderId | Unieke id voor een bestelling in het Microsoft-factureringsplatform. Kan handig zijn om de volgorde te identificeren wanneer u contact opstelt met de ondersteuning. Niet gebruikt voor afstemming. | *566890604832738111* |
+| SubscriptionId | Unieke id voor een abonnement in het Microsoft-factureringsplatform. Kan handig zijn om het abonnement te identificeren wanneer u contact op met de ondersteuning opzegt. Niet gebruikt voor afstemming. *Deze waarde is niet hetzelfde als de **abonnements-id** in de beheerconsole van de partner. Zie in **plaats daarvan SyndicationPartnerSubscriptionNumber.*** | *usCBMgAAAAAAAAIA* |
+| SyndicationPartnerSubscriptionNumber | Unieke id voor abonnementen. Een klant kan meerdere abonnementen voor hetzelfde abonnement hebben. Deze kolom is belangrijk voor de analyse van afstemmingsbestand. Dit veld wordt toe te staan **aan de abonnements-id** in de beheerconsole van de partner. | *fb977ab5-test-test-test-24c8d9591708* |
+| OfferId | Unieke aanbiedings-id. Standaardaanbiedings-id, zoals gedefinieerd in de prijslijst. *Deze waarde komt niet overeen **met de aanbiedings-id** uit de prijslijst. Zie **in plaats daarvan DurableOfferID.*** | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferId | Unieke duurzame aanbiedings-id, zoals gedefinieerd in de prijslijst. *Deze waarde komt overeen met **de aanbiedings-id** uit de prijslijst.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OfferName | De naam van de serviceaanbieding die door de klant is gekocht, zoals gedefinieerd in de prijslijst. | *Microsoft Office 365 (abonnement E3)* |
+| SubscriptionStartDate | De begindatum van het abonnement in UTC. De tijd is altijd het begin van de dag, 0:00. Dit veld wordt ingesteld op de dag nadat de order is verzonden. Wordt gebruikt met **de SubscriptionEndDate** om te bepalen of de klant zich nog steeds binnen het eerste jaar van het abonnement of het abonnement voor het volgende jaar heeft verlengd. | *2/1/2019 0:00* |
+| SubscriptionEndDate | De einddatum van het abonnement in UTC. De tijd is altijd het begin van de dag, 0:00. *12 maanden plus x **dagen*** na de begindatum om af te stemmen met de factureringsdatum van de partner of 12 maanden vanaf *de verlengingsdatum.* Bij verlenging worden de prijzen bijgewerkt naar de huidige prijslijst. Communicatie van de klant is mogelijk vereist voor automatische verlenging. | *2/1/2019 0:00* |
+| ChargeStartDate | Begindag van de kosten. De tijd is altijd het begin van de dag, 0:00. Wordt gebruikt om de dagelijkse kosten *(pro rata kosten) te* berekenen wanneer een klant de licentienummers wijzigt. | *2/1/2019 0:00* |
+| ChargeEndDate | Einddag van de kosten. De tijd is altijd het einde van de dag, 23:59. Wordt gebruikt om de dagelijkse kosten *(pro rata kosten) te* berekenen wanneer een klant de licentienummers wijzigt. | *2/28/2019 23:59* |
+| ChargeType | Het [type kosten of](recon-file-charge-types.md) correctie. | Zie [Kostentypen.](recon-file-charge-types.md) |
+| UnitPrice | Prijs per licentie, zoals gepubliceerd in de prijslijst op het moment van aankoop. Zorg ervoor dat deze overeenkomt met de informatie die tijdens de afstemming in uw factureringssysteem is opgeslagen. | *6.82* |
+| Aantal | Aantal licenties. Zorg ervoor dat deze overeenkomt met de informatie die tijdens de afstemming in uw factureringssysteem is opgeslagen. | *2* |
+| Bedrag | Totaal van prijs voor hoeveelheid. Wordt gebruikt om te controleren of de berekening van het bedrag overeenkomt met de manier waarop u deze waarde voor uw klanten berekent. | *13.32* |
+| TotalOtherDiscount | De hoeveelheid korting die op deze kosten wordt toegepast. Productlicenties die zijn opgenomen in een competentie, MAPS of nieuwe abonnementen die in aanmerking komen voor een incentive, bevatten ook een kortingsbedrag in deze kolom. | *2.32* |
+| Subtotaal | Totaal vóór belasting. Controleert of uw subtotaal overeenkomt met het verwachte totaal, in het geval van een korting. | *11* |
+| Btw | Btw-bedrag. Op basis van de belastingregels en specifieke omstandigheden van uw markt. | *0* |
+| TotalForCustomer | Totaal na belasting. Controleert of er belasting in rekening wordt gebracht op de factuur. | *11* |
+| Valuta | Valutatype. Elke factureringsentiteit heeft slechts één valuta. Controleer of deze overeenkomt met uw eerste factuur. Controleer het opnieuw na belangrijke updates voor het factureringsplatform. | *EUR* |
+| DomainName | Domeinnaam van de klant. Dit veld kan leeg zijn tot de tweede factureringscyclus. *Gebruik dit veld niet als een unieke id voor de klant. De klant/partner kan het vanity- of standaarddomein bijwerken via de Office 365-portal.* | *example.onmicrosoft.com* |
+| SubscriptionName | Bijnaam van abonnement. Als er geen bijnaam is opgegeven, Partner Center de **OfferName gebruikt.** | *PROJECT ONLINE* |
+| SubscriptionDescription | De naam van de serviceaanbieding die door de klant is gekocht, zoals gedefinieerd in de prijslijst. (Dit is een identiek veld als **OfferName**.) | *PROJECT ONLINE PREMIUM ZONDER PROJECTCLIENT* |
+| BillingCycleType | Een een time-time factureringsfrequentie.| *Maandelijks* |

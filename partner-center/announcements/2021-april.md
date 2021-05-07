@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328046"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702821"
 ---
 # <a name="april-2021-announcements"></a>Aankondigingen van april 2021
 
@@ -60,7 +60,7 @@ Amerikaanse postcodes retourneren nog eens vier cijfers + koppeltekens, bijvoorb
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de technische documentatie en veelgestelde vragen in de [verzameling toegewezen partners](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
+- Bekijk de technische documentatie en veelgestelde vragen in de [speciale partnerverzameling](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
 - Bereid u voor op het opnemen van de wijzigingen met Partner Center API en webgebruikerservaring. 
 - Deel uw tenant-id voor de sandbox met de expert op het gebied van onderwerp (Ali Kunnenki) die moet worden opgenomen in de test flight, zodat u kunt beginnen met het voorbereiden van de update. 
 - Als u een CPV-oplossing (Panel Vendor) gebruikt, raadpleegt u uw CPV.
@@ -146,7 +146,7 @@ Bekijk de [CSP-retourperiode en veelgestelde](https://partner.microsoft.com/reso
 Raadpleeg uw relevante Yammer-community's voor vragen over deze aanbiedingen.
 
 ________________
-## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Licentieprogramma openen: resellers overstappen naar het Cloud Solution Provider (CSP)-programma
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Licentieprogramma openen: Resellers overstappen naar het Cloud Solution Provider (CSP)-programma
 
 ### <a name="categories"></a>Categorieën
 
@@ -207,7 +207,7 @@ Gebruik de komende maanden om resellers met een open licentie te helpen zich in 
 
 - Als uw organisatie momenteel niet is ingeschreven bij het CSP-programma, neem dan contact op met uw distributeur voor informatie over hoe u aan de slag kunt gaan. Maak hier verbinding met een indirecte [provider.](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)
 
-- Als uw organisatie al is ingeschreven bij het CSP-programma, kunt u hier meer informatie vinden over continue software in [CSP.](https://partner.microsoft.com/resources/collection/software-in-csp)
+- Als uw organisatie al is ingeschreven bij het CSP-programma, kunt u hier meer informatie vinden over permanente software in [CSP.](https://partner.microsoft.com/resources/collection/software-in-csp)
 
 ### <a name="questions"></a>Vragen?
 
@@ -233,7 +233,7 @@ Alle volumelicenties (VL), Dynamics Price List (DPL) en Cloud Solution Provider 
 
 Microsoft-partners hebben met ons gedeeld dat we een geconsolideerde weergave moeten bieden van alle wereldwijde promoties met ondersteunende details. U wilde deze geconsolideerde handleiding om u te helpen bij het gebruik van promoties, met het vertrouwen dat alle beschikbare informatie gemakkelijk toegankelijk is op een centrale en handige locatie.
 
-Vanaf april 2021 werkt Microsoft deze handleiding maandelijks bij en is deze beschikbaar in een speciale global promo readiness Guide-verzameling in de resourcegalerie Operations Readiness.
+Vanaf april 2021 werkt Microsoft deze handleiding maandelijks bij en is deze beschikbaar in een speciale verzameling van de Global Promo Readiness Guide in de resourcegalerie Operations Readiness.
 
 Koppelingen naar deze handleiding worden ook opgenomen in de volgende verzamelingen:
 
@@ -308,26 +308,27 @@ De maandelijkse CSP Community Call Q&A is de beste plek voor vragen met betrekki
 Neem contact op met de [ondersteuning voor meer informatie.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Herinnering: afschaffing van de GET-kwalificatie op 4 mei 2021
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>Laatste herinnering: afschaffing van de GET-kwalificatie op 6 mei 2021
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2021-04-09
+- Datum: 2021-05-04
+
 - Functies
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die academici, non-profitorganisaties en Government Community Cloud (GCC) verkopen, bieden via het Cloud Solution Provider-programma met behulp van de Partner Center API
+Partners die academici, non-profitorganisaties en Government Community Cloud (GCC) verkopen via het Cloud Solution Provider-programma met behulp van de Partner Center-API
 
 ### <a name="details"></a>Details
 
-Deze aankondiging is een vervolg op de Partner Center [verbeteringen die in december zijn uitgebracht.](https://docs.microsoft.com/partner-center/announcements/2020-december#1) Als onderdeel van deze release zijn nieuwe API's voor GET- en POST-kwalificaties geïmplementeerd. Als gevolg hiervan wordt de bestaande GET-kwalificatie op 4 mei 2021 ingetrokken. Op dat moment moet u zijn overstappen op het gebruik van de nieuwe POST Partner Center-API's in aankoopaanbiedingen voor onderwijs en de nieuwe API voor GET-kwalificaties om vooraf gekwalificeerde Non-profit- en GCC-aanbiedingen aan te schaffen.
+Deze aankondiging is een vervolg op de Partner Center [verbeteringen die in december zijn uitgebracht.](https://docs.microsoft.com/partner-center/announcements/2020-december#1) Als onderdeel van deze release zijn nieuwe API's voor GET- en POST-kwalificaties geïmplementeerd. Als gevolg hiervan wordt de bestaande GET-kwalificatie op 6 mei **2021** ingetrokken. Op dat moment moet u zijn overstappen op het gebruik van de nieuwe POST Partner Center API's. Met de nieuwe POST-API's kunt u Education-aanbiedingen aanschaffen, terwijl u met de nieuwe GET-API's vooraf gekwalificeerde Non-profit- en GCC-aanbiedingen kunt aanschaffen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Werk bij naar de nieuwe API's voor een geslaagde en tijdige overgang.
+- **Werk bij naar de nieuwe API's** voor een geslaagde en tijdige overgang.
 
-- Bekijk de nieuwe api Partner Center en handleiding in de Operations Readiness-resources: verbeteringen Partner Center [Education-klantvalidatieproces.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Bekijk de nieuwe api Partner Center wijzigingen en** handleiding in de Operations Readiness-resources: verbeteringen Partner Center [Education-klantvalidatieproces.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
 - Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers om hen te helpen zich voor te bereiden op deze wijzigingen.
 
@@ -337,8 +338,12 @@ Voor vragen met betrekking tot deze melding kunt u contact opnemen [met Partner 
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
-- April: Herinnering aan aanstaande afschaffing van GET-kwalificatie 
+- 4 mei 2021: Laatste herinnering aan aanstaande afschaffing van GET-kwalificatie
+
+- 9 april 2021: Herinnering aan aanstaande afschaffing van GET-kwalificatie 
+
 - Februari: Tijdlijnen bijgewerkt voor afschaffing van GET-& PUT-kwalificaties
+
 - Januari: Herinnering aan toekomstige afschaffingen van GET-& PUT-kwalificaties
 
 ________________
@@ -443,7 +448,7 @@ Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, h
 - Oekraïne
 - Oezbekistan
 
-Partners met klanten in de rest van de wereld hebben eind maart 2021 de mogelijkheid om de bedrijfsregistratie-id, het telefoonnummer en de middelste naam voor klanten in te voeren als optionele gegevens.
+Partners met klanten in de rest van de wereld kunnen eind maart 2021 de bedrijfsregistratie-id, het telefoonnummer en de middelste naam voor klanten invoeren als optionele details.
 
 ### <a name="next-steps"></a>Volgende stappen
 

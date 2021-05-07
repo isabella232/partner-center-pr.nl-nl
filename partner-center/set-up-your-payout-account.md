@@ -1,18 +1,18 @@
 ---
-title: '& BTW-formulieren instellen voor uitbetalings account-micro soft Commercial Marketplace'
-description: Als u geld wilt ontvangen van de verkoop van aanbiedingen in de commerciële Marketplace, leert u hoe u uw account voor betaling kunt instellen en de benodigde belasting formulieren kunt invullen.
+title: Uitbetalingsaccount instellen & belastingformulieren - commerciële Marketplace van Microsoft
+description: Als u geld wilt ontvangen van de aanbiedingsverkoop in de commerciële marketplace, leert u hoe u uw uitbetalingsaccount in kunt stellen en de benodigde belastingformulieren kunt invullen.
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028431"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702804"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Stel uw betalingsaccount en belastingformulieren
 
@@ -21,190 +21,190 @@ ms.locfileid: "105028431"
 - Accountbeheerder
 - Globale beheerder
 
-Als u geld wilt ontvangen van de verkoop van aanbiedingen in de commerciële Marketplace, moet u uw account voor betaling instellen en de benodigde belasting formulieren invullen in het [partner centrum](https://partner.microsoft.com/dashboard).
+Als u geld wilt ontvangen van de verkoop van de aanbieding in de commerciële marketplace, moet u uw uitbetalingsaccount instellen en de benodigde belastingformulieren invullen in [Partner Center](https://partner.microsoft.com/dashboard).
 
-Als u alleen de gratis aanbiedingen wilt vermelden (en niet van plan bent om in-app-aankopen aan te bieden of Microsoft Advertising), hoeft u geen uitbetalings account in te stellen of eventuele belasting formulieren in te vullen. Als u later van gedachten verandert en besluit dat u aanbiedingen (of invoeg toepassingen) wilt verkopen, kunt u uw account voor betaling instellen en de BTW-formulieren op dat moment invullen. U kunt geen betaalde aanbiedingen of invoeg toepassingen verzenden totdat uw uitbetalings account en het BTW-profiel zijn voltooid.
-
-> [!NOTE]
-> In bepaalde markten kunnen uitgevers alleen een gratis aanbieding indienen. Als uw account is geregistreerd op een van deze markten, hebt u geen optie om een uitbetalings account in te stellen.
-
-Nadat u uw account hebt ingesteld, zijn er twee dingen die u moet doen voordat u een aanbieding (of invoeg toepassingen) in de commerciële Marketplace kunt verkopen:
-
-- [Vul uw belasting formulieren in](#tax-forms)
-- [Uw account voor betaling instellen](#payout-account)
+Als u alleen gratis aanbiedingen wilt aanbieden (en niet van plan bent om aankopen in apps aan te bieden of Microsoft Advertising te gebruiken), hoeft u geen uitbetalingsaccount in te stellen of belastingformulieren in te vullen. Als u later van gedachten verandert en besluit dat u aanbiedingen (of invoegtoepassingen) wilt verkopen, kunt u uw uitbetalingsaccount instellen en op dat moment belastingformulieren invullen. U kunt geen betaalde aanbiedingen of invoegtoepassingen indienen totdat uw uitbetalingsaccount en belastingprofiel zijn voltooid.
 
 > [!NOTE]
-> Zie voor meer informatie over hoe en wanneer u betaalt voor de Money die uw aanbieding maakt, [aan de slag in de commerciële Marketplace](marketplace-get-paid.md).
+> In bepaalde markten kunnen uitgevers alleen een gratis aanbieding indienen. Als uw account is geregistreerd in een van deze markten, hebt u niet de mogelijkheid om een uitbetalingsaccount in te stellen.
 
-## <a name="tax-forms"></a>BTW-formulieren
+Nadat u uw account hebt ingesteld, moet u twee dingen doen voordat u aanbieding (of invoegtoepassingen) in de commerciële marketplace kunt verkopen:
 
-U beheert uw BTW-profiel en BTW-formulieren op de pagina **uitbetaling en belasting** van partner centrum. De machtigingen van uw organisatie bepalen de profielen en informatie die u ziet.
+- [Uw belastingformulieren invullen](#tax-forms)
+- [Uw uitbetalingsaccount instellen](#payout-account)
 
-### <a name="create-or-update-your-tax-profile"></a>Uw BTW-profiel maken of bijwerken
+> [!NOTE]
+> Zie Betaald krijgen in de commerciële marketplace voor meer informatie over hoe en wanneer u wordt betaald voor het geld dat uw aanbieding [verdient.](marketplace-get-paid.md)
 
-Eerst moet u een BTW-profiel maken en toewijzen aan de Program ma's waarmee u deel uitmaakt. Gebruik de volgende stappen om uw *BTW-profiel* te maken of bij te werken in het partner centrum. U kunt uw belasting formulieren elektronisch volt ooien en verzenden in het dash board van de partner centrum. in de meeste gevallen hoeft u geen formulieren af te drukken en te verzenden.
+## <a name="tax-forms"></a>Belastingformulieren
+
+U beheert uw belastingprofiel en belastingformulieren op de **pagina Uitbetaling** en belasting van Partner Center. De machtigingen van uw organisatie bepalen de profielen en informatie die u ziet.
+
+### <a name="create-or-update-your-tax-profile"></a>Uw belastingprofiel maken of bijwerken
+
+Eerst moet u een belastingprofiel maken en dit toewijzen aan de programma's aan wie u deelneemt. Gebruik de volgende stappen om uw belastingprofiel te maken *of bij te werken* in Partner Center. U kunt uw belastingformulieren elektronisch invullen en verzenden in Partner Center dashboard; In de meeste gevallen hoeft u geen formulieren af te drukken en te e-mailen.
 
 > [!IMPORTANT]
-> Verschillende landen en regio's hebben verschillende belasting vereisten. De exacte hoeveelheid die u in BTW moet betalen, is afhankelijk van de landen en regio's waar u uw aanbieding verkoopt. Raadpleeg de [Microsoft Azure Marketplace Publisher-overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560) voor meer informatie over welke landen/regio's micro soft verkoop en het gebruik van belasting namens u verkrijgt. In andere landen/regio's, afhankelijk van waar u bent Inge schreven, moet u mogelijk verkoop-en gebruiks belasting voor uw aanbiedings verkoop rechtstreeks naar de lokale belasting dienst remitteren. Daarnaast kan de omzet van de app die u ontvangt, als bate worden belast. We raden u aan om contact op te nemen met de relevante instantie voor uw land of regio, die u het beste kan helpen bij het bepalen van de juiste belasting gegevens voor uw commerciële Marketplace-activiteiten.
+> Verschillende landen en regio's hebben verschillende belastingvereisten. Het exacte bedrag dat u in btw moet betalen, is afhankelijk van de landen en regio's waar u uw aanbieding verkoopt. Zie de [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) om na te gaan voor welke landen/regio's Microsoft de verkoop afzet en welke belasting namens u wordt gebruikt. In andere landen/regio's moet u, afhankelijk van waar u bent geregistreerd, mogelijk de verkoop opnieuw betalen en belasting voor de verkoop van uw aanbieding rechtstreeks aan de lokale verantwoordelijke instantie gebruiken. Bovendien kan de omzet van de app die u ontvangt, worden belast als inkomsten. We raden u ten zeerste aan contact op te nemen met de relevante instantie voor uw land of regio die u het beste kan helpen bij het bepalen van de juiste belastinggegevens voor uw activiteiten op de commerciële marketplace.
 
-1. In het [dash board van de partner centrum](https://partner.microsoft.com/dashboard)selecteert u het tandwiel pictogram **instellingen** in de rechter bovenhoek en vervolgens de **account instellingen**.
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard)het **tandwielpictogram** Instellingen in de rechterbovenhoek en vervolgens **Accountinstellingen.**
 
-2. Selecteer in het navigatie menu aan de linkerkant de optie **uitbetaling en belasting** en selecteer vervolgens **betaling en BTW-toewijzingen**.
+2. Selecteer in het navigatiemenu aan de linkerkant **Uitbetaling en belasting** en selecteer vervolgens Uitbetaling en **belastingtoewijzingen.**
 
-3. Selecteer de combi natie van het programma en de verkoper waarvoor u BTW-gegevens wilt configureren.
+3. Selecteer de combinatie van programma- en verkoper-id waarvoor u belastinggegevens wilt configureren.
 
-4. Als u een bestaand BTW-profiel wilt gebruiken, selecteert u dit in de vervolg keuzelijst. Anders selecteert u **Nieuw profiel maken** en drukt u op **verzenden**. U gaat naar de pagina BTW-profielen.
+4. Als u een bestaand belastingprofiel wilt gebruiken, selecteert u dit in de vervolgkeuzepagina. Selecteer anders **Nieuw profiel maken en** druk op **Verzenden.** U gaat naar de pagina belastingprofielen.
 
-5. Selecteer de knop **bewerken** om uw belasting gegevens te bewerken.
+5. Selecteer de **knop Bewerken** om uw belastinggegevens te bewerken.
 
-6. Selecteer het juiste keuze rondje en selecteer uw land/regio als u daarom wordt gevraagd. Met deze stap bepaalt u de zakelijke entiteit van micro soft die wordt gebruikt voor het maken van uitbetalingen voor uw account.
+6. Selecteer het juiste keuzerondje en selecteer uw land/regio als u hier om wordt gevraagd. Met deze stap bepaalt u de bedrijfsentiteit van Microsoft die wordt gebruikt voor uitbetalingen voor uw account.
 
-7. Afhankelijk van uw selecties in stap 6, wordt u gevraagd om de belasting gegevens op te geven die vereist zijn voor uw land/regio.
+7. Afhankelijk van uw selecties in stap 6, wordt u gevraagd om belastinggegevens op te geven die zijn vereist voor uw land/regio.
 
    > [!NOTE]
-   > Ongeacht het land/de regio waar u woont of burgerschap, moet u Verenigde Staten BTW-formulieren invullen om een aanbieding of invoeg toepassingen via de commerciële Marketplace te verkopen. Uitgevers die voldoen aan bepaalde Verenigde Staten locatie-vereisten, moeten een IRS W-9-formulier invullen. Andere uitgevers buiten de Verenigde Staten moeten een IRS W-8-formulier invullen. U kunt deze formulieren online invullen tijdens het volt ooien van uw BTW-profiel.
+   > Ongeacht uw land/regio van herkomst of woonplaats, moet u Verenigde Staten belastingformulieren invullen om een aanbieding of invoegtoepassingen te verkopen via de commerciële marketplace. Uitgevers die voldoen aan bepaalde Verenigde Staten vereisten voor hun gegevens, moeten een IRS W-9-formulier invullen. Andere uitgevers buiten de Verenigde Staten moeten een IRS W-8-formulier invullen. U kunt deze formulieren online invullen wanneer u uw belastingprofiel voltooit.
 
-### <a name="withholding-rates"></a>Inhoudings tarieven
+### <a name="withholding-rates"></a>Holding-tarieven
 
-De gegevens die u in uw belasting formulieren verzendt, bepalen het juiste tarief voor belasting heffing. Het inhoudings bedrag geldt alleen voor verkopen die u in de Verenigde Staten. verkoop van niet-Amerikaanse locaties is niet van toepassing op inhoud. De inhoudings tarieven variëren, maar voor de meeste uitgevers die buiten het Verenigde Staten worden geregistreerd, is de standaard tarief 30%. U hebt de mogelijkheid om dit tarief te verlagen als uw land/regio heeft ingestemd op een inkomen uit de inkomsten belasting met de Verenigde Staten.
+De gegevens die u in uw belastingformulieren indient, bepalen het juiste belastingtarief. Het achterhoudspercentage geldt alleen voor verkopen die u in de Verenigde Staten; Verkoop in niet-Amerikaanse locaties is niet onderhevig aan holding. De percentages voor holding variëren, maar voor de meeste uitgevers die zich buiten de Verenigde Staten registreren, is het standaardpercentage 30%. U hebt de mogelijkheid om dit tarief te verlagen als uw land/regio akkoord is gegaan met een btw-tarief met de Verenigde Staten.
 
-### <a name="tax-treaty-benefits"></a>Voor delen van belasting verdrag
+### <a name="tax-treaty-benefits"></a>Voordelen belastingvoordelen
 
-Als u zich buiten het Verenigde Staten bevindt, kunt u profiteren van de voor delen van belasting verdragen. Deze voor delen variëren van land/regio tot land/regio en kunnen u mogelijk de belasting hoeveelheid die de inhoudt van de commerciële Marketplace te verminderen. U kunt voor delen van fiscale verdragen claimen door deel II van het formulier W-8BEN te volt ooien. We raden u aan om te communiceren met de juiste resources in uw land of regio om te bepalen of deze voor delen van toepassing zijn op u.
-
-> [!NOTE]
-> Een Verenigde Staten afzonderlijke belastingplichtige-id (of ITIN) is niet vereist voor het ontvangen van betalingen van micro soft of voor het claimen van de voor delen van belasting verdragen.
-
-## <a name="payout-account"></a>Uitbetalings account
-
-Een uitbetalings account is de Bank rekening waarnaar we de opbrengst van uw verkoop verstuurt. U kunt alle betaal accounts weer geven die u hebt ingevoerd op de profiel pagina.
+Als u zich buiten de Verenigde Staten, kunt u mogelijk profiteren van belastingvoordelen. Deze voordelen variëren per land/regio en kunnen u in staat stellen om de belasting te verlagen die de commerciële marketplace toestaat. U kunt belastingvoordelen claimen door deel II van het formulier W-8BEN in te vullen. U wordt aangeraden te communiceren met de juiste resources in uw land of regio om te bepalen of deze voordelen op u van toepassing zijn.
 
 > [!NOTE]
-> Op sommige markten kan PayPal worden gebruikt voor uw uitbetalings account. Als u wilt weten of PayPal wordt ondersteund voor een specifieke markt, raadpleegt u [betalings drempels, methoden en tijds perioden](payment-thresholds-methods-timeframes.md) en de onderstaande [PayPal-informatie](#paypal-info) voor meer informatie.
+> Een Verenigde Staten Individual Identification Number (of ITIN) is niet vereist om betalingen van Microsoft te ontvangen of belastingvoordelen te claimen.
 
-### <a name="create-a-payment-profile"></a>Een betalings profiel maken
+## <a name="payout-account"></a>Uitbetalingsaccount
 
-1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en klik vervolgens op **account instellingen**.
-2. Onder de kop *uitbetaling en belasting* selecteert u **toekennings-en BTW-profiel toewijzing**.
+Een uitbetalingsaccount is de bankrekening waar we de omzet van uw verkoop naar verzenden. U kunt alle betalingsaccounts weergeven die u hebt ingevoerd op de profielpagina.
 
-    > [!NOTE]
-    > Omdat dit gevoelige informatie is, wordt u mogelijk gevraagd om u opnieuw aan te melden.
+> [!NOTE]
+> In sommige markten kan PayPal worden gebruikt voor uw uitbetalingsaccount. Zie [Betalingsdrempels,](payment-thresholds-methods-timeframes.md) methoden en tijdsbestekken en de onderstaande [PayPal-informatie](#paypal-info) voor meer informatie om erachter te komen of PayPal wordt ondersteund voor een specifieke markt.
 
-3. Selecteer de betalings wijze die u wilt configureren.
+### <a name="create-a-payment-profile"></a>Een betalingsprofiel maken
 
-4. Selecteer een bestaand betalings profiel of selecteer **een nieuw betalings profiel maken** om een nieuw profiel voor de gekozen betalings wijze te maken.
-
-### <a name="create-a-bank-based-payment-profile"></a>Een betalings profiel op basis van de Bank maken
-
-Als u ervoor hebt gekozen om een bank account te gebruiken om uitbetalingen te ontvangen, voltooit u het volgende proces om uw bank account te configureren.
-
-1. Geef op de pagina *Bank profiel* de vereiste informatie over uw bank op.
-2. Geef uw bankrekening gegevens op.
+1. Selecteer [Partner Center](https://partner.microsoft.com/dashboard)in de **rechterbovenhoek het** tandwielpictogram Instellingen en vervolgens **Accountinstellingen.**
+2. Selecteer onder *de kop Uitbetaling en* belasting de optie Toewijzing van **uitbetalings- en belastingprofiel.**
 
     > [!NOTE]
-    > De velden die u gebruikt om uw account gegevens op te geven, accepteren alleen alfanumerieke tekens.
+    > Omdat dit gevoelige informatie is, wordt u mogelijk gevraagd u opnieuw aan te melden.
 
-3. Details van de begunstigde opgeven.
-4. Selecteer op de pagina *profiel toewijzing* de valuta die we willen gebruiken wanneer we uw uitbetalingen doen.
+3. Selecteer de betalingswijze die u wilt configureren.
+
+4. Selecteer een bestaand betalingsprofiel of selecteer **Een nieuw betalingsprofiel** maken om een nieuw profiel te maken voor de gekozen betalingswijze.
+
+### <a name="create-a-bank-based-payment-profile"></a>Een betalingsprofiel op basis van een bank maken
+
+Als u hebt gekozen om een bankrekening te gebruiken om uitbetalingen te ontvangen, voltooit u het volgende proces om uw bankrekening te configureren.
+
+1. Geef op *de pagina Bankprofiel* de vereiste informatie over uw bank op.
+2. Geef uw bankgegevens op.
+
+    > [!NOTE]
+    > De velden die u gebruikt om uw accountgegevens op te geven, accepteren alleen alfanumerieke tekens.
+
+3. Geef details op over de details.
+4. Selecteer op de *pagina Profieltoewijzing* de valuta die u wilt gebruiken wanneer we uw uitbetalingen uitgeven.
 
     > [!WARNING]
-    > Zorg ervoor dat uw bank de door u geselecteerde toekennings valuta accepteert.
+    > Zorg ervoor dat uw bank de uitbetalingsvaluta accepteert die u selecteert.
 
-5. U moet een betalings profiel selecteren voor elk programma waarmee u deel uitmaakt, maar u kunt hetzelfde profiel gebruiken voor meerdere Program ma's.
+5. U moet een betalingsprofiel selecteren voor elk programma dat u gebruikt, maar u kunt hetzelfde profiel gebruiken voor meerdere programma's.
 
-6. Selecteer verzenden om uw wijzigingen op te slaan.
+6. Selecteer Verzenden om uw wijzigingen op te slaan.
 
    > [!NOTE]
-   > Micro soft kan tot 48 uur duren om de gegevens in uw profiel te valideren. Wanneer dit proces is voltooid, wordt de *verificatie status* weer gegeven als **voltooid**
+   > Het kan tot 48 uur duren voordat Microsoft de gegevens in uw profiel heeft gevalideerd. Wanneer dit proces is *voltooid, wordt de verificatiestatus* **Voltooid**
 
-Controleer het volgende om ervoor te zorgen dat uw uitbetaling slaagt:
+Om ervoor te zorgen dat uw uitbetaling is geslaagd, moet u het volgende doen:
 
-- De **naam van de account houder** die u hebt ingevoerd voor uw account voor betaling in het partner centrum, moet exact dezelfde naam hebben als de Bank rekening. Als uw bank rekening naam bijvoorbeeld een tweede naam bevat, voegt u een tweede naam toe aan de **naam van uw account houder**.
-- Uitbetalingen worden rechtstreeks van micro soft naar uw bank rekening overgebracht in de valuta USD.
-- Bank gegevens die zijn ingevoerd in het partner centrum in Latijns, worden omgezet in Cyrillische tekens.
+- De **naam van de accounthouder** die is ingevoerd voor uw uitbetalingsaccount in Partner Center moet exact dezelfde naam zijn die is gekoppeld aan uw bankrekening. Als de naam van uw bankrekening bijvoorbeeld een middelste naam bevat, voegt u een middelste naam toe aan de naam van de houder **van uw account.**
+- Uitbetalingen worden rechtstreeks van Microsoft overgedragen naar uw bankrekening in USD-valuta.
+- Bankgegevens die in Partner Center in Latijnse tekens zijn ingevoerd, worden omgezet in cyrillische tekens.
 
-### <a name="editing-existing-payment-profiles"></a>Bestaande betalings profielen bewerken
+### <a name="editing-existing-payment-profiles"></a>Bestaande betalingsprofielen bewerken
 
-U kunt bestaande betalings profielen bewerken als u wijzigingen wilt aanbrengen of onjuiste gegevens wilt corrigeren.
+U kunt bestaande betalingsprofielen bewerken als u wijzigingen wilt aanbrengen of onjuiste gegevens wilt corrigeren.
 
-1. Selecteer in [partner centrum](https://partner.microsoft.com/dashboard)het tandwiel pictogram **instellingen** in de rechter bovenhoek en klik vervolgens op  **account instellingen**.
+1. Selecteer [Partner Center](https://partner.microsoft.com/dashboard)in de **rechterbovenhoek het** tandwielpictogram Instellingen en vervolgens **Accountinstellingen.**
 
-2. Selecteer onder de kop *uitbetaling en belasting* de optie **uitbetalings-en BTW-profielen**.
+2. Selecteer onder *de kop Uitbetaling en* belasting de optie **Uitbetalings- en belastingprofielen.**
 
-3. Uw betalings profielen worden samen met hun status weer gegeven. Zoek het profiel dat u wilt bewerken en selecteer helemaal rechts **bewerken**
+3. Uw betalingsprofielen worden samen met hun status weergegeven. Zoek het profiel dat u wilt bewerken en selecteer **Helemaal** rechts bewerken
 
 > [!IMPORTANT]
-> Het wijzigen van uw uitbetalings account kan uw betalingen vertragen met Maxi maal één betalings cyclus. Deze vertraging treedt op omdat we de account wijziging moeten verifiëren, net zoals we hebben gedaan toen u het account voor betaling voor het eerst instelde. U ontvangt nog steeds voor het volledige bedrag nadat uw account is geverifieerd. alle betalingen die moeten worden uitgevoerd voor de huidige betalings cyclus, worden toegevoegd aan de volgende betaling. Zie [aan de slag met de commerciële Marketplace](marketplace-get-paid.md)voor meer informatie.
+> Het wijzigen van uw uitbetalingsaccount kan uw betalingen met maximaal één betalingscyclus vertragen. Deze vertraging treedt op omdat we de accountwijziging moeten controleren, net zoals bij het instellen van het uitbetalingsaccount. U wordt nog steeds betaald voor het volledige bedrag nadat uw account is geverifieerd; betalingen die voor de huidige betalingscyclus moeten worden betaald, worden toegevoegd aan de volgende. Zie [Betaald krijgen in de commerciële marketplace](marketplace-get-paid.md)voor meer informatie.
 
-### <a name="paypal-info"></a>PayPal-informatie
+### <a name="paypal-info"></a>PayPal-gegevens
 
-In landen en regio's selecteren kunt u een betalings account maken door uw PayPal-gegevens in te voeren. U kunt PayPal echter kiezen als betalings account:
+In bepaalde landen en regio's kunt u een betalingsaccount maken door uw PayPal-gegevens in te geven. Voordat u echter PayPal als betalingsaccount kiest, gaat u als volgende te werk:
 
-- Controleer de [betalings drempels, methoden en tijds perioden](payment-thresholds-methods-timeframes.md) om te bevestigen of PayPal een ondersteunde betalings methode is in uw land of regio.
-- Bekijk de volgende veelgestelde vragen. Afhankelijk van uw situatie is PayPal mogelijk niet de optie voor het beste betaal account, en kan een bank rekening worden aangeraden.
+- Controleer [de betalingsdrempels, methoden en tijdsbestekken](payment-thresholds-methods-timeframes.md) om te controleren of PayPal een ondersteunde betalingswijze is in uw land of regio.
+- Bekijk de volgende veelgestelde vragen. Afhankelijk van uw situatie is PayPal mogelijk niet de beste betalingsrekening voor u en heeft een bankaccount mogelijk de voorkeur.
 
-Veelgestelde vragen over het gebruik van PayPal als betalings methode:
+Veelvoorkomende vragen over het gebruik van PayPal als betalingswijze:
 
-- **Welke PayPal-instellingen heb ik nodig om betalingen te kunnen ontvangen?** Zorg ervoor dat uw PayPal-account geen eCheck-betalingen blokkeert. Deze instelling wordt beheerd op de pagina voor keuren voor betalings ontvangsten van PayPal. Zie [de pagina voor het instellen van PayPal-accounts](https://go.microsoft.com/fwlink/p/?linkid=513139) voor meer informatie.
+- **Welke PayPal-instellingen heb ik nodig om betalingen te ontvangen?** Zorg ervoor dat uw PayPal-account eCheck-betalingen niet blokkeert. Deze instelling wordt beheerd op de pagina Betalings ontvangende voorkeuren van PayPal. Zie [de pagina voor het instellen van het account van PayPal](https://go.microsoft.com/fwlink/?linkid=2162542) voor meer informatie.
 
-- **Wordt mijn land/regio ondersteund?** Bekijk de [betalings drempels, methoden en tijds perioden](payment-thresholds-methods-timeframes.md) om erachter te komen waar PayPal een ondersteunde betalings methode is.
+- **Wordt mijn land/regio ondersteund?** Zie [Betalingsdrempels, methoden en tijdsbestekken](payment-thresholds-methods-timeframes.md) om erachter te komen waar PayPal een ondersteunde betalingswijze is.
 
-- **Moeten mijn PayPal-account worden geregistreerd in hetzelfde land/dezelfde regio als mijn partner centrum-account?** Nee. Wanneer u een PayPal-account instelt, kunt u de standaard configuratie accepteren. U hebt geen problemen met andere landen/regio's en valuta's, tenzij u de betaling in sommige valuta's hebt geblokkeerd. Deze instelling wordt beheerd op de pagina voor keuren voor betalings ontvangsten van PayPal.
+- **Moet mijn PayPal-account worden geregistreerd in hetzelfde land of dezelfde regio als mijn Partner Center account?** Nee. Wanneer u een PayPal-account in stelt, kunt u de standaardconfiguratie accepteren. U mag geen problemen hebben met andere landen/regio's en valuta's, tenzij u betaling in sommige valuta's hebt geblokkeerd. Deze instelling wordt beheerd op de pagina Betalings ontvangende voorkeuren van PayPal.
 
-- **Moet ik PayPal-betalingen hand matig accepteren?** Nee. PayPal-accounts worden standaard ingesteld om gebruikers te verplichten om betalingen hand matig te accepteren. Dit betekent dat als u de betaling niet binnen 30 dagen accepteert, deze wordt geretourneerd. U kunt deze instelling wijzigen door ' vraag mij ' op de pagina meer instellingen van PayPal uit te scha kelen.
+- **Moet ik payPal-betalingen handmatig accepteren?** Nee. PayPal-accounts worden standaard ingesteld om te vereisen dat gebruikers betalingen handmatig accepteren. Dit betekent dat als u de betaling niet binnen 30 dagen accepteert, deze wordt geretourneerd. U kunt deze instelling wijzigen door 'Vraag mij' uit te schakelen op de pagina Meer instellingen van PayPal.
 
-- **Welke valuta's ondersteunt PayPal?** Zie de [ondersteunings pagina van PayPal](https://developer.paypal.com/docs/classic/api/currency-codes/#paypal) voor de huidige lijst
+- **Welke valuta's worden ondersteund door PayPal?** Zie [de ondersteuningspagina van PayPal voor](https://developer.paypal.com/docs/classic/api/currency-codes/#paypal) de huidige lijst
 
 ### <a name="specific-requirements-for-certain-countriesregions"></a>Specifieke vereisten voor bepaalde landen/regio's
 
-In sommige landen en regio's moeten extra vereisten voor uitbetalings accounts worden gevolgd. Als u een ingezetene van Pakistan, Rusland of Oekraïne bent, moet u rekening houden met de volgende vereisten.
+In sommige landen en regio's moeten aanvullende vereisten voor uitbetalingsaccounts worden gevolgd. Houd rekening met de volgende vereisten als u in Rusland, Rusland of Rusland woont.
 
 #### <a name="pakistan"></a>Pakistan
 
-Form-R is een Pakistan-voor Schriften. Het wordt gebruikt om het doel en de reden voor de ontvangst van de tegoeden in het buiten land aan te geven. Daarom moet u, wanneer u in aanmerking komt voor een maandelijkse betaling van micro soft, een formulier-R naar uw bank verzenden voordat de uitbetaling kan worden vrijgegeven aan uw account. Neem contact op met uw lokale bank vertakking voor instructies over het verkrijgen van een exemplaar van Form-R.
+Form-R is een regelgevingsvereiste voor het bankwezen van Het Amerikaanse bankwezen. Het wordt gebruikt om het doel en de reden voor de ontvangst van het bedrag van de factuur aan te geven. Daarom moet u op elk moment dat u in aanmerking komt voor een maandelijkse uitbetaling van Microsoft, een Form-R indienen bij uw bank voordat de uitbetaling kan worden vrijgegeven aan uw account. Neem contact op met uw lokale bankvertakking voor instructies over het verkrijgen van een kopie van Form-R.
 
-U moet elke maand een formulier-R naar uw bank verzenden als u in aanmerking komt voor een uitbetaling. Als u bijvoorbeeld verwacht dat elke maand van het jaar een uitbetaling wordt ontvangen, moet u een formulier-R 12 keer verzenden (eenmaal per maand).
+U moet elke maand een Form-R indienen bij uw bank, zodat u in aanmerking komt voor uitbetaling. Als u bijvoorbeeld verwacht elke maand van het jaar een uitbetaling te ontvangen, moet u 12 keer (eenmaal per maand) een Form-R indienen.
 
-Zodra de uitbetaling naar uw bank is verzonden, hebt u 30 dagen de tijd om een formulier-R te verzenden. Als dit binnen 30 dagen niet wordt verzonden, worden de fondsen teruggestuurd naar micro soft.
+Zodra de uitbetaling is verzonden naar uw bank, hebt u 30 dagen om een Formulier-R in te dienen. Als de aanvraag niet binnen 30 dagen wordt ingediend, wordt het bedrag geretourneerd naar Microsoft.
 
 #### <a name="russia"></a>Rusland
 
-Als u een uitgever bent die zich in Rusland bevindt, moet u mogelijk documentatie verstrekken aan uw bank voordat uw bank fondsen in uw account ontvangt. Als u in aanmerking komt voor betaling, zullen we u de volgende documentatie geven in een e-mail bericht:
+Als u een uitgever bent die in Rusland woont, moet u mogelijk documentatie aan uw bank verstrekken voordat uw bank geld op uw rekening zal zetten. Wanneer u in aanmerking komt om te worden betaald, ontvangt u de volgende documentatie in een e-mailbericht:
 
-- Acceptatie certificaat (AC): bevat de hoeveelheid betaling die wordt overgedragen naar uw account.
-- [Microsoft Azure Marketplace Publisher-overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560)  : een ondertekende kopie van de uitgever overeenkomst waarvoor een item moet worden ondertekend.
+- Acceptatiecertificaat (AC) : bevat de hoeveelheid uitbetaling die wordt overgedragen naar uw account.
+- [Microsoft Azure Marketplace Publisher Agreement:](https://go.microsoft.com/fwlink/p/?LinkID=699560)  een ondertekende kopie van de uitgeversovereenkomst die moet worden ondertekend.
 
-Controleer het volgende om ervoor te zorgen dat uw uitbetaling slaagt:
+Om ervoor te zorgen dat uw uitbetaling is geslaagd, controleert u het volgende:
 
-- De **naam van de account houder** die u hebt ingevoerd voor uw account voor betaling in het partner centrum, moet exact dezelfde naam hebben als de Bank rekening. Als uw bank rekening naam bijvoorbeeld een tweede naam bevat, voegt u een tweede naam toe aan de **naam van uw account houder**.
-- Uitbetalingen worden rechtstreeks van micro soft overgedragen naar uw bank rekening in roebel (RUB).
-- Bank gegevens die zijn ingevoerd in het partner centrum in Latijns, worden omgezet in Cyrillische tekens.
-- Uitbetalingen moeten worden gedaan aan een bank rekening en niet aan een bank kaart.
+- De **naam van de accounthouder** die is ingevoerd voor uw uitbetalingsaccount in Partner Center moet exact dezelfde naam zijn die is gekoppeld aan uw bankaccount. Als de naam van uw bankaccount bijvoorbeeld een middelste naam bevat, voegt u een middelste naam toe aan de naam van uw **accounthouder.**
+- Uitbetalingen worden rechtstreeks van Microsoft overgedragen naar uw bankaccount in de valuta Van Nule (TAL).
+- Bankgegevens die zijn ingevoerd in Partner Center in Latijnse tekens, worden omgezet in Cyrillische tekens.
+- Uitbetalingen moeten worden gedaan op een bankaccount en niet op een bankkaart.
 
 #### <a name="ukraine"></a>Oekraïne
 
-Als u een uitgever bent die in Oekraïne woont, moet u mogelijk documentatie aan uw bank verstrekken voordat uw bank fondsen in uw account ontvangt. Als u in aanmerking komt voor betaling, zullen we u de volgende documentatie geven in een e-mail bericht:
+Als u een uitgever bent die in Deen woont, moet u mogelijk documentatie aan uw bank verstrekken voordat uw bank geld op uw rekening zal in rekening brengen. Wanneer u in aanmerking komt om te worden betaald, ontvangt u de volgende documentatie in een e-mailbericht:
 
-- Acceptatie certificaat (AC): bevat de hoeveelheid betaling die wordt overgedragen naar uw account.
-- [Microsoft Azure Marketplace Publisher-overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560) : een ondertekende kopie van de uitgever overeenkomst waarvoor een item moet worden ondertekend.
-- Aanpassings overeenkomst (AA): dit document kan door uw bank worden gebruikt om uw uitbetalings fondsen te identificeren.
+- Acceptatiecertificaat (AC) : bevat de hoeveelheid uitbetaling die wordt overgedragen naar uw account.
+- [Microsoft Azure Marketplace Publisher Agreement:](https://go.microsoft.com/fwlink/p/?LinkID=699560) een ondertekende kopie van de uitgeversovereenkomst die moet worden ondertekend.
+- Overeenkomst (AA) wijzigen: dit document kan door uw bank worden gebruikt om uw uitbetalingsbedragen te identificeren.
 
-Micro soft biedt alle drie de documenten wanneer de eerste toekenning wordt gedaan. Voor alle volgende uitbetalingen krijgt u alleen het AC-document te ontvangen. Behoud de ADA-en AA-documenten voor het geval u ze nodig hebt om toekomstige uitbetalingen van uw bank te ontvangen.
+Microsoft verstrekt alle drie de documenten wanneer u uw eerste uitbetaling hebt geprobeerd. Voor alle volgende uitbetalingen ontvangt u alleen het AC-document. Behoud de ADA- en AA-documenten voor het geval u ze nodig hebt om toekomstige uitbetalingen van uw bank te ontvangen.
 
-### <a name="create-a-paypal-payment-profile"></a>Een PayPal-betalings profiel maken
+### <a name="create-a-paypal-payment-profile"></a>Een PayPal-betalingsprofiel maken
 
-Als u ervoor hebt gekozen om een bank account te gebruiken om uitbetalingen te ontvangen, voltooit u het volgende proces om uw bank account te configureren.
+Als u hebt gekozen om een bankaccount te gebruiken om uitbetalingen te ontvangen, voltooit u het volgende proces om uw bankaccount te configureren.
 
-1. Geef op de pagina *PayPal* de vereiste informatie over je PayPal-account op.
-2. Geef de details van uw PayPal-account op.
+1. Geef op *de pagina PayPal* de vereiste informatie over uw PayPal-account op.
+2. Geef de gegevens van uw PayPal-account op.
 
     > [!NOTE]
-    > De velden die u gebruikt om uw account gegevens op te geven, accepteren alleen alfanumerieke tekens.
+    > De velden die u gebruikt om uw accountgegevens op te geven, accepteren alleen alfanumerieke tekens.
 
-3. Details van de begunstigde opgeven.
-4. Selecteer op de pagina *profiel toewijzing* de valuta die we willen gebruiken wanneer we uw uitbetalingen doen.
-5. U moet een betalings profiel selecteren voor elk programma waarmee u deel uitmaakt, maar u kunt hetzelfde profiel gebruiken voor meerdere Program ma's.
-6. Selecteer verzenden om uw wijzigingen op te slaan.
+3. Geef details op over de details.
+4. Selecteer op de *pagina Profieltoewijzing* de valuta die u wilt gebruiken wanneer we uw uitbetalingen uitgeven.
+5. U moet een betalingsprofiel selecteren voor elk programma dat u gebruikt, maar u kunt hetzelfde profiel gebruiken voor meerdere programma's.
+6. Selecteer Verzenden om uw wijzigingen op te slaan.
 
 ## <a name="next-steps"></a>Volgende stappen
 
