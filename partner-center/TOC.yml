@@ -30,8 +30,11 @@
         - name: Voordelen voor PMC activeren
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: Aanbiedingen voor leden
+    - name: Lidmaatschapsvoordelen
       items:
+        - name: Overzicht van de voordelen
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Action Pack
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: Uw MPN-voordelen vinden
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Competentiekosten betalen
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: Competenties
+        - name: Beleid en gebruik van voordelen - Veelgestelde vragen
+          href: benefits-faq-new.md
+        - name: Veelgestelde vragen over de voordelen
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: Uw MPN-factuur weergeven of downloaden
+          href: mpn-view-print-maps-invoice.md
+    - name: Beschikbare voordelen
       items:
-        - name: Meer informatie over competenties
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: Registreren als learning-partner
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: Veelgestelde vragen over competenties
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: Uitzondering voor App Dev-competentie
-          href: app-dev-isv.md
-        - name: Het vaardighedenrapport gebruiken
-          href: mpn-skills-report.md
-    - name: Geavanceerde specialisaties
-      items:
-        - name: Uw expertise tentoonstellen
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: Status toepassen of controleren
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: Een Azure Expert MSP worden
-      href: azure-expert-msp.md
-    - name: Voordelen
-      items:
-        - name: Overzicht van de voordelen
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: Voordelen van Go-to-Market
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: Demo's voor MPN-partners
           href: mpn-demos.md
           displayName: mpn
-        - name: Beleid en gebruik van voordelen - Veelgestelde vragen
-          href: benefits-faq-new.md
-        - name: Veelgestelde vragen over de voordelen
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Voordelen van Azure en cloud
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: Geschiktheidsvereisten
               href: software-assurance-dps-requirements.md
-    - name: Facturen en belastingen
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: Nieuwe functies testen
-      href: test-drive-new-features.md
+    - name: Competenties
+      items:
+        - name: Meer informatie over competenties
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: Registreren als een learning-partner
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: Veelgestelde vragen over competenties
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: Competentiekosten betalen
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: Uitzondering voor App Dev-competentie
+          href: app-dev-isv.md
+        - name: Het vaardighedenrapport gebruiken
+          href: mpn-skills-report.md
+    - name: Geavanceerde specialisaties
+      items:
+        - name: Uw expertise tentoonstellen
+          href: advanced-specializations.md
+        - name: Status toepassen of controleren
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: Een Azure Expert MSP worden
+      href: azure-expert-msp.md
 - name: Cloud Solution Provider (CSP)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Microsoft-klantovereenkomsten (op regio, taal)'
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: Beperkte toegang tot directe facturering
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -151,7 +147,7 @@
     - name: 'CSP-overeenkomsten, prijslijsten, aanbiedingen'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Informatie over registratie-id-nummer
+    - name: Registratie-id-nummergegevens
       href: reg-number-id.md
     - name: 'Regionale markten voor CSP, valuta'
       href: regional-authorization-overview.md
@@ -579,6 +575,8 @@
         - name: Overdracht van Azure-abonnementen
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: De Azure-abonnementsabonnementen van een klant overdragen aan een andere partner
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Software-abonnementen
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'
