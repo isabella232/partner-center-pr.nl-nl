@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172197"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630114"
 ---
 # <a name="technical-support-benefits"></a>Voordelen van technische ondersteuning
 
@@ -32,7 +32,7 @@ Dit artikel is bedoeld voor leden van Microsoft Partner Network Partners (MPN) d
 
 Uw technische voordelen in de volgende Partner Center:
 
-1. Meld u aan met uw MPN-account bij het Partner Center [dashboard](https://partner.microsoft.com/dashboard). 
+1. Meld u aan met uw MPN-account in het Partner Center [dashboard.](https://partner.microsoft.com/dashboard) 
     > [!NOTE]
     > Als uw account alleen is gekoppeld aan CSP en niet is gekoppeld aan MPN, ziet u het foutbericht 'U bent niet gemachtigd voor deze actie'. U moet een MPN-account hebben.
 
@@ -81,9 +81,9 @@ U kunt deze informatie alleen verkrijgen via de ondersteuningsportal voor Onders
 
 U moet Ondersteuning voor Bedrijven gebruiken en het proces starten om een on-premises ondersteuningsincident te maken. We maken geen ondersteuningsaanvraag omdat we het proces niet voltooien. De informatie die we nodig hebben, wordt weergegeven in stap 2.
 
-Stap 1 Windows 10 selecteren en dummygegevens invoeren
+Stap 1: Open [Ondersteuning voor Bedrijven en](https://support.serviceshub.microsoft.com/supportforbusiness/create) selecteer Windows 10 en voer dummygegevens in
 
-Stap 2 Voeg het ondersteuningscontract toe met behulp van de toegangs-id en contract-id. Voor on-premises ondersteuning wordt het partnerondersteuningscontract weergegeven. Dit omvat de begindatum, de einddatum en de resterende incidenten. Vouw 'Wilt u ondersteuningsplannen zien die niet beschikbaar zijn?' uit. om partnerhandtekeninggegevens weer te geven. U ziet hier alleen partnerondersteuning als de contracten zijn verlopen, u geen incidenten meer hebt of als u een oud on-premises product hebt geselecteerd [(zie aka.ms/n-1](https://aka.ms/n-1) voor ondersteuningsproducten)
+Stap 2: als uw ondersteuningscontract al aan uw account is gekoppeld, worden ondersteuningsincidenten weergegeven. Voor on-premises ondersteuning wordt het partnerondersteuningscontract weergegeven (tenzij het niet meer geldig is) en bevat dit de resterende begindatum, einddatum en incidenten. Als u uw ondersteuningscontract wilt koppelen, vouwt u 'Moet u meer ondersteuningsplannen kopen of toevoegen' uit en klikt u op de knop Contract toevoegen om uw toegangs-id en contract-id in te voeren. Vouw 'Wilt u ondersteuningsplannen zien die niet beschikbaar zijn?' uit. om partnerhandtekeninggegevens weer te geven. U ziet hier alleen partnerondersteuning als de contracten zijn verlopen, u geen incidenten meer hebt of als u een oud on-premises product hebt geselecteerd [(zie aka.ms/n-1](https://aka.ms/n-1) voor ondersteuningsproducten)
 
 **Zie Hoeveel partnerondersteuningsincidenten zijn [er nog? voor meer informatie.](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
@@ -107,7 +107,7 @@ Mogelijk ziet u het foutbericht *Deze toegangs-id is al gekoppeld aan een accoun
 
 U ziet de bovenstaande 'Toegangs-id is al gekoppeld...' fout als u een ondersteuningscontract meer dan één keer aan een account koppelt wanneer u de Azure Portal. Zie de onderstaande scenario's:
 
-1. Als u technische voordelen van goud of zilver hebt en u eerder het contract voor on-premises ondersteuning hebt toegevoegd, gebruikt u de Azure Portal en voegt u het contract voor de tweede keer toe aan hetzelfde account. U hoeft het ondersteuningscontract slechts één keer aan een account te koppelen en hoeft daarom geen ondersteuningsvoordelen in Azure te koppelen. Als u ondersteuningsvoordelen voor koppeling gebruikt wanneer het contract al aan het account is gekoppeld, wordt de fout weergegeven en moet deze worden genegeerd. Gebruik + Nieuwe Ondersteuningsaanvraag maak op de gebruikelijke manier een ondersteuningsincident en het ondersteuningsplan wordt weergegeven.
+1. Als u technische voordelen van goud of zilver hebt en u eerder het contract voor on-premises ondersteuning hebt toegevoegd, gebruikt u de Azure Portal en voegt u het contract voor de tweede keer toe aan hetzelfde account. U hoeft het ondersteuningscontract slechts eenmaal aan een account te koppelen en hoeft daarom geen ondersteuningsvoordelen in Azure te koppelen. Als u ondersteuningsvoordelen voor koppeling gebruikt wanneer het contract al aan het account is gekoppeld, wordt de fout weergegeven en moet deze worden genegeerd. Gebruik + Nieuwe Ondersteuningsaanvraag maak op de gebruikelijke manier een ondersteuningsincident en het ondersteuningsplan wordt weergegeven.
 
 2. Als het ondersteuningscontract is verlopen of de Signature 10pack (hybride competentie Gold) of Signature 5pack (hybride competentie silver) geen incidenten hebben, wordt het ondersteuningscontract verborgen omdat het ongeldig is. Als u opnieuw ondersteuningsvoordelen koppelt, ziet u de fout omdat het contract al is gekoppeld. U moet een nieuw ondersteuningsplan aanschaffen om incidenten ondersteuning voor Azure krijgen. 
 
