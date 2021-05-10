@@ -1,6 +1,6 @@
 ---
 title: Wanbetaling, fraude of misbruik beheren
-description: Meer informatie over de verschillende Risico's voor online transacties en de aanbevolen procedures voor het beheren en beperken van deze Risico's in Partner Center.
+description: Meer informatie over de verschillende risico's van onlinetransacties en de best practices voor het beheren en beperken van deze risico's in Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,94 +9,94 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 9b3beef70052ad204327dd53c4aa9f477056bbcb
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441860"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686293"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Beheer van niet-betaling, fraude of misbruik in het partnercentrum
 
-Van toepassing op:
+**Van toepassing op**
 
 - Partnercentrum voor Microsoft Cloud for US Government
 
 **Juiste rollen**
 
 - Globale beheerder
-- Beheerder van gebruikers beheer
-- Beheer agent
+- Beheerder van gebruikersbeheer
+- Beheeragent
 - Factureringsbeheerder
 
-U bent financieel verantwoordelijk voor frauduleuze aankopen door uw klanten en/of de niet-betaling van klanten van de klant. Daarom *raden wij u ten zeerste aan om te voorzien in de besturings elementen fraude preventie en detectie risico beperking*.
+U bent financieel verantwoordelijk voor frauduleuze aankopen door uw klanten en/of de niet-betaling van aangeschafte services. Daarom raden we u ten zeerste aan om maatregelen voor fraudepreventie *en detectierisicobeperking in te voeren.*
 
-Om frauduleuze activiteiten of misbruik te voor komen en/of te verhelpen, is het belang rijk om potentiële Risico's te begrijpen en beleids regels en procedures te ontwikkelen die uw bloot stelling kunnen beperken.
+Om frauduleuze activiteiten of misbruik te voorkomen en/of aan te pakken, is het belangrijk om inzicht te krijgen in mogelijke risico's en om beleidsregels en procedures te ontwikkelen die uw blootstelling kunnen verminderen.
 
-## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Afdwinging van beleid voor acceptabel gebruik van micro soft
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Afdwinging van beleid voor acceptabel gebruik door Microsoft
 
-Als micro soft de partner-of klant activiteit detecteert dat wij bevestigen of vermoeden dat het beleid voor aanvaard bare gebruik wordt geschonden, zullen we afdwingings stappen uitvoeren. De klant kan onmiddellijk worden onderbroken. U wordt op de hoogte gebracht van afdwingings acties of bijgewerkt op uw aanvragen van micro soft.
+Als Microsoft partner- of klantactiviteit detecteert die wordt bevestigd of vermoed dat het beleid voor acceptabel gebruik wordt schendt, nemen we afdwingingsstappen. De klant kan onmiddellijk worden opgeschort. U wordt op de hoogte gesteld van afdwingingsacties of uw aanvragen worden bijgewerkt door Microsoft.
 
-## <a name="abuse-of-service-risks"></a>Misbruik van service Risico's
+## <a name="abuse-of-service-risks"></a>Misbruik van servicerisico's
 
-**Misbruik van service** Risico's betekent dat klanten die Cloud Services gebruiken in strijd zijn met het acceptabele gebruiks beleid van micro soft.
+**Misbruik van servicerisico's** betekent dat klanten die cloudservices gebruiken in strijd zijn met het beleid voor acceptabel gebruik van Microsoft.
 
-### <a name="examples-of-abuse-of-service"></a>Voor beelden van misbruik van service
+### <a name="examples-of-abuse-of-service"></a>Voorbeelden van misbruik van service
 
-Voor beelden van deze schendingen van het beleid voor acceptabel gebruik van micro soft zijn onder andere:
+Voorbeelden van deze schendingen van het acceptabele gebruiksbeleid van Microsoft zijn:
 
-- Spam
-- Hacken
-- Gedistribueerde Denial-of-service-aanvallen (DDoS)
-- Bitcoin-analyse
-- Distributie van schadelijke software
-- Wederverkoop van illegale abonnementen
+- Spamming
+- Hacking
+- DDoS-aanvallen (Distributed Denial of Service)
+- Bitcoin-mining
+- Distributie van malware
+- 1000 abonnementen
 
-## <a name="theft-of-service-risks"></a>Dief stal van service Risico's
+## <a name="theft-of-service-risks"></a>Diefstal van servicerisico's
 
-**Dief stal van service** Risico's betekent dat klanten die geen middelen voor verbruikte Services kunnen betalen. Deze dief stal kan ertoe leiden dat gestolen betaal instrumenten worden gebruikt, waardoor er valse facturerings gegevens worden verstrekt en/of de standaard instelling voor openstaande saldi.
+**Diefstal van** servicerisico's betekent dat klanten die niet van plan zijn te betalen voor verbruikte services. Deze diefstal kan betrekking hebben op het gebruik van gestolen betaalmiddelen, het verstrekken van valse factureringsgegevens en/of het standaardinstellingsaldo.
 
-### <a name="examples-of-service-theft"></a>Voor beelden van service diefstal
+### <a name="examples-of-service-theft"></a>Voorbeelden van servicediefstal
 
-Voor beelden van deze online transactie Risico's kunnen zijn:
+Voorbeelden van deze online transactierisico's zijn:
 
-- Trans acties die niet voor komen in de persoon ("trans acties voor credit card niet aanwezig")
+- Transacties die niet persoonlijk plaatsvinden ('creditcard is niet aanwezig' transacties)
 - Onjuiste identiteiten
 - Services die zijn ingericht en gebruikt voordat de eerste betaling wordt ontvangen
-- Opkomende markten en/of hoog-risico regio's voor online fraude
-- Het maken en kopen van accounts automatiseren door slechte Actors
+- Opkomende markten en/of regio's met een hoog risico voor online fraude
+- Het maken en kopen van een account automatiseren door kwaadde actoren
 
-## <a name="managing-online-risk"></a>Online risico beheren
+## <a name="managing-online-risk"></a>Onlinerisico's beheren
 
-U kunt de volgende aanbevelingen gebruiken om u te helpen bij het ontwikkelen van beleids regels en procedures om de bloot stelling aan online transactie Risico's in de levens cyclus van uw klant relaties te verminderen.
+U kunt de volgende aanbevelingen gebruiken om beleidsregels en procedures te ontwikkelen om uw blootstelling aan online transactierisico's in de levenscyclus van uw klantrelaties te verminderen.
 
-### <a name="onboarding-new-customers"></a>Nieuwe klanten onboarding
+### <a name="onboarding-new-customers"></a>Onboarding van nieuwe klanten
 
-Suggesties voor het verminderen van online Risico's wanneer nieuwe klanten onboarding zijn:
+Suggesties voor het verminderen van onlinerisico's bij het onboarden van nieuwe klanten zijn onder andere:
 
-- Stel, indien mogelijk, persoonlijke relaties met klanten in (bijvoorbeeld om telefonisch contact op te nemen met klanten).
-- Verifieer de referenties en achtergrond van klanten via betere methoden (zoals het gebruik van tegoed bureaus of zakelijke commerciële rapport agentschappen).
-- Gebruik multi-factor Authentication (zoals verificatie via SMS) tijdens het aanmelden om de bloot stelling aan het maken en kopen van automatische accounts te minimaliseren.
-- Identiteiten beheren en bijhouden met behulp van Services (zoals Digital ID services).
-- Beoordeling van de financiële kracht van de klant via de rigoureuze detectie systemen voor de fraude van de credit card.
-- Stel een leeg verzamelings beleid in. Details van uw incasso proces en wanneer de toegang tot abonnementen wordt beïnvloed door niet-betaling. (U kunt de toegang tot [de abonnementen van een klant](create-a-new-subscription.md#suspend-a-subscription) voor niet-betaling uitschakelen.)
+- Stel waar mogelijk persoonlijke relaties met klanten tot stand (bijvoorbeeld telefonisch contact opnemen met klanten).
+- Controleer de referenties en achtergrond van klanten met behulp van betere methoden (zoals het gebruik van kredietbureaus of commerciële rapportinstanties).
+- Gebruik meervoudige verificatie (zoals sms-verificatie) tijdens de aanmelding om de blootstelling aan het maken en kopen van een roboticaaccount te minimaliseren.
+- Identiteiten beheren en bijhouden met behulp van services (zoals digitale identiteitsservices).
+- Evalueer de financiële sterkte van klanten via strenge systemen voor fraudedetectie van creditcards.
+- Stel een duidelijk verzamelingsbeleid in. Details van uw verzamelingsproces en wanneer de toegang tot abonnementen wordt beïnvloed door niet-betaling. (U kunt de toegang uitschakelen of de abonnementen van een [klant opzeggen voor](create-a-new-subscription.md#suspend-a-subscription) niet-betaling.)
 
 ### <a name="managing-customer-accounts"></a>Klantaccounts beheren
 
-Suggesties voor het beheren van klant accounts na aankoop zijn onder andere:
+Suggesties voor het beheren van klantaccounts na aankoop zijn onder andere:
 
-- Implementeer een proces om micro soft-meldingen snel te ontvangen, te controleren en erop te reageren.
-- Werk samen met klanten om inzicht te krijgen in de zakelijke behoeften van het Cloud gebruik tijdens instellingen voor de juiste bewakings drempels. (U kunt bijvoorbeeld [een maandelijks Azure-uitgaven budget instellen in het](set-an-azure-spending-budget-for-your-customers.md) partner centrum. Aan de hand van deze informatie kunt u het gebruik van klanten in de maand controleren en een melding ontvangen wanneer klanten bijna hun budget gebruiken.)
-- Bewaak de [activiteiten logboeken van klanten](activity-logs.md) regel matig om fraude te detecteren.
-- Onderneem snelle actie wanneer verdachte activiteiten worden gedetecteerd.
-- Vermijd klanten volledige beheerders toegang tot abonnementen zonder de besturings elementen voor risico beperking te implementeren.
+- Implementeert een proces om snel Microsoft-meldingen te ontvangen, te beoordelen, te reageren en hierop te reageren.
+- Werk samen met klanten om inzicht te krijgen in de zakelijke behoeften van hun cloudgebruik, terwijl de instellingen de juiste bewakingsdrempels instellen. (U kunt bijvoorbeeld een [maandelijks Azure-uitgavenbudget instellen](set-an-azure-spending-budget-for-your-customers.md) in Partner Center. Met deze kennis kunt u het gebruik van klanten gedurende de maand bewaken en een melding ontvangen wanneer klanten dicht bij hun budget zijn.)
+- Controleer [regelmatig de activiteitenlogboeken van](activity-logs.md) klanten om fraude in een vroeg stadium te detecteren.
+- Neem snel actie wanneer er verdachte activiteiten worden gedetecteerd.
+- Voorkom dat klanten volledige beheerderstoegang tot abonnementen krijgen zonder eerst risicobeperkende maatregelen te implementeren.
 
-### <a name="managing-customer-billing"></a>Facturering van klanten beheren
+### <a name="managing-customer-billing"></a>Klantfacturering beheren
 
-Suggesties voor het beheren van de facturering post-aankoop van klanten zijn:
+Suggesties voor het beheren van klantfacturering na aankoop zijn onder andere:
 
-- Vraag voor uitbetalingen vóór initiële trans acties en facturering.
-- Accepteer geen betaal middelen met een hoog risico (zoals vooraf betaalde kaarten of kaarten met opslag waarden).
-- Klanten betalingen en verouderde debiteuren bewaken. Bekrachtigt gestandaardiseerde Dunning-processen voor late betalingen of niet-betaling.
+- Vooruitbetaling aanvragen vóór initiële transacties en facturering.
+- Accepteer geen betaalmiddelen met een hoog risico (zoals vooraf betaalde kaarten of kaarten met een opgeslagen waarde).
+- Controleer betalingen van klanten en verouderde accounts. Gestandaardiseerde dunningsprocessen voor late betalingen of niet-betaling agressief afdwingen.
 
-Zie de [hand leiding online Trans Action Risk Management (Engelstalig](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt) ) voor meer gedetailleerde strategieën voor het beperken van het online risico.
+Zie de onlinehandleiding voor transactierisicobeheer voor gedetailleerdere strategieën voor het beperken van [onlinerisico's.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

@@ -1,75 +1,75 @@
 ---
-title: Problemen oplossen met het instellen van uw partner Center-account of problemen met MPN-vernieuwing
+title: Problemen met het instellen van Partner Center-account of MPN-verlenging oplossen
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Problemen oplossen bij het registreren in het partner centrum. Beantwoordt antwoorden op uitdagingen met betalings wijzen, wacht woorden verg eten en nog veel meer.
+description: Problemen oplossen bij het registreren bij Partner Center. Antwoorden op problemen met betalingswijzen, het vergeten van wachtwoorden en meer.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768700"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686259"
 ---
-# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Problemen met de account installatie of MPN oplossen
+# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Problemen met accountinstallatie of MPN-verlenging oplossen
 
 
 **Juiste rollen**
 
 - Globale beheerder
-- MPN-partner beheerder 
+- MPN-partnerbeheerder
  
-Hier volgen enkele suggesties voor het oplossen van veelvoorkomende problemen die zich voordoen bij het instellen van uw partner centrum-account.
+Hier zijn enkele suggesties voor het oplossen van veelvoorkomende problemen die zich voordoen bij het instellen van uw Partner Center account.
 
-## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Wat gebeurt er als u migreert van het lidmaatschaps centrum van de partner en u geen bedrijfs gegevens velden kunt bewerken
+## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Wat gebeurt er als u migreert van Partner Membership Center en u geen velden met bedrijfsgegevens kunt bewerken
 
-In gevallen waarin uw bedrijf al een aanwezigheid heeft in het partner centrum (bijvoorbeeld een CSP-account), wordt er een alleen-lezen scherm weer gegeven. In dit scherm worden alle gegevens van uw bedrijf weer gegeven, zoals deze in het partner centrum aanwezig zijn.
+In gevallen waarin uw bedrijf al aanwezig is in Partner Center (bijvoorbeeld een CSP-account), wordt een alleen-lezen scherm weergegeven. In dit scherm wordt alle informatie over uw bedrijf weergegeven zoals deze bestaat in Partner Center.
 
 U kunt de details op dit scherm niet wijzigen. Dit is een ontwerp en geen fout.
 
-Selecteer **accepteren** en **door gaan** om door te gaan.
+Selecteer **Accepteren** en **Doorgaan om door** te gaan.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Als de IT-afdeling zich heeft **aangemeld voor partner centrum**
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Als de IT-afdeling Aanmelden voor eenmalige **aanmelding heeft Partner Center**
 
-Dit bericht wordt weer gegeven omdat er virus gebruikers zijn uitgeschakeld of omdat een virus registratie is uitgeschakeld op de Azure AD-Tenant. De globale beheerder voor uw Azure AD-account kan de vereiste functies inschakelen door de volgende Power shell-opdracht uit te voeren:
+U ziet dit bericht omdat virale gebruikers zijn uitgeschakeld of omdat virale aanmelding is uitgeschakeld in de Azure AD-tenant. De globale beheerder voor uw Azure AD-account kan vereiste functies inschakelen door de volgende PowerShell-opdracht uit te voeren:
 
-**Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
+**Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
-Lees voor meer informatie [Aanmelden via self-service](/azure/active-directory/users-groups-roles/directory-self-service-signup).
+Lees Selfservice registreren [voor meer informatie.](/azure/active-directory/users-groups-roles/directory-self-service-signup)
 
-## <a name="you-forgot-your-password"></a>U hebt uw wacht woord verg eten
+## <a name="you-forgot-your-password"></a>U bent uw wachtwoord vergeten
 
-Als u uw wacht woord bent verg eten, selecteert u de koppeling **geen toegang tot uw account?** op de aanmeldings pagina. Met deze optie kunt u uw wacht woord opnieuw instellen of uw globale beheerder vragen om u nieuwe referenties toe te wijzen.
+Als u uw wachtwoord bent vergeten, selecteert u de koppeling Hebt u geen toegang tot uw **account?** op de aanmeldingspagina. Met deze optie kunt u uw wachtwoord opnieuw instellen of uw globale beheerder vragen om u nieuwe referenties toe te wijzen.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>In het scherm ' vertel ons over uw bedrijf ' verschijnt de fout melding ' er is iets fout gegaan '
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Op het scherm Vertel ons over uw bedrijf ziet u de fout 'Er is iets misgegaan'
 
-Dit fout bericht wordt meestal weer gegeven als u per ongeluk speciale tekens, spaties of land code gebruikt in het telefoon nummer van uw bedrijf. De waarde die is opgegeven in het veld telefoon nummer mag Maxi maal 10 tekens bevatten.
-
-
-### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Er wordt een fout bericht weer gegeven met de melding dat uw bestelling is afgewezen. Controleer uw gegevens
+Dit foutbericht wordt meestal weergegeven als u per ongeluk speciale tekens, spaties of landcode in uw bedrijfstelefoonnummer gebruikt. De waarde die is ingevoerd in het veld Telefoonnummer mag maximaal 10 tekens bevatten.
 
 
-Gebruik altijd het adres dat overeenkomt met uw credit card in plaats van uw juridische entiteit. Zorg er ook voor dat de post code juist is en overeenkomt met het adres dat u gebruikt.
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Uw creditcardaankoop ontvangt een foutbericht met de mededeling dat uw bestelling is afgewezen. Controleer uw gegevens"
 
-## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>U wilt overschakelen van de offline betaling naar de online betalings methode 
 
-U moet de oorspronkelijke volg orde annuleren en kopen met de gewenste Betalings wijze.
+Gebruik altijd het adres dat overeenkomt met uw creditcard in plaats van uw juridische entiteit. Zorg er ook voor dat de postcode juist is en overeenkomt met het adres dat u gebruikt.
+
+## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>U wilt overschakelen van offline betaling naar online betalingswijze 
+
+U moet de oorspronkelijke order annuleren en de oorspronkelijke bestelling opnieuw inkopen met behulp van de gewenste betalingswijze.
 
 Een order annuleren:
 
-1. Selecteer het tabblad met **lidmaatschaps aanbiedingen** in het dash board.
+1. Selecteer **het tabblad Lidmaatschapsaanbiedingen** in het dashboard.
 
-2. **Order annuleren** selecteren
+2. Selecteer **Order annuleren**
 
-3. Er wordt een bevestigings venster weer gegeven en u moet bevestigen om de oorspronkelijke volg orde te annuleren.
+3. Er wordt een bevestigingsvenster weergegeven en u moet bevestigen om de initiële bestelling te annuleren.
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Uw Partner Center-account beheren](partner-center-account-setup.md)
-- [Uw factuur-en afstemmings bestand lezen](read-your-bill.md)
+- [Uw factuur- en reconbestand lezen](read-your-bill.md)
