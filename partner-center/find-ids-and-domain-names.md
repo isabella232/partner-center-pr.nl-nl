@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172248"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740281"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Belangrijke ID's voor een gebruiker zoeken
 
@@ -32,7 +32,7 @@ In dit artikel wordt beschreven hoe u de [Azure Portal](https://portal.azure.com
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>De tenant Microsoft Azure AD-id en primaire domeinnaam zoeken
 
-Volg deze stappen om de Azure AD-tenant-id of primaire domeinnaam in de Azure Portal. (Zie Tenant-id zoeken met [PowerShell](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)of CLI als u programmatisch een tenant-id wilt zoeken.
+Volg deze stappen om de Azure AD-tenant-id of primaire domeinnaam in de Azure Portal. (Zie Tenant-id zoeken met [PowerShell](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell)of CLI als u programmatisch een tenant-id wilt zoeken.
 
 > [!NOTE]
 > De tenant-id kan verschillende namen worden genoemd in verschillende toepassingen of resources. De tenant-id kan bijvoorbeeld worden aangeduid als de directory-id, de Azure Active Directory-tenant (Azure AD), Microsoft ID of voor bepaalde rapporten, zelfs de *tenantguid*.
@@ -55,7 +55,7 @@ Volg deze stappen om de Azure AD-tenant-id of primaire domeinnaam in de Azure Po
 
 ## <a name="find-the-user-object-id"></a>De object-id van de gebruiker zoeken
 
-Alleen het vinden van de domeinnaam en tenant-id is mogelijk niet altijd voldoende. Mogelijk moet u ook de specifieke object-id vinden die aan een gebruiker is toegewezen. Volg deze stappen om de object-id van een gebruiker te vinden in de Azure Portal:
+Het vinden van de domeinnaam en tenant-id is mogelijk niet altijd voldoende. Mogelijk moet u ook de specifieke object-id vinden die aan een gebruiker is toegewezen. Volg deze stappen om de object-id van een gebruiker te vinden in de Azure Portal:
 
 1. Meld u aan bij de [Azure-portal](https://portal.azure.com/).
 
