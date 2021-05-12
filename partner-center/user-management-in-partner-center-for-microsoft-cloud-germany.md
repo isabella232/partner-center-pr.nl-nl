@@ -10,23 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284516"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794969"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gebruikers- en licentiebeheer in Partner Center voor Microsoft Cloud Duitsland
 
-**Van toepassing op**
+**Van toepassing op**: Partner Center | Partner Center voor Microsoft Cloud Duitsland
 
-- Partnercentrum voor Microsoft Cloud Duitsland
-
-**Juiste rollen**
-
-- Globale beheerder
-- Accountbeheerder
+**Juiste rollen:** Globale | Accountbeheerder
 
 > [!IMPORTANT]
 > Op basis van de ontwikkeling van de behoeften van klanten, richt onze cloudstrategie voor Duitsland zich op de levering van de nieuwe cloudregio's in Duitsland die consistent zijn met ons wereldwijde cloudaanbod. Met deze focus accepteren we geen nieuwe klanten meer en implementeren we geen nieuwe services meer vanuit de momenteel beschikbare Microsoft Cloud Duitsland. Bestaande klanten kunnen de huidige cloudservices die momenteel beschikbaar zijn, blijven gebruiken, die we onderhouden met de benodigde beveiligingsupdates.

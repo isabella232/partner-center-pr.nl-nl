@@ -1,124 +1,121 @@
 ---
-title: Uw afstemmings bestanden gebruiken
+title: Uw afstemmingsbestanden gebruiken
 ms.topic: article
 ms.date: 03/26/2021
-description: Meer informatie over reconciliatie bestanden in het partner centrum en het interpreteren van gedetailleerde weer gaven van het regel item van kosten voor een bepaalde facturerings cyclus.
+description: Meer informatie over afstemmingsbestanden in Partner Center en hoe u de gedetailleerde weergaven van de kosten voor een bepaalde factureringscyclus kunt interpreteren.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730076"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794952"
 ---
-# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Meer informatie over het lezen van regel items in uw partner centrum-afstemmings bestanden
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informatie over het lezen van de regelitems in uw Partner Center afstemmingsbestanden
 
-**Juiste rollen**
+**Juiste rollen:** Factureringsbeheerders | Globale beheerder
 
-- Factureringsbeheerder
-- Globale beheerder
+U kunt uw afstemmingsbestanden downloaden Partner Center voor een gedetailleerde weergave van alle kosten in een factureringscyclus. Details van regelitem omvatten kosten voor de abonnementen van elke klant en gedetailleerde gebeurtenissen (zoals het op de korte termijn toevoegen van licenties aan een abonnement).
 
-U kunt uw afstemmings bestanden downloaden van het partner centrum voor een gedetailleerde weer gave van regel items van elke kosten in een facturerings cyclus. Details van regel items zijn kosten voor abonnementen van elke klant en gedetailleerde gebeurtenissen (zoals een middel grote aanvulling van licenties voor een abonnement).
+Zie Uw factuur lezen voor **meer informatie** over het lezen van [uw factuur.](read-your-bill.md)
 
-Zie [uw factuur lezen](read-your-bill.md)voor meer informatie over het lezen van uw **facturen**.
-
-## <a name="understand-reconciliation-file-fields"></a>Informatie over afstemmings bestand velden
+## <a name="understand-reconciliation-file-fields"></a>Velden voor afstemmingsbestand begrijpen
 
 - [Velden voor afstemmingsbestand op basis van licentie](license-based-recon-files.md)
 - [Velden voor afstemmingsbestand op basis van gebruik](usage-based-recon-files.md)
 - [Velden voor afstemmingsbestand over dagelijks gebruik](daily-rated-usage-recon-files.md)
-- [Eenmalige inkopen CSP-afstemmings bestand velden](modern-invoice-reconciliation-file.md)
+- [Velden voor CSP-afstemmingsbestand voor een een time-aankoop](modern-invoice-reconciliation-file.md)
 
-## <a name="understand-charge-types-in-reconciliation-files"></a>Meer informatie over kosten typen in afstemmings bestanden
+## <a name="understand-charge-types-in-reconciliation-files"></a>Inzicht in kostentypen in afstemmingsbestanden
 
-Zie [reconciliatie bestands toeslag typen](recon-file-charge-types.md)voor meer informatie over de typen kosten in reconciliatie bestanden (de kolom **ChargeType** ).
+Zie Kostentypen voor afstemmingsbestand voor meer [](recon-file-charge-types.md)informatie over de typen kosten in afstemmingsbestanden (de kolom **ChargeType).**
 
-## <a name="fix-formatting-issues"></a>Opmaak problemen oplossen
+## <a name="fix-formatting-issues"></a>Opmaakproblemen oplossen
 
-Af en toe kan een afstemmings bestand opmaak problemen bevatten. Dit probleem kan bijvoorbeeld optreden als de land instelling en niet wordt gebruikt.
+Af en toe kan een afstemmingsbestand opmaakproblemen bevatten. Dit probleem kan bijvoorbeeld optreden als de en-US-locale niet wordt gebruikt.
 
-Volg deze stappen voor het oplossen van problemen met de opmaak in uw afstemmings bestanden:
+Volg deze stappen om eventuele opmaakproblemen in uw afstemmingsbestanden op te lossen:
 
-1. Open het afstemmings bestand (in CSV-indeling) in micro soft Excel.
+1. Open het afstemmingsbestand (in CSV-indeling) in Microsoft Excel.
 2. Selecteer de eerste kolom in het bestand.
-3. Open de **wizard tekst naar kolommen converteren**. Selecteer op het lint de optie **gegevens** en selecteer vervolgens **tekst naar kolommen**.
-4. Selecteer in de wizard **gescheiden bestands type**. Selecteer vervolgens **Volgende**.
-5. Selecteer **komma** in het veld scheidings **tekens** . (Als **tabblad** al is geselecteerd, kunt u deze optie ingeschakeld laten.) Selecteer vervolgens **volgende**.
-6. Selecteer in het veld **kolom gegevens indeling** de optie **datum: MDJ**. Selecteer vervolgens **Volgende**.
-7. Selecteer in het veld **kolom gegevens indeling** de **tekst** voor alle bedragkolommen. Selecteer vervolgens **Voltooien**.
+3. Open de **wizard Tekst converteren naar kolommen.** Selecteer op het lint **Gegevens** en selecteer vervolgens Tekst **naar kolommen.**
+4. Selecteer in de wizard **Bestandstype met scheidingstekens.** Selecteer vervolgens **Volgende**.
+5. Selecteer in **het veld Scheidingstekens** de optie **Komma**. (Als **Tab** al is geselecteerd, kunt u deze optie ingeschakeld laten.) Selecteer vervolgens **Volgende.**
+6. Selecteer  **datum:MDY** in het veld Kolomgegevensindeling. Selecteer vervolgens **Volgende**.
+7. Selecteer in **het veld Kolomgegevensindeling** de optie **Tekst** voor alle hoeveelheid kolommen. Selecteer vervolgens **Voltooien**.
 
-## <a name="download-reconciliation-files-programmatically"></a>Afstemmings bestanden programmatisch downloaden
+## <a name="download-reconciliation-files-programmatically"></a>Afstemmingsbestanden programmatisch downloaden
 
-Afstemmings bestanden kunnen erg groot zijn en soms moeilijk te downloaden. Zie [factuur regel items ophalen](/partner-center/develop/get-invoiceline-items)om de afstemmings bestanden via een programma te downloaden.
+Afstemmingsbestanden kunnen erg groot zijn en zijn soms moeilijk te downloaden. Zie Factuurregelitems downloaden om afstemmingsbestanden programmatisch [te downloaden.](/partner-center/develop/get-invoiceline-items)
 
 ## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Als uw bestand de rijlimiet in Excel overschrijdt
 
-Als u een afstemmings bestand kunt downloaden, maar niet in micro soft Excel wilt openen, betekent dit waarschijnlijk dat het bestand meer rijen bevat dan Excel toestaat. Als dit het geval is, kunt u een van de onderstaande procedures gebruiken om het bestand te openen.
+Als u een afstemmingsbestand kunt downloaden maar niet kunt openen in Microsoft Excel, betekent dit waarschijnlijk dat het bestand meer rijen bevat dan Excel toestaat. Als dit gebeurt, kunt u een van de onderstaande procedures gebruiken om het bestand te openen.
 
-### <a name="open-a-recon-file-in-power-bi"></a>Een afstemmings bestand openen in Power BI
+### <a name="open-a-recon-file-in-power-bi"></a>Open een reconbestand in Power BI
 
-1. Down load het afstemmings bestand zoals u dat gewend bent.
-2. Down load, installeer en open een exemplaar van Power BI.
-3. Selecteer op het tabblad Power BI **Start** de optie **gegevens ophalen**.
-4. Selecteer in de lijst met **algemene gegevens bronnen** de optie **tekst/CSV**.
-5. Open uw afstemmings bestand wanneer u hierom wordt gevraagd.
+1. Download het afstemmingsbestand zoals u dat normaal zou doen.
+2. Download, installeer en open een exemplaar van Power BI.
+3. Selecteer op Power BI **tabblad Start** de optie **Gegevens op halen.**
+4. Selecteer **Tekst/CSV** **in** de lijst met algemene gegevensbronnen.
+5. Open het reconbestand wanneer u daarom wordt gevraagd.
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Een afstemmings bestand openen in een Excel-draai tabel
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Een reconbestand openen in een Excel-draaitabel
 
-1. Down load het afstemmings bestand zoals u dat gewend bent.
-2. Open een nieuw bestand in micro soft Excel.
-3. Op het tabblad **gegevens** selecteert u **gegevens ophalen**, selecteert u **uit bestand** en selecteert u vervolgens **tekst/CSV**.
-4. Open uw afstemmings bestand wanneer u hierom wordt gevraagd. Uw gegevens worden weer gegeven.
-5. Selecteer in de vervolg keuzelijst **laden** de optie **laden naar** en klik vervolgens op **OK**.
-6. Selecteer in het dialoog venster **gegevens importeren** het **draai tabel rapport** om het bestand te openen.
+1. Download het afstemmingsbestand zoals u dat normaal zou doen.
+2. Open een nieuw bestand in Microsoft Excel.
+3. Selecteer op **het** tabblad Gegevens de optie **Gegevens downloaden,** selecteer **Uit bestand** en selecteer vervolgens **Tekst/CSV.**
+4. Wanneer u hier om wordt gevraagd, opent u het recon-bestand. Uw gegevens worden weergegeven.
+5. Selecteer in **de** vervolgkeuzelijst Laden de optie **Laden naar** en vervolgens **OK.**
+6. Selecteer in **het dialoogvenster Gegevens** importeren de optie **Draaitabelrapport om** het bestand te openen.
 
-## <a name="negative-amount-displayed"></a>Weer gegeven negatief bedrag
+## <a name="negative-amount-displayed"></a>Negatief bedrag weergegeven
 
-Mogelijk wordt er een negatief bedrag in het afstemmings bestand weer geven. Dit wordt waarschijnlijk veroorzaakt door een van de volgende dingen:
+Mogelijk ziet u een negatief bedrag in uw afstemmingsbestand. Dit wordt mogelijk veroorzaakt door een van de volgende zaken:
 
-- U hebt uw aantal licenties onlangs geannuleerd of gereduceerd
-- U hebt een tegoed ontvangen voor een service licentieovereenkomst (SLA) of voor Azure-verbruik
+- U hebt het aantal licenties onlangs geannuleerd of verlaagd
+- U hebt tegoed ontvangen voor een servicelicentieovereenkomst (SLA) of voor Azure-verbruik
 
-Als u meer informatie wilt over deze trans actie, controleert u het kenmerk van het type kosten in het afstemmings bestand.
+Voor meer informatie over deze transactie raadpleegt u de bijbehorende kostentype-eigenschap in uw afstemmingsbestand.
 
-## <a name="map-taxes-or-vat"></a>Belastingen of BTW toewijzen
+## <a name="map-taxes-or-vat"></a>Btw of btw in kaart brengen
 
-BTW of belasting toegevoegde waarde (BTW) toewijzen aan uw factuur:
+Belastingen of btw-waarde (BTW) aan uw factuur toe te voegen:
 
-- Som van de **belasting** kolom van het bestand op basis van licentie.
-- Som van de kolom **TaxAmount** van het bestand op basis van gebruik.
+- Som de **kolom Belasting** op uit het op licenties gebaseerde bestand.
+- Som de **kolom TaxAmount** op uit het bestand op basis van gebruik.
 
-## <a name="itemize-reconciliation-files-by-partner"></a>Afstemmings bestanden specificeren op partner
+## <a name="itemize-reconciliation-files-by-partner"></a>Afstemmingsbestanden itemeren per partner
 
-Partners in het **indirecte model** kunnen deze extra velden gebruiken in zowel op licenties gebaseerde afstemmings bestanden als voor het specificeren van de bestanden op reseller.
+Partners in het **indirecte model kunnen** deze aanvullende velden gebruiken in zowel op licenties gebaseerde als op gebruik gebaseerde afstemmingsbestanden om de bestanden per reseller te itemeren.
 
-| MPN-id | Beschrijving |
+| MPN-id | Description |
 | ------ | ----------- |
-| MPN-id | De Microsoft Partner Network-ID (MPN) van de Cloud Solution Provider (CSP)-partner (direct of indirect). |
-| [Reseller MPN-ID](#reseller-mpn-id) | De [MPN-id van de dealer van de record voor het abonnement](#reseller-mpn-id). Dit veld komt overeen met de wederverkoper-ID die wordt vermeld voor het specifieke abonnement in partner centrum. Wordt alleen weer gegeven voor reconciliatie bestanden voor partners in het indirecte model. |
+| MPN-id | De Microsoft Partner Network (MPN)-id van de Cloud Solution Provider (CSP)-partner (direct of indirect). |
+| [MPN-id van reseller](#reseller-mpn-id) | De [MPN-id van de reseller van de record voor het abonnement](#reseller-mpn-id). Dit veld komt overeen met de reseller-id die wordt vermeld voor het specifieke abonnement in Partner Center. Wordt alleen weergegeven in afstemmingsbestanden voor partners in het indirecte model. |
 
-### <a name="reseller-mpn-id"></a>Reseller MPN-ID
+### <a name="reseller-mpn-id"></a>MPN-id van reseller
 
-Als een CSP-partner het abonnement rechtstreeks aan de klant heeft verkocht, wordt hun **MPN-id** twee keer vermeld, zowel de **MPN-id** als de **wederverkoper MPN-id**.
+Als een CSP-partner het abonnement rechtstreeks aan de klant heeft verkocht, wordt de **MPN-id** twee keer weergegeven, zowel als de **MPN-id** en de **MPN-id** van de reseller.
 
-Als een CSP-partner een wederverkoper heeft zonder **MPN-id**, wordt deze waarde in plaats daarvan ingesteld op de **MPN-id** van de partner.
+Als een CSP-partner een reseller zonder **MPN-id** heeft, wordt deze waarde in plaats daarvan ingesteld op de **MPN-id van de partner.**
 
-Als de CSP-partner een **wederverkoper MPN-id** verwijdert, wordt deze waarde ingesteld op *-1*.
+Als de CSP-partner een **MPN-id voor** resellers verwijdert, wordt deze waarde ingesteld *op -1.*
 
-De **wederverkoper MPN-id** weer geven of bijwerken:
+Als u de MPN-id van **de reseller wilt weergeven of bijwerken:**
 
 1. Meld u aan bij Partnercentrum.
-2. Selecteer **klanten** in het menu van het partner centrum.
+2. Selecteer in Partner Center menu **Klanten.**
 3. Kies de klant in de lijst.
-4. Selecteer in het menu klant de optie **abonnementen**.
+4. Selecteer Abonnementen in het menu **van de klant.**
 5. Kies het abonnement in de lijst.
-6. Selecteer **bijwerken** om de wederverkoper te wijzigen **(MPN-id)**.
+6. Selecteer **Update om** de Reseller **(MPN-id) te wijzigen.**
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Uw factuur & afstemmings bestand lezen](read-your-bill.md) 
+- [Uw factuur lezen & recon-bestand](read-your-bill.md) 

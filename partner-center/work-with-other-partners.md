@@ -4,55 +4,53 @@ ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over hoe indirecte providers partners samen werken met indirecte wederverkopers in het Cloud Solution Provider-programma (CSP) en bepalen welke rol geschikt is voor u.
+description: Meer informatie over hoe indirecte providers samenwerken met indirecte resellers in het Cloud Solution Provider (CSP)-programma en bepalen welke rol het meest voor u is.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce5baddcc6d598ec4d926e74a6f4a85a3b4cbbbe
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: d8370b213a3d0fd96a4d2ef457de1140ee4549f6
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712559"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794884"
 ---
-# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Verschillende manieren om met andere partners in het partner centrum te werken
+# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Verschillende manieren waarop u met andere partners kunt werken in Partner Center
 
-**Juiste rollen**
+**Juiste rollen:** Accountbeheerder
 
-- Accountbeheerder
+Het programma Cloud Solution Provider (CSP) van Microsoft biedt partners de mogelijkheid om op deze manieren samen te werken.
 
-Het programma Cloud Solution Provider (CSP) van micro soft biedt kansen voor partners die op deze manieren kunnen samen werken.
+## <a name="indirect-provider-indirect-reseller-model"></a>Indirect provider-indirect resellermodel
 
-## <a name="indirect-provider-indirect-reseller-model"></a>Indirecte provider-indirect reseller model
-
-In dit model, ook wel bekend als het model met twee lagen, werken indirecte providers en indirecte wederverkopers samen om micro soft-Cloud Services te verkopen aan organisaties in meerdere land instellingen, verticaal en branche.
+In dit model, ook wel bekend als het model met twee lagen, werken indirecte providers en indirecte resellers samen om cloudservices van Microsoft te verkopen aan organisaties in meerdere regio's, verticale gebieden en branches.
 
 ### <a name="indirect-providers"></a>Indirecte providers
 
-Indirecte providers (ook wel distributeurs genoemd) kopen producten en abonnementen rechtstreeks van micro soft en bieden deze oplossingen aan klanten door middel van wederverkopers. Als u met indirecte wederverkopers werkt, kunnen providers hun bereik en klanten database uitbreiden.
+Indirecte providers (ook wel distributeurs genoemd) kopen producten en abonnementen rechtstreeks van Microsoft en bieden deze oplossingen vervolgens aan klanten via resellers. Door te werken met indirecte resellers kunnen providers hun bereik en klantenbestand uitbreiden.
 
-Als u een goedgekeurde indirecte provider in CSP bent, raadpleegt u [partner met indirecte wederverkopers in CSP](indirect-provider-tasks-in-partner-center.md) voor meer informatie over verbinding maken met indirecte wederverkopers en klanten.
+Als u een goedgekeurde indirecte provider in CSP bent, zie Partner with indirect resellers in CSP (Partner met indirecte [resellers in CSP)](indirect-provider-tasks-in-partner-center.md) voor meer informatie over verbinding maken met indirecte resellers en klanten.
 
-### <a name="indirect-resellers"></a>Indirecte wederverkopers
+### <a name="indirect-resellers"></a>Indirecte resellers
 
-Indirecte wederverkopers werken met indirecte providers, die een rechtstreekse relatie met micro soft hebben en de infra structuur hebben om klant ondersteuning en facturering te bieden. Door samen werking met indirecte providers kunnen indirecte wederverkopers werken met aanbieders van ervaren technologie om naar de markt te gaan zonder een grote kapitaal investering te hoeven maken en een breder assortiment micro soft-oplossingen te bieden.
+Indirecte resellers werken met indirecte providers die een directe relatie hebben met Microsoft en de infrastructuur hebben om klantondersteuning en facturering te bieden. Door samen te werken met indirecte providers kunnen indirecte resellers werken met ervaren technologieproviders om op de markt te komen zonder dat ze grote investeringen moeten doen en een breder portfolio met Microsoft-oplossingen kunnen aanbieden.
 
-Als u een indirecte wederverkoper bent of als u geïnteresseerd bent in het inschrijven van CSP als een indirecte wederverkoper, raadpleegt u [partner met indirecte providers in CSP](indirect-reseller-tasks-in-partner-center.md) voor meer informatie over het maken van verbinding met indirecte providers en klanten.
+Als u een indirecte reseller bent of als u geïnteresseerd bent in inschrijving bij CSP als een indirecte reseller, zie Partner with indirect providers in CSP (Partner met indirecte [providers in CSP)](indirect-reseller-tasks-in-partner-center.md) voor meer informatie over het maken van verbinding met indirecte providers en klanten.
 
-Weet u niet zeker of u zich wilt inschrijven voor CSP als een indirecte wederverkoper of als directe partner? Zie [het indirecte model verkennen](https://partner.microsoft.com/cloud-solution-provider/indirect) op de [website van Microsoft Partner Network](https://partner.microsoft.com).
+Weet u niet zeker of u zich bij CSP moet inschrijven als een indirecte reseller of als een directe partner? Zie [Het indirecte model verkennen op](https://partner.microsoft.com/cloud-solution-provider/indirect) de [Microsoft Partner Network website.](https://partner.microsoft.com)
 
 ## <a name="multi-partner-support"></a>Ondersteuning voor meerdere partners
 
-De functie voor meerdere partners van partner Center ondersteunt scenario's wanneer een klant moet werken met meer dan één partner. Het is bijvoorbeeld mogelijk dat ze een partner willen inhuren voor hun expertise in Office 365, maar ook een andere partner die is gespecialiseerd in Microsoft Azure inhuren. Zie [ondersteuning voor meerdere partners](multipartner.md) voor meer informatie.
+Partner Center functie voor meerdere partners ondersteunt scenario's waarin een klant met meer dan één partner moet werken. Ze willen bijvoorbeeld één partner in dienst nemen voor hun expertise in Office 365, maar ook een andere partner in dienst nemen die is gespecialiseerd in Microsoft Azure. Zie [Ondersteuning voor meerdere partners](multipartner.md) voor meer informatie.
 
-Ondersteuning voor meerdere partners is ook beschikbaar in de nationale Cloud-aanbiedingen van micro soft.
+Ondersteuning voor meerdere partners is ook beschikbaar in de nationale cloudaanbiedingen van Microsoft.
 
 ## <a name="multi-channel-support"></a>Ondersteuning voor meerdere kanalen
 
-De multi channel-functie van het partner Centrum ondersteunt scenario's wanneer een klant een partner wil huren om een abonnement in te richten en te ondersteunen dat ze elders hebben gekocht. Zie [ondersteuning voor meerdere kanalen](multichannel.md) voor meer informatie.
+Partner Center functie voor meerdere kanalen biedt ondersteuning voor scenario's waarin een klant een partner wil in dienst nemen om een abonnement in te leveren en te ondersteunen dat ze elders hebben gekocht. Zie [Ondersteuning voor meerdere kanalen](multichannel.md) voor meer informatie.
 
-Ondersteuning voor meerdere kanalen is ook beschikbaar in de nationale Cloud-aanbiedingen van micro soft.
+Ondersteuning voor meerdere kanalen is ook beschikbaar in de nationale cloudaanbiedingen van Microsoft.
 
 > [!IMPORTANT]  
-> Een partner in het CSP-programma kan onlineservices momenteel niet verkopen naar een andere partner in het CSP-programma. Deze beperking is alleen van toepassing op de Tenant die wordt gebruikt voor het uitvoeren van CSP-trans acties. CSP-partners die een niet-CSP-Tenant gebruiken voor hun bedrijfs gebruik, kunnen onlineservices aanschaffen bij een andere CSP-partner. Micro soft bekijkt voortdurend het beleid en de mogelijkheden van alle Program ma's. Nieuws over functie releases of beleids wijzigingen worden aangekondigd via de gebruikelijke communicatie kanalen, inclusief de aankondigingen van partners in het [partner centrum](announcements/index.md).
+> Een partner in het CSP-programma kan de onlineservices verkopen aan een andere partner in het CSP-programma. Deze beperking geldt alleen voor de tenant die wordt gebruikt voor het uitvoeren van CSP-transacties. CSP-partners die een niet-CSP-tenant gebruiken voor hun bedrijfsgebruik, kunnen onlineservices aanschaffen bij een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Nieuws over functiereleases of beleidswijzigingen wordt aangekondigd via de gebruikelijke communicatiekanalen, waaronder [Partner Center aankondigingen](announcements/index.md).
