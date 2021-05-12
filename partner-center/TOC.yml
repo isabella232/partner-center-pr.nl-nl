@@ -119,45 +119,40 @@
           displayName: mpn
     - name: Een Azure Expert MSP worden
       href: azure-expert-msp.md
-- name: Cloud Solution Provider (CSP)
+- name: Cloud Solution Provider program (CSP)
   href: csp-overview.md
   displayName: csp
   items:
     - name: Inschrijven voor het CSP-programma
       href: enrolling-in-the-csp-program.md
       displayName: 'indirect, reseller, csp'
-    - name: Microsoft Partner-overeenkomst - CSP's
-      href: microsoft-partner-agreement.md
-      displayName: 'csp, mpn'
-    - name: Hoe indirecte providers hun resellers kunnen helpen de MPA te gebruiken
-      href: mpa-indirect-provider-faq.md
-      displayName: 'csp, mpa, indirect, provider'
     - name: Vereisten voor de directe CSP-partner
       href: direct-partner-new-requirements.md
-      displayName: 'indirect, reseller, csp'
-    - name: 'Microsoft-klantovereenkomsten (op regio, taal)'
-      href: agreements.md
-      displayName: 'region, MPA'
     - name: Beperkte toegang tot directe facturering
       href: restricted-direct-bill-capabilities.md
-      displayName: 'indirect, reseller'
+      displayName: 'indirect, reseller, direct'
     - name: Directe CSP-factureringspartner overschakelen naar indirecte reseller
       href: transition-direct-to-indirect.md
       displayName: csp
+- name: CSP-overeenkomsten
+  href: microsoft-partner-agreement.md
+  items:
+    - name: Hoe indirecte providers hun resellers kunnen helpen de MPA te gebruiken
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: 'CSP-overeenkomsten, prijslijsten, aanbiedingen'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Registratie-id-nummergegevens
-      href: reg-number-id.md
+    - name: 'Microsoft-klantovereenkomsten (op regio, taal)'
+      href: agreements.md
+    - name: Bevestigen dat de klant de Microsoft-klantovereenkomst
+      href: confirm-customer-agreement.md
     - name: 'Regionale markten voor CSP, valuta'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
     - name: Instructies voor tenantconsolidatie voor regionale autorisatie in CSP
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Bevestigen dat de klant de Microsoft-klantovereenkomst
-      href: confirm-customer-agreement.md
-      displayName: 'csp, agreement'
     - name: Toepassen op verkopen in nationale clouds
       href: csp-national-clouds-overview.md
       items:
@@ -207,6 +202,8 @@
         - name: Uw partnerprofiel bijwerken
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: Registratie-id-nummergegevens
+          href: reg-number-id.md
         - name: Control Panel Vendor worden
           href: enroll-as-cpv.md
           displayName: csp
