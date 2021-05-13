@@ -390,6 +390,8 @@
       href: modern-invoice-reconciliation-file.md
     - name: Effectieve berekening van eenheidsprijs
       href: effective-unit-price-calculation.md
+    - name: Afdwinging van tegoedlimiet
+      href: credit-limit-enforcement.md
     - name: Algemene scenario's voor facturering
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'

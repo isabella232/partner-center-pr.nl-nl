@@ -1,89 +1,84 @@
 ---
-title: Partner Center Analytics voor Power BI installeren
+title: Installeer Partner Center Analytics voor Power BI
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Volg de stappen in dit artikel voor het installeren en bekijken van de Partner Center Analytics-App voor Power BI (voor rechtstreekse partners in CSP).
+description: Volg de stappen in dit artikel om de Analyse-app van het Partnercentrum voor Power BI (voor directe partners in CSP) te installeren en te bekijken.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633689"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854482"
 ---
-# <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a><span data-ttu-id="d2490-103">Install and preview the Partner Center Analytics app for Microsoft Power BI (Partner Center Analytics-app voor Microsoft Power BI installeren en preview bekijken)</span><span class="sxs-lookup"><span data-stu-id="d2490-103">Install and preview the Partner Center Analytics app for Microsoft Power BI</span></span>
+# <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a><span data-ttu-id="40a0a-103">Install and preview the Partner Center Analytics app for Microsoft Power BI (Partner Center Analytics-app voor Microsoft Power BI installeren en preview bekijken)</span><span class="sxs-lookup"><span data-stu-id="40a0a-103">Install and preview the Partner Center Analytics app for Microsoft Power BI</span></span>
 
 
-<span data-ttu-id="d2490-104">**Juiste rollen**</span><span class="sxs-lookup"><span data-stu-id="d2490-104">**Appropriate roles**</span></span>
+<span data-ttu-id="40a0a-104">**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent | Beheeragent</span><span class="sxs-lookup"><span data-stu-id="40a0a-104">**Appropriate roles**: Global admin | User management admin | Sales agent | Admin agent</span></span>
 
-- <span data-ttu-id="d2490-105">Globale beheerder</span><span class="sxs-lookup"><span data-stu-id="d2490-105">Global admin</span></span>
-- <span data-ttu-id="d2490-106">Beheerder van gebruikers beheer</span><span class="sxs-lookup"><span data-stu-id="d2490-106">User management admin</span></span>
-- <span data-ttu-id="d2490-107">Verkoop agent</span><span class="sxs-lookup"><span data-stu-id="d2490-107">Sales agent</span></span>
-- <span data-ttu-id="d2490-108">Beheer agent</span><span class="sxs-lookup"><span data-stu-id="d2490-108">Admin agent</span></span>
+## <a name="before-you-begin"></a><span data-ttu-id="40a0a-105">Voordat u begint</span><span class="sxs-lookup"><span data-stu-id="40a0a-105">Before you begin</span></span>
 
-## <a name="before-you-begin"></a><span data-ttu-id="d2490-109">Voordat u begint</span><span class="sxs-lookup"><span data-stu-id="d2490-109">Before you begin</span></span>
+<span data-ttu-id="40a0a-106">Selecteer de toepassing die het meest relevant is voor uw bedrijf in de volgende lijst met beschikbare Power BI apps:</span><span class="sxs-lookup"><span data-stu-id="40a0a-106">Select the application that is most relevant to your business from the following list of available Power BI apps:</span></span>
 
-<span data-ttu-id="d2490-110">Selecteer de toepassing die het meest relevant is voor uw bedrijf in de volgende lijst met beschik bare Power BI-apps:</span><span class="sxs-lookup"><span data-stu-id="d2490-110">Select the application that is most relevant to your business from the following list of available Power BI apps:</span></span>
+- [<span data-ttu-id="40a0a-107">Directe provider</span><span class="sxs-lookup"><span data-stu-id="40a0a-107">Direct Provider</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [<span data-ttu-id="d2490-111">Directe provider</span><span class="sxs-lookup"><span data-stu-id="d2490-111">Direct Provider</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
+- [<span data-ttu-id="40a0a-108">Indirecte provider</span><span class="sxs-lookup"><span data-stu-id="40a0a-108">Indirect Provider</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [<span data-ttu-id="d2490-112">Indirecte provider</span><span class="sxs-lookup"><span data-stu-id="d2490-112">Indirect Provider</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
+- [<span data-ttu-id="40a0a-109">Indirecte reseller</span><span class="sxs-lookup"><span data-stu-id="40a0a-109">Indirect Reseller</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
-- [<span data-ttu-id="d2490-113">Indirecte wederverkoper</span><span class="sxs-lookup"><span data-stu-id="d2490-113">Indirect Reseller</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
+<span data-ttu-id="40a0a-110">Voordat u de preview-Partner Center analytics-app installeert, moet u ervoor zorgen dat u aan de volgende vereisten voldoet.</span><span class="sxs-lookup"><span data-stu-id="40a0a-110">Before you install the Partner Center Analytics app preview version, be sure that you meet the following requirements.</span></span>
 
-<span data-ttu-id="d2490-114">Zorg ervoor dat u voldoet aan de volgende vereisten voordat u de preview-versie van de Partner Center Analytics-app installeert.</span><span class="sxs-lookup"><span data-stu-id="d2490-114">Before you install the Partner Center Analytics app preview version, be sure that you meet the following requirements.</span></span>
+- <span data-ttu-id="40a0a-111">U kiest de juiste Power BI app voor uw bedrijf.</span><span class="sxs-lookup"><span data-stu-id="40a0a-111">You pick the correct Power BI app for your business.</span></span>
 
-- <span data-ttu-id="d2490-115">U kiest de juiste Power BI-app voor uw bedrijf.</span><span class="sxs-lookup"><span data-stu-id="d2490-115">You pick the correct Power BI app for your business.</span></span>
+- <span data-ttu-id="40a0a-112">U hebt een Power BI Pro-licentie.</span><span class="sxs-lookup"><span data-stu-id="40a0a-112">You have a Power BI pro license.</span></span>
 
-- <span data-ttu-id="d2490-116">U hebt een licentie voor Power BI Pro.</span><span class="sxs-lookup"><span data-stu-id="d2490-116">You have a Power BI pro license.</span></span>
+- <span data-ttu-id="40a0a-113">U hebt machtigingen om sjabloon-apps te installeren in uw tenant.</span><span class="sxs-lookup"><span data-stu-id="40a0a-113">You have permissions to install template apps on your tenant.</span></span>
 
-- <span data-ttu-id="d2490-117">U bent gemachtigd om sjabloon-apps te installeren op uw Tenant.</span><span class="sxs-lookup"><span data-stu-id="d2490-117">You have permissions to install template apps on your tenant.</span></span>
+- <span data-ttu-id="40a0a-114">U kunt zich aanmelden bij Power BI.</span><span class="sxs-lookup"><span data-stu-id="40a0a-114">You can sign in to Power BI.</span></span>
 
-- <span data-ttu-id="d2490-118">U kunt zich aanmelden bij Power BI.</span><span class="sxs-lookup"><span data-stu-id="d2490-118">You can sign in to Power BI.</span></span>
+- <span data-ttu-id="40a0a-115">U kunt zich aanmelden als globale beheerder, beheerderagent of factureringsbeheerder bij de [tenant van uw Azure Active Directory (Azure AD).](azure-active-directory-tenants-and-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="40a0a-115">You can sign in as a global admin, admin agent, or billing admin to [your company's Azure Active Directory (Azure AD) tenant](azure-active-directory-tenants-and-partner-center.md).</span></span>
 
-- <span data-ttu-id="d2490-119">U kunt zich aanmelden als een globale beheerder, een beheer agent of een facturerings beheerder voor [de Azure Active Directory Azure AD-Tenant van uw bedrijf](azure-active-directory-tenants-and-partner-center.md).</span><span class="sxs-lookup"><span data-stu-id="d2490-119">You can sign in as a global admin, admin agent, or billing admin to [your company's Azure Active Directory (Azure AD) tenant](azure-active-directory-tenants-and-partner-center.md).</span></span>
+## <a name="to-install-the-app"></a><span data-ttu-id="40a0a-116">De app installeren</span><span class="sxs-lookup"><span data-stu-id="40a0a-116">To install the app</span></span>
 
-## <a name="to-install-the-app"></a><span data-ttu-id="d2490-120">De app installeren</span><span class="sxs-lookup"><span data-stu-id="d2490-120">To install the app</span></span>
+1. <span data-ttu-id="40a0a-117">Selecteer de opgegeven app-bronkoppeling (directe provider/indirecte provider/indirecte reseller) in de bovenstaande sectie.</span><span class="sxs-lookup"><span data-stu-id="40a0a-117">Select the app source link given (Direct Provider/Indirect Provider/Indirect Reseller) in the above section.</span></span>
 
-1. <span data-ttu-id="d2490-121">Selecteer de betreffende app-bron koppeling (direct provider/indirecte leverancier/indirecte wederverkoper) in de bovenstaande sectie.</span><span class="sxs-lookup"><span data-stu-id="d2490-121">Select the app source link given (Direct Provider/Indirect Provider/Indirect Reseller) in the above section.</span></span>
+2. <span data-ttu-id="40a0a-118">Selecteer **NU KRIJGEN.**</span><span class="sxs-lookup"><span data-stu-id="40a0a-118">Select **GET IT NOW**.</span></span> 
 
-2. <span data-ttu-id="d2490-122">Selecteer **nu downloaden**.</span><span class="sxs-lookup"><span data-stu-id="d2490-122">Select **GET IT NOW**.</span></span> 
+3. <span data-ttu-id="40a0a-119">Ga akkoord met de voorwaarden door **Doorgaan te selecteren.**</span><span class="sxs-lookup"><span data-stu-id="40a0a-119">Agree terms and conditions by selecting **Continue**.</span></span>
 
-3. <span data-ttu-id="d2490-123">Ga akkoord met de voor waarden door **door gaan** te selecteren.</span><span class="sxs-lookup"><span data-stu-id="d2490-123">Agree terms and conditions by selecting **Continue**.</span></span>
+4. <span data-ttu-id="40a0a-120">Onder Hebt u al een account? Selecteer **Aanmelden.**</span><span class="sxs-lookup"><span data-stu-id="40a0a-120">Under Already have an account? select **Sign In**.</span></span>
 
-4. <span data-ttu-id="d2490-124">Onder al een account? Selecteer **Aanmelden**.</span><span class="sxs-lookup"><span data-stu-id="d2490-124">Under Already have an account? select **Sign In**.</span></span>
+5. <span data-ttu-id="40a0a-121">Voer op de volgende pagina uw Power BI gebruikersnaam en wachtwoord in en selecteer **aanmelden.**</span><span class="sxs-lookup"><span data-stu-id="40a0a-121">On the next page, enter your Power BI user name and password and then select **Sign In**.</span></span>
 
-5. <span data-ttu-id="d2490-125">Voer op de volgende pagina uw Power BI gebruikers naam en wacht woord in en selecteer **Aanmelden**.</span><span class="sxs-lookup"><span data-stu-id="d2490-125">On the next page, enter your Power BI user name and password and then select **Sign In**.</span></span>
+6. <span data-ttu-id="40a0a-122">Installeer de werkruimte door de naam van de werkruimte op te geven.</span><span class="sxs-lookup"><span data-stu-id="40a0a-122">Install the workspace by providing the workspace name.</span></span>
 
-6. <span data-ttu-id="d2490-126">Installeer de werk ruimte door de naam van de werk ruimte op te geven.</span><span class="sxs-lookup"><span data-stu-id="d2490-126">Install the workspace by providing the workspace name.</span></span>
+7. <span data-ttu-id="40a0a-123">U vindt de sjabloon-apps die zijn geïnstalleerd in de sectie Apps.</span><span class="sxs-lookup"><span data-stu-id="40a0a-123">You can find the template apps installed under Apps Section.</span></span>
 
-7. <span data-ttu-id="d2490-127">U vindt de sjabloon apps die zijn geïnstalleerd onder de sectie apps.</span><span class="sxs-lookup"><span data-stu-id="d2490-127">You can find the template apps installed under Apps Section.</span></span>
+8. <span data-ttu-id="40a0a-124">Selecteer **Apps** en kies de geïnstalleerde apps.</span><span class="sxs-lookup"><span data-stu-id="40a0a-124">Select **Apps** and choose the installed apps.</span></span>
 
-8. <span data-ttu-id="d2490-128">Selecteer **apps** en kies de geïnstalleerde apps.</span><span class="sxs-lookup"><span data-stu-id="d2490-128">Select **Apps** and choose the installed apps.</span></span>
+9. <span data-ttu-id="40a0a-125">Het scherm Aan de slag met uw nieuwe app wordt geopend.</span><span class="sxs-lookup"><span data-stu-id="40a0a-125">Get Started with your new app screen opens.</span></span>
 
-9. <span data-ttu-id="d2490-129">Aan de slag met uw nieuwe app-scherm wordt geopend.</span><span class="sxs-lookup"><span data-stu-id="d2490-129">Get Started with your new app screen opens.</span></span>
+10. <span data-ttu-id="40a0a-126">Selecteer Verbinding maken om verbinding te maken met **de gegevens.**</span><span class="sxs-lookup"><span data-stu-id="40a0a-126">To connect to the data, select **Connect**.</span></span>
 
-10. <span data-ttu-id="d2490-130">Selecteer **verbinding maken** om verbinding te maken met de gegevens.</span><span class="sxs-lookup"><span data-stu-id="d2490-130">To connect to the data, select **Connect**.</span></span>
-
-11. <span data-ttu-id="d2490-131">Controleer in het pop-upvenster **verbinding maken met partner Center Analytics** of de **verificatie methode** is ingesteld op **oAuth2** of selecteer **oAuth2** in de lijst als dat niet het geval is.</span><span class="sxs-lookup"><span data-stu-id="d2490-131">On the **Connect to Partner Center Analytics** pop-up window, verify that the **Authentication method** is set to **oAuth2** or select **oAuth2** from the list if it's not.</span></span> 
+11. <span data-ttu-id="40a0a-127">Controleer in het pop-upvenster Verbinding maken met **Partner Center Analytics** of de verificatiemethode **is** ingesteld op **oAuth2** of selecteer **oAuth2** in de lijst als dat niet zo is.</span><span class="sxs-lookup"><span data-stu-id="40a0a-127">On the **Connect to Partner Center Analytics** pop-up window, verify that the **Authentication method** is set to **oAuth2** or select **oAuth2** from the list if it's not.</span></span> 
 
 > [!NOTE]  
->  <span data-ttu-id="d2490-132">Het kan enkele minuten duren voordat dit venster wordt weer gegeven.</span><span class="sxs-lookup"><span data-stu-id="d2490-132">This window may take a few minutes to appear.</span></span>
+>  <span data-ttu-id="40a0a-128">Het kan enkele minuten duren voordat dit venster wordt weergegeven.</span><span class="sxs-lookup"><span data-stu-id="40a0a-128">This window may take a few minutes to appear.</span></span>
 
-12. <span data-ttu-id="d2490-133">Meld u op de pagina **Partner Center Analytics connector** aan met de referenties van de globale beheerder, de beheerders agent of de facturerings beheerder voor de Azure AD-Tenant van uw bedrijf en selecteer **Aanmelden**.</span><span class="sxs-lookup"><span data-stu-id="d2490-133">On the **Partner Center Analytics Connector** page, sign in with global admin, admin agent, or billing admin credentials for your company's Azure AD tenant, and then select **Sign In**.</span></span>
+12. <span data-ttu-id="40a0a-129">Meld u **op de pagina Partner Center Analytics Connector** aan met de referenties van de globale beheerder, beheerderagent of factureringsbeheerder voor de Azure AD-tenant van uw bedrijf en selecteer **aanmelden.**</span><span class="sxs-lookup"><span data-stu-id="40a0a-129">On the **Partner Center Analytics Connector** page, sign in with global admin, admin agent, or billing admin credentials for your company's Azure AD tenant, and then select **Sign In**.</span></span>
  
-13. <span data-ttu-id="d2490-134">Wanneer u wordt gevraagd om toegang, selecteert u **accepteren**.</span><span class="sxs-lookup"><span data-stu-id="d2490-134">When prompted for access, select **Accept**.</span></span> 
+13. <span data-ttu-id="40a0a-130">Wanneer u wordt gevraagd om toegang, selecteert u **Accepteren.**</span><span class="sxs-lookup"><span data-stu-id="40a0a-130">When prompted for access, select **Accept**.</span></span> 
 
-<span data-ttu-id="d2490-135">Zodra de Partner Center Analytics-service is verbonden met Power BI, gaan de gegevens worden geladen.</span><span class="sxs-lookup"><span data-stu-id="d2490-135">Once the Partner Center Analytics service is connected to Power BI, data will begin to load.</span></span> <span data-ttu-id="d2490-136">Afhankelijk van de hoeveelheid gegevens kan dit tot tien minuten duren.</span><span class="sxs-lookup"><span data-stu-id="d2490-136">Depending on the amount of data, this can take up to 10 minutes.</span></span> 
+<span data-ttu-id="40a0a-131">Zodra de Partner Center Analytics-service is verbonden met Power BI, worden de gegevens geladen.</span><span class="sxs-lookup"><span data-stu-id="40a0a-131">Once the Partner Center Analytics service is connected to Power BI, data will begin to load.</span></span> <span data-ttu-id="40a0a-132">Afhankelijk van de hoeveelheid gegevens kan dit maximaal 10 minuten duren.</span><span class="sxs-lookup"><span data-stu-id="40a0a-132">Depending on the amount of data, this can take up to 10 minutes.</span></span> 
 
-<span data-ttu-id="d2490-137">Nadat de gegevens zijn geladen, kunt u het dash board en de rapporten van het Partner Center Analytics-app in Power BI gaan gebruiken.</span><span class="sxs-lookup"><span data-stu-id="d2490-137">After the data finishes loading, you can start using the Partner Center Analytics app dashboard and reports in Power BI.</span></span>
+<span data-ttu-id="40a0a-133">Nadat de gegevens zijn geladen, kunt u het dashboard en de rapporten van de Partner Center Analytics-app in Power BI.</span><span class="sxs-lookup"><span data-stu-id="40a0a-133">After the data finishes loading, you can start using the Partner Center Analytics app dashboard and reports in Power BI.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="d2490-138">Volgende stappen</span><span class="sxs-lookup"><span data-stu-id="d2490-138">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="40a0a-134">Volgende stappen</span><span class="sxs-lookup"><span data-stu-id="40a0a-134">Next steps</span></span>
 
-[<span data-ttu-id="d2490-139">Uw bedrijfs gegevens weer geven met de Partner Center Analytics-App voor micro soft Power BI</span><span class="sxs-lookup"><span data-stu-id="d2490-139">View your business data with the Partner Center Analytics app for Microsoft Power BI</span></span>](power-bi-app-for-direct-partners-use.md)
+[<span data-ttu-id="40a0a-135">Uw zakelijke gegevens weergeven met de Partner Center Analytics-app voor Microsoft Power BI</span><span class="sxs-lookup"><span data-stu-id="40a0a-135">View your business data with the Partner Center Analytics app for Microsoft Power BI</span></span>](power-bi-app-for-direct-partners-use.md)
