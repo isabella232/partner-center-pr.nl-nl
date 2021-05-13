@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328080"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855945"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Krijg verwijzingsinzichten in Partner Center en ontdek hoe uw verwijzingen het doen
 
-**Juiste rollen**
-
-- Verwijzingsbeheerder
+**Juiste rollen:** Verwijzingsbeheerder
 
 Op **de pagina Kansen voor co-verkoop** onder de sectie **Analyse** in Verwijzingen kunt u zien hoe het gaat met uw verwijzingen. Bekijk deze metrische gegevens regelmatig om trends of gebieden te identificeren die aandacht nodig hebben en ga aan de slag met uw bedrijfsdoelen.
 

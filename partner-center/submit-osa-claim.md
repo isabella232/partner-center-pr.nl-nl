@@ -4,98 +4,96 @@ ms.topic: article
 ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Maak klant koppelingen met het model van de claim partner van record (CPOR). Helpt bij het beheren van de verkoop, het gebruik en de stimulansen voor Microsoft 365 & Dynamics 365-klanten.
+description: Maak klantbindingen met het Claiming Partner of Record (CPOR)-model. Helpt bij het beheren van verkoop, gebruik en incentives Microsoft 365 & Dynamics 365-klanten.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 9526a47d0b6d734bde48f403c11fa84d734511c1
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028312"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856097"
 ---
-# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Klant koppelingen via het geclaimde partner of record (CPOR) model voor Microsoft 365 en Dynamics 365
+# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Klant verbanden via het model Geclaimde Partner of Record (CPOR) voor Microsoft 365 en Dynamics 365
 
 
-**Juiste rollen**
+**Juiste rollen:** Incentives-beheerder
 
-- Prikkel beheerder
-
-Op 1 oktober 2019 begon micro soft met het gebruik van het CPOR-model (partner of record) voor het beheren van de koppelingen die u hebt met uw Microsoft 365 en Dynamics 365-klanten met betrekking tot de Online Services Advisor (OSA), het gebruik van Online Services (OSU)-Microsoft 365 en OSU-Business toepassings stimulansen.
+Op 1 oktober 2019 is Microsoft begonnen met het Claiming Partner of Record-model (CPOR) voor het beheren van de verbanden die u hebt met uw Microsoft 365- en Dynamics 365-klanten met betrekking tot het Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 en OSU-Business Application incentives.
 
 >[!Important]
-> Claims voor klant koppeling (CPOR) zijn alleen van toepassing op de verkoop van online services-advies (OSA), Online Services usage (OSU)-Microsoft 365 en OSU-Business Application prikkel-Program ma's. Als u een mede-op-aanvraag indient voor een ander programma, zoals een Cloud solution provider, een beheerde wederverkoper, hosting of Opper vlak, raadpleegt u dit proces dat hier wordt beschreven. <br><br>Wanneer u uw claim verzendt, valideert micro soft deze. We kunnen u op dit punt vragen om meer informatie. We melden ook de klant van uw koppelings aanvraag. Klanten hebben vijf werk dagen nodig om u af te melden. Als ze niet worden afgemeld, zal uw koppeling met deze specifieke Tenant en werk belasting officieel zijn. U hebt op dit moment toegang tot de gebruiks gegevens van de klant. 
+> CPOR-claims (Customer Association) zijn alleen van toepassing op de Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 en OSU-Business Application incentive-programma's. Als u een claim voor samenwerking indient voor een ander programma, zoals Cloud Solution Provider, Managed Reseller, Hosting of Surface, raadpleegt u het proces voor samenwerkingsclaims dat hier wordt beschreven. <br><br>Wanneer u uw claim indient, valideert Microsoft deze. We kunnen u op dit moment om meer informatie vragen. We stellen de klant ook op de hoogte van uw associatieaanvraag. Klanten hebben vijf werkdagen om af te zien. Als ze zich niet uiten, is uw associatie met deze specifieke tenant en workload officieel. Op dit moment hebt u toegang tot de gebruiksgegevens van de klant. 
 
-U hebt de volgende informatie nodig om een claim te volt ooien:
+U hebt de volgende informatie nodig om een claim te voltooien:
 
 - De **MPN-id** voor uw entiteit die de claim maakt
 
-- **Domein naam** van de klant [Dit zoeken](find-ids-and-domain-names.md)
+- Domeinnaam van **klant Zoek** [deze](find-ids-and-domain-names.md)
 
-- De **Directory-id** of **Tenant-id** van de klant [vindt u deze](find-ids-and-domain-names.md)
+- Directory-id of **tenant-id van de klant** Zoek [deze](find-ids-and-domain-names.md) 
 
-- Het **oplossings gebied**, zoals Business Applications of Microsoft 365
+- Het **gebied Oplossing,** zoals Business Applications of Microsoft 365
 
-- De **activiteit** die u hebt uitgevoerd en het type claim dat u wilt maken, zoals de koppeling vóór verkoop, gebruik of omzet
+- De **activiteit** die u hebt uitgevoerd en het type claim dat u wilt maken, zoals de associatie Pre-sales, Usage of Revenue
 
-- De **contact naam**, de titel en het e-mail adres van uw klant
+- De naam, titel en **het** e-mailadres van uw klant
 
-- Voor Dynamics 365 moet u ook de **technische contact** naam, de titel en het e-mail adres van uw klant opgeven
+- Voor Dynamics 365 moet u ook de  technische contactnaam, titel en e-mailadres van uw klant verstrekken
 
-- De **contact naam** en het e-mail adres van uw eigen bedrijf
+- De naam en het e-mailadres **van uw** eigen bedrijf
 
-- U maakt een **naam** voor deze claim
+- U maakt een naam **voor** deze claim
 
-- De **product (en)** of workload ('s) die u aanspraakt
+- De **producten of** workloads die u claimt
 
-- **Testen van de uitvoering (PoE)**, zoals een overzicht van werk dat door de klant is ondertekend. U kunt ook een PoE-sjabloon downloaden om te gebruiken.
+- **Bewijs van uitvoering (PoE),** zoals een werkverklaring die is ondertekend door de klant. U kunt ook een PoE-sjabloon downloaden om te gebruiken.
 
-- Voor partners die alleen een opbrengst koppeling claimen: de naam van de **verkoper**, de naam van de **klant** en de **naam van de ISV-product/-oplossing**. 
+- Alleen voor partners die een omzetorganisatie claimen: **verkopernaam** van Dynamics-oplossing, **Klantnaam** en **Naam van ISV-product/-oplossing.** 
 
-U moet ook inzicht krijgen in de volgende punten:
+U moet ook de volgende punten begrijpen:
 
-- Als u bestaande Microsoft 365 klanten hebt, moet u opnieuw koppelen aan de gebruikers die u wilt door gaan met het verdienen van OSUe prikkels met behulp van dit proces.
+- Als u bestaande Microsoft 365 hebt, moet u opnieuw koppelen aan de klanten die u osu-incentives wilt blijven verdienen met behulp van dit proces.
 
-- Als u bestaande koppelingen met Dynamics 365 of Power BI klanten hebt, blijven deze koppelingen geldig, totdat de abonnementen verlopen.
+- Als u bestaande verbanden hebt met Dynamics 365- of Power BI-klanten, blijven deze associaties geldig tot de vervaldatum van hun abonnementen.
 
-- Een klant kan meerdere partners hebben, maar elke werk belasting (voor OSU-Microsoft 365) of-abonnement (voor OSA-Sell en OSU-Business toepassingen) kan slechts worden gekoppeld aan één partner.
+- Een klant kan meerdere partners hebben, maar elke workload (voor OSU-Microsoft 365) of abonnementen (voor OSA-Sell en OSU-Business Applications) kan slechts aan één partner worden gekoppeld.
 
 ## <a name="create-a-customer-association"></a>Een klantkoppeling maken
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer het tabblad **prikkels** , selecteer **overzicht** en selecteer vervolgens **klant koppelingen**.
+2. Selecteer het **tabblad Incentives,** selecteer **Overzicht** en selecteer vervolgens **Klant verbanden.**
 
-3. Selecteer boven aan de pagina klant koppelingen de optie **+ klant koppeling**.
+3. Selecteer boven aan de pagina Klantbindingen de optie **+ Klantbinding.**
 
-4. Selecteer de **MPN-ID** van de partnerlocatie die aan de klant moet worden gekoppeld en voeg vervolgens de domeinnaam en directory-id van de klant toe. [Dit zoeken](find-ids-and-domain-names.md)
+4. Selecteer de **MPN-ID** van de partnerlocatie die aan de klant moet worden gekoppeld en voeg vervolgens de domeinnaam en directory-id van de klant toe. [Zoek deze](find-ids-and-domain-names.md)
 
 5. Selecteer **Doorgaan**.
 
-6. Selecteer het **oplossings gebied** en de **activiteit**. 
+6. Selecteer het **gebied Oplossing en** **Activiteit**. 
 
    >[!Note]
    >
-   >Als u Business Applications selecteert, selecteert u **gebruik en/of** omzet, of **opbrengst koppeling**, en selecteert u vervolgens **door gaan**. 
+   >Als u Business Applications selecteert, selecteert u **Gebruik en/of** Verkoop vooraf of Omzet-associatie en selecteert u **vervolgens Doorgaan.**  
    <br><br>Als u Revenue association selecteert, wordt u gevraagd om iets andere informatie dan hieronder wordt weergegeven.
 
-7. Voer de juiste informatie in op de pagina **klant koppelen** en selecteer vervolgens **claim maken**.
+7. Voer de juiste informatie in op de **pagina Klant** koppelen en selecteer vervolgens **Claim maken.**
 
-8. Selecteer de producten die zijn gekoppeld aan deze klant koppeling en selecteer vervolgens **door gaan**.
+8. Selecteer de producten die zijn gekoppeld aan deze klantbinding en selecteer vervolgens **Doorgaan.**
 
 9. Vul de contactgegevens van de klant en van uw bedrijf in. Alle velden zijn verplicht. 
 
    >[!NOTE]
-   >Als uw product Dynamics 365 is en het product dat u hebt gekozen meerdere abonnementen heeft voor deze bepaalde klant, moet u ook de abonnements-ID invoeren.
+   >Als uw product Dynamics 365 is en het product dat u kiest meerdere abonnementen heeft voor deze specifieke klant, moet u ook de abonnements-id invoeren.
 
-10. Geef uw bewijs van uitvoering op (PoE). U kunt deze naar het vak slepen, naar uw eigen ondersteunende documentatie bladeren of een sjabloon gebruiken door **Download template** te selecteren. 
+10. Leveren van uw bewijs van uitvoering (PoE). U kunt deze naar het vak slepen, naar uw eigen ondersteunende documentatie bladeren of een sjabloon gebruiken door **Download template** te selecteren. 
 
 11. Voeg desgewenst opmerkingen toe en sla deze op voordat u **Submit claim** selecteert. Er wordt een e-mail verzonden naar de klant met het verzoek om goedkeuring voor de klantkoppeling.
 
    >[!NOTE]
-   >Wanneer u uw klant koppeling hebt ingediend, kunt u deze niet meer bewerken.
+   >Nadat u uw klantbinding hebt indienen, kunt u deze niet meer bewerken.
 
 De status van de klantkoppeling wordt weergegeven in het veld **Status**.
 

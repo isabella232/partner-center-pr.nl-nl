@@ -1,5 +1,5 @@
 ---
-title: Een Azure-abonnement overdragen naar een andere partner
+title: Een Azure-abonnement overdragen aan een andere partner
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,22 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b21bfcae4472763c19481ad506ae1c72d238e8f0
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 94f79762e7fabb377b8d7b559ff9ba2623b135fe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002895"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856063"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Meer informatie over het overdragen van Azure-abonnementen van een klant naar een andere partner
 
-**Van toepassing op**
+**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partnercentrum voor Microsoft Cloud for US Government
-
-**Juiste rollen**
-
-- Globale beheerder
+**Juiste rollen:** globale beheerder
 
 In dit artikel wordt beschreven hoe een klant zijn of haar Microsoft Azure services van de ene Cloud Solution Provider (CSP) naar de andere kan overstappen.
 
@@ -45,11 +41,11 @@ Volg deze handmatige stappen om de Azure-services of -abonnementen van een klant
 
    Maak een Azure-serviceticket van Partner Center om een abonnementsoverdracht aan te vragen:
 
-   1. Selecteer in Partner Center menu **Klanten,** selecteer uw klant in de lijst en selecteer **vervolgens Servicebeheer.**
+   1. Selecteer in Partner Center menu **Klanten,** selecteer uw klant in de lijst en selecteer vervolgens **Servicebeheer.**
 
-   2. Selecteer in **de sectie Ondersteuningstickets** de **vervolgkeuzekeuze** selecteren en kies **Microsoft Azure**.
+   2. Selecteer in **de sectie Ondersteuningstickets** de vervolgkeuzekeuzekaart Nieuw **ticket** en kies **Microsoft Azure**.
    
-   3. Selecteer in [Azure Portal](https://portal.azure.com)nieuwe **ondersteuningsaanvraag**.
+   3. Selecteer in [Azure Portal](https://portal.azure.com)de optie **Nieuwe ondersteuningsaanvraag.**
    
    4. Kies in Stap  1 Abonnementsbeheer als het type probleem, geef de abonnements-id op die u wilt overgedragen en kies **Cloud Solution Provider** als ondersteuningsplan.
    
@@ -63,7 +59,7 @@ Volg deze handmatige stappen om de Azure-services of -abonnementen van een klant
 
    - De contactgegevens van de huidige partner en de Microsoft-id. Selecteer in Partner Center menu Accountinstellingen  Organisatieprofiel en gebruik de &gt;  **Microsoft-id,** organisatienaam en het adres die hier worden vermeld. 
 
-   - De Microsoft-id van de klant. Selecteer in Partner Center menu Klanten **en** vouw vervolgens de vermelding van de klant uit om hun **Microsoft-id weer te geven.**
+   - De Microsoft-id van de klant. Selecteer in Partner Center menu Klanten **en** vouw vervolgens de vermelding van de klant uit om de **Microsoft-id weer te geven.**
 
    - De abonnements-id die moet worden overdragen. Selecteer in de uitgebreide lijst met klanten Abonnementen weergeven en vouw vervolgens het gekozen abonnement uit om de **abonnements-id** **te zien.**
 
@@ -94,7 +90,7 @@ Volg deze handmatige stappen om de Azure-services of -abonnementen van een klant
      ```
 
      >[!NOTE]
-     > De **tenant-id van de klant** wordt in Partner Center als de Microsoft-id van de **klant.** Als u de Microsoft-id (tenant-id) voor een specifieke klant wilt zoeken, meld u zich aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard). Selecteer vervolgens **Klanten** in het menu. Zoek de klant in de lijst. Selecteer de pijl-omlaag om de aanbieding van de klant uit te vouwen. U ziet informatie over de domeinnaam van de klant *en* de **Microsoft-id van de klant.** Gebruik de 16-cijferige **Microsoft-id** in de PowerShell-commandlet.
+     > De **tenant-id van de klant** wordt in de Partner Center als de Microsoft-id van de **klant.** Als u de Microsoft-id (tenant-id) voor een specifieke klant wilt zoeken, meld u zich aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard). Selecteer vervolgens **Klanten** in het menu. Zoek de klant in de lijst. Selecteer de pijl-omlaag om de aanbieding van de klant uit te vouwen. U ziet informatie over de domeinnaam van de klant *en* de **Microsoft-id van de klant.** Gebruik de 16-cijferige **Microsoft-id** in de PowerShell-commandlet.
 
    - Rollen voor het account weergeven, met inbegrip van eerdere CSP-partners:
 

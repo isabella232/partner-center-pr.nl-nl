@@ -9,22 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120763"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855774"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programma regionale markten en valuta's waarin u CSP-aanbiedingen kunt verkopen
 
-**Juiste rollen**
-
-- Globale beheerder
+**Juiste rollen:** globale beheerder
 
 De locatie van uw bedrijf bepaalt uw markt. Uw markt omvat de regio's en/of landen waar u aanbiedingen Cloud Solution Provider CSP-programma 's kunt verkopen.
 
-Als uw bedrijf zich bijvoorbeeld in de Verenigde Staten bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in de Verenigde Staten en op de Amerikaanse eilanden. Als uw bedrijf zich in Brazilië bevindt, kunt u CSP-aanbiedingen verkopen aan klanten alleen in Brazilië. Als uw bedrijf zich in de regio Afrika bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in alle 18 landen in de regio Afrika.
+Als uw bedrijf zich bijvoorbeeld in de Verenigde Staten bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in de Verenigde Staten en op de Amerikaanse eilanden. Als uw bedrijf zich in Brazilië bevindt, kunt u CSP-aanbiedingen alleen verkopen aan klanten in Brazilië. Als uw bedrijf zich in de regio Afrika bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in alle 18 landen in de regio Afrika.
 
 Voordat u CSP-aanbiedingen namens een klant kunt bestellen, moet de klant de Microsoft-klantovereenkomst. U vindt hier de toepasselijke Microsoft-klantovereenkomst voor uw [regio/land.](agreements.md)
 
@@ -33,7 +31,7 @@ Voordat u CSP-aanbiedingen namens een klant kunt bestellen, moet de klant de Mic
 Het Azure-plan voor CSP is beschikbaar in minder regio's dan Azure Software voor CSP. Zie Het Azure-abonnement kopen voor de meest recente updates over regionale beschikbaarheid voor [het Azure-abonnement.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> U moet bevestigen dat een klant de Microsoft-klantovereenkomst door informatie op te geven over de persoon die het heeft ondertekend. Zie [Bevestig dat een klant de Microsoft-klantovereenkomst](confirm-consent.md) voor meer informatie.
+> U moet bevestigen dat een klant de Microsoft-klantovereenkomst door informatie op te geven over de persoon die het heeft ondertekend. Zie [Confirm a customer's acceptance of the Microsoft-klantovereenkomst (Bevestigen dat](confirm-consent.md) een klant de Microsoft-klantovereenkomst voor meer informatie.
 
 Als u wilt bepalen waar u CSP-aanbiedingen kunt verkopen, vindt u de locatie van uw bedrijf in een van de onderstaande lijsten. U moet een actieve MPN Microsoft Partner Network-id hebben voor de locatie waarin u wilt verkopen.  
 

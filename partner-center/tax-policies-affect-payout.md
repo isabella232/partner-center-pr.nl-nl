@@ -7,20 +7,16 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 343db43633245030a5eba213cb5c8b79d09a7dee
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: a93e94912f840e4cb69c3cc834f03af1b34f19aa
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686310"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856012"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Hoe belastingbeleid van invloed is op uitbetaling voor Azure Marketplace
 
-**Juiste rollen**
-
-- Globale beheerder
-- Beheerder van gebruikersbeheer
-- Beheeragent
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent
 
 ## <a name="introduction"></a>Introductie
 
@@ -55,7 +51,7 @@ Zie Abonnementen en prijzen voor commerciële marketplace-aanbiedingen voor meer
 
 ## <a name="foreign-publisher-transacts-with-us-customer"></a>Foreign Publisher Transacts with US Customer
 
-**Scenario D:** alle foreign publishers (zoals gedefinieerd door hun Partner Center Tax Profile Information) in landen zonder een Amerikaanse verantwoordelijke (zie [Scenario E](#foreign-publisher-with-a-treaty-transacts-with-us-customer)) die een verkoop aan een Amerikaanse klant maakt (zoals gedefinieerd door het adres van hun klantaccount). De Amerikaanse overheid vereist dat Microsoft bronbelasting int namens de uitgever. De belasting die wordt ingehouden van uitbetaling aan de uitgever wordt berekend op basis van de prijs van de aanbieding.
+**Scenario D:** alle vreemde uitgevers (zoals gedefinieerd door hun Partner Center Tax Profile Information) in landen zonder een Amerikaanse verantwoordelijke (zie [Scenario E](#foreign-publisher-with-a-treaty-transacts-with-us-customer)) die een verkoop aan een Amerikaanse klant maakt (zoals gedefinieerd door het adres van hun klantaccount). De Amerikaanse overheid vereist dat Microsoft bronbelasting int namens de uitgever. De belasting die wordt ingehouden van uitbetaling aan de uitgever wordt berekend op basis van de prijs van de aanbieding.
 
 :::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="Toont de werkstroom voor uitbetalingsprocesscenario D.":::
 
@@ -71,9 +67,9 @@ Zie Abonnementen en prijzen voor commerciële marketplace-aanbiedingen voor meer
 
 :::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="Toont de werkstroom voor uitbetalingsprocesscenario F.":::
 
-## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>Een vreemde uitgever verkoopt aan een in de EU geregistreerde klant in een door Microsoft beheerd land (in Ierland)
+## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>Een vreemde uitgever verkoopt aan een in de EU geregistreerde klant met btw in een door Microsoft beheerd land (in Ierland)
 
-**Scenario G:** alle transacties tussen internationale uitgevers en eu-klanten met btw-registratie (binnen Ierland) in een Microsoft-Managed land. De klant betaalt Btw en Microsoft betaalt deze belasting aan de Amerikaanse overheid.
+**Scenario G:** alle transacties tussen internationale uitgevers en eu-klanten die zijn geregistreerd voor btw (binnen Ierland) in een Microsoft-Managed land. De klant betaalt de btw en Microsoft betaalt deze belasting aan de Amerikaanse overheid.
 
 :::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="Toont de werkstroom voor uitbetalingsprocesscenario G.":::
 

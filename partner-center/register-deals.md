@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172424"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855740"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registreer deals die u hebt gewonnen in Partner Center zodat u later meer verkoopkansen kunt krijgen
 
-**Juiste rollen**
-
-- Verwijzingsbeheerder
+**Juiste rollen:** Verwijzingsbeheerder
 
 U kunt deals die u hebt gewonnen in Partner Center door aanvullende informatie over het contract op te geven. Deze informatie helpt ons om u in de toekomst meer mogelijkheden te bieden.
 
@@ -38,7 +36,7 @@ Geef op **de pagina** Nieuwe deal de volgende informatie op.
 - **Oplossing:** selecteer de oplossing die wordt gebruikt voor de deal. Als u de juiste oplossing niet ziet, neem dan contact op met de ondersteuning.
 - **Contracttype:** geef op of dit een **nieuw** contract of een **verlenging van** een eerder contract is.
 - **Totale contractwaarde:** de totale verwachte waarde voor de overeenkomst. Dit omvat alle kosten voor software en service, maar niet de hardwarekosten. Zorg ervoor dat u de juiste valuta selecteert.
-- **Oplossingswaarde:** de totale waarde van de cloudoplossing die voor de deal wordt gebruikt. Vergeet niet alle kosten op te nemen die zijn gekoppeld aan software- en onderhoudskosten, maar niet de kosten voor het opnieuw betalen van items, niet-terugkerende aanpassingskosten of rechtstreeks gekoppelde CSP-licentiekosten die door Microsoft worden betaald.
+- **Oplossingswaarde:** de totale waarde van de cloudoplossing die wordt gebruikt voor de deal. Vergeet niet alle kosten op te nemen die zijn gekoppeld aan software- en onderhoudskosten, maar niet de kosten voor het opnieuw betalen van items, niet-terugkerende aanpassingskosten of rechtstreeks gekoppelde CSP-licentiekosten die door Microsoft worden betaald.
 - **Geïmplementeerd op**: selecteer **Azure** of **Overige.**
 - **Waar wordt de oplossing geïmplementeerd?**: Selecteer de **tenant Klant** of **de Partner-tenant.**
 - **Begindatum van contract:** de datum waarop het contract begint. Gebruik voor betalen per gebruik-deals de datum van de eerste factuur.

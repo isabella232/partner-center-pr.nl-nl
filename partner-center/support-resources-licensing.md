@@ -8,18 +8,16 @@ description: Als Microsoft-partner hebt u mogelijk vragen over het gebruik van v
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 7343e6b234fed9107689f451d23cd3a74c0c389f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002892"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856080"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Gids voor het nemen van licenties voor resources voor Microsoft-partners 
 
-**Juiste rollen**
-
-- Help-agent
+**Juiste rollen:** Help-agent
 
 In dit artikel vindt u informatiebronnen die u kunnen helpen bij het beantwoorden van vragen over partnerlicenties.
 
@@ -27,7 +25,7 @@ Als Microsoft-partner bent u mogelijk betrokken bij een of meer licentieprogramm
 
 Aan elk programma zijn specifieke overeenkomsten en voorwaarden gekoppeld. Op dezelfde manier hebben de specifieke producten die u gebruikt mogelijk aanvullende, productspecifieke licentieovereenkomsten die zijn gekoppeld aan het gebruik ervan.
 
-Als u vragen hebt over de manier waarop deze programma's werken, kunnen deze resources helpen.
+Als u vragen hebt over de manier waarop deze programma's werken, kunnen deze resources u helpen.
 
 > [!NOTE]
 > Als u hulp nodig hebt bij gedetailleerdere vragen over licenties of met een prijsopgave van een klant, begint u met de toegewezen indirecte provider van uw licentieprogramma (voor het CSP-programma) of uw programmadistributeur. Ze zijn vaak de beste, eerste contactpunten voor specifieke licentievragen of voor vragen over het maken van klantaanhalingen, SKU-aankopen of vereisten. Zie Een partner zoeken om er een te vinden als u geen [partner](find-a-partner.md) hebt die deze rol voor u dient.
@@ -56,9 +54,9 @@ Mogelijk vindt u deze andere resources nuttig. Voor toegang tot sommige van deze
 
 |Functie  | Leest u  |
 |:------------------|:--------------- |
-|Bekijk of download de huidige versie van microsoft-productvoorwaarden voor producten of services in het Microsoft Volume Licensing-programma. | [Zoek uw product of service of](https://www.microsoft.com/licensing/terms/) zoek [hier](http://www.microsoftvolumelicensing.com/)  |
+|Bekijk of download de huidige versie van microsoft-productvoorwaarden voor producten of services in het Microsoft Volume Licensing-programma. | [Zoek hier naar uw product of service](https://www.microsoft.com/licensing/terms/) of zoek [hier](http://www.microsoftvolumelicensing.com/)  |
 |Meer informatie over het Software Assurance en de bijbehorende licentie, samen met de manier waarop betaling en betaling werken.  | [Overzicht van softwaregarantie](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) [of Software Assurance voordelen en vereisten](software-assurance-lp.md) |
-|Bekijk de details over de rechten of voordelen van intern MPN-gebruik.  | [handleiding Microsoft Partner Network programma's](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
+|Bekijk de details over de rechten of voordelen voor intern gebruik van MPN.  | [handleiding Microsoft Partner Network programma's](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
 |Zoek OEM-partnermateriaal zoals pre-installatiekits of training.  | [Microsoft Device Partner Center](https://devicepartner.microsoft.com/)  |
 |Beantwoord gebruiksvragen voor OEM-klanten of retailklanten (ook wel bekend als full packaged product- of FPP-klanten). Dit is voor klanten van wie de software aan hen is gelicentieerd door Microsoft of een computerfabrikant. *(Deze voorwaarden zijn niet van toepassing op klanten in het volumelicentieprogramma.)*  | [Gebruiksvoorwaarden voor retail (FPP)](https://www.microsoft.com/useterms)  |
 
@@ -76,21 +74,21 @@ Als u specifieke vragen hebt over de uitvoering, betaling of het betalen van lic
 
 ## <a name="more-resources-to-help-with-price-lists-customer-deals-license-activation-or-credits"></a>Meer bronnen voor hulp bij prijslijsten, klantdeals, licentieactivering of tegoed
 
-Uw indirecte provider (voor het CSP-programma) of de distributeur van uw programma moet u kunnen helpen bij het beantwoorden van veel van uw specifieke vragen over licenties of het doen van klantdeals. De volgende resources kunnen u ook helpen.
+Uw indirecte provider (voor het CSP-programma) of uw programmadistributeur moet u kunnen helpen bij het beantwoorden van veel van uw specifieke vragen over licenties of het doen van klantdeals. De volgende resources kunnen u ook helpen.
 
 |Functie  | Raadpleeg  |
 |:------------------|:--------------- |
 |Een partner of distributeur zoeken | [Een partner zoeken die u kan helpen](find-a-partner.md)  |
-|Prijzen en aanbiedingen van het CSP-programma weergeven Partner Center dashboard (moet zijn ingeschreven bij het *CSP-programma om dit dashboard te zien)*  |[CSP-prijzen en -aanbiedingen: overzicht](pricing-and-offers.md) of [CSP-documenten en -resources](csp-documents-and-learning-resources.md) |
+|Prijzen en aanbiedingen van het CSP-programma weergeven via Partner Center dashboard (moet zijn ingeschreven in het *CSP-programma om dit dashboard te zien)*  |[CSP-prijzen en -aanbiedingen: overzicht](pricing-and-offers.md) of [CSP-documenten en resources](csp-documents-and-learning-resources.md) |
 |Marketingmateriaal verkennen om te helpen bij een klantdeal  | [Gereedheidsmateriaal voor MPN-partners](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
-|Hulp krijgen van Microsoft Technical Presales and Deployment Services voor een klantdeal of online case  | [Overzicht van services voor technische presales en implementatie](https://partner.microsoft.com/training/technical-presales-deployment-services) of [ondersteuning](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
+|Hulp krijgen van Microsoft Technical Presales and Deployment Services voor een klantdeal of online case  | [Overzicht van technische presales en implementatieservices](https://partner.microsoft.com/training/technical-presales-deployment-services) of [ondersteuningsoverzicht](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
 |Meer informatie over het activeren Microsoft Azure in Open Licensing   | [Veelgestelde vragen over onlineserviceactivering voor open programma's](/licensing/online-service-activation-faq)  |
 |Hoe en wanneer u een SLA-tegoed van Microsoft kunt berekenen en aanvragen voor klanten die worden beïnvloed door een storing  | [Een SLA-tegoed aanvragen voor een storing](request-credit.md)   |
-|Hulp krijgen van de Microsoft-partner community  | [Communityforum voor Microsoft-partners](https://www.microsoftpartnercommunity.com)  |
+|Hulp krijgen van de Microsoft-partner community  | [Microsoft Partner Community-forum](https://www.microsoftpartnercommunity.com)  |
 
 ## <a name="help-from-microsoft-support"></a>Hulp van Microsoft-ondersteuning
 
-Als Microsoft-partner kunt u om hulp vragen van andere partners die betrokken zijn bij uw succes. U kunt ook om hulp vragen bij Microsoft-ondersteuning. Ondersteuningsexperts zijn beschikbaar om u te helpen bij problemen met partnerprogramma's, hulp bij de presales, problemen met Microsoft-producten, factureringsvragen en meer.
+Als Microsoft-partner kunt u om hulp vragen van andere partners die betrokken zijn bij uw succes. U kunt ook om hulp vragen bij Microsoft-ondersteuning. Ondersteuningsexperts zijn beschikbaar om u te helpen bij problemen met partnerprogramma's, hulp bij presales, problemen met Microsoft-producten, vragen over facturering en meer.
 
 Ga naar [Microsoft Partner-ondersteuning om](https://partner.microsoft.com/support/?stage=1) uw ondersteuningsopties weer te geven of om een ondersteuningsticket te starten.
 
@@ -98,5 +96,5 @@ Ga naar [Microsoft Partner-ondersteuning om](https://partner.microsoft.com/suppo
 
 - [Meer ondersteuningsresources weergeven](https://partner.microsoft.com/support/?stage=1)
 - [Een partner zoeken](find-a-partner.md)
-- [Meer informatie over of inschrijven in het MPN-programma](https://partner.microsoft.com/membership)
+- [Meer informatie over of registreren in het MPN-programma](https://partner.microsoft.com/membership)
 - [Meer informatie over of inschrijven in het CSP-programma](https://partner.microsoft.com/membership/cloud-solution-provider)

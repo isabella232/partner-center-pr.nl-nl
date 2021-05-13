@@ -2,107 +2,101 @@
 title: Kostentypen voor afstemmingsbestanden
 ms.topic: article
 ms.date: 06/05/2020
-description: Ontdek de typen kosten (zoals, op gebruik gebaseerde en eenmalige), tegoeden en kortingen in Partner Center-afstemmings bestanden.
+description: Ontdek de typen kosten (zoals op licentie gebaseerd, op gebruik gebaseerd en een keer), tegoeden en kortingen in Partner Center afstemmingsbestanden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441590"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855876"
 ---
-# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Meer informatie over de verschillende kosten typen in Partner Center reconciliatie bestanden
+# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Inzicht in de verschillende kostentypen in Partner Center afstemmingsbestanden
 
-**Van toepassing op**
+**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partnercentrum voor Microsoft Cloud for US Government
+**Juiste rollen:** beheeragent | Factureringsbeheerder | Globale beheerder
 
-**Juiste rollen**
+In dit artikel worden de toewijzingen beschreven tussen een factuursectie en de bijbehorende kostentypen die mogelijk in uw afstemmingsbestand staan. Uw factuur bevat een overzicht van de kosten. Uw afstemmingsbestand biedt een gedetailleerde uitsplitsing van line-itemtransacties, inclusief kostentypen. Zie afstemmingsbestanden gebruiken voor meer informatie [over afstemmingsbestanden.](use-the-reconciliation-files.md)
 
-- Beheer agent
-- Factureringsbeheerder
-- Globale beheerder
-
-In dit artikel worden de toewijzingen beschreven tussen een factuur gedeelte en gekoppelde kosten typen die mogelijk in uw afstemmings bestand staan. Uw factuur bevat een samen vatting van de kosten. Uw afstemmings bestand bevat een gedetailleerde verdeling van trans acties met regel items, inclusief kosten typen. Zie [reconciliatie bestanden gebruiken](use-the-reconciliation-files.md)voor meer informatie over het afstemmen van bestanden.
-
-Zowel [afstemmings bestanden op basis van gebruik](usage-based-recon-files.md) en [afstemmings bestanden op basis van een licentie](license-based-recon-files.md) geven alleen gebruiks gerelateerde trans acties en kosten (verbruikte eenheden en gerelateerde kosten) weer.
+Beide [afstemmingsbestanden](usage-based-recon-files.md) [](license-based-recon-files.md) op basis van gebruik en afstemmingsbestanden op basis van licenties tonen alleen gebruiksgerelateerde transacties en kosten (verbruikte eenheden en gerelateerde kosten).
 
 > [!NOTE]
-> Eenmalige kredieten, kortingen of terugstortingen die worden weer gegeven op de factuur als **aanpassingen** , worden niet weer gegeven in het afstemmings bestand.
+> Eenmalige tegoeden, kortingen of restituties die op de factuur worden weergegeven als **Aanpassingen** worden niet weergegeven in het afstemmingsbestand.
 
-## <a name="map-charge-types-to-invoice-charges"></a>Kosten typen toewijzen aan facturerings kosten
+## <a name="map-charge-types-to-invoice-charges"></a>Kostentypen aan factuurkosten toe te rekenen
 
-Gebruik de filter opties in micro soft Excel om de bedragen te verdelen tussen uw factuur-en afstemmings bestand. Filter op kosten typen in het afstemmings bestand om de kosten van de factuur toe te wijzen aan een set toeslag uitsplitsingen in het afstemmings bestand.
+Als u wilt verwijzen naar kostenbedragen tussen uw factuur- en afstemmingsbestand, gebruikt u de filteropties in Microsoft Excel. Filter op kostentypen in uw afstemmingsbestand om de factuurkosten toe te rekenen aan een set kosteninsplitsingen op het afstemmingsbestand.
 
 ## <a name="license-based-charges"></a>Kosten op basis van licenties
 
-Als u deze kosten op basis van licenties aan uw factuur wilt toewijzen, moet u de kolom **bedrag** in het bestand op basis van licentie optellen.
+Als u deze op licenties gebaseerde kosten wilt toevoegen aan uw factuur, somt u de kolom **Amount** uit het op licenties gebaseerde bestand op.
 
-| Beschrijving van kosten (kolom ChargeType in afstemmings bestand) | Uitleg bij kosten |
+| Beschrijving van kosten (kolom ChargeType in afstemmingsbestand) | Uitleg over kosten |
 | ------------------------------------------------------------- | ------------------ |
-| Activerings kosten | De hoeveelheid die bij de klant in rekening wordt gebracht wanneer deze na de aankoop gebruikmaakt van het abonnement. |
-| Annulerings kosten | Gefactureerde kosten worden aan de klant gerestitueerd wanneer de gekoppelde licenties worden gewijzigd. |
-| Exemplaar van prorente annuleren | Gefactureerde kosten worden geannuleerd wanneer de klant met een maandelijks abonnement abonnementen heeft opgeschort en de bijbehorende licenties zijn gewijzigd binnen dezelfde maand. |
-| Cyclus kosten | Periodieke kosten voor een abonnement. |
-| Cyclus exemplaar prorente | De geraamde kosten die van de klant worden berekend wanneer de gekoppelde licenties worden gewijzigd. |
-| Tarief vergoedingen wanneer annuleren | Gefactureerde restitutie voor ongebruikt servicef onderdeel na annulering. |
-| Kosten evenredigheid bij het converteren van de huidige aanbieding | Gefactureerde kosten na de conversie van het huidige maandelijkse abonnement op een jaar abonnement. |
-| Kosten per tarief bij conversie naar een nieuwe aanbieding | Gefactureerde kosten nadat een maandelijks abonnement is geconverteerd naar een nieuw jaarlijks abonnement. |
-| Tarief vergoedingen bij aankoop | Het type kosten voor een abonnement bij het gebruik van zowel maandelijkse als jaarlijkse facturering. |
-| Tarief vergoeding bij verlenging | Gefactureerde kosten bij het verlengen van het abonnement. |
-| Kosten verlengen | Kosten voor het vernieuwen van een abonnement |
-| Tarief vergoedingen bij activeren | Gefactureerde kosten van de Activering tot het einde van de facturerings periode. |
+| Activeringskosten | Het bedrag dat aan de klant wordt in rekening gebracht wanneer deze het abonnement na aankoop gebruikt. |
+| Kosten annuleren | Pro rated charges refunded to the customer when associated licenses are changed. |
+| Prorate instantie annuleren | Naar gebruik geannuleerde kosten wanneer een klant met een maandelijks abonnement het abonnement heeft opgeschort en gekoppelde licenties binnen dezelfde maand is gewijzigd. |
+| Cycluskosten | Periodieke kosten voor een abonnement. |
+| Prorate cyclus-exemplaar | Pro rated charges assessed from the customer when associated licenses are changed. |
+| Prorate kosten bij annuleren | Prorated refund for unused portion of service bij annulering. |
+| Prorate fees when convert away from current offering (Prorate-kosten bij het omzetten van de huidige aanbieding) | Naar rekening gebrachte kosten na het omzetten van het huidige maandelijkse abonnement naar een jaarlijks abonnement. |
+| Prorate fees when convert to a new offering (Prorate-kosten bij conversie naar een nieuwe aanbieding) | Naar rekening gebrachte kosten na het converteren van een maandelijks abonnement naar een nieuw jaarlijks abonnement. |
+| Prorate kosten bij aankoop | Het kostentype voor een abonnement wanneer u zowel maandelijkse als jaarlijkse facturering gebruikt. |
+| Prorate fee when renew (Prorate fee bij vernieuwen) | Pro rated kosten bij abonnementsvernieuwing. |
+| Kosten voor vernieuwen | Kosten voor het verlengen van een abonnement |
+| Prorate fees when activate (Prorate-kosten bij activeren) | Pro factureringskosten vanaf activering tot het einde van de factureringsperiode. |
 
-## <a name="one-time-charges"></a>Eenmalige kosten
+## <a name="one-time-charges"></a>Eenkosten voor één keer
 
-Als u deze eenmalige kosten aan uw factuur wilt toewijzen, moet u de kolom **bedrag** in het bestand op basis van licentie optellen.
+Als u deze een time-kosten wilt toevoegen aan uw factuur, somt u de kolom **Amount** uit het op licenties gebaseerde bestand op.
 
-| Beschrijving van kosten (kolom ChargeType in afstemmings bestand) | Uitleg bij kosten |
+| Beschrijving van kosten (kolom ChargeType in afstemmingsbestand) | Uitleg over kosten |
 | ------------------------------------------------------------- | ------------------ |
 | Nieuw | Wordt gebruikt wanneer een nieuwe aankoop wordt gemaakt. |
-| addQuantity | Wordt gebruikt in de restitutie van de oorspronkelijke aankoop en de nieuwe hoeveelheid na een verhoging. |
-| removeQuantity | Wordt gebruikt in de restitutie van de oorspronkelijke aankoop en de nieuwe hoeveelheid na een afname. |
+| addQuantity | Wordt gebruikt in zowel de restitutie van de oorspronkelijke aankoop als de nieuwe hoeveelheid na een verhoging. |
+| removeQuantity | Wordt gebruikt in zowel de restitutie van de oorspronkelijke aankoop als de nieuwe hoeveelheid na een afname. |
 | Annuleren | Wordt gebruikt wanneer een abonnement wordt geannuleerd. |
-| Converteren | Wordt gebruikt wanneer een licentie wordt bijgewerkt, maar het aantal licenties blijft ongewijzigd. |
+| Converteren | Wordt gebruikt wanneer een licentie wordt bijgewerkt, maar het aantal licenties ongewijzigd blijft. |
 
 ## <a name="usage-charges"></a>Gebruikskosten
 
-Als u deze gebruiks kosten aan uw factuur wilt toewijzen, moet u de kolom **PretaxCharges** in het op gebruik gebaseerde bestand opsommen.
+Als u deze gebruikskosten wilt toevoegen aan uw factuur, somt u de kolom **PretaxCharges** op uit het bestand op basis van gebruik.
 
-| Beschrijving van kosten (kolom ChargeType in afstemmings bestand) | Uitleg bij kosten |
+| Beschrijving van kosten (kolom ChargeType in afstemmingsbestand) | Uitleg over kosten |
 | ------------------------------------------------------------- | ------------------ |
-| Gebruiks kosten evalueren bij annuleren | Toegang tot gebruiks kosten na annulering voor onbetaald gebruik tijdens de huidige facturerings periode. |
-| Gebruiks kosten evalueren voor de huidige cyclus | Gebruiks kosten voor de huidige facturerings periode. |
+| Gebruikskosten beoordelen wanneer u annuleert | Toegang tot gebruikskosten na annulering van onbetaald gebruik tijdens de huidige factureringsperiode. |
+| Gebruikskosten voor de huidige cyclus beoordelen | Toegangskosten voor de huidige factureringsperiode. |
 
 ### <a name="credits"></a>Tegoeden
 
-Deze tegoeden toewijzen aan uw factuur:
+Deze tegoeden aan uw factuur toe te wijsen:
 
-- Som van de **TotalForCustomer** van het bestand op basis van licentie.
-- Som van de kolom **PostTaxTotal** van het bestand op basis van gebruik.
+- Som de **TotalForCustomer op** uit het op licenties gebaseerde bestand.
+- Som de **kolom PostTaxTotal** op uit het bestand op basis van gebruik.
 
-| Beschrijving van kosten (kolom ChargeType in afstemmings bestand) | Uitleg bij kosten |
+| Beschrijving van kosten (kolom ChargeType in afstemmingsbestand) | Uitleg over kosten |
 | ------------------------------------------------------------- | ------------------ |
-| Verschuiving van een regel item | Gedeeltelijke of volledige restitutie voor een regel item, inclusief BTW. |
+| Een regelitem verschoven | Gedeeltelijke of volledige restitutie voor een regelitem, inclusief belastingen. |
 
 ### <a name="usage-based-discounts"></a>Kortingen op basis van gebruik
 
-Als u deze op gebruik gebaseerde kortingen wilt toewijzen aan uw factuur, kunt u de kolom **PretaxCharges** van het bestand op basis van gebruik opsommen.
+Als u deze kortingen op basis van gebruik wilt toevoegen aan uw factuur, somt u de **kolom PretaxCharges** op uit het bestand op basis van gebruik.
 
-| Beschrijving van kosten (kolom ChargeType in afstemmings bestand) | Uitleg bij kosten |
+| Beschrijving van kosten (kolom ChargeType in afstemmingsbestand) | Uitleg over kosten |
 | ------------------------------------------------------------- | ------------------ |
-| Activerings korting | Korting toegepast wanneer het abonnement wordt geactiveerd. |
-| Cyclus korting | Korting toegepast op periodieke kosten. |
-| Korting vernieuwen | Korting toegepast wanneer het abonnement wordt verlengd. |
-| Korting annuleren | Kosten worden toegepast wanneer kortingen worden geannuleerd. |
+| Activeringskorting | Korting die wordt toegepast wanneer het abonnement is geactiveerd. |
+| Cycluskorting | Korting toegepast op periodieke kosten. |
+| Korting vernieuwen | Korting die wordt toegepast wanneer het abonnement wordt verlengd. |
+| Korting annuleren | Kosten die worden toegepast wanneer kortingen worden geannuleerd. |
 
 ### <a name="license-based-discounts"></a>Kortingen op basis van licenties
 
-Als u kortingen op basis van licenties aan uw factuur wilt toewijzen, moet u de kolom **TotalOtherDiscount** in het bestand op basis van licentie opsommen.
+Als u kortingen op basis van licenties wilt toevoegen aan uw factuur, somt u de **kolom TotalOtherDiscount** op uit het op licenties gebaseerde bestand.
 
-*Kortingen op basis van licenties kunnen worden toegepast op meerdere kosten typen.*
+*Op licenties gebaseerde kortingen kunnen worden toegepast op meerdere kostentypen.*

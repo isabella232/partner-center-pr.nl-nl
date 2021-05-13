@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d84f67edd38b9e8f665a18699fb1f03c9888549d
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712495"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855825"
 ---
 # <a name="registration-id-number-information"></a>Informatie over registratie-id-nummer
 
-**Juiste rollen**
-
-- Globale beheerder
+**Juiste rollen:** globale beheerder
  
 Als u een indirecte provider, directe factuurpartner of indirecte reseller bent en u zaken doet met nieuwe of bestaande klanten in de volgende landen, moet u registratie-id-nummers voor uw bedrijf verstrekken. We gebruiken de registratie-id om de details van uw account te controleren. Als het land waarin u zaken doet niet hieronder wordt vermeld, is de registratie-id optioneel.
 
@@ -28,10 +26,10 @@ Als u een indirecte provider, directe factuurpartner of indirecte reseller bent 
 
 | **Land of regio** | **Details** |
 |:--|:--|
-| **Armenië** | INN – Btw-nummer<br>Btw-nummer: ook wel een btw-registratienummer genoemd. Dit is het unieke nummer dat een bebelastingspersoon (zakelijk) of niet-belastbare juridische entiteit identificeert die is geregistreerd voor btw.<br>Openbaar servicenummer |
+| **Armenië** | INN – Btw-nummer<br>Btw-nummer: ook wel een btw-registratienummer genoemd. Deze waarde is het unieke nummer dat een bebelastingspersoon (zakelijk) of niet-belastbare juridische entiteit identificeert die is geregistreerd voor btw.<br>Openbaar servicenummer |
 | **Azerbeidzjan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Btw-nummer<br>INN – Btw-nummer |
-| **Belarus**  | UNP: dit is een getal van negen cijfers (numeriek voor organisaties, alfanumeriek voor personen) dat een regio-id, een serienummer per regio en een controlecijfer bevat. |
-|**Brazilië** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurïdica of National Registry of Legal Entities). Dit is een identificatienummer dat is uitgegeven aan Braziliaans bedrijven door het Ministerie van Federale omzet van Brazilië  |
+| **Belarus**  | UNP: deze waarde is een getal van negen cijfers (numeriek voor organisaties, alfanumeriek voor personen) dat een regio-id, een serienummer per regio en een controlecijfer bevat. |
+|**Brazilië** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurïdica of National Registry of Legal Entities). Deze waarde is een identificatienummer dat is uitgegeven aan Braziliaans bedrijven door het Ministerie van Federale omzet van Brazilië  |
 | **China** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – Btw-nummer |
 | **Hongarije**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – Btw-nummer |
 | **India** | Btw-nummer<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Presence AcrossSturingssystemen) PAN India Involvement betekent dat er één organisatie is die op verschillende locaties in India werkt. |
@@ -45,11 +43,11 @@ Als u een indirecte provider, directe factuurpartner of indirecte reseller bent 
 | **Saoedi-Arabië** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Belastingidentificatienummer |
 | **Zuid-Afrika** | TRN: registratienummer voor verkeer |
 | **Zuid-Soedan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer |
-| **Tadzjikistan**  | INN – Btw-nummer<br>EIN – Identificatienummer van werkgever<br>KPP: dit is een code die de reden voor de organisatieregistratie weerspiegelt. |
+| **Tadzjikistan**  | INN – Btw-nummer<br>EIN – Identificatienummer van werkgever<br>KPP: deze waarde is een code die de reden voor de organisatieregistratie weerspiegelt. |
 | **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer |
 | **Turkije** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Belastingidentificatienummer<br>Nin |
 | **Oekraïne**  | EGRPOU<br>EDRPOU : lokale id |
-| **Verenigde Arabische Emiraten** | Btw-nummer<br>[Btw-nummer:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) ook wel een btw-registratienummer genoemd. Dit is het unieke nummer dat een bebelastingspersoon (zakelijk) of niet-belastbare juridische entiteit identificeert die is geregistreerd voor btw. |
+| **Verenigde Arabische Emiraten** | Btw-nummer<br>[BTW-nummer:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) ook wel een btw-registratienummer genoemd. Deze waarde is het unieke nummer dat een bebelastingspersoon (zakelijk) of niet-belastbare juridische entiteit identificeert die is geregistreerd voor btw. |
 | **Verenigde Staten** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Identificatienummer van werkgever |
 | **Oezbekistan**  | INN – Btw-nummer |
 | **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |
@@ -59,7 +57,7 @@ Als u een indirecte provider, directe factuurpartner of indirecte reseller bent 
  
 Voor landen waar het registratienummer verplicht is, geeft het label boven het tekstvak aan welk type nummer is vereist, afhankelijk van het land, bijvoorbeeld TIN (btw-identificatienummer) of TRN (registratienummer voor verkeer).
 
-Als het registratienummer optioneel is, voert u de registratie-id van het bedrijf in. Voer geen persoonlijke id in.
+Als het registratienummer optioneel is, voert u de bedrijfsregistratie-id in. Voer geen persoonlijke id in.
 
 ## <a name="next-steps"></a>Volgende stappen
 
