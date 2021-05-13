@@ -1,69 +1,64 @@
 ---
-title: Aanbiedingen gebruiken om klanten aan te trekken
+title: Promoties gebruiken om klanten aan te trekken
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ontdek hoe micro soft-partners in het Cloud Solution Provider-programma abonnementen kunnen kopen tegen prijs stelling en besparen op hun klanten.
+description: Ontdek hoe Microsoft-partners in het Cloud Solution Provider-programma abonnementen kunnen kopen tegen promotieprijzen en hun klanten kunnen besparen.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215863"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854975"
 ---
-# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Gebruik promoties om nieuwe klanten aan te trekken en de besparingen eraan door te geven
+# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Promoties gebruiken om nieuwe klanten aan te trekken en de besparingen door te geven
 
 
 
-**Juiste rollen**
-
-- Beheer agent
-- MPN-partner beheerder
-- Factureringsbeheerder
-- Verkoop agent
+**Juiste rollen:** beheeragent | Beheeraccount van MPN-| Factureringsbeheerder | Verkoopagent
 
 
-Micro soft biedt u af en toe promoties op abonnementen op basis van licenties, zodat u de besparingen kunt door geven aan klanten en uw bedrijf verder kunt laten groeien. 
+Microsoft biedt af en toe promoties voor op licenties gebaseerde abonnementen, zodat u de besparingen kunt doorgeven aan klanten en uw bedrijf kunt laten groeien. 
 
-Micro soft biedt twee soorten promoties: die beschikbaar zijn voor alle in aanmerking komende partners in het Cloud Solution Provider-programma (CSP) en die alleen beschikbaar zijn voor partners in een bepaalde geografische regio.
+Microsoft biedt twee soorten promoties: die beschikbaar zijn voor alle in aanmerking komende partners in het Cloud Solution Provider-programma (CSP) en die alleen beschikbaar zijn voor partners in een bepaalde geografische regio.
 
-Promotie prijzen worden automatisch toegepast op uw netto-prijs wanneer u nieuwe abonnementen aanschaft tegen de prijs van de promotie. Daarnaast worden de licenties die u toevoegt aan een abonnement dat is gekocht met promotie prijzen, toegevoegd tegen de prijs van de promotie. 
+Promotieprijzen worden automatisch toegepast op uw nettoprijs wanneer u nieuwe abonnementen koopt tegen de promotieprijs. Bovendien worden alle licenties die u toevoegt aan een abonnement dat is aangeschaft met promotieprijzen, toegevoegd tegen de promotieprijs. 
 
-Neem even de tijd om de belang rijke feiten over promoties te bekijken:
+Neem even de tijd om deze belangrijke feiten over promoties te bekijken:
 
-- De promotie prijs van een abonnement geldt alleen voor de duur van het abonnement. Wanneer een abonnement dat u hebt aangeschaft met promotie prijzen verloopt, wordt de prijs van het verlengings abonnement teruggezet op de prijs in de lijst met prijzen. Dit betekent dat de abonnementen die zijn ingesteld voor automatische verlenging, worden verlengd tegen de geldende prijs. U kunt de prijs lijst vinden op de pagina **prijzen en aanbiedingen** .
+- De promotieprijs van een abonnement geldt alleen voor de duur van het abonnement. Wanneer een abonnement dat u hebt aangeschaft met aanbiedingsprijzen is verlopen, wordt de prijs van het verlengingsabonnement terug gezet op de prijs in de prijslijst. Dit betekent dat alle abonnementen die zijn ingesteld voor automatische verlenging, worden verlengd tegen de geldende prijs. U vindt de prijslijst op de **pagina Prijzen en** aanbiedingen.
 
-- Als een abonnement in aanmerking komt voor meerdere promoties, wordt de promotie met het hoogste percentage automatisch toegepast.
+- Als een abonnement in aanmerking komt voor meerdere promoties, wordt de promotie met het hoogste percentage uitgeschakeld automatisch toegepast.
 
-- Annuleringen van abonnementen met promotie prijzen volgen hetzelfde proces en beleid als abonnementen met regel matige prijzen.
+- Annuleringen van abonnementen met een promotieprijs volgen hetzelfde proces en beleid als abonnementen die regelmatig worden geprijsd.
 
 ## <a name="see-available-promotions"></a>Beschikbare promoties bekijken
 
-U kunt op de pagina **Promoties** zien voor welke promoties u in aanmerking komt. Selecteer **acties** in het menu van het **partner centrum** om een lijst met huidige promoties en de korting, het promotie type en de start-en eind datum voor het abonnement weer te geven. Als er geen promoties beschikbaar zijn, wordt dit in een bericht aangegeven. 
+U kunt op de pagina **Promoties** zien voor welke promoties u in aanmerking komt. Selecteer **Promoties in uw** **Partner Center** voor een lijst met huidige promoties, samen met de korting, het promotietype en de begin- en einddatums voor het abonnement. Als er geen promoties beschikbaar zijn, wordt dit in een bericht aangegeven. 
 
 > [!NOTE]  
 > U kunt ook promoties bekijken bij het doen van een aankoop. Wanneer u een abonnement selecteert, wordt de promotieprijs weergegeven op de pagina **Controleren**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Abonnementen kopen tegen promotieprijzen
 
-1. Selecteer in het menu van uw **partner centrum** **klanten** en selecteer vervolgens de klant die het abonnement koopt. 
+1. Selecteer in **Partner Center** menu **Klanten** en selecteer vervolgens de klant die het abonnement koopt. 
 
-2. Selecteer **abonnement toevoegen**.
+2. Selecteer **Abonnement toevoegen.**
 
-3. Selecteer op de pagina **Nieuw abonnement** het abonnement waarop de promotie van toepassing is.
+3. Selecteer op **de pagina Nieuw** abonnement het abonnement op welke promotie van toepassing is.
 
-4. Voer het aantal licenties in dat nodig is voor de klant. 
+4. Voer het aantal licenties in dat de klant nodig heeft. 
 
-5. Controleer de bestelling. U ziet de promotie prijzen die worden toegepast in de kolom **Discount** .  
+5. Controleer de bestelling. U ziet de promotieprijzen die worden toegepast in de **kolom** Korting.  
 
-6. Selecteer **verzenden** om te kopen. De klant krijgt de promotie prijs op de volgende factuur te zien.  
+6. Selecteer **Verzenden om** aan te schaffen. Uw klant ziet de promotieprijs op de volgende factuur.  
 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Verkopen aan gespecialiseerde doel groepen](sell-to-education-customers.md)
+- [Verkopen aan gespecialiseerde doelgroepen](sell-to-education-customers.md)

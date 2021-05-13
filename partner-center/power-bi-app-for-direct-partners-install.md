@@ -1,89 +1,84 @@
 ---
-title: Partner Center Analytics voor Power BI installeren
+title: Installeer Partner Center Analytics voor Power BI
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Volg de stappen in dit artikel voor het installeren en bekijken van de Partner Center Analytics-App voor Power BI (voor rechtstreekse partners in CSP).
+description: Volg de stappen in dit artikel om de Analyse-app van het Partnercentrum voor Power BI (voor directe partners in CSP) te installeren en te bekijken.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633689"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854482"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Install and preview the Partner Center Analytics app for Microsoft Power BI (Partner Center Analytics-app voor Microsoft Power BI installeren en preview bekijken)
 
 
-**Juiste rollen**
-
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Verkoop agent
-- Beheer agent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent | Beheeragent
 
 ## <a name="before-you-begin"></a>Voordat u begint
 
-Selecteer de toepassing die het meest relevant is voor uw bedrijf in de volgende lijst met beschik bare Power BI-apps:
+Selecteer de toepassing die het meest relevant is voor uw bedrijf in de volgende lijst met beschikbare Power BI apps:
 
 - [Directe provider](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [Indirecte provider](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [Indirecte wederverkoper](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
+- [Indirecte reseller](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
-Zorg ervoor dat u voldoet aan de volgende vereisten voordat u de preview-versie van de Partner Center Analytics-app installeert.
+Voordat u de preview-Partner Center analytics-app installeert, moet u ervoor zorgen dat u aan de volgende vereisten voldoet.
 
-- U kiest de juiste Power BI-app voor uw bedrijf.
+- U kiest de juiste Power BI app voor uw bedrijf.
 
-- U hebt een licentie voor Power BI Pro.
+- U hebt een Power BI Pro-licentie.
 
-- U bent gemachtigd om sjabloon-apps te installeren op uw Tenant.
+- U hebt machtigingen om sjabloon-apps te installeren in uw tenant.
 
 - U kunt zich aanmelden bij Power BI.
 
-- U kunt zich aanmelden als een globale beheerder, een beheer agent of een facturerings beheerder voor [de Azure Active Directory Azure AD-Tenant van uw bedrijf](azure-active-directory-tenants-and-partner-center.md).
+- U kunt zich aanmelden als globale beheerder, beheerderagent of factureringsbeheerder bij de [tenant van uw Azure Active Directory (Azure AD).](azure-active-directory-tenants-and-partner-center.md)
 
 ## <a name="to-install-the-app"></a>De app installeren
 
-1. Selecteer de betreffende app-bron koppeling (direct provider/indirecte leverancier/indirecte wederverkoper) in de bovenstaande sectie.
+1. Selecteer de opgegeven app-bronkoppeling (directe provider/indirecte provider/indirecte reseller) in de bovenstaande sectie.
 
-2. Selecteer **nu downloaden**. 
+2. Selecteer **NU KRIJGEN.** 
 
-3. Ga akkoord met de voor waarden door **door gaan** te selecteren.
+3. Ga akkoord met de voorwaarden door **Doorgaan te selecteren.**
 
-4. Onder al een account? Selecteer **Aanmelden**.
+4. Onder Hebt u al een account? Selecteer **Aanmelden.**
 
-5. Voer op de volgende pagina uw Power BI gebruikers naam en wacht woord in en selecteer **Aanmelden**.
+5. Voer op de volgende pagina uw Power BI gebruikersnaam en wachtwoord in en selecteer **aanmelden.**
 
-6. Installeer de werk ruimte door de naam van de werk ruimte op te geven.
+6. Installeer de werkruimte door de naam van de werkruimte op te geven.
 
-7. U vindt de sjabloon apps die zijn geïnstalleerd onder de sectie apps.
+7. U vindt de sjabloon-apps die zijn geïnstalleerd in de sectie Apps.
 
-8. Selecteer **apps** en kies de geïnstalleerde apps.
+8. Selecteer **Apps** en kies de geïnstalleerde apps.
 
-9. Aan de slag met uw nieuwe app-scherm wordt geopend.
+9. Het scherm Aan de slag met uw nieuwe app wordt geopend.
 
-10. Selecteer **verbinding maken** om verbinding te maken met de gegevens.
+10. Selecteer Verbinding maken om verbinding te maken met **de gegevens.**
 
-11. Controleer in het pop-upvenster **verbinding maken met partner Center Analytics** of de **verificatie methode** is ingesteld op **oAuth2** of selecteer **oAuth2** in de lijst als dat niet het geval is. 
+11. Controleer in het pop-upvenster Verbinding maken met **Partner Center Analytics** of de verificatiemethode **is** ingesteld op **oAuth2** of selecteer **oAuth2** in de lijst als dat niet zo is. 
 
 > [!NOTE]  
->  Het kan enkele minuten duren voordat dit venster wordt weer gegeven.
+>  Het kan enkele minuten duren voordat dit venster wordt weergegeven.
 
-12. Meld u op de pagina **Partner Center Analytics connector** aan met de referenties van de globale beheerder, de beheerders agent of de facturerings beheerder voor de Azure AD-Tenant van uw bedrijf en selecteer **Aanmelden**.
+12. Meld u **op de pagina Partner Center Analytics Connector** aan met de referenties van de globale beheerder, beheerderagent of factureringsbeheerder voor de Azure AD-tenant van uw bedrijf en selecteer **aanmelden.**
  
-13. Wanneer u wordt gevraagd om toegang, selecteert u **accepteren**. 
+13. Wanneer u wordt gevraagd om toegang, selecteert u **Accepteren.** 
 
-Zodra de Partner Center Analytics-service is verbonden met Power BI, gaan de gegevens worden geladen. Afhankelijk van de hoeveelheid gegevens kan dit tot tien minuten duren. 
+Zodra de Partner Center Analytics-service is verbonden met Power BI, worden de gegevens geladen. Afhankelijk van de hoeveelheid gegevens kan dit maximaal 10 minuten duren. 
 
-Nadat de gegevens zijn geladen, kunt u het dash board en de rapporten van het Partner Center Analytics-app in Power BI gaan gebruiken.
+Nadat de gegevens zijn geladen, kunt u het dashboard en de rapporten van de Partner Center Analytics-app in Power BI.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-[Uw bedrijfs gegevens weer geven met de Partner Center Analytics-App voor micro soft Power BI](power-bi-app-for-direct-partners-use.md)
+[Uw zakelijke gegevens weergeven met de Partner Center Analytics-app voor Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

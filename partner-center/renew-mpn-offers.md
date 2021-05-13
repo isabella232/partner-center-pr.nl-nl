@@ -4,23 +4,21 @@ ms.topic: article
 ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 'MpN Microsoft Partner Network aanbiedingen (Renew Microsoft Partner Network) voor competenties en geavanceerde specialisaties: het verlengingsvenster begint met de aankoopdatum plus één dag.'
+description: 'MpN Microsoft Partner Network aanbiedingen voor competenties en geavanceerde specialisaties verlengen: het verlengingsvenster begint met de aankoopdatum plus één dag.'
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 779f785899039765ba4a9da42d3e6bb4a828976d
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018081"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855672"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Uw MPN-aanbiedingen voor competenties en geavanceerde specialisaties vernieuwen tijdens het verlengingsvenster
 
-**Juiste rollen**
-
-- MPN-partnerbeheerder
+**Juiste rollen:** MPN-partnerbeheerder
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Reageren op COVID-19: Microsoft Partner Network update
 
@@ -28,7 +26,7 @@ Microsoft biedt competentie-uitbreiding (met uitzondering van de competentie Clo
 
 ## <a name="renewal-reminders"></a>Vernieuwingsherinneringen
 
-U hebt 30 dagen na de jubileumdatum de tijd om uw abonnement te verlengen. Uw voordelen blijven gedurende die tijd bestaan. Vijftien dagen vóór uw jubileumdatum herinnert Microsoft u aan uw aanstaande jubileum. U ontvangt 23 dagen na de jubileumdatum nog een herinnering. Wanneer u tijdens dat jubileum plus een periode van 30 dagen vernieuwt, blijven uw voordelen intact. Als u niet verlengt binnen uw verlengingsvenster, verliest u uw voordelen en competenties.
+U hebt 30 dagen na uw jubileumdatum om te verlengen. Uw voordelen blijven in die periode bestaan. Vijftien dagen vóór uw jubileumdatum herinnert Microsoft u aan uw aanstaande jubileum. U ontvangt 23 dagen na de jubileumdatum nog een herinnering. Wanneer u verlengt tijdens die jubileum plus een periode van 30 dagen, blijven uw voordelen intact. Als u niet verlengt binnen uw verlengingsvenster, verliest u uw voordelen en competenties.
 
 Wanneer u verlengt tijdens het verlengingsvenster, is uw nieuwe jubileumdatum 365 dagen na uw huidige jubileum.
 

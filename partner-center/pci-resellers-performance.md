@@ -1,128 +1,123 @@
 ---
-title: Performance dash board Insights-leveranciers van partner centrum
+title: Partner Center Insights Resellers Performance dashboard
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Het Reseller performance dash board in Partner Center Insights biedt een overzicht van de prestaties van verschillende indirecte wederverkopers van een indirecte CSP-provider.
+description: Het dashboard voor resellerprestaties in Partner Center Insights biedt een overzicht van de prestaties van verschillende indirecte resellers van een CSP Indirect Provider.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: a2a5697f19baadb5af956a745c032ce1711574d3
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086886"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855230"
 ---
-# <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Het Verkoperprestaties performance dash board in Partner Center Insights
+# <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Dashboard Prestaties van resellers in Partner Center Insights
 
-**Juiste rollen**
+**Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
-- Globale beheerder
-- Beheer agent
-- Rapport viewer
-- Rapport Viewer Executive
+Het dashboard voor resellerprestaties in Partner Center Insights biedt een overzicht van de prestaties van verschillende indirecte resellers van een CSP Indirect Provider. Het dashboard bevat gegevens over de resellers die actief zijn, hoeveel omzet ze genereren en welke producten de omzet genereren. Indirecte providers kunnen op naam naar een specifieke reseller zoeken en details voor de reseller op zoeken in het prestatiedashboard van de reseller.
 
-Het Reseller performance dash board in Partner Center Insights biedt een overzicht van de prestaties van verschillende indirecte wederverkopers van een indirecte CSP-provider. Het dash board bevat gegevens over de wederverkopers die actief zijn, hoeveel omzet ze genereren en welke producten de omzet stimuleren. Indirecte providers kunnen op naam zoeken naar een specifieke wederverkoper en gegevens voor de wederverkoper opzoeken in het dash board prestaties van wederverkopers.
-
-U kunt de volgende secties bekijken in het dash board prestaties van wederverkopers.
+U kunt de volgende secties bekijken op het dashboard Resellerprestaties.
 
 - Samenvatting
-- Geografische sprei ding van wederverkopers
-- Add/verloop van wederverkopers 
-- Trend van omzet van wederverkopers 
-- Wederverkoper prestaties per product
-- Actieve wederverkopers op partner locaties
-- Trend geo-verdeling opbrengst
-- Wederverkoper prestaties per klant segment
-- Onderhanden status van wederverkoper MPA
+- Geografische spreiding van resellers
+- Resellers add/churns 
+- Omzettrend voor resellers 
+- Prestaties van resellers per producten
+- Actieve resellers per partnerlocaties
+- Trend in geodistributie van omzet
+- Resellerprestaties per klantsegment
+- MPA-ondertekeningsstatus reseller
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights-dash board. Als u dit rapport wilt weer geven, moet u een specifieke rol aan het partner centrum toewijzen, zoals globale beheerder, account beheerder, rapport Viewer of Executive Report Viewer. Zie de globale beheerder van uw bedrijf voor meer informatie. specifieke typen gegevens in dit rapport zijn mogelijk alleen beschikbaar voor gebruikers met beheerders rechten voor de rapport viewer.
+ > Dit rapport is beschikbaar via het dashboard Inzichten. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
 
 ## <a name="summary"></a>Samenvatting
 
-In de sectie samen vatting ziet u een moment opname van de Kpi's (Key Performance Indica tors) die betrekking hebben op de provider voor indirecte CSP.
+In de samenvattingssectie wordt een momentopname van de KPI's (Key Performance Indicators) met betrekking tot de CSP Indirect Provider.
 
-- Actieve wederverkopers: het aantal wederverkopers dat gedurende die maand ten minste één actief abonnement heeft.
+- Actieve resellers: aantal resellers met ten minste één actief abonnement gedurende die maand.
 
-In de micro grafiek wordt de maandelijkse trend van afzonderlijke wederverkopers weer gegeven die actief zijn tijdens het geselecteerde datum bereik.
+In de Micro-grafiek wordt de trend voor de maand-over-maand weergegeven van afzonderlijke resellers die actief zijn geweest tijdens het geselecteerde datumbereik.
 
-- Transverkoopers worden omhandelt: het aantal wederverkopers dat in die maand ten minste één abonnement heeft verkocht. 
+- Transacting resellers: Count of resellers who sold ten least one subscription during that month. 
 
-Het micro diagram geeft de maand over de maand van de wederverkopers die zijn Inge schreven voor het geselecteerde datum bereik.
+In de Micro-grafiek wordt de trend voor de maand-over-maand weergegeven van resellers die zijn ingeschreven voor het geselecteerde datumbereik.
 
-- Nieuwe wederverkopers: het aantal wederverkopers dat in die maand met de indirecte provider begon. 
+- Nieuwe resellers: aantal resellers die in die maand zijn begonnen met het transacteren met de indirecte provider. 
 
-In de micro grafiek wordt de maand-over-maand-trend weer gegeven van het totale aantal nieuwe wederverkopers tijdens het geselecteerde datum bereik.
+In de Micro-grafiek wordt de trend voor de maand-over-maand weergegeven van het totale aantal nieuwe resellers tijdens het geselecteerde datumbereik.
 
-- Gefactureerde omzet USD: opbrengst in USD die wordt bepaald door de wederverkopers tijdens die maand. 
+- Gefactureerde omzet USD: omzet in USD, aangestuurd door de resellers gedurende die maand. 
 
-In de micro grafiek wordt de maandelijkse trend van de omzet weer gegeven tijdens het geselecteerde datum bereik.
+In de Micro-grafiek wordt de maand-over-maand-trend van de omzet weergegeven tijdens het geselecteerde datumbereik.
 
-- De sectie gefactureerde omzet per product biedt een maand op de maand van de gefactureerde omzet in USD, gesplitst op verkochte producten. 
+- De sectie Gefactureerde omzet per product biedt een maand op maandinsplitsing van de gefactureerde omzet in USD, gesplitst per verkochte producten. 
 
-:::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="samen vatting van prestaties van leveranciers":::
+:::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="Samenvatting van de prestaties van resellers":::
 
-## <a name="geographical-spread-of-resellers"></a>Geografische sprei ding van wederverkopers
+## <a name="geographical-spread-of-resellers"></a>Geografische spreiding van resellers
 
-De weer gave * * verkoopers per geografie bieden de geografische distributie van wederverkopers. Met deze widget kunnen partners de totale **verkoop kansen**, **nieuwe wederverkopers** en **gefactureerde omzet (USD)** bekijken, splitsen op verschillende locaties.
+De weergave **Resellers per geografie biedt de geografische distributie van resellers. Met deze widget kunnen partners het totale aantal **resellers,** nieuwe **resellers** en gefactureerde omzet **(USD)** weergeven, opgesplitst in verschillende geografische gebieden.
 
-U kunt in het raster zoeken en een land selecteren om in te zoomen op de locatie in de kaart. Druk op de **Start** optie op de kaart om terug te keren naar de oorspronkelijke weer gave. Beweeg de muis aanwijzer op de kaart om de **gefactureerde omzet (USD)** per land weer te geven. Het veld factureer bare omzet (USD) op het raster is sorteerbaar.
+U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie op de kaart. Druk op **de optie** Start op de kaart om terug te keren naar de oorspronkelijke weergave. Beweeg de muisaanwijzer over de kaart om **de gefactureerde omzet (USD) per** land te bekijken. Het veld Gefactureerde omzet (USD) in het raster is sorteerbaar.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Wederverkopers op geografie ":::
+:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Resellers per geografie ":::
 
-## <a name="resellers-addchurns"></a>Add/verloop van wederverkopers
+## <a name="resellers-addchurns"></a>Resellers add/churns
 
-In deze weer gave wordt een maand op de maand gesplitst van het aantal **nieuwe wederverkopers**, verzorgde **wederverkopers** en **bestaande wederverkopers**. 
+Deze weergave bevat een maand op maand splitsen van het aantal nieuwe **resellers,** verloop **resellers** en **bestaande resellers**. 
 
-- Nieuwe wederverkopers: het aantal wederverkopers dat zojuist is inge schreven bij de indirecte provider tijdens het geselecteerde datum bereik.
-- Verouderde wederverkopers: het aantal wederverkopers dat gedurende de afgelopen zes maanden geen trans actie heeft, met uitzonde ring van de huidige maand.
-- Bestaande wederverkopers: het aantal wederverkopers dat in de vorige maand heeft gewerkt.
+- Nieuwe resellers: het aantal resellers dat tijdens het geselecteerde datumbereik nieuw is ingeschreven bij de indirecte provider.
+- Verloop resellers: aantal resellers die de afgelopen zes maanden geen transactie hebben gehad, met uitzondering van de huidige maand.
+- Bestaande resellers: het aantal resellers dat de vorige maand heeft getransactied.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="Add/verloop van wederverkopers":::
+:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="Resellers add/churns":::
 
-## <a name="resellers-revenue-trend"></a>Trend van omzet van wederverkopers 
+## <a name="resellers-revenue-trend"></a>Omzettrend voor resellers 
 
-Deze weer gave biedt een maandelijkse trend van de gefactureerde omzet (USD) die wordt gesplitst door producten, zoals O365, D365, EMS, Power BI en Azure. De algemene meet waarden worden voor elke maand geaggregeerd over de verschillende producten. De partner kan zoeken naar een specifieke wederverkoper op naam en gegevens opzoeken voor die specifieke wederverkoper. Het veld factureer bare omzet (USD) op het raster is sorteerbaar.
+Deze weergave biedt een maandelijkse trend van de gefactureerde omzet (USD) gesplitst per producten, namelijk O365, D365, EMS, Power BI en Azure. De algehele metrische gegevens worden voor elke maand geaggregeerd in de verschillende producten. De partner kan op naam naar een specifieke reseller zoeken en gegevens voor die specifieke wederverkoper opzoekt. Het veld Gefactureerde omzet (USD) in het raster is sorteerbaar.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Trend van omzet van wederverkopers":::
+:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Omzettrend voor resellers":::
 
-## <a name="reseller-performance-by-products"></a>Wederverkoper prestaties per product
+## <a name="reseller-performance-by-products"></a>Prestaties van resellers per producten
 
-Deze weer gave biedt een splitsing van belang rijke metrische gegevens, zoals gefactureerde omzet, het aantal abonnementen en het aantal licenties per maand op basis van verschillende producten. In het cirkel diagram aan de rechter kant wordt de algemene splitsing van de metrische gegevens per product aangegeven, zodat de partner een snelle voors blik krijgt van het padonderbreking door diverse producten die de wederverkoper verkoopt.
+Deze weergave biedt een splitsing van belangrijke metrische gegevens, zoals gefactureerde omzet, het aantal abonnementen en het aantal licenties per verschillende producten op maandbasis. In het cirkeldiagram aan de rechterkant wordt de algehele splitsing van de metrische gegevens door verschillende producten aangegeven, zodat de partner snel een idee krijgt van het opsplitsen door verschillende producten die de wederverkoper verkoopt.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Wederverkoper prestaties per product":::
+:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Prestaties van resellers per producten":::
 
-## <a name="active-resellers-by-partner-locations"></a>Actieve wederverkopers op partner locaties
+## <a name="active-resellers-by-partner-locations"></a>Actieve resellers per partnerlocaties
 
-Deze weer gave biedt een overzicht van actieve wederverkopers per partner-geographs. De bovenste vijf geografi worden weer gegeven in de legenda en het resterende aantal wordt als ' anderen ' gecategoriseerd.
+Deze weergave biedt een splitsing van actieve resellers per partnergeografie. De top vijf geografische gebieden worden weergegeven in de legenda en de resterende regio's worden gecategoriseerd als 'Overige'.
 
-:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Actieve wederverkopers op partner locaties":::
+:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Actieve resellers per partnerlocaties":::
 
-## <a name="revenue-geo-distribution-trend"></a>Trend geo-verdeling opbrengst
+## <a name="revenue-geo-distribution-trend"></a>Trend in geodistributie van omzet
 
-Deze weer gave biedt een maand-op-maand-trend van de gefactureerde omzet (USD) die wordt gesplitst door de vijf geografische regio's.  De rest van de omzet wordt als ' anderen ' gecategoriseerd.
+Deze weergave biedt een maand-op-maandtrend van de gefactureerde omzet (USD) gesplitst in de top vijf geografische gebieden.  De rest van de omzet wordt gecategoriseerd als 'Overige'.
 
-:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Trend geo-verdeling opbrengst":::
+:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Trend in geografische verdeling van omzet":::
 
-## <a name="reseller-performance-by-customer-segment"></a>Wederverkoper prestaties per klant segment
+## <a name="reseller-performance-by-customer-segment"></a>Resellerprestaties per klantsegment
 
-Met deze weer gave kan een partner de maandelijkse trend van omzet USD, het aantal abonnementen en licenties begrijpen, splitsen op verschillende klant segmenten. De bovenste vijf klant segmenten worden weer gegeven in de grafiek en de overige worden gecategoriseerd als ' anderen '.
+Met deze weergave kan een partner inzicht krijgen in de maandelijkse trend van de omzet USD, het aantal abonnementen en licenties, opgesplitst in verschillende klantsegmenten. De top vijf klantsegmenten worden weergegeven in de grafiek en de overige segmenten worden gecategoriseerd als 'Overige'.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="Wederverkoper prestaties per klant segment":::
+:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="Resellerprestaties per klantsegment":::
 
-## <a name="reseller-mpa-signing-status"></a>Onderhanden status van wederverkoper MPA
+## <a name="reseller-mpa-signing-status"></a>MPA-ondertekeningsstatus reseller
 
-Deze weer gave biedt de MPA-handtekening status voor wederverkopers samen met aanvullende meta gegevens, zoals MPN hebben status, PMC naar PC Migration status, enzovoort.
+Deze weergave bevat de MPA-ondertekeningsstatus voor resellers, samen met aanvullende metagegevens zoals MPN-doorlichtingsstatus, MIGRATIEstatus van PMC naar pc, enzovoort.
 
-:::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="Onderhanden status van wederverkoper MPA":::
+:::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="MPA-ondertekeningsstatus reseller":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie [Partner Center Insights](partner-center-insights.md)voor meer rapporten.
+- Zie Insights voor [Partner Center rapporten.](partner-center-insights.md)
 
 >[!NOTE] 
-> U kunt de onbewerkte gegevens van dit rapport downloaden in het gedeelte Download rapporten van het inzichten-dash board. [Meer informatie](pci-download-reports.md) 
+> U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het Dashboard Inzichten. [Meer informatie](pci-download-reports.md) 

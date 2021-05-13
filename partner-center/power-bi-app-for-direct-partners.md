@@ -1,64 +1,59 @@
 ---
-title: Veelgestelde vragen-Partner Center Analytics voor Power BI
+title: Veelgestelde vragen - Partner Center Analytics voor Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verken dit overzicht en veelgestelde vragen over de Partner Center Analytics-App voor Power BI.
+description: Bekijk dit overzicht en veelgestelde vragen over de Analyse-app van het Partnercentrum voor Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edc6469693e8dc8dcc93f9a4df66c9a232b29738
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 28fb6e9a963228f45a927089e0bb8ae3ecd452ff
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633672"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854533"
 ---
-# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Overzicht en veelgestelde vragen over de Partner Center Analytics-App voor Power BI (direct partners in CSP)
+# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Overzicht en veelgestelde vragen over de Analyse-app van het Partnercentrum voor Power BI (directe partners in CSP)
 
 
 
-**Juiste rollen**
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent | Beheeragent
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Verkoop agent
-- Beheer agent
-
-Maak een visuele representatie van uw bedrijfs gegevens met de Partner Center Analytics-App voor Power BI. De app, ontworpen voor rechtstreekse partners in het Cloud Solution Provider-programma (CSP), koppelt aan het vertrouwde Power BI-Framework.
+Krijg een visuele weergave van uw zakelijke gegevens met de Analyse-app van het Partnercentrum voor Power BI. De app, ontworpen voor directe partners in het Cloud Solution Provider-programma (CSP), sluit aan op het vertrouwde Power BI framework.
 
 > [!NOTE]  
-> U bent een directe partner als u rechtstreeks zaken doet met micro soft en klanten.
+> U bent een directe partner als u rechtstreeks zaken doet met Microsoft en met klanten.
 
-Installeer de app om grafische weer gaven van te krijgen:
+Installeer de app om grafische weergaven op te halen van:
 
-- De groei van uw klanten basis, abonnementen en licenties
+- Groei van uw klantenbestand, abonnementen en licenties
 
-- Gebruik van Office 365-, micro soft Dynamics-en Microsoft Azure-producten
+- Gebruik van Office 365-, Microsoft Dynamics- en Microsoft Azure producten
 
-- Dagelijkse verbruiks eenheden voor elke resource met data limiet in elk Azure-abonnement gedurende de afgelopen 60 dagen
+- Dagelijkse verbruikseenheden voor elke resource naar gebruik in elk Azure-abonnement voor de afgelopen 60 dagen
 
-- Geschatte kosten op basis van de meest recente tarieven kaart
+- Geschatte kosten op basis van de meest recente tariefkaart
 
-- De mogelijkheid om gegevens sets te exporteren en aangepaste rapporten te maken, inclusief per klant
+- Mogelijkheid om gegevenssets te exporteren en aangepaste rapporten te maken, inclusief per klant
 
 ## <a name="frequently-asked-questions"></a>Veelgestelde vragen
 
-We raden u aan om onze antwoorden op veelgestelde vragen te bekijken voordat u de app installeert.
+We raden u aan onze antwoorden op veelgestelde vragen door te lezen voordat u de app installeert.
 
 | **Vraag** | **Antwoord** |
 | --- | ---------- |
-| Wat kost de app? | De app zelf is gratis. Als u een voor beeld van de app wilt bekijken, kunt u [zich aanmelden voor de gratis Power bi-service](https://go.microsoft.com/fwlink/p/?linkid=845347) en deze gebruiken om Dash boards en rapporten aan te passen. Als u wilt dat anderen in uw bedrijf de app kunnen gebruiken, moet u een actief abonnement hebben op micro soft Power BI Professional of micro soft Power BI Premium. |
-| Wie kan verbinding maken met de Partner Center Analytics-App? | Deze versie van de app is ontworpen voor directe partners (Tier 1) in het Cloud Solution Provider-programma. U bent een directe partner als u rechtstreeks zaken doet met micro soft en klanten. Als u de app wilt installeren, moet u een globale beheerder, beheer agent of facturerings beheerder zijn voor het account van uw bedrijf. |
-| Ik ben een indirecte provider; kan ik de app gebruiken? | Ja. Uw globale beheerder, beheer agent of facturerings beheerder kan de app installeren en gegevens over uw directe klanten bekijken. Toekomstige releases bevatten mogelijk functies waarmee u ook gegevens over uw indirecte wederverkopers kunt bekijken. |
-| Hoe kom ik meer te weten over toekomstige releases? | Aankondigingen en Preview-versies worden beschikbaar gesteld via het partner centrum-early adopter programma. U kunt uw feedback ook delen via het early adopter programma. Als u nog geen deel uitmaakt van het programma, leert u hoe u kunt deel nemen. Zie [de Partner Center API en SDK Early passer-programma toevoegen](/partner-center/develop/early-adopter-program).  |
-| Wie kan de Dash boards en rapporten in de App aanpassen? | Alleen de globale beheerder, beheer agent of facturerings beheerder die de app heeft geïnstalleerd, kan het dash board aanpassen of nieuwe rapporten maken in de webinterface van Power BI. |
-| Wie kan de Dash boards en rapporten in de app weer geven? | De globale beheerder, beheer agent of facturerings beheerder die de app heeft geïnstalleerd, kan de gegevens van de app delen met iedereen die een actief abonnement heeft op micro soft Power BI Professional of micro soft Power BI Premium. |
-| Kan ik de app gebruiken voor het weer geven van gegevens uit meerdere Azure AD-tenants, op meerdere locaties? | Met deze release kunt u alleen gegevens weer geven van de Azure AD-Tenant waarmee uw globale beheerder of beheerders agent zijn aangemeld bij. | 
-| Wanneer is de app beschikbaar in extra talen? | Aankondigingen van Wegwijzer worden uitgebracht via het partner centrum-early adopter programma. Als u nog niet deelneemt aan het programma, kunt u zich nu aanmelden bij [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) . U kunt uw feedback ook delen via het early adopter programma. | 
+| Wat kost de app? | De app zelf is gratis. Als u een voorbeeld van de app wilt bekijken, kunt u zich registreren voor [de gratis Power BI-service](https://go.microsoft.com/fwlink/p/?linkid=845347) gebruiken om dashboards en rapporten aan te passen. Als u wilt dat anderen in uw bedrijf de app kunnen gebruiken, moet u een actief abonnement hebben op Microsoft Power BI Professional of Microsoft Power BI Premium. |
+| Wie kan verbinding maken met de Partner Center Analytics-app? | Deze versie van de app is ontworpen voor directe partners (laag 1) in Cloud Solution Provider programma. U bent een directe partner als u rechtstreeks zaken doet met Microsoft en met klanten. Als u de app wilt installeren, moet u een globale beheerder, beheerderagent of factureringsbeheerder zijn voor het account van uw bedrijf. |
+| Ik ben een indirecte provider; kan ik de app gebruiken? | Ja. Uw globale beheerder, beheerderagent of factureringsbeheerder kan de app installeren en gegevens over uw directe klanten bekijken. Toekomstige releases kunnen functies bevatten waarmee u ook gegevens over uw indirecte resellers kunt zien. |
+| Hoe kom ik meer te weten over toekomstige releases? | Aankondigingen en preview-releases worden beschikbaar gesteld via het Partner Center early adopter programma. U kunt uw feedback ook delen via het early adopter programma. Als u nog niet deelneemt aan het programma, leert u hoe u lid wordt. Zie [Deelnemen aan Partner Center API en SDK Early Adopter Program.](/partner-center/develop/early-adopter-program)  |
+| Wie kan de dashboards en rapporten in de app aanpassen? | Alleen de globale beheerder, beheerdersagent of factureringsbeheerder die de app heeft geïnstalleerd, kan het dashboard aanpassen of nieuwe rapporten maken in Power BI webinterface. |
+| Wie kan de dashboards en rapporten in de app bekijken? | De globale beheerder, beheerderagent of factureringsbeheerder die de app heeft geïnstalleerd, kan de gegevens van de app delen met iedereen die een actief abonnement heeft op Microsoft Power BI Professional of Microsoft Power BI Premium. |
+| Kan ik de app gebruiken om gegevens van meerdere Azure AD-tenants op verschillende locaties weer te geven? | Met deze release kunt u alleen gegevens weergeven van de Azure AD-tenant waar uw globale beheerder of beheerdersagent bij is aangemeld. | 
+| Wanneer is de app beschikbaar in andere talen? | Roadmapaankondigingen worden uitgebracht via Partner Center early adopter programma. Als u nog niet deelneemt aan het programma, kunt u zich hier nu voor registreren op [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) . U kunt uw feedback ook delen via het early adopter programma. | 
 
 
 
@@ -66,4 +61,4 @@ We raden u aan om onze antwoorden op veelgestelde vragen te bekijken voordat u d
 
 [Install and preview the Partner Center Analytics app for Microsoft Power BI](power-bi-app-for-direct-partners-install.md) (Partner Center Analytics-app voor Microsoft Power BI installeren en preview bekijken)
 
-[Uw bedrijfs gegevens weer geven met de Partner Center Analytics-App voor micro soft Power BI](power-bi-app-for-direct-partners-use.md)
+[Uw zakelijke gegevens weergeven met de Partner Center Analytics-app voor Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

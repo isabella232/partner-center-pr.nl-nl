@@ -9,21 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 803c299311f129c4842a92a27abd9b9addb49f17
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120780"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854431"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Op rollen gebaseerd toegangsbeheer voor het Partner Center Insights-dashboard
 
-**Juiste rollen**
-
-- Globale beheerder
-- Beheeragent
-- Rapportviewer
-- Rapportviewer voor leidinggevenden
+**Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
 Het dashboard Insights gebruikt twee nieuwe rollen in Partner Center toegang van werknemers tot de rapporten te beheren: Executive Report Viewer en Report Viewer.  Gebruikers met de rol Executive Report Viewer hebben toegang tot alle rapportagegegevenssets, terwijl gebruikers met de rol Rapportviewer geen toegang hebben tot gevoelige gegevenssets zoals omzet en persoonlijke gegevens van klanten/werknemers.  
 

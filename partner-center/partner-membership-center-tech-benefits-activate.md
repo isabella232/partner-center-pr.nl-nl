@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172180"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818640"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Activeer Microsoft Partner Network technische voordelen buiten Partner Center
 
@@ -25,7 +25,7 @@ ms.locfileid: "108172180"
 
 Dit artikel is bedoeld voor Microsoft Partner Network leden (MPN) die nog steeds Partner Membership Center (PMC). Deze leden hebben hulp nodig bij het activeren van bepaalde MPN-lidmaatschapsvoordelen, zoals technische voordelen, buiten het [Partner Center dashboard](https://partner.microsoft.com/dashboard).
 
-Veel Microsoft Partner Network (MPN) zijn al gemigreerd van Partner Membership Center naar [Partner Center](prepare-pmc-pc-migration.md) om hun gebruikers, klanten en MPN-voordelen te helpen beheren.
+**De Microsoft Partner Network leden (MPN) zijn al gemigreerd van Partner Membership Center naar [Partner Center](prepare-pmc-pc-migration.md) om hun gebruikers, klanten en MPN-voordelen te helpen beheren.**
 
 Als uw MPN-lidmaatschap nog steeds Partner Membership Center (PMC), hebt u hulp nodig bij het activeren van een aantal van uw MPN-voordelen.
 
@@ -33,7 +33,7 @@ Als uw MPN-lidmaatschap nog steeds Partner Membership Center (PMC), hebt u hulp 
 
 Als u een PMC-gebruiker bent, bekijkt u deze tabel voor hulp bij het activeren van uw technische voordelen.
 
-(Als u al een account Partner Center beheerder globale beheerder of MPN-partnerbeheerder toegang hebt, zie [uw technische voordelen beheren](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits#manage-technical-benefits)
+(Als u al een account Partner Center globale beheerder of mpn-partnerbeheerder toegang hebt, zie uw technische ondersteuningsvoordelen echter weergeven [en activeren](mpn-benefits-technical-support.md#view-and-activate-your-technical-support-benefits))
 
 |Voor deze regio  | Contactpersoon |
 |:--------|:------------|

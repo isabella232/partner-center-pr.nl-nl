@@ -6,18 +6,16 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: f96f765596024e2df5f1c9e2418ff331dbcd51eb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067400"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854805"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Belastinggegevens voor uitgevers van commerciële marketplace
 
-**Juiste rollen**
-
-- Globale beheerder
+**Juiste rollen:** globale beheerder
 
 Deze pagina bevat de belastingverantwoordelijkheden en belastingoverwegingen voor uitgevers van commerciële marketplaces (uitgevers) en ontwikkelaars van consumentenmarktplaats in verband met eindaankopen van uitgevers-/ontwikkelaarsproducten die zijn opgenomen in respectievelijk de [Microsoft Azure Marketplace Publisher-overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560) en de [Overeenkomst voor app-ontwikkelaars.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)  De onderstaande informatie is een aanvulling op en is niet bedoeld ter vervanging van de voorwaarden in de Microsoft Publisher-overeenkomst en de Overeenkomst voor app-ontwikkelaars.  Tenzij anders vermeld, is de onderstaande informatie van toepassing op uitgevers van commerciële marketplaces en ontwikkelaars van consumentenmarktplaats die hun producten/aanbiedingen beschikbaar maken voor verkoop via Microsoft Marketplaces. 
 
@@ -140,7 +138,7 @@ Microsoft int belasting op winkelkosten in de volgende landen waar uitgevers/ont
 
   :::image type="content" source="images/tax/scenario-three.png" alt-text="Grafiek met de invloed van BTW in de EU op de belasting"::: 
 
-- Scenario 4: Een uitgever van het land doet een nationale verkoop aan een klant die zich in een door Microsoft beheerd land bevindt of een niet-nationale verkoop aan een klant in Zwitserland
+- Scenario 4: Een uitgever van het land maakt een nationale verkoop aan een klant in een door Microsoft beheerd land of een niet-nationale verkoop aan een klant in Zwitserland
 
   :::image type="content" source="images/tax/scenario-four.png" alt-text="Grafiek die laat zien hoe btw wordt verwerkt":::
 
@@ -154,7 +152,7 @@ Microsoft int belasting op winkelkosten in de volgende landen waar uitgevers/ont
 
   :::image type="content" source="images/tax/withholding-one.png" alt-text="Grafiek met bronbelasting zonder belasting":::
 
-- Scenario 2: Een vreemde uitgever (met toepasselijke belastingvoordelen op een belastingprofiel tot nul procent tarief) met een aankoop aan een Amerikaanse klant. 
+- Scenario 2: Een vreemde uitgever (met toepasselijke belastingvoordelen op een belastingprofiel tot nul procent tarief) met een verkoop aan een Amerikaanse klant. 
 
   :::image type="content" source="images/tax/withholding-two.png" alt-text="Grafiek met bronbelasting met belastingafdacht":::
 

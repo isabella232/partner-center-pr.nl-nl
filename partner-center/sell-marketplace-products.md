@@ -9,23 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b339c0eec72d2184e15301270633305682799461
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 4ab3aca1ef576501fcc6b912b83cfeccbf029022
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002872"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855383"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Gebruik Partner Center om abonnementen van klanten te verkopen aan commerciële marketplace-producten
 
-**Juiste rollen**
-
-- Verkoopagent
+**Juiste rollen:** Verkoopagent
 
 Als partner in het CSP-programma kunt u Partner Center gebruiken om abonnementen van klanten te verkopen aan SaaS-producten (Software as a Service) die zijn gepubliceerd naar de commerciële marketplace[(Microsoft AppSource](https://appsource.microsoft.com/) en [Azure Marketplace)](https://azuremarketplace.microsoft.com/)door ONAFHANKELIJKE softwareleveranciers (ISV's).
 
-Dit kan helpen om uw bedrijf te onderscheiden en uw klanten softwarebundels te bieden die voldoen aan hun specifieke bedrijfsbehoeften. U beheert licenties en abonnementen voor deze Marketplace SaaS-producten net als voor Microsoft-producten.
+Zo kunt u uw bedrijf onderscheiden en uw klanten voorzien van softwarebundels die voldoen aan hun specifieke bedrijfsbehoeften. U beheert licenties en abonnementen voor deze Marketplace SaaS-producten net als voor Microsoft-producten.
 
-Zie Overzicht van commerciële marketplace voor Cloud Solution Providers voor meer informatie over hoe partners in het CSP-programma de commerciële marketplace [kunnen gebruiken.](csp-commercial-marketplace-overview.md)
+Zie Overzicht van commerciële marketplace voor Cloud Solution Providers voor meer informatie over hoe partners in het CSP-programma de commerciële [marketplace kunnen gebruiken.](csp-commercial-marketplace-overview.md)
 
-Zie Veelgestelde vragen over Marketplace voor meer informatie over de verschillende rol van ISV's in de commerciële [marketplace.](/azure/marketplace/marketplace-faq-publisher-guide)
+Of zie Veelgestelde vragen over Marketplace voor meer informatie over de verschillende rol van ISV's in de [commerciële marketplace.](/azure/marketplace/marketplace-faq-publisher-guide)

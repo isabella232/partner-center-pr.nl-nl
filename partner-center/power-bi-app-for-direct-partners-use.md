@@ -1,169 +1,164 @@
 ---
-title: Partner Center Analytics voor Power BI gebruiken
+title: Gebruik Partner Center Analytics voor Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het weer geven van uw zakelijke gegevens met behulp van de Partner Center Analytics-App voor Power BI (voor rechtstreekse partners in CSP).
+description: Meer informatie over het weergeven van uw zakelijke gegevens met behulp van Analyse-app van het Partnercentrum voor Power BI (voor directe partners in CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633859"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855026"
 ---
-# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Uw bedrijfs gegevens weer geven met de Partner Center Analytics-App voor micro soft Power BI
+# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Uw zakelijke gegevens weergeven met de Partner Center Analytics-app voor Microsoft Power BI
 
 
 
-**Juiste rollen**
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent | Beheeragent
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Verkoop agent
-- Beheer agent
+## <a name="view-your-business-data"></a>Uw bedrijfsgegevens weergeven
 
-## <a name="view-your-business-data"></a>Uw zakelijke gegevens weer geven
+Krijg een visuele weergave van uw zakelijke gegevens met de Analyse-app van het Partnercentrum voor Power BI, waaronder:
 
-Maak een visuele representatie van uw bedrijfs gegevens met de Partner Center Analytics-App voor Power BI, met inbegrip van:
+- Groei van uw klantenbestand, abonnementen en licenties
 
-- De groei van uw klanten basis, abonnementen en licenties
+- Gebruik van Office 365-, Microsoft Dynamics- en Microsoft Azure producten
 
-- Gebruik van Office 365-, micro soft Dynamics-en Microsoft Azure-producten
+- Dagelijkse verbruikseenheden voor elke resource naar gebruik in elk Azure-abonnement voor de afgelopen 60 dagen
 
-- Dagelijkse verbruiks eenheden voor elke resource met data limiet in elk Azure-abonnement gedurende de afgelopen 60 dagen
+- Geschatte kosten (op basis van de meest recente tariefkaart)
 
-- Geschatte kosten (op basis van de meest recente tarieven kaart)
+- Mogelijkheid om gegevenssets te exporteren en aangepaste rapporten te maken, inclusief per klant.
 
-- De mogelijkheid om gegevens sets te exporteren en aangepaste rapporten te maken, inclusief per klant.
+### <a name="about-the-partner-center-analytics-app-preview-release"></a>Over de preview Partner Center versie van de app Partner Center Analytics
 
-### <a name="about-the-partner-center-analytics-app-preview-release"></a>De preview-versie van app Center Analytics-apps
+- Deze app is alleen voor directe partners in Cloud Solution Provider programma. Andere partners in CSP (indirecte resellers, bijvoorbeeld) kunnen zich niet aanmelden.
 
-- Deze app is alleen voor directe partners in het Cloud Solution Provider-programma. Andere partners in CSP (bijvoorbeeld indirecte wederverkopers) kunnen zich niet aanmelden.
+- Geschatte kosten zijn facturerings-/factuurgegevens vóór belasting en zijn niet juridisch binding. Geschatte kosten zijn alleen bedoeld om te worden gebruikt voor gegevensinzichten.
 
-- Alle geschatte kosten zijn facturen voor facturering/factuur vooraf en zijn niet juridisch bindend. Geschatte kosten zijn alleen bedoeld voor gebruik voor data Insights.
+- Klantgegevens zijn gebaseerd op abonnementen. Klanten voor wie u onlangs accounts hebt gemaakt, maar die nog geen abonnementen hebben, worden niet opgenomen in tellingen.
 
-- Klant gegevens zijn gebaseerd op abonnementen. Klanten waarvoor u onlangs accounts hebt gemaakt, maar die nog geen abonnementen hebben, worden niet opgenomen in aantallen.
+- De geschatte kosten zijn gebaseerd op de meest recente tariefkaart, die is gebaseerd op CSP-prijzen.
 
-- De geschatte kosten zijn gebaseerd op de meest recente tarief kaart, die is gebaseerd op CSP-prijzen.
+- Dagen zijn kalenderdagen.
 
-- Dagen zijn kalender dagen.
+### <a name="business-insights-report"></a>Business Insights-rapport
 
-### <a name="business-insights-report"></a>Rapport van Business Insights
+- **Tenants van klanten:** aantal afzonderlijke Azure AD-tenants van klanten die abonnementen hebben aangeschaft
 
-- **Tenants van klanten**: aantal afzonderlijke Azure AD-tenants van klanten die hebben gekochte abonnementen
+- **Nieuw (afgelopen 30 dagen)**: Nieuwe klanten hebben in de afgelopen 30 dagen ten minste één abonnement aanschaffen
 
-- **Nieuw (afgelopen 30 dagen)**: nieuwe klanten die in de afgelopen 30 dagen ten minste één abonnement kopen
+- **Verloop (afgelopen 30 dagen)**: Klanten zonder abonnementen 'actief', 'in respijt' of 'uitgeschakeld'.
 
-- **Verloop (afgelopen 30 dagen)**: klanten zonder ' Active ', ' in respijt ' of ' uitgeschakelde ' abonnementen
+- **Nieuw (afgelopen 24 uur)**: Nieuwe klanten hebben in de afgelopen 24 uur ten minste één abonnement aanschaffen
 
-- **Nieuw (afgelopen 24 uur)**: nieuwe klanten hebben ten minste één abonnement in de afgelopen 24 uur kopen
+- **Geschatte maandelijkse kosten in** de afgelopen 12 maanden: Trend in maand van geschatte factuurbedrag vóór belasting, samengevoegd maandelijks in de periode van de afgelopen 12 maanden
 
-- **Geschatte maandelijkse kosten gedurende de afgelopen 12 maanden**: maand over maand trend van het geschatte vooraf-BTW-factuur bedrag, geaggregeerd maandelijks voor de periode van afgelopen 12 maanden
+- **Geschatte kosten per product in** de afgelopen 12 maanden: verkochte producten gesorteerd op geschatte factuurbedrag vóór belasting, geaggregeerd in de periode van de afgelopen 12 maanden. Deze status geeft aan dat de belangrijkste producten de meeste omzet opleveren.
 
-- **Geschatte kosten per product gedurende een periode van 12 maanden**: verkochte producten, gesorteerd op basis van het geschatte bedrag vóór de BTW-factuur, geaggregeerd over de periode van de afgelopen 12 maanden. Deze status geeft aan dat de belangrijkste producten de meeste omzet.
+- **Klanten in de afgelopen 12** maanden: Trend van nieuwe klanten en verloopklanten per maand gedurende de periode van de afgelopen 12 maanden
 
-- **Klanten in de afgelopen 12 maanden**: maand over maand trend van nieuwe klanten en verloop klanten die maandelijks zijn geaggregeerd over de periode van de afgelopen 12 maanden
+- **Geschatte kosten per klant in** de afgelopen 12 maanden: Klanten gesorteerd op geschatte factuurbedrag vóór belasting, geaggregeerd in de periode van de afgelopen 12 maanden. Deze status geeft aan dat de belangrijkste klanten de meeste omzet genereren.
 
-- **Geschatte kosten per klant gedurende de afgelopen 12 maanden**: klanten gesorteerd op geschat bedrag factuur vooraf BTW, geaggregeerd over de periode van afgelopen 12 maanden. Deze status geeft aan dat de belangrijkste klanten de meeste omzet.
+- **Aantal klanten per product:** verkochte producten gesorteerd op gekoppelde klanten. Deze status geeft de belangrijkste producten aan die aan de meeste klanten zijn verkocht.
 
-- **Aantal klanten per product**: verkochte producten gesorteerd op gekoppelde klanten. Deze status duidt op de belangrijkste producten die aan de meeste klanten worden verkocht.
+### <a name="subscription-insights-report"></a>Abonnementsinzichten-rapport
 
-### <a name="subscription-insights-report"></a>Rapport met abonnement Insights
+- **Abonnementsstatus:**
 
-- **Abonnements status**:
+- Actief: Abonnementen die behoren tot de status Actief of In respijtperiode
 
-- Actief: abonnementen die horen bij de status ' actief ' of ' in de respijt periode '
+  - Tijdelijk: Abonnementen die behoren tot de status Uitgeschakeld
 
-  - Onderbroken: abonnementen die horen bij de status ' uitgeschakeld '
+  - De-provisioned: Abonnementen die behoren tot de status 'de-provisioned' of 'expired'
 
-  - Niet-ingericht: abonnementen die horen bij de status ' niet-ingericht ' of ' verlopen '
+- **Verloopstatus:**
 
-- **Verloop status**:
+  - Verlopen: Abonnementen die al zijn verlopen (waarbij de einddatum van het abonnement in het verleden ligt)
 
-  - Verlopen: abonnementen die al zijn verlopen (waarbij de eind datum van het abonnement in het verleden ligt)
+  - Verloopt na 30 dagen: Abonnementen die na 30 dagen verlopen (waarbij de einddatum van het abonnement na de volgende 30 dagen valt)
 
-  - Verlopen na 30 dagen: abonnementen die na 30 dagen verlopen (waarbij de eind datum van het abonnement na de volgende 30 dagen valt)
+  - Verloopt binnen 30 dagen: Abonnementen die binnen de volgende 30 dagen verlopen (waarbij de einddatum van het abonnement tussen vandaag en de volgende 30 dagen ligt)
 
-  - Verloopt over 30 dagen: abonnementen die binnen de komende 30 dagen verlopen (waarbij de eind datum van het abonnement tussen vandaag en de volgende 30 dagen ligt)
+- **Totaal aantal abonnementen:** Abonnementen met de status Actief, In respijtperiode of Uitgeschakeld
 
-- **Totaal aantal abonnementen**: abonnementen in actief, in de respijt periode of de status uitgeschakeld
+- **Nieuw (afgelopen 30 dagen)**: Nieuwe abonnementen die zijn gekocht door klanten in de afgelopen 30 dagen
 
-- **Nieuw (afgelopen 30 dagen)**: nieuwe abonnementen die klanten in de afgelopen 30 dagen zijn aangeschaft
+- **Nieuw (afgelopen 24 uur)**: Nieuwe abonnementen die zijn gekocht door klanten in de afgelopen 24 uur
 
-- **Nieuw (afgelopen 24 uur)**: nieuwe abonnementen die klanten in de afgelopen 24 uur zijn aangeschaft
+- **Verloopt over 30 dagen:** abonnementen die binnen de komende 30 dagen verlopen
 
-- **Verloopt over 30 dagen**: abonnementen die binnen de komende 30 dagen verlopen
+- **Verloop (afgelopen 30 dagen)**: Abonnementen die de inrichting in de afgelopen 30 dagen zijn beëindigd of tijdelijk zijn beëindigd (uitgeschakeld)
 
-- **Verloop (afgelopen 30 dagen)**: abonnementen die in de afgelopen 30 dagen zijn uitgezet of geblokkeerd (uitgeschakeld)
+- **Distributie op abonnementstypen:**% distributie van het totale aantal abonnementen op basis van licenties en abonnementstypen op basis van gebruik
 
-- **Distributie per abonnements** type:% distributie van het totale aantal abonnementen per licentie op basis van en op gebruik gebaseerd abonnement
+- **Aantal actieve abonnementen per product:** verkochte producten gesorteerd op aantal actieve abonnementen
 
-- **Aantal actieve abonnementen per product**: verkochte producten gesorteerd op actief aantal abonnementen
+- **Abonnementen in de afgelopen 12** maanden: trend van maand tot maand voor nieuwe abonnementen en verloopabonnementen die maandelijks zijn samengevoegd in de afgelopen 12 maanden
 
-- **Abonnementen over de afgelopen 12 maanden**: maand over maand trend van nieuwe abonnementen en verloop abonnementen die maandelijks worden geaggregeerd over de periode van afgelopen 12 maanden
+- **Details van klantabonnement:** gedetailleerde weergave van de klanten, abonnementen en aanbiedingen
 
-- **Details van klant abonnement**: gedetailleerd overzicht van de klanten, abonnementen en aanbiedingen
+### <a name="license-insights-report"></a>License Insights-rapport:
 
-### <a name="license-insights-report"></a>Licentie Insights-rapport:
+- **Totaal aantal licenties:** totaal aantal licenties dat is geaggregeerd voor alle op licenties gebaseerde abonnementen
 
-- **Totale licenties**: totaal aantal licenties dat is geaggregeerd op alle abonnementen op basis van licenties
+- **Nieuw (afgelopen 30 dagen)**: Optelling van licentie in de afgelopen 30 dagen
 
-- **Nieuw (afgelopen 30 dagen)**: licentie toevoeging binnen de afgelopen 30 dagen
+- **Verloop (afgelopen 30 dagen)**: Licentievermindering binnen de afgelopen 30 dagen
 
-- **Verloop (laatste 30 dagen)**: licentie reductie binnen de afgelopen 30 dagen
+- **Nieuw (afgelopen 24 uur)**: Optelling van licenties in de afgelopen 24 uur
 
-- **Nieuw (afgelopen 24 uur)**: licentie toevoeging in de afgelopen 24 uur
+- **Licenties in de afgelopen 90** dagen: de trend van maandelijkse toevoegingen en verlagingen van licenties die maandelijks zijn geaggregeerd in de afgelopen 90 dagen
 
-- **Licenties gedurende de afgelopen 90 dagen**: maand over maand trend van licentie toevoegingen en kortingen die maandelijks worden geaggregeerd over de periode van afgelopen 90 dagen
+- **Aantal actieve licenties per product:** verkochte producten gesorteerd op aantal actieve licenties
 
-- **Aantal actieve licenties per product**: verkochte producten gesorteerd op aantal actieve licenties
+- **Aantal actieve licenties per klant:** klanten gesorteerd op aantal actieve licenties
 
-- **Aantal actieve licenties per klant**: klanten gesorteerd op aantal actieve licenties
+- **Gebeurtenisdetails** van klantlicenties in de afgelopen 90 dagen: gedetailleerde weergave van de klanten, abonnementen en abonnementsgebeurtenissen, waaronder gebeurtenisdatum, gebeurtenisnaam, hoeveelheid en wijziging in hoeveelheid.
 
-- **Details van de klant licentie gebeurtenis gedurende de afgelopen 90 dagen**: gedetailleerde weer gave van de evenementen klanten, abonnementen en abonnementen, waaronder gebeurtenis datum, gebeurtenis naam, hoeveelheid en wijziging in hoeveelheid.
+### <a name="licenses-usage-report"></a>Gebruiksrapport licenties:
 
-### <a name="licenses-usage-report"></a>Gebruiks rapport licenties:
+- **Licenties die zijn toegewezen per product:** verkochte producten gesorteerd op aantal licentietoewijzingen
 
-- **Licenties die zijn toegewezen door product**: verkochte producten gesorteerd op aantal licenties toewijzingen
+- **Licenties die worden gebruikt door product:** Verkochte producten gesorteerd op aantal licenties
 
-- **Licenties die worden gebruikt door product**: verkochte producten gesorteerd op aantal licenties gebruik
+- **Klantdistributie van toegewezen** licenties: % distributie van het totale aantal klanten, opgesplitst in buckets van 20% bereik op licentietoewijzing %
 
-- **Klant distributie van verleende licenties**:% distributie van totaal aantal klanten verbroken in buckets van 20% bereik per licentie toewijzing%
+- **Klantdistributie van licenties in gebruik:**% distributie van het totale aantal klanten, opgesplitst in buckets van 20% bereik op licentiegebruik %
 
-- **Klant distributie van in gebruik** zijnde licenties:% distributie van totaal aantal klanten die zijn gebroken in buckets met een licentie gebruik%
+- **Licenties die zijn toegewezen door de klant:** gedetailleerde weergave van verkochte licenties en licenties die zijn toegewezen door klanten en producten
 
-- **Licenties die zijn toegewezen door de klant**: gedetailleerde weer gave van licenties die worden verkocht en licenties die zijn toegewezen door klanten en producten
-
-- **Licenties die worden gebruikt door de klant**: gedetailleerde weer gave van licenties die worden verkocht en licenties die worden gebruikt door klanten en producten
+- **Licenties die door de klant worden gebruikt:** gedetailleerde weergave van verkochte licenties en licenties die worden gebruikt door klanten en producten
 
 ### <a name="azure-insights-report"></a>Azure Insights-rapport:
 
-- **Klanten op basis van gebruik gedurende de afgelopen 12 maanden**: maand over maand trend van nieuwe op gebruik gebaseerde klanten en klanten die zijn gebaseerd op het gebruik van getijden op basis van verbruik, zijn maandelijks geaggregeerd over de periode van de afgelopen 12 maanden
+- Op gebruik gebaseerde klanten in de afgelopen **12** maanden: Trend van maandelijks nieuwe op gebruik gebaseerde klanten en op basis van verloop van gebruik gebaseerde klanten die maandelijks zijn geaggregeerd in de periode van de afgelopen 12 maanden
 
-- **Op gebruik gebaseerde abonnementen gedurende de afgelopen 12 maanden**: maand over maand trend van nieuwe op gebruik gebaseerde abonnementen en gespreide, op basis van gebruik geplaatste abonnementen maandelijks voor de periode van afgelopen 12 maanden
+- Abonnementen op basis van gebruik in de afgelopen **12** maanden: trend van maand tot maand voor nieuwe op gebruik gebaseerde abonnementen en abonnementen op basis van verloop, maandelijks samengevoegd in de periode van de afgelopen 12 maanden
 
-- **Geschatte kosten voor gebruik door de klant gedurende de afgelopen 60 dagen**: op gebruik gebaseerde klanten, gesorteerd op geschat bedrag factuur vooraf BTW, geaggregeerd over de periode van afgelopen 60 dagen. Deze status geeft aan dat klanten op het hoogste gebruik de meeste omzet
+- **Geschatte gebruikskosten** per klant in de afgelopen 60 dagen: op gebruik gebaseerde klanten gesorteerd op geschatte factuurbedrag vóór belasting, geaggregeerd in de afgelopen 60 dagen. Deze status geeft aan dat de belangrijkste klanten op basis van gebruik de meeste omzet genereren
 
-- **Geschatte kosten van gebruik per categorie gedurende de afgelopen 60 dagen**: meter categorieën van op gebruik gebaseerde abonnementen, gesorteerd op het geschatte bedrag vóór de BTW-factuur, geaggregeerd over de periode van de afgelopen 60 dagen.
+- **Geschatte gebruikskosten per** categorie gedurende de afgelopen 60 dagen: Metercategorieën van op gebruik gebaseerde abonnementen gesorteerd op geschatte factuurbedrag vóór belasting, geaggregeerd in de periode van de afgelopen 60 dagen.
 
-- **Geschatte kosten voor gebruik per abonnement gedurende de afgelopen 60 dagen**: op gebruik gebaseerde abonnementen op geraamde pre-BTW factuur bedrag, geaggregeerd over de periode van de afgelopen 60 dagen.
+- **Geschatte gebruikskosten per** abonnement gedurende de afgelopen 60 dagen: Abonnementen op basis van gebruik op basis van geschatte factuurbedragen vóór belasting, geaggregeerd in de afgelopen 60 dagen.
 
-- **Geschatte gebruiks kosten van klanten per uitgaven budget**: klanten die zijn gesorteerd op percentage van hun huidige bestedings budget overschrijden de drempel waarde (100%).
+- **Geschatte gebruikskosten van de klant op uitgavenbudget:** Klanten gesorteerd op percentage van hun huidige gebruiksbestedingsbudget dat de drempelwaarde overschrijdt (100%).
 
-### <a name="azure-resource-usage-report"></a>Azure resource gebruik-rapport:
+### <a name="azure-resource-usage-report"></a>Rapport azure-resourcegebruik:
 
-- **Gebruik van Azure-resources per dag voor de geselecteerde periode**: dagelijks verbruiks eenheden voor elke resource met data limiet in elk op gebruik gebaseerd abonnement voor geselecteerde periode in de afgelopen 60 dagen.
+- **Gebruik van Azure-resources per dag** voor de geselecteerde periode: dagelijkse verbruikseenheden voor elke resource naar gebruik in elk abonnement op basis van gebruik voor de geselecteerde periode in de afgelopen 60 dagen.
 
-- **Geschatte gebruiks kosten van Azure-resources voor de geselecteerde periode**: geschatte kosten op basis van de meest recente tarieven kaart voor elke resource met een licentie in elk op gebruik gebaseerd abonnement voor geselecteerde periode in de afgelopen 60 dagen. 
+- **Geschatte gebruikskosten van Azure-resources** voor de geselecteerde periode: Geschatte kosten op basis van de kaart met het meest recente tarief voor elke resource naar gebruik in elk abonnement op basis van gebruik voor de geselecteerde periode in de afgelopen 60 dagen. 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Overzicht van partner Center Analytics for Power BI-app](power-bi-app-for-direct-partners.md)
+- [Partner Center Analytics voor Power BI-app](power-bi-app-for-direct-partners.md)
 
 - [Install and preview the Partner Center Analytics app for Microsoft Power BI](power-bi-app-for-direct-partners-install.md) (Partner Center Analytics-app voor Microsoft Power BI installeren en preview bekijken)

@@ -4,69 +4,64 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Meer informatie over de typen technische ondersteuning Cloud Solution Provider-programma partners kunnen hun klanten aanbieden.
+description: Meer informatie over de typen technische ondersteuning die Cloud Solution Provider-programmapartners hun klanten kunnen bieden.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633842"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854992"
 ---
-# <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Technische ondersteuning bieden waarmee klanten hun abonnementen kunnen configureren, beheren en gebruiken
+# <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Technische ondersteuning bieden om klanten te helpen hun abonnementen te configureren, beheren en gebruiken
 
 
-**Juiste rollen**
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Helpdeskagent | Beheeragent
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Helpdesk medewerker
-- Beheer agent
-
-Als Cloud Solution Provider-partner hebt u beheerders bevoegdheden gedelegeerd waarmee u toegang krijgt tot de omgevingen van uw klanten. Deze bevoegdheden bieden u de mogelijkheid om de abonnementen van uw klanten rechtstreeks te ondersteunen, te configureren en te beheren.
+Als Cloud Solution Provider partner hebt u gedelegeerde beheerdersbevoegdheden die u toegang geven tot de omgevingen van uw klanten. Deze bevoegdheden bieden u de mogelijkheid om de abonnementen van uw klanten rechtstreeks te ondersteunen, te configureren en te beheren.
 
 In Partner Center kunt u het volgende doen:
 
-- Status van klanten service weer geven
-- Klant service-incidenten weer geven
+- Service health van klantenservice weergeven
+- Klantenservice-incidenten weergeven
 
 ## <a name="perform-admin-tasks-for-your-customers"></a>Beheertaken uitvoeren voor uw klanten
 
-1. Selecteer in het menu **Partner Center** **klanten**. Kies uw klant in de lijst.
-2. Selecteer **Service beheer** in het menu klant.
-3. Kies in de sectie **Services beheren** de service waarmee u moet werken om de beheer portal voor de service te openen.
-4. Als u een probleem ondervindt met het account van een klant, zoals services of een gedegradeerde ervaring, kunt u beginnen met het controleren van de service status. Zie [service status controleren](check-service-health.md).
-5. Een service aanvraag indienen om een doorlopend probleem naar micro soft te escaleren. Zie [problemen namens een klant melden](report-problems-on-behalf-of-a-customer.md).
+1. Selecteer in **Partner Center** menu **Klanten.** Kies uw klant in de lijst.
+2. Selecteer Servicebeheer in het menu **van de klant.**
+3. Kies in **de sectie Services** beheren de service waarin u moet werken om de beheerportal voor de service te openen.
+4. Als u een probleem vindt met het account van een klant, zoals services die niet werken of een gedegradeerde ervaring, begint u met het controleren van de status van de service. Zie [Service health controleren.](check-service-health.md)
+5. Als u een doorlopend probleem naar Microsoft wilt escaleren, moet u een serviceaanvraag indienen. Zie [Problemen melden namens een klant.](report-problems-on-behalf-of-a-customer.md)
 
-## <a name="microsoft-partner-support-guidance"></a>Ondersteunings richtlijnen voor micro soft partner
+## <a name="microsoft-partner-support-guidance"></a>Ondersteuningshulp voor Microsoft-partners
 
-Partners die in het CSP-model handelen, zijn de vertrouwde Advisor voor hun klanten en zijn eigenaar van de relatie end-to-end, met inbegrip van ondersteuning wanneer hun klant een vraag of probleem heeft. Via ondersteuning voor aanraak punten kunnen partners meer informatie krijgen over de klant en hun bedrijf, om nieuwe services en oplossingen te identificeren die de waarde ondersteunen.
+Partners die in het CSP-model werken, zijn de vertrouwde adviseur voor hun klanten en zijn eigenaar van de relatie end-to-end, inclusief ondersteuning wanneer hun klant een vraag of probleem heeft. Via ondersteuningscontactpunten kunnen partners meer te weten komen over de klant en hun bedrijf om nieuwe services en oplossingen te identificeren die waarde creëren.
 
-Om aan de ondersteunings vereisten te voldoen, kan de partner ondersteuning van een andere entiteit door lopen, ze kunnen een volledige of een deel van hun ondersteunings structuur uitbesteden en/of ze kunnen een structuur instellen om direct ondersteuning te bieden.  De partner kan in rekening worden gebracht voor alle of een deel van de ondersteuning die aan klanten wordt geboden. De partner moet aan hun klanten samen werken met de ondersteuning die ze bieden, de service-uren en de contact methode en de prijzen (als de kosten voor ondersteuning worden geloosd). 
+Om aan de ondersteuningsvereiste te voldoen, kan de partner ondersteuning van een andere entiteit opnieuw verkopen, kan deze de ondersteuningsstructuur geheel of deels uitbesteeden en/of kan de partner een structuur instellen om rechtstreeks ondersteuning te bieden.  De partner kan kosten in rekening brengen voor alle of een deel van de ondersteuning die aan klanten wordt geboden. De partner moet aan hun klanten de ondersteuning verwoorden die ze bieden, de serviceuren en contactmethode en de prijzen (indien in rekening worden brengen voor ondersteuning). 
 
-Partners moeten inkomende ondersteunings aanvragen van klanten ontvangen, problemen met het beste van de partner kunnen vaststellen en vervolgens problemen oplossen die binnen het bereik van de grenzen voor basislijn ondersteuning vallen. Als de partner een probleem niet kan oplossen, kunnen ze problemen naar micro soft escaleren via de volgende ondersteunings voertuigen:
+Partners moeten binnenkomende ondersteuningsaanvragen van klanten ontvangen, problemen vaststellen naar beste vermogen van de partner en vervolgens problemen oplossen die binnen het bereik van de basislijnondersteuningsgrenzen vallen. Als de partner een probleem niet kan oplossen, kan deze problemen naar Microsoft escaleren via de volgende ondersteuningswagens:
 
-- Ondersteuning voor **commerciële** problemen is beschikbaar voor alle partners in het CSP-programma
+- **Ondersteuning** voor commerciële problemen is beschikbaar voor alle partners in het CSP-programma
 
-- Ondersteuning voor **technische** problemen is beschikbaar via:
+- **Ondersteuning** voor technische problemen is beschikbaar via:
 
-  - Premier Support voor partners (op basis van kosten)
+  - Premier Support voor partners (gebaseerd op kosten)
   - Geavanceerde ondersteuning voor partners (op basis van kosten)
-  - Ondersteuning voor hand tekeningen in de Cloud (inbegrepen bij Gold/Silver-competentie)
+  - Signature Cloud Support (opgenomen in de Gold/Silver-competentie)
 
-### <a name="providing-billing-subscription-management-and-technical-support"></a>Facturering, abonnements beheer en technische ondersteuning bieden 
+### <a name="providing-billing-subscription-management-and-technical-support"></a>Facturering, abonnementsbeheer en technische ondersteuning bieden 
 
-Elke online service heeft specifieke en gedetailleerde vereisten voor het bieden van facturering, abonnements beheer en technische ondersteuning voor klanten. Zie voor meer informatie:
+Elke onlineservice heeft specifieke en gedetailleerde vereisten voor het bieden van facturering, abonnementsbeheer en technische ondersteuning aan klanten. Zie voor meer informatie:
 
-- [Dynamics 365-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [Dynamics 365-abonnementen verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
-- [Azure-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+- [Azure-abonnementen verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Office 365-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Office 365-abonnementen verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Meld een service probleem namens een klant, zoals wanneer en hoe dit moet gebeuren](report-problems-on-behalf-of-a-customer.md)
+- [Een serviceprobleem namens een klant melden , inclusief wanneer en hoe u dit doet](report-problems-on-behalf-of-a-customer.md)

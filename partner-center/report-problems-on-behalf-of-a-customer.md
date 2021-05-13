@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 6ba25d0bfc4796ca43d36bb34bf6d9e82889881c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018115"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855706"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Een serviceprobleem melden namens een klant, inclusief wanneer en hoe dit te doen
 
-**Van toepassing op**
+**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partnercentrum voor Microsoft Cloud for US Government
-
-**Juiste rollen**
-
-- Globale beheerder
+**Juiste rollen:** globale beheerder
 
 Als uw klant een serviceprobleem ondervindt dat u niet kunt oplossen en voldoet aan de criteria die worden beschreven in Problemen escaleren naar [Microsoft,](escalate-problems-to-microsoft.md)kan uw indirecte provider een ondersteuningsticket voor hen indienen. Dit proces is ook nuttig voor het escaleren van factureringsproblemen of geschillen en voor fraudeproblemen.
 
@@ -48,15 +44,15 @@ Als uw klant een serviceprobleem ondervindt dat u niet kunt oplossen en voldoet 
 >
 >- Als u, als indirecte reseller, serviceaanvragen wilt maken voor uw klant in Azure, moet uw indirecte provider u toegang verlenen tot het Azure-account van de klant. Dit verschilt van het beheer namens klanten voor Office 365.
 >
->- Hoewel de helpdeskbeheerder in Partner Center geen serviceaanvragen kan maken in de Azure-serviceportal, kunnen ze wel een ondersteuningsgroep maken in de Azure-serviceportal en die groep machtigingen geven voor het registreren van ondersteuningsaanvragen.
+>- Hoewel de helpdeskbeheerder in Partner Center geen serviceaanvragen kan maken in de Azure-serviceportal, kunnen ze een ondersteuningsgroep maken in de Azure-serviceportal en die groep machtigingen geven om ondersteuningsaanvragen te registreren.
 
 1. Selecteer **Nieuwe ondersteuningsaanvraag**.
 
-2. Vul de juiste gegevens in voor de ondersteuningsaanvraag en selecteer vervolgens **Maken:**
+2. Vul de ondersteuningsaanvraag in met de juiste informatie en selecteer vervolgens **Maken:**
 
    - Selecteer in **de** sectie Basisbeginselen van de ondersteuningsaanvraag de optie **Cloud Solution Provider** in het **veld Ondersteuningsplan.**
 
-   - Voer in **de** sectie Contactgegevens van de ondersteuningsaanvraag uw gegevens in, niet de gegevens van uw klant.
+   - Voer in **de sectie** Contactgegevens van de ondersteuningsaanvraag uw gegevens in, niet de gegevens van uw klant.
 
 3. Controleer later de serviceaanvragen van uw klant binnen de Microsoft Azure-portal door **Ondersteuningsaanvragen beheren te selecteren.**
 
@@ -134,7 +130,7 @@ Nee, telefonische ondersteuning wordt niet aangeboden voor dit programma.
 
 Als u zich rechtstreeks Microsoft Azure-portal, bekijkt u het centrum in uw eigen context, niet in de context van een klant. Daarom moet u zich alleen rechtstreeks aanmelden bij de Microsoft Azure-portal bij het maken van een serviceaanvraag voor uw eigen abonnementen.
 
-Het ondersteuningsrechten voor uw CSP-programma biedt geen ondersteuning voor uw eigen Partner-abonnement. Daarom moet u uw geldige ondersteuningsplanrechten verstrekken wanneer u een serviceaanvraag maakt die betrekking heeft op uw eigen Partner-abonnement. Voorbeelden zijn MPN-contract-id, Premier of ondersteuning voor Azure abonnement. Zie de veelgestelde vragen over [Ondersteuning voor Azure meer informatie.](https://go.microsoft.com/fwlink/?LinkId=717532)
+Het ondersteuningsrechten voor uw CSP-programma biedt geen ondersteuning voor uw eigen Partner-abonnement. Daarom moet u uw geldige ondersteuningsplanrechten verstrekken wanneer u een serviceaanvraag maakt die betrekking heeft op uw eigen Partner-abonnement. Voorbeelden zijn MPN-contract-id, Premier of ondersteuning voor Azure abonnement. Zie de veelgestelde vragen over de [Ondersteuning voor Azure voor meer informatie.](https://go.microsoft.com/fwlink/?LinkId=717532)
 
 ### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Wat gebeurt er als ik me meld bij de portal van het Office 365-beheercentrum en mijn Partner Center?
 

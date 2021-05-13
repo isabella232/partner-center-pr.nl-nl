@@ -4,107 +4,103 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Met het Azure-abonnement leert u hoe u één of meerdere Azure-abonnementen kunt kopen, Azure-reserve ringen kunt gebruiken om resources te configureren en om abonnementen te bekijken of toe te voegen.
+description: Leer met behulp van het Azure-plan hoe u een of meer Azure-abonnementen, Azure-reserveringen, resources kunt configureren en abonnementen kunt weergeven of toevoegen.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec74076281d4c8e65de6818281a2852df264732c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441622"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854958"
 ---
-# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Koop het Azure-abonnement voor klanten & de nieuwste Azure-Services te openen met betalen per gebruik-tarieven
+# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Het Azure-abonnement kopen voor klanten & nieuwste Azure-services te gebruiken tegen tarieven voor betalen per gebruik
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Verkoopagent
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Verkoop agent
-
-Wanneer u een Azure-abonnement aanschaft voor uw klanten onder de klant overeenkomst van micro soft, hebt u toegang tot de volledige catalogus van de nieuwste Azure-Services met betalen per gebruik-tarieven. CSP-partners hebben nu toegang tot een Azure-service wanneer deze algemeen beschikbaar wordt. Een partner kan meerdere Azure-abonnementen hebben onder een Azure-abonnement. 
+Wanneer u een Azure-abonnement voor uw klanten koopt onder de Microsoft-klantovereenkomst, hebt u toegang tot de volledige catalogus met de nieuwste Azure-services tegen tarieven voor betalen per gebruik. CSP-partners hebben nu toegang tot elke Azure-service wanneer deze algemeen beschikbaar komt. Een partner kan meerdere Azure-abonnementen hebben onder een Azure-abonnement. 
 
 ## <a name="countryregion-availability"></a>Beschikbaarheid in land/regio
 
-De nieuwe Commerce-ervaring in CSP voor Azure is momenteel in 139 landen gepland om beschikbaar te zijn. Bekijk de volledige lijst met deze [landen/regio's](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x). 
+De nieuwe commerce-ervaring in CSP voor Azure is momenteel gepland om beschikbaar te zijn in 139 landen. Zie de volledige lijst met deze [landen/regio's.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
 
-## <a name="how-to-purchase-azure-plan"></a>Azure-abonnement aanschaffen
+## <a name="how-to-purchase-azure-plan"></a>Azure-abonnement kopen
 
-Hoe u het Azure-abonnement aanschaft, is vergelijkbaar met het aanschaffen van een ander abonnement. Het belangrijkste verschil is dat voordat u uw bestelling daad werkelijk plaatst, moet bevestigen dat uw klant de micro soft-klant overeenkomst heeft ondertekend.
+De manier waarop u het Azure-abonnement aanschaft, is vergelijkbaar met het kopen van een ander abonnement. Het belangrijkste verschil is dat u, voordat u uw bestelling daadwerkelijk gaat plaatsen, moet bevestigen dat uw klant de handtekening heeft Microsoft-klantovereenkomst.
 
-1. Selecteer **segment commerciële** en typ **Microsoft Azure** 
-2. Selecteer **aan winkel wagen toevoegen** onder Azure-abonnement
+1. Selecteer **Commercieel segment** en typ **Microsoft Azure** 
+2. Selecteer onder Azure-plan de **optie Toevoegen aan winkelwagen**
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Kopen":::
 
-De partner moet bevestigen dat de klant de voor waarden van de micro soft-klant overeenkomst heeft beoordeeld en geaccepteerd. Lees voor meer informatie over hoe de partner dit kan doen de [acceptatie van klant bevestigen van de micro soft-klant overeenkomst](confirm-customer-agreement.md). Andere resources zijn beschikbaar in de [resource galerie](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+De partner moet bevestigen dat de klant de voorwaarden heeft Microsoft-klantovereenkomst geaccepteerd. Voor meer informatie over hoe de partner dit kan doen, leest u De [klantacceptatie](confirm-customer-agreement.md)van de Microsoft-klantovereenkomst. Andere resources zijn beschikbaar in de [resourcegalerie](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
-**U kunt dit controleren door**: 
+**Om dit te bevestigen, gaat u naar**: 
 
 1. Bevestig digitaal of,
 
-2. De klant uitnodigen om de micro soft-klant overeenkomst rechtstreeks bij micro soft te ondertekenen. 
+2. Nodig de klant uit om de Microsoft-klantovereenkomst bij Microsoft te ondertekenen. 
 
-### <a name="to-confirm"></a>Te bevestigen 
+### <a name="to-confirm"></a>Om te bevestigen 
 
-1. Selecteer op de pagina **account** van de klant **bijwerken** naast **klant overeenkomst van micro soft**  
+1. Selecteer op de pagina **Account van** de klant de optie **Bijwerken** naast **Microsoft-klantovereenkomst**  
 
-2. Vul de informatie in over de persoon van het bedrijf van de klant die de MCuA heeft geaccepteerd.
+2. Vul de informatie in over de persoon in het bedrijf van de klant die de MCuA heeft geaccepteerd.
 
-3. Selecteer **opslaan en door gaan.**  
+3. Selecteer **Opslaan en doorgaan.**  
 
-## <a name="review-and-buy"></a>Controleren en kopen
+## <a name="review-and-buy"></a>Beoordelen en kopen
 
-U keert terug naar de pagina **een product toevoegen** , waar u kunt zien dat het Azure-abonnement is toegevoegd. Selecteer **beoordeling** om uw aankoop te controleren en selecteer vervolgens **kopen**. 
+U keert terug naar **de pagina Een product** toevoegen waar u kunt zien dat het Azure-plan is toegevoegd. Selecteer **Controleren** om uw aankoop te controleren en selecteer vervolgens **Kopen.** 
 
 >[!Note]
->Zodra u het Azure-abonnement voor een klant hebt aangeschaft, kunt u Microsoft Azure (0145p) niet meer kopen voor die klant. U moet toekomstige abonnementen maken via het Azure-abonnement.
+>Nadat u het Azure-abonnement voor een klant hebt gekocht, kunt u geen Microsoft Azure (0145p) meer aanschaffen voor die klant. U moet toekomstige abonnementen maken via het Azure-plan.
 
-## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure-reserve ringen aanschaffen onder het Azure-abonnement 
+## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure-reserveringen aanschaffen onder het Azure-plan 
   
-U kunt Microsoft Azure reserve ringen ook kopen onder Azure-abonnement namens uw klanten in partner centrum. (Of, als u dat wilt, kunt u [uw klanten toestemming geven hun eigen Azure-reserve ringen te kopen](give-customers-permission.md) van een vorig abonnement dat u voor hen hebt aangeschaft.)
+U kunt ook Microsoft Azure azure-abonnement namens uw klanten in Partner Center. (Als u dat liever hebt, kunt u uw klanten ook toestemming geven om hun eigen [Azure-reserveringen](give-customers-permission.md) te kopen bij een eerder abonnement dat u voor hen hebt aangeschaft.)
 
-1. Selecteer in het menu Partner Center op uw [dash board](https://partner.microsoft.com/dashboard/)de optie **klanten**. Zoek de klant die Azure-reserve ringen wil kopen en selecteer vervolgens de pijl-omlaag om de rij van de klant uit te vouwen.
+1. Selecteer in Partner Center menu op uw [dashboard](https://partner.microsoft.com/dashboard/)de optie **Klanten.** Zoek de klant die Azure-reserveringen wil aanschaffen en selecteer vervolgens de pijl-omlaag om de rij van de klant uit te vouwen.
 
-2. Selecteer **producten toevoegen** en selecteer vervolgens **Azure**. 
+2. Selecteer **Producten toevoegen** en selecteer vervolgens **Azure**. 
 
-   - Kies het markt segment van de klant in de lijst **segment** .
-   - Kies **reserve ringen** in de lijst **product type** .
-   - Kies het type reserve ring dat de klant wil ontvangen in de lijst **type reserve ringen** .
+   - Kies het marktsegment van de klant in de **lijst Segment.**
+   - Kies **Reserveringen in** de lijst **Producttype.**
+   - Kies in de lijst **Reserveringstype** het type reservering dat de klant wil.
 
-Azure-reserve ringen moeten worden gekoppeld aan een actief Azure-abonnement. Kies het Azure-abonnement waaraan u Azure-reserve ringen wilt toevoegen in de lijst met klant abonnementen. 
+Azure-reserveringen moeten worden gekoppeld aan een actief Azure-plan. Kies in de lijst Klantabonnement het Azure-abonnement waar u Azure-reserveringen aan wilt toevoegen. 
 
 >[!Important] 
->Als de klant nog geen actief Azure-abonnement heeft, selecteert u Azure om er nu een toe te voegen. Lees [Azure-reserve ringen](azure-reservations-buying.md#purchase-azure-reservations)voor meer instructies.
+>Als de klant nog geen actief Azure-plan heeft, selecteert u Azure om er nu een toe te voegen. Lees Azure-reserveringen [kopen voor meer instructies.](azure-reservations-buying.md#purchase-azure-reservations)
 
 >[!Note]
->Een reserverings bereik kan alleen worden ingesteld op **gedeeld**, momenteel in het partner centrum. Als u het bereik voor één abonnement wilt selecteren of als u een update wilt gebruiken van gedeeld naar een enkel abonnement, gaat u met de volgende instructies naar **Microsoft Azure beheer Portal** . 
+>Het bereik van een reservering kan alleen worden ingesteld **op Gedeeld**, momenteel in Partner Center. Als u één abonnementsbereik wilt selecteren of wilt bijwerken van gedeeld abonnementsbereik, gaat u naar **Microsoft Azure Management portal** met behulp van de volgende instructies. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Instelling voor reserve ring van gedeelde Scope":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Instelling voor reserveringen voor gedeeld bereik":::
 
-Voor het beheren van de reserve ring van de klant in de Azure Portal: 
+De reservering van de klant beheren in de Azure Portal: 
 
-1. Van **klanten** selecteren de klant die u wilt beheren. 
+1. Selecteer **bij** Klanten de klant die u wilt beheren. 
 
-2. Vouw de rij van de klant uit met behulp van de pijl-omlaag en selecteer **Microsoft Azure beheer Portal**.  
+2. Vouw met de pijl-omlaag de rij van de klant uit en selecteer **Microsoft Azure Beheerportal.**  
  
-## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Azure-abonnementen bekijken onder het Azure-abonnement
+## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Azure-abonnementen weergeven onder het Azure-plan
 
-Op de pagina **abonnementen** , in de sectie gebruiks basis, vouwt u **Azure plan** uit om de bijbehorende Azure-abonnementen weer te geven onder het Azure-abonnement.
+Vouw op **de pagina Abonnementen** in de sectie Op gebruik gebaseerde azure-abonnement uit **om** gekoppelde Azure-abonnementen onder het Azure-plan te bekijken.
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="Lijst met Azure-abonnementen weer geven"::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Lijst met Azure-abonnementen weergeven"::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Abonnementen toevoegen en resources configureren
 
-U gaat abonnementen toevoegen en resources voor uw klant configureren in Azure Portal. U kunt ook de omgeving van uw klant scheiden door de werk belasting of het project. Het is mogelijk om abonnementen te beheren via [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) en Azure Portal. 
+U voegt abonnementen toe en configureert resources voor uw klant in Azure Portal. U kunt de omgeving van uw klant ook scheiden per workload of project. Het is mogelijk om abonnementen te beheren [via Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) en Azure Portal. 
 
-Als u de resources en abonnementen van uw klant wilt beheren, hebt u beheerders bevoegdheden nodig **voor** administrate. Lees [Abonnementen en resources beheren onder het Azure-abonnement](azure-plan-manage.md) voor meer informatie over het beheren van uw toegang.
+Als u de resources en abonnementen van  uw klant wilt beheren, hebt u beheerdersbevoegdheden namens (AOBO) nodig. Lees Abonnementen en resources beheren onder het [Azure-plan](azure-plan-manage.md) voor meer informatie over het beheren van uw toegang
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Klant overgangen naar Azure-abonnement](azure-plan-transition.md)
+- [Klantovergangen naar Azure-plan](azure-plan-transition.md)
 
-- [Creditering van de partner-overzicht](partner-earned-credit.md)
+- [Partnertegoed - overzicht](partner-earned-credit.md)

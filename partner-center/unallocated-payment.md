@@ -4,39 +4,36 @@ ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over wat niet-toegewezen betalingen zijn wanneer u ze ziet op de facturerings pagina van uw partner centrum. Meer informatie over hoe u deze toepast op uw facturen.
+description: Ontdek wat niet-toegewezen betalingen zijn wanneer u deze ziet op Partner Center factureringspagina. Leer ook hoe u deze kunt toepassen op uw facturen.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 018416585ea141d4842ec0787b59fd7e214c9999
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755809"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818623"
 ---
-# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Niet-toegewezen betalingen beheren op de facturerings pagina van uw partner centrum
+# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Niet-toegewezen betalingen beheren op uw Partner Center factureringspagina
 
-**Juiste rollen**
+**Juiste rollen:** Factureringsbeheerders | Accountbeheerder
 
-- Factureringsbeheerder
-- Accountbeheerder
+Af en toe wordt er mogelijk een niet-toegewezen betaling weergegeven op uw factureringspagina. Een niet-toegewezen betaling is een betaling die u hebt gedaan bij Microsoft en die u niet hebt toegepast op een specifieke factuur.
 
-Af en toe ziet u mogelijk een niet-toegewezen betaling op uw facturerings pagina. Een niet-toegewezen betaling is een betaling die u hebt gedaan aan micro soft en die u niet hebt toegepast op een specifieke factuur.
+## <a name="to-view-your-unallocated-payments"></a>Uw niet-toegewezen betalingen weergeven
 
-## <a name="to-view-your-unallocated-payments"></a>Uw niet-toegewezen betalingen weer geven
+1. [Meld u aan bij het Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
 
-1. [Meld u aan bij het dash board van de partner centrum](https://partner.microsoft.com/dashboard/home).
+2. Kies facturering in het menu aan de **linkerkant.**
 
-2. Kies **facturering** in het menu aan de linkerkant.
+3. Zoek op de pagina Facturering de **sectie Niet-toegewezen** betaling. 
 
-3. Zoek de sectie niet- **toegewezen betaling** op de pagina facturering. 
+Als u dit bedrag wilt toepassen op een bepaalde factuur, e-mailt u en laat bposcapp@microsoft.com u ons weten op welke factuur deze betaling moet worden toegepast. Zorg ervoor dat u alle gegevens opsomt die u zou doen als u een betaling zou doen. Uw factureringspagina wordt over 5-6 dagen bijgewerkt. 
 
-Als u dit bedrag wilt Toep assen op een bepaalde factuur, moet u een e-mail sturen bposcapp@microsoft.com en ons laten weten op welke factuur deze betaling moet worden toegepast. Zorg ervoor dat u alle informatie opneemt die u zou doen als u een betaling zou doen. Uw facturerings pagina wordt over 5-6 dagen bijgewerkt. 
-
-Niet-toegewezen betalingen blijven ongedaan totdat u ze aan een factuur toewijst. 
+Niet-toegewezen betalingen blijven niet-toegewezen totdat u ze aan een factuur toewijst. 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Facturering voor commerciële Marketplace-Producten en-abonnementen in partner centrum](csp-commercial-marketplace-billing.md)
+- [Facturering voor commerciële marketplace-producten en -abonnementen in Partner Center](csp-commercial-marketplace-billing.md)

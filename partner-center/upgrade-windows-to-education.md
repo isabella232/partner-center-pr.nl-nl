@@ -1,100 +1,97 @@
 ---
-title: Windows 10 Home naar Windows 10 education bijwerken
+title: Upgrade Windows 10 Home naar Windows 10 Education
 ms.topic: article
 ms.date: 10/28/2020
-description: Meer informatie over hoe Cloud Solution Provider (CSP)-partners sommige van hun onderwijs klanten kunnen upgraden van Windows 10 Home naar Windows 10 onderwijs
+description: Ontdek hoe Cloud Solution Provider (CSP)-partners sommige van hun Education-klanten kunnen upgraden van Windows 10 Home naar Windows 10 Education
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022737"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818691"
 ---
-# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Upgrade sommige onderwijs klanten van Windows 10 Home naar Windows 10 education
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Sommige Education-klanten upgraden van Windows 10 Home naar Windows 10 Education
 
-**Juiste rollen**
-
-- Beheer agent
-- Factureringsbeheerder
+**Juiste rollen:** beheeragent | Factureringsbeheerder
 
 ## <a name="overview"></a>Overzicht
 
-Vanaf 1 november 2020 kunnen Csp's die Microsoft 365 a3-of A5-of Windows 10 Enter prise a3-of A5-abonnementen hebben aangeschaft, hun education-klanten helpen upgraden van Windows 10 Home naar Windows 10 onderwijs, dat is ontworpen voor zowel het klas lokaal als het onderwijs op afstand.
+Vanaf 1 november 2020 kunnen CSP's die Microsoft 365 A3- of A5- of Windows 10 Enterprise A3- of A5-abonnementen hebben gekocht, hun Education-klanten helpen bij het upgraden van Windows 10 Home naar Windows 10 Education, dat is ontworpen voor zowel het leslokaal als extern leren.
 
-Van 1 november 2020 is Windows 10 Home een in aanmerking komend besturings systeem voor onderwijs klanten waarvoor een licentie is verkregen via de Microsoft Cloud overeenkomst (via CSP). Deze Beschik baarheid, die tot nu toe alleen beschikbaar is in onderwijs Programma's voor volume licenties (VL), is ingeschakeld via Microsoft 365-beheer Portal ondersteuning. 
+Vanaf 1 november 2020 Windows 10 Home een in aanmerking komend besturingssysteem voor Education-klanten met een licentie via de Microsoft Cloud-overeenkomst (via CSP). Deze geschiktheid, die tot nu toe alleen beschikbaar was in vl-onderwijsprogramma's (Volume Licensing), is ingeschakeld via de Microsoft 365 beheerportal. 
 
-## <a name="how-the-upgrade-process-works"></a>Hoe het upgrade proces werkt
+## <a name="how-the-upgrade-process-works"></a>Hoe het upgradeproces werkt
 
-CSP-partners kunnen hun klanten helpen bij te werken door een ondersteunings aanvraag in hun naam in te dienen. De aanvraag wordt door Microsoft Ondersteuning gecontroleerd om ervoor te zorgen dat de klant in aanmerking komt. Zodra de aanvraag is goedgekeurd, biedt ondersteuning de Windows 10 Pro education-sleutel voor de partner die deze vervolgens aan de klant kan geven.
+CSP-partners kunnen hun klanten helpen bij het upgraden door namens hen een ondersteuningsaanvraag in te dienen. Microsoft-ondersteuning beoordeelt de aanvraag om ervoor te zorgen dat de klant in aanmerking komt; zodra de aanvraag is goedgekeurd, geeft de ondersteuning de Windows 10 Pro Education aan de partner die deze vervolgens aan de klant kan geven.
 
-Wanneer de klant de sleutel installeert en het apparaat wordt toegevoegd aan het Tenant domein via Azure Active Directory (AAD), wordt het apparaat automatisch bijgewerkt naar Windows 10 education (abonnement).   
+Wanneer de klant de sleutel installeert en het apparaat via Azure Active Directory (AAD) is verbonden met het tenantdomein, wordt het apparaat automatisch bijgewerkt naar Windows 10 Education (abonnement).   
 
-## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Stapsgewijs proces voor klanten om Windows 10-onderwijs te verkrijgen
+## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Stapsgewijs proces voor klanten om de Windows 10 Education
 
-Partners moeten een ondersteunings aanvraag maken en sleutels ontvangen van ondersteuning. Partners delen deze sleutels vervolgens met hun klanten.
+Partners moeten een ondersteuningsaanvraag maken en sleutels ophalen van ondersteuning. Partners delen deze sleutels vervolgens met hun klanten.
 
-### <a name="partners--how-to-get-the-keys"></a>Partners: de sleutels ophalen:
+### <a name="partners--how-to-get-the-keys"></a>Partners: hoe u de sleutels kunt ophalen:
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard).
 
-2. Selecteer **klanten** in het menu van het partner centrum en selecteer vervolgens de klant die ondersteuning nodig heeft.
+2. Selecteer in Partner Center menu **Klanten** en selecteer vervolgens de klant die ondersteuning nodig heeft.
 
-3. Selecteer **Service beheer** en selecteer **service aanvragen**.
+3. Selecteer **Servicebeheer** en selecteer **Serviceaanvragen.**
 
-4. Selecteer **nieuwe aanvraag** en selecteer vervolgens **Office 365 en Enter prise Mobility Suite**.
+4. Selecteer **Nieuwe aanvraag** en selecteer vervolgens Office **365 en Enterprise Mobility Suite.**
 
-5. U gaat naar de Office 365-Portal waar u zich moet aanmelden met de referenties van uw partner centrum.
+5. U gaat naar de Office 365-portal waar u zich moet aanmelden met uw Partner Center referenties.
 
-6. Selecteer **ondersteuning, nieuwe service** aanvraag vanuit het menu aan de linkerkant.
+6. Selecteer **Ondersteuning, Nieuwe serviceaanvraag** in het linkermenu.
 
-7. Neem de onderstaande gegevens op in de Ondersteuningsaanvraag:
+7. Neem de onderstaande gegevens op in Ondersteuningsaanvraag:
 
-- **Titel:** Product code voor de upgrade van Windows 10 Home naar Windows 10
-- **Beschrijving:** Er wordt gevraagd om de sleutels [insert nummer] in te scha kelen voor een upgrade naar Windows 10-onderwijs. (Houd er rekening mee dat het aangevraagde aantal sleutels niet groter mag zijn dan uw Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnements licenties.) Abonnements-ID van de klant [Voeg abonnements-ID-GUID voor klanten in voor hun Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnement.]
-- **Contact nummer:** Dit wordt vooraf ingevuld. controleren om te bevestigen of bij te werken.
-- **E-mail:** Dit wordt vooraf ingevuld en moet het e-mail adres zijn dat u gebruikt als micro soft Portal-beheerder (alleen globale beheerder of facturerings beheerder).
-- **Voorkeurs methode voor contact personen**: Kies **telefoon** of **plan terugbellen**.
+- **Titel:** Windows 10 Home productcode Windows 10 Education upgraden
+- **Beschrijving:** [insert number]-sleutels aanvragen om de upgrade naar Windows 10 Education. (Houd er rekening mee dat het aantal aangevraagde sleutels niet groter mag zijn dan uw Microsoft 365 A3/A5- of Windows 10 Enterprise A3/A5-abonnementslicenties.) Abonnements-id van klant [GUID voor abonnements-id van klanten invoegen voor hun Microsoft 365 A3/A5 of Windows 10 Enterprise A3/A5-abonnement.]
+- **Contactnummer:** Dit wordt vooraf ingevuld; controleren om te bevestigen of bij te werken.
+- **E-mail:** Dit wordt vooraf ingevuld en moet het e-mailadres zijn dat u gebruikt als beheerder van de Microsoft-portal (alleen globale beheerder of factureringsbeheerder).
+- **Voorkeurscontactmethode:** kies **Telefoon of** **Een terugroep plannen.**
 
-8. Selecteer **contact opnemen**. De verwachte wacht tijd wordt aangegeven in het deel venster **hulp nodig?** .
+8. Selecteer **Contact opnemen.** De verwachte wachttijd wordt aangegeven in het deelvenster **Hulp** nodig? .
 
-9. De aanvraag wordt door **Microsoft ondersteuning** gecontroleerd om er zeker van te zijn dat de klant in aanmerking komt. Zodra de aanvraag is goedgekeurd, wordt een e-mail verzonden naar de partner met instructies over het verkrijgen van toegang tot de sleutels.
+9. **Microsoft-ondersteuning** wordt de aanvraag beoordeeld om ervoor te zorgen dat de klant in aanmerking komt. Zodra de aanvraag is goedgekeurd, wordt er een e-mailbericht verzonden naar de partner met instructies voor toegang tot de sleutels.
 
 10. **Partners** delen de sleutels en andere instructies met hun klanten.
 
 ### <a name="customer-applies-the-upgrade"></a>De klant past de upgrade toe:
 
-Als u Windows 10 Home wilt bijwerken met een product code voor Windows 10 Pro education, moet de klant het volgende doen:  
+Als u Windows 10 Home een productcode Windows 10 Pro Education, moet de klant het volgende doen:  
 
-1. Selecteer **Start** en selecteer vervolgens **instellingen > Update & beveiliging > activering**. Selecteer **product code wijzigen** en voer vervolgens de 25-tekens Windows 10 Pro-product code in. Selecteer **volgende** om de upgrade naar Windows 10 Pro te starten.
+1. Selecteer **Start** en selecteer vervolgens **Instellingen > Update & Security > Activation**. Selecteer **Productcode wijzigen** en voer vervolgens de productcode van 25 tekens Windows 10 Pro in. Selecteer **Volgende om** de upgrade naar Windows 10 Pro.
 
-2. Wanneer het apparaat wordt toegevoegd aan het Tenant domein (via AAD), wordt het apparaat automatisch bijgewerkt naar Windows 10-onderwijs.  
+2. Wanneer het apparaat is verbonden met het tenantdomein (via AAD), wordt het apparaat automatisch geüpgraded naar Windows 10 Education.  
 
 ## <a name="frequently-asked-questions"></a>Veelgestelde vragen
 
 **Welke klanten komen in aanmerking?**
-CSP-klanten die in aanmerking komen als academisch en actieve Windows 10 Enter prise a3/A5 of Microsoft 365 a3/A5-licentie abonnementen, kunnen hun Windows 10 Home-apparaten upgraden naar Windows 10 education. Direct andere onderwijs klanten die deze aanbiedingen via VL naar het Volume Licensing Service Center (VLSC).
+CSP-klanten die in aanmerking komen als academicus en actieve Windows 10 Enterprise A3/A5- of Microsoft 365 A3/A5-licentieabonnementen hebben, kunnen hun Windows 10 Home-apparaten upgraden naar Windows 10 Education. Andere Education-klanten die een licentie voor deze aanbiedingen via VL verlenen aan het Volume Licensing Service Center (VLSC).
 
 **Kunnen mijn VL-klanten dit proces gebruiken?**
-Nee, VL-klanten die een licentie via inschrijving voor onderwijs oplossingen (EES), Open Value-abonnement voor onderwijs oplossingen (OVS-ES) hebben, en school moeten naar [VLSC](https://www.microsoft.com/Licensing/servicecenter/default.aspx) gaan om producten en sleutels te downloaden. 
+Nee, VL-klanten die licenties hebben via Enrollment for Education Solutions (EES), Open Value Subscription for Education Solutions (OVS-ES) en School moeten naar [VLSC](https://www.microsoft.com/Licensing/servicecenter/default.aspx) gaan om producten en sleutels te downloaden. 
 
-**Mijn klant heeft meer sleutels nodig dan oorspronkelijk is aangevraagd. Hoe kan ik deze krijgen?**
-U kunt een extra ondersteunings aanvraag indienen voor sleutels voor de Windows 10 Home-apparaten van uw klant. De totale hoeveelheid over meerdere aanvragen mag niet groter zijn dan de totale actieve licenties van Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnementen.
+**Mijn klant heeft meer sleutels nodig dan oorspronkelijk is aangevraagd. Hoe kan ik ze krijgen?**
+U kunt een extra ondersteuningsaanvraag indienen voor sleutels voor de Windows 10 Home van uw klant. De totale hoeveelheid voor meerdere aanvragen mag niet groter zijn dan de totale actieve licenties van Microsoft 365 A3/A5- of Windows 10 Enterprise A3/A5-abonnementen.
 
-**Mijn klant staat op het punt om meer Windows 10-thuis apparaten te kopen. Kunnen ze meer upgrades krijgen?**
-Onderwijs klanten dienen goedkope Windows 10-onderwijs apparaten te overwegen via onze [vorm van het toekomstige](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) programma, waardoor het niet meer nodig is om Windows 10 Home-apparaten te upgraden. Als ze meer Windows 10 Home-apparaten kopen, moeten partners een nieuwe ondersteunings aanvraag indienen via de micro soft-beheer Portal.
+**Mijn klant staat op het punt meer apparaten Windows 10 Home kopen. Kunnen ze meer upgrades krijgen?**
+Klanten uit het onderwijs moeten goedkope apparaten Windows 10 Education via ons [Shape the Future-programma](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) en de noodzaak om apparaten te upgraden Windows 10 Home upgraden. Als ze meer apparaten kopen Windows 10 Home, moeten partners een nieuwe ondersteuningsaanvraag indienen via de Microsoft-beheerportal.
 
-**Is er een deadline voor wanneer u contact opneemt met ondersteuning en de upgrade sleutel ontvangt?**
-De Windows 10 education-upgrade is gebaseerd op de actieve Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-licentie abonnementen van de klant. Als de klant het abonnement niet verlengt of verlengt, wordt de geschiktheid voor de upgrade ook beëindigd.
+**Is er een deadline voor wanneer contact moet worden opgenomen met de ondersteuning en de upgradesleutel moet worden ontvangen?**
+De Windows 10 Education upgrade is gebaseerd op de actieve Microsoft 365 A3/A5- of Windows 10 Enterprise A3/A5-licentieabonnementen van de klant. Als de klant het abonnement niet uitbreidt of vernieuwt, wordt de geschiktheid om te upgraden ook beëindigd.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-**Waar kunnen partners meer informatie krijgen over Windows 10-onderwijs?**
+**Waar kunnen partners meer te weten komen over Windows 10 Education?**
 
-- [Windows Eduction-functies](https://www.microsoft.com/education/products/windows/features)
-- [Windows education hub](/education/windows/)
+- [Windows-ductiefuncties](https://www.microsoft.com/education/products/windows/features)
+- [Windows Education-hub](/education/windows/)

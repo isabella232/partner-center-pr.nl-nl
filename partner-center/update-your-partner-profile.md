@@ -1,112 +1,109 @@
 ---
-title: Uw bedrijfs profiel verifiëren
+title: Uw bedrijfsprofiel verifiëren
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het controleren van uw bedrijfs gegevens, zoals de primaire contact persoon, het adres en de programma gegevens. U kunt ook uw juridische en facturerings adressen bijwerken.
+description: Meer informatie over het controleren van uw bedrijfsgegevens, zoals de primaire contactpersoon, het adres en de programmagegevens. U kunt ook uw juridische en factureringsadressen bijwerken.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315865"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818606"
 ---
-# <a name="verify-or-update-your-company-profile-information"></a>De gegevens van uw bedrijfs profiel controleren of bijwerken 
+# <a name="verify-or-update-your-company-profile-information"></a>Uw bedrijfsprofielgegevens controleren of bijwerken 
 
-**Juiste rollen**
+**Juiste rollen:** Globale | MPN-accountbeheerder
 
-- Globale beheerder
-- MPN-account beheerder
+De eerste keer dat u zich Partner Center als globale beheerder, moet u controleren of al uw bedrijfsgegevens juist zijn. Dit zijn onder andere primaire contactpersonen, juridische bedrijfsnaam en -adres en programmagegevens. Als uw bedrijf meer dan één locatie heeft, controleert u de locatiegegevens op nauwkeurigheid. Als globale beheerder, factureringsbeheerder of beheerderagent kunt u ook uw facturerings- en belastinggegevens bekijken en bijwerken.
 
-De eerste keer dat u zich bij Partner Center als globale beheerder aanmeldt, moet u bevestigen dat alle bedrijfs gegevens juist zijn. Dit zijn onder andere primaire contact persoon, juridische bedrijfs naam en adres, en programma-informatie. Als uw bedrijf meer dan één locatie heeft, controleert u uw locatie gegevens op nauw keurigheid. Als globale beheerder, facturerings beheerder of beheer agent kunt u ook uw facturerings-en belasting gegevens bekijken en bijwerken.
-
-Uw partner profiel bestaat uit uw juridische zakelijke gegevens, de naam en het e-mail adres van de primaire contact persoon, de Program ma's waarmee uw bedrijf deelneemt, en, indien van toepassing, uw andere bedrijven die nu onder uw juridische zaken worden samengevoegd. Zorg ervoor dat de bedrijfs naam en het adres in uw juridisch bedrijfs profiel geen spel fouten en afkortingen bevatten en overeenkomen met uw formele zakelijke registratie records voor bedrijven. Als u als enige eigenaar werkt, moet u uw bedrijfs naam gebruiken als uw geldige naam.
+Uw partnerprofiel bestaat uit uw juridische bedrijfsgegevens, primaire contactpersoon en e-mailadres, de programma's waaraan uw bedrijf deelneemt en, indien van toepassing, uw andere bedrijven die nu zijn samengevoegd onder uw juridische bedrijf. Zorg ervoor dat de bedrijfsnaam en het adres in uw juridische bedrijfsprofiel vrij zijn van spelfouten en afkortingen en exact overeenkomen met uw formele zakelijke registratierecords. Als u als een een-op-een-eigenaar werkt, moet u de naam van uw bedrijf gebruiken als uw juridische naam.
 
 
-## <a name="locate-the-legal-business-profile"></a>Het juridische zakelijke profiel zoeken
+## <a name="locate-the-legal-business-profile"></a>Het juridische bedrijfsprofiel zoeken
 
-1. Ga naar het **instellingen** pictogram en selecteer **account instellingen**.
+1. Ga naar het **pictogram Instellingen** en selecteer **Accountinstellingen.**
  
-1. Selecteer **organisatie profiel**. 
+1. Selecteer **Organisatieprofiel.** 
 
-2. Controleer uw **juridische zakelijke profiel**, de **primaire contact gegevens** en de **programma-informatie**.
+2. Controleer uw **juridische bedrijfsprofiel,** **primaire contactgegevens** en **programmagegevens.**
 
-Als u uw andere bedrijven hebt samengevoegd onder uw juridische zaken, kunt u deze informatie ook bekijken. 
+Als u uw andere bedrijven onder uw juridische bedrijf hebt samengevoegd, kunt u die informatie ook bekijken. 
 
-## <a name="update-your-legal-business-profile"></a>Uw juridische zakelijke profiel bijwerken 
+## <a name="update-your-legal-business-profile"></a>Uw juridische bedrijfsprofiel bijwerken 
 
-Werk de naam of het adres van uw rechts bedrijf bij in het partner centrum.
+Werk de naam of het adres van uw juridische bedrijf op Partner Center.
 
 >[!Important]
->- Voor MPN-accounts kan zowel de beheerder van de globale beheerder als het account de juridische bedrijfs naam bijwerken.
->- Voor een indirecte dealer-account van CSP kan alleen de globale beheerder de naam van de juridische onderneming bijwerken. 
->- Directe factuur partners en indirecte providers kunnen de juridische naam van hun bedrijf niet wijzigen als de account verificatie status is **geautoriseerd**. Als u de naam wilt wijzigen, moet u een [ondersteunings ticket](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)maken.
+>- Voor MPN-accounts kunnen zowel de globale beheerder als de accountbeheerder de naam van het juridische bedrijf bijwerken.
+>- Voor indirecte CSP-reselleraccounts kan alleen de globale beheerder de naam van het juridische bedrijf bijwerken. 
+>- Directe factuurpartners en indirecte providers kunnen de juridische naam van hun bedrijf niet wijzigen als de verificatiestatus van het account **Geautoriseerd is.** Als u de naam wilt wijzigen, moet u een [ondersteuningsticket maken.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
 
 
 
-1. Ga naar **instellingen**, **account instellingen** en selecteer **organisatie profiel**.
+1. Ga naar **Instellingen,** **Accountinstellingen** en selecteer **Organisatieprofiel.**
 
-2. Selecteer **juridisch**  en selecteer vervolgens het profiel voor juridische zaken dat u wilt bijwerken.
+2. Selecteer **Juridisch**  en selecteer vervolgens het juridische bedrijfsprofiel (partner of reseller) dat u wilt bijwerken.
 
-1. Klik op **bijwerken**  naast bedrijfs naam/adres en wijzig de details.
+1. Klik op **Bijwerken naast**  bedrijfsnaam/-adres en wijzig de details.
  
-1. Wanneer u verzenden selecteert, wordt uw juridische identiteit **opnieuw** beoordeeld. We evalueren alleen wat u hebt gewijzigd.
+1. Wanneer u **Verzenden selecteert,** wordt uw juridische identiteit opnieuw beoordeeld. Alleen wat u hebt gewijzigd, wordt opnieuw beoordeeld.
 
-1. Als de verificatie mislukt, leert u hoe u [het probleem kunt oplossen](verification-responses.md).
+1. Als de verificatie mislukt, leert u hoe u [het probleem kunt oplossen.](verification-responses.md)
 
 >[!Important]
->Als u een CSP-partner (Cloud Solution Provider) bent, kunt u het land dat is gekoppeld aan uw juridische adres niet wijzigen. Het land van rechts adres is gekoppeld aan uw Tenant en services, evenals de valuta waarmee u zakendoet. Lees voor meer informatie over MPN-land updates  [MPN](manage-locations.md#change-country-of-partner-global-account).
+>Als u een Cloud Solution Provider (CSP) bent, kunt u het land dat is gekoppeld aan uw juridische adres niet wijzigen. Het land van uw juridische adres is gekoppeld aan uw tenant en services, evenals de valuta waar u zaken mee doet. Lees MPN country updates (MPN-landupdates) voor meer informatie over [MPN-landupdates.](manage-locations.md#change-country-of-partner-global-account)
 
 
-### <a name="who-can-update-legal-business-name-and-when"></a>Wie kan juridisch bedrijfs naam bijwerken en wanneer
+### <a name="who-can-update-legal-business-name-and-when"></a>Wie kan de juridische bedrijfsnaam bijwerken en wanneer
 
-|**Programma**|**Wie kan de bedrijfs naam bijwerken?**|**Wanneer (status) het kan worden bijgewerkt**|**Toegestaan**|
+|**Programma**|**Wie kan de bedrijfsnaam bijwerken?**|**Wanneer (status) kan worden bijgewerkt**|**Toegestaan**|
 |---------------------|:-------------------------------|:------------|:-----------------|
-MPN|Globale beheerder; Account beheerder|Daartoe status afgekeurd| Toegestaan|
-|CSP: indirecte wederverkoper|Globale beheerder|Daartoe status afgekeurd| Toegestaan|
+MPN|Globale beheerder; Accountbeheerder|Geautoriseerd; in behandeling; Verworpen| Toegestaan|
+|CSP: Indirecte reseller|Globale beheerder|Geautoriseerd; in behandeling; Verworpen| Toegestaan|
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Uw MPN Global Business-account bijwerken
 
-Als tijdens uw migratie van Partner Membership Center naar partner Center het verkeerde zakelijke account is geïdentificeerd als juridisch bedrijf, kunt u dit wijzigen in het juiste juridisch zakelijke account.
+Als tijdens de migratie van Partner Membership Center naar Partner Center het verkeerde bedrijfsaccount is geïdentificeerd als het juridische bedrijf, kunt u dit wijzigen in het juiste juridische bedrijfsaccount.
 
-Als u deze updates wilt uitvoeren, moet u ofwel de beheerder van de globale beheerder of het account zijn. Meer informatie over [het beheren van uw globale locatie accounts voor MPN](manage-locations.md)
+Als u deze updates wilt maken, moet u de globale beheerder of accountbeheerder zijn. Meer informatie over het [beheren van globale MPN-locatieaccounts](manage-locations.md)
 
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>De MPN-id die is gekoppeld aan uw CSP-account bijwerken
 
-De MPN-ID die is gekoppeld aan uw CSP-account bijwerken:
+De MPN-id bijwerken die is gekoppeld aan uw CSP-account:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home) van de partner centrum als globale beheerder met de referenties van uw CSP-account en selecteer vervolgens **instellingen**. (Uw MPN-en CSP-referenties kunnen verschillend zijn.)
+1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard/home) als globale beheerder met de referenties van uw CSP-account en selecteer **Vervolgens Instellingen.** (Uw MPN- en CSP-referenties kunnen verschillen.)
  
-1. Selecteer **id's** uit **account instellingen**.
+1. Selecteer **Id's** in **Accountinstellingen.**
 
-1. Gebruik in de sectie **CSP** de **Update** koppeling om de MPN-id bij te werken die is gekoppeld aan uw CSP-account 
+1. Gebruik in **de sectie CSP** de koppeling **Bijwerken** om de MPN-id bij te werken die is gekoppeld aan uw CSP-account 
 
 
-## <a name="update-your-csp-legal-billing-address"></a>Het geldige CSP-factuur adres bijwerken
+## <a name="update-your-csp-legal-billing-address"></a>Uw juridische factureringsadres voor CSP bijwerken
 
-Als u de globale beheerder, facturerings beheerder of beheer agent bent, kunt u het adres wijzigen dat op uw factuur wordt weer gegeven in uw **Afbetalings-en BTW-profiel**. U kunt de bedrijfsnaam op uw factuur echter niet wijzigen vanwege een beperking van het factuursysteem.
+Als u de globale beheerder, factureringsbeheerder of beheerderagent bent, kunt u het adres wijzigen dat op uw factuur wordt weergegeven in uw **uitbetalings- en belastingprofiel.** U kunt de bedrijfsnaam op uw factuur echter niet wijzigen vanwege een beperking van het factuursysteem.
 
-:::image type="content" source="images/billing-profile.png" alt-text="Scherm opname van het gebied waar facturerings gegevens worden toegevoegd":::
+:::image type="content" source="images/billing-profile.png" alt-text="Schermopname van het gebied waar factureringsgegevens worden toegevoegd":::
 
 |**Veld**  |**Beschrijving**|  
 |---------------------|:------------------|
-|Naam van factuur bedrijf|De bedrijfs naam die wordt weer gegeven in de Bill-To informatie op uw CSP-factuur.  Dit kan niet worden bewerkt in het partner centrum.  Maak een ondersteunings ticket om bij te werken.|
-|Factuur adres|Het factuur adres dat op de CSP-factuur wordt weer gegeven. Update: het [facturerings profiel](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)kan worden bijgewerkt.|
-|Factuur contact|De contact gegevens van de facturering (voor naam, achternaam, primair nummer) voor de CSP-account.  Update: het [facturerings profiel](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)kan worden bijgewerkt.|
-|IO-nummer|Het inkooporder nummer dat wordt weer gegeven op de partner factuur.  Update: het [facturerings profiel](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)kan worden bijgewerkt.|
-|Bedrijfs belasting-ID|Bedrijven in sommige landen kunnen het [BTW-nummer of het lokale equivalent van de toegevoegde waarde](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number)bieden. Als u uw belasting/BTW-ID wilt bijwerken, moet u een globale beheerder, factureringsbeheerder of beheersagent zijn.|
-|Facturerings valuta|De facturerings valuta voor uw CSP-account wordt bepaald door het juridische land van de CSP-account.  Deze kan niet worden gewijzigd nadat het CSP-account is gemaakt.|
+|Factuur-naar-bedrijfsnaam|De bedrijfsnaam die wordt weergegeven in de Bill-To op uw CSP-factuur.  Dit kan niet worden bewerkt in het Partnercentrum.  Als u wilt bijwerken, maakt u een ondersteuningsticket.|
+|Factuur-naar-adres|Het factuuradres dat wordt weergegeven op de CSP-factuur. Kan worden bijgewerkt vanuit [het factureringsprofiel](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Factuur naar contactpersoon|De contactgegevens voor facturering (voornaam, achternaam, primair nummer) voor het CSP-account.  Kan worden bijgewerkt vanuit [het factureringsprofiel](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Po-nummer|Het inkoopordernummer dat wordt weergegeven op de partnerfactuur.  Kan worden bijgewerkt vanuit [het factureringsprofiel](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Belasting-id van bedrijf|Bedrijven in sommige landen kunnen hun [btw-nummer (btw- of lokale equivalent) verstrekken.](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number) Als u uw belasting/BTW-ID wilt bijwerken, moet u een globale beheerder, factureringsbeheerder of beheersagent zijn.|
+|Factureringsvaluta|De factureringsvaluta voor uw CSP-account wordt bepaald door het juridische land van het CSP-account.  Dit kan niet worden gewijzigd nadat het CSP-account is gemaakt.|
 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Controleer de verificatie status](verification-responses.md)
+- [Controleer uw verificatiestatus](verification-responses.md)
 
-- [MPN locaties beheren](manage-locations.md)
+- [MPN-locaties beheren](manage-locations.md)

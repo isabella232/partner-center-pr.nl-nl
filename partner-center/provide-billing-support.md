@@ -1,62 +1,56 @@
 ---
-title: Ondersteuning voor facturering aan klanten bieden
+title: Factureringsondersteuning bieden aan klanten
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over de ondersteuning voor klanten facturering van CSP-programma partners. Deze ondersteuning omvat eigenaar van de facturerings relatie van de klant en het beantwoorden van vragen over facturering.
+description: Meer informatie over de ondersteuning voor klantfacturering die nodig is voor CSP-programmapartners. Deze ondersteuning omvat het eigenaar zijn van de klantfactureringsrelatie en het beantwoorden van vragen over facturering.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633655"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854125"
 ---
-# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Ondersteuning voor facturering voor uw klanten bieden en helpen bij het beantwoorden van vragen over facturering
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Factureringsondersteuning bieden voor uw klanten en hulp bieden bij het beantwoorden van hun vragen over facturering
 
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Helpdeskagent | Factureringsbeheerders | Verkoopagent
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Helpdesk medewerker
-- Factureringsbeheerder
-- Verkoop agent
+U bent eigenaar van de factureringsrelatie met uw klanten en u bent verantwoordelijk voor het beantwoorden van de vragen met betrekking tot facturering die uw klanten mogelijk hebben.
 
-U bent eigenaar van de facturerings relatie met uw klanten en u bent zelf verantwoordelijk voor het beantwoorden van de facturerings vragen die uw klanten mogelijk hebben.
+- U bent verantwoordelijk voor on-time betalingen aan Microsoft.
 
-- U bent zelf verantwoordelijk voor betalingen op het moment van micro soft.
-
-- We raden u aan om een beleid voor duidelijke verzamelingen te maken met klanten die uw incasso proces details weer geven en wanneer de toegang tot de abonnementen, services of software van de klant wordt beïnvloed.
+- We raden u aan een duidelijk verzamelingsbeleid tot stand te brengen met klanten die uw verzamelingsproces details geven en wanneer de toegang tot de abonnementen, services of software van de klant wordt beïnvloed.
 
 - Indien nodig kunt u de toegang van uw klant tot een product uitschakelen voor niet-betaling.
 
-## <a name="microsoft-partner-support-guidance"></a>Ondersteunings richtlijnen voor micro soft partner
+## <a name="microsoft-partner-support-guidance"></a>Ondersteuningshulp voor Microsoft-partners
 
-Partners die in het CSP-model handelen, zijn de vertrouwde Advisor voor hun klanten en zijn eigenaar van de relatie end-to-end, met inbegrip van ondersteuning wanneer hun klant een vraag of probleem heeft. Via ondersteuning voor aanraak punten kunnen partners meer informatie krijgen over de klant en hun bedrijf, om nieuwe services en oplossingen te identificeren die de waarde ondersteunen.
+Partners die in het CSP-model werken, zijn de vertrouwde advisor voor hun klanten en zijn eigenaar van de relatie end-to-end, inclusief ondersteuning wanneer hun klant een vraag of probleem heeft. Via ondersteuningscontactpunten kunnen partners meer te weten komen over de klant en hun bedrijf om nieuwe services en oplossingen te identificeren die waarde creëren.
 
-Om aan de ondersteunings vereisten te voldoen, kan de partner ondersteuning van een andere entiteit door lopen. zij kunnen een volledige of een deel van hun ondersteunings structuur uitbrengen en/of ze kunnen een structuur instellen om direct ondersteuning te bieden.  De partner kan in rekening worden gebracht voor alle of een deel van de ondersteuning die aan klanten wordt geboden. De partner moet aan hun klanten samen werken met de ondersteuning die ze bieden, de service-uren en de contact methode en de prijzen (als de kosten voor ondersteuning worden geloosd). 
+Om aan de ondersteuningsvereiste te voldoen, kan de partner ondersteuning van een andere entiteit opnieuw verkopen, kan de partner de ondersteuning geheel of een deel van de ondersteuningsstructuur uitbesteed en/of kan de partner een structuur instellen om rechtstreeks ondersteuning te bieden.  De partner kan kosten in rekening brengen voor alle of een deel van de ondersteuning die aan klanten wordt geboden. De partner moet aan hun klanten de ondersteuning verwoorden die ze bieden, de serviceuren en contactmethode en de prijzen (indien in rekening worden brengen voor ondersteuning). 
 
 >[!Note]
->Als u geen CSP bent en vragen hebt over het factureren van de klant, raadpleegt u de specifieke portal voor de desbetreffende producten of services.
+>Als u geen CSP bent en vragen hebt over klantfacturering, raadpleegt u de specifieke portal voor de juiste producten of services.
 
-Partners moeten inkomende ondersteunings aanvragen van klanten ontvangen, problemen met het beste van de partner kunnen vaststellen en vervolgens problemen oplossen die binnen het bereik van de grenzen voor basislijn ondersteuning vallen. Als de partner een probleem niet kan oplossen, kunnen ze problemen naar micro soft escaleren via de volgende ondersteunings voertuigen:
+Partners moeten binnenkomende ondersteuningsaanvragen van klanten ontvangen, problemen vaststellen naar beste vermogen van de partner en vervolgens problemen oplossen die binnen het bereik van de basislijnondersteuningsgrenzen vallen. Als de partner een probleem niet kan oplossen, kan deze problemen naar Microsoft escaleren via de volgende ondersteunings voertuigen:
 
-- Ondersteuning voor **commerciële** problemen is beschikbaar voor alle partners in het CSP-programma
+- **Ondersteuning** voor commerciële problemen is beschikbaar voor alle partners in het CSP-programma
 
-- Ondersteuning voor **technische** problemen is beschikbaar via:
+- **Ondersteuning** voor technische problemen is beschikbaar via:
 
-  - Premier Support voor partners (basis van de kosten)
-  - Geavanceerde ondersteuning voor partners (basis van de kosten)
-  - Ondersteuning voor hand tekeningen in de Cloud (inbegrepen bij Gold/Silver-competentie)
+  - Premier Support voor partners (basiskosten)
+  - Geavanceerde ondersteuning voor partners (basiskosten)
+  - Signature Cloud Support (opgenomen in de Gold/Silver-competentie)
 
-### <a name="providing-billing-subscription-management-and-technical-support"></a>Facturering, abonnements beheer en technische ondersteuning bieden 
+### <a name="providing-billing-subscription-management-and-technical-support"></a>Facturering, abonnementsbeheer en technische ondersteuning bieden 
 
-Elke online service heeft specifieke en gedetailleerde vereisten voor het bieden van facturering, abonnements beheer en technische ondersteuning voor klanten. Zie voor meer informatie:
+Elke onlineservice heeft specifieke en gedetailleerde vereisten voor het bieden van facturering, abonnementsbeheer en technische ondersteuning aan klanten. Zie voor meer informatie:
 
 - [Dynamics 365-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

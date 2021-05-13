@@ -9,23 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1791d415d0004520e8c7dc950decf540c91cf003
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 6e73aa98e0cfaf82521a5fe63e34ebf0b44363fb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002838"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854499"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Uw klantenlijst beheren : klanten zoeken, bijwerken of exporteren in Partner Center
 
-**Van toepassing op**
+**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partnercentrum voor Microsoft Cloud for US Government
-
-**Juiste rollen**
-
-- Beheeragent
-- Globale beheerder
+**Juiste rollen:** beheeragent | Globale beheerder
 
 Klantrecords zijn een van uw belangrijkste informatieactiva in Partner Center. U kunt uw database met klantaccounts doorzoeken, de hele klantdatabase exporteren of een subset exporteren naar een excel-compatibele bestandsindeling met door komma's gescheiden waarden (.csv). U kunt ook de abonnementsgegevens van een klant exporteren naar een CSV-bestand.
 
@@ -49,14 +44,14 @@ Selecteer klanten **Partner Center** het menu **.**
 1. Selecteer in **Partner Center** menu **Klanten.**
 2. Selecteer **Klanten exporteren.**
 
-   Partner Center converteert uw volledige klantenlijst naar een CSV-bestand en uploadt dit naar de standaard downloadmap op uw computer. U kunt ook subsets van klantgegevens exporteren. Gegevenskolommen zijn onder andere:
+   Partner Center converteert uw volledige klantenlijst naar een CSV-bestand en uploadt dit naar de standaard downloadmap op uw computer. U kunt ook subsets van klantgegevens exporteren. Gegevenskolommen omvatten het volgende:
 
    - **Microsoft-id;**
-   - **Bedrijfsnaam**;
+   - **Bedrijfsnaam;**
    - **Primaire domeinnaam;**
    - **Relatie:** de zakelijke relatie van de partner met elke vermelde klant.
 
-    Standaard exporteert Partner Center de volledige klantenlijst, ongeacht de lengte. U kunt ook zoeken in de lijst met klanten op bedrijfsnaam of -domein en die subset met gegevens exporteren.
+    Standaard exporteert Partner Center de volledige klantenlijst, ongeacht de lengte. U kunt ook zoeken in de lijst met klanten op bedrijfsnaam of domein en die subset met gegevens exporteren.
 
 3. Als u een indirecte provider bent, kunt u uw klantenlijst filteren op indirecte reseller. Selecteer **Filteren op indirecte reseller** in de lijst en kies vervolgens een reseller.
 

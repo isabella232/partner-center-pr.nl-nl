@@ -1,69 +1,66 @@
 ---
-title: Insights-trainings dashboard
+title: Trainingsdashboard voor inzichten
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verken het dash board van het partner centrum. Training is een van de rapporten die beschikbaar zijn in het gedeelte van het Partner Center Insights (PCI).
+description: Het dashboard Partner Center training verkennen. Training is een van de rapporten die beschikbaar zijn in het gebied Partner Center Insights (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086240"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854550"
 ---
-# <a name="trainings-dashboard"></a>Dash board voor training
+# <a name="trainings-dashboard"></a>Trainingsdashboard
 
-**Juiste rollen**
+**Juiste rollen:** Rapportviewer voor leidinggevenden | Rapportviewer
 
-- Rapport Viewer Executive
-- Rapport viewer
-
-Het dash board trainingen biedt inzicht in de certificeringen, evaluaties en onderzoeken die zijn genomen door uw werk nemers van uw bedrijf. Het dash board trainingen bevat de volgende secties:
+Het trainingsdashboard biedt inzicht in de certificeringen, evaluaties en onderzoeken die worden uitgevoerd door uw bedrijf. Het trainingsdashboard bevat de volgende secties:
 
 - Samenvatting
-- Trainings prestaties gesplitst door certificeringen, evaluaties, examens
+- Trainingsprestaties gesplitst op certificeringen, evaluaties, examens
 - Personen op referenties zoals certificeringen, evaluaties, examens
 - Activiteitsgegevens
 
 >[!NOTE] 
->Dit rapport is beschikbaar onder de Insights-hub in het partner centrum. Als u dit rapport wilt weer geven, moet u de rol van Report Viewer of Executive Report Viewer toewijzen. Enkele delen van dit rapport zijn alleen zichtbaar voor gebruikers die de Management-rapport kijkers. Zie [PCI-rollen](pci-roles.md)voor meer informatie over toegangs beheer voor de Insights-rapporten.
+>Dit rapport is beschikbaar onder de Insights-hub in Partner Center. Als u dit rapport wilt weergeven, moet de rol Rapportviewer of Executive Report Viewer aan u zijn toegewezen. Enkele secties van dit rapport zijn alleen zichtbaar voor gebruikers die Executive Report Viewers zijn. Zie PCI-rollen voor meer informatie over toegangsbeheer voor de [Insights-rapporten.](pci-roles.md)
 
 ## <a name="summary"></a>Samenvatting
 
-In de sectie samen vatting vindt u een overzicht van de numerieke moment opnamen van verschillende prestatie-indica toren met betrekking tot uw trainingen. De verschillende prestatie-indica toren zijn gecertificeerde individuen, certificeringen, individuen met examen referenties, examen referenties, individuen met beoordelings referenties en evaluatie referenties. De gegevens in deze sectie worden vernieuwd op basis van het geselecteerde datum bereik (drie maanden), zes maanden (6 min.) en 12 maanden (1 jaar) of een aangepast gegevens bereik (aangepast). 
+De samenvattingssectie bevat een numerieke momentopnameweergave van verschillende prestatie-indicatoren die betrekking hebben op uw training. De verschillende prestatie-indicatoren zijn gecertificeerde personen, certificeringen, personen met examenreferenties, examenreferenties, personen met evaluatiereferenties en evaluatiereferenties. De gegevens in deze sectie worden vernieuwd op basis van het geselecteerde datumbereik. Dit kan drie maanden (3 miljoen), zes maanden (6 miljoen) en 12 maanden (1Y) of een aangepast gegevensbereik (aangepast) zijn. 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Samenvatting":::
 
-- **Personen met certificeringen**: dit is het aantal afzonderlijke personen met certificeringen in uw bedrijf.
-- **Aantal certificeringen**: Hiermee wordt het totale aantal certificeringen aangegeven dat door individuen in uw bedrijf is gemaakt.
-- **Personen met beoordelingen**: dit is het aantal afzonderlijke personen met beoordelings referenties in uw bedrijf. 
-- **Aantal beoordelingen**: dit is het totale aantal beoordelingen dat door individuen in uw bedrijf is gemaakt.
-- **Personen met een onderzoek**: dit is het aantal afzonderlijke personen met onderzoek referenties in uw bedrijf. 
-- **Aantal onderzoek**: geeft het totale aantal onderzoeken door personen in uw bedrijf.
+- **Personen met certificeringen:** vertegenwoordigt het aantal afzonderlijke personen met certificeringen in uw bedrijf.
+- **Aantal certificeringen:** vertegenwoordigt het totale aantal certificeringen van personen in uw bedrijf.
+- **Personen met evaluaties:** vertegenwoordigt het aantal afzonderlijke personen met evaluatiereferenties in uw bedrijf. 
+- **Aantal evaluaties:** vertegenwoordigt het totale aantal evaluaties dat door personen in uw bedrijf wordt uitgevoerd.
+- **Personen met onderzoeken:** vertegenwoordigt het aantal afzonderlijke personen met onderzoeksreferenties in uw bedrijf. 
+- **Aantal onderzoeken:** vertegenwoordigt het totale aantal onderzoeken dat is genomen door personen in uw bedrijf.
 
-## <a name="training-performance"></a>Trainings prestaties
+## <a name="training-performance"></a>Trainingsprestaties
 
-De prestaties van de training zijn het aantal individuen per maand en de trainingen van personen in uw bedrijf. Het wordt gesplitst door certificeringen, beoordelingen en examens in de vorm van een grafiek voor het geselecteerde datum bereik. De X-as vertegenwoordigt de maanden voor het geselecteerde datum bereik. De Y-as vertegenwoordigt het unieke aantal individuen en het aantal gewerkte trainingen, voor het geselecteerde type training. Selecteer de respectievelijke tabbladen boven het diagram om de uitsplitsing per opleidings type weer te geven. De grafiek gegevens kunnen worden gedownload via het Download pictogram in de indeling. TSV voor het geselecteerde datum bereik.
+Met trainingsprestaties wordt het maand-over-maand-aantal personen en de trainingen die door personen in uw bedrijf zijn voltooid, gegeven. Het wordt gesplitst op certificeringen, evaluaties en examens in de vorm van een grafiek voor het geselecteerde datumbereik. De X-as vertegenwoordigt de maanden voor het geselecteerde datumbereik. De Y-as vertegenwoordigt het unieke aantal personen en het aantal gevolgde trainingen voor het geselecteerde trainingstype. Selecteer de respectieve tabbladen boven de grafiek om de uitsplitsing op trainingstype weer te geven. De grafiekgegevens kunnen worden gedownload via het downloadpictogram in TSV-indeling voor het geselecteerde datumbereik.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Trainings prestaties":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Trainingsprestaties":::
 
 ## <a name="individuals-performance"></a>Prestaties van personen
 
-De sectie prestaties van de persoon bevat de details van de training van personen in uw bedrijf, voor het geselecteerde datum bereik. Zoek en selecteer de naam van een persoon in het linkerdeel venster van de sectie. De trainings Details voor de geselecteerde persoon worden weer gegeven in het rechterdeel venster van de sectie.
+In de sectie Prestaties van individuen worden de details van de training van personen in uw bedrijf voor het geselecteerde datumbereik opgenomen. Zoek en selecteer de naam van een persoon in het linkerdeelvenster van de sectie. De trainingsdetails voor de geselecteerde persoon worden weergegeven in het rechterdeelvenster van de sectie.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Indiviual prestaties":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Indiviual Performance":::
 
 >[!NOTE] 
-> De sectie voor de prestaties van personen is alleen beschikbaar voor gebruikers die een leidinggevende rapport maken. 
+> De prestatiesectie Individuen is alleen beschikbaar voor gebruikers die leidinggevende rapportgebruikers zijn. 
 
 ## <a name="next-steps"></a>Volgende stappen
 
 [Rapporten in Partner Center Insights](partner-center-insights.md)
 
 >[!NOTE] 
-> U kunt de onbewerkte gegevens van dit rapport downloaden in het gedeelte Download rapporten van het inzichten-dash board. [Meer informatie](pci-download-reports.md)
+> U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het Dashboard Inzichten. [Meer informatie](pci-download-reports.md)

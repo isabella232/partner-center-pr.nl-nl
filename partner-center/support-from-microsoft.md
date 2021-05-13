@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284142"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854771"
 ---
 # <a name="support-from-microsoft"></a>Ondersteuning van Microsoft
 
-**Van toepassing op**
+**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partnercentrum voor Microsoft Cloud for US Government
-
-**Juiste rollen**
-
-- Helpdeskagent
+**Juiste rollen:** Helpdeskagent
 
 Als u problemen hebt met een Microsoft-service of met Partner Center, kunt u het probleem melden aan Microsoft, het probleem escaleren naar Microsoft voor hulp en het probleem volgen totdat het is opgelost.
 
