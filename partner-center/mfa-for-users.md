@@ -4,44 +4,42 @@ ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Meer informatie over het instellen van uw werk nemers met MFA
+description: Meer informatie over het instellen van uw werknemers met MFA
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5173526d0f65623311d5cd3a1061e8b9e93e9bb9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182372"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151624"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Meervoudige verificatie instellen voor uw gebruikers
 
-**Juiste rollen**
+**Juiste rollen:** globale beheerder
 
-- Globale beheerder
+Betere privacybescherming en -beveiliging zijn een van onze belangrijkste prioriteiten. We weten dat de beste verdediging preventie is en dat we alleen zo sterk zijn als onze zwakste koppeling. Daarom hebben we iedereen in ons ecosysteem nodig om actie te ondernemen en ervoor te zorgen dat de juiste beveiligingsbescherming is gewaarborgd. We raden alle partners ten zeerste aan multi-factor authentication (MFA) in te schakelen voor hun gebruikers in hun partner-tenant. 
 
-Grotere veiligheids maatregelen en beveiliging zijn onder de meest voorkomende prioriteiten. We weten dat de beste verdediging voor komen en dat we alleen even sterk zijn als onze zwakste koppeling. Daarom hebben we iedereen in ons ecosysteem nodig om te reageren en te zorgen dat de juiste beveiligings beveiligingen aanwezig zijn. We raden u ten zeerste aan alle partners multi-factor Authentication (MFA) in te scha kelen voor hun gebruikers in hun partner Tenant. 
+## <a name="add-multi-factor-authentication-for-your-users"></a>Meervoudige verificatie toevoegen voor uw gebruikers
 
-## <a name="add-multi-factor-authentication-for-your-users"></a>Multi-factor Authentication voor uw gebruikers toevoegen
+U moet de globale beheerder voor uw bedrijf zijn om deze taak te voltooien.
 
-U moet de globale beheerder zijn voor uw bedrijf om deze taak te volt ooien.
+Het is het gemakkelijkst om MFA in teschakelen voor uw gebruikers wanneer u ze toevoegt aan uw Azure AD-tenant.
 
-Het is de eenvoudigste manier om MFA in te scha kelen voor uw gebruikers wanneer u deze toevoegt aan uw Azure AD-Tenant.
+1. Meld u aan [Azure Portal](https://portal.azure.com) en ga vervolgens naar **Gebruikersbeheer.**
+1. Selecteer **Multi-Factor Authentication.**
+1. Selecteer de gebruiker die u wilt inschakelen en selecteer vervolgens **Inschakelen.**
 
-1. Meld u aan bij de [Azure Portal](https://portal.azure.com) en ga vervolgens naar **gebruikers beheer**.
-1. Selecteer **multi-factor Authentication**.
-1. Selecteer de gebruiker die u wilt inschakelen en selecteer **inschakelen**.
+Hiermee wordt MFA ingeschakeld voor deze gebruiker. Ingeschakeld betekent dat de gebruiker wordt gevraagd om de MFA-verificatie in te stellen wanneer deze zich voor de eerste keer aanmelden. Daarna wordt ze bij het aanmelden gevraagd om een code op te geven die naar hen wordt verzonden via e-mail of sms-bericht (afhankelijk van de code die ze hebben ingesteld).  
 
-Hiermee wordt MFA ingeschakeld voor deze gebruiker. Ingeschakeld betekent dat de gebruiker wordt gevraagd om de MFA-verificatie in te stellen wanneer deze zich voor de eerste keer aanmeldt. Daarna wordt bij het aanmelden gevraagd om een code op te geven die naar hen wordt verzonden via een e-mail of SMS-bericht (afhankelijk van de instelling).  
-
-:::image type="content" source="images/MFA/securityverification.png" alt-text="Opgeven hoe moet worden gecontroleerd":::
+:::image type="content" source="images/MFA/securityverification.png" alt-text="Opgeven hoe u dit wilt controleren":::
 
 >[!NOTE]
->U kunt uw gebruikers **afdwingen** om MFA te gebruiken met behulp van dezelfde stappen als hierboven en vervolgens **afdwingen** te selecteren. Voor meer informatie, Lees [toestaan per gebruiker Azure multi-factor Authentication om aanmeldings gebeurtenissen te beveiligen](/azure/active-directory/authentication/howto-mfa-userstates). 
+>U kunt **afdwingen** dat gebruikers MFA gebruiken door dezelfde stappen te volgen als hierboven en Afdwingen **te selecteren.** Lees Enable [per-user Azure Multi-Factor Authentication to secure sign-in events (Azure Multi-Factor Authentication per gebruiker](/azure/active-directory/authentication/howto-mfa-userstates)inschakelen om aanmeldingsgebeurtenissen te beveiligen) voor meer informatie. 
 
-Alle gebruikers worden **uitgeschakeld**. Wanneer u gebruikers inschrijft in azure Multi-Factor Authentication per gebruiker, verandert de status in **ingeschakeld**. Wanneer ingeschakelde gebruikers zich aanmelden en het registratie proces volt ooien, wordt de status ervan gewijzigd in **afgedwongen**. 
+Alle gebruikers starten **Uitgeschakeld.** Wanneer u gebruikers per gebruiker inschrijft Azure Active Directory Multi-Factor Authentication, verandert hun status in **Ingeschakeld.** Wanneer ingeschakelde gebruikers zich aanmelden en het registratieproces voltooien, verandert hun status in **Afgedwongen.** 
 
 ## <a name="next-steps"></a>Volgende stappen
 

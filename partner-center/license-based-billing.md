@@ -1,6 +1,6 @@
 ---
 title: Facturering op basis van licenties
-description: Meer informatie over de facturering op basis van een licentie van op gebruik gebaseerd factureren in het partner centrum, inclusief de gefactureerde per licentie (niet op licentie gebruik).
+description: Meer informatie over hoe facturering op basis van licenties verschilt van facturering op basis van gebruik in Partner Center, waaronder hoe u per licentie wordt gefactureerd (niet op basis van licentiegebruik).
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,57 +9,52 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179408"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151828"
 ---
-# <a name="license-based-billing-in-partner-center"></a>Facturering op basis van licenties in het partner centrum
+# <a name="license-based-billing-in-partner-center"></a>Facturering op basis van licenties in Partner Center
 
-**Juiste rollen**
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Factureringsbeheerder | Beheeragent
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Factureringsbeheerder
-- Beheer agent
+Wanneer u producten of onlineservices in Partner Center waarvoor licenties zijn **vereist,** wordt u gefactureerd voor elke licentie *die* u koopt. U wordt *niet gefactureerd* op basis van het gebruik voor deze licenties. (Zie Typen facturering in het artikel voor meer informatie over facturering op basis van gebruik en andere [factureringstypen in Partner Center](./billing-basics.md).)
 
-Wanneer u producten of onlineservices koopt in het partner centrum waarvoor **licenties** zijn vereist, wordt u gefactureerd *voor elke licentie* die u koopt. Het gebruik van deze licenties wordt *niet in rekening gebracht* . (Zie [typen facturering in partner centrum](billing-different-types.md)voor informatie over facturering en andere facturerings typen op basis van gebruik.)
+## <a name="license-billing-frequency"></a>Frequentie van licentiefacturering
 
-## <a name="license-billing-frequency"></a>Facturerings frequentie van licenties
+U kunt ervoor kiezen om eenmaal per maand (maandelijkse **facturering)** of eenmaal per jaar (jaarlijkse facturering) te worden **gefactureerd.** 
 
-U kunt ervoor kiezen om één keer per maand te worden gefactureerd voor licenties (**maandelijks facturering**) of één keer per jaar (**facturering per** jaar). 
+## <a name="billing-date-for-licenses"></a>Factureringsdatum voor licenties
 
-## <a name="billing-date-for-licenses"></a>Factuur datum voor licenties
-
-Op licenties gebaseerde abonnementen worden vooraf in rekening gebracht op de **jubileum datum** van het abonnement. De jubileum datum is de dag van de maand waarin u het abonnement hebt aangeschaft.
+Op licenties gebaseerde abonnementen worden vooraf gefactureerd op de **jubileumdatum van het abonnement.** De inschrijvingsdatum is de dag van de maand waarop u het abonnement hebt aangeschaft.
 
 Bijvoorbeeld:
 
-- Als u een **maandelijks abonnement** hebt aangeschaft op 15 januari, is de jubileum datum de 15e van elke maand.
-- Als u een **jaar abonnement** op 15 januari hebt aangeschaft, zal de jubileum datum 15 januari van elk jaar zijn.
+- Als u een maandelijks **abonnement hebt aangeschaft op** 15 januari, is de inschrijvingsdatum de 15e van elke maand.
+- Als u op 15 **januari** een jaarlijks abonnement hebt aangeschaft, is de inschrijvingsdatum 15 januari van elk jaar.
 
-## <a name="license-term"></a>Licentie voorwaarde
+## <a name="license-term"></a>Licentietermijn
 
-Alle abonnementen op basis van licenties hebben een betaalde periode van 12 maanden, die begint op de aankoop datum.
+Alle op licenties gebaseerde abonnementen hebben een betaalde termijn van 12 maanden, die begint op de aankoopdatum.
 
 ## <a name="license-cancellation"></a>Annulering van licentie
 
-U kunt een licentie op elk moment annuleren tijdens de [licentie termijn](#license-term). De maand waarin u annuleert, is echter van invloed op de hoeveelheid tegoed die u voor de geannuleerde licentie ontvangt.
+U kunt een licentie op elk moment tijdens de [licentietermijn annuleren.](#license-term) De maand waarin u annuleert heeft echter invloed op het tegoed dat u ontvangt voor de geannuleerde licentie.
 
-Als u een abonnement in maand 1 onderbreekt, wordt 100% gecrediteerd.
+Als u een abonnement in maand 1 opzegt, wordt 100% bijgeschreven.
 
 Als u een abonnement binnen 2-12 maanden opzegt, wordt u naar rato gefactureerd.
 
-## <a name="license-renewal"></a>Licentie verlenging
+## <a name="license-renewal"></a>Licentieverlenging
 
-Alle abonnementen op basis van licenties automatische verlenging van 12 maanden na de betaalde termijn wordt gestart.
+Alle op licenties gebaseerde abonnementen worden 12 maanden nadat de betaalde termijn is gestart, automatisch verlengd.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Overzicht van het Partner Center-facturerings programma](billing-basics.md)
+- [Overzicht van Partner Center facturering](billing-basics.md)
 
-- [Factureringstypen in Partnercentrum](billing-different-types.md)
+- [Factureringstypen in Partnercentrum](./billing-basics.md)
 
-- [Hoofd artikelen over facturering en belasting](billing.md)
+- [Belangrijkste artikelen over facturering en belasting](billing.md)

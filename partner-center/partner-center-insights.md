@@ -1,6 +1,6 @@
 ---
-title: Partner centrum Insights
-description: Verken dit partner centrum Unified Reporting-dash board. Bekijk hoe u werkt in Kpi's voor verkoop en implementatie, klant ontwikkeling en meer.
+title: Partner Center Insights
+description: Verken dit Partner Center dashboard voor geïntegreerde rapportage. Bekijk hoe u het doet in KPI's voor verkoop en implementatie, klantontwikkeling en meer.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,93 +9,88 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086580"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151012"
 ---
-# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: een dash board dat laat zien hoe een commerciële partner van micro soft dit doet
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: een dashboard dat laat zien hoe het gaat met een commerciële Microsoft-partner
 
-**Juiste rollen**
-
-- Globale beheerder
-- Accountbeheerder
-- Rapport Viewer Executive
-- Rapport viewer
+**Juiste rollen:** Globale | Accountbeheerdersaccounts | Rapportviewer voor leidinggevenden | Rapportviewer
 
 ## <a name="introduction"></a>Introductie
 
-Het Insights-dash board is een uniform rapportage dashboard in het partner centrum voor de commerciële partners van micro soft die zijn Inge schreven in het Microsoft Partner Network-programma (MPN). Het Insights-dash board biedt 360-graden weer gave van uw KPI'S (Key Performance Indica tors) in Cloud producten zoals Office, azure, Dynamics en licentie modellen zoals CSP en EA. Het biedt een uitgebreide set KPI-rapporten waarmee u op gegevens gebaseerde beslissingen kunt nemen voor uw organisatie. 
+Het Dashboard Inzichten is een geïntegreerd rapportagedashboard in Partner Center voor commerciële microsoft-partners die zijn ingeschreven in het Microsoft Partner Network(MPN)-programma. Het Insights-dashboard biedt een 360-graden weergave van uw Key Performance Indicators (KPI) voor cloudproducten zoals Office, Azure, Dynamics en licentiemodellen zoals CSP en EA. Het toont een uitgebreide set KPI-rapporten die u kunnen helpen bij het nemen van gegevensgestuurde beslissingen voor uw organisatie. 
 
-## <a name="role-based-access-control-to-the-insights-dashboard"></a>Op rollen gebaseerd toegangs beheer voor het Insights-dash board
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Op rollen gebaseerd toegangsbeheer voor het Insights-dashboard
 
-Er zijn twee nieuwe rollen in het partner centrum ontworpen voor toegang tot inzichten: **Report Viewer** en **Executive Report Viewer**. Gebruikers met de rol Report Viewer hebben toegang tot alle rapport gegevens sets, terwijl gebruikers met de rol Report Viewer geen toegang hebben tot gevoelige gegevens sets zoals inkomsten en klant/werknemers persoonlijke gegevens. 
+Er zijn twee nieuwe rollen in Partner Center speciaal ontworpen voor toegang tot Inzichten: **Rapportviewer** en **Executive Report Viewer.** Gebruikers met de rol Executive Report Viewer hebben toegang tot alle rapportagegegevenssets, terwijl gebruikers met de rol Rapportviewer geen toegang hebben tot gevoelige gegevenssets, zoals omzet en persoonlijke gegevens van klanten/werknemers. 
 
-De globale beheerder of de account beheerder kan gebruikers toewijzen aan deze rollen en worden toegewezen voor het hele bedrijf of voor een specifieke MPN locatie.  
+De globale beheerder of de accountbeheerder kan deze rollen aan gebruikers toewijzen en worden toegewezen voor het hele bedrijf of voor een specifieke MPN-locatie.  
 
 >[!Note] 
->Gebruikers die zijn MPN beheerders vanaf Jan 20, 2020 zijn automatisch toegevoegd aan de rol rapport viewer voor het hele bedrijf. Ze hebben toegang tot de rapporten als rapport viewer zonder expliciete actie vereist door globale beheerder of account beheerder. De globale beheerders of account beheerder kunnen deze toewijzingen zo nodig overschrijven. 
+>Gebruikers die vanaf 20 januari 2020 MPN-beheerders waren, zijn automatisch toegevoegd aan de rol Rapportviewer voor het hele bedrijf. Ze hebben toegang tot de rapporten als een rapportviewer zonder expliciete actie die is vereist door de globale beheerder of accountbeheerder. De globale beheerders of accountbeheerders kunnen deze toewijzingen zo nodig overschrijven. 
 
 ## <a name="reports-available"></a>Rapporten beschikbaar
 
-De volgende rapporten zijn beschikbaar als onderdeel van het Insights-dash board.
+De volgende rapporten zijn beschikbaar als onderdeel van het Insights-dashboard.
 
-**Overzicht**: het overzichts rapport bevat een moment opname van verschillende kpi's die van belang zijn voor u, zoals het aantal klanten, het aantal actieve abonnementen, de omzet van Azure-verbruik, actieve licenties, enzovoort.
+**Overzicht:** het overzichtsrapport bevat een momentopnameweergave van verschillende KPI's die voor u van belang zijn, zoals het aantal klanten, het aantal actieve abonnementen, de omzet van Azure-verbruik, actieve licenties, enzovoort.
 
-**Klant**: het rapport van de klant bevat analyses rond uw klanten, zoals klant gegevens, actieve klanten, enzovoort.
+**Klant:** het klantrapport bevat analyses voor uw klanten, zoals klantovernamegegevens, actieve klanten, enzovoort.
 
-**Product abonnementen**: het abonnementen rapport presenteert aanschaf-en gebruiks analyse voor uw Cloud abonnementen (zoals O365, azure, Dynamics, enzovoort).
+**Product - Abonnementen:** het rapport Abonnementen bevat overname- en gebruiksanalyses voor uw cloudabonnementen (zoals O365, Azure, Dynamics, enzovoort)
 
-**Product-licenties**: het dash board licenties bevat licentie analyses voor Cloud producten op basis van licenties, zoals O365, Dynamics, Power bi, enzovoort.
+**Product- Licenties:** het dashboard Licenties bevat licentieanalyses voor cloudproducten op basis van licenties, zoals O365, Dynamics, Power BI enzovoort.
 
-**Product-Azure-gebruik**: in het Azure-gebruiks rapport worden metrische gegevens weer gegeven die betrekking hebben op de Azure-abonnementen van uw klanten, waaronder Azure-verbruiks omzet en-gebruik per meter categorie.
+**Product - Azure-gebruik:** het azure-gebruiksrapport bevat metrische gegevens met betrekking tot de Azure-abonnementen van uw klanten, waaronder de omzet van het Azure-verbruik en het gebruik per metercategorie.
 
-**Vaardig heden**: in het rapport competenties worden metrische gegevens weer gegeven voor uw actieve, gekwalificeerde en risico volle vaardig heden.
+**Competenties:** het rapport Competenties bevat metrische gegevens over uw competenties Actief, Gekwalificeerd en Risico lopen.
 
-**Voor delen**: het voor deel van het voor deel bevat analyses van partner voordelen die u hebt behaald versus verbruikt.
+**Voordelen:** het rapport Voordelen bevat analyses van partnervoordelen die u hebt verdiend versus verbruikt.
 
-## <a name="navigating-the-insights-reports"></a>Navigeren door de Insights-rapporten
+## <a name="navigating-the-insights-reports"></a>Door de Insights-rapporten navigeren
 
-**Filters voor datum bereik**: u kunt in de rechter bovenhoek van elke pagina een selectie voor het datum bereik vinden. De uitvoer van de overzichts pagina grafieken kan worden aangepast door een datum bereik te selecteren op basis van de afgelopen 3, 6 of 12 maanden of door een aangepast datum bereik te selecteren. De standaard datum bereik selectie is 12 maanden. 
+**Datumbereikfilters:** u vindt een datumbereikselectie in de rechterbovenhoek van elke pagina. De uitvoer van de overzichtspaginagrafieken kan worden aangepast door een datumbereik te selecteren op basis van de afgelopen 3, 6 of 12 maanden, of door een aangepast datumbereik te selecteren. De standaardselectie voor het datumbereik is 12 maanden. 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="Inleidings kaart":::
+:::image type="content" source="images/pci/intro1.png" alt-text="Inleidingskaart":::
 
-**Feedback knop**: elke grafiek/elk besturings element in alle Insights-rapporten is opgenomen met een feedback knop waarmee u de instantie feedback kunt geven over een rapport functie. 
+**Feedbackknop:** elk diagram/besturingselement in alle Insights-rapporten wordt opgenomen met een feedbackknop waarmee u feedback van een instantie over een rapportfunctie kunt geven. 
 
  
-**Filters op pagina niveau**: met uitzonde ring van de rapporten overzicht, voor delen en competenties kunt u met alle Insights-rapporten filters op pagina niveau Toep assen. 
+**Filters op paginaniveau:** met uitzondering van de rapporten Overzicht, Voordelen en Competenties kunt u met alle Insights-rapporten filters op paginaniveau toepassen. 
 
-- De geselecteerde filters zijn van toepassing op alle grafieken en metrische gegevens op een pagina, met inbegrip van de sectie samen vatting. Een filter item is beschikbaar als u gegevens in dat filter criterium hebt. 
+- De geselecteerde filters zijn van toepassing op alle grafieken en metrische gegevens op een pagina, inclusief de samenvattingssectie. Er is een filteritem beschikbaar als u gegevens binnen die filtercriteria hebt. 
 
-- Standaard selectie van elke filter lijst is **alle**. Als u bijvoorbeeld niet een specifiek product hebt geselecteerd in het gedeelte producten, is standaard selectie alle producten.
+- De standaardselectie van elke filterlijst is **.** Als u bijvoorbeeld geen specifiek product hebt geselecteerd in het productfilter, is de standaardselectie alle producten.
 
-- De geselecteerde filters worden boven aan de pagina weer gegeven. 
+- Geselecteerde filters worden boven aan de pagina weergegeven. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="Gedeeltelijke scherm opname van de toegepaste filter balk met filters electies voor producten, klanten markten, partner-en verkoop kanalen.":::
+:::image type="content" source="images/pci/filters.png" alt-text="Gedeeltelijke schermopname van de balk Toegepaste filters met filterselecties voor producten, klant markten, partnervermeldingen en verkoopkanalen.":::
 
-### <a name="filters-definitions"></a>Filters definities:
+### <a name="filters-definitions"></a>Filterdefinities:
 
-- Producten: een lijst met alle Microsoft Cloud producten die worden verkocht/beheerd door uw organisatie, bijvoorbeeld O365, azure, D365, EMS, Power BI, enzovoort.
-- Klanten markten: lijst met klant landen
-- Partner toerekeningen: uw koppelings type met de abonnementen van uw klanten, bijvoorbeeld Digital partner of record (DPOR), delegated Administrator privilege (DAP) en partner admin link (PAL). 
-- Partner locaties: lijst met de MPN locaties van uw organisatie.
-- Verkoop kanalen: alle verkoop kanaal/prijzen waarmee u producten en services kunt kopen/inrichten, met name CSP, EA, CSP indirect, direct, Advisor, open, anderen
-- Klant segmenten: een lijst met klant segmenten in het klanten database van de partners.
+- Producten: lijst met alle Microsoft Cloud-producten die worden verkocht/beheerd door uw organisatie, bijvoorbeeld O365, Azure, D365, EMS, Power BI, enzovoort.
+- Klantmarkt: Lijst met landen van klanten
+- Partnervermeldingen: Uw koppelingstype met de abonnementen van uw klanten, bijvoorbeeld Digital Partner of Record (DPOR), DAP (Delegated admin privilege) en de koppeling Partner Admin (PAL). 
+- Partnerlocaties: lijst met alle MPN-locaties van uw organisatie.
+- Verkoopkanalen: alle verkoopkanalen/prijzen waarmee u producten en services koopt/inrichten, namelijk CSP, EA, CSP indirect, Direct, Advisor, Open, overige
+- Klantsegmenten: Lijst met klantsegmenten in het klantenbestand van partners.
 
-## <a name="read-about-each-of-the-dashboards-and-reports"></a>Meer informatie over elk van de Dash boards en rapporten:
+## <a name="read-about-each-of-the-dashboards-and-reports"></a>Meer informatie over elk van de dashboards en rapporten:
 
-- [Partner Center Insights-overzichts dashboard](pci-overview-report.md)
+- [Partner Center Insights - Overzichtsdashboard](pci-overview-report.md)
 
-- [Partner centrum Insights-klanten dashboard](pci-customer-report.md)
+- [Partner Center Insights - Klantdashboard](pci-customer-report.md)
 
-- [Partner centrum Insights-abonnementen rapport](pci-product-subscriptions-report.md)
+- [Partner Center Insights - Rapport Abonnementen](pci-product-subscriptions-report.md)
 
-- [Partner centrum Insights-licentie rapport](pci-product-licenses-report.md)
+- [Partner Center Insights - Rapport Licenties](pci-product-licenses-report.md)
 
-- [Partner Center Insights-Azure-gebruiks rapport](pci-azure-usage-report.md)
+- [Partner Center Insights - Azure-gebruiksrapport](pci-azure-usage-report.md)
 
-- [Partner centrum Insights-competentie rapport](pci-competencies-report.md)
+- [Partner Center Insights - Rapport Competenties](pci-competencies-report.md)
 
-- [Partner centrum Insights-voor delen](pci-benefits-report.md)
+- [Partner Center Insights - Rapport voordelen](pci-benefits-report.md)

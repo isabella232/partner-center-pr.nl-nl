@@ -1,92 +1,65 @@
 ---
-title: Vind uw voor delen
+title: Uw voordelen vinden
 ms.topic: how-to
 ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Meer informatie over hoe u uw MPN-voor delen kunt vinden in het dash board van de Partner Center. Bevat informatie over hoe u uw toegangs-ID en contract-ID kunt vinden voor technische voor delen.
+description: Meer informatie over het vinden van uw MPN-voordelen in Partner Center dashboard. Bevat informatie over het vinden van uw toegangs-id en contract-id voor technische voordelen.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ad3e686c90c286465911e8d01d12686d2c6ad15
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132975"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152389"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Voordelen van het Microsoft Partner Network zoeken 
 
-**Juiste rollen**
+**Juiste rollen:** BEHEER VAN MPN-partner | Globale beheerder
 
-- MPN-partner beheerder
-- Globale beheerder
-
-In dit artikel wordt aan leden van de Microsoft Partner Network (MPN) uitgelegd hoe ze hun MPN-voor delen kunnen vinden in het dash board van de partner centrum. Deze informatie omvat het vinden van de specifieke product ondersteuning-Id's van uw bedrijf, zoals contract-ID en toegangs-ID, die zijn gekoppeld aan technische voor delen.
+In dit artikel wordt aan leden van de Microsoft Partner Network (MPN) beschreven hoe ze hun MPN-voordelen kunnen vinden in het Partner Center dashboard. Deze informatie bevat informatie over het vinden van de specifieke productondersteunings-id's van uw bedrijf, zoals contract-id en toegangs-id, die zijn gekoppeld aan technische voordelen.
 
 >[!NOTE]
-> Als uw Microsoft Partner Network-lidmaatschap zich nog steeds in het PMC (Partner Membership Center) bevindt, moet u mogelijk contact opnemen met een andere resource, zoals partner Frontline, om u te helpen bij het bekijken of activeren van bepaalde voor delen. Zie [technische voor delen activeren buiten het partner centrum](partner-membership-center-tech-benefits-activate.md)voor meer informatie.
+> Als uw Microsoft Partner Network nog steeds in Partner Membership Center (PMC) is, moet u mogelijk contact opnemen met een andere resource, zoals Partner Frontline, om bepaalde voordelen te bekijken of activeren. Zie Technische voordelen buiten de Partner Center voor [meer Partner Center.](partner-membership-center-tech-benefits-activate.md)
 
-## <a name="find-your-mpn-benefits-in-partner-center"></a>Uw MPN-voor delen vinden in het partner centrum
+## <a name="find-your-mpn-benefits-in-partner-center"></a>Uw MPN-voordelen vinden in Partner Center
 
-Als Microsoft Partner Network-lid heeft uw bedrijf toegang tot veel voor delen die u kunnen helpen bij het uitbreiden van uw bedrijf. Ga als volgt te weten wat deze voor delen zijn:
+Als Microsoft Partner Network heeft uw bedrijf toegang tot veel voordelen die u kunnen helpen bij het groeien van uw bedrijf. Ga als volgende te werk om erachter te komen wat deze voordelen zijn:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van het partner centrum, selecteer **MPN** en selecteer vervolgens **voor delen**.
+1. Meld u aan bij Partner Center [dashboard,](https://partner.microsoft.com/dashboard/home)selecteer **MPN** en selecteer vervolgens **Voordelen.**
 
-2. Vanuit voor delen kunt u de voor delen van een van de beschik bare categorieën bekijken, activeren, sorteren of downloaden. Als u dit wilt doen, selecteert u het gebied voor delen waarover u meer wilt weten:
+2. Vanuit Voordelen kunt u de voordelen bekijken, activeren, sorteren of downloaden die horen bij een van de categorieën die voor u beschikbaar zijn. Als u dit wilt doen, selecteert u het voordeelgebied waar u meer over wilt weten:
 
-   - Cloud producten van Azure &
-   - Softwareproducten
-   - Visual Studio-abonnementen
-   - Technische voordelen
-   - Go-to-Market
-   - Marketplace-beloningen
-   - Logo Builder
+   - [Azure & Cloud-producten](mpn-benefits-azure-cloud.md)
+   - [Softwareproducten](mpn-benefits-software.md)
+   - [Visual Studio abonnementen](mpn-benefits-visual-studio.md)
+   - Technische voordelen: [voordelen van technische ondersteuning (toegangs-id en contract-id)](mpn-benefits-technical-support.md) of Technical [Presales and Deployment Services (TPD)](technical-benefits.md)
+   - [Go-to-market](mpn-learn-about-go-to-market-benefits.md)
+   - [Marketplace-beloningen](marketplace-rewards.md)
+   - [Logo Builder](mpn-logo-builder.md)
 
-3. Als u een voor deel uitbreidt, vindt u aanvullende informatie die u kan helpen bij het activeren van het specifieke voor deel.
+3. Door uit te breiden ( + ) een voordeel, vindt u aanvullende informatie om u te helpen bij het activeren van het specifieke voordeel.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Uitgebreide voor delen":::
-
-   > [!NOTE]
-   > Als u voor delen wilt activeren, moet u de rol van globale beheerder of MPN partner beheerder in het partner centrum toewijzen. Alle andere gebruikers bij een bedrijf moeten echter de details van de voor delen in het partner centrum kunnen bekijken, zoals product ondersteuning-Id's. Zie [gebruikers rollen en-machtigingen toewijzen in partner centrum](permissions-overview.md)voor meer informatie over Partner Center rollen.
-
-## <a name="find-access-id-and-contract-id-for-technical-benefits"></a>De toegangs-ID en contract-ID zoeken voor technische voor delen
-
-Nadat u de bovenstaande stappen hebt gevolgd en bepaalde voor delen (zoals technische voor delen) hebt geactiveerd, kunnen andere belang rijke details worden weer gegeven op de pagina technische voor delen.
-
-Voor technische voor delen ziet u de Id's voor product ondersteuning van micro soft, zoals de **toegangs-id** en **contract-id** in het partner centrum.
-
->[!NOTE]
-> Als uw Microsoft Partner Network-lidmaatschap zich nog steeds in het PMC (Partner Membership Center) bevindt en nog niet is gemigreerd naar het partner centrum, moet u [contact opnemen](partner-membership-center-tech-benefits-activate.md) met de Frontline van de partner om technische voor delen te activeren of uw ondersteunings-id en contract-id te krijgen.
-
- Volg deze stappen om deze informatie in partner centrum weer te geven:
-
-1. Meld u aan bij het Partnercentrum-[dashboard](https://partner.microsoft.com/dashboard/home)
-
-2. Selecteer **MPN** en vervolgens **voor delen**, gevolgd door **technische voor delen**.
-
-3. Selecteer een voor deel in de lijst. Breid het voor deel uit om meer details weer te geven. 
-
-   U moet de specifieke **contract-id** voor product ondersteuning en de **toegangs-id** zien die aan dit voor deel zijn toegewezen.  
-
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Voor beeld van een Gold core-competentie technisch voor deel met product ondersteuning van micro soft, zoals de contract-ID en toegangs-ID":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Uitgebreide voordelen":::
 
    > [!NOTE]
-   > Houd deze ondersteunings-Id's bij. Bepaalde systemen kunnen hiervoor de eerste keer dat u (of een van de gebruikers van uw bedrijf) vraagt, een ondersteunings aanvraag vastleggen die aan een specifiek technisch voor deel is gekoppeld. Alle gebruikers van uw bedrijf zullen waarschijnlijk dezelfde toegangs-ID en contract-ID gebruiken.
+   > Als u voordelen wilt activeren, moet aan u de rol van globale beheerder of MPN-partnerbeheerder in de Partner Center. Alle andere gebruikers van een bedrijf moeten echter details over voordelen kunnen bekijken in Partner Center, zoals productondersteunings-ID's. Zie Gebruikersrollen en -Partner Center toewijzen in Partner Center voor meer [informatie over Partner Center.](permissions-overview.md)
 
-## <a name="specific-benefit-offers"></a>Specifieke voor delen
+## <a name="specific-benefit-offers"></a>Specifieke voordeelaanbiedingen
 
-Raadpleeg de volgende bronnen voor meer informatie over de voor delen van micro soft Action Pack, Silver en/of Gold competenties:
+Als u wilt weten welke voordelen beschikbaar zijn met Microsoft Action Pack,Silver- en/of Gold-competenties, gaat u naar de volgende bronnen:
 
-- [Licentie tabel voor micro soft Action Pack-partners](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
+- [Licentietabel voor Microsoft Action Pack-partners](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
-- [Licentie tabel voor competentie partners](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
+- [Licentietabel voor competentiepartners](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
-Raadpleeg de [hand leiding voor product gebruik](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)voor meer informatie over hoe u deze voor delen kunt gebruiken.
+Raadpleeg de productgebruikshandleiding voor meer informatie over het gebruik [van deze voordelen.](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Microsoft Learn accounts voor werk nemers koppelen](ms-learn-associate.md)
-- [Uw Microsoft Partner Network voor delen en aanbiedingen beheren](manage-your-partner-network-benefits.md)
-- [Technische voor delen voor leden van Partner Membership Center (PMC) activeren](partner-membership-center-tech-benefits-activate.md)
+- [Werknemersaccounts Microsoft Learn koppelen](ms-learn-associate.md)
+- [Uw Microsoft Partner Network en aanbiedingen beheren](manage-your-partner-network-benefits.md)
+- [Technische voordelen activeren voor leden van Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)

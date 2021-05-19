@@ -4,68 +4,63 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het migreren van gekwalificeerde Dynamics 365 Business Edition-aanbiedingen naar nieuwere versies voordat ze verlopen.
+description: Meer informatie over het migreren van gekwalificeerde Aanbiedingen van Dynamics 365 Business Edition naar nieuwere versies voordat ze verlopen.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132635"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151522"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrate Dynamics 365 Business Edition Offers to newer versions (Aanbiedingen van Dynamics 365 Business Edition migreren naar nieuwere versies)
 
-**Juiste rollen**
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Beheer agent
-- Verkoop agent
+Vanaf 1 januari 2019 kunnen klanten met Dynamics 365 Business Edition-abonnementen niet meer worden verlengd voor deze verouderde aanbiedingen; bestaande abonnementen worden niet automatisch vernieuwd wanneer ze verlopen. Op de detailpagina van het abonnement wordt de status van het abonnement gewijzigd in 'Verloopt op [datum]' van 'Automatisch verlengen op [datum]'.
 
-Met ingang van 1 januari 2019 kunnen klanten met Dynamics 365 Business Edition-abonnementen niet langer worden verlengd naar deze verouderde aanbiedingen. bestaande abonnementen worden niet automatisch vernieuwd wanneer ze verlopen. Op de detail pagina van het abonnement wordt de abonnements status gewijzigd van ' verloopt op [datum] ' van ' automatisch relateren op [date] '.
+Om de continuïteit voor klanten te waarborgen, moet u de klanten met verlopen abonnementen overstappen naar een ondersteunde optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen.
 
-Om klanten continuïteit te garanderen, moet u deze met verlopende abonnementen overzetten naar een ondersteunde optie die hieronder wordt weer gegeven. U wordt aangeraden klanten te verplaatsen naar nieuwe abonnementen vóór de jaarlijkse eind datum van het abonnement om eventuele service storingen voor klanten te voor komen.
+Als u de API (ZOWEL DEP als Partner Center) gebruikt, kunt u verlopende abonnementen vinden door de einddatum van het abonnement samen met de eigenschap auto renew = False te evalueren. De abonnementen in kwestie worden op 1 januari 2019 ingesteld op automatisch verlengen=Onwaar. U kunt klanten op elk moment verplaatsen naar een nieuw abonnement. 
 
-Als u de API (topof het partner centrum) gebruikt, kunt u verlopen abonnementen vinden door de eind datum van het abonnement samen met de eigenschap automatisch verlengen = false te evalueren. De betreffende abonnementen worden ingesteld op automatisch verlengen = False op 1 januari 2019. U kunt klanten op elk gewenst moment verplaatsen naar een nieuw abonnement. 
+## <a name="the-dynamics-365-business-editions-being-retired"></a>De Dynamics 365 Business Editions die niet meer worden gebruikt
 
-## <a name="the-dynamics-365-business-editions-being-retired"></a>De Dynamics 365 Business-edities buiten gebruik gesteld
-
-- Dynamics 365 voor Financiën en operationele activiteiten, Business Edition
+- Dynamics 365 for Finance and Operations, Business Edition
 - Dynamics 365 for Team Members, Business edition
 
-## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics business Central-de Dynamics 365 Business Edition nieuwe aanbiedingen
+## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central: de nieuwe aanbiedingen voor Dynamics 365 Business Edition
 
-Met de nieuwe aanbiedingen voor Dynamics business Central kunnen uw klanten hun financiën, verkoop, service en activiteiten verbinden om bedrijfs processen te stroom lijnen, interacties van klanten te verbeteren en betere beslissingen te nemen. Dynamics 365 Business Central is alleen beschikbaar via Cloud Solution Provider (CSP)-programma partners.
-Dynamics 365 Business Edition-klanten komen in aanmerking voor korting op prijzen voor de nieuwe Business Central-aanbiedingen tot en met 30 juni 2020.
+Met de nieuwe Dynamics Business Central-aanbiedingen kunnen uw klanten hun financiën, verkoop, service en activiteiten verbinden om bedrijfsprocessen te stroomlijnen, interacties van klanten te verbeteren en betere beslissingen te nemen. Dynamics 365 Business Central is gebaseerd op de cloud en is alleen beschikbaar via Cloud Solution Provider (CSP)-programmapartners.
+Klanten van Dynamics 365 Business Edition komen in aanmerking voor korting op overgangsprijzen voor de nieuwe Business Central-aanbiedingen tot en met 30 juni 2020.
 
-## <a name="transition-customers-to-new-product-plans"></a>Klanten overstappen naar nieuwe product abonnementen
+## <a name="transition-customers-to-new-product-plans"></a>Klanten overstappen op nieuwe productplannen
 
- Voor het verplaatsen van klanten uit buiten gebruik gestelde Sku's naar nieuwere versies moeten de volgende stappen worden uitgevoerd in deze volg orde:
+ Voor het verplaatsen van klanten van niet-bestaande SKU's naar nieuwere SKU's zijn de volgende stappen in deze volgorde vereist:
 
 - Het nieuwe abonnement kopen
-- Huidige gebruikers licenties opnieuw toewijzen
+- Huidige gebruikerslicenties opnieuw toewijzen
 - Oud abonnement annuleren
 
-## <a name="purchase-the-new-plan-for-your-customer"></a>Koop het nieuwe abonnement voor uw klant
+## <a name="purchase-the-new-plan-for-your-customer"></a>Het nieuwe abonnement voor uw klant kopen
 
-1. Selecteer **klanten** in het linkerdeel venster en selecteer vervolgens de klant die u naar het nieuwe abonnement wilt verplaatsen.
-2. Selecteer **abonnement toevoegen**.
-3. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer vervolgens **verzenden**. 
+1. Selecteer **Klanten** in het linkernavigatiebalk en selecteer vervolgens de klant die u wilt verplaatsen naar het nieuwe abonnement.
+2. Selecteer **Abonnement toevoegen.**
+3. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **verzenden.** 
 
 Uw klant heeft nu zowel het oude als het nieuwe abonnement. De volgende stap is het opnieuw toewijzen van licenties aan de gebruikers van de klant.
 
-1. Selecteer **klanten** in het linkerdeel venster en selecteer vervolgens de klant die u wilt verplaatsen.
-2. Selecteer **gebruikers en licenties**.
-3. Als u een licentie wilt toewijzen aan een gebruiker, selecteert u de gebruiker en selecteert u vervolgens **licenties beheren**. 
-4. Schakel op de pagina **licenties beheren** het selectie vakje Dynamics 365 voor verkoop/klant engagement van de Basic-licentie (gekwalificeerd aanbod) uit en selecteer een nieuw service plan voor het abonnement waarnaar de klant wordt verplaatst. 
-5. Selecteer **Indienen**. U kunt dit doen voor elke gebruiker die de nieuwe licentie nodig heeft. 
+1. Selecteer **Klanten** in het linkernavigatiebalk en selecteer vervolgens de klant die u verplaatst.
+2. Selecteer **Gebruikers en licenties.**
+3. Als u een licentie opnieuw wilt toewijzen aan een gebruiker, selecteert u de gebruiker en selecteert u **vervolgens Licenties beheren.** 
+4. Schakel **op** de pagina Licenties beheren het selectievakje Licentie voor Dynamics 365 for Sales/Customer Engagement Plan van Basic (gekwalificeerde aanbieding) uit en selecteer een nieuw serviceplan voor het abonnement waar de klant naar overstapt. 
+5. Selecteer **Indienen**. U doet dit voor elke gebruiker die de nieuwe licentie nodig heeft. 
 
-Zodra u de licenties hebt verplaatst naar het nieuwe abonnement, kunt u het oude abonnement annuleren. 
+Nadat u de licenties hebt verplaatst naar het nieuwe abonnement, kunt u het oude abonnement annuleren. 
 
-1. Selecteer **klanten** in het linkerdeel venster en selecteer vervolgens de klant die u wilt verplaatsen.
-2. Stel op de pagina abonnements Details het oude abonnement in op **opgeschort** en selecteer **indienen**.
+1. Selecteer **Klanten** in het linkernavigatiebalk en selecteer vervolgens de klant die u verplaatst.
+2. Stel op de detailpagina van het abonnement het oude abonnement in op **Tijdelijk en** selecteer **Verzenden.**
 
-Het oude abonnement is nu onderbroken en het nieuwe abonnement is actief. Het opgeschorte abonnement wordt na 120 dagen niet meer ingericht. Uw klant heeft geen extra kosten in rekening gebracht voor het oude abonnement.
+Het oude abonnement is nu opgeschort en het nieuwe abonnement is actief. De inrichting van het abonnement wordt na 120 dagen automatisch verwijderd. Uw klant maakt geen extra kosten voor het oude abonnement.

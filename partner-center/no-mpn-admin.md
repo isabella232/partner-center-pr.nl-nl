@@ -1,64 +1,60 @@
 ---
-title: Wat moet ik doen als de enige beheerder van uw MPN-programma het bedrijf heeft verlaten?
+title: Wat te doen als de enige beheerder voor uw MPN-programma het bedrijf heeft verlaten?
 ms.topic: how-to
 ms.date: 09/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over wat u kunt doen om een nieuwe MPN-beheerder te vinden of om hulp te krijgen van de globale beheerder van uw bedrijf. Meer informatie over het toevoegen van een nieuwe globale beheerder van het partner centrum.
+description: Ontdek wat u moet doen om een nieuwe MPN-beheerder te vinden of hulp te krijgen van de globale beheerder van uw bedrijf. Meer informatie over het toevoegen van een nieuwe Partner Center globale beheerder.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441996"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151165"
 ---
-# <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Wat moet ik doen als de enige beheerder van uw MPN-programma het bedrijf heeft verlaten?
+# <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Wat te doen als de enige beheerder voor uw MPN-programma het bedrijf heeft verlaten?
 
-**Juiste rollen**
-
-- MPN-partner beheerder
-- Accountbeheerder
-- Globale beheerder
+**Juiste rollen:** BEHEER VAN MPN-partner | Accountbeheerder | Globale beheerder
 
 In het volgende artikel worden drie typische scenario's beschreven met betrekking tot wat u moet doen als uw MPN-beheerder het bedrijf heeft verlaten.
 
-## <a name="scenario-1-mpn-partner-adminaccount-admin-has-left-the-company-but-there-are-still-global-admins-in-the-account"></a>Scenario 1: beheerder/account beheerder van MPN-partner heeft het bedrijf verlaten, maar er zijn nog steeds globale beheerders in het account
+## <a name="scenario-1-mpn-partner-adminaccount-admin-has-left-the-company-but-there-are-still-global-admins-in-the-account"></a>Scenario 1: De beheerder/accountbeheerder van de MPN-partner heeft het bedrijf verlaten, maar het account heeft nog steeds globale beheerders
 
-In dit geval kan een andere persoon in het bedrijf de rol van MPN-partner beheerder toewijzen. Voor het toewijzen van de rol van specifieke beheerder/account beheerdersrol van MPN-partner:
+In dit geval kan aan een andere persoon in het bedrijf de rol van MPN-partnerbeheerder worden toegewezen. De rol van de specifieke beheerdersrol/accountbeheerder van de MPN-partner moet aan u worden toegewezen:
 
-1. Meld u aan bij uw partner centrum-account met uw werk account (bijvoorbeeld tom@contoso.com ).
-1. Ga naar het pagina filter voor **gebruikers beheer** op globale beheerder om te zien wie de globale beheerders voor uw bedrijf zijn. 
-1. Neem contact op met een van de globale beheerders en vraag hen om u de MPN-specifieke rol die u nodig hebt toe te wijzen. 
+1. Meld u aan Partner Center account met uw werkaccount (bijvoorbeeld tom@contoso.com ).
+1. Filter op **de pagina Gebruikersbeheer** op Globale beheerder om te zien wie de globale beheerders voor uw bedrijf zijn. 
+1. Neem contact op met een van de globale beheerders en vraag deze om u de MPN-specifieke rol toe te wijzen die u nodig hebt. 
 
-## <a name="scenario-2-mpn-partner-adminaccount-admin-has-left-the-company-and-there-are-no-global-admins-in-the-account"></a>Scenario 2: de beheerder/account beheerder van de MPN-partner heeft het bedrijf verlaten en er zijn geen globale beheerders in het account 
+## <a name="scenario-2-mpn-partner-adminaccount-admin-has-left-the-company-and-there-are-no-global-admins-in-the-account"></a>Scenario 2: De beheerder/accountbeheerder van de MPN-partner heeft het bedrijf verlaten en er zijn geen globale beheerders in het account 
 
-Ga als volgt te werk op de pagina **gebruikers beheer** en filter voor globale beheerder, maar u ziet dat er geen globale beheerder is in uw bedrijf die u kan helpen om de MPN-specifieke rol te krijgen:
+Als u naar  de pagina Gebruikersbeheer gaat en filtert op Globale beheerder, maar u ziet dat uw bedrijf geen globale beheerder heeft die u kan helpen bij het verkrijgen van de MPN-specifieke rol, volgt u deze stappen:
 
-1. Ga naar [Portal.Azure.com](https://ms.portal.azure.com/)en meld u aan met uw werk account (bijvoorbeeld tom@contoso.com ). 
-1. Selecteer de optie **Help en ondersteuning** in de navigatie balk vanuit het menu links.
-1. Selecteer op de volgende pagina **nieuw ondersteuningsaanvraag** en type **technisch probleem** in het vervolg keuzemenu, Voeg eventuele aanvullende gegevens in en klik op **volgende: oplossingen.**
+1. Ga naar [portal.azure.com](https://ms.portal.azure.com/), meld u aan met uw werkaccount (bijvoorbeeld tom@contoso.com ). 
+1. Selecteer de **optie Help en ondersteuning** in de navigatiebalk aan de linkerkant.
+1. Selecteer op de volgende pagina Nieuw  **Ondersteuningsaanvraag** type technisch probleem in de vervolgkeuzelijst, voeg eventuele aanvullende details in en klik op **Volgende: Oplossingen.**
 
 :::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Beheerder zoeken in Azure Portal":::
 
-4. Nadat u de aanbevolen oplossingen op de volgende pagina hebt bekeken, selecteert u **volgende: Details** en vult u de vereiste velden in.
-1. De ondersteunings aanvraag bekijken en maken.
+4. Nadat u de aanbevolen oplossingen op de volgende pagina controleert, selecteert u **Volgende: Details en** vult u de benodigde velden in.
+1. Controleer en maak de ondersteuningsaanvraag.
 
 
-## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Scenario 3: MPN partner beheerder/account beheerder/globale beheerder heeft het bedrijf verlaten en er zijn geen andere gebruikers die toegang hebben tot de Azure AD van het bedrijf. Dit is een volledig verlies van toegang.
+## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Scenario 3: De mpn-partnerbeheerder/accountbeheerder/globale beheerder heeft het bedrijf verlaten en er zijn geen andere gebruikers die toegang hebben tot Azure AD van het bedrijf. Dit is een volledig verlies van toegang.
 
-Volg de [beheerders overname](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) stappen om een onbeheerde map te maken als Azure Active Directory beheerder.
+Volg de [stappen voor het overnemen](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) van beheerders om als beheerder een niet-Azure Active Directory overnemen.
 
-## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Weet u niet zeker of uw bedrijf al een werk account heeft?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Weet u niet zeker of uw bedrijf al een werkaccount heeft?
 
-Als u niet zeker weet of uw bedrijf een werk account heeft, voert u de volgende stappen uit om te controleren.
+Als u niet zeker weet of uw bedrijf een werkaccount heeft, volgt u deze stappen om dit te controleren.
 
-1. Meld u aan bij de [Azure-beheer Portal](https://ms.portal.azure.com).
-2. Selecteer **Azure Active Directory** in het menu links en selecteer vervolgens **domein namen**.
-Als u al een werk account hebt, wordt uw domein naam weer gegeven.
+1. Meld u aan bij de [Azure-beheerportal.](https://ms.portal.azure.com)
+2. Selecteer **Azure Active Directory** in het menu links en selecteer **vervolgens Domeinnamen.**
+Als u al een werkaccount hebt, wordt uw domeinnaam weergegeven.
 
 >[!Note]
->Als u een actief abonnement hebt op Microsoft Azure of Office 365, hebt u al een werk account en zijn uw aanmeldings referenties hetzelfde als die voor toegang tot deze services.
+>Als u een actief abonnement op Microsoft Azure of Office 365 hebt, hebt u al een werkaccount en moeten uw aanmeldingsreferenties hetzelfde zijn als de referenties die worden gebruikt voor toegang tot deze services.

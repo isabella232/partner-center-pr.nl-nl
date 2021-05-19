@@ -1,6 +1,6 @@
 ---
 title: Problemen met klantkoppeling Incentives
-description: Meer informatie over het oplossen van problemen die zich voordoen bij het werken met CPOR-klant koppelingen (partner of record).
+description: Meer informatie over het oplossen van problemen die zich kunnen voor doen bij het werken met geclaimde Partner of Record s (CPOR).
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -8,86 +8,82 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 30639725c0a852046251e83c3791f56d788931c1
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179207"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152168"
 ---
-# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemen met klant koppelingen met geclaimde partner of record (CPOR)
+# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemen met geclaimde Partner of Record (CPOR) klant verbanden
 
-**Juiste rollen**
+**Juiste rollen:** Factureringsbeheerders | Globale beheerders | Incentives-beheerder
 
-- Factureringsbeheerder
-- Globale beheerder
-- Prikkel beheerder
+De onderstaande inhoud helpt u bij het oplossen van problemen die kunnen komen wanneer u met klantorganisaties werkt.
 
-De onderstaande inhoud helpt u bij het oplossen van problemen die kunnen optreden wanneer u met klant koppelingen werkt.
+## <a name="domain-tenant-mismatch"></a>Domein-tenant komt niet overeen
 
-## <a name="domain-tenant-mismatch"></a>Domein-Tenant komt niet overeen
+In de stroom Claimclaim geclaimde Partner of Record (CPOR) wordt u gevraagd om de tenant-id en het subdomein van de klant op te geven. Als u een foutbericht ontvangt waarin staat dat deze niet overeenkomen, neem dan contact op met uw klant om te controleren of u de juiste gegevens hebt.
 
-U wordt gevraagd om de Tenant-ID en het subdomein van de klant op te geven in de claimed partner of record (CPOR)-koppelings stroom. Als er een fout bericht wordt weer gegeven dat ze niet overeenkomen, neemt u contact op met uw klant om te controleren of u de juiste gegevens hebt.
+## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>Abonnementsfouten in de stroom van de CPOR-associatieclaim
 
-## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>Abonnements fouten in de CPOR Association-koppelings stroom
+In de stroom van de CPOR-associatieclaim wordt u mogelijk gevraagd een abonnement op te geven voor een product dat u probeert te claimen via Business Applications (Dynamics 365). We vragen om het abonnement omdat we dynamisch controleren of het product en het abonnement behoren tot de tenant die wordt geclaimd. We controleren ook of het abonnement actief is/de respijtstatus heeft.
 
-In de claim stroom van de CPOR-koppeling wordt u mogelijk gevraagd om een abonnement te geven voor een product dat u wilt claimen via Business Applications (Dynamics 365). Er wordt om het abonnement gevraagd omdat er dynamisch wordt gecontroleerd of het product en het abonnement behoren tot de Tenant waarvoor wordt geclaimd. Er wordt ook gecontroleerd of het abonnement actief/in de respijt status is.
-
-Als het fout bericht wordt weer gegeven, kan dit verschillende oorzaken hebben:
+Als u de foutmelding ontvangt, kan dit om verschillende redenen zijn:
 
 - Het geselecteerde product bestaat niet in de tenant van de klant
-- Het gegeven abonnement is niet voor Dynamics
+- Het opgegeven abonnement is niet voor Dynamics
 - Het opgegeven abonnement is niet voor CSP
 - De klant heeft de producten voor dat abonnement nog niet geactiveerd/ingericht
 - Het abonnement is al geclaimd
-- De door gegeven id is geen abonnements-ID
+- De opgegeven id is geen abonnements-id
 
-Als u een vraag hebt over de nauw keurigheid van uw abonnement, werkt u samen met uw klant om te controleren of het abonnement juist is en of u de juiste Tenant-ID gebruikt.
+Als u een vraag hebt over de juistheid van uw abonnement, moet u met uw klant samenwerken om ervoor te zorgen dat het abonnement juist is en dat u de juiste tenant-id gebruikt.
 
-Neem contact op met de [ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)als deze route het probleem nog niet heeft opgelost.
+Als het probleem niet is opgelost met deze route, neem dan contact op met [de ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
-## <a name="when-subscriptions-will-be-available-to-claim"></a>Wanneer abonnementen kunnen worden claimd
+## <a name="when-subscriptions-will-be-available-to-claim"></a>Wanneer abonnementen beschikbaar zijn om te claimen
 
-Wanneer u een abonnement claimt, ontvangt u een fout melding als het abonnement nog niet is ingericht. Er zijn verschillende stappen die de klant nodig heeft om het abonnement beschikbaar te maken voor het CPOR-platform, zodat het kan worden opgehaald en beschikbaar wordt gemaakt om te worden claimen. Als er een fout optreedt bij het claimen van een abonnement, neemt u contact op met uw klant om te controleren of deze is ingericht en of het abonnement dat u claimt juist is. Als u deze route al hebt gemaakt, neemt u contact op met de [ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Wanneer u claimt voor een abonnement, ontvangt u een foutmelding als het abonnement nog niet is ingericht. Er zijn verschillende stappen die de klant moet ondernemen om het abonnement beschikbaar te maken voor het CPOR-platform om het op te halen en beschikbaar te maken voor claimen. Als u een foutmelding krijgt bij het claimen van een abonnement, neem dan contact op met uw klant om ervoor te zorgen dat het is ingericht en of het abonnement dat u claimt juist is. Als u deze route al hebt genomen, neem dan contact op met [de ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
-## <a name="which-activity-do-i-choose"></a>Welke activiteit moet ik kiezen?
+## <a name="which-activity-do-i-choose"></a>Welke activiteit kies ik?
 
-Het CPOR-claim platform biedt CPOR-koppelings claims met betrekking tot Business Applications en Microsoft 365 oplossings gebieden. De activiteiten die van toepassing zijn op elk oplossings gebied staan hieronder. Selecteer de juiste activiteit op basis van de beschrijvingen om te voor komen dat u in de toekomst vrijmaakt. Claimen met een onjuiste activiteit kan leiden tot gemiste geschiktheid en winst van het prestatie verlies.
+Het CPOR-claimplatform staat CPOR-associatieclaims toe die betrekking hebben op Business Applications en Microsoft 365 oplossingsgebieden. Hieronder vindt u de activiteiten die van toepassing zijn op elk oplossingsgebied. Selecteer de juiste activiteit op basis van de beschrijvingen om te voorkomen dat u deze in de toekomst opnieuw moet vrij maken. Claimen met een onjuiste activiteit kan leiden tot gemiste geschiktheid en incentive-inkomsten.
 
 
-| Gebied waarvoor de oplossing geldt | Activiteit | Van toepassing voor |
+| Gebied waarvoor de oplossing geldt | Activiteit | Van toepassing op |
 | ------ | ----------- | ----------- |
-| Zakelijke toepassingen      | Presale   | Selecteer deze optie als u de aankoop van een in aanmerking komend product hebt beïnvloed en u wilt Toep assen op prikkels voor de verkoop. Deze optie is alleen van toepassing als de klant deze producten heeft aangeschaft via een volume licentieovereenkomst of via web-direct. |
-|    |  Gebruik  | Selecteer deze optie als u de acceptatie en het gebruik van een in aanmerking komende werk belasting aanstuurt en wilt Toep assen op gebruiks prikkels. Deze optie is alleen van toepassing als de klant deze producten heeft aangeschaft via een volume licentieovereenkomst of via web-direct. |
-|    | Opbrengst koppeling   | Selecteer deze optie als u de selectie van een in aanmerking komend product hebt beïnvloed als een bedrijfs impact. Deze optie is alleen voor opbrengst koppeling, niet voor het stimuleren van betalingen. Deze optie is alleen van toepassing als de klant deze producten heeft aangeschaft via een volume licentieovereenkomst of via web-direct.   |
-| Microsoft 365   | Gebruik   | Selecteer deze optie als u de acceptatie en het gebruik van een in aanmerking komende werk belasting aanstuurt en wilt Toep assen op gebruiks prikkels. |
+| Zakelijke toepassingen      | Voorverkoop   | Selecteer of u de aankoop van een in aanmerking komend product hebt beïnvloed en u wilt aanvragen voor incentives voor pre-sale. Deze optie is alleen van toepassing als de klant deze producten heeft gekocht via een volumelicentieovereenkomst of Web-Direct. |
+|    |  Gebruik  | Selecteer of u de acceptatie en het gebruik van een in aanmerking komende workload aand rijt en u wilt aanvragen voor incentives voor gebruik. Deze optie is alleen van toepassing als de klant deze producten heeft gekocht via een volumelicentieovereenkomst of Web-Direct. |
+|    | Opbrengst-associatie   | Selecteer of u de selectie van een in aanmerking komend product als een zakelijke beïnvloeder hebt beïnvloed. Deze optie is alleen voor inkomstenorganisatie, niet voor incentive-betalingen. Deze optie is alleen van toepassing als de klant deze producten heeft gekocht via een volumelicentieovereenkomst of Web-Direct.   |
+| Microsoft 365   | Gebruik   | Selecteer of u de acceptatie en het gebruik van een in aanmerking komende workload wilt stimuleren en u wilt aanvragen voor incentives voor gebruik. |
 
-## <a name="which-mpn-do-i-choose"></a>Welke MPN moet ik kiezen?
+## <a name="which-mpn-do-i-choose"></a>Welke MPN kies ik?
 
-In de claim stroom van de CPOR-koppeling wordt u gevraagd om een MPN te kiezen die moet worden gekoppeld aan het werk dat u aanvraagt voor de eind klant. Uw bedrijf heeft mogelijk veel MPNs, waarvan sommige zijn Inge schreven in prikkel Programma's en anderen die zijn gekoppeld aan een partner type zoals FRP FastTrack. De CPOR Association-claim stroom identificeert welke MPNs zijn geregistreerd in een prestatie programma, maar laat u niet weten of het een specifiek partner type MPN is. Het is belang rijk om de juiste MPN te selecteren om te voor komen dat u in de toekomst vrijmaakt. Claimen met een onjuiste MPN kan leiden tot gemiste geschiktheid en winst van het prestatie verlies.
+In de stroom van de CPOR-associatieclaim wordt u gevraagd om een MPN van het bedrijf te kiezen die moet worden gekoppeld aan het werk dat u claimt bij de eindklant. Uw bedrijf heeft mogelijk veel MPN's, waarvan sommige zijn ingeschreven bij incentive-programma's en andere gekoppeld aan een partnertype zoals FRP FastTrack. De stroom van de CPOR-associatieclaim identificeert welke MPN's zijn ingeschreven in een incentive-programma, maar het laat u niet weten of het een specifiek partnertype MPN is. Het is belangrijk om de juiste MPN te selecteren, om te voorkomen dat u deze in de toekomst opnieuw moet vrij maken. Claimen met een onjuiste MPN kan leiden tot gemiste geschiktheid en incentive-inkomsten.
 
-Als u niet weet welke MPN u moet gebruiken, neemt u contact op met uw globale beheerder.
+Als u niet weet welke MPN u moet gebruiken, neem dan contact op met uw globale beheerder.
 
-Als de MPN die u wilt gebruiken, niet is inge schreven, kunt u deze beheren op het [tabblad Overzicht van prikkels](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (aanmelden vereist).
+Als de MPN die u wilt gebruiken niet is geregistreerd, kunt u dat beheren op het tabblad [Incentives-overzicht](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (aanmelden vereist).
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>Een product kiezen versus een abonnement invoeren
 
-Wanneer een Dynamics-product wordt geclaimd en goedgekeurd, kan de partner de abonnements-ID weer geven in de CPOR-koppelings claim zelf. Wanneer dit abonnement wordt geclaimd, bevindt het zich in een actief of in respijt status, maar er is mogelijk een tijd waarop het abonnement eindigt en de nieuwe abonnementen moeten worden geclaimd in een afzonderlijke CPOR-koppeling.
+Wanneer een Dynamics-product wordt geclaimd en goedgekeurd, kan de partner de abonnements-id weergeven in de CPOR-associatieclaim zelf. Wanneer dit abonnement wordt geclaimd, is het actief of heeft deze de respijtstatus, maar het kan een tijd duren wanneer het abonnement wordt beëindigd en de nieuwe abonnementen moeten worden geclaimd in een afzonderlijke CPOR-claim.
 
 ## <a name="competing-claims"></a>Concurrerende claims
 
-Als u een claim voor een CPOR maakt voor een klant en hun product (en) die al aan een andere partner is gekoppeld, gaat u door naar arbitrage:
+Als u een CPOR-associatieclaim maakt voor een klant en hun product(en) die al aan een andere partner zijn gekoppeld, wordt uw claim geseed tegen de arbiteratie:
 
 1. Nadat u een nieuwe klantkoppeling hebt gemaakt, verifieert Microsoft de details van de koppeling en de aangeleverde PoE om de nauwkeurigheid van de informatie te garanderen.
 
-2. Als u en een andere partner claimen voor dezelfde klant en product/werk belasting, zal micro soft de documentatie voor de uitvoering van elke partner door nemen om te bepalen welke partner moet worden goedgekeurd.
+2. Als u en een andere partner dezelfde klant en product/workload claimen, bekijkt Microsoft de documentatie over het bewijs van uitvoering van elke partner om te bepalen welke partner moet worden goedgekeurd.
 
-3. Er kan meer informatie worden gevraagd van beide partners, wat kan leiden tot vertragingen bij het verwerken van uw koppelings aanvraag.
+3. Er kan aanvullende informatie worden aangevraagd bij beide partners, wat kan leiden tot vertragingen bij het verwerken van uw associatieaanvraag.
 
-4. Uw CPOR-koppelings claim wordt binnen vijf werk dagen nog steeds gecontroleerd, hoewel de status ervan gedurende een langere periode in de _beoordeling_ kan blijven. Dit scenario kan zich voordoen wanneer micro soft werkt met de partner die momenteel eigenaar is van het product/de werk belasting. Als dat het geval is, ontvangt u een melding in het gedeelte met opmerkingen van uw claim. 
+4. Uw CPOR-associatieclaim wordt nog steeds binnen vijf werkdagen  beoordeeld, hoewel de status ervan mogelijk langer op Controle blijft. Dit scenario kan zich voor doen wanneer Microsoft werkt met de partner die momenteel eigenaar is van het product/de workload. Als dat het geval is, wordt u hiervan op de hoogte gesteld in de opmerkingensectie van uw claim. 
 
 >[!IMPORTANT]
->Als we aanvullende informatie nodig hebben om uw CPOR Association-koppelings bewijs (PoE) te verifiëren, nemen we contact met u op via de sectie CPOR Association claim opmerkingen.
+>Als we aanvullende informatie nodig hebben om te controleren of uw CPOR-association proof of execution (PoE) is uitgevoerd, nemen we contact met u op via de sectie Opmerkingen bij de CPOR-associatieclaim.
 
 ## <a name="next-steps"></a>Volgende stappen
 

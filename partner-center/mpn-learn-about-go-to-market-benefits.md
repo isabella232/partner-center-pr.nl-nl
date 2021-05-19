@@ -1,82 +1,75 @@
 ---
-title: Meer informatie over Go-to-Market met aanbiedingen van micro soft
+title: Meer informatie over Go-To-Market met Microsoft-aanbiedingen
 ms.topic: article
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Meer informatie over hoe u met de aanbiedingen van micro soft naar de markt kunt gaan om sneller te kunnen werken, leads te genereren en uw bedrijf uit te breiden.
+description: Ontdek hoe Go-To-Market met Microsoft-aanbiedingen u kan helpen om sneller op de markt te komen, leads te genereren en uw bedrijf uit te breiden.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475259"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152236"
 ---
-# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Verken uw Go-to-Market met micro soft-aanbiedingen
+# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Uw go-to-market verkennen met Microsoft-aanbiedingen
 
-**Juiste rollen**
+**Juiste rollen:** Globale | MPN-partnerbeheerder
 
-- Globale beheerder
-- MPN-partner beheerder
+Wanneer u een lid Microsoft Partner Network, krijgt u toegang tot lidmaatschapsvoordelen die u kunnen helpen bij het bouwen en groeien van uw bedrijf. Go-To-Market met Microsoft-resources, -aanbiedingen [](https://partner.microsoft.com/manage-your-partner-network-benefits) en -programma's zijn een van de vele voordelen die u als lid Microsoft Partner Network ontvangen.
 
-Wanneer u Microsoft Partner Network lid wordt, krijgt u toegang tot de voor delen van een lidmaatschap waarmee u uw bedrijf kunt bouwen en uitbreiden. Go-to-Market met micro soft-resources,-aanbiedingen en-Program ma's zijn een van de [vele voor delen](https://partner.microsoft.com/manage-your-partner-network-benefits) die u ontvangt als Microsoft Partner Network-lid.
-
-Go-to-Market-aanbiedingen bieden u toegang tot exclusieve verkoop-en Marketing Resources waarmee u uw time-to-Market op de markt kunt verkorten, leads genereert en uw bedrijf uitbreidt.
+Go-To-Market-aanbiedingen bieden u toegang tot exclusieve verkoop- en marketingresources die u kunnen helpen uw time-to-market te versnellen, leads te genereren en uw bedrijf uit te breiden.
 
 >[!NOTE]
->Als u nog geen lid bent van de Microsoft Partner Network, neemt u deel aan [de Microsoft Partner Network-site](https://partner.microsoft.com/membership).
+>Als u nog geen lid bent van de Microsoft Partner Network, gaat u naar [de Microsoft Partner Network site.](https://partner.microsoft.com/membership)
 
-## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Go-to-Market-bronnen, aanbiedingen en Program ma's die beschikbaar zijn op lidmaatschaps niveau
+## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Go-To-Market-resources, aanbiedingen en programma's die beschikbaar zijn op lidmaatschapsniveau
 
-Uw Go-to-Market-aanbiedingen verschillen op basis van uw specifieke MPN-lidmaatschap, uw specialisatie en alle [competenties](learn-about-competencies.md) die u behaalt.
+Uw Go-To-Market-aanbiedingen verschillen op basis van uw specifieke niveau van MPN-lidmaatschap, uw specialisaties en eventuele [competenties die](learn-about-competencies.md) u bereikt.
 
-Alle MPN-leden hebben toegang tot bepaalde standaard GTM-resources. Dit geldt ook voor toegang tot kant-en-klare marketing assets, een platform voor verkoop activering en digitale marketing op aanvraag. Er zijn ook nog meer go-to-Market-aanbiedingen en Program ma's beschikbaar voor partners die beschikken over Silver-of Gold-competenties en/of ISV-partners met een oplossing voor de verkoop.
+Alle MPN-leden hebben toegang tot bepaalde standaard GTM-resources. Deze omvatten toegang tot kant-en-klaar marketingactiva, een platform voor verkoopactivering en digitale marketing op aanvraag. Er zijn ook nog meer Go-To-Market-aanbiedingen en -programma's beschikbaar voor partners die Silver- of Gold-competenties hebben en/of ISV-partners met een aanbieding die gereed is voor co-verkoop.
 
 >[!NOTE]
->Go-to-Market-resources,-aanbiedingen en-Program ma's zijn onderhevig aan toevoegingen en wijzigingen. Ga naar de Microsoft Partner Network [Go-to-Market-pagina](https://partner.microsoft.com/membership/go-to-market) voor meer informatie over de meest recente go-to-Market-bronnen en aanbiedingen die beschikbaar zijn voor partners die verschillende competentie niveaus en/of ISV-partners met een kant-en-klare aanbieding bieden.
+>Go-To-Market-resources, aanbiedingen en programma's zijn onderhevig aan toevoegingen en wijzigingen. Ga naar de Microsoft Partner Network [Go-To-Market-pagina](https://partner.microsoft.com/membership/go-to-market) voor meer informatie over de nieuwste Go-To-Market-resources en aanbiedingen die beschikbaar zijn voor partners die verschillende competentieniveaus bereiken en/of ISV-partners met een aanbieding die gereed is voor co-verkoop.
 
-Extra go-to-Market-aanbiedingen die beschikbaar zijn voor klanten met **Silver** -competentie niveaus en/of een ISV-partner met een mede-verkochte prijs aanbod in aanmerking komende:
+Er zijn aanvullende Go-To-Market-aanbiedingen beschikbaar voor degenen met Silver-competentieniveaus en/of isv-partners met een aanbieding die in aanmerking komt voor een co-sell-incentive: 
 
-- Alle MPN standaard go-to-Market-resources
-- Optimalisatie van bedrijfs profielen en referentie beheer
-- Marketing met micro soft
+- Alle MPN-standaard Go-To-Market-resources
+- Optimalisatie van bedrijfsprofiel en verwijzingsbeheer
+- Op de markt brengen met Microsoft
 
-Extra go-to-Market-aanbiedingen die beschikbaar zijn voor partners met **Gold** -competentie niveaus en/of ISV-partners met een mede-verkoop aanbod dat in aanmerking komt:
+Er zijn aanvullende Go-To-Market-aanbiedingen beschikbaar voor partners met Gold-competentieniveaus en/of ISV-partners met een aanbieding die in aanmerking komt voor een co-sell-incentive: 
 
-- Alle MPN standaard go-to-Market-resources
-- Alle voor bereide go-to-Market-aanbiedingen met Silver/ISV-verkoop
-- Eén pager met co-merk
-- Presentatie met co-merk
-- Casestudy met co-merk
-- Klik op release met micro soft Executive quote
-- Sociale marketing met co-merk
+- Alle MPN-standaard Go-To-Market-resources
+- Alle kant-en-klaar go-to-market-aanbiedingen van Silver/ISV voor co-verkoop
+- Go-To-Market-werkset van partner 
 
-## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Go-to-Market-lidmaatschaps aanbiedingen in Partner Center weer geven
+## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Aanbiedingen voor Go-To-Market-lidmaatschap in Partner Center
 
-Uw Go-to-Market-aanbiedingen bekijken:
+Ga als volgende te werk om uw Go-To-Market-aanbiedingen te bekijken:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
-2. Selecteer in het menu links de optie **MPN**. Voer vervolgens een van de volgende stappen uit:
+2. Selecteer MPN in het menu **aan de linkerkant.** Volg vervolgens een van de volgende stappen:
 
-   - Selecteer **Overzicht**. Ga naar de sectie **snelle koppelingen** en selecteer vervolgens het tabblad **Go-to-Market** .
+   - Selecteer **Overzicht**. Schuif naar de **sectie Snelle** koppelingen en selecteer vervolgens het **tabblad Go-to-market.**
 
      of
 
-   - Selecteer de **voor delen** gevolgd door **Go-to-Market**.
+   - Selecteer **Voordelen** gevolgd door **Go-To-Market.**
 
-U ziet een lijst met Go-to-Market-aanbiedingen die al actief zijn of die beschikbaar zijn om te activeren.
+U ziet een lijst met Go-To-Market-aanbiedingen die al actief zijn of beschikbaar zijn om te activeren.
 
-## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Go-to-Market-aanbiedingen in het partner centrum beheren of activeren
+## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Go-To-Market-aanbiedingen beheren of activeren in Partner Center
 
-Zie [uw Go-to-Market-aanbiedingen beheren](manage-your-partner-network-benefits.md#manage-go-to-market-offers)om uw Go-to-Market-aanbiedingen te activeren of te beheren. Voor een deel van het activerings proces moet u een marketing medewerker toewijzen als de contact persoon voor opvolgings-en communicatie over de go-to-Market-aanbiedingen die u activeert.
+Zie Uw [Go-To-Market-aanbiedingen](manage-your-partner-network-benefits.md#manage-go-to-market-offers)beheren als u uw Go-To-Market-aanbiedingen wilt activeren of beheren. Voor een deel van het activeringsproces moet u een marketingmedewerker toewijzen als contactpersoon voor vervolgmails en communicatie met betrekking tot de Go-To-Market-aanbiedingen die u activeert.
 
 >[!IMPORTANT]
->U moet de beheerder van de globale beheerder of de MPN-partner zijn om specifieke go-to-Market-aanbiedingen te activeren en een gerelateerde marketing contact persoon toe te wijzen. Als dat nodig is, kunt u een globale beheerder worden door de instructies op de [pagina **vergoedingen**](https://partnercenter.microsoft.com/pcv/partnership/benefits) te volgen (aanmelden is vereist). Uw bedrijf heeft mogelijk al een globale beheerder, dus zorg ervoor dat u contact opneemt met uw team.
+>U moet de globale beheerder of MPN-partnerbeheerder zijn om specifieke Go-To-Market-aanbiedingen te activeren en een gerelateerde marketingcontact toe te wijzen. Indien nodig kunt u een globale beheerder worden door de instructies op de pagina [ **Voordelen**](https://partnercenter.microsoft.com/pcv/partnership/benefits) te volgen (aanmelden vereist). Uw bedrijf heeft mogelijk al een globale beheerder, dus neem contact op met uw team.
 
 ## <a name="next-steps"></a>Volgende stappen
 
@@ -86,4 +79,4 @@ Zie [uw Go-to-Market-aanbiedingen beheren](manage-your-partner-network-benefits.
 
 - [Meer informatie over competenties](learn-about-competencies.md)
 
-- [Verkopen met micro soft](https://partner.microsoft.com/membership/sell-with-microsoft)
+- [Verkopen met Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)

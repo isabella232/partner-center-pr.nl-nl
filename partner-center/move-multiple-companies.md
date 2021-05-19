@@ -1,96 +1,91 @@
 ---
-title: Bedrijven migreren van PMC naar partner Center
+title: Bedrijven migreren van PMC naar Partner Center
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Wat u moet weten wanneer u meerdere bedrijven migreert van het Partner Membership Center (PMC) naar het partner centrum en consolideert u deze in een algemeen partner account.
+description: Wat u moet weten wanneer u meerdere bedrijven migreert van Partner Membership Center (PMC) naar Partner Center en deze consolideren in een wereldwijd partneraccount.
 author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 2c9973bf82957cd017abfc59c25b0c17173cb3f8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132652"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151590"
 ---
-# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Meerdere bedrijven verplaatsen naar partner Center vanuit een Partner Membership Center (PMC)
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Meerdere bedrijven verplaatsen naar Partner Center van Partner Membership Center (PMC)
 
-**Juiste rollen**
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Beheer agent
-- Verkoop agent
+Wanneer u uw bedrijfsaccount van PMC naar het Partnercentrum verplaatst, verplaatst u mogelijk diverse accounts. In Partner Center worden deze accounts geconsolideerd in één globaal account (PGA). Het eerste account dat u verplaatst, wordt beschouwd als het globale partneraccount en alle volgende accounts worden geconsolideerd in het eerste account als locaties. Start de overstap met het PMC-account voor het hoofdkantoor van uw bedrijf. Zie Guide [to migrating from PMC to Partner Center](guide-to-migration.md) (Handleiding voor het migreren van PMC naar Partner Center) of bekijk deze korte video Accounts voor meerdere locaties die eenvoudig zijn [gemaakt.](https://vimeo.com/290335248)
 
-Wanneer u uw bedrijfsaccount van PMC naar het Partnercentrum verplaatst, verplaatst u mogelijk diverse accounts. In Partner Center worden deze accounts geconsolideerd in één globaal account (PGA). Het eerste account dat u verplaatst, wordt beschouwd als het globale partner account en alle volgende accounts worden geconsolideerd in het eerste account als locaties. Begin met het PMC-account voor het hoofd kantoor van uw bedrijf. Zie voor meer informatie de [hand leiding over migreren van PMC naar partner Center](guide-to-migration.md) of Bekijk deze korte [multi-locatie accounts die eenvoudig zijn gemaakt](https://vimeo.com/290335248).
+## <a name="move-your-additional-accounts-into-partner-center"></a>Uw extra accounts verplaatsen naar Partner Center
 
-## <a name="move-your-additional-accounts-into-partner-center"></a>Uw extra accounts verplaatsen naar het partner centrum
+Omdat u al één bedrijfsaccount hebt verplaatst naar Partner Center, laten we u bij het aanmelden weten welk account zich al in de Partner Center.
 
-Omdat u een bedrijfs account al naar het partner centrum hebt verplaatst en u zich hebt aangemeld, kunt u zien welk account al in partner centrum is.
+Als u na de migratie ontdekt dat het verkeerde bedrijfsaccount is aangewezen als juridisch bedrijf, kunt u die aanduiding wijzigen.
 
-Nadat u hebt gemigreerd, kunt u die aanwijzing wijzigen als u ontdekt dat de verkeerde bedrijfs account is aangewezen als juridisch bedrijf.
+1. Ga naar uw **Partnerprofiel.**
 
-1. Ga naar uw **partner profiel.**
+2. Zorg ervoor dat de locatie die u wilt aanwijzen als Juridisch bedrijf zich in uw lijst met locaties bevindt. Als dat niet het zo is, voegt u deze toe.
 
-2. Zorg ervoor dat de locatie die u wilt aanwijzen als juridisch bedrijf zich in uw lijst met locaties bevindt. Als dat niet het geval is, voegt u deze toe.
-
-3. Selecteer **juridisch zakelijk profiel bijwerken.**
+3. Selecteer **Juridisch bedrijfsprofiel bijwerken.**
 
 4. Selecteer het bedrijf en de regio en sla het op.
 
 :::image type="content" source="images/migration/accountwithus.png" alt-text="Bestaand account":::
 
-## <a name="your-company-has-an-account-in-partner-center"></a>Uw bedrijf heeft een account in partner centrum
+## <a name="your-company-has-an-account-in-partner-center"></a>Uw bedrijf heeft een account in Partner Center
 
-U ziet uw bestaande account en er wordt een opmerking weer gegeven dat uw bedrijfs gegevens (het account waarmee u momenteel bent aangemeld) worden geconsolideerd in dit account.
+U ziet uw bestaande account en u ziet een opmerking waarin staat dat uw bedrijfsgegevens (het account waar u zich momenteel bij aanmeldt) worden samengevoegd in dit account.
 
-:::image type="content" source="images/migration/existingaccount2.png" alt-text="Account in partner centrum":::
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Account in Partner Center":::
 
-In dit scherm ziet u de details van het bestaande account (naam en adres) dat al is gemaakt in het partner centrum, samen met de details van de primaire contact persoon.
+In dit scherm ziet u de details van het bestaande account (naam en adres) dat al is gemaakt in Partner Center, samen met de details van de primaire contactpersoon.
 
 Selecteer **Doorgaan**.
 
-## <a name="what-happens-during-consolidation-of-accounts"></a>Wat er gebeurt tijdens de consolidatie van accounts
+## <a name="what-happens-during-consolidation-of-accounts"></a>Wat gebeurt er tijdens de consolidatie van accounts
 
-- U kunt geen details wijzigen op dit scherm.
+- U kunt geen details op dit scherm wijzigen.
 
 - Het account in PMC (dat u momenteel verplaatst) wordt geconsolideerd in dit bestaande account
 
-- Uw hoofd kantoor en alle locaties in PMC worden verplaatst naar dit bestaande partner centrum-account als locaties
+- Uw hoofdkantoor en alle locaties in PMC worden verplaatst naar dit bestaande Partner Center account als locaties
 
-- Zodra de consolidatie is voltooid, worden alle account gegevens weer geven als locaties binnen het bestaande partner centrum-account
+- Zodra de consolidatie is voltooid, ziet u al uw accountgegevens als locaties binnen het bestaande Partner Center account
 
-- Alle MPN-Id's blijven behouden tijdens deze consolidatie
+- Alle MPN-ID's blijven behouden tijdens deze consolidatie
 
-- Al uw bestaande competenties (goud/zilver), aankopen (kaarten/goud/zilver) en gekoppelde voor delen blijven behouden tijdens de consolidatie
+- Al uw bestaande competenties (Gold/Silver), aankopen (MAPS/Gold/Silver) en de bijbehorende voordelen blijven behouden tijdens consolidatie
 
-- U (de gebruiker die zich heeft aangemeld met de werk-e-mail-ID) wordt automatisch toegevoegd als een MPN-beheerder en een account beheerder aan het bestaande partner centrum-account, zodat u het account indien nodig kunt beheren
+- U (de gebruiker die is aangemeld met de werk-e-mail-id) wordt automatisch als MPN-beheerder en accountbeheerder toegevoegd aan het bestaande Partner Center-account, zodat u het account naar behoefte kunt beheren
 
-## <a name="review-your-company-information"></a>Uw bedrijfs gegevens controleren
+## <a name="review-your-company-information"></a>Uw bedrijfsgegevens controleren
 
-Controleer de informatie over uw bedrijf en bewerk zo nodig.  Deze gegevens worden gebruikt om uw account te migreren naar het partner centrum, dus zorg ervoor dat de gegevens juist zijn.
+Controleer de informatie over uw bedrijf en bewerk indien nodig.  Deze gegevens worden gebruikt om uw account te migreren naar Partner Center, dus zorg ervoor dat de gegevens juist zijn.
 
-De details zijn gebaseerd op de informatie in PMC en worden gecontroleerd om ervoor te zorgen dat het bedrijf echt is.
+De details zijn gebaseerd op de informatie in PMC en worden geverifieerd om ervoor te zorgen dat het bedrijf legitiem is.
 
 
 :::image type="content" source="images/migration/review.png" alt-text="Details bekijken":::
 
-Als het account dat u wilt verplaatsen zich in hetzelfde land of dezelfde regio bevindt als het bestaande account, kunt u besluiten of u dat adres wilt gebruiken of een andere wilt toevoegen. Als u besluit een ander adres te gebruiken, wordt dat adres gecontroleerd. Als u hetzelfde adres wilt gebruiken, worden het bestaande adres en de primaire contact persoon gebruikt.
+Als het account dat u verplaatst zich in hetzelfde land of dezelfde regio als het bestaande account, kunt u beslissen of u dat adres wilt gebruiken of een ander account wilt toevoegen. Als u besluit een ander adres te gebruiken, wordt dat adres geverifieerd. Als u hetzelfde adres wilt gebruiken, worden het bestaande adres en de primaire contactpersoon gebruikt.
 
-Nadat u de informatie op dit scherm hebt gecontroleerd/bewerkt, selecteert u **verzenden** en worden uw accounts geconsolideerd.
+Nadat u de informatie op dit scherm hebt geverifieerd/bewerkt, selecteert u **Verzenden** en worden uw accounts geconsolideerd.
 
-## <a name="partner-profile"></a>Partner Profiel
+## <a name="partner-profile"></a>Partnerprofiel
 
-Wanneer u uw profiel bekijkt, ziet u de gegevens voor uw juridische zaken (in PMC dit hoofd kantoor was) en de informatie voor alle extra locaties.
+Wanneer u uw profiel bekijkt, ziet u de informatie voor uw juridische bedrijf (in PMC was dit hoofdkantoor) en de informatie voor alle aanvullende locaties.
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Overstappen van PMC naar Partnercentrum](move-pmc-pc-map.md)
 - [Gebruikersaccounts maken](create-user-accounts-and-set-permissions.md)
 - [Gebruikersrollen en -machtigingen toewijzen](permissions-overview.md)
-- [Uw lidmaatschaps Programma's beheren](renew-mpn-offers.md)
-- [Het bedrijfs profiel van uw bedrijf maken](create-a-marketing-profile.md)
+- [Uw lidmaatschapsprogramma's beheren](renew-mpn-offers.md)
+- [Het bedrijfsprofiel van uw bedrijf maken](create-a-marketing-profile.md)
 - [Verbinding maken met klanten via verwijzingen](manage-leads.md)

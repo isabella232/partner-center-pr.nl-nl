@@ -1,40 +1,37 @@
 ---
-title: Restitutie voor een MPN-voor deel
+title: Restitutie voor een MPN-voordeel
 ms.topic: article
 ms.date: 02/05/2021
-description: Meer informatie over het aanvragen van een restitutie voor een MPN-voor deel en de criteria die nodig zijn om in aanmerking te komen.
+description: Meer informatie over het aanvragen van een restitutie voor een MPN-voordeel en de criteria die nodig zijn om in aanmerking te komen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 39a925bbfccb720951a63f4e11207df4a3252200
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 919a0187d3d999e935667bdbd6d565fb093fe6dd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132907"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151318"
 ---
-# <a name="request-a-refund-for-an-mpn-benefit"></a>Een restitutie aanvragen voor een MPN-voor deel
+# <a name="request-a-refund-for-an-mpn-benefit"></a>Een restitutie aanvragen voor een MPN-voordeel
 
-**Juiste rollen**
+**Juiste rollen:** BEHEER VAN MPN-partner | Accountbeheerder
 
-- MPN-partner beheerder
-- Accountbeheerder
-
-In dit artikel worden de criteria vermeld waaraan u moet voldoen wanneer u een restitutie voor een MPN-voor deel aanvraagt.
+In dit artikel vindt u de criteria waaraan u moet voldoen wanneer u een restitutie voor een MPN-voordeel aanvraagt.
 
 ## <a name="criteria-for-a-refund"></a>Criteria voor een restitutie
-Bij het aanvragen van een restitutie voor een MPN-voor deel (Action Pack, Silver Level of Gold Level) dat u hebt aangeschaft, moet uw aanvraag voldoen aan de volgende criteria:
+Wanneer u een restitutie aanvraagt voor een MPN-voordeel (Action Pack, Silver-niveau of Gold-niveau) dat u hebt aangeschaft, moet uw aanvraag aan de volgende criteria voldoen:
 
-- De aankoop is in de afgelopen 30 dagen gemaakt
-- Alle voor delen mogen niet worden geactiveerd/gebruikt
-- Product codes mogen niet worden weer gegeven (zelfs als ze niet zijn geactiveerd)
+- De aankoop is gedaan in de afgelopen 30 dagen
+- Alle voordelen mogen niet worden geactiveerd/gebruikt
+- Productcodes mogen niet worden bekeken (zelfs als ze niet zijn geactiveerd)
 
-De belasting restituties voor BTW-vrijstellings partners zijn één jaar beschikbaar.
+Btw-restituties zijn voor partners die zijn vrijgesteld van belasting, beschikbaar voor één jaar.
 
 >[!NOTE]
->Als u een zilver lidmaatschaps aanbod hebt en u de 25% Gold-lidmaatschaps korting voor een upgrade naar een Gold-lidmaatschaps aanbieding hebt gebruikt, komt u niet in aanmerking voor een zilver restitutie (zelfs als u binnen 30 dagen betaalt voor Silver-lidmaatschap en de voor delen niet hebt gebruikt).
+>Als u een Silver-lidmaatschapsaanbieding had en u de gold-lidmaatschapskorting van 25% hebt gebruikt om te upgraden naar een Gold-lidmaatschapsaanbieding, komt u niet in aanmerking voor een Silver-restitutie (zelfs niet als u binnen 30 dagen voor silver-lidmaatschap hebt betaald en de voordelen niet hebt gebruikt).
 
 ## <a name="next-steps"></a>Volgende stappen
 

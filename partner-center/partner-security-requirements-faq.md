@@ -1,350 +1,348 @@
 ---
-title: Veelgestelde vragen over beveiligings vereisten voor partners
+title: Veelgestelde vragen over beveiligingsvereisten van partners
 ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 'Veelgestelde vragen over de beveiligings vereisten van de partner: wat het zijn, hoe partners ze moeten implementeren en hoe u weet of u eraan hebt voldaan.'
+description: 'Veelgestelde vragen over de beveiligingsvereisten van partners: wat ze zijn, hoe partners deze moeten implementeren en hoe u weet of u aan deze vereisten hebt voldaan.'
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 174c56ce9bb5fb3d9d92c1ef18af73479619f4bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087073"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145878"
 ---
-# <a name="common-questions-about-partner-security-requirements"></a>Veelgestelde vragen over de beveiligings vereisten van partners
+# <a name="common-questions-about-partner-security-requirements"></a>Veelvoorkomende vragen over beveiligingsvereisten van partners
 
-**Juiste rollen**
+**Juiste rollen:** alle Partner Center gebruikers
 
-- Alle gebruikers van het partner centrum
+In dit artikel vindt u antwoorden op enkele veelvoorkomende vragen over [de beveiligingsvereisten van partners.](partner-security-requirements.md)
 
-In dit artikel vindt u antwoorden op enkele veelgestelde vragen over de [beveiligings vereisten](partner-security-requirements.md)van de partner.
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Wat zijn de beveiligingsvereisten van partners en waarom moeten partners deze implementeren?
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Wat zijn de beveiligings vereisten van de partner en waarom moeten partners deze implementeren?
+Betere en voortdurende veiligheidsmaatregelen op het gebied van beveiliging en privacy staan bij onze topprioriteiten en we blijven partners helpen hun klanten en tenants te beschermen. We blijven steeds meer geavanceerde, toenemende beveiligingsaanvallen zien, voornamelijk gerelateerd aan identiteitsincidenten. Aangezien preventieve maatregelen een belangrijke rol spelen in een algehele verdedigingsstrategie om beveiligingsaanvallen te voorkomen, hebben we [in](partner-security-requirements.md) 2019 verplichte beveiligingsvereisten geïntroduceerd. Alle partners die deelnemen aan het Cloud Solution Provider(CSP)-programma, Configuratiescherm Vendors en Advisors moeten de vereisten implementeren om compatibel te blijven.
 
-Meer en voortdurende beveiligings-en privacy-veiligheids maatregelen zijn te vinden op onze belangrijkste prioriteiten en we blijven onze klanten en tenants helpen beveiligen. We blijven een geavanceerder en uitgebreid aantal beveiligings aanvallen zien, voornamelijk gerelateerd aan incidenten met betrekking tot identiteits inbreuken. Als preventieve controles een belang rijke rol spelen in een algemene verdedigings strategie om beveiligings aanvallen te tegen gaan, hebben we [verplichte beveiligings vereisten](partner-security-requirements.md) geïntroduceerd in 2019. Alle partners die deel nemen aan het programma Cloud Solution Provider (CSP), leveranciers van het configuratie scherm en Advisor, moeten de vereisten implementeren om te blijven voldoen aan het beleid.
+### <a name="what-are-the-key-timelines-and-milestones"></a>Wat zijn de belangrijkste tijdlijnen en mijlpalen?
 
-### <a name="what-are-the-key-timelines-and-milestones"></a>Wat zijn de belangrijkste tijd lijnen en mijl palen?
+De voorwaarden die zijn gekoppeld aan deze beveiligingsvereisten, inclusief tijdlijnen en mijlpalen, zijn opgenomen in [de Microsoft Partner-overeenkomst.](microsoft-partner-agreement.md) U moet deze beveiligingsvereisten zo snel mogelijk implementeren om te blijven voldoen aan uw deelname aan het CSP-programma.
 
-De voor waarden die zijn gekoppeld aan deze beveiligings vereisten, waaronder tijd lijnen en mijl palen, zijn opgenomen in de [micro soft-partner overeenkomst](microsoft-partner-agreement.md). U moet deze beveiligings vereisten zo snel mogelijk implementeren om te blijven voldoen aan uw deelname aan het CSP-programma.
+### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Wat gebeurt er als ik deze beveiligingsvereisten van partners niet implementeert?
 
-### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Wat gebeurt er als de beveiligings vereisten van de partner niet worden geïmplementeerd?
+De Microsoft Partner-overeenkomst vereist dat u meervoudige verificatie afdwingt voor gebruikersaccounts en het veilige toepassingsmodel gebruikt voor interactie met de Partner Center API. 
 
-Voor de micro soft-partner overeenkomst moet u multi-factor Authentication afdwingen voor gebruikers accounts en het veilige toepassings model voor interactie met de Partner Center API aannemen. 
+Partners die zich niet houden aan deze beveiligingsprocedures, verliezen mogelijk hun vermogen om te transacten in het CSP-programma of om tenants van klanten te beheren met beheerdersrechten delegeren.
 
-Partners die zich niet houden aan deze beveiligings procedures, kunnen de mogelijkheid tot het maken van een Transact in het cryptografie programma of het beheren van de tenants van klanten met gedelegeerde beheerders rechten kwijt raken.
+### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Zijn de beveiligingsvereisten van toepassing op alle geografische gebieden?
 
-### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Zijn de beveiligings vereisten van toepassing op alle geographs?
+Ja, de beveiligingsvereisten gelden voor alle geografische gebieden. Het wordt ten zeerste aangeraden dat alle partners die via een soevereine cloud (Amerikaanse overheid en Duitsland) handelen, onmiddellijk aan deze nieuwe beveiligingsvereisten voldoen. Deze partners zijn momenteel echter niet vereist om te voldoen aan de beveiligingsvereisten. Microsoft geeft in de toekomst aanvullende informatie over het afdwingen van deze beveiligingsvereisten voor onafhankelijke clouds.
 
-Ja, de beveiligings vereisten zijn van toepassing op alle geographs. We raden u ten zeerste aan alle partners door middel van een soevereine Cloud (Amerikaanse overheid en Duitsland) te handelen en deze nieuwe beveiligings vereisten onmiddellijk aan te nemen. Deze partners zijn momenteel echter niet vereist om te voldoen aan de beveiligings vereisten. Micro soft geeft in de toekomst aanvullende informatie over de afdwinging van deze beveiligings vereisten voor soevereine Clouds.
+### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Is het mogelijk om een uitsluiting voor een account te krijgen?
 
-### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Is het mogelijk een uitsluiting voor een account te krijgen?
+Nee, het is niet mogelijk om een gebruikersaccount uit te sluiten van de vereiste dat meervoudige verificatie (MFA) wordt afgedwongen. Gezien de zeer bevoorrechte aard van een partner, vereist de Microsoft Partner-overeenkomst dat meervoudige verificatie wordt afgedwongen voor elk gebruikersaccount in uw partnerten tenant.
 
-Nee, het is niet mogelijk om een gebruikers account uit te sluiten van de vereiste voor het afdwingen van multi-factor Authentication (MFA). Gezien de zeer beschermde aard van een partner, vereist de micro soft-partner overeenkomst dat multi-factor Authentication wordt afgedwongen voor elk gebruikers account in uw partner Tenant.
-
-### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Hoe kan ik weet ik of ik aan de beveiligings vereisten van de partner heb voldaan?
+### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Hoe kan ik weten of ik heb voldaan aan de beveiligingsvereisten van de partner?
 
 Voer de volgende stappen uit:
 
-- U moet voldoen aan alle vereisten die worden beschreven in de [beveiligings vereisten](partner-security-requirements.md)van de partner.
-- U moet ervoor zorgen dat alle gebruikers accounts in uw partner-Tenant multi-factor Authentication hebben afgedwongen.
+- U moet voldoen aan alle vereisten die worden beschreven in de [beveiligingsvereisten van de partner.](partner-security-requirements.md)
+- U moet ervoor zorgen dat voor alle gebruikersaccounts in uw partner-tenant meervoudige verificatie wordt afgedwongen.
 
-Om u te helpen bij het identificeren van de belangrijkste gebieden waar u acties kunt ondernemen, bieden we het [status rapport voor beveiligings vereisten](https://partner.microsoft.com/commerce/security/compliance) dat beschikbaar is via partner centrum.
+Om de belangrijkste gebieden te identificeren waar u acties kunt ondernemen, bieden we het [statusrapport](https://partner.microsoft.com/commerce/security/compliance) van de beveiligingsvereisten dat beschikbaar is via Partner Center.
 
-Zie de status van de [partner beveiligings vereisten](partner-security-compliance.md)voor meer informatie over het status rapport.
+Zie status van partnerbeveiligingsvereisten voor meer informatie [over het statusrapport.](partner-security-compliance.md)
 
 ## <a name="required-actions"></a>Vereiste acties
 
-### <a name="what-are-the-key-actions-i-need-to-take-to-meet-the-requirements"></a>Wat zijn de belangrijkste acties die ik moet uitvoeren om aan de vereisten te voldoen?
+### <a name="what-are-the-key-actions-i-need-to-take-to-meet-the-requirements"></a>Wat zijn de belangrijkste acties die ik moet ondernemen om aan de vereisten te voldoen?
 
-Alle partners in het CSP-programma (directe factuur, indirecte provider en indirecte wederverkoper), adviseurs en de leveranciers van het configuratie scherm moeten voldoen aan de vereisten.
+Alle partners in het CSP-programma (directe factuur, indirecte provider en indirecte reseller), advisors en Configuratiescherm leveranciers moeten voldoen aan de vereisten.
 
 1. **MFA afdwingen voor alle gebruikers**
 
-    Alle partners in het CSP-programma, de Advisor en de leveranciers van het configuratie scherm zijn verplicht MFA af te dwingen voor alle gebruikers in hun partner Tenant.
+    Alle partners in het CSP-programma, adviseurs en Configuratiescherm leveranciers moeten MFA afdwingen voor alle gebruikers in hun partnerten tenant.
 
     Aanvullende overwegingen:
 
-    - Indirecte providers moeten samen werken met indirecte wederverkopers om het partner centrum uit te kunnen voeren als ze dit nog niet hebben gedaan en hun wederverkopers aanmoedigen om te voldoen aan de vereisten.
-    - Azure MFA wordt voor alle gebruikers in de partner-Tenant gratis beschikbaar gesteld via de standaard instellingen van Azure AD-beveiliging met de enige verificatie methode van een verificator-toepassing die ondersteuning biedt voor eenmalige wacht woorden (mobiele TOTP).
-    - Aanvullende verificatie methoden zijn beschikbaar via de [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) sku's, als andere methoden zoals een telefoon gesprek of SMS-bericht vereist zijn.
-    - Partners kunnen ook gebruikmaken van een MFA-oplossing van derden voor elk account bij het openen van micro soft-commerciële Cloud Services.
+    - Indirecte providers moeten samenwerken met indirecte resellers om onboarding uit te Partner Center als ze dit nog niet hebben gedaan en hun resellers stimuleren om aan de vereisten te voldoen.
+    - Azure MFA wordt gratis beschikbaar gesteld voor alle gebruikers in de partnertenant via standaardinstellingen voor Azure AD-beveiliging met de enige verificatiemethode van een ver authenticator-toepassing die ondersteuning biedt voor een time-based one time passwords (TOTP).
+    - Aanvullende verificatiemethoden zijn beschikbaar via de [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU's, als andere methoden, zoals een telefoongesprek of sms-bericht, vereist zijn.
+    - Partners kunnen ook een MFA-oplossing van derden voor elk account gebruiken bij toegang tot commerciële cloudservices van Microsoft.
 
-2. **Het Framework van het veilige toepassings model aannemen**
+2. **Het veilig toepassingsmodel framework**
 
-    Alle partners die aangepaste integratie hebben ontwikkeld met behulp van Api's (zoals Azure Resource Manager, Microsoft Graph, Partner Center-API enzovoort) of aangepaste automatisering met hulpprogram ma's van Power shell, moeten het [beveiligde Application model-Framework](/partner-center/develop/enable-secure-app-model) aannemen om te integreren met micro soft-Cloud Services. Als u dit niet doet, kan dit leiden tot een onderbreking vanwege een MFA-implementatie. De volgende bronnen bevatten een overzicht en richt lijnen voor het aannemen van het model.
+    Alle partners die aangepaste integratie hebben ontwikkeld met behulp van API's (zoals Azure Resource Manager, Microsoft Graph, Partner Center-API, enzovoort) of aangepaste automatisering hebben geïmplementeerd met behulp van hulpprogramma's zoals PowerShell, moeten het [veilig toepassingsmodel-framework](/partner-center/develop/enable-secure-app-model) gebruiken om te integreren met Microsoft-cloudservices. Als u dit niet doet, kan dit leiden tot een onderbreking vanwege de MFA-implementatie. De volgende bronnen bieden een overzicht en richtlijnen met betrekking tot het gebruik van het model.
 
-    - [Overzicht van veilig toepassings model](/partner-center/develop/enable-secure-app-model)
-    - [Partner centrum: hand leiding voor beveiligde toepassings modellen](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [Partners in het CSP-programma: .NET-voorbeeld code voor het inschakelen van een veilig toepassings model](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-    - [Partners in het CSP-programma: Java-voorbeeld code voor het inschakelen van een veilig toepassings model](/samples/microsoft/partner-center-java-samples/secure-app-model/)
-    - [Verificatie document van partner centrum](/partner-center/develop/partner-center-authentication)
-    - [Document Power shell Multi-Factor Authentication (MFA) van partner Center](/powershell/partnercenter/multi-factor-auth)
+    - [veilig toepassingsmodel overzicht](/partner-center/develop/enable-secure-app-model)
+    - [Partner Center: veilig toepassingsmodel handleiding](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+    - [Partners in CSP-programma: .NET-voorbeeldcode voor het inschakelen van veilig toepassingsmodel](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [Partners in CSP-programma: Java-voorbeeldcode voor het inschakelen van veilig toepassingsmodel](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+    - [Partner Center-verificatiedocument](/partner-center/develop/partner-center-authentication)
+    - [Partner Center PowerShell Multi-Factor Authentication (MFA) document](/powershell/partnercenter/multi-factor-auth)
 
-    Neem contact op met de leverancier als u een configuratie scherm gebruikt met betrekking tot de goed keuring van het Framework van het veilige toepassings model.
+    Neem contact op met de leverancier als u een configuratiescherm gebruikt met betrekking tot de acceptatie van het veilig toepassingsmodel framework.
 
-    Leveranciers van het configuratie scherm zijn vereist voor de [onboarding](enroll-as-cpv.md) van het partner centrum als leverancier van het configuratie scherm en beginnen de implementatie van deze vereiste onmiddellijk te starten. Raadpleeg het [partner centrum: Secure Application model-Framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Leveranciers van het configuratie scherm moeten de toestemming van de CSP-partners accepteren en beheren in plaats van referenties en alle bestaande referenties van de CSP-partners opschonen.
+    Leveranciers van configuratiescherm moeten [onboarding](enroll-as-cpv.md) uitvoeren voor Partner Center als leverancier van het configuratiescherm en onmiddellijk beginnen met het implementeren van deze vereiste. Raadpleeg het [Partner Center: veilig toepassingsmodel framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Leveranciers van configuratiescherm moeten de toestemming van CSP-partners accepteren en beheren in plaats van referenties en de referenties van alle bestaande CSP-partners opsisten.
 
 ## <a name="multi-factor-authentication"></a>Meervoudige verificatie
 
-### <a name="what-is-multi-factor-authentication-mfa"></a>Wat is multi-factor Authentication (MFA)?
+### <a name="what-is-multi-factor-authentication-mfa"></a>Wat is Meervoudige verificatie (MFA)?
 
-MFA is een beveiligings mechanisme om individuen te verifiëren via meer dan een vereiste beveiligings-en validatie procedure. Het werkt met twee of meer van de volgende verificatie methoden:
+MFA is een beveiligingsmechanisme voor het verifiëren van personen via meer dan één vereiste beveiligings- en validatieprocedure. Dit werkt door twee of meer van de volgende verificatiemethoden te vereisen:
 
-- Iets dat u kent (doorgaans een wacht woord)
+- Iets dat u weet (meestal een wachtwoord)
 - Iets dat u hebt (een vertrouwd apparaat dat niet eenvoudig kan worden gedupliceerd, zoals een telefoon)
 - Iets dat u bent (biometrie)
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Wat zijn de kosten voor het inschakelen van MFA?
 
-Micro soft biedt geen kosten voor MFA via de implementatie van Azure AD-beveiligings standaards. De enige verificatie optie die beschikbaar is via deze versie van MFA is een verificator-toepassing. Als een telefoon gesprek of SMS-bericht vereist is, moet een [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) licentie worden aangeschaft. U kunt ook een oplossing van derden gebruiken om MFA te bieden voor elke gebruiker in uw partner-Tenant. in dit geval is het uw verantwoordelijkheid om ervoor te zorgen dat uw MFA-oplossing wordt afgedwongen en dat u compatibel bent.
+Microsoft biedt MFA gratis aan via de implementatie van standaardinstellingen voor Azure AD-beveiliging. De enige verificatieoptie die beschikbaar is met behulp van deze versie van MFA is een verificatietoepassing. Als een telefoongesprek of sms-bericht is vereist, moet [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) licentie voor een licentie worden aangeschaft. U kunt ook een oplossing van derden gebruiken om MFA te bieden voor elke gebruiker in uw partner-tenant. In dit geval is het uw verantwoordelijkheid om ervoor te zorgen dat uw MFA-oplossing wordt afgedwongen en dat u aan het beleid voldoet.
 
-### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>Welke acties moet ik ondernemen als ik al een MFA-oplossing heb?
+### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>Welke acties moet ik uitvoeren als ik al een MFA-oplossing heb?
 
-Door deze beveiligings vereisten worden gebruikers in een partner-Tenant verplicht om te verifiëren met behulp van MFA bij het openen van micro soft-commerciële Cloud Services. Oplossingen van derden kunnen worden gebruikt om aan deze vereisten te voldoen. Micro soft biedt geen validatie tests meer voor onafhankelijke ID-providers voor compatibiliteit met Azure Active Directory. Raadpleeg deze [richt lijnen](https://www.microsoft.com/download/details.aspx?id=56843)om uw product te testen op interoperabiliteit.
+Via deze beveiligingsvereisten moeten gebruikers in een partner-tenant zich verifiëren met MFA bij toegang tot commerciële cloudservices van Microsoft. Oplossingen van derden kunnen worden gebruikt om aan deze vereisten te voldoen. Microsoft biedt geen validatietests meer aan onafhankelijke id-providers voor compatibiliteit met Azure Active Directory. Raadpleeg deze richtlijnen om uw product te testen op [interoperabiliteit.](https://www.microsoft.com/download/details.aspx?id=56843)
 
 > [!IMPORTANT]
-> Wanneer u een oplossing van derden gebruikt, is het belang rijk om te controleren of de oplossing de naam van de verificatie methode Reference (AMR), die de MFA-waarde bevat, afgeeft. Zie [de vereisten voor de beveiliging van partners testen](/powershell/partnercenter/test-partner-security-requirements) voor meer informatie over hoe het valideren van de oplossing van derden de verwachte claim afgeeft.
+> Wanneer u een oplossing van derden gebruikt, is het belangrijk om te controleren of de oplossing de AMR-claim (Authentication Method Reference) geeft die de MFA-waarde bevat. Zie [Testing the Partner Security Requirements (De](/powershell/partnercenter/test-partner-security-requirements) beveiligingsvereisten van de partner testen) voor meer informatie over het valideren van uw oplossing van derden die de verwachte claim uit geeft.
 
-### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Ik gebruik meerdere partner-tenants voor Transact. Moet ik MFA allemaal implementeren?
+### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Ik gebruik meerdere partnerten tenants om te transacten. Moet ik MFA op al deze twee implementeren?
 
-Ja, u moet MFA afdwingen voor elke Azure Active Directory Tenant die is gekoppeld aan het CSP-programma of het Advisor-programma. Als u een Azure Active Directory Premium licentie wilt aanschaffen, moet u een Azure Active Directory licentie voor de gebruikers in elke Azure Active Directory Tenant aanschaffen. 
+Ja, u moet MFA afdwingen voor elke Azure Active Directory tenant die is gekoppeld aan het CSP-programma of het Advisor-programma. Als u een Azure Active Directory Premium wilt kopen, moet u een Azure Active Directory aanschaffen voor de gebruikers in elke Azure Active Directory tenant. 
 
-### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>Moet voor elk gebruikers account in mijn partner-Tenant MFA worden afgedwongen?
+### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>Moet voor elk gebruikersaccount in de tenant van mijn partner MFA worden afgedwongen?
 
-Ja, voor elke gebruiker moet MFA worden afgedwongen. Als u echter de standaard instellingen van Azure AD gebruikt, is er geen aanvullende actie vereist omdat deze functie MFA afdwingt voor alle gebruikers accounts. Het inschakelen van standaard instellingen voor beveiliging is een gratis en eenvoudige manier om ervoor te zorgen dat uw gebruikers accounts MFA-compatibel zijn en niet worden beïnvloed als MFA wordt afgedwongen.
+Ja, voor elke gebruiker moet MFA worden afgedwongen. Als u echter de standaardinstellingen voor Azure AD-beveiliging gebruikt, is er geen extra actie vereist omdat met deze functie MFA wordt afgedwongen voor alle gebruikersaccounts. Het inschakelen van standaardinstellingen voor beveiliging is een gratis en eenvoudige manier om ervoor te zorgen dat uw gebruikersaccounts compatibel zijn met MFA en niet worden beïnvloed wanneer MFA wordt afgedwongen.
 
-### <a name="i-am-a-direct-bill-partner-with-microsoft-what-do-i-need-to-do"></a>Ik ben een directe factuur partner met micro soft. Wat moet ik doen?
+### <a name="i-am-a-direct-bill-partner-with-microsoft-what-do-i-need-to-do"></a>Ik ben een partner voor directe factuur bij Microsoft. Wat moet ik doen?
 
-Partners van de partner oplossing voor direct factureren moeten MFA afdwingen voor elke gebruiker in de Tenant.
+Directe factuur Cloud Solution Provider moeten MFA afdwingen voor elke gebruiker in hun partner-tenant.
 
-### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>Ik ben een indirecte wederverkoper en alleen met Transact als distributeur. Moet ik MFA nog steeds inschakelen?
+### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>Ik ben een indirecte reseller en doe alleen iets als een distributeur. Moet ik MFA nog steeds inschakelen?
 
-Alle indirecte wederverkopers zijn vereist voor het afdwingen van MFA voor elke gebruiker in hun partner Tenant. De indirecte wederverkoper moet MFA inschakelen.
+Alle indirecte resellers moeten MFA afdwingen voor elke gebruiker in hun partnerten tenant. De indirecte reseller moet MFA inschakelen.
 
-### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Ik gebruik de partner centrum-API niet. Moet ik MFA nog steeds implementeren?
+### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Ik gebruik de api Partner Center api. Moet ik MFA nog steeds implementeren?
 
-Ja, deze beveiligings vereiste geldt voor alle gebruikers, waaronder gebruikers van de partner beheerder en eind gebruikers in een partner Tenant.
+Ja, deze beveiligingsvereiste geldt voor alle gebruikers, inclusief gebruikers met partnerbeheerders en eindgebruikers in een partner-tenant.
 
-### <a name="which-third-party-vendors-provide-mfa-solutions-compatible-with-azure-active-directory"></a>Welke leveranciers van derden bieden MFA-oplossingen die compatibel zijn met Azure Active Directory?
+### <a name="which-third-party-vendors-provide-mfa-solutions-compatible-with-azure-active-directory"></a>Welke externe leveranciers bieden MFA-oplossingen die compatibel zijn met Azure Active Directory?
 
-Bij het controleren van de leveranciers en oplossingen van MFA, moeten partners ervoor zorgen dat de door hen gekozen oplossing compatibel is met Azure Active Directory.
+Bij het beoordelen van MFA-leveranciers en -oplossingen moeten partners ervoor zorgen dat de oplossing die ze kiezen compatibel is met Azure Active Directory.
 
-Micro soft biedt geen validatie tests meer voor onafhankelijke ID-providers voor compatibiliteit met Azure Active Directory. Als u uw product wilt testen op interoperabiliteit, raadpleegt u deze [richt lijnen](https://www.microsoft.com/download/details.aspx?id=56843).
+Microsoft biedt geen validatietests meer aan onafhankelijke id-providers voor compatibiliteit met Azure Active Directory. Als u uw product wilt testen op interoperabiliteit, raadpleegt u deze [richtlijnen.](https://www.microsoft.com/download/details.aspx?id=56843)
 
-Zie de [Azure AD Federation-compatibiliteits lijst](/azure/active-directory/hybrid/how-to-connect-fed-compatibility)voor meer informatie.
+Zie de compatibiliteitslijst voor [Azure AD-federatie voor meer informatie.](/azure/active-directory/hybrid/how-to-connect-fed-compatibility)
 
-### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Hoe kan ik MFA testen in onze integratie sandbox?
+### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Hoe kan ik MFA testen in onze integratie-sandbox?
 
-De functie standaard instellingen van Azure AD moet zijn ingeschakeld of u kunt ook een oplossing van derden gebruiken die gebruikmaakt van Federatie.
+De functie standaardinstellingen voor Azure AD-beveiliging moet zijn ingeschakeld of u kunt ook een oplossing van derden gebruiken die gebruikmaakt van federatie.
 
-### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>Schakelt MFA in op de manier waarop ik met de Tenant van mijn klant Communiceer?
+### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>Heeft het inschakelen van MFA invloed op de interactie met de tenant van mijn klant?
 
-Nee. Het afhandelen van deze beveiligings vereisten heeft geen invloed op hoe u uw klanten beheert. De mogelijkheid om gedelegeerde beheer bewerkingen uit te voeren wordt niet onderbroken.
+Nee. De uitvoering van deze beveiligingsvereisten heeft geen invloed op de manier waarop u uw klanten beheert. De mogelijkheid om gedelegeerde beheerbewerkingen uit te voeren, wordt niet onderbroken.
 
-### <a name="are-my-customers-subject-to-the-partner-security-requirements"></a>Zijn mijn klanten onderworpen aan de beveiligings vereisten van de partner?
+### <a name="are-my-customers-subject-to-the-partner-security-requirements"></a>Gelden voor mijn klanten de beveiligingsvereisten van de partner?
 
-Nee, het is niet vereist dat u MFA afdwingt voor elke gebruiker in de Azure AD-tenants van uw klant. Het is echter raadzaam om met elke klant te werken om te bepalen hoe de gebruikers het beste kunnen beveiligen.
+Nee, het is niet vereist dat u MFA afdwingt voor elke gebruiker in de Azure AD-tenants van uw klant. Het wordt echter aanbevolen dat u met elke klant samenwerkt om te bepalen hoe de gebruikers het beste kunnen worden beschermd.
 
-### <a name="can-any-user-be-excluded-from-the-mfa-requirement"></a>Kan elke gebruiker worden uitgesloten van de MFA-vereiste?
+### <a name="can-any-user-be-excluded-from-the-mfa-requirement"></a>Kan een gebruiker worden uitgesloten van de MFA-vereiste?
 
-Nee, elke gebruiker, inclusief service accounts, in uw partner Tenant is vereist voor verificatie met MFA.
+Nee, elke gebruiker, inclusief serviceaccounts, in uw partner-tenant is vereist voor verificatie met behulp van MFA.
 
-### <a name="do-the-partner-security-requirements-apply-to-the-integration-sandbox"></a>Zijn de beveiligings vereisten voor de partner van toepassing op de integratie sandbox?
+### <a name="do-the-partner-security-requirements-apply-to-the-integration-sandbox"></a>Zijn de beveiligingsvereisten van de partner van toepassing op de integratie-sandbox?
 
-Ja, de beveiligings vereisten voor de partner zijn van toepassing op de integratie sandbox. Dit betekent dat u de juiste MFA-oplossing moet implementeren voor gebruikers in de sandbox-Tenant van de integratie. Het is raadzaam om de standaard instellingen van Azure AD-beveiliging te implementeren om MFA te bieden.
+Ja, de beveiligingsvereisten van de partner zijn van toepassing op de integratie-sandbox. Dit betekent dat u de juiste MFA-oplossing moet implementeren voor gebruikers in de sandbox-tenant voor integratie. Het wordt aanbevolen om standaardinstellingen voor Azure AD-beveiliging te implementeren om MFA op te geven.
 
-### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Hoe kan ik een account voor nood toegang (afbreek glas) configureren?
+### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Hoe kan ik account voor toegang in noodgevallen configureren?
 
-Het wordt beschouwd als een best practice om een of twee accounts voor toegang tot een nood geval te maken om te voor komen dat uw Azure AD-Tenant per ongeluk wordt vergrendeld. Met betrekking tot de beveiligings vereisten van de partner moet elke gebruiker worden geverifieerd met MFA. Dit betekent dat u de definitie van een account voor nood toegang moet aanpassen. Dit kan een account zijn met een oplossing van derden voor MFA.
+Het wordt beschouwd als een best practice om een of twee accounts voor toegang in noodgevallen te maken om te voorkomen dat uw Azure AD-tenant per ongeluk wordt vergrendeld. Met betrekking tot de beveiligingsvereisten van de partner is het vereist dat elke gebruiker wordt geverifieerd met MFA. Deze vereiste betekent dat u de definitie van een account voor toegang in noodgevallen moet wijzigen. Dit kan een account zijn dat gebruik maakt van een oplossing van derden voor MFA.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>Is Active Directory Federation Service (ADFS) vereist als ik een oplossing van derden gebruik?
 
-Nee, het is niet nodig om Active Directory Federation Service (ADFS) te hebben als u een oplossing van derden gebruikt. Het is raadzaam om te werken met de leverancier van de oplossing om te bepalen wat de vereisten zijn voor de oplossing.
+Nee, het is niet vereist om Active Directory Federation Service (ADFS) te hebben als u een oplossing van derden gebruikt. Het is raadzaam om samen met de leverancier van de oplossing te bepalen wat de vereisten voor hun oplossing zijn.
 
-### <a name="is-it-a-requirement-to-enable-azure-ad-security-defaults"></a>Is het een vereiste om de standaard instellingen van Azure AD-beveiliging in te scha kelen?
+### <a name="is-it-a-requirement-to-enable-azure-ad-security-defaults"></a>Is het een vereiste om standaardinstellingen voor Azure AD-beveiliging in te kunnenschakelen?
 
-Nee, het is niet vereist dat u de standaard instellingen voor Azure AD-beveiliging inschakelt.
+Nee, het is niet vereist dat u standaardinstellingen voor Azure AD-beveiliging inschakelen.
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>Kan voorwaardelijke toegang worden gebruikt om te voldoen aan de MFA-vereiste?
 
-Ja, u kunt voorwaardelijke toegang gebruiken om MFA af te dwingen voor elke gebruiker, inclusief service accounts, in uw partner Tenant. Gezien de zeer bevoegde aard van een partner moeten we er echter voor zorgen dat elke gebruiker een MFA-uitdaging voor elke afzonderlijke verificatie heeft. Dit betekent dat u de functie van voorwaardelijke toegang niet kunt gebruiken om de vereiste voor MFA te omzeilen.
+Ja, u kunt voorwaardelijke toegang gebruiken om MFA af te dwingen voor elke gebruiker, inclusief serviceaccounts, in uw partnerten tenant. Gezien de aard van een partner met hoge bevoegdheden moeten we er echter voor zorgen dat elke gebruiker een MFA-uitdaging heeft voor elke afzonderlijke verificatie. Dit betekent dat u de functie van voorwaardelijke toegang waarmee de vereiste voor MFA wordt omzeild, niet kunt gebruiken.
 
-### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Wordt het service account dat wordt gebruikt door Azure AD Connect van invloed op de beveiligings vereisten van de partner?
+### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Wordt het serviceaccount dat wordt gebruikt door Azure AD Connect worden beïnvloed door de beveiligingsvereisten van de partner?
 
-Nee, het service account dat door Azure AD Connect wordt gebruikt, heeft geen invloed op de beveiligings vereisten van de partner. Als u een probleem ondervindt met Azure AD Connect als gevolg van het afdwingen van MFA, opent u een aanvraag voor technische ondersteuning met micro soft ondersteuning.
+Nee, het serviceaccount dat wordt gebruikt door Azure AD Connect worden niet beïnvloed door de beveiligingsvereisten van de partner. Als u een probleem hebt met Azure AD Connect als gevolg van het afdwingen van MFA, opent u een aanvraag voor technische ondersteuning bij Microsoft Ondersteuning.
 
-## <a name="secure-application-model"></a>Model voor beveiligde toepassing
+## <a name="secure-application-model"></a>veilig toepassingsmodel
 
-### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Wie moet het beveiligde toepassings model aannemen om te voldoen aan de vereisten?
+### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Wie moet het model voor beveiligde toepassingen gebruiken om aan de vereisten te voldoen?
 
-Micro soft introduceert een veilig, schaalbaar Framework voor het verifiëren van de CSP-partners (Cloud Solution Provider) en leveranciers van configuratie schermen (CPV) die gebruikmaken van Multi-Factor Authentication. Zie de hand leiding voor het [beveiligde toepassings model](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)voor meer informatie. Alle partners die aangepaste integratie hebben ontwikkeld met behulp van Api's (zoals Azure Resource Manager, Microsoft Graph, Partner Center-API enzovoort) of aangepaste automatisering met hulpprogram ma's van Power shell, moeten het [beveiligde Application model-Framework](/partner-center/develop/enable-secure-app-model) aannemen om te integreren met micro soft-Cloud Services.
+Microsoft introduceert een veilig, schaalbaar framework voor de verificatie van Cloud Solution Provider-partners (CSP) en Configuratiescherm Vendors (CPV) die multi-factor Authentication gebruiken. Zie de veilig toepassingsmodel [voor meer informatie.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) Alle partners die aangepaste integratie hebben ontwikkeld met behulp van API's (zoals Azure Resource Manager, Microsoft Graph, Partner Center API, enzovoort) of aangepaste automatisering hebben geïmplementeerd met behulp van hulpprogramma's zoals PowerShell, moeten het [veilig toepassingsmodel-framework](/partner-center/develop/enable-secure-app-model) implementeren om te integreren met Microsoft-cloudservices.
 
-### <a name="what-is-the-secure-application-model"></a>Wat is het beveiligde toepassings model?
+### <a name="what-is-the-secure-application-model"></a>Wat is de veilig toepassingsmodel?
 
-Micro soft introduceert een veilig, schaalbaar Framework voor het verifiëren van de CSP-partners (Cloud Solution Provider) en leveranciers (CPV) van het configuratie scherm die gebruikmaken van Multi-Factor Authentication. Raadpleeg de [hand leiding voor het beveiligde toepassings model](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) voor meer informatie.  
+Microsoft introduceert een veilig, schaalbaar framework voor de verificatie van Cloud Solution Provider-partners (CSP) en Configuratiescherm Vendors (CPV) die gebruikmaken van Multi-Factor Authentication. Zie de [veilig toepassingsmodel voor](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) meer informatie.  
 
-### <a name="how-do-i-implement-the-secure-application-model"></a>Hoe kan ik het beveiligde toepassings model implementeren?
+### <a name="how-do-i-implement-the-secure-application-model"></a>Hoe kan ik de veilig toepassingsmodel?
 
-Alle partners die aangepaste integratie hebben ontwikkeld met behulp van Api's (zoals Azure Resource Manager, Microsoft Graph, Partner Center-API enzovoort) of aangepaste automatisering met hulpprogram ma's van Power shell, moeten het [beveiligde Application model-Framework](/partner-center/develop/enable-secure-app-model) aannemen om te integreren met micro soft-Cloud Services. Als u dit niet doet, kan dit leiden tot een onderbreking vanwege een MFA-implementatie. De volgende bronnen bevatten een overzicht en richt lijnen voor het aannemen van het model.
+Alle partners die aangepaste integratie hebben ontwikkeld met behulp van API's (zoals Azure Resource Manager, Microsoft Graph, Partner Center API, enzovoort) of aangepaste automatisering hebben geïmplementeerd met behulp van hulpprogramma's zoals PowerShell, moeten het [veilig toepassingsmodel-framework](/partner-center/develop/enable-secure-app-model) implementeren om te integreren met Microsoft-cloudservices. Als u dit niet doet, kan dit leiden tot een onderbreking vanwege de MFA-implementatie. De volgende bronnen bieden een overzicht en richtlijnen met betrekking tot het gebruik van het model.
 
-- [Overzicht van veilig toepassings model](/partner-center/develop/enable-secure-app-model)
-- [Partner centrum: hand leiding voor beveiligde toepassings modellen](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Partners in het CSP-programma: .NET-voorbeeld code voor het inschakelen van een veilig toepassings model](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-- [Partners in het CSP-programma: Java-voorbeeld code voor het inschakelen van een veilig toepassings model](/samples/microsoft/partner-center-java-samples/secure-app-model/)
-- [Verificatie document van partner centrum](/partner-center/develop/partner-center-authentication)
-- [Document Power shell Multi-Factor Authentication (MFA) van partner Center](/powershell/partnercenter/multi-factor-auth)
+- [veilig toepassingsmodel overzicht](/partner-center/develop/enable-secure-app-model)
+- [Partner Center: veilig toepassingsmodel handleiding](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [Partners in CSP-programma: .NET-voorbeeldcode voor het inschakelen van veilig toepassingsmodel](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Partners in CSP-programma: Java-voorbeeldcode voor het inschakelen van veilig toepassingsmodel](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+- [Partner Center-verificatiedocument](/partner-center/develop/partner-center-authentication)
+- [Partner Center PowerShell Multi-Factor Authentication (MFA) document](/powershell/partnercenter/multi-factor-auth)
 
-Als u een configuratie scherm gebruikt, moet u contact opnemen met de leverancier over de acceptatie van het Framework van het veilige toepassings model.
+Als u een configuratiescherm gebruikt, moet u contact opnemen met de leverancier over de acceptatie van het veilig toepassingsmodel framework.
 
-Leveranciers van het configuratie scherm zijn vereist voor de [onboarding](enroll-as-cpv.md) van het partner centrum als leverancier van het configuratie scherm en beginnen de implementatie van deze vereiste onmiddellijk te starten. Raadpleeg het [partner centrum: Secure Application model-Framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Leveranciers van het configuratie scherm moeten de toestemming van de CSP-partners accepteren en beheren in plaats van referenties en alle bestaande referenties van de CSP-partners opschonen.
+Leveranciers van configuratiescherm moeten onboarden [bij](enroll-as-cpv.md) Partner Center als leverancier van het configuratiescherm en onmiddellijk beginnen met het implementeren van deze vereiste. Raadpleeg het [Partner Center: veilig toepassingsmodel framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Leveranciers van configuratiescherm moeten de toestemming van CSP-partners accepteren en beheren in plaats van referenties, en de referenties van alle bestaande CSP-partners opsisten.
 
-### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Moet het beveiligde toepassings model alleen worden geïmplementeerd voor de Partner Center API/SDK?
+### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Moet de veilig toepassingsmodel alleen worden geïmplementeerd voor Partner Center API/SDK?
 
-Door multi-factor Authentication af te dwingen voor alle gebruikers accounts, worden alle automatisering of integratie die is bedoeld om niet-interactief te worden uitgevoerd, beïnvloed. Hoewel de vereisten voor de beveiliging van de partner vereisen dat u het beveiligde toepassings model voor de partner centrum-API inschakelt, kan dit worden gebruikt om een tweede factor van authenticatie met automatisering en integratie te verhelpen.
-
->[!Note] 
->Bronnen die worden geopend, moeten authenticatie op basis van toegangs tokens ondersteunen.
-
-### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Ik gebruik automatiserings Programma's zoals Power shell. Hoe kan ik het beveiligde toepassings model implementeren?
-
-U moet het beveiligde toepassings model implementeren als uw automatisering is bedoeld om niet-interactief te worden uitgevoerd en afhankelijk van de gebruikers referenties voor authenticatie. Zie [veilig toepassings model | Partner Center Power shell](/powershell/partnercenter/multi-factor-auth) voor hulp bij het implementeren van dit framework.  
+Als u meervoudige verificatie afdwingt voor alle gebruikersaccounts, heeft dit gevolgen voor automatisering of integratie die is bedoeld om niet-interactief te worden uitgevoerd. Hoewel de beveiligingsvereisten van de partner vereisen dat u het veilige toepassingsmodel voor de Partner Center-API inschakelen, kan het worden gebruikt om te voldoen aan de noodzaak van een tweede verificatiefactor met automatisering en integratie.
 
 >[!Note] 
->Niet alle Automation-hulpprogram ma's bieden de mogelijkheid om te verifiëren met behulp van toegangs tokens. Plaats een bericht in de groep met [beveiligings richtlijnen van partner centrum](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) als u hulp nodig hebt bij het weten welke wijzigingen moeten worden aangebracht. 
+>Resources die worden gebruikt, moeten ondersteuning bieden voor verificatie op basis van toegangs token.
 
-### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Welke gebruikers referenties moet de toepassings beheerder geven bij het uitvoeren van het toestemming proces?
+### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Ik gebruik automatiseringshulpprogramma's zoals PowerShell. Hoe kan ik de veilig toepassingsmodel?
 
-Het is raadzaam een service account te gebruiken waaraan de minimale privileged permissions zijn toegewezen. Met betrekking tot de Partner Center-API moet u een account gebruiken dat is toegewezen aan de rol verkoop agent of beheerder agent.
+U moet de veilig toepassingsmodel implementeren als uw automatisering is bedoeld om niet-interactief te worden uitgevoerd en afhankelijk is van gebruikersreferenties voor verificatie. Zie [veilig toepassingsmodel | Partner Center PowerShell voor](/powershell/partnercenter/multi-factor-auth) hulp bij het implementeren van dit framework.  
 
-### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Waarom moet de toepassings beheerder geen globale referenties voor beheerders gebruikers opgeven wanneer zij het toestemming proces uitvoeren?
+>[!Note] 
+>Niet alle automatiseringshulpprogramma's bieden de mogelijkheid om te verifiëren met behulp van toegangstokens. Plaats een bericht op de [Partner Center beveiligingshulpgroep](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) als u hulp nodig hebt bij het begrijpen welke wijzigingen moeten worden aangebracht. 
 
-Het is een best practice om de identiteit met een minst privilege te gebruiken.  Dit vermindert het risico. Het is niet raadzaam een account te gebruiken dat globale beheerders bevoegdheden heeft, omdat dat meer machtigingen zou bieden dan nodig is.
+### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Welke gebruikersreferenties moet de toepassingsbeheerder verstrekken bij het uitvoeren van het toestemmingsproces?
 
-### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>Ik ben een CSP-partner. Hoe kan ik weet of de leverancier van het configuratie scherm (CPV) werkt voor het implementeren van de oplossing of niet?
+U wordt aangeraden een serviceaccount te gebruiken dat de machtigingen met de minste bevoegdheden heeft gekregen. Met betrekking tot Partner Center API moet u een account gebruiken dat is toegewezen aan de rol Verkoopagent of Beheerderagent.
 
-Voor partners die gebruikmaken van een CPV-oplossing (configuratie scherm) naar Transact in het programma Cloud Solution Provider (CSP), is het uw verantwoordelijkheid om met uw CPV te raadplegen.
+### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Waarom moet de toepassingsbeheerder geen gebruikersreferenties voor globale beheerders verstrekken bij het uitvoeren van het toestemmingsproces?
 
-### <a name="who-is-a-control-panel-vendor-cpv"></a>Wie is een leverancier van het configuratie scherm (CPV)?
+Het is een best practice minst bevoegde identiteit te gebruiken.  Dit vermindert het risico. Het wordt afgeraden om een account met globale beheerdersbevoegdheden te gebruiken, omdat dit meer machtigingen biedt dan is vereist.
 
-Een leverancier van het configuratie scherm is een onafhankelijke software leverancier die apps ontwikkelt voor gebruik door CSP-partners om te integreren met partner Center-Api's. Een leverancier van het configuratie scherm is geen CSP-partner met directe toegang tot het dash board of Api's van de Partner Center. In het partner centrum is een gedetailleerde beschrijving beschikbaar [: Secure Applications model Guide (Engelstalig](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)).
+### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>Ik ben een CSP-partner. Hoe kan ik weten of mijn Configuratiescherm Vendor (CPV) al dan niet bezig is met het implementeren van de oplossing?
 
-### <a name="i-am-a-cpv-how-do-i-enroll"></a>Ik ben een CPV. Hoe kan ik inschrijven?
+Voor partners die een CPV-oplossing (Configuratiescherm Vendor) gebruiken voor transact in het Cloud Solution Provider-programma (CSP), is het uw verantwoordelijkheid om contact op te nemen met uw CPV.
 
-Als u zich wilt inschrijven als leverancier van het configuratie scherm (CPV), volgt u de richt lijnen die [hier](enroll-as-cpv.md)worden beschreven.
+### <a name="who-is-a-control-panel-vendor-cpv"></a>Wie is een Configuratiescherm Vendor (CPV)?
 
-CPVs moet contact opnemen met [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) om de inschrijvings koppeling te ontvangen en een mede werker van micro soft-werk nemers te bieden die een zakelijke relatie met de CPV heeft of hun bedrijf kent. Bijvoorbeeld een partner Development Manager (PDM).
+Een Configuratiescherm is een onafhankelijke softwareleverancier die apps ontwikkelt die door CSP-partners kunnen worden gebruikt om te integreren met Partner Center API's. Een Configuratiescherm is geen CSP-partner met directe toegang tot Partner Center dashboard of API's. Een gedetailleerde beschrijving is beschikbaar in de [handleiding Partner Center: Secure Applications Model](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
 
-Zodra u zich hebt Inge schreven bij partner centrum en uw toepassingen hebt geregistreerd, hebt u toegang tot partner Center-Api's. Als u een nieuwe CPV bent, ontvangt u uw sandbox-informatie via een partner centrum-melding. Zodra u de inschrijving als een micro soft CPV hebt voltooid en de CPV-overeenkomst hebt geaccepteerd, kunt u het volgende doen:
+### <a name="i-am-a-cpv-how-do-i-enroll"></a>Ik ben een CPV. Hoe kan ik registreren?
 
-1. Multi tenant-toepassing beheren (toepassingen toevoegen aan Azure Portal, en toepassingen registreren en registreren in het partner centrum).
+Als u zich wilt registreren als een leverancier van het configuratiescherm (CPV), volgt u de richtlijnen die hier [worden gegeven.](enroll-as-cpv.md)
+
+CPV's moeten contact opnemen om de inschrijvingskoppeling te ontvangen en een Microsoft-medewerkerssponsor te leveren die een zakelijke relatie heeft met de CPV of die [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) bekend is met hun bedrijf. Bijvoorbeeld een Partner Development Manager (PDM).
+
+Nadat u zich hebt Partner Center en uw toepassingen hebt geregistreerd, hebt u toegang tot Partner Center API's. U ontvangt uw sandboxgegevens via een Partner Center als u een nieuwe CPV bent. Nadat u de inschrijving als Een Microsoft CPV hebt voltooid en de CPV-overeenkomst hebt geaccepteerd, kunt u het volgende doen:
+
+1. Toepassingen met meerdere tenants beheren (toepassingen toevoegen aan Azure Portal en registratie van toepassingen in Partner Center).
 
    >[!Note]
-   >CPVs moet hun toepassingen registreren in het partner centrum om toestemming te krijgen voor Partner Center-Api's. Door toepassingen toe te voegen aan de Azure Portal alleen worden CPV-toepassingen voor partner centrum-Api's geautoriseerd.
+   >CPV's moeten hun toepassingen registreren in Partner Center om te worden geautoriseerd voor Partner Center API's. Het toevoegen van toepassingen aan Azure Portal alleen biedt geen toestemming voor CPV-toepassingen voor Partner Center API's.
 
-1. Uw CPV-profiel weer geven en beheren.
+1. Uw CPV-profiel weergeven en beheren.
 
-1. Bekijk en beheer uw gebruikers die toegang tot de CPV-mogelijkheden nodig hebben. Een CPV kan alleen de rol globale beheerder hebben.
+1. Bekijk en beheer uw gebruikers die toegang nodig hebben tot CPV-mogelijkheden. Een CPV kan alleen de rol Globale beheerder hebben.
 
-### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Ik gebruik de Partner Center-SDK. Wordt het veilige toepassings model automatisch door SDK toegepast?
+### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Ik gebruik de Partnercentrum-SDK. Wordt de SDK automatisch veilig toepassingsmodel?
 
-Nee, u moet de richt lijnen volgen die worden beschreven in de [hand leiding voor het beveiligde toepassings model](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+Nee, u moet de richtlijnen in de handleiding voor veilig toepassingsmodel [volgen.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 
-### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>Kan ik een vernieuwings token genereren voor het beveiligde toepassings model met accounts waarvoor MFA niet is ingeschakeld?
+### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>Kan ik een vernieuwings token genereren voor het veilige toepassingsmodel met accounts die MFA niet hebben ingeschakeld?
 
-Ja, er kan een vernieuwings token worden gegenereerd met een account zonder MFA-afdwinging. Dit moet echter worden vermeden. Tokens die zijn gegenereerd met een account waarvoor MFA niet is ingeschakeld, hebben geen toegang tot bronnen vanwege de vereiste voor MFA.
+Ja, een vernieuwings token kan worden gegenereerd met behulp van een account dat MFA niet heeft afgedwongen. Dit moet echter worden vermeden. Elk token dat wordt gegenereerd met een account dat MFA niet heeft ingeschakeld, heeft geen toegang tot resources vanwege de vereiste voor MFA.
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>Hoe moet mijn toepassing een toegangs token verkrijgen als we MFA inschakelen?
 
-U moet de [hand leiding voor het beveiligde toepassings model](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) volgen voor meer informatie over hoe u dit doet, en die voldoet aan de nieuwe beveiligings vereisten. Hier vindt u hier informatie over .NET-voorbeeld [code en Java](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) -voorbeeld [code.](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+Volg de handleiding veilig toepassingsmodel [informatie](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) over hoe u dit doet terwijl u voldoet aan de nieuwe beveiligingsvereisten. U vindt hier .NET-voorbeeldcode [en](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) Java-voorbeeldcode [hier.](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
 
-### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>Als CPV moet ik een Azure AD-toepassing maken in onze CPV-Tenant of de Tenant van de CSP-partner?
+### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>Maak ik als CPV een Azure AD-toepassing in onze CPV-tenant of de tenant van de CSP-partner?
 
-De CPV moet de Azure Active Directory-toepassing maken in de Tenant die is gekoppeld aan hun inschrijving als CPV.
+De CPV moet de toepassing Azure Active Directory maken in de tenant die is gekoppeld aan hun inschrijving als CPV.
 
 ### <a name="i-am-a-csp-that-is-using-app-only-authentication-do-i-need-to-make-any-changes"></a>Ik ben een CSP die alleen app-verificatie gebruikt. Moet ik wijzigingen aanbrengen?
 
-Alleen app-verificatie wordt niet beïnvloed omdat er geen gebruikers referenties worden gebruikt om een toegangs token aan te vragen. Als er gebruikers referenties worden gedeeld, moeten de leveranciers van het configuratie scherm (CPVs) het Framework voor het [beveiligde toepassings model](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) aannemen en alle bestaande partner referenties die ze hebben opschonen.
+Verificatie alleen voor apps wordt niet beïnvloed omdat gebruikersreferenties niet worden gebruikt om een toegangs token aan te vragen. Als gebruikersreferenties worden gedeeld, moeten leveranciers van configuratiescherm (CPV's) het [veilig toepassingsmodel-framework gebruiken](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) en de bestaande partnerreferenties die ze hebben, opsisten.
 
-### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>Als CPV kan ik gebruikmaken van de verificatie stijl alleen voor apps om toegangs tokens op te halen?
+### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>Kan ik als CPV gebruikmaken van de verificatiestijl van de app om toegangstokens op te halen?
 
-Nee, leverancier-partners van het configuratie scherm kunnen de verificatie stijl alleen voor apps gebruiken om toegangs tokens namens de partner aan te vragen. Ze moeten het beveiligde toepassings model implementeren, waarbij gebruik wordt gemaakt van de stijl app + gebruiker-verificatie.
+Nee, Configuratiescherm kunnen de verificatiestijl van de app alleen gebruiken om namens de partner toegangstokens aan te vragen. Ze moeten het veilige toepassingsmodel implementeren, dat gebruikmaakt van de stijl app + gebruikersverificatie.
 
 ## <a name="technical-enforcement"></a>Technische afdwinging
 
-### <a name="what-is-the-activation-of-security-safeguards"></a>Wat is de activering van beveiligings maatregelen?
+### <a name="what-is-the-activation-of-security-safeguards"></a>Wat is de activering van beveiligingsbeveiligingen?
 
-Alle partners die deel nemen aan het programma Cloud Solution Provider (CSP), leveranciers van het configuratie scherm (CPVs) en Advisor moeten de verplichte beveiligings vereisten implementeren om te blijven voldoen aan het beleid.
+Alle partners die deelnemen aan het Cloud Solution Provider(CSP)-programma, Configuratiescherm Vendors (CPV's) en advisors moeten de verplichte beveiligingsvereisten implementeren om compatibel te blijven.
 
-Om extra beveiliging te bieden, begon micro soft met de activering van beveiligings maatregelen waarmee partners hun tenants en hun klanten kunnen beveiligen door eisen multi-factor Authentication (MFA) verificatie om onbevoegde toegang te voor komen.  
+Om extra beveiliging te bieden, is Microsoft begonnen met het activeren van beveiligingsbeveiligingen waarmee partners hun tenants en hun klanten kunnen beveiligen door meervoudige verificatie (MFA) te verplichten om onbevoegde toegang te voorkomen.  
 
-De activering van de beheer-en ADMINISTRATE-mogelijkheden voor alle partner tenants is voltooid. Om partners en klanten verder te beschermen en te richten op Q2 CY2020, beginnen we met de activering van partner Center-trans acties in CSP, waardoor partners hun bedrijven en klanten kunnen beschermen tegen incidenten met betrekking tot identiteits diefstal.
+De activering voor AOBO-mogelijkheden (admin-on-behalf-of) voor alle partnertenties is voltooid. Ter bescherming van partners en klanten, gericht op Q2 CY2020, beginnen we met de activering van Partner Center-transacties in CSP, waarbij partners hun bedrijf en klanten beschermen tegen identiteitsdiefstalgerelateerde incidenten.
 
-Ga voor meer informatie naar [eisen multi-factor Authentication (MFA) voor uw partner-Tenant](partner-security-requirements-mandating-mfa.md) pagina.
+Ga naar De [MFA (Multi-Factor Authentication) voor uw partner-tenantpagina](partner-security-requirements-mandating-mfa.md) voor meer informatie.
 
-### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>Ik gebruik een MFA-oplossing van derden en ik ben geblokkeerd; wat moet ik doen?
+### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>Ik gebruik een MFA-oplossing van derden en ik wordt geblokkeerd. Wat moet ik doen?
 
-Als u wilt controleren of het account dat toegang heeft tot bronnen is aangevraagd voor multi-factor Authentication, zullen we de referentie claim van de [verificatie methode](https://tools.ietf.org/html/rfc8176) controleren om te zien of MFA wordt weer gegeven. Sommige oplossingen van derden geven deze claim niet af of bevatten de MFA-waarde niet. Als de claim ontbreekt of als de MFA-waarde niet wordt weer gegeven, is er geen manier om te bepalen of het geverifieerde account is gecontroleerd op multi-factor Authentication. U moet samen werken met de leverancier voor uw oplossing van derden om te bepalen welke acties moeten worden uitgevoerd, zodat de oplossing de referentie claim van de verificatie methode uitgeeft.
+Om te valideren dat het account dat toegang heeft tot [](https://tools.ietf.org/html/rfc8176) resources is om meervoudige verificatie is gesteld, controleren we de referentieclaim voor verificatiemethoden om te zien of MFA wordt vermeld. Sommige oplossingen van derden geven deze claim niet uit of bevatten niet de MFA-waarde. Als de claim ontbreekt of als de MFA-waarde niet wordt vermeld, is er geen manier om te bepalen of het geverifieerde account is om meervoudige verificatie is omgemiddeld. U moet samenwerken met de leverancier voor uw oplossing van derden om te bepalen welke acties moeten worden ondernomen, zodat de oplossing de referentieclaim voor de verificatiemethode zal uitgeven.
 
-Zie [de vereisten voor de beveiliging van de partner testen](/powershell/partnercenter/test-partner-security-requirements) als u niet zeker weet of uw oplossing van derden de verwachte claim geeft.
+Zie [Testing the Partner Security Requirements](/powershell/partnercenter/test-partner-security-requirements) (De beveiligingsvereisten van de partner testen) als u niet zeker weet of uw oplossing van derden de verwachte claim indient.
 
-### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>Er wordt door MFA geblokkeerd voor de ondersteuning van mijn klant met ADMINISTRATE, wat moet ik doen?
+### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA blokkeert de ondersteuning van mijn klant met AOBO. Wat moet ik doen?
 
-De technische afdwinging voor de beveiligings vereisten van de partner wordt gecontroleerd als het geverifieerde account is aangevraagd voor multi-factor Authentication. Als het account niet is ingesteld, wordt u omgeleid naar de aanmeldings pagina en wordt u gevraagd om opnieuw te verifiëren. Lees extra ervaring en richt lijnen in deze [eisen multi-factor Authentication (MFA) voor uw partner-Tenant](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) documentatie. In het scenario waarbij uw domein niet federatief is, wordt u gevraagd om multi-factor Authentication in te stellen na de verificatie. Zodra dit is voltooid, kunt u uw klanten beheren met behulp van ADMINISTRATE. In het scenario waarin uw domein federatief is, moet u ervoor zorgen dat het account wordt bevraagd voor multi-factor Authentication.
+De technische afdwinging voor de beveiligingsvereisten van de partner wordt gecontroleerd als het geverifieerde account is ingeschakeld voor meervoudige verificatie. Als het account niet is, wordt u omgeleid naar de aanmeldingspagina en wordt u gevraagd om opnieuw te verifiëren. Lees aanvullende ervaring en richtlijnen in [deze MFA (Mandating Multi-Factor Authentication) voor de tenantdocumentatie van uw](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) partner. In het scenario waarin uw domein niet is ge federeerd, wordt u na een verificatie gevraagd om meervoudige verificatie in te stellen. Zodra dit is voltooid, kunt u uw klanten beheren met AOBO. In het scenario waarin uw domein is ge federeerd, moet u ervoor zorgen dat het account wordt gebruikt voor meervoudige verificatie.
 
-## <a name="security-defaults-transition"></a>Overgang van beveiligings standaard waarden
+## <a name="security-defaults-transition"></a>Overgang naar standaardinstellingen voor beveiliging
 
-### <a name="how-can-i-transition-from-baseline-policies-to-security-defaults-or-other-mfa-solutions"></a>Hoe kan ik overstappen van basislijn beleidsregels naar beveiligings standaards of andere MFA-oplossingen?
+### <a name="how-can-i-transition-from-baseline-policies-to-security-defaults-or-other-mfa-solutions"></a>Hoe kan ik overstappen van basislijnbeleid naar standaardinstellingen voor beveiliging of andere MFA-oplossingen?
 
-Azure Active Directory (Azure AD) ["baseline"-beleids regels worden verwijderd en vervangen](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) door "standaard instellingen voor beveiliging", een uitgebreidere reeks beveiligings beleidsregels voor u en uw klanten. Met [standaard instellingen voor beveiliging](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) kunt u uw organisatie beschermen tegen beveiligings aanvallen met betrekking tot identiteits diefstal.
+Azure Active Directory (Azure [AD)](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) basislijnbeleid wordt verwijderd en vervangen door 'standaardinstellingen voor beveiliging', een uitgebreidere set beveiligingsbeleidsregels voor u en uw klanten. [Standaardinstellingen voor beveiliging](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) kunnen uw organisatie beschermen tegen beveiligingsaanvallen die te maken hebben met identiteitsdiefstal.
 
-Uw MFA-implementatie (multi-factor Authentication) wordt verwijderd als gevolg van het buiten gebruik stellen van basislijn beleid als u niet hebt overgeschakeld van basislijn beleidsregels naar het beleid voor beveiligings standaarden of [andere opties voor MFA-implementatie](partner-security-requirements.md#implementing-multi-factor-authentication). Gebruikers in uw partner-tenants die MFA beveiligde bewerkingen uitvoeren, worden gevraagd MFA-verificatie te volt ooien. Bekijk [hier](partner-security-requirements-mandating-mfa.md)meer gedetailleerde richt lijnen.
-Voer een van de volgende acties uit om te blijven voldoen en onderbrekingen tot een minimum te beperken:
+Uw MFA-implementatie (Multi-Factor Authentication) wordt verwijderd omdat het basislijnbeleid wordt afgeschaft als u niet bent overgeplaatst van basislijnbeleid naar het standaardbeleid voor beveiliging of andere [MFA-implementatieopties.](partner-security-requirements.md#implementing-multi-factor-authentication) Alle gebruikers in uw partnerten tenants die met MFA beveiligde bewerkingen uitvoeren, worden gevraagd om de MFA-verificatie te voltooien. Bekijk hier meer [gedetailleerde richtlijnen.](partner-security-requirements-mandating-mfa.md)
+Als u compatibel wilt blijven en onderbrekingen wilt minimaliseren, moet u een van de volgende acties uitvoeren:
 
-- Overgang naar standaard instellingen voor beveiliging
-    - Beleid voor standaard instellingen van beveiliging is een van de opties die partners kunnen kiezen voor het implementeren van MFA. Het biedt een basis niveau van beveiliging zonder extra kosten.
-    - Meer informatie over het inschakelen van MFA voor uw organisatie met Azure AD en de [belangrijkste aandachtspunten voor de beveiligings standaards](partner-security-requirements.md#security-defaults).
-    - Schakel de beleids regels voor standaard beveiliging in als deze voldoen aan uw bedrijfs behoeften.
+- Overgang naar standaardinstellingen voor beveiliging
+    - Standaardbeleid voor beveiliging is een van de opties die partners kunnen kiezen om MFA te implementeren. Het biedt een basisbeveiligingsniveau dat zonder extra kosten is ingeschakeld.
+    - Meer informatie over het inschakelen van MFA voor uw organisatie met Azure AD en het bekijken van de belangrijkste overwegingen voor [de standaardinstellingen voor beveiliging.](partner-security-requirements.md#security-defaults)
+    - Schakel standaardbeleid voor beveiliging in als dit voldoet aan de behoeften van uw bedrijf.
 - Overgang naar voorwaardelijke toegang
-    - Als beleids regels voor de beveiliging niet voldoen aan uw behoeften, schakelt u voorwaardelijke toegang in. Raadpleeg de documentatie voor voorwaardelijke toegang van Azure AD voor meer informatie.
+    - Als het standaardbeleid voor beveiliging niet aan uw behoeften voldoen, kunt u voorwaardelijke toegang inschakelen. Lees de documentatie voor voorwaardelijke toegang van Azure AD voor meer informatie.
 
-## <a name="key-resources"></a>Belangrijkste bronnen
+## <a name="key-resources"></a>Belangrijkste resources
 
 ### <a name="how-to-get-started"></a>Hoe gaat u aan de slag
 
-- [Beveiligings vereisten voor partners: stapsgewijze hand leiding](partner-security-requirements.md).
-- Stuur uw vragen en feedback naar deze [partner centrum-beveiligings richtlijnen groep](https://aka.ms/MPCSecurityGuidance).
-- Kom naar aanstaande partners kantoor uren en webinars. Controleer [hier het gedetailleerde schema en de resources](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
+- [Beveiligingsvereisten van partners: stapsgewijs.](partner-security-requirements.md)
+- Stuurt uw vragen en feedback naar deze [Partner Center security guidance group](https://aka.ms/MPCSecurityGuidance).
+- Neem deel aan kantooruren en webinars van partners. Controleer hier [de gedetailleerde planning en resources.](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 
-### <a name="resources-for-adopting-secure-application-model"></a>Bronnen voor het aannemen van een veilig toepassings model
+### <a name="resources-for-adopting-secure-application-model"></a>Resources voor het over aannemen van een veilig toepassingsmodel
 
-- [Overzicht van veilig toepassings model](/partner-center/develop/enable-secure-app-model)
-- [Partner centrum: hand leiding voor beveiligde toepassings modellen](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Partners in het CSP-programma: .NET-voorbeeld code voor het inschakelen van een veilig toepassings model](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-- [Partners in het CSP-programma: Java-voorbeeld code voor het inschakelen van een veilig toepassings model](/samples/microsoft/partner-center-java-samples/secure-app-model/)
-- [Verificatie document van partner centrum](/partner-center/develop/partner-center-authentication)
-- [Document Power shell Multi-Factor Authentication (MFA) van partner Center](/powershell/partnercenter/multi-factor-auth)
+- [veilig toepassingsmodel overzicht](/partner-center/develop/enable-secure-app-model)
+- [Partner Center: veilig toepassingsmodel handleiding](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [Partners in CSP-programma: .NET-voorbeeldcode voor het inschakelen van veilig toepassingsmodel](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Partners in CSP-programma: Java-voorbeeldcode voor het inschakelen van veilig toepassingsmodel](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+- [Partner Center-verificatiedocument](/partner-center/develop/partner-center-authentication)
+- [Partner Center PowerShell Multi-Factor Authentication (MFA) document](/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>Ondersteuning
 
 ### <a name="where-can-i-get-support"></a>Waar kan ik ondersteuning krijgen?
 
-Voor ondersteunings bronnen om te voldoen aan de beveiligings vereisten, als u geavanceerde ondersteuning voor partners (ASfP) hebt, neemt u contact op met uw service account manager. Neem contact op met uw service account manager en Technical Account Manager voor Premier Support voor partner overeenkomst (PSfP).
+Neem contact op met uw serviceaccountmanager als u geavanceerde ondersteuning voor partners (ASfP) hebt om te voldoen aan de beveiligingsvereisten; voor Premier Support partnerovereenkomst (PSfP) kunt u contact opnemen met uw serviceaccountmanager en technische accountmanager.
 
-### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>Hoe kan ik technische informatie en ondersteuning verkrijgen om me te helpen bij het aannemen van een veilig toepassings model-Framework?
+### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>Hoe kan ik technische informatie en ondersteuning om mij te helpen het framework voor een veilig toepassingsmodel te gebruiken?
 
-Technische ondersteunings opties voor Azure Active Directory zijn beschikbaar via uw MPN-voor delen. Partners met toegang tot een actief ASfP-of PSfP-abonnement kunnen samen werken met hun bijbehorende account manager (SAM/TAM) om de beschik bare opties voor hen goed te begrijpen.
+Technische productondersteuningsopties voor Azure Active Directory zijn beschikbaar via uw MPN-voordelen. Partners met toegang tot een actief ASfP- of PSfP-abonnement kunnen samenwerken met hun gekoppelde account manager (SAM/TAM) om zo goed mogelijk inzicht te krijgen in de beschikbare opties.
 
-### <a name="how-do-i-contact-support-if-ive-lost-access-to-partner-center"></a>Hoe kan ik contact opnemen met ondersteuning als ik de toegang tot het partner centrum kwijt ben?
+### <a name="how-do-i-contact-support-if-ive-lost-access-to-partner-center"></a>Hoe kan ik contact opnemen met de ondersteuning als ik geen toegang meer heb Partner Center?
 
-Als u geen toegang meer hebt vanwege een MFA-probleem, neemt u contact op met de globale beheerder voor uw Tenant. Uw interne IT-afdeling kan u vertellen wie uw globale beheerder is. 
+Als u geen toegang meer hebt vanwege een probleem met MFA, neem dan contact op met de globale beheerder voor uw tenant. Uw interne IT-afdeling kan u vertellen wie uw globale beheerder is. 
 
-Als u uw wacht woord bent verg eten, kunt [u zich niet aanmelden](unable-to-sign-in.md) voor hulp.
+Als u uw wachtwoord bent vergeten, leest [u Kan u niet aanmelden](unable-to-sign-in.md) voor hulp.
 
-### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>Waar vind ik meer informatie over algemene technische problemen?
+### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>Waar vind ik meer informatie over veelvoorkomende technische problemen?
 
-Informatie met betrekking tot de algemene technische problemen vindt u in de [beveiligings vereisten van de partner voor partners die partner Center of partner Center-api's gebruiken](partner-security-requirements.md)
+Informatie over de veelvoorkomende technische problemen vindt u in [Partner security requirements for partners using Partner Center or Partner Center APIs (Beveiligingsvereisten](partner-security-requirements.md) van partners voor partners die gebruikmaken Partner Center of Partner Center API's)

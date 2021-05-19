@@ -2,41 +2,38 @@
 title: Beschikbare coöperatieve fondsen weergeven
 ms.topic: article
 ms.date: 01/03/2021
-description: Meer informatie over het weer geven van uw verdiende, geclaimde en resterende mede-op-fondsen, het weer geven van verval datums en het afstemmen van inconsistente bedragen.
+description: Meer informatie over het weergeven van uw verdiend, geclaimde en resterende co-op-tegoeden, het weergeven van vervaldatums en het afstemmen van inconsistente bedragen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 14706e44201159213dc8fff671a8d47c52bd89c1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179425"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151896"
 ---
-# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Beschik bare, geclaimde en resterende mede-op-fondsen weer geven
+# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Beschikbare tegoeden voor verdiend, geclaimd en resterend coöp bekijken
 
-**Juiste rollen**
+**Juiste rollen:** Incentives-| Incentives-gebruiker
 
-- Prikkel beheerder
-- Prikkel gebruiker
+U kunt uw incentive co-op-bedrag bijhouden, bewaken en afstemmen in het [Partner Center dashboard](https://partner.microsoft.com/dashboard/) (aanmelden vereist). Gebruik de volgende procedure om deze middelen te bekijken.
 
-U kunt uw stimulerende fondsen volgen, controleren en afstemmen in het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/) (aanmelden is vereist). Gebruik de volgende procedure om deze fondsen weer te geven.
+## <a name="view-your-funds"></a>Uw tegoed weergeven
 
-## <a name="view-your-funds"></a>Uw fondsen weer geven
+1. Meld u aan [bij Partner Center dashboard](https://partner.microsoft.com/dashboard/) met uw Azure AD-account (bedrijfsaccount) of het juiste e-mailadres voor uw incentive-rol.
 
-1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/) met uw Azure ad-account (bedrijfs account) of het juiste e-mail adres voor uw prikkel rol.
+2. Selecteer **Co-opbeheer** en selecteer vervolgens de gebruiksperiode die u wilt zien. Hiermee worden de bedragen weergegeven **voor co-op verdiend,** **door co-op geclaimd** en resterende **co-op** voor de geselecteerde periode.
 
-2. Selecteer **co-op-beheer** en selecteer vervolgens de gebruiks periode die u wilt weer geven. Hiermee worden de bedragen weer **gegeven voor de** **gefactureerde** en **geclaimde** mede-op-op-een voor de geselecteerde periode.
+3. De vervaldatum voor de geselecteerde periode wordt weergegeven onder de **weergave Resterende samenwerking.**  
 
-3. De verval datum voor de geselecteerde periode wordt weer gegeven onder de resterende weer gave **op** het scherm.  
+4. Als u alle claims wilt weergeven die voor de geselecteerde periode zijn ingediend, schuift u naar de onderkant van de pagina.
 
-4. Als u alle claims wilt weer geven die zijn verzonden voor de geselecteerde periode, schuift u naar de onderkant van de pagina.
+Als u denkt dat er discrepanties zijn in de bedragen die worden weergegeven in de samenvatting, kunt u het transactierapport van de vorige periode downloaden. Dit rapport helpt u bij het bepalen van de hoeveelheid co-op-middelen die u hebt verdiend voor de geselecteerde gebruiksperiode. Zie Transactiegeschiedenis als u transactierapporten wilt downloaden of claims wilt valideren die zijn ingediend om ervoor te zorgen dat het resterende co-opbedrag [nauwkeurig is.](./payout-statement.md#transaction-history)
 
-Als u denkt dat er verschillen zijn in de bedragen die in de samen vatting worden weer gegeven, kunt u het transactie rapport downloaden uit de vorige periode. Dit rapport helpt u bij het bepalen van het aantal op de onderverdiende fondsen voor de geselecteerde gebruiks periode. Als u transactie rapporten wilt downloaden of verzonden claims wilt valideren om ervoor te zorgen dat het resterende bedrag aan de co-op nauw keurig is, raadpleegt u de [transactie geschiedenis](./payout-statement.md#transaction-history).
-
-Als u nog steeds problemen hebt met het afstemmen van bedragen of als sommige mede-op-fondsen niet zichtbaar zijn, kunt u een ondersteunings ticket openen. Hiertoe selecteert u het vraag teken in de rechter bovenhoek van de pagina en selecteert u vervolgens **prikkels**.
+Als u nog steeds problemen hebt met het afstemmen van bedragen of als een deel van het bedrag voor samenwerking niet zichtbaar is, kunt u een ondersteuningsticket openen. Hiervoor selecteert u het vraagtekenpictogram in de rechterbovenhoek van de pagina en selecteert u **vervolgens Incentives.**
 
 ## <a name="next-steps"></a>Volgende stappen
 

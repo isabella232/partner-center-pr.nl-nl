@@ -1,6 +1,6 @@
 ---
-title: Geschiktheids programma
-description: Zorg ervoor dat u de geschiktheids vereisten voor het programma stimulans hebt vervuld. Dit proces omvat het controleren van de geschiktheid in de programma gids.
+title: Incentives-programma geschiktheid
+description: Zorg ervoor dat u voldoet aan de geschiktheidsvereisten voor het incentives-programma. Dit proces omvat het controleren van geschiktheid in uw programmahandleiding.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -8,40 +8,37 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8b9442a99aaf1ed23242eb568859d3113a8262d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179213"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152100"
 ---
-# <a name="determine-your-incentives-program-eligibility"></a>Bepaal de geschiktheid van uw prikkel programma
+# <a name="determine-your-incentives-program-eligibility"></a>Geschiktheid van uw incentives-programma bepalen
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Incentives-beheerder
 
-- Globale beheerder
-- Prikkel beheerder
-
- Elk Incentives-programma heeft bepaalde vereisten waaraan moet worden voldaan. Deze programmavereisten zijn ontworpen om ervoor te zorgen dat u alle relevante overeenkomsten hebt ondertekend, beschikt over de benodigde competenties, een omzetprognose hebt gemaakt en voldoet aan andere vereisten voor uw Incentives-programma.
+Elk Incentives-programma heeft bepaalde vereisten waaraan moet worden voldaan. Deze programmavereisten zijn ontworpen om ervoor te zorgen dat u alle relevante overeenkomsten hebt ondertekend, beschikt over de benodigde competenties, een omzetprognose hebt gemaakt en voldoet aan andere vereisten voor uw Incentives-programma.
 
 ## <a name="determining-your-program-eligibility"></a>Geschiktheid van uw programma bepalen
 
 De specifieke vereisten voor de geschiktheid voor uw programma vindt u in de programmagids. 
 
-### <a name="to-see-your-program-guide"></a>De programma gids weer geven
+### <a name="to-see-your-program-guide"></a>Uw programmahandleiding bekijken
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
 2. Selecteer **Overzicht** onder **Incentives** in het navigatievenster aan de linkerkant. De pagina **Overzicht van programma** wordt geopend.
 
-3. Selecteer het gewenste programma.
+3. Selecteer het programma dat u wilt.
 
-4. Selecteer in het veld **status** de optie **vereisten voor geschiktheid**.
+4. Selecteer in **het veld Status** de optie **Geschiktheidsvereisten.**
 
-   :::image type="content" source="images/incentives/eligibility.png" alt-text="Scherm afbeelding is een voor beeld van prikkel vereisten.":::
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Schermopname is een voorbeeld van vereisten voor incentives.":::
 
-5. Voltooi alle gebieden die niet zijn ingeschakeld om te voldoen aan het recht. Elk stimulanss programma heeft zijn eigen set vereisten.
+5. Voltooi alle gebieden die niet zijn aangevinkt om te voldoen aan de geschiktheid. Elk incentives-programma heeft een eigen set vereisten.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Uitbetalings-en BTW-profielen voor prikkel Programma's](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [Uitbetalings- en belastingprofielen voor Incentives-programma's](incentives-create-and-manage-your-payout-and-tax-profiles.md)

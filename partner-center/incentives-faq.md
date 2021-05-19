@@ -1,80 +1,77 @@
 ---
-title: Veelgestelde vragen over prikkels
+title: Veelgestelde vragen over Incentives
 ms.topic: how-to
 ms.date: 02/05/2021
-description: Veelgestelde vragen over micro soft-prikkels. Dit artikel bevat vragen over gebruikers rollen, hoe u zich kunt inschrijven of wat u moet doen over fout berichten.
+description: Veelgestelde vragen over Incentives van Microsoft. Dit artikel bevat vragen over gebruikersrollen, inschrijving of wat u moet doen met foutberichten.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a917f3648447ac273fae839d32a4b4d3ce80ae35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179493"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152015"
 ---
-# <a name="frequently-asked-questions-on-incentives"></a>Veelgestelde vragen over prikkels
+# <a name="frequently-asked-questions-on-incentives"></a>Veelgestelde vragen over Incentives
 
-**Juiste rollen**
+**Juiste rollen:** Incentives-| Incentives-gebruiker
 
-- Prikkel beheerder
-- Prikkel gebruiker
+## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Moet ik de globale beheerder zijn om me in te schrijven voor incentives?
 
-## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Moet ik de globale beheerder zijn om in te schrijven in prikkels?
+Nee. Zowel de globale beheerder als de accountbeheerder kunnen gebruikers toewijzen als Incentives-beheerders. Incentives-beheerders beheren de incentives-programma's van het bedrijf via Partner Center. Zie Overzicht van machtigingen [voor meer informatie.](permissions-overview.md)
 
-Nee. Zowel de beheerder van de globale beheerder als het account kan gebruikers toewijzen als prikkel beheerders. Beheerders van prikkels beheren de prikkel Programma's van het bedrijf via partner centrum. Zie [permissions Overview](permissions-overview.md)(Engelstalig) voor meer informatie.
+## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>Wat moet ik doen als ik zie dat mijn bedrijf al lid is van de Microsoft Partner Network (MPN)?
 
-## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>Wat moet ik doen als ik mijn bedrijf vind, al een lid van de Microsoft Partner Network (MPN)?
+Als u probeert lid te worden van MPN en uw bedrijf al lid is, herkent MPN het domein en koppelt u aan het bestaande account. Het bestaande account kan hetzelfde bedrijf of een gerelateerd bedrijf zijn dat hetzelfde e-maildomein gebruikt, of dezelfde Azure Activity Directory (Azure AD) voor het beheren van meerdere domeinen.
 
-Als u probeert deel te nemen aan MPN en uw bedrijf al een lid is, herkent MPN het domein en wordt u aan het bestaande account gekoppeld. Het bestaande account kan hetzelfde bedrijf of een gerelateerde onderneming zijn die hetzelfde e-mail domein gebruikt, of dezelfde Azure-activiteit Directory (Azure AD) voor het beheren van meerdere domeinen.
+U kunt de primaire contactpersoon vinden op de pagina Juridisch profiel. Als uw locatie de MPNHQ-locatie is, hoeft u alleen de vereiste machtigingen te hebben om incentives te beheren. Zie overzicht van machtigingen voor meer informatie over [rollen en machtigingen.](permissions-overview.md)
 
-U kunt de primaire contact persoon identificeren op de pagina rechts profiel. Als uw locatie de MPNHQ locatie is, hoeft u alleen de vereiste machtigingen voor het beheren van prikkels in te stellen. Zie [overzicht van machtigingen](permissions-overview.md)voor meer informatie over rollen en machtigingen.
+Als u zich niet in hetzelfde land bevindt als de MPNHQ-locatie, raadpleegt u de [Instructies](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) voor accounts met meerdere landen voor meer informatie over dit scenario.
 
-Als u zich niet in hetzelfde land als de MPNHQ-locatie bevindt, raadpleegt u de [instructies voor Multi-National accounts](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) voor meer informatie over dit scenario.
+## <a name="what-user-roles-are-available"></a>Welke gebruikersrollen zijn beschikbaar?
 
-## <a name="what-user-roles-are-available"></a>Welke gebruikers rollen zijn er beschikbaar?
+De persoon die het bedrijf inschrijft bij Partner Center wordt standaard de primaire contactpersoon en globale beheerder. De beheerder kan gebruikers uitnodigen en beheren in de portal.
 
-De persoon die het bedrijf inschrijft in partner centrum, wordt standaard de primaire contact persoon en de globale beheerder. De beheerder kan gebruikers uitnodigen en beheren in de portal.
+De belangrijkste rollen voor incentives zijn Incentives-beheerder en Incentives-gebruiker. De Incentives-beheerder kan zich inschrijven voor incentive-programma's en bank- en belastinggegevens voor de partner beheren. De Incentives-gebruiker kan rapporten in het hulpprogramma bekijken om te zien wat er is betaald en de uitsplitsing van elke betaling, maar kan bankgegevens niet bekijken of bewerken. Beide rollen kunnen van toepassing zijn op alle locaties onder het globale partneraccount.
 
-De belangrijkste rollen voor prikkels zijn prikkelende beheerder en prikkel gebruiker. De prikkel beheerder kan zich inschrijven voor prikkel Programma's en de Bank-en belasting gegevens voor de partner beheren. De gebruikers van de stimulans kunnen rapporten in het hulp programma weer geven om te zien wat er is betaald en wat de uitsplitsing van elke betaling is, maar dat er geen bank gegevens kunnen worden weer gegeven of bewerkt. Beide rollen kunnen gelden voor alle locaties onder het globale account van de partner.
+Zie Overzicht van machtigingen [voor meer informatie.](permissions-overview.md)
 
-Zie [permissions Overview](permissions-overview.md)(Engelstalig) voor meer informatie.
+## <a name="how-can-i-find-out-who-has-global-or-account-admin-rights-for-my-company"></a>Hoe kan ik erachter komen wie globale beheerdersrechten of accountbeheerdersrechten voor mijn bedrijf heeft?
 
-## <a name="how-can-i-find-out-who-has-global-or-account-admin-rights-for-my-company"></a>Hoe kom ik erachter wie algemene accounts of account beheerders rechten heeft voor mijn bedrijf?
+Een globale beheerder of accountbeheerder zoeken die rolwijzigingen kan aanbrengen of rollen kan toewijzen aan een nieuwe gebruiker:
 
-Zoeken naar een globale beheerder of account beheerder die de rol kan wijzigen of rollen kan toewijzen aan een nieuwe gebruiker:
-
-1. Selecteer in het pictogram account instellingen in de rechter bovenhoek van het partner centrum **gebruikers beheer**.
-2. Filter op ofwel **globale beheerder** of **account beheerder**.
-3. U kunt ook naar **Mijn profiel** gaan, **rollen en machtigingen** selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen bij het verhogen van uw machtigingen.
+1. Selecteer in het pictogram Accountinstellingen rechtsboven Partner Center de optie **Gebruikersbeheer.**
+2. Filter op Globale **beheerder of** **Accountbeheerder.**
+3. U kunt ook naar Mijn profiel  **gaan,** Rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen.
  
-Zie [uw rol zoeken](find-your-role.md)voor meer informatie.  
+Zie Uw rol zoeken [voor meer informatie.](find-your-role.md)  
 
-## <a name="i-cant-access-incentives-using-my-credentials"></a>Ik krijg geen toegang tot prikkels met mijn referenties.
+## <a name="i-cant-access-incentives-using-my-credentials"></a>Ik heb geen toegang tot incentives met mijn referenties.
 
-De waarschijnlijke reden waarom u geen stimulansen ziet, is dat u niet over de juiste machtigingen beschikt. Gebruik de volgende procedure om dit probleem op te lossen.
+De waarschijnlijke reden dat u Incentives niet ziet, is dat u niet de juiste machtigingen hebt. Gebruik de volgende procedure om dit op te lossen.
 
-1. Meld u aan bij het [dash board van de partner centrum](https://partner.microsoft.com/dashboard/) met uw Azure AD-Tenant referenties (uw werk referenties). Als u zich niet kunt aanmelden, neemt u contact op met de globale beheerder van uw bedrijf.
+1. Meld u aan [bij Partner Center dashboard](https://partner.microsoft.com/dashboard/) met uw Azure AD-tenantreferenties (uw werkreferenties). Als u zich niet kunt aanmelden, neem dan contact op met de globale beheerder van uw bedrijf.
 
-2. Als u zich aanmeldt en u wordt gevraagd om te selecteren uit uw **werk account** of **persoonlijk account**, selecteert u **werk account**.
+2. Als u tijdens het aanmelden wordt gevraagd  om een keuze te maken uit uw werkaccount of **persoonlijke account,** selecteert **u Werkaccount.**
 
-3. Selecteer in het menu partner centrum **prikkels** en selecteer vervolgens **overzicht**. Als u geen gebruikers machtigingen voor prikkelt of prikkels hebt, worden de contact gegevens voor alle globale accounts en account beheerders van uw bedrijf weer gegeven. Neem contact op met een van deze beheerders om de rol van de stimulans te verkrijgen voor de vereiste MPN-Id's en stimulerings Programma's.
+3. Selecteer in Partner Center menu **Incentives** en selecteer vervolgens **Overzicht.** Als u geen incentives-beheerder of Incentives-gebruikersmachtigingen hebt, worden de contactgegevens voor alle globale beheerders en accountbeheerders van uw bedrijf weergegeven. Neem contact op met een van deze beheerders om de incentive-rol voor de vereiste MPN-ID's en incentive-programma's te verkrijgen.
 
-4. Als u al een rol voor Stimulanss beheerder hebt, ziet u de registraties voor uw bedrijf voor de MPN-Id's en stimulerings Programma's waarvoor u toegang hebt.
+4. Als u al een Incentives-beheerdersrol hebt, ziet u de inschrijvingen voor uw bedrijf voor de MPN-ID's en incentive-programma's waarvoor u toegang hebt.
 
-## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Er ontbreken enkele inschrijvingen op de overzichts pagina van prikkels.
+## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Sommige inschrijvingen ontbreken op de overzichtspagina met incentives.
 
-Als u een uitnodiging hebt ontvangen van of Inge schreven in, een prestatie programma dat niet meer zichtbaar is in het dash board, moet u controleren of u de juiste toegang hebt. Alleen gebruikers met de rol gebruiker of prikkel beheerder kunnen het programma zien. Zie [uw rol zoeken](./find-your-role.md).
+Als u een uitnodiging hebt ontvangen van of zich hebt geregistreerd bij een incentive-programma dat niet meer zichtbaar is in het dashboard, moet u controleren of u de juiste toegang hebt. Alleen gebruikers met de rol Incentive-gebruiker of Incentive-beheerder kunnen het programma zien. Zie [Uw rol zoeken.](./find-your-role.md)
 
-Als u uw rol of machtigingen wilt wijzigen, neemt u contact op met de globale account of de beheerder van uw bedrijf. Als u wilt weten wie deze personen zijn, raadpleegt u [uw globale beheerder zoeken](./find-your-role.md#find-your-global-admin).
+Als u uw rol of machtigingen wilt wijzigen, neem dan contact op met de globale beheerder of accountbeheerder van uw bedrijf. Lees Find your global admin (Uw globale beheerder zoeken) als u wilt weten wie [deze personen zijn.](./find-your-role.md#find-your-global-admin)
 
-Op de pagina overzicht worden alleen inschrijvingen weer gegeven die zijn gekoppeld aan het globale account van de partner (PGA) die is gekoppeld aan de Azure AD-Tenant. Als uw bedrijf meer dan één PGA heeft, moet u voor elk abonnement verschillende referenties hebben.
+Op de pagina Overzicht worden alleen inschrijvingen weergegeven die zijn gekoppeld aan het Partner Global Account (PGA) dat is gekoppeld aan de Azure AD-tenant. Als uw bedrijf meer dan één PGA heeft, moet u voor elke PGA verschillende referenties hebben.
 
-## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Met wie moet ik contact opnemen als ik een fout bericht ontvang of hulp nodig tijdens het inschrijvings proces?
+## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Met wie moet ik contact opnemen als ik een foutbericht krijg of hulp nodig heb tijdens het inschrijvingsproces?
 
-Er is een online ondersteunings service beschikbaar als u een probleem ondervindt in het gedeelte stimulansen van het dash board – Zie de ondersteunings optie (? Pictogram) in de rechter bovenhoek.
+Er is een onlineondersteuningsservice als u een probleem ondervindt in de sectie Incentives van het dashboard. Zie de ondersteuningsoptie (? Pictogram) in de rechterbovenbalk.
 
 ## <a name="next-steps"></a>Volgende stappen
 
