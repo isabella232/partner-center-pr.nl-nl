@@ -1,6 +1,6 @@
 ---
 title: Uw partneraccount samenvoegen met een ander partneraccount
-description: 'Meer informatie over het samen voegen van uw partner account met een ander partner account in Partner Center: voor bedrijven die actief zijn van micro soft-partners in het partner centrum.'
+description: Meer informatie over het samenvoegen van uw partneraccount met een ander partneraccount in Partner Center - voor bedrijven die actieve Microsoft-partners zijn in Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -8,126 +8,124 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133060"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146507"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Uw partneraccount samenvoegen met een ander partneraccount
 
-**Juiste rollen**
+**Juiste rollen:** Accountbeheerder
 
-- Accountbeheerder
+Twee of meer bedrijven die actieve Microsoft-partners zijn en accounts hebben in Partner Center kunnen ervoor kiezen om hun accounts samen te voegen.
 
-Twee of meer bedrijven die actieve micro soft-partners zijn en accounts in het partner centrum hebben, kunnen ervoor kiezen om hun accounts samen te voegen.
+## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>Wat gebeurt er wanneer twee partners ervoor kiezen om hun Partner Center voegen
 
-## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>Wat gebeurt er wanneer twee partners kiezen om hun partner Center-accounts samen te voegen?
+- De partnerorganisatie die de samenvoeging initieert, wordt het Partner Global Account (PGA).
 
-- De partner organisatie die de samen voeging initieert, is het wereld wijde partner account (PGA).
+- De PGA van de uitgenodigde organisatie wordt een locatie van het startende bedrijf.
 
-- De PGA van de uitgenodigde organisatie wordt een locatie van het initiërende bedrijf.
+- Alle locaties van het samenvoegingsaccount worden locaties onder de PGA.
 
-- Alle locaties van het samenvoegings account worden locaties onder het PGA.
+- Zodra de samenvoeging van het account is voltooid, ziet u de details van het account, zoals de locaties en gebruikers in het PGA-profiel. U kunt dit proces niet ongedaan maken.
 
-- Zodra de fusie van het account is voltooid, ziet u de details van het account, zoals locaties en gebruikers binnen het PGA-profiel. U kunt dit proces niet omkeren.
+- Alle MPN-ID's voor locaties blijven behouden tijdens deze consolidatie.
 
-- Alle MPN-Id's voor locaties blijven behouden tijdens deze consolidatie.
-
-- Rollen van de gebruiker worden overgezet. Als een gebruiker bijvoorbeeld de stimulanss beheerder voor een specifieke locatie had, zouden ze nog steeds na de fusie de rol hebben en de prikkels kunnen zien die ze vóór de fusie hadden gezien.
+- De rollen van de gebruiker worden meegenomen. Als een gebruiker bijvoorbeeld de beheerder van incentives was geweest voor een specifieke locatie, zou deze die rol na de fusie nog steeds hebben en de incentives kunnen zien die ze vóór de fusie hebben gezien.
 
 - Azure AD-tenants en CSP-accounts worden niet samengevoegd en hebben geen effect.
 
-- Gepubliceerde aanbiedingen en pijplijn gegevens die aan beide bedrijven zijn gekoppeld, blijven behouden
+- Gepubliceerde aanbiedingen en pijplijngegevens voor co-verkoop die aan beide bedrijven zijn gekoppeld, blijven behouden
 
-### <a name="view-of-merged-accounts"></a>Weer gave van samengevoegde accounts
+### <a name="view-of-merged-accounts"></a>Weergave van samengevoegde accounts
 
-:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Account fusie":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Samenvoeging van account":::
 
-## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Wat u kunt verwachten als u bent uitgenodigd om uw partner Center-account samen te voegen met een ander partner centrum-account
+## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Wat u kunt verwachten als u bent uitgenodigd om uw Partner Center-account samen te voegen met een ander Partner Center account
 
-Als u besluit de uitnodiging voor het samen voegen van accounts te accepteren: · Uw MPN-ID ('s) en locaties worden samengevoegd in de PGA van het partner account dat u hebt uitgenodigd.
+Als u besluit de uitnodiging voor het samenvoegen van accounts te accepteren: · Uw MPN-id('s) en -locaties worden samengevoegd in de PGA van het partneraccount dat u heeft uitgenodigd.
 
-- Uw gebruikers worden met hun rollen naar het samengevoegde account gebracht.
+- Uw gebruikers worden in het samengevoegde account gebracht met hun rollen intact.
 
-- Bestaande voor delen en competenties blijven behouden voor beide bedrijven na de fusie tot verlenging. Bij de verlenging worden de accounts behandeld als één bedrijf en regels voor standaard vernieuwing van toepassing.
+- Bestaande voordelen en competenties blijven behouden voor beide bedrijven na de fusie tot de verlenging. Bij verlenging worden de accounts behandeld als één bedrijf en gelden standaardregels voor verlenging.
 
-## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>Meer informatie over de gevolgen voor Program ma's en voor delen wanneer partners kiezen voor het samen voegen van accounts
+## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>Inzicht in de gevolgen voor programma's en voordelen wanneer partners ervoor kiezen om accounts samen te voegen
 
-- Alle bestaande competenties (goud/zilver), aankopen (zoals micro soft Action Pack) en gekoppelde voor delen blijven behouden tijdens de consolidatie. Als beide bedrijven dezelfde competentie hebben, maar één van de Gold en de andere Silver, wordt de competentie met het hoogste niveau van kennis toegekend en hebben partners één set zilver voordelen en één set voor delen van goud voor die competentie tot de volgende verlenging. 
+- Alle bestaande competenties (Gold/Silver), aankopen (zoals Microsoft Action Pack) en bijbehorende voordelen blijven behouden tijdens consolidatie. Als beide bedrijven dezelfde competentie hebben, maar de ene is goud en het andere zilver, wordt de competentie met het hoogste vaardigheidsniveau toegekend en hebben partners één set met silver-voordelen en één set goudvoordelen voor die competentie tot de volgende verlenging. 
 
-- De hoogste jubileum datum voor micro soft-Action Pack wordt na de fusie bewaard. Als bijvoorbeeld de jubileum datum voor bedrijf 1 juni 2020 is voor Action Pack verlenging en de jubileum datum voor Action Pack verlenging voor bedrijf 2 oktober 2020, zal micro soft de datum van oktober 2020 gebruiken als de nieuwe jubileum datum voor het samengevoegde bedrijf.
+- De hoogste jubileumdatum voor Microsoft Action Pack behouden na de fusie. Als de jubileumdatum voor bedrijf 1 bijvoorbeeld juni 2020 is voor Action Pack-verlenging en de jubileumdatum voor de Action Pack-verlenging voor bedrijf 2 oktober 2020 is, gebruikt Microsoft de datum oktober 2020 als de nieuwe jubileumdatum voor het samengevoegde bedrijf.
 
-- Tijdens de fusie van het account en tot de volgende verlenging behoudt elk account hun Action Pack en/of competentie-voor delen. Tijdens de verlenging zijn de regels standaard Action Pack en competentie-verlenging van toepassing.
+- Tijdens de samenvoeging van het account en tot de volgende verlenging, behoudt elk account de voordelen Action Pack en/of competentie. Bij verlenging zijn standaardregels voor Action Pack en competentievernieuwing van toepassing.
 
-- Na de verlenging worden de voor delen die zijn opgenomen in de competentie en Action Pack, geïmplementeerd voor het wereld wijde account van de partner bedrijf:
+- Na verlenging worden voordelen die zijn opgenomen in het competentie-bereik en Action Pack geïmplementeerd voor het globale partneraccount van het partnerbedrijf:
 
-  - Micro soft Action Pack: het partner bedrijf kan een Action Pack per partner-globaal account kopen.
+  - Microsoft Action Pack: Het partnerbedrijf kan één account Action Pack globale partneraccount aanschaffen.
 
-  - Competentie: het partner bedrijf ontvangt één pakket met kern voordelen dat is gekoppeld aan de hoogste verwezenlijking, plus competentie-specifieke voor delen die de partner in aanmerking komt voor het globale account per partner.
+  - Competentie: Het partnerbedrijf ontvangt één pakket kernvoordelen, gekoppeld aan het hoogst haalbare bereik, plus competentiespecifieke voordelen die de partner in aanmerking komt voor een algemeen partneraccount.
 
-- Alle voor delen zijn onderhevig aan de [gebruiks gids voor de Microsoft Partner Network-voor delen](https://aka.ms/partner-benefits-use-guide). Bijvoorbeeld: een geactiveerde O365 E3-token werkt gedurende 12 maanden na de activering. Zodra een token is geactiveerd voor licenties op een Tenant, kunnen deze licenties niet worden verplaatst naar een andere Tenant.
+- Alle voordelen zijn onderhevig aan de [gebruikshandleiding Microsoft Partner Network voordelen.](https://aka.ms/partner-benefits-use-guide) Bijvoorbeeld: een geactiveerd O365 E3-token is 12 maanden na activering functioneel. Zodra een token is geactiveerd voor licenties op een tenant, worden deze licenties mogelijk niet verplaatst naar een andere tenant.
 
-- De ID-koppelingen voor beide bedrijven worden bewaard en gekoppeld aan de PGA MPN-ID.
+- De MCP-id-associaties voor beide bedrijven worden bewaard en gekoppeld aan de MPN-id van de PGA.
 
-- Go-to-Market en technische voor delen worden aangeboden als competentie core-voor deel. Na het samen voegen is het raadzaam om uw bank en belasting gegevens te controleren om de nauw keurigheid te garanderen.
+- Go-to-market en technische voordelen worden aangeboden als competentie-kernvoordeel. Na de samenvoeging is het raadzaam dat u uw bank- en belastinggegevens controleert om de nauwkeurigheid te controleren.
 
-- Als uw bedrijf zich in het Azure expert MSP-programma bevindt, worden de voor delen bewaard tot het abonnement is verlengd.
+- Als uw bedrijf zich in het Azure Expert MSP,blijven voordelen behouden tot de verlenging.
 
-- Als uw bedrijf geavanceerde specials heeft verdiend, worden deze behouden voor beide accounts.
+- Als uw bedrijf geavanceerde specialisaties heeft verdiend, worden deze bewaard in beide accounts.
 
-- Alle Software Assurance-boek stukken worden in beide accounts bewaard. 
+- Alle softwaregarantiegaranties worden op beide accounts bewaard. 
 
-- Er is geen effect op de koppeling DPOR of PAL. Eventuele gekoppelde omzet bijdragen gaan in op het nieuwe globale partner account
+- Er is geen effect op DPOR of PAL-associatie. Eventuele bijbehorende bijdragen aan de omzet stromen naar het nieuwe globale partneraccount
 
-## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Een bedrijf uitnodigen om het partner centrum-account samen te voegen met uw partner centrum-account
+## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Een bedrijf uitnodigen om zijn of haar Partner Center account samen te voegen met uw Partner Center account
 
 >[!Note]
->Als u de account fusie wilt uitvoeren, moet u de **account beheerder** zijn voor uw bedrijf.
+>Als u de account wilt laten samenvoegen, moet u de **accountbeheerder voor** uw bedrijf zijn.
 
-1. Selecteer **instellingen** in het dash board van uw partner centrum. 
+1. Selecteer **Instellingen** in uw Partner Center dashboard. 
 
-2. Selecteer **account samen voegen**.
+2. Selecteer **Account samenvoegen.**
 
-3. Voeg de MPN-ID toe die zich bevindt in het **partner profiel** van het account dat u wilt uitnodigen om met u samen te voegen. U moet de wereld wijde MPN-ID van de partner gebruiken. U kunt geen locatie MPN-ID gebruiken.
+3. Voeg de MPN-id toe in het **partnerprofiel** van het account dat u wilt uitnodigen om samen te voegen met u. U moet de globale MPN-id van de partner gebruiken. U kunt geen MPN-id voor de locatie gebruiken.
 
-4. Wanneer u **samen voegen** selecteert, wordt er een uitnodiging verzonden naar het partner bedrijf. Wanneer de gebruiker uw aanvraag accepteert, kunt u het samen voegen van accounts in het partner centrum starten. Als het bedrijf uw aanvraag weigert om accounts samen te voegen, kunnen ze uitleggen waarom ze de aanvraag hebben afgewezen. Er is een lijst met al uw account samenvoegingen beschikbaar onder de **samenvoeg geschiedenis**.
+4. Wanneer u Samenvoegen **selecteert,** wordt er een uitnodiging verzonden naar het partnerbedrijf. Wanneer ze uw aanvraag accepteren, kunt u de samenvoeging van het account binnen de Partner Center. Als het bedrijf uw aanvraag voor het samenvoegen van accounts weigert, kan het bedrijf uitleggen waarom de aanvraag is afgewezen. Een lijst met al uw account-samenvoegingen is voor u beschikbaar onder **Samenvoeggeschiedenis.**
  
-### <a name="example-of-two-companies-merging-accounts"></a>Voor beeld van twee bedrijven die accounts samen voegen
+### <a name="example-of-two-companies-merging-accounts"></a>Voorbeeld van het samenvoegen van accounts door twee bedrijven
 
-1. Contoso, Ltd. heeft 
+1. Contoso Ltd. heeft 
 
-    a. een [globale MPN-id van 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) en één onderliggende [locatie MPN-id's van 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+    a. een [algemene MPN-id van 1111111 en](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) één onderliggende locatie [MPN-id's van 2222222.](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)
   
-    b. een Azure AD-Tenant = @contoso.com
+    b. een Azure AD-tenant = @contoso.com
  
-    c. een Gold-competentie die verloopt op 1 oktober 2020
+    c. een gold-competentie die verloopt op 1 oktober 2020
 2. Fabrikam, Inc. heeft
  
-    a.  een globale MPN-ID van 3333333 en twee onderliggende locatie MPN-Id's van 4444444 en 5555555
+    a.  een globale MPN-id van 3333333 en twee onderliggende locatie MPN-id's van 4444444 en 5555555
 
-    b.  een Azure AD-Tenant = @fabrikam.com
+    b.  een Azure AD-tenant = @fabrikam.com
 
-    c.  twee Gold-competenties die verlopen op 1 december 2020
-3.  Contoso koopt Fabrikam en gaat [hier](https://partner.microsoft.com/dashboard/account/merger) om een aanvraag voor samen voegen te initiëren.
-4.  Fabrikam meldt zich aan bij partner centrum en gaat naar dezelfde pagina als contoso in stap #3, om de aanvraag van Contoso goed te keuren.
-5.  Contoso controleert de details van de samen voeging op diezelfde pagina en geeft een bevestiging om door te gaan met de account fusie.
-6.  Na de fusie wordt het bedrijfs account als volgt weer gegeven:
+    c.  twee goudkleurige competenties die op 1 december 2020 verlopen
+3.  Contoso koopt Fabrikam en gaat hier [een](https://partner.microsoft.com/dashboard/account/merger) samenvoegingsaanvraag initiëren.
+4.  Fabrikam meldt zich aan Partner Center en gaat naar dezelfde pagina als Contoso in stap #3 om de aanvraag van Contoso goed te keuren.
+5.  Contoso controleert de details van de samenvoeging op dezelfde pagina en geeft een bevestiging om door te gaan met de samenvoeging van het account.
+6.  Na de fusie wordt het bedrijfsaccount weergegeven als:
 
-    a.  Een bedrijf met de naam contoso met een globale MPN-ID van 1111111 en 4 ondergeschikte locatie MPN-Id's van 2222222, 3333333, 4444444 en 5555555
+    a.  Een bedrijf met de naam Contoso met de globale MPN-id 1111111 en 4 onderliggende locatie MPN-id's van 22222222, 3333333, 4444444 en 55555555
     
-    b.  Het heeft twee Azure AD-tenants ( @contoso.com + @fabrikam.com ) die toegang hebben tot hetzelfde partner centrum-account
+    b.  Het heeft twee Azure AD-tenants ( @contoso.com + ) die toegang hebben tot hetzelfde @fabrikam.com Partner Center account
     
-    c.  Het heeft twee competentie voordelen, een die verloopt op 1 oktober 2020 en een andere die verloopt op 1 december 2020. Ze kunnen op 1 december 2020 worden vernieuwd als een pakket met enkele competentie voordelen. Wanneer ze worden vernieuwd, behoudt contoso alle drie de competenties, zelfs als ze slechts één voor delen van het pakket kunnen onderhouden.
+    c.  Het heeft twee pakketten met competentievoordelen: één pakket dat verloopt op 1 oktober 2020 en een pakket dat op 1 december 2020 verloopt. Ze kunnen op 1 december 2020 vernieuwen als één pakket met competentievoordelen. Wanneer ze worden vernieuwd, behoudt Contoso alle drie de competenties, ook al kunnen ze slechts één voordelenpakket onderhouden.
     
-7.  De beheerders van Contoso blijven het beheer van de functies van het partner centrum voor @contoso.com gebruikers. De beheerders van Fabrikam blijven het beheer van de functies van het partner centrum voor @fabrikam.com gebruikers. Beheerders van Contoso kunnen de gebruikers van Fabrikam alleen beheren als ze worden uitgenodigd als een gast in de Tenant van fabrikam.
-8.  Contoso kan besluiten de Tenant te negeren @fabrikam.com en de nieuwe referenties van de fabrikam-werk nemers opnieuw uitgeven @contoso.com met nieuwe rollen en machtigingen.
+7.  De beheerders van Contoso blijven de Partner Center voor @contoso.com gebruikers beheren. De beheerders van Fabrikam blijven de Partner Center voor @fabrikam.com gebruikers beheren. De beheerders van Contoso kunnen de gebruikers van Fabrikam alleen beheren als ze als gast worden uitgenodigd in de tenant van Fabrikam.
+8.  Contoso kan besluiten om de tenant te negeren en de nieuwe referenties van Fabrikam-werknemers opnieuw toe te geven met @fabrikam.com @contoso.com nieuwe rollen en machtigingen.
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Beheerdersrollen en -machtigingen toewijzen](permissions-overview.md)
 
-- [Uw partner Profiel gegevens verifiëren](update-your-partner-profile.md)
+- [Uw partnerprofielgegevens verifiëren](update-your-partner-profile.md)
 
-- [Voeg Shared Services van Azure-partners toe zodat partners Azure-abonnementen kunnen kopen voor hun eigen gebruik](shared-services.md)
+- [Voeg Azure Partner Shared Services zodat partners Azure-abonnementen voor hun eigen gebruik kunnen kopen](shared-services.md)

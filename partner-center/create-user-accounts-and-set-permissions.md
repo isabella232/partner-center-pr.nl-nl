@@ -1,6 +1,6 @@
 ---
-title: Gebruikers accounts maken en rollen toewijzen
-description: Aan elke werk nemer moet een rol worden toegewezen voordat ze toegang krijgen tot het partner centrum. Meer informatie over het maken van gebruikers accounts, het toewijzen van rollen en het instellen van machtigingen.
+title: Gebruikersaccounts maken en rollen toewijzen
+description: Aan elke werknemer moet een rol worden toegewezen voordat deze toegang heeft tot Partner Center. Meer informatie over het maken van gebruikersaccounts, het toewijzen van rollen en het instellen van machtigingen.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,47 +9,43 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492531"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148139"
 ---
 # <a name="create-user-accounts"></a>Gebruikersaccounts maken  
 
-**Juiste rollen**
+**Juiste rollen:** Accountbeheerder | Globale beheerder | Beheerder van gebruikersbeheer
 
-- Accountbeheerder
-- Globale beheerder
-- Beheerder van gebruikers beheer
-
-Maak gebruikers accounts voor werk nemers die toegang nodig hebben tot het partner centrum. Deze taken moeten worden uitgevoerd door de beheerder voor gebruikers beheer, de account beheerder of de globale beheerder. De gebruiker die deze taken uitvoert, moet ook worden toegewezen aan de Azure Active Directory (AAD) rollen van gebruikers beheerder of globale beheerder. Zie [Administrator role permissions](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)(Engelstalig) in azure Active Directory voor meer informatie over Aad-rollen.
+Maak gebruikersaccounts voor werknemers die toegang tot de Partner Center. Deze taken moeten worden uitgevoerd door de beheerder van het gebruikersbeheer, de accountbeheerder of de globale beheerder. Aan de gebruiker die deze taken uitvoert, moeten ook de AAD Azure Active Directory rollen Gebruikersbeheerder of Gebruikersaccount Globale beheerder. Zie Machtigingen voor beheerdersrollen in Azure Active Directory voor [meer informatie over AAD-Azure Active Directory.](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)
 
 ## <a name="add-a-new-user"></a>Een nieuwe gebruiker toevoegen
 
-1. Selecteer op het pictogram **instellingen** in de rechter bovenhoek van het partner centrum **account instellingen** en selecteer vervolgens **gebruikers beheer**.
+1. Selecteer in **het** pictogram Instellingen in de rechterboven Partner Center de optie **Accountinstellingen** en selecteer **vervolgens Gebruikersbeheer.**
 
 2. Selecteer **Gebruiker toevoegen**.
 
-3. Voer de volledige naam en het unieke e-mail adres van de gebruiker in.
+3. Voer de volledige naam en het unieke e-mailadres van de gebruiker in.
 
-4. Selecteer het type agent en/of het type beheerder dat u wilt toewijzen aan de gebruiker. Toegang tot partner Center is op rollen gebaseerd, zodat u machtigingen kunt toewijzen om de weer gave van de gebruiker aan te passen, zodat alleen de functies worden weer gegeven die de gebruiker nodig heeft om specifieke taken uit te voeren.  Als gebruikers een roltoewijzing willen, kunnen ze globale beheerders vinden om contact op te nemen door te gaan naar **gebruikers beheer** en filteren op globale beheerder.
+4. Selecteer het type agent en/of het type beheerder dat u aan de gebruiker wilt toewijzen. Partner Center toegang is gebaseerd op rollen, zodat u machtigingen kunt toewijzen om de weergave van de gebruiker aan te passen, zodat alleen de functies worden weergeven die de gebruiker nodig heeft om specifieke taken uit te voeren.  Als gebruikers een roltoewijzing willen, kunnen ze globale beheerders vinden om contact mee op te nemen door naar **Gebruikersbeheer** te gaan en te filteren op globale beheerder.
 
 5. Selecteer **Toevoegen** om het gebruikersaccount te maken. Bevestig de details van de gebruiker op de volgende pagina.
 
 > [!IMPORTANT]  
-> Noteer de aanmeldings gegevens voor de nieuwe gebruiker die op deze pagina worden weer gegeven. Zorg ervoor dat u deze informatie kopieert en naar de nieuwe gebruiker verzendt, omdat u deze later niet meer kunt openen. 
+> Noteer de aanmeldingsgegevens van de nieuwe gebruiker die op deze pagina worden weergegeven. Zorg ervoor dat u deze informatie kopieert en naar de nieuwe gebruiker verzendt, aangezien u deze later niet meer kunt openen. 
 
-De gebruiker moet zich bij het partner centrum aanmelden met de gebruikers naam en het tijdelijke wacht woord. Wanneer de gebruiker zich voor de eerste keer aanmeldt bij het partner centrum, wordt u gevraagd om het wacht woord te wijzigen.
+De gebruiker moet zich aanmelden bij de Partner Center met zijn gebruikersnaam en tijdelijk wachtwoord. Wanneer de gebruiker zich voor het eerst Partner Center, wordt de gebruiker gevraagd het wachtwoord te wijzigen.
 
-## <a name="assign-user-roles"></a>Gebruikers rollen toewijzen
+## <a name="assign-user-roles"></a>Gebruikersrollen toewijzen
 
-U moet een toegewezen rol hebben om in het partner centrum te kunnen werken.  Rollen omvatten momenteel Azure Active Directory Tenant rollen, functies van Cloud Solution Provider (CSP) en niet-AAD-bedrijfs rollen. Een individueel bedrijf kan al deze rollen nodig hebben.
+Als u in de Partner Center, moet u een toegewezen rol hebben.  Rollen omvatten momenteel Azure Active Directory tenantrollen, Cloud Solution Provider (CSP)-rollen en niet-AAD-bedrijfsrollen. Een individueel bedrijf kan al deze rollen nodig hebben.
 
 >[!Important]
->Personen moeten worden vermeld in uw Tenant om toegang te krijgen tot het partner centrum. Roltoewijzingen bieden extra toegang.
+>Personen moeten worden vermeld in uw tenant om toegang te krijgen tot Partner Center. Roltoewijzingen bieden extra toegang.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Gebruikers rollen en-machtigingen toewijzen aan werk nemers die moeten werken in het partner centrum](permissions-overview.md)
+- [Gebruikersrollen en -machtigingen toewijzen aan werknemers die in een Partner Center](permissions-overview.md)

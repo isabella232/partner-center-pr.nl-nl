@@ -1,6 +1,6 @@
 ---
-title: Overzicht van plannen en controle schema's
-description: Meer informatie over de belangrijkste documenten die nodig zijn voor stimulansen, waaronder een claim abonnement op het niveau van een mede-op-verzoek en een gedetailleerde test voor de uitvoering (PoE).
+title: Overzicht van plannen en bewijs van uitvoering
+description: Meer informatie over de belangrijkste documenten die nodig zijn voor incentives, waaronder een plan voor claims voor incentives voor samenwerking en een gedetailleerd bewijs van uitvoering (PoE).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,48 +8,45 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179170"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146745"
 ---
-# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Gebruik deze bronnen om u te helpen bij het maken van stimulerings plannen en het controleren van de uitvoering
+# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Gebruik deze resources om incentives-plannen en bewijs van uitvoering te maken
 
-**Juiste rollen**
+**Juiste rollen:** Incentives-| Incentives-gebruiker
 
-- Prikkel beheerder
-- Prikkel gebruiker
+In dit artikel worden enkele van de belangrijkste documenten beschreven die u nodig hebt om succesvol te zijn en betaald te krijgen voor uw werk in een specifiek incentives-programma. Deze documenten omvatten:
 
-In dit artikel worden enkele van de belangrijkste documenten beschreven die u nodig hebt om succesvol te zijn en te betalen voor uw werk in een specifiek programma voor prikkels. Deze documenten zijn onder andere:
+- Een claimplan voor incentives voor samenwerking
+- Een gedetailleerd bewijs van uitvoering (PoE)
 
-- Een claim abonnement op het niveau van prikkels
-- Een gedetailleerd testen van de uitvoering (PoE)
+Afhankelijk van het type incentives-programma dat u hebt ingeschreven, zijn uw co-opclaimplan voor incentives en uw PoE (Proof of Execution) een succes voor u met incentives.
 
-Afhankelijk van het type prikkelings programma dat u hebt Inge schreven, is uw claim abonnement op het niveau van de mede werkers en uw testen van de uitvoering (PoE) een instrument voor uw succes met prikkels.
+## <a name="what-is-an-incentives-co-op-claims-plan"></a>Wat is een claimplan voor incentives voor samenwerking?
 
-## <a name="what-is-an-incentives-co-op-claims-plan"></a>Wat is een mede-op-claim abonnement op het niveau van een stimulans?
+Een claimplan voor incentives voor samenwerking beschrijft de marketingcampagnes, activiteiten en andere details die nodig zijn om uw programma succesvol te maken. Zodra u dit plan hebt gemaakt, dient u het voor goedkeuring in bij Microsoft. Meer informatie over het [maken van uw plan](incentives-create-your-plan.md).
 
-Met een claim plan op het niveau van een stimulans worden de marketing campagnes, activiteiten en andere gegevens beschreven die nodig zijn om uw programma een succes te maken. Zodra u dit abonnement hebt gemaakt, stuurt u het naar micro soft om goed te keuren. Meer informatie over [het maken van uw abonnement](incentives-create-your-plan.md).
+## <a name="what-is-a-proof-of-execution-poe"></a>Wat is een bewijs van uitvoering (PoE)?
 
-## <a name="what-is-a-proof-of-execution-poe"></a>Wat is een test van de uitvoering (PoE)?
+Nadat u bent betaald voor uw incentives-werk, moet u een gedetailleerd bewijs van uitvoering (PoE) indienen bij Microsoft. Uw PoE kan details bevatten over een gerelateerde campagne, de datum waarop een incentives-activiteit heeft plaatsgevonden en het geclaimde bedrag. 
 
-Nadat u voor uw prikkel werkzaamheden hebt betaald, moet u een gedetailleerde test voor de uitvoering (PoE) naar micro soft verzenden. Uw PoE kan informatie bevatten over alle gerelateerde campagnes, de datum waarop een prikkel activiteit is uitgevoerd en de hoeveelheid die is geclaimd. 
+Meer informatie over [het voorbereiden van bewijs van uitvoering.](incentives-prepare-your-proof-of-execution.md)
 
-Meer informatie over het [voorbereiden van het uitvoeren van controle](incentives-prepare-your-proof-of-execution.md).
+## <a name="incentives-document-resources"></a>Resources voor Incentives-documenten
 
-## <a name="incentives-document-resources"></a>Prikkel document bronnen
-
-In de volgende bronnen wordt uitgelegd hoe u deze belangrijkste prikkel documenten kunt ordenen, maken en bewerken. Ook wordt beschreven wat u moet doen als micro soft uw claim goedkeurt of als een claim wordt afgewezen.
+In de volgende resources wordt uitgelegd hoe u deze belangrijke incentives-documenten kunt organiseren, maken en bewerken. Ook wordt beschreven wat u moet doen als Microsoft uw claim goedkeurt of als een claim wordt afgewezen.
 
 |  **Om dit te doen**  |  **Leest u**  |
 |--------------|-----------|
-| Meer informatie over het maken van een mede-op-claim plan voor stimulansen | [Uw plan maken](incentives-create-your-plan.md)  |
-Meer informatie over het maken van een testen van de uitvoering | [Uw bewijs van uitvoering voorbereiden](incentives-prepare-your-proof-of-execution.md)  |
+| Meer informatie over het maken van een coöpclaimplan voor incentives | [Uw plan maken](incentives-create-your-plan.md)  |
+Meer informatie over het maken van een bewijs van uitvoering | [Uw bewijs van uitvoering voorbereiden](incentives-prepare-your-proof-of-execution.md)  |
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - Meer informatie over [het maken van uw eigen abonnement](incentives-create-your-plan.md)
-- Meer informatie over het [claim proces voor het stimuleren van een mede-op-verzoek](claims-overview.md)
-- Meer informatie over [het stimuleren van klant koppelingen met behulp van het CPOR-model](submit-osa-claim.md)
+- Meer informatie over het [proces van claims voor incentives voor samenwerking](claims-overview.md)
+- Meer informatie over [incentives voor klantorganisaties met behulp van het CPOR-model](submit-osa-claim.md)

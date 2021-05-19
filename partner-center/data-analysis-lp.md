@@ -1,79 +1,76 @@
 ---
-title: Analytics gebruiken voor abonnements inzichten
+title: Analyse gebruiken voor abonnementsinzichten
 ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het gebruik van analyses in Partner Center om beter inzicht te krijgen in uw bedrijf en hoe uw klanten gebruikmaken van de licenties die u hebt aangeschaft.
+description: Meer informatie over het gebruik van analyses in Partner Center om meer inzicht te krijgen in uw bedrijf en hoe uw klanten de licenties gebruiken die u hebt aangeschaft.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441877"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147204"
 ---
-# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Gebruik Analytics om meer te weten te komen over abonnements opbrengsten
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Analyse gebruiken voor meer informatie over de omzet van abonnementen
 
-**Juiste rollen**
+**Juiste rollen:** globale | MPN-partnerbeheerder
 
-- Globale beheerder
-- MPN-partner beheerder
+Als u manieren wilt plannen om uw CSP-bedrijf te ontwikkelen, moet u weten hoe uw klanten hun Microsoft-producten gebruiken. U hebt verschillende opties voor het verzamelen van gegevens in Partner Center en u kunt gegevens verzamelen over zowel uw bedrijf als over of en hoe uw klanten de licenties gebruiken die ze hebben aangeschaft. Als u het directe CSP-model gebruikt, hebt u ook de mogelijkheid om de Analyse-app van het Partnercentrum voor Power BI te installeren en te gebruiken om aanvullende gegevens te verzamelen.
 
-Als u manieren wilt plannen om uw CSP-bedrijf te ontwikkelen, moet u weten hoe uw klanten hun Microsoft-producten gebruiken. U hebt verschillende mogelijkheden voor het verzamelen van gegevens in partner centrum en u kunt gegevens verzamelen over uw bedrijf en op of en hoe uw klanten de door hen gekochte licenties gebruiken. Als u zich in het direct model van de cryptografie provider bevindt, kunt u ook de Partner Center Analytics-App voor Power BI installeren en gebruiken om meer gegevens te verzamelen.
+## <a name="access-to-the-subscription-analytics"></a>Toegang tot de Subscription Analytics
 
-## <a name="access-to-the-subscription-analytics"></a>Toegang tot de abonnements analyse
+1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).
+1. Selecteer in CSP in Partner Center menu analyseren **en** selecteer vervolgens **Abonnementsanalyse.**
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard/home)van de partner centrum.
-1. Selecteer **analyseren** in het menu Partner Center en selecteer vervolgens **abonnement Analytics**.
+1. De na twaalf maanden volgende CSP-omzet wordt boven aan de pagina weergegeven
 
-1. De afsluitende CSP-omzet van twaalf maanden wordt boven aan de pagina weer gegeven
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Abonnementsscherm":::
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Scherm abonnement":::
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>CSP-Twelve-Month (TTM) volgen
 
-## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Achterstallige Twelve-Month (TTM) CSP-omzet
+Na 12 maanden vertegenwoordigt de CSP-omzet de Cloud Solution Provider programma-omzet in USD op het niveau van een algemeen partneraccount. De gegevens worden vernieuwd op de zesde dag van elke maand, om de twaalfmaandse omzet tot de vorige maand weer te geven. Op 9 september 2020 ziet u bijvoorbeeld de TTM voor de vaste periode van september 2019 tot augustus 2020.
 
-Afsluitende CSP-omzet van 12 maanden vertegenwoordigt de achterstallige Cloud Solution Provider-programma opbrengst in USD op het globale account niveau van de partner. De gegevens worden vernieuwd op het achtste van elke maand, zodat de afsluitende omzet van twaalf maanden wordt weer gegeven tot de vorige maand. Bijvoorbeeld: op 9 september 2020 kunt u de TTM voor de vaste periode van 2019 tot augustus 2020 zien.
+De omzet die wordt weergegeven Partner Center wordt berekend voor een vast tijdsinterval van 12 maanden en kan niet worden gewijzigd in een kortere periode.
 
-De omzet die wordt weer gegeven in het partner centrum wordt berekend voor een vast tijds interval van 12 maanden en kan niet worden gewijzigd in een kortere periode.
+Een uitsplitsing van de omzet op het niveau van uw partnerlocatieaccount bekijken:
 
-Een uitsplitsing van de inkomsten op het account niveau van uw partner locatie bekijken:
-
-- Selecteer de koppeling Details downloaden en down load een. TSV-bestand met de TTM-omzet over al uw locaties.
+- Selecteer de koppeling Downloaddetails en download een TSV-bestand dat de TTM-omzet voor al uw locaties we bekijken.
 
 >[!NOTE] 
->Het optellen van de afzonderlijke TTM-omzet cijfers in MPN-Id's in het TSV-bestand kan groter zijn dan de totale omzet van TTM die u in het partner centrum ziet staan. De reden hiervoor is dat de omzet kan worden verdubbeld voor abonnementen met meerdere partner-toewijzings bewerkingen in het gedownloade bestand.
+>Het opsommen van de afzonderlijke TTM-omzetnummers over MPN-ID's in het TSV-bestand lijkt mogelijk groter te zijn dan de totale TTM-omzet die wordt weergegeven op Partner Center. Dit komt doordat de omzet dubbel kan worden geteld voor abonnementen met meerdere partnervermeldingen in het gedownloade bestand.
 
-## <a name="subscription-summary"></a>Samen vatting van abonnement
+## <a name="subscription-summary"></a>Abonnementsoverzicht
 
-In de onderste helft van het scherm wordt een samen vatting van de abonnementen weer gegeven. Gebruik de volgende filters om de vereiste abonnements details te bekijken:  
+In de onderste helft van het scherm wordt een samenvatting van de abonnementen weergegeven. Gebruik de volgende filters om de benodigde abonnementsgegevens te bekijken:  
 
-1. **Duur**: u kunt ervoor kiezen om het abonnements overzicht voor te bekijken 
+1. **Duur:** u kunt ervoor kiezen om het abonnementsoverzicht voor weer te geven 
 
-- 30D – afgelopen 30 dagen
-- 3 meter – afgelopen drie maanden
-- 6 min. – afgelopen 6 maanden
-- 12M – afgelopen 12 maanden
+- 30D : afgelopen 30 dagen
+- 3M : afgelopen 3 maanden
+- 6M : afgelopen 6 maanden
+- 12 miljoen – afgelopen 12 maanden
 
-2. **Product type**:
+2. **Producttype:**
  
 - Office 365
 - Microsoft 365
 - Dynamics 365
 - EMS
 
-Het Toep assen van deze filters heeft geen invloed op de TTM-opbrengst boven aan dit rapport.
+Het toepassen van deze filters heeft geen invloed op de metrische TTM-omzet boven aan dit rapport.
 
 
  
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Analyseer hoe uw klanten de aangeschafte licenties gebruiken](increasing-adoption-and-satisfaction.md)  
+- [Analyseren hoe uw klanten de licenties gebruiken die ze hebben aangeschaft](increasing-adoption-and-satisfaction.md)  
 - [Activiteitenlogboeken voor klanten weergeven](activity-logs.md)
-- [Partner Center Analytics-App voor Power BI](power-bi-app-for-direct-partners.md)
+- [Analyse-app van het Partnercentrum voor Power BI](power-bi-app-for-direct-partners.md)
 
 
 

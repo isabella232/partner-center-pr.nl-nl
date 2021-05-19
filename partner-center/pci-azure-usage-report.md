@@ -1,84 +1,79 @@
 ---
-title: Partner centrum Insights-gebruiks rapport voor Azure
+title: Partner Center Insights Azure-gebruiksrapport
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bekijk wat u goed doet en waar u uw gebruik van Azure-abonnementen kunt verbeteren die u verkoopt of beheert voor uw klanten.
+description: Bekijk wat u goed doet en waar u uw gebruik kunt verbeteren van Azure-abonnementen die u voor uw klanten verkoopt of beheert.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086206"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146847"
 ---
-# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het Azure-gebruiks rapport is beschikbaar via het Partner Center Insights-dash board
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het Azure-gebruiksrapport is beschikbaar via Partner Center Insights-dashboard
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
-- Globale beheerder
-- Beheer agent
-- Rapport viewer
-- Rapport Viewer Executive
-
-In het Azure-gebruiks rapport worden metrische gegevens weer gegeven die betrekking hebben op de Azure-abonnementen van uw klanten. Dit rapport bevat Azure-verbruiks omzet en-gebruik per meter categorie. U kunt de volgende secties in het Azure-gebruiks rapport bekijken.
+Het Azure-gebruiksrapport bevat metrische gegevens met betrekking tot de Azure-abonnementen van uw klanten. Dit rapport bevat de omzet en het gebruik van Azure-verbruik per metercategorie. U kunt de volgende secties bekijken in het Azure-gebruiksrapport.
 
 - Samenvatting
-- Azure-gebruik per Geografie
+- Azure-gebruik per geografie
 - Azure-gebruik
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights-dash board. Als u dit rapport wilt weer geven, moet u een specifieke rol aan het partner centrum toewijzen, zoals globale beheerder, account beheerder, rapport Viewer of Executive Report Viewer. Zie de globale beheerder van uw bedrijf voor meer informatie. specifieke typen gegevens in dit rapport zijn mogelijk alleen beschikbaar voor gebruikers met beheerders rechten voor de rapport viewer.
+ > Dit rapport is beschikbaar via het Insights-dashboard. Als u dit rapport wilt bekijken, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersrechten voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
-In de sectie samen vatting vindt u een overzicht van de belangrijkste prestatie-indica toren (Kpi's) die betrekking hebben op Azure-abonnementen die door u worden verkocht of beheerd door u voor uw klanten.  
+De samenvattingssectie bevat een momentopnameweergave van de Key Performance Indicators (KPI's) die betrekking hebben op Azure-abonnementen die door u zijn verkocht of beheerd voor uw klanten.  
 
-- Azure-abonnementen: huidig aantal Azure-klanten abonnementen dat door u wordt verkocht of beheerd.
-Percentage van de groei of het afwijzen van deze Azure-abonnementen tijdens het geselecteerde datum bereik.
+- Azure-abonnementen: het huidige aantal Azure-klantabonnementen dat door u wordt verkocht of beheerd.
+Percentagegroei of afname van deze Azure-abonnementen tijdens het geselecteerde datumbereik.
 
-In de micro grafiek wordt een maand-over-maand-trend van het aantal Azure-abonnementen weer gegeven voor het geselecteerde datum bereik.
-- Actieve Azure-abonnementen: huidig aantal Azure-abonnementen dat wordt verkocht of beheerd door u dat actief gebruik had in de afgelopen 30 dagen.
-Percentage van de groei of weigering van deze abonnementen tijdens het geselecteerde datum bereik.
+De Micro-grafiek toont een trend van het aantal Azure-abonnementen voor het geselecteerde datumbereik.
+- Actieve Azure-abonnementen: het huidige aantal Azure-abonnementen dat door u is verkocht of beheerd en die de afgelopen 30 dagen actief gebruik hebben gehad.
+Percentagegroei of afname van deze abonnementen tijdens het geselecteerde datumbereik.
 
-In de micro grafiek wordt een maand-over-maand-trend van het aantal Azure actieve abonnementen weer gegeven tijdens het geselecteerde datum bereik.
+De Micro-grafiek geeft een trend voor de maand-over-maand weer van het aantal actieve Azure-abonnementen tijdens het geselecteerde datumbereik.
 
-- Azure-verbruikte omzet (ACR): totale door Azure verbruikte omzet (VS), waarbij u het geselecteerde datum bereik toewijst.
-Percentage groei of afwijzen van ACR VS tijdens het geselecteerde datum bereik. 
+- Omzet uit Azure-verbruik (ACR): Het totale Omzet uit Azure-verbruik (US$) dat aan u is toegewezen voor het geselecteerde datumbereik.
+Percentagegroei of afname van ACR US$ tijdens het geselecteerde datumbereik. 
 
-De micro grafiek bevat een maandelijkse trend van ACR VS, waarbij u over de geselecteerde tijds periode beschikt
+De Micro-grafiek toont een maandelijkse trend van ACR US$ die aan u is toegeschreven gedurende de geselecteerde periode
 
 
 > [!NOTE]
- > De verbruikte omzet van Azure (ACR) is alleen zichtbaar voor gebruikers aan wie de rol Report Viewer is toegewezen.
+ > Omzet uit Azure-verbruik (ACR) is alleen zichtbaar voor gebruikers aan wie de rol Executive Report Viewer is toegewezen.
 
 :::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Overzicht van Azure-gebruik":::
 
-## <a name="azure-usage-by-geography"></a>Azure-gebruik per Geografie
+## <a name="azure-usage-by-geography"></a>Azure-gebruik per geografie
 
-In de weer gave **Azure-gebruik per geografie** ziet u de geografische verdeling van Azure-verbruiks omzet (ACR VS) of gebruiks uren voor alle of geselecteerde Azure Service Level/meter-categorieën. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkerere kleuren hogere waarden vertegenwoordigen. U kunt in het raster zoeken en een land selecteren om in te zoomen 
+In **de weergave Azure-gebruik** per geografie ziet u de geografische verdeling van de omzet van het Azure-verbruik (ACR US$) of gebruiksuren voor alle of geselecteerde categorieën van Azure-serviceniveau/-meter. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkere kleuren hogere waarden vertegenwoordigen. U kunt een land in het raster zoeken en selecteren om op in te zoomen 
 
-**In het aantal landen/regio** tabel staan de totale landen/regio's waar Azure-gebruiks gebeurtenissen worden gegenereerd.
+De **tabel Aantal landen/regio's** bevat het totale aantal landen/regio's waar Azure-gebruiksgebeurtenissen worden gegenereerd.
 
-U kunt in het raster zoeken en een land selecteren om in te zoomen op de locatie in de kaart. Selecteer de optie **Start** op de kaart om terug te keren naar de oorspronkelijke weer gave.
+U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie op de kaart. Selecteer de **optie Start** op de kaart om terug te keren naar de oorspronkelijke weergave.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Azure-gebruik per Geografie":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Azure-gebruik per geografie":::
 
 ## <a name="azure-utilization"></a>Azure-gebruik
 
-In deze weer gave ziet u de trends van het Azure-verbruik op basis van het aantal omzet-of gebruiks uren van de maand over de geselecteerde Azure-service niveau/meter. 
+In deze weergave worden de trends in de maandelijkse omzet of gebruiksuren van Azure-verbruik per geselecteerde azure-serviceniveau/-metercategorie. 
 
-In het staaf diagram wordt de maandelijkse trend van omzet/gebruik weer gegeven. Het lijn diagram geeft de groei trend weer vergeleken met de vorige maand voor de geselecteerde categorieën van Azure service niveau/meter.
+In het staafdiagram wordt de trend van de maandelijkse omzet/gebruiksuur weergegeven. Het lijndiagram toont de groeitrend ten opzichte van de vorige maand voor de geselecteerde categorieën azure-serviceniveau/-meter.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Gebruiks gebruik van Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Gebruik van Azure":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie [Partner Center Insights](partner-center-insights.md)voor meer rapporten.
+- Zie Insights voor [Partner Center rapporten.](partner-center-insights.md)
 
 >[!NOTE] 
-> U kunt de onbewerkte gegevens van dit rapport downloaden in het gedeelte Download rapporten van het inzichten-dash board. [Meer informatie](pci-download-reports.md) 
+> U kunt de onbewerkte gegevens voor dit rapport downloaden uit de sectie Rapporten downloaden in het Dashboard Inzichten. [Meer informatie](pci-download-reports.md) 

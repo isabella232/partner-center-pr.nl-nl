@@ -1,6 +1,6 @@
 ---
-title: Partner met indirecte wederverkopers in CSP
-description: Als indirecte provider of distributeur leert u hoe u kunt uitbreiden door partnering te bieden met indirecte wederverkopers. Dit omvat taken die u kunt uitvoeren in Partner Center.
+title: Partner met indirecte resellers in CSP
+description: Als indirecte provider of distributeur leert u hoe u kunt uitbreiden door samen te werken met indirecte resellers. Dit omvat taken die u kunt uitvoeren in Partner Center.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,170 +9,165 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178949"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146677"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partner met indirecte resellers in het programma Cloud Solution Provider
 
-**Juiste rollen**
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Beheer agent
-- Verkoop agent
+Met een dergelijke complexe en snel veranderende technologiemarktplaats willen klanten de concurrentiepositie die technologieoplossingen hen kunnen bieden. In een dergelijk klimaat is het zinvol voor partners om te investeren in partner-naar-partnerbetrokkenheid om aanbiedingen uit te breiden en klanten in staat te stellen nog meer te doen.
 
-Met een dergelijke complexe en snel veranderende technologie markt, willen klanten de concurrentie voordelen die technologie oplossingen kunnen geven. In een dergelijk klimaat is het zinvol dat partners investeren in partner-to-partner-betrokkenheid om aanbiedingen te kunnen uitbreiden en klanten nog meer kunnen doen.
+Nieuwe wederverkopers zijn op de markt en zoeken naar manieren om hun oplossingen aan klanten buiten hun markten en land/landen aan te bieden. Als gevestigde technologieprovider bent u goed in de positie om de markt op te gaan. Werk samen met indirecte resellers in het Cloud Solution Provider (CSP)-programma om verbinding te maken met andere partners, nieuwe oplossingen op de markt te brengen en de acceptatie van cloudservices voor klanten te verbeteren.
 
-Nieuwe wederverkopers voeren de markt in en willen manieren om hun oplossingen te bieden aan klanten buiten hun markt en land instellingen. Als een gevestigde technologie provider bent u goed gepositioneerd om de route naar de markt te brengen. Partner met indirecte wederverkopers in het Cloud Solution Provider-programma (CSP) om verbinding te maken met andere partners, nieuwe oplossingen op de markt te brengen en de acceptatie van Cloud Services van klanten te verbeteren.
+In het model indirecte provider-reseller (twee lagen) werkt u samen met indirecte resellers om Microsoft-cloudoplossingen aan klanten aan te bieden. U koopt producten en abonnementen rechtstreeks van Microsoft en biedt deze oplossingen vervolgens aan klanten via uw wederverkopers.
 
-In het model van de indirecte provider-Reseller (twee lagen) kunt u partner met indirecte wederverkopers micro soft-cloud oplossingen aan klanten aanbieden. U koopt producten en abonnementen rechtstreeks van micro soft en biedt deze oplossingen aan klanten via uw wederverkopers.
+Als indirecte provider gebruikt u de volgende Partner Center:
 
-Als indirecte provider gebruikt u het partner centrum om het volgende te doen:
+- Verbinding maken met indirecte resellers die u kunnen helpen uw bereik en klantenbestand uit te breiden
 
-- Verbinding maken met indirecte wederverkopers die u kunnen helpen uw bereik-en klanten database uit te breiden
+- Partnerrelaties tot stand brengen met indirecte resellers waarmee u beide algemene klanten kunt bedienen
 
-- Samenwerkings verbanden maken met indirecte wederverkopers die u toestaan om algemene klanten te leveren
+- Indirecte resellers aanwijzen om specifieke klanten en abonnementen te beheren
 
-- Indirecte wederverkopers aanwijzen om specifieke klanten en abonnementen te beheren
+- Uw relaties met Microsoft, klanten en indirecte resellers op één plek beheren
 
-- Beheer uw relaties met micro soft, klanten en indirecte wederverkopers op één plek
-
-Zie [aan de slag als een indirecte wederverkoper](https://partner.microsoft.com/membership/cloud-solution-provider/) op de [website van Microsoft Partner Network](https://partner.microsoft.com)voor meer informatie over wat er nodig is om deel te nemen aan het CSP-programma als een indirecte wederverkoper.
+Zie Aan de slag als indirecte [reseller](https://partner.microsoft.com/membership/cloud-solution-provider/) op de website van Microsoft Partner Network voor meer informatie over wat er nodig is om deel te nemen aan het CSP-programma als indirecte [reseller.](https://partner.microsoft.com)
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Taken van indirecte provider in Partnercentrum
 
-Voer de volgende stappen uit om uw partnerschap met indirecte wederverkopers en klanten tot stand te brengen en te beheren. Stap 2 en 3 worden hieronder nader beschreven.
+Voltooi de volgende stappen om uw samenwerking met indirecte resellers en klanten tot stand te brengen en te beheren. Stap 2 en 3 worden hieronder gedetailleerder beschreven.
 
-1. Controleer het profiel van uw bedrijf op [de officiële lijst met indirecte providers van micro soft](https://partnercenter.microsoft.com/partner/find-a-provider).
+1. Controleer het profiel van uw bedrijf op de officiële lijst met [indirecte providers van Microsoft.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
    - Neem contact op met uw Microsoft-vertegenwoordiger als u wijzigingen wilt aanbrengen in het profiel.
 
-2. Verbinding maken met indirecte wederverkopers
+2. Verbinding maken met indirecte resellers
 
-   - Voordat u met wederverkopers kunt communiceren, moet u partnerschappen met hen tot stand brengen in het partner centrum.
+   - Voordat u met resellers kunt communiceren en transacteren, moet u een partnerschap met deze leveranciers tot stand Partner Center.
 
 3. Communiceren met klanten
 
-   - Nieuwe klanten en abonnementen koppelen aan wederverkopers
+   - Nieuwe klanten en abonnementen koppelen aan resellers
 
-   - Wederverkoper-relaties tot stand brengen met bestaande klanten
+   - Resellerrelaties met bestaande klanten tot stand brengen
 
-Nadat u deze stappen hebt voltooid, kunt u uw reseller-partnerschappen beheren op de pagina **indirecte** wederverkopers in het menu van het **partner centrum** .
+Nadat u deze stappen hebt voltooid, kunt u uw resellerpartnerrelaties beheren op de pagina **Indirecte resellers** via **Partner Center** menu.
 
 > [!IMPORTANT]
-> Voordat u kunt beginnen met het werken met wederverkopers, moeten ze worden inge schreven als indirecte wederverkopers in het CSP-programma en moeten ze beschikken over Partner Center-accounts. Verwijs uw wederverkopers naar een [partner met indirecte providers in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) voor informatie over inschrijving in CSP.
+> Voordat u met resellers kunt gaan werken, moeten ze worden ingeschreven als indirecte resellers in het CSP-programma en moeten ze Partner Center hebben. Wijs uw resellers naar [Partner met indirecte providers in CSP voor](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) informatie over inschrijving in CSP.
 
-## <a name="connect-with-indirect-resellers"></a>Verbinding maken met indirecte wederverkopers
+## <a name="connect-with-indirect-resellers"></a>Verbinding maken met indirecte resellers
 
-Als u met indirecte wederverkopers wilt communiceren in het partner centrum, moet u een relatie met hen tot stand brengen. Als u een partnerschap met een indirecte wederverkoper hebt, kunnen u en de wederverkoper zowel algemene klanten gebruiken.
+Als u wilt communiceren en transacteren met indirecte resellers in de Partner Center, moet u een partnerschap met hen opzetten. Als u een partnerschap hebt met een indirecte reseller, kunnen u en de wederverkoper beide gemeenschappelijke klanten bedienen.
 
-Als u een partnerschap wilt maken, moet u een partnerschaps aanvraag naar de wederverkoper sturen. Zorg ervoor dat u het e-mail adres van de wederverkoper in de hand hebt voordat u aan de slag gaat.
+Als u een partnerschap tot stand wilt laten komen, e-mailt u een samenwerkingsaanvraag naar de reseller. Zorg ervoor dat u het e-mailadres van de reseller bij de hand hebt voordat u aan de slag gaat.
 
-Voeg op de pagina abonnements Details in het veld Reseller (MPN ID) de wederverkoper toe waarmee u wilt werken. Zorg ervoor dat u de MPN-ID gebruikt die is gekoppeld aan het partner locatie account van de reseller die is gebruikt voor het onboarden naar het partner centrum. Dit zorgt ervoor dat de wederverkoper de juiste prikkels ontvangt en dat er een actieve micro soft-partner overeenkomst is om de trans actie te kunnen uitoefenen.
+Voeg op de pagina met abonnementsdetails in het veld Reseller (MPN-id) de reseller toe die u wilt gebruiken. Zorg ervoor dat u de MPN-id gebruikt die is gekoppeld aan het partnerlocatieaccount van de reseller dat ze hebben gebruikt om onboarding uit te Partner Center. Dit zorgt ervoor dat de reseller de juiste incentives ontvangt en dat deze een actieve rol Microsoft Partner-overeenkomst betrokken te zijn bij de transactie.
 
-1. Selecteer **indirecte wederverkopers** in het menu van uw **partner centrum** .
+1. Selecteer **Indirecte resellers in** het **Partner Center** menu.
 
-2. Selecteer **een partnership aanvragen** op de pagina **indirecte wederverkoop** . Er wordt een concept-e-mail bericht weer gegeven.
+2. Selecteer op **de pagina Indirecte resellers** de optie **Een partnerschap aanvragen.** Er wordt een concept-e-mailbericht weergegeven.
 
-3. Selecteer **openen in e-mail** om het bericht in uw standaard e-mail toepassing te openen, of selecteer **kopiëren naar klem bord** om het bericht te kopiëren en plak het vervolgens in een e-mail. Selecteer **gereed** wanneer u klaar bent.
+3. Selecteer **Openen in e-mail** om het bericht in uw standaard-e-mailtoepassing te openen of selecteer Kopiëren naar **klembord** om het bericht te kopiëren en vervolgens in een e-mailbericht te plakken. Selecteer **Gereed wanneer** u klaar bent.
     > [!IMPORTANT]  
-    >  U kunt de tekst in het e-mail bericht bewerken, maar zorg ervoor dat u de koppeling opneemt zoals deze is aangepast voor uw partner centrum-account.
+    >  U kunt de tekst in het e-mailbericht bewerken, maar zorg ervoor dat u de koppeling op de gepersonaliseerde pagina voor uw Partner Center account.
 
-4. Nadat de wederverkoper uw partnerschaps aanvraag heeft geaccepteerd, worden deze weer gegeven in de lijst met indirecte wederverkopers. vervolgens kunt u:
+4. Nadat de reseller uw samenwerkingsaanvraag heeft geaccepteerd, worden deze weergegeven in de lijst met indirecte resellers. Vervolgens kunt u het volgende doen:
 
-   - Nieuwe klanten namens u toevoegen
+   - Nieuwe klanten namens hen toevoegen
 
-   - Bestellingen namens hun klanten verzenden
+   - Orders indienen namens hun klanten
 
-   - Deze koppelen aan een abonnement, zodat ze het kunnen beheren namens de klant die het heeft gekocht
+   - Koppel ze aan een abonnement, zodat ze het kunnen beheren namens de klant die het heeft gekocht
 
-   - Deze toewijzen als ondersteunings contact van de klant voor specifieke abonnementen
+   - Wijs deze aan als de contactpersoon voor ondersteuning van de klant voor specifieke abonnementen
 
-Afhankelijk van het niveau van toegang en betrokkenheid dat u voor de wederverkoper wilt hebben, kunt u een of meer van de hieronder beschreven acties uitvoeren.
+Afhankelijk van het toegangsniveau en de betrokkenheid die u voor de reseller wilt hebben, kunt u een of meer van de onderstaande acties uitvoeren.
 
-Voor bestaande abonnementen kunt u, als u besluit om met een indirecte wederverkoper te werken, de abonnements gegevens bijwerken zodat deze de indirecte wederverkoper bevat.
+Als u voor bestaande abonnementen besluit om met een indirecte reseller te werken, kunt u de abonnementsgegevens bijwerken zodat deze de indirecte reseller bevatten.
 
-- Voeg op de pagina abonnements Details in het veld **Reseller (MPN id)** de wederverkoper toe waarmee u wilt werken. Dit zorgt ervoor dat de wederverkoper de juiste stimulansen krijgt.
+- Voeg op de pagina met abonnementsdetails in het veld **Reseller (MPN-id)** de reseller toe die u wilt gebruiken. Dit zorgt ervoor dat de reseller de juiste incentives ontvangt.
 
-| **Dit doen** | **Voer deze handeling uit** | **Positie** |
+| **Om dit te bereiken** | **Voer deze handeling uit** | **Waar** |
 |   ------------------   |   -------   |   -----   |
-| De wederverkoper in staat stellen om het account van een klant te beheren en beheerders machtigingen voor het beheer van hun abonnementen te bieden | Een wederverkoper aan een klant account koppelen wanneer een nieuwe klant wordt toegevoegd | Op de pagina **nieuwe klant** |
-| De wederverkoper in staat stellen om het account van een Azure-klant te beheren|Een wederverkoper koppelen aan een Azure-klant account bij het toevoegen van een nieuwe klant|Selecteer op de **Azure-Service Portal** de optie [gebruikers instellingen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) om de indirecte dealer eigenaar machtigingen voor de **Tenant** te geven|
-| Geef het Reseller tegoed voor prikkels | De wederverkoper aan het abonnement koppelen (nieuw of bestaand) | Op de pagina **Nieuw abonnement** |
-| Klanten ondersteuning voor specifieke abonnementen aan de wederverkoper delegeren | Selecteer de wederverkoper in de lijst **met aangewezen ondersteunings contacten** | Op de detail pagina van het abonnement: Selecteer de klant van uw **klanten** pagina en selecteer vervolgens het abonnement op de pagina **abonnementen** van de klant |
+| De reseller in staat stellen het account van een klant te beheren en beheerdersmachtigingen te hebben om hun abonnementen te beheren | Een reseller koppelen aan een klantaccount wanneer u een nieuwe klant toevoegt | Op de **pagina Nieuwe** klant |
+| De reseller in staat stellen het account van een Azure-klant te beheren|Een reseller koppelen aan een Azure-klantaccount wanneer u een nieuwe klant toevoegt|Selecteer in **de Azure-serviceportal** [Gebruikersinstellingen om](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) de tenanteigenaar van de indirecte reseller **machtigingen te** geven|
+| Het resellertegoed voor incentives geven | De reseller koppelen aan het abonnement (nieuw of bestaand) | Op de **pagina Nieuw** abonnement |
+| Klantondersteuning voor specifieke abonnementen delegeren aan de reseller | Selecteer de reseller in de **lijst Aangewezen contactpersoon voor** ondersteuning | Op de detailpagina van het abonnement: Selecteer de klant op de pagina **Klanten** en selecteer vervolgens het abonnement op de pagina Abonnementen **van de** klant |
 
 ## <a name="remove-partnership-with-indirect-resellers"></a>Samenwerking met indirecte resellers verwijderen
 
-Volg de onderstaande stappen om samen werking met een bestaande indirecte wederverkoper te verwijderen. 
+Volg de onderstaande stappen om de samenwerking met bestaande indirecte resellers te verwijderen. 
 
-1. Selecteer in het menu Partner Center op het dash board de optie **indirecte wederverkopers**. 
+1. Selecteer in Partner Center menu op het dashboard indirecte **resellers.** 
 
-2. Selecteer op de pagina **indirecte wederverkopers** de optie samen **werking verwijderen**. Er wordt een bericht weer gegeven waarin u wordt gevraagd om een bevestiging. Selecteer **Ja** om door te gaan.
+2. Selecteer op **de pagina Indirecte resellers** de optie **Samenwerking verwijderen.** Er wordt een bericht weergegeven waarin om bevestiging wordt gevraagd. Selecteer Ja om door te **gaan.**
 
-:::image type="content" source="images/ip-ir-relationship.png" alt-text="Partnership verwijderen":::
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Samenwerking verwijderen":::
 
 >[!IMPORTANT]
->Klanten die zijn gekoppeld aan de indirecte wederverkoper, worden niet verwijderd. Alle gedelegeerde beheerders bevoegdheden worden ongewijzigd gelaten.
->U geeft aan dat de beslissing om uw relatie met de partner te ontvolgen, goed te vertrouwt, voor een rechtmatig zakelijk doel en in overeenstemming met uw overeenkomst met uw klant of partner, en u akkoord gaat met het beschermen en vasthouden van micro soft onschadelijk van derden.
->Als uw overeenkomst dit vereist, moet u toestemming geven aan uw klant of partner. Dit hulp programma genereert geen kennisgeving aan de klant of partner.
+>Klanten die zijn gekoppeld aan de indirecte reseller, worden niet verwijderd. Alle gedelegeerde beheerdersbevoegdheden die worden verleend, blijven ongewijzigd.
+>U vertegenwoordigt dat de beslissing om uw relatie met de partner te beëindigen in goed vertrouwen is genomen voor een legitiem zakelijk doel, en in overeenstemming met uw overeenkomst met uw klant of partner, en dat u ermee akkoord gaat Microsoft te beschermen en te beschermen tegen en te beschermen tegen claims van derden tegen het ermee in strijd zijn.
+>Als uw overeenkomst dit vereist, moet u uw klant of partner een juridische kennisgeving van beëindiging verstrekken. Dit hulpprogramma genereert geen kennisgeving aan de klant of partner.
 
-3. De indirecte wederverkoper waarvan de partner die u hebt verwijderd, wordt niet weer gegeven in de lijst.
-Afhankelijk van het niveau van toegang en betrokkenheid, wilt u mogelijk met de indirecte wederverkoper communiceren, evenals een eind klant over deze wijziging.
+3. De indirecte reseller waarvan u de samenwerking hebt verwijderd, wordt niet weergegeven in de lijst.
+Afhankelijk van het toegangsniveau en de betrokkenheid wilt u mogelijk communiceren met de indirecte reseller en de eindklant over deze wijziging.
 
 
 ## <a name="connect-with-customers"></a>Communiceren met klanten
 
-Wanneer u nieuwe klanten ontvangt, moet u accounts voor hen maken in het partner centrum. Wanneer u een nieuw klant account toevoegt, kunt u een specifieke wederverkoper aanwijzen om het account te beheren en de abonnementen en services van de klanten in hun naam te beheren.
+Wanneer u nieuwe klanten krijgt, moet u er accounts voor maken in Partner Center. Wanneer u een nieuw klantaccount toevoegt, kunt u een specifieke reseller aanwijzen om het account te beheren en de abonnementen en services van de klanten namens hen te beheren.
 
-Wanneer u een wederverkoper koppelt aan een nieuw klant account, bent u verantwoordelijk voor het overdragen van account-en abonnements beheer aan de wederverkoper. Dit betekent dat de wederverkoper beheerders toegang heeft tot de abonnementen en services van de klant en kan deze namens de klant beheren.
+Wanneer u een reseller aan een nieuw klantaccount koppelt, delegeert u account- en abonnementsbeheer aan de reseller. Dit betekent dat de reseller beheerderstoegang heeft tot de abonnementen en services van de klant en deze namens de klant kan beheren.
 
-### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Nieuwe klanten toevoegen en deze koppelen aan indirecte wederverkopers
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Nieuwe klanten toevoegen en deze koppelen aan indirecte resellers
 
-1. Selecteer **indirecte wederverkopers** in het menu van uw **partner centrum** .
+1. Selecteer **Indirecte resellers in** het **Partner Center** menu.
 
-2. Zoek de indirecte wederverkoper waaraan u nieuwe klanten wilt toewijzen en selecteer vervolgens **nieuwe klant toevoegen**. Houd er rekening mee dat de indirecte wederverkoper al voor u is geselecteerd op het detail formulier van de klant. Geef de details van de klant op en selecteer **volgende: abonnementen**.
+2. Zoek de indirecte reseller aan wie u nieuwe klanten wilt toewijzen en selecteer **vervolgens Nieuwe klant toevoegen.** Houd er rekening mee dat de indirecte reseller al voor u is geselecteerd in het detailformulier van de klant. Geef de details van de klant op en selecteer **volgende: Abonnementen.**
 
-3. Op de pagina **Nieuw abonnement** selecteert u de abonnementen die de klant wil kopen en voert u vervolgens het aantal licenties in dat de klant nodig heeft.
+3. Selecteer op **de pagina** Nieuw abonnement de abonnementen die de klant wil kopen en voer vervolgens het aantal licenties in dat de klant nodig heeft.
 
 4. Selecteer **Volgende: Review**.
 
-5. Als de order juist is, selecteert u **verzenden**. Als de order onjuist is, selecteert u **Annuleren** om de gehele bewerking te annuleren en opnieuw te beginnen.
+5. Als de bestelling juist is, selecteert u **Verzenden.** Als de order onjuist is, selecteert **u Annuleren om** de hele bewerking te annuleren en opnieuw te beginnen.
 
-6. Nadat u de order hebt ingediend, wordt de **bevestigings** pagina weer gegeven. Onder **installatie-informatie** worden de account naam van de beheerder en het tijdelijke wacht woord weer gegeven. Kopieer de naam en het wacht woord van het gebruikers account, zodat u deze kunt verzenden naar de nieuwe klant.
+6. Nadat u de bestelling hebt verzenden, wordt **de pagina Bevestiging** weergegeven. Onder **Installatiegegevens** worden de naam van het beheerdersaccount en het tijdelijke wachtwoord weergegeven. Kopieer de naam en wachtwoordgegevens van het gebruikersaccount, zodat u deze naar de nieuwe klant kunt verzenden.
 
     > [!IMPORTANT]  
-    > Noteer de naam en het wacht woord van het gebruikers account, omdat u deze gegevens niet meer kunt openen nadat u deze pagina hebt gesloten.
+    > Noteer de naam en het wachtwoord van het gebruikersaccount, omdat u deze informatie niet opnieuw kunt openen nadat u deze pagina hebt gesloten.
 
-7. Selecteer **Gereed**. De nieuwe klant wordt weer gegeven in de lijst met klanten die is gekoppeld aan de indirecte wederverkoper. De wederverkoper heeft nu beheerders toegang tot de account gegevens en abonnementen van de klant en kan de abonnementen namens de klant beheren.
+7. Selecteer **Gereed**. De nieuwe klant wordt weergegeven in uw klantenlijst, gekoppeld aan de indirecte reseller. De reseller heeft nu beheerderstoegang tot de accountgegevens en abonnementen van de klant en kan de abonnementen namens de klant beheren.
 
-### <a name="add-new-subscriptions-to-customer-accounts"></a>Nieuwe abonnementen toevoegen aan klant accounts
+### <a name="add-new-subscriptions-to-customer-accounts"></a>Nieuwe abonnementen toevoegen aan klantaccounts
 
-Wanneer klanten nieuwe abonnementen willen kopen, bestaande bij te werken, of om aanvullende licenties te kopen, kunt u deze wijzigingen aanbrengen in het account van de klant via de Microsoft 365 Portal. U kunt dit niet doen in de Azure Portal.
+Wanneer klanten nieuwe abonnementen willen kopen, bestaande willen upgraden of extra licenties willen kopen, kunt u deze wijzigingen aanbrengen in het account van de klant via Microsoft 365 portal. U kunt dit niet doen in de Azure Portal.
 
-1. Selecteer **klanten** in het menu van uw **partner centrum** .
+1. Selecteer **Klanten** in uw **Partner Center** menu.
 
-2. Zoek de klant waarvan u het account wilt wijzigen. U kunt de lijst filteren op een indirecte wederverkoper om uw keuzes te beperken. Vouw de record van de klant uit door de pijl-omlaag te selecteren en vervolgens **abonnement toevoegen** te selecteren.
+2. Zoek de klant van wie u het account wilt wijzigen. U kunt de lijst filteren op indirecte reseller om uw keuzes te beperken. Vouw de record van de klant uit door de pijl-omlaag te selecteren en vervolgens **Abonnement toevoegen te selecteren.**
 
-3. Op de pagina **Nieuw abonnement** selecteert u de abonnementen en voert u het aantal licenties in dat de klant wil kopen.
+3. Selecteer op **de pagina** Nieuw abonnement de abonnementen en voer het aantal licenties in dat de klant wil kopen.
 
-4. Als u het abonnement wilt koppelen aan een wederverkoper, selecteert u de naam van de reseller in de lijst en selecteert u vervolgens **verzenden**. Als u de wederverkoper aan het abonnement koppelt, kunnen ze stimulansen verdienen, indien van toepassing.
+4. Als u het abonnement wilt koppelen aan een reseller, selecteert u de naam van de reseller in de lijst en selecteert u **vervolgens Verzenden.** Door de reseller aan het abonnement te koppelen, kunnen ze incentives verdienen, indien van toepassing.
 
-5. De nieuwe abonnementen worden weer gegeven in de lijst abonnementen van de klant.
+5. De nieuwe abonnementen worden weergegeven in de lijst met abonnementen van de klant.
 
-6. Als u wilt dat de wederverkoper klant ondersteunings aanvragen voor het nieuwe abonnement afhandelt, selecteert u het abonnement en selecteert u vervolgens de reseller in de lijst **met aangewezen ondersteunings contactpersonen** . 
+6. Als u wilt dat de reseller klantondersteuningsaanvragen voor het nieuwe abonnement afhandelt, selecteert u het abonnement en selecteert u vervolgens de reseller in de lijst **Aangewezen contactpersoon voor** ondersteuning. 
 
-7. Selecteer **verzenden** wanneer u klaar bent.
+7. Selecteer **Verzenden wanneer** u klaar bent.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-Vind antwoorden op uw vragen over de micro soft-partner overeenkomst
+Vind antwoorden op uw vragen over de Microsoft Partner-overeenkomst
 
-- [Hoe indirecte providers hun wederverkopers kunnen helpen bij het aannemen van de micro soft-partner overeenkomst-Veelgestelde vragen](mpa-indirect-provider-faq.md)
+- [Hoe indirecte providers hun wederverkopers kunnen helpen de Microsoft Partner-overeenkomst - Veelgestelde vragen](mpa-indirect-provider-faq.md)
 
-Zie voor meer informatie over het beheren van klant accounts en-abonnementen:
+Zie voor meer informatie over het beheren van klantaccounts en -abonnementen:
 
-- [Klant abonnementen](customer-subscriptions.md)
+- [Klantabonnementen](customer-subscriptions.md)

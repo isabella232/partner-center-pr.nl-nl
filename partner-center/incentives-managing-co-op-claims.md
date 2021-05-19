@@ -1,6 +1,6 @@
 ---
 title: Coöperatieve claims beheren
-description: Meer informatie over het proces voor het samen stellen van claims, met inbegrip van deadlines, valuta problemen en het betwisten van een geweigerde mede-op-claim.
+description: Informatie over het proces van claims voor samenwerking, waaronder deadlines, valutaproblemen en hoe u een afgewezen claim voor samenwerking kunt betwisten.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,38 +8,36 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 952a6b327dd31b1155efe3c08bb52f9b300b0a93
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179153"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146762"
 ---
-# <a name="manage-incentives-co-op-claims"></a>Claims voor de mede-op-verzoek beheren
+# <a name="manage-incentives-co-op-claims"></a>Co-op-claims voor incentives beheren
 
-**Juiste rollen**
+**Juiste rollen:** Incentives-beheerder
 
-- Prikkel beheerder
+De volgende inhoud bevat informatie over het beheren van claims voor samenwerking, waaronder tijdlijnen, regels en hoe u een afgewezen claim voor samenwerking kunt betwisten.
 
-De volgende inhoud bevat informatie over het beheren van mede-op-claims, met inbegrip van tijd lijnen, regels en het betwisten van een geweigerde mede-op-claim.
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>Goedkeuring van claims voor samenwerking en deadlines voor betaling
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Goed keuring van claims en betalings deadlines op mede-betaling
+### <a name="when-will-my-co-op-claim-be-approved"></a>Wanneer wordt mijn claim voor samenwerking goedgekeurd?
 
-### <a name="when-will-my-co-op-claim-be-approved"></a>Wanneer wordt mijn claim op een mede zijde goedgekeurd?
+Claims voor samenwerking worden binnen twee werkdagen nadat ze zijn ingediend, beoordeeld. Zodra ze als geldig worden beschouwd, worden ze ingesteld op De status Goedgekeurd.  
 
-Mede-op-claims worden binnen twee werk dagen na verzen ding gecontroleerd. Zodra ze worden beschouwd als geldig, worden ze ingesteld op de status goedgekeurd.  
-
-Hier volgen de verschillende mogelijke statussen voor uw mede-op-claims.
+Hier volgen de verschillende mogelijke statussen voor uw claims voor samenwerking.
 
 - Ingediend
 - Wordt beoordeeld
-  - Micro soft zal de beoordeling volt ooien binnen twee werk dagen nadat de claim is ingediend. Neem contact op met de [ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)als de status langer dan twee dagen wordt gecontroleerd.
+  - Microsoft voltooit de beoordeling binnen twee werkdagen na het indienen van de claim. Als uw status langer dan twee dagen wordt beoordeeld, neem dan contact op met [ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 - Vereiste actie
 - In bewerking
 - Goedgekeurd
 - Afgewezen
 
-## <a name="co-op-claim-payments"></a>Claims voor samen betaling op aanvraag
+## <a name="co-op-claim-payments"></a>Betalingen voor samenwerkingsclaims
 
 ### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a>Wanneer krijg ik de betaling voor de goedgekeurde claim voor samenwerking?
 
@@ -53,17 +51,17 @@ Als fondsen voor samenwerking voor verschillende Microsoft-entiteiten worden ver
 
 Elk incentive-programma heeft een bankprofiel dat is gemaakt tijdens de configuratie. De valuta die in dat profiel is opgegeven, is de valuta waarin u wordt betaald.
 
-## <a name="rejected-co-op-claims"></a>Geweigerde mede-op claims
+## <a name="rejected-co-op-claims"></a>Geweigerde claims voor samenwerking
 
-Als het materiaal dat u hebt aangeleverd met uw claim voor samenwerking ontoereikend is, wordt de claim geweigerd. U kunt de redenen voor de afwijzing bekijken in het veld **Geschiedenis** van de pagina van de claim. Gebruik de volgende procedure om de weigering te betwisten:
+Als het materiaal dat u hebt aangeleverd met uw claim voor samenwerking ontoereikend is, wordt de claim geweigerd. U kunt de redenen voor de afwijzing bekijken in het veld **Geschiedenis** van de pagina van de claim. Gebruik de volgende procedure om de afwijzing te betwisten:
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>Een afgewezen claim voor samenwerking betwisten
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer onder **stimulansen** voor **co-op-beheer**.
+2. Selecteer **onder Incentives** de optie **Co-opbeheer.**
 
-3. Selecteer de claim voor samenwerking die u wilt betwisten. De pagina claim op de co-op wordt geopend.
+3. Selecteer de claim voor samenwerking die u wilt betwisten. De claimpagina voor samenwerking wordt geopend.
 
 4. Klik onder aan de pagina op **Betwisten**.
 

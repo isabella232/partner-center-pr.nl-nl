@@ -8,19 +8,16 @@ description: Synchroniseer uw verwijzingen in Partner Center met uw Salesforce C
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fa9b35343e1251cfce5caff107de8dff344f4e68
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284380"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148411"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connector voor co-verkoop voor Salesforce CRM - overzicht
 
-**Juiste rollen**
-
-- Verwijzingsbeheerder
-- Systeembeheerder of systeem aanpassen op het CRM
+**Juiste rollen:** Beheerdersrollen voor verwijzingen | Systeembeheerder of systeem aanpassen op het CRM
 
 Partner Center connector voor co-verkoop kunnen uw verkopers samen met Microsoft verkopen vanuit uw CRM-systemen. Ze moeten niet worden getraind voor het gebruik van Partner Center om deals voor co-verkoop te beheren. Met behulp van de connectors voor co-verkoop kunt u een nieuwe verwijzing voor co-verkoop maken om een Microsoft-verkoper te betrekken, verwijzingen van de Microsoft-verkoper te ontvangen, verwijzingen te accepteren/weigeren, dealgegevens zoals dealwaarde en einddatum te wijzigen.  U kunt ook updates ontvangen van de Microsoft-verkopers over deze deals voor co-verkoop. U kunt al uw verwijzingen laten werken binnen het CRM van uw keuze in plaats van in Partner Center. 
 
@@ -33,15 +30,15 @@ De oplossing is gebaseerd op Microsoft Power Automate Solution en maakt gebruik 
 |Microsoft Partner Network-id |U hebt een geldige MPN-id nodig|Lid worden van [MPN](https://partner.microsoft.com/)|
 |Gereed voor co-verkoop|Uw IP/Services-oplossing moet klaar zijn voor co-verkoop.|[Verkopen met Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Partnercentrum-account|De MPN-id die is gekoppeld aan Partner Center tenant, moet gelijk zijn aan de MPN-id die is gekoppeld aan uw oplossing voor co-verkoop. Controleer of u uw verwijzingen voor co-verkoop kunt zien in Partner Center portal voordat u de connectors implementeert.|[Uw account beheren](create-user-accounts-and-set-permissions.md)|
-|Partner Center gebruikersrollen|De werknemer die de connectors installeert en gebruikt, moet een verwijzingsbeheerder zijn|[Beheerdersrollen en -machtigingen toewijzen](create-user-accounts-and-set-permissions.md)|
-|Salesforce CRM|De CRM-gebruikersrol is Systeembeheerder of Systeembeheerder|[Rollen toewijzen in Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Power Automate Flow-account|Een actief [Power Automate](https://flow.microsoft.com) account voor de crm-systeembeheerder of systeembeheerder. Deze gebruiker moet zich ten minste [Power Automate](https://flow.microsoft.com) vóór de installatie aanmelden.|
+|Partner Center gebruikersrollen|De werknemer die de connectors gaat installeren en gebruiken, moet een verwijzingsbeheerder zijn|[Beheerdersrollen en -machtigingen toewijzen](create-user-accounts-and-set-permissions.md)|
+|Salesforce CRM|De CRM-gebruikersrol is Systeembeheerder of Systeem aanwijzer|[Rollen toewijzen in Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
+|Power Automate Flow-account|Een actief [Power Automate](https://flow.microsoft.com) account voor de crm-systeembeheerder of systeem aanpassen. Deze gebruiker moet zich ten [minste Power Automate](https://flow.microsoft.com) vóór de installatie aanmelden.|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Installatie van Salesforce-pakket voor aangepaste Microsoft-velden 
 
-Als u de verwijzingen wilt synchroniseren tussen Partner Center Salesforce CRM, moet Power Automate oplossing duidelijk Microsoft-specifieke verwijzingsvelden identificeren. Deze afbakening biedt verkopersteams van partners de mogelijkheid om te bepalen welke verwijzingen ze willen delen met Microsoft voor co-verkoop.
+Als u de verwijzingen wilt synchroniseren tussen Partner Center salesforce en Salesforce CRM, moet Power Automate oplossing duidelijk Microsoft-specifieke verwijzingsvelden identificeren. Deze afbakening biedt verkopersteams van partners de mogelijkheid om te bepalen welke verwijzingen ze willen delen met Microsoft voor co-verkoop.
 
-1. Activeer notities in Salesforce **en** voeg deze toe aan de lijst met gerelateerde verkoopkansen. 
+1. Activeer notities in Salesforce **en** voeg deze toe aan de lijst met betrekking tot verkoopkansen. 
 [Verwijzing](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
 2. Activeer **opportunity-teams** door de volgende stappen uit te voeren: 
@@ -49,12 +46,12 @@ Als u de verwijzingen wilt synchroniseren tussen Partner Center Salesforce CRM, 
     - Definieer de instellingen naar behoefte.
 [Verwijzing](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. Installeer in Salesforce aangepaste velden en objecten met behulp van het [installatieprogramma voor pakketten.](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) Gebruik dit om het pakket te installeren in elk bedrijf.
+3. Installeer in Salesforce aangepaste velden en objecten met behulp van het [installatieprogramma voor pakketten.](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) Gebruik dit om het pakket in elk bedrijf te installeren.
 
 >[!NOTE]
 >Als u in een sandbox installeert, moet u het eerste gedeelte van de URL vervangen door http://test.salesforce.com
 
-4. Voeg in Salesforce Microsoft-oplossingen toe aan de lijst met betrekking **tot** kansen. Nadat u de sleutelsleutel hebt **toegevoegd, selecteert u het** pictogram en de eigenschappen bijwerken
+4. Voeg in Salesforce Microsoft-oplossingen toe aan de lijst met betrekking **tot** kansen. Nadat u de sleutelsleutel hebt toegevoegd, **selecteert u het** pictogram en de eigenschappen bijwerken
 
 ## <a name="best-practice-test-before-you-go-live"></a>Best Practice: Testen voordat u live gaat
 
@@ -90,9 +87,9 @@ Voordat u de oplossing installeert, configureert en Power Automate in de product
 
    :::image type="content" source="images/salesforce/available-crm.png" alt-text="Beschikbare CRMS":::
 
-8. U wordt vervolgens omgeleid naar de **pagina Uw oplossingen** beheren.  Navigeer naar Partner Center verwijzingen met behulp van de pijlknoppen onderaan de pagina. **Geplande installatie moet** worden weergegeven naast Partner Center oplossing Verwijzingen. De installatie duurt 10-15 minuten.
+8. U wordt vervolgens omgeleid naar de **pagina Uw oplossingen** beheren.  Navigeer naar Partner Center met behulp van de pijlknoppen onderaan de pagina. **De geplande installatie** wordt weergegeven naast Partner Center oplossing Verwijzingen. De installatie duurt 10-15 minuten.
 
-9. Zodra de installatie is voltooid, gaat u terug [naar Power Automate](https://flow.microsoft.com) selecteert u **Oplossingen** in het navigatiegedeelte aan de linkerkant. U ziet **Partner Center verwijzingssynchronisatie** voor Salesforce beschikbaar is in de lijst oplossingen.
+9. Zodra de installatie is voltooid, gaat u terug [naar Power Automate](https://flow.microsoft.com) en selecteert **u Oplossingen** in het navigatiegedeelte aan de linkerkant. U ziet **Partner Center verwijzingssynchronisatie** voor Salesforce beschikbaar is in de lijst oplossingen.
 
 10. Selecteer **Partner Center Verwijzingssynchronisatie voor Salesforce**. De volgende Power Automate en entiteiten zijn beschikbaar:
 
@@ -102,24 +99,24 @@ Voordat u de oplossing installeert, configureert en Power Automate in de product
 
 ## <a name="configure-the-solution"></a>De oplossing configureren
 
-1. Nadat u de oplossing in uw CRM-exemplaar hebt geïnstalleerd, gaat u terug naar [Power Automate](https://flow.microsoft.com/).
+1. Nadat u de oplossing in uw CRM-exemplaar hebt geïnstalleerd, gaat u terug [naar Power Automate](https://flow.microsoft.com/).
 
 2. Selecteer in **de** vervolgkeuzehoek Omgevingen in de rechterbovenhoek het CRM-exemplaar waarin u de oplossing Power Automate geïnstalleerd.
 3. U moet verbindingen maken die de drie gebruikersaccounts koppelen:
-    - Partner Center met beheerdersreferenties voor verwijzingen
+    - Partner Center gebruiker met beheerdersreferenties voor verwijzingen
     - Partnercentrum-gebeurtenissen
     - CRM-beheerder met de Power Automate stromen in de oplossing.
 4. Selecteer **Verbindingen in** de linkernavigatiebalk en selecteer de oplossing Partner Center verwijzingen in de lijst.
 
-5. Maak een verbinding door te klikken op **Een verbinding maken.**
+5. Maak een verbinding door op Een verbinding **maken te klikken.**
 
 :::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Verbinding maken":::
 
 - Zoek naar Partner Center (preview) in de zoekbalk in de rechterbovenhoek.
 
-- Maak een verbinding voor uw Partner Center met de referentiesrol Verwijzingenbeheerder.
+- Maak een verbinding voor uw Partner Center met de rol referenties van verwijzingsbeheerder.
 
--  Maak vervolgens een verbinding Partner Center gebeurtenissen voor uw Partner Center met de referenties van de beheerder van verwijzingen.
+-  Maak vervolgens een verbinding Partner Center gebeurtenissen voor uw Partner Center met de referenties van de verwijzingsbeheerder.
 
 - Maak een verbinding voor Salesforce voor de CRM-beheerder.
 
@@ -151,7 +148,7 @@ Voordat u de oplossing installeert, configureert en Power Automate in de product
 
 Met Partner Center webhook-API's kunt u zich registreren voor gebeurtenissen voor resourcewijziging. Deze wijzigingsgebeurtenissen worden als HTTP-berichten naar uw URL verzonden.
 
-1. Als u uw URL wilt registreren, selecteert Partner Center De stroom **Webhookregistratie (Insider Preview)** Power Automate registreren.
+1. Als u uw URL wilt registreren, selecteert Partner Center de stroom **Webhook-registratie (Insider Preview)** Power Automate registreren.
 
 2. Voeg verbindingen toe voor (a.) Partner Center gebruiker met beheerdersreferenties (b.) voor verwijzingen Partner Center gebeurtenissen zoals hieronder is gemarkeerd
 
@@ -163,7 +160,7 @@ Met Partner Center webhook-API's kunt u zich registreren voor gebeurtenissen voo
 
 4. Sla uw wijzigingen op en selecteer **In- en uit.**
 
-   Voer de Partner Center uit om webhooks te laten luisteren naar gebeurteniswijzigingen:
+   Voer de volgende Partner Center webhooks in staat te stellen te luisteren naar gebeurteniswijzigingen:
 
 5. Selecteer **Partner Center Salesforce CRM (Insider Preview)**.
 
@@ -183,7 +180,7 @@ Met Partner Center webhook-API's kunt u zich registreren voor gebeurtenissen voo
 
     2. **Te registreren gebeurtenissen:**'verwijzing gemaakt' en 'verwijzing bijgewerkt'
 
-    3. **Overschrijf bestaande trigger-eindpunten indien aanwezig:** Ja (hiermee worden bestaande eindpunten overschreven.)
+    3. **Overschrijf bestaande trigger-eindpunten als** deze aanwezig zijn: Ja (hiermee worden bestaande eindpunten overschreven.)
 
 11. Selecteer **Uitvoeren** en selecteer vervolgens **Done.**
 
@@ -193,7 +190,7 @@ De webhook kan nu luisteren naar het maken en bijwerken van gebeurtenissen.
 
 Wanneer verwijzingen voor co-verkoop worden gesynchroniseerd tussen Partner Center en uw CRM-systeem, worden hier de velden weergegeven die op Partner Center pc worden gesynchroniseerd.
 
-CRM-systemen zijn vaak zeer aangepast. U kunt de Power Automate aanpassen. Volg de handleiding voor veldtoewijzing en indien nodig de juiste wijzigingen aan te brengen in de stappen van de Power Automate stromen.  Microsoft Partner Centers naar CRM-toewijzingen worden aangeboden, maar op basis van uw CRM-omgeving kunt u ervoor kiezen om de velden verder aan te passen.
+CRM-systemen zijn vaak zeer aangepast. U kunt de Power Automate aanpassen. Volg de handleiding voor veldtoewijzing en brengt indien nodig de juiste wijzigingen aan in de stappen van de Power Automate stromen.  Microsoft Partner Centers voor CRM-toewijzingen worden aangeboden, maar op basis van uw CRM-omgeving kunt u ervoor kiezen om de velden verder aan te passen.
 
 Meerdere stappen van elk van de Power Automate stromen kunnen worden aangepast op basis van uw behoeften. Hier volgen enkele voorbeelden van beschikbare aanpassingen:
 
@@ -205,11 +202,11 @@ Meerdere stappen van elk van de Power Automate stromen kunnen worden aangepast o
 
    3. Selecteer **(Bereik) Synchroniseer de lead of kans**.
 
-2. Als u CRM-veldtoewijzingen voor het maken van gebeurtenissen wilt aanpassen, selecteert u Als het de nieuwe **gedeelde kans is, selecteert u vervolgens**. Selecteer de substap zo **ja** en vouw vervolgens Een nieuwe kans maken **in crm uit.** U kunt de toewijzingen in deze sectie bewerken met behulp van de Handleiding voor veldtoewijzing.
+2. Als u CRM-veldtoewijzingen voor het maken van gebeurtenissen wilt aanpassen, selecteert u Als **het een nieuwe gedeelde kans is en vervolgens**. Selecteer de substap zo **ja en** vouw vervolgens Een nieuwe kans maken **in crm uit.** U kunt de toewijzingen in deze sectie bewerken met behulp van de Handleiding voor veldtoewijzing.
 
-   1. Als u CRM-veldtoewijzingen voor updategebeurtenissen wilt aanpassen, selecteert u de stap '(Bereik) De lead of kans synchroniseren'.
+   1. Als u CRM-veldtoewijzingen voor updategebeurtenissen wilt aanpassen, selecteert u de stap (Bereik) De lead of kans synchroniseren.
 
-   2. Selecteer **Als het een update van een kans is, dan**. Selecteer de substap **zo ja** en vouw vervolgens If difference uit tussen de **opportunity-objecten in Partner Center CRM en vervolgens**.  
+   2. Selecteer **Als het een update van een kans is en selecteer vervolgens**. Selecteer de substap **zo ja** en vouw vervolgens If difference uit tussen de **opportunity-objecten in Partner Center CRM en vervolgens**.  
 
    3. Selecteer **Indien ja gevolgd** door Bestaande kans **bijwerken**
 
@@ -219,9 +216,9 @@ Meerdere stappen van elk van de Power Automate stromen kunnen worden aangepast o
 
    2. Selecteer **(Bereik) Synchroniseer de kans**.
 
-   3. Voor het aanpassen van CRM-veldtoewijzingen (op basis van de handleiding voor veldtoewijzingen) voor updategebeurtenissen selecteert u Als er verschil is tussen de **leadobjecten in Partner Center en CRM, selecteert u vervolgens**.
+   3. Als u CRM-veldtoewijzingen wilt aanpassen (op basis van de handleiding voor veldtoewijzingen) voor updategebeurtenissen, selecteert u Als er een verschil is tussen de **leadobjecten in Partner Center crm en vervolgens**.
 
-   4. Selecteer de substap zo **ja** en vouw vervolgens de stap **Een verwijzing bijwerken met opportunity data uit.**
+   4. Selecteer de substap zo **ja** en vouw vervolgens de stap Een verwijzing **bijwerken met opportunity data uit.**
 
    U kunt de toewijzingen in deze sectie bewerken op basis van de Handleiding voor veldtoewijzing.
 
@@ -242,9 +239,9 @@ Nadat u de Power Automate-oplossing hebt geïnstalleerd, geconfigureerd en aange
 
 ### <a name="pre-requisites"></a>Vereisten
 
-Als u de verwijzingen tussen Partner Center Salesforce CRM wilt synchroniseren, moet Power Automate oplossing microsoftspecifieke verwijzingsvelden duidelijk afbakenen. Deze identificatie biedt uw verkopersteams de mogelijkheid om te bepalen welke verwijzingen ze willen delen met Microsoft voor co-verkoop.
+Als u de verwijzingen in Partner Center Salesforce CRM wilt synchroniseren, moet de Power Automate-oplossing microsoftspecifieke verwijzingsvelden duidelijk afbakenen. Deze identificatie biedt uw verkopersteams de mogelijkheid om te bepalen welke verwijzingen ze willen delen met Microsoft voor co-verkoop.
 
-Er is een set aangepaste velden beschikbaar als onderdeel van Partner Center de entiteit Verwijzingensynchronisatie voor Salesforce **CRM-oplossingskans.** Een CRM-beheerder moet een afzonderlijke CRM-sectie maken met de aangepaste velden **voor** de mogelijkheid.
+Er is een set aangepaste velden beschikbaar als onderdeel van Partner Center de entiteit Verwijzingensynchronisatie voor Salesforce **CRM-oplossingskans.** Een CRM-beheerder moet een afzonderlijke CRM-sectie maken met de aangepaste velden **voor** kansen.
 
 De volgende aangepaste velden moeten deel uitmaken van de CRM-sectie:
 
@@ -264,7 +261,7 @@ De volgende aangepaste velden moeten deel uitmaken van de CRM-sectie:
 
 1. Verwijzingssynchronisatie wanneer verwijzing wordt gemaakt of bijgewerkt in CRM en wordt gesynchroniseerd in Partner Center:
 
-   1. Meld u aan bij uw Salesforce CRM-omgeving met de gebruiker die inzicht heeft in de **sectie Opportunity** van het CRM.
+   1. Meld u aan bij uw Salesforce CRM-omgeving met een gebruiker die inzicht heeft in de **sectie Opportunity** van het CRM.
 
    2. Zorg ervoor dat de volgende sectie aanwezig is wanneer u een nieuwe kans maakt in de Salesforce CRM-omgeving
 
@@ -276,7 +273,7 @@ De volgende aangepaste velden moeten deel uitmaken van de CRM-sectie:
        - "Hoe kan Microsoft u helpen?": Selecteer een van de volgende opties:
        - Producten: Oplossings-ID's van het product
 
-   4. Nadat u de optie Synchroniseren  **met** een Partner Center ingesteld op **Ja,** 10 minuten wachten, aanmelden bij uw Partner Center account. Uw verwijzingen worden gesynchroniseerd met Salesforce CRM.
+   4. Nadat u de optie Synchroniseren met een Partner Center  **ingesteld** op **Ja,** 10 minuten wachten, aanmelden bij uw Partner Center account. Uw verwijzingen worden gesynchroniseerd met Salesforce CRM.
 
    5. Wanneer de optie Synchroniseren met Partner Center is ingesteld op Ja. Als u de kans in Salesforce CRM bij werkt, worden de wijzigingen gesynchroniseerd met uw Partner Center account.
 
@@ -288,7 +285,7 @@ De volgende aangepaste velden moeten deel uitmaken van de CRM-sectie:
 
     2. Selecteer **Verwijzingen in** het menu aan de linkerkant.
 
-    3. Maak een nieuwe verwijzing voor co-verkoop vanuit Partner Center door te klikken op de optie Nieuwe deal.
+    3. Maak een nieuwe verwijzing voor co-Partner Center door te klikken op de optie Nieuwe deal.
 
     4. Meld u aan bij uw Salesforce CRM-omgeving.
 

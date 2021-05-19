@@ -1,107 +1,105 @@
 ---
-title: De micro soft Partner Agreement (MPA) voor CSP
+title: De Microsoft Partner-overeenkomst (MPA) voor CSP
 ms.topic: how-to
 ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over de micro soft CSP-partner vereisten voor het ondertekenen en verifiëren van deze geïntegreerde, digitaal geaccepteerde micro soft Partner Agreement (MPA).
+description: Meer informatie over de microsoft CSP-partnervereisten voor het ondertekenen en verifiëren van deze geïntegreerde, digitaal Microsoft Partner-overeenkomst (MPA).
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: fdcd83554073a7951862787a9f29383a3752dd30
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441265"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146337"
 ---
-# <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Meer informatie over de micro soft Partner Agreement (MPA) voor CSP-programma partners
+# <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Meer informatie over de Microsoft Partner-overeenkomst (MPA) voor CSP-programmapartners
 
-**Juiste rollen**
+**Juiste rollen:** globale beheerder
 
-- Globale beheerder
+De Microsoft Partner-overeenkomst biedt Microsoft-partners een uniforme, digitaal geaccepteerde partnerovereenkomst. De Microsoft Partner-overeenkomst bevat een kernset permanente termen die Microsoft, partners en klanten helpen de privacy en beveiliging van gegevens te ondersteunen, naleving te bevorderen en goede zakelijke procedures aan te moedigen.
 
-De micro soft-partner overeenkomst biedt micro soft-partners een geïntegreerde, digitaal geaccepteerde partner overeenkomst. De micro soft-partner overeenkomst bevat een kern verzameling van permanente voor waarden waarmee micro soft, partners en klanten de privacy en beveiliging van gegevens kunnen ondersteunen, de naleving kunnen bevorderen en zakelijke procedures kunnen stimuleren.
+Alle Cloud Solution Provider programmapartners (inclusief indirecte providers, indirecte resellers en partners voor directe factuur) kunnen de MPA online ondertekenen in Partner Center. Directe factuur en indirecte providerpartners die in de Microsoft Cloud for US Government kunnen de MPA ook ondertekenen vanuit Partner Center.
 
-Alle software partners van de Cloud Solution Provider (waaronder indirecte providers, indirecte wederverkopers en direct factuur partners) kunnen de MPA online ondertekenen in het partner centrum. Directe en indirecte provider partners die in de Microsoft Cloud voor de Amerikaanse overheid werken, kunnen de MPA ook ondertekenen vanuit het partner centrum.
-
-Als u wilt blijven deel nemen aan het CSP-programma, moet u de micro soft-partner overeenkomst ondertekenen vóór 31 januari 2020. In het partner centrum herinnert u zich dat u de overeenkomst nu eenvoudig kunt ondertekenen vanuit het partner centrum.
+Als u wilt blijven deelnemen aan het CSP-programma, moet u de Microsoft Partner-overeenkomst vóór 31 januari 2020 ondertekenen. Partner Center u eraan herinneren dat u de overeenkomst nu eenvoudig kunt ondertekenen vanuit Partner Center.
 
 >[!NOTE]
->De MPA moet eenmaal worden ondertekend in elke CSP-regio waar uw bedrijf CSP-bedrijven doet. Meer informatie over [CSP-regio's](regional-authorization-overview.md) 
+>De MPA moet eenmaal worden ondertekend in elke CSP-regio waar uw bedrijf CSP-activiteiten doet. Meer informatie over [CSP-regio's](regional-authorization-overview.md) 
 
-## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Controleren of uw MPN-ID actief is en is gemigreerd naar het partner centrum
+## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Controleer of uw MPN-id actief is en is gemigreerd naar Partner Center
 
-1. Als u uw MPN-account niet hebt gemigreerd van het Partner Membership Center (PMC) naar het partner centrum, moet u [uw MPN-account migreren naar het partner centrum](move-pmc-pc-map.md). U voltooit de rest van de stappen nadat de migratie is voltooid. 
+1. Als u uw MPN-account niet hebt gemigreerd van Partner Membership Center (PMC) naar Partner Center, moet u uw [MPN-account](move-pmc-pc-map.md)migreren naar Partner Center . U voltooit de rest van de stappen na het voltooien van de migratie. 
 
-1. Als u geen MPN-account of -id hebt, moet u eerst lid worden van het Microsoft Partner Network-programma. [Meer informatie over hoe u kunt samen werken met MPN](mpn-create-a-partner-center-account.md).
+1. Als u geen MPN-account of -id hebt, moet u eerst lid worden van het Microsoft Partner Network-programma. [Meer informatie over het deelnemen aan MPN.](mpn-create-a-partner-center-account.md)
 
-1. Meld u aan bij partner centrum met de referenties van uw MPN-account.
+1. Meld u aan bij Partner Center met de referenties van uw MPN-account.
  
-1. Selecteer  bij instellingen [partner profiel](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
+1. Selecteer **bij Instellingen** de optie [Partnerprofiel.](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)
 
-1. Raadpleeg de sectie **programma-info** . Als de status van het MPN-programma **actief** is, bent u een actieve MPN-partner in het partner centrum.
+1. Controleer de **sectie Programmagegevens.** Als de status van het **MPN-programma Actief** is, bent u een actieve MPN-partner in Partner Center.
  
-1. Als de status van het MPN **-programma afgewezen/afgekeurd** of **in behandeling** is, is uw account verificatie mislukt. Lees [verificatie proces](verification-responses.md) voor meer informatie over het oplossen van het verificatie probleem.
+1. Als de status van het MPN-programma **Geweigerd/Afgewezen** of **In** behandeling is, is de verificatie van uw account mislukt. Lees [Verificatieproces om](verification-responses.md) erachter te komen hoe u het verificatieprobleem kunt oplossen.
 
 
 
 >[!NOTE]
->De referenties van uw MPN-ID-account mogen niet hetzelfde zijn als de referenties van uw CSP-account.
+>De referenties van uw MPN-id-account zijn mogelijk niet hetzelfde als de referenties van uw CSP-account.
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Bevestig dat u bent ingeschreven als een CSP Indirect Reseller
 
-1. Als u zich nog niet hebt geregistreerd als een [indirecte CSP-dealer](indirect-reseller-tasks-in-partner-center.md) in het partner centrum, moet u dat eerst doen. Voer de overige stappen uit nadat u zich hebt Inge schreven als CSP indirecte wederverkoper in Partner Center.
+1. Als u nog niet bent ingeschreven als een CSP Indirect Reseller [in](indirect-reseller-tasks-in-partner-center.md) Partner Center, moet u dat eerst doen. Voltooi de rest van de stappen na het inschrijven als CSP Indirect Reseller in Partner Center.
 
-1. Meld u aan bij partner centrum met de referenties van uw globale CSP-beheerders account.
+1. Meld u aan bij Partner Center met de referenties van uw globale CSP-beheerdersaccount.
 
-1. Selecteer bij **instellingen** de optie **account instellingen** en selecteer vervolgens [partner profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+1. Selecteer **bij** Instellingen de **optie Accountinstellingen** en selecteer vervolgens [Partnerprofiel.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
 
-1. Raadpleeg de sectie **programma-info** . Als uw informatie niet de **indirecte wederverkoper** status weergeeft, moet u zich [Inschrijven als een indirecte wederverkoper](indirect-reseller-tasks-in-partner-center.md).
+1. Controleer de **sectie Programmagegevens.** Als in uw gegevens de status van de **indirecte reseller** niet wordt weergeven, moet u zich inschrijven als een [indirecte reseller.](indirect-reseller-tasks-in-partner-center.md)
 
-1. Als de status van de  **indirecte wederverkoper** **actief** is, bent u een actieve indirecte wederverkoper in Partner Center.
+1. Als  **de status van** de indirecte reseller **Actief** is, bent u een actieve indirecte reseller in Partner Center.
  
-4. Als de status van de  **indirecte wederverkoper** **gekwalificeerd** is, gaat u naar het overzicht van uw [**dash board**](https://partner.microsoft.com/pcv/dashboard/overview) om de MPA te accepteren om uw account te activeren.
+4. Als  **de status van de** indirecte reseller **Gekwalificeerd** is, gaat u naar het [**dashboardoverzicht**](https://partner.microsoft.com/pcv/dashboard/overview) om de MPA te accepteren om uw account te activeren.
  
-1. Als de status van de indirecte wederverkoper wordt **afgewezen** of **geweigerd**, is uw account verificatie mislukt. Lees [verificatie proces](verification-responses.md) voor meer informatie over het oplossen van het verificatie probleem.
+1. Als de status van de indirecte reseller **Afgewezen** of **Geweigerd** is, is de verificatie van uw account mislukt. Lees [Verificatieproces om](verification-responses.md) erachter te komen hoe u het verificatieprobleem kunt oplossen.
 
-1. Als u zich eerder hebt verplaatst naar partner Center als een indirecte wederverkoper, accepteert u de micro soft-partner overeenkomst in het dash board van het partner centrum met de referenties van de globale beheerder. U kunt controleren of de micro soft-partner overeenkomst al is ondertekend door het [partner profiel](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **programma gegevens** of de banner melding op de overzichts pagina van de CSP.
+1. Als u eerder bent overgeslagen naar Partner Center als een indirecte reseller, accepteert u de Microsoft Partner-overeenkomst in het overzicht Partner Center dashboard met de referenties van de globale beheerder. U kunt controleren of de Microsoft Partner-overeenkomst al is ondertekend via [Programmagegevens van](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)  partnerprofiel of via de bannermelding op de CSP-overzichtspagina.
 
-Vergeet niet om de CSP-relatie aanvraag met uw indirecte provider te accepteren.
+Vergeet niet om de aanvraag voor de CSP-relatie met uw indirecte provider te accepteren.
 
 ## <a name="sign-the-mpa"></a>De MPA ondertekenen
 
-1. Meld u aan bij partner centrum met uw CSP indirect reseller-account. U moet de globale beheerder zijn.
-1. Ga naar de **[overzichts](https://partner.microsoft.com/pcv/dashboard/overview)** pagina van CSP.  Als u niet **akkoord en door gaan** of de groene banner ziet dat MPA is ondertekend, hebt u niet de juiste rol om MPA te ondertekenen. Neem contact op met uw globale beheerder om de MPA te ondertekenen.
+1. Meld u aan Partner Center met uw CSP Indirect Reseller account. U moet de globale beheerder zijn.
+1. Ga naar de **[overzichtspagina van de CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Als u Accepteren en  doorgaan niet ziet of de groene banner met de tekst dat MPA is ondertekend, hebt u niet de juiste rol om MPA te ondertekenen. Neem contact op met uw globale beheerder om de MPA te ondertekenen.
 
-1. Als u de **micro soft-partner overeenkomst** wilt bekijken en downloaden voordat u deze ondertekent, selecteert u de koppeling voor de micro soft partner overeenkomst zoals hieronder wordt weer gegeven
+1. Als u de Microsoft Partner-overeenkomst wilt **weergeven** en downloaden voordat u deze ondertekent, selecteert u Microsoft Partner-overeenkomst koppeling zoals hieronder wordt weergegeven.
 
-:::image type="content" source="images/agreement-three.png" alt-text="Nieuwe locatie van de MPA-overeenkomst":::
+:::image type="content" source="images/agreement-three.png" alt-text="Locatie van nieuwe MPA-overeenkomst":::
 
 >[!NOTE]
->Als u de koppeling van de **micro soft-partner overeenkomst** niet ziet, controleert u uw rol in partner centrum. Alleen globale beheerders van de CSP-Tenant kunnen MPA in het partner centrum bekijken en ondertekenen. Als u uw rol wilt controleren, gaat u naar **gebruikers beheer** en controleert u of het aangemelde account is gemarkeerd als **globale beheerder**. Als dat niet het geval is, kan dit account niet worden gebruikt voor het ondertekenen van de MPA. U kunt zoeken naar globale beheerders in uw bedrijf op de pagina gebruikers beheer.
+>Als u de koppeling Microsoft Partner-overeenkomst **ziet,** controleert u uw rol in Partner Center. Alleen globale beheerders in de CSP-tenant kunnen MPA weergeven en aanmelden bij Partner Center. Als u uw rol wilt controleren, gaat u **naar Gebruikersbeheer** en controleert u of het aangemelde account is gemarkeerd als **Globale beheerder.** Zo niet, dan kan dit account niet worden gebruikt om MPA te ondertekenen. U kunt zoeken naar globale beheerders in uw bedrijf op de pagina Gebruikersbeheer.
 
 :::image type="content" source="images/user-management-clean.png" alt-text="Uw rol vinden":::
 
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Controleer of u de MPA hebt ondertekend
 
-Als u wilt weten of u de MPA hebt ondertekend:
+Ga als volgende te werk om te zien of u de MPA hebt ondertekend:
 
- Ga als globale beheerder voor uw bedrijf naar uw CSP- [overzicht](https://partner.microsoft.com/pcv/dashboard/overview) en controleer de groene banner waarmee u wordt gewaarschuwd dat u de MPA hebt geaccepteerd.
+ Als globale beheerder voor uw bedrijf gaat u naar uw [CSP-overzicht](https://partner.microsoft.com/pcv/dashboard/overview) en controleert u de groene banner die u waarschuwt dat u de MPA hebt geaccepteerd.
 
  
 :::image type="content" source="images/banner-boxed.png" alt-text="Groene banner met MPA-acceptatie":::
 
 >[!NOTE]
->Alleen de globale beheerder in uw bedrijf kan de MPA bekijken en ondertekenen. Als u niet de globale beheerder bent, moet u uw globale beheerder vragen om de MPA te controleren.
+>Alleen de globale beheerder in uw bedrijf kan de MPA weergeven en ondertekenen. Als u niet de globale beheerder bent, moet u uw globale beheerder vragen om de MPA te verifiëren.
 
-U kunt ook zien of u de overeenkomst hebt ondertekend door **overeenkomsten** van **account instellingen** te selecteren.
+U kunt ook zien of u de overeenkomst hebt ondertekend door Overeenkomsten **te selecteren** in **Accountinstellingen.**
 
 :::image type="content" source="images/agreement-new.png" alt-text="Indicatie dat de MPA is ondertekend":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Down load de stapsgewijze hand leiding die het meest geschikt is voor de locatie van het MPA-handtekening proces
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Download de stapsgewijs te volgen handleiding die het beste bij u in het MPA-ondertekeningsproces betrokken is
 
 1. Als u uw MPN-account migreert van PMC naar Partnercentrum: [Migreren van PMC naar Partnercentrum, en akkoord gaan met de Microsoft Partner-overeenkomst](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
@@ -111,6 +109,6 @@ U kunt ook zien of u de overeenkomst hebt ondertekend door **overeenkomsten** va
  
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Hoe indirecte providers hun wederverkopers kunnen helpen bij het aannemen van de micro soft-partner overeenkomst-Veelgestelde vragen](mpa-indirect-provider-faq.md)
+- [Hoe indirecte providers hun resellers kunnen helpen bij het over adopteren van de Microsoft Partner-overeenkomst - Veelgestelde vragen](mpa-indirect-provider-faq.md)
 
 - [Registreren bij het Cloud Solution Provider-programma](indirect-reseller-tasks-in-partner-center.md)

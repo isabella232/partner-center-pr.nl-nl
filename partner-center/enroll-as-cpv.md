@@ -1,6 +1,6 @@
 ---
-title: Inschrijven als leverancier van het configuratie scherm
-description: Leer hoe u zich kunt inschrijven als leverancier van het configuratie scherm (CPV) in het partner centrum, zodat u de CSP-partner systemen beter integreert met partner Center-Api's.
+title: Registreren als Configuratiescherm leverancier
+description: Meer informatie over het registreren als een Configuratiescherm Vendor (CPV) in Partner Center zodat u CSP-partnersystemen beter kunt integreren met Partner Center API's.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,40 +9,38 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 5fd2267d53641fe4a0b6181217a35f0470e5bbe5
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: edc0ea8f0fda58f23cbce82bc7023a3277517cc3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560507"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147136"
 ---
-# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Inschrijven als leverancier van het configuratie scherm om de CSP-partner systemen te helpen integreren met partner Center-Api's
+# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Registreren als een Configuratiescherm leverancier om CSP-partnersystemen te integreren met Partner Center API's
 
 
-**Juiste rollen**
+**Juiste rollen:** globale beheerder
 
-- Globale beheerder
+Een Configuratiescherm Vendor (CPV) is een onafhankelijke softwareleverancier die toepassingen ontwikkelt voor gebruik door Cloud Solution Provider-partners (CSP) zodat ze hun systemen kunnen integreren met Partner Center API's. Een Configuratiescherm is geen CSP-partner met directe toegang tot Partner Center dashboard of Partner Center API's.
 
-Een leverancier van het configuratie scherm (CPV) is een onafhankelijke software leverancier die toepassingen ontwikkelt voor gebruik door de CSP-partners (Cloud Solution Provider) om hen in staat te stellen hun systemen te integreren met partner Center-Api's. Een leverancier van het configuratie scherm is geen CSP-partner met directe toegang tot het dash board van de partner centrum of partner Center-Api's.
+Of u nu een huidige Configuratiescherm-leverancier (CPV) of een nieuwe CPV bent die wil samenwerken met Microsoft-partners, Microsoft vereist nu dat u zich registreert bij Partner Center om uw toepassingen te registreren en ondersteuning te Cloud Solution Provider-partners. Als u een account wilt maken, kan een CPV-partner een bestaande CSP-partner-tenant of een bestaande CPV-tenant gebruiken of een nieuwe tenant maken als onderdeel van het onboardingproces. Als de CPV-partner ervoor kiest om de bestaande CSP-tenant te gebruiken, moet deze afzonderlijke toepassingen voor meerdere tenants maken en deze registreren in Partner Center voor CPV-activiteiten. Een toepassing kan niet worden geregistreerd als een CSP- en CPV-toepassing. Nadat u zich hebt geregistreerd bij Partner Center en uw toepassingen hebt geregistreerd, hebt u toegang tot de Partner Center API's.  Neem contact op met Microsoft via Microsoft-ondersteuning aanvraag als u een sandbox-account nodig hebt. Als u al een sandbox-account hebt, kunt u dit blijven gebruiken. U hebt geen nieuwe sandbox nodig
 
-Of u nu een leverancier van het configuratie scherm bent (CPV) of een nieuwe CPV die wil samen werken met micro soft-partners, u moet voor micro soft voor Taan inschrijven in het partner centrum om uw toepassingen te registreren en partners van de Cloud solution provider te ondersteunen. Voor het maken van een account kan een CPV-partner een bestaande CSP-partner Tenant of bestaande CPV-Tenant gebruiken of een nieuwe Tenant maken als onderdeel van het voorbereidings proces. Als de CPV-partner kiest voor het gebruik van de bestaande CSP-Tenant, moet u afzonderlijke multi tenant-toepassingen maken en deze registreren in het partner centrum voor CPV-activiteiten. Een toepassing kan niet worden geregistreerd als een CSP-en CPV-toepassing. Nadat u hebt Inge schreven in het partner centrum en uw toepassingen hebt geregistreerd, hebt u toegang tot de partner centrum-Api's.  Neem contact op met micro soft via een Microsoft Ondersteuning aanvraag als u een sandbox-account nodig hebt. Als u al een sandbox-account hebt, kunt u deze blijven gebruiken. U hebt geen nieuwe sandbox nodig
-
-De [overeenkomst van micro soft-configuratie scherm](https://go.microsoft.com/fwlink/?linkid=2055198) bekijken
+De [Microsoft Configuratiescherm Vendor-overeenkomst controleren](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>Werken in partner centrum
+## <a name="working-in-partner-center"></a>Werken in Partner Center
 
-Zodra u zich hebt Inge schreven in de Partner Center CPV-ervaring en de CPV-overeenkomst hebt geaccepteerd, kunt u het volgende doen:
+Nadat u zich hebt geregistreerd bij Partner Center CPV-ervaring en de CPV-overeenkomst hebt geaccepteerd, kunt u het volgende doen:
 
-- Beheer toepassingen voor meerdere tenants (toepassingen toevoegen aan Azure Portal, registreren en registratie van toepassingen in partner centrum).
+- Toepassingen met meerdere tenants beheren (toepassingen toevoegen aan Azure Portal registreren en de registratie van toepassingen in Partner Center).
 
     >[!Note] 
-    >CPVs moet hun toepassingen registreren in het partner centrum om geautoriseerd te krijgen voor Partner Center-Api's. Door toepassingen toe te voegen aan de Azure Portal alleen worden CPV-toepassingen voor partner centrum-Api's geautoriseerd. 
+    >CPV's moeten hun toepassingen registreren in Partner Center om te worden geautoriseerd voor Partner Center API's. Als u alleen toepassingen Azure Portal toevoegt aan de Partner Center, worden CPV-toepassingen Partner Center geautoriseerd. 
 
-- Uw CPV-profiel weer geven en beheren 
+- Uw CPV-profiel weergeven en beheren 
 
-- Bekijk en beheer uw gebruikers die toegang tot de CPV-mogelijkheden nodig hebben. De globale beheerder is de enige rol die een CPV kan hebben.
+- Uw gebruikers weergeven en beheren die toegang nodig hebben tot CPV-mogelijkheden. Globale beheerder is de enige rol die een CPV kan hebben.
 
 ## <a name="next-steps"></a>Volgende stappen
 
--[Extra tenants toevoegen aan uw partner centrum-account](multi-tenant-account.md)
+-[Extra tenants toevoegen aan uw Partner Center account](multi-tenant-account.md)

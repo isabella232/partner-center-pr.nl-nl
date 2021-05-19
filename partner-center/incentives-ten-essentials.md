@@ -1,6 +1,6 @@
 ---
-title: De 10 essentiële zaken voor het werken met prikkels
-description: Volg deze tien suggesties om uw stimulanss programma te verbeteren en binnenkort uitbetalingen te ontvangen.
+title: De tien essentiële onderdelen voor het werken met incentives
+description: Volg deze 10 suggesties om uw incentive-programma-ervaring te verbeteren en eerder uitbetalingen te ontvangen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,63 +8,60 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179102"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146711"
 ---
-# <a name="the-10-essentials-for-working-with-incentives"></a>De 10 essentiële zaken voor het werken met prikkels
+# <a name="the-10-essentials-for-working-with-incentives"></a>De tien essentiële onderdelen voor het werken met incentives
 
-**Juiste rollen**
+**Juiste rollen:** Incentives-| Incentives-gebruiker
 
-- Prikkel beheerder
-- Prikkel gebruiker
+De Microsoft Incentives-programma is een krachtig hulpprogramma waarmee partners kunnen worden beloond om klanten te betrekken bij Microsoft-producten en -services. Hoe meer u het programma begrijpt, hoe beter de kans op succes.
 
-Het micro soft prikkeling programma is een krachtig hulp programma dat partners beloont voor klanten met micro soft-producten en-services. Hoe meer u het programma kent, hoe beter uw kans op slagen.
+U wordt aangeraden de 10 essentials uit de onderstaande lijst te **volgen voordat** u aan de slag gaat met het incentives-programma. Ze helpen ervoor te zorgen dat uw incentives een goede ervaring zijn en helpen vertragingen in uw incentive-uitbetalingen te voorkomen.
 
-We raden u aan de 10 essentiële punten die hieronder worden vermeld, te doen **voordat** u aan de slag gaat met het programma voor prikkels. Ze helpen ervoor te zorgen dat uw prikkel ervaring een goede oplossing is, en helpt vertragingen in uw uitbetalingen te voor komen.
+## <a name="1-join-the-microsoft-partner-network"></a>1. Voeg de Microsoft Partner Network
 
-## <a name="1-join-the-microsoft-partner-network"></a>1. Word lid van de Microsoft Partner Network
+Als u nog geen Microsoft-partner bent, moet u lid worden van het MPN om te profiteren van incentives en andere voordelen. Zie lidmaatschap Microsoft Partner Network [voor meer informatie.](https://partner.microsoft.com/membership)
 
-Als u nog geen micro soft-partner bent, moet u deel nemen aan de MPN om te profiteren van prikkels en andere voor delen. Zie [Microsoft Partner Network lidmaatschap](https://partner.microsoft.com/membership)voor meer informatie.
+## <a name="2-read-your-incentives-program-guide"></a>2. Uw Incentives-programmagids
 
-## <a name="2-read-your-incentives-program-guide"></a>2. Lees de gids voor het prikkel programma
+Elk incentive-programma heeft een eigen gedetailleerde programmahandleiding. In deze handleiding vindt u vereisten voor geschiktheid en inschrijving, inkomstenkansen en andere informatie die uniek is voor uw programma. Volg deze procedure om toegang te krijgen [tot uw programmahandleiding.](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)
 
-Elk prestatie programma heeft een eigen gedetailleerde programma gids. In deze hand leiding vindt u de vereisten voor de geschiktheid en inschrijving, het verdienen van kansen en andere informatie die uniek is voor uw programma. Volg [deze procedure](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)om toegang te krijgen tot uw programma gids.
+## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Uw belasting- en bankprofiel instellen
 
-## <a name="3-set-up-your-tax-and-banking-profile"></a>3. uw BTW-en Bank profiel instellen
+Bijna alle vertragingen bij uitbetalingen of andere onderbrekingen in het incentives-proces zijn het resultaat van een onnauwkeurige of onvolledige belasting en bankprofiel. Zorg ervoor dat uw profiel in orde is voordat u begint met uw incentives-programma. Zie Uitbetalings- en [belastingprofielen in](incentives-create-and-manage-your-payout-and-tax-profiles.md)Partner Center.
 
-Bijna alle uitbetalings vertragingen of andere onderbrekingen in het proces van prikkels zijn het resultaat van een onnauwkeurig of onvolledig BTW-en Bank profiel. Zorg ervoor dat uw profiel een goede vorm heeft voordat u het programma voor prikkeling start. Zie voor meer informatie [uitbetalings-en BTW-profielen in partner centrum](incentives-create-and-manage-your-payout-and-tax-profiles.md).
+## <a name="4-learn-about-roles-and-permissions"></a>4. Meer informatie over rollen en machtigingen
 
-## <a name="4-learn-about-roles-and-permissions"></a>4. meer informatie over rollen en machtigingen
+Het is belangrijk om een goed beeld te krijgen van de rollen en machtigingen die betrokken zijn bij het incentives-programma. Zodra u dit hebt gedaan, kunt u bepalen welke rollen moeten worden toegewezen aan de personen in uw bedrijf. Zie Welke gebruikersrollen zijn [er beschikbaar? voor meer informatie.](incentives-faq.md#what-user-roles-are-available)
 
-Het is belang rijk dat u een solide informatie krijgt over de rollen en machtigingen die betrokken zijn bij het programma prikkel. Zodra u dit hebt gedaan, kunt u bepalen welke rollen moeten worden toegewezen aan de personen in uw bedrijf. Zie [welke gebruikers rollen beschikbaar zijn?](incentives-faq.md#what-user-roles-are-available) voor meer informatie.
+## <a name="5-review-the-incentives-faq"></a>5. Bekijk de veelgestelde vragen over incentives
 
-## <a name="5-review-the-incentives-faq"></a>5. Raadpleeg de veelgestelde vragen over prikkels
+Krijg antwoorden op veelvoorkomende incentives-vragen voordat u ze zelfs maar stelt. We werken de veelgestelde vragen over incentives regelmatig bij met behulp van informatie Microsoft-ondersteuning en directe communicatie met partners. U kunt de veelgestelde vragen [hier bekijken.](incentives-faq.md)
 
-Krijg antwoorden op veelvoorkomende vragen voordat u deze zelfs vraagt. De veelgestelde vragen over prikkels worden regel matig bijgewerkt met behulp van informatie van Microsoft Ondersteuning en directe communicatie met partners. U kunt de veelgestelde vragen [hier](incentives-faq.md)weer geven.
+## <a name="6-confirm-your-program-eligibility"></a>6. Bevestig dat uw programma in aanmerking komt
 
-## <a name="6-confirm-your-program-eligibility"></a>6. Bevestig de geschiktheid van uw programma
+Hiervoor moet u er doorgaans voor zorgen dat u Microsoft alle vereiste bedrijfsprofieldocumentatie hebt verstrekt en dat u alle vereiste competenties hebt behaald. Zie [Bevestig dat uw programma in aanmerking komt.](incentives-determined-your-program-eligibility.md)
 
-Dit houdt doorgaans in dat u beschikt over alle vereiste bedrijfs profiel documentatie en dat u alle vereiste competenties hebt bereikt. Zie [de geschiktheid van uw programma bevestigen](incentives-determined-your-program-eligibility.md).
+## <a name="7-confirm-your-earnings-eligibility"></a>7. Bevestig uw inkomsten in aanmerking komen
 
-## <a name="7-confirm-your-earnings-eligibility"></a>7. de geschiktheid van uw inkomen bevestigen
+Net als bij de vorige taak moet u er doorgaans voor zorgen dat u Microsoft alle informatie hebt gegeven die we nodig hebben. Zie [Bevestig uw inkomsten in aanmerking komen.](incentives-confirm-your-earnings-eligibility.md)
 
-Net als bij de vorige taak is het in het algemeen nood zakelijk dat u micro soft hebt voorzien van alle informatie die we nodig hebben. Zie [de geschiktheid van uw inkomsten bevestigen](incentives-confirm-your-earnings-eligibility.md).
+## <a name="8-gather-the-necessary-enrollment-information"></a>8. De benodigde inschrijvingsgegevens verzamelen
 
-## <a name="8-gather-the-necessary-enrollment-information"></a>8. Verzamel de benodigde registratie gegevens
+Voor inschrijving in het incentives-programma is een bepaalde hoeveelheid informatie over uw bedrijf vereist. Zorg ervoor dat u alles bij elkaar hebt voordat u aan de slag gaat. Download en lees de [Incentive-inschrijving](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) in Partner Center PDF-bestand voor meer informatie.
 
-Voor het inschrijven van het programma voor prikkels is een bepaalde hoeveelheid informatie over uw bedrijf vereist. Zorg ervoor dat u alles gebruikt voordat u aan de slag gaat. Down load en lees de prikkel registratie in het PDF-bestand [van partner Center](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) voor meer informatie.
+## <a name="9-learn-how-other-partners-do-it"></a>9. Meer informatie over hoe andere partners dit doen
 
-## <a name="9-learn-how-other-partners-do-it"></a>9. meer informatie over hoe andere partners dit doen
+Er zijn veel goede artikelen beschikbaar over Incentives en Partner Center microsoft in het algemeen, zoals De vijf kenmerken [van succesvolle Microsoft-partners.](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/)
 
-Er zijn veel goede artikelen beschikbaar over micro soft prikkels en partner Center in het algemeen, zoals [de vijf kenmerken van succes volle micro soft-partners](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/).
+## <a name="10-read-the-partner-center-online-help"></a>10. De online help Partner Center lezen
 
-## <a name="10-read-the-partner-center-online-help"></a>10. Lees de online-Help van het partner centrum
-
-U vindt gedetailleerde procedures voor het uitvoeren van alle hierboven genoemde taken. U kunt de volledige prikkels sectie in ongeveer een uur lezen en de meeste artikelen nemen slechts een paar minuten in beslag. Zie [aan](incentives-get-started-intro.md)de slag om te beginnen met het lezen van de Help.
+U vindt gedetailleerde procedures voor het uitvoeren van alle bovenstaande taken. U kunt de hele sectie Incentives in ongeveer een uur lezen. De meeste artikelen duren slechts een minuut of twee. Zie Aan de slag als u de Help [wilt lezen.](incentives-get-started-intro.md)
 
 ## <a name="next-steps"></a>Volgende stappen
 

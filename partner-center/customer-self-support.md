@@ -9,26 +9,22 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 89d7cf65d34911cc4098206dbc70d72cd2998e7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284176"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147459"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Zelfondersteuning voor klanten via Microsoft Office 365-beheercentrum of via het Azure Portal
 
-**Van toepassing op**
+**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partnercentrum voor Microsoft Cloud for US Government
-
-**Juiste rollen**
-
-- Helpdeskagent
+**Juiste rollen:** Helpdeskagent
 
 Klanten kunnen zich aanmelden bij hun Microsoft Office 365-beheercentrum of bij het Azure Portal hun eigen accounts te beheren:
 
-- Bekijk communicatie en meldingen binnen het product, zoals service health-informatie, in de Berichtencentrum.
+- Bekijk communicatie binnen het product en meldingen, zoals service health-informatie, in de Berichtencentrum.
 
 - Voer alle serviceconfiguratie- en beheertaken uit alsof ze rechtstreeks van Microsoft zijn gekocht. Deze taken omvatten het configureren van Exchange Online, SharePoint Online, Skype voor Bedrijven of andere services die ze hebben aangeschaft.
 

@@ -1,107 +1,104 @@
 ---
 title: Uitbetalingsschema's en-processen
-description: Meer informatie over uitbetalingen en trans acties, zoals betalings schema's en rekoppelings processen voor de commerciële Marketplace en andere trans acties.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+description: Meer informatie over uitbetalingen en transacties, zoals betalingsschema's en recoupmentprocessen voor de commerciële marketplace en andere transacties.
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086172"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146949"
 ---
 # <a name="payout-schedules-and-processes"></a>Uitbetalingsschema's en-processen
 
-**Juiste rollen**
+**Juiste rollen:** Accountbeheerder | Globale beheerder
 
-- Accountbeheerder
-- Globale beheerder
+In dit artikel wordt het betalingsschema van Microsoft beschreven, waar u de status van een uitbetaling kunt vinden en het proces voor het niet-betalen van klanten.
 
-In dit artikel wordt het betalings schema van micro soft beschreven, waar u de status van een uitbetaling en het proces voor niet-betaling van de klant kunt vinden.
+## <a name="payment-schedules"></a>Betalingsschema's
 
-## <a name="payment-schedules"></a>Betalings schema's
+In de volgende secties wordt het uitbetalingsproces voor **Enterprise Agreement** **en creditcard-/factuurtransacties** beschreven.
 
-In de volgende secties wordt het proces voor uitbetalingen voor **Enterprise overeenkomst** en **Credit Card-en factuur** transacties beschreven.
+### <a name="enterprise-agreement-transactions"></a>Enterprise Agreement transacties
 
-### <a name="enterprise-agreement-transactions"></a>Enterprise Overeenkomst trans acties
+Wanneer een klant een product aanschaft bij Microsoft AppSource of Azure Marketplace met behulp van hun bestaande Microsoft Enterprise Agreement voor transacties, zullen we uitbetalingen uitgeven in de volgende uitbetalingscyclus, 30 dagen na klantfactuur. Transacties waarbij een klant een creditcard gebruikt, hebben een periode van 30 dagen vóór uitbetaling.
 
-Wanneer een klant een product koopt van Microsoft AppSource of Azure Marketplace met behulp van hun bestaande micro soft-Enterprise Overeenkomst voor trans acties, zullen we uitbetalingen doen in de volgende uitbetalings cyclus 30 dagen na de klant factuur. Trans acties waarbij een klant gebruikmaakt van een credit card, hebben een periode van 30 dagen vóór de betaling.
+Er wordt vaak een uitbetaling uitgevoerd voordat Microsoft de betaling van de klant int. Zie [Proces voor niet-betaling door](#process-for-customer-non-payment) klant hieronder voor de acties die we uitvoeren als de klant Microsoft niet kan betalen, maar we al een uitbetaling hebben uitgegeven.
 
-Een uitbetaling vindt vaak plaats voordat micro soft de betaling van de klant verzamelt. Zie het [proces voor klant niet-betaling](#process-for-customer-non-payment) hieronder voor de acties die we ondernemen als de klant micro soft niet kan betalen, maar er al een uitbetaling is verleend.
-
-| Gebeurtenis | Description | Zicht baarheid van rapporten | Time |
+| Gebeurtenis | Description | Zichtbaarheid van rapportage | Timing* |
 | --- | --- | --- | --- |
-| Gebruik of maand van trans actie | Klant gebruikt of koopt een service. | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 1** |
-| Micro soft berekent het factuur bedrag | Het totale gebruik, het totaal aantal trans acties bepalen | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 2** |
-| Betaling verzonden | De kosten van het Agency en de inkomsten van de betaling bepalen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 3 (1e week)** |
-| Uitbetaling voorbereiden | De inkomsten worden voor bereid voor de maandelijkse betaling | Gemarkeerd als gepland in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 3 (1e week)** |
-| **Verzonden betaling** | **De betaling wordt verzonden naar Publisher** | **Gemarkeerd als verzonden in de transactie geschiedenis en in de sectie betalingen van de [uitbetalings verklaring](payout-statement.md)** | **Maand 3 (niet later dan de 15e)** |
-| Factuur betaald door klant | Micro soft verzamelt de betaling van de klant | Geen wijziging | **Maand 4 tot en met 12** |
+| Gebruik of transactiemaand | De klant gebruikt of koopt een service. | [Gebruiks-](/azure/marketplace/partner-center-portal/usage-dashboard) [of orderdashboard](/azure/marketplace/partner-center-portal/orders-dashboard) | **Maand 1** |
+| Microsoft berekent het factureringsbedrag | Het totale gebruik en het totale aantal transacties bepalen | [Gebruiks-](/azure/marketplace/partner-center-portal/usage-dashboard) [of orderdashboard](/azure/marketplace/partner-center-portal/orders-dashboard) | **Maand 2** |
+| Uitbetaling gepost | Instantiekosten en uitbetalingsverdiensten bepalen | Gemarkeerd als Niet-verwerkt in transactiegeschiedenis op het [uitbetalingsoverzicht](payout-statement.md) | **Maand 3 (eerste week)** |
+| Uitbetaling voorbereiden | Inkomsten worden voorbereid voor maandelijkse betaling | Gemarkeerd als Aanstaande in transactiegeschiedenis in het [uitbetalingsoverzicht](payout-statement.md) | **Maand 3 (eerste week)** |
+| **Uitbetaling verzonden** | **Betaling wordt verzonden naar de uitgever** | **Gemarkeerd als verzonden in transactiegeschiedenis en in de sectie Betalingen van het [uitbetalingsoverzicht](payout-statement.md)** | **Maand 3 (niet later dan de 15e)** |
+| Factuur betaald door klant | Microsoft int betaling van klant | Geen wijziging | **Maand 4 t/m 12** |
 |
 
-\* De uitbetalings datum is in Pacific (standaard tijd) (PST).
+\* De uitbetalingsdatum is in Pacific Standard Time (PST).
 
-:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Tijd lijn van betalingen voor klanten met een Enter prise Agreement.":::
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Tijdlijn van betalingen voor Enterprise Agreement-klanten.":::
 
-### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Trans acties met een credit card of factuur (cheque/bedrading)
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transacties met creditcard of factuur (cheque/cheque)
 
-Voor alle aankopen met een credit card of een maandelijkse factuur geldt een periode van 30 dagen om ervoor te zorgen dat de klant geld wordt verzameld.
+Alle aankopen met een creditcard of maandelijkse factuur hebben een periode van 30 dagen om ervoor te zorgen dat er geld wordt verzameld bij de klant.
 
-| Gebeurtenis | Description | Zicht baarheid van rapporten | Time |
+| Gebeurtenis | Description | Zichtbaarheid van rapportage | Timing* |
 | --- | --- | --- | --- |
-| Gebruik of maand van trans actie | Klant gebruikt of koopt een service. | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 1** |
-| Factuur betaald door klant | Het totale gebruik, de totale transactie waarde en de factuur van de klant bepalen | [Gebruik](/azure/marketplace/partner-center-portal/usage-dashboard) of [volg orde](/azure/marketplace/partner-center-portal/orders-dashboard) van een dash board | **Maand 2** |
-| Betaling verzonden | De kosten van het Agency en de inkomsten van de betaling bepalen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 2** |
-| periode van 30 dagen | Zorgen voor verzameling van tegoeden, mogelijke terugstortingen en restitutie aanvragen | Gemarkeerd als niet-verwerkt in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 3** |
-| Uitbetaling voorbereiden | De inkomsten worden voor bereid voor de maandelijkse betaling | Gemarkeerd als gepland in de transactie geschiedenis van de [uitbetalings verklaring](payout-statement.md) | **Maand 4 (1e week)** |
-| **Verzonden betaling** | **De betaling wordt verzonden naar Publisher** | **Gemarkeerd als verzonden in de transactie geschiedenis en in de sectie betalingen van de [uitbetalings verklaring](payout-statement.md)** | **Maand 4 (niet later dan de 15e)** |
+| Gebruik of transactiemaand | De klant gebruikt of koopt een service. | [Gebruiks-](/azure/marketplace/partner-center-portal/usage-dashboard) [of orderdashboard](/azure/marketplace/partner-center-portal/orders-dashboard) | **Maand 1** |
+| Factuur betaald door klant | Het totale gebruik, de totale transactiewaarde en de factuur van de klant bepalen | [Gebruiks-](/azure/marketplace/partner-center-portal/usage-dashboard) [of orderdashboard](/azure/marketplace/partner-center-portal/orders-dashboard) | **Maand 2** |
+| Uitbetaling gepost | Instantiekosten en uitbetalingsverdiensten bepalen | Gemarkeerd als Niet-verwerkt in transactiegeschiedenis op het [uitbetalingsoverzicht](payout-statement.md) | **Maand 2** |
+| Periode van 30 dagen | Zorg voor het verzamelen van tegoeden, mogelijke terugboekingen en restitutieaanvragen | Gemarkeerd als Niet-verwerkt in transactiegeschiedenis op het [uitbetalingsoverzicht](payout-statement.md) | **Maand 3** |
+| Uitbetaling voorbereiden | Inkomsten worden voorbereid voor maandelijkse betaling | Gemarkeerd als Aanstaande in transactiegeschiedenis in het [uitbetalingsoverzicht](payout-statement.md) | **Maand 4 (eerste week)** |
+| **Uitbetaling verzonden** | **Betaling wordt verzonden naar uitgever** | **Gemarkeerd als Verzonden in transactiegeschiedenis en in de sectie Betalingen van het [uitbetalingsoverzicht](payout-statement.md)** | **Maand 4 (niet later dan de 15e)** |
 |
 
-\* De uitbetalings datum is in Pacific (standaard tijd) (PST).
+\* De uitbetalingsdatum is in Pacific Standard Time (PST).
 
-:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Tijd lijn van betalingen voor credit card-en factuur klanten.":::
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Tijdlijn van betalingen voor creditcard- en factuurklanten.":::
 
-## <a name="process-for-customer-non-payment"></a>Proces voor niet-betaling van klant
+## <a name="process-for-customer-non-payment"></a>Proces voor niet-betaling door klant
 
-In zeldzame gevallen kan micro soft geen betalingen van klanten verzamelen voor hun aankopen op de Commercial Marketplace. Wanneer een klant micro soft niet kan betalen volgens hun facturerings schema, beginnen we met het incasso proces. Dit proces duurt ongeveer vier maanden en houdt permanente communicatie van micro soft met zich mee. Als aan het einde van dit proces geen betaling wordt ontvangen, schrijft micro soft de fondsen uit als niet-geïncasseerd.
+In zeldzame gevallen kan Microsoft geen betalingen van klanten innen voor hun aankopen op de commerciële marketplace. Wanneer een klant microsoft niet kan betalen volgens het factureringsschema, beginnen we met het verzamelingsproces. Dit proces duurt ongeveer vier maanden en omvat permanente communicatie van Microsoft. Als er aan het einde van dit proces geen betaling is ontvangen, schrijft Microsoft het bedrag af als niet-in te zamelijk.
 
-Op basis van het uitbetalings proces dat hier is gegeleeerd, heeft micro soft mogelijk al fondsen betaald aan uitgevers (u) die uiteindelijk niet worden geïncasseerd. Daarom hebben we een proces voor het afstemmen van deze bedragen. Om ervoor te zorgen dat uw (al ontvangen) betaling kan worden afgestemd, ontvangt u een melding wanneer een klant zich in het incasso proces bevindt en worden de aankopen waarschijnlijk afgeschreven.
+Volgens het uitbetalingsproces dat hier wordt verwoord, heeft Microsoft mogelijk al geld betaald aan uitgevers (u) die uiteindelijk niet kunnen worden opgehaald. Daarom hebben we een proces voor het afstemmen van deze bedragen. Om ervoor te zorgen dat u een waarschuwing hebt dat uw (al ontvangen) betaling kan worden afgestemd, ontvangt u een melding wanneer een klant bezig is met het verzamelingsproces en aankopen waarschijnlijk worden afgeschreven.
 
-Micro soft brengt alle uitbetalingen die u aan u hebt betaald, aan met een van de volgende methoden: (1) micro soft kan de onbetaalde bedragen van toekomstige uitbetalingen aftrekken; Als bijvoorbeeld $1.000 in uitbetalingen als niet-verzamelend wordt beschouwd en wordt afgeschreven, worden uw toekomstige uitbetalingen Inge houden tot de $1.000 wordt hersteld, of (2) micro soft kan een restitutie of factuur uitgevers aanvragen voor alle niet-geïnde bedragen.
+Microsoft maakt alle uitbetalingen die al aan u zijn betaald, terug met behulp van een van de volgende methoden: (1) Microsoft kan de onbetaalde bedragen aftrekken van toekomstige uitbetalingen; Als bijvoorbeeld $ 1.000 aan uitbetalingen als oninbaar en afgeschreven wordt beschouwd, worden uw toekomstige uitbetalingen ingetrokken tot de $ 1000 is hersteld, of (2) Microsoft kan een restitutie of factuuruitgevers aanvragen voor alle niet-opgehaalde bedragen.
 
-De volgende planning is een voor beeld:
+De volgende planning is een voorbeeld:
 
-| Gebeurtenis | Geschatte datum * | Zicht baarheid partner |
+| Gebeurtenis | Geschatte datum* | Zichtbaarheid van partners |
 | --- | --- | --- |
-| Voor beeld van uitbetalings datum | 10/15/2020 | Gemarkeerd als **verzonden** in de sectie transactie geschiedenis en in betalingen in het uitbetalings dashboard |
-| <font color="red">Als de klant micro soft niet betaalt</font> | 12/2/2020 – 12/5/2020 | Geen wijziging, hetzelfde als hierboven |
-| Klant ontvangt eerste e-mail adres voor betaling | 12/6/2020 | Geen |
-| De klant ontvangt regel matige e-mails met een oplopende urgentie | 12/7/2020 – 1/31/2021 | Geen |
-| Publisher wordt op de hoogte gesteld van uitschrijving waarschijnlijk | 1/7/2021 | Er is een e-mail melding verzonden naar de uitgever dat de klant nog geen betaling heeft verzonden. De trans actie-ID en het dollar bedrag zijn opgenomen. |
-| Opzeg ging van klant ontvangt | 2/1/2021 | Geen |
-| Beëindiging van het verzamelings proces/fondsen zijn afgeschreven | 2/15/2021 | Er is een e-mail melding verzonden naar de uitgever die de fondsen afschrijven. De trans actie-ID en het dollar bedrag zijn opgenomen. |
-| Uitbetaling wordt in mindering gebracht | 01-03-2021 | Er wordt een negatieve trans actie weer geven in de uitbetalings verklaring van partner Center |
-| Uitbetaling wordt Inge houden | 3/15/2021 | Toekomstige uitbetalingen worden weer gegeven in de uitbetalings verklaring van partner Center. De betaling wordt pas ontvangen als het saldo niet langer negatief is.  |
+| Voorbeeld van uitbetalingsdatum | 10/15/2020 | Gemarkeerd als **verzonden** in transactiegeschiedenis en in de sectie Betalingen in uitbetalingsdashboard |
+| <font color="red">Als de klant microsoft niet betaalt</font> | 12/2/2020 – 12/5/2020 | Geen wijziging, hetzelfde als hierboven |
+| Klant ontvangt eerste e-mail met te late betaling | 12/6/2020 | Geen |
+| De klant ontvangt regelmatig e-mailberichten met een toenemende urgentie | 12/7/2020 – 1/31/2021 | Geen |
+| Uitgever krijgt een melding dat afschrijven waarschijnlijk is | 1/7/2021 | Er wordt een e-mailmelding verzonden naar de uitgever dat de klant nog geen betaling heeft verzonden. Transactie-id en bedrag in dollars zijn inbegrepen. |
+| Klant ontvangt bericht over beëindiging | 2/1/2021 | Geen |
+| Einde van het verzamelingsproces/ geld wordt afgeschreven | 2/15/2021 | E-mailmelding verzonden naar uitgever dat het bedrag is afgeschreven. Transactie-id en bedrag in dollars zijn inbegrepen. |
+| Uitbetaling wordt in mindering gebracht | 01-03-2021 | Uitgever ziet een negatieve transactie in Partner Center uitbetalingsoverzicht |
+| Uitbetaling is ingehouden | 3/15/2021 | Toekomstige uitbetalingen worden weergegeven in Partner Center uitbetalingsoverzicht. De uitgever ontvangt geen betaling totdat het saldo niet langer negatief is.  |
 |||
 
-\* De uitbetalings datum is in Pacific (standaard tijd) (PST).
+\* De uitbetalingsdatum is in Pacific Standard Time (PST).
 
-## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Aantal dagen dat betalingen een uitbetalings account bereiken
+## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Aantal dagen dat betalingen een uitbetalingsaccount bereiken
 
-Normaal gesp roken verstuurt de betaling in een bepaalde maand op de vijftiende dag van die maand, maar duurt het nog een keer om uw account te bereiken. Het aantal dagen is afhankelijk van de betalings wijze die we voor uw account gebruiken, zoals hieronder wordt beschreven.
+Normaal gesproken verzenden we elke betaling die in een bepaalde maand op de 15e dag van die maand moet worden betaald, maar het duurt een andere keer om de betaling te bereiken. Het aantal dagen is afhankelijk van de betalingswijze die we voor uw account gebruiken, zoals hieronder wordt beschreven.
 
 > [!NOTE]
-> De dagen die hieronder worden weer gegeven, zijn ongeveer gelijk aan. elke betaling kan meer of minder tijd in beslag nemen om uw account te bereiken.
+> De onderstaande dagen zijn bij benadering; Het kan meer of minder tijd duren voor elke betaling uw account heeft bereikt.
 
-| Betalingswijze     | Aantal dagen voor het bereiken van het uitbetalings account     |
+| Betalingswijze     | Aantal dagen dat de uitbetalingsrekening moet worden bereikt     |
 |--------------------|--------------------------------------------|
 | PayPal             | 1 werkdag                             |
-| ACH/SEPA           | 2-3 werk dagen                          |
-| Overschrijving      | 7-10 werk dagen                         |
+| BES/SEPA           | 2-3 werkdagen                          |
+| Overschrijving      | 7-10 werkdagen                         |
 |
 
 ## <a name="next-steps"></a>Volgende stappen

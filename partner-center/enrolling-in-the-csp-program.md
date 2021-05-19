@@ -4,23 +4,21 @@ ms.topic: how-to
 ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Leer hoe u zich kunt inschrijven in het Cloud Solution Provider (CSP) verkoopmodel van het programma dat het beste bij uw bedrijf past, zoals indirecte reseller of partner voor directe factuur.
+description: Leer hoe u zich kunt inschrijven in het Cloud Solution Provider (CSP)-verkoopmodel dat het beste bij uw bedrijf past, zoals indirecte reseller of partner voor directe factuur.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5be78c55a10e6db1ff0ec057b2a6a06e4373f7a7
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.openlocfilehash: 0e5128b8b97a22c9bcbab669d10df47fe921782a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712478"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147017"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registreren bij het Cloud Solution Provider-programma
 
-**Juiste rollen**
-
-- Globale beheerder
+**Juiste rollen:** globale beheerder
 
 ## <a name="get-started"></a>Aan de slag
 
@@ -35,10 +33,10 @@ Als u de CSP-toepassing wilt voltooien, hebt u de MPN-id van uw bedrijf, het vol
 2. Maak uw partnerprofiel en koppel uw MPN-id aan uw profiel.
 Het kan enkele dagen duren voordat de gegevens die u hebt opgegeven, zijn gecontroleerd en geverifieerd. We sturen u een e-mail wanneer we onze beoordeling hebben voltooid.
 
-3. Nadat we uw gegevens hebben geverifieerd, accepteert u de overeenkomst voor indirecte resellers van Microsoft.
+3. Nadat we uw gegevens hebben geverifieerd, accepteert u de voorwaardenovereenkomst voor indirecte Microsoft-resellers.
 
 > [!IMPORTANT]  
-> Een partner in het CSP-programma kan de onlineservices verkopen aan een andere partner in het CSP-programma. Deze beperking geldt alleen voor de tenant die wordt gebruikt voor het uitvoeren van CSP-transacties. CSP-partners die een niet-CSP-tenant gebruiken voor hun bedrijfsgebruik, kunnen onlineservices aanschaffen bij een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Nieuws over functiereleases of beleidswijzigingen wordt aangekondigd via de gebruikelijke communicatiekanalen, waaronder [Partner Center aankondigingen](announcements/index.md).
+> Een partner in het CSP-programma kan momenteel onlineservices verkopen aan een andere partner in het CSP-programma. Deze beperking geldt alleen voor de tenant die wordt gebruikt voor het uitvoeren van CSP-transacties. CSP-partners die een niet-CSP-tenant gebruiken voor hun bedrijfsgebruik, kunnen een onlineservices van een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Nieuws over functiereleases of beleidswijzigingen wordt aangekondigd via de gebruikelijke communicatiekanalen, waaronder [Partner Center aankondigingen](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Inschrijven als een indirecte reseller
 
@@ -52,7 +50,7 @@ Verschillende indirecte providers bieden verschillende ondersteuning en services
 
 - U helpen uw producten en services op de markt te brengen
 
-- Hulp bij het opstellen van voorwaarden voor tegoeden en tegoeden
+- Hulp bij het opstellen van de voorwaarden voor het betalen van tegoeden
 
 Als u nog niet met een provider werkt (ook wel bekend als distributor), kunt u zoeken in de lijst met officiële [Microsoft-providers](https://partnercenter.microsoft.com/partner/find-a-provider) om er een te vinden.
 
@@ -68,8 +66,8 @@ Als directe factuurpartner bent u eigenaar van de end-to-end-relatie met uw klan
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-id**   |Een actief lidmaatschap van de Microsoft Partner Network mpn-id voor de locatie waarin u wilt verkopen.    |
 |**Goedkeuring**   |De autoriteit voor het accepteren en ondertekenen van juridische overeenkomsten namens uw organisatie.|
-|**Ondersteuning**   |De mogelijkheid om uw klanten het eerste niveau van cloudproductondersteuning te bieden. <br>Een Microsoft-ondersteuningsplan, geavanceerde ondersteuning voor partners (ASfP) of Premier Support for Partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteuningsplannen.](https://partner.microsoft.com/support/partnersupport)<br> BELANGRIJK: U moet een kredietcontrole door geven voordat u een ondersteuningsplan aanschaft. We sturen u een e-mail wanneer u de kredietcontrole hebt doorgenomen. |
-|**Omzetvereiste**|Moet voldoen aan ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma gedurende de voorgaande 12 maanden als indirecte reseller. Partners kunnen hun na 12 maanden aan omzet op Partner Center.<br/>De verkopen van uw USD 300.000 na 12 maanden aan omzet zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste USD 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.|
+|**Ondersteuning**   |De mogelijkheid om uw klanten het eerste niveau van cloudproductondersteuning te bieden. <br>Een Microsoft-ondersteuningsplan, geavanceerde ondersteuning voor partners (ASfP) of Premier Support for Partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteuningsplannen.](https://partner.microsoft.com/support/partnersupport)<br> BELANGRIJK: U moet een kredietcontrole door laten gaan voordat u een ondersteuningsplan aanschaft. We sturen u een e-mail wanneer u de kredietcontrole hebt doorgenomen. |
+|**Omzetvereiste**|Moet voldoen aan ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma gedurende de voorgaande 12 maanden als indirecte reseller. Partners kunnen hun na 12 maanden aan omzet op Partner Center.<br/>De verkopen van uw USD 300.000 na een omzet van 12 maanden zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste USD 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.|
 |**Debiteuren** |De organisatie-infrastructuur die is ingericht voor het beheren van klantfacturering en -inrichting.|
 |**Aanbeveling**|             |
 |**Beheerde service**   |Ten minste één beheerde service, IP-service of klantoplossingstoepassing. Meer informatie over het toevoegen [van beheerde services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|

@@ -9,26 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 874d2e564b56acd37065c863fbf945b29c44167d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818759"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146524"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Uw voordelen Microsoft Partner Network lidmaatschap en aanbiedingen beheren in Partner Center
 
-**Juiste rollen**
-
-- Globale beheerder
-- Beheerder van gebruikersbeheer
-- Beheeragent
-- MPN-partnerbeheerder
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | MPN-partnerbeheerder
 
 >[!IMPORTANT]
->In dit artikel wordt uitgelegd hoe u uw mpn Microsoft Partner Network-lidmaatschapsvoordelen kunt gebruiken in de Partner Center - deze site. Als u nog geen uitnodiging hebt ontvangen om uw bedrijfsgegevens van Partner Membership Center (PMC) naar de Partner Center te verplaatsen, moet u uw MPN-lidmaatschapsvoordelen blijven beheren in PMC. [Meld u](https://partner.microsoft.com/_login?authType=OpenIdConnect) nu aan bij PMC.
+>In dit artikel wordt uitgelegd hoe u uw mpn Microsoft Partner Network-lidmaatschapsvoordelen kunt gebruiken in de Partner Center - deze site. Als u nog geen uitnodiging hebt ontvangen om uw bedrijfsgegevens te verplaatsen van Partner Membership Center (PMC) naar de Partner Center, moet u uw MPN-lidmaatschapsvoordelen blijven beheren in PMC. [Meld u](https://partner.microsoft.com/_login?authType=OpenIdConnect) nu aan bij PMC.
 
-Wanneer u lid wordt van Microsoft Partner Network (MPN), krijgt u toegang tot lidmaatschapsvoordelen die u kunnen helpen bij het bouwen en groeien van uw bedrijf. Als u nog geen lid bent van MPN, kunt u deelnemen op [de MPN-site](https://partner.microsoft.com/membership).
+Wanneer u lid wordt van de Microsoft Partner Network (MPN), krijgt u toegang tot lidmaatschapsvoordelen die u kunnen helpen bij het bouwen en groeien van uw bedrijf. Als u nog geen lid bent van MPN, kunt u deelnemen op [de MPN-site](https://partner.microsoft.com/membership).
 
 ## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Uw lidmaatschapsvoordelen beheren in de Partner Center
 
@@ -39,7 +34,7 @@ Nadat u een lidmaatschapsvoordeelpakket hebt aangeschaft, moet u softwaresleutel
 
 Voordelenpakketten omvatten toewijzingen van gelicentieerde software, cloudservices, Visual Studio abonnementen en technische ondersteuning. Voordelenpakketten kunnen ook bepaalde Go-To-Market-resources, aanbiedingen en marktgerelateerde programma's bevatten. U kunt de Action Pack bekijken op [](https://partner.microsoft.com/membership/internal-use-software) de Microsoft Partner Network site.  
 
-Als u al uw lidmaatschapsvoordelen wilt weergeven en beheren, gaat u naar de [ **pagina Voordelen**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (aanmelden is vereist). U kunt zich ook aanmelden bij het Partner Center [dashboard,](https://partner.microsoft.com/dashboard)de optie **[** Voordelen ] selecteren in het menu aan de linkerkant en vervolgens de weergegeven opties voor voordelen selecteren.  
+Als u al uw lidmaatschapsvoordelen wilt bekijken en beheren, gaat u naar de pagina [ **Voordelen**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (aanmelden is vereist). U kunt zich ook aanmelden bij het Partner Center [dashboard,](https://partner.microsoft.com/dashboard)de optie **[** Voordelen ] selecteren in het menu aan de linkerkant en vervolgens de weergegeven opties voor voordelen selecteren.  
 
 Als u de meeste voordelen wilt activeren of gerelateerde softwaresleutels wilt downloaden, Partner Center vereist dat doorgaans iemand de rol van globale beheerder of MPN-partnerbeheerder heeft toegewezen. Als u geen voordelen ziet of geen voordelen kunt activeren, neem dan contact op met uw Partner Center globale beheerder om te controleren of u de juiste machtigingen hebt. [Meer informatie over Partner Center rollen](permissions-overview.md).
 
@@ -74,23 +69,23 @@ U kunt worden ingericht met:
 - $ 100/maand (of gelijkwaardig in lokale valuta) Maandelijks Azure-tegoed of/en
 - $ 6.000, $ 12.000 of/en $ 13.000/jaar (of elk ervan equivalent in lokale valuta) Azure-bulktegoed
 
-Als u een Microsoft Azure-abonnement in Partner Center wilt activeren, wijst u toegang toe aan een gebruiker binnen het bedrijf (inclusief gastgebruikers), die een gebruikersinvoer heeft die is gemaakt in uw Azure Active Directory.
+Als u een Microsoft Azure-abonnement in Partner Center wilt activeren, wijst u toegang toe aan een gebruiker binnen het bedrijf (inclusief gastgebruikers), met een gebruikersinvoer die is gemaakt in uw Azure Active Directory.
 Voor het maandelijkse Azure-tegoed van $ 100/maand (of gelijkwaardig in lokale valuta) kunt u op elk moment gebruikers toevoegen aan of verwijderen uit dit abonnement. 
 
 Voor het azure-bulktegoed (jaarlijks) is de optie verwijderen niet beschikbaar in Partner Center, maar u kunt het bulktegoed tijdens uw inschrijvingsjaar overdragen naar iemand anders. Een Azure Bulk-tegoedabonnement (jaarlijks) kan niet worden gecombineerd met andere licentie-, prepaid- of tegoedaanbiedingen (dat wil zeggen Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack, enzovoort).
 
 ## <a name="license-based-subscriptions"></a>Op licenties gebaseerde abonnementen
 
-De sectie Op licenties gebaseerde abonnementen van het tabblad Azure & Cloud Products bevat alle cloudproducten waarvoor een productcode is vereist voor activering, zoals Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic en Power BI. Het type aanbieding dat u actief hebt als MPN-partner - MAPS, Silver of Gold - bepaalt welke producten worden weergegeven.
+De sectie Op licenties gebaseerde abonnementen van het tabblad Azure & Cloud Products bevat een lijst met alle cloudproducten waarvoor een productcode is vereist voor activering, zoals Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic en Power BI. Het type aanbieding dat u actief hebt als MPN-partner - MAPS, Silver of Gold - bepaalt welke producten worden weergegeven.
 
-Als u de op licenties gebaseerde abonnementen wilt activeren, klikt u op het vervolgkeuzesymbool in overeenstemming met het belangrijkste product en leest u de instructies voor het inwisselen van de sleutels. Zodra u de instructies hebt gelezen, selecteert u de koppeling die u naar de portal leidt om sleutels en de toegewezen sleutel voor uw product in te wisselen.
+Als u de op licenties gebaseerde abonnementen wilt activeren, klikt u op het vervolgkeuzesymbool in overeenstemming met het product van belang en leest u de instructies voor het inwisselen van de sleutels. Nadat u de instructies hebt gelezen, selecteert u de koppeling die u naar de portal leidt om sleutels en de toegewezen sleutel voor uw product in te wisselen.
 
 >[!IMPORTANT]
->Houd er rekening mee dat zodra een sleutel is ingewisseld, dezelfde sleutel niet een tweede keer kan worden ingewisseld. Zorg er dus voor dat u weet of u meer licenties (seats) moet toevoegen of de einddatum wilt verlengen. Als u ervoor kiest om meer licenties toe te voegen en de einddatum niet uit te breiden, biedt het systeem u minder dan 12 maanden actief abonnement. Zorg ervoor dat u bent aangemeld met de juiste referenties om de sleutels op de juiste tenant te activeren.
+>Houd er rekening mee dat zodra een sleutel is ingewisseld, dezelfde sleutel niet een tweede keer kan worden ingewisseld. Controleer daarom of u meer licenties (seats) moet toevoegen of de einddatum wilt verlengen. Als u ervoor kiest om meer licenties toe te voegen en de einddatum niet uit te breiden, krijgt u van het systeem minder dan 12 maanden een actief abonnement. Zorg ervoor dat u bent aangemeld met de juiste referenties om de sleutels op de juiste tenant te activeren.
 
 ## <a name="manage-visual-studio-subscriptions"></a>Uw Visual Studio beheren
 
-1. Selecteer **Visual Studio om** uw lijst met abonnementen Visual Studio bekijken.
+1. Selecteer **Visual Studio abonnementen om** uw lijst met Visual Studio te zien.
 
 2. Zoek het abonnement dat u wilt gaan gebruiken en selecteer vervolgens de pijl-omlaag helemaal rechts van de rij om de details van het abonnement uit te vouwen.
 
@@ -102,40 +97,41 @@ Als u de op licenties gebaseerde abonnementen wilt activeren, klikt u op het ver
 4. Herhaal dit proces voor elk abonnement dat u wilt toewijzen. Gebruikers kunnen hun abonnementen beheren in de Visual Studio portal.
 
    >[!Note]
-   >Visual Studio-abonnementsbeheerders kunnen abonnementen van de ene abonnee opnieuw toewijzen aan een andere als er 90 dagen zijn verstreken sinds het moment van de oorspronkelijke toewijzing. Lees de Microsoft [Partner Programs Guide (Handleiding voor Microsoft Partner-programma's) voor meer informatie.](https://aka.ms/partner-benefits-use-guide)
+   >Visual Studio-abonnementsbeheerders kunnen abonnementen van de ene abonnee opnieuw toewijzen aan een andere als er 90 dagen zijn verstreken sinds het moment van de oorspronkelijke toewijzing. Lees de Handleiding voor [Microsoft Partner-programma's voor meer informatie.](https://aka.ms/partner-benefits-use-guide)
 
 ## <a name="manage-technical-benefits---microsoft-product-support"></a>Technische voordelen beheren - Microsoft-productondersteuning
 
-In deze sectie wordt beschreven hoe u technische ondersteuningsvoordelen activeert en beheert in Partner Center [dashboard](https://partner.microsoft.com/dashboard). Als uw Microsoft Partner Network nog steeds in Partner Membership Center (PMC) is, moet u echter contact opnemen met een andere resource, zoals Partner Frontline, om u te helpen uw technische voordelen te activeren. Zie [Technische voordelen buiten de Partner Center.](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate)
+In deze sectie wordt beschreven hoe u technische ondersteuningsvoordelen activeert en beheert in Partner Center [dashboard](https://partner.microsoft.com/dashboard). Als uw Microsoft Partner Network nog steeds lid is van Partner Membership Center (PMC), moet u echter contact opnemen met een andere resource, zoals Partner Frontline, om u te helpen uw technische voordelen te activeren. Zie [Technische voordelen buiten de Partner Center.](partner-membership-center-tech-benefits-activate.md)
 
-Ga als volgt te werk om uw technische voordelen van Partner Center productondersteuning te bekijken:
+Ga als volgt te werk om de technische voordelen van productondersteuning in Partner Center te zien:
 
-1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
+1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
 2. Selecteer **Voordelen** en vervolgens **Technische voordelen** in het navigatiemenu aan de linkerkant. De pagina Technische voordelen wordt weergegeven met een lijst met technische ondersteuningsvoordelen die beschikbaar zijn voor al uw Gold-, Silver- of Microsoft Action Pack competenties.
 
-   Als u deze opties of de pagina Technische voordelen niet [](permissions-overview.md) ziet, hebt u mogelijk niet de juiste gebruikersrollen toegewezen in Partner Center. Neem contact op met Partner Center globale beheerder om toegang te krijgen.
+   Als u deze opties of de pagina Technische voordelen niet [](permissions-overview.md) ziet, hebt u mogelijk niet de juiste gebruikersrollen toegewezen in Partner Center. Neem contact op Partner Center globale beheerder om toegang te krijgen.
 
 3. Vouw de lijst met voordelen uit. Om aan de slag te gaan met een specifiek ondersteuningsvoordeel, moet u het volgende doen de eerste keer dat u het gebruikt:
 
    - **Activeer het technische voordeel.** Nadat u de details van een voordeel hebt uitgebreid, selecteert u **Activeren.** Het kan enkele dagen duren voordat uw activeringsaanvraag is verwerkt.
 
-   - **View and share product support Access ID and Contract ID.** Nadat uw activeringsaanvraag is verwerkt,  ziet u de volgende keer dat u dat technische voordeel uitbreidt details over de toegangs-id en de **contract-id.** U of de gebruikers van uw bedrijf moeten deze informatie delen en gebruiken wanneer u voor de eerste keer een ondersteuningsaanvraag indient voor bepaalde soorten producten of services.
+   - **View and share product support Access ID and Contract ID.** Nadat uw activeringsaanvraag is verwerkt,  ziet  u de volgende keer dat u dat technische voordeel uitbreidt, details over de toegangs-id en contract-id. U of de gebruikers van uw bedrijf moeten deze informatie delen en gebruiken wanneer u voor het eerst een ondersteuningsaanvraag indient voor bepaalde soorten producten of services.
 
-4. Na activering kunt u technische voordelen gebruiken voor verschillende soorten technische ondersteuning. Als u aanvragen voor technische ondersteuning voor de volgende services wilt indienen, leest u de gedetailleerde instructies op de pagina Technische voordelen. Zie ook de details hieronder.
+4. Zodra de functie is geactiveerd, kunt u technische voordelen gebruiken voor verschillende soorten technische ondersteuning. Als u aanvragen voor technische ondersteuning voor de volgende services wilt indienen, leest u de gedetailleerde instructies op de pagina Technische voordelen. Zie ook de details hieronder.
 
-   Op Partner Center pagina Technische voordelen worden de volgende typen technische ondersteuning beschreven:
+   Op Partner Center pagina technische voordelen worden de volgende typen technische ondersteuning beschreven:
 
    **Technische ondersteuning (break-fix).** Gebruik dit type technische ondersteuning wanneer de functionaliteit is verbroken of wanneer iets niet werkt zoals verwacht (bijvoorbeeld wanneer u een foutbericht ontvangt). Hier zijn enkele richtlijnen:
 
    - Gebruik signature-productondersteuning voor cloudproducten alleen voor Gold/Silver-competentiepartners (niet beschikbaar voor **Action Pack-abonnees).** 
 
-   - Gebruik voor Action Pack- en Gold/Silver-competentiepartners Microsoft-productondersteuningsincidenten voor recente **on-premises** producten (alleen huidige en vorige versies). 
+   - Voor zowel Action Pack als Gold/Silver-competentiepartners gebruikt u Microsoft-productondersteuningsincidenten voor recente **on-premises** producten (alleen huidige en vorige versies). 
 
      >[!NOTE]
-     > Toegangs-id en contract-id zijn vereist voor technische ondersteuningsaanvragen voor producten van On-premises, Azure (niet-CSP) en Dynamics. Als u in de toekomst uw toegangs-id en contract-id wilt vinden, kunt u ook [Find your benefits (Uw voordelen zoeken) lezen.](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)
-     > 
-[Meer informatie over technische ondersteuning voor on-premises of cloudproducten](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
+     > Toegangs-id en contract-id zijn vereist voor technische ondersteuningsaanvragen voor On-premises, Azure (niet-CSP) en Dynamics-producten. Lees Technische ondersteuningsvoordelen [voor meer informatie](mpn-benefits-technical-support.md)over Learm.
+
+[Meer informatie over technische ondersteuning voor on-premises of cloudproducten](mpn-benefits-technical-support.md)
+
   
 ## <a name="manage-technical-benefits---partner-advisory-hours"></a>Technische voordelen beheren - Adviesuren van partners
 Partner-adviesuren zijn de valuta die wordt gebruikt voor **TPD (Technical Presales and Deployment Services),** gewoon aanmelden om een aanvraag in te dienen (activering of gebruikerstoewijzing is niet vereist).
@@ -148,9 +144,9 @@ Ga als volgt te werk om de technische voordelen van de Partner Center partneradv
 
 3. Klik rechtsonder op de pagina op **[Technische voorverkoop](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** en implementatieaanvraag indienen om uw aanvraag in te dienen.
      >[!NOTE]
-     > Als op de pagina  met technische voordelen het bericht 'Het lijkt erop dat u nog geen voordelen hebt' wordt weergegeven als u zich hebt aangemeld met een partneraccount dat geen Gold-, Silver- of Microsoft Action Pack-aanbiedingen heeft en u niet in aanmerking komt om de service te gebruiken of als u het verkeerde account hebt gebruikt om u aan te melden.
+     > Als op de pagina  met technische voordelen het bericht 'Lijkt erop dat u nog geen voordelen hebt' wordt weergegeven, hebt u zich aangemeld met een partneraccount dat geen Gold-, Silver- of Microsoft Action Pack-aanbiedingen heeft en u komt niet in aanmerking om de service te gebruiken of hebt u het verkeerde account gebruikt om u aan te melden.
      > 
-[Meer informatie over technische presales- en implementatieservices (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
+[Meer informatie over technische presales- en implementatieservices (TPD)](technical-benefits.md)
   
 ## <a name="manage-go-to-market-offers"></a>Go-To-Market-aanbiedingen beheren
 
@@ -165,13 +161,13 @@ Ga als volgt te werk om de technische voordelen van de Partner Center partneradv
 
 2. Als u een go-to-market-aanbieding of programma wilt activeren, moet u eerst een contactpersoon voor bedrijfsmarketing toewijzen. Deze contactpersoon ontvangt vervolgcommunicatie over uw actieve Go-To-Market-aanbiedingen.
 
-3. Als u uw contactgegevens voor marketing wilt toevoegen of bijwerken, gaat u naar de bovenkant van de go-to-market-pagina en selecteert u vervolgens **Toevoegen,** **Bijwerken** of **Wijzigen.** Ga nu als volgt te werk:  
+3. Als u uw contactgegevens voor marketing wilt toevoegen of bijwerken, gaat u naar de bovenkant van de go-to-market-pagina en selecteert u **vervolgens Toevoegen,** **Bijwerken** of **Wijzigen.** Ga nu als volgt te werk:  
 
    a. Selecteer een gebruiker uit de lijst. Als de gebruiker die u wilt toewijzen niet in de lijst staat, kunt u [nieuwe gebruikers toevoegen](create-user-accounts-and-set-permissions.md) in **Accountinstellingen.**
 
    b. Geef een e-mailadres op voor de gebruiker dat verschilt van het e-mailadres dat is gekoppeld aan het account van Partner Center bedrijf.
 
-      We sturen instructies voor het gebruik van uw Go-To-Market-aanbieding per e-mail naar het e-mailadres van uw aangewezen marketingcontact.
+      We sturen instructies voor het gebruik van uw Go-To-Market-aanbieding per e-mail naar het e-mailadres van uw aangewezen marketingcontactcontact.
 
    c.  Geef het telefoonnummer en de voorkeurstaal van de contactpersoon voor deze marketing-contactpersoon op. Wanneer u klaar bent met het invoeren van deze gegevens, selecteert u **Gebruiker toewijzen**.
 

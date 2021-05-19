@@ -1,77 +1,74 @@
 ---
-title: Micro soft Gold, Silver-competentie vereisten
+title: Microsoft Gold, Silver-competentievereisten
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Leer hoe u de status van een elite micro soft partner kunt verdienen en nieuwe klanten kunt aantrekken door aan competentie vereisten te voldoen om Gold-en Silver-lidmaatschaps niveaus te verdienen.
+description: Leer hoe u de beste Microsoft-partnerstatus kunt verdienen en nieuwe klanten kunt aan trekken door te voldoen aan competentievereisten om gold- en silver-lidmaatschapsniveaus te verdienen.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 24dd96126ab96b3e3790e9ebc00c128cac07ad24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178864"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146592"
 ---
-# <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Onderscheiden van uw bedrijf door micro soft-competenties te bereiken
+# <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Onderscheid maken tussen uw bedrijf door Microsoft-competenties te verkrijgen
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Beheerder van gebruikersbeheer
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
+Demonstreert uw bewezen expertise in het leveren van kwaliteitsoplossingen in een of meer gespecialiseerde bedrijfsgebieden. Microsoft-competenties zijn ontworpen om u voor te bereiden op de behoeften van uw klanten en om u te helpen nieuwe klanten aan te trekken die op zoek zijn naar door Microsoft gecertificeerde oplossingsproviders. Word lid van de toplaag van Microsoft-partners en onderscheiden zich van uw collega's.
 
-Laat uw bewezen expertise zien bij het leveren van kwaliteits oplossingen in een of meer gespecialiseerde bedrijfs terreinen. Micro soft-competenties zijn ontworpen om u voor te bereiden op de behoeften van uw klanten en om u te helpen nieuwe klanten aan te trekken die op zoek zijn naar micro soft Certified Solution Providers. Neem deel aan de Elite-laag van micro soft-partners en doe mee aan uw peers.
+- Haal een **silver-competentie** op om uw consistente mogelijkheden en commitment te demonstreren.
 
-- Bereiken van een **Silver** -competentie om uw consistente mogelijkheden en toezeg ging te demonstreren.
+- Haal een **goudkleurige** competentie op om uw eersteklas mogelijkheden binnen een Microsoft-oplossingsgebied te demonstreren.
 
-- U kunt een **goud** competentie bereiken om uw eersteklas mogelijkheden in een micro soft-oplossings gebied te demonstreren.
+Het bereiken van een competentie kan ook een vermelding zijn voor verdere voordelen en kansen:
 
-Het bereiken van een competentie kan ook een vermelding zijn voor verdere voor delen en kansen:
+- Ontgrendel krachtige [go-to-market aanbiedingen](mpn-learn-about-go-to-market-benefits.md) en programma's die u kunnen helpen uw bedrijf uit te breiden en uit te breiden. [Meer informatie over hoe u de markt op kunt gaan met Microsoft](https://partner.microsoft.com/solutions/go-to-market).
 
-- U kunt krachtige [Go-to-Market-](mpn-learn-about-go-to-market-benefits.md) aanbiedingen en-Program ma's die u kunnen helpen om uw bedrijf uit te breiden, te verg Roten. Meer [informatie over het gebruik van Go-to-Market met micro soft](https://partner.microsoft.com/solutions/go-to-market).
+- Het bereiken van een goudkleurige competentie biedt u de mogelijkheid om geavanceerdere [specialisaties](advanced-specializations.md) aan uw portfolio toe te voegen. Met geavanceerde specialisaties kunt u uw groeiende expertise presenteren aan klanten. [Meer informatie over geavanceerde specialisaties.](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Het bereiken van een Gold-competentie biedt u de mogelijkheid om [geavanceerdere specials](advanced-specializations.md) te realiseren en toe te voegen aan uw port Folio. Met geavanceerde specials kunt u uw groeiende expertise aan klanten presen teren. Meer [informatie over geavanceerde specials](https://partner.microsoft.com/membership/advanced-specialization).
+## <a name="check-your-status-as-you-attain-a-competency"></a>Controleer uw status wanneer u een competentie bereikt
 
-## <a name="check-your-status-as-you-attain-a-competency"></a>Controleer uw status als u een competentie hebt bereikt
-
-U kunt de vereisten en wat uw bedrijf heeft behaald bekijken vanuit het gebied competentie van het dash board van uw partner centrum.
+U kunt de vereisten en wat uw bedrijf heeft bereikt bekijken op basis van het competentiegebied van uw Partner Center dashboard.
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
 2. Selecteer **Competenties** in het gedeelte MPN van het menu Partnercentrum.
 
-3. Selecteer de naam van de competentie en de specifieke competentieoptie om details te bekijken. U kunt zien wat u hebt voltooid en u ziet ook de volledige vereisten en koppelingen naar de specifieke examens en de validatie datums van het buiten gebruik gestelde examen.
+3. Selecteer de naam van de competentie en de specifieke competentieoptie om details te bekijken. U kunt zien wat u hebt voltooid en u kunt ook de volledige vereisten en koppelingen naar de specifieke examens en de validatiedatums van het beëindigde examen bekijken.
 
-## <a name="competency-areas"></a>Competentie gebieden
+## <a name="competency-areas"></a>Competentiegebieden
 
-Als u de competentie van een zilver of Gold-lidmaatschap wilt verkrijgen, wordt u gevraagd om expertise te demonstreren op verschillende bedrijfs terreinen en technologie.
+Voor het verkrijgen van silver- of gold-lidmaatschapscompetentie, wordt u gevraagd om expertise op verschillende gebieden van het bedrijf en de technologie te demonstreren.
 
 |**Gebied**            |**Competentie**                    |
 |--------------------|--------------------------------|
-|Toepassingen en infra structuur| -Toepassings ontwikkeling<br/> -App-integratie<br/> -Cloud platform<br/> -DevOps<br/> - Datacenter |
-|Zakelijke toepassingen | -Cloud Business Applications</br> -ERP (Enter prise resource planning)</br> -Project en Port Folio |
-|Gegevens en AI| -Gegevens analyse<br/> -Gegevens platform |
-|Moderne werk plek en beveiliging | -Samen werking en inhoud<br/> -Communicatie<br/> -Cloud productiviteit<br/> -EMM (Enter prise Mobility Management)<br/> -Messa ging<br/> -Beveiliging<br/> -Kleine en midmarket cloud oplossingen<br/> -Windows en apparaten |
+|Toepassingen en infrastructuur| - Toepassingsontwikkeling<br/> - App-integratie<br/> - Cloudplatform<br/> - DevOps<br/> - Datacenter |
+|Zakelijke toepassingen | - Cloud Business Applications</br> - Enterprise Resource Planning (ERP)</br> - Project en portfolio |
+|Gegevens en AI| - Gegevensanalyse<br/> - Gegevensplatform |
+|Moderne werkplek en beveiliging | - Samenwerking en inhoud<br/> - Communicatie<br/> - Cloudproductiviteit<br/> - Enterprise Mobility Management (EMM)<br/> - Berichten<br/> - Beveiliging<br/> - Kleine en middelgrote cloudoplossingen<br/> - Windows en apparaten |
 
-Silver-en Gold-competentie niveaus hebben verschillende vereisten voor elk van de gebieden. Binnen elk gebied zijn klassen en examens die werk nemers in uw bedrijf kunnen ondernemen om het gewenste competentie niveau te halen. 
+Silver- en Gold-competentieniveaus hebben verschillende vereisten voor elk van de gebieden. Binnen elk gebied zijn klassen en examens die werknemers in uw bedrijf kunnen nemen om het gewenste competentieniveau te bereiken. 
 
-Zie [Microsoft Partner Network-competenties](https://partner.microsoft.com/membership/competencies)voor meer informatie over wat u nodig hebt om Silver-en Gold-competenties te bereiken.
+Zie Voor meer informatie over wat er nodig is om silver- en gold-competenties te verkrijgen, [Microsoft Partner Network competenties.](https://partner.microsoft.com/membership/competencies)
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Meer informatie over [vereisten voor het bereiken van Silver-en Gold-competenties](https://partner.microsoft.com/membership/competencies).
+- Meer informatie over [vereisten voor het verkrijgen van silver- en gold-competenties.](https://partner.microsoft.com/membership/competencies)
 
-- Meer informatie over het aanwijzen van uw expertise door een Gold-competentie te koppelen aan een of meer [Geavanceerde specials](advanced-specializations.md).
+- Leer hoe u uw expertise verder kunt laten zien door een goudkleurige competentie te koppelen aan een of meer [geavanceerde specialisaties.](advanced-specializations.md)
 
-- Meer informatie over specifieke [Go-to-Market-resources](mpn-learn-about-go-to-market-benefits.md) die zijn opgenomen in competenties.
+- Meer informatie over [specifieke go-to-market-resources die](mpn-learn-about-go-to-market-benefits.md) zijn opgenomen in competenties.
 
-- Meer informatie over [facturen en belastingen voor competenties](mpn-view-print-maps-invoice.md).
+- Meer informatie [over facturen en belastingen voor competenties](mpn-view-print-maps-invoice.md).
 
-- Meer informatie over [het betalen van de kosten](mpn-pay-fee-silver-gold-competency.md) die zijn gekoppeld aan een Silver-of Gold-competentie-lidmaatschap.
+- Meer informatie over het [betalen van de kosten die](mpn-pay-fee-silver-gold-competency.md) zijn gekoppeld aan een silver- of gold-competentielidmaatschap.
 
-- Bekijk een partner centrum Insights- [competentie rapport](pci-competencies-report.md) waarin de huidige status van uw competenties wordt weer gegeven.
+- Bekijk een Partner Center [Insights-competenties](pci-competencies-report.md) met de huidige status van uw competenties.
 
-- Krijg antwoorden op [Veelgestelde vragen](competencies-faq.md) over competenties.
+- Krijg antwoorden op [veelgestelde vragen](competencies-faq.md) over competenties.

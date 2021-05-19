@@ -1,181 +1,176 @@
 ---
-title: Klant abonnementen maken in het partner centrum
+title: Klantabonnementen maken in Partner Center
 ms.topic: how-to
-ms.date: 07/22/2020
+ms.date: 05/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het verkopen van abonnementen aan uw klanten voor producten die door micro soft worden gepubliceerd, evenals SaaS-producten die zijn gepubliceerd door onafhankelijke software fabrikanten.
+description: Meer informatie over het verkopen van abonnementen aan uw klanten voor producten die zijn gepubliceerd door Microsoft en SaaS-producten die zijn gepubliceerd door ISV's van derden.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502932"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148192"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Klantabonnementen maken, onderbreken of annuleren
 
-**Van toepassing op**
+**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partnercentrum voor Microsoft Cloud for US Government
+**Juiste rollen:** beheeragent | Factureringsbeheerder | Globale beheerder | Helpdeskagent | Verkoopagent
 
-**Juiste rollen**
+Nadat u een record van uw klant in de Partner Center, kunt u deze abonnementen verkopen aan producten in de catalogus. Dit omvat producten die zijn gepubliceerd door Microsoft en SaaS-producten (Software as a Service) die door onafhankelijke onafhankelijke softwareleveranciers (ISV's) zijn gepubliceerd op [de commerciële marketplace.](https://azuremarketplace.microsoft.com/marketplace)
 
-- Beheer agent
-- Factureringsbeheerder
-- Globale beheerder
-- Helpdesk medewerker
-- Verkoop agent
-
-Nadat u een record van uw klant in het partner centrum hebt gemaakt, kunt u deze abonnementen verkopen aan producten in de catalogus. Dit omvat producten die zijn gepubliceerd door micro soft en software as a Service (SaaS)-producten die worden gepubliceerd door onafhankelijke software leveranciers (Isv's) van derden naar de [commerciële Marketplace](https://azuremarketplace.microsoft.com/marketplace).
-
-Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Ga naar de pagina prijzen en aanbiedingen van het partner centrum om een lijst weer te geven van welke aanbiedingen zijn beperkt.
+Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Als u een lijst wilt bekijken met aanbiedingen die zijn beperkt, gaat u naar Partner Center pagina Prijzen en aanbiedingen.
 
 >[!IMPORTANT]
-> Als partner in het CSP-programma kunt u SaaS **-abonnementen op basis van licenties** of **Data limieten** aanschaffen bij ISV-uitgevers in het partner centrum. Dit betekent dat u een **op licenties gebaseerde** SaaS-  aanbieding kunt aanschaffen die de ISV-Uitgever voor u beschikbaar heeft gesteld, met inbegrip van [exclusieve aanbiedingen](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) waartoe u toegang hebt. Als u andere commerciële Marketplace-aanbiedingen van onafhankelijke software leveranciers wilt kopen of beheren (zoals aanbiedingen op basis van het gebruik van Azure-toepassingen, containers of Vm's), gaat u naar de [Azure Portal](https://portal.azure.com/).
+> Als partner in het CSP-programma kunt u  SaaS-abonnementen op basis van licenties of saaS-abonnementen met datalicenties aanschaffen bij **ISV-uitgevers** binnen Partner Center. Dit betekent dat u elke  SaaS-aanbieding op basis van licenties of naar [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) gebruik kunt aanschaffen die de **ISV-uitgever** voor u beschikbaar heeft gesteld, inclusief exclusieve aanbiedingen waarvoor u toegang hebt. Als u andere commerciële marketplace-aanbiedingen van ISV's wilt kopen of beheren (zoals aanbiedingen op basis van gebruik met betrekking tot Azure-toepassingen, containers of VM's), gaat u [naar de Azure Portal.](https://portal.azure.com/)
 
 ## <a name="create-a-new-subscription"></a>Een nieuw abonnement maken
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard).
 
-2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
+2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
-3. Selecteer **abonnement toevoegen**. Op het tabblad **Online Services** worden alle beschik bare SaaS-aanbiedingen voor Marketplace weer gegeven.
+3. Selecteer **Abonnement toevoegen.** Op **het tabblad Onlineservices** worden alle beschikbare Marketplace SaaS-aanbiedingen weergegeven.
 
-4. Als u alleen bepaalde typen abonnementen wilt zien, selecteert u de gewenste opties in de beschik bare filters:
-   - **Uitgever**: Kies **micro soft** om alleen aanbiedingen van micro soft of **partner** te bekijken voor commerciële Marketplace-producten die door isv's worden gepubliceerd.
-   - **Facturerings type**: Selecteer het type abonnement facturering dat u wilt gebruiken: **licentie** of **gebruik**. Zie [factuur op basis van licenties](license-based-billing.md) voor informatie die u kan helpen bij het bepalen van de maandelijkse en jaarlijkse facturerings frequentie.
-   - **Categorie**: Kies **Enter prise**, **Small Business** of **proef versie**. Zie voor meer informatie over proef abonnementen [uw klanten een proef versie van micro soft-producten aanbieden](offer-your-customers-trials-of-microsoft-products.md).
+4. Als u alleen bepaalde typen abonnementen wilt zien, maakt u selecties in de beschikbare filters:
+   - **Uitgever:** kies **Microsoft om** alleen aanbiedingen van Microsoft of **Partner** te zien voor het bekijken van commerciële marketplace-producten die zijn gepubliceerd door ISV's.
+   - **Factureringstype:** selecteer het type abonnementsfacturering dat u wilt gebruiken: **Licentie** of **Gebruik.** Zie [Facturering op basis van licenties](license-based-billing.md) voor informatie waarmee u kunt kiezen tussen de maandelijkse en jaarlijkse factureringsfrequentie.
+   - **Categorie:** kies **Enterprise,** **Small Business** of **Trial.** Zie Proefversies van Microsoft-producten aanbieden voor [meer informatie over proefabonnementen.](offer-your-customers-trials-of-microsoft-products.md)
 
-5. Selecteer de product abonnementen die u wilt kopen voor uw klant. De producten die u ziet, zijn afhankelijk van het type klant segment (onderwijs, overheid enz.) en de filters die u hebt toegepast. Sommige aanbiedingen die op Marketplace worden weer gegeven, zijn mogelijk niet altijd beschikbaar voor een specifieke klant of een specifieke CSP-partner. Dit kan een van de volgende zijn:
+5. Selecteer de productabonnementen die u voor uw klant wilt kopen. De producten die u ziet, zijn afhankelijk van het type klantsegment (onderwijs, overheid, enzovoort) en de filters die u hebt toegepast. Sommige aanbiedingen die op de Marketplace worden weergegeven, zijn mogelijk niet altijd beschikbaar voor een specifieke klant of een specifieke CSP-partner. Dit kan komen door:
 
-   - De klant heeft al een abonnement op dat product en is slechts toegestaan
+   - De klant heeft al een abonnement op dat product en heeft er slechts één
 
-   - Het abonnement van de klant is mogelijk opgeschort (in dit geval kunt u het abonnement opnieuw activeren in plaats van een nieuwe te kopen.)
+   - Het abonnement van de klant is mogelijk tijdelijk opgeschort (in dit geval kunt u het abonnement opnieuw activeren in plaats van een nieuw abonnement aan te schaffen.)
 
-   - Voor ISV SaaS-aanbiedingen kunnen er een paar redenen zijn waarom de aanbieding niet beschikbaar is voor aankoop: de ISV biedt mogelijk geen ondersteuning voor het factuur land of de regio van de klant. de ISV heeft mogelijk ervoor gekozen om de aanbieding niet beschikbaar te stellen via het CSP-programma; het is ook mogelijk dat de ISV de aanbieding [exclusief](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) heeft gemaakt voor bepaalde CSP-partners. De ISV-aanbieding kan ook niet worden verwerkt via het partner centrum (bijvoorbeeld containers of bepaalde op gebruik gebaseerde aanbiedingen).  
+   - Voor SAAS-aanbiedingen van ISV's zijn er mogelijk enkele redenen waarom de aanbieding niet beschikbaar is om te kopen: De ISV biedt mogelijk geen ondersteuning voor het land of de regio van de facturering van de klant; De ISV heeft er mogelijk voor gekozen om de aanbieding niet beschikbaar te maken via het CSP-programma; of de ISV heeft de aanbieding mogelijk uitsluitend [aan](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) bepaalde CSP-partners gedaan. De ISV-aanbieding is mogelijk ook niet transacteerbaar via de Partner Center (bijvoorbeeld containers of sommige aanbiedingen op basis van gebruik).  
 
-6. Voer het aantal licenties (indien nodig) in voor elk abonnement dat u wilt toevoegen en selecteer **toevoegen aan winkel wagen**.
+6. Voer voor elk abonnement dat u wilt toevoegen het aantal licenties in (indien nodig) en selecteer **Toevoegen aan winkelwagen.**
 
-7. Wanneer u klaar bent met het toevoegen van abonnementen, selecteert u uw bestelling **controleren** en controleren.
+7. Wanneer u klaar bent met het toevoegen van abonnementen, **selecteert u Uw** bestelling controleren en controleren.
 
-8. Wanneer u uw orders hebt gecontroleerd en u klaar bent om deze abonnementen te kopen, selecteert u **kopen**.
+8. Nadat u uw orders hebt gecontroleerd en klaar bent om deze abonnementen te kopen, selecteert u **Kopen.**
 
 9. Nadat u een abonnement voor een klant hebt gekocht, gebeurt het volgende:
 
-    - U kunt het abonnement bekijken of bewerken door de naam van het abonnement te selecteren op de pagina **abonnementen** van die klant. Hier kunt u licenties voor invoeg toepassingen selecteren als er een beschikbaar is, het aantal licenties wijzigen of het abonnement opschorten.
+    - U kunt het abonnement controleren of bewerken door de abonnementsnaam te selecteren op de **pagina Abonnementen van die** klant. Hier kunt u invoeglicenties selecteren als deze beschikbaar zijn, het aantal licenties wijzigen of het abonnement opschorten.
 
-    **Voor ISV SaaS-abonnementen (op basis van licenties en data limieten):**
-    - U ontvangt een koppeling naar de site van de ISV-Uitgever. Deze koppeling helpt u bij het volt ooien van de implementatie of het instellen van het account voor het abonnement van de klant.
+    **Voor ISV SaaS-abonnementen (op basis van licenties en licenties) geldt het volgende:**
+    - U ontvangt een koppeling naar de site van de ISV-uitgever. Deze koppeling helpt u bij het voltooien van de implementatie of het instellen van het account van het abonnement van de klant.
       
     >[!NOTE]
-    > U en uw klant ontvangen geen e-mail bericht met instructies voor het volt ooien van het account dat is ingesteld/inrichten voor dit type ISV-abonnement.)
+    > Noch u noch uw klant ontvangt een e-mail met instructies voor het voltooien van het instellen/inrichten van het account voor dit type ISV-abonnement.)
 
-    - Als uw abonnement wordt geleverd met een gratis proef versie van 30 dagen, wordt de gratis proef periode automatisch toegepast. Als partner in het CSP-programma kunt u de gratis proef periode van aanbiedingen die u aanschaft voor klanten niet kwijt schelden. Zodra de gratis proef periode is afgelopen, wordt de abonnements termijn gestart en wordt het abonnement omgezet in de betaalde status. Het abonnement wordt vervolgens automatisch verlengd volgens hetzelfde schema.
+    - Als uw abonnement wordt geleverd met een gratis proefversie van 30 dagen, wordt de gratis proefperiode automatisch toegepast. Als partner in het CSP-programma kunt u de gratis proefperiode voor aanbiedingen die u voor klanten koopt, niet in de weg staan. Zodra de gratis proefperiode is afgelopen, wordt de abonnementsperiode van start en wordt het abonnement omgezet in de betaalde status. Het abonnement wordt vervolgens automatisch vernieuwd volgens hetzelfde schema.
    
 ## <a name="update-subscriptions-with-add-ons"></a>Abonnementen bijwerken met invoegtoepassingen 
 
-Als u een invoeg toepassing wilt kopen, moet de klant eerst een actief basis abonnement hebben.  U kunt invoegtoepassingen niet aanschaffen via de catalogus.
+Als de klant een invoegabonnement wil aanschaffen, moet deze eerst een actief basisabonnement hebben.  U kunt invoegtoepassingen niet aanschaffen via de catalogus.
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
+1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
-2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
+2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
 3. Kies het abonnement dat u wilt beheren.
 
-4. Onder de sectie **status** ziet u een lijst met beschik bare invoeg toepassingen voor het abonnement.  
+4. Onder de **sectie Status** vindt u een lijst met beschikbare invoegtoepassingen voor het abonnement.  
 
-5. Werk het aantal licenties voor elke vereiste invoeg toepassing bij. Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
+5. Werk het aantal licenties voor elke vereiste invoeg-invoeging bij. Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
-De mogelijkheid om invoeg toepassingen te kopen via partner centrum is alleen beschikbaar voor directe factuur-en indirecte providers.
-Alleen in aanmerking komende invoeg toepassingen worden weer gegeven op basis van de basis vereisten en regionale Beschik baarheid. Raadpleeg de Cloud reseller-matrix voor meer informatie over prijzen en aanbiedingen. Als u het basisabonnement onderbreekt, worden ook alle bijbehorende invoegtoepassingen onderbroken.
+De mogelijkheid om invoegtoepassingen aan te schaffen via Partner Center is alleen beschikbaar voor directe factuur- en indirecte providers.
+Alleen in aanmerking komende invoegtoepassingen worden weergegeven op basis van de basisvereisten en regionale beschikbaarheid. Raadpleeg de aanbiedingsmatrix voor cloud resellers voor meer informatie over prijzen en aanbiedingen. Als u het basisabonnement onderbreekt, worden ook alle bijbehorende invoegtoepassingen onderbroken.
 
-Begindatums voor invoegtoepassingen worden afgestemd met het basisabonnement en de kosten worden berekend op basis van de begindatum van de kosten en de einddatum van de kosten met pro rata kosten op de eerste factuur. Zie voor meer informatie [facturering op basis van licenties](license-based-billing.md).
+Begindatums voor invoegtoepassingen worden afgestemd met het basisabonnement en de kosten worden berekend op basis van de begindatum van de kosten en de einddatum van de kosten met pro rata kosten op de eerste factuur. Zie Op licenties gebaseerde facturering [voor meer informatie.](license-based-billing.md)
 
 
-## <a name="suspend-or-cancel-a-subscription"></a>Een abonnement opschorten of annuleren
+## <a name="suspend-or-cancel-a-subscription"></a>Een abonnement opzeggen of annuleren
 
-Partners kunnen een abonnement opschorten of annuleren indien dit wordt aangevraagd door de klant of in gevallen van niet-betaling of fraude.
+Partners kunnen een abonnement opzeggen of annuleren als dit wordt aangevraagd door de klant, of in geval van niet-vooruitbetaling of fraude.
 
 ### <a name="suspend-a-subscription"></a>Een abonnement opschorten
 
-Wanneer u de status van een abonnement wijzigt in **opgeschort**, kunnen gebruikers zich niet aanmelden of hebben geen toegang tot services.
+Wanneer u de status van een abonnement wijzigt in **Tijdelijk,** kunnen gebruikers zich niet aanmelden of toegang krijgen tot services.
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
-2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
+2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
 3. Kies het abonnement dat u wilt beheren.
 
 4. Kies **Onderbroken** bij **Status**. Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
-5. Alle gegevens worden verwijderd, tenzij het abonnement binnen 90 dagen opnieuw wordt geactiveerd 90, plus het aantal dagen tussen het tijdstip waarop het account is geopend en de eerste facturerings periode (Maxi maal 120 dagen).
+5. Alle gegevens worden verwijderd, tenzij het abonnement binnen 90 dagen opnieuw wordt geactiveerd, of 90 dagen plus het aantal dagen tussen het moment dat het account is geopend en de eerste factureringsperiode (maximaal 120 dagen).
 
-Wanneer u een abonnement uitbreekt, wordt de datum weer gegeven die u onder de **onderbroken** knop ziet wanneer het abonnement automatisch verloopt als u het niet opnieuw activeert. 
+Wanneer u een abonnement onder de  knop Tijdelijk opschorten ziet, wordt aangegeven wanneer het abonnement automatisch verloopt als u het abonnement niet opnieuw activeren. 
+
+>[!NOTE]
+>CSP-abonnementen hebben geen verlopen periode (zoals web-directe abonnementen) waarin de services nog steeds werken, maar het abonnement geen factureringskosten genereert. CSP-abonnementen zijn actief of tijdelijk (of volledig verwijderd).
 
 ### <a name="cancel-a-subscription"></a>Een abonnement annuleren
 
-U kunt SaaS-abonnementen van derden op basis van ISV-uitgevers van derden in de [commerciële Marketplace](csp-commercial-marketplace-overview.md)van partner Center annuleren. Zolang u de annulerings periode hebt geannuleerd, ontvangt u een volledige terugbetaling.
+U kunt SaaS-abonnementen op basis van licenties van ISV-uitgevers van derden annuleren binnen de Partner Center [commerciële marketplace.](csp-commercial-marketplace-overview.md) Zolang u binnen de annuleringsperiode annuleert, ontvangt u een volledige restitutie.
 
-Voor ISV-aanbiedingen worden maandelijks gefactureerd:
+Voor ISV-aanbiedingen die maandelijks worden gefactureerd:
 
-- Als u minder dan 24 uur annuleert nadat u de order hebt geplaatst, ontvangt u een volledig tegoed op de volgende factuur.
+- Als u minder dan 24 uur na het plaatsen van de order annuleert, ontvangt u een volledig tegoed op de volgende factuur.
 
-- Als u later dan 24 uur annuleert nadat u de order hebt geplaatst, wordt de annulering gepland om te worden uitgevoerd bij het vernieuwen.
+- Als u later dan 24 uur na het plaatsen van de order annuleert, wordt de annulering gepland bij verlenging.
 
 Voor aanbiedingen die jaarlijks worden gefactureerd:
 
 - Als u minder dan 14 dagen na het plaatsen van de bestelling annuleert, ontvangt u een volledig tegoed op de volgende factuur.
 
-- Als u later dan 14 dagen na het plaatsen van de order annuleert, wordt de annulering gepland om te worden uitgevoerd bij het vernieuwen.
+- Als u later dan 14 dagen na het plaatsen van de order annuleert, wordt de annulering gepland bij verlenging.
 
-Nadat deze peri Oden zijn afgelopen, ziet u niet langer de optie om het abonnement te annuleren.
+Nadat deze perioden zijn afgelopen, ziet u niet langer de optie om het abonnement te annuleren.
 
 > [!NOTE]
-> Op basis van gebruik en meting van de ISV-services van derden (die bijvoorbeeld virtuele machines of containers gebruiken) komen niet in aanmerking voor retour. Op gebruik gebaseerde services kunnen niet worden ingericht als een annulerings methode. Omdat kosten worden gefactureerd na gebruik, komen deze services niet in aanmerking voor een restitutie.
+> ISV-services van derden (die bijvoorbeeld gebruikmaken van virtuele machines of containers) op basis van gebruik en naar gebruik, komen niet in aanmerking voor retournering. Op gebruik gebaseerde services kunnen worden uitgerichte als annuleringsmethode. Omdat de kosten na gebruik worden gefactureerd, komen deze services niet in aanmerking voor restitutie.
 
 Ga als volgt te werk om een SaaS-abonnement op basis van een licentie van een ISV-uitgever te annuleren:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
-2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
+2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
 3. Zoek het abonnement dat u wilt annuleren.
 
-4. Selecteer **Annuleren** in de kolom **status** . Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
+4. Selecteer annuleren **in** de kolom **Status.** Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
-5. Als er een dialoog venster wordt weer gegeven, vult u de relevante gegevens in en selecteert u vervolgens **verzenden**.
+5. Als er een dialoogvenster wordt weergegeven, vult u relevante gegevens in en selecteert u **Verzenden.**
 
-6. Selecteer **Ja, annuleren** om de annulering te bevestigen.
+6. Selecteer Ja, annuleren om de annulering **te bevestigen.**
 
 > [!NOTE]
-> U kunt er ook voor kiezen om een Azure Marketplace-abonnement te annuleren met behulp van Api's. Zie [een abonnement op Azure Marketplace annuleren](/partner-center/develop/cancel-an-azure-marketplace-subscription)als u dit wilt doen.
+> U kunt er ook voor kiezen om een abonnement Azure Marketplace annuleren met behulp van API's. Zie Een abonnement op Azure Marketplace [annuleren om dit te doen.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
 
-### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Kies of u automatisch een abonnement op commerciële Marketplace wilt vernieuwen
+### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Kiezen of u een abonnement op de commerciële marketplace automatisch wilt verlengen
 
-Actieve abonnementen zijn standaard ingesteld om automatisch te worden verlengd wanneer de abonnementsperiode verloopt. Voor [abonnementen op commerciële Marketplace-Producten](csp-commercial-marketplace-overview.md)kunt u ervoor kiezen om het abonnement optioneel niet automatisch te vernieuwen.
+Actieve abonnementen zijn standaard ingesteld om automatisch te worden verlengd wanneer de abonnementsperiode verloopt. Voor [abonnementen op commerciële marketplace-producten](csp-commercial-marketplace-overview.md)kunt u ervoor kiezen om het abonnement niet automatisch te verlengen.
 
-Als u wilt voor komen dat een actief abonnement op commerciële Marketplace automatisch wordt vernieuwd:
+Als u wilt voorkomen dat een actief abonnement op de commerciële marketplace automatisch wordt verlengd:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
-2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
+2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
-3. Selecteer **Abonnementen**. Hier vindt u een overzicht van de op licenties gebaseerde abonnementen die u hebt aangeschaft voor de klant.
+3. Selecteer **Abonnementen**. Hiermee worden alle op licenties gebaseerde abonnementen vermeld die u voor de klant hebt aangeschaft.
 
-4. Selecteer in de kolom **abonnement** het abonnement dat u wilt wijzigen.
+4. Selecteer in **de** kolom Abonnement het abonnement dat u wilt wijzigen.
 
-5. Zoek op de pagina abonnements Details het gedeelte **status** en schakel het selectie vakje **automatisch verlengen** uit.
+5. Zoek op de pagina met abonnementsdetails **de sectie Status** en vink het selectievakje Automatisch **verlengen** uit.
 
 6. Selecteer **Indienen**.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Commerciële Marketplace-producten kopen voor uw klanten](csp-commercial-marketplace-purchase.md)
+- [Commerciële marketplace-producten kopen voor uw klanten](csp-commercial-marketplace-purchase.md)
 
-- [Commerciële Marketplace-Producten voor uw klanten beheren](csp-commercial-marketplace-manage.md)
+- [Commerciële marketplace-producten voor uw klanten beheren](csp-commercial-marketplace-manage.md)
 
 - [Overzicht van commerciële marketplace](csp-commercial-marketplace-overview.md)

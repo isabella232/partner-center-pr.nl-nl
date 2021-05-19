@@ -1,112 +1,109 @@
 ---
-title: De beheerders bevoegdheden van een klant verkrijgen
+title: De beheerdersbevoegdheden van een klant verkrijgen
 ms.topic: how-to
 ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verkrijg de machtigingen die u nodig hebt voor het beheren van de service of het abonnement van een klant in hun naam. Meer informatie over hoe machtigingen worden verleend, ingetrokken en beheerd.
+description: Verkrijg de machtigingen die u nodig hebt om de service of het abonnement van een klant namens hen te beheren. Meer informatie over hoe machtigingen worden verleend, ingetrokken en beheerd.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 779e76d6bb3e8df679a5ca6fa8ce441e42529161
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502494"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147289"
 ---
-# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Machtigingen voor het beheren van de service of het abonnement van een klant verkrijgen
+# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Machtigingen verkrijgen voor het beheren van de service of het abonnement van een klant
 
-**Juiste rollen**
+**Juiste rollen:** beheeragent | Verkoopagent
 
-- Beheer agent
-- Verkoop agent
+Als u de service of het abonnement van een klant namens hen wilt beheren, moet de klant u beheerdersmachtigingen voor die service verlenen. Als u beheerdersmachtigingen van een klant wilt krijgen, moet u hen een aanvraag voor een resellerrelatie sturen. Nadat de klant uw aanvraag heeft goedgekeurd, kunt u zich aanmelden bij de beheerportal van de service en de service namens de klant beheren. 
 
-Voor het beheren van de service of het abonnement van een klant in hun naam, moet de klant u beheerders machtigingen voor die service verlenen. Als u beheerders machtigingen van een klant wilt ophalen, kunt u een e-mail verzenden naar een reseller-relatie aanvraag. Nadat de klant uw aanvraag heeft goedgekeurd, kunt u zich aanmelden bij de beheer portal van de service en de service namens de klant beheren. 
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Een klant uitnodigen om een resellerrelatie met u tot stand te stellen
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Een klant uitnodigen om een reseller-relatie met u te maken
-
-1.  Selecteer **klanten** en selecteer vervolgens **een reseller-relatie aanvragen**.
+1.  Selecteer **Klanten** en selecteer vervolgens **Een resellerrelatie aanvragen.**
 
 2.  Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het conceptbericht openen in de standaardtoepassing voor e-mail, of u kunt het bericht kopiëren naar het klembord en in een e-mailbericht plakken. 
 
     >[!IMPORTANT]
     >U kunt de tekst in het e-mailbericht bewerken, maar vergeet niet om de koppeling op te nemen, aangezien deze is gepersonaliseerd om de klant rechtstreeks naar uw account te brengen. 
     
-3.  Selecteer **gereed** wanneer u deze stap hebt voltooid.
+3.  Selecteer **Gereed** wanneer u deze stap hebt voltooid.
 
-4.  Verzend het e-mail bericht naar uw klant.
+4.  Verzend het e-mailbericht naar uw klant.
 
-5.  Nadat de klant uw uitnodiging heeft geaccepteerd, wordt deze weer gegeven op uw **klanten** pagina en kunt u de service van daaruit inrichten en beheren.
+5.  Nadat de klant uw uitnodiging heeft geaccepteerd,  wordt deze weergegeven op de pagina Klanten en kunt u de service voor de klant van hieruit inrichten en beheren.
 
-6.  Als u het account, de services, gebruikers en licenties van de klant wilt beheren, vouwt u de record van de klant uit door de pijl-omlaag bij de naam te selecteren en selecteert u vervolgens de beheer portal voor de service die u wilt beheren.
-
->[!IMPORTANT]  
->Klanten kunnen beheerders machtigingen opnieuw toewijzen of verwijderen in de beheer portal van een service. U moet er echter voor zorgen dat u de klant op de hoogte stelt dat het verwijderen van uw beheerders machtigingen betekent dat u niet langer een service aanvraag kunt openen in de naam van micro soft. Het is niet mogelijk om deze typen service aanvragen voor de klant te openen tot u de overeenkomst met de klant opnieuw onderhandelt.
-
-Uw klanten kunnen nagaan of hun partners beheerders bevoegdheden voor hun Tenant hebben in de Office 365-beheer Portal. Om dit te doen:
-
-1. De klant moet zich aanmelden bij de Office 365-beheer portal als globale beheerder.
-
-2. Selecteer **instellingen**  >  **partner relaties**.
-
-3. Op de pagina **partner relaties** wordt de klant een lijst weer gegeven met de partners met wie ze werken en de gebruikers aan wie de bevoegdheden voor gedelegeerd beheer zijn verleend voor hun Tenant.
-
-## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Klanten kunnen de gedelegeerde beheerders bevoegdheden van een partner beheren 
-
-Uw klant kan besluiten uw gedelegeerde beheerders bevoegdheden te verwijderen van hun Tenant, maar de relatie met u te behouden voor het vernieuwen van het abonnement en de licentie. Klanten beheren rechten en machtigingen voor hun Office 365-accounts op de pagina **partner relaties** in het Office 365-beheer centrum. Op deze pagina kunnen klanten het volgende doen:
-
-- Bekijk met welke partners ze een relatie hebben en welke partners gedelegeerde beheerders bevoegdheden hebben
-
-- De machtigingen voor gedelegeerd beheer van een partner van de Tenant verwijderen
-
-Machtigingen voor gedelegeerd beheer van een partner verwijderen:
-
-1. Selecteer op de pagina **partner relaties** de partner van belang.
-2. Selecteer in het detail venster **gedelegeerde beheerder verwijderen**.
-3. Selecteer **verwijderen** in het bevestigings venster.
+6.  Als u het account, de services, gebruikers en licenties van de klant wilt beheren, vouwt u de record van de klant uit door de pijl-omlaag bij de naam te selecteren en vervolgens de beheerportal te selecteren voor de service die u wilt beheren.
 
 >[!IMPORTANT]  
->Toewijzingen van Azure AD-rollen aan de partner zijn impliciet. Als u probeert om de leden van de Azure AD-rollen te vermelden met behulp van Azure AD-Portal/Power shell/Graph, wordt de partner niet geretourneerd. Als u wilt weten of de partners zijn toegewezen aan Azure AD-rollen, moet u verwijzen naar de pagina partner relaties in de Office 365-beheer Portal om erachter te komen of de bevoegdheid gedelegeerd beheer is verleend aan de partner.
+>Klanten kunnen beheerdersmachtigingen opnieuw toewijzen of verwijderen in de beheerportal van een service. U moet de klant echter informeren dat het verwijderen van uw beheerdersmachtigingen betekent dat u niet langer namens hen een serviceaanvraag voor Microsoft kunt openen. U kunt dit soort serviceaanvragen pas namens de klant openen als u uw overeenkomst met de klant hebt gesloten.
 
-## <a name="delegated-admin-privileges-in-azure-ad"></a>Gedelegeerde beheerders bevoegdheden in azure AD 
+Uw klanten kunnen in de Office 365-beheerportal zien welke van hun partners beheerdersbevoegdheden hebben voor hun tenant. Om dit te doen:
 
-Er zijn twee beveiligings groepen, beheerders agenten en helpdesk agenten in de Azure AD-Tenant van de partner die worden gebruikt voor gedelegeerd beheer. Wanneer een klant de bevoegdheid gedelegeerd beheer verleent aan een partner:
+1. De klant moet zich aanmelden bij de Office 365-beheerportal als globale beheerder.
 
-- De groep Administrator agent is toegewezen aan de rol van globale beheerder in de Azure AD-Tenant van de klant.
+2. Selecteer **Instellingen**  >  **Partnerrelaties.**
 
-- De agent groep helpdesk wordt toegewezen aan de beheerdersrol van de helpdesk beheerder in de Azure AD-Tenant van de klant.
+3. Op de **pagina Partnerrelaties** ziet de klant een lijst met de partners met wie ze werken en de partners die gedelegeerde beheerdersbevoegdheden hebben gekregen voor hun tenant.
 
-Op basis van de toegewezen Directory functies kunnen leden van beide groepen zich aanmelden bij de Azure AD-Tenant en O365-services van de klant met behulp van hun partner referenties en beheerder namens de klant.
+## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Klanten kunnen de gedelegeerde beheerdersbevoegdheden van een partner beheren 
 
-Als uw klant gedelegeerde beheerders bevoegdheden verwijdert, worden de toewijzingen van Azure AD-rollen verwijderd en kunt u de Azure AD-Tenant van de klant niet meer beheren.
+Uw klant kan besluiten om uw gedelegeerde beheerdersbevoegdheden te verwijderen uit hun tenant, maar de relatie met u te behouden voor abonnements- en licentievernieuwingsdoeleinden. Klanten beheren rechten en machtigingen voor hun Office 365-accounts op de **pagina Partnerrelaties** in het Office 365-beheercentrum. Op deze pagina kunnen klanten:
 
-### <a name="azure-subscriptions-and-resource-management"></a>Azure-abonnementen en resource beheer
+- Zien met welke partners ze een relatie hebben en met welke partners beheerdersbevoegdheden zijn gedelegeerd
 
-Elk Azure-abonnement heeft een eigen set resource management-rollen. Voordat een CSP-partner het Azure-abonnement van een klant kan beheren, moet de partner worden toegewezen aan een of meer rollen onder het Azure-abonnement. Met name:
+- De gedelegeerde beheerdersbevoegdheden van een partner uit de tenant verwijderen
 
-- Wanneer een klant een uitnodiging voor een wederverkoper accepteert en gedelegeerde beheer bevoegdheid verleent aan een partner, krijgt de partner niet automatisch toegang tot de bestaande Azure-abonnementen onder de Tenant van de klant.
+Gedelegeerde beheerbevoegdheden van een partner verwijderen:
 
-- Wanneer de CSP-partner een nieuw Azure-abonnement voor de klant aanbiedt, wordt de groep Administrator-agents onder de Tenant van de CSP-partner automatisch toegewezen aan de eigenaar van het abonnement. Op basis van deze roltoewijzing kunnen leden van de groep resources onder het abonnement openen en beheren.
+1. Selecteer op **de pagina** Partnerrelaties de partner van belang.
+2. Selecteer in het detailvenster **Gedelegeerde beheerder verwijderen.**
+3. Selecteer Verwijderen in het **bevestigingsvenster.**
 
-- Wanneer een klant gedelegeerde beheer rechten van een partner met behulp van Office 365 Portal verwijdert, kan de partner nog steeds het Azure-abonnement van de klant beheren, zolang de partner nog steeds is toegewezen aan een of meer functies onder het abonnement. Als u wilt voor komen dat de partner het Azure-abonnement beheert, moet de klant de roltoewijzing verwijderen.
+>[!IMPORTANT]  
+>Azure AD-roltoewijzingen aan de partner zijn impliciet. Als u probeert de leden van de Azure AD-rollen weer te geven met behulp van de Azure AD-portal/PowerShell/Graph, wordt de partner niet geretourneerd. Als u wilt weten of de partners zijn toegewezen aan Azure AD-rollen, raadpleegt u de pagina Partnerrelaties in de Office 365-beheerportal om erachter te komen of gedelegeerde beheermachtiging is verleend aan de partner of niet.
+
+## <a name="delegated-admin-privileges-in-azure-ad"></a>Gedelegeerde beheerdersbevoegdheden in Azure AD 
+
+Er zijn twee beveiligingsgroepen, beheerdersagents en helpdeskmedewerkers, in de Azure AD-tenant van de partner die worden gebruikt voor gedelegeerd beheer. Wanneer een klant gedelegeerde beheerrechten verleent aan een partner:
+
+- De beheerdersagentgroep wordt toegewezen aan de rol Globale beheerder in de Azure AD-tenant van de klant.
+
+- De groep Helpdeskagent wordt toegewezen aan de rol Helpdeskbeheerder in de Azure AD-tenant van de klant.
+
+Op basis van de toegewezen directoryrollen kunnen leden van beide groepen zich namens de klant aanmelden bij de Azure AD-tenant en O365-services van de klant.
+
+Als uw klant gedelegeerde beheerdersbevoegdheden verwijdert, worden de Azure AD-roltoewijzingen verwijderd en kunt u de Azure AD-tenant van de klant niet meer beheren.
+
+### <a name="azure-subscriptions-and-resource-management"></a>Azure-abonnementen en resourcebeheer
+
+Elk Azure-abonnement heeft een eigen set resourcebeheerrollen. Voordat een CSP-partner het Azure-abonnement van een klant kan beheren, moet de partner worden toegewezen aan een of meer rollen onder het Azure-abonnement. Met name:
+
+- Wanneer een klant een reselleruitnodiging accepteert en gedelegeerde beheerrechten verleent aan een partner, krijgt de partner niet automatisch toegang tot bestaande Azure-abonnementen onder de tenant van de klant.
+
+- Wanneer de CSP-partner een nieuw Azure-abonnement voor de klant indeelt, krijgt de groep Beheerdersagenten onder de tenant van de CSP-partner automatisch de rol Eigenaar toegewezen onder het abonnement. Op basis van deze roltoewijzing hebben leden van de groep toegang tot en beheer van resources onder het abonnement.
+
+- Wanneer een klant gedelegeerde beheerdersbevoegdheden verwijdert van een partner met behulp van de Office 365-portal, kan de partner nog steeds het Azure-abonnement van de klant beheren zolang de partner nog steeds is toegewezen aan een of meer rollen in het abonnement. Als u wilt voorkomen dat de partner het Azure-abonnement beheert, moet de klant de roltoewijzing verwijderen.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
 
-Vanuit Partner Center kunnen CSP-partners auto pilot-profielen beheren voor hun klanten zonder gedelegeerde beheerders bevoegdheden onder deze omstandigheden: 
+Vanuit Partner Center kunnen CSP-partners Autopilot-profielen voor hun klanten beheren zonder gedelegeerde beheerdersbevoegdheden onder deze omstandigheden: 
 
-- Als een klant gedelegeerde beheer bevoegdheden verwijdert, maar een wederverkoper met u houdt, kunt u de auto pilot-profielen voor hen blijven beheren.
+- Als een klant gedelegeerde beheerbevoegdheden verwijdert, maar een resellerrelatie met u behoudt, kunt u autopilot-profielen voor deze klanten blijven beheren.
 
-- U kunt klant apparaten beheren die u of een andere partner hebt toegevoegd. 
+- U kunt klantapparaten beheren die u of een andere partner heeft toegevoegd. 
 
-- U kunt geen apparaten beheren die uw klant heeft toegevoegd via de Microsoft Store voor bedrijven, Microsoft Store voor onderwijs of Microsoft Intune Portal.
+- U kunt geen apparaten beheren die uw klant heeft toegevoegd via de Microsoft Store voor Bedrijven, Microsoft Store voor Onderwijs of Microsoft Intune Portal.
 
-Zie voor meer informatie over automatische pilot het [apparaat instellen vereenvoudigen met Windows auto pilot](autopilot.md).
+Zie Setup van apparaten vereenvoudigen met autopilot [voor meer informatie Windows Autopilot.](autopilot.md)
 
 >[!IMPORTANT]  
->De huidige automatische pilot-ervaring in het partner centrum kan worden gewijzigd. Op het moment van publicatie van dit artikel worden de volgende wijzigingen in overweging genomen:
+>De huidige Autopilot-beheerervaring in Partner Center mogelijk blijven wijzigen. Op het moment dat dit artikel werd gepubliceerd, worden de volgende wijzigingen in aanmerking genomen:
 
-- Aan de partner moet een gedelegeerde beheer bevoegdheid worden verleend door de klant voordat de partner profielen kan toevoegen, bijwerken of verwijderen en profiel kan Toep assen op of verwijderen van apparaten in de Tenant van de klant.
+- De partner moet gedelegeerde beheerrechten van de klant krijgen voordat de partner profielen kan toevoegen/bijwerken/verwijderen en profiel kan toepassen/verwijderen van apparaten in de tenant van de klant.
 
-- Aan de partner moet een gedelegeerde beheer bevoegdheid worden verleend door de klant voordat de partner apparaten kan verwijderen die door andere partners of door de klant in de Tenant van de klant worden toegevoegd. Anders kan de partner alleen apparaten verwijderen die eerder zijn toegevoegd door dezelfde partner.
+- Aan de partner moet gedelegeerde beheerrechten worden verleend door de klant voordat de partner apparaten kan verwijderen die zijn toegevoegd door andere partners of door de klant in de tenant van de klant. Anders kan de partner alleen apparaten verwijderen die eerder door dezelfde partner zijn toegevoegd.

@@ -1,58 +1,55 @@
 ---
-title: Betalen in partner centrum
-description: Meer informatie over het ontvangen van betalingen voor inkomsten als een micro soft-partner, zoals commerciële Marketplace-aanbiedingen, prikkel Programma's en het Cloud Solution Provider-programma. Inclusief uitbetalings beleid, status van uitbetalings blokkering en uitbetalings verklaringen.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+title: Betaald krijgen in Partner Center
+description: Meer informatie over het ontvangen van betalingen voor inkomsten als Een Microsoft-partner, zoals via aanbiedingen op de commerciële marketplace, incentive-programma's en het Cloud Solution Provider programma. Omvat uitbetalingsbeleid, de status van de uitbetalingsstatus en uitbetalingsverklaringen.
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 3dc8b728ef20da77b9a6d2a925ebb0388ea53837
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133077"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146490"
 ---
-# <a name="getting-paid-in-partner-center"></a>Betalen in partner centrum
+# <a name="getting-paid-in-partner-center"></a>Betaald krijgen in Partner Center
 
-**Juiste rollen**
+**Juiste rollen:** Accountbeheerder | Globale beheerder
 
-- Accountbeheerder
-- Globale beheerder
+Dit artikel bevat belangrijke informatie over het ontvangen van betalingen voor uw aanbiedingen, invoegtoepassingen en advertentie-inkomsten. Het bevat een overzicht van het uitbetalingsbeleid, de stappen die vereist zijn voordat u betaald krijgt en overzicht van het uitbetalingsoverzicht.
 
-In dit artikel vindt u belang rijke informatie over het ontvangen van betalingen voor uw aanbiedingen, invoeg toepassingen en reclame-inkomsten. Er wordt een overzicht gegeven van het uitbetalings beleid, de vereiste stappen voor het ophalen van de betalings wijze en de uitbetalings overzicht
+## <a name="payout-policies-and-agreements"></a>Uitbetalingsbeleid en -overeenkomsten
 
-## <a name="payout-policies-and-agreements"></a>Uitbetalings beleid en-overeenkomsten
+Als u betaald wilt krijgen, moet u zich houden aan de overeenkomsten en het uitbetalingsbeleid.
 
-Als u aan de slag wilt, moet u zich houden aan de overeenkomsten en het beleid voor uitbetaling.
+- [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement): voordat u betaald krijgt, moet u deze uitgeversovereenkomst accepteren. In deze overeenkomst wordt de relatie tussen u en Microsoft uitgelegd wanneer deze betrekking heeft op aanbiedingen van verkopers in de commerciële marketplace, met inbegrip van de winkelkosten die Microsoft in rekening brengt voor elke verkoop.
+- [Uitbetalingsbeleid toont](payout-policy-details.md) het betalingsbeleid voor uitbetalingen, inclusief betalingsplanning en betalingsmethoden. In het beleid wordt ook het proces voor niet-betalingen van klanten uitgelegd.
+- [In Belastingdetails](tax-details-marketplace.md) wordt de belastingoverweging voor prijsselectie en belastingverantwoordelijkheid in de Microsoft [Publisher Agreement uitgelegd.](/legal/marketplace/msft-publisher-agreement)
+- **Winkelkosten worden** officieel gedefinieerd in de Uitgeversovereenkomst. Winkelkosten worden toegepast op alle aanbiedingsverkopen die worden verzameld door de commerciële marketplace, inclusief invoegtoepassingen.
+- **Betalingen** worden maandelijks uitgevoerd (op voorwaarde dat aan de betalingsdrempel is voldaan). Normaal gesproken verzenden we elke betaling die in een bepaalde maand moet worden betaald op de 15e dag van die maand. Het duurt doorgaans 3 tot 10 extra werkdagen om uw uitbetalingsaccount te bereiken. Zie Betalingsdrempels, methoden en [tijdframes voor meer informatie.](payment-thresholds-methods-timeframes.md)
 
-- [Microsoft Azure Marketplace uitgevers overeenkomst](https://go.microsoft.com/fwlink/p/?LinkID=699560): voordat u aan de slag gaat, moet u akkoord gaan met deze uitgever overeenkomst. In deze overeenkomst wordt de relatie tussen u en micro soft toegelicht, omdat deze betrekking heeft op aanbiedingen van verkopers in de commerciële Marketplace, inclusief de winkel kosten die micro soft voor elke verkochte verkoop in rekening brengt.
-- In het [uitbetalings beleid](payout-policy-details.md) worden de beleids regels voor betaling via betaling weer gegeven, inclusief betalings schema en betalings methoden. Het beleid verklaart ook het proces voor klant niet-betalingen.
-- In de [belasting gegevens](tax-details-marketplace.md) wordt de belasting overweging voor prijzen electie en de BTW-verantwoordelijkheid in de overeenkomst met micro soft [Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560)uitgelegd.
-- De **winkel kosten** zijn officieel gedefinieerd in de Publisher-overeenkomst. De winkel kosten worden toegepast op alle aanbiedingen die zijn verzameld door de commerciële Marketplace, inclusief invoeg toepassingen.
-- **Betalingen** worden maandelijks uitgevoerd (op voor waarde dat de betalings drempel is bereikt). Normaal gesp roken verstuurt de verschuldigde betaling in een bepaalde maand door de vijftiende dag van die maand. Betalingen nemen doorgaans drie tot tien extra dagen in beslag om uw uitbetalings account te bereiken. Zie [betalings drempels, methoden en tijd frames](payment-thresholds-methods-timeframes.md)voor meer informatie.
+## <a name="prerequisite-steps-before-getting-paid"></a>Vereiste stappen voordat u betaald krijgt
 
-## <a name="prerequisite-steps-before-getting-paid"></a>Vereiste stappen voordat u aan de slag gaat
+Voordat u de eerste keer wordt betaald, moet u uw uitbetalingsaccount instellen en de benodigde bank- en belastingformulieren invullen. In bank- en belastingformulieren geeft u uw voorkeursbetalingsmethoden en de belastingformulieren voor bronbelasting op. Bank- en belastingformulieren zijn vereist voordat we u kunnen betalen. Zie Uw uitbetalingsaccount [en belastingformulieren instellen voor meer informatie.](set-up-your-payout-account.md)
 
-Voordat u de eerste keer betaalt, moet u uw account voor betaling instellen en de vereiste Bank-en belasting formulieren volt ooien. In Bank-en belasting formulieren geeft u uw voor keuren voor de betalings wijze en de belasting formulieren voor bron belasting op. Bank-en belasting formulieren zijn vereist voordat we je kunnen betalen. Zie [uw uitbetalings account en BTW-formulieren instellen](set-up-your-payout-account.md)voor meer informatie.
+### <a name="payout-hold-status"></a>Wachtstatus uitbetaling
 
-### <a name="payout-hold-status"></a>Status uitbetalings blokkering
+Standaard verzenden we betalingen op maandelijkse basis, zoals hierboven beschreven. U kunt uw uitbetalingen voor een programma echter in de wacht zetten en Microsoft zal uw betalingen niet vrijgeven aan uw account. Als u ervoor kiest om uw uitbetalingen in de wacht te zetten, blijven we eventuele inkomsten opnemen op de **pagina Uitbetalingen.** We sturen echter geen betalingen naar uw account totdat u de wachtstand hebt verwijderd.
 
-Standaard worden betalingen maandelijks verzonden, zoals hierboven wordt beschreven. U kunt uw uitbetalingen echter voor een programma in de wacht zetten en micro soft brengt uw betalingen niet aan uw account door. Als u ervoor kiest om uw uitbetalingen in de wacht te zetten, blijven we de inkomsten op de pagina **uitbetalingen** vastleggen. Er worden echter geen betalingen naar uw account verzonden totdat u de blok kering verwijdert.
+Als u uw betalingen in de wacht wilt zetten, **selecteert** u rechtsboven het tandwielpictogram Instellingen en vervolgens **Accountinstellingen.** Selecteer **Uitbetaling en belasting** in het  menu links en zoek in de sectie Toewijzing van uitbetalings- en belastingprofiel het programma waarvoor u betalingen wilt houden. Schakel het **selectievakje Mijn betaling in** de wacht houden in om betalingen voor dit programma op te houden. U kunt de status van uw uitbetalings hold op elk moment wijzigen, maar uw beslissing is van invloed op de volgende maandelijkse uitbetaling. Als u bijvoorbeeld de uitbetaling van april wilt behouden, moet u  vóór eind maart de status van uw uitbetalings hold instellen op Aan.
 
-Als u uw betalingen in de wacht wilt plaatsen, selecteert u het tandwiel pictogram **instellingen** in de rechter bovenhoek en vervolgens de **account instellingen**. Selecteer **uitbetaling en BTW** in het linkermenu en zoek in het gedeelte **toekennings-en BTW-profiel toewijzing** het programma waarvoor u betalingen wilt houden. Schakel het selectie vakje **mijn betaling bewaren** in om betalingen voor dit programma te bewaren. U kunt de status van uw uitbetalings blokkering op elk gewenst moment wijzigen, maar uw beslissing is van invloed op de volgende maandelijkse uitbetaling. Als u bijvoorbeeld de uitbetaling van april wilt bewaren, moet u ervoor zorgen dat u vóór het einde van maart de status van uw uitbetalings blokkering hebt ingesteld **op aan.**
-
-Zodra u de status van de uitbetalings blokkering hebt ingesteld op **aan**, worden alle uitbetalingen voor dit programma in de wacht stand **gezet** totdat u het selectie vakje uitschakelt. Wanneer u dit doet, wordt u opgenomen in de volgende maandelijkse uitbetalings cyclus (op voor waarde dat de betalings drempel is bereikt). Als u uw uitbetalingen in de wacht hebt, maar graag een betaling wilt laten genereren in juni, schakelt u het selectie vakje uit **vóór het** einde van mei.
+Zodra u uw wachtstatus voor uitbetaling hebt ingesteld op **Aan,** worden alle uitbetalingen voor dit programma in de wacht gezet totdat u het selectievakje uit bij **Uit hebt uitgeschakeld.** Wanneer u dit doet, wordt u opgenomen tijdens de volgende maandelijkse uitbetalingscyclus (mits is voldaan aan de betalingsdrempelwaarde). Als uw uitbetalingen in de wacht staan, maar u een uitbetaling wilt genereren  in juni, wist u het selectievakje uit vóór eind mei.
 
 >[!Note]
-> De status van uw uitbetalings blokkering geldt voor elk afzonderlijk programma (Microsoft Store, reclame, Azure Marketplace, enzovoort). Als u betalingen wilt bewaren voor al uw Program ma's, moet u de betaling voor elk programma afzonderlijk bewaren.
+> Uw uitbetalingsstatus geldt voor elk programma afzonderlijk (Microsoft Store, advertenties, Azure Marketplace, etc.). Als u betalingen voor al uw programma's wilt houden, moet u voor elk programma afzonderlijk betalen.
 
 ## <a name="payout-statements"></a>Uitbetalingsinstructies
 
-In de uitbetalings verklaring worden uw inkomsten uit de verkoop van uw aanbiedingen en invoeg toepassingen in de transactie geschiedenis weer gegeven. U kunt ook betalings gegevens bekijken en rapporten downloaden in de indeling TSV of CSV. Zie uitzonderings [instructies](payout-statement.md) voor meer informatie over het openen van de uitbetalings verklaring en de details van de transactie geschiedenis en betalings rapporten. Daarnaast kunt u de [API partner uitbetalingen](https://apidocs.microsoft.com/services/partnerpayouts) gebruiken om de uitbetalings rapporten systematisch te verzamelen.
+Het uitbetalingsoverzicht toont uw inkomsten uit de verkoop van uw aanbiedingen en invoegtoepassingen in de transactiegeschiedenis. U kunt ook betalingsgegevens bekijken en rapporten downloaden in TSV- of CSV-indeling. Zie [Uitbetalingsoverzichten](payout-statement.md) voor meer informatie over het openen van het uitbetalingsoverzicht en de details van de transactiegeschiedenis en betalingsrapporten. Daarnaast kunt u de API voor uitbetalingen van partners gebruiken om systematisch de [uitbetalingsrapporten](https://apidocs.microsoft.com/services/partnerpayouts) op te halen.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [API voor partner uitbetalingen](https://apidocs.microsoft.com/services/partnerpayouts)
+- [Api voor uitbetalingen van partners](https://apidocs.microsoft.com/services/partnerpayouts)
 - [Veelgestelde vragen over uitbetalingen](payout-faq.md)

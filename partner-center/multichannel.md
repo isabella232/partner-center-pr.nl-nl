@@ -1,6 +1,6 @@
 ---
 title: Ondersteuning voor meerdere kanalen voor klanten
-description: In sommige gevallen willen klanten u mogelijk een abonnement inrichten en ondersteunen dat ze elders hebben gekocht.
+description: In sommige gevallen willen klanten u misschien in dienst nemen om een abonnement in terichten en te ondersteunen dat ze elders hebben aangeschaft.
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
@@ -9,43 +9,37 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9bf577b6869a8b48215cb404df872d79f38e6a5e
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: bd0bb946c2f59f50c27aff58569d497bc21bf30b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441979"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146405"
 ---
-# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Ondersteuning voor meerdere kanalen: gebruik andere partners om klanten te ondersteunen die elders zijn aangeschaft
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Ondersteuning voor meerdere kanalen: andere partners gebruiken om klantabonnementen te ondersteunen die elders zijn gekocht
 
-**Van toepassing op**
+**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partnercentrum voor Microsoft Cloud for US Government
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent
 
-**Juiste rollen**
+De Partner Center functie voor meerdere kanalen ondersteunt scenario's waarin een klant een partner wil aannemen om een abonnement te beheren en te ondersteunen dat ze elders hebben aangeschaft. Ondersteuning voor meerdere kanalen is van toepassing wanneer de klant:
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Verkoop agent
+- Reeds aangeschafte abonnementen rechtstreeks van Microsoft of via de Advisor-, Open- of EA-programma's.
 
-De multi channel-functie van het partner Centrum ondersteunt scenario's wanneer een klant een partner wil huren om een abonnement te beheren en te ondersteunen dat ze elders hebben gekocht. Ondersteuning voor meerdere kanalen is van toepassing wanneer de klant:
-
-- U hebt al rechtstreeks abonnementen gekocht van micro soft of van de Advisor-, open-of EA-Program ma's.
-
-- U hebt de abonnementen van een derde partij gekocht, niet in het Cloud Solution Provider-programma of niet een micro soft Syndication-partner. Klanten kunnen niet overschakelen op bestaande op licenties gebaseerde abonnementen naar een andere partner in het Cloud Solution Provider-programma. ze moeten wachten tot het einde van hun abonnements periode of worden geannuleerd voordat ze worden verplaatst.
+- U hebt de abonnementen aangeschaft van een derde partij die geen deel Cloud Solution Provider programma of geen Microsoft Syndication Partner. Klanten kunnen bestaande op licenties gebaseerde abonnementen niet overschakelen naar een andere partner in het Cloud Solution Provider-programma. Ze moeten wachten tot het einde van hun abonnementsperiode of annuleren voordat ze de overstap maken.
 
 |Ter ondersteuning van deze services  | Doe dit: |
 |:---------|:---------|
-|Services op basis van licenties    | Om ondersteuning te bieden voor Multi Channel-accounts, moet u machtigingen van de klant aanvragen voor het beheren van hun abonnementen. Zie [een reseller-relatie met een klant aanvragen](request-a-relationship-with-a-customer.md)voor meer informatie.   |
-|Op gebruik gebaseerde services     |  Voor een klant die al een abonnement heeft Microsoft Azure van een ander kanaal, zoals Advisor, open of EA, moet u een nieuw Azure-abonnement maken in het partner centrum, de abonnements gegevens hand matig invoeren en vervolgens de afzonderlijke services of het hele abonnement annuleren. Azure CSP kan naast elkaar worden gebruikt voor verschillende kanalen.<br/><br/> Voor een klant die al een abonnement heeft Microsoft Azure van een andere partner, kunt u bijvoorbeeld Azure-Services overschakelen naar de andere partner.  Zie voor meer informatie [Azure-abonnementen overschakelen naar een andere partner](switch-azure-subscriptions-to-a-different-partner.md). |
+|Op licenties gebaseerde services    | Als u ondersteuning wilt bieden voor accounts met meerdere kanalen, moet u machtigingen aanvragen bij de klant om hun abonnementen te beheren. Zie Een resellerrelatie aanvragen met [een klant voor meer informatie.](request-a-relationship-with-a-customer.md)   |
+|Op gebruik gebaseerde services     |  Voor een klant die al een abonnement op Microsoft Azure heeft vanaf een ander kanaal, zoals Advisor, Open of EA, moet u een nieuw Azure-abonnement maken in Partner Center, handmatig de abonnementsgegevens invoeren en vervolgens de afzonderlijke services of het hele abonnement annuleren. Azure CSP kunnen naast verschillende kanalen bestaan.<br/><br/> Voor een klant die al een abonnement op Microsoft Azure van een andere partner heeft, kunt u azure-services bijvoorbeeld overschakelen naar de andere partner.  Zie Switch [Azure subscriptions to a different partner (Azure-abonnementen overschakelen naar een andere partner) voor meer informatie.](switch-azure-subscriptions-to-a-different-partner.md) |
 
 > [!IMPORTANT]  
-> Een CSP-partner kan onlineservices momenteel niet verkopen naar een andere CSP-partner. Micro soft beoordeelt voortdurend beleid en mogelijkheden van alle Program ma's. Aankondigingen over functie releases worden aangekondigd via de gebruikelijke communicatie kanalen, waaronder het partner centrum.
+> Een CSP-partner kan momenteel onlineservices verkopen aan een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Aankondigingen over functiereleases worden aangekondigd via de gebruikelijke communicatiekanalen, inclusief de Partner Center.
 
 ## <a name="next-steps"></a>Volgende stappen
 
 [Werken met andere partners](work-with-other-partners.md)
 
-- Als u een indirecte wederverkoper bent, raadpleegt u [partner met indirecte providers](indirect-reseller-tasks-in-partner-center.md).
+- Zie Partner met indirecte providers als u een indirecte reseller [bent.](indirect-reseller-tasks-in-partner-center.md)
 
-- Zie [partner met indirecte wederverkopers](indirect-provider-tasks-in-partner-center.md)als u een indirecte provider bent.
+- Zie Partner met indirecte resellers als u een indirecte [provider bent.](indirect-provider-tasks-in-partner-center.md)

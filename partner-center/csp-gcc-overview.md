@@ -4,48 +4,45 @@ ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over de stappen en vereisten voor het verkopen van abonnementen op Office 365 Government GCC voor CSP naar gekwalificeerde Verenigde Staten overheids klanten of-contract ANTEN.
+description: Meer informatie over de stappen en vereisten voor het verkopen van abonnementen aan Office 365 Government GCC voor CSP aan gekwalificeerde Verenigde Staten overheidsklanten of contractanten.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: d88936845c8b7ae7e17840843896d87ceebb4b2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979427"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147799"
 ---
-# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Office 365 Government GCC voor CSP-abonnementen op gekwalificeerde klanten verkopen
+# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Office 365 Government GCC voor CSP-abonnementen verkopen aan gekwalificeerde klanten
 
-**Juiste rollen**
-
-- Globale beheerder
-- Beheer agent
+**Juiste rollen:** globale | Beheeragent
 
 
 ## <a name="overview"></a>Overzicht
 
-Micro soft-partners in het Cloud Solution Provider-programma (CSP) kunnen [Office 365 Government gcc voor CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) -abonnementen verkopen aan gekwalificeerde klanten. Office 365 Government GCC voor CSP is ontworpen voor de unieke behoeften van Amerikaanse overheids organisaties en biedt alle functies en mogelijkheden van Office 365-Services in een gesegmenteerde Government Cloud-Community waarmee organisaties voldoen aan de nalevings-en beveiligings normen van de Amerikaanse overheid. 
+Microsoft-partners in het Cloud Solution Provider-programma (CSP) kunnen [Office 365 Government GCC](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) voor CSP-abonnementen verkopen aan gekwalificeerde klanten. Office 365 Government GCC voor CSP is ontworpen voor de unieke behoeften van Amerikaanse overheidsorganisaties en biedt alle functies en mogelijkheden van Office 365-services in een gesegmenteerde community van overheidsclouds waarmee organisaties kunnen voldoen aan de nalevings- en beveiligingsnormen van de Amerikaanse overheid. 
 
 >[!IMPORTANT] 
->Voordat u Office 365 Government GCC voor CSP-abonnementen kunt verkopen, moet uw bedrijf worden goedgekeurd voor de verkoop aan gekwalificeerde klanten. En voordat klanten Office 365 Government GCC voor CSP-abonnementen kunnen kopen en gebruiken, moeten ze voldoen aan de vereisten voor de geschiktheid. Zie de [criteria voor partner-en klant geschiktheid](csp-gcc-validate.md) voor belang rijke informatie.
+>Voordat u Office 365 Government GCC voor CSP-abonnementen kunt verkopen, moet uw bedrijf zijn goedgekeurd voor verkoop aan gekwalificeerde klanten. En voordat klanten Office 365 Government GCC voor CSP-abonnementen kunnen kopen en gebruiken, moeten ze voldoen aan geschiktheidsvereisten. Zie [criteria voor geschiktheid van partners en klanten](csp-gcc-validate.md) voor belangrijke informatie.
 
 
-## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Office 365 Government GCC voor CSP-abonnementen verkopen
+## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Office 365 Government GCC verkopen voor CSP-abonnementen
 
-Nadat uw bedrijf is goedgekeurd voor het verkopen van Office 365 Government GCC voor CSP-aanbiedingen, kunt u beginnen met verkopen aan klanten met behulp van partner centrum. Raadpleeg deze bronnen voor meer informatie over het gebruik van partner centrum voor het verkopen van abonnementen: 
+Nadat uw bedrijf is goedgekeurd voor het verkopen van Office 365 Government GCC voor CSP-aanbiedingen, kunt u beginnen met verkopen aan klanten met behulp van Partner Center. Raadpleeg deze resources voor meer informatie over het gebruik van Partner Center om abonnementen te verkopen: 
 
-- Lees gids voor het [verkopen van Office 365 Government gcc voor CSP-abonnementen](https://go.microsoft.com/fwlink/?linkid=2007323)voor een stapsgewijze hand leiding.  
+- Lees de handleiding voor het verkopen van [Office 365 Government GCC voor CSP-abonnementen](https://go.microsoft.com/fwlink/?linkid=2007323)voor een stapsgewijse handleiding.  
 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-Krijg toegang tot informatie over de mogelijkheden van de [partner in Amerikaanse overheid](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) op de website van Microsoft 365 voor partners.
+Krijg toegang tot informatie [over de partnerkans in de](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) Amerikaanse overheid op Microsoft 365 site voor partners.
 
-Product bronnen:
+Productbronnen:
 
-- [Beschrijving van Office 365 Government service](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
+- [Servicebeschrijving van Office 365 Government](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Vertrouwenscentrum van Microsoft](https://www.microsoft.com/TrustCenter/)
-- [Micro soft service Trust-Portal](https://aka.ms/STP)
+- [Microsoft Service Trust Portal](https://aka.ms/STP)

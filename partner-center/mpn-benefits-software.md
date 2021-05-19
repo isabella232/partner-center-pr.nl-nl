@@ -1,68 +1,65 @@
 ---
-title: MPN-voor delen-software
+title: MPN-voordelen - Software
 ms.topic: article
 ms.date: 03/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Meer informatie over on-premises software producten die worden aangeboden als Microsoft Partner Network (MPN)-voor delen
+description: Meer informatie over on-premises softwareproducten die worden aangeboden als Microsoft Partner Network (MPN)-voordelen
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 846bad6bdde080288bc7dd916e389dd86b5315f0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619372"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146286"
 ---
-# <a name="mpn-benefits---software"></a>MPN-voor delen-software
+# <a name="mpn-benefits---software"></a>MPN-voordelen - Software
 
-**Juiste rollen**
-
-- Globale beheerder
-- MPN-partner beheerder
+**Juiste rollen:** Globale | MPN-partnerbeheerder
 
 ## <a name="overview"></a>Overzicht
 
-In dit artikel worden de on-premises software voordelen beschreven die beschikbaar zijn voor partners in het partner centrum. Als u alle software producten wilt zien die u recht hebt als onderdeel van uw actieve inschrijvings aanbieding, gaat u naar  [MPN>-voor delen en selecteert u vervolgens het tabblad software](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) in het menu van het partner centrum.  
+In dit artikel worden de on-premises softwarevoordelen beschreven die beschikbaar zijn voor partners binnen Partner Center. Als u alle softwareproducten wilt zien waar u recht op hebt als onderdeel van uw actieve inschrijvingsaanbieding, gaat u naar  [MPN>Benefits](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) en selecteert u vervolgens het tabblad Software in het menu Partner Center selecteren.  
 
-## <a name="manage-software-products-and-product-keys"></a>Software producten en product codes beheren
+## <a name="manage-software-products-and-product-keys"></a>Softwareproducten en productcodes beheren
 
-Selecteer het software product van belang en zoek de specifieke instructies voor elk product door te klikken op het vervolg keuzemenu in een regel met de product naam.
+Selecteer het softwareproduct dat van belang is en zoek de specifieke instructies voor elk product door te klikken op het vervolgkeuzesymbool in de regel met de productnaam.
 
-Als voor de installatie van een product een product code is vereist, wordt u tijdens het installatie proces gevraagd om een product code in te voeren. U kunt uit hetzelfde deel venster in het partner centrum halen waar u de software versie hebt gekozen die u wilt downloaden.
+Als voor een product een productcode is vereist voor de installatie, wordt u tijdens het installatieproces gevraagd om een productcode in te voeren. U kunt kiezen uit hetzelfde deelvenster in Partner Center waar u de softwareversie hebt gekozen die u wilt downloaden.
 
-Product activering is vereist voor **Windows Server** -en client **besturingssystemen** en **alle Microsoft Office-client toepassingen**. Niet voor alle producten is product activering vereist.
+Productactivering is vereist voor **Windows Server-** en **clientbesturingssystemen en** **alle Microsoft Office clienttoepassingen.** Niet alle producten vereisen productactivering.
 
-:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="De voor delen van software producten voor u zijn beschikbaar op MPN." border="false":::
+:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Softwareproductvoordelen die voor u beschikbaar zijn op MPN." border="false":::
 
 ## <a name="how-activations-are-counted"></a>Hoe activeringen worden geteld
 
-Het aantal activeringen dat wordt berekend op basis van een product code is gebaseerd op de volgende scenario's
+Het aantal activeringen dat wordt geteld op basis van een productcode is gebaseerd op de volgende scenario's
 
-- Als de software op een nieuwe computer is geïnstalleerd, wordt het aantal product activeringen voor de sleutel verhoogd met één.
+- Als de software op een nieuwe computer is geïnstalleerd, wordt het aantal productactiveringen voor de sleutel met één verhoogd.
  
-- Als de software is geïnstalleerd op dezelfde computer zonder belang rijke wijzigingen in de hardware, wordt product activering niet meegeteld bij de product code.
+- Als de software op dezelfde computer is geïnstalleerd zonder belangrijke hardwarewijzigingen, wordt productactivering niet meegetelde voor de productcode.
 
-- Als de software is geïnstalleerd op dezelfde computer met belang rijke wijzigingen in de hardware, wordt product activering geteld bij de product code.
+- Als de software op dezelfde computer is geïnstalleerd met belangrijke hardwarewijzigingen, wordt productactivering geteld op basis van de productcode.
 
 ## <a name="troubleshooting-scenarios"></a>Scenario’s voor probleemoplossing
 
-- **Bericht ' geen verdere details beschikbaar ' wordt weer gegeven voor de voor delen van Cal's (licenties voor client toegang voor Windows Server)**
+- **Er worden geen verdere details beschikbaar weergegeven voor de voordelen van CAL's (Windows Server Client Access License)**
 
-    Cal's zijn geen downloadbaar product. De activering van Cal's wordt beheerd op het Server product zelf.
+    CAL's zijn geen product dat kan worden gedownload. De activering van CAL's wordt beheerd op het Server-product zelf.
 
-- **U ontvangt een bericht waarin staat dat u de Maxi maal beschik bare activeringen voor een product code hebt bereikt tijdens het activeren van de software.**
+- **U ontvangt een bericht met de melding dat u het maximum aantal beschikbare activeringen voor een productcode hebt bereikt bij het activeren van software.**
 
-    U krijgt een specifiek aantal activeringen per product via de voor delen van een MPN-lidmaatschap. Als u het maximum aantal activeringen hebt bereikt of overschreden, kunt u geen licenties meer activeren met behulp van de verstrekte product code.
+    U hebt een specifiek aantal activeringen per product via de MPN-lidmaatschapsvoordelen. Als u het maximum aantal activeringen hebt bereikt of overschreden, kunt u niet meer licenties activeren met behulp van de opgegeven productcode.
 
 
  ## <a name="next-steps"></a>Volgende stappen
 
-- [Uw Microsoft Partner Network voor delen en aanbiedingen beheren](manage-your-partner-network-benefits.md)
+- [Uw Microsoft Partner Network en aanbiedingen beheren](manage-your-partner-network-benefits.md)
 
-- [Technische ondersteunings incidenten gebruiken om productspecifieke technische ondersteuning te verkrijgen](mpn-benefits-technical-support.md)
+- [Gebruik technische ondersteuningsincidenten om productspecifieke technische ondersteuning te krijgen](mpn-benefits-technical-support.md)
 
 
 

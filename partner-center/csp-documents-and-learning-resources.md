@@ -9,23 +9,18 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: d7811decea89ecee8bc1db565fb9952a8d62e572
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686225"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147782"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Hulplijn, overeenkomsten, prijslijsten en aanbiedingen voor het programma Cloud Solution Provider
 
-**Van toepassing op**
+**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partnercentrum voor Microsoft Cloud for US Government
-
-**Juiste rollen**
-
-- Globale beheerder
-- Beheeragent
+**Juiste rollen:** Globale | Beheeragent
 
 Lees de informatie in dit artikel voor meer informatie over de vereisten voor deelname aan het programma Cloud Solution Provider (CSP) van Microsoft.
 
@@ -38,22 +33,22 @@ Bekijk de vereisten voor het worden van een partner in Cloud Solution Provider p
 >[!Note]
 >Als u een bedrijfsletter nodig hebt om uw status als goedgekeurde Microsoft-partner in het Cloud Solution Provider-programma te bevestigen of certificeren, neem [dan contact](https://partner.microsoft.com/pcv/servicerequests/create) op met de ondersteuning om er een aan te vragen.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Aanvullende aanbiedingsvoorwaarden voor de Microsoft Partner-overeenkomst
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Aanvullende voorwaarden voor de Microsoft Partner-overeenkomst
 
-[Aanvullende handleiding voor voorwaarden van aanbieding voor onlineservicesabonnementen en autorisatie via softwarekanaal](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[Aanvullende handleiding voor voorwaarden van aanbieding voor onlineservices-abonnementen en autorisatie via softwarekanaal](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft-klantovereenkomst-klantsjablonen maken
+## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft-klantovereenkomst-sjablonen voor klanten
 
-Voordat u namens een klant een order kunt plaatsen, moet de klant de toepasselijke bestelling accepteren en Microsoft-klantovereenkomst. Microsoft-klantovereenkomsten zijn regio-specifiek. Zorg ervoor dat u het juiste land selecteert op basis van de locatie van de klant.
+Voordat u namens een klant een order kunt plaatsen, moet de klant de betreffende bestelling accepteren en Microsoft-klantovereenkomst. Microsoft-klantovereenkomsten zijn regio-specifiek. Zorg ervoor dat u het juiste land selecteert op basis van de locatie van de klant.
 
-Als u de meest recente versie van de sjabloon Microsoft-klantovereenkomst downloaden, selecteert u deze [URL.](https://aka.ms/customeragreement)
+Selecteer deze URL om handmatig de meest recente versie van Microsoft-klantovereenkomst sjabloon te [downloaden.](https://aka.ms/customeragreement)
 
 >[!IMPORTANT]
->U moet bevestigen dat een klant de Microsoft-klantovereenkomst. U kunt dit bevestigen door te bevestigen dat de klant de overeenkomst heeft geaccepteerd of door de klant uit te nodigen om de overeenkomst rechtstreeks te accepteren. Zie [Bevestig dat een klant de Microsoft-klantovereenkomst.](confirm-customer-agreement.md)
+>U moet bevestigen dat een klant de Microsoft-klantovereenkomst. U kunt dit bevestigen door te bevestigen dat de klant de overeenkomst heeft geaccepteerd of door de klant uit te nodigen om de overeenkomst rechtstreeks te accepteren. Zie [Confirm a customer's acceptance of the Microsoft-klantovereenkomst](confirm-customer-agreement.md).
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Wijziging van beroepsgeheim in de Microsoft Cloud-overeenkomst (Duitsland)
 
-In Duitsland vereisen het wetboek (sectie 203) en de professionele gedragscodes dat bepaalde klantrelaties vertrouwelijk moeten worden gehouden, bijvoorbeeld de relatie tussen patiënten en hun medische artsen en de relatie tussen advocaten en hun klanten. Deze groepen moeten zorgen voor professionele geheimhouding. Voor deze en andere beroepsregels om cloudservices van cloudoplossingsproviders te kopen, moet de cloudserviceprovider een geschreven overeenkomst sluiten met de klant die zorgt voor professionele geheimhouding.
+In Duitsland vereisen het wetboek (sectie 203) en de professionele gedragscodes dat bepaalde clientrelaties vertrouwelijk moeten worden gehouden, bijvoorbeeld de relatie tussen patiënten en hun medische artsen en de relatie tussen advocaten en hun klanten. Deze groepen moeten zorgen voor professionele geheimhouding. Voor deze en andere beroepsregels om cloudservices van cloudoplossingsproviders te kopen, moet de cloudserviceprovider een geschreven overeenkomst sluiten met de klant die zorgt voor professionele geheimhouding.
 
 Als u zaken doet in Duitsland, moet u mogelijk deze wijziging van het beroepsgeheim naast de voorwaarden ook aan uw klanten Microsoft Cloud-overeenkomst.
 
@@ -71,7 +66,7 @@ Prijzen op basis van gebruik zijn dynamisch en veranderen regelmatig. Voorbeelde
 
 Prijzen voor een een time-aankoop zijn ook dynamisch. Voorbeelden van een een time-aankoop zijn Microsoft Azure reserveringen en bijbehorende abonnementen op Windows Server en SQL-software.
 
-Ga naar Marketplace in Azure Marketplace navigatiemenu links voor prijsinformatie over Partner Center aanbiedingen.  Selecteer een product om informatie te bekijken over de uitgever, SKU's en prijzen. De prijzen voor Azure Marketplace producten kunnen regelmatig veranderen. Als u de huidige prijsinformatie voor alle Marketplace-producten wilt bekijken, selecteert u **Prijslijst** exporteren om een spreadsheet met alle prijsgegevens te genereren. Deze informatie wordt dagelijks bijgewerkt, zodat u deze zo vaak kunt controleren als u wilt.
+Voor prijsinformatie over Azure Marketplace aanbiedingen gaat u naar **Marketplace** in Partner Center navigatiemenu links. Selecteer een product voor informatie over de uitgever, SKU's en prijzen. De prijzen voor Azure Marketplace producten kunnen regelmatig veranderen. Als u de huidige prijsinformatie voor alle Marketplace-producten wilt bekijken, selecteert u **Prijslijst exporteren om** een spreadsheet met alle prijsgegevens te genereren. Deze informatie wordt dagelijks bijgewerkt, zodat u deze zo vaak kunt controleren als u wilt.
 
 ## <a name="offers"></a>Aanbiedingen
 

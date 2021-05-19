@@ -8,19 +8,16 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702787"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146252"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP-bestandsvelden voor een een time-aankoopafstemming
 
-**Juiste rollen**
-
-- Accountbeheerder
-- Factureringsagent
+**Juiste rollen:** Accountbeheerder | Factureringsagent
 
 ## <a name="using-the-recon-file"></a>Het recon-bestand gebruiken
 In de onderstaande tabel vindt u beschrijvingen en voorbeeldwaarden voor de velden in het afstemmingsbestand voor een een time-purchases van CSP.
@@ -31,7 +28,7 @@ Zie De afstemmingsbestanden gebruiken voor meer informatie [over afstemmingsbest
 | ------ | ----------- | ------------ |
 | PartnerId | Unieke id in GUID-indeling voor een specifieke factureringsentiteit. Niet vereist voor afstemming. Hetzelfde in alle rijen. | *0e195b37-4574-4539-bc42-0e539b9684c0* |
 | CustomerId | Unieke Microsoft-id voor de klant in GUID-indeling. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
-| CustomerName | De organisatienaam van de klant, zoals gerapporteerd in Partner Center. Deze kolom is belangrijk voor het afstemmen van de factuur met uw systeemgegevens. | *Johnny Modern Cust DE2* |
+| CustomerName | De organisatienaam van de klant, zoals gerapporteerd in Partner Center. Deze kolom is belangrijk voor het afstemmen van de factuur met uw systeemgegevens. | *Modern Cust DE2 van Modern* |
 | CustomerDomainName | Domeinnaam van de klant. | *testcustomerdomain.onmicrosoft.com* |
 | CustomerCountry | Het land waar uw klant zich bevindt. Bekijk de volledige [lijst met landen voor](./regional-authorization-overview.md) uw regio.  | *DE* |
 | InvoiceNumber | Het factuurnummer dat is gekoppeld aan het afstemmingsbestand.  | *G002297372* |
@@ -59,7 +56,7 @@ Zie De afstemmingsbestanden gebruiken voor meer informatie [over afstemmingsbest
 | ChargeStartDate | De datum waarop de factureringsperiode van een abonnement begint. | *9/1/2020* |
 | ChargeEndDate | De datum waarop de factureringsperiode van een abonnement eindigt. | *9/30/2020* |
 | TermAndBillingCycle | De duur van de toezegging om door te gaan met het abonnement op het moment van aankoop. | *Opgeslagen gegevens (GB/maand)* |
-| EffectiveUnitPrice | De prorated unit price om de kosten voor de factureringscyclus te berekenen. Kortingen, aanpassingen in factureringsdagen en andere factoren bepalen de effectieve eenheidsprijs. Zie Effectieve berekening van [eenheidsprijs voor meer informatie.](./effective-unit-price-calculation.md)  | *0.03825* |
+| EffectiveUnitPrice | De eenheidsprijs naar pro 2018 om de kosten voor de factureringscyclus te berekenen. Kortingen, aanpassingen in factureringsdagen en andere factoren bepalen de effectieve eenheidsprijs. Zie Effectieve berekening van [eenheidsprijs voor meer informatie.](./effective-unit-price-calculation.md)  | *0.03825* |
 | UnitType | Het type eenheid waarin de meter in rekening wordt gebracht. | *1 GB/maand* |
 | AlternateId | De alternatieve id van het orderregelitem waarnaar wordt verwezen. | *6dc5c039750a* |
 | BillableQuantity | De totale hoeveelheid die wordt gefactureerd.  | *0.005001* |
@@ -72,7 +69,7 @@ Zie De afstemmingsbestanden gebruiken voor meer informatie [over afstemmingsbest
 | CreditReasonCode | De beschrijving van het tegoed. | *Azure-verbruikstegoed* |
 
 >[!NOTE]
->U kunt uw Azure-verbruik afstemmen in uw een-time recon-bestand voor aankopen. Als u dit wilt doen, gaat u naar het reconbestand met dagelijks beoordeelde gebruiksgegevens en zoekt u naar uw SubscriptionID. Hiermee worden alle kosten weergegeven die zijn gekoppeld aan uw Azure-plan-id. Uw Azure SubscriptionID wordt weergegeven als de EntitlementID.
+>U kunt uw Azure-verbruik afstemmen in uw een-keer-aankoop recon-bestand. Als u dit wilt doen, gaat u naar uw dagelijks beoordeelde reconbestand voor gebruik en zoekt u naar uw SubscriptionID. Hiermee worden alle kosten weergegeven die zijn gekoppeld aan uw Azure-plan-id. Uw Azure SubscriptionID wordt weergegeven als de EntitlementID.
 
 ## <a name="next-steps"></a>Volgende stappen
 

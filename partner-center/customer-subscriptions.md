@@ -1,39 +1,34 @@
 ---
-title: Klant abonnementen voor CSP verkopen
+title: Klantabonnementen verkopen voor CSP
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over hoe partners in het CSP-programma abonnementen op klanten kunnen verkopen en beheren via partner centrum.
+description: Ontdek hoe partners in het CSP-programma abonnementen kunnen verkopen aan klanten en deze kunnen beheren via Partner Center.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ae63c2cacbdea7a1aa2bf08ffff8a3cde512668
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 894d0152920c37c0c6d719fce562c43dbf96a6c4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502744"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147357"
 ---
-# <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Hoe CSP-programma partners abonnementen kunnen verkopen aan klanten
+# <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Hoe CSP-programmapartners abonnementen aan klanten kunnen verkopen
 
-**Juiste rollen**
+**Juiste rollen:** beheeragent | Globale beheerder | Helpdeskagent | Verkoopagent
 
-- Beheer agent
-- Globale beheerder
-- Helpdesk medewerker
-- Verkoop agent
-
-Als CSP-partner biedt een van de centrale dingen die u doet, abonnementen voor micro soft-producten aan uw klanten. In Partner Center kunt u al uw abonnementen voor elke klant beheren. U kunt abonnementen toevoegen, licenties toevoegen aan bestaande abonnementen, zelfs proef abonnementen aanbieden aan klanten die de software willen test drive. Daarnaast kunt u analyses bekijken om te begrijpen hoe uw klanten de software gebruiken, zodat u betere ondersteuning krijgt.
+Als CSP-partner is een van de centrale dingen die u doet abonnementen voor Microsoft-producten aan uw klanten aan te bieden. In Partner Center kunt u al uw abonnementen voor elke klant beheren. U kunt abonnementen toevoegen, licenties toevoegen aan bestaande abonnementen en zelfs proefabonnementen aanbieden aan klanten die de software test drive gebruiken. Daarnaast kunt u analyses bekijken om te begrijpen hoe uw klanten de software gebruiken, zodat u betere ondersteuning kunt bieden.
 
 |**Om dit te doen**   |**Leest u**   |
 |----------------------|:----------------------|
-|Abonnementen maken en beheren voor bestaande klanten in partner centrum.|[Een nieuw abonnement maken](create-a-new-subscription.md)|
-|Zodra u het abonnement hebt toegevoegd, kunt u licenties toewijzen aan de werk nemers van de klant.  |[Licenties toewijzen aan gebruikers](assign-licenses-to-users.md)|
-|U kunt ook updates voor bulk licenties beheren.   |[Licenties toewijzen of intrekken voor meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md)|
-|Als uw klant nieuwe werk nemers toevoegt, kunt u meer licenties toevoegen aan bestaande abonnementen.   |[Licenties of services toevoegen aan een bestaand abonnement](add-licenses-or-services-to-an-existing-subscription.md)|
-|Uw klant wil wellicht software proberen voordat u deze kunt door voeren, dus proef abonnementen bieden.    |[Uw klanten proefversies bieden voor Microsoft-producten](offer-your-customers-trials-of-microsoft-products.md)|
-|U kunt het Azure-abonnements proces in het partner centrum starten.   |[Azure-abonnementen toewijzen in het partner centrum](assign-azure-subscriptions.md)|
-|Kom meer te weten over speciale prijzen voor aanbiedingen.   |[Ontvang speciale prijzen voor aanbiedingen](get-special-pricing-for-offers.md)|
-|Meer informatie over hoe uw klanten hun software gebruiken om effectiever te zijn.   | [Acceptatie en tevredenheid verhogen](increasing-adoption-and-satisfaction.md)   |
+|Maak en beheer abonnementen voor bestaande klanten in Partner Center.|[Een nieuw abonnement maken](create-a-new-subscription.md)|
+|Zodra u het abonnement hebt toegevoegd, kunt u licenties toewijzen aan de werknemers van de klant.  |[Licenties toewijzen aan gebruikers](assign-licenses-to-users.md)|
+|U kunt ook bulklicentie-updates beheren.   |[Licenties toewijzen of intrekken voor meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md)|
+|Wanneer uw klant nieuwe werknemers toevoegt, kunt u meer licenties toevoegen aan bestaande abonnementen.   |[Licenties of services toevoegen aan een bestaand abonnement](add-licenses-or-services-to-an-existing-subscription.md)|
+|Uw klant wil mogelijk software uitproberen voordat deze wordt gebruikt, dus bied proefabonnementen aan.    |[Uw klanten proefversies bieden voor Microsoft-producten](offer-your-customers-trials-of-microsoft-products.md)|
+|U kunt het Azure-abonnementsproces binnen een Partner Center.   |[Azure-abonnementen toewijzen in de Partner Center](assign-azure-subscriptions.md)|
+|Meer informatie over speciale prijzen voor aanbiedingen.   |[Speciale prijzen voor aanbiedingen](get-special-pricing-for-offers.md)|
+|Meer informatie over hoe uw klanten hun software gebruiken om ze te helpen effectiever te zijn.   | [Acceptatie en tevredenheid verhogen](increasing-adoption-and-satisfaction.md)   |

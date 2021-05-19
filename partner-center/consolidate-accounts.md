@@ -1,6 +1,6 @@
 ---
-title: Uw bedrijfs accounts consolideren
-description: Meer informatie over het consolideren van PMC-accounts (Partner Membership Center) in één account in het partner centrum. Is van toepassing op migreren van PMC naar partner centrum.
+title: Uw bedrijfsaccounts consolideren
+description: Meer informatie over het consolideren Partner Membership Center (PMC)-accounts in één account in Partner Center. Is van toepassing op de migratie van PMC naar Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,59 +9,56 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: efa7251bd658558efcbab562e0c7bc8a66b8bcb8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354522"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148275"
 ---
-# <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Uw bedrijfs rekeningen samen voegen bij de migratie van PMC naar het partner centrum
+# <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Uw bedrijfsaccounts consolideren bij de migratie van PMC naar Partner Center
 
-**Juiste rollen**
+**Juiste rollen:** BEHEER VAN MPN-partner | Accountbeheerder
 
-- MPN-partner beheerder
-- Accountbeheerder
+In PMC heeft uw bedrijf mogelijk veel accounts en locaties gehad. Elke locatie had een eigen account. Wanneer u migreert naar Partner Center, worden alle accounts en locaties geconsolideerd in één globaal partneraccount met verschillende locaties. De volgende dingen gaan met u mee: uw MPN-ID's, competenties, aankopen, marketingbronnen, programma's en aanbiedingen. Er gaat niets verloren.
 
-In PMC heeft uw bedrijf mogelijk een groot aantal accounts en locaties. Elke locatie heeft een eigen account. Wanneer u migreert naar een partner centrum, worden alle accounts en locaties geconsolideerd in één wereld wijde partner account met verschillende locaties. De volgende zaken worden met u meeverplaatst: uw MPN-Id's, competenties, aankopen, Marketing Resources, Program ma's en aanbiedingen. Niets gaat verloren.
+Wanneer u zich voor Partner Center keer bij uw Partner Center, wordt u toegevoegd als MPN-beheerder voor uw Partner Center account. Met deze rol kunt u het account beheren, gebruikers toevoegen, machtigingen toewijzen en andere beheertaken uitvoeren.
 
-Wanneer u zich voor de eerste keer aanmeldt bij het partner centrum, wordt u toegevoegd als MPN-beheerder voor uw partner centrum-account. Met deze rol kunt u het account beheren, gebruikers toevoegen, machtigingen toewijzen en andere beheer taken uitvoeren.
+## <a name="why-should-you-consolidate-your-multiple-accounts-in-pmc-into-one-account-in-partner-center"></a>Waarom zou u uw meerdere accounts in PMC consolideren in één account in Partner Center?
 
-## <a name="why-should-you-consolidate-your-multiple-accounts-in-pmc-into-one-account-in-partner-center"></a>Waarom moet u uw meerdere accounts in PMC samen voegen in één account in Partner Center?
+1. Met alles onder één account is het eenvoudiger om uw Microsoft Partner Network beheren.
 
-1. Als u alles onder één account hebt, kunt u uw Microsoft Partner Network-account eenvoudiger beheren.
+2. Beheer van co-sell en het publiceren van oplossingen zijn eenvoudiger onder één accountstructuur.
 
-2. Het beheer en de publicatie van oplossingen zijn eenvoudiger te verkopen onder één account structuur.
+3. Microsoft herkent u als één bedrijf, wat resulteert in geconsolideerde omzetherkenning, waardoor het eenvoudiger wordt om een volledig beeld van alle locaties te krijgen.  
 
-3. Micro soft beschouwt u als een bedrijf, wat leidt tot consolidatie van de omzet, waardoor het gemakkelijker wordt om de volledige foto op alle locaties te krijgen.  
+4. U hoeft slechts eenmaal per jaar voor competenties en MAPs te betalen.
 
-4. U moet per jaar betalen voor competenties en kaarten.
+5. Nadat u uw accounts hebt geconsolideert, komt u mogelijk in aanmerking voor meer competenties. Mogelijk komt u nu ook in aanmerking voor andere incentive-programma's.
 
-5. Na het samen voegen van uw accounts komt u mogelijk in aanmerking voor meer competenties. U kunt nu ook in aanmerking komen voor andere prikkel-Program ma's.
+## <a name="what-happens-during-consolidation-of-accounts"></a>Wat gebeurt er tijdens consolidatie van accounts
 
-## <a name="what-happens-during-consolidation-of-accounts"></a>Wat er gebeurt tijdens de consolidatie van accounts
+- U kunt de details op het scherm met bedrijfsgegevens niet wijzigen. Deze gegevens zijn voor het globale partneraccount.
 
-- U kunt geen details wijzigen op het scherm Details van bedrijf. Deze gegevens zijn voor het wereld wijde account van de partner.
+- De account(s) in PMC worden geconsolideerd in het globale partneraccount.
 
-- De account (s) in PMC worden geconsolideerd in het wereld wijde account van de partner.
+- Alle locaties in PMC worden als locaties verplaatst naar Partner Center globale partneraccount. U kunt ook extra locaties toevoegen. Lees Uw partneraccount beheren - Locaties voor meer informatie over [locaties.](manage-locations.md)
 
-- Alle locaties in PMC worden verplaatst naar het globale account van deze bestaande partner Center-partner als locaties. U kunt ook extra locaties toevoegen. Lees voor meer informatie over locaties  [uw partner account beheren-locaties](manage-locations.md).
+- Zodra u het consolidatieproces hebt voltooid, kunt u dit niet ongedaan maken. Alle gegevens van uw bedrijf worden nu weergegeven als locaties binnen het bestaande globale partneraccount. 
 
-- Zodra u het consolidatie proces hebt voltooid, kunt u het niet meer terugdraaien. Alle details van uw bedrijven worden nu weer gegeven als locaties in het globale account van de partner. 
+- Alle MPN-ID's blijven behouden tijdens deze consolidatie.
 
-- Alle MPN-Id's blijven behouden tijdens deze consolidatie.
+- Al uw bestaande competenties (Gold/Silver) en aankopen (MAPS/Gold/Silver) blijven behouden tijdens consolidatie. Ook alle gerelateerde marketingbronnen, programma's en aanbiedingen blijven behouden.
 
-- Al uw bestaande competenties (goud/zilver) en aankopen (kaarten/goud/zilver) blijven behouden tijdens de consolidatie. Behouden ook alle gerelateerde Marketing Resources, Program ma's en aanbiedingen.
+- U (de gebruiker die zich heeft aangemeld met de werk-e-mail-id) wordt automatisch als MPN-beheerder en accountbeheerder toegevoegd aan het globale partneraccount. Hiermee kunt u het account naar behoefte beheren.
 
-- U (de gebruiker die zich heeft aangemeld met de werk-e-mail-ID) wordt automatisch toegevoegd als een MPN-beheerder en een account beheerder aan het globale account van de partner. Zo kunt u het account beheren als dat nodig is.
+## <a name="consolidating-your-go-to-market-offers-programs-and-competencies"></a>Uw Go-To-Market-aanbiedingen, -programma's en -competenties consolideren
 
-## <a name="consolidating-your-go-to-market-offers-programs-and-competencies"></a>Consolidatie van uw Go-to-Market-aanbiedingen, Program ma's en competenties
+In PMC kon elke locatie zijn eigen competenties, eigen MAPs en andere marketingaanbiedingen hebben die specifiek zijn voor een locatie.
 
-In PMC was het mogelijk dat elke locatie een eigen vaardig heden, de eigen kaarten en andere marketing aanbiedingen heeft die specifiek zijn voor een locatie.
+In Partner Center worden alle locatieaccounts geconsolideerd in één globaal account. Dit betekent dat alle Go-To-Market-aanbiedingen, -programma's en -competenties ook worden geconsolideerd. Extra voordelen tool kits (ABTK's) zijn niet beschikbaar. U kunt echter de distributie van marketingbronnen, aanbiedingen, programma's en competenties organiseren zoals vereist voor uw bedrijf. Wanneer u consolideert, wordt er een extensie opgegeven. Met deze extensie kan uw bedrijf nog een jaar profiteren van de marketingbronnen, aanbiedingen en programma's die in PMC worden gebruikt.
 
-In Partner Center worden alle locatie accounts samengevoegd tot één globaal account. Dit betekent dat alle go-to-Market-aanbiedingen,-Program ma's en-competenties ook worden geconsolideerd. Er zijn geen extra voor delen tool kits (ABTKs) beschikbaar. U kunt de distributie van marketing resources, aanbiedingen, Program ma's en competenties echter wel indelen als vereist voor uw bedrijf. Wanneer u consolideert, wordt er een extensie gegeven. Met deze uitbrei ding kan uw bedrijf profiteren van de marketing bronnen, aanbiedingen en Program ma's die in PMC zijn gebruikt voor een extra jaar.
-
-Lees voor meer informatie over de verschillen tussen PMC en partner Center [overstappen van PMC naar partner Center](guide-to-migration.md).
+Lees Verplaatsen van PMC naar Partner Center voor meer informatie over de verschillen tussen [PMC en Partner Center.](guide-to-migration.md)
 
 ## <a name="next-steps"></a>Volgende stappen
 

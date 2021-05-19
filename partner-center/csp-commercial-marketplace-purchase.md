@@ -1,64 +1,61 @@
 ---
-title: Commerciële Marketplace-aanbiedingen kopen
+title: Aanbiedingen voor de commerciële marketplace kopen
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over hoe CSP-programma partners het Partner Center Marketplace kunnen gebruiken om klanten te kopen van SaaS-aanbiedingen van onafhankelijke software leveranciers (Isv's).
+description: Meer informatie over hoe CSP-programmapartners de Partner Center marketplace kunnen gebruiken om klantaankopen te doen van SaaS-aanbiedingen van ISV's (Independent Software Vendors).
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 3f5cf4895fa4d66c65215989d808a1dd18ef9064
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979713"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147850"
 ---
-# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Commerciële Marketplace-producten kopen voor uw klanten in Partner Center
+# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Commerciële marketplace-producten kopen voor uw klanten in Partner Center
 
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Beheeragent
 
-- Globale beheerder
-- Beheer agent
+Als partner in het Cloud Solution Provider-programma (CSP) kunt u de commerciële marketplace gebruiken om abonnementen voor uw klanten te kopen op bepaalde SaaS-producten (Software as a Service) die worden aangeboden door ISV's (Independent Software Vendors).
 
-Als partner in het programma Cloud Solution Provider (CSP) kunt u de commerciële Marketplace gebruiken om abonnementen voor uw klanten te kopen voor bepaalde SaaS-producten (Software as a Service) die worden aangeboden door onafhankelijke software leveranciers (Isv's).
+Door ISV SaaS-abonnementen aan uw klanten aan te bieden, kunt u uw bedrijf van elkaar onderscheiden. U kunt klanten ook toegang geven tot softwarebundels die voldoen aan hun specifieke bedrijfsbehoeften. U beheert licenties en abonnementen voor deze Marketplace SaaS-producten van ISV-uitgevers, net zoals u licenties en abonnementen voor Microsoft-producten beheert.
 
-Door ISV SaaS-abonnementen aan uw klanten aan te bieden, kunt u uw bedrijf helpen onderscheiden. U kunt klanten ook toegang geven tot software bundels die hun specifieke zakelijke behoeften aanpakken. U beheert licenties en abonnementen voor deze SaaS-producten van de Marketplace van ISV-uitgevers, net zoals u licenties en abonnementen voor micro soft-producten beheert.
+U kunt **SaaS-abonnementen op basis** van licenties of abonnementen **op basis van** gebruik aanschaffen. Zie Basisprincipes van facturering voor meer informatie over het verschil tussen facturering op basis van licenties en op basis [van gebruik.](billing-basics.md)
 
-U kunt SaaS-abonnementen op **basis van licenties** of op **gebruik gebaseerde** abonnementen kopen. Zie [basis beginselen van facturering](billing-basics.md)voor meer informatie over het verschil tussen de op een licentie gebaseerde en op gebruik gebaseerde facturering.
+## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>SaaS-abonnementen op basis van licenties en saaS-licenties met datalicenties kopen in Partner Center
 
-## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>Op licenties gebaseerde SaaS-abonnementen en data limieten in Partner Center aanschaffen
+U koopt abonnementen voor SaaS-producten op basis van licenties of SaaS-producten naar gebruik die door ISV-uitgevers worden aangeboden met behulp van hetzelfde proces dat u gebruikt om abonnementen voor Microsoft-producten te kopen.
 
-U koopt abonnementen voor de op licenties gebaseerde SaaS-producten die worden aangeboden door ISV-uitgevers met hetzelfde proces dat u gebruikt om abonnementen voor micro soft-producten aan te schaffen.
+Zie Klantabonnementen maken, opschorten of annuleren als u een SaaS-abonnement op basis van licenties of een SaaS-abonnement met een Partner Center wilt [kopen.](create-a-new-subscription.md#create-a-new-subscription)
 
-Zie [klant abonnementen maken, onderbreken of annuleren](create-a-new-subscription.md#create-a-new-subscription)voor het aanschaffen van een op licentie gebaseerd of een SaaS-abonnement in het partner centrum.
-
-U kunt ook [Partner Center-api's](/partner-center/develop/) gebruiken om commerciële Marketplace-abonnementen te maken voor uw klanten. (Zie [een abonnement maken voor commerciële Marketplace-Producten](/partner-center/develop/create-subscription-azure-marketplace-products)(Engelstalig) voor meer informatie over het gebruik van partner Center-api's.
+U kunt ook Partner Center [api's gebruiken om](/partner-center/develop/) abonnementen op de commerciële marketplace te maken voor uw klanten. (Zie Een abonnement maken voor commerciële marketplace-producten Partner Center meer informatie over het gebruik van Partner Center-API's.) [](/partner-center/develop/create-subscription-azure-marketplace-products)
 
 >[!IMPORTANT]
-> Als partner in het CSP-programma kunt u SaaS **-abonnementen op basis van licenties** of **Data limieten** aanschaffen bij ISV-uitgevers in het partner centrum. Dit betekent dat u een **op licenties gebaseerde** SaaS-  aanbieding kunt aanschaffen die de ISV-Uitgever voor u beschikbaar heeft gesteld, met inbegrip van [exclusieve aanbiedingen](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) waartoe u toegang hebt. Als u andere commerciële Marketplace-aanbiedingen van onafhankelijke software leveranciers wilt kopen of beheren (zoals aanbiedingen op basis van het gebruik van Azure-toepassingen, containers of Vm's), gaat u naar de [Azure Portal](https://portal.azure.com/).
+> Als partner in het CSP-programma kunt u  SaaS-abonnementen op basis van licenties of SaaS-abonnementen met een datalicentie kopen bij **ISV-uitgevers** binnen Partner Center. Dit betekent dat u elke  SaaS-aanbieding op basis van licenties of naar [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) gebruik kunt aanschaffen die de **ISV-uitgever** voor u beschikbaar heeft gesteld, inclusief exclusieve aanbiedingen waarvoor u toegang hebt. Als u andere commerciële marketplace-aanbiedingen van ISV's wilt kopen of beheren (zoals aanbiedingen op basis van gebruik met betrekking tot Azure-toepassingen, containers of VM's), gaat u [naar de Azure Portal.](https://portal.azure.com/)
 
-## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Op gebruik gebaseerde abonnementen op het Azure Portal op basis van inkoop
+## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Op gebruik gebaseerde abonnementen kopen in de Azure Portal
 
-In tegens telling tot op licenties gebaseerde SaaS-abonnementen van onafhankelijke software leveranciers, moet een klant eerst een Azure-abonnement hebben voor op gebruik gebaseerde abonnementen. Facturering voor commerciële Marketplace, op gebruik gebaseerde resources vallen onder het Azure-abonnement van de klant. Zodra uw klant een Azure-abonnement heeft, kan een partner in het CSP-programma deze stappen volgen om een abonnement op commerciële Marketplace voor hen aan te schaffen:
+In tegenstelling tot SaaS-abonnementen op basis van licenties van ISV-uitgevers van derden, moeten voor op gebruik gebaseerde abonnementen eerst een klant een Azure-abonnement hebben. Facturering voor op gebruik gebaseerde resources op de commerciële marketplace valt onder het Azure-abonnement van de klant. Zodra uw klant een Azure-abonnement heeft, kan een partner in het CSP-programma deze stappen volgen om een abonnement op de commerciële marketplace voor hem of haar te kopen:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van het partner centrum en selecteer vervolgens **klanten** in het menu aan de linkerkant.
+1. Meld u aan Partner Center [dashboard](https://partner.microsoft.com/dashboard)en selecteer **klanten** in het menu aan de linkerkant.
 
-2. Selecteer de specifieke klant en selecteer vervolgens **abonnementen**.  
+2. Selecteer de specifieke klant en selecteer **vervolgens Abonnementen.**  
 
-3. Selecteer **alle resources** onder de **op gebruik gebaseerde abonnementen**. Hiermee gaat u naar de Azure-beheer Portal.
+3. Selecteer onder **Op gebruik gebaseerde abonnementen** de optie Alle **resources.** Hiermee gaat u naar de Azure-beheerportal.
 
-4. Selecteer in de Azure-beheer Portal **een resource maken** in het menu aan de linkerkant.
+4. Selecteer in de Azure Management-portal **een resource maken** in het menu aan de linkerkant.
 
-5. Selecteer **alles weer geven** boven aan de lijst met Azure Marketplace.
+5. Selecteer **Alles bekijken** bovenaan de Azure Marketplace lijst.
 
-6. Als u de lijst wilt beperken, gebruikt u filters boven aan de Marketplace-lijst. U kunt bijvoorbeeld **micro soft** of **partner** selecteren in de vervolg keuzelijst van de **Publisher** om alleen aanbiedingen van micro soft of die van een ISV-Uitgever weer te geven.
+6. Als u uw lijst wilt beperken, gebruikt u filters bovenaan de Marketplace-lijst. U kunt bijvoorbeeld **Microsoft** of **Partner** selecteren in de vervolgkeuzelijst **Uitgever** om alleen aanbiedingen van Microsoft of die van een ISV-uitgever weer te geven.
 
-7. Kies een specifieke aanbieding en selecteer vervolgens **maken**.
+7. Kies een specifieke aanbieding en selecteer vervolgens **Maken.**
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Commerciële Marketplace-aanbiedingen beheren](csp-commercial-marketplace-purchase.md)
+- [Aanbiedingen voor commerciële marketplace beheren](csp-commercial-marketplace-purchase.md)
