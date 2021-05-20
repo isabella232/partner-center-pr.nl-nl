@@ -1,74 +1,71 @@
 ---
-title: Uw werk account koppelen om toegang te krijgen tot het partner centrum
+title: Uw werkaccount koppelen voor toegang tot Partner Center
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Maak een werk account dat uw bedrijf koppelt aan uw partner centrum-account. Hiermee kunnen werk nemers in uw bedrijf toegang krijgen tot het partner centrum.
+description: Maak een werkaccount dat uw bedrijf koppelt aan uw Partner Center account. Hierdoor hebben werknemers in uw bedrijf toegang tot Partner Center.
 author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: a06a38ef9d96b4c2a1e95328d510eb2fd71ff0e3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534791"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149839"
 ---
-# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Een werk account maken dat uw bedrijf koppelt aan uw partner centrum-account
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Een werkaccount maken dat uw bedrijf koppelt aan uw Partner Center account
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Beheerder van gebruikersbeheer
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
+## <a name="why-you-need-a-work-account"></a>Waarom u een werkaccount nodig hebt
 
-## <a name="why-you-need-a-work-account"></a>Waarom u een werk account nodig hebt
+Microsoft vereist dat u het werkaccount van uw bedrijf koppelt aan uw nieuwe Partner Center account. Met de koppeling kunnen uw accountgebruikers zich aanmelden bij Partner Center met hun werkaccountgebruikersnamen en wachtwoorden.
 
-Micro soft vereist dat u het werk account van uw bedrijf koppelt aan uw nieuwe partner centrum-account. Met de koppeling kunnen gebruikers van uw account zich aanmelden bij het partner centrum met hun werk account gebruikers namen en wacht woorden.
+## <a name="the-work-account-email-address"></a>Het e-mailadres van het werkaccount
 
-## <a name="the-work-account-email-address"></a>Het e-mail adres van het werk account
+Uw werkaccount of werke-mail is het e-mailadres dat u van uw bedrijf ontvangt. Een e-mail voor een werkaccount heeft meestal de indeling `you@yourcompany.com` . Persoonlijke e-mailadressen, zoals Hotmail, Gmail of Yahoo, zijn geen werk-e-mail en kunnen niet worden gebruikt voor uw Partner Center account.
 
-Uw werk account of werk-e-mail is het e-mail adres dat u van uw bedrijf hebt ontvangen. De e-mail adres van een werk account is doorgaans in de indeling `you@yourcompany.com` . Persoonlijke e-mail adressen zoals Hotmail, Gmail of Yahoo werken niet met e-mail en kunnen niet worden gebruikt voor uw partner centrum-account.
-
-Als u meer dan één geldig zakelijk e-mail adres hebt, kunt u het gebruiken dat is gekoppeld aan uw hoofd kantoor in plaats van de regionale afdeling, bijvoorbeeld uw `contoso.com` e-mail gebruiken in plaats van het `contoso.uk` adres.
+Als u meer dan één geldig zakelijk e-mailadres hebt, gebruikt u het e-mailadres dat is gekoppeld aan uw hoofdkantoor in plaats van de regionale afdeling. Gebruik bijvoorbeeld uw e-mailadres in plaats van `contoso.com` het `contoso.uk` adres.
 
 > [!NOTE]  
-> Voordat u besluit om een bestaand werk account te gebruiken, moet u nadenken over hoeveel gebruikers in het account moeten werken in het partner centrum. Als u gebruikers in het account hebt die niet hoeven te werken in het partner centrum, kunt u een nieuw account maken voor alleen die gebruikers die in het partner centrum moeten werken.
+> Voordat u besluit een bestaand werkaccount te gebruiken, moet u nadenken over het aantal gebruikers in het account dat in uw Partner Center. Als u gebruikers in het account hebt die niet in Partner Center hoeven te werken, kunt u overwegen om een nieuw account te maken voor alleen de gebruikers die in de Partner Center.
 
-## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Weet u niet zeker of uw bedrijf al een werk account heeft?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Weet u niet zeker of uw bedrijf al een werkaccount heeft?
 
-Als u niet zeker weet of uw bedrijf een werk account heeft, voert u de volgende stappen uit om te controleren. Als u een actief abonnement hebt op Microsoft Azure of Office 365, hebt u al een werk account.
+Als u niet zeker weet of uw bedrijf een werkaccount heeft, volgt u deze stappen om dit te controleren. Als u een actief abonnement op Microsoft Azure of Office 365 hebt, hebt u al een werkaccount.
 
 1. Meld u aan bij de [Azure-portal](https://portal.azure.com).
 
-2. Selecteer Azure Active Directory in het menu en selecteer vervolgens domein namen.
+2. Selecteer Azure Active Directory in het menu en selecteer vervolgens Domeinnamen.
 
-3. Als u al een werk account hebt, wordt uw domein naam weer gegeven.
+3. Als u al een werkaccount hebt, wordt uw domeinnaam weergegeven.
 
-Als uw bedrijf nog geen werk account heeft, kunt u er een maken tijdens het inschrijvings proces.
+Als uw bedrijf nog geen werkaccount heeft, kunt u er een maken tijdens het inschrijvingsproces.
 
-In het onderstaande diagram vindt u de stappen voor verschillende typische scenario's:
+Het onderstaande diagram bevat stappen voor verschillende typische scenario's:
 
-- bepalen of u een werk account hebt
-- bepalen hoe u zich aanmeldt bij uw werk account
-- bepalen of u een nieuw werk account moet maken
+- bepalen of u een werkaccount hebt
+- bepalen hoe u zich moet aanmelden bij uw werkaccount
+- bepalen of u een nieuw werkaccount moet maken
 
-:::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="Hebt u een werk account of moet u er een maken?":::
+:::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="Hebt u een werkaccount of moet u er een maken?":::
 
-Zie [een domein toevoegen of koppelen in azure AD](/azure/active-directory/active-directory-add-domain) voor meer informatie over het toevoegen van domeinen in azure AD
+Zie Een domein toevoegen of koppelen in Azure AD voor meer informatie over het toevoegen [van domeinen in Azure AD](/azure/active-directory/active-directory-add-domain)
 
 ## <a name="about-microsoft-azure"></a>Over Microsoft Azure
 
-Microsoft Azure is een openbaar Cloud platform dat bedrijven kunnen gebruiken om toepassingen te bouwen, te implementeren en te beheren via een wereld wijd netwerk van door micro soft beheerde data centers. Bedrijven gebruiken Azure om een virtuele IT-infra structuur te bouwen met virtuele functies, of services, in plaats van fysieke machines.
+Microsoft Azure is een openbaar cloudplatform waarmee bedrijven toepassingen kunnen bouwen, implementeren en beheren in een wereldwijd netwerk van door Microsoft beheerde datacenters. Bedrijven gebruiken Azure om een virtuele IT-infrastructuur met virtuele functies of services te bouwen in plaats van fysieke machines.
 
-Wanneer u een Azure-abonnement aanschaft, huurt u een speciale, beveiligde ruimte in de open bare Azure-Cloud, die niet te verschillend is van het huren van een vloer in een kantoor dat is gebaseerd op het fysieke bedrijf van uw bedrijf. Met de eigenaar van het kantoor gebouw is uw bedrijf een Tenant.
+Wanneer u een Azure-abonnement aanschaft, huurt u in feite een toegewezen, beveiligde ruimte in de openbare Azure-cloud, niet te veel van het huren van een verdieping in een kantoorgebouw voor het fysieke bedrijf van uw bedrijf. Voor de eigenaar van het kantoorgebouw is uw bedrijf een tenant.
 
-Een Azure-werk account is een toegewezen en geïsoleerde virtuele weer gave van uw bedrijf in de open bare Azure-Cloud die u voor u hebt gemaakt wanneer u zich abonneert op een micro soft-Cloud service zoals Azure, Microsoft Intune of Office 365.
+Een Azure-werkaccount is een toegewezen en geïsoleerde virtuele weergave van uw bedrijf in de openbare Azure-cloud die voor u wordt gemaakt wanneer u zich abonneert op een Microsoft-cloudservice zoals Azure, Microsoft Intune of Office 365.
 
-Uw werk account fungeert als host voor uw Azure AD-gebruikers en de informatie over hun wacht woorden, profiel gegevens, machtigingen enzovoort. Het werk account bevat ook groepen, toepassingen en andere informatie die betrekking heeft op een bedrijf en de beveiliging ervan.
+Uw werkaccount host uw Azure AD-gebruikers en de informatie over hen, zoals hun wachtwoorden, profielgegevens, machtigingen, en meer. Het werkaccount bevat ook groepen, toepassingen en andere informatie met betrekking tot een bedrijf en de beveiliging ervan.
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Uw Partner Center-account beheren](partner-center-account-setup.md)
-- [Controle status bijhouden](verification-responses.md)
+- [Verificatiestatus bijhouden](verification-responses.md)

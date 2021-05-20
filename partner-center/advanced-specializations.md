@@ -1,85 +1,82 @@
 ---
-title: Meer informatie over geavanceerde specials
+title: Meer informatie over geavanceerde specialisaties
 ms.topic: article
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Versterk uw bedrijfs profiel in de micro soft Partner Directory. Meer informatie over de geavanceerde specials die u kunt bereiken samen met uw bestaande Gold-en Silver-vaardig heden.
+description: Uw bedrijfsprofiel versterken in de Microsoft-partnerdirectory. Meer informatie over de geavanceerde specialisaties die u kunt behalen samen met uw bestaande Gold- en Silver-competenties.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557763"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150451"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Verdien een geavanceerde specialisatie om uw gevalideerde mogelijkheden te presen teren
+# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Een geavanceerde specialisatie verdienen om uw gevalideerde mogelijkheden te laten zien
 
-**Juiste rollen**
+**Juiste rollen:** globale | Accountbeheerder
 
-- Globale beheerder
-- Accountbeheerder
+Geavanceerde specialisaties van Microsoft zijn gebaseerd op de gerelateerde [gold-competenties](learn-about-competencies.md) die een partner kan verdienen. Door goudkleurige competenties te verdienen, samen met hun gerelateerde geavanceerde specialisaties, kunnen partners hun mogelijkheden verder onderscheiden van klanten.
 
-Micro soft Advanced specials bouwt voort op de gerelateerde [Gold-competenties](learn-about-competencies.md) die een partner kan verdienen. Dankzij Gold-competenties, samen met hun gerelateerde geavanceerde specials, kunnen partners de mogelijkheden van klanten verder onderscheiden.
+Om een geavanceerde specialisatie te behalen, moet een partner vaak voldoen aan veeleisende vereisten, zoals het verkrijgen van klantverwijzingen, het ondergaan van een controle van derden, het bewijzen van het bereiken van een relevante vaardighedenset en het voldoen aan bepaalde, andere prestatiemetingen.
 
-Om een geavanceerde specialisatie te verdienen, moet een partner vaak voldoen aan veeleisende vereisten, zoals het verkrijgen van klant verwijzingen, het afnemen van een audit van een derde partij, het afnemen van een relevante vaardig heden en het bereiken van bepaalde andere prestatie metingen.
+Door te voldoen aan deze strikte vereisten, kunnen partners hun diepgaande kennis, uitgebreide ervaring en bewezen succes valideren bij het leveren van op maat gemaakte klantoplossingen voor gebieden met een hoge klantvraag en relevantie.
 
-Door deze strikte vereisten te voldoen, kunnen partners hun diep gaande kennis, uitgebreide ervaring en bewezen succes valideren bij het leveren van op maat gemaakte, klant oplossingen voor gebieden met een hoge vraag en relevantie van de klant.
-
-Partners die een geavanceerde specialisatie verdienen, krijgen een klant gerichte label dat ze in hun bedrijfs profiel kunnen weer geven in de [micro soft Solution Provider Finder](https://www.microsoft.com/solution-providers/home). Met dit label worden de mogelijkheden van de partner verder gevalideerd, terwijl ze toegang hebben tot gekoppelde voor delen, een uitgebreid klant bereik en een hoger vertrouwen van de klant.
+Partners die een geavanceerde specialisatie verdienen, krijgen een klantgericht label dat ze in hun bedrijfsprofiel kunnen weergeven in de [microsoft-oplossingsprovider finder](https://www.microsoft.com/solution-providers/home). Met dit label worden de mogelijkheden van de partner verder gevalideerd, terwijl ze toegang krijgen tot de bijbehorende voordelen, een groter klantbereik en een groter vertrouwen van de klant.
 
 > [!NOTE]
-> Ga voor meer informatie over geavanceerde Specials naar de [pagina Microsoft Partner Network Advanced specials](https://partner.microsoft.com/membership/advanced-specialization).
+> Ga voor meer informatie over geavanceerde specialisaties naar [Microsoft Partner Network pagina geavanceerde specialisaties.](https://partner.microsoft.com/membership/advanced-specialization)
 
-## <a name="advanced-specialization-areas"></a>Geavanceerde specialisatie gebieden
+## <a name="advanced-specialization-areas"></a>Geavanceerde specialisatiegebieden
 
-Elke geavanceerde specialisatie komt overeen met een oplossings gebied:
+Elke geavanceerde specialisatie komt overeen met een oplossingsgebied:
 
 - Azure
 - Zakelijke toepassingen
 - Modern werk
 - Beveiliging
 
-Geavanceerde specials van **Azure** zijn:
+**Geavanceerde specialisaties** van Azure zijn onder andere:
 
-- Analytics op Microsoft Azure
+- Analyse op Microsoft Azure
 - Migratie van Data Warehouse naar Microsoft Azure
 - Kubernetes in Microsoft Azure
-- Migratie van Linux en open source-data bases naar Microsoft Azure
+- Migratie van Linux- en opensourcedatabases naar Microsoft Azure
 - Microsoft Windows Virtual Desktop
 - Modernisering van webtoepassingen voor Microsoft Azure
 - SAP in Microsoft Azure
 - Migratie van Windows Server en SQL Server naar Microsoft Azure
 
-**Business Applications** geavanceerde specials zijn onder andere:
+**Business Applications** geavanceerde specialisaties zijn onder andere:
 
-- Ontwikkeling van toepassingen met lage code
-- Klein en middel groot bedrijfs beheer
+- Ontwikkeling van toepassing met weinig code
+- Klein- en middelgrote bedrijfsbeheer
 
-Geavanceerde specials van **modern werk** zijn onder andere:
+**Geavanceerde specialisaties** van Modern Work zijn onder andere:
 
 - Overname en wijzigingsbeheer
 - Aanroep voor Microsoft Teams
 - Vergaderingen en vergaderruimtes voor Microsoft Teams
 - Implementatie van teamwork
 
-Geavanceerdere **beveiliging** voor specialisatie omvat:
+**Geavanceerde** specialisaties voor beveiliging zijn onder andere:
 
 - Identiteits- en toegangsbeheer
 - Bedreigingsbeveiliging
 
 > [!NOTE]
-> Ga voor meer informatie over elke geavanceerde specialisatie, samen met de vereiste onderdelen en vereisten, naar de [pagina Geavanceerde specials](https://partner.microsoft.com/membership/advanced-specialization). Wanneer u klaar bent om een geavanceerde specialisatie toe te passen, controleert u uw voortgang door u aan te melden bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum. Zie voor meer informatie over toegang tot dit gebied van partner centrum [Toep assen voor een geavanceerde specialisatie](advanced-specializations-apply.md).
+> Ga naar de pagina Geavanceerde specialisaties voor meer informatie over elke geavanceerde specialisatie, samen met de vereisten [en vereisten.](https://partner.microsoft.com/membership/advanced-specialization) Wanneer u klaar bent om u aan te melden voor een geavanceerde [specialisatie,](https://partner.microsoft.com/dashboard)controleert u de voortgang door u aan te melden bij Partner Center dashboard . Zie Apply for an advanced specialization (Toepassen op een geavanceerde specialisatie) voor meer Partner Center toegang [tot dit gebied.](advanced-specializations-apply.md)
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Gebruik partner centrum [voor het Toep assen en controleer de status van geavanceerde specials](advanced-specializations-apply.md)
+- Gebruik Partner Center om de status van geavanceerde [specialisaties](advanced-specializations-apply.md) aan te melden en te controleren
 
-- Meer informatie over [Geavanceerde specials, hun voor delen en unieke vereisten](https://partner.microsoft.com/membership/advanced-specialization)
+- Meer informatie over [geavanceerde specialisaties, hun voordelen en unieke vereisten](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Meer informatie over het [bereiken van micro soft Silver-of Gold-lidmaatschaps competenties](learn-about-competencies.md)
+- Meer informatie over [het verkrijgen van Microsoft Silver- of Gold-lidmaatschapscompetenties](learn-about-competencies.md)
 
-- Meer informatie over [Microsoft Partner Network-competenties](https://partner.microsoft.com/membership/competencies)
+- Meer informatie over [Microsoft Partner Network competenties](https://partner.microsoft.com/membership/competencies)

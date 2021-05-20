@@ -1,6 +1,6 @@
 ---
 title: Beschikbare Azure-services in Azure CSP
-description: In dit artikel wordt Inge gaan op de Azure-Services die zijn en niet beschikbaar zijn in het Azure Cloud Solution Provider-programma (CSP).
+description: In dit artikel worden de Azure-services besproken die wel en niet beschikbaar zijn in het Azure Cloud Solution Provider (CSP)-programma.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,36 +9,29 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: da97dded531b6792a4468d9be9b63367f818b352
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534961"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149737"
 ---
-# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure-Services die beschikbaar zijn in het Azure Cloud Solution Provider-programma (CSP)
+# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure-services die beschikbaar zijn in het Azure Cloud Solution Provider (CSP)-programma
 
-**Juiste rollen**
-
-- Beheer agent
-- Factureringsbeheerder
-- Globale beheerder
-- Helpdesk medewerker
-- Verkoop agent
-- Beheerder van gebruikers beheer
+**Juiste rollen:** beheeragent | Factureringsbeheerder | Globale beheerder | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
 
 ## <a name="available-azure-services-in-azure-csp"></a>Beschikbare Azure-services in Azure CSP
 
-Dit artikel bevat een overzicht van de Azure-Services die zijn en niet beschikbaar zijn in het Azure Cloud Solution Provider-programma (CSP). Ook wordt de beschik baarheid van de service in de nationale Clouds [Microsoft Azure Duitsland](https://azure.microsoft.com/overview/clouds/germany/) en [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/)besproken.
+In dit artikel worden de Azure-services vermeld die wel en niet beschikbaar zijn in het Azure Cloud Solution Provider (CSP)-programma. Ook wordt de beschikbaarheid van de service in de nationale clouds [Microsoft Azure Duitsland](https://azure.microsoft.com/overview/clouds/germany/) en [Microsoft Azure Government.](https://azure.microsoft.com/overview/clouds/government/)
 
 >[!Note]
-> [Azure China](https://www.azure.cn/) is niet beschikbaar in het Azure CSP-programma.
+> [Azure China](https://www.azure.cn/) is niet beschikbaar in het Azure CSP programma.
 
-## <a name="global-cloud"></a>Globale Cloud
+## <a name="global-cloud"></a>Wereldwijde cloud
 
-Alle services op basis van Azure Resource Manager model zijn beschikbaar in het CSP-programma.  Niet-Azure Resource Manager services zijn niet beschikbaar in het CSP-programma.  
+Alle services op basis van Azure Resource Manager zijn beschikbaar in het CSP-programma.  Niet-Azure Resource Manager-services zijn niet beschikbaar in het CSP-programma.  
 
-## <a name="csp-specific-service-configurations"></a>CSP-Specific-service configuraties
+## <a name="csp-specific-service-configurations"></a>CSP-Specific serviceconfiguraties
 
 Voor de volgende services zijn speciale configuraties in CSP vereist:
 
@@ -48,50 +41,50 @@ Voor de volgende services zijn speciale configuraties in CSP vereist:
 
 - [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure time series Insights](https://azure.microsoft.com/services/time-series-insights/) Alleen gebruikers van de Tenant van de klant hebben toegang tot gegevens in hun Time Series Insights omgeving. Partners kunnen de Time Series Insights omgeving van de klant standaard beheren, maar als ze toegang tot de gegevens nodig hebben, moeten ze worden toegevoegd aan de Tenant van de klant.
+- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) Alleen gebruikers van de tenant van de klant hebben toegang tot gegevens in Time Series Insights omgeving. Partners kunnen standaard de Time Series Insights van hun klant beheren, maar als ze toegang nodig hebben tot de gegevens in de omgeving, moeten ze worden toegevoegd aan de tenant van de klant.
 
 ## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
-U kunt de hieronder vermelde items nu kopen vanuit Visual Studio Marketplace, met uitzonde ring van uitbrei dingen van derden.
+U kunt de onderstaande items nu aanschaffen via Visual Studio Marketplace, met uitzondering van extensies van derden.
 
 - [Azure DevOps](https://www.visualstudio.com/team-services/)
 
-- [Visual Studio-abonnementen](https://www.visualstudio.com/subscriptions/)
+- [Visual Studio abonnementen](https://www.visualstudio.com/subscriptions/)
 
-- [Training Xamarin University](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
+- [Xamarin University training](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-Om u te helpen aan de slag te gaan, hebben we Video's en documentatie gemaakt over [het instellen, kopen en beheren van Azure DevOps](/vsts/billing/csp/set-up-csp-customer) in CSP.
+Om u op weg te helpen, hebben we video's en documentatie gemaakt over het instellen, kopen en beheren van [Azure DevOps](/vsts/billing/csp/set-up-csp-customer) in CSP.
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Azure Marketplace-items in Azure CSP
 
-Niet alle Azure Marketplace-items zijn momenteel beschikbaar in azure CSP-abonnementen.
+Niet alle Azure Marketplace zijn momenteel beschikbaar in Azure CSP abonnementen.
 
-- Azure-Services op basis van micro soft: deze services zijn beschikbaar. Bekijk de vorige tabel en opmerkingen.
+- Op Microsoft gebaseerde Azure-services: deze services zijn beschikbaar. Bekijk de vorige tabel en opmerkingen.
 
-- Bring Your Own License (BYOL) items: deze items zijn beschikbaar. Een volledige lijst van Azure Marketplace-items met BYOL is beschikbaar op de [Azure Marketplace BYOL-pagina](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol).
+- BYOL-items (Bring Your Own License) : Deze items zijn beschikbaar. Een volledige lijst met BYOL-Azure Marketplace-items is beschikbaar op de [pagina Azure Marketplace BYOL.](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)
 
-- Betalen per gebruik, Azure Marketplace-items van derden: deze items zijn beschikbaar als de provider is gepubliceerd naar het CSP-kanaal. Zie voor meer informatie [abonnementen op Azure Marketplace-producten verkopen](csp-commercial-marketplace-overview.md).
+- Artikelen van derden met betalen per Azure Marketplace: deze items zijn beschikbaar als de provider naar het CSP-kanaal heeft gepubliceerd. Zie Abonnementen verkopen voor [Azure Marketplace producten voor meer informatie.](csp-commercial-marketplace-overview.md)
 
-- Citrix XenApp Essentials: partners kunnen XenApp Essentials kopen voor klanten in CSP. Zie de volgende Citrix-blog- [distributie van XenApp Essentials nu beschikbaar via Microsoft Cloud Solution Provider-kanaal](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)voor meer informatie.
+- Citrix XenApp Essentials: Partners kunnen XenApp Essentials aanschaffen voor klanten in CSP. Zie de volgende Citrix-blog: Distributie van XenApp Essentials nu beschikbaar [via Microsoft Cloud Solution Provider Kanaal voor meer informatie.](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)
 
 ## <a name="national-clouds"></a>Nationale clouds
 
-In de volgende tabel wordt een regel matig bijgewerkte lijst weer gegeven met de beschik bare Azure-producten,-services en-functies voor de eerste partij voor CSP in nationale Clouds.
+De volgende tabel bevat een regelmatig bijgewerkte lijst met de beschikbare eigen Azure-producten, -services en -functies voor CSP in nationale clouds.
 
-| Azure-product,-service of-functie | Amerikaanse overheid | Duitsland |
+| Azure-product, -service of -functie | Amerikaanse overheid | Duitsland |
 | ------ | :-----------: | :-----------: |
 |  **Compute**  |    |    |
-|  Virtuele machines  |  X  |  X  |
+|  Virtual Machines  |  X  |  X  |
 |  Cloud Services  |    |    |
 |  Virtuele-machineschaalsets  |  X  |  X  |
 |  Functions  |    |    |
 |  Azure Container Service  |    |    |
 |  **Netwerken**  |    |    |
 |  Azure DNS  |    |    |
-|  CDN (Content Delivery Network)  |    |    |
+|  Content Delivery Network  |    |    |
 |  Traffic Manager  |    |    |
 |  ExpressRoute  |  X  |  X  |
-|  Virtueel netwerk  |  X  |  X  |
+|  Virtual Network  |  X  |  X  |
 |  Load Balancer  |  X  |  X  |
 |  VPN Gateway  |  X  |  X  |
 |  Application Gateway  |  X  |  X  |
@@ -103,11 +96,11 @@ In de volgende tabel wordt een regel matig bijgewerkte lijst weer gegeven met de
 |  Siteherstel  |  X  |  X  |
 |  Data Lake Store  |    |    |
 |  Managed Disks  |  X  |  X  |
-|  **Internet en mobiel**  |    |    |
+|  **Web en mobiel**  |    |    |
 |  App Service  |  X  |  X  |
 |  App Service op Linux  |    |  X  |
 |  API Management  |  X  |    |
-|  CDN (Content Delivery Network)  |    |    |
+|  Content Delivery Network  |    |    |
 |  Media Services  |  X  |  X  |
 |  Notification Hubs  |  X  |  X  |
 |  Azure Search  |    |    |
@@ -168,7 +161,7 @@ In de volgende tabel wordt een regel matig bijgewerkte lijst weer gegeven met de
 |  Multi-Factor Authentication  |    |    |
 |  Azure Active Directory Domain Services  |    |    |
 |  Key Vault  |  X  |  X  |
-|  Security Center  |  X  |  X  |
+|  Beveiligingscentrum  |  X  |  X  |
 |  **Hulpprogramma's voor ontwikkelaars**  |    |    |
 |  Visual Studio Team Services  |    |    |
 |  Application Insights  |    |    |
@@ -189,6 +182,6 @@ In de volgende tabel wordt een regel matig bijgewerkte lijst weer gegeven met de
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Meer informatie](/azure/cloud-solution-provider/overview/partner-center-overview) over de beschik bare mogelijkheden voor Azure in Partner Center.
+- [Meer](/azure/cloud-solution-provider/overview/partner-center-overview) informatie over de beschikbare mogelijkheden voor Azure in Partner Center.
 
-- [Maak](/azure/cloud-solution-provider/customer-management/create-new-customer) uw eerste klant in azure CSP en implementeer Azure-Services.
+- [Maak](/azure/cloud-solution-provider/customer-management/create-new-customer) uw eerste klant in Azure CSP en implementeer Azure-services.

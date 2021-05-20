@@ -1,98 +1,96 @@
 ---
-title: Competenties-Veelgestelde vragen
+title: Competenties - veelgestelde vragen
 ms.topic: article
 ms.date: 11/23/2020
-description: Antwoorden over MPN Gold-of Silver-competenties, verval datum van voor deel, verlenging of activering van licenties voor Azure, Cloud, Visual Studio, technisch, ondersteunings voordelen.
+description: Antwoorden over MPN Gold- of Silver-competenties, het verlopen van voordelen, het verlengen of activeren van licenties voor Azure, cloud, Visual Studio, technische, ondersteuningsvoordelen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 578a5bdb6dffa985e9ce78eea5309b2564071313
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354454"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148479"
 ---
-# <a name="competencies---frequently-asked-questions"></a>Competenties-Veelgestelde vragen
+# <a name="competencies---frequently-asked-questions"></a>Competenties - veelgestelde vragen
 
-**Juiste rollen**
+**Juiste rollen:** MPN-partnerbeheerder
 
-- MPN-partner beheerder
+In dit artikel vindt u antwoorden op algemene vragen over examens, certificeringen en softwarevoordelen met betrekking tot het verkrijgen van een Microsoft Partner Network competentie.
 
-In dit artikel vindt u antwoorden op algemene vragen over examens, certificeringen en software-voor delen die betrekking hebben op het bereiken van een Microsoft Partner Network competentie.
+## <a name="q-where-can-i-find-the-list-of-exams-and-microsoft-certifications-being-retired"></a>V. Waar vind ik de lijst met examens en Microsoft-certificeringen die worden ingetrokken?
 
-## <a name="q-where-can-i-find-the-list-of-exams-and-microsoft-certifications-being-retired"></a>V. Waar vind ik de lijst met examens en micro soft-certificeringen die buiten gebruik worden gesteld?
+Zie de volgende resources:
 
-Raadpleeg de volgende bronnen:
+- [Examens die worden ingetrokken](/learn/certifications/retired-certification-exams)
+- [Certificeringen die worden ingetrokken](/learn/certifications/retired-certifications)
 
-- [Examens die buiten gebruik worden gesteld](/learn/certifications/retired-certification-exams)
-- [Certificeringen die buiten gebruik worden gesteld](/learn/certifications/retired-certifications)
+## <a name="q-when-can-i-renew-my-membership"></a>V. Wanneer kan ik mijn lidmaatschap verlengen?
 
-## <a name="q-when-can-i-renew-my-membership"></a>V. Wanneer kan ik mijn lidmaatschap vernieuwen?
+Bestaand lidmaatschap kan elke dag na het begin van het verlengingsvenster worden vernieuwd. Uw verlengingsvenster begint op de aankoopdatum plus één dag. Als u bijvoorbeeld de Microsoft Action Pack op 1 september 2018 hebt aangeschaft, begint uw verlengingsvenster op 2 september 2019.
 
-Bestaande lidmaatschappen kunnen elke dag na het begin van het vernieuwings venster worden vernieuwd. Uw verlengings venster begint op de verjaardag van uw aankoop datum plus één dag. Als u de micro soft-Action Pack bijvoorbeeld hebt aangeschaft op 1 september 2018, begint het vernieuwings venster op 2 september 2019.
+## <a name="q-how-can-i-verify-the-exams-and-certifications-taken-by-my-organizations-users"></a>V. Hoe kan ik de examens en certificeringen controleren die door de gebruikers van mijn organisatie zijn genomen?
 
-## <a name="q-how-can-i-verify-the-exams-and-certifications-taken-by-my-organizations-users"></a>V. Hoe kan ik controleren of de examens en certificeringen van de gebruikers van mijn organisatie worden uitgevoerd?
+Tijdens het verkrijgen van een competentie kan de globale beheerder of MPN-partnerbeheerder analyseren welke gebruikers een examen, certificering of evaluatie hebben voltooid. De beheerder kan ook de voortgang controleren op basis van de vereisten van een competentie.
 
-Tijdens het proces van het bereiken van een competentie kan de beheerder van de globale beheerder of de MPN-partner analyseren welke gebruikers een examen, certificering of beoordeling hebben voltooid. De beheerder kan ook de voortgang van de vereisten van een competentie controleren.
+Ze kunnen dit als volgt Partner Center:
 
-Ze kunnen dit doen vanuit het partner centrum, als volgt:
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
+1. Selecteer **MPN** gevolgd door **Competenties**.
 
-1. Selecteer **MPN** gevolgd door **competenties**.
+1. Zoek en selecteer bovenaan de pagina Competenties de **optie Vaardighedenrapport** downloaden.
 
-1. Ga naar de bovenkant van de pagina competenties, zoek de optie **vaardig heden-rapport downloaden** en selecteer deze.
-
-Andere rapporten over de vaardig heden van uw organisatie zijn ook beschikbaar in het gebied [Insights van partner Center](partner-center-insights.md) in partner centrum. Als u deze rapporten wilt weer geven, moet u mogelijk een Insights-specifieke rol van **Report Viewer** of **Executive Report Viewer** toewijzen. Mogelijk moet u uw MPN-partner beheerder vragen u toegang te geven tot een van deze rollen.
+Andere rapporten over de vaardigheden van uw organisatie zijn ook beschikbaar in [het Partner Center Insights](partner-center-insights.md) in Partner Center. Als u deze rapporten wilt weergeven, moet u mogelijk een insights-specifieke rol van **Report Viewer** of Executive Report Viewer **toegewezen krijgen.** Mogelijk moet u uw MPN-partnerbeheerder vragen u toegang te geven tot een van deze rollen.
 
 Bekijk de Insights-rapporten als volgt:
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
+1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
-1. Selecteer **inzichten** in het menu van het partner centrum, gevolgd door de **vaardig heden** van de organisatie. Er wordt een kleiner menu weer gegeven.
+1. Selecteer **Inzichten in** het Partner Center menu, gevolgd door **Organisatievaardigheden.** Er wordt een kleiner menu weergegeven.
 
-1. Selecteer **training** of **Microsoft Learn** in het menu.
+1. Selecteer Training **of** **Microsoft Learn** in het menu.
 
-   - Selecteer **training** om een samen vatting te bekijken van de certificeringen, beoordelingen en examens van uw organisatie over een bepaalde periode. Zie [training](pci-training-dashboard.md)voor meer informatie over dit rapport.
+   - Selecteer **Training** voor een overzicht van de certificeringen, evaluaties en examens van uw organisatie gedurende een bepaald tijdsbestek. Zie Training voor meer informatie over [dit rapport.](pci-training-dashboard.md)
 
-   - Selecteer **Microsoft Learn** om een samen vatting te bekijken van de voltooide modules en leer paden van uw organisatie over een bepaalde periode. Zie [Microsoft Learn Analytics-rapport](ms-learn-analytics.md)voor meer informatie over dit rapport.
+   - Selecteer **Microsoft Learn** voor een overzicht van de voltooide modules en leertrajecten van uw organisatie gedurende een bepaald tijdsbestek. Zie voor meer informatie over dit rapport [Microsoft Learn analytics-rapport.](ms-learn-analytics.md)
 
-## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>V. Hoe lang duurt het om de laatste gebruikers beoordelingen te bekijken in het rapport gebruikers vaardigheden van partner Center?
+## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>V. Hoe lang duurt het om de meest recente gebruikersevaluaties te zien in het Partner Center User Skills Report?
 
-Het partner University-account wordt gekoppeld aan het gebruikers account van het partner centrum. De evaluaties van de gebruiker worden binnen **72 uur** weer gegeven in het rapport met gebruikers vaardigheden van partner Center.
+Het Partner University-account wordt gekoppeld aan het Partner Center gebruikersaccount. De evaluaties van de gebruiker worden binnen 72 uur Partner Center weergegeven in het **rapport Gebruikersvaardigheden.**
 
-In dit rapport worden alleen de vaardig heden weer gegeven die relevant zijn voor de competenties en Program ma's in het partner centrum. (Sommige buiten gebruik gestelde vaardig heden worden ook gedurende 12 maanden of meer weer gegeven nadat ze buiten gebruik zijn gesteld).
+Alleen de vaardigheden die relevant zijn voor de competenties en programma's in Partner Center worden in dit rapport weergegeven. (Sommige niet-gestopte vaardigheden kunnen ook 12 maanden of meer worden weergegeven nadat ze zijn teruggetrokken).
 
-Controleer de vereisten voor specifieke competenties. Gebruik de menu optie **competenties** in het [dash board](https://partner.microsoft.com/dashboard) van de partner centrum of de [pagina Microsoft Partner Network competenties](https://partner.microsoft.com/membership/competencies)om te controleren.
-
-> [!NOTE]
-> Tenzij een examen, beoordeling of certificering specifiek wordt vermeld als een vereiste onder een bepaalde competentie, wordt het niet beschouwd als een dergelijke competentie.
-
-## <a name="q-what-are-the-software-benefits-such-as-license-use-rights-that-i-am-entitled-to-when-i-achieve-a-gold-or-silver-competency-or-buy-a-microsoft-action-pack-subscription-maps"></a>V. Wat zijn de voor delen van de software (zoals licenties voor licentie gebruik) die ik recht heb wanneer ik een goud of zilver competentie krijg of een micro soft Action Pack-abonnement (MAPS) koop?
-
-Raadpleeg de volgende bronnen:
-
-- [Down load](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) licentie tabellen voor competentie partners.
-
-- [Down load](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) de licentie tabel voor micro soft Action Pack-abonnements partners.
-
-## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>V. Hoe kan ik een micro soft-certificerings profiel-ID (MCP-ID of MCID) koppelen aan mijn micro soft Partner Center-account?
-
-Zie [uw Microsoft Learn-account koppelen aan uw partner centrum-account](ms-learn-associate.md).
-
-## <a name="q-why-cant-i-see-the-performance-data-reflected-under-the-competencies-kpis-report"></a>V. Waarom kan ik de prestatie gegevens niet zien die worden weer gegeven onder het rapport competenties van vaardig heden?
-
-Controleer de vereisten onder de gewenste competentie in het [dash board](https://partner.microsoft.com/dashboard) van de partner centrum of de [pagina Microsoft Partner Network competenties](https://partner.microsoft.com/membership/competencies). Dit helpt u bij het begrijpen van de vereisten voor het bereiken van elke competentie (zoals het type partner koppeling, het type aanbieding, TTM).
+Controleer de vereisten voor specifieke competenties. Als u dit wilt controleren, gebruikt u de menuoptie **Competenties** in het Partner Center [dashboard](https://partner.microsoft.com/dashboard) of de [pagina Microsoft Partner Network competenties.](https://partner.microsoft.com/membership/competencies)
 
 > [!NOTE]
-> Tenzij het partner koppelings type specifiek wordt vermeld als een vereiste voor een bepaalde competentie, wordt het niet herkend om te voldoen aan de prestatie doelen.
+> Tenzij een examen, evaluatie of certificering specifiek wordt vermeld als een vereiste onder een bepaalde competentie, wordt het niet overwogen om aan die competentie te voldoen.
+
+## <a name="q-what-are-the-software-benefits-such-as-license-use-rights-that-i-am-entitled-to-when-i-achieve-a-gold-or-silver-competency-or-buy-a-microsoft-action-pack-subscription-maps"></a>V. Wat zijn de softwarevoordelen (zoals licentiegebruiksrechten) waarop ik recht heb wanneer ik een gold- of silver-competentie heb of een Microsoft Action Pack Subscription (MAPS)?
+
+Zie de volgende bronnen:
+
+- [Download licentietabellen](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) voor competentiepartners.
+
+- [Download](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) de licentietabel voor Microsoft Action Pack Subscription-partners.
+
+## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>V. Hoe kan ik microsoft-certificeringsprofiel-id (MCP-id of MCID) koppelen aan mijn Microsoft Partner Center account?
+
+Zie [Uw Microsoft Learn account koppelen aan uw Partner Center account.](ms-learn-associate.md)
+
+## <a name="q-why-cant-i-see-the-performance-data-reflected-under-the-competencies-kpis-report"></a>V. Waarom zie ik de prestatiegegevens niet in het rapport over KPI's voor competenties?
+
+Controleer de vereisten onder de gewenste competentie in Partner Center [dashboard](https://partner.microsoft.com/dashboard) of de [pagina Microsoft Partner Network competenties.](https://partner.microsoft.com/membership/competencies) Dit helpt u inzicht te krijgen in de vereisten voor het bereiken van elke competentie (zoals partner association type, Offer type, TTM).
+
+> [!NOTE]
+> Tenzij het type partnerorganisatie specifiek wordt genoemd als een vereiste voor een bepaalde competentie, wordt het niet herkend om aan de prestatiedoelen te voldoen.
 >
-> Voor de berekening van prestaties, vaardig heden en andere vereisten met betrekking tot een competentie worden alleen de gegevens van de afgelopen 12 maanden in overweging genomen. Zie [partner bijdrage indicatoren](partner-contribution-indicators.md)voor meer informatie over prestatie berekeningen voor competenties zoals de Cloud Business Applications competentie.
+> Alleen gegevens van de afgelopen 12 maanden worden in aanmerking genomen voor de berekening van de prestaties, vaardigheid of andere vereisten met betrekking tot een competentie. Zie Partner Contribution Indicators (Indicatoren voor partnerbijdragen) Business Applications meer informatie over prestatieberekeningen voor competenties zoals de competentie [Cloud Business Applications.](partner-contribution-indicators.md)
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - Meer informatie over [MPN-competenties](learn-about-competencies.md)
-- Meer informatie over [Partner Center Insights-rapporten](partner-center-insights.md)
+- Meer informatie [Partner Center Insights-rapporten](partner-center-insights.md)

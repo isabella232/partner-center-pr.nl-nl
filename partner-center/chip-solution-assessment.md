@@ -1,68 +1,66 @@
 ---
-title: Status van evaluatie opportuniteit voor CHIP oplossing
+title: STATUS VAN DE OPLOSSINGSEVALUATIEKANS
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Meer informatie over hoe u de status van de opportuniteits beoordeling kunt vinden in het Channel prikkel platform (CHIP).
+description: Meer informatie over het vinden van de status van uw oplossingsevaluatiekans in het Channel Incentives Platform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df7418e48832344fd6de052a7387a2f5c8368363
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354590"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148836"
 ---
-# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>De opportuniteits status van de oplossings evaluaties in de CHIP vinden
+# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>De status van uw oplossingsevaluaties op chip vinden
 
-**Juiste rollen**
+**Juiste rollen:** primaire contactpersoon of programmabeheerder
 
-- Primaire contact persoon of programma beheerder
-
-Partners kunnen de status van de opportuniteit voor evaluatie van oplossingen voor de CHIP bekijken.
+Partners kunnen de status van een Solution Assessments-kans op CHIP bekijken.
 
 ## <a name="determine-the-status-of-your-deal"></a>De status van uw deal bepalen
 
-Zorg ervoor dat uw deal de in aanmerking komende verkoop fase heeft bereikt en is goedgekeurd door de oplossings beoordeling specialist (SAS). Controleer dit uw CHIP-account.
+Zorg ervoor dat uw deal de in aanmerking komende verkoopfase heeft bereikt en is goedgekeurd door de Solution Assessment Specialist (SAS). Controleer dit uw CHIP-account.
 
-1. Meld u aan bij de CHIP met uw micro soft-account (eerdere Live ID).
-1. Typ of plak in het veld **Opportunity-id** het id-nummer van de verkoop kans.
+1. Meld u aan bij CHIP met uw Microsoft-account (vorige live-id).
+1. Typ of **plak in** het veld Opportunity ID het id-nummer van de kans.
 3. Klik op Zoeken.
 
-1. Klik op **weer geven** onder **Poe** kolom om de details van de opportuniteit weer te geven. Bekijk de status van de verkoop kans. Als de opportunity de status **verzenden** heeft, moeten de documenten voor het testen van de uitvoering (PoE) worden ingediend om het betalings proces vooruit te kunnen zetten.
+1. Klik **op Weergeven** onder de kolom **POE** om de details van de kans weer te geven. Controleer de status van de kans. Als de mogelijkheid de status **Verzenden** heeft, moeten de PO-documenten (Proof of Execution) worden ingediend om verder te kunnen gaan in het betalingsproces.
  
-1. Klik op de koppeling bewerken om te controleren of alle POE-documenten zijn geüpload. Houd er rekening mee dat er POE is geüpload en dat het selectie vakje EM is ingeschakeld.
+1. Klik op de koppeling Bewerken om te controleren of alle POE-documenten zijn geüpload. Let op als er EENO is geüpload en het vak EM-goedkeuring is ingeschakeld.
  
-1. Ga terug naar Zoek resultaten en klik op de naam van de betreffende deal om de details van de deal op te halen. 
+1. Ga terug naar de zoekresultaten en klik op de naam van de relevante deal om de details van de deal op te halen. 
 
-1. Bepaal op basis van de informatie die is gevonden in stap 4 tot en met 6, of aan de minimum vereisten voor het verdienen van prikkels is voldaan. Ga als volgt te werk als aan een vereiste niet is voldaan:
+1. Bepaal op basis van de informatie in stap 4 tot en met 6 of aan de minimale vereisten voor het verdienen van een incentive is voldaan. Als niet aan een van de vereisten is voldaan, gaat u als volgt te werk:
  
-     - Als POE niet is geüpload, moet u het uploaden naar de CHIP.
+     - Als POE niet is geüpload, moet u het uploaden naar CHIP.
  
-     - Open de CHIP en meld u aan met uw micro soft-account (eerdere Live ID).
+     - Open CHIP en meld u aan met uw Microsoft-account (vorige live-id).
  
-     - Selecteer **oplossingen evalueren.**
+     - Selecteer **Solutions Assessments Incentives.**
 
-     - Klik in het gedeelte **Ik moet...** op **Zoek aanbiedingen**.
+     - Onder de **ik moet...** klikt u op **Deals zoeken.**
 
-     - Typ uw opportuniteits-ID in het vak **Opportunity** en klik op **zoeken**.
+     - Typ uw opportunity-id in het **vak Opportunity** en klik op **Search.**
 
-     - Zodra de verkoop kans zichtbaar is, klikt u op **verzenden**.
+     - Zodra de mogelijkheid zichtbaar is, klikt u op **Verzenden.**
   
-     - Blader in het nieuwe menu POE naar het vereiste POE-document en selecteer het.
+     - Blader in het nieuwe POE-menu naar het vereiste POE-document en selecteer dit.
 
-     - Klik op document uploaden.
+     - Klik op Document uploaden.
 
      - Herhaal deze bewerking zo vaak als nodig is om alle vereiste documenten te uploaden.
 
-     - Als alle documenten zijn geüpload, klikt u op **verzenden**.
+     - Zodra alle documenten zijn geüpload, klikt u op **Verzenden.**
 
-Als het selectie vakje EM-goed keuring niet is ingeschakeld, neemt u contact op met uw specialist van de oplossings beoordeling (SAS) om de goed keuring te controleren
+Als het selectievakje EM-goedkeuring niet is ingeschakeld, neem dan contact op met uw Solution Assessment Specialist (SAS) om de goedkeuring te controleren en op te geven.
  
-Als u aanvullende vragen hebt of als u een ondersteunings ticket wilt verzenden, klikt u op [ondersteuning](report-problems-with-partner-center.md).
+Als u aanvullende vragen hebt of een ondersteuningsticket wilt indienen, klikt u op [Ondersteuning.](report-problems-with-partner-center.md)
 
 ## <a name="next-steps"></a>Volgende stappen
 

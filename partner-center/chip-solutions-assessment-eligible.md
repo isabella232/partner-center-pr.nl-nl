@@ -2,53 +2,51 @@
 title: Geschiktheid voor oplossingsbeoordeling
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Meer informatie over het controleren van de vereisten voor deelname aan het programma voor het evalueren van oplossingen.
+description: Meer informatie over het controleren van de vereisten voor geschiktheid voor deelname aan het Solution Assessment Incentives Programma.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354470"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148802"
 ---
-# <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Geschiktheids vereisten voor het programma voor de bepaling van de oplossings beoordeling
+# <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Geschiktheidsvereisten voor het Solution Assessment Incentives Program
 
-**Juiste rollen**
+**Juiste rollen:** primaire contactpersoon of programmabeheerder
 
-- Primaire contact persoon of programma beheerder
+Partners met een actieve en geregistreerde status in het Solution Assessment Incentive Program in FY20 komen nog steeds in aanmerking voor incentives in FY21 als ze een actief MPN-lidmaatschap en een actieve Silver- of Gold MPN-competentie hebben. Kwalificaties van partners worden jaarlijks beoordeeld op geschiktheid. Als bestaande partners niet voldoen aan de vereisten voor geschiktheid en deelname in het huidige jaar, worden ze verwijderd in de volgende jaarlijkse beoordeling. Alle nieuwe partners worden onboarding uitgevoerd via de lokale Solution Assessment Specialist (SAS) in hun gebied. De SAS identificeert de partners die moeten worden onboarding op basis van de overeenkomende vaardigheden en expertise in het partnerbedrijf en de bedrijfsbehoeften van de dochterondernemingen die worden ondersteund door de SAS.
 
-Partners met de status actief en geregistreerd in het programma voor de beoordeling van de oplossings bepaling in FY20 komen in aanmerking voor stimulansen in FY21 als ze een actief MPN-lidmaatschap en een actieve Silver of Gold MPN-competentie hebben. Partner kwalificaties worden jaarlijks beoordeeld op geschiktheid. Als gevestigde partners in het huidige jaar niet in aanmerking komen voor geschiktheids-en deelname vereisten, worden ze tijdens de volgende jaarlijkse beoordeling verwijderd. Alle nieuwe partners zijn in hun gebied opvolgd met de lokale oplossing evaluatie specialist (SAS). De SA'S identificeren de partners op basis van het overeenkomende aantal vaardig heden en expertise in het partner bedrijf en de zakelijke behoeften van de dochter ondernemingen die door de SAS worden ondersteund.
+Voordat ze het onboardingproces starten, moeten partners met de SAS bespreken wat de mogelijkheden zijn die hun bedrijf heeft bij het ondersteunen van evaluaties in hun eigen landinstellingen.
 
-Voordat het voorbereidings proces wordt gestart, moeten partners zich bespreken met de SAS. de mogelijkheden van hun bedrijf worden in hun eigeniteit ondersteund.
-
-Partners die momenteel niet zijn Inge schreven in een prestatie programma, moeten voldoen aan de FY21-prikkel criteria om in aanmerking te komen voor het onboarden van oplossings evaluatie.
+Partners die momenteel niet zijn ingeschreven in een incentive-programma, moeten voldoen aan de FY21-incentivecriteria om in aanmerking te komen voor onboarding van Solution Assessment Incentive.
 
 ## <a name="requirements"></a>Vereisten
 
 |**Geschiktheidsvereisten**|**Criteria**|
 |-----------------------|------------------|
-|Lidmaatschap van Active Microsoft Partner Network (MPN)|De geschiktheid van het programma voor de beoordeling van de oplossings bepaling vereist een actief MPN-lidmaatschap|
-|Een Silver-of Gold-competentie|Kan actief of actief zijn, vooraf goedgekeurd|
-|Azure expert MSP/geavanceerde partner voor specialisatie|Vanaf 15 april 2021, de evaluaties van Azure-oplossingen, inclusief gegevens & infrastructuur migratie, applicatie-modernisering, Azure stichtingen, Azure Express en Azure cost Optimization, is vereist en Azure expert MSP/Advanced specialisatie.|
+|MpN Microsoft Partner Network lidmaatschap (Active Microsoft Partner Network)|Geschiktheid in het Solution Assessment Incentive Program vereist actief MPN-lidmaatschap|
+|Eén silver- of gold-competentie|Kan actief of actief vooraf zijn goedgekeurd|
+|Azure Expert MSP/geavanceerde specialisatiepartner|Vanaf 15 april 2021 zijn voor de Azure Solution Assessments, waaronder Data & Infrastructure Migration, Application Modernization, Azure Foundations, Azure Express en Azure Cost Optimization, certificering en Azure Expert MSP/Advanced Specials vereist.|
 
-|**Deelname vereiste**|**Criteria**|
+|**Deelnamevereiste**|**Criteria**|
 |-------------------------|-------------------------------------|
-|Prestatie activiteit|Partners moeten actief deel nemen aan het programma voor de evaluatie van de oplossings beoordeling in het huidige fiscale jaar om in aanmerking te komen voor de schatting van de evaluatie van oplossingen in het volgende boek jaar. Dit komt overeen met ten minste één goedgekeurde oplossing voor de evaluatie van de beoordeling van oplossingen.|
+|Incentive-activiteit|Partners moeten actief deelnemen aan het Solution Assessment Incentive-programma in het huidige fiscale jaar om in aanmerking te komen voor incentives voor Solution Assessment in het volgende boekjaar. Dit is gelijk aan ten minste één goedgekeurde Solution Assessment incentive-deal.|
 
-## <a name="work-with-solution-assessment-specialist"></a>Werken met specialist van de oplossings beoordeling
+## <a name="work-with-solution-assessment-specialist"></a>Werken met Solution Assessment-specialist
 
-Zodra de geschiktheid van een partner voor deelname aan het programma voor verbetering van de oplossings beoordeling is geverifieerd, ontvangt deze een uitnodiging voor de oplossings beoordeling specialist (SAS) om deel te nemen aan het maandelijkse voorbereidings proces.
+Zodra de geschiktheid van een partner voor deelname aan het Solution Assessment Incentive Program is geverifieerd, ontvangt deze een uitnodiging van de Solution Assessment Specialist (SAS) om deel te nemen aan het maandelijkse onboardingproces.
 
-Neem contact op met uw specialist voor oplossingen beoordeling (SAS) voor meer informatie of informatie over het programma voor het beoordelen van oplossingen.
+Neem contact op met uw Solution Assessment Specialist (SAS) voor meer informatie over het Solution Assessment Incentives-programma.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Status van de opportuniteit voor evaluatie van oplossingen](chip-solution-assessment.md)
+- [Status van de oplossingsevaluaties](chip-solution-assessment.md)
 - [Ondersteuning](report-problems-with-partner-center.md)
 
 

@@ -9,19 +9,16 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284159"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150655"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center heeft twee niveaus van accounts voor MPN-partners
 
-**Juiste rollen**
-
-- Accountbeheerder
-- Globale beheerder
+**Juiste rollen:** Accountbeheerder | Globale beheerder
 
 Uw bedrijf heeft twee niveaus van accounts in Partner Center.
 

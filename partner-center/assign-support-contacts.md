@@ -1,50 +1,46 @@
 ---
-title: Ondersteunings contacten voor klanten toewijzen
+title: Contactpersonen voor ondersteuning toewijzen voor klanten
 ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het toewijzen van een wederverkoper als een contact persoon voor technische ondersteuning voor klanten met abonnementen op micro soft-Services.
+description: Meer informatie over het toewijzen van een reseller als contactpersoon voor technische ondersteuning voor klanten die abonnementen hebben op Microsoft-services.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5e7adaf25376edb7d10d2deff9ed4e6f52badb4
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: c3ec63109f21c67c66719b8f145336617a948199
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96473880"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149907"
 ---
-# <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Wijs een wederverkoper toe als contact persoon voor technische ondersteuning voor klanten
+# <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Een reseller toewijzen als contactpersoon voor technische ondersteuning voor klanten
 
-**Juiste rollen**
-
-- Beheer agent
-- Globale beheerder
-- Helpdesk medewerker
+**Juiste rollen:** beheeragent | Globale beheerders | Helpdeskagent
 
 
-Wanneer u abonnementen voor micro soft-Services voor uw klanten instelt, wilt u mogelijk de technische ondersteuning voor deze producten toewijzen aan een aangewezen wederverkoper, in plaats van de ondersteuning zelf te bieden.
+Wanneer u abonnementen voor Microsoft-services voor uw klanten in stelt, kunt u de technische ondersteuning voor deze producten toewijzen aan een aangewezen reseller, in plaats van zelf de ondersteuning te bieden.
 
-Nadat u ondersteunings contacten hebt ingesteld, kunnen klanten de gegevens van uw toegewezen contact persoon op de pagina met product ondersteuning bekijken. Als Office 365-klanten bijvoorbeeld ondersteuning nodig hebben, kunnen ze naar de pagina Office.com gaan, zich aanmelden met hun beheerders referenties, de tegel **beheerder** selecteren en onder het gedeelte **ondersteuning** de contact gegevens van de toegewezen ondersteuning bekijken.
+Nadat u contactpersonen voor ondersteuning hebt ingesteld, kunnen klanten de informatie van uw toegewezen contactpersoon voor ondersteuning bekijken op de productondersteuningspagina's. Wanneer Office 365-klanten bijvoorbeeld ondersteuning nodig hebben, kunnen ze naar de Office.com-pagina gaan,  zich aanmelden met  hun beheerdersreferenties, de tegel Beheerder selecteren en onder de sectie Ondersteuning de contactgegevens voor toegewezen ondersteuning bekijken.
 
-Dit kan worden gebruikt voor scenario's met [meerdere partners](multipartner.md) en [meerdere kanalen](multichannel.md) . 
+Dit kan worden gebruikt voor [scenario's met meerdere partners](multipartner.md) [en meerdere](multichannel.md) kanalen. 
 
 
-## <a name="assign-contacts"></a>Contacten toewijzen
+## <a name="assign-contacts"></a>Contactpersonen toewijzen
 
-1. Begin met het [aanvragen van een relatie](request-a-relationship-with-a-customer.md) met de aangewezen product leverancier. Onderhandel een ondersteunings overeenkomst met hen voor het verwerken van technische ondersteuning.
+1. Begin met [het aanvragen van een relatie met](request-a-relationship-with-a-customer.md) uw aangewezen productverkoper. Onderhandel met hen over een ondersteuningsovereenkomst voor het afhandelen van technische ondersteuning.
 
-2. Selecteer in het menu **Partner Center** **klanten**, selecteer een klant en selecteer vervolgens een abonnement, bijvoorbeeld Office 365 Business Standard.
+2. Selecteer in **Partner Center** menu **Klanten,** selecteer vervolgens een klant en selecteer vervolgens een abonnement, bijvoorbeeld Office 365 Business Standard.
 
-3. Selecteer in  **aangewezen ondersteunings contact persoon** de aangewezen product leverancier en klik vervolgens op **verzenden**. 
+3. Selecteer **in Aangewezen ondersteuningscontact** de aangewezen productverkoper en klik vervolgens op **Verzenden.** 
 
       >[!NOTE]  
-      >Voor nieuwe abonnementen wordt de aangewezen ondersteunings contactpersoon standaard ingesteld op de indirecte provider. U kunt dit ook wijzigen in een indirecte wederverkoper met gedelegeerde beheerders bevoegdheden.    
-    >Als de naam van de wederverkoper niet wordt weer gegeven in de lijst met beschik bare ondersteunings contactpersonen, voegt u deze toe in door [een relatie](request-a-relationship-with-a-customer.md)aan te vragen. Nadat de relatie tot stand is gebracht, moeten ze worden weer gegeven in de lijst.  
+      >Voor nieuwe abonnementen wordt de contactpersoon voor aangewezen ondersteuning standaard ingesteld op de indirecte provider. U kunt dit ook wijzigen in een indirecte reseller die beheerdersbevoegdheden heeft gedelegeerd.    
+    >Als de naam van de reseller niet wordt weergegeven in de lijst met beschikbare ondersteuningscontacten, voegt u deze toe door [een relatie aan te vragen.](request-a-relationship-with-a-customer.md) Nadat de relatie tot stand is gebracht, moeten deze worden weergegeven in de lijst.  
 
-4. Controleer of de wijzigingen juist zijn en selecteer vervolgens **sluiten**.
+4. Controleer of de wijzigingen juist zijn en selecteer vervolgens **Sluiten.**
 
 ## <a name="next-steps"></a>Volgende stappen
 

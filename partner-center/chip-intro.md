@@ -1,43 +1,41 @@
 ---
-title: Het Channel prikkeling platform (CHIP) gebruiken
+title: Het Channel Incentives Platform (CHIP) gebruiken
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 'Meer informatie over het gebruik van de Channel prikkel platform (CHIP) voor uw prikkels. Opmerking: dit platform wordt aan het einde van 2021 buiten gebruik gesteld.'
+description: Meer informatie over het gebruik van chip (Channel Incentives Platform) voor uw incentives. Houd er rekening mee dat dit platform eind 2021 wordt ingetrokken.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570397"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148955"
 ---
-# <a name="navigate-the-channel-incentives-platform-chip"></a>Navigeren door het Channel prikkel platform (CHIP)
+# <a name="navigate-the-channel-incentives-platform-chip"></a>Navigeren in het Channel Incentives Platform (CHIP)
+
+**Juiste rollen:** CHIP-beheerder
 
 >[!NOTE]
->Het CHIP platform wordt aan het einde van 2021.
+>Het CHIP-platform wordt eind 2021 in gebruik genomen.
 
-**Juiste rollen**
+## <a name="sign-into-the-chip-dashboard"></a>Meld u aan bij het CHIP-dashboard
 
-- CHIP beheerder
+Chip (Channel Incentives Platform) biedt toegang tot incentives-gegevens voor specifieke Microsoft Channel Incentives-programma's en toont bijgewerkte inkomstendetails voor het verkopen van Microsoft-producten.
 
-## <a name="sign-into-the-chip-dashboard"></a>Aanmelden bij het CHIP dashboard
-
-Het Channel prikkel platform (CHIP) biedt toegang tot gegevens voor stimulansen voor specifieke micro soft Channel prikkel-Program ma's en toont bijgewerkte Details over het verkopen van micro soft-producten.
-
-Als u zich in de CHIP wilt inschrijven, ontvangt de primaire contact persoon van uw bedrijf een uitnodiging die een unieke uitnodigings code (UIC) bevat. U moet de code gebruiken voor de eerste keer toegang tot de CHIP.
+Als u zich wilt registreren bij CHIP, ontvangt de primaire contactpersoon voor uw bedrijf een uitnodiging met een unieke uitnodigingscode (UIC). U moet de code gebruiken om voor de eerste keer toegang te krijgen tot CHIP.
 
 
 U kunt zich als volgt aanmelden en navigeren:
 
-1. Open de CHIP en voer uw micro soft-ID (vorige Live ID) en wacht woord in op de aanmeldings pagina en klik vervolgens op aanmelden.
+1. Open CHIP en voer uw Microsoft-id (vorige live-id) en wachtwoord in op de aanmeldingspagina en klik vervolgens op Aanmelden.
  
 1. Selecteer het programma dat u wilt openen.
-Hier kunt u de **prestaties** en **inkomsten** bekijken van het programma dat u hebt geselecteerd. 
+Hier kunt u uw prestaties en **inkomsten weergeven** **voor** het programma dat u hebt geselecteerd. 
 
 ## <a name="next-steps"></a>Volgende stappen
 

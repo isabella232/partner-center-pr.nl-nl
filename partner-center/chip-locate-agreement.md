@@ -1,82 +1,80 @@
 ---
-title: Het aantal desktop-en kosten niveau zoeken
+title: Aantal desktops en kostenniveau zoeken
 ms.topic: how-to
 ms.date: 02/18/2021
-description: Meer informatie over het gebruik van de Channel prikkel platform (CHIP) om de informatie over het aantal desktop-en kosten niveaus voor een overeenkomst te vinden.
+description: Meer informatie over het gebruik van het Channel Incentives Platform (CHIP) om informatie over het aantal desktops en het kostenniveau voor een overeenkomst te vinden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e433b44f158c3e4cefe22027e7f7d3b845991308
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756124"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148989"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Het aantal desktop en kostenniveaus voor een overeenkomst zoeken
 
-**Juiste rollen**
+**Juiste rollen:** primaire contactpersoon of programmabeheerder
 
-- Primaire contact persoon of programma beheerder
-
-Meld u aan bij [Explore.MS](https://www.explore.ms/) om de overeenkomst te controleren of down load een bestand met informatie over de overeenkomst voor het aantal desktop-en kosten niveau.
+U kunt zich aanmelden bij [explore.ms](https://www.explore.ms/) om de overeenkomst te controleren of een bestand downloaden met de details van de overeenkomst voor het aantal desktops en het kostenniveau.
 
 ## <a name="to-locate-the-information"></a>De informatie zoeken
 
-### <a name="method-1--explorems"></a>Methode 1 – Explore.ms
+### <a name="method-1--explorems"></a>Methode 1: Explore.ms
 
-1. Open [Explore.MS](https://www.explore.ms/) in Internet Explorer. 
+1. Open [explore.ms](https://www.explore.ms/) in Internet Explorer. 
 
 >[!Note]
->U kunt deze functie niet uitvoeren in Google Chrome of micro soft Edge.
+>U kunt deze functie niet uitvoeren in Google Chrome of Microsoft Edge.
 
-2. Meld u aan met uw werk-of school account of met uw Live ID.  
+2. Meld u aan met uw werk-/schoolaccount of live-id.  
 
-3. Selecteer in het veld **rapporten** de optie **overeenkomsten**.
+3. Selecteer overeenkomsten **in** het veld **Rapporten.**
 
-4. Voer op de pagina resulterende het nummer van de overeenkomst in het **Zoek** veld in en selecteer vervolgens **kolommen selecteren/ordenen**.
+4. Voer op de resulterende pagina het overeenkomstnummer in het **veld Zoeken** in en selecteer vervolgens **Kolommen selecteren/bestellen.**
 
-5. Selecteer in het pop-upvenster de optie **overeenkomst aantal Bureau bladen** in de lijst beschik bare kolommen en selecteer vervolgens de pijl-rechts om de kolom toe te voegen. Selecteer **OK**.
+5. Selecteer in het pop-upvenster **Agreement Desktop Count** in de lijst met beschikbare kolommen en selecteer vervolgens de pijl-rechts om de kolom toe te voegen. Selecteer **OK**.
 
-6. Selecteer **zoeken.**
+6. Selecteer **Zoeken.**
 
-7. Blader in het scherm dat wordt weer gegeven door de resultaten om de kolom voor het **aantal desktop-overeenkomsten** te vinden. 
+7. Blader in het resulterende scherm door de resultaten om de kolom **Agreement Desktop Count te** vinden. 
 
-8. Gebruik het aantal Bureau bladen om het kosten niveau te bepalen op basis van de onderstaande tarieven tabel.  
+8. Gebruik het aantal bureaubladen om het tariefniveau te bepalen op basis van de onderstaande tarieftabel.  
 
-| Kosten niveau | Aantal Bureau bladen |
+| Kostenniveau | Aantal bureaubladen |
 | ------ | :-----------: |
-|  A | 0 – 2.399    |
-|  B | 2.400 – 5.999    |
-|  C | 6.000 – 14.999    |
-|  D | 15000 +   |
+|  A | 0 – 2,399    |
+|  B | 2,400 – 5,999    |
+|  C | 6,000 – 14,999    |
+|  D | 15,000+   |
 
 >[!NOTE]
->Ondernemings stimulerings niveaus zijn gebaseerd op het aantal pc's of gebruikers (afhankelijk van wat groter is) in de inschrijvingen voor commerciële en open bare sectoren. Voor inschrijvingen zonder natuurlijk gekoppeld bureau blad of gebruikers aantal past micro soft een aantal Bureau bladen toe op basis van het aantal pc's of het aantal gebruikers van de bijbehorende EA. <br><br>Als er geen begeleidende EA is, is het kosten niveau gebaseerd op het prijs niveau van de inschrijving. Het prijs niveau van de deal kan ook worden weer gegeven op [www.Explore.MS](https://www.explore.ms/). <br><br>Als er sprake is van meerdere groepen en/of prijs niveaus voor de bestaande EA/EAS, betaalt micro soft prikkels op het hoogste toegewezen prijs/groeps niveau, waarbij niveau A het laagste is en niveau D het hoogste.
+>Enterprise Incentive-niveaus zijn gebaseerd op het aantal desktops of gebruikers (afhankelijk van wat hoger is) bij ps-inschrijvingen (Commercial and Public Sector). Voor inschrijvingen zonder natuurlijk gekoppeld desktop- of gebruikerstelling past Microsoft het aantal desktops toe op basis van het aantal desktops of het aantal gebruikers van de bijbehorende EA. <br><br>Als er geen ea bij de hand is, is het tariefniveau gebaseerd op het prijsniveau van de inschrijving. Het prijsniveau van de deal kan ook worden bekeken op [www.explore.ms](https://www.explore.ms/). <br><br>Als er meerdere pool- en/of prijsniveaus op de bestaande EA/EAS zijn, betaalt Microsoft incentives op het hoogste toegewezen prijs-/poolniveau, met niveau A het laagste niveau en niveau D de hoogste.
 
-#### <a name="pool-and-pricing-levels"></a>Groeps-en prijs niveaus
+#### <a name="pool-and-pricing-levels"></a>Pool- en prijsniveaus
 
-Na het zoeken naar het overeenkomst nummer in explore.ms met behulp van de hierboven beschreven stappen selecteert u het nummer van de overeenkomst. Hiermee gaat u naar de pagina met details van de overeenkomst, waarin de **samen vatting** en **aanbiedingen** van de overeenkomst worden weer gegeven. De sectie aanbiedingen bevat de prijs niveaus.
+Nadat u in de bovenstaande stappen naar het overeenkomstnummer explore.ms, selecteert u het overeenkomstnummer. Hiermee gaat u naar de pagina met details van de overeenkomst, waar het overeenkomstoverzicht **en** de **aanbiedingen worden weergegeven.** De sectie aanbiedingen bevat de prijsniveaus.
 
-## <a name="method-2---chip"></a>Methode 2-CHIP
+## <a name="method-2---chip"></a>Methode 2 - CHIP
 
-1. Meld u aan bij de CHIP en selecteer LSPe prikkels.
+1. Meld u aan bij CHIP en selecteer LSP Incentives.
 
-2. Selecteer op de pagina **overzicht van partner betalingen** de rapportage maand die u wilt weer geven en selecteer vervolgens **berekenings Details** in de vervolg keuzelijst onder **exporteren naar Excel**:
+2. Selecteer op **de pagina Betalingsoverzicht** partner de rapportagemaand die u wilt weergeven en selecteer vervolgens Berekeningsdetails in de vervolgkeuzepagina **onder Exporteren naar Excel:** 
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="Details van programma zoeken":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="Programmadetails zoeken":::
 
-3. De export wordt gestart en u kunt het bestand openen of opslaan/opslaan als een bestemming.
+3. De export wordt start en u kunt het bestand openen of opslaan/opslaan als op een bestemming.
 
-4. Wanneer het rapport is geopend, gaat u naar het tabblad **DetailReport-een** helemaal linksonder:
+4. Wanneer het rapport is geopend, gaat u naar **het tabblad DetailReport-FlatFile** linksonder:
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="Flat-bestand downloaden":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="Downloaden van plat bestand":::
 
-U kunt nu zoeken naar het overeenkomst nummer dat u zoekt in kolom J. en u vindt het toegewezen aantal pc's in kolom R, gelabelde Agreement_DesktopCount. U kunt ook het niveau van de kosten voor deze overeenkomst in een laag met een label met de naam ' AI ' controleren.
+U kunt nu zoeken naar het overeenkomstnummer dat u zoekt in kolom J. En u vindt het toegewezen aantal bureaubladen in kolom R, met het Agreement_DesktopCount. U kunt ook het tariefniveau voor deze overeenkomst bevestigen in de kolom AI met het label Laag.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Problemen met CHIP toegang oplossen](chip-access-trouble.md)
+- [Problemen met CHIP-toegang oplossen](chip-access-trouble.md)

@@ -9,38 +9,33 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941772"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150553"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Een nieuwe klantrecord toevoegen in Partner Center
 
-**Juiste rollen**
-
-- Globale beheerder
-- Beheerder van gebruikersbeheer
-- Beheeragent
-- Verkoopagent
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent
 
 In dit artikel wordt beschreven hoe u een nieuwe klant toevoegt aan uw lijst met klanten in Partner Center. Deze stappen zijn vereist voordat u abonnementen kunt verkopen, facturering kunt beheren of ondersteuning kunt bieden aan een klant.
 
 >[!NOTE]
->Voor bestaande klanten, inclusief degenen die al klantrecords [](multichannel.md) in Partner Center hebben via een [](request-a-relationship-with-a-customer.md) [scenario](multipartner.md) met meerdere kanalen of meerdere partnerscenario's, moet u een relatie met hen aanvragen in plaats van de stappen hier te volgen.
+>Voor bestaande klanten, met inbegrip van degenen die al [](multichannel.md) klantrecords in Partner Center hebben [](request-a-relationship-with-a-customer.md)via een scenario met meerdere kanalen of [multipartner,](multipartner.md) moet u een relatie met hen aanvragen in plaats van de stappen hier te volgen.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Een nieuwe klant toevoegen in het Partner Center
 
-1. Selecteer **Klanten** in Partner Center menu en selecteer vervolgens **Klant toevoegen.**
+1. Selecteer **Klanten** in het Partner Center menu en selecteer vervolgens **Klant toevoegen.**
 
-2. Voer op **de pagina Accountgegevens** de details en primaire contactgegevens van de klant in. Controleer ook of de klant de meest recente [Microsoft-klantovereenkomst.](agreements.md)
+2. Voer op **de pagina Accountgegevens** de details en primaire contactgegevens van de klant in. Controleer ook of de klant de meest recente overeenkomst heeft geaccepteerd en [Microsoft-klantovereenkomst.](agreements.md)
 
    >[!NOTE]
    >
-   >Zorg ervoor dat u het volgende klantverificatie nauwkeurigheid tijdens de klantverificatie:
+   >Zorg ervoor dat u het volgende klantverificatie om nauwkeurigheid te garanderen:
    >
-   >- Gebruik exacte juridische/officiële naam zoals deze wordt weergegeven in de officiële documenten
+   >- Gebruik de exacte juridische/officiële naam zoals deze wordt weergegeven in de officiële documenten
    >- Vermijd het gebruik van acroniemen of korte formulieren
    >- Geen testnamen gebruiken
    >- Geef het volledige, exacte adres op (locatiedetails, plaats, staat, land en postcode)

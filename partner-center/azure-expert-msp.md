@@ -4,34 +4,29 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het Toep assen van een programma voor de Azure expert Managed Services provider voor het opvallen van andere partners en het verkrijgen van de hoogste prioriteit in de Referral engine.
+description: Meer informatie over hoe u zich kunt aanmelden Azure Expert Managed Services Provider programma om zich te onderscheiden van andere partners en de hoogste prioriteit te krijgen in de verwijzingsen engine.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 364add7e25052ce97bfb26b84b26c5fcc430637d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 45908ef67beaf2f84ae4cddfe11bfdfe8886ab96
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534655"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149805"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Het Azure Expert Managed Services Provider-programma
 
-**Juiste rollen**
+**Juiste rollen:** Accountbeheerder | Beheer van bedrijfsprofiel | Globale beheerder | MPN-partnerbeheerder
 
-- Accountbeheerder
-- Bedrijfs profiel beheerder
-- Globale beheerder
-- MPN-partner beheerder
+Als uw bedrijf een goede naam heeft bij het verkopen en beheren van Azure-services aan klanten, kunt u kijken naar het toepassen op Azure Expert Managed Services Provider programma. Azure Expert MSP partners verdienen een exclusieve badge die ze van andere Microsoft-partners differentiëren en krijgen de hoogste prioriteit in de verwijzingsen engine. Ze krijgen prioriteit voor betrokkenheid bij co-verkoop, krijgen ondersteuning bij het ontwikkelen van nieuwe procedures en kunnen deelnemen aan exclusieve evenementen.
 
-Als uw bedrijf een Superstar is bij het verkopen en beheren van Azure-Services aan klanten, kijkt u naar het Azure expert Managed Services provider-programma. Azure expert MSP-partners verdienen een exclusieve badge die ze onderscheiden van andere micro soft-partners en de hoogste prioriteit krijgt in de Referral engine. Ze worden in aanmerking gegeven voor mede verkoop overeenkomsten, bieden ondersteuning bij het ontwikkelen van nieuwe prak tijken en kunnen exclusieve gebeurtenissen bijwonen.
+Als u het proces van het toepassen op de Azure MSP wilt starten, gaat u naar de linkernavigatiebalk. Selecteer **Competenties en programma's** en selecteer **vervolgens Azure Expert MSP.** Meer informatie over [de vereisten en het toepassingsproces](https://partner.microsoft.com/membership/azure-expert-msp). 
 
-Om het proces van toepassing op de Azure MSP te starten vanuit het navigatie venster aan de linkerkant. Selecteer **competenties en Program ma's** en selecteer vervolgens **Azure expert msp**. Meer informatie over [de vereisten en het toepassings proces](https://partner.microsoft.com/membership/azure-expert-msp). 
-
-Als u nog niet in aanmerking komt, kunt u uw micro soft-partnerschap nog steeds bouwen via verbeteringen in het lidmaatschap, training en andere groei kansen.
-Meer informatie over de stappen die u kunt nemen om [uw bedrijf en ervaring te ontwikkelen](https://partner.microsoft.com/membership/azure-expert-msp).
+Als u nog niet in aanmerking komt, kunt u nog steeds uw Microsoft-samenwerking opbouwen via lidmaatschapsverbeteringen, training en andere groeimogelijkheden.
+Meer informatie over de stappen die u kunt nemen om [uw bedrijf en expertise te ontwikkelen.](https://partner.microsoft.com/membership/azure-expert-msp)
 
 ## <a name="next-steps"></a>Volgende stappen
 
--[Meer informatie over geavanceerde specials](advanced-specializations.md)
+-[Meer informatie over geavanceerde specialisaties](advanced-specializations.md)

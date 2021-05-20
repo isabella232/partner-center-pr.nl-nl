@@ -4,93 +4,88 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 'Partner centrum facturerings voorbeelden voor eenmalige en selecteer terugkerende aankopen: wanneer u abonnementen aanschaft, kunt u meer abonnementen toevoegen, licenties toevoegen of verwijderen.'
+description: 'Partner Center voor eenmalige facturering en selecteer terugkerende aankopen: wanneer u abonnementen koopt, voegt u meer abonnementen toe, voegt u licenties toe of verwijdert u deze.'
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 329675e10205755819a19710976073d22f73eb58
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a26b6e5299c5186959612e622808161ca0f7f7c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502528"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148615"
 ---
-# <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Facturerings scenario's van partner centrum voor eenmalige en geselecteerde terugkerende aankopen
+# <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Partner Center voor eenmalige factureringsscenario's en terugkerende aankopen selecteren
 
-**Juiste rollen**
+**Juiste rollen:** beheeragent | Factureringsbeheerders | Helpdeskagent | Verkoopagent
 
-- Beheer agent
-- Factureringsbeheerder
-- Helpdesk medewerker
-- Verkoop agent
-
-Dit zijn [veelvoorkomende facturerings scenario's](common-billing-scenarios.md). 
+Dit zijn [veelvoorkomende factureringsscenario's.](common-billing-scenarios.md) 
 
 ## <a name="purchase-a-subscription-and-add-a-license-on-the-same-day"></a>Een abonnement kopen en op dezelfde dag een licentie toevoegen
 
-In scenario 1 koopt u een abonnement op 11 juni tegen een eenheids prijs van $4. Later diezelfde dag hebt u een ander abonnement op dezelfde prijs aangeschaft.
+In scenario 1 koopt u een abonnement op 11 juni tegen een eenheidsprijs van $ 4. Later op dezelfde dag koopt u een ander abonnement tegen dezelfde prijs.
 
-Het afstemmings bestand bevat het volgende:
+Het reconbestand bevat het volgende:
 
-- $4 factuur voor service periode van 10 juni: 9 juli.
-- $-4,00 gefactureerd herfactureren voor service periode van 11 juni. Dit is de periode waarin u een licentie hebt. Berekening = (maand-prijs/totaal aantal dagen in service periode) x dagen in gefactureerde service periode x aantal licenties = (4/30) x 30 x 1 = 4,00.
-- $8,00 gefactureerd herfactureren voor service periode van 10 juli: 9 juni. Dit is de periode waarin u twee licenties hebt. Calculation = (4/30) x 30 x 2 = 8,00.
+- $4 factuur voor serviceperiode 10 juni – 9 juli.
+- $-4,00 prorated rebill for service period 11 juni – 11 juni. Dit is de periode waarin u een licentie hebt. Berekening = (maandelijkse prijs/totaal aantal dagen in serviceperiode) x dagen in pro rated service period x number of licenses = (4/30) x 30 x 1 = 4,00.
+- $ 8,00 prorated rebill for service period 10 juni – 9 juli. Dit is de periode waarin u twee licenties hebt. Berekening = (4/30) x 30 x 2 = 8,00.
 
-|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
+|**Aankoopdatum**   |**Kosten starten** |**Einde van kosten**  |**Eenheidsprijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019      |6/10/2019   |7/09/2019         |$4                |1                 |$4            |Nieuw         |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$4       |addQuantity           |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$8         |addQuantity           |
+|6/11/2019      |6/10/2019   |7/09/2019         |$ 4                |1                 |$ 4            |Nieuw         |
+|6/11/2019     | 6/10/2019    |7/09/2019        |$ 4        |1        | -$4       |addQuantity           |
+|6/11/2019     | 6/10/2019    |7/09/2019        |$ 4        | 2      |$ 8         |addQuantity           |
 
-## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Een abonnement aanschaffen en later meer abonnementen toevoegen
+## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Een abonnement kopen en later meer abonnementen toevoegen
 
-In scenario 2 koopt u een abonnement op 11 juni tegen een eenheids prijs van $4, en op 12 juni hebt u een ander abonnement voor hetzelfde product gekocht tegen dezelfde prijs.
+In scenario 2 koopt u een abonnement op 11 juni tegen een eenheidsprijs van $ 4 en op 12 juni koopt u een ander abonnement voor hetzelfde product tegen dezelfde prijs.
 
-Het afstemmings bestand bevat het volgende:
+Het reconbestand bevat het volgende:
 
-- $4 factuur voor service periode van 10 juni: 9 juli.
-- $-3,87 gefactureerd herfactureren voor service periode van 11 juni. Dit is de periode waarin u één licentie hebt. Berekening = (maand-prijs/totaal aantal dagen in service periode) x dagen in gefactureerde service periode x aantal licenties = (4/30) x 29 x 1 = 3,87.
-- $7,74 gefactureerd op basis van de herwaardering voor service periode van 12 juli. Dit is de periode waarin u twee licenties hebt. Calculation = (4/30) x 29 x 2 = 7,74.
+- $ 4 voor serviceperiode 10 juni – 9 juli.
+- $-3,87 prorated rebill for service period 11 juni – 12 juni. Dit is de periode waarin u één licentie hebt. Berekening = (maandelijkse prijs/totaal aantal dagen in serviceperiode) x dagen in serviceperiode naar waarde x aantal licenties = (4/30) x 29 x 1 = 3,87.
+- $ 7,74 probill voor serviceperiode 12 juni – 9 juli. Dit is de periode waarin u twee licenties hebt. Berekening = (4/30) x 29 x 2 = 7,74.
 
-|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
+|**Aankoopdatum**   |**Kosten starten** |**Einde van de kosten**  |**Eenheidsprijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019 (u hebt één licentie)     |6/10/2019   |7/09/2019         |$4         |1        |$4            |Nieuw         |
-|6/12/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$3,87       |addQuantity           |
-|6/12/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$7,74       |addQuantity           |
+|11-6-2019 (u hebt één licentie)     |6/10/2019   |7/09/2019         |$ 4         |1        |$ 4            |Nieuw         |
+|6/12/2019     | 6/10/2019    |7/09/2019        |$ 4        |1        | -$3,87       |addQuantity           |
+|6/12/2019     | 6/10/2019    |7/09/2019        |$ 4        | 2      |$ 7,74       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-license-on-the-same-day"></a>Een abonnement kopen en een licentie op dezelfde dag verwijderen
+## <a name="purchase-a-subscription-and-remove-a-license-on-the-same-day"></a>Een abonnement aanschaffen en een licentie op dezelfde dag verwijderen
 
-In scenario 3 koopt u twee abonnementen voor hetzelfde product op 11 juni tegen een eenheids prijs van $4. Later diezelfde dag u een van de licenties verwijdert.  
+In scenario 3 koopt u twee abonnementen voor hetzelfde product op 11 juni tegen een eenheidsprijs van $ 4. Later op dezelfde dag verwijdert u een van de licenties.  
 
-Het afstemmings bestand bevat het volgende:
+Het reconbestand bevat het volgende:
 
-- $8 factuur voor twee licenties voor service periode van 10 juli: 9 juni.
-- $-8,00 gefactureerd herfactureren voor service periode van 11 juni. Dit is de periode waarin u twee licenties hebt. Berekening = (maand-prijs/totaal aantal dagen in service periode) x dagen in service periode van profactoris x aantal licenties = (4/30) x 30 x 2 = 8,00.
-- $4,00 gefactureerd op basis van de herwaardering voor service periode van 11 juni: 9 juli. Dit is de periode waarin u één licentie hebt. Calculation = (4/30) x 30 x 1 = 4,00.
+- $ 8 factureert voor twee licenties voor de serviceperiode van 10 juni tot 9 juli.
+- $-8,00 prorated rebill for service period 11 juni – 11 juni. Dit is de periode waarin u twee licenties hebt. Berekening = (maandelijkse prijs/totaal aantal dagen in serviceperiode) x dagen in pro rated service period x number of licenses = (4/30) x 30 x 2 = 8,00.
+- $ 4,00 prorated rebill for service period 11 juni – 9 juli. Dit is de periode waarin u één licentie hebt. Berekening = (4/30) x 30 x 1 = 4,00.
 
-|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
+|**Aankoopdatum**   |**Kosten starten** |**Einde van de kosten**  |**Eenheidsprijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019      |6/10/2019   |7/09/2019         |$4                |2                 |$8            |Nieuw         |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$8       |removeQuantity           |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 1      |$4         |removeQuantity           |
+|6/11/2019      |6/10/2019   |7/09/2019         |$ 4                |2                 |$ 8            |Nieuw         |
+|6/11/2019     | 6/10/2019    |7/09/2019        |$ 4        |2        | -$8       |removeQuantity           |
+|6/11/2019     | 6/10/2019    |7/09/2019        |$ 4        | 1      |$ 4         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-licenses-later"></a>Later een abonnement kopen en licenties verwijderen
+## <a name="purchase-a-subscription-and-remove-licenses-later"></a>Een abonnement kopen en licenties later verwijderen
 
-In scenario 4 koopt u twee abonnementen op 11 juni tegen een eenheids prijs van $4 en op 12 juni verwijdert u een van de licenties.
+In scenario 4 koopt u twee abonnementen op 11 juni tegen een eenheidsprijs van $ 4 en op 12 juni verwijdert u een van de licenties.
 
-Het afstemmings bestand bevat het volgende:
+Het reconbestand bevat het volgende:
 
-- $8 factuur voor service periode van 10 juni: 9 juli.
-- $-7,74 gefactureerd herfactureren voor service periode van 11 juni. Dit is de periode waarin u twee licenties hebt. Berekening = (maand-prijs/totaal aantal dagen in service periode) x dagen in gefactureerde service periode x aantal licenties = (4/30) x 29 x 2 = 7,74.
-- $3,87 gefactureerd op basis van de herwaardering voor service periode van 12 juli. Dit is de periode waarin u één licentie hebt. Calculation = (4/30) x 29 x 1 = 3,87.
+- $8 factuur voor serviceperiode 10 juni – 9 juli.
+- $-7,74 prorated rebill for service period 11 juni – 12 juni. Dit is de periode waarin u twee licenties hebt. Berekening = (maandelijkse prijs/totaal aantal dagen in serviceperiode) x dagen in pro rated service period x number of licenses = (4/30) x 29 x 2 = 7,74.
+- $ 3,87 prorated rebill for service period 12 juni – 9 juli. Dit is de periode waarin u één licentie hebt. Berekening = (4/30) x 29 x 1 = 3,87.
 
-|**Aankoop datum**   |**Start kosten** |**Einde van kosten**  |**Eenheids prijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
+|**Aankoopdatum**   |**Kosten starten** |**Einde van kosten**  |**Eenheidsprijs**  |**Aantal**  |**Bedrag** |**Kostentype** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019 (u hebt twee licenties)     |6/10/2019   |7/09/2019         |$4         |2        |$8       |Nieuw       |
-|6/12/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$7,74       |removeQuantity           |
-|6/12/2019 (u hebt één licentie)    | 6/10/2019    |7/09/2019   |$4    |1      |$3,87    |removeQuantity |
+|11-6-2019 (u hebt twee licenties)     |6/10/2019   |7/09/2019         |$ 4         |2        |$ 8       |Nieuw       |
+|6/12/2019     | 6/10/2019    |7/09/2019        |$ 4        |2        | -$7,74       |removeQuantity           |
+|12-6-2019 (u hebt één licentie)    | 6/10/2019    |7/09/2019   |$ 4    |1      |$ 3,87    |removeQuantity |
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Voor beelden van maandelijkse facturerings scenario's voor nieuwe abonnementen, wijziging van licentie bedragen of onderbrekingen](common-billing-scenarios-monthly.md)
+- [Voorbeeld van maandelijkse factureringsscenario's voor nieuwe abonnementen, wijzigen van licentiebedragen of opzegging](common-billing-scenarios-monthly.md)

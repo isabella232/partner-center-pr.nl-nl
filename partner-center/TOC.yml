@@ -134,6 +134,8 @@
     - name: Directe CSP-factureringspartner overschakelen naar indirecte reseller
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: Partners kunnen niet langer worden ingeschreven als adviseurs
+      href: advisors-no-csp.md
 - name: CSP-overeenkomsten
   href: microsoft-partner-agreement.md
   items:
@@ -390,7 +392,7 @@
       href: modern-invoice-reconciliation-file.md
     - name: Effectieve berekening van eenheidsprijs
       href: effective-unit-price-calculation.md
-    - name: Afdwinging van tegoedlimiet
+    - name: Afdwingen van tegoedlimiet
       href: credit-limit-enforcement.md
     - name: Algemene scenario's voor facturering
       href: common-billing-scenarios.md

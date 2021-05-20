@@ -4,91 +4,85 @@ ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het gebruik van een klant account voor het toewijzen of intrekken van licenties en services aan één gebruiker of aan meerdere gebruikers tegelijk.
+description: Meer informatie over het gebruik van een klantaccount om licenties en services toe te wijzen aan of in te trekken aan één gebruiker of aan meerdere gebruikers tegelijk.
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 79f66e759385f6c7c7928dba58e052ea8699cf21
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570651"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149210"
 ---
-# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Licenties op hetzelfde moment toewijzen of intrekken voor meerdere gebruikers in een klant account
+# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Licenties op hetzelfde moment toewijzen aan of intrekken voor meerdere gebruikers in een klantaccount
 
-**Juiste rollen**
+**Juiste rollen:** beheeragent | Globale beheerder | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
 
-- Beheer agent
-- Globale beheerder
-- Helpdesk medewerker
-- Verkoop agent
-- Beheerder van gebruikers beheer
+U kunt licenties en services toewijzen aan een gebruiker of aan meerdere gebruikers tegelijk in een klantaccount en licentietoewijzingen aan gebruikers intrekken.
 
-U kunt licenties en services toewijzen aan een gebruiker of aan meerdere gebruikers tegelijk in een klant account en licentie toewijzingen intrekken aan gebruikers.
-
-In het partner centrum worden alle licentie rechten van de klant bijgehouden en weer gegeven.
+De Partner Center houdt alle licentierechten van de klant bij en geeft deze weer.
 
 ## <a name="assign-licenses-to-multiple-users"></a>Licenties toewijzen aan meerdere gebruikers
 
-1. Selecteer **klanten** in het menu van het **partner centrum** en kies vervolgens een klant in de lijst.
+1. Selecteer in **Partner Center** menu **Klanten** en kies vervolgens een klant in de lijst.
 
-2. Selecteer **gebruikers en licenties**.
+2. Selecteer **Gebruikers en licenties.**
 
-3. Schakel het selectie vakje voor twee of meer gebruikers in de lijst in. (Als u alle gebruikers op de huidige pagina wilt selecteren, schakelt u het selectie vakje aan de bovenkant van de kolom **gebruikers** in.)
+3. Schakel het selectievakje voor twee of meer gebruikers in de lijst in. (Als u alle gebruikers op de huidige pagina wilt selecteren, selecteert u het selectievakje bovenaan de **kolom Gebruikers.)**
 
-    U kunt gebruikers zoeken en selecteren op meerdere pagina's met de **eerste**, **vorige**, **volgende** en **laatste** hulpprogram ma's.
+    U kunt gebruikers op meerdere pagina's zoeken en selecteren met behulp van de **hulpprogramma's Eerste,** **Vorige,** **Volgende** **en Laatste.**
 
-4. Selecteer de koppeling **geselecteerde gebruikers** . De weer gegeven lijst toont de geselecteerde gebruikers.
+4. Selecteer de **koppeling Geselecteerde** gebruikers. In de weergegeven lijst worden de geselecteerde gebruikers weergegeven.
 
-5. Selecteer de koppeling **licenties beheren** .
+5. Selecteer de **koppeling Licenties** beheren.
 
-    De pagina licenties beheren bevat de lijst met licentie rechten voor de klant accounts en het aantal **beschik bare licenties** voor elk product.
+    Op de pagina Licenties beheren ziet u de lijst met licentierechten voor de **klantaccounts** en het aantal beschikbare licenties voor elk product.
 
-    - De selectie vakjes in de kolom **product** geven de status van alle geselecteerde gebruikers weer voor de klant producten:
+    - De selectievakjes in de **kolom Product** tonen de status van alle geselecteerde gebruikers voor de producten die de klant heeft:
 
-       - Wanneer alle geselecteerde gebruikers al een licentie hebben, wordt het selectie vakje van het product ingevuld.
+       - Wanneer alle geselecteerde gebruikers al een licentie hebben, wordt het selectievakje van het product ingevuld.
 
-       - Als sommige van de geselecteerde gebruikers een product licentie hebben, is het selectie vakje van het product gedeeltelijk gevuld.
+       - Als sommige van de geselecteerde gebruikers een productlicentie hebben, wordt het selectievakje van het product gedeeltelijk ingevuld.
 
-       - Als geen van de geselecteerde gebruikers een product licentie heeft, is het selectie vakje uitgeschakeld.
+       - Als geen van de geselecteerde gebruikers een productlicentie heeft, is het selectievakje leeg.
 
-    - Elke geselecteerde gebruiker wordt weer gegeven in een klein vak aan de bovenkant van de pagina. Gebruikers worden in gesorteerde volg orde weer gegeven.
+    - Elke geselecteerde gebruiker wordt weergegeven in een klein vak aan de bovenkant van de pagina. Gebruikers worden weergegeven in gesorteerde volgorde.
 
-    - Selecteer een koppeling in de kolom **toegewezen** om een lijst met knop Info weer te geven met de geselecteerde gebruikers die al een licentie hebben.
+    - Selecteer een koppeling in de kolom **Toegewezen** om een lijst met knopinfo weer te geven met de geselecteerde gebruikers die al een licentie hebben.
 
-    - Voor alle producten zonder beschik bare licenties wordt een koppeling **meer kopen** weer gegeven. U kunt meer licenties kopen wanneer klanten ze nodig hebben.
+    - Elk product zonder beschikbare licenties toont een **koppeling Meer** kopen. U kunt meer licenties kopen wanneer klanten deze nodig hebben.
 
-6. Onder **licenties toewijzen en intrekken** selecteert u de product licenties voor de nieuwe gebruikers. 
+6. Selecteer **onder Licenties toewijzen en intrekken** de productlicenties voor de nieuwe gebruikers. 
 
-   Als geen van de geselecteerde gebruikers bijvoorbeeld Office 365 Enter prise-licenties heeft en u deze wilt toevoegen, schakelt u het selectie vakje in. U hebt voldoende licenties voor elk geselecteerd product.
+   Als geen van de geselecteerde gebruikers bijvoorbeeld Office 365 Enterprise-licenties heeft en u ze wilt toevoegen, selecteert u het selectievakje. U hebt voldoende licenties nodig voor elk geselecteerd product.
 
-7. Selecteer meer dan één product voor de gebruikers door het selectie vakje van elk product in te scha kelen.
-    -   Selecteer **service plannen** voor elk product weer geven om de service plannen te bekijken en te selecteren die de gebruikers nodig hebben.
+7. Selecteer meer dan één product voor de gebruikers door het selectievakje van elk product te selecteren.
+    -   Selecteer **Serviceplannen voor elk** product weergeven om de serviceplannen weer te geven en te selecteren die de gebruikers nodig hebben.
 
-8. Selecteer **Opslaan**. Het partner centrum opent een pagina met **bijgewerkte bevestigings licenties** die de gebruikers en hun nieuwe licenties vermelden.
+8. Selecteer **Opslaan**. De Partner Center opent een **bevestigingspagina met bijgewerkte** licenties met de gebruikers en hun nieuwe licenties.
 
 >[!NOTE]
->Sommige micro soft-producten zijn mogelijk niet op bepaalde locaties beschikbaar. Andere producten zijn afhankelijk van andere producten of services of kunnen niet samen aan dezelfde gebruiker worden toegewezen. Nadat u het bestand hebt opgeslagen, worden in de bevestigings pagina de resultaten van alle gebruikers weer gegeven van de toewijzing van geslaagde licenties en eventuele fouten van de licentie toewijzing.
+>Sommige Microsoft-producten zijn mogelijk niet beschikbaar op bepaalde locaties. Andere producten zijn afhankelijk van andere producten of services of kunnen niet samen aan dezelfde gebruiker worden toegewezen. Nadat u de licentie hebt op slaan, worden op de bevestigingspagina de resultaten van een geslaagde licentietoewijzing en eventuele fouten van de licentietoewijzing weergegeven.
 
-## <a name="revoke-users-license-assignments"></a>Licentie toewijzingen van gebruikers intrekken
+## <a name="revoke-users-license-assignments"></a>Licentietoewijzingen van gebruikers intrekken
 
-1. Selecteer **klanten** in het menu van het **partner centrum** en kies vervolgens een klant in de lijst.
+1. Selecteer in **Partner Center** menu **Klanten** en kies vervolgens een klant in de lijst.
 
-2. Selecteer **gebruikers en licenties**.
+2. Selecteer **Gebruikers en licenties.**
 
-3. Schakel het selectie vakje voor twee of meer gebruikers in de lijst in. (Als u alle gebruikers op de huidige pagina wilt selecteren, schakelt u het selectie vakje aan de bovenkant van de kolom **gebruikers** in.)
+3. Schakel het selectievakje voor twee of meer gebruikers in de lijst in. (Als u alle gebruikers op de huidige pagina wilt selecteren, selecteert u het selectievakje bovenaan de **kolom Gebruikers.)**
 
-    Pagina door de **eerste**, **vorige**, **volgende** en **laatste** hulpprogram ma's om andere gebruikers te zoeken en te selecteren. U kunt verschillende pagina's selecteren.
+    Door de **hulpprogramma's Eerste**, **Vorige**, **Volgende** en **Laatste** gaan om andere gebruikers te zoeken en te selecteren. U kunt selecteren op meerdere pagina's.
 
-4. Nadat u de gebruikers hebt geselecteerd, kiest u de koppeling **geselecteerde gebruikers** . De weer gegeven lijst bevat alleen de geselecteerde gebruikers.
+4. Nadat u de gebruikers hebt geselecteerd, kiest u de koppeling **Geselecteerde** gebruikers. In de weergegeven lijst worden alleen de geselecteerde gebruikers weergegeven.
 
-5. Selecteer de koppeling **licenties beheren** .
+5. Selecteer de **koppeling Licenties** beheren.
 
-6. Schakel onder **licenties toewijzen en intrekken** de selectie vakjes uit voor producten die aan de gebruikers zijn toegewezen.
+6. Onder **Licenties toewijzen en intrekken selectievakjes** uit voor producten die zijn toegewezen aan de gebruikers.
 
-   Als alle geselecteerde gebruikers bijvoorbeeld Office 365 Enter prise-licenties hebben en u deze wilt intrekken, schakelt u het selectie vakje in om het uit te scha kelen.
+   Als bijvoorbeeld alle geselecteerde gebruikers Office 365 Enterprise-licenties hebben en u deze wilt intrekken, selecteert u het selectievakje om dit te doen.
 
 7. Selecteer **Opslaan**.
 
@@ -96,4 +90,4 @@ In het partner centrum worden alle licentie rechten van de klant bijgehouden en 
 
 - [Licenties toewijzen aan een gebruiker](assign-licenses-to-users.md)
 
-- [Beheerders bevoegdheden voor de Azure CSP-abonnementen van een klant opnieuw invoeren](revoke-reinstate-csp.md)
+- [Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen](revoke-reinstate-csp.md)

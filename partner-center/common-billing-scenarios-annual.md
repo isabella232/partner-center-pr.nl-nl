@@ -1,161 +1,156 @@
 ---
-title: Jaarlijkse facturering-algemene scenario's
+title: Jaarlijkse facturering - algemene scenario's
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 'Facturerings centrum per jaar: wanneer u nieuwe abonnementen toevoegt, licenties toevoegt vóór de factuur datum, de licentie hoeveelheid wijzigt of de abonnementen uitstellen/opnieuw inschakelt.'
+description: 'Partner Center facturering: wanneer u nieuwe abonnementen toevoegt, licenties toevoegt vóór de factureringsdatum, het aantal licenties wijzigt of abonnementen ondernieuwt/opnieuw activeren.'
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7494fd7cc003d1179c0ed959b21e1be2cbcc3255
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a6392094e000b899e0545655ecf9ed6117535f7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502477"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148700"
 ---
-# <a name="common-annual-billing-scenarios-in-partner-center"></a>Algemene scenario's voor jaarlijkse facturering in het partner centrum
+# <a name="common-annual-billing-scenarios-in-partner-center"></a>Algemene jaarlijkse factureringsscenario's in Partner Center
 
-**Juiste rollen**
+**Juiste rollen:** beheeragent | Factureringsbeheerders | Helpdeskagent | Verkoopagent
 
-- Beheer agent
-- Factureringsbeheerder
-- Helpdesk medewerker
-- Verkoop agent
+Deze algemene [factureringsscenario's zijn](common-billing-scenarios.md) van toepassing als u jaarlijkse facturering gebruikt in Partner Center.
 
-Deze voorbeeld [scenario's](common-billing-scenarios.md) zijn van toepassing op het gebruik van jaarlijkse facturering in Partner Center.
+## <a name="new-annual-subscription"></a>Nieuw jaarlijks abonnement
 
-## <a name="new-annual-subscription"></a>Nieuw jaar abonnement
+Uw factureringsdatum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $ 4/maand en selecteert u jaarlijkse facturering. Het afstemmingsbestand op basis van licenties van 15 januari bevat de volgende factureringsregel:
 
-Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u jaarlijkse facturering. Het afstemmings bestand op basis van de licentie van 15 januari bevat de volgende facturerings regel:
-
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
+|Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Tarief vergoedingen bij aankoop|48,00|1|48,00
+1/13/2018|1/12/2019|Prorate kosten bij aankoop|48.00|1|48.00
 
-## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Licentie toevoegen na datum van abonnement, maar vóór factuur datum
+## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Licentie toevoegen na de inschrijvingsdatum van het abonnement, maar vóór de factureringsdatum
 
-U koopt een nieuw abonnement op 2/11/17 met één licentie voor $211.20/jaar. De jubileum van uw abonnement wordt ingesteld als de elfde van elke maand. Het micro soft-facturerings systeem maakt de volgende facturerings regels:
+U koopt een nieuw abonnement op 11-2-2017 met één licentie voor $ 211,20/jaar. De inschrijvingsdag is ingesteld op de 11e van elke maand. Het Microsoft-factureringssysteem maakt de volgende factureringsregels:
 
-- $211,20 kosten voor periode 2/11/17 – 2/10/18.
+- Kosten van $ 211,20 voor de periode 11-2-2017 – 10-2-2018.
 
-Op 2/12/17 koopt u een tweede licentie. Uw factuur datum is 2/14/17. Er wordt een factuur-en afstemmings bestand gegenereerd. Het afstemmings bestand bevat de volgende facturerings regels:
+Op 12-2-2017 koopt u een tweede licentie. Uw factureringsdatum is 14-2-2017. Er wordt een factuur- en afstemmingsbestand gegenereerd. Het afstemmingsbestand bevat de volgende factureringsregels:
 
-|Begin datum van kosten  |Eind datum van de lading  |Kosten type  |Prijs per eenheid |Aantal | Bedrag |
+|Begindatum van kosten  |Einddatum van kosten  |Kostentype  |Prijs per eenheid |Aantal | Bedrag |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
-|2/11/2017 |2/10/2018 |Tarief vergoedingen bij aankoop |211,20 |1 | 211,20 |
+|2/11/2017 |2/10/2018 |Prorate Kosten bij aankoop |211.20 |1 | 211.20 |
 
-Op de jubileum van uw abonnement, 3/11/17, maakt het micro soft-facturerings systeem de volgende facturerings regels voor de licentie verhoging op 2/12/17:
+Op uw inschrijvingsdatum, 11-3-2017, maakt het Microsoft-factureringssysteem de volgende factureringslijnen voor de licentieverhoging op 12-02-2017:
 
-- $211,20 tegoed voor periode 2/11/17 – 2/10/18.
-- $0,58 per licentie voor één licentie voor een periode van 2/11/17 – 2/11/17.
-- $15,62 per licentie in rekening gebracht voor twee licenties voor de periode 2/12/17 – 3/10/2017.
-- $195,00 per licentie in rekening gebracht voor twee licenties voor de periode 3/11/2017 – 2/10/2018.
+- Tegoed van $ 211,20 voor de periode 11-2-2017 – 10-2-2018.
+- Pro 0,58 dollar per licentie voor één licentie voor de periode van 11-2-2017 tot 11-2-2017.
+- $ 15,62 prorated charge per license for two licenses for period 2/12/17 – 3/10/2017.
+- Pro 195,00 dollar per licentie voor twee licenties voor de periode 11-3-2017 – 10-2-2018.
 
-Op 2/11/17 koopt u een abonnement. Op 2/12/17 voegt u een licentie toe. Uw factuur datum is 2/14/17. Op 2/11/18 uw abonnement wordt vernieuwd.
+Op 11-2-2017 koopt u een abonnement. Op 12-2-2017 voegt u een licentie toe. Uw factureringsdatum is 14-2-2017. Op 11-2-2018 wordt uw abonnement verlengd.
 
-De volgende factuur datum is 3/14/17 en er worden een factuur-en afstemmings bestand gegenereerd. Het afstemmings bestand bevat de volgende facturerings regels:
+De volgende factureringsdatum is 14-3-2017 en er worden een factuur- en afstemmingsbestand gegenereerd. Het afstemmingsbestand bevat de volgende factureringsregels:
 
-|Begin datum van kosten  |Eind datum van de lading  |Kosten type  |Prijs per eenheid |Aantal | Bedrag |
+|Begindatum van kosten  |Einddatum van kosten  |Kostentype  |Prijs per eenheid |Aantal | Bedrag |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
-|2/11/2017 |2/10/2018 |Cyclus exemplaar prorente |-211,20 |1 |-211,20 |
-|2/11/2017 |2/11/2017 |Cyclus exemplaar prorente |0,58 |1 |0,58 |
-|2/12/2017 |3/10/2017 |Cyclus exemplaar prorente |15,62 |2 |31,25 |
-|3/11/2017 |2/10/2018 |Cyclus exemplaar prorente |195,00 |2 |390,00 |
+|2/11/2017 |2/10/2018 |Prorate van cyclus-exemplaar |-211.20 |1 |-211.20 |
+|2/11/2017 |2/11/2017 |Prorate van cyclus-exemplaar |0.58 |1 |0.58 |
+|2/12/2017 |3/10/2017 |Prorate van cyclus-exemplaar |15.62 |2 |31.25 |
+|3/11/2017 |2/10/2018 |Prorate van cyclus-exemplaar |195.00 |2 |390.00 |
 
-Op 2/11/18 wordt het abonnement vernieuwd voor een andere periode van 12 maanden.
+Op 11-2-2018 wordt het abonnement met nog een periode van 12 maanden verlengd.
 
 ## <a name="change-license-quantity"></a>Licentieaantal wijzigen
 
-Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u jaarlijkse facturering. Het afstemmings bestand op basis van de licentie van 15 januari bevat de volgende facturerings regel:
+Uw factureringsdatum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $ 4/maand en selecteert u jaarlijkse facturering. Het afstemmingsbestand op basis van licenties van 15 januari bevat de volgende factureringsregel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
+|Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Tarief vergoedingen bij aankoop|48,00|1|48,00
+1/13/2018|1/12/2019|Prorate kosten bij aankoop|48.00|1|48.00
 
-Op 1 februari verhoogt u het aantal licenties van een tot twee. Het afstemmings bestand op basis van de licentie voor 15 februari bevat de volgende facturerings regels:
+Op 1 februari verhoogt u het aantal licenties van één naar twee. Het afstemmingsbestand op basis van een licentie van 15 februari bevat de volgende factureringsregels:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
+|Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Cyclus exemplaar prorente|-48,00|1|-48,00
-1/13/2018|1/31/2018|Cyclus exemplaar prorente|2,47|1|2,47
-1-2-2018|1/12/2019|Cyclus exemplaar prorente|44,98|2|89,96
+1/13/2018|1/12/2019|Prorate van cyclus-exemplaar|-48.00|1|-48.00
+1/13/2018|1/31/2018|Prorate van cyclus-exemplaar|2.47|1|2.47
+1-2-2018|1/12/2019|Prorate van cyclus-exemplaar|44.98|2|89.96
 
-De jaarlijkse prijs is 48,00, die gelijk is aan de dagelijkse prijs van 0,13 (48.00/365).
+De jaarlijkse prijs is 48,00, wat gelijk is aan de dagelijkse prijs van 0,13 (48,00/365).
 
-Eenheids prijs = dagen in service periode x dagelijkse prijs x aantal licenties.
+Eenheidsprijs = dagen in serviceperiode x dagelijkse prijs x aantal licenties.
 
-Er zijn 19 dagen in de service periode 1/13/2018 – 1/31/2018.
+De serviceperiode is 13-13-2018 13-2018 31-2018 19 dagen.
 
-Daarom is eenheids prijs = 2,47 (19x 0.13 x1)
+Daarom is eenheidsprijs = 2,47 (19x0,13x1)
 
-Er zijn 346 dagen in de service periode 2/1/2018 – 1/12/2019.
+Er zijn 346 dagen in serviceperiode 1-2-2018 – 12-1-2019.
 
-Daarom is eenheids prijs = 44,98 (346x 0.13 x2)
+Daarom is eenheidsprijs = 44,98 (346x0,13x2)
 
-## <a name="suspend-before-30-days"></a>Uitstellen vóór 30 dagen
+## <a name="suspend-before-30-days"></a>Vóór 30 dagen opschorten
 
-Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u jaarlijkse facturering. Het afstemmings bestand op basis van de licentie van 15 januari bevat de volgende facturerings regel:
+Uw factureringsdatum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $ 4/maand en selecteert u jaarlijkse facturering. Het afstemmingsbestand op basis van licenties van 15 januari bevat de volgende factureringsregel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
+|Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Tarief vergoedingen bij aankoop|48,00|1|48,00
+1/13/2018|1/12/2019|Prorate kosten bij aankoop|48.00|1|48.00
 
-Op 1 februari schorst u uw abonnement. Het afstemmings bestand op basis van de licentie voor 15 februari bevat de volgende facturerings regel:
+Op 1 februari schort u uw abonnement op. Het afstemmingsbestand op basis van licenties van 15 februari bevat de volgende factureringsregel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
+|Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Annulerings kosten|-48,00|1|-48,00
+1/13/2018|1/12/2019|Kosten annuleren|-48.00|1|-48.00
 
-## <a name="suspend-after-30-days"></a>Uitstellen na 30 dagen
+## <a name="suspend-after-30-days"></a>Opschorten na 30 dagen
 
-Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u jaarlijkse facturering. Het afstemmings bestand op basis van de licentie van 15 januari bevat de volgende facturerings regel:
+Uw factureringsdatum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $ 4/maand en selecteert u jaarlijkse facturering. Het afstemmingsbestand op basis van licenties van 15 januari bevat de volgende factureringsregel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
+|Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Tarief vergoedingen bij aankoop|48,00|1|48,00
+1/13/2018|1/12/2019|Prorate kosten bij aankoop|48.00|1|48.00
 
-Het afstemmings bestand op basis van de licentie van 15 februari bevat geen facturerings regels voor dit abonnement.
-Op 1 maart schorst u uw abonnement. Het afstemmings bestand van 15 maart op basis van licentie bevat de volgende facturerings regel:
+Het afstemmingsbestand op basis van een licentie van 15 februari bevat geen factureringslijnen voor dit abonnement.
+Op 1 maart schort u uw abonnement op. Het afstemmingsbestand op basis van een licentie van 15 maart bevat de volgende factureringsregel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
+|Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-3/1/2018|1/12/2019|Annulerings kosten|-41,34|1|-41,34
+3/1/2018|1/12/2019|Kosten annuleren|-41.34|1|-41.34
 
-De jaarlijkse prijs is 48,00, die gelijk is aan de dagelijkse prijs van 0,13 (48.00/365).
+De jaarlijkse prijs is 48,00, wat gelijk is aan de dagelijkse prijs van 0,13 (48,00/365).
 
-Eenheids prijs = dagen in service periode x dagelijkse prijs x aantal licenties.
+Eenheidsprijs = dagen in serviceperiode x dagelijkse prijs x aantal licenties.
 
-Er zijn 318 dagen in de service periode 3/1/2018 – 1/12/2019.
+Er zijn 318 dagen in serviceperiode 3/1/2018 – 12-1-2019.
 
-Daarom is eenheids prijs = 41,34 (318x 0.13 x1). Omdat dit een tegoed is, is de eenheids prijs-41,34.
+Daarom is eenheidsprijs = 41,34 (318x0,13x1). Omdat dit een tegoed is, is de eenheidsprijs -41,34.
 
-## <a name="suspend-and-reactivate"></a>Onderbreken en opnieuw activeren
+## <a name="suspend-and-reactivate"></a>Suspend and reactivate (Opnieuw activeren)
 
-Uw factuur datum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $4/maand en selecteert u jaarlijkse facturering. Het afstemmings bestand op basis van de licentie van 15 januari bevat de volgende facturerings regel:
+Uw factureringsdatum is de 15e van elke maand. Op 13 januari koopt u een nieuw abonnement met één licentie voor $ 4/maand en selecteert u jaarlijkse facturering. Het afstemmingsbestand op basis van licenties van 15 januari bevat de volgende factureringsregel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
+|Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Tarief vergoedingen bij aankoop|48,00|1|48,00
+1/13/2018|1/12/2019|Prorate kosten bij aankoop|48.00|1|48.00
 
-Op 1 februari schorst u uw abonnement. Het afstemmings bestand op basis van de licentie voor 15 februari bevat de volgende facturerings regel:
+Op 1 februari schort u uw abonnement op. Het afstemmingsbestand op basis van een licentie van 15 februari bevat de volgende factureringsregel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
+|Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Annulerings kosten|-48,00|1|-48,00
+1/13/2018|1/12/2019|Kosten annuleren|-48.00|1|-48.00
 
-Op 1 maart moet u uw abonnement opnieuw activeren. Het afstemmings bestand van 15 maart op basis van licentie bevat de volgende facturerings regel:
+Op 1 maart kunt u uw abonnement opnieuw activeren. Het afstemmingsbestand op basis van een licentie van 15 maart bevat de volgende factureringsregel:
 
-|Begin datum van kosten |Eind datum van de lading |Kosten type |Prijs per eenheid |Aantal |Bedrag |
+|Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-3/1/2018|1/12/2019|Tarief vergoedingen bij aankoop|41,34|1|41,34
+3/1/2018|1/12/2019|Prorate kosten bij aankoop|41.34|1|41.34
 
-De jaarlijkse prijs is 48,00, die gelijk is aan de dagelijkse prijs van 0,13 (48.00/365).
+De jaarlijkse prijs is 48,00, wat gelijk is aan de dagelijkse prijs van 0,13 (48,00/365).
 
-Eenheids prijs = dagen in service periode x dagelijkse prijs x aantal licenties.
+Eenheidsprijs = dagen in serviceperiode x dagelijkse prijs x aantal licenties.
 
-Er zijn 318 dagen in de service periode 3/1/2018 – 1/12/2019.
+Er zijn 318 dagen in serviceperiode 3/1/2018 – 12-1-2019.
 
-Daarom is eenheids prijs = 41,34 (318x 0.13 x1).
+Daarom is eenheidsprijs = 41,34 (318x0,13x1).

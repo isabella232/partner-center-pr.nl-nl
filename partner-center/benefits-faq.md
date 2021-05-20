@@ -2,122 +2,120 @@
 title: Veelgestelde vragen over de voordelen
 ms.topic: article
 ms.date: 12/15/2020
-description: Antwoorden op vragen over het verlopen van voor delen, het verlengen en activeren van licenties voor Azure, Cloud, Visual Studio en technische en ondersteunings voordelen
+description: Antwoorden op vragen over het verlopen, verlengen en activeren van licenties voor Azure, cloud, Visual Studio en technische en ondersteuningsvoordelen
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 7c3ee29099a072de3e508fcdfcfd965082522895
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557695"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149278"
 ---
 # <a name="benefits-faq"></a>Veelgestelde vragen over de voordelen
 
-**Juiste rollen**
+**Juiste rollen:** MPN-partnerbeheerder
 
-- MPN-partner beheerder
-
-In dit artikel komen veel Veelgestelde vragen over de voor delen van Microsoft Partner Network (MPN) aan de orde.
+Veel veelvoorkomende vragen Microsoft Partner Network (MPN)-voordelen worden in dit artikel beantwoord.
 
 
 ## <a name="general-questions"></a>Algemene vragen
 
-### <a name="q-what-does-benefit-expiry-date-mean"></a>V. Wat betekent ' verval datum van voor deel '
+### <a name="q-what-does-benefit-expiry-date-mean"></a>V. Wat betekent 'Vervaldatum van voordeel'
 
-De verval datum voor het voor deel is de laatste datum om uw voor delen te activeren.
+De vervaldatum van het voordeel betekent de laatste datum waarop uw voordelen worden geactiveerd.
 
-U hebt tot uw vernieuwings datum de voor delen die beschikbaar zijn tijdens de inschrijvings periode van één jaar, inwisselen. U kunt de begin datum van uw verlenging vinden op de pagina [lidmaatschaps aanbiedingen](https://partner.microsoft.com/dashboard/mpn/offers) in het MPN-dash board.
+U hebt tot de verlengingsdatum om de voordelen in te wisselen die beschikbaar zijn tijdens de inschrijvingsperiode van één jaar. U vindt de begindatum van uw verlenging op [de pagina Lidmaatschapsaanbiedingen](https://partner.microsoft.com/dashboard/mpn/offers) in het MPN-dashboard.
 
-U kunt product codes echter één jaar gebruiken van de dag waarop u de sleutels op hun respectieve Cloud portals inwisselt.
+U kunt echter productcodes gebruiken voor één jaar vanaf de dag dat u de sleutels inwisselt in hun respectieve cloudportals.
 
-Als de verval datum van uw voor Stel bijvoorbeeld 31 januari 2021 is, moet u vóór 31 januari 2021 de sleutels in de juiste Cloud Portal inwisselen. En als u uw product code inwisselt op 1 december 2020, kunt u deze sleutel gebruiken tot 1 december 2021, zelfs als uw verval datum van uw voor deel 31 januari is.
+Als uw voordeel bijvoorbeeld verloopt op 31 januari 2021, moet u de sleutels inwisselen in de juiste cloudportal vóór 31 januari 2021. En als u uw productcode inwisselt op 1 december 2020, kunt u die sleutel gebruiken tot 1 december 2021, ook al is de vervaldatum van uw voordeel 31 januari.
 
 >[!NOTE]
->Als u voor delen hebt waarvoor een gebruikers toewijzing (zoals Visual Studio-abonnementen) is vereist, kunt u deze voor delen gedurende een extra periode van 30 dagen na de verlengings datum van de inschrijving gebruiken.
+>Als u voordelen hebt waarvoor een gebruikerstoewijzing is vereist (zoals Visual Studio-abonnementen), kunt u deze voordelen activeren en gebruiken voor nog eens 30 dagen na de verlengingsdatum van de inschrijving.
 
-### <a name="q-how-do-i-renew-my-benefits"></a>V. Hoe kan ik mijn voor delen vernieuwen
+### <a name="q-how-do-i-renew-my-benefits"></a>V. Hoe kan ik voordelen verlengen
 
-Gebruik de volgende procedure om uw voor delen te verlengen:
+Gebruik de volgende procedure om uw voordelen te verlengen:
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer in het navigatie venster links de optie **MPN**.
+2. Selecteer MPN in het **linkernavigatiebalk.**
 
-3. Selecteer op het tabblad **MPN** de optie **voor delen** .
+3. Selecteer op **het tabblad MPN** de **optie** Voordelen.
 
-4. Activeer de gewenste voor delen.
+4. Activeer het voordeel dat u wilt.
 
-Als het gewenste voor deel niet beschikbaar is, moet u het lidmaatschap van uw partner centrum verlengen en het bovenstaande proces herhalen.
+Als het voordeel dat u wilt niet beschikbaar is, moet u uw Partner Center verlengen en het bovenstaande proces herhalen.
 
-### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>V. Ik heb een melding ontvangen dat mijn abonnement binnenkort verloopt: wat moet ik doen
+### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>V. Ik heb een melding ontvangen dat mijn abonnement binnenkort verloopt- wat moet ik doen
 
-Meld u aan bij de Cloud portal die de melding heeft gegenereerd, Controleer de verval datum van uw bestaande abonnement (en) en voeg vervolgens licenties toe aan het verlopen abonnement of breid het bestaande abonnement uit voor het volgende jaar van inschrijving.
+Meld u aan bij de cloudportal die de melding heeft gegenereerd, controleer de vervaldatum van uw bestaande abonnementen en voeg vervolgens licenties toe aan het verlopende abonnement of breid het bestaande abonnement uit voor het volgende jaar van inschrijving.
 
-### <a name="q-when-can-i-renew-my-membership"></a>V. Wanneer kan ik mijn lidmaatschap vernieuwen
+### <a name="q-when-can-i-renew-my-membership"></a>V. Wanneer kan ik mijn lidmaatschap verlengen?
 
 Bestaande lidmaatschappen kunnen dagelijks worden verlengd na de begindatum van de verlenging.
 
-## <a name="azure-and-cloud-activation-benefits"></a>Voor delen van Azure en Cloud activering
+## <a name="azure-and-cloud-activation-benefits"></a>Voordelen van azure- en cloudactivering
 
-### <a name="q-how-does-adding-extendingrenewing-licenses-work-on-azure"></a>V. Hoe wordt het toevoegen, uitbreiden/vernieuwen van licenties op Azure uitgevoerd
+### <a name="q-how-does-adding-extendingrenewing-licenses-work-on-azure"></a>V. Hoe werkt het toevoegen, uitbreiden/verlengen van licenties in Azure?
 
 Wanneer u licenties toevoegt, verhoogt u het totale aantal licenties voor uw bestaande abonnement.
 
-Wanneer u abonnementen verlengt of uitbreidt, blijft het aantal licenties hetzelfde, maar u kunt de hoeveelheid tijd voor deze Abonnementen verlengen.
+Wanneer u abonnementen vernieuwt of uitbreidt, blijft het aantal licenties gelijk, maar verlengt u de hoeveelheid tijd voor deze abonnementen.
 
 >[!IMPORTANT]
->Als u ervoor kiest om licenties toe te voegen aan een bestaand abonnement, verloopt het abonnement over minder dan 12 maanden, afhankelijk van het aantal bestaande en toegevoegde licenties. Zodra u een sleutel hebt ingewisseld, kunt u deze niet meer inwisselen. Voordat u de sleutel inwisselt, moet u weten of u licenties moet toevoegen of dat u het abonnement kunt vernieuwen/uitbreiden.
+>Als u ervoor kiest om licenties toe te voegen aan een bestaand abonnement, verloopt het abonnement binnen 12 maanden, afhankelijk van het aantal bestaande en toegevoegde licenties. Nadat u een sleutel hebt ingewisseld, kunt u deze niet meer inwisselen. Voordat u uw sleutel inwisselt, moet u weten of u licenties moet toevoegen of het abonnement moet verlengen/verlengen.
 
-### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>V. Kan ik de licentie activeren op het account van mijn klant
+### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>V. Kan ik de licentie voor het account van mijn klant activeren?
 
-Nee. Product licenties worden uitgegeven voor demonstratie doeleinden. Uw verkoop-en marketing werk nemers kunnen deze software gebruiken om producten aan uw klanten te presen teren, maar demonstratie producten kunnen niet worden geïnstalleerd op de hardware of infra structuur van de klant en moeten worden gebruikt met het toezicht van de partner.
+Nee. Productlicenties worden uitgegeven voor demonstratiedoeleinden. Uw verkoop- en marketingmedewerkers kunnen deze software gebruiken om producten aan uw klanten te presenteren, maar demonstratieproducten kunnen niet worden geïnstalleerd op de hardware of infrastructuur van de klant en moeten worden gebruikt met supervisie van partners.
 
-### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>V. Ik ondervind problemen bij het toewijzen van gebruikers in azure-tegoed voor bulk. Wat moet ik doen
+### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>V. Ik heb problemen bij het toewijzen van gebruikers in Azure Bulk Credit. Wat moet ik doen?
 
-U kunt Azure-aanbiedingen voor bulk tegoed niet combi neren met andere aanbiedingen. Als een gebruikers toewijzing niet werkt, betekent dit waarschijnlijk dat de gebruiker die u wilt toewijzen, al gebruikmaakt van andere licenties, vooraf betaalde of tegoed aanbiedingen zoals micro soft Enterprise Overeenkomst, Cloud Solution partner, Azure in Open, Azure Pass, Action Pack, enzovoort. Als de gebruiker niet is geabonneerd op een van deze overeenkomsten of plannen en u deze nog steeds niet kunt toewijzen, neemt u contact op met Microsoft Ondersteuning.
+U kunt azure-aanbiedingen voor bulktegoeden niet combineren met andere aanbiedingen. Als een gebruikerstoewijzing niet werkt, betekent dit waarschijnlijk dat de gebruiker die u wilt toewijzen, al gebruik maakt van andere licentie-, prepaid- of tegoedaanbiedingen, zoals Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack, enzovoort. Als de gebruiker niet is geabonneerd op een van deze overeenkomsten of abonnementen en u deze nog steeds niet kunt toewijzen, kunt u contact opnemen met Microsoft-ondersteuning.
 
-## <a name="visual-studio-benefits"></a>Voor delen voor Visual Studio
+## <a name="visual-studio-benefits"></a>Visual Studio voordelen
 
-### <a name="q-how-does-visual-studio-activation-work-in-partner-center"></a>V. Hoe werkt Visual Studio activeren in het partner centrum?
+### <a name="q-how-does-visual-studio-activation-work-in-partner-center"></a>V. Hoe werkt Visual Studio activering in Partner Center
 
-U kunt abonnementen toewijzen aan iedereen in uw lijst met gebruikers beheer in partner centrum of in uw Azure Active Directory-Tenant (AAD) door de volgende stappen uit te voeren:
+U kunt abonnementen toewijzen aan iedereen in de lijst gebruikersbeheer in Partner Center of in uw AAD-tenant (Azure Active Directory), door de volgende stappen uit te voeren:
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer in het menu van het partner centrum **MPN**.
+2. Selecteer in Partner Center menu **MPN.**
 
-3. Selecteer **voor delen** en selecteer vervolgens **Visual Studio**.
+3. Selecteer **Voordelen** en selecteer vervolgens **Visual Studio**.
 
-4. Wijs de gewenste gebruikers toe aan uw bestaande Visual Studio-abonnementen die beschikbaar zijn.
+4. Wijs de gewenste gebruikers toe aan uw Visual Studio beschikbare abonnementen.
 
-Nadat u het abonnement hebt toegewezen, moet de gebruiker zich aanmelden bij Visual Studio om het te kunnen beheren.
+Nadat u het abonnement hebt toegewezen, moet de gebruiker zich aanmelden bij Visual Studio om het te beheren.
 
 >[!Note]
-> Visual Studio-abonnementen kunnen opnieuw worden toegewezen van een abonnee naar een andere als 90 dagen zijn verstreken sinds de oorspronkelijke toewijzing.
+> Visual Studio abonnementen kunnen opnieuw worden toegewezen van de ene abonnee naar de andere als er 90 dagen zijn verstreken sinds het moment van de oorspronkelijke toewijzing.
 
-## <a name="technical-benefits-and-support"></a>Technische voor delen en ondersteuning
+## <a name="technical-benefits-and-support"></a>Technische voordelen en ondersteuning
 
-### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>V. Ik kan de software die ik heb gedownload van het partner centrum niet installeren. Hoe kan ik hulp vragen
+### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>V. Ik kan de software die ik heb gedownload van de Partner Center. Hoe kan ik hulp krijgen
 
-Installatie, activering en andere productgerelateerde hulp worden via Microsoft Ondersteuning verschaft. Voer de volgende stappen uit om hulp te krijgen:
+Installatie, activering en andere productgerelateerde hulp worden geboden via Microsoft-ondersteuning. Ga als volgt te werk om hulp te krijgen:
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer in het menu van het partner centrum **MPN**.
+2. Selecteer in Partner Center menu **MPN.**
 
-3. Selecteer **voor delen** en selecteer vervolgens **technische voor delen**.
+3. Selecteer **Voordelen** en selecteer vervolgens **Technische voordelen.**
 
-4. Gebruik de sectie technische voor delen om een toegangs-ID/contract-ID te activeren en te ontvangen.
+4. Gebruik de sectie Technische voordelen om een toegangs-id/contract-id te activeren en te ontvangen.
 
-5. Meld u aan bij [Microsoft ondersteuning](https://support.microsoft.com/supportforbusiness/productselection).
+5. Meld u aan [bij Microsoft-ondersteuning](https://support.microsoft.com/supportforbusiness/productselection).
 
-6. Selecteer het product dat u wilt installeren en maak vervolgens een technische ondersteunings ticket.
+6. Selecteer het product dat u wilt installeren en maak vervolgens een technisch ondersteuningsticket.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Verdien een geavanceerde specialisatie om uw expertise te presen teren](advanced-specializations.md)
+- [Een geavanceerde specialisatie verdienen om uw expertise te laten zien](advanced-specializations.md)

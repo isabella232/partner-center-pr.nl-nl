@@ -2,39 +2,37 @@
 title: Problemen met toegang tot CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Lees deze richt lijnen voor hulp bij het oplossen van problemen met het Channel prikkeling platform (CHIP)-hulp programma.
+description: Lees deze richtlijnen om u te helpen bij het oplossen van problemen met het hulpprogramma CHIP (Channel Incentives Platform).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570600"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149057"
 ---
-# <a name="troubleshoot-issues-with-accessing-chip"></a>Problemen met de toegang tot de CHIP oplossen
+# <a name="troubleshoot-issues-with-accessing-chip"></a>Problemen met toegang tot CHIP oplossen
 
-**Juiste rollen**
-
-- Primaire contact persoon of programma beheerder
+**Juiste rollen:** primaire contactpersoon of programmabeheerder
 
 >[!NOTE]
->Het CHIP platform wordt aan het einde van 2021.
+>Het CHIP-platform wordt eind 2021 in gebruik genomen.
 
-Als u niet de primaire contact persoon of PPA (primaire programma beheerder) bent, neemt u contact op met uw primaire contact persoon of PPA (primaire programma beheerder) voor toegang. Als u de huidige versie PPA hebt, moet u ervoor zorgen dat uw bedrijf is geregistreerd en Inge schreven als uw toegang is gekoppeld aan de status van uw bedrijf.
+Als u niet de primaire contactpersoon of PPA (Primary Program Administrator) bent, neem dan contact op met uw primaire contactpersoon of PPA (Primaire programmabeheerder) voor toegang. Als u de huidige PPA bent, moet u ervoor zorgen dat uw bedrijf is geregistreerd en geregistreerd omdat uw toegang is gekoppeld aan uw bedrijfsstatus.
 
-Als u de primaire contact persoon of PPA (primaire programma beheerder) bent, moet u toegang hebben tot de CHIP, omdat alle meldingen voor registratie worden verzonden naar de huidige primaire contact persoon of PPA (primaire programma beheerder). Deze toegang wordt voortgezet voor elke periode na de initiële registratie periode.
+Als u de primaire contactpersoon of PPA (Primary Program Administrator) bent, moet u toegang hebben tot CHIP omdat alle meldingen voor registratie worden verzonden naar de huidige primaire contactpersoon of PPA (Primary Program Administrator). Deze toegang wordt voortgezet voor elke periode na de initiële registratieperiode.
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Probleemoplossings stappen voor het verkrijgen van toegang tot de CHIP als u eerder toegang had
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Stappen voor probleemoplossing om u te helpen bij het openen van CHIP als u eerder toegang had
 
-1. Wis alle cookies en open de CHIP in een persoonlijke browser.
-1. Selecteer de **instellingen voor de compatibiliteits weergave** in uw browser. De CHIP moet al worden vermeld onder Microsoft.com, anders voegt u de website toe.
+1. Alle cookies verwijderen en CHIP openen in een privébrowser.
+1. Selecteer **Compatibiliteitsweergave Instellingen** in uw browser. CHIP moet al worden vermeld onder Microsoft.com, anders voegt u de website toe.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Navigeren door het Channel prikkel platform (CHIP)](chip-intro.md)
+- [Navigeren door het Channel Incentives Platform (CHIP)](chip-intro.md)
 - [Ondersteuning](report-problems-with-partner-center.md)

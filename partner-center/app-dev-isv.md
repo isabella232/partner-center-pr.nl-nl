@@ -1,73 +1,70 @@
 ---
-title: Uitzonde ring voor competentie van toepassings ontwikkeling
+title: Uitzondering voor het competentieexamen Toepassingsontwikkeling
 ms.topic: article
 ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Voor partners met een eerdere ISV-competentie leert u hoe u een eenmalige afwijkings vereisten voor de implementatie van de toepassing kunt verkrijgen
+description: Voor partners met een eerdere ISV-competentie leert u hoe u een eens examenvereisten kunt krijgen voor de competentie Toepassingsontwikkeling
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 2d3dfbb409ec8a11d4152e9c064e0ce7a05711b5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92528826"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149992"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Eenmalige afsluitings vereisten voor de toepassings ontwikkeling competentie
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Uitzondering voor eendijf examenvereisten voor de competentie Toepassingsontwikkeling
 
-**Juiste rollen**
+**Juiste rollen:** globale | MPN-partnerbeheerder
 
-- Globale beheerder
-- MPN-partner beheerder
-
-Als u de ' nu buiten gebruik gestelde ' ISV-competentie hebt bereikt en een van de volgende scenario's van toepassing is, bieden we uw bedrijf een eenmalige afsluitings vereisten voor de Gold-of Silver [Application Development-competentie](https://partner.microsoft.com/membership/application-development-competency). 
+Als u de nu gestopte ISV-competentie hebt bereikt en een van de volgende scenario's op u van toepassing is, wordt uw bedrijf een een time-exam requirements-uitzondering aangeboden voor de gold of silver [Application Development-competentie](https://partner.microsoft.com/membership/application-development-competency). 
 
 Partners met een ISV-competentie:
 
-- **Uw ISV-competentie is verlopen** : de eenmalige uitzonde ring voor examen vereisten is vanaf 22 november 2019 beschikbaar in het partner centrum. U hebt dertig dagen de tijd om gebruik te maken van de aanbieding. Meld u aan bij het partner centrum voor informatie die specifiek is voor uw bedrijf.
+- **Uw ISV-competentie** is verlopen: de een time-exam requirements-uitzondering is beschikbaar in Partner Center vanaf 22 november 2019. U hebt 30 dagen om te profiteren van de aanbieding. Meld u aan bij Partner Center voor meer informatie die specifiek is voor uw bedrijf.
 
-- **Uw competentie lidmaatschap bevindt zich in het verlengings venster** : de eenmalige uitzonde ring voor examen vereisten is vanaf 22 november 2019 beschikbaar in het partner centrum. U hebt dertig dagen de tijd om gebruik te maken van de aanbieding. Meld u aan bij het partner centrum voor informatie die specifiek is voor uw bedrijf.
+- **Uw competentielidmaatschap staat in** het verlengingsvenster: de eentijdige uitzondering voor examenvereisten is beschikbaar in Partner Center vanaf 22 november 2019. U hebt 30 dagen om te profiteren van de aanbieding. Meld u aan bij Partner Center voor meer informatie die specifiek is voor uw bedrijf.
 
-- **Uw competentie lidmaatschap verloopt in de komende maanden** . de eenmalige uitzonde ring voor examen vereisten is voor u beschikbaar wanneer het tijd is om te verlengen. Op dat moment beschikt u over 30 dagen voor het verkrijgen van de aanbieding.
+- **Uw competentielidmaatschap** moet in de komende maanden worden verlengd. U krijgt dan een uitzondering voor uw een-keer-examenvereisten wanneer het tijd is om uw abonnement te verlengen. Op dat moment hebt u 30 dagen om de aanbieding te krijgen.
 
-Partners met een competentie voor het ontwikkelen van toepassingen die zijn verkregen via het IP-pad van het certificaat:
+Partners met een toepassingsontwikkelingscompetentie die is bereikt via het CERTIFICAAT-IP-pad:
 
-- **Als u een micro soft Commercial Marketplace-vermelding hebt** , is de enige uitzonde ring voor examen vereisten beschikbaar op het moment van uw competentie verlenging. Op dat moment moet u 30 dagen profiteren van de aanbieding.
+- **Als u een vermelding in de commerciële marketplace** van Microsoft hebt, is de uitzondering voor een eendijf examenvereisten beschikbaar op het moment dat u uw competentie vernieuwt. Op dat moment hebt u 30 dagen om te profiteren van de aanbieding.
 
-- **Als u geen [micro soft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) -vermelding hebt** , kunt u uw oplossing publiceren op februari 2020 om in aanmerking te komen voor de eenmalige uitzonde ring van de examen vereisten.
+- **Als u geen [](https://azure.microsoft.com/overview/commercial-marketplace/) vermelding in** de commerciële marketplace van Microsoft hebt, publiceert u uw oplossing voor februari 2020 om in aanmerking te komen voor de uitzondering voor eensgeplaatste examenvereisten.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Profiteren van uw aanbieding
 
-1. Selecteer in het menu Partner Center op uw dash board **competenties** .
-2. In de lijst met beschik bare competenties is toepassings ontwikkeling gemarkeerd als **voltooid** .
+1. Selecteer competenties Partner Center het menu op **uw** dashboard.
+2. In de lijst met beschikbare competenties wordt Toepassingsontwikkeling gemarkeerd als **Voltooid.**
 
-3. Selecteer **toepassings ontwikkeling** . U ziet dat u een onderdrukking hebt gekregen die uw bedrijf heeft uitgesloten van het voldoen aan de examen vereisten. 
+3. Selecteer **Toepassingsontwikkeling.** U ziet de melding dat u een overschrijven hebt gekregen, zodat uw bedrijf niet voldoet aan de examenvereisten. 
 
-4. Als u gebruik wilt maken van deze aanbieding, gaat u naar **lidmaatschaps aanbiedingen** . Mogelijk moet u de competentie kosten betalen om het proces te volt ooien, afhankelijk van de aanschaf van uw competentie of verlengings status. 
+4. Als u wilt profiteren van deze aanbieding, gaat u naar **Lidmaatschapsaanbiedingen.** Mogelijk moet u de competentiekosten betalen om het proces te voltooien, afhankelijk van uw competentie-aankoop of verlengingsstatus. 
 
-Deze aanbieding is beschikbaar via partner centrum.
+Deze aanbieding is beschikbaar via Partner Center.
 
-Als u hulp nodig hebt bij het verkrijgen van uw aanbieding of als u vragen hebt over uw geschiktheid voor deze aanbieding, neemt u contact op met de [partner ondersteuning](https://partner.microsoft.com/Support). 
+Als u hulp nodig hebt bij het verkrijgen van uw aanbieding of vragen hebt over uw geschiktheid voor deze aanbieding, neem dan contact op [met de ondersteuning van de partner.](https://partner.microsoft.com/Support) 
 
 ## <a name="frequently-asked-questions"></a>Veelgestelde vragen
 
-**Hoe kan ik weet u of mijn bedrijf in aanmerking komt voor deze aanbieding?**
+**Hoe kan ik weten of mijn bedrijf in aanmerking komt voor deze aanbieding?**
 
-Partner bedrijven die in aanmerking komen voor deze aanbieding, zijn op de hoogte gesteld via e-mail en in het partner centrum, met informatie over het verkrijgen van de aanbieding. In aanmerking komende partners zijn personen die de nu buiten gebruik gestelde ISV-competentie hebben bereikt en degenen die de competentie voor het ontwikkelen van toepassingen hebben bereikt via het IP-pad van het certificaat. 
+Partnerbedrijven die in aanmerking komen voor deze aanbieding, zijn per e-mail en in Partner Center op de hoogte gesteld met informatie over het verkrijgen van de aanbieding. In aanmerking komende partners zijn degenen die de nu gestopte ISV-competentie hebben bereikt en degenen die de competentie Toepassingsontwikkeling hebben bereikt via het CERTIFICAAT-IP-pad. 
 
-**Wat zijn de voor delen van de competentie voor het ontwikkelen van toepassingen?**
+**Wat zijn de voordelen van de competentie Toepassingsontwikkeling?**
 
-U kunt de competentie-voor delen voor toepassings ontwikkeling bekijken op de website van micro soft partner. 
+U kunt de competentievoordelen van Toepassingsontwikkeling bekijken op de website van de Microsoft-partner. 
 
-**Wat gebeurt er wanneer ik mijn competentie Verleng wanneer ik deze aanbieding ontvang?** 
+**Wat gebeurt er wanneer het tijd is dat ik mijn competentie vernieuw wanneer ik deze aanbieding krijg?** 
 
-We delen binnenkort meer informatie over onze plannen voor Isv's en bieden richt lijnen voor partners die de competentie voor het ontwikkelen van toepassingen hebben als gevolg van deze aanbieding. * *  
+Binnenkort delen we meer informatie over onze plannen voor ISV's en bieden we hulp aan partners die de competentie Toepassingsontwikkeling hebben als gevolg van deze aanbieding.**  
 
-**Hoe kan ik deze aanbieding ophalen als mijn bedrijf niet de ISV-competentie heeft?**
+**Hoe kan ik deze aanbieding krijgen als mijn bedrijf niet over de ISV-competentie heeft?**
 
-Deze aanbieding is alleen beschikbaar voor in aanmerking komende partners, degene die de ISV-competentie of de competentie van de toepassings ontwikkeling hadden via het IP-adres van het certificaat. We beschouwen op dit moment in de nabije termijn en lange termijn uitgebreide oplossingen voor Isv's en delen binnenkort meer informatie. 
+Deze aanbieding is alleen beschikbaar voor in aanmerking komende partners: degenen met de ISV-competentie of de competentie Toepassingsontwikkeling via het CERTIFICAAT-IP-pad. We overwegen momenteel uitgebreide oplossingen voor de korte en lange termijn voor het leveren van ISV's en delen binnenkort meer informatie. 
 
 

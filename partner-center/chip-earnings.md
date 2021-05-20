@@ -2,46 +2,44 @@
 title: Inkomsten in CHIP weergeven
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Meer informatie over het weer geven van uw prikkel instructie en inkomsten in het Channel prikkeling platform (CHIP)-hulp programma.
+description: Meer informatie over het weergeven van uw incentives-instructie en inkomsten in het hulpprogramma Chip (Channel Incentives Platform).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354487"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149023"
 ---
-# <a name="view-earnings-using-the-chip-tool"></a>Inkomsten weer geven met het CHIP-hulp programma
+# <a name="view-earnings-using-the-chip-tool"></a>Inkomsten weergeven met behulp van het HULPPROGRAMMA CHIP
 
-**Juiste rollen**
+**Juiste rollen:** primaire contactpersoon of programmabeheerder
 
-- Primaire contact persoon of programma beheerder
+U hebt toegang tot uw incentives-instructie via het Channel Incentives Platform Tool (CHIP).
 
-U kunt uw instructie voor prikkels openen via het Channel prikkel platform tool (CHIP).
+## <a name="view-earnings"></a>Inkomsten weergeven
 
-## <a name="view-earnings"></a>Inkomsten weer geven
+1. Meld u aan bij CHIP met uw Microsoft-account (vorige live-id).
 
-1. Meld u aan bij een CHIP met behulp van uw Microsoft-account (eerdere Live ID).
+2. Selecteer het incentives-programma waarin u bent geïnteresseerd.
 
-2. Selecteer het programma voor prikkels waarin u geïnteresseerd bent.
+3. Selecteer **onder Programmaoverzicht** de periode of maand. 
+1. Selecteer Berekeningsdetails in de vervolgkeuzelijst.
+1.  Klik **op Openen** op de meldingsbalk om uw instructie te openen.
 
-3. Onder **programma samenvatting** selecteert u periode of maand. 
-1. Selecteer berekenings Details in de vervolg keuzelijst.
-1.  Klik op de meldings balk op **openen** om uw overzicht te openen.
+### <a name="explanation-of-details-tabs"></a>Uitleg van tabbladen met details
 
-### <a name="explanation-of-details-tabs"></a>Uitleg van de tabbladen Details
-
-|**Tabbesturingselement**|**Definitie**|
+|**TAB-toets**|**Definition**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Bevat details over het programma voor stimulansen voor de geselecteerde tijds periode, waaronder klant naam, overeenkomst, hendel Details|
-|DeltaReport-Pivot|Updates van de laatst gepubliceerde instructie voor alleen Enter prise|
-|DetailReport-Pivot|Samen vatting van betalings gegevens, inclusief valuta en betalings bedrag|
-|Prestatie Details|De basislijn waarde, het prestatie-en groei percentage voor alleen SPLAR|
+|DetailReport-Flatfile|Bevat details voor het incentives-programma voor de geselecteerde periode, waaronder de naam van de klant, overeenkomst, leverdetails|
+|DeltaReport-pivot|Updates van de laatste gepubliceerde instructie voor alleen Enterprise|
+|DetailReport-pivot|Overzicht van betalingsgegevens, inclusief valuta en betalingsbedrag|
+|Prestatiedetails|Basislijnwaarde, prestatie en groeipercentage voor alleen SPLAR|
 
 ## <a name="next-steps"></a>Volgende stappen
 

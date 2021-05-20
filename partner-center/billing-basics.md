@@ -1,32 +1,26 @@
 ---
-title: Overzicht van het Partner Center-facturerings programma
+title: Overzicht van Partner Center facturering
 ms.topic: article
 ms.date: 01/28/2021
-description: Informatie over basis facturering en factuur gegevens voor CSP-partners in het partner centrum. Hierin wordt beschreven hoe u klanten kunt factureren en hoe u uw factuur kunt vinden en lezen.
+description: Meer informatie over basisfacturerings- en factuurgegevens voor CSP-partners in Partner Center. Bevat informatie over het factureren van klanten en het zoeken en lezen van uw factuur.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 7fe03aa2b1d30c1146b8a14b6659c82cdcc52d9d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964371"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149227"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Factureringsoverzicht voor partners van het CSP-programma die in Partner Center werkzaam zijn 
 
-**Juiste rollen**
+**Juiste rollen:** beheeragent | Factureringsbeheerders | Globale beheerders | Helpdeskagent | Verkoopagent
 
-- Beheer agent
-- Factureringsbeheerder
-- Globale beheerder
-- Helpdesk medewerker
-- Verkoop agent
-
-In dit artikel vindt u de basis informatie over de facturering en de factuur voor CSP-partners in het partner centrum, inclusief hoe u klanten kunt factureren en hoe u uw factuur kunt vinden en lezen.
+Dit artikel bevat de basisfacturerings- en factuurgegevens voor CSP-partners in Partner Center waaronder hoe u klanten kunt factureren en hoe u uw factuur kunt vinden en lezen.
 
 
 ## <a name="find-your-bill"></a>Uw factuur zoeken
@@ -35,115 +29,115 @@ Uw factuur zoeken:
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
-2. Kies **facturering** in het menu van het partner centrum.
+2. Kies in Partner Center menu **Facturering.**
 
-3. Op de **facturerings** pagina kunt u uw laatste factuur downloaden of vorige facturen downloaden in de sectie **facturerings geschiedenis** .
+3. Op de **pagina Facturering** kunt u uw meest recente factuur downloaden of eerdere facturen downloaden in de **sectie Factureringsgeschiedenis.**
 
-## <a name="bill-your-customers"></a>Uw klanten factureren
+## <a name="bill-your-customers"></a>Uw klanten in rekening brengen
 
-Micro soft heeft geen vereisten of voor waarden voor het afhandelen van uw eigen facturering.
+Microsoft heeft geen vereisten of voorwaarden over hoe u uw eigen facturering verwerkt.
 
-Raadpleeg uw [reconciliatie bestanden](#find-your-bill)om het gebruik van de klant te bepalen. Gebruik de naam van de klant en andere relevante velden om het gebruik te bepalen.
+Zie uw afstemmingsbestanden om het gebruik van een klant [te bepalen.](#find-your-bill) Gebruik de naam van de klant en andere relevante velden om het gebruik te bepalen.
 
-### <a name="billing-types"></a>Facturerings typen
+### <a name="billing-types"></a>Factureringstypen
 
-Facturerings typen in het partner centrum zijn onder andere **op licenties gebaseerd op facturen**, **facturering op basis van gebruik** en **eenmalige facturering**. 
+Factureringstypen in Partner Center omvatten facturering op basis van **licenties,** facturering op **basis** van gebruik en een **een time-facturering.** 
 
-### <a name="billing-currency"></a>Facturerings valuta
+### <a name="billing-currency"></a>Factureringsvaluta
 
-Factuur op basis van **licentie en op basis van gebruik**: u wordt gefactureerd voor product (en) in de valuta van het land of de regio waarin u zich bevindt. U factureert hetzelfde, ongeacht de locatie van de klant naar wie u de producten hebt verkocht.
+**Facturering op basis van licenties** en gebruik: er worden producten gefactureerd in de valuta van het land of de regio waarin u zich bevindt. U wordt hetzelfde gefactureerd, ongeacht de locatie van de klant aan wie u het product(en) hebt verkocht.
 
-**Eenmalige facturering**: vanaf januari 28, 2021, worden partners in de regio EU/EVA en UK die nieuwe klanten hebben en bestaande CSP-klanten nieuwe Commerce aanbiedingen kopen voor de eerste keer dat de tenants die zijn gemaakt vóór 11 mei 2020, worden gefactureerd voor die aankopen in de valuta van de partner locatie.  Partners die zich buiten de EU/EVA-en UK-regio bevinden, blijven in rekening gebracht voor de valuta van de partner. Lees meer over [eenmalige en recurrent](azure-plan-billing.md). 
+Een **time-time** facturering: vanaf 28 januari 2021 worden partners in de regio EU/EFTA en het VK die nieuwe klanten en bestaande CSP-klanten hebben die voor het eerst nieuwe commerceaanbiedingen aanschaffen waarvan de tenants vóór 11 mei 2020 zijn gemaakt, gefactureerd voor deze aankopen in partnerlocatievaluta.  Partners die zich buiten de regio EU/EFTA en het VK bevinden, worden nog steeds gefactureerd in partnerlocatievaluta. Lees meer over [eenmalige en terugkerende](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Facturen
 
-Uw factuur is een samen vatting van alle kosten voor de huidige facturerings periode. Dit omvat kosten voor het programma, alle producten en alle klanten. Voor voor beelden van maandelijkse en jaarlijkse facturerings scenario's raadpleegt u [algemene facturerings scenario's](common-billing-scenarios.md)
+Uw factuur is een overzicht van alle kosten voor de huidige factureringsperiode. Dit omvat kosten voor het hele programma, alle producten en alle klanten. Zie Veelvoorkomende factureringsscenario's voor voorbeelden van maandelijkse en jaarlijkse [factureringsscenario's](common-billing-scenarios.md)
 
-Voor op gebruik en op licenties gebaseerde facturering is uw factuur binnen twee (2) dagen beschikbaar vanaf de door u geselecteerde factureringsdatum (in UTC-tijd). Als u bijvoorbeeld een facturerings datum van 12 september hebt, begint het proces voor het genereren van de factuur om twaalf: am UTC op de 13 en voltooid op 12: am UTC op de 14. 
+Voor op gebruik en op licenties gebaseerde facturering is uw factuur binnen twee (2) dagen beschikbaar vanaf de door u geselecteerde factureringsdatum (in UTC-tijd). Als u bijvoorbeeld een factureringsdatum van 12 september hebt, begint het proces voor het genereren van facturen op 13 september om 12:00 uur UTC en wordt het proces op de 14e om 12:00 uur UTC voltooid. 
 
-Voor eenmalige en terugkerende facturering wordt de factureringsperiode aangepast aan de kalendermaand en de factuur-/afstemmingsbestanden zijn niet later beschikbaar dan de achtste van elke maand. Lees voor meer informatie [Azure plan-facturering](azure-plan-billing.md). 
+Voor eenmalige en terugkerende facturering wordt de factureringsperiode aangepast aan de kalendermaand en de factuur-/afstemmingsbestanden zijn niet later beschikbaar dan de achtste van elke maand. Lees Facturering voor [Azure-plan voor meer informatie.](azure-plan-billing.md) 
 
-## <a name="price-lists"></a>Prijs lijsten
+## <a name="price-lists"></a>Prijslijsten
 
-Prijs lijsten worden maandelijks bijgewerkt. Preview-prijs lijsten zijn vooraf beschikbaar op één (1) maand.
+Prijslijsten worden maandelijks bijgewerkt. Preview-prijslijsten zijn één (1) maand van tevoren beschikbaar.
 
-Als u de meest recente Program ma's en aanbiedingen van de Cloud solution provider wilt bekijken, gaat u in het dash board van de Partner Portal naar **verkoop > prijzen en aanbiedingen**. U vindt afzonderlijke prijs lijsten voor de verschillende soorten producten die beschikbaar zijn. De volgende prijs lijsten zijn beschikbaar op de pagina **prijzen en aanbiedingen** :
+Als u de meest recente Cloud Solution Provider programma's en aanbiedingen wilt zien, gaat u in het partnerportaldashboard naar Verkopen **> prijzen en aanbiedingen.** U vindt afzonderlijke prijslijsten voor de verschillende typen producten die beschikbaar zijn. De volgende prijslijsten zijn beschikbaar op de **pagina Prijzen en** aanbiedingen:
 
-Prijzen **op basis van licenties** worden gegarandeerd voor de duur van het abonnement, meestal 12 maanden vanaf de aankoop datum. 
+**Prijzen op basis** van licenties worden gegarandeerd voor de duur van het abonnement, meestal 12 maanden na de aankoopdatum. 
 
-**Prijzen op basis van gebruik** kunnen maandelijks worden gewijzigd.
+**Op gebruik gebaseerde prijzen** kunnen op maandelijkse basis worden gewijzigd.
 
-**Prijzen voor producten, services en software-abonnementen** worden gegarandeerd via de duur van het abonnement. Prijzen kunnen echter veranderen wanneer u verlengt.
+**Prijzen voor producten, services en softwareabonnementen worden** gegarandeerd via de duur van het abonnement. Prijzen kunnen echter veranderen wanneer u vernieuwt.
 
-U ziet de **aanpassingen** en **tegoeden** op uw volgende facturerings factuur nadat het tegoed of de correctie is toegepast.
+U ziet achteraf **correcties en** **tegoeden** op uw volgende factureringsfactuur nadat het tegoed of de correctie is toegepast.
 
 ## <a name="payment-terms"></a>Betalingsvoorwaarden
 
-De betalings voorwaarden zijn netto 60 dagen. Facturen moeten worden betaald met de verval datum van de factuur (60 dagen na de facturerings datum), of uw account is achterloopt, wat van invloed kan zijn op uw inschrijving in CSP. 
+Betalingsvoorwaarden zijn netto 60 dagen. Facturen moeten worden betaald op de einddatum van de factuur (60 dagen na de factureringsdatum), anders is uw account afgeschreven, wat van invloed kan zijn op uw inschrijving in CSP. 
 
-U kunt de volledige functionaliteit van uw uitgestelde accounts terugkrijgen wanneer u het achterstallige bedrag betaalt.
+U kunt de volledige functionaliteit van uw opgeschorte accounts opnieuw krijgen wanneer u het verschuldigde bedrag betaalt.
 
-Zodra de gecorrigeerde facturerings gegevens zijn verstrekt, wordt uw betaling binnen vijf werk dagen op de facturerings pagina van het partner centrum weer gegeven.
+Zodra de gecorrigeerde factureringsgegevens zijn opgegeven, is uw betaling binnen vijf werkdagen zichtbaar op Partner Center factureringspagina.
 
-### <a name="taxes-and-vat"></a>Belastingen en BTW
+### <a name="taxes-and-vat"></a>Belastingen en btw
 
-U wordt belast op basis van uw gegevens (niet de details van uw klanten) omdat de facturerings relatie tussen micro soft en u is. U kunt uw belasting-id verzenden tijdens het installatie proces van het account of later een ondersteunings aanvraag. U ziet de wijzigingen die zijn doorgevoerd in de volgende facturerings cyclus.
+U wordt belast op basis van uw gegevens (niet de gegevens van uw klanten), omdat de factureringsrelatie tussen Microsoft en u is. U kunt uw belasting-id indienen tijdens het installatieproces van het account of later via een ondersteuningsaanvraag. De wijzigingen worden weergegeven in uw volgende factureringscyclus.
 
-Voor **inhouding en BTW-vrijs telling** moet u de belasting documentatie indienen via een ondersteunings aanvraag. U ziet de wijzigingen en de juiste restituties in uw volgende facturerings cyclus. Meer informatie over het [verzenden van bron belasting](withholding-tax-credit-form.md). 
+Voor **bron- en btw-vrijstelling** moet u belastingdocumentatie indienen via een ondersteuningsaanvraag. U ziet de wijzigingen en de juiste restituties voor uw volgende factureringscyclus. Meer informatie over het [indienen van bronbelasting](withholding-tax-credit-form.md). 
 
-Voor een BTW- **uitzonde ring voor de toegevoegde waarde** moet u uw BTW-ID (gevalideerd door micro soft) verzenden via een service aanvraag.  Als de BTW-ID wordt verzonden na het instellen van het account (via een ondersteunings aanvraag), is voor uw facturen vóór die aanvraag geen BTW-ID in factuur-PDF vastgelegd. U ziet de wijzigingen in uw volgende facturerings cyclus.
+Voor **btw-vrijstelling (value-added tax)** moet u uw btw-id (gevalideerd door Microsoft) indienen via een serviceaanvraag.  Als de btw-id wordt verzonden na de installatie van het account (via een ondersteuningsaanvraag), hebben uw facturen vóór die aanvraag geen btw-nummer op factuur-PDF. U ziet de wijzigingen in de volgende factureringscyclus.
 
-U kunt meer belasting gegevens vinden bij uw gemeentelijke belasting kantoor of belasting adviseur.
+U vindt meer belastinggegevens van uw lokale btw-kantoor of belastingadviseur.
 
 ### <a name="adjustmentscreditscancellations"></a>Aanpassingen/tegoeden/annuleringen
 
-Annulerings tegoeden voor services waarvoor een licentie is gebaseerd, zijn Pro-nominaal geclassificeerd voor ongebruikte dagen voor de tussentijdse annuleringen (en de licentie neemt af op basis van deze formule:
+Annuleringstegoeden voor gelicentieerde services worden pro-rated voor ongebruikte dagen voor annuleringen halverwege de cyclus (en de licentie neemt af volgens deze formule:
 
-[ROUND ((afronden ((+ prijs per eenheid * aantal/aantal dagen in Pro-nominale maand, 2) * aantal dagen Pro-nominaal)/aantal, 2) * hoeveelheid] 
+[ROUND((ROUND(Unit Price * Quantity/Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity] 
 
-Micro soft brengt geen kosten voor vroegtijdige beëindiging in rekening voor annulering van services op basis van licenties.
+Microsoft maakt geen kosten voor vroegtijdige beëindiging in rekening voor annulering van op licenties gebaseerde services.
 
-### <a name="billing-rules"></a>Facturerings regels
+### <a name="billing-rules"></a>Factureringsregels
 
-Er zijn momenteel twee typen facturerings frequenties: jaarlijks & maandelijks.  
-Service tarieven met data limiet kunnen worden gewijzigd in de factuur cyclus.
+Er zijn momenteel twee soorten factureringsfrequenties: & per maand.  
+Servicetarieven naar gebruik kunnen binnen de factuurcyclus veranderen.
 
-#### <a name="annual-billing-rules"></a>Jaarlijkse facturerings regels 
+#### <a name="annual-billing-rules"></a>Jaarlijkse factureringsregels 
 
-- Abonnementen zijn jaarlijks en automatisch vernieuwd.  
+- Abonnementen worden jaarlijks en automatisch vernieuwd.  
 
-- Facturering is in 12 maandelijkse betalingen of één jaarlijkse betaling per jaar abonnement. 
+- Facturering valt onder 12 maandelijkse betalingen of één jaarlijkse betaling per jaarabonnement. 
 
-- De volgende facturerings periode voor op licenties gebaseerde services worden vooraf in rekening gebracht, op basis van het aantal licenties aan het einde van de vorige facturerings periode. 
+- U wordt vooraf gefactureerd voor de volgende factureringsperiode voor op licenties gebaseerde services, op basis van het aantal licenties aan het einde van de voorafgaande factureringsperiode. 
 
-- U wordt gefactureerd per saldo voor eventuele wijzigingen in het aantal licenties (pro rata berekening op basis van licentie dagen). Pro rata berekening maakt gebruik van de volgende formule: 
+- Eventuele wijzigingen in het aantal licenties (pro-rataberekening op basis van licentiedagen) worden achteraf gefactureerd/gefactureerd. Pro-rataberekening maakt gebruik van de volgende formule: 
 
-  - [ROUND ((afronden ((+ prijs per eenheid * aantal/aantal dagen in Pro-nominale maand, 2) * aantal dagen Pro-nominaal)/aantal, 2) * hoeveelheid] 
+  - [ROUND((ROUND(Eenheidsprijs * Hoeveelheid/aantal dagen in pro-rated maand, 2) * Aantal dagen naar pro-rated) / Hoeveelheid, 2) * Hoeveelheid] 
 
-- Betalingen worden gefactureerd voor verkochte licenties, geen licenties ingericht 
+- Betalingen worden gefactureerd voor verkochte licenties, niet voor licenties die zijn ingericht 
 
-#### <a name="monthly-billing-rules"></a>Facturerings regels per maand 
+#### <a name="monthly-billing-rules"></a>Maandelijkse factureringsregels 
 
-- Abonnementen zijn maand tot maand en worden automatisch verlengd tegen de nieuwe service tarieven met data limiet. U wordt elke maand gefactureerd voor het gebruik van de vorige maand. 
+- Abonnementen zijn maandelijks en worden automatisch verlengd tegen de nieuwe servicetarieven naar gebruik. U wordt elke maand gefactureerd voor het gebruik van de vorige maand. 
 
-- Service tarieven met data limiet kunnen worden gewijzigd in de factuur cyclus. 
+- Servicetarieven naar gebruik kunnen binnen de factuurcyclus veranderen. 
 
-- De factuur die u ontvangt, heeft alleen de kosten die voor die maand zijn samengevoegd. 
+- Op de factuur die u ontvangt, worden alleen de kosten voor die maand bij rekening gebracht. 
 
 
-### <a name="credit-notes"></a>Credit nota's
+### <a name="credit-notes"></a>Tegoednotities
 
-Mogelijk moet u om de volgende redenen een tegoed of herfacturering aanvragen:
+Mogelijk moet u om de volgende redenen een tegoed of rebill aanvragen:
 
-- U moet wijzigingen aanbrengen in adres-of inkoop orders.
-- Er is een belasting restitutie toegepast nadat de factuur is gegenereerd. U kunt een tegoed of herfacturering aanvragen om de belasting restitutie terug te krijgen in de oorspronkelijke factuur. Dit geldt ook voor restituties. U kunt een tegoed of herfacturering aanvragen van de oorspronkelijke factuur en vervolgens terugstorting doen.
+- U moet correcties voor adres- of inkooporders toepassen.
+- Er is een btw-restitutie toegepast nadat de factuur is gegenereerd. U kunt een tegoed of rebill aanvragen om de belastingteruggave terug te krijgen op de oorspronkelijke factuur. Hetzelfde geldt voor restituties. U kunt een tegoed of gefactureerde factuur aanvragen en vervolgens een restitutie aanvragen.
 
-**Voor alle eenmalige en terugkerende trans acties** kan micro soft een credit nota uitgeven wanneer u een tegoed of herfacturering aanvraagt. De factuur wordt geannuleerd wanneer het tegoed wordt uitgegeven. 
+**Voor alle eenmalige en terugkerende transacties** kan Microsoft een tegoednota uitgeven wanneer u een tegoed of een nieuwe facturering aanvraagt. De factuur wordt geannuleerd wanneer het tegoed wordt uitgegeven. 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Meer informatie over uw factuur-en afstemmings bestand](read-your-bill.md)
-- [Algemene facturerings scenario's voor CSP-programma partners](common-billing-scenarios.md)
+- [Inzicht in uw factuur- en afstemmingsbestand](read-your-bill.md)
+- [Algemene factureringsscenario's voor CSP-programmapartners](common-billing-scenarios.md)
 - [Factureringsfrequentie wijzigen](common-billing-scenarios.md)
-- [Order geschiedenis van de klant](csp-offers.md) 
+- [Ordergeschiedenis van klant](csp-offers.md) 
 - [Prijzen en aanbiedingen](pricing-and-offers.md)

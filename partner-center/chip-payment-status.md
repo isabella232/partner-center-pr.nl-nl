@@ -2,39 +2,37 @@
 title: De betalingsstatus in CHIP controleren
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Meer informatie over hoe u het Channel prikkel platform (CHIP) kunt gebruiken om de betalings status te controleren. Houd er rekening mee dat de CHIP aan het einde van 2021 wordt afgetrokken.
+description: Meer informatie over het gebruik van chip (Channel Incentives Platform) om de betalingsstatus te controleren. HOUD er rekening mee dat CHIP eind 2021 wordt ingetrokken.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570532"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148887"
 ---
-# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Controleer de betalings status in het Channel prikkeling platform (CHIP)
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Betalingsstatus controleren in chip (Channel Incentives Platform)
 
-**Juiste rollen**
-
-- CHIP beheerder
+**Juiste rollen:** CHIP-beheerder
 
 >[!NOTE]
->Het CHIP platform wordt aan het einde van 2021.
+>Het CHIP-platform wordt eind 2021 in gebruik genomen.
 
-## <a name="payment-status-for-the-enterprise-and-splar-programs"></a>Betalings status voor de Program ma's Enter prise en SPLAR
+## <a name="payment-status-for-the-enterprise-and-splar-programs"></a>Betalingsstatus voor de Enterprise- en SPLAR-programma's
 
-Volg de onderstaande stappen om de status van uw betaling te controleren in de CHIP van de Enter prise-en SPLAR-Program Ma's:
+Volg de onderstaande stappen om uw betalingsstatus in CHIP te controleren voor de Enterprise- en SPLAR-programma's:
 
-1. Meld u aan bij de CHIP.
+1. Meld u aan bij CHIP.
  
-1. Selecteer de koppeling **Enter prise** -of **SPLAR** -programma op het scherm van de chip om het dash board te openen. Het dash board is het overzichts scherm voor al uw inkomsten en betalingen.
+1. Selecteer de koppeling **Enterprise- of** **SPLAR-programma** op het CHIP-startscherm om het dashboard te openen. Het dashboard is het overzichtsscherm voor al uw inkomsten en betalingen.
  
-1. Selecteer naar  **Excel exporteren** in de vervolg keuzelijst **selecteren** om de volledige details van de inkomsten, betalingen of berekeningen te downloaden.
+1. Als u volledige details van inkomsten, betalingen of berekeningen wilt downloaden, selecteert u Exporteren naar  **Excel** in de **vervolgkeuzelijst** Selecteren.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Geschiktheid van oplossings beoordeling](chip-solution-assessment.md) 
+- [Geschiktheid voor oplossingsevaluatie](chip-solution-assessment.md) 

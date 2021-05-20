@@ -1,66 +1,63 @@
 ---
-title: Toep assen op geavanceerde specials
+title: Aanvragen voor geavanceerde specialisaties
 ms.topic: how-to
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Versterk uw bedrijfs profiel in de micro soft Partner Directory. Meer informatie over het gebruik van partner Center voor het Toep assen op en het verdienen van geavanceerde specials.
+description: Uw bedrijfsprofiel versterken in de Microsoft-partnerdirectory. Meer informatie over het gebruik Partner Center om u aan te melden voor geavanceerde specialisaties en deze te verdienen.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557780"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150502"
 ---
-# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Gebruik Partner Center om een geavanceerde specialisatie toe te passen en de status te controleren
+# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Gebruik Partner Center om geavanceerde specialisaties aan te melden en hun status te controleren
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Accountbeheerder
 
-- Globale beheerder
-- Accountbeheerder
+In dit artikel wordt beschreven hoe u Partner Center dashboard gebruikt om u aan te melden voor een geavanceerde [specialisatie,](advanced-specializations.md)uw voortgang te controleren en de benodigde stappen en validaties uit te voeren. U ziet ook voorbeelden van het gebruik van Partner Center om bepaalde geavanceerde specialisaties te verkrijgen waarvoor een audit- of klantverwijzing is vereist.
 
-In dit artikel wordt beschreven hoe u het dash board van partner Center kunt gebruiken om een [Geavanceerde specialisatie](advanced-specializations.md)uit te voeren, uw voortgang te controleren en de benodigde stappen en validaties uit te voeren. U ziet ook voor beelden van het gebruik van partner centrum voor het bereiken van bepaalde geavanceerde specials waarvoor een audit of klant verwijzingen zijn vereist.
+Zie geavanceerde specialisaties voor meer informatie over de voordelen van geavanceerde specialisaties en hun specifieke vereisten Microsoft Partner Network [specialisaties.](https://partner.microsoft.com/membership/advanced-specialization)
 
-Zie [Microsoft Partner Network Advanced specials](https://partner.microsoft.com/membership/advanced-specialization)(Engelstalig) voor meer informatie over de voor delen van geavanceerde specialisatie en hun specifieke vereisten.
+## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Gebruik Partner Center om geavanceerde specialisaties aan te melden of hun status te controleren
 
-## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Gebruik Partner Center om een geavanceerde specialisatie toe te passen of de status te controleren
+Als u in aanmerking wilt komen voor een geavanceerde specialisatie, [](https://partner.microsoft.com/membership/competencies) moet u eerst voldoen aan bepaalde vereisten, zoals een Gold-competentie in een gerelateerd gebied. Vervolgens moet u de volgende stappen Partner Center, vereisten en Microsoft-validaties uitvoeren voor die geavanceerde specialisatie.
 
-Als u in aanmerking wilt komen voor een geavanceerde specialisatie, moet u eerst voldoen aan bepaalde vereisten, zoals een goud [competentie](https://partner.microsoft.com/membership/competencies) in een verwant gebied. U moet vervolgens in het partner centrum Toep assen en de belangrijkste stappen, vereisten en micro soft-validaties voor die geavanceerde specialisatie volt ooien.
+Veel van het proces is beschikbaar vanuit het Partner Center dashboard. Alleen gebruikers met een bepaalde Partner Center [hebben](permissions-overview.md) echter toegang tot dit Partner Center gebied.
 
-Veel van het proces is beschikbaar in het dash board van de partner centrum. Alleen gebruikers met een bepaalde partner centrum- [rol](permissions-overview.md) hebben echter toegang tot dit partner Center-gebied.
-
-Voor toegang tot dit gebied moet u de rol van MPN- **account beheerder** of **globale beheerder** hebben voor het micro soft partner-account van uw organisatie.
+Als u toegang wilt krijgen tot dit gebied,  moet u de rol van **MPN-accountbeheerder** of globale beheerder krijgen voor het Microsoft-partneraccount van uw organisatie.
 
 ### <a name="follow-these-steps-to-access-this-area"></a>Volg deze stappen om toegang te krijgen tot dit gebied:
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
-2. Selecteer de sectie **MPN** van het menu partner centrum, gevolgd door **adv. specials**. Het menu wordt uitgevouwen om alle Geavanceerd beschik bare specialisaties weer te geven.
+2. Selecteer de **MPN-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
 
-3. Als u details wilt weer geven, selecteert u de naam van de geavanceerde specialisatie. U ziet specifieke vereisten en stappen, uw huidige status en koppelingen naar verdere stappen of resources.
+3. Als u details wilt weergeven, selecteert u de naam van de geavanceerde specialisatie. U ziet specifieke vereisten en stappen, uw huidige status en koppelingen naar verdere stappen of resources.
 
-   U kunt teruggaan naar dit gebied van partner Center om de huidige status te bekijken en zo een geavanceerde specialisatie te bereiken.
+   U kunt terugkeren naar dit gebied van Partner Center om uw huidige status te zien bij het bereiken van een geavanceerde specialisatie.
 
-4. Nadat u alle vereisten voor een geavanceerde specialisatie hebt voltooid, kunt u dit gedeelte van partner Center opnieuw controleren om na te gaan of uw status is gewijzigd in **actief** voor een specifieke geavanceerde specialisatie.
+4. Nadat u aan alle vereisten voor een geavanceerde specialisatie hebt voldaan, controleert u  dit gebied van Partner Center opnieuw om te zien of uw status is gewijzigd in Actief voor een specifieke geavanceerde specialisatie.
 
-   Met de status actief wordt automatisch een geavanceerde specialisatie code voor uw **bedrijfs profiel** ingeschakeld. Dit profiel is vervolgens zichtbaar voor alle klanten die proberen [een oplossings provider te vinden](https://www.microsoft.com/solution-providers/home).
+   Met de actieve status wordt automatisch een geavanceerde specialisatietag voor uw **bedrijfsprofiel mogelijk** gemaakt. Dit profiel is vervolgens zichtbaar voor alle klanten die proberen een [oplossingsprovider te vinden.](https://www.microsoft.com/solution-providers/home)
 
-## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Gebruik partner centrum voor het plannen van een audit of het toevoegen van klant verwijzingen voor geavanceerde specials
+## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Gebruik Partner Center om een controle te plannen of klantverwijzingen op te nemen voor geavanceerde specialisaties
 
-In het algemeen moet u voor elke geavanceerde specialisatie een uitgelijnde Gold-competentie hebben behaald samen met andere aangepaste vereisten die uniek zijn voor die geavanceerde specialisatie. Voor sommige geavanceerde specials moet u mogelijk ook het volgende doen:
+Over het algemeen moet u voor elke geavanceerde specialisatie een uitgelijnde gold-competentie hebben verdiend, samen met andere, aangepaste vereisten die uniek zijn voor die geavanceerde specialisatie. Voor sommige geavanceerde specialisaties moet u mogelijk ook het volgende doen:
 
-- Een audit met een auditor van derden plannen
-- Klant verwijzingen opgeven
+- Een controle plannen met een externe auditor
+- Klantverwijzingen verstrekken
 
-Beide taken kunnen worden uitgevoerd in het partner centrum.
+Beide taken kunnen worden uitgevoerd in Partner Center.
 
-Geavanceerde specials waarvoor een audit met een auditor van derden is vereist:
+Geavanceerde specialisaties waarvoor een controle met een externe auditor is vereist, zijn onder andere:
 
-- Analytics op Microsoft Azure
+- Analyse op Microsoft Azure
 - Migratie van Data Warehouse naar Microsoft Azure
 - Kubernetes in Microsoft Azure
 - Migratie van Linux en opensourcedatabase naar Microsoft Azure
@@ -68,59 +65,59 @@ Geavanceerde specials waarvoor een audit met een auditor van derden is vereist:
 - Modernisering van webtoepassingen voor Microsoft Azure
 - Migratie van Windows Server en SQL Server naar Microsoft Azure
 
-Geavanceerde specials waarvoor klant verwijzingen zijn vereist zijn onder andere:
+Geavanceerde specialisaties waarvoor klantverwijzingen nodig zijn, zijn onder andere:
 
 - Overname en wijzigingsbeheer
 - Aanroep voor Microsoft Teams
-- Vergaderingen en Vergader zalen voor micro soft-teams
+- Vergaderingen en vergaderruimten voor Microsoft Teams
 - SAP op Azure
 - Implementatie van teamwork
 - Identiteits- en toegangsbeheer
 - Bedreigingsbeveiliging
 
-In de volgende secties wordt beschreven hoe u een audit plant of klanten referenties levert in het partner centrum.
+In de volgende secties wordt beschreven hoe u een controle kunt plannen of klantverwijzingen kunt verstrekken in Partner Center.
 
-## <a name="schedule-an-audit-with-a-third-party-auditor"></a>Een audit met een auditor van derden plannen
+## <a name="schedule-an-audit-with-a-third-party-auditor"></a>Een controle plannen met een externe auditor
 
-Naast hun eigen vereisten moet u ook een *geplande controle* door geven aan sommige geavanceerde specials. Zie de eerdere lijst met geavanceerde specials waarvoor een controle is vereist.
+Naast hun eigen vereisten moet u voor sommige geavanceerde specialisaties ook slagen voor *een geplande controle.* Zie de eerdere lijst met geavanceerde specialisaties waarvoor een controle is vereist.
 
-Voer vervolgens de volgende stappen uit om een controle in het partner centrum te plannen:
-
-1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
-
-2. Selecteer de sectie **MPN** van het menu partner centrum, gevolgd door **adv. specials**. Het menu wordt uitgevouwen om alle Geavanceerd beschik bare specialisaties weer te geven.
-
-3. Selecteer de naam van de geavanceerde specialisatie waarvoor u een controle wilt plannen. Stel bijvoorbeeld dat u **modernisering van webtoepassingen selecteert om te Microsoft Azure**. De pagina met vereisten wordt vervolgens weer gegeven voor deze geavanceerde specialisatie.
-
-   :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Een voor beeld van een pagina met vereisten voor het verdienen van een specifieke geavanceerde specialisatie.":::
-
-4. Zodra u aan alle vereisten voor deze geavanceerde specialisatie voldoet, kunt u op deze pagina de knop **controle plannen** selecteren.
-
-   - De status blijft **ongewijzigd totdat** u aan alle vereisten op deze pagina voldoet. De knop **controle plannen** blijft ook uitgeschakeld. 
-   - Als aan alle vereisten wordt voldaan samen met de audit, wordt de status gewijzigd in **actief**.
-
-## <a name="provide-customer-references-in-partner-center"></a>Klant verwijzingen opgeven in het partner centrum
-
-Naast hun eigen vereisten moet u ook *klanten referenties* opgeven voor een aantal geavanceerde specials. Zie de eerdere lijst met geavanceerde specials waarvoor klant verwijzingen zijn vereist.
-
-Voer vervolgens de volgende stappen uit om klant referenties op te geven in het partner centrum:
+Volg vervolgens deze stappen om een controle in een Partner Center:
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
-2. Selecteer de sectie **MPN** van het menu partner centrum, gevolgd door **adv. specials**. Het menu wordt uitgevouwen om alle Geavanceerd beschik bare specialisaties weer te geven.
+2. Selecteer de **mpn-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
 
-3. Selecteer de naam van de geavanceerde specialisatie waarvoor u klant referenties moet opgeven. Stel bijvoorbeeld dat u **vergaderingen en Vergader zalen selecteert voor micro soft-teams**.
+3. Selecteer de naam van de geavanceerde specialisatie die vereist dat u een controle wilt plannen. Stel bijvoorbeeld dat u Modernisering van webtoepassingen selecteert om **te Microsoft Azure.** De pagina met vereisten wordt vervolgens weergegeven voor deze geavanceerde specialisatie.
 
-   De pagina met vereisten wordt vervolgens weer gegeven voor deze geavanceerde specialisatie. Naast Gold-competentie, certificeringen en een prestatie vereiste, moet u voor deze geavanceerde specialisatie ook drie klant verwijzingen opgeven die aantonen dat u de mogelijkheid hebt om te implementeren en te beheren.
+   :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Pagina met voorbeeldvereisten met vereisten voor het verdienen van een specifieke geavanceerde specialisatie.":::
 
-   :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Voor beeld van de pagina met voor waarden van geavanceerde specialisatie waarvoor klant verwijzingen zijn vereist.":::
+4. Zodra u aan alle vereisten voor deze geavanceerde specialisatie voldoet, kunt u op deze pagina de knop **Controle** plannen selecteren.
 
-4. Als u voldoet aan alle vereisten die op deze pagina worden weer gegeven en u klant verwijzingen opgeeft, blijft uw status **niet gestart**. Als aan alle vereisten wordt voldaan, wordt de status gewijzigd in **actief**.
+   - Totdat u aan alle vereisten op deze pagina voldoet, blijft uw status **Niet gestart.** De **knop Controle plannen** blijft ook uitgeschakeld. 
+   - Zodra aan alle vereisten is voldaan samen met de controle, wordt uw status gewijzigd in **Actief.**
+
+## <a name="provide-customer-references-in-partner-center"></a>Geef klantverwijzingen op in Partner Center
+
+Naast hun eigen vereisten moet u voor sommige geavanceerde specialisaties ook *klantverwijzingen verstrekken.* Zie de eerdere lijst met geavanceerde specialisaties waarvoor klantverwijzingen zijn vereist.
+
+Volg vervolgens deze stappen om klantverwijzingen op te geven in Partner Center:
+
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
+
+2. Selecteer de **mpn-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
+
+3. Selecteer de naam van de geavanceerde specialisatie die vereist dat u klantverwijzingen op geeft. Stel bijvoorbeeld dat u Vergaderingen en Vergaderruimten **voor Microsoft Teams selecteert.**
+
+   De pagina met vereisten wordt vervolgens weergegeven voor deze geavanceerde specialisatie. Naast goudkleurige competentie, certificeringen en een prestatievereiste, moet u voor deze geavanceerde specialisatie ook drie klantverwijzingen bieden die laten zien hoe u in staat bent om te implementeren en beheren.
+
+   :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Voorbeeld van de pagina met vereisten voor geavanceerde specialisaties, die verwijzingen van klanten vereist.":::
+
+4. Totdat u voldoet aan alle vereisten die op deze pagina worden weergegeven en klantverwijzingen hebt verstrekt, blijft uw status **Niet gestart.** Zodra aan alle vereisten is voldaan, wordt uw status gewijzigd in **Actief.**
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Meer informatie over [Geavanceerde specials, hun voor delen en unieke vereisten](https://partner.microsoft.com/membership/advanced-specialization).
+- Meer informatie over [geavanceerde specialisaties, hun voordelen en unieke vereisten](https://partner.microsoft.com/membership/advanced-specialization).
 
-- Meer informatie over het [bereiken van micro soft Silver-of Gold-lidmaatschaps competenties](learn-about-competencies.md).
+- Meer informatie over [het verkrijgen van Microsoft Silver- of Gold-lidmaatschapscompetenties.](learn-about-competencies.md)
 
 - Meer informatie over [Microsoft Partner Network competenties](https://partner.microsoft.com/membership/competencies).

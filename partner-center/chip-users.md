@@ -2,39 +2,37 @@
 title: Gebruikers toevoegen aan uw CHIP-account
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Meer informatie over het toevoegen van gebruikers aan uw CHIP-account (Channel prikkel platform). Houd er rekening mee dat het CHIP platform aan het einde van 2021 wordt teruggetrokken.
+description: Meer informatie over het toevoegen van gebruikers aan uw CHIP-account (Channel Incentives Platform). Houd er rekening mee dat het CHIP-platform eind 2021 wordt ingetrokken.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 954011221af9c2c8d1da06de6fa6853a38252f2d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: e037d616fff8416fc15e59b4c58639f647c16841
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570514"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148785"
 ---
-# <a name="add-users-to-your-channel-incentives-platform-chip-account"></a>Gebruikers toevoegen aan uw Channel prikkel platform-account (CHIP)
+# <a name="add-users-to-your-channel-incentives-platform-chip-account"></a>Gebruikers toevoegen aan uw CHIP-account (Channel Incentives Platform)
 
-**Juiste rollen**
-
-- Primaire beheerder van de contact CHIP
+**Juiste rollen:** Primaire contactpersoon CHIP-beheerder
  
 >[!NOTE]
->Het CHIP platform wordt aan het einde van 2021.
+>Het CHIP-platform wordt eind 2021 in gebruik genomen.
 
 ## <a name="add-users"></a>Gebruikers toevoegen
 
-De primaire contact persoon voor het CHIP account van uw bedrijf kan gebruikers toevoegen.
+De primaire contactpersoon voor het CHIP-account van uw bedrijf kan gebruikers toevoegen.
 
-1. Selecteer **gebruiker toevoegen** onder **Ik moet** menu.
-2. Persoonlijke gegevens invoeren, **programma** selecteren, **gebruikersrol toewijzen**.
-3. Selecteer **rol toevoegen**.
-4. Selecteer **uitnodiging verzenden**.
-Een bericht bevestigt dat de gebruiker een uitnodigings-e-mail heeft verzonden om zich bij het programma te registreren met de juiste rol.
+1. Selecteer **Add User** onder het menu I Need **To.**
+2. Voer persoonlijke gegevens in, **selecteer Programma**, **Gebruikersrol toewijzen.**
+3. Selecteer **Rol toevoegen.**
+4. Selecteer **Uitnodiging verzenden.**
+Er wordt een bericht weergegeven waarin wordt bevestigd dat de gebruiker een uitnodigingsmail heeft ontvangen om zich in te schrijven voor het programma met de juiste rol.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [De status van de CHIP betaling controleren](chip-payment-status.md)
+- [Chip-betalingsstatus controleren](chip-payment-status.md)

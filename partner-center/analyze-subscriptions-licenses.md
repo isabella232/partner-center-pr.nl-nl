@@ -1,6 +1,6 @@
 ---
 title: Abonnementen en licenties analyseren
-description: Meer informatie over het gebruik van de metrische gegevens op de pagina abonnement en licentie Analytics om uw successen en gebieden te identificeren die meer aandacht vereisen.
+description: Meer informatie over het gebruik van de metrische gegevens op de pagina Abonnements- en licentieanalyse om uw successen en gebieden te identificeren die meer aandacht nodig hebben.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,86 +9,81 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103788"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150145"
 ---
-# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analyseer abonnementen en licenties om u te helpen bij het aansturen van zakelijke beslissingen en nieuwe doelen
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Abonnementen en licenties analyseren om zakelijke beslissingen en nieuwe doelen te realiseren
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent
 
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Beheer agent
-- Verkoop agent
+Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegevens op **de pagina Abonnements-** en licentieanalyse om uw successen en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.
 
-Gegevens stations kunnen zakelijke beslissingen nemen. Gebruik de metrische gegevens op de pagina **abonnement en licentie Analytics** om uw successen en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie wanneer u nieuwe zakelijke doelen plant.
-
-**CSP TTM-omzet (USD)**: deze metriek vertegenwoordigt de geaggregeerde CSP (gefactureerd) voor de periode van 12 maanden (TTM) voor de partner locatie accounts en de wereld wijde partner account (PGA) waaraan dit CSP-account is gekoppeld. Als u andere CSP-accounts hebt met een andere PGA, moet u zich aanmelden bij elk van de providers om de bijbehorende geaggregeerde TTM-omzet weer te geven.  Klik op de koppeling Details downloaden om een uitsplitsing van de TTM-omzet (USD) per MPN-ID op te halen.
+**TTM-omzet CSP (USD)**: deze metrische waarde vertegenwoordigt de geaggregeerde gefactureerde CSP-omzet (USD) voor de na twaalf maanden (TTM) voor de partnerlocatieaccounts en het Partner Global Account (PGA) waar dit CSP-account aan is gekoppeld. Als u andere CSP-accounts met een andere PGA hebt, moet u zich aanmelden bij elk van deze accounts om de bijbehorende geaggregeerde TTM-omzet weer te geven.  Klik op de koppeling met downloadgegevens voor een uitsplitsing van de TTM-omzet (USD) per MPN-id.
 
 >[!NOTE]
->Prijzen voor lokale valuta's (verouderde commerce-FX) in het commerciële beheer worden binnen +/-5% van Amerikaanse dollars beheerd. De verouderde omruil koers (FX) van Commerce wijkt af van de facturerings-FX-tarieven die door Azure worden gebruikt in de moderne commerce-ervaring. De moderne commerce-tarieven voor facturering zijn gebaseerd op de tarieven van micro soft P&L (de FX-tarieven van het Reuters van Schatkist papier). Verouderde commerce-FX-tarieven zijn vertrouwelijk.
+>Lokale valutaprijzen (Legacy Commerce FX) in Commercieel worden beheerd tot binnen +/-5% van Amerikaanse dollars. De Legacy Commerce Exchange Rate (FX) verschilt van de FX-tarieven voor facturering die door Azure worden gebruikt in de Modern Commerce-ervaring. De FX-tarieven voor facturering voor Modern Commerce zijn gebaseerd op Microsoft P&L-tarieven (Fx Fx-tarieven van de schatkistfeed). Legacy Commerce FX-tarieven zijn vertrouwelijk van Microsoft.
 
 
-De rest van het rapport kan worden gedraaid op basis van de volgende producten:
+De rest van het rapport kan worden draaien op basis van de volgende producten:
 
- - **Dynamics 365**: Dynamics 365-gegevens  
- - **EMS**: gegevens van ENTER prise Management Services  
- - **Microsoft 365**: Microsoft 365 gegevens  
- - **Office 365**: Office 365-gegevens  
+ - **Dynamics 365:** Dynamics 365-gegevens  
+ - **EMS:** Enterprise Management Services-gegevens  
+ - **Microsoft 365:** Microsoft 365 gegevens  
+ - **Office 365:** Office 365-gegevens  
 
 
-## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Typen abonnements-en licentie gegevens die u kunt weer geven
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Typen metrische gegevens over abonnementen en licenties die u kunt bekijken
 
 We volgen de volgende metrische gegevens:
 
 **Samenvatting**  
- - **Verkochte abonnementen**: aantal abonnementen dat is gemaakt voor de opgegeven tijds periode  
+ - **Verkochte abonnementen:** aantal abonnementen dat is gemaakt voor de opgegeven periode  
   
- - **Verkochte licenties**: aantal verkochte licenties voor de opgegeven periode  
+ - **Verkochte licenties:** aantal verkochte licenties voor de opgegeven periode  
   
- - **Abonnementen die in 30 dagen worden verlengd**: aantal abonnementen waarbij de status actief is voor de opgegeven periode en waarvoor **autoverlengen** waar is
+ - **Abonnementen die binnen 30** dagen worden verlengd: aantal abonnementen waarbij de status actief is gedurende de opgegeven periode en waarbij **Autorenew** waar is
  
- - **Actieve abonnementen**: abonnementen waarbij de status **actief** is  
+ - **Actieve abonnementen:** abonnementen waarbij de status **Actief is**  
  
- - **Onderbroken abonnementen**: aantal onderbroken abonnementen, er is geen datum filter  
+ - **Opgeschorte abonnementen:** aantal opgeschorte abonnementen, er is geen datumfilter  
 
-**Product specificatie**
+**Productinsplitsing**
   
- - **Aantal abonnementen**: Top 5 van producten gesorteerd op abonnementen verkocht  
+ - **Aantal abonnementen:** Top 5 producten gesorteerd op verkochte abonnementen  
  
- - **Aantal licenties**: Top 5 van producten op gesorteerde licenties verkocht
+ - **Aantal licenties:** Top 5 producten op gesorteerde verkochte licenties
 
-**Bewaar periode van abonnement**
+**Abonnementsretentie**
 
- - **Verlengde abonnementen**: abonnementen die in de afgelopen 30 dagen zijn vernieuwd  
+ - **Verlengde abonnementen:** abonnementen die in de afgelopen 30 dagen zijn vernieuwd  
 
-**Verloop van abonnement**  
- - **Nieuwe abonnementen**: aantal nieuwe abonnementen voor de periode, met uitzonde ring van proef aanbiedingen  
+**Abonnementsverloop**  
+ - **Nieuwe abonnementen:** aantal nieuwe abonnementen voor de periode, met uitzondering van proefaanbiedingen  
  
- - **Oningerichte abonnementen**: aantal abonnementen dat is opgeheven of opgeschort op datum  
+ - **Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date (Aantal abonnementen dat is gedeprovisioneerd of opgeschort op datum)  
 
-**Onderbroken abonnementen** 
+**Opgeschorte abonnementen** 
  
- - Lijst met alle abonnementen met de status **opgeschort**, met uitzonde ring van proef aanbiedingen  
+ - Lijst met alle abonnementen met de status **Tijdelijk,** met uitzondering van proefaanbiedingen  
   
 **Actieve abonnementen**
 
  - Lijst met alle actieve abonnementen  
 
-**Conversies van proef abonnementen**  
+**Conversies van proefabonnementen**  
 
- - **Conversie van de proef versie**: het aantal **actieve** abonnementen waarvoor een proef versie is betaald tijdens de opgegeven periode  
+ - **Conversie van proefversie:** het aantal **actieve abonnementen** waarbij de proefversie die is betaald voor conversie is opgetreden tijdens de opgegeven periode  
 
-**Proef abonnementen die eindigen op 30 dagen**  
+**Proefabonnementen die eindigen op 30 dagen**  
 
- - Lijst met gestarte experimenten, waarbij de eind datum binnen 30 dagen valt en er geen betaalde begin datum aan het abonnement is gekoppeld  
+ - Lijst met proefversies die zijn gestart, waarbij de einddatum binnen 30 dagen ligt en er geen betaalde begindatum is gekoppeld aan het abonnement  
 
 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Analyseer de prestaties van uw indirecte wederverkopers](analyze-indirect-resellers.md)
+- [De prestaties van uw indirecte resellers analyseren](analyze-indirect-resellers.md)

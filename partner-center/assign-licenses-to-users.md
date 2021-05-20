@@ -1,118 +1,114 @@
 ---
-title: Gebruikers voor klant accounts beheren
+title: Gebruikers beheren voor klantaccounts
 ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 'Gebruikers beheren voor uw klanten in Partner Center: gebruikers accounts maken, gebruikers licenties toevoegen of verwijderen, wacht woorden opnieuw instellen en gebruikers accounts verwijderen of herstellen.'
+description: 'Gebruikers voor uw klanten beheren in Partner Center: maak gebruikersaccounts, voeg gebruikerslicenties toe of verwijder deze, stel wachtwoorden opnieuw in en verwijder of herstel gebruikersaccounts.'
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756087"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149890"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gebruikers en gebruikers licenties voor klant accounts beheren 
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gebruikers en gebruikerslicenties voor klantaccounts beheren 
 
-**Juiste rollen**
-
-- Globale beheerder
-- Beheerder van gebruikers beheer
-- Beheer agent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent
 
 
-U kunt nieuwe gebruikers maken en verwijderen in het account van een klant. U kunt ook een of meer gebruikers accounts die u eerder hebt verwijderd binnen 30 dagen na de verwijdering herstellen. De vorige abonnements toewijzingen van de gebruiker worden ook teruggezet (ervan uitgaande dat hun vorige toewijzing beschikbaar is).
+U kunt nieuwe gebruikers maken en verwijderen in het account van een klant. U kunt ook een of meer gebruikersaccounts herstellen die u eerder binnen 30 dagen na de verwijdering hebt verwijderd. De vorige abonnementstoewijzingen van de gebruiker worden ook hersteld (ervan uitgaande dat de vorige toewijzingen beschikbaar zijn).
 
-Wanneer u nieuwe abonnementen voor een klant koopt, moet de klant u een lijst geven met alle gebruikers die accounts moeten, hun gebruikers machtigingen en welke services elke gebruiker nodig heeft.  
+Wanneer u nieuwe abonnementen voor een klant koopt, moet de klant u een lijst geven met alle gebruikers die accounts nodig hebben, hun gebruikersmachtigingen en welke services elke gebruiker nodig heeft.  
 
 >[!NOTE]
->In het gedeelte **gebruikers en licenties** van het tabblad **klant** worden alle gebruikers weer gegeven die zijn gemaakt in een Tenant van een specifieke klant, met inbegrip van gebruikers die licenties hebben gekocht van een andere CSP-partner of van een ander aankoop kanaal.
+>In **de sectie** Gebruikers en licenties van het tabblad Klant ziet u alle gebruikers die zijn gemaakt in de tenant van een specifieke klant, met inbegrip van gebruikers die licenties hebben aangeschaft van een andere CSP-partner of van een ander aankoopkanaal. 
 
-U kunt [abonnementen toewijzen aan meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md) tegelijk door de namen te importeren met behulp van een [Excel-compatibel CSV-werk blad bestand](adding-multiple-users-to-a-customer-account.md).
+U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md) tegelijk toewijzen door de namen te importeren met behulp van een [excel-compatibel CSV-spreadsheetbestand.](adding-multiple-users-to-a-customer-account.md)
 
 <a href="" id="createuseraccounts"></a>
 
 ## <a name="create-user-accounts-for-a-customer"></a>Gebruikersaccounts maken voor een klant
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
+1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
-2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
+2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
-3. Selecteer **gebruikers en licenties** in het menu klant.
+3. Selecteer gebruikers en licenties in het menu **van de klant.**
 
-4. Voor elke gebruiker die u toevoegt, selecteert u **abonnement toevoegen** en vult u vervolgens de informatie in, met inbegrip van machtigingen en licenties. U moet vervolgens de wijzigingen **Opslaan**.
+4. Voor elke gebruiker die u toevoegt, selecteert u **Abonnement toevoegen** en vult u de gegevens in, inclusief machtigingen en licenties. U moet vervolgens de wijzigingen **Opslaan**.
 
-5. Zorg ervoor dat u de gebruikers naam en het tijdelijke wacht woord noteert om naar de gebruiker te verzenden.
+5. Zorg ervoor dat u de gebruikersnaam en het tijdelijke wachtwoord vast weet te stellen die u naar de gebruiker wilt verzenden.
 
-6. Als u meerdere gebruikers per keer toevoegt, gebruikt u **een andere gebruiker toevoegen**.
+6. Als u meerdere gebruikers één voor één toevoegt, gebruikt **u Een andere gebruiker toevoegen.**
 
-7. U kunt ook meerdere gebruikers tegelijk toevoegen door [een Excel-compatibel CSV-werkblad bestand te importeren](adding-multiple-users-to-a-customer-account.md). U kunt wachten tot u klaar bent met de hele set voordat u de namen en wacht woorden in het bevestigings scherm e-mailt of afdrukt.
+7. U kunt ook meerdere gebruikers tegelijk toevoegen door een met Excel compatibel [CSV-spreadsheetbestand te importeren.](adding-multiple-users-to-a-customer-account.md) U kunt wachten totdat u klaar bent met de hele set voordat u de namen en wachtwoorden via het bevestigingsscherm e-mailt of afdrukt.
 
 <a href="" id="userlicensing"></a>
 
-## <a name="add-or-remove-user-licenses-for-a-customer"></a>Gebruikers licenties toevoegen aan of verwijderen uit een klant
+## <a name="add-or-remove-user-licenses-for-a-customer"></a>Gebruikerslicenties voor een klant toevoegen of verwijderen
 
-De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebruikers licenties voor micro soft-producten. Zie [licenties toevoegen of verwijderen voor een SaaS-abonnement](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)om gebruikers licenties toe te voegen aan of te verwijderen voor SaaS-abonnementen op basis van licenties in de commerciële Marketplace.
+De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebruikerslicenties voor Microsoft-producten. Zie Licenties voor een SaaS-abonnement toevoegen of verwijderen als u gebruikerslicenties wilt toevoegen of verwijderen voor [SaaS-abonnementen](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)op basis van licenties in de commerciële marketplace.
 
-1. Meld u aan bij het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum.
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
-2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
+2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
-3. Selecteer **gebruikers en licenties** in het menu klant.
+3. Selecteer gebruikers en licenties in het menu **van de klant.**
 
-4. Kies een of meer gebruikers in de lijst. Als de klant bijvoorbeeld zojuist nieuwe licenties heeft aangeschaft en u deze wilt toewijzen aan mensen die deze nog niet hebben, kunt u de optie **gebruikers filteren op...** gebruiken om de juiste groep te vinden.
+4. Kies een of meer gebruikers uit de lijst. Als de klant bijvoorbeeld zojuist nieuwe licenties heeft aangeschaft en u deze wilt toewijzen aan mensen die deze nog niet hebben, kunt u de optie Gebruikers filteren **op...** gebruiken om de juiste groep te vinden.
 
-5. Selecteer **licenties beheren**. Breng uw wijzigingen aan en **Sla** het bestand op.
+5. Selecteer **Licenties beheren**. Maak uw wijzigingen en klik vervolgens op **Opslaan.**
 
 > [!NOTE]
-> Voor [Azure Marketplace-Producten](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)wordt licentie toewijzing en-activering beheerd via de onafhankelijke software leverancier (ISV) die het product heeft gepubliceerd.
+> Voor [Azure Marketplace worden](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)licentietoewijzing en -activering beheerd via de Onafhankelijke softwareleverancier (ISV) die het product heeft gepubliceerd.
 
 <a href="" id="resetpassword"></a>
 
-## <a name="reset-a-users-password-for-a-customer"></a>Het wacht woord van een gebruiker voor een klant opnieuw instellen
+## <a name="reset-a-users-password-for-a-customer"></a>Het wachtwoord van een gebruiker voor een klant opnieuw instellen
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard) van het Partnercentrum.
 
-2. Selecteer **klanten** in het menu van het partner centrum en kies vervolgens een klant in de lijst.
+2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
-3. Selecteer **gebruikers en licenties** in het menu klant. Kies de gebruiker in de lijst.
+3. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
 
-4. Selecteer onder aan het scherm **wacht woord opnieuw instellen**. 
+4. Selecteer onder aan het scherm Wachtwoord **opnieuw instellen.** 
 
-5. Het nieuwe tijdelijke wacht woord naar de gebruiker verzenden.
+5. Verzend het nieuwe tijdelijke wachtwoord naar de gebruiker.
 
 <a href="" id="deleteuseraccounts"></a>
 
-## <a name="delete-user-accounts-for-a-customer"></a>Gebruikers accounts voor een klant verwijderen
+## <a name="delete-user-accounts-for-a-customer"></a>Gebruikersaccounts voor een klant verwijderen
 
-1. Selecteer in het menu **Partner Center** **klanten**. Kies de klant in de lijst.
+1. Selecteer in **Partner Center** menu **Klanten.** Kies de klant in de lijst.
 
-2. Selecteer **gebruikers en licenties** in het menu klant. Kies de gebruiker in de lijst.
+2. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
 
-3. Selecteer onder aan het scherm de optie **gebruikers account verwijderen**.
+3. Selecteer onderaan het scherm **Gebruikersaccount verwijderen.**
 
-Als u dit account wilt herstellen, kunt u het vinden op het tabblad **Verwijderde gebruikers** van de lijst **gebruikers en licenties** van de klant. U hebt 30 dagen de tijd om een verwijderde gebruiker te herstellen.
+Als u dit account wilt herstellen, kunt u het vinden op het tabblad **Verwijderde** gebruikers van de lijst Gebruikers **en licenties van de** klant. U hebt 30 dagen de tijd om een verwijderde gebruiker te herstellen.
 
 <a href="" id="restoreuseraccounts"></a>
 
-## <a name="restore-deleted-user-accounts"></a>Verwijderde gebruikers accounts herstellen
+## <a name="restore-deleted-user-accounts"></a>Verwijderde gebruikersaccounts herstellen
 
-1. Selecteer **klanten** in het menu van het **partner centrum** en kies vervolgens de klant in de lijst.
+1. Selecteer in **Partner Center** menu **Klanten** en kies vervolgens de klant in de lijst.
 
-2. Selecteer **gebruikers en licenties**.
+2. Selecteer **Gebruikers en licenties.**
 
-3. Selecteer het tabblad **Verwijderde gebruikers ()** . Het moet worden gelezen **(1)** of groter wanneer er verwijderde gebruikers zijn die kunnen worden hersteld.
+3. Selecteer **het tabblad Verwijderde gebruikers (** ). Deze moet **(1)** of hoger lezen wanneer er verwijderde gebruikers zijn die kunnen worden hersteld.
 
-4. Selecteer een of meer van de selectie vakjes van de verwijderde gebruikers en selecteer vervolgens **herstellen**.
+4. Selecteer een of meer van de selectievakjes van de verwijderde gebruikers en selecteer vervolgens **Herstellen.**
 
-    Alle geselecteerde gebruikers accounts worden weer gegeven op de pagina **gebruikers en licenties** .
+    Alle geselecteerde gebruikersaccounts worden opnieuw weergegeven op **de pagina Gebruikers en** licenties.
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Licenties toewijzen of intrekken voor meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md)
 
-- [Meerdere gebruikers voor een klant account maken](adding-multiple-users-to-a-customer-account.md)
+- [Meerdere gebruikers maken voor een klantaccount](adding-multiple-users-to-a-customer-account.md)

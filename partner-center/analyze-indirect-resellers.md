@@ -1,6 +1,6 @@
 ---
-title: Prestaties van indirecte wederverkopers analyseren
-description: Gebruik Analytics om te leren hoe uw indirecte wederverkopers doen, zowel hun successen als gebieden die mogelijk meer aandacht nodig hebben.
+title: Prestaties van indirecte resellers analyseren
+description: Gebruik analyses om te leren hoe uw indirecte resellers het doen, zowel hun successen als gebieden die mogelijk meer aandacht nodig hebben.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: shganesh
@@ -9,73 +9,70 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474050"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150179"
 ---
-# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Gebruik Analytics om de prestaties van uw indirecte wederverkopers te analyseren
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Analyse gebruiken om de prestaties van uw indirecte resellers te analyseren
 
-**Juiste rollen**
-
-- Globale beheerder
-- Beheerder van gebruikers beheer
+**Juiste rollen:** globale | Beheerder van gebruikersbeheer
 
 
-Gegevens stations kunnen zakelijke beslissingen nemen. Gebruik de metrische gegevens op de pagina **reseller Analytics** om uw successen, de successen van uw indirecte wederverkopers en gebieden te identificeren die meer aandacht vereisen. Gebruik deze informatie wanneer u nieuwe zakelijke doelen plant.
+Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegevens op **de pagina Analyse** van resellers om uw successen, de successen van uw indirecte resellers en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.
 
 > [!NOTE]
-> Indirecte reseller-analyses zijn alleen beschikbaar voor indirecte providers in het Cloud Solution Provider-programma.
+> Analyse van indirecte resellers is alleen beschikbaar voor indirecte providers in het Cloud Solution Provider programma.
 
-## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Typen reseller Analytics-metrische gegevens die u kunt weer geven
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Typen metrische gegevens voor reselleranalyse die u kunt weergeven
 
 We volgen de volgende metrische gegevens:
 
 **Samenvatting**  
- - **Totaal aantal wederverkopers**: het aantal actieve wederverkopers op de laatste dag van het abonnement  
- - **Nieuwe wederverkopers**: aantal nieuwe indirecte wederverkopers voor de opgegeven tijds periode  
- - **Actieve wederverkopers**: aantal indirecte wederverkopers waarbij de MPNID ten minste één abonnement heeft en waarbij de abonnements status niet wordt ongedaan gemaakt  
- - **Transverkoopers omhandelen**: aantal indirecte wederverkopers met een abonnement dat is verkocht in de opgegeven tijds periode  
+ - **Totaal aantal resellers:** aantal actieve resellers op de laatste dag van het abonnement  
+ - **Nieuwe resellers:** aantal nieuwe indirecte resellers voor de opgegeven periode  
+ - **Actieve resellers:** aantal indirecte resellers waarbij de MPNID ten minste 1 abonnement heeft en waarbij de abonnementsstatus niet is verwijderd  
+ - **Resellers afhandelen:** aantal indirecte resellers met een abonnement dat is verkocht in de opgegeven periode  
 
-**Wederverkopers per markt**  
- - Totale wederverkoop op geografische locatie  
+**Resellers per markt**  
+ - Totaal aantal resellers per geografische locatie  
 
-**Belangrijkste wederverkopers op verkochte abonnementen**
- - Een lijst met wederverkopers, gesorteerd op het aantal abonnementen dat ze hebben verkocht  
+**Belangrijkste resellers per verkochte abonnementen**
+ - Een lijst met resellers, gesorteerd op het aantal abonnementen dat ze hebben verkocht  
 
-**Belangrijkste producten op basis van het aantal abonnementen**  
- - **Dynamics 365**: Dynamics 365-producten gesorteerd op abonnementen verkocht  
- - **EMS**: aantal verkochte abonnementen voor Enter prise Management Services  
- - **Microsoft 365**: aantal verkochte Microsoft 365-abonnementen  
- - **Office 365**: Office 365-producten gesorteerd op abonnementen verkocht  
+**Belangrijkste producten per aantal abonnementen**  
+ - **Dynamics 365:** Dynamics 365-producten gesorteerd op verkochte abonnementen  
+ - **EMS:** aantal verkochte Enterprise Management Services-abonnementen  
+ - **Microsoft 365:** Aantal verkochte Microsoft 365's  
+ - **Office 365:** Office 365-producten gesorteerd op verkochte abonnementen  
 
 **Nieuwe abonnementen**  
- - Het aantal nieuwe abonnementen dat is toegevoegd op datum  
+ - Het aantal nieuwe abonnementen toegevoegd op datum  
 
-**Verloop van abonnement**  
- - **Nieuwe abonnementen**: aantal nieuwe abonnementen toegevoegd op datum  
- - **Oningerichte abonnementen**: aantal abonnementen dat is opgeheven of opgeschort op datum  
+**Abonnementsverloop**  
+ - **Nieuwe abonnementen:** aantal nieuwe abonnementen toegevoegd op datum  
+ - **Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date (Aantal abonnementen dat is gedeprovisioneerd of opgeschort op datum)  
 
-**Nieuwe wederverkoper Details**  
- - **Naam wederverkoper**: namen van indirecte wederverkopers  
- - **Locatie**: markten waar de indirecte wederverkopers handelen  
- - **Abonnementen**: het aantal abonnementen dat de wederverkoper heeft verkocht  
- - **Licenties**: het totale aantal licenties dat de wederverkoper heeft verkocht over alle abonnementen  
+**Details van nieuwe reseller**  
+ - **Resellernaam:** Namen van indirecte resellers  
+ - **Locatie:** markten waar de indirecte resellers actief zijn  
+ - **Abonnementen:** het aantal abonnementen dat de reseller heeft verkocht  
+ - **Licenties:** het totale aantal licenties dat de reseller heeft verkocht voor alle abonnementen  
 
-**Status van MPA-ondertekening**
+**Ondertekende MPA-status**
 
-In deze sectie wordt de status van de MPA-ondertekende status van de indirecte leveranciers van CSP weer geboden.
+In deze sectie vindt u de status van de ondertekende MPA-status van de indirecte CSP-resellers.
 
- - **Reseller name**: naam van de CSP indirecte wederverkoper
- - **MPN-id**: MPN-id van de indirecte wederverkoper
- - **Regio**: regio waar de indirecte wederverkoper opereert
- - **MPN hebben-status**: hebben-status van de indirecte wederverkoper
- - **Status van MPA**-ondertekening: MPA-handtekening status voor de indirecte wederverkoper
+ - **Resellernaam:** naam van de indirecte CSP-reseller
+ - **MPN-id:** MPN-id van de indirecte reseller
+ - **Regio:** regio waar de indirecte reseller actief is
+ - **MPN-doorlichtingsstatus:** Status van de doorlichting van de indirecte reseller
+ - **Ondertekende MPA-status:** MPA-ondertekeningsstatus voor de indirecte reseller
 
-Klik op het Download pictogram in het diagram om de MPA-ondertekende status gegevens te downloaden met aanvullende dimensies
+Klik op het downloadpictogram in de grafiek om ondertekende MPA-statusgegevens met extra dimensies te downloaden
   
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Analyseer abonnementen en licenties om zakelijke beslissingen te nemen](analyze-subscriptions-licenses.md)
+- [Abonnementen en licenties analyseren om zakelijke beslissingen te nemen](analyze-subscriptions-licenses.md)

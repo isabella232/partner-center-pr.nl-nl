@@ -1,151 +1,149 @@
 ---
-title: Veelgestelde vragen over Microsoft Partner Network voor delen
+title: Microsoft Partner Network veelgestelde vragen over voordelen
 ms.topic: article
 ms.date: 02/04/2021
-description: Vragen over beleid met betrekking tot Microsoft Partner Network voor delen.
+description: Vragen die worden beantwoord over beleid met Microsoft Partner Network voordelen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f54e5e91dd63e5ceeaa3c25b929823e6d731d7d0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552406"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149312"
 ---
-# <a name="microsoft-partner-network-benefits-faq"></a>Veelgestelde vragen over Microsoft Partner Network voor delen
+# <a name="microsoft-partner-network-benefits-faq"></a>Microsoft Partner Network veelgestelde vragen over voordelen
 
-**Juiste rollen**
+**Juiste rollen:** MPN-partnerbeheerder
 
-- MPN-partner beheerder
-
-In het volgende artikel worden enkele van de belangrijkste vragen Microsoft Partner Network-partners (MPN) beantwoord over hun MPN-lidmaatschaps voordelen, competenties en product licenties.
+In het volgende artikel vindt u antwoorden op enkele van de belangrijkste vragen die Microsoft Partner Network (MPN) hebben over hun MPN-lidmaatschapsvoordelen, competenties en productlicenties.
 
 ## <a name="responding-to-covid-19"></a>Reageren op COVID-19
 
-**V.** **onze competentie dagen zijn op de hoogte en we kunnen niet voldoen aan de competentie vereisten vanwege gevolgen voor COVID-19. Wat moet ik doen?**
+**V.** De jubileumdatum van onze competentie komt binnenkort en we kunnen niet voldoen aan de competentievereisten vanwege gevolgen met betrekking  **tot COVID-19. Wat moeten we doen?**
 
-A. Als uw competentie datum ligt tussen 1 januari en 30 juni 2021, worden uw bestaande competenties of competenties uitgebreid (met uitzonde ring van de Cloud Business Applications competentie) met de volgende jubileum datum in 2022. U hoeft niet te voldoen aan de vereisten voor examens of prestaties, maar u betaalt nog wel de competentie kosten.Raadpleeg ons [blog bericht](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)voor meer informatie.
+A. Als de jubileumdatum van uw competentie tussen 1 januari en 30 juni 2021 ligt, breiden we uw bestaande competentie of competenties (met uitzondering van de Cloud Business Applications-competentie) uit tot de volgende jubileumdatum in 2022. U hoeft niet te voldoen aan de examen- of prestatievereisten, maar u betaalt wel de competentiekosten.Zie onze blogpost voor [meer informatie.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
 
 ## <a name="membership"></a>Lidmaatschap
 
-**V: wat is het proces en de timing voor het vernieuwen van competenties?**
+**V: Wat is het proces en de timing voor het vernieuwen van competenties?**
 
-A: uw bedrijf kan een competentie vernieuwen in het partner centrum. U moet voldoen aan de vereisten voor de competentie prestaties, de vereiste examens en vaardig heden elk jaar valideren en de jaarlijkse kosten betalen in het vernieuwings venster om de competentie status en de toegang tot de bijbehorende voor delen te behouden.
+A: Uw bedrijf kan een competentie in de Partner Center. U moet voldoen aan de prestatievereisten voor competentie, elk jaar vereiste examens en vaardigheden valideren en de jaarlijkse kosten binnen het verlengingsvenster betalen om de competentiestatus en toegang tot de bijbehorende voordelen te behouden.
 
- Voordat u uw competentie verlengt, moeten de globale beheerder of account beheerder van uw bedrijf de Bedrijfs gegevens controleren en bijwerken. Ze hebben toegang tot het bedrijfs profiel in het partner centrum om de status te zien en te controleren welke informatie moet worden bijgewerkt. Er is mogelijk aanvullende documentatie vereist om uw gegevens te verifiëren.  
+ Voordat u uw competentie vernieuwt, moet de globale beheerder of accountbeheerder voor uw bedrijf de bedrijfsgegevens controleren en bijwerken. Ze hebben toegang tot het bedrijfsprofiel in Partner Center om de status te zien en te controleren welke informatie moet worden bijgewerkt. Er is mogelijk aanvullende documentatie vereist om uw gegevens te verifiëren.  
 
- Uw verlengings venster begint op de verjaardag van uw aankoop datum plus één dag. Als u de micro soft-Action Pack bijvoorbeeld hebt aangeschaft op 1 september 2020, begint uw verlengings periode van 30 dagen vanaf 2 september 2021. De globale beheerders-en MPN-beheerders rollen in uw bedrijf ontvangen de vernieuwings communicatie voor een termijn van Maxi maal uw jubileum datum en 30 dagen na. U hebt nog steeds toegang tot de bijbehorende voor delen tijdens het vernieuwings venster.
+ Uw verlengingsvenster begint op de aankoopdatum plus één dag. Als u bijvoorbeeld de Microsoft Action Pack op 1 september 2020 hebt aangeschaft, begint uw verlengingsperiode van 30 dagen op 2 september 2021. De globale beheerder en MPN-beheerdersrollen in uw bedrijf ontvangen de verlengingscommunicatie voorafgaand aan uw jubileumdatum en 30 dagen later. U hebt nog steeds toegang tot de bijbehorende voordelen tijdens het verlengingsvenster.
 
- Ga naar de [MPN-aanbieding](renew-mpn-offers.md)voor meer informatie.
+ Ga naar [MPN-aanbieding](renew-mpn-offers.md)vernieuwen voor meer informatie.
 
-**V: wanneer kunnen we mijn micro soft-Action Pack vernieuwen?**
+**V: Wanneer kunnen we mijn Microsoft-Action Pack?**
 
-A: uw bedrijf kan uw micro soft-Action Pack in partner centrum verlengen tijdens het vernieuwings venster.
+A: Uw bedrijf kan uw Microsoft-Action Pack in Partner Center tijdens uw verlengingsvenster.
 
-Voordat u uw Action Pack verlengt, moeten de globale beheerder of account beheerder van uw bedrijf de Bedrijfs gegevens van uw bedrijf controleren en bijwerken. Ze hebben toegang tot het profiel van uw bedrijf in het partner centrum om uw status te bekijken en te begrijpen welke informatie moet worden bijgewerkt. Er is mogelijk aanvullende documentatie vereist om uw gegevens te verifiëren.  
+Voordat u uw Action Pack, moet de globale beheerder of accountbeheerder voor uw bedrijf uw bedrijfsgegevens controleren en bijwerken. Ze hebben toegang tot het profiel van uw bedrijf in Partner Center om uw status te zien en te begrijpen welke informatie moet worden bijgewerkt. Mogelijk is aanvullende documentatie vereist om uw gegevens te verifiëren.  
 
- Uw verlengings venster begint op de verjaardag van uw aankoop datum plus één dag. Als u de micro soft-Action Pack bijvoorbeeld hebt aangeschaft op 1 september 2020, begint uw vernieuwings periode van 30 dagen op 2 september 2021. u hebt dan nog steeds toegang tot de bijbehorende voor delen tijdens het vernieuwings venster.
+ Uw verlengingsvenster begint op de jubileumdatum van uw aankoopdatum plus één dag. Als u bijvoorbeeld de Microsoft Action Pack hebt gekocht op 1 september 2020, begint uw verlengingsperiode van 30 dagen op 2 september 2021. U hebt tijdens het verlengingsvenster nog steeds toegang tot de bijbehorende voordelen.
 
- Ga naar de [MPN-aanbieding](renew-mpn-offers.md) voor meer informatie.
+ Ga naar [MPN-aanbieding vernieuwen](renew-mpn-offers.md) voor meer informatie
 
-**V: wat is het verschil tussen de micro soft-Action Pack en de learning-Action Pack?**
+**V: Wat is het verschil tussen de Microsoft-Action Pack en de Action Pack?**
 
-A: de micro soft-Action Pack is een port Folio met resources waarmee partners zoals u vertrouwd bent met micro soft-technologieën en uw oplossing/service kunnen bouwen. U kunt een micro soft-Action Pack aanschaffen, ongeacht of u een competentie hebt of niet.
+A: De Microsoft Action Pack is een portfolio met resources om partners te helpen, zoals u bekend bent met Microsoft-technologieën en uw oplossing/service te bouwen. U kunt één Microsoft-Action Pack of u een competentie hebt of niet.
 
-Het leer Action Pack is het toegangs niveau in het Learning Partner-programma. Het leer programma biedt bronnen voor bedrijven die technologie trainingen aanbieden en/of een leer proces hebben. De [Learning Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) biedt kortingen op lessen, Marketplace en voor delen, zodat partners hulp kunnen bieden aan experts in verschillende micro soft-product lijnen.
-Raadpleeg de [licentie tabel](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) voor de micro soft-Action Pack en de Learning-Action Pack.
+De Learning Action Pack is het toegangsniveau van het Learning Partner-programma. Het leerprogramma biedt resources voor bedrijven die technologietraining bieden en/of een leerervaring hebben. De [Learning Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) biedt kortingen op Courseware, Marketplace en voordelen om partners te helpen experts te worden in verschillende Microsoft-productlijnen.
+Raadpleeg de [licentietabel voor](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) de Microsoft Action Pack en de Learning Action Pack.
 
-**V:** **Wat gebeurt er met onze competentie-of Action Pack voordelen tijdens de periode van 30 dagen voor verlenging?**
+**V:** Wat gebeurt er met onze competentie of Action Pack voordelen tijdens de verlengingsperiode **van 30 dagen?**
 
-A: volgens de MPN-overeenkomst hebt u nog steeds toegang tot de voor delen van het programma zolang uw lidmaatschap actief is. Zodra een lidmaatschap is verlopen, gaan de toegang tot de voor delen verloren.
+A: Volgens de MPN-overeenkomst hebt u nog steeds toegang tot programmavoordelen zolang uw lidmaatschap actief is. Zodra een lidmaatschap is verlopen, gaat de toegang tot voordelen verloren.
 
- Ga naar de [MPN-aanbieding](renew-mpn-offers.md) voor meer informatie.
+ Ga naar [MPN-aanbieding](renew-mpn-offers.md) vernieuwen voor meer informatie
 
 ## <a name="product-licenses"></a>Productlicenties
 
-**V: wat zijn de huidige aanbiedingen voor partners in de Microsoft Partner Network over product licenties?**
+**V: Wat zijn de huidige aanbiedingen voor partners in de Microsoft Partner Network op productlicenties?**
 
-A: product licenties (ook wel intern gebruiks licenties of interne gebruiks rechten genoemd) zijn opgenomen in de voor delen van partners die een competentie bereiken of een micro soft-Action Pack aanschaffen. Een lijst met huidige aanbiedingen van product licenties ophalen uit de [hand leiding voor de Microsoft Partner Network-Program ma's](https://aka.ms/partner-benefits-use-guide).
+A: Productlicenties (ook wel intern gebruikslicenties of rechten voor intern gebruik genoemd) zijn opgenomen in de voordelen voor partners die een competentie hebben of een Microsoft-Action Pack. Haal een lijst met huidige aanbiedingen van productlicenties op uit de [Microsoft Partner Network Programma's.](https://aka.ms/partner-benefits-use-guide)
 
-**V: kan één token worden gebruikt voor het ontgrendelen van meerdere abonnementen?**
+**V: Kan één token worden gebruikt om meerdere abonnementen te ontgrendelen?**
 
-A: Nee, u kunt geen tokens splitsen om meerdere abonnementen te ontgrendelen. De tokens moeten worden gebruikt in de indeling die wordt gegeven. Een token van 25 Seat kan bijvoorbeeld niet worden opgesplitst in vijf verschillende 5-Seat-tokens.
+A: Nee, u kunt tokens niet splitsen om meerdere abonnementen te ontgrendelen. De tokens moeten worden gebruikt in de opgegeven indeling. Een token met 25-seat kan bijvoorbeeld niet worden gesplitst in vijf verschillende tokens met vijf seat.
 
-Raadpleeg de gids voor micro soft Partner Program Ma's [aka.MS/partner-benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide) voor meer informatie.
+Raadpleeg de handleiding voor Microsoft Partner-programma's voor [meer aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**V:** **als we ons token voor Cloud Services op een verkeerde Tenant hebben geactiveerd of stoelen hebben toegevoegd in plaats van uitbreiden, kunnen we een vervangend Token ophalen?**
+**V:** **Kunnen we een vervangend token** krijgen als we ons token voor cloudservices op een verkeerde tenant hebben geactiveerd of seats hebben toegevoegd in plaats van uit te breiden?
 
-A: vervangings tokens voor Cloud service-activeringen op onjuiste Tenant en voor stoelen die worden toegevoegd per ongeluk op bestaande abonnementen, kunnen slechts één keer worden verleend binnen 30 dagen na de activering van het oorspronkelijke token.
+A: Vervangingstokens voor cloudserviceactiveringen op een verkeerde tenant en voor plaatsen die per ongeluk zijn toegevoegd aan bestaande abonnementen, kunnen slechts één keer worden uitgegeven, binnen 30 dagen na activering van het oorspronkelijke token.
 
-Raadpleeg de gids voor micro soft Partner Program Ma's [aka.MS/partner-benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide) voor meer informatie.
+Raadpleeg de handleiding voor Microsoft Partner-programma's voor [meer aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**V: voor on-premises software product licenties moet er een product code voor de installatie worden geïnstalleerd?**
+**V: Hebben we voor on-premises softwareproductlicenties een productcode nodig voor de installatie?**
 
-A: voor niet alle producten is een product code vereist. Product activering is vereist voor Windows Server-en client besturingssystemen en alle Microsoft Office-client toepassingen.
+A: Niet alle producten hebben een productcode nodig. Productactivering is vereist voor Windows-server- en clientbesturingssystemen en alle Microsoft Office clienttoepassingen.
 
- Raadpleeg de gids voor micro soft Partner Program Ma's [aka.MS/partner-benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide) voor meer informatie.
+ Raadpleeg de handleiding voor Microsoft Partner-programma's voor [meer aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**V: kunnen we meer product codes verkrijgen als we alle installaties en activeringen hebben verbruikt?**
+**V: Kunnen we meer productcodes verkrijgen als we alle installaties en activeringen hebben verbruikt?**
 
-A: sommige product codes die zijn uitgegeven, zijn meerdere activerings sleutels (MAK). Deze producten hebben een beperkt aantal installaties, activeringen of seats. Een product code werkt niet meer wanneer alle installaties en activeringen zijn verbruikt. Er worden geen aanvullende activeringen voor deze product codes verleend.
+A: Sommige uitgegeven productcodes zijn Meerdere activeringssleutels (MAK). Deze producten hebben een beperkt aantal installaties, activeringen of seats. Een productcode werkt niet meer wanneer alle installaties en activeringen zijn verbruikt. Aanvullende activeringen voor deze productcodes worden niet verleend.
 
- Ga voor meer informatie naar de gids voor micro soft Partner-Program Ma's [aka.MS/partner-benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+ Raadpleeg de Handleiding voor Microsoft Partner-programma's voor [meer aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**V: wat moet ik doen als we besluiten onze competentie of micro soft-Action Pack niet te verlengen, dan kunnen we nog steeds gebruikmaken van de on-premises software product licenties?**
+**V: Wat gebeurt er als we besluiten om onze competentie of Microsoft Action Pack niet te verlengen, kunnen we dan nog steeds de on-premises softwareproductlicenties gebruiken?**
 
-A: Nee. De on-premises software product licenties die zijn opgenomen in de competentie-verwezenlijking en de micro soft-Action Pack zijn niet permanent.
-U bent gerechtigd en hebt het recht om deze licenties alleen tijdens uw lidmaatschap te gebruiken. U moet licentie rechten verkrijgen via commerciële licentie verlening of alle on-premises software die is verkregen via de Microsoft Partner Network als u ervoor kiest uw competentie of Action Pack niet te vernieuwen.
+A: Nee. De on-premises softwareproductlicenties die zijn opgenomen bij het bereiken van competentie en de Microsoft-Action Pack niet permanent zijn.
+U hebt het recht en het recht om deze licenties alleen tijdens uw lidmaatschap te gebruiken. U moet licentierechten verkrijgen via commerciële licentieverlening of on-premises software verwijderen die is verkregen via de Microsoft Partner Network als u ervoor kiest om uw competentie of licentieverlening niet te Action Pack.
 
-Ga voor meer informatie naar de gids voor micro soft Partner-Program Ma's [aka.MS/partner-benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+Raadpleeg de Handleiding voor Microsoft Partner-programma's voor [meer aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**V: heeft micro soft Action Pack abonnement voor Visual Studio Enter prise?**
+**V: Bevat Microsoft Action Pack een Visual Studio Enterprise-abonnement?**
 
-A: Nee, de micro soft-Action Pack alleen Visual Studio Professional-abonnementen bevatten.
+A: Nee, de Microsoft Action Pack alleen Visual Studio Professional-abonnementen.
 
-Ga voor meer informatie naar de gids voor micro soft Partner-Program Ma's [aka.MS/partner-benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+Raadpleeg de Handleiding voor Microsoft Partner-programma's voor [meer aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**V: kunnen we de Visual Studio-abonnementen delen die zijn opgenomen in de competentie-verwezenlijking of micro soft-Action Pack?**
+**V: Kunnen we de Visual Studio-abonnementen delen die zijn opgenomen in het competentie-bereik of microsoft-Action Pack?**
 
-A: Nee, Visual Studio-abonnementen worden per gebruiker in licentie gegeven en moeten worden toegewezen en geactiveerd om geldig te zijn. Aanmeldings referenties voor delen is niet toegestaan.
+A: Nee, Visual Studio zijn gelicentieerd per gebruiker en moeten worden toegewezen en geactiveerd om geldig te zijn. Het delen van aanmeldingsreferenties is niet toegestaan.
 
-Ga voor meer informatie naar de gids voor micro soft Partner-Program Ma's [aka.MS/partner-benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide)
+Raadpleeg de Handleiding voor Microsoft Partner-programma's voor [meer aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Nils.** **Hoe weet ik hoeveel product licenties ons** **bedrijf heeft?**
+**V.** **Hoe weten we hoeveel productlicenties ons bedrijf** **heeft?**
 
-A. U kunt product licenties en andere voor delen weer geven en beheren die zijn opgenomen in uw competentie-verwezenlijking of Action Pack in het partner centrum. Meer informatie vindt [u in de voor delen van uw partner netwerk beheren](manage-your-partner-network-benefits.md).
+A. U kunt productlicenties en andere voordelen bekijken en beheren die zijn opgenomen in uw competentie- of Action Pack in Partner Center. Meer informatie in [Uw partnernetwerkvoordelen beheren.](manage-your-partner-network-benefits.md)
 
-**Nils. Hoe kan ons bedrijf gebruikmaken van de product licenties die voor ons beschikbaar zijn via competentie of Action Pack?**
+**V. Hoe kan ons bedrijf gebruikmaken van de productlicenties die voor ons beschikbaar zijn via competentiever bereiken of Action Pack?**
 
-A. We bevatten product licenties voor partners in de Microsoft Partner Network die een of meer competenties bereiken of een micro soft-Action Pack aanschaffen om hen te helpen innovatieve oplossingen te bouwen en bekend te raken met micro soft-producten en-technologieën. De gebruiks voorwaarden voor product licenties die zijn opgenomen in competentie en Action Pack worden uitgelegd in de [hand leiding Microsoft Partner Network Program ma's](https://aka.ms/partner-benefits-use-guide).
+A. We nemen productlicenties op voor partners in de Microsoft Partner Network die een of meer competenties behalen of een Microsoft-Action Pack aanschaffen om hen te helpen innovatieve oplossingen te bouwen en vertrouwd te raken met Microsoft-producten en -technologieën. De gebruiksvoorwaarden voor productlicenties die zijn opgenomen in competentiever bereiken en Action Pack worden uitgelegd in [de handleiding Microsoft Partner Network programma's.](https://aka.ms/partner-benefits-use-guide)
 
-**Nils.** **Zijn er beperkingen voor de manier waarop** **het bedrijf de product licenties kan gebruiken die voor ons beschikbaar zijn via competentie of Action Pack?**
+**V.** **Gelden er beperkingen voor de manier waarop ons** bedrijf de **productlicenties** kan gebruiken die voor ons beschikbaar zijn via competentiever bereiken of Action Pack?
 
-A. Ja, er zijn beperkingen. De gebruiks voorwaarden van de product licentie zijn verschillend voor commerciële licenties die zijn verkregen via micro soft-licentie Programma's. Lees voor meer informatie [product licentie voorwaarden](https://www.microsoft.com/licensing).
-Product licenties omvatten geen Software Assurance en er gelden enkele beperkingen voor product licenties. U kunt de gebruiks voorwaarden voor product licenties bekijken in de [hand leiding voor de Microsoft Partner Network-Program ma's](https://aka.ms/partner-benefits-use-guide).
+A. Ja, er zijn beperkingen. Gebruiksvoorwaarden voor productlicenties verschillen van commerciële licenties die zijn verkregen via Microsoft-licentieprogramma's. Lees Gebruiksvoorwaarden voor [productlicenties voor meer informatie.](https://www.microsoft.com/licensing)
+Productlicenties omvatten geen softwaregarantie en er gelden enkele beperkingen voor productlicenties. U kunt de gebruiksvoorwaarden voor productlicenties bekijken in de [handleiding Microsoft Partner Network Programma's.](https://aka.ms/partner-benefits-use-guide)
 
-**Nils.** **Hoe voegen we meer product licenties toe aan wat er in Partner Center wordt vermeld, zodat ons** **bedrijf wordt gedekt?**
+**V.** **Hoe voegen we meer productlicenties toe** aan wat wordt vermeld in Partner Center zodat ons **bedrijf wordt gedekt?**
 
-A. De product licenties die zijn opgenomen in de competentie-Attain en de Action Pack hebben verschillende gebruiks voorwaarden van commerciële licenties die zijn verkregen via micro soft-licentie Programma's. Het is raadzaam om uw opties te bekijken voor het voldoen aan de licentie vereisten van uw bedrijf voor de [micro soft-licentie verlening](https://www.microsoft.com/licensing).
+A. De productlicenties die zijn opgenomen in het competentie-bereik en de Action Pack hebben andere gebruiksvoorwaarden van commerciële licenties die zijn verkregen via Microsoft-licentieprogramma's. We raden u aan om uw opties te bekijken om te voldoen aan de licentiebehoeften van uw bedrijf op [de Microsoft-licentieverlening](https://www.microsoft.com/licensing).
 
-**Nils. We hebben onlangs een ander bedrijf samengevoegd met/aangeschaft in het Microsoft Partner Network dat een competentie heeft. Worden al onze huidige product licenties bewaard wanneer we de functie voor het samen voegen van accounts gebruiken in Partner Center?**
+**V. Onlangs zijn we samengevoegd met/hebben we een ander bedrijf in de Microsoft Partner Network die over een competentie beschikt. Kunnen we al onze huidige productlicenties behouden wanneer we de mogelijkheid voor het samenvoegen van accounts in Partner Center?**
 
-A. De ingrijpende en Action Pack aankoop van vaardig heden is voltooid in het partner centrum via het globale account van de partner. Wanneer u de functie voor het samen voegen van accounts in Partner Center gebruikt, blijven de bestaande voor delen van elk account tot de volgende verlenging. Na de verlenging worden de voor delen die zijn opgenomen in de competentie en Action Pack, geïmplementeerd voor het wereld wijde account van de partner onderneming.
+A. Competentie bereiken en Action Pack aankoop wordt voltooid in Partner Center via het globale partneraccount. Wanneer u de mogelijkheid voor het samenvoegen van accounts in Partner Center, blijven de bestaande voordelen van elk account tot de volgende verlenging hetzelfde. Na de verlenging worden voordelen die zijn opgenomen bij het bereiken van competentie en Action Pack geïmplementeerd voor het globale partneraccount van het partnerbedrijf.
 
--   Micro soft Action Pack: het partner bedrijf kan een Action Pack per partner algemeen account kopen.
+-   Microsoft Action Pack: Het partnerbedrijf kan één account Action Pack per partneraccount.
 
--   Competentie: het partner bedrijf ontvangt één pakket met kern voordelen dat is gekoppeld aan de hoogste verwezenlijking, plus competentie-specifieke voor delen die de partner in aanmerking komt voor het wereld wijde account van de partner.
+-   Competentie: Het partnerbedrijf ontvangt één pakket kernvoordelen, gekoppeld aan het hoogst haalbare niveau, plus competentiespecifieke voordelen die de partner in aanmerking komt voor op het globale partneraccount.
 
- Lees de informatie over het [samen voegen van accounts](merge-accounts.md) voor meer informatie over hoe de functie werkt en hoe u kunt bepalen of deze geschikt is voor de behoeften van uw bedrijf.
+ Lees de informatie over [het samenvoegen van accounts](merge-accounts.md) voor meer informatie over de manier waarop de mogelijkheid werkt en hoe u kunt bepalen of het goed is voor de behoeften van uw bedrijf.
 
-**Nils.** **We hebben vragen over onze** **product licenties voor het bedrijf in Partner Center. Waar krijgen we hulp bij?**
+**V.** **We hebben vragen over de** **productlicenties van ons bedrijf in Partner Center. Waar kunnen we hulp bij krijgen?**
 
-A. U kunt naar het [ondersteunings gedeelte van partner Center](https://partner.microsoft.com/support) gaan voor koppelingen naar bronnen die mogelijk van een hulp programma zijn of om een ticket te openen met het ondersteunings team voor partners, indien nodig.
+A. U kunt naar de sectie Ondersteuning van Partner Center voor koppelingen naar resources die u kunnen helpen [of](https://partner.microsoft.com/support) om indien nodig een ticket te openen met ons partnerondersteuningsteam.
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Voordelen van het Microsoft Partner Network zoeken](mpn-find-benefits.md)
-- [MPN-aanbieding vernieuwen](renew-mpn-offers.md)
+- [MPN-aanbieding verlengen](renew-mpn-offers.md)
