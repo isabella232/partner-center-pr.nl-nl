@@ -1,6 +1,6 @@
 ---
 title: Abonnementen en licenties analyseren
-description: Meer informatie over het gebruik van de metrische gegevens op de pagina abonnement en licentie Analytics om uw successen en gebieden te identificeren die meer aandacht vereisen.
+description: Meer informatie over het gebruik van de metrische gegevens op de pagina Abonnements- en licentieanalyse om uw successen en gebieden te identificeren die meer aandacht nodig hebben.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,86 +9,81 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103788"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150145"
 ---
-# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a><span data-ttu-id="cac60-103">Analyseer abonnementen en licenties om u te helpen bij het aansturen van zakelijke beslissingen en nieuwe doelen</span><span class="sxs-lookup"><span data-stu-id="cac60-103">Analyze subscriptions and licenses to help you drive business decisions and new goals</span></span>
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a><span data-ttu-id="c7a0f-103">Abonnementen en licenties analyseren om zakelijke beslissingen en nieuwe doelen te realiseren</span><span class="sxs-lookup"><span data-stu-id="c7a0f-103">Analyze subscriptions and licenses to help you drive business decisions and new goals</span></span>
 
-<span data-ttu-id="cac60-104">**Juiste rollen**</span><span class="sxs-lookup"><span data-stu-id="cac60-104">**Appropriate roles**</span></span>
+<span data-ttu-id="c7a0f-104">**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent</span><span class="sxs-lookup"><span data-stu-id="c7a0f-104">**Appropriate roles**: Global admin | User management admin | Admin agent | Sales agent</span></span>
 
-- <span data-ttu-id="cac60-105">Globale beheerder</span><span class="sxs-lookup"><span data-stu-id="cac60-105">Global admin</span></span>
-- <span data-ttu-id="cac60-106">Beheerder van gebruikers beheer</span><span class="sxs-lookup"><span data-stu-id="cac60-106">User management admin</span></span>
-- <span data-ttu-id="cac60-107">Beheer agent</span><span class="sxs-lookup"><span data-stu-id="cac60-107">Admin agent</span></span>
-- <span data-ttu-id="cac60-108">Verkoop agent</span><span class="sxs-lookup"><span data-stu-id="cac60-108">Sales agent</span></span>
+<span data-ttu-id="c7a0f-105">Gegevens zijn de basis voor zakelijke beslissingen.</span><span class="sxs-lookup"><span data-stu-id="c7a0f-105">Data drives business decisions.</span></span> <span data-ttu-id="c7a0f-106">Gebruik de metrische gegevens op **de pagina Abonnements-** en licentieanalyse om uw successen en gebieden te identificeren die meer aandacht nodig hebben.</span><span class="sxs-lookup"><span data-stu-id="c7a0f-106">Use the metrics in the **Subscription and license analytics** page to identify your successes and areas that need more attention.</span></span> <span data-ttu-id="c7a0f-107">Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.</span><span class="sxs-lookup"><span data-stu-id="c7a0f-107">Use this information as you plan new business goals.</span></span>
 
-<span data-ttu-id="cac60-109">Gegevens stations kunnen zakelijke beslissingen nemen.</span><span class="sxs-lookup"><span data-stu-id="cac60-109">Data drives business decisions.</span></span> <span data-ttu-id="cac60-110">Gebruik de metrische gegevens op de pagina **abonnement en licentie Analytics** om uw successen en gebieden te identificeren die meer aandacht nodig hebben.</span><span class="sxs-lookup"><span data-stu-id="cac60-110">Use the metrics in the **Subscription and license analytics** page to identify your successes and areas that need more attention.</span></span> <span data-ttu-id="cac60-111">Gebruik deze informatie wanneer u nieuwe zakelijke doelen plant.</span><span class="sxs-lookup"><span data-stu-id="cac60-111">Use this information as you plan new business goals.</span></span>
-
-<span data-ttu-id="cac60-112">**CSP TTM-omzet (USD)**: deze metriek vertegenwoordigt de geaggregeerde CSP (gefactureerd) voor de periode van 12 maanden (TTM) voor de partner locatie accounts en de wereld wijde partner account (PGA) waaraan dit CSP-account is gekoppeld.</span><span class="sxs-lookup"><span data-stu-id="cac60-112">**CSP TTM Revenue (USD)**: This metric represents the aggregated CSP billed revenue (USD) for the trailing twelve months (TTM) for the Partner Location Accounts and Partner Global Account (PGA) this CSP account is associated with.</span></span> <span data-ttu-id="cac60-113">Als u andere CSP-accounts hebt met een andere PGA, moet u zich aanmelden bij elk van de providers om de bijbehorende geaggregeerde TTM-omzet weer te geven.</span><span class="sxs-lookup"><span data-stu-id="cac60-113">If you have other CSP accounts with a different PGA, you must sign in into each of them to view the corresponding aggregated TTM revenue.</span></span>  <span data-ttu-id="cac60-114">Klik op de koppeling Details downloaden om een uitsplitsing van de TTM-omzet (USD) per MPN-ID op te halen.</span><span class="sxs-lookup"><span data-stu-id="cac60-114">Click on the download details link to get a breakdown of the TTM revenue (USD) per MPN ID.</span></span>
+<span data-ttu-id="c7a0f-108">**TTM-omzet CSP (USD)**: deze metrische waarde vertegenwoordigt de geaggregeerde gefactureerde CSP-omzet (USD) voor de na twaalf maanden (TTM) voor de partnerlocatieaccounts en het Partner Global Account (PGA) waar dit CSP-account aan is gekoppeld.</span><span class="sxs-lookup"><span data-stu-id="c7a0f-108">**CSP TTM Revenue (USD)**: This metric represents the aggregated CSP billed revenue (USD) for the trailing twelve months (TTM) for the Partner Location Accounts and Partner Global Account (PGA) this CSP account is associated with.</span></span> <span data-ttu-id="c7a0f-109">Als u andere CSP-accounts met een andere PGA hebt, moet u zich aanmelden bij elk van deze accounts om de bijbehorende geaggregeerde TTM-omzet weer te geven.</span><span class="sxs-lookup"><span data-stu-id="c7a0f-109">If you have other CSP accounts with a different PGA, you must sign in into each of them to view the corresponding aggregated TTM revenue.</span></span>  <span data-ttu-id="c7a0f-110">Klik op de koppeling met downloadgegevens voor een uitsplitsing van de TTM-omzet (USD) per MPN-id.</span><span class="sxs-lookup"><span data-stu-id="c7a0f-110">Click on the download details link to get a breakdown of the TTM revenue (USD) per MPN ID.</span></span>
 
 >[!NOTE]
-><span data-ttu-id="cac60-115">Prijzen voor lokale valuta's (verouderde commerce-FX) in het commerciële beheer worden binnen +/-5% van Amerikaanse dollars beheerd.</span><span class="sxs-lookup"><span data-stu-id="cac60-115">Local currency prices (Legacy Commerce FX) in Commercial are managed to within +/-5% of US dollars.</span></span> <span data-ttu-id="cac60-116">De verouderde omruil koers (FX) van Commerce wijkt af van de facturerings-FX-tarieven die door Azure worden gebruikt in de moderne commerce-ervaring.</span><span class="sxs-lookup"><span data-stu-id="cac60-116">The Legacy Commerce exchange rate (FX) is different from billing FX rates used by Azure in the Modern Commerce experience.</span></span> <span data-ttu-id="cac60-117">De moderne commerce-tarieven voor facturering zijn gebaseerd op de tarieven van micro soft P&L (de FX-tarieven van het Reuters van Schatkist papier).</span><span class="sxs-lookup"><span data-stu-id="cac60-117">The Modern Commerce billing FX rates are based on Microsoft P&L rates (Reuters FX rates from Treasury feed).</span></span> <span data-ttu-id="cac60-118">Verouderde commerce-FX-tarieven zijn vertrouwelijk.</span><span class="sxs-lookup"><span data-stu-id="cac60-118">Legacy Commerce FX rates are Microsoft confidential.</span></span>
+><span data-ttu-id="c7a0f-111">Lokale valutaprijzen (Legacy Commerce FX) in Commercieel worden beheerd tot binnen +/-5% van Amerikaanse dollars.</span><span class="sxs-lookup"><span data-stu-id="c7a0f-111">Local currency prices (Legacy Commerce FX) in Commercial are managed to within +/-5% of US dollars.</span></span> <span data-ttu-id="c7a0f-112">De Legacy Commerce Exchange Rate (FX) verschilt van de FX-tarieven voor facturering die door Azure worden gebruikt in de Modern Commerce-ervaring.</span><span class="sxs-lookup"><span data-stu-id="c7a0f-112">The Legacy Commerce exchange rate (FX) is different from billing FX rates used by Azure in the Modern Commerce experience.</span></span> <span data-ttu-id="c7a0f-113">De FX-tarieven voor facturering voor Modern Commerce zijn gebaseerd op Microsoft P&L-tarieven (Fx Fx-tarieven van de schatkistfeed).</span><span class="sxs-lookup"><span data-stu-id="c7a0f-113">The Modern Commerce billing FX rates are based on Microsoft P&L rates (Reuters FX rates from Treasury feed).</span></span> <span data-ttu-id="c7a0f-114">Legacy Commerce FX-tarieven zijn vertrouwelijk van Microsoft.</span><span class="sxs-lookup"><span data-stu-id="c7a0f-114">Legacy Commerce FX rates are Microsoft confidential.</span></span>
 
 
-<span data-ttu-id="cac60-119">De rest van het rapport kan worden gedraaid op basis van de volgende producten:</span><span class="sxs-lookup"><span data-stu-id="cac60-119">The rest of the report can pivot based on the following products:</span></span>
+<span data-ttu-id="c7a0f-115">De rest van het rapport kan worden draaien op basis van de volgende producten:</span><span class="sxs-lookup"><span data-stu-id="c7a0f-115">The rest of the report can pivot based on the following products:</span></span>
 
- - <span data-ttu-id="cac60-120">**Dynamics 365**: Dynamics 365-gegevens</span><span class="sxs-lookup"><span data-stu-id="cac60-120">**Dynamics 365**: Dynamics 365 data</span></span>  
- - <span data-ttu-id="cac60-121">**EMS**: gegevens van ENTER prise Management Services</span><span class="sxs-lookup"><span data-stu-id="cac60-121">**EMS**: Enterprise Management Services data</span></span>  
- - <span data-ttu-id="cac60-122">**Microsoft 365**: Microsoft 365 gegevens</span><span class="sxs-lookup"><span data-stu-id="cac60-122">**Microsoft 365**: Microsoft 365 data</span></span>  
- - <span data-ttu-id="cac60-123">**Office 365**: Office 365-gegevens</span><span class="sxs-lookup"><span data-stu-id="cac60-123">**Office 365**: Office 365 data</span></span>  
+ - <span data-ttu-id="c7a0f-116">**Dynamics 365:** Dynamics 365-gegevens</span><span class="sxs-lookup"><span data-stu-id="c7a0f-116">**Dynamics 365**: Dynamics 365 data</span></span>  
+ - <span data-ttu-id="c7a0f-117">**EMS:** Enterprise Management Services-gegevens</span><span class="sxs-lookup"><span data-stu-id="c7a0f-117">**EMS**: Enterprise Management Services data</span></span>  
+ - <span data-ttu-id="c7a0f-118">**Microsoft 365:** Microsoft 365 gegevens</span><span class="sxs-lookup"><span data-stu-id="c7a0f-118">**Microsoft 365**: Microsoft 365 data</span></span>  
+ - <span data-ttu-id="c7a0f-119">**Office 365:** Office 365-gegevens</span><span class="sxs-lookup"><span data-stu-id="c7a0f-119">**Office 365**: Office 365 data</span></span>  
 
 
-## <a name="types-of-subscription-and-license-metrics-you-can-view"></a><span data-ttu-id="cac60-124">Typen abonnements-en licentie gegevens die u kunt weer geven</span><span class="sxs-lookup"><span data-stu-id="cac60-124">Types of subscription and license metrics you can view</span></span>
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a><span data-ttu-id="c7a0f-120">Typen metrische gegevens over abonnementen en licenties die u kunt bekijken</span><span class="sxs-lookup"><span data-stu-id="c7a0f-120">Types of subscription and license metrics you can view</span></span>
 
-<span data-ttu-id="cac60-125">We volgen de volgende metrische gegevens:</span><span class="sxs-lookup"><span data-stu-id="cac60-125">We are tracking the following metrics:</span></span>
+<span data-ttu-id="c7a0f-121">We volgen de volgende metrische gegevens:</span><span class="sxs-lookup"><span data-stu-id="c7a0f-121">We are tracking the following metrics:</span></span>
 
-<span data-ttu-id="cac60-126">**Samenvatting**</span><span class="sxs-lookup"><span data-stu-id="cac60-126">**Summary**</span></span>  
- - <span data-ttu-id="cac60-127">**Verkochte abonnementen**: aantal abonnementen dat is gemaakt voor de opgegeven tijds periode</span><span class="sxs-lookup"><span data-stu-id="cac60-127">**Subscriptions sold**: Count of subscriptions created for the specified time period</span></span>  
+<span data-ttu-id="c7a0f-122">**Samenvatting**</span><span class="sxs-lookup"><span data-stu-id="c7a0f-122">**Summary**</span></span>  
+ - <span data-ttu-id="c7a0f-123">**Verkochte abonnementen:** aantal abonnementen dat is gemaakt voor de opgegeven periode</span><span class="sxs-lookup"><span data-stu-id="c7a0f-123">**Subscriptions sold**: Count of subscriptions created for the specified time period</span></span>  
   
- - <span data-ttu-id="cac60-128">**Verkochte licenties**: aantal verkochte licenties voor de opgegeven periode</span><span class="sxs-lookup"><span data-stu-id="cac60-128">**Licenses sold**: Count of licenses sold for the specified time period</span></span>  
+ - <span data-ttu-id="c7a0f-124">**Verkochte licenties:** aantal verkochte licenties voor de opgegeven periode</span><span class="sxs-lookup"><span data-stu-id="c7a0f-124">**Licenses sold**: Count of licenses sold for the specified time period</span></span>  
   
- - <span data-ttu-id="cac60-129">**Abonnementen die in 30 dagen worden verlengd**: aantal abonnementen waarbij de status actief is voor de opgegeven periode en waarvoor **autoverlengen** waar is</span><span class="sxs-lookup"><span data-stu-id="cac60-129">**Subscriptions renewing in 30 days**: Count of subscriptions where the status is active for the specified time period and where **Autorenew** is true</span></span>
+ - <span data-ttu-id="c7a0f-125">**Abonnementen die binnen 30** dagen worden verlengd: aantal abonnementen waarbij de status actief is gedurende de opgegeven periode en waarbij **Autorenew** waar is</span><span class="sxs-lookup"><span data-stu-id="c7a0f-125">**Subscriptions renewing in 30 days**: Count of subscriptions where the status is active for the specified time period and where **Autorenew** is true</span></span>
  
- - <span data-ttu-id="cac60-130">**Actieve abonnementen**: abonnementen waarbij de status **actief** is</span><span class="sxs-lookup"><span data-stu-id="cac60-130">**Active subscriptions**: Subscriptions where the status is **Active**</span></span>  
+ - <span data-ttu-id="c7a0f-126">**Actieve abonnementen:** abonnementen waarbij de status **Actief is**</span><span class="sxs-lookup"><span data-stu-id="c7a0f-126">**Active subscriptions**: Subscriptions where the status is **Active**</span></span>  
  
- - <span data-ttu-id="cac60-131">**Onderbroken abonnementen**: aantal onderbroken abonnementen, er is geen datum filter</span><span class="sxs-lookup"><span data-stu-id="cac60-131">**Suspended subscriptions**: Count of suspended subscriptions, there is no date filter</span></span>  
+ - <span data-ttu-id="c7a0f-127">**Opgeschorte abonnementen:** aantal opgeschorte abonnementen, er is geen datumfilter</span><span class="sxs-lookup"><span data-stu-id="c7a0f-127">**Suspended subscriptions**: Count of suspended subscriptions, there is no date filter</span></span>  
 
-<span data-ttu-id="cac60-132">**Product specificatie**</span><span class="sxs-lookup"><span data-stu-id="cac60-132">**Product breakdown**</span></span>
+<span data-ttu-id="c7a0f-128">**Productinsplitsing**</span><span class="sxs-lookup"><span data-stu-id="c7a0f-128">**Product breakdown**</span></span>
   
- - <span data-ttu-id="cac60-133">**Aantal abonnementen**: Top 5 van producten gesorteerd op abonnementen verkocht</span><span class="sxs-lookup"><span data-stu-id="cac60-133">**Subscription count**: Top 5 products sorted by subscriptions sold</span></span>  
+ - <span data-ttu-id="c7a0f-129">**Aantal abonnementen:** Top 5 producten gesorteerd op verkochte abonnementen</span><span class="sxs-lookup"><span data-stu-id="c7a0f-129">**Subscription count**: Top 5 products sorted by subscriptions sold</span></span>  
  
- - <span data-ttu-id="cac60-134">**Aantal licenties**: Top 5 van producten op gesorteerde licenties verkocht</span><span class="sxs-lookup"><span data-stu-id="cac60-134">**License count**: Top 5 products by sorted licenses sold</span></span>
+ - <span data-ttu-id="c7a0f-130">**Aantal licenties:** Top 5 producten op gesorteerde verkochte licenties</span><span class="sxs-lookup"><span data-stu-id="c7a0f-130">**License count**: Top 5 products by sorted licenses sold</span></span>
 
-<span data-ttu-id="cac60-135">**Bewaar periode van abonnement**</span><span class="sxs-lookup"><span data-stu-id="cac60-135">**Subscription Retention**</span></span>
+<span data-ttu-id="c7a0f-131">**Abonnementsretentie**</span><span class="sxs-lookup"><span data-stu-id="c7a0f-131">**Subscription Retention**</span></span>
 
- - <span data-ttu-id="cac60-136">**Verlengde abonnementen**: abonnementen die in de afgelopen 30 dagen zijn vernieuwd</span><span class="sxs-lookup"><span data-stu-id="cac60-136">**Renewed subscriptions**: Subscriptions that renewed in the last 30 days</span></span>  
+ - <span data-ttu-id="c7a0f-132">**Verlengde abonnementen:** abonnementen die in de afgelopen 30 dagen zijn vernieuwd</span><span class="sxs-lookup"><span data-stu-id="c7a0f-132">**Renewed subscriptions**: Subscriptions that renewed in the last 30 days</span></span>  
 
-<span data-ttu-id="cac60-137">**Verloop van abonnement**</span><span class="sxs-lookup"><span data-stu-id="cac60-137">**Subscription churn**</span></span>  
- - <span data-ttu-id="cac60-138">**Nieuwe abonnementen**: aantal nieuwe abonnementen voor de periode, met uitzonde ring van proef aanbiedingen</span><span class="sxs-lookup"><span data-stu-id="cac60-138">**New subscriptions**: count of new subscriptions for the time period, excluding trial offers</span></span>  
+<span data-ttu-id="c7a0f-133">**Abonnementsverloop**</span><span class="sxs-lookup"><span data-stu-id="c7a0f-133">**Subscription churn**</span></span>  
+ - <span data-ttu-id="c7a0f-134">**Nieuwe abonnementen:** aantal nieuwe abonnementen voor de periode, met uitzondering van proefaanbiedingen</span><span class="sxs-lookup"><span data-stu-id="c7a0f-134">**New subscriptions**: count of new subscriptions for the time period, excluding trial offers</span></span>  
  
- - <span data-ttu-id="cac60-139">**Oningerichte abonnementen**: aantal abonnementen dat is opgeheven of opgeschort op datum</span><span class="sxs-lookup"><span data-stu-id="cac60-139">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
+ - <span data-ttu-id="c7a0f-135">**Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date (Aantal abonnementen dat is gedeprovisioneerd of opgeschort op datum)</span><span class="sxs-lookup"><span data-stu-id="c7a0f-135">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
 
-<span data-ttu-id="cac60-140">**Onderbroken abonnementen**</span><span class="sxs-lookup"><span data-stu-id="cac60-140">**Suspended subscriptions**</span></span> 
+<span data-ttu-id="c7a0f-136">**Opgeschorte abonnementen**</span><span class="sxs-lookup"><span data-stu-id="c7a0f-136">**Suspended subscriptions**</span></span> 
  
- - <span data-ttu-id="cac60-141">Lijst met alle abonnementen met de status **opgeschort**, met uitzonde ring van proef aanbiedingen</span><span class="sxs-lookup"><span data-stu-id="cac60-141">List of all subscriptions with a status of **Suspended**, excluding trial offers</span></span>  
+ - <span data-ttu-id="c7a0f-137">Lijst met alle abonnementen met de status **Tijdelijk,** met uitzondering van proefaanbiedingen</span><span class="sxs-lookup"><span data-stu-id="c7a0f-137">List of all subscriptions with a status of **Suspended**, excluding trial offers</span></span>  
   
-<span data-ttu-id="cac60-142">**Actieve abonnementen**</span><span class="sxs-lookup"><span data-stu-id="cac60-142">**Active subscriptions**</span></span>
+<span data-ttu-id="c7a0f-138">**Actieve abonnementen**</span><span class="sxs-lookup"><span data-stu-id="c7a0f-138">**Active subscriptions**</span></span>
 
- - <span data-ttu-id="cac60-143">Lijst met alle actieve abonnementen</span><span class="sxs-lookup"><span data-stu-id="cac60-143">List of all active subscriptions</span></span>  
+ - <span data-ttu-id="c7a0f-139">Lijst met alle actieve abonnementen</span><span class="sxs-lookup"><span data-stu-id="c7a0f-139">List of all active subscriptions</span></span>  
 
-<span data-ttu-id="cac60-144">**Conversies van proef abonnementen**</span><span class="sxs-lookup"><span data-stu-id="cac60-144">**Trial subscription conversions**</span></span>  
+<span data-ttu-id="c7a0f-140">**Conversies van proefabonnementen**</span><span class="sxs-lookup"><span data-stu-id="c7a0f-140">**Trial subscription conversions**</span></span>  
 
- - <span data-ttu-id="cac60-145">**Conversie van de proef versie**: het aantal **actieve** abonnementen waarvoor een proef versie is betaald tijdens de opgegeven periode</span><span class="sxs-lookup"><span data-stu-id="cac60-145">**Trial conversion**: Count of all **Active** subscriptions where trial paid to conversion occurred during the specified time period</span></span>  
+ - <span data-ttu-id="c7a0f-141">**Conversie van proefversie:** het aantal **actieve abonnementen** waarbij de proefversie die is betaald voor conversie is opgetreden tijdens de opgegeven periode</span><span class="sxs-lookup"><span data-stu-id="c7a0f-141">**Trial conversion**: Count of all **Active** subscriptions where trial paid to conversion occurred during the specified time period</span></span>  
 
-<span data-ttu-id="cac60-146">**Proef abonnementen die eindigen op 30 dagen**</span><span class="sxs-lookup"><span data-stu-id="cac60-146">**Trial subscriptions ending in 30 days**</span></span>  
+<span data-ttu-id="c7a0f-142">**Proefabonnementen die eindigen op 30 dagen**</span><span class="sxs-lookup"><span data-stu-id="c7a0f-142">**Trial subscriptions ending in 30 days**</span></span>  
 
- - <span data-ttu-id="cac60-147">Lijst met gestarte experimenten, waarbij de eind datum binnen 30 dagen valt en er geen betaalde begin datum aan het abonnement is gekoppeld</span><span class="sxs-lookup"><span data-stu-id="cac60-147">List of trials that were started, where the end date is within 30 days, and there is no paid start date associated with the subscription</span></span>  
+ - <span data-ttu-id="c7a0f-143">Lijst met proefversies die zijn gestart, waarbij de einddatum binnen 30 dagen ligt en er geen betaalde begindatum is gekoppeld aan het abonnement</span><span class="sxs-lookup"><span data-stu-id="c7a0f-143">List of trials that were started, where the end date is within 30 days, and there is no paid start date associated with the subscription</span></span>  
 
 
 
-## <a name="next-steps"></a><span data-ttu-id="cac60-148">Volgende stappen</span><span class="sxs-lookup"><span data-stu-id="cac60-148">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="c7a0f-144">Volgende stappen</span><span class="sxs-lookup"><span data-stu-id="c7a0f-144">Next steps</span></span>
 
-- [<span data-ttu-id="cac60-149">Analyseer de prestaties van uw indirecte wederverkopers</span><span class="sxs-lookup"><span data-stu-id="cac60-149">Analyze the performance of your indirect resellers</span></span>](analyze-indirect-resellers.md)
+- [<span data-ttu-id="c7a0f-145">De prestaties van uw indirecte resellers analyseren</span><span class="sxs-lookup"><span data-stu-id="c7a0f-145">Analyze the performance of your indirect resellers</span></span>](analyze-indirect-resellers.md)
