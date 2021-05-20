@@ -10,16 +10,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: bca5c5ff58ae222d06ac0de5f4aebde13cd87b0c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794969"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153018"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gebruikers- en licentiebeheer in Partner Center voor Microsoft Cloud Duitsland
 
-**Van toepassing op**: Partner Center | Partner Center voor Microsoft Cloud Duitsland
+**Van toepassing op**: Partner Center voor Microsoft Cloud Duitsland
 
 **Juiste rollen:** Globale | Accountbeheerder
 
@@ -34,14 +34,14 @@ Functie of mogelijkheid | Taken voltooien in
 :--- | :---
 Partnergebruikersbeheer | Office 365-beheercentrum of Azure for Microsoft Cloud Duitsland-beheerportal
 Klantgebruikersbeheer | Office 365-beheercentrum of Azure for Microsoft Cloud Duitsland-beheerportal
-Gebruikerswachtwoord opnieuw instellen | Azure for Microsoft Cloud Duitsland-beheerportal
+Gebruikerswachtwoord opnieuw instellen | Beheerportal voor Azure voor Microsoft Cloud Duitsland
 Licentiebeheer | Office 365-beheercentrum of Microsoft Cloud Duitsland Azure Active Directory Licensing-portal
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Gebruikers beheren in de Azure Portal voor Microsoft Cloud Duitsland 
 
-Als u bent aangemeld bij Partner Center voor Microsoft Cloud Duitsland, kunt u de Azure Portal voor Microsoft Cloud Duitsland openen zonder u opnieuw aan te melden. Als u zich echter rechtstreeks moet aanmelden bij de Azure Portal voor Microsoft Cloud Duitsland, gaat u naar [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
+Als u bent aangemeld bij Partner Center voor Microsoft Cloud Duitsland, kunt u de Azure Portal voor Microsoft Cloud Duitsland openen zonder dat u zich opnieuw moet aanmelden. Als u zich echter rechtstreeks moet aanmelden bij de Azure Portal voor Microsoft Cloud Duitsland, gaat u naar [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-Nadat u zich hebt aangemeld bij de Azure Portal voor Microsoft Cloud Duitsland, opent u de overzichtspagina van Azure Active Directory (Azure AD) en volgt u de instructies in deze artikelen:
+Nadat u zich hebt aangemeld bij de Azure Portal voor Microsoft Cloud Duitsland, opent u de overzichtspagina van uw Azure Active Directory (Azure AD) en volgt u de instructies in deze artikelen:
 
 > [!NOTE]  
 > Als u de onderstaande koppelingen selecteert, gaat u naar een andere website.

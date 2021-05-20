@@ -9,18 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 5da41cdbfa7aa1780b31e170a2398e8e7c65df27
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740281"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150859"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Belangrijke ID's voor een gebruiker zoeken
 
-**Juiste rollen**
-
-- Globale beheerder
+**Juiste rollen:** globale beheerder
 
 In dit artikel wordt beschreven hoe u de [Azure Portal](https://portal.azure.com/) zoeken naar de volgende informatie voor een gebruiker:
 
@@ -43,7 +41,7 @@ Volg deze stappen om de Azure AD-tenant-id of primaire domeinnaam in de Azure Po
 
    :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Toont Azure Portal de optie Azure Active Directory selecteren in het menu.":::
 
-3. Er Azure Active Directory **pagina Overzicht** weergegeven. Als u de Azure AD-tenant-id of primaire domeinnaam wilt zoeken, gaat u naar het **veld Tenant-id** en **het veld Primair** domein. Deze velden worden weergegeven in de sectie Tenantgegevens.
+3. Er Azure Active Directory **de pagina** Overzicht weergegeven. Als u de Azure AD-tenant-id of primaire domeinnaam wilt zoeken, gaat u naar het **veld Tenant-id** en **het veld Primair** domein. Deze velden worden weergegeven in de sectie Tenantgegevens.
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Toont de pagina Overzicht met twee gemarkeerde velden, tenant-id en primaire domeinnaam.":::
 

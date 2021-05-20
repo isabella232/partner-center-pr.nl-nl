@@ -1,37 +1,28 @@
 ---
-title: Api's gebruiken voor geautomatiseerde service meldingen
+title: API's gebruiken voor geautomatiseerde servicemeldingen
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Partners kunnen gebruikmaken van Api's voor Office 365 en Microsoft Azure partners voor Real-Time service status, berichten centrum communicatie en geplande onderhouds gebeurtenissen.
+description: Partners kunnen API's voor Office 365 en Microsoft Azure-partners gebruiken voor realtime service health, berichtencentrumcommunicatie en geplande onderhoudsgebeurtenissen.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdcc9feb9f6f022642ece217aa1ba17e24bd20da
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b5092113ca90bccab6414fdf4013c76dd0ab4969
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441435"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150808"
 ---
-# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Api's gebruiken voor geautomatiseerde service meldingen voor Azure Insights & Office 365-service communicatie
+# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>API's gebruiken voor geautomatiseerde servicemeldingen voor Azure Insights & communicatie met Office 365-service
 
-**Juiste rollen**
+**Juiste rollen:** beheeragent | Globale beheerder | Verkoopagent | Helpdeskagent
 
-- Beheer agent
-- Globale beheerder
-- Verkoop agent
-- Helpdesk medewerker
+Office 365 en Microsoft Azure bieden elk een API die partners kunnen gebruiken om realtime service health, berichtencentrumcommunicatie en geplande onderhoudsgebeurtenissen op te halen. Deze API's zijn openbaar beschikbaar en partners kunnen deze namens hun klanten gebruiken vanwege hun gedelegeerde beheerdersbevoegdheden.
 
-Office 365 en Microsoft Azure bieden elk een API die partners kunnen gebruiken voor het ophalen van Real-Time service status, berichten centrum communicatie en geplande onderhouds gebeurtenissen. Deze Api's zijn openbaar beschikbaar en partners kunnen deze namens hun klanten gebruiken vanwege hun gedelegeerde beheerders bevoegdheden.
+Deze API's zijn beschikbaar voor uw ontwikkelaars:
 
-Deze Api's zijn beschikbaar voor uw ontwikkel aars:
-
-- [Office 365 service Communications-API](/office/office-365-management-api/office-365-service-communications-api-reference)
-- [Naslag informatie over rest API](/rest/api/monitor/) voor Azure Insights
-
- 
-
- 
+- [Office 365-servicecommunicatie-API](/office/office-365-management-api/office-365-service-communications-api-reference)
+- Naslaginformatie over [rest-API voor](/rest/api/monitor/) Azure Insights

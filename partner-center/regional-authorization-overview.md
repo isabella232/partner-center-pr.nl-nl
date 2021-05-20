@@ -4,41 +4,41 @@ ms.topic: article
 ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bekijk de landen, regio's en valuta's waar u CSP-aanbiedingen kunt verkopen op basis van de locatie van uw bedrijf.
+description: Bekijk de landen, regio's en valuta's waar u CSP-aanbiedingen kunt verkopen, op basis van de locatie van uw bedrijf.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c3467ec4cf056d04392d3cbe9a61c66a80fc9bdb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855774"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153001"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programma regionale markten en valuta's waarin u CSP-aanbiedingen kunt verkopen
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programma regionale markten en valuta's waar u CSP-aanbiedingen kunt verkopen
 
 **Juiste rollen:** globale beheerder
 
-De locatie van uw bedrijf bepaalt uw markt. Uw markt omvat de regio's en/of landen waar u aanbiedingen Cloud Solution Provider CSP-programma 's kunt verkopen.
+De locatie van uw bedrijf bepaalt uw markt. Uw markt omvat de regio's en/of landen waar u aanbiedingen Cloud Solution Provider CSP-programma's kunt verkopen.
 
-Als uw bedrijf zich bijvoorbeeld in de Verenigde Staten bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in de Verenigde Staten en op de Amerikaanse eilanden. Als uw bedrijf zich in Brazilië bevindt, kunt u CSP-aanbiedingen alleen verkopen aan klanten in Brazilië. Als uw bedrijf zich in de regio Afrika bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in alle 18 landen in de regio Afrika.
+Als uw bedrijf zich bijvoorbeeld in de Verenigde Staten bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in de Verenigde Staten en op de Amerikaanse outlyingeilanden. Als uw bedrijf zich in Brazilië bevindt, kunt u CSP-aanbiedingen alleen verkopen aan klanten in Brazilië. Als uw bedrijf zich in de regio Afrika bevindt, kunt u CSP-aanbiedingen verkopen aan klanten in alle 18 landen in de regio Afrika.
 
 Voordat u CSP-aanbiedingen namens een klant kunt bestellen, moet de klant de Microsoft-klantovereenkomst. U vindt hier de toepasselijke Microsoft-klantovereenkomst voor uw [regio/land.](agreements.md)
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Beschikbaarheid van Azure Plan voor CSP-regio  
 
-Het Azure-plan voor CSP is beschikbaar in minder regio's dan Azure Software voor CSP. Zie Het Azure-abonnement kopen voor de meest recente updates over regionale beschikbaarheid voor [het Azure-abonnement.](purchase-azure-plan.md)
+Het Azure-plan voor CSP is beschikbaar in minder regio's dan Azure Software voor CSP. Zie Het Azure-abonnement kopen voor de meest recente updates over regionale beschikbaarheid voor [het Azure-plan.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> U moet bevestigen dat een klant de Microsoft-klantovereenkomst door informatie op te geven over de persoon die het heeft ondertekend. Zie [Confirm a customer's acceptance of the Microsoft-klantovereenkomst (Bevestigen dat](confirm-consent.md) een klant de Microsoft-klantovereenkomst voor meer informatie.
+> U moet bevestigen dat een klant de Microsoft-klantovereenkomst door informatie op te geven over de persoon die het heeft ondertekend. Zie [Bevestig dat een klant de Microsoft-klantovereenkomst](./confirm-customer-agreement.md) voor meer informatie.
 
 Als u wilt bepalen waar u CSP-aanbiedingen kunt verkopen, vindt u de locatie van uw bedrijf in een van de onderstaande lijsten. U moet een actieve MPN Microsoft Partner Network-id hebben voor de locatie waarin u wilt verkopen.  
 
 
 ## <a name="for-unsupported-countries"></a>Voor niet-ondersteunde landen
 
-Als uw land niet wordt ondersteund, stelt u de klant-CSP-relatie tot stand met behulp van de Office-beheerders-URL. 
+Als uw land niet wordt ondersteund, maakt u de klant-CSP-relatie met behulp van de Office-beheerders-URL. 
 
 - Partners voor directe factuur gebruiken de volgende URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Vervang **partnertenantguid door** uw tenant-id. 
 
@@ -175,7 +175,7 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Saint-Pierre en Miquelon|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>Regio en markt Europa
+## <a name="europe-region-and-market"></a>Regio en markt europa
 
 Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 

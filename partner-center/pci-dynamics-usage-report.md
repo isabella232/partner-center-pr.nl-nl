@@ -1,92 +1,87 @@
 ---
-title: Partner centrum Insights-gebruiks rapport voor Dynamics
+title: 'Partnercentrum: inzichten in dynamics-gebruiksrapport'
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bekijk wat u goed doet en waar u kunt verbeteren met Dynamics-abonnementen die u verkoopt of beheert voor uw klanten.
+description: Bekijk wat u goed doet en waar u het gebruik kunt verbeteren van Dynamics-abonnementen die u voor uw klanten verkoopt of beheert.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086920"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152797"
 ---
-# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het Dynamics-gebruiks rapport is beschikbaar via het Partner Center Insights-dash board
+# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het Dynamics-gebruiksrapport is beschikbaar via Partner Center Insights-dashboard
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
-- Globale beheerder
-- Beheer agent
-- Rapport viewer
-- Rapport Viewer Executive
-
-Het Dynamics-gebruiks rapport bevat gebruiks gegevens voor de Dynamics 365-abonnementen die u hebt verkocht of beheerd voor uw klanten. U kunt de volgende secties bekijken in het rapport over Dynamics-gebruik.
+Het Dynamics-gebruiksrapport bevat gebruiksgegevens voor de Dynamics 365-abonnementen die u hebt verkocht of beheert voor uw klanten. U kunt de volgende secties bekijken in het dynamics-gebruiksrapport.
 
 - Samenvatting
-- Gebruik van Dynamics per Geografie
-- Gebruik van Dynamics per SKU
+- Dynamics-gebruik per geografie
+- Dynamics-gebruik per SKU
 - Prestaties van abonnementen
-- Dynamics-gebruiks distributie
+- Dynamics-gebruiksdistributie
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights-dash board. Als u dit rapport wilt weer geven, moet u een specifieke rol aan het partner centrum toewijzen, zoals globale beheerder, account beheerder, rapport Viewer of Executive Report Viewer. Zie de globale beheerder van uw bedrijf voor meer informatie. specifieke typen gegevens in dit rapport zijn mogelijk alleen beschikbaar voor gebruikers met beheerders rechten voor de rapport viewer.
+ > Dit rapport is beschikbaar via het Insights-dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersrechten voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
-De sectie samen vatting bevat een moment opname van de belangrijkste indica toren voor Dynamics-gebruiks abonnementen die u hebt verkocht of beheerd voor uw klanten.  
+De samenvattingssectie bevat een momentopnameweergave van de belangrijkste indicatoren met betrekking tot Dynamics-gebruiksabonnementen die u hebt verkocht of beheert voor uw klanten.  
 
-- Beschik bare stoelen: totaal aantal verkochte licenties tijdens het geselecteerde tijds bestek.
+- Beschikbare seats: het totale aantal licenties dat tijdens het geselecteerde tijdsbestek is verkocht.
 
-   In de micro grafiek wordt een maand-over-maand-trend van het aantal beschik bare stoelen voor het geselecteerde datum bereik weer gegeven.
+   De Micro-grafiek geeft een trend voor de maand-over-maand weer van het aantal beschikbare seats voor uw geselecteerde datumbereik.
 
-- Toegewezen stoelen: totaal aantal licenties dat is toegewezen tijdens het geselecteerde tijds bestek.
+- Toegewezen seats: het totale aantal licenties dat is toegewezen tijdens het geselecteerde tijdsbestek.
 
-   In de micro grafiek wordt een maand-over-maand-trend van het aantal toegewezen seats weer gegeven tijdens het geselecteerde datum bereik.
+   In de Micro-grafiek wordt een trend voor de maand-over-maand weergegeven van het aantal toegewezen seats tijdens het geselecteerde datumbereik.
 
-- Actieve stoelen: totaal aantal licenties dat gebruik heeft tijdens het geselecteerde tijds bestek. 
+- Actieve seats: het totale aantal licenties dat tijdens het geselecteerde tijdsbestek is gebruikt. 
 
-   Het micro diagram geeft een maandelijkse trend van maandelijkse actieve stoelen gedurende de geselecteerde periode.
+   De Micro-grafiek toont een maandelijkse trend van maandelijks actieve seats gedurende de geselecteerde periode.
 
-- Actief gebruik%: het totale aantal actieve seats uitgedrukt als een percentage van de beschik bare stoelen voor het geselecteerde tijds bestek. 
+- Actief gebruik %: het totale aantal actieve seats, uitgedrukt als een percentage van de beschikbare seats voor het geselecteerde tijdsbestek. 
 
-   Het micro diagram geeft een maandelijkse trend van het actieve gebruiks percentage gedurende de geselecteerde tijds periode.
+   In de Micro-grafiek wordt een maandelijkse trend weergegeven van het actieve gebruikspercentage gedurende de geselecteerde periode.
 
 :::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Overzicht van Dynamics-gebruik":::
 
-## <a name="dynamics-usage-by-geography"></a>Gebruik van Dynamics per Geografie
+## <a name="dynamics-usage-by-geography"></a>Dynamics-gebruik per geografie
 
-In het **gebruik van Dynamics per geografie** ziet u de distributie van beschik bare stoelen en actieve stoelen per klant land. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkerere kleuren hogere waarden vertegenwoordigen. U kunt zoeken en een land selecteren in het raster. U kunt ook inzoomen voor een naderere zoek functie.
+Het **Dynamics-gebruik per geografie geeft** de verdeling van beschikbare seats en actieve seats per klantland weer. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkere kleuren hogere waarden vertegenwoordigen. U kunt een land in het raster zoeken en selecteren. U kunt ook inzoomen om dit nader te bekijken.
 
-**In het aantal landen/regio** tabel staan de totale landen/regio's waar Azure-gebruiks gebeurtenissen worden gegenereerd.
+De **tabel Aantal landen/regio's** bevat het totale aantal landen/regio's waar Azure-gebruiksgebeurtenissen worden gegenereerd.
 
-U kunt in het raster zoeken en een land selecteren om in te zoomen op de locatie in de kaart. Selecteer de optie **Start** op de kaart om terug te keren naar de oorspronkelijke weer gave.
+U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie op de kaart. Selecteer de **optie Start** op de kaart om terug te keren naar de oorspronkelijke weergave.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Gebruik van Dynamics per Geografie":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Dynamics-gebruik per geografie":::
 
-## <a name="dynamics-usage-by-sku"></a>Gebruik van Dynamics per SKU
+## <a name="dynamics-usage-by-sku"></a>Dynamics-gebruik per SKU
 
-Het gebruik van Dynamics per SKU toont een maandelijkse trend van beschik bare stoelen, actieve stoelen en toegewezen stoelen per SKU.
+Het Dynamics-gebruik per SKU toont de maandelijkse trend van beschikbare seats, actieve seats en toegewezen seats per SKU.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Gebruik van Dynamics per SKU":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Dynamics-gebruik per SKU":::
 
 ## <a name="subscriptions-performance"></a>Prestaties van abonnementen
 
-De abonnementen prestaties toont de maandelijkse trend van het actieve gebruik per klant abonnement. Gegevens voor de Top 100-klanten per gefactureerde omzet worden weer gegeven in de tabel en u kunt zoeken naar een klant of de onbewerkte gegevens downloaden om de Details voor alle abonnementen weer te geven.
+De prestaties van Abonnementen tonen de maandelijkse trend van actief gebruik per klantabonnement. Gegevens voor de 100 belangrijkste klanten op gefactureerde omzet worden weergegeven in de tabel en u kunt zoeken naar een klant of de onbewerkte gegevens downloaden om details voor alle abonnementen weer te geven.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Dynamics-abonnements prestaties":::
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Prestaties van Dynamics-abonnement":::
 
-## <a name="dynamics-usage-distribution"></a>Dynamics-gebruiks distributie
+## <a name="dynamics-usage-distribution"></a>Dynamics-gebruiksdistributie
 
-De Dynamics-gebruiks distributie toont de uitsplitsing van de beschik bare stoelen, actieve stoelen en toegewezen stoelen per SKU.
+De Dynamics-gebruiksdistributie toont de uitsplitsing van beschikbare seats, actieve seats en toegewezen seats op SKU's.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics-gebruiks distributie":::
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics-gebruiksdistributie":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie [Partner Center Insights](partner-center-insights.md)voor meer rapporten.
+- Zie Insights voor [Partner Center rapporten.](partner-center-insights.md)
 
-- U kunt de onbewerkte gegevens van dit rapport downloaden in het gedeelte Download rapporten van het inzichten-dash board. [Meer informatie](pci-download-reports.md) 
+- U kunt de onbewerkte gegevens voor dit rapport downloaden uit de sectie Rapporten downloaden in het Dashboard Inzichten. [Meer informatie](pci-download-reports.md) 

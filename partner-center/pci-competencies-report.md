@@ -1,96 +1,91 @@
 ---
-title: Partner centrum Insights-competenties rapport
+title: Partner Center Insights-competenties rapporteren
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bekijk wat u goed doet en waar u kunt verbeteren met betrekking tot micro soft-competenties, competentie niveaus en aanbiedingen die u helpen bij het leveren van micro soft-oplossingen.
+description: Bekijk wat u goed doet en waar u de competenties, competentieniveaus en aanbiedingen van Microsoft kunt verbeteren om u te helpen bij het leveren van Microsoft-oplossingen.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086257"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152882"
 ---
-# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport competenties is beschikbaar via het Partner Center Insights-dash board
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Competenties is beschikbaar via Partner Center Insights-dashboard
 
-**Juiste rollen**
+**Juiste rollen:** Globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
-- Globale beheerder
-- Beheer agent
-- Rapport viewer
-- Rapport Viewer Executive
+Met competenties kan uw bedrijf uw technische mogelijkheden voor het leveren van Microsoft-oplossingen demonstreren. Microsoft-competenties zijn ontworpen om te voldoen aan de behoeften van uw klanten en uw expertise te presenteren aan potentiële klanten. Ze bieden een schat aan voordelen van Microsoft, zoals inbegrepen hoeveelheden Azure-verbruik, rechten voor cloudproducten zoals Office 365, technische ondersteuning, Go-to-Market-aanbiedingen en andere. Er zijn momenteel in totaal 19 competenties in de volgende categorieën: **App en infrastructuur,** **Bedrijfstoepassingen,** Gegevens en **AI** en **Moderne werkplek.** Competenties zijn bijvoorbeeld gelaagd in Silver- of Gold-niveaus. Er is een hogere staaf voor Gold-competentie en een bijbehorend hoger niveau van marketingresources, aanbiedingen en programma's die beschikbaar zijn.  
 
-Met competenties kan uw bedrijf uw technische capaciteit aantonen voor het leveren van micro soft-oplossingen. Micro soft-competenties zijn ontworpen om te voldoen aan de behoeften van uw klanten en uw expertise te presen teren aan potentiële klanten. Ze worden geleverd met een schat aan voor delen van micro soft, zoals inbegrepen hoeveel heden Azure-verbruik, rechten voor Cloud producten zoals Office 365, technische ondersteuning, go-to-Market-aanbiedingen en anderen. Er zijn vandaag in totaal 19 competenties over de volgende categorieën: **app en infra structuur**, **zakelijke toepassingen**, **gegevens en AI** en **moderne werk plek**. Competenties worden gelaagd tot Silver-of Gold-niveaus, bijvoorbeeld. Er is een hogere balk voor Gold-competentie en een bijbehorend hoger niveau van marketing bronnen, aanbiedingen en Program ma's die beschikbaar zijn.  
+U krijgt meer gebruik van het competentierapport als u meer te weten komt over de levenscyclus van competentie, het bereiken van competentie en andere details van het competentierapport.
 
-U krijgt meer gebruik van het competentie rapport als u meer informatie wilt over de competentie-levens duur, de vaardig heden en andere competentie rapport Details.
+## <a name="competency-life-cycle"></a>Levenscyclus van competentie
 
-## <a name="competency-life-cycle"></a>Levens cyclus competentie
+Vanuit het oogpunt van de levenscyclus beginnen partners met het bouwen op de Key Performance Indicators (KPI's) die nodig zijn om specifieke competenties te verkrijgen. Zodra ze de drempelwaarde voor een bepaalde competentie voor alle vereiste metrische gegevens hebben bereikt, worden ze **gekwalificeerd** voor een competentie. Partners kunnen vervolgens betalen voor de competentieaanbieding (Silver of Gold) om de competentie te verkrijgen en actief **te** worden in die competentie. De status **Competentie** actief is één jaar geldig vanaf de datum van het bereiken van de competentie (dit wordt de jubileumdatum **voor** de competentie genoemd). Aan het einde van het jubileumjaar moeten partners voldoen aan de competentievereisten. Als ze niet opnieuw aan deze vereisten voldoen, verliezen ze de competentie. De **status At risk** voor een eerder behaald competentie betekent dat bepaalde belangrijke metrische gegevens worden geprojecteerd om onder de drempelwaarde te vallen op de **jubileumdatum van die competenties.**
 
-Vanuit het oogpunt van levenscyclus moeten partners beginnen met het bouwen van Kpi's (Key Performance Indica tors) die nodig zijn om specifieke competenties te bereiken. Zodra ze de drempel waarde voor een bepaalde competentie hebben bereikt over alle vereiste metrische gegevens, worden ze **gekwalificeerd** voor een competentie. Partners kunnen vervolgens betalen voor de competentie aanbieding (zilver of goud) om de competentie te bereiken en in die competentie **actief** te worden. De status competentie **actief** is geldig gedurende één jaar vanaf de datum van het bereiken van de competentie (dit wordt de **jubileum datum** voor de competentie genoemd). Aan het einde van het jubileum jaar moeten partners voldoen aan de competentie vereisten. Als ze niet opnieuw voldoen aan deze vereisten, raken ze de competentie kwijt. Een **van de risico** statussen voor een eerder gehaalde competentie betekent dat bepaalde belang rijke metrische gegevens worden geprojecteerd om onder de drempel waarde voor de **jubileum datum** van die competenties te vallen.
+## <a name="competency-attainment"></a>Competentie bereiken
 
-## <a name="competency-attainment"></a>Vaardig heden voor competentie
+Elke competentie heeft een specifieke set vereisten om aan te voldoen. Vereisten voor cloudcompetenties kunnen worden onderverdeeld in twee categorieën: vaardigheden en prestaties.
 
-Elke competentie heeft een specifieke set vereisten om te kunnen voldoen. De vereisten voor de Cloud competentie vallen in twee categorieën: vaardig heden en prestaties.
+- Vaardigheden: Vereisten omvatten vaak examens, evaluaties of certificeringen die personen binnen uw bedrijf moeten doorpassen.
 
-- Vaardig heden: vereisten omvatten bijvoorbeeld examens, beoordelingen of certificeringen die personen binnen uw bedrijf moeten door lopen.
+- Prestaties: Als u in aanmerking wilt komen voor een competentie, moet uw bedrijf voldoen aan bepaalde prestatiedrempelwaarden die zijn afgestemd op het competentiegebied. Uw bedrijf moet bijvoorbeeld mogelijk voldoen aan een minimum aan Azure-verbruik gedurende de laatste 12 maanden.
 
-- Prestaties: als u in aanmerking wilt komen voor een competentie, moet uw bedrijf voldoen aan bepaalde drempel waarden voor prestaties die zijn afgestemd op competentie gebied. Zo moet uw bedrijf mogelijk voldoen aan een minimale hoeveelheid Azure-verbruik gedurende de periode van 12 maanden.
+## <a name="competencies-report-details"></a>Rapportdetails competenties
 
-## <a name="competencies-report-details"></a>Details van competenties rapport
-
-U kunt de volgende secties in het rapport competenties bekijken:
+U kunt de volgende secties bekijken in het rapport Competenties:
 
 - Samenvatting
-- Analyse van vaardig heden voor metrische gegevens
-- Competentie geschiedenis
+- Analyse van metrische metrische competentiegegevens
+- Competentiegeschiedenis
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights-dash board. Als u dit rapport wilt weer geven, moet u een specifieke rol aan het partner centrum toewijzen, zoals globale beheerder, account beheerder, rapport Viewer of Executive Report Viewer. Zie de globale beheerder van uw bedrijf voor meer informatie. specifieke typen gegevens in dit rapport zijn mogelijk alleen beschikbaar voor gebruikers met beheerders rechten voor de rapport viewer.
+ > Dit rapport is beschikbaar via het dashboard Inzichten. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Executive Report Viewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
 
 ### <a name="summary"></a>Samenvatting
 
-In de weer gave samen vatting ziet u een aantal competenties met hun namen op elk competentie niveau (goud/zilver) in alle fasen van de levens cyclus van de competentie. Fasen van de levens cyclus voor competentie zijn onder andere: **gestart**, **gekwalificeerd**, **actief** en **risico**. Voor beeld: vereisten voor de Cloud competentie vallen onder twee categorieën: vaardig heden en prestaties.
+De samenvattingsweergave bevat een telling van competenties met hun namen op elk competentieniveau (Gold/Silver) voor alle fasen van de levenscyclus van de competentie. Fasen van de levenscyclus van de competentie zijn onder andere: **Gestart,** **Gekwalificeerd,** **Actief** en **Risico lopen.** Voorbeeld: Vereisten voor cloudcompetentie vallen onder twee categorieën: vaardigheden en prestaties.
 
-- Gestart: aantal competenties waarvoor een of meer van de onderliggende vereisten worden uitgevoerd.
-Uitsplitsing van de gestarte competenties aantallen per competentie niveau (zilver/goud) met competentie namen.
+- Gestart: Het aantal competenties waarvoor u een of meer van de onderliggende vereisten hebt die worden uitgevoerd.
+Uitsplitsing van het aantal gestarte competenties op competentieniveau (Silver/Gold) met competentienamen.
 
-- Gekwalificeerd: competenties waarvoor u aan de vereisten hebt voldaan, maar die mogelijk nog niet de bijbehorende Silver/Gold-aanbieding hebben gekocht. Uitsplitsing van het aantal gekwalificeerde competenties per competentie niveau (zilver/goud) met competentie namen.
+- Gekwalificeerd: competenties waarvoor u aan de vereisten hebt voldaan, maar de bijbehorende Silver/Gold-aanbieding mogelijk nog niet hebt gekocht. Uitsplitsing van het aantal gekwalificeerde competenties op competentieniveau (Silver/Gold) met competentienamen.
 
-- Actief: competenties waarvoor u aan de vereisten hebt voldaan en een Silver/Gold-aanbieding hebt gekocht. Uitsplitsing van het aantal actieve competenties per competentie niveau (zilver/goud) met competentie namen.
+- Actief: Competenties waarvoor u aan de vereisten hebt voldaan en een Silver/Gold-aanbieding hebt aangeschaft. Uitsplitsing van het aantal actieve competenties op competentieniveau (Silver/Gold) met competentienamen.
 
-- Risico (volgend jaar): het aantal competenties dat momenteel **actief** is, maar ook **risico** lopen dat er geen vereisten voor de vergadering voor het volgende jaar zijn.
-Uitsplitsing van competenties (op basis van competentie niveau, zoals zilver/goud, met competentie namen) die het risico lopen dat het volgende jaar niet in aanmerking komt.
+- Risico 's (volgend jaar): Aantal competenties  dat momenteel **actief** is, maar die ook het risico lopen om niet te voldoen aan de vereisten voor het volgende jaar.
+Uitsplitsing van competenties (op competentieniveau, zoals Silver/Gold, met competentienamen) die het risico lopen om niet in aanmerking te komen voor het volgende jaar.
 
-:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="samen vatting van competenties":::
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="samenvatting van competenties":::
 
-### <a name="competency-metric-analysis"></a>Metrische analyse van competentie
+### <a name="competency-metric-analysis"></a>Analyse van metrische competentie
 
-In deze weer gave wordt de status van competentie-metrische gegevens weer gegeven ten opzichte van de drempel waarden die nodig zijn voor partners om de competentie op het niveau van Silver/Gold te bereiken of te behouden. 
+In deze weergave ziet u de status van metrische competentiegegevens op basis van de drempelwaarden die partners nodig hebben om de competentie te verkrijgen/behouden op het niveau van Silver/Gold. 
 
-Het rapport kan worden gedraaid met het volgende, twee datumbereiken:
+Het rapport kan worden draait door het volgende, twee datumbereiken:
 
-1. Weer gave TTM: Hiermee worden de partner prestaties in de afgelopen 12 maanden (TTM) opgesomd.
-2. Weer gave van jubileum jaar: Hiermee worden de partner prestaties van de vorige jubileum datum opgesomd tot de volgende jubileum datum.
+1. TTM-weergave: hiermee worden de prestaties van partners in de afgelopen 12 maanden (TTM) opsnoemd.
+2. Weergave jubileumjaar: hiermee worden de prestaties van partners van de vorige jubileumdatum tot de volgende jubileumdatum opsnoemd.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="metrische analyse van competentie":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="analyse van metrische competentie":::
 
 > [!NOTE]
- > Niet alle metrische gegevens worden in de analyse behandeld. Op dit moment worden metrische gegevens die zijn gekoppeld aan Learning en certificering, niet ondersteund in het rapport competenties. Cloud Business Applications-competenties (dit) worden momenteel ook niet ondersteund in de metrische analyse voor de **actieve** competentie status.
+ > Niet alle metrische gegevens worden in de analyse behandeld. Op dit moment worden metrische gegevens die zijn gekoppeld aan leren en certificering niet ondersteund in het rapport Competenties. Cloud Business Applications (CBA)-competenties worden momenteel ook niet ondersteund in de metrische analyse voor de **competentiestatus** Actief.
 
-### <a name="competency-history"></a>Competentie geschiedenis
+### <a name="competency-history"></a>Competentiegeschiedenis
 
-In deze weer gave ziet u een gedetailleerde tabel met alle competenties die u tot nu toe hebt bereikt, met competentie niveau en competentie-fase.
+In deze weergave ziet u een gedetailleerde tabel met alle competenties die u tot nu toe hebt bereikt, met competentieniveau en competentiefase.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="competentie geschiedenis":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="competentiegeschiedenis":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie [Partner Center Insights](partner-center-insights.md)voor meer rapporten.
+- Zie Insights voor [Partner Center rapporten.](partner-center-insights.md)
 
 >[!NOTE] 
-> U kunt de onbewerkte gegevens van dit rapport downloaden in het gedeelte Download rapporten van het inzichten-dash board. [Meer informatie](pci-download-reports.md) 
+> U kunt de onbewerkte gegevens voor dit rapport downloaden uit de sectie Rapporten downloaden in het dashboard Inzichten. [Meer informatie](pci-download-reports.md) 

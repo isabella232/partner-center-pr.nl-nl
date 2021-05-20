@@ -1,91 +1,86 @@
 ---
-title: Partner centrum Insights-voor delen
+title: Partner Center Insights-voordelenrapport
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bekijk welke typen micro soft-partner voordelen u hebt gekregen om uw bedrijf te helpen groeien, de efficiëntie te verbeteren en de vaardig heden van uw team te verbeteren.
+description: Kijk welke soorten voordelen van Microsoft Partner u hebt gekregen om uw bedrijf te helpen groeien, de efficiëntie te verbeteren en de vaardigheden van uw team te verbeteren.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 488d5641422de3036cb36818c0aa21bdc81a3628
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087005"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152542"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport voor delen is beschikbaar via het Partner Center Insights-dash board
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Met voordelen dat beschikbaar is op Partner Center Insights-dashboard
 
-**Juiste rollen**
+**Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
-- Globale beheerder
-- Beheer agent
-- Rapport viewer
-- Rapport Viewer Executive
+Als Microsoft-partner hebt u toegang tot tal van voordelen die gebruikmaken van de nieuwste technologie en innovaties om u te helpen de vaardigheden van uw team te verbeteren, de efficiëntie te verbeteren en uw bedrijf te laten groeien. Voordelenpakketten zijn onder andere: toewijzingen van gelicentieerde software, cloudservices, Visual Studio abonnementen en ondersteuning. Deze pakketten kunnen ook bepaalde Go-To-Market-resources, aanbiedingen en programma's bevatten. Het rapport Voordelen bevat trends van de voordelen die u hebt gebruikt en het gebruik ervan tijdens het geselecteerde datumbereik.
 
-Als micro soft-partner kunt u toegang krijgen tot een aantal voor delen die gebruikmaken van de nieuwste technologie en innovaties om u te helpen de vaardig heden van uw team te verbeteren, de efficiëntie te verbeteren en uw bedrijf te verg Roten. Voor delen van pakketten zijn onder andere: toewijzingen van gelicentieerde software, Cloud Services, Visual Studio-abonnementen en ondersteuning. Deze pakketten kunnen ook bepaalde go-to-Market-resources,-aanbiedingen en-Program ma's omvatten. Het rapport voor delen geeft trends weer van de voor delen die u hebt geopend en het gebruik ervan tijdens het geselecteerde datum bereik.
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="overzicht van de pagina Voordelen":::
 
-:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="overzicht van de pagina voor delen":::
-
-U kunt de volgende grafieken in het rapport voor delen visualiseren:
+U kunt de volgende grafieken visualiseren in het rapport Voordelen:
 
 - Samenvatting
-- Cloud Services verleend
+- Cloudservices verleend
 - Softwareproducten
 - Visual Studio-abonnementen
 - Technische voordelen
-- Go-to-Market
+- Go-to-market
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights-dash board. Als u dit rapport wilt weer geven, moet u een specifieke rol aan het partner centrum toewijzen, zoals globale beheerder, account beheerder, rapport Viewer of Executive Report Viewer. Zie de globale beheerder van uw bedrijf voor meer informatie. specifieke typen gegevens in dit rapport zijn mogelijk alleen beschikbaar voor gebruikers met beheerders rechten voor de rapport viewer.
+ > Dit rapport is beschikbaar via het dashboard Inzichten. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Executive Report Viewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
 
 ## <a name="summary"></a>Samenvatting
 
-In het gedeelte samen vatting worden de voor delen vermeld die worden verleend met betrekking tot gelicentieerde software, Cloud Services (niet-Azure), Visual Studio-abonnementen, technische ondersteuning en bepaalde go-to-Market-Services of-aanbiedingen.
+De sectie Samenvatting bevat de voordelen die worden verleend in termen van gelicentieerde software, cloudservices (niet-Azure), Visual Studio-abonnementen, technische ondersteuning en bepaalde Go-To-Market-services of -aanbiedingen.
 
-Voor beeld: lidmaatschaps partners van Microsoft Partner Network (MPN) komen in aanmerking voor technische ondersteuning van on-premises producten en Cloud producten. Partners die een Silver-competentie bereiken, krijgen technische ondersteuning voor 15 incidenten voor on-premises producten. Ze kunnen deze ondersteuning naar behoefte gebruiken. 
+Voorbeeld: Microsoft Partner Network (MPN)-lidmaatschapspartners komen in aanmerking voor technische ondersteuning van on-premises producten en cloudproducten. Partners die silver-competentie hebben, krijgen technische ondersteuning voor 15 incidenten voor on-premises producten. Ze kunnen deze ondersteuning naar behoefte gebruiken. 
 
-:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="samen vatting van voor delen":::
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="samenvatting van voordelen":::
 
-## <a name="cloud-services-granted"></a>Cloud Services verleend
+## <a name="cloud-services-granted"></a>Cloudservices verleend
 
-Dit diagram toont de maandelijkse trend van licenties die zijn verleend tijdens het geselecteerde datum bereik voor abonnementen op basis van licenties van de geselecteerde Cloud service.
-Selecteer een Cloud service op het tabblad **Services** om de grafiek voor een specifieke Cloud service weer te geven. De lijn grafiek vertegenwoordigt de totale licenties die aan uw bedrijf worden verleend.
+In deze grafiek wordt de maandelijkse trend weergegeven van licenties die zijn verleend tijdens het geselecteerde datumbereik voor op licenties gebaseerde abonnementen van de geselecteerde cloudservice.
+Selecteer een cloudservice op het **tabblad Services** om de grafiek voor een specifieke cloudservice weer te geven. De lijngrafiek vertegenwoordigt de algemene licenties die aan uw bedrijf zijn verleend.
 
-:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="Cloud Services verleend":::
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="cloudservices verleend":::
 
 ## <a name="software-products"></a>Softwareproducten
 
-Dit diagram toont de maandelijkse trend van licenties die zijn verleend tijdens het geselecteerde datum bereik voor een specifiek software product. Selecteer een software product in de vervolg keuzelijst boven op de grafiek om de trend van een specifiek software product weer te geven dat u als voor delen hebt verleend. De lijn grafiek vertegenwoordigt de totale licenties die aan uw bedrijf worden verleend.
+In deze grafiek wordt de maandelijkse trend weergegeven van licenties die zijn verleend tijdens het geselecteerde datumbereik voor een specifiek softwareproduct. Selecteer een softwareproduct in de vervolgkeuzelijst boven aan de grafiek om de trend te bekijken van een specifiek softwareproduct dat u als voordelen krijgt. De lijngrafiek vertegenwoordigt de algemene licenties die aan uw bedrijf zijn verleend.
 
-:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="verleende software producten":::
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="softwareproducten verleend":::
 
 ## <a name="visual-studio-subscriptions"></a>Visual Studio-abonnementen
 
-Dit diagram toont de maandelijkse trend van Visual Studio-abonnementen die zijn geactiveerd voor abonnementen die u tijdens het geselecteerde datum bereik hebt toegewezen.
+Deze grafiek toont de maandelijkse trend van Visual Studio geactiveerd op basis van abonnementen die u hebt toegewezen tijdens het geselecteerde datumbereik.
 
-Selecteer een tabblad boven in het diagram om de trend te bekijken van een specifiek Visual Studio-abonnement dat u als voor delen hebt verleend. Kolommen in de grafiek vertegenwoordigen de licenties die voor het abonnement zijn gebruikt. De lijn grafiek vertegenwoordigt de totale licenties die zijn toegewezen aan het abonnement.
+Selecteer een tabblad boven aan de grafiek om de trend weer te geven van een specifiek Visual Studio-abonnement dat als voordelen wordt verleend. Kolommen in de grafiek vertegenwoordigen licenties die worden gebruikt voor het abonnement. De lijngrafiek vertegenwoordigt de algemene licenties die zijn toegewezen voor het abonnement.
 
-:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio-abonnementen":::
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio abonnementen":::
 
 ## <a name="technical-benefits"></a>Technische voordelen
 
-Dit diagram toont de maandelijkse trend van de ondersteunings voordelen die zijn verleend tijdens het geselecteerde datum bereik.
+In dit diagram wordt de maandelijkse trend weergegeven van ondersteuningsvoordelen die zijn verleend tijdens het geselecteerde datumbereik.
 
-Selecteer een tabblad boven in het diagram om de trend te bekijken van een specifiek ondersteunings voordeel dat u hebt toegekend. De lijn grafiek geeft het totale aantal uur aan ondersteuning dat is toegewezen aan het geselecteerde ondersteunings voordeel.
+Selecteer een tabblad boven aan de grafiek om de trend te bekijken van een specifiek ondersteuningsvoordeel dat aan u is verleend. De lijngrafiek vertegenwoordigt de totale uren aan ondersteuning die zijn toegewezen voor het geselecteerde ondersteuningsvoordeel.
 
-:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="technische voor delen":::
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="technische voordelen":::
 
-## <a name="go-to-market-offers-or-services"></a>Go-to-Market-aanbiedingen of-services
+## <a name="go-to-market-offers-or-services"></a>Go-To-Market-aanbiedingen of -services
 
-Dit diagram toont de maandelijkse trend van Go-to-Market-aanbiedingen of services die zijn geactiveerd op basis van toegewezen tijdens het geselecteerde datum bereik en voor een geselecteerde go-to-Market-aanbieding of service categorie.
+In dit diagram wordt de maandelijkse trend weergegeven van Go-To-Market-aanbiedingen of -services die zijn geactiveerd op basis van toegewezen tijdens het geselecteerde datumbereik en voor een geselecteerde Go-To-Market-aanbieding of -servicecategorie.
 
-Selecteer een go-to-Market-aanbieding of service categorie in de vervolg keuzelijst boven aan het diagram om de trend te bekijken van de geselecteerde go-to-Market-services die aan uw bedrijf zijn verleend. Kolommen in de grafiek vertegenwoordigen de gestarte markt aanbiedingen of services die zijn geactiveerd. De lijn grafiek vertegenwoordigt de totale go-to-Market-aanbiedingen of services die aan uw bedrijf worden verleend.
+Selecteer een Go-To-Market-aanbieding of servicecategorie in de vervolgkeuzelijst boven aan de grafiek om de trend te bekijken van de geselecteerde Go-To-Market-services die aan uw bedrijf zijn verleend. Kolommen in de grafiek vertegenwoordigen Go-To-Market-aanbiedingen of -services die zijn geactiveerd. De lijngrafiek vertegenwoordigt de algemene Go-To-Market-aanbiedingen of -services die aan uw bedrijf worden verleend.
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Go-to-Market-aanbiedingen":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Go-To-Market-aanbiedingen":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie [Partner Center Insights](partner-center-insights.md)voor meer rapporten.
+- Zie Insights voor [Partner Center rapporten.](partner-center-insights.md)

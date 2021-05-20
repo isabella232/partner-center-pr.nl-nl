@@ -1,70 +1,67 @@
 ---
-title: Het dash board rapport voor inzichten downloaden
+title: Rapportdashboard voor het downloaden van inzichten
 ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het downloaden en exporteren van gegevens van het dash board voor Unified Reporting van partner Center en van partner Center Insights-rapporten.
+description: Meer informatie over het downloaden en exporteren van gegevens vanuit Partner Center dashboard voor geïntegreerde rapportage en Partner Center Insights-rapporten.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086223"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152780"
 ---
 # <a name="download-reports"></a>Rapporten downloaden
 
-**Juiste rollen**
-
-- Rapport Viewer Executive
-- Rapport viewer
+**Juiste rollen:** Rapportviewer voor leidinggevenden | Rapportviewer
 
 ## <a name="introduction"></a>Introductie
 
-Met de hub voor het downloaden van rapporten in het Insights-dash board kunt u de onbewerkte gegevens sets exporteren die de rapporten van partner Center Insights in de vorm van een door tabs gescheiden waarden (TSV) hebben. Zo kunt u een diep gaande analyse van de gegevens uitvoeren op basis van de bedrijfs behoeften.
+Met de hub Rapporten downloaden in het Insights-dashboard kunt u de onbewerkte gegevenssets exporteren die de Partner Center Insights-rapporten mogelijk maken, in TSV-indeling (door tabs gescheiden waarden). Hiermee kunt u de gegevens verder analyseren op basis van de bedrijfsbehoeften.
 
-Zodra het rapport is gegenereerd, wordt het weer gegeven in de sectie **gegenereerde rapporten** , zodat u het kunt downloaden en analyseren met behulp van hulpprogram Ma's zoals micro soft Excel.
+Zodra het rapport is gegenereerd, is het beschikbaar in de sectie **Gegenereerde** rapporten, waar u het kunt downloaden en analyseren met behulp van hulpprogramma's zoals Microsoft Excel.
 
 **Nieuw rapport maken**
 
-Als u een rapport wilt genereren, selecteert u eerst het rapport in de vervolg keuzelijst **rapport selecteren** . Selecteer vervolgens het datum bereik in de vervolg keuzelijst **datum bereik selecteren** . Selecteer **genereren**. Het rapport wordt gegenereerd in de indeling van de door tabs gescheiden waarden (TSV) en kan binnen een paar minuten worden gedownload in de sectie **gegenereerde rapporten** . Rapporten die zijn gegenereerd in de afgelopen 14 dagen, kunnen worden gedownload.
+Als u een rapport wilt genereren, selecteert u eerst het rapport in **de vervolgkeuze** selecteren. Selecteer vervolgens het datumbereik in de **vervolgkeuzekeuze selecteren.** Selecteer **Genereren.** Het rapport wordt gegenereerd in door tabs gescheiden waarden (TSV)  en kan binnen enkele minuten worden gedownload in de sectie Gegenereerde rapporten. Rapporten die in de afgelopen 14 dagen zijn gegenereerd, kunnen worden gedownload.
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Nieuw rapport maken":::
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Gegenereerde rapporten":::
 
 >[!NOTE] 
->Alleen gebruikers die management zijn van een rapport, kunnen rapporten downloaden. Raadpleeg [PCI-rollen](pci-roles.md)voor meer informatie over op rollen gebaseerde toegang tot de inzichten Dashboard rapporten. 
+>Alleen gebruikers die leidinggevende rapportgebruikers zijn, kunnen rapporten downloaden. Raadpleeg PCI-rollen voor meer informatie over op rollen [](pci-roles.md)gebaseerde toegang tot de insights-dashboardrapporten. 
 
 ## <a name="available-reports"></a>Beschikbare rapporten
 
-De volgende rapporten zijn beschikbaar voor downloaden:
+De volgende rapporten kunnen worden gedownload:
 
-Het **partner profiel** bevat details over de partner. Details zoals de partner-ID, partner naam, partner plaats en partner land zijn in het rapport beschikbaar. Er is geen aggregatie of lookback van toepassing voor dit rapport.
+**Partnerprofiel** bevat de details met betrekking tot de partner. Details zoals partner-id, Partnernaam, Partnerland en Partnerland zijn beschikbaar in het rapport. Er is geen aggregatie of lookback van toepassing op dit rapport.
 
-**Klant gegevens** bieden de details van klanten aan wie een partner is gekoppeld. Het bevat ook belang rijke metrische gegevens, zoals verkochte licenties, geaggregeerde ACR, enzovoort. Het rapport wordt op maand basis geaggregeerd.
+**Klantgegevens** bieden de details van klanten die aan een partner zijn gekoppeld. Het biedt ook belangrijke metrische gegevens, zoals verkochte licenties, geaggregeerde ACR, en meer. Het rapport wordt maandelijks geaggregeerd.
 
-**Details** van de abonnementen bieden Details over de abonnementen die worden verkocht of beheerd door de partner en klant gegevens. Het rapport wordt op maand basis geaggregeerd.
+**Details van abonnementen** bevatten de details van de abonnementen die zijn verkocht of beheerd door de partner, samen met klantgegevens. Het rapport wordt maandelijks geaggregeerd.
 
-**Azure Usage** biedt de details van het Azure-gebruik. Deze details zijn voor de Azure-abonnementen die worden verkocht of beheerd door de partner. De gebruiks gegevens zijn gesplitst op meter categorie en andere belang rijke dimensies. Het rapport wordt op maand basis geaggregeerd.
+**Azure-gebruik** biedt de azure-gebruiksgegevens. Deze gegevens zijn voor de Azure-abonnementen die worden verkocht of beheerd door de partner. De gebruiksgegevens worden gesplitst per metercategorie en andere sleuteldimensie. Het rapport wordt maandelijks geaggregeerd.
 
-**Office365: het gebruik van licenties** biedt informatie over het gebruik van O365-licenties die worden verkocht of beheerd door de partner. Het biedt ook informatie over de klant en belang rijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, enzovoort. Het rapport wordt op maand basis geaggregeerd.
+**Office365- Licentiegebruik bevat** de gebruiksgegevens van O365-licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
-**Enter prise Mobility – licentie gebruik**  geeft de gebruiks gegevens van ENTER prise Mobility-licenties die worden verkocht of beheerd door de partner. Het biedt ook informatie over de klant en belang rijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, enzovoort. Het rapport wordt op maand basis geaggregeerd.
+**Enterprise Mobility – License Usage bevat**  de gebruiksgegevens van Enterprise Mobility-licenties die worden verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
-**Dynamics 365 – licentie gebruik** geeft de gebruiks Details van D365 licenties die worden verkocht of beheerd door de partner. Het biedt ook informatie over de klant en belang rijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, enzovoort. Het rapport wordt op maand basis geaggregeerd.
+**Dynamics 365 – Licentiegebruik bevat** de gebruiksgegevens van D365-licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
-**Power bi-licentie gebruik** geeft de gebruiks details van Power bi licenties die worden verkocht of beheerd door de partner. Het biedt ook informatie over de klant en belang rijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, enzovoort. Het rapport wordt op maand basis geaggregeerd.
+**Power BI: licentiegebruik bevat** de gebruiksgegevens van Power BI licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
-**Opleidingen** bieden de details zoals examens, certificeringen, beoordelingen, sporen, cursussen die zijn voltooid of door werk nemers van de partner.
+**Trainingen** bieden de details, zoals examens, certificeringen, evaluaties, sporen, cursussen die zijn voltooid of opgenomen door werknemers van de partner.
 
-**Microsoft Learn** biedt Details over de modules, Details van het leer traject samen met de gebruikers gegevens voor de partner.
+**Microsoft Learn** informatie over de modules, voltooiingsdetails van het leertraject en gebruikersgegevens voor de partner.
 
-**Competenties – samen vatting en geschiedenis** bevat details over alle competenties die actief zijn, worden uitgevoerd of risico lopen voor deze partner. Bevat ook geschiedenis van alle competenties die door de partner zijn behaald.
+**Competenties : samenvatting en geschiedenis** bevat details van alle competenties die actief, in uitvoering of risico lopen voor deze partner. Bevat ook de geschiedenis van alle competenties die door de partner zijn behaald.
 
-**Competenties: prestatie Details** bieden Details over de manier waarop de partner bezig is met betrekking tot de kpi's voor het bereiken van een bepaalde set competenties.
+**Competenties : prestatiedetails** bieden gedetailleerde informatie over hoe de partner het doet met betrekking tot de KPI's voor het bereiken van een bepaalde set competenties.
 
