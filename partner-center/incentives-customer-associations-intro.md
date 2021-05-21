@@ -7,26 +7,30 @@ ms.topic: conceptual
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 1895f89933668e909748178dcdaf4a54e4843096
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 05/20/2021
+ms.openlocfilehash: 9bcdd9e99f9db5271a1ca51dab01c376c938acc9
+ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146779"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "110236080"
 ---
-# <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Gebruik deze resources om claims voor klantbinding te maken voor specifieke incentives-programma's
+# <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Gebruik deze resources om klantbindingsclaims te maken voor specifieke incentives-programma's
 
 **Juiste rollen:** Incentives-| Incentives-gebruiker
 
 In dit artikel worden resources gedeeld voor Microsoft-partners die voldoen aan de volgende criteria:
 
-- U maakt deel uit van de volgende Incentives-programma's van Microsoft: Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 en OSU-Business Application incentives.
+- U maakt deel uit van de volgende Microsoft Incentives-programma's: Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 en OSU-Business Application incentives.
 
-- U werkt met Microsoft 365 of Dynamics 365-klanten en u wilt een deel van dit werk in de bovenstaande incentive-programma's verwijzen of claimen.
+- U werkt met Microsoft 365 of Dynamics 365-klanten en wilt een deel van dit werk in de bovenstaande incentive-programma's verwijzen of claimen.
 
 Als u aan de criteria voldoet, moet u het CPOR-model (Claiming Partner of Record) gebruiken om klant verbanden voor deze incentives-programma's te maken en beheren.
- 
+
+## <a name="explaining-claiming-partner-of-record-cpor-to-customers"></a>Uitleg over Claiming Partner of Record (CPOR) aan klanten
+
+Met CPOR kan Microsoft partners identificeren en herkennen die klanten helpen zakelijke doelstellingen te bereiken en waarde te realiseren in de cloud. Zodra een partner aan een workload of abonnement is koppelt, krijgt deze toegang tot gebruiksgegevens en/of verkochte seats. Dankzij toegang tot dergelijke gegevens kunnen partners actief gebruik bewaken en tegelijkertijd klanten aanbevelingen geven voor het maximaliseren van het gebruik. Partners hebben geen toegang tot andere klantgegevens. Daarnaast helpt de CPOR-associatie Microsoft inzicht te krijgen in het ecosysteem van serviceproviders en helpt microsoft ook om te bepalen hoe de hulpprogramma's en programma's die nodig zijn om onze algemene klanten zo goed mogelijk te ondersteunen, moeten worden verfijnd. Er is geen actie vereist voor de klant. We bieden klanten de mogelijkheid om af te zien van een CPOR-associatie. Klanten ontvangen een melding van partners over de aanvraag voor de associatie. Als een klant de associatie met een partner afkent, wordt de partner niet herkend als de partner van de record.
+
 ## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>Hoe verhouden klantorganisaties en CPOR zich tot incentives?
 
 Microsoft gebruikt nu het Claiming Partner of Record (CPOR)-model voor het beheren van de verbanden die u hebt met uw Microsoft 365 en Dynamics 365-klanten.
@@ -41,15 +45,14 @@ Door uw aanvraag voor associatie te accepteren, geeft de klant u toegang tot een
 
 ## <a name="resources-to-help-you-create-and-manage-customer-associations"></a>Resources voor het maken en beheren van klant verbanden
 
-In de onderstaande artikelen wordt beschreven hoe u klantverbindingen kunt maken, beheren en problemen kunt oplossen.
 
 |  **Om dit te doen**  |  **Leest u**  |
 |--------------|-----------|
-| Meer informatie over het maken van een klantorganisatie  | [Een klantbinding maken met behulp van het CPOR-model](submit-osa-claim.md)  |
-|Inzicht in het beheren van uw klantorganisaties  | [Klantkoppelingen beheren](incentives-manage-customer-associations.md)  |
+| Meer informatie over het maken van een klantorganisatie  | [Een klantorganisatie maken met behulp van het CPOR-model](submit-osa-claim.md)  |
+|Inzicht krijgen in het beheren van klant verbanden  | [Klantkoppelingen beheren](incentives-manage-customer-associations.md)  |
 |Problemen met klantbinding oplossen  | [Problemen met klantkoppeling](incentives-customer-association-issues.md)  |
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Is incentives nieuw voor u? Ontdek wat u nodig hebt om aan [de slag te gaan](incentives-get-started-intro.md)
-- Meer informatie over [co-op-claims voor incentives](claims-overview.md)
+- Bent u niet nieuw in incentives? Ontdek wat u nodig hebt om [aan de slag te gaan](incentives-get-started-intro.md)
+- Meer informatie over [coöpclaims voor incentives](claims-overview.md)
