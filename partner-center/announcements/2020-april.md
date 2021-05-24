@@ -1,6 +1,6 @@
 ---
 title: Aankondigingen van april 2020
-description: Mede delingen van april 2020 voor het micro soft Partner Center, zoals nieuwe mogelijkheden, aanbiedingen, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
+description: Aankondigingen van april 2020 voor Microsoft Partner Center, zoals nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,19 +8,19 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2020
-ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.date: 05/21/2021
+ms.openlocfilehash: e2efd42acaf0abae8837891758c55f89a4dd7df8
+ms.sourcegitcommit: b59d886d372338eb31bbeb6a7d554ce543738bae
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439142"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "110325476"
 ---
 # <a name="april-2020-announcements"></a>Aankondigingen van april 2020
 
-Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Partner Center voor april 2020.
+Op deze pagina worden de aankondigingen voor Microsoft Partner Center voor april 2020.
 
-2020 aankondigingen: [januari 2020](2020-january.md)  |  [februari 2020](2020-february.md)  |  [2020](2020-march.md) | 2020 april | [Mei 2020](2020-may.md)
+Aankondigingen van [2020: januari 2020](2020-january.md)  |  [februari 2020](2020-february.md)  |  [maart 2020](2020-march.md) | April 2020 | [Mei 2020](2020-may.md)
 
 _________________
 
@@ -29,420 +29,420 @@ _________________
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-30
-- Type: mogelijkheden
+- Type: Mogelijkheden
 
 
 
 ### <a name="summary"></a>Samenvatting
 
-Op 4 mei 2020 (12:01am UTC) introduceert micro soft nieuwe aanbiedingen voor Office 365 E1 en Microsoft 365 Business Basic, waarbij de huidige proef versie van 6 maanden van Office 365 E1 voor nieuwe klanten wordt vervangen.
+Op 4 mei 2020 (12:01 uur UTC) introduceert Microsoft nieuwe promoties voor Office 365 E1 en Microsoft 365 Business Basic, zodat de huidige proefversie van Office 365 E1 voor nieuwe klanten wordt vervangen.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners communiceren via het programma Cloud Solution Provider (CSP). Deze aanbieding is alleen beschikbaar voor net nieuwe commerciële klanten.
+Alle partners die het programma Cloud Solution Provider (CSP). Deze promotie is alleen beschikbaar voor nieuwe commerciële klanten.
 
 ### <a name="details"></a>Details
 
-Als onderdeel van [de toezeg ging van micro soft aan klanten](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) tijdens deze ongekende tijd, werd een proef versie van 6 maanden van Office 365 E1 beschikbaar gesteld voor nieuwe klanten (zie definitie hieronder).
-Op 4 mei 2020 maakt micro soft nieuwe kortings aanbiedingen voor Office 365 E1 en Microsoft 365 Business Basic beschikbaar om deze producten gratis te bieden voor de eerste zes maanden van hun maandelijkse gefactureerde jaar abonnement, voor nieuwe klanten.
+Als onderdeel van de toezegging van [Microsoft](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) aan klanten in deze ongekende tijden, is een proefversie van zes maanden van Office 365 E1 beschikbaar gesteld in CSP voor nieuwe klanten (zie de onderstaande definitie).
+Op 4 mei 2020 introduceert Microsoft nieuwe kortingsacties voor Office 365 E1 en Microsoft 365 Business Basic om deze producten de eerste zes maanden van hun maandelijks gefactureerde jaarlijkse abonnement gratis aan te bieden voor nieuwe klanten.
 
-Deze aanbiedingen vervangen de huidige proef versie van Office 365 E1 en verschillen op de volgende manieren:
+Deze promoties vervangen de huidige office 365 E1-proefversie en verschillen op de volgende manieren:
 
-- Partners handelen jaarlijks Office 365 E1 of Microsoft 365 Business Basic Sku's maken gebruik van een CSP-aanbieding met een korting van 100% voor de eerste zes maanden, in plaats van een unieke proef versie van 6 maanden. Meer [informatie over CSP-aanbiedingen](../promotions.md).
-- Best Ellen is technisch beperkt tot ' nieuwe klanten ', in plaats van de proef versie van Office 365 E1, die werd beperkt tot nieuwe klanten via een schriftelijke beleids regel. 
-- Voor SMB-klanten is Microsoft 365 Business Basic opgenomen in deze promotie. Zo zorgt u ervoor dat partners klanten kunnen starten met minder dan 300 seats in de juiste product familie met Microsoft 365 voor bedrijven.
-Klanten die momenteel zijn gelicentieerd met de proef versie van Office 365 E1 (beschikbaar tot 4 mei 2020) blijven op hun huidige abonnement. deze wijziging is alleen van invloed op net nieuwe klanten.
+- Partners betalen jaarlijks Office 365 E1- of Microsoft 365 Business Basic-SKU's met behulp van een CSP-promotie die de eerste zes maanden een korting van 100% hanteert in plaats van een unieke proefversie van zes maanden. [Meer informatie over CSP-promoties.](../promotions.md)
+- Bestellen wordt technisch beperkt tot 'alleen nieuwe klanten', in plaats van de proefversie van Office 365 E1, die alleen via geschreven beleid is beperkt tot nieuwe klanten. 
+- Voor SMB-klanten wordt Microsoft 365 Business Basic opgenomen in deze promotie. Dit zorgt ervoor dat partners klanten kunnen starten met minder dan 300 seats in de juiste productfamilie met Microsoft 365 voor bedrijven.
+Klanten die momenteel een licentie hebben voor de proefversie van Office 365 E1 (beschikbaar tot 4 mei 2020), blijven op hun huidige abonnement. Deze wijziging heeft alleen gevolgen voor nieuwe netklanten.
 
 Definitie van nieuwe klanten
 
 Nieuwe klanten die in aanmerking komen voor deze promotie zijn:
 
-1. Net nieuwe klant tenants
-2. Bestaande klanten die momenteel geen betaalde of recent geannuleerde abonnement hebben (binnen de laatste 30 dagen) in hun Tenant voor een van de producten die zijn gedefinieerd in de micro soft partner-gids met veelgestelde vragen (FAQ)
+1. Netto nieuwe klantten tenants
+2. Bestaande klanten die geen momenteel betaald of onlangs geannuleerd abonnement (binnen de afgelopen 30 dagen) in hun tenant hebben voor een van de producten die zijn gedefinieerd in de handleiding Veelgestelde vragen over Microsoft Partner
 
  
-### <a name="additional-resources"></a>Aanvullende resources
+### <a name="additional-resources"></a>Aanvullende bronnen
 
-- Ga naar het [partner centrum voor partners](https://www.microsoft.com/microsoft-365/partners/remotework) voor meer informatie over veilig extern werk.
+- Ga naar [het Partner Remote Work Resources Center](https://www.microsoft.com/microsoft-365/partners/remotework) voor meer informatie over Beveiligd extern werk.
 
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Neem contact op met de bovenstaande wijzigingen, de prijs lijst mei 2020 en deel deze informatie met alle relevante contact personen in uw organisatie.
+Zorg dat u vertrouwd bent met de bovenstaande wijzigingen, de prijslijst van mei 2020 en deel deze informatie met alle juiste contactpersonen in uw organisatie.
 
 ### <a name="questions"></a>Vragen?
 
-Voor elke andere vraag over deze aanbiedingen raadpleegt u de relevante Yammer-community's en neemt u contact op met uw vertegenwoordiger in het Microsoft-account-team.
+Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen en neem contact op met uw vertegenwoordiger in het Microsoft-account team.
 
 _________________
 
-## <a name="azure-reservations-new-customer-self-serve-capability-with-partner-permission"></a><a id="13"/></a>Azure Reservations nieuwe klant Self-Serve mogelijkheid met partner toestemming
+## <a name="azure-reservations-new-customer-self-serve-capability-with-partner-permission"></a><a id="13"/></a>Nieuwe klantondersteuning voor Azure-Self-Serve met partnermachtiging
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-29
-- Type: mogelijkheden
-- Status: nu beschikbaar
+- Type: Mogelijkheden
+- Status: Nu beschikbaar
 - [Meer informatie](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners in het Cloud Solution Provider-programma
+Partners in het Cloud Solution Provider programma
 
 ### <a name="summary"></a>Samenvatting
 
-Micro soft streeft ernaar flexibiliteit en opties te bieden om het voor klanten gemakkelijker te maken om producten en services van zowel micro soft als onze partners te kopen en te gebruiken.
+Microsoft streeft ernaar flexibiliteit en opties te bieden om het voor klanten eenvoudiger te maken producten en services van Microsoft en onze partners te kopen en te gebruiken.
 
-Als onderdeel van onze voortdurende toezeg ging maken we een nieuwe klant een eigen functie voor Azure-reserve ringen die de aankoop ervaring van klanten vereenvoudigt en het gebruik van Azure-reserve ringen verder verbeteren via partners in CSP.
+Als onderdeel van onze voortdurende toezegging introduceren we een nieuwe self-servicemogelijkheid van klanten voor Azure-reserveringen die de klantaankoopervaring vereenvoudigt en het gebruik van Azure-reserveringen verder verbetert via partners in CSP.
 
-Azure-reserve ringen zijn een uitstekende manier om Azure-Services te kopen tegen een kortings bedrag. Met deze nieuwe mogelijkheid hebben partners de keuze om klanten toestemming te geven om hun eigen resources te kopen met flexibiliteit binnen de bestaande Azure-abonnementen die ze al hebben gekocht voor hun klanten.
+Azure-reserveringen zijn een uitstekende manier om Azure-services te kopen tegen een gereduceerd tarief. Met deze nieuwe mogelijkheid hebben partners de keuze om klanten toestemming te geven om hun eigen resources flexibel te kopen binnen de bestaande Azure-abonnementen die ze al voor hun klanten hebben aangeschaft.
 
-Hier volgen enkele details over de werking van de functie:
+Hier zijn enkele details over hoe de mogelijkheid werkt:
 
-- Partners kunnen ervoor kiezen de mogelijkheid in te scha kelen op het individuele klant accountniveau en de klant aankoop controle te geven.
-- Standaard is de mogelijkheid ingesteld op ' uit ' en de partner kiest voor het inschakelen en verlenen van de machtiging van de klant.
-- Partners kunnen de aankoop van de klant binnen het partner centrum verifiëren en beheren.
-- Api's kunnen worden gebruikt om de machtiging van de klant op schaal in te scha kelen om het proces te automatiseren.
+- Partners kunnen ervoor kiezen om de mogelijkheid in teschakelen op het niveau van het individuele klantaccount en de klant aankoopbeheer te geven.
+- De mogelijkheid is standaard ingesteld op 'uit' en de partner kiest ervoor om de klant toestemming te geven en in te schakelen.
+- Partners kunnen de aankoop van de klant binnen een Partner Center.
+- API's kunnen worden gebruikt om machtigingen van klanten op schaal in te stellen om het proces te automatiseren.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-1. Begin om uw klanten te helpen hun eigen Azure-reserve ringen te kopen via de nieuwe mogelijkheid.
-2. [Bekijk de beschik bare resources in deze verzameling](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/) , met inbegrip van [technische documentatie](../give-customers-permission.md), een scenario voor het maken van een partner ervaring en een overzicht van de klant ervaring.
+1. Begin uw klanten te helpen hun eigen Azure-reserveringen te kopen met behulp van de nieuwe mogelijkheid.
+2. [Bekijk de resources die beschikbaar zijn in](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/) deze verzameling die meer informatie bieden, waaronder technische documentatie, een overzicht van de partnerervaring en een overzicht van de klantervaring. [](../give-customers-permission.md)
 
 _________________
 
-## <a name="microsoft-reversed-the-csp-eur-price-for-microsoft-365-e3"></a><a id="12"/></a>Micro soft heeft de CSP USD-prijs voor Microsoft 365 E3 omgekeerd.
+## <a name="microsoft-reversed-the-csp-eur-price-for-microsoft-365-e3"></a><a id="12"/></a>Microsoft heeft de CSP-prijs voor Microsoft 365 E3 omgedraaid.
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-24
-- Type: aanbiedingen/markten
-- Status: nu beschikbaar
+- Type: Aanbiedingen/markten
+- Status: Nu beschikbaar
 - [Meer informatie](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>Samenvatting
 
-Micro soft heeft een fout met betrekking tot de prijzen voor Microsoft 365 (M365) E3 op 1 april 2020 opgelost. Op 22 april 2020 heeft micro soft echter de prijs tijdelijk teruggezet om partners tijdens deze buitengewone omstandigheden te helpen.
+Microsoft heeft op 1 april 2020 een fout opgelost in de PRIJZEN voor Microsoft 365 (M365) E3. Op 22 april 2020 heeft Microsoft de prijs echter tijdelijk terugdraaid om partners te helpen in deze uitzonderlijke omstandigheden.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die M365 E3 worden door berekend op basis van de prijs lijst EUR in het Cloud Solution Provider-programma.
+Alle partners die M365 E3 via de LIJST MET PRIJZEN in het Cloud Solution Provider vereenigde.
 
 ### <a name="details"></a>Details
 
-Eerder in 2020 heeft we een fout ontdekt in de prijzen van USD voor Microsoft 365 E3 in CSP: de netto-prijs is lager dan verwacht. We hebben een systeem update gepland om de prijs te corrigeren, waarbij het prijs punt voor de aanbieding wordt gewijzigd op 1 april 2020.
+Eerder in 2020 hebben we een fout ontdekt in de EUR-prijzen voor Microsoft 365 E3 in CSP: de nettoprijs was lager dan had moeten zijn. We hebben een systeemupdate gepland om de prijs te corrigeren en het prijspunt voor de aanbieding te wijzigen op 1 april 2020.
 
-Hoewel de prijs fout is opgetreden, is het mogelijk dat de correctie en de prijzen op dit moment niet worden aangepast aan de buitengewone omstandigheden. Daarom gaan we tijdelijk met ingang van 22 april 2020 terugkeren naar onze vorige, lagere netto-prijzen. Alle facturen geven onmiddellijk de vorige lagere prijzen weer, terwijl in de prijs lijst de lagere prijzen in de prijs lijst mei 2020 worden weer gegeven voor de nabije toekomst.
+Hoewel de prijzen fout zijn, is het op dit moment niet geschikt om de correcties en toenemende prijzen aan te brengen, gezien de uitzonderlijke omstandigheden. Daarom keren we tijdelijk terug naar onze vorige, lagere nettoprijzen, vanaf 22 april 2020. Alle facturen weerspiegelen onmiddellijk de vorige lagere prijzen, terwijl in de prijslijst de lagere prijzen uit de prijslijst van mei 2020 worden weergegeven, voor de nabije toekomst.
 
-Partners mogen de prijzen van M365 E3 EUR niet gebruiken die worden vermeld op de prijs lijst van april 2020; in plaats daarvan raadpleegt u de prijzen die worden vermeld op de prijs lijst van maart 2020.
+Partners mogen niet gebruikmaken van de M365 E3 EUR-prijzen die worden vermeld in de prijslijst van april 2020; Raadpleeg in plaats van de prijslijst van maart 2020 de prijzen.
 
-We waarderen al het fantastische werk dat onze partner community tijdens deze ongekende tijd doet.
+We waarderen al het geweldige werk dat onze partner community doet in deze ongekende tijd.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Deel deze informatie met alle relevante contact personen in uw organisatie.
+Deel deze informatie met alle juiste contactpersonen in uw organisatie.
 
 ### <a name="questions"></a>Vragen?
 
-Als u ondersteuning nodig hebt voor uw activiteiten met micro soft, kunt u contact opnemen met de ondersteuning voor vragen, query's of meer informatie.
+Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, kunt u contact opnemen met ondersteuning voor vragen, query's of meer informatie.
 
 _________________
 
-## <a name="reminder-activation-of-security-safeguards-for-partner-center-transactions-in-csp"></a><a id="11"/></a>HERINNERING: de activering van beveiligings maatregelen voor Partner Center-trans acties in CSP
+## <a name="reminder-activation-of-security-safeguards-for-partner-center-transactions-in-csp"></a><a id="11"/></a>HERINNERING: Activering van beveiligingsbeveiliging voor Partner Center transacties in CSP
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-23
-- Type: mogelijkheden
+- Type: Mogelijkheden
 - Status: binnenkort beschikbaar
 - [Meer informatie](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
-### <a name="target-partner-audiences"></a>Doel partner doel groepen
+### <a name="target-partner-audiences"></a>Doelgroepen van de doelpartner
 
-- Alle partners die deel nemen aan het programma Cloud Solution Provider (CSP)
-- Alle leveranciers van het configuratie scherm (CPV)
+- Alle partners die deelnemen aan het Cloud Solution Provider (CSP)-programma
+- All Configuratiescherm Vendors (CPV)
 - Alle Advisor-partners
 
 ### <a name="summary"></a>Samenvatting
 
-Grotere en voortdurende beveiligings-en privacy-veiligheids maatregelen zijn te vinden op de belangrijkste prioriteiten, en we blijven helpen partners hun klanten en tenants te beschermen. In 2019 hebben we [verplichte beveiligings vereisten](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)geïntroduceerd. Alle partners die deel nemen aan het Cloud Solution Provider-programma, leveranciers van het configuratie scherm en Advisor, moeten de vereisten implementeren om te blijven voldoen aan het beleid.
+Grotere en voortdurende beveiliging en privacybeveiliging staan bij onze prioriteiten en we blijven partners helpen hun klanten en tenants te beschermen. In 2019 hebben we verplichte [beveiligingsvereisten geïntroduceerd.](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/) Alle partners die deelnemen aan het Cloud Solution Provider-programma, Configuratiescherm Vendors en Advisors moeten de vereisten implementeren om compatibel te blijven.
 
-Onlangs hebben we de beveiligings maatregelen voor ADMINISTRATE-mogelijkheden (admin-on-to-from) voor alle partner tenants geactiveerd, waardoor hun bedrijven en klanten beschermd zijn tegen incidenten met betrekking tot identiteits diefstal.
+Onlangs is het activeren van beveiligingsmaatregelen voor AOBO-mogelijkheden (admin-on-behalf-of) voor alle partnertentens voltooid, waarbij hun bedrijf en klanten worden beschermd tegen identiteitsdiefstal-gerelateerde incidenten.
 
-Om partners en klanten te helpen verbeteren, **vanaf 1 mei 2020, beginnen we met de activering van beveiligingen voor Partner Center-trans acties in CSP**. De activering van de aanvullende beveiligings maatregelen betekent dat partners worden gevraagd om multi-factor Authentication (MFA) te gebruiken voor alle trans acties in CSP met behulp van de gebruikers ervaring of Api's van partner Center, waardoor ongeoorloofde toegang en de beveiliging van hun klanten en tenants van beveiligings incidenten met betrekking tot identiteits diefstal wordt voor komen. Meer informatie [vindt u hier](../partner-security-requirements-mandating-mfa.md).
+Om partners en klanten verder te beschermen, beginnen we vanaf 1 mei **2020** met het activeren van veiligheidsmaatregelen voor Partner Center transacties in CSP . De activering van de extra beveiligingsbeveiligingen betekent dat partners wordt gevraagd multi-factor authentication (MFA) te gebruiken voor transacties in CSP met behulp van Partner Center gebruikerservaring of API's, waardoor onbevoegde toegang wordt voorkomen en hun klanten en tenants worden beschermd tegen beveiligingsincidenten met betrekking tot identiteitsdiefstal. Meer informatie kunt u [hier vinden.](../partner-security-requirements-mandating-mfa.md)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- **Als u de aanbevolen beveiligings vereisten voor het beveiligen van uw Tenant en gebruikers nog niet hebt geactiveerd**, moet u onmiddellijk blijven voldoen aan het beleid en voor komen dat er verstoringen optreden bij het beheren van klanten of het handelen in CSP. Partners die de beveiligings vereisten niet implementeren, kunnen hun deelname aan het CSP-programma risico lopen.
-- Indirecte providers moeten deze beveiligings vereisten voor hun eigen bedrijven implementeren en samen werken met wederverkopers om ervoor te zorgen dat ze de vereisten implementeren en deze e-mail sjabloon gebruiken. We nemen ook rechtstreeks contact op met uw wederverkopers via e-mail communicatie.
-- Ga naar [de pagina beveiligings vereisten van partner centrum](https://partner.microsoft.com/commerce/security/compliance) om te bepalen welke voortgang en belang rijke acties u moet uitvoeren. Werk samen met uw globale beheerder om de voortgang van uw beveiligings vereisten regel matig te controleren voor elk van uw tenants.
-- Als u een CPV-oplossing (configuratie scherm) gebruikt, kunt u contact opnemen met uw CPV.
+- **Als** u de aanbevolen beveiligingsvereisten voor het beveiligen van uw tenant en gebruikers niet hebt geactiveerd, moet u dit onmiddellijk doen om compatibel te blijven en bedrijfsonderbrekingen te voorkomen bij het beheren van klanten of het transacting in CSP. Partners die de beveiligingsvereisten niet implementeren, kunnen hun deelname aan het CSP-programma in gevaar brengen.
+- Indirecte providers moeten deze beveiligingsvereisten implementeren voor hun eigen bedrijf en samenwerken met resellers om ervoor te zorgen dat ze de vereisten implementeren en deze e-mailsjabloon gebruiken. We nemen ook rechtstreeks contact op met uw wederverkopers via e-mailcommunicatie.
+- Ga [naar Partner Center pagina met beveiligingsvereisten om](https://partner.microsoft.com/commerce/security/compliance) de voortgang en de belangrijkste acties te identificeren die u moet uitvoeren. Werk regelmatig samen met uw globale beheerder om de voortgang van uw beveiligingsvereisten voor elk van uw tenants te controleren.
+- Als u een CPV-oplossing (Configuratiescherm Vendor) gebruikt, raadpleegt u uw CPV.
 
-### <a name="additional-resources"></a>Aanvullende resources
+### <a name="additional-resources"></a>Aanvullende bronnen
 
-Bekijk deze bronnen om u te helpen bij het implementeren van de beveiligings vereisten.
+Bekijk deze resources om u te helpen bij het implementeren van de beveiligingsvereisten.
 
-- Bekijk de [Stapsgewijze hand leiding](../partner-security-requirements.md) voor het implementeren van beveiligings vereisten voor partners.
-- Raadpleeg de [Veelgestelde vragen](../partner-security-requirements-faq.md) en antwoorden over de beveiligings vereisten van partners.
-- Bekijk de [hand leiding voor status controle van de beveiligings vereisten](../partner-security-compliance.md).
-- Toegang krijgen tot aanvullende bronnen in de verzameling met [beveiligings vereisten](https://partner.microsoft.com/resources/collection/partner-security-requirements#/) voor de implementatie van partners.
-- Blad wijzer de [Community-groep voor beveiligings richtlijnen van partner centrum](https://aka.ms/MPCSecurityGuidance).
+- Bekijk de [stapsgewijse handleiding voor het implementeren](../partner-security-requirements.md) van beveiligingsvereisten van partners.
+- Zie de [veelgestelde vragen en antwoorden over](../partner-security-requirements-faq.md) beveiligingsvereisten van partners.
+- Bekijk de handleiding [statuscontrole van beveiligingsvereisten.](../partner-security-compliance.md)
+- Krijg toegang tot aanvullende resources op [de verzameling Beveiligingsvereisten voor partners](https://partner.microsoft.com/resources/collection/partner-security-requirements#/) implementeren.
+- Bladwijzer maken voor [Partner Center communitygroep beveiligingsadviezen.](https://aka.ms/MPCSecurityGuidance)
 
-Als u meer hulp nodig hebt bij technische problemen, kunt u [een ondersteunings ticket indienen](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?topicid=32674991). Stuur deze e-mail door naar andere personen in uw organisatie die mogelijk actie moeten ondernemen om deze beveiligings vereisten te implementeren.
+Voor aanvullende hulp bij technische problemen dient [u een ondersteuningsticket in.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?topicid=32674991) Stuur deze e-mail door naar andere personen in uw organisatie die mogelijk actie moeten ondernemen om deze beveiligingsvereisten te implementeren.
 
-Hartelijk dank voor uw partnerschap en betrokkenheid om ervoor te zorgen dat ons ecosysteem op vertrouwen kan worden uitgevoerd.
+Bedankt voor uw samenwerking en uw inzet om ervoor te zorgen dat ons ecosysteem op vertrouwen wordt uitgevoerd.
 
 >[!NOTE] 
->Als u basislijn beleidsregels gebruikt en niet hebt overgeschakeld naar het beleid voor beveiligings standaards of [andere opties voor MFA-implementatie](..\partner-security-requirements.md#implementing-multi-factor-authentication), moet u zo snel mogelijk overstappen naar de [belangrijkste bronnen](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Als u basislijnbeleid gebruikt en niet bent overgeplaatst naar het standaardbeleid voor beveiliging of andere [MFA-implementatieopties,](..\partner-security-requirements.md#implementing-multi-factor-authentication)kunt u zo snel mogelijk naar de belangrijkste resources hier [verwijzen.](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
-- 3 april 2020: oorspronkelijke aankondiging.
-- 23 april 2020 update: micro soft neemt rechtstreeks contact op met de wederverkopers via e-mail.
+- 3 april 2020: Oorspronkelijke aankondiging.
+- Update van 23 april 2020: Microsoft neemt rechtstreeks contact op met resellers via e-mail.
 
 _________________
 
-## <a name="microsoft-customer-agreement-standard-amendments-have-moved"></a><a id="10"/></a>Micro soft-klanten overeenkomst standaard wijzigingen zijn verplaatst
+## <a name="microsoft-customer-agreement-standard-amendments-have-moved"></a><a id="10"/></a>Microsoft-klantovereenkomst standaardwijzigingen zijn verplaatst
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-21
-- Type: mogelijkheden
-- Status: nu beschikbaar
+- Type: Mogelijkheden
+- Status: Nu beschikbaar
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 - Alle CSP-partners.
 
 ### <a name="summary"></a>Samenvatting
 
-Wijzigingen van de klanten overeenkomst van micro soft die eerder beschikbaar zijn op de pagina prijzen en aanbiedingen in Partner Center, zijn verplaatst. De wijzigingen zijn nu beschikbaar voor partners die kunnen worden gedownload via het ondersteunings onderwerp van de micro soft-klant overeenkomst in het partner centrum (alleen via beveiligde aanmelding) en de voorafgaande micro soft-goed keuring niet vereist om aan klanten te worden gepresenteerd. Dit omvat de FSI-wijziging en andere standaardwijzigingen in de Microsoft-klantovereenkomst.
+Microsoft-klantovereenkomst wijzigingen die eerder beschikbaar waren op de pagina met prijzen en aanbiedingen in Partner Center zijn verplaatst. De wijzigingen zijn nu beschikbaar voor partners om te downloaden van het Microsoft-klantovereenkomst-ondersteuningsonderwerp in Partner Center (alleen via alleen beveiligde aanmelding) en vereisen geen voorafgaande goedkeuring van Microsoft om aan klanten te worden gepresenteerd. Dit omvat de FSI-wijziging en andere standaardwijzigingen in de Microsoft-klantovereenkomst.
 
 Hoewel de locatie is gewijzigd, zijn de wijzigingen zelf niet gewijzigd.
 
-Standaard wijzigingen van de micro soft-klant overeenkomst
+Microsoft-klantovereenkomst standaardwijzigingen
 
-- WW (Engels)-wijziging van financiële services
-- Argentinië (Engels)-wijziging van gegevens verwerking voor Argentinië
-- Argentinië (Spaans)-wijziging van gegevens verwerking voor Argentinië
-- Duitsland (Engels)-professionele geheim wijziging voor Duitsland
-- Duitsland (Duits)-wijziging van professioneel geheim voor Duitsland
-- USA (Engels)-micro soft Online Services HIPAA Business geassocieerde wijziging
+- WW (Engels) - Wijziging van financiële dienstverlening
+- Argentinië (Engels) - Wijziging van gegevensverwerking voor Argentinië
+- Argentinië (Spaans) - Wijziging van gegevensverwerking voor Argentinië
+- Duitsland (Engels) - Wijziging van beroepsgeheim voor Duitsland
+- Duitsland (Duits) - Wijziging van beroepsgeheim voor Duitsland
+- VS (Engels) - Wijziging van HIPAA Business Associate voor Microsoft Online Services
 
 Hoe kan een partner toegang krijgen tot de wijzigingen?
-Voer de volgende stappen uit om de wijzigingen te openen:
+Volg deze stappen om toegang te krijgen tot de wijzigingen:
 
-- Stap 1: Selecteer in de linkernavigatiebalk de optie ondersteuning en maak een ondersteunings aanvraag
-- Stap 2: Typ ' micro soft-klant overeenkomst ' om het onderwerp te vinden
-- Stap 3: Selecteer het, klik op oplossingen controleren
-- Stap 4: Klik op de wijziging die u nodig hebt
+- Stap 1: selecteer ondersteuning in het linkernavigatievenster en maak een ondersteuningsaanvraag
+- Stap 2: typ 'Microsoft-klantovereenkomst' om het onderwerp te vinden
+- Stap 3: selecteer deze optie en klik op Oplossingen controleren
+- Stap 4: klik op de wijziging die u nodig hebt
 
-U kunt zich ook aanmelden bij partner centrum en naar [deze URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c007d538-f817-84e3-06b5-ff4005c1a6bb)gaan.
+U kunt zich ook aanmelden bij het partnercentrum en naar deze [URL gaan.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)
 
-### <a name="additional-resources"></a>Aanvullende resources
+### <a name="additional-resources"></a>Aanvullende bronnen
 
-Voor meer informatie over de micro soft-klant overeenkomst gaat u naar [de verzameling.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
+Ga voor meer informatie over de Microsoft-klantovereenkomst hier naar de [verzameling](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
 _________________
 
-## <a name="announcing-microsoft-defender-advanced-threat-protection-mdatp-for-servers-offer-available-for-csp-on-april-1-2020"></a><a id="9"/></a>Aankondiging van micro soft Defender Advanced Threat Protection (MDATP) voor servers aanbod op 1 april 2020.
+## <a name="announcing-microsoft-defender-advanced-threat-protection-mdatp-for-servers-offer-available-for-csp-on-april-1-2020"></a><a id="9"/></a>Aankondiging van Microsoft Defender Advanced Threat Protection (MDATP) for Servers-aanbieding beschikbaar voor CSP op 1 april 2020.
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-17
-- Type: aanbiedingen/markten
-- Status: nu beschikbaar
+- Type: Aanbiedingen/markten
+- Status: Nu beschikbaar
 
 ### <a name="summary"></a>Samenvatting
 
-De SKU micro soft Defender ATP voor servers is beschikbaar voor CSP op 1 april 2020 geprijsd op $5/OSE/maand.
+De Microsoft Defender ATP for Servers-SKU is beschikbaar voor CSP op 1 april 2020 en kost $ 5/OSE/maand.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Deze nieuwe SKU is beschikbaar voor micro soft Defender Advanced Threat Protection (ATP)-klanten met een minimum aantal van 50 licenties (MDATP, win E5, M365 Security, M365 E5) die micro soft Defender ATP willen voor Server Endpoint Protection.
+Deze nieuwe SKU is beschikbaar voor Microsoft Defender Advanced Threat Protection-klanten (ATP) met minimaal 50 licenties (MDATP, Win E5, M365 Security, M365 E5) die Microsoft Defender ATP willen gebruiken voor server endpoint protection.
 
 ### <a name="details"></a>Details
 
-De aanbieding van micro soft voor Endpoint Protection op servers (on-premises en in Azure) is Azure Security Center Standard. Azure Security Center standaard kosten $15 per server besturingssysteem omgeving per maand. We hebben gehoord van klanten dat ze graag een optie hebben voor minder functionaliteit tegen een lager prijs punt dat kan worden aangeschaft op een manier die overeenkomt met E5 voor endpoint Server-beveiliging.
-Als reactie op de behoeften van klanten, introduceren we de nieuwe micro soft Defender ATP voor servers-SKU om de vraag van de klant op te lossen. we verwachten dat de meeste klanten die gebruikmaken van deze SKU servers on-premises best rijken, maar het is niet beperkt tot dat gebruiks voorbeeld. Azure Security Center Standard blijft de held SKU met een uitgebreide set mogelijkheden voor beveiliging tegen bedreigingen en partners moeten gesp rekken met klanten doen met de Azure Security Center Standard held SKU, met name voor die met Azure-workloads. Nu kan micro soft Endpoint Protection bieden tegen een lagere prijs punt zodat micro soft-partners meer concurrentie kunnen maken op de Endpoint Protection-markt met de micro soft Defender ATP voor servers-SKU.
+De aanbieding van Microsoft voor eindpuntbeveiliging op servers (on-premises en in Azure) is Azure Security Center Standard. Azure Security Center Standard kost $ 15 per serverbesturingssysteemomgeving per maand. We hebben van klanten gehoord dat ze een optie willen hebben voor verminderde functionaliteit tegen een lagere prijs die kan worden aangeschaft op een manier die consistent is met E5 voor eindpuntserverbeveiliging.
+In reactie op de behoeften van klanten introduceren we de nieuwe Microsoft Defender ATP for Servers-SKU om te voldoen aan de vraag van klanten en verwachten we dat het merendeel van de klanten die deze SKU gebruiken, on-premises servers dekt, maar dit is niet beperkt tot die use-case. Azure Security Center Standard blijft de hero-SKU met een uitgebreide set mogelijkheden voor beveiliging tegen bedreigingen en partners moeten gesprekken leiden met klanten met de hero-SKU van Azure Security Center Standard, met name voor degenen met Azure-workloads. Microsoft kan nu echter eindpuntbeveiliging bieden tegen een lagere prijs, zodat Microsoft-partners concurrerender kunnen zijn in de endpoint protection-markt met de Microsoft Defender ATP for Servers SKU.
 
-Micro soft Defender ATP-klanten met een minimum aantal van 50 licenties kunnen de nieuwe micro soft Defender ATP voor servers-SKU gebruiken voor Server Endpoint Protection op $5 per server-besturingssysteem omgeving per maand. Voor de verbeterde beveiliging van Cloud werkbelasting voor servers kunnen micro soft Defender ATP voor servers SKU'S-klanten upgraden naar Azure Security Center Standard-SKU voor een extra $10 per server OSE per maand en profiteren van functies zoals adaptieve toepassings besturings elementen, net als tijdens de toegang tot de virtuele machine, de bewaking van bestands integriteit en geïntegreerde ervaring voor het beveiligen van Azure-resources en extra waarde, zoals toekomstige integratie met Azure
+Microsoft Defender ATP-klanten met minimaal 50 licenties kunnen de nieuwe Microsoft Defender ATP for Servers SKU voor server endpoint protection gebruiken voor $ 5 per serverbesturingssysteemomgeving per maand. Voor verbeterde beveiliging van cloudworkloads voor servers kunnen klanten van Microsoft Defender ATP for Servers SKU upgraden naar Azure Security Center Standard SKU voor een extra OSE per maand van $ 10 per server en profiteren van functies zoals adaptieve toepassingsregelaars, Just-In-Time-toegang tot virtuele machines, bewaking van bestandsintegriteit en uniforme ervaring voor het beveiligen van Azure-resources en extra waarde, zoals toekomstige integratie met Azure Arc.
 
-Er zijn momenteel geen wijzigingen in de Azure-beveiligings standaard. Azure Security Center Standard blijft een geïntegreerde gebruikers ervaring bieden om niet alleen de eind punten van de virtuele machine van de server te beveiligen, maar ook de uitgebreide set Azure-resources, waaronder IoT, Azure Kubernetes Services (preview), Azure Container Registry (preview), Key Vault (preview), App Services, SQL en storage.
+Er zijn momenteel geen wijzigingen in Azure Security Standard. Azure Security Center Standard blijft een geïntegreerde gebruikerservaring bieden voor het beveiligen van niet alleen server-VM-eindpunten, maar ook de brede set Azure-resources, waaronder IoT, Azure Kubernetes Services (preview), Azure Container Registry (preview), Key Vault (preview), App Services, SQL en Storage.
 
-MDATP voor servers SKU-eigen aren moeten upgraden naar Azure Security Center (ASC)-standaard met de $10 Step-up-SKU om te profiteren van de ASC-standaard functies.
+Eigenaren van MDATP voor Servers-SKU's moeten upgraden naar Azure Security Center (ASC) Standard met de SKU met $10-stapsup om te profiteren van ASC Standard-functies.
 
-### <a name="product-offer"></a>Product aanbieding
+### <a name="product-offer"></a>Productaanbieding
 
-MDATP voor servers 350158a2-f253-4ea3-988e-eef9d1b828cf
+MDATP voor Servers 350158a2-f253-4ea3-988e-eef9d1b828cf
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Deel deze informatie met de juiste contact personen in uw organisatie. Dit kan zo nodig worden gedeeld met klanten van 1:1.
+Deel deze informatie met de juiste contactpersonen in uw organisatie. Dit kan 1:1 worden gedeeld met klanten, indien van toepassing.
 
-We zullen later in het jaar meer open bare informatie hebben om met uw klanten te delen.
+We hebben later in het jaar meer openbare informatie om met uw klanten te delen.
 
-### <a name="additional-resources"></a>Aanvullende resources
+### <a name="additional-resources"></a>Aanvullende bronnen
 
-- Ga naar de pagina [micro soft Defender Advanced Threat Protection](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) voor meer informatie.
-- Lees de [Azure Security Center-documentatie](/azure/security-center/) voor meer informatie over Azure Security Center.
+- Ga naar [Microsoft Defender Advanced Threat Protection](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) pagina voor meer informatie.
+- Lees de [Azure Security Center documentatie voor](/azure/security-center/) meer informatie over Azure Security Center.
 
 ### <a name="questions"></a>Vragen?
 
-Als u vragen hebt met betrekking tot uw bedrijfs activiteiten met micro soft, kunt u [contact opnemen met de ondersteuning via uw partner dashboard](https://partner.microsoft.com/pcv/servicerequests/create).
+Als u vragen hebt met betrekking tot uw activiteiten met Microsoft, [kunt u contact opnemen met de ondersteuning via uw partnerdashboard.](https://partner.microsoft.com/pcv/servicerequests/create)
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
-- 23 maart 2020 oorspronkelijke publicatie datum: communicatie vooraf starten
-- 17 april 2020 update: nu beschikbaar
+- 23 maart 2020 Oorspronkelijke publicatiedatum: Communicatie vooraf
+- Update van 17 april 2020: Reflect Now Available
 
 _________________
 
-## <a name="americas-operations-center-address-change"></a><a id="8"/></a>Wijziging van het adres van het continentaal-Operations Center
+## <a name="americas-operations-center-address-change"></a><a id="8"/></a>Adreswijziging in Operations Center in Noord- en Zuid-Amerika
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-14
-- Type: mogelijkheden
+- Type: Mogelijkheden
 - Status: binnenkort beschikbaar
 - [Meer informatie](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>Samenvatting
 
-Het adres voor het micro soft continent Operations Center in Reno, Nevada wordt gewijzigd, en voor alle systemen, correspondentie en documentatie is een update vereist.
+Het adres voor het Microsoft Americas Operations Center in Reno, Die verandert en voor alle systemen, overeenkomst en documentatie is een update vereist.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Iedereen die communiceert en transactieert met het continenten centrum voor Amerika
+Iedereen die communiceert en transacteert met Het Operations Center in Noord-Amerika
 
 ### <a name="details"></a>Details
 
-Effectief mei 2020, het micro soft continent Operations Center heeft een nieuw adres.
+Vanaf mei 2020 heeft het Microsoft Americas Operations Center een nieuw adres.
 
-Elk bestaand materiaal met het huidige Reno-adres moet worden bijgewerkt. Alle partners, klanten en leveranciers moeten hun systemen direct bijwerken met het nieuwe adres en ervoor zorgen dat alle updates zijn voltooid door mei 2020.
+Elk bestaand materiaal met het huidige Reno-adres moet worden bijgewerkt. Alle partners, klanten en leveranciers moeten hun systemen onmiddellijk bijwerken met het nieuwe adres en ervoor zorgen dat alle updates in mei 2020 zijn voltooid.
 
-Hieronder vindt u meer informatie over de wijziging van het adres.
+Zie hieronder voor meer informatie over de adreswijziging.
 
-|**Bestaande contact gegevens**|**Nieuwe contact gegevens**|
+|**Bestaande contactgegevens**|**Nieuwe contactgegevens**|
 |-------------------|:------|
-|6100 Neil-weg </br>Reno, NV 89511|6880 Sierra Center Parkway </br>Reno, NV 89511|
+|6100 Road </br>Reno, NV 89511|6880 Sierra Center Parkway </br>Reno, NV 89511|
 
-Dit is alleen een adres wijziging, en het is niet nodig om bestaande contracten te hoeven opgeven. U moet altijd verwijzen naar de meest recente sjablonen in micro soft-portals, omdat deze mogelijk zijn bijgewerkt.
+Dit is alleen een adreswijziging en het is niet nodig om bestaande contracten op te leggen. U moet altijd verwijzen naar de nieuwste sjablonen in Microsoft-portals, aangezien deze mogelijk zijn bijgewerkt.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Zorg ervoor dat alle systemen, correspondentie en documentatie worden bijgewerkt met de nieuwe contact gegevens van 15 mei 2020. Andere acties zijn mogelijk dichter bij deze datum nodig.
+Zorg ervoor dat alle systemen, communicatie en documentatie zijn bijgewerkt met de nieuwe contactgegevens voor 15 mei 2020. Andere acties zijn mogelijk vereist dichter bij deze datum.
 
 ### <a name="questions"></a>Vragen?
 
-[Neem contact op met de ondersteuning](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) voor vragen, query's of meer informatie.
+[Neem contact op](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) met ondersteuning voor vragen, query's of meer informatie.
 
 _________________
 
-## <a name="commercial-microsoft-365-e3---unattended-license-will-be-relaunched-on-may-1-2020"></a><a id="7"/></a>Commerciële Microsoft 365 E3: de licentie voor een installatie zonder toezicht wordt opnieuw gestart op 1 mei 2020
+## <a name="commercial-microsoft-365-e3---unattended-license-will-be-relaunched-on-may-1-2020"></a><a id="7"/></a>Commerciële Microsoft 365 E3 - Licentie zonder toezicht wordt op 1 mei 2020 opnieuw gelanceerd
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-10
-- Type: mogelijkheden
+- Type: Mogelijkheden
 - Status: binnenkort beschikbaar
 
 ### <a name="summary"></a>Samenvatting
 
-Om ervoor te zorgen dat de beste partner-en klant ervaring is, zal micro soft de aanbiedingen voor commerciële M365ing zonder toezicht op 1 mei 2020 opnieuw starten. Er is geen invloed op de prijs en de mogelijkheden.
+Microsoft start commerciële M365 - Licentieaanbiedingen zonder toezicht op 1 mei 2020 opnieuw om de beste partner- en klantervaring te garanderen. Dit heeft geen invloed op de prijs en mogelijkheden.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners handelen wereld wijd via de Cloud solution provider.
+Alle partners die via de Cloud Solution Provider werken.
 
 ### <a name="details"></a>Details
 
-Micro soft heeft gepland dat commerciële M365-licenties voor installatie zonder toezicht op 1 april 2020 worden gestart volgens de preview-prijs lijst. Na uitgebreide tests hebben we geleerd dat gebruikers onverwachte gedrag tijdens het inrichten kunnen tegen komen.
+Microsoft was van plan commerciële M365 - Licentieaanbiedingen zonder toezicht te starten op 1 april 2020, volgens de preview-prijslijst. Na uitgebreide tests hebben we geleerd dat gebruikers mogelijk onverwacht gedrag ondervinden tijdens het inrichten.
 
-Daarom wordt op 1 mei 2020 opnieuw gestart. Het opnieuw starten heeft geen invloed op de prijzen of de waarde die in de aanbieding is opgenomen.
-We zijn ook actief van plan om deze aanbieding uit te breiden naar onderwijs-en overheids klanten op 2020, waardoor u uw bedrijf kunt uitbreiden en nieuwe mogelijkheden kunt vinden voor het leveren van geweldige waarde-proposities.
+Daarom wordt de nieuwe start op 1 mei 2020. De herstart heeft geen invloed op de prijzen of de waarde die is opgenomen in de aanbieding.
+We zijn ook van plan om deze aanbieding op mei 2020 uit te breiden naar klanten uit het onderwijs en de overheid, zodat u uw bedrijf kunt uitbreiden en nieuwe mogelijkheden kunt vinden om geweldige waardeaanbiedingen te blijven leveren.
 
-### <a name="offer-ids-impacted"></a>Beïnvloede aanbiedings-Id's
+### <a name="offer-ids-impacted"></a>Aanbiedings-ID's beïnvloed
 
-De oorspronkelijke aanbiedings-ID die is gemaakt voor deze start is: Microsoft 365 E3 voor de licentie zonder toezicht: ec3ac2d1-dd66-475a-95c8-59c32c472778
+De oorspronkelijke aanbiedings-id die is gemaakt voor deze lancering was: Microsoft 365 E3 voor licentie zonder toezicht: ec3ac2d1-dd66-475a-95c8-59c32c472778
 
-Raadpleeg onze aankondigingen in mei en onze productie prijs lijst op 1 mei 2020 om de bijgewerkte aanbiedings-ID te vinden.
+Bekijk onze aankondigingen in mei en onze lijst met productieprijzen op 1 mei 2020 om de bijgewerkte aanbiedings-id te vinden.
 
-### <a name="additional-background-on-unattended-license"></a>Aanvullende achtergrond over een licentie zonder toezicht
+### <a name="additional-background-on-unattended-license"></a>Aanvullende achtergrondinformatie over licentie zonder toezicht
 
-Microsoft 365 de licentie voor een installatie zonder toezicht is het gebruik van Office-toepassingen met Service-of andere niet-gebruikers accounts mogelijk, zoals gebruikelijk tijdens de uitvoering van een automatiserings proces.
+Microsoft 365 E3-licentie zonder toezicht maakt het gebruik van Office-toepassingen met service- of andere niet-gebruikersaccounts mogelijk, zoals gebruikelijk bij het uitvoeren van het automatiseringsproces.
 
-Deze nieuwe licentie kan een nieuwe optie bieden voor het werken met productiviteits gegevens en-hulpprogram ma's, wanneer zelfs product-Api's zoals Microsoft Graph niet voldoen aan uw vereisten voor automatisering.
+Deze nieuwe licentie kan een nieuwe optie bieden voor het werken met productiviteitsgegevens en hulpprogramma's, wanneer zelfs product-API's zoals Microsoft Graph niet voldoen aan uw automatiseringsbehoeften.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Deel deze informatie met alle relevante contact personen in uw organisatie en controleer uw aankondigingen op [partner.Microsoft.com](https://partner.microsoft.com) voor toekomstige updates.
+Deel deze informatie met alle juiste contactpersonen in uw organisatie en controleer uw aankondigingen [op](https://partner.microsoft.com) partner.microsoft.com op toekomstige updates.
 
 ### <a name="questions"></a>Vragen?
 
-Neem contact op met uw vertegenwoordiger in het Microsoft-account-team of Controleer uw relevante Yammer-community's voor een andere vraag over deze aanbiedingen.
+Voor verdere vragen over deze aanbiedingen kunt u contact opnemen met uw vertegenwoordiger in het Microsoft-account of uw relevante Yammer-community's controleren.
 
 _________________
 
-## <a name="new-opportunities-for-your-microsoft-365-education-customers-with-microsoft-365-a5-compliance"></a><a id="6"/></a>Nieuwe mogelijkheden voor uw Microsoft 365 education-klanten met Microsoft 365 A5-naleving
+## <a name="new-opportunities-for-your-microsoft-365-education-customers-with-microsoft-365-a5-compliance"></a><a id="6"/></a>Nieuwe mogelijkheden voor uw Microsoft 365 Education-klanten met Microsoft 365 A5-naleving
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-10
-- Type: aanbiedingen/markten
-- Status: nu beschikbaar
+- Type: Aanbiedingen/markten
+- Status: Nu beschikbaar
 - [Meer informatie](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>Samenvatting
 
-Op 1 april 2020 heeft micro soft A5 compliance add-on een extra waarde ontvangen zonder wijzigingen in de prijzen. Daarnaast hebben we drie mini suites geïntroduceerd om nieuwe gebruikers scenario's te verhelpen
+Op 1 april 2020 heeft de Microsoft A5 Compliance-invoeg-invoeg-on extra waarde ontvangen zonder dat de prijzen zijn gewijzigd. Daarnaast hebben we drie minisuites geïntroduceerd om nieuwe gebruikersscenario's aan te pakken
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die training bieden via het programma Cloud Solution Provider (CSP).
+Alle partners die Education-aanbiedingen via het Cloud Solution Provider (CSP)-programma.
 
 ### <a name="details"></a>Details
 
-**Grotere waarde, zelfde prijs**
+**Hogere waarde, dezelfde prijs**
 
-Op 1 april 2020 heeft micro soft nieuwe waarde toegevoegd aan Microsoft 365 A5-nalevings aanbiedingen zonder enige wijziging van de prijzen. De extra waarde bevat
+Op 1 april 2020 heeft Microsoft een nieuwe waarde toegevoegd aan Microsoft 365 A5 Compliance-aanbiedingen, zonder dat de prijzen zijn gewijzigd. De extra waarde omvat
 
 - Geavanceerde controle
-- Beleid voor insider-Risico's
-- Communicatie vereisten
-- Record beheer
+- Insider Risk Management
+- Communicatie-naleving
+- Recordsbeheer
 - Microsoft Cloud App Security (MCAS)
 
-Raadpleeg de volgende aanbiedings-Id's in de prijs lijst:
+Raadpleeg de volgende aanbiedings-ID's in de prijslijst:
 
-- Microsoft 365 A5-naleving voor faculteiten | 9f8f1756-f56f-421e-901a-e80e857cadb8
+- Microsoft 365 A5-naleving voor onderwijsmedewerkers | 9f8f1756-f56f-421e-901a-e80e857cadb8
 - Microsoft 365 A5-naleving voor studenten | f0f9f37a-539f-4f44-aef6-e37070149499
 
-### <a name="microsoft-365-a5-compliance-mini-suites"></a>Microsoft 365 A5-compatibele mini suites
+### <a name="microsoft-365-a5-compliance-mini-suites"></a>Microsoft 365 A5 Compliance mini suites
 
-Met ingang van 1 april 2020 kunnen micro soft-partners ook de volgende mini suites aanbieden. Deze invoeg toepassingen bieden specifieke subsets van Microsoft 365 A5-compatibiliteits waarde en bieden extra groei mogelijkheden voor klanten voor specifieke use cases en klant behoeften.
+Vanaf 1 april 2020 kunnen Microsoft-partners ook de volgende minisuites aanbieden. Deze invoegaanbiedingen bieden specifieke subsets van de Microsoft 365 A5-nalevingswaarde, wat extra klantgroeimogelijkheden biedt voor specifieke use cases en klantbehoeften.
 
 - Microsoft 365 A5 Information Protection en governance
-- Microsoft 365 A5 Insider-risico beheer
-- Microsoft 365 A5 eDiscovery en audit
+- Microsoft 365 A5 Insider Risk Management
+- Microsoft 365 A5 eDiscovery and Audit
 
-Raadpleeg de volgende aanbiedings-Id's in de prijs lijst:
+Raadpleeg de volgende aanbiedings-ID's in de prijslijst:
 
-- Microsoft 365 A5 Information Protection en governance voor faculteiten | 0514821c-f7d8-41fc-8c94-59e59d3d6034
-- Microsoft 365 A5 Information Protection en governance voor studenten | a91941ff-79a2-4476-a064-c5a6922e0bbd
-- Microsoft 365 A5 Insider-risico beheer voor faculteiten | 2ed867d7-fd08-474f-8353-502b500d1c9b
-- Microsoft 365 A5 Insider-risico beheer voor studenten | 2ba72571-c0f0-4373-b999-d08cc1bb5edd
-- Microsoft 365 A5 eDiscovery en audit for faculteit | 5d7c0030-c2e9-4a8c-bed3-5a6dbf1e4449
-- Microsoft 365 A5 eDiscovery en audit for students | 6c6e2e9c-2156-4f7c-9c78-f94393b750fe
+- Microsoft 365 A5 Information Protection en governance voor onderwijsmedewerkers | 0514821c-f7d8-41fc-8c94-59e59d3d6034
+- Microsoft 365 A5 Information Protection and Governance for students | a91941ff-79a2-4476-a064-c5a6922e0bbd
+- Microsoft 365 A5 Insider Risk Management voor onderwijsmedewerkers | 2ed867d7-fd08-474f-8353-502b500d1c9b
+- Microsoft 365 A5 Insider Risk Management voor studenten | 2ba72571-c0f0-4373-b999-d08cc1bb5edd
+- Microsoft 365 A5 eDiscovery and Audit for faculty | 5d7c0030-c2e9-4a8c-bed3-5a6dbf1e4449
+- Microsoft 365 A5 eDiscovery and Audit for students | 6c6e2e9c-2156-4f7c-9c78-f94393b750fe
 
-**Sunsetting Office 365 Advanced Compliance and Azure Information Protection (beheerders)-abonnement 2**
+**Office 365 Advanced Compliance and Azure Information Protection (AIP) Plan 2**
 
-Naast de hierboven genoemde wijzigingen, is micro soft sunsetting Office 365 Advanced Compliance and Azure Information Protection (beheerders)-abonnement 2. Van 1 april 2020 zijn deze aanbiedingen niet meer beschikbaar in de prijs lijst voor net nieuwe klanten en is automatisch vernieuwen uitgeschakeld voor bestaande klanten.
+Naast de bovenstaande wijzigingen maakt Microsoft gebruik van Office 365 Advanced Compliance and Azure Information Protection (AIP) Plan 2. Vanaf 1 april 2020 zijn deze aanbiedingen niet meer beschikbaar in de prijslijst voor net nieuwe klanten en is automatische verlenging uitgeschakeld voor bestaande klanten.
 
-Bespreek de aanbiedingen met uw klanten om inzicht te krijgen in de beste oplossing voor hen, hetzij via de mini-suites, hetzij de bredere Microsoft 365 A5-aanbod voor naleving.
+Bespreek de aanbiedingen met uw klanten om inzicht te krijgen in de beste oplossing voor hen, via de minisuites of de bredere Microsoft 365 A5 Compliance-aanbieding.
 
-Mogelijk vindt u hieronder een lijst met beïnvloede aanbiedings-Id's:
+Hieronder vindt u mogelijk een lijst met beïnvloede aanbiedings-ID's:
 
-- Office 365 Advanced compliance Buy_CSP_CRTY_e6860eee-5288-46ec-811b-d8900785fc90
+- Office 365 Advanced Compliance Buy_CSP_CRTY_e6860eee-5288-46ec-811b-d8900785fc90
 - Office 365 Equivio Analytics voor eDiscovery Buy_MSP_6b648c1e-f472-46c0-8379-09f50a3315e0
 - Office 365 Advanced eDiscovery Buy_MSP_FAC_4d1f0e32-0972-499c-b1fc-673576d54f12
 - Office 365 Advanced eDiscovery Buy_MSP_STU_4d30d083-68d4-454d-9fc0-8fd42281564b
@@ -453,334 +453,334 @@ Mogelijk vindt u hieronder een lijst met beïnvloede aanbiedings-Id's:
 
 ### <a name="next-steps"></a>Volgende stappen
 
-U kunt de prijs lijst verkennen en deze informatie delen met alle relevante contact personen in uw organisatie.
+Zorg dat u vertrouwd bent met de prijslijst en deel deze informatie met alle juiste contactpersonen in uw organisatie.
 
 ### <a name="questions"></a>Vragen?
 
-Neem contact op met uw vertegenwoordiger in het Microsoft-account-team als u problemen ondervindt met uw micro soft-activiteiten, [Open een service aanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Voor meer vragen over deze aanbiedingen kunt u contact opnemen met uw vertegenwoordiger in het Microsoft-account-team Als u problemen hebt met uw Microsoft-activiteiten, opent u [een serviceaanvraag.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 _________________
 
-## <a name="office-365-e1-trial-now-available-to-csp-partners"></a><a id="5"/></a>Proef versie van Office 365 E1 nu beschikbaar voor CSP-partners
+## <a name="office-365-e1-trial-now-available-to-csp-partners"></a><a id="5"/></a>Proefversie van Office 365 E1 nu beschikbaar voor CSP-partners
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-07
-- Type: aanbiedingen/markten
-- Status: nu beschikbaar
+- Type: Aanbiedingen/markten
+- Status: Nu beschikbaar
 
 ### <a name="summary"></a>Samenvatting
 
-Vanaf 1 april 2020 is een nieuwe proef versie van Office 365 E1 beschikbaar voor aanschaf in CSP. De aanbieding is beschikbaar gesteld in de prijs lijst om de recente toename van het externe werk op te lossen.
+Vanaf 1 april 2020 is er een nieuwe proefversie van Office 365 E1 beschikbaar voor aankoop in CSP. De aanbieding is beschikbaar gesteld op de prijslijst om de recente toename in extern werken aan te pakken.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners handelen in het programma van de Cloud Solution Provider (CSP).
+Alle partners die werken in het Cloud Solution Provider (CSP)-programma.
 
 ### <a name="details"></a>Details
 
-Personen en teams over de hele wereld worden verplaatst naar de externe werk regelingen. Partners kunnen snel worden aangepast aan de ondersteuning van hun klanten en worden op zijn beurt ook aangepast.
+Mensen en teams over de hele wereld verplaatsen zich naar een externe werkafspraken. Partners passen zich snel aan om hun klanten te ondersteunen. Wij passen ons ook aan.
 
-We zijn enthousiast een nieuwe proef versie van Office 365 E1 in CSP aan te kondigen, die specifiek is gemaakt ter ondersteuning van de partner reacties op de groeiende behoeften van het externe en slimme werk. Deze proef versie is beschikbaar vanaf 1 april 2020 tot verdere kennisgeving.
+Met trots kondigen we een nieuwe proefversie van Office 365 E1 aan in CSP, die speciaal is gemaakt ter ondersteuning van de reactie van partners op de groeiende behoeften voor extern en slim werken. Deze proefversie is tot nader order beschikbaar vanaf 1 april 2020.
 
-De proef versie van CSP Office 365 E1 is nu beschikbaar naast de huidige CSP-proef versie van micro soft teams (die geen Exchange en 2 GB opslag heeft). De nieuwe proef versie heeft vergelijk bare functionaliteit voor de proef versie van Office 365 E1 en biedt zes maanden gratis gebruik voor Maxi maal 3.000 gebruikers. Deze aanbieding is beschikbaar via CSP en biedt partners de mogelijkheid om de proef ervaring te initiëren en te beheren.
+De proefversie van CSP Office 365 E1 is nu beschikbaar naast de huidige Microsoft Teams CSP-proefversie (zonder Exchange en 2 GB aan opslagruimte). De nieuwe proefversie heeft vergelijkbare functionaliteit als de proefversie van Office 365 E1 en biedt zes maanden gratis gebruik voor maximaal 3000 gebruikers. Deze aanbieding is beschikbaar via CSP en biedt partners de mogelijkheid om de proefversie te initiëren en te beheren.
 
 ### <a name="offer-id"></a>Aanbiedings-id
 
-- Weergave naam: Office 365 E1-proef versie
-- ID van proef abonnement: c0c1386f-4a95-466b-8974-cefd71414def
+- Weergavenaam: Proefversie van Office 365 E1
+- Aanbiedings-id van proefversie: c0c1386f-4a95-466b-8974-cefd71414def
 
-Deze aanbieding is direct beschikbaar gesteld voor aankoop op de lijst met productie prijzen van 1 april 2020.
+Deze aanbieding is vanaf 1 april 2020 direct beschikbaar voor aankoop in de lijst met productieprijzen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- [Raadpleeg de veelgestelde vragen over de CSP Office 365 E1-proef versie](https://aka.ms/CSPE1OfferFAQ)
-- [Meer informatie over de evaluaties en aanbiedingen van micro soft teams](https://www.microsoft.com/microsoft-365/partners/resources/teams-offers-and-trials-comparison)
-- [Bekijk de nieuwste richt lijnen voor externe werk voor partners](https://aka.ms/partnerremotework)
-- [Bekijk extra proef assets voor partners](https://aka.ms/E1TrialPartnerBOM)
+- [Bekijk de veelgestelde vragen over de proefversie van CSP Office 365 E1](https://aka.ms/CSPE1OfferFAQ)
+- [Meer informatie over proefversies en aanbiedingen van Microsoft Teams](https://www.microsoft.com/microsoft-365/partners/resources/teams-offers-and-trials-comparison)
+- [De nieuwste richtlijnen voor extern werk voor partners verkennen](https://aka.ms/partnerremotework)
+- [Bekijk aanvullende proefactiva voor partners](https://aka.ms/E1TrialPartnerBOM)
 
-Controleer het [partner centrum](https://partner.microsoft.com/resources/collection/O365E1-trial-now-available-CSP-partners#/) en de partner bronnen regel matig wanneer we meer richt lijnen in de komende week zullen publiceren.
+Controleer de [Partner Center](https://partner.microsoft.com/resources/collection/O365E1-trial-now-available-CSP-partners#/) en partnerresources regelmatig, aangezien we de komende week meer richtlijnen publiceren.
 
 ### <a name="questions"></a>Vragen?
 
-Als u vragen hebt over deze aanbiedingen, controleert u uw relevante Yammer-community's. Voor andere problemen moet u een ticket indienen bij Partner Center-ondersteuning.
+Als u vragen hebt over deze aanbiedingen, controleert u uw relevante Yammer-community's. Voor andere problemen kunt u een ticket indienen via Partner Center Support.
 
 _________________
 
-## <a name="dynamics-365---new-products-released"></a><a id="4"/></a>Dynamics 365-nieuwe producten uitgebracht
+## <a name="dynamics-365---new-products-released"></a><a id="4"/></a>Dynamics 365 - Nieuwe producten uitgebracht
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-06
-- Type: aanbiedingen/markten
-- Status: nu beschikbaar
+- Type: Aanbiedingen/markten
+- Status: Nu beschikbaar
 - [Meer informatie](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="summary"></a>Samenvatting
 
-Op 1 april 2020 heeft micro soft extra Dynamics 365-producten uitgebracht. Aanvullende nieuwe aanbiedingen voor Dynamics 365 worden uitgebracht op 1 mei 2020.
-Doel groep
+Op 1 april 2020 heeft Microsoft extra Dynamics 365-producten uitgebracht. Aanvullende nieuwe aanbiedingen voor Dynamics 365 worden uitgebracht op 1 mei 2020.
+Beïnvloede doelgroep
 
-Partners bieden Dynamics 365 via het programma Cloud Solution Provider (CSP). Deze updates hebben betrekking op alle locaties wereld wijd, tenzij anders aangegeven.
+Partners die Dynamics 365 aanbieden via het Cloud Solution Provider (CSP)-programma. Deze updates hebben betrekking op alle locaties wereldwijd, tenzij anders aangegeven.
 
 ### <a name="details"></a>Details
 
-Op 1 april 2020 heeft micro soft nieuwe producten voor Dynamics business Central online en Dynamics-apps en-platformen uitgebracht. Aanvullende nieuwe aanbiedingen voor Dynamics 365 worden uitgebracht op 1 mei 2020.
+Op 1 april 2020 heeft Microsoft nieuwe producten uitgebracht voor Dynamics Business Central Online en Dynamics Biz Apps en Power Platforms. Aanvullende nieuwe aanbiedingen voor Dynamics 365 worden uitgebracht op 1 mei 2020.
 
-### <a name="dynamics-business-central-online-offers"></a>Aanbiedingen voor Dynamics business Central Online
-Op 1 april 2020 zijn de volgende wijzigingen aangebracht in de aanbiedingen voor Dynamics business Central online.
+### <a name="dynamics-business-central-online-offers"></a>Dynamics Business Central Online-aanbiedingen
+Op 1 april 2020 zijn de volgende wijzigingen aangebracht in de Dynamics Business Central Online-aanbiedingen.
 
-- Nieuwe Dynamics-bedrijfs aanbiedingen voor Business Central in CSP
-- Update sales Pro en Customer Service Pro attach Sku's
+- Nieuwe Dynamics Business-aanbiedingen voor Business Central in CSP
+- Sales Pro- en Customer Service Pro Attach-SKU's bijwerken
 
-### <a name="dynamics-biz-apps-and-power-platform-products"></a>Dynamics-toepassingen en kracht platform-producten
+### <a name="dynamics-biz-apps-and-power-platform-products"></a>Dynamics Biz Apps en Power Platform Products
 
-Op 1 april 2020 zijn de volgende wijzigingen aangebracht in de Dynamics-apps en de Power platform-producten.
+Op 1 april 2020 zijn de volgende wijzigingen aangebracht in dynamics Biz Apps en Power Platform producten.
 
-- RPA-aanbiedingen van de eerste partij
-- Nieuwe BOT-product voor RPA-aanbiedingen
+- Eigen RPA-aanbiedingen (Robotic Process Automation)
+- Nieuw BOT-product voor RPA-aanbiedingen
 
-Bekijk [hier](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)de specifieke wijzigingen in de Dynamics CSP-aanbieding Updates-Mar 2020-bestand.
+Zie de specifieke wijzigingen in het dynamics CSP-aanbiedingsbestand Updates-Mar 2020 [hier.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
-### <a name="robotic-process-automation"></a>Geautomatiseerde proces automatisering
+### <a name="robotic-process-automation"></a>Automatisering van geautomatiseerde processen
 
-Op 1 mei 2020 wordt de beschik baarheid van nieuwe RPA-aanbiedingen uitgebreid naar de Education-Program ma's.
-Klik [hier](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)voor meer informatie over wijzigingen in het geautoriseerde onderwijs partner programma in CSP. Dit is een koppeling naar een bestaande verzameling in het partner centrum.
+Op 1 mei 2020 breidt Microsoft de beschikbaarheid van nieuwe RPA-aanbiedingen in de Education-programma's uit.
+Klik hier voor meer informatie over wijzigingen in [](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)het Authorized Education Partner Program in CSP. Dit is een koppeling naar een bestaande verzameling op Partner Center).
 
-Bekijk het bijgevoegde **Dynamics CSP-aanbod Updates-May 2020-bestand** [hier](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) in het gedeelte Verwante down LOADs voor nieuwe SKU-informatie.
+Bekijk het gekoppelde **Dynamics CSP-aanbiedingsbestand Updates-May 2020** [hier](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) in de bijbehorende downloadsectie voor nieuwe SKU-informatie.
 
-### <a name="ecommerce-changes"></a>wijzigingen van Commerce
+### <a name="ecommerce-changes"></a>eCommerce-wijzigingen
 
-Met ingang van 1 april 2020 worden voor de aanbiedingen met de uiteindelijke prijzen de weergave naam en/of PFAM gewijzigd. De wijzigingen worden in de onderstaande tabel beschreven.
+Vanaf 1 april 2020 hebben eCommerce-aanbiedingen weergavenaam- en/of PFAM-wijzigingen in de uiteindelijke prijzen. De wijzigingen worden beschreven in de onderstaande tabel.
 
-|**Weergave naam en/of PFAM wijziging**|**1 maart 2020**|**1 april 2020**|
+|**Weergavenaam en/of PFAM-wijziging**|**1 maart 2020**|**1 april 2020**|
 |-------------------|:------|:-----|
-|Weergavenaam|Beoordelingen en beoordelingen van Commerce|Commerce beoordelingen en beoordelingen|
-|Weergavenaam|Aanbevelingen voor Commerce|Aanbevelingen voor Commerce|
-|Weer geven en PFAM|Dynamics 365 commerce-Cloud schaal eenheid-basis|Dynamics 365 commerce Scale eenheid Basic-Cloud|
-|Weer geven en PFAM|Dynamics 365 commerce-Cloud schaal eenheid standaard|Dynamics 365 commerce Scale eenheid Basic-Cloud|
-|Weer geven en PFAM|Dynamics 365 commerce Cloud Scale-eenheid Premium|Dynamics 365 commerce Scale-eenheid Premium-Cloud|
+|Weergavenaam|eCommerce-beoordelingen en beoordelingen|CommerceBeoordelingen en beoordelingen|
+|Weergavenaam|Aanbevelingen voor eCommerce|Aanbevelingen voor commerce|
+|Weergeven en PFAM|Dynamics 365 Commerce Cloud Scale Unit Basic|Dynamics 365 Commerce Scale Unit Basic - Cloud|
+|Weergeven en PFAM|Dynamics 365 Commerce Cloud Scale Unit Standard|Dynamics 365 Commerce Scale Unit Basic - Cloud|
+|Weergeven en PFAM|Dynamics 365 Commerce Cloud Scale Unit Premium|Dynamics 365 Commerce Scale Unit Premium - Cloud|
 
-### <a name="additional-resources"></a>Aanvullende resources
+### <a name="additional-resources"></a>Aanvullende bronnen
 
-- [Dynamics 365-start pagina](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Start pagina voor de gids voor apps voor gemengde realiteit](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Start pagina voor het fraude-apps-platform](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 PowerApps en flow-licentie-updates](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Micro soft Dynamics 365-licentie verlening](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Dynamics 365 en energiebeheer platforms-Beschik baarheid, gegevens locatie, taal en lokalisatie inhoud](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 nieuwe webinar-serie](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 Technical Readiness webinar-serie](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Geautomatiseerde proces automatisering (RPA)](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Startpagina van Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Mixed Reality startpagina van de handleiding voor Mixed Reality Apps](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Startpagina van Biz Apps Fraude](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [FY20 PowerApps- en Flow-licentie-updates](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Microsoft Dynamics 365-licentieverlening](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Dynamics 365 and Power Platforms-Availability, data location, language, and localization content (Beschikbaarheid van Dynamics 365- en Power-platforms, gegevenslocatie, taal en lokalisatie-inhoud)](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [FY20 What's New Webinar Series](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [FY20 Technical Readiness Webinar Series](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Geautomatiseerde procesautomatisering (RPA)](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Deel deze informatie met de juiste contact personen in uw organisatie. Voor meer informatie over de licentie-updates en de toegevoegde waarde, moet u vertrouwd raken met onze gereedheids inhoud in de sectie ' aanvullende bronnen ' en op partner source.
+Deel deze informatie met de juiste contactpersonen in uw organisatie. Lees onze gereedheidsinhoud in de sectie Aanvullende resources en op PartnerSource voor meer informatie over de licentie-updates en de waardepropositie.
 
 ### <a name="questions"></a>Vragen?
 
-Neem [contact op](https://partner.microsoft.com/pcv/servicerequests/create)met de ondersteuning voor meer informatie over uw bedrijfs activiteiten met micro soft.
+Neem contact op met de ondersteuning voor hulp die uitsluitend betrekking heeft op uw activiteiten [met Microsoft.](https://partner.microsoft.com/pcv/servicerequests/create)
 
 _________________
 
-## <a name="now-available---operations-readiness-resources-in-one-place"></a><a id="3"/></a>Nu beschikbaar: bronnen voor de gereedheid van resources op één plek
+## <a name="now-available---operations-readiness-resources-in-one-place"></a><a id="3"/></a>Nu beschikbaar - Resources voor gereedheid voor bewerkingen op één plek
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-03
-- Type: mogelijkheden
-- Status: nu beschikbaar
+- Type: Mogelijkheden
+- Status: Nu beschikbaar
 - [Meer informatie](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 - Alle CSP-partners
 
 ### <a name="summary"></a>Samenvatting
 
-De locatie van de resource voor de [gereedheid](https://partner.microsoft.com/resources#/) van resources is nu live, waarmee partners beschikken over één locatie voor resources voor de gereedheids bewerking, waardoor het eenvoudiger dan ooit om de nieuwste updates en belang rijke operationele gereedheids bronnen te vinden in alle micro soft-kanalen en-Program ma's. De resource galerie van het CSP-programma en de inhoud van micro soft Readiness is verplaatst naar de bron locatie van de bewerkings voorbereiding en de URL die verwijst naar de resource galerie van het cryptografie programma Update ( [https://partner.microsoft.com/resources#/](https://partner.microsoft.com/resources#/) ) is bijgewerkt zodat deze verwijst naar de resource locatie van de bewerkings gereedheids.
+De locatie van de Operations [Readiness-resource](https://partner.microsoft.com/resources#/) is nu live en biedt partners één locatie voor resources voor gereedheid voor bewerkingen, waardoor het eenvoudiger dan ooit is om de meest recente updates en belangrijke operationele gereedheidsresources te vinden in alle Microsoft-kanalen en -programma's. De resourcegalerie updates van het CSP-programma en de inhoud van Microsoft Gereedheid zijn verplaatst naar de resourcelocatie Operations Readiness en de URL die verwijst naar de resourcegalerie van het CSP-programma-update ( ) is bijgewerkt om te wijzen naar de resourcelocatie van Operations [https://partner.microsoft.com/resources#/](https://partner.microsoft.com/resources#/) Readiness.
 
-Raadpleeg de [bijgewerkte Veelgestelde vragen](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) hier voor meer informatie over deze nieuwe ervaring en enkele gebieden die in de komende weken zullen blijven ontwikkelen.
+Bekijk hier [de bijgewerkte veelgestelde](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) vragen voor meer informatie over deze nieuwe ervaring en enkele gebieden die zich de komende weken blijven ontwikkelen.
 
-**Uw feedback is belang rijk voor ons.** Wanneer u de nieuwe locatie voor de gereedheids bewerking gebruikt, wordt u uitgenodigd om feedback te geven zodat we uw ervaring kunnen blijven verbeteren. U kunt dit doen met behulp van de **was deze pagina nuttig? Ja | Er is geen** feedback programma beschikbaar onder aan elke pagina.
+**Uw feedback is belangrijk voor ons!** Wanneer u de nieuwe locatie voor Operations-gereedheid gebruikt, nodigen we u uit om feedback te geven, zodat we uw ervaring kunnen blijven verbeteren. U kunt dit doen met behulp van de **pagina Was deze pagina nuttig? Ja | Er** is geen feedbackprogramma beschikbaar onder aan elke pagina.
 
-Micro soft stroomt de manier waarop we communiceren en gereed materiaal bieden in alle micro soft-Program ma's. We introduceren één resource locatie voor de gereedheid van resources op de micro soft-partner website [https://partner.microsoft.com](https://partner.microsoft.com) , waarmee activa worden gecombineerd met de [resource galerie van het cryptografie programma](https://partner.microsoft.com/resources#/) en de [micro soft Readiness-site](https://www.microsoftreadiness.com/).
+Microsoft streamlint de manier waarop we communiceren en bieden gereedheidsmaterialen voor alle Microsoft-programma's. We introduceren één resourcelocatie voor Operations-gereedheid op de website van de Microsoft-partner op die assets uit de resourcegalerie [https://partner.microsoft.com](https://partner.microsoft.com) [voor CSP-programma-updates](https://partner.microsoft.com/resources#/) en de [Microsoft Readiness-site combineert.](https://www.microsoftreadiness.com/)
 
-Met één locatie voor bronnen voor de gereedheid van resources is het eenvoudiger dan ooit voor partners om de meest recente updates, essentiële aankondigingen en belang rijke operationele gereedheids resources te vinden in alle micro soft-kanalen en-Program ma's. Met eenmalige aanmelding en verbeterde Zoek-, filter-en sorteer mogelijkheden kunnen partners hun bedrijven eenvoudig openen, gebruiken en voor bereid zijn om zaken te doen met micro soft, op de manier waarop ze kunnen werken.
+Met één locatie voor resources voor gereedheid voor bewerkingen is het voor partners eenvoudiger dan ooit om de nieuwste updates, kritieke aankondigingen en belangrijke operationele gereedheidsbronnen te vinden in alle Microsoft-kanalen en -programma's. Met een ervaring voor een een-op-een-aanmelding en verbeterde mogelijkheden voor zoeken, filteren en sorteren kunnen partners hun bedrijf eenvoudig openen, gebruiken en voorbereiden voor een succesvolle transact en zakelijke activiteiten met Microsoft op de manier die voor hen werkt.
 
-### <a name="expanding-on-the-success-of-the-csp-program-updates-resource-gallery"></a>Uitbrei ding van het succes van de update van de resource galerie van het cryptografie programma:
+### <a name="expanding-on-the-success-of-the-csp-program-updates-resource-gallery"></a>Uitbreidend op het succes van de resourcegalerie voor updates van het CSP-programma:
 
-De resource locatie van de bewerkings gereedheids functie op partner.microsoft.com is vergelijkbaar met die van de huidige CSP-programma-Update resource galerie met enkele belang rijke verbeteringen en wijzigingen, waaronder:
+De locatie van de operations-gereedheidsresource op partner.microsoft.com werkt net als de huidige CSP Program Update Resource Gallery met enkele belangrijke verbeteringen en wijzigingen, waaronder:
 
-- **Programma pagina's:** Zoeken naar de meest recente document updates voor een specifiek programma worden eenvoudig gemaakt met pagina's die vooraf zijn gefilterd op inhoud voor dat programma.
-- **Krachtige galerie zoeken:** Met inhouds filters kunt u sneller en eenvoudiger inhoud zoeken in Program ma's en inhoud, bijvoorbeeld CSP.
-- **Aankondigingen:** Het vinden van de meest recente aankondigingen en de meest recente document updates voor een specifiek programma zijn eenvoudiger met pagina's die vooraf zijn gefilterd op inhoud voor dat programma. Er wordt een programma pagina voor CSP, evenals de CSP-aankondigingen worden nog steeds in het partner centrum geplaatst.
-- **Nieuwe locatie:** Zodra de nieuwe locatie voor bronnen voor bedrijfs activiteiten Live is op partner.microsoft.com, zijn de micro soft Readiness-site en de resource galerie voor de cryptografie software-updates niet langer toegankelijk en worden gebruikers omgeleid naar de nieuwe resource locatie van de bewerking. Partners kunnen gebruikmaken van inhouds programma filters om te filteren op CSP of andere specifieke programma bronnen.
-- **Uitgevouwen inhoud:** Alle recente en relevante inhoud van de micro soft Readiness-site en de cryptografie galerie van het CSP-programma worden verplaatst naar de nieuwe locatie voor de gereedheids bewerking. Dit betekent dat inhoud voor meer Program ma's nu op één locatie kan worden geplaatst.
+- **Programmapagina's:** Het vinden van de meest recente documentupdates voor een specifiek programma wordt eenvoudig gemaakt met pagina's die vooraf zijn gefilterd op alleen inhoud voor dat programma.
+- **Krachtige galeriezoekactie:** Inhoudsfilters maken het vinden van inhoud in programma's en inhoud sneller en eenvoudiger, bijvoorbeeld CSP.
+- **Aankondigingen:** Het vinden van de meest recente aankondigingen en de meest recente documentupdates voor een specifiek programma is eenvoudiger met pagina's die vooraf zijn gefilterd op alleen inhoud voor dat programma. Er is ook een programmapagina voor CSP, maar CSP-aankondigingen worden nog steeds in de Partner Center.
+- **Nieuwe locatie:** Zodra de nieuwe locatie voor operationele resources live is op partner.microsoft.com, zijn de Microsoft-gereedheidssite en de resourcegalerie voor updates van het CSP-programma niet meer toegankelijk en worden gebruikers omgeleid naar de nieuwe locatie van de operations-resource. Partners kunnen filters voor inhoudsprogramma's gebruiken om te filteren op CSP of andere specifieke programmaresources.
+- **Inhoud uit uitgebreid:** Alle recente en relevante inhoud van de Microsoft-gereedheidssite en de resourcegalerie voor updates van het CSP-programma worden verplaatst naar de nieuwe locatie voor gereedheid voor bewerkingen, wat betekent dat inhoud voor meer programma's nu op één locatie wordt opgeslagen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Wat moet u doen om voor te bereiden?
+Wat moet u doen om u voor te bereiden?
 
-- Meer **informatie** over de nieuwe locatie van de website van de micro soft-partner voor bronnen voor de gereedheid van resources is door de bijgewerkte gereedheids materialen op [één plek](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)te bekijken in de galerie verzameling.
-- **Neem deel aan een community-oproep van april partners** , waar u meer informatie kunt vinden over de nieuwe ervaring en vragen stellen: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- **Meer informatie over** de nieuwe locatie van de Microsoft-partnerwebsite voor resources voor gereedheid voor bewerkingen vindt u in het bijgewerkte gereedheidsmateriaal in de galerieverzameling Binnenkort - Gereedheidsresources voor bewerkingen [op één plek.](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
+- **Neem deel aan een partner communitygesprek van april** waar u meer informatie over de nieuwe ervaring kunt krijgen en vragen kunt stellen: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="questions"></a>Vragen?
 
-[Neem contact op met de ondersteuning](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) voor vragen, query's of meer informatie.
+[Neem contact op](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) met ondersteuning voor vragen, query's of meer informatie.
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
 - 3 april 2020: bijgewerkt naar nu beschikbaar
-- 23 maart 2020: het CSP-programma werkt de resource galerie-overgang naar de resource locatie van de bewerkings Readiness bij die is bijgewerkt naar 3 april 2020
-- 9 maart 2020: kennisgeving van 30 dagen, bijgewerkte gereedheids materialen
-- 14 februari 2020: oorspronkelijke publicatie datum
+- 23 maart 2020: De overgang van de resourcegalerie van het CSP-programma wordt bijgewerkt naar de resourcelocatie Operations Readiness, bijgewerkt naar 3 april 2020
+- 9 maart 2020: Kennisgeving van 30 dagen, bijgewerkt gereedheidsmateriaal
+- 14 februari 2020: Oorspronkelijke publicatiedatum
 
 _________________
 
-## <a name="microsoft-365-business-voice-available-to-csp-partners-from-april-1-2020"></a><a id="2"/></a>Microsoft 365 Business Voice beschikbaar voor CSP-partners van 1 april 2020
+## <a name="microsoft-365-business-voice-available-to-csp-partners-from-april-1-2020"></a><a id="2"/></a>Microsoft 365 Business Voice beschikbaar voor CSP-partners vanaf 1 april 2020
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-01
-- Type: aanbiedingen/markten
-- Status: nu beschikbaar
+- Type: Aanbiedingen/markten
+- Status: Nu beschikbaar
 - [Meer informatie](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
 
 ### <a name="summary"></a>Samenvatting
 
-Microsoft 365 Business Voice, een op de cloud gebaseerd telefoon systeem dat is gebouwd voor kleine en middel grote bedrijven, is beschikbaar in de landen die hier worden vermeld, van 1 april 2020.
+Microsoft 365 Business Voice, een cloudtelefoonsysteem dat is gebouwd voor kleine en middelgrote bedrijven, is vanaf 1 april 2020 beschikbaar in de landen die hier worden vermeld.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-- Alle CSP-partners [die in deze landen](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)werkzaam zijn.
-- Partners in Australië moeten onze instructies hieronder controleren.
+- Alle CSP-partners die in deze [landen werken.](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
+- Partners in Australië moeten onze onderstaande richtlijnen controleren.
 
 ### <a name="details"></a>Details
 
-Op 1 april 2020 brengt micro soft Microsoft 365 Businesse stem toe aan extra geographs. Er zijn twee aanbiedingen beschikbaar: Microsoft 365 Business Voice en Microsoft 365 Business Voice zonder plan (met behulp van directe route ring). Beide aanbiedingen zijn beschikbaar in de Verenigde Staten
+Op 1 april 2020 introduceert Microsoft Microsoft 365 Business Voice in aanvullende geografische gebieden. Er zijn twee aanbiedingen beschikbaar: Microsoft 365 Business Voice en Microsoft 365 Business Voice Without Calling Plan (met behulp van directe routering). Beide aanbiedingen zijn beschikbaar in de Verenigde Staten
 
-### <a name="customer-value-proposition"></a>Klant toegevoegde waarde
+### <a name="customer-value-proposition"></a>Waardepropositie van de klant
 
-Microsoft 365 Business Voice is een op de cloud gebaseerd telefoon systeem voor bedrijven van Maxi maal 300 gebruikers. Het biedt de mogelijkheid om aanroepen te maken en te ontvangen vanuit elk telefoon nummer in micro soft teams. Samen met teams levert het een alles-in-één communicatie oplossing met combi natie van aanroepen, chatten en vergaderingen.
+Microsoft 365 Business Voice is een cloudtelefoonsysteem voor bedrijven van maximaal 300 gebruikers. Het biedt de mogelijkheid om vanuit elk telefoonnummer in Microsoft Teams te bellen en te ontvangen. Samen met Teams biedt het een alles-in-een-communicatieoplossing waarin oproepen, chat en vergaderingen worden gecombineerd.
 
-Microsoft 365 Business Voice vereenvoudigt en stroomlijnt productiviteit en communicatie in één toepassing die overal werkt: op computers, Smart telefoons en Desk telefoons. De voor delen van Microsoft 365 Business Voice zijn:
+Microsoft 365 Business Voice vereenvoudigt en stroomlijnt productiviteit en communicatie in één toepassing die werkt waar bedrijven dat ook doen: op computers, smartphones en bureautelefoons. De voordelen van Microsoft 365 Business Voice zijn:
 
-- Alles-in-één-communicatie. Transformeer hoe werk wordt gedaan door het samen voegen, chatten, vergaderingen, agenda en e-mail.
-- Eenvoudig en intelligent aanroepen. Communiceer met meer flexibiliteit, gemak en intelligentie, zodat u verbonden kunt blijven.
-- Geleverd vanuit de micro soft-Cloud. Werk met een betrouw bare en veilige Cloud oplossing.
+- Alles-in-een-communicatie. Transformeer hoe werk wordt uitgevoerd door oproepen, chat, vergaderingen, agenda en e-mail samen te roepen.
+- Eenvoudig en intelligent aanroepen. Communiceer met meer flexibiliteit, gemak en intelligentie, zodat u verbonden blijft.
+- Geleverd vanuit de Microsoft-cloud. Werk betrouwbaar met een betrouwbare en veilige cloudoplossing.
 
-Microsoft 365 Business Voice is beschikbaar als een invoeg toepassing voor de volgende abonnementen:
+Microsoft 365 Business Voice is beschikbaar als een invoeg toevoegen aan de volgende plannen:
 
-- Office 365 Business Essentials, Business Premium, F1, a1, E1, a3, E3
-- Microsoft 365 Business, F1, a3, E3
+- Office 365 Business Essentials, Business Premium, F1, A1, E1, A3, E3
+- Microsoft 365 Business, F1, A3, E3
 
-### <a name="partner-value-proposition"></a>Partner toegevoegde waarde
+### <a name="partner-value-proposition"></a>Waardepropositie van partner
 
-Partners kunnen deze kans geld verdienenen door:
+Partners kunnen geld verdienen met deze mogelijkheid door:
 
-- Inschakelen van het telefoon systeem met aanroep wachtrijen/auto-attendant, het beoordelen van de netwerk kwaliteit of het configureren van directe route ring en audio vergaderingen.
-- Gebruikers acceptatie/opleidings services aanbieden voor het beveiligen van de gereedheid van de organisatie en het gebruik van het moderne communicatie programma, micro soft teams.
-- Het ondersteunen en bewaken van de klant omgeving met beheerde services zoals kwaliteits rapportage, Apparaatbeheer en gebruikers ondersteuning.
+- Het telefoonsysteem inschakelen met oproepwachtrijen/automatisch luisteren, de netwerkkwaliteit beoordelen of rechtstreekse routering en audiovergaderingen configureren.
+- Het aanbieden van services voor acceptatie/training door gebruikers om de gereedheid van de organisatie te beveiligen en het moderne communicatiehulpprogramma Microsoft Teams te gaan gebruiken.
+- Ondersteuning en bewaking van de klantomgeving met beheerde services, zoals kwaliteitsrapportage, apparaatbeheer en gebruikersondersteuning.
 
-**Microsoft 365 Business Voice (Verenigde Staten, Canada, Verenigd Konink rijk)**
+**Microsoft 365 Business Voice (Verenigde Staten, Canada, Verenigd Koninkrijk)**
 
-Op 1 april 2020 kunnen zakelijke stem met aanroepende plannen worden aangeschaft in de Verenigde Staten, na onze Lance ring in het Verenigd Konink rijk en Canada in november 2019.
+Op 1 april 2020 is Business Voice met oproepplannen beschikbaar voor aankoop in de Verenigde Staten, na onze lancering in het Verenigd Koninkrijk en Canada in november 2019.
 
-Er is ook een add-on-aanbieding beschikbaar voor klanten die internationale oproep mogelijkheden zoeken.
+Er is ook een invoegaanbieding beschikbaar voor klanten die op zoek zijn naar mogelijkheden voor internationale oproepen.
 
-- Microsoft 365 Businesse stem: 9f9f2c7b-c961-402B-9421-8e3c9207eeb3
-- Microsoft 365 internationaal oproep plan voor SMB: c01a89e5-d246-42d6-b21a-f4a1e9b04f56
+- Microsoft 365 Business Voice: 9f9f2c7b-c961-402b-9421-8e3c9207eeb3
+- Microsoft 365 International Calling Plan for SMB: c01a89e5-d246-42d6-b21a-f4a1e9b04f56
 
-**Spraak Microsoft 365 Business zonder oproep plan (70 + landen)**
+**Microsoft 365 Business Voice zonder oproepplan (meer dan 70 landen)**
 
-Van 1 april 2020 kunt u de zakelijke stem kopen zonder dat u een aanbieding hoeft te doen, met inbegrip van telefoon systeem-en audio vergaderingen. Deze aanbieding is beschikbaar in alle landen die hier worden vermeld.
+U kunt ook vanaf 1 april 2020 de aanbieding Business Voice Without Calling Plan kopen, die telefoonsysteem- en audiovergaderingen omvat. Deze aanbieding is beschikbaar in alle landen die hier worden vermeld.
 
-- **Alleen Verenigde Staten:** Spraak Microsoft 365 Business zonder oproep plan: 39d77d0f-eb8f-4ebc-b618-692e1cc59c8f
-- **Rest van de wereld:** Spraak Microsoft 365 Business zonder oproep plan: cc69a07c-8c51-457f-bb2a-f21a62d6bede
+- **Verenigde Staten alleen:** Microsoft 365 Business Voice Without Calling Plan: 39d7d0f-eb8f-4ebc-b618-692e1cc59c8f
+- **Rest van de wereld:** Microsoft 365 Business Voice Without Calling Plan: cc69a07c-8c51-457f-bb2a-f21a62d6bede
 
-Neem contact op met uw lokale dochter onderneming om inzicht te krijgen in de voor delen van deze aanbieding.
+Neem contact op met uw lokale dochteronderneming om te begrijpen hoe u kunt profiteren van deze aanbieding.
 
-### <a name="additional-guidance-for-partners-in-the-united-states-and-puerto-rico"></a>Aanvullende richt lijnen voor partners in de Verenigde Staten en Puerto Rico
+### <a name="additional-guidance-for-partners-in-the-united-states-and-puerto-rico"></a>Aanvullende richtlijnen voor partners in de Verenigde Staten en Het Amerikaanse
 
-In de Verenigde Staten en Puerto Rico is Business Voice een aanbod met BTW. De prijs die wordt gefactureerd voor partners en die door partners aan micro soft worden betaald, omvat toepasselijke Amerikaanse telecommunicatieE belastingen en vergoedingen. Op andere markten worden belastingen toegepast volgens het normale facturerings proces. Neem contact op met uw juridische adviseur over het remitteren van belastingen voordat u besluit zakelijke stem te markeren. Als zakelijke stem is gemarkeerd, moet de partner een manier hebben om de telecommunicatie-belastingen te remitteren. Anders betaalt de partner niet de incrementele belasting op het merk, wat leidt tot belasting schendingen. Micro soft biedt aanvullende CSP-stimulansen voor partners voor zakelijke spraak in de VS, om potentiële marge te compenseren.
+In de VERENIGDE Staten en Den Staten is Business Voice een aanbieding voor inclusief belasting. De prijs die wordt gefactureerd aan partners en die door partners aan Microsoft wordt betaald, omvat toepasselijke Amerikaanse telco-belastingen en -kosten. In andere markten worden belastingen toegepast volgens het normale factureringsproces. Praat met uw juridische adviseur over het aflaten van belastingen voordat u besluit business voice te markeren. Als Business Voice is gemarkeerd, moet de partner een manier hebben om de telco-belastingen door te geven. Anders zou de partner de incrementele belasting op de prijsverhoging niet betalen, wat resulteert in belastingschendingen. Microsoft biedt extra CSP-incentives aan partners voor Business Voice in de Verenigde Staten om te compenseren voor mogelijk gebrek aan marge.
 
-### <a name="guidance-for-partners-in-australia"></a>Richt lijnen voor partners in Australië
+### <a name="guidance-for-partners-in-australia"></a>Richtlijnen voor partners in Australië
 
-Partners in Australië moeten er rekening mee houden dat de aanbieding Microsoft 365 Business stem zonder oproep plan niet beschikbaar is op de lijst met productie prijzen op 1 april 2020 – ondanks dat deze beschikbaar is in de lijst met prijs voorbeelden in maart 2020. Hartelijk dank voor uw inzichten.
+Partners in Australië moeten er rekening mee houden dat de aanbieding Microsoft 365 Business Voice Without Calling Plan niet beschikbaar is in de lijst met productieprijzen op 1 april 2020, ondanks dat deze beschikbaar is in de preview-prijslijst in maart 2020. Bedankt voor uw begrip.
 
-### <a name="further-countries"></a>Andere landen
+### <a name="further-countries"></a>Meer landen
 
-In de loop van de tijd is het Microsoft 365 Businesse stem voor alle landen waar Office 365 en Microsoft 365 beschikbaar zijn.
+Na een periode hopen we Microsoft 365 Business Voice naar alle landen te brengen waar Office 365 en Microsoft 365 beschikbaar zijn.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Raadpleeg onze partner galerie voor meer informatie over de toegevoegde waarde van deze aanbieding, en om uw micro soft teams-prak tijken te consolideren: [Microsoft 365 Business Beschik baarheid van voice in CSP](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
-- U kunt vertrouwd raken met de preview-prijs lijst en deze informatie delen met alle relevante contact personen in uw organisatie.
-- Neem contact op met uw lokale team van één commerciële partner om meer te weten te komen over deze aanbieding en hoe u effectief naar de markt gaat
+- Raadpleeg onze partnergalerie voor meer informatie over de toegevoegde waarde van deze aanbieding en om uw Microsoft Teams-praktijk te bepalen en te consolideren: Microsoft 365 [Business Voice-beschikbaarheid in CSP](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
+- Zorg dat u vertrouwd bent met de lijst met preview-prijzen en deel deze informatie met alle juiste contactpersonen in uw organisatie.
+- Neem contact op met uw lokale One Commercial Partner-team om meer te weten te komen over deze aanbieding en hoe u effectief op de markt kunt komen
 
 ### <a name="questions"></a>Vragen?
 
-Neem contact op met uw vertegenwoordiger in het micro soft One Commercial partner-team voor meer vragen over deze aanbiedingen.
+Neem contact op met uw vertegenwoordiger in het Microsoft One Commercial Partner-team voor meer vragen over deze aanbiedingen.
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
-- M365 Business Voice is beschikbaar voor klanten van de Verenigde Staten: 1 april 2020
-- M365 Business Voice zonder het aanroepen van een plan starten: 1 april 2020
-- Oorspronkelijke publicatie datum: 5 november 2019
+- M365 Business Voice beschikbaar voor Amerikaanse klanten: 1 april 2020
+- M365 Business Voice zonder planlancering aan te roepen: 1 april 2020
+- Oorspronkelijke publicatiedatum: 5 november 2019
 
 _________________
 
-## <a name="act-now-partners-are-now-required-to-have-accepted-the-microsoft-partner-agreement"></a><a id="1"/></a>Nu handelen: partners zijn nu verplicht om de micro soft-partner overeenkomst te accepteren.
+## <a name="act-now-partners-are-now-required-to-have-accepted-the-microsoft-partner-agreement"></a><a id="1"/></a>Nu actie ondernemen: Partners moeten nu de Microsoft Partner-overeenkomst.
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-04-01
-- Type: mogelijkheden
-- Status: nu beschikbaar
+- Type: Mogelijkheden
+- Status: Nu beschikbaar
 - [Meer informatie](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp)
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 Alle CSP-partners.
 
-**Update van 1 April 2020** Vanaf 31 januari 2020 moeten alle partners in het CSP-programma (Cloud Solution Provider) de overeenkomst hebben geaccepteerd voor al hun transactieve CSP-tenants. We hebben eerder meegedeeld dat de volgende fase van de implementatie voor de overeenkomst begint in april 2020.Om onderbreking van het bedrijf te voor komen, hebben we besloten de volgende fase van de implementatie uit te breiden tot meer dan april 2020. We hebben feedback ontvangen van een aantal partners van onze cloud oplossingen die ze hebben ondervonden problemen met het accepteren van de MPA. Op basis van deze omstandigheden zorgen we ervoor dat er micro soft-resources worden uitgevoerd om partners te ondersteunen die de overeenkomst niet kunnen accepteren.
+**Update van 1 april 2020** Vanaf 31 januari 2020 moeten alle partners in het Cloud Solution Provider-programma (CSP) de overeenkomst voor al hun CSP-tenants hebben geaccepteerd. We hebben eerder gecommuniceerd dat de volgende implementatiefase voor de overeenkomst in april 2020 zou beginnen.Om bedrijfsonderbrekingen te voorkomen, hebben we besloten om de volgende implementatiefase uit te breiden tot na april 2020. We hebben feedback ontvangen van enkele van onze Cloud Solution Provider partners dat ze problemen hebben ondervonden met het accepteren van de MPA. Op basis van deze omstandigheden werken we ervoor te zorgen dat Microsoft-resources beschikbaar zijn ter ondersteuning van partners die problemen hebben met het accepteren van de overeenkomst.
 
 ### <a name="summary"></a>Samenvatting
 Per 31 januari 2020 moeten alle partners in het Cloud Solution Provider-programma, inclusief indirecte resellers, de Microsoft Partner-overeenkomst hebben geaccepteerd om ervoor te zorgen dat de service voor het maken van nieuwe klanten of het plaatsen van nieuwe orders voor bestaande klanten in het CSP-programma niet wordt onderbroken. Acceptatie van de Microsoft Partner-overeenkomst is nu vereist voor alle partners in het CSP-programma.
 
-Vanaf april, 2020:
-- Directe factuur partners en indirecte providers die de micro soft-partner overeenkomst niet hebben geaccepteerd, kunnen geen nieuwe orders plaatsen en worden beperkt tot het beheer van bestaande abonnementen.
-- Indirecte wederverkopers die de micro soft-partner overeenkomst niet hebben geaccepteerd, komen niet meer in aanmerking als partner van record op nieuwe orders.
+Vanaf april 2020:
+- Directe factuurpartners en indirecte providers die de Microsoft Partner-overeenkomst niet hebben geaccepteerd, kunnen geen nieuwe orders plaatsen en zijn beperkt tot het beheren van bestaande abonnementen.
+- Indirecte resellers die de Microsoft Partner-overeenkomst niet meer in aanmerking komen om op nieuwe orders als partner van records te fungeren.
 
-**Als u dit nog niet hebt gedaan, moet u de volgende acties onmiddellijk volt ooien.**
+**Als u dit nog niet hebt gedaan, voltooit u onmiddellijk de volgende acties.**
 
-### <a name="actions-for-direct-bill-partners"></a>Acties voor directe factuur partners:
-1. Informeer de belangrijkste belanghebbenden in uw organisatie om de micro soft-partner overeenkomst te bekijken.
+### <a name="actions-for-direct-bill-partners"></a>Acties voor partners voor directe factuur:
+1. Informeer de belangrijkste belanghebbenden in uw organisatie om de Microsoft Partner-overeenkomst.
 2. Ga akkoord met de Microsoft Partner-overeenkomst op de [CSP-overzichtspagina van het Partnercentrum](https://partner.microsoft.com/pcv/dashboard/overview) met referenties van een globale beheerder.
 
-Meer informatie en bronnen zijn [hier](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)beschikbaar via de pagina CSP-galerie.
+Meer informatie en resources zijn hier beschikbaar via de pagina CSP [Gallery.](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)
 
 ### <a name="actions-for-indirect-providers"></a>Acties voor indirecte providers
-1. Informeer de belangrijkste belanghebbenden in uw organisatie om de micro soft-partner overeenkomst te bekijken.
+1. Informeer de belangrijkste belanghebbenden in uw organisatie om de Microsoft Partner-overeenkomst.
 2. Ga akkoord met de Microsoft Partner-overeenkomst op de [CSP-overzichtspagina van het Partnercentrum](https://partner.microsoft.com/pcv/dashboard/overview) met referenties van een globale beheerder.
-3. Gebruik de [API om te controleren of de ondertekenings status van uw indirecte wederverkoper](/partner-center/develop/verify-indirect-reseller-mpa-status).
-4. Hulp bij het volt ooien van de acties hieronder om uw indirecte wederverkopers te helpen.
+3. Gebruik de [API om de ondertekeningsstatus](/partner-center/develop/verify-indirect-reseller-mpa-status)van uw indirecte reseller te controleren.
+4. Help uw indirecte resellers met het voltooien van hun onderstaande acties.
 
-Meer informatie en bronnen zijn [hier](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)beschikbaar via de pagina CSP-galerie.
+Meer informatie en resources zijn hier beschikbaar via de pagina CSP [Gallery.](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)
 
-We zijn op de hoogte van technische problemen die worden aangetroffen door indirecte providers bij het testen van de transactionele afdwingings mogelijkheden. Deze problemen worden door april 2020 opgelost.
+We zijn op de hoogte van technische problemen die indirecte providers ondervinden bij het testen van de mogelijkheden voor transactionele afdwinging. Deze problemen worden in april 2020 opgelost.
 
-### <a name="actions-for-indirect-resellers"></a>Acties voor indirecte wederverkopers
-1. [Onboarding van partner Center](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) als een indirecte leverancier en accepteer de micro soft-partner overeenkomst als onderdeel van het voorbereidings proces.
-2. Als u zich eerder hebt voorgedaan met partner Center als een indirecte wederverkoper, kunt u de micro soft-partner overeenkomst accepteren op de dash board-pagina van het [partner centrum](https://partner.microsoft.com/pcv/dashboard/overview) met behulp van globale beheerders referenties.
-Specifieke informatie en bronnen van de wederverkopers zijn beschikbaar via [de pagina dealer](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)CSP-galerie.
+### <a name="actions-for-indirect-resellers"></a>Acties voor indirecte resellers
+1. [Onboard naar Partner Center](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) als indirecte reseller en accepteer de Microsoft Partner-overeenkomst als onderdeel van het onboardingproces.
+2. Als u eerder onboarding hebt Partner Center als een indirecte reseller, accepteert u de Microsoft Partner-overeenkomst op de [Partner Center dashboardpagina](https://partner.microsoft.com/pcv/dashboard/overview) met globale beheerdersreferenties.
+Specifieke informatie en resources voor indirecte resellers zijn hier beschikbaar via de CSP Gallery-pagina van de [reseller.](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
-- 14 januari 2020: oorspronkelijke aankondiging is gepubliceerd.
-- 24 januari 2020: Webinar Series-uitnodigingen bijgewerkt voor w/c 27 januari 2020.
-- 31 januari 2020: Webinar Series-uitnodigingen bijgewerkt voor februari 2020.
-- 5 februari 2020: acceptatie van micro soft-partner overeenkomsten is nu vereist.
-- 4 maart 2020: Webinar Series-uitnodigingen bijgewerkt voor maart 2020.
-- 1 april 2020: * * update * *-om onderbreking van het bedrijf te voor komen, hebben we besloten de volgende fase van de implementatie uit te breiden tot meer dan april 2020.
+- 14 januari 2020: Oorspronkelijke aankondiging gepubliceerd.
+- 24 januari 2020: Webinar Series invites updated for w/c 27 January 2020 .
+- 31 januari 2020: Uitnodigingen voor webinarserie bijgewerkt voor februari 2020.
+- 5 februari 2020: Microsoft Partner-overeenkomst acceptatie is nu vereist.
+- 4 maart 2020: Uitnodigingen voor webinarserie bijgewerkt voor maart 2020.
+- 1 april 2020: ** Update** - Om bedrijfsonderbrekingen te voorkomen, hebben we besloten om de volgende implementatiefase verder uit te breiden dan april 2020.
 
 _________________
