@@ -1,7 +1,7 @@
 ---
 title: Marketplace-beloningen beheren
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 05/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partners die aanbiedingen naar de commerciële marketplace publiceren, komen in aanmerking voor voordelen die marketingondersteuning bieden.
@@ -9,28 +9,28 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51b7bd4846826db86f5d9c6e5e087e285dd026c0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2ee643ca713da3509705560d93e15b3c7e5ab192
+ms.sourcegitcommit: 11901a72e9c9d432c324d0c5b1e0214c0eddb96f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151675"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "110687722"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Beheer Marketplace Rewards in Partner Center & marketing-, verkoop- en technische voordelen te activeren
 
 **Juiste rollen:** BEHEER VAN MPN-partner | Globale beheerder | Beheeragent
 
-Als u softwareaanbiedingen publiceert op onze commerciële marketplace, Marketplace Rewards gerichte ondersteuning voor al uw aanbiedingen met marketing-, verkoop- en technische voordelen.
+Als u softwareaanbiedingen publiceert op onze commerciële marketplace, Marketplace Rewards gerichte ondersteuning voor al uw aanbiedingen met marketing-, verkoop- en technische voordelen. Zie Marketplace Rewards (PPT) voor [meer informatie over het programma en](https://aka.ms/marketplacerewards) de voordelen.
 
 Marketplace Rewards geschiktheid wordt berekend op basis van alle uitgeversprofielen die zijn gekoppeld aan het PGA MPN-bedrijf. Als u wilt controleren of u in aanmerking komt voor Marketplace Rewards programma, gaat u naar Partner Center [Marketplace Rewards pagina](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace).
 
 ## <a name="sales-and-marketing-benefits"></a>Verkoop- en marketingvoordelen
 
-1. Selecteer in Partner Center [dashboard](https://partner.microsoft.com/dashboard)het tabblad Voordelen voor verkoop en **marketing** op Marketplace Rewards pagina om uw lijst met voordelen weer te geven. 
+1. Selecteer in Partner Center [dashboard](https://partner.microsoft.com/dashboard)het tabblad Voordelen voor verkoop en **marketing** op Marketplace Rewards pagina om uw lijst met voordelen weer te geven.
 
 2. Als u een voordeel voor sales en marketing wilt activeren, moet u eerst een bedrijfs-marketingcontact toewijzen. Deze contactpersoon ontvangt opvolgingscommunicatie over uw Marketplace-beloningen.
 
-3. Als u uw contactgegevens voor marketing wilt toevoegen of bijwerken, gaat u naar de bovenkant van het tabblad Voordelen voor verkoop en marketing op Marketplace Rewards pagina en selecteert u toevoegen, bijwerken of **wijzigen.** 
+3. Als u uw contactgegevens voor marketing wilt toevoegen of bijwerken, gaat u naar de bovenkant van het tabblad Voordelen voor verkoop en marketing op Marketplace Rewards pagina en selecteert u toevoegen, bijwerken of **wijzigen.**
 
    Ga daarna als volgt te werk:
 
@@ -44,19 +44,19 @@ Marketplace Rewards geschiktheid wordt berekend op basis van alle uitgeversprofi
 
 ## <a name="technical-benefits"></a>Technische voordelen
 
-1. U kunt uw technische voordeel gebruiken om technische hulp aan te vragen tijdens de presales-, ontwerp-, implementatie- en app-ontwikkelingsfasen van uw cloud- en hybride oplossingen. Als u hulp wilt aanvragen, vult u het aanvraagformulier in en selecteert u **Vervolgens Aanvraag verzenden.**
+1. U kunt uw technische voordeel gebruiken om technische hulp aan te vragen tijdens de presales-, ontwerp-, implementatie- en app-ontwikkelingsfasen van uw cloud- en hybride oplossingen. Als u hulp wilt aanvragen, vult u het aanvraagformulier in en selecteert **u Vervolgens Aanvraag verzenden.**
 
 2. Het gebruik van Azure Sponsorship-voordelen wordt via een e-mail gedeeld wanneer u deze voordelen ontgrendelt.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Waarom kan ik het commerciële programma voor Marketplace-beloningen niet zien op mijn dashboard?
 
-De informatie over Marketplace-beloningen is beschikbaar via de Azure AD-tenant en mpn-id die is gebruikt om uw Partner Center maken. Dit account wordt het Partner Global Account (PGA) van uw bedrijf genoemd. Als uw Azure AD-tenant verschilt van de tenant die wordt gebruikt voor MPN-onboarding, moet u het menu Commercial Rewards Marketplace koppelen aan de PGA van uw bedrijf.
+De informatie over Marketplace-beloningen is beschikbaar via de Azure AD-tenant en MPN-id die is gebruikt om uw Partner Center maken. Dit account wordt het Partner Global Account (PGA) van uw bedrijf genoemd. Als uw Azure AD-tenant verschilt van de tenant die wordt gebruikt voor MPN-onboarding, moet u deze koppelen aan de PGA van uw bedrijf, zodat u het Marketplace-menu commerciële beloningen kunt zien.
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Een Azure AD-tenant koppelen aan de PGA van uw bedrijf
 
 1. Meld u als globale beheerder of accountbeheerder aan bij de PGA in Partner Center.
 
-2. Selecteer **Instellingen** (rechtsboven), **Accountinstellingen,** **Tenants.** 
+2. Selecteer **Instellingen** (rechtsboven), **Accountinstellingen,** **Tenants.**
 
 3. Selecteer **Een andere Azure AD-tenant koppelen** en selecteer de Azure AD-tenant die u wilt koppelen aan de PGA.
 
@@ -65,4 +65,3 @@ De informatie over Marketplace-beloningen is beschikbaar via de Azure AD-tenant 
 5. Meld u af bij Partner Center meld u vervolgens aan met de gebruikersnaam en het wachtwoord voor de tenant die u zojuist aan de PGA hebt gekoppeld.
 
 6. U kunt nu de informatie over het Commercial Rewards Marketplace-programma zien in het navigatiemenu aan de linkerkant.
-
