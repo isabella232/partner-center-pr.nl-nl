@@ -4,27 +4,27 @@ ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over hoe partners in het CSP-programma Partner Center om gereserveerde Instanties van Azure en serverabonnementen voor klanten te kopen, beheren, verkopen en annuleren.
+description: Meer informatie over hoe partners in het CSP-programma Partner Center om gereserveerde Azure-instanties en serverabonnementen voor klanten te kopen, beheren, verkopen en annuleren.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdf6495d86da09b7d1d167c3fa1b3b5f15a35ab6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 309a3578edcd06770c818722f2164a4d10a945da
+ms.sourcegitcommit: 32ef8d43902357a85df420b48b0ec1d63ad073e4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147493"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "110754474"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Softwareabonnementen verkopen via het Cloud Solution Provider (CSP)-programma
 
 **Juiste rollen:** beheeragent | Globale beheerder
 
-Met Azure-reserveringen en Server-abonnementen (Windows Server en SQL Server-abonnementen) kunnen partners in het CSP-programma beter in staat zijn om beter te voldoen aan de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare en permanente cloudworkloads. 
+Met Azure-reserveringen en serverabonnementen (Windows Server- en SQL Server-abonnementen) kunnen partners in het CSP-programma beter in staat zijn om te voldoen aan de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare en permanente cloudworkloads. 
 
 U kunt nu Azure-reserveringen en Server-abonnementen namens commerciële klanten verkrijgen, inrichten en beheren via Partner Center en de Azure Portal door gebruik te maken van de Azure Hybrid Benefit.
 
-Met Azure Hybrid Benefit kunt u meer waarde uit uw Windows Server-licenties halen en tot wel 40 procent besparen op virtuele machines. U kunt het voordeel gebruiken met licenties voor Windows Server Datacenter en Standard edition die worden gedekt Software Assurance. Afhankelijk van de editie kunt u uw licenties converteren of opnieuw gebruiken om virtuele Windows Server-machines in Azure uit te voeren en een lager basisrekentarief te betalen (bijvoorbeeld tarieven voor virtuele Linux-machines).
+Met Azure Hybrid Benefit kunt u meer waarde uit uw Windows Server-licenties halen en tot wel 40 procent besparen op virtuele machines. U kunt het voordeel gebruiken met licenties voor Windows Server Datacenter en Standard edition die onder Software Assurance. Afhankelijk van de editie kunt u uw licenties converteren of opnieuw gebruiken om virtuele Windows Server-machines in Azure uit te voeren en een lager basisrekentarief te betalen (bijvoorbeeld tarieven voor virtuele Linux-machines).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Niet-beschikbare markten voor Azure-reserveringen
 
@@ -55,7 +55,7 @@ Met Azure Hybrid Benefit kunt u meer waarde uit uw Windows Server-licenties hale
 > | Centraal-Afrikaanse Republiek     | Liberia     | Somalië     |
 > | Tsjaad     | Madagaskar     | Zuid-Georgië en de Zuidelijke Sandwicheilanden     |
 > | China     | Malawi     | Zuid-Soedan     |
-> | Christmaseiland     | Maldiven     | St Helena, Zetten, Tristan da Cunha     |
+> | Christmaseiland     | Maldiven     | St Helena, Ascension, Tristan da Cunha     |
 > | Cocoseilanden     | Mali     | Suriname     |
 > | Comoren     | Marshalleilanden     | Svalbard     |
 > | Congo     | Martinique     | Swaziland     |
@@ -85,7 +85,7 @@ Softwareabonnementen kopen namens een klant:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Software-abonnementen activeren en beheren
 
-Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (partners die Partner Center; klanten die het beheercentrum van Microsoft 365 gebruiken). Gebruik de volgende procedure om dit te doen. Het is belangrijk om inzicht te krijgen in de risico's die gepaard gaan met het kopiëren van koppelingen en het downloaden van software. Zie Using Partner Center to obtain customer **software downloads and license keys** in de Partner Center New Commerce Operations Guide voor meer [informatie.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (partners die Partner Center; klanten die het beheercentrum van Microsoft 365 gebruiken). Gebruik de volgende procedure om dit te doen. Het is belangrijk om inzicht te krijgen in de risico's die gepaard gaan met het kopiëren van koppelingen en het downloaden van software. Zie Using **Partner Center to obtain customer software downloads and license keys** in de Partner Center New Commerce Operations Guide voor meer [informatie.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 >[!NOTE]
 >U moet een beheerderagent in Partner Center om de koppeling naar sleutels en downloads te verkrijgen.
@@ -94,13 +94,13 @@ Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (pa
 
 2. Kies **productversie,** **taal**, **bit** en selecteer **Sleutels en downloads ophalen.** 
 
-3. Kies **Sleutel downloaden** om het 32-cijferige product weer te geven in een pop-updialoogvenster dat u kunt kopiëren en verzenden naar de klant. 
+3. Kies **Sleutel downloaden** om het 32-cijferige product weer te geven in een pop-updialoogvenster, dat u kunt kopiëren en verzenden naar de klant. 
 
 4. Kies **Downloaden om** de bits te downloaden. 
 
 5. Kies **Koppeling kopiëren** als u de klant de koppeling naar de bits download wilt sturen. 
 
-6. U kunt de **softwareorder** ook annuleren en een tegoed van 100% ontvangen (indien uitgevoerd binnen de annuleringsbeleidsperiode van 60 dagen).
+6. U kunt de **softwareorder** ook annuleren en een tegoed van 100% ontvangen (indien uitgevoerd binnen de annuleringsbeleidsperiode van 30 dagen).
 
 >[!NOTE]
 >Alleen klanten hebben toegang tot de productcodes en het downloaden van informatie in het Microsoft 365 Admin Center (globale beheerdersrol vereist). Partners moeten deze Partner Center gebruiken om deze informatie te bekijken.
@@ -126,35 +126,33 @@ Voor controle- of nalevingsdoeleinden moet u mogelijk een lijst controleren met 
 
 ## <a name="cancel-a-purchase"></a>Een aankoop annuleren
 
-U kunt een software-aankoop binnen 60 dagen na de aankoopdatum annuleren. Als u binnen deze periode van 60 dagen annuleert, worden er geen kosten voor vroegtijdige beëindiging in rekening gebracht. Na 60 dagen kunt u een aankoop niet meer annuleren. (Zie Opmerking voor belangrijke beperkingen voor deze annuleringsregel. Zie ook Belangrijke opmerking na deze stappen voor meer informatie over wat er gebeurt nadat u een software-aankoop hebt geannuleerd.) 
+U kunt een software-aankoop binnen 30 dagen na de aankoopdatum annuleren. Als u binnen deze periode van 30 dagen annuleert, worden er geen kosten voor vroegtijdige beëindiging in rekening gebracht. Na 30 dagen kunt u een aankoop niet meer annuleren. (Zie Opmerking voor belangrijke beperkingen voor deze annuleringsregel. Zie ook Belangrijke opmerking na deze stappen voor meer informatie over wat er gebeurt nadat u een software-aankoop hebt geannuleerd.) 
 
 >[!NOTE]
->De volgende stappen voor het annuleren van een aankoop zijn alleen van toepassing op software die in aanmerking komt voor annulering binnen een specifiek annuleringsvenster, zoals binnen de eerste 60 dagen na de aankoop. Deze stappen zijn ook niet van toepassing op een SUSE Linux- of RedHat-softwareplan in Azure. Op dit moment kunt u een SUSE- of RedHat-softwareplan niet annuleren of uitwisselen. [Meer informatie over](/azure/virtual-machines/linux/prepay-suse-software-charges) het gebruik van SUSE Linux- of RedHat-plannen.
+>De volgende stappen voor het annuleren van een aankoop zijn alleen van toepassing op software die in aanmerking komt voor annulering binnen een specifiek annuleringsvenster, zoals binnen de eerste 30 dagen na de aankoop. Deze stappen zijn ook niet van toepassing op een SUSE Linux- of RedHat-softwareplan in Azure. Op dit moment kunt u een SUSE- of RedHat-softwareplan niet annuleren of uitwisselen. [Meer informatie over](/azure/virtual-machines/linux/prepay-suse-software-charges) het gebruik van SUSE Linux- of RedHat-abonnementen.
 
 Volg de onderstaande stappen om een aankoop te annuleren:
 
 >[!NOTE]
 >U moet een beheerderagent zijn om een aankoop te annuleren. In de volgende stappen wordt beschreven hoe u een aankoop annuleert in Partner Center dashboard. U kunt dit ook doen met behulp van [Partner Center API](/partner-center/develop/cancel-software-purchases).
 
-1. Voordat u het annuleringsproces start, moet u ervoor zorgen dat u het volgende hebt:
+1. Voordat u het annuleringsproces start, moet u de volgende informatie hebben:
 
     - De naam van de klant, tenant-GUID of domeinnaam
-
     - De naam van het product dat u wilt annuleren
-    
     - De order-id
 
-2. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
+2. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
 3. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
-4. Selecteer software op de pagina met details van de klant **om** de lijst weer te geven met software die voor de klant is gekocht. 
+4. Selecteer software op de pagina met details van de klant **om** de lijst met software weer te geven die voor de klant is gekocht. 
 
 5. Zoek de software-aankoop die u wilt annuleren en selecteer **vervolgens Annuleren.** Er wordt een dialoogvenster weergegeven.
 
-6. Selecteer in de vervolgkeuzelijst Ordernummer het juiste order-id-nummer dat u wilt annuleren. (Meer informatie over een order- of order-id vindt u op de pagina **Ordergeschiedenis van de** klant.)
+6. Selecteer in de vervolgkeuzelijst Ordernummer het juiste order-id-nummer dat u wilt annuleren. (Meer informatie over een order- of order-id-nummer vindt u op de pagina **Ordergeschiedenis van de** klant.)
 
-7. Schakel het selectievakje in om te bevestigen dat u het bericht **Belangrijk** met betrekking tot annulering hebt gelezen. (Raadpleeg de opmerking **Belangrijk** hieronder voor meer informatie over wat er gebeurt nadat u een aankoop hebt geannuleerd.)
+7. Schakel het selectievakje in om te bevestigen dat u het bericht **Belangrijk met** betrekking tot annulering hebt gelezen. (Raadpleeg de belangrijke **opmerking** hieronder voor meer informatie over wat er gebeurt nadat u een aankoop annuleert.)
 
 8. Selecteer **Verzenden om** uw aankoop te annuleren. Als u meerdere orders voor een klant wilt annuleren, moet u stap 4 t/m 6 nogmaals uitvoeren voor elk uniek order-id-nummer.
 
@@ -173,35 +171,32 @@ Wanneer u een order probeert te annuleren, Partner Center u mogelijk ook andere 
 
 Nadat u een aankoop hebt geannuleerd:
 
-- Alle gerelateerde softwaresleutels en downloadkoppelingen worden ingetrokken. Dit betekent dat u en uw klant de softwaresleutels niet meer kunnen gebruiken en koppelingen kunnen downloaden die betrekking hebben op deze aankoop. U en uw klant zijn verantwoordelijk voor het stoppen van het gebruik van alle geannuleerde software. U bent ook verantwoordelijk voor het verwijderen van de geannuleerde software en het verwijderen van alle gerelateerde softwaredownloads en koppelingen.
+- Alle gerelateerde softwaresleutels en downloadkoppelingen worden ingetrokken. Deze intrekking betekent dat u en uw klant niet langer de softwaresleutels kunnen gebruiken en koppelingen met betrekking tot deze aankoop kunnen downloaden. U en uw klant zijn verantwoordelijk voor het stoppen van het gebruik van alle geannuleerde software. U bent ook verantwoordelijk voor het verwijderen van de geannuleerde software en het verwijderen van alle gerelateerde softwaredownloads en koppelingen.
 
 - Het geannuleerde item wordt nog steeds weergegeven op de pagina Softwaredetails van de klant, maar de activeringssleutel is niet beschikbaar.
 
-- Er wordt een tegoed voor de geannuleerde order weergegeven op uw volgende maandelijkse factuur. Permanente software ontvangt een tegoed van 100% en softwareabonnementen ontvangen een pro 100%-tegoed.
+- Er wordt een tegoed voor de geannuleerde order weergegeven op uw volgende maandelijkse factuur. Permanente software ontvangt een tegoed van 100% en softwareabonnementen ontvangen een prorated tegoed.
 
 ### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Een klantondersteuningsaanvraag indienen om een aankoop te annuleren
 
-Als u hebt geprobeerd een software-aankoop via Partner Center annuleren, maar u wordt gevraagd meer informatie op te geven en een klantondersteuningsaanvraagformulier in te vullen, kunnen deze stappen u helpen:
+Als u hebt geprobeerd een software-aankoop via Partner Center te annuleren, maar u wordt gevraagd meer informatie op te geven en een formulier voor klantondersteuning in te vullen, kunnen deze stappen u helpen:
 
-1. Wanneer u de koppeling **klantondersteuningsaanvraag selecteert** in het venster Aankoop annuleren, wordt de pagina Een probleem melden **Partner Center** geopend.
+1. Wanneer u de koppeling **klantondersteuningsaanvraag selecteert** in het venster Aankoop annuleren, wordt de **Partner Center** de pagina Een probleem melden.
 
-2. Selecteer **onder Details** in de lijst Type probleem de optie **CSP-aankoop/-restitutie namens klanten**.
+2. Selecteer **onder Details** in de lijst Type probleem **CSP Purchase/Refund namens klanten.**
 
-3. Vul de velden Impact en Titel in.
+3. Vul de velden Impact en Title in.
 
-4. Geef in het veld Beschrijving het volgende op:
+4. Geef in het veld Beschrijving de volgende informatie op:
 
     - De GUID of domeinnaam van de tenant van de klant
-    
     - Order-id of abonnements-id
-    
     - Reden van restitutie
-
-    - Gevraagd bedrag
+    - Aangevraagd bedrag
 
 5. Voer in het veld Contactpersoon uw naam, e-mailadres en telefoonnummer in.
 
-6. Als u om wat voor reden dan ook een bestand wilt bijvoegen, **selecteert u Bestanden toevoegen.** Deze stap is optioneel.
+6. Als u om wat voor reden dan ook een bestand wilt toevoegen, **selecteert u Bestanden toevoegen.** Deze stap is optioneel.
 
 7. Wanneer u klaar bent, selecteert u **Verzenden.**
 
