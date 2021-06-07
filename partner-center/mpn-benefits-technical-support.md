@@ -1,40 +1,40 @@
 ---
 title: 'MPN-voordelen : technische ondersteuning voor on-premises of cloudproducten'
+description: Meer informatie over Microsoft Partner Network (MPN) voordelen voor technische ondersteuningsincidenten
 ms.topic: article
-ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Meer informatie over Microsoft Partner Network (MPN) voordelen voor technische ondersteuningsincidenten
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 137c5021acf2be53fb485f922c7e06c70ea6bb63
-ms.sourcegitcommit: f1255fb65eac6ee2e0ff0cb95cc16a02dc57fc1a
+ms.date: 03/04/2021
+ms.openlocfilehash: eeeb628690848c360253d883e87f48f87ed15883
+ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "110582389"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "111575868"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Technische ondersteuning voor on-premises of cloudproducten
 
-**Juiste rollen:** globale | Beheeraccount van MPN-| Beheeragent
+**Juiste rollen:** Globale | Beheer van MPN-partner | Beheeragent
 
 
 ## <a name="overview"></a>Overzicht
 
-Op [de pagina Technische](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) voordelen vindt u informatie over twee afzonderlijke voordelen
+Op [de pagina Technische voordelen](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) vindt u informatie over 2 afzonderlijke voordelen
 
 1.  **Technische productondersteuningsincidenten - zie hieronder**
-2.  Technical Presales and Deployment Services (TPD) - [meer informatie](https://docs.microsoft.com/partner-center/technical-benefits)
+2.  Technical Presales and Deployment Services (TPD) - [meer informatie](technical-benefits.md)
 
-**Dit artikel is bedoeld voor leden van Microsoft Partner Network-partners (MPN) die willen weten hoe een incident met technische ondersteuning kan worden gemaakt met mpn-partnervoordelen**
+**Dit artikel is bedoeld voor leden van Microsoft Partner Network Partners (MPN) die willen weten hoe een incident voor technische ondersteuning kan worden gemaakt met mpn-partnervoordelen**
 
 ## <a name="view-and-activate-your-technical-support-benefits"></a>Uw technische ondersteuningsvoordelen weergeven en activeren
 
-Eerst moet u activeren en vervolgens ziet u uw toegangs-id en contract-id, waarmee u de voordelen aan uw account kunt toevoegen. U gebruikt uw account om u aan te melden bij de relevante technische ondersteuningsportal en een aanvraag voor technische ondersteuning te maken.
+Eerst moet u activeren. Vervolgens ziet u uw toegangs-id en contract-id, waarmee u de voordelen aan uw account kunt koppelen. U gebruikt uw account om u aan te melden bij de relevante technische ondersteuningsportal en een aanvraag voor technische ondersteuning te maken.
 
-Bekijk en activeer uw technische voordelen in Partner Center:
+Uw technische voordelen in de volgende Partner Center:
 
 1. Meld u aan met uw MPN-account bij het Partner Center [dashboard](https://partner.microsoft.com/dashboard). 
    
@@ -62,17 +62,17 @@ Technische ondersteuning biedt probleemoplossing voor een specifiek probleem, fo
 
 Als onderdeel van het Microsoft Partner Network komen partners in aanmerking voor de volgende technische ondersteuning
 
-|                           Technische ondersteuning                          |  Action Pack |                                      Silver-competentie                                      |                                        Gold-competentie                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Microsoft-productondersteuning<br>Voor recente on-premises <br>alleen producten | 10 incidenten | 15 incidenten                                                                                | 20 incidenten                                                                                  |   |
-| Signature Cloud Support<br>Alleen voor cloudproducten                   |              | Cloudcompetenties:<br>Onbeperkt<br>         <br>Andere competenties:<br>5 incidenten         | Cloudcompetenties:<br>Onbeperkt<br>          <br>Andere competenties:<br>10 incidenten   
+|  Technische ondersteuning |  Action Pack |  Silver-competentie | Gold-competentie |
+|:------------------:|:------------:|:------------------:|:---------------:|
+| Microsoft-productondersteuning<br>Voor recente on-premises <br>alleen producten | 10 incidenten | 15 incidenten | 20 incidenten |
+| Signature Cloud Support<br>Alleen voor cloudproducten | | Cloudcompetenties:<br>Onbeperkt<br><br>Andere competenties:<br>5 incidenten | Cloudcompetenties:<br>Onbeperkt<br>          <br>Andere competenties:<br>10 incidenten   | 
 
-*Cloudcompetenties zijn onder andere: Security Competency, Cloud Business Applications, Cloud Platform, Cloud Productivity, Enterprise Mobility Management, Small en Midmarket Cloud Solutions.
+*Cloudcompetenties zijn onder andere: Security Competency, Cloud Business Applications, Cloud Platform, Cloud Productivity, Enterprise Mobility Management, Small and Midmarket Cloud Solutions.
 
 
 ## <a name="microsoft-product-support-on-premises"></a>Microsoft-productondersteuning (on-premises)
 
-U kunt **Microsoft-productondersteuning gebruiken** voor technische ondersteuning bij recente on-premises producten.
+U kunt **Microsoft-productondersteuning gebruiken** voor technische ondersteuning op recente on-premises producten.
 
 De eerste keer dat u het voordeel gebruikt, hebt u de toegangs-id en contract-id nodig. De voordelen zijn gekoppeld aan uw gebruikersaccount totdat ze verlopen of er geen ondersteuningsincidenten meer zijn.
 
@@ -80,8 +80,8 @@ Elk gebruikersaccount (AAD of MSA) kan technische ondersteuning gebruiken voor o
 
 Selecteer [Ondersteuning voor Bedrijven om](https://support.serviceshub.microsoft.com/supportforbusiness/create) een ondersteuningsaanvraag voor een on-premises product te maken.
 
-## <a name="how-many-partner-support-incidents-are-remaining"></a>Hoeveel ondersteuningsincidenten van partners nog resterend zijn
-U kunt deze informatie alleen verkrijgen via de ondersteuningsportal voor Bedrijven on-premises. In de cloudportals (bijvoorbeeld Azure, LCS en andere) wordt deze informatie helaas niet weer gegeven.
+## <a name="how-many-partner-support-incidents-are-remaining"></a>Hoeveel partnerondersteuningsincidenten resterend zijn
+U kunt deze informatie alleen verkrijgen via de ondersteuningsportal voor Ondersteuning voor Bedrijven on-premises. Helaas bevatten de cloudportals (bijvoorbeeld Azure, LCS en andere) deze informatie niet.
 
 U moet Ondersteuning voor Bedrijven gebruiken en het proces starten om een on-premises ondersteuningsincident te maken. We maken geen ondersteuningsaanvraag omdat we het proces niet voltooien. De informatie die we nodig hebben, wordt weergegeven in stap 2.
 
@@ -110,21 +110,21 @@ Wanneer u de Azure Portal gebruikt, gebruikt u Signature Cloud Support door Help
 > [!NOTE]
 > Als u microsoft-Action Pack krijgt u geen cloudondersteuning omdat deze geen Signature Cloud Support omvat- alleen Microsoft-productondersteuning (on-premises)
 
-Mogelijk ziet u het foutbericht *Deze toegangs-id is al gekoppeld aan een account. Neem contact op met uw technische accountmanager om een nieuwe toegangs-id te verkrijgen.* **Dit foutbericht is ongeldig en moet worden genegeerd.** We hebben aangevraagd dat de fout wordt uitgeschakeld en vervangen door een nuttig diagnostisch foutbericht. 
+Mogelijk ziet u het foutbericht *Deze toegangs-id is al gekoppeld aan een account. Neem contact op met uw Technical Account Manager om een nieuwe toegangs-id te verkrijgen.* **Dit foutbericht is ongeldig en moet worden genegeerd.** We hebben aangevraagd dat de fout wordt uitgeschakeld en vervangen door een nuttig diagnostisch foutbericht. 
 
 U ziet de bovenstaande 'Toegangs-id is al gekoppeld...' fout als u een ondersteuningscontract meer dan één keer aan een account koppelt wanneer u de Azure Portal. Zie de onderstaande scenario's:
 
-1. Als u technische voordelen van goud of zilver hebt en eerder het contract voor on-premises ondersteuning hebt toegevoegd, gebruikt u de Azure Portal en voegt u het contract voor de tweede keer toe aan hetzelfde account. U hoeft het ondersteuningscontract slechts eenmaal aan een account te koppelen en daarom hoeft u geen ondersteuningsvoordelen te koppelen in Azure. Als u ondersteuningsvoordelen voor koppeling gebruikt wanneer het contract al aan het account is gekoppeld, ziet u de fout en moet deze worden genegeerd. Gebruik + Nieuwe Ondersteuningsaanvraag maak op de gebruikelijke manier een ondersteuningsincident en het ondersteuningsplan wordt weergegeven.
+1. Als u technische voordelen van goud of zilver hebt en u eerder het contract voor on-premises ondersteuning hebt toegevoegd, gebruikt u de Azure Portal en voegt u het contract voor de tweede keer toe aan hetzelfde account. U hoeft het ondersteuningscontract slechts één keer aan een account te koppelen en hoeft daarom geen ondersteuningsvoordelen in Azure te koppelen. Als u ondersteuningsvoordelen voor koppeling gebruikt wanneer het contract al aan het account is gekoppeld, ziet u de fout en moet deze worden genegeerd. Gebruik + Nieuwe Ondersteuningsaanvraag maak op de gebruikelijke manier een ondersteuningsincident en het ondersteuningsplan wordt weergegeven.
 
-2. Als het ondersteuningscontract is verlopen of het Signature 10-pack (Gold hybrid competency) of Signature 5-pack (Silver hybrid competency) geen incidenten bevat, wordt het ondersteuningscontract verborgen omdat het ongeldig is. Als u opnieuw ondersteuningsvoordelen koppelt, ziet u de fout omdat het contract al is gekoppeld. U moet een nieuw ondersteuningsplan aanschaffen om incidenten ondersteuning voor Azure krijgen. 
+2. Als het ondersteuningscontract is verlopen of als het Signature 10-pack (Gold hybrid competency) of Signature 5-pack (Silver hybrid competency) geen incidenten bevat, wordt het ondersteuningscontract verborgen omdat het ongeldig is. Als u opnieuw ondersteuningsvoordelen koppelt, ziet u de fout omdat het contract al is gekoppeld. U moet een nieuw ondersteuningsplan aanschaffen om incidenten ondersteuning voor Azure krijgen. 
 
-Zie Partner-ondersteuningsplannen hieronder voor aanbiedingen van betaalde ondersteuning van partners
+Zie Partner-ondersteuningsplannen hieronder voor betaalde ondersteuningsaanbiedingen van partners
 
 ## <a name="partner-support-plans"></a>Ondersteuningsplannen van partners
 
-U kunt betaalde ondersteuning van Microsoft krijgen met technische ondersteuning en een scala aan extra serviceopties.
+U kunt betaalde ondersteuning van Microsoft krijgen met technische ondersteuning en een aantal extra serviceopties.
 
-U kunt [partnerondersteuningsplannen vergelijken](https://partner.microsoft.com/support/partnersupport) of hieronder bekijken voor partnerspecifieke abonnementen:
+U kunt [partnerondersteuningsplannen vergelijken of](https://partner.microsoft.com/support/partnersupport) hieronder bekijken voor partnerspecifieke abonnementen:
 
 *   [Premier Support voor partners:](https://partner.microsoft.com/support/microsoft-services-premier-support) het hoogste niveau van technische ondersteuning van Microsoft
 *   [Geavanceerde ondersteuning voor partners](https://partner.microsoft.com/support/advanced-cloud-support) - alleen cloudproducten
@@ -133,4 +133,4 @@ U kunt [partnerondersteuningsplannen vergelijken](https://partner.microsoft.com/
 
 *   [Uw Microsoft Partner Network en aanbiedingen beheren](manage-your-partner-network-benefits.md)
 *   [Technische voordelen activeren voor leden van Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
-*   [Technical Presales and Deployment Services (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
+*   [Technische presales- en implementatieservices (TPD)](technical-benefits.md)
