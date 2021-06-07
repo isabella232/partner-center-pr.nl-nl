@@ -1,50 +1,46 @@
 ---
-title: Persoonlijke aanbiedingen in azure Marketplace
-description: Meer informatie over privé aanbiedingen in azure Marketplace.
+title: Privéaanbiedingen in Azure Marketplace
+description: Meer informatie over privéaanbiedingen in Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 72e886a7cfad067b40674f30a9a21810d832994a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/03/2021
+ms.openlocfilehash: 55d0716b183e9e8905e631447e547396d6f55404
+ms.sourcegitcommit: 9cb6bc9df20540f812b7932f88e520976c1aa85a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412655"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "111534173"
 ---
-# <a name="private-offers-in-azure-marketplace"></a>Persoonlijke aanbiedingen in azure Marketplace
+# <a name="private-plans-in-azure-marketplace"></a>Persoonlijke abonnementen in Azure Marketplace
 
-Persoonlijke aanbiedingen zijn hoe uitgevers aangepaste abonnementen bieden aan specifieke klanten. Deze optie wordt momenteel alleen ondersteund in de Azure Marketplace-ervaring in de Azure Portal. Privé aanbiedingen zijn alleen beschikbaar voor betaalde aanbiedingen die kunnen worden gekocht en rechtstreeks vanuit de Azure Portal worden geïnstalleerd. Publisher kan geen persoonlijke aanbiedingen maken voor advies Services, een service die **contact met mij heeft opgenomen** als oproep-naar-actie of een gratis service, ongeacht of deze kan worden geïnstalleerd vanuit de portal of niet.
+Persoonlijke abonnementen zijn de manier waarop uitgevers aangepaste abonnementen bieden aan specifieke klanten. Persoonlijke abonnementen zijn alleen beschikbaar voor betaalde aanbiedingen die kunnen worden gekocht en rechtstreeks vanuit de Azure Portal. Uitgevers kunnen geen persoonlijke abonnementen maken voor adviesservices, een service met **Contact** opnemen als een oproep-naar-actie of een gratis service, ongeacht of deze kan worden geïnstalleerd vanuit de portal of niet.
 
-## <a name="find-private-offers-in-the-azure-portal"></a>Persoonlijke aanbiedingen zoeken in de Azure Portal
+## <a name="find-private-plans-in-the-azure-portal"></a>Privé-abonnementen zoeken in de Azure Portal
 
-Wanneer een partner een persoonlijke aanbieding publiceert, is deze alleen zichtbaar voor gebruikers die hiervoor in aanmerking komen in het gedeelte **Marketplace** van de Azure Portal. Deze gebruikers worden gedefinieerd op basis van de abonnements-ID of Tenant-ID, afhankelijk van het type aanbieding. Als u in aanmerking komt voor privé-aanbiedingen, zijn er twee manieren om ze te vinden in de portal.
+Wanneer een partner een privé-abonnement publiceert, is dit alleen zichtbaar voor in aanmerking komende gebruikers in de **sectie Marketplace** van de Azure Portal. Deze gebruikers worden gedefinieerd op basis van de abonnements-id of tenant-id, afhankelijk van het aanbiedingstype. Als u in aanmerking komt voor persoonlijke abonnementen, kunt u deze op twee manieren vinden in de portal.
 
 > [!NOTE]
-> Persoonlijke aanbiedingen kunnen momenteel niet worden doorzocht of gefilterd (op categorie) in de Azure Portal.
+> Persoonlijke abonnementen zijn doorzoekbaar, maar niet filterbaar (op categorie) in de Azure Portal.
 
-Selecteer in de Azure Portal **+ een resource maken** of zoek op Marketplace om naar de **Marketplace** -pagina te gaan. Als u in aanmerking komt voor persoonlijke aanbiedingen, ziet u de banner **uw persoonlijke aanbiedingen is** boven aan de pagina. Selecteer **persoonlijke aanbiedingen weer geven** om naar de pagina met persoonlijke aanbiedingen te gaan.
+Selecteer in Azure Portal selecteer **+ Een resource maken** of zoek naar 'marketplace' om naar de **pagina Marketplace te** gaan. Als u in aanmerking komt voor persoonlijke abonnementen, ziet u de banner U **hebt privé-abonnementen** beschikbaar bovenaan de pagina. Selecteer **Persoonlijke aanbiedingen en abonnementen weergeven om** naar de pagina met uw persoonlijke abonnementen te gaan.
 
-:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="De banner die wordt weer gegeven wanneer u persoonlijke aanbiedingen beschikbaar hebt.":::
+:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="De banner die wordt weergegeven wanneer u persoonlijke abonnementen beschikbaar hebt.":::
 
-Als u de banner persoonlijke aanbiedingen ziet, kunt u ook naar de onderkant van de pagina product galerie schuiven en ziet u een subset van uw persoonlijke aanbiedingen. Selecteer de koppeling voor **meer** informatie om naar de pagina met persoonlijke aanbiedingen te gaan.
+## <a name="review-private-plans"></a>Persoonlijke abonnementen controleren
 
-:::image type="content" source="media/private-offers/see-more-link.png" alt-text="Hier worden de persoonlijke aanbiedingen onder aan het scherm weer gegeven, samen met de koppeling meer weer geven.":::
+Een privé-abonnement maakt deel uit van verschillende plannen in een aanbieding. Elke aanbieding kan meerdere plannen hebben, zowel openbaar als privé, maar persoonlijke abonnementen worden weergegeven onder een afzonderlijke lijst van openbare abonnementen.
 
-## <a name="review-private-plans"></a>Privé plannen controleren
+U kunt de beschikbare persoonlijke abonnementen bekijken op het **tabblad Plannen,** gemarkeerd met een persoonlijke **badge:**
 
-Een persoonlijke aanbieding is in feite een privé abonnement binnen een aanbieding. Elke aanbieding kan meerdere plannen hebben, zowel openbaar als privé, maar persoonlijke abonnementen worden weer gegeven onder een afzonderlijke vermelding van open bare abonnementen.
+:::image type="content" source="media/private-offers/private-badge.png" alt-text="Een pagina met plannen die zijn gemarkeerd als Privé.":::
 
-U kunt de beschik bare privé plannen bekijken op het tabblad **plannen** , gemarkeerd met een onderscheidende **persoonlijke** badge:
+Als u meer dan één abonnement hebt, ziet u dat alle persoonlijke abonnementen beschikbaar zijn voor al uw abonnementen. Wanneer u Maken **selecteert,** wordt u doorgeleid naar de pagina voor het maken van resources om te beginnen met het configureren van uw resource.
 
-:::image type="content" source="media/private-offers/private-badge.png" alt-text="Een pagina met plannen die als privé zijn gemarkeerd.":::
+Als u Maken **selecteert** en meerdere abonnementen hebt, maar niet alle abonnementen worden toegevoegd aan het privéabonnement, is uw standaardabonnement mogelijk niet het abonnement dat in aanmerking komt voor dit privéabonnement. Selecteer in dit geval het juiste abonnement.
 
-Als u meer dan één abonnement hebt, ziet u alle persoonlijke aanbiedingen die beschikbaar zijn voor al uw abonnementen. Wanneer u **maken** selecteert, wordt u doorgestuurd naar de pagina voor het maken van resources om te beginnen met het configureren van uw resource.
-
-Als u **maken** selecteert en meerdere abonnementen hebt, maar niet alle zijn toegevoegd aan het privé-abonnement, is het abonnement mogelijk niet geschikt voor deze privé aanbieding. In dit geval selecteert u het juiste abonnement.
-
-:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="De koppeling die aangeeft dat er meer persoonlijke aanbiedingen beschikbaar zijn.":::
+:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="De koppeling die laat zien dat er meer privé-abonnementen beschikbaar zijn.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 

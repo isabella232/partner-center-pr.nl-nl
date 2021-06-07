@@ -1,59 +1,59 @@
 ---
-title: Restitutie beleid voor Microsoft AppSource en Azure Marketplace
-description: Meer informatie over het restitutie beleid voor producten die worden verkocht op Microsoft AppSource en Azure Marketplace
+title: Restitutiebeleid voor Microsoft AppSource en Azure Marketplace
+description: Meer informatie over het restitutiebeleid voor producten die worden verkocht op Microsoft AppSource en Azure Marketplace
 ms.service: marketplace-customer
 ms.topic: article
-author: anbene
+author: jeweber
 ms.author: jeweber
-ms.date: 11/20/2020
-ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/02/2021
+ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
+ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412672"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "111446852"
 ---
-# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Restitutie beleid voor Microsoft AppSource en Azure Marketplace
+# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Restitutiebeleid voor Microsoft AppSource en Azure Marketplace
 
-Aankopen op Microsoft AppSource of Azure Marketplace komen mogelijk in aanmerking voor een restitutie. In dit artikel worden onze restitutie beleidsregels geïntroduceerd.
+Aankopen op Microsoft AppSource of Azure Marketplace komen mogelijk in aanmerking voor restitutie. In dit artikel wordt ons restitutiebeleid beschreven.
 
 ## <a name="software-as-a-service-saas-offers"></a>SaaS-aanbiedingen (Software as a Service)
 
-Voor maandelijkse abonnementen komt u in aanmerking voor een volledige restitutie als u uw abonnement binnen één dag vanaf aankoop annuleert. Voor jaarlijkse abonnementen komt u in aanmerking voor een volledige restitutie als u uw abonnement binnen 14 dagen na aankoop annuleert. Er zijn geen terugbetalingen beschikbaar voor abonnementen die na de bovenstaande tijds periodes zijn geannuleerd.
+Voor maandelijkse abonnementen komt u in aanmerking voor een volledige restitutie als u uw abonnement binnen één dag na aankoop opzegt. Voor jaarlijkse abonnementen komt u in aanmerking voor een volledige restitutie als u uw abonnement binnen 14 dagen na aankoop annuleert. Restituties zijn niet beschikbaar voor abonnementen die na de bovenstaande perioden zijn geannuleerd.
 
-Als u stoelen uit uw abonnement verwijdert, komt u in aanmerking voor een gedeeltelijke restitutie op basis van het resterende deel van de abonnements periode.
+Restituties worden niet uitgegeven voor variabele kosten. Bijvoorbeeld als een SaaS-aanbieding wordt gefacturen op basis van het aantal e-mailberichten dat vanaf een e-mailplatform is verzonden.
 
 ## <a name="office-add-ins"></a>Office-invoegtoepassingen
 
-Als u een Office-invoeg toepassing koopt, komt u in aanmerking voor een volledige restitutie als u het abonnement binnen een dag van aankoop of verlenging annuleert.  Als u het abonnement na één dag annuleert, komt u in aanmerking voor een gedeeltelijke restitutie op basis van het resterende deel van de aanbieding.  Als u uw abonnement wijzigt, komt u mogelijk in aanmerking voor een gedeeltelijke restitutie op basis van het resterende deel van de abonnements periode.
+Als u een Office-invoegabonnement aanschaft, komt u in aanmerking voor een volledige restitutie als u het abonnement binnen één dag na aankoop of verlenging opzegt. Als u het abonnement na één dag na aankoop annuleert, komt u in aanmerking voor een gedeeltelijke restitutie op basis van het resterende deel van de aanbieding. Als u uw abonnement wijzigt, komt u mogelijk in aanmerking voor een gedeeltelijke restitutie op basis van het resterende gedeelte van de abonnementsperiode.
 
-## <a name="azure-developer-services"></a>Azure-ontwikkelaars Services
+## <a name="azure-developer-services"></a>Azure-services voor ontwikkelaars
 
-Als u de ontwikkelaars Services vermindert, komt u in aanmerking voor een gedeeltelijke restitutie op basis van het resterende deel van de abonnements periode. Er zijn geen restituties beschikbaar wanneer u uw abonnement annuleert.
+Als u de ontwikkelaarsservices vermindert, komt u in aanmerking voor een gedeeltelijke restitutie op basis van het resterende gedeelte van de abonnementsperiode. Restituties zijn niet beschikbaar wanneer u uw abonnement annuleert.
 
 ## <a name="azure-managed-applications"></a>Door Azure beheerde toepassingen
 
-Door Azure beheerde toepassingen zijn niet terugbetaald.
+Er kan geen restitutie worden terugbetaald voor door Azure beheerde toepassingen.
 
-## <a name="azure-reserved-instances"></a>Gereserveerde instanties van Azure
+## <a name="azure-reserved-instances"></a>Gereserveerde Azure-instanties
 
-Restitutie beleid voor door Azure gereserveerde instanties (RI) is beschikbaar op [selfservice-uitwisselingen en terugstortingen voor Azure Reservations](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations).
+Restitutiebeleid voor gereserveerde Azure-instanties (RI) is beschikbaar via [selfservice-inwisselingen en restituties voor Azure-reserveringen.](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)
 
 ## <a name="azure-support-plans"></a>Azure-ondersteuningsplannen
 
-Als u uw ondersteunings abonnement voor Azure overdraagt of wijzigt, komt u mogelijk in aanmerking voor gedeeltelijke restitutie. De gerestitueerde hoeveelheid is gebaseerd op het resterende deel van de abonnements periode.
+Als u uw abonnement overboekt of ondersteuning voor Azure, komt u mogelijk in aanmerking voor gedeeltelijke restitutie. Het restitutiebedrag is gebaseerd op het resterende gedeelte van de abonnementsperiode.
 
 ## <a name="azure-databricks"></a>Azure Databricks
 
-Als u een Azure Databricks Asset verwijdert, komt u in aanmerking voor een gedeeltelijke restitutie op basis van de resterende term eenheden die u hebt opgegeven. Zie [Azure Databricks-documentatie](/azure/databricks)voor meer informatie over Azure Databricks.
+Als u een Azure Databricks asset verwijdert, komt u in aanmerking voor een gedeeltelijke restitutie op basis van de resterende termijneenheden die u hebt opgegeven. Zie de documentatie voor Azure Databricks meer [Azure Databricks informatie.](/azure/databricks)
 
 ## <a name="monetary-commitment"></a>Financiële toezegging
 
-Als u een financiële consumptie toezegging annuleert die u vooraf hebt betaald, komt u in aanmerking voor een gedeeltelijke restitutie op basis van het resterende deel van de toezeggings periode.
+Als u een toezegging voor het financiële verbruik annuleert die u vooraf hebt betaald, komt u in aanmerking voor een gedeeltelijke restitutie op basis van het resterende gedeelte van de toezeggingsperiode.
 
 > [!NOTE]
-> Een monetaire toezeg ging kan niet worden gebruikt voor aankopen op Microsoft AppSource of Azure Marketplace.
+> Een financiële toezegging kan niet worden gebruikt voor aankopen op Microsoft AppSource of Azure Marketplace.
 
-## <a name="microsoft-azure-consumption-commitment-macc"></a>Toezeg ging Microsoft Azure verbruik (MACC)
+## <a name="microsoft-azure-consumption-commitment-macc"></a>Microsoft Azure (MACC)
 
-Het Microsoft Azure-programma voor verbruiks toezeg ging (MACC) heeft geen toegewezen beleid voor restitutie. Producten die zijn gekocht als onderdeel van een MACC-overeenkomst, volgen de beleids regels die in dit artikel worden beschreven.
+Het Microsoft Azure(MACC)-programma heeft geen toegewezen restitutiebeleid. Producten die zijn gekocht als onderdeel van een MACC-overeenkomst, volgen de beleidsregels die in dit artikel worden beschreven.
