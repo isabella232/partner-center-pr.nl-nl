@@ -9,16 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ca4c8323562e6c6f1d762465cad86e7ae113eb19
-ms.sourcegitcommit: beba696954b62ab5396a893d050d0c2c211aeafc
+ms.openlocfilehash: 90c8f413398fcb9f65f7fef402a1cdcd092abbc4
+ms.sourcegitcommit: 212471150efc8fd2c30023bc6a981a7e052e79ef
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "110601423"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "112025952"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen  
 
-**Juiste rollen:** Globale | Beheeragent
+**Juiste rollen:** globale | Beheeragent
 
 Als CSP-partner verwachten uw klanten vaak dat u hun Azure-gebruik en hun systemen voor hen beheert. U moet beheerdersbevoegdheden hebben om dit te doen. Sommige bevoegdheden worden verleend wanneer uw resellerrelatie met de klant tot stand is gebracht. Andere worden aan u verleend door uw klant.
 
@@ -27,7 +27,7 @@ Als CSP-partner verwachten uw klanten vaak dat u hun Azure-gebruik en hun system
 Er zijn twee niveaus van beheerdersbevoegdheden voor Azure in CSP.
 
 - **Beheerdersbevoegdheden op tenantniveau (gedelegeerde beheerdersbevoegdheden)**: CSP-partners krijgen deze bevoegdheden tijdens het tot stand brengen van een CSP-resellerrelatie met klanten. Gedelegeerde beheerdersbevoegdheden geven CSP-partners toegang tot de tenants van hun klanten. Met deze toegang kunnen ze beheerfuncties uitvoeren, zoals gebruikers toevoegen/beheren, wachtwoorden opnieuw instellen en gebruikerslicenties beheren.
-- **Beheerdersbevoegdheden op abonnementsniveau:** CSP-partners krijgen deze bevoegdheden tijdens het maken van Azure CSP voor hun klanten. Deze bevoegdheden geven CSP-partners volledige toegang tot deze abonnementen, zodat ze Azure-resources kunnen inrichten en beheren.
+- **Beheerdersbevoegdheden op abonnementsniveau:** CSP-partners krijgen deze bevoegdheden tijdens het maken Azure CSP abonnementen voor hun klanten. Deze bevoegdheden bieden CSP-partners volledige toegang tot deze abonnementen, zodat ze Azure-resources kunnen inrichten en beheren.
 
 ## <a name="reinstate-csp-a-partners-admin-privileges"></a>De beheerdersbevoegdheden van een partner opnieuw in CSP herstellen
 
@@ -53,7 +53,7 @@ Uw klant kan de CSP-roltoewijzing opnieuw maken als u de van de `object ID` groe
 
 6. Uw klant moet vervolgens de volgende stappen uitvoeren met behulp van PowerShell of Azure CLI. Uw klant moet het volgende hebben:
 
-- De rol van **eigenaar** of **beheerder van gebruikerstoegang** 
+- De rol **van** eigenaar of **beheerder van gebruikerstoegang** 
 - Machtigingen voor het maken van roltoewijzingen op abonnementsniveau
 
    a. Alleen voor PowerShell moet de klant de `Az.Resources` module bijwerken.
@@ -106,6 +106,33 @@ In plaats van eigenaarsmachtigingen te verlenen voor het abonnementsbereik, kunt
    ```azurecli
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
    ```
+
+Als de bovenstaande stappen niet werken of als er fouten optreden bij het proberen, kunt u de volgende catch-all-procedure volgen om de beheerdersrechten voor uw klant te herstellen.
+
+```powershell
+Install-Module -Name Az.Resources -Force -Verbose
+Import-Module -Name Az.Resources -Verbose -MinimumVersion 4.1.1
+Connect-AzAccount -Tenant <customer tenant>
+Set-AzContext -SubscriptionId <customer subscriptions>
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<customer subscription>" -ObjectType "ForeignGroup"
+```
+
+### <a name="troubleshooting"></a>Problemen oplossen
+
+Als de klant stap 6 hierboven niet kan voltooien, moet u de klant de volgende opdracht laten uitvoeren:
+
+```powershell
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<costumer subscription>" -ObjectType "ForeignGroup" -Debug > newRoleAssignment.log
+```
+
+Geef het `newRoleAssignment.log` resulterende bestand aan Microsoft op voor verdere analyse.
+
+Als de procedure 'catch-all' mislukt tijdens `Import-Module` de , probeert u de volgende stappen:
+- Als het importeren mislukt omdat de module in gebruik is, start u de PowerShell-sessie opnieuw door alle vensters te sluiten en opnieuw te openen.
+- Controleer de versie `Az.Resources` van met `Get-Module Az.Resources -ListAvailable` .
+- Als versie 4.1.1 niet in de beschikbare lijst staat, moet u `Update-Module Az.Resources -Force` gebruiken.
+- Als de foutmelding `Az.Accounts` geeft dat een specifieke versie moet zijn, moet u die module ook bijwerken en vervangen door `Az.Resources` `Az.Accounts` . Vervolgens moet u de PowerShell-sessie opnieuw starten.
+
 
 ## <a name="next-steps"></a>Volgende stappen
 
