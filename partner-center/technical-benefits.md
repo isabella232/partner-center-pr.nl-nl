@@ -1,6 +1,6 @@
 ---
-title: MPN-voor delen-technische pre-sales en implementatie (TPD)
-description: Meer informatie over de voor delen van Microsoft Partner Network (MPN) voor technische pre-sales en Deployment Services (TPD)
+title: MPN-voordelen - Technical Pre-Sales and Deployment (TPD)
+description: Meer informatie over Microsoft Partner Network (MPN) voordelen voor Technical Pre-Sales and Deployment Services (TPD)
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.topic: article
@@ -8,70 +8,103 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 02/24/2021
-ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.date: 03/30/2021
+ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768717"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276379"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Technische preverkoop-en implementatie services (TPD) verkennen 
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Technische presales- en implementatieservices (TPD) verkennen 
 
-Meer informatie over de Microsoft Partner Network-voor delen (MPN) die u krijgt voor technische services voor preverkoop en implementatie, waaronder overleg, hulp op afstand, advies uren en meer.
+**Juiste rollen:** MPN-partnerbeheerder
 
-## <a name="develop-your-technical-know-how"></a>Ontwikkel uw technische knowhow
+Meer informatie over de voordelen Microsoft Partner Network (MPN) die u krijgt voor services voor technische presales en implementatie, waaronder overleg, hulp bij presales, adviesuren en meer.
 
-Gebruik technische Presale-en implementatie services (TPD) voor een externe gepersonaliseerde, op een gericht overleg om uw technische mogelijkheden sneller te maken om de verkoop te verbeteren, effectiever te implementeren en app-ontwikkeling te versnellen. [Meer informatie](https://aka.ms/TPD).
+## <a name="develop-your-technical-know-how"></a>Uw technische kennis ontwikkelen
 
-Alle Cloud-of hybride oplossingen worden ondersteund naast on-premises Windows 10, Windows Server en Microsoft SQL Server. 
+Gebruik Technical Presales and Deployment Services (TPD) voor extern gepersonaliseerd een-op-een overleg om uw technische mogelijkheden sneller te bouwen om de verkoop te vergroten, effectiever te implementeren en de ontwikkeling van apps te versnellen. [Meer informatie](https://aka.ms/TPD).
 
-- Partners met Gold-, Silver-en Action Pack-aanbiedingen kunnen partner advies uren voor overleg gebruiken. 
+Alle cloud- of hybride oplossingen worden ondersteund, naast on-premises Windows 10, Windows Server en Microsoft SQL Server. 
 
-- Gold-en Silver-partners ontvangen onbeperkte hulp voor verkoop. 
+- Partners met Gold-, Silver- en Action Pack-aanbiedingen kunnen partneradviesuren gebruiken voor overleg. 
 
-- Netwerk leden kunnen [Action Pack](https://partner.microsoft.com/membership/action-pack) kopen om vijf advies uren te ontvangen.  
+- Gold- en Silver-partners krijgen onbeperkte hulp bij de presales. 
 
-|     Type aanbieding    | Aantal advies uren |   Technische voor verkoop   |
+- Leden van het netwerk [kunnen Action Pack](https://partner.microsoft.com/membership/action-pack) vijf adviesuren ontvangen.  
+
+|     Type aanbieding    | Aantal adviesuren |   Technische presales   |
 |:-----------------:|:------------------------:|:----------------------:|
 |        Goud       |            50            |        Onbeperkt       |
 |       Zilver      |            20            |        Onbeperkt       |
-| Action Pack (kaarten) |             5            | In worden advies uren afgetrokken |
+| Action Pack (MAPS) |             5            | Adviesuren aftrekken |
 
-Meld u aan met een MPN-gekoppeld gebruikers account voor **[het maken van een TPD-aanvraag (Technical Presale and Deployment Services)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (er is geen technisch voor deel van de implementatie vereist).
+Meld u aan met een MPN-gekoppeld gebruikersaccount om een **[TPD-aanvraag (Technical Presales and Deployment Services) te](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** maken (activering van technisch voordeel is niet vereist).
 
-:::image type="content" source="images/technical-benefits.png" lightbox="images/technical-benefits.png" alt-text="Technische voor delen voor verkoop en implementatie" border="false":::
+## <a name="delivery-scenarios"></a>Bezorgingsscenario's
 
-## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Een aanvraag voor technische preverkoop-en implementatie services indienen 
+- Technische **presales** Overleg wordt gebruikt voor het definiëren van een waardepropositie, het bieden van kostenramingen, het beheren van klantaanstootgevendheid, het reageren op berichten van concurrenten, het demonstreren van technische oplossingen, proof-of-concepts of architectuurplanning en -ontwerp, wat leidt tot een Verklaring van werk.
 
-Uw TPD-voor delen (Technical Presale and Deployment Services) worden automatisch geactiveerd en beschikbaar voor alle aan MPN gekoppelde gebruikers. 
+  - *Niet ondersteund:* Planning, prijzen en prijslijsten voor verkooppijplijnen.
 
-Uw technische voor delen bekijken in Partner Center:
 
-1. Meld u aan met uw MPN-account in het [dash board](https://partner.microsoft.com/dashboard)van de partner centrum. 
+- **Implementatieoverningen** worden gebruikt voor richtlijnen voor architectuurplanning en -ontwerp, best practices, implementatie-richtlijnen, productverwijzingen en documentatie.
+
+  - *Niet ondersteund:* Ondersteuning/probleemoplossing voor onderbrekingen, on-site services, langdurige advies, directe naar klantondersteuning of praktijkondersteuning in een productieomgeving. 
+
+
+- **Marketplace-advies wordt** gebruikt voor het publiceren van uw oplossing voor het doorlopend genereren van leads in de commerciële marketplace van Microsoft. Voor ontwikkelaars, advies over serviceconfiguratie, architectuur of ontwerp, migratie van on-premises oplossingen, codebeoordeling en hulp bij het publiceren van toepassingen.
+
+  - *Niet ondersteund:* Code-debugging, ontwikkeling van toepassingen buiten licht bewijs van concepten.
+
+## <a name="in-scope-products-and-services"></a>In-Scope en services
+
+De volgende producten en services vallen binnen het bereik voor services voor technische presales en implementatie:
+- **Microsoft 365:** alle Microsoft Office 365-onderdelen, zoals Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype voor Bedrijven Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection
+  - *Buiten het bereik: Uitsluitend on-premises Office-servers – Exchange en SharePoint*
+- **Business Applications:** Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
+  - *Buiten het bereik: Exclusief on-premises versies van Dynamics 365, GP, SL, AX, NAV*
+- **Microsoft Azure:** alle Microsoft Azure-oplossingen en gerelateerde services, zoals infrastructuur als een service, platform as a service, gegevensplatform, BI Analytics, Cognitive Services, Azure Machine Learning, Azure Stack
+- **Windows Server:** algemene ondersteunde Windows Server (zoals bepaald door de **[levenscyclus van het product)](/lifecycle/policies/fixed)**
+  - System Center omvat verwante producten, zoals SCCM, indien gerelateerd aan cloud- of hybride scenario's
+- **Windows 10:** Windows 10, apparaten, universele apps
+- **Producten in beperkte of openbare preview:** er wordt op basis van de beste inspanningen hulp geboden voor niet-productieomgevingen en zonder garantie voor de beschikbaarheid of reactietijd van informatie
+
+## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Een aanvraag voor technische presales- en implementatieservices indienen 
+
+Uw TPD-voordelen (Technical Presales and Deployment Services) worden automatisch geactiveerd en beschikbaar voor alle mpn-gekoppelde gebruikers. 
+
+Als u uw technische voordelen in de volgende Partner Center:
+
+1. Meld u aan met uw MPN-account bij het Partner Center [dashboard](https://partner.microsoft.com/dashboard). 
 
    > [!NOTE]
-   > Als uw account alleen is gekoppeld aan CSP en niet is gekoppeld aan MPN, wordt er een fout bericht weer gegeven dat u niet bent gemachtigd voor deze actie. U moet een MPN-gekoppeld account hebben.
+   > Als uw account alleen is gekoppeld aan CSP en niet is gekoppeld aan MPN, ziet u het foutbericht 'U bent niet gemachtigd voor deze actie'. U moet een MPN-account hebben.
 
-2. Vouw **voor delen** uit in het navigatie menu links en selecteer **technische voor delen**. De pagina technische voor delen wordt weer gegeven met een lijst met technische ondersteunings voordelen die beschikbaar zijn voor uw gouden, zilver of micro soft Action Pack lidmaatschaps aanbiedingen. 
-
-   > [!NOTE]
-   > Als u geen actieve lidmaatschaps aanbiedingen hebt, ziet u het bericht ' lijkt er nog geen voor delen meer '. Als uw bedrijf actieve lidmaatschaps aanbiedingen heeft, maar u deze niet kunt zien, bent u mogelijk aangemeld met het verkeerde account. Als u uw account wilt controleren, klikt u op het **account** pictogram in de rechter bovenhoek van de pagina en klikt u op **Aanmelden met een ander account** (indien nodig).
-
-3. Selecteer **[technische voor verkoop en implementatie aanvraag verzenden](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**.
-
-4. Gebruik **Zoek producten** en voer het relevante product in. Als u te veel resultaten krijgt, kunt u filteren op basis van het oplossings gebied of door de onderwerpen te doorzoeken om elk niveau van de taxonomie te filteren.
+2. Vouw **Voordelen uit** in het linkernavigatiemenu en selecteer Technische **voordelen.** De pagina Technische voordelen wordt weergegeven met een lijst met technische ondersteuningsvoordelen die beschikbaar zijn voor uw Gold-, Silver- of Microsoft Action Pack-lidmaatschapsaanbiedingen. 
 
    > [!NOTE]
-   > Als u een Cloud moet raadplegen als onderdeel van uw ASfP-of PSfP-ondersteunings plan, neemt u contact op met uw support account manager (SAM).
+   > Als u geen actieve lidmaatschapsaanbiedingen hebt, ziet u het bericht 'Het lijkt erop dat u nog geen voordelen hebt'. Als uw bedrijf actieve lidmaatschapsaanbiedingen heeft, maar u deze niet kunt zien, hebt u zich mogelijk aangemeld met het verkeerde account. Als u uw account wilt controleren, klikt u op het **pictogram Account** rechtsboven op de pagina en klikt u op Aanmelden met een ander **account** (indien nodig).
 
-5. **Vul het formulier in en verzend het.** Zorg ervoor dat u de volledige internationale Kies code opneemt met uw telefoon nummer. Voor landen die meerdere tijd zones best rijken, bijvoorbeeld USA, Rusland, geven we uw tijd zone en de gewenste werk uren aan.
+3. Selecteer **[Technische presales- en implementatieaanvraag indienen.](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**
+
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Voordelen van technische presales en implementatie." :::
+
+4. Gebruik **Producten zoeken** en voer het relevante product in. Als u te veel resultaten krijgt, kunt u filteren op basis van het gebied Oplossing of Door onderwerpen bladeren om elk taxonomieniveau te filteren.
+
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Voordelen van technische presales en implementatie - Producten zoeken.":::
+
+   > [!NOTE]
+   > Als u een Cloud Consult nodig hebt als onderdeel van uw ASfP- of PSfP-ondersteuningsplan, neem dan contact op met uw account manager (SAM).
+
+5. **Vul het formulier in en verzend het.** Zorg ervoor dat u de volledige internationale nummercode bij uw telefoonnummer hebt. Voor landen met meerdere tijdzones, bijvoorbeeld VS, Rusland, geeft u uw tijdzone en de gewenste werkuren aan.
 
    > [!IMPORTANT]
-   > Zorg ervoor dat u het relevante land (of de regio) en de taal selecteert, omdat deze bepalen waar uw aanvraag wordt doorgestuurd.
+   > Zorg ervoor dat u het relevante land (of de relevante regio) en taal selecteert, omdat deze bepalen waar uw aanvraag wordt gerouteerd.
 
-6. Op de bevestigings pagina worden het nummer en de beschrijving van de ondersteunings aanvraag weer gegeven. U ontvangt ook een bevestigings-e-mail van het partner centrum met het aanvraag nummer.
+6. Op de bevestigingspagina ziet u het ondersteuningsaanvraagnummer en de beschrijving. U ontvangt ook een bevestigingsmail van Partner Center met het casenummer.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-[Uw Microsoft Partner Network voor delen en aanbiedingen beheren](manage-your-partner-network-benefits.md)
+[Uw Microsoft Partner Network en aanbiedingen beheren](manage-your-partner-network-benefits.md)

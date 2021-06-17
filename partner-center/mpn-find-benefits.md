@@ -9,48 +9,48 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152389"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276566"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Voordelen van het Microsoft Partner Network zoeken 
 
 **Juiste rollen:** BEHEER VAN MPN-partner | Globale beheerder
 
-In dit artikel wordt aan leden van de Microsoft Partner Network (MPN) beschreven hoe ze hun MPN-voordelen kunnen vinden in het Partner Center dashboard. Deze informatie bevat informatie over het vinden van de specifieke productondersteunings-id's van uw bedrijf, zoals contract-id en toegangs-id, die zijn gekoppeld aan technische voordelen.
+Dit artikel laat leden van de Microsoft Partner Network (MPN) weten hoe ze hun MPN-voordelen kunnen vinden in Partner Center dashboard. Deze informatie bevat informatie over het vinden van de specifieke productondersteunings-id's van uw bedrijf, zoals contract-id en toegangs-id, gekoppeld aan technische voordelen.
 
 >[!NOTE]
-> Als uw Microsoft Partner Network nog steeds in Partner Membership Center (PMC) is, moet u mogelijk contact opnemen met een andere resource, zoals Partner Frontline, om bepaalde voordelen te bekijken of activeren. Zie Technische voordelen buiten de Partner Center voor [meer Partner Center.](partner-membership-center-tech-benefits-activate.md)
+> Als uw Microsoft Partner Network nog steeds in Partner Membership Center (PMC) is, moet u mogelijk contact opnemen met een andere resource, zoals Partner Frontline, om bepaalde voordelen weer te geven of te activeren. Zie Technische voordelen buiten de Partner Center voor [meer Partner Center.](partner-membership-center-tech-benefits-activate.md)
 
 ## <a name="find-your-mpn-benefits-in-partner-center"></a>Uw MPN-voordelen vinden in Partner Center
 
-Als Microsoft Partner Network heeft uw bedrijf toegang tot veel voordelen die u kunnen helpen bij het groeien van uw bedrijf. Ga als volgende te werk om erachter te komen wat deze voordelen zijn:
+Als Microsoft Partner Network heeft uw bedrijf toegang tot veel voordelen die kunnen helpen bij het groeien van uw bedrijf. Ga als volgende te werk om erachter te komen wat deze voordelen zijn:
 
-1. Meld u aan bij Partner Center [dashboard,](https://partner.microsoft.com/dashboard/home)selecteer **MPN** en selecteer vervolgens **Voordelen.**
+1. Meld u aan Partner Center [dashboard,](https://partner.microsoft.com/dashboard/home)selecteer **MPN** en selecteer vervolgens **Voordelen**.
 
 2. Vanuit Voordelen kunt u de voordelen bekijken, activeren, sorteren of downloaden die horen bij een van de categorieën die voor u beschikbaar zijn. Als u dit wilt doen, selecteert u het voordeelgebied waar u meer over wilt weten:
 
    - [Azure & Cloud-producten](mpn-benefits-azure-cloud.md)
    - [Softwareproducten](mpn-benefits-software.md)
    - [Visual Studio abonnementen](mpn-benefits-visual-studio.md)
-   - Technische voordelen: [voordelen van technische ondersteuning (toegangs-id en contract-id)](mpn-benefits-technical-support.md) of Technical [Presales and Deployment Services (TPD)](technical-benefits.md)
+   - Technische voordelen : [voordelen van technische ondersteuning (toegangs-id en contract-id)](mpn-benefits-technical-support.md) of services voor technische [presales en implementatie (TPD)](technical-benefits.md)
    - [Go-to-market](mpn-learn-about-go-to-market-benefits.md)
    - [Marketplace-beloningen](marketplace-rewards.md)
    - [Logo Builder](mpn-logo-builder.md)
 
 3. Door uit te breiden ( + ) een voordeel, vindt u aanvullende informatie om u te helpen bij het activeren van het specifieke voordeel.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Uitgebreide voordelen":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Uitgebreide voordelen.":::
 
    > [!NOTE]
-   > Als u voordelen wilt activeren, moet aan u de rol van globale beheerder of MPN-partnerbeheerder in de Partner Center. Alle andere gebruikers van een bedrijf moeten echter details over voordelen kunnen bekijken in Partner Center, zoals productondersteunings-ID's. Zie Gebruikersrollen en -Partner Center toewijzen in Partner Center voor meer [informatie over Partner Center.](permissions-overview.md)
+   > Als u voordelen wilt activeren, moet aan u de rol van globale beheerder of MPN-partnerbeheerder in de Partner Center. Alle andere gebruikers van een bedrijf moeten echter details over voordelen kunnen bekijken in Partner Center, zoals productondersteunings-ID's. Zie Gebruikersrollen en -Partner Center toewijzen in Partner Center voor meer informatie [over Partner Center.](permissions-overview.md)
 
 ## <a name="specific-benefit-offers"></a>Specifieke voordeelaanbiedingen
 
-Als u wilt weten welke voordelen beschikbaar zijn met Microsoft Action Pack,Silver- en/of Gold-competenties, gaat u naar de volgende bronnen:
+Als u wilt weten welke voordelen beschikbaar zijn met Microsoft Action Pack-, Silver- en/of Gold-competenties, gaat u naar de volgende bronnen:
 
 - [Licentietabel voor Microsoft Action Pack-partners](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 

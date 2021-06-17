@@ -8,45 +8,45 @@ description: Bekijk wat u goed doet en waar u het gebruik van uw Enterprise Mobi
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854618"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277824"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security gebruiksrapport dat beschikbaar is via het Partner Center Insights-dashboard
 
-**Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
+**Juiste rollen:** Globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
 Het Enterprise Mobility + Security bevat gebruiksgegevens voor de Enterprise Mobility + Security die u hebt verkocht of beheert voor uw klanten. U kunt de volgende secties bekijken in het Enterprise Mobility + Security gebruiksrapport.
 
 - Samenvatting
-- Enterprise Mobility + Security per geografisch gebied
+- Enterprise Mobility + Security per geografie
 - Enterprise Mobility + Security gebruik per SKU
 - Prestaties van abonnementen
 - Enterprise Mobility + Security gebruiksdistributie
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het dashboard Inzichten. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
+ > Dit rapport is beschikbaar via het Insights-dashboard. Als u dit rapport wilt bekijken, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersrechten voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
-In de samenvattingssectie ziet u een momentopname van de belangrijkste indicatoren met betrekking tot Enterprise Mobility + Security die u hebt verkocht of beheert voor uw klanten. 
+De samenvattingssectie bevat een momentopnameweergave van de sleutelindicatoren met betrekking tot Enterprise Mobility + Security gebruiksabonnementen die u hebt verkocht of beheert voor uw klanten. 
 
-- Nieuwe abonnementen: het totale aantal abonnementen dat tijdens het geselecteerde tijdsbestek is verkocht of beheerd.
+- Nieuwe abonnementen: Het totale aantal abonnementen dat tijdens het geselecteerde tijdsbestek is verkocht of beheerd.
 
-   De Micro-grafiek toont een trend van de maand tot maand van het nieuwe abonnement voor het geselecteerde datumbereik.
+   De Micro-grafiek geeft een trend voor de maand-over-maand weer van een nieuw abonnement voor uw geselecteerde datumbereik.
 
 - Beschikbare seats: het totale aantal licenties dat tijdens het geselecteerde tijdsbestek is verkocht.
 
-   In de Micro-grafiek wordt een maand-over-maandtrend weergegeven van het aantal beschikbare seats tijdens het geselecteerde datumbereik.
+   De Micro-grafiek geeft een trend voor de maand-over-maand weer van het aantal beschikbare seats tijdens het geselecteerde datumbereik.
 
 - Maandelijks actief gebruik: het aantal licenties dat in de vorige maand is gebruikt.
 
-   De Micro-grafiek toont een maandelijkse trend van licenties die worden gebruikt in de geselecteerde periode.
+   De Micro-grafiek geeft een maandelijkse trend weer van licenties die worden gebruikt in de geselecteerde periode.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Overzicht van EMS-gebruik":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Overzicht van EMS-gebruik.":::
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security per geografie
 
@@ -56,28 +56,28 @@ De **tabel Aantal landen/regio's** bevat het totale aantal landen/regio's waar A
 
 U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie op de kaart. Selecteer de **optie Start** op de kaart om terug te keren naar de oorspronkelijke weergave.
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="EMS-gebruik per geografie":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="EMS-gebruik per geografie.":::
 
 ## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security gebruik per SKU
 
 In Enterprise Mobility + Security gebruik per SKU wordt de maandelijkse uitsplitsing van MAU en PAU per SKU weergegeven.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="EMS-gebruik per SKU":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="EMS-gebruik per SKU.":::
 
 ## <a name="subscriptions-performance"></a>Prestaties van abonnementen
 
 De prestaties van abonnementen geven een uitsplitsing van MAU en PAU per SKU per klantabonnement weer. Gegevens voor de top 100 van klanten op gefactureerde omzet worden weergegeven in de tabel en u kunt zoeken naar een klant of de onbewerkte gegevens downloaden om details voor alle klanten weer te geven.
 
-:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Prestaties van EMS-abonnementen":::
+:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Prestaties van EMS-abonnementen.":::
 
 ## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security gebruiksdistributie
 
 In Enterprise Mobility + Security gebruiksdistributie wordt de uitsplitsing van PAU en Abonnementen op SKU's weergegeven.
 
-:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="EMS-gebruiksdistributie":::
+:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="EMS-gebruiksdistributie.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - Zie Insights voor [Partner Center rapporten.](partner-center-insights.md)
 
-- U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het dashboard Inzichten. [Meer informatie](pci-download-reports.md) 
+- U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het Dashboard Inzichten. [Meer informatie](pci-download-reports.md) 

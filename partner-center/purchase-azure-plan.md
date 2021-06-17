@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 24eba2969552b0403de9828e86d4fc73abfec585
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854958"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276260"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Het Azure-abonnement kopen voor klanten & nieuwste Azure-services te gebruiken tegen tarieven voor betalen per gebruik
 
@@ -33,7 +33,7 @@ De manier waarop u het Azure-abonnement aanschaft, is vergelijkbaar met het kope
 1. Selecteer **Commercieel segment** en typ **Microsoft Azure** 
 2. Selecteer onder Azure-plan de **optie Toevoegen aan winkelwagen**
 
-:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Kopen":::
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Aankoop.":::
 
 De partner moet bevestigen dat de klant de voorwaarden heeft Microsoft-klantovereenkomst geaccepteerd. Voor meer informatie over hoe de partner dit kan doen, leest u De [klantacceptatie](confirm-customer-agreement.md)van de Microsoft-klantovereenkomst. Andere resources zijn beschikbaar in de [resourcegalerie](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
@@ -45,22 +45,22 @@ De partner moet bevestigen dat de klant de voorwaarden heeft Microsoft-klantover
 
 ### <a name="to-confirm"></a>Om te bevestigen 
 
-1. Selecteer op de pagina **Account van** de klant de optie **Bijwerken** naast **Microsoft-klantovereenkomst**  
+1. Selecteer op de pagina **Account van** de klant de **optie Bijwerken** naast **Microsoft-klantovereenkomst**  
 
-2. Vul de informatie in over de persoon in het bedrijf van de klant die de MCuA heeft geaccepteerd.
+2. Vul de informatie in over de persoon in het bedrijf van de klant die de MCUA heeft geaccepteerd.
 
 3. Selecteer **Opslaan en doorgaan.**  
 
-## <a name="review-and-buy"></a>Beoordelen en kopen
+## <a name="review-and-buy"></a>Controleren en kopen
 
-U keert terug naar **de pagina Een product** toevoegen waar u kunt zien dat het Azure-plan is toegevoegd. Selecteer **Controleren** om uw aankoop te controleren en selecteer vervolgens **Kopen.** 
+U gaat terug naar **de pagina Een product** toevoegen waar u kunt zien dat het Azure-plan is toegevoegd. Selecteer **Controleren** om uw aankoop te controleren en selecteer vervolgens **Kopen.** 
 
 >[!Note]
->Nadat u het Azure-abonnement voor een klant hebt gekocht, kunt u geen Microsoft Azure (0145p) meer aanschaffen voor die klant. U moet toekomstige abonnementen maken via het Azure-plan.
+>Nadat u het Azure-plan voor een klant hebt gekocht, kunt u geen Microsoft Azure (0145p) meer aanschaffen voor die klant. U moet toekomstige abonnementen maken via het Azure-plan.
 
-## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure-reserveringen aanschaffen onder het Azure-plan 
+## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure-reserveringen kopen onder het Azure-abonnement 
   
-U kunt ook Microsoft Azure azure-abonnement namens uw klanten in Partner Center. (Als u dat liever hebt, kunt u uw klanten ook toestemming geven om hun eigen [Azure-reserveringen](give-customers-permission.md) te kopen bij een eerder abonnement dat u voor hen hebt aangeschaft.)
+U kunt ook Microsoft Azure onder Azure-plan namens uw klanten in Partner Center. (Als u dat liever hebt, kunt u uw klanten ook toestemming geven om hun eigen [Azure-reserveringen](give-customers-permission.md) te kopen bij een eerder abonnement dat u voor hen hebt aangeschaft.)
 
 1. Selecteer in Partner Center menu op uw [dashboard](https://partner.microsoft.com/dashboard/)de optie **Klanten.** Zoek de klant die Azure-reserveringen wil aanschaffen en selecteer vervolgens de pijl-omlaag om de rij van de klant uit te vouwen.
 
@@ -70,15 +70,15 @@ U kunt ook Microsoft Azure azure-abonnement namens uw klanten in Partner Center.
    - Kies **Reserveringen in** de lijst **Producttype.**
    - Kies in de lijst **Reserveringstype** het type reservering dat de klant wil.
 
-Azure-reserveringen moeten worden gekoppeld aan een actief Azure-plan. Kies in de lijst Klantabonnement het Azure-abonnement waar u Azure-reserveringen aan wilt toevoegen. 
+Azure-reserveringen moeten zijn gekoppeld aan een actief Azure-plan. Kies in de lijst Klantabonnement het Azure-abonnement waar u Azure-reserveringen aan wilt toevoegen. 
 
 >[!Important] 
->Als de klant nog geen actief Azure-plan heeft, selecteert u Azure om er nu een toe te voegen. Lees Azure-reserveringen [kopen voor meer instructies.](azure-reservations-buying.md#purchase-azure-reservations)
+>Als de klant nog geen actief Azure-abonnement heeft, selecteert u Azure om er nu een toe te voegen. Lees Azure-reserveringen [kopen voor meer instructies.](azure-reservations-buying.md#purchase-azure-reservations)
 
 >[!Note]
 >Het bereik van een reservering kan alleen worden ingesteld **op Gedeeld**, momenteel in Partner Center. Als u één abonnementsbereik wilt selecteren of wilt bijwerken van gedeeld abonnementsbereik, gaat u naar **Microsoft Azure Management portal** met behulp van de volgende instructies. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Instelling voor reserveringen voor gedeeld bereik":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Instelling voor reserveringen voor gedeeld bereik.":::
 
 De reservering van de klant beheren in de Azure Portal: 
 
@@ -90,7 +90,7 @@ De reservering van de klant beheren in de Azure Portal:
 
 Vouw op **de pagina Abonnementen** in de sectie Op gebruik gebaseerde azure-abonnement uit **om** gekoppelde Azure-abonnementen onder het Azure-plan te bekijken.
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="Lijst met Azure-abonnementen weergeven"::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Bekijk de lijst met Azure-abonnementen."::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Abonnementen toevoegen en resources configureren

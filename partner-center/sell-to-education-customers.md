@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 9d0cff4883e084ccc0acb37d8c3119d91e3f5530
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855400"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276447"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Aanbiedingen verkopen aan klanten uit het onderwijs en een klant in het onderwijs maken in Partner Center
 
@@ -39,36 +39,36 @@ In dit artikel wordt uitgelegd hoe u een education-klant maakt in Partner Center
 
 3. Wanneer u klaar bent, selecteert u **Controleren.**
 
-   :::image type="content" source="images/eduaccountinfo.png" alt-text="Education-klantaccount":::
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Education-klantaccount.":::
 
-4. Nadat u **Review hebt bevestigd,** ontvangt u de **status InReview** als de verzonden informatie geldig is. 
+4. Nadat u **Controleren hebt bevestigd,** ontvangt u de **status InReview** als de verzonden informatie geldig is. 
 
-    :::image type="content" source="images/edu/create-review.png" alt-text="Education-klantaccount in beoordeling"lightbox="images/edu/create-review-expanded.png":::
+    :::image type="content" source="images/edu/create-review.png" alt-text="Het account van de education-klant wordt beoordeeld."lightbox="images/edu/create-review-expanded.png":::
 
 ### <a name="confirm-your-education-customers-verification-status"></a>De verificatiestatus van uw education-klant bevestigen
 
-Zie Speciale kwalificatiestatus **op de pagina Account** van de **klant.**
+Zie speciale kwalificatiestatus op **de pagina Account** van de **klant.**
 Statusvoorbeelden:
 
 - Als de klant is geslaagd voor verificatie: Education
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Onderwijsverificatie is geslaagd":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="De onderwijsverificatie is geslaagd.":::
 
 - Als de klant niet is geverifieerd: Geen education-klant
 
-   :::image type="content" source="images/edu/fail-reason.png" alt-text="Onderwijsverificatie is mislukt" lightbox="images/edu/fail-reason-expanded.png":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="Onderwijsverificatie is mislukt." lightbox="images/edu/fail-reason-expanded.png":::
 
 - Als de klant niet is gelabeld als education-klant: Geen
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="education-klant is niet als zodanig gelabeld" lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="education-klant wordt niet als zodanig gelabeld." lightbox="images/edu/account-one-expanded.png":::
 
 - Als de klant wordt beoordeeld als een Education-klant: In beoordeling
 
-    :::image type="content" source="images/edu/in-review.png" alt-text="education-klant wordt beoordeeld" lightbox="images/edu/in-review-expanded.png":::
+    :::image type="content" source="images/edu/in-review.png" alt-text="education-klant wordt beoordeeld." lightbox="images/edu/in-review-expanded.png":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Corrigeert de gegevens van het klantaccount en doet u opnieuw voor verificatie
+## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Corrigeert de gegevens van het klantaccount en moet deze opnieuw ter verificatie inzenden
 
-Als uw klant de eerste verificatie mislukt, kunt u nu gegevens corrigeren en deze opnieuw inzenden.
+Als de eerste verificatie door uw klant mislukt, kunt u de gegevens corrigeren en deze opnieuw inzenden.
 
 ### <a name="correct-the-customer-account-information"></a>Accountgegevens van klant corrigeren
 

@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81d93e2e8b2ed47f785ae33be14dd03c75c8a1d7
-ms.sourcegitcommit: 02a839b61265c3162e041c8894575d3b5345f020
+ms.openlocfilehash: eb81cf9caaaf9d5c64168b39e52ad010c50630cd
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/01/2021
-ms.locfileid: "110724493"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276022"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Gebruik indicatoren voor partnerbijdrage om de competentie Cloud Business Applications te verkrijgen
 
@@ -43,34 +43,34 @@ Partner Contribution Indicators bieden een holistische meting van de impact van 
 
 Met PCI ontvangen partners tegoed voor belangrijke metingen van succes van klanten, zoals geslaagde implementaties en toenemend gebruik. Ze worden beloond om te blijven investeren in en uitschalen van hun technische mogelijkheden.
 
-Wanneer een partner bijvoorbeeld bepaalde niveaus van impact in belangrijke indicatoren bereikt, kan de partner de Silver- of Gold Cloud-Business Applications verkrijgen (of behouden).
+Wanneer een partner bijvoorbeeld bepaalde niveaus van impact in key indicators bereikt, kan de partner de Silver- of Gold Cloud Business Applications verkrijgen (of behouden).
 
 > [!NOTE]
-> Zie Competenties van Microsoft-partners voor meer informatie over de voordelen van het bereiken [van competenties.](https://partner.microsoft.com/membership/competencies)
+> Zie Competenties van Microsoft-partners voor meer informatie over de voordelen van het behalen [van competenties.](https://partner.microsoft.com/membership/competencies)
 
-## <a name="pci-scoring-based-on-seven-key-indicators"></a>PCI-scores op basis van zeven sleutelindicatoren
+## <a name="pci-scoring-based-on-seven-key-indicators"></a>PCI-score op basis van zeven sleutelindicatoren
 
 PCI biedt een geavanceerde weergave van de technische mogelijkheden van een partner, de mogelijkheid om succes van klanten en hun verkoopprestaties te stimuleren. Om partners te helpen de Silver- of Gold Cloud Business Applications verkrijgen, meet PCI de prestaties van het vorige jaar van uw bedrijf aan de hand van zeven belangrijke indicatoren:
 
 *Prestatie-indicatoren:*
 
-1. **Netto nieuwe omzet:** Netto nieuwe omzet in alle verkoopkanalen voor Microsoft Dynamics 365-producten. (Zie Definities voor de netto nieuwe omzet voor meer informatie over deze [metrische](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)gegevens.)
+1. **Netto nieuwe omzet:** Netto nieuwe omzet in alle verkoopkanalen voor Microsoft Dynamics 365-producten. (Zie Definities voor netto [](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)nieuwe omzet voor meer informatie over deze metrische gegevens.)
 
-2. **Nettoklant voegt** toe: Nettoklanten die zijn verkregen voor Dynamics 365 in alle verkoopkanalen. (Zie Definities voor net customer adds voor meer informatie over deze metrische [gegevens.](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)
+2. **Netto-klant voegt** toe: Nettoklanten die zijn overgenomen voor Dynamics 365 in alle verkoopkanalen. (Zie Definities voor netklant adds voor meer informatie over deze [metrische](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)gegevens.)
 
 *Mogelijkheidsindicatoren:*
 
 3. **Functionele consultants:** aantal personen met een momenteel actieve Functioneel consultant Associate-certificering voor Dynamics 365. (Zie Definities voor functionele consultants voor meer informatie over deze [metrische gegevens.)](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)
 
-4. **Functionele consultantgroei:** groei in het aantal Functioneel consultant-medewerkers. Er zijn enkele opties voor het verkrijgen van punten voor deze indicator. Eén optie vereist dat de momentopname van de basislijn voor de metrische gegevens over de groei van functionele consultant in PCI wordt gemaakt op 1 oktober 2020. (Zie Definities voor functionele consultantgroei voor meer informatie over alle opties voor het verkrijgen van punten voor deze [metrische gegevens.)](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
+4. **Functionele consultantgroei:** groei in het aantal Functioneel consultant Associates. Er zijn enkele opties voor het verkrijgen van punten voor deze indicator. Eén optie vereist dat de momentopname van de basislijn voor de metrische gegevens voor functionele consultantgroei in PCI wordt gemaakt op 1 oktober 2020. (Zie Definities voor functionele consultant groei voor meer informatie over alle opties voor het verkrijgen van punten voor deze metrische [gegevens.)](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
 
-5. **Ontwikkelaars:** aantal personen met een momenteel actieve certificering voor Ontwikkelaars koppelen voor Dynamics 365. (Zie Definities voor ontwikkelaars voor meer informatie over [deze metrische gegevens.)](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
+5. **Ontwikkelaars:** aantal personen met een momenteel actieve Developer Associate-certificering voor Dynamics 365. (Zie Definities voor ontwikkelaars voor meer informatie over [deze metrische gegevens.)](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
 
 *Indicatoren voor klantsucces:*
 
-6. **Nieuwe grote implementaties:** het aantal productieten tenants dat de drempelwaarde voor hoog gebruik over de afgelopen 12 maanden overschrijdt. (Zie Definities voor nieuwe grote implementaties voor meer informatie over [deze metrische gegevens.)](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)
+6. **Nieuwe grote implementaties:** het aantal productieten tenants dat de drempelwaarde voor hoog gebruik over de afgelopen 12 maanden heeft overschreden. (Zie Definities voor nieuwe grote implementaties voor meer informatie over [deze metrische gegevens.)](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)
 
-7. **Maandelijkse actieve gebruikersgroei:** groei van maandelijks actieve gebruikers voor al uw klanten in de afgelopen 12 maanden. (Zie Definities voor maandelijks actieve gebruikersgroei voor meer informatie over [deze metrische gegevens.)](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
+7. **Maandelijks actieve gebruikersgroei:** groei van maandelijks actieve gebruikers voor al uw klanten in de afgelopen 12 maanden. (Zie Definities voor maandelijks actieve gebruikersgroei voor meer informatie over [deze metrische gegevens.)](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Hoe PCI-score van invloed is op geschiktheid van competentie
 Punten worden toegekend voor elke bereikt indicator, wat resulteert in een PCI-score met één getal. Er zijn maximaal 100 punten mogelijk. 
@@ -84,7 +84,7 @@ Uw PCI-score bepaalt de geschiktheid van de competentie als volgt:
 |80-100 punten  | voldoen aan vereisten voor een gold-competentie
 
 De volgende afbeelding biedt een snelle naslag voor visuele elementen.
-:::image type="content" source="images/pcinew1.png" alt-text="Toont PCI-scores om Silver- of Gold-competentie te bereiken." border="false":::
+:::image type="content" source="images/pcinew1.png" alt-text="Toont PCI-scores om silver- of Gold-competentie te behalen." border="false":::
 
 ### <a name="maximum-pci-competency-scores-you-can-achieve-for-each-indicator"></a>Maximale PCI-competentiescores die u voor elke indicator kunt behalen
 
@@ -93,28 +93,28 @@ Elke indicator geeft een score die wordt toegevoegd aan het totaal. Hier zijn de
 |Voor deze indicator | Uw maximale score voor deze competentie is  |
 |:------------|:--------------:|
 |Prestaties - Netto nieuwe omzet  | 10 punten  |
-|Prestaties - netklant voegt toe  | 10 punten  |
+|Prestaties : netklant voegt toe  | 10 punten  |
 |Mogelijkheid - Functionele consultants  | 15 punten  |
-|Mogelijkheid - Functionele consultantgroei  | 15 punten  |
+|Mogelijkheid - Groei functionele consultant  | 15 punten  |
 |Mogelijkheid - Ontwikkelaars  | 5 punten |
-|Klantsucces- Nieuwe grote implementaties  | 20 punten  |
-|Klantsucces: maandelijks actieve gebruikersgroei  | 25 punten |
+|Klantsucces - Nieuwe grote implementaties  | 20 punten  |
+|Klantsucces : maandelijks actieve gebruikersgroei  | 25 punten |
 
-De volgende afbeelding biedt een snelle referentie voor visuele elementen.
+De volgende afbeelding biedt een snelle naslag voor visuele elementen.
 :::image type="content" source="images/pci/perfnew.png" alt-text="Toont een grafiek met maximale scores die mogelijk zijn voor elk van de zeven Partner Contribution Indicators (PCI)." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Drempelwaarden voor elke PCI-metrische gegevens voor deze competentie
 
-Elke PCI-metriek heeft door Microsoft ingesteld drempelwaarden die het maximum aantal punten van uw bedrijf kunnen verdienen. Deze drempelwaarden verschillen voor de paden Customer Engagement en Finance and Operations die worden gebruikt om de cloud-Business Applications bereiken. De drempelwaarden verschillen ook voor partners die actief zijn in ontwikkelde markten versus partners die uitsluitend in ontwikkelings markten werken. De **categorisatie** **van de** markt Ontwikkeld of Ontwikkelen van een land is gebaseerd op de Microsoft Partner Network [definities](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
+Elke PCI-metriek heeft door Microsoft ingesteld drempelwaarden die het maximum aantal punten van uw bedrijf kunnen verdienen. Deze drempelwaarden verschillen voor de trajecten Customer Engagement en Finance and Operations die worden gebruikt om de competentie Business Applications cloudomgeving te bereiken. De drempelwaarden verschillen ook voor partners die actief zijn in ontwikkelde markten versus partners die uitsluitend in ontwikkelings markten werken. De  **marktcategorisatie** Ontwikkeld of Ontwikkelen van een land is gebaseerd op de Microsoft Partner Network [definities](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
-Houd er rekening mee dat 4 metrische gegevens worden gemeten op basis van de locatie waar de partner zaken doet en niet op de locatie waar de MPN-locatie is geregistreerd. Dit betekent dat een partner die is geregistreerd in een ontwikkelingsmarkt, die klanten van een ontwikkelde markt heeft, moet voldoen aan de PCI-score voor ontwikkelde landen.
+Houd er rekening mee dat 4 metrische gegevens worden gemeten op basis van de locatie waar de partner zaken doet en niet op de locatie waar de MPN-locatie is geregistreerd. Dit betekent dat een partner die is geregistreerd op een markt voor ontwikkeling en die klanten van een ontwikkelde markt heeft, moet voldoen aan de PCI-score voor ontwikkelde landen.
 
 In de onderstaande tabel ziet u welke locatie van toepassing is op metrische gegevens.
 
 | Naam van metrische gegevens | Locatie |
 |:-------|:--------|
-| Netto nieuwe omzet | Locatie van de klant |
-| Netto-klant toevoegen | Locatie van de klant |
+| Netto nieuwe omzet | Klantlocatie |
+| Netto-klant toevoegen | Klantlocatie |
 | Functioneel consultant | Partnerlocatie |
 | Ontwikkelaar | Partnerlocatie |
 | Functionele consultantgroei | Partnerlocatie |
@@ -123,18 +123,18 @@ In de onderstaande tabel ziet u welke locatie van toepassing is op metrische geg
 
 Punten in elk metrisch gegevens worden gebruikt om een afzonderlijke PCI-score te krijgen voor Customer Engagement en Finance and Operations. Deze score wordt maandelijks bijgewerkt.
 
-Partners kunnen het maximum aantal punten voor een bepaald metrisch gegeven verdienen als ze voldoen aan of hoger zijn dan de hieronder aangegeven drempelwaarden. Gedeeltelijke punten kunnen worden verdiend voor alle metrische gegevens, met uitzondering van functionele consultant groei.
+Partners kunnen het maximum aantal punten voor een bepaald metrisch gegeven verdienen als ze voldoen aan of de hieronder aangegeven drempelwaarden overschrijden. Gedeeltelijke punten kunnen worden verdiend voor alle metrische gegevens, met uitzondering van functionele consultantgroei.
 
-Een ontwikkelde marktpartner met $ 150.000 aan netto nieuwe omzet verdient bijvoorbeeld de helft ($ 150.000/$ 300.000) van de maximum 10 punten.
+Een ontwikkelde marktpartner met $ 150.000 in Net New Revenue verdient bijvoorbeeld de helft ($ 150.000/$ 300.000) van de maximaal 10 punten.
 
 Zie de volgende tabellen voor meer informatie:
 - [Tabel 1. Drempelwaarden voor Customer Engagement](partner-contribution-indicators.md#table-1-customer-engagement-thresholds-for-this-competency)
-- [Tabel 2. Drempelwaarden voor Finance and Operations](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds-for-this-competency)
+- [Tabel 2. Drempelwaarden voor Financiën en Bewerkingen](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds-for-this-competency)
 
-### <a name="table-1-customer-engagement-thresholds-for-this-competency"></a>Drempelwaarden voor Customer Engagement in tabel 1 voor deze competentie
+### <a name="table-1-customer-engagement-thresholds-for-this-competency"></a>Tabel 1 Customer Engagement-drempelwaarden voor deze competentie
 
 
-| PCI-metriek | Prestatie-indicator: Netto nieuwe omzet | Prestatie-indicator: Nieuwe klant voegt toe | Mogelijkheidsindicator: Functionele consultants | Mogelijkheidsindicator: Functionele consultantgroei | Mogelijkheidsindicator: Ontwikkelaars | Indicator voor klantsucces: Nieuwe grote implementaties | Indicator voor klantsucces: Maandelijks actieve gebruikersgroei |
+| PCI-metrische gegevens | Prestatie-indicator: Netto nieuwe omzet | Prestatie-indicator: Nieuwe klant voegt toe | Mogelijkheidsindicator: Functionele consultants | Mogelijkheidsindicator: Functionele consultantgroei | Mogelijkheidsindicator: Ontwikkelaars | Indicator voor klantsucces: Nieuwe grote implementaties | Indicator voor klantsucces: Maandelijks actieve gebruikersgroei |
 |---|---|---|---|---|---|---|---|
 | **Maximum aantal punten** | 10 punten | 10 punten | 15 punten | 15 punten | 5 punten | 20 punten | 25 punten |
 | **Ontwikkeld** | $ 300.000 | 10 | 15 | *\* Opmerking bekijken* | 5 | 5 | 25% |
@@ -148,17 +148,17 @@ Zie de volgende tabellen voor meer informatie:
 | PCI-metrische gegevens | Prestatie-indicator: Netto nieuwe omzet | Prestatie-indicator: Nieuwe klant voegt toe | Mogelijkheidsindicator: Functionele consultants | Mogelijkheidsindicator: Functionele consultantgroei | Mogelijkheidsindicator: Ontwikkelaars | Indicator voor klantsucces: Nieuwe grote implementaties | Indicator voor klantsucces: Maandelijks actieve gebruikersgroei |
 |---|---|---|---|---|---|---|---|
 | **Maximum aantal punten** | 10 punten | 10 punten | 15 punten | 15 punten | 5 punten | 20 punten | 25 punten |
-| **Ontwikkeld** | $ 300.000 | 3 | 15 | *\* Zie opmerking* | 5  | 3 | 25% |
-| **Ontwikkelen** | $ 150.000 | 1 | 5 |*\* Zie opmerking* | 2 | 1 | 25% |
+| **Ontwikkeld** | $ 300.000 | 3 | 15 | *\* Opmerking bekijken* | 5  | 3 | 25% |
+| **Ontwikkelen** | $ 150.000 | 1 | 5 |*\* Opmerking bekijken* | 2 | 1 | 25% |
 
 *\*Opmerking: Groeidoelen verschillen op basis van het aantal basisconsultants en de specifieke optie die een partner gebruikt om punten te verkrijgen. Zie Definities voor functionele consultantgroei voor meer informatie over opties voor het verkrijgen van punten of de specifieke groeidoelen [van elke optie.](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)*
 
 ## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Vereisten voor het ontvangen van PCI-tegoed voor een klant
 
-Met bepaalde partnerbijdrage-indicatoren kunt u alleen tegoed voor een bepaalde klant ontvangen als u een specifieke partner-naar-klant-associatie met deze klant hebt. De indicatoren, of PCI-metrische gegevens, die worden beïnvloed door deze vereisten zijn:
+Met Certain Partner Contribution Indicators kunt u alleen tegoed voor een bepaalde klant ontvangen als u een specifieke partner-naar-klant-associatie met deze klant hebt. De indicatoren, of PCI-metrische gegevens, die worden beïnvloed door deze vereisten zijn:
 
 - Netto nieuwe omzet
-- Nettoklant voegt toe
+- Nettoklant toegevoegd
 - Nieuwe implementaties
 - Maandelijkse actieve gebruikersgroei
 
@@ -172,7 +172,7 @@ Een partner wordt de CPOR als deze een klant heeft ingesteld op abonnementsnivea
 Een partner wordt de DPOR als deze een klant heeft ingesteld op abonnementsniveau binnen het product.
 
 > [!NOTE]
-> Wanneer zowel CPOR als DPOR bestaan voor een bepaald klantabonnement, ontvangt de CPOR tegoed voor de relevante PCI-metrische gegevens die aan dat abonnement zijn gekoppeld. Als de associatie via OSA (omzetclaim) is, ontvangt de CPOR het tegoed voor Netto nieuwe omzet en voegt de netklant toe. Als de associatie via OSU (gebruiksclaim) is, ontvangt de CPOR het tegoed voor Nieuwe implementaties en Maandelijkse actieve gebruikersgroei. Claims vóór verkoop komen niet in aanmerking voor PCI.
+> Wanneer zowel CPOR als DPOR bestaan voor een bepaald klantabonnement, ontvangt de CPOR tegoed voor de relevante PCI-metrische gegevens die zijn gekoppeld aan dat abonnement. Als de associatie via OSA (omzetclaim) is, ontvangt de CPOR het tegoed voor Netto nieuwe omzet en voegt de netklant toe. Als de associatie via OSU (gebruiksclaim) is, ontvangt de CPOR het tegoed voor Nieuwe implementaties en Maandelijks actieve gebruikersgroei. Claims vóór verkoop komen niet in aanmerking voor PCI.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Gedetailleerde definities van PCI-metrische gegevens voor deze competentie
 
@@ -206,21 +206,21 @@ Netto nieuwe omzet is een [prestatie-indicator](partner-contribution-indicators.
 
 Net customer adds is een [prestatie-indicator.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) De punten van deze indicator worden als volgt berekend voor Business Applications Cloud-competentie:
 
-- Netto-optelsom van klanten wordt opgeteld over een periode van 12 maanden met een maximale omzet van 10 punten. 
+- Netto-klant-optelsom wordt opgeteld over een periode van 12 maanden met een maximale omzet van 10 punten. 
 
 - Netklanten worden toegevoegd in alle verkoopkanalen. 
 
-- Punten voor netto-klant toegevoegd worden maandelijks berekend als klanten die zijn toegevoegd min klanten verloren en worden geaggregeerd over 12 maanden. 
+- Punten voor netto-klant toegevoegd worden maandelijks berekend als klanten toegevoegd min klanten verloren en worden samengevoegd gedurende 12 maanden. 
 
-- Een **klant-invoeging** wordt gedefinieerd onder de volgende voorwaarden: Wanneer een klant in een eerdere maand geen betaalde seats heeft voor al zijn abonnementen, maar in de huidige maand ten minste één betaalde seat heeft.
+- Een **klant toevoegen** wordt gedefinieerd onder de volgende voorwaarden: Wanneer een klant in een vorige maand geen betaalde seats heeft voor al zijn abonnementen, maar in de huidige maand ten minste één betaalde seat heeft.
 
-- Een **verloren klant** wordt gedefinieerd onder de volgende voorwaarden: Wanneer een klant in een vorige maand ten minste één betaalde seat heeft in al zijn abonnementen en in de huidige maand geen betaalde plaatsen heeft. 
+- Een **verloren klant** wordt gedefinieerd onder de volgende voorwaarden: Wanneer een klant in een vorige maand ten minste één betaalde seat heeft voor al zijn abonnementen en in de huidige maand geen betaalde seats heeft. 
 
 - Maximum- en gedeeltelijke punten kunnen worden verdiend voor netto-klant toegevoegd. Hieronder ziet u de vereisten voor het verdienen van maximumpunten voor een bepaalde competentie:
 
-  | Voor dit pad | Netto-klant voegt toe om maximaal 10 punten te verdienen |
+  | Voor dit pad | Net-klant voegt toe om maximaal 10 punten te verdienen |
   |---------------------|----------------------------|
-  | Customer Engagement | - 10 netto-klant toegevoegd (voor partners in *ontwikkelde* markten);</br>- 5 netto-klant toegevoegd (voor partners in *ontwikkelingsmarkt)*  |
+  | Customer Engagement | - 10 netto-klant toegevoegd (voor partners in *ontwikkelde* markten);</br>- 5 netto-klant toegevoegd (voor partners in ontwikkeling *markten)*  |
   | Finance and Operations | - 3 netto-klant toegevoegd (voor partners in *ontwikkelde* markten);</br>- 1 nieuwe klant toevoegen (voor partners *in* ontwikkelingsmarkt) |
 
   > [!NOTE]
@@ -228,13 +228,13 @@ Net customer adds is een [prestatie-indicator.](partner-contribution-indicators.
 
 - Verkoopkanalen zijn Enterprise Agreement (EA), Cloud Solution Provider (CSP) en Web Direct.
 
-- Voor meerdere partners/dezelfde klant **of** klant die rechtstreeks met Microsoft  werkt: Er zijn verschillende berekeningen van toegevoegde klanten en klant verloren in gevallen waarin meerdere partners zijn gekoppeld aan dezelfde klant via verschillende abonnementen of in gevallen waarin de klant mogelijk al rechtstreeks met Microsoft werkt. Deze berekeningen worden hieronder weergegeven.
+- Voor meerdere partners/dezelfde klant **of** klant die rechtstreeks met Microsoft  werkt: Er zijn verschillende berekeningen van toegevoegde klanten en klant verloren in gevallen waarbij meerdere partners aan dezelfde klant zijn gekoppeld via verschillende abonnementen of in gevallen waarin de klant mogelijk al rechtstreeks met Microsoft werkt. Deze berekeningen worden hieronder weergegeven.
 
   **Voor meerdere partners, dezelfde klant, verschillende abonnementen:**
 
 - De klant wordt voor de eerste keer toegevoegd:
-    - Alle partners die aan de klant zijn gekoppeld, krijgen tegoed voor een nieuwe klant die wordt toegevoegd in de maand dat de klant wordt toegevoegd.
-    - Volgende partners die via oude of nieuwe abonnementen aan dezelfde klant zijn verbonden, krijgen geen nieuw tegoed voor die klant.
+    - Alle partners die aan de klant zijn gekoppeld, krijgen tegoed voor een nieuwe klant die is toegevoegd in de maand dat de klant wordt toegevoegd.
+    - Volgende partners die zich via oude of nieuwe abonnementen aan dezelfde klant koppelen, krijgen geen nieuw klanttegoed voor die klant.
 - Klant is verloren: Alle gekoppelde partners die in de afgelopen 12 maanden tegoed hebben ontvangen voor de klant-invoeging, verliezen dat tegoed in de maand dat de klant verloren is gegaan.
 - Klant, voorheen verloren, wordt weer toegevoegd: Alle partners die aan de klant zijn gekoppeld, krijgen tegoed voor een nieuwe klant-invoeging in de maand dat de klant opnieuw wordt toegevoegd.
   
@@ -263,10 +263,10 @@ Functionele consultants zijn een [mogelijkheidsindicator.](partner-contribution-
 > [!NOTE]
 > Examens die zijn gemarkeerd met een sterretje ( ) worden in de komende maanden ingetrokken \* of vervangen. Zie hieronder voor specifieke details:
 >
-> - Examens die zijn gemarkeerd met één sterretje ( ) zijn op \* 31 december 2020 ingetrokken. Examens die op 31 december 2020 worden ingetrokken, blijven in aanmerking voor competentieverlenging en verlenging tot en met 31 december 2021, als ze worden genomen voordat ze worden teruggetrokken.
+> - Examens die zijn gemarkeerd met één sterretje ( ) zijn op \* 31 december 2020 ingetrokken. Examens die op 31 december 2020 zijn ingetrokken, blijven in aanmerking voor competentieverlenging en verlenging tot 31 december 2021, als ze worden genomen voordat ze worden teruggetrokken.
 > - Examens die zijn gemarkeerd met twee sterretjes ( ) worden op \* \* 31 januari 2021 met pensioen gehaald. Examens die op 31 januari 2021 met pensioen gaan, blijven in aanmerking voor competentieverlenging en verlenging tot en met 31 januari 2022, als ze worden genomen voordat ze worden teruggetrokken.
 
-### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definities voor PCI-metrische #4 - Groei functionele consultant
+### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definities voor PCI-metrische #4 - Functionele consultantgroei
 
 Functionele consultantgroei is een [mogelijkheidsindicator.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) De punten van deze indicator worden als volgt berekend voor Business Applications Cloud-competentie:
 
@@ -274,15 +274,15 @@ Een partner heeft een van de twee opties om de alles-of-niets-punten (15 of 0 pu
 
 **Optie 1 om punten te verkrijgen:**
 
-- Functionele consultantgroei wordt gedefinieerd als de groei van het aantal gecertificeerde Functioneel consultant-medewerkers sinds een momentopname van de basislijn. De momentopnamedatum van de basislijn wordt gemaakt op 1 oktober 2020.
+- Functionele consultantgroei wordt gedefinieerd als de groei in het aantal gecertificeerde Functioneel consultant-medewerkers sinds een momentopname van de basislijn. De momentopnamedatum van de basislijn wordt gemaakt op 1 oktober 2020.
 
-- Functionele groeiindicatorpunten voor consultant zijn gebaseerd op de momentopname van de huidige maand vergeleken met de basislijn van 1 oktober 2020. Partners kunnen 0 of 15 punten bereiken met deze indicator.
+- Functionele groeiindicatorpunten voor consultant zijn gebaseerd op de momentopname van de huidige maand vergeleken met de basislijn van 1 oktober 2020. Partners kunnen met deze indicator 0 of 15 punten bereiken.
 
 - De momentopname van de basislijn wordt vervolgens opnieuw ingesteld op de volgende Business Applications van de Cloud-cloudomgeving.
 
-- Als u in aanmerking wilt komen voor punten, moet u minimaal **15** Functioneel consultant Associates for Developed market partners hebben en **5** voor Ontwikkelmarktpartners wanneer de momentopname van de basislijn wordt gemaakt.
+- Als u in aanmerking wilt komen voor punten, moet u minimaal **15** Functioneel consultant-partners voor ontwikkelde marktpartners en **5** voor Ontwikkelmarktpartners hebben wanneer de momentopname van de basislijn wordt gemaakt.
 
-- **Er worden geen gedeeltelijke punten toegekend.** Groei boven op de momentopname van de basislijn moet voldoen aan of de drempelwaarden overschrijden die in de volgende tabel worden aangegeven. In de tabel ziet u **de kolom Ontwikkeld** **en** Ontwikkelen met de functionele consultantbasislijn die in aanmerking moet komen om punten te verdienen.
+- **Er worden geen gedeeltelijke punten toegekend.** Groei boven op de momentopname van de basislijn moet voldoen aan of hoger zijn dan de drempelwaarden die in de volgende tabel worden aangegeven. In de tabel ziet u **de kolom Developed** and **Developing** met de functionele consultantbasislijn die in aanmerking moet komen om punten te verdienen.
 
   | Ontwikkeld | Ontwikkelen | Groei die nodig is om alle 15 punten te verdienen
   |:---:|:---:|:---:|
@@ -300,11 +300,11 @@ Een partner heeft een van de twee opties om de alles-of-niets-punten (15 of 0 pu
 
 Ontwikkelaars zijn een [mogelijkheidsindicator.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) De punten van deze indicator worden als volgt berekend voor Business Applications Cloud-competentie:
 
-- Ontwikkelaars worden gedefinieerd als het aantal personen met een momenteel actieve certificering voor ontwikkelaars koppelen.
+- Ontwikkelaars worden gedefinieerd als het aantal personen met een momenteel actieve Developer Associate-certificering.
 
 - Punten voor de ontwikkelaarsindicator zijn gebaseerd op de momentopname van de huidige maand met maximaal 5 punten beschikbaar.
 
-- Customer Engagement-ontwikkelaars krijgen tegoed wanneer ze slagen:
+- Customer Engagement-ontwikkelaars krijgen tegoed wanneer ze het volgende doorgeven:
   - PL-400<br/>**or**
   - MB-200 \* **en** een van de volgende examens:
     - MB-400 \* of MB2-716\*\*
@@ -317,7 +317,7 @@ Ontwikkelaars zijn een [mogelijkheidsindicator.](partner-contribution-indicators
 > [!NOTE]
 > Examens die zijn gemarkeerd met een sterretje ( ) worden in de komende maanden ingetrokken \* of vervangen. Zie hieronder voor specifieke details:
 >
-> - Examens die zijn gemarkeerd met één sterretje ( ) zijn op \* 31 december 2020 ingetrokken. Examens die op 31 december 2020 zijn gestopt, blijven in aanmerking voor competentieverlenging en verlenging tot en met 31 december 2021, als ze worden genomen voordat ze met pensioen werden genomen.
+> - Examens die zijn gemarkeerd met één sterretje ( ) zijn op \* 31 december 2020 met pensioen gaan. Examens die op 31 december 2020 zijn uitgetrokken, blijven in aanmerking voor competentieverlenging en verlenging tot en met 31 december 2021, als ze worden genomen voordat ze met pensioen zijn.
 > - Examens die zijn gemarkeerd met twee sterretjes ( ) worden op \* \* 31 januari 2021 met pensioen gehaald. Examens die op 31 januari 2021 met pensioen gaan, blijven in aanmerking voor competentieverlenging en verlenging tot en met 31 januari 2022, als ze worden genomen voordat ze worden teruggetrokken.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definities voor PCI-#6: nieuwe grote implementaties
@@ -336,36 +336,36 @@ Nieuwe grote implementaties zijn een indicator [voor klantsucces.](partner-contr
 
 - Een tenant wordt beschouwd als een gebruiker die de maandelijkse actieve gebruikersdrempel heeft overschreden als de tenant:
 
-  - Onder de opgegeven drempelwaarde 12 maanden geleden, **en**
+  - Onder de opgegeven drempelwaarde van 12 maanden geleden **en**
 
   - Deze drempelwaarde is ten minste eenmaal overschreden gedurende de volgende 11 maanden.
 
-- Maandelijks actieve gebruikers worden geteld op tenantniveau en opgeteld over alleen de betaalde abonnementen onder de tenant.
+- Maandelijks actieve gebruikers worden geteld op tenantniveau en opgeteld voor alleen de betaalde abonnementen onder de tenant.
 
 - Maandelijks actieve gebruikers worden aan het einde van elke maand berekend.
 
 - Partners worden gekoppeld aan tenants op abonnementsniveau. Abonnementen worden aan de volgende, in aanmerking komende Customer Engagement-producten of aan Finance and Operations-producten:
-  - Producten die in aanmerking komen voor Customer Engagement zijn onder andere: Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent en Enterprise Team Member.
+  - Producten die in aanmerking komen voor Customer Engagement zijn: Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent en Enterprise Team Member.
   - Producten die in aanmerking komen voor Finance and Operations zijn onder andere: Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent en Enterprise Team Member.
 - Alle partners die zijn gekoppeld aan een betaald abonnement onder een tenant, krijgen tegoed voor alle productie-exemplaren van Customer Engagement of Finance and Operations onder die tenant.
 
-### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>Definities voor PCI-#7: groei van maandelijks actieve gebruikers
+### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>Definities voor PCI-metrische #7: groei van maandelijks actieve gebruikers
 
 Maandelijks actieve gebruikersgroei is een [succesindicator voor klanten.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) De punten van deze indicator worden als volgt berekend voor Business Applications Cloud-competentie:
 
 - Maandelijks actieve gebruikersgroei wordt gedefinieerd als de groei van maandelijks actieve gebruikers in het hele klantenbestand in de afgelopen 12 maanden. 
 
-- Maandelijks actieve gebruikers worden geteld op tenantniveau en opgeteld over alleen de betaalde abonnementen onder de tenant.
+- Maandelijks actieve gebruikers worden geteld op tenantniveau en opgeteld voor alleen de betaalde abonnementen onder de tenant.
 
-- De maandelijks actieve gebruikersgroeiindicator vergelijkt de huidige maand met een basislijn van 12 maanden geleden. Er zijn maximaal 25 punten beschikbaar.
+- De indicator voor maandelijks actieve gebruikersgroei vergelijkt de huidige maand met een basislijn van 12 maanden geleden. Er zijn maximaal 25 punten beschikbaar.
 
 - Maandelijks actieve gebruikers worden aan het einde van elke maand berekend.
 
-- Maandelijks actieve gebruikersgroei wordt anders gedefinieerd voor trajecten voor Customer Engagement versus Finance and Operations, en voor partners die actief zijn *in* ontwikkelde markten versus *ontwikkeling* van markten:
+- Maandelijkse actieve gebruikersgroei wordt anders gedefinieerd voor trajecten van Customer Engagement versus Finance and Operations, en voor partners die *actief* zijn in ontwikkelde markten versus *ontwikkelings* markten:
 
   - Om Customer Engagement in aanmerking te laten komen voor punten, moeten ontwikkelde marktpartners een basislijn hebben van ten minste **250** maandelijks actieve gebruikers en moeten ontwikkelingspartners een basislijn hebben van **150** maandelijks actieve gebruikers voor hun hele klantenbestand 12 maanden geleden.
 
-  - Als u wilt dat Finance and Operations in aanmerking komt voor punten, moeten ontwikkelde marktpartners een basislijn hebben van ten minste **100** maandelijks actieve gebruikers en moeten marktpartners voor ontwikkeling een basislijn hebben van **50** maandelijks actieve gebruikers voor hun hele klantenbestand 12 maanden geleden.
+  - Als u wilt dat Finance and Operations in aanmerking komt voor punten, moeten ontwikkelde marktpartners een basislijn hebben van ten minste **100** maandelijks actieve gebruikers en moeten ontwikkelingspartners een basislijn hebben van **50** maandelijks actieve gebruikers voor hun hele klantenbestand 12 maanden geleden.
   
   (Zie deze definities voor Microsoft Partner Network meer informatie over ontwikkelde versus [Microsoft Partner Network markten.](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
@@ -385,7 +385,7 @@ Volg deze stappen om de grafieken en voortgang van partnerbijdrage-indicatoren w
 
    Als het goed is, ziet u het dashboard Partner Contribution Indicators met bijbehorende grafieken.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="De grafiek lezen":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Het diagram lezen.":::
 
    > [!NOTE]
    > Als u deze opties niet ziet, selecteert u **MPN** in het menu, gevolgd door **Partner Contribution Indicators.** Als u deze opties nog steeds niet kunt vinden, hebt u mogelijk niet de juiste gebruikersrol toegewezen in Partner Center. Neem contact op Partner Center globale beheerder of MPN-partnerbeheerder voor hulp.
@@ -394,4 +394,4 @@ Zie de verzameling resources en video's aan het einde van dit artikel voor meer 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-Bekijk meer [PCI-trainingsvideo's en informatiebronnen](https://partner.microsoft.com/asset/collection/pci-learn#/) over het verkrijgen van de Gold- of Silver Cloud-Business Applications competentie.
+Bekijk meer [PCI-trainingsvideo's en informatiebronnen](https://partner.microsoft.com/asset/collection/pci-learn#/) over het bereiken van de Gold- of Silver Cloud Business Applications competentie.

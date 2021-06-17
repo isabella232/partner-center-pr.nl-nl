@@ -9,18 +9,18 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 798fde02b87e8f8105dad6d00c32b050fb90097e
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818742"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277246"
 ---
 # <a name="view-your-incentives-program-details"></a>De details van uw incentives-programma weergeven
 
-**Juiste rollen:** Incentives-| Gebruikersaccounts voor Incentives | Globale beheerder | MPN-partnerbeheerder
+**Juiste rollen:** Incentives-| Incentives-gebruikers | Globale beheerders | MPN-partnerbeheerder
 
-In dit artikel wordt de overzichtspagina Mijn **incentives** uitgelegd, waarop de algehele status van uw incentive-programma's wordt weergegeven, evenals de status van elk programma op elke locatie. Het geeft ook de verschillende inschrijvingsstatussen.
+In dit artikel wordt de overzichtspagina Mijn **incentives** uitgelegd, met de algemene status van uw incentive-programma's en de status van elk programma op elke locatie. Het geeft ook de verschillende inschrijvingsstatussen.
 
 >[!NOTE]
 >Zie Partner Investments [and Incentives](https://partner.microsoft.com/membership/partner-incentives) (aanmelden vereist) voor meer informatie over incentives en incentive-functies in Partner Center.
@@ -32,7 +32,7 @@ In dit artikel wordt de overzichtspagina Mijn **incentives** uitgelegd, waarop d
 1. Bekijk bovenaan de pagina de samenvatting van inkomsten en betalingen, en bekijk meer informatie in de onderstaande tabel. U kunt ook de bijbehorende tabel sorteren, groeperen en uitbreiden:
 
    - Als u wilt sorteren op kolom, selecteert u de kolomnaam.
-   - Als u wilt groepen op programma, selecteert **u** het tabblad Op programma boven de tabel.
+   - Als u wilt groepen op programma, selecteert **u het** tabblad Op programma boven de tabel.
    - Als u wilt groepen op locatie, selecteert **u het tabblad** Op locatie boven de tabel.
    - Als u meer details wilt weergeven over inschrijvingen binnen een specifieke groep, selecteert u het dubbele punthaaksymbool aan het einde van een bepaalde rij. Met deze dubbele punthaak wordt uw weergave uitgebreid.
 1. Als verdere actie is vereist om u in te schrijven voor een programma, wordt deze informatie weergegeven in de kolom **Status**. In dit geval selecteert u het punthaaksymbool om meer te weten te komen over de volgende stappen die u moet volgen.
@@ -43,7 +43,7 @@ In de volgende tabel worden de verschillende inschrijvingsstatussen uitgelegd di
 
 | **Status**         | **Wordt weergegeven wanneer** |
 |:------------------------------------|:------------------|
-| Vereiste actie  | De partner heeft een uitnodiging geaccepteerd om zich in te schrijven voor een incentive-programma, maar moet mogelijk bank- of belastinggegevens bijwerken. Zie de **kolom Acties vereist** voor alle volgende stappen of koppelingen om uw bank- of belastinggegevens bij te werken in Partner Center. |
+| Vereiste actie  | De partner heeft een uitnodiging geaccepteerd om zich in te schrijven voor een incentive-programma, maar moet mogelijk bank- of belastinggegevens bijwerken. Zie de **kolom Acties vereist** voor alle volgende stappen of koppelingen voor het bijwerken van uw bank- of belastinggegevens in Partner Center. |
 | Beëindigde  | Het specifieke incentive-programma wordt niet meer aangeboden in het incentives-systeem. |
 | Geregistreerd  | Alle belasting- en bankgegevens zijn gevalideerd. Er is geen verdere registratieactie vereist door de partner. |
 | Bezig met registreren  | De gebruiker is geen Incentive-beheerder en de  inschrijving heeft de registratie de vereiste actie of de inschrijving **valideren.**|
@@ -59,7 +59,7 @@ Selecteer het uitbetalingspictogram in de rechterbovenhoek van het scherm voor t
 - Betalingen
 - Gegevens exporteren
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustreert het uitbetalingspictogram in de rechterbovenhoek van Partner Center portal":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustreert het uitbetalingspictogram in de rechterbovenhoek van Partner Center portal.":::
 
 Deze informatie omvat de totale inkomsten en betalingen sinds u zich hebt ingeschreven bij incentive-programma‘s. Op deze pagina ziet u ook inkomsten en betalingen per locatie of programma, plus eventuele verdere acties die u moet ondernemen om u in te schrijven voor een programma op een specifieke locatie. 
 

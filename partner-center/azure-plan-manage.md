@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18cc5c62beaa76f6e3ade79f2f2069e0f2bd3c7e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a885d8bbbd7541e199365a7c732aba0b67128053
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149601"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277144"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Abonnementen en resources beheren onder het Azure-abonnement
 
@@ -32,7 +32,7 @@ In dit artikel wordt uitgelegd hoe CSP-partners verschillende opties voor op rol
 
 - **Azure Lighthouse:** AOBO biedt niet de flexibiliteit om afzonderlijke groepen te maken die met verschillende klanten werken of om verschillende rollen in te stellen voor groepen of gebruikers. Met Azure Lighthouse kunt u verschillende groepen toewijzen aan verschillende klanten of rollen. Omdat gebruikers het juiste toegangsniveau hebben via gedelegeerd resourcebeheer van Azure, kunt u het aantal gebruikers met de rol Beheerderagent verminderen (en dus volledige AOBO-toegang hebben). Dit helpt de beveiliging te verbeteren door onnodige toegang tot de resources van uw klanten te beperken. Het biedt u ook meer flexibiliteit om meerdere klanten op schaal te beheren. Lees voor meer informatie [Azure Lighthouse en het Cloud Solution Provider programma](/azure/lighthouse/concepts/cloud-solution-provider).
 
-- **Directory of gastgebruikers of [service-principals:](/azure/active-directory/develop/app-objects-and-service-principals)** u kunt gedetailleerde toegang tot CSP-abonnementen delegeren door gebruikers toe te voegen in de klantmap of gastgebruikers toe te voegen en specifieke RBAC-rollen toe te wijzen.
+- **Directory- of gastgebruikers of [service-principals:](/azure/active-directory/develop/app-objects-and-service-principals)** u kunt gedetailleerde toegang tot CSP-abonnementen delegeren door gebruikers toe te voegen in de klantmap of gastgebruikers toe te voegen en specifieke RBAC-rollen toe te wijzen.
 
 Microsoft raadt gebruikers aan de minimale machtigingen te hebben die ze nodig hebben om hun werk uit te voeren als beveiligingspraktijken. Zie [Azure Active Directory Privileged Identity Management resources](/azure/active-directory/privileged-identity-management/pim-configure).
 
@@ -49,25 +49,25 @@ In de volgende tabel ziet u de methoden die worden gebruikt om uw partner-id te 
 
 ## <a name="confirm-that-you-have-admin-access"></a>Bevestig dat u beheerderstoegang hebt
 
-U hebt beheerderstoegang nodig om de services van uw klant te beheren en om verdiend tegoed te ontvangen. Lees [Partnertegoeden voor](partner-earned-credit.md) gedetailleerde informatie over verdiend tegoed. U kunt er op twee manieren voor zorgen dat u weet dat u beheerderstoegang hebt.
+U hebt beheerderstoegang nodig om de services van uw klant te beheren en om verdiend tegoed te ontvangen. Lees [Partnertegoeden voor](partner-earned-credit.md) gedetailleerde informatie over verdiend tegoed. U hebt twee manieren om ervoor te zorgen dat u weet dat u beheerderstoegang hebt.
 
-- Het bestand voor dagelijks gebruik controleren: dit kan worden bepaald door de eenheidsprijs en de effectieve eenheidsprijs in het dagelijkse gebruiksbestand te controleren en te bevestigen of er korting wordt toegepast. Als u de korting ontvangt, bent u de beheerder.
+- Het dagelijkse gebruiksbestand controleren: dit kan worden bepaald door de eenheidsprijs en de effectieve eenheidsprijs in het dagelijkse gebruiksbestand te bekijken en te controleren of er korting wordt toegepast. Als u de korting ontvangt, bent u de beheerder.
 
-- Een Azure Monitor-waarschuwing maken: u kunt een [](/azure/azure-monitor/platform/alerts-activity-log) waarschuwing Azure Monitor activiteitenlogboek maken om een melding te ontvangen wanneer uw RBAC-toegang wordt verwijderd uit het CSP-abonnement.
+- Een Azure Monitor-waarschuwing maken: u kunt een [](/azure/azure-monitor/platform/alerts-activity-log) waarschuwing voor Azure Monitor activiteitenlogboek maken om een melding te ontvangen wanneer uw RBAC-toegang wordt verwijderd uit het CSP-abonnement.
 
 ### <a name="create-an-azure-monitor-alert"></a>Een Azure Monitor-waarschuwing maken
 
 1. Waarschuwing maken.
 
-   :::image type="content" source="images/azure/azurealert1.png" alt-text="azure-waarschuwing":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="azure-waarschuwing.":::
 
-2. Selecteer het type actie dat door de waarschuwing moet worden ondernomen. Als u bijvoorbeeld opgeeft dat u een e-mailbericht wilt ontvangen, ontvangt u een e-mail met de melding dat een roltoewijzing wordt verwijderd.
+2. Selecteer het type actie dat u wilt dat de waarschuwing moet ondernemen. Als u bijvoorbeeld opgeeft dat u een e-mailbericht wilt ontvangen, ontvangt u een e-mail met de melding dat een roltoewijzing wordt verwijderd.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="waarschuwing configureren":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="waarschuwing configureren.":::
 
 ### <a name="aobo-removal"></a>AOBO verwijderen
 
-Klanten kunnen de toegang tot hun abonnementen beheren door naar de Access Control **te** Azure Portal. Op het **tabblad Roltoewijzingen** selecteren ze **Toegang verwijderen.** Als dit gebeurt, kunt u het volgende doen:
+Klanten kunnen de toegang tot hun abonnementen beheren door naar **Access Control** op de Azure Portal. Op het **tabblad Roltoewijzingen** selecteren ze **Toegang verwijderen.** Als dit gebeurt, kunt u het volgende doen:
 
 - Praat met uw klant om te zien of beheerderstoegang opnieuw kan worden ingesteld.
 

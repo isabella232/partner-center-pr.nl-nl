@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855604"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277790"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partner Center portalaanvragen en diagnostisch hulpprogramma
 
@@ -41,36 +41,36 @@ Neem contact Partner Center met de ondersteuning als u problemen hebt of hulp no
 
 **Momenteel in preview*
 
-Als voor uw probleem een gesprek met uw ondersteunings advocate is vereist, kunt u de afspraak plannen via de ticketgegevens.
+Als voor uw probleem een gesprek met uw ondersteuningsadvokaat is vereist, kunt u de afspraak in uw ticketdetails plannen.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Een ondersteuningsafspraak plannen":::
+:::image type="content" source="images/support/ticket.png" alt-text="Een ondersteuningsafspraak plannen.":::
 
-1.  Selecteer op de pagina met ticketdetails in Partner Center een beschikbare datum en tijd op de agenda van de Support Advocate. U ziet alleen beschikbare datums en tijden in uw lokale tijdzone.
+1.  Selecteer op de pagina met ticketdetails in Partner Center beschikbare datum en tijd in de agenda van de ondersteunings advocate. U ziet alleen beschikbare datums en tijden in uw lokale tijdzone.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Afspraak plannen":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Afspraak plannen.":::
 
 2. Partner Center controleert de agenda van de Support Advocate op beschikbaarheid.
 
-1. Wanneer u een afspraak inplant, Partner Center u een agendauitnodiging met informatie over hoe de ondersteunings advocate contact met u op zal nemen, zodat u deze afspraak in uw eigen werkplanning kunt bijhouden.  Hoewel deze mogelijkheid nog in preview is, zijn de e-mail en agenda-uitnodiging in het Engels, maar de advocate kan u ondersteunen in de taal die u hebt geselecteerd bij het maken van uw ticket.
+1. Wanneer u een afspraak inplant, Partner Center u een agendauitnodiging met informatie over hoe de ondersteunings advocate contact met u op neemt, zodat u deze afspraak in uw eigen werkplanning kunt bijhouden.  Hoewel deze mogelijkheid nog in preview is, zijn de e-mail en agenda-uitnodiging in het Engels, maar de advocate kan u ondersteunen in de taal die u hebt geselecteerd bij het maken van uw ticket.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Datum en tijd":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Datum en tijd.":::
 
-## <a name="hours-of-operation"></a>Gebruiksuren
+## <a name="hours-of-operation"></a>Uren van bewerking
 
 **Ondersteuning van partners**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Ondersteuningsuren":::
+:::image type="content" source="images/support/hoop.png" alt-text="Ondersteuningsuren.":::
 
 ## <a name="send-diagnostics"></a>Diagnostische gegevens verzenden
 
-Als er een fout optreedt terwijl u zich op een Partner Center, wordt u mogelijk gevraagd om logboekgegevens te verzamelen. Selecteer **Meer informatie verzamelen via** de koppeling die boven aan de pagina wordt weergegeven om het diagnostische hulpprogramma voor de client te openen. Dit hulpprogramma verzamelt informatie die het ondersteuningsteam van het Partnercentrum nodig heeft om de oorzaak van de fout te kunnen bepalen. 
+Als er een fout optreedt terwijl u zich op een Partner Center, wordt u mogelijk gevraagd om logboekgegevens te verzamelen. Selecteer **Meer informatie verzamelen via** de koppeling die boven aan de pagina wordt weergegeven om het diagnostische hulpprogramma voor client te openen. Dit hulpprogramma verzamelt informatie die het ondersteuningsteam van het Partnercentrum nodig heeft om de oorzaak van de fout te kunnen bepalen. 
 
 >[!NOTE]
 >Op Partner Center pagina's met **/pcv/** in de URL, kunt u het hulpprogramma handmatig openen om deze informatie te verzamelen.
 
 1. Ga naar de pagina met het probleem.
 
-2. Druk **op Ctrl+Alt+D om** het diagnostische hulpprogramma voor client te openen.
+2. Druk **op Ctrl+Alt+D om** het diagnostische hulpprogramma client te openen.
 
 U kunt een voorbeeld van de diagnostische gegevens bekijken en deze vervolgens opslaan in een bestand dat u kunt toevoegen aan uw ondersteuningsaanvraag. Om ons de informatie te sturen:
 

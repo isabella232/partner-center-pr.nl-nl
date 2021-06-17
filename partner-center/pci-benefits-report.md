@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 488d5641422de3036cb36818c0aa21bdc81a3628
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 94b8c493689130ff2e61331495d4dee9f0e1d06e
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152542"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277586"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Met voordelen dat beschikbaar is op Partner Center Insights-dashboard
 
@@ -22,7 +22,7 @@ ms.locfileid: "110152542"
 
 Als Microsoft-partner hebt u toegang tot tal van voordelen die gebruikmaken van de nieuwste technologie en innovaties om u te helpen de vaardigheden van uw team te verbeteren, de efficiëntie te verbeteren en uw bedrijf te laten groeien. Voordelenpakketten zijn onder andere: toewijzingen van gelicentieerde software, cloudservices, Visual Studio abonnementen en ondersteuning. Deze pakketten kunnen ook bepaalde Go-To-Market-resources, aanbiedingen en programma's bevatten. Het rapport Voordelen bevat trends van de voordelen die u hebt gebruikt en het gebruik ervan tijdens het geselecteerde datumbereik.
 
-:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="overzicht van de pagina Voordelen":::
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="overzicht van de pagina voordelen.":::
 
 U kunt de volgende grafieken visualiseren in het rapport Voordelen:
 
@@ -34,28 +34,28 @@ U kunt de volgende grafieken visualiseren in het rapport Voordelen:
 - Go-to-market
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het dashboard Inzichten. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Executive Report Viewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
+ > Dit rapport is beschikbaar via het dashboard Inzichten. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
 
 ## <a name="summary"></a>Samenvatting
 
-De sectie Samenvatting bevat de voordelen die worden verleend in termen van gelicentieerde software, cloudservices (niet-Azure), Visual Studio-abonnementen, technische ondersteuning en bepaalde Go-To-Market-services of -aanbiedingen.
+De sectie Samenvatting bevat de voordelen die worden verleend op het gebied van gelicentieerde software, cloudservices (niet-Azure), Visual Studio-abonnementen, technische ondersteuning en bepaalde Go-To-Market-services of -aanbiedingen.
 
 Voorbeeld: Microsoft Partner Network (MPN)-lidmaatschapspartners komen in aanmerking voor technische ondersteuning van on-premises producten en cloudproducten. Partners die silver-competentie hebben, krijgen technische ondersteuning voor 15 incidenten voor on-premises producten. Ze kunnen deze ondersteuning naar behoefte gebruiken. 
 
-:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="samenvatting van voordelen":::
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="samenvatting van voordelen.":::
 
 ## <a name="cloud-services-granted"></a>Cloudservices verleend
 
 In deze grafiek wordt de maandelijkse trend weergegeven van licenties die zijn verleend tijdens het geselecteerde datumbereik voor op licenties gebaseerde abonnementen van de geselecteerde cloudservice.
 Selecteer een cloudservice op het **tabblad Services** om de grafiek voor een specifieke cloudservice weer te geven. De lijngrafiek vertegenwoordigt de algemene licenties die aan uw bedrijf zijn verleend.
 
-:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="cloudservices verleend":::
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="cloudservices verleend.":::
 
 ## <a name="software-products"></a>Softwareproducten
 
 In deze grafiek wordt de maandelijkse trend weergegeven van licenties die zijn verleend tijdens het geselecteerde datumbereik voor een specifiek softwareproduct. Selecteer een softwareproduct in de vervolgkeuzelijst boven aan de grafiek om de trend te bekijken van een specifiek softwareproduct dat u als voordelen krijgt. De lijngrafiek vertegenwoordigt de algemene licenties die aan uw bedrijf zijn verleend.
 
-:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="softwareproducten verleend":::
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="softwareproducten verleend.":::
 
 ## <a name="visual-studio-subscriptions"></a>Visual Studio-abonnementen
 
@@ -63,23 +63,23 @@ Deze grafiek toont de maandelijkse trend van Visual Studio geactiveerd op basis 
 
 Selecteer een tabblad boven aan de grafiek om de trend weer te geven van een specifiek Visual Studio-abonnement dat als voordelen wordt verleend. Kolommen in de grafiek vertegenwoordigen licenties die worden gebruikt voor het abonnement. De lijngrafiek vertegenwoordigt de algemene licenties die zijn toegewezen voor het abonnement.
 
-:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio abonnementen":::
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio abonnementen.":::
 
 ## <a name="technical-benefits"></a>Technische voordelen
 
 In dit diagram wordt de maandelijkse trend weergegeven van ondersteuningsvoordelen die zijn verleend tijdens het geselecteerde datumbereik.
 
-Selecteer een tabblad boven aan de grafiek om de trend te bekijken van een specifiek ondersteuningsvoordeel dat aan u is verleend. De lijngrafiek vertegenwoordigt de totale uren aan ondersteuning die zijn toegewezen voor het geselecteerde ondersteuningsvoordeel.
+Selecteer een tabblad boven aan de grafiek om de trend weer te geven van een specifiek ondersteuningsvoordeel dat aan u is verleend. De lijngrafiek geeft de totale uren aan ondersteuning weer die zijn toegewezen voor het geselecteerde ondersteuningsvoordeel.
 
-:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="technische voordelen":::
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="technische voordelen.":::
 
 ## <a name="go-to-market-offers-or-services"></a>Go-To-Market-aanbiedingen of -services
 
 In dit diagram wordt de maandelijkse trend weergegeven van Go-To-Market-aanbiedingen of -services die zijn geactiveerd op basis van toegewezen tijdens het geselecteerde datumbereik en voor een geselecteerde Go-To-Market-aanbieding of -servicecategorie.
 
-Selecteer een Go-To-Market-aanbieding of servicecategorie in de vervolgkeuzelijst boven aan de grafiek om de trend te bekijken van de geselecteerde Go-To-Market-services die aan uw bedrijf zijn verleend. Kolommen in de grafiek vertegenwoordigen Go-To-Market-aanbiedingen of -services die zijn geactiveerd. De lijngrafiek vertegenwoordigt de algemene Go-To-Market-aanbiedingen of -services die aan uw bedrijf worden verleend.
+Selecteer een Go-To-Market-aanbieding of -servicecategorie in de vervolgkeuzelijst boven aan de grafiek om de trend te bekijken van de geselecteerde Go-To-Market-services die aan uw bedrijf zijn verleend. Kolommen in de grafiek vertegenwoordigen Go-To-Market-aanbiedingen of -services die zijn geactiveerd. De lijngrafiek vertegenwoordigt de algemene Go-To-Market-aanbiedingen of -services die aan uw bedrijf worden verleend.
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Go-To-Market-aanbiedingen":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Go-To-Market-aanbiedingen.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 

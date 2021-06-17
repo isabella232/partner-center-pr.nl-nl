@@ -9,18 +9,18 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150451"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125919"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Een geavanceerde specialisatie verdienen om uw gevalideerde mogelijkheden te laten zien
 
 **Juiste rollen:** globale | Accountbeheerder
 
-Geavanceerde specialisaties van Microsoft zijn gebaseerd op de gerelateerde [gold-competenties](learn-about-competencies.md) die een partner kan verdienen. Door goudkleurige competenties te verdienen, samen met hun gerelateerde geavanceerde specialisaties, kunnen partners hun mogelijkheden verder onderscheiden van klanten.
+Geavanceerde specialisaties van Microsoft zijn gebaseerd op de gerelateerde [gold-competenties](learn-about-competencies.md) die een partner kan verdienen. Door goudkleurige competenties te behalen, samen met hun gerelateerde geavanceerde specialisaties, kunnen partners hun mogelijkheden verder onderscheiden van klanten.
 
 Om een geavanceerde specialisatie te behalen, moet een partner vaak voldoen aan veeleisende vereisten, zoals het verkrijgen van klantverwijzingen, het ondergaan van een controle van derden, het bewijzen van het bereiken van een relevante vaardighedenset en het voldoen aan bepaalde, andere prestatiemetingen.
 
@@ -50,13 +50,17 @@ Elke geavanceerde specialisatie komt overeen met een oplossingsgebied:
 - Modernisering van webtoepassingen voor Microsoft Azure
 - SAP in Microsoft Azure
 - Migratie van Windows Server en SQL Server naar Microsoft Azure
+- AI en Machine Learning in Microsoft Azure
+- Hybride cloudinfrastructuur met Microsoft Azure Stack HCI
+- Hybride bewerkingen en beheer met Microsoft Azure Arc
+- Microsoft Azure VMware Solution
 
 **Business Applications** geavanceerde specialisaties zijn onder andere:
 
 - Ontwikkeling van toepassing met weinig code
-- Klein- en middelgrote bedrijfsbeheer
+- Small and Midsize Business Management
 
-**Geavanceerde specialisaties** van Modern Work zijn onder andere:
+**Geavanceerde specialisaties** voor Modern Work zijn onder andere:
 
 - Overname en wijzigingsbeheer
 - Aanroep voor Microsoft Teams
@@ -67,9 +71,11 @@ Elke geavanceerde specialisatie komt overeen met een oplossingsgebied:
 
 - Identiteits- en toegangsbeheer
 - Bedreigingsbeveiliging
+- Information Protection en governance
+- Cloudbeveiliging
 
 > [!NOTE]
-> Ga naar de pagina Geavanceerde specialisaties voor meer informatie over elke geavanceerde specialisatie, samen met de vereisten [en vereisten.](https://partner.microsoft.com/membership/advanced-specialization) Wanneer u klaar bent om u aan te melden voor een geavanceerde [specialisatie,](https://partner.microsoft.com/dashboard)controleert u de voortgang door u aan te melden bij Partner Center dashboard . Zie Apply for an advanced specialization (Toepassen op een geavanceerde specialisatie) voor meer Partner Center toegang [tot dit gebied.](advanced-specializations-apply.md)
+> Ga naar de pagina Geavanceerde specialisaties voor meer informatie over elke geavanceerde specialisatie, samen met de vereisten [en vereisten.](https://partner.microsoft.com/membership/advanced-specialization) Wanneer u klaar bent om u aan te melden voor een geavanceerde [specialisatie,](https://partner.microsoft.com/dashboard)controleert u uw voortgang door u aan te melden bij Partner Center dashboard . Zie Apply for an advanced specialization (Toepassen op een geavanceerde specialisatie) voor meer Partner Center toegang [tot dit gebied.](advanced-specializations-apply.md)
 
 ## <a name="next-steps"></a>Volgende stappen
 

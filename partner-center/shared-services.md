@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 929907c7c6f238fb84a13622227534797f0ac949
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ffec50d53b50bdb6aa2690f1dfcc1bc7312cc3cb
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855332"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277297"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Voeg Azure Partner Shared Services zodat partners Azure-abonnementen voor hun eigen gebruik kunnen kopen
 
@@ -30,11 +30,11 @@ Azure Partner Shared Services is een nieuw aanbiedingstype voor partners in het 
 
 2. Als u nog geen tenant voor gedeelde services hebt, klikt u op **Gedeelde services maken.**
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Gedeelde services maken":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Gedeelde services maken.":::
 
 3. Hiermee maakt u een tenant voor gedeelde services en koopt u het Azure CSP Shared Services-abonnement, dat moet worden gebruikt voor gedeelde resources en interne workload.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="De tenant maken en het abonnement kopen":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Maak de tenant en koop het abonnement.":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Over de Azure - Interne/gedeelde services-aanbieding
 
@@ -46,17 +46,17 @@ Azure Partner Shared Services is een nieuw aanbiedingstype voor partners in het 
 
 - Het primaire gebruik voor het Azure - Interne/gedeelde services is, zodat u Azure kunt gebruiken voor uw eigen ontwikkelingsdoeleinden. De gedeelde tenant die u gebruikt voor het inrichten van deze aanbieding, kan niet worden gebruikt voor andere services, zoals Office 365- of Dynamics-licenties.
 
-- U kunt het abonnement opzeggen, net als elk ander abonnement. Ga naar de **instellingen Alles weergeven**  >  **instellingen Gedeelde**  >  **services**. Selecteer het Azure - Interne/gedeelde services abonnement en annuleer het.
+- U kunt het abonnement opzeggen zoals elk ander abonnement. Ga naar de **instellingen Alles weergeven**  >  **instellingen Gedeelde**  >  **services**. Selecteer het Azure - Interne/gedeelde services abonnement en annuleer het.
 
-## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Toegang tot Azure Partner Shared Services verbruiksgegevens
+## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Toegang tot Azure Partner Shared Services verbruiksdetails
 
 U vindt het Azure-verbruik op uw CSP-factuur en het afstemmingsbestand. Deze wordt opgenomen als onderdeel van Microsoft Azure regelitem in de factuur. De gedetailleerde verbruiksgegevens zijn beschikbaar in het afstemmingsbestand dat is geregistreerd voor de tenant die voor deze aanbieding is gemaakt.
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure Partner Shared Services prijzen
 
-Als u het nieuwe prijsbestand voor Azure Partner Shared Services wilt zien, gaat u **naar** Prijzen en aanbiedingen verkopen en selecteert u de  >   prijslijst van de huidige maand. In de komende weken wordt ook een api voor een specifieke tariefkaart uitgebracht.
+Als u het nieuwe prijsbestand voor Azure Partner Shared Services wilt zien, gaat u **naar** Prijzen en aanbiedingen verkopen en selecteert u de  >   prijslijst van de huidige maand. In de komende weken wordt ook een specifieke api voor tariefkaarten uitgebracht.
 
-## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace-aanbiedingen en Azure Partner Shared Services
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace-aanbiedingen en -Azure Partner Shared Services
 
 Vanaf 1 maart 2019 biedt Azure Partner Shared Services (APSS) geen ondersteuning meer voor Marketplace-aanbiedingen.
 
@@ -65,7 +65,7 @@ Vanaf 1 maart 2019 biedt Azure Partner Shared Services (APSS) geen ondersteuning
 |Bring Your Own License (BYOL) en gratis services   | Ja   | Nee|
 |Andere marketplace-aanbiedingen van derden   | Nee   |Nee|
 
-Partners met BYOL of gratis services die zijn geïmplementeerd met APSS, worden niet beïnvloed; na 1 maart 2019 kunnen ze echter geen nieuwe BYOL- of gratis services meer aanschaffen.
+Partners met BYOL of gratis services die zijn geïmplementeerd met APSS, worden niet beïnvloed; na 1 maart 2019 kunnen ze echter geen nieuwe BYOL- of gratis services aanschaffen.
 
 Als u wilt profiteren van de volledige catalogus met Marketplace-aanbiedingen die beschikbaar zijn (niet alleen BYOL en gratis services), raden we CSP-partners aan gedeelde services te implementeren met behulp van Web Direct Azure-abonnementen.  CSP-partners die eerder BYOL van derden en gratis serviceresources van marketplace hebben geïmplementeerd en deze willen blijven gebruiken en meer aanbiedingen van derden willen implementeren, worden aangeraden het APSS-abonnement te migreren naar web direct [Bestaande Azure-abonnementen](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)migreren.
 

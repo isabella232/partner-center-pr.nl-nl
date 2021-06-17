@@ -1,50 +1,50 @@
 ---
 title: Azure Marketplace-partnerintegraties
-description: Meer informatie over Azure Marketplace-oplossingen die zijn geïntegreerd met uw Azure-omgeving en over een koppeling naar implementatie handleidingen van micro soft-partners.
+description: Meer informatie Azure Marketplace oplossingen die zijn geïntegreerd met uw Azure-omgeving en een koppeling krijgen naar implementatiehandleidingen van Microsoft-partners.
 ms.service: partner-services
 ms.topic: conceptual
 author: JasonWHowell
 ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 56e72af367cdcb264cc444446c5fcbedcd880451
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006902"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276481"
 ---
 # <a name="azure-marketplace-partner-integrations"></a>Azure Marketplace-partnerintegraties
 
-Meer informatie over hoe u partner oplossingen integreert in uw Azure-omgeving. Dit artikel bevat een overzicht van elke oplossing en koppelingen naar gedetailleerde implementatie handleidingen. Oplossingen worden in alfabetische volg orde weer gegeven. 
+Meer informatie over het integreren van partneroplossingen in uw Azure-omgeving. Dit artikel biedt een overzicht van elke oplossing en koppelingen naar gedetailleerde implementatiehandleidingen. Oplossingen worden in alfabetische volgorde weergegeven. 
 
-## <a name="apache-kafka-on-confluent-cloud"></a>Apache Kafka op confluente Cloud
+## <a name="apache-kafka-on-confluent-cloud"></a>Apache Kafka op Confluent Cloud
 
-![Confluente Cloud](./media/partners/confluent-cloud.png)
+![Confluent Cloud.](./media/partners/confluent-cloud.png)
 
-Met Azure kunt u naast uw Cloud toepassingen integreren met confluente Cloud. Confluente klanten navigeren vaak tussen de Azure Portal en de confluente Cloud. Wanneer een gebruiker bijvoorbeeld een confluente Cloud aanbieding in azure Marketplace aanschaft, worden ze naar verwachting een account met confluente Cloud ingesteld. Dit proces voegt complexiteit en tijd toe en vereist dat gebruikers configuratie en resources tussen de twee Portals beheren. Om de belasting van meerdere platforms te verminderen, heeft micro soft, in partnerschap met confluente Cloud, een geïntegreerde inrichtings laag gebouwd van Azure naar confluente Cloud. De oplossing is beschikbaar in azure Marketplace en biedt een naadloze ervaring voor het gebruik van de functie voor het maken van een Cloud-aanbod op Azure
+Met Azure kunt u naast uw cloudtoepassingen ook integreren met Confluent Cloud. Confluent-klanten navigeren vaak tussen de Azure Portal en Confluent Cloud. Wanneer een gebruiker bijvoorbeeld een Confluent Cloud-aanbieding in Azure Marketplace, wordt van hen verwacht dat ze een account instellen bij Confluent Cloud. Dit proces voegt complexiteit en tijd toe en vereist dat gebruikers configuratie en resources beheren tussen de twee portals. Om de belasting van het beheer op verschillende platforms te verminderen, heeft Microsoft in samenwerking met Confluent Cloud een geïntegreerde inrichtingslaag gebouwd van Azure naar Confluent Cloud. De oplossing is beschikbaar in Azure Marketplace en biedt een naadloze ervaring voor het gebruik van de Confluent Cloud-aanbieding in Azure
 
-De oplossing maakt gebruik van een resource provider die is ingeschakeld in azure om confluente cloud resources in te richten. Hiermee kunnen gebruikers toegang krijgen tot real-time streaming van gebeurtenissen via de Azure Portal, Azure CLI en Azure Sdk's. Confluente Cloud is eigenaar van en voert de SaaS-toepassing uit, waaronder omgevingen, clusters, onderwerpen, API-sleutels en beheerde connectors.
+De oplossing maakt gebruik van een resourceprovider die is ingeschakeld in Azure voor het inrichten van Confluent Cloud-resources. Hierdoor hebben gebruikers toegang tot realtime gebeurtenisstreaming via de Azure Portal, Azure CLI en Azure SDK's. Confluent Cloud is eigenaar van de SaaS-toepassing en voert deze uit, waaronder omgevingen, clusters, onderwerpen, API-sleutels en beheerde connectors.
 
-De grondige integratie met de confluente Cloud biedt de volgende mogelijkheden:
+De diepe integratie met Confluent Cloud maakt de volgende mogelijkheden mogelijk:
 
-- Richt een nieuwe confluente resource van de Cloud organisatie in van de Azure Portal met volledig beheerde infra structuur.
-- U kunt eenmalige aanmelding stroom lijnen van Azure tot confluente Cloud met Azure Active Directory; Er is geen afzonderlijke verificatie nodig van de Confluent Cloud Portal.
-- Profiteer van de Unified Billing van de kosten voor het gebruik van de Cloud door middel van facturering van Azure-abonnementen.
-- Confluente cloud resources beheren vanuit het Azure Portal en ze volgen op de pagina **alle resources** , naast uw Azure-resources.
+- Een nieuwe Confluent Cloud-organisatieresource inrichten vanuit de Azure Portal met een volledig beheerde infrastructuur.
+- Een aanmelding van Azure naar Confluent Cloud stroomlijnen met Azure Active Directory; er is geen afzonderlijke verificatie nodig van de Confluent Cloud-portal.
+- Uniforme facturering van confluent Cloud-verbruikskosten via facturering van Azure-abonnementen.
+- Beheer Confluent Cloud-resources vanuit Azure Portal en houd ze bij op de pagina Alle **resources,** naast uw Azure-resources.
 
-[Confluente Cloud implementatie handleidingen](https://docs.confluent.io/current/cloud/marketplace/index.html)
+[Confluent Cloud-implementatiehandleidingen](https://docs.confluent.io/current/cloud/marketplace/index.html)
 
-Ga naar voor problemen met betrekking tot het gebruik van Azure [https://support.confluent.io](https://support.confluent.io) . Als u een eerste keer een gebruiker bent, moet u uw wacht woord opnieuw instellen voordat u zich aanmeldt bij de portal voor Confluent-ondersteuning. Als u geen account met confluente hebt, moet u een e-mail sturen naar [cloud-support@confluent.io](mailto:cloud-support@confluent.io) .
+Voor problemen met betrekking tot Confluent in Azure gaat u naar [https://support.confluent.io](https://support.confluent.io) . Als u een eerste keer gebruiker bent, stelt u uw wachtwoord opnieuw in voordat u zich bij de Confluent-ondersteuningsportal aan melden. Als u geen account hebt bij Confluent, stuurt u een e-mail naar [cloud-support@confluent.io](mailto:cloud-support@confluent.io) .
 
 ## <a name="datadog"></a>Datadog
 
-![DataDog-logo](./media/partners/datadog.png)
+![DataDog-logo.](./media/partners/datadog.png)
 
-Datadog biedt informatie over de bezorgings-en beveiligings hulpprogramma's voor Azure-gebruikers om inzicht te krijgen in de status en prestaties van hun toepassingen in hybride en omgevingen met meerdere clouds. Maar het configureren van de vereiste integraties vereist vaak dat er wordt genavigeerd tussen het Azure Portal en het Datadog. Micro soft werkte samen met Datadog een geïntegreerde Datadog-oplossing in azure te maken om de configuratie en het beheer van resources in portals te vereenvoudigen. Deze oplossing is beschikbaar via Azure Marketplace en biedt een naadloze ervaring voor Azure-klanten om de Cloud bewakings oplossing van Datadog te gebruiken.
+Datadog biedt waarneembaarheids- en beveiligingshulpprogramma's voor Azure-gebruikers om inzicht te krijgen in de status en prestaties van hun toepassingen in hybride omgevingen en omgevingen met meerdere cloudomgevingen. Maar voor het configureren van de benodigde integraties moet u vaak navigeren tussen de Azure Portal en Datadog. Om configuratie- en resourcebeheer in portals te vereenvoudigen, heeft Microsoft samengewerkt met Datadog om een geïntegreerde Datadog-oplossing te maken in Azure. Beschikbaar via de Azure Marketplace biedt deze oplossing een naadloze ervaring voor Azure-klanten om de cloudbewakingsoplossing van Datadog te gebruiken.
 
-Raadpleeg de [Azure monitor-documentatie](/azure/azure-monitor/platform/partners#datadog) voor meer informatie over deze oplossing en meld u aan voor de open bare preview.
+Zie de [Azure Monitor voor](/azure/azure-monitor/platform/partners#datadog) meer informatie over deze oplossing en meld u aan voor de openbare preview.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Online winkel voor Azure Marketplace](https://azure.microsoft.com/marketplace/)
-- [Microsoft Learn: een Azure-account maken](/learn/modules/create-an-azure-account/)
+- [Azure Marketplace online winkel](https://azure.microsoft.com/marketplace/)
+- [Microsoft Learn: Een Azure-account maken](/learn/modules/create-an-azure-account/)

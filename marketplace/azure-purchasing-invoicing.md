@@ -1,35 +1,35 @@
 ---
-title: Software en oplossingen kopen van Azure Marketplace
+title: Software en oplossingen van Azure Marketplace
 description: Meer informatie over hulpprogramma's die software-aankopen en -beheer vereenvoudigen en stroomlijnen in Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 04/15/2021
-ms.openlocfilehash: cfe37f26ad685ca723336d8559d15d4a64048f4b
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.date: 01/18/2021
+ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630080"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276498"
 ---
-# <a name="azure-marketplace-purchasing"></a>Azure Marketplace kopen
+# <a name="azure-marketplace-purchasing"></a>Azure Marketplace aanschaffen
 
-Azure Marketplace beschikt over talloze hulpprogramma's en functies die het aankoopproces, facturering en het beheer van aankoopbeleid vereenvoudigen en stroomlijnen.
+Azure Marketplace beschikt over talloze hulpprogramma's en functies die het aankoopproces, de facturering en het beheer van het aankoopbeleid vereenvoudigen en stroomlijnen.
 
-## <a name="simplified-procurement"></a>Vereenvoudigde aanschaf
+## <a name="simplified-procurement"></a>Vereenvoudigde inkoop
 
-Met Azure Marketplace kunt u het aankoopproces vereenvoudigen via verschillende aankoopopties. Als u producten koopt met een creditcard die is gekoppeld aan uw Azure-account, worden alle aankopen geconsolideerd op één factuur en gefactureerd op de creditcard van uw keuze. Als u een grote klant bent, kunt u kopen met behulp van een Enterprise Agreement. Bij een EA worden software-aankopen automatisch opgenomen in uw Azure-factuur. Uw factuur bevat eerst de gebruikskosten voor Azure, gevolgd door de kosten voor Azure Marketplace.
+Met Azure Marketplace kunt u het aankoopproces vereenvoudigen via verschillende aankoopopties. Als u producten koopt met een creditcard die is gekoppeld aan uw Azure-account, worden alle aankopen geconsolideerd op één factuur en gefactureerd op de creditcard van uw keuze. Als u een grote klant bent, kunt u kopen met behulp van een Enterprise Agreement. Met een EA worden software-aankopen automatisch opgenomen in uw Azure-factuur. Uw factuur bevat eerst de gebruikskosten voor Azure, gevolgd door de kosten voor Azure Marketplace.
 
-Wanneer u aankopen via Azure Marketplace, elimineert u de complexiteit van het beheren van afzonderlijke leveranciersrelaties en facturen. U krijgt één geconsolideerde maandelijkse factuur van Microsoft die zowel uw Azure Marketplace als uw Azure-kosten omvat.
+Wanneer u aanschaft via Azure Marketplace, elimineert u de complexiteit van het beheren van relaties en facturen van afzonderlijke leveranciers. U krijgt één geconsolideerde maandelijkse factuur van Microsoft die zowel uw Azure Marketplace als uw Azure-kosten omvat.
 
-## <a name="permission-to-purchase"></a>Machtiging voor aankoop
+## <a name="permission-to-purchase"></a>Machtiging om aan te schaffen
 
-Nadat u de juiste softwaretoepassing hebt gevonden, is het eenvoudig om de aankoop te voltooien. U hebt echter geschikte machtigingen nodig binnen het Azure-abonnement. Omdat Azure werkt met een RBAC-model (Role [Based Access Control),](/azure/role-based-access-control/overview) heeft  uw account machtigingen nodig als eigenaar van het abonnement of inzendermachtigingen om een aankoop te doen. 
+Nadat u de juiste softwaretoepassing hebt gevonden, is het voltooien van de aankoop eenvoudig. U hebt echter geschikte machtigingen nodig binnen het Azure-abonnement. Omdat Azure werkt met een op rollen gebaseerd [Access Control](/azure/role-based-access-control/overview) (RBAC) model, heeft uw account machtigingen van de eigenaar van het abonnement of inzender nodig om een aankoop te doen.  
 
-Voordat u een aankoop voltooit, moet u ervoor zorgen dat de gebruiker de juiste configuratie heeft in de Azure-tenant. Dit helpt fouten tijdens de aankoop te voorkomen.
+Voordat u een aankoop voltooit, moet u ervoor zorgen dat de gebruiker de juiste configuratie heeft in de Azure-tenant. Dit helpt bij het voorkomen van fouten tijdens de aankoop.
 
-Zoek in Azure Marketplace in de Azure Portal de toepassing die u wilt kopen en selecteer Maken **of** Instellen **en abonneren.** U wordt gevraagd om wat informatie in te vullen voordat u uw nieuwe oplossing kunt gebruiken.
+Zoek in Azure Marketplace in de Azure Portal de toepassing die u wilt kopen  en selecteer Maken of **Instellen en abonneren.** U wordt gevraagd om wat informatie in te vullen voordat u uw nieuwe oplossing kunt gebruiken.
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="De knop Maken van aanbieding.":::
 
@@ -51,7 +51,7 @@ Met Microsoft kunt u gebruikersaankopen beheren via uw factureringsprofiel als d
 
 Deze instellingen zijn van toepassing op alle gebruikers met toegang tot uw Azure-abonnement, zodat u de it-aanschaf kunt beheren via de Azure Portal.
 
-:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="IT-inkoop beheren via de Azure Portal":::
+:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="It-inkoop beheren via de Azure Portal.":::
 
 ## <a name="cost-management"></a>Kostenbeheer
 
@@ -67,11 +67,11 @@ Het aanschaffen van een aanbieding via Azure Marketplace kan om verschillende re
 
 1. Het abonnement behoort tot een Enterprise Agreement (EA) en de EA-beheerder heeft Azure Marketplace uitgeschakeld.
 1. De EA-beheerder heeft aankopen alleen ingeschakeld voor gratis aanbiedingen en de aanbieding is een betaalde aanbieding.
-1. De aanbieding is niet te vinden in de marketplace.
-1. De Onafhankelijke softwareleverancier (ISV) heeft de aanbieding afgeschaft (voorheen gestopt) in uw regio.
+1. De aanbieding is niet gevonden in de marketplace.
+1. De Onafhankelijke softwareleverancier (ISV) is gestopt met het verkopen van de aanbieding, ten minste in uw regio.
 1. Het abonnement dat u gebruikt, behoort tot een factureringsaccount in een regio waarin de aanbieding niet beschikbaar is.
 1. Het abonnement/de factureringsrekening is niet gekoppeld aan een geldig betaalmiddel (zoals een geldige creditcard).
-1. Het abonnement behoort tot een Cloud Solution Provider (CSP) en de ISV heeft geweigerd te verkopen via een CSP.
+1. Het abonnement behoort tot een Cloud Solution Provider (CSP) en de ISV heeft geweigerd om te verkopen via een CSP.
 1. Private Marketplace is ingeschakeld voor het abonnement en de aanbieding staat niet in de lijst met toegestane aanbiedingen.
 1. De aanbieding is Privé/Preview voor specifieke klanten en het abonnement staat niet in de lijst met toegestane klanten.
 

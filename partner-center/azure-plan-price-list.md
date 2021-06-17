@@ -1,5 +1,5 @@
 ---
-title: Prijslijst voor Azure-plan voor CSP-partners
+title: Prijslijst met Azure-plannen voor CSP-partners
 ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
@@ -9,18 +9,18 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6d8e73e664d400e8e6d80e529326e566c5fd88a8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1bc7973c3970d7c7258ab8645c72570b09d698e1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149567"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277111"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Prijslijst voor de nieuwe Commerce-ervaring in CSP voor Azure
 
 **Juiste rollen:** beheeragent | Factureringsbeheerders | Globale beheerders | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
 
-De prijslijst voor de nieuwe Azure Commerce-ervaring in CSP wordt in de Partner Center. De prijslijst wordt dynamisch geleverd in een realtime nauwkeurig bestand en de prijzen worden alleen weergegeven in USD. Vanaf 28 januari 2021 worden partners in de regio EU/EFTA en het VK die nieuwe klanten en bestaande CSP-klanten hebben die voor het eerst nieuwe commerceaanbiedingen aanschaffen waarvan de tenants vóór 11 mei 2020 zijn gemaakt, gefactureerd voor deze aankopen in partnerlocatievaluta.  Partners die zich buiten de regio EU/EFTA en het VK bevinden, worden nog steeds gefactureerd in partnerlocatievaluta. Lees [Azure-plan - facturering.](azure-plan-billing.md)
+De prijslijst voor de nieuwe Azure Commerce-ervaring in CSP wordt in de Partner Center. De prijslijst wordt dynamisch geleverd in een realtime nauwkeurig bestand en de prijzen worden alleen weergegeven in USD. Vanaf 28 januari 2021 worden partners in de regio EU/EFTA en het VK die nieuwe klanten hebben en bestaande CSP-klanten die voor het eerst nieuwe commerceaanbiedingen aanschaffen waarvan de tenants zijn gemaakt vóór 11 mei 2020, gefactureerd voor deze aankopen in partnerlocatievaluta.  Partners die zich buiten de regio EU/EFTA en het VK bevinden, worden nog steeds gefactureerd in partnerlocatievaluta. Lees [Azure-plan - facturering.](azure-plan-billing.md)
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Bekijk de prijzen voor abonnementen onder de prijzen van het Azure-abonnement
 
@@ -35,14 +35,14 @@ De prijslijst voor de nieuwe Azure Commerce-ervaring in CSP wordt in de Partner 
 
 4. Selecteer naast **Prijzen voor datum** de datum die u wilt, bijvoorbeeld **Huidige**.
 
-   :::image type="content" source="images/azure/pricingnew.png" alt-text="specifiek land":::
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="specifiek voor het land.":::
 
 >[!NOTE] 
 >U kunt twee verschillende prijslijsten exporteren: prijzen voor Azure-plannen en prijzen van derden voor Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Details van azure-prijslijst
 
-- Prijzen voor Azure-plannen zijn beschikbaar op de marketplace-pagina in Partner Center, onder **Verkopen.**
+- Prijzen voor Azure-plannen zijn beschikbaar op de Marketplace-pagina in Partner Center, onder **Verkopen.**
 
 - Exports zijn beschikbaar voor verbruiksservices voor Azure-plannen, Azure-reserveringen en FX-tarieven.
 
@@ -69,7 +69,7 @@ De prijslijst voor de nieuwe Azure Commerce-ervaring in CSP wordt in de Partner 
 |Publisher|De eerste partij is altijd Microsoft|
 |SkuDescription|Beschrijving van de SKU|
 |UnitOfMeasure|De eenheden die in rekening worden gebracht of gefactureerd|
-|TermDuration|Voor producten op basis van een termijn, de lengte van de term die van toepassing is op reserveringen|
+|TermDuration|Voor producten op basis van een term, de lengte van de term die van toepassing is op reserveringen|
 |Markt|Markt van de prijzen|
 |Valuta|Valuta van de prijzen|
 |UnitPrice|Prijs per eenheid|
@@ -93,7 +93,7 @@ Sommige azure-abonnementsverbruiksservices ondersteunen gelaagde prijzen. Partne
 |DDD123456ABC|01AB|.80|101|100000|
 |DDD123456ABC|01AB|1|1|100|
 
-Als in dit voorbeeld 101 eenheden worden gebruikt, zijn de kosten 100,80. De eerste 100 eenheden zijn elk één en de volgende eenheid wordt in rekening gebracht op 0,80.
+Als in dit voorbeeld 101 eenheden worden gebruikt, zijn de kosten 100,80. De eerste 100 eenheden zijn één per eenheid en voor de volgende eenheid wordt 0,80 in rekening gebracht.
 
 ## <a name="pricing-api-for-azure-plan"></a>Prijs-API voor Azure-abonnement
 
@@ -104,9 +104,9 @@ De prijs-API heeft een ander eindpunt dan de Partner Center API's. De prijsinfor
 Met deze API kunnen partners ook maandelijkse wisselkoersen ophalen, omdat de prijzen van het Azure-plan alleen in USD zijn. U kunt de API's gebruiken om prijzen en wisselkoersen voor de huidige maand of vorige maanden op te halen.
 
 >[!NOTE]
-> De prijs-API is specifiek voor prijzen voor Azure-plannen. U moet nog steeds de bestaande RateCard-API en prijslijsten gebruiken die worden geplaatst op de pagina 'Prijzen en aanbiedingen' van de Partner Center voor Azure-resources of reserveringen die zijn geïmplementeerd in niet-Azure-abonnementsabonnementen. De API voor prijzen voor Azure-plannen biedt geen ondersteuning voor software, marketplace of licenties, zoals Microsoft 365 of Dynamics 365.
+> De prijs-API is specifiek voor azure-abonnementsprijzen. U moet nog steeds de bestaande RateCard-API en prijslijsten gebruiken die op de pagina Prijzen en aanbiedingen van de Partner Center worden geplaatst voor Azure-resources of -reserveringen die zijn geïmplementeerd in niet-Azure-abonnementsabonnementen. De API voor prijzen voor Azure-plannen biedt geen ondersteuning voor software, Marketplace of licenties, zoals Microsoft 365 of Dynamics 365.
 
-Zie de volledige API-documentatie voor prijzen voor meer informatie over prijzen voor Azure-plannen en [API's voor wisselkoersen.](/partner/develop/pricing)
+Zie de volledige api-documentatie over prijzen voor meer informatie over azure-planprijzen en API's voor [wisselkoersen.](/partner/develop/pricing)
 
 ## <a name="next-steps"></a>Volgende stappen
 

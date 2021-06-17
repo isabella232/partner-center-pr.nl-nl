@@ -8,12 +8,12 @@ description: Bekijk wat u goed doet en waar u het gebruik kunt verbeteren van Of
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854600"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277807"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365-gebruiksrapport beschikbaar via het Partner Center Insights-dashboard
 
@@ -46,36 +46,36 @@ In de samenvattingssectie ziet u een momentopname van de sleutelindicatoren die 
 
    De Micro-grafiek geeft een maandelijkse trend weer van maandelijks actieve gebruikers gedurende de geselecteerde periode.
 
-:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Office 365-gebruiksoverzicht":::
+:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Overzicht van Office 365-gebruik.":::
 
-## <a name="office-365-usage-by-geography"></a>Gebruik van Office 365 per geografisch gebied
+## <a name="office-365-usage-by-geography"></a>Office 365-gebruik per geografie
 
-Het **Gebruik van Office 365** per geografisch gebied geeft de verdeling van maandelijks actieve gebruikers (MAU) en betaalde beschikbare eenheden (PAU) per klantland weer. MAU verwijst naar het aantal licenties dat in de vorige maand is gebruikt en PAU verwijst naar het aantal betaalde seats dat tijdens de geselecteerde periode is verkocht of beheerd. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkere kleuren hogere waarden vertegenwoordigen. U kunt een land in het raster zoeken en selecteren. U kunt ook inzoomen om dit nader te bekijken.
+Het **Gebruik van Office 365** per geografisch gebied geeft de verdeling van maandelijks actieve gebruikers (MAU) en betaalde beschikbare eenheden (PAU) per klantland weer. MAU verwijst naar het aantal licenties dat in de vorige maand is gebruikt en PAU verwijst naar het aantal betaalde plaatsen dat tijdens het geselecteerde tijdsbestek is verkocht of beheerd. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkere kleuren hogere waarden vertegenwoordigen. U kunt een land in het raster zoeken en selecteren. U kunt ook inzoomen voor een beter beeld.
 
 De **tabel Aantal landen/regio's** bevat het totale aantal landen/regio's waar Azure-gebruiksgebeurtenissen worden gegenereerd.
 
 U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie op de kaart. Selecteer de **optie Start** op de kaart om terug te keren naar de oorspronkelijke weergave.
 
 
-:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Gebruik van Office 365 per geografisch gebied":::
+:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Office 365-gebruik per geografie.":::
 
 ## <a name="office-365-usage-by-workload"></a>Office 365-gebruik per workload
 
-Het Gebruik van Office 365 per workload toont de uitsplitsing van MAU en PAU op workloads.
+Het Office 365-gebruik per workload geeft de uitsplitsing van MAU en PAU op workloads weer.
 
-:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Office 365-gebruik per workload":::
+:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Office 365-gebruik per workload.":::
 
 ## <a name="subscriptions-performance"></a>Prestaties van abonnementen
 
-De prestaties van abonnementen geven de uitsplitsing van MAU en PAU per workload per klant weer. Gegevens voor de 100 belangrijkste klanten op gefactureerde omzet worden weergegeven in de tabel en u kunt zoeken naar een klant of de onbewerkte gegevens downloaden om details voor alle klanten weer te geven.
+De prestaties van Abonnementen tonen de uitsplitsing van MAU en PAU op workloads per klant. Gegevens voor de top 100 van klanten op gefactureerde omzet worden weergegeven in de tabel en u kunt zoeken naar een klant of de onbewerkte gegevens downloaden om details voor alle klanten weer te geven.
 
-:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Prestaties van Office 365-abonnementen":::
+:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Prestaties van Office 365-abonnementen.":::
 
 ## <a name="office-365-usage-distribution"></a>Distributie van Office 365-gebruik
 
 In de Office 365-gebruiksdistributie wordt de uitsplitsing van PAU en Abonnementen op SKU's weergegeven.
 
-:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Distributie van Office 365-gebruik":::
+:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Distributie van Office 365-gebruik.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 

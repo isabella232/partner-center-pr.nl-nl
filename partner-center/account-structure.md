@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: MPN-partners kunnen meer informatie krijgen over de twee niveaus van accounts in Partner Center, het Partner Global Account (PGA) en het Partner Location Account (PLA).
+description: MPN-partners kunnen meer te weten komen over de twee niveaus van accounts in Partner Center, het Partner Global Account (PGA) en het Partner Location Account (PLA).
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f10de32f544c74d5d751a66fbc2ba6c4d4cb7fba
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150655"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276532"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center heeft twee niveaus van accounts voor MPN-partners
 
@@ -32,14 +32,14 @@ Uw bedrijf heeft twee niveaus van accounts in Partner Center.
 
 ## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>Het account op het tweede niveau is het locatieaccount met de naam Partner Location Account (PLA)
 
-Uw PGA heeft mogelijk extra bedrijfslocaties. Elke locatie heeft een eigen MPN-id of Partner Location Account (PLA). U gebruikt de MPN-locatie-id voor transactionele activiteiten en inschrijving in incentive-programma's.
+Uw PGA heeft mogelijk extra bedrijfslocaties. Elke locatie heeft een eigen MPN-id of partnerlocatieaccount (PLA). U gebruikt de MPN-locatie-id voor transactionele activiteiten en inschrijving in incentive-programma's.
 
 - Elk partnerlocatieaccount kan een eigen juridisch adres en primaire contactpersoon hebben. Locaties kunnen ook het juridische adres delen met het globale account of met andere locaties.
 - Bekijk de lijst met partnerlocatieaccounts in  ->  **Instellingenlocaties.**
 - Alle locatieaccounts bevinden zich op hetzelfde niveau en onder het globale partneraccount.
 - Accountbeheerders kunnen locaties toevoegen.
 
-:::image type="content" source="images/accountstructure.png" alt-text="Accountstructuur" border="false":::
+:::image type="content" source="images/accountstructure.png" alt-text="Accountstructuur." border="false":::
 
 ## <a name="next-steps"></a>Volgende stappen
 

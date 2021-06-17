@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over hoe u klanten kunt helpen de beheerdersbevoegdheden van een partner te herstellen, zodat de partner kan helpen bij het beheren van de Azure CSP van een klant.
+description: Leer hoe u klanten kunt helpen de beheerdersbevoegdheden van een partner te herstellen, zodat de partner kan helpen bij het beheren van de Azure CSP van een klant.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 90c8f413398fcb9f65f7fef402a1cdcd092abbc4
-ms.sourcegitcommit: 212471150efc8fd2c30023bc6a981a7e052e79ef
+ms.openlocfilehash: 81df7578f7f15def64a3c20b15f95f3b89a28d1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "112025952"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277773"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen  
 
@@ -41,7 +41,7 @@ Uw klant kan de CSP-roltoewijzing opnieuw maken als u de van de `object ID` groe
 
 4. Uw klant moet de koppeling selecteren en de aanvraag voor de resellerrelatie goedkeuren.
 
-   :::image type="content" source="images/azure/revoke4.png" alt-text="E-mailvoorbeeld van een resellerrelatie maken":::
+   :::image type="content" source="images/azure/revoke4.png" alt-text="E-mailvoorbeeld van een resellerrelatie maken.":::
 
 5. U, de partner, moet verbinding maken met de partnerten tenant om de object-id van de groep AdminAgents op te halen.
   
@@ -61,7 +61,7 @@ Uw klant kan de CSP-roltoewijzing opnieuw maken als u de van de `object ID` groe
    Update-Module Az.Resources
    ```
 
-   b. De klant maakt verbinding met de tenant waar het CSP-abonnement zich bevindt.
+   b. De klant maakt verbinding met de tenant waarin het CSP-abonnement bestaat.
    ```powershell
    Connect-AzAccount -TenantID "<Customer tenant>"
    ```
@@ -87,7 +87,7 @@ Uw klant kan de CSP-roltoewijzing opnieuw maken als u de van de `object ID` groe
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>"
    ```
 
-In plaats van eigenaarsmachtigingen te verlenen voor het abonnementsbereik, kunt u verlenen op het niveau van de resourcegroep of resource. 
+In plaats van eigenaarsmachtigingen te verlenen voor het abonnementsbereik, kunt u machtigingen verlenen op het niveau van de resourcegroep of resource. 
 
 - Op het niveau van de resourcegroep
 
@@ -131,7 +131,7 @@ Als de procedure 'catch-all' mislukt tijdens `Import-Module` de , probeert u de 
 - Als het importeren mislukt omdat de module in gebruik is, start u de PowerShell-sessie opnieuw door alle vensters te sluiten en opnieuw te openen.
 - Controleer de versie `Az.Resources` van met `Get-Module Az.Resources -ListAvailable` .
 - Als versie 4.1.1 niet in de beschikbare lijst staat, moet u `Update-Module Az.Resources -Force` gebruiken.
-- Als de foutmelding `Az.Accounts` geeft dat een specifieke versie moet zijn, moet u die module ook bijwerken en vervangen door `Az.Resources` `Az.Accounts` . Vervolgens moet u de PowerShell-sessie opnieuw starten.
+- Als de foutmelding geeft dat een specifieke versie moet zijn, moet u die module ook `Az.Accounts` bijwerken en vervangen door `Az.Resources` `Az.Accounts` . Vervolgens moet u de PowerShell-sessie opnieuw starten.
 
 
 ## <a name="next-steps"></a>Volgende stappen

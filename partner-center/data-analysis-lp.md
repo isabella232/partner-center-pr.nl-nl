@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het gebruik van analyses in Partner Center om meer inzicht te krijgen in uw bedrijf en hoe uw klanten de licenties gebruiken die u hebt aangeschaft.
+description: Meer informatie over het gebruik van Partner Center om meer inzicht te krijgen in uw bedrijf en hoe uw klanten de licenties gebruiken die u hebt aangeschaft.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147204"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276855"
 ---
-# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Analyse gebruiken voor meer informatie over de omzet van abonnementen
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Analytische gegevens gebruiken voor meer informatie over de omzet van abonnementen
 
 **Juiste rollen:** globale | MPN-partnerbeheerder
 
@@ -29,7 +29,7 @@ Als u manieren wilt plannen om uw CSP-bedrijf te ontwikkelen, moet u weten hoe u
 
 1. De na twaalf maanden volgende CSP-omzet wordt boven aan de pagina weergegeven
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Abonnementsscherm":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Abonnementsscherm.":::
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>CSP-Twelve-Month (TTM) volgen
 
@@ -39,10 +39,10 @@ De omzet die wordt weergegeven Partner Center wordt berekend voor een vast tijds
 
 Een uitsplitsing van de omzet op het niveau van uw partnerlocatieaccount bekijken:
 
-- Selecteer de koppeling Downloaddetails en download een TSV-bestand dat de TTM-omzet voor al uw locaties we bekijken.
+- Selecteer de koppeling Downloaddetails en download een TSV-bestand met de TTM-omzet voor al uw locaties.
 
 >[!NOTE] 
->Het opsommen van de afzonderlijke TTM-omzetnummers over MPN-ID's in het TSV-bestand lijkt mogelijk groter te zijn dan de totale TTM-omzet die wordt weergegeven op Partner Center. Dit komt doordat de omzet dubbel kan worden geteld voor abonnementen met meerdere partnervermeldingen in het gedownloade bestand.
+>Het opsommen van de afzonderlijke TTM-omzetnummers over MPN-ID's in het TSV-bestand lijkt mogelijk groter dan de totale TTM-omzet die wordt weergegeven op Partner Center. Dit komt doordat de omzet dubbel kan worden geteld voor abonnementen met meerdere partnervermeldingen in het gedownloade bestand.
 
 ## <a name="subscription-summary"></a>Abonnementsoverzicht
 
@@ -50,9 +50,9 @@ In de onderste helft van het scherm wordt een samenvatting van de abonnementen w
 
 1. **Duur:** u kunt ervoor kiezen om het abonnementsoverzicht voor weer te geven 
 
-- 30D : afgelopen 30 dagen
-- 3M : afgelopen 3 maanden
-- 6M : afgelopen 6 maanden
+- 30D – Afgelopen 30 dagen
+- 3M – afgelopen 3 maanden
+- 6M – afgelopen 6 maanden
 - 12 miljoen – afgelopen 12 maanden
 
 2. **Producttype:**

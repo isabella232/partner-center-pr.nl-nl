@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ab086a4d15d16f094e33d19b81f1c93711916dc
-ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
+ms.openlocfilehash: 725050d370d1266205f979aa6317768d05ae5c4c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110201422"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277178"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nieuwe Commerce-ervaring in CSP - Azure-facturering 
 
@@ -46,9 +46,9 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 2. Selecteer in Partner Center menu **Facturering.**
 
-3. Selecteer het tabblad **Terugkerend en** **Eenmalige** en de valuta waarin u bent geïnteresseerd.
+3. Selecteer het tabblad **Terugkerend en** **Eenmalige** en de valuta waarin u geïnteresseerd bent.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="facturering":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="Facturering.":::
 
 4. Selecteer **Factuur-** **of afstemmingsbestand.**  
 
@@ -64,9 +64,9 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 4. Voorbeelden van resources zijn virtuele machines en opslagaccounts. 
 
-5. Meter voor het gebruik van resources: Meters zijn metingen van het verbruik van een resource en één resource kan gebruik voor meerdere meters gebruiken. Meters worden geïdentificeerd door een ProductId, SKUId en AvailabilityId. 
+5. Bronmeters: Meters zijn metingen van het verbruik van een resource en één resource kan het gebruik voor meerdere meters gebruiken. Meters worden geïdentificeerd door een ProductId, SKUId en AvailabilityId. 
 
-### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hiërarchie van abonnementsresourcegroepen en -meting
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hiërarchie van abonnementsresourcegroepen en meting
 
 **Azure-account (tenant)**
 
@@ -94,7 +94,7 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 1. Factuur is niet later dan de acht dagen van elke maand beschikbaar.
 
-2. Partners hebben 60 dagen de tijd om de betaling te betalen.
+2. Partners hebben 60 dagen de tijd om de betaling door te geven.
 
 3. De factureringsperiode heeft betrekking op een bepaalde kalendermaand, bijvoorbeeld 10/1-10/31.
 
@@ -102,24 +102,24 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 5. Controleer het factuur recon-bestand en het bestand met dagelijks beoordeeld gebruik voor aanvullende factureringsgegevens.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="Factuur":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="Factuur.":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Het factuurafstemmingsbestand lezen
 
 1. Elke combinatie van Azure-plan en -meter kan maximaal twee factureringslijnen in het reconbestand hebben.
 
-2. Als de meter is gekwalificeerd voor elk type korting of tegoed (zoals gelaagde kortingen of het partnertegoed voor beheerde services) gedurende de hele kalendermaand, bevat het reconsgetal slechts één factureringsregel. De kolom **PriceAdjusmentDescription verwijst** naar de korting of het verdiend tegoed.
+2. Als de meter is gekwalificeerd voor elk type korting of tegoed (zoals gelaagde kortingen of het partnertegoed voor beheerde services) gedurende de hele kalendermaand, bevat het reconbestand slechts één factureringsregel. De kolom **PriceAdjusmentDescription verwijst** naar de korting of het verdiend tegoed.
 
-3. Als er geen resources zijn voor een bepaalde meter die in aanmerking komen voor korting of partnertegoed, bevat het recon-bestand slechts één factureringsregel en is de effectieve eenheidsprijs de detailhandelprijs (de eenheidsprijs).
+3. Als er geen resources zijn voor een bepaalde meter die geschikt zijn voor korting of partnertegoed, bevat het reconbestand slechts één factureringsregel en is de effectieve eenheidsprijs de detailhandelprijs (de eenheidsprijs).
 
-4. Als de meter, of resources die die meter uitzenden, is gekwalificeerd voor partnertegoed voor **services** die een deel van de maand worden beheerd, bevat het recon-bestand twee factureringsregels. Eén regel vertegenwoordigt de dagen dat de meter is gekwalificeerd en de tweede regel de dagen dat de meter niet in aanmerking komt.
+4. Als de meter of resources die die meter uitzenden, gekwalificeerd zijn voor partnertegoed voor **services** die een deel van de maand worden beheerd, bevat het reconbestand twee factureringslijnen. Eén regel vertegenwoordigt de dagen dat de meter gekwalificeerd is en de tweede regel de dagen dat de meter niet in aanmerking komt.
 
 >[!NOTE]
->U kunt uw Azure-verbruik afstemmen in uw een-time recon-bestand voor aankopen. Als u dit wilt doen, gaat u naar het reconbestand met dagelijks beoordeelde gebruiksgegevens en zoekt u naar uw SubscriptionID. Hiermee worden alle kosten weergegeven die zijn gekoppeld aan uw Azure-plan-id. Uw Azure SubscriptionID wordt weergegeven als de EntitlementID.
+>U kunt uw Azure-verbruik afstemmen in uw een-keer-aankoop recon-bestand. Als u dit wilt doen, gaat u naar uw dagelijks beoordeelde reconbestand voor gebruik en zoekt u naar uw SubscriptionID. Hiermee worden alle kosten weergegeven die zijn gekoppeld aan uw Azure-plan-id. Uw Azure SubscriptionID wordt weergegeven als de EntitlementID.
 
 ## <a name="read-the-daily-usage-file"></a>Het dagelijkse gebruiksbestand lezen
 
-- Abonnementsmeters onder een Azure-abonnement worden dagelijks beoordeeld en gecumuleerd.
+- Abonnementsmeters onder een Azure-plan worden dagelijks beoordeeld en gecumuleerd.
 
 - **Partnertegoed voor beheerde services** wordt dagelijks bepaald en toegepast.
 
@@ -127,17 +127,17 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 - In het voorbeeld hieronder:
 
-  - Meter die is gekwalificeerd voor **partnertegoed** voor services die worden beheerd van 1-7-07-2013 (de effectieve eenheidsprijs is de handelsprijs die lager is dan het partnertegoed.
+  - Meter die is gekwalificeerd **voor partnertegoed** voor services die worden beheerd van 7/1 - 7/3 (let op: de effectieve eenheidsprijs is de detailhandelsprijs die minder partnertegoed is.
 
-  - Meter komt niet in aanmerking voor **partnertegoed** voor services die worden beheerd op 7-7-7-2017 (de effectieve eenheidsprijs is de detailhandelsprijs).
+  - Meter komt niet in aanmerking voor **partnertegoed** voor services die worden beheerd op 7-7-7-7-2017 (de effectieve eenheidsprijs is de detailhandelsprijs).
 
   - Meter die is gekwalificeerd **voor partnertegoed** voor services die worden beheerd van 7/8 - 7/31 (let op: de effectieve eenheidsprijs is de detailhandelsprijs die minder partnertegoed is).
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
 ## <a name="invoice-in-customer-currency"></a>Factuur in klantvaluta
 
-Azure-services via een Azure-plan worden in USD gefactureerd en gefactureerd in de valuta die aan het klantland is toegewezen. Als de factureringsvaluta niet usd is, wordt het gebruikte valutatarief (Foreign Exchange) weergegeven op de laatste pagina van de factuur. FX-tarieven worden maandelijks bepaald en toegepast op de volgende factuur. Voor een volledige lijst met landvaluta bekijkt u de nieuwe commerceaanbiedingen voor de beschikbaarheid van landen en [de valutamatrix van klanten.](https://go.microsoft.com/fwlink/?linkid=2112354)
+Azure-services via een Azure-plan worden in USD geprijsd en gefactureerd in de door de klant toegewezen valuta in het land van de klant. Als de factureringsvaluta niet usd is, wordt het gebruikte valutatarief (Foreign Exchange) weergegeven op de laatste pagina van de factuur. FX-tarieven worden maandelijks bepaald en toegepast op de volgende factuur. Voor een volledige lijst met landvaluta bekijkt u de nieuwe commerceaanbiedingen voor de beschikbaarheid van landen en [de valutamatrix van klanten.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
 Microsoft volgt de London Stock Exchange voor conversie. We gebruiken de wisselkoers, die gelijk is aan de wisselkoers die is vastgelegd op de laatste seconde van de laatste werkdag van de maand op de London Stock Exchange. De FX-tarieven worden vernieuwd en beschikbaar op de dag vóór de eerste van de maand waarvoor ze van toepassing zijn.
 
@@ -157,7 +157,7 @@ De bestaande Azure-bestedingservaring wordt bijgewerkt ter ondersteuning van de 
 
 Omdat het factureringsmodel voor Azure-services via een Azure-plan gebruik na betaling is, kunnen partners een maandelijks budget toepassen en het gebruikspercentage bijhouden om een hogere factuur te voorkomen dan verwacht. Een budget kan worden toegepast op één klant of meerdere klanten tegelijk. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="Uitgaven voor Azure":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Azure-uitgaven.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
@@ -165,4 +165,4 @@ Omdat het factureringsmodel voor Azure-services via een Azure-plan gebruik na be
 
 - Meer informatie over [het kopen van het Azure-abonnement](purchase-azure-plan.md)
 
-- Bekijk de [prijslijst voor de nieuwe commerce-ervaring in CSP](azure-plan-price-list.md)
+- Zie de [prijslijst voor de nieuwe commerce-ervaring in CSP](azure-plan-price-list.md)

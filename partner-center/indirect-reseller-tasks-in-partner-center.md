@@ -4,149 +4,149 @@ ms.topic: how-to
 ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over hoe indirecte wederverkopers kunnen samen werken met micro soft indirecte providers (of distributeurs) om hulp te krijgen bij klant ondersteuning en facturering.
+description: Meer informatie over hoe indirecte resellers kunnen samenwerken met indirecte Providers (of distributeurs) van Microsoft om hulp te krijgen bij klantondersteuning en facturering.
 ms.prod: ''
 ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 2c869b35e85215c4f49e0494dddf316be6716638
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880783"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276804"
 ---
-# <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Meer informatie over hoe u partner kunt samen werken met indirecte providers in het Cloud Solution Provider-programma
+# <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Meer informatie over het samenwerken met indirecte providers in het Cloud Solution Provider programma
 
 **Juiste rollen**
 
 - Globale beheerder
 
-De snel groeiende vraag naar cloud oplossingen en-services biedt veel mogelijkheden voor micro soft-partners van elke omvang om winstgevende cloud oplossingen te bouwen. Partners die klaar zijn om de markt in te voeren, maar die geen meerdere leveranciers willen beheren of die geen end-to-end beheer infrastructuur voor klanten hebben, kunnen zich inschrijven voor het micro soft-programma voor Cloud Solution Provider (CSP) als indirecte wederverkopers.
+De snel groeiende vraag naar cloudoplossingen en -services biedt Microsoft-partners van elke omvang veel mogelijkheden om voordelige cloudoplossingsbedrijven te bouwen. Partners die klaar zijn om de markt op te gaan, maar die niet meerdere leveranciers willen beheren of die mogelijk geen end-to-end infrastructuur voor klantrelatiebeheer hebben, kunnen zich als indirecte resellers inschrijven voor het programma Cloud Solution Provider (CSP) van Microsoft.
 
-Als indirecte wederverkoper in CSP werkt u met indirecte providers (ook wel distributeurs genoemd) die een rechtstreekse relatie met micro soft hebben en u klant ondersteuning en facturering kunnen bieden. Als u werkt met indirecte providers, hoeft u niets te beginnen. In plaats daarvan kunt u samen werken met een ervaren technologie provider, zodat u zeker weet dat uw succes is geslaagd. In het model van de provider-wederverkoper (twee lagen), koopt de provider cloud oplossingen en services van micro soft. Vervolgens kunt u ze door verkopen aan klanten.
+Als indirecte reseller in CSP werkt u met indirecte providers (ook wel distributeurs genoemd) die een directe relatie met Microsoft hebben en u klantondersteuning en facturering kunnen bieden. Werken met indirecte providers betekent dat u niet zelf hoeft te beginnen. In plaats daarvan kunt u samenwerken met een ervaren technologieprovider om uw succes te garanderen. In het model provider-reseller (twee lagen) koopt de provider cloudoplossingen en -services van Microsoft. Vervolgens verkoopt u deze opnieuw aan klanten.
 
-Verschillende indirecte providers bieden diverse ondersteuning en services. Evalueer de providers in uw regio om te bepalen welke het beste aan uw behoeften voldoet. Over het algemeen zullen de meeste providers:
+Verschillende indirecte providers bieden verschillende ondersteuning en services. Evalueer de providers in uw regio om te bepalen welke het beste voldoen aan uw behoeften. Over het algemeen doen de meeste providers het volgende:
 
-- Bied u technische training en hulp
-- Hulp bij de marketing van uw producten en services
-- Hulp bij het opzetten van financiering en krediet voorwaarden
+- Technische training en hulp bieden
+- U helpen uw producten en services op de markt te brengen
+- Hulp bij het opstellen van de voorwaarden voor het maken van tegoeden
 
-Als u nog niet met een provider (ook bekend als een distributeur) werkt, kunt u in [de lijst met officiële micro soft-providers zoeken](https://partnercenter.microsoft.com/partner/find-a-provider) naar een.
+Als u nog niet met een provider werkt (ook wel bekend als distributor), kunt u in de lijst met officiële [Microsoft-providers](https://partnercenter.microsoft.com/partner/find-a-provider) zoeken naar een provider.
 
-Zie [aan de slag als een indirecte wederverkoper](https://partner.microsoft.com/cloud-solution-provider/whats-required) op de [website van Microsoft Partner Network](https://partner.microsoft.com/)voor meer informatie over wat is vereist om te verkopen in het CSP-programma als een indirecte wederverkoper.
+Zie Aan de slag als indirecte reseller op de website van [](https://partner.microsoft.com/cloud-solution-provider/whats-required) Microsoft Partner Network voor meer informatie over wat er nodig is om te verkopen in het [CSP-programma als een indirecte reseller.](https://partner.microsoft.com/)
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Enroll as an indirect reseller in the Cloud Solution Provider program (Inschrijven als een indirecte reseller in het programma Cloud Solution Provider)
 
 > [!NOTE]  
-> Als u al bent Inge schreven bij CSP, moet u mogelijk alleen contact gegevens van de klant ondersteuning bieden voor het maken van een reseller-account in het partner centrum.
+> Als u al bent ingeschreven bij CSP, hoeft u mogelijk alleen contactgegevens voor klantondersteuning op te geven om een reselleraccount te maken op de Partner Center.
 
 ### <a name="before-you-begin"></a>Voordat u begint
 
-Vanaf oktober 2020 kunnen alle micro soft-partners die nieuw zijn voor CSP, zich registreren in het CSP-programma als een indirecte wederverkoper. Vervolgens moet u een account maken in het partner centrum. Hiervoor geeft u de volgende informatie op tijdens het inschrijvings proces. Het kan een paar minuten duren voordat u deze items verzamelt voordat u aan de slag gaat:
+Vanaf oktober 2020 worden alle Microsoft-partners die nieuw zijn bij CSP, als indirecte reseller ingeschreven bij het CSP-programma. Vervolgens moet u een account maken in de Partner Center. Als u dit wilt doen, geeft u de volgende informatie op tijdens het inschrijvingsproces. Het kan een paar minuten duren voordat u aan de slag gaat met het verzamelen van deze items:
 
-- **Globale beheerders referenties voor uw werk account**
+- **Globale beheerder voor uw werkaccount**
 
-   U moet de gebruikers naam en het wacht woord opgeven die u gebruikt om u aan te melden bij Office 365, Microsoft Azure of micro soft Dynamics CRM. Als u geen werk account hebt, kunt u er een maken tijdens het inschrijvings proces. Als u niet weet of u al een werk account hebt, raadpleegt u [werk accounts en het partner centrum](azure-active-directory-tenants-and-partner-center.md).
+   U moet de gebruikersnaam en het wachtwoord opgeven die u gebruikt om u aan te melden bij Office 365, Microsoft Azure of Microsoft Dynamics CRM. Als u geen werkaccount hebt, kunt u er een maken tijdens het inschrijvingsproces. Zie Werkaccounts en de Partner Center als u niet weet of [u al een werkaccount Partner Center.](azure-active-directory-tenants-and-partner-center.md)
 
-- **De gebruikers naam en het wacht woord waarmee u zich aanmeldt bij de Partner Membership Center-site**
+- **De gebruikersnaam en het wachtwoord die u gebruikt om u aan te melden bij de Partner Membership Center site**
 
-   We gebruiken deze informatie om de Microsoft Partner Network-ID (MPN-ID) van uw bedrijf te koppelen aan uw nieuwe partner centrum-account. U kunt vervolgens uw lidmaatschaps voordelen en gegevens beheren in het partner centrum.
+   We gebruiken deze informatie om de MPN-id (Microsoft Partner Network-id) van uw bedrijf te koppelen aan uw nieuwe Partner Center account. Vervolgens kunt u de voordelen en gegevens van uw lidmaatschap in de Partner Center.
 
-- **De juridische bedrijfs naam, het adres, de primaire contact persoon en de ondersteunings Details van uw bedrijf**
+- **De juridische bedrijfsnaam, het adres, de primaire contactpersoon en de ondersteuningsgegevens van uw bedrijf**
 
-   We hebben deze informatie nodig om te bevestigen dat uw bedrijf een opgericht profiel met micro soft heeft en dat u gemachtigd bent om namens u te handelen.
+   We hebben deze informatie nodig om te bevestigen dat uw bedrijf een ingesteld profiel heeft met Microsoft en dat u gemachtigd bent om namens u te handelen.
 
-   Het kan ons enkele dagen duren om de door u verstrekte informatie te controleren en te controleren. We sturen een e-mail naar uw primaire contact persoon wanneer onze beoordeling is voltooid.
+   Het kan enkele dagen duren voordat de gegevens die u hebt opgegeven, zijn gecontroleerd en geverifieerd. We sturen uw primaire contactpersoon een e-mail wanneer we onze beoordeling hebben voltooid.
 
 ### <a name="get-started"></a>Aan de slag
 
-1. Als u het inschrijvings proces wilt starten, gaat u naar de [**welkomst pagina**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) om u te registreren.
+1. Als u het inschrijvingsproces wilt starten, gaat u naar de [**welkomstpagina om u**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) te registreren.
 
-2. Bekijk de **welkomst pagina** om er zeker van te zijn dat u de informatie hebt die u nodig hebt om u te registreren en selecteer vervolgens **volgende**.
+2. Bekijk de **welkomstpagina** om er zeker van te zijn dat u de informatie hebt die u nodig hebt om u in te schrijven en selecteer **vervolgens Volgende.**
 
-3. Meld u aan met uw werk account: de gebruikers naam en het wacht woord die u gebruikt om u aan te melden als een globale beheerder voor Office 365, Microsoft Azure of micro soft Dynamics CRM. Als u geen werk account hebt, selecteert u **er een maken** om er een in te stellen. Nadat u uw werk account hebt gemaakt, meldt u zich aan met de referenties van de globale beheerder voor uw nieuwe account.
+3. Aanmelden met uw werkaccount: de gebruikersnaam en het wachtwoord die u gebruikt om u aan te melden als globale beheerder voor Office 365, Microsoft Azure of Microsoft Dynamics CRM. Als u geen werkaccount hebt, selecteert u **Er een maken** om er nu een in te stellen. Nadat u uw werkaccount hebt gemaakt, meld u zich aan met de referenties van de globale beheerder voor uw nieuwe account.
   
 
-4. Het juridische zakelijke profiel van uw bedrijf, de primaire contact gegevens en informatie over de klant ondersteuning opgeven of bijwerken. (Als u uw juridische Bedrijfs gegevens wilt vinden, selecteert u **organisatie profiel** en selecteert u **juridische gegevens**.) Selecteer **nu registreren**.
+4. Geef het juridische bedrijfsprofiel, de primaire contactgegevens en de klantondersteuningsgegevens van uw bedrijf op of werk het bij. (Als u uw juridische bedrijfsgegevens wilt vinden, selecteert **u Organisatieprofiel** en selecteert u **vervolgens Juridische gegevens**.) Selecteer **Nu inschrijven.**
 
-   De primaire contact persoon is degene die in uw bedrijf kan worden gecontacteerd met betrekking tot uw toepassing. Het kan u of een andere persoon in uw bedrijf zijn. Opmerking: we accepteren geen e-mail adressen van e-mail services op Internet zoals Gmail, Yahoo! E-mail, iCloud-mail, AOL-mail of Outlook-e-mail.
+   De primaire contactpersoon is de persoon in uw bedrijf met wie we contact kunnen opnemen over uw toepassing. Dit kan u of een andere persoon in uw bedrijf zijn. Opmerking: we accepteren geen e-mailadressen van webgebaseerde e-mailservices zoals Gmail, Yahoo! Mail, iCloud Mail, AOL Mail of Outlook Mail.
 
    > [!IMPORTANT]  
-   > Om de beveiliging en privacy van uw bedrijf te garanderen, sturen we uw primaire contact persoon een e-mail om te verifiëren dat (1) hij of zij zich heeft aangemeld voor een partner centrum-account, en (2) dat dit e-mail adres tot uw bedrijf behoort. Nadat de primaire contact persoon zijn of haar e-mail adres heeft geverifieerd, gaan we verder met de door u verstrekte informatie. Er worden updates voor de inschrijvings status verzonden naar de primaire contact persoon.
+   > Om de beveiliging en privacy van uw bedrijf te waarborgen, sturen we een e-mail naar uw primaire contactpersoon om te controleren of (1) hij of zij zich heeft aangemeld voor een Partner Center-account en (2) dat dit e-mailadres bij uw bedrijf hoort. Nadat de primaire contactpersoon zijn of haar e-mailadres heeft geverifieerd, gaan we verder met het controleren van de gegevens die u hebt opgegeven. We sturen updates van de inschrijvingsstatus per e-mail naar de primaire contactpersoon.
 
-5. Koppel uw MPN-ID aan uw CSP-account. Uw CSP-account en de bijbehorende MPN-ID moeten zich in hetzelfde land bevinden en uw MPN-ID moet zich in het partner centrum.
+5. Koppel uw MPN-id aan uw CSP-account. Uw CSP-account en de bijbehorende MPN-id moeten zich in hetzelfde land bevinden en uw MPN-id moet zich in hetzelfde Partner Center.
   
 
-   a. Meld u aan bij partner centrum met de referenties van uw MPN-account (uw MPN-referenties kunnen afwijken van uw CSP-referenties).
+   a. Meld u Partner Center aan met uw MPN-accountreferenties (uw MPN-referenties kunnen verschillen van uw CSP-referenties).
    
-   b. Ga naar **instellingen**  ->  **account instellingen**  ->  **organisatie profiel-**  ->  **id's**.
+   b. Ga naar **Instellingen**  ->  **Accountinstellingen**  ->  **Organisatieprofiel-id's.**  ->  
  
-    c. Zoek de MPN-ID van het type "locatie" die overeenkomt met het land van dit CSP-account. 
+    c. Zoek de MPN-id met het type 'Locatie' die overeenkomt met het land van dit CSP-account. 
 
-    d. Als u de locatie MPN-ID die overeenkomt met de CSP-account die u wilt gebruiken niet kunt vinden, kunt u een nieuwe locatie toevoegen waarmee een nieuwe MPN-ID wordt gemaakt. Meer informatie over het [beheren van locaties](manage-locations.md).
+    d. Als u de MPN-locatie-id die overeenkomt met het CSP-account dat u wilt gebruiken niet kunt vinden, kunt u een nieuwe locatie toevoegen waarmee een nieuwe MPN-id wordt gemaakt. Meer informatie: [Locaties beheren.](manage-locations.md)
 
-    e. U kunt deze stap nu uitstellen, maar het is niet mogelijk om micro soft Partner Agreement (MPA) of Transact in CSP te ondertekenen, totdat u de MPN-ID aan uw CSP-account hebt gekoppeld.
+    e. U kunt deze stap voorlopig uitstellen, maar u kunt geen Microsoft Partner-overeenkomst(MPA) of transact in CSP ondertekenen totdat u uw MPN-id aan uw CSP-account hebt koppelen.
 
  > [!IMPORTANT]  
- > Selecteer de MPN-ID die beschikbaar is in partner centrum en in hetzelfde land als uw CSP-account en zorg ervoor dat uw MPN-ID zich in partner centrum bevindt.
+ > Selecteer de MPN-id die beschikbaar is in Partner Center en in hetzelfde land als uw CSP-account en zorg ervoor dat uw MPN-id zich in de Partner Center.
 
-6. Nadat micro soft de verificatie van de inschrijving heeft voltooid die 3-5 werk dagen in beslag neemt, ondertekent u de micro soft-partner overeenkomst in het [dash board van het partner centrum](https://partner.microsoft.com/pcv/dashboard/overview) met de referenties van de globale beheerder. Als u de **micro soft-partner overeenkomst** wilt bekijken en downloaden voordat u deze ondertekent, klikt u op de koppeling voor de micro soft-partner overeenkomst, zoals hieronder  Als uw account na 5 werk dagen is vastgelopen, leest u [het account verificatie proces](verification-responses.md).
+6. Nadat Microsoft uw registratieverificatie heeft voltooid die 3-5 werkdagen duurt, ondertekent u de Microsoft Partner-overeenkomst in het overzicht van Partner Center [dashboard](https://partner.microsoft.com/pcv/dashboard/overview) met de referenties van de globale beheerder. Als u de Microsoft Partner-overeenkomst wilt **weergeven** en downloaden voordat u deze ondertekent, klikt u op Microsoft Partner-overeenkomst koppeling zoals hieronder wordt weergegeven.  Als uw account na vijf werkdagen vastloopt in de verificatie, leest u [Het verificatieproces voor het account.](verification-responses.md)
 
 
-:::image type="content" source="images/agreement-three.png" alt-text="Nieuwe locatie van de MPA-overeenkomst":::
+:::image type="content" source="images/agreement-three.png" alt-text="Nieuwe locatie van MPA-overeenkomst.":::
 
  
-7. Bevestig dat u de micro soft-partner overeenkomst hebt ondertekend in het gedeelte met **programma gegevens** van het Partner profiel. U ziet ook een melding over een bericht met een waarschuwing op de overzichts pagina van CSP. 
+7. Controleer of u het profiel hebt Microsoft Partner-overeenkomst de sectie **Programmagegevens** van partnerprofiel. U ziet ook een bevestigingsbannermelding op de CSP-overzichtspagina. 
 
-:::image type="content" source="images/mpagreen.png" alt-text="Groene, geaccepteerde banner":::
+:::image type="content" source="images/mpagreen.png" alt-text="Groen geaccepteerde banner.":::
 
 
-8. Als uw partner centrum-account klaar is voor gebruik, controleert u of u bent toegevoegd aan de groep Administrator-agent. Als u het instellen van uw account wilt volt ooien, inclusief het toevoegen van andere gebruikers, moet u machtigingen hebben voor de beheerders agent. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
+8. Wanneer uw Partner Center account gereed is voor gebruik, controleert u of u bent toegevoegd aan de beheeragentgroep. Als u het instellen van uw account wilt voltooien, inclusief het toevoegen van andere gebruikers, moet u beheerdersagentmachtigingen hebben. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
 
-   1. Selecteer het pictogram **instellingen** in het dash board van de partner centrum en selecteer vervolgens **gebruikers beheer** onder **account instellingen**.
+   1. Selecteer in Partner Center dashboard het pictogram **Instellingen** en selecteer vervolgens onder **Accountinstellingen** de optie **Gebruikersbeheer.**
 
-   2. Selecteer uw naam in de lijst met gebruikers. Selecteer vervolgens **beheer agent** als deze nog niet is geselecteerd. Selecteer **Update**.
+   2. Selecteer uw naam in de lijst met gebruikers. Selecteer vervolgens **Beheeragent** als deze nog niet is geselecteerd. Selecteer **Update**.
 
 ## <a name="connect-with-an-indirect-provider"></a>Verbinding maken met een indirecte-provider
 
-Samenwerking met een indirecte provider maakt het mogelijk om een bredere selectie van cloudservices en -oplossingen van Microsoft aan te bieden aan uw klanten. Indirecte providers hebben de systemen en infra structuur om een robuust niveau van facturering en ondersteuning te bieden. Op deze manier kunt u zich richten op uw technologie oplossingen en klant afspraken.
+Samenwerking met een indirecte provider maakt het mogelijk om een bredere selectie van cloudservices en -oplossingen van Microsoft aan te bieden aan uw klanten. Indirecte providers hebben de systemen en infrastructuur om een robuust niveau van facturering en ondersteuning te bieden. Als u er op deze manier op vertrouwt, kunt u zich richten op uw technologische oplossingen en klantbetrokkenheid.
 
-Als u nog niet met een provider (ook bekend als een distributeur) werkt, kunt u in [de lijst met officiële micro soft-providers zoeken](https://partnercenter.microsoft.com/partner/find-a-provider) naar een. Wanneer u een provider hebt gevonden waarmee u een partner wilt maken, neemt u rechtstreeks contact op met hen om hun wederverkoper-Program ma's, ondersteunings niveau en voor waarden te bespreken. Als zowel u als de provider wilt samen werken, moet u verbinding maken met uw accounts in het partner centrum.
+Als u nog niet met een provider werkt (ook wel bekend als distributor), kunt u in de lijst met officiële [Microsoft-providers](https://partnercenter.microsoft.com/partner/find-a-provider) zoeken naar een provider. Wanneer u een provider vindt met wie u een partner wilt werken, kunt u rechtstreeks contact met hen opnemen om hun resellerprogramma's, ondersteuningsniveau en voorwaarden te bespreken. Als u en de provider beide willen samenwerken, moet u uw accounts op de Partner Center.
 
-Als een indirecte provider met u verbinding wil maken in het partner centrum, gaan ze de volgende werk stroom starten:
+Als een indirecte provider verbinding met u wil maken op de Partner Center, starten ze de volgende werkstroom:
 
-1. De indirecte provider stuurt u een uitnodiging om ze te autoriseren als uw indirecte provider. Het e-mail bericht bevat een koppeling naar het partner centrum en zal uw account koppelen aan het account van de provider.
+1. De indirecte provider e-mailt u een uitnodiging om hen te machtigen uw indirecte provider te zijn. Het e-mailbericht bevat een koppeling naar Partner Center en koppelt uw account aan het account van de provider.
 
-2. Als u de uitnodiging wilt accepteren, volgt u de koppeling in het e-mail adres van de provider. Mogelijk moet u zich opnieuw aanmelden bij het partner centrum.
+2. Als u de uitnodiging wilt accepteren, volgt u de koppeling in het e-mailadres van de provider. Mogelijk moet u zich opnieuw aanmelden bij de Partner Center.
 
-3. Als u de verbinding met de provider wilt bevestigen, schakelt u het selectie vakje in en selecteert u **indirecte provider autoriseren**. De provider wordt nu weer gegeven op de pagina met **indirecte providers** en uw bedrijf wordt nu weer gegeven op de pagina met **indirecte wederverkopers** van de provider.
+3. Schakel het selectievakje in om de samenwerking met de provider te bevestigen en selecteer **vervolgens Indirecte provider machtigen.** De provider wordt nu vermeld op de pagina **indirecte providers** en uw bedrijf wordt nu vermeld op de pagina **Indirecte resellers van de** provider.
 
    > [!NOTE]  
-   > Wanneer u een samen werking met een indirecte provider tot stand brengt, autoriseert u deze om bestellingen te verzenden en abonnementen toe te voegen namens uw klanten, en u de beheerder toegang verleent tot het werk account van uw bedrijf. Nadat de verbinding met de provider tot stand is gebracht, kunt u de beheerders toegang van de provider voor uw werk account in de Office 365-Portal verwijderen.
+   > Wanneer u een partnerschap met een indirecte provider tot stand wilt brengen, autoriseert u deze om orders in te dienen en abonnementen toe te voegen namens uw klanten, en verleent u hen beheerderstoegang tot het werkaccount van uw bedrijf. Nadat uw samenwerking met de provider tot stand is gebracht, kunt u de beheerderstoegang van de provider tot uw werkaccount in de Office 365-portal verwijderen.
 
-4. Selecteer **indirecte providers** in het menu van het **partner centrum** om een lijst weer te geven van de providers waarmee u een relatie hebt.
+4. Selecteer **Indirecte providers** in uw **Partner Center** om een lijst weer te geven met de providers met wie u een partnerschap hebt.
 
-5. Selecteer **klanten weer geven** om een lijst weer te geven van de klanten die u en de provider delen.
+5. Selecteer **Klanten weergeven om** een lijst weer te geven met de klanten die u en de provider delen.
 
-6. Selecteer **nieuwe klanten uitnodigen** om een nieuwe klant te vragen reseller relaties met zowel u als uw indirecte provider tegelijk te autoriseren. Zorg ervoor dat het e-mail adres van de klant aan de voor Raad is, zodat u de uitnodiging kunt verzenden naar hen.  
+6. Selecteer **Nieuwe klanten uitnodigen** om een nieuwe klant te vragen om tegelijkertijd resellerrelaties met u en uw indirecte provider toe te laten. Zorg ervoor dat u het e-mailadres van de klant bij de hand hebt, zodat u de uitnodiging per e-mail kunt verzenden.  
 
    > [!IMPORTANT]  
-   > Uw indirecte provider moet een reseller-relatie hebben met uw klanten om namens hen bestellingen te kunnen indienen.
+   > Uw indirecte provider moet een resellerrelatie hebben met uw klanten om namens hen orders in te dienen.
 
-## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>Uw CSP-land en de CSP-regio's waar u zakendoet
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>Uw CSP-land en de CSP-regio's waar u zaken doet
 
-De locatie van uw bedrijf als een indirecte dealer van CSP bepaalt de indirecte providers met wie u kunt werken en de regio's waar u de CSP-onderneming kunt doen. Lees meer over de [regionale markten en valuta's van het programma Cloud Solution Provider Program waarin u CSP-aanbiedingen kunt verkopen](regional-authorization-overview.md).
+Uw juridische bedrijfslocatie als indirecte CSP-reseller bepaalt met welke indirecte providers u kunt werken, evenals de regio's waar u CSP-zaken kunt doen. Lees voor meer informatie [Cloud Solution Provider programma regionale markten en valuta's waar u CSP-aanbiedingen kunt verkopen.](regional-authorization-overview.md)
 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Hoe indirecte providers hun wederverkopers kunnen helpen bij het aannemen van de micro soft-partner overeenkomst-Veelgestelde vragen](mpa-indirect-provider-faq.md)
+- [Hoe indirecte providers hun wederverkopers kunnen helpen de Microsoft Partner-overeenkomst - Veelgestelde vragen](mpa-indirect-provider-faq.md)
 
 - [Microsoft Partner-overeenkomst](microsoft-partner-agreement.md)
 
-- [Het proces voor account verificatie](verification-responses.md)
+- [Het verificatieproces van het account](verification-responses.md)
 
 - [Uw Partner Center-account beheren](partner-center-account-setup.md)
 
@@ -154,7 +154,7 @@ De locatie van uw bedrijf als een indirecte dealer van CSP bepaalt de indirecte 
 
 - [Een bedrijfsprofiel maken](create-a-marketing-profile.md)
 
-- [Meer informatie over het verificatie proces](verification-responses.md)
+- [Meer informatie over het verificatieproces](verification-responses.md)
 
-- [Zie vereisten voor de directe factuur partner](direct-partner-new-requirements.md)
+- [Zie Partnervereisten voor directe factuur](direct-partner-new-requirements.md)
 
