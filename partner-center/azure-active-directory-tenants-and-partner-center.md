@@ -8,17 +8,17 @@ author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.date: 11/25/2019
-ms.openlocfilehash: a06a38ef9d96b4c2a1e95328d510eb2fd71ff0e3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 6/17/2021
+ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149839"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112318058"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Een werkaccount maken dat uw bedrijf koppelt aan uw Partner Center account
 
-**Juiste rollen:** Globale | Beheerder van gebruikersbeheer
+**Juiste rollen:** globale | Beheerder van gebruikersbeheer
 
 ## <a name="why-you-need-a-work-account"></a>Waarom u een werkaccount nodig hebt
 
@@ -26,12 +26,12 @@ Microsoft vereist dat u het werkaccount van uw bedrijf koppelt aan uw nieuwe Par
 
 ## <a name="the-work-account-email-address"></a>Het e-mailadres van het werkaccount
 
-Uw werkaccount of werke-mail is het e-mailadres dat u van uw bedrijf ontvangt. Een e-mail voor een werkaccount heeft meestal de indeling `you@yourcompany.com` . Persoonlijke e-mailadressen, zoals Hotmail, Gmail of Yahoo, zijn geen werk-e-mail en kunnen niet worden gebruikt voor uw Partner Center account.
+Uw werkaccount of werk-e-mailadres is het e-mailadres dat u van uw bedrijf ontvangt. Een e-mailadres van een werkaccount heeft meestal de indeling `you@yourcompany.com` . Persoonlijke e-mailadressen, zoals Hotmail, Gmail of Yahoo, zijn geen werk-e-mail en kunnen niet worden gebruikt voor uw Partner Center account.
 
-Als u meer dan één geldig zakelijk e-mailadres hebt, gebruikt u het e-mailadres dat is gekoppeld aan uw hoofdkantoor in plaats van de regionale afdeling. Gebruik bijvoorbeeld uw e-mailadres in plaats van `contoso.com` het `contoso.uk` adres.
+Als u meer dan één geldig zakelijk e-mailadres hebt, gebruikt u het adres dat is gekoppeld aan uw hoofdkantoor in plaats van de regionale afdeling. Gebruik bijvoorbeeld uw e-mailadres in plaats van `contoso.com` het `contoso.uk` adres.
 
 > [!NOTE]  
-> Voordat u besluit een bestaand werkaccount te gebruiken, moet u nadenken over het aantal gebruikers in het account dat in uw Partner Center. Als u gebruikers in het account hebt die niet in Partner Center hoeven te werken, kunt u overwegen om een nieuw account te maken voor alleen de gebruikers die in de Partner Center.
+> Voordat u een bestaand werkaccount gebruikt, moet u bedenken hoeveel gebruikers in het werkaccount toegang moeten hebben tot Partner Center. Als u gebruikers in het werkaccount hebt die geen toegang nodig hebben tot Partner Center, kunt u overwegen om een nieuw account te maken voor alleen de gebruikers die toegang Partner Center nodig hebben.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Weet u niet zeker of uw bedrijf al een werkaccount heeft?
 
@@ -39,7 +39,7 @@ Als u niet zeker weet of uw bedrijf een werkaccount heeft, volgt u deze stappen 
 
 1. Meld u aan bij de [Azure-portal](https://portal.azure.com).
 
-2. Selecteer Azure Active Directory in het menu en selecteer vervolgens Domeinnamen.
+2. Selecteer Azure Active Directory in het navigatiemenu en selecteer **Custom Domain Namen.**
 
 3. Als u al een werkaccount hebt, wordt uw domeinnaam weergegeven.
 
