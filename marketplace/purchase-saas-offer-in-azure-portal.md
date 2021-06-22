@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/04/2021
-ms.openlocfilehash: b73a9acb7b9cf9eee1151de1f8e45f6fd6ef256f
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 8dba9f95607a4172e6d5d0bc2ec148a25b599cd1
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373491"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431450"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Een SaaS-aanbieding kopen in Azure Portal
 
@@ -105,14 +105,14 @@ Foutberichten die u tijdens het proces tegenkomt:
   - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, kunt u contact opnemen met de ondersteuning. 
 
 - Het *e-mailadres van de* client met object-id *ObjectID* is niet autorisatie om de actie *DeploymentValidationAction uit* te voeren via scope *ResourceGroup; DeploymentScope* of het bereik is ongeldig.  
-  - U krijgt dit bericht als u niet de juiste machtigingen hebt voor het Azure-abonnement/de azure-resourcegroep.  
-    Als u onlangs toegang hebt gekregen, vernieuwt u uw referenties.  
-    Als u resources wilt implementeren in een resourcegroep, moet u ten minste inzenderstoegang hebben. Controleer uw toegangsstatus onder **Resourcegroepen** en klik **vervolgens Access Control.** Hier ziet u wie de 'eigenaar' is, die u kunt vragen om u toe te wijzen als 'Inzender'.
+  - U krijgt dit bericht als u niet de juiste machtigingen hebt voor het Azure-abonnement/de resourcegroep.  
+    Als er onlangs toegang is verleend, vernieuwt u uw referenties.  
+    Als u resources wilt implementeren in een resourcegroep, moet u ten minste inzenderstoegang hebben. Controleer uw toegangsstatus onder **Resourcegroepen** en klik **Access Control.** Hier ziet u wie de 'eigenaar' is, die u kunt vragen om u toe te wijzen als 'Inzender'.
 
 - Het abonnement dat voor deze aankoop wordt gebruikt, staat geen Marketplace-aankopen toe.  
   - Gebruik een ander abonnement of vraag uw beheerder om de definitie voor dit abonnement te wijzigen en het opnieuw te proberen.
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Als u uw aanbieding via Microsoft verkoopt, gaat u naar Een [preview-doelgroep toevoegen voor uw SaaS-aanbieding.](/azure/marketplace/create-new-saas-offer-preview)
-- Ga anders naar [Uw SaaS-aanbieding verkopen.](/azure/marketplace/create-new-saas-offer-marketing)
+- Als u al een aanbieding hebt aangeschaft in marketplace, gaat u naar [Facturering en facturering](/marketplace/billing-invoicing)
+- U vindt hier ook meer informatie over [opties voor persoonlijke](/marketplace/private-offers) abonnementen.

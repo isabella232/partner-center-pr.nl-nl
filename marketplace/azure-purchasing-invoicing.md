@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276498"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431548"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace aanschaffen
 
@@ -30,6 +30,9 @@ Nadat u de juiste softwaretoepassing hebt gevonden, is het voltooien van de aank
 Voordat u een aankoop voltooit, moet u ervoor zorgen dat de gebruiker de juiste configuratie heeft in de Azure-tenant. Dit helpt bij het voorkomen van fouten tijdens de aankoop.
 
 Zoek in Azure Marketplace in de Azure Portal de toepassing die u wilt kopen  en selecteer Maken of **Instellen en abonneren.** U wordt gevraagd om wat informatie in te vullen voordat u uw nieuwe oplossing kunt gebruiken.
+
+> [!CAUTION]
+> Goedkeuring in Private Marketplace duidt niet op de aanschaf van een oplossing.
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="De knop Maken van aanbieding.":::
 

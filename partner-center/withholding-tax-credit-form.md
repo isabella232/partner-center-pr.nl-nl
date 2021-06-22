@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 05bf6e09c5dc5982c3faa3e426f7b99acfc09949
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276362"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431726"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Tegoed ontvangen op uw Partner Center-account voor belasting
 
@@ -22,7 +22,7 @@ ms.locfileid: "112276362"
 
 ## <a name="overview"></a>Overzicht
 
-CSP-partners in sommige landen ontvangen factuurbedragen met belastingen. Sommige van deze partners betalen hun lokale btw-instantie in plaats van Microsoft. Als u uw lokale btw-instantie betaalt, moet u een aanvraag voor belasting indienen, inclusief uw belastingcertificaat om het belaste bedrag van eerdere facturen te kunnen leeg maken. Deze gewiste bedragen worden weergegeven in de **kolom Laatste betaling** op de pagina **Facturering** in Partner Center.
+Cloud Solution Provider (CSP)-partners in sommige landen ontvangen factuurbedragen met btw. Sommige van deze partners betalen hun lokale btw-instantie in plaats van Microsoft. Als u uw lokale btw-instantie betaalt, moet u een aanvraag voor belasting indienen, inclusief uw belastingcertificaat om het belaste bedrag van eerdere facturen te kunnen leeg maken. Deze gewiste bedragen worden weergegeven in de **kolom Laatste betaling** op de pagina **Facturering** in Partner Center.
 
 Partners die worden gebruikt om aanvragen voor belasting in te dienen door serviceaanvragen (partnerondersteuningstickets) te maken in Partner Center. Dit proces is in januari 2020 gewijzigd. CSP-partners moeten nu belastingsaanvragen indienen op de pagina **Facturering** in plaats van ondersteuningsaanvragen te maken.
 
@@ -37,7 +37,7 @@ Volg deze stappen om een nieuwe belasting in te dienen:
 
 2. Kies in het menu aan de linkerkant **Facturering en** ga naar **Factureringsgeschiedenis.**
 
-3. Klik **op Nieuwe verzenden** naast de factuur voor wie u een machtiging wilt indienen. Met de koppeling Nieuwe belasting indienen gaat u naar **de pagina Nieuwe aanvraag voor belasting.**
+3. Selecteer **Nieuwe verzenden** naast de factuur voor wie u een machtiging wilt indienen. Met de koppeling Nieuwe belasting indienen gaat u naar **de pagina Nieuwe aanvraag voor belasting.**
 
    :::image type="content" source="images/wht1.png" alt-text="Verzend Nieuwe belasting voor een factuur.":::
 
@@ -68,7 +68,7 @@ Het beoordelingsteam kan vereisen dat u correcties moet toepassen en een aanvraa
 
 3. Zoek op **de** factureringsgeschiedenis **van de pagina Facturering** de aanvraag voor holding. Aanvragen die uw aandacht nodig hebben, hebben de status 'Partneractie in behandeling'.
 
-4. Klik op de aanvraag-id voor belasting en de status van de aanvraag om naar de pagina van de aanvraag te gaan.
+4. Selecteer de aanvraag-id voor belasting en de status die u naar de pagina van de aanvraag sturen.
 
 5. Selecteer **Bijwerken en opnieuw inzenden** onder **Status.**
 
@@ -101,11 +101,11 @@ Partners die aanvragen voor Duitse belasting indienen, moeten onthouden om harde
 - Microsoft EMEA Operations Centre
 - Eén Microsoft-plaats,
 - South County Business Park
-- 18, Dublin 18, Ierland
+- 18, Dublin, Ierland
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Vragen en hulp bij aanvragen voor belasting
 
-Partners moeten het hierboven beschreven nieuwe proces gebruiken om nieuwe aanvragen in te dienen en geen ondersteuningsaanvragen meer te maken voor nieuwe aanvragen voor belasting. Partners met aanvullende vragen over aanvragen voor belasting kunnen [ondersteuningsaanvragen indienen.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Ondersteuningsaanvragen zijn bedoeld om partners te helpen bij bestaande aanvragen, zodat ze hun **aanvraag-id** nodig hebben om een nieuw ticket in te dienen. Als partners geen aanvraag kunnen indienen via het nieuwe proces, moeten ze een nummer (alle enen) invoeren in het formulier voor ondersteuningsaanvraag. 
+Partners moeten het nieuwe proces dat hierboven wordt beschreven, gebruiken om nieuwe aanvragen in te dienen en geen ondersteuningsaanvragen meer te maken voor nieuwe aanvragen voor belasting. Partners met meer vragen over aanvragen voor belasting kunnen [ondersteuningsaanvragen indienen.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Ondersteuningsaanvragen zijn bedoeld om partners te helpen bij bestaande aanvragen, zodat ze hun **aanvraag-id** nodig hebben om een nieuw ticket in te dienen. Als partners geen aanvraag kunnen indienen met behulp van het nieuwe proces, moeten ze een aantal (alle enen) invoeren in het formulier voor ondersteuningsaanvraag. 
 
    > [!IMPORTANT]
    > Partners hoeven geen contact op te nemen met de ondersteuning als hun aanvraagstatus **Voltooid is.** Deze status wordt vermeld in de **factureringsgeschiedenis** naast de factuur voor de verzending. **De laatste betalingsbedragen** naast de factuur moeten het holdingbedrag weerspiegelen binnen tien dagen nadat de aanvraag is gemarkeerd als **Voltooid.**

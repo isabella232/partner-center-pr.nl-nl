@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 1a7d5f3169c4b338a07475a7e246e87841b8dcfb
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794952"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431559"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informatie over het lezen van de regelitems in uw Partner Center afstemmingsbestanden
 
@@ -41,12 +41,12 @@ Af en toe kan een afstemmingsbestand opmaakproblemen bevatten. Dit probleem kan 
 
 Volg deze stappen om eventuele opmaakproblemen in uw afstemmingsbestanden op te lossen:
 
-1. Open het afstemmingsbestand (in CSV-indeling) in Microsoft Excel.
+1. Open het afstemmingsbestand (in .csv indeling) in Microsoft Excel.
 2. Selecteer de eerste kolom in het bestand.
 3. Open de **wizard Tekst converteren naar kolommen.** Selecteer op het lint **Gegevens** en selecteer vervolgens Tekst **naar kolommen.**
 4. Selecteer in de wizard **Bestandstype met scheidingstekens.** Selecteer vervolgens **Volgende**.
 5. Selecteer in **het veld Scheidingstekens** de optie **Komma**. (Als **Tab** al is geselecteerd, kunt u deze optie ingeschakeld laten.) Selecteer vervolgens **Volgende.**
-6. Selecteer  **datum:MDY** in het veld Kolomgegevensindeling. Selecteer vervolgens **Volgende**.
+6. Selecteer **datum:MDY** **in** het veld Kolomgegevensindeling. Selecteer vervolgens **Volgende**.
 7. Selecteer in **het veld Kolomgegevensindeling** de optie **Tekst** voor alle hoeveelheid kolommen. Selecteer vervolgens **Voltooien**.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Afstemmingsbestanden programmatisch downloaden
@@ -60,8 +60,8 @@ Als u een afstemmingsbestand kunt downloaden maar niet kunt openen in Microsoft 
 ### <a name="open-a-recon-file-in-power-bi"></a>Open een reconbestand in Power BI
 
 1. Download het afstemmingsbestand zoals u dat normaal zou doen.
-2. Download, installeer en open een exemplaar van Power BI.
-3. Selecteer op Power BI **tabblad Start** de optie **Gegevens op halen.**
+2. Download, installeer en open een exemplaar van Microsoft Power BI.
+3. Selecteer op Power BI **tabblad Start** de optie **Gegevens verzamelen.**
 4. Selecteer **Tekst/CSV** **in** de lijst met algemene gegevensbronnen.
 5. Open het reconbestand wanneer u daarom wordt gevraagd.
 
@@ -70,8 +70,8 @@ Als u een afstemmingsbestand kunt downloaden maar niet kunt openen in Microsoft 
 1. Download het afstemmingsbestand zoals u dat normaal zou doen.
 2. Open een nieuw bestand in Microsoft Excel.
 3. Selecteer op **het** tabblad Gegevens de optie **Gegevens downloaden,** selecteer **Uit bestand** en selecteer vervolgens **Tekst/CSV.**
-4. Wanneer u hier om wordt gevraagd, opent u het recon-bestand. Uw gegevens worden weergegeven.
-5. Selecteer in **de** vervolgkeuzelijst Laden de optie **Laden naar** en vervolgens **OK.**
+4. Open het reconbestand wanneer u daarom wordt gevraagd. Uw gegevens worden weergegeven.
+5. Selecteer in **de** vervolgkeuzelijst Laden de optie **Laden naar** en selecteer vervolgens **OK.**
 6. Selecteer in **het dialoogvenster Gegevens** importeren de optie **Draaitabelrapport om** het bestand te openen.
 
 ## <a name="negative-amount-displayed"></a>Negatief bedrag weergegeven
@@ -94,18 +94,18 @@ Belastingen of btw-waarde (BTW) aan uw factuur toe te voegen:
 
 Partners in het **indirecte model kunnen** deze aanvullende velden gebruiken in zowel op licenties gebaseerde als op gebruik gebaseerde afstemmingsbestanden om de bestanden per reseller te itemeren.
 
-| MPN-id | Description |
+| MPN-id | Beschrijving |
 | ------ | ----------- |
 | MPN-id | De Microsoft Partner Network (MPN)-id van de Cloud Solution Provider (CSP)-partner (direct of indirect). |
 | [MPN-id van reseller](#reseller-mpn-id) | De [MPN-id van de reseller van de record voor het abonnement](#reseller-mpn-id). Dit veld komt overeen met de reseller-id die wordt vermeld voor het specifieke abonnement in Partner Center. Wordt alleen weergegeven in afstemmingsbestanden voor partners in het indirecte model. |
 
-### <a name="reseller-mpn-id"></a>MPN-id van reseller
+### <a name="reseller-mpn-id"></a>MPN-id voor reseller
 
-Als een CSP-partner het abonnement rechtstreeks aan de klant heeft verkocht, wordt de **MPN-id** twee keer weergegeven, zowel als de **MPN-id** en de **MPN-id** van de reseller.
+Als een CSP-partner het abonnement rechtstreeks aan de klant heeft verkocht, wordt de **MPN-id** twee keer vermeld, zowel als de **MPN-id** van de reseller en de **MPN-id** van de reseller.
 
 Als een CSP-partner een reseller zonder **MPN-id** heeft, wordt deze waarde in plaats daarvan ingesteld op de **MPN-id van de partner.**
 
-Als de CSP-partner een **MPN-id voor** resellers verwijdert, wordt deze waarde ingesteld *op -1.*
+Als de CSP-partner een **MPN-id** voor resellers verwijdert, wordt deze waarde ingesteld *op -1.*
 
 Als u de MPN-id van **de reseller wilt weergeven of bijwerken:**
 
