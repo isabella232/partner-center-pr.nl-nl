@@ -1,21 +1,20 @@
 ---
 title: Werken met indirecte providers in het CSP-programma
+description: Meer informatie over hoe indirecte resellers kunnen samenwerken met indirecte Providers (of distributeurs) van Microsoft om hulp te krijgen bij klantondersteuning en facturering.
 ms.topic: how-to
-ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over hoe indirecte resellers kunnen samenwerken met indirecte Providers (of distributeurs) van Microsoft om hulp te krijgen bij klantondersteuning en facturering.
-ms.prod: ''
 ms.custom: contperf-fy21q2
+ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
-ms.localizationpriority: high
-ms.openlocfilehash: 2c869b35e85215c4f49e0494dddf316be6716638
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.date: 01/27/2021
+ms.openlocfilehash: f460ab4a692c9e8b515e361f3a18c4c240177b62
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276804"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450833"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Meer informatie over het samenwerken met indirecte providers in het Cloud Solution Provider programma
 
@@ -67,7 +66,6 @@ Vanaf oktober 2020 worden alle Microsoft-partners die nieuw zijn bij CSP, als in
 2. Bekijk de **welkomstpagina** om er zeker van te zijn dat u de informatie hebt die u nodig hebt om u in te schrijven en selecteer **vervolgens Volgende.**
 
 3. Aanmelden met uw werkaccount: de gebruikersnaam en het wachtwoord die u gebruikt om u aan te melden als globale beheerder voor Office 365, Microsoft Azure of Microsoft Dynamics CRM. Als u geen werkaccount hebt, selecteert u **Er een maken** om er nu een in te stellen. Nadat u uw werkaccount hebt gemaakt, meld u zich aan met de referenties van de globale beheerder voor uw nieuwe account.
-  
 
 4. Geef het juridische bedrijfsprofiel, de primaire contactgegevens en de klantondersteuningsgegevens van uw bedrijf op of werk het bij. (Als u uw juridische bedrijfsgegevens wilt vinden, selecteert **u Organisatieprofiel** en selecteert u **vervolgens Juridische gegevens**.) Selecteer **Nu inschrijven.**
 
@@ -78,30 +76,26 @@ Vanaf oktober 2020 worden alle Microsoft-partners die nieuw zijn bij CSP, als in
 
 5. Koppel uw MPN-id aan uw CSP-account. Uw CSP-account en de bijbehorende MPN-id moeten zich in hetzelfde land bevinden en uw MPN-id moet zich in hetzelfde Partner Center.
   
+   1. Meld u Partner Center aan met uw MPN-accountreferenties (uw MPN-referenties kunnen verschillen van uw CSP-referenties).
 
-   a. Meld u Partner Center aan met uw MPN-accountreferenties (uw MPN-referenties kunnen verschillen van uw CSP-referenties).
-   
-   b. Ga naar **Instellingen**  ->  **Accountinstellingen**  ->  **Organisatieprofiel-id's.**  ->  
- 
-    c. Zoek de MPN-id met het type 'Locatie' die overeenkomt met het land van dit CSP-account. 
+   2. Ga naar **Instellingen**  ->  **Accountinstellingen**  ->  **Organisatieprofiel-id's.**  ->  
 
-    d. Als u de MPN-locatie-id die overeenkomt met het CSP-account dat u wilt gebruiken niet kunt vinden, kunt u een nieuwe locatie toevoegen waarmee een nieuwe MPN-id wordt gemaakt. Meer informatie: [Locaties beheren.](manage-locations.md)
+   3. Zoek de MPN-id met het type 'Locatie' die overeenkomt met het land van dit CSP-account.
 
-    e. U kunt deze stap voorlopig uitstellen, maar u kunt geen Microsoft Partner-overeenkomst(MPA) of transact in CSP ondertekenen totdat u uw MPN-id aan uw CSP-account hebt koppelen.
+   4. Als u de MPN-locatie-id die overeenkomt met het CSP-account dat u wilt gebruiken niet kunt vinden, kunt u een nieuwe locatie toevoegen waarmee een nieuwe MPN-id wordt gemaakt. Meer informatie: [Locaties beheren.](manage-locations.md)
 
- > [!IMPORTANT]  
- > Selecteer de MPN-id die beschikbaar is in Partner Center en in hetzelfde land als uw CSP-account en zorg ervoor dat uw MPN-id zich in de Partner Center.
+   5. U kunt deze stap voorlopig uitstellen, maar u kunt geen Microsoft Partner-overeenkomst (MPA) of transact in CSP ondertekenen, totdat u klaar bent met het koppelen van uw MPN-id aan uw CSP-account.
+
+   > [!IMPORTANT]
+   > Selecteer de MPN-id die beschikbaar is in Partner Center en in hetzelfde land als uw CSP-account en zorg ervoor dat uw MPN-id zich in de Partner Center.
 
 6. Nadat Microsoft uw registratieverificatie heeft voltooid die 3-5 werkdagen duurt, ondertekent u de Microsoft Partner-overeenkomst in het overzicht van Partner Center [dashboard](https://partner.microsoft.com/pcv/dashboard/overview) met de referenties van de globale beheerder. Als u de Microsoft Partner-overeenkomst wilt **weergeven** en downloaden voordat u deze ondertekent, klikt u op Microsoft Partner-overeenkomst koppeling zoals hieronder wordt weergegeven.  Als uw account na vijf werkdagen vastloopt in de verificatie, leest u [Het verificatieproces voor het account.](verification-responses.md)
 
+   :::image type="content" source="images/agreement-three.png" alt-text="Nieuwe locatie van MPA-overeenkomst.":::
 
-:::image type="content" source="images/agreement-three.png" alt-text="Nieuwe locatie van MPA-overeenkomst.":::
+7. Controleer of u het profiel hebt Microsoft Partner-overeenkomst de sectie **Programmagegevens** van partnerprofiel. U ziet ook een bevestigingsbannermelding op de CSP-overzichtspagina.
 
- 
-7. Controleer of u het profiel hebt Microsoft Partner-overeenkomst de sectie **Programmagegevens** van partnerprofiel. U ziet ook een bevestigingsbannermelding op de CSP-overzichtspagina. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Groen geaccepteerde banner.":::
-
+   :::image type="content" source="images/microsoft-partner-agreement-green.png" alt-text="Groen geaccepteerde banner.":::
 
 8. Wanneer uw Partner Center account gereed is voor gebruik, controleert u of u bent toegevoegd aan de beheeragentgroep. Als u het instellen van uw account wilt voltooien, inclusief het toevoegen van andere gebruikers, moet u beheerdersagentmachtigingen hebben. Volg deze stappen om uw machtigingen weer te geven of bij te werken:
 
@@ -139,10 +133,9 @@ Als een indirecte provider verbinding met u wil maken op de Partner Center, star
 
 Uw juridische bedrijfslocatie als indirecte CSP-reseller bepaalt met welke indirecte providers u kunt werken, evenals de regio's waar u CSP-zaken kunt doen. Lees voor meer informatie [Cloud Solution Provider programma regionale markten en valuta's waar u CSP-aanbiedingen kunt verkopen.](regional-authorization-overview.md)
 
-
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Hoe indirecte providers hun wederverkopers kunnen helpen de Microsoft Partner-overeenkomst - Veelgestelde vragen](mpa-indirect-provider-faq.md)
+- [Hoe indirecte providers hun resellers kunnen helpen bij het over adopteren van de Microsoft Partner-overeenkomst - Veelgestelde vragen](mpa-indirect-provider-faq.md)
 
 - [Microsoft Partner-overeenkomst](microsoft-partner-agreement.md)
 
@@ -157,4 +150,3 @@ Uw juridische bedrijfslocatie als indirecte CSP-reseller bepaalt met welke indir
 - [Meer informatie over het verificatieproces](verification-responses.md)
 
 - [Zie Partnervereisten voor directe factuur](direct-partner-new-requirements.md)
-
