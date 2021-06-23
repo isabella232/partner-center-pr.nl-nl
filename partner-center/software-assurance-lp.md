@@ -1,39 +1,39 @@
 ---
-title: Software Assurance-Program ma's
+title: Software Assurance programma's
 ms.topic: article
 ms.date: 08/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Meld u aan bij een Software Assurance-programma om uw bedrijf te bouwen en te compenseren voor het leveren van training en het plannen van zakelijke klanten.
+description: Registreren in een Software Assurance om zaken te bouwen en te compenseren voor het leveren van training en planning aan zakelijke klanten.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 212eef8294b7d293a9bc9f55b56498e12e3f402a
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: cccb1701e196781b2e002ef6bb37f0e47521b2b5
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "92528189"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489931"
 ---
-# <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Deel nemen aan Software Assurance-Program ma's, inclusief opleidings vouchers en plannings Services
+# <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Deelnemen aan Software Assurance programma's, waaronder trainings- en planningsservices
 
-Deelname aan Software Assurance-Program ma's, inclusief Software Assurance-opleidings vouchers (SATV) en plannings Services, biedt u de mogelijkheid om uw bedrijf uit te breiden met micro soft Enter prise-klanten. 
+Deelname aan Software Assurance-programma's, waaronder Software Assurance trainingsprogramma's (SATV) en Planning Services, biedt u de mogelijkheid om uw bedrijf te laten groeien met Microsoft Enterprise-klanten. 
 
-- Als Software Assurance training vouchers partner, micro soft compenseert u voor het leveren van docent, technisch klassikale training ontwikkeld door micro soft-experts. 
+- Als SATV-partner compenseert Microsoft u om door docenten geleide technische leslokaaltraining te bieden die is ontwikkeld door Microsoft-experts. 
 
-- Als partner van een plannings service compenseert micro soft u om vooraf gedefinieerde implementatie plannings afspraken te leiden. 
+- Als Partner voor planningsservices compenseert Microsoft u om vooraf gedefinieerde implementatieplanningen te leiden. 
 
-Via beide Program ma's krijgt u de mogelijkheid om uw bedrijf van de concurrentie te voorzien, een vertrouwde Advisor te worden en follow-on services aan uw klant te bieden. Inschrijving in de Program ma's en beheer van gerelateerde Software Assurance-vouchers wordt uitgevoerd via het partner centrum.
+Via beide programma's krijgt u de mogelijkheid om uw bedrijf te onderscheiden van de concurrentie, een vertrouwde adviseur te worden en vervolgservices aan uw klant aan te bieden. Registratie in de programma's en het beheer van gerelateerde Software Assurance wordt uitgevoerd via de Partner Center.
 
 > [!NOTE]
-> Als u gebruik wilt maken van de plannings Services-aanbiedingen en hun specifieke afspraken, moet u voldoen aan verschillende competentie vereisten. Deze competentie vereisten omvatten het volt ooien van training en andere vereisten op het niveau van de plannings Services en het volt ooien van competentie vereisten voor een specifieke afspraak zelf.  
+> Als u wilt profiteren van planningsservices en hun specifieke betrokkenheid, moet u voldoen aan verschillende niveaus van competentievereisten. Deze competentievereisten omvatten het voltooien van de training en andere vereisten op het niveau van planningsservices en het voltooien van competentievereisten voor een specifieke betrokkenheid zelf.  
 >
-> Meer informatie over de [vereiste competenties](software-assurance-dps-requirements.md) voor het plannen van service aanbiedingen en hun bijbehorende afspraken.
+> Meer informatie over de [vereiste competenties voor](software-assurance-dps-requirements.md) planningsservices en de bijbehorende interacties.
 
 
 |**Voor meer informatie over**   |**Leest u**   |
 |--------------------------|:------------------|
-|Inschrijven in het Software Assurance-SATV-programma (training vouchers)  | [Software Assurance training vouchers (SATV)-programma in het partner centrum](software-assurance-satv.md)|
-|Inschrijven in het Software Assurance Planning Services-programma | [Software Assurance Planning Services in Partnercentrum](software-assurance-dps.md) |
-|Geschiktheids vereisten voor het plannen van Services-aanbiedingen en-afspraken  | [Geschiktheids vereisten voor Software Assurance-plannings Services](software-assurance-dps-requirements.md)  |
+|Registreren in het Software Assurance Training Program (SATV)  | [Software Assurance (SATV)-programma in Partner Center](software-assurance-satv.md)|
+|Registreren in het Software Assurance Planning Services-programma | [Software Assurance Planning Services in Partnercentrum](software-assurance-dps.md) |
+|Geschiktheidsvereisten voor Planning Services-aanbiedingen en -betrokkenheid  | [Software Assurance geschiktheidsvereisten voor Planning Services](software-assurance-dps-requirements.md)  |

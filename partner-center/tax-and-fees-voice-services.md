@@ -1,36 +1,36 @@
 ---
 title: Regionale PSTN-servicebelastingen en -kosten
-description: Als Office 365-partner die Microsoft 365 Voice-producten aftakt, bent u mogelijk onderworpen aan regionale belastingen, kosten of wettelijke vereisten voor PSTN-services.
+description: Als Office 365-partner die Microsoft 365 Voice-producten aftransactiet, bent u mogelijk onderworpen aan regionale belastingen, kosten of wettelijke vereisten voor PSTN-services.
 ms.topic: article
 ms.date: 09/10/2020
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854720"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490067"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Regionale belastingen, voorschriften voor PTSN-services (Public Switched Telephone Network)
 
-**Juiste rollen:** globale | Gebruikersbeheerders | Beheeragent
+**Juiste rollen:** Globale | Gebruikersbeheerders | Beheeragent
 
-PsTN-services (Public Switched Telephone Network) in sommige jurisdicties zijn mogelijk onderworpen aan speciale belasting- en regelgevingsvereisten die van invloed kunnen zijn op de volgorde en facturering van partners. In de Verenigde Staten, met inbegrip van Communication Communication, zijn PSTN-services, waaronder audiovergaderingen, oproepplannen en communicatietegoeden, onderworpen aan speciale belasting- en regelgevingsvereisten. In de Verenigde Staten en Verenigde Staten worden PSTN-services door Microsoft als inclusief belasting betaald.  Unieke PSTN-belastingen en -regelgeving zijn van invloed op Office 365-partners die Microsoft 365 Voice-producten.  Als een partner de prijs van een Microsoft PSTN-service markeert, is deze mogelijk verantwoordelijk voor het berekenen en afrekenen van PSTN-belastingen en -kosten.
+PSTN-services (Public Switched Telephone Network) in sommige jurisdicties zijn mogelijk onderworpen aan speciale belasting- en regelgevingsvereisten die van invloed kunnen zijn op de volgorde en facturering van partners. In de Verenigde Staten, met inbegrip van Communication Communication, zijn PSTN-services, waaronder audiovergaderingen, aanroepplannen en communicatietegoeden, onderworpen aan speciale belasting- en regelgevingsvereisten. In de Verenigde Staten enOrteEneEner prijst Microsoft PSTN-services als tax-inclusive.  Unieke PSTN-belastingen en -regelgeving zijn van invloed op Office 365-partners die Microsoft 365 Voice-producten.  Als een partner de prijs van een Microsoft PSTN-service markeert, kan deze verantwoordelijk zijn voor het berekenen en ruiten van PSTN-belastingen en -kosten.
 
 ## <a name="partner-recommendations"></a>Aanbevelingen van partners
 
-Neem contact op met uw belasting- en juridisch adviseur om inzicht te krijgen in de verantwoordelijkheid van uw organisatie met betrekking tot de regelgeving, belastingen en kosten van PSTN-services en andere potentiële verplichtingen.
+Neem contact op met uw belasting- en juridische adviseur om inzicht te krijgen in de verantwoordelijkheid van uw organisatie met betrekking tot de regelgeving, belastingen en kosten van PSTN-services en andere potentiële gevolgen.
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Factuurpresentatie en partnerafstemmingsbestand
 
-CSP-facturen en CSP-afstemmingsbestanden in de Verenigde Staten, Skype Voor Bedrijven PSTN en Microsoft 365 Voice-services bevatten afzonderlijke regelitems voor de PSTN- en niet-PSTN-onderdelen.
+Cloud Solution Provider-facturen (CSP) en CSP-afstemmingsbestanden in de Verenigde Staten, Skype Voor Bedrijven PSTN en Microsoft 365 Voice-services, bieden afzonderlijke regelitems voor de PSTN- en niet-PSTN-onderdelen.
 
-Daarnaast wordt op CSP-facturen de volgende voetnoot weergegeven:
+Daarnaast worden op CSP-facturen de volgende voetnoot weergegeven:
 
-* De weergegeven prijs is een kosten voor audiovergaderingen en het aanroepen van planservices.  Alle toepasselijke transactionele belastingen worden exclusief in rekening gebracht op het weergegeven bedrag, met uitzondering van de verkopen in de Verenigde Staten.  In de Verenigde Staten is de weergegeven prijs inclusief btw, omdat deze kosten bevat voor de oproepende plan- en audiovergaderingservices en kosten voor de belastingen en kosten die we in rekening moeten brengen.  Services voor audiovergaderingen en oproepplannen worden verwerkt door de Microsoft-partner die gemachtigd is om deze te leveren.  Zie [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=690247) voor meer informatie.
+* De weergegeven prijs is een bedrag voor audiovergaderingen en het aanroepen van planservices.  Alle toepasselijke transactionele belastingen worden exclusief in rekening gebracht van het weergegeven bedrag, met uitzondering van de verkopen in de Verenigde Staten.  In de Verenigde Staten is de weergegeven prijs inclusief btw, omdat deze kosten bevat voor de oproepende plan- en audiovergaderingservices en kosten voor de belastingen en kosten die we in rekening moeten brengen.  Services voor audiovergaderingen en oproepen van planservices worden verwerkt door de Microsoft-partner die gemachtigd is om deze te leveren.  Zie [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=690247) voor meer informatie.
 
 ## <a name="reconciliation-file-example"></a>Voorbeeld van afstemmingsbestand
 
@@ -45,8 +45,8 @@ Office 365 Enterprise E5 wordt in het afstemmingsbestand als twee regelitems met
 
 **Voorbeeld van partnerafstemming #2**
 
-Microsoft 365 Business Voice die beschikbaar is in Canada, heeft extra belastbare PSTN-onderdelen die zijn geconsolideerd op CSP-factuur (vergelijkbaar met Office 365 E5, worden twee regelitems weergegeven, één voor PSTN-onderdelen en de andere voor niet-PSTN-onderdelen).  In het CSP-afstemmingsbestand Microsoft 365 Business Voice worden alle belaste PSTN-onderdelen afzonderlijk weergegeven (afzonderlijke PSTN-onderdelen worden niet geconsolideerd in . CSV- of API-hulpprogramma).  De som van ordergegevens en gefactureerde bedragen voor klanten die in het afstemmingsbestand zijn gevonden, komt overeen met de CSP-factuur.
+Microsoft 365 Business Voice die beschikbaar is in Canada, bevat aanvullende, met PSTN belaste onderdelen die worden geconsolideerd op CSP-factuur (vergelijkbaar met Office 365 E5, er worden twee regelitems weergegeven, één voor PSTN-onderdelen en de andere voor niet-PSTN-onderdelen).  In het CSP-afstemmingsbestand voor Microsoft 365 Business Voice worden alle belaste PSTN-onderdelen afzonderlijk weergegeven (afzonderlijke PSTN-onderdelen worden niet geconsolideerd in .CSV of API-hulpprogramma).  De som van ordergegevens en gefactureerde bedragen voor klanten die in het afstemmingsbestand zijn gevonden, komt overeen met de CSP-factuur.
 
 ## <a name="additional-resources"></a>Aanvullende resources
-Ga naar de site Microsoft 365 [for Partners voor meer](https://www.microsoft.com/microsoft-365/partners/) informatie.
+Ga naar de site Microsoft 365 [voor partners voor meer](https://www.microsoft.com/microsoft-365/partners/) informatie.
 

@@ -1,35 +1,35 @@
 ---
 title: Hoe belastingbeleid van invloed is op uitbetaling voor Azure Marketplace
-description: Meer informatie over hoe belastingbeleid van invloed is op uitbetaling Azure Marketplace.
+description: Meer informatie over hoe belastingbeleid van invloed is op uitbetaling voor Azure Marketplace.
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: a93e94912f840e4cb69c3cc834f03af1b34f19aa
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 32c5cda9558aaaeddaf194eb8258ba732e2ac698
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856012"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489965"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Hoe belastingbeleid van invloed is op uitbetaling voor Azure Marketplace
 
-**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent
 
 ## <a name="introduction"></a>Introductie
 
-De commerciële marketplace van Microsoft heeft een wereldwijd bereik. Transacties vinden plaats buiten de grenzen en afhankelijk van waar de ISV en de klant zich bevinden, kunnen de gevolgen voor de belasting variëren. Microsoft AppSource en Azure Marketplace de Partner Center belastingprofielgegevens gebruiken om het land van de ISV te bepalen. Om het land van de klant te bepalen, gebruikt u de factureringsgegevens van de klant of, als de klant zich in de EU belandt, gebruiken we twee verschillende gegevens.
+De commerciële marketplace van Microsoft heeft wereldwijd bereik. Transacties vinden buiten de grenzen plaats. Afhankelijk van waar de onafhankelijke softwareleverancier (ISV) en de klant zich bevinden, kunnen de gevolgen voor de belasting variëren. Microsoft AppSource en Azure Marketplace de Partner Center belastingprofielgegevens gebruiken om het land van de ISV te bepalen. Om het land van de klant te bepalen, gebruikt u de factureringsgegevens van de klant of, als de klant zich in de EU belandt, gebruiken we twee verschillende gegevens.
 
-Voor een beter begrip van [](tax-details-marketplace.md) de volgende scenario's raadpleegt u de tabel Belastingdetails. Hier ziet u of Microsoft namens de uitgever belastingen int en betaalt of dat deze verantwoordelijkheid bij de uitgever hoort.
+Voor een beter begrip van [](tax-details-marketplace.md) de volgende scenario's raadpleegt u de tabel Belastingdetails. Hier ziet u of Microsoft btw int en betaalt namens de uitgever of dat deze verantwoordelijkheid bij de uitgever hoort.
 
 > [!NOTE]
 > Alle voorbeelden van verkoopwaarden en belastingpercentages in dit onderwerp zijn alleen bedoeld ter illustratie, niet voor exacte cijfers.
 
 ## <a name="publisher-transacts-in-microsoft-managed-tax-country"></a>Uitgeverstransacties in door Microsoft beheerd belastingland
 
-**Scenario A:** transacties die plaatsvinden tussen een uitgever en een klant in een door [Microsoft beheerd belastingland.](tax-details-marketplace.md#microsoft-managed-countries) Voor deze transacties wordt de toepasselijke belasting toegevoegd op het moment van verkoop en Microsoft verzendt die belasting naar het toepasselijke land. Er worden geen belastingen ingehouden voor uitbetaling en uitbetalingsberekeningen zijn exclusief belasting.
+**Scenario A:** transacties die plaatsvinden tussen een uitgever en een klant in een door [Microsoft beheerd belastingland.](tax-details-marketplace.md#microsoft-managed-countries) Aan deze transacties wordt de toepasselijke belasting toegevoegd op het moment van verkoop en Microsoft verzendt die belasting naar het toepasselijke land. Er worden geen belastingen ingetrokken voor uitbetaling en uitbetalingsberekeningen zijn exclusief belasting.
 
 Zie [Scenario D](#foreign-publisher-transacts-with-us-customer) voor transacties tussen een niet-Amerikaanse uitgever en een Amerikaanse klant.
 
@@ -63,7 +63,7 @@ Zie Abonnementen en prijzen voor commerciële marketplace-aanbiedingen voor meer
 
 ## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>Een externe uitgever verkoopt aan een in de EU geregistreerde klant met btw in een door Microsoft beheerd land (buiten Ierland)
 
-**Scenario F:** alle transacties tussen externe uitgevers en eu-klanten die zijn geregistreerd voor btw (buiten Ierland) in een Microsoft-Managed land. De klant betaalt geen belasting over de verkoop.
+**Scenario F:** alle transacties tussen externe uitgevers en eu-klanten met btw-belasting (buiten Ierland) in een Microsoft-Managed land. De klant betaalt geen belasting over de verkoop.
 
 :::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="Toont de werkstroom voor uitbetalingsprocesscenario F.":::
 
