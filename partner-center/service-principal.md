@@ -9,18 +9,18 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 3698032a632384e8416664c9564819d7c4da9c38
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854924"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551551"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Een Azure AD-toepassing (service-principal) toevoegen aan Partner Center
 
 **Juiste rollen:** globale beheerder
 
-In het commerciële Marketplace-programma in Partner Center kunt u nu een Azure AD-toepassing (service-principal) als gebruiker toevoegen aan uw Partner Center account. (U hebt dit eerder kunnen doen in uw Cloud Partner-portal of CPP-account. Nu u bent gemigreerd naar Partner Center, is het CPP-account alleen-lezen.)
+In het commerciële Marketplace-programma in Partner Center kunt u nu een Microsoft Azure Active Directory-toepassing (Azure AD) (service-principal) als gebruiker toevoegen aan uw Partner Center-account. (U kon dit eerder doen in uw Cloud Partner-portal (CPP)-account. Nu u bent gemigreerd naar Partner Center, is het CPP-account alleen-lezen.)
  
 >[!Note] 
 >Service-principal is synoniem met de Azure AD-toepassing.

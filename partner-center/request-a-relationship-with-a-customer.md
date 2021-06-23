@@ -1,5 +1,5 @@
 ---
-title: Een relatie met een klant aanvragen
+title: Een resellerrelatie met een klant aanvragen
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ description: Vraag een relatie aan met een klant voor scenario's met meerdere pa
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856114"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551636"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Een wederverkoper-relatie aanvragen bij een klant in het Partner Center
 
@@ -43,20 +43,20 @@ U kunt een resellerrelatie met een klant aanvragen vanuit uw land of in dezelfde
 5. Nadat de klant uw uitnodiging heeft geaccepteerd,  wordt deze weergegeven op de pagina Klanten en kan deze de service voor de klant van hieruit inrichten en beheren.
 
    > [!NOTE]
-   > Als de klant de uitnodiging nog niet Microsoft-klantovereenkomst, wordt hij gevraagd dit te doen wanneer hij uw uitnodiging accepteert. De klant moet een globale beheerder zijn om de uitnodiging te accepteren.
+   > Als de klant de uitnodiging nog niet Microsoft-klantovereenkomst, wordt hij gevraagd dit te doen wanneer hij de uitnodiging accepteert. De klant moet een globale beheerder zijn om de uitnodiging te accepteren.
 
 6. Als u het account, de services, gebruikers en licenties van de klant wilt beheren, vouwt u de record van de klant uit door de pijl-omlaag bij hun naam te selecteren.
 
 > [!IMPORTANT]  
-> Klanten kunnen beheerdersmachtigingen opnieuw toewijzen of verwijderen in de beheerportal van een service. Tenzij en totdat u uw overeenkomst met de klant hebt gesloten, bent u echter verantwoordelijk voor het bieden van klantondersteuning en het voldoen aan de voorwaarden van de Microsoft Partner-overeenkomst, zelfs nadat een klant beheerdersmachtigingen opnieuw toewijst of verwijdert. Als de klant in dit geval hulp nodig heeft, kunt u Microsoft Ondersteuning bellen om namens de klant een serviceaanvraag te openen.
+> Klanten kunnen beheerdersmachtigingen opnieuw toewijzen of verwijderen in de beheerportal van een service. Tenzij en totdat u uw overeenkomst met de klant hebt gesloten, blijft u echter verantwoordelijk voor het bieden van klantondersteuning en het voldoen aan de voorwaarden van de Microsoft Partner-overeenkomst, zelfs nadat een klant beheerdersmachtigingen opnieuw toewijst of verwijdert. Als de klant in dit geval hulp nodig heeft, kunt u Microsoft Ondersteuning bellen om namens de klant een serviceaanvraag te openen.
 
-## <a name="changes-to-the-customer-invitation-experience"></a>Wijzigingen in de klantuitnodigingservaring
+## <a name="changes-to-the-customer-invitation-experience"></a>Wijzigingen in de gebruikersuitnodigingservaring
 
-De klantervaring voor het accepteren van een uitnodiging voor een resellerrelatie van een Cloud Solution Provider partner wordt gehost door verschillende klantgerichte portals. De locatie van de portal is afhankelijk van of een klant zich in een openbare cloud van Microsoft of een nationale cloud bevindt:
+De klantervaring voor het accepteren van een uitnodiging voor een resellerrelatie van een Cloud Solution Provider-partner (CSP) wordt gehost door verschillende klantgerichte portals. De locatie van de portal is afhankelijk van of een klant zich in een openbare cloud van Microsoft of een nationale cloud bevindt:
 
 |Typen cloudklanten  | Waar accepteert een klant een uitnodiging voor een resellerrelatie? |
 |---------|---------
-| Klanten in openbare cloud | Microsoft 365-beheercentrum |
+| Klanten in de openbare cloud | Microsoft 365-beheercentrum |
 | Klanten in Partner Center voor Microsoft Cloud Duitsland | Microsoft Office-beheerportal |
 | Klanten in Partner Center voor Microsoft Cloud for US Government | Microsoft Office-beheerportal |
 |

@@ -4,30 +4,30 @@ ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Leer hoe u klanten kunt helpen de beheerdersbevoegdheden van een partner te herstellen, zodat de partner kan helpen bij het beheren van de Azure CSP van een klant.
+description: Meer informatie over hoe u klanten kunt helpen de beheerdersbevoegdheden van een partner te herstellen, zodat de partner kan helpen bij het beheren van de Azure Cloud Solution Provider(CSP)-abonnementen van een klant.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81df7578f7f15def64a3c20b15f95f3b89a28d1c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 5d784aef33cce2a722583a77e73c35d5fc8136b1
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277773"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551585"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen  
 
 **Juiste rollen:** globale | Beheeragent
 
-Als CSP-partner verwachten uw klanten vaak dat u hun Azure-gebruik en hun systemen voor hen beheert. U moet beheerdersbevoegdheden hebben om dit te doen. Sommige bevoegdheden worden verleend wanneer uw resellerrelatie met de klant tot stand is gebracht. Andere worden aan u verleend door uw klant.
+Als Cloud Solution Provider (CSP)-partner verwachten uw klanten vaak dat u hun Azure-gebruik en hun systemen voor hen beheert. U moet beheerdersbevoegdheden hebben om dit te doen. Sommige bevoegdheden worden verleend wanneer uw resellerrelatie met de klant tot stand is gebracht. Andere worden aan u verleend door uw klant.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Beheerdersbevoegdheden voor Azure in CSP
 
 Er zijn twee niveaus van beheerdersbevoegdheden voor Azure in CSP.
 
 - **Beheerdersbevoegdheden op tenantniveau (gedelegeerde beheerdersbevoegdheden)**: CSP-partners krijgen deze bevoegdheden tijdens het tot stand brengen van een CSP-resellerrelatie met klanten. Gedelegeerde beheerdersbevoegdheden geven CSP-partners toegang tot de tenants van hun klanten. Met deze toegang kunnen ze beheerfuncties uitvoeren, zoals gebruikers toevoegen/beheren, wachtwoorden opnieuw instellen en gebruikerslicenties beheren.
-- **Beheerdersbevoegdheden op abonnementsniveau:** CSP-partners krijgen deze bevoegdheden tijdens het maken Azure CSP abonnementen voor hun klanten. Deze bevoegdheden bieden CSP-partners volledige toegang tot deze abonnementen, zodat ze Azure-resources kunnen inrichten en beheren.
+- **Beheerdersbevoegdheden op abonnementsniveau:** CSP-partners krijgen deze bevoegdheden tijdens het maken Azure CSP abonnementen voor hun klanten. Deze bevoegdheden geven CSP-partners volledige toegang tot deze abonnementen, zodat ze Azure-resources kunnen inrichten en beheren.
 
 ## <a name="reinstate-csp-a-partners-admin-privileges"></a>De beheerdersbevoegdheden van een partner opnieuw in CSP herstellen
 
@@ -61,7 +61,7 @@ Uw klant kan de CSP-roltoewijzing opnieuw maken als u de van de `object ID` groe
    Update-Module Az.Resources
    ```
 
-   b. De klant maakt verbinding met de tenant waarin het CSP-abonnement bestaat.
+   b. De klant maakt verbinding met de tenant waar het CSP-abonnement zich bevindt.
    ```powershell
    Connect-AzAccount -TenantID "<Customer tenant>"
    ```

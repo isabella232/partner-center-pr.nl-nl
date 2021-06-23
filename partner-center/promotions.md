@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ontdek hoe Microsoft-partners in het Cloud Solution Provider-programma abonnementen kunnen kopen tegen promotieprijzen en hun klanten kunnen besparen.
+description: Ontdek hoe Microsoft-partners in het Cloud Solution Provider-programma abonnementen kunnen kopen tegen promotieprijzen en besparingen aan hun klanten kunnen doorgeven.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5cb494f3e32201c20184d8de551e15cc8fc28d9b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854975"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551304"
 ---
-# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Promoties gebruiken om nieuwe klanten aan te trekken en de besparingen door te geven
+# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Promoties gebruiken om nieuwe klanten aan te trekken en de besparingen aan hen door te geven
 
 
 
-**Juiste rollen:** beheeragent | Beheeraccount van MPN-| Factureringsbeheerder | Verkoopagent
+**Juiste rollen:** beheeragent | Beheeraccount van MPN-| Factureringsbeheerders | Verkoopagent
 
 
 Microsoft biedt af en toe promoties voor op licenties gebaseerde abonnementen, zodat u de besparingen kunt doorgeven aan klanten en uw bedrijf kunt laten groeien. 
@@ -33,9 +33,9 @@ Neem even de tijd om deze belangrijke feiten over promoties te bekijken:
 
 - De promotieprijs van een abonnement geldt alleen voor de duur van het abonnement. Wanneer een abonnement dat u hebt aangeschaft met aanbiedingsprijzen is verlopen, wordt de prijs van het verlengingsabonnement terug gezet op de prijs in de prijslijst. Dit betekent dat alle abonnementen die zijn ingesteld voor automatische verlenging, worden verlengd tegen de geldende prijs. U vindt de prijslijst op de **pagina Prijzen en** aanbiedingen.
 
-- Als een abonnement in aanmerking komt voor meerdere promoties, wordt de promotie met het hoogste percentage uitgeschakeld automatisch toegepast.
+- Als een abonnement in aanmerking komt voor meerdere promoties, wordt de promotie met het hoogste percentage uit automatisch toegepast.
 
-- Annuleringen van abonnementen met een promotieprijs volgen hetzelfde proces en beleid als abonnementen die regelmatig worden geprijsd.
+- Annuleringen van abonnementen met een promotieprijs volgen hetzelfde proces en hetzelfde beleid als abonnementen met een reguliere prijs.
 
 ## <a name="see-available-promotions"></a>Beschikbare promoties bekijken
 
