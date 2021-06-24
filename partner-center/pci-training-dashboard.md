@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 37a4f6cdce2b77f194fc91e0490e1c87ee137b43
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276277"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565097"
 ---
 # <a name="trainings-dashboard"></a>Trainingsdashboard
 
@@ -28,7 +28,7 @@ Het trainingsdashboard biedt inzicht in de certificeringen, evaluaties en onderz
 - Activiteitsgegevens
 
 >[!NOTE] 
->Dit rapport is beschikbaar onder de Insights-hub in Partner Center. Als u dit rapport wilt weergeven, moet de rol Rapportviewer of Executive Report Viewer aan u zijn toegewezen. Enkele secties van dit rapport zijn alleen zichtbaar voor gebruikers die Executive Report Viewers zijn. Zie PCI-rollen voor meer informatie over toegangsbeheer voor de [Insights-rapporten.](pci-roles.md)
+>Dit rapport is beschikbaar onder de Insights-hub in Partner Center. Als u dit rapport wilt weergeven, moet aan u de rol rapportviewer of executive rapportviewer zijn toegewezen. Enkele secties van dit rapport zijn alleen zichtbaar voor gebruikers die Executive Report Viewers zijn. Zie PCI-rollen voor meer informatie over toegangsbeheer voor de [Insights-rapporten.](pci-roles.md)
 
 ## <a name="summary"></a>Samenvatting
 

@@ -8,26 +8,26 @@ description: Bekijk wat u goed doet en waar u het gebruik kunt verbeteren van Te
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4148848984a541eca4eee9e71785660aa6402bc7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277331"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565012"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het gebruiksrapport van Teams is beschikbaar via Partner Center Insights-dashboard
 
-**Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
+**Juiste rollen:** Globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
 Het gebruiksrapport van Teams bevat metrische gegevens met betrekking tot uw Teams-workloads die u hebt verkocht of beheert voor uw klanten. U kunt de volgende secties bekijken in het gebruiksrapport van Teams.
 
 - Samenvatting
-- Trend in gesprekken
-- Gebruik van teams per workload
+- Trend in conversaties
+- Gebruik van Teams per workload
 - Belangrijkste klanten op gebruik
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het dashboard Inzichten. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
+ > Dit rapport is beschikbaar via het Insights-dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
@@ -35,25 +35,25 @@ In de samenvattingssectie ziet u een momentopname van de belangrijkste indicator
 
 - Klanten: Uniek aantal klanten dat Teams als workload gebruikt voor de geselecteerde duur.
 
-- Aantal vergaderingen: het aantal Teams-vergaderingen dat door uw klanten wordt uitgevoerd.
+- Aantal vergaderingen: het aantal teamsvergaderingen dat door uw klanten wordt uitgevoerd.
 
 - Dagelijks gemiddelde aantal vergadering per klant: Dagelijks gemiddeld aantal vergadering per klant. 
 
-- Duur van vergadering (uren): totale duur van vergadering in uren. 
+- Duur van vergadering (uren): Totale duur van vergadering in uren. 
 
 - Gemiddelde duur van vergadering (minuten): Gemiddelde duur van vergadering in minuten. 
 
 :::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Overzicht van het gebruik van Teams.":::
 
-## <a name="conversations-trend"></a>Trend in gesprekken
+## <a name="conversations-trend"></a>Trend in conversaties
 
-Het trendrapport Conversaties toont de maandelijkse trend van Teams-vergaderingen, -oproepen en -telefoonsystemen, samen met de gemiddelde duur van de vergadering in minuten.
+Het trendrapport Conversaties toont de maandelijkse trend van Teams-vergaderingen, -oproepen en -telefoonsystemen, samen met de gemiddelde duur van vergaderingen in minuten.
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="gebruikstrends van teams voor gesprekken.":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="trends in gebruiksgesprek van teams.":::
 
-## <a name="teams-usage-by-workloads"></a>Gebruik van teams per workload
+## <a name="teams-usage-by-workloads"></a>Gebruik van Teams per workload
 
-In het rapport Gebruik van Teams door workloads ziet u de maandelijkse splitsing van desktop-, mobiele en webgebruikers van Teams, opgesplitst in workloads.
+Het rapport Gebruik van Teams door workloads toont de maandelijkse verdeling van desktop-, mobiele en webgebruikers van Teams, opgesplitst in workloads.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Gebruik van teams per workload.":::
 
@@ -67,4 +67,4 @@ Het rapport Topklanten op gebruik toont het gebruik van de belangrijkste klanten
 
 - Zie Insights voor [Partner Center rapporten.](partner-center-insights.md)
 
-- U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het dashboard Inzichten. [Meer informatie](pci-download-reports.md) 
+- U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het Dashboard Inzichten. [Meer informatie](pci-download-reports.md) 

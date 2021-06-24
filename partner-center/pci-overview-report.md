@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cca136670fa2891eea32e4561b97692ca98a77a9
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277484"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565403"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Overzicht van dashboardrapporten die beschikbaar zijn in Partner Center Insights
  
 **Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
-Het dashboard Insights Overview biedt een momentopname van de Key Performance Indicators, zoals Klanten, Abonnementen, Azure Consumption Revenue en Licenses. U kunt de volgende grafieken visualiseren in het rapport Overzicht.
+Het dashboard Insights Overview biedt een momentopname van de Key Performance Indicators (KPI's), zoals Klanten, Abonnementen, Azure Consumption Revenue en Licenses. U kunt de volgende grafieken visualiseren in het rapport Overzicht.
 
 - Samenvatting  
 - Geografische spreiding van uw klanten, abonnementen en licenties  
@@ -42,19 +42,19 @@ Meer informatie over elke sectie van de samenvatting volgt.
 Het **gebied Klanten** omvat:
 
 - Het huidige aantal klanten met ten minste één actief abonnement dat aan uw bedrijf is gekoppeld via verschillende toeschrijvingstypen en voor alle cloudproducten.
-- Het percentage groei van klanten gedurende het geselecteerde datumbereik.
+- Het groeipercentage van klanten gedurende het geselecteerde datumbereik.
 - In de micrografiek wordt de trend voor de maand-over-maand van het aantal klanten binnen het geselecteerde datumbereik weergegeven.
 
 ### <a name="azure-consumed-revenue-acr"></a>Omzet uit Azure-verbruik (ACR)
 
 Het **Omzet uit Azure-verbruik (ACR)** in het overzicht omvat:
 
-- Het totale Omzet uit Azure-verbruik (in US $) dat aan u is toegekend voor het geselecteerde datumbereik.
-- Het percentage groei of afname in ACR (in US $) tijdens het geselecteerde datumbereik.
-- De micrografiek toont een maandelijkse trend van ACR US$ die u over het geselecteerde datumbereik wordt toegeschreven 
+- Het totale ACR (in Amerikaanse dollars) dat aan u is toegekend voor het geselecteerde datumbereik.
+- Het percentage groei of afname in ACR (in Amerikaanse dollars) tijdens het geselecteerde datumbereik.
+- De micrografiek toont een maandelijkse trend van ACR in Amerikaanse dollars die aan u is toegeschreven voor het geselecteerde datumbereik 
 
 > [!NOTE]
-> Omzet uit Azure-verbruik (ACR)-gegevens zijn beschikbaar voor gebruikers aan wie de rol Executive Report Viewer is toegewezen 
+> ACR-gegevens zijn beschikbaar voor gebruikers aan wie de rol Leidinggevende rapportviewer is toegewezen.
  
 ### <a name="subscriptions-sold"></a>Verkochte abonnementen
 
@@ -68,7 +68,7 @@ Het **gebied Abonnementen verkocht** in het overzicht omvat:
 
 Het **gebied Actieve abonnementen** in het overzicht omvat:
 
-- Het huidige aantal cloudproductabonnementen met actief gebruik gemeten op basis van product-telemetrie. Hiermee worden alle proefabonnementen uitgesloten in het geval van Azure-abonnementen.  
+- Het huidige aantal cloudproductabonnementen met actief gebruik gemeten op basis van product-telemetrie. Hiermee worden alle Azure-proefabonnementen uitgesloten.  
 - Het groeipercentage van actieve abonnementen over het geselecteerde datumbereik.
 - In de micrografiek wordt de trend voor de maand-over-maand van actieve abonnementen weergegeven voor het geselecteerde datumbereik.
  
@@ -76,7 +76,7 @@ Het **gebied Actieve abonnementen** in het overzicht omvat:
 
 Het **gebied Licenties geïmplementeerd in** het overzicht omvat:
  
-- Het aantal cloudproductlicenties dat is geïmplementeerd in uw klantabonnementen gedurende de geselecteerde periode. 
+- Het aantal cloudproductlicenties dat in uw klantabonnementen is geïmplementeerd gedurende de geselecteerde periode. 
 - Het percentage groei of afname in deze licenties tijdens het geselecteerde datumbereik. 
 - De micrografiek toont de trend van de maand gedurende de maand van het aantal toegewezen licenties voor het geselecteerde datumbereik.
 
@@ -100,10 +100,10 @@ Dit geeft de trend aan van het aantal klantabonnementen voor het geselecteerde d
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Omzet uit Azure-verbruik groeitrend
 
-Maandelijkse trend van in Azure verbruikte omzet US$ die aan u is toegeschreven over het geselecteerde datumbereik. De x-as vertegenwoordigt maanden van het geselecteerde datumbereik en de y-as vertegenwoordigt de totale verbruikte Omzet van Azure US$ die u tijdens de maand hebt toegewezen.
+Maandelijkse trend van in Azure verbruikte omzet in Amerikaanse dollars die aan u is toegeschreven over het geselecteerde datumbereik. De x-as vertegenwoordigt maanden van het geselecteerde datumbereik en de Y-as vertegenwoordigt de totale door Azure verbruikte omzet in Amerikaanse dollars die u tijdens de maand hebt toegewezen.
 
 > [!NOTE]
-> Omzet uit Azure-verbruik (ACR) is alleen zichtbaar voor gebruikers aan wie de rol Executive Report Viewer is toegewezen. 
+> ACR is alleen zichtbaar voor gebruikers aan wie de rol Leidinggevende rapportviewer is toegewezen. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure-verbruik.":::
 

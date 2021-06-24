@@ -8,12 +8,12 @@ description: Bekijk wat u goed doet en waar u het gebruik van uw Enterprise Mobi
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 38eeb13c04edca803321e4ccc532b204af5bb9bf
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277824"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565386"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security gebruiksrapport dat beschikbaar is via het Partner Center Insights-dashboard
 
@@ -28,11 +28,11 @@ Het Enterprise Mobility + Security bevat gebruiksgegevens voor de Enterprise Mob
 - Enterprise Mobility + Security gebruiksdistributie
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights-dashboard. Als u dit rapport wilt bekijken, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersrechten voor rapportviewers.
+ > Dit rapport is beschikbaar via het Insights-dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
-De samenvattingssectie bevat een momentopnameweergave van de sleutelindicatoren met betrekking tot Enterprise Mobility + Security gebruiksabonnementen die u hebt verkocht of beheert voor uw klanten. 
+De samenvattingssectie bevat een momentopnameweergave van de belangrijkste indicatoren met betrekking tot Enterprise Mobility + Security die u hebt verkocht of beheert voor uw klanten. 
 
 - Nieuwe abonnementen: Het totale aantal abonnementen dat tijdens het geselecteerde tijdsbestek is verkocht of beheerd.
 
@@ -40,19 +40,19 @@ De samenvattingssectie bevat een momentopnameweergave van de sleutelindicatoren 
 
 - Beschikbare seats: het totale aantal licenties dat tijdens het geselecteerde tijdsbestek is verkocht.
 
-   De Micro-grafiek geeft een trend voor de maand-over-maand weer van het aantal beschikbare seats tijdens het geselecteerde datumbereik.
+   In de Micro-grafiek wordt een trend voor de maand-over-maand weergegeven van het aantal beschikbare seats tijdens het geselecteerde datumbereik.
 
 - Maandelijks actief gebruik: het aantal licenties dat in de vorige maand is gebruikt.
 
    De Micro-grafiek geeft een maandelijkse trend weer van licenties die worden gebruikt in de geselecteerde periode.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Overzicht van EMS-gebruik.":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Ems-gebruiksoverzicht.":::
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security per geografie
 
-In **Enterprise Mobility + Security** gebruik per geografie wordt de verdeling van maandelijks actieve gebruikers (MAU) en betaalde beschikbare eenheden (PAU) per klantland weergegeven. MAU verwijst naar het aantal licenties dat in de vorige maand is gebruikt en PAU verwijst naar het aantal betaalde plaatsen dat tijdens het geselecteerde tijdsbestek is verkocht of beheerd. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkere kleuren hogere waarden vertegenwoordigen. U kunt een land in het raster zoeken en selecteren. U kunt ook inzoomen voor een beter beeld.
+In **Enterprise Mobility + Security** gebruik per geografie wordt de verdeling van maandelijks actieve gebruikers (MAU) en betaalde beschikbare eenheden (PAU) per klantland weergegeven. MAU verwijst naar het aantal licenties dat in de vorige maand is gebruikt en PAU verwijst naar het aantal betaalde plaatsen dat tijdens het geselecteerde tijdsbestek wordt verkocht of beheerd. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkere kleuren hogere waarden vertegenwoordigen. U kunt een land in het raster zoeken en selecteren. U kunt ook inzoomen voor een beter beeld.
 
-De **tabel Aantal landen/regio's** bevat het totale aantal landen/regio's waar Azure-gebruiksgebeurtenissen worden gegenereerd.
+De **tabel Aantal landen/regio's** geeft het totale aantal landen/regio's weer waar Azure-gebruiksgebeurtenissen worden gegenereerd.
 
 U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie op de kaart. Selecteer de **optie Start** op de kaart om terug te keren naar de oorspronkelijke weergave.
 
@@ -66,7 +66,7 @@ In Enterprise Mobility + Security gebruik per SKU wordt de maandelijkse uitsplit
 
 ## <a name="subscriptions-performance"></a>Prestaties van abonnementen
 
-De prestaties van abonnementen geven een uitsplitsing van MAU en PAU per SKU per klantabonnement weer. Gegevens voor de top 100 van klanten op gefactureerde omzet worden weergegeven in de tabel en u kunt zoeken naar een klant of de onbewerkte gegevens downloaden om details voor alle klanten weer te geven.
+De prestaties van Abonnementen geven een uitsplitsing van MAU en PAU per SKU per klantabonnement weer. Gegevens voor de top 100 van klanten op gefactureerde omzet worden weergegeven in de tabel en u kunt zoeken naar een klant of de onbewerkte gegevens downloaden om details voor alle klanten weer te geven.
 
 :::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Prestaties van EMS-abonnementen.":::
 

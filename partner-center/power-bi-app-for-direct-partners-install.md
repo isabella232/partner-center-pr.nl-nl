@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ff95f989ac847bd2c17558d062c86a52110b2ddf
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854482"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565034"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Install and preview the Partner Center Analytics app for Microsoft Power BI (Partner Center Analytics-app voor Microsoft Power BI installeren en preview bekijken)
 
@@ -24,7 +24,7 @@ ms.locfileid: "109854482"
 
 ## <a name="before-you-begin"></a>Voordat u begint
 
-Selecteer de toepassing die het meest relevant is voor uw bedrijf in de volgende lijst met beschikbare Power BI apps:
+Selecteer de toepassing die het meest relevant is voor uw bedrijf in de volgende lijst met beschikbare Microsoft Power BI apps:
 
 - [Directe provider](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
@@ -32,7 +32,7 @@ Selecteer de toepassing die het meest relevant is voor uw bedrijf in de volgende
 
 - [Indirecte reseller](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
-Voordat u de preview-Partner Center analytics-app installeert, moet u ervoor zorgen dat u aan de volgende vereisten voldoet.
+Voordat u de preview-Partner Center Analytics-app installeert, moet u ervoor zorgen dat u aan de volgende vereisten voldoet.
 
 - U kiest de juiste Power BI app voor uw bedrijf.
 
@@ -58,7 +58,7 @@ Voordat u de preview-Partner Center analytics-app installeert, moet u ervoor zor
 
 6. Installeer de werkruimte door de naam van de werkruimte op te geven.
 
-7. U vindt de sjabloon-apps die zijn geïnstalleerd in de sectie Apps.
+7. U vindt de sjabloon-apps die zijn geïnstalleerd onder de sectie Apps.
 
 8. Selecteer **Apps** en kies de geïnstalleerde apps.
 
@@ -71,7 +71,7 @@ Voordat u de preview-Partner Center analytics-app installeert, moet u ervoor zor
 > [!NOTE]  
 >  Het kan enkele minuten duren voordat dit venster wordt weergegeven.
 
-12. Meld u **op de pagina Partner Center Analytics Connector** aan met de referenties van de globale beheerder, beheerderagent of factureringsbeheerder voor de Azure AD-tenant van uw bedrijf en selecteer **aanmelden.**
+12. Meld u **op Partner Center Analytics Connector-pagina** aan met de referenties van de globale beheerder, beheerderagent of factureringsbeheerder voor de Azure AD-tenant van uw bedrijf en selecteer **vervolgens Aanmelden.**
  
 13. Wanneer u wordt gevraagd om toegang, selecteert u **Accepteren.** 
 

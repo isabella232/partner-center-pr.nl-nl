@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6124e20efe16e134c441bb1fd72f022e841083b0
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: bf9d158ce2d1e25923d94e5f9c80e408fef29aa4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276231"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565471"
 ---
 # <a name="download-reports"></a>Rapporten downloaden
 
@@ -43,19 +43,19 @@ De volgende rapporten kunnen worden gedownload:
 
 **Partnerprofiel** bevat de details met betrekking tot de partner. Details zoals partner-id, Partnernaam, Partnerland en Partnerland zijn beschikbaar in het rapport. Er is geen aggregatie of lookback van toepassing op dit rapport.
 
-**Klantgegevens** bieden de details van klanten die aan een partner zijn gekoppeld. Het biedt ook belangrijke metrische gegevens, zoals verkochte licenties, geaggregeerde ACR, en meer. Het rapport wordt maandelijks geaggregeerd.
+**Klantgegevens** bieden de details van klanten die aan een partner zijn gekoppeld. Het biedt ook belangrijke metrische gegevens, zoals verkochte licenties, geaggregeerde verbruikte Azure-omzet (ACR), en meer. Het rapport wordt maandelijks geaggregeerd.
 
-**Details van abonnementen** bevatten de details van de abonnementen die worden verkocht of beheerd door de partner, samen met klantgegevens. Het rapport wordt maandelijks geaggregeerd.
+**Details van abonnementen** bevatten de details van de abonnementen die zijn verkocht of beheerd door de partner, samen met klantgegevens. Het rapport wordt maandelijks geaggregeerd.
 
-**Azure-gebruik** bevat de azure-gebruiksgegevens. Deze gegevens zijn voor de Azure-abonnementen die worden verkocht of beheerd door de partner. De gebruiksgegevens worden gesplitst per metercategorie en andere sleuteldimensie. Het rapport wordt maandelijks geaggregeerd.
+**Azure-gebruik** biedt de azure-gebruiksgegevens. Deze gegevens zijn voor de Azure-abonnementen die worden verkocht of beheerd door de partner. De gebruiksdetails worden gesplitst per metercategorie en andere sleuteldimensie. Het rapport wordt maandelijks geaggregeerd.
 
-**Office365- Licentiegebruik bevat** de gebruiksgegevens van O365-licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
+**Office 365 - Licentiegebruik bevat** de gebruiksgegevens van Office 365-licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
-**Enterprise Mobility – Licentiegebruik bevat**  de gebruiksgegevens van Enterprise Mobility-licenties die worden verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
+**Enterprise Mobility – Licentiegebruik bevat**  de gebruiksgegevens van Enterprise Mobility-licenties die worden verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals MAU, gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
-**Dynamics 365 – Licentiegebruik bevat** de gebruiksgegevens van D365-licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
+**Dynamics 365 – Licentiegebruik bevat** de gebruiksgegevens van D365-licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals MAU, gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
-**Power BI: Licentiegebruik bevat** de gebruiksgegevens van Power BI licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
+**Power BI: licentiegebruik bevat** de gebruiksgegevens van Power BI licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals MAU, gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
 **Trainingen** bieden de details, zoals examens, certificeringen, evaluaties, sporen, cursussen die zijn voltooid of opgenomen door werknemers van de partner.
 
@@ -63,5 +63,5 @@ De volgende rapporten kunnen worden gedownload:
 
 **Competenties : samenvatting en geschiedenis** bevat details van alle competenties die actief, in uitvoering of risico lopen voor deze partner. Bevat ook de geschiedenis van alle competenties die door de partner zijn behaald.
 
-**Competenties : prestatiedetails** bieden gedetailleerde informatie over hoe de partner het doet met betrekking tot de KPI's voor het bereiken van een bepaalde set competenties.
+**Competenties : prestatiedetails** bieden gedetailleerde informatie over hoe de partner het doet met betrekking tot de Key Performance Indicators (KPI's) voor het bereiken van een bepaalde set competenties.
 
