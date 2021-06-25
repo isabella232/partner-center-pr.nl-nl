@@ -1,6 +1,6 @@
 ---
 title: Aankondigingen van maart 2021
-description: Aankondigingen van maart 2021 voor Microsoft Partner Center nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
+description: Aankondigingen van maart 2021 voor Microsoft Partner Center met inbegrip van nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: b503e928b1491d5c2c70ac52460080f9e1ba91b8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 52db2c8ee7652633ee5d73a534e8c73daead867e
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150111"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896812"
 ---
 # <a name="march-2021-announcements"></a>Aankondigingen van maart 2021
 
 Deze pagina bevat de aankondigingen voor Microsoft Partner Center voor maart 2021.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Gereedheid: wijzigingen in de validatie-API Cloud Solution Provider CSP-klantadres (CSP) worden in juni live uitgevoerd; testmogelijkheid nu beschikbaar
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Gereedheid: wijzigingen in de validatie-API Cloud Solution Provider CSP-klantadres (CSP) worden in juni live uitgevoerd; testmogelijkheid nu beschikbaar
 
 ### <a name="categories"></a>Categorieën
 
@@ -99,7 +99,7 @@ public class AddressValidationResponse
    public string ValidationMessage { get; set; }
    ```
 
-Bekijk dit voorbeeld van een antwoord. Houd er rekening mee dat voor de VS het antwoord een extra achtervoegsel van vier cijfers voor de postcode retourneert als u slechts vijf cijfers voor de postcode op geeft.
+Bekijk dit voorbeeld van een antwoord. Houd er rekening mee dat voor de VS het antwoord een extra achtervoegsel van vier cijfers retourneert voor de postcode als u slechts vijf cijfers voor de postcode op geeft.
 
 ```csharp
 
@@ -139,7 +139,7 @@ Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, kunt u contact
 - 30 april 2021: Updates voor voorbeeldreactie en postcodedetails
 
 ________________
-## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Nieuwe EAC-ervaring (Exchange-beheercentrum)
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="18"></a>Nieuwe EAC-ervaring (Exchange-beheercentrum)
 
 ### <a name="categories"></a>Categorieën
 
@@ -158,7 +158,7 @@ Gedelegeerde beheerders die toegang hebben tot Exchange via Partner Center
 
 Vanaf 27 april 2021 worden partners die naar Exchange navigeren via Partner Center omgeleid naar de nieuwe EAC.
 
-Deze nieuwe ervaring is momenteel beschikbaar als preview-versie en beheerders kunnen deze ervaring activeren door de schakelknop in de rechterbovenhoek in de klassieke EAC te selecteren. Ze kunnen ook naar de nieuwe EAC navigeren door de banner Nu proberen te selecteren die op alle pagina's wordt weergegeven.
+Deze nieuwe ervaring is momenteel beschikbaar als preview-versie en beheerders kunnen deze ervaring activeren door in de rechterbovenhoek in de klassieke EAC de schakelknop te selecteren. Ze kunnen ook naar de nieuwe EAC navigeren door de banner Nu proberen te selecteren die op alle pagina's wordt weergegeven.
 
 Voordelen van de nieuwe EAC zijn onder andere:
 
@@ -166,7 +166,7 @@ Voordelen van de nieuwe EAC zijn onder andere:
 
 - Gepersonaliseerde dashboards om de productiviteit te verhogen.
 
-Om u te helpen door de nieuwe ervaring te navigeren, zijn **video's** beschikbaar in de sectie Training & Guide over de nieuwe EAC-ervaring. Deze geven u een overzicht van hoe u de nieuwe portal het beste kunt gebruiken.
+Video's zijn beschikbaar in de sectie Training & guide over de nieuwe EAC-ervaring om **u** te helpen door de nieuwe ervaring te navigeren. Deze geven u een overzicht van hoe u de nieuwe portal het beste kunt gebruiken.
 
 >[!NOTE]
 >Met deze wijziging wordt de klassieke EAC-ervaring niet afgeschaft. U wordt ruim van tevoren op de hoogte gebracht voordat een wijziging wordt geïmplementeerd.
@@ -182,7 +182,7 @@ Om u te helpen door de nieuwe ervaring te navigeren, zijn **video's** beschikbaa
 Raadpleeg uw relevante Yammer-community's voor vragen over deze wijzigingen.
 
 ________________
-## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Operations: Introductie van de kalender voor productlancering
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft Operations: Introductie van de kalender voor productlancering
 
 ### <a name="categories"></a>Categorieën
 
@@ -195,13 +195,13 @@ Als reactie op feedback van partners stroomlijnt Microsoft Operations de communi
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Cloud Solution Provider (CSP) partners
+Cloud Solution Provider (CSP)-partners
 
 ### <a name="details"></a>Details
 
 Microsoft zet zich in voor het voortdurend verbeteren van partnerervaringen. We hebben feedback van u gekregen dat u te veel berichten van Microsoft hebt ontvangen, waaronder dubbele aankondigingen voor productlanceringen.
 
-Als reactie op uw feedback heeft Microsoft de gereedheidservaring voor productlanceringen voor nieuwe en bestaande aanbiedingen gestroomlijnd.
+In reactie op uw feedback heeft Microsoft de gereedheidservaring voor productlanceringen voor nieuwe en bestaande aanbiedingen gestroomlijnd.
 
 We bieden u nu één maandelijkse weergave van productlanceringen, gepubliceerd in de resourcegalerie Operations-gereedheid. Deze kalenderweergave [voor maandelijkse productlancering](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) vervangt de communicatie voor afzonderlijke productlanceringen in de resourcegalerie Operations-gereedheid en in Partner Center aankondigingen.
 
@@ -219,18 +219,18 @@ De wijziging is van toepassing op lanceringen voor de volgende producten:
 - Hulpprogramma's
 - Teams en Telco
 
-We blijven specifieke aankondigingen verzenden voor productlanceringen waarvoor details over de gereedheid van Operations zijn vereist.
+We blijven specifieke aankondigingen verzenden voor productlanceringen waarvoor details over operations-gereedheid zijn vereist.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de resources over dit onderwerp en deel deze informatie met de juiste belanghebbenden in uw organisatie.
+Lees de bronnen over dit onderwerp en deel deze informatie met de juiste belanghebbenden in uw organisatie.
 
 ### <a name="questions"></a>Vragen?
 
 Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen.
 
 ________________
-## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Wijzigingen in onboardingvereisten voor CSP-klanten
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>Wijzigingen in onboardingvereisten voor CSP-klanten
 
 ### <a name="categories"></a>Categorieën
 
@@ -289,7 +289,7 @@ Partners met klanten in de rest van de wereld kunnen op 25 maart 2021 de  bedrij
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de technische documentatie en veelgestelde vragen in de [speciale partnerverzameling](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
+- Bekijk de technische documentatie en veelgestelde vragen in de [verzameling toegewezen partners](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
 
 - Bereid u voor op het opnemen van de wijzigingen met Partner Center API en webgebruikerservaring. API's/SDK's zijn beschikbaar voor testen.
 
@@ -299,16 +299,16 @@ Partners met klanten in de rest van de wereld kunnen op 25 maart 2021 de  bedrij
 
 ### <a name="questions"></a>Vragen?
 
-Neem contact op met uw belastingadviseur of lokale btw-kantoor als u vragen hebt met betrekking tot de juridische id (ook wel INN of TIN genoemd). Microsoft kan geen richtlijnen geven over belastingzaken.
+Neem contact op met uw belastingadviseur of lokale belasting kantoor als u vragen hebt met betrekking tot de juridische id (ook wel INN of TIN genoemd). Microsoft kan geen richtlijnen geven over belastingzaken.
 
-Als u ondersteuning nodig hebt in uw bewerkingen met Microsoft, [opent u een serviceaanvraag.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Als u ondersteuning nodig hebt bij uw bewerkingen met Microsoft, [opent u een serviceaanvraag.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 ________________
-## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Correcties aangebracht in de lijst met doorlopende softwareprijzen van 1 maart 2021
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>Correcties aangebracht in de prijslijst met doorlopende software van 1 maart 2021
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 23-03-2021
+- Datum: 2021-03-23
 - Aanbiedingen/markten
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
@@ -317,20 +317,20 @@ Indirecte providers en directe factuurpartners die permanente software in het Cl
 
 ### <a name="details"></a>Details
 
-De prijslijst voor permanente software die op 1 maart 2021 werd gepost, bevatte markten die daar niet zouden moeten zijn geweest. De prijslijst voor doorlopende software is bijgewerkt op 17 maart 2021 met de correcties. Deze correcties waren alleen van toepassing op:
+De prijslijst voor permanente software die op 1 maart 2021 werd gepost, bevatte markten die daar niet hadden mogen zijn. De prijslijst voor permanente software is bijgewerkt op 17 maart 2021 met de correcties. Deze correcties zijn alleen van toepassing op:
 
 - Product-id: DF77X4D43RKT 
-- Productnaam: Windows 10 Home naar Pro Upgrade voor Microsoft 365 Business
-- Verwijderde of niet-ondersteunde markten: AE, AF, AL, AM, AO, BA, BB, BD, WANT, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LY, MA, MC, MD, ME, MN, MO, MU, NA, NG , NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
+- Productnaam: Windows 10 Home pro-upgrade voor Microsoft 365 Business
+- Verwijderde of niet-ondersteunde markten: AE, AF, AL, AM, AO, BA, BB, BD, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LY, MA, MC, MD, ME , MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
 
 Deze wijzigingen zijn alleen van toepassing op het bovenstaande product. Andere producten hadden geen correcties. 
 
 ### <a name="next-steps-and-resources"></a>Volgende stappen en resources
 
 - Partners die permanente software gebruiken, moeten de meest recente lijst met doorlopende softwareprijzen downloaden.
-- Raadpleeg de [landcodes van](/azure/marketplace/commercial-marketplace-co-sell-countries) de regio voor een gebruiksvriendelijke toewijzing van de afkorting van twee letters aan landen.
+- Raadpleeg de [landcodes van](/azure/marketplace/commercial-marketplace-co-sell-countries) de regio voor een vriendelijke toewijzing van de afkorting van twee letters aan landen.
 ________________
-## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> SDK-release op .NET Standard (v1.17.0)
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="14"></a> SDK-release op .NET Standard (v1.17.0)
 
 ### <a name="categories"></a>Categorieën
 
@@ -340,7 +340,7 @@ ________________
  
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Directe factuurpartners en indirecte providers die deel nemen aan het CSP-programma dat gebruik maakt van de Partner Center .NET SDK.
+Directe factuurpartners en indirecte providers die deelnemen aan het CSP-programma die de .NET SDK Partner Center gebruiken.
 
 ### <a name="details"></a>Details
 
@@ -354,9 +354,9 @@ Nieuwe [bewerkingstypen toegevoegd om](/partner-center/develop/auditing-resource
 
 - DapAdminRelationshipTerminated
 
-#### <a name="audit-updated-new-resource-and-operation-types"></a>Controle bijgewerkt: Nieuwe resource- en bewerkingstypen
+#### <a name="audit-updated-new-resource-and-operation-types"></a>Controle bijgewerkt: nieuwe resource- en bewerkingstypen
 
-Nieuwe [resource- en bewerkingstypen toegevoegd voor](/partner-center/develop/auditing-resources) het ondersteunen van het scenario voor de directory-rol van de klant.
+Nieuwe resource- [en bewerkingstypen toegevoegd voor](/partner-center/develop/auditing-resources) het ondersteunen van het scenario voor de directory-rol van de klant.
 
 - Nieuw resourcetype CustomerDirectoryRole
 
@@ -392,7 +392,7 @@ De volgende wijzigingen zijn geïntroduceerd als onderdeel van New Commerce en z
 - De [GitHub-voorbeelden downloaden en bekijken](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ________________
-## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Commerciële CSP-marketplace-aanbieding en FY21 CSP-incentives voor in aanmerking komende aanbiedingen
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="13"></a>Aanbieding voor commerciële CSP-marketplace en FY21 CSP-incentives voor in aanmerking komende aanbiedingen
 
 ### <a name="categories"></a>Categorieën
 
@@ -405,25 +405,25 @@ Indirecte providers en directe factuurpartners in het Cloud Solution Provider pr
 
 ### <a name="details"></a>Details
 
-Indirecte providers en directe factuurpartners in het Cloud Solution Provider-programma kunnen aanbiedingen van derden verkopen en een grote incentive verdienen voor elke in aanmerking komende aanbieding van derden die wordt aangeboden in Partner Center of de Azure Portal. De incentive heeft de vorm van een autor over gefactureerde verkopen voor de in aanmerking komende aanbiedingen en is beschikbaar tot en met **30 juni 2021.**  
+Indirecte providers en directe factuurpartners in het Cloud Solution Provider-programma kunnen aanbiedingen van derden verkopen en een grote incentive verdienen voor elke in aanmerking komende aanbieding van derden die in Partner Center of de Azure Portal. De incentive heeft de vorm van een auto op gefactureerde verkoop voor de in aanmerking komende aanbiedingen en is beschikbaar tot en met **30 juni 2021.**  
 
-Blijf meer te weten over deze aanbieding voor commerciële marketplace voor CSP hieronder en neem vandaag nog contact op met uw klanten om de juiste aanbiedingen te vinden om hun succes en digitale transformatie mogelijk te maken.
+Blijf hieronder meer te weten over deze commerciële marketplace-aanbieding voor CSP en neem vandaag nog contact op met uw klanten om de juiste aanbiedingen te identificeren om hun succes en digitale transformatie mogelijk te maken.
 
-We werken samen met ISV's (Independent Software Vendors) om de nieuwste IaaS- en SaaS-oplossingen op de markt te brengen voor Microsoft-klanten. ISV-uitgevers kunnen de verkoop van hun aanbiedingen inschakelen via het Microsoft-partnerkanaal. Onze aanbiedingen die in aanmerking komen voor een incentive kunnen worden onderverdeeld in twee categorieën:
+We werken samen met Onafhankelijke softwareleveranciers (ISV's) om de nieuwste IaaS- en SaaS-oplossingen op de markt te brengen voor Microsoft-klanten. ISV-uitgevers kunnen de verkoop van hun aanbiedingen via het Microsoft-partnerkanaal inschakelen. Onze aanbiedingen die in aanmerking komen voor een incentive kunnen worden onderverdeeld in twee categorieën:
 
-- Selecteer Aanbiedingen van derden voor SaaS en IaaS met een co-verkoopstatus voor Azure IP. 
+- Selecteer Aanbiedingen van derden voor SaaS en IaaS met een gecentreerde Azure IP-status voor co-verkoop. 
 
 - SaaS-toepassingen die zijn geïntegreerd met Teams of ten minste twee Microsoft 365 productiviteitsapps, zoals PowerPoint, Word, Excel, Outlook of SharePoint.
 
 ### <a name="next-steps-and-resources"></a>Volgende stappen en resources
 
-- Meer informatie over het verdienen [van Incentives van partners voor](https://partner.microsoft.com/membership/partner-incentives) het verkopen van in aanmerking komende Marketplace-apps die in aanmerking komen voor incentives. Nieuwe aanbiedingen worden maandelijks toegevoegd.  
+- Meer informatie over het verdienen [van Partner Incentives voor](https://partner.microsoft.com/membership/partner-incentives) het verkopen van in aanmerking komende Marketplace-apps die in aanmerking komen voor incentives. Nieuwe aanbiedingen worden maandelijks toegevoegd.  
 - [Cloud Solution Provider direct bill partner incentive resources](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
 - [Cloud Solution Provider indirect provider incentive resources](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
 - Bekijk deze [presentatie voor](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) meer informatie over het verkopen van de commerciële marketplace-apps. Bekijk hier aanvullende [bronnen.](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/) 
 - De catalogus van de commerciële marketplace verkennen in [Partner Center](../csp-commercial-marketplace-discover.md) [of Azure Portal](https://ms.portal.azure.com/#home)
 - [API's gebruiken](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) om apps te integreren in de marketplace van uw bedrijf
-- Contact op met ISV's die u wilt gebruiken om zaken te doen
+- Contact maken met ISV's met wie u geïnteresseerd bent om zaken te doen
 - Indirecte providers moeten integreren met behulp van API's en resellers begeleiden bij welke apps ze willen verkopen
 
 ### <a name="questions"></a>Vragen?  
@@ -433,7 +433,7 @@ Raadpleeg dit [artikel voor](../csp-commercial-marketplace-overview.md) een over
 Als u aanvullende hulp nodig hebt, kunt u een ondersteuningsaanvraag maken in Partner Center. Meer informatie op [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1) .
 
 ________________
-## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Power BI Premium naamgeving van aanbieding en vereiste updates
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="12"></a>Power BI Premium naamgeving van aanbieding en vereiste updates
 
 ### <a name="categories"></a>Categorieën
 
@@ -442,7 +442,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-De definitieve prijslijst van 1 april 2021 wordt bijgewerkt om de naamgeving en/of vereiste informatie voor de Power BI Premium per gebruiker toe te voegen.
+De definitieve prijslijst van 1 april 2021 wordt bijgewerkt om de naamgevings- en/of vereiste informatie voor de Power BI Premium per gebruiker toe te voegen.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -450,15 +450,15 @@ Cloud Solution Provider directe en indirecte partners (CSP)
 
 ### <a name="details"></a>Details
 
-De lijst met definitieve prijzen van 1 april 2021 wordt bijgewerkt om meer duidelijkheid te geven over de naamgevings- en/of vereiste informatie voor Power BI Premium per gebruiker.
+De definitieve prijslijst van 1 april 2021 wordt bijgewerkt om de naamgevings- en/of vereiste informatie voor de Power BI Premium per gebruiker toe te voegen.
 
 Totdat de uiteindelijke prijslijst is bijgewerkt, gebruikt u de informatie in deze sectie om ervoor te zorgen dat het juiste product is besteld.
 
-De volgende details tonen de betrokken SKU en vereiste details.
+In de volgende details worden de betrokken SKU en de vereiste details bewaarde.
 
 | Weergavenaam van aanbieding in de preview-versie van de prijslijst van 1 maart |  Weergavenaam van aanbieding bijgewerkt op definitieve prijslijst van 1 april| Aanbiedings-id |
 | ------ | ----------- | ----------- |
-| Power BI Premium per Add-On (non-profit personeel prijzen)  |  Power BI Premium per Add-On **(Office)** (non-profit personeel prijzen)   | 31c03289-47ab-4ab0-8df1-03742c127ac6   |
+| Power BI Premium per Add-On (non-profit personeel prijzen)  |  Power BI Premium per gebruiker Add-On **(Office)** (non-profit personeel prijzen)   | 31c03289-47ab-4ab0-8df1-03742c127ac6   |
 
 Klanten moeten een van de volgende vereisten hebben om deze aanbieding te kopen:
 
@@ -474,7 +474,7 @@ Voor de Power BI Premium aanbieding is een vereiste vereist voor aankoop:
 
 | Weergavenaam van aanbieding | Aanbiedings-id |
 | ------ | ----------- |
-|   Power BI Premium per gebruiker Add-On (non-profit personeel prijzen)|  ef0b895b-681b-4026-a5b1-dda182a57d40 |
+|   Power BI Premium per Add-On (non-profit personeel prijzen)|  ef0b895b-681b-4026-a5b1-dda182a57d40 |
 
 Klanten moeten deze vereiste hebben om deze aanbieding te kunnen kopen:
 
@@ -490,7 +490,7 @@ Lees de bronnen over dit onderwerp en deel deze informatie met de juiste belangh
 
 Raadpleeg uw relevante Yammer-community's voor vragen over deze aanbiedingen. 
 
-## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a> Prijsupdates van maart voor Microsoft 365 F3
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="11"></a> Prijsupdates van maart voor Microsoft 365 F3
 
 ### <a name="categories"></a>Categorieën
 
@@ -503,11 +503,11 @@ Onjuiste prijzen van maart 2021 zijn gecorrigeerd voor Microsoft 365 F3 British 
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die Microsoft 365 F3 kopen in GBPs of EUR tussen 1 maart en 17 maart 2021 via het Cloud Solution Provider (CSP)-programma.
+Partners kopen Microsoft 365 F3 in GBPs of EURO tussen 1 maart en 17 maart 2021 via het programma Cloud Solution Provider (CSP).
 
 ### <a name="details"></a>Details
 
-Microsoft heeft onjuiste prijzen voor de Microsoft 365 F3 opgelost. De onjuiste prijzen waren voor GBPs en EUR en alleen voor aanbiedingen die zijn aangeschaft tussen 1 en 17 maart 2021. De beïnvloede aanbiedingen en valuta's worden hieronder vermeld. 
+Microsoft heeft onjuiste prijzen voor de Microsoft 365 F3 opgelost. De onjuiste prijzen waren voor GBP en EUR en alleen voor aanbiedingen die zijn aangeschaft tussen 1 maart en 17 maart 2021. De beïnvloede aanbiedingen en valuta's worden hieronder vermeld. 
 
 | Naam van aanbieding | Valuta | Aanbiedings-id | Materiaal-id |
 | ------ |----------- |----------- |----------- |
@@ -527,7 +527,7 @@ Raadpleeg uw relevante CSP Yammer-community's voor meer vragen.
 
 ________________
 
-## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Werk de naam van een juridisch bedrijf bij via Partner Center
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="10"></a> Werk de naam van een juridisch bedrijf bij via Partner Center
 
 ### <a name="categories"></a>Categorieën
 
@@ -560,7 +560,7 @@ Deel deze informatie binnen uw organisatie, zodat het juiste team de processen k
 Raadpleeg uw relevante CSP Yammer-community's voor meer vragen.
 
 ________________
-## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Bijwerken naar Cloud Solution Provider programma-ontwikkeling (CSP) en wijzigingen in open licentieprogramma's
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a> Bijwerken naar Cloud Solution Provider programma-ontwikkeling (CSP) en wijzigingen in open licentieprogramma's
 
 ### <a name="categories"></a>Categorieën
 
@@ -569,11 +569,11 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Er komen nieuwe doorlopende softwareaanbiedingen voor commerciële en openbare sectoren naar het Cloud Solution Provider(CSP)-programma, samen met wijzigingen in het Open Licensing-programma.
+Er komen nieuwe doorlopende softwareaanbiedingen voor commerciële en openbare sectoren naar het Cloud Solution Provider-programma (CSP), samen met wijzigingen in het Open Licensing-programma.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Commerciële distributeurs en beheerde resellers die verkopen via het Open License-programma, evenals alle CSP-partners die doorlopende software afhandelen
+Commerciële distributeurs en beheerde resellers die verkopen via het Open License-programma, evenals alle CSP-partners die permanente software verkopen
 
 ### <a name="details"></a>Details
 
@@ -583,13 +583,13 @@ In het vervolg van deze digitale transformatie kondigen we de volgende wijziging
 
 - 1 juli 2021: Er worden geen nieuwe SKU's, producten of promoties toegevoegd aan de prijslijst Open License-programma.
 
-- 7 juli 2021: Twee commerciële aanbiedingen, Get Genuine Windows en Visual Studio Professional, en aanbiedingen van de publieke sector (overheid, onderwijs en non-profit – zie aankondiging [)](./2020-december.md#9)worden toegevoegd aan de prijslijst voor door CSP voortgezette software.  De prijslijst vindt u in de sectie Software van de pagina [Sell > Pricing & Offers](https://partnercenter.microsoft.com/pcv/sales) in Partner Center en wordt op deze datum opnieuw gepubliceerd.
+- 7 juli 2021: Twee commerciële aanbiedingen, Get Genuine Windows en Visual Studio Professional, en aanbiedingen voor openbare sectoren (overheid, onderwijs en non-profit – zie aankondiging [)](./2020-december.md#9)worden toegevoegd aan de prijslijst voor door CSP's voortgezette software.  De prijslijst vindt u in de sectie Software van de pagina [Sell > Pricing & Offers](https://partnercenter.microsoft.com/pcv/sales) in Partner Center en wordt op deze datum opnieuw gepubliceerd.
 
 Zie volgende stappen hieronder voor meer informatie over de wijzigingen in het CSP-programma en de wijzigingen in het Open **License-programma.**
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Ontwikkeling van het CSP-programma: Bekijk de Software voor permanent [gebruik in Cloud Solution Provider gereedheidsmateriaal](https://partner.microsoft.com/resources/collection/software-in-csp#/) voor het programma. Gebruik deze [gereedheidskaart om](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) snel de juiste informatie voor uw rol te vinden.
+- Ontwikkeling van het CSP-programma: Bekijk de [permanent software in Cloud Solution Provider gereedheidsmateriaal](https://partner.microsoft.com/resources/collection/software-in-csp#/) voor het programma. Gebruik deze [gereedheidskaart om](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) snel de juiste informatie voor uw rol te vinden.
 
 - Wijzigingen in het Open License-programma: Controleer de [ontwikkeling van het CSP-programma en het open-licentieprogramma om](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) de gereedheidsmaterialen te wijzigen. Gebruik deze [gereedheidskaart om](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) snel de juiste informatie voor uw rol te vinden.
 
@@ -598,7 +598,7 @@ Zie volgende stappen hieronder voor meer informatie over de wijzigingen in het C
 Raadpleeg uw relevante CSP Yammer-community's voor meer vragen.
 
 _______________
-## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>Update naar een eerdere aankondiging: Premium Assessments, een invoeg-on voor Compliance Manager
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="8"></a>Update naar een eerdere aankondiging: Premium Assessments, een invoeg-on voor Compliance Manager
 
 ### <a name="categories"></a>Categorieën
 
@@ -634,7 +634,7 @@ Bekijk de resources over dit onderwerp en deel deze informatie met de juiste bel
 Raadpleeg uw relevante Yammer-community's voor vragen over deze aanbiedingen.
 
 ________________
-## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Uw oplossingen migreren van ONE Commercial Partner (OCP) go-to-market (GTM) naar de commerciële marketplace van Microsoft
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="7"></a> Uw oplossingen migreren van ONE Commercial Partner (OCP) go-to-market (GTM) naar de commerciële marketplace van Microsoft
 
 ### <a name="categories"></a>Categorieën
 
@@ -643,7 +643,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Vanaf 29 maart 2021 krijgt u te maken met beperkte OCP-mogelijkheden (One Commercial Partner) voor go-to-market (GTM). We raden u aan om uw oplossingen te migreren naar de commerciële marketplace in Partner Center.
+Vanaf 29 maart 2021 krijgt u te maken met beperkte MOGELIJKHEDEN van OCP (One Commercial Partner) voor go-to-market (GTM). We raden u aan om uw oplossingen te migreren naar de commerciële marketplace in Partner Center.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -653,22 +653,52 @@ Organisaties die samen verkopen met oplossingen in OCP GTM
 
 In december 2020 zijn we begonnen met het traject van het Microsoft OCP GTM-hulpprogramma naar de commerciële marketplace van Microsoft in Partner Center. Deze overgang breidt de mogelijkheden van de commerciële marketplace uit, waar u uw oplossingen kunt presenteren aan miljoenen klanten, tweerichtingsmogelijkheden kunt delen met andere Microsoft- en partnerverkopers en gezamenlijk innovatieve oplossingen kunt verkopen.
 
-De volgende mijlpaal in de overgang vindt plaats op 29 maart 2021. Op dat moment krijgt u te maken met beperkte OCP GTM-mogelijkheden, en worden sommige velden alleen-lezen. Als u momenteel samen met oplossingen in OCP GTM werkt, raden we u aan om uw oplossingen te migreren naar de commerciële marketplace om te profiteren van de mogelijkheden en uw publicatie-ervaring te vereenvoudigen. 
+De volgende mijlpaal in de overgang vindt plaats op 29 maart 2021. Op dat moment krijgt u te maken met beperkte OCP GTM-mogelijkheden, met een aantal velden die alleen-lezen worden. Als u momenteel samen met oplossingen in OCP GTM werkt, raden we u aan om uw oplossingen te migreren naar de commerciële marketplace om te profiteren van de mogelijkheden en uw publicatie-ervaring te vereenvoudigen.
 
-Als u overstapt naar de commerciële marketplace Partner Center de primaire bestemming voor de publicatie van co-verkoop. Hier kunt u uw bedrijf blijven groeien door uw oplossingen te verbinden met onze gedeelde klanten via dezelfde kanalen en productervaringen die we voor Microsoft-producten gebruiken. [Meer informatie over de commerciële marketplace.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
+Als u overstapt op de commerciële marketplace Partner Center de primaire bestemming voor publicatie bij co-verkoop. Hier kunt u uw bedrijf blijven groeien door uw oplossingen te verbinden met onze gedeelde klanten via dezelfde kanalen en productervaringen die we voor Microsoft-producten gebruiken. [Meer informatie over de commerciële marketplace.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
 
 ### <a name="next-steps"></a>Volgende stappen
 
 - Als u uw oplossingen nog niet hebt verplaatst, volgt u [](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) de instructies in de overgangshandleiding of bekijkt u de stapsgewijs videozelfstudie om alle migratieactiviteiten te voltooien en te beginnen met het publiceren van uw oplossing(en) in de commerciële marketplace. [](/azure/marketplace/co-sell-solution-migration)
 
-- Zie de veelgestelde vragen over de commerciële marketplace van [Microsoft](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf)voor vragen over de beperkte mogelijkheden in OCP GTM. (Zie de sectie Beperkte mogelijkheden van OCP GTM vanaf 29 maart 2021.)
+- Als u vragen hebt over de beperkte mogelijkheden in OCP GTM, bekijkt u de veelgestelde vragen over de commerciële marketplace van Microsoft om de vereisten voor [co-verkoop te bekijken.](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf) (Zie de sectie 'Beperkte mogelijkheden van OCP GTM vanaf 29 maart 2021.)
 
 ### <a name="questions"></a>Vragen?
 
 Neem contact [op](https://partner.microsoft.com/support/?stage=1) met ondersteuning als u vragen hebt of meer informatie nodig hebt.
 
 ________________
-## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>De nieuwe commerce-ervaring in het Cloud Solution Provider (CSP)-programma voor Azure uitbreiden naar Rusland
+## <a name="programmatic-access-to-commercial-marketplace-analytics"></a><a name="6"></a>Programmatische toegang tot commerciële marketplace-analyses
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-03-10
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Partners hebben nu programmatisch toegang tot analyserapporten om de verkoop te bewaken, prestaties te evalueren en aanbiedingen in de commerciële marketplace te optimaliseren.
+
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
+
+Partners met aanbiedingen in de commerciële marketplace.
+
+### <a name="details"></a>Details
+
+Met de API voor toegang tot rapporten van de commerciële marketplace kunt u asynchroon aangepaste rapporten van uw analysegegevens plannen.
+
+Met deze mogelijkheid kunt u rapportagequery's en -sjablonen definiëren op basis van uw behoeften, een planning instellen en tijdige en betrouwbare rapporten op geplande intervallen ontvangen.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Zie Aan de slag met [programmatische toegang tot analytics voor meer informatie.](/azure/marketplace/analytics-get-started)
+
+### <a name="questions"></a>Vragen?
+
+Neem contact [op](https://go.microsoft.com/fwlink/?linkid=2165533) met ondersteuning als u nog vragen hebt.
+
+________________
+## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>De nieuwe commerce-ervaring in het Cloud Solution Provider (CSP)-programma voor Azure naar Rusland uitbreiden
 
 ### <a name="categories"></a>Categorieën
 
@@ -677,15 +707,15 @@ ________________
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners in Rusland die via het Cloud Solution Provider (CSP)-programma werken.
+Alle partners in Rusland die het programma Cloud Solution Provider (CSP).
 
 ### <a name="details"></a>Details
 
-Vanaf 10 maart 2021 kondigen we met trots de beschikbaarheid aan van de nieuwe **commerce-ervaring in CSP voor Azure in Rusland.** Deze ervaring stroomlijnt en verbetert de manier waarop klanten Azure-services kopen en gebruiken. Het biedt partners in het CSP-programma ook een consistente weergave van azure-prijzen voor verkoopmotie, PRIJZEN VOOR USD voor wereldwijde consistentie, afstemming van factureringsdatums en toegang tot Azure Cost Management.
+Vanaf 10 maart 2021 kondigen we met trots de beschikbaarheid aan van de nieuwe **commerce-ervaring in CSP voor Azure in Rusland.** Deze ervaring stroomlijnt en verbetert de manier waarop klanten Azure-services kopen en gebruiken. Het biedt partners in het CSP-programma ook een consistente weergave van azure-prijzen voor verkoopmotie, USD-prijzen voor wereldwijde consistentie, afstemming van factureringsdatums en toegang tot Azure Cost Management.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Er zijn verschillende resources beschikbaar met de nieuwe Azure Commerce-ervaring en aanvullende informatie. U vindt de meest recente veelgestelde vragen, stapels, video en meer in de [resourcegalerie voor updates van het CSP-programma.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+Er zijn verschillende resources beschikbaar om de nieuwe Azure Commerce-ervaring te introduceren en aanvullende informatie te bieden. U vindt de meest recente veelgestelde vragen, stapels, video en meer in de resourcegalerie van [CSP Program Updates.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Partner Center softwarelicentiesleutel en downloadafhandeling
@@ -697,24 +727,24 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-De Partner Center downloaden van software en de uitvoering van licentiesleutels is hersteld.
+De Partner Center voor het downloaden van software en het voldoen aan de licentiesleutel is opnieuw ingesteld.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle Cloud Solution Provider (CSP)-partners die softwareorders voor permanent gebruik en serverabonnementen uitvoeren via Partner Center
+Alle Cloud Solution Provider (CSP)-partners die softwareorders voor doorlopende en serverabonnementen uitvoeren via Partner Center
 
 ### <a name="details"></a>Details
 
-In reactie op feedback van partners geven we opnieuw aan Partner Center mogelijkheid om software- en licentiesleutels te verkrijgen voor permanente softwareorders en softwareorders voor serverabonnementen. Deze wordt hersteld naar de vorige staat voordat deze wordt verwijderd op 19 januari 2021. (Zie de [aankondiging](2020-september.md#17).)
+In reactie op feedback van partners geven we opnieuw aan Partner Center mogelijkheid om software- en licentiesleutels te verkrijgen voor permanente en serverabonnementssoftwareorders. Deze wordt hersteld naar de vorige staat voordat deze wordt verwijderd op 19 januari 2021. (Zie de [aankondiging](2020-september.md#17).)
 
-Houd er rekening mee dat softwarelicentiesleutels en downloadkoppelingen waardevolle en zeer aangevraagde intellectueel eigendomsactiva zijn. Als deze worden gelekt, kunnen ze snel worden verwijderd van hun activeringslimieten en een negatieve klant- en partnerervaring veroorzaken.
+Houd er rekening mee dat softwarelicentiesleutels en downloadkoppelingen waardevolle en uiterst aangevraagde intellectueel eigendomsactiva zijn. Als deze worden gelekt, kunnen ze snel worden verwijderd van hun activeringslimieten en een negatieve klant- en partnerervaring veroorzaken.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de volgende bronnen voor gebruiksinstructies en belangrijke richtlijnen voor het distribueren van softwaresleutels:
+Bekijk de volgende bronnen voor gebruiksinstructies en belangrijke richtlijnen voor de distributie van softwaresleutels:
 
 - [On-premises software verkopen via het CSP-programma](../csp-on-premise-software.md)
-- [Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (Zie de sectie Guidance on Software Key Distribution(Richtlijnen voor distributie van **softwaresleutels).)**
+- [Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (Zie de sectie Guidance on Software Key Distribution(Richtlijnen voor distributie van **softwaresleutels))**
 
 ### <a name="questions"></a>Vragen?
 
@@ -738,20 +768,20 @@ Partners met deals in PSC
 
 ### <a name="details"></a>Details
 
-Als onderdeel van onze gedeelde toezegging voor groei, is **co-verkoop** met Microsoft het pad voor u om ontdekt te **worden,** uw expertise te leveren en uw klantenvoetafdruk voor positieve klantresultaten uit te breiden. Met een gemiddelde deal die **3,5** keer sneller is dan normaal, kunt u met het beheer van uw ervaring voor co-verkoop in Partner Center verkopen via de directe klant, partner en Microsoft-verkoperkanalen en uw hele verwijzingspijplijn op één locatie beheren.
+Als onderdeel van onze gedeelde toezegging voor groei is **co-verkoop** met Microsoft het pad voor u om te worden **ontdekt,** uw expertise te leveren en uw klantenvoetafdruk te vergroten voor positieve resultaten van klanten. Met een gemiddelde deal die **3,5** keer sneller is dan normaal, kunt u met het beheer van uw ervaring voor co-verkoop in Partner Center verkopen via de directe klant- en partner- en Microsoft-verkoperkanalen en uw volledige verwijzingspijplijn op één locatie beheren.
 
-**PSC** wordt vanaf **31 maart 2021** overgeplaatst naar **alleen-lezentoegang.** Daarom raden we u aan om uw overstap naar Partner Center te starten en toegang te krijgen tot deze verbeteringen: 
+**PSC** wordt vanaf **31 maart 2021** overgeplaatst naar **alleen-lezentoegang.** Daarom raden we u aan om te beginnen met uw overstap naar Partner Center en toegang te krijgen tot deze verbeteringen: 
 
 - **Nauwkeurigere routering** van de deals die u met Microsoft deelt naar de juiste verkoper, op basis van het type hulp dat u nodig hebt.
-- **Validatie van geschiktheid vooraf** voor oplossingen die in aanmerking komen voor een incentive en om te voldoen aan de criteria van het ISV Connect-programma, om het goedkeuringsproces en de definitieve bewijs van uitvoering (POE)-attestatie te vereenvoudigen.
-- **Naadloze gebruikerservaring** om al uw kansen voor co-verkoop en gekwalificeerde leads op één plek te beheren.
+- **Maak vooraf een deal** met validatie van geschiktheid voor oplossingen die in aanmerking komen voor een incentive en om te voldoen aan de criteria van het ISV Connect-programma, wat het goedkeuringsproces en de definitieve POE-attestatie (Proof of Execution) vereenvoudigt.
+- **Naadloze gebruikerservaring** voor het beheren van al uw kansen voor co-verkoop en gekwalificeerde verkoopkansen op één plek.
 
-We hebben onlangs ook nieuwe functies toegevoegd aan Partner Center om u te helpen bij uw overstap:
+We hebben onlangs ook nieuwe functies toegevoegd in Partner Center om u te helpen bij uw overstap:
 
 - [Bulkbewerkingen voor kansen voor co-verkoop](../bulk-operations.md)
-- [Deal migration feature](../psc-to-pc.md) (Zie de sectie **PSC Deals migration(Migratie van PSC-deals).)**
+- [Functie voor dealmigratie](../psc-to-pc.md) (zie de sectie **Migratie van PSC-deals.)**
 
-Door gebruik te maken van de ervaring voor Partner Center, hebben uw verkoopteams meer tijd om zich te richten op het stimuleren van leads en verkoopkansen, het sluiten van deals en het creëren van blijvende klantrelaties.
+Door gebruik te maken van de ervaring voor Partner Center, hebben uw verkoopteams meer tijd om zich te richten op het stimuleren van leads en verkoopkansen, het sluiten van deals en het creëren van langdurige klantrelaties.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -771,7 +801,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Op 1 april 2021 brengt Microsoft verschillende nieuwe producten en aanbiedingen voor het Cloud Solution Provider (CSP)-programma uit.
+Op 1 april 2021 zal Microsoft verschillende nieuwe producten en aanbiedingen voor het Cloud Solution Provider (CSP)-programma lanceren.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -793,7 +823,7 @@ Bekijk de [Power BI release voor](/power-platform-release-plan/2020wave2/power-b
 
 **Aanbiedingsdetails**
 
-Houd er rekening mee dat de naam van de aanbieding enigszins verschilt van de preview-versie van de prijslijst.
+Houd er rekening mee dat de naam van de aanbieding enigszins afwijkt van de preview-versie van de prijslijst.
 
 | Naam van aanbieding | Aanbiedings-id |
 | ------ |----------- |
@@ -803,12 +833,12 @@ Houd er rekening mee dat de naam van de aanbieding enigszins verschilt van de pr
 | Power BI Premium per gebruiker (non-profit personeel prijzen) | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
 | Power BI Premium per gebruiker Add-On | 244ff87e-5925-44a0-bf31-cea189719b58 | 
 | Power BI Premium per gebruiker Add-On voor onderwijsmedewerkers | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
-| Power BI Premium per gebruiker Add-On voor studenten | cf62d70d-5af5-422a-bda8-97936402ac8e | 
+| Power BI Premium Per gebruiker Add-On for Students | cf62d70d-5af5-422a-bda8-97936402ac8e | 
 | Power BI Premium per Add-On (non-profit personeel prijzen) | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
 
-**UsL geo- en segmentuitbreiding customer voice en marketing**
+**Geo- en segmentuitbreiding voor Customer Voice en Marketing USL**
 
-Als vervolg op de lancering van december 2020 zijn de USL-aanbiedingen voor Dynamics 365 Customer Voice en Marketing gewijzigd om nieuwe landen en meer non-profit- en onderwijs-SKU's toe te voegen.
+Als vervolg op de lancering van december 2020 zijn de USL-aanbiedingen van Dynamics 365 Customer Voice en Marketing gewijzigd om nieuwe landen en meer non-profit- en onderwijs-SKU's toe te voegen.
 
 | Naam van aanbieding | Aanbiedings-id |
 | ------ |----------- |
@@ -817,7 +847,7 @@ Als vervolg op de lancering van december 2020 zijn de USL-aanbiedingen voor Dyna
 
 Ga naar de volgende pagina's voor meer informatie over deze aanbiedingen:
 
-- [Startpagina voor Dynamics 365 Customer Service Voice](https://dynamics.microsoft.com/customer-voice/overview/)
+- [Startpagina van Dynamics 365 Customer Service Voice](https://dynamics.microsoft.com/customer-voice/overview/)
 - [Startpagina voor Dynamics 365 Marketing](https://dynamics.microsoft.com/customer-voice/overview/)
 
 ### <a name="next-steps"></a>Volgende stappen
@@ -838,23 +868,23 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Microsoft Universeel afdrukken is vanaf 1 maart 2021 beschikbaar voor transact binnen bepaalde Microsoft 365-suites en als een zelfstandige invoeg-on.
+Microsoft Universeel afdrukken is vanaf 1 maart 2021 beschikbaar voor transact binnen bepaalde Microsoft 365-suites en als zelfstandige invoegactie.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
+Alle partners die het programma Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Details
 
 [Universeel afdrukken](https://aka.ms/universalprint) is een Microsoft 365 afdrukservice waarmee on-premises afdrukservers niet meer nodig zijn en Windows-apparaten kunnen afdrukken naar bij Azure geregistreerde printers. Deze is beschikbaar voor transact vanaf 1 maart 2021.
 
-Werkpersoneel profiteert van afdrukken zonder stuurprogramma, gestroomlijnde locatiegebaseerde printerdetectie en een intuïtieve afdrukervaring zonder leercurve. Apparaten die zijn verbonden met Azure Active Directory (Azure AD) gebruiken bestaande Azure AD-referenties om veilig af te drukken. Beheerders beheren afdrukken met behulp van de Azure Portal en kunnen printers eenvoudig verbinden met systeemeigen ondersteuning voor Universeel afdrukken. Universeel afdrukken kunnen worden geïmplementeerd met niet-compatibele printers met behulp van connector voor Universeel afdrukken-software.
+Werknemers profiteren van afdrukken zonder stuurprogramma, gestroomlijnde locatiegebaseerde printerdetectie en een intuïtieve afdrukervaring zonder leercurve. Apparaten die zijn verbonden met Azure Active Directory (Azure AD) gebruiken bestaande Azure AD-referenties om veilig af te drukken. Beheerders beheren afdrukken met behulp van de Azure Portal en kunnen printers eenvoudig verbinden met systeemeigen ondersteuning voor Universeel afdrukken. Universeel afdrukken kunnen worden geïmplementeerd met niet-compatibele printers met behulp van connector voor Universeel afdrukken-software.
 
-Universeel afdrukken worden bij het starten van Windows E3, A3, E5 en A5 en Microsoft 365 BP, F3, E3, A3, E5 en A5 ingevuld.  
+Universeel afdrukken wordt bij de start van Windows E3, A3, E5 en A5 en Microsoft 365 BP, F3, E3, A3, E5 en A5 ingevuld.  
 
 **Aanbiedingsdetails**
 
-Houd er rekening mee dat de naam van de aanbieding enigszins verschilt van de preview-versie van de prijslijst.
+Houd er rekening mee dat de naam van de aanbieding enigszins afwijkt van de preview-versie van de prijslijst.
 
 | Naam van aanbieding | Aanbiedings-id | Materiaal-id |
 | ------ |----------- |----------- |  
@@ -865,7 +895,7 @@ Houd er rekening mee dat de naam van de aanbieding enigszins verschilt van de pr
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Lees de prijslijst en het overzicht Universeel afdrukken [prijslijst.](/universal-print/fundamentals/universal-print-whatis) Deel deze informatie met alle juiste contactpersonen in uw organisatie.
+Lees de prijslijst en het overzicht van [Universeel afdrukken prijzen.](/universal-print/fundamentals/universal-print-whatis) Deel deze informatie met alle juiste contactpersonen in uw organisatie.
 
 ### <a name="questions"></a>Vragen?
 
