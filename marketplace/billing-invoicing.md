@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.date: 05/04/2021
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373453"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112970188"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace facturering en facturering
 
@@ -49,7 +49,7 @@ U wordt gefactureerd voor uw terugkerende aankopen in de periode waarin u deze h
 > De serviceperiode is de periode waarvoor u hebt betaald om de service te gebruiken. De service wordt automatisch verlengd op de en van de serviceperiode, tenzij u vooraf annuleert.
 
 > [!NOTE]
-> We passen ons aan de laatste dag van de factureringsmaand aan als de datum van de verlengingsmaand niet gelijk kan zijn aan de aankoopmaanddatum. Dit betekent dat als u zich abonneert op 31-1-2018, de einddatum van de facturering voor februari 2/27 is, met de nieuwe factureringsperiode vanaf 2/28 (2/28 en 2/29 als u begint in een schrikkeljaar).
+> We passen de factureringstermijn (of de laatste dag van de factureringsmaand) aan als de verlengingsdatum van de maand niet gelijk kan zijn aan de aankoopmaand. Dit betekent dat als u zich abonneert op 31-1-2018, de einddatum van de facturering wordt aangepast naar 2/27, met de verlengingsdatum respectievelijk 2/28 (2/28 en 2/29, als u begint in een schrikkeljaar).
 
 ## <a name="invoices"></a>Facturen
 
