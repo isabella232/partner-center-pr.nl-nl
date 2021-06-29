@@ -9,14 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: de0f13bab73eebde3c1cf12db586d07c47b277f6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 74595843e4aaf2fe0e92fb92d417343dd7e4b81d
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149618"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013298"
 ---
-# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Inleiding: Met azure-plan kunnen partners Azure kopen tegen betalen-naar-gebruik-tarieven voor klanten
+# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Inleiding: Met azure-plan kunnen partners Azure kopen tegen betalen per gebruik-tarieven voor klanten
+
+**Van toepassing op**: Partner Center
 
 **Juiste rollen:** beheeragent | Verkoopagent | Globale beheerder
 
@@ -29,7 +31,7 @@ Uw klanten overstappen van hun bestaande CSP Azure-aanbiedingen naar Azure-servi
 - De partner en de eindklant moeten een tot stand gebrachte resellerrelatie hebben via Partner Center en de klant moet de Microsoft-klantovereenkomst.
 
 >[!Note]
->Vanaf 1 februari 2020 wordt de bestaande Microsoft Cloud-overeenkomst verwijderd uit het CSP-programma. Vanaf dat moment is partnerbevestiging (attestation) van de acceptatie van de klant voor de nieuwe Microsoft-klantovereenkomst vereist voor alle andere aanbiedingen, waaronder Microsoft 365, Dynamics 365 en bestaande Azure. Partners in de CSP kunnen geen nieuwe bestelling voor de klant maken zonder attestation van de Microsoft-klantovereenkomst. Lees Acceptatie van [klantacceptatie van de Microsoft-klantovereenkomst](confirm-customer-agreement.md)voor meer Microsoft-klantovereenkomst.
+>Vanaf 1 februari 2020 wordt de bestaande Microsoft Cloud-overeenkomst verwijderd uit het CSP-programma. Vanaf dat moment is partnerbevestiging (attestation) van de acceptatie van de klant voor de nieuwe Microsoft-klantovereenkomst vereist voor alle andere aanbiedingen, waaronder Microsoft 365, Dynamics 365 en bestaande Azure. Partners in de CSP kunnen geen nieuwe bestelling voor de klant maken zonder attestation van de Microsoft-klantovereenkomst. Lees Acceptatie van [klantacceptatie van](confirm-customer-agreement.md)de Microsoft-klantovereenkomst voor meer Microsoft-klantovereenkomst.
 
 
 ## <a name="next-steps"></a>Volgende stappen

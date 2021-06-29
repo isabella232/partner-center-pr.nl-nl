@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276855"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013315"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Analytische gegevens gebruiken voor meer informatie over de omzet van abonnementen
 
@@ -33,13 +33,13 @@ Als u manieren wilt plannen om uw CSP-bedrijf te ontwikkelen, moet u weten hoe u
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>CSP-Twelve-Month (TTM) volgen
 
-Na 12 maanden vertegenwoordigt de CSP-omzet de Cloud Solution Provider programma-omzet in USD op het niveau van een algemeen partneraccount. De gegevens worden vernieuwd op de zesde dag van elke maand, om de twaalfmaandse omzet tot de vorige maand weer te geven. Op 9 september 2020 ziet u bijvoorbeeld de TTM voor de vaste periode van september 2019 tot augustus 2020.
+Na 12 maanden vertegenwoordigt de CSP-omzet de Cloud Solution Provider programma-omzet in USD op het niveau van een algemeen partneraccount. De gegevens worden vernieuwd op de zesde dag van elke maand, om de twaalfmaandse omzet tot de vorige maand weer te geven. Op 9 september 2020 ziet u bijvoorbeeld de TTM voor de vaste periode van september 2019 tot augustus 2020. Softwareabonnementen worden uitgesloten. TTM-omzet weerspiegelt alleen de in aanmerking komende omzet waarvoor de facturen al zijn betaald. 
 
 De omzet die wordt weergegeven Partner Center wordt berekend voor een vast tijdsinterval van 12 maanden en kan niet worden gewijzigd in een kortere periode.
 
 Een uitsplitsing van de omzet op het niveau van uw partnerlocatieaccount bekijken:
 
-- Selecteer de koppeling Downloaddetails en download een TSV-bestand met de TTM-omzet voor al uw locaties.
+- Selecteer de koppeling Downloaddetails en download een TSV-bestand dat de TTM-omzet voor al uw locaties we bekijken.
 
 >[!NOTE] 
 >Het opsommen van de afzonderlijke TTM-omzetnummers over MPN-ID's in het TSV-bestand lijkt mogelijk groter dan de totale TTM-omzet die wordt weergegeven op Partner Center. Dit komt doordat de omzet dubbel kan worden geteld voor abonnementen met meerdere partnervermeldingen in het gedownloade bestand.

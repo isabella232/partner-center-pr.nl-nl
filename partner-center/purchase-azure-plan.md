@@ -9,14 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab23e04afd3ffd5c287cc057aa51e872ab725f4d
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: e0a5626c4c1efd5eb07a8e948694b84d48b66f3b
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551177"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013332"
 ---
-# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Het Azure-plan kopen voor klanten & nieuwste Azure-services te gebruiken tegen tarieven voor betalen per gebruik
+# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Het Azure-abonnement kopen voor klanten & toegang tot de nieuwste Azure-services tegen tarieven voor betalen per gebruik
+
+**Van toepassing op**: Partner Center 
 
 **Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent
 
@@ -24,7 +26,7 @@ Wanneer u een Azure-plan voor uw klanten koopt onder de Microsoft-klantovereenko
 
 ## <a name="countryregion-availability"></a>Beschikbaarheid in land/regio
 
-De nieuwe commerce-ervaring in CSP voor Azure is momenteel gepland om beschikbaar te zijn in 139 landen. Bekijk de volledige lijst met deze [landen/regio's.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
+De nieuwe commerce-ervaring in CSP voor Azure is momenteel gepland om beschikbaar te zijn in 139 landen. Zie de volledige lijst met deze [landen/regio's.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
 
 ## <a name="how-to-purchase-azure-plan"></a>Een Azure-abonnement kopen
 
@@ -76,7 +78,7 @@ Azure-reserveringen moeten worden gekoppeld aan een actief Azure-plan. Kies in d
 >Als de klant nog geen actief Azure-plan heeft, selecteert u Azure om er nu een toe te voegen. Lees [Azure-reserveringen aanschaffen voor meer instructies.](azure-reservations-buying.md#purchase-azure-reservations)
 
 >[!Note]
->Het bereik van een reservering kan alleen worden ingesteld **op Gedeeld,** momenteel in Partner Center. Als u één abonnementsbereik wilt selecteren of wilt bijwerken van gedeeld abonnementsbereik naar één abonnement, gaat u **naar Microsoft Azure Beheerportal** met behulp van de volgende instructies. 
+>Het bereik van een reservering kan alleen worden ingesteld **op Gedeeld,** momenteel in Partner Center. Als u een bereik voor één abonnement wilt selecteren of wilt bijwerken van gedeeld abonnementsbereik naar één abonnement, gaat u **naar Microsoft Azure Management Portal met** behulp van de volgende instructies. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Instelling voor reserveringen voor gedeeld bereik.":::
 
