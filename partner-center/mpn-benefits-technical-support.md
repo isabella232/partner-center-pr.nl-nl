@@ -9,19 +9,19 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 0052f4dd352789245eadf157823119cd5f05f2a8
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
+ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373299"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113105036"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Technische ondersteuning voor on-premises of cloudproducten
 
 **Juiste rollen:**
 - Aan MPN gekoppelde globale beheerder of MPN-partnerbeheerder om uw technische ondersteuningsvoordelen te activeren.
-- Elk AAN MPN gekoppeld gebruikersaccount om uw toegangs-id en contract-id na de activering weer te geven.
-- Admin Agent om namens uw klant ondersteuning te bieden voor cloudproducten.
+- Elk aan MPN gekoppeld gebruikersaccount om uw toegangs-id en contract-id na de activering weer te geven.
+- Beheeragent om namens uw klant ondersteuning te bieden voor cloudproducten.
 - Een AAD- of MSA-account om on-premises ondersteuningsaanvragen te maken namens uw klant of voor uw eigen organisatie.
 
 ## <a name="overview"></a>Overzicht
@@ -31,7 +31,7 @@ Op [de pagina Technische](https://partner.microsoft.com/dashboard/mpn/membership
 1. **Technische productondersteuningsincidenten - zie hieronder**
 2. Technical Presales and Deployment Services (TPD) - [meer informatie](technical-benefits.md)
 
-Dit artikel is bedoeld voor leden van de Microsoft Partner Network (MPN) die willen weten hoe ze hun technische voordelen activeren, toegangs-id en contract-id kunnen bekijken, weten welke producten en versies worden ondersteund en hoe ze een proces kunnen starten om een incident/ticket voor technische ondersteuning te maken met mpn-partnervoordelen
+Dit artikel is bedoeld voor leden van de Microsoft Partner Network (MPN) die willen weten hoe ze hun technische voordelen kunnen activeren, toegangs-id's en contract-id's moeten bekijken, weten welke producten en versies worden ondersteund en hoe ze het proces voor het maken van een incident/ticket voor technische ondersteuning kunnen starten met mpn-partnervoordelen
 
 ### <a name="steps"></a>Stappen
 
@@ -39,7 +39,7 @@ Dit artikel is bedoeld voor leden van de Microsoft Partner Network (MPN) die wil
 
 2. Controleer de rechten voor technische ondersteuning en ondersteunde producten om te zien of uw MPN-voordelen kunnen worden gebruikt voor uw beoogde product en versie
 
-3. Microsoft-productondersteuning (voor recente on-premises producten): Ondersteuning voor bedrijven gebruiken voor on-premises productondersteuning
+3. Microsoft-productondersteuning (voor recente on-premises producten): Gebruik Ondersteuning voor bedrijven voor on-premises productondersteuning
 
 4. Signature Cloud Support (voor cloudproducten): gebruikers met de rol Beheerderagent selecteren Klanten en **servicebeheer om** een aanvraag te maken. Zie de volgende details over elke stap:
 
@@ -52,7 +52,7 @@ Uw technische voordelen weergeven of activeren in Partner Center:
    > [!NOTE]
    > Als uw account alleen is gekoppeld aan CSP en niet is gekoppeld aan MPN, ziet u het foutbericht 'U bent niet gemachtigd voor deze actie'. U moet een MPN-account hebben.
 
-2. Vouw **Voordelen uit** in het linkernavigatiemenu en selecteer Technische **voordelen.** Op de pagina Technische voordelen worden de actieve Gold-, Silver- of Microsoft Action Pack-lidmaatschapsaanbiedingen van uw organisatie weergegeven.
+2. Vouw **Voordelen uit** in het linkernavigatiemenu en selecteer Technische [**voordelen.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Op de pagina Technische voordelen worden actieve Gold-, Silver- of Microsoft Action Pack-lidmaatschapsaanbiedingen van uw organisatie weergegeven.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Technische voordelen vouwt u vervolgens Voordelen uit" :::
 
@@ -63,14 +63,14 @@ Uw technische voordelen weergeven of activeren in Partner Center:
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Selecteer Activeren voor technische voordelen" :::
 
-4. De toegangs-id en de contract-id worden aan alle gebruikers weergegeven nadat de activering is geslaagd. U kunt Microsoft Product Support and Signature Product Support (Gold- en Silver-leden) gebruiken wanneer de toegangs-id en contract-id worden weergegeven.
+4. Toegangs-id en contract-id worden weergegeven voor alle gebruikers na een geslaagde activering. U kunt Microsoft Product Support and Signature Product Support (Gold- en Silver-leden) gebruiken wanneer de toegangs-id en contract-id worden weergegeven.
 
-   Als de knop Activeren grijs wordt weergeven, heeft uw account niet de beveiligingsrol Globale beheerder of MPN-partnerbeheerder. Gebruik  [Gebruikersbeheer en](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) filter op Globale beheerder of MPN-partnerbeheerder om een gebruiker te vinden om uw voordelen te activeren.
+   Als de knop Activeren grijs wordt weergeven, heeft uw account niet de beveiligingsrol Globale beheerder of MPN-partnerbeheerder. Gebruik  [Gebruikersbeheer en](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) filter op globale beheerder of MPN-partnerbeheerder om een gebruiker te vinden om uw voordelen te activeren.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Geactiveerde technische voordelen tonen toegangs-id en contract-id" :::
 
    > [!NOTE]
-   > U hebt de toegangs-id en contract-id nodig wanneer u microsoft-productondersteuning of handtekeningproductondersteuning voor de eerste keer voor elk account gebruikt. Zodra de voordelen aan uw account zijn gekoppeld, hoeft u de toegangs-id en de contract-id niet opnieuw te gebruiken.  
+   > U hebt de toegangs-id en contract-id nodig wanneer u microsoft-productondersteuning of handtekeningproductondersteuning voor de eerste keer voor elk account gebruikt. Zodra de voordelen aan uw account zijn gekoppeld, hoeft u de toegangs-id en contract-id niet opnieuw te gebruiken.  
 
 ## <a name="technical-support-entitlement-and-supported-products"></a>Rechten voor technische ondersteuning en ondersteunde producten
 
@@ -86,11 +86,11 @@ Als onderdeel van het Microsoft Partner Network komen partners in aanmerking voo
 | Microsoft-productondersteuning<br>Voor recente on-premises <br>alleen producten | 10 incidenten | 15 incidenten | 20 incidenten |
 | Signature Cloud Support<br>Alleen voor cloudproducten | | Cloudcompetenties:<br>Onbeperkt<br><br>Andere competenties:<br>5 incidenten | Cloudcompetenties:<br>Onbeperkt<br>          <br>Andere competenties:<br>10 incidenten   | 
 
-Cloudcompetenties zijn onder andere: Security Competency, Cloud Business Applications, Cloud Platform, Cloud Productivity, Enterprise Mobility Management, Small and Midmarket Cloud Solutions.
+Cloudcompetenties zijn onder andere: Beveiligingscompetentie, Cloud Business Applications, Cloud Platform, Cloud Productivity, Enterprise Mobility Management, Small en Midmarket Cloud Solutions.
 
 ## <a name="microsoft-product-support-on-premises"></a>Microsoft-productondersteuning (on-premises)
 
-U kunt **Microsoft-productondersteuning gebruiken** voor technische ondersteuning op recente on-premises producten. Recente on-premises producten bevatten alleen het huidige product (N) en de vorige productversie (N-1). De vorige productversie wordt alleen ondersteund als deze binnen de [algemene ondersteuning valt;](/lifecycle/policies/fixed) op basis van [het N-1-ondersteuningsbeleid.](https://aka.ms/n-1) Gebruik voor niet-ondersteunde producten en versies de relevante optie voor betaalde ondersteuning of koop een partnerondersteuningsplan.
+U kunt **Microsoft-productondersteuning gebruiken** voor technische ondersteuning bij recente on-premises producten. Recente on-premises producten bevatten alleen het huidige product (N) en de vorige productversie (N-1). De vorige productversie wordt alleen ondersteund als deze binnen de [algemene ondersteuning valt;](/lifecycle/policies/fixed) op basis van [het N-1-ondersteuningsbeleid.](https://aka.ms/n-1) Gebruik voor niet-ondersteunde producten en versies de relevante betaalde ondersteuningsoptie of koop een partnerondersteuningsplan.
 
 De eerste keer dat u het voordeel gebruikt, hebt u de toegangs-id en contract-id nodig. De voordelen zijn gekoppeld aan uw gebruikersaccount totdat ze verlopen of er geen ondersteuningsincidenten meer zijn.
 
@@ -98,17 +98,17 @@ Elk gebruikersaccount (AAD of MSA) kan technische ondersteuning gebruiken voor o
 
 Selecteer [Ondersteuning voor Bedrijven om](https://support.serviceshub.microsoft.com/supportforbusiness/create) een ondersteuningsaanvraag voor een on-premises product te maken.
 
-### <a name="how-many-partner-support-incidents-are-remaining"></a>Hoeveel partnerondersteuningsincidenten resterend zijn
+### <a name="how-many-partner-support-incidents-are-remaining"></a>Hoeveel ondersteuningsincidenten van partners nog resterend zijn
 
-U kunt deze informatie alleen verkrijgen via de ondersteuningsportal voor Ondersteuning voor Bedrijven on-premises. Helaas bevatten de cloudportals (bijvoorbeeld Azure, LCS en andere) deze informatie niet.
+U kunt deze informatie alleen verkrijgen via de ondersteuningsportal voor Bedrijven on-premises. In de cloudportals (bijvoorbeeld Azure, LCS en andere) wordt deze informatie helaas niet weer gegeven.
 
 U moet Ondersteuning voor Bedrijven gebruiken en het proces starten om een on-premises ondersteuningsincident te maken. We maken geen ondersteuningsaanvraag omdat we het proces niet voltooien. De informatie die we nodig hebben, wordt weergegeven in stap 2.
 
-1. Open [Ondersteuning voor Bedrijven,](https://support.serviceshub.microsoft.com/supportforbusiness/create) selecteer windows 10 en voer dummygegevens in
+1. Open [Ondersteuning voor Bedrijven,](https://support.serviceshub.microsoft.com/supportforbusiness/create) selecteer Windows 10 en voer dummygegevens in
 
-2. Als uw ondersteuningscontract al aan uw account is gekoppeld, worden ondersteuningsincidenten weergegeven. Voor on-premises ondersteuning wordt het partnerondersteuningscontract weergegeven (tenzij het niet langer geldig is), inclusief de resterende begindatum, einddatum en incidenten.
+2. Als uw ondersteuningscontract al aan uw account is gekoppeld, worden ondersteuningsincidenten weergegeven. Voor on-premises ondersteuning wordt het partnerondersteuningscontract weergegeven (tenzij het niet langer geldig is) met inbegrip van de begindatum, einddatum en resterende incidenten.
 
-Als u uw ondersteuningscontract wilt koppelen, vouwt u 'Moet u meer ondersteuningsplannen kopen of toevoegen' uit en selecteert u de knop **Contract** toevoegen om uw toegangs-id en contract-id in te voeren. Vouw **'Wilt u niet-beschikbare ondersteuningsplannen zien?' uit.** om partnerhandtekeninggegevens weer te geven. U ziet hier alleen Partnerondersteuning als de contracten zijn verlopen, u geen incidenten meer hebt of als u een oud on-premises product hebt geselecteerd [(zie aka.ms/n-1](https://aka.ms/n-1) voor ondersteuningsproducten)
+Als u uw ondersteuningscontract moet koppelen, vouwt u 'Moet u meer ondersteuningsplannen kopen of toevoegen' uit en selecteert u de knop **Contract** toevoegen om uw toegangs-id en contract-id in te voeren. Vouw de **ondersteuningsplannen Wilt u niet beschikbaar zien? uit?** om partnerhandtekeninggegevens weer te geven. U ziet hier alleen partnerondersteuning als de contracten zijn verlopen, u geen incidenten meer hebt of als u een oud on-premises product hebt geselecteerd [(zie aka.ms/n-1](https://aka.ms/n-1) voor ondersteuningsproducten)
 
 Zie Hoeveel partnerondersteuningsincidenten zijn er [nog? voor meer informatie.](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)
 
@@ -116,7 +116,7 @@ Zie Hoeveel partnerondersteuningsincidenten zijn er [nog? voor meer informatie.]
 
 Gold- of Silver-competentiepartners kunnen **Signature Cloud Support** voor technische ondersteuning op cloudproducten. Action Pack komen niet in aanmerking voor Signature Cloud Support tenzij ze een competentie hebben.  
 
-U hebt de toegangs-id en contract-id nodig wanneer u het voordeel voor Azure, Dynamics 365 en andere cloudproducten voor het eerst gebruikt (uitzonderings-Microsoft 365). De voordelen zijn gekoppeld aan uw gebruikersaccount totdat ze verlopen of er geen ondersteuningsincidenten meer zijn.
+U hebt de toegangs-id en contract-id nodig wanneer u het voordeel voor Azure, Dynamics 365 en andere cloudproducten voor het eerst gebruikt (Microsoft 365). De voordelen zijn gekoppeld aan uw gebruikersaccount totdat ze verlopen of er geen ondersteuningsincidenten meer zijn.
 
 > [!NOTE]  
 > Wanneer u de gebruikt met behulp van de Azure Portal. Als uw ondersteuningscontract al aan het account is gekoppeld, ziet u het foutbericht 'Toegangs-id is al gekoppeld...' wanneer u de toegangs-id en contract-id toevoegt. zie hieronder
