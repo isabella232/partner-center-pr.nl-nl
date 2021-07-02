@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
-ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
+ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113105036"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173659"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Technische ondersteuning voor on-premises of cloudproducten
 
@@ -54,20 +54,20 @@ Uw technische voordelen weergeven of activeren in Partner Center:
 
 2. Vouw **Voordelen uit** in het linkernavigatiemenu en selecteer Technische [**voordelen.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Op de pagina Technische voordelen worden actieve Gold-, Silver- of Microsoft Action Pack-lidmaatschapsaanbiedingen van uw organisatie weergegeven.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Technische voordelen vouwt u vervolgens Voordelen uit" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Technische voordelen vouwt u vervolgens Voordelen uit." :::
 
    > [!NOTE]
    > Als u geen actieve lidmaatschapsaanbiedingen hebt, ziet u het bericht 'Het lijkt erop dat u nog geen voordelen hebt'. Als uw bedrijf actieve lidmaatschapsaanbiedingen heeft, maar u deze niet kunt zien, hebt u zich aangemeld met het verkeerde account. Als u uw account wilt controleren, selecteert u het **pictogram Account** rechtsboven op de pagina en selecteert u Aanmelden met een **ander account** (indien nodig).
 
 3. Als u Microsoft Product Support of Signature Product Support wilt gebruiken, moet u het voordeel activeren. Selecteer de knop Activeren om het voordeel **te** activeren. Voor het gebruikersaccount dat wordt gebruikt voor activering zijn de rollen Globale beheerder of MPN-partnerbeheerder vereist.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Selecteer Activeren voor technische voordelen" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Selecteer Activeren voor technische voordelen." :::
 
 4. Toegangs-id en contract-id worden weergegeven voor alle gebruikers na een geslaagde activering. U kunt Microsoft Product Support and Signature Product Support (Gold- en Silver-leden) gebruiken wanneer de toegangs-id en contract-id worden weergegeven.
 
    Als de knop Activeren grijs wordt weergeven, heeft uw account niet de beveiligingsrol Globale beheerder of MPN-partnerbeheerder. Gebruik  [Gebruikersbeheer en](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) filter op globale beheerder of MPN-partnerbeheerder om een gebruiker te vinden om uw voordelen te activeren.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Geactiveerde technische voordelen tonen toegangs-id en contract-id" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Geactiveerde technische voordelen geven de toegangs-id en contract-id weer." :::
 
    > [!NOTE]
    > U hebt de toegangs-id en contract-id nodig wanneer u microsoft-productondersteuning of handtekeningproductondersteuning voor de eerste keer voor elk account gebruikt. Zodra de voordelen aan uw account zijn gekoppeld, hoeft u de toegangs-id en contract-id niet opnieuw te gebruiken.  
@@ -116,7 +116,7 @@ Zie Hoeveel partnerondersteuningsincidenten zijn er [nog? voor meer informatie.]
 
 Gold- of Silver-competentiepartners kunnen **Signature Cloud Support** voor technische ondersteuning op cloudproducten. Action Pack komen niet in aanmerking voor Signature Cloud Support tenzij ze een competentie hebben.  
 
-U hebt de toegangs-id en contract-id nodig wanneer u het voordeel voor Azure, Dynamics 365 en andere cloudproducten voor het eerst gebruikt (Microsoft 365). De voordelen zijn gekoppeld aan uw gebruikersaccount totdat ze verlopen of er geen ondersteuningsincidenten meer zijn.
+U hebt de toegangs-id en contract-id nodig wanneer u het voordeel voor Azure, Dynamics 365 en andere cloudproducten voor het eerst gebruikt (uitzonderings-Microsoft 365). De voordelen zijn gekoppeld aan uw gebruikersaccount totdat ze verlopen of er geen ondersteuningsincidenten meer zijn.
 
 > [!NOTE]  
 > Wanneer u de gebruikt met behulp van de Azure Portal. Als uw ondersteuningscontract al aan het account is gekoppeld, ziet u het foutbericht 'Toegangs-id is al gekoppeld...' wanneer u de toegangs-id en contract-id toevoegt. zie hieronder
@@ -130,13 +130,13 @@ Gebruikers met **de rol Beheerderagent** kunnen [klanten](https://partner.micros
 Wanneer u de Azure Portal gebruikt, gebruikt u Signature Cloud Support door Help en ondersteuning, ondersteuningsplannen en vervolgens 'Ondersteuningsvoordelen koppelen' te selecteren en de toegangs-id en contract-id in te voeren.
 
 > [!NOTE]
-> Als u microsoft-Action Pack krijgt u geen cloudondersteuning omdat deze geen Signature Cloud Support omvat- alleen Microsoft-productondersteuning (on-premises)
+> Als u Microsoft Action Pack, krijgt u geen cloudondersteuning omdat deze geen Signature Cloud Support omvat- alleen Microsoft-productondersteuning (on-premises)
 
 Mogelijk wordt het foutbericht `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` weergegeven. Dit foutbericht is ongeldig en moet worden genegeerd. We hebben aangevraagd dat de fout wordt uitgeschakeld en vervangen door een nuttig diagnostisch foutbericht.
 
 U ziet de voorgaande fout als u een ondersteuningscontract meer dan één keer aan een account koppelt wanneer `Access ID is already associated …` u de Azure Portal. Zie de onderstaande scenario's:
 
-1. Als u technische voordelen van goud of zilver hebt en u eerder het contract voor on-premises ondersteuning hebt toegevoegd, gebruikt u de Azure Portal en voegt u het contract voor de tweede keer toe aan hetzelfde account. U hoeft het ondersteuningscontract slechts één keer aan een account te koppelen en hoeft daarom geen ondersteuningsvoordelen in Azure te koppelen. Als u ondersteuningsvoordelen voor koppeling gebruikt wanneer het contract al aan het account is gekoppeld, ziet u de fout en moet deze worden genegeerd. Gebruik + Nieuwe Ondersteuningsaanvraag maak op de gebruikelijke manier een ondersteuningsincident en het ondersteuningsplan wordt weergegeven.
+1. Als u technische voordelen van goud of zilver hebt en u eerder het contract voor on-premises ondersteuning hebt toegevoegd, gebruikt u de Azure Portal en voegt u het contract voor de tweede keer toe aan hetzelfde account. U hoeft het ondersteuningscontract slechts eenmaal aan een account te koppelen en hoeft daarom geen ondersteuningsvoordelen in Azure te koppelen. Als u ondersteuningsvoordelen voor koppeling gebruikt wanneer het contract al aan het account is gekoppeld, ziet u de fout en moet deze worden genegeerd. Gebruik + Nieuwe Ondersteuningsaanvraag maak op de gebruikelijke manier een ondersteuningsincident en het ondersteuningsplan wordt weergegeven.
 
 2. Als het ondersteuningscontract is verlopen of het Signature 10-pack (Hybride competentie Gold) of Signature 5-pack (hybride competentie Silver) geen incidenten meer hebben, wordt het ondersteuningscontract verborgen omdat het ongeldig is. Als u opnieuw ondersteuningsvoordelen koppelt, ziet u de fout omdat het contract al is gekoppeld. U kunt een nieuw ondersteuningsplan aanschaffen om incidenten op ondersteuning voor Azure te halen.
 
