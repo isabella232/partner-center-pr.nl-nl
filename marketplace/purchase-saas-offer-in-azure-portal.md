@@ -7,17 +7,32 @@ ms.reviewer: dannyevers
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
-ms.date: 06/04/2021
-ms.openlocfilehash: 8dba9f95607a4172e6d5d0bc2ec148a25b599cd1
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/29/2021
+ms.openlocfilehash: a124e4c5bb31a1fbb744bf2c5e1ea65a356bdd54
+ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431450"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "113221437"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Een SaaS-aanbieding kopen in Azure Portal
 
 In dit artikel worden de verschillende opties en vereisten beschreven voor het zoeken, proberen en kopen van een SaaS-aanbieding (Software-as-a-Service) van de Azure Portal.
+
+## <a name="create-a-saas-subscription"></a>Een SaaS-abonnement maken
+
+Als u een SaaS-abonnement wilt kopen, hebt u een Azure-gebruikersaccount nodig met toegang tot een geschikt Azure-abonnement. Dit abonnement wordt gebruikt voor facturering en voor compartimentering van uw aangeschafte cloudbronnen. Zie Een extra Azure-abonnement maken voor meer informatie [over Azure-abonnementen.](/azure/cost-management-billing/manage/create-subscription)
+
+Selecteer in Azure Portal de gewenste SaaS-aanbieding in de **sectie Marketplace.**
+
+Een Software-as-a-Service-abonnement biedt het recht om een service voor een bepaalde periode te gebruiken via een online abonnement in plaats van lokale installatie op afzonderlijke computers. Een abonnement is een overeenkomst voor het gebruik van een of meer cloudplatforms of -services, waarvoor kosten in rekening worden gebracht op basis van licentiekosten per gebruiker of op basis van resourceverbruik in de cloud. Een organisatie kan meerdere SaaS-abonnementen hebben.
+
+Beperkingen voor SaaS-abonnementen zijn onder andere:
+
+- Geen studentabonnementen.
+- Geen Visual Studio Enterprise-abonnement.
+- Geen gratis tegoedabonnementen.
+- Voor betaalde aanbiedingen is een betaalmiddel vereist.
 
 ## <a name="saas-offers-discovery-in-azure-portal"></a>SaaS biedt detectie in Azure Portal
 
@@ -36,7 +51,7 @@ De gefilterde weergave toont elke beschikbare SaaS-aanbieding die wordt vertegen
 
 - Overzicht: details over de service, marketing en het leermateriaal
 - Abonnementen en prijzen: elke aanbieding bevat ten minste één abonnement met verschillende factureringsvoorwaarden en -prijzen
-- Gebruiksgegevens en -ondersteuning: inclusief uitgevers-id, aanbiedings-id en abonnements-id
+- Gebruiksgegevens en ondersteuning: omvat Publisher id, aanbiedings-id en abonnements-id
 - Beoordeling en beoordelingen van de specifieke SaaS-aanbieding
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Beschikbare factureringsmodellen (abonnementen/SKU's) voor SaaS-aanbiedingen
@@ -70,7 +85,7 @@ Deze prijsmodellen zijn beschikbaar voor openbare en persoonlijke abonnementen.
 
 Wanneer u Abonneren selecteert, wordt het bericht 'Uw SaaS-abonnement wordt uitgevoerd' weergegeven. Dit proces duurt enkele minuten. Sluit het venster pas als het is voltooid.
 
-Zodra het abonnement is voltooid, wordt er een bericht weergegeven dat uw SaaS-abonnement is voltooid en moet u het account configureren om te profiteren van uw aankoop. U ontvangt ook een e-mailbericht waarin u wordt gevraagd het nieuwe abonnement te activeren. Als u niet degene bent die het SaaS-account gaat configureren, moet u dit e-mailbericht doorsturen naar de relevante persoon.
+Zodra het abonnement is voltooid, wordt er een bericht weergegeven dat uw SaaS-abonnement is voltooid en moet u het account configureren om van uw aankoop te profiteren. U ontvangt ook een e-mailbericht waarin u wordt gevraagd het nieuwe abonnement te activeren. Als u niet degene bent die het SaaS-account gaat configureren, moet u dit e-mailbericht doorsturen naar de relevante persoon.
 
 Als u het proces wilt voltooien en de SaaS wilt gaan gebruiken, moet u beginnen met het configureren van uw abonnement. Als u de **knop Account nu configureren** selecteert, wordt u omgeleid naar de website van de uitgever.
 
@@ -83,7 +98,7 @@ Foutberichten die u tijdens het proces tegenkomt:
 - De *abonnementsnaam van het geselecteerde abonnement kan* niet worden gekocht in een gratis abonnement
   - Upgrade uw account. Zie https://aka.ms/UpgradeFreeSub voor meer informatie.
 
-- De aankoop is mislukt omdat er geen geldige creditcard is gevonden en er geen betalingswijze is gekoppeld aan uw Azure-abonnement.
+- De aankoop is mislukt omdat er geen geldige creditcard is gevonden, noch een betalingswijze die is gekoppeld aan uw Azure-abonnement.
   - Gebruik een ander Azure-abonnement of voeg de huidige creditcard of betalingswijze toe voor dit abonnement en doe het opnieuw.
 
 - De *abonnementsnaam van het abonnement dat* door de uitgever van de aanbieding is geselecteerd, is niet beschikbaar voor aankoop volgens de regels die zijn ingesteld door uw IT-beheerder.  
@@ -95,14 +110,14 @@ Foutberichten die u tijdens het proces tegenkomt:
 - De aankoop is mislukt omdat de aangevraagde factureringsperiode leeg of ongeldig is.
   - Probeer een ander abonnement/andere factureringsperiode aan te schaffen.
 
-- De aankoop is mislukt omdat uw ondertekening op de juridische overeenkomst niet kan worden geverifieerd.
-  - Opnieuw. Als de fout zich blijft voordoen, probeert u de aankoop te doen met een ander Azure-abonnement of neem contact op met de ondersteuning.
+- De aankoop is mislukt omdat de ondertekening van de juridische overeenkomst niet kan worden geverifieerd.
+  - Opnieuw. Als de fout zich blijft voordoen, probeert u de aankoop te doen met een ander Azure-abonnement of kunt u contact opnemen met de ondersteuning.
 
-- De aankoop van *offerID* by publisher *publisherID* is mislukt. Deze aanbieding is momenteel niet beschikbaar voor aankoop.
-  - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, kunt u contact opnemen met de ondersteuning.  
+- De aankoop van *offerID by* publisher *publisherID* is mislukt. Deze aanbieding is momenteel niet beschikbaar voor aankoop.
+  - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, neem dan contact op met de ondersteuning.  
 
-- De aankoop van *planID van* *aanbiedings-offerID* door publisher *publisherID* is mislukt. Dit abonnement is momenteel niet beschikbaar voor aankoop.
-  - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, kunt u contact opnemen met de ondersteuning. 
+- De aankoop van plan *planID* van *offerID* van aanbieding door uitgever *publisherID* is mislukt. Dit abonnement is momenteel niet beschikbaar voor aankoop.
+  - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, neem dan contact op met de ondersteuning. 
 
 - Het *e-mailadres van de* client met object-id *ObjectID* is niet autorisatie om de actie *DeploymentValidationAction uit* te voeren via scope *ResourceGroup; DeploymentScope* of het bereik is ongeldig.  
   - U krijgt dit bericht als u niet de juiste machtigingen hebt voor het Azure-abonnement/de resourcegroep.  
