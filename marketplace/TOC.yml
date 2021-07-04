@@ -2,19 +2,25 @@
   href: index.yml
 - name: Microsoft AppSource
   items:
-    - name: Over Microsoft AppSource
+    - name: Over
       href: appsource-overview.md
-    - name: Software aanschaffen op AppSource
+    - name: Software kopen
       href: purchase-software-appsource.md
+    - name: Persoonlijke abonnementen
+      href: appsource-private-plans.md
 - name: Azure Marketplace
   items:
-    - name: Over Azure Marketplace
+    - name: Over
       href: azure-marketplace-overview.md
     - name: Aanschaffen
       href: azure-purchasing-invoicing.md
+    - name: Een SaaS-aanbieding kopen in Azure Portal
+      href: purchase-saas-offer-in-azure-portal.md
     - name: Facturering
       href: billing-invoicing.md
-    - name: Persoonlijke aanbiedingen
+    - name: Voordeel van Azure-verbruikstoezegging
+      href: azure-consumption-commitment-benefit.md
+    - name: Persoonlijke abonnementen
       href: private-offers.md
     - name: Geschiktheid voor abonnementsoverdracht
       href: transfer-eligibility.md
@@ -22,8 +28,8 @@
       href: create-manage-private-azure-marketplace.md
     - name: Privé Azure Marketplace beheren - PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Azure Marketplace-partnerintegraties
-      href: partner-integrations.md
+    - name: Azure uitbreiden met oplossingen van partners
+      href: /azure/partner-solutions/overview
 - name: Algemene bronnen
   items:
     - name: Restitutiebeleid
@@ -36,5 +42,3 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
-    - name: Voorkeursoplossingen
-      href: preferred-solutions.md
