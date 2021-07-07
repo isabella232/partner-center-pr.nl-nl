@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 087ac3439d1eb96321fe8d084f62fcb5fe0a0717
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 7ee6f0cb6019dc68e4303a95bfa4f89727338b64
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276549"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353734"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Een MPN-account maken in Partner Center netwerkvoordelen en -competenties te beheren
 
@@ -26,7 +26,7 @@ Als u nog geen Microsoft Partner Network (MPN) hebt en geen MPN-id hebt, kunt u 
 
 Wanneer u klaar bent om een account te maken op Partner Center, hebt u de volgende items bij de hand.  Het kan een paar minuten duren voordat u aan de slag gaat met het verzamelen van deze items:
 
-- Bedrijfse-mail of Office 365-werkaccount. Uw bedrijf moet mogelijk een e-maildomein aanschaffen om werk-e-mailadressen voor uw werknemers in te stellen. Lees Uw werkaccount [van uw bedrijf en lees Partner Center.](azure-active-directory-tenants-and-partner-center.md) 
+- Werk-e-mail of Office 365 werkaccount. Uw bedrijf moet mogelijk een e-maildomein aanschaffen om werk-e-mailadressen voor uw werknemers in te stellen. Lees Uw werkaccount [van uw bedrijf en lees Partner Center.](azure-active-directory-tenants-and-partner-center.md) 
  
 - De juridische bedrijfsnaam en het adres van uw bedrijf.
 
@@ -36,8 +36,8 @@ Wanneer u klaar bent om een account te maken op Partner Center, hebt u de volgen
 
 - Zie Accountverificatie voor meer informatie [over het verificatieproces.](verification-responses.md)
 
->[!NOTE]
->Als uw Microsoft Partner Network nog steeds lid is van Partner Membership Center (PMC), moet u uw account onmiddellijk migreren naar Partner Center. Download de [stapsgewijse handleiding voor het migreren van](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
+> [!NOTE]
+> Als u een account in de Partner Membership Center (PMC) had, werd het gemigreerd Partner Center. Klik op voor meer informatie over [de Partner Membership Center pensioen](partner-membership-center-retirement-faq.md).
 
 ## <a name="get-started"></a>Aan de slag
 
@@ -49,14 +49,14 @@ Wanneer u klaar bent om een account te maken op Partner Center, hebt u de volgen
 
     c.  Als u MAPS wilt kopen of competenties wilt beheren, moet u dit account upgraden door uw domein te verifiëren [en](become-global-admin.md) beheerder te worden. 
 
-2. U kunt zich aanmelden met uw Office 365-werkaccount, bijvoorbeeld you@contoso.onmicrosoft.com .
+2. U kunt zich aanmelden met Office 365 werkaccount, bijvoorbeeld you@contoso.onmicrosoft.com .
 
    >[!NOTE]
    > U kunt uw bestaande CSP-accountreferenties niet gebruiken om u in te schrijven bij MPN.
 
 3. Geef de juridische bedrijfsgegevens van uw bedrijf op.
 
-    U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd bij [Dun & Brad te](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)schrijven, gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert u **Handmatig.**
+    U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd bij [Dun & Brad gaan,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert u **Handmatig.**
 
     Als uw bedrijf zich in **Deen** bevindt, Als u zich in Den Staten, **Kyrgyzstan,**  **Uzbekkka** of **Rusland** bevindt en u uw adres handmatig in typt, wordt uw adres voor u gevalideerd.  Als de door u invoeren verschilt van het gevalideerde adres, raden we u aan het gevalideerde adres te gebruiken. Dit zorgt ervoor dat de elementen van het adres worden gestandaardiseerd zoals gedefinieerd door de postinstantie van het land, correct opgemaakt en verzendbaar.  
 
@@ -93,29 +93,29 @@ De volgende tabel bevat voorbeelden van de registratienummers die voor elk land 
 | **Zuid-Afrika** | TRN: registratienummer voor verkeer |
 | **Zuid-Soedan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer |
 | **Tadzjikistan**  | INN – Btw-nummer<br>EIN – Identificatienummer van werkgever<br>KPP: dit is een code die de reden voor de organisatieregistratie weerspiegelt. |
-| **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer |
-| **Turkije** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Belastingidentificatienummer<br>Nin |
-| **Oekraïne**  | EGRPOU<br>EDRPOU: lokale id |
-| **Verenigde Arabische Emiraten** | Btw-nummer<br>[Btw-nummer:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) ook wel een btw-registratienummer genoemd. Dit is het unieke nummer dat een bebelastingspersoon (zakelijke) of niet-bebelastingsloze juridische entiteit identificeert die is geregistreerd voor btw. |
+| **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |
+| **Turkije** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Btw-nummer<br>Nin |
+| **Oekraïne**  | EGRPOU<br>EDRPOU : lokale id |
+| **Verenigde Arabische Emiraten** | Btw-nummer<br>[BTW-nummer:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) ook wel een btw-registratienummer genoemd. Dit is het unieke nummer dat een bebelastingspersoon (zakelijk) of niet-belastbare juridische entiteit identificeert die is geregistreerd voor btw. |
 | **Verenigde Staten** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Identificatienummer van werkgever |
 | **Oezbekistan**  | INN – Btw-nummer |
-| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer |
-| **Venezuela** | IFF: is een btw-nummer ('Registro de Identificificificón Fiscal') |
+| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |
+| **Venezuela** | WANT: is een btw-nummer ('Registro de Identificificón Fiscal') |
 
 
 
-## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Accountgegevens weergeven of de MPN-overeenkomst bekijken en downloaden
+## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Accountgegevens weergeven of de MPN-overeenkomst weergeven en downloaden
 
-Meld u Partner Center aan met uw MPN-referenties. Selecteer [**Partnerprofiel om**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) de juridische gegevens van uw bedrijf, uw verificatiestatus en uw MPN-ID's weer te geven en indien nodig ook nieuwe MPN-locaties te maken. 
+Meld u Partner Center uw MPN-referenties aan. Selecteer [**Partnerprofiel om**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) de juridische gegevens van uw bedrijf, uw verificatiestatus en uw MPN-ID's weer te geven en indien nodig ook nieuwe MPN-locaties te maken. 
 
-U kunt ook andere belangrijke informatie weergeven, zoals MPN-id's, MPN-locaties beheren en Microsoft Partner-overeenkomst weergeven met behulp van de linkse menukoppelingen, zoals wordt weergegeven in de volgende schermopname.
+U kunt ook andere belangrijke informatie weergeven, zoals MPN-id's, MPN-locaties beheren en Microsoft Partner-overeenkomst weergeven met behulp van de linkermenukoppelingen, zoals wordt weergegeven in de volgende schermopname.
 
 :::image type="content" source="images/mpn-new.png" alt-text="Partnerprofiel.":::
 
 
 ## <a name="next-steps"></a>Volgende stappen
 
--  [Accountgebruikers toevoegen en hieraan machtigingen toewijzen](create-user-accounts-and-set-permissions.md)
+-  [Accountgebruikers toevoegen en machtigingen aan hen toewijzen](create-user-accounts-and-set-permissions.md)
 
 -  [Buy for the first time or renew a Microsoft Action Pack subscription](mpn-get-action-pack.md) (Microsoft Action Pack-abonnement kopen of verlengen)
 
@@ -125,4 +125,4 @@ U kunt ook andere belangrijke informatie weergeven, zoals MPN-id's, MPN-locaties
 
 -  [Create a business profile to get sales leads from Microsoft](create-a-marketing-profile.md) (Een bedrijfsprofiel maken om sales leads te krijgen van Microsoft)
 
--  [Verkoop leads van Microsoft krijgen en beheren](manage-leads.md)
+-  [Verkoop leads van Microsoft op halen en beheren](manage-leads.md)

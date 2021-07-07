@@ -5,21 +5,21 @@ ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Gebruik Partner Center om zaken te doen met Microsoft en uw klanten
-author: laurabrenner
-ms.author: labrenne
+author: jasongroce
+ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: dc34044753b540545086113e356e194c3c99138a
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd9400915861667378ccf5545a6a8827a699d465
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277654"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353717"
 ---
 # <a name="what-is-partner-center"></a>Wat is Partnercentrum?
 
 **Juiste rollen:** alle partners die geïnteresseerd zijn in Partner Center
 
-[Partner Center](https://partner.microsoft.com/dashboard/home) stroomlijnt verschillende bedrijfsprocessen om het voor Microsoft-partners eenvoudiger te maken om hun relatie met Microsoft en hun klanten te beheren. Partner Center kunt u eenvoudig toegang krijgen tot de hulpprogramma's die u nodig hebt om werk gedaan te krijgen. Gebruik Partner Center voor het volgende:
+[Partner Center](https://partner.microsoft.com/dashboard/home) stroomlijnt verschillende bedrijfsprocessen om het voor Microsoft-partners eenvoudiger te maken om hun relatie met Microsoft en hun klanten te beheren. Partner Center biedt u toegang tot de hulpprogramma's die u nodig hebt om werk gedaan te krijgen. Gebruik Partner Center voor het volgende:
 
 - Uw gebruikers Microsoft-account beheren
 - Contact met klanten
@@ -39,11 +39,11 @@ Of u nu een partner bent in het Cloud Solution Provider-programma of een ontwikk
 
 Wat u kunt zien en beheren in Partner Center is afhankelijk van uw rol en machtigingen. Meer informatie in [Rollen en machtigingen.](permissions-overview.md)
 
-:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu Instellingen.":::
+:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Instellingen menu.":::
 
 ## <a name="membership-programs"></a>Lidmaatschapsprogramma's
 
-Binnen Partner Center kunt u een Microsoft-Action Pack aanschaffen dat Microsoft-software en -hulpprogramma's biedt voor het ontwikkelen van expertise, zoals het ontwikkelen van vaardigheden voor het bereiken van competenties en het verkrijgen van geavanceerde specialisaties. De voordelen van deze programma's helpen u bij het bouwen van oplossingen en het op de markt brengen van producten; controleer en beheer deze binnen Partner Center. [Vergelijk de Microsoft Partner Network lidmaatschapsprogramma's.](https://partner.microsoft.com/membership/compare-offers)
+Binnen Partner Center kunt u een Microsoft-Action Pack aanschaffen dat Microsoft-software en -hulpprogramma's biedt voor het ontwikkelen van expertise, zoals het ontwikkelen van vaardigheden voor het bereiken van competenties en het verkrijgen van geavanceerde specialisaties. De voordelen van deze programma's helpen u bij het bouwen van oplossingen en het op de markt brengen van producten; controleer en beheer ze binnen Partner Center. [Vergelijk de Microsoft Partner Network lidmaatschapsprogramma's.](https://partner.microsoft.com/membership/compare-offers)
 
 ## <a name="connect-with-customers"></a>Communiceren met klanten
 
@@ -51,7 +51,7 @@ Bouw uw bedrijfsprofiel om de expertisegebieden van uw bedrijf weer te geven. Ma
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Co-sell met Microsoft en andere partners
 
-Collectieve verkoop is het pad voor partners om gezamenlijk te verkopen met Microsoft en andere partners voor gezamenlijke, beter gezamenlijk verkopen en positieve resultaten van klanten. Met co-verkoop kunt u het wereldwijde merk van Microsoft, verkoopteams, mogelijkheden voor het genereren van vraag en de commerciële marketplace gebruiken om nieuwe klanten wereldwijd te bereiken. Verkoop zowel met andere partners als met ons. Meer informatie op Manage co-sell opportunities (Kansen [voor co-verkoop beheren).](manage-co-sell-opportunities.md)
+Collectieve verkoop is het pad voor partners om gezamenlijk te verkopen met Microsoft en andere partners voor gezamenlijke, beter-gezamenlijk verkopen en positieve resultaten van klanten. Met co-verkoop kunt u het wereldwijde merk van Microsoft, verkoopteams, mogelijkheden voor het genereren van vraag en de commerciële marketplace gebruiken om nieuwe klanten over de hele wereld te bereiken. Verkoop zowel met andere partners als met ons. Meer informatie op Manage co-sell opportunities (Kansen [voor co-verkoop beheren).](manage-co-sell-opportunities.md)
 
 ## <a name="manage-customer-software-needs"></a>Klantsoftwarebehoeften beheren
 
@@ -59,14 +59,14 @@ Als vertrouwde partner speelt u een cruciale rol in alle fasen van de levenscycl
 
 ## <a name="maintain-a-secure-environment"></a>Een beveiligde omgeving onderhouden
 
-Zorg Azure Active Directory team meervoudige verificatie gebruikt om gegevens veilig te [](partner-security-requirements-mandating-mfa.md) houden Partner Center hoofdelement van uw account. Privacybeveiliging en -beveiliging zijn een van onze belangrijkste prioriteiten.
+Met Azure Active Directory als een hoofdelement van uw Partner Center-account, moet u ervoor zorgen dat uw team [meervoudige](partner-security-requirements-mandating-mfa.md) verificatie gebruikt om gegevens veilig te houden. Privacybeveiliging en -beveiliging zijn een van onze belangrijkste prioriteiten.
 
 ## <a name="data-and-analytics"></a>Gegevens en analyse
 
 U kunt verschillende typen gegevensrapporten openen vanuit het Partner Center dashboard:
 
 - Partner Contribution Indicators (PCI) tonen de impact van partners op zeven belangrijke maat maat voor het slagen van klanten
-- Partner Insights-gegevensrapporten bepalen waar uw verkopen hoog zijn, helpen u te achterhalen welke klanten hun abonnementen hebben geïmplementeerd of ondersteuning nodig hebben, en laten zien hoe goed uw producten worden verkocht.
+- Partner Insights gegevensrapporten bepalen waar uw verkopen hoog zijn, helpen u erachter te komen welke klanten hun abonnementen hebben geïmplementeerd of ondersteuning nodig hebben en laten zien hoe goed uw producten worden verkocht.
 
 :::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Bepaal waar uw licenties zich zijn.":::
 
