@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/30/2021
-ms.openlocfilehash: a3d7bc5cbcd8809fd1682265891a617966e6e953
-ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
+ms.date: 07/07/2021
+ms.openlocfilehash: 675aab510607a5c18b9f675f1480244fc8394220
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/05/2021
-ms.locfileid: "113297649"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489772"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,9 +22,10 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van juli 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
+|Functies|[Aankondiging van transparantie van klantkorting](2021-july.md#4)| 7 juli |
 |Functies|[Windows 7 ESU (Extended Security Updates) Year 2 (2021) product key issue resolved](2021-july.md#3)|2 juli |
 |Functies|[Productlanceringen en aanbiedingen van deze maand weergeven](2021-july.md#2)|1 juli|
-|Functies|[Dynamics 365 Cloudmigratie promotie en het in gebruik nemen van aanbiedingen met korting](2021-july.md#1)|1 juli|
+|Functies|[Dynamics 365 Cloudmigratie promotie en pensioen van aanbiedingen met korting](2021-july.md#1)|1 juli|
 |**Categorie**|**Aankondigingen van juni 2021**|**Aangekondigd**|
 |Functies|[Update fase 2: EU/EFTA en VK wijzigen van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen](2021-june.md#9)|24 juni|
 |Functies|[De meest recente promoties en aanbiedingen weergeven](2021-june.md#8)|22 juni|
@@ -36,7 +37,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Functies|[Aanvullende kolommen voor uitgebreidere informatie in Azure-gebruiksrapporten](2021-june.md#2)|2 juni|
 |Functies|[Productlanceringen en aanbiedingen van deze maand weergeven](2021-june.md#1)|1 juni|
 |**Categorie**|**Aankondigingen van mei 2021**|**Aangekondigd**|
-|Functies|[Sandbox-ondersteuning voor indirect model om end-to-end API-tests mogelijk te maken](2021-may.md#15)|25 mei|
+|Functies|[Sandbox-ondersteuning voor indirect model om end-to-end-API-tests mogelijk te maken](2021-may.md#15)|25 mei|
 |Mogelijkheden, verbetert de naleving van & beveiliging |[Updates van juni voor onlineservices (OLS) en autorisatiehandleiding voor softwarekanaal](2021-may.md#14)|25 mei|
 |Functies|[Updates voor het transacteren van permanente software in CSP en wijzigingen in het Open License-programma](2021-may.md#13)|17 mei|
 |Functies|[Fase 2 binnenkort beschikbaar: eu-/EFTA- en UK-wijziging van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen](2021-may.md#12)|17 mei|
@@ -87,7 +88,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Functies|[Uw deals migreren van Partner Sales Verbinding maken (PSC) met behulp van de functie voor nieuwe dealmigratie](2021-february.md#12)|25 februari|
 |Functies|[Meer flexibiliteit met door partners geleide deals voor co-verkoop](2021-february.md#11)|25 februari|
 |Functies|[Wijzigingen in de onboarding van Cloud Solution Provider (CSP)-klant](2021-february.md#10)|25 februari|
-|Functies|[Nu live: DocuSign-migratie naar Adobe Sign voor partners onder Microsoft Partner Agreements (MVA's)](2021-february.md#9)|16 februari|
+|Functies|[Now Live: DocuSign migration to Adobe Sign for partners under Microsoft Partner Agreements (MPAs) (Nu live: DocuSign-migratie naar Adobe Sign voor partners onder Microsoft Partner-overeenkomsten (MVA's)](2021-february.md#9)|16 februari|
 |Uw bedrijf laten groeien|[Herinnering: Maak kennis met API-beperking voor partners die Partner Center-API's aanroepen](2021-february.md#8)|16 februari|
 |Functies|[Introductie van Microsoft: Topics (Onderwerpen over Microsoft:: Microsoft-producten)](2021-february.md#7)|12 februari|
 |Aanbiedingen/markten|[Microsoft 365 E3 prijswijzigingen die van maart 2021 afkomstig zijn](2021-february.md#6)|11 februari|

@@ -4,21 +4,21 @@ ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over hoe u klanten kunt helpen de beheerdersbevoegdheden van een partner te herstellen, zodat de partner kan helpen bij het beheren van de Azure Cloud Solution Provider(CSP)-abonnementen van een klant.
+description: Leer hoe u klanten kunt helpen de beheerdersbevoegdheden van een partner te herstellen, zodat de partner kan helpen bij het beheren van de Azure Cloud Solution Provider-abonnementen (CSP) van een klant.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d784aef33cce2a722583a77e73c35d5fc8136b1
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 196b38d30942278beb00096529f5965db7dfb96c
+ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551585"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113510173"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen  
 
-**Juiste rollen:** globale | Beheeragent
+**Juiste rollen:** Globale | Beheeragent
 
 Als Cloud Solution Provider (CSP)-partner verwachten uw klanten vaak dat u hun Azure-gebruik en hun systemen voor hen beheert. U moet beheerdersbevoegdheden hebben om dit te doen. Sommige bevoegdheden worden verleend wanneer uw resellerrelatie met de klant tot stand is gebracht. Andere worden aan u verleend door uw klant.
 
@@ -27,7 +27,7 @@ Als Cloud Solution Provider (CSP)-partner verwachten uw klanten vaak dat u hun A
 Er zijn twee niveaus van beheerdersbevoegdheden voor Azure in CSP.
 
 - **Beheerdersbevoegdheden op tenantniveau (gedelegeerde beheerdersbevoegdheden)**: CSP-partners krijgen deze bevoegdheden tijdens het tot stand brengen van een CSP-resellerrelatie met klanten. Gedelegeerde beheerdersbevoegdheden geven CSP-partners toegang tot de tenants van hun klanten. Met deze toegang kunnen ze beheerfuncties uitvoeren, zoals gebruikers toevoegen/beheren, wachtwoorden opnieuw instellen en gebruikerslicenties beheren.
-- **Beheerdersbevoegdheden op abonnementsniveau:** CSP-partners krijgen deze bevoegdheden tijdens het maken Azure CSP abonnementen voor hun klanten. Deze bevoegdheden geven CSP-partners volledige toegang tot deze abonnementen, zodat ze Azure-resources kunnen inrichten en beheren.
+- **Beheerdersbevoegdheden op abonnementsniveau:** CSP-partners krijgen deze bevoegdheden tijdens het maken van Azure CSP voor hun klanten. Deze bevoegdheden geven CSP-partners volledige toegang tot deze abonnementen, zodat ze Azure-resources kunnen inrichten en beheren.
 
 ## <a name="reinstate-csp-a-partners-admin-privileges"></a>De beheerdersbevoegdheden van een partner opnieuw in CSP herstellen
 
@@ -37,7 +37,7 @@ Uw klant kan de CSP-roltoewijzing opnieuw maken als u de van de `object ID` groe
 
 2. Selecteer in Partner Center menu **Klanten.**
 
-3. Selecteer de klant met wie u werkt en vraag **een resellerrelatie aan.** Met deze actie wordt een koppeling gegenereerd naar de klant die tenantbeheerdersrechten heeft.
+3. Selecteer de klant met wie u werkt en vraag **een resellerrelatie aan.** Met deze actie wordt een koppeling gegenereerd naar de klant met tenantbeheerdersrechten.
 
 4. Uw klant moet de koppeling selecteren en de aanvraag voor de resellerrelatie goedkeuren.
 
@@ -53,7 +53,7 @@ Uw klant kan de CSP-roltoewijzing opnieuw maken als u de van de `object ID` groe
 
 6. Uw klant moet vervolgens de volgende stappen uitvoeren met behulp van PowerShell of Azure CLI. Uw klant moet het volgende hebben:
 
-- De rol **van** eigenaar of **beheerder van gebruikerstoegang** 
+- De rol van **eigenaar** of **beheerder van gebruikerstoegang** 
 - Machtigingen voor het maken van roltoewijzingen op abonnementsniveau
 
    a. Alleen voor PowerShell moet de klant de `Az.Resources` module bijwerken.
@@ -69,7 +69,7 @@ Uw klant kan de CSP-roltoewijzing opnieuw maken als u de van de `object ID` groe
    az login --tenant <Customer tenant>
    ```
 
-   c. De klant maakt verbinding met het abonnement. Dit is *alleen* van toepassing als de gebruiker machtigingen voor roltoewijzing heeft voor meerdere abonnementen in de tenant.
+   c. De klant maakt verbinding met het abonnement. Dit is *alleen* van toepassing als de gebruiker machtigingen voor roltoewijzingen heeft voor meerdere abonnementen in de tenant.
 
    ```powershell
    Set-AzContext -SubscriptionID <"CSP Subscription ID">
@@ -87,13 +87,14 @@ Uw klant kan de CSP-roltoewijzing opnieuw maken als u de van de `object ID` groe
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>"
    ```
 
-In plaats van eigenaarsmachtigingen te verlenen voor het abonnementsbereik, kunt u machtigingen verlenen op het niveau van de resourcegroep of resource. 
+In plaats van eigenaarsmachtigingen te verlenen voor het abonnementsbereik, kunt u verlenen op het niveau van de resourcegroep of resource. 
 
 - Op het niveau van de resourcegroep
 
    ```powershell
    New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "/subscriptions/'SubscriptionID of CSP subscription'/resourceGroups/'Resource group name'"
    ```
+
    ```azurecli
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>//resourceGroups/<Resource group name>"
    ```
@@ -103,11 +104,12 @@ In plaats van eigenaarsmachtigingen te verlenen voor het abonnementsbereik, kunt
    ```powershell
    New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "<Resource URI>"
    ```
+
    ```azurecli
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
    ```
 
-Als de bovenstaande stappen niet werken of als er fouten optreden bij het proberen, kunt u de volgende catch-all-procedure volgen om de beheerdersrechten voor uw klant te herstellen.
+Als de bovenstaande stappen niet werken of als u fouten krijgt bij het proberen, probeert u de volgende catch-all-procedure om de beheerdersrechten voor uw klant te herstellen.
 
 ```powershell
 Install-Module -Name Az.Resources -Force -Verbose
@@ -129,9 +131,9 @@ Geef het `newRoleAssignment.log` resulterende bestand aan Microsoft op voor verd
 
 Als de procedure 'catch-all' mislukt tijdens `Import-Module` de , probeert u de volgende stappen:
 - Als het importeren mislukt omdat de module in gebruik is, start u de PowerShell-sessie opnieuw door alle vensters te sluiten en opnieuw te openen.
-- Controleer de versie `Az.Resources` van met `Get-Module Az.Resources -ListAvailable` .
+- Controleer de versie van `Az.Resources` met `Get-Module Az.Resources -ListAvailable` .
 - Als versie 4.1.1 niet in de beschikbare lijst staat, moet u `Update-Module Az.Resources -Force` gebruiken.
-- Als de foutmelding geeft dat een specifieke versie moet zijn, moet u die module ook `Az.Accounts` bijwerken en vervangen door `Az.Resources` `Az.Accounts` . Vervolgens moet u de PowerShell-sessie opnieuw starten.
+- Als de foutmelding `Az.Accounts` geeft dat een specifieke versie moet zijn, moet u die module ook bijwerken en vervangen door `Az.Resources` `Az.Accounts` . Vervolgens moet u de PowerShell-sessie opnieuw starten.
 
 
 ## <a name="next-steps"></a>Volgende stappen
