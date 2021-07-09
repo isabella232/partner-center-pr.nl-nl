@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f521e55869d60987fb46cd5d570bf206939e0782
-ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
+ms.openlocfilehash: 3a0bb85143efe3d4135b56985b9a04e2dbe5e4cc
+ms.sourcegitcommit: 57442bbbef15a70bd9a042642140cbf2c8608b09
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113080636"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "113519451"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Hoe en wanneer u een SLA-tegoed (Service Level Agreement) kunt aanvragen bij Microsoft
 
@@ -24,7 +24,7 @@ U kunt **SLA-tegoeden (Service Level Agreement)** aanvragen bij Microsoft als ee
 
 ## <a name="sla-credit-calculation"></a>SLA-kredietberekening
 
-SLA-tegoeden van Microsoft worden bepaald op basis van de service(s) die zijn beïnvloed. Als uw klant bijvoorbeeld een Office 365-pakket heeft maar alleen een SharePoint-storing heeft ondervonden, wordt het SLA-tegoed alleen goedgekeurd voor SharePoint en niet voor het hele abonnement van de klant.
+SLA-tegoeden van Microsoft worden bepaald op basis van de service(s) die zijn beïnvloed. Als uw klant bijvoorbeeld een Office 365-suite heeft maar alleen een SharePoint-storing heeft ondervonden, wordt het SLA-tegoed alleen goedgekeurd voor SharePoint en niet voor het hele abonnement van de klant.
 
 *Tegoeden worden pro-rated op basis van de betrokken service en de duur van de storing.* Zie het document Online Services Consolidated SLA voor de typen scenario's die in aanmerking komen voor [SLA-tegoed.](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37) Deze informatie is ook van toepassing op services die via het Cloud Solution Provider (CSP)-programma worden verkocht.
 
@@ -34,7 +34,7 @@ SLA-tegoeden van Microsoft worden bepaald op basis van de service(s) die zijn be
 *De CSP-partner moet de claim en alle vereiste gegevens indienen aan het einde van de kalendermaand na de maand waarin het incident zich heeft voorgedaan.* Als het incident bijvoorbeeld op 15 februari heeft plaatsgevonden, moet Microsoft de claim en alle vereiste informatie voor 31 maart ontvangen. Eindklanten en indirecte resellers kunnen geen SLA-tegoedclaims indienen; de indirecte provider of directe factuurpartner moet claims namens hen indienen.
 
 > [!NOTE]
-> Adviesincidenten komen niet in aanmerking voor SLA-tegoed. Een incident dat op het Service Health Dashboard wordt geplaatst, geeft aan dat een *tenant* mogelijk wordt beïnvloed en vertegenwoordigt de beste informatie die Microsoft op het moment van publicatie heeft. Statuspaginagegevens vertegenwoordigen de algemene beschikbaarheid van een service. De impact, beperking en oplossing van afzonderlijke service kan variëren. U kunt de laatste incidentpost en incidentbeoordeling bekijken voor meer informatie. Zie [How to check Microsoft 365 service health (Status van de service controleren)](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) voor meer informatie.
+> Adviesincidenten komen doorgaans niet in aanmerking voor SLA-tegoed. Een incident dat op het Service Health Dashboard wordt geplaatst, geeft aan dat een *tenant* mogelijk wordt beïnvloed en vertegenwoordigt de beste informatie die Microsoft op het moment van publicatie heeft. Statuspaginagegevens vertegenwoordigen de algemene beschikbaarheid van een service. De impact, beperking en oplossing van afzonderlijke service kan variëren. U kunt de laatste incidentpost en incidentbeoordeling bekijken voor meer informatie. Zie [How to check Microsoft 365 service health (Status van de service controleren)](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) voor meer informatie.
 
 ### <a name="required-information"></a>Vereiste informatie
 
@@ -58,14 +58,14 @@ Voordat u [een SLA-tegoedaanvraag bij](#submit-sla-credit-request) Microsoft ind
 
 #### <a name="outage-incident-identifier"></a>Incident-id van storing
 
-U vindt de id voor het storingsincident op **Service Health** pagina in de Microsoft 365-beheercentrum. De **incident-id** van de storing is een getal voorafgegaan door een afkorting van twee letters die de betrokken service aangeeft (bijvoorbeeld *EX25194* voor een Exchange Online-storing). In de volgende tabel worden algemene serviceafbrekingen beschreven:
+U vindt de id voor het storingsincident op **Service Health** pagina in de Microsoft 365-beheercentrum. De **incident-id** van de storing is een getal voorafgegaan door een afkorting van twee letters die de betrokken service aangeeft (bijvoorbeeld *EX25194* voor een Exchange Online storing). In de volgende tabel worden algemene serviceafbrekingen beschreven:
 
 | Afkorting van twee letters | Microsoft-service |
 | ----------------------- | ----------------- |
 | Ex | Exchange Online |
 | Fo | Exchange Online Protection |
 | Sb | Skype voor Bedrijven Online (voorheen Lync Online) |
-| Besturingssysteem | Office-abonnement |
+| Besturingssysteem | Office Abonnement |
 | PB | Power BI voor Office 365 |
 | Sp | SharePoint Online |
 | Ya | Yammer Enterprise |
