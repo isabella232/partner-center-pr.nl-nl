@@ -9,27 +9,13 @@
     - name: Partner van Microsoft
       href: mpn-overview.md
       displayName: mpn
-    - name: Een MPN-account maken in Partner Center
+    - name: Een MPN-account maken in het Partnercentrum
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Problemen met het instellen van accounts oplossen
       href: troubleshoot-account-sign-n.md
-    - name: Verplaatsingen vanuit PMC
-      items:
-        - name: Migratie vanuit PMC voorbereiden
-          href: prepare-pmc-pc-migration.md
-          displayName: 'role, roles, ro, mpn'
-        - name: Handleiding voor verplaatsen vanuit PMC
-          href: guide-to-migration.md
-        - name: PMC en PC vergelijken
-          href: move-pmc-pc-map.md
-        - name: Veel bedrijven verplaatsen
-          href: move-multiple-companies.md
-        - name: Bedrijven consolideren
-          href: consolidate-accounts.md
-        - name: Voordelen voor PMC activeren
-          href: partner-membership-center-tech-benefits-activate.md
-          displayName: mpn
+    - name: Partner Membership Center pensioen
+      href: partner-membership-center-retirement-faq.md
     - name: Lidmaatschapsvoordelen
       items:
         - name: Overzicht van de voordelen
@@ -48,9 +34,9 @@
           href: mpn-find-benefits.md
           displayName: mpn
         - name: Beleid en gebruik van voordelen - Veelgestelde vragen
-          href: benefits-faq-new.md
+          href: benefits-faq-new.yml
         - name: Veelgestelde vragen over de voordelen
-          href: benefits-faq.md
+          href: benefits-faq.yml
           displayName: 'renew, license,'
         - name: Uw MPN-factuur weergeven of downloaden
           href: mpn-view-print-maps-invoice.md
@@ -97,11 +83,11 @@
         - name: Meer informatie over competenties
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Registreren als een learning-partner
+        - name: Registreren als Learning partner
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Veelgestelde vragen over competenties
-          href: competencies-faq.md
+          href: competencies-faq.yml
           displayName: 'renew, mpn'
         - name: Competentiekosten betalen
           href: mpn-pay-fee-silver-gold-competency.md
@@ -114,9 +100,10 @@
       items:
         - name: Uw expertise tentoonstellen
           href: advanced-specializations.md
+          displayName: Advanced specializations
         - name: Status toepassen of controleren
           href: advanced-specializations-apply.md
-          displayName: mpn
+          displayName: 'mpn, Advanced specializations'
     - name: Een Azure Expert MSP worden
       href: azure-expert-msp.md
 - name: Cloud Solution Provider program (CSP)
@@ -161,7 +148,7 @@
         - name: Partnercentrum voor Microsoft Cloud for US Government
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: 'Veelgestelde vragen: Microsoft Cloud for US Government'
-          href: faq-for-us-govt-cloud.md
+          href: faq-for-us-govt-cloud.yml
           displayName: csp
         - name: Partnercentrum voor Microsoft Cloud Duitsland
           href: partner-center-for-microsoft-cloud-germany.md
@@ -204,6 +191,8 @@
         - name: Uw partnerprofiel bijwerken
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: Partner Finder-lijstcertificering
+          href: partner-finder-certification.md
         - name: Registratie-id-nummergegevens
           href: reg-number-id.md
         - name: Control Panel Vendor worden
@@ -263,12 +252,12 @@
           href: bulk-operations.md
         - name: CRM-connectors voor collectieve verkoop gebruiken
           items:
-            - name: Voor Dynamics 365
+            - name: Connector voor Dynamics 365
               href: connector-dynamics.md
-            - name: Voor Salesforce
+            - name: Connector voor Salesforce
               href: connector-salesforce.md
-        - name: Problemen met connectors oplossen
-          href: connectors-troubleshoot.md
+            - name: Problemen met connectors oplossen
+              href: connectors-troubleshoot.md
         - name: Collectieve verkoop - Migratie van PSC naar PC
           href: psc-to-pc.md
           displayName: mpn
@@ -365,7 +354,7 @@
         - name: Betalingsstatus van oplossingsbeoordeling
           href: chip-solution-assessment-payment.md
         - name: Veelgestelde vragen over geschiktheid voor oplossingsbeoordeling
-          href: chip-faq.md
+          href: chip-faq.yml
         - name: Problemen met toegang tot CHIP
           href: chip-access-trouble.md
 - name: Facturering en belastingen
@@ -392,7 +381,7 @@
       href: modern-invoice-reconciliation-file.md
     - name: Effectieve berekening van eenheidsprijs
       href: effective-unit-price-calculation.md
-    - name: Afdwingen van tegoedlimiet
+    - name: Afdwinging van tegoedlimiet
       href: credit-limit-enforcement.md
     - name: Algemene scenario's voor facturering
       href: common-billing-scenarios.md
@@ -787,5 +776,5 @@
       href: partner-security-compliance.md
       displayName: csp
     - name: Veelgestelde vragen
-      href: partner-security-requirements-faq.md
+      href: partner-security-requirements-faq.yml
       displayName: 'sandbox, csp'
