@@ -1,31 +1,31 @@
 ---
 title: Uitbetalingsinstructies
-description: Meer informatie over uitbetalingsverklaringen en samenvattingen, en over het weergeven en exporteren van uw betalingsgegevens van Microsoft Partner Center
+description: Meer informatie over uitbetalingsverklaringen en samenvattingen, en hoe u uw betalingsgegevens kunt weergeven en exporteren vanuit Microsoft Partner Center
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 4dac00e420b8787d2c8f67072a45bc29cbe7a645
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599786"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684012"
 ---
 # <a name="payout-statements"></a>Uitbetalingsinstructies
 
 **Juiste rollen:** Accountbeheerder | Globale beheerder
 
-Het **uitbetalingsoverzicht biedt** een overzicht van uw uitbetalingen van aanbiedingen die worden verkocht via de commerciële marketplace. U ziet hier de transactionele geschiedenis van uw inkomsten, een schatting van uw volgende betaling en betalingstrends. U kunt ook de transactiegeschiedenis en betalingsverklaringen downloaden. In dit artikel wordt uitgelegd hoe u toegang hebt tot uw uitbetalingsoverzicht en de verschillende uitbetalingspagina's en downloads die voor u toegankelijk zijn in Partner Center.
+Het **uitbetalingsoverzicht** geeft een overzicht van uw uitbetalingen van aanbiedingen die via de commerciële marketplace worden verkocht. Het toont de transactionele geschiedenis van uw inkomsten, maakt een schatting van uw volgende betaling en toont betalingstrends. U kunt ook de transactiegeschiedenis en betalingsverklaringen downloaden. In dit artikel wordt uitgelegd hoe u toegang krijgt tot uw uitbetalingsoverzicht en de verschillende uitbetalingspagina's en downloads die voor u toegankelijk zijn in Partner Center.
 
 >[!NOTE]
->U ziet alleen gegevens voor MPN-ID's en programma's die u hebt gekoppeld. Als u aanvullende gegevens wilt zien, moet u contact op nemen met uw accountbeheerder voor machtigingen. 
+>U ziet alleen gegevens voor MPN-ID's en programma's die u hebt gekoppeld. Als u aanvullende gegevens wilt zien, moet u contact op nemen met de accountbeheerder voor machtigingen. 
 
 ## <a name="roles-and-permissions"></a>Rollen en machtigingen
 
-Als u toegang wilt krijgen tot een uitbetalingsoverzicht, moet aan u de rol **Accounteigenaar** of Financieel **inzender zijn** toegewezen.
+Als u toegang wilt krijgen tot een uitbetalingsoverzicht, moet aan u de rol **Accounteigenaar of** Financieel **inzender zijn** toegewezen.
 
 | Rapporten/pagina's | Accounteigenaar | Manager | Ontwikkelaar | Zakelijke inzender | Inzender voor financiën | Marketeer |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -46,35 +46,35 @@ Meld u aan [Partner Center](https://partner.microsoft.com/dashboard/home) en sel
 - Betalingen
 - Gegevens exporteren
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustreert het pictogram Uitbetaling in de rechterbovenhoek van Partner Center portal.":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustreert het uitbetalingspictogram in de rechterbovenhoek van Partner Center portal.":::
 
 U kunt ook de Api voor [uitbetaling van partners gebruiken om](/rest/api/partner-center/partner-payouts) rechtstreeks verbinding te maken en uitbetalingstransactie- en betalingsgegevens te verkrijgen. Meer informatie in [Uitbetalingen beheren met behulp van de Uitbetalingsservice-API.](/partner-center/develop/manage-payouts)
 
 
 ## <a name="transaction-history"></a>Transactiegeschiedenis
 
-Op **de pagina Transactiegeschiedenis** ziet u een overzicht van uw inkomsten, de geschatte volgende betaling en de trend in inkomsten en betalingen in de afgelopen 36 maanden. U kunt ook transactiegegevens downloaden uit deze sectie.<br><br>Dit rapport bevat alle inkomsten die in aanmerking komen voor uitbetaling, inclusief betalingen die nog niet zijn verzonden. Inkomsten komen in aanmerking voor uitbetaling wanneer een ISV alle bank- en belastinggegevens in Partner Center heeft ingevuld, >$ 50 heeft verdiend, het ISV-account actief is en de klant is gefactureerd (voor EA-transacties) of de betaling is ontvangen (voor niet-EA-transacties).
+Op **de pagina Transactiegeschiedenis** ziet u een overzicht van uw inkomsten, de geschatte volgende betaling en de trend in uw inkomsten en betalingen in de afgelopen 36 maanden. U kunt ook transactiedetails downloaden uit deze sectie.<br><br>Dit rapport bevat alle inkomsten die in aanmerking komen voor uitbetaling, inclusief betalingen die nog niet zijn verzonden. Inkomsten komen in aanmerking voor uitbetaling wanneer een ISV alle bank- en belastinggegevens in Partner Center heeft voltooid, >$ 50 heeft verdiend, het ISV-account actief is en de klant is gefactureerd (voor EA-transacties) of de betaling is ontvangen (voor niet-EA-transacties).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Transactieoverzicht.":::
 
-- **Inkomsten die dit jaar worden verzonden–** Totale inkomsten en uitsplitsing van de inkomsten die zijn betaald en die in de komende maand worden betaald.
-- **Geschatte betalingsmaand** – Totale omzet verwacht in de komende maanden.
+- **Inkomsten die dit jaar worden verzonden:** totale inkomsten en uitsplitsing van de inkomsten die zijn betaald en die in de komende maand worden betaald.
+- **Geschatte betalingsmaand:** de totale inkomsten worden in de komende maanden verwacht.
 - **Inkomsten- en betalingstrend:** maandelijkse inkomsten en betalingsbedragen voor de afgelopen 36 maanden.
-- **Downloaden:** transactiedetails downloaden in .csv- of .tsv-indeling.
+- **Downloaden:** transactiedetails downloaden in .csv of TSV-indeling.
 
-Gebruik de selectie voor het datumbereik in de rechterbovenhoek van de pagina om de uitvoer van de pagina te filteren om de afgelopen 3, 6, 12 of 36 maanden weer te geven. Of selecteer een aangepast datumbereik van maximaal 36 maanden. Het standaarddatumbereik is 12 maanden. U kunt ook filteren op inschrijvings-id, programma, betalings-id, inkomstentype, lever en status. Gegevens zijn beschikbaar voor het huidige fiscale jaar (1 juli - 30 juni) en de vorige twee boekjaren.
+Gebruik de selectie voor het datumbereik in de rechterbovenhoek van de pagina om de uitvoer van de pagina te filteren om de afgelopen 3, 6, 12 of 36 maanden weer te geven. U kunt ook een aangepast datumbereik van maximaal 36 maanden selecteren. Het standaarddatumbereik is 12 maanden. U kunt ook filteren op inschrijvings-id, programma, betalings-id, inkomstentype, lever en status. Gegevens zijn beschikbaar voor het huidige fiscale jaar (1 juli - 30 juni) en de vorige twee boekjaren.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Het zoekfilter rechtsboven op de pagina.":::
 
-Als u meer informatie over een inkomsten wilt bekijken, selecteert u de pijl-omlaag aan de rechterkant van de pagina. Als u dit doet, worden de lever, de omzet, het product en de klant weergegeven. Als om een of andere reden een van deze gegevens niet beschikbaar is, maar u er wel toegang tot nodig hebt, neem dan contact op met de ondersteuning. Als de inkomsten het resultaat zijn van een aanpassing en niet van een transactie, worden de velden Product en Customer niet weergegeven.
+Als u meer informatie over een inkomsten wilt bekijken, selecteert u de pijl-omlaag aan de rechterkant van de pagina. Als u dit doet, worden de lever, de omzet, het product en de klant weergegeven. Als een van deze gegevens om de een of andere reden niet beschikbaar is, maar u er wel toegang tot nodig hebt, neem dan contact op met de ondersteuning. Als de inkomsten het resultaat zijn van een aanpassing en niet van een transactie, worden de velden Product en Customer niet weergegeven.
 
-### <a name="transaction-history-summary"></a>Samenvatting transactiegeschiedenis
+### <a name="transaction-history-summary"></a>Overzicht van transactiegeschiedenis
 
 In deze weergave worden de inkomstendetails, waaronder de oorsprong van de inkomsten van het verkochte product, de inkomstendatum, de status en de geschatte betalingsmaand.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Transactiegeschiedenis.":::
 
-- **De datum waarop** het product is verdiend: de aankoopdatum.
+- **Verdiend:** de aankoopdatum.
 - **Inkomstentype:** het type inkomsten, zoals Verkopen, Perk of Samenwerking.
 - **Totaal bedrag:** het netto-inkomstenbedrag. In de commerciële marketplace betekent dit dat de standaardkosten voor Marketplace in rekening zijn gebracht.
 - **Status:** heeft drie opties:
@@ -83,7 +83,7 @@ In deze weergave worden de inkomstendetails, waaronder de oorsprong van de inkom
     - **Verzonden:** de inkomsten zijn betaald.
 - **Geschatte betalingsmaand:** de maand dat de inkomsten naar verwachting worden betaald. Zie de [volgende sectie](#estimated-payment-month) voor meer informatie.
 
-Inkomstentransacties worden weergegeven zodra de transactie voldoet aan de uitbetalingsvereisten. Zie Veelvoorkomende vragen over uitbetalingen op de commerciële marketplace om te begrijpen waarom er mogelijk inkomsten ontbreken of onverwacht [zijn.](payout-faq.md#why-are-my-earnings-missing)
+Inkomstentransacties worden weergegeven zodra de transactie voldoet aan de uitbetalingsvereisten. Zie Veelvoorkomende vragen over uitbetalingen op de commerciële marketplace om te begrijpen waarom er mogelijk inkomsten ontbreken of onverwacht [zijn.](payout-faq.yml#why-are-my-earnings-missing-)
 
 #### <a name="estimated-payment-month"></a>Geschatte betalingsmaand
 
@@ -146,21 +146,21 @@ Als u meer informatie wilt over inkomsten, selecteert u **Downloaden** bovenaan 
 | earningId | Unieke id voor elke inkomsten | Alles |
 | earningRate | Incentives-tarief toegepast op transactiebedrag om inkomsten te genereren | Alles |
 | earningType | Geeft aan of het gaat om kosten, kosten, samenwerking, verkoop, en meer | Alles |
-| exchangeRateDate | Exchange datum van tarief die wordt gebruikt om EarningAmount USD te berekenen | Alles |
+| exchangeRateDate | Exchange voor het berekenen van het inkomstenbedrag USD | Alles |
 | externalReferenceId | Unieke id voor het programma | Direct Pay-programma's (incentives en marketplaces) |
-| externalReferenceIdLabel | Label voor unieke id | Direct Pay-programma's (incentives en marketplaces) |
+| externalReferenceIdLabel | Uniek id-label | Direct Pay-programma's (incentives en marketplaces) |
 | instantRebateAmount |  |  |
 | invoiceDate |  |  |
 | invoiceNumber | Factuurnummer (alleen van toepassing voor ondernemingen) | Incentives en marketplaces: alleen voor sommige programma's |
 | lastPaymentCurrency | Laatste betalingsvaluta (veld is leeg als er geen eerdere betaling is betaald) |  |
-| lever | Geeft een bedrijfsregel aan voor de inkomsten | Alles |
+| hendel | Hiermee wordt de bedrijfsregel voor de inkomsten aangegeven | Alles |
 | LicensingProgramName | Naam van het licentieprogramma |  |
 | LineItemId | Afzonderlijke regel in de factuur van een klant |  |
 | localProviderSeller | Lokale provider/verkoper van record |  |
 | Vervaldatummaand | De geschatte betalingsmaand | Alles |
 | OrderId | Is gerelateerd aan de factuur van een klant  | Markten |
 | parentProductId | Unieke bovenliggende product-id. Als er geen bovenliggend product voor de transactie is, wordt bovenliggend product-id = product-id. | Markten |
-| parentProductName | Naam van het bovenliggende product. Als er geen bovenliggend product voor de transactie is, dan is Bovenliggend productnaam = Productnaam. | Markten |
+| parentProductName | Naam van het bovenliggende product. Als er geen bovenliggend product voor de transactie is, gebruikt u Bovenliggende productnaam = Productnaam. | Markten |
 | participantId | De primaire identiteit van de partner die in het programma verdient | Alles |
 | participantIdType | Voornamelijk programma-id voor incentive-programma's en Verkoper-IF voor marketplaces | Alles |
 | participantName | Naam van de inkomstenpartner | Alles |
@@ -171,7 +171,7 @@ Als u meer informatie wilt over inkomsten, selecteert u **Downloaden** bovenaan 
 | paymentStatusDescription | Beschrijvende beschrijving van de betalingsstatus | Alles |
 | productId | Unieke product-id | Markten |
 | Productnaam | Productnaam die is gekoppeld aan de transactie | Alles |
-| productType | Type product, zoals App, Invoeg-app of Game | Markten |
+| productType | Type product, zoals App, Invoeg-on of Game | Markten |
 | Programmacode | Tekenreeks die moet worden weergegeven met de programmanaam |  |
 | programName | Naam incentive-/winkelprogramma | Alles |
 | purchaseOrderCoverageEndDate | Is altijd leeg | Incentive-programma - CRI |
@@ -181,7 +181,7 @@ Als u meer informatie wilt over inkomsten, selecteert u **Downloaden** bovenaan 
 | quantity | Varieert op basis van het programma. Geeft de gefactureerde hoeveelheid voor transactionele programma's aan | Alles |
 | reasonCode |  |  |
 | resellerCountry |  |  |
-| resellerId | Reseller-id | Incentives: alleen voor sommige programma's |
+| resellerId | Reseller-id | Incentives: alleen sommige programma's |
 | resellerName | Reseller name |  |
 | SkuId | SKU-id zoals gedefinieerd tijdens het publiceren. Een aanbieding kan veel SKU's hebben, maar een SKU kan slechts aan één aanbieding worden gekoppeld. Incentives: alleen voor sommige programma's |  |
 | storeFee | Het bedrag dat door Microsoft wordt bewaard als een vergoeding voor het beschikbaar maken van de app of invoeg-app in de Store | Markten |
@@ -190,14 +190,14 @@ Als u meer informatie wilt over inkomsten, selecteert u **Downloaden** bovenaan 
 | subscriptionStartDate | Begindatum van abonnement | Incentives: alleen voor sommige programma's |
 | taxCity |  |  |
 | taxCountry |  |  |
-| taxRemitModel | Partij die verantwoordelijk is voor het aftrekken van belastingen (verkoop, gebruik of BTW/GST-belastingen) | Markten |
+| taxRemitModel | Partij die verantwoordelijk is voor het aftrekken van belastingen (verkoop, gebruik of btw/GST-belastingen) | Markten |
 | taxRemitted | Bedrag van de belasting die is teruggestuurd (verkoop, gebruik of BTW/GST-belastingen) | Markten |
 | taxState | Status van de klant |  |
 | taxZipCode | Postcode van klant |  |
 | tpan | Geeft het ad-netwerk van derden aan | marketplaces Ads |
 | transactionAmount | Transactiebedrag in de oorspronkelijke transactievaluta op basis waarvan inkomsten worden gegenereerd | Alles |
 | transactionAmountUSD | Transactiebedrag in USD | Alles |
-| transactionCountryCode | Land-/regiocode waarin de transactie heeft plaatsgevonden |  |
+| transactionCountryCode | Land-/regiocode waarin de transactie is gebeurd |  |
 | transactionCurrency | Valuta waarin de oorspronkelijke klanttransactie heeft plaatsgevonden (dit is geen partnerlocatievaluta) | Alles |
 | transactionDate | De datum van de transactie. Handig voor programma's waarbij veel transacties bijdragen aan één inkomsten | Alles |
 | transactionExchangeRate | Exchange datum van de transactie die wordt gebruikt om het bijbehorende transactiebedrag in USD weer te geven | Alles |
@@ -216,7 +216,7 @@ De volgende tabel bevat redencodes voor aanpassingen en de bijbehorende beschrij
 | AR-naleving | Aanpassing die de inkomsten verlaagt wanneer Microsoft-facturen niet op tijd worden betaald door de partner. |
 | Co-op-rollover | Aanpassing die co-op-inkomsten overboekt naar een andere periode, of co-op-inkomsten converteert naar een geschatte periode. |
 | Aanpassing van ops | Aanpassing die fouten in microsoft-systeemberekeningen corrigeert. |
-| Correctie van ops Microsoft onjuiste berekening | Aanpassing die misberekeningen corrigeert. |
+| Ops-aanpassing Microsoft onjuiste berekening | Aanpassing die misberekeningen corrigeert. |
 | Ops Adjustment Microsoft incorrect enrollment (Onjuiste inschrijving door Microsoft) | Aanpassing voor misberekeningen die betrekking hebben op inschrijving. |
 | Partnertoewijzing (abonnement) MCI/CSP | Aanpassing die onjuiste uitlijning van abonnementen corrigeert. |
 | Beleids uitzondering | Aanpassing die een programmaregel overschrijven.  |
@@ -243,11 +243,11 @@ In **de tabel Lijst met betalingen** worden betaalde en in behandeling zijnde be
 :::image type="content" source="images/payouts/list-of-payments.png" alt-text="Transactiegeschiedenis exporteren.":::
 
 - **Betaald:** alle betalingen zijn verzonden. Kies het jaar in de vervolgkeuzelijst om te filteren op de betalingen die in dat jaar zijn uitgebracht.
-- **In behandeling–** toekomstige betalingen.
-- **Servicekostenbelasting (PDF-formulier)** : beschikbaar voor de betalingen die onderhevig zijn aan servicekostenbelasting. Servicekostenbelastingen worden weergegeven in **Andere belastingen.**
+- **In behandeling:** toekomstige betalingen.
+- **Servicekostenbelasting (PDF-formulier)** : beschikbaar voor de betalingen die onderhevig zijn aan servicekostenbelasting. Belastingen voor servicekosten worden weergegeven in **Andere belastingen.**
 - **Weergave:** wordt omgeleid naar de transactiegeschiedenis met een lijst met inkomsten die zijn opgenomen in de betaling.
 
-Zie Veelvoorkomende vragen over uitbetalingen op de commerciële marketplace om te begrijpen waarom er mogelijk inkomsten ontbreken of onverwacht [zijn.](payout-faq.md#why-are-my-earnings-missing)
+Zie Veelvoorkomende vragen over uitbetalingen op de commerciële marketplace om te begrijpen waarom er mogelijk inkomsten ontbreken [of onverwacht zijn.](payout-faq.yml#why-are-my-earnings-missing-)
 
 ### <a name="payment-status"></a>Betalingsstatus
 
@@ -255,13 +255,13 @@ In de volgende tabel worden de verschillende inkomstenstatussen uitgelegd.
 
 | Inkomstenstatus | Reden | Actie van partner vereist? |
 | --- | --- | --- |
-| Onverwerkte | De inkomsten komen in aanmerking voor betaling. Deze blijft in deze status voor een koelperiode zoals gedefinieerd in de programmahandleiding voor de Incentives-programma. | No |
+| Onverwerkte | De inkomsten komen in aanmerking voor betaling. Het blijft in deze status voor een koelperiode zoals gedefinieerd in de programmahandleiding voor de Incentives-programma. | No |
 | Aankomend | Gegenereerde betalingsorder in behandeling interne beoordelingen voordat de betaling wordt verwerkt. | No |
-| Belastingfactuur in behandeling | Uw btw-factuur is onvolledig of ongeldig. | U moet uw btw-factuur bijwerken voordat u kunt worden betaald |
+| Btw-factuur in behandeling | Uw btw-factuur is onvolledig of ongeldig. | U moet uw btw-factuur bijwerken voordat u kunt worden betaald |
 | Geweigerd tijdens beoordeling | De betaling is geweigerd tijdens de beoordeling. | Neem contact op met Microsoft Ondersteuning voor meer informatie |
 | Mislukt | De betaling is mislukt vanwege een systeemfout van Microsoft. | Neem contact op met Microsoft Ondersteuning voor meer informatie |
 | Actief | De betaling wordt uitgevoerd. | No |
-| Onjuiste betaling | De betaling wordt terugverdiend. | No |
+| Onjuiste betaling | De betaling wordt opnieuw losgekoppeld. | No |
 | Verzonden | De betaling is verzonden naar uw bank. | No |
 | Opwerking | Bij de betaling is een systeemfout van Microsoft opgetreden en deze wordt opnieuw verwerkt. | No |
 | Reversed | De betaling is teruggedraaid door uw bank en wordt opnieuw verzonden in de volgende betalingscyclus. | No |
@@ -277,36 +277,36 @@ In de volgende tabel worden de verschillende inkomstenstatussen uitgelegd.
 | Kolomnaam | Beschrijving |
 | --- | --- |
 | participantID | De primaire identiteit van de partner die in het programma verdient |
-| participantIDType | Meestal programma-id voor Incentives-programma's en Verkoper-id voor Store-programma's |
+| participantIDType | Meestal programma-id voor Incentives-programma's en verkoper-id voor Store-programma's |
 | participantName | Naam van de inkomstenpartner |
-| programName | Incentives/store-programmanaam |
-| Verdiend | Het bedrag dat is verdiend in de valuta Betalen naar voor dat programma/de deelnemer-id |
-| earnedUSD | Bedrag dat is verdiend voor het programma-/deelnemer-id, in USD |
-| withheldTax | Bedrag van de belasting ingehouden in de valuta betalen naar voor het programma/participantID |
-| salesTax | Totale btw-bedrag in de valuta Betalen naar voor het programma/de participantID (alleen van toepassing op incentives-programma's) |
-| serviceFeeTax | Totale hoeveelheid serviceFeeTax in de valuta Betalen naar voor het programma/de participantID (alleen van toepassing op store-programma'Azure Marketplace) |
+| programName | Naam incentives/store-programma |
+| Verdiend | Het bedrag dat is verdiend in de valuta betalen naar voor dat programma/de deelnemer-id |
+| earnedUSD | Bedrag dat is verdiend voor het programma/de deelnemer-id, in USD |
+| withheldTax | Bedrag aan belasting ingehouden in de valuta betalen naar voor het programma/de participantID |
+| salesTax | Het totale bedrag aan omzetbelasting in de valuta Betalen naar voor het programma/de participantID (alleen van toepassing op incentives-programma's) |
+| serviceFeeTax | Totale hoeveelheid serviceFeeTax in pay-to-valuta voor het programma/de participantID (alleen van toepassing op store-programma'Azure Marketplace) |
 | totalPayment | Totale betaling in lokale valuta, met uitzondering van de bronbelasting en inclusief de omzetbelasting (indien van toepassing) voor het programma/de deelnemer-id |
 | currencyCode | Betalen naar valutacode |
 | paymentMethod | De methode die wordt gebruikt om de partner te betalen, bijvoorbeeld elektronische bankoverdracht, kredietnota |
-| paymentID | Unieke id voor de betaling. Dit nummer is doorgaans zichtbaar in uw bankoverzicht (alleen van toepassing op SAP-betalingen). |
+| paymentID | De unieke id voor de betaling. Dit nummer is doorgaans zichtbaar in uw bankoverzicht (alleen van toepassing op SAP-betalingen). |
 | paymentStatus | Betalingsstatus |
 | paymentStatusDescription | Beschrijvende beschrijving van de betalingsstatus |
-| paymentDate | De datum waarop de betaling is verzonden door Microsoft |
+| paymentDate | De datum waarop de betaling is verzonden vanuit Microsoft |
 |
 
 ## <a name="export-data"></a>Gegevens exporteren
 
-De **pagina Gegevens** exporteren wordt niet zelf vernieuwd. Mogelijk moet u de pagina handmatig vernieuwen om de meest recente gegevens weer te geven. Selecteer een van de drie tabbladen om **transactiegeschiedenis,** **betalingen,** **transactieoverzicht** of historische **instructie te exporteren.**
+De **pagina Gegevens** exporteren wordt niet op zichzelf vernieuwd. Mogelijk moet u de pagina handmatig vernieuwen om de meest recente gegevens te zien. Selecteer op de drie tabbladen om **transactiegeschiedenis,** **betalingen,** **transactieoverzicht** of historische **instructie te exporteren.**
 
-Uw filter kan resulteren in de **fout Geen gegevens** beschikbaar. Dit kan gebeuren als u de standaardperiode van drie maanden hebt ingeschakeld en vervolgens een betalings-id hebt geselecteerd op basis van een inkomsten die buiten die periode is. Als dit het geval is, vouwt u de periode uit en probeert u het opnieuw.
+Uw filter kan resulteren in de fout **Geen gegevens** beschikbaar. Dit kan gebeuren als u de standaardperiode van drie maanden hebt ingeschakeld en vervolgens een betalings-id hebt geselecteerd van een inkomsten die buiten die periode is. Als dit het geval is, vouwt u uw tijdsperiode uit en probeert u het opnieuw.
 
-Hier is een voorbeeldexport van betalingen:
+Hier is een voorbeeld van het exporteren van betalingen:
 
 :::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Rapport betalingen exporteren.":::
 
 ### <a name="historical-statements"></a>Historische instructies
 
-De **samenvatting Gegevens exporteren** biedt ook toegang tot historische instructies.
+De **samenvatting Gegevens** exporteren biedt ook toegang tot historische instructies.
 
 > [!NOTE]
 > Een historische instructie is een momentopname en wordt niet vernieuwd. Neem contact [op met de](https://partner.microsoft.com/support/v2/?stage=1) ondersteuning en vraag zo nodig de meest recente gegevens aan.

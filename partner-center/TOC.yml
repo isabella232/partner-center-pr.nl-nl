@@ -14,7 +14,7 @@
       displayName: mpn
     - name: Problemen met het instellen van accounts oplossen
       href: troubleshoot-account-sign-n.md
-    - name: Partner Membership Center pensioen
+    - name: Partner Membership Center met pensioen gaan
       href: partner-membership-center-retirement-faq.md
     - name: Lidmaatschapsvoordelen
       items:
@@ -106,7 +106,7 @@
           displayName: 'mpn, Advanced specializations'
     - name: Een Azure Expert MSP worden
       href: azure-expert-msp.md
-- name: Cloud Solution Provider program (CSP)
+- name: Cloud Solution Provider (CSP)
   href: csp-overview.md
   displayName: csp
   items:
@@ -121,7 +121,7 @@
     - name: Directe CSP-factureringspartner overschakelen naar indirecte reseller
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partners kunnen niet langer worden ingeschreven als adviseurs
+    - name: Partners kunnen zich niet langer inschrijven als advisor
       href: advisors-no-csp.md
 - name: CSP-overeenkomsten
   href: microsoft-partner-agreement.md
@@ -191,9 +191,9 @@
         - name: Uw partnerprofiel bijwerken
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Partner Finder-lijstcertificering
+        - name: Partner Finder-lijst met certificeringen
           href: partner-finder-certification.md
-        - name: Registratie-id-nummergegevens
+        - name: Informatie over registratie-id-nummer
           href: reg-number-id.md
         - name: Control Panel Vendor worden
           href: enroll-as-cpv.md
@@ -454,7 +454,7 @@
       href: payment-thresholds-methods-timeframes.md
       displayName: invoice
     - name: Veelgestelde vragen over uitbetalings- en belastingprofielen
-      href: payout-faq.md
+      href: payout-faq.yml
 - name: Communiceren met klanten
   items:
     - name: Communiceren met uw klanten
