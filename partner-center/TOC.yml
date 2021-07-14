@@ -14,7 +14,7 @@
       displayName: mpn
     - name: Problemen met het instellen van accounts oplossen
       href: troubleshoot-account-sign-n.md
-    - name: Partner Membership Center met pensioen gaan
+    - name: Partner Membership Center pensioen
       href: partner-membership-center-retirement-faq.md
     - name: Lidmaatschapsvoordelen
       items:
@@ -106,7 +106,7 @@
           displayName: 'mpn, Advanced specializations'
     - name: Een Azure Expert MSP worden
       href: azure-expert-msp.md
-- name: Cloud Solution Provider (CSP)
+- name: Cloud Solution Provider program (CSP)
   href: csp-overview.md
   displayName: csp
   items:
@@ -121,7 +121,7 @@
     - name: Directe CSP-factureringspartner overschakelen naar indirecte reseller
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partners kunnen zich niet langer inschrijven als advisor
+    - name: Partners kunnen niet langer worden ingeschreven als adviseurs
       href: advisors-no-csp.md
 - name: CSP-overeenkomsten
   href: microsoft-partner-agreement.md
@@ -191,9 +191,9 @@
         - name: Uw partnerprofiel bijwerken
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Partner Finder-lijst met certificeringen
+        - name: Partner Finder-lijstcertificering
           href: partner-finder-certification.md
-        - name: Informatie over registratie-id-nummer
+        - name: Registratie-id-nummergegevens
           href: reg-number-id.md
         - name: Control Panel Vendor worden
           href: enroll-as-cpv.md
@@ -273,7 +273,7 @@
     - name: Aan de slag gaan met Incentives
       items:
         - name: Veelgestelde vragen over Incentives
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: Aan de slag gaan met Incentives
           href: incentives-get-started-intro.md
@@ -381,7 +381,7 @@
       href: modern-invoice-reconciliation-file.md
     - name: Effectieve berekening van eenheidsprijs
       href: effective-unit-price-calculation.md
-    - name: Afdwinging van tegoedlimiet
+    - name: Afdwingen van tegoedlimiet
       href: credit-limit-enforcement.md
     - name: Algemene scenario's voor facturering
       href: common-billing-scenarios.md
