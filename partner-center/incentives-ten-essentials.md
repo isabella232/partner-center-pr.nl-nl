@@ -8,44 +8,44 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 32b7575e0110eba8c04e971845f54ca71bfb45c5
+ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146711"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113753354"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>De tien essentiële onderdelen voor het werken met incentives
 
 **Juiste rollen:** Incentives-| Incentives-gebruiker
 
-De Microsoft Incentives-programma is een krachtig hulpprogramma waarmee partners kunnen worden beloond om klanten te betrekken bij Microsoft-producten en -services. Hoe meer u het programma begrijpt, hoe beter de kans op succes.
+De Microsoft Incentives-programma is een krachtig hulpprogramma waarmee partners worden beloond om klanten te helpen met Microsoft-producten en -services. Hoe meer u het programma begrijpt, hoe beter de kans op succes.
 
 U wordt aangeraden de 10 essentials uit de onderstaande lijst te **volgen voordat** u aan de slag gaat met het incentives-programma. Ze helpen ervoor te zorgen dat uw incentives een goede ervaring zijn en helpen vertragingen in uw incentive-uitbetalingen te voorkomen.
 
-## <a name="1-join-the-microsoft-partner-network"></a>1. Voeg de Microsoft Partner Network
+## <a name="1-join-the-microsoft-partner-network"></a>1. De Microsoft Partner Network
 
-Als u nog geen Microsoft-partner bent, moet u lid worden van het MPN om te profiteren van incentives en andere voordelen. Zie lidmaatschap Microsoft Partner Network [voor meer informatie.](https://partner.microsoft.com/membership)
+Als u nog geen Microsoft-partner bent, moet u lid worden van de MPN om te profiteren van incentives en andere voordelen. Zie lidmaatschap voor Microsoft Partner Network [meer informatie.](https://partner.microsoft.com/membership)
 
 ## <a name="2-read-your-incentives-program-guide"></a>2. Uw Incentives-programmagids
 
-Elk incentive-programma heeft een eigen gedetailleerde programmahandleiding. In deze handleiding vindt u vereisten voor geschiktheid en inschrijving, inkomstenkansen en andere informatie die uniek is voor uw programma. Volg deze procedure om toegang te krijgen [tot uw programmahandleiding.](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)
+Elk incentive-programma heeft een eigen gedetailleerde programmahandleiding. In deze handleiding vindt u geschiktheids- en inschrijvingsvereisten, inkomstenkansen en andere informatie die uniek is voor uw programma. Volg deze procedure om toegang te krijgen [tot uw programmahandleiding.](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)
 
 ## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Uw belasting- en bankprofiel instellen
 
-Bijna alle vertragingen bij uitbetalingen of andere onderbrekingen in het incentives-proces zijn het resultaat van een onnauwkeurige of onvolledige belasting en bankprofiel. Zorg ervoor dat uw profiel in orde is voordat u begint met uw incentives-programma. Zie Uitbetalings- en [belastingprofielen in](incentives-create-and-manage-your-payout-and-tax-profiles.md)Partner Center.
+Bijna alle vertragingen bij uitbetalingen of andere onderbrekingen in het incentives-proces zijn het gevolg van een onnauwkeurige of onvolledige belasting en bankprofiel. Zorg ervoor dat uw profiel in orde is voordat u begint met uw incentives-programma. Zie Uitbetalings- en [belastingprofielen in](incentives-create-and-manage-your-payout-and-tax-profiles.md)Partner Center.
 
 ## <a name="4-learn-about-roles-and-permissions"></a>4. Meer informatie over rollen en machtigingen
 
-Het is belangrijk om een goed beeld te krijgen van de rollen en machtigingen die betrokken zijn bij het incentives-programma. Zodra u dit hebt gedaan, kunt u bepalen welke rollen moeten worden toegewezen aan de personen in uw bedrijf. Zie Welke gebruikersrollen zijn [er beschikbaar? voor meer informatie.](incentives-faq.md#what-user-roles-are-available)
+Het is belangrijk om een goed beeld te krijgen van de rollen en machtigingen die betrokken zijn bij het incentives-programma. Zodra u dit hebt gedaan, kunt u beslissen welke rollen moeten worden toegewezen aan de personen in uw bedrijf. Zie Welke gebruikersrollen zijn [er beschikbaar? voor meer informatie.](incentives-faq.yml#what-user-roles-are-available-)
 
 ## <a name="5-review-the-incentives-faq"></a>5. Bekijk de veelgestelde vragen over incentives
 
-Krijg antwoorden op veelvoorkomende incentives-vragen voordat u ze zelfs maar stelt. We werken de veelgestelde vragen over incentives regelmatig bij met behulp van informatie Microsoft-ondersteuning en directe communicatie met partners. U kunt de veelgestelde vragen [hier bekijken.](incentives-faq.md)
+Krijg antwoorden op veelvoorkomende incentives-vragen voordat u ze zelfs maar stelt. We werken de veelgestelde vragen over incentives regelmatig bij met behulp van Microsoft-ondersteuning en directe communicatie met partners. U kunt de veelgestelde vragen [hier bekijken.](incentives-faq.yml)
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Bevestig dat uw programma in aanmerking komt
 
-Hiervoor moet u er doorgaans voor zorgen dat u Microsoft alle vereiste bedrijfsprofieldocumentatie hebt verstrekt en dat u alle vereiste competenties hebt behaald. Zie [Bevestig dat uw programma in aanmerking komt.](incentives-determined-your-program-eligibility.md)
+In het algemeen moet u ervoor zorgen dat u Microsoft alle vereiste bedrijfsprofieldocumentatie hebt verstrekt en dat u alle vereiste competenties hebt behaald. Zie [Bevestig dat uw programma in aanmerking komt.](incentives-determined-your-program-eligibility.md)
 
 ## <a name="7-confirm-your-earnings-eligibility"></a>7. Bevestig uw inkomsten in aanmerking komen
 
@@ -61,7 +61,7 @@ Er zijn veel goede artikelen beschikbaar over Incentives en Partner Center micro
 
 ## <a name="10-read-the-partner-center-online-help"></a>10. De online help Partner Center lezen
 
-U vindt gedetailleerde procedures voor het uitvoeren van alle bovenstaande taken. U kunt de hele sectie Incentives in ongeveer een uur lezen. De meeste artikelen duren slechts een minuut of twee. Zie Aan de slag als u de Help [wilt lezen.](incentives-get-started-intro.md)
+U vindt gedetailleerde procedures voor het uitvoeren van alle bovenstaande taken. U kunt de hele sectie incentives in ongeveer een uur lezen. De meeste artikelen duren slechts een minuut of twee. Zie Aan de slag als u de Help [wilt lezen.](incentives-get-started-intro.md)
 
 ## <a name="next-steps"></a>Volgende stappen
 
