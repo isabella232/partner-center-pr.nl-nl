@@ -4,15 +4,15 @@ description: Meer informatie over het ontvangen van betalingen voor inkomsten al
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 11/25/2020
+ms.date: 07/12/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: cc01a1aada6c6665d3fd8f6efc6e5ef873736bdc
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
+ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684386"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113798133"
 ---
 # <a name="getting-paid-in-partner-center"></a>Betaald krijgen in Partner Center
 
@@ -27,7 +27,7 @@ Als u betaald wilt krijgen, moet u zich houden aan de overeenkomsten en het uitb
 - [Microsoft Azure Marketplace Publisher overeenkomst:](/legal/marketplace/msft-publisher-agreement)voordat u betaald krijgt, moet u deze uitgeversovereenkomst accepteren. In deze overeenkomst wordt uitgelegd wat de relatie tussen u en Microsoft is wanneer deze betrekking heeft op verkopersaanbiedingen in de commerciële marketplace, inclusief de store-kosten die Microsoft in rekening brengt voor elke verkoop.
 - [Uitbetalingsbeleid toont](payout-policy-details.md) het betalingsbeleid voor uitbetaling, inclusief betalingsplanning en betalingswijzen. In het beleid wordt ook het proces voor niet-betalingen van klanten uitgelegd.
 - [In Belastingdetails](tax-details-marketplace.md) wordt de btw-overweging voor prijsselectie en belastingverantwoordelijkheid onder de Microsoft [Publisher-overeenkomst uitgelegd.](/legal/marketplace/msft-publisher-agreement)
-- **Winkelkosten worden** officieel gedefinieerd in de Publisher overeenkomst. Winkelkosten worden toegepast op alle aanbiedingsverkopen die worden verzameld door de commerciële marketplace, met inbegrip van invoegtoepassingen.
+- **Winkelkosten worden** officieel aangeboden in [Commerciële Marketplace-kosten.](/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations)
 - **Betalingen** worden maandelijks uitgevoerd (op voorwaarde dat aan de betalingsdrempelwaarde is voldaan). Normaal gesproken verzenden we elke betaling die in een bepaalde maand moet worden betaald op de 15e dag van die maand. Het duurt over het algemeen 3 tot 10 extra werkdagen om uw uitbetalingsaccount te bereiken. Zie Betalingsdrempels, methoden en [tijdframes voor meer informatie.](payment-thresholds-methods-timeframes.md)
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>Vereiste stappen voordat u wordt betaald
