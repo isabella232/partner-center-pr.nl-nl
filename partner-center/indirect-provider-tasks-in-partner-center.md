@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ec673f7dcf620f055be58dc3a333575addcd6cd1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: d72b7de4d1411b602e8a4c9ab69da5e643d3a560
+ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277841"
+ms.lasthandoff: 07/15/2021
+ms.locfileid: "114224697"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partner met indirecte resellers in het programma Cloud Solution Provider
 
@@ -28,7 +28,7 @@ In het model indirecte provider-reseller (twee lagen) werkt u samen met indirect
 
 Als indirecte provider gebruikt u de volgende Partner Center:
 
-- Verbinding maken met indirecte resellers die u kunnen helpen uw bereik en klantenbestand uit te breiden
+- Verbinding maken indirecte resellers die u kunnen helpen uw bereik en klantenbestand uit te breiden
 
 - Partnerrelaties tot stand brengen met indirecte resellers waarmee u beide algemene klanten kunt bedienen
 
@@ -46,7 +46,7 @@ Voltooi de volgende stappen om uw samenwerking met indirecte resellers en klante
 
    - Neem contact op met uw Microsoft-vertegenwoordiger als u wijzigingen wilt aanbrengen in het profiel.
 
-2. Verbinding maken met indirecte resellers
+2. Verbinding maken indirecte resellers
 
    - Voordat u met wederverkopers kunt communiceren en transacteren, moet u een partnerschap met deze leveranciers tot stand Partner Center.
 
@@ -61,7 +61,7 @@ Nadat u deze stappen hebt voltooid, kunt u uw resellerpartnerrelaties beheren op
 > [!IMPORTANT]
 > Voordat u met resellers kunt gaan werken, moeten ze worden ingeschreven als indirecte resellers in het CSP-programma en moeten ze Partner Center hebben. Wijs uw resellers naar [Partner met indirecte providers in CSP voor](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) informatie over inschrijving in CSP.
 
-## <a name="connect-with-indirect-resellers"></a>Verbinding maken met indirecte resellers
+## <a name="connect-with-indirect-resellers"></a>Verbinding maken indirecte resellers
 
 Als u wilt communiceren en transacteren met indirecte resellers in de Partner Center, moet u een partnerschap met hen opzetten. Als u een partnerschap hebt met een indirecte reseller, kunnen u en de wederverkoper beide gemeenschappelijke klanten bedienen.
 
@@ -96,7 +96,7 @@ Als u voor bestaande abonnementen besluit om met een indirecte reseller te werke
 | **Om dit te bereiken** | **Voer deze handeling uit** | **Waar** |
 |   ------------------   |   -------   |   -----   |
 | De reseller in staat stellen het account van een klant te beheren en beheerdersmachtigingen te hebben om hun abonnementen te beheren | Een reseller koppelen aan een klantaccount wanneer u een nieuwe klant toevoegt | Op de **pagina Nieuwe** klant |
-| De reseller in staat stellen het account van een Azure-klant te beheren|Een reseller koppelen aan een Azure-klantaccount wanneer u een nieuwe klant toevoegt|Selecteer in **de Azure-serviceportal** [Gebruikersinstellingen om](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) de tenanteigenaarmachtigingen voor de indirecte reseller **te** geven|
+| De reseller in staat stellen het account van een Azure-klant te beheren|Een reseller koppelen aan een Azure-klantaccount wanneer u een nieuwe klant toevoegt|Selecteer in **de Azure-serviceportal** de optie [Instellingen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) om de tenanteigenaarmachtigingen voor de indirecte **reseller te** geven|
 | Het resellertegoed voor incentives geven | De reseller koppelen aan het abonnement (nieuw of bestaand) | Op de **pagina Nieuw** abonnement |
 | Klantondersteuning voor specifieke abonnementen delegeren aan de reseller | Selecteer de reseller in de **lijst Aangewezen contactpersoon voor** ondersteuning | Op de detailpagina van het abonnement:  selecteer de klant op de pagina Klanten en selecteer vervolgens het abonnement op de pagina Abonnementen **van de** klant |
 
@@ -166,7 +166,7 @@ Wanneer klanten nieuwe abonnementen willen kopen, bestaande willen upgraden of e
 
 Vind antwoorden op uw vragen over de Microsoft Partner-overeenkomst
 
-- [Hoe indirecte providers hun resellers kunnen helpen bij het over adopteren van de Microsoft Partner-overeenkomst - Veelgestelde vragen](mpa-indirect-provider-faq.md)
+- [Hoe indirecte providers hun resellers kunnen helpen bij het over adopteren van de Microsoft Partner-overeenkomst - Veelgestelde vragen](mpa-indirect-provider-faq.yml)
 
 Zie voor meer informatie over het beheren van klantaccounts en -abonnementen:
 

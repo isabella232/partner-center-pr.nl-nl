@@ -1,20 +1,20 @@
 ---
-title: Microsoft Gold, silver competency requirements (Microsoft Gold, Silver-competentievereisten)
+title: Microsoft Gold, silver competency requirements
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Meer informatie over het verdienen van de status van de beste Microsoft-partner en het aan trekken van nieuwe klanten door te voldoen aan competentievereisten om gold- en silver-lidmaatschapsniveaus te verdienen.
+description: Meer informatie over het verdienen van de microsoft-partnerstatus en het aan trekken van nieuwe klanten door te voldoen aan competentievereisten om gold- en silver-lidmaatschapsniveaus te verdienen.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
-ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+ms.openlocfilehash: ff9be32e88c839186ede4cc081aabf75a822a23d
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2021
-ms.locfileid: "112989339"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373724"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Onderscheid maken tussen uw bedrijf door Microsoft-competenties te verkrijgen
 
@@ -24,13 +24,13 @@ Demonstreert uw bewezen expertise in het leveren van kwaliteitsoplossingen in ee
 
 - Een **silver-competentie** verkrijgen om uw consistente mogelijkheden en commitment te demonstreren.
 
-- Een **goudkleurige competentie** verkrijgen om uw eersteklas mogelijkheden binnen een Microsoft-oplossingsgebied te demonstreren.
+- Een **goudkleurige competentie** verkrijgen om uw beste mogelijkheden binnen een Microsoft-oplossingsgebied te demonstreren.
 
 Het bereiken van een competentie kan ook een vermelding zijn voor verdere voordelen en kansen:
 
 - Ontgrendel krachtige [go-to-market aanbiedingen](mpn-learn-about-go-to-market-benefits.md) en programma's die u kunnen helpen uw bedrijf uit te breiden en uit te breiden. [Meer informatie over het op de markt brengen met Microsoft](https://partner.microsoft.com/solutions/go-to-market).
 
-- Het bereiken van een goudkleurige competentie biedt u de mogelijkheid om geavanceerdere [specialisaties](advanced-specializations.md) aan uw portfolio toe te voegen. Geavanceerde specialisaties helpen u uw groeiende expertise aan klanten te laten zien. [Meer informatie over geavanceerde specialisaties.](https://partner.microsoft.com/membership/advanced-specialization)
+- Het bereiken van een goudkleurige competentie biedt u de mogelijkheid om geavanceerdere [specialisaties](advanced-specializations.md) aan uw portfolio toe te voegen. Geavanceerde specialisaties helpen u uw groeiende expertise aan klanten te presenteren. [Meer informatie over geavanceerde specialisaties.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="check-your-status-as-you-attain-a-competency"></a>Controleer uw status wanneer u een competentie bereikt
 
@@ -44,7 +44,7 @@ U kunt de vereisten en wat uw bedrijf heeft bereikt bekijken vanuit het competen
 
 ## <a name="competency-areas"></a>Competentiegebieden
 
-Als u silver- of gold-lidmaatschapscompetentie wilt verkrijgen, wordt u gevraagd om expertise op verschillende gebieden van het bedrijf en de technologie te demonstreren.
+Als u de competentie silver- of gold-lidmaatschap wilt verkrijgen, wordt u gevraagd om expertise op verschillende gebieden van het bedrijf en de technologie te demonstreren.
 
 |**Gebied**            |**Competentie**                    |
 |--------------------|--------------------------------|
@@ -67,8 +67,8 @@ Zie Voor meer informatie over wat er nodig is om silver- en gold-competenties te
 
 - Meer informatie [over facturen en belastingen voor competenties](mpn-view-print-maps-invoice.md).
 
-- Meer informatie over het [betalen van de kosten voor](mpn-pay-fee-silver-gold-competency.md) een silver- of gold-competentielidmaatschap.
+- Meer informatie over het [betalen van de kosten die](mpn-pay-fee-silver-gold-competency.md) zijn gekoppeld aan een silver- of gold-competentielidmaatschap.
 
-- Bekijk een Partner Center [Insights-competenties](pci-competencies-report.md) met de huidige status van uw competenties.
+- Bekijk een Partner Center Insights [competentiesrapport](insights-competencies-report.md) met de huidige status van uw competenties.
 
-- Krijg antwoorden op [veelgestelde vragen](competencies-faq.yml) over competenties.
+- Krijg antwoorden op [veelgestelde vragen over](competencies-faq.yml) competenties.
