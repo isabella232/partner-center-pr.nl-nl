@@ -106,7 +106,7 @@
           displayName: 'mpn, Advanced specializations'
     - name: Een Azure Expert MSP worden
       href: azure-expert-msp.md
-- name: Cloud Solution Provider (CSP)
+- name: Cloud Solution Provider program (CSP)
   href: csp-overview.md
   displayName: csp
   items:
@@ -121,7 +121,7 @@
     - name: Directe CSP-factureringspartner overschakelen naar indirecte reseller
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partners kunnen zich niet langer inschrijven als advisor
+    - name: Partners kunnen zich niet meer registreren als adviseurs
       href: advisors-no-csp.md
 - name: CSP-overeenkomsten
   href: microsoft-partner-agreement.md
@@ -191,9 +191,9 @@
         - name: Uw partnerprofiel bijwerken
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Partner Finder-lijst met certificeringen
+        - name: Partner Finder-lijstcertificering
           href: partner-finder-certification.md
-        - name: Informatie over registratie-id-nummer
+        - name: Registratie-id-nummergegevens
           href: reg-number-id.md
         - name: Control Panel Vendor worden
           href: enroll-as-cpv.md
@@ -647,90 +647,48 @@
           href: partner-center-insights.md
           displayName: data
         - name: Inzichten voor op rollen gebaseerde toegang
-          href: insights-roles.md
+          href: pci-roles.md
         - name: Rapporten over inzichten
           items:
             - name: Overzicht
-              href: insights-overview-report.md
+              href: pci-overview-report.md
             - name: Klant
-              href: insights-customer-report.md
+              href: pci-customer-report.md
             - name: Prestaties van resellers
-              href: insights-resellers-performance.md
+              href: pci-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Productabonnementen
-              href: insights-product-subscriptions-report.md
+              href: pci-product-subscriptions-report.md
             - name: Azure-gebruik
-              href: insights-azure-usage-report.md
+              href: pci-azure-usage-report.md
             - name: Teams-gebruik
-              href: insights-teams-usage-report.md
+              href: pci-teams-usage-report.md
             - name: Office 365-gebruik
-              href: insights-office-365-usage-report.md
+              href: pci-office-365-usage-report.md
             - name: Dynamics-gebruik
-              href: insights-dynamics-usage-report.md
+              href: pci-dynamics-usage-report.md
             - name: Enterprise Mobility + Security-gebruik
-              href: insights-enterprise-mobility-security-usage-report.md
+              href: pci-enterprise-mobility-security-usage-report.md
             - name: Power BI-gebruik
-              href: insights-power-bi-usage-report.md
+              href: pci-power-bi-usage-report.md
             - name: Training
-              href: insights-training-dashboard.md
+              href: pci-training-dashboard.md
             - name: Microsoft Learn-analyse
               href: ms-learn-analytics.md
             - name: Competenties
-              href: insights-competencies-report.md
+              href: pci-competencies-report.md
             - name: Voordelen
-              href: insights-benefits-report.md
+              href: pci-benefits-report.md
             - name: CloudAscent-tendens
-              href: insights-customer-opportunities.md
+              href: pci-customer-opportunities.md
             - name: Productlicenties
-              href: insights-product-licenses-report.md
+              href: pci-product-licenses-report.md
         - name: Veelgestelde vragen over inzichten
-          href: insights-known-issues.md
+          href: pci-known-issues.md
         - name: Rapporten met inzichten downloaden
-          href: insights-download-reports.md
-        - name: Programmatische toegang tot analyses
-          items:
-            - name: Aan de slag
-              href: insights-programmatic-get-started.md
-            - name: Vereisten voor programmatische toegang
-              href: insights-programmatic-prerequisites.md
-            - name: Programmatisch toegangsparadigma
-              href: insights-programmatic-access-paradigm.md
-            - name: Uw eerste programmatische API-aanroep maken
-              href: insights-programmatic-first-api-call.md
-            - name: Lijst met systeemquery's
-              href: insights-programmatic-system-queries.md
-            - name: Voorbeeldquery's
-              href: insights-programmatic-sample-queries.md
-            - name: Aangepaste queryspecificatie
-              href: insights-programmatic-custom-query.md
-            - name: Voorbeeldtoepassing
-              href: insights-programmatic-sample-application.md
-            - name: Veelgestelde vragen
-              href: insights-programmatic-faq.md
-            - name: API-referenties
-              items:
-                - name: Beschikbare API's
-                  href: insights-programmatic-analytics-available-api.md
-                - name: Alle gegevenssets op halen
-                  href: insights-programmatic-analytics-api-get-dataset.md
-                - name: Rapportquery's opvragen
-                  href: insights-programmatic-analytics-api-get-report-queries.md
-                - name: Rapportquery's verwijderen
-                  href: insights-programmatic-analytics-api-delete-report-queries.md
-                - name: Rapportquery's proberen
-                  href: insights-programmatic-analytics-api-try-report-queries.md
-                - name: Rapport op halen
-                  href: insights-programmatic-analytics-api-get-report.md
-                - name: Rapport bijwerken
-                  href: insights-programmatic-analytics-api-update-report.md
-                - name: Rapport verwijderen
-                  href: insights-programmatic-analytics-api-delete-report.md
-                - name: Rapportuitvoeringen onderbreken
-                  href: insights-programmatic-analytics-api-pause-report-executions.md
-                - name: Rapportuitvoeringen hervatten
-                  href: insights-programmatic-analytics-api-resume-report-executions.md
+          href: pci-download-reports.md
         - name: Definities van inzichtengegevens
-          href: insights-data-definitions.md
+          href: pci-data-definitions.md
     - name: Indicatoren voor partnerbijdragen
       items:
         - name: Voor Cloud Business Applications-competentie
