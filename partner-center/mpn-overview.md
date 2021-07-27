@@ -4,33 +4,33 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Meer informatie Microsoft Partner Network voordelen (MPN), zoals Microsoft Action Pack, competenties of programmaopties om uw oplossingen op de markt te brengen en te verkopen.
+description: Meer informatie over Microsoft Partner Network voordelen (MPN), zoals Microsoft Action Pack, competenties of programmaopties om uw oplossingen op de markt te brengen en te verkopen.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6edd8d18610947f61f88af8c3e3563508244586e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1ed25c3f1c9e5f8cec5384762fa9bdf5d09e5b76
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152219"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433636"
 ---
-# <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner met Microsoft en voordelen van lidmaatschap ontdekken
+# <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner met Microsoft en lidmaatschapsvoordelen ontdekken
 
-**Juiste rollen:** Globale | Beheer van MPN-partner | Gebruikersbeheerbeheer | Beheeragent
+**Juiste rollen:** globale | Beheeraccount van MPN-| Gebruikersbeheerbeheerders | Beheeragent
 
-De Microsoft Partner Network (MPN) biedt u de breedste reeks producten in de branche en programmaopties om uw bedrijf te onderscheiden, op de markt te gaan en uw oplossingen te verkopen. Doe zonder kosten mee en kies vervolgens hoe u wilt investeren in uw samenwerking met een Microsoft-actiepakket, starterkit of competentie.
+De Microsoft Partner Network (MPN) biedt u het breedste scala aan producten in de branche en programmaopties om uw bedrijf te onderscheiden, op de markt te gaan en uw oplossingen te verkopen. Doe zonder kosten mee en kies vervolgens hoe u wilt investeren in uw samenwerking met een Microsoft-actiepakket, starterkit of competentie.
 
-Wanneer u lid wordt van een Microsoft-partnerprogramma, maakt u deel uit van een wereldwijde community die u verbindt met de relaties, inzichten, hulpprogramma's, resources en programma's die u nodig hebt om uw klanten te stimuleren en de bedrijfsgroei te stimuleren. Als u uw zakelijke doelen bereikt, kunt u deelnemen aan het programma op het niveau dat bij uw unieke behoeften past om toegang te krijgen tot meer voordelen en uw relatie met ons en andere partners in het netwerk ontwikkelen. 
+Wanneer u lid wordt van een Microsoft-partnerprogramma, maakt u deel uit van een wereldwijde community die u verbindt met de relaties, inzichten, hulpprogramma's, resources en programma's die u nodig hebt om uw klanten te stimuleren en de bedrijfsgroei te stimuleren. Wanneer u uw bedrijfsdoelen bereikt, kunt u deelnemen aan het programma op het niveau dat past bij uw unieke behoeften om toegang te krijgen tot meer voordelen en uw relatie met ons en andere partners in het netwerk te ontwikkelen. 
 
 ## <a name="join-the-microsoft-partner-network"></a>De Microsoft Partner Network
 
-Als u lid wilt Microsoft Partner Network, gaat u naar [  de](https://partner.microsoft.com/membership) pagina Lidmaatschap op de MPN-website **en selecteert u Registreren** of Nu **deelnemen.**
+Als u wilt deelnemen Microsoft Partner Network, gaat u naar [  de](https://partner.microsoft.com/membership) pagina Lidmaatschap op de MPN-website **en selecteert u Registreren** of Nu **deelnemen.**
 
 ## <a name="action-pack"></a>Action Pack
 
-Action Pack biedt software, ondersteuning en voordelen voor bedrijven die hun Microsoft-praktijk willen starten, bouwen en groeien in een cloud-first, mobiele wereld.
+Action Pack biedt software, ondersteuning en voordelen voor bedrijven die hun Microsoft-praktijk willen starten, bouwen en groeien in een wereld waarin alles in de cloud en mobiel is.
 
 Bekijk de onderstaande resources voor meer informatie over Action Pack:
 
@@ -39,13 +39,13 @@ Bekijk de onderstaande resources voor meer informatie over Action Pack:
 - [De Action Pack](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >U beheert uw Action Pack in Partner Center. Als uw bedrijf nog niet van het Partner Center is Partner Membership Center, leest u [Voorbereiden voor uw overstap naar Partner Center](prepare-pmc-pc-migration.md)  
+    >U beheert uw Action Pack in Partner Center. Als uw bedrijf nog niet is over verplaatst naar Partner Center van Partner Membership Center, leest u Voorbereiden [voor uw overstap naar Partner Center](./partner-membership-center-retirement-faq.md)  
 
 - [Uw MPN-aanbiedingen vernieuwen](renew-mpn-offers.md)
 
 ## <a name="competencies"></a>Competenties
 
-Demonstreert uw bewezen expertise in het leveren van kwaliteitsoplossingen in een gespecialiseerd bedrijfsgebied. Microsoft-competenties zijn ontworpen om te voldoen aan de behoeften van uw huidige klanten en herkenbaar te zijn voor potentiële klanten. Word lid van de toplaag van Microsoft-partners en onderscheiden zich van uw collega's.
+Demonstreert uw bewezen expertise in het leveren van kwaliteitsoplossingen in een gespecialiseerd bedrijfsgebied. Microsoft-competenties zijn ontworpen om te voldoen aan de behoeften van uw huidige klanten en te herkennen aan potentiële klanten. Word lid van de toplaag van Microsoft-partners en onderscheiden zich van uw collega's.
 
 Bekijk de onderstaande resources voor meer informatie over competenties:
 

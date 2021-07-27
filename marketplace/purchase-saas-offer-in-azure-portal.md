@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/29/2021
-ms.openlocfilehash: a124e4c5bb31a1fbb744bf2c5e1ea65a356bdd54
-ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
+ms.openlocfilehash: a42269dfac07ccc49f72dce7a6e8259ade3d546e
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "113221437"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433789"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Een SaaS-aanbieding kopen in Azure Portal
 
@@ -40,12 +40,12 @@ Zodra u zich in Azure Portal, zijn er een aantal manieren om uw zoekopdracht te 
 
 ### <a name="narrowing-your-search"></a>Uw zoekopdracht beperken
 
-Selecteer op de startpagina onder **Azure-services** **de optie + Een resource maken** of **Marketplace.** Of gebruik de snelkoppeling **G + N overal** in het platform.
+Selecteer op de startpagina onder **Azure-services** **de optie + Een resource maken** of **Marketplace.** Of gebruik de snelkoppeling **G + N** overal in het platform.
 
 - Verklein de resultaten tot SaaS-aanbiedingen met behulp van het filter **Aanbiedingstype** en selecteer **vervolgens SaaS.**
 - Gebruik de algemene zoekopdracht bovenste navigatiebalk om een specifieke SaaS-aanbieding te vinden.
 
-Zoek een [privé-SaaS-aanbieding door](/marketplace/private-offers) de banner boven aan de **marketplace-startpagina te** selecteren. Niet alle aanbiedingen of abonnementen zijn beschikbaar in alle geografische gebieden en sommige worden mogelijk alleen weergegeven voor bepaalde tenants.
+Zoek een [privé-SaaS-aanbieding door](./private-offers.md) de banner boven aan de **marketplace-startpagina te** selecteren. Niet alle aanbiedingen of abonnementen zijn beschikbaar in alle geografische gebieden en sommige worden mogelijk alleen weergegeven voor bepaalde tenants.
 
 De gefilterde weergave toont elke beschikbare SaaS-aanbieding die wordt vertegenwoordigd door een titel. Selecteer er een om de pagina met productdetails weer te geven. Deze bevat de volgende secties:
 
@@ -69,9 +69,9 @@ Deze prijsmodellen zijn beschikbaar voor openbare en persoonlijke abonnementen.
 
 1. Selecteer op de productpagina een plan dat aan uw behoeften voldoet en ga door **met instellen en abonneren**
 2. Als onderdeel van het aankoopproces wordt u  omgeleid naar het tabblad Basisinformatie en moet u het volgende doen:
-    1. *Definieer* welk abonnement u wilt gebruiken voor facturering. Voor het Azure-abonnement dat u gebruikt, moet een geldige aankoopmethode zijn gedefinieerd. U moet het juiste machtigingsniveau hebben of een resourcegroep onder dat abonnement hebben met het juiste machtigingsniveau. Het land van facturering moet ook een land zijn waar de aanbieding kan worden gekocht. Azure-abonnementen zonder geldige betalingswijze (bijvoorbeeld een MSDN-abonnement) kunnen alleen worden gebruikt om gratis abonnementen te kopen
+    1. *Definieer* welk abonnement u wilt gebruiken voor facturering. Voor het Azure-abonnement dat u gebruikt, moet een geldige aankoopmethode zijn gedefinieerd. U moet het juiste machtigingsniveau hebben of een resourcegroep onder dat abonnement hebben met het juiste machtigingsniveau. Het land van facturering moet ook een land zijn waar de aanbieding kan worden gekocht. Azure-abonnementen zonder geldige betalingswijze (bijvoorbeeld een MSDN-abonnement) kunnen alleen worden gebruikt om gratis abonnementen aan te schaffen
     1. Kies of maak een **resourcegroep waarvan* de SaaS-resource deel zal uitmaken.
-    1. Typ een *naam voor* het SaaS-abonnement om dit later gemakkelijk te identificeren. Na aanschaf kunt u de naam niet meer wijzigen.
+    1. Typ een *naam voor* het SaaS-abonnement om dit later gemakkelijk te kunnen identificeren. Na aanschaf kunt u de naam niet meer wijzigen.
     1. Onder **Plan** ziet u het abonnement dat u hebt geselecteerd op de pagina met productdetails (PDP). Als u nog geen actieve selectie hebt gemaakt in de PDP, ziet u het standaardplan. U kunt uw selectie wijzigen door de koppeling **Plan wijzigen te** selecteren. Selecteer de relevante factureringsperiode en kies vervolgens een ander abonnement. Mogelijk kunt u het abonnement na de aankoop wijzigen als de uitgever dit ondersteunt. U kunt de termijn echter niet wijzigen van maandelijks in jaarlijks of van jaarlijks in maandelijks.
     1. Als het prijsmodel per gebruiker *is,* moet u mogelijk het aantal gebruikers *opgeven.* De prijs die u ziet, wordt gewijzigd op basis van het abonnement, het abonnement en de periode die u hebt geselecteerd.
 3. Ga door **naar het** tabblad *Tags: tags* zijn door de gebruiker gedefinieerde sleutel-waardeparen, die rechtstreeks op een resource of resourcegroep kunnen worden geplaatst. U kunt tags gebruiken om uw SaaS-resource later gemakkelijk te vinden. Azure ondersteunt momenteel maximaal 50 tags per resource en resourcegroep. Tags kunnen worden geplaatst op een resource op het moment dat deze wordt gemaakt of worden toegevoegd aan een bestaande resource.
@@ -116,10 +116,10 @@ Foutberichten die u tijdens het proces tegenkomt:
 - De aankoop van *offerID by* publisher *publisherID* is mislukt. Deze aanbieding is momenteel niet beschikbaar voor aankoop.
   - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, neem dan contact op met de ondersteuning.  
 
-- De aankoop van plan *planID* van *offerID* van aanbieding door uitgever *publisherID* is mislukt. Dit abonnement is momenteel niet beschikbaar voor aankoop.
+- De aankoop van plan *planID* van *aanbieding offerID* per uitgever *publisherID* is mislukt. Dit abonnement is momenteel niet beschikbaar voor aankoop.
   - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, neem dan contact op met de ondersteuning. 
 
-- Het *e-mailadres van de* client met object-id *ObjectID* is niet autorisatie om de actie *DeploymentValidationAction uit* te voeren via scope *ResourceGroup; DeploymentScope* of het bereik is ongeldig.  
+- Het *e-mailadres van de* client met object-id *ObjectID* is niet autorisatie om de actie *DeploymentValidationAction* uit te voeren via scope *ResourceGroup; DeploymentScope* of het bereik is ongeldig.  
   - U krijgt dit bericht als u niet de juiste machtigingen hebt voor het Azure-abonnement/de resourcegroep.  
     Als er onlangs toegang is verleend, vernieuwt u uw referenties.  
     Als u resources wilt implementeren in een resourcegroep, moet u ten minste inzenderstoegang hebben. Controleer uw toegangsstatus onder **Resourcegroepen** en klik **Access Control.** Hier ziet u wie de 'eigenaar' is, die u kunt vragen om u toe te wijzen als 'Inzender'.
@@ -129,5 +129,5 @@ Foutberichten die u tijdens het proces tegenkomt:
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Als u al een aanbieding hebt aangeschaft in marketplace, gaat u naar [Facturering en facturering](/marketplace/billing-invoicing)
-- U vindt hier ook meer informatie over [opties voor persoonlijke](/marketplace/private-offers) abonnementen.
+- Als u al een aanbieding hebt aangeschaft in marketplace, gaat u naar [Facturering en facturering](./billing-invoicing.md)
+- U vindt hier ook meer informatie over [opties voor persoonlijke](./private-offers.md) abonnementen.

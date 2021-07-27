@@ -4,26 +4,28 @@ ms.topic: article
 ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bekijk de huidige prijslijsten voor op licenties gebaseerde services, zoals Office 365, Microsoft Dynamics CRM en Enterprise Mobility Suite, en op gebruik gebaseerde services zoals Azure.
+description: Bekijk de huidige prijslijsten voor op licenties gebaseerde services zoals Office 365, Microsoft Dynamics CRM en Enterprise Mobility Suite en op gebruik gebaseerde services zoals Azure.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9eac83c2b2ef2d83b7b9aaec0c6dce7e24ee8b7
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: 0d4d6ee9d3352a7af2894e33411b7e2b69c360a8
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565033"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114434112"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Prijzen en aanbiedingen voor Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure en meer
 
 
 **Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Beheer van MPN-partner | Verkoopagent | Factureringsbeheerder
 
-Als u de meest recente Cloud Solution Provider(CSP)-programma's en -aanbiedingen wilt bekijken, gaat u in het dashboard van de partnerportal naar > **en aanbiedingen verkopen.** U vindt afzonderlijke prijslijsten voor de verschillende typen producten die beschikbaar zijn. De volgende prijslijsten zijn beschikbaar op de **pagina Prijzen en** aanbiedingen:
+Als u de meest recente Cloud Solution Provider(CSP)-programma's en aanbiedingen wilt zien, gaat u in het dashboard van de partnerportal naar > **en aanbiedingen verkopen.** U vindt afzonderlijke prijslijsten voor de verschillende typen producten die beschikbaar zijn. De volgende prijslijsten zijn beschikbaar op de **pagina Prijzen en** aanbiedingen:
 
 - **Op licenties gebaseerde services** bevatten prijsinformatie voor Office 365, Enterprise Mobility en Security E3 en Dynamics 365. De sectie Prijzen op basis van licenties bevat de huidige en preview-prijzen en de aanbiedingslijstmatrix. Prijslijsten bevatten de catalogusprijs en geschatte detailhandelsprijzen (ERP) voor aanbiedingen in alle ondersteunde valuta's. De aanbiedingslijstmatrix bevat marktbeschikbaarheid en andere belangrijke informatie over de aanbiedingen. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
+   > [!NOTE]
+   > Lijst- en ERP-prijzen zijn voor de maandelijkse factureringsfrequentie. Vermenigvuldig voor de jaarlijkse factureringsfrequentie de maandelijkse prijs met 12.
 - **Op gebruik gebaseerde services** bevatten prijsinformatie voor Microsoft Azure en Visual Studio. U kunt ook de [Azure-services in CSP-prijscalculator gebruiken.](https://azure.microsoft.com/pricing/calculator/) De download op basis van gebruik bevat zowel de CSP-prijslijsten voor alle ondersteunde valuta's als de shared services-prijsbestanden in ERP. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
 - **Microsoft Azure gereserveerde instanties bevat** prijsinformatie voor alle ondersteunde valuta's voor gereserveerde Azure-instanties. Het downloaden van de prijzen omvat ook de prijzen voor gedeelde services in ERP. Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
 - **Softwareabonnementen** omvatten prijzen voor op termijn gebaseerde softwareabonnementen voor alle ondersteunde valuta's. Het prijsbestand bevat alle ondersteunde valuta's met de catalogusprijs en de door de fabrikant voorgestelde detailhandelsprijs (MSRP). Deze bestanden worden bijgewerkt op de eerste dag van elke maand.
@@ -36,7 +38,7 @@ Als u de meest recente Cloud Solution Provider(CSP)-programma's en -aanbiedingen
 
 ## <a name="price-list-preview-and-change-frequency"></a>Prijslijstvoorbeeld en wijzigingsfrequentie 
 
-Op licenties gebaseerde services bevatten een preview-versie van de prijslijst, die 30 dagen voor de wijzigingen is opgegeven. Als u de preview van de prijslijst wilt bekijken, gaat u naar **> en aanbiedingen verkopen.** Er is geen prijsvoorbeeld voor services op basis van gebruik, omdat deze services dynamisch zijn. In de volgende tabel wordt uitgelegd hoe u de tabel met prijslijst leest.
+Op licenties gebaseerde services bevatten een preview-versie van de prijslijst, die 30 dagen voor wijzigingen wordt aangeboden. Als u de preview van de prijslijst wilt bekijken, gaat u naar **> en aanbiedingen verkopen.** Er is geen prijsvoorbeeld voor services op basis van gebruik, omdat deze services dynamisch zijn. In de volgende tabel wordt uitgelegd hoe u de tabel met de prijslijst leest.
 
 |**Item**        |**Definition**      |
 |:-----------   |:-----------   |
@@ -59,53 +61,53 @@ Op licenties gebaseerde services bevatten een preview-versie van de prijslijst, 
 
 Prijswijzigingen komen vaak voor. Partners kunnen op prijswijzigingen voor aanbiedingen op basis van licenties anticiperen door de preview-versie van de prijslijst te bekijken. Open op Partner Center dashboard de pagina Prijzen en aanbiedingen om de preview-versie van de prijslijst weer te geven.
 
-Prijzen op basis van Azure-gebruik hebben echter geen preview-versie. Partners kunnen wijzigingen in de azure-verbruiksprijs bij houden met behulp van de RateCard-API, die de meterprijzen van die dag retourneert.
+Prijzen op basis van azure-gebruik hebben echter geen preview-versie. Partners kunnen wijzigingen in de azure-verbruiksprijs bij houden met behulp van de RateCard-API, die de meterprijzen van die dag retourneert.
 
 |**Type product**   |**Productvoorbeelden**  |**Preview beschikbaar** |**Details wijzigen**|
 |-----------------------|:-----------------------|:-------------------|------------------|
-|Op basis van licenties|Office, Dynamics, Intune, Windows Enterprise|30 dagen|Prijswijzigingen die zijn gemarkeerd met CHNG in de preview-prijslijsten weergeven|
-|Op basis van gebruik|Azure-resources|Niet beschikbaar|Wijzigingslogboek beschikbaar op het tabblad Wijzigingsgeschiedenis van de prijslijst **van de vorige** maand|
+|Op licentie gebaseerd|Office, Dynamics, Intune, Windows Enterprise|30 dagen|Prijswijzigingen die zijn gemarkeerd met CHNG in de preview-prijslijsten weergeven|
+|Op basis van gebruik|Azure-resources|Niet beschikbaar|Wijzigingslogboek beschikbaar op het tabblad Wijzigingsgeschiedenis van de prijslijst **van vorige** maand|
 |Software||Niet beschikbaar|Prijslijsten handmatig vergelijken van maand tot maand|
 |Reservations|Virtuele machines, vooraf betaald|Niet beschikbaar|Prijslijsten handmatig vergelijken van maand tot maand|
 
 Prijzen op basis van gebruik kunnen gedurende een maand veranderen. Om de huidige dagelijkse prijzen voor deze Azure-resources te krijgen, moeten partners de RateCard-API aanroepen. 
 
 > [!Note] 
-> Wijzigingen in de abonnementsprijs gelden alleen tijdens een verlenging. De maandelijkse kosten van een partner worden bepaald op de aankoopprijs of de prijs op het moment van het maken van een abonnement. Als de prijs toeneemt of afneemt nadat de jaarlijkse termijn is verkregen, wordt de gewijzigde prijs pas in rekening gebracht voor de partner na de verlenging, meestal voor de periode van 12 maanden.
+> Wijzigingen in de abonnementsprijs gelden alleen tijdens een verlenging. De maandelijkse kosten van een partner worden bepaald op de aankoopprijs of de prijs op het moment van het maken van een abonnement. Als een prijs toeneemt of afneemt nadat de jaarlijkse termijn is overgenomen, wordt de gewijzigde prijs pas in rekening gebracht voor de partner na de verlenging, meestal voor de periode van 12 maanden.
 
 ## <a name="pricing-and-special-segments"></a>Prijzen en speciale segmenten
 
-CSP biedt een aantal services aan speciale marktsegmenten, zoals onderwijs, non-profit en communitycloud voor de overheid. Niet alle services zijn beschikbaar in elk kanaal. Geen segment wordt standaard ingesteld op wat we het commerciële segment noemen. Alle prijzen op basis van licenties zijn beschikbaar in de prijslijst op basis van licenties op de pagina Prijzen en aanbiedingen. Azure Government prijzen zijn beschikbaar in de lijst met prijzen op basis van gebruik wanneer u bent aangemeld bij de Azure Government ingeschakelde CSP-tenant. Softwareabonnementen en permanente software bieden nog geen ondersteuning voor deze speciale segmenten.
+CSP biedt een aantal services aan speciale marktsegmenten, zoals onderwijs, non-profit en communitycloud voor de overheid. Niet alle services zijn beschikbaar in elk kanaal. Geen enkel segment wordt standaard ingesteld op wat we het segment 'commercieel' noemen. Alle prijzen op basis van licenties zijn beschikbaar in de prijslijst op basis van licenties op de pagina Prijzen en aanbiedingen. Azure Government prijzen zijn beschikbaar in de prijslijst op basis van gebruik wanneer u bent aangemeld bij de Azure Government ingeschakelde CSP-tenant. Softwareabonnementen en permanente software bieden nog geen ondersteuning voor deze speciale segmenten.
 
 |**Segment**   |**wie in aanmerking moet komen**   |**Partner komt in aanmerking voor klant**|**Ingeschakelde producttypen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Onderwijs|Klant|Nee, klantkwalificatie wordt uitgevoerd door Microsoft |Alleen op licentie gebaseerd|
 |Non-profit|Klant|Nee, de klant komt in aanmerking buiten Partner Center|Alleen op licentie gebaseerd|
-|Government Community Cloud (GCC)|Partner en klant|Zodra GCC is ingeschakeld, kan de partner GCC-klanten maken| Alleen op licentie gebaseerd|
+|Government Community Cloud (GCC)|Partner en klant|Zodra GCC is ingeschakeld, kan de partner GCC maken| Alleen op licentie gebaseerd|
 |Azure Government|Partner|Zodra de partner is gekwalificeerd, werkt deze in een CSP-tenant die specifiek is voor Azure Government|Azure-resources|
 
-Partnermarges, het verschil tussen de catalogusprijs en de geschatte detailhandelsprijzen, kunnen per segment verschillen. Normaal gesproken hebben onderwijs en non-profitorganisatie meestal lagere of geen marges voor CSP-partners. Raadpleeg de prijslijst op basis van licenties voor exacte waarden. 
+Partnermarges, het verschil tussen de lijstprijs en de geschatte detailhandelsprijzen, kunnen per segment verschillen. Normaal gesproken hebben onderwijs en non-profitorganisatie lagere of geen marges voor CSP-partners. Raadpleeg de prijslijst op basis van licenties voor exacte waarden. 
 
 ## <a name="add-on-offer-types"></a>Typen invoegaanbiedingen
 
-Op licenties gebaseerde services kunnen worden verkregen als basisaanbiedingen of invoegtoepassingen. Alleen basisaanbiedingen zijn detecteerbaar en opseerbaar via de Partner Center catalogus. U moet invoegtoepassingen toepassen nadat u de basisaanbiedingen hebt kopen. De licentie-gebaseerde prijslijst **Kolom Secundair licentietype** bevat informatie over elke aanbieding en het type. Basisaanbiedingen **hebben niet-specifieke** waarden in de kolom prijslijst secundair licentietype en kunnen worden aangeschaft in de catalogus. Secundaire licentietypewaarden van **de invoegaanvoeging** kunnen niet worden gekocht in de catalogus. U kunt deze invoegtoepassingen als volgende aanschaffen:
+Op licenties gebaseerde services kunnen worden verkregen als basisaanbiedingen of invoegtoepassingen. Alleen basisaanbiedingen kunnen worden ontdekt en opschatbaar via de Partner Center catalogus. U moet invoegtoepassingen toepassen na de aankoop van de basisaanbiedingen. De prijslijst op basis van licenties De kolom **Secundair licentietype** bevat informatie over elke aanbieding en het type. Basisaanbiedingen **hebben niet-specifieke** waarden in de kolom prijslijst secundair licentietype en kunnen worden aangeschaft in de catalogus. Secundaire licentietypewaarden van **de invoegaanvoeging** kunnen niet worden aangeschaft in de catalogus. U kunt deze invoegtoepassingen als volgende aanschaffen:
 
-1. Raadpleeg de aanbiedingslijstmatrix voor een overzicht van de aanbiedings-ID's die moeten worden aangeschaft voordat u een invoeg-app kunt aanschaffen.
+1. Raadpleeg de matrix met aanbiedingslijst voor een overzicht van de aanbiedings-ID's die moeten worden aangeschaft voordat u een invoeg-app kunt aanschaffen.
 2. De basisaanbieding kopen in de catalogus
-3. Navigeer naar uw klant vanuit de lijst met klanten. Selecteer het abonnement voor de basisaanbieding die u zojuist hebt aangeschaft. Op de pagina Abonnement beheren ziet u beschikbare invoegtoepassingen die kunnen worden toegepast op de basisaanbieding.
+3. Navigeer naar uw klant vanuit de klantenlijst. Selecteer het abonnement voor de basisaanbieding die u zojuist hebt aangeschaft. Op de pagina Abonnement beheren ziet u beschikbare invoegtoepassingen die kunnen worden toegepast op de basisaanbieding.
 
 > [!Note] 
-> Sommige basisaanbiedingen **hebben eenheidstypewaarden** **van invoeglicenties.** Voor een basisaanbieding betekent dit gewoon dat u na aanschaf geen gebruikerslicenties toewijst. Als de aanbieding kan worden aangeschaft in de catalogus, is het een **basisaanbieding,** ongeacht het eenheidstype in de gebruikersinterface.
+> Sommige basisaanbiedingen **hebben eenheidstypewaarden** **van invoeglicenties.** Voor een basisaanbieding betekent dit gewoon dat u na aanschaf geen gebruikerslicenties toewijst. Als de aanbieding kan worden aangeschaft in de catalogus, is het een **Basisaanbieding,** ongeacht het eenheidstype in de gebruikersinterface.
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Verschillen tussen prijzen voor Azure en niet-Azure
 
-De prijzen verschillen per type aanbiedingen. Prijzen op basis van licenties zijn doorgaans het bedrag per licentie voor een bepaalde maand. Prijzen op basis van gebruik worden bepaald door het gebruik van een bepaalde resource, met een bijbehorende meter-id. Er worden geen kosten in rekening gebracht voor partners voor het verkrijgen van het Azure-abonnement. Partners worden echter in rekening gebracht voor resources die worden gebruikt door verschillende implementaties onder het Azure-abonnement. Prijzen in de prijslijst op basis van gebruik zijn ingedeeld op basis van verschillende resourcemeter-ID's in Azure.
+De prijzen verschillen per type aanbiedingen. Prijzen op basis van licenties zijn doorgaans het bedrag per licentie voor een bepaalde maand. Prijzen op basis van gebruik worden bepaald door het gebruik van een bepaalde resource, met een gekoppelde meter-id. Er worden geen kosten in rekening gebracht voor partners voor het verkrijgen van het Azure-abonnement. Partners worden echter in rekening gebracht voor resources die worden gebruikt door verschillende implementaties onder het Azure-abonnement. Prijzen in de lijst met prijzen op basis van gebruik zijn ingedeeld op basis van verschillende resourcemeter-ID's in Azure.
 
-Azure-reserveringen zijn aankopen op basis van termijnen voor het specifieke resourcetype: Virtual Machines. Door een Azure-reservering aan te kopen, kan een partner vooraf betalen (voorwaarden van één of drie jaar) en een bepaalde virtuele machine reserveren. Met reserveringen bespaart u het partner geld en zorgt u ervoor dat de virtuele machine altijd beschikbaar is voor de duur van de termijn. Een partner kan de want-reservering afstemmen op de op gebruik gebaseerde resourcemeter-ID's. De meter-ID's zijn consistent binnen de resource, of de partner nu een virtuele machine aanschaft of de virtuele machine gewoon implementeert als een resource op basis van gebruik.
+Azure-reserveringen zijn aankopen op basis van termijnen voor het specifieke resourcetype: Virtual Machines. Door een Azure-reservering aan te kopen, kan een partner vooraf betalen (voorwaarden van één of drie jaar) en een bepaalde virtuele machine reserveren. Met reserveringen bespaart u het partner geld en zorgt u ervoor dat de virtuele machine altijd beschikbaar is voor de duur van de periode. Een partner kan de reservering die hij of zij wil afstemmen op de op gebruik gebaseerde resourcemeter-ID's. De meter-ID's zijn consistent voor de resource, of de partner nu een virtuele machine aanschaft of de virtuele machine gewoon implementeert als een resource op basis van gebruik.
 
 ## <a name="offers-matrix"></a>Aanbiedingenmatrix
 
-Bekijk op de pagina Prijzen en aanbiedingen de Aanbiedingsmatrix voor cloud resellers voor meer informatie over de verschillende SKU's en productbundels die u kunt verkopen. De aanbiedingenmatrix bevat welke aanbiedingen per locale beschikbaar zijn. Als een item wel wordt vermeld in de prijslijst maar niet in de aanbiedingsmatrix, betekent dit dat de producten nog niet kunnen worden besteld. Zodra ze beschikbaar zijn om te bestellen, wordt de aanbiedingenmatrix bijgewerkt.
+Bekijk op de pagina Prijzen en aanbiedingen de Aanbiedingsmatrix voor cloud resellers voor meer informatie over de verschillende SKU's en productbundels die u kunt verkopen. De aanbiedingenmatrix bevat welke aanbiedingen beschikbaar zijn per locale. Als een item wel wordt vermeld in de prijslijst, maar niet in de aanbiedingsmatrix, betekent dit dat de producten nog niet kunnen worden besteld. Zodra ze beschikbaar zijn om te bestellen, wordt de aanbiedingenmatrix bijgewerkt.
 
 Voor CSP-partners die gebruikmaken van Partner Center Software Development Kits (SDK's). Microsoft publiceert ook een lijst met de Azure-services in CSP op de pagina Prijzen en aanbiedingen.
 
@@ -115,22 +117,22 @@ Als u vragen hebt over de prijslijst of aanbiedingsmatrix, dient u een serviceaa
 
 ## <a name="offer-limits"></a>Aanbiedingslimieten
 
-Sommige op licenties gebaseerde aanbiedingen hebben bepaalde regels en beperkingen die meerdere aankopen voor dezelfde klant verbieden. Deze regels zijn van toepassing op de meeste proefversies en veel van de aanbiedingen voor kleine bedrijven. **Aanbiedingen voor kleine bedrijven** worden gedefinieerd door aanbiedingen met een maximum aantal licenties van minder dan 300.
+Sommige aanbiedingen op basis van licenties hebben bepaalde regels en beperkingen die meerdere aankopen voor dezelfde klant verbieden. Deze regels zijn van toepassing op de meeste proefversies en veel van de aanbiedingen voor kleine bedrijven. **Aanbiedingen voor kleine bedrijven** worden gedefinieerd door aanbiedingen met een maximum aantal licenties van minder dan 300.
 
-Deze aankoopbeperkingen worden gedefinieerd als onderdeel van de aanbiedingsconfiguratie en kunnen worden gevonden door te kijken in de aanbiedingslijstmatrix. Twee kolommen met gegevens werken samen om de afdwinging te definiëren: 1. Aanbiedingslimietbereik en 2. Aanbiedingslimiet. De beperkingen worden afgedwongen tijdens een aankoop. De catalogus in het partnercentrum staat een partner niet toe meer aanbiedingen te kopen dan volgens de regels is toegestaan. Elke poging om de beperkingen te schenden, resulteert in een fout.
+Deze aankoopbeperkingen worden gedefinieerd als onderdeel van de configuratie van de aanbieding en zijn te vinden in de aanbiedingslijstmatrix. Twee kolommen met gegevens werken samen om de afdwinging te definiëren: 1. Aanbiedingslimietbereik en 2. Aanbiedingslimiet. De beperkingen worden afgedwongen tijdens een aankoop. De catalogus in het partnercentrum staat een partner niet toe om meer aanbiedingen aan te kopen dan volgens de regels is toegestaan. Elke poging om de beperkingen te schenden, resulteert in een fout.
 
-Het bereik van de aanbiedingslimiet wordt vastgelegd als een kolom in de lijstmatrix van de aanbieding en kan waarden hebben van Geen, Levensduur of Gelijktijdig. 
+Het bereik van de aanbiedingslimiet wordt vastgelegd als een kolom in de aanbiedingslijstmatrix en kan waarden hebben van Geen, Levensduur of Gelijktijdig. 
 
-- Aanbiedingen met **Geen** kunnen zonder beperkingen worden aangeschaft.
+- Aanbiedingen **met Geen** kunnen zonder beperkingen worden aangeschaft.
 - **Levensduuraanbiedingen** kunnen slechts één keer worden aangeschaft.
-- **Gelijktijdige** aanbiedingen kunnen zo vaak worden aangeschaft als is toegestaan door de waarde **aanbiedingslimiet** voor die aanbieding. De meeste proefversies hebben een limietbereik voor levensduuraanbiedingen met een aanbiedingslimiet van '1'. De meeste aanbiedingen voor kleine bedrijven hebben een limiet voor gelijktijdige aanbiedingen met een aanbiedingslimiet van '2'.
+- **Gelijktijdige** aanbiedingen kunnen net zo vaak worden aangeschaft als is toegestaan door de waarde voor de **aanbiedingslimiet** voor die aanbieding. De meeste proefversies hebben een limiet voor levensduuraanbiedingen met een aanbiedingslimiet van '1'. De meeste aanbiedingen voor kleine bedrijven hebben een limiet voor gelijktijdige aanbiedingen met een aanbiedingslimiet van '2'.
 
 > [!IMPORTANT]
 > Gelijktijdigheidslimieten worden afgedwongen, zelfs als een aanbieding wordt geannuleerd. Een aanbieding moet volledig worden geannuleerd en vervolgens worden verwijderd om extra ruimte vrij te maken voor een andere aankoop.
 
 ### <a name="taxes-and-pricing"></a>Belastingen en prijzen
 
-Alle prijzen in de CSP-prijslijsten van het Partnercentrum zijn inclusief btw. Meer informatie vindt u in Partner Center document [Belastingen en btw-vrijstellingen.](tax-and-tax-exemptions.md)
+Alle prijzen in de CSP-prijslijsten van het Partnercentrum zijn inclusief btw. Voor meer informatie in het Partner Center document [Belastingen en btw-vrijstellingen.](tax-and-tax-exemptions.md)
 
 ## <a name="multi-year-term-offers"></a>Aanbiedingen voor meerdere jaar
 
@@ -145,13 +147,13 @@ Er zijn ongeveer 50 Dynamics-aanbiedingen met voorwaarden van drie jaar. Deze wo
 
 ### <a name="72-month-offers"></a>Aanbiedingen van 72 maanden
 
-Microsoft 365 A1-basisaanbieding heeft een termijn van zes jaar.  De Office 365 A1-invoegtoepassingen zijn beschikbaar na aankoop van deze basisaanbieding. 
+Microsoft 365 A1 basisaanbieding heeft een termijn van zes jaar.  De Office 365 A1-invoegtoepassingen zijn beschikbaar na de aankoop van deze basisaanbieding. 
 
 |**Naam van aanbieding**   |**Aanbiedings-id**   |**Type**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Basisaanbieding|
-|Office 365 A1 voor onderwijsmedewerkers (voor apparaat)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Add-on|
-|Office 365 A1 voor studenten (voor apparaten)|bae285a9-d56b-4384-b02f-38adc61a6f12|Add-on|
+|Office 365 A1 voor onderwijsmedewerkers (voor Apparaat)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Add-on|
+|Office 365 A1 voor studenten (voor Apparaat)|bae285a9-d56b-4384-b02f-38adc61a6f12|Add-on|
 
 Hieronder volgt een samenvatting van de manier waarop deze aanbiedingen werken:
 
@@ -163,7 +165,7 @@ Hieronder volgt een samenvatting van de manier waarop deze aanbiedingen werken:
 
 ## <a name="estimated-retail-price-erp"></a>Geschatte detailhandelsprijs (ERP)
 
-De meeste prijslijsten bevatten een lijstprijs, de prijs die de partner wordt gefactureerd en de geschatte detailhandelsprijs. De geschatte detailhandelsprijs (ERP) wordt ook wel voorgestelde detailhandelsprijs of msrp van Microsoft genoemd. Deze twee waarden, ERP en MSRP, vertegenwoordigen de geschatte marktwaarde van de producten als een klant de producten rechtstreeks bij Microsoft zou kopen. Hieronder vindt u informatie over ERP/MSRP voor elk type product of service. 
+De meeste prijslijsten bevatten een lijstprijs, de prijs die de partner wordt gefactureerd en de geschatte detailhandelsprijs. De geschatte detailhandelsprijs (ERP) wordt ook wel de door Microsoft voorgestelde detailhandelsprijs of MRP genoemd. Deze twee waarden, ERP en MSRP, vertegenwoordigen de geschatte marktwaarde van de producten als een klant de producten rechtstreeks bij Microsoft zou kopen. Hieronder vindt u informatie over ERP/MSRP voor elk type product of service. 
 
 
 |**Product of service**        |**Details van de prijslijst ERP en MSRP**      |
