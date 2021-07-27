@@ -260,6 +260,8 @@
               href: connectors-troubleshoot.md
         - name: Collectieve verkoop - Migratie van PSC naar PC
           href: psc-to-pc.md
+        - name: Migratie van IOT PSC naar pc
+          href: partner-sales-connect-to-partner-center-iot.md
           displayName: mpn
     - name: Uw deals registreren
       href: register-deals.md
@@ -707,7 +709,7 @@
               href: insights-programmatic-system-queries.md
             - name: Voorbeeldquery's
               href: insights-programmatic-sample-queries.md
-            - name: Specificatie van aangepaste query's
+            - name: Aangepaste queryspecificatie
               href: insights-programmatic-custom-query.md
             - name: Voorbeeldtoepassing
               href: insights-programmatic-sample-application.md
