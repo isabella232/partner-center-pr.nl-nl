@@ -3,19 +3,19 @@ title: Gebruik Partner Center Analytics voor Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Meer informatie over het weergeven van uw zakelijke gegevens met behulp van Analyse-app van het Partnercentrum voor Power BI (voor directe partners in het Cloud Solution Provider (CSP)-programma).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: eea221af22e9bd7aa684bc5120b0799f083f8663
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112564978"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836097"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Uw zakelijke gegevens weergeven met de Partner Center Analytics-app voor Microsoft Power BI
 
@@ -29,7 +29,7 @@ Een visuele weergave van uw zakelijke gegevens krijgen met de Partner Center Ana
 
 - Groei van uw klantenbestand, abonnementen en licenties
 
-- Gebruik van Office 365-, Microsoft Dynamics- en Microsoft Azure producten
+- Gebruik van Office 365-, Microsoft Dynamics- en Microsoft Azure-producten
 
 - Dagelijkse verbruikseenheden voor elke resource naar gebruik in elk Azure-abonnement voor de afgelopen 60 dagen
 
@@ -49,7 +49,7 @@ Een visuele weergave van uw zakelijke gegevens krijgen met de Partner Center Ana
 
 - Dagen zijn kalenderdagen.
 
-### <a name="business-insights-report"></a>Business Insights-rapport
+### <a name="business-insights-report"></a>Rapport Insights bedrijf
 
 - **Tenants van klanten:** aantal afzonderlijke Azure Active Directory (Azure AD) tenants van klanten die abonnementen hebben aangeschaft
 
@@ -61,15 +61,15 @@ Een visuele weergave van uw zakelijke gegevens krijgen met de Partner Center Ana
 
 - **Geschatte maandelijkse kosten in** de afgelopen 12 maanden: Trend in maand ten opzichte van het geschatte bedrag aan facturen vóór belasting dat maandelijks is samengevoegd in de afgelopen 12 maanden
 
-- Geschatte kosten per product in de afgelopen **12 maanden:** verkochte producten gesorteerd op geschatte factuurbedrag vóór belasting, geaggregeerd in de periode van de afgelopen 12 maanden. Deze status geeft aan dat de belangrijkste producten de meeste omzet opleveren.
+- **Geschatte kosten per product in** de afgelopen 12 maanden: verkochte producten gesorteerd op geschatte factuurbedrag vóór belasting, geaggregeerd in de periode van de afgelopen 12 maanden. Deze status geeft aan dat de belangrijkste producten de meeste omzet opleveren.
 
-- **Klanten in de afgelopen 12 maanden:** de trend van nieuwe klanten en verloopklanten per maand gedurende de afgelopen 12 maanden
+- **Klanten in de afgelopen 12** maanden: trend van nieuwe klanten en verloopklanten gedurende maand gedurende de afgelopen 12 maanden
 
 - **Geschatte kosten per klant in** de afgelopen 12 maanden: Klanten gesorteerd op geschatte factuurbedrag vóór belasting, geaggregeerd in de afgelopen 12 maanden. Deze status geeft aan dat de belangrijkste klanten de meeste omzet genereren.
 
 - **Aantal klanten per product:** verkochte producten gesorteerd op gekoppelde klanten. Deze status geeft aan dat de populairste producten aan de meeste klanten zijn verkocht.
 
-### <a name="subscription-insights-report"></a>Rapport Subscription Insights
+### <a name="subscription-insights-report"></a>Rapport Insights abonnement
 
 - **Abonnementsstatus:**
 
@@ -105,7 +105,7 @@ Een visuele weergave van uw zakelijke gegevens krijgen met de Partner Center Ana
 
 - **Details van klantabonnement:** gedetailleerde weergave van de klanten, abonnementen en aanbiedingen
 
-### <a name="license-insights-report"></a>License Insights-rapport:
+### <a name="license-insights-report"></a>Licentie Insights rapport:
 
 - **Totaal aantal licenties:** totaal aantal licenties dat is geaggregeerd voor alle op licenties gebaseerde abonnementen
 
@@ -131,7 +131,7 @@ Een visuele weergave van uw zakelijke gegevens krijgen met de Partner Center Ana
 
 - **Klantdistributie van toegewezen licenties:**% distributie van totaal aantal klanten, opgesplitst in buckets van 20% bereik op licentietoewijzing %
 
-- **Distributie van de klant van licenties in gebruik:**% distributie van het totale aantal klanten, opgesplitst in buckets van 20% per gebruik %.
+- **Klantdistributie van licenties in gebruik:**% distributie van totaal aantal klanten, opgesplitst in buckets van 20% bereik op licentiegebruik %
 
 - **Licenties die zijn toegewezen door de klant:** gedetailleerde weergave van verkochte licenties en licenties die zijn toegewezen door klanten en producten
 
@@ -151,9 +151,9 @@ Een visuele weergave van uw zakelijke gegevens krijgen met de Partner Center Ana
 
 - **Geschatte gebruikskosten van de klant op uitgavenbudget:** Klanten gesorteerd op percentage van hun huidige gebruiksbestedingsbudget dat de drempelwaarde overschrijdt (100%).
 
-### <a name="azure-resource-usage-report"></a>Rapport Azure-resourcegebruik:
+### <a name="azure-resource-usage-report"></a>Rapport azure-resourcegebruik:
 
-- **Gebruik van Azure-resources per** dag voor de geselecteerde periode: dagelijkse verbruikseenheden voor elke resource naar gebruik in elk abonnement op basis van gebruik voor de geselecteerde periode in de afgelopen 60 dagen.
+- **Gebruik van Azure-resources per dag** voor de geselecteerde periode: dagelijkse verbruikseenheden voor elke resource naar gebruik in elk abonnement op basis van gebruik voor de geselecteerde periode in de afgelopen 60 dagen.
 
 - **Geschatte gebruikskosten van Azure-resources** voor de geselecteerde periode: Geschatte kosten op basis van de kaart met het meest recente tarief voor elke resource naar gebruik in elk abonnement op basis van gebruik voor de geselecteerde periode in de afgelopen 60 dagen. 
 

@@ -3,28 +3,28 @@ title: Definities van inzichtengegevens
 ms.topic: article
 ms.date: 12/14/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Het document bevat verschillende rapporten en hun gegevensdefinities, die u kunt downloaden van de Insights Rapport downloaden.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e7783462f005e63e4311ff6cf37c0d3c05aa45c
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 92733f11713e8c16d607a51ef00efdcc25ddc855
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433568"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843404"
 ---
 # <a name="export--data-definitions"></a>Exporteren : gegevensdefinities 
 
-**Juiste rollen:** rapportviewer | Rapportviewer voor leidinggevenden
+**Juiste rollen:** Rapportviewer | Rapportviewer voor leidinggevenden
 
 ## <a name="introduction"></a>Introductie 
 
 Met behulp van de hub Rapporten downloaden op Insights dashboard kunt u de onbewerkte gegevenssets exporteren. 
 
-De verschillende rapporten, die u samen met de gegevensdefinities kunt downloaden, worden weergegeven in de volgende tabellen: 
+De verschillende rapporten, die u samen met de gegevensdefinities kunt downloaden, worden vermeld in de volgende tabellen: 
 
 ### <a name="partner-profile-report"></a>**Partnerprofielrapport**
 
@@ -32,7 +32,7 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | :--------- | :--------- | 
 | MPNId | Microsoft Partner Network-id (MPN)| 
 | PartnerName | Naam van de partner | 
-| PGA_MPNId | Id van de MPN van het globale partneraccount | 
+| PGA_MPNId | Id van het globale partneraccount MPN | 
 | PGA_PartnerName | Globale accountnaam van partner | 
 | Plaats | Plaats van de partnerlocatie | 
 | Land/regio | Landlocatie van de partner | 
@@ -42,20 +42,20 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 
 | Kolomnaam | Gegevensbeschrijving | 
 | :--------- | :--------- | 
-| PGAMpnId| Id van de MPN van het globale partneraccount|
+| PGAMpnId| Id van het globale partneraccount MPN|
 | CustomerName| Naam van de klant|
 | CustomerTenantId| Id van de tenant van de klant|
 | CustomerTpid| Id van het bovenliggende bovenliggende klant|
 | DUNSNumber|   Global Data Universal Number System Identifier van de klant|
 | CustomerSegment | Klantsegment|
-| TopSegment    | Segmentclassificatie van de klant op een hoger niveau|
+| TopSegment    | Segmentclassificatie op een hoger niveau van de klant|
 | CustomerMarket|   Geografische markt van de klant|  
 | CustomerStatus    | Klantstatus (actief of inactief)| 
-| CustomerTenantName|   Naam van klant-tenant|
-| CustomerTenantCountry|    Land van de tenant van de klant|
+| CustomerTenantName|   Naam van de tenant van de klant|
+| CustomerTenantCountry|    Land van klant-tenant|
 | TenantDomainName| Domeinnaam van klant-tenant|
-| Product|  Het product dat aan de klant is verkocht door de MPN: O365, Dynamics 365, Enterprise Mobility + Security, Power BI of Microsoft Azure.|
-| RawProductName|   Gedetailleerde productnaam die aan de klant is verkocht|
+| Product|  Het product dat aan de klant is verkocht via de MPN: O365, Dynamics 365, Enterprise Mobility + Security, Power BI of Microsoft Azure.|
+| RawProductName|   Gedetailleerde productnaam verkocht aan de klant|
 | SKU|  Product-SKU|
 | Maand|    Maand waarvoor gebruik en omzet worden gerapporteerd|
 | MPNId|    Id van Microsoft Partner Network (MPN)|
@@ -71,21 +71,21 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 ### <a name="reseller-performance-report"></a>**Prestatierapport reseller**
 
 > [!Note]
-> Gegevens over omzet en door Azure verbruikte omzet (ACR) zijn alleen beschikbaar voor gebruikers die rapportgebruikers van het management zijn.
+> Gegevens over omzet en door Azure verbruikte omzet (ACR) zijn alleen beschikbaar voor gebruikers die een executive rapport hebben.
 
 | Kolomnaam | Gegevensbeschrijving | 
 | :--------- | :--------- | 
-| PGAMpnId | Id van de MPN van het globale partneraccount |
-| ResellerMPNid | Reseller-Microsoft Partner Network-id | 
+| PGAMpnId | Id van het globale partneraccount MPN |
+| ResellerMPNid | Id Microsoft Partner Network reseller | 
 | ResellerName | Reseller name | 
-| ResellerMarket | Resellerland van de markt | 
+| ResellerMarket | Land van de reseller van de markt | 
 | IndirectProviderMPNId | Id van de indirecte provider Microsoft Partner Network | 
 | IndirectProviderName | Indirecte providernaam | 
 | Maand | Maand waarvoor gebruik en omzet worden gerapporteerd | 
 | Product | Productnaam | 
 | SubscriptionID | Id van het abonnement | 
 | AvailableSeats | Aantal beschikbare seats | 
-| Toegewezen toegewezen taken | Aantal toegewezen seats | 
+| ToegewezenSeats | Aantal toegewezen seats | 
 | BilledRevenueUSD | Gefactureerde omzet in Amerikaanse dollars | 
 | CustomerName | Naam van de klant | 
 | CustomerTPid | Id van het bovenliggende bovenliggende klant | 
@@ -93,14 +93,14 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | CustomerMarket | Geografische markt van de klant | 
 | ResellerStatus | Resellerstatus | 
 
-### <a name="subscription-details-report"></a>**Rapport met abonnementsdetails**
+### <a name="subscription-details-report"></a>**Rapport abonnementsdetails**
 
 >[!Note]
->Omzet- en ACR-gegevens zijn alleen beschikbaar voor gebruikers die executive rapport viewers zijn.
+>Omzet- en ACR-gegevens zijn alleen beschikbaar voor gebruikers die rapportgebruikers van het management zijn.
 
 | Kolomnaam | Gegevensbeschrijving | 
 | :--------- | :--------- | 
-|PGAMpnId| Id van het globale partneraccount MPN |
+|PGAMpnId| Id van de MPN van het globale partneraccount |
 |SubscriptionId | GUID van het abonnement|
 |SubscriptionStartDate | Begindatum van het abonnement|
 |SubscriptionEndDate | Einddatum van het abonnement|
@@ -110,22 +110,22 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 |CustomerName | Naam van de klant|
 |CustomerTenantId | GUID van de klant|
 |CustomerTpid | Bovenliggende id van klant|
-|DUNSNumber| Global Data Universal Number System Identifier of customer|
+|DUNSNumber| Global Data Universal Number System Identifier van de klant|
 |CustomerSegment | Marktsegment van de klant|
 |TopSegment| Segmentclassificatie op een hoger niveau van de klant|
 |CustomerMarket | Geografische markt van de klant|
 |ReportingProductName| Gedetailleerde productnaam|
 |Product | Product verkocht aan de klant door de partner|
-|RawProductName| Gedetailleerde productnaam verkocht aan de klant|
+|RawProductName| Gedetailleerde productnaam die aan de klant is verkocht|
 |ProductPartNumber| Onderdeelnummer van het product|
 |SKU | SKU van het product|
 |RevSumDivisionName| Naam van de producthiërarchie voor omzetrapportage|
-|SolutionArea| Bedrijfstoepassingsclassificatie van het product|
+|SolutionArea| Classificatie van bedrijfstoepassing van het product|
 |MPNId | Microsoft Partner Network id van de partner|
 |PartnerName | Naam van de partner|
 |PartnerLocation | Geografische locatie van de partner|
 |PartnerAttributionType | Toeschrijvingstype voor het abonnement|
-|SalesChannel | Verkoopkanaal: direct, CSP (Cloud Solution Provider), e.d.|
+|SalesChannel | Verkoopkanaal: Direct, CSP (Cloud Solution Provider), en meer|
 |PricingLevel| Prijspunt van de verkoop|
 |EnrollmentNumber| Inschrijvingsnummer van het abonnement|
 |IsDuplicateRowForPGA| Voor meerdere partnervermeldingen onder één PGA wordt deze waarde ingesteld op 0 voor slechts één MPNId. Als de waarde is ingesteld op 1, wordt een dubbele rij aangegeven|
@@ -141,7 +141,7 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 
 | Kolomnaam | Gegevensbeschrijving | 
 | :--------- | :--------- | 
-|PGAMpnId| Id van het globale partneraccount MPN|
+|PGAMpnId| Id van de MPN van het globale partneraccount|
 |SubscriptionId| GUID van het abonnement|
 |SubscriptionStartDate| De datum van het begin van het abonnement|
 |SubscriptionEndDate| De datum van het einde van het abonnement|
@@ -176,13 +176,13 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 |AdminType| Wanneer het type partnervermelding 'Partner Admin Link (PAL)' is, wordt in deze kolom de toegewezen rol in het abonnement van de klant aangegeven.|
 |AssociationType| Type associatie|
 |MonthlySubscriptionLevelACR| ACR op maandelijks abonnementsniveau|
-|ACR_USD| Verbruikte Omzet van Azure (ACR) in Amerikaanse dollars|
+|ACR_USD| Verbruikte azure-omzet (ACR) in Amerikaanse dollars|
 
 ### <a name="office-365-license-usage-report"></a>**Office 365 licentiegebruiksrapport**
 
 | Kolomnaam | Gegevensbeschrijving | 
 | :--------- | :--------- | 
-| PGAMpnId | Id van het globale partneraccount MPN | 
+| PGAMpnId | Id van de MPN van het globale partneraccount | 
 | CustomerTenantId | Tenant-id van de klant | 
 | CustomerTpid | Bovenliggende id van klant | 
 | WorkloadName | Skype voor Bedrijven, Teams, Exchange Online | 
@@ -266,7 +266,7 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | AvailableSeats |  Huidige betaalde beschikbare seats|
 | ToegewezenSeats |   Huidige toegewezen seats|
 | ActiveSeats | Huidige actieve seats|
-| DeploymentOpportunity |   Implementatiekans is het aantal seats dat niet is toegewezen|
+| ImplementatieOpportunity |   Implementatiekans is het aantal plaatsen dat niet is toegewezen|
 | ActiveUsagePercent |  Huidig actief gebruik als percentage van beschikbare seats |
 
 ### <a name="power-bi-license-usage-report"></a>**Power BI licentiegebruiksrapport**
@@ -293,11 +293,11 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | PartnerName | Naam van de partner | 
 | PartnerLocation | Geografische landlocatie van de partner | 
 | PartnerAttachType | Toeschrijvingstype voor het abonnement | 
-| PartnerHierarchy |    Hiërarchie van partner (virtuele organisatie of HeadQuarters of locatie)|
+| PartnerHierarchy |    Hiërarchie van partner (virtuele organisatie of headquarters of locatie)|
 | AvailableSeats |  Huidige betaalde beschikbare seats|
 | ToegewezenSeats |   Huidige toegewezen seats|
 | ActiveSeats | Huidige actieve seats|
-| DeploymentOpportunity |   Implementatiekans is het aantal seats dat niet is toegewezen|
+| ImplementatieOpportunity |   Implementatiekans is het aantal plaatsen dat niet is toegewezen|
 | ActiveUsagePercent |  Huidig actief gebruik als percentage van beschikbare seats|
 
 ### <a name="teams-meetings-and-calls-report"></a>**Teams en aanroepen rapporteren**
@@ -373,7 +373,7 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | TrainingType | Type training (module of leertraject) | 
 | Producten | Product waarvoor de leermodule van toepassing is | 
 | Rollen | Toepasselijke rollen van de training | 
-| CompletionDate | Datum waarop de training is voltooid | 
+| CompletionDate | De datum waarop de training is voltooid | 
 | MPNId | Id van Microsoft Partner Network | 
 | PartnerName | Naam van de partner | 
 | Land/regio | Geografische landlocatie van de partner | 
@@ -409,12 +409,12 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | MPN-id | Microsoft Partner Network ID | 
 | Partnernaam | Naam van de partner | 
 | Klant-ID | Id-nummer van de klant | 
-| DUNS-nummer | Het nummer van Dun & Brad serienummer (D&B) van de klant die wordt scoren voor goedheid | 
+| DUNS-nummer | Het Dun & Brad serienummer (D&B) van de klant die wordt scoren voor goedheid | 
 | Accountnaam | Naam van het account | 
 | Domain | Domein van het account | 
 | Organisatiegrootte | Grootte van de organisatie | 
 | Branche | Branche waar de organisatie bij hoort | 
-| Verticaal | De verticale positie van de klant die wordt scoren op basis van de normen van Microsoft, D&B en andere industriestandaarden | 
+| Verticaal | De verticale positie van de klant die wordt scoren op reensiteit, zoals aangegeven door Microsoft, D&B en andere industriestandaarden | 
 | Gebied | Geografisch gebied van de locatie | 
 | Dochteronderneming | De dochteronderneming van de klant die wordt scoren voor reensiteit | 
 | Verkoopterritorium | Het verkoopgebied van de klant die wordt scoren op reensiteit | 
@@ -430,28 +430,28 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | IsNonProfit | Geeft aan of de organisatie non-profitorganisatie is (Ja of Nee) | 
 | Extern werk inschakelen - doel Exchange Online | Klanten die een actief Exchange Online hebben, worden upsell aan Microsoft 365 | 
 | Extern werk inschakelen - on-premises aanschaf (huidige versie) met Cloud Ascent-ondersteuning - +10 licenties | Klant met een huidige on-premises Office of Windows client. Dat wil zeggen dat de clientversie hoger is dan een end-of-life-versie (EOL). De klant heeft 10 of meer licenties. Klant die een reensiteitsscore heeft. Partner moet worden gericht op conversie naar Microsoft 365. | 
-| Extern werk inschakelen - on-premises aanschaf (huidige versie) met Cloud Ascent-ondersteuning - <10 licenties | Klant met een huidige on-premises Office of Windows client (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft minder dan 10 licenties. Klant die een reensiteitsscore heeft. Partner moet worden gericht op conversie naar Microsoft 365. | 
+| Extern werk inschakelen - on-premises aanschaf (huidige versie) met Cloud Ascent-ondersteuning - <10 licenties | Klant met een huidige on-premises Office of Windows client (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft minder dan 10 licenties. Klant met een propensiteitsscore. Partner moet worden gericht op conversie naar Microsoft 365. | 
 | Extern werk inschakelen - on-premises aanschaf (huidige versie) zonder Cloud Ascent-ondersteuning - +10 licenties | Klant met een huidige on-premises Office of Windows client (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft 10 of meer licenties. De klant heeft geen reactiviteitsscore. Partner moet worden gericht op conversie naar Microsoft 365. | 
 | Extern werk inschakelen - on-premises aanschaf (huidige versie) zonder Cloud Ascent-ondersteuning - <10 licenties | Klant met een huidige on-premises Office of Windows client (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft minder dan 10 licenties. De klant heeft geen reactiviteitsscore. Partner moet worden gericht op conversie naar Microsoft 365. | 
-| Extern werk inschakelen : on-premises aanschaf (EOL-versie) met Cloud Ascent-ondersteuning - +10 licenties | Klant die een on-premises EOL-Office of Windows client (dat wil zeggen, een EOL-versie of eerder). De klant heeft 10 of meer licenties. Klant heeft een propensiteitsscore. Partner moet worden gericht op conversie naar Microsoft 365. | 
-| Extern werk inschakelen : on-premises aanschaf (EOL-versie) met Cloud Ascent-ondersteuning - <10 licenties | Klant die een on-premises EOL-Office of Windows client (dat wil zeggen, een EOL-versie of eerder). De klant heeft minder dan 10 licenties. Klant heeft een propensiteitsscore. Partner moet worden gericht op conversie naar Microsoft 365. | 
+| Extern werk inschakelen : on-premises aanschaf (EOL-versie) met Cloud Ascent-ondersteuning - +10 licenties | Klant die een on-premises EOL-Office of Windows client (dat wil zeggen, een EOL-versie of eerder). De klant heeft 10 of meer licenties. De klant heeft een propensiteitsscore. Partner moet worden gericht op conversie naar Microsoft 365. | 
+| Extern werk inschakelen : on-premises aanschaf (EOL-versie) met Cloud Ascent-ondersteuning - <10 licenties | Klant die een on-premises EOL-Office of Windows client (dat wil zeggen, een EOL-versie of eerder). De klant heeft minder dan 10 licenties. De klant heeft een propensiteitsscore. Partner moet worden gericht op conversie naar Microsoft 365. | 
 | Extern werk inschakelen : on-premises aanschaf (EOL-versie) zonder Cloud Ascent-ondersteuning - +10 licenties | Klant met een huidige on-premises Office of Windows client (dat wil zeggen, een EOL-versie of eerder). De klant heeft 10 of meer licenties. De klant heeft geen reactiviteitsscore. Partner moet worden gericht op conversie naar Microsoft 365. | 
 | Extern werk inschakelen - on-premises aanschaf (EOL-versie) zonder Cloud Ascent-ondersteuning - <10 licenties | Klant met een huidige on-premises Office of Windows client (dat wil zeggen, een EOL-versie of eerder). De klant heeft minder dan 10 licenties. De klant heeft geen reactiviteitsscore. Partner moet worden gericht op conversie naar Microsoft 365. | 
 | Extern werk inschakelen: potentiële klant met hoge Microsoft 365 (Act NowithEvaluate) | Prospect-klant met hoge Microsoft 365 | 
 | Extern werk inschakelen : concurreren (Zoom) met Microsoft 365 | Klant met Zoom en Microsoft 365, doel voor conversie naar Teams | 
 | Extern werk inschakelen : concurreren (Zoom) zonder Microsoft 365 | Klant met Zoom, doel voor conversie naar Teams | 
-| Kosten en beheer verlagen - Microsoft 365 E3 gericht op Microsoft 365 E5 | Bestaande klant met Microsoft 365 E3, doel voor Microsoft 365 E5 | 
+| Kosten verlagen en beheren - Microsoft 365 E3 gericht op Microsoft 365 E5 | Bestaande klant met Microsoft 365 E3, doel voor Microsoft 365 E5 | 
 | Kosten verlagen en beheren : Microsoft 365 Business Basic en Business Standard-klanten die zijn gericht op Microsoft 365 Business Premium | Bestaande Microsoft 365 Business Basic en Business Standard-klanten, doel voor Microsoft 365 Business Premium | 
 | Organisatieproductiviteit transformeren - Surface propensity | Klant toont een gelijkenis voor Surface | 
-| M365Cluster | Identificeert de wil van een klant om een Microsoft 365. Target Act Now en Evaluate clusters omdat ze een hoger rendement opleveren. Target Nurture and Educate customers only if there is still capacity after Act Now and Evaluate customers are targeted. | 
+| M365Cluster | Identificeert de wil van een klant om een Microsoft 365. Target Act Now en Evaluate clusters omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat de klanten Nu actie ondernemen en evalueren zijn gericht. | 
 | M365Fit | Interne en externe gegevenspunten die firmographics definiëren. Passend scoren maakt gebruik van een vergelijkbaar model voor onze beste kleine of middelgrote bedrijven (SMB's) om klanten te vergelijken en te zien of ze mogelijk geschikt zijn voor Microsoft-cloudproducten. Passend scoren wordt elk kwartaal bijgewerkt. | 
-| M365Intent | Signalen met betrekking tot sociale media en het onlinegedrag van een klant definiëren Intentie. Het scoren van intenties wordt over de passend om de clusters te definiëren. Het scoren van intenties wordt maandelijks bijgewerkt. | 
-| SurfaceCluster | Identificeert de wil van een klant om Surface aan te schaffen door de aanbevelingen voor aanpassen en intentie in een cluster samen te brengen. Target Act Now en Evaluate clusters omdat ze een hoger rendement opleveren. Target Nurture and Educate customers only if there is still capacity after Act Now and Evaluate customers are targeted. | 
+| M365Intent | Signalen met betrekking tot sociale media en het onlinegedrag van een klant definiëren Intentie. Intent scoring wordt over elkaar heen relativeren bij Passend om de clusters te definiëren. Het scoren van intenties wordt maandelijks bijgewerkt. | 
+| SurfaceCluster | Identificeert de wil van een klant om Surface aan te schaffen door de aanbevelingen voor aanpassen en intentie in een cluster samen te brengen. Target Act Now en Evaluate clusters omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat de klanten Nu actie ondernemen en evalueren zijn gericht. | 
 | SurfaceFit | Interne en externe gegevenspunten die firmographics definiëren. Passend scoren maakt gebruik van een vergelijkbaar model voor onze beste SMB's om klanten te vergelijken en te zien of ze mogelijk geschikt zijn voor Microsoft-cloudproducten. Passend scoren wordt elk kwartaal bijgewerkt. | 
-| SurfaceIntent | Signalen met betrekking tot sociale media en het onlinegedrag van een klant definiëren Intentie. Het scoren van intenties wordt over de passend om de clusters te definiëren. Het scoren van intenties wordt maandelijks bijgewerkt. | 
-| O365Cluster | Identificeert de wil van de klant om een Office 365. Target Act Now en Evaluate clusters omdat ze een hoger rendement opleveren. Target Nurture and Educate customers only if there is still capacity after Act Now and Evaluate customers are targeted. | 
+| SurfaceIntent | Signalen met betrekking tot sociale media en het onlinegedrag van een klant definiëren Intentie. Intent scoring wordt over elkaar heen relativeren bij Passend om de clusters te definiëren. Het scoren van intenties wordt maandelijks bijgewerkt. | 
+| O365Cluster | Identificeert de wil van de klant om een Office 365. Target Act Now en Evaluate clusters omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat de klanten Nu actie ondernemen en evalueren zijn gericht. | 
 | O365Fit | Interne en externe gegevenspunten die firmographics definiëren. Passend scoren maakt gebruik van een vergelijkbaar model voor onze beste SMB's om klanten te vergelijken en te zien of ze mogelijk geschikt zijn voor Microsoft-cloudproducten. Passend scoren wordt elk kwartaal bijgewerkt. | 
-| O365Intent | Signalen met betrekking tot sociale media en het onlinegedrag van een klant definiëren Intentie. Het scoren van intenties wordt over de passend om de clusters te definiëren. Het scoren van intenties wordt maandelijks bijgewerkt. | 
+| O365Intent | Signalen met betrekking tot sociale media en het onlinegedrag van een klant definiëren Intentie. Intent scoring wordt over elkaar heen relativeren bij Passend om de clusters te definiëren. Het scoren van intenties wordt maandelijks bijgewerkt. | 
 | M365UpsellCustomer | Hiermee wordt aangegeven of de klant de verkoopaandedigheid voor de Microsoft 365 | 
 | Heeft Google | Identificeert of de klant concurrerende signalen toont voor het bezit van Google-producten | 
 | Heeft AWS | Identificeert of de klant concurrerende signalen toont voor het Amazon Web Services (AWS)-producten | 
@@ -485,23 +485,23 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | Top Unmanaged - Gebruikersbasis | Belangrijkste niet-mande klanten : gebruikers | 
 | IsNonProfit | Geeft aan of de organisatie non-profitorganisatie is (Ja of Nee) | 
 | Digitale verkoop activeren - Microsoft 365 - seatgrootte >= 25 seats (SalesPro-propensiteitsmodel) | Klant zonder Dynamics 365. Seatgrootte: 25+. Partner moet zich richten op cross-sell van Dynamics 365 SalesPro. | 
-| Digitale verkoop activeren - Dynamics 365 SalesPro-propensiteit (nu actie ondernemen of evalueren) | Klanten met hoge propensiteit zonder Dynamics 365. Partner moet zich richten op Dynamics 365 SalesPro. | 
-| Beheer van financiële risico'& fraude - On-premises dynamics-installatiebasis - Navision (Business Central-bedrijfsmodel) | Bestaande klant met on-premises Navision. De partner moet zich richten op Dynamics 365 Business Central. | 
-| Financiële risico'& fraude beheren - On-premises dynamics-installatiebasis - Dynamics AX (Dynamics 365 Finance + Operations-propensiteitsmodel) | Bestaande klant met on-premises AX. Partner moet zich richten op Dynamics 365 Finance + Operations. | 
-| Beheer van financiële risico'& fraude - On-premises dynamics-installatiebasis - Great Plains (Business Central-bedrijfsmodel) | Bestaande klant met on-premises Great Plains. De partner moet zich richten op Dynamics 365 Business Central. | 
+| Digitale verkoop activeren - Dynamics 365 SalesPro-reensiteit (nu actie ondernemen of evalueren) | Klanten met hoge propensiteit zonder Dynamics 365. Partner moet zich richten op Dynamics 365 SalesPro. | 
+| Financieel risicobeheer & fraude - On-premises dynamics-installatiebasis - Navision (Business Central-bedrijfsmodel) | Bestaande klant met on-premises Navision. De partner moet zich richten op Dynamics 365 Business Central. | 
+| Financiële risico'& fraude beheren - On-premises dynamics-installatiebasis - Dynamics AX (Dynamics 365 Finance + Operations-bedrijfsmodel) | Bestaande klant met on-premises AX. Partner moet zich richten op Dynamics 365 Finance + Operations. | 
+| Beheer van financiële risico'& fraude - Dynamics on-premises installatiebasis - Great Plains (Business Central-propensiteitsmodel) | Bestaande klant met on-premises Great Plains. De partner moet zich richten op Dynamics 365 Business Central. | 
 | Beheer van financiële risico'& fraude - On-premises dynamics-installatiebasis - Leiden (Business Central-bedrijfsmodel) | Bestaande klant met on-premises Premise. De partner moet zich richten op Dynamics 365 Business Central. | 
 | Financieel risicobeheer & fraude - On-premises dynamics-installatiebasis - Overige (Business Central-bedrijfsmodel) | Bestaande klant met andere on-premises oplossingen die niet eerder zijn vermeld. De partner moet zich richten op Dynamics 365 Business Central. | 
 | Agile bedrijfsprocessen bouwen - Dynamics on-premises installatiebasis - AX/GP/SL/NAV/Other (Dynamics 365-reensiteitsmodel) | Agile bedrijfsprocessen bouwen - Dynamics on-premises installatiebasis - AX/GP/SL/NAV/Other (Dynamics 365-reensiteitsmodel) | 
 | Agile-bedrijfsprocessen bouwen - Dynamics concurreert als basis - Mendix/OutSystems/Salesforce (Dynamics 365-bedrijfsmodel) | Flexibele bedrijfsprocessen bouwen - Dynamics concurreert als basis - Mendix/OutSystems/Salesforce (Dynamics 365-bedrijfsmodel) | 
-| Agile-bedrijfsprocessen bouwen - Dynamics 365 Finance + Operations-installatiebasis | Bestaande klanten van Dynamics 365 Finance + Operations. Partner voor doel-Power Apps. | 
-| Agile-bedrijfsprocessen bouwen - Dynamics 365 Business Central-installatiebasis | Bestaande Klanten van Dynamics 365 Business Central. Partner voor doel-Power Apps. | 
+| Agile bedrijfsprocessen bouwen - Dynamics 365 Finance + Operations-installatiebasis | Bestaande klanten van Dynamics 365 Finance + Operations. Partner voor doel-Power Apps. | 
+| Flexibele bedrijfsprocessen bouwen - Dynamics 365 Business Central-installatiebasis | Bestaande Klanten van Dynamics 365 Business Central. Partner voor doel-Power Apps. | 
 | Agile-bedrijfsprocessen bouwen - Dynamics 365 Customer Engagement-installatiebasis | Bestaande Klanten van Dynamics 365 Customer Engagement. Partner voor doel-Power Apps. | 
-| Een Resilient Supply Chain bouwen - Windows en activeer de eerste Dynamics 365-workload als Dynamics 365 Supply Chain Management met klanten die geen Oracle of SAP ERP (enterprise resource planning) hebben | Doelklanten voor Dynamics 365 Supply Chain Management | 
-| Een resilient supply chain bouwen : Dynamics 365 Supply Chain Management en/of Retail of Commerce kruisverkopen aan bestaande Klanten van Dynamics 365 Customer Engagement | Bestaande klanten van Dynamics 365 Customer Engagement zijn gericht op cross-selling Dynamics 365 Supply Chain Management. | 
-| Een flexibele toeleveringsketen bouwen: Dynamics 365 Supply Chain Management en/of Retail of Commerce kruisverkopen aan Dynamics 365 Customer Engagement en Oracle of SAP | Bestaande Klanten van Dynamics 365 Customer Engagement met Oracle of SAP als doel voor Dynamics 365 Supply Chain Management | 
+| Een Resilient Supply Chain bouwen - Windows en activeer de eerste Dynamics 365-workload als Dynamics 365 Supply Chain Management met niet-Oracle- of SAP ERP-klanten (enterprise resource planning) | Doelklanten voor Dynamics 365 Supply Chain Management | 
+| Een resilient supply chain bouwen : Dynamics 365 Supply Chain Management en/of Retail of Commerce kruisverkopen aan bestaande Klanten van Dynamics 365 Customer Engagement | Bestaande Klanten van Dynamics 365 Customer Engagement zijn gericht op cross-selling Dynamics 365 Supply Chain Management. | 
+| Een resilient supply chain bouwen : Dynamics 365 Supply Chain Management en/of Retail of Commerce kruisverkopen aan Dynamics 365 Customer Engagement en Oracle of SAP | Bestaande Klanten van Dynamics 365 Customer Engagement met Oracle of SAP als doel voor Dynamics 365 Supply Chain Management | 
 | D365BCCluster | Identificeert de reensiteit van de klant om Dynamics 365 Business Central aan te schaffen. Klanten die een eigenheid voor Business Central hebben, vallen in de categorieën Gemiddeld en Klein. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich richt op Nu reageren en Klanten evalueren. | 
 | D365BCFit | Interne en externe gegevenspunten die firmographics definiëren. Score aanpassen maakt gebruik van een vergelijkbaar model voor onze beste SMB om klanten te vergelijken en te zien of ze mogelijk geschikt zijn voor Microsoft-cloudproducten. Passend scoren wordt elk kwartaal bijgewerkt. | 
-| D365BCIntent | Signalen met betrekking tot sociale media en het onlinegedrag van een klant definiëren Intentie. Intenties scoren wordt over elkaar heen in Passend om de clusters te definiëren. Intentiescores worden maandelijks bijgewerkt. | 
+| D365BCIntent | Signalen met betrekking tot sociale media en het onlinegedrag van een klant definiëren Intentie. Intentiescores worden over elkaar heen in Passend om de clusters te definiëren. Intentiescores worden maandelijks bijgewerkt. | 
 | D365FOCluster | Identificeert de reensiteit van de klant om Dynamics 365 Finance and Operations aan te schaffen. Klanten die een reensiteit voor Finance + Operations tonen, worden in de top onmanaged categorieën. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich richt op Nu reageren en Klanten evalueren. | 
 | D365FOFit | Interne en externe gegevenspunten die firmographics definiëren. Score aanpassen maakt gebruik van een vergelijkbaar model voor onze beste SMB om klanten te vergelijken en te zien of ze mogelijk geschikt zijn voor Microsoft-cloudproducten. Passend scoren wordt elk kwartaal bijgewerkt. | 
 | D365FOIntent | Signalen met betrekking tot sociale media en het onlinegedrag van een klant definiëren Intentie. Het scoren van intenties wordt over de passend om de clusters te definiëren. Het scoren van intenties wordt maandelijks bijgewerkt. | 
@@ -527,7 +527,7 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | Domain | Domein van het account | 
 | Organisatiegrootte | Grootte van de organisatie | 
 | Branche | Branche | 
-| Verticaal | De verticale positie van de klant die wordt scoren voor goedheid, zoals aangegeven door Microsoft, D&B en andere industriestandaarden | 
+| Verticaal | De verticale van de klant die wordt scoren voor goedheid, zoals aangegeven door Microsoft, D&B en andere industriestandaarden | 
 | Gebied | Geografisch gebied van de locatie | 
 | Dochteronderneming | De dochteronderneming van de klant die wordt scoren voor goedheid | 
 | Verkoopterritorium | Het verkoopgebied van de klant die wordt scoren voor goedheid | 
@@ -538,23 +538,23 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | Segment | Marktsegment | 
 | Subsegment | Marktsubsegment | 
 | Samenvatting van SMC-type | SMC-type | 
-| Top Onmanaged - Rekenbasis | Belangrijkste onmanagede klanten : rekenkracht | 
+| Top Onmanaged - Compute Base | Belangrijkste onmanagede klanten : rekenkracht | 
 | Top Onmanaged - Gebruikersbasis | Belangrijkste onmanagede klanten : gebruikers | 
 | IsNonProfit | Geeft aan of de organisatie non-profitorganisatie is (Ja of Nee) | 
 | Migreren - EOL Windows Server - EOL Windows Server IB met Cloud Ascent-eigenheid - meer dan 5 licenties | Klant met een on-premises EOL-Windows Server (dat wil zeggen, een EOL-versie of eerder). De klant heeft vijf of meer licenties. Klant die een reensiteitsscore heeft. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - EOL Windows Server - EOL Windows Server IB met Cloud Ascent-eigenheid - <5 licenties | Klant met een on-premises EOL-Windows Server (dat wil zeggen, een EOL-versie of eerder). De klant heeft minder dan 5 licenties. Klant die een reensiteitsscore heeft. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - EOL Windows Server - EOL Windows Server IB zonder Cloud Ascent-eigenheid - meer dan 5 licenties | Klant met een on-premises EOL-Windows Server (dat wil zeggen, een EOL-versie of eerder). De klant heeft meer dan 5 licenties. De klant heeft geen reactiviteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - EOL Windows Server - EOL Windows Server IB zonder Cloud Ascent-eigenheid - <5 licenties | Klant met een on-premises EOL-Windows Server (dat wil zeggen, een EOL-versie of eerder). Heeft minder dan 5 licenties. De klant heeft geen reactiviteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
-| Migreren - EOL SQL - EOL SQL Server IB met Cloud Ascent-eigenheid - meer dan 5 licenties | Klant met een on-premises EOL-SQL Server (dat wil zeggen, een EOL-versie of eerder). De klant heeft meer dan 5 licenties. Klant heeft een propensiteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
-| Migreren - EOL SQL - EOL SQL Server IB met Cloud Ascent-propensiteit - <5 licenties | Klant met een on-premises EOL-SQL Server (dat wil zeggen, een EOL-versie of eerder). Heeft minder dan 5 licenties. Klant met een propensiteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
+| Migreren - EOL SQL - EOL SQL Server IB met Cloud Ascent-eigenheid - meer dan 5 licenties | Klant met een on-premises EOL-SQL Server (dat wil zeggen, een EOL-versie of eerder). De klant heeft meer dan 5 licenties. De klant heeft een propensiteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
+| Migreren - EOL SQL - EOL SQL Server IB met Cloud Ascent-propensiteit - <5 licenties | Klant met een on-premises EOL-SQL Server (dat wil zeggen, een EOL-versie of eerder). Heeft minder dan 5 licenties. Klant die een reensiteitsscore heeft. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - EOL SQL - EOL SQL Server IB zonder Cloud Ascent-eigenheid - meer dan 5 licenties | Klant met een on-premises EOL-SQL Server (dat wil zeggen, een EOL-versie of eerder). De klant heeft vijf of meer licenties. De klant heeft geen reactiviteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - EOL SQL - EOL SQL Server IB zonder Cloud Ascent-toestemming - <5 licenties | Klant met een on-premises EOL-SQL Server (dat wil zeggen, een EOL-versie of eerder). De klant heeft minder dan vijf licenties. De klant heeft geen reactiviteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
-| Migreren - On-premises Windows Server migreren - huidige Windows Server-IB met Cloud Ascent-propensiteit - 5+ licenties | Klant met een huidige on-premises Windows Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft meer dan 5 licenties. De klant heeft een propensiteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
+| Migreren - On-premises Windows server migreren - huidige Windows Server-IB met Cloud Ascent-eigenheid - 5+ licenties | Klant met een huidige on-premises Windows Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft meer dan 5 licenties. Klant heeft een propensiteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - On-premises Windows Server migreren - huidige Windows Server-IB met Cloud Ascent-eigenheid - <5 licenties | Klant met een huidige on-premises Windows Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft minder dan vijf licenties. De klant heeft een propensiteitsscore voor Azure. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - On-premises Windows server migreren - huidige Windows Server-IB zonder Cloud Ascent-eigenheid - meer dan 5 licenties | Klant met een huidige on-premises Windows Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft meer dan 5 licenties. De klant heeft geen reactiviteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - On-premises Windows Server migreren - huidige Windows Server-IB zonder Cloud Ascent-eigenheid - <5 licenties | Klant met een huidige on-premises Windows Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft minder dan vijf licenties. De klant heeft geen reactiviteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
-| Migreren - Migreren naar Azure SQL of SQL virtuele machines (VM's) - huidige SQL Server IB met Cloud Ascent-ondersteuning - meer dan 5 licenties | Klant met een huidige on-premises SQL Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft meer dan 5 licenties. De klant heeft een propensiteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
-| Migreren - Migreren naar Azure SQL of SQL-VM's - huidige SQL Server IB met Cloud Ascent-ondersteuning - <5 licenties | Klant met een huidige on-premises SQL Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft minder dan vijf licenties. De klant heeft een propensiteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
+| Migreren - Migreren naar Azure SQL of SQL virtuele machines (VM's) - huidige SQL Server IB met Cloud Ascent-ondersteuning - 5+ licenties | Klant met een huidige on-premises SQL Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft meer dan 5 licenties. Klant heeft een propensiteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
+| Migreren - Migreren naar Azure SQL of SQL-VM's - huidige SQL Server IB met Cloud Ascent-ondersteuning - <5 licenties | Klant met een huidige on-premises SQL Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft minder dan vijf licenties. Klant heeft een propensiteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - Migreren naar Azure SQL of SQL-VM's - huidige SQL Server IB zonder Cloud Ascent-ondersteuning - 5+ licenties | Klant met een huidige on-premises SQL Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft meer dan 5 licenties. De klant heeft geen reactiviteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - Migreren naar Azure SQL of SQL-VM's - huidige SQL Server IB zonder Cloud Ascent-ondersteuning - <5 licenties | Klant met een huidige on-premises SQL Server (dat wil zeggen, een versie die hoger is dan EOL). De klant heeft minder dan vijf licenties. De klant heeft geen reactiviteitsscore. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - OSS - Migreren naar Open Source Shakespeare (OSS) DB | Bestaande klant met een van de volgende concurreerde producten: PostgreSQL, MySQL, MariaDB. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
@@ -564,7 +564,7 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | Migreren - Windows Virtual Desktop - Modern werk cross sell naar Azure/WVD | Identificeert klanten Microsoft 365 en heeft geen Azure. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - VMware IB | Bestaande klant met het product: VMware. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
 | Migreren - Citrix IB | Bestaande klant met het product: Citrix Systems. Partner moet deze klant als doel hebben voor migratie naar Azure. | 
-| Innoveren - Analyse - IB Power BI met een hoge Azure-reensiteit | Klanten met een actief Power BI-abonnement, waaronder: Power BI - standalone Pro, Power BI - Azure Suites, Power BI - Office Suites, Power BI Suites - Microsoft 365 | 
+| Innoveren - Analyse - IB Power BI met hoge Azure-ondersteuning | Klanten met en een Actief Power BI-abonnement, waaronder: Power BI - zelfstandige Pro, Power BI - Azure Suites, Power BI - Office Suites, Power BI Suites - Microsoft 365 | 
 | Inschakelen - DevOps met GitHub - Visual Studio/MSDN IB | Identificeert klanten met actieve Visual Studio versies | 
 | Windows Server Standard-versie | Geeft de versie weer van Windows Server Standard-aankopen door de klant | 
 | Windows Server Standard-licentie | Geeft het licentietype weer van Windows Server Standard-aankopen door de klant | 
@@ -575,11 +575,11 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | AzureCluster | Identificeert de wil van de klant om Azure aan te schaffen door de aanbevelingen voor aanpassen en intentie in een cluster samen te brengen. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich hebt gericht op Nu reageren en Klanten evalueren. | 
 | WindowsServerDataCenter_HasOpenRenewal | Identificeert of de klant een open verlenging heeft voor Windows Server Datacenter | 
 | WindowsServerStandard_HasOpenRenewal | Identificeert of de klant een open verlenging heeft voor Windows Server Standard | 
-| AzureUpsellCustomer | Identificeert of de klant verkoopaandedensiteit voor Azure laat zien | 
+| AzureUpsellCustomer | Identificeert of de klant verkoopaandedendheid voor Azure laat zien | 
 | Heeft Google | Identificeert of de klant concurrerende signalen toont voor het bezit van Google-producten | 
-| Heeft AWS | Identificeert of de klant concurrerende signalen toont voor AWS-producten die eigenaar zijn | 
+| Heeft AWS | Identificeert of de klant concurrerende signalen toont voor het in bezit hebben van AWS-producten | 
 | Heeft EA | Hiermee wordt aangegeven of een verlenging een EA- of EEN EA-abonnement is | 
-| Is geopend | Hiermee wordt aangegeven of een verlenging een Overeenkomst voor open of open waarde is | 
+| Is geopend | Hiermee wordt aangegeven of een verlenging een Open- of Open Value-overeenkomst is | 
 
 ### <a name="cloud-ascent---agreement-renewal-propensity-report"></a>**Cloud Ascent - rapport over verlenging van overeenkomst**
 
@@ -588,15 +588,15 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | MPN-id | Microsoft Partner Network-id | 
 | Partnernaam | Naam van de partner | 
 | Klant-ID | Klant-id-nummer | 
-| DUNS-nummer | Het Dun & Brad gaat over het nummer van de klant die wordt scoren voor goedheid | 
+| DUNS-nummer | Het Dun & Brad serienummer van de klant die wordt scoren voor goedheid | 
 | Accountnaam | Naam van het account | 
 | Domain | Domein van het account | 
 | Organisatiegrootte | Grootte van de organisatie | 
 | Branche | Branche | 
-| Verticaal | De verticale positie van de klant die wordt scoren op reensiteit, zoals aangegeven door Microsoft, D&B en andere industriestandaarden | 
+| Verticaal | De verticale van de klant die wordt scoren voor goedheid, zoals aangegeven door Microsoft, D&B en andere industriestandaarden | 
 | Gebied | Geografisch gebied van de locatie | 
-| Dochteronderneming | De dochteronderneming van de klant die wordt scoren voor reensiteit | 
-| Verkoopterritorium | Het verkoopgebied van de klant die wordt scoren op reensiteit | 
+| Dochteronderneming | De dochteronderneming van de klant die wordt scoren voor goedheid | 
+| Verkoopterritorium | Het verkoopgebied van de klant die wordt scoren voor goedheid | 
 | Plaats | Geografische plaatslocatie | 
 | Staat | Geografische statuslocatie | 
 | Postcode | Postcode van de organisatie | 
@@ -604,26 +604,26 @@ De verschillende rapporten, die u samen met de gegevensdefinities kunt downloade
 | Segment | Marktsegment | 
 | Subsegment | Marktsubsegment | 
 | Samenvatting SMC-type | SMC-type | 
-| Top Unmanaged - Compute Base | Belangrijkste niet-mande klanten : rekenkracht | 
-| Top Unmanaged - Gebruikersbasis | Belangrijkste niet-mande klanten : gebruikers | 
+| Top Onmanaged - Compute Base | Belangrijkste onmanagede klanten : rekenkracht | 
+| Top Onmanaged - Gebruikersbasis | Belangrijkste onmanagede klanten : gebruikers | 
 | IsNonProfit | Geeft aan of de organisatie non-profitorganisatie is (Ja of Nee) | 
-| Heeft Google | Identificeert of de klant concurrerende signalen toont voor AWS-producten die eigenaar zijn | 
-| Heeft AWS | Identificeert of de klant concurrerende signalen toont voor AWS-producten die eigenaar zijn | 
-| Azure-cluster | Identificeert de reensiteit van de klant om Azure aan te schaffen. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich richt op Nu reageren en Klanten evalueren. | 
-| D365 Finance + Operations Cluster | Identificeert de reensiteit van de klant om Dynamics 365 Finance and Operations aan te schaffen. Klanten die een reensiteit voor Finance + Operations tonen, worden in de top onmanaged categorieën. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich richt op Nu reageren en Klanten evalueren. | 
-| D365 CE-cluster | Identificeert de reensiteit van de klant om Dynamics 365 Customer Engagement aan te schaffen. Klanten die klantbetrokkenheid tonen, vallen in de categorieën Gemiddeld en Klein. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich richt op Nu reageren en Klanten evalueren. | 
-| D365 BC-cluster | Identificeert de reensiteit van de klant om Dynamics 365 Business Central aan te schaffen. Klanten die een eigenheid voor Business Central hebben, vallen in de categorieën Gemiddeld en Klein. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich richt op Nu reageren en Klanten evalueren. | 
-| Microsoft 365 Cluster | Identificeert de reensiteit van de klant om een Microsoft 365. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich richt op Nu reageren en Klanten evalueren. | 
+| Heeft Google | Identificeert of de klant concurrerende signalen toont voor het in bezit hebben van AWS-producten | 
+| Heeft AWS | Identificeert of de klant concurrerende signalen toont voor het in bezit hebben van AWS-producten | 
+| Azure-cluster | Identificeert de wil van de klant om Azure aan te schaffen. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich hebt gericht op Nu reageren en Klanten evalueren. | 
+| D365 Finance + Operations Cluster | Identificeert de wil van de klant om Dynamics 365 Finance and Operations aan te schaffen. Klanten die een eigenaar voor Finance + Operations tonen, staan in de bovenste onmanagede categorieën. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich hebt gericht op Nu reageren en Klanten evalueren. | 
+| D365 CE-cluster | Identificeert de wil van de klant om Dynamics 365 Customer Engagement aan te schaffen. Klanten die klantbetrokkenheid tonen, vallen in de categorieën Gemiddeld en Klein. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich hebt gericht op Nu reageren en Klanten evalueren. | 
+| D365 BC-cluster | Identificeert de wil van de klant om Dynamics 365 Business Central aan te schaffen. Klanten die een eigenheid voor Business Central tonen, vallen in de categorieën Gemiddeld en Klein. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich hebt gericht op Nu reageren en Klanten evalueren. | 
+| Microsoft 365 Cluster | Identificeert de wil van de klant om een Microsoft 365. Target Act Now en Evaluate-clusters, omdat ze een hoger rendement opleveren. Richt klanten alleen op Nurture en Opleiden als er nog capaciteit is nadat u Zich hebt gericht op Nu reageren en Klanten evalueren. | 
 | Licentieprogramma | Identificeert het type licentieprogramma voor de verlenging | 
 | Overeenkomst-id | Id van de overeenkomst | 
 | Einddatum overeenkomst | Einddatum van de overeenkomst | 
 | Verlooptype | Type verloopdatum | 
-| Verlopende omzet | Omzet die is gekoppeld aan verlopende abonnementen | 
+| Verloop van omzet | Omzet die is gekoppeld aan verlopende abonnementen | 
 | Heeft EA | Hiermee wordt aangegeven of een verlenging een EA- of EEN EA-abonnement is | 
-| Is geopend | Hiermee wordt aangegeven of een verlenging een Overeenkomst voor open of open waarde is | 
-| Azure Upsell-klant | Identificeert of de klant verkoopaandedensiteit voor Azure laat zien | 
-| Microsoft 365 Upsell-klant | Hiermee wordt aangegeven of de klant verkoopaandigheid voor de Microsoft 365 | 
-| RevSumDivisionName | Identificeert het product dat kan worden verlengd | 
+| Is geopend | Hiermee wordt aangegeven of een verlenging een Open- of Open Value-overeenkomst is | 
+| Azure Upsell-klant | Identificeert of de klant verkoopaandedendheid voor Azure laat zien | 
+| Microsoft 365 Upsell-klant | Hiermee wordt aangegeven of de klant de verkoopaandedigheid voor de Microsoft 365 | 
+| RevSumDivisionName | Identificeert het product dat is vernieuwd | 
 
 ## <a name="next-steps"></a>Volgende stappen
 

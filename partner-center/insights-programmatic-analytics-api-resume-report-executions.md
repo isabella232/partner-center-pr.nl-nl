@@ -3,17 +3,17 @@ title: Api voor rapportuitvoering hervatten - Insights gegevens
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Gebruik deze API om de uitvoering van onderbroken rapport in Partner Center hervatten.
+ms.subservice: partnercenter-insights
+description: Gebruik deze API om de uitvoering van elk onderbroken rapport in Partner Center hervatten.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1372823425f3aefd025ffc3441623c1ceee34e1e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 1019e9e6f679084ca0a388d685b5239ecc2e09e2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376744"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836265"
 ---
 # <a name="resume-report-executions-api"></a>API voor rapportuitvoeringen hervatten
 
@@ -30,7 +30,7 @@ Bij de uitvoering hervat deze API de geplande uitvoering van een onderbroken rap
 
 |    Header    |    Type    |    Beschrijving    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in de vorm`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 
@@ -97,7 +97,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    ----    |    ----    |
 |    ReportId     |    Universally Unique Identifier (UUID) van het hervatte rapport     |
 |    ReportName     |    Naam die aan het rapport is gegeven tijdens het maken     |
-|    Beschrijving     |    Beschrijving opgegeven tijdens het maken van het rapport     |
+|    Beschrijving     |    Beschrijving gegeven tijdens het maken van het rapport     |
 |    QueryId     |    Query-id doorgegeven op het moment dat het rapport werd gemaakt     |
 |    Query’s uitvoeren     |    Querytekst die wordt uitgevoerd voor dit rapport     |
 |    Gebruiker     |    Gebruikers-id die wordt gebruikt om het rapport te maken     |

@@ -1,46 +1,46 @@
 ---
-title: Breid uw micro soft-partner bedrijf uit
+title: Uw Microsoft-partnerbedrijf laten groeien
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Meer informatie over resources voor het uitbreiden van uw micro soft-partner bedrijven. Hier vindt u informatie over het ophalen van verkoop leads (verwijzingen) van micro soft.
+ms.subservice: partnercenter-referrals
+description: Meer informatie over resources voor het groeien van uw Microsoft-partnerbedrijf. Dit omvat het op halen van verkoop leads (verwijzingen) van Microsoft.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d53a07f8060c8bdd893aa1d774130b89a7c8ec9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 485fddb8ce689d5e45b19f751f91a80ec321991b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92528594"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844000"
 ---
-# <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Breid uw micro soft-partner bedrijf uit. Leer hoe u leads kunt verkrijgen & uw bedrijf apart in te stellen
+# <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Uw Microsoft-partnerbedrijf laten groeien: leer hoe u leads krijgt & uw bedrijf uit elkaar te halen
 
-Micro soft biedt veel bronnen om u te helpen uw partner bedrijf te verg Roten. Meer informatie over hoe u de mogelijkheden op deze site, het micro soft Partner Center, kunt gebruiken om nieuwe klanten aan te trekken en meer rentabiliteit te verkrijgen.
+Microsoft biedt veel resources om u te helpen uw partnerbedrijf te laten groeien. Ontdek hoe de mogelijkheden op deze site, de Microsoft Partner Center, u kunnen helpen om nieuwe klanten aan te trekken en meer winstgevendheid te verkrijgen.
 
-Gebruik partner centrum voor het volgende:
+Gebruik Partner Center om:
 
-- Verkoop leads (alle partners) ophalen
-- Stel uw bedrijf in met een Silver-of Gold-Partner status (alle partners)
-- Proef abonnementen bieden voor micro soft-producten (CSP-partners)
-- Aanbiedings prijzen bieden voor micro soft-producten (CSP-partners)
-- Verkopen op extra markten (CSP-partners)
+- Verkoop leads (alle partners) op halen
+- Uw bedrijf onderscheiden met de partnerstatus Silver of Gold (alle partners)
+- Proefabonnementen aanbieden aan Microsoft-producten (CSP-partners)
+- Aanbiedingsprijzen voor Microsoft-producten (CSP-partners)
+- Verkopen in extra markten (CSP-partners)
 
 > [!NOTE]  
-> Uw bedrijf moet zijn Inge schreven bij de Microsoft Partner Network en beschikken over een partner centrum-account om gebruik te kunnen maken van deze mogelijkheden. Zie [lid worden van de Microsoft Partner Network](mpn-overview.md) voor informatie over het toevoegen van het netwerk. Voor sommige mogelijkheden moet u ook een wederverkoper zijn in het programma Cloud Solution Provider (CSP). Zie [overzicht van Cloud Solution Provider](csp-overview.md) voor meer informatie over verkopen via dit programma.
+> Uw bedrijf moet zijn ingeschreven bij de Microsoft Partner Network en een Partner Center-account hebben om van deze mogelijkheden te kunnen profiteren. Zie [Deelnemen aan de Microsoft Partner Network](mpn-overview.md) voor informatie over het lid worden van het netwerk. Voor sommige mogelijkheden moet u ook een reseller in het Cloud Solution Provider(CSP)-programma zijn. Zie [Cloud Solution Provider overzicht voor](csp-overview.md) informatie over verkopen via dit programma.
 
-## <a name="resources-to-help-your-business-grow"></a>Bronnen waarmee u uw bedrijf kunt verg Roten
+## <a name="resources-to-help-your-business-grow"></a>Resources om uw bedrijf te helpen groeien
 
-|  **Om dit te doen**  |  **Lees deze informatie om te leren hoe**  |  **Van toepassing op**  |
+|  **Om dit te doen**  |  **Lees dit voor meer informatie over**  |  **Van toepassing op**  |
 |--------------|-----------|--------------
-| Verkoop leads ophalen en beheren | Bekijk deze korte video, [Optimaliseer uw bedrijfs profiel ](https://player.vimeo.com/video/252788046 ) voor het maken van een bedrijfs profiel, zodat klanten u kunnen vinden wanneer ze zoeken naar solution providers en lees vervolgens meer informatie over het [reageren op verwijzingen](manage-leads.md). | Alle netwerk partners |
-| De Silver-of Gold-Partner status verdienen | Lees [competentie partners](https://partner.microsoft.com/membership/competencies) op de Microsoft Partner Network-site voor informatie over hoe u in aanmerking komt voor Silver-of Gold-lidmaatschaps niveaus. Wanneer u klaar bent om uw competentie-informatie te verplaatsen naar het partner centrum, lees dan [uw competenties beheren op partner centrum](learn-about-competencies.md). | Alle netwerk partners |
-| Bied uw klanten proef abonnementen aan bij micro soft-producten | Lees [uw klanten een proef versie van micro soft-producten](offer-your-customers-trials-of-microsoft-products.md) om meer te weten te komen over het gebruik van abonnements abonnementen om meer te verkopen aan uw klanten basis.| CSP-partners |
-| Bied uw klanten de promotie prijs op micro soft-abonnementen | Micro soft biedt u af en toe promoties op abonnementen op basis van licenties, zodat u de besparingen kunt door geven aan klanten en uw bedrijf verder kunt laten groeien. Lees [de aanbiedings prijzen van uw klanten voor micro soft-abonnementen](promotions.md) voor meer informatie. | CSP-partners |
-| Verkopen op extra markten | Het verkoop kanaal van de Cloud solution provider is beschikbaar in veel regio's en landen. Zie [markten voor Cloud Solution Provider](agreements.md) om de lijst te bekijken. Zie [Cloud Solution Provider Overview](csp-overview.md)(Engelstalig) voor een inleiding tot het Cloud Solution Provider-kanaal.  | CSP-partners |
+| Verkoop leads op halen en beheren | Bekijk deze korte video [Uw ](https://player.vimeo.com/video/252788046 ) bedrijfsprofiel optimaliseren om een bedrijfsprofiel te maken, zodat klanten u kunnen vinden wanneer ze zoeken naar [oplossingsproviders](manage-leads.md)en vervolgens kunnen lezen over het reageren op verwijzingen. | Alle netwerkpartners |
+| Silver- of Gold-partnerstatus verdienen | Lees [Competency partners](https://partner.microsoft.com/membership/competencies) (Competentiepartners) op Microsoft Partner Network site voor informatie over hoe u in aanmerking komt voor Silver- of Gold-lidmaatschapsniveaus. Wanneer u klaar bent om uw competentiegegevens te verplaatsen naar Partner Center, leest u Managing [your competencies on Partner Center](learn-about-competencies.md). | Alle netwerkpartners |
+| Uw klanten proefabonnementen aanbieden voor Microsoft-producten | Lees [Proefversies van Microsoft-producten](offer-your-customers-trials-of-microsoft-products.md) aanbieden voor meer informatie over het gebruik van proefabonnementen om meer te verkopen aan uw klantenbestand.| CSP-partners |
+| Aanbiedingsprijzen voor uw klanten voor Microsoft-abonnementen | Microsoft biedt af en toe promoties voor op licenties gebaseerde abonnementen, zodat u de besparingen kunt doorgeven aan klanten en uw bedrijf kunt laten groeien. Lees [Aanbiedingsprijzen voor aanbiedingen van uw klanten voor Microsoft-abonnementen voor](promotions.md) meer informatie. | CSP-partners |
+| Verkopen in extra markten | Het Cloud Solution Provider verkoopkanaal is beschikbaar in veel regio's en landen. Zie [Cloud Solution Provider markten om](agreements.md) de lijst te bekijken. Zie overzicht van Cloud Solution Provider voor een [inleiding Cloud Solution Provider het kanaal](csp-overview.md).  | CSP-partners |
 Verkopen aan gespecialiseerde branches, zoals non-profit organisaties en onderwijs|[Verkopen aan gespecialiseerde branches](get-special-pricing-for-offers.md)|CSP-partners|
-|Breid uw bedrijf uit met behulp van de vele activiteiten die beschikbaar zijn in het programma voor het samen stellen van prikkels. Bestands claims voor de activiteiten via het partner centrum.| [Incentives-claims maken en beheren](create-incentives-claims.md)|CSP-partners|
-|Abonnementen op commerciële Marketplace-producten verkopen|[Meer informatie over CSP-commerciële Marketplace-activiteiten](csp-commercial-marketplace-overview.md)|CSP-partners|
-|Is uw bedrijf een Superstar bij het verkopen en beheren van Azure? Van toepassing op inschrijven in het Azure expert micro soft service provider-programma|[Azure expert micro soft Services provider-programma](azure-expert-msp.md)|CSP-partners|
+|Laat uw bedrijf groeien met de vele activiteiten die beschikbaar zijn in het incentives-programma voor samenwerking. Bestandsclaims voor de activiteiten via de Partner Center.| [Incentives-claims maken en beheren](create-incentives-claims.md)|CSP-partners|
+|Abonnementen op commerciële marketplace-producten verkopen|[Inzicht in CSP-activiteiten op de commerciële marketplace](csp-commercial-marketplace-overview.md)|CSP-partners|
+|Is uw bedrijf een goede klant bij het verkopen en beheren van Azure? Toepassen om u in te schrijven voor het Microsoft Service Provider-programma van Azure Expert|[Azure Expert Microsoft Services Provider-programma](azure-expert-msp.md)|CSP-partners|

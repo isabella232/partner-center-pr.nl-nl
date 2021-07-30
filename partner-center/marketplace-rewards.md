@@ -3,20 +3,20 @@ title: Marketplace-beloningen beheren
 ms.topic: article
 ms.date: 05/28/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-benefits
 description: Partners die aanbiedingen naar de commerciële marketplace publiceren, komen in aanmerking voor voordelen die marketingondersteuning bieden.
 author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ee643ca713da3509705560d93e15b3c7e5ab192
-ms.sourcegitcommit: 11901a72e9c9d432c324d0c5b1e0214c0eddb96f
+ms.openlocfilehash: 9765f180e60154dc1a3e9be6160157e6d4248695
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "110687722"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843388"
 ---
-# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Beheer Marketplace Rewards in Partner Center & marketing-, verkoop- en technische voordelen te activeren
+# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Beheer Marketplace Rewards in Partner Center & marketing-, verkoop- en technische voordelen activeren
 
 **Juiste rollen:** BEHEER VAN MPN-partner | Globale beheerder | Beheeragent
 
@@ -44,24 +44,24 @@ Marketplace Rewards geschiktheid wordt berekend op basis van alle uitgeversprofi
 
 ## <a name="technical-benefits"></a>Technische voordelen
 
-1. U kunt uw technische voordeel gebruiken om technische hulp aan te vragen tijdens de presales-, ontwerp-, implementatie- en app-ontwikkelingsfasen van uw cloud- en hybride oplossingen. Als u hulp wilt aanvragen, vult u het aanvraagformulier in en selecteert **u Vervolgens Aanvraag verzenden.**
+1. U kunt uw technische voordeel gebruiken om technische hulp aan te vragen tijdens de presales-, ontwerp-, implementatie- en app-ontwikkelingsfasen van uw cloud- en hybride oplossingen. Als u hulp wilt aanvragen, vult u het aanvraagformulier in en selecteert u **Vervolgens Aanvraag verzenden.**
 
 2. Het gebruik van Azure Sponsorship-voordelen wordt via een e-mail gedeeld wanneer u deze voordelen ontgrendelt.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Waarom kan ik het commerciële programma voor Marketplace-beloningen niet zien op mijn dashboard?
 
-De informatie over Marketplace-beloningen is beschikbaar via de Azure AD-tenant en MPN-id die is gebruikt om uw Partner Center maken. Dit account wordt het Partner Global Account (PGA) van uw bedrijf genoemd. Als uw Azure AD-tenant verschilt van de tenant die wordt gebruikt voor MPN-onboarding, moet u deze koppelen aan de PGA van uw bedrijf, zodat u het Marketplace-menu commerciële beloningen kunt zien.
+De informatie over Marketplace-beloningen is beschikbaar via de Azure AD-tenant en mpn-id die is gebruikt om uw Partner Center maken. Dit account wordt het Partner Global Account (PGA) van uw bedrijf genoemd. Als uw Azure AD-tenant verschilt van de tenant die wordt gebruikt voor MPN-onboarding, moet u het menu Commercial Rewards Marketplace koppelen aan de PGA van uw bedrijf.
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Een Azure AD-tenant koppelen aan de PGA van uw bedrijf
 
 1. Meld u als globale beheerder of accountbeheerder aan bij de PGA in Partner Center.
 
-2. Selecteer **Instellingen** (rechtsboven), **Accountinstellingen,** **Tenants.**
+2. Selecteer **Instellingen** (rechtsboven), **Accountinstellingen,** **Tenants**.
 
-3. Selecteer **Een andere Azure AD-tenant koppelen** en selecteer de Azure AD-tenant die u wilt koppelen aan de PGA.
+3. Selecteer **Een andere Azure AD-tenant koppelen** en selecteer de Azure AD-tenant die u aan de PGA wilt koppelen.
 
 4. Voeg de gebruikersnaam en het wachtwoord toe van elke gebruiker in de Azure AD-tenant die u wilt koppelen en selecteer **Verzenden.**
 
 5. Meld u af bij Partner Center meld u vervolgens aan met de gebruikersnaam en het wachtwoord voor de tenant die u zojuist aan de PGA hebt gekoppeld.
 
-6. U kunt nu de informatie over het Commercial Rewards Marketplace-programma zien in het navigatiemenu aan de linkerkant.
+6. U kunt nu de programmagegevens van het Commercial Rewards Marketplace-programma zien in het navigatiemenu aan de linkerkant.

@@ -3,17 +3,17 @@ title: Rapport-API bijwerken
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Gebruik deze API om rapportparameters bij te werken in Partner Center inzichten.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: c5ab1059e9be9b42918d268da6a6c1a3cbfe52af
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 64ef897dc3c883e4adfda4285183e441f27f3c7f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376576"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837030"
 ---
 # <a name="update-report-api"></a>Rapport-API bijwerken
 
@@ -130,7 +130,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    ExecuteNow     |    ExecuteNow-vlag ingesteld op het moment dat het rapport werd gemaakt    |
 |    StartTime     |    Tijd dat de uitvoering van het rapport begint. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status van de uitvoering van het rapport. De mogelijke waarden zijn Onderbroken, Actief en Inactief.     |
-|    RecurrenceInterval     |    Terugkeerpatroon dat is opgegeven in de nettolading van de aanvraag     |
+|    RecurrenceInterval     |    Terugkeerpatroon opgegeven in de nettolading van de aanvraag     |
 |    RecurrenceCount     |    Aantal terugkeerpatroon dat is opgegeven in de nettolading van de aanvraag     |
 |    CallbackUrl     |    Callback-URL die is opgegeven in de aanvraag     |
 |    CallbackMethod    |    Callback-methode die is opgegeven in de aanvraag    |

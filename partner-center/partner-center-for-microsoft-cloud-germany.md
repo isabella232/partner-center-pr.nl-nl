@@ -3,33 +3,33 @@ title: Partnercentrum voor Microsoft Cloud Duitsland
 ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Partner Center voor Microsoft Cloud Duitsland is de bedrijfsportal voor partners die Microsoft-cloudoplossingen willen aanbieden aan klanten in de EU en EFTA-landen.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19753f4fb848262fc8bed146427f0652096f6902
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4389c02dfcb382abf655b0e8de7edec7356f010f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151080"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836146"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center voor Microsoft Cloud Duitsland voor partners die verkopen aan klanten in de EU & EFTA-landen
 
 **Van toepassing op**: Partner Center voor Microsoft Cloud Duitsland
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent | Factureringsbeheerder
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent | Factureringsbeheerder
 
-Microsoft Cloud Duitsland is ontworpen om te voldoen aan strikte Duitse vereisten voor gegevensbescherming en omvat een Duitse gegevensbeheerder die volgens de Duitse wet de fysieke en logische toegang tot klantgegevens beheert. Alle klantgegevens en de systemen die de toegang tot klantgegevens verwerken of controleren, bevinden zich in Duitse datacenters. Het netwerk tussen deze datacenters is geïsoleerd en toegewezen binnen Duitsland.
+Microsoft Cloud Duitsland is ontworpen om te voldoen aan strikte Duitse gegevensbeschermingsvereisten en omvat een Duitse gegevensbeheerder die volgens de Duitse wet de fysieke en logische toegang tot klantgegevens beheert. Alle klantgegevens en de systemen die de toegang tot klantgegevens verwerken of controleren, bevinden zich in Duitse datacenters. Het netwerk tussen deze datacenters is geïsoleerd en toegewezen binnen Duitsland.
 
-Microsoft Cloud Duitsland biedt een afzonderlijk exemplaar van [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), geleverd vanuit datacenters in Duitsland. Als gevolg hiervan kunnen commerciële klanten in de Europese Unie (EU) en de Europese Free Trade Association (EFTA) klantgegevens opslaan en beheren in overeenstemming met de toepasselijke Duitse wetten en voorschriften, evenals belangrijke internationale normen. Medewerkers van Microsoft hebben geen toegang tot klantgegevens zonder goedkeuring van en supervisie van de Duitse gegevensbeheerder of -klant.
+Microsoft Cloud Duitsland biedt een afzonderlijk exemplaar van [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), geleverd vanuit datacenters in Duitsland. Als gevolg hiervan kunnen commerciële klanten in de Europese Unie (EU) en de Europese Free Trade Association (EFTA) klantgegevens opslaan en beheren in overeenstemming met de toepasselijke Duitse wetten en voorschriften, evenals belangrijke internationale standaarden. Medewerkers van Microsoft hebben geen toegang tot klantgegevens zonder goedkeuring van en supervisie van de Duitse gegevensbeheerder of -klant.
 
 > [!IMPORTANT]
-> Op basis van de ontwikkeling van de behoeften van klanten richt onze cloudstrategie voor Duitsland zich op de levering van de nieuwe cloudregio's in Duitsland die consistent zijn met ons wereldwijde cloudaanbod. Met deze focus accepteren we geen nieuwe klanten meer en implementeren we geen nieuwe services meer vanuit de momenteel beschikbare Microsoft Cloud Duitsland. Bestaande klanten kunnen de huidige cloudservices die momenteel beschikbaar zijn, blijven gebruiken, die we onderhouden met de benodigde beveiligingsupdates.
+> Op basis van de ontwikkeling van de behoeften van klanten, richt onze cloudstrategie voor Duitsland zich op de levering van de nieuwe cloudregio's in Duitsland die consistent zijn met ons wereldwijde cloudaanbod. Vanwege deze focus accepteren we geen nieuwe klanten meer en implementeren we geen nieuwe services meer vanuit de momenteel beschikbare Microsoft Cloud Duitsland. Bestaande klanten kunnen de huidige cloudservices die momenteel beschikbaar zijn, blijven gebruiken, die we onderhouden met de benodigde beveiligingsupdates.
 >
-> Vanaf nu hebben nieuwe klanten de mogelijkheid om de momenteel beschikbare Europese regio's of de nieuwe regio's in Duitsland te gebruiken wanneer ze beschikbaar komen. Zie Microsoft to [deliver cloud services from new data centers in Germany (Microsoft to deliver cloud services from new data centers in Germany) voor meer informatie.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) 
+> Vanaf nu hebben nieuwe klanten de mogelijkheid om de momenteel beschikbare Europese regio's of de nieuwe regio's in Duitsland te gebruiken wanneer ze beschikbaar komen. Zie Microsoft to deliver cloud services from new data centers in Germany (Microsoft levert cloudservices vanuit [nieuwe datacenters in Duitsland) voor meer informatie.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) 
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Klanten migreren van Microsoft Cloud Duitsland naar een andere Europese regio
 
@@ -39,15 +39,15 @@ Voordat u een klantabonnement kunt migreren van Microsoft Cloud Duitsland naar e
 
 1. Meld u als globale beheerder aan bij uw CSP Microsoft Cloud Duitsland-tenant.
 
-1. Navigeer naar de CSP-overzichtspagina in het menu links.
+1. Navigeer in het linkermenu naar de overzichtspagina van de CSP.
  
 1. Wanneer u hier om wordt gevraagd, **selecteert u Ik heb al een tenant in de Europese regio** en selecteert u vervolgens **Volgende.** U wordt gevraagd u aan te melden bij de nieuwe tenant. 
 
 1. Meld u als globale beheerder aan bij de tenant.
  
-1. Bekijk de informatie op de bevestigingspagina en selecteer **vervolgens Bevestigen.**
+1. Bekijk de informatie op de bevestigingspagina en selecteer **bevestigen.**
  
-6.  Als dit lukt, wordt u gevraagd om Details weergeven **of** Dashboard weergeven te **selecteren** voor meer informatie. 
+6.  Als dit lukt, wordt u gevraagd om Details weergeven **of** Dashboard weergeven **te selecteren** voor meer informatie. 
 
     Als het aanmelden mislukt, kan dit een van de volgende betekenen:
     
@@ -63,13 +63,13 @@ Voordat u een klantabonnement kunt migreren van Microsoft Cloud Duitsland naar e
 
 1. Meld u als globale beheerder aan bij de CSP Microsoft Cloud Duitsland-tenant.
 
-1. Navigeer naar de CSP-overzichtspagina in het menu aan de linkerkant.
+1. Navigeer naar de overzichtspagina van CSP in het menu links.
  
 1. Wanneer u hier om wordt gevraagd, **selecteert u** Ik heb geen tenant in de Europese regio en selecteert **u vervolgens Nieuw account maken.** 
  
 1. U gaat naar de pagina Partner Center inschrijving, waar u een nieuwe tenant en een nieuw CSP-account kunt maken in een Europese regio.
   
-5. Nadat u het account hebt Microsoft Partner-overeenkomst en het account actief is, meld u zich aan met het huidige Microsoft Cloud Duitsland-account.
+5. Nadat u het account hebt Microsoft Partner-overeenkomst het account actief is, meld u zich aan met het huidige Microsoft Cloud Duitsland-account.
 
 6. Navigeer naar het selectieformulier van de tenant.
 
@@ -78,18 +78,18 @@ Voordat u een klantabonnement kunt migreren van Microsoft Cloud Duitsland naar e
 
 ## <a name="selling-german-cloud-solutions-in-eu-and-efta"></a>Duitse cloudoplossingen verkopen in de EU en EFTA
 
-Nadat u bent ingeschreven bij het Cloud Solution Provider (CSP) voor het Microsoft Cloud Duitsland-programma, gebruikt u Partner Center om Duitse cloudspecifieke oplossingen en services te verkopen aan klanten in de EU en EFTA-landen/-regio's.
+Nadat u bent ingeschreven bij Cloud Solution Provider (CSP) voor het Microsoft Cloud Duitsland-programma, gebruikt u Partner Center om Duitse cloudspecifieke oplossingen en services te verkopen aan klanten in de EU en EFTA-landen/-regio's.
 
-De volgende Partner Center-taken worden beheerd met behulp van specifieke serviceportals om te voldoen aan de Duitse wetten en voorschriften voor het verzamelen en gebruiken van gegevens van personen, evenals belangrijke internationale standaarden.
+De volgende Partner Center-taken worden beheerd met behulp van specifieke serviceportals om te voldoen aan de Duitse wetten en voorschriften die van toepassing zijn op het verzamelen en gebruiken van gegevens van individuen, evenals belangrijke internationale standaarden.
 
-Functie of mogelijkheid | Taken uitvoeren in
+Functie of mogelijkheid | Taken voltooien in
 :--- | :---
-Gebruikersbeheer partner | Office 365-beheercentrum of Azure for Microsoft Cloud Duitsland-beheerportal
+Partnergebruikersbeheer | Office 365-beheercentrum of Azure for Microsoft Cloud Duitsland-beheerportal
 Klantgebruikersbeheer | Office 365-beheercentrum of Azure for Microsoft Cloud Duitsland-beheerportal
 Gebruikerswachtwoord opnieuw instellen | Beheerportal voor Azure voor Microsoft Cloud Duitsland
 Licentiebeheer | Office 365-beheercentrum of Office 365-beheercentrum of Microsoft Cloud Duitsland Azure Active Directory Licensing Portal
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie Gebruikers- en licentiebeheer in Partner Center voor Microsoft Cloud Duitsland voor meer informatie over het beheren van gebruikers [en licenties.](user-management-in-partner-center-for-microsoft-cloud-germany.md)
+- Zie Gebruikers- en licentiebeheer in Partner Center voor Microsoft Cloud Duitsland voor meer informatie over het beheren van gebruikers en [licenties.](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 

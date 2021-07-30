@@ -1,19 +1,19 @@
 ---
-title: Alle gegevenssets-API-gegevenssets Insights gegevens
+title: Api voor alle gegevenssets op Insights halen
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Gebruik deze API om details op te halen van alle beschikbare gegevenssets in Partner Center inzichten.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 42ff7cc1f097e2423be5f1f7f9a7f62214d64949
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 8f4e69c8759c16bc38e64a361c8c077989447d3e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376513"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843796"
 ---
 # <a name="get-all-datasets-api"></a>Api voor alle gegevenssets krijgen
 
@@ -95,7 +95,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    AvailableMetrics     |    Aggregatie-/metrische kolomnamen die kunnen worden opgegeven in de geselecteerde kolommen     |
 |    AvailableDateRanges     |    Datumbereik dat kan worden gebruikt in rapportquery's voor de gegevensset     |
 |    minimumRecurrenceInterval     |    Minimale waarde van terugkeerinterval     |
-|    TotalCount     |    Aantal gegevenssets in de matrix Waarde     |
+|    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
 |    Bericht     |    Statusbericht van de uitvoering van de API     |
 |    StatusCode     |    Resultaatcode. De mogelijke waarden zijn 200, 400, 401, 403, 500     |
 |        |        |

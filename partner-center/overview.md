@@ -3,17 +3,17 @@ title: Wat is Partnercentrum?
 ms.topic: overview
 ms.date: 12/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Gebruik Partner Center om zaken te doen met Microsoft en uw klanten
 author: jasongroce
 ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: 75655317683b50f95cddbf1dc0ce8a1753906d5e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: d60adb307e57fb63e0257954f3f0cc578f9c25d1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373706"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843337"
 ---
 # <a name="what-is-partner-center"></a>Wat is Partnercentrum?
 
@@ -25,11 +25,11 @@ ms.locfileid: "114373706"
 - Contact met klanten
 - Relaties met andere partners opbouwen
 - Registreren voor incentive-programma's
-- Uw lidmaatschap in de Microsoft Partner Network
+- Uw lidmaatschap van de Microsoft Partner Network
 - Klantabonnementen beheren
 - Facturen en betaald krijgen
 - Contact opnemen met ondersteuning
-- Publiceer of verken aanbiedingen in de commerciële marketplace van [Microsoft,](/azure/marketplace)een catalogus met duizenden klantgerichte, veractieve services en toepassingen die zijn gebouwd en geleverd door onze ISV-partners (Independent Software Vendor).
+- Aanbiedingen publiceren of verkennen in de commerciële marketplace van [Microsoft,](/azure/marketplace)een catalogus met duizenden klantgerichte, verteerbare services en toepassingen die zijn gebouwd en geleverd door onze ISV-partners (Independent Software Vendor).
 
 :::image type="content" source="images/home.png" alt-text="Partner Center overzicht.":::
 
@@ -51,11 +51,11 @@ Bouw uw bedrijfsprofiel om de expertisegebieden van uw bedrijf weer te geven. Ma
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Co-sell met Microsoft en andere partners
 
-Collectieve verkoop is het pad voor partners om gezamenlijk te verkopen met Microsoft en andere partners voor gezamenlijke, beter gezamenlijk verkopen en positieve resultaten van klanten. Met co-sell kunt u het wereldwijde merk van Microsoft, verkoopteams, mogelijkheden voor het genereren van vraag en de commerciële marketplace gebruiken om nieuwe klanten over de hele wereld te bereiken. Verkoop zowel met andere partners als met ons. Meer informatie in Manage co-sell opportunities (Mogelijkheden [voor co-verkoop beheren).](manage-co-sell-opportunities.md)
+Collectieve verkoop is het pad voor partners om gezamenlijk te verkopen met Microsoft en andere partners voor gezamenlijke, beter gezamenlijk verkopen en positieve resultaten van klanten. Met co-verkoop kunt u het wereldwijde merk van Microsoft, verkoopteams, mogelijkheden voor het genereren van vraag en de commerciële marketplace gebruiken om nieuwe klanten over de hele wereld te bereiken. Verkoop zowel met andere partners als met ons. Meer informatie in Manage co-sell opportunities (Kansen [voor co-verkoop beheren).](manage-co-sell-opportunities.md)
 
 ## <a name="manage-customer-software-needs"></a>Klantsoftwarebehoeften beheren
 
-Als vertrouwde partner speelt u een cruciale rol in alle fasen van de levenscyclus van de klant, ongeacht hoe klanten Microsoft-software en -services aanschaffen. Als uw klant u beheerdersbevoegdheden geeft, kunt u abonnementen implementeren en beheren, prestaties onderhouden, hun gebruikers instellen en zelfs ondersteuningstickets voor hen maken. Partner Center snelle en eenvoudige toegang tot ondersteuning van Microsoft op aanvraag om u te helpen uitdagingen beter op te lossen en te voldoen aan de behoeften van de klant. Meer informatie over het [aanbieden van klantondersteuning.](customer-support.md)
+Als vertrouwde partner speelt u een cruciale rol in alle fasen van de levenscyclus van de klant, ongeacht hoe klanten Microsoft-software en -services aanschaffen. Als uw klant u beheerdersbevoegdheden geeft, kunt u abonnementen implementeren en beheren, prestaties onderhouden, gebruikers instellen en zelfs ondersteuningstickets voor hen maken. Partner Center snelle en eenvoudige toegang tot ondersteuning van Microsoft op aanvraag om u te helpen uitdagingen beter op te lossen en te voldoen aan de behoeften van de klant. Meer informatie over het [aanbieden van klantondersteuning.](customer-support.md)
 
 ## <a name="maintain-a-secure-environment"></a>Een beveiligde omgeving onderhouden
 

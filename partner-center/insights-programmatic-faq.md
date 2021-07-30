@@ -3,17 +3,17 @@ title: Veelvoorkomende vragen voor programmatische toegang tot partnerinzichten
 description: Krijg antwoorden op veelgestelde vragen over toegang tot partnerinzichtgegevens via API.
 ms.topic: troubleshooting
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 5645a834c2b6a84920ba032198f7f62aa1487c47
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 418af23ae50e1f8d9086b2eb6247ba964e4c1516
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376568"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836962"
 ---
 # <a name="programmatic-access-of-analytics-data-common-questions"></a>Veelgestelde vragen over programmatische toegang tot analysegegevens
 
@@ -44,7 +44,7 @@ In deze tabel worden de API-antwoorden beschreven en wat u moet doen als u ze on
 
 ## <a name="no-records"></a>Geen records
 
-Ik ontvang API-respons 200 wanneer ik het rapport download van de beveiligde locatie. Waarom krijg ik geen records?
+Ik ontvang API-antwoord 200 wanneer ik het rapport download van de beveiligde locatie. Waarom krijg ik geen records?
 Controleer of de tekenreeks in de query een van de toegestane waarden voor de kolomkop heeft. Met deze query worden bijvoorbeeld nul resultaten retourneren:
 
 ```sql

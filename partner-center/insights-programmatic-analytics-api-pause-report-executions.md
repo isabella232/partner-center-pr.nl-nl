@@ -1,19 +1,19 @@
 ---
-title: Api voor rapportuitvoering onderbreken - Insights analyseren
+title: Api voor rapportuitvoering onderbreken - Insights gegevens
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Gebruik deze API om de uitvoering van een rapport in de Partner Center onderbreken.
+ms.subservice: partnercenter-insights
+description: Gebruik deze API om de uitvoering van een rapport in uw Partner Center onderbreken.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e490a6d5120d729f0ea4979a201e9a80ba2991c
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 798c5e87a3935923bd91d8e74716999fb8be4f54
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376748"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836367"
 ---
 # <a name="pause-report-executions-api"></a>API voor rapportuitvoeringen onderbreken
 
@@ -30,7 +30,7 @@ Bij de uitvoering pauzeert deze API de geplande uitvoering van rapporten.
 
 |    Header    |    Type    |    Beschrijving    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in de vorm`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 
@@ -57,7 +57,7 @@ Geen
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Responscode: 200, 400, 401, 403, 404, 500
+Antwoordcode: 200, 400, 401, 403, 404, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -96,14 +96,14 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    Parameter    |    Beschrijving    |
 |    ----    |    ----    |
 |    ReportId     |    Universally Unique Identifier (UUID) van het onderbroken rapport     |
-|    ReportName     |    Naam die tijdens het maken aan het rapport is gegeven     |
-|    Beschrijving     |    Beschrijving gegeven tijdens het maken van het rapport     |
+|    ReportName     |    Naam die aan het rapport is gegeven tijdens het maken     |
+|    Beschrijving     |    Beschrijving opgegeven tijdens het maken van het rapport     |
 |    QueryId     |    Query-id doorgegeven op het moment dat het rapport werd gemaakt     |
 |    Query’s uitvoeren     |    Querytekst die wordt uitgevoerd voor dit rapport     |
 |    Gebruiker     |    Gebruikers-id die wordt gebruikt om het rapport te maken     |
-|    CreatedTime     |    Het tijdstip dat het rapport is gemaakt. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Tijd dat het rapport is gemaakt. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Het tijdstip dat het rapport voor het laatst is gewijzigd. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
-|    ExecuteNow     |    ExecuteNow-vlag ingesteld op het moment dat het rapport is gemaakt     |
+|    ExecuteNow     |    ExecuteNow-vlag ingesteld op het moment dat het rapport werd gemaakt     |
 |    StartTime     |    Tijd dat de uitvoering van het rapport begint. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status van de uitvoering van het rapport. De mogelijke waarden zijn Onderbroken, Actief en Inactief.     |
 |    RecurrenceInterval     |    Terugkeerpatroon dat is opgegeven tijdens het maken van het rapport     |
@@ -111,7 +111,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    CallbackUrl     |    Callback-URL die is opgegeven in de aanvraag     |
 |    CallbackMethod    |    Callback-methode die is opgegeven in de aanvraag    |
 |    Indeling     |    Indeling van de rapportbestanden     |
-|    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
+|    TotalCount     |    Aantal gegevenssets in de matrix Waarde     |
 |    Bericht     |    Statusbericht van de uitvoering van de API     |
 |    StatusCode     |    Resultaatcode. De mogelijke waarden zijn 200, 400, 401, 403, 500     |
 |        |        |

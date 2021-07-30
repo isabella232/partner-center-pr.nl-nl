@@ -3,18 +3,18 @@ title: Problemen met partnertegoed oplossen
 ms.topic: article
 ms.date: 07/22/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Meer informatie over het oplossen van factuurproblemen en andere problemen met betrekking tot partnertegoed (PEC).
+ms.subservice: partnercenter-pricing
+description: Meer informatie over het oplossen van factuurproblemen en andere problemen met betrekking tot partnertegoeden (PEC).
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d7376b6224047176b5e6608ee190191a8f44824
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434211"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843541"
 ---
 # <a name="troubleshooting-partner-earned-credit"></a>Problemen met partnertegoed oplossen
 
@@ -34,9 +34,9 @@ Als u problemen hebt met PEC, zoals toegang of ontbrekende gegevens, controleert
 
 5. Controleer of uw aanbieding in aanmerking komt. (Oude Azure-aanbiedingen, gereserveerde Instanties van Azure en producten van derden komen niet in aanmerking.)
 
-6. Controleer of u een geldige rol Voor beheer namens (AOBO) of Role-Based Access Control (RBAC) hebt voor het abonnement/de resourcegroep/resource.
+6. Controleer of u een geldige AOBO-rol (Administer on Behalf of) of Role-Based Access Control (RBAC) hebt voor het abonnement/de resourcegroep/resource.
 
-7. Bepaal of de klant uw RBAC-rol heeft verwijderd. Als dit het zo is, zie Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen
+7. Bepaal of de klant uw RBAC-rol heeft verwijderd. Als dat het zo is, zie Beheerdersbevoegdheden herstellen voor de Azure CSP van een klant
 
 8. Controleer of u de hele dag beheerderstoegang hebt.
 

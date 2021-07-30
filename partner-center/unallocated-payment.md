@@ -3,24 +3,24 @@ title: Niet-toegewezen betalingen beheren
 ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Ontdek wat niet-toegewezen betalingen zijn wanneer u deze ziet op Partner Center factureringspagina. Leer ook hoe u deze kunt toepassen op uw facturen.
+ms.subservice: partnercenter-billing
+description: Ontdek wat niet-toegewezen betalingen zijn wanneer u deze ziet op uw Partner Center factureringspagina. Leer ook hoe u deze kunt toepassen op uw facturen.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 018416585ea141d4842ec0787b59fd7e214c9999
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 8a5f1264dfdb4059d63db6cbf361e6c2f34d8bd2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818623"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836622"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Niet-toegewezen betalingen beheren op uw Partner Center factureringspagina
 
 **Juiste rollen:** Factureringsbeheerders | Accountbeheerder
 
-Af en toe wordt er mogelijk een niet-toegewezen betaling weergegeven op uw factureringspagina. Een niet-toegewezen betaling is een betaling die u hebt gedaan bij Microsoft en die u niet hebt toegepast op een specifieke factuur.
+Af en toe wordt er mogelijk een niet-toegewezen betaling weergegeven op uw factureringspagina. Een niet-toegewezen betaling is een betaling die u aan Microsoft hebt gedaan en die u niet hebt toegepast op een specifieke factuur.
 
 ## <a name="to-view-your-unallocated-payments"></a>Uw niet-toegewezen betalingen weergeven
 

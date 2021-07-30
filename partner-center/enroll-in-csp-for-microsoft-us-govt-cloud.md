@@ -3,19 +3,19 @@ title: Inschrijven voor het CSP-programma
 titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Meer informatie over de programmavereisten voor CSP voor partners die zich willen inschrijven in Cloud Solution Provider programma voor Microsoft Cloud for US Government.
 author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: e2b206b049050efa520099d74230d8535ac93793
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2cdcf88d765ab37200e0e62bdbff2bbc8d26027d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147170"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844289"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registreren in het Cloud Solution Provider-programma voor Microsoft Cloud for US Government
 
@@ -25,13 +25,13 @@ ms.locfileid: "110147170"
 
 Microsoft-partners kunnen nu cloudoplossingen en -services van Microsoft verkopen aan Amerikaanse federale, staats-, lokale en overheidsentiteiten via het Cloud Solution Provider-programma (CSP) voor Microsoft Cloud for US Government.
 
-Microsoft Cloud for US Government biedt een privé, toegewezen en geïsoleerd exemplaar van Microsoft Azure dat voldoet aan de vereisten van de Amerikaanse overheid voor gegevensbeveiliging, privacy en naleving. Uw bedrijf moet voldoen aan de geschiktheidsvereisten van Microsoft om deel te nemen aan het CSP-programma voor Microsoft Cloud for US Government. Zie voor meer informatie [Partner Center voor Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
+Microsoft Cloud for US Government biedt een privé, toegewezen en geïsoleerd exemplaar van Microsoft Azure dat voldoet aan de vereisten van de Amerikaanse overheid voor gegevensbeveiliging, privacy en naleving. Uw bedrijf moet voldoen aan de geschiktheidsvereisten van Microsoft om deel te nemen aan het CSP-programma voor Microsoft Cloud for US Government. Zie voor meer informatie [Partner Center voor Microsoft Cloud for US Government.](partner-center-for-microsoft-us-govt-cloud.md)
 
 ## <a name="before-you-begin"></a>Voordat u begint
 
-Voordat u zich kunt inschrijven voor het CSP-programma voor Microsoft Cloud for US Government, moeten we controleren of uw bedrijf voldoet aan de vereisten voor verkoop aan Amerikaanse overheidsentiteiten. Voordat u het inschrijvingsproces start, vult u het [formulier Microsoft Government Cloud Validation in,](https://azuregov.microsoft.com/csp) zodat we de geschiktheid van uw bedrijf kunnen controleren. Nadat we de geschiktheid van uw bedrijf hebben gecontroleerd, bieden we u een Azure Active Directory-tenant (Azure AD) die specifiek is voor de Microsoft Cloud for US Government.  
+Voordat u zich kunt registreren voor het CSP-programma voor Microsoft Cloud for US Government, moeten we controleren of uw bedrijf voldoet aan de vereisten voor verkoop aan Amerikaanse overheidsentiteiten. Voordat u het inschrijvingsproces start, vult u het [formulier Microsoft Government Cloud Validation in,](https://azuregov.microsoft.com/csp) zodat we de geschiktheid van uw bedrijf kunnen controleren. Nadat we hebben gecontroleerd of uw bedrijf in aanmerking komt, bieden we u een Azure Active Directory(Azure AD)-tenant die specifiek is voor de Microsoft Cloud for US Government.  
 
-Als u een Partner Center-account wilt maken en u wilt registreren bij CSP voor Microsoft Cloud for US Government, moet u de volgende informatie verstrekken (mogelijk wilt u deze informatie verzamelen voordat u het inschrijvingsproces start):
+Als u een Partner Center-account wilt maken en u wilt inschrijven bij CSP voor Microsoft Cloud for US Government, moet u de volgende informatie verstrekken (mogelijk wilt u deze informatie verzamelen voordat u het inschrijvingsproces start):
 
 - Globale beheerdersreferenties voor de nieuwe Azure AD-tenant van uw organisatie voor Microsoft Cloud for US Government
 - De MPN-id (Microsoft Partner Network) van uw organisatie
@@ -50,7 +50,7 @@ Als u een Partner Center-account wilt maken en u wilt registreren bij CSP voor M
 
 ### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Stap 2: toepassen om deel te nemen aan Cloud Solution Provider programma voor Microsoft Cloud for US Government
 
-1. Vul eventuele ontbrekende gegevens in het inschrijvingsformulier in, inclusief uw Microsoft Partner Network-id en de klantondersteuningsgegevens van uw organisatie.
+1. Vul eventuele ontbrekende gegevens in het inschrijvingsformulier in, waaronder uw Microsoft Partner Network-id en de klantondersteuningsgegevens van uw organisatie.
 
 2. Selecteer **Accepteren en doorgaan.** Het controleren van uw toepassing kan enkele dagen duren. We sturen u een e-mail wanneer we onze beoordeling hebben voltooid.
 
@@ -59,18 +59,18 @@ Als u een Partner Center-account wilt maken en u wilt registreren bij CSP voor M
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Stap 3: onderteken de resellerovereenkomst voor Microsoft Cloud for US Government
 
-1. Meld u aan bij Partner Center voor Microsoft Cloud for US Government met behulp van de koppeling in de e-mail voor goedkeuring van de toepassing.
+1. Meld u aan bij Partner Center voor Microsoft Cloud for US Government met behulp van de koppeling in de goedkeurings-e-mail van de toepassing.
 
-2. Lees de **voorwaarden** op de pagina Overeenkomst.  Als u akkoord gaat, selecteert u Accepteren en doorgaan met het digitaal ondertekenen van de resellerovereenkomst voor Microsoft Cloud for US Government. Het maken van uw account kan enkele uren duren. U kunt zich bij Partner Center aanmelden Microsoft Cloud for US Government later weer aanmelden.
+2. Lees de **voorwaarden** op de pagina Overeenkomst en  als u akkoord gaat, selecteert u Accepteren en doorgaan met het digitaal ondertekenen van de resellerovereenkomst voor Microsoft Cloud for US Government. Het maken van uw account kan enkele uren duren. U kunt zich bij uw Partner Center aanmelden Microsoft Cloud for US Government later weer aanmelden.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Stap 4: gebruikers toewijzen aan de rol Beheerderagent in de Microsoft Azure-beheerportal voor Microsoft Cloud for US Government
 
-Microsoft Cloud for US Government biedt een afzonderlijk exemplaar van Microsoft Azure dat voldoet aan de nalevings-, beveiligings- en privacystandaarden van de overheid. Als u wilt dat beheerders gebruikers en licenties in de Microsoft Azure-portal beheren, moet u de rol Beheerderagent handmatig aan hen toewijzen.
+Microsoft Cloud for US Government biedt een afzonderlijk exemplaar van Microsoft Azure dat voldoet aan de nalevings-, beveiligings- en privacystandaarden van de overheid. Als u wilt dat beheerders gebruikers en licenties kunnen beheren in de Microsoft Azure-portal, moet u de rol Beheerderagent handmatig aan hen toewijzen.
 
 > [!NOTE]
 > Nadat u gebruikers hebt toegewezen aan de rol Beheerderagent, hebben  ze toegang tot uw klantenlijst op de pagina Klanten en kunnen [ze nieuwe klanten toevoegen.](add-a-new-customer.md)
 
-1. Meld u aan bij Microsoft Azure beheerportal op [https://portal.azure.us/](https://portal.azure.us/) .
+1. Meld u aan bij de Microsoft Azure-beheerportal op [https://portal.azure.us/](https://portal.azure.us/) .
 
 2. Wijs de rol Beheerderagent toe aan de juiste gebruikers in uw organisatie. Hiervoor moet u deze gebruikers toevoegen aan de ingebouwde **groep AdminAgent.** Zie [De leden voor een groep beheren in Azure Active Directory](/azure/active-directory/active-directory-groups-members-azure-portal) voor informatie over hoe u dit doet.
 
@@ -78,7 +78,7 @@ Microsoft Cloud for US Government biedt een afzonderlijk exemplaar van Microsoft
 
 - Vragen? Stuur ons een e-mail op azgovcsp@microsoft.com
 
-- Deelnemen aan [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
+- Neem deel aan [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
 
 ## <a name="next-steps"></a>Volgende stappen
 

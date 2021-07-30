@@ -3,21 +3,21 @@ title: API voor rapportquery's opvragen - Insights gegevens
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Gebruik deze API om alle beschikbare query's op te halen voor gebruik in de rapport-API.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 3bf140576a19439990405cfef23190045e0a98be
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376752"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843762"
 ---
 # <a name="get-report-queries-api"></a>API voor rapportquery's opvragen
 
-De API Rapportquery's krijgen haalt alle query's op die beschikbaar zijn voor gebruik in rapporten. Alle systeem- en door de gebruiker gedefinieerde query's worden standaard opgevraagd.
+De API Rapportquery's verkrijgen haalt alle query's op die beschikbaar zijn voor gebruik in rapporten. Alle systeem- en door de gebruiker gedefinieerde query's worden standaard opgevraagd.
 
 **Aanvraagsyntaxis**
 
@@ -43,7 +43,7 @@ Geen
 |    Parameternaam    |    Type    |    Vereist    |    Beschrijving    |
 |    ----    |    ----    |    ----    |    ----    |
 |    queryId     |    tekenreeks     |    No    |    Filter om alleen details van query's op te halen met de id die is opgegeven in het argument     |
-|    queryName     |    tekenreeks     |    No    |    Filter om alleen details van query's op te halen met de naam die is opgegeven in het argument     |
+|    queryName     |    tekenreeks     |    No    |    Filter om details op te halen van alleen query's met de naam die is opgegeven in het argument     |
 |    IncludeSystemQueries     |    booleaans     |    Nee    |    Vooraf gedefinieerde systeemquery's opnemen in het antwoord     |
 |    IncludeOnlySystemQueries     |    booleaans     |    Nee    |    Alleen systeemquery's opnemen in het antwoord     |
 |        |        |        |        |
@@ -91,7 +91,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    Parameter    |    Beschrijving    |
 |    ----    |    ----    |
 |    QueryId     |    Unieke UUID van de query     |
-|    Name     |    Naam die aan de query is gegeven op het moment dat de query wordt gemaakt     |
+|    Naam     |    Naam die aan de query is gegeven op het moment dat de query wordt gemaakt     |
 |    Beschrijving     |    Beschrijving gegeven tijdens het maken van de query     |
 |    Query’s uitvoeren     |    Rapportqueryreeks     |
 |    Type     |    Ingesteld op userDefined voor door de gebruiker gemaakte query's en systeem voor vooraf gedefinieerde systeemquery's     |

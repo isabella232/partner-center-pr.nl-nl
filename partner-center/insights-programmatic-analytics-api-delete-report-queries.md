@@ -3,17 +3,17 @@ title: API voor rapportquery's verwijderen - Insights verwijderen
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Gebruik deze API om door de gebruiker gedefinieerde query's in Partner Center verwijderen.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: e608068613edad1fca277ba5886c9c4bc962ffd2
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: f755bc13ff4e0c4bc3a2c6ceda123c6a2bc47dc5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376518"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836384"
 ---
 # <a name="delete-report-queries-api"></a>API voor rapportquery's verwijderen
 
@@ -38,7 +38,7 @@ Met deze API worden door de gebruiker gedefinieerde query's verwijderd.
 
 |    Parameternaam    |    Type    |    Vereist    |    Beschrijving    |
 |    ----    |    ----    |    ----    |    ----    |
-|    queryId     |    tekenreeks     |    No    |    Filter om details op te halen van alleen query's met de id die is opgegeven in het argument     |
+|    queryId     |    tekenreeks     |    No    |    Filter om alleen details van query's op te halen met de id die is opgegeven in het argument     |
 |        |        |        |        |
 
 **Queryparameter**
@@ -57,7 +57,7 @@ Geen
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Responscode: 200, 400, 401, 403, 404, 500
+Antwoordcode: 200, 400, 401, 403, 404, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -86,14 +86,14 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 
 |    Parameter    |    Beschrijving    |
 |    ----    |    ----    |
-|    QueryId     |    Unieke UUID van de query die is verwijderd    |
-|    Name     |    Naam van de query die is verwijderd    |
+|    QueryId     |    Unieke UUID van de verwijderde query    |
+|    Naam     |    Naam van de verwijderde query    |
 |    Beschrijving     |    Beschrijving van de verwijderde query     |
 |    Query’s uitvoeren     |    Rapportqueryreeks van de verwijderde query    |
 |    Type     |    Ingesteld op userDefined voor door de gebruiker gemaakte query's     |
 |    Gebruiker     |    Gebruikers-id die de query heeft gemaakt     |
 |    CreatedTime     |    Tijdstip van het maken van de query     |
-|    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
+|    TotalCount     |    Aantal gegevenssets in de matrix Waarde     |
 |    Bericht     |    Statusbericht van de uitvoering van de API     |
 |    StatusCode     |    Resultaatcode. De mogelijke waarden zijn 200, 400, 401, 403, 500     |
 |        |        |

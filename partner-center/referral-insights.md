@@ -3,18 +3,18 @@ title: Verwijzingsinzichten ophalen
 ms.topic: article
 ms.date: 04/30/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Controleer regelmatig uw verwijzingsinzichtgegevens in Partner Center om trends te zien voor het aanpakken van of verbeteringsgebieden om u te helpen uw bedrijfsdoelen te bereiken.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0790bfa717840f5cd60b99ef4f50cf3c242149b0
-ms.sourcegitcommit: e4aed966f3f843e938a1e584eeeae0a0ca386bd7
+ms.openlocfilehash: 5c44cec028ae9350f988e279fbb5edef368e4524
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "114749136"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844323"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Verwijzingsinzichten verkrijgen in Partner Center en ontdekken hoe uw verwijzingen het doen
 
