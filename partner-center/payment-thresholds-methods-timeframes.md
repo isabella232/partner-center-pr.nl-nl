@@ -1,48 +1,48 @@
 ---
-title: Details van uitbetaling per regio-micro soft Commercial Marketplace
-description: Meer informatie over betalings tijd frames en de micro soft online winkels waar u betalingen kunt ontvangen. Deze kunnen variëren per land, regio en type uitbetalings account.
+title: Uitbetalingsgegevens per regio - Commerciële marketplace van Microsoft
+description: Meer informatie over betalingstermijnen en de Microsoft-online winkels waar u betalingen kunt ontvangen. Deze kunnen per land, regio en type uitbetalingsaccount verschillen.
 author: eunjkim520
 ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 02/02/2021
-ms.openlocfilehash: 81c5ecb93caef7836dc6e6725a700ac74d881558
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 51b2ca2ce98789b41014597efd695fc61e7cbada
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530711"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842067"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Betalingsdrempels, methoden en tijdsbestek
 
-De geschatte tijd voor het overdragen van betalingen en de online winkels waarvoor u betalingen kunt ontvangen, kunnen variëren, afhankelijk van uw land/regio en het account type voor de betaling. In dit artikel vindt u een overzicht van de betalings methoden die in elk land en elke regio worden ondersteund.
+De geschatte tijd voor het overdragen van betalingen en de online winkels van waaruit u betalingen kunt ontvangen, kunnen variëren, afhankelijk van uw land/regio en type uitbetalingsaccount. In dit artikel worden de betalingswijzen beschreven die in elk land en elke regio worden ondersteund.
 
-Voor een bepaald land en elke regio betalen we met ACH/SEPA of Wired overschrijving. Sommige landen en regio's ondersteunen ook PayPal als betalings methode.
+Voor elk land en elke regio betalen we met behulp van WIJ BETALEN/SEPA of overboeking. Sommige landen en regio's ondersteunen PayPal als betalingswijze.
 
 > [!NOTE]
-> Zie [uitzonderings beleid](payout-policy-details.md)voor meer informatie over wanneer micro soft uitbetalingen uitgeeft voor de commerciële Marketplace nadat een trans actie is uitgevoerd.
+> Zie Uitbetalingsbeleidsdetails voor meer informatie over wanneer Microsoft uitbetalingen uitbetaalt voor de commerciële marketplace nadat een [transactie heeft plaatsgevonden.](payout-policy-details.md)
 
-## <a name="number-of-days-for-payments-to-reach-payout-account"></a>Aantal dagen voor betalingen om het uitbetalings account te bereiken
+## <a name="number-of-days-for-payments-to-reach-payout-account"></a>Aantal dagen dat betalingen een uitbetalingsaccount bereiken
 
-We sturen doorgaans elke betaling die in een bepaalde maand verschuldigd is door de vijftiende dag van die maand. Er wordt echter meer tijd in rekening gehouden voor de betaling om uw account te bereiken. Het aantal dagen is afhankelijk van de betalings wijze die we voor uw account gebruiken, zoals hieronder wordt beschreven.
+Normaal gesproken verzenden we elke betaling die in een bepaalde maand moet worden betaald op de 15e dag van die maand. Het duurt echter extra tijd voor de betaling uw account heeft bereikt. Het aantal dagen is afhankelijk van de betalingswijze die we voor uw account gebruiken, zoals hieronder wordt beschreven.
 
-| Betalingswijze | Geschatte dagen voor het bereiken van het account |
+| Betalingswijze | Geschatte dagen om het account te bereiken |
 | --- | --- |
 | PayPal | 1 werkdag |
-| ACH/SEPA | 2-3 werk dagen |
-| Directe overboeking | 7-10 werk dagen |
+| BES/SEPA | 2-3 werkdagen |
+| Directe overboeking | 7-10 werkdagen |
 | | |
 
 >[!NOTE]
->Als gevolg van wijzigingen in de wisselkoers tarieven, kan het exacte verkoop bedrag enigszins variëren van de ene valuta naar de andere. De wissel koersen worden maandelijks berekend. Op basis van het moment waarop uw trans actie plaatsvond, wordt de juiste wissel koers toegepast. De wissel koers en het datum bedrag waarvoor dit geldt, worden aangegeven in het rapport voor betaling in de kolommen exchangeRate en exchangeRateDate.
+>Als gevolg van wijzigingen in de wisselkoersen kan het exacte verkoopbedrag enigszins verschillen van de ene valuta naar de andere. Exchange worden maandelijks berekend. Op basis van de tijd waarop uw transactie heeft plaatsgevonden, wordt de juiste wisselkoers toegepast. De wisselkoers en de datumsnelheid waarvoor deze van kracht was, worden aangegeven in uw uitbetalingsrapport in respectievelijk de kolommen exchangeRate en exchangeRateDate.
 
 
-## <a name="payment-methods-in-countries-and-regions"></a>Betalings wijzen in landen en regio's
+## <a name="payment-methods-in-countries-and-regions"></a>Betalingswijzen in landen en regio's
 
-Dit zijn de landen en regio's waarin de bovenstaande betalings methoden worden gebruikt voor elke Marketplace. De drempel waarde voor betaling in alle gevallen is $50 USD.
+Dit zijn de landen en regio's waarin de bovenstaande betalingswijzen worden gebruikt voor elke marketplace. De betalingsdrempelwaarde is in alle gevallen $ 50 USD.
 
-| Land/regio | Azure Marketplace | Store, Advertising, mixer en Minecraft | Office | PayPal-betalingen  |
+| Land/regio | Azure Marketplace | Store, Advertising, Mixer en Minecraft | Office | PayPal Betalingen  |
 | --- | --- | --- | --- | --- |
 | Afghanistan | Ja | Ja | Nee | Nee |
 | Albanië | Ja | Ja | Ja | Ja |
@@ -77,12 +77,12 @@ Dit zijn de landen en regio's waarin de bovenstaande betalings methoden worden g
 | Colombia | Ja | Ja | Ja | Ja |
 | Comoren | Ja | Ja | Nee | Nee |
 | Congo (DRC) | Ja | Ja | Ja | Nee |
-| Congo, Republiek | Ja | Ja | Ja | Nee |
+| China, Republiek | Ja | Ja | Ja | Nee |
 | Costa Rica | Ja | Ja | Ja | Ja |
 | Côte d’Ivoire | Ja | Ja | Ja | Nee |
 | Kroatië | Ja | Ja | Ja | Nee |
 | Cyprus | Ja | Ja | Ja | Ja |
-| Czechia | Ja | Ja | Ja | Ja |
+| Tsjechië | Ja | Ja | Ja | Ja |
 | Denemarken | Ja | Ja | Ja | Ja |
 | Dominica | Ja | Ja | Nee | Ja |
 | Dominicaanse Republiek | Ja | Ja | Ja | Ja |
@@ -117,7 +117,7 @@ Dit zijn de landen en regio's waarin de bovenstaande betalings methoden worden g
 | Jordanië | Ja | Ja | Ja | Ja |
 | Kazachstan | Ja | Ja | Ja | Ja |
 | Kenia | Ja | Ja | Ja | Ja |
-| Korea (Zuid) | Ja | Ja | Ja | Nee |
+| Korea (zuid) | Ja | Ja | Ja | Nee |
 | Koeweit | Ja | Ja | Ja | Ja |
 | Kirgistan | Nee | Nee | Ja | Nee |
 | Laos | Ja | Ja | Ja | Nee |
@@ -198,6 +198,6 @@ Dit zijn de landen en regio's waarin de bovenstaande betalings methoden worden g
 | Zimbabwe | Ja | Ja | Ja | Nee |
 | | |
 
-## <a name="next-step"></a>Volgende stap
+## <a name="next-step"></a>Volgende stappen
 
 - [Uitbetalingsinstructies](payout-statement.md)
