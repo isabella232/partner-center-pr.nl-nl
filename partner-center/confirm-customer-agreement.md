@@ -3,18 +3,18 @@ title: Controleren of uw klant de Microsoft-klantovereenkomst heeft geaccepteerd
 description: Cloud Solution Provider (CSP)-partners moeten de klantacceptatie van de Microsoft-klantovereenkomst bevestigen voordat ze Microsoft-services klanten bestellen.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: 9deebf3d9aab2d4dc7953da67a7eb17078b3d30c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 054920e490b84420a99938f7b28046e9999ddde4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277008"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837387"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Controleren of uw klant de Microsoft-klantovereenkomst heeft geaccepteerd voor het CSP-programma
 
@@ -25,7 +25,7 @@ Klanten hebben twee opties voor de manier waarop ze de Microsoft-klantovereenkom
 
 **Optie 1:** Partnerverklaring van klantacceptatie: de partner kan de acceptatie van de klant bevestigen met behulp van Partner Center API/SDK of via het Partner Center dashboard.
 
-**Optie 2:** directe acceptatie van klant: de partner kan de klant via een URL uitnodigen om de overeenkomst te controleren en te accepteren in het Microsoft 365 Admin Center.
+**Optie 2:** directe acceptatie door de klant: de partner kan de klant via een URL uitnodigen om de overeenkomst te controleren en te accepteren in het Microsoft 365-beheer Center.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Toegang Microsoft-klantovereenkomst sjabloon
 
@@ -55,7 +55,7 @@ Wanneer u een nieuwe klant-tenant maakt in Partner Center, gebruikt u de volgend
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>Acceptatie van de klant bevestigen voor bestaande klanten
 
-U moet een beheerder of verkoopagent zijn om dit te doen:
+U moet een beheerderagent of verkoopagent zijn om dit te doen:
 
 1. Selecteer **Klanten**. Zoek en selecteer de klant.
 
@@ -63,7 +63,7 @@ U moet een beheerder of verkoopagent zijn om dit te doen:
 
 3. Selecteer **onder Microsoft-klantovereenkomst** de optie **Bijwerken.**
 
-4. Voer de **voornaam,** **achternaam,** **het e-mailadres** en **het** telefoonnummer (optioneel) in van de persoon die de overeenkomst heeft geaccepteerd. Voer **onder Acceptatiedatum van overeenkomst** de juiste datum in. U kunt dit niet instellen op een toekomstige datum.
+4. Voer de **voornaam**, **achternaam,** het **e-mailadres** en **het Telefoon (optioneel)** in van de persoon die de overeenkomst heeft geaccepteerd. Voer **onder Acceptatiedatum van overeenkomst** de juiste datum in. U kunt dit niet instellen op een toekomstige datum.
 
 5. Selecteer **Opslaan** en doorgaan.
 
@@ -71,7 +71,7 @@ U moet een beheerder of verkoopagent zijn om dit te doen:
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Bevestiging van klantacceptatie ophalen
 
-Als u de bevestiging wilt ophalen dat een bestaande klant de Microsoft-klantovereenkomst heeft geaccepteerd, gebruikt u de volgende stappen. U moet een beheerderagent of verkoopagent zijn om dit te doen.
+Gebruik de volgende stappen om bevestiging te krijgen dat een bestaande klant de Microsoft-klantovereenkomst heeft geaccepteerd. U moet een beheerderagent of verkoopagent zijn om dit te doen.
 
 1. Selecteer **Klanten** en zoek en selecteer vervolgens de klant die u wilt zien.
 
@@ -89,11 +89,11 @@ U kunt Partner Center API/SDK gebruiken om te bevestigen dat de klant de Microso
 
 - [Bevestiging van acceptatie door de klant van Microsoft-klantovereenkomst ophalen](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [Een downloadkoppeling voor de sjabloon Microsoft-klantovereenkomst downloaden](/partner-center/develop/download-customer-agreement-template)
+- [Downloadkoppeling voor de sjabloon Microsoft-klantovereenkomst downloaden](/partner-center/develop/download-customer-agreement-template)
 
-## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Optie 2: Klantacceptatie in Microsoft 365-beheercentrum
+## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Optie 2: Klantacceptatie in Microsoft 365-beheer Center
 
-Partners kunnen nieuwe en bestaande klanten via een URL uitnodigen om de overeenkomst te controleren en te accepteren in Microsoft 365 Beheercentrum. In de volgende secties ziet u hoe u het volgende kunt doen:
+Partners kunnen nieuwe en bestaande klanten via een URL uitnodigen om de overeenkomst in het Microsoft 365-beheer accepteren. In de volgende secties ziet u hoe u het volgende kunt doen:
 
 - Maak een nieuwe klant en nodig de klant uit om de overeenkomst te beoordelen en te accepteren.
 
@@ -106,15 +106,15 @@ Partners kunnen nieuwe en bestaande klanten via een URL uitnodigen om de overeen
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Maak een nieuwe klant en nodig de klant uit om de overeenkomst te beoordelen en te accepteren
 
-Gebruik de volgende stappen om een nieuwe klant te maken in Partner Center nodig deze vervolgens uit om de Microsoft-klantovereenkomst te controleren en te accepteren in Microsoft 365 Beheercentrum.
+Gebruik de volgende stappen om een nieuwe klant te maken in Partner Center nodig deze vervolgens uit om de Microsoft-klantovereenkomst in het Microsoft 365-beheer accepteren.
 
-1. Selecteer op **het** tabblad Klanten Partner Center de optie **Klant toevoegen.**
+1. Selecteer op **het** tabblad Klanten in Partner Center de optie **Klant toevoegen.**
 
-2. Voer **onder Accountgegevens** in alle vereiste velden informatie over de nieuwe klant in, met inbegrip van de bedrijfsnaam van de klant en de primaire contactpersoon.
+2. Voer **onder Accountgegevens** in alle vereiste velden informatie over de nieuwe klant in, inclusief de bedrijfsnaam en de primaire contactpersoon van de klant.
 
-3. Selecteer **onder Klantovereenkomst** de **optie Klant wordt gevraagd om de Microsoft-klantovereenkomst te Microsoft 365 in het beheercentrum.** Vul alle andere vereiste velden op de pagina in.
+3. Selecteer **onder Klantovereenkomst** de optie Klant wordt gevraagd om de Microsoft-klantovereenkomst in Microsoft 365-beheer Center te **accepteren.** Vul alle andere vereiste velden op de pagina in.
 
-4. Selecteer **Volgende: Controleren en** ga door met de stappen voor het maken van de tenant van de klant. 
+4. Selecteer **Volgende: Controleren en** ga vervolgens verder met de stappen voor het maken van de tenant van de klant. 
 
 >[!NOTE] 
 >Nieuwe klanten kunnen geen aankoop doen totdat ze de Microsoft-klantovereenkomst.  
@@ -123,7 +123,7 @@ Gebruik de volgende stappen om een nieuwe klant te maken in Partner Center nodig
 
 5. Wanneer u het **bevestigingsscherm** in de nieuwe klantwerkstroom bereikt, moet u de klantreferenties opslaan. U moet deze referenties later aan uw klant geven.
 
-6. Maak buiten Partner Center een e-mailbericht waarin de klant wordt uitgenodigd om de Microsoft-klantovereenkomst te Microsoft 365 het beheercentrum. Zorg ervoor dat u deze items in het e-mailbericht op te nemen:
+6. Maak buiten Partner Center een e-mailbericht waarin de klant wordt uitgenodigd om de Microsoft-klantovereenkomst te accepteren in Microsoft 365-beheer Center. Zorg ervoor dat u deze items in het e-mailbericht op te nemen:
 
    - Een koppeling naar deze [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) (aanmelding vereist)
 
@@ -131,19 +131,19 @@ Gebruik de volgende stappen om een nieuwe klant te maken in Partner Center nodig
 
 7. De klant ontvangt vervolgens de e-mail-uitnodiging van de partner en selecteert de [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement).
 
-8. De klant meldt zich aan bij Microsoft 365-beheercentrum met behulp van de klantreferenties die u hebt opgegeven.
+8. De klant meldt zich aan Microsoft 365-beheer Center met behulp van de klantreferenties die u hebt opgegeven.
 
 9. De klant controleert het selectievakje om de Microsoft-klantovereenkomst te accepteren.
 
-## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Een nieuwe klant uitnodigen om de resellerrelatie te controleren en te accepteren en Microsoft-klantovereenkomst 
+## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Een nieuwe klant uitnodigen om de resellerrelatie en -Microsoft-klantovereenkomst 
 
 Gebruik de volgende stappen om een nieuwe klant uit te nodigen om de resellerrelatie en de Microsoft-klantovereenkomst. 
 
-1. Selecteer op **het** tabblad Klanten Partner Center de **koppeling Een resellerrelatie** aanvragen. 
+1. Selecteer op **het** tabblad Klanten Partner Center de koppeling **Een resellerrelatie** aanvragen. 
 
-2. Er wordt een automatische e-mailsjabloon gegenereerd, inclusief tekst en een geparameteriseerde URL die de klant naar het Microsoft 365 leidt.
+2. Er wordt een automatische e-mailsjabloon gegenereerd, inclusief tekst en een geparameteriseerde URL die de klant naar het Microsoft 365-beheer Center leidt.
 
-3. U kunt de automatisch gegenereerde e-mailsjabloon aanpassen en vervolgens Kopiëren naar **klembord of** **Openen in e-mail selecteren.**
+3. U kunt de automatisch gegenereerde e-mailsjabloon aanpassen en vervolgens **Kopiëren naar klembord of** Openen in **e-mail selecteren.**
 
 4. Gebruik deze e-mailsjabloon om de klant uit te nodigen om de **aanvraag voor een resellerrelatie** en **de** Microsoft-klantovereenkomst. (Opmerking: Zorg ervoor dat de partner in de e-mailnodiging ook de URL bevat die automatisch is opgegeven, evenals de klantreferenties die onlangs zijn gemaakt.)
 
@@ -151,7 +151,7 @@ Gebruik de volgende stappen om een nieuwe klant uit te nodigen om de resellerrel
 
 5. De klant ontvangt een uitnodiging via e-mail en klikt op de geparameteriseerde URL. 
 
-6. De klant gebruikt de referenties die u in het e-mailbericht hebt verstrekt om zich aan te melden bij Microsoft 365-beheercentrum.
+6. De klant gebruikt de referenties die u in het e-mailbericht hebt verstrekt om zich aan te melden bij Microsoft 365-beheer Center.
 
 7. De klant controleert het selectievakje om de **resellerrelatie te** accepteren en **Microsoft-klantovereenkomst**. 
 
@@ -168,11 +168,11 @@ Gebruik de volgende stappen om een bestaande klant uit te nodigen om de Microsof
 
 2. Uw klant ontvangt de uitnodiging via e-mail en klikt op de [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement). 
 
-3. De klant voert zijn of haar referenties in Microsoft 365-beheercentrum.
+3. De klant voert zijn of haar referenties in Microsoft 365-beheer Center.
 
 4. Uw klant controleert het selectievakje om de Microsoft-klantovereenkomst. 
 
-5. Binnen dezelfde URL kan de klant de geconsolideerde lijst met verschillende partners zien met wie ze werken. Ze kunnen een partner selecteren om details te bekijken.
+5. Binnen dezelfde URL kan de klant de geconsolideerde lijst zien van de verschillende partners met wie ze werken. Ze kunnen een partner selecteren om details te bekijken.
 
    :::image type="content" source="images/mca/customeraccept.png" alt-text="Klant.":::
 
@@ -181,25 +181,25 @@ Gebruik de volgende stappen om een bestaande klant uit te nodigen om de Microsof
 
 ## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Twee scenario's waarbij u namens uw klant moet bevestigen
 
-Er zijn twee scenario's waarbij klanten de toegangsrechten mogelijk niet rechtstreeks kunnen Microsoft-klantovereenkomst in het Microsoft 365-beheercentrum.
+Er zijn twee scenario's waarin klanten de Microsoft-klantovereenkomst mogelijk niet rechtstreeks kunnen Microsoft 365-beheer center.
 
-**Scenario 1:** Een bestaande klant heeft een van de volgende aankopen via een bestaande partnerrelatie: aanbiedingen, software- of softwareabonnementen, gereserveerde instanties of Azure Plan. De klant probeert nu een nieuwe aankoop te doen (met uitzondering van automatische verlenging). Wanneer die klant op de URL klikt, ontvangt deze het bericht 'Neem contact op met uw partner om te bevestigen dat u de Microsoft-klantovereenkomst.'  
+**Scenario 1:** Een bestaande klant heeft een van de volgende aankopen gedaan via een bestaande partnerrelatie: aanbiedingen, software- of softwareabonnementen, gereserveerde instanties of Azure-plan. De klant probeert nu een nieuwe aankoop te doen (met uitzondering van automatische verlenging). Wanneer die klant op de URL klikt, ontvangt deze het bericht 'Neem contact op met uw partner om te bevestigen dat u de url hebt Microsoft-klantovereenkomst.'  
 
 **Oplossen:** u moet namens de klant bevestigen.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Schermopname van Microsoft 365 de pagina Beheercentrum waarin u wordt gevraagd contact op te nemen met uw partner om de acceptatie van de Microsoft-klantovereenkomst.":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Schermopname van Microsoft 365-beheer Center-pagina waarin u wordt gevraagd contact op te nemen met uw partner om te bevestigen dat de Microsoft-klantovereenkomst.":::
 
 **Scenario 2:** Een bestaande klant heeft een van de volgende aanbiedingen, software- en softwareabonnementen, gereserveerde instanties en Azure Plan aangeschaft. De klant probeert nu een nieuwe aankoop te doen met een nieuwe partner.
 
-Wanneer de klant op de URL naar het Microsoft 365-beheercentrum klikt om de nieuwe partnerrelatie en de overeenkomst te accepteren, ontvangt de klant het bericht 'Neem contact op met uw partner om uw acceptatie van de Microsoft-klantovereenkomst.'  
+Wanneer de klant op de URL naar het Microsoft 365-beheer Center klikt om de nieuwe partnerrelatie en de overeenkomst te accepteren, ontvangt de klant het bericht 'Neem contact op met uw partner om uw acceptatie van de Microsoft-klantovereenkomst.'  
 
 **Oplossen:** u moet namens de klant bevestigen.  
 
-## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Bevestigen dat een klant de overeenkomst heeft geaccepteerd
+## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Bevestig dat een klant de overeenkomst heeft geaccepteerd
 
-Als u probeert een nieuwe order te maken voor een bestaande klant die u nog niet eerder hebt bevestigd, ontvangt u een prompt om de bevestiging te voltooien. Gebruik de volgende procedure om dit te doen.
+Als u probeert een nieuwe bestelling te maken voor een bestaande klant die u nog niet eerder hebt bevestigd, ontvangt u een prompt om de bevestiging te voltooien. Gebruik de volgende procedure om dit te doen.
 
-1. Voer de **voornaam**, **achternaam, het** **e-mailadres** en **het** telefoonnummer (optioneel) in van de gebruiker die de overeenkomst heeft geaccepteerd.
+1. Voer de **voornaam,** **achternaam,** het **e-mailadres** en **het Telefoon in** (optioneel) van de gebruiker die de overeenkomst heeft geaccepteerd.
 
 2. Voer **onder Acceptatiedatum van overeenkomst** de juiste datum in. U kunt dit niet instellen op een toekomstige datum.
 

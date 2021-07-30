@@ -3,18 +3,18 @@ title: Een btw-nummer toevoegen voor zakelijke belastingen
 ms.topic: article
 ms.date: 12/04/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: De omzetbelasting voor Partner Center-aankopen wordt bepaald door het adres van uw bedrijf. Bedrijven in sommige landen kunnen hun btw-nummer of lokale equivalent verstrekken.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d0ff46b09d2d9008302825daeb07b5ffa05a5650
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146932"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838033"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Een btw-nummer toevoegen aan uw factureringsprofiel
 

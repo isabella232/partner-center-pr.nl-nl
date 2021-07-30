@@ -1,39 +1,39 @@
 ---
-title: Marketplace-producten en & beheren
+title: Marketplace-producten beheren & aanbiedingen
 ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Leer Partner Center hoe cloudoplossingsproviders ISV-aanbiedingen van derden kunnen beheren die zijn gekocht voor klanten van de commerciële marketplace.
+ms.subservice: partnercenter-pricing
+description: Leer Partner Center hoe cloudoplossingsproviders ISV-aanbiedingen van derden kunnen beheren die zijn gekocht voor klanten uit de commerciële marketplace.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: fb6b64ef6117f0e26f0fd41d215816c38d5b7b80
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147901"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837727"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Commerciële marketplace-producten en -aanbiedingen voor uw klanten beheren
 
 
-**Juiste rollen:** Globale | Beheeragent
+**Juiste rollen:** globale | Beheeragent
 
 Partners in het Cloud Solution Provider-programma (CSP) kunnen de Partner Center-portal gebruiken om veel ISV SaaS-aanbiedingen of -abonnementen voor hun klanten te kopen via de commerciële marketplace. Nadat u een aanbieding hebt aangeschaft, kunt u deze op verschillende manieren beheren.
 
 ## <a name="view-or-edit-a-subscription"></a>Een abonnement weergeven of bewerken
 
-Nadat u een abonnement van een externe ISV-uitgever hebt aangeschaft, kunt u dit als volgt controleren of bewerken:
+Nadat u een abonnement van een externe ISV-uitgever hebt aangeschaft, kunt u het als volgt controleren of bewerken:
 
-1. Meld u aan Partner Center [dashboard en](https://partner.microsoft.com/dashboard)selecteer vervolgens **Klanten** in het navigatiemenu aan de linkerkant.
+1. Meld u aan Partner Center [dashboard en](https://partner.microsoft.com/dashboard)selecteer klanten in het navigatiemenu aan de linkerkant. 
 
-2. Selecteer een geschikte klant en selecteer **vervolgens Abonnementen.** Hiermee worden alle op licenties gebaseerde abonnementen vermeld die u voor de klant hebt aangeschaft.
+2. Selecteer een geschikte klant en selecteer **vervolgens Abonnementen.** Hier worden alle op licenties gebaseerde abonnementen vermeld die u voor de klant hebt aangeschaft.
 
-3. Selecteer in **de** kolom Abonnement het abonnement dat u wilt weergeven of bewerken. Dit biedt u meer informatie over het instellen of inrichten van de aanbieding. (Als er meer actie nodig is voor de aanbieding, wordt mogelijk ook de status Actie nodig weergegeven in de kolom Status. Dit kan ook vergezeld gaan van een koppeling naar de site van de ISV-uitgever.)
+3. Selecteer in **de** kolom Abonnement het abonnement dat u wilt weergeven of bewerken. Hiermee krijgt u meer informatie over het instellen of inrichten van de aanbieding. (Als er meer actie nodig is voor de aanbieding, wordt mogelijk ook de status Actie vereist weergegeven in de kolom Status. Dit kan ook vergezeld gaan van een koppeling naar de site van de ISV-uitgever.)
 
-4. Zodra u het abonnement hebt geselecteerd dat u wilt bekijken of bewerken, kunt u op de detailpagina van het abonnement het abonnement bewerken en bijvoorbeeld het volgende doen:
+4. Zodra u het abonnement hebt geselecteerd dat u wilt weergeven of bewerken, kunt u op de detailpagina van het abonnement het abonnement bewerken en bijvoorbeeld het volgende doen:
 
     - De bijnaam van het abonnement wijzigen
 
@@ -46,7 +46,7 @@ Nadat u een abonnement van een externe ISV-uitgever hebt aangeschaft, kunt u dit
     - Een MPN-id voor indirecte resellers toevoegen, indien van toepassing
 
 > [!NOTE]
-> Mogelijk moet u bepaalde stappen uitvoeren die zijn gedefinieerd door de ISV-uitgever voordat u enkele wijzigingen in een abonnement kunt uitvoeren, zoals het annuleren van een abonnement.
+> Mogelijk moet u bepaalde stappen uitvoeren die door de ISV-uitgever zijn gedefinieerd voordat u enkele wijzigingen in een abonnement kunt uitvoeren, zoals het annuleren van een abonnement.
 
 ## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>Licenties toewijzen en een abonnement activeren namens een klant
 
@@ -73,7 +73,7 @@ De uitgever moet u een gepersonaliseerde koppeling en een autorisatiecode verstr
 
     - Elke vereiste URL rechtstreeks naar uw klant verzenden (of anderszins rechtstreeks details over dit abonnement naar uw klant communiceren)
 
-4. Zodra u de vereiste gegevens aan de uitgever hebt verstrekt, zal de uitgever de juiste licenties inrichten en toewijzen. Abonnementsfacturering begint pas nadat de volgende gebeurtenissen optreden:
+4. Zodra u de vereiste gegevens aan de uitgever hebt verstrekt, zal de uitgever de juiste licenties inrichten en toewijzen. Abonnementsfacturering begint pas nadat de volgende gebeurtenissen plaatsvinden:
 
     - De ISV-uitgever heeft de juiste licenties toegewezen
 
@@ -103,11 +103,11 @@ Voor aanbiedingen op de commerciële SaaS-marketplace kunt u gebruikerslicenties
 
 5. Wijzig de hoeveelheid en selecteer vervolgens **Verzenden.**
 
-## <a name="manage-subscriptions-using-partner-center-apis"></a>Abonnementen beheren met behulp van Partner Center API's
+## <a name="manage-subscriptions-using-partner-center-apis"></a>Abonnementen beheren met behulp Partner Center API's
 
-U kunt ook Partner Center's gebruiken om levenscyclusbeheer uit te voeren en facturen voor uw abonnementen te beheren. Zie Een abonnement maken voor [commerciële marketplace-producten voor meer informatie.](/partner-center/develop/create-subscription-azure-marketplace-products)
+U kunt ook Partner Center api's gebruiken om levenscyclusbeheer uit te voeren en facturen voor uw abonnementen te beheren. Zie Een abonnement maken [voor commerciële marketplace-producten voor meer informatie.](/partner-center/develop/create-subscription-azure-marketplace-products)
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Aanbiedingen voor de commerciële marketplace kopen](csp-commercial-marketplace-purchase.md)
+- [Aanbiedingen voor commerciële marketplace kopen](csp-commercial-marketplace-purchase.md)
 - [Meer informatie over facturering in de commerciële marketplace](csp-commercial-marketplace-billing.md)

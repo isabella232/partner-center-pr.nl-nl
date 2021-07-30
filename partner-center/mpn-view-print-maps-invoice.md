@@ -1,28 +1,28 @@
 ---
-title: Microsoft Partner Network facturen & belasting
+title: Microsoft Partner Network facturen & belastingen
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Meer informatie over het weergeven of downloaden van uw MPN-lidmaatschapsfactuur, het indienen voor btw-vrijstelling en het verzenden van uw btw-nummer door Microsoft.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f5448932c9016f346f18882ad0070108f684e941
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151284"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838135"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturen en belastingen in de Microsoft Partner Network
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeraccount van MPN-| Factureringsbeheerder | Beheeragent
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheer van MPN-partner | Factureringsbeheerders | Beheeragent
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Uw MPN-lidmaatschapsfactuur weergeven of downloaden
 
-Gebruik de onderstaande stappen om de definitieve factuur voor een order met betrekking tot uw lidmaatschap in de Microsoft Partner Network. Facturen zijn over het algemeen 10 dagen na het voltooien van de betaling beschikbaar. Neem contact op met uw regionale servicecentrum voor meer informatie.  
+Gebruik de onderstaande stappen om de definitieve factuur voor een order met betrekking tot uw lidmaatschap in de Microsoft Partner Network. Facturen zijn algemeen beschikbaar 10 dagen nadat de betaling is voltooid. Neem contact op met uw regionale servicecentrum voor meer informatie.  
 
 U moet een Globale beheerder of MPN-partnerbeheerder zijn om deze procedure uit te voeren. 
 
@@ -34,22 +34,22 @@ U moet een Globale beheerder of MPN-partnerbeheerder zijn om deze procedure uit 
 
 ## <a name="file-a-tax-exemption"></a>Een btw-vrijstelling indienen
 
-1.  Selecteer Partner Center instellingen in **het menu**.
+1.  Selecteer Partner Center in **Instellingen**.
     - Selecteer Partnerprofiel om uw MPN-id **te vinden.**
 
 2.  Maak een nieuw ondersteuningsticket. Selecteer Partner Center **serviceaanvragen,** selecteer **Partner Center aanvragen** en selecteer vervolgens **Nieuwe aanvraag.**
 
-3.  Vul het formulier in. Voor het **type probleem selecteert** u **Kan mijn profiel niet beheren.** Neem uw MPN-id op in de beschrijving.
+3.  Vul het formulier in. Voor het **Type probleem selecteert** u **Kan mijn profiel niet beheren.** Neem uw MPN-id op in de beschrijving.
 
-4.  Nadat u het ticket hebt verzonden, ontvangt u via Microsoft een e-mail voor meer informatie. Wanneer u antwoordt, voeg dan de juiste ondersteunende documentatie bij voor uw btw-vrijstellingscertificaten.
+4.  Nadat u het ticket hebt verzonden, ontvangt u via Microsoft een e-mail voor meer informatie. Wanneer u antwoordt, moet u de juiste ondersteunende documentatie voor uw btw-vrijstellingscertificaten bij te dragen.
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Uw btw-nummer naar Microsoft verzenden
 
-1.  Selecteer in Partner Center [dashboard](https://partner.microsoft.com/dashboard/home) **lidmaatschapsaanbiedingen** en selecteer vervolgens **Beschikbaar.** 
+1.  Selecteer in Partner Center [dashboard](https://partner.microsoft.com/dashboard/home)de optie **Lidmaatschapsaanbiedingen** en selecteer **vervolgens Beschikbaar.** 
 
 2.  Selecteer **Uw btw-nummer toevoegen.** 
 
-3.  Voer de btw-id voor uw bedrijf in, **selecteer Toevoegen** en selecteer **vervolgens Volgende.** 
+3.  Voer de btw-id voor uw bedrijf in, selecteer **Toevoegen** en selecteer **vervolgens Volgende.** 
 
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -3,17 +3,17 @@ title: Vereisten voor programmatisch toegang tot analysegegevens
 description: Vereisten voor programmatisch toegang tot analysegegevens
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: d4c39025aa3804435dd4d2359b93cd4a2e13ccc4
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 12c466cce37ac252fedf5f72ef90e390bb1af256
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376511"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845088"
 ---
 # <a name="prerequisites-to-programmatically-access-analytics-data"></a>Vereisten voor programmatisch toegang tot analysegegevens
 
@@ -23,11 +23,11 @@ Voordat u programmatisch toegang kunt krijgen tot analysegegevens van partnerinz
 
 ## <a name="mpn-program-enrollment"></a>MPN-programma-inschrijving
 
-Als u via een programma toegang wilt krijgen tot de analysegegevens van Partner Insights, moet u zijn ingeschreven bij het MPN-programma en een Partner Center hebben. Zie Een [MPN-account maken in Partner Center](mpn-create-a-partner-center-account.md)
+Als u via een programma toegang wilt krijgen tot de analysegegevens van Partner Insights, moet u zijn ingeschreven bij het MPN-programma en een Partner Center hebben. Zie Een [MPN-account](mpn-create-a-partner-center-account.md) maken in Partner Center
 
 ## <a name="create-azure-active-directory-aad-application"></a>Een Azure Active Directory (AAD)-toepassing maken
 
-Reguliere gebruikersreferenties kunnen niet worden gebruikt voor programmatische toegang tot Partner Insights Analytics-gegevens. Een Azure Active Directory (AAD)-toepassing moet samen met een geheim (toepassing + gebruikerstoegang) worden gemaakt om toegang te krijgen tot de API's voor programmatische toegang. Zie Quickstart: Een toepassing registreren bij de Microsoft identity platform voor meer informatie over het maken van een [AAD-toepassing en -Microsoft identity platform.](/azure/active-directory/develop/quickstart-register-app)   Machtiging is vereist voor toegang tot Microsoft Partner-API. Zie Verificatie voor meer informatie over het toevoegen van [Partner-API - Partner](/partner/develop/api-authentication#application-and-user-access)
+Reguliere gebruikersreferenties kunnen niet worden gebruikt voor programmatische toegang tot Partner Insights Analytics-gegevens. Een Azure Active Directory (AAD)-toepassing moet samen met een geheim (toepassing + gebruikerstoegang) worden gemaakt voor toegang tot de API's voor programmatische toegang. Zie Voor meer informatie over het maken van een AAD-toepassing en -geheim [Quickstart: Een toepassing registreren bij de Microsoft identity platform.](/azure/active-directory/develop/quickstart-register-app)   Machtiging is vereist voor toegang tot Microsoft Partner-API. Zie Verificatie voor meer informatie over het toevoegen van [Partner-API - Partner](/partner/develop/api-authentication#application-and-user-access)
 
 ## <a name="assign-executive-report-viewer-erv-role-to-the-user"></a>De rol Executive Report Viewer (ERV) toewijzen aan de gebruiker
 

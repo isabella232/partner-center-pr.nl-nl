@@ -3,18 +3,18 @@ title: Partner Center Insights
 description: Verken dit Partner Center dashboard voor geïntegreerde rapportage. Bekijk hoe u het doet in KPI's voor verkoop en implementatie, klantontwikkeling en meer.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: a16cca546142d3a8091643607534697e0403fff9
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 2061286ecb048647d666438a34b4759175b7deb4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373761"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844612"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights dashboard dat laat zien hoe het gaat met een commerciële microsoft-partner
 
@@ -22,7 +22,7 @@ ms.locfileid: "114373761"
 
 ## <a name="introduction"></a>Introductie
 
-Het Insights dashboard is een geïntegreerd rapportagedashboard in Partner Center voor commerciële partners van Microsoft die zijn ingeschreven in het Microsoft Partner Network(MPN)-programma. Het Insights-dashboard biedt een 360-graden weergave van uw Key Performance Indicators (KPI) voor cloudproducten zoals Office, Azure, Dynamics en licentiemodellen zoals CSP en EA. Het toont een uitgebreide set KPI-rapporten die u kunnen helpen bij het nemen van gegevensgestuurde beslissingen voor uw organisatie. 
+Het Insights dashboard is een geïntegreerd rapportagedashboard in Partner Center voor commerciële partners van Microsoft die zijn ingeschreven in het Microsoft Partner Network(MPN)-programma. Het Insights-dashboard biedt een 360-graden weergave van uw key performance indicators (KPI) voor cloudproducten zoals Office, Azure, Dynamics en licentiemodellen zoals CSP en EA. Het toont een uitgebreide set KPI-rapporten die u kunnen helpen bij het nemen van gegevensgestuurde beslissingen voor uw organisatie. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Op rollen gebaseerd toegangsbeheer voor het Insights dashboard
 
@@ -31,7 +31,7 @@ Er zijn twee nieuwe rollen in Partner Center speciaal ontworpen voor toegang tot
 De globale beheerder of de accountbeheerder kan deze rollen aan gebruikers toewijzen en worden toegewezen voor het hele bedrijf of voor een specifieke MPN-locatie.  
 
 >[!Note] 
->Gebruikers die vanaf 20 januari 2020 MPN-beheerders waren, zijn automatisch toegevoegd aan de rol rapportviewer voor het hele bedrijf. Ze hebben toegang tot de rapporten als een rapportviewer zonder expliciete actie die is vereist door de globale beheerder of accountbeheerder. De globale beheerders of accountbeheerders kunnen deze toewijzingen zo nodig overschrijven. 
+>Gebruikers die vanaf 20 januari 2020 MPN-beheerders waren, zijn automatisch toegevoegd aan de rol Rapportviewer voor het hele bedrijf. Ze hebben toegang tot de rapporten als een rapportviewer zonder expliciete actie die is vereist door de globale beheerder of accountbeheerder. De globale beheerders of accountbeheerders kunnen deze toewijzingen zo nodig overschrijven. 
 
 ## <a name="reports-available"></a>Rapporten beschikbaar
 
@@ -72,7 +72,7 @@ De volgende rapporten zijn beschikbaar als onderdeel van het Insights dashboard.
 
 ### <a name="filters-definitions"></a>Filtersdefinities:
 
-- Producten: lijst met alle Microsoft Cloud-producten die worden verkocht/beheerd door uw organisatie, bijvoorbeeld O365, Azure, D365, EMS, Power BI, enzovoort.
+- Producten: lijst met alle Microsoft Cloud-producten die door uw organisatie worden verkocht/beheerd, bijvoorbeeld O365, Azure, D365, EMS, Power BI, enzovoort.
 - Klantmarkt: Lijst met klant-landen
 - Partnervermeldingen: Uw koppelingstype met de abonnementen van uw klanten, bijvoorbeeld Digital Partner of Record (DPOR), Gedelegeerde beheerdersrechten (DAP) en de koppeling partnerbeheerder (PAL). 
 - Partnerlocaties: lijst met alle MPN-locaties van uw organisatie.

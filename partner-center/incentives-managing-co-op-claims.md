@@ -1,6 +1,6 @@
 ---
 title: Coöperatieve claims beheren
-description: Informatie over het proces van claims voor samenwerking, waaronder deadlines, valutaproblemen en hoe u een afgewezen claim voor samenwerking kunt betwisten.
+description: Informatie over het proces van claims voor samenwerking, waaronder deadlines, valutaproblemen en het betwisten van een afgewezen claim voor samenwerking.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,24 +8,24 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 952a6b327dd31b1155efe3c08bb52f9b300b0a93
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bf4e155eb9ca6a7bf8e2a6ad2a5f1f2a5f0b40c2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146762"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845275"
 ---
-# <a name="manage-incentives-co-op-claims"></a>Co-op-claims voor incentives beheren
+# <a name="manage-incentives-co-op-claims"></a>Coöpclaims voor incentives beheren
 
 **Juiste rollen:** Incentives-beheerder
 
-De volgende inhoud bevat informatie over het beheren van claims voor samenwerking, waaronder tijdlijnen, regels en hoe u een afgewezen claim voor samenwerking kunt betwisten.
+De volgende inhoud bevat informatie over het beheren van claims voor samenwerking, waaronder tijdlijnen, regels en het betwisten van een afgewezen claim voor samenwerking.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>Goedkeuring van claims voor samenwerking en deadlines voor betaling
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>Wanneer wordt mijn claim voor samenwerking goedgekeurd?
 
-Claims voor samenwerking worden binnen twee werkdagen nadat ze zijn ingediend, beoordeeld. Zodra ze als geldig worden beschouwd, worden ze ingesteld op De status Goedgekeurd.  
+Claims voor samenwerking worden binnen twee werkdagen nadat ze zijn ingediend, beoordeeld. Zodra ze als geldig worden beschouwd, worden ze ingesteld op de status Goedgekeurd.  
 
 Hier volgen de verschillende mogelijke statussen voor uw claims voor samenwerking.
 
@@ -59,7 +59,7 @@ Als het materiaal dat u hebt aangeleverd met uw claim voor samenwerking ontoerei
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
-2. Selecteer **onder Incentives** de optie **Co-opbeheer.**
+2. Selecteer **onder Incentives** de optie **Co-op-beheer.**
 
 3. Selecteer de claim voor samenwerking die u wilt betwisten. De claimpagina voor samenwerking wordt geopend.
 

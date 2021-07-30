@@ -3,17 +3,17 @@ title: Een resellerrelatie met een klant aanvragen
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Vraag een relatie aan met een klant voor scenario's met meerdere partners of als uw gedelegeerde beheerdersbevoegdheden voor een klant moeten worden hersteld.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551636"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844476"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Een wederverkoper-relatie aanvragen bij een klant in het Partner Center
 
@@ -32,7 +32,7 @@ U kunt een resellerrelatie met een klant aanvragen vanuit uw land of in dezelfde
 
 1. Selecteer **Klanten** in uw **Partner Center** menu en selecteer vervolgens **Een resellerrelatie aanvragen.**
 
-2. Als u beheerdersmachtigingen wilt aanvragen bij deze klant, selecteert u **Gedelegeerde beheerbevoegdheden opnemen voor Azure Active Directory en Office 365.** Als u de relatie tot stand wilt brengen zonder beheerdersmachtigingen aan te vragen, schakelt u deze optie uit.
+2. Als u beheerdersmachtigingen wilt aanvragen bij deze klant, selecteert u **Gedelegeerde beheerbevoegdheden** opnemen voor Azure Active Directory en Office 365 . Als u de relatie tot stand wilt brengen zonder beheerdersmachtigingen aan te vragen, schakelt u deze optie uit.
 
 3. Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het conceptbericht openen in de standaardtoepassing voor e-mail, of u kunt het bericht kopiëren naar het klembord en in een e-mailbericht plakken.
 
@@ -56,9 +56,9 @@ De klantervaring voor het accepteren van een uitnodiging voor een resellerrelati
 
 |Typen cloudklanten  | Waar accepteert een klant een uitnodiging voor een resellerrelatie? |
 |---------|---------
-| Klanten in de openbare cloud | Microsoft 365-beheercentrum |
-| Klanten in Partner Center voor Microsoft Cloud Duitsland | Microsoft Office-beheerportal |
-| Klanten in Partner Center voor Microsoft Cloud for US Government | Microsoft Office-beheerportal |
+| Klanten in de openbare cloud | Microsoft 365-beheer Center |
+| Klanten in Partner Center voor Microsoft Cloud Duitsland | Microsoft Office Beheerportal |
+| Klanten in Partner Center voor Microsoft Cloud for US Government | Microsoft Office Beheerportal |
 |
 
 ## <a name="next-steps"></a>Volgende stappen

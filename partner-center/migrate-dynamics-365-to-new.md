@@ -3,24 +3,24 @@ title: Dynamics 365 Business Edition migreren
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Meer informatie over het migreren van gekwalificeerde Aanbiedingen van Dynamics 365 Business Edition naar nieuwere versies voordat ze verlopen.
+ms.subservice: partnercenter-pricing
+description: Meer informatie over het migreren van gekwalificeerde Dynamics 365 Business Edition-aanbiedingen naar nieuwere versies voordat deze verlopen.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2e8eca0a645656388516c4c25f0091713424caf0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151522"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838288"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrate Dynamics 365 Business Edition Offers to newer versions (Aanbiedingen van Dynamics 365 Business Edition migreren naar nieuwere versies)
 
 **Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
 
-Vanaf 1 januari 2019 kunnen klanten met Dynamics 365 Business Edition-abonnementen niet meer worden verlengd voor deze verouderde aanbiedingen; bestaande abonnementen worden niet automatisch vernieuwd wanneer ze verlopen. Op de detailpagina van het abonnement wordt de status van het abonnement gewijzigd in 'Verloopt op [datum]' van 'Automatisch verlengen op [datum]'.
+Vanaf 1 januari 2019 kunnen klanten met Dynamics 365 Business Edition-abonnementen niet meer worden verlengd voor deze verouderde aanbiedingen; bestaande abonnementen worden niet automatisch verlengd wanneer ze verlopen. Op de detailpagina van het abonnement wordt de status van het abonnement gewijzigd in 'Verloopt op [datum]' van 'Automatisch verlengen op [datum]'.
 
 Om de continuïteit voor klanten te waarborgen, moet u de klanten met verlopen abonnementen overstappen naar een ondersteunde optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen.
 
@@ -34,7 +34,7 @@ Als u de API (ZOWEL DEP als Partner Center) gebruikt, kunt u verlopende abonneme
 ## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central: de nieuwe aanbiedingen voor Dynamics 365 Business Edition
 
 Met de nieuwe Dynamics Business Central-aanbiedingen kunnen uw klanten hun financiën, verkoop, service en activiteiten verbinden om bedrijfsprocessen te stroomlijnen, interacties van klanten te verbeteren en betere beslissingen te nemen. Dynamics 365 Business Central is gebaseerd op de cloud en is alleen beschikbaar via Cloud Solution Provider (CSP)-programmapartners.
-Klanten van Dynamics 365 Business Edition komen in aanmerking voor korting op overgangsprijzen voor de nieuwe Business Central-aanbiedingen tot en met 30 juni 2020.
+Klanten van Dynamics 365 Business Edition kunnen tot en met 30 juni 2020 korting krijgen voor de overgangsprijzen voor de nieuwe Business Central-aanbiedingen.
 
 ## <a name="transition-customers-to-new-product-plans"></a>Klanten overstappen op nieuwe productplannen
 
@@ -48,14 +48,14 @@ Klanten van Dynamics 365 Business Edition komen in aanmerking voor korting op ov
 
 1. Selecteer **Klanten** in het linkernavigatiebalk en selecteer vervolgens de klant die u wilt verplaatsen naar het nieuwe abonnement.
 2. Selecteer **Abonnement toevoegen.**
-3. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **verzenden.** 
+3. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **vervolgens Verzenden.** 
 
 Uw klant heeft nu zowel het oude als het nieuwe abonnement. De volgende stap is het opnieuw toewijzen van licenties aan de gebruikers van de klant.
 
 1. Selecteer **Klanten** in het linkernavigatiebalk en selecteer vervolgens de klant die u verplaatst.
 2. Selecteer **Gebruikers en licenties.**
 3. Als u een licentie opnieuw wilt toewijzen aan een gebruiker, selecteert u de gebruiker en selecteert u **vervolgens Licenties beheren.** 
-4. Schakel **op** de pagina Licenties beheren het selectievakje Licentie voor Dynamics 365 for Sales/Customer Engagement Plan van Basic (gekwalificeerde aanbieding) uit en selecteer een nieuw serviceplan voor het abonnement waar de klant naar overstapt. 
+4. Schakel  op de pagina Licenties beheren het selectievakje Dynamics 365 for Sales/Customer Engagement Plan from Basic (Qualified Offer) license uit en selecteer een nieuw serviceplan voor het abonnement waar de klant naar overstapt. 
 5. Selecteer **Indienen**. U doet dit voor elke gebruiker die de nieuwe licentie nodig heeft. 
 
 Nadat u de licenties hebt verplaatst naar het nieuwe abonnement, kunt u het oude abonnement annuleren. 

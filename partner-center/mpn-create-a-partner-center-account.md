@@ -3,18 +3,18 @@ title: Een MPN-account maken in Partner Center
 ms.topic: article
 ms.date: 05/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
-description: Ontdek hoe Microsoft Partner Network een account voor Partner Center maken om hun netwerkvoordelen en competenties te beheren.
+ms.subservice: partnercenter-enroll
+description: Ontdek hoe Microsoft Partner Network een account voor Partner Center maken om hun netwerkvoordelen en -competenties te beheren.
 author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f0cb6019dc68e4303a95bfa4f89727338b64
-ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
+ms.openlocfilehash: 6f73d510b5426f50aa595ff59813583befb8eab4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "113353734"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837370"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Een MPN-account maken in Partner Center netwerkvoordelen en -competenties te beheren
 
@@ -32,12 +32,12 @@ Wanneer u klaar bent om een account te maken op Partner Center, hebt u de volgen
 
 - Instantie voor het ondertekenen van juridische overeenkomsten. Zorg ervoor dat u gemachtigd bent om namens uw bedrijf juridische overeenkomsten te ondertekenen, aangezien u hier tijdens het inschrijvingsproces om wordt gevraagd.
 
-- Naam en bedrijfse-mailadres van de persoon die u wilt gebruiken als uw primaire contactpersoon. Om de beveiliging en privacy van uw bedrijf te waarborgen, sturen we een e-mail naar uw primaire contactpersoon om het e-mailadres te verifiëren en ervoor te zorgen dat het e-mailadres bij uw bedrijf hoort. Nadat de primaire contactpersoon het e-mailadres heeft geverifieerd, gaan we verder met het controleren van de opgegeven informatie. Verificatie duurt meestal 3-5 werkdagen. 
+- Naam en bedrijfse-mailadres van de persoon die u wilt gebruiken als uw primaire contactpersoon. Om de beveiliging en privacy van uw bedrijf te waarborgen, sturen we een e-mail naar uw primaire contactpersoon om het e-mailadres te verifiëren en ervoor te zorgen dat het e-mailadres bij uw bedrijf hoort. Nadat de primaire contactpersoon het e-mailadres heeft geverifieerd, gaan we verder met het controleren van de verstrekte informatie. Verificatie duurt meestal 3-5 werkdagen. 
 
 - Zie Accountverificatie voor meer informatie [over het verificatieproces.](verification-responses.md)
 
 > [!NOTE]
-> Als u een account in de Partner Membership Center (PMC) had, werd het gemigreerd Partner Center. Klik op voor meer informatie over [de Partner Membership Center pensioen](partner-membership-center-retirement-faq.md).
+> Als u een account in de Partner Membership Center (PMC) had, werd het gemigreerd naar Partner Center. Klik voor meer informatie over [de Partner Membership Center pensioen](partner-membership-center-retirement-faq.md).
 
 ## <a name="get-started"></a>Aan de slag
 
@@ -84,15 +84,15 @@ De volgende tabel bevat voorbeelden van de registratienummers die voor elk land 
 | **India** | Btw-nummer<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Presence AcrossSturingssystemen) PAN India Involvement betekent dat er één organisatie is die op verschillende locaties in India werkt. |
 | **Irak** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer |
 | **Kazachstan**  | BIN – Bankidentificatienummer<br>IIN – Id-nummer van vergever |
-| **Kirgistan**  | INN – Btw-nummer |
-| **Moldavië**  | IDNO: het unieke statusidentificatienummer dat is toegewezen aan de juridische entiteit (ook wel bekend als . Fiscale code).<br>IDNP: persoonlijke code voor geboorte ('Numarul de Identificare') |
+| **Kirgistan**  | INN – Belastingidentificatienummer |
+| **Moldavië**  | IDNO: het unieke statusidentificatienummer dat is toegewezen aan de juridische entiteit (ook wel bekend als . Fiscale code).<br>IDNP– Persoonlijke code geboorte ('Numarul de Identificare') |
 | **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer | 
-| **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Belastingidentificatienummer<br>[PESEL:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) het nationale identificatienummer dat wordt gebruikt in Het Pools Powszechny Moetenniczny System Ewidencji Moetennoeitci, Universal Electronic System for Registration of the Population) |
+| **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Belastingidentificatienummer<br>[PESEL:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) het nationale identificatienummer dat wordt gebruikt in Deen (Pools PowszechnyIschniczny System Ewidencji Universal Electronic System for Registration of the Population) |
 | **Rusland**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – Belastingidentificatienummer (Russisch "Individualiy Nomer Nalogoplatelshika") |
 | **Saoedi-Arabië** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Belastingidentificatienummer |
-| **Zuid-Afrika** | TRN: registratienummer voor verkeer |
+| **Zuid-Afrika** | TRN : verkeersregistratienummer |
 | **Zuid-Soedan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Belastingidentificatienummer |
-| **Tadzjikistan**  | INN – Btw-nummer<br>EIN – Identificatienummer van werkgever<br>KPP: dit is een code die de reden voor de organisatieregistratie weerspiegelt. |
+| **Tadzjikistan**  | INN – Belastingidentificatienummer<br>EIN – Identificatienummer van werkgever<br>KPP: dit is een code die de reden voor de organisatieregistratie weerspiegelt. |
 | **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |
 | **Turkije** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Btw-nummer<br>Nin |
 | **Oekraïne**  | EGRPOU<br>EDRPOU : lokale id |

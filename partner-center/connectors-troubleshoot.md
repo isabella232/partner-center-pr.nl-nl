@@ -3,17 +3,17 @@ title: Problemen met connectors voor verwijzingen voor co-verkoop oplossen
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Meer informatie over antwoorden op veelvoorkomende vragen over het gebruik van connectors voor co-verkoop. Lees deze veelgestelde vragen over het oplossen van problemen met connectors voor co-sell.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: bb7a227624c548a29046b80d3bd5fa363a4aee2f
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 5143d8e779332fd7df1ebeb3b5175658a0190f4b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276924"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838050"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Problemen met connectors voor verwijzingen voor co-verkoop oplossen
 
@@ -23,9 +23,9 @@ ms.locfileid: "112276924"
 
  ## <a name="questions-and-answers-about-pre-requisites"></a>Vragen en antwoorden over vereisten
 
-1. Kunt u een oplossing voor verwijzingsconnectoren voor proefversies voor co-verkoop gebruiken voor uw omgeving?
+1. Kunt u een oplossing voor verwijzingen voor proefversies voor co-verkoop gebruiken voor uw omgeving?
 
-Als u in de test-/faseringsomgeving bent, kunt u kiezen voor een proefoplossing. De betaalde versie van de connectors is beschikbaar in AppSource op US$ 15/maand. Met de betaalde verbinding krijgt u 10.000 API-aanroepen per dag. De connectors zijn wrappers boven op Partner Center verwijzings-API's. Wanneer de connectoroplossingen worden  uitgevoerd voor een create- of **updategebeurtenis** voor de verkoopkansen aan Partner Center of crm-zijde, wordt er een API-aanroep uitgevoerd.
+Als u in de test-/faseringsomgeving bent, kunt u kiezen voor een proefoplossing. De betaalde versie van de connectors is beschikbaar in AppSource op US$ 15/maand. Met de betaalde verbinding krijgt u 10.000 API-aanroepen per dag. De connectors zijn wrappers boven op Partner Center verwijzings-API's. Wanneer de connectoroplossingen worden  uitgevoerd  voor een gebeurtenis maken of bijwerken voor de verkoopkansen aan de Partner Center of crm-zijde, wordt er een API-aanroep uitgevoerd.
 
 2. Welke rol hebt u nodig om secties te maken in een CRM-omgeving?
 
@@ -33,7 +33,7 @@ Gebruikers die systeembeheerders of systeem customizers zijn, kunnen wijzigingen
 
 3. Hebben partnerverkopers speciale rollen nodig om aan een Partner Center?
  
-Aan partnerverkopers moet de rol Verwijzingsbeheerder zijn toegewezen. Zie Overzicht van machtigingen [voor meer informatie.](create-user-accounts-and-set-permissions.md)
+Aan partnerverkopers moet de rol Verwijzingenbeheerder zijn toegewezen. Zie Overzicht van machtigingen [voor meer informatie.](create-user-accounts-and-set-permissions.md)
 
 4. Welke velden moeten eerst worden ingesteld in uw CRM-omgeving? 
 
@@ -48,7 +48,7 @@ Als u de Power Automate wilt gebruiken, hebt u het volgende nodig:
 
 6.  Hebt u een Dynamics 365-abonnement nodig om de oplossing Salesforce Connectors te kunnen gebruiken?
 
-De Salesforce Connector-oplossing is van het type Dynamics Flow dat synchronisatie met andere CRM-systemen ondersteunt. Voor de oplossing hoeft u geen Dynamics 365-exemplaar of een abonnement te hebben. Tijdens het installeren van de Salesforce-oplossing kan er een vervolgkeuzekeuze met een bestaande CDS-omgeving in uw bedrijf worden weergegeven. U moet die omgeving selecteren. Als u de fout 'Kan geen Dynamics 365-organisatie vinden die is verbonden met een aangemelde gebruiker' krijgt, moet u bovendien een nieuwe omgeving voor de connector maken.
+De salesforce-connectoroplossing is van het type Dynamics Flow dat synchronisatie met andere CRM-systemen ondersteunt. Voor de oplossing hoeft u geen Dynamics 365-exemplaar of een abonnement te hebben. Tijdens het installeren van de Salesforce-oplossing wordt er mogelijk een vervolgkeuze met een bestaande CDS-omgeving in uw bedrijf weergegeven. U moet die omgeving selecteren. Als u bovendien de fout 'Kan geen Dynamics 365-organisatie vinden die is verbonden met een aangemelde gebruiker' krijgt, moet u een nieuwe omgeving voor de connector maken.
 
 ## <a name="questions-and-answers-about-configuration"></a>Vragen en antwoorden over configuratie
 
@@ -66,12 +66,12 @@ Volg deze stappen voor probleemoplossing:
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Foutbericht waarin aanmelding is vereist.":::
 
-Volg deze probleemoplossingsstap:
+Volg deze stap voor probleemoplossing:
 
 - Gebruik uw Partner Center om u eenmaal aan te melden bij de stroomomgeving (flow.microsoft.com).
 
 
-3. Wat moet u doen als u de volgende foutmelding krijgt tijdens het activeren van de Partner Center crm-stroom in Power Automate Platform?
+3. Wat moet u doen als u de volgende foutmelding krijgt tijdens het activeren van Partner Center crm-stroom in Power Automate Platform?
  
 :::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Foutbericht dat updates vereist.":::
 
@@ -95,7 +95,7 @@ U voegt verbindingen toe aan de stroom terwijl de stroom wordt uitgevoerd en u v
 :::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Bewerk de stroom stap voor stap.":::
 
 
-5. Wat moet u doen als de stromen van de oplossing Voor verwijzingen voor co-verkoop niet worden aan zet?
+5. Wat moet u doen als de stromen van de oplossing Connectors voor verwijzingen voor co-verkoop niet worden aan zet?
 
 A. In Power Automate moet u stromen in de volgende volgorde bewerken en bijwerken om de juiste verbindingen te gebruiken:
 
@@ -104,10 +104,10 @@ A. In Power Automate moet u stromen in de volgende volgorde bewerken en bijwerke
 - Partner Center Microsoft Co-sell Referral Updates to Salesforce (Insider Preview)
 - Partner Center naar Salesforce (Insider Preview)
 - Salesforce naar Partner Center (Insider Preview)
-- Salesforce-mogelijkheden om Partner Center (Insider Preview)
+- Salesforce Opportunity to Partner Center (Insider Preview)
 - Salesforce Microsoft Solutions to Partner Center (Insider Preview)
 
- B. Selecteer voor elk stroom de **optie Alleen gebruikers** uitvoeren. Selecteer **Verbinding gebruiken in** plaats van Opgegeven door **alleen-uitvoeren gebruiker.**  
+ B. Selecteer voor elke stroom de **optie Alleen gebruikers** uitvoeren. Selecteer **Verbinding gebruiken in** plaats van Opgegeven door **alleen-uitvoeren gebruiker.**  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Een stroom activeren.":::
 
@@ -121,13 +121,13 @@ C. Activeer de onderstaande stromen:
     
 D. Activeer alle resterende stromen.
 
-E. Selecteer uitvoeren Partner Center Flow-webhookregistratie.  Geef de **HTTP-URL van** de eerste actie in Partner Center **naar de Salesforce-stroom.** Selecteer alle vier de opties onder **Gebeurtenissen om te registreren** en selecteer **Ja** bij Overschrijven.
+E. Selecteer uitvoeren Partner Center Flow-webhookregistratie.  Geef de **HTTP-URL van** de eerste actie in **Partner Center salesforce-stroom** op. Selecteer alle vier de opties onder **Gebeurtenissen om te registreren** en selecteer **Ja** bij Overschrijven.
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Vragen en antwoorden over uitvoeren/onderhoud
 
 1. Hoe kunt u fouten oplossen tijdens het uitvoeren Power Automate stroom?
 
-Raadpleeg Stroomfouten herstellen om ervoor te zorgen dat Power Automate stromen worden uitgevoerd zoals u verwacht en fouten tijdens de uitvoering [kunt oplossen.](/power-automate/fix-flow-failures)
+Raadpleeg Stroomfouten herstellen om ervoor te zorgen dat uw Power Automate stromen worden uitgevoerd zoals u verwacht en fouten tijdens de uitvoering [kunt oplossen.](/power-automate/fix-flow-failures)
 
 2. Wat moet u doen als u verwijzingen ziet die niet goed zijn gesynchroniseerd in Partner Center crm-omgeving?
  
@@ -165,25 +165,25 @@ Hier volgen enkele van de opties die u kunt uitproberen:
 
 - U kunt naar de niet-gesynchroniseerde mogelijkheid gaan, een kleine update maken en kijken of de verwijzing is gesynchroniseerd.
 
-- Als de stromen zijn uitgevoerd en zijn mislukt, selecteert u de stroom en dient u de mislukte run opnieuw in.
+- Als de stromen zijn uitgevoerd en mislukt, selecteert u de stroom en dient u de mislukte run opnieuw in.
 
-5. Wat moet u doen wanneer er fouten optreden met toegang geweigerd?
+5. Wat moet u doen wanneer er fouten optreden bij geweigerde toegang?
 
 Zorg ervoor dat de juiste rollen bestaan
 
-- De rol van verwijzingsbeheerder voor Partner Center verkoper 
+- De rol verwijzingsbeheerder voor Partner Center verkoper 
  
 - De rol Systeembeheerder of Systeem aanpassen voor uw CRM-exemplaar
 
-- Zorg ervoor dat de Power Automate flow-account van tevoren https://flow.microsoft.com ten minste één keer aanmeldt
+- Zorg ervoor dat de Power Automate flow-account van de gebruiker zich ten minste één keer van tevoren https://flow.microsoft.com aanmeldt
 
 6. Als u ziet dat de landcode **van het klantaccount** ontbreekt tijdens het maken van een verkoopkans voor een co-verkoop, wat moet u dan doen?
 
 U moet de tweeletterig ISO-landcode toevoegen aan het klantaccount in CRM.
 
-7. Wat moet u doen als u de fout ziet dat oplossings-id **is vereist bij** het maken van een verkoopkans voor co-verkoop?
+7. Wat moet u doen als u de fout ziet dat Oplossings-id **is vereist bij** het maken van een verkoopkans voor co-verkoop?
 
-Als u een verwijzing voor co-verkoop wilt maken, hebt u een oplossing nodig die gereed is voor co-verkoop door Microsoft. 
+Als u een verwijzing voor co-verkoop wilt maken, hebt u een microsoft-oplossing nodig die gereed is voor verkoop. 
 
 8. Wat moet u doen wanneer u kansen voor co-verkoop ziet die zijn gemaakt in Partner Center die niet zijn gesynchroniseerd met CRM, ook al zijn er geen stroomfouten?
 
@@ -193,9 +193,9 @@ Ga als volgt te werk:
 
 - Als de stroom wordt aangeroepen, controleert u alle aangeroepen stromen en identificeert u de stroomuit voer die het CRM zou bijwerken. U kunt de acties volgen en controleren of het CRM is bijgewerkt of dat er een probleem is aangetroffen.
 
-- Controleer **Nieuwe deal** in Partner Center om te zien of deze wordt gevuld met crm-id.
+- Controleer **Nieuwe deal** in Partner Center om te zien of deze wordt gevuld met CRM-id.
 
-- Zorg ervoor dat de deal niet per ongeluk wordt gesloten als **Gewonnen** of Verloren **in** Partner Center.
+- Zorg ervoor dat de deal niet per ongeluk wordt gesloten als **Gewonnen** of **Verloren** in Partner Center.
 
 ## <a name="next-steps"></a>Volgende stappen
 

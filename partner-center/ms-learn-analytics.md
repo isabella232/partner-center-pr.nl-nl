@@ -3,18 +3,18 @@ title: Partner Center Insights Microsoft Learn analytics
 ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Houd de gebruikers in uw bedrijf bij door gebruik te maken van gegevens over afzonderlijke training, voltooide modules, voltooide leertrajecten en meer.
+ms.subservice: partnercenter-insights
+description: Houd de studenten in uw bedrijf bij door gebruik te maken van gegevens over afzonderlijke training, voltooide modules, voltooide leertrajecten en meer.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9f9ce631fe667030638e1a9167809e3dae69830
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: b291ee52c9c6e72dc50aab9aa386177d9778cbd1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373874"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845411"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Analyserapporten Microsoft Learn gebruiken
 
@@ -33,12 +33,12 @@ Deze grafieken geven een overzicht van het aantal en de maandelijkse cumulatieve
 **Trend-minigrafiek voor getrainde personen:** het cumulatieve aantal actieve studenten per maand 
 
 **Aantal module-voltooiingen:** aantal module-voltooiingen door de studenten in het bedrijf van de partner tijdens het geselecteerde datumbereik.
-Als module 1 bijvoorbeeld wordt voltooid door 15 personen en module 2 door dezelfde 15 personen is voltooid, is het aantal voltooiingen van de module 30. De voltooiingsdatum van de module moet binnen het geselecteerde datumbereik vallen.
+Als module 1 bijvoorbeeld wordt voltooid door 15 personen en module 2 is voltooid door dezelfde 15 personen, is het aantal voltooiingen van de module 30. De voltooiingsdatum van de module moet binnen het geselecteerde datumbereik vallen.
 
 **Trend minigrafiek voor module-voltooiingen:** cumulatief aantal module-voltooiingen per maand 
 
 **Learning** voltooiingen van het pad: aantal voltooiingen van Learning pad door de studenten in het bedrijf van de partner tijdens het geselecteerde datumbereik.
-Als het pad Learning pad 1 bijvoorbeeld is voltooid door 20 personen en het Learning-pad 'pad 2' is voltooid door dezelfde 20 personen, is het aantal voltooiingen van Learning-pad 40. De Learning van het pad moet binnen het geselecteerde datumbereik vallen.
+Als het Learning-pad 'Pad 1' bijvoorbeeld is voltooid door 20 personen en het Learning-pad 'pad 2' is voltooid door dezelfde 20 personen, is het aantal voltooiingen van Learning-pad 40. De Learning pad moet binnen het geselecteerde datumbereik vallen.
 
 **Learning minigrafiek** voor voltooiingen van het leertraject: cumulatief aantal maanden van de voltooiingen van het leertraject 
 
@@ -56,11 +56,11 @@ Deze gegevens zijn de trend van modules die gedurende die maand door alle gebrui
 
 **X-as** is maand voor het geselecteerde tijdfilter. 
 
-**Y-as** is het aantal voltooiingen van de module tijdens die maand. Dit is niet cumulatief.
+**Y-as** is het aantal module-voltooiingen gedurende die maand. Dit is niet cumulatief.
 
 ### <a name="learning-path-completions-monthly-trend"></a>Learning de maandelijkse trend voor het voltooien van het pad
 
-Deze gegevens zijn de trend in leertrajecten die de gebruikers van uw bedrijf in die maand hebben voltooid. (niet cumulatief) 
+Deze gegevens zijn de trend van leertrajecten die de gebruikers van uw bedrijf in die maand hebben voltooid. (niet cumulatief) 
 
 **X-as** is maand voor het geselecteerde tijdfilter. 
 
@@ -80,7 +80,7 @@ Het getal dat in het midden van de grafiek wordt weergegeven, is het totale aant
 
 Het getal dat wordt weergegeven in het midden van de grafiek is het aantal afzonderlijke rollen voor de voltooiing van de module. 
 
-- Voltooiingen per product: uitsplitsing van de module-voltooiingen per product waar de module aan is toegesneden. Als een module is gekoppeld aan meerdere producten, wordt elk van de producten toegevoegd aan het aantal module-voltooiingen.    
+- Voltooiingen per product: uitsplitsing van de voltooiingen van de module op het product waar de module aan is toegesneden. Als een module is gekoppeld aan meerdere producten, wordt elk van de producten toegevoegd aan het aantal module-voltooiingen.    
 
 Het getal dat in het midden van de grafiek wordt weergegeven, is het aantal afzonderlijke producten voor de voltooiing van de module.  
 
@@ -88,7 +88,7 @@ Het getal dat in het midden van de grafiek wordt weergegeven, is het aantal afzo
 
 Dit tabblad bevat een uitsplitsing van de leertrajecten die in uw bedrijf zijn voltooid op de vijf belangrijkste modulenamen; het product waar het leertraject aan is toegesneden; en de rol die relevant is voor dit leertraject.  
 
-- Learning paden voltooiingen donut grafiek: uitsplitsing van de Learning pad voltooiingen (aantal weergegeven in de samenvatting sectie) op naam.
+- Learning voltooiingen van paden donut grafiek: uitsplitsing van de Learning pad voltooiingen (aantal weergegeven in de samenvatting sectie) op naam.
 
 - Voltooiingen per rol: uitsplitsing van de voltooiingen van de leertrajecten op rol. Als een module is gekoppeld aan meerdere rollen, wordt elk van de rollen toegevoegd aan het aantal module-voltooiingen.
 
@@ -112,7 +112,7 @@ Ga als volgende te werk om de details van een gebruiker op te halen met behulp v
 
 1. Ik kan de Learn-details van mijn bedrijf niet zien.
 
-   Dit rapport is beschikbaar voor partners die een account hebben in Partner Center. Als u zich nog steeds Partner Membership Center, kunt u dit rapport niet zien.
+   Dit rapport is beschikbaar voor partners met een account in Partner Center. Als u zich nog steeds Partner Membership Center, kunt u dit rapport niet zien.
 
 2. Wie in mijn bedrijf kan dit rapport bekijken? 
 

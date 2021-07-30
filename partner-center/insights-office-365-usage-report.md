@@ -3,23 +3,23 @@ title: 'Partnercentrum: inzicht in office 365-gebruiksrapport'
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Bekijk wat u goed doet en waar u het gebruik van uw Office 365 die u voor uw klanten verkoopt of beheert, kunt verbeteren.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 094ff56c6bce3c9ac865c0b174cbfe8ff3029987
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 882b912a01301506bf163087f71bf70d0ed1aa41
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376565"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837404"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365 gebruiksrapport dat beschikbaar is via het Partner Center Insights dashboard
 
 **Juiste rollen:** Globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
-Het Office 365 bevat gebruiksgegevens voor de Office 365 abonnementen die u hebt verkocht of beheert voor uw klanten. U kunt de volgende secties bekijken in het Office 365 gebruiksrapport.
+Het Office 365 bevat gebruiksgegevens voor de Office 365 die u hebt verkocht of beheert voor uw klanten. U kunt de volgende secties bekijken in het Office 365 gebruiksrapport.
 
 - Samenvatting
 - Office 365 geografie gebruiken
@@ -40,7 +40,7 @@ De samenvattingssectie bevat een momentopnameweergave van de sleutelindicatoren 
 
 - Beschikbare seats: het totale aantal licenties dat tijdens het geselecteerde tijdsbestek is verkocht.
 
-   In de Micro-grafiek wordt een maand-over-maandtrend weergegeven van het aantal verkochte licenties tijdens het geselecteerde datumbereik.
+   De Micro-grafiek geeft een trend voor de maand-over-maand weer van het aantal verkochte licenties tijdens het geselecteerde datumbereik.
 
 - Maandelijks actieve gebruikers: het aantal gebruikers dat de workload in de vorige maand heeft gebruikt. 
 
@@ -52,7 +52,7 @@ De samenvattingssectie bevat een momentopnameweergave van de sleutelindicatoren 
 
 De **Office 365** geografie geeft de verdeling van maandelijks actieve gebruikers (MAU) en betaalde beschikbare eenheden (PAU) per land van de klant weer. MAU verwijst naar het aantal licenties dat in de vorige maand is gebruikt en PAU verwijst naar het aantal betaalde plaatsen dat tijdens het geselecteerde tijdsbestek is verkocht of beheerd. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkere kleuren hogere waarden vertegenwoordigen. U kunt een land in het raster zoeken en selecteren. U kunt ook inzoomen voor een beter beeld.
 
-De **tabel Aantal landen/regio's** geeft het totale aantal landen/regio's weer waar Azure-gebruiksgebeurtenissen worden gegenereerd.
+De **tabel Aantal landen/regio's** bevat het totale aantal landen/regio's waar Azure-gebruiksgebeurtenissen worden gegenereerd.
 
 U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie op de kaart. Selecteer de **optie Start** op de kaart om terug te keren naar de oorspronkelijke weergave.
 

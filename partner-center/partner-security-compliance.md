@@ -2,19 +2,19 @@
 title: Statusrapport van beveiligingsvereisten
 ms.date: 10/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Meer informatie over het controleren van de naleving van uw beveiligingsvereisten met het statusrapport van de beveiligingsvereisten en Partner Center MFA-rapport
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a429706848a469aace2704d4eaf3d57898ae578f
-ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+ms.openlocfilehash: db558062f5dab2a3f9ffbe99f7122a436f89d21f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112915623"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844544"
 ---
 # <a name="security-requirements-status-report"></a>Statusrapport van beveiligingsvereisten
 
@@ -22,7 +22,7 @@ ms.locfileid: "112915623"
 
 In dit artikel wordt het statusrapport van de beveiligingsvereisten in Partner Center. Dit rapport bevat metrische gegevens over naleving [van de beveiligingsvereisten van partners](partner-security-requirements.md) voor meervoudige verificatie (MFA) voor gebruikers in uw partner-tenant.
 
-Voor toegang tot dit rapport in [Partner Center](https://partner.microsoft.com/dashboard)gaat u naar **Instellingen**  >  **Accountinstellingen**  >  **Beveiligingsvereistenstatus.** Het rapport wordt dagelijks bijgewerkt en geeft de aanmeldingsgegevens van de afgelopen zeven dagen weer.
+Voor toegang tot dit rapport in [Partner Center](https://partner.microsoft.com/dashboard)gaat u **naar Instellingen**  >  **Accountinstellingen**  >  **Beveiligingsvereisten.** Het rapport wordt dagelijks bijgewerkt en geeft de aanmeldingsgegevens van de afgelopen zeven dagen weer.
 
 >[!NOTE]
 >Het statusrapport van de beveiligingsvereisten wordt alleen ondersteund in Partner Center. Het is niet beschikbaar in de Microsoft Cloud for US Government of Microsoft Cloud Duitsland. We raden u ten zeerste aan dat alle partners die via een soevereine cloud (Amerikaanse overheid en Duitsland) werken, onmiddellijk aan deze nieuwe beveiligingsvereisten voldoen. Deze partners zijn momenteel echter niet vereist om te voldoen aan de nieuwe beveiligingsvereisten. Microsoft geeft in de toekomst aanvullende informatie over het afdwingen van deze beveiligingsvereisten voor onafhankelijke clouds.
@@ -100,9 +100,9 @@ Begrijpen of uw huidige implementatie alleen MFA afdwingt onder specifieke voorw
 
 Als u een MFA-oplossing van derden gebruikt, identificeert u hoe u deze integreert met Azure AD. Over het algemeen zijn er twee methoden, waaronder federatie en aangepaste besturingselementen:
 
-* **Identiteitsfederatie:** wanneer Azure AD een verificatieaanvraag ontvangt, wordt de gebruiker door Azure AD omgeleid naar de federatie-id-provider voor verificatie. Na een geslaagde verificatie stuurt de federatief-id-provider de gebruiker terug naar Azure AD, samen met een SAML-token. Om ervoor te zorgen dat Azure AD kan herkennen dat de gebruiker MFA-verificatie heeft voltooid bij de verificatie bij de federatieve id-provider, moet het SAML-token de claim *authenticationmethodsreferences* bevatten (met de waarde *multipleauthn*). Controleer of de federatief-id-provider ondersteuning biedt voor het uitgeven van een dergelijke claim. Als dat het zo is, controleert u of de federatief-id-provider is geconfigureerd om dit te doen. Als de claim ontbreekt, weet Azure AD (en daarom Partner Center) niet dat de gebruiker de MFA-verificatie heeft voltooid en het ontbreken van de claim ertoe kan leiden dat de metrische gegevens niet 100% zijn.
+* **Identiteitsfederatie:** wanneer Azure AD een verificatieaanvraag ontvangt, wordt de gebruiker door Azure AD omgeleid naar de federatie-id-provider voor verificatie. Na een geslaagde verificatie stuurt de federatief-id-provider de gebruiker terug naar Azure AD, samen met een SAML-token. Om ervoor te zorgen dat Azure AD kan herkennen dat de gebruiker MFA-verificatie heeft voltooid bij de verificatie bij de federatieve id-provider, moet het SAML-token de claim *authenticationmethodsreferences* bevatten (met de waarde *multipleauthn*). Controleer of de federatief-id-provider de uitgifte van een dergelijke claim ondersteunt. Als dat het zo is, controleert u of de federatief-id-provider is geconfigureerd om dit te doen. Als de claim ontbreekt, weet Azure AD (en daarom Partner Center) niet dat de gebruiker de MFA-verificatie heeft voltooid en dat het ontbreken van de claim ertoe kan leiden dat de metrische gegevens niet 100% zijn.
 
-* **Aangepast beheer:** aangepast besturingselement voor Azure AD kan niet worden gebruikt om te bepalen of een gebruiker de MFA-verificatie heeft voltooid via een MFA-oplossing van derden. Als gevolg hiervan wordt elke gebruiker die de MFA-verificatie via een aangepast besturingselement heeft voltooid, altijd weergegeven in Azure AD (en op zijn beurt Partner Center) als niet is voltooid met MFA-verificatie. Indien mogelijk wordt u aangeraden over te schakelen naar identiteitsfederatie in plaats van Aangepast besturingselement wanneer u integreert met Azure AD.
+* **Aangepast besturingselement:** aangepast besturingselement voor Azure AD kan niet worden gebruikt om te bepalen of een gebruiker de MFA-verificatie heeft voltooid via een MFA-oplossing van derden. Als gevolg hiervan wordt elke gebruiker die de MFA-verificatie via een aangepast besturingselement heeft voltooid, altijd weergegeven in Azure AD (en op zijn beurt Partner Center) als niet is voltooid met MFA-verificatie. Indien mogelijk wordt u aangeraden over te schakelen naar identiteitsfederatie in plaats van Aangepast besturingselement wanneer u integreert met Azure AD.
 
 ### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>Bepalen welke gebruikers zich hebben aangemeld bij Partner Center zonder MFA
 

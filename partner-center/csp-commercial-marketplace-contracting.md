@@ -3,18 +3,18 @@ title: CSP-contracten voor commerciële marketplace
 ms.topic: article
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Meer informatie over de voorwaarden en contracten voor abonnementen op ISV-producten van derden die zijn gekocht door CSP-partners in de commerciële marketplace.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28a3b40eb3a3e037cbeb434c57a93b9a0a94e691
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4304d57e122adcfbb36cf32a302d316174b26d90
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148088"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837761"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contracten voor CSP-partners die zaken doen in de commerciële marketplace
 
@@ -38,7 +38,7 @@ Zie voor meer informatie over de voorwaarden voor CSP-activiteiten in de commerc
 
 - **Het Microsoft Partner-overeenkomst (MPA)** is van toepassing op het CSP-programma, en vervangt de bestaande MCRA en MCDA. De MPA is beschikbaar op [Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) zodat partners die ervoor kiezen om deel te nemen aan het CSP-programma deze kunnen controleren en accepteren.
   
-Microsoft accepteert geen juridische verantwoordelijkheid voor de levering van services tussen verhandelende partijen en biedt geen mechanisme voor partners om juridische voorwaarden vast te stellen via het handelsplatform. Als de partners die transacties uitvoeren aanvullende juridische voorwaarden nodig hebben, moeten ze rechtstreeks een overeenkomst uitvoeren.
+Microsoft accepteert geen juridische verantwoordelijkheid voor het leveren van services tussen verhandelende partijen en biedt geen mechanisme voor het verhandelen van partners om juridische voorwaarden vast te stellen via het handelsplatform. Als de transacties van partners aanvullende juridische voorwaarden vereisen, moeten ze rechtstreeks een overeenkomst uitvoeren.
 
 ## <a name="next-steps"></a>Volgende stappen
 

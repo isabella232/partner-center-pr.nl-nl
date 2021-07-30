@@ -3,18 +3,18 @@ title: Partner Center Insights dashboard Overzicht
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Bekijk een momentopname van hoe u het doet met verkoop en implementatie, klantgroei en omzetgroei met licenties, abonnementen en Azure-verbruik.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46a750749aeb6835c132b971b74bb9f066dc13cc
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376547"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845224"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Overzicht van dashboardrapporten die beschikbaar zijn in Partner Center Insights
  
@@ -74,7 +74,7 @@ Het **gebied Actieve abonnementen** in het overzicht omvat:
  
 ### <a name="licenses-deployed"></a>Geïmplementeerde licenties
 
-Het **gebied Licenties geïmplementeerd in** het overzicht bevat:
+Het **gebied Licenties geïmplementeerd in** het overzicht omvat:
  
 - Het aantal cloudproductlicenties dat in uw klantabonnementen is geïmplementeerd gedurende de geselecteerde periode. 
 - Het percentage groei of afname in deze licenties tijdens het geselecteerde datumbereik. 
@@ -103,7 +103,7 @@ Dit geeft de trend aan van het aantal klantabonnementen voor het geselecteerde d
 De maandelijkse trend van de in Azure verbruikte omzet in Amerikaanse dollars heeft u over het geselecteerde datumbereik toegewezen. De x-as vertegenwoordigt maanden van het geselecteerde datumbereik en de Y-as vertegenwoordigt de totale door Azure verbruikte omzet in Amerikaanse dollars die u tijdens de maand hebt toegewezen.
 
 > [!NOTE]
-> ACR is alleen zichtbaar voor gebruikers aan wie de rol Executive report viewer is toegewezen. 
+> ACR is alleen zichtbaar voor gebruikers aan wie de rol Leidinggevende rapportviewer is toegewezen. 
 
 :::image type="content" source="images/insights/azure-consumed.png" alt-text="Azure-verbruik.":::
 

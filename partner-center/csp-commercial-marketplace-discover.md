@@ -3,18 +3,18 @@ title: Aanbiedingen ontdekken - commerciële marketplace
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Meer informatie over hoe CSP-partners Partner Center marketplace kunnen bekijken of doorzoeken op SaaS-aanbiedingen of prijzen van ISV's (Independent Software Vendors).
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab30f8391df58155c8511dc628b1fefd94c8d768
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bd1f9d0a881021fc97bbf94eb190acb6e6e69f14
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147969"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837744"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Aanbiedingen en prijzen ontdekken in Partner Center commerciële marketplace
 
@@ -24,7 +24,7 @@ Wanneer Onafhankelijke softwareleveranciers (ISV's) ervoor kiezen om een aanbied
 
 Als een ISV-aanbieding niet wordt weergegeven zoals u verwacht in Partner Center, kan dit het volgende zijn:
 
-- De ISV heeft besloten de aanbieding niet te verkopen via het CSP-programma. Sommige ISV-producten zijn bijvoorbeeld beschikbaar gesteld in andere gebieden van de commerciële marketplace (zoals in [Microsoft AppSource](https://appsource.microsoft.com/) en [Azure Marketplace),](https://azuremarketplace.microsoft.com/)maar worden mogelijk niet weergegeven voor partners in het CSP-programma in Partner Center Marketplace.
+- De ISV heeft besloten de aanbieding niet te verkopen via het CSP-programma. Sommige ISV-producten zijn bijvoorbeeld beschikbaar gesteld in andere gebieden van de commerciële marketplace (zoals in [Microsoft AppSource](https://appsource.microsoft.com/) en [Azure Marketplace](https://azuremarketplace.microsoft.com/)), maar worden mogelijk niet weergegeven voor partners in het CSP-programma in Partner Center Marketplace.
 
 - De ISV heeft besloten om de aanbieding exclusief te maken voor een select aantal CSP-partners. Zie verder in dit Help-onderwerp voor meer informatie over exclusieve aanbiedingen.
 
@@ -58,11 +58,11 @@ Beschikbare commerciële marketplace-aanbiedingen in het CSP-programma weergeven
 
     - Een lijst met SKU's of abonnementen die beschikbaar zijn voor de aanbieding
 
-    - Prijzen voor elke beschikbare SKU of elk beschikbaar abonnement
+    - Prijzen voor elke beschikbare SKU of abonnement
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Marketplace-aanbiedingen weergeven via Partner Center API's
 
-CSP-programmapartners kunnen ook API's gebruiken om een lijst met in aanmerking komende aanbiedingen te retourneren. In aanmerking komende aanbiedingen zijn alleen die SaaS ISV-aanbiedingen die de partner kan verkopen via Partner Center marketplace. Voor partners die API's gebruiken om aanbiedingen in de catalogus te identificeren, raadpleegt u de richtlijnen voor het verkrijgen van een lijst [met aanbiedingen voor een markt.](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)
+CSP-programmapartners kunnen ook API's gebruiken om een lijst met in aanmerking komende aanbiedingen te retourneren. In aanmerking komende aanbiedingen zijn alleen die SaaS ISV-aanbiedingen die beschikbaar zijn voor de partner om te verkopen via Partner Center marketplace. Voor partners die API's gebruiken om aanbiedingen in de catalogus te identificeren, raadpleegt u de richtlijnen voor het verkrijgen van een lijst [met aanbiedingen voor een markt.](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Bekijk de meest recente prijzen voor Marketplace-Partner Center
 
@@ -80,11 +80,11 @@ Volg deze stappen voor de meest recente prijsinformatie die is gekoppeld aan een
 
     - In de andere rij ziet u de prijs en voorwaarden die van toepassing zijn nadat de gratis proefperiode is afgelopen.
 
-Als CSP-programmapartner komt u mogelijk in aanmerking voor andere incentives die zijn gekoppeld aan bepaalde aanbiedingen op de commerciële marketplace. Zie de [CSP Incentive Guide (CSP-aanmeldgegevens](https://aka.ms/partnerincentives) vereist) voor meer informatie over andere incentives.
+Als CSP-programmapartner komt u mogelijk in aanmerking voor andere incentives die zijn gekoppeld aan bepaalde aanbiedingen op de commerciële marketplace. Zie de [CSP Incentive Guide (CSP-aanmelding](https://aka.ms/partnerincentives) vereist) voor meer informatie over andere incentives.
 
 ## <a name="learn-about-marketplace-exclusive-offers"></a>Meer informatie over exclusieve Marketplace-aanbiedingen
 
-ISV's hebben de mogelijkheid om hun aanbiedingen alleen beschikbaar te maken voor specifieke partners in het CSP-programma. Dit staat bekend als een exclusieve aanbieding. Alle partners in het CSP-programma kunnen nog steeds alle ISV-aanbiedingen weergeven in Partner Center commerciële marketplace, inclusief de aanbiedingen die zijn gemarkeerd als Exclusief.
+ISV's hebben de mogelijkheid om hun aanbiedingen alleen beschikbaar te maken voor specifieke partners in het CSP-programma. Dit staat bekend als een exclusieve aanbieding. Alle partners in het CSP-programma kunnen nog steeds alle ISV-aanbiedingen weergeven in Partner Center commerciële marketplace, met inbegrip van de aanbiedingen die zijn gemarkeerd als Exclusief.
 
 Als een aanbieding **niet** is gemarkeerd als Exclusief, kunnen alle partners die aanbieding kopen (ervan uitgaande dat het factureringsland van de geselecteerde klant overeenkomt met de landbeschikbaarheid van de ISV-aanbieding).
 

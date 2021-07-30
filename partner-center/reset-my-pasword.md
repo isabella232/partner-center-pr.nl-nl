@@ -3,18 +3,18 @@ title: Mijn wachtwoord opnieuw instellen
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Meer informatie over het opnieuw instellen van Partner Center wachtwoord of hulp krijgen van de globale beheerder van uw bedrijf. Meer informatie over het toevoegen van een nieuwe Partner Center globale beheerder.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db178f668efcf519264d9ba46dbcb5277cc5b8cd
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c26c33947e35e83f643c6ef1c6ddf74dab460f6d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855519"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844459"
 ---
 # <a name="reset-my-password"></a>Mijn wachtwoord opnieuw instellen
  
@@ -37,7 +37,7 @@ Als u deze methode wilt gebruiken, moet uw globale beheerder al de mogelijkheid 
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Als uw globale beheerder het bedrijf heeft verlaten
 
-Als uw globale beheerder uw bedrijf heeft verlaten of is overgegaan naar een andere rol en u een nieuwe globale beheerder moet toevoegen, moet u een serviceaanvraag in de [Microsoft Partner Network-portal.](https://partner.microsoft.com/commercial#/) De ondersteuningsagent kan vragen om benodigde bevoegdheden van een gebruiker bij de globale beheerder als uw requestor de vereiste persoonlijke identiteitsgegevens kan verstrekken en aanvullende informatie over uw bedrijf kan verstrekken. 
+Als uw globale beheerder uw bedrijf heeft verlaten of is overgegaan naar een andere rol en u een nieuwe globale beheerder moet toevoegen, moet u een serviceaanvraag aanmelden op de [Microsoft Partner Network portal.](https://partner.microsoft.com/commercial#/) De ondersteuningsagent kan vragen om benodigde bevoegdheden van een gebruiker aan de globale beheerder als uw requestor de vereiste persoonlijke identiteitsgegevens kan verstrekken en aanvullende informatie over uw bedrijf kan verstrekken. 
 
 ## <a name="next-steps"></a>Volgende stappen
 

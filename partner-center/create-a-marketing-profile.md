@@ -3,18 +3,18 @@ title: Verkoop leads op halen - een bedrijfsprofiel maken
 ms.topic: article
 ms.date: 03/09/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Meer informatie over het krijgen van verkoop leads van Microsoft. Eén sleutel is het maken van een bedrijfsprofiel in Partner Center waarmee klanten u gemakkelijker kunnen vinden.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 51d55e14a00e17ed277bdc61aeb0ef64fbcbeac0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148197"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837999"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Een bedrijfsprofiel maken om Microsoft-verkoop leads te krijgen en klanten te helpen u te vinden
 
@@ -22,13 +22,13 @@ ms.locfileid: "110148197"
 
 Als gekwalificeerde Microsoft-partner kunt u een bedrijfsprofiel maken om uw bedrijf te laten zien aan klanten die op zoek zijn naar uw unieke oplossingen en expertise om aan hun zakelijke behoeften te voldoen.
 
-Microsoft betrek miljoenen klanten elk jaar via marketing-, verkoop- en service-inspanningen. De meeste van deze betrokkenheiden bieden ons mogelijkheden om verwijzingen naar onze partners te bieden in de vorm van verkoop leads. 
+Microsoft betrek miljoenen klanten elk jaar via marketing-, verkoop- en service-inspanningen. De meeste van deze betrokkenheiden bieden ons mogelijkheden om verwijzingen naar onze partners te bieden in de vorm van verkoopkansen. 
 
 Het maken van een bedrijfsprofiel is de eerste stap voor het verkrijgen van verwijzingen. We laten uw profiel zien aan klanten die op zoek zijn naar partners die hen kunnen helpen bij het implementeren van Microsoft-producten en -oplossingen, via:
 
 - **Zoekervaring [voor een oplossingsprovider](https://www.microsoft.com/solution-providers/home) zoeken.** Potentiële klanten kunnen partnervermeldingen zelf zoeken om partners te vinden die voldoen aan hun zoekcriteria.
 
-- **Verwijzingen van Microsoft-verkoop- en servicemedewerkers**. Potentiële klanten die geïnteresseerd zijn in het implementeren van cloudtechnologieoplossingen, nemen contact op met Microsoft voor hulp bij het vinden van professionals die kunnen voldoen aan hun bedrijfsbehoeften. Deze Microsoft-professionals kunnen potentiële klanten dan naar uw bedrijf verwijzen.
+- **Verwijzingen van Microsoft-verkoop- en servicemedewerkers**. Potentiële klanten die geïnteresseerd zijn in het implementeren van cloudtechnologieoplossingen, nemen contact op met Microsoft voor hulp bij het vinden van professionals die aan hun bedrijfsbehoeften kunnen voldoen. Deze Microsoft-professionals kunnen potentiële klanten dan naar uw bedrijf verwijzen.
 
 ## <a name="create-a-profile"></a>Een profiel maken
 
@@ -37,7 +37,7 @@ Het maken van een bedrijfsprofiel is de eerste stap voor het verkrijgen van verw
 
 Maak profielen voor elke regio waarin u gemachtigd bent om zaken te doen.
 
-1. Selecteer in **Partner Center** menu **VerwijzingenBedrijfsprofielen** een &gt;  &gt; land/regio om > **[bedrijfsprofiel te maken.](https://partner.microsoft.com/referrals/businessprofiles/)**
+1. Selecteer in **Partner Center** menu **VerwijzingenBedrijfsprofielen** een &gt;  &gt; land/regio > Een **[bedrijfsprofiel maken.](https://partner.microsoft.com/referrals/businessprofiles/)**
 
 2. Selecteer op **de pagina Een bedrijfsprofiel** maken een regio en voer vervolgens uw profielgegevens in.
    > [!NOTE]  
@@ -53,11 +53,11 @@ Uw beschrijving mag maximaal 2500 tekens lang zijn. Tips voor een goede beschrij
 
 -  **Wees kort,** vooraan met wat belangrijk is in de eerste zin of twee. Dit moet de kop zijn die de aandacht van klanten trekt. In de zoekervaring Een partner zoeken wordt de eerste regel of twee weergegeven in de voorbeeldweergave van de zoekresultaten.
 -  **Richt u op de ervaringen van uw bedrijf met microsoft-specifieke aanbiedingen.** Klanten die naar verwijzingen zoeken, zijn doorgaans op zoek naar partners met een specifieke Microsoft-ervaring.
--  **Gebruik opsommingstekens**. Informatie ops delen in lijsten met opsommingstekens om het scannen te vereenvoudigen.
+-  **Gebruik opsommingstekens.** Informatie ops delen in lijsten met opsommingstekens om het scannen te vereenvoudigen.
 -  **Vermijd jargon**. Gebruik eenvoudige, alledaagse taal en noem uw aanbiedingen voor wat ze doen: de bedrijfsbehoeften die ze aanpakken, of de taak of doelstelling die ze klanten helpen bereiken.
 -  **U hoeft zich geen zorgen te maken over het invullen van de beschrijving met zoektermen.** De zoekhulpprogramma's van klanten zoeken naar trefwoorden die zijn gegenereerd in de sectie Partnerexpertise, niet de beschrijving.
 -  **Houd uw profiel actueel.** Werk bij elke software- of serviceversie uw profiel bij, zodat het gesynchroniseerd blijft met de website van uw bedrijf.
--  Verwijs niet op naam naar een ander partnerbedrijf van **Microsoft,** tenzij het een dochteronderneming is of anderszins is gelieerd aan uw bedrijf, of u een huidige overeenkomst hebt met dat partnerbedrijf om samen te werken en/of elkaar te promoten voor gedeelde werkkansen.
+-  Verwijs niet op naam naar een ander partnerbedrijf van **Microsoft,** tenzij het een dochteronderneming is of anderszins is verbonden met uw bedrijf, of u hebt een huidige overeenkomst met dat partnerbedrijf om samen te werken en/of elkaar te promoveren voor gedeelde werkkansen.
 -  **Voor regio's met meerdere talen kunt** u overwegen om tekst uit meerdere talen op te geven in de beschrijving.
 
 #### <a name="linkedin-company-page-more-ways-to-connect"></a>LinkedIn-bedrijfspagina: meer manieren om verbinding te maken
@@ -66,7 +66,7 @@ Voeg uw LinkedIn-bedrijfspagina toe om uw verbindingen met potentiële klanten t
 
 Wanneer u deze koppeling op neemt, kunnen klanten snel meer over uw organisatie bekijken via het LinkedIn-platform.
 
-Als u nog geen LinkedIn-bedrijfspagina hebt, kunt u er [nu een maken.](https://www.linkedin.com/company/setup/new/)
+Als u nog geen LinkedIn-bedrijfspagina hebt, kunt u [er nu een maken.](https://www.linkedin.com/company/setup/new/)
 
 ### <a name="partner-expertise"></a>Partnerexpertise
 
@@ -87,7 +87,7 @@ Andere tags die worden gebruikt voor zoeken:
 
 #### <a name="target-size"></a>Doelgrootte
 
-U kunt zich afkeert van verwijzingen van bedrijven die niet voldoen aan de klantgrootte van uw doel.
+U kunt zich afkeert van verwijzingen van bedrijven die niet voldoen aan de grootte van uw doelklant.
 
 Als u zich afgeeft, hebt u meer tijd om te besteden aan bedrijven die overeenkomen met de bedrijven waar u liever mee werkt.
 
@@ -101,7 +101,7 @@ Wanneer u klaar bent met het  bijwerken van de locatiegegevens, selecteert u Dez
 
 Elke locatie die u toevoegt, wordt een afzonderlijke profielpagina. Wanneer u profielpagina's bijwerkt, moet u deze bijwerken voor elke locatie.
 
-Als u het adres van een locatie wilt bijwerken, moet u **eerst De** locatie verwijderen en opnieuw toevoegen.
+Als u het adres van een locatie wilt bijwerken, moet u eerst **De** locatie verwijderen en opnieuw toevoegen.
 
 Als u op vijf bovenste locaties bent en u er een moet **wijzigen,** verwijdert u eerst een bestaande locatie en voegt u de nieuwe locatie toe.
 
@@ -113,7 +113,7 @@ Nadat u uw profiel hebt [](https://www.microsoft.com/solution-providers/home) ge
 
 - **[Snel reageren op aanvragen](manage-leads.md)**. Wanneer u een verwijzing van de klant ontvangt, kan een snellere reactie leiden tot betere resultaten op de zoekpagina's voor toekomstige klanten.
 
-- **Wees selectief met uw tags**.  Het is beter om minder tags te hebben die het beste de aanbiedingen, oplossingen, waardeaanbiedingen en unieke positie van uw bedrijf vertegenwoordigen, waar u consistent succes kunt aantonen.  Dat levert winst op in toekomstige zoekresultaten.
+- **Wees selectief met uw tags**.  Het is beter om minder tags te hebben die het beste de aanbiedingen, oplossingen, waardeaanbiedingen en unieke positie van uw bedrijf vertegenwoordigen, waar u consistent succes kunt aantonen.  Dat levert in toekomstige zoekresultaten uitkomst op.
 - **Ver verdienen competentietags** via Microsoft om uw vaardigheid in onze producten te demonstreren.
 
 ## <a name="next-steps"></a>Volgende stappen

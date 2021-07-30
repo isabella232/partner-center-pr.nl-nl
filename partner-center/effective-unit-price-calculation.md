@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 04/02/2021
 description: Meer informatie over de effectieve eenheidsprijs en hoe deze wordt berekend. Dit artikel bevat ook een voorbeeldberekening.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4148e9be6ab5bd3e5a146c0ed5479d8ad9723204
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147119"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837319"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Berekening van de effectieve eenheidsprijs voor azure-planverbruik
 
@@ -22,7 +22,7 @@ ms.locfileid: "110147119"
 
 ## <a name="the-effective-unit-price"></a>De effectieve eenheidsprijs
 
-De effectieve eenheidsprijs wordt berekend op meterniveau (in tegenstelling tot het resourceniveau) en wordt dagelijks aangepast op basis van het metergebruik.
+De effectieve eenheidsprijs wordt berekend op meterniveau (in tegenstelling tot het resourceniveau) en wordt dagelijks aangepast op basis van metergebruik.
 
 We berekenen de effectieve eenheidsprijs aan de hand van de volgende drie factoren:
 
@@ -50,13 +50,13 @@ In de tabel zijn de volgende waarden van toepassing:
 
 - **BCU** = Factureerbare verbruikseenheid voor de meter
 
-- **BC** = Factureerbare kosten voor de meter = BCU * UP * 0,85. Dit weerspiegelt een aanpassing voor de PEC-korting van 15%. Vervolgens gebruiken we de onderste limiet van de functie om de waarde te beperken tot twee cijfers achter het decimaalteken om het minimumbedrag in rekening te brengen. 
+- **BC** = Factureerbare kosten voor de meter = BCU * UP * 0,85. Dit weerspiegelt een aanpassing voor de PEC-korting van 15%. Vervolgens gebruiken we de ondergrens van de functie om de waarde te beperken tot twee cijfers achter het decimaalteken om het minimumbedrag in rekening te brengen. 
 
 - **Effectieve eenheidsprijs** = BCU/BC
 
 >[!NOTE]
 
->Opmerking: De meter in dit voorbeeld heeft geen prijscategorie of andere kortingen: de effectieve eenheidsprijs houdt rekening met kortingspercentages en andere aanpassingen.
+>Opmerking: de meter in dit voorbeeld heeft geen prijscategorie of andere kortingen: de effectieve eenheidsprijs is afhankelijk van kortingspercentages en andere aanpassingen.
 
 
 | Datum | BCU (factureerbare verbruikseenheid) | BC (factureerbare kosten) | Effectieve eenheidsprijs |

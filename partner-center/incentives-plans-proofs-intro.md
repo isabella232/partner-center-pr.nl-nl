@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d315ac84f73676f8ef21d3fc5a1cded80fb32e4d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146745"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845258"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Gebruik deze resources om incentives-plannen en bewijs van uitvoering te maken
 
@@ -48,5 +48,5 @@ Meer informatie over het maken van een bewijs van uitvoering | [Uw bewijs van ui
 ## <a name="next-steps"></a>Volgende stappen
 
 - Meer informatie over [het maken van uw eigen abonnement](incentives-create-your-plan.md)
-- Meer informatie over het [proces van claims voor incentives voor samenwerking](claims-overview.md)
-- Meer informatie over [incentives voor klantorganisaties met behulp van het CPOR-model](submit-osa-claim.md)
+- Meer informatie over het [proces voor coöpclaims voor incentives](claims-overview.md)
+- Meer informatie over [incentives-klant verbanden met behulp van het CPOR-model](submit-osa-claim.md)

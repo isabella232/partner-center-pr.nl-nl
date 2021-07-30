@@ -1,20 +1,20 @@
 ---
-title: Gecrediteerd worden voor bronbelasting
+title: Gecrediteerd krijgen voor bronbelasting
 ms.topic: article
 ms.date: 06/05/2020
-description: Ontvang tegoed op uw Partner Center voor belasting. Informatie omvat stappen voor het indienen van een aanvraag voor belasting.
+description: Ontvang tegoed op uw Partner Center rekening voor belasting. Informatie omvat stappen voor het indienen van een aanvraag voor belasting.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05bf6e09c5dc5982c3faa3e426f7b99acfc09949
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: a033b474a472a1737a2d6d171ee98c1c1bdf1317
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431726"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844749"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Tegoed ontvangen op uw Partner Center-account voor belasting
 
@@ -39,13 +39,13 @@ Volg deze stappen om een nieuwe belasting in te dienen:
 
 3. Selecteer **Nieuwe verzenden** naast de factuur voor wie u een machtiging wilt indienen. Met de koppeling Nieuwe belasting indienen gaat u naar **de pagina Nieuwe aanvraag voor belasting.**
 
-   :::image type="content" source="images/wht1.png" alt-text="Verzend Nieuwe belasting voor een factuur.":::
+   :::image type="content" source="images/wht1.png" alt-text="Dien Nieuwe belasting in voor een factuur.":::
 
 4. Controleer de factuurgegevens om te controleren of u de aanvraag voor de juiste factuur indient.
 
-   :::image type="content" source="images/wht2.png" alt-text="Vul de belastinggegevens voor een factuur in.":::
+   :::image type="content" source="images/wht2.png" alt-text="Vul de details van de belasting in voor een factuur.":::
 
-5. Voer het totaal van holding in onder **Holding details**. Het totaal van de holding is het bedrag dat u verwacht te worden gecrediteerd.
+5. Voer het totaal van holding in onder **Details van holding**. Het totaal van de holding is het bedrag dat u verwacht te worden gecrediteerd.
 
 6. **Voeg een** belastingcertificaat toe. U moet een digitale kopie van **uw** **bronbelastingcertificaat** opnemen in uw aanvraag voor belasting. U hebt dit certificaat ontvangen van uw lokale belastinginstantie toen u uw belastingen aan uw lokale btw-instantie betaalt. Het factuurbelastingbedrag in het certificaat voor bronbelasting moet overeenkomen met het totale bedrag in uw aanvraag voor belasting.
 
@@ -74,38 +74,38 @@ Het beoordelingsteam kan vereisen dat u correcties moet toepassen en een aanvraa
 
 6. Bekijk de opmerkingen van de revisoren waarin wordt belicht wat er moet worden gewijzigd.
 
-7. Maak de correcties door een bijgewerkt certificaat opnieuw in te sturen of door de achterhoudende bedragen aan te passen.
+7. Maak de correcties door een bijgewerkt certificaat opnieuw in te sturen of de achterhoudende bedragen aan te passen.
 
 8. **Verzend** de aanvraag.
 
-Als de aanvraag wordt ingediend, wordt deze terugverzend naar het beoordelingsteam, waar de aanvraag wordt goedgekeurd of om meer wijzigingen wordt gevraagd.
+Als de aanvraag wordt ingediend, wordt deze terugverzend naar het beoordelingsteam waar de aanvraag wordt goedgekeurd of om meer wijzigingen wordt gevraagd.
 
 ### <a name="approved-requests"></a>Goedgekeurde aanvragen
 
 Goedgekeurde aanvragen voor belasting worden uitgevoerd op uw volgende factuur, door het verschuldigde bedrag af te schrijven. Aanvragen die zijn gemarkeerd als **Voltooid,** moeten binnen tien werkdagen worden toegepast. 
 
-Gew cleared bedragen worden weergegeven in de sectie **Factureringspagina factureringsgeschiedenis.** De gewiste bedragen worden in de kolom **Laatste betaling** naast de factuur vermeld waar de aanvraag naar is verzonden.
+Gew cleared bedragen worden weergegeven in de sectie **Factureringsgeschiedenis van de factureringspagina.** De gewiste bedragen worden in de kolom **Laatste betaling** naast de factuur vermeld waar de aanvraag naar is verzonden.
 
    > [!IMPORTANT]
    > Eerdere facturen worden niet opnieuw geherindigd of opnieuw uitgegeven. Het duidelijke bedrag wordt gewoon toegepast op de betalingen van de vorige maanden.
 
 Het verwerken van de aanvragen voor belasting moet twee dagen duren, ervan uitgaande dat het belastingcertificaat en het juiste bedrag juist zijn. Als er wijzigingen vereist zijn, duurt dit langer vanwege de correcties die moeten worden aangebracht en opnieuw moeten worden ingediend.
 
-Als u vragen hebt over het aanvraagproces voor het aanvragen van bronbelasting, dient u een ticket in bij de ondersteuning van de partner. U hebt de aanvraag-id voor holding nodig om vragen op te lossen.
+Als u vragen hebt over het aanvraagproces voor de bronbelasting, dient u een ticket in bij de ondersteuning van de partner. U hebt de aanvraag-id voor holding nodig om vragen op te lossen.
 
 ## <a name="german-tax-withholding"></a>Duitse belasting
 
 Partners die aanvragen voor Duitse belasting indienen, moeten onthouden om harde kopieën van uw bronbelastingcertificaat naar het volgende adres te verzenden:
 
-- ATTN: EOC Tax TeamPoe Gannon
+- ATTN: EOC Tax Team Moete Gannon
 - Microsoft EMEA Operations Centre
 - Eén Microsoft-plaats,
 - South County Business Park
-- 18, Dublin, Ierland
+- 18, Dublin 18, Ierland
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Vragen en hulp bij aanvragen voor belasting
 
-Partners moeten het nieuwe proces dat hierboven wordt beschreven, gebruiken om nieuwe aanvragen in te dienen en geen ondersteuningsaanvragen meer te maken voor nieuwe aanvragen voor belasting. Partners met meer vragen over aanvragen voor belasting kunnen [ondersteuningsaanvragen indienen.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Ondersteuningsaanvragen zijn bedoeld om partners te helpen bij bestaande aanvragen, zodat ze hun **aanvraag-id** nodig hebben om een nieuw ticket in te dienen. Als partners geen aanvraag kunnen indienen met behulp van het nieuwe proces, moeten ze een aantal (alle enen) invoeren in het formulier voor ondersteuningsaanvraag. 
+Partners moeten het hierboven beschreven nieuwe proces gebruiken om nieuwe aanvragen in te dienen en geen ondersteuningsaanvragen meer te maken voor nieuwe aanvragen voor belasting. Partners met meer vragen over aanvragen voor belasting kunnen [ondersteuningsaanvragen indienen.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Ondersteuningsaanvragen zijn bedoeld om partners te helpen bij bestaande aanvragen, zodat ze hun **aanvraag-id** moeten hebben om een nieuw ticket te kunnen indienen. Als partners geen aanvraag kunnen indienen met behulp van het nieuwe proces, moeten ze een aantal (alle enen) invoeren in het formulier voor ondersteuningsaanvraag. 
 
    > [!IMPORTANT]
    > Partners hoeven geen contact op te nemen met de ondersteuning als hun aanvraagstatus **Voltooid is.** Deze status wordt vermeld in de **factureringsgeschiedenis** naast de factuur voor de verzending. **De laatste betalingsbedragen** naast de factuur moeten het holdingbedrag weerspiegelen binnen tien dagen nadat de aanvraag is gemarkeerd als **Voltooid.**

@@ -3,18 +3,18 @@ title: Partner Center Insights - productlicenties
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Bekijk dit productlicentierapport en leer hoe u de gelicentieerde cloudproducten die u voor uw klanten verkoopt of beheert, kunt verbeteren.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb98f8ca54636c55f6ca4d654478a94f340edd89
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376536"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845190"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport Productlicenties in het Partner Center Insights dashboard
 
@@ -32,7 +32,7 @@ Het rapport Productlicenties bevat licentieanalyses voor cloudproducten op basis
 
 ## <a name="summary"></a>Samenvatting
 
-De samenvattingssectie bevat een momentopname van key performance indicators (KPI's) die zijn gekoppeld aan verkochte, geïmplementeerde en gebruikte cloudproductlicenties. Dit helpt u bij het bijhouden van het actieve gebruik op basis van de licenties die aan uw klanten zijn verkocht.
+De samenvattingssectie bevat een momentopname van key performance indicators (KPI's) die zijn gekoppeld aan verkochte, geïmplementeerde en gebruikte cloudproductlicenties. Dit helpt u bij het bijhouden van het actieve gebruik op basis van de licenties die aan uw klanten worden verkocht.
 
 :::image type="content" source="images/insights/licenses-report-summary.png" alt-text="samenvatting licentierapport.":::
 
@@ -59,13 +59,13 @@ In **de geografische spreidingsweergave** Licenties ziet u de geografische distr
 
 **Het aantal landen/regio's** geeft het totale aantal landen/regio's weer waar u huidige en actieve klantlicenties hebt.
 
-U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie op de kaart. Druk op **de optie** Start op de kaart om terug te keren naar de standaardweergave. Beweeg de muisaanwijzer over de kaart om huidige licenties en actieve licenties per klantland weer te bieden. Beide velden in het raster zijn sorteerbaar.
+U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie op de kaart. Druk op **de optie** Start op de kaart om terug te keren naar de standaardweergave. Beweeg de muisaanwijzer over de kaart om de huidige licenties en actieve licenties per klantland weer te bieden. Beide velden in het raster zijn sorteerbaar.
 
 :::image type="content" source="images/insights/licenses-report-geo-spread.png" alt-text="geografische spreiding van licentie.":::
 
 ## <a name="license-adds"></a>Licentie toegevoegd
 
-In deze weergave ziet u de trend van licenties die zijn toegevoegd tijdens het geselecteerde datumbereik. 
+Deze weergave toont de trend van licenties die zijn toegevoegd tijdens het geselecteerde datumbereik. 
 
 Als u de trend per product en service/workload wilt presenteren, selecteert u  een Product bovenaan het scherm en een service/workload in de vervolgkeuzelijst SKU's.
 
@@ -75,13 +75,13 @@ De X-as vertegenwoordigt maanden van het geselecteerde datumbereik. De Y-as vert
 
 ## <a name="license-distribution"></a>Licentiedistributie
 
-In deze weergave ziet u een uitsplitsing van uw klantlicenties per product en land/regio van de klant. Wanneer u een product selecteert in het cirkeldiagram Licentie per **product,** ziet u in het aangrenzende diagram een uitsplitsing van licenties per klantregio.
+In deze weergave ziet u een uitsplitsing van uw klantlicenties per product en land/regio van de klant. Wanneer u een product selecteert in het cirkeldiagram Licentie per **product,** wordt in het aangrenzende diagram een uitsplitsing van licenties per klantregio weergegeven.
 
 :::image type="content" source="images/insights/licenses-report-license-distribution.png" alt-text="licentiedistributie.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).
+Zie voor meer rapporten [Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
 > U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in Insights dashboard. [Meer informatie](insights-download-reports.md)

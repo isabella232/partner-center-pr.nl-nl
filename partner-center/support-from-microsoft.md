@@ -3,22 +3,22 @@ title: Ondersteuning van Microsoft
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-support
 description: Wanneer u problemen hebt met een Microsoft-service of met Partner Center, kunt u voor hulp naar Microsoft escaleren en het probleem volgen totdat het is opgelost.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bc9f52cd015e8c1f7b8b91fd72d58f2445a3fce8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854771"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844957"
 ---
 # <a name="support-from-microsoft"></a>Ondersteuning van Microsoft
 
-**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
+**Van toepassing op**: Partner Center | Partner Center voor Microsoft Cloud for US Government
 
 **Juiste rollen:** Helpdeskagent
 
