@@ -3,18 +3,18 @@ title: Insights Trainingsdashboard
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Het dashboard Partner Center training verkennen. Training is een van de rapporten die beschikbaar zijn in het Partner Center Insights (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b80944074666a161a4f5794a3c35ed3ca2d6376
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 8749bdc1c2249f97d5db288f953eded1c4c06b02
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376487"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843167"
 ---
 # <a name="trainings-dashboard"></a>Trainingsdashboard
 
@@ -28,7 +28,7 @@ Het trainingsdashboard biedt inzicht in de certificeringen, evaluaties en onderz
 - Activiteitsgegevens
 
 >[!NOTE] 
->Dit rapport is beschikbaar onder de Insights hub in Partner Center. Als u dit rapport wilt weergeven, moet aan u de rol rapportviewer of executive rapportviewer zijn toegewezen. Enkele secties van dit rapport zijn alleen zichtbaar voor gebruikers die Executive Report Viewers zijn. Zie PCI-rollen voor meer informatie over Insights toegangsbeheer voor de [rapporten.](insights-roles.md)
+>Dit rapport is beschikbaar onder Insights hub in Partner Center. Als u dit rapport wilt weergeven, moet u de rol rapportviewer of executive rapportviewer toegewezen krijgen. Enkele secties van dit rapport zijn alleen zichtbaar voor gebruikers die Executive Report Viewers zijn. Zie PCI-rollen voor meer informatie over Insights toegangsbeheer voor de [rapporten.](insights-roles.md)
 
 ## <a name="summary"></a>Samenvatting
 

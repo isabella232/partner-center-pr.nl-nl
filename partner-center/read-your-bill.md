@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 description: Meer informatie over uw factuur- & afstemmingsbestanden. Uw factuur toont Partner Center kosten voor het programma, de producten en klanten voor die maandelijkse periode.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbdf85d20e15841189191d6b415b54c26378850e
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 839f6f76e7efde4f0ad51375ceb5801f925c2510
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551194"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842164"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Inzicht in uw factuur- en afstemmingsbestand - informatie over hoe u deze kunt vinden in Partner Center
 
@@ -22,7 +22,7 @@ ms.locfileid: "112551194"
 **Juiste rollen:** globale | Factureringsbeheerder | Beheeragent
 
 
-Uw **factuur** is een **overzicht van al** uw Partner Center kosten (voor het hele programma, alle producten en alle klanten). 
+Uw **factuur** is een **overzicht van al uw Partner Center** kosten (voor het programma, alle producten en alle klanten). 
 
 ## <a name="find-your-bill-and-reconciliation-file"></a>Uw factuur- en afstemmingsbestand zoeken 
 
@@ -40,11 +40,11 @@ Vorige facturen vindt u in de sectie Factureringsgeschiedenis. Kies het juiste j
 
 ## <a name="invoice-types"></a>Factuurtypen
 
-Microsoft geeft één factuur uit voor kosten op basis van licenties (zoals Office 365) en kosten op basis van gebruik (zoals Azure) en een afzonderlijke factuur voor een time-kosten (zoals Azure RI, Marketplace of Azure-abonnement).
+Microsoft zal één factuur uitgeven voor kosten op basis van licenties (zoals Office 365) en kosten op basis van gebruik (zoals Azure) en een afzonderlijke factuur voor een time-kosten (zoals Azure RI, Marketplace of Azure-plan).
 
 Bijvoorbeeld:  
 
-**Scenario 1 [enkele valuta]**: Partner heeft aankopen voor 145P-aanbieding en Office 365-licenties,  
+**Scenario 1 [enkele valuta]**: Partner heeft aankopen voor 145P-aanbieding en Office 365 licenties,  
 
 - Partner ontvangt één PDF-factuur en twee afstemmingsbestanden voor de kosten voor zowel Office 365 als Azure (145p).  
 
@@ -52,7 +52,7 @@ Bijvoorbeeld:
 
 - Partner ontvangt één PDF-factuur en één afstemmingsbestand voor de kosten voor Azure (145p). 
 
-- Partner ontvangt een ander PDF-factuurbestand en één afstemmingsbestand met de kosten voor gereserveerde Azure-instanties (RI), Marketplace, Azure-plan. 
+- De partner ontvangt een ander PDF-factuurbestand en één afstemmingsbestand met de kosten voor gereserveerde Azure-instanties (RI), Marketplace, Azure-plan. 
 
 **Scenario 3 [meerdere valuta's]**: De partner heeft aankopen voor Azure RI in DKK en een Azure-plan in EURO, samen met 145p-aankopen in EURO.
 
@@ -60,12 +60,12 @@ Bijvoorbeeld:
 
 - De partner ontvangt één PDF-factuur en één afstemmingsbestand voor de kosten voor het Azure-plan in DEN. 
 
-- Partner ontvangt een ander PDF-factuurbestand en één afstemmingsbestand voor de kosten voor 145p-aanbieding in EURO (of partnerfactureringsvaluta). 
+- Partner ontvangt een ander PDF-factuurbestand en één afstemmingsbestand waarin de kosten voor 145p-aanbieding in EURO (of factureringsvaluta van de partner) worden vermeld. 
 
 
 ## <a name="understanding-invoice-pdf"></a>Informatie over pdf-facturen 
 
-**Facturen voor gebruiks-** en licentiekosten: facturen voor kosten voor services zoals Office 365 en Azure zijn binnen twee (2) dagen na de geselecteerde factureringsdatum [UTC] beschikbaar.  
+**Facturen voor gebruiks-** en licentiekosten: facturen voor kosten voor services zoals Office 365 en Azure zijn beschikbaar binnen twee (2) dagen na de geselecteerde factureringsdatum [UTC].  
 
 **Facturen voor eenmalige en** terugkerende kosten: Facturen voor kosten voor services zoals Azure RI, Azure-plan en Marketplace zijn niet later dan de acht dagen van elke maand beschikbaar.  
 

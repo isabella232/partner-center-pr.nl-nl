@@ -5,43 +5,43 @@ description: Meer informatie over hoe en waar u Partner Center voor Microsoft Cl
 ms.topic: article
 ms.date: 06/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bca5c5ff58ae222d06ac0de5f4aebde13cd87b0c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 95a7c56bc8d20d86379637e7ed3e7499b941a079
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110153018"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842028"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gebruikers- en licentiebeheer in Partner Center voor Microsoft Cloud Duitsland
 
 **Van toepassing op**: Partner Center voor Microsoft Cloud Duitsland
 
-**Juiste rollen:** Globale | Accountbeheerder
+**Juiste rollen:** globale | Accountbeheerder
 
 > [!IMPORTANT]
-> Op basis van de ontwikkeling van de behoeften van klanten, richt onze cloudstrategie voor Duitsland zich op de levering van de nieuwe cloudregio's in Duitsland die consistent zijn met ons wereldwijde cloudaanbod. Met deze focus accepteren we geen nieuwe klanten meer en implementeren we geen nieuwe services meer vanuit de momenteel beschikbare Microsoft Cloud Duitsland. Bestaande klanten kunnen de huidige cloudservices die momenteel beschikbaar zijn, blijven gebruiken, die we onderhouden met de benodigde beveiligingsupdates.
+> Op basis van de ontwikkeling van de behoeften van klanten, richt onze cloudstrategie voor Duitsland zich op de levering van de nieuwe cloudregio's in Duitsland die consistent zijn met ons wereldwijde cloudaanbod. Vanwege deze focus accepteren we geen nieuwe klanten meer en implementeren we geen nieuwe services meer vanuit de momenteel beschikbare Microsoft Cloud Duitsland. Bestaande klanten kunnen de huidige cloudservices die momenteel beschikbaar zijn, blijven gebruiken, die we onderhouden met de benodigde beveiligingsupdates.
 >  
-> Vanaf nu hebben nieuwe klanten de mogelijkheid om de momenteel beschikbare Europese regio's of de nieuwe regio's in Duitsland te gebruiken wanneer ze beschikbaar komen. Zie Microsoft to [deliver cloud services from new datacenters in Germany (Microsoft to deliver cloud services from new datacenters in Duitsland) voor meer informatie.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)
+> Vanaf nu hebben nieuwe klanten de mogelijkheid om de momenteel beschikbare Europese regio's of de nieuwe regio's in Duitsland te gebruiken wanneer ze beschikbaar komen. Zie [Microsoft gaat cloudservices vanuit nieuwe datacenters in Duitsland leveren](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) voor meer informatie.
 
-Om te voldoen aan de Duitse wetten en voorschriften die van toepassing zijn op het verzamelen en gebruiken van gegevens van personen, evenals belangrijke internationale standaarden, zijn de volgende mogelijkheden voor gebruikers- en licentiebeheer niet beschikbaar in Partner Center voor Microsoft Cloud Duitsland. Voeg in plaats daarvan gebruikers en licenties toe aan de Azure Portal voor Microsoft Cloud Duitsland of het Office 365-beheercentrum.
+De volgende beheermogelijkheden voor gebruikers en licenties zijn niet beschikbaar in Partner Center voor Microsoft Cloud Duitsland om te voldoen aan de Duitse wetten en voorschriften voor het verzamelen en gebruiken van gegevens van personen, evenals belangrijke internationale standaarden. Voeg in plaats daarvan gebruikers en licenties toe aan de Azure Portal voor Microsoft Cloud Duitsland of het Office 365-beheercentrum.
 
-Functie of mogelijkheid | Taken voltooien in
+Functie of mogelijkheid | Taken uitvoeren in
 :--- | :---
-Partnergebruikersbeheer | Office 365-beheercentrum of Azure for Microsoft Cloud Duitsland-beheerportal
+Gebruikersbeheer partner | Office 365-beheercentrum of Azure for Microsoft Cloud Duitsland-beheerportal
 Klantgebruikersbeheer | Office 365-beheercentrum of Azure for Microsoft Cloud Duitsland-beheerportal
 Gebruikerswachtwoord opnieuw instellen | Beheerportal voor Azure voor Microsoft Cloud Duitsland
 Licentiebeheer | Office 365-beheercentrum of Microsoft Cloud Duitsland Azure Active Directory Licensing-portal
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Gebruikers beheren in de Azure Portal voor Microsoft Cloud Duitsland 
 
-Als u bent aangemeld bij Partner Center voor Microsoft Cloud Duitsland, kunt u de Azure Portal voor Microsoft Cloud Duitsland openen zonder dat u zich opnieuw moet aanmelden. Als u zich echter rechtstreeks moet aanmelden bij de Azure Portal voor Microsoft Cloud Duitsland, gaat u naar [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
+Als u bent aangemeld bij Partner Center voor Microsoft Cloud Duitsland, kunt u de Azure Portal voor Microsoft Cloud Duitsland openen zonder u opnieuw aan te melden. Als u zich echter rechtstreeks moet aanmelden bij de Azure Portal voor Microsoft Cloud Duitsland, gaat u naar [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-Nadat u zich hebt aangemeld bij de Azure Portal voor Microsoft Cloud Duitsland, opent u de overzichtspagina van uw Azure Active Directory (Azure AD) en volgt u de instructies in deze artikelen:
+Nadat u zich hebt aangemeld bij de Azure Portal voor Microsoft Cloud Duitsland, opent u de overzichtspagina van Azure Active Directory (Azure AD) en volgt u de instructies in deze artikelen:
 
 > [!NOTE]  
 > Als u de onderstaande koppelingen selecteert, gaat u naar een andere website.

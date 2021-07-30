@@ -3,18 +3,18 @@ title: Een globale beheerder worden voor uw bedrijf
 ms.topic: how-to
 ms.date: 12/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Als u in Partner Center wilt werken, moet u eerst het eigendom van uw domein verifiëren. Meer informatie over hoe u dit doet en hoe u een globale beheerder wordt die gebruikers kan toevoegen.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94425b0695ed0e3ec89e5953f648f5de7a199432
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 01b8be1e02dcbc0a35f0cc24371c1a2819d4430f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149295"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842405"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Het eigendom van het domein controleren om een globale beheerder te worden (Engelstalig) 
 
@@ -50,7 +50,7 @@ Als u het eigendom van uw domein verifieert, wordt u ook een globale beheerder. 
 
 ## <a name="find-the-companys-global-admin"></a>De globale beheerder van het bedrijf zoeken
 
-1. Selecteer in **het pictogram** Instellingen in de rechterboven Partner Center de optie **Gebruikersbeheer.**
+1. Selecteer op **Instellingen pictogram** rechtsboven in de Partner Center de optie **Gebruikersbeheer.**
 
 1. Filter op globale beheerder in het zoekvak. Er wordt een lijst met globale beheerders in uw bedrijf weergegeven. Als uw bedrijf nog geen globale beheerder heeft, volgt u de onderstaande instructies.
 

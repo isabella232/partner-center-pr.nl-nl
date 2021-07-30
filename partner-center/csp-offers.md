@@ -3,18 +3,18 @@ title: Aanbiedingen van partners in het CSP-programma
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Als CSP-programmapartner kunt u meer te weten komen over de groeiende catalogus van Microsoft-cloudservices en aanbiedingen die u aan klanten kunt verkopen.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57cddcaf13431b0e61ef1573a4dd54b229c7e097
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e5d82e43b63c2803b0f494a2f773e32ec135bdfd
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147629"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843184"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Overzicht van partneraanbiedingen in het Cloud Solution Provider-programma
 
@@ -22,7 +22,7 @@ ms.locfileid: "110147629"
 
 Microsoft-partners in het Cloud Solution Provider-programma (CSP) hebben een groeiende catalogus met aanbiedingen die voor hen beschikbaar zijn. U kunt het volledige scala aan [Microsoft-cloudservices en](https://partner.microsoft.com/cloud-solution-provider/products-and-services)verschillende andere aanbiedingen verkopen die regelmatig veranderen. Als u de CSP-aanbiedingen voor de huidige maand wilt bekijken, meld u zich aan bij Partner Center gaat u naar de pagina [**Prijzen en**](https://partnercenter.microsoft.com/pcv/sales) aanbiedingen.  
 
-Nog niet ingeschreven bij het Cloud Solution Provider programma? Ga [Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider) voor meer informatie over het inschrijven. 
+Bent u nog niet ingeschreven bij Cloud Solution Provider programma? Ga [Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider) voor meer informatie over hoe u zich kunt registreren. 
 
 >[!NOTE]
 >Vanaf 31 januari 2020 moeten alle klanten de Microsoft-klantovereenkomst. Dit omvat uw bestaande klanten en nieuwe klanten. Lees Acceptatie van klantacceptatie [van](confirm-customer-agreement.md) de Microsoft-klantovereenkomst
@@ -51,14 +51,14 @@ Op dit moment kunt u de volgende typen producten en services verkopen aan uw CSP
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Software as a Service (SaaS) en [andere Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) producten
 
-   U kunt abonnementen verkopen aan SaaS-producten van ISV's (Independent Software Vendors). Als u alleen SaaS-aanbiedingen in **onlineservices wilt zien,** gebruikt u de filters om **Uitgever in te stellen** op **Partner.** Hier ziet u alle SaaS-aanbiedingen die voor die klant kunnen worden gekocht.
+   U kunt abonnementen verkopen aan SaaS-producten van ISV's (Independent Software Vendors). Als u alleen SaaS-aanbiedingen in **onlineservices** wilt zien, gebruikt u de filters om de Publisher **in** te stellen op **Partner.** Hier ziet u alle SaaS-aanbiedingen die voor die klant kunnen worden gekocht.
 
-   U kunt ook informatie over deze producten vinden op de **Marketplace-pagina.**
+   U kunt ook informatie over deze producten vinden op de **pagina Marketplace.**
 
 >[!NOTE] 
 >Deze pagina bevat ook informatie over andere soorten producten die moeten worden gekocht bij de Azure Portal, niet Partner Center.
 
-Zie Overzicht van de commerciële [CSP-marketplace](CSP-commercial-marketplace-overview.md) voor meer informatie
+Zie Overzicht van de commerciële [CSP-marketplace voor meer informatie](CSP-commercial-marketplace-overview.md)
 
 ## <a name="add-products-page-details"></a>Details van de pagina Producten toevoegen
 
@@ -70,7 +70,7 @@ De volgende lijst identificeert elk van de nieuwe gebieden op de **pagina Produc
 
 **Segment:** identificeert het algemene type bedrijf, bijvoorbeeld commercieel of overheid, aan wie u wilt verkopen
 
-**Uitgever:** selecteer welke typen producten u wilt zien: apps die zijn gemaakt door Microsoft of door uitgevers van derden
+**Publisher:** selecteer welke typen producten u wilt zien: apps die zijn gemaakt door Microsoft of door uitgevers van derden
 
 **Factureringstype:** geeft aan of het product wordt gefactureerd voor het aantal licenties of voor gebruik
 
@@ -80,10 +80,10 @@ De volgende lijst identificeert elk van de nieuwe gebieden op de **pagina Produc
 
 ## <a name="buy-csp-offers"></a>CSP-aanbiedingen kopen
 
-Als u producten en services namens uw CSP-klanten wilt kopen, selecteert u de items die de klant wil, voegt u deze toe aan uw winkelwagen, maakt u een bestelling en beoordeelt en verstuurt u de bestelling. Het algemene proces wordt hieronder beschreven. (Zie de bovenstaande koppelingen voor meer informatie over orders voor een specifiek producttype.)
+Als u producten en services namens uw CSP-klanten wilt kopen, selecteert u de items die de klant wil, voegt u deze toe aan uw winkelwagen, waarmee een bestelling wordt gemaakt en controleert en verstuurt u de bestelling. Het algemene proces wordt hieronder beschreven. (Zie de bovenstaande koppelingen voor meer informatie over orders voor een specifiek producttype.)
 
 >[!NOTE]
->Een CSP-aanbieding moet beschikbaar zijn in zowel uw tenantland als in het tenantland van uw klant. Als uw tenant zich bijvoorbeeld in Deen bevindt en de tenant van de klant zich in Duitsland bevindt, kunt u Dynamics 365 Business Central Premium niet verkopen aan die klant, omdat deze aanbieding momenteel niet beschikbaar is in Amsterdam.
+>Een CSP-aanbieding moet beschikbaar zijn in zowel uw tenantland als in het tenantland van uw klant. Als uw tenant zich bijvoorbeeld in Deen bevindt en de tenant van de klant zich in Duitsland bevindt, kunt u Dynamics 365 Business Central Premium niet verkopen aan die klant, omdat deze aanbieding momenteel niet beschikbaar is in Deens.
 
 1. Selecteer **Klanten** in Partner Center menu en zoek vervolgens de klant die bij u wil kopen. 
 
@@ -112,16 +112,16 @@ De ordergeschiedenis van een klant weergeven:
  
 ## <a name="rules-for-special-segments"></a>Regels voor speciale segmenten
 
-Sommige op licenties gebaseerde aanbiedingen kunnen alleen onder bepaalde voorwaarden worden gekocht. Speciale segmentaanbiedingen zijn aanbiedingen voor onderwijs, non-profit of Government Community Cloud (GCC). Meer informatie over deze aankoopvoorwaarden vindt u in het [onderwerp aankoopregels voor speciale segmenten.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
+Sommige aanbiedingen op basis van licenties kunnen alleen onder bepaalde voorwaarden worden aangeschaft. Speciale segmentaanbiedingen zijn aanbiedingen voor onderwijs, non-profit of Government Community Cloud (GCC). Meer informatie over deze aankoopvoorwaarden vindt u in het [onderwerp aankoopregels voor speciale segmenten.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
-## <a name="troubleshooting-catalog-purchases"></a>Problemen met catalogusaankopen oplossen
+## <a name="troubleshooting-catalog-purchases"></a>Problemen met aankopen in de catalogus oplossen
 
-Er kunnen verschillende redenen zijn waarom u de aanbieding die u zoekt, niet kunt vinden in de catalogus. Hieronder vindt u zaken om te controleren of u de aanbieding die u verwacht niet kunt vinden.
+Er kunnen verschillende redenen zijn waarom u de aanbieding die u zoekt, niet kunt vinden in de catalogus. Hieronder vindt u informatie om te controleren of u de aanbieding die u verwacht niet kunt vinden.
 
-- **Controleer of uw klant gekwalificeerd is**. Veel aanbiedingen kunnen alleen worden verkocht aan klanten die aan speciale kwalificaties voldoen. Deze speciale segmenten omvatten Education, Non-profit en Government Community Cloud (GCC). Controleer voordat u een probleem meldt eerst of de kwalificaties van de klant dienovereenkomstig zijn ingesteld. U kunt dit controleren door de klant te selecteren in de lijst met klanten en het account te bekijken. Indien van toepassing, is er een speciale kwalificatie ingesteld op het account. Als u Education probeert aan te schaffen voor een klant die niet is gekwalificeerd, ziet u de betreffende aanbiedingen niet in de catalogus. Zie de documentatie voor speciale segmenten voor meer informatie over het kwalificeren van [uw klanten.](get-special-pricing-for-offers.md)
-- **Bepaal of u een invoegtoepassing of een basisaanbieding** wilt aanschaffen. Veel van de op licenties gebaseerde services, zoals Microsoft 365 en Dynamics 365, maken zowel catalogusaankopen van de basisaanbiedingen als invoegtoepassingen mogelijk. Alleen basisaanbiedingen kunnen worden aangeschaft in de catalogus. Als u invoegtoepassingen wilt aanschaffen, moet u eerst de basisaanbieding in de catalogus kopen en vervolgens de klant in de lijst met klanten selecteren en vervolgens het abonnement voor de basisaanbieding selecteren. Invoegtoepassingen kunnen worden toegepast op de basisaanbieding op deze pagina voor het beheren van abonnementen. 
+- **Controleer of uw klant gekwalificeerd is**. Veel aanbiedingen kunnen alleen worden verkocht aan klanten die aan speciale kwalificaties voldoen. Deze speciale segmenten zijn education, non-profit en Government Community Cloud (GCC). Controleer voordat u een probleem meldt eerst of de kwalificaties van de klant dienovereenkomstig zijn ingesteld. U kunt dit controleren door de klant in de lijst met klanten te selecteren en het account te bekijken. Indien van toepassing, is er een speciale kwalificatie ingesteld op het account. Als u Education probeert aan te schaffen voor een klant die niet is gekwalificeerd, ziet u de betreffende aanbiedingen niet in de catalogus. Zie de speciale documentatie voor segmenten voor meer informatie over het kwalificeren [van uw klanten.](get-special-pricing-for-offers.md)
+- **Bepaal of u een invoegtoepassing of een basisaanbieding** wilt aanschaffen. Veel van de op licenties gebaseerde services, zoals Microsoft 365 en Dynamics 365, maken zowel catalogusaankopen van de basisaanbiedingen als invoegtoepassingen mogelijk. Alleen basisaanbiedingen kunnen worden aangeschaft in de catalogus. Als u invoegtoepassingen wilt aanschaffen, moet u eerst de basisaanbieding in de catalogus kopen en vervolgens de klant selecteren in de klantenlijst en vervolgens het abonnement voor de basisaanbieding selecteren. Invoegtoepassingen kunnen worden toegepast op de basisaanbieding op deze pagina voor het beheren van abonnementen. 
 - **Controleer of de producten beschikbaar zijn in uw markt**. Veel producten en services zijn zo geconfigureerd dat ze alleen worden verkocht aan klanten in specifieke landen. U kunt de lijst met ondersteunde landen/regio's vinden in de verschillende prijslijstbestanden. Ondersteunde landen voor op licenties gebaseerde services bevinden zich in de aanbiedingslijstmatrix op de pagina met prijzen en aanbiedingen.
-- **Controleer of de aanbiedingen beschikbaar zijn in de prijslijst**. De lijst met beschikbare aanbiedingen kan van maand tot maand worden gewijzigd. Als u geen aanbieding in de catalogus kunt vinden, controleert u of deze beschikbaar is in de huidige prijslijsten op de pagina > **en** aanbiedingen verkopen.
+- **Controleer of de aanbiedingen beschikbaar zijn in de prijslijst**. De lijst met beschikbare aanbiedingen kan van maand tot maand worden gewijzigd. Als u een aanbieding niet kunt vinden in de catalogus, controleert u of deze beschikbaar is in de huidige prijslijsten op de pagina > **en aanbiedingen** verkopen.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Aanbevolen documenten met betrekking tot aankoopitems in de Partner Center
 

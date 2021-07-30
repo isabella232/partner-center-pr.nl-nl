@@ -3,22 +3,22 @@ title: Ondersteuning voor meerdere partners
 ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Een klant kan samenwerken met meerdere partners in het Cloud Solution Provider die zijn gespecialiseerd in verschillende services.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b41d3ee33b789c8f839ff1b3b5f5d8fd27c23f02
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a5d7e17e79ba97edfece5eda990349aa949909cd
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151148"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843082"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Ondersteuning voor meerdere partners voor klanten die met meer dan één partner willen werken
 
-**Van toepassing op**: Partner Center | Partner Center for Microsoft Cloud for US Government
+**Van toepassing op**: Partner Center | Partner Center voor Microsoft Cloud for US Government
 
 **Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent
 
@@ -26,7 +26,7 @@ De functie Partner Center meerdere partners van de Partner Center ondersteunt sc
 
 Een Azure CSP-tenant kan een extra Azure-abonnement van een andere CSP-partner bevatten.
 
-Als u de functie voor meerdere partners in de Partner Center nodigt u de klant uit om gedelegeerde beheerbevoegdheden te geven. Zie [Een relatie met een klant aanvragen](request-a-relationship-with-a-customer.md) voor informatie over het tot stand komen van een relatie met een klant die al met een partner werkt.
+Als u de functie voor meerdere partners in de Partner Center nodigt u de klant uit om u gedelegeerde beheerbevoegdheden te geven. Zie [Een relatie met een klant aanvragen](request-a-relationship-with-a-customer.md) voor informatie over het tot stand komen van een relatie met een klant die al met een partner werkt.
 
 De functionaliteit voor meerdere partners is niet:
 

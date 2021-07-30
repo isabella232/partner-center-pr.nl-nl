@@ -3,18 +3,18 @@ title: Een gebruikerswachtwoord opnieuw instellen
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Meer informatie over het opnieuw instellen van een gebruikerswachtwoord in Partner Center. Gebruikers ontvangen een tijdelijk wachtwoord de volgende keer dat ze zich aanmelden bij Partner Center.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b5a486b4859f33971c14767406d73a5c0dab1576
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 6e6be8edb32f1469cac8eb13ff8746f58b662b2e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855536"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842844"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Het wachtwoord van een gebruiker opnieuw instellen in Partner Center
 
@@ -33,7 +33,7 @@ Als gebruikers hun wachtwoord vergeten, wijst u hen een tijdelijk wachtwoord toe
 
 3. Kies **Wachtwoord opnieuw** instellen onderaan de pagina.
 
-4. U ziet een bevestigingsscherm met een tijdelijk wachtwoord. Kopieer het tijdelijke wachtwoord en stuur het naar de nieuwe gebruiker. Het tijdelijke wachtwoord is niet meer toegankelijk nadat u het scherm hebt verlaten. Wanneer de gebruiker zich voor het eerst meldt, wordt de gebruiker gevraagd het wachtwoord bij te werken.
+4. U ziet een bevestigingsscherm met een tijdelijk wachtwoord. Kopieer het tijdelijke wachtwoord en verzend het naar de nieuwe gebruiker. Het tijdelijke wachtwoord is niet meer toegankelijk nadat u het scherm hebt verlaten. Wanneer de gebruiker zich voor het eerst meldt, wordt hij gevraagd het wachtwoord bij te werken.
 
 ## <a name="next-steps"></a>Volgende stappen
 

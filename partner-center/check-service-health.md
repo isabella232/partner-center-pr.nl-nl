@@ -3,18 +3,18 @@ title: Service health voor een klant controleren
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Meer informatie over het gebruik Partner Center om de service health voor een klant te controleren wanneer deze een probleem met een service ervaart.
+ms.subservice: partnercenter-support
+description: Meer informatie over het gebruik Partner Center om de service health voor een klant te controleren wanneer ze een probleem met een service ervaren.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db5856914ab988a8fc3beefeb5c425846383a921
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d8d9bc05d2fe5ca87c5fa9f13371305a48fb6a52
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149125"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842708"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>De service health controleren voor een klant die een mogelijk serviceprobleem of een mogelijke storing rapporteert
 
@@ -29,9 +29,9 @@ In dit artikel wordt uitgelegd hoe u Partner Center service health voor een klan
 2. Selecteer **Servicebeheer** in het menu links. Hiermee worden de services weergegeven die zijn ingericht voor de klant en de service health voor elke service. Partners kunnen klikken op de service waarin ze geïnteresseerd zijn voor meer informatie. 
 
 >[!NOTE] 
-> Met service health-koppelingen op de **servicebeheerpagina's** gaat de partner naar het M365-beheercentrum of naar het Azure Portal **als gedelegeerde beheerder.** Zodra de partner bij een van beide bestemmingen is, kan de partner naar de service health-pagina's in beide portals navigeren voor meer informatie over de storing.
+> Met service health-koppelingen op de **servicebeheerpagina's** gaat de partner naar het M365-beheercentrum of naar het Azure Portal **als gedelegeerde beheerder.** Zodra de partner een van beide bestemmingen heeft bereikt, kan de partner naar de service health-pagina's in beide portals navigeren voor meer informatie over de storing.
  
-Tijdens een service-storing levert Microsoft regelmatig updates terwijl we het probleem oplossen. Deze meldingen worden ook weergegeven in het Microsoft Azure-portal of het Microsoft 365-beheercentrum.
+Tijdens een service-storing levert Microsoft regelmatig updates terwijl we het probleem oplossen. Deze meldingen worden ook weergegeven in de Microsoft Azure-portal of het Microsoft 365-beheercentrum.
 
 ## <a name="next-steps"></a>Volgende stappen 
 

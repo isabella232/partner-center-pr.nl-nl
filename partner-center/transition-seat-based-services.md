@@ -4,17 +4,17 @@ description: Meer informatie over het verplaatsen van klanten op basis van licen
 ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: 810c01c16bd6a2f9c6fa863289e1b788a057b627
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489897"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842407"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Op licenties gebaseerde klanten verplaatsen van andere kanalen & partners naar het Cloud Solution Provider (CSP)-programma
 

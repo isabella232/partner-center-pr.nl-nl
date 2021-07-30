@@ -3,18 +3,18 @@ title: Uw MPN-aanbiedingen vernieuwen
 ms.topic: article
 ms.date: 02/04/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
-description: 'MpN Microsoft Partner Network aanbiedingen (Renew Microsoft Partner Network) voor competenties en geavanceerde specialisaties: het verlengingsvenster begint met de aankoopdatum plus één dag.'
+ms.subservice: partnercenter-benefits
+description: 'MpN Microsoft Partner Network aanbiedingen voor competenties en geavanceerde specialisaties verlengen: het verlengingsvenster begint met de aankoopdatum plus één dag.'
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: f6c710675f659d25d42a1e858cee0d76952f1cf6
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551670"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843031"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Uw MPN-aanbiedingen voor competenties en geavanceerde specialisaties vernieuwen tijdens het verlengingsvenster
 
@@ -22,11 +22,11 @@ ms.locfileid: "112551670"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Reageren op COVID-19: Microsoft Partner Network update
 
-Microsoft biedt competentie-uitbreiding (met uitzondering van de competentie Cloud Business Applications) en geavanceerde specialisatie-uitbreiding voor partners met jubileumdatums tussen 1 januari 2021 en 30 juni 2021. Zie de blogpost [van de partner voor meer informatie.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
+Microsoft biedt competentie-uitbreiding (met uitzondering van de Cloud Business Applications-competentie) en geavanceerde specialisatie-uitbreiding voor partners met jubileumdatums tussen 1 januari 2021 en 30 juni 2021. Zie de blogpost [van de partner voor meer informatie.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
 
 ## <a name="renewal-reminders"></a>Vernieuwingsherinneringen
 
-U hebt 30 dagen na de jubileumdatum de tijd om uw abonnement te verlengen. Uw voordelen blijven gedurende die tijd bestaan. Vijftien dagen vóór uw jubileumdatum herinnert Microsoft u aan uw aanstaande jubileum. U ontvangt 23 dagen na de jubileumdatum nog een herinnering. Wanneer u tijdens dat jubileum plus een periode van 30 dagen vernieuwt, blijven uw voordelen intact. Als u niet verlengt binnen uw verlengingsvenster, verliest u uw voordelen en competenties.
+U hebt 30 dagen na uw jubileumdatum om te verlengen. Uw voordelen blijven in die periode bestaan. Vijftien dagen vóór uw jubileumdatum herinnert Microsoft u aan uw aanstaande jubileum. U ontvangt 23 dagen na de jubileumdatum nog een herinnering. Wanneer u verlengt tijdens die jubileum plus een periode van 30 dagen, blijven uw voordelen intact. Als u niet verlengt binnen uw verlengingsvenster, verliest u uw voordelen en competenties.
 
 Wanneer u verlengt tijdens het verlengingsvenster, is uw nieuwe jubileumdatum 365 dagen na uw huidige jubileum.
 

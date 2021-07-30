@@ -1,25 +1,25 @@
 ---
-title: Abonnementen op De Education Edition verkopen aan klanten uit het onderwijs
+title: Verkoop Minecraft Education Edition-abonnementen aan education-klanten
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Verkoop Store Education Edition-abonnementen aan gekwalificeerde onderwijsklanten die ze vervolgens kunnen downloaden uit de Microsoft Education Store.
+ms.subservice: partnercenter-pricing
+description: Verkoop Minecraft Education Edition-abonnementen aan gekwalificeerde education-klanten die ze vervolgens kunnen downloaden uit de Microsoft Education Store.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 06cb4d1d23d20a0d5f6f7031608a5369fdc1b89d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 86efabf41d8a1d22b08a7e2ceae5fb47e2bd42c0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146388"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843099"
 ---
-# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Verkoop Minecraft: Education Edition-abonnementen aan klanten uit het onderwijs
+# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Verkopen Minecraft: Education Edition aan onderwijsklanten
 
-**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Verkoopagent | Beheeragent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent | Beheeragent
 
-Partners die met onderwijsinstellingen werken, kunnen **Minecraft: Education Edition** bieden. U koopt het abonnement namens de klant in Partner Center en vervolgens downloadt de klant de software van [de Microsoft Store voor Onderwijs](https://educationstore.microsoft.com). 
+Partners die met onderwijsinstellingen werken, kunnen **Minecraft: Education Edition** bieden. U koopt het abonnement namens de klant in Partner Center en vervolgens downloadt de klant de software van [de Microsoft Store voor Onderwijs.](https://educationstore.microsoft.com) 
 
 >[!IMPORTANT]
 >Als u onderwijsaanbiedingen wilt verkopen aan onderwijsklanten, moet u zijn ingeschreven bij het Cloud Solution Provider-programma (CSP) en een geautoriseerde verkoper voor onderwijs [(AEP) zijn.](https://www.mepn.com) Daarnaast moet uw klant een [Qualified Education-gebruiker zijn.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)  
@@ -36,12 +36,12 @@ Volg de onderstaande stappen om **Minecraft: Education Edition** te kopen in de 
   
   3.  Kies de factureringsfrequentie die het beste voldoet aan uw behoeften en selecteer vervolgens **Education** in de **sectie** Catalogus.
 
-  4.  Selecteer het Abonnement dat u namens uw klant wilt kopen en voer het aantal licenties in. Selecteer **Volgende: Review**.
+  4.  Selecteer het Minecraft abonnement dat u namens uw klant wilt kopen en voer het aantal licenties in. Selecteer **Volgende: Review**.
 
       >[!NOTE]
-      >U kunt deze licenties bekijken en beheren in Partner Center. Uw cucstomer ziet en beheert deze licenties vanuit hun inventaris op de [pagina met Minecraft: Education Edition-details](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) (u moet zijn aangemeld bij de Store for Education om de detailpagina te zien). 
+      >U kunt deze licenties bekijken en beheren in Partner Center. Uw cucstomer ziet en beheert deze licenties vanuit de inventaris op de [pagina met Minecraft: Education Edition-details](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) (u moet zijn aangemeld bij de Store for Education om de detailpagina te zien). 
 
-  5.  Als de bestelling juist is, selecteert u **Verzenden.** Als u wijzigingen wilt aanbrengen in de order, selecteert u **Annuleren** en maakt u de gewenste wijzigingen.   
+  5.  Als de bestelling juist is, selecteert u **Verzenden.** Als u wijzigingen moet aanbrengen in de order, selecteert u **Annuleren** en maakt u de gewenste wijzigingen.   
 
   6.  Nadat u het abonnement hebt gekocht, stuurt u uw [](https://educationstore.microsoft.com) education-klant naar de inventaris op de Microsoft Store voor Onderwijs de software te downloaden en de licenties te distribueren.
 
