@@ -1,26 +1,26 @@
 ---
-title: Azure-gebruik analyseren om uw bedrijf te laten groeien
-description: Meer informatie over het gebruik Partner Center om gegevens op te halen over het gebruik van de Azure-abonnementen van uw klanten. Gegevens omvatten verkochte abonnementen, risico's en in gebruik.
+title: Azure-gebruik analyseren om uw bedrijf te helpen groeien
+description: Meer informatie over het gebruik Partner Center om gegevens op te halen over het gebruik van de Azure-abonnementen van uw klanten. Gegevens omvatten verkochte abonnementen, die risico lopen en in gebruik zijn.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150230"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839121"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Gegevens verzamelen over hoe goed het gaat met uw klanten en Azure-abonnementen
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Gegevens verzamelen over hoe goed uw klanten en Azure-abonnementen het doen
 
 
 
-**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
 
 Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegevens op de **Azure-gebruikspagina** om uw successen en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.
 
@@ -49,7 +49,7 @@ In deze sectie wordt het voorspelde verlooprisico voor Azure-abonnementen aangeg
 
 - Lijst met specifieke abonnementen zonder Azure-gebruik in de opgegeven periode  
 
-## <a name="azure-subscription-churn"></a>Verloop van Azure-abonnement
+## <a name="azure-subscription-churn"></a>Azure-abonnementsverloop
 
 - **Actieve abonnementen:** aantal actieve abonnementen op datum  
 - **Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date  
@@ -64,4 +64,4 @@ In deze sectie wordt het voorspelde verlooprisico voor Azure-abonnementen aangeg
 
  ## <a name="next-steps"></a>Volgende stappen
 
-- [Het Azure-abonnement kopen voor klanten & nieuwste Azure-services te gebruiken tegen tarieven voor betalen per gebruik](purchase-azure-plan.md)
+- [Het Azure-abonnement kopen voor klanten & toegang tot de nieuwste Azure-services tegen tarieven voor betalen per gebruik](purchase-azure-plan.md)

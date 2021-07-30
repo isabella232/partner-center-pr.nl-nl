@@ -3,28 +3,28 @@ title: Gekwalificeerde Dynamics 365-abonnementen migreren
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Leer hoe u migreert van gekwalificeerde, eenvoudige Dynamics 365-abonnementen naar een nieuw abonnement voordat bestaande abonnementen verlopen.
 author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ba6992eff64031aed0dafeb5a5010983396ab63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3315fe6428613c882bc654d03ce74a57303fba88
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151641"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839703"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrate Dynamics 365 and Customer Engagement Plan from Basic (qualified offers) to newer versions (Abonnement van Dynamics 365 en Customer Engagement (gekwalificeerde aanbiedingen) migreren van Basic naar nieuwere versies)
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent
 
 Vanaf 1 januari 2019 kunnen klanten met een Dynamics 365 for Sales-/Customer Engagement-abonnement van Basic-abonnementen (gekwalificeerde aanbiedingen) deze verouderde aanbiedingen niet meer vernieuwen; bestaande abonnementen worden niet automatisch verlengd wanneer ze verlopen. Op de detailpagina van het abonnement wordt de status van het abonnement gewijzigd in 'Verloopt op [datum]' van 'Automatisch verlengen op [datum]'. 
 
-Om de continuïteit voor klanten te waarborgen, moet u de klanten met verlopen abonnementen overstappen naar een ondersteunde optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen.
+Om de continuïteit voor klanten te waarborgen, moet u de klanten met verlopende abonnementen overstappen naar een ondersteunde optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen.
 
-Als u de API (ZOWEL VOOR als Partner Center) gebruikt, kunt u verlopende abonnementen vinden door de einddatum van het abonnement te evalueren, samen met de eigenschap auto renew = False. De abonnementen in kwestie worden op 1 januari 2019 ingesteld op automatisch verlengen=Onwaar. U kunt klanten op elk moment naar een nieuw plan verplaatsen. 
+Als u de API (ZOWEL VOOR- als Partner Center) gebruikt, kunt u verlopende abonnementen vinden door de einddatum van het abonnement samen met de eigenschap auto renew = False te evalueren. De abonnementen in kwestie worden op 1 januari 2019 ingesteld op auto renew=False. U kunt klanten op elk moment verplaatsen naar een nieuw plan. 
 
 ### <a name="the-dynamics-365-offers-being-retired"></a>De Dynamics 365-aanbiedingen worden niet meer gebruikt
 
@@ -35,10 +35,10 @@ Als u de API (ZOWEL VOOR als Partner Center) gebruikt, kunt u verlopende abonnem
 - Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer)
 - Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer) for Faculty
 - Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer) for Students
-- Dynamics 365 for Sales Enterprise Edition (Government Pricing) From SA for CRM Basic (Qualified Offer)
+- Dynamics 365 for Sales Enterprise Edition (government pricing) From SA for CRM Basic (Qualified Offer)
 - Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (gekwalificeerde aanbieding)
 - Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (gekwalificeerde aanbieding) voor onderwijsmedewerkers
-- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (Qualified Offer) for Students
+- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (gekwalificeerde aanbieding) voor studenten
 - Dynamics 365 for Sales Enterprise Edition (Government Pricing) Add-On for CRM Basic (Qualified Offer)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (gekwalificeerde aanbieding)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition (Government Pricing) CRMOL Basic (Qualified Offer)
@@ -55,7 +55,7 @@ Als u de API (ZOWEL VOOR als Partner Center) gebruikt, kunt u verlopende abonnem
 
 
 
-## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Dynamics 365 for Sales/Customer Engagement Plan from Basic (Qualified Offers) replacement plans
+## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Dynamics 365 for Sales/Customer Engagement Plan van Basic-vervangingsplannen (gekwalificeerde aanbiedingen)
 
 **Gestopte aanbiedingen**   
 
@@ -83,7 +83,7 @@ Voor het verplaatsen van klanten van niet-bestaande SKU's naar nieuwere SKU's zi
 
 1. Selecteer **Klanten** in het linkernavigatiebalk en selecteer vervolgens de klant die u wilt verplaatsen naar het nieuwe abonnement.
 2. Selecteer **Abonnement toevoegen.**
-3. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **verzenden.** 
+3. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **Verzenden.** 
 
 Uw klant heeft nu zowel het oude als het nieuwe abonnement. De volgende stap is het opnieuw toewijzen van licenties aan de gebruikers van de klant.
 

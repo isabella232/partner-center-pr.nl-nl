@@ -3,18 +3,18 @@ title: Registreren bij het Cloud Solution Provider-programma
 ms.topic: how-to
 ms.date: 07/19/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Leer hoe u zich kunt inschrijven in het Cloud Solution Provider (CSP) verkoopmodel van het programma dat het beste bij uw bedrijf past, zoals indirecte reseller of partner voor directe factuur.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6d2bf3f99687830392d939be99ad34999abc1903
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 2d265dfb2db76b89f589cc4b9cd1edfd5105c52e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433908"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845768"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registreren bij het Cloud Solution Provider-programma
 
@@ -70,7 +70,7 @@ Als partner voor directe factuur bent u eigenaar van de end-to-end-relatie met u
 |**MPN-id**   |Een actief lidmaatschap van de Microsoft Partner Network mpn-id voor de locatie waarin u wilt verkopen.    |
 |**Goedkeuring**   |De autoriteit voor het accepteren en ondertekenen van juridische overeenkomsten namens uw organisatie.|
 |**Ondersteuning**   |De mogelijkheid om uw klanten het eerste niveau van cloudproductondersteuning te bieden. <br>Een Microsoft-ondersteuningsplan, geavanceerde ondersteuning voor partners (ASfP) of Premier Support for Partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteuningsplannen.](https://partner.microsoft.com/support/partnersupport)<br> BELANGRIJK: U moet een kredietcontrole door laten gaan voordat u een ondersteuningsplan aanschaft. We sturen u een e-mail wanneer u de kredietcontrole hebt doorgenomen. |
-|**Omzetvereiste**|Moet voldoen aan ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma gedurende de voorgaande 12 maanden als indirecte reseller. Partners kunnen hun na 12 maanden aan omzet op Partner Center.<br/>De verkopen van uw USD 300.000 na 12 maanden aan omzet zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste USD 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.|
+|**Omzetvereiste**|Moet voldoen aan ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma gedurende de voorgaande 12 maanden als indirecte reseller. Partners kunnen hun na 12 maanden aan omzet op Partner Center.<br/>De verkopen van uw USD 300.000 na een omzet van 12 maanden zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste USD 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.|
 |**Debiteuren** |De organisatie-infrastructuur die is ingericht voor het beheren van klantfacturering en -inrichting.|
 |**Aanbeveling**|             |
 |**Beheerde service**   |Ten minste één beheerde service, IP-service of klantoplossingstoepassing. Meer informatie over het toevoegen [van beheerde services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
@@ -87,7 +87,7 @@ Nadat we hebben gecontroleerd of uw bedrijf voldoet aan de geschiktheidsvereiste
 
 Naarmate het CSP-programma zich blijft ontwikkelen en groeien, wilt u er mogelijk liever aan deelnemen als indirecte reseller in plaats van als partner voor directe factuur. U kunt uw tenant voor directe factuur overstappen naar het model voor indirecte resellers in Partner Center.
 
-Zie [Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller (Overstappen](transition-direct-to-indirect.md) van Cloud Solution Provider partner voor directe factuur naar indirecte CSP-reseller) voor informatie over het overstappen van een partner voor directe factuur naar een indirecte reseller.
+Zie [Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller](transition-direct-to-indirect.md) (Overstappen van een directe factuurpartner naar een indirecte CSP-reseller) voor informatie over het overstappen van een directe factuurpartner naar een indirecte reseller.
 
 ## <a name="csp-regional-markets-and-currencies"></a>Regionale CSP-markten en -valuta's
 

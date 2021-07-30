@@ -3,17 +3,17 @@ title: Gebruiksrapport van partnercentrum-inzichtenteams
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Bekijk wat u goed doet en waar u het gebruik van uw Teams die u voor uw klanten verkoopt of beheert, kunt verbeteren.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 236cc9d8d2252f5c1b05f8654ec5c81828dc63fe
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 390c81496c16afb20ede58420c1201b24349708e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376484"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846159"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams gebruiksrapport dat beschikbaar is via het Partner Center Insights dashboard
 
@@ -27,7 +27,7 @@ Het Teams rapport Gebruik bevat metrische gegevens met betrekking tot uw Teams w
 - Belangrijkste klanten op gebruik
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt bekijken, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 

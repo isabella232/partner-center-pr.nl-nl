@@ -1,26 +1,26 @@
 ---
-title: Bestandsvelden voor een een time-aankoop van CSP opnieuw configureren
+title: Bestandsvelden opnieuw configureren voor een een time-aankoop van CSP
 ms.topic: conceptual
 ms.date: 01/29/2021
-description: Meer informatie over alle items in uw CSP-afstemmingsbestand voor een een time-aankoop in Partner Center, inclusief voorbeeldwaarden.
+description: Meer informatie over alle items in uw CSP-afstemmingsbestand voor een time-aankoop in Partner Center, inclusief voorbeeldwaarden.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 3264c793dfb2e8592cd059cd84d5bb08769abbcf
-ms.sourcegitcommit: c8d1bcf54cdcdc3f827f9210c8abddab02a686fe
+ms.openlocfilehash: 828e1e380db5d8240d00450b53b0906410a3ac16
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "112073795"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846057"
 ---
-# <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP-bestandsvelden voor een een time-aankoopafstemming
+# <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Velden voor CSP-afstemmingsbestand voor een een time-aankoop
 
 **Juiste rollen:** Accountbeheerder | Factureringsagent
 
-## <a name="using-the-recon-file"></a>Het recon-bestand gebruiken
-In de onderstaande tabel vindt u beschrijvingen en voorbeeldwaarden voor de velden in het afstemmingsbestand voor een een time-purchases van CSP.
+## <a name="using-the-recon-file"></a>Het reconbestand gebruiken
+De onderstaande tabel bevat beschrijvingen en voorbeeldwaarden voor de velden in het afstemmingsbestand voor CSP-een time-aankopen.
 
 Zie De afstemmingsbestanden gebruiken voor meer informatie [over afstemmingsbestanden.](use-the-reconciliation-files.md)
 
@@ -32,9 +32,9 @@ Zie De afstemmingsbestanden gebruiken voor meer informatie [over afstemmingsbest
 | CustomerDomainName | Domeinnaam van de klant. | *testcustomerdomain.onmicrosoft.com* |
 | CustomerCountry | Het land waar uw klant zich bevindt. Bekijk de volledige [lijst met landen voor](./regional-authorization-overview.md) uw regio.  | *DE* |
 | InvoiceNumber | Het factuurnummer dat is gekoppeld aan het afstemmingsbestand.  | *G002297372* |
-| MpnId | MPN-id van de CSP-partner. Zie itemeren per partner voor [meer informatie.](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *6034453* |
-| ResellerMpnId | MPN-id van de wederverkoper van de record voor het abonnement. | *6048879* |
-| OrderId | Unieke id voor een order in het Microsoft-factureringsplatform. Kan handig zijn om de volgorde te identificeren wanneer u contact opstelt met de ondersteuning. Niet gebruikt voor afstemming. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
+| MpnId | MPN-id van de CSP-partner. Zie itemeren op [partner voor meer informatie.](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *6034453* |
+| ResellerMpnId | MPN-id van de wederverkoper van record voor het abonnement. | *6048879* |
+| OrderId | Unieke id voor een bestelling in het Microsoft-factureringsplatform. Kan handig zijn om de volgorde te identificeren wanneer u contact opstelt met de ondersteuning. Niet gebruikt voor afstemming. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate | De datum in UTC waarop de order is geplaatst. | *10/3/2020* |
 | ProductId | De unieke id van het product. | *DZH318Z0BNZ5* |
 | SkuId | De unieke SKU-id. | *006G* |
@@ -42,14 +42,14 @@ Zie De afstemmingsbestanden gebruiken voor meer informatie [over afstemmingsbest
 | SkuName | De SKU-naam. | *Tabellen - LRS* |
 | ProductName | De productnaam. | *Tabellen* |
 | ChargeType | Het [type kosten of](./recon-file-charge-types.md) correctie. | *Nieuw* |
-| UnitPrice | Prijs per licentie, zoals gepubliceerd in de prijslijst op het moment van aankoop. Zorg ervoor dat deze overeenkomt met de informatie die tijdens de afstemming in uw factureringssysteem is opgeslagen. | *0.045* |
-| Aantal | Het aantal licenties. Zorg ervoor dat deze overeenkomt met de informatie die tijdens de afstemming in uw factureringssysteem is opgeslagen. | *1* |
+| UnitPrice | Prijs per licentie, zoals gepubliceerd in de prijslijst op het moment van aankoop. Zorg ervoor dat deze overeenkomt met de gegevens die tijdens de afstemming zijn opgeslagen in uw factureringssysteem. | *0.045* |
+| Aantal | Het aantal licenties. Zorg ervoor dat deze overeenkomt met de gegevens die tijdens de afstemming zijn opgeslagen in uw factureringssysteem. | *1* |
 | Subtotaal | Totaal vóór belasting. Het subtotaal moet gelijk zijn aan de factureerbare hoeveelheid vermenigvuldigd met de effectieve eenheidsprijs. | *0* |
 | TaxTotal | Btw-bedrag. Op basis van de belastingregels en specifieke omstandigheden van uw markt. | *0* |
 | Totaal | Het totale bedrag is gelijk aan het subtotaal plus het belastingbedrag. | *0* |
-| Valuta | Uw factuur wordt gegenereerd in de context van de valuta van de klant. Dit betekent dat als u een partner bent die met klanten van verschillende factureerbare valuta's omteert, u een factuur ontvangt voor elk type klantvaluta.  | *EUR* |
-| PriceAdjustmentDescription | De redenen voor de aanpassingen in de eenheidsprijs. Dit zijn de belangrijkste redenen, maar niet beperkt tot het bepalen van de effectieve eenheidsprijs. | *["15,0% partnertegoed voor beheerde services"]* |
-| PublisherName | Uitgever van het product.  | *Microsoft* |
+| Valuta | Uw factuur wordt gegenereerd in de context van de valuta van de klant. Dit betekent dat als u een partner bent die klanten van verschillende factureerbare valuta's af handelen, u een factuur ontvangt voor elk type klantvaluta.  | *EUR* |
+| PriceAdjustmentDescription | De redenen voor de aanpassingen in de eenheidsprijs. Dit zijn de belangrijkste redenen, maar niet beperkt tot het bepalen van de effectieve eenheidsprijs. | *["15,0% Partnertegoed voor beheerde services"]* |
+| PublisherName | Publisher van het product.  | *Microsoft* |
 | PublisherId | Een unieke id die de Partner Center gebruikt om de uitgever te identificeren. | *NA* |
 | SubscriptionDescription | De naam van de serviceaanbieding die door de klant is gekocht, zoals gedefinieerd in de prijslijst. Deze kolom is een identiek veld als OfferName. | *Azure-abonnement* |
 | SubscriptionId | Unieke id voor een abonnement in het Microsoft-factureringsplatform. Niet gebruikt voor afstemming. Houd er rekening mee dat deze id niet hetzelfde is als de abonnements-id in de beheerconsole van de partner. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |

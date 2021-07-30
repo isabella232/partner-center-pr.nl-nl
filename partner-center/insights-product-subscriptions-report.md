@@ -3,18 +3,18 @@ title: Partner Center Insights abonnementen
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Bekijk wat u goed doet en waar u kunt verbeteren met betrekking tot de cloudabonnementen die u voor uw klanten verkoopt of beheert.
+ms.subservice: partnercenter-insights
+description: Bekijk wat u goed doet en waar u de cloudabonnementen kunt verbeteren die u voor uw klanten verkoopt of beheert.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a1ce0e75817376b5cf1996a56f416acc4bcbd0f3
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: eefb4f4ee6657acf583ad0b5d4149e662c320184
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376530"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846176"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Productabonnementen is beschikbaar via het Partner Center Insights dashboard
 
@@ -32,7 +32,7 @@ U kunt de volgende secties bekijken in het rapport Productabonnementen.
 - Trend in producten
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt bekijken, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
@@ -50,17 +50,17 @@ Zie hieronder voor meer informatie over elke sectie van de samenvatting:
 - Actieve abonnementen:
   - Huidig aantal cloudproductabonnementen met actief gebruik gemeten op basis van product-telemetrie. Hiermee worden alle proefabonnementen voor Azure-abonnementen uitgesloten.
   - Percentagegroei of afname van actieve abonnementen gedurende de geselecteerde periode.
-  - De Micro-grafiek geeft een trend voor de maand-over-maand weer van actieve abonnementen tijdens het geselecteerde datumbereik.
+  - De Micro-grafiek geeft een trend van de maand-over-maand weer van actieve abonnementen tijdens het geselecteerde datumbereik.
 
 - Abonnementen toegevoegd:
-  - Het totale aantal klantabonnementen dat door u is toegevoegd (verkocht of beheerd) tijdens het geselecteerde datumbereik. Nieuwe abonnementen met de **status Actief** **of** Vernieuwd worden geteld als Toegevoegde abonnementen.
+  - Het totale aantal klantabonnementen dat door u is toegevoegd (verkocht of beheerd) tijdens het geselecteerde datumbereik. Nieuwe abonnementen met de **status Actief** **of Vernieuwd** worden geteld als Toegevoegde abonnementen.
   - Percentage groei of afname van abonnementen toegevoegd in de afgelopen volledige maand vergeleken met de eerste volledige maand.
   - De Micro-grafiek geeft een maandelijkse trend weer van abonnementen die zijn toegevoegd tijdens het geselecteerde datumbereik.
 
 - Abonnementen die zijn verloop:
   - Het totale aantal klantabonnementen dat is verloop tijdens het geselecteerde datumbereik. Abonnementen met de status **Deprovisioned** of **Suspended** in die maand worden geteld als een verloop van abonnement.  
   - Percentage abonnementen dat is verloop tijdens het geselecteerde datumbereik.
-  - De Micro-grafiek geeft een maandelijkse trend weer van abonnementen die gedurende het geselecteerde datumbereik zijn verloop.
+  - De Micro-grafiek geeft een maandelijkse trend weer van abonnementen die over het geselecteerde datumbereik zijn verloop.
 
 - Abonnementen op producten: Uitsplitsing van het huidige aantal abonnementen per cloudproducten.
 
@@ -76,9 +76,9 @@ U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie
 
 ## <a name="subscription-addschurns"></a>Abonnements-adds/churns
 
-Deze weergave toont een trend van abonnementen. Deze zijn onderverdeeld in verschillende categorieën (Nieuw, Bestaand, Verloop) voor het geselecteerde datumbereik. De x-as vertegenwoordigt maanden van het geselecteerde datumbereik. De Y-as vertegenwoordigt het aantal abonnementen. Verloop van abonnementen wordt weergegeven op de negatieve schaal van de Y-as. 
+Deze weergave toont een trend van abonnementen. Deze zijn onderverdeeld in verschillende categorieën (Nieuw, Bestaand, Verloop) voor het geselecteerde datumbereik. De X-as vertegenwoordigt maanden van het geselecteerde datumbereik. De Y-as vertegenwoordigt het aantal abonnementen. Verloopabonnementen worden weergegeven op de negatieve schaal van de Y-as. 
 
-In het gestapelde kolomdiagram wordt een uitsplitsing weergegeven van nieuwe, bestaande en verloopde abonnementen voor de maand. U kunt het kolomdiagram opnieuw opbouwen, opgesplitst met specifieke stack-items. Selecteer de specifieke items in de legenda om dit te doen. U kunt ook de schuifregelaar boven op het diagram gebruiken om in te zoomen op een specifieke periode.
+In het gestapelde kolomdiagram wordt een uitsplitsing weergegeven van nieuwe, bestaande en afgevallen abonnementen voor de maand. U kunt het kolomdiagram opnieuw opbouwen, opgesplitst met specifieke stack-items. Selecteer de specifieke items in de legenda om dit te doen. U kunt ook de schuifregelaar boven op het diagram gebruiken om in te zoomen op een specifieke periode.
 
 :::image type="content" source="images/insights/sub-report-sub-adds-churns.png" alt-text="abonnements toegevoegd en verloop.":::
 

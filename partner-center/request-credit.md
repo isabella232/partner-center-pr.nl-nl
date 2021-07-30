@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/31/2021
 description: Meer informatie over de voordelen, beperkingen en procedures voor het aanvragen van een SLA-tegoed (Service Level Agreement) bij Microsoft als uw klanten een servicestoring ervaren.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 3a0bb85143efe3d4135b56985b9a04e2dbe5e4cc
-ms.sourcegitcommit: 57442bbbef15a70bd9a042642140cbf2c8608b09
+ms.openlocfilehash: d98130f22fee81a50b40b8ae08a3fcf909201389
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "113519451"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839682"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Hoe en wanneer u een SLA-tegoed (Service Level Agreement) kunt aanvragen bij Microsoft
 
@@ -31,7 +31,7 @@ SLA-tegoeden van Microsoft worden bepaald op basis van de service(s) die zijn be
 
 ## <a name="request-an-sla-credit"></a>Een SLA-tegoed aanvragen
 
-*De CSP-partner moet de claim en alle vereiste gegevens indienen aan het einde van de kalendermaand na de maand waarin het incident zich heeft voorgedaan.* Als het incident bijvoorbeeld op 15 februari heeft plaatsgevonden, moet Microsoft de claim en alle vereiste informatie voor 31 maart ontvangen. Eindklanten en indirecte resellers kunnen geen SLA-tegoedclaims indienen; de indirecte provider of directe factuurpartner moet claims namens hen indienen.
+*De CSP-partner moet de claim en alle vereiste gegevens indienen aan het einde van de kalendermaand na de maand waarin het incident zich heeft voorgedaan.* Als het incident bijvoorbeeld op 15 februari heeft plaatsgevonden, moet Microsoft de claim en alle vereiste informatie voor 31 maart ontvangen. Eindklanten en indirecte resellers kunnen geen SLA-tegoedclaims indienen; De indirecte provider of directe factuurpartner moet claims namens hen indienen.
 
 > [!NOTE]
 > Adviesincidenten komen doorgaans niet in aanmerking voor SLA-tegoed. Een incident dat op het Service Health Dashboard wordt geplaatst, geeft aan dat een *tenant* mogelijk wordt beïnvloed en vertegenwoordigt de beste informatie die Microsoft op het moment van publicatie heeft. Statuspaginagegevens vertegenwoordigen de algemene beschikbaarheid van een service. De impact, beperking en oplossing van afzonderlijke service kan variëren. U kunt de laatste incidentpost en incidentbeoordeling bekijken voor meer informatie. Zie [How to check Microsoft 365 service health (Status van de service controleren)](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) voor meer informatie.

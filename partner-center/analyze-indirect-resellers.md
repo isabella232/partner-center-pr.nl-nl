@@ -2,19 +2,19 @@
 title: Prestaties van indirecte resellers analyseren
 description: Gebruik analyses om te leren hoe uw indirecte resellers het doen, zowel hun successen als gebieden die mogelijk meer aandacht nodig hebben.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh
 ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150179"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839087"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Analyse gebruiken om de prestaties van uw indirecte resellers te analyseren
 
@@ -45,15 +45,15 @@ We volgen de volgende metrische gegevens:
 **Belangrijkste producten per aantal abonnementen**  
  - **Dynamics 365:** Dynamics 365-producten gesorteerd op verkochte abonnementen  
  - **EMS:** aantal verkochte Enterprise Management Services-abonnementen  
- - **Microsoft 365:** Aantal verkochte Microsoft 365's  
- - **Office 365:** Office 365-producten gesorteerd op verkochte abonnementen  
+ - **Microsoft 365:** Aantal verkochte Microsoft 365 abonnementen  
+ - **Office 365:** Office 365 gesorteerd op verkochte abonnementen  
 
 **Nieuwe abonnementen**  
- - Het aantal nieuwe abonnementen toegevoegd op datum  
+ - Het aantal nieuwe abonnementen dat is toegevoegd op datum  
 
 **Abonnementsverloop**  
  - **Nieuwe abonnementen:** aantal nieuwe abonnementen toegevoegd op datum  
- - **Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date (Aantal abonnementen dat is gedeprovisioneerd of opgeschort op datum)  
+ - **Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date  
 
 **Details van nieuwe reseller**  
  - **Resellernaam:** Namen van indirecte resellers  
@@ -69,7 +69,7 @@ In deze sectie vindt u de status van de ondertekende MPA-status van de indirecte
  - **MPN-id:** MPN-id van de indirecte reseller
  - **Regio:** regio waar de indirecte reseller actief is
  - **MPN-doorlichtingsstatus:** Status van de doorlichting van de indirecte reseller
- - **Ondertekende MPA-status:** MPA-ondertekeningsstatus voor de indirecte reseller
+ - **MPA-ondertekende status:** MPA-ondertekeningsstatus voor de indirecte reseller
 
 Klik op het downloadpictogram in de grafiek om ondertekende MPA-statusgegevens met extra dimensies te downloaden
   

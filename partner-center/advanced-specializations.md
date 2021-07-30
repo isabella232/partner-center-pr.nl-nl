@@ -3,24 +3,24 @@ title: Meer informatie over geavanceerde specialisaties
 ms.topic: article
 ms.date: 07/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Uw bedrijfsprofiel versterken in de Microsoft-partnerdirectory. Meer informatie over de geavanceerde specialisaties die u kunt behalen samen met uw bestaande Gold- en Silver-competenties.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d0077df2e05c6b28564e255f84c9ef62fce69f47
-ms.sourcegitcommit: 75bb0a3d7bbcc048e850da040d1a4489a4af3332
+ms.openlocfilehash: 3ed73b67b38eba1793e79908223810cda25b2201
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "114612801"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839410"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Een geavanceerde specialisatie verdienen om uw gevalideerde mogelijkheden te laten zien
 
 **Juiste rollen:** globale | Accountbeheerder
 
-Geavanceerde specialisaties van Microsoft zijn gebaseerd op de gerelateerde [gold-competenties](learn-about-competencies.md) die een partner kan verdienen. Door goudkleurige competenties te verdienen, samen met hun gerelateerde geavanceerde specialisaties, kunnen partners hun mogelijkheden verder onderscheiden van klanten.
+Geavanceerde specialisaties van Microsoft zijn gebaseerd op de gerelateerde [gold-competenties](learn-about-competencies.md) die een partner kan verdienen. Door goudkleurige competenties te behalen, samen met hun gerelateerde geavanceerde specialisaties, kunnen partners hun mogelijkheden verder onderscheiden van klanten.
 
 Om een geavanceerde specialisatie te behalen, moet een partner vaak voldoen aan veeleisende vereisten, zoals het verkrijgen van klantverwijzingen, het ondergaan van een controle van derden, het bewijzen van het bereiken van een relevante vaardighedenset en het voldoen aan bepaalde, andere prestatiemetingen.
 
@@ -42,7 +42,6 @@ Elke geavanceerde specialisatie komt overeen met een oplossingsgebied:
 
 **Geavanceerde specialisaties** van Azure zijn onder andere:
 
-- Azure VMware Solution
 - Analyse op Microsoft Azure
 - Migratie van Data Warehouse naar Microsoft Azure
 - Kubernetes in Microsoft Azure
@@ -79,7 +78,7 @@ Elke geavanceerde specialisatie komt overeen met een oplossingsgebied:
 - Cloudbeveiliging
 
 > [!NOTE]
-> Ga naar de pagina Geavanceerde specialisaties voor meer informatie over elke geavanceerde specialisatie, samen met de vereisten [en vereisten.](https://partner.microsoft.com/membership/advanced-specialization) Wanneer u klaar bent om u aan te melden voor een geavanceerde [specialisatie,](https://partner.microsoft.com/dashboard)controleert u uw voortgang door u aan te melden bij Partner Center dashboard . Zie Apply for an advanced specialization (Toepassen op een geavanceerde specialisatie) voor meer Partner Center toegang [tot dit gebied.](advanced-specializations-apply.md)
+> Ga naar de pagina Geavanceerde specialisaties voor meer informatie over elke geavanceerde specialisatie, samen met de vereisten [en vereisten.](https://partner.microsoft.com/membership/advanced-specialization) Wanneer u klaar bent om u aan te melden voor een geavanceerde [specialisatie,](https://partner.microsoft.com/dashboard)controleert u de voortgang door u aan te melden bij Partner Center dashboard . Zie Apply for an advanced specialization (Toepassen op een geavanceerde specialisatie) voor meer Partner Center toegang [tot dit gebied.](advanced-specializations-apply.md)
 
 ## <a name="next-steps"></a>Volgende stappen
 

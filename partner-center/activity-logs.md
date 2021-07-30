@@ -1,28 +1,28 @@
 ---
-title: Inzichten verkrijgen met activiteitenlogboeken van klanten
+title: Inzichten verkrijgen via activiteitenlogboeken van klanten
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Meer informatie over het weergeven en exporteren van activiteitenlogboeken om inzicht te krijgen in klantaccounttransacties en andere partnerbeheeractiviteiten die betrekking hebben op de klant.
+ms.subservice: partnercenter-customers
+description: Meer informatie over het weergeven en exporteren van activiteitenlogboeken om inzicht te krijgen in klantaccounttransacties en andere partnerbeheeractiviteiten met betrekking tot de klant.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e21db0b6d054c62cec0378a3b93201dea072128f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150587"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839512"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Activiteitenlogboeken van klanten weergeven of exporteren voor meer inzicht in klanttransacties
 
-**Juiste rollen:** globale | Factureringsbeheerders | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent | Helpdeskagent
+**Juiste rollen:** globale | Factureringsbeheerder | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent | Helpdeskagent
 
-Activiteitenlogboeken bevatten informatie over transacties en partnerbeheeracties voor klanten. Logboeken voor transacties bevatten gedetailleerde informatie over de transactie, inclusief aangeschafte abonnementen. U kunt ook activiteitenlogboeken exporteren naar een excel-compatibele bestandsindeling met door komma's gescheiden waarden (.csv).
+Activiteitenlogboeken bevatten informatie over transacties en partnerbeheeracties voor klanten. Logboeken voor transacties bevatten gedetailleerde informatie over de transactie, inclusief aangeschafte abonnementen. U kunt ook activiteitenlogboeken exporteren naar Excel bestandsindeling met door komma's gescheiden waarden (.csv).
 
-Activiteitenlogboeken bieden records voor partneracties voor klantaccounts en producttransacties. U kunt ook activiteitenlogboeken exporteren naar een CSV-bestand.
+Activiteitenlogboeken bieden records voor partneracties voor klantaccounts en producttransacties. U kunt ook activiteitenlogboeken exporteren naar .csv bestand.
 
 ## <a name="view-and-export-activity-logs"></a>Activiteitenlogboeken weergeven en exporteren
 
@@ -42,7 +42,7 @@ Activiteitenlogboeken bieden records voor partneracties voor klantaccounts en pr
    - **Actie:** de actie die door de klant wordt ondernomen, zoals 'een verwijzing gemaakt'.
    - **Partnergebruiker:** de partner die is gekoppeld aan de activiteit.
 
-5. Selecteer **Logboek exporteren om** de abonnementsgegevens van de klant te kopiëren naar een CSV-bestand en download deze naar de standaard downloadmap op uw computer.
+5. Selecteer **Logboek exporteren om** de abonnementsgegevens van de klant te kopiëren naar een .csv en download deze naar de standaard downloadmap op uw computer.
 
 ## <a name="next-steps"></a>Volgende stappen
 

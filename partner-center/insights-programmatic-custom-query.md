@@ -3,17 +3,17 @@ title: Aangepaste queryspecificatie
 description: Meer informatie over het maken van aangepaste query's voor het extraheren van gegevens uit analysetabellen.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 57f2109044e604dca21b0109b5be56f40170628e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 636d2eba7d259ae5e4525100b8d26e25ff031f48
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376571"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839704"
 ---
 # <a name="custom-query-specification"></a>Aangepaste queryspecificatie
 
@@ -74,7 +74,7 @@ Dit zijn enkele voorbeeldquery's die laten zien hoe u verschillende typen gegeve
 |Query’s uitvoeren|    Beschrijving    |
 |----|    ----    |
 |**SELECT** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **TIMESPAN** LAST_MONTH|    Met deze query worden elke CusotmerTenantID en de bijbehorende PaidAvailableUnits in de afgelopen maand opgevraagd.    |
-|**SELECT** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **ORDER** BY PaidAvailableUnits **LIMIT** 10|    Met deze query worden de top 10 van tenants van klanten in aflopende volgorde van het aantal betaalde beschikbare eenheden opgevraagd.     |
+|**SELECT** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **ORDER** BY PaidAvailableUnits **LIMIT** 10|    Met deze query worden de top 10 van de tenants van klanten in aflopende volgorde van het aantal betaalde beschikbare eenheden opgevraagd.     |
 |**SELECT** CustomerTenantId, PaidAvailableUnits, MonthlyActiveUsers **FROM** OfficeUsage **WHERE** MonthlyActiveUsers > 100000 **ORDER BY** MonthlyActiveUsers **TIMESPAN** LAST_6_MONTHS |    Deze query krijgt de PaidAvailableUnits en MonthlyActiveUsers van alle klanten met MonthlyActiveUsers die groter zijn dan 100.000.     |
 |**SELECT** CustomerTenantId, Month, MonthlyActiveUsers **FROM** <br>OfficeUsage **WHERE** CustomerTpId IN ('2a31c234-1f4e-4c60-909e-76d234f93161', '80780748-3f9a-11eb-b378-0242ac130002') |    Met deze query worden de CustomerTenantId en de maandelijks actieve gebruikers voor elke maand opgevraagd met de twee waarden voor CustomerTpId: '2a31c234-1f4e-4c60-909e-909e76d234f93161' en '80780748-3f9a-11eb-b378-0242ac130002'.     |
 |        |        |
@@ -132,7 +132,7 @@ Elk onderdeel wordt hieronder beschreven.
 
 In dit deel van de query worden de kolommen opgegeven die worden geëxporteerd. De kolommen die kunnen worden geselecteerd, zijn de velden die worden vermeld in de secties *selectableColumns* en *availableMetrics* van een gegevensset.
 
-Optioneel kan `DISTINCT` het trefwoord worden opgegeven na `SELECT` . Als `DISTINCT` is opgegeven, bevatten de uiteindelijke geëxporteerde rijen altijd afzonderlijke waarden van de geselecteerde kolommen. Metrische gegevens worden berekend voor elke afzonderlijke combinatie van de geselecteerde kolommen. Het trefwoord is daarom niet vereist wanneer een metrische kolom wordt opgenomen `DISTINCT` in de lijst met geselecteerde kolommen.
+Optioneel kan `DISTINCT` het trefwoord worden opgegeven na `SELECT` . Als `DISTINCT` is opgegeven, bevatten de uiteindelijke geëxporteerde rijen altijd afzonderlijke waarden van de geselecteerde kolommen. Metrische gegevens worden berekend voor elke afzonderlijke combinatie van de geselecteerde kolommen. Het trefwoord is daarom niet vereist wanneer een kolom met metrische gegevens wordt opgenomen `DISTINCT` in de lijst met geselecteerde kolommen.
 
 **Voorbeeld:**
 
@@ -143,7 +143,7 @@ SELECT DISTINCT CustomerTenantId
 
 ### `FROM`
 
-Dit deel van de query geeft de gegevensset aan van waaruit gegevens moeten worden geëxporteerd. De hier opgegeven naam van de gegevensset moet een geldige gegevenssetnaam zijn die wordt geretourneerd door de API voor gegevenssets.
+Dit deel van de query geeft de gegevensset aan van waaruit gegevens moeten worden geëxporteerd. De naam van de gegevensset die hier wordt gegeven, moet een geldige gegevenssetnaam zijn die wordt geretourneerd door de API voor gegevenssets.
 
 **Voorbeeld:**
 
@@ -164,7 +164,7 @@ Dit deel van de query wordt gebruikt om filtervoorwaarden op te geven voor de ge
 
 ### `ORDER BY`
 
-In dit deel van de query worden de bestelcriteria voor de geëxporteerde rijen opgegeven. De kolommen waarop de volgorde kan worden gedefinieerd, moeten afkomstig zijn uit *de selectableColumns* en *availableMetrics* van de gegevensset. Als er geen volgorde is opgegeven, wordt deze standaard ingesteld op DESC in de kolom. Volgorde kan worden gedefinieerd voor meerdere kolommen door de criteria te scheiden met een komma.
+In dit deel van de query worden de bestelcriteria voor de geëxporteerde rijen opgegeven. De kolommen waarop de volgorde kan worden gedefinieerd, moeten afkomstig zijn uit *de selectableColumns* en *availableMetrics* van de gegevensset. Als er geen volgorde is opgegeven, wordt deze standaard ingesteld op DESC in de kolom. Ordenen kan worden gedefinieerd voor meerdere kolommen door de criteria te scheiden met een komma.
 
 **Voorbeeld:**
 

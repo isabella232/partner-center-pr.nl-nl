@@ -3,30 +3,30 @@ title: Meervoudige verificatie instellen voor uw gebruikers
 ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Meer informatie over het instellen van uw werknemers met MFA
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9cdb83c8b58b75606275c9773cba79eba75d5d0d
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: ee457193a23de0601b60b2291cdee985aceaaeb8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450799"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846108"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Meervoudige verificatie instellen voor uw gebruikers
 
 **Juiste rollen:** globale beheerder
 
-Betere privacybescherming en -beveiliging zijn een van onze belangrijkste prioriteiten. We weten dat de beste verdediging preventie is en dat we alleen zo sterk zijn als onze zwakste schakel. Daarom hebben we iedereen in ons ecosysteem nodig om te handelen en ervoor te zorgen dat de juiste beveiligingsbeschermingen zijn gewaarborgd. We raden alle partners ten zeerste aan multi-factor authentication (MFA) in te schakelen voor hun gebruikers in hun partner-tenant. 
+Betere privacybescherming en -beveiliging zijn een van onze belangrijkste prioriteiten. We weten dat de beste verdediging preventie is en dat we alleen zo sterk zijn als onze zwakste koppeling. Daarom hebben we iedereen in ons ecosysteem nodig om actie te ondernemen en ervoor te zorgen dat de juiste beveiligingsbescherming is gewaarborgd. We raden alle partners ten zeerste aan multi-factor authentication (MFA) in te schakelen voor hun gebruikers in hun partner-tenant. 
 
-## <a name="add-multi-factor-authentication-for-your-users"></a>Meervoudige verificatie voor uw gebruikers toevoegen
+## <a name="add-multi-factor-authentication-for-your-users"></a>Meervoudige verificatie toevoegen voor uw gebruikers
 
 U moet de globale beheerder voor uw bedrijf zijn om deze taak te voltooien.
 
-Het is het gemakkelijkst om MFA in te stellen voor uw gebruikers wanneer u ze toevoegt aan uw Azure AD-tenant.
+Het is het gemakkelijkst om MFA in teschakelen voor uw gebruikers wanneer u ze toevoegt aan uw Azure AD-tenant.
 
 1. Meld u aan [Azure Portal](https://portal.azure.com) en ga vervolgens naar **Gebruikersbeheer.**
 1. Selecteer **Multi-Factor Authentication.**
@@ -37,9 +37,9 @@ Hiermee wordt MFA ingeschakeld voor deze gebruiker. Ingeschakeld betekent dat de
 :::image type="content" source="images/multi-factor-authentication/security-verification.png" alt-text="Geef op hoe u dit wilt controleren.":::
 
 >[!NOTE]
->U kunt **afdwingen** dat gebruikers MFA gebruiken door dezelfde stappen te volgen als hierboven en Afdwingen **te selecteren.** Lees Azure [Multi-Factor Authentication per gebruiker](/azure/active-directory/authentication/howto-mfa-userstates)inschakelen om aanmeldingsgebeurtenissen te beveiligen voor meer informatie. 
+>U kunt **afdwingen** dat gebruikers MFA gebruiken door dezelfde stappen te volgen als hierboven en Afdwingen **te selecteren.** Lees Enable [per-user Azure Multi-Factor Authentication to secure sign-in events (Azure Multi-Factor Authentication per gebruiker](/azure/active-directory/authentication/howto-mfa-userstates)inschakelen om aanmeldingsgebeurtenissen te beveiligen) voor meer informatie. 
 
-Alle gebruikers starten **Uitgeschakeld.** Wanneer u gebruikers per gebruiker inschrijft Azure Active Directory Multi-Factor Authentication, verandert hun status in **Ingeschakeld.** Wanneer ingeschakelde gebruikers zich aanmelden en het registratieproces voltooien, verandert hun status in **Afgedwongen.** 
+Alle gebruikers starten **Uitgeschakeld.** Wanneer u gebruikers per gebruiker inschrijft Azure Active Directory Multi-Factor Authentication, wordt de status gewijzigd in **Ingeschakeld.** Wanneer ingeschakelde gebruikers zich aanmelden en het registratieproces voltooien, wordt de status gewijzigd in **Afgedwongen.** 
 
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-payouts
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: d34984c3bbe8588cf2a5a40f7c50b14ba6928405
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: cc32ed034f14603c92086d03dd9d43ee7c79b66e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818674"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845870"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>IRS-belastingformulieren begrijpen die zijn uitgegeven door Microsoft
 
@@ -27,8 +27,8 @@ In dit artikel wordt meer uitgelegd over deze formulieren, waaronder wie ze ontv
 
 | IRS-belastingformulier | Beschrijving | Beschikbaarheid |
 |--------------|-------------|--------------|
-|1099-MISC, 1099-K | Gerelateerd aan verkoopactiviteit en/of betalingen die aan u zijn gedaan voor deelname aan microsoft-marketplaces | Afgedrukte formulieren worden gemarkeerd op of vóór **31** januari en PDF-kopieën zijn beschikbaar in [Partner Center](https://partner.microsoft.com/dashboard) (in **Partner Center Account-instellingen** onder Uitbetaling en belasting **> Uitbetalings-** en belastingprofielen ) op hetzelfde moment |
-|1042-S | Gerelateerd aan betalingen aan u die onderhevig zijn aan Verenigde Staten bronbelasting | Afgedrukte formulieren worden gemarkeerd op of vóór **15** maart en PDF-kopieën zijn op hetzelfde moment beschikbaar in Partner Center (in **de instellingen voor Partner Center Developer** onder Uitbetaling en belasting > **Uitbetalings-** en belastingprofielen )  |
+|1099-MISC, 1099-K | Gerelateerd aan verkoopactiviteit en/of betalingen die aan u zijn gedaan voor deelname aan microsoft-marketplaces | Afgedrukte formulieren worden gemarkeerd op of vóór **31** januari en .pdf-kopieën zijn beschikbaar in [Partner Center](https://partner.microsoft.com/dashboard) (in **Partner Center Account-instellingen** onder Uitbetaling en belasting **> Uitbetalings-** en belastingprofielen ) op hetzelfde moment |
+|1042-S | Gerelateerd aan betalingen aan u die onderhevig zijn aan Verenigde Staten bronbelasting | Afgedrukte formulieren worden gemarkeerd op of vóór **15** maart en .pdf-kopieën zijn op hetzelfde moment beschikbaar in Partner Center (in **Partner Center Developer Instellingen** onder Uitbetaling en belasting > **Uitbetaling** en belastingprofielen )  |
 
 > [!NOTE]
 > Het adres dat we op IRS-belastingformulieren gebruiken, is afkomstig van het adres in uw belastingprofiel bij het instellen van uw [uitbetalingsaccount en belastingformulieren.](set-up-your-payout-account.md) Als uw adres is gewijzigd, moet u het adres in uw **belastingprofiel bijwerken.**
@@ -46,8 +46,8 @@ De belastingformulieren worden vanaf de volgende adressen naar u verzonden:
 
 | Bedrijfsgroep         | Rechtspersoon          | Adres                                          |
 |------------------------|-----------------------|--------------------------------------------------|
-| Windows, Office, Azure | Microsoft Ierland Operations Limited (betaling wordt gedaan door Microsoft Corporation via Microsoft Ierland dat fungeert als gekwalificeerde intermediair voor Microsoft Corporation) | Eén Microsoft-plaats<br>South County Business Park<br>18, Dublin 18, D18 P521, Ierland|
-| Advertenties          | Microsoft Ierland Operations Limited (de betaling wordt uitgevoerd door Microsoft Online Inc. via Microsoft Ierland en als uitbetalingsagent voor Microsoft Online Inc.) | Eén Microsoft-plaats<br>South County& Business Park<br>18, Dublin 18, D18 P521, Ierland |
+| Windows, Office, Azure | Microsoft Ierland Operations Limited (betaling wordt gedaan door Microsoft Corporation via Microsoft Ierland die fungeert als gekwalificeerde intermediair voor Microsoft Corporation) | Eén Microsoft-plaats<br>South County Business Park<br>18, Dublin, D18 P521, Ierland|
+| Advertenties          | Microsoft Ierland Operations Limited (betaling wordt gedaan door Microsoft Online Inc. via Microsoft Ierland dat optreedt als uitbetalingsagent voor Microsoft Online Inc.) | Eén Microsoft-plaats<br>South County& Business Park<br>18, Dublin, D18 P521, Ierland |
 | Advertenties            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
 
 >[!NOTE]
@@ -57,11 +57,11 @@ De belastingformulieren worden vanaf de volgende adressen naar u verzonden:
 
 | Als ik een ontwikkelaar Verenigde Staten die betaalde apps verkoopt en...   | Ik zou dit formulier moeten ontvangen: |
 |------------------------|-----------------------|
-| Ik heb in het toepasselijke belastingjaar meer dan **200 app-verkopen** gehad met een totaalaankoopbedrag van meer dan **USD 20.000** in het toepasselijke belastingjaar **(niet** meegerekend dat de verkoop in Brazilië en China via de Microsoft Store op Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belangrijk:** Formulier 1099-K  bevat brutoaankoopbedragen, geen betalingen aan u.| 
-| Ik heb **ten minste $ 10 aan** betalingen ontvangen voor (i) app-verkopen in Brazilië en China via de Microsoft Store op Windows 10- of (ii)-verkoop in de Marketplace in Marketplace.<br/><br/>**OF**<br/><br/>Ik heb in het toepasselijke belastingjaar ten minste $ 600 ontvangen aan betalingen die niet zijn gerelateerd aan de verkoop van apps van Microsoft (bijvoorbeeld incentive-betalingen of betalingen van een wedstrijd of promotie)| **1099-MISC:**<br/>Beller: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belangrijk:** Bepaalde bedrijfsentiteiten ontvangen geen 1099-MISC-formulieren, ongeacht de betalingsbedragen die van Microsoft zijn ontvangen.  Neem contact op met uw belastingprofessional voor meer informatie.| 
+| Ik had meer dan **200 app-verkopen** met een totaal van deze verkopen hoger dan **$ 20.000 USD** in het toepasselijke belastingjaar (niet meegerekend dat de verkoop in Brazilië en China via de Microsoft Store op Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belangrijk:** Formulier 1099-K  bevat brutoaankoopbedragen, geen betalingen aan u.| 
+| Ik heb **ten minste $ 10** aan betalingen ontvangen voor (i) app-verkopen in Brazilië en China via de Microsoft Store op Windows 10- of (ii)-verkoop in de Minecraft Marketplace.<br/><br/>**OF**<br/><br/>Ik heb in het toepasselijke belastingjaar ten minste $ 600 ontvangen aan betalingen die niet zijn gerelateerd aan de verkoop van apps van Microsoft (bijvoorbeeld incentive-betalingen of betalingen van een wedstrijd of promotie)| **1099-MISC:**<br/>Beller: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belangrijk:** Bepaalde bedrijfsentiteiten ontvangen geen 1099-MISC-formulieren, ongeacht de betalingsbedragen die van Microsoft zijn ontvangen.  Neem contact op met uw belastingprofessional voor meer informatie.| 
 | Geen van de bovenstaande is van toepassing.| Geen |
 | <br/><br/>**Als ik een ontwikkelaar ben Verenigde Staten advertenties in apps en...** |<br/><br/>**Ik zou dit formulier moeten ontvangen:** |
-|Ik heb **ten minste $ 600 aan betalingen ontvangen van** advertenties in apps in het toepasselijke belastingjaar. | **1099-MISC:**<br/>Beller: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Belangrijk:** Bepaalde bedrijfsentiteiten ontvangen geen formulieren van 1099-MISC, ongeacht de betalingsbedragen die van Microsoft zijn ontvangen.  Neem contact op met uw belastingprofessional voor meer informatie. |
+|Ik heb **ten minste $ 600 aan betalingen ontvangen** van advertenties in apps in het toepasselijke belastingjaar. | **1099-MISC:**<br/>Beller: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Belangrijk:** Bepaalde bedrijfsentiteiten ontvangen geen 1099-MISC-formulieren, ongeacht de betalingsbedragen die van Microsoft zijn ontvangen.  Neem contact op met uw belastingprofessional voor meer informatie. |
 | Ik heb **minder dan $ 600 aan betalingen ontvangen** van advertenties in apps in het toepasselijke belastingjaar. | Geen |
 
 
@@ -71,11 +71,11 @@ De belastingformulieren worden vanaf de volgende adressen naar u verzonden:
 | **Vraag** | **Antwoord** |
 |---|---|
 | **Ik heb een formulier 1042-S ontvangen van Microsoft. Waar is het voor?** | Microsoft heeft u een 1042-S-formulier of -formulieren verstrekt omdat we u omzet hebben betaald die als te rapporteren is aan de Verenigde Staten-belastinginstanties en onderworpen was aan bronbelasting.  Formulier 1042-S wordt gebruikt voor deze rapportagevereiste. | 
-| **Wat moet ik doen met de formulieren?** | Over het algemeen is er geen specifieke actie vereist. Het formulier 1042-S kan nuttig zijn als u een aanvraag wilt indienen bij uw lokale btw-instanties voor een vorm van belastingtegoed.  Neem contact op met uw eigen belastingadviseurs voor meer informatie over dit onderwerp. | 
-| **Waarom is de belasting voor mijn betalingen ingehouden toen ik een W8-formulier heb ingevuld?** | Belastingen worden ingetrokken als:<br/><br/>1. U hebt de belastingafdingssectie van de W8 niet correct voltooid, of <br/>2. U woont in een land dat geen belasting heeft met de Verenigde Staten.<br/><br/>U kunt op Partner Center bezoek gaan om een bijgewerkt W8-formulier in te dienen.<br/><br/> **Opmerking:** Niet alle inkomsten zijn onderworpen aan belasting. | 
+| **Wat moet ik doen met de formulieren?** | Over het algemeen is er geen specifieke actie van uw kant vereist. Het formulier 1042-S kan nuttig zijn voor u als u een aanvraag wilt indienen bij uw lokale belastinginstanties voor elke vorm van belastingtegoed.  Neem contact op met uw eigen belastingadviseurs voor meer informatie over dit onderwerp. | 
+| **Waarom is de belasting voor mijn betalingen ingehouden toen ik een W8-formulier heb ingevuld?** | Belastingen worden ingetrokken als een van de volgende:<br/><br/>1. U hebt het belastinggedeelte van de W8 niet correct voltooid, of <br/>2. U woont in een land dat geen belasting heeft met de Verenigde Staten.<br/><br/>U kunt op Partner Center bezoek gaan om een bijgewerkt W8-formulier in te dienen.<br/><br/> **Opmerking:** Niet alle inkomsten zijn onderworpen aan holding. | 
 | **Ik heb een bijgewerkt W8-formulier met geldige informatie verzonden. Kan Microsoft de ingehouden belasting terugbetaald?** | Zodra de belasting is ingetrokken, kan deze niet meer worden gerestitueerd. Neem contact op met uw belastingadviseurs om te bespreken of u een lokaal tegoed voor deze belastingen kunt claimen of dat u een restitutie kunt aanvragen bij de IRS. | 
-| **Welke verkopen worden gerapporteerd op formulier 1042-S?** | Alleen verkoop aan koperen die zich in de Verenigde Staten die zijn geclassificeerd als onderworpen aan **belasting,** kunnen worden rapporteren.  Alle andere verkopen worden niet als rapporteerbaar beschouwd. | 
-| **Waarom heb ik drie kopieën van hetzelfde formulier 1042-S in één envelop gekregen?** | Voor IRS-regelgeving moeten drie kopieën van het formulier worden opgegeven:<br/><br/>- Eén voor de records van de ontvanger<br/>- Een voor het indienen van een Verenigde Staten federale belastingaangifte (indien van toepassing)<br/>- Een voor het indienen met een Verenigde Staten belastingaangifte (indien van toepassing) |
+| **Welke verkopen worden gerapporteerd op formulier 1042-S?** | Alleen verkoop aan **koperen die zich in** de Verenigde Staten die zijn geclassificeerd als onderworpen aan belasting, kunnen worden rapporteren.  Alle andere verkopen worden niet als rapporteerbaar beschouwd. | 
+| **Waarom heb ik drie kopieën van hetzelfde formulier 1042-S in één envelop gekregen?** | IRS-regelgeving vereist dat er drie kopieën van het formulier worden opgegeven:<br/><br/>- Eén voor de records van de ontvanger<br/>- Een voor het indienen met een Verenigde Staten federal tax return (indien van toepassing)<br/>- Een voor het indienen met een Verenigde Staten belastingaangifte (indien van toepassing) |
 
 > [!NOTE]
 > Als u aanvullende vragen of problemen hebt met [](https://partner.microsoft.com/dashboard/support/) betrekking tot IRS-belastingformulieren, gaat u naar Help en ondersteuning in Partner Center dashboard.  Microsoft kan geen vragen beantwoorden met betrekking tot uw specifieke belastingomstandigheden; Voor deze vragen kunt u advies krijgen van uw belastingprofessional.

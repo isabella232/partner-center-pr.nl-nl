@@ -1,75 +1,75 @@
 ---
 title: Aankondigingen van januari 2021
-description: Aankondigingen van januari 2021 voor Microsoft Partner Center nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
+description: Aankondigingen van januari 2021 voor Microsoft Partner Center met inbegrip van nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/02/2021
-ms.openlocfilehash: 06593db6a55299170c696e3179b5ad1a666aacc7
-ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+ms.openlocfilehash: 4a59d3cdddd01dcd6fac105cbbb69c079bbd389d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "114224680"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838724"
 ---
 # <a name="january-2021-announcements"></a>Aankondigingen van januari 2021
 
-Op deze pagina staan de aankondigingen voor Microsoft Partner Center voor januari 2021.
+Deze pagina geeft informatie over de aankondigingen voor Microsoft Partner Center voor januari 2021.
 
 Aankondigingen van 2021: januari
 
-Aankondigingen voor 2020: [mei](2020-may.md)  |  [juli](2020-june.md)  |  [augustus](2020-july.md)  |  [](2020-august.md)  |  [september](2020-september.md)  |  [oktober](2020-October.md)  |  [december](2020-november.md)  |  [](2020-december.md)  
+Aankondigingen van 2020: [mei](2020-may.md)  |  [juli](2020-june.md)  |  [augustus](2020-july.md)  |  [](2020-august.md)  |  [september](2020-september.md)  |  [november](2020-October.md)  |  [](2020-november.md)  |  [december](2020-december.md)  
 
 _____________ 
 
-## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Fase 1 nu live: EU/EFTA & uk Change of Partner Billing Currency for new commerce offers
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Fase 1 nu live: EU/EFTA & UK Wijziging van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 28-01-2021
+- Datum: 2021-01-28
 - Functies
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-- Alle partners die het programma Cloud Solution Provider in de EU/EFTA-& VK
+- Alle partners die via het programma Cloud Solution Provider in de EU/EFTA-& VK
 
 ### <a name="details"></a>Details
 
-In de Europese Unie (EU)/Europese Free Trade Association (EFTA) en het Verenigd Koninkrijk (VK) gebruiken alle nieuwe commerciële aanbiedingen in het Cloud Solution Provider-programma partnerfactureringslocatie in plaats van klantfactureringslocatie. Als zodanig worden partners door Microsoft gefactureerd op basis van hun locatievaluta, niet op basis van de locatievaluta van hun klanten. Deze wijzigingen worden in twee fasen uitgevoerd:
+In de Europese Unie (EU)/Europese Free Trade Association (EFTA) en het Verenigd Koninkrijk (VK) gebruiken alle nieuwe commerciële aanbiedingen in het Cloud Solution Provider-programma de factureringslocatie van partners in plaats van de factureringslocatie van de klant. Als zodanig worden partners door Microsoft gefactureerd op basis van hun locatievaluta, niet op basis van de locatievaluta van hun klanten. Deze wijzigingen worden in twee fasen uitgevoerd:
 
 **Fase 1:**
 
-- Nieuwe klant die een nieuwe commerce-aanbieding koopt in CSP
+- Nieuwe klant die een nieuwe commerceaanbieding in CSP aanschaft
 
-- Bestaande klanten kopen voor het eerst nieuwe commerce-aanbiedingen - Tenant gemaakt vóór 11 mei 2020
+- Bestaande klanten kopen nieuwe commerceaanbiedingen voor de eerste keer: tenant gemaakt vóór 11 mei 2020
 
-Vanaf 28 januari 2021 worden partners die netto nieuwe klanten hebben die een nieuwe commerce-aanbieding kopen of bestaande klanten met tenants die zijn gemaakt vóór 11 mei 2020, gefactureerd voor deze aankopen in partnerlocatievaluta.  
+Vanaf 28 januari 2021 worden partners die net nieuwe klanten hebben die een nieuwe commerce-aanbieding kopen of bestaande klanten met tenants die zijn gemaakt vóór 11 mei 2020, gefactureerd voor deze aankopen in partnerlocatievaluta.  
 
 Partners met bestaande klanten die al nieuwe commerceaanbiedingen in CSP hebben aangeschaft, worden in deze fase nog steeds gefactureerd in de valuta van de factureringslocatie van de klant. Daarnaast worden partners met bestaande klanten die voor het eerst een nieuwe commerce-aanbieding aanschaffen, waarvan de tenants zijn gemaakt op of na 11 mei 2020, nog steeds gefactureerd in de valuta van de klant.
 
 **Fase 2:**
 
-- Bestaande klanten die al vóór fase 1 een nieuwe commerce-aanbieding in CSP hebben gekocht
-- Bestaande klanten kopen voor het eerst nieuwe commerce-aanbiedingen - Tenant gemaakt op of na 11 mei 2020
+- Bestaande klanten die al vóór fase 1 een nieuwe commerceaanbieding in CSP hebben gekocht
+- Bestaande klanten kopen voor het eerst nieuwe commerce-aanbiedingen- Tenant gemaakt op of na 11 mei 2020
 
-Na fase 1 en kalenderjaar 2021 zal Microsoft de facturering van nieuwe commerceaanbiedingen voor partners met bestaande klanten, die een nieuwe commerceaanbieding hebben aangeschaft in CSP vóór fase 1, overstappen van klanten die hun tenants op of na 11 mei 2020 hebben gemaakt van de valuta van de klantlocatie naar de valuta van de partnerlocatie. Partners worden ruim van tevoren op de hoogte gesteld voordat deze wijziging wordt geïmplementeerd.
+Na fase 1 en tijdens kalenderjaar 2021 zal Microsoft de facturering van nieuwe commerceaanbiedingen voor partners met bestaande klanten die een nieuwe commerce-aanbieding in CSP hebben aangeschaft vóór fase 1 overstappen, evenals klanten die hun tenants op of na 11 mei 2020 hebben gemaakt van de valuta van de klantlocatie naar de valuta van de partnerlocatie. Partners worden ruim van tevoren op de hoogte gesteld voordat deze wijziging wordt geïmplementeerd.
 
 Na fase 2 worden partners in de EU/EFTA & UK gefactureerd in partnerlocatievaluta voor alle klanten en alle CSP-aankopen.
 
 >[!NOTE]
->Deze wijziging is alleen van invloed op de factureringsvaluta van partners en niet op de prijzen van nieuwe commerceaanbiedingen in CSP. De nieuwe commerceaanbiedingen die binnen het bereik van deze wijziging vallen, zijn: Azure-abonnementen die deel uitmaken van een Azure-abonnement, Azure-reserveringen, serverabonnementen, permanente software en aankopen op de commerciële marketplace van Microsoft in het Cloud Solution Provider-programma.
+>Deze wijziging is alleen van invloed op de factureringsvaluta van partners en niet op de prijzen van nieuwe commerceaanbiedingen in CSP. De nieuwe commerce-aanbiedingen die binnen het bereik van deze wijziging vallen, zijn: Azure-abonnementen die deel uitmaken van een Azure-plan, Azure-reserveringen, serverabonnementen, permanente software en aankopen op de commerciële Microsoft-marketplace in het Cloud Solution Provider-programma.
 
-### <a name="partner-benefits"></a>Partnervoordelen
+### <a name="partner-benefits"></a>Voordelen van partners
 
-Deze update vermindert de complexiteit en overhead met facturering met meerdere valuta's in de EU/EFTA & UK voor de nieuwe commerce-ervaring.
+Deze update vermindert de complexiteit en overhead met facturering met meerdere valuta's in de EU/EFTA & VK voor de nieuwe commerce-ervaring.
 
 - Partners ontvangen een geconsolideerde factuur in één valuta en ontvangen geen factuur meer voor elke klantlocatievaluta
 - Incentive-uitbetalingen zijn in dezelfde valuta als de factuurvaluta van de partner
-- Partners merken een verminderde factureringscomplexiteit op die wordt veroorzaakt door facturering in meerdere valuta's, waardoor er tijd en resources beschikbaar zijn die momenteel zijn gekoppeld aan het afstemmen van accounts
+- Partners merken een verminderde factureringscomplexiteit op die wordt veroorzaakt door facturering met meerdere valuta's, waardoor er tijd vrij komt en resources die momenteel zijn gekoppeld aan het afstemmen van accounts
 - Voor partners die nog geen nieuwe commerce-aanbiedingen hebben aangenomen, sluit deze wijziging aan bij het vorige partnerfactureringsmodel, waardoor partners gemakkelijker kunnen overstappen naar de nieuwe commerce-ervaring in CSP
 
 ### <a name="next-steps"></a>Volgende stappen
@@ -86,7 +86,7 @@ Voor vragen met betrekking tot deze melding kunt u contact [opnemen Partner Cent
 - 7 januari 2021: Extra scenario opgenomen voor fase 1 en fase 2
 - 28 januari 2021: 
     -    Aankondiging van fase 1 is live 
-    -    Verduidelijking als het VK niet is opgenomen in de EU/EFTA, maar ze maken deel uit van de Europese regio en markt van [Microsoft](../regional-authorization-overview.md) en zullen worden beïnvloed
+    -    Verduidelijking: hoewel het VK niet is opgenomen in de EU/EFTA, maken ze deel uit van de Europese regio en markt van [Microsoft](../regional-authorization-overview.md) en worden ze beïnvloed
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a>Wijzigingen in de onboardingvereisten Cloud Solution Provider de klant (CSP)
@@ -98,7 +98,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Als onderdeel van onze toezegging om partners en klanten te helpen hun bedrijf te runnen op basis van vertrouwen, vragen we aanvullende klantgegevens aan, met ingang van 25 maart 2021.
+Als onderdeel van onze inzet om partners en klanten te helpen hun bedrijf te runnen op basis van vertrouwen, vragen we aanvullende klantgegevens aan, met ingang van 25 maart 2021.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -106,9 +106,9 @@ CSP-partners voor directe factuur en indirecte providers die nieuwe of bestaande
 
 ### <a name="details"></a>Details
 
-Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het transacteren van klantabonnementen in het CSP-programma. Op 25 maart 2021 introduceren we verbeteringen in Partner Center API en gebruikersinterface (UI) die van invloed zijn op partners die voldoen aan beide criteria:
+Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het transacteren van klantabonnementen in het CSP-programma. Op 25 maart 2021 introduceren we verbeteringen van Partner Center API en gebruikersinterface (UI) die van invloed zijn op partners die aan beide van de volgende criteria voldoen:
 
-1. De partner heeft een directe factureringsrelatie met Microsoft (wat betekent dat de partner een partner voor directe facturering of een indirecte provider is).
+1. De partner heeft een directe factureringsrelatie met Microsoft (wat betekent dat de partner een directe factureringspartner of een indirecte provider is).
 
 2. De partner doet zaken met nieuwe of bestaande klanten in de volgende landen:
 
@@ -126,11 +126,11 @@ Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele,
     - Verenigde Arabische Emiraten
     - Venezuela
 
-Partners die aan de criteria voldoen, moeten de bedrijfsregistratie-id (ook wel de INN van de organisatie van de klant genoemd) en het telefoonnummer van een klant indienen wanneer ze de volgende keer een abonnement voor die klant bijwerken of maken. Deze partners kunnen ook een optionele middelste naam voor de klant invoeren.
+Partners die aan de criteria voldoen, moeten de bedrijfsregistratie-id (ook wel inN van de organisatie van de klant genoemd) en het telefoonnummer van een klant indienen wanneer ze de volgende keer een abonnement voor die klant bijwerken of maken. Deze partners kunnen ook een optionele middelste naam voor de klant invoeren.
 
-Houd er rekening mee dat wanneer u uw bedrijfsregistratie-id toevoegt, u uw zakelijke btw-id moet gebruiken en niet de persoonlijke id van de klant.
+Houd er rekening mee dat wanneer u uw bedrijfsregistratie-id toevoegt, u uw bedrijfsbelasting-id moet gebruiken en niet de persoonlijke id van de klant.
 
-Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben al een eerdere versie van november 2020 in gebruik.
+Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben in november 2020 al een eerdere release gehad.
 
 - Armenië
 - Azerbeidzjan
@@ -144,20 +144,20 @@ Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, h
 - Oekraïne
 - Oezbekistan
 
-Partners met klanten in de rest van de wereld hebben eind maart 2021 de mogelijkheid om de bedrijfsregistratie-id, het telefoonnummer en de middelste naam voor klanten in te voeren als optionele gegevens.
+Partners met klanten in de rest van de wereld kunnen eind maart 2021 de bedrijfsregistratie-id, het telefoonnummer en de middelste naam voor klanten invoeren als optionele details.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de technische documentatie en veelgestelde vragen in de verzameling [toegewezen partners](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
-- Bereid u voor op het opnemen van de wijzigingen Partner Center api en webgebruikerservaring. API's/SDK's zijn beschikbaar voor testen.
+- Bekijk de technische documentatie en veelgestelde vragen in de speciale [partnerverzameling](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
+- Bereid u voor op het opnemen van de wijzigingen met behulp Partner Center API en webgebruikerservaring. API/SDK's zijn beschikbaar om te testen.
 - Zorg ervoor dat u de aanvullende gegevens indient bij het onboarden van nieuwe klanten of het wijzigen van bestaande klantgegevens.
 - Als u een CPV-oplossing (Panel Vendor) gebruikt, raadpleegt u uw CPV.
 
 ### <a name="questions"></a>Vragen?
 
-Neem contact op met uw belastingadviseur of lokale belasting kantoor als u vragen hebt met betrekking tot de registratie-id van het bedrijf (ook wel INN of TIN genoemd). Microsoft kan geen richtlijnen geven over belastingzaken.
+Neem contact op met uw belastingadviseur of lokale btw-kantoor als u vragen hebt met betrekking tot de registratie-id van het bedrijf (ook wel INN of TIN genoemd). Microsoft kan geen richtlijnen geven over belastingzaken.
 
-Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u een [serviceaanvraag.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u [een serviceaanvraag.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 ### <a name="change-log"></a>Wijzigingslogboek:
 
@@ -265,9 +265,9 @@ Met de nieuwe commerce-ervaring krijgen partners toegang tot Azure-services tege
 
 #### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Wijzigingen in de beschikbaarheid van de vorige Azure-aanbieding in het Cloud Solution Provider programma
 
-Toen we de nieuwe Azure-aanbieding in het Cloud Solution Provider-programma (Azure-plan) aankondigden, informeerden we partners dat de vorige Azure-aanbieding en het vorige Azure-platform nog enige tijd beschikbaar zouden blijven, naast de nieuwe Azure-ervaring, en dat we partners zes maanden van tevoren informeerden voordat er wijzigingen in de vorige Azure-aanbieding zouden worden aangebracht.
+Toen we de nieuwe Azure-aanbieding in het Cloud Solution Provider-programma (Azure-plan) aankondigden, informeerden we partners dat de vorige Azure-aanbieding en het vorige Azure-platform nog enige tijd beschikbaar zouden blijven, naast de nieuwe Azure-ervaring, en dat we partners zes maanden van tevoren op de hoogte zouden stellen voordat er wijzigingen in de vorige Azure-aanbieding zouden worden aangebracht.
 
-Hoewel de nieuwe Azure-aanbieding in het Cloud Solution Provider-programma (Azure-plan) partners een verbeterde ervaring biedt, willen we partners de tijd geven om de nieuwe Azure-functies te integreren met hun services en hun klanten over te zetten naar de nieuwe ervaring.
+Hoewel de nieuwe Azure-aanbieding in het Cloud Solution Provider-programma (Azure-plan) partners een verbeterde ervaring biedt, willen we partners de tijd geven om de nieuwe Azure-functies in hun services op te nemen en hun klanten over te zetten naar de nieuwe ervaring.
 
 Er zijn drie fasen van wijziging in de vorige Azure-aanbieding. Vandaag delen we meer informatie over deze drie fasen.
 
@@ -316,7 +316,7 @@ Partners worden ten zeerste aangeraden vertrouwd te raken met de volgende resour
 Voor vragen met betrekking tot deze melding kunt u contact [opnemen met Partner Center ondersteuning.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a>Continue software is nu algemeen beschikbaar voor het Cloud Solution Provider programma
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a>Doorlopende software is nu algemeen beschikbaar voor Cloud Solution Provider programma
 
 ### <a name="categories"></a>Categorieën
 
@@ -330,7 +330,7 @@ Alle CSP-partners
 ### <a name="details"></a>Details
 
 >[!NOTE]
->Als gevolg van feedback van partners geven we opnieuw aan Partner Center mogelijkheid om software- en licentiesleutels voor permanente en serverabonnementssoftwareorders te verkrijgen. Deze wordt hersteld naar de vorige staat voordat deze wordt verwijderd op 19 januari 2021. Zie de aankondiging van [maart 2021 voor meer informatie.](./2021-march.md#4)
+>Als gevolg van feedback van partners geven we opnieuw aan Partner Center mogelijkheid om software- en licentiesleutels te verkrijgen voor doorlopende en serverabonnementsoftwareorders. Deze wordt hersteld naar de vorige staat voordat deze wordt verwijderd op 19 januari 2021. Zie de aankondiging van [maart 2021 voor meer informatie.](./2021-march.md#4)
 
 Zoals [vandaag](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) aangekondigd, stellen we u graag op de hoogte dat commerciële doorlopende softwarelicenties nu algemeen beschikbaar zijn voor alle CSP-partners om te verkopen. De Partner Center prijslijst voor doorlopende CSP-software is opnieuw gepubliceerd en bevat nu aanvullende producten en geografische gebieden.
 
@@ -423,7 +423,7 @@ Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
 
 #### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Microsoft 365 SKU's voor G5-nalevingscomponenten voor de overheid](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
-Er worden drie nieuwe onderdelenaanbiedingen voor Government Community Cloud (GCC) en GCC High-klanten gelanceerd. Deze zijn vanaf 1 februari 2021 beschikbaar. Deze SKU's zijn het equivalent van Microsoft 365 E5 Information Protection and Governance, M365 E5 Insider Risk Management en Microsoft 365 E5 eDiscovery & Audit die momenteel beschikbaar zijn in Commercieel. 
+Er worden drie nieuwe onderdelenaanbiedingen voor Government Community Cloud (GCC) en GCC High-klanten gelanceerd. Deze zijn beschikbaar vanaf 1 februari 2021. Deze SKU's zijn het equivalent van Microsoft 365 E5 Information Protection and Governance, M365 E5 Insider Risk Management en Microsoft 365 E5 eDiscovery & Audit, die momenteel beschikbaar zijn in Commercieel. 
 
    |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-id**|
    |-------------------|:------|:------|
@@ -438,12 +438,12 @@ Een invoeg-on die beschikbaar is met een vereiste van Microsoft 365 E5 stelt kla
 
    |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-id**|
    |-------------------|:------|:------|
-   |Retentie van auditlogboek van tien jaar toevoegen voor EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |Retentie van auditlogboek van 10 jaar toevoegen voor EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
    |Retentie van auditlogboek van 10 jaar toevoegen|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
    
 #### <a name="frontline-worker-add-ons"></a>Frontline Worker-invoegtoepassingen
 
-Vanaf 1 februari 2021 kunnen klanten drie nieuwe programmatische aanbiedingen voor beveiliging en naleving voor frontlinemedewerkers aanschaffen als invoegtoepassingen voor de SKU's Microsoft 365 F1 en [F3.](https://www.microsoft.com/microsoft-365/firstline-workers)
+Vanaf 1 februari 2021 kunnen klanten drie nieuwe programmatische aanbiedingen voor beveiliging en naleving voor frontlinemedewerkers aanschaffen als invoegtoepassingen voor de Microsoft 365 F1- en [F3-SKU's.](https://www.microsoft.com/microsoft-365/firstline-workers)
 
 Deze programmatische aanbiedingen vervangen de [huidige](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) promotie voor beveiliging en naleving die op 28 februari **2021 verloopt.** In tegenstelling tot de huidige promotie bieden de F5-invoegtoepassingen klanten meer voorspelbaarheid voor prognoses naarmate hun eerstelijnspersoneel groeit.
 
@@ -452,19 +452,19 @@ Deze programmatische aanbiedingen vervangen de [huidige](https://microsoft.share
    |-------------------|:------|:------|
    |Microsoft 365 F5-beveiliging|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
    |Microsoft 365 F5-naleving|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
-   |Microsoft 365 Naleving van F5-& beveiliging|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   |Microsoft 365 F5-& naleving|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
    
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de preview van de prijslijst en deel deze met de juiste belanghebbenden in uw organisatie. Ga voor meer informatie naar [Microsoft Security and Compliance - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
+Bekijk de preview-versie van de prijslijst en deel deze met de juiste belanghebbenden in uw organisatie. Ga voor meer informatie naar [Microsoft Security and Compliance - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
 
 ### <a name="questions"></a>Vragen?
 
-Als u meer vragen over deze aanbiedingen hebt, controleert u uw relevante Yammer community's. 
+Als u meer vragen hebt over deze aanbiedingen, controleert u uw relevante Yammer community's. 
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>DocuSign-migratie naar Adobe Sign voor partners onder Microsoft Partner-overeenkomsten (MVA's) 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>Migratie van DocuSign naar Adobe Sign voor partners onder Microsoft Partner-overeenkomsten (MVA's) 
 
 ### <a name="categories"></a>Categorieën
 
@@ -473,30 +473,30 @@ _____________
 
 ### <a name="summary"></a>Samenvatting
 
-Microsoft zal alle elektronische handtekeningverwerking overstappen van DocuSign naar Adobe Sign.
+Microsoft gaat alle elektronische handtekeningverwerking over van DocuSign naar Adobe Sign.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Bestaande partners voor directe en indirecte Cloud Solution Provider (CSP) onder MPA. Partners in Rusland, Rusland en Rusland moeten de Handtekening jaarlijks fysiek of elektronisch opnieuw ondertekenen.
+Bestaande partners voor directe en indirecte Cloud Solution Provider (CSP) onder MPA. Partners in Rusland, Rusland en Rusland moeten jaarlijks fysiek of elektronisch de Handtekening opnieuw ondertekenen.
 
 ### <a name="details"></a>Details
 
 In februari 2021 begint Microsoft met de overgang van alle elektronische handtekeningverwerking van DocuSign naar Adobe Sign voor CSP-partners. 
 
-U kunt een soepele overgang verwachten. Na de migratie ontvangt u een e-mailbericht van , in plaats van adobesign@adobesign.com DocuSign, wanneer uw elektronische handtekening vereist is. Dit e-mailbericht geeft u een koppeling naar de webpagina van Adobe Sign waar u zich moet aanmelden. Microsoft-partners hoeft bestaande overeenkomsten niet opnieuw te ondertekenen, alleen toekomstige kanaalovereenkomsten. 
+U kunt een soepele overgang verwachten. Na de migratie ontvangt u een e-mailbericht van , in plaats van adobesign@adobesign.com DocuSign, wanneer uw elektronische handtekening vereist is. Dit e-mailbericht biedt u een koppeling naar de webpagina van Adobe Sign waar u zich moet aanmelden. Microsoft-partners moeten bestaande overeenkomsten niet opnieuw ondertekenen, alleen toekomstige kanaalovereenkomsten. 
 
-U vindt een voorbeeld van een e-mail met een Adobe Sign-handtekeningaanvraag in [de resourcegalerie.](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf) 
+U vindt een voorbeeld van een e-mail met een handtekeningaanvraag voor Adobe Sign in [de resourcegalerie](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf). 
 
 **Zorg ervoor dat u het volgende doet voor de beste ervaring:**
 
-1. Voeg toe aan de lijst met veilige afzenders om te voorkomen dat e-mailberichten van adobesign@adobesign.com dit account rechtstreeks naar uw map voor ongewenste e-mail gaan.
-2. Werk samen met uw IT-afdeling om het volgende te doen:
-   - Voeg het e-mailadres toe aan de lijst met veilige afzenders om ervoor te zorgen dat het niet is opgenomen adobesign@adobesign.com in een vooraf opgestelde phishingregel.
-   - Werk bestaand beveiligingsbeleid bij om ervoor te zorgen dat alle vereiste ontvangers documentatie kunnen ondertekenen onder uw Licentie voor Adobe Sign Enterprise.
+1. Voeg adobesign@adobesign.com toe aan de lijst met veilige afzenders om te voorkomen dat e-mailberichten van dit account rechtstreeks naar uw map met ongewenste e-mail gaan.
+2. Werk samen met uw IT-afdeling aan het volgende:
+   - Voeg het e-mailadres toe aan de lijst met veilige afzenders om ervoor te zorgen dat het niet is opgenomen in een vooraf vastgestelde adobesign@adobesign.com phishingregel.
+   - Werk bestaand beveiligingsbeleid bij om ervoor te zorgen dat alle vereiste ontvangers documentatie kunnen ondertekenen onder uw Adobe Sign-bedrijfslicentie.
 
-Adobe Sign is de favoriete ESS-oplossing (Electronic Signature Solution) van Microsoft. De overgang naar Adobe Sign zorgt voor een veilige en efficiënte elektronische handtekeningervaring die onze klanten en partners meer waarde biedt.
+Adobe Sign is de voorkeursoplossing voor Elektronische handtekeningen (ESS) van Microsoft. De overgang naar Adobe Sign zorgt voor een veilige en efficiënte elektronische handtekening die onze klanten en partners meer waarde biedt.
 
-Raadpleeg de volgende zelfstudies voor meer informatie over het elektronisch ondertekenen van documenten en delegering van **elektronische handtekeningen:** 
+Raadpleeg de volgende zelfstudies voor meer informatie over het elektronisch ondertekenen van documenten en delegering van elektronische **handtekeningen:** 
 - [Elektronisch een document ondertekenen | Zelfstudies voor Adobe Sign](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
 - [Iemand anders delegeren om een document te | Zelfstudies voor Adobe Sign](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
@@ -506,7 +506,7 @@ Deel deze informatie met de juiste belanghebbenden in uw organisatie.
 
 ### <a name="questions"></a>Vragen?
 
-Als u vragen hebt, kunt u contact opnemen met uw Regional Operations Center call [logging tool (CLT) of](https://clt.partners.extranet.microsoft.com/CLT) op Ms [verkennen.](https://www.explore.ms/) Volg het standaard CLT-proces nauwkeurig, zodat we uw query zo snel mogelijk kunnen oplossen.
+Als u vragen hebt, kunt u contact opnemen met uw Regional Operations Center het [Call Logging Tool (CLT) of](https://clt.partners.extranet.microsoft.com/CLT) op Ms [verkennen.](https://www.explore.ms/) Volg het standaard CLT-proces nauwkeurig, zodat we uw query zo snel mogelijk kunnen oplossen.
 
 _____________ 
 
@@ -523,12 +523,12 @@ Cloud Solution Provider partners die de Noors kronen gebruiken.
 
 ### <a name="details"></a>Details
 
-Vanaf 1 maart 2021 worden de noorse kronenprijzen voor commerciële on-premises software en onlineservices gewijzigd in een andere lijn met de geldende prijsniveaus in de regio.
+Vanaf 1 maart 2021 veranderen de Noors krone-prijzen voor commerciële on-premises software en onlineservices in lijn met de geldende prijsniveaus in de regio.
 De volledige aankondiging is alleen beschikbaar voor Microsoft-partners. [Meld u aan voor toegang tot de volledige aankondiging](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Update van commerciële prijzen voor de Indisch rupee 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Commerciële prijsupdate voor de Indisch rupee 
 
 ### <a name="categories"></a>Categorieën
 
@@ -541,7 +541,7 @@ CSP-partners die worden getransactied in India.
 
 ### <a name="details"></a>Details 
 
-Microsoft brengt wijzigingen aan in de prijslijst voor de Indisch rupee om de prijzen voor commerciële software en onlineservices binnen India en de regio Azië af te stemmen. We publiceren meer details zodra deze beschikbaar komen. Als u in de tussentijd hulp nodig hebt, kunt u contact opnemen [Partner Center ondersteuning](https://partner.microsoft.com/support/?stage=1).
+Microsoft brengt wijzigingen aan in de prijslijst van de Indisch rupee om de prijzen voor commerciële software en onlineservices in India en de Regio Azië af te stemmen. We publiceren meer details zodra deze beschikbaar komen. Als u in de tussentijd hulp nodig hebt, neem dan contact op [met Partner Center ondersteuning.](https://partner.microsoft.com/support/?stage=1)
 
 ________________
 
@@ -554,7 +554,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Binnenkort komt er een invoegaanbieding voor Microsoft 365, waaronder Telefoonsysteem en Abonnement voor nationale oproepen en een zelfstandig abonnement voor nationale oproepen, binnenkort beschikbaar voor bepaalde landen.
+Een invoegaanbieding voor Microsoft 365, waaronder Telefoonsysteem en Abonnement voor nationale oproepen en een zelfstandig abonnement voor nationale oproepen, zal binnenkort landen selecteren.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -562,14 +562,14 @@ Alle partners die het programma Cloud Solution Provider (CSP).
 
 ### <a name="details"></a>Details 
 
-De gebundelde invoegaanbieding voor Microsoft 365 E1-, E3- en E5-aanbiedingen bevat Telefoonsysteem abonnement voor nationale oproepen. Bovendien is een nieuwe zelfstandige abonnementsaanbieding voor nationale oproepen alleen beschikbaar voor E5. De nieuwe aanbiedingen zijn alleen beschikbaar voor klanten in de VERENIGDE Staten, Den Staten en Canada. voor alle andere landen en gebieden blijven de bestaande wereldwijde zelfstandige SKU's en prijzen hetzelfde. 
+De gebundelde invoegaanbieding voor Microsoft 365 E1-, E3- en E5-aanbiedingen omvat Telefoonsysteem abonnement voor nationale oproepen. Bovendien is een nieuwe zelfstandige aanbieding voor een abonnement voor nationale oproepen alleen beschikbaar voor E5. De nieuwe aanbiedingen zijn alleen beschikbaar voor klanten in de VERENIGDE Staten, Den Staten en Canada. voor alle andere landen en gebieden blijven de bestaande wereldwijde zelfstandige SKU's en prijzen hetzelfde. 
 
-Deze aanbiedingen zijn beschikbaar voor commerciële, student-, faculteits-, Government Community Cloud-klanten (GCC) en non-profitklanten in de V.S.,-, Ted- en Canada. Aanroepplannen zijn niet beschikbaar in een van de andere Amerikaanse gebieden.
+Deze aanbiedingen zijn beschikbaar voor commerciële klanten, studenten, onderwijsmedewerkers, Government Community Cloud (GCC) en non-profitklanten in de VERENIGDE Staten, Canada en Canada. Aanroepplannen zijn niet beschikbaar in een van de andere Amerikaanse gebieden.
 
    |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-id**|
    |-------------------|:------|:------|
    |Microsoft Teams Essentials aanroepen voor de VS en Canada|1ee81de6-4d8b-4cf1-b926-2fd2a774a4ca|8N2-00010|
-   |Microsoft Teams Essentials voor de VS en Canada aanroepen (non-profit personeel prijzen)|0c2ece0d-39b7-40ec-8c08-87c2b6c75d62|8N2-00011|
+   |Microsoft Teams Essentials aanroepen voor de VS en Canada (non-profit personeel prijzen)|0c2ece0d-39b7-40ec-8c08-87c2b6c75d62|8N2-00011|
    |Microsoft Teams Essentials voor de VS en Canada aanroepen voor onderwijsmedewerkers|b8baa3b8-8cc2-4f26-a212-7fbeb28e7895|8N3-00003|
    |Microsoft Teams Essentials voor de VS en Canada aanroepen voor studenten|26956da8-eeb5-44e3-aa79-d36e0e42b930|8N3-00004|
    |Microsoft Teams Essentials voor de VS en Canada aanroepen voor GCC|7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1|8N4-00002|
@@ -581,7 +581,7 @@ Deze aanbiedingen zijn beschikbaar voor commerciële, student-, faculteits-, Gov
 ### <a name="next-steps"></a>Volgende stappen
 
 - Deel deze informatie met de relevante contactpersonen in uw organisatie en begrijp de mogelijkheden voor upsell en cross-sell. 
-- Bekijk de sectie resources van de [Teams partnerhandleiding](https://aka.ms/teamscallingmeetingsguide).
+- Bekijk de sectie resources van de [Teams partnerhandleiding.](https://aka.ms/teamscallingmeetingsguide)
 
 _____________ 
 
@@ -611,7 +611,7 @@ In de prijslijsten op basis van licenties voor januari 2021 en februari 2021 zij
 
 Beïnvloede valuta's: 
 
-- Microsoft 365 E3 prijsproblemen waren beperkt tot alleen deze valuta's: Japans- (JPY), Great British Pond (GBP), Europese Unie (USD), Australische dollar (AUD). 
+- Microsoft 365 E3 prijsproblemen waren beperkt tot deze valuta's: Japans-Amerikaanse dollars (JPY), Great British Pond (GBP), Europese Unie (EUR), Australische dollar (AUD). 
 - Microsoft 365 Business Basic zijn beperkt tot alleen Verenigde Staten Dollars (USD). 
 
 Partners moeten verwijzen naar de momenteel beschikbare prijslijsten voor de preview van januari en februari voor de juiste prijzen. 
@@ -626,11 +626,11 @@ ________________
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die Academische aanbiedingen verkopen via het Cloud Solution Provider-programma met behulp van Partner Center API
+Partners die Academische aanbiedingen verkopen via het Cloud Solution Provider-programma met behulp van de Partner Center-API
 
 ### <a name="details"></a>Details 
 
-Dit is een vervolg op de API-verbeteringen die in december 2020 zijn uitgebracht. In december 2020 zijn nieuwe API's voor GET- en POST-kwalificaties uitgebracht. Als gevolg hiervan worden de oude API's voor GET- en PUT-kwalificatie eind februari 2021 niet meer gebruikt. Op dat moment moet u de nieuwe GET- en POST Partner Center API's gebruiken om Education-aanbiedingen te kunnen aanschaffen. 
+Dit is een vervolg op de API-verbeteringen die in december 2020 zijn uitgebracht. In december 2020 zijn nieuwe API's voor GET- en POST-kwalificaties uitgebracht. Als gevolg hiervan worden de oude API's voor GET- en PUT-kwalificatie eind februari 2021 niet meer gebruikt. Op dat moment moet u de nieuwe GET- en POST Partner Center API's gebruiken om Education-aanbiedingen te kunnen kopen. 
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -657,7 +657,7 @@ Partners die deelnemen aan de programma'Cloud Solution Provider (CSP) directe fa
 
 ### <a name="details"></a>Details
 
-Microsoft kondigt aanstaande wijzigingen aan in de Dynamics 365-aanbieding die in februari 2021 worden geïntroduceerd voor:
+Microsoft kondigt aanstaande wijzigingen in de Dynamics 365-aanbieding aan die in februari 2021 worden geïntroduceerd voor:
 
 - Extra antwoord voor Dynamics 365 Customer Voice
 - Dynamics 365 Customer Service Insights end-of-life
@@ -667,7 +667,7 @@ Microsoft kondigt aanstaande wijzigingen aan in de Dynamics 365-aanbieding die i
 
 Op 1 februari 2021 maakt Microsoft een nieuwe aanbieding 'Aanvullend antwoord' met 1-K antwoordrechten om de bestaande aanbieding te vervangen door 2-K enquêtereacties. Het einde van de verkoop vindt plaats op 1 februari 2021.
 
-Zie het tabblad Customer Voice Addl Resp in het [dynamics CSP Offers-February 2021 Excel document](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) voor de SKU-details. Bekijk de [startpagina van Microsoft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/) voor meer informatie.
+Zie het tabblad Customer Voice Addl Resp in het document [Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) SKU-details. Bekijk de [startpagina van Microsoft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/) voor meer informatie.
 
 **Dynamics 365 Customer Service Insights end-of-life**
 
@@ -676,9 +676,9 @@ Op 1 februari 2021 worden de volgende producten gewijzigd in end-of-life:
 - Dynamics 365 Customer Service Insights (inclusief 'Aanvullende gevallen')
 - Dynamics 365 Virtual Agent for Customer Service
 
-De zelfstandige ervaring 'Customer Service Insights' wordt verplaatst naar 'Dynamics 365 Customer Service', waar klanten dezelfde mogelijkheden kunnen vinden die diep zijn ingesloten in de klantenservice-ervaringen.  
+De zelfstandige ervaring 'Customer Service Insights' wordt verplaatst naar Dynamics 365 Customer Service, waar klanten dezelfde mogelijkheden kunnen vinden die diep zijn ingesloten in de klantenservice-ervaringen.  
 
-Zie het tabblad Customer Service Insights in het document [Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) SKU-details. Ga naar [de startpagina van de Microsoft Dynamics-klantenservice](https://dynamics.microsoft.com/customer-service/overview/) voor meer informatie.
+Zie het tabblad Customer Service Insights in het document [Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) SKU-details. Ga naar de startpagina van de [Microsoft Dynamics-klantenservice](https://dynamics.microsoft.com/customer-service/overview/) voor meer informatie.
 
 **Aanbiedings-ID's voor Dynamics 365 Cloud AX-migratie**
 
@@ -694,7 +694,7 @@ Deze SKU's zijn verwijderd uit de eindprijslijst van 1 januari 2021 en kunnen op
    |Dynamics 365 Commerce Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program|ba1fe561-cfda-405a-a25d-ecda3bd3cba7|
    |Dynamics 365 Operations – Activity for AX Migration Program|177e954e-1fff-4941-8967-55a47e36e1ce|
    |Dynamics 365 Operations – Device for AX Migration Program|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
-   |Dynamics 365-teamleden voor AX Migration Program|1eb3ad0b-9de3-419d-8bfe-0d61bd945b2|
+   |Dynamics 365-teamleden voor AX Migration Program|1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2|
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -702,6 +702,6 @@ Bekijk de resources over dit onderwerp en deel deze met de juiste belanghebbende
 
 ### <a name="questions"></a>Vragen?
 
-Als u meer vragen over deze aanbiedingen hebt, controleert u uw relevante Yammer community's.
+Als u meer vragen hebt over deze aanbiedingen, controleert u uw relevante Yammer community's.
 
 ________________

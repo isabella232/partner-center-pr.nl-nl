@@ -3,22 +3,22 @@ title: Gebruikers beheren voor klantaccounts
 ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: 'Gebruikers voor uw klanten beheren in Partner Center: maak gebruikersaccounts, voeg gebruikerslicenties toe of verwijder deze, stel wachtwoorden opnieuw in en verwijder of herstel gebruikersaccounts.'
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1c346e5e680fdd0b0b82715160b238e1e6b6a9a9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149890"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838628"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gebruikers en gebruikerslicenties voor klantaccounts beheren 
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent
 
 
 U kunt nieuwe gebruikers maken en verwijderen in het account van een klant. U kunt ook een of meer gebruikersaccounts herstellen die u eerder binnen 30 dagen na de verwijdering hebt verwijderd. De vorige abonnementstoewijzingen van de gebruiker worden ook hersteld (ervan uitgaande dat de vorige toewijzingen beschikbaar zijn).
@@ -26,15 +26,15 @@ U kunt nieuwe gebruikers maken en verwijderen in het account van een klant. U ku
 Wanneer u nieuwe abonnementen voor een klant koopt, moet de klant u een lijst geven met alle gebruikers die accounts nodig hebben, hun gebruikersmachtigingen en welke services elke gebruiker nodig heeft.  
 
 >[!NOTE]
->In **de sectie** Gebruikers en licenties van het tabblad Klant ziet u alle gebruikers die zijn gemaakt in de tenant van een specifieke klant, met inbegrip van gebruikers die licenties hebben aangeschaft van een andere CSP-partner of van een ander aankoopkanaal. 
+>In **de sectie Gebruikers** en licenties van het tabblad Klant ziet u alle gebruikers die zijn gemaakt in de tenant van een specifieke klant, inclusief gebruikers met licenties die zijn aangeschaft bij een andere CSP-partner of via een ander aankoopkanaal. 
 
-U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md) tegelijk toewijzen door de namen te importeren met behulp van een [excel-compatibel CSV-spreadsheetbestand.](adding-multiple-users-to-a-customer-account.md)
+U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md) tegelijk toewijzen door de namen te importeren met behulp van een Excel compatibel .csv [spreadsheetbestand](adding-multiple-users-to-a-customer-account.md).
 
 <a href="" id="createuseraccounts"></a>
 
 ## <a name="create-user-accounts-for-a-customer"></a>Gebruikersaccounts maken voor een klant
 
-1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
 2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
@@ -42,11 +42,11 @@ U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-mult
 
 4. Voor elke gebruiker die u toevoegt, selecteert u **Abonnement toevoegen** en vult u de gegevens in, inclusief machtigingen en licenties. U moet vervolgens de wijzigingen **Opslaan**.
 
-5. Zorg ervoor dat u de gebruikersnaam en het tijdelijke wachtwoord vast weet te stellen die u naar de gebruiker wilt verzenden.
+5. Zorg ervoor dat u de gebruikersnaam en het tijdelijke wachtwoord vastrecordt die u naar de gebruiker wilt verzenden.
 
 6. Als u meerdere gebruikers één voor één toevoegt, gebruikt **u Een andere gebruiker toevoegen.**
 
-7. U kunt ook meerdere gebruikers tegelijk toevoegen door een met Excel compatibel [CSV-spreadsheetbestand te importeren.](adding-multiple-users-to-a-customer-account.md) U kunt wachten totdat u klaar bent met de hele set voordat u de namen en wachtwoorden via het bevestigingsscherm e-mailt of afdrukt.
+7. U kunt ook meerdere gebruikers tegelijk toevoegen door een Excel compatibele .csv [spreadsheetbestand te importeren.](adding-multiple-users-to-a-customer-account.md) U kunt wachten totdat u klaar bent met de hele set voordat u de namen en wachtwoorden via e-mail of via het bevestigingsscherm afdrukt.
 
 <a href="" id="userlicensing"></a>
 
@@ -77,7 +77,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 
 3. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
 
-4. Selecteer onder aan het scherm Wachtwoord **opnieuw instellen.** 
+4. Selecteer wachtwoord opnieuw instellen onderaan het **scherm.** 
 
 5. Verzend het nieuwe tijdelijke wachtwoord naar de gebruiker.
 
@@ -85,7 +85,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Gebruikersaccounts voor een klant verwijderen
 
-1. Selecteer in **Partner Center** menu **Klanten.** Kies de klant in de lijst.
+1. Selecteer klanten **Partner Center** het menu **.** Kies de klant in de lijst.
 
 2. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
 

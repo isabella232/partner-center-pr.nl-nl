@@ -3,36 +3,36 @@ title: Klanten proefversies van Microsoft-producten aanbieden
 ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Laat klanten microsoft-abonnementsproducten 30 dagen uitproberen. Meld u aan voor deze gratis proefversies in de catalogus, net als veel andere onlineservices.
+ms.subservice: partnercenter-pricing
+description: Laat klanten microsoft-abonnementsproducten 30 dagen uitproberen. Meld u aan voor deze gratis proefversies in de catalogus, net zoals veel andere onlineservices.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d6fda82464b9abc30714798a2ee3999d8f93db5
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 393bd70096ba3cd7d1c9889d5b521cc94a389d90
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151131"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845972"
 ---
-# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Klanten gratis proefversies van 30 dagen geven voor Microsoft-producten
+# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Klanten 30 dagen gratis proefversies van Microsoft-producten geven
 
-**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Verkoopagent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent
 
-Een goede manier om klanten kennis te laten maken met nieuwe Microsoft-producten is door 30 dagen gratis proefversies te bieden. U kunt zich aanmelden voor de proefversies in de catalogus, net zoals veel andere onlineservices. Alle partners kunnen deelnemen.
+Een goede manier om klanten kennis te laten maken met nieuwe Microsoft-producten is het aanbieden van gratis proefversies van 30 dagen. U kunt zich aanmelden voor de proefversies in de catalogus, net zoals veel andere onlineservices. Alle partners kunnen deelnemen.
 
 ## <a name="available-trial-offers"></a>Beschikbare proefaanbiedingen
 
 U vindt al uw openstaande proefaanbiedingen op de **pagina** Klant. Op deze pagina worden alle abonnementen weergegeven, inclusief gratis proefversies en betaalde abonnementen. (Deze functie is momenteel niet beschikbaar in China.)
 
-Elke klant heeft recht op één gratis proefversie voor elke beschikbare aanbieding. Ze kunnen bijvoorbeeld één gratis proefversie voor Microsoft 365 Business Standard en één gratis proefversie voor Office 365 E3 krijgen. Als de klant echter al eigenaar is van de aanbieding, kan deze geen gratis proefversie voor die aanbieding gebruiken.
+Elke klant heeft recht op één gratis proefversie voor elke beschikbare aanbieding. Ze kunnen bijvoorbeeld één gratis proefversie voor Microsoft 365 Business Standard en één gratis proefversie voor Office 365 E3. Als de klant echter al eigenaar is van de aanbieding, kan deze geen gratis proefversie voor die aanbieding gebruiken.
 
 ### <a name="available-products"></a>Beschikbare producten
 
-Gratis proefversies zijn beschikbaar voor de meest uitgebreide en populaire aanbiedingen op basis van luizen. Nieuwe proefaanbiedingen kunnen maandelijks worden geïntroduceerd.
+Gratis proefversies zijn beschikbaar voor de meest uitgebreide en populaire licentieaanbiedingen. Er kunnen maandelijks nieuwe proefaanbiedingen worden geïntroduceerd.
 
-Partners kunnen proefversies vinden in de lijst met maandelijkse prijzen op de **pagina met** prijzen en aanbiedingen in Partner Center. Voor proefaanbiedingen wordt PROEFVERSIE vermeld in de prijslijst **Secundair licentietype.**
+Partners kunnen proefversies vinden in de lijst met maandelijkse prijzen op de **pagina met** prijzen en aanbiedingen in Partner Center. Proefaanbiedingen worden vermeld in de prijslijst Secundair **licentietype.**
 
 Er zijn momenteel **geen gratis proefversies voor** overheidsaanbiedingen, onderwijsaanbiedingen of invoegaanbiedingen.
 
@@ -40,7 +40,7 @@ Er zijn momenteel **geen gratis proefversies voor** overheidsaanbiedingen, onder
 
 Alle gratis proefversies bieden 25 licenties. U kunt dit nummer niet wijzigen tijdens de proefversie. U kunt geen licenties toevoegen aan of verwijderen uit de gratis proefversie. Nadat de proefversie is geconverteerd naar een betaald abonnement, kunt u meer licenties toevoegen aan het abonnement.
 
-Proeflicenties moeten op dezelfde manier worden toegewezen aan gebruikers als de licentie voor betaalde services.
+Licenties voor proefversies moeten op dezelfde manier worden toegewezen aan gebruikers als aan betaalde services.
 
 ## <a name="sign-customers-up-for-trials"></a>Klanten registreren voor proefversies
 
@@ -48,7 +48,7 @@ Een proefversie voor uw klant krijgen in Partner Center:
 
 1. Ga **vanuit** Verkopen op Partner Center naar **Catalogus**. 
 2. Selecteer in de catalogus bij **Factureringsfrequentie** de optie **Proefaanbieding.** Hierdoor kunnen alleen gratis proefversies worden weergegeven en worden andere aanbiedingen uitgeschakeld die niet gratis zijn. Proefversies worden weergegeven op het **tabblad Proefversies** in de catalogus.
-3. Selecteer de gratis proefversie die u wilt aanbieden en selecteer vervolgens **Verzenden.** Alle proefversies worden gedurende 30 dagen niet gefactureerd. U kunt het ook op elk moment tijdens de proefversie converteren naar een betaald abonnement.
+3. Selecteer de gratis proefversie die u wilt aanbieden en selecteer vervolgens **Verzenden.** Alle proefversies zijn gedurende 30 dagen waarin u niet wordt gefactureerd. U kunt het ook op elk moment tijdens de proefversie converteren naar een betaald abonnement.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Proefversies converteren naar betaalde abonnementen
 
@@ -57,7 +57,7 @@ Een gratis proefversie wordt niet automatisch geconverteerd naar een betaald abo
 U moet de proefversie zelf omzetten in een betaald abonnement. U kunt dit doen [met behulp van de Partner Center](#convert-trials-using-partner-center) of via de Partner Center [API's](#convert-trials-using-apis).
 
 > [!NOTE]
-> Gratis proefversies van klanten Cloud Solution Provider (CSP)-programma kunnen niet worden geconverteerd naar een andere programmaten tenant (zoals EA, Open of MOSP).
+> Gratis proefversies van klanten voor het Cloud Solution Provider(CSP)-programma kunnen niet worden geconverteerd naar een andere programmaten tenant (zoals EA, Open of MOSP).
 
 ### <a name="convert-trials-using-partner-center"></a>Proefversies converteren met Partner Center
 
@@ -81,14 +81,14 @@ Niet alle proefversies kunnen worden geconverteerd naar betaalde abonnementen. P
 
 |**Proefversie**   |**Compatibele aanbiedingen voor kleine bedrijven**   |**Compatibele Enterprise-aanbiedingen**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Proefversie van microsoft Teams Commercial Cloud (door gebruiker geïnitieerd)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (voorheen F1), Office 365 for Enterprise (E1, E3 en E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
+|Microsoft Teams Proefversie van commerciële cloud (door gebruiker geïnitieerd)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (voorheen F1), Office 365 for Enterprise (E1, E3 en E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
 
 >[!NOTE]
 >De bovenstaande aanbiedingen hebben vergelijkbare serviceplannen met vergelijkbare functionaliteit, maar er zijn mogelijk enkele verschillen tussen de aanbiedingen.
 
 ### <a name="expiring-offers"></a>Verlopende aanbiedingen
 
-U wordt niet op de hoogte gesteld van verlopende aanbiedingen. U kunt toekomstige vervaldatums bijhouden met behulp van de klantweergave op Partner Center of door een query uit te voeren op de API. Het is een goed idee om deze datums regelmatig te controleren, zodat u de juiste vervolgacties kunt ondernemen met klanten wanneer ze een beslissingspunt benaderen.
+U wordt niet op de hoogte gesteld van verlopen aanbiedingen. U kunt toekomstige vervaldatums bijhouden met behulp van de klantweergave op Partner Center of door een query uit te voeren op de API. Het is een goed idee om deze datums regelmatig te controleren, zodat u de juiste vervolgacties kunt ondernemen met klanten wanneer ze een beslissingspunt benaderen.
 
 Nadat een proefversie is verlopen, ziet een klant die zich probeert aan te melden bij die proefversie een verlopen bericht. De gegevens worden echter opgeslagen volgens de standaarden voor gegevensretentie. Nadat u een nieuw abonnement met dezelfde serviceabonnementen hebt aangeschaft, kunnen de gegevens van uw klant opnieuw worden geopend vanuit het zojuist geactiveerde abonnement.
 
@@ -100,11 +100,11 @@ Jaarlijkse facturering en gratis proefversies zijn hetzelfde in onafhankelijke c
 
 Gratis proefversies kunnen worden gebruikt voor maandelijks en jaarlijks gefactureerde abonnementen. U kunt de factureringsfrequentie selecteren wanneer u de proefversie converteert naar een betaald abonnement.
 
-De begindatum van het abonnement is gebaseerd op de conversiedatum. Als de gratis proefversie wordt geconverteerd naar een betaalde aanbieding met jaarlijkse facturering, is de verlengingsdatum van het abonnement 12 maanden na de conversiedatum. Als de gratis proefversie wordt geconverteerd naar een betaalde aanbieding met maandelijkse facturering, is de verlengingsdatum van het abonnement twaalf maanden na de factureringsdatum na de conversiedatum.
+De begindatum van het abonnement is gebaseerd op de conversiedatum. Als de gratis proefversie wordt geconverteerd naar een betaalde aanbieding met jaarlijkse facturering, is de verlengingsdatum van het abonnement 12 maanden na de conversiedatum. Als de gratis proefversie wordt geconverteerd naar een betaalde aanbieding met maandelijkse facturering, is de verlengingsdatum van het abonnement twaalf maanden vanaf de factureringsdatum na de conversiedatum.
 
 ### <a name="invoices"></a>Facturen
 
-Er worden geen gratis proefversies weergegeven in uw factuur of op licentie gebaseerd afstemmingsbestand. Gratis proefversies worden alleen weergegeven op uw factuur en afstemmingsbestand op basis van licenties nadat u een gratis proefversie hebt omgezet in een betaald abonnement. Het geconverteerde abonnement wordt op dezelfde manier weergegeven als elk nieuw abonnement.
+Er worden geen gratis proefversies weergegeven in uw factuur- of licentieafstemmingsbestand. Gratis proefversies worden alleen weergegeven op uw factuur- en licentieafstemmingsbestand nadat u een gratis proefversie hebt omgezet in een betaald abonnement. Het geconverteerde abonnement wordt op dezelfde manier weergegeven als elk nieuw abonnement.
 
 ### <a name="incentives"></a>Incentives
 

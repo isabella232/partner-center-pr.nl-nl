@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 03/17/2021
 description: Meer informatie over het instellen of verwijderen van maandelijkse Azure-bestedingsbudgetten voor uw klanten, en ook om Azure-bestedingsgegevens weer te geven en budgetgerelateerde meldingen in te stellen.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14e901f51841e58b28a3cbbb1b7a19ce89d7c324
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: a2085713f1fef474dd26cb66a30a37f701789859
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855349"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845887"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Maandelijkse Azure-uitgavenbudgetten instellen, controleren of verwijderen voor klanten in Partner Center
 
@@ -25,7 +25,7 @@ U kunt [een maandelijks Azure-uitgavenbudget instellen voor uw klanten](#set-azu
 > [!NOTE]  
 > Deze functie is niet beschikbaar in sandbox- of Test in Production-accounts (TIP).
 
-Nadat u [een Azure-uitgavenbudget voor uw klanten](#set-azure-spending-budget)hebt ingesteld, kunt u het gebruik van klanten ook op de volgende manieren controleren. Deze opties kunnen u helpen bij het herkennen van onjuist geconfigureerde services of ongebruikelijke trends die fraude kunnen voorstellen. Vervolgens kunt u met uw klanten samenwerken om de hoofdoorzaak te achterhalen en de kosten te beheren. Indien nodig kunt u ook [het budget van de klant wijzigen](#set-azure-spending-budget) in een hoger bedrag.
+Nadat u [een Azure-uitgavenbudget voor uw klanten](#set-azure-spending-budget)hebt ingesteld, kunt u het gebruik van klanten ook op de volgende manieren controleren. Deze opties kunnen u helpen bij het herkennen van onjuist geconfigureerde services of ongebruikelijke trends die fraude kunnen voorstellen. Vervolgens kunt u met uw klanten samenwerken om de hoofdoorzaak te achterhalen en de kosten te beheren. Indien nodig kunt u ook [het budget van de](#set-azure-spending-budget) klant wijzigen in een hoger bedrag.
 
 - [Huidige Azure-uitgaven controleren](#check-current-azure-spending)
 
@@ -37,9 +37,9 @@ U kunt ook [op elk moment een Azure-uitgavenbudget](#remove-azure-spending-budge
 
 ## <a name="azure-spending-data"></a>Azure-bestedingsgegevens
 
-De Azure-bestedingsgegevens zijn *een schatting* en *de werkelijke factureringsbedragen kunnen variëren.* De waarde van de gegevens *weerspiegelt geen belastingen,* tegoeden, aanpassingen of andere kosten die van toepassing kunnen zijn.
+De Azure-bestedingsgegevens zijn *een schatting* en *de werkelijke factureringsbedragen kunnen variëren.* De waarde van de gegevens *weerspiegelt geen belastingen,* tegoeden, correcties of andere kosten die van toepassing kunnen zijn.
 
-De bestedingsgegevens *worden eenmaal per dag vernieuwd.* Uw klanten kunnen Azure-services en -resources blijven gebruiken (en in rekening worden gebracht), tenzij u de accountinstellingen wijzigt in de Azure Portal.
+De bestedingsgegevens *worden eenmaal per dag vernieuwd.* Uw klanten kunnen Azure-services en -resources blijven gebruiken (en in rekening worden gebracht), tenzij u hun accountinstellingen wijzigt in de Azure Portal.
 
 ## <a name="set-azure-spending-budget"></a>Azure-uitgavenbudget instellen
 
@@ -49,9 +49,9 @@ U kunt *een maandelijks Azure-uitgavenbudget instellen* voor meerdere klanten in
 
 2. Kies in het menu aan de linkerkant onder **CSP** de optie **Azure-uitgaven.**
 
-3. Selecteer op de azure-bestedingspagina **onder Klanten Microsoft Azure abonnementen** de klant(en) voor wie u een budget wilt instellen. 
+3. Selecteer op de azure-bestedingspagina onder Klanten **Microsoft Azure** abonnementen de klant(en) voor wie u een budget wilt instellen. 
 
-4. Voer een waarde in voor **Maandelijks budget**.
+4. Voer een waarde in **voor Maandelijks budget.**
 
 5. Kies **Toepassen om** uw wijzigingen op te slaan.
 
@@ -59,7 +59,7 @@ U kunt ook *een budget instellen voor een afzonderlijke klant* in de abonnements
 
 1. Meld u aan bij het dashboard van het Partnercentrum.
 
-2. Kies in het menu aan de linkerkant onder **CSP** de optie **Klanten**.
+2. Kies in het menu aan de linkerkant onder **CSP** de optie **Klanten.**
 
 3. Selecteer op **de** pagina Klanten de bedrijfsnaam van **de klant.**
 
@@ -69,9 +69,9 @@ U kunt ook *een budget instellen voor een afzonderlijke klant* in de abonnements
 
 6. Kies **Toepassen om** uw wijzigingen op te slaan.
 
-## <a name="remove-azure-spending-budget"></a>Azure-bestedingsbudget verwijderen
+## <a name="remove-azure-spending-budget"></a>Azure-uitgavenbudget verwijderen
 
-U kunt *een maandelijks Azure-uitgavenbudget* voor uw klanten verwijderen in Partner Center:
+U kunt *een maandelijks Azure-uitgavenbudget voor* uw klanten verwijderen in Partner Center:
 
 1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/).
 
@@ -116,11 +116,11 @@ U kunt *gespecificeerde kosten (en geschat gebruik) per service weergeven voor* 
 
 1. Meld u aan bij Partnercentrum.
 
-2. Kies klanten in het menu aan de linkerkant **onder** **CSP**.
+2. Kies in het menu aan de linkerkant onder **CSP** de optie **Klanten.**
 
 3. Selecteer op **de** pagina Klanten de bedrijfsnaam van **de klant.**
 
-4. Selecteer op de pagina **Abonnementen van de** klant onder Abonnementen op basis van **gebruik** de naam van het **abonnement**.
+4. Selecteer op de pagina **Abonnementen van de** klant onder Op gebruik gebaseerde **abonnementen** de naam van het **abonnement**.
 
 5. Op de pagina van het abonnement kunt u de gespecificeerde kosten **per** service en het **geschatte** gebruik voor de huidige maand bekijken.
 
