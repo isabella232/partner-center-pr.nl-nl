@@ -3,18 +3,18 @@ title: Voordelen van Azure en Cloud - MPN
 ms.topic: article
 ms.date: 01/28/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Meer informatie Microsoft Partner Network (MPN) voordelen voor Azure- en Cloud-producten, waaronder het activeren van abonnementen.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a873e6dcac03ae781b776204fb8801581fefdec5
-ms.sourcegitcommit: e90293bc643963fe9ce3f838bc8861fbd304b16d
+ms.openlocfilehash: cd9d14fd6f7cc9f0376b550e4d87aa5de499312f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "112066485"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841161"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Het gebied met voordelen van Azure- en cloudproducten in Partner Center
 
@@ -33,7 +33,7 @@ Een van de voordelen die mogelijk voor u beschikbaar zijn, is **Azure & cloudpro
 
 Op deze pagina worden de volgende details weergegeven:
 
-- Verschillende voordelen & azure-cloudproductabonnementen, of het nu gaat om op licenties gebaseerde abonnementen of abonnementen op basis van gebruik
+- Verschillende voordelen & Azure & cloudproductabonnementen, of u nu abonnementen op basis van licenties of abonnementen op basis van gebruik hebt
 - Toegewezen licentiehoeveelheid voor elk product
 - Het aanbiedingstype dat een specifiek voordeelproduct voor u heeft ingericht
 - Het voordeeltype (of het nu afkomstig is van de kern of incrementeel)
@@ -61,7 +61,7 @@ Als u een Microsoft Azure wilt activeren in Partner Center, moet u toegang toewi
 
 1. Zodra u zeker weet dat de gebruiker een gebruikersinvoer heeft in uw Azure AD-tenant, meldt u zich aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
-1. Selecteer **MPN** in het navigatiemenu links, gevolgd door **Voordelen** en vervolgens Azure en **de cloud.**
+1. Selecteer **MPN** in het linkernavigatiemenu, gevolgd door **Voordelen** en **vervolgens Azure en de cloud.**
 
 1. Selecteer de pijl-omlaag in de rechterkolom **Details** weergeven voor het abonnement op basis van gebruik dat u wilt activeren. 
 
@@ -69,9 +69,9 @@ Als u een Microsoft Azure wilt activeren in Partner Center, moet u toegang toewi
 
    :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="De pagina Azure- en cloudproducten met het gebied voor gebruikerstoewijzing." border="false":::
 
-- Wanneer u een maandelijks Azure-tegoed van ongeveer $ 100 per maand (of gelijkwaardig in lokale valuta) toewijst, moet u er rekening mee houden dat u op elk moment gebruikers kunt toevoegen aan of verwijderen uit dit abonnement.
+- Wanneer u een maandelijks Azure-tegoed van ongeveer $ 100 per maand (of gelijkwaardig in lokale valuta) toewijst, moet u er rekening mee houden dat u op elk moment gebruikers uit dit abonnement kunt toevoegen of verwijderen.
 
-- Wanneer u het Azure-tegoed bulksgewijs (jaarlijks) toewijst, is de optie **Verwijderen** niet beschikbaar in Partner Center. In plaats daarvan moet u het bulktegoed tijdens uw inschrijvingsjaar overdragen naar iemand anders. Het azure-abonnement voor bulktegoeden (jaarlijks) kan ook niet worden gecombineerd met andere aanbiedingen voor licenties, vooruitbetaalde of tegoeden (bijvoorbeeld Microsoft Enterprise Agreement, Cloud Solution Provider, Azure in Open, Azure Pass, Microsoft Action Pack, enzovoort).
+- Wanneer u het Azure-tegoed bulksgewijs (jaarlijks) toewijst, is de optie **Verwijderen** niet beschikbaar in Partner Center. In plaats daarvan moet u het bulktegoed tijdens uw inschrijvingsjaar overdragen naar iemand anders. Het azure-abonnement voor bulktegoeden (jaarlijks) kan ook niet worden gecombineerd met andere licentie-, prepaid- of tegoedaanbiedingen (bijvoorbeeld Microsoft Enterprise Agreement, Cloud Solution Provider, Azure in Open, Azure Pass, Microsoft Action Pack, enzovoort).
 
 ### <a name="license-based-subscriptions"></a>Op licenties gebaseerde abonnementen
 
@@ -94,7 +94,7 @@ Een abonnement op basis van een licentie activeren:
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
 
 > [!Note]
-> Voordelen van Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune en Windows 10 Enterprise maken geen deel meer uit van competentievoordeelpakketten. U kunt de voordelen Microsoft 365 E3 of Microsoft 365 E5 activeren die fungeren als vervanging voor de zelfstandige voordeelpakketten die niet meer worden gebruikt.
+> Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune en Windows 10 Enterprise-voordelen maken geen deel meer uit van competentievoordeelpakketten. U kunt de Microsoft 365 E3 of Microsoft 365 E5 die fungeren als vervanging voor de zelfstandige voordeelpakketten die niet meer worden gebruikt.
 Als u hulp nodig hebt bij de installatie of implementatie van M365-voordelen, gebruikt u uw technische voordelen om een technisch [ondersteuningsticket te maken](mpn-benefits-technical-support.md)
       
    - Als u de einddatum wilt verlengen of meer seats/licenties wilt toevoegen aan een bestaande abonnementskopie, plakt u de onderstaande koppeling in een privé- of **incognitobrowservenster** en volgt u de instructies:
@@ -106,9 +106,9 @@ Als u hulp nodig hebt bij de installatie of implementatie van M365-voordelen, ge
 >
 > - Controleer of u meer licenties (seats) moet toevoegen, hoeveel en of u de einddatum wilt verlengen. Als u ervoor kiest om meer licenties  (seats) toe te voegen en u de einddatum niet verlengt, biedt het systeem u minder dan 12 maanden actief abonnement. 
 >
-> - Zorg ervoor dat u bent aangemeld met de juiste referenties en dat u de sleutels op de juiste Azure Active Directory (AAD)-tenant activeert. Meld u altijd aan met een privé-/incognito-browservenster om ervoor te zorgen dat u sleutels op de juiste tenant activeert.
+> - Zorg ervoor dat u bent aangemeld met de juiste referenties en dat u de sleutels op de juiste Azure Active Directory (AAD)-tenant activeert. Meld u altijd aan met een privé-/incognitobrowservenster om ervoor te zorgen dat u sleutels op de juiste tenant activeert.
 >
-> - De vervaldatum van het voordeel dat wordt weergegeven in Microsoft Partner Center geeft de laatste datum aan waarop gebruiksrechten voor dat voordeel moeten worden gebruikt. Deze datum kan afwijken van de einddatum van het abonnement die wordt vermeld in de portal van het M365-beheercentrum. Dit kan worden veroorzaakt door verschillende factoren, zoals de activeringsdatum van het voordeel, het aantal licenties dat aan de sleutel is gekoppeld en de licenties die zijn toegevoegd of uitgebreid in de beheerportal.
+> - De vervaldatum van het voordeel die wordt weergegeven in Microsoft Partner Center geeft de laatste datum aan waarop gebruiksrechten voor dat voordeel moeten worden gebruikt. Deze datum kan afwijken van de einddatum van het abonnement die wordt vermeld in de portal van het M365-beheercentrum. Dit kan worden veroorzaakt door verschillende factoren, zoals de activeringsdatum van het voordeel, het aantal licenties dat aan de sleutel is gekoppeld en de licenties die zijn toegevoegd of uitgebreid in de beheerportal.
 
 ## <a name="extend-the-end-date-or-add-more-licenses-to-an-existing-subscription"></a>De einddatum verlengen of meer licenties toevoegen aan een bestaand abonnement
 
@@ -120,9 +120,9 @@ Volg deze stappen om meer licenties toe te voegen of de einddatum voor een besta
 
 1. Wanneer u zich aanmeldt bij de portal van het **M365-beheercentrum,** moet u ervoor zorgen dat u zich aanmeldt met de juiste Azure Active Directory tenant. Selecteer vervolgens het specifieke cloudabonnement in de lijst en doe een van de volgende stappen (om het abonnement te verlengen of meer licenties toe te voegen):
 
-   - Als u het bestaande abonnement wilt verlengen, selecteert **u** de optie Einddatum uitbreiden in het gebied Licentie. Als u de einddatum uitbreidt, wordt de duur van het abonnement verlengd terwijl het aantal licenties/seats hetzelfde blijft. 
+   - Als u het bestaande abonnement wilt verlengen, selecteert **u** de optie Einddatum uitbreiden in het gebied Licentie. Als u de einddatum uitbreidt, wordt de duur van het abonnement verlengd terwijl het aantal licenties/plaatsen hetzelfde blijft. 
 
-   - Als u meer licenties (seats) wilt toevoegen aan een bestaand abonnement, selecteert u de optie **Licenties toevoegen** in het gebied Licentie. Zorg ervoor dat u licenties toevoegen **niet selecteert** als u ook het bestaande abonnement wilt verlengen. Als **u Licenties toevoegen selecteert,** wordt de duur van het abonnement beperkt en wordt het aantal licenties in het abonnement vergroot.
+   - Als u meer licenties (seats) wilt toevoegen aan een bestaand abonnement, selecteert u de optie **Licenties toevoegen** in het gebied Licentie. Zorg ervoor dat u licenties toevoegen **niet selecteert** als u ook het bestaande abonnement wilt verlengen. Als **u Licenties toevoegen selecteert,** wordt de duur van het abonnement beperkt en het aantal licenties in het abonnement vergroot.
 
    :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-4.png" alt-text="De pagina Azure- en cloudproducten laat zien hoe u licenties toevoegt." border="false":::
 
@@ -139,7 +139,7 @@ Volg deze stappen om meer licenties toe te voegen of de einddatum voor een besta
 
 ## <a name="activate-a-subscription-for-the-first-time"></a>Een abonnement voor de eerste keer activeren
 
-Volg deze stappen als u een abonnement voor de eerste keer activeert. U kunt ook deze stappen gebruiken als uw abonnement de status Uitgeschakeld of Verlopen heeft:
+Volg deze stappen als u een abonnement voor de eerste keer activeert. U kunt deze stappen ook gebruiken als uw abonnement de status Uitgeschakeld of Verlopen heeft:
 
 1. Kopieer en plak de onderstaande koppeling in **een privé- of incognitobrowservenster.**
    
@@ -160,7 +160,7 @@ In deze sectie worden enkele voorbeeldlicentiescenario's beschreven voor abonnem
 
 ### <a name="scenario-1"></a>Scenario 1
 
-Als u 100 licenties hebt die actief zijn voor een abonnement en u de einddatum wilt verlengen met behulp van een sleutel met 25 licenties, wordt de einddatum met drie (3) maanden verlengd voor het abonnement met 100 licenties.
+Als u 100 licenties actief hebt voor een abonnement en u probeert de einddatum te verlengen met behulp van een sleutel met 25 licenties, wordt de einddatum met drie (3) maanden verlengd voor het abonnement met 100 licenties.
 
 ### <a name="scenario-2"></a>Scenario 2
 
@@ -172,7 +172,7 @@ Als u vijf (5) licenties hebt die actief zijn voor een abonnement en u de eindda
 
 ### <a name="scenario-4"></a>Scenario 4
 
-Als u de einddatum wilt verlengen met behulp van een sleutel met meer dan 3x actieve licenties/seats, wordt het volgende foutbericht weergegeven. Dit bericht is een ontwerp, omdat de einddatum van het abonnement met maximaal drie jaar kan worden verlengd.
+Als u de einddatum probeert uit te breiden met behulp van een sleutel met meer dan 3x actieve licenties/seats, wordt het volgende foutbericht weergegeven. Dit bericht is een ontwerp, omdat de einddatum van het abonnement met maximaal drie jaar kan worden verlengd.
 
 :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Foutbericht over Azure- en cloudproducten." border="false":::
 

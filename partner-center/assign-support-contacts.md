@@ -1,20 +1,20 @@
 ---
-title: Contactpersonen voor ondersteuning toewijzen voor klanten
+title: Ondersteuningscontacten toewijzen voor klanten
 ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Meer informatie over het toewijzen van een reseller als contactpersoon voor technische ondersteuning voor klanten die abonnementen hebben op Microsoft-services.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3ec63109f21c67c66719b8f145336617a948199
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 358bce2c23d05d5523a5bd7a7032916d00340daf
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149907"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841705"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Een reseller toewijzen als contactpersoon voor technische ondersteuning voor klanten
 
@@ -23,7 +23,7 @@ ms.locfileid: "110149907"
 
 Wanneer u abonnementen voor Microsoft-services voor uw klanten in stelt, kunt u de technische ondersteuning voor deze producten toewijzen aan een aangewezen reseller, in plaats van zelf de ondersteuning te bieden.
 
-Nadat u contactpersonen voor ondersteuning hebt ingesteld, kunnen klanten de informatie van uw toegewezen contactpersoon voor ondersteuning bekijken op de productondersteuningspagina's. Wanneer Office 365-klanten bijvoorbeeld ondersteuning nodig hebben, kunnen ze naar de Office.com-pagina gaan,  zich aanmelden met  hun beheerdersreferenties, de tegel Beheerder selecteren en onder de sectie Ondersteuning de contactgegevens voor toegewezen ondersteuning bekijken.
+Nadat u contactpersonen voor ondersteuning hebt ingesteld, kunnen klanten de informatie van uw toegewezen contactpersoon voor ondersteuning bekijken op de productondersteuningspagina's. Wanneer klanten bijvoorbeeld ondersteuning Office 365, kunnen ze naar de pagina Office.com gaan, zich aanmelden met hun  beheerdersreferenties,  de tegel Beheerder selecteren en onder de sectie Ondersteuning de contactgegevens voor toegewezen ondersteuning bekijken.
 
 Dit kan worden gebruikt voor [scenario's met meerdere partners](multipartner.md) [en meerdere](multichannel.md) kanalen. 
 
@@ -32,7 +32,7 @@ Dit kan worden gebruikt voor [scenario's met meerdere partners](multipartner.md)
 
 1. Begin met [het aanvragen van een relatie met](request-a-relationship-with-a-customer.md) uw aangewezen productverkoper. Onderhandel met hen over een ondersteuningsovereenkomst voor het afhandelen van technische ondersteuning.
 
-2. Selecteer in **Partner Center** menu **Klanten,** selecteer vervolgens een klant en selecteer vervolgens een abonnement, bijvoorbeeld Office 365 Business Standard.
+2. Selecteer in **Partner Center** menu **Klanten,** selecteer vervolgens een klant en selecteer vervolgens een abonnement, Office 365 Business Standard.
 
 3. Selecteer **in Aangewezen ondersteuningscontact** de aangewezen productverkoper en klik vervolgens op **Verzenden.** 
 

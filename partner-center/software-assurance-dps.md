@@ -3,18 +3,18 @@ title: Software Assurance Planning Services-pensioen
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Microsoft Planning Services wordt niet meer gebruikt.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 791443cbcc4d8ee055ae9e4961d5e5329399e436
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 880a2db785f9e8f14093dd3bf1abae2a9c580ff0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551500"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840974"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Software Assurance Planning Services-pensioen
 
@@ -27,15 +27,15 @@ Het Voordeel van Planning Services wordt volledig ingetrokken Software Assurance
 - 1 februari 2020: Trainingsdagen kunnen niet meer worden geconverteerd naar Planning Services-dagen.  
 - 1 februari 2021: Klanten profiteren niet meer van de voordelen van Planning Services. 
 - 30 juni 2021: Laatste dag voor klanten om planningsservices te maken/toewijzen. Alle resterende Planning Services-dagen worden verwijderd op 1 juli 2021.
-- 1 januari 2022: Laatste dag voor partners om planningsservices in te wisselen. Partner heeft 60 dagen na inwisseling om het betalingsaanvraagproces te voltooien.  
+- 1 januari 2022: Laatste dag voor partners om planningsservices in te wisselen. Partner heeft 60 dagen na de aflossing de tijd om het betalingsaanvraagproces te voltooien.  
 
 >[!NOTE]
->Er is geen wijziging in de levenscyclus van de levenscyclus. Zodra een reservering is gemaakt/toegewezen, moeten de reservering, de klantbetrokkenheid en de aflossing van de cheque binnen 180 dagen vóór de vervaldatum worden voltooid.  Zie de veelgestelde vragen over de site [Software Assurance Benefit (TIJDENS) Wijzigingen (aanmelding vereist)](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) voor meer informatie over het buiten gebruik nemen van het Planning Services-programma.  Stuur eventuele vragen naar uw regionale partnerondersteuningsteam: [EMEA Partner Support](mailto:savoucher@msdirectservices.com); [Algemene ondersteuning van partners](https://partner.microsoft.com/dashboard/support/servicerequests)
+>Er is geen wijziging in de levenscyclus van de levenscyclus. Zodra een reservering is gemaakt/toegewezen, moeten de reservering, de klantbetrokkenheid en de aflossing van de cheque binnen 180 dagen vóór de vervaldatum worden voltooid.  Zie de veelgestelde vragen over de site [Software Assurance Benefit (TIJDENS) Wijzigingen (aanmelding vereist)](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) voor meer informatie over het buiten gebruik nemen van het Planning Services-programma.  Stuur eventuele vragen naar uw regionale partnerondersteuningsteam: [EMEA Partner Support](mailto:savoucher@msdirectservices.com); [Algemene ondersteuning voor partners](https://partner.microsoft.com/dashboard/support/servicerequests)
 
 
 ### <a name="get-started"></a>Aan de slag
 
-Als u geen tijd hebt Software Assurance planningsservices, volgt u alle onderstaande stappen. Als u al actief bent in de Planning Services-programma(s), begint u elke nieuwe betrokkenheid bij stap vier (4) hieronder.
+Als u geen tijd hebt Software Assurance planningsservices, volgt u alle onderstaande stappen. Als u al actief bent in de Planning Services-programma('s), begint u elke nieuwe betrokkenheid bij stap vier (4) hieronder.
 
 1. Geschiktheid controleren (nieuwe partners)
 2. Inschrijven (nieuwe partners)
@@ -60,7 +60,7 @@ Voordat partnerbedrijven en consultants zich kunnen inschrijven in een van de Pl
 Om te controleren of uw bedrijf in aanmerking komt voor inschrijving in een specifieke Planning Services-betrokkenheid:
 
 1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard/home)
-2. Selecteer **MPN** in het menu en selecteer vervolgens **Programma's.**
+2. Selecteer **MPN in** het menu en selecteer vervolgens **Programma's.**
 3. Selecteer **Software Assurance-inschrijving.**
 4. Selecteer het **tabblad Planning Services-programma-inschrijving** bovenaan de pagina. U ziet een groen vinkje naast eventuele vereisten of competenties die u al hebt voltooid.
 
@@ -86,17 +86,17 @@ Zie stap [4](https://go.microsoft.com/fwlink/?linkid=2115983) van de werkstroom 
 
 ## <a name="validate-and-reserve-voucher-existing-partners"></a>Een reserverol (bestaande partners) valideren en reserveren
 
-Nadat een klant een licentie aan uw bedrijf heeft toegewezen in het [Volume Licensing Service Center (VLSC),](https://www.microsoft.com/Licensing/servicecenter/default.aspx)ontvangt de klant een e-mail met de id. De klant moet dit e-mailbericht naar u doorsturen, zodat u de informatie hebt die u nodig hebt om de klant te reserveren.
+Nadat een klant een e-mail heeft toegewezen aan uw bedrijf in het [Volume Licensing Service Center (VLSC),](https://www.microsoft.com/Licensing/servicecenter/default.aspx)ontvangt de klant een e-mail met de id. De klant moet dit e-mailbericht naar u doorsturen, zodat u de informatie hebt die u nodig hebt om de klant te reserveren.
 
 Wanneer u de details van de planning hebt, kunt u de afspraak reserveren en de planning plannen. Zie stap 5 van de [werkstroom voor gedetailleerde](https://go.microsoft.com/fwlink/?linkid=2115983) stappen.
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Voltooi de betrokkenheid en leverbare producten aan uw klant (bestaande partners)
 
-Om in aanmerking te komen voor een Planning Services-betrokkenheid, moet de consultant een of meer van de technische evaluaties of examens hebben voltooid die vereist zijn voor de gekwalificeerde competentie van de betrokkene. (Bekijk geschiktheidsvereisten voor planningsservices voor meer informatie over de vereiste evaluaties of [examens.)](software-assurance-dps-requirements.md)
+Om in aanmerking te komen voor een Planning Services-betrokkenheid, moet de consultant een of meer van de technische beoordelingen of examens hebben voltooid die vereist zijn voor de gekwalificeerde competentie van de betrokkene. (Bekijk geschiktheidsvereisten voor planningsservices voor meer informatie over de vereiste evaluaties of [examens.)](software-assurance-dps-requirements.md)
 
 Nadat uw bedrijf de betrokkenheid heeft voltooid en de definitieve, voltooide leveringsgegevens aan de klant heeft verstrekt, moet u het online voltooiingsrapport invullen en verzenden.
 
-Zie stap 6 van de [werkstroom voor](https://go.microsoft.com/fwlink/?linkid=2115983) gedetailleerde richtlijnen.
+Zie stap 6 van de [werkstroom voor gedetailleerde](https://go.microsoft.com/fwlink/?linkid=2115983) richtlijnen.
 
 ## <a name="redeem-voucher"></a>Inwisselen
 

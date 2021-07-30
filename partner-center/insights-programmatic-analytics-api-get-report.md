@@ -1,23 +1,23 @@
 ---
-title: Rapport-API op Insights halen
+title: Rapport-API ops Insights halen
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Gebruik deze API om alle beschikbare rapport-id's in Partner Center verkrijgen.
+ms.subservice: partnercenter-insights
+description: Gebruik deze API om alle beschikbare rapport-id's op te halen in Partner Center inzichten.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 174a2f60a36cb46b287b787b177dd32236cef4eb
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: dc0e3925aeb07adc0e2b38af2913c63d3183941e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376749"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841348"
 ---
 # <a name="get-report-api"></a>Rapport-API op halen
 
-Met deze API worden alle geplande rapporten opgeslagen.
+Deze API haalt alle rapporten op die zijn gepland.
 
 **Aanvraagsyntaxis**
 
@@ -42,7 +42,7 @@ Geen
 
 |    Parameternaam    |    Type    |    Vereist    |    Beschrijving    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId     |    tekenreeks    |    No    |    Filter om alleen details op te halen van rapporten met de reportId die in dit argument is opgegeven     |
+|    reportId     |    tekenreeks    |    No    |    Filter om alleen details van rapporten op te halen met de reportId die in dit argument is opgegeven     |
 |    reportName     |    tekenreeks    |    No    |    Filter om alleen details van rapporten op te halen met de reportName in dit argument     |
 |    queryId     |    tekenreeks    |    No    |    Filter om alleen details van rapporten op te halen met de queryId die in dit argument is opgegeven     |
 |        |        |        |        |
@@ -60,7 +60,7 @@ Geen
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Responscode: 200, 400, 401, 403, 404, 500
+Antwoordcode: 200, 400, 401, 403, 404, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -100,13 +100,13 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    ----    |    ----    |
 |    ReportId     |    Unieke UUID van het rapport dat is gemaakt     |
 |    ReportName     |    Naam van het rapport in de nettolading van de aanvraag     |
-|    Beschrijving     |    Beschrijving gegeven tijdens het maken van het rapport     |
+|    Beschrijving     |    Beschrijving die is opgegeven bij het maken van het rapport     |
 |    QueryId     |    Query-id doorgegeven op het moment dat het rapport werd gemaakt     |
 |    Query’s uitvoeren     |    Querytekst die wordt uitgevoerd voor dit rapport     |
 |    Gebruiker     |    Gebruikers-id die wordt gebruikt om het rapport te maken     |
-|    CreatedTime     |    Het tijdstip dat het rapport is gemaakt. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Tijd dat het rapport is gemaakt. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Het tijdstip dat het rapport voor het laatst is gewijzigd. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
-|    executeNow     |    ExecuteNow-vlag ingesteld op het moment dat het rapport is gemaakt    |
+|    executeNow     |    ExecuteNow-vlag ingesteld op het moment dat het rapport werd gemaakt    |
 |    StartTime     |    De uitvoering van de tijd begint. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status van de uitvoering van het rapport. De mogelijke waarden zijn Onderbroken, Actief en Inactief.     |
 |    RecurrenceInterval     |    Terugkeerpatroon dat is opgegeven tijdens het maken van het rapport     |
@@ -114,7 +114,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    CallbackUrl     |    Callback-URL die is opgegeven in de aanvraag     |
 |    CallbackMethod    |    Callback-methode die is opgegeven in de aanvraag    |
 |    Indeling     |    Indeling van de rapportbestanden     |
-|    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
+|    TotalCount     |    Aantal gegevenssets in de matrix Waarde     |
 |    Bericht     |    Statusbericht van de uitvoering van de API     |
 |    StatusCode     |    Resultaatcode. De mogelijke waarden zijn 200, 400, 401, 403, 500     |
 |        |        |

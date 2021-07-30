@@ -3,18 +3,18 @@ title: Communiceren met uw klanten
 description: Als u een indirecte reseller in het CSP-programma bent, helpt dit artikel u om verbinding te maken met uw nieuwe en bestaande klanten.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 6fe2eb7af3fbfa826496c1de409675cd84d92ef5
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148428"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840277"
 ---
 # <a name="connect-with-customers"></a>Communiceren met klanten
 
@@ -26,7 +26,7 @@ Als u wilt werken met klanten op de Partner Center, moeten uw klanten Partner Ce
 
 ## <a name="connect-with-existing-customers"></a>Verbinding maken met bestaande klanten
 
-Zodra u zich hebt ingeschreven als een indirecte reseller, ziet u dezelfde klanten in de Partner Center u al zaken doet in andere portals. Dergelijke andere portals omvatten het Office 365-beheercentrum of het Azure Portal. Als u uw klantenlijst wilt weergeven, **selecteert u Klanten** in **Partner Center** menu.
+Zodra u zich hebt ingeschreven als een indirecte reseller, ziet u dezelfde klanten in de Partner Center u al zaken doet in andere portals. Dergelijke andere portals omvatten Office 365 beheercentrum of het Azure Portal. Als u uw klantenlijst wilt weergeven, **selecteert u Klanten** in **Partner Center** menu.
 
 Wanneer u verbinding maakt met een indirecte provider, krijgt u niet automatisch klanten van de indirecte provider. Op dezelfde manier worden de klanten met wie u werkt, hetzij zelf of via uw indirecte provider, maar niet via de Partner Center, niet automatisch weergegeven in uw klantenlijst wanneer u zich inschrijft in de Partner Center. U moet een resellerrelatie met klanten tot stand brengen om in de Partner Center.  U kunt dit doen door hen een uitnodiging te sturen om met u verbinding te maken op Partner Center, zoals hieronder wordt beschreven.
 
@@ -46,25 +46,25 @@ Wanneer u verbinding maakt met een indirecte provider, krijgt u niet automatisch
 
 ## <a name="connect-with-new-customers"></a>Verbinding maken met nieuwe klanten
 
-Wanneer u nieuwe klanten aant trekken, moet u er verbinding mee maken op de Partner Center. Mogelijk krijgt u nieuwe klanten via meerdere kanalen, waaronder:
+Wanneer u nieuwe klanten aant trekken, moet u er verbinding mee maken op de Partner Center. U kunt nieuwe klanten via meerdere kanalen krijgen, waaronder:
 
 - Uw eigen marketingactiviteiten
 - Microsoft-verwijzingen
 - Indirecte providers
 
-Als u de abonnementen en services van een klant namens hen wilt beheren, moet u een resellerrelatie met deze klanten hebben. Als u wilt dat uw indirecte provider namens uw klant orders kan verzenden, moet de indirecte provider ook een resellerrelatie met deze provider hebben.
+Als u de abonnementen en services van een klant namens hen wilt beheren, moet u een resellerrelatie met deze klant hebben. Als u wilt dat uw indirecte provider namens uw klant orders kan verzenden, moet de indirecte provider ook een resellerrelatie met deze provider hebben.
 
-Als u beheerdersmachtigingen wilt krijgen voor het beheren van de abonnementen en **services** van een nieuwe klant en wilt toestaan dat uw indirecte provider namens hen nieuwe orders indient, kunt u de klant uitnodigen om tegelijkertijd een resellerrelatie met u en uw provider tot stand te stellen.
+Als u beheerdersmachtigingen wilt krijgen om de abonnementen en **services** van een nieuwe klant te beheren en uw indirecte provider in staat wilt stellen namens hen nieuwe orders in te dienen, kunt u de klant uitnodigen om tegelijkertijd een resellerrelatie met u en uw provider tot stand te stellen.
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Een klant uitnodigen om een resellerrelatie met u en uw indirecte provider op hetzelfde moment tot stand te laten komen
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Een klant uitnodigen om op hetzelfde moment een resellerrelatie met u en uw indirecte provider tot stand te stellen
 
-1. Selecteer **Indirecte providers in** het Partner Center **menu**.
+1. Selecteer **Indirecte providers** in het Partner Center **menu**.
 
-2. Selecteer **Nieuwe klanten uitnodigen** om een klant uit te nodigen om tegelijkertijd een resellerrelatie met u en de indirecte provider tot stand te brengen. De provider moet een resellerrelatie hebben met uw klant, zodat ze namens uw klant orders kunnen indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties wil toevoegen aan bestaande abonnementen.
+2. Selecteer **Nieuwe klanten uitnodigen** om een klant uit te nodigen om tegelijkertijd een resellerrelatie met u en de indirecte provider tot stand te brengen. De provider moet een resellerrelatie hebben met uw klant, zodat deze namens uw klant orders kan indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties wil toevoegen aan bestaande abonnementen.
 
 3. Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het conceptbericht openen via e-mail of u kunt het bericht naar het klembord kopiëren en in een e-mailbericht plakken.
 
-   U kunt de tekst in het e-mailbericht bewerken. Zorg ervoor dat u de koppeling op bevat, omdat deze is aangepast om de klant rechtstreeks te koppelen aan zowel uw account als het account van uw provider. Selecteer **Gereed** wanneer u deze stap hebt voltooid.
+   U kunt de tekst in het e-mailbericht bewerken. Zorg ervoor dat u de koppeling op de koppeling op social media koppelt aan zowel uw account als het account van uw provider. Selecteer **Gereed** wanneer u deze stap hebt voltooid.
 
 4. Nadat de klant u en uw provider heeft gemachtigd om hun wederverkopers van records te zijn, hebt u beheerdersmachtigingen om hun abonnementen, licenties en gebruikers namens hen te beheren. Uw indirecte provider kan ook namens hen orders indienen.
 
@@ -83,8 +83,8 @@ Als u de relatie met een klant wilt verwijderen, moet u de onderstaande stappen 
 4.  De klant wordt niet meer weergegeven in de lijst met klanten.
 
 >[!IMPORTANT]
->Als u een relatie met een klant tot stand hebt gebracht en u die relatie verwijdert, blijven alle verleende gedelegeerde beheerdersbevoegdheden ongewijzigd.
->U vertegenwoordigt dat de beslissing om de relatie met de klant te beëindigen in goed vertrouwen is genomen, voor een legitiem zakelijk doel en in overeenstemming met uw overeenkomst met uw klant of partner, en u ermee akkoord gaat Microsoft te beschermen en te beschermen tegen en te beschermen tegen claims van derden, in overeenstemming met het ermee in strijd zijn.
+>Als u een relatie met een klant tot stand hebt gebracht en u die relatie verwijdert, blijven de verleende gedelegeerde beheerdersbevoegdheden ongewijzigd.
+>U vertegenwoordigt dat de beslissing om de relatie met de klant te beëindigen in goed vertrouwen is genomen, voor een legitiem zakelijk doel en in overeenstemming met uw overeenkomst met uw klant of partner, en u ermee akkoord gaat Microsoft te beschermen en te beschermen tegen en te beschermen tegen claims van derden tegen het ermee in strijd zijn.
 >Als uw overeenkomst dit vereist, moet u uw klant of partner een juridische kennisgeving van beëindiging verstrekken. Dit hulpprogramma genereert geen kennisgeving aan de klant of partner.
 
 ## <a name="next-steps"></a>Volgende stappen

@@ -4,17 +4,17 @@ description: Meer informatie over de speciale, gereduceerde prijzen van Microsof
 ms.topic: how-to
 ms.date: 05/04/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e715ec2c787ea3df623256904f8af1e7d8f4e9c8
-ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+ms.openlocfilehash: d875a5a511851168ed6aa7e58b81057513b413ab
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112915572"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840447"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkopen aan gespecialiseerde branches zoals educatie, non-profit en overheidsgebruikers
 
@@ -27,7 +27,7 @@ Microsoft biedt speciale, gereduceerde prijzen voor bepaalde groepen klanten, wa
 |**Speciale prijzen**   |**Vereiste kwalificaties voor resellers**   |**Vereiste kwalificaties van de klant**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Onderwijs   |Geen   | Moet een [Qualified Education-gebruiker zijn.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-| Amerikaanse federale overheid   |Als u Azure wilt verkopen, moet u zich inschrijven [met behulp van het microsoft US Government Cloud Validation-formulier](https://azuregov.microsoft.com/csp). Voor het verkopen van op licenties gebaseerde abonnementen aan de overheid is kwalificatie niet vereist.|   Geen|
+| Amerikaanse federale overheid   |Als u Azure wilt verkopen, moet u zich inschrijven [met behulp van het Microsoft US Government Cloud Validation-formulier](https://azuregov.microsoft.com/csp). Voor het verkopen van op licenties gebaseerde abonnementen aan de overheid is kwalificatie niet vereist.|   Geen|
 | Alle andere overheidsentiteiten | Geen<br />Partners moeten inrichten met behulp van 'zakelijke' aanbiedingen. | Geen
 |Non-profit  |Geen<br/> Moet een non-profit tenant Azure Active Directory hebben.<br/> Meer informatie over [speciale non-profit aanbiedingen](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Meld u aan via het [non-profit programma van Microsoft om](https://nonprofit.microsoft.com/#/register) in aanmerking te komen.   |
 
@@ -45,9 +45,9 @@ De volgende stappen zijn alleen van toepassing op indirecte providers en partner
 
 1. Selecteer in **Partner Center** menu **Klanten.** Kies de klant in de lijst.
 
-2. Selecteer Account in het menu van de **klant.** Zoek in **de sectie** Bedrijfsgegevens naar **Speciale kwalificaties.**
+2. Selecteer Account in het menu van **de klant.** Zoek in **de sectie** Bedrijfsgegevens naar **Speciale kwalificaties.**
 
-3. Als **Speciale kwalificaties** is ingesteld op **Geen,** maar de klant  in feite voldoet aan de kwalificaties, kunt u de gegevens bijwerken om ze op te nemen.
+3. Als Speciale kwalificaties is ingesteld op **Geen,** maar de klant  in feite wel voldoet aan de **kwalificaties,** kunt u de gegevens bijwerken om ze op te nemen.
 
 ## <a name="where-to-find-special-offers"></a>Waar vind ik speciale aanbiedingen?
 
@@ -57,10 +57,10 @@ Zodra u en uw klant zijn gekwalificeerd voor een speciaal aanbiedingsprogramma, 
 
 Partners kunnen alleen speciale aanbiedingen aan klanten verkopen als ze voldoen aan bepaalde criteria. 
 
-- Onderwijsaanbiedingen kunnen alleen worden aangeschaft als de klant is geautoriseerd als onderwijsinstelling. Een Education-klant kan alleen education- en commerciële aanbiedingen ontvangen, maar niet non-profit, noch de Government Community Cloud (GCC).
-- Partners kunnen alleen GCC-abonnementen aanschaffen voor GCC-klanten. Zodra een klant een GCC-abonnement heeft, kunnen partners geen commerciële, onderwijs- of non-profitabonnementen aanschaffen.
-- Partners kunnen alleen commerciële of non-profitabonnementen aanschaffen voor non-profitklanten. Partners kunnen geen GCC- of onderwijsabonnementen aanschaffen voor non-profitklanten.
-- Entiteiten die eigendom zijn van de status moeten voldoen aan de [criteria voor geschiktheid.](https://www.microsoft.com/legal/compliance/anticorruption/criteria)
+- Onderwijsaanbiedingen kunnen alleen worden aangeschaft als de klant is geautoriseerd als onderwijsinstelling. Een Education-klant kan alleen education- en commerciële aanbiedingen ontvangen, maar geen non-profit- of overheidscloud (GCC).
+- Partners kunnen alleen GCC kopen voor GCC klanten. Zodra een klant een GCC heeft, kunnen partners geen commerciële, onderwijs- of non-profitabonnementen aanschaffen.
+- Partners kunnen alleen commerciële of non-profitabonnementen aanschaffen voor non-profitklanten. Partners kunnen geen GCC of education-abonnementen aanschaffen voor non-profitklanten.
+- Entiteiten die eigendom zijn van de status moeten voldoen aan [de criteria voor geschiktheid.](https://www.microsoft.com/legal/compliance/anticorruption/criteria)
 
 Aankoopregels voor het verkopen van speciale aanbiedingen aan klanten:
 
@@ -76,5 +76,5 @@ Aankoopregels voor het verkopen van speciale aanbiedingen aan klanten:
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Verkoop Minecraft: Education Edition abonnementen aan education-klanten](minecraft-subscriptions.md)
+- [Verkopen Minecraft: Education Edition aan onderwijsklanten](minecraft-subscriptions.md)
 - [Partnercentrum voor Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

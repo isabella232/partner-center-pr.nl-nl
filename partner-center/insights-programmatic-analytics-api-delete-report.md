@@ -3,17 +3,17 @@ title: Rapport-API verwijderen - Insights verwijderen
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Gebruik deze API om een rapport in uw Partner Center verwijderen.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: e060104f8f09f69c213ab1b22d4be08d58babced
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: a8a94fc1a6e69bab0a7671bd27949e271a77dbbe
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376757"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840056"
 ---
 # <a name="delete-report-api"></a>Rapport-API verwijderen
 
@@ -111,7 +111,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    CallbackUrl     |    Callback-URL die is opgegeven in de aanvraag     |
 |    CallbackMethod    |    Callback-methode die is opgegeven in de aanvraag    |
 |    Indeling     |    Indeling van de rapportbestanden     |
-|    TotalCount     |    Aantal gegevenssets in de matrix Waarde     |
+|    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
 |    Bericht     |    Statusbericht van de uitvoering van de API     |
 |    StatusCode     |    Resultaatcode. De mogelijke waarden zijn 200, 400, 401, 403, 500     |
 |        |        |

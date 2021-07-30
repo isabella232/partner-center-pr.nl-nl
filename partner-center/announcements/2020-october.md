@@ -1,73 +1,73 @@
 ---
 title: Aankondigingen van oktober 2020
-description: Meldingen van oktober 2020 voor het micro soft-partner centrum, zoals nieuwe mogelijkheden, aanbiedingen, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
+description: Aankondigingen van oktober 2020 voor Microsoft Partner Center, zoals nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 8c5ae3f84417cfeeb02bfc84cc1fa69546a978cc
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433305"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841824"
 ---
 # <a name="october-2020-announcements"></a>Aankondigingen van oktober 2020
 
-Op deze pagina vindt u informatie over de aankondigingen voor het micro soft Partner Center voor oktober 2020.
+Op deze pagina worden de aankondigingen voor Microsoft Partner Center voor oktober 2020.
 
-2020 mede delingen: [maart](2020-march.md)  |  [april](2020-april.md)  |  [mei](2020-may.md)juni tot en met  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [september](2020-september.md) | Oktober
+Aankondigingen van 2020: [maart](2020-march.md)  |  [april](2020-april.md)  |  [](2020-may.md)  |  [mei juni](2020-june.md)  |  [augustus](2020-july.md)  |  [](2020-august.md)  |  [september](2020-september.md) | Oktober
 
 ______________
 
-## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Correctie voor het aanroepen van plan uitbreidingen 
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Correctie van uitbreiding van aanroepen van abonnement 
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-10-29
 - Aanbiedingen/markten
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Directe providers, indirecte providers en indirecte wederverkopers
+Directe providers, indirecte providers en indirecte resellers
 
 ### <a name="details"></a>Details
 
-Op 1 oktober 2020 hebben we [de beschik baarheid van het aanroepen van Office 365 op nieuwe markten](2020-september.md#2)aangekondigd. Deze aankondiging is niet juist en 240 minuten per gebruiker per maand voor binnenlandse abonnementen is niet beschikbaar zoals eerder vermeld. 
+Op 1 oktober 2020 hebben we de beschikbaarheid van [Office 365 Calling Plan in nieuwe markten aangekondigd.](2020-september.md#2) Deze aankondiging is niet juist en 240 minuten per gebruiker per maand voor nationale abonnementen is niet beschikbaar zoals eerder vermeld. 
 
 
-Raadpleeg de [product documentatie](/microsoftteams/calling-plan-landing-page)van micro soft teams voor meer informatie over het aanroepen van plannen.
+Raadpleeg de productdocumentatie van Microsoft Teams voor meer informatie over het [aanroepen van abonnementen.](/microsoftteams/calling-plan-landing-page)
 
 
 ________________
 
-## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Updates van onderdelen van Windows Server-software
+## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Windows Functie-updates voor serversoftwareabonnementen
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-10-29
 - Functies
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Cloud Solution Provider (CSP)-partners die eerder Windows Server Standard-software abonnementen hebben aangeschaft
+Cloud Solution Provider (CSP) partners die eerder Windows Server Standard-softwareabonnementen hebben gekocht
 
 ### <a name="details"></a>Details
 
-Micro soft kondigt de release van een nieuwe functie-update voor Windows Server-software-abonnementen op de CSP toe op 30 oktober 2020. De update bevat Windows Server software Subscription-producten: Windows Server Standard, **Version 20H2** (CSP-product-id: DG7GMGF0DVT9). Het bijgewerkte Download bestand is nu beschikbaar voor dit product. Partners kunnen ervoor kiezen om het meest recente bestand te downloaden om de nieuwe functies te krijgen.
+Microsoft kondigt de release aan van een nieuwe functie-update voor Windows Server-softwareabonnementen op CSP op 30 oktober 2020. De update bevat Windows Server-softwareabonnementproducten: Windows Server Standard, versie **20H2** (CSP-product-id: DG7GMGF0DVT9). Het bijgewerkte downloadbestand is nu beschikbaar voor dit product. Partners kunnen ervoor kiezen om het meest recente bestand te downloaden om de nieuwe functies op te halen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Deel deze informatie met de juiste contact personen in uw organisatie.
-- Raadpleeg de [documentatie van Windows Server versie 20H2](/windows/release-information/status-windows-10-20h2)
+- Deel deze informatie met de juiste contactpersonen in uw organisatie.
+- Documentatie [Windows serverversie 20H2 bekijken](/windows/release-information/status-windows-10-20h2)
 
 ________________
 
-## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Windows 10 education-upgrade is nu beschikbaar voor klanten met een geschikte Cloud Solution Provider (CSP) onderwijs
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Windows 10 Education upgrade is nu beschikbaar voor gekwalificeerde Cloud Solution Provider Education-klanten (CSP)
 
 ### <a name="categories"></a>Categorieën
 
@@ -76,66 +76,66 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-CSP-partners die Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnementen voor hun onderwijs klanten hebben aangeschaft, kunnen ze nu helpen hun Windows 10 Home-apparaten te upgraden naar Windows 10 education.
+CSP-partners die Microsoft 365 A3/A5- of Windows 10 Enterprise A3/A5-abonnementen voor hun Education-klanten hebben aangeschaft, kunnen hen nu helpen bij het upgraden van hun Windows 10 Home-apparaten naar Windows 10 Education.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-CSP-partners die Microsoft 365 a3/A5-of Windows 10 Enter prise a3/A5-abonnementen voor hun onderwijs klanten hebben gekocht
+CSP-partners die een Microsoft 365 A3/A5 of Windows 10 Enterprise A3/A5-abonnementen voor hun Education-klanten hebben aangeschaft
 
 ### <a name="details"></a>Details
 
-Vanaf 1 november 2020 kunnen Csp's die Microsoft 365 a3/A5 of Windows 10 Enter prise a3/A5-abonnementen hebben aangeschaft, hun onderwijs gebruikers upgraden van Windows 10 Home naar Windows 10 onderwijs, dat is ontworpen voor zowel het klas lokaal als het onderwijs op afstand.
+Vanaf 1 november 2020 kunnen CSP's die Microsoft 365 A3/A5 of Windows 10 Enterprise A3/A5-abonnementen hebben aangeschaft, hun Education-klanten upgraden van Windows 10 Home naar Windows 10 Education, dat is ontworpen voor zowel onderwijs in het leslokaal als het onderwijs op afstand.
 
-Van 1 november 2020 is Windows 10 Home een in aanmerking komend besturings systeem voor onderwijs klanten waarvoor een licentie is verkregen via de Microsoft Cloud overeenkomst (via CSP). Deze Beschik baarheid, die tot nu toe alleen beschikbaar is in onderwijs Programma's voor volume licenties (VL), is ingeschakeld via Microsoft 365-beheer Portal ondersteuning. 
+Vanaf 1 november 2020 is Windows 10 Home een in aanmerking komend besturingssysteem voor Education-klanten met een licentie via de Microsoft Cloud-overeenkomst (via CSP). Deze geschiktheid, die tot nu toe alleen beschikbaar was in vl-onderwijsprogramma's (Volume Licensing), is ingeschakeld via de Microsoft 365-beheerportal. 
 
-#### <a name="how-the-upgrade-process-works"></a>Hoe het upgrade proces werkt
+#### <a name="how-the-upgrade-process-works"></a>Hoe het upgradeproces werkt
 
-CSP-partners kunnen hun klanten helpen bij te werken door een ondersteunings aanvraag in hun naam in te dienen. De aanvraag wordt door Microsoft Ondersteuning gecontroleerd om ervoor te zorgen dat uw klant hiervoor in aanmerking komt. Zodra de aanvraag is goedgekeurd, wordt de Windows 10 Pro education-sleutel aan de klant verstrekt.
+CSP-partners kunnen hun klanten helpen bij het upgraden door namens hen een ondersteuningsaanvraag in te dienen. De aanvraag wordt door Microsoft Ondersteuning gecontroleerd om te zien of uw klant hiervoor in aanmerking komt. Zodra de aanvraag is goedgekeurd, wordt de Windows 10 Pro Education-sleutel aan de klant verstrekt.
 
-Wanneer de klant de sleutel installeert en het apparaat wordt toegevoegd aan het Tenant domein via Azure Active Directory (AAD), wordt het apparaat automatisch bijgewerkt naar Windows 10 education (abonnement).   
+Wanneer de klant de sleutel installeert en het apparaat is verbonden met het tenantdomein via Azure Active Directory (AAD), wordt het apparaat automatisch bijgewerkt naar Windows 10 Education (abonnement).   
 
-Meer informatie over het uitvoeren van een upgrade van klanten vindt u in het [onderwerp stapsgewijze hand leiding en veelgestelde vragen](../upgrade-windows-to-education.md).
+Meer informatie over het upgraden van klanten vindt u in de Stapsgewijs-handleiding [en veelgestelde vragen.](../upgrade-windows-to-education.md)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Meld u aan bij uw in aanmerking komende klanten en leid deze door met het stapsgewijze proces.
+- Informeer uw in aanmerking komende klanten en begeleid ze door het stapsgewijs proces.
 - Deel deze informatie met de juiste personen in uw organisatie.  
 
 ________________
 
-## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>De digitale ervaring van de Cloud Solution Provider (CSP) is nu beschikbaar
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Vernieuwde digitale Cloud Solution Provider (CSP) is nu beschikbaar
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-10-28
 - Functies
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
 CSP-partners
 
 ### <a name="details"></a>Details
 
-Micro soft streeft ernaar onze partners te helpen hun potentieel te maximaliseren, innovatieve oplossingen te bouwen en meer klant succes te best rijken in de Microsoft Partner Network. Het programma Cloud Solution Provider (CSP) is een van onze snelste groeiende Program ma's met meer dan 90.000 deelnemende bedrijven.
-Ter verbetering van de zakelijke groei van partners in het Cloud Solution Provider-programma, introduceren we een vernieuwde toepassing van de digitale CSP (Cloud Solution Program) op de website van Microsoft Partner Network en een nieuwe CSP-Guidebook. Deze vernieuwde ervaring en nieuwe resources helpen partners om nieuwe kansen te ontgrendelen en hun bedrijf effectiever te laten groeien in het CSP-programma.
+Microsoft zet zich in om onze partners te helpen hun potentieel te maximaliseren, innovatieve oplossingen te bouwen en klanten meer succes te bieden in de Microsoft Partner Network. Cloud Solution Provider (CSP) is een van onze snelst groeiende programma's met meer dan 90.000 deelnemende bedrijven.
+Om de bedrijfsgroei van partners in het Cloud Solution Provider-programma te versnellen, introduceren we een vernieuwde digitale CSP-ervaring (Cloud Solution Program) op de Microsoft Partner Network-website en een nieuwe CSP-handleiding. Deze vernieuwde ervaring en nieuwe resources helpen partners nieuwe mogelijkheden te ontgrendelen en hun bedrijf effectiever te laten groeien in het CSP-programma.
 
-Deze nieuwe digitale ervaring bevat:
+Deze nieuwe digitale ervaring omvat:
 
-- De digitale ervaring van de CSP is vernieuwd om de groei van partners te helpen versnellen: de vernieuwde CSP-pagina biedt een gestroomlijnde ervaring voor de overstap van de partner over inschrijving, bouw praktijken, go-to-Market en verkopen. Partners kunnen hun omzet kansen verg Roten met verkoop campagnes en go-to-Market-resources. Andere geïntegreerde bronnen helpen partners het bijwerken en eenvoudig te maken om zaken te doen in het CSP-programma.
-- Het nieuwe programma Cloud Solution Provider Guidebook om partners te helpen bij het identificeren van nieuwe kansen: in deze stapsgewijze hand leiding vindt u informatie over het versnellen van de groei van uw bedrijfs activiteiten met het programma en het uitbreiden van de omzet kansen.
-- Inhoud van het CSP-programma in de oplossings werkruimte: oplossings werkruimte is een digitale ervaring die u één bestemming biedt voor on-demand bronnen om uw ideeën sneller op de markt te brengen. Service providers kunnen nu CSP-programma-specifieke inhoud en resources vinden in de werk ruimte oplossing.
+- Vernieuwde digitale CSP-ervaring om de groei van het bedrijf van partners te versnellen: De vernieuwde CSP-pagina biedt een gestroomlijnde ervaring die de partner helpt bij het inschrijven, bouwen, marktinschrijving en verkoop. Partners kunnen hun omzetkansen vergroten met verkoopspelcampagnes en go-to-market-resources. Andere geïntegreerde resources helpen partners om op de hoogte te blijven en eenvoudig zaken te doen in het CSP-programma.
+- Nieuwe Cloud Solution Provider-programmahandleiding om partners te helpen bij het identificeren van nieuwe verkoopkansen: Deze stapsgewijs handleiding biedt partners richtlijnen voor het versnellen van de groei van uw cloudbedrijf met het programma en het uitbreiden van uw omzetkansen.
+- Inhoud van het CSP-programma in Solution Workspace: Solution Workspace is een digitale ervaring die u één bestemming biedt voor on-demand resources om uw ideeën sneller op de markt te brengen. Serviceproviders kunnen nu CSP-programmaspecifieke inhoud en resources vinden in de oplossingswerkruimte.
 
 ### <a name="additional-resources"></a>Aanvullende bronnen
 
-- Ga naar [de pagina met de vernieuwde CSP](https://aka.ms/CSP) 
-- Bekijk [de nieuwe CSP-programma Guidebook](https://aka.ms/cspguidebook) en meer informatie over groei kansen
-- Begin met het gebruik van de oplossings werkruimte om uw procedures te bouwen en uw stappen te vereenvoudigen
-- Verstuur meer campagnes met verkoop resources 
-- Stimuleer uw collega's om de CSP-pagina te bezoeken en de bovenstaande resources in uw organisatie te delen. Als u indirecte providers bent, kunt u de resources delen met uw indirecte wederverkopers.
+- Ga [naar de vernieuwde CSP-pagina](https://aka.ms/CSP) 
+- Bekijk [de nieuwe handleiding voor het CSP-programma](https://aka.ms/cspguidebook) en meer informatie over groeimogelijkheden
+- Begin met het gebruik van De werkruimte van de oplossing om uw procedures te bouwen en de stappen te vereenvoudigen
+- Meer campagnes stimuleren met verkoopresources 
+- Raad uw collega's aan om de CSP-pagina te bezoeken en de bovenstaande resources in uw organisatie te delen. Als u indirecte providers bent, kunt u de resources delen met uw indirecte resellers.
 
 ________________
 
-## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Updates van prijzen lijst voor software abonnementen van oktober 2020 voor Cloud Solution Provider (CSP)
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Prijslijstupdates voor Cloud Solution Provider (CSP) van oktober 2020
 
 ### <a name="categories"></a>Categorieën
 
@@ -144,35 +144,35 @@ ________________
  
 ### <a name="summary"></a>Samenvatting
 
-De prijs lijst voor software abonnementen voor oktober 2020 is bijgewerkt.
+De prijslijst softwareabonnementen voor oktober 2020 is bijgewerkt.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+Alle partners die het programma Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Details
 
-De prijs lijst voor software abonnementen van oktober, 2020 is bijgewerkt, zodat er twee eerder wegge laten producten zijn.
+De prijslijst met softwareabonnementen van oktober 2020 is bijgewerkt met twee eerder weggelaten producten.
 
-[Windows 7 year 2 ESU](#3) is beschikbaar in oktober 2020. De prijzen voor jaar 2 zijn nu beschikbaar in de prijs lijst voor software abonnementen.
-- Product-ID: DG7GMGF0FL73
-- SKU-ID: 0003
+[Windows ESU van 7 jaar 2](#3) was beschikbaar in oktober 2020. De prijzen voor het jaar 2 zijn nu beschikbaar in de prijslijst met softwareabonnementen.
+- Product-id: DG7GMGF0FL73
+- SKU-id: 0003
 
-De [Azure SQL Edge](2020-september.md#9) is op eind september 2020 uitgegeven. Het is nu beschikbaar in de huidige prijs lijst van het partner centrum. 
-- Product-ID: DG7GMGF0GJC2
+[Azure SQL Edge](2020-september.md#9) is eind september 2020 uitgebracht. Deze is nu beschikbaar in de huidige Partner Center prijslijst. 
+- Product-id: DG7GMGF0GJC2
 
-U kunt alle prijs lijsten voor het CSP-partner centrum vinden door u aan te melden bij het partner centrum en te navigeren naar verkoop/aanbiedingen en prijzen.
+Alle CSP Partner Center prijslijsten zijn beschikbaar door u aan te melden bij Partner Center en te navigeren naar Verkoop/aanbiedingen en prijzen.
 
 ### <a name="additional-resources"></a>Aanvullende bronnen
 
-- [Pagina Veelgestelde vragen over ondersteuning voor Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
-- [Windows 7-ondersteuning en-Microsoft 365-apps](/deployoffice/endofsupport/windows-7-support)
-- [Windows 7 ESU-resource galerie](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Windows 7 Veelgestelde vragen over ondersteuning](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 ondersteuning en Microsoft 365-apps](/deployoffice/endofsupport/windows-7-support)
+- [Windows 7 ESU Resource Gallery](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
 - [Azure SQL Edge-site](https://aka.ms/sqledge)
 
 ________________
 
-## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Introductie van een prestatie norm voor directe vereisten voor factuur partners in het Cloud Solution Provider-programma (CSP)
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Introductie van een prestatiestandaard voor partnervereisten voor directe factuur in het Cloud Solution Provider (CSP)-programma
 
 ### <a name="categories"></a>Categorieën
 
@@ -181,63 +181,63 @@ ________________
  
 ### <a name="summary"></a>Samenvatting
 
-We introduceren een prestatie norm als onderdeel van de vereisten voor directe factuur partners in het Cloud Solution Provider-programma.
+We introduceren een prestatiestandaard als onderdeel van de partnervereisten voor directe factuur in het Cloud Solution Provider programma.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Directe factuur partners in het Cloud Solution Provider-programma.
+Directe factuurpartners in het Cloud Solution Provider programma.
 
 ### <a name="details"></a>Details
 
-Het groeiend en optimaliseren van het Microsoft Cloud Solution Provider-programma is een belang rijk onderdeel van onze reis naar een nieuwe Commerce-ervaring voor partners en klanten. Daarom zullen we het programma blijven ontwikkelen om te voldoen aan de veranderende behoeften van klanten en de meest efficiënte en winstgevende ervaring bieden, onze partners.
+Het groeien en optimaliseren van Microsoft Cloud Solution Provider programma is een belangrijk onderdeel van onze reis naar een nieuwe commerce-ervaring voor partners en klanten. Daarom blijven we het programma verder ontwikkelen om te voldoen aan de veranderende behoeften van klanten en bieden we u, onze partners, de meest efficiënte en voordelige ervaring.
 
-Vandaag delen we een paar aanstaande wijzigingen in de vereisten voor directe factuur partners in het Cloud Solution Provider-programma.
+Vandaag delen we enkele aanstaande wijzigingen in de vereisten voor partners voor directe factuur in het Cloud Solution Provider programma.
 
-Eerst **wordt een prestatie norm geïntroduceerd als onderdeel van de vereisten voor de directe factuur partner**. Partners die zich willen inschrijven als directe factuur partners in het Cloud Solution Provider-programma, moeten voldoen aan ten minste USD300K in de omzet van het Cloud Solution Provider-programma gedurende de 12 maanden vóór de vereiste datum voor de verlenging van de [ondersteunings contract](https://partner.microsoft.com/support/partnersupport) .
+Eerst introduceren **we een prestatiestandaard als onderdeel van de partnervereisten voor directe factuur.** Partners die zich willen inschrijven als partners voor directe factuur in het Cloud Solution Provider-programma, moeten voldoen aan ten minste USD 300.000 in de Cloud Solution Provider-programma-omzet gedurende de 12 maanden vóór de vereiste verlengingsdatum van het ondersteuningscontract. [](https://partner.microsoft.com/support/partnersupport)
 
 Deze prestatienorm wordt in januari 2021 van kracht voor actuele directe facturering-partners, en u moet aan de vereisten voldoen op het moment van de vernieuwingsdatum van uw partnerondersteuningsabonnement.
 
-Als u niet in staat bent om te voldoen aan de bijgewerkte vereisten voor de directe factuur partner, moet u zich opnieuw inschrijven als een indirecte wederverkoper in het Cloud Solution Provider-programma. 
+Als u niet kunt of liever niet voldoet aan de bijgewerkte vereisten voor directe factuurpartners, moet u zich opnieuw inschrijven als indirecte reseller in het Cloud Solution Provider programma. 
 
-Deze nieuwe omzet vereiste helpt partners in het Cloud Solution Provider-programma bij het bouwen van een rendabeler bedrijf via het juiste model, met een duidelijkere prestatie norm en focussen op het leveren van grotere waarden aan klanten met minder infra structuur en operationele overhead.
+Deze nieuwe omzetvereiste helpt partners in het Cloud Solution Provider-programma om een rendabeler bedrijf te bouwen via het juiste model, met een duidelijkere prestatiestandaard, en richt zich op het leveren van meer waarde aan klanten met minder infrastructuur en operationele overhead.
 
-Ten tweede, in augustus 2018, hebben we de vereisten voor de directe factuur partner bijgewerkt met nieuwe criteria voor partners om een ondersteunings abonnement voor een gekwalificeerde partner aan te schaffen. We benadrukken het belang van dit vereiste voor alle direct-factuur partners in het Cloud Solution Provider-programma opnieuw uit.
+Ten tweede, in augustus 2018, hebben we de partnervereisten voor directe factuur bijgewerkt met nieuwe criteria voor partners om een gekwalificeerd ondersteuningsplan voor partners aan te schaffen. We benadrukken opnieuw het belang van deze vereiste voor alle partners voor directe factuur in het Cloud Solution Provider programma.
 
-### <a name="direct-bill-partner-requirements"></a>Vereisten voor de directe factuur partner
+### <a name="direct-bill-partner-requirements"></a>Partnervereisten voor directe factuur
 
-Bekijk de bijgewerkte vereisten en aanbevelingen voor de [directe factuur partner](../direct-partner-new-requirements.md#minimum-requirements) om te evalueren hoe u een winstgevender bedrijf kunt bouwen en uitbreiden met het juiste model in het Cloud Solution Provider-programma:
+Bekijk de [bijgewerkte vereisten](../direct-partner-new-requirements.md#minimum-requirements) en aanbevelingen voor directe factuurpartners om te evalueren hoe u een rendabeler bedrijf kunt bouwen en uitbreiden met het juiste model in het Cloud Solution Provider programma:
 
-1. **vereiste voor nieuwe omzet prestaties**
+1.**Nieuwe prestatievereiste voor omzet**
 
-**Bestaande partners** die momenteel zijn geregistreerd in het Cloud Solution Provider-programma als directe factuur partners, moeten voldoen aan de nieuwe prestatie norm vanaf januari 2021. U hebt de tijd tot uw abonnement voor het ondersteunings plan van de volgende partner aan de vereisten voldoet. U kunt uw afsluitende omzet van twaalf maanden bekijken in het partner centrum door [deze hand leiding](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)te volgen.
+**Bestaande partners** die momenteel zijn ingeschreven bij het Cloud Solution Provider-programma als partners voor directe factuur, moeten vanaf januari 2021 voldoen aan de nieuwe prestatiestandaard. U hebt de tijd tot de verlengingsdatum van uw volgende partnerondersteuningsplan om aan de vereisten te voldoen. U kunt uw twaalf maanden aan navolgende omzet op Partner Center door deze [handleiding te volgen.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)
 
-Nieuwe partners die in het Cloud Solution Provider-programma worden inge schreven, worden gestart als indirecte wederverkopers vanaf **oktober 2020**. Ze moeten gedurende de afgelopen 12 maanden ten minste USD300K hebben voor de CSP-omzet. U kunt uw afsluitende omzet van 12 maanden bekijken in het partner centrum door [deze hand leiding](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)te volgen. 
+Nieuwe partners die zich inschrijven voor het Cloud Solution Provider-programma beginnen vanaf oktober **2020** als indirecte resellers. Ze moeten ten minste USD 300.000 aan CSP-omzet hebben in de voorgaande 12 maanden. U kunt uw navolgende omzet van 12 maanden bekijken op Partner Center door deze [handleiding te volgen.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) 
 
-2. **vereiste voor ondersteunings contract** 
+2.**Contractvereiste ondersteunen** 
 
-Breid uw ondersteunings mogelijkheden uit door een van twee ondersteunings contract opties te kopen:  
+Breid uw ondersteuningsmogelijkheden uit door een van de twee opties voor een ondersteuningscontract aan te kopen:  
 
-   - Micro soft-geavanceerde ondersteuning voor partners (ASfP): één-op-één, Cloud ondersteuning met prioriteit  
-   - Micro soft Premier Support for partners (PSfP): toegang tot de volledige catalogus met proactieve services, 24/7 verhoogde ondersteunings ondersteuning en technisch account beheer in de Cloud, hybride en on-premises. 
+   - Microsoft Advanced Support for Partners (ASfP): een-op-een,cloudondersteuning met prioriteit  
+   - Microsoft Premier Support for Partners (PSfP): toegang tot de volledige catalogus met proactieve services, 24/7 ondersteuning voor onderbrekingen/oplossingen met verhoogde toegang en technisch accountbeheer in de cloud, hybride en on-premises. 
 
-Vergelijk de [Opties voor ondersteunings contract](https://partner.microsoft.com/support/partnersupport) om een gekwalificeerd abonnement aan te schaffen.
+Vergelijk de opties [van het ondersteuningscontract](https://partner.microsoft.com/support/partnersupport) om een gekwalificeerd abonnement aan te schaffen.
 
-### <a name="direct-bill-partner-recommendations"></a>Aanbevelingen voor directe factuur partner
+### <a name="direct-bill-partner-recommendations"></a>Aanbevelingen van partners voor directe factuur
 
-**De belangrijkste mogelijkheden demonstreren**
+**Belangrijke mogelijkheden demonstreren**
 
-Om ervoor te zorgen dat u klaar en bekend bent met betrekking tot de infra structuur die nodig is voor de ondersteuning van het directe factuur programma, hebben we enkele extra aanbevelingen. Laat zien dat u ten minste één beheerde service, een IP-service of een oplossings toepassing voor klanten hebt. Partners moeten een waarde toevoegen boven aan Microsoft Cloud Services en niet alleen een rechtstreekse wederverkoop van onze services doen. Het is een belang rijk onderdeel van de go-to-Market-strategie van een partner. Meer [informatie](https://partner.microsoft.com/solutions/managed-services) over het toevoegen van beheerde services. We raden u aan om te voldoen aan de minimale infrastructuur mogelijkheden, zoals facturering en inrichting. 
+Om ervoor te zorgen dat u klaar bent en kennis hebt over de infrastructuur die nodig is voor de ondersteuning van het programma voor directe factuur, hebben we enkele aanvullende aanbevelingen. Demonstreert dat u ten minste één beheerde service, IP-service of klantoplossingstoepassing biedt. Partners moeten waarde toevoegen boven op Microsoft Cloud-services en niet alleen het rechtstreeks opnieuw verkopen van onze services. Het is een belangrijk onderdeel van de marktstrategie van een partner. [Meer informatie over](https://partner.microsoft.com/solutions/managed-services) het toevoegen van beheerde services. U wordt aangeraden te voldoen aan de minimale infrastructuurmogelijkheden, zoals facturering en inrichting. 
 
-Directe-factuur partners in het CSP-programma die niet aan de nieuwe vereisten voldoen, moeten zich opnieuw registreren als indirecte wederverkopers in het programma binnen de Microsoft Partner Network. Meer [informatie](../transition-direct-to-indirect.md) over hoe u de overgang van een directe factuur partner kunt maken naar een indirecte wederverkoper.  
+Directe factuurpartners in het CSP-programma die niet voldoen aan de nieuwe vereisten, moeten zich opnieuw inschrijven als indirecte resellers in het programma binnen de Microsoft Partner Network. [Meer informatie over](../transition-direct-to-indirect.md) hoe u de overgang van een directe factuurpartner naar een indirecte reseller kunt maken.  
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de [bijgewerkte vereisten voor de directe factuur partner](../direct-partner-new-requirements.md#minimum-requirements).
-- Lees de veelgestelde vragen en andere informatie in de [resource galerie voor bewerkingen op de website van micro soft partner](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
-- Zoek [een indirecte provider om mee te werken](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) als de optie voor de indirecte wederverkoper beter aansluit bij uw bedrijfs behoeften.
+- Bekijk de [bijgewerkte vereisten voor directe factuurpartners.](../direct-partner-new-requirements.md#minimum-requirements)
+- Bekijk de veelgestelde vragen en andere informatie in [de Operations Resource Gallery op de website van Microsoft-partners.](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
+- Zoek [een indirecte provider om mee te werken](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) als de optie voor indirecte resellers beter aansluit op de behoeften van uw bedrijf.
 ________________________________
 
-## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Updates voor Microsoft 365 Business Voice-aanbiedingen
+## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Microsoft 365 Business Voice Aanbiedingsupdates
 
 ### <a name="categories"></a>Categorieën
 
@@ -246,42 +246,42 @@ ________________________________
  
 ### <a name="summary"></a>Samenvatting
 
-Aanbod-Id's in november voor beeld van prijs lijst zijn onjuist.
+Aanbiedings-ID's in de preview-versie van de prijslijst van november waren onjuist.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners communiceren via het CSP-programma (Cloud Solution Provider)
+Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
 
 ### <a name="details"></a>Details
 
-We hebben onlangs meldingen over nieuwe aanbiedingen binnenkort in november gedeeld: [Microsoft 365 Business stem voor non-profit organisaties](#10) en [Microsoft 365 Businesse stem](#9).
+Onlangs hebben we aankondigingen gedeeld over nieuwe aanbiedingen die binnenkort in november worden Microsoft 365 Business Voice: Microsoft 365 Business Voice voor [non-profitorganisaties](#10) en [Microsoft 365 Business Voice.](#9)
 
 
-Een aantal van de aanbiedings-Id's in deze aankondigingen is gecorrigeerd. Deze gecorrigeerde aanbiedingen-Id's worden in de komende weken gepubliceerd in de prijs lijst van november.
+Enkele aanbiedings-ID's in deze aankondigingen zijn gecorrigeerd. U kunt ervan uit gaan dat deze gecorrigeerde aanbiedings-ID's in de komende weken worden gepubliceerd in de update van de prijslijst van november.
 
-#### <a name="correct-offer-ids"></a>Aanbiedings-Id's corrigeren
+#### <a name="correct-offer-ids"></a>Juiste aanbiedings-ID's
 
-   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-id**|
    |-------------------|:------|:------|
-   |Aanbieding voor Microsoft 365 Business stem-acceptatie (alleen VS)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
-   |Microsoft 365 Businesse stem (prijs van de non-profit organisatie)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
+   |Microsoft 365 Business Voice Acceptatiepromo (ALLEEN VS)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|P PL-00020|
+   |Microsoft 365 Business Voice (non-profit personeel prijzen)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|P PL-00018|
 
-#### <a name="incorrect-offer-ids"></a>Onjuiste aanbiedings-Id's
+#### <a name="incorrect-offer-ids"></a>Onjuiste aanbiedings-ID's
 
-De volgende informatie over de preview-versie van prijzen lijst van november moet worden genegeerd. 
+De volgende informatie over de aanbiedings-id in de prijslijst van november moet worden genegeerd. 
 
    |**Naam van aanbieding**|**Aanbiedings-id**|
    |-------------------|:------|
-   |Aanbieding voor Microsoft 365 Business stem-acceptatie (alleen VS)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
-   |Microsoft 365 Businesse stem (prijs van de non-profit organisatie)|ae54a18d-3472-473a-9b21-9831b8e658f3|
+   |Microsoft 365 Business Voice Acceptatiepromo (ALLEEN VS)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
+   |Microsoft 365 Business Voice (non-profit personeel prijzen)|ae54a18d-3472-473a-9b21-9831b8e658f3|
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de preview-prijs lijst en deel deze informatie met alle relevante contact personen in uw organisatie.
-- Bekijk alle gereedheids materialen in de resource galerie van het CSP-programma update [introductie Microsoft 365 Business stem voor kleine en middel grote bedrijven](https://partner.microsoft.com/resources/collection/m365-voice-smb).
+- Zorg dat u vertrouwd bent met de lijst met preview-prijzen en deel deze informatie met alle juiste contactpersonen in uw organisatie.
+- Bekijk alle gereedheidsmaterialen in de resourcegalerie voor updates van het CSP-programma [Introductie Microsoft 365 Business Voice voor kleine en middelgrote bedrijven.](https://partner.microsoft.com/resources/collection/m365-voice-smb)
 ________________
 
-## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>Update van november 2020: Online Services en software Channel Authorization Guide (Engelstalig)
+## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>Update van november 2020: Handleiding voor onlineservices en softwarekanaalautorisatie
 
 ### <a name="categories"></a>Categorieën
 
@@ -289,21 +289,21 @@ ________________
 - Mogelijkheid
  
 ### <a name="summary"></a>Samenvatting 
-Updates voor de MPA-autorisatie gids.
+Updates voor MPA-autorisatiehandleiding.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Directe factuur, indirecte providers en partners in meerdere lagen die deel nemen aan het programma van de Cloud Solution Provider (CSP).
+Directe factuur, indirecte providers en partners met meerdere lagen die deelnemen aan het Cloud Solution Provider (CSP)-programma.
 
 ### <a name="details"></a>Details
-Overeenkomstig die Subsectie van de autorisatie van Online Services en software kanalen, onder de sectie "kennisgeving van wijzigingen", getiteld "wijzigingen in de gidsen", in uw micro soft-partner overeenkomst, meldt micro soft dat de autorisatie gids voor Online Services en het software kanaal wordt bijgewerkt; [hier](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf)vindt u een voor beeld van de bijgewerkte hand leiding. Deze update wordt van kracht 30 dagen na de datum van deze kennisgeving. Er is geen verdere actie nodig om door u te worden uitgevoerd.
+In overeenstemming met die subsectie van de onlineservices en autorisatie van softwarekanaal, onder die sectie met de naam Kennisgeving van wijzigingen, met de titel 'Wijzigingen in de handleidingen', meldt Microsoft u in uw Microsoft Partner-overeenkomst niet dat de autorisatiehandleiding voor onlineservices en softwarekanaal wordt bijgewerkt; Een voorbeeld van de bijgewerkte handleiding is [hier beschikbaar.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf) Deze update wordt 30 dagen na de datum van deze kennisgeving van kracht. u hoeft verder geen actie te ondernemen.
 
 ### <a name="next-steps"></a>Volgende stappen
 Er zijn geen acties vereist. Dit is alleen een kennisgeving.
 
 ________________
 
-## <a name="introducing-microsoft-365-business-voice-for-non-profit-organizations"></a><a name="10"></a>Introductie van Microsoft 365 Businesse stem voor non-profit organisaties
+## <a name="introducing-microsoft-365-business-voice-for-non-profit-organizations"></a><a name="10"></a>Introductie Microsoft 365 Business Voice non-profitorganisaties
 
 ### <a name="categories"></a>Categorieën
 
@@ -312,90 +312,90 @@ ________________
  
 ### <a name="summary"></a>Samenvatting 
 
-Op 1 november 2020 maakt micro soft nieuwe Sku's voor Microsoft 365 Business stem voor non-profit organisaties.
+Op 1 november 2020 introduceert Microsoft nieuwe SKU's voor Microsoft 365 Business Voice non-profitorganisaties.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Directe providers, indirecte providers en indirecte wederverkopers
+Directe providers, indirecte providers en indirecte resellers
 
 ### <a name="details"></a>Details
 
-Op 1 november 2020 introduceert micro soft nieuwe Sku's voor zakelijke Voice. De volledige suite is beschikbaar in Canada, het Verenigd Konink rijk en Verenigde Staten. Zakelijke stem (zonder abonnement) is beschikbaar in alle andere markten. 
+Op 1 november 2020 introduceert Microsoft nieuwe SKU's voor Business Voice. De volledige suite is beschikbaar in Canada, het Verenigd Koninkrijk en Verenigde Staten. Business Voice (zonder oproepplan) is beschikbaar in alle andere markten. 
 
-Microsoft 365 Business Voice is een op de cloud gebaseerd telefoon systeem voor kleine en middel grote bedrijven die zijn ingebouwd in Office 365. Het toevoegen van een zakelijke stem aan het Office 365-abonnement van een klant levert een alles-in-één oplossing voor communicatie en samen werking met aanroepen, chatten en vergaderingen in één toepassing, micro soft teams.
+Microsoft 365 Business Voice is een cloudtelefoonsysteem voor kleine en middelgrote bedrijven dat is ingebouwd in Office 365. Het toevoegen van Business Voice aan het Office 365-abonnement van een klant biedt een alles-in-een-communicatie- en samenwerkingsoplossing met oproepen, chat en vergaderingen in één toepassing, Microsoft Teams.
 
-Raadpleeg de prijs lijst voor prijs informatie.  
+Raadpleeg de prijslijst voor prijsgegevens.  
 
-Klanten in de Verenigde Staten moeten merken dat de preview-versie van de prijs lijst voor Microsoft 365 Business spraak (non-profit mede werkers prijs) onjuist is. Het partner centrum heeft in medio oktober de communicatie bijgewerkt wanneer de aanbiedings-ID beschikbaar is. De prijs is juist.
+Klanten in de Verenigde Staten moeten er rekening mee houden dat de preview-versie van de prijslijst Informatie over de aanbiedings-id voor Microsoft 365 Business Voice (non-profit personeel prijzen) onjuist is. Partner Center communicatie is halverwege oktober bijgewerkt wanneer de aanbiedings-id voor promotie beschikbaar is. De prijzen zijn juist.
 
-Microsoft 365 Business stem kan worden toegevoegd aan de volgende abonnementen voor Maxi maal 300 gebruikers: 
-- Office 365: Business Essentials, Business Premium, a1, E1, a3 en E3  
-- Microsoft 365: Business, a3 en E3
+Microsoft 365 Business Voice kunnen worden toegevoegd aan de volgende abonnementen voor maximaal 300 gebruikers: 
+- Office 365: Business Essentials, Business Premium, A1, E1, A3 en E3  
+- Microsoft 365: Business, A3 en E3
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de preview-prijs lijst en deel deze informatie met alle relevante contact personen in uw organisatie.
-- Bekijk alle gereedheids materialen op de resource galerie voor de Cloud Solution Provider (CSP)-programma updates: [introductie van Microsoft 365 Business stem voor kleine en middel grote bedrijven](https://partner.microsoft.com/resources/collection/m365-voice-smb#/).
+- Zorg dat u vertrouwd bent met de lijst met preview-prijzen en deel deze informatie met alle juiste contactpersonen in uw organisatie.
+- Bekijk alle gereedheidsmaterialen op de resourcegalerie Cloud Solution Provider (CSP) Program Updates: [Introducing Microsoft 365 Business VOICE voor kleine en middelgrote bedrijven.](https://partner.microsoft.com/resources/collection/m365-voice-smb#/)
 
 ________________
 
-## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-audio-conferencing-now-available-and-microsoft-365-business-voice-coming-on-november-1-2020"></a><a name="9"></a>De aanbieding van de Cloud Solution Provider (CSP) voor Microsoft 365 audio conferencing nu beschikbaar is en Microsoft 365 Business spraak op 1 november 2020
+## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-audio-conferencing-now-available-and-microsoft-365-business-voice-coming-on-november-1-2020"></a><a name="9"></a>Cloud Solution Provider (CSP) promo voor Microsoft 365 Audio Conferencing is nu beschikbaar en Microsoft 365 Business Voice vanaf 1 november 2020
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-10-09
 - Aanbiedingen/markten
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners communiceren via het CSP-programma
+Alle partners die het CSP-programma gebruiken
 
 ### <a name="details"></a>Details
 
-Micro soft is bezig met het starten van twee nieuwe CSP-aanbiedingen voor partners om de acceptatie van teams te stimuleren als een oplossing voor vergaderingen. Beide promoties verminderen de wrijving die samenhangt met het toevoegen van audio vergaderingen aan een Microsoft 365 licentie, waardoor klanten de volledige waarde van Microsoft 365 en teams als een bijeenkomst en aanroepende oplossing kunnen leveren.
-Van 1 oktober 2020 tot en met 31 maart 2021 kunnen klanten gedurende 12 maanden Microsoft 365 audio vergaderingen als een add-on SKU toevoegen aan een Microsoft 365-abonnement.
+Microsoft start twee nieuwe CSP-promoties voor partners om de acceptatie van Teams als een oplossing voor vergadering te stimuleren. Beide promoties verminderen frictie bij het toevoegen van audiovergaderingen aan een Microsoft 365-licentie, waardoor klanten de volledige waarde van Microsoft 365 en Teams als een oplossing voor vergaderen en aanroepen krijgen.
+Vanaf 1 oktober 2020 tot en met 31 maart 2021 kunnen klanten Microsoft 365 Audio Conferencing gratis als een invoeg-on-SKU toevoegen aan een Microsoft 365-abonnement voor 12 maanden.
 
-#### <a name="offer-details"></a>Details van aanbieding
+#### <a name="offer-details"></a>Aanbiedingsdetails
 
-   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-id**|
    |-------------------|:------|:------|
-   |Microsoft 365 promotie voor de acceptatie van audio vergaderingen|106da677-5af6-492a-ac7f-52b3b29a9762|TJ7-00023|
+   |Microsoft 365 Promotie voor acceptatie van audiovergaderingen|106da677-5af6-492a-ac7f-52b3b29a9762|TJ7-00023|
 
-Van 1 november 2020 tot en met 30 april 2021, nieuwe en vernieuwings abonnementen van Microsoft 365 Business stem met oproep plan en Microsoft 365 Business spraak zonder gespreks plan worden prijzen onderhevig aan kortingen. Voor Microsoft 365 Business spraak met een gespreks plan geldt een korting van 25 procent gedurende 12 maanden, en Microsoft 365 Business stem zonder oproep plan wordt gedurende 12 maanden onderhevig aan een korting van 33 procent.
+Van 1 november 2020 tot en met 30 april 2021 zijn er kortingsprijzen van nieuwe abonnementen en verlengingsabonnementen van Microsoft 365 Business Voice met oproepabonnement en Microsoft 365 Business Voice zonder oproepabonnement. Microsoft 365 Business Voice met een oproepplan geldt een korting van 25 procent voor 12 maanden en voor Microsoft 365 Business Voice zonder abonnement aanroepen geldt een korting van 33 procent voor 12 maanden.
 
-   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-id**|
    |-------------------|:------|:------|
-   |Aanbieding voor Microsoft 365 Business stem-acceptatie|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
-   |Aanbieding voor Microsoft 365 Business stem-acceptatie|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
-   |Aanbieding voor Microsoft 365 Business stem-acceptatie|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|PZW-00020|
-   |Promotie van de acceptatie van het Microsoft 365 Business stem (zonder oproep)|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
-   |Promotie van de acceptatie van het Microsoft 365 Business stem (zonder oproep)|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
-   |Promotie van de acceptatie van het Microsoft 365 Business stem (zonder oproep)|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
-   |Microsoft 365 Business stem (zonder abonnement) voor een promotie met Amerikaanse goed keuring|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   |Microsoft 365 Business Voice Promotie voor ingebruikname|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
+   |Microsoft 365 Business Voice Promotie voor ingebruikname|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|P PL-00019|
+   |Microsoft 365 Business Voice Promotie voor ingebruikname|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|P PL-00020|
+   |Microsoft 365 Business Voice (zonder abonnement aan te roepen) Promotie voor ingebruikname|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Microsoft 365 Business Voice (zonder abonnement aan te roepen) Promotie voor ingebruikname|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
+   |Microsoft 365 Business Voice (zonder abonnement aan te roepen) Promotie voor ingebruikname|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
+   |Microsoft 365 Business Voice (zonder abonnement aan te roepen) voor us Adoption Promo|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
    
-Deze aanbiedingen zijn van invloed op de volgende klanten:
-- Net nieuwe klant tenants
-- Bestaande tenants van klanten die geen actieve of recent geannuleerde abonnementen (binnen de afgelopen 30 dagen) hebben ontvangen voor een zakelijke Voice-of audio conferencing-licentie op CSP, Web direct of andere micro soft-commerciële kanalen
+Deze promoties zijn van invloed op de volgende klanten:
+- Net nieuwe klantten tenants
+- Bestaande tenants van klanten die geen actieve of onlangs geannuleerde abonnementen (in de afgelopen 30 dagen) hebben op een licentie voor Business Voice of Audio Conferencing op CSP, Web Direct of andere commerciële kanalen van Microsoft
 
 #### <a name="additional-resources"></a>Aanvullende bronnen
 
-- Ga naar de [pagina Microsoft 365 Business Voice-partner](https://www.microsoft.com/microsoft-365/partners/businessvoice) voor meer informatie over zakelijke Voice. 
-- Raadpleeg audio conferencing in Microsoft 365 voor meer informatie over de [mogelijkheden van audio vergaderingen](/microsoftteams/audio-conferencing-in-office-365).
-- Meer informatie over deze promoties vindt u in de [Veelgestelde vragen](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)over gerelateerde partners.
+- Ga naar [Microsoft 365 Business Voice partnerpagina voor](https://www.microsoft.com/microsoft-365/partners/businessvoice) meer informatie over Business Voice. 
+- Raadpleeg Audiovergaderingen in Microsoft 365 voor meer informatie over mogelijkheden voor [audiovergaderingen.](/microsoftteams/audio-conferencing-in-office-365)
+- Meer informatie over deze promoties vindt u in de gerelateerde [veelgestelde vragen van partners.](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- U kunt vertrouwd raken met deze vergaderingen en promotie mogelijkheden oproepen en deze gegevens delen met alle relevante contact personen in uw organisatie.
-- Neem deze aanbiedingen op in uw Microsoft 365 verkoop aanbiedingen.
-- Bespreek met klanten over de waarde van het toevoegen van zakelijke spraak of audio vergaderingen aan teams.
+- Zorg dat u vertrouwd bent met deze vergadering en het aanroepen van promotiemogelijkheden en deel deze informatie met alle juiste contactpersonen in uw organisatie.
+- Neem deze aanbiedingen op in uw Microsoft 365 verkooppromoties.
+- Meer bekendheid met klanten over de waarde van het toevoegen van Business Voice- of Audioconferencing aan Teams.
 
 ### <a name="questions"></a>Vragen?
 
-Neem contact op met uw vertegenwoordiger in het Microsoft-account team of ondersteuning voor vragen over deze aanbiedingen.
+Voor vragen over deze aanbiedingen kunt u contact opnemen met uw vertegenwoordiger in het Microsoft-account of ondersteuning.
 
 ________________
 
-## <a name="simplified-azure-apps-experience-in-azure-marketplace"></a><a name="8"></a>Vereenvoudigde Azure-apps in azure Marketplace
+## <a name="simplified-azure-apps-experience-in-azure-marketplace"></a><a name="8"></a>Vereenvoudigde ervaring voor Azure-apps in Azure Marketplace
 
 ### <a name="categories"></a>Categorieën
 
@@ -404,34 +404,34 @@ ________________
  
 ### <a name="summary"></a>Samenvatting 
 
-De Azure Portal gebruikers ervaring (UX) is onlangs gewijzigd voor alle Azure-toepassingen. Dit is een update voor Independent Software Vendors (Isv's) voor wat u kunt verwachten en de volgende stappen.
+De Azure Portal gebruikerservaring (UX) is onlangs gewijzigd voor alle Azure-toepassingen. Dit is een update voor onafhankelijke softwareleveranciers (ISV's) over wat u kunt verwachten en de volgende stappen.
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle Isv's die Azure-apps publiceren
+Alle ISV's die Azure-apps publiceren
 
 ### <a name="details"></a>Details
 
-We hebben de UX voor Azure-apps in de Azure Portal vereenvoudigd.
+We hebben de UX voor Azure-apps in de Azure Portal.
 
-U ontvangt deze e-mail omdat u Azure-toepassingen (oplossings sjablonen en beheerde apps) op Azure Marketplace hebt gepubliceerd of zich hebt geregistreerd voor publicatie.
+U ontvangt deze e-mail omdat u Azure-toepassingen (oplossingssjablonen en beheerde apps) op uw Azure Marketplace.
 
-Er zijn enkele wijzigingen aangebracht in de [Azure Portal](https://ms.portal.azure.com/) om te verbeteren hoe klanten Azure-toepassingen gebruiken en beheren. **Bekijk en werk** de documentatie en het referentie materiaal van uw klant bij om te controleren of ze de nieuwe ervaring weer spie gelen.
-Hier is what's nieuw in de Azure Portal:
+We hebben enkele wijzigingen aangebracht in de Azure Portal [om](https://ms.portal.azure.com/) de manier te verbeteren waarop klanten Azure-toepassingen gebruiken en beheren. **Bekijk en werk uw** klantdocumentatie en referentiemateriaal bij om ervoor te zorgen dat deze de nieuwe ervaring weerspiegelen.
+Dit is wat er nieuw is in de Azure Portal:
 
-- Flexibele navigatie waarmee u gegevens in een wille keurige sectie kunt weer geven, bewerken en opslaan zonder dat u de vorige sectie hoeft te volt ooien.
-- Nieuwe volledige pagina zonder meerdere geneste niveaus.
-- Nieuwe functionaliteit voor het coderen en organiseren van Azure-resources. Zie [Tags gebruiken om uw Azure-resources te organiseren](/azure/azure-resource-manager/management/tag-resources)voor meer informatie over labelen.
+- Flexibele navigatie waarmee u informatie in een sectie kunt weergeven, bewerken en opslaan zonder dat u de vorige sectie moet voltooien.
+- Nieuwe weergave van volledige pagina zonder meerdere geneste niveaus.
+- Nieuwe functionaliteit voor het taggen en organiseren van Azure-resources. Zie Tags gebruiken om Uw Azure-resources te organiseren voor meer informatie [over taggen.](/azure/azure-resource-manager/management/tag-resources)
 
-Als u vragen hebt over deze wijzigingen, neemt u contact op met ons [ondersteunings team](https://aka.ms/marketplacepublishersupport).
+Neem contact op met ons ondersteuningsteam als u vragen hebt over [deze wijzigingen.](https://aka.ms/marketplacepublishersupport)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk en werk de documentatie en het referentie materiaal van uw klant bij om te controleren of ze de nieuwe ervaring weer spie gelen.
+Bekijk en werk uw klantdocumentatie en referentiemateriaal bij om ervoor te zorgen dat deze de nieuwe ervaring weerspiegelen.
 
 ________________
 
-## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="7"></a>Micro soft teams kamers Premium SKU starten
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="7"></a>Microsoft Teams-ruimten Premium SKU starten
 
 ### <a name="categories"></a>Categorieën
 
@@ -440,63 +440,63 @@ ________________
  
 ### <a name="summary"></a>Samenvatting 
 
-Micro soft teams kamers Premium SKU voor micro soft teams via het programma Cloud Solution Provider (CSP) is beschikbaar op 1 november 2020. 
+Microsoft Teams-ruimten Premium SKU voor Microsoft Teams via het Cloud Solution Provider (CSP)-programma is beschikbaar op 1 november 2020. 
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die communiceren via het CSP-programma
+Partners die het CSP-programma gebruiken
 
 ### <a name="details"></a>Details
 
-De nieuwe micro soft teams-kamers Premium SKU voor micro soft teams-kamers is nu beschikbaar voor klanten die een CSP aanschaffen via USD50 per apparaat per product. De micro soft teams kamers Premium SKU is een alternatief voor de standaard-SKU van micro soft teams-kamers (voorheen een licentie voor Vergader ruimte genoemd). Deze SKU bevat alles in de standaard aanbieding, zoals de vereiste licenties voor micro soft teams, Skype voor bedrijven online en intune-beheer. De aanbieding biedt ook telefoon systeem, dat nodig is voor de integratie van open bare telefoonnet werk en audio vergaderingen, indien beschikbaar.
+De nieuwe Microsoft Teams-ruimten Premium-SKU voor Microsoft Teams-ruimten is nu beschikbaar voor uw klanten die CSP via u aanschaffen tegen USD 50 per apparaat per maand. De Microsoft Teams-ruimten Premium-SKU is een alternatief voor de Microsoft Teams-ruimten Standard-SKU (voorheen Vergaderruimte licentie). Deze SKU omvat alles in het Standard-aanbod, zoals de benodigde licenties voor Microsoft Teams, Skype voor Bedrijven Online en Intune-beheer. De aanbieding maakt ook Telefoonsysteem, die nodig zijn voor PSTN-integratie (Public Switched Telephone Network) en audiovergaderingen, indien beschikbaar.
 
-Met de Premium-aanbieding hebben klanten toegang tot de nieuw gepubliceerde micro soft teams-kamers beheerde services, waar experts het beheer en de activiteiten voor Vergader ruimten namens de klant afhandelen. In deze Cloud service voor IT-beheer en-bewaking blijven de apparaten van micro soft teams en hun rand apparatuur up-to-date en beveiligd, evenals proactief bewaakt en beheerd, waarbij een omgeving wordt geoptimaliseerd voor een goede ervaring in de kamer.
+Met het Premium-aanbod hebben klanten toegang tot de nieuw uitgebrachte Microsoft Teams-ruimten Managed Services, waar experts het beheer en de bewerkingen voor vergaderruimten namens de klant afhandelen. Deze cloudservice voor IT-beheer en -bewaking houdt Microsoft Teams-ruimten-apparaten en hun randapparatuur up-to-date en veilig, evenals proactief bewaakt en beheerd, en onderhoudt een omgeving die is geoptimaliseerd voor een geweldige ervaring in de ruimte.
 
-#### <a name="released-at-launch"></a>Vrijgegeven bij het starten
+#### <a name="released-at-launch"></a>Uitgebracht bij de lancering
 
-   |**Service**|**Micro soft teams kamers Standard USD15-apparaat per maand**|**Nieuwe micro soft teams-kamers Premium USD50-apparaat per maand**|
+   |**Service**|**Microsoft Teams-ruimten Standard- USD 15-apparaat per maand**|**Nieuw Microsoft Teams-ruimten Premium USD 50-apparaat per maand**|
    |-------------------|:------|:------|
    |Skype voor Bedrijven|Inbegrepen|Inbegrepen|
    |Microsoft Teams|Inbegrepen|Inbegrepen|
-   |Telefoon systeem|Inbegrepen|Inbegrepen|
-   |Audio vergaderingen|Inbegrepen|Inbegrepen|
+   |Telefoonsysteem|Inbegrepen|Inbegrepen|
+   |Audiovergaderingen|Inbegrepen|Inbegrepen|
    |Microsoft Intune|Inbegrepen|Inbegrepen|
-   |Beheerde services van micro soft teams-kamers|Niet inbegrepen|Inbegrepen|
-   |Wereld wijde Beschik baarheid|Inbegrepen|Markten selecteren|
+   |Microsoft Teams-ruimten Beheerde services|Niet inbegrepen|Inbegrepen|
+   |Wereldwijde beschikbaarheid|Inbegrepen|Selecteer Markten|
 
-#### <a name="microsoft-teams-rooms-managed-services"></a>Beheerde services van micro soft teams-kamers
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams-ruimten Beheerde services
 
-- Proactieve beheer: zakelijke (24x7x365 beheer van uw room-systemen, waaronder patches, configuratie beheer en meer.
-- Real-time controle en analyse van de hoofd oorzaak: bewaking en detectie, met door micro soft gecooerdineerde incident beheer reacties, in combi natie met de klant, indien nodig.
-- Beheerde updates: beheer en levering van toepassingen, Windows KB en firmware-updates.
-- Klanten ondersteuning: zakelijke (24x7x365-ticket ondersteuning via ons speciaal Service Operations Center met ondersteunings incidenten voor niet-geautomatiseerde aanvragen.
-- Inzichten en aanbevelingen: geaggregeerde inzichten in klanten en rapporten over de gezondheid van de kamer, het gebruik, online vergaderingen en incident trends.
+- Proactief beheer: 24x7x365 beheer van uw ruimtesystemen, waaronder patching, configuratiebeheer en meer.
+- Realtime bewaking en hoofdoorzaakanalyse: Bewaking en detectie, met een gecoördineerd reactie op incidentbeheer die door Microsoft wordt aangestuurd in coördinatie met de klant, indien nodig.
+- Beheerde updates: Beheer en levering van toepassingen, Windows KB en firmware-updates.
+- Klantondersteuning: 24x7x365-ticketondersteuning via ons speciale Service Operations Center met ondersteuning voor incidentremediatie voor niet-geautomatiseerde gevallen.
+- Insights en aanbevelingen: Geaggregeerde inzichten voor klanten en rapporten over de gezondheid van de kamer, gebruik, onlinevergaderingen en incidenttrends.
 
-#### <a name="offer-details"></a>Details van aanbieding
+#### <a name="offer-details"></a>Aanbiedingsdetails
 
-   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-id**|
    |-------------------|:------|:------|
-   |Teams kamers Premium |5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
-   |Teams kamers Premium (VS en CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
-   |Teams kamers Premium voor faculteiten|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+   |Teams-ruimten Premium |5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams-ruimten Premium (VS en CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Teams-ruimten Premium voor onderwijsmedewerkers|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
 
-Ga naar de veelgestelde [vragen (FAQ)](https://partner.microsoft.com/resources/detail/faq-microsoft-teams-rooms-premium-sku-for-microsoft-teams-pdf)om u te helpen vertrouwd te raken met de nieuwe aanbieding en de geografische Beschik baarheid.
+Ga naar de veelgestelde vragen [(FAQ)](https://partner.microsoft.com/resources/detail/faq-microsoft-teams-rooms-premium-sku-for-microsoft-teams-pdf)om vertrouwd te raken met de nieuwe aanbieding en de geografische beschikbaarheid.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Meer informatie over micro soft-kamers en gerelateerde aanbiedingen vindt u op [rooms.Microsoft.com](https://rooms.microsoft.com/). 
-- Gebruik de [partner gids teams](https://aka.ms/teamscallingmeetingsguide) om uw prak tijken te ontwikkelen met teams in Vergader ruimten en maak een verkoop klare aanbieding. 
-- Raadpleeg de [Veelgestelde vragen over micro soft teams kamers](https://aka.ms/PartnerMTRFAQ) voor meer informatie over de product oplossing en-services. 
-- Deel deze informatie met alle contact personen in uw organisatie en begrijp de verkoop kansen en cross-sell-mogelijkheden.
+- Meer informatie over Microsoft Rooms en gerelateerde aanbiedingen op [rooms.microsoft.com](https://rooms.microsoft.com/). 
+- Gebruik de [Teams partnerhandleiding](https://aka.ms/teamscallingmeetingsguide) om uw praktijk te ontwikkelen met Teams Meeting Rooms en een aanbieding te maken die gereed is voor co-verkoop. 
+- Bekijk de [Microsoft Teams-ruimten veelgestelde](https://aka.ms/PartnerMTRFAQ) vragen voor meer informatie over de productoplossing en -services. 
+- Deel deze informatie met alle juiste contactpersonen in uw organisatie en begrijp de verkoop- en cross-sellmogelijkheden.
 
 ### <a name="questions"></a>Vragen?
 
-Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen.
+Voor meer vragen over deze aanbiedingen raadpleegt u uw relevante Yammer community's.
 
 ________________
 
 
-## <a name="microsoft-calling-plans-are-now-available-in-new-markets"></a><a name="6"></a>Micro soft-aanroepen zijn nu beschikbaar in de nieuwe markten
+## <a name="microsoft-calling-plans-are-now-available-in-new-markets"></a><a name="6"></a>Microsoft-oproepplannen zijn nu beschikbaar in nieuwe markten
 
 ### <a name="categories"></a>Categorieën
 
@@ -505,54 +505,54 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Micro soft kondigt met trots aan dat micro soft oproepende abonnementen nu beschikbaar zijn in de volgende nieuwe markten: Oosten rijk, Denemarken, Italië, Portugal, Zweden en Zwitser land.
+Microsoft kondigt met trots aan dat Microsoft Calling Plans nu beschikbaar zijn in de volgende nieuwe markten: Italië, Italië, Portugal, Zwitserland en Zwitserland.
  
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Aanbieders van Cloud Solution Provider (CSP), indirecte providers en indirecte wederverkopers
+Cloud Solution Provider (CSP) directe providers, indirecte providers en indirecte resellers
 
 ### <a name="details"></a>Details
 
-Micro soft kondigt met trots aan dat vanaf 1 oktober 2020 micro soft-abonnementen nu beschikbaar zijn in de volgende nieuwe markten: Oosten rijk, Denemarken, Italië, Portugal, Zweden en Zwitser land. De nieuwe geografische Beschik baarheid werd gelanceerd in de Cloud, de wereld wijde open bare sector, non-profit organisatie en de regering van de overheid via Enterprise Agreement (EA) of Enterprise Agreement-abonnement (EAS), inschrijving voor education Solutions (EES), Web direct en CSP.
+Microsoft kondigt met trots aan dat vanaf 1 oktober 2020 Microsoft Calling Plans beschikbaar zijn in de volgende nieuwe markten: Italië, Italië, Portugal, Zwitserland en Zwitserland. De nieuwe geografische beschikbaarheid is geïntroduceerd in Commerciële, wereldwijde openbare sector, Non-profit en Government Community Cloud via Enterprise Agreement (EA) of Enterprise Agreement Subscription (EAS), Enrollment for Education Solutions (EES), Web Direct en CSP.
 
-Alle micro soft-functies voor oproep plannen zijn beschikbaar voor de nationale en internationale oproep plannen van micro soft, met inbegrip van de binnenlandse abonnementen 120, 240 en 1.200 minuten per gebruiker per maand (p/u/m), en het internationale abonnement met 1.200 aantal minuten p/u/m en 600 internationale minuten p/u/m.
+Alle functies van Microsoft Calling Plans zijn beschikbaar voor nationale en internationale oproepplannen van Microsoft, waaronder de nationale abonnementen 120, 240 en 1200 minuten per gebruiker per maand (p/u/m) nationale abonnementen en het Internationale abonnement met 1200 nationale minuten p/u/m en 600 internationale minuten p/u/m.
 
-Micro soft aanroepen is eerder beschikbaar gesteld op de volgende markten: België, Canada, Frank rijk, Duitsland, Ierland, Nederland, Puerto Rico (met Beschik baarheid van kanalen beperkt tot EA en EES), Spanje, Verenigd Konink rijk en Verenigde Staten (met Beschik baarheid van een abonnement van derden in Australië en Japan).
+Microsoft-oproepplannen werden eerder beschikbaar gesteld in de volgende markten: Canada, Frankrijk, Duitsland, Ierland, Nederland, Tokio( met alleen ea- en EES-kanaalbeschikbaarheid), Spanje, het Verenigd Koninkrijk en Verenigde Staten (met beschikbaarheid van een oproepplan van derden in Australië en Japan).
 
-#### <a name="offer-details"></a>Details van aanbieding
+#### <a name="offer-details"></a>Aanbiedingsdetails
 
-   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-id**|
    |-------------------|:------|:------|
-   |Microsoft 365 intern oproep plan|52b01454-aa44-4e03-8049-c4d57496a430|4ID-00002|
-   |Microsoft 365 intern oproep plan|0f598efe-f330-4d79-b79f-c9480bb7ce3e|AAA-13706|
-   |Microsoft 365 binnenlandse oproep plan (prijzen voor de overheid)|96b96fd8-b77d-41a4-ae5d-0a6652f454b7|AAA-13707|
-   |Microsoft 365 intern gespreks plan voor studenten|da2034e1-c147-4aae-afab-9c15acf16ea5|AAA-22335|
-   |Microsoft 365 intern gespreks plan voor faculteiten|5e8853ed-611c-4f9c-af21-540ba351a636|AAA-22334|
-   |Microsoft 365 intern gespreks plan voor GCC|7099743e-f474-48be-97bc-d4fb22f059bf|AAD-25690|
-   |Microsoft 365 intern en internationaal oproep plan|ded34535-507f-4246-8370-f9180318c537|AAA-13708|
-   |Microsoft 365 intern en internationaal oproep plan (prijzen voor de overheid)|d97b23b4-627c-41db-8f55-ce342b0db656|AAA-13709|
-   |Microsoft 365 intern en internationaal oproep plan voor studenten|64ed3fb4-9f46-4e8a-b287-7a3662245c37|AAA-22337|
-   |Microsoft 365 intern en internationaal oproep plan voor faculteiten|492b8a14-381c-4536-bf63-bd5785c14734|AAA-22336|
-   |Microsoft 365 intern en internationaal oproep plan voor GCC|0cf5df85-ecf5-43f5-93b0-04a950e906a3|AAD-25680|
-   |Microsoft 365 intern oproep plan (120 min)|40d28d55-0006-4bb0-8f41-37ac05df5dc7|AAD-11639|
-   |Microsoft 365 intern oproep plan (120 min) voor studenten|353d7f89-2e6f-4deb-9145-80f281a782ab|AAD-11641|
-   |Microsoft 365 intern oproep plan (120 min) voor faculteiten|80fc6c74-cc94-478d-97b0-8455593a5987|AAD-11640|
+   |Microsoft 365 Abonnement voor nationale oproepen|52b01454-aa44-4e03-8049-c4d57496a430|4ID-00002|
+   |Microsoft 365 Abonnement voor nationale oproepen|0f598efe-f330-4d79-b79f-c9480bb7ce3e|AAA-13706|
+   |Microsoft 365 Abonnement voor nationale oproepen (overheidsprijzen)|96b96fd8-b77d-41a4-ae5d-0a6652f454b7|AAA-13707|
+   |Microsoft 365 Plan voor nationale oproepen voor studenten|da2034e1-c147-4aae-afab-9c15acf16ea5|AAA-22335|
+   |Microsoft 365 Plan voor nationale oproepen voor onderwijsmedewerkers|5e8853ed-611c-4f9c-af21-540ba351a636|AAA-22334|
+   |Microsoft 365 Plan voor nationale oproepen voor GCC|7099743e-f474-48be-97bc-d4fb22f059bf|AAD-25690|
+   |Microsoft 365 Plan voor nationale en internationale oproepen|ded34535-507f-4246-8370-f9180318c537|AAA-13708|
+   |Microsoft 365 Abonnement voor nationale en internationale oproepen (overheidsprijzen)|d97b23b4-627c-41db-8f55-ce342b0db656|AAA-13709|
+   |Microsoft 365 Plan voor nationale en internationale oproepen voor studenten|64ed3fb4-9f46-4e8a-b287-7a3662245c37|AAA-22337|
+   |Microsoft 365 Plan voor nationale en internationale oproepen voor onderwijsmedewerkers|492b8a14-381c-4536-bf63-bd5785c14734|AAA-22336|
+   |Microsoft 365 Plan voor nationale en internationale oproepen voor GCC|0cf5df85-ecf5-43f5-93b0-04a950e906a3|AAD-25680|
+   |Microsoft 365 Abonnement voor nationale oproepen (120 min.)|40d28d55-0006-4bb0-8f41-37ac05df5dc7|AAD-11639|
+   |Microsoft 365 Plan voor nationale oproepen (120 min.) voor studenten|353d7f89-2e6f-4deb-9145-80f281a782ab|AAD-11641|
+   |Microsoft 365 Plan voor nationale oproepen (120 min.) voor onderwijsmedewerkers|80fc6c74-cc94-478d-97b0-8455593a5987|AAD-11640|
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Als u zich op een markt bevindt waarop de aanroepende abonnementen beschikbaar worden gesteld op 1 oktober 2020, deelt u dit met uw belanghebbenden 
-- Neem contact op met uw klanten in deze geografische gebieden om micro soft-oproep plannen te bespreken. 
-- Benoemt uw klant voor een micro soft-teams die workshop aanroepen 
-- Maak gebruik van de partner gids van micro soft teams voor het ontwikkelen van uw aanroepende procedure 
-- Een aanroep bereiken voor geavanceerde specialisatie van micro soft teams 
+- Als u een markt hebt waar de oproepplannen beschikbaar worden gesteld op 1 oktober 2020, deelt u deze met uw belanghebbenden 
+- In deze geografische regio's kunt u contact met uw klanten krijgen om microsoft-oproepplannen te bespreken. 
+- Uw klant oproepen voor een Microsoft Teams belworkshop 
+- Gebruik de handleiding Microsoft Teams partner voor het ontwikkelen van uw oproepoefening 
+- Een aanroepen voor geavanceerde Microsoft Teams bereiken 
 
 ### <a name="questions"></a>Vragen?
 
-Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen.
+Als u meer vragen over deze aanbiedingen hebt, controleert u uw relevante Yammer community's.
 
 ________________
 
-## <a name="promotions-for-microsoft-teams-advanced-communications-are-coming-soon"></a><a name="5"></a>Aanbiedingen voor geavanceerde communicatie van micro soft teams zijn binnenkort beschikbaar
+## <a name="promotions-for-microsoft-teams-advanced-communications-are-coming-soon"></a><a name="5"></a>Promoties voor Microsoft Teams Advanced Communications zijn binnenkort beschikbaar
 
 ### <a name="categories"></a>Categorieën
 
@@ -561,109 +561,109 @@ ________________
  
 ### <a name="summary"></a>Samenvatting
 
-Op 1 november 2020 is een nieuwe aanbiedings prijs beschikbaar voor de geavanceerde communicatie van micro soft teams. 
+Op 1 november 2020 zijn nieuwe aanbiedingsprijzen voor Microsoft Teams Advanced Communications beschikbaar. 
 
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners communiceren via het programma Cloud Solution Provider (CSP).
+Alle partners die het programma Cloud Solution Provider (CSP).
 
 ### <a name="details"></a>Details
 
-De Advanced Communications promoties SKU voor micro soft-teams is beschikbaar vanaf 1 november 2020 tegen een korting van 35%. De SKU kan vanaf 1 november 2020 tot en met 31 januari 2021 worden gekocht. 
+De Advanced Communications Promo-SKU Microsoft Teams vanaf 1 november 2020 beschikbaar met een korting van 35 procent. De SKU kan worden aangeschaft van 1 november 2020 tot en met 31 januari 2021. 
 
  
-#### <a name="offer-details"></a>Details van aanbieding
+#### <a name="offer-details"></a>Aanbiedingsdetails
 
-   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-id**|
    |-------------------|:------|:------|
-   |Geavanceerde communicatie-aanbieding|0e89eea4-5cb1-4417-9f5d-886d1ff87940|1UC-00013|
+   |Promotie voor geavanceerde communicatie|0e89eea4-5cb1-4417-9f5d-886d1ff87940|1UC-00013|
 
 #### <a name="frequently-asked-questions"></a>Veelgestelde vragen
 
-**Wat is geavanceerde communicatie?**
-Dit is een nieuwe SKU van micro soft teams, waarmee klanten hun communicatie ervaring verder kunnen verbeteren op alle Microsoft 365 of Office 365-pakketten waarop ze zijn geabonneerd.
+**Wat is Geavanceerde communicatie?**
+Dit is een nieuwe Microsoft Teams-invoeg-SKU, waarmee klanten hun communicatie-ervaring verder kunnen verbeteren boven op elke Microsoft 365 of Office 365 suite waar ze op zijn geabonneerd.
 
 **Wat kost het zonder de promotie?**
-De geschatte commerciële prijs van de winkel is $12 per gebruiker per maand.
+De commerciële geschatte detailhandelsprijs is $ 12 per gebruiker per maand.
 
-**Welke klanten kunnen geavanceerde communicatie kopen?**
-Commerciële, wereld wijde commerciële open bare sector, onderwijs en non-profit organisaties.
+**Welke klanten kunnen Advanced Communications aanschaffen?**
+Commercial, Worldwide Commercial Public Sector, Education en Non-profitorganisatie.
 
-**Via welke kanalen kunnen geavanceerde communicaties worden gekocht?**
-Enterprise Agreement (EA)/Enterprise Subscription (EAS), inschrijving voor education Solutions (EES), CSP of Web direct.
+**Via welke kanalen kan Advanced Communications worden aangeschaft?**
+Enterprise Agreement (EA)/Enterprise Subscription (EAS), Enrollment for Education Solutions (EES), CSP of Web Direct.
 
-**Welke klanten kunnen de Advanced Communications promoties SKU kopen?**
+**Welke klanten kunnen de Advanced Communications-promotie-SKU kopen?**
 Alleen commerciële klanten.
 
-**Hoe kan de Advanced Communications promoties SKU worden aangeschaft?**
+**Hoe kan de Advanced Communications promo-SKU worden aangeschaft?**
 De promotie-SKU kan worden aangeschaft via EA/EAS of CSP. 
 
-**Waar kan de verkoop worden verkocht?**
-Dit kan in alle huidige markten worden verkocht.
+**Waar kan het worden verkocht?**
+Het kan in alle huidige markten worden verkocht.
 
-**Wat zijn de vereisten voor geavanceerde communicatie?**
-Micro soft teams en alle Microsoft 365/Office 365 Suite.
+**Wat zijn de vereisten voor Advanced Communications?**
+Microsoft Teams en alle Microsoft 365/Office 365 suite.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Deel deze informatie met de relevante contact personen in uw organisatie en begrijp inzicht in de verkoop kansen voor verkopen en cross-selling.
-- Raadpleeg de sectie resources van de [partner handleiding voor teams](https://aka.ms/teamscallingmeetingsguide).
-- Meer informatie over de aanbiedingen van micro soft teams vindt u op [het blog](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) of op de [Office 365 partner Yammer-groep](https://www.yammer.com/office365partners/).
+- Deel deze informatie met de relevante contactpersonen in uw organisatie en begrijp de mogelijkheden voor upsell en cross-sell.
+- Bekijk de sectie resources van de [Teams partnerhandleiding.](https://aka.ms/teamscallingmeetingsguide)
+- U vindt meer informatie over Microsoft Teams aanbiedingen op de [blog](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) of in [Office 365 yammer-groep van de partner.](https://www.yammer.com/office365partners/)
 
 ### <a name="questions"></a>Vragen?
 
-Neem contact op met uw vertegenwoordiger in het Microsoft-account team of ondersteuning voor vragen over deze aanbiedingen.
+Neem voor vragen over deze aanbiedingen contact op met uw vertegenwoordiger in het Microsoft-account of ondersteuning.
 
 ________________
 
-## <a name="upcoming-new-offers-and-products-for-dynamics-365"></a><a name="4"></a>Aanstaande nieuwe aanbiedingen en producten voor Dynamics 365
+## <a name="upcoming-new-offers-and-products-for-dynamics-365"></a><a name="4"></a>Toekomstige nieuwe aanbiedingen en producten voor Dynamics 365
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-10-02
 - Aanbiedingen/markten
  
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-CSP-partners (Cloud Solution Provider)
+Cloud Solution Provider (CSP) partners
 
 ### <a name="details"></a>Details
 
-Op 1 november 2020 brengt micro soft de volgende nieuwe en bijgewerkte versies van het Dynamics 365-en Power-platform uit voor het CSP-programma: 
+Op 1 november 2020 brengt Microsoft de volgende nieuwe en bijgewerkte Dynamics 365- en Power Platform-aanbiedingen en -producten voor het CSP-programma uit: 
 
-- Dynamics 365 Customer Voice gebruikers abonnements licentie (GEBRUIKERSABONNEMENTSLICENTIES) 
-- Aanbiedingen in CSP uitvouwen
+- Dynamics 365 Customer Voice User Subscription License (USL) 
+- Aanbiedingen uitbreiden naar CSP
 
 ### <a name="additional-resources"></a>Aanvullende bronnen
 
-- Bekijk het tabblad project bewerkingen in het [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel-document voor details van de aanbiedings-id.
-- Meer informatie vindt u op de [Start pagina van micro soft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/).
-- Bekijk de [nieuwe aankondigings aanbieding](2020-september.md#3)van september Dynamics.
+- Bekijk het Project Bewerkingen in het document [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel details van de aanbiedings-id.
+- Meer informatie vindt u op de startpagina van [Microsoft Dynamics 365 Customer Voice.](https://dynamics.microsoft.com/customer-voice/overview/)
+- Bekijk de aankondiging van [de nieuwe aanbiedingen voor September Dynamics.](2020-september.md#3)
 
 ________________
 
-## <a name="windows-7-year-2-extended-security-updates-esu-now-available-for-cloud-solution-provider-csp-partners"></a><a name="3"></a>Windows 7 year 2 Extended Security updates (ESU) nu beschikbaar voor de Cloud Solution Provider (CSP)-partners 
+## <a name="windows-7-year-2-extended-security-updates-esu-now-available-for-cloud-solution-provider-csp-partners"></a><a name="3"></a>Windows 7 Year 2 Extended Security Updates (ESU) now available for Cloud Solution Provider (CSP) partners 
 
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-10-01
 - Aanbiedingen/markten
  
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die deel nemen aan het CSP-programma
+Alle partners die deelnemen aan het CSP-programma
 
 ### <a name="details"></a>Details
 
-Ondersteuning voor Windows 7 is beëindigd op 14 januari 2020. Hoewel veel klanten goed op hun manier gebruik kunnen maken van Windows 10, begrijpt micro soft dat iedereen zich op een ander punt in hun upgrade proces bevindt. Met de effectiefste periode van Windows 7 jaar 1 ESU, die eindigt op 12 januari 2021, weten we dat klanten het volgende jaar beginnen te plannen.  
+Ondersteuning voor Windows 7 is beëindigd op 14 januari 2020. Hoewel veel klanten goed op weg zijn naar de implementatie van Windows 10, begrijpt Microsoft dat iedereen zich op een ander punt in het upgradeproces heeft. Nu de effectieve periode van Windows ESU van 7 jaar 1 eindigt op 12 januari 2021, weten we dat klanten beginnen te plannen voor het volgende jaar.  
 
-Voor klanten die verwachten dat ze Windows 7-apparaten blijven gebruiken in 2021, is Windows 7 jaar 2 ESU (eind datum 12 januari 2022) nu beschikbaar voor CSP-partners om klanten te helpen met hun Windows 10-beslissing. Ga naar de [resource galerie](https://partner.microsoft.com/resources/collection/windows-esu-csp#/) voor meer informatie. 
+Voor klanten die verwachten Windows 7 apparaten te blijven gebruiken in 2021, is Windows 7 Year 2 ESU (einddatum 12 januari 2022) nu beschikbaar voor CSP-partners om klanten te helpen bij hun Windows 10 beslissing. Ga naar [de resourcegalerie](https://partner.microsoft.com/resources/collection/windows-esu-csp#/) voor meer informatie. 
 
 #### <a name="additional-resources"></a>Aanvullende resources
 
-- [Pagina Veelgestelde vragen over ondersteuning voor Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
-- [Windows 7-ondersteuning en-Microsoft 365-apps](/deployoffice/endofsupport/windows-7-support)
-- [Resource galerie](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Windows 7 Support FAQ page (Veelgestelde vragen over ondersteuning van Windows 7)](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 ondersteuning en Microsoft 365-apps](/deployoffice/endofsupport/windows-7-support)
+- [Resourcegalerie](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -671,10 +671,10 @@ Bekijk de resources over dit onderwerp en deel deze informatie met de juiste bel
 
 ### <a name="questions"></a>Vragen?
 
-Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen. 
+Als u meer vragen hebt over deze aanbiedingen, controleert u uw relevante Yammer community's. 
 ________________
 
-## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="2"></a>Nieuwe Sku's nemen de kracht van project cortex en meer aan klanten
+## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="2"></a>Nieuwe SKU's bieden de kracht van Project Cortex en meer voor klanten
 
 ### <a name="categories"></a>Categorieën
 
@@ -683,49 +683,49 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Met trots kondigen we de beschik baarheid van 1 oktober 2020 van nieuwe Sku's aan om klanten te helpen de kracht van [project cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) en micro soft Search te benutten.
+Met trots kondigen we de beschikbaarheid van nieuwe SKU's van 1 oktober [](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) 2020 aan om klanten te helpen de kracht van Project Cortex en Microsoft Search.
  
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die communiceren via het Cloud Solution Provider-programma
+Partners die via het Cloud Solution Provider werken
 
 ### <a name="details"></a>Details
 
-Met trots kondigen we de beschik baarheid van 1 oktober 2020 van nieuwe Sku's en waarde aan om klanten te helpen de kracht van [project cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) en micro soft Search te benutten zodat hun gebruikers efficiënter informatie kunnen vinden en beheren.  
+Met trots kondigen we de beschikbaarheid van nieuwe SKU's en waarde op 1 oktober 2020 aan om klanten te helpen de kracht van [Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) en Microsoft Search te benutten, zodat hun gebruikers informatie efficiënter kunnen vinden en beheren.  
 
-**Share point Syntex (eerder intelligente inhouds Services)**  
-Share point Syntex maakt gebruik van geavanceerde AI voor het automatiseren van de vastleg ging, het labelen en het beheren van inhoud. Het bouwt voort op share point voor de verwerking van inhoud met een hoog volume, het extra heren van meta gegevens voor proces automatisering en verfijnde beveiliging en naleving. Het maakt kennis van inschakeling en detectie beter door meer intelligente inhoud te bieden aan uw kennis netwerk. 
+**SharePoint Syntex (eerder Intelligent Content Services)**  
+SharePoint Syntex maakt gebruik van geavanceerde AI om het vastleggen, taggen en beheren van inhoud te automatiseren. Het is gebaseerd op SharePoint voor inhoudsverwerking met een hoog volume, het extraheren van metagegevens voor procesautomatisering en een goede beveiliging en naleving. Het maakt kenniscuratie- en detectie-ervaringen beter door intelligentere inhoud aan uw kennisnetwerk te leveren. 
 
-Share point Syntex Sku's is beschikbaar op de prijs lijsten van oktober 1 (de preview-versie van prijzen lijst van 1 september heeft intelligente inhouds services weer gegeven). Micro soft-licentie voorwaarden kunnen tot 1 november 2020 nog steeds verwijzen naar deze SKU onder de oude naam, intelligente inhouds Services.
+SharePoint Syntex SKU's zijn beschikbaar in de prijslijsten van 1 oktober (de preview-versie van de prijslijst van 1 september weerspiegelde Intelligent Content Services). Microsoft-licentievoorwaarden kunnen nog tot 1 november 2020 verwijzen naar deze SKU onder de oude naam Intelligent Content Services.
 
-**Microsoft Graph connectors voor micro soft Search**  
+**Microsoft Graph-connectors voor Microsoft Search**  
 
-Met Microsoft Graph-Connectors kunnen klanten items in externe opslag plaatsen indexeren voor opname in micro soft Search-resultaten. Vanaf 1 oktober 2020:
+Met Microsoft Graph-connectors kunnen klanten items indexeren in externe opslagplaatsen voor opname in Microsoft Search resultaten. Vanaf 1 oktober 2020:
 
-- Microsoft 365 E5 en Office 365 E5 bevatten de mogelijkheid om Maxi maal 500 items te indexeren met Microsoft Graph connectors voor micro soft Search (niet opgenomen in A5).  
-- Elke gebruiker met een suite of een zelfstandige licentie die een share point-of OneDrive-abonnement bevat, kan Zoek resultaten van Microsoft Graph connectors voor micro soft Search zien. 
-- Er is een nieuwe **extra capaciteits-SKU** beschikbaar voor het indexeren van maxi maal 1.000.000 extra items.
+- Microsoft 365 E5 en Office 365 E5 de mogelijkheid om maximaal 500 items te indexeren met behulp van Microsoft Graph-connectors voor Microsoft Search (niet opgenomen in A5).  
+- Elke gebruiker met een suite of zelfstandige licentie die een SharePoint- of OneDrive-abonnement bevat, kan zoekresultaten van Microsoft Graph-connectors voor Microsoft Search. 
+- Er is **een nieuwe SKU Graph extra** connectorcapaciteit beschikbaar voor het indexeren van maximaal 1 miljoen extra items.
 
-#### <a name="offer-details"></a>Details van aanbieding
+#### <a name="offer-details"></a>Aanbiedingsdetails
 
-   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-ID**|
+   |**Naam van aanbieding**|**Aanbiedings-id**|**Materiaal-id**|
    |-------------------|:------|:------|
-   |Share point-Syntex|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
-   |Share point-Syntex (prijs van het non-profit personeel)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
-   |Share point Syntex voor faculteiten|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
-   |Capaciteit van extra grafiek connector|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
-   |Extra capaciteit van Graph-connector voor faculteiten|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
+   |SharePoint Syntex|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
+   |SharePoint Syntex (non-profit personeel prijzen)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
+   |SharePoint Syntex voor onderwijsmedewerkers|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
+   |Extra Graph connectorcapaciteit|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
+   |Extra Graph connectorcapaciteit voor onderwijsmedewerkers|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de resources over dit onderwerp en deel het met de juiste belanghebbenden in uw organisatie.
+Bekijk de resources over dit onderwerp en deel deze met de juiste belanghebbenden in uw organisatie.
 
 ### <a name="questions"></a>Vragen
 
-Raadpleeg uw relevante Yammer-community's voor meer vragen over deze aanbiedingen. 
+Voor meer vragen over deze aanbiedingen raadpleegt u uw relevante Yammer community's. 
 ________________
 
-## <a name="fiscal-year-2021-fy21-cloud-solution-provider-csp-incentive-program-announcement"></a><a name="1"></a>De aankondiging van het stimulanss programma voor de Cloud Solution Provider (FY21) voor het fiscaal jaar 2021 (CSP)
+## <a name="fiscal-year-2021-fy21-cloud-solution-provider-csp-incentive-program-announcement"></a><a name="1"></a>Aankondiging van het incentive-programma boekjaar 2021 (FY21) Cloud Solution Provider (CSP)
 
 ### <a name="categories"></a>Categorieën
 
@@ -734,23 +734,23 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-De term FY21 CSP-stimulanss programma wordt gestart op 1 oktober 2020. De FY21-aanmoedigings handleidingen en wandel-dekken zijn nu beschikbaar in het partner centrum.
+De periode voor het INCENTIVE-programma fy21 CSP begint op 1 oktober 2020. De FY21 incentive-handleidingen en -stapels zijn nu beschikbaar op Partner Center.
  
-### <a name="impacted-audience"></a>Doel groep
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-CSP direct-factuur partners, indirecte providers en indirecte wederverkopers
+CSP-partners voor directe factuur, indirecte providers en indirecte resellers
 
 ### <a name="details"></a>Details
 
-De termijn voor het FY20 CSP-prestatie programma is afgelopen op 30 september 2020. De term FY21 CSP-stimulanss programma begint op 1 oktober 2020 en loopt tot en met 30 september 2021. De FY21-Program ma's voor prikkels, overzichts dia's en wandel-dekken worden nu op de [partner website](https://aka.ms/partnerincentives/)op de desbetreffende CSP-prikkel programma Asset Collections geplaatst. We moedigen partners aan om de FY21-programma-assets te downloaden en te bekijken.
+De periode voor het incentive-programma fy20 CSP is beëindigd op 30 september 2020. De term fy21 CSP Incentive-programma begint op 1 oktober 2020 en loopt tot en met 30 september 2021. De fy21-handleidingen voor het incentive-programma, overzichtsdia's en presentatie worden nu op de relevante assetverzamelingen van het CSP-incentive-programma op de [partnerwebsite geplaatst.](https://aka.ms/partnerincentives/) We raden partners aan om de assets van het FY21-programma te downloaden en te bekijken.
 
-De bijgewerkte tarieven van het FY21-programma worden van kracht op 1 oktober 2020. Partners zullen de bijbehorende maandelijkse stimulerings kosten in rekening brengen, te beginnen met de periode van 15 december 2020, betalings cyclus.
+De bijgewerkte fy21-programmatarieven zijn van kracht vanaf 1 oktober 2020. Partners zien overeenkomstige wijzigingen in hun maandelijkse incentive-betalingen vanaf de betalingscyclus van 15 december 2020.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de FY21-programma-assets en bereid u voor op updates voor prestatie tarieven voor geselecteerde producten en klant bewegingen.
+- Bekijk de assets van het FY21-programma en bereid u voor op updates voor incentive-tarieven voor bepaalde producten en klant motions.
 
 ### <a name="questions"></a>Vragen?
 
-Aanbevolen stappen en Help-artikelen voor vragen met betrekking tot prikkels zijn beschikbaar door te zoeken naar **prikkels** in de zoek balk van partner Center. 
+Aanbevolen stappen en zelfhulpartikelen voor vragen met betrekking tot incentives zijn beschikbaar door te zoeken naar **Incentives** in de zoekbalk van Partner Center. 
 ________________

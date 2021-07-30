@@ -3,18 +3,18 @@ title: Insights Rapportdashboard downloaden
 ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Meer informatie over het downloaden en exporteren van gegevens vanuit het Partner Center dashboard voor geïntegreerde rapportage en vanuit Partner Center Insights rapporten.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361965920f67b8846edce5987a63462e7ac72e71
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 18ed4e14e5e0e0855dd09e91325ed46610c3acae
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376777"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840090"
 ---
 # <a name="download-reports"></a>Rapporten downloaden
 
@@ -61,7 +61,7 @@ De volgende rapporten kunnen worden gedownload:
 
 **Microsoft Learn** informatie over de modules, voltooiingsdetails van het leertraject en gebruikersgegevens voor de partner.
 
-**Competenties: samenvatting en geschiedenis** bevat details van alle competenties die actief, in uitvoering of risico lopen voor deze partner. Bevat ook de geschiedenis van alle competenties die door de partner zijn behaald.
+**Competenties : samenvatting en geschiedenis** bevat details van alle competenties die actief, in uitvoering of risico lopen voor deze partner. Bevat ook de geschiedenis van alle competenties die door de partner zijn behaald.
 
-**Competenties: prestatiedetails** bieden gedetailleerde informatie over hoe de partner het doet met betrekking tot de Key Performance Indicators (KPI's) voor het bereiken van een bepaalde set competenties.
+**Competenties : prestatiedetails** bieden gedetailleerde informatie over hoe de partner het doet met betrekking tot de Key Performance Indicators (KPI's) voor het bereiken van een bepaalde set competenties.
 

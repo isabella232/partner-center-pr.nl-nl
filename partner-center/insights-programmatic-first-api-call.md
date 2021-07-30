@@ -3,21 +3,21 @@ title: Uw eerste API-aanroep maken voor toegang tot analysegegevens van Partner 
 description: Voorbeelden om te leren hoe u de API gebruikt voor toegang tot analysegegevens van partnerinzichten.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: d2252ccfb601ae22ce106d87fb06b67bf0927df5
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376512"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840022"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Uw eerste API-aanroep maken voor toegang tot analysegegevens van Partner Insights
 
-Zie API's voor toegang tot analytische gegevens van partnerinzichten voor een lijst met de API's voor toegang tot [analysegegevens van partnerinzichten.](insights-programmatic-analytics-available-api.md) Voordat u uw eerste API-aanroep maakt, moet u ervoor zorgen dat u aan de vereisten voor programmatische toegang tot Partner-Insights analytics-gegevens hebt voldaan. [](insights-programmatic-prerequisites.md)
+Zie API's voor toegang tot analysegegevens van partnerinzichten voor een lijst met de API's voor toegang tot [analysegegevens van partnerinzichten.](insights-programmatic-analytics-available-api.md) Voordat u uw eerste API-aanroep maakt, moet u ervoor zorgen dat u aan de vereisten voor programmatische toegang tot Partner-Insights analytics-gegevens hebt voldaan. [](insights-programmatic-prerequisites.md)
 
 ## <a name="token-generation"></a>Token genereren
 
@@ -55,7 +55,7 @@ curl --location --request POST 'https://login.microsoftonline.com/<tenantId>/oau
 }
 ```
 
-Zie Toegang tot analysegegevens met Store-services voor meer informatie over het verkrijgen van een Azure AD-token voor [uw toepassing.](/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-2-obtain-an-azure-ad-access-token)
+Zie Toegang tot analytische gegevens met Store-services voor meer informatie over het verkrijgen van een Azure AD-token voor [uw toepassing.](/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-2-obtain-an-azure-ad-access-token)
 
 ## <a name="programmatic-api-call"></a>Programmatische API-aanroep
 
@@ -164,7 +164,7 @@ curl
 
 ### <a name="step-2-create-the-custom-query"></a>Stap 2: de aangepaste query maken
 
-In deze stap gebruiken we SubscriptionId uit de DynamicsUsage-gegevensset om een aangepaste query te maken voor het gepersonaliseerde rapport. De standaardtijdsduur als deze niet is opgegeven in de query is 6 maanden.
+In deze stap gebruiken we SubscriptionId uit de DynamicsUsage-gegevensset om een aangepaste query te maken voor het rapport dat we willen. De standaardtijdsduur als deze niet is opgegeven in de query is 6 maanden.
 
 #### <a name="request-example"></a>Voorbeeld van aanvraag
 
@@ -330,7 +330,7 @@ curl
 
 Bij een geslaagde uitvoering wordt `reportId` een gegenereerd die moet worden gebruikt om een download van het rapport te plannen.
 
-### <a name="step-5-execute-report-executions-api"></a>Stap 5: API voor rapportuitvoeringen uitvoeren
+### <a name="step-5-execute-report-executions-api"></a>Stap 5: API voor het uitvoeren van rapportuitvoeringen
 
 In deze stap gebruiken we de API voor rapportuitvoeringen om de beveiligde locatie (URL) van het rapport op te halen.
 

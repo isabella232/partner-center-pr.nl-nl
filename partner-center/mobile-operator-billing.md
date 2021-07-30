@@ -1,20 +1,20 @@
 ---
 title: Facturering voor mobiele operatoren - Microsoft Store
-description: De Microsoft Store biedt Mobile Operator-facturering als betalingswijze voor mobiele operators die deze mogelijkheid ondersteunen.
+description: De Microsoft Store biedt mobile operator-facturering als betalingswijze voor mobiele operators die ondersteuning bieden voor deze mogelijkheid.
 ms.date: 04/01/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-payouts
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, mobiele operators, mobiele facturering, facturering voor mobiele operatoren
 ms.localizationpriority: medium
-ms.openlocfilehash: 70d1d05911c927832ae82a402b0c17be52e39cfa
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: b14d92038570756de594f013c4eb2c2e4615c64e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151539"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839966"
 ---
 # <a name="mobile-operator-billing"></a>Facturering van mobiele provider
 
@@ -26,18 +26,18 @@ ms.locfileid: "110151539"
 De Microsoft Store biedt facturering voor mobiele operatoren als betalingswijze voor apparaten met Windows 10, telefoons met Windows 10 Mobile en Xbox One-consoles. Als de mobiele operator van een klant deze mogelijkheid ondersteunt, kan de klant facturering voor mobiele operatoren toevoegen als betalingswijze en deze gebruiken om Store-aankopen te doen met hun mobiele account.
 
 > [!TIP]
-> Als de provider van een klant facturering voor mobiele operatoren biedt, maar de klant deze optie niet op het apparaat kan vinden, bekijkt u deze [stappen.](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)
+> Als de provider van een klant facturering voor mobiele operatoren biedt, maar de klant deze optie niet kan vinden op het apparaat, bekijkt u deze [stappen.](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)
 
-We werken regelmatig samen met mobiele operators om de beschikbaarheid van deze betalingswijze uit te breiden. Als u een mobiele operator wilt voorstellen die u hieronder niet ziet, neem dan contact op met die provider en vraag deze betalingswijze toe te voegen.
+We werken regelmatig samen met mobiele operators om de beschikbaarheid van deze betalingswijze uit te breiden. Als u een mobiele operator wilt voorstellen die niet hieronder wordt vermeld, neem dan contact op met die provider en vraag om deze betalingswijze toe te voegen.
 
-## <a name="operators-that-support-mobile-operator-billing"></a>Operators die ondersteuning bieden voor facturering van mobiele operatoren
+## <a name="operators-that-support-mobile-operator-billing"></a>Operators die ondersteuning bieden voor facturering van mobiele providers
 
-De volgende mobiele operators ondersteunen momenteel facturering voor mobiele providers.
+De volgende mobiele operators ondersteunen momenteel de facturering van mobiele providers.
 
 | Land/regio       | Mobiele operators                                        |
 |----------------------|---------------------------------------------------------|
 | Australië            | Optus                                                   |
-| Oostenrijk              | A1 Telekom, Kunnenchison 3G- Of T-Mobile/ tele.ring  |
+| Oostenrijk              | A1 Telekom, Kanchison 3G-Italië, T-Mobile / tele.ring  |
 | België              | Base, Proximus                                          |
 | Canada               | Telus                                                   |
 | Tsjechië              | T-Mobile, Vodafone, O2                                  |

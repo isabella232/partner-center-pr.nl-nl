@@ -3,18 +3,18 @@ title: Technische ondersteuning verlenen aan klanten
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-incentives
+ms.subservice: partnercenter-support
 description: Meer informatie over de typen technische ondersteuning die Cloud Solution Provider-programmapartners hun klanten kunnen bieden.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ea1fcd80f6ada97e5c0b840f11e0eb7668ee265
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: d8e4781ffa64269056c684d9ab10a29ff97dacde
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551228"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841053"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Technische ondersteuning bieden om klanten te helpen hun abonnementen te configureren, beheren en gebruiken
 
@@ -26,7 +26,7 @@ Als Cloud Solution Provider (CSP)-partner hebt u gedelegeerde beheerdersbevoegdh
 In Partner Center kunt u het volgende doen:
 
 - Service health van klantenservice weergeven
-- Service-incidenten voor klanten weergeven
+- Klantenservice-incidenten weergeven
 
 ## <a name="perform-admin-tasks-for-your-customers"></a>Beheertaken uitvoeren voor uw klanten
 
@@ -60,8 +60,8 @@ Elke onlineservice heeft specifieke en gedetailleerde vereisten voor het bieden 
 
 - [Azure-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Office 365-abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Office 365 abonnementen die worden verkocht via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Een serviceprobleem melden namens een klant, inclusief wanneer en hoe u dit doet](report-problems-on-behalf-of-a-customer.md)
+- [Een serviceprobleem melden namens een klant, inclusief wanneer en hoe dit te doen](report-problems-on-behalf-of-a-customer.md)

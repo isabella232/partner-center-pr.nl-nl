@@ -2,19 +2,19 @@
 title: Uw werkaccount koppelen voor toegang tot Partner Center
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Maak een werkaccount dat uw bedrijf koppelt aan uw Partner Center account. Hierdoor hebben werknemers in uw bedrijf toegang tot Partner Center.
 author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
-ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
-ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
+ms.openlocfilehash: 04624db5201b3a0e57b74b43678f6f2cd134c5c9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112318058"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841688"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Een werkaccount maken dat uw bedrijf koppelt aan uw Partner Center account
 
@@ -35,7 +35,7 @@ Als u meer dan één geldig zakelijk e-mailadres hebt, gebruikt u het adres dat 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Weet u niet zeker of uw bedrijf al een werkaccount heeft?
 
-Als u niet zeker weet of uw bedrijf een werkaccount heeft, volgt u deze stappen om dit te controleren. Als u een actief abonnement op Microsoft Azure of Office 365 hebt, hebt u al een werkaccount.
+Als u niet zeker weet of uw bedrijf een werkaccount heeft, volgt u deze stappen om dit te controleren. Als u een actief abonnement hebt op Microsoft Azure of Office 365, hebt u al een werkaccount.
 
 1. Meld u aan bij de [Azure-portal](https://portal.azure.com).
 
@@ -57,7 +57,7 @@ Zie Een domein toevoegen of koppelen in Azure AD voor meer informatie over het t
 
 ## <a name="about-microsoft-azure"></a>Over Microsoft Azure
 
-Microsoft Azure is een openbaar cloudplatform waarmee bedrijven toepassingen kunnen bouwen, implementeren en beheren in een wereldwijd netwerk van door Microsoft beheerde datacenters. Bedrijven gebruiken Azure om een virtuele IT-infrastructuur met virtuele functies of services te bouwen in plaats van fysieke machines.
+Microsoft Azure is een openbaar cloudplatform dat bedrijven kunnen gebruiken om toepassingen te bouwen, implementeren en beheren in een wereldwijd netwerk van door Microsoft beheerde datacenters. Bedrijven gebruiken Azure om een virtuele IT-infrastructuur met virtuele functies of services te bouwen in plaats van fysieke machines.
 
 Wanneer u een Azure-abonnement aanschaft, huurt u in feite een toegewezen, beveiligde ruimte in de openbare Azure-cloud, niet te veel van het huren van een verdieping in een kantoorgebouw voor het fysieke bedrijf van uw bedrijf. Voor de eigenaar van het kantoorgebouw is uw bedrijf een tenant.
 

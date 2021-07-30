@@ -3,18 +3,18 @@ title: Uw account voor het partnercentrum beheren
 ms.topic: conceptual
 ms.date: 03/18/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Meer informatie over het Partner Center voor het beheren van uw bedrijfsprofiel, bank- en belastinggegevens, rollen, machtigingen en meer.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d7f37e6ea8873071d432d376a3e03f7830217690
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: bce76c9c2d44d00bd41eae7012113b104bd1aa05
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434163"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841450"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Uw Partner Center beheren - bedrijfsprofiel, bankgegevens, rollen, machtigingen en meer
 
@@ -67,7 +67,7 @@ In het onderstaande voorbeeld maakt de aangemelde gebruiker deel uit van de drie
 
 ## <a name="organization-profile"></a>Organisatieprofiel
 
-Gebruik deze pagina's voor het beheren van diepgaande gebieden van uw bedrijf, waaronder het juridische bedrijfsprofiel, partnerprofiel en tenants. Beheer elk gebied afzonderlijk. Ze worden hieronder beschreven. 
+Gebruik deze pagina's voor het beheren van diepgaande gebieden van uw bedrijf, waaronder het juridische bedrijfsprofiel, partnerprofiel en tenants. Beheer elk gebied afzonderlijk. Deze worden hieronder beschreven. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu Juridische gegevens.":::
 
@@ -136,7 +136,7 @@ Om te zien tot welke programma's u toegang hebt:
 
 2. In het linkernavigatiemenu worden de programma's weergegeven die u hebt ingeschreven en worden de beschikbare opties voor elk programma weergegeven.
 
-Hier is een voorbeeld. Stel dat een gebruiker toegang heeft tot drie programma's in Partner Center dashboard: het **MPN-programma,** het **programma Verwijzingen** en het **programma Commerciële** marketplace. Wanneer ze zich aanmelden bij Partner Center dashboard, zien ze deze drie programma's aan de linkerkant van het scherm.
+Hier is een voorbeeld. Stel dat een gebruiker toegang heeft tot drie programma's in Partner Center dashboard: het **MPN-programma,** het programma **Verwijzingen** en het **programma Commerciële** marketplace. Wanneer ze zich aanmelden bij Partner Center dashboard, zien ze deze drie programma's aan de linkerkant van het scherm.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Menu Ingeschreven programma's.":::
 

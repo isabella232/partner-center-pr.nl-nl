@@ -3,28 +3,28 @@ title: Exclusieve Marketplace-aanbiedingen van ISV's
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Meer informatie over hoe onafhankelijke softwareleveranciers (ISV's) bepaalde aanbiedingen exclusief en alleen beschikbaar maken voor specifieke CSP-partners.
+ms.subservice: partnercenter-pricing
+description: Ontdek hoe Onafhankelijke softwareleveranciers (ISV's) bepaalde aanbiedingen exclusief en alleen beschikbaar maken voor specifieke CSP-partners.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 35a4e08ade5c5dcfb796535ed117e3bf1f33cabd
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7d7abd8e2eea2d22178194832ff8ec0370ab05eb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151794"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840039"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Exclusieve Marketplace-aanbiedingen van ISV's (Independent Software Vendor)
 
-**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
 
 Een onafhankelijke softwareleverancier (ISV) kan exclusieve aanbiedingen maken die alleen beschikbaar zijn voor bepaalde CSP-partners.
 
-CSP-partners kunnen alle ISV-aanbiedingen bekijken in de Partner Center commerciële marketplace. Aanbiedingen die **zijn gemarkeerd** als Exclusief, kunnen echter alleen worden aangeschaft door specifieke partners die zijn geselecteerd door de ISV. Als een aanbieding niet als Exclusief is **gemarkeerd,** kunnen alle partners deze aanschaffen.
+CSP-partners kunnen alle ISV-aanbiedingen weergeven in Partner Center commerciële marketplace. Aanbiedingen die **zijn gemarkeerd** als Exclusief, kunnen echter alleen worden gekocht door specifieke partners die zijn geselecteerd door de ISV. Als een aanbieding niet is gemarkeerd als **Exclusief,** kunnen alle partners deze aanschaffen.
 
-Specifieke CSP-partners geïdentificeerd door een ISV kunnen:
+Specifieke CSP-partners die door een ISV worden geïdentificeerd, kunnen:
 
 - Exclusieve aanbiedingen van die ISV kopen via de Partner Center commerciële marketplace
 - Prijslijst exporteren
@@ -35,7 +35,7 @@ Wanneer een ISV een aanbieding publiceert op de Marketplace, hebben ze de mogeli
 
 De opties zijn:
 
-- Alle CSP-partners kunnen kopen
+- Alle CSP-partners kunnen aankopen doen
 - Bepalen welke partners kunnen kopen
 - Niet beschikbaar voor CSP-partners
 

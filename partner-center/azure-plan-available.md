@@ -1,28 +1,28 @@
 ---
 title: Beschikbare Azure-services in Azure CSP
-description: In dit artikel worden de Azure-services besproken die wel en niet beschikbaar zijn in het Azure Cloud Solution Provider (CSP)-programma.
+description: In dit artikel worden de Azure-services besproken die wel en niet beschikbaar zijn in het programma Azure Cloud Solution Provider (CSP).
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da97dded531b6792a4468d9be9b63367f818b352
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3147836916f827e6962fb436b74d9ce1716d9f4a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149737"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841671"
 ---
-# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure-services die beschikbaar zijn in het Azure Cloud Solution Provider (CSP)-programma
+# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure-services die beschikbaar zijn in het programma Azure Cloud Solution Provider (CSP)
 
-**Juiste rollen:** beheeragent | Factureringsbeheerder | Globale beheerder | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
+**Juiste rollen:** beheeragent | Factureringsbeheerders | Globale beheerder | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
 
 ## <a name="available-azure-services-in-azure-csp"></a>Beschikbare Azure-services in Azure CSP
 
-In dit artikel worden de Azure-services vermeld die wel en niet beschikbaar zijn in het Azure Cloud Solution Provider (CSP)-programma. Ook wordt de beschikbaarheid van de service in de nationale clouds [Microsoft Azure Duitsland](https://azure.microsoft.com/overview/clouds/germany/) en [Microsoft Azure Government.](https://azure.microsoft.com/overview/clouds/government/)
+In dit artikel worden de Azure-services vermeld die wel en niet beschikbaar zijn in het programma Azure Cloud Solution Provider (CSP). Ook wordt de beschikbaarheid van de service in de nationale clouds [Microsoft Azure Duitsland](https://azure.microsoft.com/overview/clouds/germany/) en Microsoft Azure [Government besproken.](https://azure.microsoft.com/overview/clouds/government/)
 
 >[!Note]
 > [Azure China](https://www.azure.cn/) is niet beschikbaar in het Azure CSP programma.
@@ -41,11 +41,11 @@ Voor de volgende services zijn speciale configuraties in CSP vereist:
 
 - [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) Alleen gebruikers van de tenant van de klant hebben toegang tot gegevens in Time Series Insights omgeving. Partners kunnen standaard de Time Series Insights van hun klant beheren, maar als ze toegang nodig hebben tot de gegevens in de omgeving, moeten ze worden toegevoegd aan de tenant van de klant.
+- [Azure Time Series-Insights](https://azure.microsoft.com/services/time-series-insights/) Alleen gebruikers van de tenant van de klant hebben toegang tot gegevens in hun Time Series-Insights omgeving. Partners kunnen de Time Series Insights-omgeving van hun klant standaard beheren, maar als ze toegang nodig hebben tot de gegevens in de omgeving, moeten ze worden toegevoegd aan de tenant van de klant.
 
 ## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
-U kunt de onderstaande items nu aanschaffen via Visual Studio Marketplace, met uitzondering van extensies van derden.
+U kunt de onderstaande items nu kopen via Visual Studio Marketplace, met uitzondering van extensies van derden.
 
 - [Azure DevOps](https://www.visualstudio.com/team-services/)
 
@@ -61,7 +61,7 @@ Niet alle Azure Marketplace zijn momenteel beschikbaar in Azure CSP abonnementen
 
 - Op Microsoft gebaseerde Azure-services: deze services zijn beschikbaar. Bekijk de vorige tabel en opmerkingen.
 
-- BYOL-items (Bring Your Own License) : Deze items zijn beschikbaar. Een volledige lijst met BYOL-Azure Marketplace-items is beschikbaar op de [pagina Azure Marketplace BYOL.](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)
+- BYOL-items (Bring Your Own License) : deze items zijn beschikbaar. Een volledige lijst met BYOL-Azure Marketplace-items is beschikbaar op de [pagina Azure Marketplace BYOL.](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)
 
 - Artikelen van derden met betalen per Azure Marketplace: deze items zijn beschikbaar als de provider naar het CSP-kanaal heeft gepubliceerd. Zie Abonnementen verkopen voor [Azure Marketplace producten voor meer informatie.](csp-commercial-marketplace-overview.md)
 
@@ -69,7 +69,7 @@ Niet alle Azure Marketplace zijn momenteel beschikbaar in Azure CSP abonnementen
 
 ## <a name="national-clouds"></a>Nationale clouds
 
-De volgende tabel bevat een regelmatig bijgewerkte lijst met de beschikbare eigen Azure-producten, -services en -functies voor CSP in nationale clouds.
+In de volgende tabel ziet u een regelmatig bijgewerkte lijst met de beschikbare eigen Azure-producten, -services en -functies voor CSP in nationale clouds.
 
 | Azure-product, -service of -functie | Amerikaanse overheid | Duitsland |
 | ------ | :-----------: | :-----------: |

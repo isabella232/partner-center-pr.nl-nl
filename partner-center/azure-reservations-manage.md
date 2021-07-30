@@ -3,39 +3,39 @@ title: Azure-reserveringen voor klanten beheren
 description: Meer informatie over het beheren van Azure-reserveringen voor een klant, waaronder het annuleren van een reservering, het inruilen van een reservering of het aanvragen van een restitutie.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 1184b199d6235dd1d16fe981000bae44b797f76a
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 627c6f8d09a904e7d988c4229ec10eeac38dc2e9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149482"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841467"
 ---
-# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Reserveringen voor klanten beheren, annuleren, inruilen Microsoft Azure restituties
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Reserveringen voor klanten beheren, annuleren, inruilen Microsoft Azure restitutie
 
 **Juiste rollen:** beheeragent | Globale beheerders | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
 
 In dit artikel wordt uitgelegd hoe u Azure-reserveringen voor een klant beheert, waaronder hoe u een reservering annuleert, een reservering inwisselt of een restitutie aanvraagt.
 
 > [!NOTE]
-> Dit artikel is alleen van toepassing op partners in het Cloud Solution Provider (CSP)-programma. Klanten die gebruikmaken van andere typen abonnementen (zoals betalen per gebruik, afzonderlijke, Microsoft-klantovereenkomst- of Enterprise Agreement-abonnementen), moeten in plaats daarvan deze documentatie voor [Azure-reserveringen lezen.](/azure/cost-management-billing/reservations)
+> Dit artikel is alleen van toepassing op partners in het Cloud Solution Provider (CSP)-programma. Klanten die gebruikmaken van andere typen abonnementen (zoals betalen per gebruik, individueel, Microsoft-klantovereenkomst- of Enterprise Agreement-abonnementen), moeten in plaats daarvan deze documentatie voor [Azure-reserveringen lezen.](/azure/cost-management-billing/reservations)
 
 Als u de Azure-reserveringen van uw klanten na aankoop wilt beheren, selecteert u de klant en reservering die u wilt beheren in Partner Center en wijzigt u vervolgens de reservering in de Azure Portal.
 
 1. Om aan de slag **te** gaan, selecteert u Klanten in Partner Center menu en selecteert u vervolgens de klant waarvan u de reserveringen wilt beheren. 
 
-2. Selecteer in het detailpaginamenu van de klant **Azure-reserveringen** en selecteer vervolgens de specifieke reservering die u wilt beheren.  
+2. Selecteer azure-reserveringen in het menu van de detailpagina **van** de klant en selecteer vervolgens de specifieke reservering die u wilt beheren.  
 
 3. Selecteer **beheren** onder Acties **om** naar de reserveringsrecord van de klant in de Azure Portal. Volg op de pagina met reserveringsdetails de onderstaande stappen om taken uit te voeren.  
 
     | **Selecteren**   | **Aan**    |
     |:-----------------------------|:-----------------|
-    | **Overzicht**   | Bekijk details van de reservering van een klant, inclusief verloopdatum, bereik en gebruiksgegevens. **OPMERKING** Selecteer **Restitutie** om een ondersteuningsaanvraag voor een restitutie naar eigen goed tarief te maken. Selecteer **Exchange om** een ondersteuningsaanvraag te maken om het ongebruikte gedeelte van uw reserveringstermijn in te wisselen.  
+    | **Overzicht**   | Bekijk details van de reservering van een klant, inclusief verloopdatum, bereik en gebruiksgegevens. **OPMERKING** Selecteer **Restitutie** om een ondersteuningsaanvraag voor een restitutie naar eigen goed tarief te maken. Selecteer **Exchange** om een ondersteuningsaanvraag te maken om het ongebruikte gedeelte van uw reserveringstermijn in te wisselen.  
     | **Access Control (IAM)**   | Toegang tot de reserveringsgegevens van de klant beheren.|
     | **Configuratie**   | Wijzig het bereik van de reservering en/of het Azure-abonnement waar de reservering aan is gekoppeld.    |
     | **Eigenschappen**   | Bekijk de eigenschappen van de reservering en kopieer de reserverings-id en reserveringsorder-id naar het klembord. **OPMERKING** Ondersteuning kan u om de reserverings-id en reserveringsorder-id vragen wanneer u ondersteuning namens een klant aanvraagt.    |
@@ -49,17 +49,17 @@ In beide scenario's wordt het bedrag door Microsoft aan u terugbetaald, zodat u 
 
 ### <a name="how-cancellations-work"></a>Hoe annuleringen werken
 
-Klanten kunnen een aanvraag indienen om een reservering op elk moment te annuleren (restitutiebedrag van $ 50.000 per jaar). Door een reservering te annuleren, kan de klant het bedrag van de resterende maanden van een Azure-reservering retourneren tegen kosten voor vroegtijdige beëindiging. Het resterende prorated balance, minus de kosten voor vroegtijdige beëindiging, wordt gerestitueerd naar uw account, zodat u de restitutie voor het account van de klant kunt krijgen. 
+Klanten kunnen op elk moment een aanvraag indienen om een reservering te annuleren (restitutiebedrag van $ 50.000 per jaar). Door een reservering te annuleren, kan de klant het bedrag van de resterende maanden van een Azure-reservering retourneren tegen kosten voor vroegtijdige beëindiging. Het resterende prorated balance, minus de kosten voor vroegtijdige beëindiging, wordt gerestitueerd naar uw account, zodat u de restitutie voor het account van de klant kunt krijgen. 
 
 Zie hieronder voor annuleringsdetails en kosten.
 
 
 |**Annuleringsdatum**<br> (dagen)   |**Gebruik**    |**Tegoed**  |**Vroegtijdige beëindiging**<br> Vergoeding    |**Restitutielimiet** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 of minder                         | No          | 100%       | No                              | $ 50.000 USD   |
-|5 of minder                         | Yes         | Pro-rated  | No                              | $ 50.000 USD   |
-|Meer dan 5                        | No          | Pro-rated  | 12%                             | $ 50.000 USD   |
-|Meer dan 5                        | Yes         | Pro-rated  | 12%                             | $ 50.000 USD   |
+|5 of minder                         | Nee          | 100%       | Nee                              | $ 50.000 USD   |
+|5 of minder                         | Ja         | Pro beoordeeld  | Nee                              | $ 50.000 USD   |
+|Meer dan 5                        | Nee          | Pro beoordeeld  | 12%                             | $ 50.000 USD   |
+|Meer dan 5                        | Ja         | Pro beoordeeld  | 12%                             | $ 50.000 USD   |
 
 ### <a name="how-exchanges-work"></a>Hoe exchanges werken 
 

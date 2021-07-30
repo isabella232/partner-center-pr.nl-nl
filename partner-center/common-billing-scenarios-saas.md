@@ -3,18 +3,18 @@ title: 'Facturering: SaaS-transacties op basis van licenties'
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Meer informatie over algemene factureringsscenario's in Partner Center voor SaaS-transacties (software als een dienst) op basis van licenties.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 764d5a3cb0dc6f409e5272d4119424396caff53b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9568a014de926682dd89dd9d06d1c6ca5b98ac71
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148632"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840719"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Algemene factureringsscenario's voor SaaS-transacties op basis van licenties in Partner Center
 
@@ -23,11 +23,11 @@ ms.locfileid: "110148632"
 
 Deze [veelvoorkomende factureringsscenario's](common-billing-scenarios.md) zijn van toepassing op SaaS-abonnementen (Software as a Service) op basis van licenties in Partner Center.
 
-## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Een gratis saas-proefabonnement converteren naar een betaald abonnement
+## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Een gratis proefabonnement op SaaS converteren naar een betaald abonnement
 
 In dit scenario wordt de facturering voor de verlenging van een saaS-abonnement op basis van een gratis proefversie beschreven. De verlenging converteert de gratis proefversie naar een betaald abonnement aan het einde van de gratis proefperiode.
 
-In dit voorbeeld hebt u op 10 juni een gratis proefversie aangeschaft van een SaaS-abonnement op basis van licenties (software als een service). Deze gratis proefversie wordt automatisch verlengd als een betaald abonnement wanneer de gratis proefperiode eindigt.
+In dit voorbeeld hebt u op 10 juni een gratis proefversie aangeschaft van een SaaS-abonnement op basis van licenties (software als een dienst). Deze gratis proefversie wordt automatisch verlengd als een betaald abonnement wanneer de gratis proefperiode eindigt.
 
 De recon-bestanden bevatten de volgende kosten:
 
@@ -39,11 +39,11 @@ De recon-bestanden bevatten de volgende kosten:
 ## <a name="cancel-a-free-trial-saas-subscription"></a>Een gratis proefabonnement op SaaS annuleren
 
 > [!TIP]
-> U kunt een saaS-abonnement op basis van een gratis proefversie op elk moment annuleren, zelfs tijdens de gratis proefperiode.
+> U kunt een saaS-abonnement op basis van een licentie op elk moment annuleren, zelfs tijdens de gratis proefperiode.
 
-In dit scenario hebt u op 1 juli een gratis SaaS-proefabonnement op basis van licenties aangeschaft en dit abonnement vervolgens onmiddellijk geannuleerd in Partner Center.
+In dit scenario hebt u op 1 juli een gratis saaS-proefabonnement op basis van licenties aangeschaft en dit abonnement vervolgens onmiddellijk geannuleerd in Partner Center.
 
-Het reconbestand bevat de volgende kosten:
+Het recon-bestand bevat de volgende kosten:
 
 | Aankoopdatum | Begindatum van kosten | Einddatum van kosten | Eenheidsprijs | Eenheidshoeveelheid | Totaalbedrag | Kostentype | Beschrijving van het abonnement |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
@@ -52,7 +52,7 @@ Het reconbestand bevat de volgende kosten:
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>SaaS-abonnement voor aangepaste meters converteren naar een andere SKU
 
-In dit scenario wordt beschreven hoe u op dezelfde datum een SaaS-abonnement voor aangepaste meters converteert van de ene SKU (Stock Keeping Unit) naar een andere SKU voor hetzelfde product.
+In dit scenario wordt beschreven hoe u op dezelfde datum een SaaS-abonnement met een aangepaste meter converteert van de ene SKU (Stock Keeping Unit) naar een andere SKU voor hetzelfde product.
 
 In dit scenario hebt u één SKU (Silver) aangeschaft onder een product en deze op dezelfde datum geconverteerd naar een andere beschikbare SKU (Brons) onder dit product.
 

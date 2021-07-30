@@ -3,24 +3,24 @@ title: Mogelijkheden voor digitale handtekeningen
 ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Ontdek hoe Partner Center partners in India digitaal ondertekende facturen kunnen bekijken en digitale kopieën van facturen kunnen ontvangen voor orders die zijn gemaakt in Partner Center.
+ms.subservice: partnercenter-billing
+description: Meer informatie Partner Center partners in India digitaal ondertekende facturen kunnen bekijken en digitale kopieën van facturen kunnen ontvangen voor orders die zijn gemaakt in Partner Center.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: c9a910468c9f743cac848cbd9392f3ff64827cec
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147187"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840651"
 ---
 # <a name="view-digitally-signed-invoices"></a>Digitaal ondertekende facturen weergeven
 
 **Van toepassing op**: Partner Center | Partner Center India
 
-**Juiste rollen:** Accountbeheerder | Factureringsagent-| Verkoopagent
+**Juiste rollen:** Accountbeheerder | Factureringsagent | Verkoopagent
 
 Partners in India zien nu dat Microsoft digitaal ondertekende facturen heeft. U moet Adobe Acrobat Reader Document Cloud (DC) gebruiken om een handtekening weer te geven.
 
@@ -30,7 +30,7 @@ Partners in India zien nu dat Microsoft digitaal ondertekende facturen heeft. U 
 1. Als u de order hebt gemaakt in Partner Center, ontvangt u een digitale kopie van een factuur per e-mail. Selecteer de factuur die wordt geopend vanuit Adobe Acrobat Reader DC.
 
 
-2. Boven aan de factuur ziet u Ondertekend en **zijn alle handtekeningen geldig.**
+2. Boven aan de factuur ziet u Ondertekend **en zijn alle handtekeningen geldig.**
  
  :::image type="content" source="images/digitalsig/digital1.png" alt-text="Voorbeeldfactuur met een geldige banner met handtekeningmeldingen met een groen vinkje en een woordgroep met de tekst Ondertekend en alle handtekeningen zijn geldig.":::
 
@@ -48,7 +48,7 @@ Partners in India zien nu dat Microsoft digitaal ondertekende facturen heeft. U 
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Aanvullende informatie over facturen en digitale handtekeningen
 
-Een digitale kopie wordt per e-mail verzonden naar de persoon die de bestelling in de Partner Center. U kunt geen digitaal ondertekende facturen ontvangen voor facturen die zijn uitgegeven vóór 17 juli 2020. Handmatig ondertekende facturen zijn ook niet beschikbaar.
+Er wordt een digitale kopie verzonden naar de persoon die de bestelling in de Partner Center. U kunt geen digitaal ondertekende facturen ontvangen voor facturen die zijn uitgegeven vóór 17 juli 2020. Handmatig ondertekende facturen zijn ook niet beschikbaar.
 
 ## <a name="next-steps"></a>Volgende stappen
 

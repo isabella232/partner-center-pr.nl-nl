@@ -3,18 +3,18 @@ title: Informatie over registratie-id-nummer
 ms.topic: article
 ms.date: 05/10/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Ontdek wat registratie-id-nummers zijn en of ze verplicht zijn voor uw land.
 author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd68d6f446666022647f20e78e1aa6472364c426
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 2f9a00d61f0ca2b3b5726b9bc48c739361f488f2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551160"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841297"
 ---
 # <a name="registration-id-number-information"></a>Informatie over registratie-id-nummer
 
@@ -32,7 +32,7 @@ Als u een indirecte provider, directe factuurpartner of indirecte reseller bent 
 |**Brazilië** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurïdica of National Registry of Legal Entities). Deze waarde is een identificatienummer dat is uitgegeven aan Braziliaans bedrijven door het Ministerie van Federale omzet van Brazilië  |
 | **China** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – Btw-nummer |
 | **Hongarije**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – Btw-nummer |
-| **India** | Btw-nummer<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Presence Across Sturingssystemen) Pan India Betrokkenheid betekent dat er één organisatie is die op verschillende locaties in India actief is. |
+| **India** | Btw-nummer<br>[PAN–](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) (Presence Across Presence) PAN India Involvement betekent dat er één organisatie is die op verschillende locaties in India actief is. |
 | **Irak** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |
 | **Kazachstan**  | BIN – Bankidentificatienummer<br>IIN – Id-nummer van vergever |
 | **Kirgistan**  | INN – Btw-nummer |

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/05/2021
 description: Voor CSP-programmapartners leert u meer over de belastingverantwoordelijkheden per regio, het indienen van btw-vrijstellingen voor CSP-verkoop en het krijgen van ondersteuning voor belastingvragen.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93d2f4c2a1fb1f4c6de1cb8759cab0df85c3ceea
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: be90285d3bb531125f552cdce8e3dbfda39301fe
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489914"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841110"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Meer informatie over belastingen en belastingvrijstellingsgegevens per regio of land voor partners in het CSP-programma
 
@@ -33,7 +33,7 @@ Zie de informatie voor andere regio's als u zich in een ander land of een andere
 
 ### <a name="canada"></a>Canada
 
-De meeste wederverkopers zijn niet uitgesloten van btw voor goederen en diensten (GST)/verkoopbelasting (HST)/Quebec sales tax (QST). Neem contact op met uw belastingadviseur om te bepalen of u in aanmerking komt voor vrijstelling en welke documentatie u aan Microsoft moet verstrekken.
+De meeste wederverkopers zijn niet vrijgesteld van btw voor goederen en diensten (GST)/verkoopbelasting (HST)/Quebec sales tax (QST). Neem contact op met uw belastingadviseur om te bepalen of u in aanmerking komt voor vrijstelling en welke documentatie u aan Microsoft moet verstrekken.
 
 Voor een PST-vrijstelling (BC sales tax) moet u een belastingvrijstelling indienen zoals beschreven. Geef uw BC PST# of een voltooid en ondertekend certificaat *van Uitzondering Algemeen op.*
 
@@ -51,13 +51,13 @@ Als u zich in een ander land of een andere regio berekent die btw in rekening br
 
 Voor btw-ontvangsten (voor Taiwan of Korea) of VOOR DEP is doorgaans twee weken omslagtijd na het genereren van facturen vereist.
 
-## <a name="file-a-tax-exemption"></a>Een btw-vrijstelling indienen
+## <a name="file-a-tax-exemption"></a>Een belastingvrijstelling indienen
 
 Voordat u een btw-vrijstelling indient, moet u de volgende punten begrijpen:
 
 - U moet een btw-vrijstelling voor elke CSP-tenant indienen.
 
-- U moet uw belasting-id-nummer of fein (Federal Employer Identification Number) indienen. Dit nummer wordt meestal weergegeven in uw belastingcertificaat.
+- U moet uw btw-nummer of fein (Federal Employer Identification Number) indienen. Dit nummer wordt meestal weergegeven in uw belastingcertificaat.
 
 - Afhankelijk van uw land, regio of staat heeft uw btw-vrijstelling juridische richtlijnen die specifiek zijn voor de lokale afdeling btw-omzet (of vergelijkbare afdeling) en dienovereenkomstig moeten worden beheerd. Hoewel veel locaties belastingcertificaten hebben die jaarlijks worden vernieuwd, kunnen sommige locaties twee of meer jaar worden vernieuwd. U moet deze en andere gegevens controleren door uw certificaat te controleren of contact op te nemen met uw lokale btw-instantie.
 
@@ -65,7 +65,7 @@ Wanneer u klaar bent om uw belastingvrijstelling in te kunnen indienen, opent u 
 
 ## <a name="support"></a>Ondersteuning
 
-Voor vragen over btw-vrijstellingen en restituties, of andere vragen met betrekking tot belastingen, kunt u ondersteuning aanvragen in Partner Center. Geef Microsoft twee weken de tijd om contact met u op te nemen en het probleem op te lossen.
+Voor vragen over btw-uitzonderingen en restituties, of andere vragen met betrekking tot belastingen, kunt u ondersteuning aanvragen in Partner Center. Geef Microsoft twee weken de tijd om contact met u op te nemen en het probleem op te lossen.
 
 ## <a name="next-steps"></a>Volgende stappen
 
