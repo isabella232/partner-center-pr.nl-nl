@@ -6,30 +6,30 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 06/22/2021
-ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: 42e08be73fb6bd1b26e75f461ede51b1e18b909b
+ms.sourcegitcommit: b53616cd7bfeb68298dee69935a8007827b19d21
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565182"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "115014697"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace kopen
 
-Azure Marketplace bevat talloze hulpprogramma's en functies die het aankoopproces vereenvoudigen, factureren en beheren.
+Azure Marketplace beschikt over talloze hulpprogramma's en functies die het aankoopproces, facturering en het beheer van aankoopbeleid vereenvoudigen en stroomlijnen.
 
 ## <a name="simplified-procurement"></a>Vereenvoudigde aanschaf
 
 Met Azure Marketplace kunt u het aankoopproces vereenvoudigen via verschillende aankoopopties. Als u producten koopt met een creditcard die is gekoppeld aan uw Azure-account, worden alle aankopen geconsolideerd op één factuur en gefactureerd op de creditcard van uw keuze. Als u een grote klant bent, kunt u kopen met behulp van een Enterprise Agreement. Bij een EA worden software-aankopen automatisch opgenomen in uw Azure-factuur. Uw factuur bevat eerst de gebruikskosten voor Azure, gevolgd door de kosten voor Azure Marketplace.
 
-Wanneer u aankopen via Azure Marketplace, elimineert u de complexiteit van het beheren van afzonderlijke leveranciersrelaties en facturen. U krijgt één geconsolideerde maandelijkse factuur van Microsoft die zowel uw Azure Marketplace als uw Azure-kosten omvat.
+Wanneer u aanschaft via Azure Marketplace, elimineert u de complexiteit van het beheren van afzonderlijke leveranciersrelaties en facturen. U krijgt één geconsolideerde maandelijkse factuur van Microsoft die zowel uw Azure Marketplace als uw Azure-kosten omvat.
 
 ## <a name="permission-to-purchase"></a>Machtiging voor aankoop
 
-Nadat u de juiste softwaretoepassing hebt gevonden, is het eenvoudig om de aankoop te voltooien. U hebt echter geschikte machtigingen nodig binnen het Azure-abonnement. Omdat Azure werkt met een RBAC-model (Role [Based Access Control),](/azure/role-based-access-control/overview) heeft  uw account machtigingen nodig als eigenaar van het abonnement of inzendermachtigingen om een aankoop te doen. 
+Nadat u de juiste softwaretoepassing hebt gevonden, is het eenvoudig om de aankoop te voltooien. U hebt echter geschikte machtigingen nodig binnen het Azure-abonnement. Omdat Azure werkt met een op rollen gebaseerd [Access Control](/azure/role-based-access-control/overview) (RBAC), heeft  uw account abonnementseigenaar- of inzendermachtigingen nodig om een aankoop te doen. 
 
 Voordat u een aankoop voltooit, moet u ervoor zorgen dat de gebruiker de juiste configuratie heeft in de Azure-tenant. Dit helpt fouten tijdens de aankoop te voorkomen.
 
-Zoek in Azure Marketplace in de Azure Portal de toepassing die u wilt kopen  en selecteer Maken **of Instellen en abonneren.** U wordt gevraagd om wat informatie in te vullen voordat u uw nieuwe oplossing kunt gebruiken.
+Zoek in Azure Marketplace in de Azure Portal de toepassing die u wilt kopen en selecteer Maken **of** Instellen **en abonneren.** U wordt gevraagd om wat informatie in te vullen voordat u uw nieuwe oplossing kunt gebruiken.
 
 > [!CAUTION]
 > Goedkeuring in Private Marketplace duidt niet op de aanschaf van een oplossing.
@@ -42,15 +42,15 @@ Als u een oplossing wilt implementeren vanuit de Azure Marketplace  Online Store
 
 :::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Het Azure Marketplace aanmeldingsvenster.":::
 
-Nadat u zich hebt aanmelden, wordt u omgeleid naar het product in de Azure Portal uw aankoop te voltooien.
+Wanneer u zich hebt aanmelden, wordt u omgeleid naar het product in de Azure Portal uw aankoop te voltooien.
 
 ## <a name="purchase-policy-management"></a>Beheer van aankoopbeleid
 
 Met Microsoft kunt u gebruikersaankopen beheren via uw factureringsprofiel als de beheerder van het Azure-abonnement. Kies uit drie opties:
 
-- **Gratis en betaald:** hiermee kunnen gebruikers alle Azure Marketplace verkrijgen.
+- **Gratis en betaald:** hiermee kunnen gebruikers elke Azure Marketplace verkrijgen.
 - **Gratis:** hiermee kunnen gebruikers alleen gratis software van Azure Marketplace.
-- **Nee:** hiermee voorkomt u dat gebruikers software van Azure Marketplace.
+- **Nee:** hiermee voorkomt u dat gebruikers software implementeren vanuit Azure Marketplace.
 
 Deze instellingen zijn van toepassing op alle gebruikers met toegang tot uw Azure-abonnement, zodat u de IT-aanschaf kunt beheren via de Azure Portal.
 
@@ -58,15 +58,15 @@ Deze instellingen zijn van toepassing op alle gebruikers met toegang tot uw Azur
 
 ## <a name="cost-management"></a>Kostenbeheer
 
-Wanneer u producten van Azure Marketplace, wilt u inzichten krijgen die u helpen bij het beheren van kosten. Azure Cost Management is een gratis hulpprogramma voor het weergeven van informatie over de producten die u hebt aangeschaft. U kunt Cost Management om details te bekijken van de services waar u in de afgelopen tijd geld aan uit geeft en hoe deze kosten worden bij te houden ten opzichte van de budgetten die u hebt ingesteld. Naast het instellen van budgetten kunt u rapporten plannen en abonnementskosten analyseren. Meer informatie over Azure Cost Management door de module Microsoft Learn kosten analyseren en budgetten maken met [Azure Cost Management.](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)
+Wanneer u producten van Azure Marketplace, wilt u inzichten krijgen die u helpen bij het beheren van kosten. Azure Cost Management is een gratis hulpprogramma voor het weergeven van informatie over de producten die u hebt aangeschaft. U kunt Cost Management om details te bekijken van de services waar u in de afgelopen tijd geld aan uit geeft en hoe deze kosten worden bij te houden ten opzichte van de budgetten die u hebt ingesteld. Naast het instellen van budgetten kunt u rapporten plannen en abonnementskosten analyseren. Meer informatie over Azure Cost Management door de module Microsoft Learn kosten analyseren en [budgetten](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)maken met Azure Cost Management.
 
 U kunt de kosten en facturen van uw Azure Marketplace bekijken via het hulpprogramma kostenanalyse onder Azure Cost Management.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Gebruik Azure Cost Management om inzicht te krijgen in uw aangeschafte producten.":::
 
-## <a name="purchase-validation-checks"></a>Validatiecontroles voor aankopen
+## <a name="purchase-validation-checks"></a>Aankoopvalidatiecontroles
 
-Het kopen van een aanbieding Azure Marketplace kan om verschillende redenen mislukken. Het gebruik van de opdrachtregelinterface (CLI) voor een aankoop veroorzaakt waarschijnlijk meer fouten, omdat u mogelijk probeert een aanbieding aan te schaffen die niet beschikbaar of zichtbaar is in Azure Marketplace. Hieronder vindt u de controles die ertoe kunnen leiden dat een aankoop mislukt:
+Het kopen van een aanbieding via Azure Marketplace kan om verschillende redenen mislukken. Het gebruik van de opdrachtregelinterface (CLI) voor een aankoop veroorzaakt waarschijnlijk meer fouten, omdat u mogelijk probeert een aanbieding aan te schaffen die niet beschikbaar of zichtbaar is in Azure Marketplace. Hier volgen de controles die ertoe kunnen leiden dat een aankoop mislukt:
 
 1. Het abonnement behoort tot een Enterprise Agreement (EA) en de EA-beheerder heeft Azure Marketplace uitgeschakeld.
 1. De EA-beheerder heeft aankopen alleen ingeschakeld voor gratis aanbiedingen en de aanbieding is een betaalde aanbieding.
@@ -78,7 +78,8 @@ Het kopen van een aanbieding Azure Marketplace kan om verschillende redenen misl
 1. Private Marketplace is ingeschakeld voor het abonnement en de aanbieding staat niet in de lijst met toegestane aanbiedingen.
 1. De aanbieding is Privé/Preview voor specifieke klanten en het abonnement staat niet in de lijst met toegestane klanten.
 
-Het kopen van Marketplace-aanbiedingen kan mislukken als er een conflict is met Azure Policy gedefinieerd door de Azure-beheerder in uw organisatie. U kunt bijvoorbeeld Microsoft.SaaS niet aanschaffen als dit niet in de lijst met toegestane toepassingen van **uw organisatie** staat. Zie de Azure Policy [voor meer informatie.](/azure/governance/policy/)
+> [!NOTE]
+> Het kopen van Marketplace-aanbiedingen kan mislukken als er een conflict is Azure Policy gedefinieerd door de Azure-beheerder in uw organisatie. U kunt bijvoorbeeld Microsoft.SaaS niet aanschaffen als dit niet in de lijst met toegestane toepassingen van **uw organisatie** staat. Zie de Azure Policy [voor meer informatie.](/azure/governance/policy/)
 
 ## <a name="next-steps"></a>Volgende stappen
 
