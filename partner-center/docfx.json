@@ -42,6 +42,7 @@
       "ms.service": "partner-dashboard",
       "manager": "jasonh",
       "ms.localizationpriority": "medium",
+      "recommendations": true,
       "searchScope": [ "Partner Center" ],
       "_op_documentIdPathDepotMapping": {
         "./": {
@@ -50,7 +51,11 @@
         }
       },
     },
-    "fileMetadata": {},
+   "fileMetadata": {
+      "recommendations": {
+       "announcements/*.md": false 
+      }
+    },
     "template": [],
     "dest": "partner-center",
     "markdownEngineName": "markdig"
