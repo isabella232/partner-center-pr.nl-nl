@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: f74a1c091a4c5cd838f8856152c1498f3ecd9d2b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 54130356ae9388e78affb2e9ff19f54d9f55c64444981a82da1d29ff27fe4d39
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836741"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696662"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Beheer van niet-betaling, fraude of misbruik in het partnercentrum
 
@@ -68,19 +68,19 @@ U kunt de volgende aanbevelingen gebruiken om beleidsregels en procedures te ont
 Suggesties voor het verminderen van onlinerisico's bij het onboarden van nieuwe klanten zijn onder andere:
 
 - Stel waar mogelijk persoonlijke relaties met klanten tot stand (bijvoorbeeld telefonisch contact opnemen met klanten).
-- Verifieer de referenties en achtergrond van klanten via betere methoden (zoals het gebruik van kredietbureaus of commerciële rapportinstanties).
+- Controleer de referenties en achtergrond van klanten met behulp van betere methoden (zoals het gebruik van kredietbureaus of commerciële rapportinstanties).
 - Gebruik meervoudige verificatie (zoals sms-verificatie) tijdens de aanmelding om de blootstelling aan het maken en kopen van een roboticaaccount te minimaliseren.
 - Identiteiten beheren en bijhouden met behulp van services (zoals digitale identiteitsservices).
 - Evalueer de financiële sterkte van klanten via strenge systemen voor fraudedetectie van creditcards.
-- Stel een duidelijk verzamelingsbeleid op. Detail van uw verzamelingsproces en wanneer de toegang tot abonnementen wordt beïnvloed door niet-betaling. (U kunt de [](create-a-new-subscription.md#suspend-a-subscription) toegang voor niet-betaling uitschakelen of de abonnementen van een klant opschorten.)
+- Stel een duidelijk verzamelingsbeleid op. Detail van uw verzamelingsproces en wanneer de toegang tot abonnementen wordt beïnvloed door niet-betaling. (U kunt de toegang uitschakelen [of de abonnementen van een klant opschorten voor](create-a-new-subscription.md#suspend-a-subscription) niet-betaling.)
 
 ### <a name="managing-customer-accounts"></a>Klantaccounts beheren
 
 Suggesties voor het beheren van klantaccounts na aankoop zijn onder andere:
 
-- Implementeert een proces om snel Microsoft-meldingen te ontvangen, te beoordelen, te reageren en hierop te reageren.
+- Implementeert een proces om snel Meldingen van Microsoft te ontvangen, te controleren, te reageren en hierop te reageren.
 - Werk samen met klanten om inzicht te krijgen in de zakelijke behoeften van hun cloudgebruik, terwijl de juiste bewakingsdrempels worden ingesteld. (U kunt bijvoorbeeld een [maandelijks Azure-uitgavenbudget](set-an-azure-spending-budget-for-your-customers.md) instellen in Partner Center. Op basis van deze kennis kunt u het gebruik van klanten gedurende de maand bewaken en een melding ontvangen wanneer klanten dicht bij hun budget zijn.)
-- Controleer [regelmatig de activiteitenlogboeken van](activity-logs.md) klanten om fraude in een vroeg stadium te detecteren.
+- Controleer [regelmatig de activiteitenlogboeken van](activity-logs.md) klanten om fraude vroegtijdig te detecteren.
 - Neem snel actie wanneer er verdachte activiteiten worden gedetecteerd.
 - Voorkom dat klanten volledige beheerderstoegang tot abonnementen krijgen zonder eerst risicobeperkende maatregelen te implementeren.
 
@@ -89,7 +89,7 @@ Suggesties voor het beheren van klantaccounts na aankoop zijn onder andere:
 Suggesties voor het beheren van klantfacturering na aankoop zijn onder andere:
 
 - Vooruitbetaling aanvragen vóór de initiële transacties en facturering.
-- Accepteer geen betaalmiddelen met een hoog risico (zoals vooraf betaalde kaarten of opgeslagen-waardekaarten).
+- Accepteer geen betaalmiddelen met een hoog risico (zoals vooraf betaalde kaarten of opgeslagen waardekaarten).
 - Controleer de betalingen van klanten en verouderde accounts. Gestandaardiseerde dunningsprocessen voor late betalingen of niet-betaling agressief afdwingen.
 
 Zie de onlinehandleiding voor transactierisicobeheer voor gedetailleerdere strategieën voor het beperken van [onlinerisico's.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

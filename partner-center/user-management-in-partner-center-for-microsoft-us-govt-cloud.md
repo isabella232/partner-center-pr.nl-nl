@@ -1,7 +1,7 @@
 ---
 title: Gebruikers- en licentiebeheer
 titleSuffix: Microsoft Cloud for US Government - Partner Center
-description: Meer informatie over hoe en waar u Partner Center voor Microsoft Cloud for US Government partners, klanten en licenties, evenals het opnieuw instellen van wachtwoorden.
+description: Meer informatie over hoe en waar u Partner Center voor Microsoft Cloud for US Government, klanten en licenties, evenals het opnieuw instellen van wachtwoorden.
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 982095303b748639f4f0bdc893acfa0fad1e9453
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1a7658de0d616d5fb5df9fd7f22f3945292d1a4220d261dab2e8b1066cdba9b2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845650"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681161"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gebruikers- en licentiebeheer in Partner Center voor Microsoft Cloud for US Government
 
@@ -25,7 +25,7 @@ ms.locfileid: "114845650"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Gebruikers in de Azure Portal beheren voor Microsoft Cloud for US Government
 
-Als u bent aangemeld bij Partner Center voor Microsoft Cloud for US Government, kunt u de Azure Portal voor Microsoft Cloud for US Government openen zonder dat u zich opnieuw moet aanmelden. Als u zich echter rechtstreeks bij de Azure Portal voor Microsoft Cloud for US Government moet aanmelden, gaat u naar ( en meldt u zich aan met globale beheerdersreferenties voor uw https://portal.azure.us/) Azure AD-tenant voor Microsoft Cloud for US Government.
+Als u bent aangemeld bij Partner Center voor Microsoft Cloud for US Government, kunt u de Azure Portal voor Microsoft Cloud for US Government openen zonder dat u zich opnieuw moet aanmelden. Als u zich echter rechtstreeks bij de Azure Portal voor Microsoft Cloud for US Government moet aanmelden, gaat u naar en meldt u zich aan met globale beheerdersreferenties voor uw https://portal.azure.us/) Azure AD-tenant voor Microsoft Cloud for US Government.
 
 Nadat u zich hebt aangemeld bij de Azure Portal voor Microsoft Cloud for US Government, opent u de overzichtspagina van uw Azure Active Directory (Azure AD) en volgt u de instructies in deze artikelen:
 

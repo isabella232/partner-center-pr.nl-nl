@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4d4c82149638ad117d54ea9b518a68ec9ae19b2b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b373564c45c4b1792e1ec50cb8f073cf05259c3cc838519e5bc1610f7cf13b59
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841144"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678149"
 ---
-# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Een serviceprobleem melden namens een klant, inclusief wanneer en hoe u dit doet
+# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Een serviceprobleem namens een klant melden , inclusief wanneer en hoe u dit doet
 
 **Van toepassing op**: Partner Center | Partner Center voor Microsoft Cloud for US Government
 
@@ -115,7 +115,7 @@ De initiële reactietijden zijn afhankelijk van de ernst van het verzonden incid
 
 Initiële reactietijden voor **technische onderbrekingsincidenten:**
 
-- Kritieke impact (ernst A): twee uur (aanzienlijk verlies of degradatie van services. Productieservices niet meer.)
+- Kritieke impact (ernst A): twee uur (aanzienlijk verlies of degradatie van services. Productieservices zijn uit.)
 - Gemiddelde impact (ernst B): vier uur (gemiddeld verlies of degradatie van services. Productieservices die gedeeltelijk worden beïnvloed.)
 - Minimale impact (ernst C): acht uur (minimaal verlies of degradatie van services. Services die nog steeds beschikbaar zijn of niet-productieservices zijn beïnvloed.)
 

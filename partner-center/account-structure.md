@@ -3,18 +3,18 @@ title: Twee niveaus van MPN-partneraccounts
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: MPN-partners kunnen meer te weten komen over de twee niveaus van accounts in Partner Center, het Partner Global Account (PGA) en het Partner Location Account (PLA).
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 367e94410bbdfb0fb67124935f5bf6e730816c9d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d5d0df94cd89ea2c37a164c61ecea7da8bdb5e06
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839631"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101698"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center heeft twee niveaus van accounts voor MPN-partners
 

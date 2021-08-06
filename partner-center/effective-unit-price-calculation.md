@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4148e9be6ab5bd3e5a146c0ed5479d8ad9723204
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e043344b32a08db1ea5cddc333b43baab2e60aba0aabca0e554df6fa2f63f347
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837319"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679798"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Berekening van de effectieve eenheidsprijs voor azure-planverbruik
 

@@ -3,18 +3,18 @@ title: Kan niet aanmelden bij Partner Center
 ms.topic: troubleshooting
 ms.date: 04/08/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Mogelijke oorzaken oplossen en meer informatie over oplossingen voor wanneer u zich niet kunt aanmelden bij Partner Center - meer informatie over het opnieuw instellen van wachtwoorden, het controleren van rollen en het controleren van referenties.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d0a4583aa7b3ec6f51066dfa2c3dedcbcc18eb35
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d084cbf4def33074cc0ca1aae556004cf67bf555
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836639"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100143"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Aanmeldingsproblemen voor Partner Center
 
@@ -32,14 +32,14 @@ Lees Uw werk- of schoolwachtwoord opnieuw instellen met beveiligingsgegevens voo
 
 ## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>U kunt de verwachte pagina's of mogelijkheden niet weergeven of beheren in Partner Center
 
-Toegang tot pagina's in Partner Center wordt bepaald door de rollen die aan u zijn toegewezen. Als u wilt controleren aan welke rollen u bent toegewezen, selecteert u in Partner Center het pictogram Instellingen, selecteert u **Accountinstellingen** en selecteert u vervolgens gebruikersbeheer in **Accountinstellingen.** Typ in Zoeken uw naam en bekijk de resultaten.
+Toegang tot pagina's in Partner Center wordt bepaald door de rollen die aan u zijn toegewezen. Als u wilt controleren aan welke rollen u bent toegewezen, Partner Center u het pictogram Instellingen, selecteert u **Accountinstellingen** en selecteert u vervolgens in Accountinstellingen de optie **Gebruikersbeheer.** Typ in Zoeken uw naam en bekijk de resultaten.
 
 Als u de gewenste competenties, klanten, incentives of gebruikers niet kunt bekijken of beheren, kunt u de volgende oplossingen proberen:
 
 - Neem contact op met uw globale beheerder of accountbeheerder voor toegang tot de mogelijkheden van MPN, CSP en Verwijzingen. Zie Rollen toewijzen & machtigingen aan gebruikers voor meer informatie over rollen en de taken die ze inschakelen in [Partner Center.](permissions-overview.md)
 - Neem contact op met de persoon met de rol Eigenaar of Manager in uw organisatie voor toegang tot de mogelijkheden van de commerciële marketplace en de Windows & Xbox-, Office Store-, Microsoft Edge- en hardwareontwikkelaarsprogramma's. Zie How to manage a commercial marketplace account in Microsoft Partner Center (Een commerciële marketplace-account beheren in Microsoft Partner Center) voor meer informatie [over rollen en machtigingen.](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions)
 
-## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>U ziet uw aanbieding of voordelen niet in Partner Center
+## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>U kunt uw aanbieding of voordelen niet zien in Partner Center
 
 Controleer of u de juiste referenties gebruikt om u aan te melden. Uw werk- en persoonlijke accounts kunnen er bijvoorbeeld hetzelfde uitzien (zoals ), maar het ene account kan een persoonlijk account zijn dat u hebt gemaakt en een ander kan een zakelijk account zijn dat namens u abc@contoso.com is ingesteld. Als u in dit geval bent aangemeld, maar de verwachte mogelijkheden met betrekking tot MPN, CSP, Commerciële marketplace niet kunt weergeven, selecteert u uw werkaccount.
 

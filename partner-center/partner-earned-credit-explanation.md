@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6af1e55ffdd1b807c71914ba3247ecc2d189c6ad
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e897aad48dd04489e340952ba4cd4e27f7e2a9de
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839937"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101313"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hoe het verdiende tegoed van de partner wordt berekend en betaald
 
@@ -22,7 +22,7 @@ ms.locfileid: "114839937"
 
 Partner earned credit (PEC) for managed services recognizes and rewards partners who own IT operational control and management of some or all of a customers's Azure environment. 
 
-Als CSP-partner krijgt u standaard de benodigde toegangsrechten voor het abonnement van uw klant, zodat u operationeel beheer en beheer kunt uitvoeren van de resources in het abonnement. Andere manieren waarop klanten toegang voor partners kunnen inrichten, worden beschreven in de volgende sectie.
+Als CSP-partner krijgt u standaard de benodigde toegangsrechten voor het abonnement van uw klant, zodat u operationeel beheer en beheer kunt uitvoeren van de resources in het abonnement. Andere manieren waarop klanten toegang voor partners kunnen inrichten, wordt beschreven in de volgende sectie.
 
 Het maandelijkse factuurbedrag is het nettobedrag van het tegoed van de partner. U kunt de details van PEC bekijken in uw maandelijkse recon-bestand. Zie de volgende artikelen voor aanvullende manieren waarop een klant toegang kan inrichten voor de transacting partner:
 
@@ -44,7 +44,7 @@ Voor het ontvangen van partnertegoed (PEC) gelden de volgende vereisten:
     - Producten in de marketplace-prijslijst
     - [Azure Spot Virtual Machines](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-Naast de bovenstaande vereisten is PEC alleen van toepassing op services die worden vermeld in de prijzen voor azure-abonnementsverbruik. U kunt deze bekijken en exporteren op de pagina [met prijzen voor Azure-plannen.](https://partner.microsoft.com/commerce/sales)
+Naast de bovenstaande vereisten is PEC alleen van toepassing op services die worden vermeld in de prijzen voor azure-abonnementsverbruik. U kunt dit bekijken en exporteren op de pagina [met prijzen voor Azure-plannen.](https://partner.microsoft.com/commerce/sales)
 
 Zie de pagina Azure [Cost Management](/azure/cost-management-billing/costs/get-started-partners) voor meer informatie over PEC.
 
@@ -52,7 +52,7 @@ Zie Rollen en machtigingen die zijn vereist om partnertegoed te verdienen voor m
 
 ## <a name="calculation"></a>Berekening
 
-PEC wordt dagelijks berekend. U wordt betaald voor elke dag dat u voor PEC in aanmerking komt voor toegang tot elk abonnement. Hoewel PEC-gegevens niet op uw maandelijkse factuur worden weergegeven, worden de PEC-inkomsten in de aangepaste nettokostenregel in de factuur meegenomen. U vindt meer PEC-gegevens over het [dagelijkse gebruiksbestand](daily-rated-usage-recon-files.md) en in het maandelijkse factuur recon-bestand.
+PEC wordt dagelijks berekend. U wordt betaald voor elke dag dat u voor PEC in aanmerking komt voor toegang tot elk abonnement. Hoewel PEC-gegevens niet op uw maandelijkse factuur worden weergegeven, worden PEC-inkomsten in de aangepaste nettokostenregel in de factuur meegenomen. U vindt meer PEC-gegevens over het [dagelijkse gebruiksbestand](daily-rated-usage-recon-files.md) en in het maandelijkse factuur reconbestand.
 
 In de onderstaande tabel worden de PEC-elementen beschreven die zijn gevonden in het maandelijkse factuur reconbestand. Alle waarden zijn in USD, zoals wordt weergegeven in de kolom AI, PricingCurrency.
 
@@ -87,7 +87,7 @@ In de weergave Kostenanalyse worden de kosten voor uw factureringsaccount weerge
 
     Als deze waarde **True** is, hebben de bijbehorende kosten het voordeel van het partnertegoed.
 
-    Als deze waarde **False** is, voldoen de bijbehorende kosten niet aan de vereiste geschiktheid voor het tegoed, of komt de aangeschafte service niet in aanmerking voor partnertegoed.
+    Als deze waarde **Onwaar** is, voldoen de bijbehorende kosten niet aan de vereiste geschiktheid voor het tegoed of komt de aangeschafte service niet in aanmerking voor partnertegoed.
 
 >[!NOTE]
 >Normaal gesproken duurt het 8-24 uur voordat het gebruik voor services wordt weergegeven in Cost Management en het PEC-tegoed wordt binnen 48 uur na het moment van toegang in Azure Cost Management.
@@ -95,7 +95,7 @@ In de weergave Kostenanalyse worden de kosten voor uw factureringsaccount weerge
 U kunt ook groeperen op en filteren op de eigenschap **PartnerEarnedCreditApplied** met behulp van de filterfuncties **Groeperen op** **en** Toevoegen. Op deze manier kunt u inzoomen op kosten met PEC en de kosten die geen PEC hebben toegepast.
 
 ## <a name="how-is-pec-paid"></a>Hoe wordt PEC betaald?
-PEC-inkomsten worden in rekening gebracht in de aangepaste nettokostenregel binnen de factuur. Zie het maandelijkse factuurafstemmingsbestand en het bestand met dagelijks beoordeeld gebruik van Azure voor meer informatie over correcties.
+PEC-inkomsten worden in rekening gebracht op de aangepaste nettokostenregel binnen de factuur. Zie het maandelijkse factuurafstemmingsbestand en het bestand met dagelijks beoordeeld gebruik van Azure voor meer informatie over correcties.
 
 ## <a name="next-steps"></a>Volgende stappen
 

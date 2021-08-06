@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355f4917098ae6f6e383bf1a889197a725777311
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 28f08cf1b15ccc944c8980b4111c583ccda948a35412ff0edb176a2e65f308df
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844956"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678132"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Een resellerrelatie met een klant aanvragen in het Partnercentrum
 
@@ -22,7 +22,7 @@ ms.locfileid: "114844956"
 
 In dit artikel wordt beschreven hoe u een resellerrelatie met een klant in Partner Center.
 
-Directe partners of indirecte providers: als u niet meer met een klant werkt, kunt u de relatie in de Partner Center.
+Directe partners of indirecte providers: als u niet langer met een klant transacteert, kunt u de relatie in Partner Center.
 
 Het verwijderen van een relatie heeft de volgende gevolgen:
 
@@ -37,17 +37,17 @@ Als u de relatie wilt verwijderen, moet u reserveringen voor gereserveerde insta
 
 1. **Eventuele actieve abonnementen opschorten.**
 
-   1. Ga vanuit Partner Center naar **Klanten en** selecteer een klant
+   1. Ga in Partner Center naar **Klanten** en selecteer een klant
 
    2. Selecteer **onder Abonnementen** een abonnement.
 
-   3. Selecteer **Tijdelijk opgeschort**
+   3. Selecteer **Tijdelijk tijdelijk**
 
    4. Herhaal deze stappen voor elk actief abonnement.
 
 2. **Verwijder de relatie in Partner Center:**
 
-   a. Ga in Partner Center naar **Klanten** en selecteer een klant.
+   a. Ga in Partner Center naar **Klanten en** selecteer een klant.
 
    b. Selecteer het **account**.
 
@@ -58,4 +58,4 @@ Als u de relatie wilt verwijderen, moet u reserveringen voor gereserveerde insta
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Een relatie met een klant aanvragen of opnieuw tot stand stellen](request-a-relationship-with-a-customer.md)
+- [Een relatie met een klant aanvragen of opnieuw tot stand laten komen](request-a-relationship-with-a-customer.md)

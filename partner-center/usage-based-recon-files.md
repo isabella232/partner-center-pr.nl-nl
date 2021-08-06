@@ -2,19 +2,19 @@
 title: Afstemmingsbestanden op basis van gebruik
 ms.topic: article
 ms.date: 06/08/2020
-description: Meer informatie over alle items in uw op gebruik gebaseerde afstemmingsbestand in Partner Center. Bevat enkele voorbeelden.
+description: Meer informatie over alle items in uw afstemmingsbestand op basis van gebruik in Partner Center. Bevat enkele voorbeelden.
 author: sodeb
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3048bad7912f101e1c332e54eff981473f0f31d7
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f14b387649e6df8ded2e037858a7216eb361e848c8de6c8a71373d06ebe81d16
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839648"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681209"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Informatie over op gebruik gebaseerde afstemmingsbestanden en hun specifieke velden in Partner Center
 
@@ -26,29 +26,29 @@ Als u uw kosten wilt afstemmen op het gebruik van een klant, vergelijkt  u **res
 
 In de volgende velden wordt uitgelegd welke services zijn gebruikt en wat de snelheid is.
 
-| Kolom | Beschrijving | Voorbeeldwaarde(n) |
+| Kolom | Beschrijving | Voorbeeldwaarde(s) |
 | ------ | ----------- | ------------ |
 | PartnerId | Partner-id, in GUID-indeling. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Naam van de partner. | *Contoso Ltd.* |
 | PartnerBillableAccountId | Partneraccount-id. | *1010578050* |
-| CustomerCompanyName | De organisatienaam van de klant, zoals vermeld in Partner Center. *Dit is heel belangrijk voor het afstemmen van de factuur met uw systeemgegevens.* | *Testklant* |
+| CustomerCompanyName | De organisatienaam van de klant, zoals vermeld in Partner Center. *Dit is erg belangrijk voor het afstemmen van de factuur met uw systeemgegevens.* | *Testklant* |
 | MpnId | Microsoft Partner Network (MPN)-id van de Cloud Solution Provider (CSP)-partner. | *4390934* |
-| ResellerMpnId | MPN-id van de wederverkoper van record voor het abonnement.  |
+| ResellerMpnId | MPN-id van de wederverkoper van de record voor het abonnement.  |
 | InvoiceNumber | Factuurnummer waar de opgegeven transactie wordt weergegeven. | *D020001IVK* |
-| ChargeStartDate | Begindatum van factureringscyclus, behalve bij het presenteren van datums van eerder niet-berekende latente gebruiksgegevens (van de vorige factuurcyclus). De tijd is altijd het begin van de dag, 0:00. | *2/1/2019 0:00* |
-| ChargeEndDate | Einddatum van factureringscyclus, behalve bij het presenteren van datums van eerder niet-in rekening gebrachte latente gebruiksgegevens (van de vorige factuurcyclus). De tijd is altijd het einde van de dag, 23:59. | *2/28/2019 23:59* |
-| SubscriptionId | Unieke id voor een abonnement in het Microsoft-factureringsplatform. Kan handig zijn om het abonnement te identificeren wanneer u contact op met de ondersteuning opzegt. Niet gebruikt voor afstemming. *Dit is niet hetzelfde als de **abonnements-id** in de beheerconsole van de partner.* | *usCBMgAAAAAAAAIA* |
+| ChargeStartDate | Begindatum van de factureringscyclus, behalve bij het presenteren van datums van eerder niet-in rekening gebrachte latente gebruiksgegevens (van de vorige factuurcyclus). De tijd is altijd het begin van de dag, 0:00. | *2/1/2019 0:00* |
+| ChargeEndDate | Einddatum van de factureringscyclus, behalve bij het presenteren van datums van eerder niet-in rekening gebrachte latente gebruiksgegevens (van de vorige factuurcyclus). De tijd is altijd het einde van de dag, 23:59. | *2/28/2019 23:59* |
+| SubscriptionId | Unieke id voor een abonnement in het Microsoft-factureringsplatform. Kan handig zijn om het abonnement te identificeren wanneer u contact op met de ondersteuning op te nemen. Niet gebruikt voor afstemming. *Dit is niet hetzelfde als de **abonnements-id** in de beheerconsole van de partner.* | *usCBMgAAAAAAAAIA* |
 | SubscriptionName | Bijnaam voor de serviceaanbieding. | *Microsoft Azure* |
 | SubscriptionDescription | Line-Of-Business van de serviceaanbieding. | *Microsoft Azure* |
-| OrderID | Unieke id voor een bestelling in het Microsoft-factureringsplatform. Kan handig zijn om het abonnement te identificeren wanneer u contact op met de ondersteuning opzegt. Niet gebruikt voor afstemming. | *566890604832738111* |
+| OrderID | Unieke id voor een order in het Microsoft-factureringsplatform. Kan handig zijn om het abonnement te identificeren wanneer u contact op met de ondersteuning op te nemen. Niet gebruikt voor afstemming. | *566890604832738111* |
 | ServiceName | De naam van de azure-service in kwestie. | *VIRTUELE MACHINES* |
-| ServiceType | Het specifieke type Azure-service. | *Service Bus: individueel of pack,* *SQL Azure database - Business of Web Edition* |
+| ServiceType | Het specifieke type Azure-service. | *Service Bus : individueel of in een pakket*, SQL Azure database – Business of Web *Edition* |
 | ResourceGuid | Specifieke unieke id voor alle servicegegevens en prijsstructuur. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
-| ResourceName | De naam van de Azure-resource. | *Gegevensoverdracht in (GB),* *gegevensoverdracht uit (GB)* |
+| ResourceName | De naam van de Azure-resource. | *Gegevensoverdracht in (GB)*, *gegevensoverdracht uit (GB)* |
 | Region | De regio waarop het gebruik van toepassing is. Wordt voornamelijk gebruikt om tarieven toe te wijzen aan gegevensoverdrachten, omdat de tarieven per regio verschillen. | *Azië en Stille Oceaan*, *Europa*, *Latijns-Amerika*, *Noord-Amerika* |
 | Sku | Unieke Microsoft-id voor een aanbieding. | *7UD-00001* |
-| DetailLineItemId | Een id en hoeveelheid voor het itemeren van verschillende tarieven voor een service of resource in een bepaalde factureringsperiode. Voor gelaagde Azure-prijzen kan er één tarief zijn voor een bepaald aantal factureerbare eenheden en vervolgens een ander tarief na die hoeveelheid. | *1* |
-| ConsumedQuantity | De hoeveelheid service die tijdens de rapportageperiode is verbruikt (zoals uren of GB). Omvat ook niet-gebilled gebruik van eerdere rapportageperioden. | *11* |
+| DetailLineItemId | Een id en hoeveelheid voor het itemeren van verschillende tarieven voor een service of resource in een bepaalde factureringsperiode. Voor gelaagde Azure-prijzen kan er één tarief zijn voor maximaal een bepaald aantal factureerbare eenheden en vervolgens een ander tarief na die hoeveelheid. | *1* |
+| ConsumedQuantity | De hoeveelheid service die is verbruikt (zoals uren of GB) tijdens de rapportageperiode. Omvat ook niet-gebild gebruik van eerdere rapportageperioden. | *11* |
 | IncludedQuantity | Eenheden die zijn opgenomen als onderdeel van de aanbieding. Doorgaans niet aanwezig in CSP. | *0* |
 | OverageQuantity | Eenheden die niet zijn opgenomen als onderdeel van de aanbieding. Deze moeten worden betaald door de partner. Gelijk aan **ConsumedQuantity** min **IncludedQuantity**. | *11* |
 | ListPrice | Aanbiedingsprijs van kracht op de begindatum van het abonnement. | *$ 0,0808* |

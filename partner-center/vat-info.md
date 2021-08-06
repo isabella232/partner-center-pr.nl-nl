@@ -8,12 +8,12 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1fbf8ba030a6f6dd93314ef64130d75312cf36a70521d75249fd31d09e3b6416
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840753"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681107"
 ---
 # <a name="value-added-tax-vat-information"></a>Btw-gegevens (value added tax)
 
@@ -69,7 +69,7 @@ Houd er rekening mee dat Microsoft geen belastingadvies geeft en dat de volgende
 |Litouwen |- Btw-nummernotatie: 9 of 12 cijfers<br/>- Land-/regiocode: LT<br/>- Voorbeeld: 123456789 of 012345678901 |
 |Luxemburg |- Btw-nummernotatie: 8 cijfers<br/>- Land-/regiocode: LU<br/>- Voorbeeld: 12345678 |
 |Malta |- Btw-nummerindeling: 2 letters en 8 cijfers<br/>- Land-/regiocode: MT</br>-Voorbeeld: MT12345678<br/>- Opmerkingen: De eerste tekens zijn altijd 'MT'. |
-|Nederland |- Btw-nummernotatie: 11 cijfers en 1 letter<br/>- Land-/regiocode: NL<br/>- Voorbeeld: 123456789B01<br/>-Opmerkingen: Tiende teken is altijd 'B'. |
+|Nederland |- Btw-nummerindeling: 11 cijfers en 1 letter<br/>- Land-/regiocode: NL<br/>- Voorbeeld: 123456789B01<br/>-Opmerkingen: Tiende teken is altijd 'B'. |
 |Polen |- Btw-nummernotatie: 10 cijfers<br/>- Land-/regiocode: PL<br/>- Voorbeeld: 1234567890 |
 |Portugal |- Btw-nummernotatie: 9 cijfers<br/>- Land-/regiocode: PT<br/>- Voorbeeld: 123456789 |
 |Roemenië |- Btw-nummerindeling: 2 letters en 8-10 cijfers<br/>- Land-/regiocode: RO<br/>- Voorbeeld: RO12345678, RO123456789 of RO1234567890<br/>- Opmerkingen: De eerste tekens zijn altijd 'RO' |
@@ -81,4 +81,4 @@ Houd er rekening mee dat Microsoft geen belastingadvies geeft en dat de volgende
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Informatie over de belasting van het bedrijf en het toevoegen of verzenden van btw-Partner Center aankopen](organization-tax-info.md)
+- [Informatie over de belasting van het bedrijf en het toevoegen of verzenden van btw-Partner Center-aankopen](organization-tax-info.md)

@@ -3,22 +3,22 @@ title: Mijn wachtwoord opnieuw instellen
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Meer informatie over het opnieuw instellen van Partner Center wachtwoord of hulp krijgen van de globale beheerder van uw bedrijf. Meer informatie over het toevoegen van een nieuwe Partner Center globale beheerder.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c26c33947e35e83f643c6ef1c6ddf74dab460f6d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9e8c042809793da99daeb66f434e7f82405e03b0b949b5ae4481b5c4258dfb68
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844459"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678217"
 ---
 # <a name="reset-my-password"></a>Mijn wachtwoord opnieuw instellen
  
-**Juiste rollen:** Globale | Alle partners die geïnteresseerd zijn in Partner Center
+**Juiste rollen:** globale | Alle partners die geïnteresseerd zijn in Partner Center
 
 
 Als u uw wachtwoord niet meer Partner Center, kunt u het opnieuw instellen.
@@ -27,7 +27,7 @@ Als u uw wachtwoord niet meer Partner Center, kunt u het opnieuw instellen.
 
 Als u deze methode wilt gebruiken, moet uw globale beheerder al de mogelijkheid hebben ingesteld om uw wachtwoord zelf opnieuw in te stellen. (Als uw globale beheerder deze functie niet heeft uitgevoerd, vraagt u deze om uw [wachtwoord voor u opnieuw in te stellen.)](reset-a-user-password.md)
 
-1. Selecteer in **het scherm** Aanmelden de optie Hebt u geen toegang tot **uw account?** en selecteer vervolgens **Volgende.**
+1. Selecteer in **het scherm** Aanmelden de optie Geen toegang tot **uw account?** en selecteer vervolgens **Volgende.**
 
 2. Selecteer **Werk- of schoolaccount.**
 
@@ -37,7 +37,7 @@ Als u deze methode wilt gebruiken, moet uw globale beheerder al de mogelijkheid 
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Als uw globale beheerder het bedrijf heeft verlaten
 
-Als uw globale beheerder uw bedrijf heeft verlaten of is overgegaan naar een andere rol en u een nieuwe globale beheerder moet toevoegen, moet u een serviceaanvraag aanmelden op de [Microsoft Partner Network portal.](https://partner.microsoft.com/commercial#/) De ondersteuningsagent kan vragen om benodigde bevoegdheden van een gebruiker aan de globale beheerder als uw requestor de vereiste persoonlijke identiteitsgegevens kan verstrekken en aanvullende informatie over uw bedrijf kan verstrekken. 
+Als uw globale beheerder uw bedrijf heeft verlaten of is overgegaan op een andere rol en u een nieuwe globale beheerder moet toevoegen, moet u een serviceaanvraag aanmelden op de [Microsoft Partner Network portal.](https://partner.microsoft.com/commercial#/) De ondersteuningsagent kan vragen om verhoging van de bevoegdheden van een gebruiker aan de globale beheerder als uw requestor de vereiste persoonlijke identiteitsgegevens kan verstrekken en aanvullende informatie over uw bedrijf kan verstrekken. 
 
 ## <a name="next-steps"></a>Volgende stappen
 

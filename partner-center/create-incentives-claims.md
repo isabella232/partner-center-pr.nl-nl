@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Meer informatie over het initiëren van claims voor co-oping van incentives vanuit Partner Center. U kunt alle activiteit die in het gebouw van uw claim komt, bekijken in Geschiedenis.
+description: Meer informatie over het initiëren van claims voor co-oping van incentives vanuit Partner Center. U kunt alle activiteiten die in het gebouw van uw claim worden gebruikt, bekijken in Geschiedenis.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f94242bce381b9906f00671dd4ca41ca68c29fd28c80396e2e17d0130807ab71
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148156"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679834"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Een co-opclaim voor incentives maken en beheren
 
@@ -36,11 +36,11 @@ Via de pagina met details van de claim kunt u anderen in uw organisatie vragen o
 
 ### <a name="manage-your-claims"></a>Uw claims beheren
 
-U kunt alle activiteit die in het gebouw van uw claim komt, bekijken in **Geschiedenis**. Telkens als een collega een ondersteunend document of opmerkingen over iets toevoegt, wordt de actie opgeslagen in **Geschiedenis**. Totdat u de claim hebt ingediend, wordt de status **bewerkt.** De status van uw claim verandert tijdens het goedkeuringsproces. Soms ontvangt u tijdens het beoordelen van een claim feedback over een specifiek item in uw PoE-documentatie (Proof of Execution). Feedback en aanvragen voor aanvullende informatie worden ook weergegeven in de claimgeschiedenis.
+U kunt alle activiteiten die in het gebouw van uw claim worden gebruikt, bekijken in **Geschiedenis**. Telkens als een collega een ondersteunend document of opmerkingen over iets toevoegt, wordt de actie opgeslagen in **Geschiedenis**. Totdat u de claim hebt ingediend, wordt de status **bewerkt.** De status van uw claim verandert tijdens het goedkeuringsproces. Soms ontvangt u tijdens het beoordelen van een claim feedback over een specifiek item in uw PoE-documentatie (Proof of Execution). Feedback en aanvragen voor aanvullende informatie worden ook weergegeven in de claimgeschiedenis.
 
 U kunt uw claim niet bewerken nadat u deze hebt ingediend, tenzij een revisor aanvullende informatie aanvraagt.
 
-Zie partner Incentives [Co-op Guidebook (Handleiding voor co-ops van partner incentives) voor meer informatie.](https://assetsprod.microsoft.com/co-op-guidebook.pdf)
+Zie partner Incentives [Co-op Guidebook (Co-op guidebook voor partner incentives) voor meer informatie.](https://assetsprod.microsoft.com/co-op-guidebook.pdf)
 
 ## <a name="next-steps"></a>Volgende stappen
 

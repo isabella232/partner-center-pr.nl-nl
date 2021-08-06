@@ -3,18 +3,18 @@ title: Wat te doen als de enige beheerder voor uw MPN-programma het bedrijf heef
 ms.topic: how-to
 ms.date: 09/08/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Ontdek wat u moet doen om een nieuwe MPN-beheerder te vinden of hulp te krijgen van de globale beheerder van uw bedrijf. Meer informatie over het toevoegen van een nieuwe Partner Center globale beheerder.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 339f677dc095a32e5cf7e52902b23716a1343561
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 283cc274e150615d8f32da0b3e81ea01e0d86f0a
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845377"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101630"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Wat te doen als de enige beheerder voor uw MPN-programma het bedrijf heeft verlaten?
 
@@ -22,7 +22,7 @@ ms.locfileid: "114845377"
 
 In het volgende artikel worden drie typische scenario's beschreven met betrekking tot wat u moet doen als uw MPN-beheerder het bedrijf heeft verlaten.
 
-## <a name="scenario-1-mpn-partner-adminaccount-admin-has-left-the-company-but-there-are-still-global-admins-in-the-account"></a>Scenario 1: De beheerder/accountbeheerder van de MPN-partner heeft het bedrijf verlaten, maar het account heeft nog steeds globale beheerders
+## <a name="scenario-1-mpn-partner-adminaccount-admin-has-left-the-company-but-there-are-still-global-admins-in-the-account"></a>Scenario 1: De beheerder/accountbeheerder van de MPN-partner heeft het bedrijf verlaten, maar er zijn nog steeds globale beheerders in het account
 
 In dit geval kan aan een andere persoon in het bedrijf de rol van MPN-partnerbeheerder worden toegewezen. De rol van de specifieke rol van mpn-partnerbeheerder/accountbeheerder worden toegewezen:
 
@@ -40,7 +40,7 @@ Als u naar  de pagina Gebruikersbeheer gaat en filtert op Globale beheerder, maa
 
 :::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Zoek de beheerder in Azure Portal.":::
 
-4. Nadat u de aanbevolen oplossingen op de volgende pagina bekijkt, selecteert u **Volgende: Details en** vult u de benodigde velden in.
+4. Nadat u de aanbevolen oplossingen op de volgende pagina controleert, selecteert u **Volgende: Details en** vult u de benodigde velden in.
 1. Controleer en maak de ondersteuningsaanvraag.
 
 

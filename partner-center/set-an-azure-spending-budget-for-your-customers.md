@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a2085713f1fef474dd26cb66a30a37f701789859
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f8bf7c71a8309925e3a94b50b53264164df5bd82db8ae0e6a8a62a339d6eb9a9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845887"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697224"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Maandelijkse Azure-uitgavenbudgetten instellen, controleren of verwijderen voor klanten in Partner Center
 
@@ -37,7 +37,7 @@ U kunt ook [op elk moment een Azure-uitgavenbudget](#remove-azure-spending-budge
 
 ## <a name="azure-spending-data"></a>Azure-bestedingsgegevens
 
-De Azure-bestedingsgegevens zijn *een schatting* en *de werkelijke factureringsbedragen kunnen variëren.* De waarde van de gegevens *weerspiegelt geen belastingen,* tegoeden, correcties of andere kosten die van toepassing kunnen zijn.
+De Azure-bestedingsgegevens zijn *een schatting* en *de werkelijke factureringsbedragen kunnen variëren.* De waarde van de gegevens *weerspiegelt geen belastingen,* tegoeden, aanpassingen of andere kosten die van toepassing kunnen zijn.
 
 De bestedingsgegevens *worden eenmaal per dag vernieuwd.* Uw klanten kunnen Azure-services en -resources blijven gebruiken (en in rekening worden gebracht), tenzij u hun accountinstellingen wijzigt in de Azure Portal.
 
@@ -59,7 +59,7 @@ U kunt ook *een budget instellen voor een afzonderlijke klant* in de abonnements
 
 1. Meld u aan bij het dashboard van het Partnercentrum.
 
-2. Kies in het menu aan de linkerkant onder **CSP** de optie **Klanten.**
+2. Kies klanten in het menu aan de linkerkant **onder** **CSP**.
 
 3. Selecteer op **de** pagina Klanten de bedrijfsnaam van **de klant.**
 
@@ -116,13 +116,13 @@ U kunt *gespecificeerde kosten (en geschat gebruik) per service weergeven voor* 
 
 1. Meld u aan bij Partnercentrum.
 
-2. Kies in het menu aan de linkerkant onder **CSP** de optie **Klanten.**
+2. Kies klanten in het menu aan de linkerkant **onder** **CSP**.
 
 3. Selecteer op **de** pagina Klanten de bedrijfsnaam van **de klant.**
 
 4. Selecteer op de pagina **Abonnementen van de** klant onder Op gebruik gebaseerde **abonnementen** de naam van het **abonnement**.
 
-5. Op de pagina van het abonnement kunt u de gespecificeerde kosten **per** service en het **geschatte** gebruik voor de huidige maand bekijken.
+5. Op de pagina van het abonnement kunt u de gespecificeerde kosten **per** service en het geschatte gebruik voor de huidige maand bekijken. 
 
 
 ## <a name="next-steps"></a>Volgende stappen

@@ -3,18 +3,18 @@ title: Aankondigingen van januari 2020
 description: Aankondigingen van januari 2020 voor Microsoft Partner Center, zoals nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 65bebf5346a248b55314d3d4ab2401cc43b11a69
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2663e96eba7c36265a1fa7477935c6c64e73fea6
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842011"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100426"
 ---
 # <a name="january-2020-announcements"></a>Aankondigingen van januari 2020
 
@@ -24,7 +24,7 @@ Aankondigingen van 2020: januari 2020 | [Februari 2020](2020-february.md)  |  [M
 
 _________________
 
-## <a name="windows-server-and-sql-server-subscriptions-available-to-cloud-solution-provider-csp-partners-in-russia-from-february-1-2020"></a><a id="7"/></a>Windows Server- en SQL Server vanaf 1 februari 2020 beschikbaar voor Cloud Solution Provider (CSP)-partners in Rusland
+## <a name="windows-server-and-sql-server-subscriptions-available-to-cloud-solution-provider-csp-partners-in-russia-from-february-1-2020"></a><a id="7"/></a>Windows Server- SQL Server vanaf 1 februari 2020 beschikbaar voor Cloud Solution Provider (CSP)-partners in Rusland
 
 ### <a name="categories"></a>Categorieën
 
@@ -38,12 +38,12 @@ Vanaf 1 februari 2020 zijn Windows Server- en SQL Server-abonnementen beschikbaa
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle CSP-partners die worden overgedragen in Rusland
+Alle CSP-partners die werken in Rusland
 
 ### <a name="details"></a>Details
 
-Met trots kondigen we aan dat na de release van Azure-reserveringen in december 2019 Windows Server- en SQL Server-abonnementen vanaf 1 februari 2020 beschikbaar zijn voor aankoop in Rusland.
-Met Azure-reserveringen en deze serverabonnementen, waaronder Azure Hybrid Benefit, kunnen partners in het CSP-programma beter voldoen aan de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare en permanente cloudworkloads.
+Met trots kondigen we aan dat na onze release van Azure-reserveringen in december 2019 Windows Server- en SQL Server-abonnementen vanaf 1 februari 2020 beschikbaar zijn voor aankoop in Rusland.
+Met Azure-reserveringen en deze serverabonnementen, waaronder Azure Hybrid Benefit, kunnen partners in het CSP-programma beter voldoen aan de snel groeiende vraag van klanten naar rendabeler oplossingen ter ondersteuning van zeer voorspelbare en permanente cloudworkloads.
 
 Partners kunnen nu Azure-reserveringen en Windows Server- en SQL Server-abonnementen namens commerciële klanten verkrijgen, inrichten en beheren via Partner Center en de Azure Portal.
 
@@ -52,7 +52,7 @@ Partners kunnen nu Azure-reserveringen en Windows Server- en SQL Server-abonneme
 
 ### <a name="additional-resources"></a>Aanvullende bronnen
 
-- Resources voor het CSP-programma op de pagina partnergalerie: Windows Server- en [SQL Server-abonnementen die beschikbaar zijn in Rusland voor CSP-partners](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
+- CSP-programmaresources op de pagina partnergalerie: Windows Server- en [SQL Server-abonnementen die beschikbaar zijn in Rusland voor CSP-partners](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
 - [Meer informatie over Partner Center](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>Volgende stappen
@@ -65,18 +65,18 @@ Partners kunnen nu Azure-reserveringen en Windows Server- en SQL Server-abonneme
 
 _________________
 
-## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="6"/></a>Vergaderruimte- en vergaderingen-invoeging voor Microsoft 365 F1 zijn nu beschikbaar in de Government Community Cloud (GCC)
+## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="6"/></a>Vergaderruimte- en vergaderingen-invoeg-on voor Microsoft 365 F1 zijn nu beschikbaar in de Government Community Cloud (GCC)
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 29-01-2020
+- Datum: 2020-01-29
 - Type: Aanbiedingen/markten
 - Status: Nu beschikbaar
 - [Meer informatie](https://www.microsoft.com/microsoft-365/government/)
 
 ### <a name="summary"></a>Samenvatting
 
-Vanaf 7 januari 2020 heeft Microsoft Vergaderruimte- en meetings-invoeg-on voor Microsoft 365 F1 voor de GCC. Bekijk de prijslijst voor meer informatie.
+Vanaf 7 januari 2020 heeft Microsoft Vergaderruimte- en vergaderingen-invoeg-on voor Microsoft 365 F1 voor de GCC. Bekijk de prijslijst voor meer informatie.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -84,11 +84,11 @@ Alle partners die aanbiedingen GCC in het Cloud Solution Provider (CSP)-programm
 
 ### <a name="details"></a>Details
 
-Microsoft kondigt met trots aan dat zowel de Vergaderruimte- als de meetings-invoeg voor Microsoft 365 F1 vanaf 7 januari 2020 beschikbaar zijn voor de CSP GCC.
+Microsoft kondigt met trots aan dat zowel Vergaderruimte als meetings-invoeg voor Microsoft 365 F1 beschikbaar zijn voor de CSP-GCC vanaf 7 januari 2020.
 
 Met deze lancering wordt onze Teams-aanbieding voor Microsoft 365 F1 verder verbeterd. Dit is onze geavanceerde overheidssuite die de productiviteit, beveiliging en innovatie voor onze overheidsklanten verbetert.
 
-Microsoft Teams-ruimten is de native conferentieoplossing van Microsoft voor Microsoft Teams en Skype voor Bedrijven vergaderingen. Vergaderruimte en vergaderingen-invoeg-on voor Microsoft Teams-ruimten stellen de vergaderruimten en huddle-ruimten van uw GCC-klanten in staat om deel te nemen aan Teams- en Skype voor Bedrijven-vergaderingen, vergaderingen te hosten waar deelnemers kunnen inbellen voor vergaderingen en verbinding kunnen maken met telefonie via telefoonsystemen.
+Microsoft Teams-ruimten is de native conferentieoplossing van Microsoft voor Microsoft Teams en Skype voor Bedrijven vergaderingen. Met Vergaderruimte- en vergaderingen-invoeg-on voor Microsoft Teams-ruimten kunnen de vergaderruimten en huddle-ruimten van uw GCC-klanten deelnemen aan Teams- en Skype voor Bedrijven-vergaderingen, vergaderingen hosten waar deelnemers kunnen bellen om vergaderingen te voeren en verbinding kunnen maken met telefonie via telefoonsystemen.
 
 ### <a name="offer-list"></a>Aanbiedingslijst
 
@@ -97,7 +97,7 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 ### <a name="additional-resources"></a>Aanvullende bronnen
 
 - [Microsoft 365 Government-productpagina](https://www.microsoft.com/microsoft-365/government/)
-- [Teams in GCC-High pagina op Docs](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams op GCC-High pagina op Docs](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Meeting Rooms instellen in Microsoft Teams](/microsoftteams/room-systems/)
 
 ### <a name="next-steps"></a>Volgende stappen
@@ -114,7 +114,7 @@ _________________
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 28-01-2020
+- Datum: 2020-01-28
 - Type: Mogelijkheden
 - Status: Nu beschikbaar
 - [Meer informatie](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
@@ -125,42 +125,42 @@ Alle partners die onlineservices aan commerciële klanten.
 
 ### <a name="summary"></a>Samenvatting
 
-Op 14 januari 2020 heeft Microsoft mogelijkheden voor **selfserviceaankopen,** abonnementen en licentiebeheer uitgebracht voor Power BI voor commerciële cloudklanten in de Verenigde Staten. Op **28 januari 2020** zijn deze mogelijkheden beschikbaar voor Power Apps **en** **Power Automate** in de Verenigde Staten.
+Op 14 januari 2020 heeft Microsoft mogelijkheden voor **selfserviceaankopen, abonnementen** en licentiebeheer uitgebracht voor Power BI voor commerciële cloudklanten in de Verenigde Staten. Op **28 januari 2020** zijn deze  mogelijkheden beschikbaar voor Power Apps en **Power Automate** in de Verenigde Staten.
 
-Verderop in het derde kwartaal van 2012 maken we selfserviceaankopen voor Power Platform beschikbaar voor commerciële klanten in verschillende andere landen. Wanneer we deze landen vrijgeven, werken we de documentatie met veelgestelde vragen van de klant bij om de beschikbaarheid ervan weer te geven. De veelgestelde vragen van de klant zijn opgenomen in de gereedheidsbronnen die hieronder worden vermeld. Zorg ervoor dat u dit in de komende maanden vaak controleert.
+Verderop in het derde kwartaal van 2012 maken we selfserviceaankopen voor Power Platform beschikbaar voor commerciële klanten in verschillende andere landen. Wanneer we releasen voor deze landen, werken we de documentatie met veelgestelde vragen van de klant bij om de beschikbaarheid ervan weer te geven. De veelgestelde vragen van de klant zijn opgenomen in de gereedheidsbronnen die hieronder worden vermeld. Zorg ervoor dat u dit in de komende maanden regelmatig controleert.
 
-Bekijk alle resources in de resourcegalerie (zie Aanvullende resources hieronder) voor meer informatie over aankopen via selfservice, inclusief instructies voor het implementeren van PowerShell als klanten zich willen af-van-self-service-aankopen.
+Bekijk alle resources in de resourcegalerie (zie Aanvullende resources hieronder) voor meer informatie over aankopen via selfservice, inclusief instructies voor het implementeren van PowerShell als klanten zich willen af-van-self-service aankopen.
 
 Het **PowerShell-script** waarmee IT-beheerders de mogelijkheid hebben om de selfserviceaankoopfunctie per product te beheren (in- of uitschakelen) is **nu beschikbaar.** Zie de sectie Aanvullende bronnen hieronder voor technische documentatie.
 
-UPDATE: In de afgelopen week hebben we geluisterd naar uw feedback over de implementatie van onze selfservice-aankoopmogelijkheden voor Power Platform producten. Bedankt voor degenen die uw invoer hebben verstrekt. Op basis van uw feedback hebben we onze benadering aangepast om beter te voldoen aan de behoeften van zowel IT-beheerders als eindgebruikers binnen organisaties. We brengen de volgende wijzigingen aan in ons plan:
+UPDATE: In de afgelopen week hebben we naar uw feedback geluisterd met betrekking tot de implementatie van onze selfserviceaankoopmogelijkheden voor Power Platform producten. Bedankt voor degenen die uw invoer hebben verstrekt. Op basis van uw feedback hebben we onze benadering aangepast om beter te voldoen aan de behoeften van zowel IT-beheerders als eindgebruikers binnen organisaties. We brengen de volgende wijzigingen aan in ons plan:
 
-- Op 19 november bieden we IT-beheerders een manier om aankopen via self-service per product via PowerShell uit te schakelen. Meer details zullen binnenkort worden verwacht.
-- Om meer tijd te bieden om ons voor te bereiden op deze wijziging, werken we de lancering voor selfserviceaankoopmogelijkheden voor Power Platform-producten bij, om te beginnen met Power BI op 14 januari voor alle klanten van de commerciële cloud. Meer informatie over Power Apps en Power Automate komen binnenkort.
+- Op 19 november bieden we IT-beheerders een manier om aankopen via selfservice per product uit te schakelen via PowerShell. Er zullen binnenkort meer details worden verwacht.
+- Om meer tijd te bieden om ons voor te bereiden op deze wijziging, werken we de lancering voor selfserviceaankoopmogelijkheden voor Power Platform-producten bij om te beginnen met Power BI op 14 januari voor alle commerciële cloudklanten. Meer informatie over Power Apps en Power Automate volgt.
 
 Nogmaals bedankt dat u de tijd neemt om uw feedback te geven. We kijken uit naar een voortdurende samenwerking om organisaties in staat te stellen meer te bereiken.
 
-Naarmate de wereld steeds verder weggaat van digitale transformatie, nemen eindgebruikers en bedrijfseenheden steeds meer zelf oplossingen voor Software as a Service in gebruik en kopen ze deze zelf. We introduceren selfserviceaankopen, zodat gebruikers een tot veel licenties kunnen kopen, waardoor afdelingen, teams of binnen een hele onderneming meer flexibiliteit en vrijheid krijgen om hun eigen oplossingen te maken.
+Naarmate de wereld steeds verder weggaat van digitale transformatie, maken eindgebruikers en bedrijfseenheden steeds meer zelf gebruik van Software as a Service-oplossingen en kopen ze deze. We introduceren selfserviceaankopen, zodat gebruikers een tot veel licenties kunnen kopen, waardoor afdelingen, teams of een hele onderneming meer flexibiliteit en vrijheid krijgen om hun eigen oplossingen te maken.
 
 We volgen een gefaseerd implementatie voor Microsoft Power Platform producten (Power BI, Power Apps, Power Automate):
 
 - Beschikbaarheid via selfservice begint met **Power BI op 14 januari.**
 - De implementatie begint met klanten in de Verenigde Staten vervolgens uit te breiden naar andere geografische gebieden.
 - Deze mogelijkheid is op dit moment niet beschikbaar voor overheids-, non-profit- of onderwijsklanten.
-- Details over Power Apps en Power Automate binnenkort beschikbaar.
+- Meer informatie over Power Apps en Power Automate binnenkort beschikbaar.
 
-Partners kunnen profiteren van selfserviceaankopen door oplossingen te bouwen die Azure en Power Platform. Partners met beheerderstoegang zien afzonderlijke Power Platform in de Microsoft 365-beheercentrum en kunnen ze behandelen als verkoop leads voor hun cloudoplossingen.Een partner die bijvoorbeeld een werkgroep ziet die Power BI gaat gebruiken, heeft de mogelijkheid om geavanceerde Power BI-dashboards te bouwen en te verkopen die gegevens uit Azure SQL-databases of andere zakelijke toepassingen halen. Naarmate de acceptatie zich in organisaties viral verspreidt van selfserviceaankopen, kunnen partners ook brede Power Platform verkopen aan centrale IT.
+Partners kunnen profiteren van selfserviceaankopen door oplossingen te bouwen die Azure en Power Platform. Partners met beheerderstoegang zien afzonderlijke Power Platform in de Microsoft 365-beheercentrum en kunnen ze behandelen als verkoop leads voor hun cloudoplossingen.Een partner die bijvoorbeeld een werkgroep ziet die Power BI in gebruik neemt, heeft de mogelijkheid om geavanceerde Power BI-dashboards te bouwen en te verkopen die gegevens uit Azure SQL-databases of andere zakelijke toepassingen halen. Naarmate de acceptatie zich in organisaties viral verspreidt van selfserviceaankopen, kunnen partners ook brede en Power Platform verkopen aan centrale IT.
 
-Partners die geen beheerderstoegang hebben, kunnen nog steeds bewijs van conceptprojecten aandrijden en aangepaste oplossingen bouwen voor personen die Power Platform kopen. Deze partners profiteren van de flexibiliteit om rechtstreeks met eindgebruikers samen te werken en geen gecentraliseerde IT-aankoop te hebben. Een geslaagde partnerbetrokkenheid om de Power BI te stimuleren, zou de partner binnen het bedrijf binnen de per se binnen het bedrijf binnendringingskansen geven en gemakkelijk tot andere kansen leiden.
+Partners die geen beheerderstoegang hebben, kunnen nog steeds bewijs van conceptprojecten leveren en aangepaste oplossingen bouwen voor personen die Power Platform kopen. Deze partners profiteren van de flexibiliteit om rechtstreeks met eindgebruikers samen te werken en geen gecentraliseerde IT-aankoop te hebben. Een geslaagde partnerbetrokkenheid om een Power BI te stimuleren, zou de partner binnen het bedrijf flexibiliteit geven en gemakkelijk tot andere kansen leiden.
 
 ### <a name="additional-resources"></a>Aanvullende bronnen
 
-- Resourcegalerie voor updates van het [CSP-programma: self-service-aankoopmogelijkheid van de klant](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
+- Resourcegalerie voor [CSP-programma-updates: Self-service-aankoopmogelijkheid van de klant](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
 - Oorspronkelijke publicatiedatum: 21 oktober 2019
-- Bijgewerkte Power BI en powershell-datum geïntroduceerd: 1 november 2019
+- De Power BI is bijgewerkt en PowerShell-datum is geïntroduceerd: 1 november 2019
 - PowerShell-script nu beschikbaar voor IT-beheerders. Microsoft Flow bijgewerkt naar Power Automate: 19 november 2019.
 - Start van selfserviceaankoop voor Power BI en startdetails voor Power Apps, Power Automate en andere landen: - 14 januari 2020
 - Start van selfserviceaankoop voor Power Apps en Power Automate: 28 januari 2020
@@ -183,7 +183,7 @@ Aankondiging van een nieuw rapportagedashboard (bèta) in Partner Center
 
 We introduceren een nieuw geïntegreerd rapportagedashboard in Partner Center voor partnerorganisaties die lid zijn van de Microsoft Partner Network. Via dit dashboard hebt u toegang tot een uniforme weergave van 360 graden van de Key Performance Indicators (KPI) van uw partnerorganisatie voor cloudproducten zoals Office 365, Azure, Dynamics 365 en licentiemodellen zoals Cloud Solution Provider (CSP) en Enterprise Agreement (EA). Intelligente inzichten worden aan u geleverd, zodat u uw bedrijf met Microsoft duidelijk begrijpt en met vertrouwen gegevensgestuurde beslissingen kunt nemen.
 
-Als u dit dashboard wilt bekijken, selecteert u **INSIGHTS** in Partner Center navigatiemenu aan de linkerkant. Dit dashboard maakt gebruik van dezelfde onderliggende gegevens als het huidige MyInsights-rapportageprogramma, maar biedt uitgebreidere visuals en meer inzicht in rapportagemogelijkheden en KPI's voor klanten, abonnementen, licentiegebruik, competenties en voordelen. De versie van dit insights-dashboard die momenteel wordt aangeboden, is een bètaversie en wordt uitgebreid met nieuwe rapporten en mogelijkheden als we de algemene beschikbaarheid benaderen, die later in H2 FY20 wordt gepland.
+Als u dit dashboard wilt bekijken, selecteert u **INSIGHTS** in Partner Center navigatiemenu aan de linkerkant. Dit dashboard maakt gebruik van dezelfde onderliggende gegevens als het huidige MyInsights-rapportageprogramma, maar biedt uitgebreidere visuals en meer inzicht in rapportagemogelijkheden en KPI's voor klanten, abonnementen, licentiegebruik, competenties en voordelen. De versie van dit insights-dashboard die momenteel wordt aangeboden, is een bètaversie en wordt uitgebreid met nieuwe rapporten en mogelijkheden naarmate de algemene beschikbaarheid wordt benaderd. Deze is gepland voor later in H2 FY20.
 
 We nodigen u uit om aan de slag te gaan met dit nieuwe inzichtendashboard waar u eerder MyInsights zou hebben gebruikt en uw feedback met ons te delen met behulp van het feedbackmechanisme binnen elk van de rapporten die beschikbaar zijn via het tabblad **INZICHTEN.**
 
@@ -216,7 +216,7 @@ _________________
 
 De nieuwe Microsoft-klantovereenkomst voor alle productaanbiedingen in het Cloud Solution Provider (CSP)-programma is beschikbaar vanaf 1 oktober 2019.
 
-Vanaf 1 februari 2020 is de bevestiging van Microsoft-klantovereenkomst acceptatie door een partner vereist voor het plaatsen van nieuwe orders voor CSP-aanbiedingen in alle regio's onder de openbare Cloud van Microsoft. Vanaf die datum kan een partner in de CSP geen nieuwe aankoop doen, waaronder het wijzigen van seats en het verlengen van bestaande aankopen zonder de acceptatie van de Microsoft-klantovereenkomst van de klant.
+Vanaf 1 februari 2020 is de bevestiging van Microsoft-klantovereenkomst acceptatie door een partner vereist voor het plaatsen van nieuwe orders voor CSP-aanbiedingen in alle regio's onder de openbare Cloud van Microsoft. Vanaf die datum kan een partner in CSP geen nieuwe aankoop meer doen, waaronder het wijzigen van seats en het verlengen van bestaande aankopen zonder de acceptatie van de Microsoft-klantovereenkomst van de klant.
 
 >[!NOTE] 
 >Microsoft-klantovereenkomst en de nieuwe commerce-ervaring in CSP voor Azure:** Acceptatie van de Microsoft-klantovereenkomst is vereist voor aankoop via de nieuwe [commerce-ervaring in CSP voor Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) die beschikbaar is vanaf 1 november 2019.
@@ -229,7 +229,7 @@ Partners kunnen de nieuwe Microsoft-klantovereenkomst op vrijwel dezelfde manier
 
 - Bevestig de acceptatie van de nieuwe Microsoft-klantovereenkomst vóór 31 januari 2020.
 - Train uw agents en wederverkopers op basis van de nieuwe voorwaarden van de overeenkomst en bij het presenteren van de nieuwe overeenkomst en het valideren van de acceptatie van de klant. Indirecte providers moeten samenwerken met indirecte resellers om de acceptatie van een klant te valideren.
-- Directe factuurproviders en indirecte providers die gebruikmaken van API's, moeten de bestaande implementatie bijwerken voor de nieuwe Microsoft-klantovereenkomst [bijgewerkte API.](../confirm-customer-agreement.md)
+- Directe factuurproviders en indirecte providers die gebruikmaken van API's, moeten de bestaande implementatie bijwerken voor de nieuwe Microsoft-klantovereenkomst met behulp van [bijgewerkte API.](../confirm-customer-agreement.md)
 - Directe factuur- en indirecte providers kunnen ook de webgebruikersinterface van Partner Center gebruiken om de acceptatie van de klant te bevestigen.
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>Aanvullende resources Partners kunnen inhoud bekijken die beschikbaar is op de [pagina CSP Gallery,](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)waaronder:
@@ -343,7 +343,7 @@ Op 1 februari 2020 worden de volgende nieuwe en bijgewerkte aanbiedingen voor Bi
 
 Nieuwe aanbiedingen voor Human Resources
 
-- Dynamics 365 HR-gebruikers kunnen aanvullende USL-aanbiedingen voor Dynamics 365 Unified Ops aanschaffen
+- Dynamics 365 HR-gebruikers kunnen Dynamics 365 Unified Ops Aanvullende DB/File Capacity USL-aanbiedingen aanschaffen
 - Dynamics 365 HR Self-Serve-aanbiedingen
 - Dynamics 365 Human Resources (gebruiker, tenant)
 

@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 1e09ac0497fafd6e2db2927c372edc22826ad825c713dba7d9c5854d0bfe64d9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277246"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681281"
 ---
 # <a name="view-your-incentives-program-details"></a>De details van uw incentives-programma weergeven
 
@@ -48,7 +48,7 @@ In de volgende tabel worden de verschillende inschrijvingsstatussen uitgelegd di
 | Geregistreerd  | Alle belasting- en bankgegevens zijn gevalideerd. Er is geen verdere registratieactie vereist door de partner. |
 | Bezig met registreren  | De gebruiker is geen Incentive-beheerder en de  inschrijving heeft de registratie de vereiste actie of de inschrijving **valideren.**|
 | Inactief/niet-inligeerbaar | Het incentive-programma is op dit moment mogelijk niet open voor inschrijving of de partner voldoet niet aan de huidige geschiktheid voor inschrijving of herinschrijving. <br><br> Als de status **Ineligible** is, voldoet de partner niet aan de huidige geschiktheidsvereisten voor het programma; Als u **de koppeling Geschiktheidsvereisten** bekijken selecteert onder de inschrijvingsstatus, worden de vereisten voor geschiktheid en aan welke van deze vereisten is voldaan. <br><br> Mogelijk ziet u ook **een Inactieve** status voor inschrijvingen van virtuele organisaties (VORG) of PGA-inschrijvingen (Partner Global Account) die niet meer actief zijn in het incentive-programma.  |
-| Uitgenodigd  | Er is een nieuwe uitnodiging voor incentive-programma-inschrijving verzonden naar de partner, maar de partner is het inschrijvingsproces nog niet gestart. In de **aangrenzende kolom Acties** vereist ziet u de volgende stappen en eventuele gerelateerde koppelingen.  |
+| Uitgenodigd  | Er is een nieuwe uitnodiging voor de inschrijving van het incentive-programma verzonden naar de partner, maar de partner is het inschrijvingsproces nog niet gestart. In de **aangrenzende kolom Acties** vereist ziet u de volgende stappen en eventuele gerelateerde koppelingen.  |
 | Inschrijving valideren  | De partner heeft bank- en belastinggegevens voor een nieuwe of bestaande inschrijving al ingevuld of bijgewerkt en wacht tot Microsoft deze informatie valideert. Tijdens het validatieproces **kan het valideren van de inschrijving** maximaal 48 uur worden weergegeven.  |
 
 ## <a name="see-your-payment-information"></a>Uw betalingsgegevens bekijken

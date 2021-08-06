@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b240d39da1e7c91fb8efee9aabced2a76092104e719d97cbfd33a53f1ca567ee
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840277"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681957"
 ---
 # <a name="connect-with-customers"></a>Communiceren met klanten
 
@@ -60,7 +60,7 @@ Als u beheerdersmachtigingen wilt krijgen om de abonnementen en **services** van
 
 1. Selecteer **Indirecte providers** in het Partner Center **menu**.
 
-2. Selecteer **Nieuwe klanten uitnodigen** om een klant uit te nodigen om tegelijkertijd een resellerrelatie met u en de indirecte provider tot stand te brengen. De provider moet een resellerrelatie hebben met uw klant, zodat deze namens uw klant orders kan indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties wil toevoegen aan bestaande abonnementen.
+2. Selecteer **Invite new customers** to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time. De provider moet een resellerrelatie hebben met uw klant, zodat deze namens uw klant orders kan indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties wil toevoegen aan bestaande abonnementen.
 
 3. Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het conceptbericht openen via e-mail of u kunt het bericht naar het klembord kopiëren en in een e-mailbericht plakken.
 
@@ -83,8 +83,8 @@ Als u de relatie met een klant wilt verwijderen, moet u de onderstaande stappen 
 4.  De klant wordt niet meer weergegeven in de lijst met klanten.
 
 >[!IMPORTANT]
->Als u een relatie met een klant tot stand hebt gebracht en u die relatie verwijdert, blijven de verleende gedelegeerde beheerdersbevoegdheden ongewijzigd.
->U vertegenwoordigt dat de beslissing om de relatie met de klant te beëindigen in goed vertrouwen is genomen, voor een legitiem zakelijk doel en in overeenstemming met uw overeenkomst met uw klant of partner, en u ermee akkoord gaat Microsoft te beschermen en te beschermen tegen en te beschermen tegen claims van derden tegen het ermee in strijd zijn.
+>Als u een relatie met een klant tot stand hebt gebracht en u die relatie verwijdert, blijven alle verleende gedelegeerde beheerdersbevoegdheden ongewijzigd.
+>U vertegenwoordigt dat de beslissing om de relatie met de klant te beëindigen in goed vertrouwen is genomen, voor een legitiem zakelijk doel en in overeenstemming met uw overeenkomst met uw klant of partner, en u ermee akkoord gaat Microsoft te beschermen en te beschermen tegen en te beschermen tegen claims van derden, in overeenstemming met het ermee in strijd zijn.
 >Als uw overeenkomst dit vereist, moet u uw klant of partner een juridische kennisgeving van beëindiging verstrekken. Dit hulpprogramma genereert geen kennisgeving aan de klant of partner.
 
 ## <a name="next-steps"></a>Volgende stappen

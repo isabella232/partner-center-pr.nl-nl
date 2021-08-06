@@ -8,12 +8,12 @@ description: Gebruik deze API om door de gebruiker gedefinieerde query's in Part
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: f755bc13ff4e0c4bc3a2c6ceda123c6a2bc47dc5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4714d523ff9942838e9666fe75f3df21aae69e043b6d9be1e1819cbd52dfb6ff
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836384"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681651"
 ---
 # <a name="delete-report-queries-api"></a>API voor rapportquery's verwijderen
 
@@ -28,9 +28,9 @@ Met deze API worden door de gebruiker gedefinieerde query's verwijderd.
 
 **Aanvraagheader**
 
-|    Header    |    Type    |    Beschrijving    |
+|    Header    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in de vorm`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 
@@ -87,13 +87,13 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    Parameter    |    Beschrijving    |
 |    ----    |    ----    |
 |    QueryId     |    Unieke UUID van de verwijderde query    |
-|    Naam     |    Naam van de verwijderde query    |
-|    Beschrijving     |    Beschrijving van de verwijderde query     |
+|    Name     |    Naam van de verwijderde query    |
+|    Description     |    Beschrijving van de verwijderde query     |
 |    Query’s uitvoeren     |    Rapportqueryreeks van de verwijderde query    |
 |    Type     |    Ingesteld op userDefined voor door de gebruiker gemaakte query's     |
 |    Gebruiker     |    Gebruikers-id die de query heeft gemaakt     |
 |    CreatedTime     |    Tijdstip van het maken van de query     |
-|    TotalCount     |    Aantal gegevenssets in de matrix Waarde     |
+|    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
 |    Bericht     |    Statusbericht van de uitvoering van de API     |
 |    StatusCode     |    Resultaatcode. De mogelijke waarden zijn 200, 400, 401, 403, 500     |
 |        |        |

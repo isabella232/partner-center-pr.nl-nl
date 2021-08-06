@@ -8,12 +8,12 @@ description: Gebruik deze API om rapportparameters bij te werken in Partner Cent
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 64ef897dc3c883e4adfda4285183e441f27f3c7f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c4425f6444603852e87d9287db720ec1b29ee57818bc949c82eed2179ac6149e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837030"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696903"
 ---
 # <a name="update-report-api"></a>Rapport-API bijwerken
 
@@ -28,9 +28,9 @@ Met deze API kunt u een rapportparameter wijzigen.
 
 **Aanvraagheader**
 
-|    Header    |    Type    |    Beschrijving    |
+|    Header    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in de vorm`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 
@@ -66,14 +66,14 @@ Deze tabel bevat de belangrijkste definities van elementen in het antwoord.
 
 |    Parameter    |    Vereist    |    Beschrijving    |    Toegestane waarden    |
 |    ----    |    ----    |    ----    |    ----    |
-|    ReportName     |    Ja     |    Naam die moet worden toegewezen aan het rapport     |    Tekenreeks     |
+|    ReportName     |    Yes     |    Naam die moet worden toegewezen aan het rapport     |    Tekenreeks     |
 |    Beschrijving     |    Nee     |    Beschrijving van het gemaakte rapport     |    Tekenreeks     |
-|    StartTime     |    Ja    |    Tijdstempel waarna het genereren van het rapport begint     |    Tekenreeks     |
-|    RecurrenceInterval     |    Nee     |    Frequentie waarmee het rapport in uren moet worden gegenereerd. Minimumwaarde is 4     |    Geheel getal     |
-|    RecurrenceCount     |    Nee     |    Het aantal te genereren rapport. De standaardwaarde is onbeperkt.     |    Geheel getal     |
-|    Indeling     |    Nee    |    Bestandsindeling van het geëxporteerde bestand. De standaardwaarde is CSV     |    CSV/TSV     |
-|    CallbackURL     |    Nee     |    HTTPS-callback-URL die moet worden aangeroepen bij het genereren van het rapport     |    Tekenreeks     |
-|    CallbackMethod    |    Nee    |    Http-methode die moet worden gebruikt voor callback    |    GET/POST    |
+|    StartTime     |    Yes    |    Tijdstempel waarna het genereren van het rapport begint     |    Tekenreeks     |
+|    RecurrenceInterval     |    No     |    Frequentie waarmee het rapport in uren moet worden gegenereerd. Minimumwaarde is 4     |    Geheel getal     |
+|    RecurrenceCount     |    No     |    Het aantal te genereren rapport. De standaardwaarde is onbeperkt.     |    Geheel getal     |
+|    Indeling     |    No    |    Bestandsindeling van het geëxporteerde bestand. De standaardwaarde is CSV     |    CSV/TSV     |
+|    CallbackURL     |    No     |    HTTPS-callback-URL die moet worden aangeroepen bij het genereren van een rapport     |    Tekenreeks     |
+|    CallbackMethod    |    No    |    Http-methode die moet worden gebruikt voor callback    |    GET/POST    |
 |        |        |        |        |
 
 
@@ -81,7 +81,7 @@ Deze tabel bevat de belangrijkste definities van elementen in het antwoord.
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Antwoordcode: 200, 400, 401, 403, 404, 500
+Responscode: 200, 400, 401, 403, 404, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -121,16 +121,16 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    ----    |    ----    |
 |    ReportId     |    Universally Unique Identifier (UUID) van het rapport dat wordt bijgewerkt     |
 |    ReportName     |    Naam van het rapport in de nettolading van de aanvraag     |
-|    Beschrijving     |    Beschrijving van het rapport in de nettolading van de aanvraag     |
+|    Description     |    Beschrijving van het rapport in de nettolading van de aanvraag     |
 |    QueryId     |    Query-id doorgegeven op het moment dat het rapport werd gemaakt     |
 |    Query’s uitvoeren     |    Querytekst die wordt uitgevoerd voor dit rapport     |
 |    Gebruiker     |    Gebruikers-id die wordt gebruikt om het rapport te maken     |
-|    CreatedTime     |    Tijd dat het rapport is gemaakt. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Het tijdstip dat het rapport is gemaakt. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Het tijdstip dat het rapport voor het laatst is gewijzigd. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ExecuteNow     |    ExecuteNow-vlag ingesteld op het moment dat het rapport werd gemaakt    |
 |    StartTime     |    Tijd dat de uitvoering van het rapport begint. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status van de uitvoering van het rapport. De mogelijke waarden zijn Onderbroken, Actief en Inactief.     |
-|    RecurrenceInterval     |    Terugkeerpatroon opgegeven in de nettolading van de aanvraag     |
+|    RecurrenceInterval     |    Terugkeerpatroon dat is opgegeven in de nettolading van de aanvraag     |
 |    RecurrenceCount     |    Aantal terugkeerpatroon dat is opgegeven in de nettolading van de aanvraag     |
 |    CallbackUrl     |    Callback-URL die is opgegeven in de aanvraag     |
 |    CallbackMethod    |    Callback-methode die is opgegeven in de aanvraag    |

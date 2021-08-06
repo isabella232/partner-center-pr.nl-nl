@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7c6ee1c14f79a0d521a94801272473369befa753a49557645681634e248b81e0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842645"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681447"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Install and preview the Partner Center Analytics app for Microsoft Power BI (Partner Center Analytics-app voor Microsoft Power BI installeren en preview bekijken)
 
@@ -75,7 +75,7 @@ Voordat u de preview-Partner Center Analytics-app installeert, moet u ervoor zor
  
 13. Wanneer u wordt gevraagd om toegang, selecteert u **Accepteren.** 
 
-Zodra de Partner Center Analytics-service is verbonden met Power BI, worden de gegevens geladen. Afhankelijk van de hoeveelheid gegevens kan dit tot 10 minuten duren. 
+Zodra de Partner Center Analytics-service is verbonden met Power BI, worden de gegevens geladen. Afhankelijk van de hoeveelheid gegevens kan dit maximaal 10 minuten duren. 
 
 Nadat de gegevens zijn geladen, kunt u het dashboard en de rapporten van de Partner Center Analytics-app in Power BI.
 

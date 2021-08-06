@@ -1,19 +1,19 @@
 ---
-title: Api voor rapportuitvoering onderbreken - Insights gegevens
+title: Api voor rapportuitvoering onderbreken - Insights analyseren
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Gebruik deze API om de uitvoering van een rapport in uw Partner Center onderbreken.
+description: Gebruik deze API om de uitvoering van een rapport in de Partner Center onderbreken.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 798c5e87a3935923bd91d8e74716999fb8be4f54
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 01bb70e46e5a80c039bfc90b2ac0a034aa73b1163f485af8b98676d756b73e18
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836367"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697156"
 ---
 # <a name="pause-report-executions-api"></a>API voor rapportuitvoeringen onderbreken
 
@@ -28,9 +28,9 @@ Bij de uitvoering pauzeert deze API de geplande uitvoering van rapporten.
 
 **Aanvraagheader**
 
-|    Header    |    Type    |    Beschrijving    |
+|    Header    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in de vorm`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 
@@ -57,7 +57,7 @@ Geen
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Antwoordcode: 200, 400, 401, 403, 404, 500
+Responscode: 200, 400, 401, 403, 404, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -96,12 +96,12 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    Parameter    |    Beschrijving    |
 |    ----    |    ----    |
 |    ReportId     |    Universally Unique Identifier (UUID) van het onderbroken rapport     |
-|    ReportName     |    Naam die aan het rapport is gegeven tijdens het maken     |
-|    Beschrijving     |    Beschrijving opgegeven tijdens het maken van het rapport     |
+|    ReportName     |    Naam die tijdens het maken aan het rapport is gegeven     |
+|    Description     |    Beschrijving gegeven tijdens het maken van het rapport     |
 |    QueryId     |    Query-id doorgegeven op het moment dat het rapport werd gemaakt     |
 |    Query’s uitvoeren     |    Querytekst die wordt uitgevoerd voor dit rapport     |
 |    Gebruiker     |    Gebruikers-id die wordt gebruikt om het rapport te maken     |
-|    CreatedTime     |    Tijd dat het rapport is gemaakt. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Het tijdstip dat het rapport is gemaakt. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Het tijdstip dat het rapport voor het laatst is gewijzigd. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ExecuteNow     |    ExecuteNow-vlag ingesteld op het moment dat het rapport werd gemaakt     |
 |    StartTime     |    Tijd dat de uitvoering van het rapport begint. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
@@ -111,7 +111,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    CallbackUrl     |    Callback-URL die is opgegeven in de aanvraag     |
 |    CallbackMethod    |    Callback-methode die is opgegeven in de aanvraag    |
 |    Indeling     |    Indeling van de rapportbestanden     |
-|    TotalCount     |    Aantal gegevenssets in de matrix Waarde     |
+|    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
 |    Bericht     |    Statusbericht van de uitvoering van de API     |
 |    StatusCode     |    Resultaatcode. De mogelijke waarden zijn 200, 400, 401, 403, 500     |
 |        |        |

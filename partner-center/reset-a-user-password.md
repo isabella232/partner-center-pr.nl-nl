@@ -3,18 +3,18 @@ title: Een gebruikerswachtwoord opnieuw instellen
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Meer informatie over het opnieuw instellen van een gebruikerswachtwoord in Partner Center. Gebruikers ontvangen een tijdelijk wachtwoord de volgende keer dat ze zich aanmelden bij Partner Center.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e6be8edb32f1469cac8eb13ff8746f58b662b2e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 518c80d1e7b5c8c898f6e0508bdcca11f9e2e675fbd8afe5c327ec68877a0ed0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842844"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678166"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Het wachtwoord van een gebruiker opnieuw instellen in Partner Center
 

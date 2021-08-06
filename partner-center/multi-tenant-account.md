@@ -3,18 +3,18 @@ title: Tenants toevoegen aan uw Partner Center-account
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Meer informatie over het toevoegen, consolideren of beheren van meerdere Azure AD-tenants in uw Partner Center-account en ontdek waarom u dit zou willen doen.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3917d431cb57a8b7555079e063726da3b1c60fab
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2bb4507fd7e5f60584c8fca99256c964a7521dc8
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836843"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100685"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Meerdere tenants toevoegen en beheren in uw Partner Center account
 
@@ -30,7 +30,7 @@ In dit artikel wordt beschreven hoe u meerdere Azure Active Directory (Azure AD)
 - Als voor fusies en overnamesrichtlijnen is vereist dat u met tenants van beide bedrijven werkt, gebruikt u zowel de constoso.com *als* *fabrikam.com* tenants.
 
 - Gebruikers van een van de tenants moeten het volgende kunnen doen:
-    * Toegang Partner Center voor training, digitale downloads of Microsoft Certified Professional (MCP)-associatie.
+    * Toegang Partner Center voor training, digitale downloads of MICROSOFT Certified Professional (MCP)-associatie.
     * Worden toegewezen Partner Center zoals Microsoft Partner Network (MPN)-beheerder of incentivesbeheerder.
 
 ## <a name="add-an-azure-ad-tenant-to-your-account"></a>Een Azure AD-tenant toevoegen aan uw account
@@ -43,11 +43,11 @@ In dit artikel wordt beschreven hoe u meerdere Azure Active Directory (Azure AD)
 
 1. Selecteer **Koppelen** en geef vervolgens de tenant aan die u wilt koppelen.
 
-1. Meld u bij de prompt aan als globale beheerder bij de tenant die u wilt koppelen en selecteer **vervolgens Bevestigen.** 
+1. Meld u bij de prompt aan als globale beheerder bij de tenant die u wilt koppelen en selecteer **bevestigen.** 
 
    :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Schermopname van de knop Bevestigen in het deelvenster Nieuwe Azure AD-associatie bevestigen."::: 
 
-   Nadat u de associatie hebt bevestigd, wordt het **bericht** Alle ingesteld weergegeven. Als u de zojuist toegevoegde tenant wilt weergeven, selecteert **u Terugkeren naar tenantbeheer.** 
+   Nadat u de associatie hebt bevestigd, wordt het **bericht** Alle instellen weergegeven. Als u de zojuist toegevoegde tenant wilt weergeven, selecteert **u Terugkeren naar tenantbeheer.** 
  
 >[!NOTE]
 >U kunt een tenant niet koppelen aan een account als deze al is gekoppeld aan een Partner Center account.
@@ -57,7 +57,7 @@ In dit artikel wordt beschreven hoe u meerdere Azure Active Directory (Azure AD)
  
 1. Meld u als globale beheerder aan [bij Microsoft Partner Center.](https://partner.microsoft.com/dashboard)
 
-1. Selecteer rechtsboven het pictogram **Instellingen** selecteer vervolgens **Accountinstellingen.**
+1. Selecteer rechtsboven het pictogram **Instellingen** en selecteer vervolgens **Accountinstellingen.**
 
 1. Selecteer tenants in het **linkerdeelvenster.** Selecteer **onder Azure AD-tenants beheren** het tabblad **Partner.**
  

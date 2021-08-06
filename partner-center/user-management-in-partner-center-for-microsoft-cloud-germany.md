@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 95a7c56bc8d20d86379637e7ed3e7499b941a079
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 014c9936159860b652ec64efafddbc783372c630c3d00eb689f6aabe3d214ea6
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842028"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681165"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gebruikers- en licentiebeheer in Partner Center voor Microsoft Cloud Duitsland
 
@@ -24,7 +24,7 @@ ms.locfileid: "114842028"
 **Juiste rollen:** globale | Accountbeheerder
 
 > [!IMPORTANT]
-> Op basis van de ontwikkeling van de behoeften van klanten, richt onze cloudstrategie voor Duitsland zich op de levering van de nieuwe cloudregio's in Duitsland die consistent zijn met ons wereldwijde cloudaanbod. Vanwege deze focus accepteren we geen nieuwe klanten meer en implementeren we geen nieuwe services meer vanuit de momenteel beschikbare Microsoft Cloud Duitsland. Bestaande klanten kunnen de huidige cloudservices die momenteel beschikbaar zijn, blijven gebruiken, die we onderhouden met de benodigde beveiligingsupdates.
+> Op basis van de ontwikkeling van de behoeften van klanten richt onze cloudstrategie voor Duitsland zich op de levering van de nieuwe cloudregio's in Duitsland die consistent zijn met ons wereldwijde cloudaanbod. Vanwege deze focus accepteren we geen nieuwe klanten meer en implementeren we geen nieuwe services meer vanuit de momenteel beschikbare Microsoft Cloud Duitsland. Bestaande klanten kunnen de huidige cloudservices die momenteel beschikbaar zijn, blijven gebruiken, die we onderhouden met de benodigde beveiligingsupdates.
 >  
 > Vanaf nu hebben nieuwe klanten de mogelijkheid om de momenteel beschikbare Europese regio's of de nieuwe regio's in Duitsland te gebruiken wanneer ze beschikbaar komen. Zie [Microsoft gaat cloudservices vanuit nieuwe datacenters in Duitsland leveren](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) voor meer informatie.
 

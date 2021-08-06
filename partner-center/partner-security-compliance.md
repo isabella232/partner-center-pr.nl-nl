@@ -2,19 +2,19 @@
 title: Statusrapport van beveiligingsvereisten
 ms.date: 10/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Meer informatie over het controleren van de naleving van uw beveiligingsvereisten met het statusrapport van de beveiligingsvereisten en Partner Center MFA-rapport
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db558062f5dab2a3f9ffbe99f7122a436f89d21f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 15e2792a38f8fc90612282ff30ad57dc320fc96a
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844544"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101227"
 ---
 # <a name="security-requirements-status-report"></a>Statusrapport van beveiligingsvereisten
 
@@ -22,10 +22,10 @@ ms.locfileid: "114844544"
 
 In dit artikel wordt het statusrapport van de beveiligingsvereisten in Partner Center. Dit rapport bevat metrische gegevens over naleving [van de beveiligingsvereisten van partners](partner-security-requirements.md) voor meervoudige verificatie (MFA) voor gebruikers in uw partner-tenant.
 
-Voor toegang tot dit rapport in [Partner Center](https://partner.microsoft.com/dashboard)gaat u **naar Instellingen**  >  **Accountinstellingen**  >  **Beveiligingsvereisten.** Het rapport wordt dagelijks bijgewerkt en geeft de aanmeldingsgegevens van de afgelopen zeven dagen weer.
+Voor toegang tot dit rapport in [Partner Center](https://partner.microsoft.com/dashboard)gaat u **naar Instellingen**  >  **Accountinstellingen**  >  **Beveiligingsvereistenstatus**. Het rapport wordt dagelijks bijgewerkt en geeft de aanmeldingsgegevens van de afgelopen zeven dagen weer.
 
 >[!NOTE]
->Het statusrapport van de beveiligingsvereisten wordt alleen ondersteund in Partner Center. Het is niet beschikbaar in de Microsoft Cloud for US Government of Microsoft Cloud Duitsland. We raden u ten zeerste aan dat alle partners die via een soevereine cloud (Amerikaanse overheid en Duitsland) werken, onmiddellijk aan deze nieuwe beveiligingsvereisten voldoen. Deze partners zijn momenteel echter niet vereist om te voldoen aan de nieuwe beveiligingsvereisten. Microsoft geeft in de toekomst aanvullende informatie over het afdwingen van deze beveiligingsvereisten voor onafhankelijke clouds.
+>Het statusrapport van de beveiligingsvereisten wordt alleen ondersteund in Partner Center. Het is niet beschikbaar in de Microsoft Cloud for US Government of Microsoft Cloud Duitsland. We raden u ten zeerste aan dat alle partners die via een soevereine cloud (Amerikaanse overheid en Duitsland) werken, onmiddellijk aan deze nieuwe beveiligingsvereisten voldoen. Deze partners zijn momenteel echter niet vereist om te voldoen aan de nieuwe beveiligingsvereisten. Microsoft biedt in de toekomst aanvullende informatie over het afdwingen van deze beveiligingsvereisten voor onafhankelijke clouds.
 
 ## <a name="security-status-metrics"></a>Metrische gegevens van beveiligingsstatus
 
@@ -40,7 +40,7 @@ Het metrische **percentage ingeschakelde** gebruikersaccounts met MFA dat wordt 
 
 ### <a name="partner-center-requests-with-mfa"></a>Partner Center aanvragen met MFA
 
-Telkens wanneer uw werknemers zich aanmelden bij Partner Center om te werken of, via API's, gegevens op te halen of te verzenden via Partner Center, wordt hun beveiligingsstatus op de proef gesteld en bij te houden. Ook zijn uw toepassingen en toepassingen van configuratieschermleveranciers opgenomen in het bijhouden van de beveiligingsstatus. Deze gegevens worden weergegeven in metrische gegevens onder Percentage aanvragen voor Partner Center met **MFA** en weerspiegelt de afgelopen zeven dagen.
+Telkens wanneer uw werknemers zich aanmelden bij Partner Center om te werken of, via API's, gegevens via Partner Center, wordt hun beveiligingsstatus op de proef gesteld en bij te houden. Ook zijn uw toepassingen en toepassingen van configuratieschermleveranciers opgenomen in het bijhouden van de beveiligingsstatus. Deze gegevens worden weergegeven in metrische gegevens onder Percentage aanvragen voor Partner Center met **MFA** en geeft de afgelopen zeven dagen weer.
 
 #### <a name="dashboard-mfa-verification"></a>MFA-verificatie op dashboard
 
@@ -53,7 +53,7 @@ De metriek **Via Partner Center-portal** is gerelateerd aan activiteiten binnen 
 - Er zijn geen bewerkingen uitgevoerd door een van beide agent op de resterende vier dagen.
 - Van de tien bewerkingen die in het venster van zeven dagen zijn uitgevoerd, zijn er twee gemaakt door de gebruiker met MFA-verificatie. De metrische gegevens tonen daarom 20%.
 
-Gebruik het bestand **Portal-aanvragen** zonder MFA om te begrijpen welke gebruiker zich heeft aangemeld bij het Partner Center-dashboard zonder MFA-verificatie en het tijdstip waarop de laatste keer is bezocht tijdens het rapportagevenster.
+Gebruik het bestand **Portal-aanvragen** zonder MFA om te begrijpen welke gebruiker zich heeft aangemeld bij het Partner Center-dashboard zonder MFA-verificatie en het tijdstip van het laatste bezoek tijdens het rapportagevenster.
 
 #### <a name="appuser-mfa-verification"></a>MFA-verificatie voor app en gebruiker
 
@@ -61,7 +61,7 @@ De metrische gegevens **via API of SDK** zijn gerelateerd aan App+User-verificat
 
 - Fabrikam is een CSP-partner en heeft een CSP-toepassing die gebruikmaakt van een combinatie van app-gebruikersverificatie en verificatiemethoden voor alleen apps.
 - Op de eerste dag heeft de toepassing drie API-aanvragen gedaan, die werden gebacked door een toegangs token dat is verkregen via de verificatiemethode App+User zonder MFA-verificatie.
-- Op de tweede dag heeft de toepassing vijf API-aanvragen gedaan, die werden gebacked door een toegangs token dat is verkregen met behulp van verificatie alleen voor apps.
+- Op de tweede dag heeft de toepassing vijf API-aanvragen gedaan, die werden gebacked door een toegangs token dat is verkregen met behulp van alleen-app-verificatie.
 - Op de derde dag heeft de toepassing twee API-aanvragen gedaan, die werden gebacked door een toegangs token dat is verkregen met behulp van de verificatiemethode App+User met MFA-verificatie.
 - Er zijn geen bewerkingen uitgevoerd door een van beide agent op de resterende vier dagen.
 - De vijf API-aanvragen op de tweede dag, die werden gebacked door een toegangsken dat is verkregen via alleen-app-verificatie, worden weggelaten uit de metrische gegevens omdat deze geen gebruikmaakt van gebruikersreferenties. Van de resterende vijf bewerkingen werden twee van deze bewerkingen gebacked door een toegangs token dat is verkregen met MFA-verificatie. De metrische gegevens tonen daarom 40%.
@@ -80,7 +80,7 @@ Sommige partners die MFA hebben geïmplementeerd, zien mogelijk metrische rappor
 
 ### <a name="implemented-mfa-for-your-partner-tenant"></a>MFA geïmplementeerd voor uw partner-tenant
 
-U moet MFA implementeren voor uw partner-tenant om naleving te bereiken. Zie Security requirements for using Partner Center or Partner Center APIs (Beveiligingsvereisten voor het gebruik van Partner Center [of Partner Center API's) voor](partner-security-requirements.md)meer informatie over het implementeren van MFA.
+U moet MFA implementeren voor uw partner-tenant om naleving te bereiken. Zie Security requirements for using Partner Center or Partner Center APIs (Beveiligingsvereisten voor het gebruik van Partner Center of [Partner Center API's)](partner-security-requirements.md)voor meer informatie over het implementeren van MFA.
 
 >[!NOTE]
 > MFA-metrische gegevens worden dagelijks berekend en houden rekening met bewerkingen die in de afgelopen zeven dagen zijn uitgevoerd. Als u de MFA-implementatie voor uw partner-tenant pas onlangs hebt voltooid, geven de metrische gegevens mogelijk nog geen 100% weer.
@@ -100,9 +100,9 @@ Begrijpen of uw huidige implementatie alleen MFA afdwingt onder specifieke voorw
 
 Als u een MFA-oplossing van derden gebruikt, identificeert u hoe u deze integreert met Azure AD. Over het algemeen zijn er twee methoden, waaronder federatie en aangepaste besturingselementen:
 
-* **Identiteitsfederatie:** wanneer Azure AD een verificatieaanvraag ontvangt, wordt de gebruiker door Azure AD omgeleid naar de federatie-id-provider voor verificatie. Na een geslaagde verificatie stuurt de federatief-id-provider de gebruiker terug naar Azure AD, samen met een SAML-token. Om ervoor te zorgen dat Azure AD kan herkennen dat de gebruiker MFA-verificatie heeft voltooid bij de verificatie bij de federatieve id-provider, moet het SAML-token de claim *authenticationmethodsreferences* bevatten (met de waarde *multipleauthn*). Controleer of de federatief-id-provider de uitgifte van een dergelijke claim ondersteunt. Als dat het zo is, controleert u of de federatief-id-provider is geconfigureerd om dit te doen. Als de claim ontbreekt, weet Azure AD (en daarom Partner Center) niet dat de gebruiker de MFA-verificatie heeft voltooid en dat het ontbreken van de claim ertoe kan leiden dat de metrische gegevens niet 100% zijn.
+* **Identiteitsfederatie:** wanneer Azure AD een verificatieaanvraag ontvangt, wordt de gebruiker door Azure AD omgeleid naar de federatie-id-provider voor verificatie. Na een geslaagde verificatie stuurt de federatief-id-provider de gebruiker terug naar Azure AD, samen met een SAML-token. Om ervoor te zorgen dat Azure AD kan herkennen dat de gebruiker MFA-verificatie heeft voltooid bij de verificatie bij de federatieve id-provider, moet het SAML-token de claim *authenticationmethodsreferences* bevatten (met de waarde *multipleauthn*). Controleer of de federatief-id-provider ondersteuning biedt voor het uitgeven van een dergelijke claim. Als dat het zo is, controleert u of de federatief-id-provider is geconfigureerd om dit te doen. Als de claim ontbreekt, weet Azure AD (en daarom Partner Center) niet dat de gebruiker de MFA-verificatie heeft voltooid en dat het ontbreken van de claim ertoe kan leiden dat de metrische gegevens niet 100% zijn.
 
-* **Aangepast besturingselement:** aangepast besturingselement voor Azure AD kan niet worden gebruikt om te bepalen of een gebruiker de MFA-verificatie heeft voltooid via een MFA-oplossing van derden. Als gevolg hiervan wordt elke gebruiker die de MFA-verificatie via een aangepast besturingselement heeft voltooid, altijd weergegeven in Azure AD (en op zijn beurt Partner Center) als niet is voltooid met MFA-verificatie. Indien mogelijk wordt u aangeraden over te schakelen naar identiteitsfederatie in plaats van Aangepast besturingselement wanneer u integreert met Azure AD.
+* **Aangepast beheer:** aangepast besturingselement voor Azure AD kan niet worden gebruikt om te bepalen of een gebruiker de MFA-verificatie heeft voltooid via een MFA-oplossing van derden. Als gevolg hiervan wordt elke gebruiker die de MFA-verificatie via een aangepast besturingselement heeft voltooid, altijd weergegeven in Azure AD (en op zijn beurt Partner Center) als niet is voltooid met MFA-verificatie. Indien mogelijk wordt u aangeraden over te schakelen naar identiteitsfederatie in plaats van Aangepast besturingselement wanneer u integreert met Azure AD.
 
 ### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>Bepalen welke gebruikers zich hebben aangemeld bij Partner Center zonder MFA
 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: f3be1b1d267321a4229ba3ea56aa950e14538289
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: e084f8c08aa449d2532f37cb7888e42bbf1b8a6f76d2d0d5858b9ca8c3b48f4d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433942"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681753"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inschrijving en gebruikersbeheer in het incentives-programma
 
@@ -39,11 +39,11 @@ Als u zich wilt inschrijven voor Partner Center incentive-programma, moet de Glo
 
 Zodra uw organisatie in aanmerking komt voor incentives, stuurt Microsoft een uitnodiging naar de Incentive-beheerder van de in aanmerking komende MPNLocationID om het inschrijvingsproces te starten. Deze e-mail wordt verzonden **vanuit Microsoft Partner Center** en heeft het onderwerp Partner Incentive **Enrollment Invitation**. Open de uitnodiging en selecteer **Aan de slag**.
 
-U ziet ook een uitnodiging op de Partner Center startpagina. Zodra u dat bericht hebt geselecteerd, kunt u het niet meer zien. De Incentive-beheerder kan het proces echter nog steeds voltooien door zich aan te melden bij Partner Center [dashboard](https://partner.microsoft.com/dashboard/) en Overzicht te **selecteren** onder **Incentives** in het linkernavigatiepaneel. Selecteer **Inschrijven en** voltooi vervolgens het uitbetalings- en belastingprofiel voor het programma.
+U ziet ook een uitnodiging op de Partner Center startpagina. Zodra u dat bericht hebt geselecteerd, kunt u het niet meer zien. De Incentive-beheerder kan het proces echter nog steeds voltooien door zich aan te melden bij Partner Center [dashboard](https://partner.microsoft.com/dashboard/) en Overzicht te **selecteren** onder **Incentives** in het linkernavigatiepaneel. Selecteer **Registreren en** voltooi vervolgens het uitbetalings- en belastingprofiel voor het programma.
 
 **Als** u al een standaard bankprofiel hebt ingesteld voor een MPN-locatie en u probeert in te schrijven voor dezelfde MPN-locatie in een incentive-programma, ziet u het standaard bankprofiel wanneer u Inschrijven selecteert en de uitnodiging accepteert. Er wordt ook een beschikbaar belastingprofiel weergegeven als u het hebt gemaakt voor die MPN-locatie. Als Microsoft alle vereiste bank- en belastingprofielgegevens heeft,  wordt u gevraagd om Indienen te selecteren om de inschrijving te voltooien. Zie [Een standaard bankprofiel instellen.](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)
 
-U hebt ook de mogelijkheid om een ander bankprofiel dan het standaard bankprofiel te kiezen. Als Microsoft aanvullende gegevens nodig heeft voor de betalings- of  belastingprofielen of valuta, wordt u gevraagd om door te gaan en wordt u omgeleid naar de pagina Betalings- en belastingprofiel om de ontbrekende gegevens **op te** geven. 
+U kunt ook een ander bankprofiel dan het standaard bankprofiel kiezen. Als Microsoft aanvullende gegevens nodig heeft voor de betalings- of  belastingprofielen of valuta, wordt u gevraagd om door te gaan en wordt u omgeleid naar de pagina Betalings- en belastingprofiel om de ontbrekende gegevens **op te** geven. 
 
 Een inschrijving wordt alleen als voltooid beschouwd wanneer het uitbetalings- en belastingprofiel dat u voor de inschrijving opsomt, wordt gevalideerd door Microsoft.
 
@@ -51,9 +51,9 @@ Bepaalde incentive-programma's hebben geen geschiktheidscriteria en zijn open vo
 
 Download de [Incentives Enrollment Guide](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (aanmelding vereist) voor meer informatie over het inschrijvingsproces.
 
-## <a name="expiration-and-renewal"></a>Verloop en verlenging
+## <a name="expiration-and-renewal"></a>Vervaldatum en verlenging
 
-Incentives-inschrijving verloopt aan het einde van het fiscale jaar. Zolang u echter een in aanmerking komende partner blijft met een actieve overeenkomst, zal Microsoft uw incentives-inschrijving doorsturen naar het volgende boekjaar. U hoeft geen actie te ondernemen, zolang de uitbetalings- en belastinggegevens die zijn vereist voor het incentive-programma zijn voltooid volgens de regels van het incentive-programma.
+Incentives-inschrijving verloopt aan het einde van het fiscale jaar. Zolang u echter een in aanmerking komende partner blijft met een actieve overeenkomst, zal Microsoft uw incentives-inschrijving doorsturen naar het volgende fiscale jaar. U hoeft geen actie te ondernemen, zolang de uitbetalings- en belastinggegevens die zijn vereist voor het incentive-programma zijn voltooid volgens de regels van het incentive-programma.
 
 ## <a name="next-steps"></a>Volgende stappen
 

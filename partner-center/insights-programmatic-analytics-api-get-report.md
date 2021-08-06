@@ -1,5 +1,5 @@
 ---
-title: Rapport-API ops Insights halen
+title: Rapport-API op Insights halen
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ description: Gebruik deze API om alle beschikbare rapport-id's op te halen in Pa
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: dc0e3925aeb07adc0e2b38af2913c63d3183941e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9c6930d8be430f6a9219e7b3d11b2e64ed2af5253b81581581ad6254a2a1d8d3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841348"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697139"
 ---
 # <a name="get-report-api"></a>Rapport-API op halen
 
@@ -28,9 +28,9 @@ Deze API haalt alle rapporten op die zijn gepland.
 
 **Aanvraagheader**
 
-|    Header    |    Type    |    Beschrijving    |
+|    Header    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in de vorm`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 
@@ -100,7 +100,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    ----    |    ----    |
 |    ReportId     |    Unieke UUID van het rapport dat is gemaakt     |
 |    ReportName     |    Naam van het rapport in de nettolading van de aanvraag     |
-|    Beschrijving     |    Beschrijving die is opgegeven bij het maken van het rapport     |
+|    Description     |    Beschrijving die is opgegeven bij het maken van het rapport     |
 |    QueryId     |    Query-id doorgegeven op het moment dat het rapport werd gemaakt     |
 |    Query’s uitvoeren     |    Querytekst die wordt uitgevoerd voor dit rapport     |
 |    Gebruiker     |    Gebruikers-id die wordt gebruikt om het rapport te maken     |
@@ -114,7 +114,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    CallbackUrl     |    Callback-URL die is opgegeven in de aanvraag     |
 |    CallbackMethod    |    Callback-methode die is opgegeven in de aanvraag    |
 |    Indeling     |    Indeling van de rapportbestanden     |
-|    TotalCount     |    Aantal gegevenssets in de matrix Waarde     |
+|    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
 |    Bericht     |    Statusbericht van de uitvoering van de API     |
 |    StatusCode     |    Resultaatcode. De mogelijke waarden zijn 200, 400, 401, 403, 500     |
 |        |        |

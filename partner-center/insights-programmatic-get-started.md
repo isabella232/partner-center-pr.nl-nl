@@ -8,12 +8,12 @@ description: Meer informatie over het gebruik van de API voor toegang tot analys
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 4e8b70b027995ddf7ccf9de2da9eb9be764dced8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 209f58abf156bd2d7e1ea8ced858dbda669c247f5fbb353fd3781fce71b2d603
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845122"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696883"
 ---
 # <a name="get-started-with-programmatic-access-to-analytics-data"></a>Aan de slag met programmatische toegang tot analysegegevens
 

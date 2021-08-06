@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b4edaddb76d72620324c0e26c971bbeb339beeff
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2f41ad46475dfcd9858e161dd54e459942f597486715c975dd815e778999ff85
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843201"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696254"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partner Center for Microsoft Cloud for US Government ondersteunt aanbiedingen van partners aan overheidsinstanties
 
@@ -37,7 +37,7 @@ Zie het gegevensblad Microsoft Cloud for US Government [meer informatie.](https:
 Nadat u bent ingeschreven bij het Cloud Solution Provider(CSP)-programma voor Microsoft Cloud for US Government, gebruikt u Partner Center om cloudspecifieke oplossingen en services te verkopen aan uw Amerikaanse overheidsklanten. 
 
 > [!NOTE]  
-> Op het moment dat dit artikel werd gepubliceerd, waren de volgende Partner Center-functies nog niet beschikbaar in Partner Center voor Microsoft Cloud for US Government (sinds de publicatie zijn sommige functies mogelijk toegevoegd aan Partner Center en is deze lijst mogelijk verouderd):
+> Op het moment dat dit artikel werd gepubliceerd, waren de volgende Partner Center-functies nog niet beschikbaar in Partner Center voor Microsoft Cloud for US Government (sinds publicatie zijn sommige functies mogelijk toegevoegd aan Partner Center en is deze lijst mogelijk verouderd):
 
 - Een partner zoeken
 - Zakelijke profielen

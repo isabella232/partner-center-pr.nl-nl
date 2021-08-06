@@ -8,14 +8,14 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: e248657b9b4d4cf50cb7d38b2a0593ae6445bd28
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1eae2a840d5f3b70875babca350cd0ca9d0a37e5047fc516ce8ec0b1e0ea8a74
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843133"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696730"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Zelfstandige Kaizala Pro migreren naar Microsoft 365 of Office 365 versies
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Zelfstandige Kaizala Pro migreren naar Microsoft 365- of Office 365 versies
 
 **Juiste rollen:** Verkoopagent
 
@@ -44,7 +44,7 @@ Met de nieuwe abonnementen kunnen uw klanten profiteren van nieuwere functies en
    - Microsoft 365 E3 en Office 365 E3
    - Microsoft 365 E5 en Office 365 E5
 
-- [**Microsoft 365 for Education,**](https://www.microsoft.com/education/buy-license/microsoft365)met inbegrip van: 
+- [**Microsoft 365 for Education,**](https://www.microsoft.com/education/buy-license/microsoft365)waaronder: 
     - Microsoft 365 A1 en Office 365 A1
     - Microsoft 365 A3 en Office 365 A3
     - Microsoft 365 A5 en Office 365 A5
@@ -64,7 +64,7 @@ C. Oud abonnement annuleren
 
 ### <a name="a-purchase-the-new-subscription"></a>A. Het nieuwe abonnement kopen
 
-1. Als u het nieuwe abonnement wilt kopen, selecteert u **in** Partner Center menu **Klanten,** selecteert u de klant die u wilt verplaatsen en selecteert u vervolgens **Abonnementen toevoegen.**
+1. Als u het nieuwe abonnement wilt kopen, selecteert **u in Partner Center** menu Klanten, selecteert u de klant die u wilt verplaatsen en selecteert u vervolgens Abonnementen **toevoegen.** 
 
 2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **vervolgens Verzenden.**
 
@@ -76,7 +76,7 @@ Uw klant moet nu zowel oude als nieuwe abonnementen hebben, het oude zelfstandig
 
 2. Als u de gebruikerslicentie opnieuw wilt toewijzen, selecteert u de gebruiker die u opnieuw wilt toewijzen en selecteert u **vervolgens Licenties beheren.**
 
-3. Schakel op **de pagina** Licenties beheren het selectievakje Kaizala Pro zelfstandige licentie uit en selecteer een nieuw serviceabonnement voor het abonnement waar de klant naar overstapt.
+3. Schakel op **de pagina** Licenties beheren het selectievakje Kaizala Pro zelfstandige licentie uit en selecteer een nieuw serviceabonnement voor het abonnement waar de klant naar verplaatst.
 
 4.  Selecteer **Indienen**. Een bevestigingspagina bevat de nieuwe licentietoewijzingen. Ga door met hetzelfde proces voor andere gebruikers die licentietoewijzingen nodig hebben.
 

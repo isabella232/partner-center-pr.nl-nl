@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7544a090b447af37f06ddf31606794a00f357b05
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 33a14b89e77a2550b5f51e4d44f2866f376ed9fa14a334769530f45a5c6ab873
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845989"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697296"
 ---
 # <a name="mpn-benefits---software"></a>MPN-voordelen - Software
 
@@ -22,7 +22,7 @@ ms.locfileid: "114845989"
 
 ## <a name="overview"></a>Overzicht
 
-In dit artikel worden de on-premises softwarevoordelen beschreven die beschikbaar zijn voor partners binnen Partner Center. Als u alle softwareproducten wilt zien waar u recht op hebt als onderdeel van uw actieve inschrijvingsaanbieding, gaat u naar  [MPN>Benefits](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) en selecteert u vervolgens het tabblad Software in het Partner Center menu.  
+In dit artikel worden de on-premises softwarevoordelen beschreven die beschikbaar zijn voor partners binnen Partner Center. Als u alle softwareproducten wilt zien waar u recht op hebt als onderdeel van uw actieve inschrijvingsaanbieding, gaat u naar  [MPN>Benefits](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) en selecteert u vervolgens het tabblad Software in het menu Partner Center.  
 
 ## <a name="manage-software-products-and-product-keys"></a>Softwareproducten en productcodes beheren
 
@@ -50,9 +50,9 @@ Het aantal activeringen dat wordt geteld voor een productcode is gebaseerd op de
 
     CAL's zijn geen product dat kan worden gedownload. De activering van CAL's wordt beheerd op het Server-product zelf.
 
-- **U ontvangt een bericht met de melding dat u het maximum aantal beschikbare activeringen voor een productcode hebt bereikt bij het activeren van software.**
+- **U ontvangt een bericht met de melding dat u de maximaal beschikbare activeringen voor een productcode hebt bereikt bij het activeren van software.**
 
-    U hebt een specifiek aantal activeringen per product via de MPN-lidmaatschapsvoordelen. Als u het maximum aantal activeringen hebt bereikt of overschreden, kunt u niet meer licenties activeren met behulp van de opgegeven productcode.
+    U hebt een specifiek aantal activeringen per product via de mpn-lidmaatschapsvoordelen. Als u het maximum aantal activeringen hebt bereikt of overschreden, kunt u niet meer licenties activeren met behulp van de opgegeven productcode.
 
 
  ## <a name="next-steps"></a>Volgende stappen

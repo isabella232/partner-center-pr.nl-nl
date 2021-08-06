@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8ab68cbae952b8eab24dd989386007cd0c2fcc559cd48eb37256b80ce1146acf
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845224"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678547"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Overzicht van dashboardrapporten die beschikbaar zijn in Partner Center Insights
  
@@ -47,7 +47,7 @@ Het **gebied Klanten** omvat:
 
 ### <a name="azure-consumed-revenue-acr"></a>Omzet uit Azure-verbruik (ACR)
 
-Het **Omzet uit Azure-verbruik (ACR)** in het overzicht omvat:
+Het **Omzet uit Azure-verbruik (ACR)** op de samenvatting omvat:
 
 - De totale ACR (in Amerikaanse dollars) heeft u over het geselecteerde datumbereik toegewezen.
 - Het percentage groei of afname in ACR (in Amerikaanse dollars) tijdens het geselecteerde datumbereik.

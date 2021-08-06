@@ -8,12 +8,12 @@ description: Gebruik deze API om uw query te testen en de resultaten te validere
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: c83b56b7d52e0b9feb598597b4a8e1fdaec98a3b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8358366d4782473549403ca3def4c6a6ec3825c91899f401d6dc44b5a9192ea9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845598"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696951"
 ---
 # <a name="try-report-queries-api"></a>Api voor rapportquery's proberen
 
@@ -31,7 +31,7 @@ Met deze API wordt een rapportquery-instructie uitgevoerd. De API retourneert sl
 
 **Aanvraagheader**
 
-|    Header    |    Type    |    Beschrijving    |
+|    Header    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in de vorm`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |

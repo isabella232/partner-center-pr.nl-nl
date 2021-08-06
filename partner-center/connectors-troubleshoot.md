@@ -8,12 +8,12 @@ description: Meer informatie over antwoorden op veelvoorkomende vragen over het 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 5143d8e779332fd7df1ebeb3b5175658a0190f4b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: af5f54f1bc4b03fcea0d5aed62f8541c5202166793ab189e355bb2e560fd9f00
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838050"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679929"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Problemen met connectors voor verwijzingen voor co-verkoop oplossen
 
@@ -23,9 +23,9 @@ ms.locfileid: "114838050"
 
  ## <a name="questions-and-answers-about-pre-requisites"></a>Vragen en antwoorden over vereisten
 
-1. Kunt u een oplossing voor verwijzingen voor proefversies voor co-verkoop gebruiken voor uw omgeving?
+1. Kunt u een oplossing voor verwijzingsconnectoren voor proefversies voor co-verkoop gebruiken voor uw omgeving?
 
-Als u in de test-/faseringsomgeving bent, kunt u kiezen voor een proefoplossing. De betaalde versie van de connectors is beschikbaar in AppSource op US$ 15/maand. Met de betaalde verbinding krijgt u 10.000 API-aanroepen per dag. De connectors zijn wrappers boven op Partner Center verwijzings-API's. Wanneer de connectoroplossingen worden  uitgevoerd  voor een gebeurtenis maken of bijwerken voor de verkoopkansen aan de Partner Center of crm-zijde, wordt er een API-aanroep uitgevoerd.
+Als u in de test-/faseringsomgeving bent, kunt u kiezen voor een proefoplossing. De betaalde versie van de connectors is beschikbaar in AppSource op US$ 15/maand. Met de betaalde verbinding krijgt u 10.000 API-aanroepen per dag. De connectors zijn wrappers boven op Partner Center verwijzings-API's. Wanneer de connectoroplossingen worden  uitgevoerd voor een create- of **updategebeurtenis** voor de verkoopkansen aan Partner Center of crm-zijde, wordt er een API-aanroep uitgevoerd.
 
 2. Welke rol hebt u nodig om secties te maken in een CRM-omgeving?
 
@@ -33,7 +33,7 @@ Gebruikers die systeembeheerders of systeem customizers zijn, kunnen wijzigingen
 
 3. Hebben partnerverkopers speciale rollen nodig om aan een Partner Center?
  
-Aan partnerverkopers moet de rol Verwijzingenbeheerder zijn toegewezen. Zie Overzicht van machtigingen [voor meer informatie.](create-user-accounts-and-set-permissions.md)
+Aan partnerverkopers moet de rol Verwijzingsbeheerder zijn toegewezen. Zie Overzicht van machtigingen [voor meer informatie.](create-user-accounts-and-set-permissions.md)
 
 4. Welke velden moeten eerst worden ingesteld in uw CRM-omgeving? 
 
@@ -48,7 +48,7 @@ Als u de Power Automate wilt gebruiken, hebt u het volgende nodig:
 
 6.  Hebt u een Dynamics 365-abonnement nodig om de oplossing Salesforce Connectors te kunnen gebruiken?
 
-De salesforce-connectoroplossing is van het type Dynamics Flow dat synchronisatie met andere CRM-systemen ondersteunt. Voor de oplossing hoeft u geen Dynamics 365-exemplaar of een abonnement te hebben. Tijdens het installeren van de Salesforce-oplossing wordt er mogelijk een vervolgkeuze met een bestaande CDS-omgeving in uw bedrijf weergegeven. U moet die omgeving selecteren. Als u bovendien de fout 'Kan geen Dynamics 365-organisatie vinden die is verbonden met een aangemelde gebruiker' krijgt, moet u een nieuwe omgeving voor de connector maken.
+De salesforce-connectoroplossing is van het type Dynamics Flow dat synchronisatie met andere CRM-systemen ondersteunt. Voor de oplossing hoeft u geen Dynamics 365-exemplaar of een abonnement te hebben. Tijdens het installeren van de Salesforce-oplossing wordt er mogelijk een vervolgkeuze met een bestaande CDS-omgeving in uw bedrijf weergegeven. U moet die omgeving selecteren. Als u de fout 'Kan geen Dynamics 365-organisatie vinden die is verbonden met een aangemelde gebruiker' krijgt, moet u bovendien een nieuwe omgeving voor de connector maken.
 
 ## <a name="questions-and-answers-about-configuration"></a>Vragen en antwoorden over configuratie
 
@@ -62,11 +62,11 @@ Volg deze stappen voor probleemoplossing:
 - De onderliggende stroom in- en uitschakelen 
 - Verwijder de oplossing en installeer de oplossing opnieuw. 
 
-2.  Wat moet u doen als u de fout 'Aanmelden' ziet tijdens het toevoegen van een Partner Center-connector in Power Automate Platform?
+2.  Wat moet u doen als u te maken hebt met de fout 'Aanmelden' tijdens het toevoegen van een Partner Center-connector in Power Automate Platform?
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Foutbericht waarin aanmelding is vereist.":::
 
-Volg deze stap voor probleemoplossing:
+Volg deze probleemoplossingsstap:
 
 - Gebruik uw Partner Center om u eenmaal aan te melden bij de stroomomgeving (flow.microsoft.com).
 
@@ -95,7 +95,7 @@ U voegt verbindingen toe aan de stroom terwijl de stroom wordt uitgevoerd en u v
 :::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Bewerk de stroom stap voor stap.":::
 
 
-5. Wat moet u doen als de stromen van de oplossing Connectors voor verwijzingen voor co-verkoop niet worden aan zet?
+5. Wat moet u doen als de stromen van de oplossing Voor verwijzingen voor co-verkoop niet worden aan zet?
 
 A. In Power Automate moet u stromen in de volgende volgorde bewerken en bijwerken om de juiste verbindingen te gebruiken:
 
@@ -104,10 +104,10 @@ A. In Power Automate moet u stromen in de volgende volgorde bewerken en bijwerke
 - Partner Center Microsoft Co-sell Referral Updates to Salesforce (Insider Preview)
 - Partner Center naar Salesforce (Insider Preview)
 - Salesforce naar Partner Center (Insider Preview)
-- Salesforce Opportunity to Partner Center (Insider Preview)
+- Salesforce-mogelijkheden om Partner Center (Insider Preview)
 - Salesforce Microsoft Solutions to Partner Center (Insider Preview)
 
- B. Selecteer voor elke stroom de **optie Alleen gebruikers** uitvoeren. Selecteer **Verbinding gebruiken in** plaats van Opgegeven door **alleen-uitvoeren gebruiker.**  
+ B. Selecteer voor elk stroom de **optie Alleen gebruikers** uitvoeren. Selecteer **Verbinding gebruiken in** plaats van Opgegeven door **alleen-uitvoeren gebruiker.**  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Een stroom activeren.":::
 
@@ -161,11 +161,11 @@ Voer de volgende stappen uit:
 
 Hier volgen enkele van de opties die u kunt uitproberen:
 
-- Controleer of de gebruikersnaam of het wachtwoord is verlopen voor de Partner Center gebruiker met beheerdersrollen voor verwijzingen.
+- Controleer of de gebruikersnaam of het wachtwoord is verlopen voor de Partner Center gebruiker met verwijzingsbeheerdersrollen.
 
 - U kunt naar de niet-gesynchroniseerde mogelijkheid gaan, een kleine update maken en kijken of de verwijzing is gesynchroniseerd.
 
-- Als de stromen zijn uitgevoerd en mislukt, selecteert u de stroom en dient u de mislukte run opnieuw in.
+- Als de stromen zijn uitgevoerd en zijn mislukt, selecteert u de stroom en dient u de mislukte run opnieuw in.
 
 5. Wat moet u doen wanneer er fouten optreden bij geweigerde toegang?
 
@@ -191,9 +191,9 @@ Ga als volgt te werk:
 
 - Nadat u een nieuwe deal voor co-verkoop in Partner Center hebt gemaakt, controleert u of Partner Center naar de Dynamics 365-stroom wordt aangeroepen (deze kan meerdere keren worden aangeroepen).
 
-- Als de stroom wordt aangeroepen, controleert u alle aangeroepen stromen en identificeert u de stroomuit voer die het CRM zou bijwerken. U kunt de acties volgen en controleren of het CRM is bijgewerkt of dat er een probleem is aangetroffen.
+- Als de stroom wordt aangeroepen, controleert u alle aangeroepen stromen en identificeert u de stroomuit voeren die het CRM zou bijwerken. U kunt de acties volgen en controleren of het CRM is bijgewerkt of dat er een probleem is aangetroffen.
 
-- Controleer **Nieuwe deal** in Partner Center om te zien of deze wordt gevuld met CRM-id.
+- Controleer **Nieuwe deal** in Partner Center om te zien of deze wordt gevuld met crm-id.
 
 - Zorg ervoor dat de deal niet per ongeluk wordt gesloten als **Gewonnen** of **Verloren** in Partner Center.
 

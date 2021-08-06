@@ -1,5 +1,5 @@
 ---
-title: Uw eerste API-aanroep maken voor toegang tot analysegegevens van Partner Insights
+title: Uw eerste API-aanroep maken voor toegang tot analysegegevens van partnerinzichten
 description: Voorbeelden om te leren hoe u de API gebruikt voor toegang tot analysegegevens van partnerinzichten.
 ms.topic: article
 ms.service: partner-dashboard
@@ -8,20 +8,20 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 76fb1b113a44e195114d67d79f192b3c2dce1071b7502f01af20387f69d62a8f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840022"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697462"
 ---
-# <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Uw eerste API-aanroep maken voor toegang tot analysegegevens van Partner Insights
+# <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Uw eerste API-aanroep maken voor toegang tot analysegegevens van partnerinzichten
 
-Zie API's voor toegang tot analysegegevens van partnerinzichten voor een lijst met de API's voor toegang tot [analysegegevens van partnerinzichten.](insights-programmatic-analytics-available-api.md) Voordat u uw eerste API-aanroep maakt, moet u ervoor zorgen dat u aan de vereisten voor programmatische toegang tot Partner-Insights analytics-gegevens hebt voldaan. [](insights-programmatic-prerequisites.md)
+Zie API's voor toegang tot analysegegevens van partnerinzichten voor een lijst met de API's voor toegang tot [analysegegevens van partnerinzichten.](insights-programmatic-analytics-available-api.md) Voordat u uw eerste API-aanroep maakt, moet u ervoor zorgen dat u aan de vereisten voor programmatische toegang tot partnergegevens Insights analytics-gegevens hebt voldaan. [](insights-programmatic-prerequisites.md)
 
 ## <a name="token-generation"></a>Token genereren
 
-Voordat u een van de methoden aanroept, moet u eerst een AAD-Azure Active Directory verkrijgen. U moet het Azure AD-toegang token doorgeven aan de autorisatie-header van elke methode in de API. Nadat u een toegangsteken hebt ontvangen, hebt u 60 minuten om het te gebruiken voordat het verloopt. Nadat het token is verlopen, kunt u het token vernieuwen en het blijven gebruiken voor verdere aanroepen naar de API.
+Voordat u een van de methoden aanroept, moet u eerst een AAD-Azure Active Directory verkrijgen. U moet het Azure AD-toegangsken doorgeven aan de autorisatie-header van elke methode in de API. Nadat u een toegangsteken hebt ontvangen, hebt u 60 minuten om het te gebruiken voordat het verloopt. Nadat het token is verlopen, kunt u het token vernieuwen en dit blijven gebruiken voor verdere aanroepen naar de API.
 
 Raadpleeg een voorbeeldaanvraag hieronder voor het genereren van een token. De drie waarden die nodig zijn om het token te `clientId` genereren, zijn `clientSecret` , en `tenantId` . De resourceparameter moet worden ingesteld op `https://api.partnercenter.microsoft.com`
 
@@ -55,16 +55,16 @@ curl --location --request POST 'https://login.microsoftonline.com/<tenantId>/oau
 }
 ```
 
-Zie Toegang tot analytische gegevens met Store-services voor meer informatie over het verkrijgen van een Azure AD-token voor [uw toepassing.](/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-2-obtain-an-azure-ad-access-token)
+Zie Analytics-gegevens openen met Store-services voor meer informatie over het verkrijgen van een Azure AD-token [voor uw toepassing.](/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-2-obtain-an-azure-ad-access-token)
 
 ## <a name="programmatic-api-call"></a>Programmatische API-aanroep
 
-Nadat u het AAD-token hebt ontvangen zoals beschreven in de vorige sectie, volgt u deze stappen om uw eerste programmatisch toegangsrapport te maken.
+Nadat u het AAD-token hebt ontvangen, zoals beschreven in de vorige sectie, volgt u deze stappen om uw eerste programmatisch toegangsrapport te maken.
 
 Gegevens kunnen worden gedownload uit de volgende gegevenssets (datasetName):
 
 - CustomersAndTenants
-- SeatsSubscriptionsAndRevenue
+- SeatsAbonnementenAndRevenue
 - AzureUsage
 - MSLearn
 - OfficeUsage
@@ -328,9 +328,9 @@ curl
 }
 ```
 
-Bij een geslaagde uitvoering wordt `reportId` een gegenereerd die moet worden gebruikt om een download van het rapport te plannen.
+Bij een geslaagde uitvoering wordt een gegenereerd die moet worden gebruikt `reportId` om een download van het rapport te plannen.
 
-### <a name="step-5-execute-report-executions-api"></a>Stap 5: API voor het uitvoeren van rapportuitvoeringen
+### <a name="step-5-execute-report-executions-api"></a>Stap 5: API voor rapportuitvoeringen uitvoeren
 
 In deze stap gebruiken we de API voor rapportuitvoeringen om de beveiligde locatie (URL) van het rapport op te halen.
 

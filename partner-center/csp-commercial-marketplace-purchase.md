@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Meer informatie over hoe CSP-programmapartners de Partner Center marketplace kunnen gebruiken om klantaankopen te doen van SaaS-aanbiedingen van ISV's (Independent Software Vendors).
+description: Meer informatie over hoe CSP-programmapartners de Partner Center marketplace kunnen gebruiken om klantaankopen te doen van SaaS-aanbiedingen van ONAFHANKELIJKE softwareleveranciers (ISV's).
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2984dbb3a02df91d5a2a284182476bf348a24f47
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2dc3f02a84ff325f0aa785f414e263c505599ede2067b0edea5bf789a228a47b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837659"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681923"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Commerciële marketplace-producten kopen voor uw klanten in Partner Center
 

@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eea221af22e9bd7aa684bc5120b0799f083f8663
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: dd50b12bdffd9594367e699e9ee044306a226736f669366e2fae9ac94c338da2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836097"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681396"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Uw zakelijke gegevens weergeven met de Partner Center Analytics-app voor Microsoft Power BI
 
@@ -29,7 +29,7 @@ Een visuele weergave van uw zakelijke gegevens krijgen met de Partner Center Ana
 
 - Groei van uw klantenbestand, abonnementen en licenties
 
-- Gebruik van Office 365-, Microsoft Dynamics- en Microsoft Azure-producten
+- Gebruik van Office 365-, Microsoft Dynamics- en Microsoft Azure producten
 
 - Dagelijkse verbruikseenheden voor elke resource naar gebruik in elk Azure-abonnement voor de afgelopen 60 dagen
 
@@ -43,7 +43,7 @@ Een visuele weergave van uw zakelijke gegevens krijgen met de Partner Center Ana
 
 - Geschatte kosten zijn facturerings-/factuurgegevens vóór belasting en zijn niet juridisch binding. Geschatte kosten zijn alleen bedoeld om te worden gebruikt voor gegevensinzichten.
 
-- Klantgegevens zijn gebaseerd op abonnementen. Alle klanten voor wie u onlangs accounts hebt gemaakt, maar die nog geen abonnementen hebben, worden niet opgenomen in tellingen.
+- Klantgegevens zijn gebaseerd op abonnementen. Klanten voor wie u onlangs accounts hebt gemaakt, maar die nog geen abonnementen hebben, worden niet opgenomen in tellingen.
 
 - Geschatte kosten zijn gebaseerd op de meest recente tariefkaart, die is gebaseerd op CSP-prijzen.
 
@@ -55,15 +55,15 @@ Een visuele weergave van uw zakelijke gegevens krijgen met de Partner Center Ana
 
 - **Nieuw (afgelopen 30 dagen)**: Nieuwe klanten hebben in de afgelopen 30 dagen ten minste één abonnement kopen
 
-- **Verloop (afgelopen 30 dagen)**: Klanten zonder een abonnement dat 'actief' of 'in respijt' of 'uitgeschakeld' is
+- **Verloop (afgelopen 30 dagen)**: Klanten zonder actieve, in respijtperiode of uitgeschakelde abonnementen
 
 - **Nieuw (afgelopen 24 uur)**: Nieuwe klanten hebben in de afgelopen 24 uur ten minste één abonnement kopen
 
 - **Geschatte maandelijkse kosten in** de afgelopen 12 maanden: Trend in maand ten opzichte van het geschatte bedrag aan facturen vóór belasting dat maandelijks is samengevoegd in de afgelopen 12 maanden
 
-- **Geschatte kosten per product in** de afgelopen 12 maanden: verkochte producten gesorteerd op geschatte factuurbedrag vóór belasting, geaggregeerd in de periode van de afgelopen 12 maanden. Deze status geeft aan dat de belangrijkste producten de meeste omzet opleveren.
+- Geschatte kosten per product in de afgelopen **12 maanden:** verkochte producten gesorteerd op geschatte factuurbedrag vóór belasting, geaggregeerd in de periode van de afgelopen 12 maanden. Deze status geeft aan dat de belangrijkste producten de meeste omzet opleveren.
 
-- **Klanten in de afgelopen 12** maanden: trend van nieuwe klanten en verloopklanten gedurende maand gedurende de afgelopen 12 maanden
+- **Klanten in de afgelopen 12 maanden:** de trend van nieuwe klanten en verloopklanten per maand gedurende de afgelopen 12 maanden
 
 - **Geschatte kosten per klant in** de afgelopen 12 maanden: Klanten gesorteerd op geschatte factuurbedrag vóór belasting, geaggregeerd in de afgelopen 12 maanden. Deze status geeft aan dat de belangrijkste klanten de meeste omzet genereren.
 

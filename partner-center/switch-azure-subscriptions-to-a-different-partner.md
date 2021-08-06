@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/21/2021
-ms.openlocfilehash: c1bc82e852c6777bc9e8c01a33b0976269e31b2f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: cac2d1443fd47f45a70729bf034e65f33861e73698633938ae196e274f4a382b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843592"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681379"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Meer informatie over het overdragen van Azure-abonnementen van een klant naar een andere partner
 
@@ -26,7 +26,7 @@ In dit artikel wordt beschreven hoe een klant zijn Microsoft Azure-services kan 
 
 Na fase 1 van de wijzigingen die we aanbrengen in de vorige [Azure-aanbieding in CSP,](https://go.microsoft.com/fwlink/p/?linkid=2164140)kan de partner voor alle bestaande resellerrelaties tussen partners en klanten in het CSP-programma doorgaan met het uitvoeren van de vorige Azure-aanbieding (MS-AZR-0145p) als de klant deze al heeft aangeschaft. Voor alle bestaande resellerrelaties tussen partners en klanten kan de partner alleen de nieuwe Azure-aanbieding uitvoeren als de klant de vorige Azure-aanbieding niet eerder heeft gekocht.
 
-- Als zowel de huidige als de toekomstige partner actieve vorige **Azure-aanbiedingsabonnementen** met een klant heeft, blijven de vorige Overdrachten van Azure-aanbieding (MS-AZR-0145p) die in dit document worden beschreven tussen de huidige en toekomstige partner beschikbaar na fase 1, zolang beide partners actieve abonnementen van eerdere Azure-aanbiedingsabonnementen onderhouden. Deze overdrachtsmogelijkheid zou eindigen wanneer een toekomstige partner geen actieve abonnementen meer heeft op eerdere Azure-aanbiedingsabonnementen of wanneer de vorige Azure-aanbieding (MS-AZR-0145p) in CSP definitief in fase 3 wordt ingetrokken.
+- Als zowel de huidige als de toekomstige partner actieve vorige **Azure-aanbiedingsabonnementen** met een klant heeft, blijven de vorige Overdrachten van Azure-aanbieding (MS-AZR-0145p) die in dit document worden beschreven tussen de huidige en toekomstige partner beschikbaar na fase 1, zolang beide partners actieve abonnementen op eerdere Azure-aanbiedingsabonnementen behouden. Deze overdrachtsmogelijkheid zou eindigen wanneer een toekomstige partner geen actieve abonnementen meer heeft op eerdere Azure-aanbiedingsabonnementen of wanneer de vorige Azure-aanbieding (MS-AZR-0145p) in CSP definitief in fase 3 wordt ingetrokken.
 
    > [!NOTE]
    > Er zijn geen geautomatiseerde hulpprogramma's beschikbaar voor dit scenario en het onderstaande proces moet worden gebruikt.
@@ -37,7 +37,7 @@ Volg deze handmatige stappen om de Azure-services of -abonnementen van een klant
 
 > [!NOTE]  
 > Op dit moment kunnen alleen directe of indirecte providers abonnementen overdragen.
-> U kunt geen partners wijzigen voor Cloud Solution Provider die zijn gekoppeld aan een Azure-abonnement, Office 365, Enterprise Mobility Suite of Microsoft Dynamics CRM abonnementen.
+> U kunt partners niet wijzigen voor Cloud Solution Provider die zijn gekoppeld aan azure-abonnement, Office 365, Enterprise Mobility Suite of Microsoft Dynamics CRM abonnementen.
 
 ## <a name="transfer-azure-subscriptions-to-another-partner-with-the-previous-azure-offer"></a>Azure-abonnementen overdragen naar een andere partner met de vorige Azure-aanbieding
 

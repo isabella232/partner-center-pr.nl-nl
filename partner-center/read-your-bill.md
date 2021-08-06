@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 839f6f76e7efde4f0ad51375ceb5801f925c2510
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: bf75d847320e901638890bef8077a1656399d2ffc5aaaf984af329784d1de030
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842164"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678234"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Inzicht in uw factuur- en afstemmingsbestand - informatie over hoe u deze kunt vinden in Partner Center
 
@@ -22,7 +22,7 @@ ms.locfileid: "114842164"
 **Juiste rollen:** globale | Factureringsbeheerder | Beheeragent
 
 
-Uw **factuur** is een **overzicht van al uw Partner Center** kosten (voor het programma, alle producten en alle klanten). 
+Uw **factuur** is een **overzicht van al** uw Partner Center kosten (voor het hele programma, alle producten en alle klanten). 
 
 ## <a name="find-your-bill-and-reconciliation-file"></a>Uw factuur- en afstemmingsbestand zoeken 
 
@@ -40,7 +40,7 @@ Vorige facturen vindt u in de sectie Factureringsgeschiedenis. Kies het juiste j
 
 ## <a name="invoice-types"></a>Factuurtypen
 
-Microsoft zal één factuur uitgeven voor kosten op basis van licenties (zoals Office 365) en kosten op basis van gebruik (zoals Azure) en een afzonderlijke factuur voor een time-kosten (zoals Azure RI, Marketplace of Azure-plan).
+Microsoft geeft één factuur uit voor kosten op basis van licenties (zoals Office 365) en kosten op basis van gebruik (zoals Azure) en een afzonderlijke factuur voor een een time-kosten (zoals Azure RI, Marketplace of Azure-plan).
 
 Bijvoorbeeld:  
 
@@ -52,7 +52,7 @@ Bijvoorbeeld:
 
 - Partner ontvangt één PDF-factuur en één afstemmingsbestand voor de kosten voor Azure (145p). 
 
-- De partner ontvangt een ander PDF-factuurbestand en één afstemmingsbestand met de kosten voor gereserveerde Azure-instanties (RI), Marketplace, Azure-plan. 
+- Partner ontvangt een ander PDF-factuurbestand en één afstemmingsbestand met de kosten voor gereserveerde Azure-instanties (RI), Marketplace, Azure-plan. 
 
 **Scenario 3 [meerdere valuta's]**: De partner heeft aankopen voor Azure RI in DKK en een Azure-plan in EURO, samen met 145p-aankopen in EURO.
 
@@ -85,7 +85,7 @@ Hieronder vindt u enkele van de belangrijkste velden in het PDF-document voor fa
 
 **Betalingsinstructies:** beschrijving van het betalen van uw factuur, op basis van uw regio. Zorg er altijd voor dat u uw factuurnummer bij het doen van een betaling op uw factuur vermeldt. 
 
-Zie Velden voor factuurbestand voor een gedetailleerde beschrijving van alle velden in uw factuurbestand (inclusief velden voor [een een time-charges).](invoice-file.md) 
+Zie Velden voor factuurbestand voor een gedetailleerde beschrijving van alle velden in uw factuurbestand (inclusief velden voor een [een time-charges).](invoice-file.md) 
 
 ## <a name="understand-reconciliation-files"></a>Afstemmingsbestanden begrijpen
 
