@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f6c710675f659d25d42a1e858cee0d76952f1cf6
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 69f344da0fda9315c0e8cd2879795ba69488f9c286adb9cb90f057e8eed92aa9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843031"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682722"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Uw MPN-aanbiedingen voor competenties en geavanceerde specialisaties vernieuwen tijdens het verlengingsvenster
 
@@ -40,7 +40,7 @@ Wanneer u verlengt tijdens het verlengingsvenster, is uw nieuwe jubileumdatum 36
 
 4. Als u wilt profiteren van deze aanbieding, gaat u naar **Lidmaatschapsaanbiedingen.** Mogelijk moet u de competentiekosten betalen om het proces te voltooien, afhankelijk van uw competentie-aankoop of verlengingsstatus.
 
-Als u wilt profiteren van de extensie, moet u uw lidmaatschap hebben verplaatst van Partner Membership Center (PMC) naar Partner Center om uw competentie te vernieuwen en de kosten te betalen. Als u uw lidmaatschap nog niet hebt verplaatst, [kunt u meer informatie en](partner-membership-center-retirement-faq.md)de overgang    [vandaag](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   nog doen.  
+Als u wilt profiteren van de extensie, moet u uw lidmaatschap hebben verplaatst van Partner Membership Center (PMC) naar Partner Center om uw competentie te vernieuwen en de kosten te betalen. Als u uw lidmaatschap nog niet hebt verplaatst, kunt [u meer informatie en](partner-membership-center-retirement-faq.md)de overgang    [vandaag](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   nog doen.  
 
 ## <a name="next-steps"></a>Volgende stappen
 

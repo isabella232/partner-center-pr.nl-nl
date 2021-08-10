@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 95a201c53fc2eaf230d08bb4cfdd03a5747b5c05
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7b022e51c99bffbdca085da317a963a9e051e14bd58211b0592b0da154554f04
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838475"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690372"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Windows Autopilot-profielen gebruiken op nieuwe apparaten om de kant-en-klaar-ervaring van een klant aan te passen
 
@@ -37,13 +37,13 @@ Met de Windows Autopilot-functie in Partner Center kunt u aangepaste profielen m
 
 - Privacy-instellingen overslaan. Met deze optionele Autopilot-profielinstelling kunnen organisaties tijdens het OOBE-proces geen vragen stellen over privacy-instellingen.
 
-- Het maken van lokale beheerdersaccounts op het apparaat uitschakelen. Organisaties kunnen bepalen of de gebruiker die het apparaat instel, beheerderstoegang moet hebben zodra het proces is voltooid.
+- Schakel het maken van lokale beheerdersaccounts op het apparaat uit. Organisaties kunnen bepalen of de gebruiker die het apparaat instel, beheerderstoegang moet hebben zodra het proces is voltooid.
 
 - Apparaat automatisch instellen voor werk of school. Alle apparaten die zijn geregistreerd bij Autopilot worden automatisch beschouwd als werk- of schoolapparaten. Deze vraag wordt dus niet gesteld tijdens het OOBE-proces.
 
 - Sla Cortana pagina'OneDrive oem-registratie over. Alle apparaten die zijn geregistreerd bij Autopilot slaan deze pagina's automatisch over tijdens het OOBE-proces (Out-Of-Box Experience).
 
-- Gebruikersinterfaceovereenkomst (EULA) overslaan. Vanaf Windows 10 versie 1709 kunnen organisaties besluiten om de pagina eula over te slaan die tijdens het OOBE-proces wordt gepresenteerd. Zie [Windows Autopilot EULA](#windows-autopilot-eula-dismissal) hieronder voor belangrijke informatie over het overslaan van de eula-pagina tijdens het Windows installatie.
+- Sla de gebruikersinterface (EULA) over. Vanaf Windows 10 versie 1709 kunnen organisaties besluiten om de pagina eula over te slaan die tijdens het OOBE-proces wordt gepresenteerd. Zie [Windows Autopilot EULA](#windows-autopilot-eula-dismissal) hieronder voor belangrijke informatie over het overslaan van de eula-pagina tijdens het Windows installatie.
 
 De volgende profiel- en apparaatbeheermachtigingen en -beperkingen zijn van toepassing:
 
@@ -55,7 +55,7 @@ De volgende profiel- en apparaatbeheermachtigingen en -beperkingen zijn van toep
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Autopilot-profielen maken en beheren in Partner Center
 
-In Partner Center kunt u een autopilot-Windows maken en toepassen op apparaten.
+In Partner Center kunt u autopilot-Windows maken en toepassen op apparaten.
 
 >[!NOTE]
 >Alleen beheerders kunnen profielen maken en toepassen.
@@ -94,7 +94,7 @@ Nadat u een Autopilot-profiel voor een klant hebt gemaakt, kunt u dit toepassen 
 
 2. Selecteer apparaten op de detailpagina van **de klant.**
 
-3. Selecteer **onder Profielen toepassen op apparaten** de apparaten of apparaatgroepen aan wie u profielen wilt toevoegen en selecteer vervolgens Profiel **toepassen.** Het profiel dat u zojuist hebt toegepast, wordt weergegeven in de **kolom** Profiel.
+3. Selecteer **onder Profielen toepassen op apparaten** de apparaten of apparaatgroepen aan wie u profielen wilt toevoegen en selecteer vervolgens Profiel **toepassen.** Het profiel dat u zojuist hebt toegepast, wordt weergegeven in **de kolom** Profiel.
 
 4. Volg de onderstaande stappen om te controleren of het profiel wordt toegepast op het apparaat.
 
@@ -113,7 +113,7 @@ Nadat u een Autopilot-profiel voor een klant hebt gemaakt, kunt u dit toepassen 
 3. Selecteer **onder Profielen toepassen op apparaten** de apparaten waar u het profiel uit wilt verwijderen en selecteer vervolgens Profiel **verwijderen.**
 
    >[!NOTE]
-   >Als u een profiel van een apparaat verwijdert, wordt het profiel niet uit uw lijst verwijderd. Als u een profiel wilt verwijderen, volgt u de instructies in [Een Autopilot-profiel bijwerken](#update-or-delete-an-autopilot-profile)of verwijderen.
+   >Als u een profiel van een apparaat verwijdert, wordt het profiel niet uit uw lijst verwijderd. Als u een profiel wilt verwijderen, volgt u de instructies in [Een Autopilot-profiel bijwerken of verwijderen.](#update-or-delete-an-autopilot-profile)
 
 ### <a name="update-or-delete-an-autopilot-profile"></a>Een Autopilot-profiel bijwerken of verwijderen
 
@@ -138,7 +138,7 @@ Voordat u aangepaste Autopilot-profielen kunt toepassen op apparaten van klanten
 
 Als u van plan bent om de combinatie van OEM-naam, serienummer en model te gebruiken, moet u rekening houden met de volgende beperkingen:
 
-- Deze tuple werkt alleen voor nieuwere apparaten (bijvoorbeeld 4k-hashes) en wordt niet ondersteund voor 128b-hashes (RS2 en eerdere apparaten).
+- Deze tuple werkt alleen voor nieuwere apparaten (bijvoorbeeld 4.000 hashes) en wordt niet ondersteund voor 128b-hashes (RS2 en eerdere apparaten).
 
 - De tuple-registratie is casegevoelig, dus de gegevens in  het bestand moeten exact overeenkomen met de namen van het model en de fabrikant, zoals opgegeven door de OEM-provider (hardwareprovider).
 
@@ -181,10 +181,10 @@ Install-Script -Name Get-WindowsAutoPilotInfo
 Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 </code></pre>
 
-## <a name="windows-autopilot-eula-dismissal"></a>Windows Autopilot EULA-lidmaatschap
+## <a name="windows-autopilot-eula-dismissal"></a>Windows Autopilot EULA-afzetting
 
 ### <a name="important-information"></a>BELANGRIJKE INFORMATIE
 
-Windows Met Autopilot kunt u aangepaste installaties van Windows op apparaten die u voor uw klanten beheert. Als de klant gemachtigd is om dit te doen, kunt u bepaalde instelschermen onderdrukken of verbergen die normaal gesproken aan gebruikers worden gepresenteerd bij het instellen van Windows, met inbegrip van het acceptatiescherm voor de gebruikersinterface (gebruikersinterfaceovereenkomst).
+Windows Met Autopilot kunt u aangepaste installaties van Windows op apparaten die u voor uw klanten beheert. Als de klant gemachtigd is om dit te doen, kunt u bepaalde instelschermen onderdrukken of verbergen die normaal gesproken aan gebruikers worden gepresenteerd bij het instellen van Windows, met inbegrip van het acceptatiescherm van de gebruikersinterface (Gebruikslicentieovereenkomst).
 
-Met deze functie gaat u ermee akkoord dat het onderdrukken of verbergen van schermen die zijn ontworpen om gebruikers te voorzien van kennisgeving of acceptatie van voorwaarden, betekent dat u voldoende toestemming en autorisatie van uw klant hebt verkregen om voorwaarden te verbergen en dat u namens uw klant (ongeacht of het om een organisatie of een afzonderlijke gebruiker gaat) , toestemming geven voor eventuele kennisgevingen en alle voorwaarden accepteren die van toepassing zijn op uw klant. Dit omvat een overeenkomst met de voorwaarden van de licentie of kennisgeving die aan de gebruiker wordt gepresenteerd als u deze niet onderdrukt of verbergt met behulp van dit hulpprogramma. Uw klant mag de Windows-software op deze apparaten niet gebruiken als de klant geen geldige licentie voor de software heeft verkregen van Microsoft of zijn gelicentieerde distributeurs.
+Met deze functie gaat u ermee akkoord dat het onderdrukken of verbergen van schermen die zijn ontworpen om gebruikers te voorzien van kennisgeving of acceptatie van voorwaarden betekent dat u voldoende toestemming en autorisatie hebt verkregen van uw klant om voorwaarden te verbergen, en dat u namens uw klant (ongeacht of het om een organisatie of een afzonderlijke gebruiker gaat) , accepteer alle kennisgevingen en accepteer de voorwaarden die van toepassing zijn op uw klant. Dit omvat overeenkomst met de voorwaarden van de licentie of kennisgeving die aan de gebruiker zou worden gepresenteerd als u deze niet onderdrukt of verbergt met behulp van dit hulpprogramma. Uw klant mag de Windows-software op deze apparaten niet gebruiken als de klant geen geldige licentie voor de software heeft verkregen van Microsoft of zijn gelicentieerde distributeurs.

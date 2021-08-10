@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/29/2021
-ms.openlocfilehash: a42269dfac07ccc49f72dce7a6e8259ade3d546e
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 5c5c1565f8e1f2703e82bd75881e9920a1fc71d611d78ef282f771cfb30fcd00
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433789"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688366"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Een SaaS-aanbieding kopen in Azure Portal
 
@@ -56,7 +56,7 @@ De gefilterde weergave toont elke beschikbare SaaS-aanbieding die wordt vertegen
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Beschikbare factureringsmodellen (abonnementen/SKU's) voor SaaS-aanbiedingen
 
-Elke SaaS-aanbieding heeft een of meer plannen. Aan elke aanbieding is een prijsmodel gekoppeld: vast tarief of per gebruiker. Elke abonnementsprijs is terugkerende kosten, die nul dollar kunnen zijn (alle vermelde prijzen zijn alleen bedoeld als voorbeeld en zijn niet bedoeld om de werkelijke kosten weer te geven). Deze kosten zijn vast tarief of prijs per gebruiker. Beschikbare typen abonnementen:
+Elke SaaS-aanbieding heeft een of meer plannen. Aan elke aanbieding is een prijsmodel gekoppeld: vast tarief of per gebruiker. Elke abonnementsprijs is terugkerende kosten, die nul dollar kunnen zijn (alle vermelde prijzen zijn alleen bedoeld voor voorbeelddoeleinden en zijn niet bedoeld om de werkelijke kosten weer te geven). Deze kosten zijn vast tarief of prijs per gebruiker. Beschikbare typen abonnementen:
 
 - **Maandelijkse abonnementen:** terugkerende maandelijkse kosten; vast of per gebruiker, maandelijkse kosten die worden betaald op basis van een maandelijks terugkeerpatroon. Wanneer de termijn is beëindigd, wordt het plan automatisch vernieuwd.
 - **Jaarlijkse abonnementen:** terugkerende jaarlijkse kosten; vaste of jaarlijkse kosten per gebruiker die worden betaald op basis van een jaarlijks terugkeerpatroon. Wanneer de termijn is beëindigd, wordt het plan automatisch vernieuwd.
@@ -69,10 +69,10 @@ Deze prijsmodellen zijn beschikbaar voor openbare en persoonlijke abonnementen.
 
 1. Selecteer op de productpagina een plan dat aan uw behoeften voldoet en ga door **met instellen en abonneren**
 2. Als onderdeel van het aankoopproces wordt u  omgeleid naar het tabblad Basisinformatie en moet u het volgende doen:
-    1. *Definieer* welk abonnement u wilt gebruiken voor facturering. Voor het Azure-abonnement dat u gebruikt, moet een geldige aankoopmethode zijn gedefinieerd. U moet het juiste machtigingsniveau hebben of een resourcegroep onder dat abonnement hebben met het juiste machtigingsniveau. Het land van facturering moet ook een land zijn waar de aanbieding kan worden gekocht. Azure-abonnementen zonder geldige betalingswijze (bijvoorbeeld een MSDN-abonnement) kunnen alleen worden gebruikt om gratis abonnementen aan te schaffen
+    1. *Definieer* welk abonnement u wilt gebruiken voor facturering. Voor het Azure-abonnement dat u gebruikt, moet een geldige aankoopmethode zijn gedefinieerd. U moet het juiste machtigingsniveau hebben of een resourcegroep onder dat abonnement hebben met het juiste machtigingsniveau. Het land van facturering moet ook een land zijn waar de aanbieding kan worden gekocht. Azure-abonnementen zonder geldige betalingswijze (bijvoorbeeld een MSDN-abonnement) kunnen alleen worden gebruikt om gratis abonnementen te kopen
     1. Kies of maak een **resourcegroep waarvan* de SaaS-resource deel zal uitmaken.
-    1. Typ een *naam voor* het SaaS-abonnement om dit later gemakkelijk te kunnen identificeren. Na aanschaf kunt u de naam niet meer wijzigen.
-    1. Onder **Plan** ziet u het abonnement dat u hebt geselecteerd op de pagina met productdetails (PDP). Als u nog geen actieve selectie hebt gemaakt in de PDP, ziet u het standaardplan. U kunt uw selectie wijzigen door de koppeling **Plan wijzigen te** selecteren. Selecteer de relevante factureringsperiode en kies vervolgens een ander abonnement. Mogelijk kunt u het abonnement na de aankoop wijzigen als de uitgever dit ondersteunt. U kunt de termijn echter niet wijzigen van maandelijks in jaarlijks of van jaarlijks in maandelijks.
+    1. Typ een *naam voor* het SaaS-abonnement om dit later gemakkelijk te identificeren. Na aanschaf kunt u de naam niet meer wijzigen.
+    1. Onder **Plan** ziet u het abonnement dat u hebt geselecteerd op de pagina met productdetails (PDP). Als u nog geen actieve selectie hebt gemaakt in de PDP, ziet u het standaardplan. U kunt uw selectie wijzigen door de koppeling **Plan wijzigen te** selecteren. Selecteer de relevante factureringsperiode en kies vervolgens een ander abonnement. Mogelijk kunt u het plan na de aankoop wijzigen als de uitgever dit ondersteunt. U kunt de termijn echter niet wijzigen van maandelijks in jaarlijks of van jaarlijks in maandelijks.
     1. Als het prijsmodel per gebruiker *is,* moet u mogelijk het aantal gebruikers *opgeven.* De prijs die u ziet, wordt gewijzigd op basis van het abonnement, het abonnement en de periode die u hebt geselecteerd.
 3. Ga door **naar het** tabblad *Tags: tags* zijn door de gebruiker gedefinieerde sleutel-waardeparen, die rechtstreeks op een resource of resourcegroep kunnen worden geplaatst. U kunt tags gebruiken om uw SaaS-resource later gemakkelijk te vinden. Azure ondersteunt momenteel maximaal 50 tags per resource en resourcegroep. Tags kunnen worden geplaatst op een resource op het moment dat deze wordt gemaakt of worden toegevoegd aan een bestaande resource.
 4. Ga door **naar Beoordelen en abonneren om** de details van de aanbieding en het abonnement te bekijken.
@@ -98,7 +98,7 @@ Foutberichten die u tijdens het proces tegenkomt:
 - De *abonnementsnaam van het geselecteerde abonnement kan* niet worden gekocht in een gratis abonnement
   - Upgrade uw account. Zie https://aka.ms/UpgradeFreeSub voor meer informatie.
 
-- De aankoop is mislukt omdat er geen geldige creditcard is gevonden, noch een betalingswijze die is gekoppeld aan uw Azure-abonnement.
+- De aankoop is mislukt omdat er geen geldige creditcard is gevonden en er geen betalingswijze is gekoppeld aan uw Azure-abonnement.
   - Gebruik een ander Azure-abonnement of voeg de huidige creditcard of betalingswijze toe voor dit abonnement en doe het opnieuw.
 
 - De *abonnementsnaam van het abonnement dat* door de uitgever van de aanbieding is geselecteerd, is niet beschikbaar voor aankoop volgens de regels die zijn ingesteld door uw IT-beheerder.  
@@ -116,7 +116,7 @@ Foutberichten die u tijdens het proces tegenkomt:
 - De aankoop van *offerID by* publisher *publisherID* is mislukt. Deze aanbieding is momenteel niet beschikbaar voor aankoop.
   - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, neem dan contact op met de ondersteuning.  
 
-- De aankoop van plan *planID* van *aanbieding offerID* per uitgever *publisherID* is mislukt. Dit abonnement is momenteel niet beschikbaar voor aankoop.
+- De aankoop van plan *planID* van *offerID* van aanbieding door uitgever *publisherID* is mislukt. Dit abonnement is momenteel niet beschikbaar voor aankoop.
   - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, neem dan contact op met de ondersteuning. 
 
 - Het *e-mailadres van de* client met object-id *ObjectID* is niet autorisatie om de actie *DeploymentValidationAction* uit te voeren via scope *ResourceGroup; DeploymentScope* of het bereik is ongeldig.  

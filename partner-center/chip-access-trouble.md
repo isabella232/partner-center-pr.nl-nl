@@ -9,25 +9,25 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 8808460154d9031c522befb0798fd7dfe6814123b63cc26e9ecb97f678cabbea
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149057"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682415"
 ---
 # <a name="troubleshoot-issues-with-accessing-chip"></a>Problemen met toegang tot CHIP oplossen
 
 **Juiste rollen:** primaire contactpersoon of programmabeheerder
 
 >[!NOTE]
->Het CHIP-platform wordt eind 2021 in gebruik genomen.
+>Het CHIP-platform wordt eind 2021 uit gebruik genomen.
 
 Als u niet de primaire contactpersoon of PPA (Primary Program Administrator) bent, neem dan contact op met uw primaire contactpersoon of PPA (Primaire programmabeheerder) voor toegang. Als u de huidige PPA bent, moet u ervoor zorgen dat uw bedrijf is geregistreerd en geregistreerd omdat uw toegang is gekoppeld aan uw bedrijfsstatus.
 
 Als u de primaire contactpersoon of PPA (Primary Program Administrator) bent, moet u toegang hebben tot CHIP omdat alle meldingen voor registratie worden verzonden naar de huidige primaire contactpersoon of PPA (Primary Program Administrator). Deze toegang wordt voortgezet voor elke periode na de initiële registratieperiode.
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Stappen voor probleemoplossing om u te helpen bij het openen van CHIP als u eerder toegang had
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Stappen voor probleemoplossing om te helpen bij het openen van CHIP als u eerder toegang had
 
 1. Alle cookies verwijderen en CHIP openen in een privébrowser.
 1. Selecteer **Compatibiliteitsweergave Instellingen** in uw browser. CHIP moet al worden vermeld onder Microsoft.com, anders voegt u de website toe.

@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c382f9453f2b491de48e6cdb68dcdac82e4486ea
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 476f14dff2a45688d73996c9df94e94a0a21996d04152713ffea46d5370b9a5a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840991"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688876"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Grow your business with referrals from Microsoft (Uw bedrijf laten groeien met verwijzingen van Microsoft)
 

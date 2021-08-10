@@ -3,20 +3,20 @@ metadata:
   title: Veelgestelde vragen over Solution Assessment Incentives
   ms.topic: how-to
   ms.date: 11/09/2020
-  description: Meer informatie over antwoorden op veelgestelde vragen over Solution Assessment in het Channel Incentives Platform (CHIP).
+  description: Meer informatie over veelgestelde vragen over Solution Assessment in het Channel Incentives Platform (CHIP).
   ms.service: partner-dashboard
   ms.subservice: partnercenter-incentives
   author: Karthic83
   ms.author: kashanum
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
-  ms.sourcegitcommit: 0b6e24e54faf9ccd05d11e673bbd9add27c82567
+  ms.openlocfilehash: 81b8a8981233179e03733047552049dc0afd0627ee5bca3e74702e9b2df54bec
+  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/13/2021
-  ms.locfileid: "113658018"
-title: Veelgestelde vragen over Solution Assessment Incentives voor het Channel Incentives Platform (CHIP)
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "115682399"
+title: Veelgestelde vragen over Solution Assessment-incentives voor chip (Channel Incentives Platform)
 summary: >
   **Juiste rollen:** primaire contactpersoon of programmabeheerder
 
@@ -27,43 +27,43 @@ sections:
   questions:
   - question: >
       Wat zijn de geschiktheidsvereisten voor het Solution Assessment Incentive-programma?
-    answer: "Partners met een actieve en geregistreerde status in het Solution Assessment Incentive Program in FY20 komen nog steeds in aanmerking voor incentives in FY21 als ze een actief MPN-lidmaatschap en een actieve Silver- of Gold MPN-competentie hebben. Partnerkwalificaties worden jaarlijks beoordeeld op geschiktheid.  Als bestaande partners niet voldoen aan de vereisten voor geschiktheid en deelname in het huidige jaar, worden ze verwijderd in de volgende jaarlijkse beoordeling.  Alle nieuwe partners worden onboarding uitgevoerd via de lokale Solution Assessment Specialist (SAS) in hun gebied.  De SAS identificeert de partners die moeten worden onboarding op basis van de overeenkomende vaardigheden en expertise in het partnerbedrijf en de bedrijfsbehoeften van de dochterondernemingen die worden ondersteund door de SAS.\nVoordat ze het onboardingproces starten, moeten partners met de SAS bespreken wat de mogelijkheden zijn die hun bedrijf heeft bij het ondersteunen van evaluaties in hun eigen land. \n\nPartners die momenteel niet zijn ingeschreven in het incentive-programma, moeten voldoen aan de onderstaande FY21-incentivecriteria om in aanmerking te komen voor onboarding van Solution Assessment Incentive. Lees Geschiktheid voor [Solution Assessment voor meer informatie.](chip-solutions-assessment-eligible.md)\n"
+    answer: "Partners met een actieve en geregistreerde status in het Solution Assessment Incentive Program in FY20 komen nog steeds in aanmerking voor incentives in FY21 als ze een actief MPN-lidmaatschap en een actieve Silver- of Gold MPN-competentie hebben. Partnerkwalificaties worden jaarlijks beoordeeld op geschiktheid.  Als bestaande partners in het huidige jaar niet voldoen aan geschiktheids- en deelnamevereisten, worden ze verwijderd in de volgende jaarlijkse beoordeling.  Alle nieuwe partners worden onboarding uitgevoerd via de lokale Solution Assessment Specialist (SAS) in hun gebied.  De SAS identificeert de partners die moeten worden onboarding op basis van de overeenkomende vaardigheden en expertise in het partnerbedrijf en de bedrijfsbehoeften van de dochterondernemingen die worden ondersteund door de SAS.\nVoordat partners het onboardingproces starten, moeten ze met de SAS bespreken wat de mogelijkheden zijn die hun bedrijf heeft bij het ondersteunen van evaluaties in hun eigen land. \n\nPartners die momenteel niet zijn ingeschreven bij het incentive-programma, moeten voldoen aan de onderstaande FY21-incentivecriteria om in aanmerking te komen voor onboarding van Solution Assessment Incentive. Lees Geschiktheid [voor Oplossingsevaluatie voor meer informatie.](chip-solutions-assessment-eligible.md)\n"
   - question: >
       Hoe kan ik registreren voor het Solution Assessments Incentive-programma?
     answer: >
       Neem contact op met uw lokale Solution Assessment Specialist (SAS) om het proces te starten.
   - question: >
-      Hoe kan ik bank en belastinggegevens indienen?
+      Hoe kan ik ik mijn bank- en belastinggegevens in?
     answer: >
       Lees [Navigeren door de CHIP](chip-intro.md) voor stapsgewijs instructies voor het indienen van uw bank- en belastingprofielen.
   - question: >
-      Mijn dealstatus is goedgekeurd in CHIP. Waarom is deze nog niet betaald?
+      De status van mijn deal is goedgekeurd in CHIP. Waarom is deze nog niet betaald?
     answer: >
-      Naast de status van de deal moet de STATUS VAN DEE OOK worden goedgekeurd in CHIP voordat de mogelijkheid kan worden verzonden voor betaling. Bekijk uw kans in CHIP om ervoor te zorgen dat POE is geüpload en goedgekeurd door het POE-validatieteam in CHIP. Als u de STATUS van de POE wilt weergeven, meld u zich aan bij CHIP en **selecteert u Zoekdeals** in **het...** te openen. Voer de id **van de kans in** en selecteer **Zoeken.** Selecteer in de zoekresultaten de hyperlink 'Bewerken' onder POE. Blader op de resulterende pagina naar de sectie Controleren om de STATUS van de POE weer te geven. Bekijk ook het veld 'Opmerkingen' voor het geval het POE-team aanvullende informatie over de POE heeft aangevraagd.
+      Naast de status van de deal moet de STATUS VAN DEO ook worden goedgekeurd in CHIP voordat de mogelijkheid kan worden ingediend voor betaling. Bekijk uw kans in CHIP om ervoor te zorgen dat POE is geüpload en goedgekeurd door het POE-validatieteam in CHIP. Als u de STATUS van de POE wilt weergeven, meld u zich aan bij CHIP en **selecteert u Zoekdeals** in **de pagina I Need To...** te openen. Voer de id **van de kans in** en selecteer **Zoeken.** Selecteer in de zoekresultaten de hyperlink 'Bewerken' onder POE. Schuif op de resulterende pagina naar de sectie Controleren om de STATUS van de POE weer te geven. Bekijk ook het veld Opmerkingen voor het geval het POE-team aanvullende informatie over de POE heeft aangevraagd.
   - question: >
       Waarom heb ik geen betaling ontvangen voor Mijlpaal 1 voor mijn kans?
     answer: >
-      Vanaf 15 augustus 2020 wordt Mijlpaal 1 betaald op 0% van het goedgekeurde incentive-niveau en wordt Mijlpaal 2 betaald op 100% van het niveau van de incentive dat is goedgekeurd. Alle openstaande aan CHIP geregistreerde betrokkenheid vóór 15 augustus 2020 wordt nog steeds betaald volgens de FY20-richtlijnen. Bekijk de [Veelgestelde vragen van](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) partners voor richtlijnen over de wijzigingen in het mijlpaalproces.
+      Vanaf 15 augustus 2020 wordt Mijlpaal 1 betaald op 0% van het goedgekeurde incentive-niveau en wordt Mijlpaal 2 betaald op 100% van het niveau van de incentive dat is goedgekeurd. Alle open CHIP-geregistreerde overeenkomsten vóór 15 augustus 2020 worden nog steeds betaald volgens de FY20-richtlijnen. Lees de [Veelgestelde vragen van](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) partners voor richtlijnen over de wijzigingen in het mijlpaalproces.
   - question: >
       Hoe kan ik een kans of betaling betwisten die ik heb ontvangen?
     answer: >
       Neem contact op met uw SAS die hulp kan bieden bij deze aanvraag.
   - question: >
-      De mogelijkheid wordt gesloten in CHIP, waardoor ik geen PO kan uploaden. Wat kan ik doen om de kans te krijgen betaald?
+      De kans wordt gesloten in CHIP, waardoor ik geen PO kan uploaden. Wat kan ik doen om de kans te krijgen betaald?
     answer: >
-      Zodra een kans is gesloten, komt deze niet meer in aanmerking voor incentives. Contact op met uw SAS voor meer informatie.
+      Zodra een kans is gesloten, komt deze niet meer in aanmerking voor incentives. Contact op met uw SAS voor verdere richtlijnen.
   - question: >
       Hoe kan ik een nieuwe beheerder/gebruiker toevoegen aan CHIP?
     answer: >
-      De contactpersoon van de primaire partner (beheerder) is verantwoordelijk voor het uitnodigen van alle andere gebruikers in het bedrijf om zich in te schrijven voor CHIP. Ze zijn ook verantwoordelijk voor gebruikerstoegang, waaronder het deactiveren van gebruikers die het bedrijf verlaten. Lees de [Channel Incentives Platform Guide (Platformhandleiding voor Incentives voor kanalen).](chip-intro.md)
+      De contactpersoon van de primaire partner (beheerder) is verantwoordelijk voor het uitnodigen van alle andere gebruikers in het bedrijf om zich in te schrijven voor CHIP. Ze zijn ook verantwoordelijk voor gebruikerstoegang, waaronder het deactiveren van gebruikers die het bedrijf verlaten. Lees de [platformhandleiding voor Channel Incentives.](chip-intro.md)
   - question: >
       De primaire beheerder heeft ons bedrijf verlaten. Hoe wijzigen we mijn primaire beheerder in CHIP?
     answer: >
-      De primaire beheerder in CHIP moet de primaire partnercontact in MPN zijn. Zorg ervoor dat MPN is bijgewerkt met de nieuwe contactpersoon en neem contact op met uw regionale ondersteuningsteam om de wijziging in CHIP aan te vragen.
+      De primaire beheerder in CHIP moet de primaire contactpersoon van de partner in MPN zijn. Zorg ervoor dat MPN wordt bijgewerkt met de nieuwe contactpersoon en neem contact op met uw regionale ondersteuningsteam om de wijziging in CHIP aan te vragen.
 
 
-      Selecteer in Partner Center dashboard **ondersteuning** in het menu links. Selecteer **Incentives** als uw categorie of zoek de naam van uw programma in het gebied 'Door onderwerpen bladeren'.
+      Selecteer in Partner Center dashboard **ondersteuning** in het menu links. Selecteer **Incentives** als uw categorie of zoek de naam van uw programma in het gebied Door onderwerpen bladeren.
 
 
-      Als u de beschikbare onderwerpspecifieke Help hebt bekeken en u nog steeds hulp nodig hebt, kunt u een ticket maken via de optie Aanbevolen documenten - **Een ondersteuningsticket** maken.
-additionalContent: "\n## <a name=\"next-steps\"></a>Volgende stappen\n\n- [Navigeren in CHIP](chip-intro.md)"
+      Als u de beschikbare onderwerpspecifieke hulp hebt bekeken en u nog steeds hulp nodig hebt, kunt u een ticket maken via de optie Aanbevolen documenten – **Een ondersteuningsticket** maken.
+additionalContent: "\n## <a name=\"next-steps\"></a>Volgende stappen\n\n- [Navigeren door CHIP](chip-intro.md)"

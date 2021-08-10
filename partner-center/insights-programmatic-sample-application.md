@@ -8,16 +8,16 @@ description: Gebruik de voorbeeldtoepassing om uw eigen toepassing te bouwen om 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: cb2bc8be9ea49c0d75da4d78961865331ed908c9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c558852b7c2af7243187a856067d17a2137cfac867149b80e9c852a1d08d780a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845037"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683756"
 ---
 # <a name="sample-application"></a>Voorbeeldtoepassing
 
-Voorbeeldtoepassingen worden gemaakt in C#- en JAVA-talen en zijn beschikbaar op [GitHub](https://github.com/partneranalytics)
+Voorbeeldtoepassingen worden gemaakt in C# en JAVA en zijn beschikbaar op [GitHub](https://github.com/partneranalytics)
 
 - [C#-voorbeeldtoepassing](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN)
 - [JAVA-voorbeeldtoepassing](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)
@@ -43,7 +43,7 @@ git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
 ```
 
 > [!Note]
-> Raadpleeg het bestand ProgrammaticExportSampleAppMPN/README.md in de opslagplaats GitHub [lezen voor meer instructies.](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)
+> Raadpleeg het bestand ProgrammaticExportSampleAppMPN/README.md in de opslagplaats GitHub lezen voor [meer instructies.](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)
 
 - Als u de app snel wilt uitvoeren, moet u de client-id en het clientgeheim in de **appsettings.Development.jsop**
 
@@ -51,13 +51,13 @@ git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
 
 Als de app wordt uitgevoerd, wordt een lokale webserver geopend en wordt een pagina geopend ( `https://localhost:44365/ProgrammaticExportSampleApp/sample` ).
   
-:::image type="content" source="images/insights/prog-acc-sample-application.png" alt-text="De gebruikersinterface van een voorbeeldtoepassing illustreren":::
+:::image type="content" source="images/insights/prog-acc-sample-application.png" alt-text="De gebruikersinterface van de voorbeeldtoepassing illustreren":::
 
-Op deze pagina worden API-aanroepen naar de webserver uitgevoerd op de lokale computer, die op zijn beurt de api-aanroepen voor programmatische toegang maakt.
+Op deze pagina worden API-aanroepen naar de webserver uitgevoerd op de lokale computer, die op zijn beurt de werkelijke API-aanroepen voor programmatische toegang maakt.
 
 ## <a name="code-snippets"></a>Codefragmenten
 
-De basisstructuur van de C#-code voor het uitvoeren van api-aanroepen met programmatische toegang is als volgt:
+De basisstructuur van de C#-code voor het uitvoeren van api-aanroepen voor programmatische toegang is als volgt:
  
 :::image type="content" source="images/insights/prog-acc-code-snippet.png" alt-text="Codefragment illustreren":::
 

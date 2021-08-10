@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 08/03/2021
-ms.openlocfilehash: e8c594233ae078d40d934e3cc57341609b7a03ce
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: be0baf45c4261039e87d6fb33b6a8263598063279051fdf4b3f234b3a9b1dccb
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115117856"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688196"
 ---
 # <a name="august-2021-announcements"></a>Aankondigingen van augustus 2021
 
@@ -145,7 +145,7 @@ Voor sommige nieuw beschikbare Windows 365-aanbiedingen moet de partner bevestig
 
 Partners moeten hiermee akkoord gaan voordat ze deze aanschaffen.
 
-Attestation is van toepassing op zowel de Partner Center portal als de Partner Center API's bij het verzenden van orders en het uitchecken van winkelwagens. Partners kunnen bepalen welke aanbiedingen attestation vereisen door de AttestationProperties voor de [aanbieding](/partner-center/develop/offer-resources#attestationproperties) of [SKU-objecten te](/partner-center/develop/product-resources#attestationproperties) controleren. In deze eigenschappen wordt het attestation-type uitgelegd en wordt uitgelegd of de attestation wordt afgedwongen voor aankopen.
+Attestation is zowel van toepassing op Partner Center portal als Partner Center API's bij het verzenden van orders en het uitchecken van winkelwagens. Partners kunnen bepalen welke aanbiedingen attestation vereisen door de AttestationProperties voor de [aanbieding](/partner-center/develop/offer-resources#attestationproperties) of [SKU-objecten te](/partner-center/develop/product-resources#attestationproperties) controleren. In deze eigenschappen wordt het attestation-type uitgelegd en wordt uitgelegd of de attestation wordt afgedwongen voor aankopen.
 
 Hieronder vindt u aanbiedingen waarvoor momenteel attestation is vereist vóór de aankoop.
 
@@ -158,13 +158,13 @@ Hieronder vindt u aanbiedingen waarvoor momenteel attestation is vereist vóór 
 | Windows 365 Business 2 vCPU, 4 GB, 64 GB (met Windows Hybrid Benefit) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
 | Windows 365 Business 2 vCPU, 8 GB, 128 GB (met Windows Hybrid Benefit) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
 | Windows 365 Business 2 vCPU, 8 GB, 128 GB (met Windows Hybrid Benefit) Proefversie | d5623401-b8e0-429f-86df-29b6efdf4d95 |
-| Windows 365 Business 2 vCPU, 8 GB, 256 GB (Windows Hybrid Benefit) | 8fe4271f-c761-45f8-8261-5ab575195152 |
+| Windows 365 Business 2 vCPU, 8 GB, 256 GB (met Windows Hybrid Benefit) | 8fe4271f-c761-45f8-8261-5ab575195152 |
 | Windows 365 Business 4 vCPU, 16 GB, 128 GB (met Windows Hybrid Benefit) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
-| Windows 365 Business 4 vCPU, 16 GB, 128 GB (met Windows Hybrid Benefit) Proefversie | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
-| Windows 365 Business 4 vCPU, 16 GB, 256 GB (Windows Hybrid Benefit) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
+| Windows proefversie van 365 Business 4 vCPU, 16 GB, 128 GB (Windows Hybrid Benefit) | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
+| Windows 365 Business 4 vCPU, 16 GB, 256 GB (met Windows Hybrid Benefit) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
 | Windows 365 Business 4 vCPU, 16 GB, 512 GB (met Windows Hybrid Benefit) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
 | Windows 365 Business 8 vCPU, 32 GB, 128 GB (met Windows Hybrid Benefit) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
-| Windows 365 Business 8 vCPU, 32 GB, 256 GB (Windows Hybrid Benefit) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
+| Windows 365 Business 8 vCPU, 32 GB, 256 GB (met Windows Hybrid Benefit) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
 | Windows 365 Business 8 vCPU, 32 GB, 512 GB (met Windows Hybrid Benefit) | aca639ae-ae81-4298-a76a-094b6880913b |
 
 ### <a name="next-steps"></a>Volgende stappen
@@ -185,34 +185,34 @@ Microsoft brengt Windows naar de cloud met [Windows 365.](https://aka.ms/M365End
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep  
 
-Partners die het CSP-programma (Cloud Solution Provider) gebruiken
+Partners die het programma Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Details
 
-Microsoft kondigt met trots aan [dat Windows 365](https://aka.ms/M365EndpointPartner) nu beschikbaar is voor klanten om te kopen. Windows 365 is een cloudservice die een nieuwe manier biedt om ervaring op te doen met Windows 10 of Windows 11, door uw persoonlijke apps, instellingen en inhoud van de Microsoft-cloud naar elk apparaat te streamen.
+Microsoft kondigt met trots aan [dat Windows 365](https://aka.ms/M365EndpointPartner) nu beschikbaar is voor klanten om te kopen. Windows 365 is een cloudservice die een nieuwe manier biedt om Windows 10 of Windows 11 te gebruiken en uw persoonlijke apps, instellingen en inhoud van de Microsoft-cloud naar elk apparaat te streamen.
 
 Welkom bij uw Windows 365 Cloud PC:
 
-- **Gestreamd op meerdere apparaten:** U kunt direct opstarten naar uw cloud-pc en uw Windows naar elk van uw apparaten streamen.  
+- **Gestreamd op meerdere apparaten:** U kunt direct opstarten naar uw cloud-pc en uw Windows naar een van uw apparaten streamen.  
 
-- **Altijd gereed en bijgewerkt:** Gestreamd vanuit de cloud en met u meereist, Windows 365 is altijd gereed en altijd bijgewerkt, waar u ook bent, op elk apparaat waarop u wilt werken. Het is een eenvoudige en veelzijdige Windows door de Microsoft Cloud wordt geleverd.
+- **Altijd gereed en bijgewerkt:** Gestreamd vanuit de cloud en met u meereist, is Windows 365 altijd gereed en altijd bijgewerkt, waar u ook bent, op elk apparaat waarop u wilt werken. Het is een eenvoudige en veelzijdige Windows die wordt geleverd door de Microsoft-cloud.
 
 - **Persoonlijk en vertrouwd:** Windows 365 is gepersonaliseerd en vertrouwd met al uw instellingen en inhoud, dus wanneer u terug gaat naar uw cloud-pc, is dit precies waar u deze hebt gelaten.
 
-- **Schaalbaar en flexibel:** Windows 365 is veilig door het ontwerp, met behulp van de kracht van de cloud en de principes van Zero Trust. Informatie wordt beveiligd en opgeslagen in de cloud en niet op het apparaat.
+- **Schaalbaar en flexibel:** Windows 365 is veilig door het ontwerp, met de kracht van de cloud en de principes van Zero Trust. Informatie wordt beveiligd en opgeslagen in de cloud en niet op het apparaat.
 
-- **Voorspelbare kosten:** Windows 365 is het kopen van cloud-pc's voorspelbaar met prijzen per gebruiker per maand.
+- **Voorspelbare kosten:** Windows 365 maakt het kopen van cloud-pc's voorspelbaar met prijzen per gebruiker per maand.
 
 - **Eenvoudig te kopen, implementeren** en beheren: Windows 365 vereenvoudigt aanschaf, implementatie, beheer en updates, omdat in tegenstelling tot andere oplossingen virtualisatie achter de schermen wordt gebruikt.
 
-Windows 365 is beschikbaar voor klanten om aankopen te doen [via windows365.com,](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)de Enterprise Agreement of het CSP-programma.
+Windows 365 is beschikbaar voor klanten om te kopen [via windows365.com,](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)de Enterprise Agreement of het CSP-programma.
 
 ### <a name="next-steps"></a>Volgende stappen
 
 - Bekijk de [Windows 365 van](https://aka.ms/MSInspireBRK101) Microsoft Inspire.
 - Lees meer over Windows 365 via onze [blogpost](https://www.microsoft.com/microsoft-365/blog/?p=237041?).
-- Doe op 18 augustus mee voor een webinar over [go-to-market](https://aka.ms/Windows365PartnerWebinar) van partners voor meer informatie over de partnerkans met Windows 365.
-- Lees de informatie over dit onderwerp in de [Operations-resourcegalerie](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (aanmelden is vereist) op de website van de Microsoft-partner.
+- Doe op 18 augustus mee voor een webinar over [go-to-market](https://aka.ms/Windows365PartnerWebinar) voor partners voor meer informatie over de partnerkans met Windows 365.
+- Lees de informatie over dit onderwerp in de [Operations-resourcegalerie](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (aanmelden vereist) op de website van de Microsoft-partner.
 
 ### <a name="questions"></a>Vragen?
 
@@ -228,7 +228,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-De productlanceringsdatum van augustus 2021 is nu gepubliceerd.
+De kalender voor productlancering van augustus 2021 is nu gepubliceerd.
 
 ### <a name="categories"></a>Categorieën
 
@@ -237,11 +237,11 @@ De productlanceringsdatum van augustus 2021 is nu gepubliceerd.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
+Alle partners die het programma Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Details
 
-De kalender voor productlancering van augustus 2021 [](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) is nu beschikbaar in de resourcegalerie Operations-gereedheid. Bekijk hier de komende productlanceringen en aanbiedingen.
+De kalender voor productlancering [van](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) augustus 2021 is nu beschikbaar in de resourcegalerie Operations-gereedheid. Bekijk hier de komende productlanceringen en aanbiedingen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -249,4 +249,4 @@ Bekijk de [kalender voor productlancering](https://partner.microsoft.com/resourc
 
 ### <a name="questions"></a>Vragen?
 
-Als u meer vragen over deze aanbiedingen hebt, controleert u uw relevante Yammer community's.
+Raadpleeg uw relevante community's voor meer vragen over Yammer aanbiedingen.

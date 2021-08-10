@@ -9,38 +9,38 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b66c4cf8b199263c3869a4235c4ee3b16ee369c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f903bff3f38fb572f4e7e57cd1c737802505c9657aa32ec19790b67bbb085d35
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836690"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682892"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Veelgestelde vragen over partnertegoeden
 
-Juiste rollen: Globale | Gebruikersbeheerbeheerders | Beheeragent | Factureringsbeheerder | Verkoopagent
+Juiste rollen: Globale | Gebruikersbeheerbeheer | Beheeragent | Factureringsbeheerders | Verkoopagent
 
 Hieronder volgt een lijst met veelgestelde vragen over partnertegoeden.
 
 ## <a name="how-much-is-pec"></a>Hoeveel is PEC?
 
-Het bedrag dat partners voor PEC verdienen, varieert (zie [Berekening](partner-earned-credit-explanation.md#calculation)). Het tarief vindt u op de pagina prijslijst in Partner Center.
+Het bedrag dat partners voor PEC verdienen, varieert (zie [Berekening).](partner-earned-credit-explanation.md#calculation) Het tarief vindt u op de pagina prijslijst in Partner Center.
 
 ## <a name="what-azure-services-are-eligible-for-pec"></a>Welke Azure-services komen in aanmerking voor PEC?
 
 PEC komt in aanmerking voor alle services die betrekking hebben op de nieuwe Azure-aanbieding in CSP (Azure-plan), met uitzondering van het volgende: 
 - Reserveringen voor nieuwe Azure-aanbieding (Azure-abonnement)
-- Producten van derden die zijn geïdentificeerd als derde partij in de kolom Tags van de lijst met verbruiksprijzen van het Azure-plan
+- Producten van derden die zijn geïdentificeerd als derden in de kolom Tags van de lijst met prijzen voor azure-planverbruik
 - Producten in de marketplace-prijslijst
 - [Azure Spot Virtual Machines](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
 ## <a name="where-can-i-see-pec"></a>Waar kan ik PEC zien?
 
-Zie [Berekening](partner-earned-credit-explanation.md#calculation).
+Zie [Berekening.](partner-earned-credit-explanation.md#calculation)
 
 ## <a name="where-can-i-find-pec-details"></a>Waar vind ik PEC-gegevens?
 
-PEC-gegevens kunnen rechtstreeks door partners worden opgevraagd via api, dagelijks [reconbestand](partner-earned-credit-explanation.md#calculation) en [ACM (Azure Cost Mgmt).](partner-earned-credit-explanation.md#azure-cost-management-and-pec)
+PEC-gegevens kunnen rechtstreeks door partners worden opgevraagd door de API, het dagelijkse [reconbestand](partner-earned-credit-explanation.md#calculation) en [ACM (Azure Cost Mgmt).](partner-earned-credit-explanation.md#azure-cost-management-and-pec)
 
 ## <a name="how-can-i-reconcile-my-pec-information-across-the-two-recon-files"></a>Hoe kan ik mijn PEC-gegevens afstemmen voor de twee recon-bestanden?
 
@@ -57,18 +57,18 @@ Ja, de CSP Indirect Provider moet [RBAC-toegang](/azure/role-based-access-contro
 
 ## <a name="what-happens-if-a-customer-removes-a-partners-rbac-admin-access"></a>Wat gebeurt er als een klant de RBAC-beheerderstoegang van een partner verwijdert?
 
-Een partner zonder de juiste RBAC-toegang in CSP behoudt nog steeds de Azure-factureringsrelatie en verantwoordelijkheid van de klant met Microsoft. Hoewel dit geen invloed heeft op een partner die de vorige Azure-aanbieding in CSP verkoopt, komt de gefactureerde partner voor de nieuwe Azure-aanbieding in CSP niet in aanmerking voor PEC op hun Azure-factuur. Partners kunnen gedeeltelijke beheerderstoegang in CSP verkrijgen door toegang te verkrijgen via een gebruikersaccount via directory-/gasttoegang met behulp van RBAC of via Azure Lighthouse. Zie Beheerdersbevoegdheden voor de Azure CSP van [een klant herstellen voor meer informatie.](revoke-reinstate-csp.md)
+Een partner zonder de juiste RBAC-toegang in CSP behoudt nog steeds de Azure-factureringsrelatie en verantwoordelijkheid van de klant met Microsoft. Hoewel dit geen invloed heeft op een partner die de vorige Azure-aanbieding in CSP verkoopt, komt de gefactureerde partner voor de nieuwe Azure-aanbieding in CSP niet in aanmerking voor PEC op hun Azure-factuur. Partners kunnen gedeeltelijke beheerderstoegang verkrijgen in CSP door toegang te verkrijgen via een gebruikersaccount via directory-/gasttoegang met behulp van RBAC of via Azure Lighthouse. Zie Beheerdersbevoegdheden voor de Azure CSP van [een klant herstellen voor meer informatie.](revoke-reinstate-csp.md)
 
 ## <a name="how-do-i-know-if-im-earning-pec"></a>Hoe kan ik weten of ik PEC verdien?
 
 Er zijn verschillende manieren waarop een partner kan bevestigen dat deze de juiste toegang heeft tot de Azure-resources van een klant.
 
-- Bekijk het dagelijkse gebruiksbestand: als een partner het partnertegoed ontvangt voor beheerde services, heeft deze partner beheerderstoegang. Dit kan worden bepaald door de eenheidsprijs en de effectieve eenheidsprijs in het dagelijkse gebruiksbestand te controleren en te bevestigen of er korting wordt toegepast.
-- Een waarschuwing Azure Monitor maken: u [](/azure/azure-monitor/platform/alerts-activity-log) kunt waarschuwingen voor activiteitenlogboek maken met behulp van Azure Monitor om meldingen te ontvangen wanneer uw RBAC-toegang wordt verwijderd uit CSP-abonnementen. Raadpleeg de handleiding partnertegoeden en technische documentatie.
+- Controleer het dagelijkse gebruiksbestand: als een partner het partnertegoed voor beheerde services ontvangt, heeft deze partner beheerderstoegang. Dit kan worden bepaald door de eenheidsprijs en de effectieve eenheidsprijs in het dagelijkse gebruiksbestand te controleren en te controleren of er korting wordt toegepast.
+- Een waarschuwing voor Azure Monitor maken: [](/azure/azure-monitor/platform/alerts-activity-log) u kunt waarschuwingen voor activiteitenlogboek maken met behulp van Azure Monitor om meldingen te ontvangen wanneer uw RBAC-toegang wordt verwijderd uit CSP-abonnementen. Raadpleeg de handleiding partnertegoeden en technische documentatie.
 
 ## <a name="why-dont-i-see-pec-on-the-invoice"></a>Waarom zie ik PEC niet op de factuur?
 
-PEC wordt niet expliciet vermeld op de factuur en er is geen afzonderlijk regelitem om PEC weer te geven, maar PEC-inkomsten worden in rekening gebracht in het aangepaste nettokostenbedrag op de factuur. Bekijk de berekening en de secties Hoe is betaald voor PEC? voor meer informatie over waar u PEC-details kunt bekijken.
+PEC wordt niet expliciet vermeld op de factuur en er is geen afzonderlijk regelitem om PEC weer te geven, maar PEC-inkomsten worden in rekening gebracht in het aangepaste nettokostenbedrag op de factuur. Bekijk de secties berekening en Hoe is PEC betaald voor meer informatie over waar u PEC-details kunt bekijken.
 
 ## <a name="next-steps"></a>Volgende stappen
 

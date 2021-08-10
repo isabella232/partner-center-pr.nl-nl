@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9765f180e60154dc1a3e9be6160157e6d4248695
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 21a6ed65f5aac8d3d797b5189333a2e505ecba2179fa8f4f041af152e01a4db8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843388"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683640"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Beheer Marketplace Rewards in Partner Center & marketing-, verkoop- en technische voordelen activeren
 
@@ -44,13 +44,13 @@ Marketplace Rewards geschiktheid wordt berekend op basis van alle uitgeversprofi
 
 ## <a name="technical-benefits"></a>Technische voordelen
 
-1. U kunt uw technische voordeel gebruiken om technische hulp aan te vragen tijdens de presales-, ontwerp-, implementatie- en app-ontwikkelingsfasen van uw cloud- en hybride oplossingen. Als u hulp wilt aanvragen, vult u het aanvraagformulier in en selecteert u **Vervolgens Aanvraag verzenden.**
+1. U kunt uw technische voordeel gebruiken om technische hulp aan te vragen tijdens de presales-, ontwerp-, implementatie- en app-ontwikkelingsfasen van uw cloud- en hybride oplossingen. Als u hulp wilt aanvragen, vult u het aanvraagformulier in en selecteert **u Vervolgens Aanvraag verzenden.**
 
 2. Het gebruik van Azure Sponsorship-voordelen wordt via een e-mail gedeeld wanneer u deze voordelen ontgrendelt.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Waarom kan ik het commerciële programma voor Marketplace-beloningen niet zien op mijn dashboard?
 
-De informatie over Marketplace-beloningen is beschikbaar via de Azure AD-tenant en mpn-id die is gebruikt om uw Partner Center maken. Dit account wordt het Partner Global Account (PGA) van uw bedrijf genoemd. Als uw Azure AD-tenant verschilt van de tenant die wordt gebruikt voor MPN-onboarding, moet u het menu Commercial Rewards Marketplace koppelen aan de PGA van uw bedrijf.
+De informatie over Marketplace-beloningen is beschikbaar via de Azure AD-tenant en MPN-id die is gebruikt om uw Partner Center maken. Dit account wordt het Partner Global Account (PGA) van uw bedrijf genoemd. Als uw Azure AD-tenant verschilt van de tenant die wordt gebruikt voor MPN-onboarding, moet u het menu Commercial Rewards Marketplace koppelen aan de PGA van uw bedrijf.
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Een Azure AD-tenant koppelen aan de PGA van uw bedrijf
 

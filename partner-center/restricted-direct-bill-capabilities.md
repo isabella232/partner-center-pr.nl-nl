@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb67f6ae3054bf5214611ab3ac5ef4ed6713aef
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f3027ec26586e7d96a5d9ac3d6db8e2297c61db194da1f00353091fc13e48915
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836656"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682671"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Beperkte mogelijkheden voor directe factuur en de vereisten die nodig zijn voor CSP-partners voor directe factuur
 
@@ -22,7 +22,7 @@ ms.locfileid: "114836656"
 
 ## <a name="overview"></a>Overzicht
 
-Partners met directe factuur moeten voldoen aan de nieuwe [vereisten om](direct-partner-new-requirements.md) te blijven werken met het Cloud Solution Provider (CSP) direct bill partner-programma. Anders wordt de toegang tot mogelijkheden voor directe factuur uiteindelijk beperkt en kunnen er meer specifieke taken worden uitgevoerd, zoals het doen van nieuwe aankopen voor hun klanten.
+Partners met directe factuur moeten voldoen aan de nieuwe [vereisten om](direct-partner-new-requirements.md) in het Cloud Solution Provider (CSP) direct bill partner-programma te blijven. Anders wordt de toegang tot mogelijkheden voor directe factuur uiteindelijk beperkt en kunnen ze meer specifieke taken uitvoeren, zoals het doen van nieuwe aankopen voor hun klanten.
 
 > [!Note]
 > Partners met directe factuur die niet voldoen aan de nieuwe vereisten voor het CSP-partnerprogramma voor directe factuur, worden door Microsoft op de hoogte gesteld wanneer hun mogelijkheden voor directe factuur worden beperkt. Dit geldt voor alle directe factuurpartners, ongeacht of ze hebben gekozen voor een overgang van partner voor directe factuur [naar indirecte resellers](transition-direct-to-indirect.md) of niet.  
@@ -41,7 +41,7 @@ Volg deze stappen om te controleren of de toegang van de tenant van de directe f
 
 ## <a name="affected-direct-bill-capabilities"></a>Betrokken mogelijkheden voor directe factuur
 
-Als de mogelijkheden voor directe factuur zijn beperkt, kunt u geen nieuwe aankopen meer doen voor uw klanten in Partner Center. Deze beperking omvat:
+Als uw mogelijkheden voor directe factuur zijn beperkt, kunt u geen nieuwe aankopen meer doen voor uw klanten in Partner Center. Deze beperking omvat:
 
 - Azure-abonnementen
 
@@ -51,7 +51,7 @@ Als de mogelijkheden voor directe factuur zijn beperkt, kunt u geen nieuwe aanko
 
 - Een een keer software- en reserveringsproducten aanschaffen (bijvoorbeeld softwareabonnementen, permanente software en azure-instanties voor gereserveerde virtuele machines).
 
-U kunt ook de aanbieding voor gedeelde [services van azure-partners in](shared-services.md) het CSP-programma niet gebruiken om nieuwe Azure-abonnementen voor uw eigen gebruik aan te schaffen.
+U kunt ook de aanbieding voor gedeelde [services van de Azure-partner](shared-services.md) onder het CSP-programma niet gebruiken om nieuwe Azure-abonnementen voor uw eigen gebruik aan te schaffen.
 
 Bestaande abonnementen op directe factuur worden niet beïnvloed. Ze blijven geldig en zijn autorenewed. U wordt nog steeds rechtstreeks door Microsoft gefactureerd totdat ze zijn geannuleerd. U kunt bestaande abonnementen nog steeds op de volgende manieren beheren:
 
@@ -59,7 +59,7 @@ Bestaande abonnementen op directe factuur worden niet beïnvloed. Ze blijven gel
 
 - Het aantal licenties van bestaande op licenties gebaseerde abonnementen aanpassen
 
-- Het aantal licenties van bestaande invoegtoepassingen aanpassen aan een abonnement. 
+- Pas het aantal licenties van bestaande invoegtoepassingen aan een abonnement aan. 
 
     >[!Note]
     >U kunt geen nieuwe invoegtoepassingen toevoegen aan bestaande abonnementen, omdat deze worden behandeld als nieuwe aankoop.

@@ -4,23 +4,23 @@ ms.topic: conceptual
 ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Informatie over het gebruik Partner Center voor het beheren van uw bedrijfsprofiel, bank- en belastinggegevens, rollen, machtigingen en meer.
+description: Meer informatie over het Partner Center voor het beheren van uw bedrijfsprofiel, bank- en belastinggegevens, rollen, machtigingen en meer.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65dacdeb038eafd2be2e5b775598b03798f0e5c21714db5f8023a5a5785062d0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2cfb8e05a9d09aa3b7214ac3c1024348348416d5
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696374"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101955"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Uw Partner Center beheren - bedrijfsprofiel, bankgegevens, rollen, machtigingen en meer
 
-**Juiste rollen:** globale | Accountbeheerder
+**Juiste rollen:** Globale | Accountbeheerder
 
-Het account dat u maakt op Partner Center registratie is uw zakelijke e-mailadres plus uw zakelijke gegevens. Nadat u een account hebt gemaakt, bent u klaar met het instellen van het volledige profiel van uw bedrijf, inclusief ondersteuningsgegevens, indien van toepassing btw-vrijstellingen en primaire contactgegevens. Het account van uw bedrijf bevat ook gebruikersaccounts voor iedereen in uw team die gebruik gaat maken van Partner Center. Het werk dat ze kunnen doen, omvat het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van bedrijfsprofielen, het beheren van verwijzingen, het werken met incentives-programma's, het bieden van ondersteuning en meer.
+Het account dat u maakt op Partner Center u zich inschrijft, is uw zakelijke e-mailadres plus uw zakelijke gegevens. Nadat u een account hebt gemaakt, bent u klaar met het instellen van het volledige profiel van uw bedrijf, inclusief ondersteuningsgegevens, indien van toepassing btw-vrijstellingen en primaire contactgegevens. Het account van uw bedrijf bevat ook gebruikersaccounts voor iedereen in uw team die gebruik gaat maken van Partner Center. Het werk dat ze mogelijk doen, omvat het toevoegen of beheren van klanten, het verkopen van abonnementen, het werken met facturering en facturering, het maken van bedrijfsprofielen, het beheren van verwijzingen, het werken met incentives-programma's, het bieden van ondersteuning en meer.
 
 Zie ook de artikelen [Invite employees to join Partner Center](./partner-membership-center-retirement-faq.md) en Add a new [user](create-user-accounts-and-set-permissions.md).
 
@@ -29,31 +29,31 @@ Zie ook de artikelen [Invite employees to join Partner Center](./partner-members
 
 ## <a name="account-management"></a>Accountbeheer
 
-Alle commerciële en ontwikkelaarspartners hebben toegang tot **Accountbeheer** in Partner Center door u aan te melden bij het [Partner Center-dashboard](https://partner.microsoft.com/dashboard) en **Instellingen** (het tandwielpictogram) in de rechterbovenhoek van het scherm te selecteren en vervolgens Accountinstellingen te **selecteren.** U hoeft niet langer te kiezen tussen partner- en ontwikkelaarsinstellingen. Alle profielen en instellingen worden nu gecombineerd.
+Alle commerciële en ontwikkelaarspartners hebben toegang tot **accountbeheer** in Partner Center door zich aan te melden bij het [Partner Center-dashboard](https://partner.microsoft.com/dashboard) en **Instellingen** (het tandwielpictogram) in de rechterbovenhoek van het scherm te selecteren en vervolgens Accountinstellingen te **selecteren.** U hoeft niet langer te kiezen tussen partner- en ontwikkelaarsinstellingen. Alle profielen en instellingen worden nu gecombineerd.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="pictogram instellingen.":::
 
-Hiermee wordt de pagina accountinstellingen weergegeven.
+Hiermee wordt de pagina met accountinstellingen weergegeven.
 
 :::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Instellingen menu.":::
 
 ### <a name="locate-your-mpn-id"></a>Uw MPN-id zoeken
 
-Of u nu een partner of ontwikkelaar bent, gebruik uw MPN-id voor bijvoorbeeld het registreren van ondersteuningstickets. Uw MPN-id bevindt zich op de **pagina Juridische** gegevens. U kunt deze ook vinden in het **identiteitsprofiel**.
+Of u nu een partner of ontwikkelaar bent, gebruik uw MPN-id voor bijvoorbeeld het registreren van ondersteuningstickets. Uw MPN-id bevindt zich op de **pagina Juridische** gegevens. U kunt deze ook vinden op het **identiteitsprofiel**.
 
 ## <a name="account-settings---partners-resellers"></a>Accountinstellingen - partners, resellers
 
 Wanneer u het pictogram **Instellingen** selecteert en het menu **Accountinstellingen** opent, **is** de standaardweergave, als uw bedrijf deel uitmaakt van het Cloud Solution Provider-programma, Juridische gegevens met twee tabbladen: **Partner** en **Reseller.** Elk tabblad bevat aspecten van uw bedrijf.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu toont tabbladen voor partners en resellers.":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu toont tabbladen voor Partners en Resellers.":::
 
-Het tabblad Partner bevat alle juridische bedrijfsgegevens, zoals geregistreerde juridische naam en adres voor uw bedrijf, evenals de primaire contactpersoon en bedrijfslocaties. Het tabblad Reseller voor partners die CSP-activiteiten doen, bevat het **klantondersteuningsprofiel**.
+Het tabblad Partner bevat alle juridische bedrijfsgegevens, zoals geregistreerde juridische naam en adres voor uw bedrijf, evenals de primaire contactpersoon en bedrijfslocaties. Het tabblad Reseller voor partners die CSP-zaken doen, bevat het **klantondersteuningsprofiel**.
 
 Als uw bedrijf niet deelneemt aan CSP, wordt in de standaardweergave alleen het **tabblad Partner** weergegeven, met het **klantondersteuningsprofiel**.
 
-### <a name="when-you-are-in-more-than-one-account"></a>Wanneer u meer dan één account hebt
+### <a name="when-you-are-in-more-than-one-account"></a>Wanneer u zich in meer dan één account
 
-U kunt deel uitmaken van meer dan één account. U kunt controleren of u deel uitmaakt van meerdere accounts door de aanwezigheid van de 'account picker' in het navigatiemenu aan de linkerkant.
+U kunt deel uitmaken van meer dan één account. U kunt controleren of u deel uitmaakt van meerdere accounts door de aanwezigheid van de 'account picker' in het linkernavigatiemenu.
 
 :::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificeer de account- picker.":::
 
@@ -67,7 +67,7 @@ In het onderstaande voorbeeld maakt de aangemelde gebruiker deel uit van de drie
 
 ## <a name="organization-profile"></a>Organisatieprofiel
 
-Gebruik deze pagina's om diepgaande gebieden van uw bedrijf te beheren, waaronder het juridische bedrijfsprofiel, partnerprofiel en tenants. Beheer elk gebied afzonderlijk. Deze worden hieronder beschreven. 
+Gebruik deze pagina's voor het beheren van diepgaande gebieden van uw bedrijf, waaronder het juridische bedrijfsprofiel, partnerprofiel en tenants. Beheer elk gebied afzonderlijk. Deze worden hieronder beschreven. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu Juridische gegevens.":::
 
@@ -77,9 +77,9 @@ Wanneer u voor het eerst Partner Center, ondergaat uw bedrijf een verificatiepro
 
 ### <a name="provide-your-companys-legal-business-details"></a>Geef de juridische bedrijfsgegevens van uw bedrijf op
 
-U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd [bij Dun & Brad gaan,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert u **Handmatig.**
+U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd bij [Dun & Brad te](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)schrijven, gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert u **Handmatig.**
 
-Als uw bedrijf zich in **Heeft** bevindt, Hebt u, **Kyrgyzstan,**  **Uzbekkka** of **Rusland** en voert u uw adres handmatig in, dan wordt uw adres voor u gevalideerd.  Als de door u invoeren verschilt van het gevalideerde adres, raden we u aan het gevalideerde adres te gebruiken. Verificatie zorgt ervoor dat het adres zowel nauwkeurig is als kan worden verzonden.
+Als uw bedrijf zich in **Deen** bevindt, Als u zich in Den Staten, **Kyrgyzstan,**  **Uzbekkka** of **Rusland** bevindt en u uw adres handmatig in typt, wordt uw adres voor u gevalideerd.  Als de door u invoeren verschilt van het gevalideerde adres, raden we u aan het gevalideerde adres te gebruiken. Verificatie zorgt ervoor dat het adres nauwkeurig is en kan worden verzonden.
 
 ### <a name="primary-contact-email"></a>E-mailadres van primaire contactpersoon
 
@@ -101,22 +101,22 @@ Op deze pagina wordt het type samenwerking met Microsoft aangegeven, zoals onafh
 
 ### <a name="account-merge-profile"></a>Account samenvoegen-profiel
 
-Wanneer u een bedrijf met een actief account in Partner Center uitnodigt om hun account samen te voegen met het uwe, wordt die informatie beheerd op de pagina **Account samenvoegen.** Zoek de MPN-id op voor het bedrijf dat u wilt uitnodigen om samen te voegen met uw bedrijf, huidige fusies te bekijken en uitnodigingen te verzenden naar bedrijven. Accepteer of weiger hier een uitnodiging om uw bedrijfsaccount samen te voegen met het account van een ander bedrijf. Zie Uw partneraccount [samenvoegen met een ander partneraccount voor meer informatie.](merge-accounts.md)
+Wanneer u een bedrijf met een actief account in Partner Center uitnodigt om hun account samen te voegen met het uwe, wordt die informatie beheerd op de **pagina Account samenvoegen.** Zoek de MPN-id op voor het bedrijf dat u wilt uitnodigen om samen te voegen met uw bedrijf, huidige fusies te bekijken en uitnodigingen te verzenden naar bedrijven. Accepteer of weiger hier een uitnodiging om uw bedrijfsaccount samen te voegen met het account van een ander bedrijf. Zie Uw partneraccount [samenvoegen met een ander partneraccount voor meer informatie.](merge-accounts.md)
 
 ## <a name="payout-and-tax"></a>Uitbetaling en belasting
 
-Deze pagina bevat uw uitbetalings- en belastinggegevens, waaronder factuurgegevens, po-nummer, belasting-id-gegevens voor uw bedrijf, btw-nummer als u er een hebt en de valuta die u gebruikt.  
+Deze pagina bevat uw uitbetalings- en belastinggegevens, waaronder factuurgegevens, **po-nummer,** belasting-id-gegevens voor uw bedrijf, btw-nummer als u er een hebt en de valuta die u gebruikt. 
 
 ## <a name="user-management"></a>Gebruikersbeheer
 
-Waar u aan werkt in Partner Center de gebieden die u kunt bijwerken of zien, is afhankelijk van uw rol en de machtigingen die aan die rol zijn gekoppeld. Als u bijvoorbeeld geen Incentives-beheerder bent, kunt u niets wijzigen op de Incentives-pagina's, hoewel u de gegevens mogelijk wel kunt bekijken. Meer informatie over [rollen en machtigingen](permissions-overview.md)
+Waar u aan werkt in Partner Center de gebieden die u kunt bijwerken of zien, is afhankelijk van uw rol en de machtigingen die aan die rol zijn gekoppeld. Als u bijvoorbeeld geen Incentives-beheerder bent, kunt u niets wijzigen op de incentives-pagina's, hoewel u de gegevens mogelijk wel kunt bekijken. Meer informatie over [rollen en machtigingen](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Voorkeurse-mail bijwerken
 
-Als u uw voorkeurse-mail wilt bijwerken om Partner Center ontvangen:
+Werk uw voorkeurs-e-mail bij om Partner Center ontvangen:
 
 1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
-1. Ga naar [**Engagement-voorkeur,**](https://partner.microsoft.com/dashboard/engagement/preference)selecteer de koppeling **Wijzigen,** werk het e-mailadres bij en selecteer **Opslaan.**
+1. Ga naar [**Betrokkenheidsvoorkeur,**](https://partner.microsoft.com/dashboard/engagement/preference)selecteer de koppeling **Wijzigen,** werk het e-mailadres bij en selecteer **Opslaan.**
 
 ### <a name="find-your-user-role"></a>Uw gebruikersrol zoeken
 
@@ -126,15 +126,15 @@ Als u uw voorkeurse-mail wilt bijwerken om Partner Center ontvangen:
 
 1. Selecteer het **tabblad Rollen en machtigingen** om alle rollen te zien die aan u zijn toegewezen en de machtigingen die deze rollen bieden.
 
-## <a name="programs-in-which-you-are-enrolled"></a>Programma's waarbij u bent ingeschreven
+## <a name="programs-in-which-you-are-enrolled"></a>Programma's waarin u bent ingeschreven
 
 Het werk dat u doet om uw Partner Center-account te beheren, heeft betrekking op de specifieke programma's waarin u bent ingeschreven en de gebruikersrollen en machtigingen die u hebt toegewezen in Partner Center.
 
-Als u wilt zien tot welke programma's u toegang hebt:
+Om te zien tot welke programma's u toegang hebt:
 
-1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
-2. In het linkernavigatiemenu worden de programma's weergegeven waarin u bent ingeschreven en worden de beschikbare opties voor elk programma weergegeven.
+2. In het linkernavigatiemenu worden de programma's weergegeven die u hebt ingeschreven en worden de beschikbare opties voor elk programma weergegeven.
 
 Hier is een voorbeeld. Stel dat een gebruiker toegang heeft tot drie programma's in Partner Center dashboard: het **MPN-programma,** het programma **Verwijzingen** en het **programma Commerciële** marketplace. Wanneer ze zich aanmelden bij Partner Center dashboard, zien ze deze drie programma's aan de linkerkant van het scherm.
 

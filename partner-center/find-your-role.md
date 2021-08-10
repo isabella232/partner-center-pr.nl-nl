@@ -9,30 +9,30 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: e7e18c967481e0bfb6e6b8466746beb5ed8459b9
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 4749674da24d047b84014194081e00a2bddd1c89e9d515740b4346e0b05898b8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100014"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683589"
 ---
-# <a name="find-your-role-your-permissions-and-your-global-admin"></a>Zoek uw rol, uw machtigingen en uw globale beheerder
+# <a name="find-your-role-your-permissions-and-your-global-admin"></a>Uw rol, uw machtigingen en uw globale beheerder zoeken
 
 
 **Juiste rollen:** alle Partner Center gebruikers
 
 ## <a name="find-the-role-youve-been-assigned"></a>De rol zoeken die aan u is toegewezen
 
-Als uw globale beheerder u niets heeft verteld, kunt u op de volgende manier na gaan welke rol u in Partner Center rol hebt:
+Als uw globale beheerder u niets heeft verteld, kunt u op de volgende manier na gaan welke rol u in Partner Center hebt:
 
 1. Meld u aan Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).
 
-1. Selecteer het **pictogram Accountinstellingen** en selecteer vervolgens **Mijn profiel.**
+1. Selecteer het **pictogram Accountinstellingen** en selecteer vervolgens **Mijn profiel**.
  
-1. Selecteer het **tabblad Rollen en machtigingen.** U ziet uw rollen en machtigingen.
+1. Selecteer het **tabblad Rollen en** machtigingen. U ziet uw rollen en machtigingen.
  
 >[!Note]
->Als u geen programma ziet wanneer u zich aan melden, betekent dit meestal dat u niet de juiste machtigingen hebt om in dat programma te werken. Als u bijvoorbeeld de pagina Incentives niet ziet wanneer u zich aanmelden, hebt u geen incentives-machtigingen. Uw globale beheerder kan u de benodigde machtigingen geven.
+>Als u tijdens het aanmelden geen programma ziet, betekent dit meestal dat u niet de juiste machtigingen hebt om in dat programma te werken. Als u bijvoorbeeld de pagina Incentives niet ziet wanneer u zich aan melden, hebt u geen incentives-machtigingen. Uw globale beheerder kan u de benodigde machtigingen geven.
 
 ## <a name="find-your-global-admin"></a>Uw globale beheerder zoeken
 
@@ -44,7 +44,7 @@ Een globale beheerder zoeken die rolwijzigingen kan aanbrengen of rollen kan toe
 
 1. Filteren op globale beheerder
 
-1. U kunt ook naar **Mijn profiel**  gaan, Rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen. 
+1. U kunt ook naar Mijn profiel  **gaan,** Rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen. 
 
 
 ## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Een nieuwe globale beheerder toewijzen aan uw bedrijf

@@ -9,25 +9,25 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 39c4a7aadebe03c3e37ce6325acb3640909775fa630c3ac4693af430adb47338
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843524"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682569"
 ---
 # <a name="training-vouchers-program-retirement"></a>Pensioen van trainingsprogramma
 
 Software Assurance satv's (trainingsprogramma's) worden volledig buiten gebruik stellen voor Software Assurance-voordelen, maar klanten kunnen hun cursusdagen blijven gebruiken voor training met docent terwijl de cursus geldig is. Dit zijn de belangrijke datums voorafgaand aan de pensioendatum van het programma: 
 
 - 1 februari 2020: Azure-training is uit de trainingscatalogus verwijderd.
-- 1 februari 2020: Trainingstraining kan niet meer worden geconverteerd naar Planning Services-dagen.  
+- 1 februari 2020: Trainingsdagen kunnen niet meer worden geconverteerd naar Planning Services-dagen.  
 - 1 februari 2021: Klanten krijgen geen trainingsvoordelen meer. 
 - 30 juni 2021: Laatste dag voor klanten om trainingstraining te maken/toewijzen. Alle resterende trainingsdagen worden verwijderd op 1 juli 2021.
 - 1 januari 2022: Laatste dag voor partners om trainingsprogramma's in te wisselen. Partner heeft 60 dagen na inwisseling de tijd om het betalingsaanvraagproces te voltooien.  
 
 >[!NOTE]
->Er is geen wijziging in de levenscyclus van de levenscyclus. Zodra een reservering is gemaakt/toegewezen, moeten de reservering voor de reservering, trainingssessies en het inwisselen van een abonnement binnen 180 dagen vóór de vervaldatum worden voltooid.  Zie de veelgestelde vragen hier [(aanmelden](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) vereist) voor meer informatie over de buitenstelling van trainingsprogramma's.  Zie de volledige lijst met satv-in aanmerking komende trainingscursussen in de productcatalogus van het trainingsvoordeel. Stuur eventuele vragen naar uw regionale partnerondersteuningsteam: [EMEA Partner Support](mailto:savoucher@msdirectservices.com); [Algemene ondersteuning voor partners.](https://partner.microsoft.com/dashboard/support/servicerequests)
+>Er is geen wijziging in de levenscyclus van de levenscyclus. Zodra een reservering is gemaakt/toegewezen, moeten de reservering voor de reservering, trainingssessies en het inwisselen van een abonnement binnen 180 dagen vóór de vervaldatum worden voltooid.  Zie de veelgestelde vragen hier [(aanmelden](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) vereist) voor meer informatie over de buitenstelling van trainingsprogramma's.  Zie de volledige lijst met satv-in aanmerking komende trainingscursussen in de productcatalogus van het trainingsvoordeel. Neem contact op met uw regionale partnerondersteuningsteam: [EMEA Partner Support](mailto:savoucher@msdirectservices.com); [Algemene ondersteuning voor partners.](https://partner.microsoft.com/dashboard/support/servicerequests)
 
 
 
@@ -58,7 +58,7 @@ Nadat uw bedrijf aan de geschiktheidsvereisten voldoet, bent u klaar om de SATV-
 
 
 ## <a name="confirm-course-eligibility"></a>Geschiktheid van cursus bevestigen
-Nadat partners zijn ingeschreven bij het SATV-programma, kunnen ze trainingssessies aanbieden voor cursussen die in aanmerking komen voor SATV, waarvoor klanten hun trainingscursus kunnen gebruiken. In aanmerking komende cursussen worden vermeld in de SATV-cursuscatalogus voor geschiktheid. Bekijk [stap 3 van](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) de werkstroom om te begrijpen welke typen cursussen in aanmerking komen voor SATV of om een koppeling naar de catalogus voor geschiktheid van de cursus te verkrijgen.
+Na de inschrijving in het SATV-programma kunnen partners trainingssessies aanbieden voor satv-in aanmerking komende cursussen, waarvoor klanten hun trainingscursus kunnen gebruiken. In aanmerking komende cursussen worden vermeld in de SATV-cursuscatalogus voor geschiktheid. Bekijk [stap 3 van](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) de werkstroom om te begrijpen welke typen cursussen in aanmerking komen voor SATV of om een koppeling naar de catalogus voor geschiktheid van de cursus te verkrijgen.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Laat de klant een account maken en toewijzen
 
@@ -79,7 +79,7 @@ Zodra u een training hebt voltooid, moet u de stage inwisselen. Volg de instruct
 
 ## <a name="request-payment-from-microsoft"></a>Betaling aanvragen bij Microsoft
 
-Betalingen worden verwerkt via Software Assurance Online Payment Tool (SAVB). Volg de instructies in [stap 8 van](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) de werkstroom om een factuur via SAVB naar Microsoft te verzenden. 
+Betalingen worden verwerkt via Software Assurance Online Payment Tool (SAVB) van Den Haag Benefit. Volg de instructies in [stap 8 van](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) de werkstroom om een factuur via SAVB naar Microsoft te verzenden. 
 
 Lees de veelgestelde vragen en bekijk [het SATV-programmabeleid voor meer informatie.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) [](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
 

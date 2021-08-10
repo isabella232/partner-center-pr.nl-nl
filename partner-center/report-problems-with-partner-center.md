@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e8f48476a6136889be8bb5c9f7a12ed8c42dc94
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8539b5744cccd7356873a5fa8568fe271cc372877487afe1febe9290ed1e70ac
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845955"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682759"
 ---
 # <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Diagnostische gegevens verzamelen en problemen rapporteren in Partner Center
 
@@ -23,7 +23,7 @@ ms.locfileid: "114845955"
 **Juiste rollen:** alle partners die geïnteresseerd zijn in Partner Center
 
 Alle aangemelde gebruikers Partner Center een ondersteuningsaanvraag voor partners maken. Gebruikers kunnen alleen ondersteuningsaanvragen bekijken die ze hebben ingediend nadat ze zich hebben Partner Center.
-Neem contact Partner Center met de ondersteuning als u problemen hebt of hulp nodig hebt met Partner Center portalfouten. Verzend diagnostische gegevens om het probleem sneller op te lossen. 
+Neem contact Partner Center ondersteuning als u problemen hebt of hulp nodig hebt met Partner Center portalfouten. Verzend diagnostische gegevens om het probleem sneller op te lossen. 
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Een probleem met de Partner Center
 
@@ -33,7 +33,7 @@ Neem contact Partner Center met de ondersteuning als u problemen hebt of hulp no
 
 3. Bekijk de **pagina Aanbevolen oplossingen** voor stappen of gerelateerde documenten die u kunnen helpen bij het oplossen van uw probleem.
 
-4. Als de **aanbevolen oplossingen** uw probleem hebben opgelost, kunt u terugkeren naar het **dashboard selecteren.** Als u nog steeds hulp nodig hebt, kunt u doorgaan en **Details van probleem verstrekken.**
+4. Als de **aanbevolen oplossingen uw** probleem hebben opgelost, kunt u terugkeren naar het dashboard **selecteren.** Als u nog steeds hulp nodig hebt, kunt u doorgaan en **Probleemdetails verstrekken.**
 
 5. Vul de **details van het probleem** in en verzend **vervolgens**. Een partnerondersteuningsmedewerker neemt contact met u op.
 
@@ -41,14 +41,14 @@ Neem contact Partner Center met de ondersteuning als u problemen hebt of hulp no
 
 **Momenteel in preview*
 
-Met het plannen van afspraken kunt u een afspraak plannen met de advocate die aan uw case is toegewezen.  In de preview-versie zijn afspraken beperkt tot een subset van probleemtypen en ondersteuningsteams.  
+Met afspraakplanning kunt u een afspraak plannen met de advocate die aan uw case is toegewezen.  In de preview-versie zijn afspraken beperkt tot een subset van probleemtypen en ondersteuningsteams.  
 
    > [!NOTE]
    > Een ondersteuningsafspraak plannen is niet onmiddellijk beschikbaar na het maken van een case. U kunt alleen een ondersteuningsafspraak plannen nadat uw aanvraag is toegewezen aan een eigenaar.   
 
 1. Selecteer in **Partner Center** dashboard **[ondersteuning.](https://partner.microsoft.com/dashboard/support/servicerequests)** 
 
-2. Klik op uw open aanvraag om ticketgegevens weer te geven. Selecteer in Een ondersteuningsafspraak **plannen (preview)** een beschikbare datum en tijd. De beschikbare afspraaktijden zijn gebaseerd op de agendabeschikbaarheid van de Support Advocate en worden weergegeven in uw lokale tijdzone.
+2. Klik op uw openstaande aanvraag om ticketgegevens weer te geven. Selecteer in Een ondersteuningsafspraak **plannen (preview)** een beschikbare datum en tijd. De beschikbare afspraaktijden zijn gebaseerd op de agendabeschikbaarheid van de Support Advocate en worden weergegeven in uw lokale tijdzone.
 
 :::image type="content" source="images/support/ticket.png" alt-text="Een ondersteuningsafspraak plannen.":::
 
@@ -65,7 +65,7 @@ Met het plannen van afspraken kunt u een afspraak plannen met de advocate die aa
 6.  Als u uw afspraak wilt wijzigen, gaat u terug naar de pagina met ticketdetails in Partner Center selecteert u Deze afspraak **opnieuw** plannen of **Deze afspraak annuleren.** 
 
    > [!NOTE]
-   > Het Partner Center het postvak Afspraken wordt niet bewaakt. Het wordt alleen gebruikt om de uitnodigingen voor de vergadering te verzenden.   
+   > Het Partner Center het postvak Afspraken wordt niet bewaakt. Deze wordt alleen gebruikt om de uitnodigingen voor de vergadering te verzenden.   
    
 Plan een ondersteuningsafspraak in preview:
 - In de bevestigings- en herinneringsmails van de vergadering wordt de afspraaktijd mogelijk weergegeven in een andere tijdzone dan uw lokale tijd.  Met het bijgevoegde ICS-bestand wordt de afspraak echter op het juiste lokale tijdstip aan uw agenda toegevoegd. 

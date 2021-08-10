@@ -9,14 +9,14 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5ed3bd35e25f21a9803eac10d7c6308e3eaa1f715451c00ee2943e92533fc4d2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843949"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689183"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Voordelen is beschikbaar via het Partner Center Insights dashboard
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Voordelen is beschikbaar via Partner Center Insights dashboard
 
 **Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
@@ -34,7 +34,7 @@ U kunt de volgende grafieken visualiseren in het rapport Voordelen:
 - Go-to-market
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Executive Report Viewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
 
 ## <a name="summary"></a>Samenvatting
 
@@ -69,7 +69,7 @@ Selecteer een tabblad boven aan de grafiek om de trend weer te geven van een spe
 
 In dit diagram wordt de maandelijkse trend weergegeven van ondersteuningsvoordelen die zijn verleend tijdens het geselecteerde datumbereik.
 
-Selecteer een tabblad boven aan de grafiek om de trend te bekijken van een specifiek ondersteuningsvoordeel dat aan u is verleend. De lijngrafiek geeft de totale uren aan ondersteuning weer die zijn toegewezen voor het geselecteerde ondersteuningsvoordeel.
+Selecteer een tabblad boven aan de grafiek om de trend weer te geven van een specifiek ondersteuningsvoordeel dat aan u is verleend. De lijngrafiek geeft de totale uren aan ondersteuning weer die zijn toegewezen voor het geselecteerde ondersteuningsvoordeel.
 
 :::image type="content" source="images/insights/benefits-technical-benefits.png" alt-text="technische voordelen.":::
 
@@ -83,4 +83,4 @@ Selecteer een Go-To-Market-aanbieding of -servicecategorie in de vervolgkeuzelij
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie voor meer rapporten [Partner Center Insights.](partner-center-insights.md)
+- Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).

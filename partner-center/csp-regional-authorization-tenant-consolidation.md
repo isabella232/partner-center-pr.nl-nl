@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4df62bddba501552eafe2142f4c0656b8eefc7c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 923f07c51611670023ef58e4ed340d9cee49b804d784e702ae775c06893ba4bd
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844408"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690241"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instructies voor tenantconsolidatie voor regionale autorisatie in CSP
 
@@ -28,7 +28,7 @@ ms.locfileid: "114844408"
 U kunt tenants consolideren voor uw bedrijf. Gebruik deze instructies om tenants te consolideren voor verschillende landen/regio's.
 
 >[!NOTE]  
->U moet rekening houden met alle inrichtende abonnementen en het aantal licenties voor elk van uw klanten in het account waar u over overstapt. U gaat die exacte abonnementen met dezelfde licentietellingen onder het nieuwe centrale CSP-account opnieuw inrichten als onderdeel van het migratieproces. Gebruik de exportlijstfunctie om een lijst met klanten te maken om over te gaan naar de gecentraliseerde tenant.  Zodra de consolidatie is voltooid, kunt u de vorige tenanttoestand niet meer terugdraaien. Er kan ook een actie van de klant vereist zijn.
+>U moet op de hoogte zijn van alle inrichtende abonnementen en het aantal licenties voor elk van uw klanten in het account van waar u overstapt. U gaat die exacte abonnementen met dezelfde licentietellingen opnieuw inrichten onder het nieuwe centrale CSP-account als onderdeel van het migratieproces. Gebruik de exportlijstfunctie om een lijst met klanten te maken om over te gaan naar de gecentraliseerde tenant.  Zodra de consolidatie is voltooid, kunt u de vorige tenanttoestand niet meer terugdraaien. De actie van de klant kan ook vereist zijn.
 
 ## <a name="prepare-for-migration"></a>Voorbereiden op migratie
 
@@ -38,7 +38,7 @@ U kunt tenants consolideren voor uw bedrijf. Gebruik deze instructies om tenants
 
 ## <a name="migrate-customer-accounts"></a>Klantaccounts migreren
 
-1. Meld u aan **Partner Center**  met **het** (nieuwe) overgangsaccount (het account waarin u klanten over wilt zetten).
+1. Meld u aan **Partner Center** **met** het (nieuwe) overgangsaccount (het account waarin u klanten over wilt zetten).
 
 2. Selecteer **Klanten**.
 
@@ -48,7 +48,7 @@ U kunt tenants consolideren voor uw bedrijf. Gebruik deze instructies om tenants
 
 5. Na het aanmelden wordt de globale beheerder voor het **klantaccount** gevraagd een overeenkomst in te dienen die gedelegeerde beheerdersbevoegdheden biedt voor het nieuwe CSP-account. Als ze akkoord gaan, selecteert de klant het selectievakje en gaat ermee akkoord om de relatie te autor toestemming te geven.
 
-De klanten worden één voor één weergegeven in de lijst met klanten van de partner nadat ze de overeenkomst hebben ingediend.
+De klanten worden weergegeven in de klantenlijst van de partner nadat ze de overeenkomst één voor één hebben ingediend.
 
 ## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migratie van Office 365- en niet-Azure-abonnementen op basis van gebruik
 
@@ -66,31 +66,31 @@ De klanten worden één voor één weergegeven in de lijst met klanten van de pa
 
 6. Selecteer **Verzenden.**
 
-   De services worden nu aan de klant aangeboden vanuit het **overgangsaccount naar** het partneraccount.
+   De services worden nu aan de klant geleverd vanuit het **overgangsaccount naar** het partneraccount.
 
 7. Herhaal deze stappen om abonnementen voor alle extra klanten te migreren.
 
 Voordat u doorgaat met de volgende sectie,  moet u ervoor zorgen dat alle bestaande klantabonnementen onder De overgang van partneraccounts opnieuw worden ingericht onder overgang naar **partneraccount.**
 
 > [!NOTE]
-> Partners moeten abonnementen op het overstappen van het **partnerten** tenantaccount in Partner Center op dezelfde dag dat deze abonnementen worden overge zetten en ingesteld onder het account Overstappen naar **partnerten** tenant in de Partner Center om ervoor te zorgen dat dubbele facturering niet wordt uitgevoerd. Ondersteuningsaanvragen worden geweigerd voor tegoeden vanwege overlapping in de facturering  die optreedt door het niet juist uitschakelen van de overgang van abonnementen.
+> Partners moeten abonnementen op het overstappen van het **tenantaccount** van de partner in Partner Center op dezelfde dag dat deze abonnementen worden overge zetten en ingesteld onder het account Overstappen naar **partnerten** tenant in de Partner Center om ervoor te zorgen dat dubbele facturering niet wordt uitgevoerd. Ondersteuningsaanvragen worden geweigerd voor tegoeden vanwege overlapping in de facturering  die optreedt door het niet juist uitschakelen van de overgang van abonnementen.
 
-## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>De abonnementsabonnementen Office 365 het partneraccount overstappen uitschakelen
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>De Office 365 uitschakelen onder het partneraccount overstappen
 
-Als u het CSP-abonnement onder De overgang **van** partneraccounts uit te stellen, worden toekomstige factureringen gestopt. U hoeft Azure-abonnementen niet handmatig uit te schakelen, omdat Azure-abonnementen automatisch worden uitgeschakeld tijdens het migratieproces.
+Het uitschakelen van het CSP-abonnement onder **de overgang van** partneraccounts stopt toekomstige facturering. U hoeft Azure-abonnementen niet handmatig uit te schakelen, omdat Azure-abonnementen automatisch worden uitgeschakeld tijdens het migratieproces.
 
 1. Meld u aan bij **Partner Center** **CSP-account en** navigeer naar de lijst met klanten.
 
 2. Open de klant met abonnementen die u wilt uitschakelen en selecteer vervolgens de eerste aanbieding die u wilt uitschakelen.
 
-3. Stel het abonnement in **op tijdelijk en** selecteer verzenden. 
+3. Stel het abonnement in op **tijdelijk en** selecteer **verzenden.**
 
    >[!Note]
    >Door het abonnement op te schorten, wordt dubbele facturering niet uitgevoerd.
 
    Het abonnement wordt **tijdelijk in de** lijst met abonnementen weergegeven.
 
-4. Herhaal deze stappen voor alle abonnementen onder de klant. Controleer of alles **'tijdelijk' wordt weer geven.**
+4. Herhaal deze stappen voor alle abonnementen onder de klant. Controleer of alles is **opgeschort.**
 
 5. Selecteer de volgende klant in de lijst en herhaal het proces van het uitschakelen van alle abonnementen.
 
@@ -98,13 +98,13 @@ Als u het CSP-abonnement onder De overgang **van** partneraccounts uit te stelle
 
 In tegenstelling Office 365 CSP-abonnementen hoeven op gebruik gebaseerde CSP-abonnementen niet handmatig te worden gemigreerd. Microsoft Azure Met ondersteuning worden de Azure-abonnementen en alle  geïmplementeerde services of resources gemigreerd van de overgang van CSP-reselleraccounts naar het overgangsaccount **naar** het CSP-reselleraccount. Er is geen onderbreking van de service voor de klant tijdens deze overgang.
 
-1. Zorg ervoor dat de klantaccounts met gemigreerde Azure-abonnementen  de overeenkomst hebben geaccepteerd om te worden gekoppeld aan het nieuwe Overgang naar CSP-account.
+1. Zorg ervoor dat de klantaccounts met gemigreerde Azure-abonnementen de overeenkomst hebben geaccepteerd om te worden gekoppeld aan het nieuwe **Overgang** naar CSP-account.
 
 2. U stelt Microsoft op de hoogte van welke klantaccounts gereed zijn om te worden gemigreerd en geeft de bedrijfsnamen van die klanten op.
 
 3. Microsoft migreert de azure-abonnementen op basis van gebruik en waarschuwt u wanneer de migratie is voltooid.
 
-4. U moet controleren of het Azure-abonnement onder het **reselleraccount** Overstappen van CSP nu is gemarkeerd als tijdelijk Partner Center onder de sectie Klantabonnementen. 
+4. U moet controleren of het Azure-abonnement onder het reselleraccount  Overstappen van **CSP** nu is gemarkeerd als tijdelijk Partner Center onder de sectie Klantabonnementen.
 
 5. Controleer of in het Azure-abonnement onder het overstappen naar **het** CSP-reselleraccount nu de status actief **wordt** Partner Center onder de sectie Klantabonnementen.
 
@@ -122,7 +122,7 @@ In tegenstelling Office 365 CSP-abonnementen hoeven op gebruik gebaseerde CSP-ab
 - Er is momenteel geen manier om een klant volledig te verwijderen uit de **lijst met** klanten.
 - 
     >[!Note]
-    > Partners moeten abonnementen op het overstappen van het **tenantaccount** van de partner in Partner Center op dezelfde dag dat deze abonnementen worden overge dragen naar en worden ingesteld onder de overgang naar **account** om ervoor te zorgen dat dubbele facturering niet wordt uitgevoerd. Microsoft biedt geen ondersteuning voor aanvragen voor tegoed vanwege overlapping in  de facturering die optreedt door het niet juist instellen van de overgang Van abonnementen naar tijdelijk opgeschort.
+    > Partners moeten abonnementen op het tenantaccount Overstappen van **partner** in Partner Center op dezelfde dag dat deze abonnementen worden overgemaakt naar en ingesteld onder het overgangsaccount naar **account,** om ervoor te zorgen dat dubbele facturering niet wordt uitgevoerd. Microsoft biedt geen ondersteuning voor aanvragen voor tegoed vanwege overlapping in  de facturering die optreedt door het niet juist instellen van de overgang Van abonnementen naar tijdelijk opgeschort.
 
 ### <a name="simplify-migration-using-export"></a>Migratie vereenvoudigen met behulp van Exporteren
 
@@ -138,7 +138,7 @@ Met de **functie Exporteren** kunt u de abonnementen vastleggen die u moet gebru
 
 ### <a name="api-registration"></a>API-registratie
 
-Zie API-toegang instellen in Partner Center voor meer informatie [over API-Partner Center.](/partner-center/develop/set-up-api-access-in-partner-center)
+Zie API-toegang instellen in Partner Center voor meer informatie [over API-registratie.](/partner-center/develop/set-up-api-access-in-partner-center)
 
 ## <a name="next-steps"></a>Volgende stappen
 

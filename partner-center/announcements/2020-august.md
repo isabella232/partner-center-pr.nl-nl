@@ -3,18 +3,18 @@ title: Aankondigingen van augustus 2020
 description: Aankondigingen van augustus 2020 voor Microsoft Partner Center, zoals nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: c163258d59c0e0640c8d8f3a0469a94d45582d1d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: baeaf39dd75d3c39bb7cfee393c3f9c409d5ce33
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839036"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101977"
 ---
 # <a name="august-2020-announcements"></a>Aankondigingen van augustus 2020
 
@@ -46,19 +46,19 @@ Microsoft voert vertrouwen uit en we zetten ons in voor een compatibele, veilige
 
 #### <a name="testing"></a>Testen
 
-Partners kunnen deze verbeteringen vanaf oktober testen. We raden u ten zeerste aan van deze mogelijkheid gebruik te maken om een beter inzicht te krijgen in de API's en gegevensinvoer die vereist zijn voor een succesvolle doorlichting van klanten. Binnenkort geven we meer informatie over de exacte timing en hoe u kunt deelnemen. De bestaande Partner Center API's worden vóór het einde van fy21 kwartaal 2012 in gebruik genomen. Op dat moment moeten alle partners zijn overstappen op het gebruik van de nieuwe Partner Center API's.
+Partners kunnen deze verbeteringen vanaf oktober testen. We raden u ten zeerste aan van deze mogelijkheid gebruik te maken om een beter inzicht te krijgen in de API's en gegevensinvoer die nodig zijn voor een succesvolle doorlichting door klanten. Binnenkort krijgt u meer informatie over de exacte timing en hoe u kunt deelnemen. De bestaande Partner Center API's worden vóór het einde van fy21 kwartaal 2012 in gebruik genomen. Op dat moment moeten alle partners overstappen op het gebruik van de nieuwe api'Partner Center API's.
 
 #### <a name="library-and-museum-customers"></a>Bibliotheek- en Library-klanten
 
-Naast de bovenstaande verbeteringen zijn we ook blij te kunnen aankondigen dat we in FY21 Q2 academische aanbiedingen voor Bibliotheek- en Digitale klanten gaan inschakelen, waardoor we de Education-klanten uitbreiden waarmee u CSP-aanbiedingen kunt transacten.
+Naast de bovenstaande verbeteringen zijn we ook blij te kunnen aankondigen dat we in FY21 Q2 academische aanbiedingen voor Bibliotheek- en Digitale klanten inschakelen, waardoor de Education-klanten waarmee u CSP-aanbiedingen kunt transacten, worden uitgebreid.
 
 Microsoft behoudt zich het recht voor om de status van een klant of voorgestelde klant te beoordelen als gekwalificeerde onderwijsgebruiker. Raadpleeg de academic Qualified Education User requirements (Vereisten voor academic [Qualified Education-gebruikers)](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) voor meer informatie.
 
 ### <a name="next-stepsadditional-resources"></a>Volgende stappen/aanvullende resources
 
-- Bekijk de nieuwe Partner Center Gebruikersinterface api-wijzigingen in de Operations Readiness-resources: verbeteringen Partner Center [Education-klantvalidatieproces](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
-- Zorg ervoor dat uw organisatie bekend is met [de vereisten voor Academic Qualified Education User.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
-- Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers om hen te helpen zich voor te bereiden op deze wijzigingen.
+- Bekijk de nieuwe Partner Center Gebruikersinterface en API-wijzigingen in de Operations Readiness-resources: verbeteringen van Partner Center [Education-klantvalidatieproces](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Zorg ervoor dat uw organisatie bekend is met de vereisten voor [Academic Qualified Education User.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
+- Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers, om hen te helpen zich voor te bereiden op deze wijzigingen.
 - Kijk eens naar een update van de testkans van oktober, waar we meer informatie geven over de exacte timing en hoe u kunt deelnemen.
 
 ________________
@@ -132,11 +132,11 @@ We hebben [vorig jaar gedeeld](https://partner.microsoft.com/resources/detail/po
 
 **Opmerking:** Selfservice-aankoopmogelijkheden zijn niet beschikbaar in India of voor klanten die in aanmerking komen voor overheids- of onderwijsaanbiedingen.
 
-#### <a name="partner-benefits"></a>Voordelen van partners
+#### <a name="partner-benefits"></a>Partnervoordelen
 
 U kunt uw services aanbieden aan personen en teams zonder dat u het gecentraliseerde IT-aanschafproces hoeft te doorlopen om de vereiste licenties te verkrijgen. Uw services kunnen Project en Visio, op basis van integratiescenario's met Microsoft 365 en Power Platform. 
 
-Meer informatie over partnermogelijkheden met Visio- en Power Platform-oplossingen kunt u vinden in de Microsoft Inspire-sessie Business herbouwen en opnieuw ontwikkelen met [Microsoft Visio en Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Raadpleeg de [selfservicebeheerdershandleiding voor meer informatie.](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)
+Meer informatie over partnermogelijkheden met Visio- en Power Platform-oplossingen in de Microsoft Inspire-sessie Business herbouwen en opnieuw ontwikkelen met [Microsoft Visio en Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Raadpleeg de [selfservicebeheerdershandleiding voor meer informatie.](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)
 
 #### <a name="additional-resources"></a>Aanvullende bronnen
 
@@ -170,9 +170,9 @@ Uitgebracht bij de lancering
 
 Later uitgebracht in CY2020
 - Interactieve vergadering van 1000 personen Teams persoon 
-- Interactieve vergaderingen voor 1000 deelnemers met de mogelijkheid om maximaal 20.000 in te stellen in een 'alleen-bekijken'-vergaderingservaring. 
-- Aangepaste vergaderingsvergaderingen
-- In het hele kalenderjaar worden aanvullende aanpassingen, hulpprogramma's en communicatieverbeteringen toegevoegd aan de SKU
+- Interactieve vergaderingen voor 1000 deelnemers met de mogelijkheid om maximaal 20.000 in te stellen in een 'alleen-bekijken'-vergadering. 
+- Aangepaste vergaderingsvergadering
+- In het kalenderjaar worden aanvullende aanpassingen, hulpprogramma's en verbeteringen in de communicatie toegevoegd aan de SKU
 
 #### <a name="offer-details"></a>Aanbiedingsdetails
 
@@ -184,9 +184,9 @@ Later uitgebracht in CY2020
 
 #### <a name="frequently-asked-questions"></a>Veelgestelde vragen
 
-- **Wat is Advanced Communications?** Met deze Microsoft Teams kunnen klanten hun communicatie-ervaring verder verbeteren. De SKU kan worden aangeschaft boven op elke Microsoft 365 SKU waar ze op zijn geabonneerd.
-- **Hoeveel kost het?** De commerciële ERP is USD 12 per gebruiker/maand. 
-- **Welke klanten kunnen de invoeg-app aanschaffen?** Commercial, Worldwide Commercial Public Sector, Education en Non-Profit.
+- **Wat is Advanced Communications?** Deze nieuwe Microsoft Teams stelt klanten in staat om hun communicatie-ervaring verder te verbeteren. De SKU kan worden aangeschaft boven op elke Microsoft 365 SKU waar ze op zijn geabonneerd.
+- **Hoeveel kost het?** De commerciële ERP is USD 12 per gebruiker/per maand. 
+- **Welke klanten kunnen de invoeg-app aanschaffen?** Commercial, Worldwide Commercial Public Sector, Education en Non-profit.
 - **Hoe kan deze worden aangeschaft?** De invoegaanvoeging kan worden aangeschaft via EA/EAS, EES, CSP of Web Direct.
 - **Waar kan het worden verkocht?** Het kan in alle huidige markten worden verkocht.
 - **Wat zijn de vereisten?** Alle Microsoft 365/Office 365 suite met Microsoft Teams.
@@ -223,7 +223,7 @@ Microsoft Defender Advanced Threat Protection (ATP) for Servers for Education be
 
 ________________
 
-## <a name="new-dynamics-365-sales-premium-bundle-offer"></a><a name="2"></a>Nieuwe Dynamics 365 Sales Premium-bundelaanbieding
+## <a name="new-dynamics-365-sales-premium-bundle-offer"></a><a name="2"></a>Nieuwe aanbieding voor Dynamics 365 Sales Premium-bundel
 ### <a name="categories"></a>Categorieën
 
 - Datum: 2020-08-03
@@ -231,7 +231,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die Microsoft Dynamics 365 transacteren
+Partners die Microsoft Dynamics 365 gebruiken
 
 ### <a name="summary"></a>Samenvatting
 
@@ -239,7 +239,7 @@ Op 1 augustus 2020 heeft Microsoft een nieuwe Dynamics 365 Sales Premium-bundela
 
 ### <a name="details"></a>Details
 
-Met ingang van 1 augustus 2020 heeft Microsoft een nieuwe Dynamics 365 Sales Premium-bundelaanbieding uitgebracht voor klanten in alle programma's en landen en regio's waar Dynamics 365 Enterprise en Dynamics 365 Sales Insights al beschikbaar zijn.
+Vanaf 1 augustus 2020 heeft Microsoft een nieuwe Dynamics 365 Sales Premium-bundelaanbieding uitgebracht voor klanten in alle programma's en landen en regio's waar Dynamics 365 Enterprise en Dynamics 365 Sales Insights al beschikbaar zijn.
 
 Bekijk het [dynamics CSP Offers-August 2020 Excel document](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/) voor meer informatie over deze aanbiedingen. 
 
@@ -267,24 +267,24 @@ Alle partners die deelnemen aan het Cloud Solution Provider (CSP)-programma
 
 ### <a name="summary"></a>Samenvatting
 
-Microsoft introduceert vanaf 1 augustus 2020 proefaanbiedingen voor Visio Abonnement 1 en abonnement 2. 
+Microsoft introduceert proefaanbiedingen voor Visio Abonnement 1 en abonnement 2 vanaf 1 augustus 2020. 
 
 ### <a name="details"></a>Details
 
-Met Microsoft Visio gebruikers moeiteloos professionele diagrammen maken, efficiënter samenwerken, verbinding maken met realtime gegevens en werkstromen automatiseren. Proefaanbiedingen voor Visio Abonnement 1 en abonnement 2 zijn beschikbaar vanaf 1 augustus 2020.
+Met Microsoft Visio kunnen gebruikers moeiteloos professionele diagrammen maken, efficiënter samenwerken, verbinding maken met realtime gegevens en werkstromen automatiseren. Proefaanbiedingen voor Visio Abonnement 1 en abonnement 2 zijn beschikbaar vanaf 1 augustus 2020.
 
-Microsoft Visio kan worden gebruikt in diverse branches en rollen met integratie in Microsoft 365, Microsoft Teams en Power Platform oplossingen. Geef uw klanten de hulpprogramma's die ze nodig hebben om hun bedrijf te runnen.
+Microsoft Visio kunnen worden gebruikt in diverse branches en rollen met integratie in Microsoft 365-, Microsoft Teams- en Power Platform-oplossingen. Geef uw klanten de hulpprogramma's die ze nodig hebben om hun bedrijf te runnen.
 
 #### <a name="what-are-the-partner-benefits"></a>Wat zijn de voordelen van partners?
 
 Microsoft Visio is een product dat u kan helpen:
 
-- Sjabloon- en integratiescenario's voor organisaties met Excel en Power BI om een duurzame organisatiestructuur te bouwen
+- Sjabloon- en integratiescenario's voor organisaties gebruiken met Excel en Power BI om een duurzame organisatiestructuur te bouwen
 - Plan een veilige terugkeer naar de werkplek met Visio floorplans om richtlijnen voor sociale distancing op te nemen
-- Bedrijfsmodellen aanpassen: Bedrijfsanalyse is de kern van het Visio waardepropositie. Pas bedrijfsmodellen aan de nieuwe manier van werken aan door kritieke bedrijfsprocessen toe te passen en opnieuw te ontwerpen met Visio en tijdige gegevensinzichten te krijgen met Power BI- en Visio-diagrammen die in die toepassing zijn ingesloten. 
-- Focus op waarde en kostenreductie: Identificeer en automatiseer terugkerende processen en help uw klanten bij het ontwikkelen van selfserviceworkloads voor algemene functionele rollen zoals IT-beheer, Human Resources en andere.
+- Bedrijfsmodellen aanpassen: Bedrijfsanalyse is de kern van de Visio waardepropositie. Pas bedrijfsmodellen aan de nieuwe manier van werken aan door kritieke bedrijfsprocessen toe te passen en opnieuw te ontwerpen met Visio en tijdig gegevensinzichten te krijgen met Power BI- en Visio-diagrammen die in die toepassing zijn ingesloten. 
+- Focus op waarde en kostenvermindering: Identificeer en automatiseer terugkerende processen en help uw klanten bij het ontwikkelen van selfserviceworkloads voor algemene functionele rollen zoals IT-beheer, Human Resources en andere.
 
-We bieden een gratis proefversie van 30 dagen voor Visio Abonnement 1 en Visio Abonnement 2 om uw klanten te helpen deze voordelen te ervaren. Partners kunnen proefversies vinden in de lijst met maandelijkse prijzen op de pagina met prijzen en aanbiedingen in Partner Center. Voor proefaanbiedingen wordt PROEFVERSIE vermeld in de prijslijst Secundair licentietype.
+We bieden een gratis proefversie van 30 dagen voor Visio Abonnement 1 en Visio Abonnement 2 om uw klanten te helpen deze voordelen te ervaren. Partners kunnen proefversies vinden in de lijst met maandelijkse prijzen op de pagina met prijzen en aanbiedingen in Partner Center. Proefaanbiedingen worden vermeld in de prijslijst Secundair licentietype.
 
 #### <a name="offer-details"></a>Aanbiedingsdetails
 
@@ -295,7 +295,7 @@ We bieden een gratis proefversie van 30 dagen voor Visio Abonnement 1 en Visio A
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Meer informatie over Visio Abonnement 1 en plan 2 in de [Operations Resource Gallery](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
-- We raden u ook aan om de Inspire-sessie te bekijken over Klanten helpen bij het opnieuw in gebruik stellen van bedrijven met [Microsoft Visio en Power Platform.](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)
+- Meer informatie over Visio Abonnement 1 en Plan 2 in de [Operations Resource Gallery](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
+- We raden u ook aan om de Inspire-sessie over het helpen van klanten om bedrijven te helpen bij het opnieuw maken van een bedrijf [met Microsoft Visio en Power Platform.](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)
 
 ________________

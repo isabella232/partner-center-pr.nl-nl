@@ -3,24 +3,24 @@ title: Aankondigingen van september 2020
 description: Aankondigingen van september 2020 voor Microsoft Partner Center, zoals nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: cccbedfc5e45ca6cf0e78db9c40dbcba2c2fdca2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 51ef59c21322ff64b417163a8a4a4262c80894bd
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838764"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102332"
 ---
 # <a name="september-2020-announcements"></a>Aankondigingen van september 2020
 
 Deze pagina geeft informatie over de aankondigingen voor Microsoft Partner Center voor september 2020.
 
-Aankondigingen van 2020: [februari](2020-february.md)  |  [maart](2020-march.md)  |  [april](2020-april.md)  |  [mei](2020-may.md)  |  [juni](2020-june.md)  |  [|](2020-july.md)  |  [](2020-august.md) September
+Aankondigingen van 2020: [februari](2020-february.md)  |  [maart](2020-march.md)  |  [april](2020-april.md)  |  [mei](2020-may.md)  |  [juli](2020-june.md)  |  [|](2020-july.md)  |  [](2020-august.md) September
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>Partner Center softwarelicentiesleutel en de melding over de downloadafhandeling
@@ -39,7 +39,7 @@ Alle CSP-partners (Cloud Solution Partner) die softwareaanbiedingen transacteren
 >[!NOTE]
 >Als gevolg van feedback van partners geven we opnieuw aan Partner Center mogelijkheid om software- en licentiesleutels voor permanente en serverabonnementssoftwareorders te verkrijgen. Deze wordt hersteld naar de vorige staat voordat deze wordt verwijderd op 19 januari 2021. Zie de aankondiging van [maart 2021 voor meer informatie.](./2021-march.md#4)
 
-Vandaag de dag kunnen partners Partner Center of het Microsoft 365-beheer Center gebruiken voor het downloaden van software en het uitvoeren van licentiesleutels voor CSP-softwareorders. Vanaf **19 januari 2021** wordt de uitvoering van Partner Center-software en licentiesleutels ingetrokken en zullen partners klanten laten weten dat ze het **Microsoft 365-beheer Center** uitsluitend voor dit doel willen gebruiken. De pagina Klantsoftware in Partner Center bevat een dieptekoppeling naar het Microsoft 365-beheer Center waar u klanten kunt verwijzen naar het verkrijgen van klantlicenties en softwaredownloads. Dit zorgt voor de veiligste en efficiëntste ervaring voor klanten.
+Vandaag de dag kunnen partners Partner Center of het Microsoft 365-beheer Center gebruiken voor het downloaden van software en het uitvoeren van licentiesleutels voor CSP-softwareorders. Vanaf **19 januari 2021** wordt de Partner Center-functie voor het leveren van software en licentiesleutels ingetrokken en wijzen partners klanten om het **Microsoft 365-beheer Center** uitsluitend voor dit doel te gebruiken. De pagina Klantsoftware in Partner Center bevat een dieptekoppeling naar het Microsoft 365-beheer Center waar u klanten kunt verwijzen om de klantlicenties en softwaredownloads te verkrijgen. Dit zorgt voor de veiligste en efficiëntste ervaring voor klanten.
 
 Softwarelicentiesleutels en downloadkoppelingen zijn waardevolle en zeer aangevraagde intellectueel eigendomsactiva. Als deze worden gelekt, kunnen ze snel worden verwijderd van hun activeringslimieten en een negatieve klant- en partnerervaring veroorzaken. Daarom is het essentieel dat partners de veiligste technologie en best practices gebruiken om deze waardevolle activa te beveiligen en hun klanten te beschermen.
 
@@ -55,7 +55,7 @@ Het Microsoft 365-beheer Center verbetert de beveiligde levering van aangeschaft
 
 ### <a name="questions"></a>Vragen?
 
-Voor vragen met betrekking tot deze melding kunt u contact [opnemen Partner Center ondersteuning](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+Voor vragen met betrekking tot deze melding kunt u contact [opnemen met Partner Center ondersteuning.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
 ### <a name="change-log"></a>Wijzigingslogboek:
 
@@ -86,7 +86,7 @@ Het Microsoft CSP-programma is exponentieel toegenomen, met meer dan 90.000 deel
 
 - Lees de [blogpost van de partner](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) en deel de informatie met de relevante personen in uw organisatie.
 
-- Bekijk het gereedheidsmateriaal in de bewerkingen gereedheidsresourceverzameling Ontwikkeling van CSP-programma en [wijzigingen in het Open License-programma](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/). U vindt hier een overzichtspresentatie, licentie-richtlijnen, gedetailleerde veelgestelde vragen van partners en nog veel meer nuttige bronnen. Gebruik deze [gereedheidskaart om](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) snel de juiste informatie voor uw rol te vinden.
+- Bekijk het gereedheidsmateriaal in de operations readiness-resourceverzameling Ontwikkeling van CSP-programma en [wijzigingen in het Open License-programma](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/). U vindt hier een overzichtspresentatie, licentie-richtlijnen, gedetailleerde veelgestelde vragen van partners en nog veel meer nuttige bronnen. Gebruik deze [gereedheidskaart om](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) snel de juiste informatie voor uw rol te vinden.
 
 ### <a name="questions"></a>Vragen?
 
@@ -115,7 +115,7 @@ ________________
 
 Vanaf 30 september 2020 is er een nieuw overgangsprogramma voor het automatiseren van de overdracht van Azure-abonnementen van een klant tussen partners die deelnemen aan het CSP-programma voor de nieuwe commerce-ervaring voor Azure (Azure-plan).
 
-Als uitbreiding op de nieuwe commerce-ervaring voor Azure verbetert het overgangshulpprogramma de flexibiliteit voor het beheren van Azure-abonnementen en het ondersteunen van de zich ontwikkelende bedrijfsbehoeften van klanten met de volgende voordelen:  
+Door de nieuwe commerce-ervaring voor Azure uit te breiden, verbetert het overgangshulpprogramma de flexibiliteit om Azure-abonnementen te beheren en de zich ontwikkelende zakelijke behoeften van klanten te ondersteunen met de volgende voordelen:  
 - Tijd besparen met eenvoudig te gebruiken hulpprogramma's waarmee Azure-overgangen worden automatiseren  
 - Geen onderbreking van Azure-services tijdens de overgang van het eigendom van facturering 
 
@@ -146,7 +146,7 @@ Partners die Academische aanbiedingen verkopen via het Cloud Solution Provider (
 
 ## <a name="details"></a>Details
 
-Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het uitvoeren van academische aanbiedingen in het CSP-programma. Als onderdeel van deze toezegging introduceren we Partner Center API- en gebruikersinterfaceverbeteringen in het tweede kwartaal van het fiscale jaar 2021 (FY21 Q2) dat meer duidelijkheid en zichtbaarheid biedt in het validatieproces van de klant. Ze bieden ook de mogelijkheid om nauwkeurigere gegevens in te geven, waardoor de klantvalidatie wordt verbeterd.  
+Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het uitvoeren van academische aanbiedingen in het CSP-programma. Als onderdeel van deze toezegging introduceren we Partner Center API- en gebruikersinterfaceverbeteringen in het tweede kwartaal van het fiscale jaar 2021 (FY21 Q2) dat duidelijkheid en zichtbaarheid in het validatieproces van de klant toevoegt. Ze bieden ook de mogelijkheid om nauwkeurigere gegevens in te geven, waardoor de klantvalidatie wordt verbeterd.  
 
 ### <a name="partner-center-enhancements"></a>Partner Center verbeteringen 
 
@@ -156,18 +156,18 @@ Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele,
 
 ### <a name="testing"></a>Testen 
 
-Partners kunnen deze verbeteringen vanaf oktober 2020 testen. We raden u ten zeerste aan van deze kans gebruik te maken om een beter inzicht te krijgen in de API's en gegevensinvoer die vereist zijn voor een succesvolle klantvalidatie. Binnenkort geven we meer informatie over de exacte timing en hoe u kunt deelnemen. De bestaande Partner Center API's worden vóór het einde van fy21 kwartaal 2 niet meer gebruikt. Op dat moment moet u overstappen op het gebruik van de nieuwe Partner Center API's.
+Partners kunnen deze verbeteringen vanaf oktober 2020 testen. We raden u ten zeerste aan van deze kans gebruik te maken om een beter inzicht te krijgen in de API's en gegevensinvoer die vereist zijn voor een succesvolle klantvalidatie. Binnenkort geven we meer informatie over de exacte timing en hoe u kunt deelnemen. De bestaande Partner Center-API's worden vóór het einde van het 21e kwartaal van 2018 in gebruik genomen. Op dat moment moet u overstappen op het gebruik van de nieuwe Partner Center API's.
 
 ### <a name="testing-update"></a>Update testen 
 
-Partnertestdatums zijn van 2 oktober 2020 tot en met 2 december 2020. Partners die willen deelnemen, moeten de klantentesthandleiding [voor Partner Center Education](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) bekijken voor informatie over hoe u zich kunt voorbereiden, hoe u zich kunt registreren en wat u kunt verwachten tijdens de testfase.
+Partnertestdatums zijn van 2 oktober 2020 tot en met 2 december 2020. Partners die willen deelnemen, moeten de [Partner Center Education-handleiding](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) voor klanttests bekijken voor informatie over hoe u zich kunt voorbereiden, hoe u zich kunt registreren en wat u kunt verwachten tijdens de testfase.
 
-### <a name="library-and-museum-customers"></a>Bibliotheek- en Library-klanten 
+### <a name="library-and-museum-customers"></a>Bibliotheek- en Bibliotheekklanten 
 
-Naast de verbeteringen die eerder zijn beschreven, kondigen we met trots aan dat we in FY21 Q2 academische aanbiedingen voor Bibliotheek- en Digitale klanten gaan inschakelen, waardoor u de Education-klanten kunt uitbreiden waarmee u CSP-aanbiedingen kunt transacten. 
+Naast de verbeteringen die eerder zijn beschreven, kondigen we met trots aan dat we in FY21 Q2 academische aanbiedingen voor bibliotheek- en onderwijsklanten inschakelen, waardoor we de Education-klanten kunnen uitbreiden waarmee u CSP-aanbiedingen kunt transacten. 
 
 >[!Note]
-> Microsoft behoudt zich het recht voor om de status van een klant of voorgestelde klant te beoordelen als gekwalificeerde onderwijsgebruiker. Zie Academic [Qualified Education User Requirements (Gebruikersvereisten voor Academic Qualified Education)](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) voor meer informatie. 
+> Microsoft behoudt zich het recht voor om de status van een klant of voorgestelde klant te controleren als gekwalificeerde onderwijsgebruiker. Zie Academic [Qualified Education User Requirements (Gebruikersvereisten voor Academic Qualified Education)](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) voor meer informatie. 
 
 ## <a name="next-steps"></a>Volgende stappen
 
@@ -177,13 +177,13 @@ Naast de verbeteringen die eerder zijn beschreven, kondigen we met trots aan dat
 
 - Zorg ervoor dat uw organisatie bekend is met [de Gebruikersvereisten voor Academic Qualified Education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
 
-- Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers, om hen te helpen zich voor te bereiden op deze wijzigingen. 
+- Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers om hen te helpen zich voor te bereiden op deze wijzigingen. 
 
 ## <a name="questions"></a>Vragen?
 
 Als u vragen hebt over deze melding, kunt u contact opnemen [met Partner Center ondersteuning.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
-## <a name="update---csp-o365-usage-apis-and-csp-license-usage-reports"></a><a name="13"></a>Update : rapporten over CSP O365-gebruiks-API's en CSP-licentiegebruik 
+## <a name="update---csp-o365-usage-apis-and-csp-license-usage-reports"></a><a name="13"></a>Update: gebruiks-API's voor CSP O365 en gebruiksrapporten van CSP-licenties 
 
 ### <a name="categories"></a>Categorieën
 
@@ -192,7 +192,7 @@ Als u vragen hebt over deze melding, kunt u contact opnemen [met Partner Center 
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die via het Cloud Solution Provider (CSP)-programma op Partner Center. 
+Alle partners die het programma Cloud Solution Provider (CSP) op Partner Center. 
 
 ### <a name="summary"></a>Samenvatting 
 
@@ -200,13 +200,13 @@ Er worden updates aangebracht in de definities van metrische gegevens die beschi
 
 ### <a name="details"></a>Details
 
-Dit is een update van [Partner Center aankondiging](#8) op 17 september 2020. We brengen updates aan om ervoor te zorgen dat de API-updates achterwaarts compatibel zijn om ervoor te zorgen dat u geen integratiewijzigingen hoeft aan te brengen. 
+Dit is een update voor [Partner Center aankondiging](#8) op 17 september 2020. We brengen updates aan om ervoor te zorgen dat de API-updates achterwaarts compatibel zijn om ervoor te zorgen dat u geen integratiewijzigingen hoeft aan te brengen. 
 
-Zoals eerder aangekondigd, vanaf 30 september 2020, worden de metrische CSP O365-gebruiksgegevens bijgewerkt. 
+Zoals eerder aangekondigd, worden de metrische gegevens over het gebruik van CSP O365 met ingang van 30 september 2020 bijgewerkt. 
 
 Met deze wijziging worden de definities van de metrische gegevens die beschikbaar zijn via de volgende API's voor het gebruik van CSP-licenties bijgewerkt: 
 
-1. [Api voor licentiegebruiksgegevens.](/partner-center/develop/get-licenses-usage-information)
+1. [API voor licentiegebruiksgegevens.](/partner-center/develop/get-licenses-usage-information)
 
 2. [API voor gebruiksgegevens van klantlicenties.](/partner-center/develop/get-customer-licenses-usage-information)
 
@@ -217,16 +217,16 @@ De bijgewerkte definities worden hieronder weergegeven. Omdat er geen wijziginge
 | **Meting** | **Bijgewerkte definities** |
 |---------|:---------|
 |licensesActive |Aantal licenties dat in de afgelopen 28 dagen is gebruikt |
-|licensesQualified |Aantal licenties voor proefversies en niet-proefversies dat beschikbaar is voor de product-SKU |
+|licensesQualified |Aantal licenties voor proefversies en niet-proefversies beschikbaar voor de product-SKU |
 |UsagePercent |Actieve licenties als een percentage van gekwalificeerde licenties |
-|ProratedLicenseUsagePercent|Actieve licenties als een percentage van gekwalificeerde licenties die zijn geaggregeerd voor de partner.  |
+|ProratedLicenseUsagePercent|Actieve licenties als een percentage van gekwalificeerde licenties die voor de partner zijn geaggregeerd.  |
 
 ### <a name="next-steps"></a>Volgende stappen
 
 Deel deze informatie met anderen in uw organisatie.
 ________________
 
-## <a name="upcoming-russian-federal-law-vat-changes"></a><a name="12"></a>Toekomstige btw-wijzigingen in de Russisch federale wet
+## <a name="upcoming-russian-federal-law-vat-changes"></a><a name="12"></a>Aanstaande btw-wijzigingen in de Federale Wet van Russisch
 
 ### <a name="categories"></a>Categorieën
 
@@ -243,26 +243,26 @@ Btw-wijzigingen die zijn geïntroduceerd door de Russisch federale wet #265-FZ w
 
 ### <a name="details"></a>Details
 
-Russisch federale wet #265-FZ dateert van 31 juli 2020 subsec.26 van sec.2 van art.149 van de Russisch belastingcode gewijzigd. In overeenstemming met de wijzigingen, vanaf 1 januari 2021 in Rusland, wordt het verlenen van exclusieve IP-rechten voor software en elektronische databases die niet zijn opgenomen **in** het uniforme register van de Russisch **software** en elektronische databases, evenals het verlenen van de gebruiksrechten voor dergelijke software en databases (inclusief updates en upgrades), en het verlenen van externe toegang tot deze databases via internet, niet langer **btw-vrijgesteld.** 
+De Russisch federale wet #265-FZ dateert van 31 juli 2020 en heeft subsec.26 van sec.2 of art.149 van de Russisch belastingcode gewijzigd. In overeenstemming met de wijzigingen, vanaf 1 januari 2021 in Rusland, wordt het verlenen van exclusieve **IP-rechten** voor software en elektronische databases die niet zijn opgenomen **in** het uniforme register van de Russisch **software** en elektronische databases, evenals het verlenen van de gebruiksrechten voor dergelijke software en databases (inclusief updates en upgrades), en het verlenen van externe toegang tot deze databases via internet, niet langer exclusief btw. 
 
 **Na de bovenstaande wijzigingen wordt de btw op het tarief dat is gedefinieerd door toepasselijk recht, door MIOL toegevoegd aan alle niet-concrete Microsoft-producten in Rusland.**
 
 Voor alle query's met betrekking tot deze wijziging dient u als volgt een ondersteuningsaanvraag in:
 
-- Volumelicenties: Als u vragen hebt, kunt u contact opnemen met uw Regional Operations Center via [clt (Call Logging Tool) of](https://clt.partners.extranet.microsoft.com/CLT) via Explore.ms. Volg het standaard CLT-proces nauwkeurig, zodat we uw query zo snel mogelijk kunnen oplossen.
+- Volumelicenties: Als u vragen hebt, kunt u contact opnemen met Regional Operations Center met behulp van [clt (Call Logging Tool) of](https://clt.partners.extranet.microsoft.com/CLT) via Explore.ms. Volg het standaard CLT-proces nauwkeurig, zodat we uw query zo snel mogelijk kunnen oplossen.
 - MBS/Dynamics: Partners moeten een aanvraag via het [OCL-hulpprogramma in](https://businesscenter.mbs.microsoft.com/)PartnerSource Business Center. 
 - CSP: Partners moeten [een ondersteuningsaanvraag indienen](https://partnercenter.microsoft.com/partner/support)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Deel deze informatie in uw organisatie wanneer u deze nodig acht. Microsoft kan u niet adviseren over uw belastingafding. Neem contact op met uw eigen belastingadviseurs over de impact van deze wijziging op uw bedrijf. 
+Deel deze informatie in uw organisatie zoals u dat nodig acht. Microsoft kan u niet adviseren over uw belastingafding. Neem contact op met uw eigen belastingadviseurs over de impact van deze wijziging op uw bedrijf. 
 ________________
 
 ## <a name="partner-center-insights--your-single-reporting-resource-for-understanding-your-business-with-microsoft"></a><a name="10"></a>Partner Center Insights: uw enige rapportageresource om inzicht te krijgen in uw bedrijf met Microsoft.
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2020-09-23
+- Datum: 23-09-2020
 - Functies
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
@@ -271,19 +271,19 @@ Alle partnerorganisaties in de Microsoft Partner Network.
 
 ### <a name="summary"></a>Samenvatting 
 
-Partner Center Insights vervangt binnenkort het hulpprogramma Voor rapportage **van MyInsights** dat niet meer wordt gebruikt. Partner Center Insights biedt uitgebreidere visuals, meer inzicht in rapportagemogelijkheden en KPI's voor klanten, abonnementen, licentiegebruik, resellerprestaties, training, competenties en voordelen. Gebruik deze intelligente inzichten om uw bedrijf duidelijk te begrijpen met Microsoft en met vertrouwen gegevensgestuurde beslissingen te nemen. Als u wilt beginnen, **selecteert Insights** in Partner Center navigatiemenu aan de linkerkant.
+Partner Center Insights vervangt binnenkort het hulpprogramma **myInsights-rapportage.** Partner Center Insights biedt uitgebreidere visuals, meer inzichtelijke rapportagemogelijkheden en KPI's voor klanten, abonnementen, licentiegebruik, prestaties van resellers, training, competenties en voordelen. Gebruik deze intelligente inzichten om uw bedrijf duidelijk te begrijpen met Microsoft en met vertrouwen gegevensgestuurde beslissingen te nemen. Als u wilt beginnen, **selecteert Insights** in Partner Center navigatiemenu aan de linkerkant.
 
 **MyInsights** is na 30 september 2020 niet meer beschikbaar. 
 
 ### <a name="what-is-insights"></a>Wat is Insights?
 
-Het Insights-dashboard in Partner Center biedt een uniforme weergave van de KPI's (Key Performance Indicators) van uw partnerorganisatie voor cloudproducten zoals Office 365, Azure, Dynamics 365 en licentiemodellen zoals Cloud Solution Provider (CSP) en Enterprise Agreement (EA). Er worden voortdurend nieuwe mogelijkheden toegevoegd en alle rapporten ondersteunen het exporteren van onbewerkte [gegevens,](../insights-download-reports.md)zodat u ad-hoc gegevensanalyse kunt uitvoeren op basis van uw bedrijfsbehoeften. Met Partner Center rapportrollen Executive Report Viewer en [Report Viewer](../insights-roles.md)kunt u de toegang en het gebruik van Insights binnen uw organisatie beter beheren.
+Het Insights-dashboard in Partner Center biedt u een uniforme weergave van 360 graden van de key performance indicators (KPI's) van uw partnerorganisatie voor cloudproducten zoals Office 365, Azure, Dynamics 365 en licentiemodellen zoals Cloud Solution Provider (CSP) en Enterprise Agreement (EA). Er worden voortdurend nieuwe mogelijkheden toegevoegd en alle rapporten bieden ondersteuning voor het exporteren van onbewerkte [gegevens,](../insights-download-reports.md)zodat u ad-hoc gegevensanalyse kunt uitvoeren op basis van uw bedrijfsbehoeften. Met Partner Center rapportagerollen Executive Report Viewer en [Report Viewer](../insights-roles.md)kunt u de toegang en het gebruik van Insights binnen uw organisatie beter beheren.
 
 Onlangs toegevoegde rapporten:
 
-- [Prestatierapport voor resellers en gegevensexport:](../insights-resellers-performance.md) biedt een overzicht voor indirecte CSP-providers van de prestaties van hun verschillende indirecte resellers.
+- [Prestatierapport en gegevensexport voor resellers:](../insights-resellers-performance.md) biedt een overzicht voor indirecte CSP-providers van de prestaties van hun verschillende indirecte resellers.
 
-- [Rapport over verkoopkansen van klanten en gegevensexport:](../insights-customer-opportunities.md)biedt een overzicht van de wil van de klanten om Microsoft-producten te kopen.
+- [Rapport over verkoopkansen en gegevensexport:](../insights-customer-opportunities.md)biedt een overzicht van de klanten voor het kopen van Microsoft-producten.
 
 Kijk [hier](../partner-center-insights.md) voor een volledige lijst met rapporten die beschikbaar zijn in Insights.
 
@@ -291,7 +291,7 @@ Kijk [hier](../partner-center-insights.md) voor een volledige lijst met rapporte
 
 - Raadpleeg de [Partner Center Insights voor](../partner-center-insights.md) meer informatie over rapportage-updates en verbeteringen.
 
-- We raden u aan deze nieuwe mogelijkheden te verkennen en uw feedback te delen met behulp van de inline feedbackhulpprogramma's die beschikbaar zijn op Insights tabblad.
+- We raden u aan deze nieuwe mogelijkheden te verkennen en uw feedback te delen met behulp van de inlinefeedbackhulpprogramma's die beschikbaar zijn op Insights tabblad.
 
 ________________
 
@@ -299,22 +299,22 @@ ________________
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 22-09-2020
+- Datum: 2020-09-22
 - Functies
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Directe factuurpartners en indirecte providers die deel nemen aan het CSP-programma dat gebruik maakt van de Partner Center .NET SDK.
+Directe factuurpartners en indirecte providers die deelnemen aan het CSP-programma dat de .NET-SDK Partner Center gebruiken.
 
 ### <a name="summary"></a>Samenvatting
 
-Vanaf 22 september 2020 kunnen partners beginnen met het downloaden van de versie van .NET Standard SDK Microsoft Partner Center .NET SDK v1.16.2, samen met bijgewerkte openbare **Partnercentrum-SDK GitHub voorbeelden**.
+Vanaf 22 september 2020 kunnen partners beginnen met het downloaden van de versie van .NET Standard SDK Microsoft Partner Center .NET SDK v1.16.2, samen met bijgewerkte openbare **Partnercentrum-SDK GitHub-voorbeelden**.
 
 ### <a name="details"></a>Details
 
 Details [van Microsoft Partner Center .NET SDK](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2) v1.16.2 is nu algemeen beschikbaar. Bijgewerkte [GitHub zijn](https://github.com/Microsoft/Partner-Center-DotNet-Samples) ook beschikbaar. De volgende wijzigingen zijn opgenomen in deze versie:
 
-- Ondersteunde bewerkingstypen voor controlerecord bijwerken. De zojuist toegevoegde resources worden weergegeven in [Resources controleren](/partner-center/develop/auditing-resources)
+- Ondersteunde bewerkingstypen voor Controlerecord bijwerken. De zojuist toegevoegde resources worden vermeld in [Resources controleren](/partner-center/develop/auditing-resources)
   - CreateSelfServePolicy
   - UpdateSelfServePolicy
   - DeleteSelfServePolicy
@@ -340,12 +340,12 @@ ________________
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2020-09-22
+- Datum: 22-09-2020
 - Aanbiedingen/markten
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Microsoft-veld en partners 
+Microsoft-veld en -partners 
 
 ### <a name="summary"></a>Samenvatting 
 
@@ -353,21 +353,21 @@ Azure SQL Edge, dat de veiligste Microsoft SQL-gegevensent engine naar Internet 
 
 ### <a name="details"></a>Details
 
-Vandaag kondigen we de beschikbaarheid aan van Azure SQL Edge, een realtime gegevensen engine die is geoptimaliseerd voor IoT-workloads. Deze containeroplossing is gebaseerd op dezelfde engine als die van SQL Server en Azure SQL en biedt dezelfde toonaangevende beveiliging, vertrouwde ontwikkelaarservaring en hulpprogramma's die veel teams al kennen en vertrouwen.
-Azure SQL Edge is beschikbaar voor Cloud Solution Providers (CSP's) om aan te schaffen op **donderdag 24 september.**
+Vandaag kondigen we de beschikbaarheid aan van Azure SQL Edge, een realtime gegevensen engine die is geoptimaliseerd voor IoT-workloads. Deze containeroplossing is gebaseerd op dezelfde engine als SQL Server en Azure SQL en biedt dezelfde toonaangevende beveiliging, vertrouwde ontwikkelaarservaring en hulpprogramma's die veel teams al kennen en vertrouwen.
+Azure SQL Edge is beschikbaar voor Cloud Solution Providers (CSP's) om te kopen op **donderdag 24 september.**
 
 [Azure SQL Edge](https://aka.ms/sqledge) is een container met een kleine footprint die gegevensstreaming, opslag en analyse mogelijk maakt voor realtime inzicht. Implementeer op edge-servers, gateways en apparaten in verbonden, niet-verbonden of hybride omgevingen.
 
-Azure SQL Edge heeft vereenvoudigde prijzen die de juiste grootte hebben voor IoT-implementaties. Deze zijn beschikbaar vanaf $ 60 per jaar per apparaat voor een toezegging van drie jaar of voor $ 10 per maand, per apparaatabonnement.
+Azure SQL Edge heeft vereenvoudigde prijzen die de juiste grootte hebben voor IoT-implementaties, beschikbaar vanaf $ 60 per jaar per apparaat voor een toezegging van drie jaar of voor $ 10 per maand, per apparaatabonnement.
 
 ### <a name="next-stepsadditional-resources"></a>Volgende stappen/aanvullende resources:
 
 - Bekijk de [aankondigingsblog van Ignite 2020](https://aka.ms/sqledge-ga)
-- Ga vandaag nog aan de slag of bekijk whitepapers, casestudies en meer op de [site SQL Edge](https://aka.ms/sqledge)
+- Ga vandaag nog aan de slag of bekijk whitepapers, casestudies en meer op de [SQL Edge-site](https://aka.ms/sqledge)
 
 ________________
 
-## <a name="upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-on-september-30-2020"></a><a name="8"></a>Toekomstige wijzigingen in CSP O365-gebruiks-API's en rapporten over het gebruik van CSP-licenties op 30 september 2020
+## <a name="upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-on-september-30-2020"></a><a name="8"></a>Toekomstige wijzigingen in CSP O365-gebruiks-API's en CSP-licentiegebruikrapporten op 30 september 2020
 
 ### <a name="categories"></a>Categorieën
 
@@ -388,13 +388,13 @@ Vanaf 30 september 2020 worden de metrische CSP O365-gebruiksgegevens bijgewerkt
 
 Met deze wijziging worden de volgende API's voor het gebruik van CSP-licenties bijgewerkt:  
 
-1. [API voor licentiegebruiksgegevens.](/partner-center/develop/get-licenses-usage-information)
+1. [Api voor gebruiksgegevens voor licenties.](/partner-center/develop/get-licenses-usage-information)
 
 2. [API voor gebruiksgegevens van klantlicenties.](/partner-center/develop/get-customer-licenses-usage-information)
 
-3.  [API voor gebruiksgegevens van partnerlicenties.](/partner-center/develop/get-partner-licenses-usage-information)
+3.  [Api voor gebruiksgegevens van partnerlicenties.](/partner-center/develop/get-partner-licenses-usage-information)
 
-We introduceren ook een nieuwe API die de MAU (maandelijks actieve gebruikers) per workload biedt voor elk van de klanten die u beheert.
+We introduceren ook een nieuwe API die mau (maandelijks actieve gebruikers) per workload biedt voor elk van de klanten die u beheert.
 
 Meer informatie over deze updates vindt u [hier.](https://partner.microsoft.com/resources/detail/guide-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-pdf)
 
@@ -420,23 +420,23 @@ Indirecte providers
 
 #### <a name="mpa-implementation-update"></a>MPA-implementatie-update
 
-De tweede fase van Microsoft Partner-overeenkomst implementatie (MPA) voor indirecte resellers vindt in de komende maanden plaats. Als indirecte resellers de MPA niet accepteren, wordt hun mogelijkheid om nieuwe klanten te blijven maken of nieuwe orders te plaatsen (inclusief verlengingen) voor bestaande klanten in het Cloud Solution Provider-programma onderbroken.
+De tweede fase van Microsoft Partner-overeenkomst implementatie (MPA) voor indirecte resellers vindt plaats in de komende maanden. Als indirecte resellers de MPA niet accepteren, wordt hun mogelijkheid om nieuwe klanten te blijven maken of nieuwe orders te plaatsen (inclusief verlengingen) voor bestaande klanten in het Cloud Solution Provider-programma onderbroken.
 
 Acties:
 
-- Gebruik de bijgewerkte API en Partner Center de hieronder genoemde rapporten om inzicht te krijgen in de MPA-acceptatiestatus van uw indirecte resellers.
-- Neem contact op met uw indirecte wederverkopers die [](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) de MPA niet hebben geaccepteerd en geef ze stapsgewijs richtlijnen op basis van de fase waarin ze zich in de Cloud Solution Provider-inschrijvingservaring van het Cloud Solution Provider-programma.
+- Gebruik de bijgewerkte API en Partner Center hieronder om inzicht te krijgen in de MPA-acceptatiestatus van uw indirecte resellers.
+- Neem contact op met uw indirecte resellers die [](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) de MPA niet hebben geaccepteerd en geef ze stapsgewijs richtlijnen op basis van de fase waarin ze zich in de registratiefase van het Cloud Solution Provider-programma.
 - Bekijk [de meldingen](https://partner.microsoft.com/resources/collection/reseller-emails-mpa-implementation#/) die uw indirecte resellers maandelijks ontvangen, vanaf later in september.
 
 #### <a name="updated-api"></a>Bijgewerkte API
 
 Wijzigingen in de bestaande API waarmee indirecte providers de MPA-acceptatiestatus van hun indirecte resellers kunnen controleren, zijn gepland voor beschikbaarheid in november. Partners kunnen vóór november toegang aanvragen tot de bijgewerkte API door de onderstaande acties te volgen. Partners die deze API gebruiken, moeten samenwerken met hun IT-team om de updates te testen en te implementeren. 
 
-- **Als u een bestaande MPA-API-gebruiker bent en de API-updates niet aan het maken bent, krijgt u te maken met API-fouten op 1 november 2020.** 
+- **Als u een bestaande MPA API-gebruiker bent en de API-updates niet aan het maken bent, zult u api-fouten ervaren op 1 november 2020.** 
 - Als de MPA niet door de indirecte reseller is geaccepteerd, worden in de bijgewerkte API een foutcode en een foutbericht weergegeven. Raadpleeg de [API-documentatie](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center) om de koppelingen Meer informatie weer te geven voor elke foutcode. Deze bevat handleidingen voor herstel die kunnen worden gedeeld met uw indirecte resellers. 
 
 Acties:
-- Voor toegang tot de bijgewerkte API vóór [](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR__XoYTV7iZJhSXvcfTPzq1UOTVRM1M4WlRGVzdDS1RRWElTUjVNRFBaWS4u) 1 november 2020 vult u dit formulier in door tenant-ID's (test of productie) op te geven. Toegang wordt binnen 48 uur geboden.
+- Voor toegang tot de bijgewerkte API vóór [](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR__XoYTV7iZJhSXvcfTPzq1UOTVRM1M4WlRGVzdDS1RRWElTUjVNRFBaWS4u) 1 november 2020 vult u dit formulier in met tenant-ID's (test of productie). Toegang wordt binnen 48 uur geboden.
 - Werk samen met uw IT-team om de bijgewerkte API te implementeren en de status van de MPA-acceptatie van indirecte resellers bij te houden. Meer informatie over de API-updates is beschikbaar in de [API-documentatie.](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center)
 - Neem deel aan de komende webinarreeks voor een overzicht van de API en Partner Center rapportage-updates. Deelnemen hieronder: 
 
@@ -449,16 +449,16 @@ Acties:
 
 #### <a name="mpa-reporting-in-partner-center"></a>MPA-rapportage in Partner Center
 
-1. Open het MPA-rapport om details weer te geven van uw indirecte resellers met een account in Partner Center en hun MPA-acceptatiestatus. Als u het rapport wilt weergeven, meldt u zich aan Partner Center en navigeert u naar **Analyseren/Reseller Analytics** in het menu links.
+1. Open het MPA-rapport om details weer te geven van uw indirecte resellers met een account in Partner Center en hun MPA-acceptatiestatus. Als u het rapport wilt weergeven, meldt u zich aan Partner Center en navigeert u naar **Analyse/reselleranalyse** in het menu links.
 
 2. Download het rapport door te klikken op het downloadpictogram aan de rechterkant.
-3. Open een leeg Excel bestand en sleep het gedownloade .tsv-bestand naar het Excel bestand.
+3. Open een leeg Excel bestand en sleep het gedownloade TSV-bestand naar het Excel bestand.
 
-Opmerking: als uw indirecte reseller ten minste één tenant heeft die de MPA binnen dezelfde regio heeft geaccepteerd, is er geen verdere actie van deze tenants vereist. 
+Opmerking: als uw indirecte reseller ten minste één tenant heeft die de MPA binnen dezelfde regio heeft geaccepteerd, is er geen verdere actie vereist. 
 
 ________________
 
-## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Aankopen via selfservice voor Microsoft Project Microsoft Visio nu beschikbaar
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Selfservice-aankopen voor Microsoft Project en Microsoft Visio nu beschikbaar
 
 ### <a name="categories"></a>Categorieën
 
@@ -478,9 +478,9 @@ Vorig jaar hebben we [u laten weten](https://partner.microsoft.com/resources/det
 
 Opmerking: Selfservice-aankoopmogelijkheden zijn momenteel niet beschikbaar in India, Brazilië, de Republiek India (DRC) of voor klanten die in aanmerking komen voor overheids- of onderwijsaanbiedingen.  Raadpleeg de [veelgestelde vragen over selfservice-aankopen](/microsoft-365/commerce/subscriptions/self-service-purchase-faq?preserve-view=true&view=o365-worldwide) voor volledige beschikbaarheid en updates voor landen.
 
-#### <a name="partner-benefits"></a>Voordelen van partners
+#### <a name="partner-benefits"></a>Partnervoordelen
 
-U kunt uw services aanbieden aan personen en teams zonder dat u een gecentraliseerd IT-aankoopproces hoeft te doorlopen om de vereiste licenties te verkrijgen. Uw services kunnen Project en Visio, op basis van integratiescenario's met Microsoft 365 en Power Platform. Klanten kunnen ook proberen voordat ze kopen met Visio en Project-proefversies, die nu beschikbaar zijn [voor Visio Abonnement 1 en Visio Abonnement 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)en [Project Abonnement 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
+U kunt uw services aanbieden aan personen en teams zonder dat u een gecentraliseerd IT-aankoopproces hoeft te doorlopen om de vereiste licenties te verkrijgen. Uw services kunnen Project en Visio, op basis van integratiescenario's met Microsoft 365 en Power Platform. Klanten kunnen ook proberen voordat ze kopen met Visio en Project proefversies, die nu beschikbaar zijn [voor Visio Abonnement 1 en Visio Abonnement 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)en [Project Abonnement 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
 
 
 ### <a name="next-steps"></a>Volgende stappen
@@ -521,7 +521,7 @@ Vanaf 1 oktober 2020:
 
 - Microsoft 365 E5 en Office 365 E5 de mogelijkheid om maximaal 500 items te indexeren met behulp van Microsoft Graph-connectors voor Microsoft Search (niet opgenomen in A5).  
 - Elke gebruiker met een suite of zelfstandige licentie die een SharePoint- of OneDrive-abonnement bevat, kan zoekresultaten van Microsoft Graph-connectors voor Microsoft Search. 
-- Er is **een nieuwe SKU Graph extra connectorcapaciteit** beschikbaar voor het indexeren van maximaal 1 miljoen extra items.  
+- Er is **een nieuwe SKU Graph extra** connectorcapaciteit beschikbaar voor het indexeren van maximaal 1 miljoen extra items.  
 
 #### <a name="offer-details"></a>Aanbiedingsdetails
 
@@ -553,11 +553,11 @@ Alle partners
 
 ### <a name="summary"></a>Samenvatting
 
-De ondersteuningservaring voor Incentives van partners is verbeterd met verbeterde zelfondersteuning voor het ontdekken van inhoud en een gestroomlijnd proces voor het indienen van onlinetickets.
+De ondersteuningservaring voor Partner Incentives is verbeterd met verbeterde zelfondersteuning voor het ontdekken van inhoud en een gestroomlijnd proces voor het indienen van onlinetickets.
 
 ### <a name="details"></a>Details
 
-Er zijn verbeteringen toegevoegd voor Incentives van partners om uw algehele ondersteuningservaring te verbeteren door betere zelfondersteuning voor het ontdekken van inhoud en een gestroomlijnd indieningsproces voor tickets dat het verzamelen van gegevens tussen heen en weer tijdens het ondersteuningsproces vermindert.
+Er zijn verbeteringen toegevoegd voor Incentives van partners om uw algehele ondersteuningservaring te verbeteren door betere zelfondersteuning voor het ontdekken van inhoud en een gestroomlijnd indieningsproces voor tickets dat het verzamelen van gegevens tussen heen en weer vermindert tijdens het ondersteuningsproces.
 
 #### <a name="new-capabilities"></a>Nieuwe functionaliteit
 
@@ -569,7 +569,7 @@ Er zijn verbeteringen toegevoegd voor Incentives van partners om uw algehele ond
 ### <a name="next-steps"></a>Volgende stappen
 
 - Deel deze informatie met anderen in uw organisatie. 
-- Gebruik de nieuwe ondersteuningservaring via [Partner Center](https://aka.ms/IncentivesSupport) of op [Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) voor al uw incentives-ondersteuningsvereisten. 
+- Gebruik de nieuwe ondersteuningservaring via [Partner Center](https://aka.ms/IncentivesSupport) of [op](https://partner.microsoft.com/support/?stage=1) Microsoft Partner Network voor al uw Incentives-ondersteuningsvereisten. 
 
 **Opmerking:** Ondersteuningsaanvragen worden niet geaccepteerd via directe e-mail, omdat deze functie is gestopt.
 
@@ -605,7 +605,7 @@ Voor bestaande Dynamics 365-klanten met PSA:
 - Dynamics 365 PSA-licenties ontvangen automatisch Project Operations als onderdeel van hun huidige licenties voor 31 december 2020.
 - Aan het einde van Dynamics 365 PSA-contracten moeten klanten overstappen naar Project Operations, die een minimale PSA-overgangs-SKU voor gebruikers heeft.
 
-Bekijk het Project Bewerkingen in het [document Dynamics CSP Offers-October 2020 Excel](https://partner.microsoft.com/resources/detail/microsoft-dynamics-365-new-ids-offers-csp-october-2020-xls) details van de aanbiedings-id.
+Bekijk het Project Operations in het document [Dynamics CSP Offers-October 2020 Excel](https://partner.microsoft.com/resources/detail/microsoft-dynamics-365-new-ids-offers-csp-october-2020-xls) details van de aanbiedings-id.
 
 #### <a name="additional-resources"></a>Aanvullende bronnen
 
@@ -621,7 +621,7 @@ Op 1 oktober 2020 breidt Microsoft business central cloud-aanbiedingen uit naar 
 
 Op 1 oktober 2020 zijn nieuwe invoegaanbiedingen voor Business Central Cloud beschikbaar waarmee klanten extra omgevingen kunnen toevoegen. 
 
-Bekijk het **tabblad Aanvullende omgevingen** in het [dynamics CSP Offers-October 2020 Excel document](https://partner.microsoft.com/resources/detail/microsoft-dynamics-365-new-ids-offers-csp-october-2020-xls) voor de details van de aanbiedings-id.
+Bekijk het **tabblad Aanvullende** omgevingen in het [dynamics CSP Offers-October 2020 Excel document](https://partner.microsoft.com/resources/detail/microsoft-dynamics-365-new-ids-offers-csp-october-2020-xls) voor de details van de aanbiedings-id.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -646,11 +646,11 @@ Microsoft kondigt met trots aan dat Calling Plan op 1 oktober 2020 beschikbaar z
 
 ### <a name="details"></a>Details
 
-Microsoft 365 Calling Plan is beschikbaar in de volgende nieuwe markten op 1 oktober 2020: Italië, Italië, Portugal, Zwitserland en Zwitserland. De nieuwe geografische beschikbaarheid wordt uitgebracht in Commerciële, Wereldwijde openbare sector, Non-profitorganisatie en Government Community Cloud via Enterprise Agreement (EA) of Enterprise Agreement Subscription (EAS), Enrollment for Education Solutions (EES), Web Direct en CSP. 
+Microsoft 365 Calling Plan is beschikbaar op de volgende nieuwe markten op 1 oktober 2020: Italië, Italië, Portugal, Zwitserland en Zwitserland. De nieuwe geografische beschikbaarheid wordt uitgebracht in Commerciële, Wereldwijde openbare sector, Non-profitorganisatie en Government Community Cloud via Enterprise Agreement (EA) of Enterprise Agreement Subscription (EAS), Enrollment for Education Solutions (EES), Web Direct en CSP. 
 
 Alle functies van het aanroepen van abonnementen zijn beschikbaar voor nationale en internationale oproepplannen van Microsoft, met inbegrip van de nationale abonnementen 120, 240 en 1200 minuten per gebruiker per maand (p/u/m) nationale abonnementen, en het internationale abonnement met 1200 nationale minuten p/u/m en 600 internationale minuten p/u/m. 
 
-Meer informatie over het aanroepen van abonnementen, overmatig gebruik en communicatietegoeden vindt u in de sectie Belplan van de Veelgestelde vragen over [moderne werklicenties.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements)
+Meer informatie over het aanroepen van abonnementen, overmatig gebruik en communicatietegoeden vindt u in de sectie Belplan van de Veelgestelde vragen over [modern werklicenties.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements)
 
 Calling Plan is momenteel beschikbaar in Canada, Frankrijk, Duitsland, Ierland, Nederland, Tokio (alleen kanaalbeschikbaarheid beperkt tot EA en EES), Spanje, het Verenigd Koninkrijk en de Verenigde Staten (beschikbaarheid van een oproepplan van derden in Australië en Japan).
 

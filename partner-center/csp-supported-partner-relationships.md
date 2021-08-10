@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f5a7e63a4e4ae79d85f07f07f0951d32535d815
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 204544ef0372b98014f8e90b02bb4c7608df81e12c006cf9ca7459d1c63cf52a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845309"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690202"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Meer informatie over hoe partners kunnen werken met andere partners in het CSP-programma
 
@@ -34,9 +34,9 @@ Als partner in het CSP-programma kunt u bepalen hoe u met Microsoft en anderen w
 - Indirecte resellers
 - Partners voor directe factuur
 
-**Indirecte providers** (ook wel distributeurs genoemd) kopen aanbiedingen van derden en aanbiedingen van derden via de Microsoft Marketplace. Als indirecte provider kunt u deze aanbiedingen kopen en integreren in uw eigen, bestaande commerce of marketplace. Hierdoor kunnen uw indirecte resellers dergelijke aanbiedingen aanschaffen en deze opnieuw verkopen aan hun eigen klanten. Een indirecte provider betekent dat u de infrastructuur en mogelijkheden hebt om indirecte resellers op schaal te ondersteunen. Dit betekent ook dat u extra services kunt bieden aan klanten namens uw indirecte resellers, zoals klantondersteuning en facturering. Zie Partner [with indirect resellers in het CSP-programma](indirect-provider-tasks-in-partner-center.md)voor meer informatie over hoe indirecte providers verbinding maken met indirecte resellers.
+**Indirecte providers** (ook wel distributeurs genoemd) kopen aanbiedingen van derden en aanbiedingen van derden via de Microsoft Marketplace. Als indirecte provider kunt u deze aanbiedingen kopen en integreren in uw eigen, bestaande commerce of marketplace. Hierdoor kunnen uw indirecte resellers dergelijke aanbiedingen aanschaffen en deze opnieuw verkopen aan hun eigen klanten. Als u een indirecte provider bent, hebt u de infrastructuur en mogelijkheden om indirecte resellers op schaal te ondersteunen. Dit betekent ook dat u extra services kunt bieden aan klanten namens uw indirecte resellers, zoals klantondersteuning en facturering. Zie Partner [with indirect resellers in het CSP-programma](indirect-provider-tasks-in-partner-center.md)voor meer informatie over hoe indirecte providers verbinding maken met indirecte resellers.
 
-**Indirecte resellers** zijn partners in het CSP-programma die variëren in grootte en bedrijfsbereik, maar die geen directe factureringsrelatie hebben met Microsoft. Als indirecte reseller bent u afhankelijk van indirecte providers voor transact in het CSP-programma. Sommige indirecte resellers kunnen mogelijk ook beheerde services, ondersteuning en factureringsoplossingen aanbieden aan klanten. U kunt verschillende voordelen ontvangen van uw samenwerking met indirecte providers. Door samen te werken met ervaren technologieproviders, kunt u op de markt gaan zonder dat u grote investeringen moet doen. Als indirecte reseller hebt u ook toegang tot een breder portfolio met oplossingen van Microsoft en derden. Zie Taken voor indirecte resellers in Partner Center voor meer informatie [over het worden van een indirecte reseller.](indirect-reseller-tasks-in-partner-center.md)
+**Indirecte resellers** zijn partners in het CSP-programma die variëren in grootte en bedrijfsbereik, maar die geen directe factureringsrelatie hebben met Microsoft. Als indirecte reseller bent u afhankelijk van indirecte providers voor transact in het CSP-programma. Sommige indirecte resellers kunnen mogelijk ook beheerde services, ondersteuning en factureringsoplossingen aanbieden aan klanten. U kunt verschillende voordelen ontvangen van uw samenwerking met indirecte providers. Door samen te werken met ervaren technologieproviders, kunt u op de markt gaan zonder dat u grote investeringen moet doen. Als indirecte reseller hebt u ook toegang tot een breder portfolio met oplossingen van Microsoft en derden. Zie Taken voor indirecte resellers in Partner Center voor meer informatie over [het worden van een indirecte reseller.](indirect-reseller-tasks-in-partner-center.md)
 
 **Partners voor directe facturering zijn** partners met een directe factureringsrelatie met Microsoft. Als partner voor directe factuur kunt u aanbiedingen en aanbiedingen van derden rechtstreeks vanuit de Microsoft Marketplace aanschaffen en deze vervolgens aan uw klanten verkopen. U moet voldoen aan bepaalde programmatische vereisten voor de rol van directe factuurpartner. Dit omvat de mogelijkheid om te integreren met Microsoft met behulp van API's. U moet klanten ook op basis van facturering, ondersteuning en beheerde services kunnen voorzien. Zie Inschrijven als partner voor directe factuur voor [meer informatie.](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner)
 
@@ -47,7 +47,7 @@ Als onderdeel van de doorlopende Cloud Solution Provider van het programma, hebb
 De **Microsoft Partner-overeenkomst (MPA)** biedt partners een gestroomlijnde, digitale overeenkomst die ondersteuning biedt voor nieuwe bedrijfsscenario's, een verminderde behoefte aan meerdere partnercontracten en eenvoudigere naleving van globale, juridische vereisten.
 
 >[!IMPORTANT]
-> Vanaf 1 februari 2020 moet de Microsoft Partner-overeenkomst zijn ondertekend door alle partners die een transact hebben in het CSP-programma. Dit omvat indirecte providers, partners voor directe factuur en indirecte resellers.
+> Vanaf 1 februari 2020 moet de Microsoft Partner-overeenkomst ondertekend zijn door alle partners die een transact hebben in het CSP-programma. Dit omvat indirecte providers, partners voor directe factuur en indirecte resellers.
 
 Een indirecte reseller moet de MPA ondertekenen voordat de reseller kan deelnemen aan de volgende activiteiten:
 
@@ -66,7 +66,7 @@ Zie voor meer informatie [Microsoft Partner-overeenkomst (MPA) voor CSP-partners
 
 Partners in het CSP-programma krijgen veel mogelijkheden om samen te werken. In de volgende sectie wordt beschreven hoe enkele voorbeeldpartnerscenario's al dan niet worden ondersteund in het CSP-programma.
 
-**Voorbeeldscenario 1:** Wat gebeurt er als een partner wil verkopen aan de klant, eigenaar wil zijn van de end-to-end-relatie en verantwoordelijk wil zijn voor facturering en klantondersteuning?
+**Voorbeeldscenario 1:** Wat gebeurt er als een partner wil verkopen aan de klant, eigenaar wil zijn van de end-to-end-relatie en verantwoordelijk is voor facturering en klantondersteuning?
 
 Dit scenario wordt ondersteund door twee typen transactionele relaties:
 
@@ -75,15 +75,15 @@ Dit scenario wordt ondersteund door twee typen transactionele relaties:
 
 **Voorbeeldscenario 2:** Wat gebeurt er als een partner een klant heeft die een specifieke service of oplossing nodig heeft die wordt aangeboden door een andere CSP-programmapartner?
 
-De eindklant kan verschillende services van verschillende partners aanschaffen, op basis van de zakelijke behoeften van de klant. Zie Ondersteuning voor meerdere [partners voor meer informatie.](multipartner.md)
+De eindklant kan verschillende services van verschillende partners aanschaffen, op basis van de zakelijke behoeften van de klant. Zie Ondersteuning voor [meerdere partners voor meer informatie.](multipartner.md)
 
-**Voorbeeldscenario 3:** Wat gebeurt er als er contact wordt opgenomen met een klant die deze wil in dienst nemen om hun abonnement(en) te beheren en te ondersteunen?
+**Voorbeeldscenario 3:** Wat gebeurt er als er contact wordt opgenomen met een klant die deze wil in dienst nemen om zijn of haar abonnement(en) te beheren en te ondersteunen?
 
-De klant kan meerdere partners in contact brengen om hun abonnement(en) te beheren. Zie Ondersteuning voor [meerdere kanalen voor meer informatie.](multichannel.md)
+De klant kan meerdere partners betrekken om hun abonnement(en) te beheren. Zie Ondersteuning voor [meerdere kanalen voor meer informatie.](multichannel.md)
 
 **Voorbeeldscenario 4:** Wat gebeurt er als een partner in het CSP-programma (een indirecte provider, indirecte reseller of partner voor directe factuur) aanbiedingen van Microsoft of derden wil kopen voor eigen gebruik (als eindklant)? Kan de partner dergelijke aanbiedingen kopen van een andere CSP-programmapartner?
 
-De partner kan als klant kopen bij een indirecte reseller of bij een partner voor directe factuur. Om dit te doen, moeten ze echter een andere tenant gebruiken dan de tenant die wordt gebruikt voor CSP.
+De partner kan als klant kopen bij een indirecte reseller of bij een directe factuurpartner. Om dit te doen, moeten ze echter een andere tenant gebruiken dan de tenant die wordt gebruikt voor CSP.
 
 In dit geval moeten services die door de partner zijn gekocht, worden ingericht voor een tenant die is aangewezen als klanttype (een tenant alleen voor intern gebruik). Dergelijke services **kunnen niet** worden ingericht voor de CSP-tenant van de bestaande partner (de tenant die wordt gebruikt door de partner in het Cloud Solution Provider programma).</br>
 

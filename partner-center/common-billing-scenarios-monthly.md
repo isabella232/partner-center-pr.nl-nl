@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dad132f9ad749076dc52a45f1ce77f23839e8671
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f6486f391925b7b283bec6b14c93c51ede095be033a307031b20bc604a2629e5
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840702"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682314"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Voorbeeld van maandelijkse factureringsscenario's voor nieuwe abonnementen, wijzigen van licentiebedragen of opzegging
 
@@ -48,10 +48,10 @@ Op 1 februari verhoogt u het aantal licenties van één naar twee. Het afstemmin
 
 |Begindatum van kosten |Einddatum van kosten |Kostentype |Prijs per eenheid |Aantal |Bedrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 1/13/2018        |2/12/2018    |Prorate van cyclus-exemplaar   |-4.00       |1        |-4.00   |
-|1/13/2018         |1/31/2018    | Prorate van cyclus-exemplaar   |2.45       |1        |2.45    |
-|1-2-2018         |2/12/2018    | Prorate van cyclus-exemplaar   |1,55       |2        |3.10    |
-|2/13/2018         |3/12/2018    | Prorate van cyclus-exemplaar   |4,00       |2        |8,00    |
+| 1/13/2018        |2/12/2018    |Prorate cyclus-exemplaar   |-4.00       |1        |-4.00   |
+|1/13/2018         |1/31/2018    | Prorate cyclus-exemplaar   |2.45       |1        |2.45    |
+|1-2-2018         |2/12/2018    | Prorate cyclus-exemplaar   |1,55       |2        |3.10    |
+|2/13/2018         |3/12/2018    | Prorate cyclus-exemplaar   |4,00       |2        |8,00    |
 
 De maandelijkse prijs is 4,00 en er zijn 31 dagen in de serviceperiode van 13-01-2018 – 2/12/2018. Dit komt overeen met een dagelijkse prijs van 0,129 (4/31).
 
@@ -107,4 +107,4 @@ Daarom is de eenheidsprijs = -1,716 (12 x 0,143 x (-1)).
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Factureringsscenario's voor eenmalige en geselecteerde terugkerende aankopen](common-billing-scenarios-onetime-recurring.md)
+- [Factureringsscenario's voor eenmalige en terugkerende aankopen selecteren](common-billing-scenarios-onetime-recurring.md)

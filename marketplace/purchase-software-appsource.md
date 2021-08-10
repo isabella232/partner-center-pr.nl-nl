@@ -6,12 +6,12 @@ ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
-ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
+ms.openlocfilehash: e55e45fe80c67653fec1a6e2b191801061040a3537f9183b2bc8c8824b0c6252
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112896795"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688332"
 ---
 # <a name="purchase-saas-apps-on-microsoft-appsource"></a>SaaS-apps kopen op Microsoft AppSource
 
@@ -21,9 +21,9 @@ ms.locfileid: "112896795"
 
 Voor het kopen van een SaaS-app is het volgende vereist:
 
-- Een werk- of schoolaccount. Als u geen werk- of schoolaccount hebt, volgt u de koppeling 'Aanmelden voor een gratis account' tijdens het aankoopproces.
+- Een werk- of schoolaccount. Als u geen werk- of schoolaccount hebt, volgt u de koppeling 'Registreren voor een gratis account' tijdens het aankoopproces.
 
-- Een geldige creditcard in het land/de regio waar u de aanbieding koopt. Ondersteunde creditcards: Voor, Master Card, American Express en Discover.
+- Een geldige creditcard in het land of de regio waar u de aanbieding koopt. Ondersteunde creditcards: Credit Card, Master Card, American Express en Discover.
 
     > [!Note]
     > Het land/de regio van de creditcardfacturering kan zijn vergrendeld op de locatie van uw Azure Active Directory-instantie.
@@ -44,7 +44,7 @@ Voor het kopen van een SaaS-app is het volgende vereist:
 
 ## <a name="configure-the-application"></a>De toepassing configureren
 
-Nadat uw bestelling is ontvangen, kan het enkele seconden duren voordat deze is bevestigd. U ontvangt een koppeling om uw SaaS-abonnement te configureren op de pagina, evenals een e-mail waarin de aankoop wordt bevestigd en de koppeling om de configuratie te voltooien.
+Nadat uw bestelling is ontvangen, kan het enkele seconden duren voordat de bestelling is bevestigd. U ontvangt een koppeling voor het configureren van uw SaaS-abonnement op de pagina, evenals een e-mail waarin de aankoop wordt bevestigd en de koppeling om de configuratie te voltooien.
 
 1. Selecteer op **de pagina Orderbevestiging** de optie **Configureren.** U kunt ook de configuratiekoppeling gebruiken die u in de bevestigingsmail hebt ontvangen.
 1. Voltooi het inrichten en instellen op de website van de softwareprovider.

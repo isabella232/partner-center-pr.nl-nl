@@ -1,6 +1,6 @@
 ---
-title: 'Snelstartgids: een persoonlijke Azure Marketplace beheren met Power shell'
-description: In deze Quick start ziet u hoe u aanbiedingen kunt beheren in een persoonlijke Azure Marketplace met behulp van Azure PowerShell.
+title: 'Quickstart: Een privé-Azure Marketplace met PowerShell'
+description: In deze quickstart ziet u hoe u aanbiedingen in een Privé-Azure Marketplace beheert met Azure PowerShell.
 author: keferna
 ms.author: keferna
 ms.topic: quickstart
@@ -8,19 +8,19 @@ ms.service: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 1aa734e30c73cd1d3c28c4a77af000a1abadaf16676508c3d986bb23b3a2d2d7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412451"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688536"
 ---
-# <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Snelstartgids: een persoonlijke Azure Marketplace beheren met Power shell
+# <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Quickstart: Een privé-Azure Marketplace met PowerShell
 
-In dit artikel wordt beschreven hoe u aanbiedingen kunt beheren in een persoonlijke Azure Marketplace met behulp van de [AZ. Marketplace](/powershell/module/az.marketplace) Power shell-module.
+In dit artikel wordt beschreven hoe u aanbiedingen in een privé-Azure Marketplace met behulp van de PowerShell-module [Az.Marketplace.](/powershell/module/az.marketplace)
 
 > [!IMPORTANT]
-> De persoonlijke Azure Marketplace is momenteel beschikbaar als open bare preview. Deze preview-versie wordt geleverd zonder Service Level Agreement. Dit wordt niet aanbevolen voor productieworkloads. Sommige functies worden mogelijk niet ondersteund of hebben mogelijk beperkte mogelijkheden. Zie [Supplemental Terms of Use for Microsoft Azure Previews (Aanvullende gebruiksvoorwaarden voor Microsoft Azure-previews)](https://azure.microsoft.com/support/legal/preview-supplemental-terms/) voor meer informatie.
+> Privé Azure Marketplace is momenteel beschikbaar als openbare preview. Deze preview-versie wordt geleverd zonder Service Level Agreement. Dit wordt niet aanbevolen voor productieworkloads. Sommige functies worden mogelijk niet ondersteund of hebben beperkte mogelijkheden. Zie [Supplemental Terms of Use for Microsoft Azure Previews (Aanvullende gebruiksvoorwaarden voor Microsoft Azure-previews)](https://azure.microsoft.com/support/legal/preview-supplemental-terms/) voor meer informatie.
 
 ## <a name="requirements"></a>Vereisten
 
@@ -33,7 +33,7 @@ In dit artikel wordt beschreven hoe u aanbiedingen kunt beheren in een persoonli
   * Raadpleeg [Overzicht van Azure Cloud Shell](/azure/cloud-shell/overview) voor meer informatie.
 
   > [!IMPORTANT]
-  > Hoewel de Power shell-module **AZ. Marketplace** in preview is, moet u deze afzonderlijk installeren met behulp van de `Install-Module` cmdlet. Nadat de PowerShell-module algemeen beschikbaar is geworden, wordt deze onderdeel van toekomstige releases van de Az PowerShell-module en is deze standaard beschikbaar vanuit Azure Cloud Shell.
+  > Hoewel de **PowerShell-module Az.Marketplace** in preview is, moet u deze afzonderlijk installeren met behulp van de `Install-Module` cmdlet . Nadat de PowerShell-module algemeen beschikbaar is geworden, wordt deze onderdeel van toekomstige releases van de Az PowerShell-module en is deze standaard beschikbaar vanuit Azure Cloud Shell.
 
   ```azurepowershell-interactive
   Install-Module -Name Az.Marketplace
@@ -45,9 +45,9 @@ In dit artikel wordt beschreven hoe u aanbiedingen kunt beheren in een persoonli
   Set-AzContext -SubscriptionId 00000000-0000-0000-0000-000000000000
   ```
 
-## <a name="list-private-stores"></a>Persoonlijke winkels weer geven
+## <a name="list-private-stores"></a>Een lijst met persoonlijke winkels maken
 
-Als u een lijst met privé archieven wilt ophalen, gebruikt u de cmdlet [Get-AzMarketplacePrivateStore](/powershell/module/az.marketplace/get-azmarketplaceprivatestore) . In het volgende voor beeld ziet u een lijst met privé archieven die zijn gemaakt onder het Tenant bereik.
+Als u een lijst met persoonlijke winkels wilt ophalen, gebruikt u de cmdlet [Get-AzMarketplacePrivateStore.](/powershell/module/az.marketplace/get-azmarketplaceprivatestore) In het volgende voorbeeld worden privé-winkels vermeld die zijn gemaakt onder het tenantbereik.
 
 ```azurepowershell-interactive
 Get-AzMarketplacePrivateStore
@@ -62,9 +62,9 @@ Name           : 00000000-0000-0000-0000-000000000000
 Type           : Microsoft.Marketplace/privateStores
 ```
 
-## <a name="add-an-offer-to-a-private-marketplace"></a>Een aanbieding toevoegen aan een privé Marketplace
+## <a name="add-an-offer-to-a-private-marketplace"></a>Een aanbieding toevoegen aan een privé-marketplace
 
-Als u een aanbieding aan een privé-archief wilt toevoegen, gebruikt u de cmdlet [set-AzMarketplacePrivateStoreOffer](/powershell/module/az.marketplace/set-azmarketplaceprivatestoreoffer) . In het volgende voor beeld wordt het opgegeven aanbod toegevoegd aan een privé-Marketplace voor een privé-archief dat is gemaakt onder het Tenant bereik.
+Als u een aanbieding wilt toevoegen aan een privé-winkel, gebruikt u de cmdlet [Set-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/set-azmarketplaceprivatestoreoffer) In het volgende voorbeeld wordt de opgegeven aanbieding toegevoegd aan een privémarktplaats voor een persoonlijke winkel die wordt gemaakt onder het tenantbereik.
 
 ```azurepowershell-interactive
 $Params = @{
@@ -97,9 +97,9 @@ Name                      : publisherid.offerid
 Type                      : Microsoft.Marketplace/privateStores/offers
 ```
 
-## <a name="get-private-store-offers"></a>Aanbiedingen voor privé winkels ophalen
+## <a name="get-private-store-offers"></a>Aanbiedingen voor persoonlijke winkels downloaden
 
-Als u een of meer aanbiedingen voor privé winkels wilt ophalen, gebruikt u de cmdlet [Get-AzMarketplacePrivateStoreOffer](/powershell/module/az.marketplace/get-azmarketplaceprivatestoreoffer) . In het volgende voor beeld worden aanbiedingen opgehaald die zijn gekoppeld aan het opgegeven privé archief die zijn toegevoegd onder het Tenant bereik.
+Als u een of meer aanbiedingen voor persoonlijke winkels wilt ontvangen, gebruikt u de cmdlet [Get-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/get-azmarketplaceprivatestoreoffer) In het volgende voorbeeld worden aanbiedingen ontvangen die zijn gekoppeld aan de opgegeven persoonlijke opslag die zijn toegevoegd onder het tenantbereik.
 
 ```azurepowershell-interactive
 Get-AzMarketplacePrivateStoreOffer -PrivateStoreId 00000000-0000-0000-0000-000000000000
@@ -138,7 +138,7 @@ Type                      : Microsoft.Marketplace/privateStores/offers
 
 ## <a name="remove-an-offer"></a>Een aanbieding verwijderen
 
-Als u een aanbieding uit een privé-archief wilt verwijderen, gebruikt u de cmdlet [Remove-AzMarketplacePrivateStoreOffer](/powershell/module/az.marketplace/remove-azmarketplaceprivatestoreoffer) . In het volgende voor beeld wordt een aanbieding verwijderd uit een privé-archief dat is gemaakt in het Tenant bereik.
+Als u een aanbieding uit een privé-winkel wilt verwijderen, gebruikt u de cmdlet [Remove-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/remove-azmarketplaceprivatestoreoffer) In het volgende voorbeeld wordt een aanbieding verwijderd uit een persoonlijke winkel die is gemaakt in het tenantbereik.
 
 ```azurepowershell-interactive
 Remove-AzMarketplacePrivateStoreOffer -privateStoreId 00000000-0000-0000-0000-000000000000 -offerId publisherid.offerid
@@ -146,4 +146,4 @@ Remove-AzMarketplacePrivateStoreOffer -privateStoreId 00000000-0000-0000-0000-00
 
 ## <a name="next-steps"></a>Volgende stappen
 
-[Persoonlijke Azure Marketplace maken en beheren](create-manage-private-azure-marketplace.md).
+[Privé-Azure Marketplace](create-manage-private-azure-marketplace.md)en beheren.

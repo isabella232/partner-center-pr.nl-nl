@@ -1,51 +1,51 @@
 ---
-title: Juridische contracten in azure Marketplace
-description: Meer informatie over juridische contracten in azure Marketplace.
+title: Juridische contracten in Azure Marketplace
+description: Meer informatie over juridische contracten in Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 728b2119b6b9a80146fbe3313d7fd79c77c5dcc8
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 115bbb43510956805362c13f9958cf343cf2833a617ace9da3ff8d31bb2e0897
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412638"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688599"
 ---
 # <a name="legal-contracts"></a>Juridische contracten
 
-In dit artikel worden de soorten juridische voor waarden en de toestemming van klanten beschreven voor de voor waarden in azure Marketplace.
+In dit artikel worden typen juridische voorwaarden en toestemming van klanten voor voorwaarden in Azure Marketplace.
 
-## <a name="types-of-legal-terms"></a>Typen juridische voor waarden
+## <a name="types-of-legal-terms"></a>Typen juridische voorwaarden
 
-Uitgevers in azure Marketplace hebben drie opties om juridische voor waarden voor hun aanbiedingen te presen teren:
+Uitgevers in Azure Marketplace drie opties om juridische voorwaarden voor hun aanbiedingen weer te geven:
 
-- Standaard juridische contract van micro soft: Dit bespaart tijd voor zowel de uitgever als de klant, omdat de klant niet in staat is om elke aankoop van een winkel te valideren en te onderhandelen.
-- Standaard micro soft-contract met wijzigingen: dit kunnen algemene wijzigingen of wijzigingen zijn voor een specifieke klant (in het geval van privé aanbiedingen).
+- Standaard juridisch contract van Microsoft: dit bespaart tijd voor zowel de uitgever als de klant, omdat de klant niet elke winkelaankoop hoeft te valideren en te onderhandelen.
+- Standaard Microsoft-contract met wijzigingen: dit kunnen algemene wijzigingen of wijzigingen voor een specifieke klant zijn (in het geval van privéaanbiedingen).
 - Aangepast juridisch contract door de uitgever.
 
-Als u toegang wilt krijgen tot juridische contracten, selecteert u de koppeling **juridische overeenkomst** op de product pagina in Microsoft AppSource of in azure Marketplace. Deze koppeling bevat meestal ook alle details van de gebruiks voorwaarden voor de aanbieding.
+Als u toegang wilt krijgen tot juridische contracten, selecteert u de **koppeling** Juridische overeenkomst op de productpagina in Microsoft AppSource of Azure Marketplace. Deze koppeling bevat doorgaans ook alle details van de gebruiksvoorwaarden voor de aanbieding.
 
-:::image type="content" source="media/legal-contracts/license-agreement-link-ms.png" alt-text="Toont de koppeling van de licentie overeenkomst in een voorbeeld aanbieding.":::
+:::image type="content" source="media/legal-contracts/license-agreement-link-ms.png" alt-text="Toont de koppeling naar de licentieovereenkomst voor een voorbeeldaanbieding.":::
 
-## <a name="consenting-to-terms-and-conditions"></a>Toestemming voor voor waarden
+## <a name="consenting-to-terms-and-conditions"></a>Toestemming geven voor voorwaarden
 
-Klanten wordt gevraagd om akkoord te gaan met de juridische voor waarden bij het maken van een resource met een installatie kopie of service van derden. In de volgende voor beelden ziet u hoe deze overeenkomsten kunnen worden weer gegeven.
+Klanten wordt gevraagd akkoord te gaan met juridische voorwaarden bij het maken van een resource met een externe afbeelding of service. In de volgende voorbeelden ziet u hoe deze overeenkomsten kunnen worden weergegeven.
 
-### <a name="saas-example-terms"></a>Voor beelden van SaaS
+### <a name="saas-example-terms"></a>SaaS-voorbeeldtermen
 
-U gaat akkoord met de juridische voor waarden wanneer u zich abonneert op een SaaS-aanbieding in azure Marketplace.
+U gaat akkoord met juridische voorwaarden wanneer u zich abonneert op een SaaS-aanbieding in Azure Marketplace.
 
-:::image type="content" source="media/legal-contracts/sample-offer-screen.png" alt-text="Toont een voor beeld van een pagina met voor waarden.":::
+:::image type="content" source="media/legal-contracts/sample-offer-screen.png" alt-text="Toont een voorbeeld van de pagina Voorwaarden.":::
 
-### <a name="virtual-machine-example-terms"></a>Voor beelden van virtuele machine
+### <a name="virtual-machine-example-terms"></a>Voorbeeldtermen voor virtuele machines
 
-De voor waarden voor een afbeelding van derden worden weer gegeven wanneer u controleren en **Abonneren** selecteert.
+De voorwaarden voor een afbeelding van derden worden weergegeven wanneer u **Beoordelen en abonneren selecteert.**
 
-:::image type="content" source="media/legal-contracts/terms-text.png" alt-text="Toont een voor beeld van een tekst blok voor voor waarden.":::
+:::image type="content" source="media/legal-contracts/terms-text.png" alt-text="Hier ziet u een voorbeeld van een tekstblok met voorwaarden.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Micro soft Commercial Marketplace-voor waarden](https://azure.microsoft.com/support/legal/marketplace-terms/)
+- [Voorwaarden voor commerciële Marketplace van Microsoft](https://azure.microsoft.com/support/legal/marketplace-terms/)
 - [Wat is Azure Marketplace?](azure-marketplace-overview.md) 

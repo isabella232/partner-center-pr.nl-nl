@@ -1,35 +1,35 @@
 ### YamlMime:FAQ
 metadata:
   title: Veelgestelde vragen over uitbetalings- en belastingprofielen
-  description: Krijg antwoorden op veelvoorkomende vragen over uitbetalingen en belastinggegevens in Partner Center. Bevat antwoorden over waarom uw inkomsten verschillen van wat u verwacht.
+  description: Krijg antwoorden op veelvoorkomende vragen over uitbetalingen en belastinggegevens in Partner Center. Bevat antwoorden over waarom uw inkomsten verschillen van wat u had verwacht.
   ms.service: marketplace
   ms.subservice: partnercenter-marketplace-publisher
   ms.topic: article
   author: eunjkim520
   ms.author: eunjkim
   ms.date: 05/06/2021
-  ms.openlocfilehash: 350c726467c3ba4342159a56b8ccfe77610c6b63
-  ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
+  ms.openlocfilehash: a952e9b69e96c1a3e535637488a7b2f4199efa25f5c4814952d29d900fc16f4e
+  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/14/2021
-  ms.locfileid: "113798333"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "115688944"
 title: Veelvoorkomende vragen over uitbetalingen en belastingen
 summary: >
-  **Juiste rollen:** Accountbeheerder | Globale beheerder | Incentives-beheerder
+  **Juiste rollen:** Accountbeheerder | Globale beheerders | Incentives-beheerder
 
 
-  In dit artikel vindt u antwoorden op veelgestelde vragen over uitbetalingen en belastinggegevens in Partner Center. Onderwerpen die worden behandeld, zijn onder andere de timing van betalingen, het controleren van de geschiktheid van uw inkomsten en het belang van het correct instellen van uw uitbetalings- en belastingprofielen.
+  In dit artikel vindt u antwoorden op veelgestelde vragen over uitbetalingen en belastinggegevens in Partner Center. Onderwerpen die aan bod komen, zijn onder andere de timing van betalingen, het controleren van de geschiktheid van uw inkomsten en het belang van het correct instellen van uw uitbetalings- en belastingprofielen.
 sections:
 - name: Profielbeheer
   questions:
   - question: >
       Waarom moet ik mijn uitbetalings- en/of belastinggegevens verstrekken of bijwerken?
     answer: >
-      Alle partners die zijn ingeschreven bij een nieuw programma, moeten geldige uitbetalings- en belastinggegevens verstrekken om hun inschrijving te voltooien en betalingen te ontvangen. Een inschrijving wordt pas als voltooid beschouwd nadat Microsoft uw uitbetalings- en belastingprofiel heeft gevalideerd.
+      Alle partners die zijn ingeschreven voor een nieuw programma, moeten geldige uitbetalings- en belastinggegevens verstrekken om hun inschrijving te voltooien en betalingen te ontvangen. Een inschrijving wordt pas als voltooid beschouwd nadat Microsoft uw uitbetalings- en belastingprofiel heeft gevalideerd.
 
 
-      Mogelijk moet u uw gegevens ook bijwerken als de regels voor uw programma veranderen, of als aspecten van uw profiel verlopen of verouderd raken. Als dit gebeurt, wordt op de pagina Overzicht de status Actie **vereist weergegeven: Bank- en/of belastingprofiel bijwerken.**
+      Mogelijk moet u uw gegevens ook bijwerken als de regels voor uw programma veranderen of als aspecten van uw profiel verlopen of verouderd raken. Als dit gebeurt, wordt op de pagina Overzicht de status Actie **vereist weergegeven: Bank- en/of belastingprofiel bijwerken.**
   - question: >
       Hoe kan ik u uitbetalings- en belastinggegevens zoeken, instellen of bijwerken?
     answer: >
@@ -37,7 +37,7 @@ sections:
   - question: >
       Waarom zie ik geen inschrijvingen wanneer ik mijn uitbetalings- en belastingprofiel wil toewijzen?
     answer: >
-      Het kan zijn dat u niet de juiste machtigingen hebt of dat u bent aangemeld met een account dat deze machtigingen niet heeft. Alleen incentive-beheerders voor uw MPN-locatie kunnen bijvoorbeeld uitbetalings- en belastingprofielen maken of beheren. Neem contact op met de beheerder van de organisatie voor het beheren van machtigingen voor bank en belasting.
+      Het kan zijn dat u niet de juiste machtigingen hebt of dat u bent aangemeld met een account dat deze machtigingen niet heeft. Zo kunnen alleen incentive-beheerders voor uw MPN-locatie uitbetalings- en belastingprofielen maken of beheren. Neem contact op met de beheerder van de organisatie voor het beheren van machtigingen voor bank en belasting.
   - question: >
       Ik kan me alleen aanmelden met mijn @onmicrosoft.com domein. Wat moet ik doen?
     answer: >
@@ -53,16 +53,30 @@ sections:
 
       Belastingprofielen die zijn gemaakt voor een MPN-locatie, worden opnieuw gebruikt en automatisch ingevuld wanneer dezelfde MPN-locatie deelneemt aan een ander programma. Maar er kunnen uitzonderingen zijn. De regels voor uitbetaling van een nieuw incentive-programma kunnen bijvoorbeeld extra gegevens vereisen voor het belastingprofiel.
   - question: >
-      Kan ik dezelfde bank- en belastinggegevens gebruiken voor alle incentive-programma's bij Microsoft?
+      Kan ik dezelfde bank en belastinggegevens gebruiken voor alle incentive-programma's bij Microsoft?
     answer: >
-      Als uw bedrijf is uitgenodigd voor meerdere programma's, kunt u hetzelfde betalingsaccount gebruiken voor al uw programma's of verschillende betalingsaccounts voor de verschillende programma's gebruiken.
+      Als uw bedrijf is uitgenodigd voor meerdere programma's, kunt u hetzelfde betalingsaccount gebruiken voor al uw programma's of verschillende betalingsaccounts voor de verschillende programma's hebben.
   - question: >
-      Hoe zorgt Microsoft ervoor dat de bankgegevens inderdaad van het bedrijf zijn en niet van een persoonlijke bankrekening voor een werknemer?
+      Hoe zorgt Microsoft ervoor dat de bankgegevens inderdaad van het bedrijf zijn en niet van een persoonlijke rekening voor een werknemer?
     answer: >
-      Het is de verantwoordelijkheid van het bedrijf om ervoor te zorgen dat de rol van incentives-beheerder - die de machtigingen heeft om deze informatie te bewerken - alleen aan de juiste werknemers wordt verleend.
+      Het is de verantwoordelijkheid van het bedrijf om ervoor te zorgen dat de rol van incentives-beheerder , die de machtigingen heeft om deze informatie te bewerken, alleen aan de juiste werknemers wordt verleend.
   - question: >
       Mijn belastingprofiel is verlopen. Hoe kan ik update oplossen?
-    answer: "Als een belastingprofiel is verlopen of bijna verloopt, betekent dit dat het btw-formulier dat u aan Microsoft hebt opgegeven, moet worden bijgewerkt. Gebruik de volgende stappen om uw belastingprofiel bij te werken:\n\n1. Meld u aan Partner Center [dashboard en](https://partner.microsoft.com/dashboard/home)selecteer vervolgens het tandwielpictogram om het menu Instellingen openen. \n2. Selecteer **Accountinstellingen,** vouw de sectie **Uitbetaling en** belasting uit en selecteer vervolgens **Uitbetalings- en belastingprofiel.**\n3. Selecteer **Belastingprofiel**\n4. Controleer de kolom **Vervaldatum en** navigeer naar het belastingprofiel dat is verlopen of bijna verloopt.\n5. Selecteer **Bewerken om** het bewerkingsproces voor het belastingprofiel te starten.\n6. Geef in de sectie Belastingformulier de bijgewerkte gegevens op.\n"
+    answer: >
+      Als een belastingprofiel is verlopen of bijna verloopt, betekent dit dat het belastingformulier dat u aan Microsoft hebt opgegeven, moet worden bijgewerkt. Gebruik de volgende stappen om uw belastingprofiel bij te werken:
+
+
+      1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard/home)en selecteer vervolgens het tandwielpictogram om het menu Instellingen **openen.**
+
+      2. Selecteer **Accountinstellingen,** vouw de sectie **Uitbetaling en** belasting uit en selecteer vervolgens **Uitbetalings- en belastingprofiel.**
+
+      3. Selecteer **Belastingprofiel**
+
+      4. Controleer de kolom **Vervaldatum en** navigeer naar het belastingprofiel dat is verlopen of bijna verloopt.
+
+      5. Selecteer **Bewerken om** het bewerkingsproces voor belastingprofiel te starten.
+
+      6. Geef in de sectie belastingformulier de bijgewerkte gegevens op.
 - name: Inkomsten onjuist of ontbreken
   questions:
   - question: >
@@ -75,13 +89,13 @@ sections:
       - Controleer het [tijdsbestek van de uitbetalingscyclus en](payment-thresholds-methods-timeframes.md) begrijp wanneer uw inkomsten moeten worden weergegeven in het uitbetalingsoverzicht.
   - question: >
       Waarom is mijn inkomstenbedrag anders dan wat ik had verwacht?
-    answer: "- Als de order gedeeltelijk is betaald door uw klant, wordt uw inkomstenbedrag gebaseerd op het gedeeltelijk betaalde bedrag na aftrekken van de kosten en de juiste belasting.\n- Controleer de verantwoordelijkheid voor de btw per land. In landen waar de belasting microsoft-verantwoordelijkheid is, int En wordt de belasting afgeleid van de inkomsten van de uitgever. Het transactiebedrag dat op het overzicht wordt weergegeven, is het bedrag na btw-aftrek. Zie [Belastinginformatie](tax-details-marketplace.md).\n- Aanbiedingen hebben een winkelservicekosten van 3%, met een inkomstenpercentage van 97%. \n\n**Meer weten:** [Commerciële Marketplace Publisher Overeenkomst,](/legal/marketplace/msft-publisher-agreement)Details uitbetalingsbeleid, [](payout-policy-details.md)Betalingsdrempel, methode en [tijdsbestek](payment-thresholds-methods-timeframes.md), [Betaald](marketplace-get-paid.md)krijgen, [Belastinggegevens,](tax-details-marketplace.md) [Uitbetalingsverklaringen](payout-statement.md)\n"
+    answer: "- Als de order gedeeltelijk is betaald door uw klant, wordt uw inkomstenbedrag gebaseerd op het gedeeltelijk betaalde bedrag na aftrekken van de kosten en de juiste belasting.\n- Controleer de verantwoordelijkheid voor de btw per land. In landen waar de belasting verantwoordelijk is voor Microsoft, int En wordt de belasting afgeleid van de inkomsten van de uitgever. Het transactiebedrag dat op het overzicht wordt weergegeven, is het bedrag na btw-aftrek. Zie [Belastinginformatie](tax-details-marketplace.md).\n- Aanbiedingen hebben een winkelservicekosten van 3%, waardoor het inkomstenpercentage 97% bedraagt. \n\n**Meer weten:** [Commerciële Marketplace Publisher Overeenkomst,](/legal/marketplace/msft-publisher-agreement)Details uitbetalingsbeleid, [](payout-policy-details.md)Betalingsdrempel, methode en [tijdsbestek,](payment-thresholds-methods-timeframes.md) [Betaald,](marketplace-get-paid.md)Belastinggegevens, [](tax-details-marketplace.md) [Uitbetalingsverklaringen](payout-statement.md)\n"
 - name: Inkomstenafstemming
   questions:
   - question: >
       Hoe kan ik uitbetalingsoverzichten afstemmen op order- of gebruiksrapporten in analyses?
     answer: >
-      Gebruik AssetID, orderID en regelitem-id die worden weergegeven in het uitbetalingstransactiegeschiedenisrapport met analytische orders en gebruiksrapporten. Gebruik deze toewijzing:
+      Gebruik AssetID, orderID en regelitem-id die worden weergegeven in het uitbetalingstransactiegeschiedenisrapport met analyseorders en gebruiksrapporten. Gebruik deze toewijzing:
 
 
       - Uitbetalingstransactie History.AssetID = order.OrderID
@@ -90,28 +104,28 @@ sections:
   - question: >
       Hoe weet ik wanneer ik betalingen voor mijn klantorders kan verwachten?
     answer: >
-      - Controleer eerst met behulp van uw assetID klantorders in [Orders-rapporten.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order)
+      - Controleer eerst met behulp van uw assetID de klantorders in [Orders-rapporten.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order)
 
-      - Controleer het klantkanaal voor uw klantabonnement in [het rapport klanten.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer)
+      - Controleer het klantkanaal voor uw klantabonnement in [het rapport van klanten.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer)
 
-      - Voor zakelijke klanten worden publicatie-inkomsten 1-2 dagen na de datum van de inkooporder weergegeven in de instructie.
+      - Voor zakelijke klanten worden de inkomsten van uitgevers 1-2 dagen na de datum van de inkooporder weergegeven in de instructie.
 
-      - Voor niet-zakelijke klanten worden publicatie-inkomsten 1-2 dagen nadat de klantbetaling is ontvangen, weergegeven in het overzicht.
+      - Voor niet-enterprise-klanten worden de inkomsten van uitgevers 1-2 dagen nadat de klantbetaling is ontvangen weergegeven in het overzicht.
 
 
-      **Meer weten:** [Uitbetalingsverklaringen,](payout-statement.md) [dashboard Orders in commerciële marketplace-analyses](/azure/marketplace/partner-center-portal/orders-dashboard)
+      **Meer weten:** [Uitbetalingsverklaringen](payout-statement.md), [Dashboard Orders in commerciële marketplace-analyses](/azure/marketplace/partner-center-portal/orders-dashboard)
 - name: Betalingen en aanpassingen
   questions:
   - question: >
       Waarom ontbreekt mijn betaling?
     answer: >
-      - Zorg ervoor dat uw Uitbetalingsstatus en Belastingprofielstatus als *geldig worden weergegeven* op de [overzichtspagina.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)
+      - Zorg ervoor dat uw uitbetalingsstatus en belastingprofielstatus als *geldig worden weergegeven* op de [overzichtspagina](https://partner.microsoft.com/dashboard/commercial-marketplace/overview).
 
       - Mogelijk hebt u niet voldaan aan de minimumdrempel voor een betaling. De inkomsten moeten ten minste $ 50 USD zijn om een betaling te ontvangen.
   - question: >
       Hoe kan ik instellen dat mijn account geen betaling ontvangt?
     answer: >
-      U kunt betalingen in [uitbetalingsprofiel houden.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) Als u dit wilt doen, controleert **u De** wachtstand en houdt Microsoft de betaling aan u vast totdat u de wachtstand vrij geeft.
+      U kunt betalingen in [uitbetalingsprofiel houden.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) Als u dit wilt doen, **controleert u De** wachtstand en houdt Microsoft de betaling aan u vast totdat u de hold vrijgave.
   - question: >
       Waarom ontvang ik mijn betaling in een andere valuta dan de aankoopvaluta?
     answer: >
@@ -119,10 +133,10 @@ sections:
   - question: >
       Hoe kan ik correcties afstemmen?
     answer: >
-      Betalingscorrecties zijn correcties voor compensatiecorrecties zoals systeemproblemen. In het uitbetalingsoverzicht geeft ReasonCode de reden voor de correctie op. Deze zijn niet bedoeld om rechtstreeks af te stemmen op afzonderlijke transacties.
+      Betalingscorrecties zijn correcties voor compensatiecorrecties zoals systeemproblemen. In het uitbetalingsoverzicht geeft ReasonCode de reden voor de aanpassing op. Deze zijn niet bedoeld om rechtstreeks af te stemmen op afzonderlijke transacties.
 
 
-      **Meer weten:** [Commerciële marketplace Publisher overeenkomst,](/legal/marketplace/msft-publisher-agreement) [details uitbetalingsbeleid,](payout-policy-details.md) [belastinggegevens,](tax-details-marketplace.md) [betalingsdrempel, methode en tijdsbestek](payment-thresholds-methods-timeframes.md)
+      **Meer weten:** [Commerciële Marketplace Publisher overeenkomst,](/legal/marketplace/msft-publisher-agreement) [details uitbetalingsbeleid,](payout-policy-details.md) [belastinggegevens,](tax-details-marketplace.md) [betalingsdrempel, methode en tijdsbestek](payment-thresholds-methods-timeframes.md)
 - name: Belastingen
   questions:
   - question: >
@@ -143,18 +157,18 @@ sections:
       Bronbelasting is van toepassing op Amerikaanse uitgevers die een W-9-formulier hebben ingediend. Bronbelasting wordt berekend over een maandelijkse betaling.
 
 
-      **Meer weten:** [Commerciële Marketplace Publisher Overeenkomst,](/legal/marketplace/msft-publisher-agreement) [Details uitbetalingsbeleid](payout-policy-details.md)
+      **Meer weten:** [Commerciële Marketplace Publisher overeenkomst,](/legal/marketplace/msft-publisher-agreement) [details uitbetalingsbeleid](payout-policy-details.md)
 - name: Toegang tot uitbetalingsoverzicht
   questions:
   - question: >
       Hoe kan ik toegang krijgen tot een uitbetalingsoverzicht?
-    answer: "1. Controleer uw rollen. U moet de rol *financiële bijdrager* of *accounteigenaar* hebben om toegang te krijgen tot het uitbetalingsoverzicht.\n2. Selecteer in de navigatie rechtsboven het pictogram **Uitbetaling** om uw uitbetalingsoverzicht weer te geven. Kies tussen **Transactiegeschiedenis,** **Betaling** en **Downloaden.**\n\n**Meer weten:** [Uitbetalingsrollen en -machtigingen](payout-statement.md#roles-and-permissions), [Uitbetalingsverklaringen](payout-statement.md) \n"
+    answer: "1. Controleer uw rollen. U moet de rol *financiële bijdrager* of *accounteigenaar* hebben om toegang te krijgen tot het uitbetalingsoverzicht.\n2. Selecteer in de navigatiebalk rechtsboven het pictogram **Uitbetaling** om uw uitbetalingsoverzicht weer te geven. Kies tussen **Transactiegeschiedenis,** **Betaling** en **Downloaden.**\n\n**Meer weten:** [Uitbetalingsrollen en machtigingen](payout-statement.md#roles-and-permissions), [Uitbetalingsverklaringen](payout-statement.md) \n"
 - name: Rapport uitbetalingsoverzicht
   questions:
   - question: >
       Wat betekent elk veld in de download van de transactie?
     answer: >
-      Zie [Uitbetalingsverklaringen](payout-statement.md) voor een gedetailleerde lijst met de kenmerken en hun betekenis.
+      Zie [Uitbetalingsverklaringen](payout-statement.md) voor een gedetailleerde lijst met kenmerken en hun betekenis.
   - question: >
       Wat is de inkomstenstatus?
     answer: >
@@ -163,7 +177,7 @@ sections:
 
       - **Niet-verwerkt:** de inkomsten hebben een escrow-periode tot de vervaldatum.
 
-      - **Verwerkt:** inkomsten zijn gerijpt en worden voorbereid op een maandelijkse betaling. Betalingen worden vrijgegeven op de 15e van elke maand.
+      - **Verwerkt:** inkomsten zijn gerijpt en worden voorbereid op een maandelijkse betaling. Betalingen worden elke 15e van elke maand vrijgegeven.
 
       - **Verzonden:** de betaling is vrijgegeven aan uw bank op basis van uw uitbetalingsprofiel.
   - question: >
@@ -171,7 +185,7 @@ sections:
     answer: >
       Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen**. Er wordt een link naar het belastingformulier voor servicekosten weergegeven voor een betaling met servicekostenbelasting.
   - question: >
-      Hoe kan ik een bronbelastingformulier in PDF downloaden?
+      Hoe kan ik een formulier voor bronbelasting downloaden in PDF?
     answer: >
       Ga naar de pagina **Betaling uitbetaling** en vervolgens naar het gedeelte **Lijst met betalingen**. Er wordt een koppeling naar een bronbelastingformulier weergegeven naast een betaling. Een formulier voor bronbelasting is alleen van toepassing op geselecteerde incentive-programma's, niet op uitbetaling via een commerciële marketplace.
   - question: >
@@ -180,7 +194,7 @@ sections:
       Ga naar de [Profielpagina](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) om uw belastingformulieren voor het eind van het jaar weer te geven.
 
 
-      **Meer weten:** [Uitbetalingsverklaringen,](payout-statement.md) [Downloaden van transactiegeschiedenis](payout-statement.md#transaction-history-download)
+      **Meer weten:** [Uitbetalingsverklaringen,](payout-statement.md) [Transactiegeschiedenis downloaden](payout-statement.md#transaction-history-download)
 - name: Historische instructies
   questions:
   - question: >
@@ -189,8 +203,8 @@ sections:
       In het historische overzicht wordt een momentopname weergegeven van de uitbetalingsgegevens van oktober 2019. Helaas worden de uitbetalingsgegevens hier niet vernieuwd. Als u de meest recente informatie wilt ontvangen, dient u een ondersteuningsticket in voor de meest recente gegevens.
 
 
-      **Meer weten:** [Uitbetalingsverklaringen,](payout-statement.md) [Downloaden van transactiegeschiedenis](payout-statement.md#transaction-history-download)
-- name: Export-API voor uitbetalingen
+      **Meer weten:** [Uitbetalingsverklaringen,](payout-statement.md) [Transactiegeschiedenis downloaden](payout-statement.md#transaction-history-download)
+- name: Uitbetalingsexport-API
   questions:
   - question: >
       Hoe kan ik uitbetalingsgegevens downloaden?
@@ -199,17 +213,17 @@ sections:
 - name: Uitbetalingsbeleid voor commerciële marketplace
   questions:
   - question: >
-      Hoe kan ik u de huidige storeservicekosten en het uitbetalingspercentage vinden?
+      Hoe kan ik u de huidige storeservicekosten en het uitbetalingspercentage?
     answer: >
       - De store-servicekosten zijn 3%.
 
-      - In uw uitbetalingsoverzicht geeft Inkomstentarief het werkelijke uitbetalingspercentage voor een bepaalde transactie op.
+      - In uw uitbetalingsoverzicht geeft Inkomstenpercentage het werkelijke uitbetalingstarief voor een bepaalde transactie op.
   - question: >
       Wanneer kan ik een betaling van Microsoft verwachten wanneer de inkomsten op mijn overzicht worden weergegeven?
     answer: >
-      - Als uw inkomsten de status Niet-verwerkt hebben, kunt u de vervaldatum controleren voor de maand waarin uw inkomsten worden verwerkt voor betaling. Zodra uw betaling is voorbereid, wordt uw inkomstenstatus gewijzigd in Verwerkt.  Microsoft verstrekt betalingen op de 15e van de maand van de vervaldatum.
+      - Als uw inkomsten de status Niet-verwerkt hebben, kunt u de vervaldatum controleren voor de maand waarin uw inkomsten worden verwerkt voor betaling. Zodra uw betaling is voorbereid, wordt uw inkomstenstatus gewijzigd in 'verwerkt'.  Microsoft verstrekt betalingen op de 15e van de maand van de vervaldatum.
 
-      - Voor bestellingen die met een creditcard worden betaald, houdt Microsoft betalingen 30 dagen in stand totdat de inkomsten zijn gerijpt.
+      - Voor orders die met een creditcard worden betaald, houdt Microsoft betalingen 30 dagen in stand totdat de inkomsten zijn gerijpt.
 
-       **Meer weten:** [Commerciële marketplace Publisher overeenkomst,](/legal/marketplace/msft-publisher-agreement) [details uitbetalingsbeleid,](payout-policy-details.md) [belastinggegevens,](tax-details-marketplace.md) [betalingsdrempel, methode en tijdsbestek](payment-thresholds-methods-timeframes.md)
+       **Meer weten:** [Commerciële Marketplace Publisher overeenkomst,](/legal/marketplace/msft-publisher-agreement) [details uitbetalingsbeleid,](payout-policy-details.md) [belastinggegevens,](tax-details-marketplace.md) [betalingsdrempel, methode en tijdsbestek](payment-thresholds-methods-timeframes.md)
 additionalContent: "\n## <a name=\"next-steps\"></a>Volgende stappen\n\n- [Betaald krijgen](marketplace-get-paid.md)\n- [Stel uw betalingsaccount en belastingformulieren](set-up-your-payout-account.md)"
