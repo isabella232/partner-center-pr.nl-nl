@@ -4,33 +4,33 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Meer informatie Microsoft Partner Network voordelen (MPN), zoals Microsoft Action Pack, competenties of programmaopties om uw oplossingen op de markt te brengen en te verkopen.
+description: Meer informatie over Microsoft Partner Network (MPN) voordelen, zoals Microsoft Action Pack, competenties of programmaopties om uw oplossingen op de markt te brengen en te verkopen.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd5acdd94272d9c022eb0e3a034325b2dc1d9f12
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 3588ff994882af9c613736ea191aab13b02e00d2fce0e0207d1c64e67a300446
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845428"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691953"
 ---
-# <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner met Microsoft en voordelen van lidmaatschap ontdekken
+# <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner met Microsoft en lidmaatschapsvoordelen ontdekken
 
-**Juiste rollen:** Globale | Beheer van MPN-partner | Gebruikersbeheerbeheer | Beheeragent
+**Juiste rollen:** globale | Beheeraccount van MPN-| Gebruikersbeheerbeheerders | Beheeragent
 
 De Microsoft Partner Network (MPN) biedt u het breedste scala aan producten in de branche en programmaopties om uw bedrijf te onderscheiden, op de markt te gaan en uw oplossingen te verkopen. Doe zonder kosten mee en kies vervolgens hoe u wilt investeren in uw samenwerking met een Microsoft-actiepakket, starterkit of competentie.
 
-Wanneer u lid wordt van een Microsoft-partnerprogramma, maakt u deel uit van een wereldwijde community die u verbindt met de relaties, inzichten, hulpprogramma's, resources en programma's die u nodig hebt om uw klanten te stimuleren en de bedrijfsgroei te stimuleren. Als u uw zakelijke doelen bereikt, kunt u deelnemen aan het programma op het niveau dat bij uw unieke behoeften past om toegang te krijgen tot meer voordelen en uw relatie met ons en andere partners in het netwerk ontwikkelen. 
+Wanneer u lid wordt van een Microsoft-partnerprogramma, maakt u deel uit van een wereldwijde community die u verbindt met de relaties, inzichten, hulpprogramma's, resources en programma's die u nodig hebt om uw klanten te stimuleren en de bedrijfsgroei te stimuleren. Als u uw bedrijfsdoelen bereikt, kunt u deelnemen aan het programma op het niveau dat past bij uw unieke behoeften om toegang te krijgen tot meer voordelen en uw relatie met ons en andere partners in het netwerk te ontwikkelen. 
 
 ## <a name="join-the-microsoft-partner-network"></a>De Microsoft Partner Network
 
-Als u lid wilt Microsoft Partner Network, gaat u naar [  de](https://partner.microsoft.com/membership) pagina Lidmaatschap op de MPN-website **en selecteert u Registreren** of Nu **deelnemen.**
+Als u wilt deelnemen Microsoft Partner Network, gaat u naar [  de](https://partner.microsoft.com/membership) pagina Lidmaatschap op de MPN-website **en selecteert u Registreren** of Nu **deelnemen.**
 
 ## <a name="action-pack"></a>Action Pack
 
-Action Pack biedt software, ondersteuning en voordelen voor bedrijven die hun Microsoft-praktijk willen starten, bouwen en groeien in een cloud-first, mobiele wereld.
+Action Pack biedt software, ondersteuning en voordelen voor bedrijven die hun Microsoft-praktijk willen starten, bouwen en groeien in een wereld waarin alles in de cloud en mobiel is.
 
 Bekijk de onderstaande resources voor meer informatie over Action Pack:
 
@@ -39,21 +39,21 @@ Bekijk de onderstaande resources voor meer informatie over Action Pack:
 - [De Action Pack](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >U beheert uw Action Pack in Partner Center. Als uw bedrijf nog niet van het Partner Center is Partner Membership Center, leest u [Voorbereiden voor uw overstap naar Partner Center](./partner-membership-center-retirement-faq.md)  
+    >U beheert uw Action Pack in Partner Center. Als uw bedrijf nog niet is over verplaatst naar Partner Center van Partner Membership Center, leest u Voorbereiden [voor uw overstap naar Partner Center](./partner-membership-center-retirement-faq.md)  
 
 - [Uw MPN-aanbiedingen vernieuwen](renew-mpn-offers.md)
 
 ## <a name="competencies"></a>Competenties
 
-Demonstreert uw bewezen expertise in het leveren van kwaliteitsoplossingen in een gespecialiseerd bedrijfsgebied. Microsoft-competenties zijn ontworpen om te voldoen aan de behoeften van uw huidige klanten en herkenbaar te zijn voor potentiële klanten. Word lid van de toplaag van Microsoft-partners en onderscheiden zich van uw collega's.
+Demonstreert uw bewezen expertise in het leveren van kwaliteitsoplossingen in een gespecialiseerd bedrijfsgebied. Microsoft-competenties zijn ontworpen om te voldoen aan de behoeften van uw huidige klanten en te herkennen aan potentiële klanten. Word lid van de toplaag van Microsoft-partners en onderscheiden zich van uw collega's.
 
 Bekijk de onderstaande resources voor meer informatie over competenties:
 
 - [Competentiepartners](https://partner.microsoft.com/membership/competencies)
 
-## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft Partner Network voordelen en vereisten
+## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft Partner Network en vereisten
 
-Wanneer u lid wordt van de Microsoft Partner Network, ontvangt u een aantal kernvoordelen die u kunnen helpen tijd en geld te besparen terwijl u uw mogelijkheden versterkt, klanten beter van dienst bent en verbindingen bouwt om uw volledige bedrijfsmogelijkheden te bereiken. 
+Wanneer u lid wordt van de Microsoft Partner Network, ontvangt u een set kernvoordelen die u kunnen helpen tijd en geld te besparen terwijl u uw mogelijkheden versterkt, klanten beter van dienst bent en verbindingen bouwt om uw volledige bedrijfsmogelijkheden te bereiken. 
 
 Bekijk de onderstaande resources voor meer informatie over netwerkvoordelen en -vereisten:
 

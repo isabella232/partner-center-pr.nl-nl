@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 518c80d1e7b5c8c898f6e0508bdcca11f9e2e675fbd8afe5c327ec68877a0ed0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 803d04b4496cd677f5a74049da32ed649d515819
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678166"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102075"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Het wachtwoord van een gebruiker opnieuw instellen in Partner Center
 
@@ -33,7 +33,7 @@ Als gebruikers hun wachtwoord vergeten, wijst u hen een tijdelijk wachtwoord toe
 
 3. Kies **Wachtwoord opnieuw** instellen onderaan de pagina.
 
-4. U ziet een bevestigingsscherm met een tijdelijk wachtwoord. Kopieer het tijdelijke wachtwoord en verzend het naar de nieuwe gebruiker. Het tijdelijke wachtwoord is niet meer toegankelijk nadat u het scherm hebt verlaten. Wanneer de gebruiker zich voor het eerst meldt, wordt hij gevraagd het wachtwoord bij te werken.
+4. U ziet een bevestigingsscherm met een tijdelijk wachtwoord. Kopieer het tijdelijke wachtwoord en stuur het naar de nieuwe gebruiker. Het tijdelijke wachtwoord is niet meer toegankelijk nadat u het scherm hebt verlaten. Wanneer de gebruiker zich voor het eerst meldt, wordt de gebruiker gevraagd het wachtwoord bij te werken.
 
 ## <a name="next-steps"></a>Volgende stappen
 

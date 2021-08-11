@@ -9,21 +9,21 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 6e31dfd73d2563bc6b41227a702690d74b7f306d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b8fd3627c2075a3aa63b2ac4bc9e940595e76fbd34a43fc00e8e10189b41aba3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845717"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690865"
 ---
-# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Registreren als een Configuratiescherm-leverancier om CSP-partnersystemen te integreren met Partner Center API's
+# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Registreren als een Configuratiescherm leverancier om CSP-partnersystemen te integreren met Partner Center API's
 
 
 **Juiste rollen:** globale beheerder
 
 Een Configuratiescherm Vendor (CPV) is een onafhankelijke softwareleverancier die toepassingen ontwikkelt voor gebruik door Cloud Solution Provider-partners (CSP) zodat ze hun systemen kunnen integreren met Partner Center API's. Een Configuratiescherm is geen CSP-partner met directe toegang tot Partner Center dashboard of Partner Center API's.
 
-Of u nu een huidige Configuratiescherm-leverancier (CPV) of een nieuwe CPV bent die wil samenwerken met Microsoft-partners, Microsoft vereist nu dat u zich registreert bij Partner Center om uw toepassingen te registreren en ondersteuning te Cloud Solution Provider-partners. Als u een account wilt maken, kan een CPV-partner een bestaande CSP-partner-tenant of een bestaande CPV-tenant gebruiken of een nieuwe tenant maken als onderdeel van het onboardingproces. Als de CPV-partner ervoor kiest om de bestaande CSP-tenant te gebruiken, moet deze afzonderlijke toepassingen voor meerdere tenants maken en deze registreren in Partner Center voor CPV-activiteiten. Een toepassing kan niet worden geregistreerd als een CSP- en CPV-toepassing. Nadat u zich hebt geregistreerd bij Partner Center en uw toepassingen hebt geregistreerd, hebt u toegang tot de Partner Center API's.  Neem contact op met Microsoft via Microsoft-ondersteuning aanvraag als u een sandbox-account nodig hebt. Als u al een sandbox-account hebt, kunt u dit blijven gebruiken. U hebt geen nieuwe sandbox nodig
+Of u nu een huidige Configuratiescherm-leverancier (CPV) of een nieuwe CPV bent die wil samenwerken met Microsoft-partners, Microsoft vereist nu dat u zich registreert bij Partner Center om uw toepassingen te registreren en ondersteuningspartners Cloud Solution Provider ondersteunen. Als u een account wilt maken, kan een CPV-partner een bestaande CSP-partner-tenant of een bestaande CPV-tenant gebruiken of een nieuwe tenant maken als onderdeel van het onboardingproces. Als de CPV-partner ervoor kiest om de bestaande CSP-tenant te gebruiken, moet deze afzonderlijke toepassingen voor meerdere tenants maken en deze registreren in Partner Center voor CPV-activiteiten. Een toepassing kan niet worden geregistreerd als een CSP- en CPV-toepassing. Nadat u zich hebt geregistreerd bij Partner Center en uw toepassingen hebt geregistreerd, hebt u toegang tot de Partner Center API's.  Neem contact op met Microsoft via Microsoft-ondersteuning aanvraag als u een sandbox-account nodig hebt. Als u al een sandbox-account hebt, kunt u dit blijven gebruiken. U hebt geen nieuwe sandbox nodig
 
 De [Microsoft Configuratiescherm Vendor-overeenkomst controleren](https://go.microsoft.com/fwlink/?linkid=2055198)
 
@@ -32,7 +32,7 @@ De [Microsoft Configuratiescherm Vendor-overeenkomst controleren](https://go.mic
 
 Nadat u zich hebt geregistreerd bij Partner Center CPV-ervaring en de CPV-overeenkomst hebt geaccepteerd, kunt u het volgende doen:
 
-- Toepassingen met meerdere tenants beheren (toepassingen toevoegen aan Azure Portal registreren en de registratie van toepassingen in Partner Center).
+- Toepassingen met meerdere tenants beheren (toepassingen toevoegen aan Azure Portal, registreren en registratie ongedaan maken in Partner Center).
 
     >[!Note] 
     >CPV's moeten hun toepassingen registreren in Partner Center om te worden geautoriseerd voor Partner Center API's. Als u alleen toepassingen Azure Portal toevoegt aan de Partner Center, worden CPV-toepassingen Partner Center geautoriseerd. 

@@ -9,18 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 393f0ee6c49cbbdf814a823f732bb4b92d4deb2e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 3ab138c1159304542b78faa20da635ce85cd97bdbba84b016b860632c537509e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839070"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684847"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Abonnementen en licenties analyseren om zakelijke beslissingen en nieuwe doelen te realiseren
 
 **Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent
 
-Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegevens op de **pagina Abonnements-** en licentieanalyse om uw successen en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.
+Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegevens op **de pagina Abonnements-** en licentieanalyse om uw successen en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.
 
 **TTM-omzet CSP (USD)**: deze metrische waarde vertegenwoordigt de geaggregeerde gefactureerde CSP-omzet (USD) voor de na twaalf maanden (TTM) voor de partnerlocatieaccounts en het Partner Global Account (PGA) waar dit CSP-account aan is gekoppeld. Als u andere CSP-accounts met een andere PGA hebt, moet u zich aanmelden bij elk van deze accounts om de bijbehorende geaggregeerde TTM-omzet weer te geven.  Klik op de koppeling met downloadgegevens voor een uitsplitsing van de TTM-omzet (USD) per MPN-id.
 
@@ -55,7 +55,7 @@ We volgen de volgende metrische gegevens:
   
  - **Aantal abonnementen:** Top 5 producten gesorteerd op verkochte abonnementen  
  
- - **Aantal licenties:** Top 5 producten op gesorteerde verkochte licenties
+ - **Aantal licenties:** Top 5 producten op gesorteerde licenties verkocht
 
 **Abonnementsretentie**
 
@@ -76,7 +76,7 @@ We volgen de volgende metrische gegevens:
 
 **Conversies van proefabonnementen**  
 
- - **Conversie van proefversie:** het aantal **actieve** abonnementen waarbij de proefversie is betaald voor conversie tijdens de opgegeven periode  
+ - **Conversie van proefversie:** het aantal **actieve abonnementen** waarbij de proefversie is betaald voor conversie tijdens de opgegeven periode  
 
 **Proefabonnementen die eindigen op 30 dagen**  
 

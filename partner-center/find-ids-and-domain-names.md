@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: db730436e88118c24aa966c1023ffeeadd20548a
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 6f701d3f1b69add9b5ca6691f36f018b00414aa1309fa08351158bdb06e02a87
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100237"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683940"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Belangrijke ID's voor een gebruiker zoeken
 
@@ -33,7 +33,7 @@ In dit artikel wordt beschreven hoe u de [Azure Portal](https://portal.azure.com
 Volg deze stappen om de Azure AD-tenant-id of primaire domeinnaam in de Azure Portal. (Zie Tenant-id zoeken met [PowerShell](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell)of CLI als u programmatisch een tenant-id wilt zoeken.)
 
 > [!NOTE]
-> De tenant-id kan verschillende namen worden genoemd in verschillende toepassingen of resources. De tenant-id kan bijvoorbeeld worden aangeduid als de directory-id, de Azure Active Directory-tenant (Azure AD), Microsoft-id of voor bepaalde rapporten, zelfs de *tenantguid*.
+> De tenant-id kan verschillende namen worden genoemd in verschillende toepassingen of resources. De tenant-id kan bijvoorbeeld worden aangeduid als de directory-id, de Azure Active Directory-tenant (Azure AD), Microsoft ID of voor bepaalde rapporten, zelfs de *tenantguid*.
 
 1. Meld u aan bij de [Azure-portal](https://portal.azure.com/).
 

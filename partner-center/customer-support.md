@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 8e4dcb5b6e330fd72288fb0ec9e2d6222be8dba2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: ed615600bafbc2ba1c6dff552b9914b40df7aa9847bf101ecae9378f3c0f8160
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845632"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692565"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Verschillende soorten ondersteuning bieden aan uw klanten
 
@@ -26,7 +26,7 @@ ms.locfileid: "114845632"
 
 Partners die in het CSP-model werken, zijn de vertrouwde adviseur voor hun klanten en, als u een directe factuurpartner bent, eigenaar van de relatie end-to-end. Indirecte resellers moeten samenwerken met hun indirecte providers om klanten te ondersteunen. Deze relatie omvat het ondersteunen van uw klanten wanneer ze vragen of problemen hebben. Door uw klanten ondersteuning te bieden, hebt u de mogelijkheid om meer over hen en hun bedrijf te leren. Zo kunt u nieuwe services en oplossingen identificeren die waarde creëren.
 
-Om aan de ondersteuningsvereiste te voldoen, kunt u ondersteuning van een ander bedrijf opnieuw verkopen, de ondersteuningsstructuur volledig of deels uitbesteeden en/of een structuur instellen om rechtstreeks ondersteuning te bieden. U kunt kosten in rekening brengen voor alle of een deel van de ondersteuning die aan klanten wordt geleverd. Zorg ervoor dat u klanten de soorten ondersteuning die u biedt, de serviceuren, de contactmethode en de prijzen (indien in rekening brengen voor ondersteuning) doorsuurt.
+Om aan de ondersteuningsvereiste te voldoen, kunt u ondersteuning van een ander bedrijf opnieuw verkopen, de ondersteuningsstructuur volledig of deels uitbesteeden en/of een structuur instellen om rechtstreeks ondersteuning te bieden. U kunt kosten in rekening brengen voor alle of een deel van de ondersteuning die aan klanten wordt geleverd. Zorg ervoor dat u klanten de typen ondersteuning die u biedt, de serviceuren, de contactmethode en de prijzen (indien in rekening brengen voor ondersteuning) doorsuurt.
 
 CSP-klanten kunnen zelf geen ondersteuningstickets maken. Ze moeten contact met u opnemen voor ondersteuning. CSP-partners moeten binnenkomende ondersteuningsaanvragen van hun klanten ontvangen, problemen zo goed mogelijk diagnosticeren en vervolgens problemen oplossen die binnen het bereik van de basislijnondersteuningsgrenzen vallen. Als u een probleem niet kunt oplossen, kunt u problemen naar Microsoft escaleren via de volgende ondersteunings voertuigen:
 

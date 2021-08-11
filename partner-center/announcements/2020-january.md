@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 2663e96eba7c36265a1fa7477935c6c64e73fea6
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 98eea6d097c1677f257edfae65e94000e126bf4fdfbd03b49cfbf6b19eb92a41
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100426"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684711"
 ---
 # <a name="january-2020-announcements"></a>Aankondigingen van januari 2020
 
@@ -42,7 +42,7 @@ Alle CSP-partners die werken in Rusland
 
 ### <a name="details"></a>Details
 
-Met trots kondigen we aan dat na onze release van Azure-reserveringen in december 2019 Windows Server- en SQL Server-abonnementen vanaf 1 februari 2020 beschikbaar zijn voor aankoop in Rusland.
+Met trots kondigen we aan dat na de release van Azure-reserveringen in december 2019 Windows Server- en SQL Server-abonnementen vanaf 1 februari 2020 beschikbaar zijn voor aankoop in Rusland.
 Met Azure-reserveringen en deze serverabonnementen, waaronder Azure Hybrid Benefit, kunnen partners in het CSP-programma beter voldoen aan de snel groeiende vraag van klanten naar rendabeler oplossingen ter ondersteuning van zeer voorspelbare en permanente cloudworkloads.
 
 Partners kunnen nu Azure-reserveringen en Windows Server- en SQL Server-abonnementen namens commerciële klanten verkrijgen, inrichten en beheren via Partner Center en de Azure Portal.
@@ -76,7 +76,7 @@ _________________
 
 ### <a name="summary"></a>Samenvatting
 
-Vanaf 7 januari 2020 heeft Microsoft Vergaderruimte- en vergaderingen-invoeg-on voor Microsoft 365 F1 voor de GCC. Bekijk de prijslijst voor meer informatie.
+Vanaf 7 januari 2020 heeft Microsoft Vergaderruimte en meetings-invoeg-on voor Microsoft 365 F1 voor de GCC. Bekijk de prijslijst voor meer informatie.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -144,7 +144,7 @@ Naarmate de wereld steeds verder weggaat van digitale transformatie, maken eindg
 
 We volgen een gefaseerd implementatie voor Microsoft Power Platform producten (Power BI, Power Apps, Power Automate):
 
-- Beschikbaarheid via selfservice begint met **Power BI op 14 januari.**
+- Beschikbaarheid via selfservice begint met **Power BI 14 januari**.
 - De implementatie begint met klanten in de Verenigde Staten vervolgens uit te breiden naar andere geografische gebieden.
 - Deze mogelijkheid is op dit moment niet beschikbaar voor overheids-, non-profit- of onderwijsklanten.
 - Meer informatie over Power Apps en Power Automate binnenkort beschikbaar.
@@ -155,7 +155,7 @@ Partners die geen beheerderstoegang hebben, kunnen nog steeds bewijs van concept
 
 ### <a name="additional-resources"></a>Aanvullende bronnen
 
-- Resourcegalerie voor [CSP-programma-updates: Self-service-aankoopmogelijkheid van de klant](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
+- Resourcegalerie voor [CSP-programma-updates: Mogelijkheid tot aankopen via self-service van de klant](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
@@ -183,14 +183,14 @@ Aankondiging van een nieuw rapportagedashboard (bèta) in Partner Center
 
 We introduceren een nieuw geïntegreerd rapportagedashboard in Partner Center voor partnerorganisaties die lid zijn van de Microsoft Partner Network. Via dit dashboard hebt u toegang tot een uniforme weergave van 360 graden van de Key Performance Indicators (KPI) van uw partnerorganisatie voor cloudproducten zoals Office 365, Azure, Dynamics 365 en licentiemodellen zoals Cloud Solution Provider (CSP) en Enterprise Agreement (EA). Intelligente inzichten worden aan u geleverd, zodat u uw bedrijf met Microsoft duidelijk begrijpt en met vertrouwen gegevensgestuurde beslissingen kunt nemen.
 
-Als u dit dashboard wilt bekijken, selecteert u **INSIGHTS** in Partner Center navigatiemenu aan de linkerkant. Dit dashboard maakt gebruik van dezelfde onderliggende gegevens als het huidige MyInsights-rapportageprogramma, maar biedt uitgebreidere visuals en meer inzicht in rapportagemogelijkheden en KPI's voor klanten, abonnementen, licentiegebruik, competenties en voordelen. De versie van dit insights-dashboard die momenteel wordt aangeboden, is een bètaversie en wordt uitgebreid met nieuwe rapporten en mogelijkheden naarmate de algemene beschikbaarheid wordt benaderd. Deze is gepland voor later in H2 FY20.
+Als u dit dashboard wilt bekijken, selecteert u **INSIGHTS** in Partner Center navigatiemenu aan de linkerkant. Dit dashboard maakt gebruik van dezelfde onderliggende gegevens als het huidige MyInsights-rapportageprogramma, maar biedt uitgebreidere visuals en meer inzicht in rapportagemogelijkheden en KPI's voor klanten, abonnementen, licentiegebruik, competenties en voordelen. De versie van dit insights-dashboard die momenteel wordt aangeboden, is een bètaversie en wordt uitgebreid met nieuwe rapporten en mogelijkheden als we de algemene beschikbaarheid benaderen, die later in H2 FY20 wordt gepland.
 
 We nodigen u uit om aan de slag te gaan met dit nieuwe inzichtendashboard waar u eerder MyInsights zou hebben gebruikt en uw feedback met ons te delen met behulp van het feedbackmechanisme binnen elk van de rapporten die beschikbaar zijn via het tabblad **INZICHTEN.**
 
 ### <a name="additional-resources"></a>Aanvullende bronnen
 
 - Bekijk alle Insights resources voor toegang, navigatie, rapportoverzichten & gebruik, feedback geven en meer hier: Aankondiging van een nieuw rapportagedashboard [(bèta) in Partner Center](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)
-- Vragen? [Neem contact op met de ondersteuning van de partner.](https://partner.microsoft.com/support)
+- Vragen? [Neem contact op met partnerondersteuning.](https://partner.microsoft.com/support)
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
@@ -216,7 +216,7 @@ _________________
 
 De nieuwe Microsoft-klantovereenkomst voor alle productaanbiedingen in het Cloud Solution Provider (CSP)-programma is beschikbaar vanaf 1 oktober 2019.
 
-Vanaf 1 februari 2020 is de bevestiging van Microsoft-klantovereenkomst acceptatie door een partner vereist voor het plaatsen van nieuwe orders voor CSP-aanbiedingen in alle regio's onder de openbare Cloud van Microsoft. Vanaf die datum kan een partner in CSP geen nieuwe aankoop meer doen, waaronder het wijzigen van seats en het verlengen van bestaande aankopen zonder de acceptatie van de Microsoft-klantovereenkomst van de klant.
+Vanaf 1 februari 2020 is de bevestiging van Microsoft-klantovereenkomst acceptatie door een partner vereist voor het plaatsen van nieuwe orders voor CSP-aanbiedingen in alle regio's onder de openbare Cloud van Microsoft. Vanaf die datum kan een partner in de CSP geen nieuwe aankoop doen, waaronder het wijzigen van seats en het verlengen van bestaande aankopen zonder de acceptatie van de Microsoft-klantovereenkomst van de klant.
 
 >[!NOTE] 
 >Microsoft-klantovereenkomst en de nieuwe commerce-ervaring in CSP voor Azure:** Acceptatie van de Microsoft-klantovereenkomst is vereist voor aankoop via de nieuwe [commerce-ervaring in CSP voor Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) die beschikbaar is vanaf 1 november 2019.
@@ -229,7 +229,7 @@ Partners kunnen de nieuwe Microsoft-klantovereenkomst op vrijwel dezelfde manier
 
 - Bevestig de acceptatie van de nieuwe Microsoft-klantovereenkomst vóór 31 januari 2020.
 - Train uw agents en wederverkopers op basis van de nieuwe voorwaarden van de overeenkomst en bij het presenteren van de nieuwe overeenkomst en het valideren van de acceptatie van de klant. Indirecte providers moeten samenwerken met indirecte resellers om de acceptatie van een klant te valideren.
-- Directe factuurproviders en indirecte providers die gebruikmaken van API's, moeten de bestaande implementatie bijwerken voor de nieuwe Microsoft-klantovereenkomst met behulp van [bijgewerkte API.](../confirm-customer-agreement.md)
+- Directe factuurproviders en indirecte providers die gebruikmaken van API's, moeten de bestaande implementatie bijwerken voor de nieuwe Microsoft-klantovereenkomst [bijgewerkte API.](../confirm-customer-agreement.md)
 - Directe factuur- en indirecte providers kunnen ook de webgebruikersinterface van Partner Center gebruiken om de acceptatie van de klant te bevestigen.
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>Aanvullende resources Partners kunnen inhoud bekijken die beschikbaar is op de [pagina CSP Gallery,](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)waaronder:
@@ -276,7 +276,7 @@ De prijslijsten voor Azure-plannen op de marketplace-pagina zijn overal up-to-da
 
 **Problemen met prijslijst op basis van licenties**
 
-De prijslijst op basis van licenties van januari heeft de volgende bekende problemen die we in de prijslijstupdates voor februari van de volgende maand verwachten op te lossen.
+De prijslijst op basis van licenties van januari heeft de volgende bekende problemen die we in de prijslijstupdates van de volgende maand voor februari verwachten op te lossen.
 
 Deze aanbiedingen mogen niet in de prijslijst staan en worden volgende maand verwijderd:
 
@@ -343,7 +343,7 @@ Op 1 februari 2020 worden de volgende nieuwe en bijgewerkte aanbiedingen voor Bi
 
 Nieuwe aanbiedingen voor Human Resources
 
-- Dynamics 365 HR-gebruikers kunnen Dynamics 365 Unified Ops Aanvullende DB/File Capacity USL-aanbiedingen aanschaffen
+- Dynamics 365 HR-gebruikers kunnen aanvullende USL-aanbiedingen voor Dynamics 365 Unified Ops aanschaffen
 - Dynamics 365 HR Self-Serve-aanbiedingen
 - Dynamics 365 Human Resources (gebruiker, tenant)
 
@@ -371,13 +371,13 @@ SKU-gegevens in behandeling
 
 Op 1 februari 2020 wijzigt Microsoft de namen van sommige productfamilies en -aanbiedingen om de naamgeving voor bestaande Dynamics 365- en Power Platform-aanbiedingen af te stemmen op de naam die wordt gebruikt in andere kanalen en regio's.
 
-Zie de specifieke wijzigingen in het bestand 'Naamwijzigingen naam Dynamics CSP-aanbieding – februari 2020' [hier.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+Zie de specifieke wijzigingen in het bestand 'Naamwijzigingen dynamics CSP-aanbieding – februari 2020' [hier.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="additional-resources"></a>Aanvullende bronnen
 
 - [Dynamics 365-startpagina](https://dynamics.microsoft.com/)
 - [startpagina Mixed Reality Apps Guide](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Startpagina van Biz Apps Fraud](/dynamics365/fraud-protection/overview)
+- [Startpagina van Biz Apps Fraude](/dynamics365/fraud-protection/overview)
 - [Power Platform Products-startpagina](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
 - [FY20 Power Apps en Flow Licensing Updates](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365-licentieverlening](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)

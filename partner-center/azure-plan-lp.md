@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7653a885c6ae57194e3bcc519ce6fb645fc457a
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 53ac08c17b492a0e1b3bc3d3d72ec6ca15628aea3519c8bb6092926974905f2f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838373"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691205"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Inleiding: Met azure-plan kunnen partners Azure kopen tegen betalen per gebruik-tarieven voor klanten
 
@@ -24,9 +24,9 @@ ms.locfileid: "114838373"
 
 Microsoft heeft een nieuwe commerce-ervaring geïntroduceerd in Partner Center, het Azure-plan.  Met deze nieuwe commerce-ervaring krijgen partners toegang tot Azure-services tegen tarieven voor betalen per gebruik voor klanten onder de Microsoft-klantovereenkomst.
 
-Dit plan vereenvoudigt de aankoopervaring: u kunt meerdere Azure-abonnementen in een Azure-abonnement hebben. U hoeft niet langer een afzonderlijke order per Azure-abonnement in te dienen. En in deze nieuwe commerce-ervaring voor Azure zijn we afgestemd op één globaal prijsprincipe waarmee CSP-partners Azure tegen de gepubliceerde prijzen kunnen aanbieden.
+Dit plan vereenvoudigt de aankoopervaring: u kunt meerdere Azure-abonnementen in een Azure-abonnement hebben. U hoeft geen afzonderlijke order meer per Azure-abonnement in te dienen. En in deze nieuwe commerce-ervaring voor Azure zijn we afgestemd op één globaal prijsprincipe waarmee CSP-partners Azure tegen de gepubliceerde prijzen kunnen aanbieden.
 
-Uw klanten overstappen van hun bestaande CSP Azure-aanbiedingen naar Azure-services onder het Azure-plan in de nieuwe commerce-ervaring in het CSP-programma vanuit Partner Center. Voor deze overgang is alleen het volgende vereist:
+Overgang van uw klanten van hun bestaande CSP Azure-aanbiedingen naar Azure-services onder het Azure-plan in de nieuwe commerce-ervaring in het CSP-programma vanuit Partner Center. Voor deze overgang is alleen het volgende vereist:
 
 - De partner en de eindklant moeten een tot stand gebrachte resellerrelatie hebben via Partner Center en de klant moet de overeenkomst hebben ondertekend Microsoft-klantovereenkomst.
 

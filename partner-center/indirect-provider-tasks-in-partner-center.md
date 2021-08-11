@@ -9,22 +9,22 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: c773d21f5e19bdb9712ed7a5d62061187d83281f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d369f558412f89fab92201ec21cae363e87a555e4ab6e31a32a52a33f429cf7e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839767"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692502"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partner met indirecte resellers in het programma Cloud Solution Provider
 
 **Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
 
-Met een dergelijke complexe en snel veranderende technologiemarktplaats willen klanten de concurrentiepositie die technologieoplossingen hen kunnen bieden. In een dergelijk klimaat is het zinvol dat partners investeren in partner-naar-partnerbetrokkenheid om aanbiedingen uit te breiden en klanten in staat te stellen nog meer te doen.
+Met een dergelijke complexe en snel veranderende technologiemarktplaats willen klanten de concurrentiepositie die technologieoplossingen hen kunnen bieden. In een dergelijk klimaat is het zinvol voor partners om te investeren in partner-naar-partnerbetrokkenheid om aanbiedingen uit te breiden en klanten in staat te stellen nog meer te doen.
 
-Nieuwe wederverkopers zijn op de markt en zoeken naar manieren om hun oplossingen aan klanten buiten hun markten en land/landen aan te bieden. Als een gevestigde technologieprovider bent u goed in de positie om hun route naar de markt te vinden. Werk samen met indirecte resellers in het Cloud Solution Provider (CSP)-programma om verbinding te maken met andere partners, nieuwe oplossingen op de markt te brengen en de acceptatie van cloudservices voor klanten te verbeteren.
+Nieuwe wederverkopers zijn op de markt en zoeken naar manieren om hun oplossingen aan klanten buiten hun markten en land/landen aan te bieden. Als gevestigde technologieprovider bent u goed in de positie om de markt op te gaan. Werk samen met indirecte resellers in het Cloud Solution Provider (CSP)-programma om verbinding te maken met andere partners, nieuwe oplossingen op de markt te brengen en de acceptatie van cloudservices voor klanten te verbeteren.
 
-In het model indirecte provider-reseller (twee lagen) werkt u samen met indirecte resellers om Microsoft-cloudoplossingen aan klanten aan te bieden. U koopt producten en abonnementen rechtstreeks bij Microsoft en biedt deze oplossingen vervolgens aan klanten via uw wederverkopers.
+In het model indirecte provider-reseller (twee lagen) werkt u samen met indirecte resellers om Microsoft-cloudoplossingen aan klanten aan te bieden. U koopt producten en abonnementen rechtstreeks van Microsoft en biedt deze oplossingen vervolgens aan klanten via uw wederverkopers.
 
 Als indirecte provider gebruikt u de volgende Partner Center:
 
@@ -48,7 +48,7 @@ Voltooi de volgende stappen om uw samenwerking met indirecte resellers en klante
 
 2. Verbinding maken indirecte resellers
 
-   - Voordat u met resellers kunt communiceren en transacteren, moet u een partnerschap met deze leveranciers tot stand Partner Center.
+   - Voordat u met wederverkopers kunt communiceren en transacteren, moet u een partnerschap met deze leveranciers tot stand Partner Center.
 
 3. Communiceren met klanten
 
@@ -67,7 +67,7 @@ Als u wilt communiceren en transacteren met indirecte resellers in de Partner Ce
 
 Als u een partnerschap tot stand wilt laten komen, e-mailt u een samenwerkingsaanvraag naar de reseller. Zorg ervoor dat u het e-mailadres van de reseller bij de hand hebt voordat u aan de slag gaat.
 
-Voeg op de pagina met abonnementsdetails in het veld Reseller (MPN-id) de reseller toe die u wilt gebruiken. Zorg ervoor dat u de MPN-id gebruikt die is gekoppeld aan het partnerlocatieaccount van de reseller dat ze hebben gebruikt om onboarding uit te Partner Center. Dit zorgt ervoor dat de reseller de juiste incentives ontvangt en dat deze een actieve rol Microsoft Partner-overeenkomst betrokken te zijn bij de transactie.
+Voeg op de pagina met abonnementsdetails in het veld Reseller (MPN-id) de reseller toe die u wilt gebruiken. Zorg ervoor dat u de MPN-id gebruikt die is gekoppeld aan het partnerlocatieaccount van de reseller dat ze hebben gebruikt om onboarding uit te Partner Center. Dit zorgt ervoor dat de reseller de juiste incentives ontvangt en dat deze een actief Microsoft Partner-overeenkomst betrokken te zijn bij de transactie.
 
 1. Selecteer **Indirecte resellers in** het **Partner Center** menu.
 
@@ -95,8 +95,8 @@ Als u voor bestaande abonnementen besluit om met een indirecte reseller te werke
 
 | **Om dit te bereiken** | **Voer deze handeling uit** | **Waar** |
 |   ------------------   |   -------   |   -----   |
-| De reseller in staat stellen om het account van een klant te beheren en beheerdersmachtigingen te hebben om hun abonnementen te beheren | Een reseller koppelen aan een klantaccount wanneer u een nieuwe klant toevoegt | Op de **pagina Nieuwe** klant |
-| De reseller in staat stellen het account van een Azure-klant te beheren|Een reseller koppelen aan een Azure-klantaccount wanneer u een nieuwe klant toevoegt|Selecteer in **de Azure-serviceportal** de optie [Instellingen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) om de tenanteigenaarmachtigingen voor de indirecte **reseller te** geven|
+| De reseller in staat stellen het account van een klant te beheren en beheerdersmachtigingen te hebben om hun abonnementen te beheren | Een reseller koppelen aan een klantaccount wanneer u een nieuwe klant toevoegt | Op de **pagina Nieuwe** klant |
+| De reseller in staat stellen het account van een Azure-klant te beheren|Een reseller koppelen aan een Azure-klantaccount wanneer u een nieuwe klant toevoegt|Selecteer in **de Azure-serviceportal** de optie [Instellingen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) om de tenanteigenaarmachtigingen voor de indirecte reseller **te** geven|
 | Het resellertegoed voor incentives geven | De reseller koppelen aan het abonnement (nieuw of bestaand) | Op de **pagina Nieuw** abonnement |
 | Klantondersteuning voor specifieke abonnementen delegeren aan de reseller | Selecteer de reseller in de **lijst Aangewezen contactpersoon voor** ondersteuning | Op de detailpagina van het abonnement:  selecteer de klant op de pagina Klanten en selecteer vervolgens het abonnement op de pagina Abonnementen **van de** klant |
 
@@ -113,7 +113,7 @@ Volg de onderstaande stappen om de samenwerking met bestaande indirecte reseller
 >[!IMPORTANT]
 >Klanten die zijn gekoppeld aan de indirecte reseller, worden niet verwijderd. Alle gedelegeerde beheerdersbevoegdheden die worden verleend, blijven ongewijzigd.
 >U vertegenwoordigt dat de beslissing om de relatie met de partner te beëindigen, in goed vertrouwen is genomen, voor een legitiem zakelijk doel en in overeenstemming met uw overeenkomst met uw klant of partner, en u ermee akkoord gaat Microsoft te beschermen tegen en te beschermen tegen claims van en tegen claims van derden.
->Als uw overeenkomst dit vereist, moet u uw klant of partner een juridische kennisgeving van beëindiging verstrekken. Dit hulpprogramma genereert geen kennisgeving aan de klant of partner.
+>U moet uw klant of partner een juridische kennisgeving van beëindiging verstrekken als dit vereist is voor uw overeenkomst. Dit hulpprogramma genereert geen kennisgeving aan de klant of partner.
 
 3. De indirecte reseller waarvan u de samenwerking hebt verwijderd, wordt niet weergegeven in de lijst.
 Afhankelijk van het toegangsniveau en de betrokkenheid wilt u mogelijk communiceren met de indirecte reseller en de eindklant over deze wijziging.
@@ -137,16 +137,16 @@ Wanneer u een reseller aan een nieuw klantaccount koppelt, delegeert u account- 
 
 5. Als de bestelling juist is, selecteert u **Verzenden.** Als de order onjuist is, selecteert u **Annuleren om** de hele bewerking te annuleren en opnieuw te beginnen.
 
-6. Nadat u de bestelling hebt verzenden, wordt **de pagina Bevestiging** weergegeven. Onder **Installatiegegevens** worden de naam van het beheerdersaccount en het tijdelijke wachtwoord weergegeven. Kopieer de gegevens van de gebruikersnaam en het wachtwoord, zodat u deze naar de nieuwe klant kunt verzenden.
+6. Nadat u de bestelling hebt verzenden, wordt **de pagina** Bevestiging weergegeven. Onder **Installatiegegevens** worden de naam van het beheerdersaccount en het tijdelijke wachtwoord weergegeven. Kopieer de gegevens van de gebruikersnaam en het wachtwoord, zodat u deze naar de nieuwe klant kunt verzenden.
 
     > [!IMPORTANT]  
     > Noteer de naam en het wachtwoord van het gebruikersaccount, omdat u na het sluiten van deze pagina geen toegang meer hebt tot deze informatie.
 
-7. Selecteer **Gereed**. De nieuwe klant wordt weergegeven in uw klantenlijst, gekoppeld aan de indirecte reseller. De reseller heeft nu beheerderstoegang tot de accountgegevens en abonnementen van de klant en kan de abonnementen namens de klant beheren.
+7. Selecteer **Gereed**. De nieuwe klant wordt weergegeven in de lijst met klanten die is gekoppeld aan de indirecte reseller. De reseller heeft nu beheerderstoegang tot de accountgegevens en abonnementen van de klant en kan de abonnementen namens de klant beheren.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Nieuwe abonnementen toevoegen aan klantaccounts
 
-Wanneer klanten nieuwe abonnementen willen kopen, bestaande willen upgraden of extra licenties willen kopen, kunt u deze wijzigingen aanbrengen in het account van de klant via Microsoft 365 portal. U kunt dit niet doen in de Azure Portal.
+Wanneer klanten nieuwe abonnementen willen kopen, bestaande willen upgraden of extra licenties willen kopen, kunt u deze wijzigingen aanbrengen in het account van de klant via de Microsoft 365 portal. U kunt dit niet doen in de Azure Portal.
 
 1. Selecteer **Klanten** in uw **Partner Center** menu.
 
@@ -154,7 +154,7 @@ Wanneer klanten nieuwe abonnementen willen kopen, bestaande willen upgraden of e
 
 3. Selecteer op **de pagina** Nieuw abonnement de abonnementen en voer het aantal licenties in dat de klant wil kopen.
 
-4. Als u het abonnement wilt koppelen aan een reseller, selecteert u de naam van de reseller in de lijst en selecteert u **vervolgens Verzenden.** Door de reseller te koppelen aan het abonnement, kunnen ze, indien van toepassing, incentives verdienen.
+4. Als u het abonnement wilt koppelen aan een reseller, selecteert u de naam van de reseller in de lijst en selecteert u **vervolgens Verzenden.** Door de reseller te koppelen aan het abonnement, kunnen ze incentives verdienen, indien van toepassing.
 
 5. De nieuwe abonnementen worden weergegeven in de lijst met abonnementen van de klant.
 

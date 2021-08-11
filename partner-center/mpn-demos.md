@@ -8,12 +8,12 @@ ms.subservice: partnercenter-benefits
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: cd165bfe4bc908b3016d7a3e50c42310dcbd8e0b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4ab11a445f85a32f2b104692b3d424347c205d959d2ef56c212e6d86ce082438
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845530"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692208"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Demo's voor MPN-partners: Microsoft 365, Dynamics 365, Teams en meer
 

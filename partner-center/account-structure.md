@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: MPN-partners kunnen meer te weten komen over de twee niveaus van accounts in Partner Center, het Partner Global Account (PGA) en het Partner Location Account (PLA).
+description: MPN-partners kunnen meer informatie krijgen over de twee niveaus van accounts in Partner Center, het Partner Global Account (PGA) en het Partner Location Account (PLA).
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5d0df94cd89ea2c37a164c61ecea7da8bdb5e06
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: abd0addaf752f6caead273a687200efa808a66f6c13c90461f01190ee5e2625a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101698"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685532"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center heeft twee niveaus van accounts voor MPN-partners
 
@@ -32,7 +32,7 @@ Uw bedrijf heeft twee niveaus van accounts in Partner Center.
 
 ## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>Het account op het tweede niveau is het locatieaccount met de naam Partner Location Account (PLA)
 
-Uw PGA heeft mogelijk extra bedrijfslocaties. Elke locatie heeft een eigen MPN-id of partnerlocatieaccount (PLA). U gebruikt de MPN-locatie-id voor transactionele activiteiten en inschrijving in incentive-programma's.
+Uw PGA heeft mogelijk extra bedrijfslocaties. Elke locatie heeft een eigen MPN-id of Partner Location Account (PLA). U gebruikt de MPN-locatie-id voor transactionele activiteiten en inschrijving in incentive-programma's.
 
 - Elk partnerlocatieaccount kan een eigen juridisch adres en primaire contactpersoon hebben. Locaties kunnen ook het juridische adres delen met het globale account of met andere locaties.
 - Bekijk de lijst met partnerlocatieaccounts **van Instellingen**  ->  **locaties.**

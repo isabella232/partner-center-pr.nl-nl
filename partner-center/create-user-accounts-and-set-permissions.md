@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 71a330356b6c4b3792086f1bc2823e0e067e04ae
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 7aacaa04beb0aaa80ff40b1ba5bb2bb419c464904379e6737e55b387cce3bf3d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101270"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691086"
 ---
 # <a name="create-user-accounts"></a>Gebruikersaccounts maken  
 

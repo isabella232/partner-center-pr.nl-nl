@@ -4,33 +4,33 @@ ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Leer hoe u de beste Microsoft-partnerstatus kunt verdienen en nieuwe klanten kunt aan trekken door te voldoen aan competentievereisten om gold- en silver-lidmaatschapsniveaus te verdienen.
+description: Meer informatie over het verdienen van de microsoft-partnerstatus en het aan trekken van nieuwe klanten door te voldoen aan competentievereisten om gold- en silver-lidmaatschapsniveaus te verdienen.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2eecc1963c83ea3deb4caf5116b05aaccbf857af
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 63ecf9e2982f968267ff3ffbdd010ede0d7badcaf4821bf5ccf6af8ccc994ea1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836334"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692327"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Onderscheid maken tussen uw bedrijf door Microsoft-competenties te verkrijgen
 
 **Juiste rollen:** Globale | Beheerder van gebruikersbeheer
 
-Demonstreert uw bewezen expertise in het leveren van kwaliteitsoplossingen in een of meer gespecialiseerde bedrijfsgebieden. Microsoft-competenties zijn ontworpen om u voor te bereiden op de behoeften van uw klanten en om u te helpen nieuwe klanten aan te trekken die op zoek zijn naar door Microsoft gecertificeerde oplossingsproviders. Word lid van de toplaag van Microsoft-partners en onderscheiden zich van uw collega's.
+Toon uw bewezen expertise aan in het leveren van kwaliteitsoplossingen in een of meer gespecialiseerde bedrijfsgebieden. Microsoft-competenties zijn ontworpen om u voor te bereiden op de behoeften van uw klanten en om u te helpen nieuwe klanten aan te trekken die op zoek zijn naar door Microsoft gecertificeerde oplossingsproviders. Word lid van de toplaag van Microsoft-partners en onderscheiden zich van uw collega's.
 
 - Haal een **silver-competentie** op om uw consistente mogelijkheden en commitment te demonstreren.
 
-- Haal een **goudkleurige** competentie op om uw eersteklas mogelijkheden binnen een Microsoft-oplossingsgebied te demonstreren.
+- Haal een **goudkleurige competentie** op om uw beste mogelijkheden binnen een Microsoft-oplossingsgebied te demonstreren.
 
 Het bereiken van een competentie kan ook een vermelding zijn voor verdere voordelen en kansen:
 
 - Ontgrendel krachtige [go-to-market aanbiedingen](mpn-learn-about-go-to-market-benefits.md) en programma's die u kunnen helpen uw bedrijf uit te breiden en uit te breiden. [Meer informatie over hoe u de markt op kunt gaan met Microsoft](https://partner.microsoft.com/solutions/go-to-market).
 
-- Het bereiken van een goudkleurige competentie biedt u de mogelijkheid om geavanceerdere [specialisaties](advanced-specializations.md) aan uw portfolio toe te voegen. Geavanceerde specialisaties helpen u uw groeiende expertise aan klanten te laten zien. [Meer informatie over geavanceerde specialisaties.](https://partner.microsoft.com/membership/advanced-specialization)
+- Het bereiken van een goudkleurige competentie biedt u de mogelijkheid om geavanceerdere [specialisaties](advanced-specializations.md) aan uw portfolio toe te voegen. Met geavanceerde specialisaties kunt u uw groeiende expertise presenteren aan klanten. [Meer informatie over geavanceerde specialisaties.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="check-your-status-as-you-attain-a-competency"></a>Controleer uw status wanneer u een competentie bereikt
 
@@ -44,7 +44,7 @@ U kunt de vereisten en wat uw bedrijf heeft bereikt bekijken op basis van het co
 
 ## <a name="competency-areas"></a>Competentiegebieden
 
-Voor het verkrijgen van silver- of gold-lidmaatschapscompetentie, wordt u gevraagd om expertise op verschillende gebieden van het bedrijf en de technologie te demonstreren.
+Als u silver- of gold-lidmaatschapscompetentie wilt verkrijgen, wordt u gevraagd om expertise op verschillende gebieden van het bedrijf en de technologie te demonstreren.
 
 |**Gebied**            |**Competentie**                    |
 |--------------------|--------------------------------|

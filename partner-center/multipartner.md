@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5d7e17e79ba97edfece5eda990349aa949909cd
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 6af88c1f61e7c93ef64a22cc4cd82ba22128e79479f55131a1b85ef2d8ea0a98
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843082"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691919"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Ondersteuning voor meerdere partners voor klanten die met meer dan één partner willen werken
 
@@ -22,11 +22,11 @@ ms.locfileid: "114843082"
 
 **Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent
 
-De functie Partner Center meerdere partners van de Partner Center ondersteunt scenario's waarin een klant met meer dan één partner wil werken. Een klant wil bijvoorbeeld één partner in dienst nemen voor zijn expertise in Office 365, maar een andere partner in dienst nemen die is gespecialiseerd in Microsoft Azure.
+De functie Partner Center meerdere partners van de Partner Center biedt ondersteuning voor scenario's waarin een klant met meer dan één partner wil werken. Een klant wil bijvoorbeeld één partner in dienst nemen voor zijn expertise in Office 365, maar een andere partner in dienst nemen die is gespecialiseerd in Microsoft Azure.
 
 Een Azure CSP-tenant kan een extra Azure-abonnement van een andere CSP-partner bevatten.
 
-Als u de functie voor meerdere partners in de Partner Center nodigt u de klant uit om u gedelegeerde beheerbevoegdheden te geven. Zie [Een relatie met een klant aanvragen](request-a-relationship-with-a-customer.md) voor informatie over het tot stand komen van een relatie met een klant die al met een partner werkt.
+Als u de functie voor meerdere partners in de Partner Center nodigt u de klant uit om gedelegeerde beheerbevoegdheden te geven. Zie [Een relatie met een klant aanvragen](request-a-relationship-with-a-customer.md) voor informatie over het tot stand komen van een relatie met een klant die al met een partner werkt.
 
 De functionaliteit voor meerdere partners is niet:
 

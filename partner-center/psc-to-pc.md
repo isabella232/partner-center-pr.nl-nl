@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: ee7e3da61d5566f9202ba3ff116638c8fb4dfb69
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 754a41716575dbc03dc0a6c384753ad35c4d187ae302b7bcd2feefa5d5bb133e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839801"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684332"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Handleiding voor co-verkoop in Partner Center (PC) voor partners die migreren van Partner Sales Verbinding maken (PSC)
 
@@ -26,7 +26,7 @@ Dit artikel bevat richtlijnen voor partners die migreren van Partner Sales Verbi
 > Als u hier bent omdat u een banner in PSC over de migratie hebt gezien, bent u op de juiste plaats. Deze handleiding is niet van toepassing op Solution Assessment (SA) en OEM-licentieverleningspartners die hun deals beheren in PSC.
 
 >[!Important]
-> Vanaf 1 april 2021 kan uw bedrijf geen deals meer maken of bewerken in PSC. **U kunt nog steeds de bestaande dealsgegevens downloaden met behulp van de bulkexportfunctie in PSC. U kunt ook [openstaande deals migreren van](psc-to-pc.md#psc-deals-migration) PSC naar Partner Center na deze datum.** <br><br> Als er deals zijn waar u actief aan werkt die in aanmerking komende oplossingen voor IP-co-verkoop incentive bevatten, hebt u twee opties: <br><br> 1. Markeer de deal als gewonnen en voltooi de dealregistratie in PSC vóór 31 maart 2021. <br> 2. [Migreert de deals](psc-to-pc.md#psc-deals-migration) naar Partner Center zodat u meer tijd hebt om aan de deal te werken en de dealregistratie te starten.
+> Vanaf 1 april 2021 kan uw bedrijf geen deals meer maken of bewerken in PSC. **U kunt nog steeds de bestaande dealsgegevens downloaden met behulp van de bulkexportfunctie in PSC. U kunt ook [openstaande deals migreren van](psc-to-pc.md#psc-deals-migration) PSC naar Partner Center na deze datum.** <br><br> Als er deals zijn waarmee u actief werkt en oplossingen bevatten die in aanmerking komen voor een IP-co-sell-incentive, hebt u twee opties: <br><br> 1. Markeer de deal als gewonnen en voltooi de dealregistratie in PSC vóór 31 maart 2021. <br> 2. [Migreert de deals](psc-to-pc.md#psc-deals-migration) naar Partner Center zodat u meer tijd hebt om aan de deal te werken en de dealregistratie te starten.
 
 Zoals u weet, **heeft het bedrijf na 30 april 2021** geen toegang meer tot PSC. U vindt echter nog steeds alles wat u wilt doen in Partner Center, zoals het maken van deals voor co-verkoop, het beheren van uw deals en het reageren op deals die door Microsoft-verkopers naar u zijn verzonden.
 
@@ -38,7 +38,7 @@ Er zijn echter wel verschillen. De volgende richtlijnen kunnen u helpen uw overg
 
 - U hebt een werk-e-mail nodig om u aan te melden [bij Partner Center.](https://partner.microsoft.com/)
 - Stel uw account in met behulp van de Partner Center [accountbeheerder](permissions-overview.md).
-- Lees dit document voor meer informatie Partner Center verkopen in uw bedrijf.
+- In dit document leest u hoe Partner Center kunt verkopen.
 - Stel gebruikersaccounts in Partner Center voor al uw PSC-gebruikers (beheerders-, dealbeheer- en verkoperrollen) en wijs deze beheerdersrollen [toe.](permissions-overview.md)
 
 >[!IMPORTANT]
@@ -46,7 +46,7 @@ Er zijn echter wel verschillen. De volgende richtlijnen kunnen u helpen uw overg
 
 :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Afbeelding van de PSC-banner waar de partners de MPN-id kunnen vinden.":::
 
- Als u wilt controleren of de MPN-id wordt weergegeven als een Partner Center MPN-locatie, meld u zich aan bij het [Partner Center-dashboard](https://partner.microsoft.com/dashboard)en selecteert u **Instellingen** (het tandwielpictogram) rechtsboven in het scherm, gevolgd door **Account Instellingen**. Selecteer in het linkernavigatiemenu op  het tweede niveau Locaties om de lijst met alle MPN-ID's en locaties weer te geven die zijn gekoppeld aan het Partner Center account.
+ Als u wilt controleren of de MPN-id wordt weergegeven als een Partner Center MPN-locatie, meld u zich aan bij het [Partner Center-dashboard](https://partner.microsoft.com/dashboard)en selecteert u **Instellingen** (het tandwielpictogram) rechtsboven in het scherm, gevolgd door **Account Instellingen**. Selecteer in het linkernavigatiemenu op  het tweede niveau Locaties om de lijst met alle MPN-ID's en locaties weer te geven die zijn gekoppeld aan Partner Center account.
 
 ### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Als u een PSC-dealmanager of verkoper bent
 
@@ -97,8 +97,8 @@ De gebruikersmigratietabel heeft de volgende details:
 
 - Gebruikersaccount: e-mail-id van de werknemer
 - PSC-partneraccount: het account waaraan de werknemer is gekoppeld in PSC
-- PSC-gebruikersrol: een van de drie rollen die zijn toegewezen in PSC.
-- MPN-locatie van PC: de locatie waarvoor de gebruiker relevante Partner Center (PC)-rollen krijgt. De MPN van het PSC-partneraccount wordt gebruikt om de equivalente MPN-locatie in de Partner Center om machtigingen toe te wijzen. De hele organisatie geeft de mpn-id van de vOrg aan.
+- PSC-gebruikersrol: een van de drie rollen die zijn toegewezen aan in PSC.
+- MPN-locatie van PC: de locatie waarvoor de gebruiker relevante Partner Center (pc)-rollen krijgt. De MPN van het PSC-partneraccount wordt gebruikt om de equivalente MPN-locatie in de Partner Center om machtigingen toe te wijzen. De hele organisatie geeft de mpn-id van de vOrg aan.
 - Pc-gebruikersrol: aan werknemers worden rollen toegewezen op basis van hun PSC-gebruikersrollen. Beheerders in PSC krijgen de beheerdersrollen Verwijzingen toegewezen in Partner Center. Aan de verkoper wordt de gebruikersrol verwijzingen toegewezen in Partner Center. Meer informatie over de Partner Center rollen en wat gebruikers met deze rollen kunnen doen in Partner Center [hier](permissions-overview.md#manage-referrals)
 - PC AAD-tenant: de Microsoft Azure Active Directory (Azure AD)-tenant waaraan de gebruikers zijn toegewezen in Partner Center
 - Status: er zijn drie mogelijke statussen voor de status van de migratie
@@ -126,7 +126,7 @@ Soms kan de migratie mislukken en leiden tot fouten. Hier zijn enkele redenen wa
 
 ## <a name="psc-deals-migration"></a>Migratie van PSC-deals
 
-Nadat u de gebruikersmigratie hebt voltooid, gebruikt u de migratiewizard deals op de pagina Mogelijkheden voor co-verkoop om alle in aanmerking komende openstaande deals van PSC naar een Partner Center. **De migratiekoppeling naar deals is alleen zichtbaar voor verwijzingsbeheerders met het hele organisatiebereik in Partner Center.** Rechtsboven op de pagina Collectieve verkoopkansen verschijnt een koppeling met de naam **PSC-dealmigratie**. Hiermee wordt de wizard Dealmigratie geopend.
+Nadat u de migratie van gebruikers hebt voltooid, gebruikt u de wizard migratie van deals op de pagina met mogelijkheden voor co-verkoop om alle in aanmerking komende openstaande deals van PSC naar een Partner Center. **De migratiekoppeling naar deals is alleen zichtbaar voor verwijzingsbeheerders met het hele organisatiebereik in Partner Center.** Rechtsboven op de pagina Collectieve verkoopkansen verschijnt een koppeling met de naam **PSC-dealmigratie**. Hiermee wordt de wizard Dealmigratie geopend.
 
 Lees deze sectie voordat u de dealmigratie start.
 
@@ -163,7 +163,7 @@ U kunt de mogelijkheden voor bulksgewijs downloaden en uploaden in PSC gebruiken
 De dealmigratie in Partner Center is gebouwd als een ervaring met één klik. U hoeft alleen maar de knop Deals migreren **te selecteren** zodra uw bedrijf klaar is om de in aanmerking komende deals te migreren. **U kunt de deals die u wilt migreren vanuit PSC niet kiezen. Als u geen deals wilt migreren naar Partner Center, verplaatst u deze naar de gesloten status in PSC voordat u de migratie start.**
 
 >[!Note]
-> Na het initiëren van de migratie kan het tot 24 uur duren voordat **de deals zijn gemigreerd.**
+> Nadat de migratie is geïnitieerd, kan het tot 24 uur duren voordat **de deals zijn gemigreerd.**
 
 Zodra de migratie is voltooid, is de status van het bannerbericht gewijzigd, met een koppeling naar het migratierapport. Download het rapport om de details weer te geven van deals die zijn gemigreerd van PSC naar Partner Center.
 
@@ -177,10 +177,10 @@ Het rapport bevat de onderstaande details.
 
 Alle deals die zijn gemigreerd, zijn niet zichtbaar in PSC. U kunt blijven werken aan de gemigreerde deals in Partner Center waaronder het voltooien van dealregistratie in Partner Center. Er zijn geen wijzigingen in de interacties met de Microsoft-verkopers voor deals voor co-verkoop.
 
-Deals die zijn gemigreerd vanuit PSC zijn beschikbaar op de tabbladen Inkomende en Uitgaande op basis van de bron van de deal. Alle deals die door uw bedrijf worden gedeeld, zijn beschikbaar op het tabblad Uitgaand en door Microsoft geïnitieerde deals zijn beschikbaar op het tabblad Inkomende Partner Center. Er zijn twee soorten deals die na de migratie worden gemaakt.
+Deals die zijn gemigreerd vanuit PSC zijn beschikbaar op de tabbladen Inkomende en Uitgaande op basis van de bron van de deal. Alle deals die door uw bedrijf worden gedeeld, zijn beschikbaar op het tabblad Uitgaand en door Microsoft geïnitieerde deals zijn beschikbaar op het tabblad Binnenkomende Partner Center. Er zijn twee soorten deals die na de migratie worden gemaakt.
 
 1. **Deals voor co-verkoop:** deals die zijn gemarkeerd als co-sell in PSC, worden gemaakt als deals voor co-verkoop in Partner Center.
-2. **Door partners geleide deals:** deals die niet als co-verkoop zijn gemarkeerd, worden gemaakt als door partners geleide deals in Partner Center. Door partners geleide deals zijn zichtbaar voor Microsoft-verkopers en kunnen worden geüpgraded naar deals voor co-verkoop voordat de terminaltoestand wordt bereikt (gewonnen, verloren). Bovendien komen door partners geleide deals in aanmerking voor dealregistratie als er een oplossing is die in aanmerking komt voor een incentive in de deal.
+2. **Door partners geleide deals:** deals die niet als co-verkoop zijn gemarkeerd, worden gemaakt als door partners geleide deals in Partner Center. Door partners geleide deals zijn zichtbaar voor Microsoft-verkopers en kunnen worden geüpgraded naar deals voor co-verkoop voordat de terminaltoestand wordt bereikt (gewonnen, verloren). Bovendien komen door de partner geleide deals in aanmerking voor dealregistratie als er een oplossing is die in aanmerking komt voor een incentive in de deal.
 
 >[!Important]
 > Als er fouten zijn waardoor sommige deals niet konden worden gemigreerd, kunt u de dealmigratie opnieuw starten door te klikken op de knop **Deals migreren.** Deze functie wordt alleen ingeschakeld als er nog enkele in aanmerking komende deals moeten worden gemigreerd. Dit is ook handig als u zich in de overgangsfase belandt waarin enkele nieuwe deals worden gemaakt in PSC na het initiëren van de dealmigratie.
@@ -189,7 +189,7 @@ Zodra alle deals zijn gemigreerd, wordt er een banner weergegeven met 'Geen **de
 
 Gebruik na het voltooien van gebruikersmigratie en/of dealmigratie de volgende richtlijnen om de migratiestrategie te bepalen:
 
-Als uw bedrijf een Partner Development Manager (PDM) heeft: wanneer uw Partner Center-account is ingesteld en uw gebruikers zijn overgeschoven en rollen en machtigingen hebben, kunt u uw co-verkoopactiviteiten verplaatsen naar Partner Center. Informeer de PDM dat de overstap moet worden gemaakt in plaats van te wachten tot de deadline van de migratie is voltooid, waardoor al uw nieuwe deals in de Partner Center.
+Als uw bedrijf een Partner Development Manager (PDM) heeft: wanneer uw Partner Center-account is ingesteld en uw gebruikers zijn overgeschoven en rollen en machtigingen hebben, kunt u uw co-verkoopactiviteiten verplaatsen naar Partner Center. Informeer de PDM dat de overstap moet worden gemaakt in plaats van te wachten tot de deadline voor de migratie is voltooid, waardoor al uw nieuwe deals in de Partner Center.
 
 >[!Note]
 >Zodra u deze overstap hebt gemaakt, kunt u alleen reageren op de bestaande actieve deals in PSC. U kunt geen nieuwe deals maken en geen deals ontvangen van Microsoft-verkopers in PSC.
@@ -210,51 +210,51 @@ Dit is een belangrijke stap, waarmee u zich kunt voorbereiden op co-verkoop in P
 |-----|:-----|:-----|
 |Gebruikersrollen|PSC heeft beheerders-, dealmanager- en verkoperrollen.|Partner Center heeft alleen [de rol van verwijzingsbeheerder](permissions-overview.md#manage-referrals) die zowel lees- als schrijfmachtigingen biedt voor alle deals.|
 |Microsoft uitnodigen voor een deal voor co-verkoop|Geïnitieerd door Microsoft-verkoper, is er geen expliciete vraag door de partner.|Partner moet een expliciete aanvraag [indienen als](manage-co-sell-opportunities.md#add-solutions) er een Microsoft-verkopershulp nodig is voor een deal. Microsoft Verkoper heeft een optie om de aanvraag te weigeren.|
-|Vervaldatum|Er is geen concept van het verlopen van een deal.|Binnenkomende deals van partners verlopen binnen 14 dagen als ze niet worden geaccepteerd door de partner. Hetzelfde geldt voor uitgaande deals van partners, waarbij ze de status Verlopen kunnen krijgen als de Microsoft-verkoper er over 14 dagen geen actie op ondergaat.|
+|Vervaldatum|Er is geen concept van het verlopen van een deal.|Binnenkomende deals van partners verlopen binnen 14 dagen als ze niet worden geaccepteerd door de partner. Hetzelfde geldt voor uitgaande deals van partners, waarbij de status verlopen kan worden als de Microsoft-verkoper er binnen 14 dagen geen actie op ondergaat.|
 |Microsoft-verkopersgegevens|Zichtbaar zodra er een deal wordt gemaakt.|Microsoft-verkopersgegevens worden alleen gedeeld met partner als de verkoper expliciet de uitnodiging voor co-verkoop van de partner accepteert.|
 |[Privépijplijn](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Niet beschikbaar.|Partners kunnen hun pijplijn delen zonder microsoft-verkopers inzicht te geven.|
-|Oplossingen|Oplossingen die tot slechts één prijslijst behoren, kunnen worden toegevoegd aan een deal.|Partner kan oplossingen [toevoegen die](manage-co-sell-opportunities.md#add-solutions) deel uitmaken van de volgende lijsten. a) Hun eigen oplossingen b) Oplossingen van de first party catalogus van Microsoft (vergelijkbaar met de rol transactiedeal in PSC) en c) oplossingen voor co-verkoop van andere externe partners (vergelijkbaar met de rol van ISV Deal in PSC).|
-|Dealtoewijzing|Alleen de toegewezen verkoper kan de deals bekijken en er actie op ondernemen.|Teamleden kunnen worden toegevoegd aan een deal om de personen op te geven die aan een deal werken. Andere verwijzingsbeheerders kunnen deze deals niet bekijken of er actie op onder de weg staan.|
+|Oplossingen|Oplossingen die tot slechts één prijslijst behoren, kunnen worden toegevoegd aan een deal.|Partner kan oplossingen [toevoegen die](manage-co-sell-opportunities.md#add-solutions) deel uitmaken van de volgende lijsten. a) Hun eigen oplossingen b) Oplossingen uit de catalogus van Microsoft (vergelijkbaar met de rol transactiedeal in PSC) en c) oplossingen voor co-verkoop van andere externe partners (vergelijkbaar met de rol van ISV Deal in PSC).|
+|Toewijzing van deal|Alleen de toegewezen verkoper kan de deals bekijken en er actie op ondernemen.|Teamleden kunnen worden toegevoegd aan een deal om de personen op te geven die aan een deal werken. Andere verwijzingsbeheerders kunnen deze deals niet bekijken of er actie op onder de weg staan.|
 |Klantorganisatie|Vrije tekstinvoer.|U kunt de [klantorganisatie doorzoeken](manage-co-sell-opportunities.md#select-your-customer) op de [D&B-database](https://www.dnb.com/) door slechts een paar tekens te typen. De juridische naam en het adres worden automatisch ingevuld op basis van de keuze.|
-|Contactpersoon van klant|Niet verplicht.|Niet verplicht voor het delen van persoonlijke pijplijnen. Vereist als Microsoft-verkoper wordt uitgenodigd voor deelname aan een aanvraag voor co-verkoop.|
+|Contactpersoon van klant|Niet verplicht.|Niet verplicht voor het delen van persoonlijke pijplijnen. Vereist als Microsoft-verkoper wordt uitgenodigd om deel te nemen aan een aanvraag voor co-verkoop.|
 |Openbare API|Niet beschikbaar.|[Openbare API](/partner/develop/referrals) voor het programmatisch beheren van Partner Center verwijzingen.|
 
 ## <a name="map-the-fields-in-psc-to-the-corresponding-fields-in-partner-center"></a>Wijs de velden in PSC toe aan de bijbehorende velden in Partner Center
 
-In deze sectie worden geselecteerde schermopnamen (of 'kaarten') voor PSC vergeleken met de bijbehorende weergave in de sectie Partner Center voor co-verkoop.
+In deze sectie worden geselecteerde schermafbeeldingen (of 'kaarten') voor PSC vergeleken met de bijbehorende weergave in de sectie Partner Center voor co-verkoopkansen.
 
 Op elk paar schermopnamen ziet u genummerde, gele of rode cirkels:
 
-- **Wat betekenen gele cirkels?** Genummerde, gele cirkels worden eerst weergegeven op elke PSC-schermopname. Vervolgens ziet u een begeleidende Partner Center schermopname met veel van dezelfde cijfers.
+- **Wat betekenen gele cirkels?** Genummerde, gele cirkels worden als eerste weergegeven op elke PSC-schermopname. Vervolgens vindt u een Partner Center schermopname eronder met veel van dezelfde cijfers.
 
-   Als u wilt zien hoe elk veld of kenmerk in PSC wordt gerelateerd aan het equivalent in Partner Center, koppelt u de genummerde cirkels aan elkaar in de twee gerelateerde schermopnamen. Koppel bijvoorbeeld de genummerde, gele '1' in de eerste PSC-schermopname aan de genummerde, gele '1' in de tweede, Partner Center schermopname eronder.
+   Als u wilt zien hoe elk veld of kenmerk in PSC wordt afgestemd op de tegenhanger in Partner Center, koppelt u de genummerde cirkels aan elkaar in de twee gerelateerde schermopnamen. Koppel bijvoorbeeld de genummerde, gele '1' in de eerste PSC-schermopname aan de genummerde, gele '1' in de tweede, Partner Center schermopname eronder.
 
-- **Wat betekent een rode cirkel?** Als u op één schermopname een rode cirkel ziet, geeft dit aan dat het PSC-veld niet beschikbaar is in Partner Center.
+- **Wat betekent een rode cirkel?** Als u een rode cirkel in één schermopname ziet, geeft dit aan dat het PSC-veld niet beschikbaar is in Partner Center.
 
 PsC-naar-Partner Center veldtoewijzingen worden weergegeven voor de volgende gebieden:
 
 1. PSC-startpagina die is Partner Center standaardweergave voor verkoopkansen
-1. PSC-rasterweergave die is Partner Center de dealweergave
-1. Weergave van details van PSC-deal die is Partner Center de detailweergave van de deal
-1. PSC-weergave Producten toevoegen die is Partner Center weergave Oplossingen toevoegen
-1. PsC-gebruikersbeheerweergave die is Partner Center de weergave gebruikersbeheer
+1. PSC-rasterweergave die is Partner Center dealweergave
+1. Weergave met details van PSC-deal die is Partner Center weergave met details van de deal
+1. PsC-weergave Producten toevoegen die is Partner Center weergave Oplossingen toevoegen
+1. PsC-gebruikersbeheerweergave die is Partner Center gebruikersbeheerweergave
 1. Toewijzingsweergave van PSC-gebruikersrol die is Partner Center de toewijzingsweergave van de rol
-1. PSC-meldingen weergeven die zijn Partner Center de weergave meldingen
+1. PSC-meldingenweergave die is Partner Center de weergave meldingen
 
 ### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>1 - PSC-startpagina die is Partner Center standaardweergave voor verkoopkansen
 
-Vergelijk de overeenkomende, genummerde cirkels tussen de bovenste PSC-schermopname en Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend Partner Center veld.  
+Vergelijk de overeenkomende, genummerde cirkels tussen de bovenste PSC-schermopname en Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomende Partner Center veld.  
 
-:::image type="content" source="images/pscmigration/homepage.png" alt-text="Afbeelding van de veldtoewijzingen tussen de startpagina van Partner Sales Verbinding maken en de standaardweergave van kansen voor co-verkoop in Partner Center." lightbox="images/pscmigration/home-page-expanded.png":::
+:::image type="content" source="images/pscmigration/homepage.png" alt-text="Afbeelding van de veldtoewijzingen tussen de startpagina van partnerverkoop Verbinding maken en de standaardweergave van kansen voor co-verkoop in Partner Center." lightbox="images/pscmigration/home-page-expanded.png":::
 
 ### <a name="2---psc-grid-view-mapped-to-the-partner-center-deal-view"></a>2 - PSC-rasterweergave die is Partner Center dealweergave
 
-Vergelijk de overeenkomende, genummerde cirkels tussen de bovenste PSC-schermopname en Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend Partner Center veld.  
+Vergelijk de overeenkomende, genummerde cirkels tussen de bovenste PSC-schermopname en Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomende Partner Center veld.  
 
 > [!NOTE]
-> Andere overwegingen worden onder de schermopnamen weergegeven.
+> Andere overwegingen worden weergegeven onder de schermopnamen.
 
-:::image type="content" source="images/pscmigration/gridview.png" alt-text="Afbeelding van de veldtoewijzingen tussen de rasterweergave Partner Sales Verbinding maken (PSC) en de Partner Center dealweergave." lightbox="images/pscmigration/grid-view-expanded.png":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Afbeelding van de veldtoewijzingen tussen de rasterweergave partnerverkoop Verbinding maken (PSC) en de Partner Center dealweergave." lightbox="images/pscmigration/grid-view-expanded.png":::
 
 **Speciale overwegingen:**
 
@@ -262,20 +262,20 @@ Vergelijk de overeenkomende, genummerde cirkels tussen de bovenste PSC-schermopn
 - Dealrol is geen vereist veld in Partner Center. Deze wordt niet weergegeven of vastgelegd in een van de werkstromen. Deze wordt automatisch aan de verkoperszijde van Microsoft afgeleid op basis van de oplossingen die aan de deal zijn toegevoegd.
 - De datum van laatste wijziging wordt niet weergegeven op de pagina met verwijzingsdetails in Partner Center. Partners kunnen de sorteerfunctionaliteit gebruiken om de deals te sorteren op basis van de laatste bijgewerkte datum.
 
-### <a name="3---psc-deal-details-view-mapped-to-partner-center"></a>3 - Details van PSC-deal die is Partner Center
+### <a name="3---psc-deal-details-view-mapped-to-partner-center"></a>3 - Weergave van PSC-dealdetails die is Partner Center
 
-Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC) met de Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend veld of overeenkomend Partner Center.
+Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC) met Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend veld of overeenkomend Partner Center.
 
 > [!NOTE]
-> Andere overwegingen worden onder de schermopnamen weergegeven.
+> Andere overwegingen worden weergegeven onder de schermopnamen.
 
-:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Afbeelding van de veldtoewijzingen tussen de weergave details van de psc-deal (Partner Sales Verbinding maken) en de weergave Partner Center dealdetails." lightbox="images/pscmigration/deal-details-expanded.png":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Afbeelding van de veldtoewijzingen tussen de weergave details van de PSC-deal (Partner Sales Verbinding maken) en de weergave Partner Center dealdetails." lightbox="images/pscmigration/deal-details-expanded.png":::
 
 **Speciale overwegingen:**
 
-- Partners kunnen een deal bewerken door de knop Bewerken te selecteren in de detailweergave van de partnerdeal (6). Zodra de knop Bewerken is geselecteerd, kunnen alle velden worden bewerkt. Vervolgens hebt u de mogelijkheid om de bewerkingen die zijn aangebracht aan de deal op te slaan of te annuleren.
-- Er is geen optie om de deal als dubbel te sluiten in Partner Center.
-- Resultaat van klant is niet beschikbaar in Partner Center. Alle details met betrekking tot interacties van klanten kunnen worden bijgewerkt in de sectie Notities in Partner Center.
+- Partners kunnen een deal bewerken door de knop Bewerken te selecteren in de detailweergave van de partnerdeal (6). Zodra de knop Bewerken is geselecteerd, worden alle velden bewerkbaar. Vervolgens hebt u de mogelijkheid om de bewerkingen die in de deal zijn aangebracht, op te slaan of te annuleren.
+- Er is geen optie om de deal als duplicaat te sluiten in Partner Center.
+- Klantresultaat is niet beschikbaar in Partner Center. Alle details met betrekking tot klantinteracties kunnen worden bijgewerkt in de sectie Notities in Partner Center.
 - Geschatte einddatum van oplossing is alleen beschikbaar voor OEM IOT-deals in Partner Center. Deze informatie wordt niet weergegeven voor andere dealtypen.
 - Licentieprogramma is niet vereist in Partner Center. Deze informatie wordt automatisch afgeleid op basis van de oplossingen die in de deal zijn geselecteerd.
 
@@ -284,19 +284,19 @@ Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC
 
 ### <a name="4---psc-add-products-view-mapped-to-the-partner-center-add-solutions-view"></a>4 - PSC-weergave 'Producten toevoegen' die is Partner Center weergave 'Oplossingen toevoegen'
 
-Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC) met de Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend veld of overeenkomend Partner Center.
+Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC) met Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend veld of overeenkomend Partner Center.
   
-:::image type="content" source="images/pscmigration/products.png" alt-text="Afbeelding van de veldtoewijzingen tussen de weergave Producten toevoegen Verbinding maken partnerverkoop (PSC) en de weergave Partner Center oplossingen toevoegen." lightbox="images/pscmigration/products-expanded.png":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Afbeelding van de veldtoewijzingen tussen de weergave Producten toevoegen Verbinding maken Partner Sales Verbinding maken (PSC) en de weergave Partner Center oplossingen toevoegen." lightbox="images/pscmigration/products-expanded.png":::
 
 ### <a name="5---user-management-in-psc-versus-partner-center"></a>5 - Gebruikersbeheer in PSC versus Partner Center
 
-Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC) met de Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend veld of overeenkomend Partner Center.  
+Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC) met Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend veld of overeenkomend Partner Center.  
 
  :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Afbeelding van de veldtoewijzingen tussen de startpagina voor gebruikersbeheer van Partner Sales Verbinding maken (PSC) en de paginaweergave Partner Center Gebruikersbeheer in het gebied Accountinstellingen."  lightbox="images/pscmigration/user-management-expanded.png":::
 
 ### <a name="6---user-role-assignment-in-psc-versus-partner-center"></a>6 - Toewijzing van gebruikersrol in PSC versus Partner Center
 
-Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC) met de Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend veld of overeenkomend Partner Center.  
+Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC) met Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend veld of overeenkomend Partner Center.  
 
 :::image type="content" source="images/pscmigration/roles.png" alt-text="Afbeelding van de veldtoewijzingen tussen de roltoewijzingsweergave Partner Sales Verbinding maken (PSC) en de Partner Center roltoewijzingsweergave." lightbox="images/pscmigration/roles-expanded.png":::
 
@@ -307,7 +307,7 @@ Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC
 
 ### <a name="7---notifications-in-psc-versus-partner-center"></a>7 - Meldingen in PSC versus Partner Center
 
-Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC) met de Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend veld of overeenkomend Partner Center.  
+Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC) met Partner Center schermopname eronder. Overeenkomende getallen geven aan waar u de PSC-gerelateerde functie of het kenmerk kunt vinden in Partner Center. Rode cirkels geven aan dat er geen overeenkomend veld of overeenkomend Partner Center.  
 
 :::image type="content" source="images/pscmigration/notifications.png" alt-text="Afbeelding van de toewijzing tussen de PSC-meldingen (Partner Sales Verbinding maken) en de weergave Partner Center meldingen."  lightbox="images/pscmigration/notifications-expanded.png":::
 
@@ -315,9 +315,9 @@ Vergelijk de overeenkomende, genummerde cirkels in de bovenste schermopname (PSC
 
 In de volgende secties worden veelgestelde vragen over de migratie beantwoord.
 
-### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 - Wat moet ik doen als ik geen toegang heb tot Partner Center?
+### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1: wat moet ik doen als ik geen toegang heb tot Partner Center?
 
-U kunt contact opnemen met uw beheerders die worden vermeld op de pagina Geen toegang om de rollen toegewezen te krijgen. U hebt de [verwijzingsbeheerdersrol](permissions-overview.md#manage-referrals) nodig voor de lees- en schrijfmachtiging in de sectie verwijzingen. Als u alleen zakelijke profielen beheert, hebt u de beheerdersrol bedrijfsprofiel nodig in het partnercentrum.
+U kunt contact opnemen met uw beheerders die worden vermeld op de pagina Geen toegang om de toegewezen rollen op te halen. U hebt de rol [van verwijzingsbeheerder](permissions-overview.md#manage-referrals) nodig voor de lees- en schrijfmachtiging in de sectie verwijzingen. Als u alleen zakelijke profielen beheert, hebt u de beheerdersrol bedrijfsprofiel nodig in Partner Center.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Afbeelding van de ervaring geen toegang in Partner Center.":::
 
@@ -327,47 +327,47 @@ Uw [accountbeheerder](permissions-overview.md#manage-mpn-membership-and-your-com
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3: de knop +nieuwe deal wordt grijs voor ons account. Wat moet ik doen om deals te maken?
 
-Dit gebeurt alleen als er geen oplossingen voor co-verkoop zijn gekoppeld aan de MPN-organisatie die u gebruikt in Partner Center. Neem contact op met uw PDM om de MPN-id van uw oplossingen te corrigeren of maak een ondersteuningsticket met het probleem , 'Knop Nieuwe deal wordt grijs gemaakt na PSC-migratie'.
+Dit gebeurt alleen als er geen oplossingen voor co-verkoop zijn gekoppeld aan de MPN-organisatie die u gebruikt in Partner Center. Neem contact op met uw PDM om de MPN-id van uw oplossingen te corrigeren of maak een ondersteuningsticket met de melding dat het probleem wordt vermeld: 'Knop Nieuwe deal wordt grijs getrokken na PSC-migratie'.
 
-### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 - Kan ik deals toewijzen aan een specifieke persoon van onze organisatie, zoals PSC?
+### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 - Kan ik deals toewijzen aan een specifieke persoon uit onze organisatie, zoals PSC?
 
-U kunt teamleden toewijzen aan een specifieke deal. Het blokkeert niet dat andere verwijzingsbeheerders deze deals kunnen bekijken of gebruiken.
+U kunt teamleden toewijzen aan een specifieke deal. Het blokkeert niet dat andere verwijzingsbeheerders deze deals kunnen bekijken of er actie op kunnen onderverded.
 
 ### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5 - Is er een weergave van alle deals die aan mij zijn toegewezen?
 
 U kunt de functie Favorieten gebruiken. Dit is een tabblad op gebruikersniveau. U kunt alle deals die aan u zijn toegewezen markeren als favorieten om snel toegang te krijgen tot de deals.
 
-### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6 - Is er een alleen-lezen weergave voor de deals?
+### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6 - Is er een alleen-lezenweergave voor de deals?
 
-Nee, er is geen alleen-lezen weergave van de deals in de sectie verwijzingen. Alle verwijzingsbeheerders hebben volledige lees- en schrijftoegang tot alle deals.
+Nee, er is geen alleen-lezenweergave van de deals in de sectie verwijzingen. Alle verwijzingsbeheerders hebben volledige lees- en schrijftoegang tot alle deals.
 
-### <a name="7---how-can-i-register-a-deal-after-marking-it-as-won"></a>7 - Hoe kan ik een deal registreren nadat deze is markeert als gewonnen?
+### <a name="7---how-can-i-register-a-deal-after-marking-it-as-won"></a>7 - Hoe kan ik een deal registreren nadat ik deze als gewonnen heb markeert?
 
 Als de deal voldoet aan de onderstaande criteria, wordt een pop-up weergegeven om dealregistratie [te starten.](./register-deals.md)
 
-- Er is een oplossing die in aanmerking komt voor een incentive, gekoppeld aan de deal.
-- Microsoft-verkopers worden uitgenodigd om deel te nemen aan de deal of ze hebben u uitgenodigd voor de deal.
+- Er is een oplossing gekoppeld aan de deal die in aanmerking komt voor een incentive.
+- Microsoft-verkoper wordt uitgenodigd om deel te nemen aan de deal of ze hebben u uitgenodigd voor de deal.
 - Microsoft-kaart heeft de status Geaccepteerd of Gewonnen in Partner Center.
 
-### <a name="8---i-get-an-error-message-when-i-select-the-new-deal-registration-button-in-the-deal-registration-section-how-can-i-register-my-deals"></a>8: er wordt een foutbericht weergegeven wanneer ik de knop +Nieuwe dealregistratie selecteer in de sectie Dealregistratie. Hoe kan ik mijn deals registreren?
+### <a name="8---i-get-an-error-message-when-i-select-the-new-deal-registration-button-in-the-deal-registration-section-how-can-i-register-my-deals"></a>8 - Er wordt een foutbericht weergegeven wanneer ik de knop +Nieuwe dealregistratie selecteer in de sectie Dealregistratie. Hoe kan ik mijn deals registreren?
 
-De **knop +Nieuwe dealregistratie** wordt alleen gebruikt door de partners die zijn geregistreerd in het ISV Connect-programma voor het registreren van een deal zonder bijbehorende verkoopkans in Partner Center. Voor het registreren van deals met een verkoopkans wordt een pop-up weergegeven wanneer de deal is gemarkeerd als gewonnen en als deze voldoet aan de criteria voor dealregistratie.
+De **knop +Nieuwe dealregistratie** moet alleen worden gebruikt door de partners die zijn geregistreerd in het ISV Connect-programma voor het registreren van een deal zonder bijbehorende verkoopkans in Partner Center. Voor het registreren van deals met een verkoopkans wordt een pop-up weergegeven wanneer de deal is gemarkeerd als gewonnen en als deze voldoet aan de criteria voor dealregistratie.
 
 ### <a name="9---is-adding-a-customer-organization-mandatory"></a>9 - Is het toevoegen van een klantorganisatie verplicht?
 
-Ja, het toevoegen van [een klantorganisatie](./manage-co-sell-opportunities.md#select-your-customer) is verplicht in Partner Center. Zoek eerst naar de locatie waar de klant zich bevindt. Op basis van de details die u hebt; U kunt specifiek zijn, zoals de exacte naam van het gebouw of alleen de plaatsdetails opgeven. De organisatiezoekactie haalt alle juridische entiteiten op die overeenkomen met de naam die u hebt invoeren, zodat u geen adresgegevens hoeft in te voeren. Alle gegevens worden automatisch ingevuld op basis van de geselecteerde organisatie.
+Ja, het toevoegen van [een klantorganisatie](./manage-co-sell-opportunities.md#select-your-customer) is verplicht in Partner Center. Zoek eerst naar de locatie waar de klant zich bevindt. Op basis van de details die u hebt; u kunt specifiek zijn, zoals de exacte naam van het gebouw of alleen de plaatsgegevens opgeven. De organisatiezoekactie haalt alle juridische entiteiten op die overeenkomen met de naam die u hebt invoeren, zodat u geen adresgegevens hoeft in te voeren. Alle gegevens worden automatisch ingevuld op basis van de geselecteerde organisatie.
 
 ### <a name="10---are-customer-contact-details-mandatory"></a>10 - Zijn contactgegevens van klanten verplicht?
 
-Dit is afhankelijk van [het type deal](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) dat u maakt. Als u alleen uw pijplijn deelt en geen hulp nodig hebt van de microsoft-verkooporganisatie, kunt u ervoor kiezen geen contactgegevens van klanten op te geven. Als u een co-verkoop waarbij u actief hulp nodig hebt van De verkoper van Microsoft, moet u de contactgegevens van de klant verstrekken. U moet expliciete toestemming van de klant krijgen voordat u een aanvraag voor co-verkoop maakt in het partnercentrum.
+Dit is afhankelijk van [het type deal dat](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) u maakt. Als u alleen uw pijplijn deelt en geen hulp nodig hebt van de verkooporganisatie van Microsoft, kunt u ervoor kiezen geen contactgegevens van klanten op te geven. Als u meeverkoopt waarbij u actief hulp nodig hebt van De verkoper van Microsoft, moet u de contactgegevens van de klant verstrekken. U moet expliciete toestemming van de klant krijgen voordat u een aanvraag voor co-verkoop maakt in Partner Center.
 
 ### <a name="11---how-many-solutions-can-i-add-to-a-deal"></a>11 - Hoeveel oplossingen kan ik toevoegen aan een deal?
 
-U kunt maximaal 50 oplossingen (vergelijkbaar met 'producten' in PSC) toevoegen aan een deal. In tegenstelling tot PSC kunt u oplossingen combineren van uw eigen oplossingen die in aanmerking komen voor co-verkoop, SKU's van Microsoft en andere oplossingen die in aanmerking komen voor co-verkoop van derden. Er is geen dealrol die moet worden geselecteerd of beschikbaar is in het partnercentrum. Voor Microsoft-SKU's kunt u eventueel hoeveelheid en prijs toevoegen voor elke SKU die aan de deal wordt toegevoegd.
+U kunt maximaal 50 oplossingen (vergelijkbaar met 'producten' in PSC) toevoegen aan een deal. In tegenstelling tot PSC kunt u oplossingen combineren van uw eigen oplossingen die in aanmerking komen voor co-verkoop, microsoft-SKU's en andere oplossingen die in aanmerking komen voor co-verkoop. Er is geen deal-rol die moet worden geselecteerd of beschikbaar is in Partner Center. Voor Microsoft-SKU's kunt u eventueel hoeveelheid en prijs toevoegen voor elke SKU die aan de deal wordt toegevoegd.
 
-### <a name="12---when-will-i-get-to-know-the-microsoft-seller-details-after-creating-a-deal"></a>12 - Wanneer krijg ik informatie over de Microsoft-verkopergegevens nadat ik een deal heb gemaakt?
+### <a name="12---when-will-i-get-to-know-the-microsoft-seller-details-after-creating-a-deal"></a>12 - Wanneer krijg ik de details van de Microsoft-verkoper te weten nadat ik een deal heb gemaakt?
 
-Microsoft-verkopers worden pas toegewezen nadat ze voldoen aan de exacte helpvereiste die is vermeld tijdens het maken van de deal met de relevante verkoper-persona aan de zijde van Microsoft. Zelfs na de toewijzing hebben Microsoft-verkopers de mogelijkheid om de uitnodiging voor co-verkoop te accepteren of af te wijzen. Alleen als een uitnodiging voor co-verkoop wordt geaccepteerd door een verkoper, wordt de deal bijgewerkt met de contactgegevens van de Microsoft-verkoper. De SLA voor Microsoft-verkopers om actie te ondernemen op de deal is 14 dagen. Het is dezelfde SLA die partners hebben om actie te ondernemen op de deal voordat deze de status Verlopen heeft.
+Microsoft-verkopers worden pas toegewezen nadat ze voldoen aan de exacte helpvereiste die is opgegeven tijdens het maken van de deal met de relevante verkoper-persona aan de zijde van Microsoft. Zelfs na de toewijzing hebben Microsoft-verkopers de mogelijkheid om de uitnodiging voor co-verkoop te accepteren of af te wijzen. Alleen als een uitnodiging voor co-verkoop wordt geaccepteerd door een verkoper, wordt de deal bijgewerkt met de contactgegevens van de Verkoper van Microsoft. De SLA voor Microsoft-verkopers om actie te ondernemen op de deal is 14 dagen. Het is dezelfde SLA die partners op de deal moeten ondernemen voordat ze de status Verlopen krijgen.
 
 ### <a name="13---where-can-i-find-the-opportunity-id"></a>13 - Waar vind ik de id van de kans?
 
@@ -375,15 +375,15 @@ De kans-id in PSC is hetzelfde als de deal-id in Partner Center. U vindt de deal
 
 ### <a name="14---how-can-my-pdm-get-access-to-partner-center"></a>14 - Hoe kan mijn PDM toegang krijgen tot Partner Center?
 
-Partner Center zijn niet rechtstreeks toegankelijk voor uw PDA's, in tegenstelling tot PSC. Er zijn meerdere opties voor het inschakelen van die mogelijkheid, die hieronder worden vermeld.
+Partner Center zijn niet rechtstreeks toegankelijk voor uw PDM's, in tegenstelling tot PSC. Er zijn meerdere opties voor het inschakelen van die mogelijkheid, die hieronder worden vermeld.
 
-- OCP Insights: als PDM's alleen de deals en de bijbehorende voortgang bekijken, kunnen ze de OCP-portal (One Commercial Partner) Insights gebruiken om de weergave van uw organisatie op te halen. Dit is een intern hulpprogramma en alleen beschikbaar voor PDM's. OCP-inzichten zijn niet beschikbaar voor gebruikers van uw bedrijf.
-- Gastgebruiker in Partner Center: u kunt uw PDM-account toevoegen als gastgebruiker in het partnercentrum en de rol van verwijzingsbeheerder aan hen toewijzen, zodat ze verwijzingen kunnen bekijken en erop kunnen @microsoft.com reageren.
-- Een [nieuwe](./create-user-accounts-and-set-permissions.md#add-a-new-user) gebruiker maken in uw tenant: u kunt een nieuwe gebruiker maken in uw eigen tenant en deze gegevens delen met de PDM, zodat ze verwijzingen kunnen bekijken en erop kunnen reageren die vergelijkbaar zijn met andere verwijzingsgebruikers in uw account.
+- OCP Insights: als PDM's alleen de deals en de bijbehorende voortgang bekijken, kunnen ze de OCP-portal (One Commercial Partner) Insights gebruiken om de weergave van uw organisatie te krijgen. Dit is een intern hulpprogramma en alleen beschikbaar voor PDM's. OCP-inzichten zijn niet beschikbaar voor de gebruikers van uw bedrijf.
+- Gastgebruiker in Partner Center: u kunt uw PDM-account toevoegen als gastgebruiker in Partner Center en de rol van verwijzingsbeheerder aan hen toewijzen, zodat ze verwijzingen kunnen bekijken en erop kunnen @microsoft.com reageren.
+- Een nieuwe gebruiker maken [in](./create-user-accounts-and-set-permissions.md#add-a-new-user) uw tenant: u kunt een nieuwe gebruiker maken in uw eigen tenant en deze gegevens delen met de PDM, zodat ze verwijzingen kunnen bekijken en erop kunnen reageren die vergelijkbaar zijn met andere verwijzingsgebruikers in uw account.
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>De juiste MPN-id zoeken als uw account in PSC niet is gekoppeld aan een geldige MPN
 
-Als u hier bent omdat u een banner in PSC hebt gezien met de melding 'PSC invalid MPN ID association problem', bent u op de juiste plaats. Uw account is mogelijk om de volgende redenen gekoppeld aan een ongeldige MPN-id
+Als u hier bent omdat u een banner in PSC hebt gezien waarin het probleem met de PSC ongeldige MPN-id wordt vermeld, bent u op de juiste plaats. Uw account is mogelijk om de volgende redenen gekoppeld aan een ongeldige MPN-id
 
 - Uw bedrijf heeft geen Partner Center account.
 - Uw PDM heeft een fout gemaakt tijdens het invoeren van de MPN-id van uw account in de interne systemen die uw PSC-account koppelen aan uw Partner Center-account (MPN-id).
@@ -400,16 +400,16 @@ Hieronder ziet u een schermopname met de exacte locatie waar u uw MPN Partner Ce
 
 Volgende,
 
-- Als u een PDM hebt, vraagt u deze om uw MPN-id te corrigeren met de juiste MPN-id van uw partnercentrumaccount.
-- Als u geen PDM hebt, stuurt u een e-mail naar het adres in de PSC-banner met zowel de PSC-accountgegevens die worden weergegeven in de PSC-banner als de juiste MPN-id van uw partnercentrumaccount.
+- Als u een PDM hebt, vraagt u deze om uw MPN-id te corrigeren met de juiste MPN-id van uw Partner Center account.
+- Als u geen PDM hebt, stuurt u een e-mail naar het adres in de PSC-banner met zowel de PSC-accountgegevens die worden weergegeven in de PSC-banner als de juiste MPN-id van uw Partner Center-account.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Resources om u te helpen bij het maken en beheren van uw deals in Partner Center
 
-Als u de Help-onderwerpen over co-sell nog niet hebt gelezen, helpen de volgende bronnen u bij het beheren van deals in het partnercentrum.
+Als u de Help-onderwerpen over co-verkoop nog niet hebt gelezen, helpen de volgende bronnen u bij het beheren van deals in Partner Center.
 
 |**Om dit te doen**   |**Leest u**   |
 |-----------------------|:-----------------------|
-|Informatie over de tabbladen en navigatie op de pagina Met kansen voor co-verkoop|[Navigeren door de sectie voor co-verkoop](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|Informatie over de tabbladen en navigatie op de pagina met verkoopkansen|[Navigeren door de sectie Voor co-verkoop](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
 |Een klantorganisatie selecteren in de D&B-lijst |[Uw klant selecteren](./manage-co-sell-opportunities.md#select-your-customer)|
 |De velden in de sectie dealdetails wijzigen|[Details van deal](./manage-co-sell-opportunities.md#deal-details)|
 |Uw teamleden toevoegen aan een dealteam|[Uw werknemers toevoegen](./manage-co-sell-opportunities.md#add-team-members)|
@@ -417,12 +417,12 @@ Als u de Help-onderwerpen over co-sell nog niet hebt gelezen, helpen de volgende
 |Registreer deals die u hebt gewonnen in Partner Center |[Een nieuwe deal registreren](./register-deals.md)
 |Verwijzingsinzichten verkrijgen en ontdekken hoe uw verwijzingen het doen |[Verwijzingsinzichten](./referral-insights.md)
 |Bedrijfsprofiel maken en beheren|[Bedrijfsprofielen beheren](./create-a-marketing-profile.md)
-|Leads beheren voor uw bedrijfsprofiel |[Leads beheren](./manage-leads.md)|
+|Leads voor uw bedrijfsprofiel beheren |[Leads beheren](./manage-leads.md)|
 
 ## <a name="next-steps"></a>Volgende stappen
 
 
 - [Partner sales Verbinding maken to Partner Center workbook - workbook](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) to align partners's sales processes and roles with new sales processes via Partner Center vs. Partner Sales Verbinding maken.
-- [Partner Center handleiding voor co-verkoop:](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) richtlijnen voor het identificeren van een operationeel model via Partner Center voor het beheren van leads of kansen voor co-verkoop en het registreren van deals.
-- [De handleiding voor](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx) verwijzingsbeheer: stapsgewijs gevisualiseerde instructies voor het beheren van leads en kansen voor co-verkoop via Partner Center.
+- [Partner Center handleiding voor co-verkoop:](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) richtlijnen voor het identificeren van een operationeel model via Partner Center om leads of kansen voor co-verkoop te beheren en deals te registreren.
+- [Verwijzingsbeheer:](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx) stapsgewijs gevisualiseerde instructies voor het beheren van leads en kansen voor co-verkoop via Partner Center.
 - [Publiceren en beheren in](https://partner.microsoft.com/resources/detail/publishing-and-managing-co-sell-offers-in-commercial-marketplace-pptx) de commerciële marketplace: stapsgewijs gevisualiseerde instructies voor het maken, beheren en publiceren van aanbiedingen via Partner Center in de commerciële marketplace.

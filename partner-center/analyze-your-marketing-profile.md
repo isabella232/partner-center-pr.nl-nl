@@ -9,12 +9,12 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 55e502895b63e1c1a7e41f3d316355bedd7f7001
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 775516e5aa9c082dd20f3aa77b078e560885648d7feb6c51295299a0c2d634cb
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839104"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684916"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Uw leads analyseren: bekijk hoe goed u doelklanten en mogelijke verwijzingen aantrekt (Engelstalig)
 <!-- 
@@ -25,7 +25,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 Op **de** pagina Leads onder **de sectie** Analyse in Verwijzingen kunt u zien hoe uw verwijzingen presteren. Bekijk deze metrische gegevens regelmatig om trends of gebieden te identificeren die aandacht nodig hebben, en ga aan de slag met uw bedrijfsdoelen.
 
-Als u de inzichten van leads wilt bekijken, gaat u in Partner Center menu naar **Verwijzingen > Uw leads > analyseren.**
+Als u de inzichten van uw leads wilt bekijken, gaat Partner Center het menu naar **Verwijzingen > Uw leads > analyseren.**
 
 ## <a name="apply-filters"></a>Filters toepassen
 
@@ -39,7 +39,7 @@ U kunt op de knop Filters klikken om het deelvenster te openen waarmee u alle ge
 - **Status:** de standaardwaarde is **Alle,** maar u kunt ervoor kiezen om de gegevens te beperken tot verwijzingen die een of meer verwijzingsstatustypen bevatten, zoals geaccepteerd, geweigerd, verlopen, verloren en gewonnen die u selecteert.
 - **Kwalificatietype:** de standaardwaarde is **Alle,** maar u kunt ervoor kiezen om de gegevens te beperken tot verwijzingen die marketplace-leads of gekwalificeerde leads zijn.
 
-De informatie in alle onderstaande grafieken geeft het datumbereik en eventuele filters weer die u hebt geselecteerd, behalve zoals hieronder wordt vermeld. In sommige secties kunt u ook extra filters toepassen, zoals filteren op een specifieke oplossing.
+De informatie in alle onderstaande grafieken geeft het datumbereik en eventuele filters weer die u hebt geselecteerd, behalve zoals hieronder wordt vermeld. In sommige secties kunt u ook aanvullende filters toepassen, zoals filteren op een specifieke oplossing.
 
 ## <a name="referrals-summary"></a>Samenvatting van verwijzingen
 
@@ -47,13 +47,13 @@ Deze kaart toont een overzicht van hoe uw leads presteren.
 
 In de grafiek ziet u het totale aantal paginabezoeken, het aantal aanroep-naar-actie-klikken (contactpartner), het aantal leads dat is gegenereerd nadat de klanten op de aanroepactie hebben geklikt en het totale aantal leads dat is gewonnen voor de geselecteerde periode.
 
-De metrische gegevens voor het wijzigen van percentages (rood of groen, met een pijlindicator) geven het verschil aan tussen de laatste volledige maand **in** het geselecteerde datumbereik en de eerste volledige maand **in dat bereik.** Stel dat de huidige datum 15 juni is en u het filter **3 miljoen** hebt geselecteerd om gegevens voor de afgelopen drie maanden weer te geven. In dit geval laten deze metrische gegevens het verschil zien tussen mei (de laatste volledige maand in de geselecteerde periode) en maart (de eerste volledige maand in de geselecteerde periode) het geselecteerde datumbereik de laatste **3 miljoen,** de vergelijking tussen de gegevens voor mei en de gegevens voor maart.
+De metrische gegevens voor het wijzigen van percentages (rood of groen, met een pijlindicator) geven het verschil aan tussen de laatste volledige maand **in** het geselecteerde datumbereik en de eerste volledige maand **in dat bereik.** Stel dat de huidige datum 15 juni is en u het filter **3 miljoen** hebt geselecteerd om gegevens voor de afgelopen drie maanden weer te geven. In dit geval zou deze metrische gegevens het verschil laten zien tussen mei (de laatste volledige maand in de geselecteerde periode) en maart (de eerste volledige maand in de geselecteerde periode) het geselecteerde datumbereik de laatste **3 miljoen** is, de vergelijking tussen de gegevens voor mei en de gegevens voor maart.
 
 :::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Afbeelding van de overzichtskaart van leads-analyses.":::
 
 ## <a name="conversion-funnel"></a>Conversie trechter
 
-In deze sectie ziet u een visuele indicator van hoe uw deals van de ene status naar de andere gaan tijdens hun levenscyclus. U kunt de volledige levenscyclus bekijken op basis van het dealvolume, evenals de dealwaarde in USD op basis van de hoofd pivot voor deze sectie. De eerste sectie is gelabeld met het type deal om u een visuele indicator van het volume of de waarde per type te geven. Er is ook een sectie, **Leads** uit het verleden, die wordt gebruikt om de deals aan te geven waarvoor u actie hebt ondernomen om ze te accepteren/te accepteren of te markeren als gewonnen/verloren in de periode die voor het rapport is geselecteerd. U kunt filters toepassen om de voortgang van de deals in verschillende fasen in hun levenscyclus weer te geven.
+In deze sectie ziet u een visuele indicator van hoe uw deals van de ene status naar de andere gaan tijdens hun levenscyclus. U kunt de volledige levenscyclus bekijken op basis van het dealvolume, evenals de dealwaarde in USD op basis van het hoofd pivot voor deze sectie. De eerste sectie is gelabeld met het type deal om u een visuele indicator van het volume of de waarde per type te geven. Er is ook een sectie, **Leads** uit het verleden, die wordt gebruikt om de deals aan te geven waarvoor u actie hebt ondernomen om ze te accepteren/te accepteren of te markeren als gewonnen/verloren in de periode die voor het rapport is geselecteerd. U kunt filters toepassen om de voortgang van de deals in verschillende fasen in hun levenscyclus weer te geven.
 
 :::image type="content" source="images/referrals/leadsanalyticsfunnel.png" alt-text="Afbeelding van de conversie-trechter voor verwijzingen.":::
 
@@ -91,7 +91,7 @@ Wanneer kwalificatietype is geselecteerd, hebt u de mogelijkheid om de prestatie
 
 ## <a name="raw-data-table"></a>Tabel met onbewerkte gegevens
 
-De onderstaande tabel met alle onbewerkte gegevens  met betrekking tot de leads helpt u snel de gegevens te exporteren voor elke gedetailleerde of aangepaste analyse die u wilt uitvoeren.
+De onderstaande tabel met alle onbewerkte gegevens  met betrekking tot de leads helpt u snel de gegevens te exporteren voor een gedetailleerde of aangepaste analyse die u wilt uitvoeren.
 
 :::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="Afbeelding van de tabel met onbewerkte gegevens voor leads.":::
 

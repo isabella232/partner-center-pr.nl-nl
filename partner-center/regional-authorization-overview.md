@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33b60bd301a1493e7e722e26b3ff16128f4e9888
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 487bfb1356d378d1fcbd262dd00ee311e33870712ddb595c8da431f80ab02b1b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100443"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691868"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programma regionale markten en valuta's waar u CSP-aanbiedingen kunt verkopen
 
@@ -92,7 +92,7 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 | Sierra Leone             |   USD    |
 | Somalië                  |   USD    |
 | Zuid-Soedan              |   USD    |
-| St Helena, Zetten, Tristan da Cunha|    USD   |
+| St Helena, Ascension, Tristan da Cunha|    USD   |
 | Tanzania                 |   USD    |
 | Togo                     |   USD    |
 | Oeganda                   |   USD    |
@@ -183,7 +183,7 @@ Als de locatie van uw bedrijf China is, kunt u CSP-aanbiedingen verkopen aan kla
 |  -------------- |:--------:|
 |  China        |   Cny    |
 
-## <a name="europe-region-and-market"></a>Regio en markt europa
+## <a name="europe-region-and-market"></a>Regio en markt Europa
 
 Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
@@ -256,14 +256,14 @@ Als de locatie van uw bedrijf Japan is, kunt u CSP-aanbiedingen verkopen aan kla
 
 ## <a name="korea-republic-of-region-and-market"></a>Korea, Republiek regio en markt
 
-Als de locatie van uw bedrijf Korea, Republiek is, kunt u CSP-aanbiedingen verkopen aan klanten in Korea, Republiek.
+Als de locatie van uw bedrijf Korea is, kunt u CSP-aanbiedingen verkopen aan klanten in Korea, Republiek.
 
 |  Land/regio    | Valuta |
 |  --------------    |:--------:|
 |  Zuid-Korea|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>Latijns-Amerika en de regio En markt van Het
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>Latijns-Amerika en de regio En markt van Den Haag
 
 Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbiedingen verkopen aan klanten op alle locaties in de lijst.
 
@@ -351,7 +351,7 @@ Als de locatie van uw bedrijf in de onderstaande lijst staat, kunt u CSP-aanbied
 |  Libanon        |   USD    |
 |  Lesotho        |   USD    |
 |  Libië          |   USD    |
-|  Noord-Frankrijk|   |
+|  Noord-Korea|   |
 |  Mauritanië     |   USD    |
 |  Moldavië        |   USD    |
 |  Mongolië       |   USD    |

@@ -9,18 +9,18 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 180756cb5c658b5ed16119e03bfe9e1271b68599
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d82ea8da99dee232c40c2006d2b78a2baf10d1d34fd6bb1cdf7dccd949f397a7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840345"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692588"
 ---
-# <a name="earn-cooperative-marketing-funds"></a>Samenwerkende marketingmiddelen verdienen
+# <a name="earn-cooperative-marketing-funds"></a>Gezamenlijk marketingbudget verdienen
 
 **Juiste rollen:** Incentives-| Incentives-gebruiker
 
-Samenwerkende marketing-middelen (co-op) zijn geld dat u verdient via Microsoft Incentive Programs door te claimen dat u bent geclaimd voor activiteiten die ondersteuning bieden voor Microsoft-productbewustheid. Voorbeelden van incentives-programma's zijn Cloud Solution Provider, beheerde reseller, hosting en Surface.
+Samenwerkende marketing-middelen (co-op) zijn middelen die u verdient via Microsoft Incentive Programs door te claimen dat u bent geclaimd voor activiteiten die ondersteuning bieden voor Microsoft-productbewustheid. Voorbeelden van incentives-programma's zijn Cloud Solution Provider, beheerde reseller, hosting en Surface.
 
 Met co-op-geld kunt u marketingactiviteiten uitvoeren die de merkbewustheid vergroten en de groei van verkooppijplijnen stimuleren. U kunt co-op-middelen investeren in activiteiten om gereedheid te vergemakkelijken, specialisaties te ontwikkelen of Microsoft-certificeringen te bereiken: activiteiten die gerichte oplossingsprocedures en Centers of Excellence bevorderen.
 
@@ -49,7 +49,7 @@ De periode van zes maanden waarin u uw inkomsten optelt, wordt uw **inkomstenper
 
 In de onderstaande tabel ziet u de verschillende perioden voor inkomsten, gebruik en claimen. Tenzij anders vermeld, worden perioden uitgebreid van de eerste dag van de eerste maand tot de laatste dag van de afgelopen maand.
 
-|  Als uw inkomsten-/accrual-periode is  |Uw fiscale periode voor het half jaar is  |  Uw gebruiksperiode is  |  Uw claimperiode is  |
+|  Als uw inkomsten/accrual-periode is  |Uw fiscale periode voor het half jaar is  |  Uw gebruiksperiode is  |  Uw claimperiode is  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 |**Juli - dec. 2020**| FY21 H1  |  Jan - juni 2021  |  16 februari - 15 aug 2021  |
 |**Jan - juni 2021** |  FY21 H2  |  Juli - dec. 2021  |  16 augustus 2021 - 15 februari 2022  |
@@ -65,7 +65,7 @@ De volgende bronnen helpen u aan de slag te gaan met claims voor samenwerking.
 | ------ | ----------- |
 | Een claim indienen |  [Een co-opclaim voor een incentives-programma maken en beheren](create-incentives-claims.md)  |
 | Een ingediende claim beheren | [Een co-opclaim voor een incentives-programma maken en beheren](create-incentives-claims.md)    |
-| De belangrijkste vereisten voor de activiteitsclaim begrijpen | [Belangrijkste vereisten voor de activiteiten in uw incentive-programma](core-requirements.md)   |
+| De belangrijkste vereisten voor de activiteitsclaim begrijpen | [Kernvereisten voor de activiteiten in uw incentive-programma](core-requirements.md)   |
 | De details van uw incentives-programma controleren | [Handleiding voor co-ops van incentives van partners](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
 | Een klantbinding maken en een claim indienen | [Een klantbinding maken met behulp van het CPOR-model](submit-osa-claim.md)   |
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 13d60cddf2699ffa76c432adcba3c06387a37203
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 8587827315777a2ae5d91a259b4e2557c206a80e463ab29ed8f37f974ad364f3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100091"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684643"
 ---
 # <a name="march-2020-announcements"></a>Aankondigingen van maart 2020
 
@@ -24,7 +24,7 @@ Aankondigingen van [2020: januari 2020](2020-january.md)  |  [februari 2020](202
 
 _________________
 
-## <a name="microsoft-will-rename-office-365-small-and-medium-business-smb-offers-from-april-21-2020"></a><a id="7"/></a>Microsoft wijzigt de Office 365 SMB-aanbiedingen (Small and Medium Business) vanaf 21 april 2020
+## <a name="microsoft-will-rename-office-365-small-and-medium-business-smb-offers-from-april-21-2020"></a><a id="7"/></a>Microsoft hernoemt Office 365 SMB-aanbiedingen (Small and Medium Business) vanaf 21 april 2020
 
 ### <a name="categories"></a>Categorieën
 
@@ -59,9 +59,9 @@ Er zijn geen wijzigingen in prijzen, functies of bedrijfsmodellen. Er zijn ook g
 
 ### <a name="partner-opportunity"></a>Partnerkans
 
-Met deze naamswijziging kunnen klanten meer inzicht krijgen in de incrementele waarde die in elke aanbieding is opgenomen, zodat u upsell-verkoopkansen voor uw accounts beter kunt positioneren.
+Door deze naamswijziging kunnen klanten beter inzicht krijgen in de incrementele waarde die in elke aanbieding is opgenomen, zodat u de verkoopkansen voor uw accounts beter kunt positioneren.
 
-Er worden ook naamconsistenties in de Office 365/Microsoft 365 Business-plannen. Op dezelfde manier scheidt deze naamswijziging kerntoepassingen Office, die via de nieuwe Microsoft 365-apps voor bedrijven/enterprise worden verkocht, duidelijk van bredere abonnementen.
+Er worden ook naamconsistenties in de Office 365/Microsoft 365 bedrijfsplannen. Op dezelfde manier scheidt deze naamswijziging kerntoepassingen Office, die via de nieuwe Microsoft 365-apps voor bedrijven/enterprise worden verkocht, duidelijk van bredere abonnementen.
 
 ### <a name="additional-resources"></a>Aanvullende bronnen
 
@@ -98,9 +98,9 @@ Directe factuurpartners die overstappen op indirecte resellers en indirecte prov
 
 ### <a name="details"></a>Details
 
-Vanaf 31 augustus 2018 heeft Microsoft de inschrijvingsvereisten bijgewerkt voor partners met directe factuur in het programma Cloud Solution Provider (CSP). Naarmate het CSP-programma blijft groeien, willen we ervoor zorgen dat alle partners in staat zijn om de toenemende vraag van klanten dienovereenkomstig aan te pakken.
+Vanaf 31 augustus 2018 heeft Microsoft de inschrijvingsvereisten voor partners met directe factuur bijgewerkt in het programma Cloud Solution Provider (CSP). Naarmate het CSP-programma blijft groeien, willen we ervoor zorgen dat alle partners in staat zijn om de toenemende vraag van klanten dienovereenkomstig aan te pakken.
 
-Nieuwe mogelijkheden voor het overdragen van CSP-abonnementen van klanten van tenants met directe factuur naar tenants van indirecte provider zijn beschikbaar. Deze nieuwe functionaliteit vergemakkelijkt de overgang voor partners voor directe factuur naar indirecte resellers, waardoor de bedrijfsgroei binnen het programma wordt versneld.
+Er zijn nieuwe mogelijkheden beschikbaar om CSP-abonnementen van klanten over te dragen van tenants met directe factuur naar tenants van indirecte provider. Deze nieuwe functionaliteit vergemakkelijkt de overgang voor partners voor directe factuur naar indirecte resellers, waardoor de bedrijfsgroei binnen het programma wordt versneld.
 
 Bekijk de [pagina met CSP-aanbiedingen](../csp-offers.md) voor meer informatie.
 
@@ -160,8 +160,8 @@ Deze wijzigingen bieden een betere waarde voor Eerstelijnsmedewerkers en bieden 
 
 ### <a name="office"></a>Office:
 
-- Microsoft Teams bevat nu volledige A/V- en vergaderrechten in F-SKU's (te zien in de productvoorwaarden van maart)
-- Power Platform wordt verhoogd tot 2000 stappen en de mogelijkheid om te maken: alleen beschikbaar in M/O365 F3
+- Microsoft Teams bevat nu volledige A/V- en vergaderrechten in F-SKU's (zoals wordt weergegeven in de productvoorwaarden in maart)
+- Power Platform tot 2000 stappen en de mogelijkheid om te maken: alleen beschikbaar in M/O365 F3
 - Microsoft Planner wordt standaard opgenomen in O/M365 F-SKU's
 
 ### <a name="windows"></a>Windows:
@@ -205,7 +205,7 @@ Directe factuur en indirecte provider CSP-partners die onderwijs-/academische aa
 
 Kennisgeving voor nieuwe functionaliteit: Partners kunnen nu klantaccountgegevens corrigeren en opnieuw een doorlichtingsbericht maken voor gevallen waarin de klant is geweigerd. Bekijk de stapsgewijze instructies over hoe dit werkt in de bijgewerkte [handleiding Een onderwijsklant maken in Partnercentrum](https://assetsprod.microsoft.com/mpn/partner-center-education-customer-creation.pdf) voor de volledige details.
 
-Als onderdeel van onze voortdurende inzet voor compatibele zakelijke procedures voor klanten en partners, heeft Microsoft een geautomatiseerde validatie geïntroduceerd van alle nieuwe inzendingen van klantenaccounts voor Education om te controleren of klanten in aanmerking komen. Sinds we de mogelijkheid voor automatische validatie hebben gestart, hebben we een toenemend aantal controleproblemen opgemerkt omdat onjuiste of ongeldige klantgegevens zijn ingevoerd. Volg de onderstaande instructies om het proces te stroomlijnen en eventuele vertragingen in het doorlichtingsproces te minimaliseren:
+Als onderdeel van onze voortdurende inzet voor compatibele zakelijke procedures voor klanten en partners, heeft Microsoft een geautomatiseerde validatie geïntroduceerd van alle nieuwe klantenaccounts van Education om te controleren of klanten in aanmerking komen. Sinds we de mogelijkheid voor automatische validatie hebben gestart, hebben we een toenemend aantal controleproblemen opgemerkt omdat onjuiste of ongeldige klantgegevens zijn ingevoerd. Volg de onderstaande instructies om het proces te stroomlijnen en eventuele vertragingen in het doorlichtingsproces te minimaliseren:
 
 - Zorg ervoor dat u de klantgegevens zo **nauwkeurig** en **compleet** mogelijk invoert, om eventuele vertragingen in het onderzoek vanwege controlefouten voor geldige vermeldingen, terug te dringen. Voer geen test-/dummygegevens in.
 - Bekijk de **handleiding Een education-klant maken in Partner Center** en de pagina Nieuwe klant toevoegen om te documenteren wat er nodig is bij het maken van een nieuwe education-klant in Partner Center.  Beide vindt u in de onderstaande resourcegalerie.
@@ -220,9 +220,9 @@ Verzameling van de resourcegalerie van het CSP-programma wordt bijgewerkt: [Wijz
 ### <a name="change-log"></a>Wijzigingslogboek:
 
 - Oorspronkelijke publicatiedatum: 19 december 2019
-- Contact opnemen met ondersteuning als nieuwe partner die onderwijsaanbiedingen verkoopt, wordt verwijderd (niet langer vereist): 13 januari 2020
+- Contact opnemen met de ondersteuning als nieuwe partner die onderwijsaanbiedingen verkoopt, wordt verwijderd (niet langer vereist): 13 januari 2020
 - Update van februari 2020 toegevoegd: 10 februari 2020
-- Kennisgeving van de nieuwe mogelijkheid om klantaccountgegevens te corrigeren en opnieuw in te delen voor doorlichting: 10 maart 2020
+- Kennisgeving van nieuwe mogelijkheid om klantaccountgegevens te corrigeren en opnieuw in te delen voor doorlichting: 10 maart 2020
 
 _________________
 
@@ -325,12 +325,12 @@ Bekijk hier de specifieke wijzigingen in het bestand met de naam 'Dynamics CSP O
 ### <a name="next-steps"></a>Volgende stappen
 
 - Deel deze informatie met de juiste contactpersonen in uw organisatie.<br>
-- Als u meer informatie wilt over de licentie-updates en de waardepropositie, moet u zich vertrouwd maken met onze gereedheidsinhoud die wordt vermeld in de Aanvullende **resources** in de vorige sectie en op PartnerSource.<br>
-- Als u ondersteuning nodig hebt met betrekking tot uw activiteiten met Microsoft, neem [dan contact op met Ondersteuning.](https://partner.microsoft.com/pcv/servicerequests/create)
+- Als u meer informatie wilt over de licentie-updates en de waardepropositie, moet u zich vertrouwd maken met onze gereedheidsinhoud die wordt vermeld in de aanvullende **bronnen** in de vorige sectie en op PartnerSource.<br>
+- Als u ondersteuning nodig hebt met betrekking tot uw bewerkingen met Microsoft, neem [dan contact op met Ondersteuning.](https://partner.microsoft.com/pcv/servicerequests/create)
 
 _________________
 
-## <a name="now-available-microsoft-defender-advanced-threat-protection-mdatp-standalone-for-csp"></a><a id="1"/></a>Nu beschikbaar Microsoft Defender Advanced Threat Protection (MDATP) Standalone voor CSP.
+## <a name="now-available-microsoft-defender-advanced-threat-protection-mdatp-standalone-for-csp"></a><a id="1"/></a>Nu beschikbaar Microsoft Defender Advanced Threat Protection zelfstandige versie (MDATP) voor CSP.
 
 ### <a name="categories"></a>Categorieën
 
@@ -349,7 +349,7 @@ Microsoft verwijdert de vereiste Windows E3-licentie uit Microsoft Defender Adva
 
 ### <a name="details"></a>Details
 
-Microsoft verwijdert de vereiste Windows E3-licentie uit Microsoft Defender Advanced Threat Protection (MDATP). CSP-partners kunnen MDATP aanschaffen voor al hun ondersteunde clientapparaten, ongeacht hun eigendom Windows E3-licentie.
+Microsoft verwijdert de vereiste Windows E3-licentie uit Microsoft Defender Advanced Threat Protection (MDATP). CSP-partners kunnen MDATP kopen voor al hun ondersteunde clientapparaten, ongeacht hun eigendom Windows E3-licentie.
 
 Om dit bedrijfsmodel mogelijk te maken, heeft Microsoft een zelfstandige aanbieding voor CSP uitgebracht en is deze nu beschikbaar.
 
@@ -363,7 +363,7 @@ Bovendien is er geen wijziging in bestaande Windows E5-, Microsoft 365 E5 Securi
 ### <a name="next-steps"></a>Volgende stappen
 
 - Deel deze informatie met de juiste contactpersonen in uw organisatie.
-- Voor meer informatie over Microsoft Defender Advanced Threat Protection, leest u: [https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc)
+- Lees voor meer informatie Microsoft Defender Advanced Threat Protection informatie: [https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc)
 
 **Vragen?**
 
@@ -371,7 +371,7 @@ Als u vragen hebt met betrekking tot uw activiteiten met Microsoft, kunt u conta
 
 ### <a name="change-log"></a>Wijzigingslogboek
 
-- Oorspronkelijke publicatiedatum van 6 februari 2020: Communicatie vóór de lancering
-- 2 maart 2020 Bijgewerkte publicatiedatum: GA Starten (Go Live)
+- Oorspronkelijke publicatiedatum 6 februari 2020: Communicatie vooraf
+- Publicatiedatum bijgewerkt op 2 maart 2020: GA Starten (Go Live)
 
 _________________

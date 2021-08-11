@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Meer informatie over het weergeven en exporteren van activiteitenlogboeken om inzicht te krijgen in klantaccounttransacties en andere partnerbeheeractiviteiten met betrekking tot de klant.
+description: Meer informatie over het weergeven en exporteren van activiteitenlogboeken om inzicht te krijgen in klantaccounttransacties en andere partnerbeheeractiviteiten die betrekking hebben op de klant.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e21db0b6d054c62cec0378a3b93201dea072128f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8d8deb72da4bd0bbf3fe9d026a49c9eaf6c438661c237b4075dfc87f531da137
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839512"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685510"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Activiteitenlogboeken van klanten weergeven of exporteren voor meer inzicht in klanttransacties
 
@@ -34,7 +34,7 @@ Activiteitenlogboeken bieden records voor partneracties voor klantaccounts en pr
 
    Elk activiteitenlogboek bevat een koppeling naar de pagina Abonnementen **van de vermelde** klant.
 
-   Selecteer een pijl-omlaag voor een activiteitenlogboek om details over een vastgelegde actie weer te geven. Eén activiteitenlogboek kan een aanzienlijke hoeveelheid gegevens bevatten, zoals het bestellen van meerdere producten.
+   Selecteer een pijl-omlaag voor een activiteitenlogboek om details over een vastgelegde actie weer te geven. Eén activiteitenlogboek kan een aanzienlijke hoeveelheid gegevens bevatten, zoals de volgorde van meerdere producten.
 
 4. De gegevenskolommen van het logboek omvatten het volgende:
    - **Datum/tijd:** de datum en tijd van de actie;

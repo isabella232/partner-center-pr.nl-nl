@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/18/2021
-ms.openlocfilehash: dd9a93421dd3418ba0f60dcd4bb60459aa5dac03
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 0cc5e5fb4fb13ed2e230a67969fd1165f95576d076f06d7a628c2ef814e5cff3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100609"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684779"
 ---
 # <a name="december-2020-announcements"></a>December 2020-aankondigingen
 
@@ -109,7 +109,7 @@ Partner Center prijs- en catalogusupdates die normaal gesproken op de eerste van
 - De prijslijsten op basis van azure-gebruik worden uitgesteld tot het einde van de werkdag 4 januari 2021. De bestanden met prijzen op basis van Azure-gebruik op 1 januari 2021 hebben alleen prijzen tot en met 21 december 2020. Op 4 januari worden de bestanden bijgewerkt.
 - De op licenties gebaseerde prijsbestanden zijn bijgewerkt op 1 januari 2021, maar er is een kleine vertraging tot er nieuwe aanbiedingen beschikbaar zijn in de catalogus voor aankoop. Update van catalogus op basis van licentie is gepland voor 5 januari 2021 17:00 PST. 
 
-U ziet dat alle andere prijslijstbestanden volgens de gebruikelijke planning beschikbaar zijn. De bovenstaande twee leveringen worden echter enigszins vertraagd.
+Alle andere prijslijstbestanden zijn volgens de gebruikelijke planning beschikbaar, maar de bovenstaande twee producten worden enigszins vertraagd.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -152,14 +152,14 @@ De nieuwe Microsoft Edge is onze beste expressie van een moderne browser en we z
 **Gevolgen van de wijziging**
 
 - Vanaf **30 november 2020** kunnen klanten geen verbinding meer maken met de Microsoft Teams-app op Internet Explorer 11. Microsoft denkt dat klanten het meeste uit de Microsoft 365 en de beste expressie van een moderne browser halen wanneer ze de nieuwe [Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- Na 9 maart **2021** blijven apps en sites die zijn gemaakt voor verouderde Microsoft Edge werken in de nieuwe Microsoft Edge, maar als er een compatibiliteitsprobleem zich voordoet, is er de [App Assure-promise](/fasttrack/products-and-capabilities#app-assure) om ondersteuning te bieden.
+- Na 9 maart **2021** blijven apps en sites die zijn gemaakt voor verouderde Microsoft Edge werken in de nieuwe Microsoft Edge, maar als er een compatibiliteitsprobleem ontstaat, is er de [App Assure-promise](/fasttrack/products-and-capabilities#app-assure) om ondersteuning te bieden.
 - Na **17 augustus 2021** hebben klanten een gedegradeerde ervaring of kunnen ze geen verbinding meer maken met Microsoft 365-apps en -services op Internet Explorer 11. Microsoft denkt dat klanten het meeste uit de Microsoft 365 en de beste expressie van een moderne browser halen wanneer ze de nieuwe [Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Volgende stappen
 
 - Lees de blogpost voor meer informatie over de aankondiging.
-- Gebruik deze mogelijkheid om contact op te vragen met uw partners om te helpen bij het implementeren van de nieuwe Microsoft Edge.
-- Aanvullende bronnen en meer informatie: [YouTube- of](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) [Edge-ingebruikname van Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- Gebruik deze mogelijkheid om contact op te vragen met uw partners om de nieuwe Microsoft Edge.
+- Aanvullende resources en meer informatie: [YouTube- of](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) [Edge-ingebruikname van Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
 
 ### <a name="questions"></a>Vragen
 
@@ -305,31 +305,31 @@ De toevoeging van permanente software aan het CSP-programma in de nieuwe commerc
 
 Bekijk de volgende resources en deel deze met de relevante contactpersonen in uw organisatie:
 
-- [CSP-softwareproducten en -geografieën](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) voor permanent gebruik worden toegevoegd op 19 januari 2021
+- [CSP-doorlopende softwareproducten en -geografieën](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) die worden toegevoegd op 19 januari 2021
 
 - Microsoft 365-beheer Overzicht [van center,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [algemene taken](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)en mogelijkheden voor het uitvoeren van [licentiesleutels](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
-- [Uitbreidingsmogelijkheden voor partners in het Cloud Solution Provider-programma](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (aankondiging van partner)
+- [Uitbreiden van mogelijkheden voor partners in het Cloud Solution Provider-programma](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (aankondiging van partner)
 
-- Permanente software in het [gereedheidsmateriaal](https://partner.microsoft.com/resources/collection/software-in-csp#/) Cloud Solution Provider-programma, waaronder een overzichtspresentatie, licentie-richtlijnen, veelgestelde vragen van partners, operationele en technische webinars (SDK/API) en nog veel meer nuttige bronnen. Gebruik deze [gereedheidskaart om](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) snel de juiste informatie voor uw rol te vinden.
+- Permanente software in het [gereedheidsmateriaal](https://partner.microsoft.com/resources/collection/software-in-csp#/) van het Cloud Solution Provider-programma, waaronder een overzichtspresentatie, licentieadviezen, veelgestelde vragen van partners, webinars over operationele en technische (SDK/API) en veel meer nuttige bronnen. Gebruik deze [gereedheidskaart om](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) snel de juiste informatie voor uw rol te vinden.
 
 ### <a name="questions"></a>Vragen?
 
-Raadpleeg uw relevante community's voor meer vragen over Yammer aanbiedingen.
+Als u meer vragen over deze aanbiedingen hebt, controleert u uw relevante Yammer community's.
 
 ### <a name="change-log"></a>Wijzigingslogboek:
 
 - 17 december 2020: Oorspronkelijke publicatie 
 
-- 5 maart 2021: Opmerking bovenaan toegevoegd met betrekking tot het opnieuw Partner Center de uitvoering van software en licentiesleutels.
+- 5 maart 2021: Opmerking bovenaan toegevoegd met betrekking tot het opnieuw Partner Center van de software en de uitvoering van licentiesleutels.
 
 ______________
 
-## <a name="online-services-and-software-channel-authorization-guide"></a><a name="6"></a>Autorisatiehandleiding voor onlineservices en softwarekanaal
+## <a name="online-services-and-software-channel-authorization-guide"></a><a name="6"></a>Handleiding voor onlineservices en softwarekanaalautorisatie
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 2020-12-17
+- Datum: 17-12-2020
 - Functies
  
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
@@ -338,7 +338,7 @@ Directe factuur, indirecte providers en partners met meerdere lagen die deelneme
 
 ### <a name="details"></a>Details
 
-In overeenstemming met uw Microsoft Partner-overeenkomst (zie de sectie Online Services and Software Channel Authorization – Notice of Changes – Changes to the Guides ( OnlineServices en autorisatiehandleiding voor **softwarekanaal –** Kennisgeving van wijzigingen – wijzigingen in de handleidingen) microsoft informeert u dat de onlineservices en autorisatiehandleiding voor softwarekanaal wordt bijgewerkt. 
+In overeenstemming met uw Microsoft Partner-overeenkomst (zie de sectie Online Services and Software Channel Authorization – Notice **of Changes – Changes to the Guides**(OnlineServices en autorisatie van softwarekanaal – kennisgeving van wijzigingen – wijzigingen in de handleidingen) microsoft u niet informeren dat de Online Services and Software Channel Authorization Guide wordt bijgewerkt. 
 
 Een voorbeeld van de bijgewerkte handleiding is [hier beschikbaar,](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)met een rode lijn die aangeeft dat hier [wijzigingen beschikbaar zijn.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf) Deze update wordt 30 dagen na de datum van deze kennisgeving van kracht. Er is op dit moment geen verdere actie van u nodig.
 
@@ -357,7 +357,7 @@ ______________
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die het programma Cloud Solution Provider (CSP)
+Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
 
 ### <a name="details"></a>Details
 
@@ -367,20 +367,20 @@ Power Apps De aanbieding voor de promotie was in eerste instantie gepland voor 1
 
 - De aanbieding is beschikbaar voor aankoop tot en met 30 juni 2021.
 - Aanbieding is een termijn van 12 maanden tegen een gereduceerde prijs, net als andere CSP-aanbiedingen.
-- Deze aanbieding wordt niet automatisch in gebruik en verloopt aan het einde van de periode van 12 maanden. In eerste instantie wordt de eigenschap autorenew ingesteld op **True,** maar dit wordt gewijzigd zodat de aanbieding verloopt aan het einde van de periode van 12 maanden van de aanbieding.
-- Partners moeten de aanbieding zonder aanbieding kopen (aanbiedings-id: 5e1087b6-246b-4503-b88a-b60bdf0b3840) vóór de vervaldatum van 12 maanden als ze de services van de eerste aanbieding willen blijven gebruiken.
+- Deze aanbieding wordt niet automatisch in gebruik nemen en verloopt aan het einde van de periode van 12 maanden. In eerste instantie wordt de eigenschap autorenew ingesteld op **True,** maar dit wordt gewijzigd zodat de aanbieding verloopt aan het einde van de periode van 12 maanden van de aanbieding.
+- Partners moeten de aanbieding zonder promotieprijs kopen (aanbiedings-id: 5e1087b6-246b-4503-b88a-b60bdf0b3840) vóór de vervaldatum van 12 maanden als ze de services van de eerste aanbieding willen blijven gebruiken.
 
 **Prijsdetails**
 
 De prijsgegevens van de aanbieding hieronder voor deze aanbieding staan in de prijslijst van januari 2021.
 
-- Weergavenaam van aanbieding: Power Apps per app-abonnementspromotie (200 seat min. )
+- Weergavenaam van aanbieding: Power Apps per app-planpromotie (200 seat min.)
 - Aanbiedings-id: 988b7b06-e034-4b3e-89ea-51198cb2723e
 - Type licentieovereenkomst: Zakelijk
 - Aankoopeenheid: 1 maand(en)
 - Secundair licentietype: NIET-SPECIFIEK
-- Lijstprijzen: lijstprijzen kunnen worden gedownload vanaf [deze locatie.](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n) Opmerking: u moet zijn aangemeld bij Partner Center om de prijzen te downloaden. Als u niet bent aangemeld bij Partner Center, ontvangt u een **foutbericht over de status** niet-geautoriseerd.
-- ERP-prijs: Nog niet beschikbaar. Zoek de ERP van deze aanbieding in de volgende update van de prijslijst van januari op 1-1-2021
+- Prijzen lijst: lijst prijzen kunnen worden gedownload vanaf [deze locatie.](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n) Opmerking: u moet zijn aangemeld bij Partner Center om de prijzen te downloaden. Als u niet bent aangemeld bij Partner Center, ontvangt u het **foutbericht Status niet** geautoriseerd.
+- ERP-prijs: nog niet beschikbaar. Zoek de ERP van deze aanbieding in de volgende update van de prijslijst van januari op 1-1-2021
 - Materiaal-id: SEQ-00016
  
 **Aanbiedingsdetails**
@@ -393,11 +393,11 @@ De onderstaande aanbiedingsgegevens voor deze aanbieding staan in de aanbiedings
 - Minimum aantal seat: 200
 - Maximum aantal seat: 10000000
 - Aanbiedingslimiet: geen
-- Toegestane landen: Amerikaanse outlyingeilanden, Engels (Franse gebieden in de Zuid-Amerikaanse staten), Bou island, British British British Ocean Territory, Territory, Heard and Mc Wilt Islands, Wallis andPlastuna, Vanuute, Antarctica, Tuvalu,Üt, Tokelau, Sierra Tekelau, Swuteland, St Helena, Tona, Tristan da Cunha, SÂ£o TomÑ© and PrÑncipe, Pitcairn Islands, Pfu, Islands, Naun, Niue, Islands, Mauritans, Northern Mariana Islands , Lesotho, Kirboekenti, Evenaar-Guinee, Guinee-Bissau, Cookeilanden,Aus,Aus, Island, Island Island, Guen, Centraal-Arabische Republiek, Moetemaneilanden, Svalbard en Jan Mayen, Ñ... landeilanden, Zuid-Korea, Zuid-Korea en de Zuid-Sandwicheilanden, Samoa, Saint BarthÑ©ruis, British Amerikaanse Maagdeneilanden, Saint-Pierre en Miquelon, Handtekening, Montserrat, Guyana, Guana, Guinee, Gubon, Gabon, Grenada, Guernheit, Verenigde Staten, Micronesia, Troklandeilanden, Poda, Djibouti,Tr,Tr (DRC), Andreal, American Samoa,Authië, Zuid-Afrika, Mayotte, Vietnam, Saint Als en de Grejenas , Amerikaanse Amerikaanse Amerikaanse Maagdeneilanden, Hadoes, See (Stad van de hoofdstad van Den Staten), Rusland, Uzbekjik, Verenigde Staten, Voorkomen, Wilt, Taiwan,Maak en Tobago, Kunnen, Kunnen, Naarsen, Handtekening, Handtekening-Leste, Handtekening, Tåikking, Togo, El Tego, Handtekening, Turks en Caicoseilanden,Mpel, Singapore, Portugal, SanIpte, Tomen, Italië, Chelchelles, Slowaaks, Slowaaks, Slowaaks, Slowaaks, Verenigde Koninkrijk, Respectievelijk, R©union, , Territory Territory, Occupied, Territory, Guinee,Poel,Poesisch, Guinee, New Polynesia, Nieuw-Zeeland, Oman, Nederland, Nederland, Portugal, Officiële, New Caledonia, Maken, Nugoe, Maleisië, Mexico, Martinique, Prijs- en Nieuw-Zeeland, Elsje , Voorkomen Voorkomen, Zeeeilanden, Label, Hadoen, Zee, 2016, Korea, Comppes, Voorheen, Saint Kitts en Nevis, Kyrgyzstan, Japan, Korea, Kiten, Italië, Italië, Ierland, Ierland, India, India, Isle of Man, Man, Kits, United Kingdom,Deel, Hongkong SAR, Staat, Token, Staat, Legdelië, Frans Guiana, Greenland, Portugal, FaroeEilanden, Verenigd Koninkrijk, Australië, Frankrijk, , Hadoe, Republiek China, Italië, Duitsland, Italië, Moet, Tsjechische Republiek, CuraÑ™ao, Cape Verde, Bestolen, Kunt u ™ zich daar nog steeds mee bezig houden. , Deen, Anguilla, Laten, Verenigde Arabische Eugen, Antigua en Barbuda
+- Toegestane landen: Amerikaanse outlyingeilanden, Engels (Franse Gebieden in de Zuid-Oceaan), Bou island, British Indisch Oceaan-gebied, Territory, Heard and Mc Wilteilanden, Wallis en Navigeeruna, Vanuute, Antarctica, Tuvalu, Tokelau, Sierra Sierra, Swuteland, St Helena, Navigeer, Tristan da Cunha, SÑ£o TomÑ© and PrÑncipe, Pitcairn Islands, Pfu, Islands, Naau, Niue, Island, Mauritans, Northern Mariana Islands , Lesotho, Kirboekenti, Evenaarië, Guinee-Bissau, Cookeilanden,Aus,Balk, Island Island, Portees, Centraal-Arabische Republiek,Boeken, Cocos (Maken)Eilanden, Svalbard en Jan Mayen, Ñ... landeilanden, Zuid-Korea, Zuid-Amerika en de Zuid-Sandwicheilanden, Samoa, Saint BarthÑ©ruis, British Amerikaanse Maagdeneilanden, Saint-Pierre en Miquelon, Handtekening, Handtekening, Montserrat, Guyana,Masta, Delegatie, Gum, Gabon, Grenada, Guernheit, Bandbreedte, Micronesia,Gebiedseilanden, Poda, Djibouti, Bandbreedte, Bandbreedte (DRC), Australië, American Samoa,Authese, Zuid-Afrika, Mayotte, Vietnam, Saint- en De Grejië , Amerikaanse Amerikaanse Amerikaanse Maagdeneilanden, Hadoes, See (Stad van Den Staten), Stad, Rusland, Uzbekjik, Verenigde Staten, Handtekening,Maak, Taiwan,Maak en Tobago, Kunnen, Kunnen, Handtekening, Termijnen, Handtekening-Leste, Handtekening, Tjokk, Togo, El- Engo, Elsje, Turks en Caicoseilanden, Waard, Singapore, Token, SanIpes, Togoen, Åchelles, Slowaaks, Slowaaks, Slowaak, Slow, ©Union, ©Union, , Territory Territory, Occupied, Territory,Poepoeine,Poester, Hadoesië, New-Zeeland, Nieuw-Zeeland, Oman, Oman, Nederland, Nederland, Republiek, Polyedonia, New Caledonia, 1.000, Tedje, Mexico, Martinique, Maldives, Haddenus, Allo SAR, Kunnendaar, Moeten, Moetenr, Marshalleilanden, India, FyRO, Saint Martin, Kleine, Monaco, Pod, Afz. , Hadoje, Zeeeilanden, Zeeman, Hadoe, Zeeman, 2016, Korea, Comppes, Voorheen, Saint Kitts en Nevis,Politië, Kyrgyzstan, Japan, Kity, Japan,Politologie, Italië, Italië, India, India, Isle of Man, United Kingdom, China, Hong Kong SAR, Afb; 100, 1000, 2016, 2016, 2018, 2016, 2017, 2018, 2016 en 2018 , Hadoe, Republiek Frankrijk, Duitsland, Zwitserland, Moet, Tsjechische Republiek, CuraÑ™ao, Cape Verde, BeschikkingEn, Taken, Columbia, CÑ'te dâ€™Ivoire, Canada, Zwitserland, Datum, Lidmaatschap, Diensten, Lidmaatschap, Diensten, Kosten, Eustatius en Saba, Brazilië, Benin, Pfei, Porte, Porte, Portnas, Australia, Brazil, Afz. , Kantega, Anguilla, Hadoe, United United 1.000, Antigua en Barbuda
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- De aanbieding is beschikbaar in de officiële lijst met licentiebasisprijzen en aanbiedingsmatrix van het CSP-partnercentrum van 1 januari 2021.
+- De promotieaanbieding is beschikbaar in de officiële CSP Partner Center lijst met licentiebasisprijzen en aanbiedingsmatrix voor de officiële CSP-aanbieding van 1 januari 2021.
 
 ______________
 
@@ -410,11 +410,11 @@ ______________
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Directe factuurpartners en indirecte providers die deelnemen aan het CSP-programma die de .NET SDK Partner Center gebruiken.
+Directe factuurpartners en indirecte providers die deelnemen aan het CSP-programma dat de .NET-SDK Partner Center gebruiken.
 
 ### <a name="details"></a>Details
 
-Vanaf 8 december 2020 kunnen partners beginnen met het downloaden van de versie van [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), samen met bijgewerkte openbare Partnercentrum-SDK [GitHub voorbeelden.](https://github.com/Microsoft/Partner-Center-DotNet-Samples) Deze versie bevat updates voor de volgende methoden:
+Vanaf 8 december 2020 kunnen partners beginnen met het downloaden van de versie van [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), samen met bijgewerkte openbare Partnercentrum-SDK [GitHub voorbeelden](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Deze versie bevat updates voor de volgende methoden:
  
 **SelfServePolicies: nieuwe functionaliteit toegevoegd**
 
@@ -439,7 +439,7 @@ Vanaf 8 december 2020 kunnen partners beginnen met het downloaden van de versie 
 
 ______________
 
-## <a name="december-2020-license-based-price-list-release-notes"></a><a name="3"></a>Opmerkingen bij de release van de prijslijst op basis van licentie voor december 2020
+## <a name="december-2020-license-based-price-list-release-notes"></a><a name="3"></a>Releasenotities voor prijslijst op basis van licentie van december 2020
 
 ### <a name="categories"></a>Categorieën
 
@@ -448,15 +448,15 @@ ______________
 
 ### <a name="summary"></a>Samenvatting 
 
-De op licenties gebaseerde prijslijst en aanbiedingslijstmatrix van december 2020 heeft enkele problemen.
+De op licenties gebaseerde prijslijst en aanbiedingslijstmatrix van december 2020 heeft een aantal problemen.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep 
 
-Alle partners die het programma Cloud Solution Provider (CSP)
+Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
 
 ### <a name="details"></a>Details
 
-De op licenties gebaseerde prijslijsten en aanbiedingsmatrixbestanden van december bevatten enkele afwijkingen. Deze problemen hebben alleen betrekking op de op licenties gebaseerde prijsbestanden en moeten worden gecorrigeerd in de updates van januari 2021.
+De op licenties gebaseerde prijslijsten en aanbiedingslijstmatrixbestanden van december bevatten enkele afwijkingen. Deze problemen hebben alleen betrekking op de op licenties gebaseerde prijsbestanden en moeten worden gecorrigeerd in de updates van januari 2021.
 
 #### <a name="incorrect-offers-in-the-license-based-price-list"></a>Onjuiste aanbiedingen in de prijslijst op basis van licenties
 
@@ -589,8 +589,8 @@ _ 31 augustus 2020: Oorspronkelijke publicatie
 
 - 25 september 2020: Testvensterupdate toegevoegd 
 
-- 4 oktober 2020: Herinnering om u te registreren voor testen 
+- 4 oktober 2020: Herinnering om u aan te melden voor testen 
 
-- 10 november 2020: Herinnering om u te registreren voor testen 
+- 10 november 2020: Herinnering om u aan te melden voor testen 
 
 - 3 december 2020: API-updates live

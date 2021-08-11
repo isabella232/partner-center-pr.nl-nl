@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ece8323ba8943ab7615b65fe02834db086b5eac
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 7e2abdc7536521e72265d99369f165eb7c13d7ae8c258e5db6f84fd774877c19
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102366"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691274"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nieuwe Commerce-ervaring in CSP - Azure-facturering 
 
@@ -32,7 +32,7 @@ In dit artikel wordt uitgelegd hoe u de factuur- en afstemmingsbestandsstructuur
 
 - **Betalingstermijn factuur:** netto 60 dagen.
 
-- Factuurvaluta: vanaf 28 januari 2021 worden partners in de regio EU/EFTA en het VK die nieuwe klanten hebben en bestaande CSP-klanten die voor het eerst nieuwe commerceaanbiedingen aanschaffen waarvan de tenants zijn gemaakt vóór 11 mei 2020, gefactureerd voor deze aankopen in partnerlocatievaluta. Partners die zich buiten de regio EU/EFTA en het VK bevinden, worden nog steeds gefactureerd in partnerlocatievaluta.
+- Factuurvaluta: vanaf 28 januari 2021 worden partners in de regio EU/EFTA en het VERENIGD Koninkrijk die nieuwe klanten hebben en bestaande CSP-klanten die voor het eerst nieuwe commerceaanbiedingen aanschaffen waarvan de tenants zijn gemaakt vóór 11 mei 2020, gefactureerd voor deze aankopen in partnerlocatievaluta. Partners die zich buiten de regio EU/EFTA en het VK bevinden, worden nog steeds gefactureerd in partnerlocatievaluta.
 
 - **Incentives voor partners:** betaalde 45 dagen vanaf het einde van de factuurmaand.
 
@@ -80,7 +80,7 @@ Voor toegang tot het factuur- en afstemmingsbestand:
     - ResourceGroup 2
         - Virtuele machine (resource)
             - Computermeter
-        - Premium Door SSD beheerde schijf (resource)
+        - Premium Ssd-beheerde schijf (resource)
             - Storage capaciteitsmeter
             - Storage operations meter
 
@@ -167,4 +167,4 @@ Omdat het factureringsmodel voor Azure-services via een Azure-plan gebruik na be
 
 - Meer informatie over [het kopen van het Azure-abonnement](purchase-azure-plan.md)
 
-- Bekijk de [prijslijst voor de nieuwe commerce-ervaring in CSP](azure-plan-price-list.md)
+- Zie de [prijslijst voor de nieuwe commerce-ervaring in CSP](azure-plan-price-list.md)

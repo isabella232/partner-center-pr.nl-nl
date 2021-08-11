@@ -8,12 +8,12 @@ description: Bekijk wat u goed doet en waar u het gebruik van uw Power BI die u 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4cb47cf8cd3dbd12a57cab40a5a5d09888f324
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d13292270f655221f739d72a1517fee2c20f8cf63929fe26cd423f5f284ab379
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843830"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685972"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI gebruiksrapport dat beschikbaar is via het Partner Center Insights dashboard
 
@@ -28,7 +28,7 @@ Het Power BI bevat gebruiksgegevens voor de Microsoft Power BI-abonnementen die 
 - Power BI gebruiksdistributie
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt bekijken, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
@@ -38,7 +38,7 @@ De samenvattingssectie bevat een momentopnameweergave van de belangrijkste indic
 
    De Micro-grafiek geeft een trend voor de maand-over-maand weer van het aantal beschikbare seats voor uw geselecteerde datumbereik.
 
-- Toegewezen seats: totaal aantal licenties dat is toegewezen tijdens het geselecteerde tijdsbestek.
+- Toegewezen seats: het totale aantal licenties dat is toegewezen tijdens het geselecteerde tijdsbestek.
 
    In de Micro-grafiek wordt een trend voor de maand-over-maand weergegeven van het aantal toegewezen seats tijdens het geselecteerde datumbereik.
 

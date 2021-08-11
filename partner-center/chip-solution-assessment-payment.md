@@ -9,14 +9,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 5443dedfcae17152b51df7aa021d900b2f61892509c85ba3c2ba99cb0b9b3a8d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148870"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692667"
 ---
-# <a name="solution-assessment-payment-status-and-calculation-info"></a>Betalingsstatus en berekeningsgegevens voor oplossingsevaluatie
+# <a name="solution-assessment-payment-status-and-calculation-info"></a>Betalingsstatus en berekeningsgegevens voor solution assessment
 
 **Juiste rollen:** primaire contactpersoon of programmabeheerder
 
@@ -31,7 +31,7 @@ U kunt de betalingsstatus van de status van een oplossingsevaluatiekans bekijken
 5. Controleer de **sectie Betalingsaanvragen** om te zien of er een betalingsaanvraag is gemaakt.
 6. Controleer de status van de kans.
 
-    - Als er geen betalingsaanvraag is gemaakt, moet u ervoor zorgen dat de kans voldoet aan de geschiktheidscriteria om de Solution Assessments-incentive te verdienen. Meer informatie over het controleren van de geschiktheidscriteria vindt u in [Oplossingsevaluatie.](chip-solution-assessment.md)
+    - Als er geen betalingsaanvraag is gemaakt, moet u ervoor zorgen dat de kans voldoet aan de geschiktheidscriteria om de Solution Assessments-incentive te verdienen. Meer informatie over het controleren van de geschiktheidscriteria vindt u in [Solution Assessment](chip-solution-assessment.md).
     - Als er een betalingsaanvraag is gemaakt, gaat u verder met stap 7.
 7. Controleer de status van de betalingsaanvraag.
 
@@ -42,13 +42,13 @@ U kunt de betalingsstatus van de status van een oplossingsevaluatiekans bekijken
 
 ## <a name="calculations-for-solutions-assessment"></a>Berekeningen voor oplossingsevaluatie
 
-Met behulp van de gedefinieerde kostenschema's worden de bijbehorende incentive-kosten berekend en verwerkt door microsoft Regional Operations Centers, waarbij betalingen maandelijks worden uitgegeven.
+Met behulp van de gedefinieerde kostenschema's worden de bijbehorende incentive-kosten berekend en verwerkt door de Microsoft Regional Operations Centers, waarbij betalingen maandelijks worden uitgegeven.
 
-Verkoopkansen moeten alle volgende kenmerken hebben om in dit goedkeuringsrapport voor betalingen te kunnen worden weergegeven:
+Verkoopkansen moeten alle volgende kenmerken hebben om te kunnen worden weergegeven in dit rapport voor betalingsgoedkeuring:
 
 1. Solution Assessment Incentive moet worden goedgekeurd.
 
-1. Lokaal kenmerk Rate level van Solution Assessment Engagement Level wordt ingesteld voor de betrokkenheid op het moment dat de Incentive wordt goedgekeurd in MSX.
+1. Het lokale kenmerk Rate level van het Solution Assessment Engagement-niveau wordt ingesteld voor de betrokkenheid op het moment dat de Incentive wordt goedgekeurd in MSX.
  
 1. Het selectievakje EM-beoordeling moet zijn ingeschakeld en verzonden door EM in CHIP.
 

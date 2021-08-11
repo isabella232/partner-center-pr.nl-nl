@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d2888a8deffffa3b281ca088696184fdb52376be
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: a082e661cef28cf246dd742073efbc87487c4cdde694ddeb73958d9618c7a42a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102315"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691171"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Het eigendom van het domein controleren om een globale beheerder te worden (Engelstalig) 
 

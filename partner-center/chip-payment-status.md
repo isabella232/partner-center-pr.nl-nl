@@ -9,19 +9,19 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 680e3e284f8226f3f6ee0faeb89a4ab0fd689861a1d2fe47fefc7f48f3a8365f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148887"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692684"
 ---
-# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Betalingsstatus controleren in chip (Channel Incentives Platform)
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>De betalingsstatus controleren in het Channel Incentives Platform (CHIP)
 
 **Juiste rollen:** CHIP-beheerder
 
 >[!NOTE]
->Het CHIP-platform wordt eind 2021 in gebruik genomen.
+>Het CHIP-platform wordt eind 2021 uit gebruik genomen.
 
 ## <a name="payment-status-for-the-enterprise-and-splar-programs"></a>Betalingsstatus voor de Enterprise- en SPLAR-programma's
 
@@ -31,7 +31,7 @@ Volg de onderstaande stappen om uw betalingsstatus in CHIP te controleren voor d
  
 1. Selecteer de koppeling **Enterprise- of** **SPLAR-programma** op het CHIP-startscherm om het dashboard te openen. Het dashboard is het overzichtsscherm voor al uw inkomsten en betalingen.
  
-1. Als u volledige details van inkomsten, betalingen of berekeningen wilt downloaden, selecteert u Exporteren naar  **Excel** in de **vervolgkeuzelijst** Selecteren.
+1. Als u volledige details van inkomsten, betalingen of berekeningen wilt downloaden, selecteert u **Exporteren Excel** in de **vervolgkeuzelijst** Selecteren.
 
 ## <a name="next-steps"></a>Volgende stappen
 

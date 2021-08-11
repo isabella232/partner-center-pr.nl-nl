@@ -9,16 +9,16 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
-ms.openlocfilehash: c1f74e2977b110befd38c741259e84dd8bc9acb6
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 9632cc6fbf18a02526cb0df4699bbe0ffaee4bb26ded97b3cb8b186ed8cf556b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100048"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691413"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Een werkaccount maken dat uw bedrijf koppelt aan uw Partner Center account
 
-**Juiste rollen:** globale | Beheerder van gebruikersbeheer
+**Juiste rollen:** Globale | Beheerder van gebruikersbeheer
 
 ## <a name="why-you-need-a-work-account"></a>Waarom u een werkaccount nodig hebt
 
@@ -26,9 +26,9 @@ Microsoft vereist dat u het werkaccount van uw bedrijf koppelt aan uw nieuwe Par
 
 ## <a name="the-work-account-email-address"></a>Het e-mailadres van het werkaccount
 
-Uw werkaccount of werk-e-mailadres is het e-mailadres dat u van uw bedrijf ontvangt. Een e-mailadres van een werkaccount heeft meestal de indeling `you@yourcompany.com` . Persoonlijke e-mailadressen, zoals Hotmail, Gmail of Yahoo, zijn geen werk-e-mail en kunnen niet worden gebruikt voor uw Partner Center account.
+Uw werkaccount of werke-mail is het e-mailadres dat u van uw bedrijf ontvangt. Een e-mail voor een werkaccount heeft meestal de indeling `you@yourcompany.com` . Persoonlijke e-mailadressen, zoals Hotmail, Gmail of Yahoo, zijn geen werk-e-mail en kunnen niet worden gebruikt voor uw Partner Center account.
 
-Als u meer dan één geldig zakelijk e-mailadres hebt, gebruikt u het adres dat is gekoppeld aan uw hoofdkantoor in plaats van de regionale afdeling. Gebruik bijvoorbeeld uw e-mailadres in plaats van `contoso.com` het `contoso.uk` adres.
+Als u meer dan één geldig zakelijk e-mailadres hebt, gebruikt u het e-mailadres dat is gekoppeld aan uw hoofdkantoor in plaats van de regionale afdeling. Gebruik bijvoorbeeld uw e-mailadres in plaats van `contoso.com` het `contoso.uk` adres.
 
 > [!NOTE]  
 > Voordat u een bestaand werkaccount gebruikt, moet u bedenken hoeveel gebruikers in het werkaccount toegang moeten hebben tot Partner Center. Als u gebruikers in het werkaccount hebt die geen toegang nodig hebben tot Partner Center, kunt u overwegen om een nieuw account te maken voor alleen de gebruikers die toegang Partner Center nodig hebben.
@@ -57,9 +57,9 @@ Zie Een domein toevoegen of koppelen in Azure AD voor meer informatie over het t
 
 ## <a name="about-microsoft-azure"></a>Over Microsoft Azure
 
-Microsoft Azure is een openbaar cloudplatform dat bedrijven kunnen gebruiken om toepassingen te bouwen, implementeren en beheren in een wereldwijd netwerk van door Microsoft beheerde datacenters. Bedrijven gebruiken Azure om een virtuele IT-infrastructuur met virtuele functies of services te bouwen in plaats van fysieke machines.
+Microsoft Azure is een openbaar cloudplatform dat bedrijven kunnen gebruiken voor het bouwen, implementeren en beheren van toepassingen in een wereldwijd netwerk van door Microsoft beheerde datacenters. Bedrijven gebruiken Azure om een virtuele IT-infrastructuur te bouwen met virtuele functies of services in plaats van fysieke machines.
 
-Wanneer u een Azure-abonnement aanschaft, huurt u in feite een toegewezen, beveiligde ruimte in de openbare Azure-cloud, niet te veel van het huren van een verdieping in een kantoorgebouw voor het fysieke bedrijf van uw bedrijf. Voor de eigenaar van het kantoorgebouw is uw bedrijf een tenant.
+Wanneer u een Azure-abonnement aanschaft, huurt u in feite een toegewezen, beveiligde ruimte in de openbare Azure-cloud, niet al te veel van het huren van een verdieping in een kantoorgebouw voor de fysieke bedrijfsvoering van uw bedrijf. Voor de eigenaar van het kantoorgebouw is uw bedrijf een tenant.
 
 Een Azure-werkaccount is een toegewezen en geïsoleerde virtuele weergave van uw bedrijf in de openbare Azure-cloud die voor u wordt gemaakt wanneer u zich abonneert op een Microsoft-cloudservice zoals Azure, Microsoft Intune of Office 365.
 

@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2d8464b93f6f3215043775496baacc8c6abd907bf614db78725814c9bea59229
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837692"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690899"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Licenties beheren in Marketplace-aanbiedingen
 
@@ -68,13 +68,13 @@ De eerste stap in het licentieproces is het maken van uw commerciële marketplac
 
     - U kunt klanten ook in staat stellen om de basisfunctionaliteit van uw app uit te voeren zonder licentie en Premium-functies uit te voeren zodra ze een licentie hebben aangeschaft. Als u dit wilt doen, **selecteert u Klanten toestaan mijn app te installeren, zelfs als er geen licenties zijn toegewezen.**
 
-    - Als u niet wilt dat licentiebeheer voor uw aanbieding is ingeschakeld, selecteert u Nu downloaden **(gratis)**, **Gratis proefversie** of **Neem contact met mij op.**
+    - Als u niet wilt dat licentiebeheer is ingeschakeld voor uw aanbieding, selecteert u Nu downloaden **(gratis)**, **Gratis proefversie** of **Neem contact met mij op.**
 
 ## <a name="create-your-plan"></a>Uw plan maken
 
 In deze stappen definieert u het plan of de plannen die u wilt inschakelen voor uw aanbieding.
 
-1. Selecteer in het navigatiemenu links **Overzicht plannen** en selecteer vervolgens **Nieuw abonnement maken.**
+1. Selecteer in het navigatiemenu aan de **linkerkant Overzicht plannen** en selecteer **vervolgens Nieuw abonnement maken.**
 2. Voer een **plan-id** en **plannaam** in en selecteer **vervolgens Maken.**
 3. Voer op **de pagina Abonnementsvermelding** de beschrijving van uw abonnement **in.**
 4. Als u de beschrijving wilt opslaan en later wilt voltooien, selecteert **u Concept opslaan.**
@@ -89,16 +89,16 @@ De volgende stap is het bijwerken van uw oplossing door de service-ID's toe te v
 
 ## <a name="upload-your-package-and-publish-your-offer"></a>Upload pakket maken en uw aanbieding publiceren
 
-1. Selecteer commerciële marketplace in het navigatiedeelvenster **aan de linkerkant** en selecteer **vervolgens Technische configuratie.**
+1. Selecteer in het navigatiedeelvenster links **Commerciële marketplace** en selecteer vervolgens **Technische configuratie.**
 2. Selecteer **onder Basislicentiemodel** de optie **Gebruiker**.
 3. Voer **onder CRM-pakket** de URL van uw pakketlocatie in.
-4. Gebruik de andere tabbladen in het linkernavigatiedeelvenster om andere vereiste gegevens in te voeren. Wanneer u klaar bent, selecteert u **Controleren en publiceren.**
+4. Gebruik de andere tabbladen in het linkernavigatievenster om andere vereiste gegevens in te voeren. Wanneer u klaar bent, selecteert u **Controleren en publiceren.**
 
 Nadat u de aanbieding hebt gepubliceerd, controleren en verifiëren we uw gegevens. Als er problemen zijn met dit proces, stellen we u hiervan op de hoogte. Wanneer alle problemen zijn opgelost, ontvangt u een melding dat uw aanbieding beschikbaar is in AppSource. Op dat moment kunt u het live maken.
 
 ## <a name="make-your-offer-live-in-partner-center"></a>Uw aanbieding live maken in Partner Center
 
-Met de onderstaande procedure doorloopt u het proces voor het live maken van uw aanbieding in AppSource. Zie Inleiding tot lijstopties voor meer informatie [over dit proces.](/azure/marketplace/determine-your-listing-type)
+De onderstaande procedure laat u zien hoe u uw aanbieding live kunt maken in AppSource. Zie Inleiding tot lijstopties voor meer informatie [over dit proces.](/azure/marketplace/determine-your-listing-type)
 
 >[!NOTE]
 >Nadat u uw aanbieding hebt gepubliceerd, duurt het 4-6 uur om live te gaan.

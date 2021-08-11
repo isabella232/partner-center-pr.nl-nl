@@ -10,23 +10,52 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/03/2021
-ms.openlocfilehash: be0baf45c4261039e87d6fb33b6a8263598063279051fdf4b3f234b3a9b1dccb
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.date: 08/05/2021
+ms.openlocfilehash: 690e4a75b7035c4f16df0eeb4a9985bb29658a11757dcdccc1dd0faa17d1bdef
+ms.sourcegitcommit: 8aa666a297f567435c8bd3eb7e90d29d2b96b601
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688196"
+ms.lasthandoff: 08/08/2021
+ms.locfileid: "116885436"
 ---
 # <a name="august-2021-announcements"></a>Aankondigingen van augustus 2021
 
 Deze pagina bevat de aankondigingen voor Microsoft Partner Center voor augustus 2021.
+
+________________
+## <a name="view-the-latest-promotions-and-offers"></a><a name="7"></a>De meest recente promoties en aanbiedingen weergeven
+
+### <a name="summary"></a>Samenvatting
+
+De nieuwste gereedheidshandleiding voor globale promo's is nu gepubliceerd.
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-08-06
+- Aanbiedingen & markten
+
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
+
+Partners die via het Cloud Solution Provider werken
+
+### <a name="details"></a>Details
+
+De nieuwste Global Promo Readiness Guide, een geconsolideerde weergave van alle huidige en toekomstige promoties, is nu beschikbaar in de resourcegalerie Operations Readiness. Zie actieve en toekomstige promoties en aanbiedingen [hier.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de meest recente maandelijkse Promotiehandleiding in de resourcegalerie Operations Readiness. Deel deze informatie met de juiste contactpersonen in uw organisatie en laat ons weten of de handleiding nuttig is door te reageren op de vraag 'Was deze pagina nuttig?' onder aan de pagina.
+
+### <a name="questions"></a>Vragen?
+
+Voor vragen over deze aanbiedingen raadpleegt u uw relevante Yammer community's.
+
 ________________
 ## <a name="upcoming-changes-to-azure-plan-price-lists-for-new-commerce-experience"></a><a name="6"></a>Toekomstige wijzigingen in prijslijsten voor Azure-plannen voor nieuwe commerce-ervaring
 
 ### <a name="summary"></a>Samenvatting
 
-We brengen enkele updates aan in de prijslijsten van het Azure-plan Partner Center om ervoor te zorgen dat de items in de prijslijst gesynchroniseerd zijn met wat er beschikbaar is voor aankoop in Partner Center.
+We brengen enkele updates aan in de prijslijsten van het Azure-plan Partner Center om ervoor te zorgen dat de items in de prijslijst synchroon zijn met wat er beschikbaar is in Partner Center.
 
 ### <a name="categories"></a>Categorieën
 
@@ -39,22 +68,22 @@ Indirecte providers en directe factuurpartners die een Azure-plan uitvoeren in h
 
 ### <a name="details"></a>Details
 
-Partners hebben mogelijk verschillen waargenomen tussen de reserveringsin instanties (GERESERVEERDE INSTANTIES) die beschikbaar zijn om te kopen in Partner Center en de GERESERVEERDE INSTANTIES in de prijslijsten voor Azure-planreserveringen.
+Partners hebben mogelijk verschillen waargenomen tussen de reserveringsin instanties (RIs) die beschikbaar zijn om te kopen in Partner Center en de GERESERVEERDE instanties in de prijslijsten voor Azure-planreserveringen.
 In het verleden zijn de prijslijsten voor Azure-planreserveringen onjuist opgenomen:
 
 1. Items die mogelijk alleen beschikbaar zijn in de Azure Portal
 2. Azure-producten die geen reserveringen waren
  
-We brengen enkele updates aan in de prijslijsten van het Azure-plan Partner Center om ervoor te zorgen dat de items in de prijslijst gesynchroniseerd zijn met wat er beschikbaar is voor aankoop in Partner Center. Dit moet vanaf 2 september 2021 worden aangepakt. Deze wijzigingen zijn alleen van toepassing op prijslijsten voor azure-reserveringen voor nieuwe commerce-reserveringen.
+We brengen enkele updates aan in de prijslijsten van het Azure-plan Partner Center om ervoor te zorgen dat de items in de prijslijst synchroon zijn met wat er beschikbaar is in Partner Center. Dit moet vanaf 2 september 2021 worden aangepakt. Deze wijzigingen zijn alleen van toepassing op prijslijsten voor azure-reserveringen voor nieuwe commerce-reserveringen.
 
-Als er vanaf september een RI beschikbaar is om te worden Partner Center, is deze beschikbaar in de prijslijsten. Voor andere API's moet de partner rechtstreeks naar Azure Portal gaan om de prijzen te controleren en aankopen te doen.
+Vanaf september, als een RI beschikbaar is om te worden ver transacted in Partner Center, is deze beschikbaar in de prijslijsten. Voor andere API's moet de partner rechtstreeks naar Azure Portal om de prijzen te controleren en aankopen te doen.
 
 
 ### <a name="next-steps"></a>Volgende stappen
-- Partners moeten prijzen voor Azure-plannen downloaden om te zien welke RE's beschikbaar zijn via [Partner Center](https://partner.microsoft.com/dashboard/sell/pricingandoffers).
-- Partners die een nieuw Commerce Azure-plan uitvoeren, moeten [azure-services in de](https://azure.microsoft.com/en-us/pricing/calculator/) CSP-prijscalculator gebruiken om prijsinformatie op te halen voor RIs die niet beschikbaar zijn voor aankoop binnen Partner Center. 
+- Partners moeten prijzen voor Azure-plannen downloaden om de beschikbare API's te zien via [Partner Center](https://partner.microsoft.com/dashboard/sell/pricingandoffers).
+- Partners die een nieuw Commerce Azure-plan uitvoeren, moeten [azure-services in](https://azure.microsoft.com/en-us/pricing/calculator/) CSP-prijscalculator gebruiken om prijsinformatie op te halen voor RIs die niet beschikbaar zijn voor aankoop binnen Partner Center. 
 ________________
-## <a name="csp-for-azure-new-commerce-experience-expands-to-the-vatican"></a><a name="5"></a>CSP voor nieuwe commerce-ervaring in Azure wordt uitgebreid naar het Platform
+## <a name="csp-for-azure-new-commerce-experience-expands-to-the-vatican"></a><a name="5"></a>CSP voor Nieuwe commerce-ervaring van Azure breidt uit naar Het Bedrijf
 
 ### <a name="summary"></a>Samenvatting
 
@@ -67,15 +96,15 @@ Microsoft heeft op 22 juli 2021 de nieuwe commerce-ervaring geïntroduceerd in h
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners in de Transacting via het CSP-programma
+Partners in de Partner-transacting via het CSP-programma
 
 ### <a name="details"></a>Details
 
-Op 22 juli 2021 heeft Microsoft de nieuwe commerce-ervaring geïntroduceerd in het CSP-programma voor Azure in de Regio. Deze ervaring stroomlijnt en verbetert de manier waarop klanten Azure-services kopen en gebruiken. Het biedt partners in het CSP-programma ook een consistente weergave van azure-prijzen voor verkoopmotie, prijzen voor Amerikaanse dollar voor wereldwijde consistentie, afstemming van factureringsdatums en toegang tot Azure Cost Management. Voor meer informatie moeten partners het materiaal bekijken dat in de [galerie met partnerresources is geplaatst.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+Op 22 juli 2021 heeft Microsoft de nieuwe commerce-ervaring in het CSP-programma voor Azure in the Commerce geïntroduceerd. Deze ervaring stroomlijnt en verbetert de manier waarop klanten Azure-services kopen en gebruiken. Het biedt partners in het CSP-programma ook een consistente weergave van azure-prijzen voor verkoopmotie, prijzen voor Amerikaanse dollar voor wereldwijde consistentie, uitlijning van factureringsdatums en toegang tot Azure Cost Management. Voor meer informatie moeten partners het materiaal bekijken dat in de [galerie met partnerresources is geplaatst.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Er zijn verschillende resources beschikbaar om de nieuwe Azure Commerce-ervaring te introduceren en aanvullende informatie te bieden. U vindt de meest recente veelgestelde vragen, stapels, video's en meer in de resourcegalerie voor updates van [het CSP-programma.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+Er zijn verschillende resources beschikbaar voor de introductie van de nieuwe Azure Commerce-ervaring en het bieden van aanvullende informatie. U vindt de meest recente veelgestelde vragen, stapels, video's en meer in de resourcegalerie voor updates van [het CSP-programma.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ________________
 ## <a name="programmatic-access-to-partner-insights-analytics-data"></a><a name="4"></a>Programmatische toegang tot partner- Insights analytics-gegevens
@@ -91,7 +120,7 @@ Partners hebben nu toegang tot de partner Insights analytics-gegevens via een AP
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die het CSP-programma (Cloud Solution Provider) gebruiken
+Partners die het programma Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Details
 
@@ -103,7 +132,7 @@ Opvallende functies zijn onder andere:
 - Het rapport plannen op het gewenste tijdstip en interval.
 - Aangepaste query's schrijven met geselecteerde kolommen en filters voor de gegevens.
 - Terugkerende query's plannen.
-- Mogelijkheid om rapporten te downloaden van een veilige locatie.
+- Mogelijkheid om rapporten te downloaden vanaf een veilige locatie.
 
 De belangrijkste waarde van programmatische toegang van Partner Insights analytics-gegevens is integratie met interne BI-systemen en -platformen voor het maken van aangepaste rapportage.
 
@@ -113,20 +142,20 @@ Lees [deze handleiding om](../insights-programmatic-get-started.md) aan de slag 
 
 Ons technische team host aan [het einde](https://globalpbocomm.eventbuilder.com/PartnerCenterInsightsAPIsTechnicalOverview) van deze maand trainingssessies over dit onderwerp. De sessie is gericht op de technische teams van onze partners en wordt vastgelegd om op aanvraag te bekijken.
 
-- **Optie 1:** [Europa, Midden-Oosten en Afrika (EMEA)](https://globalpbocomm.eventbuilder.com/event/47228?source=PartnerCenterInsightsAPIsTechnicalOverview)en Noord-Amerika -**16** augustus 10:00 uur Eastern Time Zone of 15:00 Uur Greenwich Mean Time
+- **Optie 1:** Europa, Midden-Oosten en Afrika [(EMEA)](https://globalpbocomm.eventbuilder.com/event/47228?source=PartnerCenterInsightsAPIsTechnicalOverview)en Noord-Amerika -**16** augustus , 10:00 uur Eastern Time Zone of 15:00 PM Greenwich Mean Time
 
-- **Optie 2:** [Aziëvriendelijk:](https://globalpbocomm.eventbuilder.com/event/47229?source=PartnerCenterInsightsAPIsTechnicalOverview)**17** augustus, 11:30 uur Singapore Tijdzone
+- **Optie 2:** [Aziëvriendelijk](https://globalpbocomm.eventbuilder.com/event/47229?source=PartnerCenterInsightsAPIsTechnicalOverview):**17** augustus, 11:30 uur Tijdzone Singapore
 
 ### <a name="questions"></a>Vragen?
 
 Raadpleeg uw relevante Microsoft Partner-community's voor vragen over deze aanbiedingen.
 
 ________________
-## <a name="offer-attestation-required-for-some-windows-365-offers"></a><a name="3"></a>Attestation van aanbieding vereist voor sommige Windows 365-aanbiedingen
+## <a name="offer-attestation-required-for-some-windows-365-offers"></a><a name="3"></a>Attestation-aanbieding vereist voor sommige Windows 365-aanbiedingen
 
 ### <a name="summary"></a>Samenvatting
 
-Sommige nieuw beschikbare Windows 365-aanbiedingen die vanaf augustus 2021 beschikbaar zijn, vereisen een speciale attestation voorafgaand aan de aankoop.
+Sommige nieuw beschikbare Windows 365-aanbiedingen vanaf augustus 2021 vereisen speciale attestation vóór de aankoop.
 
 ### <a name="categories"></a>Categorieën
 
@@ -135,7 +164,7 @@ Sommige nieuw beschikbare Windows 365-aanbiedingen die vanaf augustus 2021 besch
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Indirecte providers en directe factuurpartners die op licenties gebaseerde services in het Cloud Solution Provider af te werken
+Indirecte providers en directe factuurpartners die services op basis van licenties in het Cloud Solution Provider gebruiken
 
 ### <a name="details"></a>Details
 
@@ -143,11 +172,11 @@ Voor sommige nieuw beschikbare Windows 365-aanbiedingen moet de partner bevestig
 
 **Ik begrijp dat elke persoon die Windows 365 Business met Windows Hybrid Benefit gebruikt, ook een geldige kopie van Windows 10/11-Pro moet hebben geïnstalleerd op hun primaire werkapparaat.**
 
-Partners moeten hiermee akkoord gaan voordat ze deze aanschaffen.
+Partners moeten hiermee akkoord gaan voordat ze de aankoop kunnen doen.
 
-Attestation is zowel van toepassing op Partner Center portal als Partner Center API's bij het verzenden van orders en het uitchecken van winkelwagens. Partners kunnen bepalen welke aanbiedingen attestation vereisen door de AttestationProperties voor de [aanbieding](/partner-center/develop/offer-resources#attestationproperties) of [SKU-objecten te](/partner-center/develop/product-resources#attestationproperties) controleren. In deze eigenschappen wordt het attestation-type uitgelegd en wordt uitgelegd of de attestation wordt afgedwongen voor aankopen.
+Attestation is zowel van toepassing op de Partner Center portal als op de Partner Center API's bij het verzenden van orders en het uitchecken van winkelwagens. Partners kunnen bepalen welke aanbiedingen attestation vereisen door de AttestationProperties voor de [aanbieding](/partner-center/develop/offer-resources#attestationproperties) of [SKU-objecten te](/partner-center/develop/product-resources#attestationproperties) controleren. In deze eigenschappen wordt het attestation-type uitgelegd en wordt uitgelegd of de attestation wordt afgedwongen voor aankopen.
 
-Hieronder vindt u aanbiedingen waarvoor momenteel attestation is vereist vóór de aankoop.
+Hieronder vindt u aanbiedingen waarvoor attestation momenteel vereist is vóór de aankoop.
 
  | **Naam van aanbieding** |**Aanbiedings-id** |
 |:------------------------------------------- |:--------------------------------------- |
@@ -157,7 +186,7 @@ Hieronder vindt u aanbiedingen waarvoor momenteel attestation is vereist vóór 
 | Windows 365 Business 2 vCPU, 4 GB, 256 GB (met Windows Hybrid Benefit) | cc624387-162c-4f31-9d6e-252d39d5324b |
 | Windows 365 Business 2 vCPU, 4 GB, 64 GB (met Windows Hybrid Benefit) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
 | Windows 365 Business 2 vCPU, 8 GB, 128 GB (met Windows Hybrid Benefit) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
-| Windows 365 Business 2 vCPU, 8 GB, 128 GB (met Windows Hybrid Benefit) Proefversie | d5623401-b8e0-429f-86df-29b6efdf4d95 |
+| Windows proefversie van 365 Business 2 vCPU, 8 GB, 128 GB (met Windows Hybrid Benefit) | d5623401-b8e0-429f-86df-29b6efdf4d95 |
 | Windows 365 Business 2 vCPU, 8 GB, 256 GB (met Windows Hybrid Benefit) | 8fe4271f-c761-45f8-8261-5ab575195152 |
 | Windows 365 Business 4 vCPU, 16 GB, 128 GB (met Windows Hybrid Benefit) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
 | Windows proefversie van 365 Business 4 vCPU, 16 GB, 128 GB (Windows Hybrid Benefit) | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
@@ -216,7 +245,7 @@ Windows 365 is beschikbaar voor klanten om te kopen [via windows365.com,](https:
 
 ### <a name="questions"></a>Vragen?
 
-Raadpleeg uw relevante [Microsoft-partnergroepen](https://www.microsoftpartnercommunity.com/)voor meer vragen over deze aanbiedingen.
+Raadpleeg uw relevante [Microsoft-partner](https://www.microsoftpartnercommunity.com/)community's voor meer vragen over deze aanbiedingen.
 
 #### <a name="change-log"></a>Wijzigingenlogboek
 

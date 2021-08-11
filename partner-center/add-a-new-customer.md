@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: dccc5365d6b05ebae474c5afeb7bd7d091d86d34
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 45fd0fee4f58792b5defb1f800b33c189b0892eb725a264e468b3d44b29f8469
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839529"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685425"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Een nieuwe klantrecord toevoegen in Partner Center
 
@@ -43,7 +43,7 @@ In dit artikel wordt beschreven hoe u een nieuwe klant toevoegt aan uw lijst met
    >[!IMPORTANT]
    > Op 1 oktober 2019 heeft  Microsoft de Microsoft-klantovereenkomst in het CSP-programma geïntroduceerd ter vervanging van de Microsoft Cloud-overeenkomst. Meer informatie over de [Microsoft-klantovereenkomst en hoe u toestemming kunt bevestigen](confirm-customer-agreement.md)
   
-3. Als u een indirecte provider bent, selecteert u de indirecte reseller die u wilt koppelen aan de abonnementen van deze klant in de lijst.
+3. Als u een indirecte provider bent, selecteert u in de lijst de indirecte reseller die u wilt koppelen aan de abonnementen van deze klant.
 
 4. Selecteer **Volgende: Abonnementen wanneer** u klaar bent met het invoeren van alle vereiste gegevens.
 

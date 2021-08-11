@@ -1,5 +1,5 @@
 ---
-title: Microsoft-aanbiedingen voor Action Pack kopen Action Pack vernieuwen
+title: Microsoft-aanbiedingen voor Action Pack kopen Action Pack verlengen
 ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
@@ -9,28 +9,28 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8124d05f971149cffe0d4c49f7ec68c38ea54156
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a9868f09ebf3311be72799b729952eca12695d9790f9190ad90a8e660dad3c7b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836346"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692106"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Een abonnement op Microsoft Action Pack of een Silver- of Gold-competentie kopen of verlengen
 
 
-**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheer van MPN-partner | Beheeragent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeraccount van MPN-| Beheeragent
 
 
 Vanuit het [Partner Center-dashboard](https://partner.microsoft.com/dashboard)kunnen leden van de Microsoft Partner Network (MPN)) voordelenaanbiedingen kopen of verlengen, waaronder het Microsoft Action Pack-abonnement en silver- en gold-competenties.
 
-## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Microsoft Action Pack eerste keer kopen
+## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Microsoft Action Pack voor het eerst kopen
 
-Als u geen tijd hebt om met Microsoft samen te werken, bestaat de eerste stap uit het deelnemen aan de Microsoft Partner Network. Als u lid wilt worden van MPN, gaat u naar [de lidmaatschapspagina](https://partner.microsoft.com/membership) op de partnernetwerksite en selecteert u Nu **deelnemen** wanneer u klaar bent om u te registreren.
+Als u geen tijd hebt om met Microsoft samen te werken, bestaat de eerste stap uit het deelnemen aan Microsoft Partner Network. Als u lid wilt worden van MPN, gaat  u naar [de lidmaatschapspagina](https://partner.microsoft.com/membership) op de partnernetwerksite en selecteert u Nu deelnemen wanneer u klaar bent om u te registreren.
 
-Nadat u lid bent geworden van het partnernetwerk, volgt u de instructies op de site van het [partnernetwerk](https://partner.microsoft.com/membership/action-pack) (aanmelden is vereist) om uw eerste abonnement Action Pack kopen. 
+Nadat u lid bent geworden van het partnernetwerk, volgt u de instructies op de [partnernetwerksite](https://partner.microsoft.com/membership/action-pack) (aanmelden vereist) om uw eerste abonnement Action Pack kopen. 
 
-Meer informatie over de Action Pack vindt u op de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) site.
+U vindt meer informatie over Action Pack [](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) op de Microsoft Partner Network site.
 
 Word een [competentiepartner.](https://partner.microsoft.com/membership/competencies) 
 
@@ -42,27 +42,27 @@ Word een [competentiepartner.](https://partner.microsoft.com/membership/competen
 ### <a name="check-your-renewal-eligibility"></a>Controleer of u in aanmerking komt voor verlenging
 
 >[!IMPORTANT]
->Als u wordt uitgenodigd om uw abonnement te verlengen in de Partner Center, moet u er rekening mee houden dat het beleid voor het verlengingsvenster is gewijzigd en dat u uw abonnement pas kunt verlengen nadat het is verlopen. Als uw abonnement bijvoorbeeld op 22 juni verloopt, kunt u het verlengen met 23 juni en 30 dagen later.
->U vindt de vervaldatum van uw [](https://partnercenter.microsoft.com/pcv/partnership/offers) abonnement op de pagina Lidmaatschapsaanbiedingen (aanmelding vereist). Wanneer u in aanmerking komt om te verlengen in de Partner Center, volgt u de onderstaande stappen.  
+>Als u wordt uitgenodigd om uw abonnement te verlengen in de Partner Center, moet u er rekening mee houden dat het beleid voor het verlengingsvenster is gewijzigd en dat u uw abonnement alleen kunt verlengen nadat het is verlopen. Als uw abonnement bijvoorbeeld op 22 juni verloopt, kunt u het met 23 juni en 30 dagen later verlengen.
+>U vindt de vervaldatum van uw [](https://partnercenter.microsoft.com/pcv/partnership/offers) abonnement op de pagina Lidmaatschapsaanbiedingen (aanmelden is vereist). Wanneer u in aanmerking komt voor verlenging in de Partner Center, volgt u de onderstaande stappen.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Een Microsoft Action Pack-abonnement verlengen in de Partner Center
 
 1. Ga naar de [**pagina Lidmaatschapsaanbiedingen.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Zoek de **tegel Microsoft Action Pack-abonnement.**  
 
-2. Selecteer **Abonnement verlengen** en selecteer vervolgens uw betalingswijze. U kunt betalen met een creditcard of een digitale bankoverboeking.
+2. Selecteer **Abonnement verlengen** en selecteer vervolgens uw betalingswijze. U kunt betalen met een creditcard of een elektronische bankoverboeking.
 
     >[!NOTE]
-    >Als **Abonnement vernieuwen** niet wordt weergegeven of grijs wordt weergegeven, komt u nog niet in aanmerking om uw abonnement Action Pack verlengen. We hebben ons beleid voor verlengingsvensters gewijzigd, zodat u uw abonnement pas kunt verlengen **nadat** het is verlopen. Als uw abonnement bijvoorbeeld op 22 juni verloopt, kunt u het verlengen met 23 juni en 30 dagen later.  
+    >Als **Abonnement vernieuwen** niet wordt weergegeven of grijs wordt weergegeven, komt u nog niet in aanmerking voor het verlengen van uw Action Pack abonnement. We hebben ons beleid voor het verlengingsvenster gewijzigd, zodat u uw abonnement pas kunt verlengen **nadat** het is verlopen. Als uw abonnement bijvoorbeeld op 22 juni verloopt, kunt u het met 23 juni en 30 dagen later verlengen.  
 
 3. Als u met een creditcard betaalt, volgt u de instructies voor het toevoegen van uw creditcardgegevens. Als u betaalt via digitale bankoverboeking, geeft u een naam, telefoonnummer en e-mailadres op en selecteert u **Verzenden.**
 
-4. Controleer uw ordergegevens en selecteer **Vervolgens Kopen** wanneer u klaar bent om een Action Pack. Uw creditcard wordt onmiddellijk in rekening gebracht.
+4. Controleer uw ordergegevens en selecteer **vervolgens Kopen** wanneer u klaar bent om uw Action Pack. Uw creditcard wordt onmiddellijk in rekening gebracht.
 
 5. Uw bestelling is bevestigd. Selecteer **Sluiten**.
 
 ### <a name="update-your-bill-to-address"></a>Uw factuur-naar-adres bijwerken
 
-Tijdens het vernieuwen of kopen van Action Pack hebt u de mogelijkheid om uw factuur-naar-adres te valideren.
+Tijdens het vernieuwen of kopen van Action Pack hebt u de mogelijkheid om uw factuuradres te valideren.
 
  1. Nadat u **Verzenden hebt** geselecteerd, kunt u de details van uw aankoop bekijken. Selecteer **Bijwerken** als u ziet dat uw adres moet worden bijgewerkt.
   
@@ -72,23 +72,23 @@ Tijdens het vernieuwen of kopen van Action Pack hebt u de mogelijkheid om uw fac
 
 Als u uw Microsoft Action Pack annuleren, moet u mogelijk contact opnemen met partnerondersteuning.
 
-1. Ga naar de [**pagina Lidmaatschapsaanbiedingen.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Selecteer **Microsoft Action Pack-abonnement om** de details van uw abonnement weer te geven. 
+1. Ga naar de [**pagina Lidmaatschapsaanbiedingen.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Selecteer **Microsoft Action Pack om uw** abonnementsgegevens weer te geven. 
 
 3. Selecteer **Abonnement annuleren.** Volg de instructies voor het maken van een ondersteuningsaanvraag. 
 
-4. Selecteer op het formulier voor ondersteuningsaanvraag de volgende waarden om uw aanvraag correct te door sturen:
+4. Selecteer op het formulier voor ondersteuningsaanvraag de volgende waarden om uw aanvraag correct te sturen:
 
     -  Selecteer **Problemen met Partner Center** melden en selecteer vervolgens Nieuwe **aanvraag** op de volgende pagina.
 
     -  Vouw de **lijst Type probleem uit** en selecteer Help bij **partnerfactuur, betaling of afstemmingsbestand.** 
 
-5. Vul de vereiste gegevens in en selecteer **Verzenden.** Het Partner Center ondersteuningsteam neemt contact met u op om u te helpen uw abonnement te annuleren.
+5. Vul de vereiste gegevens in en selecteer **verzenden.** Het Partner Center-ondersteuningsteam neemt contact met u op om u te helpen uw abonnement te annuleren.
 
-Als u de status van uw serviceaanvraag wilt controleren, selecteert **Partner Center aanvragen** bij **Ondersteuning** en selecteert u **vervolgens Openen.** Kies de juiste serviceaanvraag in de lijst.  
+Als u de status van uw serviceaanvraag wilt controleren, selecteert **Partner Center aanvragen** van **Ondersteuning** en selecteert u **vervolgens Openen.** Kies de juiste serviceaanvraag in de lijst.  
 
-## <a name="download-your-action-pack-invoice"></a>Uw factuur voor Action Pack downloaden
+## <a name="download-your-action-pack-invoice"></a>Uw factuur Action Pack downloaden
 
-1. Ga naar de [**pagina Lidmaatschapsaanbiedingen.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Selecteer **Microsoft Action Pack-abonnement om** de details van uw abonnement weer te geven. 
+1. Ga naar de [**pagina Lidmaatschapsaanbiedingen.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Selecteer **Microsoft Action Pack om uw** abonnementsgegevens weer te geven. 
 
 3. Selecteer **Factuur downloaden.**
  

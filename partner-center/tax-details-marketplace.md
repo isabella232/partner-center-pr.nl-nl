@@ -7,12 +7,12 @@ ms.subservice: partnercenter-marketplace-publisher
 author: jasongroce
 ms.author: davjan
 ms.date: 06/29/2021
-ms.openlocfilehash: 6f1d0805fab0488739cc35849c2fd5a64db7b35b
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: c534da518ff6663808d5399c268056bb9c33d2fc39fd396bf9154ae0ea83243a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102109"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691716"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Belastinggegevens voor uitgevers van commerciële marketplace
 
