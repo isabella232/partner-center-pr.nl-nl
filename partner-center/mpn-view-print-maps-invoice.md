@@ -9,20 +9,20 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5448932c9016f346f18882ad0070108f684e941
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1d552cef5617c4755d5ded8c80be722e6bd81d5d8ea3817500817828b8b42481
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838135"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694588"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturen en belastingen in de Microsoft Partner Network
 
-**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheer van MPN-partner | Factureringsbeheerders | Beheeragent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeraccount van MPN-| Factureringsbeheerder | Beheeragent
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Uw MPN-lidmaatschapsfactuur weergeven of downloaden
 
-Gebruik de onderstaande stappen om de definitieve factuur voor een order met betrekking tot uw lidmaatschap in de Microsoft Partner Network. Facturen zijn algemeen beschikbaar 10 dagen nadat de betaling is voltooid. Neem contact op met uw regionale servicecentrum voor meer informatie.  
+Gebruik de onderstaande stappen om de definitieve factuur te bekijken of te downloaden voor een order die betrekking heeft op uw lidmaatschap van de Microsoft Partner Network. Facturen zijn algemeen beschikbaar 10 dagen nadat de betaling is voltooid. Neem contact op met uw regionale servicecentrum voor meer informatie.  
 
 U moet een Globale beheerder of MPN-partnerbeheerder zijn om deze procedure uit te voeren. 
 
@@ -39,17 +39,17 @@ U moet een Globale beheerder of MPN-partnerbeheerder zijn om deze procedure uit 
 
 2.  Maak een nieuw ondersteuningsticket. Selecteer Partner Center **serviceaanvragen,** selecteer **Partner Center aanvragen** en selecteer vervolgens **Nieuwe aanvraag.**
 
-3.  Vul het formulier in. Voor het **Type probleem selecteert** u **Kan mijn profiel niet beheren.** Neem uw MPN-id op in de beschrijving.
+3.  Vul het formulier in. Voor het **type probleem selecteert** u **Kan mijn profiel niet beheren.** Neem uw MPN-id op in de beschrijving.
 
-4.  Nadat u het ticket hebt verzonden, ontvangt u via Microsoft een e-mail voor meer informatie. Wanneer u antwoordt, moet u de juiste ondersteunende documentatie voor uw btw-vrijstellingscertificaten bij te dragen.
+4.  Nadat u het ticket hebt verzonden, ontvangt u via Microsoft een e-mail voor meer informatie. Wanneer u antwoordt, voeg dan de juiste ondersteunende documentatie bij voor uw btw-vrijstellingscertificaten.
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Uw btw-nummer naar Microsoft verzenden
 
-1.  Selecteer in Partner Center [dashboard](https://partner.microsoft.com/dashboard/home)de optie **Lidmaatschapsaanbiedingen** en selecteer **vervolgens Beschikbaar.** 
+1.  Selecteer in Partner Center [dashboard](https://partner.microsoft.com/dashboard/home) **lidmaatschapsaanbiedingen** en selecteer vervolgens **Beschikbaar.** 
 
 2.  Selecteer **Uw btw-nummer toevoegen.** 
 
-3.  Voer de btw-id voor uw bedrijf in, selecteer **Toevoegen** en selecteer **vervolgens Volgende.** 
+3.  Voer de btw-id voor uw bedrijf in, **selecteer Toevoegen** en selecteer **vervolgens Volgende.** 
 
 ## <a name="next-steps"></a>Volgende stappen
 

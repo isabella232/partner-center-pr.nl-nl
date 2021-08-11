@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e94a57b6e93c86a24458862a3dd4a6ccc0b14885
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 3102f4881f0aa86b8418ff09a3e430ccaff754cedb65e168ec0c10d5f2e3bbec
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842113"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687861"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Analyse gebruiken voor meer informatie over de omzet van abonnementen
 
@@ -33,9 +33,9 @@ Als u manieren wilt plannen om uw CSP-bedrijf te ontwikkelen, moet u weten hoe u
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>CSP-omzet Twelve-Month (TTM)
 
-Na 12 maanden vertegenwoordigt de CSP-omzet de Cloud Solution Provider programma-omzet in USD op het niveau van een algemeen partneraccount. De gegevens worden vernieuwd op de zesde dag van elke maand, om de twaalfmaands volgende omzet tot de vorige maand weer te geven. Op 9 september 2020 ziet u bijvoorbeeld de TTM voor de vaste periode van september 2019 tot augustus 2020. Softwareabonnementen worden uitgesloten. TTM-omzet weerspiegelt alleen de in aanmerking komende omzet waarvoor de facturen al zijn betaald. 
+Na 12 maanden vertegenwoordigt de CSP-omzet de Cloud Solution Provider programma-omzet in USD op het niveau van een algemeen partneraccount. De gegevens worden elke maand vernieuwd om de twaalfmaandse omzet tot de voorgaande maand weer te geven. Op 9 september 2020 ziet u bijvoorbeeld de TTM voor de vaste periode van september 2019 tot augustus 2020. Softwareabonnementen worden uitgesloten. TTM-omzet weerspiegelt alleen de in aanmerking komende omzet waarvoor de facturen al zijn betaald. 
 
-De omzet die wordt weergegeven Partner Center wordt berekend voor een vast tijdsinterval van 12 maanden en kan niet worden gewijzigd in een korter tijdsbestek.
+De omzet die wordt weergegeven Partner Center wordt berekend voor een vast tijdsinterval van 12 maanden en kan niet worden gewijzigd in een kortere periode.
 
 Een uitsplitsing van de omzet op het niveau van uw partnerlocatieaccount bekijken:
 
@@ -52,7 +52,7 @@ In de onderste helft van het scherm wordt een samenvatting van de abonnementen w
 
 - 30D : afgelopen 30 dagen
 - 3M : afgelopen 3 maanden
-- 6 miljoen : afgelopen 6 maanden
+- 6M : afgelopen 6 maanden
 - 12 miljoen – afgelopen 12 maanden
 
 2. **Producttype:**

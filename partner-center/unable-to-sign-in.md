@@ -4,19 +4,19 @@ ms.topic: troubleshooting
 ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Mogelijke oorzaken oplossen en meer informatie over oplossingen voor wanneer u zich niet kunt aanmelden bij Partner Center - meer informatie over het opnieuw instellen van wachtwoorden, het controleren van rollen en het controleren van referenties.
+description: Los mogelijke oorzaken op en leer oplossingen voor wanneer u zich niet kunt aanmelden bij Partner Center - meer informatie over het opnieuw instellen van wachtwoorden, het controleren van rollen en het controleren van referenties.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d084cbf4def33074cc0ca1aae556004cf67bf555
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: ca80d26483bd49e69cd033ffbddb25347e8d34e72d37a2a864c65b64b0a932e1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100143"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686836"
 ---
-# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Aanmeldingsproblemen voor Partner Center
+# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Problemen met aanmelden voor Partner Center
 
 **Juiste rollen:** alle partners die geïnteresseerd zijn in Partner Center
 
@@ -32,7 +32,7 @@ Lees Uw werk- of schoolwachtwoord opnieuw instellen met beveiligingsgegevens voo
 
 ## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>U kunt de verwachte pagina's of mogelijkheden niet weergeven of beheren in Partner Center
 
-Toegang tot pagina's in Partner Center wordt bepaald door de rollen die aan u zijn toegewezen. Als u wilt controleren aan welke rollen u bent toegewezen, Partner Center u het pictogram Instellingen, selecteert u **Accountinstellingen** en selecteert u vervolgens in Accountinstellingen de optie **Gebruikersbeheer.** Typ in Zoeken uw naam en bekijk de resultaten.
+Toegang tot pagina's in Partner Center wordt bepaald door de rollen die aan u zijn toegewezen. Als u wilt controleren aan welke rollen u bent toegewezen, selecteert u in Partner Center het pictogram Instellingen, selecteert u **Accountinstellingen** en selecteert u vervolgens in Accountinstellingen de optie **Gebruikersbeheer.** Typ uw naam in Zoeken en bekijk de resultaten.
 
 Als u de gewenste competenties, klanten, incentives of gebruikers niet kunt bekijken of beheren, kunt u de volgende oplossingen proberen:
 
@@ -41,7 +41,7 @@ Als u de gewenste competenties, klanten, incentives of gebruikers niet kunt beki
 
 ## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>U kunt uw aanbieding of voordelen niet zien in Partner Center
 
-Controleer of u de juiste referenties gebruikt om u aan te melden. Uw werk- en persoonlijke accounts kunnen er bijvoorbeeld hetzelfde uitzien (zoals ), maar het ene account kan een persoonlijk account zijn dat u hebt gemaakt en een ander kan een zakelijk account zijn dat namens u abc@contoso.com is ingesteld. Als u in dit geval bent aangemeld, maar de verwachte mogelijkheden met betrekking tot MPN, CSP, Commerciële marketplace niet kunt weergeven, selecteert u uw werkaccount.
+Controleer of u de juiste referenties gebruikt om u aan te melden. Uw werk- en persoonlijke accounts kunnen er bijvoorbeeld hetzelfde uitzien (zoals ), maar het ene account kan een persoonlijk account zijn dat u hebt gemaakt en een ander kan een zakelijk account zijn dat namens u abc@contoso.com is ingesteld. Als u bent aangemeld, maar de verwachte mogelijkheden met betrekking tot MPN, CSP, Commercial Marketplace niet kunt bekijken, selecteert u uw werkaccount.
 
 ## <a name="next-steps"></a>Volgende stappen
 

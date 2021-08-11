@@ -4,28 +4,28 @@ ms.topic: how-to
 ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Meer informatie over het toevoegen van een nieuwe locatie en hoe de MPN-id van de locatie wordt gebruikt in incentive-programma's, CSP-bedrijven, abonnementen en andere transacties.
+description: Leer hoe u een nieuwe locatie toevoegt en hoe de MPN-id van de locatie wordt gebruikt in incentive-programma's, CSP-bedrijven, abonnementen en andere transacties.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66ca3a24a810f61eae9feece5e64440fa531cda5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a62c91902f3c82eee9dcc55a340da30433f946cab2da5c07eca9a76d82498cab
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836979"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695237"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Uw MPN-accountlocaties beheren en een locatie toevoegen (verwijderen)
 
 
-**Juiste rollen:** Globale | Accountbeheerder
+**Juiste rollen:** globale | Accountbeheerder
 
-De MPN-id van de locatie identificeert elke specifieke locatie van uw bedrijf. U gebruikt de MPN-id van de locatie om u in te schrijven voor incentive-programma's, om Cloud Solution Provider (CSP) zakelijke transacties en andere zakelijke transacties uit te voeren. De algemene MPN-id wordt gebruikt voor niet-transactionele activiteiten, zoals ondersteuningsaanvragen.
+De MPN-id van de locatie identificeert elke specifieke locatie van uw bedrijf. U gebruikt de MPN-id van de locatie om u in te schrijven bij incentive-programma's, om Cloud Solution Provider(CSP)-bedrijf en andere zakelijke transacties uit te voeren. De algemene MPN-id wordt gebruikt voor niet-transactionele activiteiten, zoals ondersteuningsaanvragen.
 
 ## <a name="the-following-scenario-is-typical"></a>Het volgende scenario is gebruikelijk:
 
-Contoso heeft een Partner Global Account (PGA) in het Vk. De PGA is hun geregistreerde juridische bedrijf en de globale MPN-id wordt gebruikt voor het beheren van alle niet-transactionele bedrijf. Contoso heeft ook partnerlocatieaccounts (PLA) die gelijk zijn aan dochterondernemingen of divisies op een andere locatie in het Vk, Frankrijk en de Verenigde Staten. In de structuur van het MPN-account worden deze PLA's weergegeven als unieke MPN-locatie-ID's. De PLA's worden gebruikt voor transactionele activiteiten zoals CSP of incentives-programma's. Uitbetalingen zijn gekoppeld aan specifieke locaties. 
+Contoso heeft een Partner Global Account (PGA) in het Verenigd Koninkrijk. De PGA is een geregistreerd juridisch bedrijf en de globale MPN-id wordt gebruikt voor het beheren van alle niet-transactionele activiteiten. Contoso heeft ook partnerlocatieaccounts (PLA) die gelijk zijn aan dochterondernemingen of divisies op een andere locatie in het Vk, Frankrijk en de Verenigde Staten. In de structuur van het MPN-account worden deze PLA's weergegeven als unieke LOCATIE-MPN-ID's. De PLA's worden gebruikt voor transactionele activiteiten, zoals CSP of incentives-programma's. Uitbetalingen zijn gekoppeld aan specifieke locaties. 
 
 >[!NOTE]
 >Er is een 1-1-relatie tussen een CSP-tenant en een MPN-locatie-id.
@@ -36,7 +36,7 @@ Contoso heeft een Partner Global Account (PGA) in het Vk. De PGA is hun geregist
 
 Als u een nieuw CSP-bedrijfsaccount wilt toevoegen, moet u er eerst voor zorgen dat u aan de vereisten hebt voldaan.
 
-1. U moet een MPN-locatie-id hebben in het land waar u CSP-zaken wilt doen. Lees 'Een MPN-locatie toevoegen' hieronder om een nieuwe MPN-locatie te maken.
+1. U moet een MPN-locatie-id hebben in het land waar u CSP-zaken wilt doen. Als u een nieuwe MPN-locatie wilt maken, leest u 'Een MPN-locatie toevoegen' hieronder.
   
 1. Als u een nieuwe CSP Indirect Reseller wilt maken, leest [u Werken met indirecte providers](indirect-reseller-tasks-in-partner-center.md#get-started) 
 
@@ -45,7 +45,7 @@ Als u een nieuw CSP-bedrijfsaccount wilt toevoegen, moet u er eerst voor zorgen 
 
 2. Accepteer de Microsoft Partner-overeenkomst en activeer het account.
 
-1. Als u zich wilt inschrijven als partner voor directe factuur, leest [u Vereisten voor directe factuurpartners](direct-partner-new-requirements.md)
+1. Als u zich wilt inschrijven als partner voor directe factuur, leest u [Vereisten voor directe factuurpartners](direct-partner-new-requirements.md)
 
 ## <a name="view-and-update-your-mpn-locations"></a>Uw MPN-locaties weergeven en bijwerken
 
@@ -53,42 +53,42 @@ Als u een nieuw CSP-bedrijfsaccount wilt toevoegen, moet u er eerst voor zorgen 
  
 1. Selecteer in **Instellingen** pictogram **Accountinstellingen,** **Organisatieprofiel,** **Juridisch.** 
 
-1. Controleer op **het tabblad Partner** of er geen bannerfoutbericht wordt weergegeven waarin u wordt gevraagd om gemigreerde locaties van PMC op te lossen.  Als uw locaties niet correct zijn ingesteld in PMC en nog niet naar de pc zijn overgestappen, moet u deze locaties bijwerken.
+1. Controleer op **het tabblad Partner** of er geen bannerfoutbericht wordt weergegeven waarin u wordt gevraagd om gemigreerde locaties van PMC op te lossen.  Als uw locaties niet correct zijn ingesteld in PMC en nog niet zijn overgestappen naar pc, moet u deze locaties bijwerken.
 
 :::image type="content" source="images/locations/location-two.png" alt-text="Schermkapje laat zien hoe u de locatie bij kunt werken.":::
  
 4.  Selecteer in **het scherm PMC-locaties** controleren de optie **Bijwerken.**
 Werk de volgende velden bij:
 
-- **Naamveld:** zorg ervoor dat de naam van de bedrijfslocatie juist is. Als er een duplicaatfout wordt weergegeven, probeert u te wijzigen van bijvoorbeeld Contoso in Contoso, Inc.
+- **Veld Naam:** zorg ervoor dat de naam van de bedrijfslocatie juist is. Als er een dubbele fout wordt weergegeven, probeert u te wijzigen van bijvoorbeeld Contoso in Contoso, Inc.
 
 - **Veld Juridische entiteit:** Zorg ervoor dat u de juridische entiteit hebt gekozen waar de locatie aan is gekoppeld
 
 - **Adresregel 1 & 2 velden:** zorg ervoor dat het adres juist is
 
-- **Velden voor &/provincie:** zorg ervoor dat de combinatie tussen de plaats en de staat/provincie juist is. Er zijn landen waar de vervolgkeuzelijst voor het kiezen van de staat/provincie van toepassing is en in andere landen moet dat veld handmatig worden ingevoegd.
+- **Velden & plaats/provincie:** zorg ervoor dat de combinatie tussen de plaats en de staat/provincie juist is. Er zijn landen waar de vervolgkeuzelijst voor het kiezen van staat/provincie van toepassing is en in andere landen moet dat veld handmatig worden ingevoegd.
 
 - **Postcodeveld: zorg** ervoor dat het postcodeveld overeenkomt met uw aangegeven land, regio, plaats of adres.
 
-- **Velden** met primaire contactgegevens: zorg ervoor dat de velden voor- en achternaam zijn ingevuld en dat het aangegeven e-mailadres een werk-e-mailadres is en geen persoonlijk e-mailadres (bijvoorbeeld @outlook.com , , @live.com enzovoort)
+- **Velden** met primaire contactgegevens: zorg ervoor dat de velden voor- en achternaam zijn ingevuld en dat het aangegeven e-mailadres een werk-e-mailadres is en geen persoonlijk e-mailadres (bijvoorbeeld @outlook.com , @live.com enzovoort)
 
 - **Telefoon getalveld:** zorg ervoor dat het Telefoon geen speciale tekens, spaties of landcode bevat. De waarde die is ingevoerd in Telefoon veld Getal, bevat altijd maximaal 10 tekens.
 
-5. Als er geen foutbericht is, selecteert u **Instellingen** accountaccount, Instellingen **organisatieprofiel,**  **id's.**
+5. Als er geen foutbericht is, selecteert u **Instellingen** in Instellingen **,** **Organisatieprofiel,** **Id's**.
 
-6. Zoek de MPN-id met het type 'Locatie' die overeenkomt met het land van dit CSP-account en gebruik deze om de associatie te voltooien.
+6. Zoek de MPN-id met het type 'Locatie' dat overeenkomt met het land van dit CSP-account en gebruik deze om de associatie te voltooien.
 
 7. Als u de MPN-locatie-id die overeenkomt met het CSP-account dat u wilt gebruiken niet kunt vinden, kunt u een nieuwe locatie toevoegen, waarmee een nieuwe MPN-id wordt gemaakt. Zie **Een MPN-locatie toevoegen** hieronder.
 
 ## <a name="add-an-mpn-location"></a>Een MPN-locatie toevoegen
 
-1. Meld u aan met het MPN-account in Partner Center. (Uw MPN-referenties kunnen verschillen van uw CSP-referenties.) Het MPN-account moet globale beheerders- of accountbeheerdersbevoegdheden hebben. 
+1. Meld u aan met het MPN-account in Partner Center. (Uw MPN-referenties kunnen verschillen van uw CSP-referenties.) Het MPN-account moet de bevoegdheden Globale beheerder of Accountbeheerder hebben. 
 
 1. Selecteer in **Instellingen pictogram** **Accountinstellingen en** selecteer vervolgens **Organisatieprofiel.**
 
 2. Selecteer **Juridisch** en selecteer vervolgens op het **tabblad Partner** de optie **Bedrijfslocaties en** selecteer Een locatie **toevoegen.**
 
-3. Geef de vereiste gegevens op, waaronder de bedrijfsnaam, het adres en de contactpersoon voor de locatie die u aan uw bedrijf wilt toevoegen.
+3. Geef de vereiste gegevens op, zoals de bedrijfsnaam, het adres en de contactpersoon voor de locatie die u aan uw bedrijf wilt toevoegen.
  
 1. Selecteer **Locatie toevoegen.** Hiermee maakt u een nieuwe MPN-id voor de nieuwe locatie die u kunt gebruiken voor CSP-transacties en incentives.
 
@@ -135,11 +135,11 @@ Als u een locatie uit uw account wilt verwijderen, neemt u contact op met [partn
 
 ## <a name="change-country-of-partner-global-account"></a>Land van partneraccount wijzigen 
 
-1. Meld u aan met het MPN-account in Partner Center. (Uw MPN-referenties kunnen verschillen van uw CSP-referenties.) Het MPN-account moet globale beheerders- of accountbeheerdersbevoegdheden hebben. 
+1. Meld u aan met het MPN-account in Partner Center. (Uw MPN-referenties kunnen verschillen van uw CSP-referenties.) Het MPN-account moet de bevoegdheden Globale beheerder of Accountbeheerder hebben. 
 
 2. Ga op **het tabblad Partner** naar Bedrijfslocaties en controleer de lijst met locaties om ervoor te zorgen dat de locatie die u wilt gebruiken als uw juridische entiteit wordt vermeld.  
  
-1. Als u een locatie wilt toevoegen, klikt u op Een locatie toevoegen en geeft u de vereiste gegevens op, waaronder de bedrijfsnaam, het adres en de primaire contactpersoon voor de locatie die u aan uw bedrijf wilt toevoegen. 
+1. Als u een locatie wilt toevoegen, klikt u op Een locatie toevoegen en geeft u in het fly-outvenster de vereiste gegevens op, waaronder de bedrijfsnaam, het adres en de primaire contactpersoon voor de locatie die u aan uw bedrijf wilt toevoegen. 
  
 1. Selecteer **Uw land wijzigen** naast de **vervolgkeuzelijst Land/regio** en volg de stappen. 
 
@@ -151,4 +151,4 @@ Als u een locatie uit uw account wilt verwijderen, neemt u contact op met [partn
   
 ## <a name="next-steps"></a>Volgende stappen
 
-- Meer informatie over [het verificatieproces](verification-responses.md).
+- Meer informatie over het [verificatieproces](verification-responses.md).

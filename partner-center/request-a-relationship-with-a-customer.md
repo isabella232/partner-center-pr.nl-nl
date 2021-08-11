@@ -8,18 +8,18 @@ description: Vraag een relatie aan met een klant voor scenario's met meerdere pa
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9e38c557c2cf1ee87238015971336ca7593aece9798b8b376a60f6a881bce4e5
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844476"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695132"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Een wederverkoper-relatie aanvragen bij een klant in het Partner Center
 
 **Juiste rollen:** beheeragent | Globale beheerder
 
-Als u de service of het abonnement van een klant namens hen wilt beheren, moet de klant u beheerdersmachtigingen voor die service of het abonnement verlenen en de Microsoft-klantovereenkomst.
+Als u de service of het abonnement van een klant namens hen wilt beheren, moet de klant u beheerdersmachtigingen verlenen voor die service of het abonnement en de Microsoft-klantovereenkomst.
 
 Als u een resellerrelatie met een klant tot stand wilt brengen en alleen de Azure-abonnementen wilt beheren die u inrichten, hoeft u geen beheerdersmachtigingen te verkrijgen.
 
@@ -30,9 +30,9 @@ Als u een resellerrelatie met een klant tot stand wilt brengen en alleen de Azur
 
 U kunt een resellerrelatie met een klant aanvragen vanuit uw land of in dezelfde regio.
 
-1. Selecteer **Klanten** in uw **Partner Center** menu en selecteer vervolgens **Een resellerrelatie aanvragen.**
+1. Selecteer **Klanten** in het **menu Partner Center** selecteer vervolgens Een **resellerrelatie aanvragen.**
 
-2. Als u beheerdersmachtigingen wilt aanvragen bij deze klant, selecteert u **Gedelegeerde beheerbevoegdheden** opnemen voor Azure Active Directory en Office 365 . Als u de relatie tot stand wilt brengen zonder beheerdersmachtigingen aan te vragen, schakelt u deze optie uit.
+2. Als u beheerdersmachtigingen wilt aanvragen bij deze klant, selecteert u Gedelegeerde beheerbevoegdheden opnemen voor **Azure Active Directory en Office 365.** Als u de relatie tot stand wilt brengen zonder beheerdersmachtigingen aan te vragen, schakelt u deze optie uit.
 
 3. Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het conceptbericht openen in de standaardtoepassing voor e-mail, of u kunt het bericht kopiëren naar het klembord en in een e-mailbericht plakken.
 
@@ -48,11 +48,11 @@ U kunt een resellerrelatie met een klant aanvragen vanuit uw land of in dezelfde
 6. Als u het account, de services, gebruikers en licenties van de klant wilt beheren, vouwt u de record van de klant uit door de pijl-omlaag bij hun naam te selecteren.
 
 > [!IMPORTANT]  
-> Klanten kunnen beheerdersmachtigingen opnieuw toewijzen of verwijderen in de beheerportal van een service. Tenzij en totdat u uw overeenkomst met de klant hebt gesloten, blijft u echter verantwoordelijk voor het bieden van klantondersteuning en het voldoen aan de voorwaarden van de Microsoft Partner-overeenkomst, zelfs nadat een klant beheerdersmachtigingen opnieuw toewijst of verwijdert. Als de klant in dit geval hulp nodig heeft, kunt u Microsoft Ondersteuning bellen om namens de klant een serviceaanvraag te openen.
+> Klanten kunnen beheerdersmachtigingen opnieuw toewijzen of verwijderen in de beheerportal van een service. Tenzij en totdat u uw overeenkomst met de klant hebt gesloten, bent u echter verantwoordelijk voor het bieden van klantondersteuning en het voldoen aan de voorwaarden van de Microsoft Partner-overeenkomst, zelfs nadat een klant beheerdersmachtigingen opnieuw toewijst of verwijdert. Als de klant in dit geval hulp nodig heeft, kunt u Microsoft Ondersteuning bellen om namens de klant een serviceaanvraag te openen.
 
-## <a name="changes-to-the-customer-invitation-experience"></a>Wijzigingen in de gebruikersuitnodigingservaring
+## <a name="changes-to-the-customer-invitation-experience"></a>Wijzigingen in de klantuitnodigingservaring
 
-De klantervaring voor het accepteren van een uitnodiging voor een resellerrelatie van een Cloud Solution Provider-partner (CSP) wordt gehost door verschillende klantgerichte portals. De locatie van de portal is afhankelijk van of een klant zich in een openbare cloud van Microsoft of een nationale cloud bevindt:
+De klantervaring voor het accepteren van een uitnodiging voor een resellerrelatie van een Cloud Solution Provider (CSP)-partner wordt gehost door verschillende klantgerichte portals. De locatie van de portal is afhankelijk van of een klant zich in een openbare cloud van Microsoft of een nationale cloud bevindt:
 
 |Typen cloudklanten  | Waar accepteert een klant een uitnodiging voor een resellerrelatie? |
 |---------|---------

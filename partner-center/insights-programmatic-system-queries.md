@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9f82907d24a1693097d8c9cfc42094be067639b1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b7778a72f6f314a8150932246034e217ef7789f6cc3cab64211609dd14be046c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840005"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694163"
 ---
 # <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>Lijst met systeemquery's voor programmatische toegang tot partnerinzichten
 
@@ -163,7 +163,7 @@ TIMESPAN LAST_6_MONTHS
 
 ## <a name="cloud-products-reseller-performance"></a>Prestaties van resellers in cloudproducten
 
-### <a name="report-description"></a>Beschrijving van het rapport
+### <a name="report-description"></a>Beschrijving van rapport
 
 Rapport CloudProductsResellerPerformance voor zes maanden
 
@@ -180,7 +180,7 @@ FROM CloudProductsResellerPerformance TIMESPAN LAST_6_MONTHS
 
 ## <a name="clas-agreement-renewal-propensity"></a>Verlenging van CLAS-overeenkomst
 
-ClaSAgreementRenewalsPropensity-rapport voor zes maanden
+Rapport CLASAgreementRenewalsPropensity voor zes maanden
 
 Query-id: `c4fc87ac-4cca-44cd-bf4d-835ac513f9ee`
 
@@ -289,7 +289,7 @@ M365UpsellCustomer,HasGoogle,HasAWS,HasEA,HasOpen
 FROM CLASM365Propensity
 ```
 
-## <a name="teams-usage-3p-apps"></a>Teams Gebruik van 3P-apps
+## <a name="teams-usage-3p-apps"></a>Teams 3P-gebruiksapps
 
 TeamsUsage3PApps-rapport voor zes maanden
 

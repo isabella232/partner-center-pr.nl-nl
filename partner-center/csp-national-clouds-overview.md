@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Meer informatie over hoe Microsoft-partners in het Cloud Solution Provider kunnen verkopen aan klanten die zijn ingeschreven bij ondersteunde nationale clouds.
+description: Ontdek hoe Microsoft-partners in het Cloud Solution Provider kunnen verkopen aan klanten die zijn ingeschreven bij ondersteunde nationale clouds.
 author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f0d4960a10e77481e0b64deeb794446e8daa0022
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d9dd8d050284f51ffe442e868a06ab6fb8565a193de5af347736380b86aa950a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837439"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686632"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Aanmelden voor verkoop in nationale Microsoft-clouds als onderdeel van het CSP-programma
 
@@ -22,7 +22,7 @@ ms.locfileid: "114837439"
 
 **Juiste rollen:** globale beheerder
 
-Gekwalificeerde Microsoft-partners kunnen niet alleen verkopen aan klanten als onderdeel van het wereldwijde Cloud Solution Provider-programma, maar kunnen ook cloudoplossingen verkopen aan klanten in drie afzonderlijke nationale clouds. Nationale clouds zijn fysiek en logisch van het netwerk geïsoleerd exemplaren van Microsoft Enterprise-cloudservices, die beperkt zijn tot de geografische grenzen van specifieke landen en worden beheerd door lokaal personeel.
+Gekwalificeerde Microsoft-partners kunnen niet alleen verkopen aan klanten als onderdeel van het wereldwijde Cloud Solution Provider-programma, maar kunnen ook cloudoplossingen verkopen aan klanten in drie afzonderlijke nationale clouds. Nationale clouds zijn fysieke en logische, op het netwerk geïsoleerde exemplaren van Microsoft Enterprise-cloudservices, die beperkt zijn tot de geografische grenzen van specifieke landen en worden beheerd door lokaal personeel.
 
 Zie Microsoft National Clouds voor meer informatie over nationale cloudaanbiedingen [van Microsoft.](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud)
 

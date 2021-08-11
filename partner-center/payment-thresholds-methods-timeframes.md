@@ -7,12 +7,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 02/02/2021
-ms.openlocfilehash: 51b2ca2ce98789b41014597efd695fc61e7cbada
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 43b4cea49d5a716a5ca1e9bf397fcc105e4d6fc23c1924e537c05ac1d2ee1728
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842067"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694231"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Betalingsdrempels, methoden en tijdsbestek
 

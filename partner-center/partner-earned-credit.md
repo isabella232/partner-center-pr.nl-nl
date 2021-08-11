@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f41fa2ccaf99f4ca46e283a4abb0975fb5195eef
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: fdb6941fe0931000cb74ddc10801c3d05d1e041cdf20b37c44e4e94f487008a8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841331"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687040"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Partnertegoed: een overzicht van hoe het werkt in de nieuwe commerce-ervaring in CSP
 
@@ -26,14 +26,14 @@ Prijzen kunnen lastig zijn voor veel klanten en partners, met name wanneer u rek
 
 De behoeften voor digitale transformatie van onze klanten veranderen de aard van de waarde die partners bieden. Veel klanten kijken naar partners om services te bieden die hoger zijn dan de transactie. Met dergelijke services kunnen ze hun cloudtraject soepeler laten verlopen en kunnen ze Azure-services efficiënt gebruiken. Deze services zijn in gebruik en omvatten azure-estatebewaking, beleids- en governancebeheer, het instellen en afstemmen van de configuratie, technische ondersteuning en verschillende andere services. 
 
-Voor deze services moet een partner zowel zeer vertrouwd zijn met de Azure-omgeving van de klant als continue en juiste governance en controle hebben over de onderliggende resources die ze beheren. Factureringspartners die deze 24 x 7 activiteiten voor cloudbewerkingsbeheer bieden, komen in aanmerking voor partnertegoed voor **services** die worden beheerd op de Azure-estate van de klant die wordt beheerd en beheerd door de partner.
+Voor deze services moet een partner zowel zeer vertrouwd zijn met de Azure-omgeving van de klant als continue en juiste governance en controle hebben over de onderliggende resources die ze beheren. Factureringspartners die deze 24 x 7 cloudbewerkingsbeheeractiviteit leveren, komen in aanmerking voor partnertegoed voor **services** die worden beheerd op de Azure-estate van de klant die wordt beheerd en beheerd door de partner.
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>Voordelen van het partnertegoed voor partners en klanten
 
 - Klanten kunnen hun Azure-infrastructuurbeheer en -facturering uitbesteed aan hun vertrouwde partner, zodat ze zich kunnen richten op hun core business.
 
-- Klanten werken samen met een partner die investeert in beheerde services in Azure die helpen kostenefficiëntie en operationele efficiëntie bij het gebruik van Azure te verhogen.
+- Klanten werken samen met een partner die investeert in beheerde services in Azure om kostenefficiëntie en operationele efficiëntie bij het gebruik van Azure te vergroten.
 
 - Partners worden beloond omdat ze hun klanten een robuuste portfolio met beheerde services in Azure bieden.  
 
@@ -45,9 +45,9 @@ Wanneer klanten overstappen op cloud-computingplatforms, moeten ze niet alleen e
 
 Uw klanten kijken naar u om hen te helpen het meeste uit hun bedrijf te halen dat in Azure wordt gehost. Met beheerde services kunt u uw klanten regelmatig voorzien van een white-glove-service. Enkele van de dagelijkse bewerkingen en ondersteuning die u mogelijk biedt, zijn:
 
-- **Cloudbewerkingen en -beheerservices:** Klanten kijken naar Microsoft-partners om de kosten in Azure te verlagen terwijl ze de isolatie, beveiligingsbeleid en controlemodellen die ze momenteel hebben, reproduceren. Ze verwachten ook dat partners toegang hebben tot volwassen hulpprogramma's voor het identificeren van de geschiktheid van workloads, de een time-implementatie en de lopende operationele kosten van Azure. Daarnaast hebben klanten ondersteuning nodig voor automatisering en indeling, patchupdates, configuratiebeheer, back-up en herstel na noodherstel en identiteitsbeheer. 
+- **Services voor cloudbewerkingen** en -beheer: klanten kijken naar Microsoft-partners om de kosten in Azure te verlagen en tegelijkertijd de isolatie, het beveiligingsbeleid en de controlemodellen die ze momenteel hebben te reproduceren. Ze verwachten ook dat partners toegang hebben tot volwassen hulpprogramma's voor het identificeren van de geschiktheid van workloads, de een time-implementatie en de lopende operationele kosten van Azure. Daarnaast hebben klanten ondersteuning nodig voor automatisering en indeling, patchupdates, configuratiebeheer, back-up en herstel na noodherstel en identiteitsbeheer. 
 
-- **Cloudbewaking en technische ondersteuning:** In een wereld van cloudverbruik zijn de hulpprogramma's en vereisten veranderd, maar de zorg voor het vinden van de juiste resource voor het beheren van de IT-infrastructuur is niet gewijzigd. De meeste organisaties hebben niet de tijd, resources of toegewezen medewerkers die nodig zijn om elk aspect van IT te bewaken. Dit is waar u, als vertrouwde partner, de meeste waarde toevoegt. Hoewel Azure veel ingebouwde bewakingsmogelijkheden biedt, bieden partners die aanvullende, uitgebreidere hulpprogramma's voor bewaking bieden, de fout-positieven op de echte waarschuwingen afsneert en proactief reageren op de waarschuwingen voordat meetbaar prestatieverlies nodig is. 
+- **Cloudbewaking en technische ondersteuning:** In een wereld van cloudverbruik zijn de hulpprogramma's en vereisten veranderd, maar de zorg voor het vinden van de juiste resource voor het beheren van de IT-infrastructuur is niet gewijzigd. De meeste organisaties hebben niet de tijd, resources of toegewezen medewerkers die nodig zijn om elk aspect van IT te bewaken. Dit is waar u, als vertrouwde partner, de meeste waarde toevoegt. Hoewel Azure veel ingebouwde bewakingsmogelijkheden biedt, bieden partners die aanvullende, uitgebreidere bewakingshulpprogramma's bieden, de fout-positieven van de echte waarschuwingen ops afweten en proactief reageren op de waarschuwingen voordat meetbaar prestatieverlies nodig is. 
 
 
 ### <a name="included-in-monitoring-and-technical-support"></a>Opgenomen in bewaking en technische ondersteuning:
@@ -56,7 +56,7 @@ Uw klanten kijken naar u om hen te helpen het meeste uit hun bedrijf te halen da
 
 - **Logboekanalyse en waarschuwingen:** elke client, elk apparaat en elke gebruiker die toegang heeft tot een netwerk produceert gegevens die worden geregistreerd. Het analyseren van logboeken kan meer inzicht bieden in prestaties, beveiliging, resourceverbruik en andere zinvolle metrische gegevens.
 
-- **Databasebewaking:** een weergave van de database van de klant waarmee partners zorgen voor hoge beschikbaarheid van databaseservers. Het proces omvat het bewaren van logboeken van grootte, verbindingstijd en gebruikers van databases, analyseren van gebruikstrends en het gebruik van gegevens om proactief problemen op te lossen.
+- **Databasebewaking:** een weergave van de database van de klant waarmee partners een hoge beschikbaarheid van databaseservers kunnen garanderen. Het proces omvat het bewaren van logboeken van grootte, verbindingstijd en gebruikers van databases, analyseren van gebruikstrends en het gebruik van gegevens om proactief problemen op te lossen.
 
 - **Bewaking van** app-prestaties: end-to-end tracering van alle aspecten van een toepassing (of webpagina). App-bewaking omvat het bekijken van elk onderdeel, van winkelwagens tot registratiepagina's, van de app(s) van een klant op prestatieproblemen om de best mogelijke gebruikerservaring te bieden.
 
@@ -65,7 +65,7 @@ Meer informatie over het uitbreiden van uw [portfolio met beheerde services met 
 Deze services brengen een geschikt toegangsniveau voor partners tot de Azure-omgeving van de klant met zich mee en ons commercesysteem meet de toegangsgegevens om het verdiende tegoed van de partner te berekenen.  
 
 >[!Note]
->Klanten hebben de mogelijkheid om toegang tot de partners te verwijderen. Partners mogen klanten niet verplichten om hen de juiste toegang te geven voor het enige doel van het verdienen van partnertegoeden van Microsoft. Als de partner niet voldoet aan deze vereiste, komt deze mogelijk niet in aanmerking voor het verdienen van partnertegoed.
+>Klanten hebben de mogelijkheid om toegang tot de partners te verwijderen. Partners mogen klanten niet verplichten om hen de juiste toegang te geven voor het enige doel van het verdienen van partnertegoeden van Microsoft. Als de partner niet voldoet aan deze vereiste, komt deze mogelijk niet in aanmerking voor het verdienen van partnertegoeden.
 
 ## <a name="next-steps"></a>Volgende stappen
 

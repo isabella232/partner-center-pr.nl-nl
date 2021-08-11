@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: a6d578c2ad09e1f8bb03f520d659f1a9b1e199a9
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 35210907bfdb45c491cf08c531543b2ea91a2d214bbab085aa1d367e3168ff2a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684250"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695370"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Uitbetalings- en belastingprofielen voor incentives maken en beheren in Partner Center
 
@@ -84,7 +84,7 @@ In de onderstaande secties wordt u door het proces voor het maken en beheren van
 
     - Als uw MPN-locatie-id wordt betaald door een lokale Microsoft-dochteronderneming voor een bepaald incentive-programma en LRD(limited risk distributor) tegoednota als betalingswijze toestaat, wordt uw betalingsprofiel vooraf ingevuld met de betalingswijze LRD Credit Note. In de rij LRD credit note payment method voor het respectieve  incentive-programma en de locatie-MPN-id ziet u Bevestigd of **Verificatie nodig** als de status in de sectie betalingsprofiel.
     
-       Selecteer **Verificatie nodig om** de details van de CSP-tenant-id die zijn gekoppeld aan de MPN-locatie en betalingswijze te bevestigen en te controleren om de betaling van de tegoednota te ontvangen. Controleer en **controleer in het dialoogvenster Details** van tegoednota's of de opgegeven CSP-tenant-id en -details juist zijn. Als u meer dan één tenant-id krijgt, selecteert u zorgvuldig de CSP-tenant-id waarvoor u betalingen wilt ontvangen. Selecteer vervolgens Bevestigen **om te** bevestigen dat uw bedrijfsgegevens juist zijn en dat de incentive-betaling moet worden verricht aan de CSP-tenant-id die u hebt geselecteerd.
+       Selecteer **Verificatie nodig om** de details van de CSP-tenant-id die zijn gekoppeld aan de MPN-locatie en betalingswijze te bevestigen en te controleren om de betaling van de tegoednota te ontvangen. Controleer en **controleer in het dialoogvenster Details** van tegoednota's of de opgegeven CSP-tenant-id en -details juist zijn. Als u meer dan één tenant-id krijgt, selecteert u zorgvuldig de CSP-tenant-id waarop u betalingen wilt ontvangen. Selecteer vervolgens Bevestigen **om te** bevestigen dat uw bedrijfsgegevens juist zijn en dat de incentive-betaling moet worden verricht aan de CSP-tenant-id die u hebt geselecteerd.
  
       Als de status **Bevestigd is,** is de toewijzing van de CSP-tenant-id voltooid en is er geen verdere actie vereist. U kunt nog steeds Bevestigen selecteren om de details van de toewijzing weer te geven.
    
@@ -120,7 +120,7 @@ U kunt standaardbankprofielen instellen en deze toewijzen aan MPN-locaties. Deze
 
 ## <a name="create-your-bank-profile"></a>Uw bankprofiel maken
 
-Bankprofielen worden gemaakt op bedrijfsniveau. Hierdoor kan één bankprofiel worden toegewezen aan meerdere MPN-id's en incentive-programma's binnen een bedrijf. Er kunnen uitzonderingen zijn bij het toepassen van het bankprofiel op verschillende landen, omdat er verschillende bank- en belastingregels van toepassing kunnen zijn.
+Bankprofielen worden gemaakt op bedrijfsniveau. Hierdoor kan één bankprofiel worden toegewezen aan meerdere MPN-id's en incentive-programma's binnen een bedrijf. Er kunnen uitzonderingen zijn bij het toepassen van het bankprofiel op verschillende landen, omdat er mogelijk verschillende bank- en belastingregels van toepassing zijn.
 
 >[!NOTE]
 >Op de volgende pagina's zijn velden met een sterretje vereist. Als u niet weet wat een veld is, selecteert u het informatiepictogram. 
@@ -139,7 +139,7 @@ Bankprofielen worden gemaakt op bedrijfsniveau. Hierdoor kan één bankprofiel w
 
 6. Wanneer de velden zijn ingevuld, selecteert **u Voltooien** en vervolgens **Bevestigen om** uw bankprofiel te maken.
 
-U wordt omgeleid naar de pagina **Uitbetalings- en belastingprofielen.** De status van uw nieuwe profiel is In afwachting van **Microsoft-validatie** totdat de validatie is voltooid. Dit proces kan tot 48 uur duren. Zodra de validatie is voltooid, wordt in uw profiel de status **Goedgekeurd of** Actie **vereist weergegeven.** Als **actie vereist is,** herhaalt u de bovenstaande stappen en geeft u de benodigde informatie op. 
+U wordt omgeleid naar de pagina **Uitbetalings- en belastingprofielen.** De status van uw nieuwe profiel is In **afwachting van Microsoft-validatie** totdat de validatie is voltooid. Dit proces kan tot 48 uur duren. Zodra de validatie is voltooid, wordt in uw profiel de status **Goedgekeurd of** Actie **vereist weergegeven.** Als **actie vereist is,** herhaalt u de bovenstaande stappen en geeft u de benodigde informatie op. 
 
 ## <a name="create-your-tax-profile"></a>Uw belastingprofiel maken
 

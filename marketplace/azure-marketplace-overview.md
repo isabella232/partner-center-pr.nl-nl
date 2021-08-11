@@ -1,92 +1,92 @@
 ---
-title: Overzicht van Azure Marketplace
-description: Meer informatie over de online winkel voor Azure Marketplace en hoe u software en oplossingen kunt vinden en uitproberen.
+title: Azure Marketplace overzicht
+description: Meer informatie over Azure Marketplace online winkel en hoe u software en oplossingen kunt vinden en uitproberen.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.custom: contperf-fy21q3
 ms.date: 03/09/2021
-ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 8942f319c408ac6277601b25c25e72eaec34c321308311de3259527c3a170a51
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103486918"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686728"
 ---
 # <a name="what-is-azure-marketplace"></a>Wat is Azure Marketplace?
 
-[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) is een online winkel met duizenden IT-software toepassingen en-services die zijn gebouwd door toonaangevende technologie bedrijven. In azure Marketplace kunt u de software en services zoeken, uitproberen, kopen en implementeren die u nodig hebt om nieuwe oplossingen te bouwen en uw Cloud infrastructuur te beheren. De catalogus bevat oplossingen voor verschillende branches en technische gebieden, gratis proef versies en ook advies services van micro soft-partners.
+[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) is een online winkel die duizenden IT-softwaretoepassingen en -services bevat die zijn gebouwd door toonaangevende technologiebedrijven. In Azure Marketplace u de software en services die u nodig hebt om nieuwe oplossingen te bouwen en uw cloudinfrastructuur te beheren, te vinden, te proberen, te kopen en te implementeren. De catalogus bevat oplossingen voor verschillende branches en technische gebieden, gratis proefversies en adviesservices van Microsoft-partners.
 
-## <a name="find-what-you-need-in-azure-marketplace"></a>Vind wat u nodig hebt in azure Marketplace
+## <a name="find-what-you-need-in-azure-marketplace"></a>Zoek wat u nodig hebt in Azure Marketplace
 
-Azure Marketplace biedt eenvoudige Zoek-en filter opties om snel te vinden wat u zoekt. Gebruik de zoek balk boven aan de pagina om oplossingen te zoeken op leverancier, product naam of tref woorden.
+Azure Marketplace biedt eenvoudige zoek- en filteropties om snel te vinden wat u zoekt. Gebruik de zoekbalk bovenaan de pagina om oplossingen te vinden op leverancier, productnaam of trefwoorden.
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Toont het hoofd venster van Azure Marketplace, waarin u kunt kiezen of u wilt zoeken in apps of Consulting Services.":::
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Toont het hoofdvenster Azure Marketplace, waarin u kunt kiezen of u door Apps of Adviesservices wilt bladeren.":::
 
-Bij het verkennen van de app-Galerie gebruikt u de filters bovenaan om de resultaten te beperken op basis van de beschik baarheid van een gratis proef versie of test drive, besturings systeem, uitgever, prijs model of product type.
+Wanneer u de app-galerie verkent, gebruikt u de filters bovenaan om de resultaten te beperken op basis van de beschikbaarheid van een gratis proefversie of test drive, besturingssysteem, uitgever, prijsmodel of producttype.
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-filters.png" alt-text="Hiermee worden de filters boven aan het venster van Azure Marketplace weer gegeven.":::
+:::image type="content" source="media/azure-marketplace/azure-marketplace-filters.png" alt-text="Geeft filters weer boven aan het Azure Marketplace venster.":::
 
-In het deel venster links kunt u de catalogus filteren op categorieën, zoals analyses, beveiliging, netwerken, opslag en DevOps. Selecteer een categorie om de beschik bare subcategorieën weer te geven.
+In het meest linkse deelvenster kunt u de catalogus filteren op categorieën zoals analyses, beveiliging, netwerken, opslag en DevOps. Selecteer een categorie om de beschikbare subcategorieën weer te geven.
 
-:::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="Geeft categorieën weer met subcategorieën.":::
+:::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="Toont categorieën met subcategorieën.":::
 
-Azure Marketplace vereenvoudigt aanschaf van software en IT-beheer (met de verschillende prijs opties en meerdere implementatie methoden) om u te voorzien van flexibiliteit om te voldoen aan uw unieke zakelijke behoeften. Daarnaast stroomlijnt de aanschaf met standaard contract overeenkomsten, geconsolideerde facturering en facturering, en gecentraliseerd abonnements beheer. De Azure Marketplace-catalogus is beschikbaar via de online winkel en via de Azure Portal.
+Azure Marketplace vereenvoudigt de aanschaf van software en IT-beheer (met hun verschillende prijsopties en meerdere implementatiemethoden) om u flexibiliteit te bieden om te voldoen aan uw unieke bedrijfsbehoeften. Het stroomlijnt ook de aanschaf met standaardcontractovereenkomsten, geconsolideerde facturering en facturering en gecentraliseerd abonnementsbeheer. De Azure Marketplace catalogus is beschikbaar in de online winkel en via de Azure Portal.
 
-## <a name="microsoft-preferred-solutions"></a>Voorkeurs oplossingen van micro soft
+## <a name="microsoft-preferred-solutions"></a>Voorkeursoplossingen van Microsoft
 
-Bij het zoeken naar of filteren van de catalogus, kunnen de resultaten van micro soft voorkeurs oplossingen zijn, die worden geïdentificeerd door middel van de logo van de voor keuren in de rechter benedenhoek van de app-kaart of de badge op de detail pagina van het product.
+Bij het zoeken of filteren van de catalogus kunnen resultaten oplossingen van de voorkeur van Microsoft bevatten, die worden geïdentificeerd via de badge met voorkeursoplossingen in de rechteronderhoek van de app-kaart of de badge op de productdetailpagina.
 
-:::image type="content" source="media/azure-marketplace/preferred-solution-badge.png" alt-text="Hiermee wordt de badge met de voorkeurs provider van Azure Marketplace weer gegeven.":::
+:::image type="content" source="media/azure-marketplace/preferred-solution-badge.png" alt-text="Geeft de Azure Marketplace providerbadge weer.":::
 
-De aanbevolen oplossingen zijn geselecteerd door een team van micro soft-experts en worden gepubliceerd door micro soft-partners met uitgebreide, bewezen expertise en mogelijkheden om specifieke behoeften van klanten in een categorie, branche of branche verticaal aan te pakken.
+Voorkeursoplossingen worden geselecteerd door een team van Microsoft-experts en worden gepubliceerd door Microsoft-partners met uitgebreide, bewezen expertise en mogelijkheden om te voldoen aan specifieke behoeften van klanten in een categorie, branche of branche verticaal.
 
 ## <a name="search-in-the-azure-portal"></a>Zoeken in de Azure Portal
 
-Selecteer in de Azure Portal **+ een resource maken** of zoek naar Marketplace. Blader vervolgens door de categorieën aan de linkerkant of gebruik de zoek balk, die een filter functie bevat.
+Selecteer in Azure Portal + **Een resource maken** of zoek naar 'marketplace'. Blader vervolgens door de categorieën aan de linkerkant of gebruik de zoekbalk, die een filterfunctie bevat.
 
 :::image type="content" source="media/azure-marketplace/azure-portal.png" alt-text="Apps kiezen in de Azure Portal.":::
 
-Advies Services zijn alleen beschikbaar in de online winkel, niet op de Azure Portal.
+Adviesservices zijn alleen beschikbaar in de online winkel, niet in Azure Portal.
 
 ## <a name="take-action-on-a-listing"></a>Actie ondernemen voor een vermelding
 
-Actie ondernemen voor een vermelding door een of meer van de volgende opties te selecteren:
+Onderneemt actie op een lijst door een of meer van de volgende opties te selecteren:
 
-- **Nu downloaden** : Koop de oplossing direct.
-- **Test station** – Bekijk een demo met een curator. Voor test stations is geen configuratie vereist. Ze bieden u de mogelijkheid om te bepalen of de oplossing voldoet aan uw bedrijfs behoeften zonder uw productie gegevens of-omgeving te gebruiken.
-- **Gratis proef versie** : Hiermee gaat u naar de website van de software leverancier om een gratis proef versie te starten
-- **Contact opnemen** : vraag de uitgever om contact met u op te nemen, zodat u de oplossing rechtstreeks van hen kunt aanschaffen.
+- **Nu kopen:** koop de oplossing onmiddellijk.
+- **Test Drive:** verken een gecureerde demo. Voor teststations is geen configuratie vereist. U kunt bepalen of de oplossing voldoet aan de behoeften van uw bedrijf zonder gebruik te maken van uw productiegegevens of -omgeving.
+- **Gratis proefversie:** brengt u naar de website van de softwareprovider om een gratis proefversie te krijgen
+- **Neem contact met mij** op. Vraag de uitgever om contact met u op te nemen, zodat u de oplossing rechtstreeks bij hen kunt aanschaffen.
 
-:::image type="content" source="media/azure-marketplace/icon-take-action.png" alt-text="Een voor beeld van de knop actie ondernemen.":::
+:::image type="content" source="media/azure-marketplace/icon-take-action.png" alt-text="Een voorbeeld van een knop Actie ondernemen.":::
 
-## <a name="purchasing-requirements"></a>Vereisten voor aankoop
+## <a name="purchasing-requirements"></a>Aankoopvereisten
 
-Als u software wilt implementeren vanuit Azure Marketplace, hebt u een actief Azure-abonnement met een bijbehorende betalings methode nodig. Als u nog geen Azure-abonnement hebt wanneer u een aanbieding opent, wordt u gevraagd om er een te maken. Dit is gratis.
+Als u software van Azure Marketplace hebt u een actief Azure-abonnement met een bijbehorende betalingswijze nodig. Als u nog geen Azure-abonnement hebt wanneer u een aanbieding gebruikt, wordt u gevraagd om er een te maken. Dit is gratis.
 
-Er zijn een aantal opties voor betaling:  
+Voor betaling zijn er een aantal opties:  
 
 - Creditcard
-- Factuur (met bestaande micro soft-aankoop overeenkomst)
+- Factuur (met bestaande Microsoft-aankoopovereenkomst)
 
-Azure Marketplace-aankopen worden automatisch toegevoegd aan uw Azure-factuur en worden in rekening gebracht op basis van de betalings wijze die aan het account is gekoppeld. Voor hulp bij het koppelen van verschillende betalings accounts raadpleegt u [account type voor facturering controleren](/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) in het onderwerp **Azure External charges** .
+Azure Marketplace worden automatisch toegevoegd aan uw Azure-factuur en in rekening gebracht op de betalingswijze die aan het account is gekoppeld. Zie Type factureringsrekening controleren [in](/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) het onderwerp Externe **Azure-kosten** voor hulp bij het koppelen van verschillende betalingsaccounts.
 
 ## <a name="certification-and-security"></a>Certificering en beveiliging
 
-Elk product dat beschikbaar is op Azure Marketplace, is gecertificeerd volgens specifieke criteria. We raden u aan om elk product zorgvuldig te bekijken, zodat u zeker weet dat het voldoet aan de unieke vereisten van uw organisatie. Zie het beleid voor commerciële Marketplace- [certificerings](/legal/marketplace/certification-policies)instanties voor meer informatie over het certificerings beleid dat we voor elk type aanbieding bekijken.
+Elk product dat beschikbaar is in Azure Marketplace is gecertificeerd volgens specifieke criteria. We raden u nog steeds aan om elk product zorgvuldig te bekijken om ervoor te zorgen dat het voldoet aan de unieke vereisten van uw organisatie. Zie het certificeringsbeleid voor de commerciële marketplace voor meer informatie over het certificeringsbeleid dat voor elk aanbiedingstype [wordt beoordeeld.](/legal/marketplace/certification-policies)
 
 ## <a name="terms-and-conditions"></a>Voorwaarden
 
-De software leverancier definieert de prijs, de gebruiksrecht overeenkomst en het privacybeleid. Elk aanbod op Azure Marketplace bevat koppelingen naar de gebruiksrecht overeenkomst en het privacybeleid van de uitgever. Het bevestigen van deze overeenkomsten, en het weer geven van een kans om ze te bekijken, maakt deel uit van de inkoop stroom. Zie [juridische contracten](legal-contracts.md) voor meer informatie.
+De softwareleverancier definieert de prijs, de gebruikslicentieovereenkomst en het privacybeleid. Elke aanbieding op Azure Marketplace bevat koppelingen naar de licentieovereenkomst en het privacybeleid van de uitgever. Het bevestigen van deze overeenkomsten en het hebben van de mogelijkheid om ze weer te geven, maakt deel uit van de aankoopstroom. Zie [Juridische contracten](legal-contracts.md) voor meer informatie.
 
 ## <a name="ratings-and-reviews"></a>Beoordelingen en recensies
 
-Elke product pagina bevat beoordelingen en beoordelingen van andere klanten. Classificaties gebruiken een schaal van vijf sterren en de gemiddelde beoordeling wordt weer gegeven op elke kaart. Verbatim revisies zijn ook beschikbaar, zodat u meer te weten kunt komen over andere ervaringen van klanten. Zodra u een oplossing hebt aangeschaft, kunt u een beoordeling achterlaten en kunnen andere klanten beslissingen nemen.
+Elke productpagina bevat beoordelingen en beoordelingen van andere klanten. Classificaties gebruiken een schaal van 5 sterren en de gemiddelde classificatie wordt weergegeven op elke aanbiedingskaart. Er zijn ook verbatimbeoordelingen beschikbaar, zodat u meer te weten kunt komen over andere klantervaringen. Nadat u een oplossing hebt aangeschaft, kunt u ook een beoordeling en beoordeling verlaten om andere klanten te helpen bij het nemen van beslissingen.
 
-:::image type="content" source="media/azure-marketplace/app-reviews.png" alt-text="Een voor beeld van app-Beoordelingen.":::
+:::image type="content" source="media/azure-marketplace/app-reviews.png" alt-text="Een voorbeeld van app-beoordelingen.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Azure Marketplace-aankopen](azure-purchasing-invoicing.md)
+- [Azure Marketplace aanschaffen](azure-purchasing-invoicing.md)
 - [Wat is Microsoft AppSource?](appsource-overview.md)

@@ -8,12 +8,12 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 61a4a4d21aa2c9ba28c373e7a112c81a785c43e1e37bf696deb77434516a9e7c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151879"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687768"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Documenten maken en verzenden voor uw incentives proof of execution (PoE)
 
@@ -29,9 +29,9 @@ Voordat u wordt betaald voor uw incentives-werk, moet u een gedetailleerd bewijs
 
 3. Selecteer in de sectie **Plannen** het gewenste plan. De statuspagina voor dit plan wordt geopend.
 
-4. Zoek in **de** sectie Campagnes de want-activiteit.
+4. Zoek in **de sectie** Campagnes de want-activiteit.
 
-5. Selecteer PoE **toevoegen in** de kolom Bewijs **van uitvoering.**
+5. Selecteer In de **kolom Bewijs van uitvoering** de optie **PoE toevoegen.**
 
 6. Voer op **de pagina Nieuw bewijs van uitvoering** de vereiste velden in.
 
@@ -51,10 +51,10 @@ Voordat u wordt betaald voor uw incentives-werk, moet u een gedetailleerd bewijs
 9. Wanneer u klaar bent, selecteert u **Claim maken**.
 
 10. Upload een van de volgende twee documenten op de pagina **Factuur- en onkostengegevens**:
-    - **Factuur van derden**  Selecteer in **het veld Factuur van derden** de optie Bestanden slepen of bladeren om te **uploaden.** Voeg de factuur en de vereiste factuurgegevens toe en selecteer **vervolgens Opslaan.**
+    - **Factuur van derden**  Selecteer in **het veld Factuur van derden** de optie Bestanden slepen of bladeren om te **uploaden.** Voeg de factuur en de vereiste factuurgegevens toe en selecteer vervolgens **Opslaan.**
     - **Rapport certificeringsservice**  Selecteer **Certificeringsservicerapport toevoegen.** Vul op **de pagina Een certificeringsservicerapport** genereren de vereiste velden in en selecteer **opslaan.**
 
-11. U kunt indien nodig **ook Bewijsdocumenten** uploaden. Selecteer in **het veld Documenten bewijs** de optie Bestanden slepen of bladeren om te **uploaden.** Als u Bewijsdocumenten selecteert, moet u verklarende opmerkingen toevoegen. Als u dat hebt gedaan, selecteert u **Opslaan**.
+11. U kunt indien nodig **ook Bewijsdocumenten** uploaden. Selecteer in **het veld Documenten bewijs** de optie Bestanden slepen of bladeren om te **uploaden.** Als u Documenten bewijs selecteert, moet u verklarende opmerkingen toevoegen. Als u dat hebt gedaan, selecteert u **Opslaan**.
 
 12. Voer eventuele laatste opmerkingen in voordat u uw PoE indient en selecteer **vervolgens Claim indienen.**
 

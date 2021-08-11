@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ed4e14e5e0e0855dd09e91325ed46610c3acae
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 0efe19164cad5cc31ddac3767b97f26ff01bc4c69e35fe3eb84708b0f86c1b80
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840090"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687440"
 ---
 # <a name="download-reports"></a>Rapporten downloaden
 
@@ -51,7 +51,7 @@ De volgende rapporten kunnen worden gedownload:
 
 **Office 365: licentiegebruik bevat** de gebruiksgegevens van Office 365 licenties die worden verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
-**Enterprise Mobility – Licentiegebruik bevat de**  gebruiksgegevens van Enterprise Mobility-licenties die worden verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals MAU, gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
+**Enterprise Mobility : licentiegebruik bevat de**  gebruiksgegevens van Enterprise Mobility-licenties die worden verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals MAU, gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
 **Dynamics 365 – Licentiegebruik bevat** de gebruiksgegevens van D365-licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals MAU, gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
@@ -61,7 +61,7 @@ De volgende rapporten kunnen worden gedownload:
 
 **Microsoft Learn** informatie over de modules, voltooiingsdetails van het leertraject en gebruikersgegevens voor de partner.
 
-**Competenties : samenvatting en geschiedenis** bevat details van alle competenties die actief, in uitvoering of risico lopen voor deze partner. Bevat ook de geschiedenis van alle competenties die door de partner zijn behaald.
+**Competenties: samenvatting en geschiedenis** bevat details van alle competenties die actief, in uitvoering of risico lopen voor deze partner. Bevat ook de geschiedenis van alle competenties die door de partner zijn behaald.
 
 **Competenties : prestatiedetails** bieden gedetailleerde informatie over hoe de partner het doet met betrekking tot de Key Performance Indicators (KPI's) voor het bereiken van een bepaalde set competenties.
 

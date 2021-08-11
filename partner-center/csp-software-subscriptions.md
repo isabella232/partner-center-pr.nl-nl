@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 162de08f0114d24cc72d21387ca004e7901c15a2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f773910c3bf32979158401c78753a3c4478a6908d5085c446c168b6382fdf044
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844714"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694197"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Software-abonnementen verkopen via het Cloud Solution Provider (CSP)-programma
 
@@ -24,7 +24,7 @@ Met Azure-reserveringen en serverabonnementen (Windows Server- en SQL Server-abo
 
 U kunt nu Azure-reserveringen en Server-abonnementen namens commerciële klanten verkrijgen, inrichten en beheren via Partner Center en de Azure Portal door gebruik te maken van de Azure Hybrid Benefit.
 
-Met Azure Hybrid Benefit kunt u meer waarde uit uw Windows Server-licenties halen en tot wel 40 procent besparen op virtuele machines. U kunt het voordeel gebruiken met licenties Windows Server Datacenter en Standard Edition die worden gedekt Software Assurance. Afhankelijk van de editie kunt u uw licenties converteren of opnieuw gebruiken om virtuele machines van Windows Server in Azure uit te voeren en een lager basisrekentarief te betalen (bijvoorbeeld tarieven voor virtuele Linux-machines).
+Met Azure Hybrid Benefit kunt u meer waarde uit uw Windows Server-licenties halen en tot wel 40 procent besparen op virtuele machines. U kunt het voordeel gebruiken met licenties Windows Server Datacenter en Standard Edition die onder de Software Assurance. Afhankelijk van de editie kunt u uw licenties converteren of opnieuw gebruiken om virtuele Windows Server-machines in Azure uit te voeren en een lager basisrekentarief te betalen (bijvoorbeeld tarieven voor virtuele Linux-machines).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Niet-beschikbare markten voor Azure-reserveringen
 
@@ -85,7 +85,7 @@ Softwareabonnementen kopen namens een klant:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Software-abonnementen activeren en beheren
 
-Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (partners die Partner Center; klanten die het Microsoft 365-beheer Center gebruiken). Gebruik de volgende procedure om dit te doen. Het is belangrijk om inzicht te krijgen in de risico's die gepaard gaan met het kopiëren van koppelingen en het downloaden van software. Zie Using **Partner Center to obtain customer software downloads and license keys** in de Partner Center New Commerce Operations Guide voor meer [informatie.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (partners die Partner Center; klanten die het Microsoft 365-beheer Center gebruiken). Gebruik de volgende procedure om dit te doen. Het is belangrijk om de risico's te begrijpen die gepaard gaan met het kopiëren van koppelingen en het downloaden van software. Zie Using **Partner Center to obtain customer software downloads and license keys** in de Partner Center New Commerce Operations Guide voor meer [informatie.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 >[!NOTE]
 >U moet een beheerderagent in Partner Center om de koppeling naar sleutels en downloads te verkrijgen.
@@ -129,7 +129,7 @@ Voor controle- of nalevingsdoeleinden moet u mogelijk een lijst controleren met 
 U kunt een software-aankoop binnen 30 dagen na de aankoopdatum annuleren. Als u binnen deze periode van 30 dagen annuleert, worden er geen kosten voor vroegtijdige beëindiging in rekening gebracht. Na 30 dagen kunt u een aankoop niet meer annuleren. (Zie Opmerking voor belangrijke beperkingen voor deze annuleringsregel. Zie ook Belangrijke opmerking na deze stappen voor meer informatie over wat er gebeurt nadat u een software-aankoop hebt geannuleerd.) 
 
 >[!NOTE]
->De volgende stappen voor het annuleren van een aankoop zijn alleen van toepassing op software die in aanmerking komt voor annulering binnen een specifiek annuleringsvenster, zoals binnen de eerste 30 dagen na de aankoop. Deze stappen zijn ook niet van toepassing op een SUSE Linux- of RedHat-softwareplan in Azure. Op dit moment kunt u een SUSE- of RedHat-softwareplan niet annuleren of uitwisselen. [Meer informatie over](/azure/virtual-machines/linux/prepay-suse-software-charges) het gebruik van SUSE Linux- of RedHat-abonnementen.
+>De volgende stappen voor het annuleren van een aankoop zijn alleen van toepassing op software die in aanmerking komt voor annulering binnen een specifiek annuleringsvenster, zoals binnen de eerste 30 dagen na de aankoop. Deze stappen zijn ook niet van toepassing op een SUSE Linux- of RedHat-softwareplan in Azure. Op dit moment kunt u een SUSE- of RedHat-softwareplan niet annuleren of uitwisselen. [Meer informatie over](/azure/virtual-machines/linux/prepay-suse-software-charges) het gebruik van SUSE Linux- of RedHat-plannen.
 
 Volg de onderstaande stappen om een aankoop te annuleren:
 
@@ -175,13 +175,13 @@ Nadat u een aankoop hebt geannuleerd:
 
 - Het geannuleerde item wordt nog steeds weergegeven op de pagina Softwaredetails van de klant, maar de activeringssleutel is niet beschikbaar.
 
-- Er wordt een tegoed voor de geannuleerde order weergegeven op uw volgende maandelijkse factuur. Doorlopende software ontvangt een tegoed van 100% en softwareabonnementen ontvangen een pro 100%-tegoed.
+- Er wordt een tegoed voor de geannuleerde order weergegeven op uw volgende maandelijkse factuur. Permanente software ontvangt een tegoed van 100% en softwareabonnementen ontvangen een pro 100%-tegoed.
 
 ### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Een klantondersteuningsaanvraag indienen om een aankoop te annuleren
 
-Als u hebt geprobeerd een software-aankoop via Partner Center te annuleren, maar u wordt gevraagd meer informatie op te geven en een klantondersteuningsaanvraagformulier in te vullen, kunnen deze stappen u helpen:
+Als u hebt geprobeerd een software-aankoop via Partner Center annuleren, maar u wordt gevraagd meer informatie op te geven en een klantondersteuningsaanvraagformulier in te vullen, kunnen deze stappen u helpen:
 
-1. Wanneer u de koppeling **klantondersteuningsaanvraag selecteert** in het venster Aankoop annuleren, wordt de pagina Een probleem melden **Partner Center** geopend.
+1. Wanneer u de koppeling **klantondersteuningsaanvraag selecteert** in het venster Aankoop annuleren, wordt de pagina Een probleem **melden Partner Center** geopend.
 
 2. Selecteer **onder Details** in de lijst Type probleem de optie **CSP Purchase/Refund namens klanten**.
 

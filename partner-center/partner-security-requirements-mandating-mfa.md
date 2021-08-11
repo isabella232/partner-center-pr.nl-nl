@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c29e59118f4b50cd25fbe0f1560519bb178768e2
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 7224edb3d0cf04161739a31e537f4c9649cee375112a532b0a53503841c4add7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101253"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694496"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Meervoudige verificatie (MFA) voor uw partner-tenant verplichten
 
@@ -26,9 +26,9 @@ Dit artikel bevat gedetailleerde voorbeelden en richtlijnen voor het bepalen van
 - [Partnercentrum-API](#partner-center-api)
 - [Gedelegeerd beheer van partners](#partner-delegated-administration)
 
-Grotere en voortdurende beveiliging en privacybeveiliging staan bij onze prioriteiten en we blijven partners helpen hun klanten en tenants te beschermen. Alle partners die deelnemen aan het Cloud Solution Provider(CSP)-programma, Configuratiescherm Vendors (CPV's) en Advisors moeten de [beveiligingsvereisten](partner-security-requirements.md) van de partner implementeren om compatibel te blijven.
+Betere en voortdurende beveiliging en privacybeveiliging staan bij onze prioriteiten en we blijven partners helpen hun klanten en tenants te beschermen. Alle partners die deelnemen aan het Cloud Solution Provider(CSP)-programma, Configuratiescherm Vendors (CPV's) en advisors moeten de [beveiligingsvereisten](partner-security-requirements.md) van partners implementeren om compatibel te blijven.
 
-Om partners te helpen hun bedrijf en klanten te beschermen tegen identiteitsdiefstal en onbevoegde toegang, hebben we extra beveiligingsbeveiliging geactiveerd voor partnertenten die MFA verplichten en verifiëren. 
+Om partners te helpen hun bedrijf en klanten te beschermen tegen identiteitsdiefstal en onbevoegde toegang, hebben we extra beveiligingsbeveiliging geactiveerd voor partnertentens die MFA verplichten en verifiëren. 
 
 ## <a name="partner-center-dashboard"></a>Partner Center dashboard
 
@@ -44,7 +44,7 @@ In de volgende tabel ziet u welke gebruikerstypen zijn gemachtigd voor toegang t
 | Pagina met MFA-bescherming       | Beheerdersagents      |  Verkoopmedewerkers     |   Helpdeskmedewerkers     | Globale beheerder      |  Factureringsbeheerder     | 
 |---    |---    |---    |---    |---    |---    |
 | Alle pagina's op het tabblad Klanten      |   x    |    x   |  x     |       |       |
-| Alle pagina's onder het tabblad > aanvragen van klanten     | x      |       |    x   |       |       |
+| Alle pagina's onder het tabblad > klantenaanvragen     | x      |       |    x   |       |       |
 | Pagina Facturering     |   x    |       |       |    x   |   x    |
 
 Als u toegang probeert te krijgen tot een van deze pagina's en u de MFA-verificatie nog niet eerder hebt voltooid, moet u dit doen. Andere pagina's Partner Center, zoals de pagina Overzicht, Service Health pagina Statuscontrole vereist geen MFA.
@@ -65,11 +65,11 @@ Als u wilt laten zien hoe verificatie werkt in Partner Center dashboard, kunt u 
 
 ### <a name="example-2-partner-has-implemented-third-party-mfa-using-identity-federation"></a>Voorbeeld 2: Partner heeft externe MFA geïmplementeerd met behulp van identiteitsfederatie
 
-1. Het werkt voor CSP Wingtip. Wingtip heeft MFA geïmplementeerd voor al hun gebruikers onder wingtip-partner tenant met behulp van MFA van derden, dat is geïntegreerd met Azure AD via identiteitsfederatie.
+1. Het werkt voor CSP Wingtip. Wingtip heeft MFA geïmplementeerd voor al hun gebruikers onder De tenant van de Wingtip-partner met behulp van MFA van derden, dat via identiteitsfederatie is geïntegreerd met Azure AD.
 
-2. Hiermee start u een nieuwe browsersessie en navigeert u naar Partner Center overzichtspagina van het dashboard (die niet met MFA is beveiligd). Partner Center omgeleid Naar Azure AD om u aan te melden.
+2. Hiermee start u een nieuwe browsersessie en navigeert u naar Partner Center overzichtspagina van het dashboard (die niet met MFA is beveiligd). Partner Center omgeleid naar Azure AD om u aan te melden.
 
-3. Omdat Wingtip identiteitsfederatie heeft ingesteld, leidt Azure ADMpt om naar de federatief-id-provider om aanmelding en MFA-verificatie te voltooien. Na een geslaagde aanmelding en MFA-verificatie wordt Hij teruggeleid naar Azure AD en vervolgens naar Partner Center dashboardoverzichtspagina.
+3. Omdat Wingtip identiteitsfederatie heeft ingesteld, leidt Azure ADMpt om naar de federatief-id-provider om aanmelding en MFA-verificatie te voltooien. Na een geslaagde aanmelding en MFA-verificatie wordt Hij teruggeleid naar Azure AD en vervolgens naar Partner Center dashboardpagina.
 
 4. Er wordt geprobeerd toegang te krijgen tot een van de pagina's met MFA-Partner Center. Omdat Dev al MFA-verificatie heeft voltooid tijdens het aanmelden, heeft Hij toegang tot de met MFA beveiligde pagina zonder dat MFA-verificatie opnieuw moet worden uitgevoerd.
 
@@ -139,11 +139,11 @@ WWW-Authenticate: Bearer error="invalid_token"
 Date: Thu, 14 Feb 2019 21:54:58 GMT
 ```
 
-Wanneer App-Only verificatie wordt gebruikt, werken de API's die ondersteuning bieden App-Only verificatie continu zonder MFA te vereisen.
+Wanneer App-Only verificatie wordt gebruikt, werken de API's die ondersteuning bieden App-Only verificatie continu zonder MFA.
 
 ## <a name="partner-delegated-administration"></a>Gedelegeerd beheer van partners
 
-Partneraccounts, waaronder beheerdersagents en helpdeskmedewerkers, kunnen hun gedelegeerde beheerdersbevoegdheden van partners gebruiken om klantresources te beheren via Microsoft Online Services-portals, cli (opdrachtregelinterface) en API's (met behulp van App+User-verificatie).
+Partneraccounts, waaronder beheerders en helpdeskmedewerkers, kunnen hun gedelegeerde beheerdersbevoegdheden van partners gebruiken om klantresources te beheren via Microsoft Online Services-portals, cli (opdrachtregelinterface) en API's (met behulp van App+User-verificatie).
 
 ### <a name="using-service-portals"></a>Serviceportals gebruiken
 
@@ -153,7 +153,7 @@ Wanneer Azure AD dergelijke verificatieaanvragen ontvangt, moet het partneraccou
 
 - Als het partneraccount een **beheerde** identiteit is, wordt de gebruiker rechtstreeks door Azure AD gevraagd om de MFA-verificatie te voltooien. Als het partneraccount niet eerder is geregistreerd voor MFA bij Azure AD, wordt de gebruiker gevraagd om eerst de [MFA-registratie te](#mfa-registration-experience) voltooien.
 
-- Als het partneraccount een **federatief** identiteit is, is de ervaring afhankelijk van hoe de partnerbeheerder federatie in Azure AD heeft geconfigureerd. Bij het instellen van federatie in Azure AD kan de partnerbeheerder aan Azure AD aangeven of de federatie-id-provider MFA ondersteunt of niet. Als dat het zo is, wordt de gebruiker door Azure AD omgeleid naar de federatief-id-provider om de MFA-verificatie te voltooien. Anders wordt de gebruiker rechtstreeks door Azure AD gevraagd om de MFA-verificatie te voltooien. Als het partneraccount niet eerder is geregistreerd voor MFA bij Azure AD, wordt de gebruiker gevraagd om eerst de [MFA-registratie te](#mfa-registration-experience) voltooien.
+- Als het partneraccount een **federatief** identiteit is, is de ervaring afhankelijk van hoe de partnerbeheerder federatie heeft geconfigureerd in Azure AD. Bij het instellen van federatie in Azure AD kan de partnerbeheerder aan Azure AD aangeven of de federatie-id-provider MFA ondersteunt of niet. Zo ja, dan wordt de gebruiker door Azure AD omgeleid naar de federatief-id-provider om de MFA-verificatie te voltooien. Anders wordt de gebruiker rechtstreeks door Azure AD gevraagd om de MFA-verificatie te voltooien. Als het partneraccount niet eerder is geregistreerd voor MFA bij Azure AD, wordt de gebruiker gevraagd om eerst de [MFA-registratie te](#mfa-registration-experience) voltooien.
 
 De algehele ervaring is vergelijkbaar met het scenario waarin een eindklantten tenant MFA heeft geïmplementeerd voor de beheerders. De tenant van de klant heeft bijvoorbeeld [standaardinstellingen](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)voor Azure AD-beveiliging ingeschakeld, waarvoor alle accounts met beheerdersrechten zijn vereist om zich aan te melden bij de tenant van de klant met MFA-verificatie, inclusief beheerdersagents en helpdeskmedewerkers. Voor testdoeleinden kunnen partners de [standaardinstellingen](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) voor Azure AD-beveiliging inschakelen in de tenant van de klant en vervolgens proberen gedelegeerde beheerdersbevoegdheden van de partner te gebruiken om toegang te krijgen tot de tenant van de klant.
 
@@ -235,7 +235,7 @@ Een partner heeft MFA geïmplementeerd voor hun gebruikers met behulp van een MF
 
 - De inkooporder van de MFA-oplossing van derden die u gebruikt of die u wilt gebruiken.
 
-## <a name="how-to-submit-a-request-for-technical-exception"></a>Een aanvraag indienen voor technische uitzonderingen
+## <a name="how-to-submit-a-request-for-technical-exception"></a>Een aanvraag indienen voor een technische uitzondering
 
 Partners kunnen een technische uitzondering aanvragen om MFA-verificatie te onderdrukken als ze technische problemen ondervinden met Microsoft Online Services en er geen haalbare oplossing of tijdelijke oplossing is. Bekijk voordat u dit doet de [lijst met veelvoorkomende problemen](#list-of-common-issues) in de vorige sectie.
 

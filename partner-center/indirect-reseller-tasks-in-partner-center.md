@@ -9,12 +9,12 @@ ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
 ms.date: 01/27/2021
-ms.openlocfilehash: ab99fc400f7392d43785457f817e0469f7f2c077
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2822d8c20841f647de8d1f4ab8ef3f41e116a1bd3aa2944f2c5f101d242604e9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840141"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686455"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Meer informatie over het samenwerken met indirecte providers in het Cloud Solution Provider programma
 
@@ -22,7 +22,7 @@ ms.locfileid: "114840141"
 
 - Globale beheerder
 
-De snel groeiende vraag naar cloudoplossingen en -services biedt Microsoft-partners van elke omvang veel mogelijkheden om voordelige cloudoplossingsbedrijven te bouwen. Partners die klaar zijn om de markt op te gaan, maar die niet meerdere leveranciers willen beheren of die mogelijk geen end-to-end infrastructuur voor klantrelatiebeheer hebben, kunnen zich als indirecte resellers inschrijven voor het programma Cloud Solution Provider (CSP) van Microsoft.
+De snel groeiende vraag naar cloudoplossingen en -services biedt Microsoft-partners van elke omvang veel mogelijkheden om voordelige cloudoplossingsbedrijven te bouwen. Partners die klaar zijn om de markt op te gaan, maar die niet meerdere leveranciers willen beheren, of die mogelijk geen end-to-end infrastructuur voor klantrelatiebeheer hebben, kunnen zich als indirecte resellers inschrijven voor het Cloud Solution Provider-programma (CSP) van Microsoft.
 
 Als indirecte reseller in CSP werkt u met indirecte providers (ook wel distributeurs genoemd) die een directe relatie met Microsoft hebben en u klantondersteuning en facturering kunnen bieden. Werken met indirecte providers betekent dat u niet zelf hoeft te beginnen. In plaats daarvan kunt u samenwerken met een ervaren technologieprovider om uw succes te garanderen. In het model provider-reseller (twee lagen) koopt de provider cloudoplossingen en -services van Microsoft. Vervolgens verkoopt u deze opnieuw aan klanten.
 
@@ -30,7 +30,7 @@ Verschillende indirecte providers bieden verschillende ondersteuning en services
 
 - Technische training en hulp bieden
 - U helpen uw producten en services op de markt te brengen
-- Hulp bij het opstellen van de voorwaarden voor het maken van tegoeden
+- Hulp bij het opstellen van voorwaarden voor tegoeden en tegoeden
 
 Als u nog niet met een provider werkt (ook wel bekend als distributor), kunt u in de lijst met officiële [Microsoft-providers](https://partnercenter.microsoft.com/partner/find-a-provider) zoeken naar een provider.
 
@@ -72,7 +72,7 @@ Vanaf oktober 2020 worden alle Microsoft-partners die nieuw zijn bij CSP, als in
    De primaire contactpersoon is de persoon in uw bedrijf met wie we contact kunnen opnemen over uw toepassing. Dit kan u of een andere persoon in uw bedrijf zijn. Opmerking: we accepteren geen e-mailadressen van webgebaseerde e-mailservices zoals Gmail, Yahoo! Mail, iCloud Mail, AOL Mail of Outlook Mail.
 
    > [!IMPORTANT]  
-   > Om de beveiliging en privacy van uw bedrijf te waarborgen, sturen we een e-mail naar uw primaire contactpersoon om te controleren of (1) hij of zij zich heeft aangemeld voor een Partner Center-account en (2) dat dit e-mailadres bij uw bedrijf hoort. Nadat de primaire contactpersoon zijn of haar e-mailadres heeft geverifieerd, gaan we verder met het controleren van de informatie die u hebt opgegeven. De updates van de inschrijvingsstatus worden per e-mail verzonden naar de primaire contactpersoon.
+   > Om de beveiliging en privacy van uw bedrijf te waarborgen, sturen we een e-mail naar uw primaire contactpersoon om te controleren of (1) hij of zij zich heeft aangemeld voor een Partner Center-account en (2) dat dit e-mailadres bij uw bedrijf hoort. Nadat de primaire contactpersoon zijn of haar e-mailadres heeft geverifieerd, gaan we verder met het controleren van de informatie die u hebt opgegeven. We sturen updates van de inschrijvingsstatus per e-mail naar de primaire contactpersoon.
 
 5. Koppel uw MPN-id aan uw CSP-account. Uw CSP-account en de bijbehorende MPN-id moeten zich in hetzelfde land bevinden en uw MPN-id moet zich in hetzelfde Partner Center.
   
@@ -89,7 +89,7 @@ Vanaf oktober 2020 worden alle Microsoft-partners die nieuw zijn bij CSP, als in
    > [!IMPORTANT]
    > Selecteer de MPN-id die beschikbaar is in Partner Center en in hetzelfde land als uw CSP-account en zorg ervoor dat uw MPN-id zich in de Partner Center.
 
-6. Nadat Microsoft uw registratieverificatie heeft voltooid die 3-5 werkdagen duurt, ondertekent u de Microsoft Partner-overeenkomst in het overzicht van Partner Center [dashboard](https://partner.microsoft.com/pcv/dashboard/overview) met de referenties van de globale beheerder. Als u de Microsoft Partner-overeenkomst wilt **weergeven** en downloaden voordat u deze ondertekent, klikt u op Microsoft Partner-overeenkomst koppeling zoals hieronder wordt weergegeven.  Als uw account na vijf werkdagen vastloopt in de verificatie, leest u [Het verificatieproces voor het account.](verification-responses.md)
+6. Nadat Microsoft uw inschrijvingsverificatie heeft voltooid die 3-5 werkdagen duurt, ondertekent u de Microsoft Partner-overeenkomst in het overzicht Partner Center [dashboard](https://partner.microsoft.com/pcv/dashboard/overview) met de referenties van de globale beheerder. Als u de Microsoft Partner-overeenkomst wilt **weergeven** en downloaden voordat u deze ondertekent, klikt u op Microsoft Partner-overeenkomst koppeling, zoals hieronder wordt weergegeven.  Als uw account na vijf werkdagen vastloopt in de verificatie, leest u [Het verificatieproces voor het account.](verification-responses.md)
 
    :::image type="content" source="images/agreement-three.png" alt-text="Nieuwe locatie van MPA-overeenkomst.":::
 
@@ -101,7 +101,7 @@ Vanaf oktober 2020 worden alle Microsoft-partners die nieuw zijn bij CSP, als in
 
    1. Selecteer in Partner Center dashboard het pictogram **Instellingen** en selecteer vervolgens onder **Accountinstellingen** de optie **Gebruikersbeheer.**
 
-   2. Selecteer uw naam in de lijst met gebruikers. Selecteer vervolgens **Beheeragent** als deze nog niet is geselecteerd. Selecteer **Update**.
+   2. Selecteer uw naam in de lijst met gebruikers. Selecteer vervolgens **Beheeragent** als dit nog niet is geselecteerd. Selecteer **Update**.
 
 ## <a name="connect-with-an-indirect-provider"></a>Verbinding maken met een indirecte-provider
 
@@ -111,7 +111,7 @@ Als u nog niet met een provider werkt (ook wel bekend als distributor), kunt u i
 
 Als een indirecte provider verbinding met u wil maken op de Partner Center, starten ze de volgende werkstroom:
 
-1. De indirecte provider e-mailt u een uitnodiging om hen te machtigen om uw indirecte provider te zijn. Het e-mailbericht bevat een koppeling naar Partner Center en koppelt uw account aan het account van de provider.
+1. De indirecte provider e-mailt u een uitnodiging om hen te machtigen uw indirecte provider te zijn. Het e-mailbericht bevat een koppeling naar Partner Center en koppelt uw account aan het account van de provider.
 
 2. Als u de uitnodiging wilt accepteren, volgt u de koppeling in het e-mailadres van de provider. Mogelijk moet u zich opnieuw aanmelden bij de Partner Center.
 

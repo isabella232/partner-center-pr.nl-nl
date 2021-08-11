@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c346e5e680fdd0b0b82715160b238e1e6b6a9a9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2fcdc1cb46a87baa7aacf61269fed18f95f3c93b4a9889af0ee22fefa0db5ce8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838628"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690423"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gebruikers en gebruikerslicenties voor klantaccounts beheren 
 
@@ -40,7 +40,7 @@ U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-mult
 
 3. Selecteer gebruikers en licenties in het menu **van de klant.**
 
-4. Voor elke gebruiker die u toevoegt, selecteert u **Abonnement toevoegen** en vult u de gegevens in, inclusief machtigingen en licenties. U moet vervolgens de wijzigingen **Opslaan**.
+4. Selecteer abonnement toevoegen voor elke gebruiker die u toevoegt **en** vul de gegevens in, inclusief machtigingen en licenties. U moet vervolgens de wijzigingen **Opslaan**.
 
 5. Zorg ervoor dat u de gebruikersnaam en het tijdelijke wachtwoord vastrecordt die u naar de gebruiker wilt verzenden.
 
@@ -69,7 +69,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 
 <a href="" id="resetpassword"></a>
 
-## <a name="reset-a-users-password-for-a-customer"></a>Het wachtwoord van een gebruiker voor een klant opnieuw instellen
+## <a name="reset-a-users-password-for-a-customer"></a>Het wachtwoord van een gebruiker opnieuw instellen voor een klant
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard) van het Partnercentrum.
 
@@ -77,7 +77,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 
 3. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
 
-4. Selecteer wachtwoord opnieuw instellen onderaan het **scherm.** 
+4. Selecteer onder aan het scherm Wachtwoord **opnieuw instellen.** 
 
 5. Verzend het nieuwe tijdelijke wachtwoord naar de gebruiker.
 
@@ -85,7 +85,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Gebruikersaccounts voor een klant verwijderen
 
-1. Selecteer klanten **Partner Center** het menu **.** Kies de klant in de lijst.
+1. Selecteer in **Partner Center** menu **Klanten.** Kies de klant in de lijst.
 
 2. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
 

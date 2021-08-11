@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8749bdc1c2249f97d5db288f953eded1c4c06b02
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 19a11126f1d1830210f6bb92007a3eecfa4468796fea3a7730a3729e5ce7bc24
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843167"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695807"
 ---
 # <a name="trainings-dashboard"></a>Trainingsdashboard
 
@@ -56,7 +56,7 @@ De sectie Prestaties van personen bevat de details van de training die door pers
 :::image type="content" source="images/insights/training-dashboard-individual-performance.png" alt-text="Afzonderlijke prestaties.":::
 
 >[!NOTE] 
-> De prestatiesectie Individuen is alleen beschikbaar voor gebruikers die leidinggevende rapportgebruikers zijn. 
+> De sectie Individuele prestaties is alleen beschikbaar voor gebruikers die leidinggevende rapportgebruikers zijn. 
 
 ## <a name="next-steps"></a>Volgende stappen
 

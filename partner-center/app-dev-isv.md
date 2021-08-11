@@ -1,5 +1,5 @@
 ---
-title: Uitzondering voor het competentieexamen voor toepassingsontwikkeling
+title: Uitzondering voor het competentieexamen toepassingsontwikkeling
 ms.topic: article
 ms.date: 05/01/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9f124443aa67bad37a5e9aff0d0bdbbdc0ca8c3015720b960d7b18dd6ce4cbc4
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838645"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687941"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Uitzondering voor eendtijdige examenvereisten voor de competentie Toepassingsontwikkeling
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Een een time-exam requirements exemption for the Application Development competency (Uitzonderingen voor eendtijdige examenvereisten voor de competentie Toepassingsontwikkeling)
 
 **Juiste rollen:** Globale | MPN-partnerbeheerder
 
@@ -24,7 +24,7 @@ Als u de nu gestopte ISV-competentie hebt bereikt en een van de volgende scenari
 
 Partners met een ISV-competentie:
 
-- **Uw ISV-competentie is** verlopen: de een time-exam requirements-uitzondering is beschikbaar in Partner Center vanaf 22 november 2019. U hebt 30 dagen om te profiteren van de aanbieding. Meld u aan Partner Center voor specifieke informatie voor uw bedrijf.
+- **Uw ISV-competentie** is verlopen: de een time-exam requirements-uitzondering is beschikbaar in Partner Center vanaf 22 november 2019. U hebt 30 dagen om te profiteren van de aanbieding. Meld u aan Partner Center voor specifieke informatie voor uw bedrijf.
 
 - **Uw competentielidmaatschap is in** het verlengingsvenster: de een time-exam requirements-uitzondering is beschikbaar in Partner Center vanaf 22 november 2019. U hebt 30 dagen om te profiteren van de aanbieding. Meld u aan Partner Center voor specifieke informatie voor uw bedrijf.
 
@@ -32,7 +32,7 @@ Partners met een ISV-competentie:
 
 Partners met een toepassingsontwikkelingscompetentie die is bereikt via het CERTIFICAAT-IP-pad:
 
-- **Als u een vermelding op de commerciële marketplace** van Microsoft hebt, is de uitzondering voor uw een time-examenvereisten beschikbaar op het moment dat u uw competentie vernieuwt. Op dat moment hebt u 30 dagen om te profiteren van de aanbieding.
+- **Als u een vermelding in de commerciële marketplace** van Microsoft hebt, is de uitzondering voor uw een time-examenvereisten beschikbaar op het moment dat u uw competentie vernieuwt. Op dat moment hebt u 30 dagen om te profiteren van de aanbieding.
 
 - **Als u geen [](https://azure.microsoft.com/overview/commercial-marketplace/) vermelding op** de commerciële marketplace van Microsoft hebt, publiceert u uw oplossing voor februari 2020 om in aanmerking te komen voor de uitzondering voor een een time-examenvereisten.
 
@@ -47,7 +47,7 @@ Partners met een toepassingsontwikkelingscompetentie die is bereikt via het CERT
 
 Deze aanbieding is beschikbaar via Partner Center.
 
-Als u hulp nodig hebt bij het verkrijgen van uw aanbieding of vragen hebt over uw geschiktheid voor deze aanbieding, neem dan contact op [met de ondersteuning van de partner.](https://partner.microsoft.com/Support) 
+Als u hulp nodig hebt bij het verkrijgen van uw aanbieding of vragen hebt over uw geschiktheid voor deze aanbieding, neem dan contact op met [de ondersteuning van de partner.](https://partner.microsoft.com/Support) 
 
 ## <a name="frequently-asked-questions"></a>Veelgestelde vragen
 
@@ -61,10 +61,10 @@ U kunt de competentievoordelen van Toepassingsontwikkeling bekijken op de websit
 
 **Wat gebeurt er wanneer het tijd is dat ik mijn competentie vernieuw wanneer ik deze aanbieding krijg?** 
 
-Binnenkort delen we meer informatie over onze plannen voor ISV's en bieden we hulp aan partners die de competentie Toepassingsontwikkeling hebben als gevolg van deze aanbieding.**  
+Binnenkort delen we meer informatie over onze plannen voor ISV's en bieden we richtlijnen aan partners die de competentie Toepassingsontwikkeling hebben als gevolg van deze aanbieding.**  
 
 **Hoe kan ik deze aanbieding krijgen als mijn bedrijf niet over de ISV-competentie heeft?**
 
-Deze aanbieding is alleen beschikbaar voor in aanmerking komende partners: degenen met de ISV-competentie of de competentie Toepassingsontwikkeling via het CERTIFICAAT-IP-pad. We overwegen momenteel uitgebreide oplossingen voor de korte en lange termijn voor het leveren van ISV's en zullen binnenkort meer informatie delen. 
+Deze aanbieding is alleen beschikbaar voor in aanmerking komende partners: degenen met de ISV-competentie of de competentie Toepassingsontwikkeling via het CERTIFICAAT-IP-pad. We overwegen momenteel uitgebreide oplossingen voor de korte en lange termijn voor het leveren van ISV's en delen binnenkort meer informatie. 
 
 

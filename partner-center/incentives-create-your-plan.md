@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c46f34a0b4b1873c3cca9b64f42848b2051bf6338ccb121b48f8979729f12703
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842322"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694911"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Een marketingplan genereren voor uw incentives-programma
 
@@ -44,7 +44,7 @@ Zie uw programmahandleiding voor meer informatie Incentives-programma plannen vo
 
 6. Wanneer de informatie op deze pagina juist is, selecteert u **Nieuwe campagne.**
 
-7. Vul de vereiste velden in op **de pagina Nieuwe campagne** en selecteer **opslaan.**
+7. Vul de vereiste velden in op **de pagina Nieuwe campagne** en selecteer opslaan. 
 
 8. Selecteer op de pagina Status de optie **Nieuwe activiteit**. 
 
@@ -82,9 +82,9 @@ U moet uw plan maken en indienen op uiterlijk de laatste dag van het jaar waarin
 
 Microsoft betaalt u elke maand op basis van uw inkomsten en de limieten van uw plan. Betalingen vinden plaats op de vijftiende dag van de volgende maand.
 
-Als uw plan bijvoorbeeld is goedgekeurd voor $ 10.000 en u $ 5.000 hebt verdiend in de maand april, ontvangt u $ 5.000 op 15 mei.
+Als uw abonnement bijvoorbeeld is goedgekeurd voor $ 10.000 en u $ 5.000 hebt verdiend in de maand april, ontvangt u $ 5.000 op 15 mei.
 
-Als u onder hetzelfde plan $ 15.000 verdient in de maand april, ontvangt u $ 10.000 op 15 mei omdat $ 10.000 de limiet voor uw plan was. Als u meer wilt ontvangen, moet u de limiet van uw plan verhogen voor de volgende maand.
+Als u onder hetzelfde abonnement $ 15.000 verdient in de maand april, ontvangt u $ 10.000 op 15 mei omdat $ 10.000 de limiet voor uw plan was. Als u meer wilt ontvangen, moet u de limiet van uw plan verhogen voor de volgende maand.
 
 ## <a name="next-steps"></a>Volgende stappen
 

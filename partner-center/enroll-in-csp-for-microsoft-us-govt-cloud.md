@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 2cdcf88d765ab37200e0e62bdbff2bbc8d26027d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 03e01f2de5625c0f27d79158d950cef6cd2256e572a6302a973a4fc1c5ba3a1a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844289"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686615"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registreren in het Cloud Solution Provider-programma voor Microsoft Cloud for US Government
 
@@ -29,16 +29,16 @@ Microsoft Cloud for US Government biedt een privé, toegewezen en geïsoleerd ex
 
 ## <a name="before-you-begin"></a>Voordat u begint
 
-Voordat u zich kunt registreren voor het CSP-programma voor Microsoft Cloud for US Government, moeten we controleren of uw bedrijf voldoet aan de vereisten voor verkoop aan Amerikaanse overheidsentiteiten. Voordat u het inschrijvingsproces start, vult u het [formulier Microsoft Government Cloud Validation in,](https://azuregov.microsoft.com/csp) zodat we de geschiktheid van uw bedrijf kunnen controleren. Nadat we hebben gecontroleerd of uw bedrijf in aanmerking komt, bieden we u een Azure Active Directory(Azure AD)-tenant die specifiek is voor de Microsoft Cloud for US Government.  
+Voordat u zich kunt registreren voor het CSP-programma voor Microsoft Cloud for US Government, moeten we controleren of uw bedrijf voldoet aan de vereisten voor verkoop aan Amerikaanse overheidsentiteiten. Voordat u het inschrijvingsproces start, vult u het formulier Cloudvalidatie van [Microsoft Government in,](https://azuregov.microsoft.com/csp) zodat we de geschiktheid van uw bedrijf kunnen controleren. Nadat we hebben gecontroleerd of uw bedrijf in aanmerking komt, bieden we u een Azure Active Directory-tenant (Azure AD) die specifiek is voor de Microsoft Cloud for US Government.  
 
 Als u een Partner Center-account wilt maken en u wilt inschrijven bij CSP voor Microsoft Cloud for US Government, moet u de volgende informatie verstrekken (mogelijk wilt u deze informatie verzamelen voordat u het inschrijvingsproces start):
 
 - Globale beheerdersreferenties voor de nieuwe Azure AD-tenant van uw organisatie voor Microsoft Cloud for US Government
-- De MPN-id (Microsoft Partner Network) van uw organisatie
+- De MPN-Microsoft Partner Network van uw organisatie
 - Een bedrijfsadres in de Verenigde Staten
 
 > [!IMPORTANT]  
-> Als u een bestaand account in Partner Center hebt en u zich wilt inschrijven in CSP voor Microsoft Cloud for US Government, moet u een nieuw, afzonderlijk account maken voor de Amerikaanse overheidsmarkt.
+> Als u een bestaand account in Partner Center hebt en u zich wilt registreren in CSP voor Microsoft Cloud for US Government, moet u een nieuw, afzonderlijk account maken voor de Amerikaanse overheidsmarkt.
 
 ## <a name="how-to-enroll"></a>Inschrijven
 

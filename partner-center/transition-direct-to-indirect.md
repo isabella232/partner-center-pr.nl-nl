@@ -9,19 +9,19 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17f0a23814213805d239d887719c5c3885234390
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: d3b7983a46ba81c7122057ed07fa9ebe7303237271776944121deea0c7e28862
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102435"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687131"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller (Overstappen van partner voor directe facturering van Cloud Solution Provider naar indirecte CSP-reseller)
 
 **Juiste rollen:** globale beheerder
 
 > [!NOTE]
-> Dit artikel is bedoeld voor partners met directe factuur die hebben besloten over te gaan naar indirecte resellers. Zelfs als u nog geen expliciete beslissing hebt genomen om u in te schrijven [](direct-partner-new-requirements.md) als indirecte reseller, worden partners voor directe factuur die niet voldoen aan de nieuwe vereisten voor het CSP-programma voor directe factuurpartners door Microsoft geïnformeerd wanneer de mogelijkheden voor directe factuur worden [beperkt.](restricted-direct-bill-capabilities.md)
+> Dit artikel is bedoeld voor directe factuurpartners die hebben besloten over te gaan naar indirecte resellers. Zelfs als u nog geen expliciete beslissing hebt genomen om u in te schrijven [](direct-partner-new-requirements.md) als indirecte reseller, worden partners voor directe factuur die niet voldoen aan de nieuwe vereisten voor het CSP-programma voor directe factuurpartners door Microsoft geïnformeerd wanneer de mogelijkheden voor directe factuur worden [beperkt.](restricted-direct-bill-capabilities.md)
 <br>Vanaf januari 2021 wordt er een nieuwe omzetvereiste toegevoegd. Partners die zijn ingeschreven als partner voor directe factuur moeten in de afgelopen 12 maanden ten minste USD 300.000 aan omzet van het CSP-programma hebben gefactureerd op het niveau van een algemeen partneraccount.
 
 U kunt zich inschrijven voor het indirecte resellerprogramma met behulp van uw bestaande tenant voor directe factuur.
@@ -65,7 +65,7 @@ Tijdens deze fase blijft u de abonnementsbehoeften van uw directe klanten behere
 
 ## <a name="find-an-indirect-provider"></a>Een indirecte provider zoeken
 
-Na het inschrijven wordt een koppeling naar indirecte providers weergegeven in de linkernavigatiebalk. Als indirecte reseller gaat u een relatie tot stand brengen met een indirecte provider die vervolgens uw facturering kan afhandelen, producten voor uw klanten kan kopen en infrastructuur kan ondersteunen.
+Na het inschrijven wordt een koppeling naar indirecte providers weergegeven in het linkernavigatiebalk. Als indirecte reseller gaat u een relatie tot stand brengen met een indirecte provider die vervolgens uw facturering kan afhandelen, producten voor uw klanten kan kopen en infrastructuur kan ondersteunen.
 
 Verschillende indirecte providers bieden verschillende ondersteuning en services, dus u moet de providers in uw regio evalueren om te bepalen welke het beste voldoen aan uw behoeften. Over het algemeen doen de meeste providers het volgende:
 
@@ -91,7 +91,7 @@ Een indirecte reselleruitnodiging maken:
 
 1. Selecteer **Indirecte providers in** Partner Center linkernavigatiebalk.
 
-2. Selecteer **Invite new customers** to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time. De provider moet een resellerrelatie hebben met uw klant, zodat ze namens uw klant orders kunnen indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties wil toevoegen aan bestaande abonnementen.
+2. Selecteer **Nieuwe klanten uitnodigen** om een klant uit te nodigen om tegelijkertijd een resellerrelatie met u en de indirecte provider tot stand te brengen. De provider moet een resellerrelatie hebben met uw klant, zodat ze namens uw klant orders kunnen indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties wil toevoegen aan bestaande abonnementen.
 
 3. Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het conceptbericht openen via e-mail of u kunt het bericht naar het klembord kopiëren en in een e-mailbericht plakken.
 
@@ -127,7 +127,7 @@ U beheert uw klanten met directe factuur en uw indirecte resellerklanten op een 
 
 1. Selecteer **Klanten**.
 
-2. Selecteer een klant om de details weer te geven.
+2. Selecteer een klant om de details te bekijken.
 
 3. Als deze klant een klant is die u hebt verkregen  als  partner voor directe factuur, ziet u opties om producten toe te voegen of weer te geven en ziet u hun abonnementen.
 
@@ -135,7 +135,7 @@ U beheert uw klanten met directe factuur en uw indirecte resellerklanten op een 
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Uw klanten met directe factuur verplaatsen naar uw indirecte provider
 
-Uw indirecte provider kan geen orders of bestaande abonnementsoverdrachten verzenden voor uw bestaande klanten met directe factuur totdat ze een resellerrelatie met hen hebben. U kunt een van de volgende methoden gebruiken om de resellerrelatie tussen uw indirecte provider en uw bestaande klant voor directe factuur vast te stellen:
+Uw indirecte provider kan geen orders of bestaande abonnementsoverdrachten verzenden voor uw bestaande klanten met directe factuur totdat ze een resellerrelatie met hen hebben. Als u de resellerrelatie tussen uw indirecte provider en uw bestaande klant voor directe factuur tot stand wilt laten komen, kunt u een van de volgende methoden gebruiken:
 
 - [Reseller-relatie-extensie](#reseller-relationship-extension)
 
@@ -169,7 +169,7 @@ U kunt deze functie als volgende gebruiken op een bestaande klant-tenant:
 
 1. Meld u aan Partner Center als een **beheerdersagent.**
 
-2. Selecteer op **de pagina Klanten** een bestaande klant en selecteer het pictogram Snelle **koppelingen** om de overzichtsweergave van de klant uit te vouwen.
+2. Selecteer op **de pagina Klanten** een bestaande klant en selecteer het pictogram Snelle **koppelingen** om de samenvattingsweergave van de klant uit te vouwen.
 
 3. Selecteer **onder Indirecte provider(s)** de optie **Klant overdragen op een indirecte provider.**
 
@@ -185,7 +185,7 @@ U kunt deze functie als volgende gebruiken op een bestaande klant-tenant:
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Een indirecte reselleruitnodiging naar de klant verzenden
 
-Uw indirecte provider kan geen orders indienen voor uw bestaande klanten met directe factuur totdat ze een resellerrelatie met hen hebben. Als u de resellerrelatie tussen uw bestaande klanten en uw indirecte provider tot stand wilt brengen, nodigt u de klant uit met behulp van een indirecte reselleruitnodiging.
+Uw indirecte provider kan geen orders voor uw bestaande klanten met directe factuur indienen totdat ze een resellerrelatie met hen hebben. Als u de resellerrelatie tussen uw bestaande klanten en uw indirecte provider tot stand wilt brengen, nodigt u de klant uit met behulp van een indirecte reselleruitnodiging.
 
 1. Selecteer **Indirecte providers in** Partner Center linkernavigatiebalk.
 
@@ -282,7 +282,7 @@ Een overdrachtsaanvraag maken als de overgangspartner:
 
     :::image type="content" source="images/direct/direct10.png" alt-text="Overdrachtsaanvraaglijst.":::
 
-10. Informeer uw indirecte provider dat u een aanvraag voor abonnementsoverdracht naar hen hebt gemaakt.
+10. Informeer uw indirecte provider dat u een aanvraag voor abonnementsoverdracht naar deze provider hebt gemaakt.
 
 ### <a name="indirect-provider---accept-transfer-request"></a>Indirecte provider - overdrachtsaanvraag accepteren
 
@@ -318,9 +318,9 @@ Een overdrachtsaanvraag controleren en accepteren als de indirecte provider:
 
 De overgangspartner moet het volgende doen:
 
-1. Meld u aan Partner Center als een **beheerderagent** of **verkoopagent.**
+1. Meld u aan Partner Center als een **beheerderagent** **of verkoopagent.**
 
-2. Selecteer op **de pagina** Klanten de beoogde klant en selecteer het pictogram **Snelle koppelingen** om de overzichtsweergave van de klant uit te vouwen.
+2. Selecteer op **de** pagina Klanten de beoogde klant en selecteer het pictogram **Snelle koppelingen** om de overzichtsweergave van de klant uit te vouwen.
 
 3. Selecteer **Abonnementen weergeven.**
 

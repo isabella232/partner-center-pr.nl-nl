@@ -4,27 +4,27 @@ ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Leer hoe u Azure-abonnementen toewijst aan uw klanten in Partner Center en hoe u klanten in staat stelt om hun eigen abonnementen te beheren.
+description: Meer informatie over het toewijzen van Azure-abonnementen aan uw klanten in Partner Center en hoe u klanten in staat stelt om hun eigen abonnementen te beheren.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1416c9b12cb6670eb2598f8baa4839996e29f09b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d042f1d2f711e59e3a6bbe320d829a8bbdf9b5dfe50a688dfe5a92b80cbc5090
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841722"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687907"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Azure-abonnementen toewijzen aan klanten in Partner Center
 
-**Juiste rollen:** globale | Verkoopagent
+**Juiste rollen:** Globale | Verkoopagent
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>Azure-abonnementen toewijzen aan uw klanten
 
 1. Selecteer **Klanten** in **Partner Center** menu en zoek de klant die u wilt beheren.
 
-2. Selecteer de pijl-omlaag aan het einde van de rij om de record van de klant uit te vouwen en selecteer vervolgens **Microsoft Azure Beheerportal**. U wordt omgeleid naar [de Azure Portal](https://portal.azure.com/) waar u de abonnementen van de klant kunt beheren.
+2. Selecteer de pijl-omlaag aan het einde van de rij om de record van de klant uit te vouwen en selecteer **vervolgens Microsoft Azure Beheerportal**. U wordt omgeleid naar [de Azure Portal](https://portal.azure.com/) waar u de abonnementen van de klant kunt beheren.
 
 3. Selecteer in Azure Portal de **optie Abonnementen.**
 
@@ -38,10 +38,10 @@ ms.locfileid: "114841722"
 
 Nadat u een Microsoft Azure voor een klant hebt, kunt u deze inschakelen om het abonnement te beheren. Hiervoor moet u zich aanmelden bij de beheerportal van Microsoft Azure klant. 
 
-1. Als u de Azure Portal van de klant wilt openen, vouwt u de klantvermelding uit in de lijst met klanten of selecteert u de naam van de klant en selecteert u **Microsoft Azure Beheerportal**.
+1. Als u de Azure Portal van de klant wilt openen, vouwt u de vermelding van de klant uit in uw klantenlijst of selecteert u de naam van de klant en selecteert u Microsoft Azure Beheerportal **.**
 
    > [!NOTE]  
-   > Als u wordt gevraagd om u aan te melden bij Azure Portal, hebt u mogelijk geen beheerdersbevoegdheden gedelegeerd. Selecteer **Een relatie aanvragen om** de klant uit te nodigen om u te identificeren als Partner of Record. Nadat de klant uw uitnodiging heeft geaccepteerd, krijgt u automatisch gedelegeerde beheerdersbevoegdheden.
+   > Als u wordt gevraagd om u aan te melden bij Azure Portal, hebt u mogelijk geen beheerdersbevoegdheden gedelegeerd. Selecteer **Een relatie aanvragen** om de klant uit te nodigen om u te identificeren als Partner of Record. Nadat de klant uw uitnodiging heeft geaccepteerd, krijgt u automatisch gedelegeerde beheerdersbevoegdheden.
 
 2. Open in Azure Portal de lijst met abonnementen van de klant en selecteer het Azure-abonnement van de klant.
 
@@ -49,6 +49,6 @@ Nadat u een Microsoft Azure voor een klant hebt, kunt u deze inschakelen om het 
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Hoe CSP-partners abonnementen aan klanten kunnen verkopen](customer-subscriptions.md)
+- [Hoe CSP-partners abonnementen kunnen verkopen aan klanten](customer-subscriptions.md)
 
 - [Machtigingen verkrijgen voor het beheren van de service of abonnementen van een klant](customers-revoke-admin-privileges.md)

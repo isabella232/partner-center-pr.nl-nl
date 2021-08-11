@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 6a1bc04970a961254c4af7a8a96688f4d3379d051840a4fd556be84041b76a9e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844772"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687809"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Problemen met ontbrekende betalingen, onjuiste inkomsten en andere problemen oplossen
 
@@ -80,7 +80,7 @@ U kunt uw aanpassingen zoeken en afstemmen door uw inkomsten- en transactiegegev
 6. Filter deze kolom op **Aanpassing-Aanpassingen.** U ziet de maand van elke aanpassing in kolom S.
 
 >[!IMPORTANT]
->Aanpassingen die zijn toegepast op eerdere inkomstenperioden, zijn niet zichtbaar in de inkomsten voor de maand waarin de correctie is toegepast. Aanpassingen worden altijd weergegeven in het inkomstenrapport voor de maand waarin de correctie is toegepast.
+>Aanpassingen die zijn toegepast op eerdere inkomstenperioden, zijn niet zichtbaar in de inkomsten voor de maand waarin de correctie is toegepast. Aanpassingen worden altijd weergegeven in het inkomstenrapport voor de maand waarin de aanpassing is toegepast.
 >
 >Een aanpassing voor de inkomsten van januari 2019 die in september 2019 is verwerkt, wordt bijvoorbeeld niet weerspiegeld in het inkomstenbedrag voor september 2019. Wanneer de betaling voor september 2019 echter wordt ontvangen, bevat deze de aanpassing voor januari 2019 die in september is toegepast. In dit scenario moet u de transactiegegevens voor januari 2019 downloaden om de toegepaste aanpassing te zien.
 >
@@ -118,7 +118,7 @@ Inkomsten worden weergegeven op zowel de pagina **Transactiegeschiedenis** als d
 
 Maandelijkse inkomstenbedragen in de weergave Transactiegeschiedenis komen mogelijk niet overeen met het ontvangen bedrag voor een specifieke maand. Dit komt door herberekeningen en aanpassingen voor eerdere inkomstenperioden die worden toegepast op toekomstige betalingen.
 
-Een aanpassing voor de inkomsten van januari 2019 die in september 2019 is verwerkt, wordt bijvoorbeeld niet weerspiegeld in het inkomstenbedrag voor september 2019; Wanneer de betaling voor september 2019 echter wordt ontvangen, bevat deze de aanpassing voor januari 2019 die is toegepast in september.
+Een aanpassing voor de inkomsten van januari 2019 die in september 2019 is verwerkt, wordt bijvoorbeeld niet weerspiegeld in het inkomstenbedrag voor september 2019; Wanneer de betaling voor september 2019 echter wordt ontvangen, bevat deze de aanpassing voor januari 2019 die in september is toegepast.
 
 In dit scenario moet u de transactiegegevens downloaden om een volledig overzicht te krijgen van alle inkomsten die zijn opgenomen in uw betaling.  Daarnaast kunt u naar de weergave Betalingen navigeren om transacties voor elke betaling te downloaden.
 
@@ -128,7 +128,7 @@ Deze weergave toont trends in inkomsten en betalingen per maand, inkomsten per s
 
 ### <a name="payments"></a>Betalingen
 
-In deze weergave kunt u betalingen voor alle programma's en MPN-ID's weergeven. Gegevens zijn alleen zichtbaar voor de programma's en MPN-ID's waarvoor u een incentive-gebruiker of -beheerder bent. In deze weergave kunt u de overboeking downloaden of transactiedetails per betaling weergeven.
+In deze weergave kunt u betalingen voor alle programma's en MPN-ID's bekijken. Gegevens zijn alleen zichtbaar voor de programma's en MPN-ID's waarvoor u een incentive-gebruiker of -beheerder bent. In deze weergave kunt u de overboeking downloaden of transactiedetails per betaling weergeven.
 
 | Functie | Gaat u hierheen |
 | ------ | :----------- | 
