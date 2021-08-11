@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc9f52cd015e8c1f7b8b91fd72d58f2445a3fce8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a2acb85f4306201b2d2ecb8140a5e6b4dec3e5ba57898db04f29640f7467021e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844957"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693806"
 ---
 # <a name="support-from-microsoft"></a>Ondersteuning van Microsoft
 
@@ -24,7 +24,7 @@ ms.locfileid: "114844957"
 
 Als u problemen hebt met een Microsoft-service of met Partner Center, kunt u het probleem melden aan Microsoft, het probleem escaleren naar Microsoft voor hulp en het probleem volgen totdat het is opgelost.
 
-[Partner Center- Hulp](report-problems-with-partner-center.md) krijgen en tickets maken voor alle Partner Center programma's.
+[Partner Center: krijg](report-problems-with-partner-center.md) hulp en maak tickets voor alle Partner Center programma's.
 
 [Ondersteuning namens klanten: krijg](report-problems-on-behalf-of-a-customer.md) hulp en meld problemen bij uw klant.
 

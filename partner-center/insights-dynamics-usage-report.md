@@ -8,12 +8,12 @@ description: Bekijk wat u goed doet en waar u het gebruik kunt verbeteren van Dy
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7476106e92334000c59e566758bb2bd1f1dd415f6142f07e458b2aa9f5c62b41
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838305"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690647"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het Dynamics-gebruiksrapport is beschikbaar via Partner Center Insights dashboard
 
@@ -32,13 +32,13 @@ Het Dynamics-gebruiksrapport bevat gebruiksgegevens voor de Microsoft Dynamics 3
 
 ## <a name="summary"></a>Samenvatting
 
-In de samenvattingssectie ziet u een momentopname van de sleutelindicatoren die betrekking hebben op Dynamics-gebruiksabonnementen die u hebt verkocht of beheert voor uw klanten.  
+De samenvattingssectie bevat een momentopnameweergave van de belangrijkste indicatoren met betrekking tot Dynamics-gebruiksabonnementen die u hebt verkocht of beheert voor uw klanten.  
 
 - Beschikbare seats: het totale aantal licenties dat tijdens het geselecteerde tijdsbestek is verkocht.
 
    De Micro-grafiek geeft een trend voor de maand-over-maand weer van het aantal beschikbare seats voor uw geselecteerde datumbereik.
 
-- Toegewezen seats: totaal aantal licenties dat is toegewezen tijdens het geselecteerde tijdsbestek.
+- Toegewezen seats: het totale aantal licenties dat is toegewezen tijdens het geselecteerde tijdsbestek.
 
    In de Micro-grafiek wordt een trend voor de maand-over-maand weergegeven van het aantal toegewezen seats tijdens het geselecteerde datumbereik.
 
@@ -56,7 +56,7 @@ In de samenvattingssectie ziet u een momentopname van de sleutelindicatoren die 
 
 Het **Dynamics-gebruik per geografie geeft** de verdeling van beschikbare seats en actieve seats per klantland weer. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkere kleuren hogere waarden vertegenwoordigen. U kunt een land in het raster zoeken en selecteren. U kunt ook inzoomen voor een beter beeld.
 
-De **tabel Aantal landen/regio's** geeft het totale aantal landen/regio's weer waar Azure-gebruiksgebeurtenissen worden gegenereerd.
+De **tabel Aantal landen/regio's** bevat het totale aantal landen/regio's waar Azure-gebruiksgebeurtenissen worden gegenereerd.
 
 U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie op de kaart. Selecteer de **optie Start** op de kaart om terug te keren naar de oorspronkelijke weergave.
 

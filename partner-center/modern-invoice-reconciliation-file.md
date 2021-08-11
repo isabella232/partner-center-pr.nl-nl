@@ -1,5 +1,5 @@
 ---
-title: Bestandsvelden voor een een time-aankoop van CSP opnieuw configureren
+title: Bestandsvelden opnieuw configureren voor een een time-aankoop van CSP
 ms.topic: conceptual
 ms.date: 01/29/2021
 description: Meer informatie over alle items in uw CSP-afstemmingsbestand voor een een time-aankoop in Partner Center, inclusief voorbeeldwaarden.
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: d5d404519c107a3e1f0e926451eef4935c993fbd
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 34ba1c906b2b00b96511aec20d44c358a57925269454345237661e5b403d0099
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100702"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697241"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP-bestandsvelden voor een een time-aankoopafstemming
 
@@ -28,7 +28,7 @@ Zie De afstemmingsbestanden gebruiken voor meer informatie [over afstemmingsbest
 | ------ | ----------- | ------------ |
 | PartnerId | Unieke id in GUID-indeling voor een specifieke factureringsentiteit. Niet vereist voor afstemming. Hetzelfde in alle rijen. | *0e195b37-4574-4539-bc42-0e539b9684c0* |
 | CustomerId | Unieke Microsoft-id voor de klant in GUID-indeling. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
-| CustomerName | De organisatienaam van de klant, zoals gerapporteerd in Partner Center. Deze kolom is belangrijk voor het afstemmen van de factuur met uw systeemgegevens. | *Johnny Modern Cust DE2* |
+| CustomerName | De organisatienaam van de klant, zoals gerapporteerd in Partner Center. Deze kolom is belangrijk voor het afstemmen van de factuur met uw systeemgegevens. | *Modern Cust DE2 van Modern* |
 | CustomerDomainName | Domeinnaam van de klant. | *testcustomerdomain.onmicrosoft.com* |
 | CustomerCountry | Het land waar uw klant zich bevindt. Bekijk de volledige [lijst met landen voor](./regional-authorization-overview.md) uw regio.  | *DE* |
 | InvoiceNumber | Het factuurnummer dat is gekoppeld aan het afstemmingsbestand.  | *G002297372* |

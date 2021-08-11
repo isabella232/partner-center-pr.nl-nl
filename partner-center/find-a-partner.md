@@ -8,12 +8,12 @@ description: Als Microsoft-partner hebt u mogelijk vragen over hoe u uw klanten 
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a5da21326ae789e4b6f570c14f9a52e0348bb64
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 700e63d82f657d5f6921d870a1aec15fcda580a91bb9018c4e9261e6b2f92bd7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845292"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693517"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Een partner of oplossingsprovider zoeken om vragen over programma's, licenties of klantdeals te beantwoorden 
 

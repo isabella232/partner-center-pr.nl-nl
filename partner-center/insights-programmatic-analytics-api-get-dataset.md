@@ -8,14 +8,14 @@ description: Gebruik deze API om details op te halen van alle beschikbare gegeve
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f4e69c8759c16bc38e64a361c8c077989447d3e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 96bbb039c022d3587183b8dbec014bc362255b750ac6670fe3c1906629b7e291
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843796"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693330"
 ---
-# <a name="get-all-datasets-api"></a>Api voor alle gegevenssets krijgen
+# <a name="get-all-datasets-api"></a>Api voor alle gegevenssets op halen
 
 De API Alle gegevenssets verkrijgen haalt alle beschikbare gegevenssets op. Gegevenssets maken een lijst van de tabellen, kolommen, metrische gegevens en tijdsbereiken.
 
@@ -28,9 +28,9 @@ De API Alle gegevenssets verkrijgen haalt alle beschikbare gegevenssets op. Gege
 
 **Aanvraagheader**
 
-|    Header    |    Type    |    Beschrijving    |
+|    Header    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in de vorm`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 
@@ -57,7 +57,7 @@ Geen
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Antwoordcode: 200, 400, 401, 403, 404, 500
+Responscode: 200, 400, 401, 403, 404, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -90,11 +90,11 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 
 |    Parameter    |    Beschrijving    |
 |    ----    |    ----    |
-|    DatasetName     |    Naam van de gegevensset die dit matrixobject definieert     |
+|    DatasetName     |    Naam van de gegevensset die door dit matrixobject wordt bepaald     |
 |    SelectableColumns     |    Onbewerkte kolommen die kunnen worden opgegeven in de geselecteerde kolommen     |
 |    AvailableMetrics     |    Aggregatie-/metrische kolomnamen die kunnen worden opgegeven in de geselecteerde kolommen     |
 |    AvailableDateRanges     |    Datumbereik dat kan worden gebruikt in rapportquery's voor de gegevensset     |
-|    minimumRecurrenceInterval     |    Minimale waarde van terugkeerinterval     |
+|    minimumRecurrenceInterval     |    Minimumwaarde van terugkeerpatroon     |
 |    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
 |    Bericht     |    Statusbericht van de uitvoering van de API     |
 |    StatusCode     |    Resultaatcode. De mogelijke waarden zijn 200, 400, 401, 403, 500     |

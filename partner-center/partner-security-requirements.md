@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8966d744dfb70a7850ef6d3dd68d2051344fe9cd
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 59e3011099755b9342a00574e0c5bb390e2fd7030a38996368c4127d2fca9518
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101193"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693993"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Beveiligingsvereisten voor het gebruik Partner Center of Partner Center API's
 
@@ -24,7 +24,7 @@ In dit artikel worden de verplichte beveiligingsvereisten beschreven voor advise
 
 ## <a name="mandatory-security-requirements"></a>Verplichte beveiligingsvereisten
 
-Partners die de verplichte beveiligingsvereisten niet implementeren, kunnen het Cloud Solution Provider-programma niet uitvoeren of tenants van klanten beheren met gedelegeerde beheerdersrechten. Daarnaast kunnen partners die de beveiligingsvereisten niet implementeren hun deelname aan programma's in gevaar brengen. De voorwaarden die zijn gekoppeld aan de beveiligingsvereisten van de partner zijn toegevoegd aan de Microsoft Partner-overeenkomst. Aangezien het betrekking heeft op adviseurs, gelden dezelfde contractuele vereisten.
+Partners die de verplichte beveiligingsvereisten niet implementeren, kunnen het Cloud Solution Provider-programma niet uitvoeren of tenants van klanten beheren met gedelegeerde beheerdersrechten. Daarnaast kunnen partners die de beveiligingsvereisten niet implementeren hun deelname aan programma's in gevaar brengen. De voorwaarden die zijn gekoppeld aan de beveiligingsvereisten van de partner zijn toegevoegd aan de Microsoft Partner-overeenkomst. Voor advisors gelden dezelfde contractuele vereisten.
 
 Om u en uw klanten te beschermen, moeten partners onmiddellijk de volgende acties uitvoeren:  
 
@@ -62,9 +62,9 @@ Een van de opties die partners kunnen kiezen om MFA-vereisten te implementeren, 
 
 - Voor partners die [voorwaardelijke toegang gebruiken,](/azure/active-directory/conditional-access/concept-conditional-access-policy-common) [zijn de standaardinstellingen voor beveiliging niet beschikbaar.](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)
 
-- Verouderde verificatie wordt op dit moment niet geblokkeerd. Omdat de meeste gebeurtenissen met betrekking tot gecompromitteerde identiteiten afkomstig zijn van een aanmeldingspoging met verouderde verificatie, wordt partners echter aangeraden om af te zien van deze oudere protocollen.
+- Verouderde verificatie wordt op dit moment niet geblokkeerd. Omdat de meeste gebeurtenissen met betrekking tot gecompromitteerde identiteiten afkomstig zijn van een aanmeldingspoging met behulp van verouderde verificatie, wordt partners echter aangeraden om af te zien van deze oudere protocollen.
 
-- Het Azure AD Verbinding maken synchronisatieaccount wordt uitgesloten van de standaardinstellingen voor beveiliging.
+- Azure AD Verbinding maken synchronisatieaccount is uitgesloten van de standaardinstellingen voor beveiliging.
 
 Lees Overview [of Azure AD Multi-Factor Authentication for your organization (Overzicht van Azure AD Multi-Factor Authentication voor uw](/azure/active-directory/authentication/concept-mfa-get-started) organisatie) en What are security [defaults? (Wat zijn standaardinstellingen voor beveiliging?) voor gedetailleerde informatie.](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 
@@ -81,9 +81,9 @@ Voordat u een actie gaat uitvoeren, raden we u aan de volgende validaties te vol
 
 Wanneer u MFA afdwingt, worden protocollen voor het gebruik van verouderde verificatie, zoals IMAP, POP3, SMTP en andere, geblokkeerd omdat ze geen ondersteuning bieden voor MFA. Als u deze beperking wilt aanpakken, gebruikt u de [functie app-wachtwoorden](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) om ervoor te zorgen dat de toepassing of het apparaat nog steeds wordt geverifieerd. Bekijk de [overwegingen voor het gebruik van app-wachtwoorden](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) om te bepalen of deze kunnen worden gebruikt in uw omgeving.
 
-#### <a name="do-you-have-office-365-users-with-licenses-associated-with-your-partner-tenant"></a>Hebt u Office 365 gebruikers met licenties die zijn gekoppeld aan uw partnerten tenant?
+#### <a name="do-you-have-office-365-users-with-licenses-associated-with-your-partner-tenant"></a>Hebt u gebruikers Office 365 met licenties die zijn gekoppeld aan uw partnerten tenant?
 
-Voordat u een oplossing implementeert, raden we u aan te bepalen welke versies van Microsoft Office gebruikers in uw partnerten tenant gebruiken. Er is een kans dat uw gebruikers verbindingsproblemen ervaren met toepassingen zoals Outlook. Voordat u MFA afdwingt, is het belangrijk om ervoor te zorgen dat u Outlook 2013 SP1 of hoger gebruikt en dat moderne verificatie is ingeschakeld in uw organisatie. Zie Moderne verificatie inschakelen in Exchange Online voor [meer Exchange Online.](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) 
+Voordat u een oplossing implementeert, wordt u aangeraden te bepalen welke versies van Microsoft Office gebruikers in uw partnerten tenant gebruiken. Er is een kans dat uw gebruikers verbindingsproblemen ervaren met toepassingen zoals Outlook. Voordat u MFA afdwingt, is het belangrijk om ervoor te zorgen dat u Outlook 2013 SP1 of hoger gebruikt en dat moderne verificatie is ingeschakeld in uw organisatie. Zie Moderne verificatie inschakelen in Exchange Online voor [meer Exchange Online.](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) 
 
 Als u moderne verificatie wilt inschakelen voor apparaten met Windows die Microsoft Office 2013 hebben geïnstalleerd, moet u twee registersleutels maken. Zie [Moderne verificatie inschakelen voor Office 2013 op Windows apparaten.](/office365/admin/security-and-compliance/enable-modern-authentication)
 
@@ -103,7 +103,7 @@ Omdat we MFA afdwingen voor elke gebruiker, met inbegrip van serviceaccounts, in
 
 - Configuratiescherm dat wordt gebruikt voor het inrichten van resources namens uw klanten
 
-- Integratie met elk platform dat wordt gebruikt voor facturering (in relatie tot het CSP-programma) en het ondersteunen van uw klanten
+- Integratie met elk platform dat wordt gebruikt voor facturering (in verband met het CSP-programma) en het ondersteunen van uw klanten
 
 - PowerShell-scripts die gebruikmaken van de modules Az, AzureRM, Azure AD, MS Online en andere modules
 
@@ -115,7 +115,7 @@ Voor een beter begrip van wat of wie wordt authenticeren zonder MFA aan te bevel
 
 ## <a name="how-the-requirements-are-enforced"></a>Hoe de vereisten worden afgedwongen
 
-Beveiligingsvereisten van partners worden afgedwongen door Azure AD, en op hun beurt Partner Center, door te controleren op de aanwezigheid van de MFA-claim om te identificeren dat MFA-verificatie heeft plaatsgevonden. Vanaf 18 november 2019 heeft Microsoft aanvullende beveiligingsbeveiligingen (voorheen bekend als 'technische afdwinging') geactiveerd voor tenants van partners.
+Beveiligingsvereisten van partners worden afgedwongen door Azure AD, en op hun beurt Partner Center, door te controleren op de aanwezigheid van de MFA-claim om te identificeren dat MFA-verificatie is uitgevoerd. Vanaf 18 november 2019 heeft Microsoft aanvullende beveiligingsbeveiligingen (voorheen bekend als 'technische afdwinging') geactiveerd voor tenants van partners.
 
 Na activering wordt gebruikers in de tenant van de partner gevraagd MFA-verificatie te voltooien wanneer ze een beheerder uitvoeren namens (AOBO)-bewerkingen, toegang tot de Partner Center-portal of het aanroepen van Partner Center API's. Zie [Multi-Factor Authentication (MFA) voor uw partner-tenant](partner-security-requirements-mandating-mfa.md)voor meer informatie. 
 

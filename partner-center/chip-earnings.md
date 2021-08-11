@@ -2,19 +2,19 @@
 title: Inkomsten in CHIP weergeven
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Meer informatie over het weergeven van uw incentives-instructie en inkomsten in het hulpprogramma CHIP (Channel Incentives Platform).
+description: Meer informatie over het weergeven van uw incentives-overzicht en inkomsten in het hulpprogramma CHIP (Channel Incentives Platform).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8703d9a8c482ac3fba5497780b2f5163bf86061
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a0078364d89d792ab1a1922b72f21eff025ac7740e5d154dabc606bf3b1010d2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842644"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692854"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Inkomsten weergeven met behulp van het CHIP-hulpprogramma
 
@@ -36,7 +36,7 @@ U hebt toegang tot uw incentives-instructie via het Channel Incentives Platform 
 
 |**TAB-toets**|**Definition**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Bevat details voor het incentives-programma voor de geselecteerde periode, waaronder de naam van de klant, overeenkomst, levergegevens|
+|DetailReport-Flatfile|Bevat details voor het incentives-programma voor de geselecteerde periode, waaronder de naam van de klant, overeenkomst, leverdetails|
 |DeltaReport-pivot|Updates van de laatste gepubliceerde instructie alleen voor Enterprise|
 |DetailReport-pivot|Overzicht van betalingsgegevens, inclusief valuta en betalingsbedrag|
 |Prestatiedetails|Basislijnwaarde, prestatie- en groeipercentage voor alleen SPLAR|

@@ -10,12 +10,12 @@ metadata:
   ms.author: v-arkanu
   ms.localizationpriority: medium
   ms.custom: SEOJUNE20
-  ms.openlocfilehash: 8ca944dfe4b3bca722c1c5d82eee261c64a64715
-  ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+  ms.openlocfilehash: 11f4b2bbf918246e01afa13bfb5b28dbd7d07f03c93c2c44960f1381ce5c639f
+  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2021
-  ms.locfileid: "114842759"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "115693024"
 title: Microsoft Partner Network voordelen - veelgestelde vragen (FAQ)
 summary: >
   **Juiste rollen:** MPN-partnerbeheerder
@@ -26,10 +26,10 @@ sections:
 - name: Algemene vragen
   questions:
   - question: >
-      Wat betekent 'Vervaldatum voordeel'
-    answer: "De vervaldatum van benefit betekent de laatste datum waarop uw voordelen worden geactiveerd.\n\nU hebt tot de verlengingsdatum om de voordelen in te wisselen die beschikbaar zijn tijdens de inschrijvingsperiode van één jaar. U vindt de begindatum van uw verlenging op [de pagina Lidmaatschapsaanbiedingen](https://partner.microsoft.com/dashboard/mpn/offers) in het MPN-dashboard.\n\nU kunt echter productcodes gebruiken voor één jaar vanaf de dag dat u de sleutels inwisselt in hun respectieve cloudportals.\n\nAls uw voordeel bijvoorbeeld verloopt op 31 januari 2021, moet u de sleutels inwisselen in de juiste cloudportal vóór 31 januari 2021. En als u uw productcode inwisselt op 1 december 2020, kunt u die sleutel gebruiken tot 1 december 2021, ook al is de vervaldatum van uw voordeel 31 januari.\n\n> [!NOTE]  \n> Als u voordelen hebt waarvoor een gebruikerstoewijzing is vereist (zoals Visual Studio-abonnementen), kunt u deze voordelen activeren en gebruiken voor nog eens 30 dagen na de verlengingsdatum van de inschrijving.\n"
+      Wat betekent 'Vervaldatum van voordeel'
+    answer: "De vervaldatum van het voordeel betekent de laatste datum waarop uw voordelen worden geactiveerd.\n\nU hebt tot de verlengingsdatum om de voordelen in te wisselen die beschikbaar zijn tijdens de inschrijvingsperiode van één jaar. U vindt de begindatum van uw verlenging op [de pagina Lidmaatschapsaanbiedingen](https://partner.microsoft.com/dashboard/mpn/offers) in het MPN-dashboard.\n\nU kunt echter productcodes gebruiken voor één jaar vanaf de dag dat u de sleutels inwisselt in hun respectieve cloudportals.\n\nAls uw voordeel bijvoorbeeld verloopt op 31 januari 2021, moet u de sleutels inwisselen in de juiste cloudportal vóór 31 januari 2021. En als u uw productcode inwisselt op 1 december 2020, kunt u die sleutel gebruiken tot 1 december 2021, ook al is de vervaldatum van uw voordeel 31 januari.\n\n> [!NOTE]  \n> Als u voordelen hebt waarvoor een gebruikerstoewijzing is vereist (zoals Visual Studio-abonnementen), kunt u deze voordelen activeren en gebruiken voor nog eens 30 dagen na de verlengingsdatum van de inschrijving.\n"
   - question: >
-      Hoe kan ik mijn voordelen verlengen
+      Hoe kan ik voordelen verlengen
     answer: >
       Gebruik de volgende procedure om uw voordelen te verlengen:
 
@@ -40,7 +40,7 @@ sections:
       2. Selecteer MPN in het **linkernavigatiebalk.**
 
 
-      3. Selecteer op **het tabblad MPN** de **optie** Voordelen.
+      3. Selecteer op **het tabblad MPN** de optie **Voordelen.**
 
 
       4. Activeer het voordeel dat u wilt.
@@ -58,27 +58,27 @@ sections:
 - name: Voordelen van Azure- en cloudactivering
   questions:
   - question: >
-      Hoe werkt het toevoegen, uitbreiden/verlengen van licenties in Azure?
-    answer: "Wanneer u licenties toevoegt, verhoogt u het totale aantal licenties voor uw bestaande abonnement.\n\nWanneer u abonnementen vernieuwt of uitbreidt, blijft het aantal licenties gelijk, maar verlengt u de hoeveelheid tijd voor deze abonnementen.\n\n> [!IMPORTANT]  \n> Als u ervoor kiest om licenties toe te voegen aan een bestaand abonnement, verloopt het abonnement binnen 12 maanden, afhankelijk van het aantal bestaande en toegevoegde licenties. Zodra u een sleutel hebt ingewisseld, kunt u deze niet meer inwisselen. Voordat u uw sleutel inwisselt, moet u weten of u licenties moet toevoegen of het abonnement moet verlengen/verlengen.\n"
+      Hoe werkt het toevoegen, verlengen/verlengen van licenties in Azure?
+    answer: "Wanneer u licenties toevoegt, verhoogt u het totale aantal licenties voor uw bestaande abonnement.\n\nWanneer u abonnementen vernieuwt of uitbreidt, blijft het aantal licenties gelijk, maar breidt u de hoeveelheid tijd voor deze abonnementen uit.\n\n> [!IMPORTANT]  \n> Als u ervoor kiest om licenties toe te voegen aan een bestaand abonnement, verloopt het abonnement binnen 12 maanden, afhankelijk van het aantal bestaande en toegevoegde licenties. Zodra u een sleutel hebt ingewisseld, kunt u deze niet opnieuw inwisselen. Voordat u uw sleutel inwisselt, moet u weten of u licenties moet toevoegen of het abonnement moet verlengen/verlengen.\n"
   - question: >
       Kan ik de licentie activeren voor het account van mijn klant?
     answer: >
-      Nee. Productlicenties worden uitgegeven voor demonstratiedoeleinden. Uw verkoop- en marketingmedewerkers kunnen deze software gebruiken om producten aan uw klanten te presenteren, maar demonstratieproducten kunnen niet worden geïnstalleerd op de hardware of infrastructuur van de klant en moeten worden gebruikt met supervisie van partners.
+      Nee. Productlicenties worden uitgegeven voor demonstratiedoeleinden. Uw verkoop- en marketingmedewerkers kunnen deze software gebruiken om producten te presenteren aan uw klanten, maar demonstratieproducten kunnen niet worden geïnstalleerd op de hardware of infrastructuur van de klant en moeten worden gebruikt met supervisie van partners.
   - question: >
       Ik heb problemen bij het toewijzen van gebruikers in Azure Bulk Credit. Wat moet ik doen?
     answer: >
-      U kunt azure-aanbiedingen voor bulktegoeden niet combineren met andere aanbiedingen. Als een gebruikerstoewijzing niet werkt, betekent dit waarschijnlijk dat de gebruiker die u wilt toewijzen, al gebruik maakt van andere licentie-, prepaid- of tegoedaanbiedingen, zoals Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack, enzovoort. Als de gebruiker niet is geabonneerd op een van deze overeenkomsten of abonnementen en u deze nog steeds niet kunt toewijzen, kunt u contact opnemen met Microsoft-ondersteuning.
+      U kunt Azure-aanbiedingen voor bulktegoeden niet combineren met andere aanbiedingen. Als een gebruikerstoewijzing niet werkt, betekent dit waarschijnlijk dat de gebruiker die u wilt toewijzen al gebruik maakt van andere licentie-, prepaid- of tegoedaanbiedingen, zoals Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack, enzovoort. Als de gebruiker niet is geabonneerd op een van deze overeenkomsten of abonnementen en u deze nog steeds niet kunt toewijzen, kunt u contact opnemen met Microsoft-ondersteuning.
 - name: Visual Studio Voordelen
   questions:
   - question: >
       Hoe werkt Visual Studio activering in Partner Center
-    answer: "U kunt abonnementen toewijzen aan iedereen in de lijst gebruikersbeheer in Partner Center of in uw AAD-tenant (Azure Active Directory), door de volgende stappen uit te voeren:\n\n1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).\n\n2. Selecteer in Partner Center menu **MPN.**\n\n3. Selecteer **Voordelen** en selecteer vervolgens **Visual Studio**.\n\n4. Wijs de gewenste gebruikers toe aan uw Visual Studio beschikbare abonnementen.\n\nNadat u het abonnement hebt toegewezen, moet de gebruiker zich aanmelden bij Visual Studio om het te beheren.\n\n> [!Note]  \n> Visual Studio abonnementen kunnen opnieuw worden toegewezen van de ene abonnee naar de andere als er 90 dagen zijn verstreken sinds het moment van de oorspronkelijke toewijzing.\n"
+    answer: "U kunt abonnementen toewijzen aan iedereen in uw gebruikersbeheerlijst in Partner Center of in uw AAD-tenant (Azure Active Directory), door de volgende stappen uit te voeren:\n\n1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).\n\n2. Selecteer in Partner Center menu **MPN.**\n\n3. Selecteer **Voordelen** en selecteer vervolgens **Visual Studio**.\n\n4. Wijs de gewenste gebruikers toe aan Visual Studio beschikbare abonnementen.\n\nNadat u het abonnement hebt toegewezen, moet de gebruiker zich aanmelden bij Visual Studio om het te beheren.\n\n> [!Note]  \n> Visual Studio abonnementen kunnen opnieuw worden toegewezen van de ene abonnee naar de andere als er 90 dagen zijn verstreken sinds het moment van de oorspronkelijke toewijzing.\n"
 - name: Technische voordelen en ondersteuning
   questions:
   - question: >
       Ik kan de software die ik heb gedownload van de Partner Center. Hoe kan ik hulp krijgen
     answer: >
-      Installatie, activering en andere productgerelateerde hulp wordt geboden via Microsoft-ondersteuning. Ga als volgt te werk om hulp te krijgen:
+      Installatie, activering en andere productgerelateerde hulp worden geboden via Microsoft-ondersteuning. Ga als volgt te werk om hulp te krijgen:
 
 
       1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
@@ -93,7 +93,7 @@ sections:
       4. Gebruik de sectie Technische voordelen om een toegangs-id/contract-id te activeren en te ontvangen.
 
 
-      5. Meld u aan [Microsoft-ondersteuning](https://support.microsoft.com/supportforbusiness/productselection).
+      5. Meld u aan [bij Microsoft-ondersteuning](https://support.microsoft.com/supportforbusiness/productselection).
 
 
       6. Selecteer het product dat u wilt installeren en maak vervolgens een technisch ondersteuningsticket.

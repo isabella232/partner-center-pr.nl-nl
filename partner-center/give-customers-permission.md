@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 23ca72fada539b5036dfd6cf0ac04a5c18b5d96d
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 94e9cf040da3e369547503d691208f97181c698039ef7373639798b98a930a6b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100177"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693573"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Klanten toestemming geven in Partner Center eigen producten of services te kopen
 
@@ -46,7 +46,7 @@ Voordat u klantmachtigingen in gaat zetten, moet u rekening maken met de volgend
 
 - U kunt klantmachtigingen in- of uitschakelen met behulp van het Partner Center dashboard of [Partner Center API's.](/partner-center/develop/manage-customers)
 
-- Nadat u machtigingen voor een specifieke klant hebt ingeschakeld (inschakelen), bent u verantwoordelijk voor het betalen voor alle volgende aankopen die door die klant zijn gedaan. Als klanten een aankoop die ze hebben gedaan willen inruilen, annuleren of vernieuwen (of als ze het initiële bereik van een reservering willen wijzigen), kunnen ze dit niet zelf doen. Ze moeten u als partner vragen om ze te helpen bij het inruilen, annuleren en vernieuwen van aankopen, of om later wijzigingen aan te brengen in het bereik van een reservering.  
+- Nadat u machtigingen voor een specifieke klant hebt ingeschakeld (ingeschakeld), bent u verantwoordelijk voor het betalen voor alle volgende aankopen die door die klant zijn gedaan. Als klanten een aankoop die ze hebben gedaan willen inruilen, annuleren of vernieuwen (of als ze het initiële bereik van een reservering willen wijzigen), kunnen ze dit niet zelf doen. Ze moeten u als partner vragen om ze te helpen bij het inruilen, annuleren en vernieuwen van aankopen, of om later wijzigingen aan te brengen in het bereik van een reservering.  
 
 - Nadat u machtigingen voor een specifieke  klant hebt in gebruik genomen, wordt u niet op de hoogte gesteld van latere aankopen van de klant.
 
@@ -128,7 +128,7 @@ Klantmachtigingen in- of uitschakelen in Partner Center:
 >[!NOTE]
 > Zie Overzicht van klantmachtigingen in Partner Center voor meer informatie over wat er nog meer gebeurt wanneer u de machtigingen van een klant [in](give-customers-permission.md#overview-of-customer-permissions-in-partner-center)Partner Center.
 >
->Wanneer u klantmachtigingen in- of uit schakelen, registreert het activiteitenlogboek elke actie. (Dit logboek is toegankelijk wanneer u het tandwielpictogram bovenaan het dashboard Partner Center selecteren). Wanneer u klantmachtigingen in- of uit  schakelen, wordt de actie weergegeven als Klantaankoopmachtigingen maken of Klantaankoopmachtigingen verwijderen **in** het activiteitenlogboek.
+>Wanneer u klantmachtigingen in- of uit schakelen, registreert het activiteitenlogboek elke actie. (Dit logboek is toegankelijk wanneer u het tandwielpictogram bovenaan het dashboard Partner Center selecteren). Wanneer u klantmachtigingen in- of uit  schakelen, wordt de actie weergegeven als Klantaankoopmachtigingen maken of Klantaankoopmachtigingen **verwijderen** in het activiteitenlogboek.
 
 ## <a name="help-customers-manage-reservations-they-purchase"></a>Klanten helpen bij het beheren van reserveringen die ze kopen
 
@@ -141,7 +141,7 @@ Klanten meer inzicht geven in het beheren van deze aspecten van Azure-reserverin
 - Wat gebeurt er wanneer klanten reserveringen kopen met een gedeeld bereik?
 - Wat gebeurt er als klanten een reservering willen wijzigen, annuleren en vernieuwen of het bereik ervan willen wijzigen?
 
-**Prijzen die klanten betalen voor hun reserveringen.** Uw klant koopt Azure-reserveringen aan op basis van een abonnement dat u eerder hebt gekocht in uw factureringsrekening van uw CSP-partner. De prijs van de klant voor alle Azure-reserveringen die hij op basis van dit abonnement aanschaft, wordt ook door u ingesteld. Deze prijs kan verschillen van de Web Direct-prijs die de klant in de Azure Portal.
+**Prijzen die klanten betalen voor hun reserveringen.** Uw klant koopt Azure-reserveringen aan op basis van een abonnement dat u eerder hebt gekocht in uw factureringsrekening van uw CSP-partner. De prijs van de klant voor alle Azure-reserveringen die ze op basis van dit abonnement aanschaffen, wordt ook door u ingesteld. Deze prijs kan verschillen van de Web Direct-prijs die de klant in de Azure Portal.
 
 **Hoe klanten hun gebruik van een reservering kunnen optimaliseren.** Sommige klanten kunnen profiteren van meer informatie over het optimaliseren van hun gebruik van een reservering of het toewijzen van het initiële bereik van een reservering tijdens hun aankoop. Vraag klanten voor meer informatie reserveringen [voor Azure-resources beheren.](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)
 

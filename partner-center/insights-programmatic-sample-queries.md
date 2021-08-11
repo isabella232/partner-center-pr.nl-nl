@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 36da8a59548142bf09daf42dbc936fba15d46d1e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: fff74f7bf6c58f5845c491d23a1f71c3da177e0c126e863205f0fb18eb07b7c9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844680"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693279"
 ---
 # <a name="sample-queries-for-partner-center-insights-report"></a>Voorbeeldquery's voor Partner Center insights-rapport
 
@@ -47,7 +47,7 @@ WHERE SKU='MICROSOFT 365 BUSINESS STANDARD' AND BilledRevenueUSD>20000 TIMESPAN 
 
 ### <a name="by-available-seats"></a>Op beschikbare seats
 
-Top 10 klanten op basis van beschikbare seats in de afgelopen maand
+Top 10 van klanten op basis van beschikbare seats in de afgelopen maand
 
 ```sql
 SELECT CustomerName, CustomerTpid, Product, AvailableSeats 
@@ -165,7 +165,7 @@ TIMESPAN LAST_6_MONTHS
 
 ### <a name="by-total-acr"></a>Op totale ACR
 
-Lijst met Azure-gebruiksabonnementen waarbij de totale ACR de afgelopen zes maanden groter is dan 20.000
+Lijst met Azure-gebruiksabonnementen waarbij de totale ACR in de afgelopen zes maanden groter is dan 20.000
 
 ```sql
 SELECT SubscriptionId, ServiceName, CustomerName, Month, UsageUnits, UsageQuantity, TotalACR 

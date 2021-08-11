@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 7b862a75d8128a00411d23dba4de65b3d50172f8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b50de8815afbc046f24abb09dcd5511abffd25dd573b502e3d592cf17760bd25
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844340"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693602"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Vereisten voor inschrijving als een CSP-partner voor directe facturering
 
@@ -30,8 +30,8 @@ Als directe factuurpartner bent u eigenaar van de end-to-end-relatie met uw klan
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-id**   |Een actief lidmaatschap van de Microsoft Partner Network mpn-id voor de locatie waarin u wilt verkopen.   |
 |**Goedkeuring**   |De autoriteit voor het accepteren en ondertekenen van juridische overeenkomsten namens uw organisatie.|
-|**Ondersteuning**   |De mogelijkheid om uw klanten het eerste niveau van cloudproductondersteuning te bieden. <br/>Een Microsoft-ondersteuningsplan, ofwel Geavanceerde ondersteuning voor partners (ASfP) of Premier Support for Partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteuningsplannen](https://partner.microsoft.com/support/partnersupport).<br/>BELANGRIJK: u moet een kredietcontrole door geven voordat u een ondersteuningsplan kunt aanschaffen. We sturen u een e-mail wanneer u de kredietcontrole hebt doorgenomen. |
-|**Omzetvereiste**|Moet voldoen aan ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma gedurende de voorgaande twaalf maanden als indirecte reseller. Controleer of uw organisatie aan de omzetvereiste in [Partner Center Analytics.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) Partners kunnen hun na twaalf maanden aan omzet op Partner Center.<br/>De verkopen die uw USD 300.000 na twaalf maanden omzet vormen, zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste usd 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.|
+|**Ondersteuning**   |De mogelijkheid om uw klanten het eerste niveau van cloudproductondersteuning te bieden. <br/>Een Microsoft-ondersteuningsplan, ofwel Geavanceerde ondersteuning voor partners (ASfP) of Premier Support for Partners (PSfP), afhankelijk van uw behoeften. [Vergelijk ondersteuningsplannen](https://partner.microsoft.com/support/partnersupport).<br/>BELANGRIJK: U moet een kredietcontrole door geven voordat u een ondersteuningsplan kunt aanschaffen. We sturen u een e-mail wanneer u de kredietcontrole hebt doorgenomen. |
+|**Omzetvereiste**|Moet voldoen aan ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma gedurende de voorgaande twaalf maanden als indirecte reseller. Controleer of uw organisatie aan de omzetvereiste in [Partner Center Analytics.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) Partners kunnen hun na twaalf maanden aan omzet op Partner Center.<br/>De verkopen die uw USD 300.000 na twaalf maanden omzet vormen, zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste USD 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.|
 |**CSP-vereiste**|Moet minimaal 12 maanden worden verhandeld als een indirecte reseller.| 
 |**Debiteuren** |De organisatie-infrastructuur die is ingericht voor het beheren van klantfacturering en -inrichting.|
 |**Aanbeveling**|             |
@@ -40,7 +40,7 @@ Als directe factuurpartner bent u eigenaar van de end-to-end-relatie met uw klan
 
 ### <a name="verify-direct-bill-eligibility"></a>Geschiktheid voor directe factuur controleren
 
-Nadat u hebt gecontroleerd of u voldoet aan de minimale vereisten voor inschrijving als partner voor directe factuur, kunt u doorgaan met [het inschrijvingsformulier](https://forms.office.com/r/0fP4fFT8n8).
+Nadat u hebt gecontroleerd of u voldoet aan de minimale vereisten om u in te schrijven als partner voor directe factuur, kunt u doorgaan met [het inschrijvingsformulier](https://forms.office.com/r/0fP4fFT8n8).
 
 Nadat we hebben gecontroleerd of uw bedrijf voldoet aan de geschiktheidsvereisten voor inschrijving als directe factuurpartner en u de inschrijvingstoepassing hebt voltooid, controleren en controleren we de bedrijfsgegevens die u hebt opgegeven in het inschrijvingsproces. Als onderdeel van deze beoordeling controleren we het tegoed van uw bedrijf. We laten u per e-mail weten wanneer uw bedrijf de kredietcontrole heeft doorgenomen.
 

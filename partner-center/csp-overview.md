@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61117b77efdb447abad482654afc7220aa2bcce6
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 6da4cc633ca08d68fc0392afbb86559ac75624309203eb9ee264e80237c741b2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842321"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693687"
 ---
 # <a name="cloud-solution-provider-program"></a>Cloud Solution Provider-programma 
 
@@ -23,9 +23,9 @@ ms.locfileid: "114842321"
 In dit artikel wordt een overzicht gegeven van het Cloud Solution Provider-programma (CSP) en worden de verschillende operationele modellen en hun vereisten uitgelegd, evenals andere informatie over verkopen via dit programma.  Het CSP-programma helpt u om meer betrokken te zijn bij de bedrijven van uw klanten, naast het opnieuw verkopen van licenties, en kan de volgende voordelen bieden: 
 
 - Diepere klantbetrokkenheid: Als u regelmatig met uw klanten vergadert, krijgt u een beter inzicht in hun bedrijf en behoeften.
-- Verhoogde winst: Het bieden van meer ondersteuning en factureringsservices, zowel zelf als via een indirecte provider, opent nieuwe inkomstenstromen.  
+- Verhoogde winst: het bieden van meer ondersteuning en factureringsservices, zowel zelf als via een indirecte provider, opent nieuwe inkomstenstromen.  
 - Waarde toevoegen: U kunt klanten branchespecifieke oplossingen aanbieden die zijn gebundeld met Microsoft-producten.
-- Beheerde services bieden: U bent goed in staat om te voldoen aan de vraag van klanten naar beheerde services. 
+- Beheerde services bieden: U bent goed in de positie om te voldoen aan de vraag van klanten naar beheerde services. 
 
 ## <a name="which-csp-model-is-best-for-me"></a>Welk CSP-model is het beste voor mij?
 
@@ -46,16 +46,16 @@ In het model voor directe factuur kopen partners Microsoft-producten en -abonnem
 
 #### <a name="requirements"></a>Vereisten
 
-Bekijk de bijgewerkte vereisten en aanbevelingen voor directe factuurinschrijving hieronder om te evalueren hoe u een rendabeler bedrijf kunt bouwen en uitbreiden met het juiste model in het Cloud Solution Provider programma:  
+Bekijk de bijgewerkte vereisten en aanbevelingen voor directe factuurinschrijving hieronder om te evalueren hoe u een efficiënter bedrijf kunt bouwen en uitbreiden met het juiste model in het Cloud Solution Provider programma:  
 
-- **Ondersteuning:** Breid uw ondersteuningsmogelijkheden uit door een-op-een cloudondersteuning met prioriteit aan te kopen met een Microsoft Advanced Support for Partners-pakket. Of kies een Microsoft Premier Support for Partners-pakket voor toegang tot de volledige catalogus met proactieve services, 24/7 ondersteuning voor onderbrekingen/oplossingen en technisch accountbeheer in de cloud, hybride en on-premises. Bekijk de Microsoft Partner-overeenkomst meer inzicht te krijgen in uw ondersteuningsverplichtingen
-- **Prestatievereiste:** Zorg ervoor dat u ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma hebt gedurende de voorgaande twaalf maanden als indirecte reseller. Partners kunnen hun na twaalf maanden aan omzet op Partner Center. De verkopen die uw USD 300.000 na twaalf maanden omzet vormen, zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste usd 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.
+- **Ondersteuning:** Breid uw ondersteuningsmogelijkheden uit door een-op-een cloudondersteuning met prioriteit aan te kopen met een Microsoft Advanced Support for Partners-pakket. U kunt ook een Microsoft Premier Support for Partners-pakket kiezen voor toegang tot de volledige catalogus met proactieve services, ondersteuning voor 24/7 onderbrekings-/oplossingsondersteuning en technisch accountbeheer in de cloud, hybride en on-premises. Bekijk de Microsoft Partner-overeenkomst meer inzicht te krijgen in uw ondersteuningsverplichtingen
+- **Prestatievereiste:** Zorg ervoor dat u ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma hebt gedurende de voorgaande twaalf maanden als indirecte reseller. Partners kunnen hun na twaalf maanden aan omzet op Partner Center. De verkopen van uw USD 300.000 na twaalf maanden omzet zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste USD 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.
 - Voldoen aan de minimale infrastructuurmogelijkheden, zoals facturering en inrichting
 - Een actief lidmaatschap van de Microsoft Partner Network mpn-id voor de locatie waarin u wilt verkopen.
 
 #### <a name="recommendations"></a>Aanbevelingen
 
-- **Belangrijke mogelijkheden demonstreren:** Demonstreert dat u ten minste één beheerde service, IP-service of klantoplossingstoepassing biedt. [Meer informatie over het toevoegen van beheerde services.](https://partner.microsoft.com/solutions/managed-services) 
+- **Belangrijke mogelijkheden demonstreren:** Laat zien dat u ten minste één toepassing voor een beheerde service, IP-service of klantoplossing biedt. [Meer informatie over het toevoegen van beheerde services](https://partner.microsoft.com/solutions/managed-services). 
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Waar kan ik verkopen via het CSP-programma?
 
