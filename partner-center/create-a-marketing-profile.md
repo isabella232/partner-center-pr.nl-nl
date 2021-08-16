@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb093f406f9776b3db0e091cd059ffa87836d0e946b4f9f5921388f52c81838a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a9c0d970b4ddbdf22e0443ca9e6a2d06a031d0a9
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115679841"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914444"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Een bedrijfsprofiel maken om microsoft-verkoop leads te krijgen en klanten te helpen u te vinden
 
@@ -26,7 +26,7 @@ Microsoft betrek miljoenen klanten elk jaar via marketing-, verkoop- en service-
 
 Het maken van een bedrijfsprofiel is de eerste stap voor het verkrijgen van verwijzingen. We laten uw profiel zien aan klanten die op zoek zijn naar partners die hen kunnen helpen bij het implementeren van Microsoft-producten en -oplossingen, via:
 
-- **Zoekervaring [voor een oplossingsprovider](https://www.microsoft.com/solution-providers/home) zoeken.** Potentiële klanten kunnen zelf zoeken in lijsten van partners om partners te vinden die voldoen aan hun zoekcriteria.
+- **De [zoekervaring Een oplossingsprovider](https://www.microsoft.com/solution-providers/home) zoeken.** Potentiële klanten kunnen zelf zoeken in lijsten van partners om partners te vinden die voldoen aan hun zoekcriteria.
 
 - **Verwijzingen van Microsoft-verkoop- en servicemedewerkers**. Potentiële klanten die geïnteresseerd zijn in het implementeren van cloudtechnologieoplossingen, nemen contact op met Microsoft voor hulp bij het vinden van professionals die aan hun bedrijfsbehoeften kunnen voldoen. Deze Microsoft-professionals kunnen potentiële klanten dan naar uw bedrijf verwijzen.
 
@@ -37,7 +37,7 @@ Het maken van een bedrijfsprofiel is de eerste stap voor het verkrijgen van verw
 
 Maak profielen voor elke regio waarin u bent gemachtigd om zaken te doen.
 
-1. Selecteer in **Partner Center** menu Verwijzingen **Bedrijfsprofielen** en selecteer een &gt;  &gt; land/regio > Een **[bedrijfsprofiel maken.](https://partner.microsoft.com/referrals/businessprofiles/)**
+1. Selecteer in **Partner Center** menu  Verwijzingen Bedrijfsprofielen en selecteer een &gt;  &gt; land/regio > **[Een bedrijfsprofiel maken.](https://partner.microsoft.com/referrals/businessprofiles/)**
 
 2. Selecteer op **de pagina Een bedrijfsprofiel** maken een regio en voer vervolgens uw profielgegevens in.
    > [!NOTE]  
@@ -53,11 +53,11 @@ Uw beschrijving mag maximaal 2500 tekens bevatten. Tips voor een goede beschrijv
 
 -  **Wees kort,** vooraan met wat belangrijk is in de eerste zin of twee. Dit moet de kop zijn die de aandacht van klanten trekt. In zoekervaring Een partner zoeken wordt de eerste regel of twee weergegeven in de voorbeeldweergave van de zoekresultaten.
 -  **Richt u op de ervaringen van uw bedrijf met specifieke Microsoft-aanbiedingen.** Klanten die naar verwijzingen zoeken, zijn doorgaans op zoek naar partners met een specifieke Microsoft-ervaring.
--  **Gebruik opsommingstekens**. Gegevens ops delen in lijsten met opsommingstekens om het scannen te vereenvoudigen.
+-  **Gebruik opsommingstekens**. Informatie op te delen in lijsten met opsommingstekens om het gemakkelijker te scannen.
 -  **Vermijd jargon**. Gebruik eenvoudige, alledaagse taal en noem uw aanbiedingen wat ze doen: de zakelijke behoeften die ze aanpakken, of de taak of doelstelling die ze klanten helpen bereiken.
 -  **U hoeft de beschrijving niet in te vullen met zoekwoordwoorden.** De zoekhulpprogramma's van klanten zoeken naar trefwoorden die zijn gegenereerd in de sectie Partnerexpertise, niet de beschrijving.
 -  **Houd uw profiel actueel.** Werk bij elke release van software of service uw profiel bij, zodat het gesynchroniseerd blijft met de website van uw bedrijf.
--  Verwijs niet op naam naar een ander partnerbedrijf van **Microsoft,** tenzij het een dochteronderneming is of anderszins is gelieerd aan uw bedrijf, of u een huidige overeenkomst hebt met dat partnerbedrijf om samen te werken en/of elkaar te promoten voor gedeelde werkkansen.
+-  Verwijs niet op naam naar een ander partnerbedrijf van **Microsoft,** tenzij het een dochteronderneming is of anderszins is gelieerd aan uw bedrijf, of u een huidige overeenkomst met dat partnerbedrijf hebt om samen te werken en/of elkaar te promoten voor gedeelde werkkansen.
 -  **Voor regio's met meerdere talen kunt** u overwegen om tekst uit meerdere talen op te geven in de beschrijving.
 
 #### <a name="linkedin-company-page-more-ways-to-connect"></a>LinkedIn-bedrijfspagina: meer manieren om verbinding te maken
@@ -89,13 +89,13 @@ Andere tags die worden gebruikt voor zoeken:
 
 U kunt zich afkeert van verwijzingen van bedrijven die niet voldoen aan de klantgrootte van uw doel.
 
-Als u zich uitgeeft, hebt u meer tijd om te besteden aan bedrijven die overeenkomen met de bedrijven waar u liever mee werkt.
+Door u af te geven, hebt u meer tijd om te besteden aan bedrijven die overeenkomen met de bedrijven waar u liever mee werkt.
 
 #### <a name="locations"></a>Locaties
 
-U kunt maximaal vijf van de toplocaties van uw bedrijf per regio toevoegen. Deze locaties worden weergegeven wanneer klanten zoeken naar partners op nabijheid.
+U kunt maximaal vijf van de toplocaties van uw bedrijf per regio toevoegen. Deze locaties worden weergegeven wanneer klanten op nabijheid naar partners zoeken.
 
-Geef de locaties aan die officiële bedrijfslocaties zijn en die kunnen worden gevalideerd. Kies locaties die centraal staan in de markten die u bedienen en die het beste de mogelijkheid van uw bedrijf vertegenwoordigen om te voldoen.
+Geef locaties aan die officiële bedrijfslocaties zijn en kunnen worden gevalideerd. Kies locaties die centraal staan in de markten die u bedienen en vertegenwoordigen het beste de mogelijkheid van uw bedrijf om te voldoen.
 
 Wanneer u klaar bent met het  bijwerken van de locatiegegevens, selecteert u Deze locatie opslaan of Deze locatie opslaan en voegt u er nog een toe **(zelfs** als u slechts één locatie toevoegt).
 
@@ -107,14 +107,14 @@ Als u zich op vijf toplocaties bevindt en u er een moet **wijzigen,** verwijdert
 
 ## <a name="review-your-profile"></a>Uw profiel controleren
 
-Nadat u uw profiel hebt [](https://www.microsoft.com/solution-providers/home) gepubliceerd, worden updates binnen 24 uur weergegeven in Zoek een oplossingsprovider.
+Nadat u uw profiel hebt [](https://appsource.microsoft.com/marketplace/partner-dir) gepubliceerd, worden updates binnen 24 uur weergegeven in Zoek een oplossingsprovider.
 
 ## <a name="improve-the-visibility-of-your-profile"></a>De zichtbaarheid van uw profiel verbeteren
 
 - **[Snel reageren op aanvragen](manage-leads.md)**. Wanneer u een klantverwijzing ontvangt, kan een snellere reactie leiden tot betere resultaten op de zoekpagina's voor toekomstige klanten.
 
-- **Wees selectief met uw tags**.  Het is beter om minder tags te hebben die het beste de aanbiedingen, oplossingen, waardeaanbiedingen en unieke positie van uw bedrijf vertegenwoordigen, waar u consistent succes kunt aantonen.  Dat zal uw winst opleveren in toekomstige zoekresultaten.
-- **Ver verdienen competentietags** via Microsoft om uw vaardigheid in onze producten te demonstreren.
+- **Wees selectief met uw tags**.  Het is beter om minder tags te hebben die het beste de aanbiedingen, oplossingen, waardeaanbiedingen en unieke positie van uw bedrijf vertegenwoordigen, waar u consistent succes kunt aantonen.  Dat levert in toekomstige zoekresultaten uitkomst op.
+- **Verdien competentietags** via Microsoft om uw vaardigheid in onze producten te demonstreren.
 
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ba743570ae1d4cb07d45e82a6f0a65c46d5458c5b9a9416deebb3a50292e844
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3f761fa5727f90f33a36f5352ad2f037cbf8b393
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685765"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914631"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hoe het verdiende tegoed van de partner wordt berekend en betaald
 
@@ -40,7 +40,7 @@ Voor het ontvangen van partnertegoed (PEC) gelden de volgende vereisten:
 - PEC wordt verdiend op Azure-resourceniveau, resourcegroep of abonnement. Als een partner geldige toegang heeft op het niveau van het abonnement of de resourcegroep, verdient elke resource die naar de hogere entiteit wordt geworpen PEC.
 - PEC is niet van toepassing op de volgende services:
     - Reserveringen voor Azure-plannen
-    - Producten van derden die zijn geïdentificeerd als derden in de kolom Tags van de prijs voor azure-planverbruik
+    - Producten van derden die zijn geïdentificeerd als derde partij in de kolom Tags van de prijs voor azure-planverbruik
     - Producten in de marketplace-prijslijst
     - [Azure Spot Virtual Machines](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
@@ -52,7 +52,9 @@ Zie Rollen en machtigingen die zijn vereist om partnertegoed te verdienen voor m
 
 ## <a name="calculation"></a>Berekening
 
-PEC wordt dagelijks berekend. U wordt betaald voor elke dag dat u in aanmerking komt voor PEC voor elk abonnement. Hoewel PEC-gegevens niet op uw maandelijkse factuur worden weergegeven, worden de PEC-inkomsten in de aangepaste nettokostenlijn in de factuur meegenomen. Meer PEC-gegevens vindt u in het bestand met dagelijkse [gebruiksgegevens](daily-rated-usage-recon-files.md) en in het recon-bestand van de maandelijkse factuur.
+PEC wordt dagelijks berekend. U wordt betaald voor elke dag dat u in aanmerking komt voor PEC voor elk abonnement. Hoewel PEC-gegevens uw maandelijkse factuur niet worden weergegeven, worden de PEC-inkomsten in de aangepaste nettokostenlijn in de factuur meegenomen. Meer PEC-gegevens vindt u in het bestand met dagelijkse [gebruiksgegevens](daily-rated-usage-recon-files.md) en in het recon-bestand van de maandelijkse factuur.
+
+:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Schermopname van een Partner Center die kolommen identificeert." border="false":::
 
 In de onderstaande tabel worden de PEC-elementen beschreven die zijn gevonden in het maandelijkse reconbestand voor facturen. Alle waarden zijn in USD, zoals wordt weergegeven in de kolom AI, PricingCurrency.
 
@@ -61,13 +63,17 @@ In de onderstaande tabel worden de PEC-elementen beschreven die zijn gevonden in
 | Kolom C  | CustomerName  |
 | Kolom P | UnitPrice |
 | Kolom AD | EffectiveUnitPrice. Dit is de prijs nadat PEC is toegepast en aan de vereisten is voldaan. Wanneer PEC wordt toegepast, ziet u dat effectiveUnitPrice in kolom AD een percentage kleiner is dan de UnitPrice in kolom P.   |
-| Kolom V  | PriceAdjustmentDescription. Dit is leeg als aan geen van de vereisten voor PEC wordt voldaan of als het PEC-%,PEC% wordt toegepast op UnitPrice. Mogelijk komt u echter in aanmerking voor extra tegoed. Als dat het zo is, worden ze weergegeven in deze kolom. Voorbeeld: korting op laag 1 van 100%.   |
+| Kolom V  | PriceAdjustmentDescription. Dit is leeg als er niet aan de vereisten voor PEC wordt voldaan of als u het PEC-%-aantal hebt dat wordt toegepast op UnitPrice. Mogelijk komt u echter in aanmerking voor extra tegoed. Als dat het zo is, worden ze weergegeven in deze kolom. Voorbeeld: korting op laag 1 van 100%.   |
 
 PEC-toegang bewaken:
 
 - **Bestand met dagelijks beoordeeld gebruik** laat zien waar PEC dagelijks wordt toegepast (of niet)
 
 - [**Azure Monitor-waarschuwingen**](azure-plan-manage.md) bewaken wijzigingen in permanente bevoegde toegang.
+
+Het bestand met dagelijks beoordeeld gebruik:
+
+:::image type="content" source="images/advanced-specializations/partner-daily.png" alt-text="Schermopname van een Partner Center bestand met dagelijks beoordeeld gebruik waarin de effectieve eenheidsprijs wordt belicht." border="false":::
 
 ## <a name="partner-earned-credit-api"></a>Partnertegoed-API
 
@@ -83,6 +89,9 @@ Azure Cost Management (ACM) met behulp van Kostenanalyse kunt u als partner de k
 2. Selecteer **Kostenbeheer.**
 3. Selecteer **Kostenanalyse.**
 In de weergave Kostenanalyse worden de kosten voor uw factureringsrekening weergegeven voor alle services die zijn gekocht en verbruikt tegen de prijzen die u Microsoft betaalt.
+
+:::image type="content" source="images/advanced-specializations/partner-cost.png" alt-text="Schermopname van de pagina Kostenanalyse van Cost Management." border="false":::
+
 4. Selecteer partnerEarnedCreditApplied in de vervolgkeuzelijst draaigrafiek. 
 
     Als deze waarde **True** is, hebben de bijbehorende kosten het voordeel van het partnertegoed.
@@ -92,7 +101,7 @@ In de weergave Kostenanalyse worden de kosten voor uw factureringsrekening weerg
 >[!NOTE]
 >Normaal gesproken duurt het 8-24 uur voordat het gebruik voor services wordt weergegeven in Cost Management en wordt het PEC-tegoed binnen 48 uur na het moment van toegang in Azure Cost Management.
 
-U kunt ook groeperen op en filteren op de eigenschap **PartnerEarnedCreditApplied** met behulp van de **filterfuncties** **Groeperen** op en Toevoegen. Op deze manier kunt u inzoomen op kosten met PEC en de kosten die geen PEC hebben toegepast.
+U kunt ook groeperen op en filteren op de eigenschap **PartnerEarnedCreditApplied** met behulp van de filterfuncties **Groeperen** op **en** Toevoegen. Op deze manier kunt u inzoomen op kosten met PEC en de kosten die geen PEC hebben toegepast.
 
 ## <a name="how-is-pec-paid"></a>Hoe wordt PEC betaald?
 PEC-inkomsten worden in rekening gebracht in de aangepaste nettokostenregel binnen de factuur. Zie het maandelijkse factuurafstemmingsbestand en het dagelijkse gebruiksbestand van Azure voor meer informatie over correcties.
