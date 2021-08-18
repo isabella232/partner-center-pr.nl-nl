@@ -1,29 +1,30 @@
 ---
-title: Privé-Azure Marketplace maken en beheren in de Azure Portal
-description: Meer informatie over het maken en beheren van Azure Marketplace privé-Azure Portal in de verouderde weergave. Met Azure Marketplace (preview) kunnen beheerders bepalen welke oplossingen van derden hun gebruikers kunnen gebruiken.
+title: Privéverzamelingen Azure Marketplace en beheren in de Azure Portal
+description: Maak en beheer privé-Azure Marketplace (preview) in de Azure Portal met de nieuwe weergave Verzamelingen. Met Azure Marketplace (preview) kunnen beheerders bepalen welke oplossingen van derden hun gebruikers kunnen gebruiken.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 08/10/2021
-ms.openlocfilehash: da44807519f18d6aa17e41d8e81b9ad774e40d2d
+ms.openlocfilehash: 74550d814657a117f62d1e3eae45d46bae040356
 ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914336"
+ms.locfileid: "121915072"
 ---
-# <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Privé-Azure Marketplace maken en beheren in de Azure Portal
+# <a name="create-and-manage-private-azure-marketplace-collections-in-the-azure-portal"></a>Privéverzamelingen Azure Marketplace en beheren in de Azure Portal
 
 > [!NOTE]
-> In dit artikel worden verouderde privé-Azure Marketplace. Zie in plaats daarvan dit nieuwe artikel voor de [nieuwe weergave](create-manage-private-azure-marketplace-new.md) Verzamelingen.
+> In dit artikel worden privéverzamelingen Azure Marketplace beschreven. Verouderde weergave wordt in plaats daarvan in het [oorspronkelijke artikel](create-manage-private-azure-marketplace.md) behandeld.
 
 Met Azure Marketplace kunnen beheerders bepalen welke oplossingen van derden hun gebruikers kunnen gebruiken. Dit gebeurt door de gebruiker alleen aanbiedingen te laten implementeren die zijn goedgekeurd door de beheerder en voldoen aan het beleid van uw onderneming. Met Private Azure Marketplace kunnen gebruikers in de online winkel zoeken naar compatibele aanbiedingen om aan te schaffen en te implementeren.
 
-Als Marketplace-beheerder (toegewezen rol) begint u met een uitgeschakelde en lege privéopslag waar u uw goedgekeurde aanbiedingen en abonnementen kunt toevoegen. In dit artikel wordt uitgelegd hoe u de benodigde rol toewijst, een privéopslag maakt, items beheert, gebruikersaanvragen goedkeurt en privé-Azure Marketplace inschakelen voor uw gebruikers.
+Als Marketplace-beheerder (toegewezen rol) begint u met een uitgeschakelde en lege Private Marketplace en één verzameling waar u uw goedgekeurde aanbiedingen en abonnementen kunt toevoegen. In dit artikel wordt uitgelegd hoe u de benodigde rol toewijst, een privéopslag maakt, verzamelingen en items beheert, gebruikersaanvragen goedkeurt en privé-Azure Marketplace inschakelen voor uw gebruikers.
 
 > [!NOTE]
-> - Privé Azure Marketplace zich op tenantniveau, zodat alle gebruikers onder de tenant dezelfde gecureerde lijst zien.
+> - Privé Azure Marketplace zich op tenantniveau; zodra deze is ingeschakeld, wordt het beleid ingesteld voor alle gebruikers onder de tenant.
+> - De goedgekeurde lijst op abonnementsniveau beheren met behulp van verzamelingen.
 > - Alle Microsoft-oplossingen (inclusief [goedgekeurde Linux-distributies)](/azure/virtual-machines/linux/endorsed-distros)worden automatisch toegevoegd aan privé-Azure Marketplace.
 
 ## <a name="assign-the-marketplace-admin-role"></a>De Marketplace-beheerdersrol toewijzen
@@ -53,7 +54,7 @@ Deze vereisten zijn vereist voordat u de marketplace-beheerdersrol kunt toewijze
 
 1. Selecteer **Toegangsbeheer (IAM) om** de marketplace-beheerdersrol toe te wijzen.
 
-   :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Geeft het scherm I A M-toegangsbeheer weer.":::
+   :::image type="content" source="media/private-azure-new/access-control-iam.png" alt-text="Geeft het scherm I A M-toegangsbeheer weer.":::
 
 1. Selecteer **+ Toevoegen** > **Roltoewijzing toevoegen**.
 
@@ -168,62 +169,130 @@ Zie voor meer informatie over de cmdlets in de Az.Portal PowerShell-module [Micr
 
 4. Selecteer **Aan de slag** privé-Azure Marketplace maken (u hoeft dit maar één keer te doen).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Laat zien hoe u het hoofdvenster Aan de slag 'Azure Portal' selecteert.":::
+    :::image type="content" source="media/private-azure-new/private-marketplace-get-started.png" alt-text="Laat zien hoe u het hoofdvenster Aan de slag 'Azure Portal' selecteert.":::
 
-    Als er Azure Marketplace al bestaat voor deze **tenant,** wordt Marketplace beheren standaard geselecteerd.
+    Als er Azure Marketplace voor deze tenant bestaat, wordt **Marketplace** beheren standaard geselecteerd.
 
-5. Zodra dit is voltooid, hebt u een lege en uitgeschakelde Azure Marketplace.
+5. Zodra dit is voltooid, hebt u een uitgeschakelde Azure Marketplace met één **standaardverzameling**.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Toont het lege scherm Azure Marketplace persoonlijke gegevens.":::
+    :::image type="content" source="media/private-azure-new/new-private-marketplace.png" alt-text="Toont het lege scherm Azure Marketplace persoonlijke gegevens.":::
 
-## <a name="add-items-from-gallery"></a>Items uit de galerie toevoegen
+    > [!NOTE]
+    > - **Standaardverzameling** is een door het systeem gegenereerde verzameling die is ingesteld met het bereik van alle abonnementen onder dezelfde tenant.
+    > - De naam en het bereik van de standaardverzameling kunnen niet worden gewijzigd en de verzameling kan niet worden verwijderd.
 
-Een item is een combinatie van een aanbieding en een plan. U kunt items zoeken en toevoegen op de pagina Marketplace beheren.
+## <a name="add-collection-items-from-gallery"></a>Verzamelingsitems uit de galerie toevoegen
 
-1. Selecteer **Items toevoegen.**
+Een item is een combinatie van een aanbieding en een plan. U kunt items zoeken en toevoegen op de verzamelingspagina.
 
-2. Blader door **de galerie** of gebruik het zoekveld om het zoekitem te vinden.
+1. Selecteer de naam van de verzameling om die verzameling te beheren.
+
+2. Selecteer **Items toevoegen.**
+
+3. Blader door **de galerie** of gebruik het zoekveld om het zoekitem te vinden.
 
    :::image type="content" source="media/private-azure/marketplace-gallery.png" lightbox="media/private-azure/marketplace-gallery-zoom.png" alt-text="Laat zien hoe u door de galerie bladert of het zoekveld gebruikt.":::
 
-3. Wanneer u een nieuwe aanbieding toevoegt, worden alle huidige abonnementen standaard toegevoegd aan de goedgekeurde lijst. Als u de abonnementsselectie wilt wijzigen voordat u de geselecteerde items toevoegt, selecteert u de vervolgkeuzelijst op de tegel van de aanbieding en werk u de vereiste plannen bij.
+4. Wanneer u een nieuwe aanbieding toevoegt, worden alle huidige abonnementen standaard toegevoegd aan de goedgekeurde lijst. Als u de abonnementsselectie wilt wijzigen voordat u de geselecteerde items toevoegt, selecteert u de vervolgkeuzelijst op de tegel van de aanbieding en werk u de vereiste plannen bij.
 
     :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Laat zien hoe u de vereiste plannen bij kunt werken.":::
 
-4. Selecteer **Klaar** linksonder nadat u uw selecties hebt gemaakt.
+5. Selecteer **Klaar** linksonder nadat u uw selecties hebt gemaakt.
 
 >[!Note]
 > **Items toevoegen** aan de Marketplace is alleen beschikbaar voor aanbiedingen die niet van Microsoft zijn. Microsoft-oplossingen (inclusief [goedgekeurde Linux-distributies)](/azure/virtual-machines/linux/endorsed-distros)worden gemarkeerd als 'Standaard goedgekeurd' en kunnen niet worden beheerd in Private Marketplace.
 
-## <a name="edit-items-plans"></a>De plannen van het item bewerken
+## <a name="edit-item-plans"></a>Itemplannen bewerken
 
-U kunt de abonnementen van een item bewerken op de pagina Marketplace beheren.
+Bewerk de plannen van een item op de verzamelingspagina.
 
 1. Bekijk in **de** kolom Plannen de beschikbare plannen in de vervolgkeuzelijst voor dat item.
 
 2. Schakel de selectievakjes in of uit om te kiezen welke plannen beschikbaar moeten worden gesteld aan uw gebruikers.
 
-   :::image type="content" source="media/private-azure/edit-items.png" alt-text="Laat zien hoe u het selectievakje voor het vereiste item in- of uitcheckt.":::
+   :::image type="content" source="media/private-azure-new/edit-items.png" alt-text="Laat zien hoe u het selectievakje voor het vereiste item in- of uitcheckt.":::
 
    > [!NOTE]
    > Voor elke aanbieding moet ten minste één abonnement zijn geselecteerd om de update uit te voeren. Als u alle abonnementen wilt verwijderen die betrekking hebben op een aanbieding, verwijdert u de hele aanbieding (zie de volgende sectie).
 
-## <a name="delete-offers"></a>Aanbiedingen verwijderen
+### <a name="delete-items"></a>Items verwijderen
 
-Schakel op de pagina Marketplace beheren het selectievakje in naast de naam van de aanbieding (zie het bovenstaande scherm) en **selecteer Items verwijderen.**
+Schakel op de verzamelingspagina het selectievakje in naast de naam van de aanbieding en selecteer **Items verwijderen.**
 
-## <a name="enabledisable-private-azure-marketplace"></a>Privé-Azure Marketplace/uitschakelen
+:::image type="content" source="media/private-azure-new/delete-item.png" alt-text="Laat zien hoe u het selectievakje incheckt en 'Items verwijderen' kiest.":::
 
-Op de pagina Marketplace beheren ziet u een van deze banners, die de huidige status van privé-Azure Marketplace:
+### <a name="copy-items"></a>Items kopiëren
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Geeft de banner Status uitschakelen weer.":::
+1. Schakel op de pagina Verzameling beheren het selectievakje in naast de naam van de aanbieding en selecteer **Items kopiëren.**  
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Toont de banner Status inschakelen.":::
+   :::image type="content" source="media/private-azure-new/copy-items.png" lightbox="media/private-azure/marketplace-notifications.png" alt-text="Toont de knop Items kopiëren.":::
 
-U kunt privé-Azure Marketplace in- of uitschakelen.
+1. Selecteer in het rechterdeelvenster de doelverzameling (maak indien nodig een nieuwe verzameling door **Nieuwe verzameling maken te selecteren).**
 
-- Als deze optie is uitgeschakeld, **selecteert u Private Marketplace inschakelen** om in teschakelen.
-- Als deze optie is ingeschakeld, **selecteert u Private Marketplace uitschakelen om** dit uit te schakelen.
+   :::image type="content" source="media/private-azure-new/create-new-collection.png" alt-text="Toont het dialoogvenster Een verzameling maken.":::
+
+1. Selecteer **Kopiëren**.
+
+### <a name="enabledisable-a-collection"></a>Een verzameling in- of uitschakelen
+
+1. Op **de pagina** Verzameling beheren wordt een banner weergegeven met de huidige status van de verzameling:
+
+   :::image type="content" source="media/private-azure-new/collection-disabled.png" alt-text="Toont de banner Verzameling uitgeschakeld.":::
+   :::image type="content" source="media/private-azure-new/collection-enabled.png" alt-text="Toont de banner Verzameling ingeschakeld.":::
+
+1. Selecteer op **de pagina Marketplace** beheren de verzameling en gebruik de bovenste actiebalk om de verzameling in of uit te schakelen.
+
+   :::image type="content" source="media/private-azure-new/action-bar.png" alt-text="Toont de actiebalk Marketplace beheren met de knoppen Verzameling in- en uitschakelen.":::
+
+### <a name="enabledisable-private-azure-marketplace"></a>Privé-Azure Marketplace/uitschakelen
+
+Op de pagina Marketplace beheren wordt een van deze banners weergegeven met de huidige status van persoonlijke Azure Marketplace:
+
+   :::image type="content" source="media/private-azure-new/state-disable.png" alt-text="Geeft de banner Azure Marketplace uitgeschakeld weer.":::
+   :::image type="content" source="media/private-azure-new/state-enable.png" alt-text="Toont de banner Azure Marketplace ingeschakeld.":::
+
+Privé-Azure Marketplace of uitschakelen:
+
+1. Selecteer **Instellingen** in het menu aan de linkerkant.
+1. Selecteer het keuzerondje voor de gewenste status.
+1. Selecteer **Toepassen** onderaan de pagina.
+
+### <a name="add-new-collection"></a>Nieuwe verzameling toevoegen
+
+Met verzamelingen kan Marketplace-beheerder (toegewezen rol) meerdere lijsten met goedgekeurde items maken die beschikbaar zijn voor verschillende abonnementen in de hele organisatie.
+
+1. Selecteer **Verzameling toevoegen.**
+
+2. Noem uw verzameling.
+
+3. Selecteer abonnementen in de vervolgkeuzelijst.
+
+4. Selecteer **Maken** onderaan (niet hieronder weergegeven) nadat u uw selecties hebt gemaakt.
+
+    :::image type="content" source="media/private-azure-new/create-collection.png" alt-text="Toont het dialoogvenster Een verzameling maken.":::
+
+5. Hiermee maakt u een nieuwe lege en uitgeschakelde privéverzameling. Selecteer een verzamelingsnaam om deze te beheren.
+
+    :::image type="content" source="media/private-azure-new/new-empty-collection.png" alt-text="Toont een nieuw en leeg venster Verzamelingsitems.":::
+
+### <a name="update-collection-properties"></a>Eigenschappen van verzameling bijwerken
+
+1. Selecteer de naam van de verzameling die u wilt beheren.
+2. Selecteer **Verzamelingseigenschappen** in het menu aan de linkerkant.
+
+    :::image type="content" source="media/private-azure-new/collection-properties.png" alt-text="Toont de venster Eigenschappen.":::
+
+3. Werk de naam en geselecteerde abonnementen zo nodig bij.
+4. Selecteer **Toepassen** (niet weergegeven).
+
+### <a name="delete-a-collection"></a>Verwijder een collectie
+
+Schakel op de pagina Marketplace beheren het selectievakje in naast de naam van de verzameling en selecteer **Verzameling verwijderen.**
+
+:::image type="content" source="media/private-azure-new/collection-delete.png" alt-text="Toont het scherm Azure Marketplace met de knop Verzameling verwijderen gemarkeerd.":::
+
+> [!NOTE]
+> **Standaardverzameling** is een door het systeem gegenereerde verzameling en kan niet worden verwijderd.
 
 ## <a name="private-azure-marketplace-notification-center"></a>Meldingencentrum Azure Marketplace privé-Azure Marketplace
 
@@ -237,21 +306,25 @@ Voor toegang tot het meldingencentrum:
 
 1. Selecteer **Meldingen in** het menu aan de linkerkant.
 
-   :::image type="content" source="media/private-azure/marketplace-notifications-small.png" lightbox="media/private-azure/marketplace-notifications.png" alt-text="Geeft het menu Meldingen weer.":::
+   :::image type="content" source="media/private-azure-new/marketplace-notifications-small.png" lightbox="media/private-azure/marketplace-notifications.png" alt-text="Geeft het menu Meldingen weer.":::
 
-1. Selecteer het beletseltekenmenu voor meer acties.
+1. Selecteer een beletseltekenmenu aan de rechterkant voor meer acties.
 
     :::image type="content" source="media/private-azure/notifications-more-options.png" alt-text="Toont de meer opties menuresultaten.":::
 
 1. Voor planaanvragen wordt **met Aanvragen tonen** het formulier voor goedkeuringsaanvragen geopend, waar u alle gebruikersaanvragen voor de specifieke aanbieding kunt controleren.
+
 1. Selecteer **Goedkeuren** of **Afwijzen.**
 
-   :::image type="content" source="media/private-azure/notifications-approve-reject-small.png" lightbox="media/private-azure/notifications-approve-reject.png" alt-text="Toont de opties voor goedkeuren en afwijzen.":::
+   :::image type="content" source="media/private-azure-new/notifications-approve-reject-small.png" lightbox="media/private-azure/notifications-approve-reject.png" alt-text="Toont de opties voor goedkeuren en afwijzen.":::
 
 1. Selecteer het plan dat u wilt goedkeuren in de vervolgkeuzelijst.
+
+1. Selecteer de verzameling waar u de aanbiedingen/abonnementen aan wilt toevoegen.
+
 1. Voeg een opmerking toe en selecteer **Verzenden.**
 
-## <a name="browsing-private-azure-marketplace"></a>Bladeren door privé Azure Marketplace
+## <a name="browsing-private-azure-marketplace-user-experience"></a>Browsen Azure Marketplace privégegevens (gebruikerservaring)
 
 Wanneer Privé Azure Marketplace is ingeschakeld, zien gebruikers welke abonnementen de Marketplace-beheerder heeft goedgekeurd.
 
@@ -266,7 +339,7 @@ Gebruikers kunnen filteren tussen aanbiedingen die wel en niet zijn goedgekeurd:
 
 Hoewel de pagina met productdetails vergelijkbaar is met de algemene Azure Marketplace, zijn er drie privé-Azure Marketplace specifieke scenario's.
 
-- Wanneer een gebruiker een goedgekeurd abonnement selecteert, wordt **de knop Maken** ingeschakeld:
+- Wanneer een gebruiker een combinatie van een goedgekeurd abonnement en een goedgekeurd abonnement selecteert, wordt **de** knop Maken ingeschakeld:
 
    :::image type="content" source="media/private-azure/button-create-enabled-small.png" lightbox="media/private-azure/button-create-enabled.png" alt-text="Toont de banner van de aanbieding met de notering dat een plan kan worden gemaakt.":::
 
@@ -274,7 +347,7 @@ Hoewel de pagina met productdetails vergelijkbaar is met de algemene Azure Marke
 
    :::image type="content" source="media/private-azure/button-create-enabled-and-plans-small.png" lightbox="media/private-azure/button-create-enabled-and-plans.png" alt-text="Toont de aanbiedingsbanner waarin wordt weergegeven dat er een plan kan worden gemaakt en dat er beschikbare abonnementen kunnen worden weergegeven.":::
 
-- Wanneer een gebruiker een niet-goedgekeurd plan selecteert, wordt in een banner het plan als niet goedgekeurd gezien en wordt **de** knop Maken uitgeschakeld. De gebruiker kan nog steeds een aanvraag indienen om het plan toe te voegen aan de goedgekeurde lijst (zie de volgende sectie).
+- Wanneer een gebruiker een niet-goedgekeurd abonnement of niet-goedgekeurd abonnement selecteert, wordt  in een banner het plan als niet goedgekeurd voor het geselecteerde abonnement en wordt de knop Maken uitgeschakeld. De gebruiker kan nog steeds een aanvraag indienen om het plan toe te voegen aan de goedgekeurde lijst (zie de volgende sectie).
 
 ## <a name="request-to-add-offers-or-plans"></a>Aanvraag om aanbiedingen of plannen toe te voegen
 
@@ -282,15 +355,11 @@ U kunt een aanvraag indienen om een openbare aanbieding of een plan toe te voege
 
 1. Selecteer **Aanvraag om toe te voegen** in de banner om het formulier **Toegangsaanvraag te openen.**
 
-   :::image type="content" source="media/private-azure/request-banner-small.png" lightbox="media/private-azure/request-banner.png" alt-text="Toont de banner met de koppeling 'Aanvraag om toe te voegen'.":::
+   :::image type="content" source="media/private-azure-new/access-request-form-small.png" lightbox="media/private-azure/access-request-form.png" alt-text="Toont het formulier voor toegangsaanvraag voor aanbiedingen of abonnementen.":::
 
-   :::image type="content" source="media/private-azure/access-request-form-small.png" lightbox="media/private-azure/access-request-form.png" alt-text="Toont het formulier voor toegangsaanvraag voor aanbiedingen of abonnementen.":::
-
-1. Selecteer welke abonnementen u wilt toevoegen aan de aanvraag ( Elk **plan** vertelt de Marketplace-beheerder dat u geen voorkeur hebt voor een plan binnen een aanbieding).
+1. Selecteer welke abonnementen u wilt toevoegen aan de aanvraag ( Elk **plan** vertelt de Marketplace-beheerder dat u geen voorkeur hebt voor een specifiek abonnement binnen een aanbieding).
 
 1. Voeg een Reden **toe** en selecteer **Aanvraag om** uw aanvraag in te dienen.
-
-   :::image type="content" source="media/private-azure/access-request-form-filled-small.png" lightbox="media/private-azure/access-request-form-filled.png" alt-text="Toont het formulier voor toegangsaanvraag voor aanbiedingen of plannen met voorbeeldgegevens.":::
 
 1. Er wordt een indicatie voor een aanvraag in behandeling weergegeven in het formulier Toegangsaanvraag met de optie **Aanvraag intrekken.**
 
@@ -308,27 +377,27 @@ U kunt een aanvraag indienen om een openbare aanbieding of een plan toe te voege
 
 Er zijn momenteel twee manieren om services van derden te beperken in Marketplace:
 
-1. Schakel via de EA-portal of Azure Portal services van derden uit of beperk deze tot 'Alleen gratis SKU's of BYOL-SKU's'.
+1. Schakel via EA Portal of de Azure Portal services van derden uit of beperk deze tot 'Alleen gratis SKU's of BYOL-SKU's'.
 
     :::image type="content" source="media/private-azure/disable-services.png" alt-text="Laat zien hoe u services in de Azure Portal.":::
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Laat zien hoe u services kunt beperken in de E A-portal.":::
 
-2. Maak een Azure-beleid om alleen specifieke VM's toe te staan. Zie Apply policies to Windows [VMs with](/azure/virtual-machines/windows/policy)Windows Azure Resource Manager (Beleid toepassen op VM's met VM's met Azure Resource Manager) voor meer informatie over het afdwingen van beleid Windows virtuele Azure Resource Manager.
+2. Maak een Azure-beleid om alleen specifieke VM's toe te staan. Zie Apply policies to [Windows VMs with Azure Resource Manager](/azure/virtual-machines/windows/policy)(Beleid toepassen op virtuele Windows met VM's met Azure Resource Manager) voor meer informatie over het afdwingen van beleid Windows.
 
-Privé Azure Marketplace bieden meer flexibiliteit bij het beperken en toestaan van specifieke aanbiedingen en plannen. Het informeert eindgebruikers over de beschikbaarheid voor implementatie in de Marketplace-galerie, zelfs voordat ze services van derden proberen te implementeren. Als u de implementatie van services van derden wilt toestaan, stelt Azure Marketplace in op Aan/ingeschakeld in EA Portal de Azure Portal.
+Privé Azure Marketplace biedt meer flexibiliteit bij het beperken en toestaan van specifieke aanbiedingen en plannen. Het informeert eindgebruikers over de beschikbaarheid voor implementatie in de Marketplace-galerie, zelfs voordat ze services van derden proberen te implementeren. Als u de implementatie van services van derden wilt toestaan, stelt u Azure Marketplace in op Aan/ingeschakeld in EA Portal de Azure Portal.
 
 - Privé Azure Marketplace kunnen partneroplossingen cureren die niet beperkt zijn tot virtuele machines.
 - Privé Azure Marketplace kunnen cureren op planniveau en kunnen ook 'Huidig en toekomstig plan' instellen.
-- Privé Azure Marketplace kunnen eindgebruikers van te voren informeren over wat wel en niet kan worden geïmplementeerd.
+- Privé Azure Marketplace kunnen de eindgebruikers van te voren informeren over wat wel en niet kan worden geïmplementeerd.
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Wat is het verschil tussen een privéaanbieding en een privé-Azure Marketplace?
 
-Met **een privéaanbieding** kunnen uitgevers plannen maken die alleen zichtbaar zijn voor de beoogde klanten. Hierdoor kunnen ze aangepaste oplossingen privé delen met overeengekomen prijzen, privévoorwaarden en gespecialiseerde configuraties. Zie Privéaanbiedingen [in de commerciële marketplace voor meer informatie.](/azure/marketplace/private-offers)
+Met **een privéaanbieding** kunnen partners plannen maken die alleen zichtbaar zijn voor de beoogde klanten. Hierdoor kunnen ze aangepaste oplossingen privé delen met overeengekomen prijzen, privévoorwaarden en gespecialiseerde configuraties. Zie Privéaanbiedingen [in de commerciële marketplace voor meer informatie.](/azure/marketplace/private-offers)
 
 **Met Azure Marketplace** in de Azure Portal kunnen beheerders vooraf goedkeuren welke oplossingen van derden hun gebruikers kunnen implementeren. Met een privé Azure Marketplace kunnen gebruikers profiteren van de voordelen van Azure Marketplace door compatibele aanbiedingen te zoeken, te kopen en te implementeren. Als u persoonlijke aanbiedingen op basis van een abonnement wilt beheren in Private Marketplace, moet de Marketplace-beheerder minimaal de rol Lezen hebben voor het specifieke abonnement.
 
-#### <a name="i-added-a-private-offer-to-the-private-azure-marketplace-why-is-it-not-showing-in-the-manage-marketplace-tab"></a>Ik heb een privéaanbieding toegevoegd aan Azure Marketplace privé-Azure Marketplace waarom wordt deze niet weergegeven op het tabblad Marketplace beheren?
+#### <a name="i-added-a-private-offer-to-the-private-azure-marketplace-why-is-it-not-showing-in-the-manage-marketplace-tab"></a>Ik heb een persoonlijke aanbieding toegevoegd aan Azure Marketplace privé-Azure Marketplace waarom wordt deze niet weergegeven op het tabblad Marketplace beheren?
 
 Persoonlijke aanbiedingen op basis van abonnementen zijn alleen zichtbaar voor de vermelde abonnementen in de instellingen van de persoonlijke aanbieding. Als u de persoonlijke aanbieding wilt weergeven, controleert u of het globale abonnementsfilter alle abonnementen we weergeven.
 
@@ -343,10 +412,11 @@ Nee. Met Azure Marketplace IT-beheerder kunnen oplossingen van derden beheren en
 3. Beheerde afbeelding in de Shared Image Gallery ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
 4. De SIG VM-afbeeldingen bevinden zich in één abonnement. Als u de app beschikbaar wilt maken voor andere abonnementen, gebruikt u een app-registratie[(CLI,](/azure/virtual-machines/linux/share-images-across-tenants) [PowerShell).](/azure/virtual-machines/windows/share-images-across-tenants)
 
-#### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Waarom zie ik dat sommige aanbiedingen **standaard zijn goedgekeurd,** zelfs als de uitgever niet Microsoft is?
+#### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-partner-is-not-microsoft"></a>Waarom zie ik dat sommige aanbiedingen **standaard zijn goedgekeurd,** zelfs als de partner niet Microsoft is?
 
 Microsoft ondersteunt Linux en opensource-technologie in Azure. [Goedgekeurde Linux-distributies](/azure/virtual-machines/linux/endorsed-distros) worden ondersteund in Azure en de prijs is geïntegreerd in virtuele machines. Omdat Azure Linux Agent al vooraf is geïnstalleerd op Azure Marketplace, wordt deze behandeld als een Microsoft-aanbieding. Omdat Microsoft-aanbiedingen standaard zijn goedgekeurd, kunnen goedgekeurde Linux-distributies niet worden beheerd in privé-Azure Marketplace en worden ze standaard goedgekeurd.
 
 ## <a name="contact-support"></a>Contact opnemen met ondersteuning
 
-- Ga Azure Marketplace Microsoft Q&A voor [&ondersteuning.](/answers/products/)
+- Ga Azure Marketplace Microsoft Q&A voor [meer informatie.](/answers/products/)
+<!-- images to delete when we retire old version: request-banner-small and access-request-form-filled-small>

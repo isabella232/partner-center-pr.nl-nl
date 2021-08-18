@@ -1,5 +1,5 @@
 ---
-title: Een Microsoft Learn MCP-id koppelen aan Partner Center-account
+title: Een MCP Microsoft Learn-id koppelen aan Partner Center-account
 ms.topic: how-to
 ms.date: 08/03/2021
 ms.service: partner-dashboard
@@ -9,24 +9,24 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c4f97486048425330e62991bae8589f07f042be82dc23c1cc077fba608a1b5a2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d78009e66f8a12779e96d08a16a2877a6e88fc5d
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694265"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121915415"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Een MICROSOFT-certificeringsprofiel-id (MCID) koppelen aan een Microsoft Partner Network (MPN)-account
 
 **Juiste rollen:** alle Partner Center gebruikers
 
-In dit artikel wordt beschreven hoe klanten met actieve certificeringen in het Microsoft-certificeringsprogramma hun Microsoft-certificeringsprofiel-id (MCID) kunnen koppelen aan of loskoppelen van een Microsoft Partner Network-organisatie (MPN).
+In dit artikel wordt beschreven hoe klanten met actieve certificeringen in het Microsoft-certificeringsprogramma hun MICROSOFT-certificeringsprofiel-id (MCID) kunnen koppelen aan of ontkoppelen met een Microsoft Partner Network-organisatie (MPN).
 
 U moet een MPN-partnerbeheerder of [](https://partner.microsoft.com/pcv/partnership/competencies) globale beheerder zijn om de competentiestatus (aanmelding vereist) voor examens te controleren of om vaardighedenrapporten te downloaden voor het beoordelen van gekoppelde examens. De partnerorganisatie voldoet aan de competentievereisten door personen met gekoppelde MCID's aan hun organisatie te koppelen. Een MCID kan slechts aan één MPN-lidmaatschap tegelijk worden gekoppeld.
 
 ## <a name="get-partner-university-access"></a>Toegang tot Partner University krijgen
 
-Als u uw Microsoft-certificering wilt koppelen, moet u een Partner Center-account (Active AD) hebben gekoppeld aan uw partnerorganisatie. Leden van MPN-partnerorganisaties moeten de gebruikersnaam en het wachtwoord van hun MPN-partnerorganisatie gebruiken om zich aan te melden bij Partner Center.
+Als u uw Microsoft-certificering wilt koppelen, moet u een Partner Center-account (Active AD) hebben dat is gekoppeld aan uw partnerorganisatie. Leden van MPN-partnerorganisaties moeten de gebruikersnaam en het wachtwoord van hun MPN-partnerorganisatie gebruiken om zich aan te melden bij Partner Center.
 Gebruik de onderstaande procedure om toegang te krijgen tot Partner University.
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
@@ -51,13 +51,13 @@ Als u meer informatie nodig hebt, kunt u het vaardighedenrapport openen en downl
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Veelgestelde vragen over het koppelen van accounts
 
-### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Hoe kan een gebruiker zijn microsoft-certificeringsprofiel-id (MCID) koppelen aan de Microsoft Partner Network organisatie waar ze voor werken?
+### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Hoe kan een gebruiker zijn microsoft-certificeringsprofiel-id (MCID) koppelen aan de Microsoft Partner Network(MPN)-organisatie waar hij voor werkt?
 
-Gebruikers moeten zich aanmelden bij Partner Center en naar **Mijn profiel** navigeren en vervolgens **Partner University-account** of **Microsoft-account** koppelen Learning selecteren en hun referenties invoeren. Als u wilt koppelen aan een Microsoft Learning moet de gebruiker de gebruikersnaam en het wachtwoord invoeren die worden gebruikt om zich aan te melden bij het Microsoft-certificeringsprofiel (MCID). Vanwege privacyoverwegingen moeten gebruikers het koppelingsproces voor het account zelf voltooien.  
+Gebruikers moeten zich aanmelden bij Partner Center en naar **Mijn profiel** navigeren en vervolgens **Partner University-account** of **Microsoft-account** koppelen Learning selecteren en hun referenties invoeren. Als u een Microsoft-account Learning, moet de gebruiker de gebruikersnaam en het wachtwoord invoeren die worden gebruikt om zich aan te melden bij het Microsoft-certificeringsprofiel (MCID). Vanwege privacyoverwegingen moeten gebruikers het koppelingsproces voor het account zelf voltooien.  
 
 ### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Hoe kan een gebruiker de MCID loskoppelen van de MPN-organisatie waar hij voor werkt?
 
-Meld u aan bij Partner Center, navigeer **naar Mijn profiel** en selecteer Toegang **verwijderen.** Vanwege privacyoverwegingen moet de gebruiker het koppelingsproces voor het account zelf voltooien.
+Meld u aan bij Partner Center, navigeer **naar Mijn profiel en** selecteer Toegang **verwijderen.** Vanwege privacyoverwegingen moet de gebruiker het koppelingsproces voor het account zelf voltooien.
 
 ### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>De gebruiker heeft bedrijf A verlaten en werkt nu voor bedrijf B. Hoe kunnen ze hun MICROSOFT-certificeringsprofiel-id (MCID) koppelen aan bedrijf B?
 
@@ -67,13 +67,13 @@ De gebruiker moet de MCID koppelen aan het bedrijf B door de bovenstaande proced
 
 Het account van de gebruiker moet worden verwijderd door de globale beheerder nadat deze het bedrijf heeft verlaten. Als de MCID van de gebruiker nog steeds wordt weergegeven als gekoppeld aan het bedrijf in het vaardigheidsrapport, moet de gebruiker de globale beheerder vragen deze uit het rapport te verwijderen.
 
-### <a name="the-admin-provided-sign-in-details-for-a-work-email-account-to-a-user-and-they-have-had-no-response"></a>De beheerder heeft aanmeldingsgegevens voor een werk-e-mailaccount aan een gebruiker verstrekt en heeft geen antwoord ontvangen.
+### <a name="the-admin-provided-sign-in-details-for-a-work-email-account-to-a-user-and-they-have-had-no-response"></a>De beheerder heeft aanmeldingsgegevens voor een werk-e-mailaccount aan een gebruiker verstrekt en deze heeft geen antwoord ontvangen.
 
-De beheerder moet eerst het gebruikte e-mailadres verifiëren en vervolgens contact opnemen met de gebruiker aan wie de accountgegevens zijn verstrekt.
+De beheerder moet eerst het gebruikte e-mailadres controleren en vervolgens contact opnemen met de gebruiker aan wie de accountgegevens zijn verstrekt.
 
 ### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Een gebruiker probeert zijn MCP-Learning te koppelen aan zijn profiel in Partner Center en ontvangt een bericht dat de associatie is beperkt. Bijvoorbeeld: 'U hebt geprobeerd te koppelen aan een partnerorganisatie. We hebben echter een periode van 30 dagen tussen verbanden nodig. Uw volgende beschikbare datum voor een volgende associatie is XXX"
 
-Ter bescherming tegen misbruik heeft een MCP-persoon een beperkt aantal van 3 associaties die elk jaar zijn toegestaan en is er een afkoelperiode van 30 dagen tussen elke associatie, die begint aan het begin van de associatie. Elke gebruiker kan de datum in het profiel controleren om te zien wanneer hij of zij een nieuwe associatie kan starten. Als de gebruiker na die datum problemen heeft met koppelen, moet deze contact opnemen met de ondersteuning.  
+Ter bescherming tegen misbruik heeft een MCP-persoon een beperkt aantal van 3 associaties toegestaan elk jaar en is er een afkoelperiode van 30 dagen tussen elke associatie, die begint aan het begin van de associatie. Elke gebruiker kan de datum in het profiel controleren om te zien wanneer hij of zij een nieuwe associatie kan starten. Als de gebruiker na die datum problemen heeft met koppelen, moet deze contact opnemen met de ondersteuning.  
 
 ## <a name="how-to-get-support"></a>Ondersteuning krijgen
 
@@ -85,4 +85,4 @@ Neem contact op met certificeringsondersteuning voor vragen [](https://aka.ms/mc
 
 - [Gebruikersrollen en -machtigingen](./permissions-overview.md)
 - [Competenties](https://partner.microsoft.com/membership/competencies)
-- [Het Microsoft Learn analyserapport toont de status van studenten in uw bedrijf](ms-learn-analytics.md)
+- [In Microsoft Learn analytics-rapport ziet u de status van de studenten in uw bedrijf](ms-learn-analytics.md)
