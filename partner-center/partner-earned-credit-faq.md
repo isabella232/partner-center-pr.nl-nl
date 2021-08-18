@@ -1,7 +1,7 @@
 ---
 title: Veelgestelde vragen over partnertegoeden
 ms.topic: article
-ms.date: 08/11/2021
+ms.date: 08/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Vind antwoorden op veelgestelde vragen over partnertegoeden (PEC).
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1732ae992ac24d9691d929606bcbaabd32ef4327
-ms.sourcegitcommit: 03713f713b38f8c7bc299dcb92b7264777d1339c
+ms.openlocfilehash: ae78b13ae17b223e1cb540bea50168d02bcb9a1c
+ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "122019622"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "122226828"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Veelgestelde vragen over partnertegoeden
 
@@ -46,7 +46,7 @@ PEC-gegevens kunnen rechtstreeks door partners worden opgevraagd via API, dageli
 
 Er zijn twee afstemmingsbestanden in Partner Center onder Facturering die kunnen worden gebruikt.
 
-- Dagelijks beoordeeld gebruik afstemmen-recente activiteit (.csv)
+- Dagelijkse afstemming van gebruiksafstemming-recente activiteit (.csv)
 - Afstemming-recente activiteit (.csv)
 
 Voor afstemming kan de partner de velden ProductID, SKUID en AvailabilityID uit deze twee bestanden vergelijken voor elke SubscriptionID.
@@ -60,6 +60,8 @@ Ja, de CSP Indirect Provider moet [RBAC-toegang](/azure/role-based-access-contro
 ## <a name="what-happens-if-a-customer-removes-a-partners-rbac-admin-access"></a>Wat gebeurt er als een klant de RBAC-beheerderstoegang van een partner verwijdert?
 
 Een partner zonder de juiste RBAC-toegang in CSP behoudt nog steeds de Azure-factureringsrelatie en verantwoordelijkheid van de klant met Microsoft. Hoewel dit geen invloed heeft op een partner die de vorige Azure-aanbieding in CSP verkoopt, komt de gefactureerde partner voor de nieuwe Azure-aanbieding in CSP niet in aanmerking voor PEC op hun Azure-factuur. Partners kunnen gedeeltelijke beheerderstoegang verkrijgen in CSP door toegang te verkrijgen via een gebruikersaccount via directory-/gasttoegang met behulp van RBAC of via Azure Lighthouse. Zie Beheerdersbevoegdheden voor de Azure CSP van [een klant herstellen voor meer informatie.](revoke-reinstate-csp.md)
+
+:::image type="content" source="images/advanced-specializations/permissions.png" alt-text="Schermopname van de pagina Toegangsbeheer waar u beheerdersmachtigingen kunt herstellen." border="false":::
 
 ## <a name="how-do-i-know-if-im-earning-pec"></a>Hoe kan ik weten of ik PEC verdien?
 
