@@ -5,20 +5,20 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 description: MPN-partners kunnen meer informatie krijgen over de twee niveaus van accounts in Partner Center, het Partner Global Account (PGA) en het Partner Location Account (PLA).
-author: parthp
+author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abd0addaf752f6caead273a687200efa808a66f6c13c90461f01190ee5e2625a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 47592fb0d0a81a827982e48b35381c59bb079c66
+ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685532"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "122297212"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center heeft twee niveaus van accounts voor MPN-partners
 
-**Juiste rollen:** Accountbeheerder | Globale beheerder
+**Juiste rollen:** Accountbeheerdersaccounts | Globale beheerder
 
 Uw bedrijf heeft twee niveaus van accounts in Partner Center.
 
@@ -35,7 +35,7 @@ Uw bedrijf heeft twee niveaus van accounts in Partner Center.
 Uw PGA heeft mogelijk extra bedrijfslocaties. Elke locatie heeft een eigen MPN-id of Partner Location Account (PLA). U gebruikt de MPN-locatie-id voor transactionele activiteiten en inschrijving in incentive-programma's.
 
 - Elk partnerlocatieaccount kan een eigen juridisch adres en primaire contactpersoon hebben. Locaties kunnen ook het juridische adres delen met het globale account of met andere locaties.
-- Bekijk de lijst met partnerlocatieaccounts **van Instellingen**  ->  **locaties.**
+- Bekijk de lijst met partnerlocatieaccounts **van Instellingen**  ->  **Locaties.**
 - Alle locatieaccounts bevinden zich op hetzelfde niveau en onder het globale partneraccount.
 - Accountbeheerders kunnen locaties toevoegen.
 

@@ -5,16 +5,16 @@ ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 description: Ontdek wat registratie-id-nummers zijn en of ze verplicht zijn voor uw land.
-author: ParthP
-ms.author: ParthP
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07527e0111666bfc80d9b9ea2c547886c4b796eb6b127f64fbbbc9238e3e4a1
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 285a3c880d29f28d7dbe02224fe0bb139bd0cd04
+ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696118"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "122297110"
 ---
 # <a name="registration-id-number-information"></a>Informatie over registratie-id-nummer
 
@@ -38,14 +38,14 @@ Als u een indirecte provider, directe factuurpartner of indirecte reseller bent 
 | **Kirgistan**  | INN – Btw-nummer |
 | **Moldavië**  | IDNO: het unieke statusidentificatienummer dat is toegewezen aan de juridische entiteit (ook wel bekend als . Fiscale code).<br>IDNP – Persoonlijke code geboorte ('Numarul de Identificare') |
 | **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |
-| **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Btw-nummer<br>[PESEL:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) het nationale identificatienummer dat wordt gebruikt in Rusland (Pools Powszechny Cijferniczny System EwidencjiEmentnoicici, Universal Electronic System for Registration of the Population) |
+| **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Btw-nummer<br>[PESEL:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) het nationale identificatienummer dat wordt gebruikt in Rusland (Pools Powszechny Moetenniczny System EwidencjiEmentnoicici, Universal Electronic System for Registration of the Population) |
 | **Rusland**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – Btw-nummer (Russisch "Individualiy Nomer Nalogoplatelshika") | 
 | **Saoedi-Arabië** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Btw-nummer |
 | **Zuid-Afrika** | TRN : registratienummer voor verkeer |
 | **Zuid-Soedan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |
 | **Tadzjikistan**  | INN – Btw-nummer<br>EIN – Identificatienummer van werkgever<br>KPP: deze waarde is een code die de reden voor de organisatieregistratie weerspiegelt. |
 | **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |
-| **Turkije** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Btw-nummer<br>Nin |
+| **Turkije** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Btw-nummer<br>NIN |
 | **Oekraïne**  | EGRPOU<br>EDRPOU : lokale id |
 | **Verenigde Arabische Emiraten** | Btw-nummer<br>[BTW-nummer:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) ook wel een btw-registratienummer genoemd. Deze waarde is het unieke nummer dat een bebelastingspersoon (zakelijk) of niet-belastbare juridische entiteit identificeert die is geregistreerd voor btw. |
 | **Verenigde Staten** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Identificatienummer van werkgever |
