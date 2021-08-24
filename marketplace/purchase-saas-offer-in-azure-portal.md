@@ -7,13 +7,13 @@ ms.reviewer: dannyevers
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
-ms.date: 06/29/2021
-ms.openlocfilehash: 2514bea646492e25748b26ec69b3fccb6052daa6
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.date: 08/05/2021
+ms.openlocfilehash: 4f83d5c85f0316ad5c9d9ad75ca6519b5940146f
+ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914922"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122752081"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Een SaaS-aanbieding kopen in Azure Portal
 
@@ -43,7 +43,7 @@ Zodra u zich in Azure Portal, kunt u uw zoekopdracht op een aantal manieren bepe
 Selecteer op de startpagina onder **Azure-services** **de optie + Een resource maken** of **Marketplace.** Of gebruik de snelkoppeling **G + N** overal in het platform.
 
 - Verklein de resultaten tot SaaS-aanbiedingen met behulp van het filter **Aanbiedingstype** en selecteer vervolgens **SaaS.**
-- Gebruik de algemene zoekopdracht bovenste navigatiebalk om een specifieke SaaS-aanbieding te vinden.
+- Gebruik de algemene zoekopdracht in het bovenste navigatiegebied om een specifieke SaaS-aanbieding te vinden.
 
 Zoek een [privé-SaaS-aanbieding door](./private-plans.md) de banner boven aan de **startpagina** van Marketplace te selecteren. Niet alle aanbiedingen of abonnementen zijn beschikbaar in alle geografische gebieden en sommige worden mogelijk alleen weergegeven voor bepaalde tenants.
 
@@ -76,7 +76,7 @@ Deze prijsmodellen zijn beschikbaar voor openbare en persoonlijke abonnementen.
     1. In gevallen waarin het prijsmodel *per gebruiker* is, moet u mogelijk het aantal gebruikers *opgeven.* De prijs die u ziet, wordt gewijzigd op basis van het abonnement, het abonnement en de periode die u hebt geselecteerd.
 3. Ga door **naar het** tabblad *Tags: tags* zijn door de gebruiker gedefinieerde sleutel-waardeparen, die rechtstreeks op een resource of resourcegroep kunnen worden geplaatst. U kunt tags gebruiken om uw SaaS-resource later gemakkelijk te vinden. Azure ondersteunt momenteel maximaal 50 tags per resource en resourcegroep. Tags kunnen worden geplaatst op een resource op het moment dat deze wordt gemaakt of worden toegevoegd aan een bestaande resource.
 4. Ga door **naar Beoordelen en abonneren om** de aanbieding en plangegevens te bekijken.
-    1. Bekijk *Gebruiksrechtovereenkomst,* *wijzigingen* en *privacybeleid van* de uitgever en ook voor Azure Marketplace
+    1. Bekijk *Gebruiksrechtovereenkomst,* *Wijzigingen* en *Privacybeleid* van de uitgever en ook voor Azure Marketplace
     1. U wordt mogelijk gevraagd om uw contactgegevens toe te voegen
     1. *Basisbeginselen* en *tags* bekijken
 5. Selecteer na bevestiging **Abonneren.**
@@ -113,15 +113,15 @@ Foutberichten die tijdens het proces kunnen worden weergegeven:
 - De aankoop is mislukt omdat uw ondertekening op de juridische overeenkomst niet kan worden geverifieerd.
   - Opnieuw. Als de fout zich blijft voordoen, probeert u de aankoop te doen met een ander Azure-abonnement of neem contact op met de ondersteuning.
 
-- De aankoop van *offerID* by publisher *publisherID* is mislukt. Deze aanbieding is momenteel niet beschikbaar voor aankoop.
+- De aankoop van *offerid by* publisher *publisherID* is mislukt. Deze aanbieding is momenteel niet beschikbaar voor aankoop.
   - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, kunt u contact opnemen met de ondersteuning.  
 
 - De aankoop van *planID van* *aanbiedings-offerID* door publisher *publisherID* is mislukt. Dit abonnement is momenteel niet beschikbaar voor aankoop.
-  - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, kunt u contact opnemen met de ondersteuning. 
+  - Probeer het later opnieuw. Als u na een uur dit foutbericht blijft ontvangen, kunt u contact opnemen met de ondersteuning.
 
 - Het *e-mailadres van de* client met object-id *ObjectID* is niet autorisatie om de actie *DeploymentValidationAction uit* te voeren op scope *ResourceGroup; DeploymentScope* of het bereik is ongeldig.  
   - U krijgt dit bericht als u niet de juiste machtigingen hebt voor het Azure-abonnement/de azure-resourcegroep.  
-    Als u onlangs toegang hebt gekregen, vernieuwt u uw referenties.  
+    Als onlangs toegang is verleend, vernieuwt u uw referenties.  
     Als u resources wilt implementeren in een resourcegroep, moet u ten minste inzenderstoegang hebben. Controleer uw toegangsstatus onder **Resourcegroepen** en klik **vervolgens Access Control.** Hier ziet u wie de 'eigenaar' is, die u kunt vragen om u toe te wijzen als 'Inzender'.
 
 - Het abonnement dat voor deze aankoop wordt gebruikt, staat geen Marketplace-aankopen toe.  
@@ -129,5 +129,5 @@ Foutberichten die tijdens het proces kunnen worden weergegeven:
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Als u al een aanbieding hebt aangeschaft in marketplace, gaat u naar [Facturering en facturering](./billing-invoicing.md)
-- U vindt hier ook meer informatie over [opties voor persoonlijke](./private-plans.md) abonnementen.
+- Als u al een aanbieding hebt aangeschaft in marketplace, gaat u naar [Facturering en facturering](billing-invoicing.md)
+- Meer informatie over [privé-abonnementen](private-plans.md)

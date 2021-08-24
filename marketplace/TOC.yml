@@ -16,6 +16,8 @@
       href: azure-purchasing-invoicing.md
     - name: Een SaaS-aanbieding kopen in Azure Portal
       href: purchase-saas-offer-in-azure-portal.md
+    - name: Levenscyclusbeheer voor SaaS-abonnementen
+      href: saas-subscription-lifecycle-management.md
     - name: Facturering
       href: billing-invoicing.md
     - name: Voordeel van Azure-verbruikstoezegging
