@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.date: 08/20/2021
 ms.author: yonits
 author: yonits
-ms.openlocfilehash: e0cd29d9fe36d4f81307594f7fd8ab948d56adf7
-ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
+ms.openlocfilehash: fed2b2f7b951a7dc6ee16fb126f3f5f774df18c9
+ms.sourcegitcommit: e277fa4d337901ea7171cabd39afebe84e1ec1a9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122752703"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122783750"
 ---
 # <a name="saas-subscription-lifecycle-management"></a>Levenscyclusbeheer voor SaaS-abonnementen
 
@@ -47,7 +47,7 @@ Deze overstap biedt de volgende voordelen:
 Er zijn meerdere manieren om uw SaaS-abonnementen te beheren
 
 * Voor SaaS-abonnementen die in de Azure Portal, moet u deze daar beheren.
-* Voor SaaS-abonnementen die zijn aangeschaft in AppSource, beheert u deze in het Azure Portal en [het Microsoft 365-beheer Center;](https://admin.microsoft.com/Adminportal/Home?#/subscriptions) Zie [App-abonnementen](/microsoft-365/commerce/manage-saas-apps?view=o365-worldwide)van derden beheren voor uw organisatie voor meer informatie over het gebruik van het Microsoft 365-beheer Center.
+* Voor SaaS-abonnementen die zijn aangeschaft in AppSource, beheert u deze in het Azure Portal en [het Microsoft 365-beheer Center;](https://admin.microsoft.com/Adminportal/Home?#/subscriptions) Zie [App-abonnementen](/microsoft-365/commerce/manage-saas-apps?view=o365-worldwide&preserve-view=true)van derden beheren voor uw organisatie voor meer informatie over het gebruik van het Microsoft 365-beheer Center.
 * Met sommige uitgevers kunt u SaaS-abonnementen rechtstreeks in hun platform beheren. Ga naar de site van de uitgever via een koppeling op de pagina SaaS-abonnement in de Azure Portal.
 
 Er zijn verschillende acties die u na uw aankoop kunt uitvoeren; Voor sommige zijn de machtigingen Eigenaar of Inzender vereist:
@@ -90,7 +90,7 @@ Als uw aankoop is gedaan via Microsoft AppSource, kunt u uw facturen weergeven i
 
 ### <a name="cancel-subscription"></a>Abonnement annuleren
 
-Als u annuleert, wordt uw toegang tot de software die u hebt aangeschaft als onderdeel van dit SaaS-abonnement verwijderd. Restituties worden verwerkt volgens het restitutiebeleid; Zie Restitutiebeleid voor Microsoft AppSource en Azure Marketplace voor [meer Azure Marketplace.](refund-policies.md)
+Als u annuleert, wordt uw toegang tot de software die u hebt aangeschaft als onderdeel van dit SaaS-abonnement, verwijderd. Restituties worden verwerkt volgens het restitutiebeleid; Zie Restitutiebeleid voor Microsoft AppSource en Azure Marketplace voor [meer informatie.](refund-policies.md)
 
 Als uw abonnement onder het  tenantniveau met leesmachtigingen valt, kunt u een abonnement niet annuleren. Neem in plaats daarvan contact op met de persoon **met eigenaarsmachtigingen.**
 
@@ -110,7 +110,7 @@ Als u een abonnement of resourcegroep wilt wijzigen die is gekoppeld aan een aan
 2. Selecteer het abonnement dat u wilt wijzigen.
 3. Selecteer **onder Facturering** de optie **Gefactureerd abonnement wijzigen.**
 4. Selecteer het gewenste abonnement of de gewenste resourcegroep of maak een nieuwe resourcegroep om de SaaS-resource naar te verplaatsen.
-5. Selecteer **Wijzigen onderaan** om het proces te voltooien.
+5. Selecteer **Wijzigen** onderaan om het proces te voltooien.
 
 Er zijn enkele gevallen waarin de wijziging mogelijk niet werkt:
 
@@ -118,9 +118,9 @@ Er zijn enkele gevallen waarin de wijziging mogelijk niet werkt:
 - Als het SaaS-abonnement een resource op tenantniveau is:
     - U moet *eigenaars-/inzendermachtigingen* hebben voor het Azure-doelabonnement.
 - Als het SaaS-abonnement een resource op abonnementsniveau is:
-    - U hebt *de machtiging Lezen* of *Eigenaar/Inzender* nodig voor het Azure-doelabonnement.
+    - U hebt *de machtigingEn* Lezen *of Eigenaar/Inzender* nodig voor het Azure-doelabonnement.
     - U hebt *eigenaars-/inzendermachtigingen* nodig voor de doelresourcegroep.
-    - Als er al een SaaS-abonnement met dezelfde naam bestaat in de doelresourcegroep, selecteert u een andere doelresourcegroep.
+    - Als er al een SaaS-abonnement met dezelfde naam in de doelresourcegroep bestaat, selecteert u een andere doelresourcegroep.
 - Het Azure-doelabonnement en het resourceabonnement ondergaan alle controles die tijdens de aankoop worden uitgevoerd. Zie de sectie [SaaS-abonnement](purchase-saas-offer-in-azure-portal.md#saas-subscription-and-configuration) en -configuratie in Een **SaaS-aanbieding** kopen in de sectie Azure Portal.
 
 ## <a name="next-steps"></a>Volgende stappen
