@@ -9,31 +9,32 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66f25837376eb33ea405639575b2dc14b7485ee5e80fac005a6945d9b80257e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d5d6004299ebd8e5d94a51837e486b66a88b4aa1
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686598"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088534"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkopen aan gespecialiseerde branches zoals educatie, non-profit en overheidsgebruikers
 
 **Juiste rollen:** Globale | Beheeragent | Verkoopagent
 
-Microsoft biedt speciale, gereduceerde prijzen voor bepaalde groepen klanten, waaronder klanten uit het onderwijs, non-profitklanten, kleine bedrijven en overheidsentiteiten. Zowel u als uw klant moeten gekwalificeerd zijn voordat u ze speciale prijzen kunt aanbieden. Deze speciale aanbiedingen zijn momenteel **alleen beschikbaar** voor op licenties gebaseerde services zoals Microsoft 365, Dynamics, Intune enzovoort. Het is niet beschikbaar voor andere typen (softwareabonnementen, permanente software of Azure-producten).
+Microsoft biedt speciale, gereduceerde prijzen voor bepaalde groepen klanten, waaronder klanten uit het onderwijs, non-profitklanten, kleine bedrijven en overheidsentiteiten. Zowel u als uw klant moeten gekwalificeerd zijn voordat u ze speciale prijzen kunt aanbieden. Deze speciale aanbiedingen zijn momenteel beschikbaar voor op licenties gebaseerde **services** zoals Microsoft 365, Dynamics, Intune, enzovoort, en doorlopende software. Het is niet beschikbaar voor softwareabonnementen of Azure-services.
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Vereisten voor verkoop aan gespecialiseerde branches
 
 |**Speciale prijzen**   |**Vereiste kwalificaties voor resellers**   |**Vereiste kwalificaties van de klant**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Onderwijs   |Geen   | Moet een [gekwalificeerde education-gebruiker zijn.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-| Amerikaanse federale overheid   |Als u Azure wilt verkopen, moet u zich inschrijven [met behulp van het Microsoft US Government-formulier voor cloudvalidatie.](https://azuregov.microsoft.com/csp) Als u op licenties gebaseerde abonnementen wilt verkopen aan de overheid, is er geen kwalificatie vereist.|   Geen|
-| Alle andere overheidsentiteiten | Geen<br />Partners moeten inrichten met behulp van 'zakelijke' aanbiedingen. | Geen
-|Non-profit  |Geen<br/> Moet een non-profit tenant Azure Active Directory hebben.<br/> Meer informatie over [speciale non-profit aanbiedingen](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Meld u aan via het [non-profit programma van Microsoft om](https://nonprofit.microsoft.com/#/register) in aanmerking te komen.   |
+|Onderwijs   |Geen   | Moet een [gekwalificeerde education-gebruiker zijn](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
+| Us Federal Government - [Office Government Community Cloud (GCC) High and DoD environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Als u deze Azure Government, moet u zich inschrijven met behulp van het [Microsoft US Government Cloud Validation-formulier](https://azuregov.microsoft.com/csp). Het verkopen van op licenties gebaseerde abonnementen is alleen beschikbaar bij uitnodiging.|   Moet een gekwalificeerde [Amerikaanse federale overheid zijn](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
+| Us Federal Government - GCC Moderate-omgeving | U moet in aanmerking komen voor samenwerking met Amerikaanse overheidsklanten door het formulier in te vullen: Vertel [ons over uw Directe CSP-partnerorganisatie.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Ga voor stapsgewijs instructies naar [Verkoop Office 365 Government GCC CSP-abonnementen aan gekwalificeerde klanten](/partner-center/csp-gcc-overview) | Moet een gekwalificeerde [amerikaanse overheidsentiteit zijn.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Ga voor stapsgewijs instructies naar [Verkoop Office 365 Government GCC CSP-abonnementen aan gekwalificeerde klanten](/partner-center/csp-gcc-overview)  |
+| Alle andere overheidsentiteiten | Geen. Partners moeten inrichten met behulp van 'zakelijke' aanbiedingen. | Geen
+Non-profit  |Geen|Meld u aan via het [non-profit programma van Microsoft om](https://nonprofit.microsoft.com/#/register) in aanmerking te komen.   |
 
-## <a name="check-your-reseller-qualifications"></a>Controleer de kwalificaties van uw reseller
+## <a name="check-your-reseller-qualifications-only-needed-for-gcc-environments"></a>Controleer de kwalificaties van uw reseller (alleen nodig voor GCC omgevingen)
 
-De volgende stappen zijn alleen van toepassing op indirecte providers en partners voor directe factuur. Indirecte resellers moeten verbinding maken met een indirecte provider om academische aanbiedingen te leveren aan gekwalificeerde onderwijsgebruikers.
+De volgende stappen zijn alleen van toepassing op indirecte providers en partners voor directe factuur. Indirecte resellers moeten verbinding maken met een indirecte provider om speciale prijsaanbiedingen te kunnen leveren aan gekwalificeerde gebruikers.
 
 1. Selecteer in Partner Center [dashboard](https://partner.microsoft.com/dashboard)het tandwielpictogram in de rechterbovenhoek van het venster om **Accountinstellingen te openen.**
 
@@ -55,12 +56,12 @@ Zodra u en uw klant zijn gekwalificeerd voor een speciaal aanbiedingsprogramma, 
 
 ## <a name="purchase-rules-for-special-segments"></a>Inkoopregels voor speciale segmenten
 
-Partners kunnen alleen speciale aanbiedingen aan klanten verkopen als ze voldoen aan bepaalde criteria. 
+Partners kunnen alleen speciale aanbiedingen aan klanten verkopen als ze voldoen aan bepaalde criteria.
 
 - Onderwijsaanbiedingen kunnen alleen worden aangeschaft als de klant is geautoriseerd als onderwijsinstelling. Een Education-klant kan alleen onderwijs- en commerciële aanbiedingen ontvangen, maar niet non-profit- of overheidsclouds (GCC).
 - Partners kunnen alleen GCC aanschaffen voor GCC klanten. Zodra een klant een GCC heeft, kunnen partners geen commerciële, onderwijs- of non-profitabonnementen aanschaffen.
 - Partners kunnen alleen commerciële of non-profitabonnementen aanschaffen voor non-profitklanten. Partners kunnen geen GCC en geen onderwijsabonnementen aanschaffen voor non-profitklanten.
-- Entiteiten die eigendom zijn van de staat moeten voldoen aan [de geschiktheidscriteria](https://www.microsoft.com/legal/compliance/anticorruption/criteria).
+- Entiteiten in eigendom van de staat moeten voldoen aan [de geschiktheidscriteria](https://www.microsoft.com/legal/compliance/anticorruption/criteria).
 
 Aankoopregels voor het verkopen van speciale aanbiedingen aan klanten:
 
@@ -69,12 +70,12 @@ Aankoopregels voor het verkopen van speciale aanbiedingen aan klanten:
 | Commercieel |Commercieel | Non-profitorganisatie, onderwijs of Government Community Cloud |
 | Non-profit |Commercieel, non-profit | Onderwijs of Government Community Cloud |
 | Onderwijs |Commercieel, onderwijs | Non-profitorganisatie of Government Community Cloud |
-| Government Community Cloud |Government Community Cloud | Non-profit, onderwijs of commercieel |
+| Government Community Cloud |Government Community Cloud | Non-profitorganisatie, onderwijs of commercieel |
 | Entiteit in eigendom van staat  | Commercieel  | Non-profitorganisatie, onderwijs of Government Community Cloud  |
 | If Education and State Owned Entity | Commercieel, onderwijs | Non-profitorganisatie of Government Community Cloud |
-| If State Owned Entity en Government Community Cloud | Government Community Cloud | Non-profit, onderwijs of commercieel |
+| If State Owned Entity en Government Community Cloud | Government Community Cloud | Non-profitorganisatie, onderwijs of commercieel |
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Verkoop Minecraft: Education Edition's aan education-klanten](minecraft-subscriptions.md)
+- [Verkoop Minecraft: Education Edition-abonnementen aan klanten uit het onderwijs](minecraft-subscriptions.md)
 - [Partnercentrum voor Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
