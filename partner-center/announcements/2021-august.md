@@ -10,24 +10,79 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/24/2021
-ms.openlocfilehash: a3ad5b9433935d1c78b35dd6872edc7e4c08d7cf
-ms.sourcegitcommit: 3cb2fec554903074dca137f3e84146115378d7d8
+ms.date: 08/25/2021
+ms.openlocfilehash: 237f4f0311609465136f7d1253d857f0384a01b9
+ms.sourcegitcommit: c09644ce889f1a8d49841bd61234246b4c85889c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "122833492"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122931244"
 ---
 # <a name="august-2021-announcements"></a>Aankondigingen van augustus 2021
 
 Deze pagina bevat de aankondigingen voor Microsoft Partner Center voor augustus 2021.
 
 ________________
-## <a name="seat-based-offers-for-integrated-sandbox-testing-in-the-new-commerce-experience"></a><a name="18"></a>Op seat gebaseerde aanbiedingen voor geïntegreerde sandboxtests in de nieuwe commerce-ervaring
+## <a name="announcing-windows-server-2022-general-availability-in-october"></a><a name="19"></a>Aankondiging van Windows algemene beschikbaarheid van Server 2022 in oktober
 
 ### <a name="summary"></a>Samenvatting
 
-Vanaf 1 september 2021 biedt Microsoft op seat gebaseerde aanbiedingen voor geïntegreerde sandboxtests in de nieuwe commerce-ervaring voor het Cloud Solution Provider-programma (CSP).
+Windows Server 2022 biedt verbeteringen in beveiliging, hybride en containers. Meer informatie over de nieuwe release in deze aankondiging.
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-08-26
+- Functies
+
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
+
+Directe providers, indirecte providers en indirecte resellers
+
+### <a name="details"></a>Details
+
+Windows Server 2022, de volgende Long-Term Servicing Channel-release (LTSC), stelt klanten in staat om met vertrouwen bestaande en nieuwe bedrijfskritieke toepassingen uit te voeren op Azure, on-premises en aan de rand.
+
+Windows Server 2022 introduceert geavanceerde beveiliging met meerdere lagen, hybride mogelijkheden met Azure en een flexibel toepassingsplatform. Als onderdeel van deze algemene beschikbaarheid brengen we beveiligde kernmogelijkheden naar Windows Server om systemen te beveiligen die werkbelastingen uitvoeren op Windows Server 2022. Een server met beveiligde kernen bouwt voort op technologieën zoals Windows Defender System Guard en beveiliging op basis van virtualisatie om het risico van beveiligingsproblemen in firmware en geavanceerde malware te minimaliseren. De nieuwe release biedt ook beveiligde connectiviteit, met verschillende nieuwe mogelijkheden, zoals snellere en veiligere versleutelde HTTPS-verbindingen en industriestandaard SMB AES 256-versleuteling.
+
+Windows Server 2022 verbetert het beheer van hybride servers met aanzienlijk verbeterd beheer van virtuele machines, een verbeterde gebeurtenisviewer en nog veel meer nieuwe mogelijkheden in het Windows-beheercentrum. Daarnaast bevat deze release aanzienlijke verbeteringen in Windows container, zoals kleinere afbeeldingsgrootte voor sneller downloaden, vereenvoudigde implementatie van netwerkbeleid en hulpprogramma's voor containerisatie voor .NET-toepassingen.
+
+### <a name="additional-resources"></a>Aanvullende bronnen
+
+Raadpleeg het volgende voor meer informatie:
+
+- [Windows Openbare preview van Server 2022 in de blog van maart 2021](https://aka.ms/WS2022/blog)
+- [Windows Server 2022 in Evaluation Center](https://aka.ms/WS2022Preview)
+- [Windows Server in Partner Center](https://partner.microsoft.com/solutions/microsoft-windows-server)
+- [Windows Server-leertrajecten](/learn/browse/)
+
+#### <a name="frequently-asked-questions"></a>Veelgestelde vragen
+
+##### <a name="q-when-will-windows-server-2022-be-available-in-cloud-solution-provider-csp"></a>V. Wanneer is Windows Server 2022 beschikbaar in Cloud Solution Provider (CSP)?
+
+Windows Server 2022 is in oktober beschikbaar in CSP.
+
+##### <a name="q-how-much-will-window-server-2022-cost"></a>V. Wat kost Window Server 2022?
+
+Zie [CSP-prijzen](../pricing-and-offers.md) (beschikbaar in oktober) voor meer informatie over prijzen voor Windows Server 2022.
+
+##### <a name="q-are-there-any-changes-to-the-licensing-model-for-windows-server-2022"></a>V. Zijn er wijzigingen in het licentiemodel voor Windows Server 2022?
+
+Er zijn geen wijzigingen in het licentiemodel voor Windows Server 2022 Standard- en Datacenter-edities.
+
+##### <a name="q-how-can-customers-evaluate-windows-server-2022"></a>V. Hoe kunnen klanten Windows Server 2022 evalueren?
+
+Klanten kunnen momenteel Windows Server 2022 evalueren in [Windows Server Evaluation Center.](https://aka.ms/WS2022Preview) Ze hebben de mogelijkheid om het te proberen in Azure of om de ISO of VHD te downloaden.
+
+### <a name="questions"></a>Vragen?
+
+Raadpleeg uw relevante community's voor meer vragen over deze aanbiedingen.
+
+________________
+## <a name="seat-based-offers-for-integrated-sandbox-testing-in-the-new-commerce-experience"></a><a name="18"></a>Aanbiedingen op basis van seat voor geïntegreerde sandboxtests in de nieuwe commerce-ervaring
+
+### <a name="summary"></a>Samenvatting
+
+Vanaf 1 september 2021 biedt Microsoft op seat gebaseerde aanbiedingen voor geïntegreerde sandboxtests in de nieuwe commerce-ervaring voor het Cloud Solution Provider(CSP)-programma.
 
 ### <a name="categories"></a>Categorieën
 
@@ -40,40 +95,40 @@ CSP-partners voor directe factuur en indirecte providers, inclusief resellers vi
 
 ### <a name="details"></a>Details
 
-Vanaf 1 september 2021 biedt Microsoft op seat gebaseerde aanbiedingen voor geïntegreerde [sandboxtests](/partner-center/develop/test-and-debug) in de [nieuwe commerce-ervaring](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers.pdf) voor het CSP-programma.
+Vanaf 1 september 2021 biedt Microsoft op seat gebaseerde aanbiedingen voor geïntegreerde [sandboxtests](/partner-center/develop/test-and-debug) in de nieuwe [commerce-ervaring](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers.pdf) voor het CSP-programma.
 
-De toevoeging van Microsoft 365, Dynamics 365, Power Platform en Windows 365-aanbiedingen in CSP aan de nieuwe commerce-ervaring is een andere belangrijke mijlpaal in ons nieuwe commercetraject. Microsoft investeert in productinnovaties, betere hulpprogramma's en toegang tot nieuwe zakelijke mogelijkheden waarmee partners hun CSP-omzet kunnen vergroten en klanten meer opties kunnen bieden. We ontwikkelen ons commerceplatform en stroomlijnen de processen voor order- en abonnementsbeheer om partners en klanten te helpen slagen in digitale transformatie.
+De toevoeging van Microsoft 365-, Dynamics 365-, Power Platform- en Windows 365-aanbiedingen in CSP aan de nieuwe commerce-ervaring is een andere belangrijke mijlpaal in ons nieuwe commercetraject. Microsoft investeert in productinnovaties, betere hulpprogramma's en toegang tot nieuwe zakelijke kansen waarmee partners hun CSP-omzet kunnen vergroten en klanten meer opties kunnen bieden. We ontwikkelen ons commerceplatform en stroomlijnen de processen voor order- en abonnementsbeheer om partners en klanten te helpen bij het slagen van digitale transformatie.
 
-Partners die deelnemen aan de sandbox-testomgeving, hebben vroegtijdig inzicht in de nieuwe commerce-ervaring voor aanbiedingen op basis van seat, waardoor geavanceerde planning, operationele activiteiten en technische integratie mogelijk zijn voor deze aanbiedingen.
+Partners die deelnemen aan de sandbox-testomgeving hebben vroegtijdig inzicht in de nieuwe commerce-ervaring voor aanbiedingen op basis van seat, waardoor geavanceerde planning, operationele activiteiten en technische integratie voor deze aanbiedingen mogelijk zijn.
 
-Door deel te nemen aan de sandbox-omgeving kan uw organisatie het volgende doen:
+Door deel te nemen aan de sandbox-omgeving kan uw organisatie:
 
 - VOER API-integratie uit in een testomgeving voordat u deze in productie implementeert.
-- Zorg dat u voldoende tijd hebt om de nieuwe commerce-ervaring te operationeel maken vóór de lancering.
+- Zorg dat u voldoende tijd hebt om de nieuwe commerce-ervaring te operationeel te maken vóór de lancering.
 
-De volgende tabel bevat een overzicht van de belangrijkste functies die beschikbaar zijn in de geïntegreerde sandbox-testomgeving.
+De volgende tabel bevat een overzicht van de belangrijkste functies die beschikbaar zullen zijn in de geïntegreerde sandbox-testomgeving.
 
 | Functie | Details |
 | --------- | --------- |
-| DAP-installatie (Partner/Customer delegated admin privilege) | Complexe producten: E5 met telco |
-| Modellen met één laag en twee lagen | Gedeeltelijke abonnementsupgrade via ondersteuning |
+| Partner/Door klant gedelegeerde beheerdersmachtiging (DAP) instellen | Complexe producten: E5 met telco |
+| Modellen met één laag, twee lagen | Gedeeltelijke abonnementsupgrade via ondersteuning |
 | Side-by-side detectie van de huidige en nieuwe ervaring | Geplande wijzigingen bij verlenging  |
 | Modern ontdekken en kopen (voor bepaalde producten) | Opschorten of hervatten (via ondersteuning) |
-| Abonnementen beheren (automatisch verlengen, plaatsen toevoegen, beweging annuleren) | Gratis proefversies (alleen MAC-presentment) |
-| Onafhankelijke invoegtoepassingen  | Partnervaluta (met uitzondering van bestaande EU-klanten met nieuwe commerce-aankopen en met een valuta van ongeveer 300 klanten die niet overeenkomen met die van de partner-klant) |
+| Abonnementen beheren (schakelaar voor automatisch verlengen, plaatsen toevoegen, beweging annuleren) | Gratis proefversies (alleen MAC-presentatie) |
+| Onafhankelijke invoegtoepassingen  | Partnervaluta (met uitzondering van bestaande EU-klanten met nieuwe commerce-aankopen en die een partner-klantvaluta hebben van ongeveer 300 klanten) |
 | Factureringsplannen | Promoties met prijstransparantie, van Software Assurance  |
 | Levenscyclusbeheer van abonnementen (respijtperiode) | Jaarlijkse factureringsplannen voor aanbiedingen voor meerdere jaren  |
 | Eigendomsbeperkingen | Suspend/resume (via self-serve)  |
-| Factuur-/recon-bestanden | Automatische-seat opnieuw toewijzen voor SKU-overgangen voor volledige hoeveelheid |
-| SKU-upgrades voor de volledige hoeveelheid voor de termijn | Gratis proefversie (met volledige presentatie) |
-| Afdwingen van annuleringsbeleid: blok van 30 dagen geannuleerd na 30 dagen (wordt bij algemene beschikbaarheid gewijzigd in 72 uur) | Gedeeltelijke subupgrade: volledige functie |
+| Factuur-/recon-bestanden | Opnieuw toewijzen van auto-seat voor overgangen van SKU's voor volledige hoeveelheid |
+| Upgrades voor SKU's voor de midterme volledige hoeveelheid | Gratis proefversie (met volledige presentatie) |
+| Afdwinging van annuleringsbeleid: blokkering van 30 dagen geannuleerd na 30 dagen (wordt bij algemene beschikbaarheid gewijzigd in 72 uur) | Gedeeltelijke subupgrade: volledige functie |
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de bronnen over dit onderwerp en deel de informatie met de juiste belanghebbenden in uw organisatie:
+Bekijk de resources over dit onderwerp en deel de informatie met de juiste belanghebbenden in uw organisatie:
 
-- De CSP-handleiding voor bewerkingen voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 in de nieuwe commerce-ervaring is beschikbaar voor beoordeling in de galerie Operations [Readiness](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) op 1 september 2021.
-- Bekijk de resources die worden beschreven in de handige [gereedheidskaart](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf).
+- De CSP-handleiding voor bewerkingen voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 in de nieuwe commerce-ervaring is vanaf 1 september 2021 beschikbaar in de galerie [Operations-gereedheid.](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/)
+- Bekijk de resources die worden beschreven in de nuttige [gereedheidskaart](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf).
 - Bekijk de [documentatiemap van de API.](https://partner.microsoft.com/resources/collection/api-documentation#/)
 
 Er is geen actie vereist als uw organisatie een geïntegreerde sandbox-omgeving heeft ingericht. Als uw organisatie echter geen geïntegreerde sandbox-omgeving heeft, volgt u deze [stappen om](/partner-center/develop/indirect-provider-sandbox-capabilities) er een te maken.
@@ -82,14 +137,14 @@ Voor ondersteuning plaatst u een bericht op de conversaties op de [Partnercentru
 
 ### <a name="questions"></a>Vragen?
 
-Als u meer vragen over deze aanbiedingen wilt stellen, controleert u uw relevante Yammer community's.
+Voor meer vragen over deze aanbiedingen controleert u uw relevante Yammer community's.
 
 ________________
-## <a name="invoice-structure-update-for-the-us-puerto-rico-and-canada"></a><a name="17"></a>Update van factuurstructuur voor de VERENIGDE Staten, Canada en Canada
+## <a name="invoice-structure-update-for-the-us-puerto-rico-and-canada"></a><a name="17"></a>Update van factuurstructuur voor de VERENIGDE Staten, Den Staten en Canada
 
 ### <a name="summary"></a>Samenvatting
 
-Moderne factuurstructuurupdates zijn van toepassing vanaf 29 augustus 2021 voor de VERENIGDE Staten, Den Staten en Canada.
+Moderne updates van de factuurstructuur zijn van toepassing vanaf 29 augustus 2021 voor de VERENIGDE Staten, Den Staten, Canada en Canada.
 
 ### <a name="categories"></a>Categorieën
 
@@ -145,7 +200,7 @@ GCC partners die via het CSP-programma transacteren
 
 ### <a name="details"></a>Details
 
-Met trots kondigen we de beschikbaarheid aan van de nieuwe commerce-ervaring in CSP voor Azure voor GCC partners. Deze ervaring stroomlijnt en verbetert de manier waarop klanten Azure-services kopen en gebruiken. Het biedt partners in het CSP-programma ook een consistente weergave van azure-prijzen voor verkoopmotie, prijzen voor Amerikaanse dollar voor wereldwijde consistentie, uitlijning van factureringsdatums en toegang tot Azure Cost Management. We hebben ook een [functionaliteit in Partner Center](../azure-plan-transition.md) waarmee CSP-partners klanten kunnen verplaatsen van bestaande CSP Azure-aanbiedingen naar Azure-services onder het Azure-plan.
+Met trots kondigen we de beschikbaarheid aan van de nieuwe commerce-ervaring in CSP voor Azure voor alle GCC partners. Deze ervaring stroomlijnt en verbetert de manier waarop klanten Azure-services kopen en gebruiken. Het biedt partners in het CSP-programma ook een consistente weergave van azure-prijzen voor verkoopmotie, prijzen voor Amerikaanse dollar voor wereldwijde consistentie, uitlijning van factureringsdatums en toegang tot Azure Cost Management. We hebben ook een [functionaliteit in Partner Center](../azure-plan-transition.md) waarmee CSP-partners klanten kunnen verplaatsen van bestaande CSP Azure-aanbiedingen naar Azure-services onder het Azure-plan.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -246,11 +301,11 @@ CSP-partners voor directe factuur, indirecte providers en resellers via hun indi
 
 Microsoft is op een transformatietraject met haar commerce-ervaring: een investering voor meerdere fases en meerdere jaren. De nieuwe commerce-ervaring voor het Cloud Solution Provider-programma (CSP) is gebouwd op basis van de basismogelijkheden die CSP de basis hebben gemaakt voor partners die cloudoplossingen met toegevoegde waarde verkopen. Met nieuwe commerce kunnen partners unieke serviceaanbiedingen bieden aan klanten, ongeacht hoe klanten deze kopen, zodat ze digitaal kunnen transformeren. En partners kunnen hun bedrijf uitbreiden met continue verkoop en beheerde services en tegelijkertijd de kosten verlagen.
 
-Elke fase van het nieuwe commercetraject brengt nieuwe mogelijkheden, aanbiedingen, functies en voordelen met zich mee. Het is twee jaar geleden begonnen met de nieuwe commerce-ervaring voor CSP met Microsoft Azure (het eerste Microsoft-aanbod dat is geïntroduceerd op het nieuwe commerceplatform), gevolgd door gereserveerde instanties van Azure en, meest recent, permanente softwareaanbiedingen.
+Elke fase van het nieuwe commercetraject brengt nieuwe mogelijkheden, aanbiedingen, functies en voordelen met zich mee. Het is twee jaar geleden begonnen met de nieuwe commerce-ervaring voor CSP met Microsoft Azure (het eerste Microsoft-aanbod dat is geïntroduceerd op het nieuwe commerceplatform), gevolgd door gereserveerde instanties van Azure en, het laatst, permanente softwareaanbiedingen.
 
-Met de volgende fase in oktober 2021 brengen we op seat gebaseerde cloudaanbiedingen naar de nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365 en Power Platform, evenals Windows 365.
+In de volgende fase van oktober 2021 brengen we op seat gebaseerde cloudaanbiedingen naar de nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365 en Power Platform, evenals Windows 365.
 
-Door over te gaan op de nieuwe commerce-ervaring kunnen partners hun bedrijf strategisch positionen voor toekomstige groei door bredere en duurzamere inkomstenstromen in CSP te bouwen met minder complexiteit en kosten voor licenties. De lancering van oktober biedt partners in het CSP-programma nieuwe verkoopmogelijkheden, zorgt voor operationele efficiëntie en zorgt voor klantbebinding op de lange termijn met opties voor meerdere termijnen.
+Door over te gaan op de nieuwe commerce-ervaring kunnen partners hun bedrijf strategisch positionen voor toekomstige groei door bredere en duurzamere inkomstenstromen in CSP te bouwen met minder complexiteit en kosten voor licenties. De lancering van oktober biedt partners in het CSP-programma nieuwe verkoopmogelijkheden, zorgt voor operationele efficiëntie en zorgt voor langetermijnklantbinding met opties voor meerdere termijnen.
 
 #### <a name="selling-microsoft-365-dynamics-365-and-power-platform-in-the-new-commerce-experience"></a>Verkopen Microsoft 365, Dynamics 365 en Power Platform in de nieuwe commerce-ervaring
 
@@ -259,12 +314,12 @@ Met nieuwe handel kunnen partners het spectrum van klantscenario's aanpakken. Ze
 - Eenvoudigere acceptatie van nieuwe producten, zoals Insights, waaronder gestroomlijnde conversies van proefversies en invoegtoepassingen die afzonderlijk beschikbaar zijn in de CSP-catalogus.
 - Voorwaarden voor drie jaar Microsoft 365 uitsluitend in nieuwe handel in maart 2022.
 - Nieuwe aanbiedingen voor Microsoft 365 en D365 exclusief voor nieuwe handel.
-- Aanbiedingen voor een periode van drie jaar voor D365, vergelijkbaar met de bestaande ervaring in CSP.
-- Nieuwe aanbiedingen op maandelijkse termijn met een prijs-premium voor klanten die behoefte hebben aan flexibiliteit op het aantal termijnen en seat.
+- Aanbiedingen voor een termijn van drie jaar voor D365, vergelijkbaar met de bestaande ervaring in CSP.
+- Nieuwe aanbiedingen voor de maandelijkse termijn met een prijs-premium voor klanten die flexibiliteit op het aantal termijnen en -aantal nodig hebben.
 - Jaarlijkse termijnaanbiedingen met concurrerende prijzen voor stabiele, langetermijnklanten.
-- De optie om aanbiedingen voor de korte en de lange termijn te combineren voor klanten met schommelingen in seizoensgebonden of bedrijfsvolumes.
-- Consistent annuleringsbeleid voor voorwaarden van aanbieding op basis van een seat in nieuwe handel (beperkt tot de eerste 72 uur van de termijn met een pro stitutie).)
-- Een nieuwe set communicatieaanbiedingen (momenteel gepland voor oktober) die het verbruik van telco-service's bieden die achteraf worden gefactureerd, als voorloper van het uitrollen van deze optie voor andere nieuwe aanbiedingstypen in latere releases.
+- De optie om korte- en langetermijnaanbiedingen te combineren voor klanten met schommelingen in seizoensgebonden of bedrijfsvolumes.
+- Consistent annuleringsbeleid voor voorwaarden voor aanbieding op basis van een seat in nieuwe handel (beperkt tot de eerste 72 uur van de termijn met een pro stitutie).)
+- Een nieuwe set communicatieaanbiedingen (momenteel gepland voor oktober) die het verbruik van telco-service die achteraf wordt gefactureerd, bieden als voorloper voor het uitrollen van deze optie voor andere nieuwe aanbiedingstypen in latere releases.
 - Hulpprogramma's die de overgang van bestaande abonnementen naar nieuwe handel stroomlijnen.
 - Eenvoudigere verwerking van abonnements- en factureringsgegevens en verbeterde mogelijkheden voor abonnementsbeheer.
 - Afdwinging van het eigendom van abonnementen waardoor er geen gratis proefversies en SMB-aanbiedingen (Small-To-Medium Business) van verschillende partners kunnen worden gekocht.
@@ -273,11 +328,11 @@ Om partners te helpen zich voor te bereiden op de algemene beschikbaarheid van o
 
 #### <a name="selling-windows-365-in-the-new-commerce-experience"></a>Verkopen Windows 365 in de nieuwe commerce-ervaring
 
-Windows 365, aangekondigd in juli 2021 en geïntroduceerd als product in augustus 2021, is de eerste cloud-PC ter wereld voor elke organisatie, die de Windows-ervaring veilig streamt, inclusief desktop, apps, verwerkingskracht, opslag en meer, naar elk klantapparaat.* De ervaring met cloud-pc's kan worden geschaald om aan de behoeften van klanten te voldoen en is eenvoudig te implementeren zonder de noodzaak van gevirtualiseerde desktopinfrastructuur (VDI).
+Windows 365, aangekondigd in juli 2021 en geïntroduceerd als product in augustus 2021, is de eerste cloud-pc ter wereld voor elke organisatie, die de Windows-ervaring veilig streamt, inclusief desktop, apps, verwerkingskracht, opslag en meer, naar elk klantapparaat.* De ervaring met cloud-pc's kan worden geschaald om aan de behoeften van klanten te voldoen en is eenvoudig te implementeren zonder de noodzaak van gevirtualiseerde desktopinfrastructuur (VDI).
 
 (*Internettoegang vereist, er kunnen kosten in rekening worden gebracht. Zie de [veelgestelde Windows 365](https://aka.ms/Windows365/Partner002) voor een lijst met ondersteunde apparaten.)
 
-*Windows 365 is beschikbaar in de nieuwe commerce-ervaring voor de aankoop van ondernemingen in september 2021 (bekijk de licentieverlening voor [Windows 365 L100](https://partner.microsoft.com/resources/detail/windows-365-licensing-l100-deck-pdf) voor meer informatie en aanvullende informatie die hier half september wordt gepost) en in CSP in oktober 2021. [](https://aka.ms/licensingwindows365)* De nieuwe commerce-ervaring in CSP biedt Windows 365 alleen via de nieuwe aanbieding voor de maandelijkse termijn, waarmee klanten dit nieuwe product zonder langetermijnvernieuwing kunnen ervaren en het aantal gebruikers maandelijks kunnen aanpassen met prijzen per gebruiker. Ten laatste worden nieuwe Windows 365-functies en toekomstige verbeteringen alleen beschikbaar gesteld op de nieuwe commerce-breedteaanbieding in CSP.
+*Windows 365 is beschikbaar in de nieuwe commerce-ervaring voor de aankoop van ondernemingen in september 2021 (bekijk de licentieverlening voor [Windows 365 L100](https://partner.microsoft.com/resources/detail/windows-365-licensing-l100-deck-pdf) voor meer informatie en aanvullende informatie die hier half september wordt geplaatst) en in CSP in oktober 2021. [](https://aka.ms/licensingwindows365)* De nieuwe commerce-ervaring in CSP biedt Windows 365 alleen via de nieuwe aanbieding voor de maandelijkse termijn, waarmee klanten dit nieuwe product zonder langetermijnvernieuwing kunnen ervaren en het aantal gebruikers maandelijks kunnen aanpassen met prijzen per gebruiker. Ten laatste worden nieuwe Windows 365-functies en toekomstige verbeteringen alleen beschikbaar gesteld op de nieuwe commerce-breedteaanbieding in CSP.
 
 #### <a name="transitioning-to-the-new-commerce-experience"></a>Overstappen op de nieuwe commerce-ervaring
 
@@ -290,19 +345,19 @@ Partners kunnen gefaseerd over te gaan op nieuwe handel en kunnen blijven verkop
 
 - Maart 2022: Nieuwe abonnementsorders en verlengingen zijn alleen mogelijk op de nieuwe commerce-ervaring.
 - Oktober 2022: Incentives van Microsoft zijn alleen beschikbaar voor transacties in de nieuwe commerce-ervaring.
-- Februari 2023: Alle resterende abonnementen op de vorige ervaring moeten worden verplaatst naar nieuwe commerce, omdat ze niet kunnen worden vernieuwd bij de vorige CSP-ervaring.
+- Februari 2023: Alle resterende abonnementen op de vorige ervaring moeten worden verplaatst naar nieuwe handel, omdat ze niet kunnen worden vernieuwd bij de vorige CSP-ervaring.
 
-De tijdlijn hierboven biedt partners de tijd om de verbeteringen in de nieuwe commerce-ervaring te begrijpen en operationeel te maken en resterende zakelijke activiteiten te migreren vanuit de vorige ervaring.
+De tijdlijn hierboven biedt partners tijd om de verbeteringen in de nieuwe commerce-ervaring te begrijpen en operationeel te maken en resterende zaken te migreren vanuit de vorige ervaring.
 
 #### <a name="future-capabilities-for-new-commerce-in-csp"></a>Toekomstige mogelijkheden voor nieuwe handel in CSP
 
-In 2022 worden extra functies en nieuwe aanbiedingen exclusief voor nieuwe handel gelanceerd.  Huidige abonnementen voor Microsoft 365 (onderhevig aan wijziging) omvatten bijvoorbeeld aanbiedingen voor drie jaar, voordelen voor hybride gebruik (HUB), home use program (HUP) en multi-geo-invoegtoepassingen. Partners kunnen ook einddatums van nieuwe en bestaande abonnementen uitlijnen.  
+In 2022 worden extra functies en nieuwe aanbiedingen exclusief voor nieuwe handel gelanceerd.  Huidige abonnementen voor Microsoft 365 (onderhevig aan wijziging) omvatten bijvoorbeeld aanbiedingen voor drie jaar, voordelen voor hybride gebruik (HUB), home use program (HUP) en multi-geo-invoegtoepassingen. Partners kunnen ook einddatums voor termijnen van nieuwe en bestaande abonnementen uitlijnen.  
 
-Met deze nieuwe functies kan Microsoft enkele populaire mogelijkheden en aanbiedingstypen van andere licentieprogramma's toevoegen aan nieuwe handel en een end-to-end set functies leveren, waarmee de suite met Microsoft-cloudaanbiedingen in nieuwe handel wordt afgerond.
+Deze nieuwe functies stellen Microsoft in staat om een aantal populaire mogelijkheden en aanbiedingstypen van andere licentieprogramma's naar nieuwe handel te brengen en een end-to-end set functies te leveren, waarmee de suite met Microsoft-cloudaanbiedingen in nieuwe handel wordt afgerond.
 
 Aanbiedingen op basis van een seat in nieuwe handel zijn pas in februari 2022 beschikbaar in Brazilië.
 
-Voor meer informatie over New Commerce Experience voor CSP Seat-Based aanbiedingen, gaat u naar de [OPS-gereedheidsverzameling](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/).
+Voor meer informatie over New Commerce Experience voor CSP Seat-Based aanbiedingen, gaat u naar de [OPS-gereedheidsverzameling.](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/)
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -316,7 +371,7 @@ Raadpleeg uw relevante Microsoft Partner Community voor meer vragen over deze aa
 
 ### <a name="summary"></a>Samenvatting
 
-Op 19 augustus 2021 heeft Microsoft een update aangekondigd voor onze commerciële prijzen voor Microsoft 365 die van kracht wordt op 1 maart 2022.
+Op 19 augustus 2021 heeft Microsoft een update aangekondigd van onze commerciële prijzen voor Microsoft 365 die van kracht wordt op 1 maart 2022.
 
 ### <a name="categories"></a>Categorieën
 
@@ -325,49 +380,49 @@ Op 19 augustus 2021 heeft Microsoft een update aangekondigd voor onze commercië
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Cloud Solution Provider partners
+Cloud Solution Provider-partners
 
 ### <a name="details"></a>Details
 
-Op donderdag 19 augustus 2021 hebben we een update aangekondigd voor onze commerciële prijzen voor [Microsoft 365,](https://aka.ms/M365PriceUpdate)de eerste essentiële update sinds Office 365 is uitgebracht in juni 2011. Deze wijziging wordt van kracht op 1 maart 2022 en biedt klanten ongeveer zes maanden van tevoren een melding. Deze bevat:
+Op donderdag 19 augustus 2021 hebben we een update aangekondigd voor onze commerciële prijzen voor [Microsoft 365,](https://aka.ms/M365PriceUpdate)de eerste essentiële update sinds Office 365 in juni 2011 is uitgebracht. Deze wijziging wordt van kracht op 1 maart 2022 en biedt klanten ongeveer zes maanden van tevoren een melding. Deze bevat:
 
-- **Enterprise:** Microsoft 365 E3 ($ 32 tot $ 36 per gebruiker), Office 365 E5 ($35 tot $38), Office365 E3 ($ 20 tot $23) en Office 365 E1 ($8 tot $10)
-- **SMB (Small Medium Business):** Microsoft 365 Business Basic ($ 5 tot $ 6 per gebruiker) en Business Premium ($ 20 tot $22)
+- **Enterprise:** Microsoft 365 E3 ($ 32 tot $ 36 per gebruiker), Office 365 E5 ($35 tot $38), Office365 E3 ($ 20 tot $23) en Office 365 E1 ($ 8 tot $ 10)
+- **Small Medium Business (SMB):** Microsoft 365 Business Basic ($ 5 tot $ 6 per gebruiker) en Business Premium ($ 20 tot $ 22)
 
-Wijzigingen in prijzen voor cloudklanten voor de Amerikaanse overheid worden in de loop van de jaren gefaseerd doorgevoerd, in overeenstemming met de bestaande vereisten. Er is op dit moment geen prijswijziging voor onderwijs- of consumentenproducten.
+Wijzigingen in prijzen voor cloudklanten van de Amerikaanse overheid worden in de loop van de jaren gefaseerd in overeenstemming met de bestaande vereisten. Er is op dit moment geen prijswijziging voor onderwijs- of consumentenproducten.
 
-**Deze prijsupdate is gebaseerd op de productinnovatie die we de afgelopen tien jaar hebben geleverd om te voldoen aan de veranderende behoeften van klanten.** Sinds de eerste release zijn er 25 nieuwe apps en meer dan 1400 functies toegevoegd. Dit omvat de introductie Microsoft Teams enige oplossing met vergaderingen, chats, oproepen, samenwerking en de mogelijkheid om bedrijfsprocessen te automatiseren. We hebben mogelijkheden toegevoegd zoals preventie van gegevensverlies (DLP) voor documenten en e-mailberichten, Office versleuteling van berichten en mogelijkheden voor het verminderen van de surface reduction van aanvallen. En we hebben nieuwe door AI ondersteunde mogelijkheden toegevoegd die helpen bij het automatiseren van taken, het vinden van de informatie die we nodig hebben en ons helpen te communiceren op een manier die voor iedereen toegankelijker is.
+**Deze prijsupdate is gebaseerd op de productinnovatie die we de afgelopen tien jaar hebben geleverd om te voldoen aan de veranderende behoeften van klanten.** Sinds de eerste release zijn er 25 nieuwe apps en meer dan 1400 functies toegevoegd. Dit omvat de introductie van Microsoft Teams enige oplossing met vergaderingen, chats, oproepen, samenwerking en de mogelijkheid om bedrijfsprocessen te automatiseren. We hebben mogelijkheden zoals preventie van gegevensverlies (DLP) toegevoegd voor documenten en e-mailberichten, Office messaging-versleuteling en mogelijkheden voor het verminderen van de aanvalsoppervlakbeperking. En we hebben nieuwe door AI ondersteunde mogelijkheden toegevoegd die helpen bij het automatiseren van taken, het vinden van de informatie die we nodig hebben en ons helpen te communiceren op een manier die voor iedereen toegankelijker is.
 
-**We hebben ook** de uitbreiding aangekondigd van een onbeperkte inbel in onze betaalde suite voor ondernemingen, bedrijven, frontline en overheid, zodat gebruikers kunnen inbellen en deelnemen aan een Teams-vergadering vanaf vrijwel elk apparaat. De wijziging is van invloed op:
+**We hebben ook** de uitbreiding aangekondigd van onbeperkte inbel in onze betaalde suite voor ondernemingen, bedrijven, frontline en overheid, zodat gebruikers kunnen inbellen en deelnemen aan een Teams-vergadering vanaf vrijwel elk apparaat. De wijziging is van invloed op:
 
 - **Enterprise:** Microsoft 365 E3, Office 365 E3 en Office 365 E1
-- **Government (GCC, GCCH en DOD):** Microsoft 365 E3, Office 365 E3, Office 365 E1, Microsoft 365 F3 en Microsoft 365 F1
+- **Overheid (GCC, GCCH en DOD):** Microsoft 365 E3, Office 365 E3, Office 365 E1, Microsoft 365 F3 en Microsoft 365 F1
 - **Frontline:** Microsoft 365 F3, Microsoft 365 F1 en Office 365 F3
 - **SMB:** Microsoft 365 Business Premium, Microsoft 365 Business Standard en Microsoft 365 Business Basic
 
-Momenteel opgenomen in Microsoft 365 E5 en Office 365 E5, zien we inbel-in als een belangrijk onderdeel van de volledige Teams ervaring. Deze wijziging gaat in maart 2022 in.
+Momenteel opgenomen in Microsoft 365 E5 en Office 365 E5, is inbel-in een belangrijk onderdeel van de volledige Teams ervaring. Deze wijziging wordt in maart 2022 van kracht.
 
-Voor de duidelijkheid, we verhogen onze prijzen niet vanwege deze wijziging. Het uitbreiden van inbelmogelijkheden voor de SKU's is gewoon het meest recente voorbeeld van hoe we regelmatig nieuwe waarde leveren ter ondersteuning van de veranderende behoeften van onze klanten.
+Voor de duidelijkheid, we verhogen onze prijzen niet vanwege deze wijziging. Het uitbreiden van de mogelijkheden voor inbelmogelijkheden voor de SKU's is gewoon het meest recente voorbeeld van hoe we regelmatig nieuwe waarde leveren ter ondersteuning van de veranderende behoeften van onze klanten.
 
-We denken dat dit het juiste moment is om onze prijzen bij te werken, op basis van de tekenen van economische herstel die we over de hele wereld zien en de prijsverhogingen die we in de afgelopen jaren hebben gezien van andere leveranciers op de markt. We hebben een sterk waardepropositie en een bewezen trackrecord voor het consistent leveren van nieuwe waarde aan onze klanten.
+We zijn van mening dat dit het juiste moment is om onze prijzen bij te werken, op basis van de tekenen van herstel wereldwijd en de prijsverhogingen die we de afgelopen jaren hebben gezien van andere leveranciers op de markt. We hebben een sterke waardepropositie en een bewezen trackrecord voor het consistent leveren van nieuwe waarde aan onze klanten.
 
 Voor u, onze partners, bieden deze wijzigingen mogelijkheden. We willen het transparanter maken dat E5 de beste waarde vertegenwoordigt. De nieuwe prijzen verminderen de stap van Microsoft 365 E3 naar E5. Tegelijkertijd zijn de wijzigingen in de mogelijkheden voor audiovergaderingen bedoeld om ondersteuning te bieden voor consolidatie van leveranciers.
 
 ### <a name="next-steps"></a>Volgende stappen
 
 - Lees het blogbericht: [Nieuwe prijzen voor Microsoft 365](https://aka.ms/M365PriceUpdate)
-- Zorg ervoor dat uw klanten op de hoogte zijn van de eerste essentiële update van de Microsoft 365 prijslijst en dat ze rekening houden met toekomstige uitgaven. Klanten helpen om te evalueren of dit het juiste moment is om een stap verder te Microsoft 365 E5 of om te consolideren in Microsoft-oplossingen.
+- Zorg ervoor dat uw klanten op de hoogte zijn van de eerste update van de Microsoft 365 prijslijst en dat ze rekening houden met toekomstige uitgaven. Help klanten om te evalueren of dit het juiste moment is om aan de Microsoft 365 E5 of om microsoft-oplossingen te consolideren.
 - Gebruik de [klantgerichte stapel om de](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-deck.pptx&download=1) toegevoegde waarde in het afgelopen decennium en de zes maanden aan meldingen te benadrukken.
 - Gebruik de [veelgestelde vragen](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-FAQ.docx&download=1) om vragen van klanten te beantwoorden.
 
-Ga voor meer informatie over deze aanstaande wijzigingen naar de Galerie Operations-gereedheid in [Update to our commercial pricing for Microsoft 365](https://partner.microsoft.com/resources/collection/update-to-our-commercial-pricing#/).
+Ga voor meer informatie over deze aanstaande wijzigingen naar de Operations Readiness-galerie in [Update to our commercial pricing for Microsoft 365](https://partner.microsoft.com/resources/collection/update-to-our-commercial-pricing#/).
 
 ### <a name="questions"></a>Vragen?
 
-Als u vragen hebt, kunt u contact Regional Operations Center met behulp van clt (Call Logging Tool) op [clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) of [via explore.ms](https://www.explore.ms/). Volg het standaard CLT-proces nauwkeurig, zodat we uw query zo snel mogelijk kunnen oplossen.
+Als u vragen hebt, kunt u contact Regional Operations Center met behulp van het Call Logging Tool (CLT) op [clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) of via [explore.ms](https://www.explore.ms/). Volg het standaard CLT-proces nauwkeurig, zodat we uw query zo snel mogelijk kunnen oplossen.
 
 ________________
-## <a name="august-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="12"></a>Update en Cloud Solution Provider (CSP) van augustus 2018
+## <a name="august-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="12"></a>Update en Cloud Solution Provider van de CSP -community van augustus
 
 ### <a name="summary"></a>Samenvatting
 
@@ -380,7 +435,7 @@ De [maandelijkse CSP-update-nieuwsbrief](https://partner.microsoft.com/resources
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Directe CSP-factuurpartners en indirecte providers
+CSP-partners voor directe factuur en indirecte providers
 
 ### <a name="details"></a>Details
 
@@ -389,8 +444,8 @@ Belangrijke onderwerpen deze maand zijn onder andere:
 - [Wijzigingen in de beschikbaarheid van Azure-aanbieding in het CSP-programma](https://partner.microsoft.com/resources/detail/changes-to-azure-offer-availability-in-csp-pdf)
 - [Verbeteringen in het Microsoft Commerce Incentive-programma en Partner Center](https://partner.microsoft.com/resources/detail/enhancements-to-microsoft-commerce-incentive-program-and-partner-center-pdf)
 - [Programmatische toegang tot Partner Center Insights analytics-gegevens](https://partner.microsoft.com/resources/detail/programmatic-access-to-partner-center-insights-analytics-data-pdf)
-- [Introductie van API-beperking voor partners die Partner Center API's aanroepen](https://partner.microsoft.com/resources/detail/introducing-api-throttling-to-partners-calling-partner-center-apis-pdf)
-- [Overzicht: Hulpprogramma voor de overgang van verbeterde abonnementen](https://partner.microsoft.com/resources/detail/overview-enhanced-subscriptions-transition-tool-pdf)
+- [Introductie van API-beperking voor partners die api'Partner Center aanroepen](https://partner.microsoft.com/resources/detail/introducing-api-throttling-to-partners-calling-partner-center-apis-pdf)
+- [Overzicht: Hulpprogramma voor verbeterde abonnementsovergang](https://partner.microsoft.com/resources/detail/overview-enhanced-subscriptions-transition-tool-pdf)
 - [Introductie van Windows 365: hybride Windows voor een hybride wereld](https://partner.microsoft.com/resources/detail/introducing-windows-365-hybrid-windows-for-a-hybrid-world-pdf)
 
 #### <a name="csp-community-qa-reminder"></a>CSP Community Q&A reminder
@@ -401,33 +456,33 @@ De maandelijkse Q&A-sessie van de CSP-community biedt u de mogelijkheid om meer 
 
 #### <a name="always-availablelaunch-content-on-demand"></a>Altijd beschikbaar: inhoud op aanvraag starten
 
-In de maandelijkse [CSP-communityverzameling](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/)vindt u:
+In de maandelijkse [CSP-communityverzameling](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/)vindt u het volgende:
 
-- De downloadbare [CSP Monthly Update-nieuwsbrief](https://partner.microsoft.com/resources/detail/csp-monthly-update-august-2021-global) waarin recente CSP-aankondigingen, updates, gebeurtenissen en herinneringen worden samengevoegd in een eenvoudig te lezen document.
-- De [aankondigings agenda van de CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-august-2021-pdf) met een tijdlijn van toekomstige wijzigingen die van invloed zijn op het programma.
+- De downloadbare [CSP Monthly Update-nieuwsbrief](https://partner.microsoft.com/resources/detail/csp-monthly-update-august-2021-global) waarin recente CSP-aankondigingen, updates, gebeurtenissen en herinneringen worden geaggregeerd in een eenvoudig te lezen document.
+- De [aankondigings agenda van de CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-august-2021-pdf) met een tijdlijnweergave van toekomstige wijzigingen die van invloed zijn op het programma.
 - De **nieuwe** [productlancerings](https://partner.microsoft.com/resources/detail/product-launch-calendar-august-pdf) agenda waar u toekomstige productlanceringen en aanbiedingen kunt bekijken.
 - De **nieuwe** [Global Promo Readiness Guide](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) waarin recente en toekomstige promoties worden verzameld die beschikbaar zijn voor partners en klanten.
 - [CSP start updatebronnen](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) met eenvoudig te gebruiken inhoud over belangrijke operationele wijzigingen.
-- [Vernieuwingen en herinneringen over](https://partner.microsoft.com/resources/detail/csp-august-2021-refreshers-and-reminders-pdf) belangrijke CSP-onderwerpen die interesse en query's ontvangen.
+- [Vernieuwingen en herinneringen over belangrijke](https://partner.microsoft.com/resources/detail/csp-august-2021-refreshers-and-reminders-pdf) CSP-onderwerpen die interesse en query's ontvangen.
 
-Hebt u licentie-gereedheid nodig? De [maandelijkse CSP Spotlight-webinars hebben](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) betrekking op de meest recente CSP-licentiegegevens die beschikbaar zijn voor alle partners.
+Hebt u licentie-gereedheid nodig? De [maandelijkse webinars met CSP-spotlight hebben](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) betrekking op de meest recente CSP-licentiegegevens die beschikbaar zijn voor alle partners.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de resources van de community en registreer u voor de Q&A.
+Bekijk de resources van de community en registreer u voor de Q-&A.
 
 ### <a name="questions"></a>Vragen?
 
 De maandelijkse Q&A-oproep van de CSP-community is de beste plek om vragen te stellen over operationele veranderingen in het CSP-programma. U kunt [een vraag indienen tot](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) 48 uur vóór de oproep. Alle startvragen worden beantwoord in de aanroep en/of in het Q&A-document dat na de aanroep is gepubliceerd. U kunt de communityverzameling van de afgelopen maand [bezoeken](https://partner.microsoft.com/resources/collection/july-2021-csp-partner-community-content#/) en het [Q&A-document](https://partner.microsoft.com/resources/detail/fy21-june-csp-community-questions-and-answers-pdf) bekijken dat na de gebeurtenis van juni is gepubliceerd.
 
-Vragen over andere CSP-onderwerpen? Ga naar [Partner Center ondersteuningspagina.](https://partner.microsoft.com/support/?stage=1)
+Vragen over een ander CSP-onderwerp? Ga naar [Partner Center ondersteuningspagina.](https://partner.microsoft.com/support/?stage=1)
 
 ________________
 ## <a name="get-genuine-windows-agreement-ggwa-offers-in-the-cloud-solution-provider-program-temporarily-unavailable"></a><a name="11"></a>Get Genuine Windows GGWA-aanbiedingen (Agreement) in het Cloud Solution Provider programma tijdelijk niet beschikbaar
 
 ### <a name="summary"></a>Samenvatting
 
-GGWA-aanbiedingen die via het CSP-programma worden aangeboden, zijn tijdelijk niet beschikbaar. Tot verdere kennisgeving moeten partners GGWA blijven transacten via het Open License-programma.
+GGWA-aanbiedingen die via het CSP-programma worden getransacteerd, zijn tijdelijk niet beschikbaar. Tot verdere kennisgeving moeten partners GGWA blijven transacten via het Open License-programma.
 
 ### <a name="categories"></a>Categorieën
 
@@ -440,18 +495,18 @@ Alle partners die GGWA-aanbiedingen via CSP transacteren
 
 ### <a name="details"></a>Details
 
-Softwaresleutels voor GGWA-aanbiedingen (Get Genuine Windows Agreement) die in CSP worden verwerkt, zijn niet beschikbaar. Daarom worden deze aanbiedingen tijdelijk verwijderd uit het CSP-programma. GGWA-aanbiedingen zijn tot 1 september 2021 zichtbaar in de CSP-prijslijst, maar kunnen niet worden besteld in de catalogus/Partner Center.
+Softwaresleutels voor GGWA-aanbiedingen (Get Genuine Windows Agreement) die in CSP worden verwerkt, zijn niet beschikbaar. Microsoft verwijdert deze aanbiedingen daarom tijdelijk uit het CSP-programma. GGWA-aanbiedingen zijn tot 1 september 2021 zichtbaar in de CSP-prijslijst, maar kunnen niet worden besteld in de catalogus/Partner Center.
 
-Hoewel er wordt gewerkt aan een oplossing, wordt partners aangeraden om GGWA-aanbiedingen af te lossen via het Open License-programma. Meer kennisgeving wordt gedaan zodra een oplossing is toegepast, naar verwachting vóór 31 december 2021.
+Terwijl er wordt gewerkt aan een oplossing, wordt partners aangeraden om GGWA-aanbiedingen via het Open License-programma af te lossen. Meer kennisgeving wordt gegeven zodra een oplossing is toegepast, verwacht vóór 31 december 2021.
 
 >[!NOTE]
->De GGWA-aanbieding wordt gebruikt om een klant te helpen bij het oplossen van een situatie met onjuiste licenties. GGWA-SKU's kunnen alleen worden geordend na een Microsoft-nalevingscontrole. Zie de Microsoft-productvoorwaarden [voor meer informatie.](https://www.microsoft.com/licensing/terms/welcome/welcomepage)
+>De GGWA-aanbieding wordt gebruikt om een klant te helpen een onjuiste licentiesituatie op te lossen. GGWA-SKU's kunnen alleen worden geordend na een Microsoft-nalevingscontrole. Zie de Productvoorwaarden van [Microsoft voor meer informatie.](https://www.microsoft.com/licensing/terms/welcome/welcomepage)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Voor partners die de GGWA-aanbiedingen in CSP hebben afbetaald, moet u deze licenties binnen 30 dagen na de aankoopdatum retourneren voor restitutie. U kunt deze taak uitvoeren in Partner Center de richtlijnen hier [te volgen.](../csp-software-subscriptions.md#cancel-a-purchase) Voor retouren van aankopen na meer dan 30 dagen kunnen partners een ticket openen in Partner Center door **CSP**, Transact en **Manage,** Return of refund software te **selecteren.**
+Voor partners die de GGWA-aanbiedingen in CSP hebben overgenomen, moet u deze licenties binnen 30 dagen na de aankoopdatum retourneren voor restitutie. U kunt deze taak voltooien in Partner Center de richtlijnen hier [volgen.](../csp-software-subscriptions.md#cancel-a-purchase) Voor retouren van aankopen na meer dan 30 dagen kunnen partners een ticket openen in Partner Center door **CSP**, **Transact en Manage,** Return of refund software te **selecteren.**
 
-Voer alle nieuwe of vervangende GGWA-orders tot nader order uit via het Open License-programma.
+Voer tot nader order alle nieuwe of vervangende GGWA-orders uit via het open license-programma.
 
 Deel deze update zo nodig met uw interne teams.  
 
@@ -464,7 +519,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-De meest recente global promo readiness Guide is nu gepubliceerd.
+De nieuwste gereedheidshandleiding voor globale promo's is nu gepubliceerd.
 
 ### <a name="categories"></a>Categorieën
 
@@ -473,26 +528,26 @@ De meest recente global promo readiness Guide is nu gepubliceerd.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die het programma Cloud Solution Provider gebruiken
+Partners die via het Cloud Solution Provider werken
 
 ### <a name="details"></a>Details
 
-De nieuwste Global Promo Readiness Guide, een geconsolideerde weergave van alle huidige en toekomstige promoties, is nu beschikbaar in de resourcegalerie van Operations Readiness. Bekijk hier actieve en toekomstige promoties en [aanbiedingen.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+De nieuwste Global Promo Readiness Guide, een geconsolideerde weergave van alle huidige en toekomstige promoties, is nu beschikbaar in de resourcegalerie Operations Readiness. Zie actieve en toekomstige promoties en aanbiedingen [hier.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de nieuwste maandelijkse promotiehandleiding in de resourcegalerie Operations Readiness. Deel deze informatie met de juiste contactpersonen in uw organisatie en laat ons weten of de handleiding nuttig is door te reageren op de vraag "Was deze pagina nuttig?" onder aan de pagina.
+Bekijk de meest recente maandelijkse promotiehandleiding in de operations readiness-resourcegalerie. Deel deze informatie met de juiste contactpersonen in uw organisatie en laat ons weten of de handleiding nuttig is door te reageren op de vraag 'Was deze pagina nuttig?' onder aan de pagina.
 
 ### <a name="questions"></a>Vragen?
 
-Als u vragen hebt over deze aanbiedingen, controleert u uw relevante Yammer community's.
+Voor vragen over deze aanbiedingen raadpleegt u uw relevante Yammer community's.
 
 ________________
 ## <a name="compliance-monitoring-through-the-partner-accountability-management-pam-team"></a><a name="9"></a>Nalevingscontrole via het PAM-team (Partner Accountability Management)
 
 ### <a name="summary"></a>Samenvatting
 
-Het PAM-team breidt onze programma's voor nalevingscontrole uit en helpt het partnerecosysteem bij het bevorderen en onderhouden van een cultuur van ethiek en vertrouwen.
+Het PAM-team verbetert onze programma's voor nalevingscontrole en helpt het partnerecosysteem bij het bevorderen en onderhouden van een cultuur van ethiek en vertrouwen.
 
 ### <a name="categories"></a>Categorieën
 
@@ -505,13 +560,13 @@ Partners die wereldwijd met Microsoft werken
 
 ### <a name="details"></a>Details
 
-Als partners betekent onze wederzijdse inzet voor het bouwen en onderhouden van vertrouwen dat we op de juiste manier zaken doen. De hoogste gedragscodes zijn essentieel voor het behouden van partners en klanten en zijn nodig om waarde te creëren voor Microsoft, onze partners en al onze belanghebbenden.
+Als partners betekent onze wederzijdse inzet voor het opbouwen en onderhouden van vertrouwen dat we op de juiste manier zaken doen. De hoogste gedragscodes zijn essentieel voor het behouden van partners en klanten en zijn nodig om waarde te creëren voor Microsoft, onze partners en al onze belanghebbenden.
 
-Om een cultuur van naleving en vertrouwen te bevorderen en te onderhouden, heeft Microsoft bijna twee jaar geleden nalevingscontrole via het PAM-team tot stand gebracht. Het PAM-team consolideert bewakingsinspanningen en zorgt voor tijdige oplossingen voor geïdentificeerde gebieden van niet-compatibel gedrag in ons partnerecosysteem, met als doel het kanaal voor iedereen te verbeteren. Op basis van onze contractuele verplichtingen kan Microsoft boetes opleggen en initiatieven voor het corrigeren van de cursus opleggen voor nalevingsin overtredingen.
+Om een cultuur van naleving en vertrouwen te bevorderen en te onderhouden, heeft Microsoft bijna twee jaar geleden nalevingscontrole via het PAM-team tot stand gebracht. Het PAM-team consolideert de bewakingsinspanningen en zorgt voor tijdige oplossingen voor geïdentificeerde gebieden van niet-compatibel gedrag in ons partnerecosysteem, met als doel het kanaal voor iedereen te verbeteren. Op basis van onze contractuele verplichtingen kan Microsoft boetes en initiatieven voor het corrigeren van de cursus opleggen voor nalevingsin overtredingen.
 
-We hebben een document met [veelgestelde](https://partner.microsoft.com/resources/detail/partner-accountability-management-faq-pdf) vragen gemaakt om partners inzicht te geven in de werking van PAM en de belangrijkste gebieden voor de duidelijkheid waar we de meeste vragen krijgen. Meer informatie vindt u in Inzicht in [naleving van partners (microsoft.com)](https://partner.microsoft.com/resources/collection/understanding-partner-compliance#/) en registreren voor training op aanvraag.
+We hebben een document met [veelgestelde](https://partner.microsoft.com/resources/detail/partner-accountability-management-faq-pdf) vragen gemaakt om partners inzicht te geven in de werking van PAM en om duidelijk te maken waar de meeste vragen worden gesteld. U vindt meer informatie op Inzicht in [naleving van partners (microsoft.com) en](https://partner.microsoft.com/resources/collection/understanding-partner-compliance#/) registreren voor training op aanvraag.
 
-Als herinnering aan al onze partners, leveranciers en andere vertegenwoordigers over de hele wereld, is het verplicht om te voldoen aan ons anti-corruptiebeleid voor Microsoft-vertegenwoordigers, onze gedragscode van partners en de voorwaarden van onze overeenkomsten.
+Als herinnering aan al onze partners, leveranciers en andere vertegenwoordigers over de hele wereld is het verplicht om te voldoen aan ons anti-corruptiebeleid voor Microsoft-vertegenwoordigers, onze gedragscode van partners en de voorwaarden van onze overeenkomsten.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -535,7 +590,7 @@ Microsoft brengt Windows naar de cloud met [Windows 365.](https://aka.ms/M365End
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die het CSP-programma (Cloud Solution Provider) gebruiken
+Partners die het programma Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Details
 
@@ -543,25 +598,25 @@ Microsoft kondigt met trots aan [dat Windows 365](https://aka.ms/M365EndpointPar
 
 #### <a name="welcome-to-your-windows-365-cloud-pc"></a>Welkom bij uw Windows 365 Cloud PC:
 
-- **Gestreamd op meerdere apparaten:** U kunt direct opstarten naar uw cloud-pc en uw Windows naar elk van uw apparaten streamen.  
+- **Gestreamd op meerdere apparaten:** U kunt direct opstarten naar uw cloud-pc en uw Windows naar een van uw apparaten streamen.  
 
-- **Altijd gereed en bijgewerkt:** Gestreamd vanuit de cloud en met u meereist, is Windows 365 altijd gereed en altijd bijgewerkt, waar u ook bent, op elk apparaat waarop u wilt werken. Het is een eenvoudige en veelzijdige Windows door de Microsoft Cloud wordt geleverd.
+- **Altijd gereed en bijgewerkt:** Gestreamd vanuit de cloud en met u meereist, is Windows 365 altijd gereed en altijd bijgewerkt, waar u ook bent, op elk apparaat waarop u wilt werken. Het is een eenvoudige en veelzijdige Windows die wordt geleverd door de Microsoft-cloud.
 
-- **Persoonlijk en vertrouwd:** Windows 365 is gepersonaliseerd en vertrouwd met al uw instellingen en inhoud, dus wanneer u terug gaat naar uw cloud-pc, is dit precies waar u deze hebt gelaten.
+- **Persoonlijk en vertrouwd:** Windows 365 is gepersonaliseerd en vertrouwd met al uw instellingen en inhoud. Wanneer u terug gaat naar uw cloud-pc, is dit precies waar u deze hebt gelaten.
 
-- **Schaalbaar en flexibel:** Windows 365 is veilig, met de kracht van de cloud en de principes van Zero Trust. Informatie wordt beveiligd en opgeslagen in de cloud en niet op het apparaat.
+- **Schaalbaar en flexibel:** Windows 365 is veilig door het ontwerp, met de kracht van de cloud en de principes van Zero Trust. Informatie wordt beveiligd en opgeslagen in de cloud en niet op het apparaat.
 
-- **Voorspelbare kosten:** Windows 365 is het kopen van cloud-pc's voorspelbaar met prijzen per gebruiker per maand.
+- **Voorspelbare kosten:** Windows 365 maakt het kopen van cloud-pc's voorspelbaar met prijzen per gebruiker per maand.
 
 - **Eenvoudig te kopen, implementeren** en beheren: Windows 365 vereenvoudigt aanschaf, implementatie, beheer en updates, omdat in tegenstelling tot andere oplossingen virtualisatie achter de schermen wordt gebruikt.
 
-Windows 365 is beschikbaar voor klanten om aankopen te doen [via windows365.com,](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)de Enterprise Agreement of het CSP-programma.
+Windows 365 is beschikbaar voor klanten om te kopen [via windows365.com,](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)de Enterprise Agreement of het CSP-programma.
 
 #### <a name="update-on-windows-365-trials"></a>Update voor Windows 365-proefversies
 
-Vanwege een aanzienlijke vraag hebben we de capaciteit voor Windows 365 proefversies bereikt, dus onderbreken we nieuwe proefversies. Klanten kunnen [zich registreren om](https://go.microsoft.com/fwlink/?linkid=2165147) een melding te ontvangen wanneer proefabonnementen worden hervat of hier Windows 365 [aanschaffen.](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)
+Vanwege een aanzienlijke vraag hebben we de capaciteit voor Windows 365 proefversies bereikt, dus onderbreken nieuwe proefversies. Klanten kunnen [zich registreren om](https://go.microsoft.com/fwlink/?linkid=2165147) een melding te ontvangen wanneer proefabonnementen worden hervat of hier Windows 365 [kopen.](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)
 
-In de tussentijd kunnen partners die inzicht willen krijgen in de service, de [doorklikdemo blijven gebruiken.](https://interactive-demo.azureedge.net/)
+In de tussentijd kunnen partners die de service willen begrijpen, de [doorklikdemo blijven gebruiken.](https://interactive-demo.azureedge.net/)
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -569,7 +624,7 @@ In de tussentijd kunnen partners die inzicht willen krijgen in de service, de [d
 
 - Lees meer over Windows 365 via onze [blogpost](https://www.microsoft.com/microsoft-365/blog/?p=237041?).
 
-- Volg ons op 18 augustus voor een webinar over [go-to-market](https://aka.ms/Windows365PartnerWebinar) van partners voor meer informatie over de partnerkans met Windows 365.
+- Doe op 18 augustus mee voor een webinar over [go-to-market](https://aka.ms/Windows365PartnerWebinar) voor partners voor meer informatie over de partnerkans met Windows 365.
 
 - Lees de informatie over dit onderwerp in de [Operations-resourcegalerie](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (aanmelden vereist) op de website van de Microsoft-partner.
 
@@ -580,7 +635,7 @@ Raadpleeg uw relevante [Microsoft-partnergroepen](https://www.microsoftpartnerco
 ### <a name="change-log"></a>Wijzigingenlogboek
 
 - 20 juli 2021: Aankondiging van nieuwe Windows 365
-- 2 augustus 2021: Windows 365 nu beschikbaar voor klanten om aan te schaffen
+- 2 augustus 2021: Windows 365 nu beschikbaar voor klanten om te kopen
 - 9 augustus 2021: Update op Windows 365-proefversies
 
 ________________
@@ -601,7 +656,7 @@ Indirecte providers en directe factuurpartners die een Azure-plan uitvoeren in h
 
 ### <a name="details"></a>Details
 
-Partners hebben mogelijk verschillen waargenomen tussen de reserveringsin instanties (RIs) die beschikbaar zijn om te kopen in Partner Center en de GERESERVEERDE instanties in de prijslijsten voor Azure-planreserveringen.
+Partners hebben mogelijk verschillen waargenomen tussen de reserveringsin instanties (RIs) die beschikbaar zijn om te kopen in Partner Center en de GERESERVEERDE's in de prijslijsten voor Azure-planreserveringen.
 In het verleden zijn de prijslijsten voor Azure-planreserveringen onjuist opgenomen:
 
 1. Items die mogelijk alleen beschikbaar zijn in de Azure Portal
@@ -609,11 +664,11 @@ In het verleden zijn de prijslijsten voor Azure-planreserveringen onjuist opgeno
  
 We brengen enkele updates aan in de prijslijsten van het Azure-plan Partner Center om ervoor te zorgen dat de items in de prijslijst synchroon zijn met wat er beschikbaar is voor aankoop in Partner Center. Dit moet vanaf 2 september 2021 worden aangepakt. Deze wijzigingen zijn alleen van toepassing op prijslijsten voor azure-reserveringen voor nieuwe commerce-reserveringen.
 
-Vanaf september, als een RI beschikbaar is om te worden ver transacted in Partner Center, is deze beschikbaar in de prijslijsten. Voor andere API's moet de partner rechtstreeks naar Azure Portal om de prijzen te controleren en aankopen te doen.
+Als er vanaf september een ri beschikbaar is om te worden Partner Center, is deze beschikbaar in de prijslijsten. Voor andere API's moet de partner rechtstreeks naar Azure Portal om de prijzen te controleren en aankopen te doen.
 
 ### <a name="next-steps"></a>Volgende stappen
-- Partners moeten prijzen voor Azure-plannen downloaden om de beschikbare API's te zien via [Partner Center](https://partner.microsoft.com/dashboard/sell/pricingandoffers).
-- Partners die een nieuw Commerce Azure-plan uitvoeren, moeten [azure-services in](https://azure.microsoft.com/pricing/calculator/) CSP-prijscalculator gebruiken om prijsinformatie op te halen voor RIs die niet beschikbaar zijn voor aankoop binnen Partner Center. 
+- Partners moeten prijzen voor Azure-plannen downloaden om de beschikbare RIs te bekijken via [Partner Center](https://partner.microsoft.com/dashboard/sell/pricingandoffers).
+- Partners die een nieuw Commerce Azure-plan uitvoeren, moeten verwijzen naar [Azure-services in CSP-prijscalculator](https://azure.microsoft.com/pricing/calculator/) voor prijsinformatie over RIs die niet beschikbaar zijn voor aankoop binnen Partner Center. 
 ________________
 ## <a name="csp-for-azure-new-commerce-experience-expands-to-the-vatican"></a><a name="5"></a>CSP voor Nieuwe commerce-ervaring van Azure breidt uit naar Het Bedrijf
 
@@ -632,11 +687,11 @@ Partners in de Partner-transacting via het CSP-programma
 
 ### <a name="details"></a>Details
 
-Op 22 juli 2021 heeft Microsoft de nieuwe commerce-ervaring in het CSP-programma voor Azure in the Commerce geïntroduceerd. Deze ervaring stroomlijnt en verbetert de manier waarop klanten Azure-services kopen en gebruiken. Het biedt partners in het CSP-programma ook een consistente weergave van azure-prijzen voor verkoopmotie, prijzen voor Amerikaanse dollar voor wereldwijde consistentie, uitlijning van factureringsdatums en toegang tot Azure Cost Management. Voor meer informatie moeten partners het materiaal bekijken dat in de [galerie met partnerresources is geplaatst.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+Op 22 juli 2021 heeft Microsoft de nieuwe commerce-ervaring in het CSP-programma voor Azure in the Gaan geïntroduceerd. Deze ervaring stroomlijnt en verbetert de manier waarop klanten Azure-services kopen en gebruiken. Het biedt partners in het CSP-programma ook een consistente weergave van Azure-prijzen voor verkoopmotie, prijzen voor Amerikaanse dollar voor wereldwijde consistentie, afstemming van factureringsdatums en toegang tot Azure Cost Management. Voor meer informatie moeten partners het materiaal bekijken dat in de [galerie met partnerresources is geplaatst.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Er zijn verschillende resources beschikbaar voor de introductie van de nieuwe Azure Commerce-ervaring en het bieden van aanvullende informatie. U vindt de meest recente veelgestelde vragen, stapels, video's en meer in de resourcegalerie voor updates van [het CSP-programma.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+Er zijn verschillende resources beschikbaar met de nieuwe Azure Commerce-ervaring en aanvullende informatie. U vindt de meest recente veelgestelde vragen, stapels, video's en meer in de resourcegalerie voor updates van [het CSP-programma.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ________________
 ## <a name="programmatic-access-to-partner-insights-analytics-data"></a><a name="4"></a>Programmatische toegang tot partner- Insights analytics-gegevens
@@ -674,7 +729,7 @@ Lees [deze handleiding om](../insights-programmatic-get-started.md) aan de slag 
 
 Ons technische team host aan [het einde](https://globalpbocomm.eventbuilder.com/PartnerCenterInsightsAPIsTechnicalOverview) van deze maand trainingssessies over dit onderwerp. De sessie is gericht op de technische teams van onze partners en wordt vastgelegd om op aanvraag te bekijken.
 
-- **Optie 1:** [Europa, Midden-Oosten en Afrika (EMEA)](https://globalpbocomm.eventbuilder.com/event/47228?source=PartnerCenterInsightsAPIsTechnicalOverview)en Noord-Amerika -**16** augustus , 10:00 uur Eastern Time Zone of 15:00 PM Greenwich Mean Time
+- **Optie 1:** Europa, Midden-Oosten en Afrika [(EMEA)](https://globalpbocomm.eventbuilder.com/event/47228?source=PartnerCenterInsightsAPIsTechnicalOverview)en Noord-Amerika -**16** augustus , 10:00 uur Eastern Time Zone of 15:00 PM Greenwich Mean Time
 
 - **Optie 2:** [Aziëvriendelijk](https://globalpbocomm.eventbuilder.com/event/47229?source=PartnerCenterInsightsAPIsTechnicalOverview):**17** augustus, 11:30 uur Tijdzone Singapore
 
@@ -683,11 +738,11 @@ Ons technische team host aan [het einde](https://globalpbocomm.eventbuilder.com/
 Raadpleeg uw relevante Microsoft Partner-community's voor vragen over deze aanbiedingen.
 
 ________________
-## <a name="offer-attestation-required-for-some-windows-365-offers"></a><a name="3"></a>Attestation-aanbieding vereist voor sommige Windows 365-aanbiedingen
+## <a name="offer-attestation-required-for-some-windows-365-offers"></a><a name="3"></a>Attestation van aanbieding vereist voor sommige Windows 365-aanbiedingen
 
 ### <a name="summary"></a>Samenvatting
 
-Sommige nieuw beschikbare Windows 365-aanbiedingen vanaf augustus 2021 vereisen speciale attestation vóór de aankoop.
+Sommige nieuw beschikbare Windows 365-aanbiedingen die vanaf augustus 2021 beschikbaar zijn, vereisen speciale attestation vóór aankoop.
 
 ### <a name="categories"></a>Categorieën
 
@@ -696,7 +751,7 @@ Sommige nieuw beschikbare Windows 365-aanbiedingen vanaf augustus 2021 vereisen 
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Indirecte providers en directe factuurpartners die services op basis van licenties in het Cloud Solution Provider gebruiken
+Indirecte providers en partners voor directe factuur die op licenties gebaseerde services in het Cloud Solution Provider afleveren
 
 ### <a name="details"></a>Details
 
@@ -704,25 +759,25 @@ Voor sommige nieuw beschikbare Windows 365-aanbiedingen moet de partner bevestig
 
 **Ik begrijp dat elke persoon die Windows 365 Business met Windows Hybrid Benefit gebruikt, ook een geldige kopie van Windows 10/11-Pro moet hebben geïnstalleerd op hun primaire werkapparaat.**
 
-Partners moeten hiermee akkoord gaan voordat ze de aankoop kunnen doen.
+Partners moeten hiermee akkoord gaan voordat ze deze aanschaffen.
 
-Attestation is zowel van toepassing op Partner Center portal als op Partner Center API's bij het verzenden van orders en het uitchecken van winkelwagens. Partners kunnen bepalen welke aanbiedingen attestation vereisen door de AttestationProperties voor de [aanbieding](/partner-center/develop/offer-resources#attestationproperties) of [SKU-objecten te](/partner-center/develop/product-resources#attestationproperties) controleren. In deze eigenschappen wordt het attestation-type uitgelegd en wordt uitgelegd of de attestation wordt afgedwongen voor aankopen.
+Attestation is zowel van toepassing op Partner Center portal als Partner Center API's bij het verzenden van orders en het uitchecken van winkelwagens. Partners kunnen bepalen welke aanbiedingen attestation vereisen door de AttestationProperties voor de [aanbieding](/partner-center/develop/offer-resources#attestationproperties) of [SKU-objecten te](/partner-center/develop/product-resources#attestationproperties) controleren. In deze eigenschappen wordt het attestation-type uitgelegd en wordt uitgelegd of de attestation wordt afgedwongen voor aankopen.
 
-Hieronder vindt u aanbiedingen waarvoor attestation momenteel vereist is vóór de aankoop.
+Hieronder vindt u aanbiedingen waarvoor momenteel attestation is vereist vóór de aankoop.
 
  | **Naam van aanbieding** |**Aanbiedings-id** |
 |:------------------------------------------- |:--------------------------------------- |
 | Windows 365 Business 1 vCPU, 2 GB, 64 GB (met Windows Hybrid Benefit) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
-| Windows 365 Business 2 vCPU, 4 GB, 128 GB (met Windows Hybrid Benefit) | 7612386a-d98d-4110-94b8-554bd612a5ab |
-| Windows proefversie van 365 Business 2 vCPU, 4 GB, 128 GB (Windows Hybrid Benefit) | ab170880-1254-4534-abb9-fd0bf60cde71 |
-| Windows 365 Business 2 vCPU, 4 GB, 256 GB (met Windows Hybrid Benefit) | cc624387-162c-4f31-9d6e-252d39d5324b |
-| Windows 365 Business 2 vCPU, 4 GB, 64 GB (met Windows Hybrid Benefit) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (Windows Hybrid Benefit) | 7612386a-d98d-4110-94b8-554bd612a5ab |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (met Windows Hybrid Benefit) Proefversie | ab170880-1254-4534-abb9-fd0bf60cde71 |
+| Windows 365 Business 2 vCPU, 4 GB, 256 GB (Windows Hybrid Benefit) | cc624387-162c-4f31-9d6e-252d39d5324b |
+| Windows 365 Business 2 vCPU, 4 GB, 64 GB (Windows Hybrid Benefit) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
 | Windows 365 Business 2 vCPU, 8 GB, 128 GB (met Windows Hybrid Benefit) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
-| Windows 365 Business 2 vCPU, 8 GB, 128 GB (met Windows Hybrid Benefit) Proefversie | d5623401-b8e0-429f-86df-29b6efdf4d95 |
+| Windows proefversie van 365 Business 2 vCPU, 8 GB, 128 GB (Windows Hybrid Benefit) | d5623401-b8e0-429f-86df-29b6efdf4d95 |
 | Windows 365 Business 2 vCPU, 8 GB, 256 GB (met Windows Hybrid Benefit) | 8fe4271f-c761-45f8-8261-5ab575195152 |
-| Windows 365 Business 4 vCPU, 16 GB, 128 GB (met Windows Hybrid Benefit) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
-| Windows proefversie van 365 Business 4 vCPU, 16 GB, 128 GB (met Windows Hybrid Benefit) | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
-| Windows 365 Business 4 vCPU, 16 GB, 256 GB (Windows Hybrid Benefit) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
+| Windows 365 Business 4 vCPU, 16 GB, 128 GB (Windows Hybrid Benefit) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
+| Windows 365 Business 4 vCPU, 16 GB, 128 GB (met Windows Hybrid Benefit) Proefversie | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
+| Windows 365 Business 4 vCPU, 16 GB, 256 GB (met Windows Hybrid Benefit) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
 | Windows 365 Business 4 vCPU, 16 GB, 512 GB (Windows Hybrid Benefit) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
 | Windows 365 Business 8 vCPU, 32 GB, 128 GB (met Windows Hybrid Benefit) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
 | Windows 365 Business 8 vCPU, 32 GB, 256 GB (Windows Hybrid Benefit) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
@@ -750,7 +805,7 @@ Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
 
 ### <a name="details"></a>Details
 
-De kalender voor productlancering van augustus 2021 [](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) is nu beschikbaar in de resourcegalerie Operations-gereedheid. Bekijk hier de komende productlanceringen en aanbiedingen.
+De kalender voor productlancering [van](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) augustus 2021 is nu beschikbaar in de resourcegalerie Operations-gereedheid. Bekijk hier de komende productlanceringen en aanbiedingen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
