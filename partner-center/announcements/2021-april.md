@@ -1,6 +1,6 @@
 ---
 title: Aankondigingen van april 2021
-description: Aankondigingen van april 2021 voor Microsoft Partner Center nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
+description: Aankondigingen van april 2021 voor Microsoft Partner Center waaronder nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-announcements
@@ -10,13 +10,13 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/29/2021
-ms.openlocfilehash: e5f2b8f3c4041f3c533abd9512b68879222b330c7301a4227aeb04188f9fe068
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.date: 08/30/2021
+ms.openlocfilehash: d19f6b02606d3735c55b74bb0adc523dc750fc98
+ms.sourcegitcommit: 053868201c001cf22bf5d3ad10c34b5e59cefa3e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688166"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "123215658"
 ---
 # <a name="april-2021-announcements"></a>Aankondigingen van april 2021
 
@@ -39,9 +39,9 @@ CSP-partners voor directe factuur en indirecte providers die nieuwe klantadresge
 
 ### <a name="details"></a>Details
 
-Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor validatie van klantadressen voor het transacteren van klantabonnementen in het CSP-programma. Vanaf 31 maart 2021 zijn er wijzigingen aangebracht in de Validate Address-API. We nodigen partners uit om de API vóór de go-live eind juni 2021 te testen. 
+Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor validatie van klantadressen voor het transacteren van klantabonnementen in het CSP-programma. Vanaf 31 maart 2021 zijn er wijzigingen aangebracht in de API Adres valideren. We nodigen partners uit om de API vóór de go-live eind juni 2021 te testen. 
 
-Houd er rekening mee dat deze wijzigingen alleen van invloed zijn op de Adres-API valideren. Api's voor klant- en updateprofiel maken worden niet beïnvloed. Hoewel het voorgestelde adres momenteel niet hoeft te worden gebruikt met de API Klant maken, wordt dit ten zeerste aanbevolen.
+Houd er rekening mee dat deze wijzigingen alleen van invloed zijn op de Adres-API valideren. Api's voor klant- en updateprofiel maken worden niet beïnvloed. Hoewel het voorgestelde adres momenteel niet hoeft te worden gebruikt met de API klant maken, wordt dit ten zeerste aanbevolen.
 
 Het antwoord retournt een van de volgende statusberichten:
 
@@ -62,7 +62,7 @@ Amerikaanse postcodes retourneren nog eens vier cijfers + koppeltekens, bijvoorb
 
 - Bekijk de technische documentatie en veelgestelde vragen in de [verzameling toegewezen partners](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
 - Bereid u voor op het opnemen van de wijzigingen met Partner Center API en webgebruikerservaring. 
-- Deel uw tenant-id voor de sandbox met de expert op het gebied van onderwerp (Ali Kunnenki) die moet worden opgenomen in de test flight, zodat u kunt beginnen met het voorbereiden van de update. 
+- Deel de tenant-id van uw sandbox met de expert op het gebied van onderwerp (Ali Kunnenki) die moet worden opgenomen in de test flight, zodat u kunt beginnen met het voorbereiden van de update. 
 - Als u een CPV-oplossing (Panel Vendor) gebruikt, raadpleegt u uw CPV.
 
 ### <a name="questions"></a>Vragen?
@@ -91,7 +91,7 @@ Vanaf 26 april 2021 bevindt de Partner Center API Swagger-documentatie, inclusie
 
 ### <a name="benefits"></a>Voordelen
 
-De Partner Center API Swagger-documentatie biedt de **functie Uitproberen.** Als u deze functie wilt gebruiken, moet u een Bearer-token hebben, dat u kunt genereren door de stappen te volgen die worden vermeld in [Partner Center Verificatie.](/partner-center/develop/partner-center-authentication#app--user-authentication)
+De Partner Center API Swagger-documentatie biedt een **Functie** uitproberen. Als u deze functie wilt gebruiken, moet u een Bearer-token hebben dat u kunt genereren door de stappen te volgen die worden vermeld in [Partner Center Verificatie.](/partner-center/develop/partner-center-authentication#app--user-authentication)
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -99,7 +99,7 @@ Deel deze informatie binnen uw organisatie, zodat het juiste team de processen k
 
 ### <a name="questions"></a>Vragen?
 
-Voor vragen over deze aanbiedingen raadpleegt u uw relevante Yammer community's.
+Als u vragen hebt over deze aanbiedingen, controleert u uw relevante Yammer community's.
 
 ________________
 ## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Cloud Solution Provider (CSP)-beleid voor de retourperiode van software en de vervaldatum van de downloadkoppeling
@@ -123,9 +123,9 @@ Houd rekening met de volgende belangrijke meldingen met betrekking tot continue 
 
 #### <a name="software-return-period-policy"></a>Beleid voor retourperiode van software
 
-Vanaf 1 juni 2021 verandert de retourperiode voor softwareaanbiedingen in CSP, zoals vermeld in de Microsoft Partner-overeenkomst (MPA), van 60 dagen vanaf de orderdatum in 30 dagen na de orderdatum.
+Vanaf 1 juni 2021 verandert de retourperiode voor softwareaanbiedingen in CSP, zoals vermeld in de Microsoft Partner-overeenkomst (MPA), van 60 dagen vanaf de orderdatum in 30 dagen vanaf de orderdatum.
 
-Nadat een order voor een softwareaanbieding is verzonden, hebben partners 30 dagen vanaf de orderdatum de tijd om wijzigingen in een dergelijke volgorde in te dienen:
+Nadat een order voor een softwareaanbieding is verzonden, hebben partners 30 dagen na de orderdatum de tijd om wijzigingen in een dergelijke volgorde in te dienen:
 
 - Elke doorlopende softwarelicentie die binnen de retourperiode van 30 dagen wordt geretourneerd, ontvangt een volledig tegoed van de betaalde aankoopprijs.
 
@@ -143,10 +143,10 @@ Bekijk de [CSP-retourperiode en veelgestelde](https://partner.microsoft.com/reso
 
 ### <a name="questions"></a>Vragen?
 
-Voor vragen over deze aanbiedingen raadpleegt u uw relevante Yammer community's.
+Als u vragen hebt over deze aanbiedingen, controleert u uw relevante Yammer community's.
 
 ________________
-## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Licentieprogramma openen: resellers overstappen naar het Cloud Solution Provider (CSP)-programma
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Licentieprogramma openen: Resellers overstappen naar het Cloud Solution Provider (CSP)-programma
 
 ### <a name="categories"></a>Categorieën
 
@@ -163,7 +163,7 @@ CSP- en Open License-partners
 
 ### <a name="details"></a>Details
 
-In 2020 heeft [Microsoft](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) aangekondigd dat doorlopende softwarelicenties breed beschikbaar zullen zijn voor partners en klanten via het Cloud Solution Provider -programma (CSP). De eerste mijlpaal is bereikt in januari 2021, toen commerciële, doorlopende softwareaanbiedingen beschikbaar werden. De volgende belangrijke mijlpaal vindt plaats in juli 2021, wanneer aanbiedingen voor de openbare [sector](https://aka.ms/openlicensepublicsector) beschikbaar komen. We [hebben](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) ook gecommuniceerd dat met ingang van 1 januari 2022 geen nieuwe softwarelicentieaankopen of verlengingen van Software Assurance of onlineservices kunnen worden gedaan via het Open License-programma.
+In 2020 heeft [Microsoft](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) aangekondigd dat doorlopende softwarelicenties breed beschikbaar zullen zijn voor partners en klanten via het Cloud Solution Provider(CSP)-programma. De eerste mijlpaal is bereikt in januari 2021, toen commerciële, doorlopende softwareaanbiedingen beschikbaar werden. De volgende belangrijke mijlpaal vindt plaats in juli 2021, wanneer aanbiedingen voor de openbare [sector](https://aka.ms/openlicensepublicsector) beschikbaar komen. We [hebben](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) ook gecommuniceerd dat vanaf 1 januari 2022 geen nieuwe softwarelicentieaankopen of verlengingen van Software Assurance of onlineservices kunnen worden gedaan via het Open License-programma.
 
 De overgang van permanente software naar het CSP-programma in de nieuwe commerce-ervaring helpt partners bij het uitbreiden van de mogelijkheden om diverse oplossingen en beheerde services te bieden. Dit versnelt ook de overgang van klanten naar de cloud.  Om een soepele overgang voor zowel onze partners als klanten te garanderen, hebben we deze aanpassingen en materialen aangebracht om deze digitale transformatie te versnellen:
 
@@ -185,17 +185,17 @@ De overgang van permanente software naar het CSP-programma in de nieuwe commerce
 
 ##### <a name="open-license"></a>Licentie openen
 
-- 1 juli: Microsoft start geen nieuwe aanbiedingen meer in het open license-programma.
+- 1 juli: Microsoft start geen nieuwe aanbiedingen meer in het programma Open License.
 
 #### <a name="january-2022"></a>Januari 2022
 
-- 1 januari: Er kunnen geen nieuwe aankopen of verlengingen worden gedaan via het open license-programma
+- 1 januari: er kunnen geen nieuwe aankopen of verlengingen worden gedaan via het Open License-programma
 
 ### <a name="next-steps"></a>Volgende stappen
 
 #### <a name="csp-indirect-providers"></a>Indirecte CSP-providers
 
-Gebruik de komende maanden om resellers met open licenties te helpen zich te organiseren in het CSP-programma door evenementen van de partner-community te bezoeken en het overgangsmateriaal Open License-to-CSP voor resellers te gebruiken:
+Gebruik de komende maanden om resellers met open licenties te helpen zich te oriënteren in het CSP-programma door evenementen van de partner-community te bezoeken en het overgangsmateriaal Open License-to-CSP voor resellers te gebruiken:
 
 - [Open licentie-naar-CSP-overgangsmateriaal voor resellers:](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/)aanpasbare overzichtspresentatie, e-mailsjabloon, onboardinghandleiding voor indirecte CSP-resellers en meer om u te helpen de acceptatie voor uw wederverkopers op schaal te stimuleren.
 
@@ -207,11 +207,11 @@ Gebruik de komende maanden om resellers met open licenties te helpen zich te org
 
 - Als uw organisatie momenteel niet is ingeschreven bij het CSP-programma, neem dan contact op met uw distributeur voor informatie over hoe u aan de slag kunt gaan. Verbinding maken hier met een indirecte [provider](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
 
-- Als uw organisatie al is ingeschreven bij het CSP-programma, kunt u hier meer informatie vinden over continue software in [CSP.](https://partner.microsoft.com/resources/collection/software-in-csp)
+- Als uw organisatie al is ingeschreven bij het CSP-programma, kunt u hier meer informatie vinden over permanente software in [CSP.](https://partner.microsoft.com/resources/collection/software-in-csp)
 
 ### <a name="questions"></a>Vragen?
 
-Voor meer vragen over deze aanbiedingen raadpleegt u uw relevante Yammer community's.
+Voor meer vragen over deze aanbiedingen, controleert u uw relevante Yammer community's.
 
 ________________
 ## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Nu live: Algemene handleiding voor gereedheid voor promotie
@@ -223,7 +223,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Gereedheid starten heeft een nieuwe algemene handleiding voor [gereedheid voor promotie gepubliceerd](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) in de operations readiness-resourcegalerie. Deze handleiding biedt een geconsolideerde weergave van alle actieve [wereldwijde promoties.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+Gereedheid starten heeft een nieuwe algemene [handleiding voor gereedheid voor promotie gepubliceerd](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) in de operations readiness-resourcegalerie. Deze handleiding biedt een geconsolideerde weergave van alle actieve [wereldwijde promoties.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -233,7 +233,7 @@ Alle volumelicenties (VL), Dynamics Price List (DPL) en Cloud Solution Provider 
 
 Microsoft-partners hebben met ons gedeeld dat we een geconsolideerde weergave moeten bieden van alle wereldwijde promoties met ondersteunende details. U wilde deze geconsolideerde handleiding om u te helpen bij het gebruik van promoties, met het vertrouwen dat alle beschikbare informatie gemakkelijk toegankelijk is op een centrale en handige locatie.
 
-Vanaf april 2021 werkt Microsoft deze handleiding maandelijks bij en is deze beschikbaar in een speciale global promo readiness Guide-verzameling in de resourcegalerie Operations Readiness.
+Vanaf april 2021 werkt Microsoft deze handleiding maandelijks bij en is deze beschikbaar in een speciale verzameling van de Global Promo Readiness Guide in de resourcegalerie Operations Readiness.
 
 Koppelingen naar deze handleiding worden ook opgenomen in de volgende verzamelingen:
 
@@ -243,13 +243,13 @@ Koppelingen naar deze handleiding worden ook opgenomen in de volgende verzamelin
 
 - [Partnernieuwsbrieven,](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)zoals maandelijkse CSP-updates
 
-Als maandelijkse herinnering publiceren we ook een Partner Center bij elk nieuw probleem van de handleiding voor gereedheid voor wereldwijde promotie.
+Als maandelijkse herinnering publiceren we ook een Partner Center aankondiging met elk nieuw probleem van de handleiding voor gereedheid voor wereldwijde promotie.
 
 ### <a name="next-steps"></a>Volgende stappen
 
 Aan het begin van elke maand vindt u de meest recente algemene handleiding voor [gereedheid](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) voor promo's in de resourcegalerie Operations [Readiness.](https://partner.microsoft.com/resources)
 
-Deel deze informatie met de juiste contactpersonen in uw organisaties en laat ons weten hoe nuttig de handleiding is via de pagina 'Was deze pagina nuttig?' aan het einde van elke pagina.
+Deel deze informatie met de juiste contactpersonen in uw organisatie en laat ons weten hoe nuttig de handleiding is via de pagina 'Was deze pagina nuttig?' aan het einde van elke pagina.
 
 ________________
 ## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Update en Cloud Solution Provider van de CSP -community van april
@@ -291,7 +291,7 @@ In de [CSP-communityverzameling](https://partner.microsoft.com/resources/collect
 
 #### <a name="csp-community-call-qas"></a>CSP Community Call Q&As
 
-Community Call Q&As zijn beschikbaar om u te helpen met vragen met betrekking tot toekomstige wijzigingen. Registreer u nu voor CSP Community Call Q&As die plaatsvindt in april, mei en juni. Deze zijn gericht op de meest recente lanceringen, belangrijke vernieuwingen en herinneringen.
+Community Call Q&As zijn beschikbaar om u te helpen met vragen met betrekking tot toekomstige wijzigingen. Registreer u nu voor CSP Community Call Q&As die plaatsvinden in april, mei en juni. Deze zijn gericht op de meest recente lanceringen, belangrijke vernieuwingen en herinneringen.
 
 [Registreer u hier.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
@@ -322,15 +322,15 @@ Partners die academici, non-profitorganisaties en Government Community Cloud (GC
 
 ### <a name="details"></a>Details
 
-Deze aankondiging is een vervolg op de Partner Center [verbeteringen die in december zijn uitgebracht.](./2020-december.md#1) Als onderdeel van deze release zijn nieuwe API's voor GET- en POST-kwalificaties geïmplementeerd. Als gevolg hiervan wordt de bestaande GET-kwalificatie op 6 mei **2021** ingetrokken. Op dat moment moet u zijn overstappen op het gebruik van de nieuwe POST Partner Center API's. Met de nieuwe POST-API's kunt u Education-aanbiedingen aanschaffen, terwijl u met de nieuwe GET-API's vooraf gekwalificeerde Non-profit- en GCC kunt kopen.
+Deze aankondiging is een vervolg op de Partner Center [verbeteringen die in december zijn uitgebracht.](./2020-december.md#1) Als onderdeel van deze release zijn nieuwe API's voor GET- en POST-kwalificaties geïmplementeerd. Als gevolg hiervan wordt de bestaande GET-kwalificatie op 6 mei **2021** ingetrokken. Op dat moment moet u zijn overstappen op het gebruik van de nieuwe POST Partner Center API's. Met de nieuwe POST-API's kunt u Education-aanbiedingen aanschaffen, terwijl u met de nieuwe GET-API's vooraf gekwalificeerde Non-profitorganisaties en GCC aanschaffen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
 - **Werk bij naar de nieuwe API's** voor een geslaagde en tijdige overgang.
 
-- **Bekijk de nieuwe api Partner Center wijzigingen** en handleiding in de Operations Readiness-resources: verbeteringen van [Partner Center Education-klantvalidatieproces.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Bekijk de nieuwe api Partner Center wijzigingen en** handleiding in de Operations Readiness-resources: verbeteringen Partner Center [education-klantvalidatieproces.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-- Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers om hen te helpen bij de voorbereiding op deze wijzigingen.
+- Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers om hen te helpen zich voor te bereiden op deze wijzigingen.
 
 ### <a name="questions"></a>Vragen?
 
@@ -390,7 +390,7 @@ De volgende elementen worden niet beïnvloed:
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Lees de informatie over dit onderwerp in de [resourcegalerie Operations Readiness](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) op de website van de Microsoft-partner. Ga voor meer informatie over facturerings- en belastingonderwerpen, waaronder factureringsresources, facturen, CSP-facturering en belastingen, naar de sectie Facturering [in](../billing.md) Partner Center.
+Lees de informatie over dit onderwerp in de [resourcegalerie Operations Readiness](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) op de website van de Microsoft-partner. Voor meer informatie over facturerings- en belastingonderwerpen, waaronder factureringsresources, facturen, CSP-facturering en belastingen, gaat u naar de sectie Facturering [in](../billing.md) Partner Center.
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Wijzigingen in de onboardingvereisten Cloud Solution Provider de klant (CSP)
@@ -402,7 +402,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Als onderdeel van onze toezegging om partners en klanten te helpen hun bedrijf te runnen op basis van een vertrouwensrelatie, vragen we aanvullende klantgegevens aan, met ingang van 25 maart 2021.
+Als onderdeel van onze inzet om partners en klanten te helpen hun bedrijf te runnen op basis van vertrouwen, vragen we aanvullende klantgegevens aan, met ingang van 25 maart 2021.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -410,7 +410,7 @@ CSP-partners voor directe factuur en indirecte providers die nieuwe of bestaande
 
 ### <a name="details"></a>Details
 
-Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het transacteren van klantabonnementen in het CSP-programma. Op 25 maart 2021 introduceren we verbeteringen van Partner Center API en gebruikersinterface (UI) die van invloed zijn op partners die aan beide van de volgende criteria voldoen:
+Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het transacteren van klantabonnementen in het CSP-programma. Op 25 maart 2021 introduceren we verbeteringen in Partner Center API en gebruikersinterface (UI) die van invloed zijn op partners die aan beide van de volgende criteria voldoen:
 
 - De partner heeft een directe factureringsrelatie met Microsoft (wat betekent dat de partner een directe factureringspartner of een indirecte provider is).
 
@@ -430,9 +430,9 @@ Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele,
     - Verenigde Arabische Emiraten
     - Venezuela
 
-Partners die aan de criteria voldoen, moeten de bedrijfsregistratie-id (ook wel de INN van de organisatie van de klant genoemd) en het telefoonnummer van een klant indienen wanneer ze de volgende keer een abonnement voor die klant bijwerken of maken. Deze partners kunnen ook een optionele middelste naam voor de klant invoeren.
+Partners die aan de criteria voldoen, moeten de bedrijfsregistratie-id (ook wel inN van de organisatie van de klant genoemd) en het telefoonnummer van een klant indienen wanneer ze de volgende keer een abonnement voor die klant bijwerken of maken. Deze partners kunnen ook een optionele middelste naam voor de klant invoeren.
 
-Houd er rekening mee dat wanneer u uw bedrijfsregistratie-id toevoegt, u uw zakelijke btw-id moet gebruiken en niet de persoonlijke id van de klant.
+Houd er rekening mee dat wanneer u uw bedrijfsregistratie-id toevoegt, u uw bedrijfsbelasting-id moet gebruiken en niet de persoonlijke id van de klant.
 
 Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben in november 2020 al een eerdere release gehad.
 
@@ -453,9 +453,22 @@ Partners met klanten in de rest van de wereld kunnen eind maart 2021 de bedrijfs
 ### <a name="next-steps"></a>Volgende stappen
 
 - Bekijk de technische documentatie en veelgestelde vragen in de speciale [partnerverzameling](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
-- Bereid u voor op het opnemen van de wijzigingen met behulp Partner Center API en webgebruikerservaring. API/SDK's zijn beschikbaar om te testen.
+- Bereid u voor op het opnemen van de wijzigingen met Partner Center API en webgebruikerservaring. API/SDK's zijn beschikbaar om te testen.
 - Zorg ervoor dat u de aanvullende gegevens indient bij het onboarden van nieuwe klanten of het wijzigen van bestaande klantgegevens.
 - Als u een CPV-oplossing (Panel Vendor) gebruikt, raadpleegt u uw CPV.
+
+>[!NOTE]
+>Als een CSP-transactie niet kan worden verwerkt, kan dit betekenen dat de tenant niet wordt gevalideerd. Als dit gebeurt, moet de klant een proefaanbieding aanschaffen via de Microsoft-beheerportal.
+>
+>#### <a name="purchase-a-trial-offer"></a>Een proefversie aanschaffen
+>
+>1. Open de [portal van het Microsoft-beheercentrum.](https://admin.microsoft.com/)
+>
+>2. Selecteer in het navigatiemenu aan de **linkerkant Facturering** en vervolgens **Services aanschaffen.**
+>
+>3. Selecteer het plan en selecteer vervolgens **Uitchecken.**
+>
+>De tenant wordt nu gevalideerd en CSP-transacties toegestaan.
 
 ### <a name="questions"></a>Vragen?
 
@@ -472,7 +485,7 @@ Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u [een s
  
 ### <a name="summary"></a>Samenvatting
 
-De kalender voor productlancering van april 2021 is nu gepubliceerd.
+De productlanceringsdatum van april 2021 is nu gepubliceerd.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -488,4 +501,4 @@ Bekijk de [kalender voor productlancering](https://partner.microsoft.com/resourc
 
 ### <a name="questions"></a>Vragen?
 
-Raadpleeg uw relevante community's voor meer vragen over Yammer aanbiedingen.
+Als u meer vragen hebt over deze aanbiedingen, controleert u uw relevante Yammer community's.
