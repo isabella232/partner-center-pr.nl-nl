@@ -106,7 +106,7 @@
           displayName: 'mpn, Advanced specializations'
     - name: Een Azure Expert MSP worden
       href: azure-expert-msp.md
-- name: Cloud Solution Provider program (CSP)
+- name: Cloud Solution Provider (CSP)
   href: csp-overview.md
   displayName: csp
   items:
@@ -121,12 +121,12 @@
     - name: Directe CSP-factureringspartner overschakelen naar indirecte reseller
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partners kunnen niet langer worden ingeschreven als adviseurs
+    - name: Partners kunnen zich niet langer inschrijven als advisor
       href: advisors-no-csp.md
 - name: CSP-overeenkomsten
   href: microsoft-partner-agreement.md
   items:
-    - name: Hoe indirecte providers hun resellers kunnen helpen de MPA te gebruiken
+    - name: Hoe indirecte providers hun resellers kunnen helpen de MPA over te nemen
       href: mpa-indirect-provider-faq.yml
       displayName: 'csp, mpa, indirect, provider'
     - name: 'CSP-overeenkomsten, prijslijsten, aanbiedingen'
@@ -134,7 +134,7 @@
       displayName: csp
     - name: 'Microsoft-klantovereenkomsten (op regio, taal)'
       href: agreements.md
-    - name: De klantacceptatie van de Microsoft-klantovereenkomst
+    - name: Bevestigen dat de klant de Microsoft-klantovereenkomst
       href: confirm-customer-agreement.md
     - name: 'Regionale markten voor CSP, valuta'
       href: regional-authorization-overview.md
@@ -191,9 +191,9 @@
         - name: Uw partnerprofiel bijwerken
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Partner Finder-lijstcertificering
+        - name: Partner Finder-lijst met certificeringen
           href: partner-finder-certification.md
-        - name: Registratie-id-nummergegevens
+        - name: Informatie over registratie-id-nummer
           href: reg-number-id.md
         - name: Control Panel Vendor worden
           href: enroll-as-cpv.md
@@ -413,6 +413,8 @@
     - name: Facturering voor Marketplace-aanbiedingen
       href: csp-commercial-marketplace-billing.md
       displayName: 'invoice, csp'
+    - name: Request an SLA credit from Microsoft (Een SLA-tegoed aanvragen van Microsoft)
+      href: request-credit.md
     - name: Digitale handtekeningen weergeven - Partnercentrum India
       href: digital-signature.md
       displayName: invoice
@@ -438,8 +440,6 @@
         - name: Stel uw betalingsaccount en belastingformulieren
           href: set-up-your-payout-account.md
           displayName: 'region, regio'
-        - name: Request an SLA credit from Microsoft (Een SLA-tegoed aanvragen van Microsoft)
-          href: request-credit.md
         - name: Hoe belastingbeleid van invloed is op uitbetaling
           href: tax-policies-affect-payout.md
     - name: Een Azure-uitgavenbudget voor uw klanten instellen
@@ -714,7 +714,7 @@
               href: insights-programmatic-system-queries.md
             - name: Voorbeeldquery's
               href: insights-programmatic-sample-queries.md
-            - name: Aangepaste queryspecificatie
+            - name: Specificatie van aangepaste query's
               href: insights-programmatic-custom-query.md
             - name: Voorbeeldtoepassing
               href: insights-programmatic-sample-application.md
