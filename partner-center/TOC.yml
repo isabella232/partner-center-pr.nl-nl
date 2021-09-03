@@ -580,6 +580,16 @@
           displayName: csp
         - name: De Azure-abonnementsabonnementen van een klant overdragen aan een andere partner
           href: transfer-azure-subscriptions-under-azure-plan.md
+    - name: Nieuwe commerce-ervaringen voor op licenties gebaseerde services
+      href: new-commerce-license-based.md
+      displayName: new commerce
+      items:
+        - name: Nieuwe commerce telco payg
+          href: new-commerce-telco-payg.md
+        - name: Nieuwe commerciële promoties
+          href: new-commerce-promotions.md
+        - name: Nieuwe commerce-invoegtoepassingen
+          href: new-commerce-add-ons.md
     - name: Software-abonnementen
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'

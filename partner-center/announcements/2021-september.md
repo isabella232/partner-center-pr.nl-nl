@@ -10,17 +10,47 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/01/2021
-ms.openlocfilehash: 74e4d5ee79afe5fea243b6f3438f1c38a6787590
-ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
+ms.date: 09/02/2021
+ms.openlocfilehash: 876f6cbd87e912b4cfaf2aef152bb7b71d0600e6
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "123404319"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457970"
 ---
 # <a name="september-2021-announcements"></a>Aankondigingen van september 2021
 
 Deze pagina bevat de aankondigingen voor Microsoft Partner Center voor september 2021.
+________________
+## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Correcties van de prijslijst voor op licenties gebaseerde services van september en de preview van oktober voor Microsoft 365 Business Basic (USD)
+
+### <a name="summary"></a>Samenvatting
+
+De prijslijst van september en de preview van oktober hadden een onjuiste lijstprijs voor Microsoft 365 Business Basic in USD.
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-09-02
+- Aanbiedingen/markten
+
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
+
+Indirecte providers en directe factuurpartners die op licenties gebaseerde services in het Cloud Solution Provider af.
+
+### <a name="details"></a>Details
+
+De prijslijst van september en de preview-versie van oktober voor op licenties gebaseerde services die zijn gepost op 1 september 2021 hadden een onjuiste lijstprijs voor Microsoft 365 Business Basic. Gecorrigeerde prijslijsten zijn gepubliceerd op 2 september 2021. Dit heeft alleen gevolgen voor USD.
+
+De beïnvloede aanbieding omvat:
+
+- Naam van aanbieding: Microsoft 365 Business Basic
+- Aanbiedings-id: bd938f12-058f-4927-bba3-ae36b1d2501c
+- Vóór: Catalogusprijs = 2
+- Na: Catalogusprijs = 4
+
+### <a name="next-steps"></a>Volgende stappen
+
+Partners die services op basis van licenties in USD gebruiken, moeten de meest recente prijslijst downloaden om de gecorrigeerde prijs te zien.
 
 ________________
 ## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>Aankondiging van Intune per apparaat voor Enterprise voor CSP-partners
@@ -127,13 +157,13 @@ Als u deel wilt nemen aan en/of eerdere opnamen van CSP Fundamentals-aanroepen w
 
 Op 1 september 2021 heeft Microsoft partners op de hoogte gesteld van de volgende stappen in de ontwikkeling van het incentive-programma van de partner dat in oktober beschikbaar moet zijn. De twee belangrijkste onderdelen van deze communicatie zijn de FY22-incentiveshandleidingen en informatie over de verbeterde incentives-ervaring die wordt ontwikkeld binnen Partner Center.
 
-- **Verbeterde partnerervaring**  Begin oktober investeert Microsoft in één betrokkenheids- en activiteitenplatform binnen Partner Center dat een gecentraliseerd doel is voor partners om incentives te verdienen tijdens de aankoop van beweging en fasen van de levenscyclus van de klant.
+- **Verbeterde partnerervaring**  Begin oktober investeert Microsoft in één betrokkenheids- en activiteitsplatform binnen Partner Center dat een gecentraliseerd doel is voor partners om incentives te verdienen bij het kopen van beweging en fasen van de levenscyclus van klanten.
 
 - **Nieuwe benadering van incentives**  Er worden nog steeds nieuwe incentive- en investeringsaanbiedingen toegevoegd aan het Microsoft Commerce Incentives programma. In overeenstemming met de inspanningen om de partnerervaring te vereenvoudigen, consolideert Microsoft de incentive-programmahandleidingen in één document dat wordt gehost binnen Partner Center.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-#### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Introductie van aanbiedingen op basis van een seat voor geïntegreerde sandboxtests
+#### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Introductie van op seat gebaseerde aanbiedingen voor geïntegreerde sandboxtests
 
 - Er is geen actie vereist als uw organisatie een geïntegreerde sandbox-omgeving heeft ingericht. Als uw organisatie geen geïntegreerde sandbox-omgeving heeft, volgt u deze [stappen om](/partner-center/develop/indirect-provider-sandbox-capabilities) er een te maken.
 - Lees de [CSP-handleiding](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf) voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 in de nieuwe commerce-ervaring voor meer informatie over de functies, bedrijfsregels en stapsgewijs instructies voor de release. Controleer regelmatig de bedieningshandleiding, omdat deze regelmatig wordt bijgewerkt.
@@ -144,24 +174,24 @@ Op 1 september 2021 heeft Microsoft partners op de hoogte gesteld van de volgend
 #### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Herinnering voor aanstaande CSP Q&A-aanroepen in september
 
 - Registreer u voor de [komende CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) op 15 of 16 september.
-- Bekijk de nieuwe commerce-ervaring voor op CSP-seat gebaseerde [aanbiedingenverzameling](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) voor deze lancering.
-- Neem deel aan de CSP Q&A Community Call en stel vragen die uw organisatie heeft met betrekking tot de nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based voor breedte beweging.
+- Bekijk de nieuwe commerce-ervaring voor de verzameling aanbiedingen op basis van CSP-seat [voor](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) deze lancering.
+- Neem deel aan de CSP Q&A Community Call en stel vragen die uw organisatie heeft met betrekking tot de nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based for breadth motion.
 
 #### <a name="microsoft-commerce-incentive-program"></a>Microsoft Commerce Incentive-programma
 
 - Bekijk de communicatie in de toekomstige verbeterde partnerervaring in de [Microsoft Commerce Incentives resourceverzameling](https://partner.microsoft.com/asset/collection/microsoft-commerce-incentive-resources#/).
-- Bekijk de bijgewerkte incentive-handleidingen voor FY22-partners in de [Portal voor Partner Incentives.](https://microsoft.sharepoint.com/teams/PartnerIncentivesPortal)
+- Bekijk de bijgewerkte fy22 partner incentive-handleidingen op de [Partner Incentives-portal.](https://microsoft.sharepoint.com/teams/PartnerIncentivesPortal)
 
 ### <a name="questions"></a>Vragen?
 
-Raadpleeg uw relevante community's voor meer vragen over Yammer aanbiedingen.
+Voor meer vragen over deze aanbiedingen controleert u uw relevante Yammer community's.
 
 ________________
 ## <a name="view-this-months-product-launches-and-offers"></a><a name="2"></a>Productlanceringen en aanbiedingen van deze maand weergeven
 
 ### <a name="summary"></a>Samenvatting
 
-De kalender voor productlancering van september 2021 is nu gepubliceerd.
+De productlanceringsdatum van september 2021 is nu gepubliceerd.
 
 ### <a name="categories"></a>Categorieën
 
@@ -170,11 +200,11 @@ De kalender voor productlancering van september 2021 is nu gepubliceerd.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die het programma Cloud Solution Provider (CSP)
+Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
 
 ### <a name="details"></a>Details
 
-De kalender voor productlancering [van](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) september 2021 is nu beschikbaar in de resourcegalerie Operations-gereedheid. Bekijk hier de komende productlanceringen en aanbiedingen.
+De kalender voor productlancering van september 2021 [](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) is nu beschikbaar in de resourcegalerie Voor Operations-gereedheid. Bekijk hier de komende productlanceringen en aanbiedingen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -182,14 +212,14 @@ Bekijk de [kalender voor productlancering](https://partner.microsoft.com/resourc
 
 ### <a name="questions"></a>Vragen?
 
-Raadpleeg uw relevante community's voor meer vragen over Yammer aanbiedingen.
+Voor meer vragen over deze aanbiedingen controleert u uw relevante Yammer community's.
 
 ________________
-## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Software in Microsoft China Cloud Solution Provider programma (MCCL CSP) om transacties te starten vanaf 12 augustus
+## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Software in Microsoft China Cloud Solution Provider program (MCCL CSP) om transacties te starten vanaf 12 augustus
 
 ### <a name="summary"></a>Samenvatting
 
-Als vervolg op onze update van 3 augustus, worden transacties in MCCL CSP vanaf 12 augustus 2021 door software in MCCL CSP start.
+Als vervolg op onze update van 3 augustus worden transacties in MCCL CSP vanaf 12 augustus 2021 door software in MCCL CSP start.
 
 ### <a name="categories"></a>Categorieën
 
@@ -202,9 +232,9 @@ McCL CSP-programmapartners
 
 ### <a name="details"></a>Details
 
-#### <a name="mccl-csp-transaction-start"></a>MCCL CSP-transactie starten
+#### <a name="mccl-csp-transaction-start"></a>McCL CSP-transactie starten
 
-- Op 12 augustus 2021 start MCCL CSP transacties voor China-klanten.
+- Op 12 augustus 2021 start MCCL CSP transacties voor Klanten van China.
 
 - Klanten kunnen tot en met 31 december 2021 softwarelicenties blijven kopen met behulp van een partner in het Open License-programma. Permanente licenties zijn beschikbaar in zowel MCCL CSP als de Open License-programma's tot de afschaffing van het Open License-programma.
 
@@ -214,9 +244,9 @@ McCL CSP-programmapartners
 
 - Klanten kunnen nog steeds volledige rechten en toegang hebben tot alle doorlopende softwarelicenties die zijn verkregen via het Open License-programma, zelfs na de afschaffing. Ze hebben ook nog steeds toegang tot het Volume Licensing Service Center om deze licenties en services te beheren.
 
-#### <a name="software-assurance-sa-purchases"></a>Software Assurance (SA)-aankopen
+#### <a name="software-assurance-sa-purchases"></a>Software Assurance (SA) aankopen
 
-- De SA-aanbiedingen met Open License (L&SA) blijven beschikbaar in OvS (Open Value) en OvS (Open Value Subscription). Sa en L-&SA zijn echter niet beschikbaar in het MCCL CSP-programma, omdat er geen plan is om dit aan te bieden in MCCL CSP.
+- De SA-aanbiedingen met Open License (L&SA) blijven beschikbaar in Open Value (OV) en Open Value Subscription (OVS). Sa en L-&SA zijn echter niet beschikbaar in het MCCL CSP-programma, omdat er geen plan is om dit aan te bieden in MCCL CSP.
 
 - SA-voordelen blijven bestaan totdat de SA-termijn verloopt, zelfs als de vervaldatum na 1 januari 2022 is.
 
@@ -229,7 +259,7 @@ McCL CSP-programmapartners
 
 - Bestaande Microsoft Open-distributeurs hebben onboarding als indirecte MCCL CSP-providers.
 
-- Indirecte providers en geselecteerde indirecte resellers worden uitgenodigd om in augustus testomgevingen uit te voeren om de transactiefunctie te garanderen.
+- Indirecte providers en geselecteerde indirecte resellers worden in augustus uitgenodigd voor het testen van de productieomgeving om de transactiefunctie te controleren.
 
 - Gereedheidsworkshops voor indirecte partners zijn in juli van start gaan en worden voortgezet tot december 2021.
 

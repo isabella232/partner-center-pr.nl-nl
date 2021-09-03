@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac60847d3376724de031f5a1f50321d4273aff499a7b923b7e3bd39a0a700750
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 14901b47b7363b2d87861be43a7071d9f23545cc
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681906"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457919"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Commerciële marketplace-producten en -aanbiedingen voor uw klanten beheren
 
@@ -25,7 +25,7 @@ Partners in het Cloud Solution Provider-programma (CSP) kunnen de Partner Center
 
 ## <a name="view-or-edit-a-subscription"></a>Een abonnement weergeven of bewerken
 
-Nadat u een abonnement van een externe ISV-uitgever hebt aangeschaft, kunt u dit als volgt controleren of bewerken:
+Nadat u een abonnement hebt aangeschaft bij een externe ISV-uitgever, kunt u dit als volgt controleren of bewerken:
 
 1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard)en selecteer vervolgens **Klanten** in het navigatiemenu links.
 
@@ -33,7 +33,7 @@ Nadat u een abonnement van een externe ISV-uitgever hebt aangeschaft, kunt u dit
 
 3. Selecteer in **de** kolom Abonnement het abonnement dat u wilt weergeven of bewerken. Dit biedt u meer informatie over het instellen of inrichten van de aanbieding. (Als er meer actie nodig is voor de aanbieding, wordt mogelijk ook de status Actie nodig weergegeven in de kolom Status. Dit kan ook vergezeld gaan van een koppeling naar de site van de ISV-uitgever.)
 
-4. Zodra u het abonnement hebt geselecteerd dat u wilt bekijken of bewerken, kunt u op de detailpagina van het abonnement het abonnement bewerken en bijvoorbeeld het volgende doen:
+4. Zodra u het abonnement hebt geselecteerd dat u wilt weergeven of bewerken, kunt u op de detailpagina van het abonnement het abonnement bewerken en bijvoorbeeld het volgende doen:
 
     - De bijnaam van het abonnement wijzigen
 
@@ -50,7 +50,7 @@ Nadat u een abonnement van een externe ISV-uitgever hebt aangeschaft, kunt u dit
 
 ## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>Licenties toewijzen en een abonnement activeren namens een klant
 
-Wanneer u een SaaS-aanbieding (Software as a Service) aanschaft die wordt geleverd door een ISV-uitgever (Independent Software Vendor) in de commerciële marketplace, helpt de ISV-uitgever bij het beheren van het proces van het toewijzen van licenties en het activeren van het abonnement namens uw klant.
+Wanneer u een SaaS-aanbieding (Software as a Service) koopt die wordt geleverd door een ISV-uitgever (Independent Software Vendor) in de commerciële marketplace, helpt de ISV-uitgever bij het beheren van het proces van het toewijzen van licenties en het activeren van het abonnement namens uw klant.
 
 De uitgever moet u een gepersonaliseerde koppeling en een autorisatiecode verstrekken die uw specifieke aankoop identificeert.
 
@@ -77,17 +77,13 @@ De uitgever moet u een gepersonaliseerde koppeling en een autorisatiecode verstr
 
     - De ISV-uitgever heeft de juiste licenties toegewezen
 
-    - De ISV-uitgever heeft bij Microsoft (via een afzonderlijke SaaS-fulfillment-API) bevestigd dat de installatie van het account is voltooid
+    - De ISV-uitgever heeft aan Microsoft (via een afzonderlijke SaaS-fulfillment-API) bevestigd dat de accountinstallatie is voltooid
 
 ## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Een SaaS-abonnement op basis van licenties van een ISV-uitgever annuleren
 
 Wanneer u zich abonneert op een SaaS-product op basis van licenties dat wordt aangeboden door een ISV-uitgever binnen de commerciële marketplace, hebt u de mogelijkheid om het abonnement te annuleren binnen de aangewezen annuleringsperiode. Deze annuleringsperiode verandert, afhankelijk van of u een maandelijks of jaarlijks abonnement hebt. U kunt ook kiezen of u het abonnement automatisch wilt verlengen.
 
-Zie voor meer informatie over annuleringsperioden die van toepassing zijn, het annuleren of automatisch verlengen van een abonnement:
-
-- [Een abonnement annuleren](create-a-new-subscription.md#cancel-a-subscription)
-
-- [Een abonnement op de commerciële marketplace automatisch verlengen](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+Zie Een abonnement annuleren voor meer informatie over annuleringsperioden die van toepassing zijn, het annuleren of automatisch verlengen van [een abonnement.](create-a-new-subscription.md#cancel-a-subscription)
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Licenties voor een SaaS-abonnement toevoegen of verwijderen
 
@@ -105,7 +101,7 @@ Voor aanbiedingen op de commerciële SaaS-marketplace kunt u gebruikerslicenties
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Abonnementen beheren met behulp Partner Center API's
 
-U kunt ook Partner Center api's gebruiken om levenscyclusbeheer uit te voeren en facturen voor uw abonnementen te beheren. Zie Een abonnement maken voor [commerciële marketplace-producten voor meer informatie.](/partner-center/develop/create-subscription-azure-marketplace-products)
+U kunt ook Partner Center gebruiken om levenscyclusbeheer uit te voeren en facturen voor uw abonnementen te beheren. Zie Een abonnement maken voor [commerciële marketplace-producten voor meer informatie.](/partner-center/develop/create-subscription-azure-marketplace-products)
 
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -1,5 +1,5 @@
 ---
-title: Request an SLA credit from Microsoft (Een SLA-tegoed aanvragen van Microsoft)
+title: Een tegoed aanvragen bij Microsoft
 ms.topic: article
 ms.date: 03/31/2021
 description: Meer informatie over de voordelen, beperkingen en procedures voor het aanvragen van een SLA-tegoed (Service Level Agreement) bij Microsoft als uw klanten een servicestoring ervaren.
@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 244b4fb13f1b4532cba218ab404442c323121f142966695d5c220a18300bc0fc
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 51c5b896564e7eb915814c43a6931e48f1777ffc
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678183"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457953"
 ---
-# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Hoe en wanneer u een SLA-tegoed (Service Level Agreement) kunt aanvragen bij Microsoft
+# <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Hoe en wanneer u een tegoed kunt aanvragen bij Microsoft
 
 **Juiste rollen:** beheeragent | Globale beheerder
 
@@ -31,14 +31,14 @@ SLA-tegoeden van Microsoft worden bepaald op basis van welke service(s) zijn be�
 
 ## <a name="request-an-sla-credit"></a>Een SLA-tegoed aanvragen
 
-*De CSP-partner moet de claim en alle vereiste gegevens indienen aan het einde van de kalendermaand na de maand waarin het incident zich heeft voorgedaan.* Als het incident bijvoorbeeld op 15 februari heeft plaatsgevonden, moet Microsoft de claim en alle vereiste informatie voor 31 maart ontvangen. Eindklanten en indirecte resellers kunnen geen SLA-tegoedclaims indienen; De indirecte provider of directe factuurpartner moet namens hen claims indienen.
+*De CSP-partner moet de claim en alle vereiste gegevens indienen aan het einde van de kalendermaand na de maand waarin het incident zich heeft voorgedaan.* Als het incident bijvoorbeeld op 15 februari heeft plaatsgevonden, moet Microsoft de claim en alle vereiste informatie voor 31 maart ontvangen. Eindklanten en indirecte resellers kunnen geen SLA-kredietclaims indienen; De indirecte provider of directe factuurpartner moet claims namens hen indienen.
 
 > [!NOTE]
-> Adviesincidenten komen doorgaans niet in aanmerking voor SLA-tegoed. Een incident dat op het Service Health Dashboard wordt geplaatst, geeft aan dat een *tenant* mogelijk wordt beïnvloed en vertegenwoordigt de beste informatie die Microsoft op het moment van publicatie heeft. Statuspaginagegevens vertegenwoordigen de algemene beschikbaarheid van een service. De impact, beperking en oplossing van de afzonderlijke service kan variëren. U kunt de laatste incidentpost en incidentbeoordeling bekijken voor meer informatie. Zie How to check Microsoft 365 service health (Service [health controleren)](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) voor meer informatie.
+> Adviesincidenten komen doorgaans niet in aanmerking voor SLA-tegoed. Een incident dat op het Service Health Dashboard wordt geplaatst, geeft aan dat een *tenant* mogelijk wordt beïnvloed en vertegenwoordigt de beste informatie die Microsoft op het moment van publicatie heeft. Statuspaginagegevens vertegenwoordigen de algemene beschikbaarheid van een service. De impact, beperking en oplossing van afzonderlijke service kan variëren. U kunt de laatste incidentpost en incidentbeoordeling bekijken voor meer informatie. Zie How to check Microsoft 365 service health (Service [health controleren)](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) voor meer informatie.
 
 ### <a name="required-information"></a>Vereiste informatie
 
-De naam van de klant, de tenant-id, het partnerticket# en het door het ticket gemaakte datum/tijd-zegel zijn niet voldoende om een claim te kunnen verwerken.
+De naam van de klant, de tenant-id, het partnerticket# en het datum-/tijdstempel van een ticket dat is gemaakt, zijn niet voldoende om een claim te verwerken.
 
 Voordat u [een SLA-tegoedaanvraag bij](#submit-sla-credit-request) Microsoft indient, moet u **alle** volgende informatie verzamelen om op te nemen in uw ondersteuningsticket:
 
@@ -52,23 +52,23 @@ Voordat u [een SLA-tegoedaanvraag bij](#submit-sla-credit-request) Microsoft ind
 - Informatie over de tijd en duur van de downtime
 - Het aantal en de locatie(en) van de betrokken gebruikers (indien van toepassing)
 - Beschrijvingen van uw pogingen om het incident op te lossen op het moment van de gebeurtenis
-- Een e-mail van de beïnvloede klant die ondersteuning en vervolgens tegoed aanvraagt
+- Een e-mailbericht van de beïnvloede klant die ondersteuning en vervolgens tegoed aanvraagt
 - Het ondersteuningsticketnummer en de details van de contactpersoon van de klant met betrekking tot het oplossen van service-impact
 
 
 #### <a name="outage-incident-identifier"></a>Incident-id van storing
 
-U vindt de id voor het storingsincident op **Service Health** pagina in de Microsoft 365-beheercentrum. De **incident-id** voor uitval is een getal voorafgegaan door een afkorting van twee letters die de betrokken service aangeeft (bijvoorbeeld *EX25194* voor een Exchange Online storing). In de volgende tabel worden algemene serviceafkorten beschreven:
+U vindt de id voor het storingsincident op **Service Health** pagina in de Microsoft 365-beheercentrum. De **incident-id** voor uitval is een getal voorafgegaan door een afkorting van twee letters die de betrokken service aangeeft (bijvoorbeeld *EX25194* voor een Exchange Online storing). In de volgende tabel worden algemene serviceafbrekingen beschreven:
 
 | Afkorting van twee letters | Microsoft-service |
 | ----------------------- | ----------------- |
-| Ex | Exchange Online |
-| Fo | Exchange Online Protection |
-| Sb | Skype voor Bedrijven Online (voorheen Lync Online) |
+| EX | Exchange Online |
+| FO | Exchange Online Protection |
+| SB | Skype voor Bedrijven Online (voorheen Lync Online) |
 | Besturingssysteem | Office Abonnement |
 | PB | Power BI voor Office 365 |
-| Sp | SharePoint Online |
-| Ya | Yammer Enterprise |
+| SP | SharePoint Online |
+| YA | Yammer Enterprise |
 | MO | Portalfout |
 
 ### <a name="submit-sla-credit-request"></a>SLA-tegoedaanvraag indienen

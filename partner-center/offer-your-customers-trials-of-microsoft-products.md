@@ -1,7 +1,7 @@
 ---
 title: Klanten proefversies van Microsoft-producten aanbieden
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 02/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Laat klanten microsoft-abonnementsproducten 30 dagen uitproberen. Meld u aan voor deze gratis proefversies in de catalogus, net als veel andere onlineservices.
@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01234eaf64beaceb0b5511c64013a67196a71b95121fe1bd831ffa93ea19054f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 625fd493b026faac924ff8a7a5af8dccb59ab7b3
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687023"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457851"
 ---
-# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Klanten 30 dagen gratis proefversies van Microsoft-producten geven
+# <a name="give-customers-free-trials-of-microsoft-products"></a>Klanten gratis proefversies van Microsoft-producten geven
 
 **Juiste rollen:** Globale | Gebruikersbeheerbeheer | Verkoopagent
 
@@ -47,7 +47,7 @@ Proeflicenties moeten op dezelfde manier aan gebruikers worden toegewezen als de
 Een proefversie van uw klant krijgen in Partner Center:
 
 1. Ga **vanuit** Verkopen op Partner Center naar **Catalogus.** 
-2. Selecteer in de catalogus bij **Factureringsfrequentie** de optie **Proefabonnement.** Hierdoor kunnen alleen gratis proefversies worden weergegeven en worden andere aanbiedingen uitgeschakeld die niet gratis zijn. Proefversies worden weergegeven op het **tabblad Proefversies** in de catalogus.
+2. Selecteer in de catalogus bij **Factureringsfrequentie** de optie **Proefaanbieding.** Hierdoor kunnen alleen gratis proefversies worden weergegeven en worden andere aanbiedingen uitgeschakeld die niet gratis zijn. Proefversies worden weergegeven op **het tabblad Proefversies** in de catalogus.
 3. Selecteer de gratis proefversie die u wilt aanbieden en selecteer vervolgens **Verzenden.** Alle proefversies worden gedurende 30 dagen niet gefactureerd. U kunt deze ook op elk moment tijdens de proefversie converteren naar een betaald abonnement.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Proefversies converteren naar betaalde abonnementen
@@ -61,7 +61,7 @@ U moet de proefversie zelf converteren naar een betaald abonnement. U kunt dit d
 
 ### <a name="convert-trials-using-partner-center"></a>Proefversies converteren met Partner Center
 
-U kunt proefversies converteren naar betaalde abonnementen met behulp van Partner Center:
+U kunt proefversies converteren naar betaalde abonnementen met Partner Center:
 
 1. Ga naar de abonnementspagina van de klant en selecteer de gratis proefversie.
 2. Selecteer **Proefversie converteren naar betaald abonnement.**
@@ -77,7 +77,7 @@ Mogelijk moet u uw API's wijzigen om de conversie van een gratis proefversie naa
 
 ### <a name="trials-without-conversions"></a>Proefversies zonder conversies
 
-Niet alle proefversies kunnen worden geconverteerd naar betaalde abonnementen. Partners kunnen een proefversie gebruiken die geen conversies heeft tot de vervaldatum. Partners kunnen compatibele aanbiedingen aanschaffen die dezelfde services ondersteunen als de proefversie.  Dit moet worden gedaan voordat de proefversie verloopt om ervoor te zorgen dat de services van de nieuw gekochte aanbiedingen zijn afgestemd op de services van de proefversie. 
+Niet alle proefversies kunnen worden geconverteerd naar betaalde abonnementen. Partners kunnen een proefversie gebruiken die geen conversies heeft tot de vervaldatum. Partners kunnen compatibele aanbiedingen kopen die dezelfde services ondersteunen als de proefaanbieding.  Dit moet worden gedaan voordat de proefversie verloopt om ervoor te zorgen dat de services van de nieuw gekochte aanbiedingen zijn afgestemd op de services van de proefversie. 
 
 |**Proefversie**   |**Compatibele aanbiedingen voor kleine bedrijven**   |**Compatibele Enterprise-aanbiedingen**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
@@ -91,6 +91,30 @@ Niet alle proefversies kunnen worden geconverteerd naar betaalde abonnementen. P
 U wordt niet op de hoogte gesteld van verlopende aanbiedingen. U kunt toekomstige vervaldatums bijhouden met behulp van de klantweergave op Partner Center of door een query uit te voeren op de API. Het is een goed idee om deze datums regelmatig te controleren, zodat u de juiste vervolgacties kunt ondernemen met klanten wanneer ze een beslissingspunt benaderen.
 
 Nadat een proefversie is verlopen, ziet een klant die zich probeert aan te melden bij die proefversie een verlopen bericht. De gegevens worden echter opgeslagen volgens de standaarden voor gegevensretentie. Nadat u een nieuw abonnement met dezelfde serviceabonnementen hebt aangeschaft, kunnen de gegevens van uw klant opnieuw worden geopend vanuit het zojuist geactiveerde abonnement.
+
+## <a name="converting-new-commerce-trials-to-paid-subscriptions"></a>Nieuwe commerce-proefversies converteren naar betaalde abonnementen
+
+> [!Note] 
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van de nieuwe commerce-ervaring M365/D365.
+
+Na dertig dagen wordt uw gratis proefversie automatisch verlengd in een betaald abonnement. U kunt uw proefversie converteren vóór de automatische verlenging door de onderstaande stappen te volgen. 
+
+U kunt de proefversie zelf omzetten in een betaald abonnement. U kunt dit doen met behulp van de Partner Center of via de Partner Center API's. 
+
+> [!NOTE]
+> Gratis proefversies van klanten voor het Cloud Solution Provider -programma (CSP) kunnen niet worden geconverteerd naar een andere programmaten tenant (zoals EA, Open of MOSP).
+
+### <a name="convert-new-commerce-trials-using-partner-center"></a>Nieuwe commerce-proefversies converteren met Partner Center
+
+> [!Note] 
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van de nieuwe commerce-ervaring M365/D365.
+
+U kunt nieuwe commerce-proefversies converteren naar betaalde abonnementen met behulp Partner Center:
+
+1. Ga naar de abonnementspagina van de klant en selecteer de gratis proefversie.
+2. Selecteer **Proefversie converteren naar betaald abonnement.**
+3. Kies het betaalde equivalent en selecteer vervolgens **Verzenden.**
+4. De facturering voor het betaalde abonnement begint op de conversiedatum en het abonnement wordt twaalf maanden na de conversiedatum automatisch verlengd. 
 
 ## <a name="billing"></a>Billing
 
