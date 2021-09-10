@@ -1,22 +1,22 @@
 ---
 title: Betaald krijgen in Partner Center
-description: Meer informatie over het ontvangen van betalingen voor inkomsten als Een Microsoft-partner, zoals via aanbiedingen op de commerciële marketplace, incentive-programma's en het Cloud Solution Provider programma. Omvat uitbetalingsbeleid, de status van de uitbetalingsstatus en uitbetalingsverklaringen.
+description: Meer informatie over het ontvangen van betalingen voor inkomsten als een Microsoft-partner, zoals via aanbiedingen op de commerciële marketplace, incentive-programma's en het Cloud Solution Provider programma. Omvat uitbetalingsbeleid, de status van de uitbetalingsstatus en uitbetalingsverklaringen.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 07/12/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: bc1a9eb3c0fde48a589d57ab40671791244c20cfa028ccae5de3cf5ee6a322ed
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697275"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957175"
 ---
 # <a name="getting-paid-in-partner-center"></a>Betaald krijgen in Partner Center
 
-**Juiste rollen:** Accountbeheerder | Globale beheerder
+**Juiste rollen:** Accountbeheerdersaccounts | Globale beheerder
 
 Dit artikel bevat belangrijke informatie over het ontvangen van betalingen voor uw aanbiedingen, invoegtoepassingen en advertentie-inkomsten. Het bevat een overzicht van het uitbetalingsbeleid, de stappen die vereist zijn voordat u betaald krijgt, en een overzicht van het uitbetalingsoverzicht.
 
@@ -38,7 +38,7 @@ Voordat u de eerste keer wordt betaald, moet u uw uitbetalingsaccount instellen 
 
 Standaard verzenden we betalingen op maandelijkse basis, zoals hierboven wordt beschreven. U kunt uw uitbetalingen voor een programma echter in de wacht zetten en Microsoft zal uw betalingen niet vrijgeven aan uw account. Als u ervoor kiest om uw uitbetalingen in de wacht te zetten, blijven we eventuele inkomsten registreren op de **pagina Uitbetalingen.** We sturen echter geen betalingen naar uw account totdat u de wachtstand verwijdert.
 
-Als u uw betalingen in de wacht wilt zetten, selecteert **Instellingen** rechtsboven het tandwielpictogram en vervolgens **Accountinstellingen.** Selecteer **Uitbetaling en belasting** in het  menu links en zoek in de sectie Toewijzing van uitbetalings- en belastingprofiel het programma waarvoor u betalingen wilt houden. Schakel het **selectievakje Mijn betaling in** de wacht houden in om betalingen voor dit programma op te houden. U kunt de status van uw uitbetalingsstatus op elk moment wijzigen, maar uw beslissing is van invloed op de volgende maandelijkse uitbetaling. Als u bijvoorbeeld de uitbetaling van april wilt behouden, moet u  vóór eind maart de status van uw uitbetalings hold instellen op Aan.
+Als u uw betalingen in de wacht wilt zetten, selecteert **Instellingen** rechtsboven het tandwielpictogram en vervolgens **Accountinstellingen.** Selecteer **Uitbetaling en belasting** in het  menu links en zoek in de sectie Toewijzing van uitbetalings- en belastingprofiel het programma waarvoor u betalingen wilt houden. Schakel het **selectievakje Mijn betaling in** de wacht houden in om betalingen voor dit programma op te houden. U kunt de status van uw uitbetalingsstatus op elk moment wijzigen, maar uw beslissing is van invloed op de volgende maandelijkse uitbetaling. Als u bijvoorbeeld de uitbetaling van april wilt behouden, moet u  de status van uw uitbetalingsstatus vóór eind maart instellen op Aan.
 
 Zodra u de status van uw uitbetalingsstatus hebt ingesteld op Aan **,** worden alle uitbetalingen voor dit programma in de wacht gezet totdat u het selectievakje uit bij Uit **hebt uitgeschakeld.** Wanneer u dit doet, wordt u opgenomen tijdens de volgende maandelijkse uitbetalingscyclus (mits aan de betalingsdrempel is voldaan). Als uw uitbetalingen in de wacht staan, maar u een uitbetaling wilt genereren  in juni, moet u het selectievakje uit vóór eind mei uitschakelen.
 

@@ -9,12 +9,12 @@ metadata:
   ms.author: mowrim
   ms.localizationpriority: medium
   ms.date: 6/17/2021
-  ms.openlocfilehash: fe18e1f85117e3441226615d8476fbc0400a670335d1a61b50f4f932ad7a71e5
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: f4b81d16b7d593e867e886371363fff30128c13e
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115689318"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123956953"
 title: Veelgestelde vragen over Partner Center voor Microsoft Cloud for US Government
 summary: >
   **Van toepassing op**: Partner Center voor Microsoft Cloud for US Government
@@ -26,14 +26,14 @@ summary: >
   ## <a name="general-questions"></a>Algemene vragen
 
 
-  Gebruik deze veelgestelde vragen voor meer informatie over het programma Cloud Solution Provider (CSP) voor Microsoft Cloud for US Government. U kunt ook contact opnemen met account manager voor meer informatie.
+  Gebruik deze veelgestelde vragen voor meer informatie over het Cloud Solution Provider (CSP)-programma voor Microsoft Cloud for US Government. U kunt ook contact opnemen met account manager voor meer informatie.
 sections:
 - name: Algemeen
   questions:
   - question: >
       Wat is Microsoft Cloud for US Government?
     answer: >
-      Microsoft Cloud for US Government is vanaf de basis ontworpen voor de Amerikaanse overheid en stelt klanten in de publieke sector in de Verenigde Staten, van grote federale instanties tot kleine overheden in de stad, in staat om een keuze te maken uit een reeks cloud-computingservices. Om aan de specifieke behoeften van klanten te voldoen, heeft Microsoft aanzienlijke investeringen gedaan in datacenters en heeft het zich gericht op het voldoen aan de amerikaanse federale en staatsbeleidsregels, -mandaten en -vereisten.
+      Microsoft Cloud for US Government is vanaf de basis ontworpen voor de Amerikaanse overheid en stelt klanten in de publieke sector in de Verenigde Staten, van grote federale instanties tot kleine overheden in de stad, in staat om een keuze te maken uit een reeks cloudcomputingservices. Om aan de specifieke behoeften van klanten te voldoen, heeft Microsoft aanzienlijk geïnvesteerd in datacenters en heeft Microsoft zich volledig gericht op het voldoen aan de amerikaanse federale en staatsbeleidsregels, -mandaten en -vereisten.
   - question: >
       Wie komt in aanmerking voor het CSP-programma voor Microsoft Cloud for US Government?
     answer: >
@@ -52,7 +52,7 @@ sections:
       Het CSP-programma voor Microsoft Cloud for US Government is op de volgende gebieden anders dan CSP Commercial:
 
 
-      - Geschiktheid: het CSP-programma voor Microsoft Cloud for US Government is alleen beschikbaar voor partners in Verenigde Staten die amerikaanse federale, staats- en lokale overheidsentiteiten bedienen in hun overheidscapaciteiten. Microsoft heeft een validatieprogramma om te bepalen of partners in aanmerking komen voor toegang tot de cloud van de Amerikaanse overheid.
+      - Geschiktheid: het CSP-programma voor Microsoft Cloud for US Government is alleen beschikbaar voor partners in Verenigde Staten die amerikaanse federale, staats- en lokale overheden bedienen in hun overheidscapaciteiten. Microsoft heeft een validatieprogramma om te bepalen of partners in aanmerking komen voor toegang tot de cloud van de Amerikaanse overheid.
 
 
       - Onboarding: Partners moeten onboarding voor het CSP-programma Microsoft Cloud for US Government los van CSP Commercial.
@@ -66,7 +66,7 @@ sections:
 
       - Partner Center functionaliteit: Bepaalde functies van Partner Center worden niet ingeschakeld voor het CSP-programma voor Microsoft Cloud for US Government om te voldoen aan wettelijke en nalevingsvereisten. Partners kunnen in plaats daarvan Azure Active Directory (Azure AD) of [Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) gebruiken om taken uit te voeren die betrekking hebben op gebruikers- en groepsbeheer. De functie voor geautomatiseerde relatieverzoeken is bedoeld om vanaf oktober 2021 beschikbaar te worden gesteld.
   - question: >
-      Ik ben nog geen CSP-partner. Waar vind ik meer informatie over hoe ik een CSP-partner kunt worden?
+      Ik ben nog geen CSP-partner. Waar vind ik meer informatie over het worden van een CSP-partner?
     answer: >
       Zie voor meer informatie over inschrijvingsmodellen die beschikbaar zijn voor partners, [Cloud Solution Provider op de Microsoft Partner Network.](https://partner.microsoft.com/cloud-solution-provider)
   - question: >
@@ -84,7 +84,7 @@ sections:
       - Us Government Cloud Addendum bevat extra partnerverantwoordelijkheid voor het transacteren van cloudservices van de Amerikaanse overheid.
 
 
-      - Vertoon A bevat de Microsoft-klantovereenkomst (Microsoft-klantovereenkomst) die moeten worden opgenomen in elk contract voor cloudservices van de Amerikaanse overheid die zijn ingevoerd tussen de CSP en de klant.
+      - Vertoon A bevat de Microsoft-klantovereenkomst (Microsoft-klantovereenkomst) die moet worden opgenomen in elk contract voor cloudservices van de Amerikaanse overheid die zijn ingevoerd tussen de CSP en de klant.
 
 
       *Microsoft-klantovereenkomst (Microsoft-klantovereenkomst) weergegeven als Exhibit A in MCRA*
@@ -111,36 +111,36 @@ sections:
       MCDA voor Microsoft Cloud for US Government verschilt op de volgende twee manieren van de standaard MCDA:
 
 
-      - Microsoft Cloud for US Government Addendum bevat extra partnerverantwoordelijkheid voor het transacteren van cloudservices van de Amerikaanse overheid.
+      - Microsoft Cloud for US Government Addendum bevat extra verantwoordelijkheid van partners voor het transacteren van cloudservices van de Amerikaanse overheid.
 
 
-      - Vertoon A bevat Microsoft-klantovereenkomst (Microsoft-klantovereenkomst) dat moet worden opgenomen in elk contract voor cloudservices van de Amerikaanse overheid die zijn ingevoerd tussen de CSP en haar klanten.
+      - Vertoon A bevat Microsoft-klantovereenkomst (Microsoft-klantovereenkomst) dat moet worden opgenomen in elk contract voor cloudservices van de Amerikaanse overheid die zijn ingevoerd tussen de CSP en de klanten.
   - question: >
-      Wat zijn de kwalificaties om een Microsoft Cloud for US Government?
+      Wat zijn de kwalificaties voor het verkopen Microsoft Cloud for US Government?
     answer: >
-      Kwalificatiecriteria voor het verkopen van het CSP-programma voor Microsoft Cloud for US Government zijn hetzelfde als de kwalificatiecriteria voor CSP Commercial, die toegankelijk zijn voor zowel directe partners als indirecte resellers. U hoeft niet opnieuw te worden noemt als een indirecte reseller voor het CSP-programma voor Microsoft Cloud for US Government als u bent goedgekeurd als een indirecte reseller voor CSP Commercial.
+      Kwalificatiecriteria voor het verkopen van het CSP-programma voor Microsoft Cloud for US Government is hetzelfde als de kwalificatiecriteria voor CSP Commercial, die openstaan voor zowel directe partners als indirecte resellers. U hoeft niet opnieuw te worden noemt als een indirecte reseller voor het CSP-programma voor Microsoft Cloud for US Government als u bent goedgekeurd als een indirecte reseller voor CSP Commercial.
   - question: >
       Ik ben een bestaande partner. Wat moet ik doen om een Microsoft Cloud for US Government?
     answer: >
       Partners moeten onboarding voor het CSP-programma voor Microsoft Cloud for US Government voldoen aan wettelijke en nalevingsvereisten. (Onboarding voor Microsoft Cloud for US Government is gescheiden van onboarding voor CSP Commercial.) Zodra u onboarding hebt gemaakt, kunt u klanten en transact-aanbiedingen maken die beschikbaar zijn binnen Microsoft Cloud for US Government. Zie Developing for Partner Center for Microsoft National Cloud (Ontwikkelen voor Partner Center voor Microsoft National Cloud) als u [API's gebruikt.](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
   - question: >
-      Zijn er verschillen in incentives van partners?
+      Is er verschil in incentives van partners?
     answer: >
-      Nee. Incentives van partners voor het CSP-programma voor Microsoft Cloud for US Government zijn hetzelfde als incentives van partners voor CSP Commercial. Meld u aan bij de Microsoft Partner Network [portal voor meer informatie over incentives van partners.](https://partner.microsoft.com/membership/partner-incentives)
+      Nee. Incentives van partners voor het CSP-programma voor Microsoft Cloud for US Government zijn hetzelfde als incentives van partners voor CSP Commercial. Meld u aan bij de portal van [Microsoft Partner Network partner voor meer informatie over incentives van partners.](https://partner.microsoft.com/membership/partner-incentives)
   - question: >
       Zijn er wijzigingen in de facturering?
     answer: >
-      Nee. Factureringscriteria en -vereisten voor het CSP-programma voor Microsoft Cloud for US Government zijn hetzelfde als factureringscriteria en vereisten voor CSP Commercial. Bekijk de resources op Microsoft Partner Network voor [meer informatie over facturering.](https://partner.microsoft.com/cloud-solution-provider/resources)
+      Nee. Factureringscriteria en -vereisten voor het CSP-programma voor Microsoft Cloud for US Government zijn hetzelfde als factureringscriteria en -vereisten voor CSP Commercial. Voor meer informatie over facturering bekijkt u de resources op [Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources).
   - question: >
       Is het mogelijk om gegevens die worden gehost in commerciële datacenters te wijzigen in Microsoft Cloud for US Government?
     answer: >
-      Om de integriteit van de isolatie van Microsoft Cloud for US Government te vergemakkelijken en te behouden, zijn er geen mechanismen om de bestaande services van een klant naar een Microsoft Cloud for US Government. Als een klant of partner Azure heeft, is deze verantwoordelijk voor alle gegevens die worden verplaatst naar een nieuwe omgeving binnen Microsoft Cloud for US Government.
+      Om de integriteit van de isolatie van Microsoft Cloud for US Government te vergemakkelijken en te onderhouden, zijn er geen mechanismen om de bestaande services van een klant naar een Microsoft Cloud for US Government. Als een klant of partner Azure heeft, is deze verantwoordelijk voor alle gegevens die worden verplaatst naar een nieuwe omgeving binnen Microsoft Cloud for US Government.
 - name: Vragen over Microsoft Cloud for US Government voor Azure
   questions:
   - question: >
       Wat is Microsoft Cloud for US Government voor Azure?
     answer: >
-      Azure Government cloud biedt een cloudplatform dat is gebouwd op de basisprincipes van beveiliging, privacy en controle, naleving en transparantie. Openbare sector-entiteiten ontvangen een fysiek geïsoleerde instantie van Microsoft Azure die gebruik maakt van beveiligings- en nalevingsservices van wereldklasse die essentieel zijn voor de Amerikaanse overheid voor alle systemen en toepassingen die zijn gebouwd op basis van de architectuur. Deze services omvatten FedRAMP- en DoD-nalevingscertificeringen, CJIS-statusovereenkomsten, de mogelijkheid om HIPAA Business Associate Agreements uit te geven en ondersteuning voor IRS 1075. Beheerd door gescreende Amerikaanse personen, Azure Government meerdere hybride scenario's voor het bouwen en implementeren van oplossingen on-premises of in de cloud. Entiteiten in de publieke sector kunnen ook profiteren van de directe schaalbaarheid en gegarandeerde uptime van een grootschalige cloudservice.
+      Azure Government cloud biedt een cloudplatform dat is gebouwd op de basisprincipes van beveiliging, privacy en controle, naleving en transparantie. Entiteiten in de publieke sector ontvangen een fysiek geïsoleerde instantie van Microsoft Azure die gebruik maakt van beveiligings- en nalevingsservices van wereldklasse die essentieel zijn voor de Amerikaanse overheid voor alle systemen en toepassingen die zijn gebouwd op basis van de architectuur. Deze services omvatten FedRAMP- en DoD-nalevingscertificeringen, CJIS-statusovereenkomsten, de mogelijkheid om HIPAA Business Associate Agreements uit te geven en ondersteuning voor IRS 1075. Beheerd door gescreende Amerikaanse personen, Azure Government meerdere hybride scenario's voor het bouwen en implementeren van oplossingen on-premises of in de cloud. Entiteiten in de publieke sector kunnen ook profiteren van de directe schaalbaarheid en gegarandeerde uptime van een grootschalige cloudservice.
   - question: >
       Biedt het CSP-programma Microsoft Cloud for US Government alle Azure-services?
     answer: >
@@ -148,16 +148,16 @@ sections:
   - question: >
       Wat moet ik doen om te ontwikkelen met het CSP-programma voor Microsoft Cloud for US Government?
     answer: >
-      Zie Ontwikkelen met Partner Center voor Microsoft Government Cloud Partner Center meer informatie over het ontwikkelen met Partner Center [voor Microsoft Cloud for US Government.](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
+      Zie Developing with Partner Center for Microsoft Government Cloud (Ontwikkelen met Partner Center [voor Microsoft Government Cloud)](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)voor meer informatie over het ontwikkelen met Partner Center voor Microsoft Cloud for US Government.
   - question: >
       Zijn er verschillen in API's?
     answer: >
-      API's en integratievereisten voor het CSP-programma voor Microsoft Cloud for US Government zijn identiek aan API's en integratievereisten voor CSP Commercial. Zie REST-URL's voor Microsoft Cloud for US Government meer informatie [over eindpunten](/partner-center/develop/partner-center-rest-urls)in Partner Center.
+      API's en integratievereisten voor het CSP-programma voor Microsoft Cloud for US Government zijn identiek aan API's en integratievereisten voor CSP Commercial. Voor meer informatie over eindpunten in Microsoft Cloud for US Government, Partner Center [REST-URL's.](/partner-center/develop/partner-center-rest-urls)
 
 
       >[!NOTE]
 
-      >ER zijn geen APIs beschikbaar voor het CSP-programma voor Microsoft Cloud for US Government. Deze API's worden afgeschaft in CSP en zijn daarom niet beschikbaar voor Microsoft Cloud for US Government. Om te voldoen aan wettelijke en nalevingsvereisten, zijn de volgende API's niet beschikbaar in het CSP-programma voor Microsoft Cloud for US Government.
+      >DE APIs van DEP zijn niet beschikbaar voor het CSP-programma voor Microsoft Cloud for US Government. Deze API's worden afgeschaft in CSP en zijn daarom niet beschikbaar voor Microsoft Cloud for US Government. Om te voldoen aan wettelijke en nalevingsvereisten, zijn de volgende API's niet beschikbaar in het CSP-programma voor Microsoft Cloud for US Government.
 
       >
 
@@ -208,9 +208,9 @@ sections:
       - [Meer informatie over CSP](https://partner.microsoft.com/cloud-solution-provider)
 
 
-      - [Meer informatie over ontwikkelen met Partner Center voor Microsoft Cloud for US Government](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
+      - [Meer informatie over ontwikkelen met Partner Center for Microsoft Cloud for US Government](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
   - question: >
       Waar moet ik naartoe als ik nog vragen heb?
     answer: >
-      Neem contact op met account manager voor meer informatie. Voeg daarnaast onze groep Yammer die specifiek is voor [CSP voor Azure Government](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
-additionalContent: "\n## <a name=\"next-steps\"></a>Volgende stappen\n\n- [Schrijf u in bij Cloud Solution Provider programma voor Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md).\n- [Meer informatie over Partner Center voor Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)"
+      Neem contact op met account manager voor meer informatie. Voeg daarnaast onze groep Yammer voor [CSP voor Azure Government.](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
+additionalContent: "\n## <a name=\"next-steps\"></a>Volgende stappen\n\n- [Registreren in het Cloud Solution Provider-programma voor Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md).\n- [Meer informatie over Partner Center voor Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)"

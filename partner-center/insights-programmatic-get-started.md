@@ -8,16 +8,16 @@ description: Meer informatie over het gebruik van de API voor toegang tot analys
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 209f58abf156bd2d7e1ea8ced858dbda669c247f5fbb353fd3781fce71b2d603
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4e8b70b027995ddf7ccf9de2da9eb9be764dced8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696883"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957370"
 ---
 # <a name="get-started-with-programmatic-access-to-analytics-data"></a>Aan de slag met programmatische toegang tot analysegegevens
 
-Deze handleiding helpt u om aan de slag te gaan met programmatische toegang tot Partner Insights Analytics-gegevens. U leert hoe u programmatisch toegang kunt krijgen tot analytische rapporten om omzet, ACR, prestaties en intelligente inzichten te controleren om de winstgevendheid te verbeteren. Met de verbeterde analysehulpprogramma's kunt u reageren op prestatieresultaten en betere relaties met uw klanten en wederverkopers onderhouden.  
+Deze handleiding helpt u aan de slag te gaan met programmatische toegang tot Partner Insights Analytics-gegevens. U leert hoe u programmatisch toegang krijgt tot analytische rapporten om de omzet, ACR, prestaties te evalueren en intelligente inzichten te evalueren om de winstgevendheid te verbeteren. Met de verbeterde analysehulpprogramma's kunt u reageren op prestatieresultaten en betere relaties met uw klanten en wederverkopers onderhouden.  
 
 Met behulp van de methoden en API's die in deze handleiding worden beschreven, kunt u aangepaste rapporten plannen en belangrijke gegevenssets opnemen in uw interne analysesystemen.
 

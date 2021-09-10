@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a1bc04970a961254c4af7a8a96688f4d3379d051840a4fd556be84041b76a9e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687809"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957740"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Problemen met ontbrekende betalingen, onjuiste inkomsten en andere problemen oplossen
 
@@ -27,7 +27,7 @@ Gebruikers met de rol incentive-beheerder in Partner Center voor het relevante i
 
 ## <a name="how-long-does-it-take-for-microsoft-to-approve-my-pending-payout-andor-tax-profiles"></a>Hoe lang duurt het voordat Microsoft mijn in behandeling zijnde uitbetalings- en/of belastingprofielen heeft goedgekeurd?
 
-Validatie kan tot 48 uur in beslag nemen. Gedurende deze periode wordt de profielstatus op de overzichtspagina weergegeven als Inschrijving valideren. Zodra het proces is voltooid, wordt  de status als Ingeschreven als geslaagd of Actie vereist - Betaling **en/of** belastinggegevens bijwerken, indien nodig, weergeven.
+Validatie kan tot 48 uur in beslag nemen. Gedurende deze periode wordt de profielstatus op de overzichtspagina weergegeven als Inschrijving valideren. Zodra het proces is voltooid, wordt  de status weergeven als Ingeschreven als dit is gelukt of Actie vereist: betaling **en/of** belastinggegevens bijwerken indien nodig.
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Hoe weet ik of mijn uitbetalings- en belastingprofiel goed is ingevuld?
 
@@ -61,10 +61,10 @@ Ontbrekende of onjuiste betalingen hebben vaak een van de volgende oorzaken:
 - **Uw betalingsprofiel is mogelijk onvolledig.** De startdatum voor uw incentive-beloning is de eerste dag van de maand waarin u aan alle geschiktheidsvereisten hebt voldaan, met inbegrip van onboarding met uitbetalings- en belastinggegevens Winsten zijn niet beschikbaar voor de maanden voorafgaand aan het indienen van de uitbetalings- en belastinggegevens Als u bijvoorbeeld alle vereisten in april 2020 indient, is de startdatum van uw verdiensten 1 april 2020.
 - **Mogelijk hebt u een openstaande actie.**  Het kan zijn dat uw winsten niet worden verwerkt omdat u een actie hebt die nog niet is uitgevoerd.
 
-  **Uw openstaande acties weergeven**
+  **Openstaande acties weergeven**
 
   1. Meld u aan bij [Incentives voor partners.](https://partner.microsoft.com/membership/partner-incentives)
-  2. Open de **pagina Transactiegeschiedenis.** Bekijk de velden op deze pagina voor openstaande acties die moeten worden voltooid, zoals belastingprofiel in **behandeling,** Betalingsprofiel in behandeling of Indienen **van btw-factuur in behandeling.**
+  2. Open de **pagina Transactiegeschiedenis.** Bekijk de velden op deze pagina voor openstaande acties die moeten worden voltooid, zoals een belastingprofiel in **behandeling,** een betalingsprofiel in behandeling of het indienen **van btw-facturen.**
 
 Als deze acties niet helpen en uw betalingen nog steeds ontbreken of onjuist zijn, neem dan contact op met [ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
@@ -75,7 +75,7 @@ U kunt uw aanpassingen zoeken en afstemmen door uw inkomsten- en transactiegegev
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 2. Selecteer in de bovenste navigatiebalk het geldpictogram en selecteer vervolgens **Transactiegeschiedenis.**
 3. Pas de juiste filters toe. (Zie de **opmerking Belangrijk** hieronder.)
-4. Nadat u uw gegevens hebt gefilterd, selecteert u **Downloaden starten** en selecteert u vervolgens **Gegevens exporteren.** Uw gegevens worden geopend in een CSV-bestand.
+4. Nadat u uw gegevens hebt gefilterd, selecteert **u Downloaden starten** en selecteert u vervolgens Gegevens **exporteren.** Uw gegevens worden geopend in een CSV-bestand.
 5. Navigeer in het CSV-bestand naar Kolom P, **Inkomstentype.**
 6. Filter deze kolom op **Aanpassing-Aanpassingen.** U ziet de maand van elke aanpassing in kolom S.
 
@@ -102,7 +102,7 @@ Wanneer u geen inkomsten ziet voor een periode waarin ze worden verwacht, wordt 
 
 - **Uw betalingsprofiel is mogelijk onvolledig.**  De startdatum voor uw incentive-beloning is de eerste dag van de maand waarin u aan alle geschiktheidsvereisten hebt voldaan, met inbegrip van onboarding met uitbetalings- en belastinggegevens Winsten zijn niet beschikbaar voor de maanden voorafgaand aan het indienen van de uitbetalings- en belastinggegevens Als u bijvoorbeeld alle vereisten in april 2020 indient, is de startdatum van uw verdiensten 1 april 2020.
 
-Als u voldoet aan de geschiktheidsvereisten, inclusief onboarding met uitbetalings- en belastinggegevens op tijd en inkomsten nog steeds ontbreken, neem dan contact op met [de ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Als u voldoet aan de geschiktheidsvereisten, inclusief onboarding met uitbetalings- en belastinggegevens op tijd en inkomsten nog ontbreken, neem dan contact op met [de ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="my-earnings-are-missing-or-incorrect"></a>Mijn inkomsten ontbreken of zijn onjuist
 
@@ -124,7 +124,7 @@ In dit scenario moet u de transactiegegevens downloaden om een volledig overzich
 
 ### <a name="transaction-history"></a>Transactiegeschiedenis
 
-Deze weergave toont trends in inkomsten en betalingen per maand, inkomsten per status en transactiegegevens, samen met de betalingsstatus voor elke transactie. Gegevens zijn alleen zichtbaar voor de programma's en MPN-ID's waarvoor u een incentive-gebruiker of beheerder bent.
+Deze weergave toont trends in inkomsten en betalingen per maand, inkomsten per status en transactiegegevens, samen met de betalingsstatus voor elke transactie. Gegevens zijn alleen zichtbaar voor de programma's en MPN-ID's waarvoor u een incentive-gebruiker of -beheerder bent.
 
 ### <a name="payments"></a>Betalingen
 
@@ -132,7 +132,7 @@ In deze weergave kunt u betalingen voor alle programma's en MPN-ID's bekijken. G
 
 | Functie | Gaat u hierheen |
 | ------ | :----------- | 
-| Uw betalingsgegevens per regel weergeven, inclusief inkomsten- en betalingsbedragen in lokale valuta  | Zie het **veld Lijst met betalingen**   |
+| Bekijk uw betalingsgegevens per regel, inclusief inkomsten- en betalingsbedragen in lokale valuta  | Zie het **veld Lijst met betalingen**   |
 | Een overboekingsletter downloaden   |  Selecteer **Overboeking van betaling**  |
 | Details van transactieniveau voor een specifieke betaling weergeven |  Weergave **selecteren**  |
 | Transactiedetails exporteren naar Excel  |  Selecteer **Downloaden starten** en selecteer vervolgens Gegevens **exporteren.** Alle geselecteerde filters worden toegepast op de geëxporteerde gegevens. Zodra de status is gewijzigd in Voltooid, selecteert u **Downloaden** en volgt u de aanwijzingen om het gedetailleerde transactierapport te exporteren. Vernieuw de pagina als de status niet binnen vijf minuten wordt bijgewerkt.  |

@@ -8,12 +8,12 @@ description: Meer informatie over de vereisten voor uw Partner Finder-vermelding
 author: jasongroce
 ms.author: v-mhanscom
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dfa4729b220611dec840e5505b071a0a8fbc845bef593c2e9fa9d0c0937c866
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 712b26d56886b5265038a385dbf1ce1e68bb5081
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691885"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957788"
 ---
 # <a name="partner-finder-listing-certification-policies"></a>Partner Finder met certificeringsbeleid
 
@@ -25,7 +25,7 @@ Om klanten snel partners te laten identificeren die van belang zijn, moet uw lij
 
 - Een nauwkeurige bedrijfsnaam
 - Een beknopte, goed geschreven beschrijving van uw bedrijf
-- Een samenvatting van de expertise die uw bedrijf biedt, samen met eventuele competenties, certificeringen en goedkeuringen die zijn toegekend door Microsoft
+- Een samenvatting van de expertise die uw bedrijf biedt, samen met alle competenties, certificeringen en goedkeuringen die zijn toegekend door Microsoft
 
 ## <a name="company-logo"></a>Bedrijfslogo
 
@@ -48,8 +48,8 @@ Klanten verwachten dat vermeldingen vrij zijn van ongepaste, schadelijke of aans
 - Faciliteert of faciliteert schadelijke activiteiten in de echte wereld
 - Kan een risico vormen op schade aan de veiligheid, gezondheid of het comfort van een persoon of eigenschap
 - Is lasterlijk, smadelijk, sous, of kunnen worden gedreigd
-- Is mogelijk gevoelig of aanstootgevend of is een aanstootgevende persoon op basis van lidmaatschap van een bepaalde etnische, etnische, nationale, taalkundige, sociale of andere sociale groep, of op basis van het geslacht, de leeftijd of de seksueel oriëntatie van een persoon
-- Faciliteert of faciliteert overmatig of onpruimbaar gebruik van het gebruik van geneesmiddelen, geneesmiddelen of geneesmiddelen
+- Is mogelijk gevoelig of aanstootgevend of is een voorkeursadvocaat voor het lidmaatschap van een bepaalde etnische, etnische, nationale, taalkundige, sociale of andere sociale groep of op basis van het geslacht, de leeftijd of de seksueel oriëntatie van een persoon
+- Faciliteert of faciliteert overmatig of onpruimbaar gebruik van het gebruik van legale of geneesmiddelenproducten, geneesmiddelen of geneesmiddelen
 - Bevat expliciete of expliciete seksueel getinte inhoud
 - Bevordert, faciliteert of faciliteert onrechtmatige activiteiten in de echte wereld, waaronder het gebruik van auteursrechtelijk beschermd inhoud
 - Omvat overmatige of overbodige grof taalgebruik of obsceniteit

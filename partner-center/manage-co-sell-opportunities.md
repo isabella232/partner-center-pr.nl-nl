@@ -4,45 +4,45 @@ ms.topic: article
 ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Als gekwalificeerde Microsoft-partner kunt u samen verkopen met Microsoft. Meer informatie over het definiëren van deals, het uitnodigen van Microsoft om samen te werken of het weergeven van verzonden deals.
+description: Als gekwalificeerde Microsoft-partner kunt u samen met Microsoft verkopen. Meer informatie over het definiëren van deals, het uitnodigen van Microsoft om samen te werken of het weergeven van verzonden deals.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ae6c60bf5f3a4d5f1fad5e6fa86151737e12da6d
-ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "123396205"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957085"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Kansen voor co-verkoop beheren in Partner Center
 
 
 **Juiste rollen:** BEHEER VAN MPN-partner | Verwijzingsbeheerder
 
-Profiteer van kansen voor co-verkoop.  Een co-verkoopkans is een samenwerking van meerdere partijen om producten te verkopen die voldoen aan de behoeften van een klant. Dit artikel helpt u inzicht te krijgen in hoe u de kracht van co-verkoop in uw Partner Center om effectief samen te verkopen en nieuwe klanten te verkrijgen.
+Profiteer van kansen voor co-verkoop.  Een co-verkoopkans is een samenwerking van meerdere partijen om producten te verkopen die voldoen aan de behoeften van een klant. Dit artikel helpt u te begrijpen hoe u de kracht van co-verkoop in uw bedrijf kunt gebruiken Partner Center effectief samen te verkopen en nieuwe klanten te verkrijgen.
 
 ## <a name="types-of-co-sell-opportunities"></a>Soorten kansen voor co-verkoop
 
 **Kans op co-verkoop:** hier zijn een of meer Microsoft-verkoopmedewerkers actief betrokken bij de deal om een klantprobleem op te lossen. De verkoopkansen kunnen afkomstig zijn van een klantaccount waar een Microsoft-verkoopmedewerker de partner uitnodigt om deel te nemen aan een co-verkoopactiviteit of van een partner waar ze meer hulp van Microsoft-verkoop nodig hebben om de deal te sluiten.
 
-**Partner to Partner (P2P)** : hier kan een partner andere partners in het Microsoft Co-sell-ecosysteem uitnodigen om samen te werken. Partners kunnen eventueel een Microsoft-verkoopmedewerker uitnodigen voor de deal om de deal te sluiten. Zowel partners als Microsoft kunnen worden uitgenodigd, zelfs nadat een deal is gesloten, zolang deze nog niet is voltooid. (Houd er rekening mee dat gewonnen, verloren, geweigerd en verlopen volledige omvat.)
+**Partner to Partner (P2P)** : hier kan een partner andere partners in het Microsoft Co-sell-ecosysteem uitnodigen om samen te werken. Partners kunnen eventueel een Microsoft-verkoopmedewerker uitnodigen voor de deal om de deal te sluiten. Zowel partners als Microsoft kunnen worden uitgenodigd, zelfs nadat een deal is gesloten, zolang deze nog niet is voltooid. (Houd er rekening mee dat de volledige omvat gewonnen, verloren, afgewezen en verlopen.)
 
-**Privédeal:** dit is wanneer een partner besluit onafhankelijk te werken aan een deal die is gemaakt in Partner Center. Partners kunnen microsoft-verkoopteam zichtbaarheid geven of Microsoft-verkopers uitnodigen die actieve hulp nodig hebben na het maken van de deal. De details van de deal worden niet gedeeld met het microsoft-verkoopteam totdat de tijdpartners expliciet Ja selecteren voor de vraag 'Wilt u dat Microsoft-verkopers deze deal bekijken?' of vraag microsoft-verkoopteam om hulp door een van de opties te kiezen voor de vraag 'Identificeer het soort hulp dat u nodig hebt van Microsoft?'.
+**Privédeal:** dit is wanneer een partner besluit onafhankelijk te werken aan een deal die is gemaakt in Partner Center. Partners kunnen microsoft-verkoopteam zichtbaarheid geven of Microsoft-verkopers uitnodigen om actieve hulp te zoeken na het maken van de deal. De details van de deal worden niet gedeeld met het microsoft-verkoopteam totdat de tijdpartners expliciet Ja selecteren voor de vraag 'Wilt u dat Microsoft-verkopers deze deal bekijken?' of vraag microsoft-verkoopteam om hulp door een van de opties te kiezen voor de vraag 'Identificeer het soort hulp dat u nodig hebt van Microsoft?'.
 
 **Door de partner** geleide deal: dit zijn deals waarbij een partner besluit onafhankelijk aan een deal te werken, maar geen inzicht kan geven in de details van de deal aan microsoft-verkoopteamleden. Partners kunnen Microsoft-verkopers uitnodigen na het maken van de deal. Deze deals komen in aanmerking voor dealregistratie wanneer een oplossing die in aanmerking komt voor een incentive deel uitmaakt van de deal. Het uitnodigen van Microsoft-verkoper is niet vereist voor dealregistratie als aan de in aanmerking komende oplossingscriteria voor een incentive wordt voldaan. U kunt een deal maken die door de partner wordt geleid door ja te antwoorden op de vraag 'Wilt u dat Microsoft-verkopers deze deal bekijken?'
 
-**Solution Assessment (SA)** : deze typen deals kunnen alleen worden gemaakt door een set partners die worden gescreend door het bedrijfsteam voor oplossingsevaluaties voor het uitvoeren van technologie-evaluaties voor klanten die Microsoft-technologieën gebruiken of plannen.
+**Solution Assessment (SA)** : deze typen deals kunnen alleen worden gemaakt door een set partners die worden gescreend door het bedrijfsteam voor oplossingsevaluaties voor het uitvoeren van technologie-evaluaties voor klanten die Microsoft-technologieën gebruiken of willen gebruiken.
 
 > [!NOTE]
 > Privédeals zijn, hoewel ze niet echt samenwerken, opgenomen op het tabblad Collectieve verkoopkansen om een eenvoudig pad te bieden voor het upgraden van een pijplijndeal naar een collectieve-verkoopkans in een niet-terminale fase **(gewonnen, verloren,** geweigerd en verlopen).
 
-## <a name="navigating-the-co-sell-section"></a>Navigeren in de sectie Co-sell
+## <a name="navigating-the-co-sell-section"></a>Navigeren door de sectie Co-sell
 
 Volg deze stappen voor toegang tot de sectie Co-sell:
 
-1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
 2. Selecteer in het navigatiemenu links **Verwijzingen,** gevolgd door **Verkoopkansen voor co-verkoop.**
 
@@ -57,7 +57,7 @@ Volg deze stappen voor toegang tot de sectie Co-sell:
 ## <a name="creating-a-co-sell-opportunity"></a>Een verkoopkans voor co-verkoop maken
 
 > [!IMPORTANT]
-> Voor collectieve verkoop met Microsoft moeten partners beschikken over een bedrijfsklare oplossing, een betrokken verkoopteam en een sterke commerciële strategie. Ze moeten ook voldoen aan specifieke aanvullende criteria. Zie Voorbereiden op [co-verkoop voor meer informatie.](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)
+> Voor collectieve verkoop met Microsoft moeten partners beschikken over een bedrijfsklare oplossing, een betrokken verkoopteam en een sterke commerciële strategie. Ze moeten ook voldoen aan specifieke aanvullende criteria. Zie Gereed worden voor [co-verkoop voor meer informatie.](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)
 
 U kunt drie soorten verkoopkansen maken.
 
@@ -86,7 +86,7 @@ Voer de details van de huidige deal in. De onderstaande velden kunnen worden gew
 
 ### <a name="add-team-members"></a>Teamleden toevoegen
 
-Nadat u de details van de deal heeft toegevoegd, voegt u de werknemers toe die aan deze specifieke deal werken. U moet de naam, het telefoonnummer en het e-mailadres van de werknemer invoeren. Deze gegevens zijn verplicht en u moet ten minste één contactpersoon hebben met alle gegevens die u hebt ingevoerd om een deal te maken. Deze details kunnen zelfs na het maken van een deal worden gewijzigd. Recente contactpersonen uit uw vorige deals worden aan de rechterkant weergegeven, om ze snel aan de deal toe te voegen. Voor P2P-deals kan het team werknemers van uw bedrijf en het bedrijf hebben die de uitnodiging verzenden.
+Nadat u de details van de deal heeft toegevoegd, voegt u de werknemers toe die aan deze specifieke deal werken. U moet de naam, het telefoonnummer en het e-mailadres van de werknemer invoeren. Deze gegevens zijn verplicht en u moet ten minste één contactpersoon hebben met alle gegevens die u hebt ingevoerd om een deal te maken. Deze details kunnen zelfs na het maken van een deal worden gewijzigd. Recente contactpersonen uit uw vorige deals worden aan de rechterkant weergegeven, om ze snel aan de deal toe te voegen. Voor P2P-deals kan het team werknemers van zowel uw bedrijf als het bedrijf hebben die de uitnodiging verzenden.
 
 ### <a name="add-solutions"></a>Oplossing(en) toevoegen
 
@@ -98,36 +98,36 @@ In deze sectie moet u de informatie verstrekken met betrekking tot de oplossinge
 - **Oplossingsevaluaties:** Dit zijn de evaluatietypen die een in aanmerking komende partner kan selecteren op basis van de behoeften van de klant
 
 > [!Important]
-> Er kan slechts één evaluatietype worden geselecteerd voor een oplossingsevaluatiedeal en er kunnen geen andere oplossingen worden toegevoegd. Zodra een oplossingsevaluatie is geselecteerd, moet de partner de locatie kiezen waarvoor de evaluatie wordt gemaakt. Dit is nodig voor de juiste uitbetalingen van incentive's.
+> Er kan slechts één evaluatietype worden geselecteerd voor een oplossingsevaluatiedeal en er kunnen geen andere oplossingen worden toegevoegd. Zodra een oplossingsevaluatie is geselecteerd, moet de partner de locatie kiezen waarvoor de evaluatie wordt gemaakt. Dit is nodig voor de juiste incentive-uitbetalingen.
 
-Nadat u de oplossingsinformatie hebt opgegeven, selecteert u Volgende om naar de sectie te gaan waar u het verkooptype kunt bepalen. U hebt vier opties als u kiest voor oplossingen uit de eerste drie opties in het oplossingstype en niet voor een oplossingsevaluatie:
+Nadat u de oplossingsinformatie hebt opgegeven, selecteert u Volgende om naar de sectie te gaan waar u het verkooptype kunt bepalen. U hebt vier opties als u oplossingen hebt gekozen uit de eerste drie opties in het oplossingstype en niet uit een oplossingsevaluatie:
 
-**Privédeal:** als u Microsoft niet uitnodigt en tijdens deze stap een betrokkenheid maakt, is deze van het type persoonlijke pijplijn. Microsoft-verkopers hebben geen inzicht in de details van deze deal. U kunt een privé-deal maken door op dit moment Geen hulp vereist te selecteren voor de vraag 'Identificeer het soort hulp dat **u van Microsoft nodig hebt?'**  en **Nee voor** de vraag **'Wilt u dat Microsoft-verkopers deze deal bekijken?'**. U kunt een privédeal altijd upgraden naar een door een partner geleide of actieve co-sell-deal voordat de deal een terminaltoestand bereikt (gewonnen, verloren).
+**Privédeal:** als u Microsoft niet uitnodigt en tijdens deze stap een betrokkenheid maakt, is deze van het type persoonlijke pijplijn. Microsoft-verkopers hebben geen inzicht in de details van deze deal. U kunt een privé-deal maken door Op dit moment Geen hulp vereist te selecteren voor de vraag 'Identificeer het soort hulp dat **u van Microsoft nodig hebt?'**  en **Nee voor** de vraag **'Wilt u dat Microsoft-verkopers deze deal bekijken?'**. U kunt een privédeal altijd upgraden naar een door een partner geleide of actieve deal voor co-verkoop voordat de deal een terminale status bereikt (gewonnen, verloren).
 
 > [!Important]
-> Dealregistratie is niet van toepassing op privédeals. Wees voorzichtig bij het maken van een privédeal met oplossingen die in aanmerking komen voor een incentive, omdat ze niet in aanmerking komen voor registratie van deal in Partner Center.
+> Registratie van deal is niet van toepassing op privédeals. Wees voorzichtig bij het maken van een privé deal met oplossingen die in aanmerking komen voor een incentive, omdat ze niet in aanmerking komen voor registratie van deal in Partner Center.
 
-Door partner geleide **deal:** als u geen actieve hulp wilt zoeken van het verkoopteam van Microsoft, maar u ze wel inzicht wilt geven in uw pijplijn, kunt u een deal maken die door een partner wordt geleid. U kunt een door een  partner geleide deal maken door Op dit moment Geen hulp vereist te selecteren voor de vraag 'Identificeer het soort hulp dat u van **Microsoft nodig hebt?'** en **Ja voor** de vraag **'Wilt u dat Microsoft-verkopers deze deal bekijken?'**. Deze deals komen in aanmerking voor dealregistratie, ook al is Microsoft-verkoper niet actief betrokken bij het helpen van de partner. De vereisten voor dealregistratie zijn een oplossing die in aanmerking komt voor een incentive in de deal en de status Gewonnen van de deal.
+**Door de partner** geleide deal: als u geen actieve hulp wilt zoeken van het verkoopteam van Microsoft, maar ze wel inzicht wilt geven in uw pijplijn, kunt u een deal maken die door een partner wordt geleid. U kunt een door de partner geleide deal maken door Op dit moment Geen **hulp** vereist te selecteren voor de vraag 'Identificeer het soort hulp dat u nodig hebt **van Microsoft?'** en **Ja voor** de vraag **'Wilt u dat Microsoft-verkopers deze deal bekijken?'**. Deze deals komen in aanmerking voor dealregistratie, ook al is de Microsoft-verkoper niet actief betrokken bij het helpen van de partner. De vereisten voor dealregistratie zijn een oplossing die in aanmerking komt voor een incentive in de deal en de status Gewonnen van de deal.
 
-**Deal voor co-verkoop:** Als u een andere optie selecteert dan de standaardselectie voor de vraag 'Identificeer het type help dat u van **Microsoft** wilt' , verandert de deal in een deal voor co-verkoop waarbij een Microsoft-verkoper u kan helpen bij het sluiten van de deal. Een verzoek om hulp van Microsoft garandeert niet dat een Microsoft-verkoper deelneemt aan de deal. Microsoft-verkoopmedewerkers hebben 14 dagen de tijd om te bepalen of ze willen deelnemen. Zorg ervoor dat u in de sectie met notities het type hulp identificeert dat u wilt.
+**Deal voor co-verkoop:** Als u een andere optie dan de standaardselectie voor de vraag **'Identificeer** het type hulp dat u van Microsoft wilt' selecteert, verandert de deal in een deal voor samenwerking waarbij een Microsoft-verkoper u kan helpen bij het sluiten van de deal. Een verzoek om hulp van Microsoft biedt geen garantie dat een Microsoft-verkoper deelneemt aan de deal. Microsoft-verkoopmedewerkers hebben 14 dagen de tijd om te bepalen of ze willen deelnemen. Zorg ervoor dat u in de sectie Met opmerkingen het type hulp identificeert dat u wilt.
 
 **Partner-naar-partner-deal (P2P)**: u kunt andere partners uitnodigen voor de deal door op de koppeling Partner uitnodigen te klikken. Hieronder vindt u het proces voor het maken van een P2P-deal.
 
-- **Selecteer een partner:** Nadat u op Partner uitnodigen hebt geklikt, kunt u beginnen met het typen van de naam van de partner om een voorgestelde lijst met partners te krijgen die overeenkomen met de naam die u wilt invoeren. Selecteer de partner waarin u geïnteresseerd bent om meer informatie voor die partner in te vullen. U kunt alleen zoeken naar partners die zich in het Microsoft-ecosysteem voor co-verkoop en die in een bedrijf Partner Center.
+- **Selecteer een partner:** Nadat u op Partner uitnodigen hebt geklikt, kunt u beginnen met het typen van de naam van de partner om een voorgestelde lijst met partners op te halen die overeenkomen met de naam die u wilt invoeren. Selecteer de partner waarin u geïnteresseerd bent om meer gegevens voor die partner in te vullen. U kunt alleen zoeken naar partners die zich in het Microsoft Co-sell-ecosysteem en die in een Partner Center.
 
-- **Geschatte einddatum:** Dit is de datum waarop u verwacht dat de uitgenodigde partner zijn deel van de deal zal voltooien. De datum is vooraf ingevuld, zodat u ervoor kunt kiezen om de datum alleen te wijzigen als dat nodig is. Het is een verplicht veld en kan worden bewerkt door de partner die u uitnodigt nadat u de deal hebt gemaakt. U kunt dit veld niet wijzigen nadat u de deal hebt aanmaken.
+- **Geschatte einddatum:** Dit is de datum waarop u verwacht dat de uitgenodigde partner zijn deel van de deal zal voltooien. De datum is vooraf ingevuld, zodat u ervoor kunt kiezen om de datum alleen indien nodig te wijzigen. Het is een verplicht veld en kan worden bewerkt door de partner die u uitnodigt nadat u de deal hebt gemaakt. U kunt dit veld niet wijzigen na het maken van de deal.
 
-- **Geschatte waarde en valuta:** Dit is de waarde van de deal die de uitgenodigde partner in de algehele deal heeft. Zorg ervoor dat u hier de juiste waarde in typt, zodat de uitgenodigde partner kan beslissen of hij of zij al dan niet deel wil uitmaken van de deal. De uitgenodigde partner kan deze waarde wijzigen na het maken van de deal. U kunt dit veld niet wijzigen na het maken van de deal.
+- **Geschatte waarde en valuta:** Dit is de waarde van de deal die de uitgenodigde partner in de algehele deal heeft. Zorg ervoor dat u hier de juiste waarde in typt, zodat de uitgenodigde partner kan beslissen of hij of zij al dan niet deel wil uitmaken van de deal. De uitgenodigde partner kan deze waarde wijzigen nadat de deal is gesloten. U kunt dit veld niet wijzigen na het maken van de deal.
 
 - **Opmerkingen:** Voeg de details toe waarom u de partner uitnodigt om deel uit te maken van deze deal. Gedetailleerde informatie helpt de uitgenodigde partner om te bepalen of deze wil deelnemen.
 
-- **Voeg uw team toe:** Voeg de werknemers van uw bedrijf toe die met de uitgenodigde partner gaan werken. Als de uitgenodigde partner de deal accepteert, kunnen ze hun eigen werknemers toevoegen, zodat beide bedrijven een beeld hebben van het hele team dat aan de deal samenwerkt. U kunt deze details alleen wijzigen voordat u de deal maakt. Gegevens van werknemers die in uw dealgegevens zijn ingevoerd, worden vooraf ingevuld, om het gemakkelijker voor u te maken om de werknemers te kiezen die met deze specifieke partner werken.
+- **Voeg uw team toe:** Voeg de werknemers van uw bedrijf toe die met de uitgenodigde partner gaan werken. Als de uitgenodigde partner de deal accepteert, kunnen ze hun eigen werknemers toevoegen, zodat beide bedrijven een beeld hebben van het hele team dat aan de deal samenwerkt. U kunt deze details alleen wijzigen voordat u de deal maakt. Gegevens van werknemers die in uw dealgegevens zijn ingevoerd, worden vooraf ingevuld, om het voor u eenvoudiger te maken om de werknemers te kiezen die met deze specifieke partner werken.
 
-- **Oplossingen toevoegen:**  Voeg de oplossingen toe die u door de uitgenodigde partner wilt laten toevoegen aan de tabel. Ten minste één oplossing is verplicht. De uitgenodigde partner kan de oplossingen wijzigen zodra deze de uitnodiging accepteren.
+- **Oplossingen toevoegen:**  Voeg de oplossingen toe die de uitgenodigde partner moet meenemen naar de tabel. Ten minste één oplossing is verplicht. De uitgenodigde partner kan de oplossingen wijzigen zodra hij de uitnodiging heeft geaccepteerd.
 
 - **Identificeer het type help:** Identificeer het type hulp: Identificeer ten slotte de specifieke hulp die u nodig hebt van de uitgenodigde partner.
 
-Herhaal dit voor alle partners die u wilt uitnodigen voor deze deal. Een partner voor partnerdeal kan ook Microsoft-verkoper erbij betrekken wanneer u zowel Microsoft als de partners uitnodigt voor de deal. U kunt microsoft en partners ook later uitnodigen, nadat u de deal hebt gesloten.
+Herhaal dit voor alle partners die u wilt uitnodigen voor deze deal. Een partner voor partnerdeal kan ook microsoft-verkoper erbij betrekken wanneer u zowel Microsoft als de partners uitnodigt voor de deal. U kunt microsoft en de partners ook later uitnodigen, nadat u de deal hebt gesloten.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Reageren op een verkoopkans
 
@@ -135,7 +135,7 @@ Elke kans doorloop een eigen levenscyclus.
 
 ### <a name="received-stage"></a>Ontvangen fase
 
-Als u in deze fase een nieuwe verkoopkans voor co-verkoop hebt ontvangen van een Microsoft-verkoper of van andere partners in het Microsoft Co-sell-ecosysteem, bekijkt u de details en kunt u contact opnemen met de klant als u meer wilt weten over hun zakelijke behoeften. U kunt in deze fase twee acties uitvoeren. de verwijzing accepteren of weigeren:
+Als u in deze fase een nieuwe verkoopkans hebt ontvangen van een Microsoft-verkoper of van andere partners in het Microsoft-ecosysteem voor co-verkoop, bekijkt u de details en kunt u contact opnemen met de klant als u meer wilt weten over hun zakelijke behoeften. U kunt in deze fase twee acties uitvoeren. de verwijzing accepteren of weigeren:
 
 - **Accepteren:** Voer een naam in voor de deal, bewerk de geschatte waarde van de deal en de geschatte aankooptijd op basis van uw beoordeling. Zodra u de contactpersoon met de klant tot  stand hebt gebracht, moet u informatie in het veld Notities verstrekken om meer uit te leggen over wat de klant zoekt. U kunt eventueel hier uw CRM-id invoeren (alleen ter referentie), de marketingcampagne-id die heeft geleid tot de respectieve verkoopkans en contactpersonen van uw bedrijf toevoegen die aan deze deal werken.
 
@@ -143,15 +143,15 @@ Als u in deze fase een nieuwe verkoopkans voor co-verkoop hebt ontvangen van een
 
 - **Weigeren:** selecteer de reden waarom u de deal weigert en voeg eventuele opmerkingen toe die u wilt opnemen. Selecteer **vervolgens Deal sluiten.** We archiveren deze als Geweigerd **en** stellen Microsoft of de partner die u deze mogelijkheid heeft verzonden op de hoogte.
 
-- Als u niet binnen de toegewezen tijd reageert (momenteel 14 dagen),  wordt deze gearchiveerd als Verlopen en stellen we Microsoft of de partner die u deze mogelijkheid heeft verzonden op de hoogte.
+- Als u niet binnen de toegewezen tijd (momenteel 14 dagen) reageert, wordt deze gearchiveerd als Verlopen en stellen we Microsoft of de partner die u deze mogelijkheid heeft verzonden op de hoogte. 
 
 ### <a name="accepted-stage"></a>Geaccepteerde fase
 
-Werk om de deal met de klant te sluiten. Als u een van de gegevens wilt wijzigen die u hebt opgegeven voor een geaccepteerde verwijzing, selecteert u **Bewerken.** Vervolgens kunt u de naam van de deal, de geschatte aankoopdatum, de geschatte waarde, notities, de CRM-id en/of de marketingcampagne-id bijwerken.  U kunt ook **Uw team toevoegen selecteren** om de naam, het telefoonnummer en de e-mailadressen op te geven van andere personen die aan de deal werken. Oplossingen kunnen ook worden bewerkt op basis van de behoeften van de klant.
+Werk om de deal met de klant te sluiten. Als u een van de gegevens wilt wijzigen die u hebt opgegeven voor een geaccepteerde verwijzing, selecteert u **Bewerken.** Vervolgens kunt u de naam van de deal, de geschatte aankoopdatum, de geschatte waarde, notities, crm-id en/of de marketingcampagne-id bijwerken.  U kunt ook Uw **team toevoegen selecteren** om de naam, het telefoonnummer en de e-mailadressen op te geven van alle andere personen die aan de deal werken. Oplossingen kunnen ook worden bewerkt op basis van de behoeften van de klant.
 
 Alle deals die u hebt gemaakt, staan standaard in de fase Geaccepteerd.
 
-Zodra u aan de deal bent begonnen, kunt u de details van de voortgang die u maakt, verstrekken door de verkoopfasen in de levenscyclus van de deal te markeren. De levenscyclus van de deal bestaat uit vier fasen, afgezien van de initiële acceptatie of het maken en de uiteindelijke fasen voor gewonnen of verloren, zoals hieronder wordt vermeld. Het verstrekken van deze gegevens is optioneel, maar u wordt ten zeerste aangeraden deze te delen om de juiste hulp voor de fase te krijgen van microsoft-verkoopmedewerkers bij een deal voor co-verkoop.
+Zodra u aan de deal bent begonnen, kunt u de details van de voortgang die u maakt, verstrekken door de verkoopfasen in de levenscyclus van de deal te markeren. Er zijn vier fasen in de levenscyclus van de deal, afgezien van de initiële acceptatie of het maken en de uiteindelijke gewonnen of verloren fasen, zoals hieronder wordt vermeld. Het verstrekken van deze gegevens is optioneel, maar u wordt ten zeerste aangeraden deze te delen om de juiste hulp voor de fase te krijgen van microsoft-verkoopmedewerkers in een deal voor co-verkoop.
 
 :::image type="content" source="images/pscmigration/salesstage.png" alt-text="Afbeelding van de levenscyclus van de deal waarin de verkoopfase kan worden gemarkeerd.":::
 
@@ -163,8 +163,8 @@ Hieronder vindt u de tabel met de verkoopfasen en de bijbehorende percentages vo
 |**Naam verkoopfase**|**Percentage verkoopfase**|**Definitie van verkoopfase**|
 |:----|:-----|:-----|
 |Gemaakt|10%|Een uitgaande deal maken.|
-|Geaccepteerd|10%|Het accepteren van een binnenkomende deal.|
-|Gekwalificeerd|20%|De waarde van de deal en de vereisten van de klant kwalificeren voordat u verdergaat.|
+|Geaccepteerd|10%|Een inkomende deal accepteren.|
+|Gekwalificeerd|20%|De waarde van de deal en de klantvereisten kwalificeren voordat u verdergaat.|
 |Ontwikkeld|40%|De deal verder ontwikkelen om inzicht te krijgen in de gedetailleerde vereisten voor het voorbereiden van een POC of andere artefacten die vereist zijn voor een formeel voorstel.|
 |Voorgesteld|60%|Een formeel voorstel doen aan de klant op basis van hun vereisten.|
 |Onderhandeld|80%|Onderhandelen over de definitieve voorwaarden op basis van het voorstel om bij de eindtoestand te komen: winst of verlies van de deal.|
@@ -172,10 +172,10 @@ Hieronder vindt u de tabel met de verkoopfasen en de bijbehorende percentages vo
 
 Wanneer u klaar bent, kunt u een van de twee acties uitvoeren, die de deal markeren als **Gewonnen** of **Verloren** om het resultaat te rapporteren.
 
-Het is niet nodig dat uw bedrijf dezelfde verkoopfasen volgt. Dit is hoe Partner Center verkoopfasen van deal herkent en automatisch de fasen van uw bedrijf aan deze standaardfasen toekent als u deze waarden door geeft met behulp van de API. Als u de Partner Center UX gebruikt, worden de percentages zoals weergegeven in de tabel gebruikt om de verkoopfasen te markeren.
+Het is niet nodig dat uw bedrijf dezelfde verkoopfasen volgt. Dit is hoe Partner Center verkoopfasen van deal herkent en automatisch de fasen van uw bedrijf aan deze standaardfasen toekent als u deze waarden door geeft met behulp van de API. Als u de Partner Center gebruikt, worden de percentages zoals weergegeven in de tabel gebruikt om de verkoopfasen te markeren.
 
 > [!Note]
-> Voor bepaalde in aanmerking komende oplossingen wordt u, nadat u Gewonnen hebt geselecteerd, gevraagd om aanvullende informatie op te geven om uw deal te registreren. Microsoft bekijkt de informatie die u hier op geeft en kan tijdens het beoordelingsproces om aanvullende informatie vragen. Zie Uw deals registreren [voor meer informatie.](register-deals.md)
+> Voor bepaalde in aanmerking komende oplossingen wordt u, nadat u Gewonnen hebt geselecteerd, gevraagd om aanvullende informatie op te geven om uw deal te registreren. Microsoft beoordeelt de informatie die u hier op geeft en kan tijdens het beoordelingsproces om aanvullende informatie vragen. Zie Uw deals registreren [voor meer informatie.](register-deals.md)
 
 > [!Important]
 > Als de deal in aanmerking komt voor dealregistratie, zorg er dan voor dat er een hiaat van 72 uur is tussen het maken van de deal en de deal die als gewonnen wordt gemarkeerd. Het sluiten van de deal zoals eerder is gewonnen, kan ertoe leiden dat dealregistraties worden afgewezen.
@@ -196,7 +196,7 @@ Als de deal in aanmerking komt voor dealregistratie, wordt er een andere mijlpaa
 
 :::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Afbeelding van de levenscyclus van de deal, de locatie van waaruit de registratie van de deal kan worden gestart.":::
 
-U kunt ervoor kiezen om de deal onmiddellijk te registreren nadat u de deal als gewonnen hebt geregistreerd of op een later tijdstip via de knop Nu registreren **in** de levenscyclus van de deal.
+U kunt ervoor kiezen om de deal onmiddellijk te registreren nadat u de  deal als gewonnen hebt geregistreerd of op een later tijdstip via de knop Nu registreren in de levenscyclus van de deal.
 Zodra de deal is geregistreerd, kunt u de voortgang van de dealvalidatie vanuit dezelfde levenscyclus bekijken. Als er actie van uw bedrijf is vereist, worden de juiste fouten weergegeven in de levenscyclusweergave van de deal. De deal wordt gesloten wanneer de dealvalidatie is voltooid.
 
 > [!Important]
@@ -209,7 +209,7 @@ In de onderstaande tabel ziet u de combinaties van wie in deze fase van de deal 
 |**Oorspronkelijk dealtype**|**Wie kunnen worden uitgenodigd**|**Opmerkingen**|
 |-----|:-----|:-----|
 |Persoonlijk|Microsoft en/of andere partners|De deal wordt geüpgraded naar Co-sell als Microsoft wordt uitgenodigd.|
-|Persoonlijk|Microsoft-verkoopteam om de deals te bekijken|De deal wordt bijgewerkt naar Partner-led wanneer het Verkoopteam van Microsoft inzicht krijgt in de deals.|
+|Persoonlijk|Microsoft-verkoopteam om de deals te bekijken|De deal wordt bijgewerkt naar Partner-led wanneer het Microsoft-verkoopteam inzicht krijgt in de deals.|
 |Door partner geleid|Microsoft en/of andere partners|De deal wordt geüpgraded naar Co-sell als Microsoft wordt uitgenodigd.|
 |Co-sell|Andere partners|Andere partners kunnen alleen worden uitgenodigd als uw bedrijf de deal heeft gestart. Partners kunnen niet worden uitgenodigd voor deals op het tabblad Inkomende gegevens.|
 |Partner aan partner zonder Microsoft|Microsoft|De deal wordt geüpgraded naar een deal voor co-sell.|
@@ -223,9 +223,9 @@ Dit is de laatste fase voor alle verkoopkansen. U kunt alle deals bekijken die i
 
 **V. Kan een deal worden bewerkt nadat deze is gemarkeerd als Gewonnen of verloren?**
 
-Nee, deals kunnen niet worden gewijzigd zodra ze een terminale status krijgen. Verlopen, weigeren, gewonnen en verloren zijn terminale staten waarin geen verdere updates mogelijk zijn voor de deal. Wees voorzichtig wanneer u de deal naar een van deze terminale staten verplaatst.
+Nee, deals kunnen niet worden gewijzigd zodra ze zich in een terminale status verplaatsen. Verlopen, weigeren, gewonnen en verloren zijn terminale staten waarin geen verdere updates mogelijk zijn voor de deal. Wees voorzichtig wanneer u de deal naar een van deze terminale staten verplaatst.
 
-**V. Wie een e-mailmelding ontvangen van Partner Center?**
+**V. Wie een e-mailmelding van Partner Center?**
 
 In de onderstaande werkstroom wordt uitgelegd hoe de e-mailberichten worden verzonden naar de partners vanuit het Partner Center verwijzingssysteem voor inkomende verwijzingen van nieuwe partners.
 
@@ -253,4 +253,4 @@ Hier vindt u enkele tips om meer mogelijkheden voor co-verkoop te krijgen die ge
 
 - [De connector voor co-verkoop voor Dynamics 365 CRM kopen](connector-dynamics.md)
 
-- [De connector voor co-verkoop voor Salesforce CRM kopen](connector-salesforce.md)
+- [De connector voor co-verkoop voor Salesforce CRM op halen](connector-salesforce.md)

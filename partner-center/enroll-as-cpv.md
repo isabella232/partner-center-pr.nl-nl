@@ -1,6 +1,6 @@
 ---
 title: Registreren als Configuratiescherm leverancier
-description: Meer informatie over het registreren als een Configuratiescherm Vendor (CPV) in Partner Center zodat u CSP-partnersystemen beter kunt integreren met Partner Center API's.
+description: Leer hoe u zich kunt registreren als Configuratiescherm Vendor (CPV) in Partner Center zodat u CSP-partnersystemen beter kunt integreren met Partner Center API's.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: b8fd3627c2075a3aa63b2ac4bc9e940595e76fbd34a43fc00e8e10189b41aba3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6e31dfd73d2563bc6b41227a702690d74b7f306d
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690865"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957361"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Registreren als een Configuratiescherm leverancier om CSP-partnersystemen te integreren met Partner Center API's
 
@@ -30,12 +30,12 @@ De [Microsoft Configuratiescherm Vendor-overeenkomst controleren](https://go.mic
 
 ## <a name="working-in-partner-center"></a>Werken in Partner Center
 
-Nadat u zich hebt geregistreerd bij Partner Center CPV-ervaring en de CPV-overeenkomst hebt geaccepteerd, kunt u het volgende doen:
+Nadat u zich hebt geregistreerd voor Partner Center CPV-ervaring en de CPV-overeenkomst hebt geaccepteerd, kunt u het volgende doen:
 
-- Toepassingen met meerdere tenants beheren (toepassingen toevoegen aan Azure Portal, registreren en registratie ongedaan maken in Partner Center).
+- Toepassingen met meerdere tenants beheren (toepassingen toevoegen aan Azure Portal, registreren en de registratie van toepassingen in Partner Center).
 
     >[!Note] 
-    >CPV's moeten hun toepassingen registreren in Partner Center om te worden geautoriseerd voor Partner Center API's. Als u alleen toepassingen Azure Portal toevoegt aan de Partner Center, worden CPV-toepassingen Partner Center geautoriseerd. 
+    >CPV's moeten hun toepassingen registreren in Partner Center om te worden geautoriseerd voor Partner Center API's. Het toevoegen van toepassingen aan Azure Portal alleen staat CPV-toepassingen niet toe voor Partner Center API's. 
 
 - Uw CPV-profiel weergeven en beheren 
 

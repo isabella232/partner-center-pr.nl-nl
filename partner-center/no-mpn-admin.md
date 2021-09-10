@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a673aad22bd5f9609fcbde656fb45e93ef2f227e92aba59988708769471e09e7
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 283cc274e150615d8f32da0b3e81ea01e0d86f0a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685854"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957295"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Wat te doen als de enige beheerder voor uw MPN-programma het bedrijf heeft verlaten?
 
@@ -46,7 +46,7 @@ Als u naar  de pagina Gebruikersbeheer gaat en filtert op Globale beheerder, maa
 
 ## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Scenario 3: De mpn-partnerbeheerder/accountbeheerder/globale beheerder heeft het bedrijf verlaten en er zijn geen andere gebruikers die toegang hebben tot Azure AD van het bedrijf. Dit is een volledig verlies van toegang.
 
-Volg de [stappen voor het overnemen](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) van beheerders om als beheerder een niet-Azure Active Directory overnemen.
+Volg de [stappen voor het overnemen](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) van beheerders om een niet-beheerde map over te nemen als Azure Active Directory beheerder.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Weet u niet zeker of uw bedrijf al een werkaccount heeft?
 

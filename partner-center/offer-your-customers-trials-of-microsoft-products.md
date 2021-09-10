@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 625fd493b026faac924ff8a7a5af8dccb59ab7b3
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457851"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956965"
 ---
 # <a name="give-customers-free-trials-of-microsoft-products"></a>Klanten gratis proefversies van Microsoft-producten geven
 
@@ -32,7 +32,7 @@ Elke klant heeft recht op één gratis proefversie voor elke beschikbare aanbied
 
 Gratis proefversies zijn beschikbaar voor de meest uitgebreide en populaire aanbiedingen op basis van luizen. Nieuwe proefaanbiedingen kunnen maandelijks worden geïntroduceerd.
 
-Partners kunnen proefversies vinden in de maandelijkse prijslijst op de **pagina met** prijzen en aanbiedingen in Partner Center. Voor proefaanbiedingen wordt 'TRIAL' vermeld in de prijslijst **Secundair licentietype.**
+Partners kunnen proefversies vinden in de lijst met maandelijkse prijzen op de **pagina met** prijzen en aanbiedingen in Partner Center. Voor proefaanbiedingen wordt 'TRIAL' vermeld in de prijslijst **Secundair licentietype.**
 
 Er zijn momenteel **geen gratis proefversies voor** overheidsaanbiedingen, onderwijsaanbiedingen of invoegaanbiedingen.
 
@@ -47,7 +47,7 @@ Proeflicenties moeten op dezelfde manier aan gebruikers worden toegewezen als de
 Een proefversie van uw klant krijgen in Partner Center:
 
 1. Ga **vanuit** Verkopen op Partner Center naar **Catalogus.** 
-2. Selecteer in de catalogus bij **Factureringsfrequentie** de optie **Proefaanbieding.** Hierdoor kunnen alleen gratis proefversies worden weergegeven en worden andere aanbiedingen uitgeschakeld die niet gratis zijn. Proefversies worden weergegeven op **het tabblad Proefversies** in de catalogus.
+2. Selecteer in de catalogus bij **Factureringsfrequentie** de optie **Proefabonnement.** Hierdoor kunnen alleen gratis proefversies worden weergegeven en worden andere aanbiedingen uitgeschakeld die niet gratis zijn. Proefversies worden weergegeven op het **tabblad Proefversies** in de catalogus.
 3. Selecteer de gratis proefversie die u wilt aanbieden en selecteer vervolgens **Verzenden.** Alle proefversies worden gedurende 30 dagen niet gefactureerd. U kunt deze ook op elk moment tijdens de proefversie converteren naar een betaald abonnement.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Proefversies converteren naar betaalde abonnementen
@@ -77,7 +77,7 @@ Mogelijk moet u uw API's wijzigen om de conversie van een gratis proefversie naa
 
 ### <a name="trials-without-conversions"></a>Proefversies zonder conversies
 
-Niet alle proefversies kunnen worden geconverteerd naar betaalde abonnementen. Partners kunnen een proefversie gebruiken die geen conversies heeft tot de vervaldatum. Partners kunnen compatibele aanbiedingen kopen die dezelfde services ondersteunen als de proefaanbieding.  Dit moet worden gedaan voordat de proefversie verloopt om ervoor te zorgen dat de services van de nieuw gekochte aanbiedingen zijn afgestemd op de services van de proefversie. 
+Niet alle proefversies kunnen worden geconverteerd naar betaalde abonnementen. Partners kunnen een proefversie gebruiken die geen conversies heeft tot de vervaldatum. Partners kunnen compatibele aanbiedingen aanschaffen die dezelfde services ondersteunen als de proefaanbieding.  Dit moet worden gedaan voordat de proefversie verloopt om ervoor te zorgen dat de services van de nieuw gekochte aanbiedingen zijn afgestemd op de services van de proefversie. 
 
 |**Proefversie**   |**Compatibele aanbiedingen voor kleine bedrijven**   |**Compatibele Enterprise-aanbiedingen**   |
 |----------------------------|:---------------------------------|:------------------------------------------|

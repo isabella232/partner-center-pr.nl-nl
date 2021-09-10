@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 748aeb10538e794e6e47c495c8337e3fb43daf15
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457987"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956941"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Overzicht van partneraanbiedingen in het Cloud Solution Provider-programma
 
@@ -22,7 +22,7 @@ ms.locfileid: "123457987"
 
 Microsoft-partners in het Cloud Solution Provider-programma (CSP) hebben een groeiende catalogus met aanbiedingen die voor hen beschikbaar zijn. U kunt het volledige scala aan [Microsoft-cloudservices en](https://partner.microsoft.com/cloud-solution-provider/products-and-services)verschillende andere aanbiedingen verkopen die regelmatig veranderen. Als u de CSP-aanbiedingen voor de huidige maand wilt bekijken, meld u zich aan bij Partner Center gaat u naar de pagina [**Prijzen en**](https://partnercenter.microsoft.com/pcv/sales) aanbiedingen.  
 
-Nog niet ingeschreven bij het Cloud Solution Provider programma? Ga [Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider) voor meer informatie over hoe u zich kunt registreren. 
+Nog niet ingeschreven bij het Cloud Solution Provider programma? Ga [Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider) voor meer informatie over het inschrijven. 
 
 >[!NOTE]
 >Vanaf 31 januari 2020 moeten alle klanten de Microsoft-klantovereenkomst. Dit omvat uw bestaande klanten en nieuwe klanten. Lees Acceptatie van klantacceptatie [van](confirm-customer-agreement.md) de Microsoft-klantovereenkomst
@@ -52,7 +52,7 @@ Zie Klantabonnementen [voor meer informatie.](customer-subscriptions.md)
 > [!NOTE] 
 > Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van de nieuwe commerce-ervaring M365/D365.
 
-Aanbiedingen voor nieuwe commerce-ervaring verschillen *op* verschillende manieren van de traditionele onlineserviceabonnementen. Lees overzicht van nieuwe commerce-ervaringen voor meer informatie over [deze nieuwe commerce-ervaringen.](new-commerce-license-based.md)
+Nieuwe commerce-ervaringsaanbiedingen verschillen *op* verschillende manieren van de traditionele onlineserviceabonnementen. Lees overzicht van nieuwe commerce-ervaringen voor meer informatie over [deze nieuwe commerce-ervaringen.](new-commerce-license-based.md)
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Software as a Service (SaaS) en [andere Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) producten
 
@@ -61,9 +61,9 @@ Aanbiedingen voor nieuwe commerce-ervaring verschillen *op* verschillende manier
    U kunt ook informatie over deze producten vinden op de **pagina Marketplace.**
 
 >[!NOTE] 
->Deze pagina bevat ook informatie over andere soorten producten die moeten worden aangeschaft bij de Azure Portal, niet Partner Center.
+>Deze pagina bevat ook informatie over andere soorten producten die moeten worden gekocht bij de Azure Portal, niet Partner Center.
 
-Zie Overzicht van de commerciële [CSP-marketplace voor meer informatie](CSP-commercial-marketplace-overview.md)
+Zie Overzicht van de commerciële [CSP-marketplace](CSP-commercial-marketplace-overview.md) voor meer informatie
 
 ## <a name="add-products-page-details"></a>Details van de pagina Producten toevoegen
 
@@ -90,7 +90,7 @@ Als u producten en services namens uw CSP-klanten wilt kopen, selecteert u de it
 >[!NOTE]
 >Een CSP-aanbieding moet beschikbaar zijn in zowel uw tenantland als in het tenantland van uw klant. Als uw tenant zich bijvoorbeeld in Deen bevindt en de tenant van de klant zich in Duitsland bevindt, kunt u Dynamics 365 Business Central Premium niet verkopen aan die klant, omdat deze aanbieding momenteel niet beschikbaar is in Deens.
 
-1. Selecteer **Klanten** in het Partner Center en zoek vervolgens de klant die bij u wil kopen. 
+1. Selecteer **Klanten** in Partner Center menu en zoek vervolgens de klant die bij u wil kopen. 
 
 2. Selecteer de pijl-omlaag aan het einde van de rij van de klant om de record van de klant uit te vouwen en selecteer **vervolgens Producten toevoegen.** Vanaf nu bent u bezig met het maken van een order. Een order kan meerdere items van verschillende typen bevatten, maar deze moeten allemaal voor dezelfde klant zijn.
 

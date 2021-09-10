@@ -9,29 +9,29 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b60452fe1a5c73a4ae1ba630f7304d7d45b60eeb58f1b8fe6d67e299fcf27cc9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d8d9bc05d2fe5ca87c5fa9f13371305a48fb6a52
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692939"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957241"
 ---
-# <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>De service health controleren voor een klant die een mogelijk serviceprobleem of een mogelijke uitval rapporteert
+# <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>De service health controleren voor een klant die een mogelijk serviceprobleem of een mogelijke storing rapporteert
 
-**Juiste rollen:** beheeragent | Globale beheerder | Helpdeskagent | Verkoopagent
+**Juiste rollen:** beheeragent | Globale | Helpdeskagent | Verkoopagent
 
-In dit artikel wordt uitgelegd hoe u Partner Center service health voor een klant te controleren wanneer ze een probleem met een service ervaren. 
+In dit artikel wordt uitgelegd hoe u Partner Center service health voor een klant kunt controleren wanneer ze een probleem met een service ervaren. 
 
 ## <a name="check-service-health"></a>Servicestatus controleren
 
-1. Selecteer in **de** lijst Klant de klant die het probleem **heeft.**
+1. Selecteer de **Klant** die het probleem heeft in de **lijst Klant.**
 
 2. Selecteer **Servicebeheer** in het menu links. Hiermee worden de services weergegeven die zijn ingericht voor de klant en de service health voor elke service. Partners kunnen klikken op de service waarin ze geïnteresseerd zijn voor meer informatie. 
 
 >[!NOTE] 
-> Met service health-koppelingen op de **pagina's** voor servicebeheer gaat de partner naar het M365-beheercentrum of het Azure Portal **als gedelegeerde beheerder.** Zodra de partner bij een van beide bestemmingen is, kan de partner navigeren naar de service health-pagina's in beide portals voor meer informatie over de storing.
+> Met service health-koppelingen op de **servicebeheerpagina's** gaat de partner naar het M365-beheercentrum of naar het Azure Portal **als gedelegeerde beheerder.** Zodra de partner een van beide bestemmingen heeft bereikt, kan de partner naar de service health-pagina's in beide portals navigeren voor meer informatie over de storing.
  
-Tijdens een service-storing levert Microsoft regelmatig updates terwijl we het probleem oplossen. Deze meldingen worden ook weergegeven in de Microsoft Azure-portal of het Microsoft 365-beheercentrum.
+Tijdens een service-storing levert Microsoft regelmatig updates terwijl we het probleem oplossen. Deze meldingen worden ook weergegeven in de Microsoft Azure portal of het Microsoft 365-beheercentrum.
 
 ## <a name="next-steps"></a>Volgende stappen 
 

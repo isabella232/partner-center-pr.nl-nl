@@ -1,5 +1,5 @@
 ---
-title: API voor rapportquery's Insights gegevens
+title: API voor rapportquery's opvragen - Insights gegevens
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
@@ -8,16 +8,16 @@ description: Gebruik deze API om alle beschikbare query's op te halen voor gebru
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 943eea26a08f1072b6ddcaf8136b7f9f757d52b8c0170f03519b8787c1877bd3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695183"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957424"
 ---
 # <a name="get-report-queries-api"></a>API voor rapportquery's opvragen
 
-De API Rapportquery's krijgen haalt alle query's op die beschikbaar zijn voor gebruik in rapporten. Alle systeem- en door de gebruiker gedefinieerde query's worden standaard opgevraagd.
+De API Rapportquery's verkrijgen haalt alle query's op die beschikbaar zijn voor gebruik in rapporten. Alle systeem- en door de gebruiker gedefinieerde query's worden standaard opgevraagd.
 
 **Aanvraagsyntaxis**
 
@@ -42,8 +42,8 @@ Geen
 
 |    Parameternaam    |    Type    |    Vereist    |    Beschrijving    |
 |    ----    |    ----    |    ----    |    ----    |
-|    queryId     |    tekenreeks     |    No    |    Filter om details op te halen van alleen query's met de id die is opgegeven in het argument     |
-|    queryName     |    tekenreeks     |    No    |    Filter om details op te halen van alleen query's met de naam die is opgegeven in het argument     |
+|    queryId     |    tekenreeks     |    No    |    Filter om alleen details van query's op te halen met de id die is opgegeven in het argument     |
+|    queryName     |    tekenreeks     |    No    |    Filter om alleen details van query's op te halen met de naam die is opgegeven in het argument     |
 |    IncludeSystemQueries     |    booleaans     |    No    |    Vooraf gedefinieerde systeemquery's opnemen in het antwoord     |
 |    IncludeOnlySystemQueries     |    booleaans     |    No    |    Alleen systeemquery's opnemen in het antwoord     |
 |        |        |        |        |
@@ -61,7 +61,7 @@ Geen
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Responscode: 200, 400, 401, 403, 404, 500
+Antwoordcode: 200, 400, 401, 403, 404, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -92,9 +92,9 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    ----    |    ----    |
 |    QueryId     |    Unieke UUID van de query     |
 |    Name     |    Naam die aan de query is gegeven op het moment dat de query wordt gemaakt     |
-|    Description     |    Beschrijving gegeven tijdens het maken van de query     |
+|    Description     |    Beschrijving opgegeven tijdens het maken van de query     |
 |    Query’s uitvoeren     |    Rapportqueryreeks     |
-|    Type     |    Ingesteld op userDefined voor door de gebruiker gemaakte query's en systeem voor vooraf gedefinieerde systeemquery's     |
+|    Type     |    Ingesteld op userDefined voor door de gebruiker gemaakte query's en het systeem voor vooraf gedefinieerde systeemquery's     |
 |    Gebruiker     |    Gebruikers-id die de query heeft gemaakt     |
 |    CreatedTime     |    Tijdstip van het maken van de query     |
 |    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |

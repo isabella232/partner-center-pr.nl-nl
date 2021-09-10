@@ -9,18 +9,18 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 13a5e2df85c6adffb1ebd423b25d654bc8b8f5966b4a757c6b24b4c8d1130594
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 838dc5cbce503f449c2796c8397625266f826059
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692310"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956956"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Facturering op basis van licenties in Partner Center
 
 **Juiste rollen:** Globale | Gebruikersbeheerbeheer | Factureringsbeheerders | Beheeragent
 
-Wanneer u producten of onlineservices in Partner Center waarvoor licenties zijn **vereist,** wordt u gefactureerd voor elke licentie *die* u koopt. U wordt *niet gefactureerd* op basis van het gebruik van deze licenties. (Zie Typen facturering in Partner Center .) voor meer informatie over facturering op basis van gebruik [en andere factureringstypen.](./billing-basics.md)
+Wanneer u producten of onlineservices in Partner Center waarvoor licenties zijn **vereist,** wordt u gefactureerd voor elke licentie *die* u koopt. U wordt *niet gefactureerd* op basis van het gebruik van deze licenties. (Zie Typen facturering in Partner Center .) voor informatie over facturering op basis van gebruik [en andere factureringstypen.](./billing-basics.md)
 
 ## <a name="license-billing-frequency"></a>Frequentie van licentiefacturering
 

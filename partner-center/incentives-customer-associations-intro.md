@@ -1,6 +1,6 @@
 ---
 title: Overzicht van CPOR-verbanden
-description: Lees meer over resources voor partners die klanten moeten koppelen aan specifieke incentives-programma's via het Claiming Partner of Record (CPOR)-model.
+description: Meer informatie over resources voor partners die klanten moeten koppelen aan specifieke incentives-programma's via het Claiming Partner of Record (CPOR)-model.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 05/20/2021
-ms.openlocfilehash: 8f1e61231d568e519237c50390dd370def4d8133f7f31ec1178ed68f72c80dea
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: b540f3f667095704bddd78873faac94246fbf59a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695200"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957136"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Gebruik deze resources om claims voor klantbinding te maken voor specifieke incentives-programma's
 
@@ -21,17 +21,17 @@ ms.locfileid: "115695200"
 
 In dit artikel worden resources gedeeld voor Microsoft-partners die voldoen aan de volgende criteria:
 
-- U maakt deel uit van de volgende Incentives-programma's van Microsoft: Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 en OSU-Business Application incentives.
+- U maakt deel uit van de volgende Microsoft Incentives-programma's: Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 en OSU-Business Application incentives.
 
-- U werkt met Microsoft 365- of Dynamics 365-klanten en u wilt een deel van dit werk verwijzen naar of claimen in de bovenstaande incentive-programma's.
+- U werkt met Microsoft 365 of Dynamics 365-klanten en wilt een deel van dit werk in de bovenstaande incentive-programma's verwijzen of claimen.
 
 Als u aan de criteria voldoet, moet u het CPOR-model (Claiming Partner of Record) gebruiken om klant verbanden voor deze incentives-programma's te maken en beheren.
 
 ## <a name="explaining-claiming-partner-of-record-cpor-to-customers"></a>Uitleg Claiming Partner of Record (CPOR) aan klanten
 
-Met CPOR kan Microsoft partners identificeren en herkennen die klanten helpen zakelijke doelstellingen te bereiken en waarde te realiseren in de cloud. Zodra een partner aan een workload of abonnement is koppelt, krijgt deze toegang tot gebruiksgegevens en/of verkochte seats. Met toegang tot dergelijke gegevens kunnen partners actief gebruik bewaken en tegelijkertijd klanten aanbevelingen geven over het maximaliseren van het gebruik. Partners hebben geen toegang tot andere klantgegevens. Daarnaast helpt de CPOR-associatie Microsoft inzicht te krijgen in het ecosysteem van serviceproviders en helpt microsoft ook bij het verfijnen van de hulpprogramma's en programma's die nodig zijn om onze algemene klanten zo goed mogelijk te ondersteunen. Er is geen actie vereist voor de klant. We bieden klanten de mogelijkheid om af te zien van een CPOR-associatie. Klanten ontvangen een melding van partners over de aanvraag voor de associatie. Als een klant de associatie met een partner afkent, wordt de partner niet herkend als de recordpartner.
+Met CPOR kan Microsoft partners identificeren en herkennen die klanten helpen zakelijke doelstellingen te bereiken en waarde te realiseren in de cloud. Zodra een partner aan een workload of abonnement is koppelt, krijgt deze toegang tot gebruiksgegevens en/of verkochte seats. Met toegang tot dergelijke gegevens kunnen partners actief gebruik bewaken en tegelijkertijd klanten aanbevelingen geven over het maximaliseren van het gebruik. Partners hebben geen toegang tot andere klantgegevens. Daarnaast helpt de CPOR-associatie Microsoft inzicht te krijgen in het ecosysteem van serviceproviders en helpt microsoft ook om te bepalen hoe de hulpprogramma's en programma's die nodig zijn om onze algemene klanten zo goed mogelijk te ondersteunen, moeten worden verfijnd. Er is geen actie vereist voor de klant. We bieden klanten de mogelijkheid om af te zien van een CPOR-associatie. Klanten ontvangen een melding van partners over de aanvraag voor de associatie. Als een klant de associatie met een partner afkent, wordt de partner niet herkend als de recordpartner.
 
-## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>Hoe verhouden klantorganisaties en CPOR zich tot incentives?
+## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>Hoe verhouden klant associations en CPOR zich tot incentives?
 
 Microsoft gebruikt nu het Claiming Partner of Record (CPOR)-model voor het beheren van de verbanden die u hebt met uw Microsoft 365 en Dynamics 365-klanten.
 

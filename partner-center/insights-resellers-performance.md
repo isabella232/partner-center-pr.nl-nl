@@ -4,30 +4,30 @@ ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Het prestatiedashboard voor resellers in Partner Center Insights biedt een overzicht van de prestaties van verschillende indirecte resellers van een indirecte provider Cloud Solution Provider (CSP).
+description: Het prestatiedashboard voor resellers in Partner Center Insights biedt een overzicht van de prestaties van verschillende indirecte resellers van een indirecte Cloud Solution Provider provider (CSP).
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c319cff5d67dbf477dc15d1eaf4e048141cb193b54be30187f385bee1532200f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 796af99cc405a72bebcd467b242dafb83ac756e5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683268"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957367"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Dashboard Voor resellerprestaties in Partner Center Insights
 
 **Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
-Het prestatiedashboard voor resellers in Partner Center Insights biedt een overzicht van de prestaties van verschillende indirecte resellers van een indirecte provider Cloud Solution Provider (CSP). Het dashboard bevat gegevens over de resellers die actief zijn, hoeveel omzet ze genereren en welke producten de omzet aandrijken. Indirecte providers kunnen op naam naar een specifieke reseller zoeken en details voor de reseller op zoeken in het prestatiedashboard van de reseller.
+Het prestatiedashboard voor resellers in Partner Center Insights biedt een overzicht van de prestaties van verschillende indirecte resellers van een indirecte Cloud Solution Provider provider (CSP). Het dashboard bevat gegevens over de resellers die actief zijn, hoeveel omzet ze genereren en welke producten de omzet genereren. Indirecte providers kunnen op naam naar een specifieke reseller zoeken en details voor de reseller op zoeken in het prestatiedashboard van de reseller.
 
 U kunt de volgende secties bekijken op het dashboard Resellerprestaties.
 
 - Samenvatting
 - Geografische spreiding van resellers
 - Resellers add/churns 
-- Omzettrend resellers 
+- Omzettrend voor resellers 
 - Prestaties van resellers per producten
 - Actieve resellers per partnerlocaties
 - Trend in geodistributie van omzet
@@ -35,7 +35,7 @@ U kunt de volgende secties bekijken op het dashboard Resellerprestaties.
 - Ondertekeningsstatus Microsoft Partner-overeenkomst reseller -Microsoft Partner-overeenkomst (MPA)
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersrechten voor rapportviewers.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of rapportviewer voor leidinggevenden. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersrechten voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
@@ -47,9 +47,9 @@ In de Micro-grafiek wordt de trend voor de maand-over-maand weergegeven van afzo
 
 - Resellers afhandelen: Het aantal resellers dat in die maand ten minste één abonnement heeft verkocht. 
 
-In de Micro-grafiek wordt de trend voor de maand-over-maand weergegeven van resellers die zijn ingeschreven voor het geselecteerde datumbereik.
+In de Micro-grafiek wordt de maand-over-maandtrend weergegeven van resellers die zijn ingeschreven voor het geselecteerde datumbereik.
 
-- Nieuwe resellers: aantal resellers die in die maand zijn begonnen met de transacting met de indirecte provider. 
+- Nieuwe resellers: aantal resellers die in die maand zijn begonnen met de transactie met de indirecte provider. 
 
 In de Micro-grafiek wordt de trend voor de maand-over-maand weergegeven van het totale aantal nieuwe resellers tijdens het geselecteerde datumbereik.
 
@@ -79,9 +79,9 @@ Deze weergave biedt een maand op maandsplitsing van het aantal nieuwe **reseller
 
 :::image type="content" source="images/insights/resellers-performance-add-churn.png" alt-text="Resellers voegen/verloop toe.":::
 
-## <a name="resellers-revenue-trend"></a>Omzettrend resellers 
+## <a name="resellers-revenue-trend"></a>Omzettrend voor resellers 
 
-Deze weergave biedt een maandelijkse trend van de gefactureerde omzet (USD) gesplitst per producten, namelijk Office 365, Dynamics 365, Enterprise Mobility and Security (EMS), Microsoft Power BI en Azure. De algehele metrische gegevens worden voor elke maand geaggregeerd in de verschillende producten. De partner kan op naam naar een specifieke reseller zoeken en gegevens voor die specifieke wederverkoper opzoekt. Het veld Gefactureerde omzet (USD) in het raster is sorteerbaar.
+Deze weergave biedt een maandelijkse trend van de gefactureerde omzet (USD) gesplitst per producten, namelijk Office 365, Dynamics 365, Enterprise Mobility and Security (EMS), Microsoft Power BI en Azure. De algehele metrische gegevens worden voor elke maand geaggregeerd in de verschillende producten. De partner kan op naam naar een specifieke reseller zoeken en gegevens voor die specifieke reseller opzoekt. Het veld Gefactureerde omzet (USD) in het raster is sorteerbaar.
 
 :::image type="content" source="images/insights/resellers-performance-revenue-trend.png" alt-text="Omzettrend voor resellers.":::
 
@@ -105,19 +105,19 @@ Deze weergave biedt een maand-op-maandtrend van de gefactureerde omzet (USD) ges
 
 ## <a name="reseller-performance-by-customer-segment"></a>Resellerprestaties per klantsegment
 
-Deze weergave biedt een partner inzicht in de maandelijkse trend van omzet USD, het aantal abonnementen en licenties, opgesplitst in verschillende klantsegmenten. De top vijf klantsegmenten worden weergegeven in de grafiek en de resterende segmenten worden gecategoriseerd als 'Overige'.
+Met deze weergave kan een partner inzicht krijgen in de maandelijkse trend van omzet USD, het aantal abonnementen en licenties, opgesplitst in verschillende klantsegmenten. De top vijf klantsegmenten worden weergegeven in de grafiek en de resterende segmenten worden gecategoriseerd als 'Overige'.
 
 :::image type="content" source="images/insights/resellers-performance-customer-segment.png" alt-text="Prestaties van resellers per klantsegment.":::
 
 ## <a name="reseller-mpa-signing-status"></a>MPA-ondertekeningsstatus reseller
 
-Deze weergave bevat de MPA-ondertekeningsstatus voor resellers, samen met aanvullende metagegevens zoals de status van de Microsoft Partner Network-doorlichting (MPN) en Partner Membership Center (PMC) voor Partner Center migratiestatus.
+Deze weergave bevat de MPA-ondertekeningsstatus voor resellers, samen met aanvullende metagegevens zoals de status van de Microsoft Partner Network-doorlichting (MPN) en Partner Membership Center (PMC) om de migratiestatus Partner Center te geven.
 
 :::image type="content" source="images/insights/resellers-performance-mpa-status.png" alt-text="MPA-ondertekeningsstatus voor resellers.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).
+- Zie voor meer rapporten [Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in Insights dashboard. [Meer informatie](insights-download-reports.md) 
+> U kunt de onbewerkte gegevens voor dit rapport downloaden uit de sectie Rapporten downloaden in Insights dashboard. [Meer informatie](insights-download-reports.md) 

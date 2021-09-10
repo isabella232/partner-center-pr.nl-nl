@@ -14,7 +14,7 @@
       displayName: mpn
     - name: Problemen met het instellen van accounts oplossen
       href: troubleshoot-account-sign-n.md
-    - name: Partner Membership Center pensioen
+    - name: Partner Membership Center met pensioen gaan
       href: partner-membership-center-retirement-faq.md
     - name: Lidmaatschapsvoordelen
       items:
@@ -106,7 +106,7 @@
           displayName: 'mpn, Advanced specializations'
     - name: Een Azure Expert MSP worden
       href: azure-expert-msp.md
-- name: Cloud Solution Provider (CSP)
+- name: Cloud Solution Provider program (CSP)
   href: csp-overview.md
   displayName: csp
   items:
@@ -413,7 +413,7 @@
     - name: Facturering voor Marketplace-aanbiedingen
       href: csp-commercial-marketplace-billing.md
       displayName: 'invoice, csp'
-    - name: Request an SLA credit from Microsoft (Een SLA-tegoed aanvragen van Microsoft)
+    - name: Een tegoed aanvragen bij Microsoft
       href: request-credit.md
     - name: Digitale handtekeningen weergeven - Partnercentrum India
       href: digital-signature.md
@@ -584,7 +584,7 @@
       href: new-commerce-license-based.md
       displayName: new commerce
       items:
-        - name: Nieuwe commerce telco payg
+        - name: Nieuw telco-betalen voor commerce
           href: new-commerce-telco-payg.md
         - name: Nieuwe commerciële promoties
           href: new-commerce-promotions.md
@@ -724,7 +724,7 @@
               href: insights-programmatic-system-queries.md
             - name: Voorbeeldquery's
               href: insights-programmatic-sample-queries.md
-            - name: Specificatie van aangepaste query's
+            - name: Aangepaste queryspecificatie
               href: insights-programmatic-custom-query.md
             - name: Voorbeeldtoepassing
               href: insights-programmatic-sample-application.md

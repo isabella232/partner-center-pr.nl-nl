@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 895b05f2beb8123d8b2cdc7ba43d559247b0c095ada7fddffa1bf554cfe5b233
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1a06da353c8069d15d597faeaaf8700df5f62fd1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687385"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957376"
 ---
 # <a name="programmatic-access-paradigm"></a>Programmatisch toegangsparadigma
 
@@ -89,13 +89,13 @@ Deze tabel bevat de belangrijkste definities van elementen in de nettolading van
 |        |        |        |        |
 
 > [!Note]
-> Zie Voorbeelden van voorbeeldquery's [voor aangepaste queryvoorbeelden.](insights-programmatic-sample-queries.md)
+> Zie Voorbeelden van voorbeeldquery's [voor voorbeelden van aangepaste query's.](insights-programmatic-sample-queries.md)
 
 ### <a name="sample-response"></a>Voorbeeldantwoord
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Antwoordcodes: 200, 400, 401, 403, 500
+Responscodes: 200, 400, 401, 403, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -129,11 +129,11 @@ Deze tabel bevat de belangrijkste definities van elementen in de nettolading van
 |    QueryId     |    Universally Unique Identifier (UUID) van de query die u hebt gemaakt     |
 |    Name     |    Gebruiksvriendelijke naam voor de query in de nettolading van de aanvraag     |
 |    Description     |    Beschrijving opgegeven tijdens het maken van de query     |
-|    Query’s uitvoeren     |    Rapportquery doorgegeven als invoer tijdens het maken van de query     |
+|    Query’s uitvoeren     |    Rapportquery die is doorgegeven als invoer tijdens het maken van de query     |
 |    Type     |    Ingesteld op `userDefined`     |
 |    Gebruiker     |    Gebruikers-id die wordt gebruikt om de query te maken     |
 |    CreatedTime     |    UTC-tijd dat de query is gemaakt in deze indeling: yyyy-MM-ddTHH:mm:ssZ     |
-|    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
+|    TotalCount     |    Aantal gegevenssets in de matrix Waarde     |
 |    StatusCode     |    Resultaatcode <br> De mogelijke waarden zijn 200, 400, 401, 403, 500     |
 |    message     |    Statusbericht van de uitvoering van de API     |
 |        |        |
@@ -145,17 +145,17 @@ Voor systeemquery's die we bieden, kan de API rapport maken ook worden aangeroep
 
 ### <a name="callback-url"></a>URL voor aanroep
 
-De API voor het maken van een rapport accepteert een callback-URL. Deze URL wordt aangeroepen zodra het genereren van het rapport is geslaagd. De callback-URL moet openbaar bereikbaar zijn. Naast de URL kan ook een callback-methode worden gegeven. De callback-methode kan alleen GET of POST zijn. De standaardmethode als er geen waarde wordt doorgegeven, is POST. De reportId die het genereren heeft voltooid, wordt altijd tijdens de callback terugverdiend.
+De API voor het maken van een rapport accepteert een callback-URL. Deze URL wordt aangeroepen zodra het genereren van het rapport is geslaagd. De callback-URL moet openbaar bereikbaar zijn. Naast de URL kan ook een callback-methode worden gegeven. De callback-methode kan alleen GET of POST zijn. De standaardmethode als er geen waarde wordt doorgegeven, is POST. De reportId die het genereren heeft voltooid, wordt altijd tijdens de callback doorberekend.
 
-POST-callback: Als de doorgegeven URL is, wordt de teruggeroepen `https://www.contosso.com/callback` URL `https://www.contosso.com/callback/<reportID>` 
+POST-callback: Als de doorgegeven URL `https://www.contosso.com/callback` is, wordt de teruggeroepen URL `https://www.contosso.com/callback/<reportID>` 
 
 GET-callback: als de doorgegeven URL is, wordt de teruggeroepen `https://www.contosso.com/callback` URL `https://www.contosso.com/callback?reportId=<reportID>` 
 
 ### <a name="executenow-reports"></a>ExecuteNow-rapporten
 
-Er is een inrichting voor het genereren van een rapport zonder planning. Het rapport API-nettolading maken kan een parameter accepteren, waardoor het rapport in dequeque wordt opgemaakt zodra de `ExecuteNow` API wordt aangeroepen. Wanneer `ExecuteNow` is ingesteld op true, worden de velden: , , genegeerd omdat deze rapporten niet zijn `StartTime` `RecurrenceCount` `RecurrenceInterval` gepland.
+Er is een inrichting voor het genereren van een rapport zonder planning. In het rapport API-nettolading maken kan een parameter worden geaccepteerd, waarmee het rapport in dequerie wordt opgemaakt zodra `ExecuteNow` de API wordt aangeroepen. Wanneer `ExecuteNow` is ingesteld op true, worden de velden, , genegeerd omdat deze rapporten niet zijn `StartTime` `RecurrenceCount` `RecurrenceInterval` gepland.
 
-Er kunnen twee extra velden worden doorgegeven wanneer `ExecuteNow` waar is, `QueryStartTime` en `QueryEndTime` . Deze twee velden overschrijven het veld `TIMESPAN` in de query. Deze velden zijn niet van toepassing op geplande rapporten, omdat gegevens continu worden gegenereerd gedurende een vaste periode die niet verandert.
+Er kunnen twee extra velden worden doorgegeven wanneer `ExecuteNow` waar is, `QueryStartTime` en `QueryEndTime` . Deze twee velden overschrijven het `TIMESPAN` veld in de query. Deze velden zijn niet van toepassing op geplande rapporten, omdat gegevens continu worden gegenereerd gedurende een vaste periode die niet verandert.
 
 ### <a name="request-syntax"></a>Aanvraagsyntaxis
 
@@ -178,7 +178,7 @@ Geen
 
 Geen
 
-### <a name="sample-request-payload"></a>Nettolading van voorbeeldaanvraag
+### <a name="sample-request-payload"></a>Voorbeeld van nettolading van aanvraag
 
 ```json
 {
@@ -207,9 +207,9 @@ De belangrijkste definities van elementen in de nettolading van de aanvraag word
 |    Beschrijving     |    Nee     |    Beschrijving van het gemaakte rapport     |    tekenreeks     |
 |    QueryId     |    Yes     |    Rapportquery-id     |    tekenreeks     |
 |    StartTime     |    Yes     |    UTC-tijdstempel waarop het genereren van het rapport begint. <br> De indeling moet zijn: yyyy-MM-ddTHH:mm:ssZ       |    tekenreeks     |
-|    ExecuteNow     |    No     |    Deze parameter moet worden gebruikt om een rapport te maken dat slechts één keer wordt uitgevoerd. `StartTime`en `RecurrenceInterval` `RecurrenceCount` worden genegeerd als deze is ingesteld op true. Het rapport wordt onmiddellijk asynchroon uitgevoerd     |    waar/onwaar     |
-|    QueryStartTime     |    No     |    Hiermee geeft u desgewenst de begintijd op voor de query die de gegevens extraheert. Deze parameter is alleen van toepassing voor één keer uitvoeringsrapport dat `ExecuteNow` is ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
-|    QueryEndTime     |    No     |    Hiermee geeft u desgewenst de eindtijd op voor de query die de gegevens extraheert. Deze parameter is alleen van toepassing voor één keer uitvoeringsrapport dat `ExecuteNow` is ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
+|    ExecuteNow     |    No     |    Deze parameter moet worden gebruikt om een rapport te maken dat slechts één keer wordt uitgevoerd. `StartTime`en `RecurrenceInterval` `RecurrenceCount` worden genegeerd als deze is ingesteld op true. Het rapport wordt onmiddellijk op een asynchrone manier uitgevoerd     |    waar/onwaar     |
+|    QueryStartTime     |    No     |    Hiermee geeft u eventueel de begintijd op voor de query die de gegevens extraheert. Deze parameter is alleen van toepassing voor één keer uitvoeringsrapport dat `ExecuteNow` is ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
+|    QueryEndTime     |    No     |    Hiermee geeft u eventueel de eindtijd op voor de query die de gegevens extraheert. Deze parameter is alleen van toepassing voor één keer uitvoeringsrapport dat `ExecuteNow` is ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
 |    RecurrenceInterval     |    Yes     |    Frequentie in uren waarop het rapport moet worden gegenereerd. <br> Minimumwaarde is 4 en Maximumwaarde is 2160.      |    geheel getal     |
 |    RecurrenceCount     |    No     |    Het aantal rapporten dat moet worden gegenereerd.     |    geheel getal     |
 |    Indeling     |    No     |    Bestandsindeling van het geëxporteerde bestand. <br> De standaardwaarde is CSV.    |    "CSV"/"TSV"     |
@@ -221,7 +221,7 @@ De belangrijkste definities van elementen in de nettolading van de aanvraag word
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Antwoordcodes: 200, 400, 401, 403, 404, 500
+Responscodes: 200, 400, 401, 403, 404, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -268,10 +268,10 @@ De belangrijkste definities van elementen in het antwoord worden hieronder verwo
 |    Query’s uitvoeren     |    Querytekst die wordt uitgevoerd voor dit rapport     |
 |    Gebruiker     |    Gebruikers-id die wordt gebruikt om het rapport te maken     |
 |    CreatedTime     |    UTC-tijd dat het rapport is gemaakt in deze indeling: yyyy-MM-ddTHH:mm:ssZ     |
-|    ModifiedTime     |    UTC Tijd dat het rapport voor het laatst is gewijzigd in deze indeling: yyyy-MM-ddTHH:mm:ssZ     |
-|    ExecuteNow     |    `ExecuteNow` de vlag die is ingesteld op het moment dat het rapport is gemaakt     |
-|    StartTime     |    UTC Tijd dat de uitvoering van het rapport in deze indeling begint: yyyy-MM-ddTHH:mm:ssZ     |
-|    ReportStatus     |    Status van de uitvoering van het rapport. De mogelijke waarden zijn `Paused` , `Active` en `Inactive`     |
+|    ModifiedTime     |    UTC-tijd dat het rapport voor het laatst is gewijzigd in deze indeling: yyyy-MM-ddTHH:mm:ssZ     |
+|    ExecuteNow     |    `ExecuteNow` vlag die is ingesteld op het moment dat het rapport is gemaakt     |
+|    StartTime     |    UTC-tijd dat de uitvoering van het rapport in deze indeling begint: yyyy-MM-ddTHH:mm:ssZ     |
+|    ReportStatus     |    Status van de uitvoering van het rapport. De mogelijke waarden zijn `Paused` `Active` , en `Inactive`     |
 |    RecurrenceInterval     |    Terugkeerpatroon dat is opgegeven tijdens het maken van het rapport     |
 |    RecurrenceCount     |    Aantal terugkeerpatroon dat is opgegeven tijdens het maken van het rapport.      |
 |    CallbackUrl     |    Callback-URL die is opgegeven in de aanvraag     |
@@ -282,12 +282,12 @@ De belangrijkste definities van elementen in het antwoord worden hieronder verwo
 |    message     |    De mogelijke waarden zijn 200, 400, 401, 403, 500. Statusbericht van de uitvoering van de API     |
 |        |        |
 
-## <a name="get-report-execution-api"></a>API voor rapportuitvoeringen krijgen
+## <a name="get-report-execution-api"></a>API voor rapportuitvoering op halen
 
-U kunt deze methode gebruiken om de status van een rapportuitvoering op te vragen met behulp van de ReportId die u hebt ontvangen [van De rapport-API maken.](#create-report-api) De methode retourneert de downloadkoppeling voor het rapport als het rapport gereed is om te worden gedownload. Anders retourneert de methode de status. U kunt deze API ook gebruiken om alle uitvoeringen op te halen die voor een bepaald rapport zijn uitgevoerd.  
+U kunt deze methode gebruiken om een query uit te voeren op de status van de uitvoering van een rapport met behulp van de ReportId die is ontvangen van [de API voor het maken van een rapport.](#create-report-api) De methode retourneert de downloadkoppeling voor het rapport als het rapport gereed is om te worden gedownload. Anders retourneert de methode de status. U kunt deze API ook gebruiken om alle uitvoeringen op te halen die voor een bepaald rapport zijn uitgevoerd.  
 
 >[!IMPORTANT]
->Voor deze API zijn standaardqueryparameters ingesteld `executionStatus=Completed` voor en `getLatestExecution=true` . Als u de API aanroept voordat het rapport voor de eerste keer wordt uitgevoerd, wordt er dus 404 als uitvoerder gebruikt. Uitvoeringen in behandeling kunnen worden verkregen door in te `executionStatus=Pending` stellen.
+>Voor deze API zijn standaardqueryparameters ingesteld `executionStatus=Completed` voor en `getLatestExecution=true` . Het aanroepen van de API voordat het rapport voor het eerst wordt uitgevoerd, retournt dus 404. Uitvoeringen in behandeling kunnen worden verkregen door in te `executionStatus=Pending` stellen.
 
 ### <a name="request-syntax"></a>Aanvraagsyntaxis
 
@@ -306,16 +306,16 @@ U kunt deze methode gebruiken om de status van een rapportuitvoering op te vrage
 
 |    Parameternaam    |    Vereist    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId    |    Yes    |    tekenreeks    |    Filter om alleen uitvoeringsdetails van rapporten op te halen met de reportId die in dit argument is opgegeven. Meerdere reportIds kunnen worden opgegeven door ze te scheiden met een puntkomma ;".    |
+|    reportId    |    Yes    |    tekenreeks    |    Filter om alleen uitvoeringsdetails op te halen van rapporten met de reportId die in dit argument is opgegeven. Meerdere reportIds kunnen worden opgegeven door ze te scheiden met een puntkomma ;".    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Queryparameter
 
 |    Parameternaam    |    Vereist    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |    ----    |
-|    executionId    |    No    |    tekenreeks    |    Filter om alleen details van rapporten op te halen met de executionId die in dit argument is opgegeven. Meerdere executionIds kunnen worden opgegeven door ze te scheiden met een puntkomma ;".    |
+|    executionId    |    No    |    tekenreeks    |    Filter om alleen details op te halen van rapporten met de executionId die in dit argument is opgegeven. Meerdere executionIds kunnen worden opgegeven door ze te scheiden met een puntkomma ;".    |
 |    executionStatus    |    No    |    Tekenreeks/enum    |    Filter om alleen details op te halen van rapporten met de executionStatus in dit argument. <br> Geldige waarden zijn: `Pending` `Running` , en `Paused` `Completed` . <br> De standaardwaarde is `Completed`. <br> Meerdere statussen kunnen worden opgegeven door ze te scheiden met een puntkomma ;".    |
-|    getLatestExecution    |    No    |    booleaans    |    De API retournt gegevens over de meest recente uitvoering. Deze parameter is standaard ingesteld op true.<br> Als u ervoor kiest om de waarde van deze parameter als onwaar door te geven, retourneert de API de uitvoerings-exemplaren van de afgelopen 90 dagen.    |
+|    getLatestExecution    |    No    |    booleaans    |    De API retournt details van de meest recente uitvoering. Deze parameter is standaard ingesteld op true.<br> Als u ervoor kiest om de waarde van deze parameter als onwaar door te geven, retourneert de API de uitvoerings-exemplaren van de afgelopen 90 dagen.    |
 |        |        |        |        |
 
 ### <a name="sample-request-payload"></a>Voorbeeld van nettolading van aanvraag
@@ -326,7 +326,7 @@ Geen
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Responscodes: 200, 400, 401, 403, 404, 500
+Antwoordcodes: 200, 400, 401, 403, 404, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -364,14 +364,14 @@ Sleuteldefinities van elementen in het antwoord.
 
 |    Parameter    |    Beschrijving    |
 |    ----    |    ----    |
-|    ExecutionId    |    Universally Unique Identifier (UUID) van het uitvoerings exemplaar    |
-|    ReportId    |    Rapport-id die is gekoppeld aan het uitvoerings exemplaar    |
+|    ExecutionId    |    Universally Unique Identifier (UUID) van het uitvoerings-exemplaar    |
+|    ReportId    |    Rapport-id die is gekoppeld aan het uitvoerings-exemplaar    |
 |    RecurrenceInterval    |    Terugkeerpatroon dat is opgegeven tijdens het maken van het rapport    |
 |    RecurrenceCount    |    Aantal terugkeerpatroon dat is opgegeven tijdens het maken van het rapport    |
 |    CallbackUrl    |    Callback-URL die is gekoppeld aan het uitvoeringsin exemplaar    |
 |    CallbackMethod    |    Callback-methode die is gekoppeld aan het uitvoeringsin exemplaar    |
 |    Indeling    |    Indeling van het gegenereerde bestand aan het einde van de uitvoering    |
-|    ExecutionStatus    |    Status van het exemplaar van de uitvoering van het rapport. <br> Geldige waarden zijn: `Pending` `Running` , , `Paused` en `Completed`    |
+|    ExecutionStatus    |    Status van het exemplaar van de rapportuitvoering. <br> Geldige waarden zijn: `Pending` , `Running` , `Paused` en `Completed`    |
 |    ReportAccessSecureLink    |Koppeling waarmee het rapport veilig kan worden gebruikt        |
 |    ReportExpiryTime    |    UTC-tijd waarna de rapportkoppeling verloopt in deze indeling: yyyy-MM-ddTHH:mm:ssZ    |
 |    ReportGeneratedTime    |    UTC-tijd waarop het rapport is gegenereerd in deze indeling: yyyy-MM-ddTHH:mm:ssZ    |

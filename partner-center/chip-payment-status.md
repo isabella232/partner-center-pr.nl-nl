@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 680e3e284f8226f3f6ee0faeb89a4ab0fd689861a1d2fe47fefc7f48f3a8365f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692684"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957607"
 ---
 # <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>De betalingsstatus controleren in het Channel Incentives Platform (CHIP)
 

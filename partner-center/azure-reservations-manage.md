@@ -9,23 +9,23 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 376372c4a5d1fb25a1416c53ace68d2ca2d474cde15b514a4bb5329d7eddac21
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 627c6f8d09a904e7d988c4229ec10eeac38dc2e9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680716"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956869"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Reserveringen voor klanten beheren, annuleren, inruilen Microsoft Azure restitutie
 
 **Juiste rollen:** beheeragent | Globale beheerder | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
 
-In dit artikel wordt uitgelegd hoe u Azure-reserveringen voor een klant beheert, waaronder hoe u een reservering annuleert, een reservering omruilt of een restitutie aanvraagt.
+In dit artikel wordt uitgelegd hoe u Azure-reserveringen voor een klant beheert, waaronder hoe u een reservering annuleert, een reservering inwisselt of een restitutie aanvraagt.
 
 > [!NOTE]
-> Dit artikel is alleen van toepassing op partners in het Cloud Solution Provider (CSP)-programma. Klanten die andere typen abonnementen gebruiken (zoals betalen per gebruik, afzonderlijke, Microsoft-klantovereenkomst- of Enterprise Agreement-abonnementen), moeten in plaats daarvan deze documentatie voor [Azure-reserveringen lezen.](/azure/cost-management-billing/reservations)
+> Dit artikel is alleen van toepassing op partners in Cloud Solution Provider (CSP)-programma. Klanten die andere typen abonnementen gebruiken (zoals betalen per gebruik, afzonderlijke, Microsoft-klantovereenkomst- of Enterprise Agreement-abonnementen), moeten in plaats daarvan deze documentatie voor [Azure-reserveringen lezen.](/azure/cost-management-billing/reservations)
 
-Als u de Azure-reserveringen van uw klanten na aankoop wilt beheren, selecteert u de klant en reservering die u wilt beheren in Partner Center en wijzigt u de reservering vervolgens in de Azure Portal.
+Als u de Azure-reserveringen van uw klanten na de aankoop wilt beheren, selecteert u de klant en reservering die u wilt beheren in Partner Center en wijzigt u de reservering vervolgens in de Azure Portal.
 
 1. Om aan de slag **te** gaan, selecteert u Klanten in Partner Center menu en selecteert u vervolgens de klant waarvan u de reserveringen wilt beheren. 
 
@@ -39,11 +39,11 @@ Als u de Azure-reserveringen van uw klanten na aankoop wilt beheren, selecteert 
     | **Access Control (IAM)**   | Toegang tot de reserveringsgegevens van de klant beheren.|
     | **Configuratie**   | Wijzig het bereik van de reservering en/of het Azure-abonnement waar de reservering aan is gekoppeld.    |
     | **Eigenschappen**   | Bekijk de eigenschappen van de reservering en kopieer de reserverings-id en de order-id van de reservering naar het klembord. **OPMERKING** Ondersteuning kan u om de reserverings-id en reserveringsorder-id vragen wanneer u ondersteuning namens een klant aanvraagt.    |
-    | **Nieuwe ondersteuningsaanvraag**    | Vraag hulp aan Microsoft-ondersteuning.   |
+    | **Nieuwe ondersteuningsaanvraag**    | Vraag hulp aan bij Microsoft-ondersteuning.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Een reservering annuleren of inruilen
 
-Als het bedrijf van een klant op enig moment moet worden gewijzigd, kan het zijn dat hij een reservering wil annuleren en een restitutie wil krijgen of het restitutiebedrag van een reservering wil omruilen om te worden gebruikt voor de prijs van een nieuwe reservering.
+Als de bedrijfsbehoeften van een klant op enig moment veranderen, wil deze een reservering annuleren en een restitutie krijgen of het restitutiebedrag van een reservering inruilen om deze te gebruiken voor de prijs van een nieuwe reservering.
 
 In beide scenario's wordt het bedrag door Microsoft aan u terugbetaald, zodat u vervolgens de resulterende financiële transacties met uw klanten kunt beheren. Microsoft neemt niet rechtstreeks contact op met klanten over facturering, annuleringen of restituties.
 
@@ -97,5 +97,5 @@ Als u een ondersteuningsaanvraag voor een restitutie of omruiling namens uw klan
 |Overzicht van Azure-reserveringen in CSP  | [Verkopen Microsoft Azure gereserveerde instanties](azure-reservations.md) |
 |Azure-reserveringen kopen voor uw klanten in Partner Center   | [Azure-reserveringen kopen](azure-reservations-buying.md) |
 |De juiste VM-grootte bepalen en het gebruik van de klant-VM controleren   | [VM-formaat voor maximaal gebruik van Azure-reserveringen](azure-usage.md)   |
-|Azure-reserveringen kopen met behulp van Partner Center API | [Aankoop Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) in de documentatie Partner Center ontwikkelaars   |
+|Azure-reserveringen kopen met behulp van Partner Center API | [Aankoop Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) in de documentatie voor Partner Center-ontwikkelaars   |
 |Klanten toestemming geven om hun eigen Azure-reserveringen te kopen bij een abonnement dat u voor hen hebt aangeschaft. | [Klanten toestemming geven om hun eigen Azure-reserveringen te kopen](give-customers-permission.md)   |

@@ -8,18 +8,18 @@ description: Gebruik Partner Center om zaken te doen met Microsoft en uw klanten
 author: jasongroce
 ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: 381e523a47526edeb6756f72948a5c36f934304b58edfa003e9f2dad482224f1
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d60adb307e57fb63e0257954f3f0cc578f9c25d1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696547"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957565"
 ---
 # <a name="what-is-partner-center"></a>Wat is Partnercentrum?
 
 **Juiste rollen:** alle partners die geïnteresseerd zijn in Partner Center
 
-[Partner Center](https://partner.microsoft.com/dashboard/home) stroomlijnt verschillende bedrijfsprocessen om het voor Microsoft-partners eenvoudiger te maken om hun relatie met Microsoft en hun klanten te beheren. Partner Center geeft u toegang tot de hulpprogramma's die u nodig hebt om werk gedaan te krijgen. Gebruik Partner Center om:
+[Partner Center](https://partner.microsoft.com/dashboard/home) bedrijfsprocessen stroomlijnen om het voor Microsoft-partners eenvoudiger te maken om hun relatie met Microsoft en hun klanten te beheren. Partner Center geeft u toegang tot de hulpprogramma's die u nodig hebt om werk gedaan te krijgen. Gebruik Partner Center voor het volgende:
 
 - Uw gebruikers Microsoft-account beheren
 - Contact met klanten
@@ -29,13 +29,13 @@ ms.locfileid: "115696547"
 - Klantabonnementen beheren
 - Facturen en betaald krijgen
 - Contact opnemen met ondersteuning
-- Aanbiedingen publiceren of verkennen in de commerciële marketplace van [Microsoft,](/azure/marketplace)een catalogus met duizenden klantgerichte, verteerbare services en toepassingen die zijn gebouwd en geleverd door onze ISV-partners (Independent Software Vendor).
+- Publiceer of verken aanbiedingen in de commerciële marketplace van [Microsoft,](/azure/marketplace)een catalogus met duizenden klantgerichte, veractieve services en toepassingen die zijn gebouwd en geleverd door onze ISV-partners (Independent Software Vendor).
 
 :::image type="content" source="images/home.png" alt-text="Partner Center overzicht.":::
 
 ## <a name="manage-your-account"></a>Uw account beheren
 
-Of u nu een partner in het Cloud Solution Provider-programma bent of een ontwikkelaarpartner bent die uw apps verkoopt, u beheert uw Partner Center-account vanaf één locatie voor accountinstellingen: Partner Center [dashboard](https://partner.microsoft.com/dashboard/home). Van hieruit kunt u juridische gegevens, belastinggegevens, tenants, bedrijfslocaties, gebruikers en machtigingen en specifieke programma's wijzigen waarin uw bedrijf is ingeschreven.
+Of u nu een partner bent in het Cloud Solution Provider-programma of een ontwikkelaarpartner bent die uw apps verkoopt, u beheert uw Partner Center-account vanaf één locatie voor accountinstellingen: Partner Center [dashboard](https://partner.microsoft.com/dashboard/home). Van hieruit kunt u juridische gegevens, belastinggegevens, tenants, bedrijfslocaties, gebruikers en machtigingen en specifieke programma's wijzigen waarin uw bedrijf is ingeschreven.
 
 Wat u kunt zien en beheren in Partner Center is afhankelijk van uw rol en machtigingen. Meer informatie in [Rollen en machtigingen.](permissions-overview.md)
 
@@ -47,7 +47,7 @@ Binnen Partner Center kunt u een Microsoft Action Pack aanschaffen die Microsoft
 
 ## <a name="connect-with-customers"></a>Communiceren met klanten
 
-Bouw uw bedrijfsprofiel om de expertisegebieden van uw bedrijf weer te geven. Markeer uw technische expertise en expertise op het gebied van oplossingen, toon de breedte en diepte van uw vaardigheden en laat u leiden in nieuwe marktkansen. Via Partner Center hebben partners meer toegang tot marketingbronnen om hen te helpen sneller op de markt te komen, leads te genereren en hun cloudbedrijf te laten groeien. Met de productcatalogus van de commerciële marketplace, Microsoft AppSource en Azure Marketplace, kunt u informatie en productinkopen aanbieden. Uw oplossingen worden vermeld in onze online winkels naast onze eigen Microsoft-oplossingen, om u te verbinden met bedrijven, organisaties en overheidsinstanties over de hele wereld. Lees Manage different leads [like customer inquiries, marketing-qualified leads, and sales-qualified leads](manage-leads.md)(Verschillende leads beheren, zoals vragen van klanten, door marketing gekwalificeerde leads en door de verkoop gekwalificeerde leads) voor meer informatie over verwijzingen. Lees Een bedrijfsprofiel maken voor meer informatie [over uw bedrijfsprofiel.](create-a-marketing-profile.md)
+Bouw uw bedrijfsprofiel om de expertisegebieden van uw bedrijf weer te geven. Markeer uw technische expertise en expertise op het gebied van oplossingen, toon de breedte en diepte van uw vaardigheden en laat u leiden in nieuwe marktkansen. Via Partner Center hebben partners meer toegang tot marketingbronnen om hen te helpen sneller op de markt te komen, leads te genereren en hun cloudbedrijf te laten groeien. Met de commerciële marketplace-productcatalogus, Microsoft AppSource en Azure Marketplace, kunt u informatie en productinkopen aanbieden. Uw oplossingen worden vermeld in onze online winkels naast onze eigen Microsoft-oplossingen, en verbinden u met bedrijven, organisaties en overheidsinstanties over de hele wereld. Lees Manage different leads like [customer inquiries, marketing-qualified leads, and sales-qualified leads](manage-leads.md)(Verschillende leads beheren, zoals vragen van klanten, door marketing gekwalificeerde leads en door de verkoop gekwalificeerde leads) voor meer informatie over verwijzingen. Lees Een bedrijfsprofiel maken voor meer informatie [over uw bedrijfsprofiel.](create-a-marketing-profile.md)
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Co-sell met Microsoft en andere partners
 
@@ -55,17 +55,17 @@ Collectieve verkoop is het pad voor partners om gezamenlijk te verkopen met Micr
 
 ## <a name="manage-customer-software-needs"></a>Klantsoftwarebehoeften beheren
 
-Als vertrouwde partner speelt u een cruciale rol in alle fasen van de levenscyclus van de klant, ongeacht hoe klanten Microsoft-software en -services aanschaffen. Als uw klant u beheerdersbevoegdheden geeft, kunt u abonnementen implementeren en beheren, prestaties onderhouden, hun gebruikers instellen en zelfs ondersteuningstickets voor hen maken. Partner Center snelle en eenvoudige toegang tot ondersteuning van Microsoft op aanvraag om u te helpen uitdagingen beter op te lossen en te voldoen aan de behoeften van de klant. Meer informatie over het [aanbieden van klantondersteuning.](customer-support.md)
+Als vertrouwde partner speelt u een cruciale rol in alle fasen van de levenscyclus van de klant, ongeacht hoe klanten Microsoft-software en -services aanschaffen. Als uw klant u beheerdersbevoegdheden geeft, kunt u abonnementen implementeren en beheren, prestaties onderhouden, hun gebruikers instellen en zelfs ondersteuningstickets voor hen maken. Partner Center biedt snelle en eenvoudige toegang tot microsoft-ondersteuning op aanvraag om u te helpen uitdagingen beter op te lossen en te voldoen aan de behoeften van de klant. Meer informatie over het [aanbieden van klantondersteuning.](customer-support.md)
 
 ## <a name="maintain-a-secure-environment"></a>Een beveiligde omgeving onderhouden
 
-Met Azure Active Directory als hoofdelement van uw [Partner Center-account,](partner-security-requirements-mandating-mfa.md) zorgt u ervoor dat uw team meervoudige verificatie gebruikt om gegevens veilig te houden. Privacybeveiliging en -beveiliging zijn een van onze belangrijkste prioriteiten.
+Met Azure Active Directory als een hoofdelement van uw Partner Center account, zorgt u ervoor dat uw team [meervoudige](partner-security-requirements-mandating-mfa.md) verificatie gebruikt om gegevens veilig te houden. Privacybeveiliging en -beveiliging zijn een van onze belangrijkste prioriteiten.
 
 ## <a name="data-and-analytics"></a>Gegevens en analyse
 
 U kunt verschillende soorten gegevensrapporten openen vanuit het Partner Center dashboard:
 
-- Partner Contribution Indicators (PCI) tonen de impact van partners op zeven belangrijke maat maat voor succes van klanten
+- Pci-indicatoren (Partner Contribution Indicators) laten de impact van partners zien op zeven belangrijke maat voor klantsucces
 - Partner Insights-gegevensrapporten bepalen waar uw verkopen hoog zijn, helpen u erachter te komen welke klanten hun abonnementen hebben geïmplementeerd of ondersteuning nodig hebben en laten zien hoe goed uw producten worden verkocht.
 
 :::image type="content" source="images/insights/licenses-report-license-adds.png" alt-text="Bepaal waar uw licenties zich zijn.":::

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b14379f7e7750b3423d03be4addaca4e4a6a94834709b9f0b6e5891a185bb0c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e5fae4c9b9b40c8a71b56c46d0d1be629f832842
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681192"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957499"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informatie over het lezen van de regelitems in uw Partner Center afstemmingsbestanden
 
@@ -63,14 +63,14 @@ Als u een afstemmingsbestand kunt downloaden maar niet kunt openen in Microsoft 
 2. Download, installeer en open een exemplaar van Microsoft Power BI.
 3. Selecteer op Power BI **tabblad Start** de optie **Gegevens verzamelen.**
 4. Selecteer **Tekst/CSV** **in** de lijst met algemene gegevensbronnen.
-5. Wanneer u hier om wordt gevraagd, opent u het recon-bestand.
+5. Open het reconbestand wanneer u daarom wordt gevraagd.
 
 ### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Een reconbestand openen in een Excel draaitabel
 
 1. Download het afstemmingsbestand zoals u dat normaal zou doen.
 2. Open een nieuw bestand in Microsoft Excel.
 3. Selecteer op **het** tabblad Gegevens de optie **Gegevens downloaden,** selecteer **Uit bestand** en selecteer vervolgens **Tekst/CSV.**
-4. Wanneer u hier om wordt gevraagd, opent u het recon-bestand. Uw gegevens worden weergegeven.
+4. Open het reconbestand wanneer u daarom wordt gevraagd. Uw gegevens worden weergegeven.
 5. Selecteer in **de** vervolgkeuzelijst Laden de optie **Laden naar** en selecteer vervolgens **OK.**
 6. Selecteer in **het dialoogvenster Gegevens** importeren de optie **Draaitabelrapport om** het bestand te openen.
 
@@ -99,7 +99,7 @@ Partners in het **indirecte model kunnen** deze aanvullende velden gebruiken in 
 | MPN-id | De Microsoft Partner Network (MPN)-id van de Cloud Solution Provider (CSP)-partner (direct of indirect). |
 | [MPN-id van reseller](#reseller-mpn-id) | De [MPN-id van de reseller van de record voor het abonnement](#reseller-mpn-id). Dit veld komt overeen met de reseller-id die wordt vermeld voor het specifieke abonnement in Partner Center. Wordt alleen weergegeven in afstemmingsbestanden voor partners in het indirecte model. |
 
-### <a name="reseller-mpn-id"></a>MPN-id voor reseller
+### <a name="reseller-mpn-id"></a>MPN-id van reseller
 
 Als een CSP-partner het abonnement rechtstreeks aan de klant heeft verkocht, wordt de **MPN-id** twee keer vermeld, zowel als de **MPN-id** van de reseller en de **MPN-id** van de reseller.
 
@@ -110,7 +110,7 @@ Als de CSP-partner een **MPN-id** voor resellers verwijdert, wordt deze waarde i
 Als u de MPN-id van **de reseller wilt weergeven of bijwerken:**
 
 1. Meld u aan bij Partnercentrum.
-2. Selecteer in Partner Center menu **Klanten.**
+2. Selecteer in Partner Center menu **Klanten**.
 3. Kies de klant in de lijst.
 4. Selecteer Abonnementen in het menu **van de klant.**
 5. Kies het abonnement in de lijst.

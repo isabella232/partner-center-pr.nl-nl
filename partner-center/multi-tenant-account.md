@@ -9,29 +9,29 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c3231d824afe1f9c449e9809971c97125908815449fda5605e64655d88c1b03
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2bb4507fd7e5f60584c8fca99256c964a7521dc8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685896"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957355"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Meerdere tenants toevoegen en beheren in uw Partner Center account
 
 
 **Juiste rollen:** globale | Accountbeheerder
 
-In dit artikel wordt beschreven hoe u meerdere Azure Active Directory (Azure AD)-tenants voor uw bedrijf samenvoegt en deze vervolgens toevoegt en beheert in uw Partner Center account. Er zijn veel redenen om dit te doen. Bijvoorbeeld:
+In dit artikel wordt beschreven hoe u meerdere azure ad Azure Active Directory tentens voor uw bedrijf samenvoegt en vervolgens toevoegt en beheert in uw Partner Center-account. Er zijn veel redenen om dit te doen. Bijvoorbeeld:
 
-- Stel dat uw bedrijf, Contoso, een ander bedrijf heeft overgenomen, Fabrikam. U wilt dat de twee bedrijven gescheiden blijven, maar u wilt dat de nieuwe werknemers deze kunnen Partner Center. In dit geval koppelt u de Azure AD-tenant van het nieuwe bedrijf aan uw Partner Global Account (PGA). Met deze associatie kunnen gebruikers in beide bedrijven in een Partner Center.
+- Stel dat uw bedrijf, Contoso, een ander bedrijf heeft overgenomen, Fabrikam. U wilt dat de twee bedrijven gescheiden blijven, maar u wilt dat de nieuwe werknemers deze kunnen Partner Center. In dit geval koppelt u de Azure AD-tenant van het nieuwe bedrijf aan uw Partner Global Account (PGA). Met deze associatie kunnen gebruikers in beide bedrijven in Partner Center.
 
 - Als u uw bedrijf met meer dan één tenant hebt (bijvoorbeeld *contoso.com*, *contoso.uk* en *contoso.in*), kunt u multitenancy gebruiken om ze in hetzelfde pc-account te groepen.
 
 - Als voor fusies en overnamesrichtlijnen is vereist dat u met tenants van beide bedrijven werkt, gebruikt u zowel de constoso.com *als* *fabrikam.com* tenants.
 
 - Gebruikers van een van de tenants moeten het volgende kunnen doen:
-    * Toegang Partner Center voor training, digitale downloads of MICROSOFT Certified Professional (MCP)-associatie.
-    * Worden toegewezen Partner Center zoals Microsoft Partner Network (MPN)-beheerder of incentivesbeheerder.
+    * Toegang Partner Center voor training, digitale downloads of Microsoft Certified Professional (MCP)-associatie.
+    * Worden toegewezen Partner Center zoals een MPN Microsoft Partner Network beheerder of incentivesbeheerder.
 
 ## <a name="add-an-azure-ad-tenant-to-your-account"></a>Een Azure AD-tenant toevoegen aan uw account
 
@@ -57,7 +57,7 @@ In dit artikel wordt beschreven hoe u meerdere Azure Active Directory (Azure AD)
  
 1. Meld u als globale beheerder aan [bij Microsoft Partner Center.](https://partner.microsoft.com/dashboard)
 
-1. Selecteer rechtsboven het pictogram **Instellingen** en selecteer vervolgens **Accountinstellingen.**
+1. Selecteer rechtsboven het pictogram **Instellingen** selecteer vervolgens **Accountinstellingen.**
 
 1. Selecteer tenants in het **linkerdeelvenster.** Selecteer **onder Azure AD-tenants beheren** het tabblad **Partner.**
  
@@ -65,7 +65,7 @@ In dit artikel wordt beschreven hoe u meerdere Azure Active Directory (Azure AD)
 
    :::image type="content" source="images/disassociate.png" alt-text="Schermopname van de huidige tenantkoppelingen en de koppelingen verwijderen.":::
 
-   Zoals u in de vorige  schermopname ziet, zijn de koppelingen verwijderen ingeschakeld voor alle gekoppelde tenants, met uitzondering van de primaire tenant en de tenant waarmee u momenteel bent aangemeld. 
+   Zoals u in de vorige  schermopname kunt zien, zijn de koppelingen verwijderen ingeschakeld voor alle gekoppelde tenants, met uitzondering van de primaire tenant en de tenant waarmee u momenteel bent aangemeld. 
 
    > [!NOTE]   
    > Wanneer u een tenant verwijdert, hebben de gebruikers in die tenant niet langer toegang tot het Partner Center-account en heeft het verwijderen mogelijk invloed op uw competenties. 

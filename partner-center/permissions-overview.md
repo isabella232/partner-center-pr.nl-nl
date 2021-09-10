@@ -10,21 +10,21 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
 ms.openlocfilehash: 7638a35b5aa583cd3a7c3b40833123402df7cb70
-ms.sourcegitcommit: 9d155ff319ba2b2793bc9945d179ce1cb9c8f7c7
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122453795"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957091"
 ---
-# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Gebruikersrollen en -machtigingen toewijzen voor de gebruikers van een bedrijf die in een bedrijf moeten Partner Center
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Gebruikersrollen en -machtigingen toewijzen voor de gebruikers van een bedrijf die in een Partner Center
 
 **Juiste rollen:** Globale | Gebruikersbeheerbeheer | MPN-partnerbeheerder
 
-U hebt uw partnerprofiel ingesteld, inclusief juridische naam en adres, ondersteuningsgegevens, btw-vrijstellingen, bankgegevens en de primaire contactpersoon voor uw bedrijf. Volgende stap: stel uw gebruikers in met wachtwoorden en rollen, zodat ze samen met Partner Center aan de slag kunnen.
+U hebt uw partnerprofiel ingesteld, inclusief juridische naam en adres, ondersteuningsgegevens, btw-vrijstellingen, bankgegevens en de primaire contactpersoon voor uw bedrijf. Volgende stap: stel uw gebruikers in met wachtwoorden en rollen, zodat ze met Partner Center aan de slag kunnen.
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Uw werknemers instellen om in een Partner Center
 
-U bepaalt de soorten toegang die uw gebruikers moeten Partner Center de rollen en machtigingen die u hen geeft. Rollen zijn gerelateerd aan de programma's waar uw bedrijf bij betrokken is. Als uw bedrijf bijvoorbeeld een Cloud Solution Provider-bedrijf (CSP) is, hebt u niet alleen de standaard tenantbeheerrollen voor Azure Active Directory (Azure AD), zoals globale beheerder, maar hebt u ook rollen nodig die specifiek zijn voor het CSP-programma. Elk programma heeft specifieke rollen.
+U bepaalt de toegangstypen die uw gebruikers moeten Partner Center de rollen en machtigingen die u hen geeft. Rollen zijn gerelateerd aan de programma's waar uw bedrijf bij betrokken is. Als uw bedrijf bijvoorbeeld een Cloud Solution Provider-bedrijf (CSP) is, hebt u niet alleen de standaard tenantbeheerrollen voor Azure Active Directory (Azure AD), zoals globale beheerder, maar hebt u ook rollen nodig die specifiek zijn voor het CSP-programma. Elk programma heeft specifieke rollen.
 
 >[!Note]
 > Azure AD-tenantrollen zijn globale beheerders, gebruikersbeheerders en CSP-rollen. Niet-Azure AD-rollen zijn rollen die de tenant niet beheren, en ze omvatten MPN-partnerbeheerder (Microsoft Partner Network), beheerder van bedrijfsprofiel, verwijzingsbeheerder, incentive-beheerder en incentive-gebruiker. 
@@ -33,13 +33,13 @@ U bepaalt de soorten toegang die uw gebruikers moeten Partner Center de rollen e
 
 |**Role**|**Wat ze kunnen doen**|**Meer informatie**|
 |----------------------------------|---|:---------------------------------|
-|Globale beheerder|* Heeft toegang tot alle Microsoft-account/services met volledige bevoegdheden|[Uw Partner Center-account beheren](partner-center-account-setup.md)
+|Globale beheerder|* Toegang tot alle Microsoft-account/services met volledige bevoegdheden|[Uw Partner Center-account beheren](partner-center-account-setup.md)
 |      |* Ondersteuningstickets maken voor de Partner Center
 ||* Partnerondersteuningstickets weergeven die u maakt
 ||* Overeenkomsten, prijslijsten en aanbiedingen weergeven
 ||* Partnergebruikers weergeven, maken en beheren|
 ||  Facturering, facturen en reconbestanden weergeven, maken en beheren
-|Beheerder van gebruikersbeheer   | * Gebruikers weergeven, maken en beheren|[Uw voordelen Microsoft Partner Network lidmaatschap en aanbiedingen beheren in Partner Center](manage-your-partner-network-benefits.md)
+|Beheerder van gebruikersbeheer   | * Gebruikers weergeven, maken en beheren|[Uw voordelen Microsoft Partner Network lidmaatschap en aanbiedingen in Partner Center](manage-your-partner-network-benefits.md)
 ||* Alles weergeven partnerprofielen
 ||* Ondersteuningstickets maken voor de Partner Center
 ||* Partnerondersteuningstickets weergeven die u maakt
@@ -85,7 +85,7 @@ CPV's ontwikkelen apps voor gebruik door CSP-partners, zodat ze hun systemen kun
 
 |**Role**   |**Wat u kunt doen**|**Meer informatie**|
 |------------------------------|:----------------------------|----|
-|Globale beheerder| Uw CPV-profiel (Configuratiescherm Vendor) weergeven en beheren|[Registreren als een Configuratiescherm leverancier om CSP-partnersystemen te integreren met Partner Center API's](enroll-as-cpv.md)
+|Globale beheerder| Uw CPV-profiel (Configuratiescherm Vendor) weergeven en beheren|[Registreren als een leverancier Configuratiescherm om CSP-partnersystemen te integreren met Partner Center API's](enroll-as-cpv.md)
 ||Uw gebruikers weergeven en beheren die toegang nodig hebben tot CPV-mogelijkheden|
 
 ### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Gastgebruiker (moet worden toegevoegd aan de Azure AD-tenant)
@@ -111,15 +111,15 @@ Deze rollen zijn geen Azure AD-rollen. Deze rollen beheren het bedrijf in plaats
 ||* MPN-aanbiedingen weergeven en kopen
 ||* MpN-aanbiedingen bestelgeschiedenis en facturen weergeven
 ||* Indicatorgegevens voor partnerbijdragen weergeven
-||* Kan werken in het hulpprogramma Voor validatie van validatie|
-||* Klantgegevensanalyses weergeven
+||* Kan werken in het hulpprogramma Voor validatie van programma's|
+||* Analyse van klantgegevens weergeven
 ||* Andere gebruikersrollen binnen het bedrijf weergeven, maar kunnen geen rollen toewijzen
 ||* Ondersteuningstickets maken voor de Partner Center
 ||* Partnerondersteuningstickets weergeven die u maakt
 |Accountbeheerder| Locaties toevoegen|[Locaties beheren](manage-locations.md)
-|| Profielen beheren die betrekking hebben op de accounts die u beheert 
+|| Profielen beheren die betrekking hebben op de accounts voor wie u beheerder bent 
 ||* Rollen voor gebruikers in tenant toewijzen aan niet-Azure AD-rollen 
-||* Locaties inschrijven bij programma's
+||* Locaties registreren bij programma's
 ||* Ondersteuningstickets maken voor de Partner Center
 ||* Partnerondersteuningstickets weergeven die u maakt
 
@@ -133,37 +133,37 @@ Deze rollen zijn geen Azure AD-rollen. Deze rollen beheren het bedrijf in plaats
 ||    Kan bedrijfsprofielen weergeven en bewerken
 ||    Kan deals weergeven en registreren voor verkoopkansen die zijn gemarkeerd als gewonnen en in aanmerking komen voor dealregistratie
 ||    Kan ondersteuningstickets maken en weergeven
-|Verwijzingsgebruiker|Verkoopkansen voor co-verkoop alleen maken en beheren als ze deel uitmaken van het team |[Collectieve-verkoopkansen beheren](manage-co-sell-opportunities.md)
+|Verwijzingsgebruiker|Kansen voor co-verkoop alleen maken en beheren als ze deel uitmaken van het team |[Collectieve-verkoopkansen beheren](manage-co-sell-opportunities.md)
 ||    Kan kansen voor co-verkoop creëren voor de locaties waar de rol aan hen is toegewezen.
 ||    Kan deals weergeven en registreren voor verkoopkansen die zijn gemarkeerd als gewonnen en in aanmerking komen voor dealregistratie als ze teamlid zijn.
 ||    Kan ondersteuningstickets maken en weergeven
 |Bedrijfsprofielbeheerder|Bedrijfsprofielen maken en beheren | [Bedrijfsprofielen beheren](create-a-marketing-profile.md)
 ||    Kan ondersteuningstickets maken en weergeven
 
-Naast de nieuwe gebruikersrol verwijzingen introduceren we ook het locatiebereik voor deals. In de onderstaande tabel wordt de toegang tot deals op basis van de locatie uitgelegd.
+Naast de nieuwe gebruikersrol verwijzingen introduceren we ook het locatiebereik voor deals. In de onderstaande tabel worden de deals-toegang op basis van de locatie uitgelegd.
 
 |**Scope** | **Wat u kunt doen** |
 |------------------------------|:-------------------------|
-|Hele bedrijf | Zowel beheerders als gebruikers hebben toegang tot het maken van deals voor elke locatie in hun bedrijf|
-|| Verwijzingsbeheerder heeft toegang om alle deals weer te geven en te bewerken |
+|Hele bedrijf | Zowel beheerders als gebruikers hebben toegang tot deals voor elke locatie in hun bedrijf|
+|| Verwijzingsbeheerder heeft toegang tot het weergeven en bewerken van alle deals |
 || Verwijzingsgebruikers hebben alleen toegang om alle deals te bekijken en te bewerken als ze deel uitmaken van het team |
 |Een of meer locaties | Zowel beheerders als gebruikers hebben toegang tot het maken van deals voor de toegewezen locatie in hun bedrijf|
 || Verwijzingsbeheerder heeft toegang tot het weergeven en bewerken van alle deals die horen bij de toegewezen locaties|
-|| Verwijzingsgebruikers hebben toegang tot het weergeven en bewerken van alle deals die horen bij de toegewezen locaties als ze deel uitmaken van het team|
+|| Verwijzingsgebruikers hebben toegang tot het weergeven en bewerken van alle deals die behoren tot de toegewezen locaties als ze deel uitmaken van het team|
 
 ## <a name="manage-incentives"></a>Incentives beheren
 
 |**Role** | **Wat u kunt doen**|**Meer informatie**
 |------------------------------|:-------------------------|---|
 |Incentives-beheerder|* Incentives initiëren en beheren |[Gebruik deze resources om aan de slag te gaan met incentives](incentives-get-started-intro.md)
-||* Kan alle aspecten van incentives-programma's weergeven en bewerken
-||* Kan bank- en belastinggegevens bekijken en bewerken
-||* Verdiensten voor inkomend en co-op-resultaat weergeven
+||* Kan alle aspecten van incentives-programma's bekijken en bewerken
+||* Kan bank- en belastinggegevens weergeven en bewerken
+||* Viewed and co-op earnings (Inkomsten voor co-ops en co-ops weergeven)
 ||* Toegangsondersteuning
-||* Incentives-betalingen betwisten|
+||* Betalingen voor incentives betwisten|
 |Incentives-gebruiker|* Kan incentives-programma's weergeven
 ||* Kan incentives-claims bekijken en initiëren
-||* Verdiensten voor inkomend en co-op-resultaat weergeven
+||* Viewed and co-op earnings (Inkomsten voor co-ops en co-ops weergeven)
 ||* Ondersteuningstickets maken voor de Partner Center
 ||* Partnerondersteuningstickets weergeven die u maakt
 
@@ -172,7 +172,7 @@ Naast de nieuwe gebruikersrol verwijzingen introduceren we ook het locatiebereik
 |**Role** | **Wat u kunt doen**|**Meer informatie**|
 |------------------------------|:-------------------------|---|
 |Rapportviewer voor leidinggevenden|Toegang tot alle rapportagesets, partnerondersteuningstickets maken, partnerondersteuningstickets weergeven die u maakt|[Overzicht van dashboardrapporten die beschikbaar zijn in Partner Center Insights](insights-overview-report.md)
-|Rapportviewer|Toegang tot gegevensrapporten, met uitzondering van omzet en persoonlijke gegevens van klanten en werknemers, partnerondersteuningstickets maken, partnerondersteuningstickets weergeven die u maakt|
+|Rapportviewer|Toegang tot gegevensrapporten met uitzondering van inkomsten en persoonlijke gegevens van klanten en werknemers, partnerondersteuningstickets maken, partnerondersteuningstickets weergeven die u maakt|
 
 ## <a name="next-steps"></a>Volgende stappen
 

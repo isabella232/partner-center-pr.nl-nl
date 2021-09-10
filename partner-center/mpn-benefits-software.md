@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33a14b89e77a2550b5f51e4d44f2866f376ed9fa14a334769530f45a5c6ab873
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7544a090b447af37f06ddf31606794a00f357b05
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697296"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957535"
 ---
 # <a name="mpn-benefits---software"></a>MPN-voordelen - Software
 
@@ -22,7 +22,7 @@ ms.locfileid: "115697296"
 
 ## <a name="overview"></a>Overzicht
 
-In dit artikel worden de on-premises softwarevoordelen beschreven die beschikbaar zijn voor partners binnen Partner Center. Als u alle softwareproducten wilt zien waar u recht op hebt als onderdeel van uw actieve inschrijvingsaanbieding, gaat u naar  [MPN>Benefits](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) en selecteert u vervolgens het tabblad Software in het menu Partner Center.  
+In dit artikel worden de on-premises softwarevoordelen beschreven die beschikbaar zijn voor partners binnen Partner Center. Als u alle softwareproducten wilt zien waar u recht op hebt als onderdeel van uw actieve inschrijvingsaanbieding, gaat u naar  [MPN>Benefits](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) en selecteert u vervolgens het tabblad Software in het Partner Center menu.  
 
 ## <a name="manage-software-products-and-product-keys"></a>Softwareproducten en productcodes beheren
 
@@ -46,7 +46,7 @@ Het aantal activeringen dat wordt geteld voor een productcode is gebaseerd op de
 
 ## <a name="troubleshooting-scenarios"></a>Scenario’s voor probleemoplossing
 
-- **Het bericht 'Geen verdere details beschikbaar' wordt weergegeven voor DEL's (Windows Server Client Access License) voordelen**
+- **Er worden geen verdere details beschikbaar weergegeven voor de voordelen van CAL's (Windows Server Client Access License)**
 
     CAL's zijn geen product dat kan worden gedownload. De activering van CAL's wordt beheerd op het Server-product zelf.
 

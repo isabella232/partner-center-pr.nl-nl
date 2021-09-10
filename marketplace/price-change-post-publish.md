@@ -7,17 +7,17 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 08/27/2021
 ms.openlocfilehash: bfb99986483d0aaaa5d685c266c8118c1345517c
-ms.sourcegitcommit: 09d251409c2070fdb8ae5f9caa79152665fb2ddb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "123164870"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936851"
 ---
 # <a name="price-changes-to-marketplace-products"></a>Prijswijzigingen in Marketplace-producten
 
 Onafhankelijke softwareleveranciers (ISV's) die hun producten verkopen via Azure Marketplace mogen de abonnementsprijzen (of SKU's) van tijd tot tijd bijwerken. De nieuwe prijs van de SKU kan hoger of lager zijn dan de vorige prijs. De prijswijziging wordt bijgewerkt op product-/SKU-/marktniveau. Er kunnen dus prijsupdates zijn die relevant zijn voor sommige markten, maar niet voor alle.
 
-In bepaalde gevallen (zie hieronder) kan de prijswijziging invloed hebben op producten die in het verleden zijn gekocht en ziet de klant een prijswijziging op de maandelijkse factuur. Azure Marketplace klanten die deze producten gebruiken ten minste 90 dagen voordat de nieuwe prijs van kracht wordt, op de hoogte.
+In bepaalde gevallen (zie hieronder) kan de prijswijziging invloed hebben op producten die in het verleden zijn gekocht en ziet de klant een prijswijziging op de maandelijkse factuur. Azure Marketplace klanten die deze producten gebruiken ten minste 90 dagen vóór de nieuwe prijs van kracht worden op de hoogte.
 
 ## <a name="which-offer-types-can-be-affected-from-price-change"></a>Welke aanbiedingstypen kunnen worden beïnvloed door prijswijziging?
 

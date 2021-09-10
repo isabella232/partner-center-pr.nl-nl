@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1a58503f33585d20ec8c292e39a1e81303603c6503e4389ca39747c932ca07b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696169"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957791"
 ---
 # <a name="troubleshooting-partner-earned-credit"></a>Problemen met partnertegoed oplossen
 

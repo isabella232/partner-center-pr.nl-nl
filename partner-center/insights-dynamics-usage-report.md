@@ -8,12 +8,12 @@ description: Bekijk wat u goed doet en waar u het gebruik kunt verbeteren van Dy
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 7476106e92334000c59e566758bb2bd1f1dd415f6142f07e458b2aa9f5c62b41
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690647"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957707"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het Dynamics-gebruiksrapport is beschikbaar via Partner Center Insights dashboard
 
@@ -28,7 +28,7 @@ Het Dynamics-gebruiksrapport bevat gebruiksgegevens voor de Microsoft Dynamics 3
 - Dynamics-gebruiksdistributie
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt bekijken, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
@@ -38,7 +38,7 @@ De samenvattingssectie bevat een momentopnameweergave van de belangrijkste indic
 
    De Micro-grafiek geeft een trend voor de maand-over-maand weer van het aantal beschikbare seats voor uw geselecteerde datumbereik.
 
-- Toegewezen seats: het totale aantal licenties dat is toegewezen tijdens het geselecteerde tijdsbestek.
+- Toegewezen seats: totaal aantal licenties dat is toegewezen tijdens het geselecteerde tijdsbestek.
 
    In de Micro-grafiek wordt een trend voor de maand-over-maand weergegeven van het aantal toegewezen seats tijdens het geselecteerde datumbereik.
 
@@ -84,4 +84,4 @@ De Dynamics-gebruiksdistributie toont de uitsplitsing van beschikbare seats, act
 
 - Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).
 
-- U kunt de onbewerkte gegevens voor dit rapport downloaden uit de sectie Rapporten downloaden in het Insights dashboard. [Meer informatie](insights-download-reports.md) 
+- U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het Insights dashboard. [Meer informatie](insights-download-reports.md) 

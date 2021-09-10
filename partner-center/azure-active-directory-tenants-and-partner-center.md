@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
-ms.openlocfilehash: 9632cc6fbf18a02526cb0df4699bbe0ffaee4bb26ded97b3cb8b186ed8cf556b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c1f74e2977b110befd38c741259e84dd8bc9acb6
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691413"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957100"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Een werkaccount maken dat uw bedrijf koppelt aan uw Partner Center account
 
@@ -26,7 +26,7 @@ Microsoft vereist dat u het werkaccount van uw bedrijf koppelt aan uw nieuwe Par
 
 ## <a name="the-work-account-email-address"></a>Het e-mailadres van het werkaccount
 
-Uw werkaccount of werke-mail is het e-mailadres dat u van uw bedrijf ontvangt. Een e-mail voor een werkaccount heeft meestal de indeling `you@yourcompany.com` . Persoonlijke e-mailadressen, zoals Hotmail, Gmail of Yahoo, zijn geen werk-e-mail en kunnen niet worden gebruikt voor uw Partner Center account.
+Uw werkaccount of werk-e-mailadres is het e-mailadres dat u van uw bedrijf ontvangt. Een e-mail voor een werkaccount heeft meestal de indeling `you@yourcompany.com` . Persoonlijke e-mailadressen zoals Hotmail, Gmail of Yahoo zijn geen werke-mail en kunnen niet worden gebruikt voor uw Partner Center account.
 
 Als u meer dan één geldig zakelijk e-mailadres hebt, gebruikt u het e-mailadres dat is gekoppeld aan uw hoofdkantoor in plaats van de regionale afdeling. Gebruik bijvoorbeeld uw e-mailadres in plaats van `contoso.com` het `contoso.uk` adres.
 
@@ -35,7 +35,7 @@ Als u meer dan één geldig zakelijk e-mailadres hebt, gebruikt u het e-mailadre
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Weet u niet zeker of uw bedrijf al een werkaccount heeft?
 
-Als u niet zeker weet of uw bedrijf een werkaccount heeft, volgt u deze stappen om dit te controleren. Als u een actief abonnement hebt op Microsoft Azure of Office 365, hebt u al een werkaccount.
+Als u niet zeker weet of uw bedrijf een werkaccount heeft, volgt u deze stappen om dit te controleren. Als u een actief abonnement hebt voor Microsoft Azure of Office 365, hebt u al een werkaccount.
 
 1. Meld u aan bij de [Azure-portal](https://portal.azure.com).
 

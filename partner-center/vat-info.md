@@ -8,12 +8,12 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-ms.openlocfilehash: 1fbf8ba030a6f6dd93314ef64130d75312cf36a70521d75249fd31d09e3b6416
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681107"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957830"
 ---
 # <a name="value-added-tax-vat-information"></a>Btw-gegevens (value added tax)
 
@@ -24,7 +24,7 @@ Als u tijdens het registratieproces van de Partner Center een btw-nummer (btw) m
 
 ## <a name="understanding-vat-numbers"></a>Inzicht in btw-nummers
 
-Een btw-nummer is een id die wordt gebruikt voor landen of regio's in de Europese Unie. Zie voor meer informatie de officiële site [btw-informatie Exchange System () van](http://ec.europa.eu/taxation_customs/vies/vieshome.do)de Europese Unie.
+Een btw-nummer is een id die wordt gebruikt voor landen of regio's in de Europese Unie. Zie de officiële site btw-informatie van de Europese Unie [Exchange System (WILT)](http://ec.europa.eu/taxation_customs/vies/vieshome.do)voor meer informatie.
 
 ## <a name="location-specific-vat-information"></a>Locatiespecifieke btw-gegevens
 
@@ -34,7 +34,7 @@ De volgende gegevens zijn uniek voor de landen of regio's die hieronder worden v
 
 In de lid staten van de Europese Unie moeten partners hun geldige btw-nummer voor de omgekeerde kosten en de juiste facturering verstrekken. Het btw-nummer moet als geldig worden geaccepteerd.
 
-Microsoft biedt geen ondersteuning voor tegoeden en herfacturing. Voordat u abonnementen verkoopt, moet u [uw btw-nummer registreren](organization-tax-info.md) in Partner Center.
+Microsoft biedt geen ondersteuning voor tegoeden en herfacturing. Voordat u abonnementen verkoopt, moet u [uw btw-nummer](organization-tax-info.md) registreren in Partner Center.
 
 ### <a name="south-africa"></a>Zuid-Afrika
 
@@ -46,11 +46,11 @@ Microsoft past nu de standaard btw toe op digitale inhoud en services die zijn g
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Geaccepteerde notaties voor btw-nummers
 
-Houd er rekening mee dat Microsoft geen belastingadvies geeft en dat de volgende tabel alleen als richtlijn wordt gegeven. Neem contact op met uw lokale belastinginstanties voor recente wijzigingen als deze richtlijnen niet voldoende zijn om Microsoft een btw-nummer te verstrekken.
+Houd er rekening mee dat Microsoft geen belastingadvies geeft en dat de volgende tabel alleen als richtlijn wordt gegeven. Neem contact op met uw lokale btw-instanties voor recente wijzigingen als deze richtlijnen niet voldoende zijn om Microsoft een btw-nummer te verstrekken.
 
 |Land/regio | Btw-gegevens |
 |:------------|:----------|
-|Oostenrijk  |- Btw-nummerindeling: 1 letter en 8 cijfers<br/>- Land-/regiocode: AT<br/>- Voorbeeld: U12345678<br/>- Opmerkingen: Het eerste teken is altijd 'U'. |
+|Oostenrijk  |- Btw-nummerindeling: 1 letter en 8 cijfers<br/>- Land-/regiocode: AT<br/>- Voorbeeld: U12345678<br/>- Opmerkingen: het eerste teken is altijd 'U'. |
 |België  |- Btw-nummernotatie: 10 cijfers<br/>- Land-/regiocode: BE<br/>- Voorbeeld: 1234567890<br/>- Opmerkingen: 9 cijfers vóór 1 januari 2007. |
 | Bulgarije  |- Btw-nummernotatie: 9 of 10 cijfers<br/>- Land-/regiocode: BG<br/>- Voorbeeld: 123456789 of 0123456789 |
 | Kroatië |- Btw-nummerindeling: 2 letters en 11 cijfers<br/>- Land-/regiocode: HR<br/>- Voorbeeld: HR12345678901<br/>- Opmerkingen: De eerste tekens zijn altijd 'HR'. |
@@ -59,13 +59,13 @@ Houd er rekening mee dat Microsoft geen belastingadvies geeft en dat de volgende
 | Denemarken |- Btw-nummernotatie: 8 cijfers<br/>- Land-/regiocode: DK<br/>- Voorbeeld: 12345678<br/> |
 |Estland |- Btw-nummernotatie: 9 cijfers<br/>- Land-/regiocode: EE<br/>- Voorbeeld: 123456789<br/> |
 |Finland |- Btw-nummerindeling: cijfers<br/>- Land-/regiocode: FI<br/>- Voorbeeld: 12345678 |
-|Frankrijk |- Btw-nummernotatie: 11 cijfers<br/>- Land-/regiocode: FR<br/>- Voorbeeld: 12345678901, X1234567890, 1X123456789 of XX123456789<br/>-Opmerkingen: kan alfabetische tekens bevatten, met uitzondering van I of Q als het eerste of tweede teken, of als het eerste en tweede teken, gevolgd door 9 cijfers. |
+|Frankrijk |- Btw-nummerindeling: 11 cijfers<br/>- Land-/regiocode: FR<br/>- Voorbeeld: 12345678901, X1234567890, 1X123456789 of XX123456789<br/>-Opmerkingen: kan alfabetische tekens bevatten, met uitzondering van I of Q als het eerste of tweede teken, of als het eerste en tweede teken, gevolgd door 9 cijfers. |
 |Duitsland |- Btw-nummernotatie: 9 cijfers<br/>- Land-/regiocode: DE<br/>- Voorbeeld: 123456789<br/>-Opmerkingen: Moet het 9-cijfer 'Umsatzsteur Identifikationnummer' (Ust ID Nr.) |
 |Griekenland |- Btw-nummernotatie: 9 cijfers<br/>- Land-/regiocode: EL, GR<br/>- Voorbeeld: 123456789 |
 |Hongarije |- Btw-nummernotatie: 8 cijfers<br/>- Land-/regiocode: HU<br/>- Voorbeeld: 12345678 |
 |Ierland |- Btw-nummernotatie: 8 cijfers<br/>- Land-/regiocode: IE<br/>- Voorbeeld: 1234567X of 1X34567X<br/>-Opmerkingen: bevat 1 of 2 alfabetische tekens: laatste, of tweede en laatste. |
-|Italië |- Btw-nummernotatie: 11 cijfers<br/>- Land-/regiocode: IT<br/>- Voorbeeld: 12345678901 |
-|Letland |- Btw-nummernotatie: 11 cijfers<br/>- Land-/regiocode: LV<br/>- Voorbeeld: 01234567890 |
+|Italië |- Btw-nummerindeling: 11 cijfers<br/>- Land-/regiocode: IT<br/>- Voorbeeld: 12345678901 |
+|Letland |- Btw-nummerindeling: 11 cijfers<br/>- Land-/regiocode: LV<br/>- Voorbeeld: 01234567890 |
 |Litouwen |- Btw-nummernotatie: 9 of 12 cijfers<br/>- Land-/regiocode: LT<br/>- Voorbeeld: 123456789 of 012345678901 |
 |Luxemburg |- Btw-nummernotatie: 8 cijfers<br/>- Land-/regiocode: LU<br/>- Voorbeeld: 12345678 |
 |Malta |- Btw-nummerindeling: 2 letters en 8 cijfers<br/>- Land-/regiocode: MT</br>-Voorbeeld: MT12345678<br/>- Opmerkingen: De eerste tekens zijn altijd 'MT'. |
@@ -81,4 +81,4 @@ Houd er rekening mee dat Microsoft geen belastingadvies geeft en dat de volgende
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Informatie over de belasting van het bedrijf en het toevoegen of verzenden van btw-Partner Center-aankopen](organization-tax-info.md)
+- [Informatie over de belasting van het bedrijf en het toevoegen of verzenden van btw-Partner Center aankopen](organization-tax-info.md)

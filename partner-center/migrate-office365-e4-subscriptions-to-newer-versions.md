@@ -9,27 +9,27 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b440b7baaad26ac6ee1c1e8313a13c4aa3cc271f9d84f5421aeb07edf1ea8a84
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a1b47860f0af3427342d89945528e9118ecfc0aa
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681515"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957785"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrate Office 365 E4 subscriptions to newer Office 365 versions (Abonnementen op Office 365 E4 naar nieuwe versies van Office 365 migreren)
 
 **Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
 
-Het Office 365 Enterprise E4 wordt met ingang van 7 april 2017 ingetrokken. U kunt na deze datum geen Office 365 meer aanschaffen voor E4-abonnementen en bestaande E4-abonnementen worden niet automatisch verlengd wanneer ze verlopen.
+Het Office 365 Enterprise E4 wordt met ingang van 7 april 2017 ingetrokken. U kunt na deze Office 365 geen nieuwe E4-abonnementen meer aanschaffen en bestaande E4-abonnementen worden niet automatisch verlengd wanneer ze verlopen.
 
-Wanneer E4-abonnementen zijn beëindigen, worden ze geannuleerd. Om de continuïteit voor klanten te waarborgen, moet u klanten met verlopen E4-abonnementen overstappen naar een ondersteunde SKU-optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen. 
+Wanneer E4-abonnementen zijn beëindigen, worden ze geannuleerd. Om de continuïteit voor klanten te waarborgen, moet u klanten met verlopen E4-abonnementen overstappen op een ondersteunde SKU-optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen. 
 
 > [!NOTE]  
-> Zowel Office 365 Enterprise E4 commerciële SKU's als overheids-SKU's worden ingetrokken.
+> Zowel Office 365 Enterprise E4 commerciële SKU's als overheids-SKU's worden teruggetrokken.
  
 Op de detailpagina van het abonnement is de status van het E4-abonnement gewijzigd in Verloopt op [datum] van Automatisch verlengen op [datum]. 
 
-Als u de API (ZOWEL VOOR als Partner Center) gebruikt, kunt u verlopende abonnementen ontdekken door de einddatum van het abonnement samen met de eigenschap auto renew = False te evalueren. 
+Als u de API (ZOWEL DEP als Partner Center) gebruikt, kunt u verlopende abonnementen ontdekken door de einddatum van het abonnement samen met de eigenschap auto renew = False te evalueren. 
 
 De E4-abonnementen worden op 7 april 2017 ingesteld op automatisch verlengen=Onwaar. U kunt klanten op elk moment verplaatsen naar een nieuw abonnement. 
 
@@ -48,9 +48,9 @@ U kunt ervoor kiezen om dezelfde functionaliteit te behouden met E4 of uw klante
 
 | Functie | Optie 1 | Optie 2 | Optie 3 | Optie 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Krijgt u alle functies die zijn opgenomen in Office 365 Enterprise E4? | Ja | Ja | Ja | Nee |
+| Alle functies die zijn opgenomen in Office 365 Enterprise E4? | Ja | Ja | Ja | Nee |
 | Telefoon getallen die worden beheerd in Office 365? | Ja | Ja | Nee | Nee |
-| Telefoon getallen die zowel on-premises als in Office 365 (hybride implementatie) worden beheerd? | Ja | Ja | Nee | Nee |
+| Telefoon nummers die zowel on-premises als in Office 365 (hybride implementatie) worden beheerd? | Ja | Ja | Nee | Nee |
 | Optie voor het toevoegen van een PSTN-abonnement voor spraakbellen? | Ja | Ja | Nee | Nee |
 | PSTN-conferencing? | Ja | Nee | Nee | Nee |
 | Geavanceerde hulpprogramma's voor samenwerking, analyse en beveiliging? | Ja | Nee | Nee | Nee |
@@ -69,7 +69,7 @@ Volg deze stappen om het abonnement van een klant Office 365 Enterprise E4 migre
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Stap 1: het nieuwe abonnement kopen
 
-1. Selecteer in **Partner Center** menu **Klanten,** selecteer de klant die u wilt verplaatsen en selecteer vervolgens **Abonnementen toevoegen.**
+1. Selecteer in **Partner Center** menu **Klanten,** selecteer de klant die u wilt verplaatsen en selecteer **vervolgens Abonnementen toevoegen.**
 
 2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **vervolgens Verzenden.**
 
@@ -81,7 +81,7 @@ Volg deze stappen om het abonnement van een klant Office 365 Enterprise E4 migre
 
 2. Als u gebruikerslicenties opnieuw wilt toewijzen, selecteert u de gebruiker die u opnieuw wilt toewijzen en selecteert u **vervolgens Licenties beheren.**
 
-3. Schakel op **de pagina Licenties** beheren het selectievakje **Office 365 Enterprise E4** licentie uit en selecteer een nieuw serviceabonnement voor het abonnement waar de klant naar overstapt.
+3. Schakel op **de pagina Licenties** beheren het selectievakje **Office 365 Enterprise E4** licentie uit en selecteer een nieuw serviceplan voor het abonnement waar de klant naar overstapt.
 
 4. Selecteer **Indienen**. Een bevestigingspagina bevat de nieuwe licentietoewijzingen.
 
@@ -91,7 +91,7 @@ Nadat u de gebruikerslicenties naar de nieuwe service hebt verplaatst, kunt u he
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Stap 3: het oude abonnement annuleren
 
-1. Selecteer in **Partner Center** menu **Klanten.** Selecteer de klant die u wilt verplaatsen en selecteer het abonnement dat u wilt annuleren.
+1. Selecteer klanten **Partner Center** het menu **.** Selecteer de klant die u wilt verplaatsen en selecteer het abonnement dat u wilt annuleren.
 
 2. Stel op de pagina met abonnementsdetails de abonnementsstatus in op **Tijdelijk.**
 

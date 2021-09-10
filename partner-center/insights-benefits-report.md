@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Kijk welke typen voordelen van Microsoft Partner u hebt gekregen om uw bedrijf te vergroten, de efficiëntie te verbeteren en de vaardigheden van uw team te verbeteren.
+description: Kijk welke soorten voordelen van Microsoft Partner u hebt gekregen om uw bedrijf te helpen groeien, de efficiëntie te verbeteren en de vaardigheden van uw team te verbeteren.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ed3bd35e25f21a9803eac10d7c6308e3eaa1f715451c00ee2943e92533fc4d2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689183"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957019"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Voordelen is beschikbaar via Partner Center Insights dashboard
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Voordelen is beschikbaar via het Partner Center Insights dashboard
 
 **Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
@@ -59,9 +59,9 @@ In deze grafiek wordt de maandelijkse trend weergegeven van licenties die zijn v
 
 ## <a name="visual-studio-subscriptions"></a>Visual Studio-abonnementen
 
-Deze grafiek toont de maandelijkse trend van Visual Studio geactiveerd voor abonnementen die u tijdens het geselecteerde datumbereik hebt toegewezen.
+Deze grafiek toont de maandelijkse trend van Visual Studio geactiveerd voor abonnementen die zijn toegewezen tijdens het geselecteerde datumbereik.
 
-Selecteer een tabblad boven aan de grafiek om de trend weer te geven van een specifiek Visual Studio-abonnement dat als voordelen wordt verleend. Kolommen in de grafiek vertegenwoordigen licenties die worden gebruikt voor het abonnement. De lijngrafiek vertegenwoordigt de algemene licenties die zijn toegewezen voor het abonnement.
+Selecteer een tabblad boven aan de grafiek om de trend weer te geven van een specifiek Visual Studio abonnement dat als voordelen wordt verleend. Kolommen in de grafiek vertegenwoordigen licenties die worden gebruikt voor het abonnement. De lijngrafiek vertegenwoordigt de algemene licenties die zijn toegewezen voor het abonnement.
 
 :::image type="content" source="images/insights/benefits-visual-studio-subscriptions.png" alt-text="Visual Studio abonnementen.":::
 
@@ -83,4 +83,4 @@ Selecteer een Go-To-Market-aanbieding of -servicecategorie in de vervolgkeuzelij
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).
+- Zie voor meer rapporten [Partner Center Insights.](partner-center-insights.md)

@@ -9,34 +9,34 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18b2d83b71b258d5c3d59f9a87b8b519d868b5c2a410dd6f18cde643b7531f98
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 0d5eab0684c52c94c0709f09f254031dd80d8a28
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683686"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957016"
 ---
-# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Competenties is beschikbaar via het Partner Center Insights dashboard
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Rapport Competenties dat beschikbaar is via Partner Center Insights dashboard
 
-**Juiste rollen:** Globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
+**Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
-Met competenties kan uw bedrijf uw technische mogelijkheden voor het leveren van Microsoft-oplossingen demonstreren. Microsoft-competenties zijn ontworpen om te voldoen aan de behoeften van uw klanten en uw expertise te presenteren aan potentiële klanten. Ze bieden een schat aan voordelen van Microsoft, zoals inbegrepen hoeveelheden Azure-verbruik, rechten voor cloudproducten zoals Office 365, technische ondersteuning, Go-to-Market-aanbiedingen en andere. Er zijn momenteel in totaal 19 competenties in de volgende categorieën: **App en infrastructuur,** **Bedrijfstoepassingen,** Gegevens en **AI** en **Moderne werkplek.** Competenties zijn bijvoorbeeld gelaagd in Silver- of Gold-niveaus. Er is een hogere staaf voor Gold-competentie en er is een hoger niveau aan marketingresources, aanbiedingen en programma's beschikbaar.  
+Met competenties kan uw bedrijf uw technische mogelijkheden voor het leveren van Microsoft-oplossingen demonstreren. Microsoft-competenties zijn ontworpen om te voldoen aan de behoeften van uw klanten en om uw expertise te presenteren aan potentiële klanten. Ze bieden een schat aan voordelen van Microsoft, zoals inbegrepen hoeveelheden Azure-verbruik, rechten voor cloudproducten zoals Office 365, technische ondersteuning, Go-to-Market-aanbiedingen en andere. Er zijn momenteel in totaal 19 competenties in de volgende categorieën: **App en** **infrastructuur,** Bedrijfstoepassingen, Gegevens en **AI** en **Moderne werkplek.** Competenties zijn bijvoorbeeld gelaagd in Silver- of Gold-niveaus. Er is een hogere balk voor Gold-competentie en een bijbehorend hoger niveau van marketingresources, aanbiedingen en programma's die beschikbaar zijn.  
 
-U krijgt meer gebruik van het competentierapport als u meer te weten komt over de levenscyclus van competentie, het bereiken van competentie en andere details van het competentierapport.
+U krijgt meer gebruik van het competentierapport als u meer te weten komt over de competentielevenscyclus, het bereiken van competenties en andere details van het competentierapport.
 
 ## <a name="competency-life-cycle"></a>Levenscyclus van competentie
 
-Vanuit het oogpunt van de levenscyclus beginnen partners met het bouwen op de Key Performance Indicators (KPI's) die nodig zijn om specifieke competenties te verkrijgen. Zodra ze de drempelwaarde voor een bepaalde competentie voor alle vereiste metrische gegevens hebben bereikt, worden ze **gekwalificeerd** voor een competentie. Partners kunnen vervolgens betalen voor de competentieaanbieding (Silver of Gold) om de competentie te verkrijgen en actief **te** worden in die competentie. De status **Competentie actief** is één jaar geldig vanaf de datum van het bereiken van de competentie (dit wordt de jubileumdatum **voor** de competentie genoemd). Aan het einde van het jubileumjaar moeten partners voldoen aan de competentievereisten. Als ze niet opnieuw aan deze vereisten voldoen, verliezen ze de competentie. De **status Risico voor** een eerder bereikt competentie betekent dat bepaalde belangrijke metrische gegevens naar worden geprojecteerd om onder de drempelwaarde te vallen op de jubileumdatum van die **competenties.**
+Vanuit het oogpunt van de levenscyclus beginnen partners met het bouwen op de Key Performance Indicators (KPI's) die nodig zijn om specifieke competenties te verkrijgen. Zodra ze de drempelwaarde voor een bepaalde competentie voor alle vereiste metrische gegevens hebben bereikt, worden ze **gekwalificeerd** voor een competentie. Partners kunnen vervolgens betalen voor de competentieaanbieding (Silver of Gold) om de competentie te verkrijgen en actief **te** worden in die competentie. De status **Competentie** actief is één jaar geldig vanaf de datum waarop de competentie is behaald (dit wordt de jubileumdatum **voor** de competentie genoemd). Aan het einde van het jubileumjaar moeten partners voldoen aan de competentievereisten. Als ze niet opnieuw aan deze vereisten voldoen, verliezen ze de competentie. De **status At risk** voor een eerder behaald competentie betekent dat bepaalde belangrijke metrische gegevens worden geprojecteerd om onder de drempelwaarde te vallen op de jubileumdatum van die **competenties.**
 
 ## <a name="competency-attainment"></a>Competentie bereiken
 
-Elke competentie heeft een specifieke set vereisten om te voldoen. Vereisten voor cloudcompetenties kunnen worden onderverdeeld in twee categorieën: vaardigheden en prestaties.
+Elke competentie heeft een specifieke set vereisten om aan te voldoen. Vereisten voor cloudcompetenties kunnen worden onderverdeeld in twee categorieën: vaardigheden en prestaties.
 
-- Vaardigheden: Vereisten omvatten vaak examens, evaluaties of certificeringen waaraan personen binnen uw bedrijf moeten voldoen.
+- Vaardigheden: Vereisten omvatten vaak examens, evaluaties of certificeringen die personen binnen uw bedrijf moeten doorpassen.
 
-- Prestaties: Als u in aanmerking wilt komen voor een competentie, moet uw bedrijf voldoen aan bepaalde prestatiedrempelwaarden die zijn afgestemd op het competentiegebied. Het kan bijvoorbeeld zijn dat uw bedrijf moet voldoen aan een minimum aan Azure-verbruik gedurende de na 12 maanden.
+- Prestaties: Als u in aanmerking wilt komen voor een competentie, moet uw bedrijf voldoen aan bepaalde prestatiedrempelwaarden die zijn afgestemd op het competentiegebied. Zo moet uw bedrijf mogelijk voldoen aan een minimum aan Azure-verbruik gedurende de laatste 12 maanden.
 
-## <a name="competencies-report-details"></a>Details van het rapport Competenties
+## <a name="competencies-report-details"></a>Rapportdetails competenties
 
 U kunt de volgende secties bekijken in het rapport Competenties:
 
@@ -45,34 +45,34 @@ U kunt de volgende secties bekijken in het rapport Competenties:
 - Competentiegeschiedenis
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersrechten voor rapportviewers.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
 
 ### <a name="summary"></a>Samenvatting
 
-De samenvattingsweergave bevat een telling van competenties met hun namen op elk competentieniveau (Gold/Silver) voor alle fasen van de levenscyclus van de competentie. Fasen van de levenscyclus van de competentie zijn onder andere: **Gestart,** **Gekwalificeerde,** **Actieve** en **Risico lopen.** Voorbeeld: Cloudcompetentievereisten vallen onder twee categorieën: vaardigheden en prestaties.
+De samenvattingsweergave bevat een telling van de competenties met hun namen op elk competentieniveau (Gold/Silver) voor alle fasen van de levenscyclus van de competentie. Fasen van de levenscyclus van de competentie zijn onder andere: **Gestart,** **Gekwalificeerd,** **Actief** en **Risico lopen.** Voorbeeld: Vereisten voor cloudcompetentie vallen onder twee categorieën: vaardigheden en prestaties.
 
-- Gestart: Aantal competenties waarvoor u een of meer van de onderliggende vereisten hebt die worden uitgevoerd.
+- Gestart: Het aantal competenties waarvoor u een of meer van de onderliggende vereisten hebt die worden uitgevoerd.
 Uitsplitsing van het aantal gestarte competenties op competentieniveau (Silver/Gold) met competentienamen.
 
-- Gekwalificeerd: Competenties waarvoor u aan de vereisten hebt voldaan, maar de bijbehorende Silver/Gold-aanbieding mogelijk al dan niet hebt aangeschaft. Uitsplitsing van het aantal gekwalificeerde competenties op competentieniveau (Silver/Gold) met competentienamen.
+- Gekwalificeerd: Competenties waarvoor u aan de vereisten hebt voldaan, maar waarvoor u de bijbehorende Silver/Gold-aanbieding mogelijk nog niet hebt gekocht. Uitsplitsing van het aantal gekwalificeerde competenties op competentieniveau (Silver/Gold) met competentienamen.
 
 - Actief: Competenties waarvoor u aan de vereisten hebt voldaan en een Silver/Gold-aanbieding hebt aangeschaft. Uitsplitsing van het aantal actieve competenties op competentieniveau (Silver/Gold) met competentienamen.
 
-- Risico 's (volgend jaar): Aantal competenties  dat momenteel **actief** is, maar die ook het risico lopen niet te voldoen aan de vereisten voor het volgende jaar.
+- Risico 's (volgend jaar): Aantal competenties  dat momenteel **actief** is, maar die ook het risico lopen om niet te voldoen aan de vereisten voor het volgende jaar.
 Uitsplitsing van competenties (op competentieniveau, zoals Silver/Gold, met competentienamen) die het risico lopen om niet in aanmerking te komen voor het volgende jaar.
 
 :::image type="content" source="images/insights/competencies-summary.png" alt-text="samenvatting van competenties.":::
 
 ### <a name="competency-metric-analysis"></a>Analyse van metrische competentie
 
-In deze weergave ziet u de status van metrische competentiegegevens op basis van de drempelwaarden die partners nodig hebben om de competentie te verkrijgen/behouden op het niveau Silver/Gold. 
+In deze weergave ziet u de status van metrische competentiegegevens op basis van de drempelwaarden die partners nodig hebben om de competentie te verkrijgen/behouden op het niveau van Silver/Gold. 
 
-Het rapport kan worden gepivoeerd door de volgende twee datumbereiken:
+Het rapport kan worden draait door het volgende, twee datumbereiken:
 
-1. TTM-weergave: hiermee worden de prestaties van de partner in de afgelopen 12 maanden (TTM) opsnoemd.
+1. TTM-weergave: hiermee worden de prestaties van partners in de afgelopen 12 maanden (TTM) opsnoemd.
 2. Weergave jubileumjaar: hiermee worden de prestaties van de partner van de vorige jubileumdatum tot de volgende jubileumdatum opsnoemd.
 
-:::image type="content" source="images/insights/competencies-comp-metrics-analysis.png" alt-text="metrische analyse van competentie.":::
+:::image type="content" source="images/insights/competencies-comp-metrics-analysis.png" alt-text="metrische competentieanalyse.":::
 
 > [!NOTE]
  > Niet alle metrische gegevens worden in de analyse behandeld. Momenteel worden metrische gegevens die zijn gekoppeld aan leren en certificering niet ondersteund in het rapport Competenties. Cloud Business Applications (CBA)-competenties worden momenteel ook niet ondersteund in de metrische analyse voor de **competentiestatus** Actief.
@@ -85,7 +85,7 @@ In deze weergave ziet u een gedetailleerde tabel met alle competenties die u tot
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).
+- Zie voor meer rapporten [Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> U kunt de onbewerkte gegevens voor dit rapport downloaden uit de sectie Rapporten downloaden in het Insights dashboard. [Meer informatie](insights-download-reports.md) 
+> U kunt de onbewerkte gegevens voor dit rapport downloaden uit de sectie Rapporten downloaden in Insights dashboard. [Meer informatie](insights-download-reports.md) 

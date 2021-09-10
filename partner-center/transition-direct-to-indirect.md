@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Meer informatie over hoe een Cloud Solution Provider partner van een CSP-programma kan Partner Center om over te gaan van directe-factuurpartner naar indirecte reseller.
+description: Meer informatie over hoe Cloud Solution Provider partner van een CSP-programma kan Partner Center om over te gaan van directe-factuurpartner naar indirecte reseller.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3b7983a46ba81c7122057ed07fa9ebe7303237271776944121deea0c7e28862
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 17f0a23814213805d239d887719c5c3885234390
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687131"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957304"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller (Overstappen van partner voor directe facturering van Cloud Solution Provider naar indirecte CSP-reseller)
 
@@ -22,9 +22,9 @@ ms.locfileid: "115687131"
 
 > [!NOTE]
 > Dit artikel is bedoeld voor directe factuurpartners die hebben besloten over te gaan naar indirecte resellers. Zelfs als u nog geen expliciete beslissing hebt genomen om u in te schrijven [](direct-partner-new-requirements.md) als indirecte reseller, worden partners voor directe factuur die niet voldoen aan de nieuwe vereisten voor het CSP-programma voor directe factuurpartners door Microsoft geïnformeerd wanneer de mogelijkheden voor directe factuur worden [beperkt.](restricted-direct-bill-capabilities.md)
-<br>Vanaf januari 2021 wordt er een nieuwe omzetvereiste toegevoegd. Partners die zijn ingeschreven als partner voor directe factuur moeten in de afgelopen 12 maanden ten minste USD 300.000 aan omzet van het CSP-programma hebben gefactureerd op het niveau van een algemeen partneraccount.
+<br>Vanaf januari 2021 wordt er een nieuwe omzetvereiste toegevoegd. Partners die zijn ingeschreven als partner voor directe factuur moeten in de afgelopen 12 maanden ten minste USD $ 300.000 aan omzet van het CSP-programma hebben gefactureerd op het niveau van een algemeen partneraccount.
 
-U kunt zich inschrijven voor het indirecte resellerprogramma met behulp van uw bestaande tenant voor directe factuur.
+U kunt zich inschrijven voor het programma voor indirecte resellers met behulp van uw bestaande tenant voor directe kosten.
 
 ## <a name="get-started"></a>Aan de slag
 
@@ -38,7 +38,7 @@ U kunt zich inschrijven voor het indirecte resellerprogramma met behulp van uw b
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Schrijf u nu in.":::
 
-4. Selecteer Nu inschrijven. Uw indirecte resellerbedrijf maakt gebruik van dezelfde Microsoft Azure Active Directory (Azure AD)-tenant die u voor uw directe bedrijf gebruikt.
+4. Selecteer Nu inschrijven. Uw indirecte resellerbedrijf gebruikt dezelfde Microsoft Azure Active Directory (Azure AD)-tenant die u voor uw directe bedrijf gebruikt.
 
     > [!NOTE]
     > In eerste instantie is deze nieuwe overgangsmogelijkheid beschikbaar voor partners met de jubileumdatums van september tot en met december. Als u geen jubileumdatum tussen september en december hebt, ziet u de mogelijkheid op dit moment niet. Partners met jubileumdatums na december 2018 worden later op de hoogte gesteld zodra de functie is ingeschakeld voor de partners.
@@ -79,7 +79,7 @@ Lees Partner with  [indirect providers (Partner met indirecte providers) voor me
 
 ## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Een uitnodiging voor samenwerking accepteren van uw indirecte provider
 
-Wanneer u een indirecte provider vindt om mee samen te werken, gaat u een partnerschap aan met de indirecte provider in Partner Center.
+Wanneer u een indirecte provider vindt om mee samen te werken, kunt u een partnerschap tot stand met de indirecte provider in Partner Center.
 
 De indirecte provider die u selecteert, stuurt u per e-mail een uitnodigingskoppeling voor een samenwerking die u naar de uitnodiging in de Partner Center. Zorg ervoor dat uw globale beheerder zich bij de Partner Center en de uitnodigingskoppeling volgt. Wanneer u de uitnodiging accepteert, wordt de naam van de provider weergegeven in de lijst met indirecte provider.
 
@@ -89,7 +89,7 @@ Zowel u als uw indirecte provider moeten resellerrelaties hebben met klanten. Me
 
 Een indirecte reselleruitnodiging maken:
 
-1. Selecteer **Indirecte providers in** Partner Center linkernavigatiebalk.
+1. Selecteer **Indirecte providers** in Partner Center linkernavigatiebalk.
 
 2. Selecteer **Nieuwe klanten uitnodigen** om een klant uit te nodigen om tegelijkertijd een resellerrelatie met u en de indirecte provider tot stand te brengen. De provider moet een resellerrelatie hebben met uw klant, zodat ze namens uw klant orders kunnen indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties wil toevoegen aan bestaande abonnementen.
 
@@ -113,7 +113,7 @@ U beheert uw klanten met directe factuur en uw indirecte resellerklanten op een 
 
 - Orders voor producten maken
 - Azure-reserveringen beheren
-- Hun bestelgeschiedenis beheren
+- De ordergeschiedenis beheren
 - Software kopen
 - Klanten rechtstreeks factureren
 
@@ -135,7 +135,7 @@ U beheert uw klanten met directe factuur en uw indirecte resellerklanten op een 
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Uw klanten met directe factuur verplaatsen naar uw indirecte provider
 
-Uw indirecte provider kan geen orders of bestaande abonnementsoverdrachten verzenden voor uw bestaande klanten met directe factuur totdat ze een resellerrelatie met hen hebben. Als u de resellerrelatie tussen uw indirecte provider en uw bestaande klant voor directe factuur tot stand wilt laten komen, kunt u een van de volgende methoden gebruiken:
+Uw indirecte provider kan geen orders of bestaande abonnementsoverdrachten verzenden voor uw bestaande klanten met directe factuur totdat ze een resellerrelatie met hen hebben. U kunt een van de volgende methoden gebruiken om de resellerrelatie tussen uw indirecte provider en uw bestaande klant voor directe factuur vast te stellen:
 
 - [Reseller-relatie-extensie](#reseller-relationship-extension)
 
@@ -153,29 +153,29 @@ U kunt de functie extensie voor reseller-relaties gebruiken om een resellerrelat
 
 - U kunt alleen een indirecte provider selecteren waarvoor u een partneruitnodiging van [uw indirecte provider hebt geaccepteerd.](#accept-a-partnership-invitation-from-your-indirect-provider)
 
-- Een kopie van de factuurgegevens die u voor deze klant hebt, wordt beschikbaar gesteld aan de indirecte provider. U kunt toegang krijgen tot de factuurgegevens door de pagina Account voor deze klant te openen in Partner Center Dashboard.
+- Er wordt een kopie van de factuurgegevens die u voor deze klant hebt, beschikbaar gesteld aan de indirecte provider. U kunt toegang krijgen tot de factuurgegevens door de pagina Account voor deze klant te openen in Partner Center Dashboard.
 
     > [!NOTE]
-    > Met behulp van de extensiefunctie voor reseller-relaties geeft u toestemming om de factuurgegevens die u voor deze klant hebt te delen met de indirecte provider.
+    > Met behulp van de extensiefunctie voor reseller-relaties geeft u toestemming voor het delen van de factuurgegevens die u voor deze klant hebt met de indirecte provider.
 
 - Uw indirecte provider krijgt geen gedelegeerde beheerdersbevoegdheden [voor de](customers-revoke-admin-privileges.md) tenant van de klant. Als uw indirecte provider gedelegeerde beheerdersbevoegdheden vereist, moet u in plaats daarvan een indirecte reselleruitnodiging naar de klant verzenden.
 
-- Zodra de resellerrelatie tot stand is gebracht, wordt de indirecte provider weergegeven als een CSP-partner voor de klant op de pagina [Partnerrelaties](https://admin.microsoft.com/AdminPortal/Home#/partners) in Microsoft 365-beheer Center [en Microsoft Store voor Bedrijven](/microsoft-store/work-with-partner-microsoft-store-business).
+- Zodra de resellerrelatie tot stand is gebracht, wordt de indirecte provider weergegeven als een CSP-partner voor de klant op de pagina Partnerrelaties in [Microsoft 365-beheer Center](https://admin.microsoft.com/AdminPortal/Home#/partners) en [Microsoft Store voor Bedrijven](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
-    > Om verwarring en verwarring te voorkomen, bent u contractueel verplicht door uw partnerovereenkomst om de klant van de directe factuur te informeren en toestemming te vragen voordat u de functie relatie-extensie gebruikt om een resellerrelatie tot stand te krijgen tussen een bestaande klant met een directe factuur en een indirecte provider.
+    > Om verwarring en verwarring te voorkomen, bent u contractueel verplicht door uw partnerovereenkomst om de klant van de directe factuur te informeren en toestemming te vragen voordat u de functie voor relatie-extensie gebruikt om een resellerrelatie tot stand te stellen tussen een bestaande klant met een directe factuur en een indirecte provider.
 
-U kunt deze functie als volgende gebruiken op een bestaande klant-tenant:
+Deze functie gebruiken op een bestaande klant-tenant:
 
-1. Meld u aan Partner Center als een **beheerdersagent.**
+1. Meld u aan Partner Center als een **beheerderagent.**
 
-2. Selecteer op **de pagina Klanten** een bestaande klant en selecteer het pictogram Snelle **koppelingen** om de samenvattingsweergave van de klant uit te vouwen.
+2. Selecteer op **de pagina Klanten** een bestaande klant en selecteer het pictogram Snelle **koppelingen** om de overzichtsweergave van de klant uit te vouwen.
 
 3. Selecteer **onder Indirecte provider(s)** de optie **Klant overdragen op een indirecte provider.**
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="Breng de klant over naar een indirecte provider.":::
 
-4. Selecteer in het pop-updialoogvenster de **indirecte provider** die u een resellerrelatie met de klant wilt hebben.
+4. Selecteer in het pop-updialoogvenster de **indirecte provider** die u een resellerrelatie met de klant wilt laten hebben.
 
 5. Selecteer **Opslaan en doorgaan**.
 
@@ -189,13 +189,13 @@ Uw indirecte provider kan geen orders voor uw bestaande klanten met directe fact
 
 1. Selecteer **Indirecte providers in** Partner Center linkernavigatiebalk.
 
-2. Selecteer **Invite new customers** to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time. De provider moet een resellerrelatie hebben met uw klant, zodat ze namens uw klant orders kunnen indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties wil toevoegen aan bestaande abonnementen.
+2. Selecteer **Nieuwe klanten uitnodigen** om een klant uit te nodigen om tegelijkertijd een resellerrelatie met u en de indirecte provider tot stand te brengen. De provider moet een resellerrelatie hebben met uw klant, zodat ze namens uw klant orders kunnen indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties wil toevoegen aan bestaande abonnementen.
 
     :::image type="content" source="images/direct/direct6.png" alt-text="Nodig nieuwe klanten uit.":::
 
 3. Bekijk op de volgende pagina het concept-e-mailbericht. U kunt het conceptbericht openen via e-mail of u kunt het bericht naar het klembord kopiëren en in een e-mailbericht plakken.
 
-4. Bewerk de tekst in het e-mailbericht om te zeggen wat u nodig hebt, maar zorg ervoor dat u de koppeling op social media gebruikt om de klant rechtstreeks te verbinden met zowel uw account als het account van uw provider. Selecteer vervolgens **Done**.
+4. Bewerk de tekst in het e-mailbericht om te zeggen wat u nodig hebt, maar zorg ervoor dat u de koppeling op bevat omdat deze is aangepast om de klant rechtstreeks te verbinden met zowel uw account als het account van uw provider. Selecteer vervolgens **Done**.
 
 5. Nadat de klant u en uw provider heeft gemachtigd om hun wederverkopers van records te zijn, hebt u beheerdersmachtigingen voor het beheren van hun abonnementen, licenties en gebruikers namens hen, en kan uw indirecte provider namens hen orders verzenden.
 
@@ -203,29 +203,29 @@ Uw indirecte provider kan geen orders voor uw bestaande klanten met directe fact
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft-klantovereenkomst acceptatie
 
-Microsoft Cloud-overeenkomst is geldig tot en met 31 januari 2020. Na die datum moeten alle klanten, bestaande en nieuwe, de nieuwe [Microsoft-klantovereenkomst.](confirm-customer-agreement.md) Voor het overstappen van klanten, als:
+Microsoft Cloud-overeenkomst is geldig tot 31 januari 2020. Na die datum moeten alle klanten, bestaande en nieuwe, de [nieuwe](confirm-customer-agreement.md)Microsoft-klantovereenkomst. Voor klanten die overstappen, als:
 
-- **Klant heeft de Microsoft-klantovereenkomst nog niet geaccepteerd**
+- **De klant heeft de Microsoft-klantovereenkomst nog niet geaccepteerd**
 
-   Werk samen met de indirecte provider om de klant [de Microsoft-klantovereenkomst.](confirm-customer-agreement.md)
+   Werk samen met de indirecte provider om de klant de [Microsoft-klantovereenkomst.](confirm-customer-agreement.md)
 
 - **De klant heeft Microsoft-klantovereenkomst geaccepteerd via het Microsoft 365-beheer Center**
 
    De acceptatie wordt bewaard zodra de resellerrelatie met de indirecte provider tot stand is gebracht. U hoeft niets te doen.
 
-- **De klant heeft Microsoft-klantovereenkomst u geaccepteerd via partnerverklaring**
+- **De klant heeft Microsoft-klantovereenkomst met u geaccepteerd via partnerverklaring**
 
-   De acceptatie wordt niet bewaard. Werk samen met de indirecte provider om de acceptatie van de [klant bij te werken in Partner Center](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers).
+   De acceptatie wordt niet behouden. Werk samen met de indirecte provider om [de acceptatie van de klant in](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers)Partner Center .
 
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Bestaande abonnementen voor directe factuur overdragen naar indirecte provider
 
-Indirecte resellers hebben onder het indirecte CSP-model geen factureringsrelaties met Microsoft. In plaats daarvan krijgen indirecte resellers abonnementen voor hun klanten via hun indirecte providers. Tijdens de overgang van directe factuurpartner naar indirecte reseller, moet u de bestaande abonnementen die u als directe factuurpartner hebt, overdragen naar uw indirecte provider. U kunt de self-served functie voor abonnementsoverdracht in Partner Center Dashboard gebruiken om dit te doen.
+Onder het indirecte CSP-model hebben indirecte resellers geen factureringsrelaties met Microsoft. In plaats daarvan krijgen indirecte resellers abonnementen voor hun klanten via hun indirecte providers. Tijdens de overgang van directe factuurpartner naar indirecte reseller, moet u de bestaande abonnementen die u als directe factuurpartner hebt overdragen naar uw indirecte provider. U kunt de functie voor zelfbehulpde abonnementsoverdracht in Partner Center Dashboard gebruiken om dit te doen.
 
 ### <a name="prerequisites"></a>Vereisten
 
-- Deze functie is alleen beschikbaar voor overgangspartners die de indirecte resellerinschrijving hebben voltooid met behulp van hun bestaande tenants voor directe-factuurpartners.
+- Deze functie is alleen beschikbaar voor overgangspartners die de indirecte resellerinschrijving hebben voltooid met behulp van hun bestaande tenants voor directe factuurpartners.
 
-- Voordat u abonnementen overzetten die aan een bepaalde klant zijn gekoppeld, moet de overgangspartner de klant verplaatsen naar een indirecte provider.
+- Voordat abonnementen die aan een bepaalde klant zijn gekoppeld, worden overgeplaatst, moet de overgangspartner de klant verplaatsen naar een indirecte provider.
 
 - De klant moet [de Microsoft-klantovereenkomst hebben geaccepteerd via de indirecte provider](#microsoft-customer-agreement-acceptance).
 
@@ -233,7 +233,7 @@ Indirecte resellers hebben onder het indirecte CSP-model geen factureringsrelati
 
 De functie bestaat uit vier stappen, waarbij:
 
-- De overgangspartner maakt een aanvraag voor abonnementsoverdracht. De aanvraag bevat een of meer bestaande abonnementen die zijn gekoppeld aan dezelfde klant en is geadresseerd aan een indirecte provider.
+- De overgangspartner maakt een aanvraag voor abonnementsoverdracht. De aanvraag bevat een of meer bestaande abonnementen die zijn gekoppeld aan dezelfde klant en wordt geadresseerd aan een indirecte provider.
 
 - De indirecte provider beoordeelt en accepteert (of weigert) de overdrachtsaanvraag.
 
@@ -250,15 +250,15 @@ De functie bestaat uit vier stappen, waarbij:
 > - [De overdracht van een klant maken](/partner-center/develop/create-a-transfer)
 > - [De overdracht van een klant intrekken](/partner-center/develop/withdraw-a-transfer)
 > - [De overdracht van een klant accepteren](/partner-center/develop/accept-a-transfer)
-> - [Overdracht van een klant weigeren](/partner-center/develop/reject-a-transfer)
+> - [Overdracht van een klant afwijzen](/partner-center/develop/reject-a-transfer)
 > - [De overdrachten van een klant ophalen](/partner-center/develop/get-all-of-a-customer-s-transfers)
-> - [Overdrachtsgegevens op id](/partner-center/develop/get-transfer-by-id)
+> - [Overdrachtsdetails per id op halen](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>Overgangspartner - overdrachtsaanvraag maken
 
 Een overdrachtsaanvraag maken als de overgangspartner:
 
-1. Meld u aan Partner Center als een **beheerdersagent.**
+1. Meld u aan Partner Center als een **beheerderagent.**
 
 2. Selecteer op **de** pagina Klanten de beoogde klant en selecteer het pictogram Snelle koppelingen om de overzichtsweergave van de klant uit te vouwen.
 
@@ -268,7 +268,7 @@ Een overdrachtsaanvraag maken als de overgangspartner:
 
 5. Zoek op **de pagina** Abonnementen naar **Abonnementsoverdracht.**
 
-6. Selecteer **onder Abonnementsoverdracht** de **optie Abonnementsoverdracht aanvragen.**
+6. Selecteer **onder Abonnementsoverdracht** **de optie Abonnementsoverdracht aanvragen.**
 
     :::image type="content" source="images/direct/direct8.png" alt-text="Abonnementsoverdracht aanvragen.":::
 
@@ -282,13 +282,13 @@ Een overdrachtsaanvraag maken als de overgangspartner:
 
     :::image type="content" source="images/direct/direct10.png" alt-text="Overdrachtsaanvraaglijst.":::
 
-10. Informeer uw indirecte provider dat u een aanvraag voor abonnementsoverdracht naar deze provider hebt gemaakt.
+10. Informeer uw indirecte provider dat u een aanvraag voor abonnementsoverdracht naar hen hebt gemaakt.
 
 ### <a name="indirect-provider---accept-transfer-request"></a>Indirecte provider - overdrachtsaanvraag accepteren
 
 Een overdrachtsaanvraag controleren en accepteren als de indirecte provider:
 
-1. Meld u aan Partner Center als een **beheerderagent** of **verkoopagent.**
+1. Meld u aan Partner Center **beheerderagent** of **verkoopagent.**
 
 2. Selecteer op **de pagina** Klanten de beoogde klant en selecteer het pictogram Snelle koppelingen om de overzichtsweergave van de klant uit te vouwen.
 
@@ -302,13 +302,13 @@ Een overdrachtsaanvraag controleren en accepteren als de indirecte provider:
 
 6. Selecteer **onder Abonnementsoverdracht** de overdrachtsaanvraag die u wilt controleren.
 
-7. Selecteer **waar** nodig **Accepteren**(of Weigeren).
+7. Selecteer **Indien van** toepassing **Accepteren**(of Afwijzen).
 
     :::image type="content" source="images/direct/direct12.png" alt-text="Overdrachtsaanvraag accepteren.":::
 
 8. Wacht tot de overdrachtsaanvraag is voltooid.
 
-### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Indirecte provider: controleren of overdrachtsaanvraag is voltooid
+### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Indirecte provider - controleren of overdrachtsaanvraag is voltooid
 
 1. Nadat de overdrachtsaanvraag is voltooid, controleert u of de abonnementen worden weergegeven onder **Abonnementen.**
 
@@ -318,7 +318,7 @@ Een overdrachtsaanvraag controleren en accepteren als de indirecte provider:
 
 De overgangspartner moet het volgende doen:
 
-1. Meld u aan Partner Center als een **beheerderagent** **of verkoopagent.**
+1. Meld u aan Partner Center **beheerderagent of** **verkoopagent.**
 
 2. Selecteer op **de** pagina Klanten de beoogde klant en selecteer het pictogram **Snelle koppelingen** om de overzichtsweergave van de klant uit te vouwen.
 
@@ -349,13 +349,13 @@ De overgangspartner moet het volgende doen:
 - **Niet alle aankopen kunnen worden overgedragen via een zelfbehulpde abonnementsoverdracht.** Op dit moment kunt u alleen O365-abonnementen en Azure PAYG-abonnementen (MS-AZR-0145P) overdragen met behulp van deze functie. Andere aankopen, waaronder Azure-abonnementen, gereserveerde Azure-instanties, abonnementen op basis van een termijn en SaaS-abonnementen voor Azure Marketplace worden niet ondersteund. U ziet een reden waarom een abonnement niet kan worden overgedragen op de pagina overdrachtsaanvraag verzenden. Als u deze abonnementen wilt [](create-a-new-subscription.md#suspend-or-cancel-a-subscription) overdragen, moet u het bestaande abonnement annuleren en een nieuwe aanbieding voor de klant kopen via indirecte provider.
 
    > [!NOTE]
-   > Wijzigingen in [de beschikbaarheid van Azure-aanbieding in CSP met](./announcements/2021-july.md) betrekking tot de nieuwe commerce-ervaring hebben geen invloed op dit overgangsscenario. U kunt voortdurend Azure PAYG-abonnementen[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)overdragen naar indirecte provider.
+   > Wijzigingen in [de beschikbaarheid van Azure-aanbieding in CSP met](./announcements/2021-july.md) betrekking tot de nieuwe commerce-ervaring zijn niet van invloed op dit overgangsscenario. U kunt voortdurend Azure PAYG-abonnementen[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)overdragen naar indirecte provider.
 
 - **Kan niet worden getest met behulp van een sandbox-omgeving.**
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Inschrijven voor incentives voor indirecte resellers
 
-Nadat u zich hebt geregistreerd als een indirecte reseller op uw bestaande tenant van uw partner voor directe factuur, ontvangt u binnen 30 dagen een uitnodiging om u in te schrijven voor een indirecte reseller. De uitnodiging is gebaseerd op het MPN-account van de partner dat momenteel is gekoppeld aan de tenant van uw CSP-partner. De uitnodiging wordt verzonden naar het e-mailadres dat is gekoppeld aan het MPN-account van de partner.
+Nadat u zich hebt geregistreerd als een indirecte reseller op uw bestaande tenant van de partner voor directe factuur, ontvangt u binnen 30 dagen een uitnodiging om u in te schrijven voor een indirecte reseller. De uitnodiging is gebaseerd op het MPN-account van de partner dat momenteel is gekoppeld aan de tenant van uw CSP-partner. De uitnodiging wordt verzonden naar het e-mailadres dat is gekoppeld aan het MPN-account van de partner.
 
 U komt ook in aanmerking voor inschrijving voor incentive-programma's voor directe factuur bij dezelfde partner-tenant. U moet de programma's afzonderlijk beheren.
 

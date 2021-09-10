@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 4749674da24d047b84014194081e00a2bddd1c89e9d515740b4346e0b05898b8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e7e18c967481e0bfb6e6b8466746beb5ed8459b9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683589"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957226"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Uw rol, uw machtigingen en uw globale beheerder zoeken
 
@@ -40,11 +40,11 @@ Soms moet de rol van een gebruiker worden gewijzigd of wil een nieuwe gebruiker 
 
 Een globale beheerder zoeken die rolwijzigingen kan aanbrengen of rollen kan toewijzen aan een nieuwe gebruiker: 
 
-1. Selecteer in **het pictogram Accountinstellingen** in de rechterboven Partner Center de optie **Gebruikersbeheer.**
+1. Selecteer in **het pictogram Accountinstellingen** rechtsboven Partner Center de optie **Gebruikersbeheer.**
 
 1. Filteren op globale beheerder
 
-1. U kunt ook naar Mijn profiel  **gaan,** Rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen. 
+1. U kunt ook naar Mijn profiel **gaan,** Rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen.  
 
 
 ## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Een nieuwe globale beheerder toewijzen aan uw bedrijf

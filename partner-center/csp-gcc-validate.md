@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9480b944ef740a8a230c227fb53242c1a4d18230ca77a17facad5cfd3482ee4d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 73ccd5326447de52eef6f7de2a43b53c09d84dae
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690270"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957652"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC voor geschiktheidscriteria voor CSP-partners en klanten 
 
@@ -55,10 +55,10 @@ Office 365 Government GCC CSP-partners en -klanten worden gevalideerd voor gesch
     -   Department of Energy (DoE) UCNI
     -   Criminal Justice Information (CJI)
     -   Impactniveaugegevens van de afdeling defensie
-    -   Andere typen gegevens waarvoor een Azure Government
+    -   Andere typen gegevens waarvoor Azure Government
 
 Een internationale commerciële entiteit kan in aanmerking komen als deze voldoet aan de hierboven genoemde vereisten en geverifieerde aanwezigheid in de Verenigde Staten heeft (zoals een adressenadres, een fysieke locatie, enzovoort).
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Verkopen Office 365 Government GCC voor CSP-abonnementen aan gekwalificeerde klanten](csp-gcc-overview.md)
+- [Verkopen Office 365 Government GCC CSP-abonnementen aan gekwalificeerde klanten](csp-gcc-overview.md)

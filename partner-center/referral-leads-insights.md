@@ -10,11 +10,11 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.openlocfilehash: 55e502895b63e1c1a7e41f3d316355bedd7f7001
-ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122514164"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957292"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Uw leads analyseren: bekijk hoe goed u doelklanten en mogelijke verwijzingen aantrekt (Engelstalig)
 <!-- 
@@ -25,7 +25,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 Op **de** pagina Leads onder **de sectie** Analyse in Verwijzingen kunt u zien hoe uw verwijzingen presteren. Bekijk deze metrische gegevens regelmatig om trends of gebieden te identificeren die aandacht nodig hebben en ga aan de slag met uw bedrijfsdoelen.
 
-Als u de inzichten van uw leads wilt bekijken, gaat u in Partner Center menu naar **Verwijzingen > uw > leads.**
+Als u de inzichten van leads wilt bekijken, gaat u in Partner Center menu naar **Verwijzingen > Uw leads > analyseren.**
 
 ## <a name="apply-filters"></a>Filters toepassen
 
@@ -51,7 +51,7 @@ De metrische gegevens voor het wijzigen van het percentage (rood of groen, met e
 
 :::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Afbeelding van de overzichtskaart van leads-analyses.":::
 
-## <a name="conversion-funnel"></a>Conversie trechter
+## <a name="conversion-funnel"></a>Conversie-trechter
 
 In deze sectie ziet u een visuele indicator van hoe uw deals van de ene status naar de andere gaan tijdens hun levenscyclus. U kunt de volledige levenscyclus bekijken op basis van het dealvolume, evenals de dealwaarde in USD op basis van het hoofd pivot voor deze sectie. De eerste sectie is gelabeld met het type deal om u een visuele indicator van het volume of de waarde per type te geven. Er is ook een sectie, **Leads** uit het verleden, die wordt gebruikt om de deals aan te geven waarvoor u actie hebt ondernomen door deze te accepteren/te accepteren of te markeren als gewonnen/verloren in de periode die voor het rapport is geselecteerd. U kunt filters toepassen om de voortgang van de deals in verschillende fasen in hun levenscyclus weer te geven.
 

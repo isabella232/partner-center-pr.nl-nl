@@ -9,19 +9,19 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 22a4cd826d806ba4f9cc3e83ea27116d5f694373fa26afdb3f403e7497f26e8c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685017"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956881"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Analyse gebruiken om de prestaties van uw indirecte resellers te analyseren
 
 **Juiste rollen:** Globale | Beheerder van gebruikersbeheer
 
 
-Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegevens op de **analysepagina voor** resellers om uw successen, de successen van uw indirecte resellers en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.
+Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegevens op de **pagina Analyse** van resellers om uw successen, de successen van uw indirecte resellers en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.
 
 > [!NOTE]
 > Analyse van indirecte resellers is alleen beschikbaar voor indirecte providers in het Cloud Solution Provider programma.
@@ -33,7 +33,7 @@ We volgen de volgende metrische gegevens:
 **Samenvatting**  
  - **Totaal aantal resellers:** aantal actieve resellers op de laatste dag van het abonnement  
  - **Nieuwe resellers:** aantal nieuwe indirecte resellers voor de opgegeven periode  
- - **Actieve resellers:** aantal indirecte resellers waarbij de MPNID ten minste één abonnement heeft en waarbij de abonnementsstatus niet wordt verwijderd  
+ - **Actieve resellers:** aantal indirecte resellers waarbij de MPNID ten minste 1 abonnement heeft en waarbij de abonnementsstatus niet wordt verwijderd  
  - **Resellers transacting**: Aantal indirecte resellers met een abonnement dat in de opgegeven periode is verkocht  
 
 **Resellers per markt**  
@@ -45,7 +45,7 @@ We volgen de volgende metrische gegevens:
 **Belangrijkste producten per aantal abonnementen**  
  - **Dynamics 365:** Dynamics 365-producten gesorteerd op verkochte abonnementen  
  - **EMS:** aantal verkochte Enterprise Management Services-abonnementen  
- - **Microsoft 365:** Aantal verkochte Microsoft 365 abonnementen  
+ - **Microsoft 365:** aantal verkochte Microsoft 365 abonnementen  
  - **Office 365:** Office 365 gesorteerd op verkochte abonnementen  
 
 **Nieuwe abonnementen**  
@@ -53,7 +53,7 @@ We volgen de volgende metrische gegevens:
 
 **Abonnementsverloop**  
  - **Nieuwe abonnementen:** aantal nieuwe abonnementen toegevoegd op datum  
- - **Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date  
+ - **Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date (Aantal abonnementen dat is gedeprovisioneerd of opgeschort op datum)  
 
 **Details van nieuwe reseller**  
  - **Resellernaam:** Namen van indirecte resellers  
@@ -63,7 +63,7 @@ We volgen de volgende metrische gegevens:
 
 **Ondertekende MPA-status**
 
-In deze sectie vindt u de status van de ondertekende MPA-status van de indirecte CSP-resellers.
+Deze sectie bevat de status van de ondertekende MPA-status van de indirecte CSP-resellers.
 
  - **Resellernaam:** naam van de indirecte CSP-reseller
  - **MPN-id:** MPN-id van de indirecte reseller

@@ -1,5 +1,5 @@
 ---
-title: Api voor alle gegevenssets op Insights halen
+title: Alle api voor gegevenssets op halen - Insights gegevens
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
@@ -8,14 +8,14 @@ description: Gebruik deze API om details op te halen van alle beschikbare gegeve
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 96bbb039c022d3587183b8dbec014bc362255b750ac6670fe3c1906629b7e291
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8f4e69c8759c16bc38e64a361c8c077989447d3e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693330"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957415"
 ---
-# <a name="get-all-datasets-api"></a>Api voor alle gegevenssets op halen
+# <a name="get-all-datasets-api"></a>Alle gegevenssets-API op halen
 
 De API Alle gegevenssets verkrijgen haalt alle beschikbare gegevenssets op. Gegevenssets maken een lijst van de tabellen, kolommen, metrische gegevens en tijdsbereiken.
 
@@ -30,7 +30,7 @@ De API Alle gegevenssets verkrijgen haalt alle beschikbare gegevenssets op. Gege
 
 |    Header    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory -toegang token (AAD) in het formulier`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 

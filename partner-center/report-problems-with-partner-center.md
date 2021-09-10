@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8539b5744cccd7356873a5fa8568fe271cc372877487afe1febe9290ed1e70ac
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3e8f48476a6136889be8bb5c9f7a12ed8c42dc94
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682759"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957247"
 ---
 # <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Diagnostische gegevens verzamelen en problemen rapporteren in Partner Center
 
@@ -41,14 +41,14 @@ Neem contact Partner Center ondersteuning als u problemen hebt of hulp nodig heb
 
 **Momenteel in preview*
 
-Met afspraakplanning kunt u een afspraak plannen met de advocate die aan uw case is toegewezen.  In de preview-versie zijn afspraken beperkt tot een subset van probleemtypen en ondersteuningsteams.  
+Met het plannen van afspraken kunt u een afspraak plannen met de advocate die aan uw case is toegewezen.  In de preview-versie zijn afspraken beperkt tot een subset van probleemtypen en ondersteuningsteams.  
 
    > [!NOTE]
    > Een ondersteuningsafspraak plannen is niet onmiddellijk beschikbaar na het maken van een case. U kunt alleen een ondersteuningsafspraak plannen nadat uw aanvraag is toegewezen aan een eigenaar.   
 
 1. Selecteer in **Partner Center** dashboard **[ondersteuning.](https://partner.microsoft.com/dashboard/support/servicerequests)** 
 
-2. Klik op uw openstaande aanvraag om ticketgegevens weer te geven. Selecteer in Een ondersteuningsafspraak **plannen (preview)** een beschikbare datum en tijd. De beschikbare afspraaktijden zijn gebaseerd op de agendabeschikbaarheid van de Support Advocate en worden weergegeven in uw lokale tijdzone.
+2. Klik op uw open aanvraag om ticketgegevens weer te geven. Selecteer in Een ondersteuningsafspraak **plannen (preview)** een beschikbare datum en tijd. De beschikbare afspraaktijden zijn gebaseerd op de agendabeschikbaarheid van de Support Advocate en worden weergegeven in uw lokale tijdzone.
 
 :::image type="content" source="images/support/ticket.png" alt-text="Een ondersteuningsafspraak plannen.":::
 
@@ -69,7 +69,7 @@ Met afspraakplanning kunt u een afspraak plannen met de advocate die aan uw case
    
 Plan een ondersteuningsafspraak in preview:
 - In de bevestigings- en herinneringsmails van de vergadering wordt de afspraaktijd mogelijk weergegeven in een andere tijdzone dan uw lokale tijd.  Met het bijgevoegde ICS-bestand wordt de afspraak echter op het juiste lokale tijdstip aan uw agenda toegevoegd. 
-- Er is momenteel een beperking voor de taal van de bevestigings- en herinneringsmails van de vergadering.  Deze e-mailberichten zijn mogelijk in het Engels in plaats van in de geselecteerde taal.  U ontvangt echter nog steeds ondersteuning in de geselecteerde taal.
+- Er is momenteel een beperking voor de taal van de bevestigings- en herinneringsmails van de vergadering.  Deze e-mailberichten zijn mogelijk in het Engels in plaats van de taal die u hebt geselecteerd.  U ontvangt echter nog steeds ondersteuning in de geselecteerde taal.
 
 ## <a name="send-diagnostics"></a>Diagnostische gegevens verzenden
 
@@ -87,13 +87,13 @@ U kunt een voorbeeld van de diagnostische gegevens bekijken en deze vervolgens o
 3. Controleer de informatie in het bestand voordat u deze verstuurt, omdat deze persoonsgegevens kan bevatten die u mogelijk wilt verwijderen.
 
    > [!NOTE]
-    >In sommige browsers wordt de **sectie Paginaweergave** onder aan de **pagina Preview** mogelijk leeg weergegeven. Dit is in orde.
+    >In sommige browsers kan de **sectie Paginaweergave** onder aan de **pagina Preview** leeg worden weergegeven. Dit is in orde.
 
 4. Volg de instructies op het scherm om het bestand op te slaan.
 
 5. Voeg het bestand toe aan uw ondersteuningsaanvraag.
 
-Ondersteuning van partners kan u vragen dit hulpprogramma meerdere keren uit te voeren, zodat deze de meest actuele informatie kan krijgen.
+Ondersteuning van partners kan u vragen dit hulpprogramma meerdere keren uit te voeren, zodat ze de meest actuele informatie kunnen krijgen.
 
 ## <a name="hours-of-operation"></a>Uren van bewerking
 

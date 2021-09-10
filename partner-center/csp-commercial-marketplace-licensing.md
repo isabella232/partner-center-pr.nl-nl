@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d8464b93f6f3215043775496baacc8c6abd907bf614db78725814c9bea59229
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690899"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957631"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Licenties beheren in Marketplace-aanbiedingen
 
@@ -35,7 +35,7 @@ Voordat u met dit proces begint, moet u zich vertrouwd maken met de basisbeginse
 |-------|--------|
 |Commerciële marketplace-abonnementen | [Abonnementen en prijzen voor aanbiedingen op de commerciële marketplace](/azure/marketplace/plans-pricing)    |
 |Aanbiedingen voor commerciële marketplace  | [Typen vermeldingen](/azure/marketplace/determine-your-listing-type)    |
-|Commerciële marketplace-accounts |  [Een commerciële marketplace-account maken in Partner Center](/azure/marketplace/create-account) |
+|Commerciële marketplace-accounts |  [Een account voor een commerciële marketplace maken in het Partnercentrum](/azure/marketplace/create-account) |
 
 ### <a name="determine-your-offer-id"></a>Uw aanbiedings-id bepalen
 
@@ -68,7 +68,7 @@ De eerste stap in het licentieproces is het maken van uw commerciële marketplac
 
     - U kunt klanten ook in staat stellen om de basisfunctionaliteit van uw app uit te voeren zonder licentie en Premium-functies uit te voeren zodra ze een licentie hebben aangeschaft. Als u dit wilt doen, **selecteert u Klanten toestaan mijn app te installeren, zelfs als er geen licenties zijn toegewezen.**
 
-    - Als u niet wilt dat licentiebeheer is ingeschakeld voor uw aanbieding, selecteert u Nu downloaden **(gratis)**, **Gratis proefversie** of **Neem contact met mij op.**
+    - Als u niet wilt dat licentiebeheer voor uw aanbieding is ingeschakeld, selecteert u Nu downloaden **(gratis)**, **Gratis proefversie** of **Neem contact met mij op.**
 
 ## <a name="create-your-plan"></a>Uw plan maken
 
@@ -79,17 +79,17 @@ In deze stappen definieert u het plan of de plannen die u wilt inschakelen voor 
 3. Voer op **de pagina Abonnementsvermelding** de beschrijving van uw abonnement **in.**
 4. Als u de beschrijving wilt opslaan en later wilt voltooien, selecteert **u Concept opslaan.**
 
-5. Wanneer u klaar bent, selecteert u **Controleren en publiceren.** De plangegevens worden nu weergegeven op appsource.microsoft.com aanbiedingsvermelding (sectie abonnementen).
+5. Wanneer u klaar bent, selecteert u **Controleren en publiceren.** De plangegevens worden nu weergegeven op de appsource.microsoft.com onder aanbiedingsvermelding (sectie abonnementen).
 
 6. Nadat u alle plannen voor deze aanbieding hebt gemaakt, moet u de service-id van elk plan kopiëren. Selecteer **Bovenaan de pagina** Abonnementsvermelding de optie Planoverzicht. Kopieer de service-id voor elk plan naar een veilige locatie.
 
 ## <a name="add-service-ids-to-your-solution"></a>Service-ID's toevoegen aan uw oplossing
 
-De volgende stap is het bijwerken van uw oplossing door de service-ID's toe te voegen voor elk plan dat u zojuist hebt gekopieerd. Zie Create an [AppSource Package for your solution (Een AppSource-pakket maken voor uw oplossing) voor hulp hiervoor.](/powerapps/developer/data-platform/create-package-app-appsource)
+De volgende stap is het bijwerken van uw oplossing door de service-ID's toe te voegen voor elk plan dat u zojuist hebt gekopieerd. Zie Create an [AppSource Package for your solution (Een AppSource-pakket maken voor uw oplossing) voor hulp.](/powerapps/developer/data-platform/create-package-app-appsource)
 
 ## <a name="upload-your-package-and-publish-your-offer"></a>Upload pakket maken en uw aanbieding publiceren
 
-1. Selecteer in het navigatiedeelvenster links **Commerciële marketplace** en selecteer vervolgens **Technische configuratie.**
+1. Selecteer commerciële marketplace in het navigatiedeelvenster **aan de linkerkant** en selecteer **vervolgens Technische configuratie.**
 2. Selecteer **onder Basislicentiemodel** de optie **Gebruiker**.
 3. Voer **onder CRM-pakket** de URL van uw pakketlocatie in.
 4. Gebruik de andere tabbladen in het linkernavigatievenster om andere vereiste gegevens in te voeren. Wanneer u klaar bent, selecteert u **Controleren en publiceren.**
@@ -112,7 +112,7 @@ De aanbieding is binnen 4-6 uur live.
 
     - **Voor aanbiedingen met licentie:** als voor uw aanbieding een licentiecontrole is vereist, kunnen gebruikers alleen een lead invoeren door op **Contact** opnemen te klikken, zodat u met hen kunt communiceren.
 
-    - **Voor aanbiedingen met licentie met** een gratis installatieoptie: als voor uw aanbieding  geen licentiecontrole is vereist, zien beheerders naast Contact opnemen ook de knop Nu **downloaden.** Gebruikers die de optie voor gratis installatie willen proberen, moeten op Nu downloaden klikken **om** de aanbieding te installeren in Power Platform Beheercentrum. Gebruikers kunnen contact opnemen **nog steeds gebruiken** als ze vragen hebben of als ze willen upgraden naar een betaald abonnement.
+    - **Voor aanbiedingen met licentie met** een gratis installatieoptie: als voor uw aanbieding  geen licentiecontrole is vereist, zien beheerders naast Contact opnemen ook de knop Nu **downloaden.** Gebruikers die de optie voor gratis installatie willen proberen, moeten klikken op Nu downloaden **om** de aanbieding te installeren in Power Platform Beheercentrum. Gebruikers kunnen contact opnemen **nog steeds gebruiken** als ze vragen hebben of als ze willen upgraden naar een betaald abonnement.
 
 ## <a name="register-isv-connect-deal-in-deal-registration"></a>ISV-Verbinding maken registreren in dealregistratie
 
@@ -126,10 +126,10 @@ Gebruik de volgende procedure om de klant uit te nodigen om deel te nemen aan de
 2. Selecteer commerciële marketplace/overzicht in het navigatiemenu **aan de linkerkant.**
 3. Selecteer in het navigatiemenu links **Verwijzingen** en selecteer vervolgens **Dealregistratie.**
 4. Filter op **Ingediende** deals, selecteer het **tabblad Wordt** uitgevoerd en selecteer vervolgens de deal die u wilt.
-5. Selecteer Licenties beheren op de **overzichtspagina voor deze deal.**
+5. Selecteer licenties beheren op de **overzichtspagina voor deze deal.**
 6. Selecteer in **het venster Licenties beheren** de klant in de **vervolgkeuzelijst Klantgegevens.** Als de klantrelatie nog niet bestaat, selecteert u **+Een nieuwe klant uitnodigen om toestemming te geven.**
 7. Kopieer de koppeling die wordt weergegeven.
-8. Stuur deze koppeling via e-mail naar de factureringsbeheerder of globale beheerder van uw klant. Laat deze koppeling gebruiken om toegang te krijgen tot admin.microsoft.com en de relatie die u tot stand wilt stellen te accepteren en autoriseerde.
+8. Stuur deze koppeling via e-mail naar de factureringsbeheerder of globale beheerder van uw klant. Laat deze koppeling gebruiken om toegang te krijgen tot admin.microsoft.com en de relatie die u tot stand wilt laten komen, te accepteren en autoriseerde.
 
     >[!NOTE]
     >De relatie wordt pas tot stand gebracht als de klant deze stap uitvoert.

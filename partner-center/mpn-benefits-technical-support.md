@@ -3,18 +3,18 @@ title: 'MPN-voordelen : technische ondersteuning voor on-premises of cloudproduc
 description: Meer informatie over Microsoft Partner Network (MPN) voordelen voor technische ondersteuningsincidenten
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
-ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
+ms.openlocfilehash: 29650a1b94cee04b4290d42ac19d2c3304e743ec
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/01/2021
-ms.locfileid: "113173659"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957094"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Technische ondersteuning voor on-premises of cloudproducten
 
@@ -52,12 +52,12 @@ Uw technische voordelen weergeven of activeren in Partner Center:
    > [!NOTE]
    > Als uw account alleen is gekoppeld aan CSP en niet is gekoppeld aan MPN, ziet u het foutbericht 'U bent niet gemachtigd voor deze actie'. U moet een MPN-account hebben.
 
-2. Vouw **Voordelen uit** in het linkernavigatiemenu en selecteer Technische [**voordelen.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Op de pagina Technische voordelen worden actieve Gold-, Silver- of Microsoft Action Pack-lidmaatschapsaanbiedingen van uw organisatie weergegeven.
+2. Vouw **Voordelen uit** in het linkernavigatiemenu en selecteer Technische [**voordelen.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Op de pagina Technische voordelen worden actieve Gold-, Silver- of Microsoft Action Pack-lidmaatschapsaanbiedingen weergegeven.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Technische voordelen vouwt u vervolgens Voordelen uit." :::
 
    > [!NOTE]
-   > Als u geen actieve lidmaatschapsaanbiedingen hebt, ziet u het bericht 'Het lijkt erop dat u nog geen voordelen hebt'. Als uw bedrijf actieve lidmaatschapsaanbiedingen heeft, maar u deze niet kunt zien, hebt u zich aangemeld met het verkeerde account. Als u uw account wilt controleren, selecteert u het **pictogram Account** rechtsboven op de pagina en selecteert u Aanmelden met een **ander account** (indien nodig).
+   > Als u geen actieve lidmaatschapsaanbiedingen hebt, ziet u het bericht 'Het lijkt erop dat u nog geen voordelen hebt'. Als uw bedrijf actieve lidmaatschapsaanbiedingen heeft, maar u deze niet kunt zien, hebt u zich aangemeld met het verkeerde account. Als u uw account wilt controleren, selecteert u het **pictogram Account** rechtsboven op de pagina en selecteert u Aanmelden met een ander **account** (indien nodig).
 
 3. Als u Microsoft Product Support of Signature Product Support wilt gebruiken, moet u het voordeel activeren. Selecteer de knop Activeren om het voordeel **te** activeren. Voor het gebruikersaccount dat wordt gebruikt voor activering zijn de rollen Globale beheerder of MPN-partnerbeheerder vereist.
 
@@ -108,7 +108,7 @@ U moet Ondersteuning voor Bedrijven gebruiken en het proces starten om een on-pr
 
 2. Als uw ondersteuningscontract al aan uw account is gekoppeld, worden ondersteuningsincidenten weergegeven. Voor on-premises ondersteuning wordt het partnerondersteuningscontract weergegeven (tenzij het niet langer geldig is) met inbegrip van de begindatum, einddatum en resterende incidenten.
 
-Als u uw ondersteuningscontract moet koppelen, vouwt u 'Moet u meer ondersteuningsplannen kopen of toevoegen' uit en selecteert u de knop **Contract** toevoegen om uw toegangs-id en contract-id in te voeren. Vouw de **ondersteuningsplannen Wilt u niet beschikbaar zien? uit?** om partnerhandtekeninggegevens weer te geven. U ziet hier alleen partnerondersteuning als de contracten zijn verlopen, u geen incidenten meer hebt of als u een oud on-premises product hebt geselecteerd [(zie aka.ms/n-1](https://aka.ms/n-1) voor ondersteuningsproducten)
+Als u uw ondersteuningscontract moet koppelen, vouwt u 'Moet u meer ondersteuningsplannen kopen of toevoegen' uit en selecteert u de knop **Contract** toevoegen om uw toegangs-id en contract-id in te voeren. Vouw de **ondersteuningsplannen Wilt u niet beschikbaar zien? uit?** om partnerhandtekeninggegevens weer te geven. U ziet hier alleen Partnerondersteuning als de contracten zijn verlopen, u geen incidenten meer hebt of als u een oud on-premises product hebt geselecteerd (zie [aka.ms/n-1](https://aka.ms/n-1) voor ondersteuningsproducten)
 
 Zie Hoeveel partnerondersteuningsincidenten zijn er [nog? voor meer informatie.](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)
 
@@ -116,7 +116,7 @@ Zie Hoeveel partnerondersteuningsincidenten zijn er [nog? voor meer informatie.]
 
 Gold- of Silver-competentiepartners kunnen **Signature Cloud Support** voor technische ondersteuning op cloudproducten. Action Pack komen niet in aanmerking voor Signature Cloud Support tenzij ze een competentie hebben.  
 
-U hebt de toegangs-id en contract-id nodig wanneer u het voordeel voor Azure, Dynamics 365 en andere cloudproducten voor het eerst gebruikt (uitzonderings-Microsoft 365). De voordelen zijn gekoppeld aan uw gebruikersaccount totdat ze verlopen of er geen ondersteuningsincidenten meer zijn.
+U hebt de toegangs-id en contract-id nodig wanneer u het voordeel voor Azure, Dynamics 365 en andere cloudproducten voor het eerst gebruikt (uitzondering Microsoft 365). De voordelen zijn gekoppeld aan uw gebruikersaccount totdat ze verlopen of er geen ondersteuningsincidenten meer zijn.
 
 > [!NOTE]  
 > Wanneer u de gebruikt met behulp van de Azure Portal. Als uw ondersteuningscontract al aan het account is gekoppeld, ziet u het foutbericht 'Toegangs-id is al gekoppeld...' wanneer u de toegangs-id en contract-id toevoegt. zie hieronder
@@ -130,15 +130,15 @@ Gebruikers met **de rol Beheerderagent** kunnen [klanten](https://partner.micros
 Wanneer u de Azure Portal gebruikt, gebruikt u Signature Cloud Support door Help en ondersteuning, ondersteuningsplannen en vervolgens 'Ondersteuningsvoordelen koppelen' te selecteren en de toegangs-id en contract-id in te voeren.
 
 > [!NOTE]
-> Als u Microsoft Action Pack, krijgt u geen cloudondersteuning omdat deze geen Signature Cloud Support omvat- alleen Microsoft-productondersteuning (on-premises)
+> Als u microsoft-Action Pack krijgt u geen cloudondersteuning omdat deze geen Signature Cloud Support omvat- alleen Microsoft-productondersteuning (on-premises)
 
 Mogelijk wordt het foutbericht `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` weergegeven. Dit foutbericht is ongeldig en moet worden genegeerd. We hebben aangevraagd dat de fout wordt uitgeschakeld en vervangen door een nuttig diagnostisch foutbericht.
 
-U ziet de voorgaande fout als u een ondersteuningscontract meer dan één keer aan een account koppelt wanneer `Access ID is already associated …` u de Azure Portal. Zie de onderstaande scenario's:
+U ziet de voorgaande fout als u een ondersteuningscontract meer dan één keer aan een account koppelt wanneer u `Access ID is already associated …` de Azure Portal. Zie de onderstaande scenario's:
 
-1. Als u technische voordelen van goud of zilver hebt en u eerder het contract voor on-premises ondersteuning hebt toegevoegd, gebruikt u de Azure Portal en voegt u het contract voor de tweede keer toe aan hetzelfde account. U hoeft het ondersteuningscontract slechts eenmaal aan een account te koppelen en hoeft daarom geen ondersteuningsvoordelen in Azure te koppelen. Als u ondersteuningsvoordelen voor koppeling gebruikt wanneer het contract al aan het account is gekoppeld, ziet u de fout en moet deze worden genegeerd. Gebruik + Nieuwe Ondersteuningsaanvraag maak op de gebruikelijke manier een ondersteuningsincident en het ondersteuningsplan wordt weergegeven.
+1. Als u technische voordelen van goud of zilver hebt en u eerder het contract voor on-premises ondersteuning hebt toegevoegd, gebruikt u de Azure Portal en voegt u het contract voor de tweede keer toe aan hetzelfde account. U hoeft het ondersteuningscontract slechts één keer aan een account te koppelen en hoeft daarom geen ondersteuningsvoordelen in Azure te koppelen. Als u ondersteuningsvoordelen voor koppeling gebruikt wanneer het contract al aan het account is gekoppeld, ziet u de fout en moet deze worden genegeerd. Gebruik + Nieuwe Ondersteuningsaanvraag maak op de gebruikelijke manier een ondersteuningsincident en het ondersteuningsplan wordt weergegeven.
 
-2. Als het ondersteuningscontract is verlopen of het Signature 10-pack (Hybride competentie Gold) of Signature 5-pack (hybride competentie Silver) geen incidenten meer hebben, wordt het ondersteuningscontract verborgen omdat het ongeldig is. Als u opnieuw ondersteuningsvoordelen koppelt, ziet u de fout omdat het contract al is gekoppeld. U kunt een nieuw ondersteuningsplan aanschaffen om incidenten op ondersteuning voor Azure te halen.
+2. Als het ondersteuningscontract is verlopen of het Signature 10-pack (Hybride competentie Gold) of Signature 5-pack (hybride competentie Silver) geen incidenten meer hebben, wordt het ondersteuningscontract verborgen omdat het ongeldig is. Als u opnieuw ondersteuningsvoordelen koppelt, ziet u de fout omdat het contract al is gekoppeld. U kunt een nieuw ondersteuningsplan aanschaffen om uw incidenten ondersteuning voor Azure krijgen.
 
 Zie partnerondersteuningsplannen hieronder voor betaalde ondersteuningsaanbiedingen van partners
 
@@ -154,5 +154,5 @@ U kunt [partnerondersteuningsplannen vergelijken](https://partner.microsoft.com/
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Uw Microsoft Partner Network en aanbiedingen beheren](manage-your-partner-network-benefits.md)
-- [Technische voordelen activeren voor leden van Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Technische voordelen activeren voor leden van Partner Membership Center (PMC)](./partner-membership-center-retirement-faq.md)
 - [Technical Presales and Deployment Services (TPD)](technical-benefits.md)

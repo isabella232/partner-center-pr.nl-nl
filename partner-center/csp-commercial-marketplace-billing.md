@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 88438321c52528983d0d9309cc93a6824a26d6d5ccb6ecd1512d66ec94ef2ecc
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 102f13530ece08cd813412a44897ece0186e7cbb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691001"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956932"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Facturering voor commerciële marketplace-producten en -abonnementen in Partner Center
 
@@ -28,7 +28,7 @@ U hebt toegang tot facturen vanuit het Partner Center [dashboard](https://partne
 Partners in het CSP-programma worden gefactureerd voor isV-oplossingen op de commerciële marketplace die zijn gekocht voor een klant wanneer ze deze producten kopen bij Partner Center of bij de Azure Portal (met behulp van de eerder door CSP gekochte Azure-tenant van de klant).
 
 >[!NOTE]
->Als klanten hun eigen Azure AD-tenant gebruiken (niet een die is gekocht bij een partner in het CSP-programma), kunnen klanten er ook voor kiezen om hun eigen ISV SaaS-oplossing rechtstreeks te kopen vanuit ([Microsoft AppSource](https://appsource.microsoft.com/) of [Azure Marketplace).](https://azuremarketplace.microsoft.com/) Als ze dit doen, ontvangen ze hun eigen factuur rechtstreeks van Microsoft. En als een partner in het CSP-programma een [Azure-abonnement](/azure/role-based-access-control/built-in-roles) of het nieuwe Azure-plan aan de klant verkoopt en de klant (of indirecte reseller) op rollen gebaseerde toegang verleent tot die tenant (een rol toewijzen aan de klant naast **Lezer),** kan die klant (of indirecte reseller) ook aanbiedingen van de commerciële marketplace kopen zonder voorafgaande goedkeuring of melding aan de CSP-partner. In dergelijke gevallen zal Microsoft partners in het CSP-programma niet rechtstreeks op de hoogte stellen van aankopen van hun klanten. Microsoft biedt echter een optionele Azure Monitor [waarmee](/azure/azure-monitor/platform/alerts-activity-log) u waarschuwingen of meldingen over activiteiten in een Azure-abonnement kunt instellen.
+>Als klanten hun eigen Azure AD-tenant gebruiken (niet een die is aangeschaft bij een partner in het CSP-programma), kunnen klanten er ook voor kiezen om hun eigen ISV SaaS-oplossing rechtstreeks te kopen vanuit ([Microsoft AppSource](https://appsource.microsoft.com/) of [Azure Marketplace).](https://azuremarketplace.microsoft.com/) Als ze dit doen, ontvangen ze hun eigen factuur rechtstreeks van Microsoft. En als een partner in het CSP-programma een [Azure-abonnement](/azure/role-based-access-control/built-in-roles) of het nieuwe Azure-plan aan de klant verkoopt en de klant (of indirecte reseller) op rollen gebaseerde toegang verleent tot die tenant (een rol toewijzen aan de klant naast **Lezer),** kan die klant (of indirecte reseller) ook aanbiedingen van de commerciële marketplace kopen zonder voorafgaande goedkeuring of melding aan de CSP-partner. In dergelijke gevallen zal Microsoft partners in het CSP-programma niet rechtstreeks op de hoogte stellen van aankopen van hun klanten. Microsoft biedt echter een optionele Azure Monitor [waarmee](/azure/azure-monitor/platform/alerts-activity-log) u waarschuwingen of meldingen over activiteiten in een Azure-abonnement kunt instellen.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Toegang tot factureringsgegevens voor commerciële marketplace-producten
 
@@ -42,7 +42,7 @@ De globale beheerder of factureringsbeheerder voor uw bedrijf ontvangt een e-mai
 
     - **Tabblad** Terugkerend: hier worden factuur- en afstemmingsbestanden weergegeven voor abonnementen met betrekking tot Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro en Microsoft Azure.
 
-    - Tabblad Terugkerende en eenmalige aankopen: Hier worden factuur- en afstemmingsbestanden weergegeven voor **Azure-plan, Azure-reserveringen,** software en commerciële marketplace-producten.
+    - **Tabblad Terugkerende en eenmalige aankopen:** Toont factuur- en afstemmingsbestanden voor Azure-plan, Azure-reserveringen, software en commerciële marketplace-producten.
   
 3. Selecteer het **tabblad Terugkerende en eenmalige** aankopen. Als u abonnementen voor een klant in een andere valuta hebt aangeschaft, ziet u een tabblad voor elke valuta. U kunt op deze pagina enkele dingen doen:
 
@@ -57,9 +57,9 @@ De globale beheerder of factureringsbeheerder voor uw bedrijf ontvangt een e-mai
 
 ## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>Meer informatie over facturen en recon-bestanden voor commerciële marketplace-producten
 
-Deze sectie biedt meer informatie over factuur- en afstemmingsbestanden voor SaaS-abonnementen op de commerciële marketplace die zijn gekocht voor klanten van ISV-uitgevers van derden.
+Deze sectie biedt meer informatie over factuur- en afstemmingsbestanden voor SaaS-abonnementen op de commerciële marketplace die zijn gekocht voor klanten van externe ISV-uitgevers.
 
-Wanneer u Terugkerende en eenmalige aankopen  selecteert bij de optie Facturering in het menu Partner Center, krijgt u toegang tot facturen en **afstemmingsbestanden** voor kosten die betrekking hebben op aankopen van Zowel Microsoft (eigen partij) als ISV-aankopen (derden). Deze aankopen kunnen worden gekoppeld aan:
+Wanneer u Terugkerende en eenmalige aankopen  selecteert bij de optie Facturering in het menu Partner Center, krijgt u toegang tot facturen en **afstemmingsbestanden** voor kosten die betrekking hebben op aankopen van Zowel Microsoft (eigen partij) als ISV-aankopen (van derden). Deze aankopen kunnen worden gekoppeld aan:
 
 - SaaS-abonnementen (van Microsoft- of ISV-uitgevers)
 
@@ -80,11 +80,11 @@ Wanneer u een SaaS-product op basis van een licentie aanschaft bij een externe I
 
 Uw factuur bevat verschillende pagina's:
 
-- **Pagina 1 van de factuur:** Bevat een overzicht van de factureringsgegevens van de CSP-programmapartner. Dit omvat een overzicht van de kosten voor de factureringsperiode, een factuurnummer, betalingsvoorwaarden (net 60 dagen) en betalingswijzen voor facturering om te betalen via overboeking of cheque.
+- **Pagina 1 van de factuur:** Bevat een overzicht van de factureringsgegevens van de CSP-programmapartner. Dit omvat een overzicht van de kosten voor de factureringsperiode, een factuurnummer, betalingsvoorwaarden (net 60 dagen) en betalingswijzen voor facturering die per overboeking of cheque moeten worden betaald.
 
-- **Pagina 2 (en eventuele volgende pagina's) van de factuur:** Details van de kosten voor zowel eigen Microsoft-aankopen als ISV-aankopen van derden (op basis van licenties) van de commerciële marketplace. U kunt isV-aankopen op basis van licenties identificeren aan de hand **van Publisher** regel onder elke productnaam. Het bijbehorende afstemmingsbestand biedt meer factureringsgegevens voor specifieke factuurkosten.
+- **Pagina 2 (en alle volgende pagina's) van de factuur:** Details van de kosten voor zowel eigen Microsoft-aankopen als ISV-aankopen van derden (op basis van licenties) van de commerciële marketplace. U kunt aankopen op basis van ISV-licenties identificeren aan de **hand Publisher** regel onder elke productnaam. Het bijbehorende afstemmingsbestand biedt meer factureringsgegevens voor specifieke factuurkosten.
 
-- **Laatste pagina van de factuur:** Als er kosten in rekening worden gebracht voor Marketplace-producten op basis van licenties van een ISV, worden op deze laatste pagina meer details weergegeven over de naam en het adres van de ISV-uitgever.
+- **Laatste pagina van de factuur:** Als er kosten in rekening zijn gebracht voor Marketplace-producten op basis van licenties van een ISV, worden op deze laatste pagina meer details weergegeven over de naam en het adres van de ISV-uitgever.
 
 ### <a name="tips-on-reading-your-reconciliation-file"></a>Tips over het lezen van uw afstemmingsbestand
 
@@ -96,7 +96,7 @@ In het geval van gratis proefversie biedt ISV het volgende:
 
 - De gratis proefperiode dekt de kosten van het SaaS-product op basis van licenties van de ISV gedurende die periode. Er worden ook geen kosten in rekening gebracht voor het bijbehorende gebruik van de Azure-infrastructuur van dat SaaS-product.  Als u echter een ISV-aanbieding op basis van gebruik gebruikt, omvat de gratis proefversie niet de kosten van het onderliggende gebruik van de Azure-infrastructuur. In dit geval worden de gebruikskosten voor de Azure-infrastructuur weergegeven in een afzonderlijk Azure-afstemmingsbestand.
 
-- Wanneer u een product dat in aanmerking komt voor een gratis proefversie van EEN ISV voor uw klant koopt en implementeert, wordt de klant automatisch ingeschreven voor de gratis proefversie door de ISV-uitgever. De gratis proefperiode eindigt automatisch na de periode die is gedefinieerd door de ISV-uitgever. Nadat de periode is afgelopen, worden er kosten in rekening gebracht voor de klant. Dit betekent dat het afstemmingsbestand twee rijen kan weergeven voor een product dat in aanmerking komt voor een proefversie: een waarmee de proefperiode wordt bijhoudt en een waarin de betaalde aanbieding wordt bijhoudt (waarbij de kosten van $ 0 tot na het einde van de proefperiode worden weergegeven). Zodra de proefversie is beëindigd, worden er kosten weergegeven in de rij met de betaalde aanbieding. 
+- Wanneer u voor uw klant een product koopt en implementeert dat in aanmerking komt voor een gratis proefversie, wordt de klant automatisch door de ISV-uitgever ingeschreven voor de gratis proefversie. De gratis proefperiode eindigt automatisch na de periode die is gedefinieerd door de ISV-uitgever. Nadat de periode is afgelopen, worden er kosten in rekening gebracht voor de klant. Dit betekent dat het afstemmingsbestand twee rijen kan weergeven voor een product dat in aanmerking komt voor een proefversie: een waarmee de proefperiode wordt bijhoudt en een waarin de betaalde aanbieding wordt bijhoudt (waarbij de kosten van $ 0 tot na het einde van de proefperiode worden weergegeven). Zodra de proefversie is beëindigd, worden er kosten weergegeven in de rij met de betaalde aanbieding. 
 
 Zie Uw afstemmingsbestanden gebruiken voor meer informatie over wat [elke kolom vertegenwoordigt.](use-the-reconciliation-files.md) Zie ook [Typen facturering in Partner Center](./billing-basics.md)
 

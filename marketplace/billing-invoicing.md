@@ -6,36 +6,36 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 05/04/2021
-ms.openlocfilehash: 29737d4b7966a5c2fd683b424228888ac373a5bf2635d5750e131f655187b522
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688999"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936837"
 ---
-# <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace facturering en facturering
+# <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace en facturering beheren
 
-In dit artikel worden facturerings- en factureringsgegevens voor Azure Marketplace besproken.
+In dit artikel worden facturerings- en factureringsgegevens voor Azure Marketplace beschreven.
 
 ## <a name="microsoft-supports-multiple-currencies"></a>Microsoft ondersteunt meerdere valuta's
 
-Azure Marketplace-aanbiedingen worden in deze 17 valuta's gefactureerd:
+Azure Marketplace zijn geprijsd en gefactureerd in deze 17 valuta's:
 
 - Australische dollar (AUD)
-- Braziliaans echt (BRL)
-- Engelse pond (GBP)
+- Braziliaans real (BRL)
+- Engels pond (GBP)
 - Amerikaanse dollar (CAD)
-- Chinees(CNY)
-- Deense krone (DKK)
+- Chinese man (CNY)
+- Deense kronen (DKK)
 - Euro (EUR)
-- Inisch rupee (INR)
-- Japanse kunt u (JPY)
+- Indisch roepie (INR)
+- Japans(JPY)
 - Koreaans gewonnen (KRW)
 - Nieuw-Zeelandse dollar (NZD)
-- Noors kroon (NOK)
-- Russisch- (WASE)
-- Zweeds kroon (SEK)
-- Franeff (CHF)
+- Noors kronen (NOK)
+- Russisch(WASE)
+- Zweeds kronen (SEK)
+- Franeke (CHF)
 - Amerikaanse dollar (TWD)
 - Amerikaanse dollar (USD)
 
@@ -49,20 +49,20 @@ U wordt gefactureerd voor uw terugkerende aankopen in de periode waarin u deze h
 > De serviceperiode is de periode waarvoor u hebt betaald om de service te gebruiken. De service wordt automatisch verlengd op de en van de serviceperiode, tenzij u vooraf annuleert.
 
 > [!NOTE]
-> We passen de factureringstermijn (of de laatste dag van de factureringsmaand) aan als de verlengingsdatum van de maand niet gelijk kan zijn aan de aankoopmaand. Dit betekent dat als u zich abonneert op 31-1-2018, de einddatum van de facturering wordt aangepast naar 2/27, met de verlengingsdatum respectievelijk 2/28 (2/28 en 2/29, als u begint in een schrikkeljaar).
+> We passen de factureringsperiode (of de laatste dag van de factureringsmaand) aan als de verlengingsdatum van de maand niet gelijk kan zijn aan de aankoopmaand. Dit betekent dat als u zich op 31-1-2017 zou abonneren, de einddatum van de facturering wordt aangepast naar 2/27, met de verlengingsdatum respectievelijk 2/28 (2/28 en 2/29, als u begint in een leap-jaar).
 
 ## <a name="invoices"></a>Facturen
 
-U ontvangt aan het begin van elke kalendermaand een e-mail wanneer uw factuur beschikbaar is in de Azure Portal. Op uw factuur worden alle gratis en betaalde aanbiedingen vermeld die u tijdens de kalendermaand hebt aangeschaft en/of verbruikt. Als u alleen gratis aanbiedingen hebt, ziet u alleen regelitems van $ 0 en hoeft u geen betalingsactie te ondernemen. **Enterprise Agreement ontvangen** een gecombineerde factuur met zowel Azure- als Azure Marketplace kosten (met uitzondering van klanten in Australië, Japan en Singapore). **Klanten die rechtstreeks vanuit Azure Marketplace,** ontvangen een factuur voor alleen Azure Marketplace aankopen. Zie Facturen voor [MOSP-accounts voor meer informatie.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)
+U ontvangt aan het begin van elke kalendermaand een e-mail wanneer uw factuur beschikbaar is in de Azure Portal. Op uw factuur worden alle gratis en betaalde aanbiedingen vermeld die u hebt aangeschaft en/of verbruikt tijdens de kalendermaand. Als u alleen gratis aanbiedingen hebt, ziet u alleen regelitems van $ 0 en hoeft u geen betalingsactie uit te voeren. **Enterprise Agreement ontvangen** een gecombineerde factuur met zowel Azure- als Azure Marketplace kosten (met uitzondering van klanten in Australië, Japan en Singapore). **Klanten die rechtstreeks vanuit Azure Marketplace,** ontvangen alleen een factuur voor Azure Marketplace aankopen. Zie Facturen voor [MOSP-accounts voor meer informatie.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)
 
 Wanneer u uw factuur ontvangt, varieert het volgende:
 
 - Als uw betaalmiddel creditcard is, wordt u direct na de aankoop van de reservering gefactureerd. Deze factuur staat los van uw maandelijkse factuur.
 - Als uw betaalmiddel cheque/overschrijving is, wordt deze aankoop opgenomen op uw maandelijkse Marketplace-factuur.
 
-Er worden facturen gemaakt voor factureringsrekeningen van Microsoft Online-serviceprogramma (MOSP), Microsoft-klantovereenkomst (MCA) en Microsoft Partner-overeenkomst (MPA). Facturen worden gegenereerd op basis van uw type factureringsrekening. Azure Marketplace enkele dagen na het einde van uw factureringsperiode factureren. De factuur voor Azure Marketplace, reserveringen en spot-VM's wordt gegenereerd rond de tiende [dag van de maand.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts) Er worden respectieve kosten van de vorige maand weer. Als een gebruiker bijvoorbeeld een reservering heeft aangeschaft op 1 maart en een andere reservering op 30 maart, bevat één factuur in april beide reserveringen.
+Er worden facturen gemaakt voor factureringsrekeningen van Microsoft Online-serviceprogramma (MOSP), Microsoft-klantovereenkomst (MCA) en Microsoft Partner-overeenkomst (MPA). Facturen worden gegenereerd op basis van uw type factureringsrekening. Azure Marketplace factureren enkele dagen na het einde van uw factureringsperiode. De factuur voor Azure Marketplace, reserveringen en spot-VM's wordt gegenereerd rond de [tiende dag van de maand.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts) U ziet de respectieve kosten van de vorige maand. Als een gebruiker bijvoorbeeld een reservering heeft aangeschaft op 1 maart en een andere reservering op 30 maart, bevat één factuur in april beide reserveringen.
 
-Zie Inzicht in uw externe [Azure-servicekosten](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)voor meer informatie over facturen.
+Zie Meer informatie over uw externe [Azure-servicekosten](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)voor meer informatie over facturen.
 
 ## <a name="next-steps"></a>Volgende stappen
 

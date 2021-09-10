@@ -9,16 +9,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f388d5d31576c92f1f0fdef4749fe653c18654a48be701b0d356458b8fe7a661
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3ed41fa499872147ac86f5d30770ad52b6bf0cfb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694877"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957067"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Verschillende leads beheren, zoals vragen van klanten, gekwalificeerde marketingleads en gekwalificeerde verkoopleads
 
-**Juiste rollen:** BEHEER VAN MPN-partner | Verwijzingsbeheerder
+**Juiste rollen:** BEHEER DOOR MPN-partner | Verwijzingsbeheerder
 
 Microsoft verzendt miljoenen leads per jaar naar haar partners. U hebt de mogelijkheid om leads van Microsoft te ontvangen en uw bedrijf te bouwen. In deze sectie krijgt u inzicht in hoe u de leads beheert die u ontvangt van de pagina van de Microsoft-oplossingsprovider en hoe u er actie op kunt ondernemen.
 
@@ -32,7 +32,7 @@ De vereiste voor het ontvangen van leads is [het maken van een bedrijfsprofiel](
 
 **Verkoop gekwalificeerd:** dit zijn leads die naar u worden verzonden door Microsoft-verkopers die de vereisten van een klant verzamelen en hen helpen de juiste partner te vinden om een klantprobleem op te lossen. Deze leads zijn niet hetzelfde als verkoopkansen waarbij een Microsoft-verkoopmedewerker actief is betrokken bij de partner en klant totdat de deal is gesloten.
 
-## <a name="navigating-the-leads-section"></a>Navigeren door de sectie Leads
+## <a name="navigating-the-leads-section"></a>Navigeren in de sectie Leads
 
 Er zijn drie tabbladen op het hoogste niveau in de sectie leads. 
 
@@ -48,11 +48,11 @@ Elke lead doorloop een eigen levenscyclus. Deze sectie identificeert de verschil
 
 ### <a name="received-stage"></a>Ontvangen fase
 
-In deze fase hebt u rechtstreeks van de klant of van een Microsoft-werknemer een nieuwe lead ontvangen. Bekijk de details en neem contact op met de klant als u meer wilt weten over hun zakelijke behoeften.
+In deze fase hebt u een nieuwe lead rechtstreeks van de klant of van een Microsoft-werknemer ontvangen. Bekijk de details en neem contact op met de klant als u meer wilt weten over hun zakelijke behoeften.
 
 U kunt in deze fase twee acties uitvoeren: de verwijzing accepteren of weigeren:
 
-- **Accepteren:** Voer een naam in voor de deal, de geschatte waarde van de deal en het geschatte aankooptijdskader. U moet ook informatie verstrekken in het **veld Notities** om meer uit te leggen over wat de klant zoekt. U kunt eventueel hier uw CRM-id invoeren (alleen ter referentie), de marketingcampagne-id, die heeft geleid tot de respectieve lead en extra contactpersonen van uw bedrijf toevoegen. Wanneer u klaar bent, selecteert u **Volgende.** We verplaatsen de verwijzing naar de **volgende fase,** wat betekent dat u van plan bent om actief contact op te nemen met de klant om aan hun behoeften te kunnen werken. We gebruiken deze informatie ook om vergelijkbare deals in de toekomst te vinden. 
+- **Accepteren:** Voer een naam in voor de deal, de geschatte waarde van de deal en het geschatte aankooptijdskader. U moet ook informatie verstrekken in het **veld Notities** om meer uit te leggen over wat de klant zoekt. U kunt eventueel hier uw CRM-id invoeren (alleen ter referentie), de marketingcampagne-id, die heeft geleid tot de respectieve lead en extra contactpersonen van uw bedrijf toevoegen. Wanneer u klaar bent, selecteert u **Volgende.** We verplaatsen de verwijzing naar de volgende **fase,** wat betekent dat u van plan bent om actief contact op te nemen met de klant om aan hun behoeften te kunnen werken. We gebruiken deze informatie ook om vergelijkbare deals in de toekomst te vinden. 
 
 - **Weigeren:** selecteer de reden waarom u de deal weigert en voeg eventuele opmerkingen toe die u wilt opnemen. Selecteer vervolgens **Deal** sluiten. We archiveren deze als Geweigerd **en** stellen de klant op de hoogte om een andere partner te kiezen.
 
@@ -69,7 +69,7 @@ Wanneer u klaar bent, kunt u een van de twee  acties  uitvoeren, die de deal mar
 
 ### <a name="archived-stage"></a>Gearchiveerde fase
 
-Dit is een terminale fase waarin alle verkoopkansen uiteindelijk worden bereikt. U kunt alle leads weergeven die in deze  fase **zijn gewonnen, verloren,** afgewezen en verlopen. Er zijn geen acties die u in deze fase kunt uitvoeren.
+Dit is een terminale fase waarin alle verkoopkansen uiteindelijk worden bereikt. U kunt alle leads bekijken die in deze  fase **zijn gewonnen, verloren,** afgewezen en verlopen. Er zijn geen acties die u in deze fase kunt uitvoeren.
 
 ## <a name="getting-more-leads"></a>Meer leads verkrijgen
 
@@ -91,4 +91,4 @@ Hier zijn enkele tips om u te helpen meer geschikte verwijzingen te krijgen:
 
 - [De connector voor co-verkoop voor Dynamics 365 CRM kopen](connector-dynamics.md)
 
-- [De connector voor co-verkoop voor Salesforce CRM kopen](connector-salesforce.md)
+- [De connector voor co-verkoop voor Salesforce CRM op halen](connector-salesforce.md)

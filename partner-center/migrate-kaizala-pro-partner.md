@@ -8,30 +8,30 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 1eae2a840d5f3b70875babca350cd0ca9d0a37e5047fc516ce8ec0b1e0ea8a74
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e248657b9b4d4cf50cb7d38b2a0593ae6445bd28
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696730"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957743"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Zelfstandige Kaizala Pro migreren naar Microsoft 365- of Office 365 versies
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Zelfstandige Kaizala Pro migreren naar Microsoft 365 of Office 365 versies
 
 **Juiste rollen:** Verkoopagent
 
-Vanaf 1 juli 2020 stopt Microsoft de verkoop van de Kaizala Pro zelfstandige service. Klanten kunnen na deze datum geen nieuwe Kaizala Pro meer aanschaffen en bestaande Kaizala Pro-abonnementen worden niet automatisch verlengd wanneer ze verlopen.
+Met ingang van 1 juli 2020 stopt Microsoft de verkoop van de Kaizala Pro zelfstandige service. Klanten kunnen na deze datum geen nieuwe Kaizala Pro meer aanschaffen en bestaande Kaizala Pro-abonnementen worden niet automatisch verlengd wanneer ze verlopen.
 
-Om de continuïteit voor klanten te waarborgen, moet u klanten met verlopende Kaizala Pro zelfstandige abonnementen over zetten naar een ondersteunde SKU-optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen.
+Om de continuïteit voor klanten te waarborgen, moet u klanten met verlopende Kaizala Pro zelfstandige abonnementen overstappen op een ondersteunde SKU-optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen.
 
-Als u de API (ZOWEL VOOR als Partner Center) gebruikt, kunt u verlopende abonnementen ontdekken door de einddatum van het abonnement te evalueren, samen met de eigenschap voor automatisch verlengen ingesteld op false: `auto renew = False` .
+Als u de API (ZOWEL VOOR als Partner Center) gebruikt, kunt u verlopende abonnementen ontdekken door de einddatum van het abonnement te evalueren, samen met de eigenschap auto renew ingesteld op false: `auto renew = False` .
 
-De E4-abonnementen worden ingesteld `auto renew=False` op 1 juli 2020. U kunt klanten op elk moment verplaatsen naar een nieuw abonnement.
+De E4-abonnementen worden ingesteld `auto renew=False` op op 1 juli 2020. U kunt klanten op elk moment verplaatsen naar een nieuw plan.
 
 ## <a name="kaizala-pro-standalone-replacement-plans"></a>Kaizala Pro Zelfstandige vervangingsplannen
 
-Met de nieuwe abonnementen kunnen uw klanten profiteren van nieuwere functies en functionaliteit in Microsoft 365. Prijsdetails vindt u in de matrix met prijzen en aanbiedingslijst in Partner Center.
+Met de nieuwe abonnementen kunnen uw klanten profiteren van nieuwere functies en functionaliteit in Microsoft 365. Prijsgegevens vindt u in de prijslijst en aanbiedingslijstmatrix in Partner Center.
 
-- [**Microsoft 365 voor Bedrijven,**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)waaronder:  
+- [**Microsoft 365 for Business,**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)waaronder:  
    - Microsoft 365 Business Basic
    - Microsoft 365 Business Standard
    - Microsoft 365 Business Premium
@@ -66,9 +66,9 @@ C. Oud abonnement annuleren
 
 1. Als u het nieuwe abonnement wilt kopen, selecteert **u in Partner Center** menu Klanten, selecteert u de klant die u wilt verplaatsen en selecteert u vervolgens Abonnementen **toevoegen.** 
 
-2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **vervolgens Verzenden.**
+2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **Verzenden.**
 
-Uw klant moet nu zowel oude als nieuwe abonnementen hebben, het oude zelfstandige Kaizala Pro-abonnement en het nieuwe doelabonnement, bijvoorbeeld Optie 1 - Office 365 Enterprise F1.
+Uw klant moet nu zowel oude als nieuwe abonnementen, het oude zelfstandige Kaizala Pro-abonnement en het nieuwe doelabonnement hebben, bijvoorbeeld Optie 1 - Office 365 Enterprise F1.
 
 ### <a name="b-reassign-current-user-licenses"></a>B. Huidige gebruikerslicenties opnieuw toewijzen
 
@@ -78,15 +78,15 @@ Uw klant moet nu zowel oude als nieuwe abonnementen hebben, het oude zelfstandig
 
 3. Schakel op **de pagina** Licenties beheren het selectievakje Kaizala Pro zelfstandige licentie uit en selecteer een nieuw serviceabonnement voor het abonnement waar de klant naar verplaatst.
 
-4.  Selecteer **Indienen**. Een bevestigingspagina bevat de nieuwe licentietoewijzingen. Ga door met hetzelfde proces voor andere gebruikers die licentietoewijzingen nodig hebben.
+4.  Selecteer **Indienen**. Op een bevestigingspagina worden de nieuwe licentietoewijzingen vermeld. Ga door met hetzelfde proces voor andere gebruikers die licentietoewijzingen nodig hebben.
 
 ### <a name="c-cancel-old-subscription"></a>C. Oud abonnement annuleren
 
-Nadat u de gebruikerslicentie hebt verplaatst naar de nieuwe service, kunt u het uit gebruik genomen abonnement veilig op klantniveau annuleren.
+Nadat u de gebruikerslicentie naar de nieuwe service hebt verplaatst, kunt u het uit gebruik genomen abonnement veilig op klantniveau annuleren.
 
 1.  Selecteer in **Partner Center** menu **Klanten.** Selecteer de klant van wie u het abonnement annuleert.
 
-2.  Stel op de detailpagina van het abonnement het abonnement in op **Tijdelijk ingesteld.**
+2.  Stel op de detailpagina van het abonnement het abonnement in op **Tijdelijk.**
 
 3.  Selecteer **Indienen**.
 

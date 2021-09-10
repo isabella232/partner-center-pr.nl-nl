@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d042f1d2f711e59e3a6bbe320d829a8bbdf9b5dfe50a688dfe5a92b80cbc5090
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1416c9b12cb6670eb2598f8baa4839996e29f09b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687907"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957334"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Azure-abonnementen toewijzen aan klanten in Partner Center
 
@@ -36,12 +36,12 @@ ms.locfileid: "115687907"
 
 ## <a name="enable-customers-to-manage-their-azure-subscriptions"></a>Klanten in staat stellen hun Azure-abonnementen te beheren
 
-Nadat u een Microsoft Azure voor een klant hebt, kunt u deze inschakelen om het abonnement te beheren. Hiervoor moet u zich aanmelden bij de beheerportal van Microsoft Azure klant. 
+Nadat u een Microsoft Azure een klant hebt, kunt u deze inschakelen om het abonnement te beheren. Hiervoor moet u zich aanmelden bij de beheerportal van Microsoft Azure klant. 
 
 1. Als u de Azure Portal van de klant wilt openen, vouwt u de vermelding van de klant uit in uw klantenlijst of selecteert u de naam van de klant en selecteert u Microsoft Azure Beheerportal **.**
 
    > [!NOTE]  
-   > Als u wordt gevraagd om u aan te melden bij Azure Portal, hebt u mogelijk geen beheerdersbevoegdheden gedelegeerd. Selecteer **Een relatie aanvragen** om de klant uit te nodigen om u te identificeren als Partner of Record. Nadat de klant uw uitnodiging heeft geaccepteerd, krijgt u automatisch gedelegeerde beheerdersbevoegdheden.
+   > Als u wordt gevraagd om u aan te melden bij Azure Portal, hebt u mogelijk geen beheerdersbevoegdheden gedelegeerd. Selecteer **Een relatie aanvragen om** de klant uit te nodigen om u te identificeren als Partner of Record. Nadat de klant uw uitnodiging heeft geaccepteerd, krijgt u automatisch gedelegeerde beheerdersbevoegdheden.
 
 2. Open in Azure Portal de lijst met abonnementen van de klant en selecteer het Azure-abonnement van de klant.
 

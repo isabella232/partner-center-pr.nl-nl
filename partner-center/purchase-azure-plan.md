@@ -9,35 +9,35 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af098c9ef57a9a40badded40cb457f8c8fd4855185ae6f10dfb71e51689994ea
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1493d22c53915f3a4364981a77c249492b342595
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693877"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956893"
 ---
-# <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Het Azure-abonnement voor klanten kopen en toegang krijgen tot de nieuwste Azure-services
+# <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Het Azure-abonnement kopen voor klanten en toegang krijgen tot de nieuwste Azure-services
 
 **Van toepassing op**: Partner Center 
 
 **Juiste rollen:** globale | Gebruikersbeheerbeheerders | Verkoopagent
 
-Wanneer u een Azure-plan voor uw klanten koopt onder de Microsoft-klantovereenkomst, hebt u toegang tot de volledige catalogus met de meest recente Azure-services tegen betalen per gebruik-tarieven. Cloud Solution Provider (CSP)-partners hebben nu toegang tot elke Azure-service wanneer deze algemeen beschikbaar komt. Een partner kan meerdere Azure-abonnementen hebben onder een Azure-abonnement. 
+Wanneer u een Azure-abonnement voor uw klanten koopt onder de Microsoft-klantovereenkomst, hebt u toegang tot de volledige catalogus met de nieuwste Azure-services tegen betalen per gebruik-tarieven. Cloud Solution Provider (CSP)-partners hebben nu toegang tot elke Azure-service wanneer deze algemeen beschikbaar komt. Een partner kan meerdere Azure-abonnementen hebben onder een Azure-abonnement. 
 
 ## <a name="countryregion-availability"></a>Beschikbaarheid in land/regio
 
-De nieuwe commerce-ervaring in CSP voor Azure is momenteel gepland om beschikbaar te zijn in 137 landen. Zie de volledige lijst met deze [landen/regio's.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
+De nieuwe commerce-ervaring in CSP voor Azure is momenteel gepland om beschikbaar te zijn in 137 landen. Bekijk de volledige lijst met deze [landen/regio's.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
 
 ## <a name="how-to-purchase-azure-plan"></a>Een Azure-abonnement kopen
 
-Hoe u het Azure-abonnement aanschaft, is vergelijkbaar met het kopen van een ander abonnement. Het belangrijkste verschil is dat u, voordat u uw order daadwerkelijk gaat plaatsen, moet bevestigen dat uw klant de Microsoft-klantovereenkomst.
+De manier waarop u het Azure-abonnement aanschaft, is vergelijkbaar met het kopen van een ander abonnement. Het belangrijkste verschil is dat u voordat u uw bestelling daadwerkelijk gaat plaatsen, moet bevestigen dat uw klant de Microsoft-klantovereenkomst.
 
-1. Selecteer **Commercieel segment** en typ 'Microsoft Azure'.
-2. Selecteer **onder Azure-plan** de **optie Toevoegen aan winkelwagen.**
+1. Selecteer **Commercieel segment** en typ vervolgens 'Microsoft Azure'.
+2. Selecteer **onder Azure-plan** de optie **Toevoegen aan winkelwagen.**
 
    :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Aankoop.":::
 
-De partner moet bevestigen dat de klant de voorwaarden Microsoft-klantovereenkomst heeft geaccepteerd. Voor meer informatie over hoe de partner dit kan doen, leest u De [klantacceptatie van de Microsoft-klantovereenkomst.](./confirm-customer-agreement.md) Andere resources zijn beschikbaar in de [resourcegalerie](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+De partner moet bevestigen dat de klant de voorwaarden heeft Microsoft-klantovereenkomst geaccepteerd. Lees Acceptatie van de klant bevestigen van de Microsoft-klantovereenkomst voor meer informatie over [hoe de partner dit kan Microsoft-klantovereenkomst.](./confirm-customer-agreement.md) Andere resources zijn beschikbaar in de [resourcegalerie.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
 Bevestig vervolgens digitaal of nodig de klant uit om de Microsoft-klantovereenkomst rechtstreeks bij Microsoft te ondertekenen. 
 
@@ -49,7 +49,7 @@ Bevestig vervolgens digitaal of nodig de klant uit om de Microsoft-klantovereenk
 
 3. Selecteer **Opslaan en doorgaan**.  
 
-Als onderdeel van de nieuwe commerce-ervaring voor Azure in CSP hebben we een [nieuwe Azure-aanbieding geïntroduceerd.](./azure-plan-lp.md) Raadpleeg het aanbiedingsdocument voor belangrijke datums met betrekking tot de vorige [Azure-aanbieding](https://go.microsoft.com/fwlink/p/?linkid=2164140)(MS-AZR-0145p).
+Als onderdeel van de nieuwe handelsomgeving voor Azure in CSP is er een [nieuwe Azure-aanbieding](./azure-plan-lp.md) geïntroduceerd. Raadpleeg het [document met aanbiedingen](https://go.microsoft.com/fwlink/p/?linkid=2164140) voor belangrijke datums met betrekking tot de vorige Azure-aanbieding(MS-AZR-0145p).
 
 **Als u zich hebt *geregistreerd vóór* 21 juli 2021**
 - U kunt de vorige Azure-aanbieding toevoegen aan uw winkelwagen voor klanten die deze in het verleden hebben aangeschaft.
@@ -58,7 +58,7 @@ Als onderdeel van de nieuwe commerce-ervaring voor Azure in CSP hebben we een [n
 **Partners die zich hebben *geregistreerd op of na* 21 juli 2021**
 - U kunt de vorige Azure-aanbieding niet toevoegen aan uw winkelwagen.
 
-De volgende fout tkomt aan als u de vorige Azure-aanbieding probeert toe te voegen, maar niet in aanmerking komt vanwege het bovenstaande bedrijfsbeleid. 
+De volgende fout wordt weergegeven als u de vorige Azure-aanbieding probeert toe te voegen, maar niet in aanmerking komt vanwege het bovenstaande bedrijfsbeleid. 
 
 :::image type="content" source="images/add-products.png" alt-text="Schermopname van het scherm Producten toevoegen.":::
 
@@ -66,16 +66,16 @@ Zie Een Azure-plan maken om Partner Center Azure-plan te [vinden.](/partner-cent
 
 ## <a name="review-and-buy"></a>Beoordelen en kopen
 
-Ga terug naar **de pagina Een product** toevoegen waar u kunt zien dat het Azure-plan is toegevoegd. Selecteer **Controleren** om uw aankoop te controleren en selecteer vervolgens **Kopen.** 
+Ga terug naar **de pagina Een product** toevoegen waar u kunt zien dat het Azure-plan is toegevoegd. Selecteer **Controleren om** uw aankoop te controleren en selecteer vervolgens **Kopen.** 
 
 > [!NOTE]
-> Zodra u het Azure-abonnement voor een klant aanschaft, kunt u geen Microsoft Azure (0145p) meer aanschaffen voor die klant. U moet toekomstige abonnementen maken via het Azure-plan.
+> Nadat u het Azure-abonnement voor een klant hebt gekocht, kunt u geen Microsoft Azure meer kopen (0145p) voor die klant. U moet toekomstige abonnementen maken via het Azure-plan.
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure-reserveringen kopen onder het Azure-abonnement 
   
 U kunt ook Microsoft Azure azure-abonnement namens uw klanten kopen in Partner Center. (Als u dat liever hebt, kunt u uw klanten ook toestemming geven om hun eigen [Azure-reserveringen](give-customers-permission.md) te kopen bij een eerder abonnement dat u voor hen hebt aangeschaft.)
 
-1. Selecteer in Partner Center menu op uw [dashboard](https://partner.microsoft.com/dashboard/)de optie **Klanten.** Zoek de klant die Azure-reserveringen wil aanschaffen en selecteer vervolgens de pijl-omlaag om de rij van de klant uit te vouwen.
+1. Selecteer klanten in Partner Center menu op **uw** [dashboard.](https://partner.microsoft.com/dashboard/) Zoek de klant die Azure-reserveringen wil aanschaffen en selecteer vervolgens de pijl-omlaag om de rij van de klant uit te vouwen.
 
 2. Selecteer **Producten toevoegen** en selecteer vervolgens **Azure**. 
 
@@ -89,7 +89,7 @@ Azure-reserveringen moeten worden gekoppeld aan een actief Azure-plan. Kies in d
 > Als de klant nog geen actief Azure-plan heeft, selecteert u Azure om er nu een toe te voegen. Lees [Azure-reserveringen aanschaffen voor meer instructies.](azure-reservations-buying.md#purchase-azure-reservations)
 
 > [!NOTE]
-> Het bereik van een reservering kan alleen worden ingesteld **op Gedeeld,** momenteel in Partner Center. Als u één abonnementsbereik wilt selecteren of wilt bijwerken van gedeeld abonnementsbereik naar één abonnement, gaat u naar **Microsoft Azure Beheerportal** met behulp van de volgende instructies. 
+> Het bereik van een reservering kan alleen worden ingesteld **op Gedeeld,** momenteel in Partner Center. Als u één abonnementsbereik wilt selecteren of wilt bijwerken van gedeeld abonnementsbereik, gaat u **naar Microsoft Azure Management Portal** met behulp van de volgende instructies. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Instelling voor reserveringen voor gedeeld bereik.":::
 

@@ -8,12 +8,12 @@ description: Gebruik deze API om rapportparameters bij te werken in Partner Cent
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: c4425f6444603852e87d9287db720ec1b29ee57818bc949c82eed2179ac6149e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 64ef897dc3c883e4adfda4285183e441f27f3c7f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696903"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957436"
 ---
 # <a name="update-report-api"></a>Rapport-API bijwerken
 
@@ -30,7 +30,7 @@ Met deze API kunt u een rapportparameter wijzigen.
 
 |    Header    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory -toegang token (AAD) in het formulier`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 
@@ -130,7 +130,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    ExecuteNow     |    ExecuteNow-vlag ingesteld op het moment dat het rapport werd gemaakt    |
 |    StartTime     |    Tijd dat de uitvoering van het rapport begint. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Status van de uitvoering van het rapport. De mogelijke waarden zijn Onderbroken, Actief en Inactief.     |
-|    RecurrenceInterval     |    Terugkeerpatroon dat is opgegeven in de nettolading van de aanvraag     |
+|    RecurrenceInterval     |    Terugkeerpatroon opgegeven in de nettolading van de aanvraag     |
 |    RecurrenceCount     |    Aantal terugkeerpatroon dat is opgegeven in de nettolading van de aanvraag     |
 |    CallbackUrl     |    Callback-URL die is opgegeven in de aanvraag     |
 |    CallbackMethod    |    Callback-methode die is opgegeven in de aanvraag    |

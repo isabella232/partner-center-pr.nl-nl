@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Controleer regelmatig uw verwijzingsinzichtgegevens in Partner Center om trends te zien voor het aanpakken of verbeteren van gebieden om u te helpen uw zakelijke doelen te bereiken.
+description: Controleer regelmatig uw verwijzingsinzichtgegevens in Partner Center om trends te zien voor adres- of verbeteringsgebieden om u te helpen uw bedrijfsdoelen te bereiken.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 8886831228807c48bd3666daa485ac5357c8c6e2
-ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122464592"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957310"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Verwijzingsinzichten verkrijgen in Partner Center en ontdekken hoe uw verwijzingen het doen
 
@@ -22,7 +22,7 @@ ms.locfileid: "122464592"
 
 Op **de pagina Kansen voor co-verkoop** onder de sectie **Analyse** in Verwijzingen kunt u zien hoe het gaat met uw verwijzingen. Bekijk deze metrische gegevens regelmatig om trends of gebieden te identificeren die aandacht nodig hebben en ga aan de slag met uw bedrijfsdoelen.
 
-Ga in het Partner Center-menu naar Verwijzingen > Analytics > Mogelijkheden voor **co-verkoop** om inzicht te krijgen in uw inzichten over verkoopkansen.
+Ga in het Partner Center-menu naar Verwijzingen > Analytics > Kansen voor co-verkoop om inzicht te krijgen in uw inzichten over > **verkoopkansen.**
 
 > [!Important]
 > Het filter voor dealtype wordt vooraf toegepast met het type **Co-sell** en **Partner-led** geselecteerd voor alle gegevens. Verwijder het filter als u de gegevens voor alle of specifieke typen deals wilt analyseren.
@@ -125,7 +125,7 @@ Er kunnen meerdere redenen zijn waarom u een lege grafiek krijgt, zoals hieronde
 :::image type="content" source="images/referrals/nodata.png" alt-text="Afbeelding met geen gegevensvisualisatie voor verwijzingen.":::
 
 > [!NOTE]
-> Op de pagina **Inzichten voor verwijzingen** worden alleen gegevens weergegeven voor verwijzingen die zijn gegenereerd in het Partnercentrum. Er worden geen gegevens voor verwijzingen die zijn gegenereerd via [partnerverkoop Verbinding maken](psc-to-pc.md) andere mechanismen.
+> Op de pagina **Inzichten voor verwijzingen** worden alleen gegevens weergegeven voor verwijzingen die zijn gegenereerd in het Partnercentrum. Er worden geen gegevens voor verwijzingen die zijn gegenereerd via [partnerverkoopgegevens Verbinding maken](psc-to-pc.md) andere mechanismen.
 
 > [!TIP]
 > Als u wilt zien hoe uw bedrijfsprofiel presteert in [de](https://www.microsoft.com/solution-providers/home) ervaring Een [oplossingsprovider](referral-leads-insights.md)zoeken, bekijkt u de pagina Inzichten voor leads.

@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Als u meerdere gebruikers wilt toevoegen aan het account van een klant, uploadt u een gegevensbestand naar Partner Center met behulp van de bestandsindeling met door komma's gescheiden waarden (.csv).
+description: Als u meerdere gebruikers wilt toevoegen aan het account van een klant, uploadt u een gegevensbestand naar Partner Center met de bestandsindeling met door komma's gescheiden waarden (.csv).
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d609b84b44997f15fdb2c4a185bfdef00ce27adec16b52ade91af3ad78cad83c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 907d1267164df267acab08675b4b9388fbf14474
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685306"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957463"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Upload een .csv gebruikersbestand toevoegen aan het account van een klant
 
@@ -25,7 +25,7 @@ Voeg meerdere gebruikers tegelijk toe aan het account van een klant door een geg
 
 ## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Het bestand van klantgebruikers maken en uploaden naar het klantaccount
 
-1. Maak een gegevensbestand met door komma.csv gescheiden waarden met de hierboven beschreven gegevens. Sla het bestand op zodat u er in een latere stap naar kunt bladeren. Zie [Velden voor .csv om meerdere gebruikers voor een klantaccount te importeren.](file-customer-users.md) 
+1. Maak een gegevensbestand met door komma'.csv (door komma's gescheiden waarden) met de hierboven beschreven gegevens. Sla het bestand op zodat u er in een latere stap naar kunt bladeren. Zie [Velden voor .csv om meerdere gebruikers voor een klantaccount te importeren.](file-customer-users.md) 
 
 2. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
@@ -33,7 +33,7 @@ Voeg meerdere gebruikers tegelijk toe aan het account van een klant door een geg
 
 4. Selecteer het tabblad Gebruikers en **licenties van de** klant en selecteer vervolgens Upload **gebruikers.**
 
-5. Selecteer **Upload gebruikersgegevens** **bladeren.**
+5. Selecteer **Upload de optie Bladeren** onder Upload **gebruikersgegevens.**
 
 6. Selecteer in de bestands selector uw gegevensbestand en selecteer vervolgens **Openen.**
 
@@ -52,4 +52,4 @@ Voeg meerdere gebruikers tegelijk toe aan het account van een klant door een geg
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Klanten toestemming geven om Partner Center eigen producten of services te kopen](give-customers-permission.md)
+- [Klanten in de Partner Center om hun eigen producten of services te kopen](give-customers-permission.md)

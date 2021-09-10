@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 014c9936159860b652ec64efafddbc783372c630c3d00eb689f6aabe3d214ea6
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 95a7c56bc8d20d86379637e7ed3e7499b941a079
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681165"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957343"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gebruikers- en licentiebeheer in Partner Center voor Microsoft Cloud Duitsland
 
@@ -24,11 +24,11 @@ ms.locfileid: "115681165"
 **Juiste rollen:** globale | Accountbeheerder
 
 > [!IMPORTANT]
-> Op basis van de ontwikkeling van de behoeften van klanten richt onze cloudstrategie voor Duitsland zich op de levering van de nieuwe cloudregio's in Duitsland die consistent zijn met ons wereldwijde cloudaanbod. Vanwege deze focus accepteren we geen nieuwe klanten meer en implementeren we geen nieuwe services meer vanuit de momenteel beschikbare Microsoft Cloud Duitsland. Bestaande klanten kunnen de huidige cloudservices die momenteel beschikbaar zijn, blijven gebruiken, die we onderhouden met de benodigde beveiligingsupdates.
+> Op basis van de ontwikkeling van de behoeften van klanten, richt onze cloudstrategie voor Duitsland zich op de levering van de nieuwe cloudregio's in Duitsland die consistent zijn met ons wereldwijde cloudaanbod. Vanwege deze focus accepteren we geen nieuwe klanten meer en implementeren we geen nieuwe services meer vanuit de momenteel beschikbare Microsoft Cloud Duitsland. Bestaande klanten kunnen de huidige cloudservices die momenteel beschikbaar zijn, blijven gebruiken, die we onderhouden met de benodigde beveiligingsupdates.
 >  
 > Vanaf nu hebben nieuwe klanten de mogelijkheid om de momenteel beschikbare Europese regio's of de nieuwe regio's in Duitsland te gebruiken wanneer ze beschikbaar komen. Zie [Microsoft gaat cloudservices vanuit nieuwe datacenters in Duitsland leveren](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) voor meer informatie.
 
-De volgende beheermogelijkheden voor gebruikers en licenties zijn niet beschikbaar in Partner Center voor Microsoft Cloud Duitsland om te voldoen aan de Duitse wetten en voorschriften voor het verzamelen en gebruiken van gegevens van personen, evenals belangrijke internationale standaarden. Voeg in plaats daarvan gebruikers en licenties toe aan de Azure Portal voor Microsoft Cloud Duitsland of het Office 365-beheercentrum.
+Om te voldoen aan de Duitse wetten en voorschriften voor het verzamelen en gebruiken van gegevens van personen, evenals belangrijke internationale standaarden, zijn de volgende mogelijkheden voor gebruikers- en licentiebeheer niet beschikbaar in Partner Center voor Microsoft Cloud Duitsland. Voeg in plaats daarvan gebruikers en licenties toe aan de Azure Portal voor Microsoft Cloud Duitsland of het Office 365-beheercentrum.
 
 Functie of mogelijkheid | Taken uitvoeren in
 :--- | :---
@@ -41,7 +41,7 @@ Licentiebeheer | Office 365-beheercentrum of Microsoft Cloud Duitsland Azure Act
 
 Als u bent aangemeld bij Partner Center voor Microsoft Cloud Duitsland, kunt u de Azure Portal voor Microsoft Cloud Duitsland openen zonder u opnieuw aan te melden. Als u zich echter rechtstreeks moet aanmelden bij de Azure Portal voor Microsoft Cloud Duitsland, gaat u naar [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-Nadat u zich hebt aangemeld bij de Azure Portal voor Microsoft Cloud Duitsland, opent u de overzichtspagina van Azure Active Directory (Azure AD) en volgt u de instructies in deze artikelen:
+Nadat u zich hebt aangemeld bij de Azure Portal for Microsoft Cloud Duitsland, opent u de overzichtspagina van Azure Active Directory (Azure AD) en volgt u de instructies in deze artikelen:
 
 > [!NOTE]  
 > Als u de onderstaande koppelingen selecteert, gaat u naar een andere website.

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85b5b4c33226236b7fcc3ce6b4833c3d58aba58ebb281b80576c9f26d04ecfe3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9568a014de926682dd89dd9d06d1c6ca5b98ac71
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682246"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956920"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Algemene factureringsscenario's voor SaaS-transacties op basis van licenties in Partner Center
 
@@ -64,7 +64,7 @@ Het recon-bestand bevat de volgende kosten:
 | 06/10/2019 | Zilver | 06/10/2019 | 06/10/2019 | $ 20 | 1 | -$20 | Converteren | Prorated rebill for custom meter SaaS subscription (Prorated Rebill voor SaaS-abonnement met aangepaste meter) |
 | 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | $ 10 | 1 | $ 10 | Converteren | SaaS-abonnement voor aangepaste meter |
 
-## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Op dezelfde datum een SaaS-abonnement voor een klantmeter kopen en annuleren
+## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Een SaaS-abonnement voor klantmeters kopen en annuleren op dezelfde datum
 
 In dit scenario wordt de facturering beschreven voor een SaaS-abonnement voor klantmeters dat u op dezelfde Azure Portal hebt aangeschaft en geannuleerd.
 

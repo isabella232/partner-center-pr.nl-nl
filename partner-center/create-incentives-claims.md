@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Meer informatie over het initiëren van claims voor co-oping van incentives vanuit Partner Center. U kunt alle activiteiten die in het gebouw van uw claim worden gebruikt, bekijken in Geschiedenis.
+description: Meer informatie over het initiëren van co-opclaims voor incentives vanuit Partner Center. U kunt alle activiteiten die in het gebouw van uw claim worden gebruikt, bekijken in Geschiedenis.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f94242bce381b9906f00671dd4ca41ca68c29fd28c80396e2e17d0130807ab71
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115679834"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957202"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Een co-opclaim voor incentives maken en beheren
 

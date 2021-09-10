@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 076a65d8e309308142201dedfa807052d2d3b8eb5180be14734edbbec92a3616
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687501"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957025"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport Productlicenties in het Partner Center Insights dashboard
 
@@ -28,7 +28,7 @@ Het rapport Productlicenties bevat licentieanalyses voor cloudproducten op basis
 - Licentiedistributie per partnerlocaties, verkoopkanaal, SKU's, type partner koppelen, segment
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor het rapport.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of rapportviewer voor leidinggevenden. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor het rapport.
 
 ## <a name="summary"></a>Samenvatting
 
@@ -41,17 +41,17 @@ Zie hieronder voor meer informatie over elke sectie van de samenvatting:
 - Licenties: 
   - Het huidige aantal licenties dat door u is verkocht of beheerd voor cloudproducten op basis van licenties, zoals Office 365, Dynamics, Microsoft 365, Microsoft Power BI en andere.
   - Percentagegroei of afname van deze licenties over het geselecteerde datumbereik.
-  - Micrografiek met licentietrends: De micrografiek toont de trend van het aantal licenties gedurende de maand gedurende het geselecteerde datumbereik
+  - Micrografiek voor licentietrends: De micrografiek geeft de trend van het aantal licenties voor de maand na maand weer tijdens het geselecteerde datumbereik
 
 - Geïmplementeerde licenties:
-  - Het huidige aantal toegewezen licenties van uw klant.
+  - Huidig aantal van alle toegewezen licenties van uw klant.
   - Percentagegroei of afname van deze licenties tijdens de geselecteerde periode.
   - Micrografiek voor het aantal licenties: In de micrografiek wordt de trend voor de maand-over-maand van het aantal toegewezen licenties weergegeven tijdens het geselecteerde datumbereik.
 
 - Actieve licenties: 
   - Het huidige aantal van alle klantlicenties met een actief gebruik gedurende de afgelopen 30 dagen tijdens het geselecteerde datumbereik.
   - Percentagegroei of afname van deze licenties tijdens het geselecteerde datumbereik.
-  - In de Micro-grafiek wordt de trend voor het aantal licenties voor de maand-over-maand weergegeven tijdens het geselecteerde datumbereik.
+  - In de Micro-grafiek wordt de trend voor het aantal licenties gedurende het geselecteerde datumbereik voor de maand-over-maand weergegeven.
 
 ## <a name="geographical-spread-of-licenses"></a>Geografische spreiding van licenties
 
@@ -75,7 +75,7 @@ De x-as vertegenwoordigt maanden van het geselecteerde datumbereik. De Y-as vert
 
 ## <a name="license-distribution"></a>Licentiedistributie
 
-In deze weergave ziet u een uitsplitsing van uw klantlicenties per product en land/regio van de klant. Wanneer u een product selecteert in het cirkeldiagram Licentie **per product,** toont het aangrenzende diagram een uitsplitsing van de licentie per klantregio.
+In deze weergave ziet u een uitsplitsing van uw klantlicenties per product en land/regio van de klant. Wanneer u een product selecteert in het cirkeldiagram Licentie **per product,** wordt in het aangrenzende diagram een licentie uitsplitsing per klantregio weergegeven.
 
 :::image type="content" source="images/insights/licenses-report-license-distribution.png" alt-text="licentiedistributie.":::
 
@@ -84,4 +84,4 @@ In deze weergave ziet u een uitsplitsing van uw klantlicenties per product en la
 Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).
 
 >[!NOTE] 
-> U kunt de onbewerkte gegevens voor dit rapport downloaden uit de sectie Rapporten downloaden in het Insights dashboard. [Meer informatie](insights-download-reports.md)
+> U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het Insights dashboard. [Meer informatie](insights-download-reports.md)

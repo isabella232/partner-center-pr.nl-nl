@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Informatie over het maken van een bedrijfsprofiel voor het genereren van verkoop leads via de functie Partner Center verwijzingen en vervolgens om te reageren op deze verwijzingen.
+description: Informatie over het maken van een bedrijfsprofiel voor het genereren van verkoop leads via de Partner Center functie Verwijzingen en vervolgens om te reageren op deze verwijzingen.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: b37e76f1e3d7a68bc3fc12769f6c69b2039f3b73
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121915016"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957313"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Grow your business with referrals from Microsoft (Uw bedrijf laten groeien met verwijzingen van Microsoft)
 

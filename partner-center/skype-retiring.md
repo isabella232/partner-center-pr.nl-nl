@@ -1,6 +1,6 @@
 ---
 title: Skype voor Bedrijven migreren
-description: Ontdek hoe en wanneer u bepaalde klanten met verlopende Skype voor Bedrijven Online-abonnement 1 migreert naar nieuwe Office 365 versies.
+description: Leer hoe en wanneer u bepaalde klanten met verlopende Skype voor Bedrijven Online-abonnement 1 migreert naar nieuwe Office 365 versies.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: f69ecf931ab9d381b6cad1870506b1fbf68a15bc45e531a329d3171dee18b596
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 58908e966eb80d219afa0cbc8c043932f5aef1a1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682586"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957806"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Abonnementen op Skype voor Bedrijven Online Plan 1 migreren naar nieuwere versie van Office 365)
 
@@ -25,9 +25,9 @@ Het Skype voor Bedrijven Online-abonnement 1 wordt met ingang van 1 augustus 201
 Om de continuïteit voor klanten te waarborgen, moet u klanten met verlopen Skype voor Bedrijven Online Plan 1-abonnementen overstappen naar een ondersteunde SKU-optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen. 
 
 >[!NOTE]
->Zowel Skype voor Bedrijven Online Plan 1 commerciële SKU's als overheids-SKU's worden teruggetrokken.
+>Zowel Skype voor Bedrijven online abonnement 1 commerciële SKU's als overheids-SKU's worden ingetrokken.
 
-Als u de API (Commerce REST (EIGENDOM) of Partner Center) gebruikt, gaat u naar verlopende abonnementen door de einddatum van het abonnement samen met de eigenschap auto renew = False te evalueren. De Skype voor Bedrijven Online Plan 1-abonnementen worden op 1 september 2018 ingesteld op automatisch verlengen=Onwaar. U kunt klanten op elk moment verplaatsen naar een nieuw abonnement. 
+Als u de API (Commerce REST (EIGENDOM) of Partner Center) gebruikt, gaat u naar verlopende abonnementen door de einddatum van het abonnement te evalueren, samen met de eigenschap auto renew = False. De Skype voor Bedrijven Online Plan 1-abonnementen worden op 1 september 2018 ingesteld op automatisch verlengen=Onwaar. U kunt klanten op elk moment verplaatsen naar een nieuw abonnement. 
 
 ## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Skype voor Bedrijven Vervangingsplannen online abonnement 1
 
@@ -58,13 +58,13 @@ Microsoft biedt voortdurend nieuwe producten en services aan onze partners. In d
 
 2. Selecteer het abonnement dat u wilt kopen in de catalogus (in dit geval een van de bovenstaande opties), voer het aantal licenties in en selecteer **vervolgens Verzenden.** 
 
-Uw klant moet nu zowel oude als nieuwe abonnementen, het oude Skype voor Bedrijven Online Plan 1-abonnement en het nieuwe doelabonnement hebben, bijvoorbeeld Optie 1 - Office 365 Enterprise F1.
+Uw klant moet nu zowel oude als nieuwe abonnementen hebben, het oude Skype voor Bedrijven Online Plan 1-abonnement en het nieuwe doelabonnement, bijvoorbeeld Optie 1 - Office 365 Enterprise F1.
 
 3. Als u de licenties van de gebruikers van de klant opnieuw wilt toewijzen, selecteert u klanten in het **menu Partner Center,** selecteert u de klant die u verplaatst en selecteert u vervolgens Gebruikers **en licenties.** De pagina Gebruikers en licenties van de klant wordt geopend.
 
 4. Als u de gebruikerslicentie opnieuw wilt toewijzen, selecteert u de gebruiker die u opnieuw wilt toewijzen en selecteert u **vervolgens Licenties beheren.**
 
-5. Schakel op **de pagina** Licenties beheren het selectievakje Skype voor Bedrijven Online abonnement 1-licentie uit en selecteer een nieuw serviceplan voor het abonnement waar de klant naar overstapt.
+5. Schakel op **de pagina** Licenties beheren het selectievakje Skype voor Bedrijven Online Abonnement 1-licentie uit en selecteer een nieuw serviceabonnement voor het abonnement waar de klant naar overstapt.
 
 6. Selecteer **Indienen**. Een bevestigingspagina bevat de nieuwe licentietoewijzingen. Ga door met hetzelfde proces voor andere gebruikers die licentietoewijzingen nodig hebben.
 

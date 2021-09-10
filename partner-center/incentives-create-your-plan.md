@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c46f34a0b4b1873c3cca9b64f42848b2051bf6338ccb121b48f8979729f12703
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694911"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957688"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Een marketingplan genereren voor uw incentives-programma
 
@@ -84,7 +84,7 @@ Microsoft betaalt u elke maand op basis van uw inkomsten en de limieten van uw p
 
 Als uw abonnement bijvoorbeeld is goedgekeurd voor $ 10.000 en u $ 5.000 hebt verdiend in de maand april, ontvangt u $ 5.000 op 15 mei.
 
-Als u onder hetzelfde abonnement $ 15.000 verdient in de maand april, ontvangt u $ 10.000 op 15 mei omdat $ 10.000 de limiet voor uw plan was. Als u meer wilt ontvangen, moet u de limiet van uw plan verhogen voor de volgende maand.
+Als u onder hetzelfde plan $ 15.000 verdient in de maand april, ontvangt u $ 10.000 op 15 mei omdat $ 10.000 de limiet voor uw plan was. Als u meer wilt ontvangen, moet u de limiet van uw plan verhogen voor de volgende maand.
 
 ## <a name="next-steps"></a>Volgende stappen
 

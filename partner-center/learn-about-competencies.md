@@ -9,28 +9,28 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63ecf9e2982f968267ff3ffbdd010ede0d7badcaf4821bf5ccf6af8ccc994ea1
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2eecc1963c83ea3deb4caf5116b05aaccbf857af
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692327"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957145"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Onderscheid maken tussen uw bedrijf door Microsoft-competenties te verkrijgen
 
 **Juiste rollen:** Globale | Beheerder van gebruikersbeheer
 
-Toon uw bewezen expertise aan in het leveren van kwaliteitsoplossingen in een of meer gespecialiseerde bedrijfsgebieden. Microsoft-competenties zijn ontworpen om u voor te bereiden op de behoeften van uw klanten en om u te helpen nieuwe klanten aan te trekken die op zoek zijn naar door Microsoft gecertificeerde oplossingsproviders. Word lid van de toplaag van Microsoft-partners en onderscheiden zich van uw collega's.
+Demonstreert uw bewezen expertise in het leveren van kwaliteitsoplossingen in een of meer gespecialiseerde bedrijfsgebieden. Microsoft-competenties zijn ontworpen om u voor te bereiden op de behoeften van uw klanten en om u te helpen nieuwe klanten aan te trekken die op zoek zijn naar door Microsoft gecertificeerde oplossingsproviders. Word lid van de toplaag van Microsoft-partners en onderscheiden zich van uw collega's.
 
 - Haal een **silver-competentie** op om uw consistente mogelijkheden en commitment te demonstreren.
 
-- Haal een **goudkleurige competentie** op om uw beste mogelijkheden binnen een Microsoft-oplossingsgebied te demonstreren.
+- Haal een **goudkleurige competentie** op om uw eersteklas mogelijkheden binnen een Microsoft-oplossingsgebied te demonstreren.
 
 Het bereiken van een competentie kan ook een vermelding zijn voor verdere voordelen en kansen:
 
 - Ontgrendel krachtige [go-to-market aanbiedingen](mpn-learn-about-go-to-market-benefits.md) en programma's die u kunnen helpen uw bedrijf uit te breiden en uit te breiden. [Meer informatie over hoe u de markt op kunt gaan met Microsoft](https://partner.microsoft.com/solutions/go-to-market).
 
-- Het bereiken van een goudkleurige competentie biedt u de mogelijkheid om geavanceerdere [specialisaties](advanced-specializations.md) aan uw portfolio toe te voegen. Met geavanceerde specialisaties kunt u uw groeiende expertise presenteren aan klanten. [Meer informatie over geavanceerde specialisaties.](https://partner.microsoft.com/membership/advanced-specialization)
+- Het bereiken van een goudkleurige competentie biedt u de mogelijkheid om geavanceerdere [specialisaties](advanced-specializations.md) aan uw portfolio toe te voegen. Geavanceerde specialisaties helpen u uw groeiende expertise aan klanten te laten zien. [Meer informatie over geavanceerde specialisaties.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="check-your-status-as-you-attain-a-competency"></a>Controleer uw status wanneer u een competentie bereikt
 

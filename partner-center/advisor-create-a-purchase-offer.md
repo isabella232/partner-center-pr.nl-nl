@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Ontdek hoe een geautoriseerde abonnementsadviseur Partner Center om een aankoopaanbieding en aangepaste URL te maken die moeten worden opgeslagen in Office 365 uitnodigingen voor een proefabonnement.
+description: Ontdek hoe een geautoriseerde abonnementsadviseur gebruik kan Partner Center om een aankoopaanbieding en aangepaste URL te maken om op te nemen in Office 365 uitnodigingen voor een proefabonnement.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c53f9be767c1c55adc4ee177f9aa629ec7a638ced8f74d5e4105ad9d7145813e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ab85a6cb11a49f48362299c27bd110ec0cf54cb5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685238"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957583"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Adviseurs: Een aankoopaanbieding maken
 
@@ -39,7 +39,7 @@ Als uw client een ander aantal licenties wil, stuurt u hen een nieuwe aanbieding
 
     - **Partner kantoor:** als uw bedrijf meerdere kantoren heeft, kiest u het kantoor waar u deze aankoopaanbieding aan wilt koppelen.
 
-        Zie Add a location (Een locatie toevoegen) als u partnerlocaties [voor kantoorlocaties wilt toevoegen.](manage-locations.md) Het kan tot 24 uur na het maken van nieuwe kantoorlocaties duren voordat ze worden weergegeven in de **lijst Partner office.**
+        Zie Een locatie toevoegen als u partner [office-locaties wilt toevoegen.](manage-locations.md) Het kan tot 24 uur na het maken van nieuwe kantoorlocaties duren voordat ze worden weergegeven in de **lijst Partner office.**
 
     - **Gebruikslocatie:** selecteer de locatie waar uw client de services gaat gebruiken.
     - Abonnementen: de lijst met abonnementen die u kunt kiezen, wordt bepaald door de **gebruikslocatie** van het land of de regio van uw client. Vink het selectievakje aan van het abonnement of de abonnementen die u uw client aanbiedt.
@@ -53,7 +53,7 @@ Als uw client een ander aantal licenties wil, stuurt u hen een nieuwe aanbieding
     > [!NOTE]
     > Noteer de overzichts-id van **de aankoopaanbieding.** Gebruik deze om de aanbieding bij te houden.
 
-5. U kunt het bericht personaliseren door uw bedrijfslogo, inleiding, afsluitende opmerkingen of andere informatie op te geven.
+5. U kunt het bericht personaliseren door uw bedrijfslogo, inleiding, opmerkingen bij het sluiten of andere informatie op te geven.
 
     Verzend de aankoopaanbieding naar uw client.
 

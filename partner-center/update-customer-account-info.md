@@ -9,27 +9,27 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d804878835012a005a47d93e9b50a4b27d584f976257328ad022c3f5ece116
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8d0bb023bae86a4ff8789bd256273de8f8901a4c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695863"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957818"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Gegevens van klantaccounts, bedrijfsgegevens en factureringsgegevens van klanten bijwerken in Partner Center
 
-**Juiste rollen:** globale | Verkoopagent
+**Juiste rollen:** Globale | Verkoopagent
 
 In Partner Center kunt u de factureringsgegevens en andere bedrijfsgegevens van een klant bijwerken. U kunt ook [uw machtigingen voor een klant geven of verwijderen om hun eigen producten of services te kopen.](give-customers-permission.md)
 
 ## <a name="update-customer-details"></a>Klantgegevens bijwerken
 
-1. Selecteer in **Partner Center** menu **Klanten.** Kies vervolgens een klant in de lijst.
+1. Selecteer klanten **Partner Center** het menu **.** Kies vervolgens een klant in de lijst.
 
-2. Selecteer in het menu van de klant **Account** en vervolgens **Bijwerken.**
+2. Selecteer account in het menu van de **klant** en vervolgens **Bijwerken.**
 
 3. Nadat u de wijzigingen hebt aangebracht, selecteert u **Verzenden.**
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Klanten toestemming geven om Partner Center eigen producten of services te kopen](give-customers-permission.md)
+- [Klanten toestemming geven in Partner Center hun eigen producten of services te kopen](give-customers-permission.md)

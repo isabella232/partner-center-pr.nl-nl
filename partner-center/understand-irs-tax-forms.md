@@ -8,12 +8,12 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 2c693fb9f4d134f3cc7e4deee0afb5aaf8affc01e20b6d407d93bcddd5f3f67a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: cc32ed034f14603c92086d03dd9d43ee7c79b66e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695880"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957815"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>IRS-belastingformulieren begrijpen die zijn uitgegeven door Microsoft
 
@@ -27,8 +27,8 @@ In dit artikel wordt meer uitgelegd over deze formulieren, waaronder wie ze ontv
 
 | IRS-belastingformulier | Beschrijving | Beschikbaarheid |
 |--------------|-------------|--------------|
-|1099-MISC, 1099-K | Gerelateerd aan verkoopactiviteit en/of betalingen die aan u zijn gedaan voor deelname aan microsoft-marketplaces | Afgedrukte formulieren worden gemarkeerd op of vóór **31** januari en .pdf-kopieën zijn beschikbaar in [Partner Center](https://partner.microsoft.com/dashboard) (in **Partner Center Account-instellingen** onder Uitbetaling en belasting **> Uitbetalings-** en belastingprofielen ) op hetzelfde moment |
-|1042-S | Gerelateerd aan betalingen aan u die onderhevig zijn aan Verenigde Staten bronbelasting | Afgedrukte formulieren worden gemarkeerd op of vóór **15** maart en .pdf-kopieën zijn op hetzelfde moment beschikbaar in Partner Center (in **Partner Center Developer Instellingen** onder Uitbetaling en belasting > **Uitbetaling** en belastingprofielen )  |
+|1099-MISC, 1099-K | Gerelateerd aan verkoopactiviteit en/of betalingen die aan u zijn gedaan voor deelname aan microsoft-marketplaces | Afgedrukte formulieren worden gemarkeerd op of vóór **31** januari en .pdf-kopieën zijn beschikbaar in [Partner Center](https://partner.microsoft.com/dashboard) (in **Partner Center Accountinstellingen** onder Uitbetaling en belasting **> Uitbetaling** en belastingprofielen ) op hetzelfde moment |
+|1042-S | Gerelateerd aan betalingen aan u die onderhevig zijn aan Verenigde Staten bronbelasting | Afgedrukte formulieren worden gemarkeerd op of vóór **15** maart en .pdf-kopieën zijn op hetzelfde moment beschikbaar in Partner Center (in **Partner Center Developer Instellingen** onder Uitbetaling en belasting > **Uitbetaling** en belastingprofielen)  |
 
 > [!NOTE]
 > Het adres dat we op IRS-belastingformulieren gebruiken, is afkomstig van het adres in uw belastingprofiel bij het instellen van uw [uitbetalingsaccount en belastingformulieren.](set-up-your-payout-account.md) Als uw adres is gewijzigd, moet u het adres in uw **belastingprofiel bijwerken.**
@@ -55,13 +55,13 @@ De belastingformulieren worden vanaf de volgende adressen naar u verzonden:
 
 ## <a name="for-developers-located-in-the-united-states"></a>Voor ontwikkelaars die zich in de Verenigde Staten
 
-| Als ik een ontwikkelaar Verenigde Staten die betaalde apps verkoopt en...   | Ik zou dit formulier moeten ontvangen: |
+| Als ik een ontwikkelaar ben Verenigde Staten betaalde apps verkoopt en...   | Ik zou dit formulier moeten ontvangen: |
 |------------------------|-----------------------|
-| Ik heb in het toepasselijke belastingjaar meer dan **200 app-verkopen** gehad met een totaalaankoopbedrag van meer dan $ **20.000 USD** **(** niet meegerekend voor de verkoop in Brazilië en China via de Microsoft Store op Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belangrijk:** Formulier 1099-K  bevat brutoaankoopbedragen, geen betalingen aan u.| 
+| Ik had meer dan **200 app-verkopen** met een totaalaankoopbedrag van deze verkopen hoger dan **$ 20.000 USD** in het toepasselijke belastingjaar ( tel niet de verkoop in Brazilië en China via de Microsoft Store op Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belangrijk:** Formulier 1099-K  bevat brutoaankoopbedragen, geen betalingen aan u.| 
 | Ik heb **ten minste $ 10** aan betalingen ontvangen voor (i) app-verkopen in Brazilië en China via de Microsoft Store op Windows 10- of (ii) verkoop in de Minecraft Marketplace.<br/><br/>**OF**<br/><br/>Ik heb in het toepasselijke belastingjaar ten minste $ 600 ontvangen aan betalingen die niet zijn gerelateerd aan de verkoop van apps van Microsoft (bijvoorbeeld incentive-betalingen of betalingen van een wedstrijd of promotie)| **1099-MISC:**<br/>Beller: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Belangrijk:** Bepaalde bedrijfsentiteiten ontvangen geen 1099-MISC-formulieren, ongeacht de betalingsbedragen die van Microsoft zijn ontvangen.  Neem contact op met uw belastingprofessional voor meer informatie.| 
 | Geen van de bovenstaande is van toepassing.| Geen |
 | <br/><br/>**Als ik een ontwikkelaar ben Verenigde Staten advertenties in apps en...** |<br/><br/>**Ik zou dit formulier moeten ontvangen:** |
-|Ik heb **ten minste $ 600 aan betalingen ontvangen van** advertenties in apps in het toepasselijke belastingjaar. | **1099-MISC:**<br/>Beller: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Belangrijk:** Bepaalde bedrijfsentiteiten ontvangen geen 1099-MISC-formulieren, ongeacht de betalingsbedragen die van Microsoft zijn ontvangen.  Neem contact op met uw belastingprofessional voor meer informatie. |
+|Ik heb **ten minste $ 600 aan betalingen ontvangen** van advertenties in apps in het toepasselijke belastingjaar. | **1099-MISC:**<br/>Beller: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Belangrijk:** Bepaalde bedrijfsentiteiten ontvangen geen 1099-MISC-formulieren, ongeacht de betalingsbedragen die van Microsoft zijn ontvangen.  Neem contact op met uw belastingprofessional voor meer informatie. |
 | Ik heb **minder dan $ 600 aan betalingen ontvangen** van advertenties in apps in het toepasselijke belastingjaar. | Geen |
 
 
@@ -71,10 +71,10 @@ De belastingformulieren worden vanaf de volgende adressen naar u verzonden:
 | **Vraag** | **Antwoord** |
 |---|---|
 | **Ik heb een formulier 1042-S ontvangen van Microsoft. Waar is het voor?** | Microsoft heeft u een 1042-S-formulier of -formulieren verstrekt omdat we u omzet hebben betaald die als te rapporteren is aan de Verenigde Staten-belastinginstanties en onderworpen was aan bronbelasting.  Formulier 1042-S wordt gebruikt voor deze rapportagevereiste. | 
-| **Wat moet ik doen met de formulieren?** | Over het algemeen is er geen specifieke actie van uw kant vereist. Het formulier 1042-S kan nuttig zijn voor u als u een aanvraag wilt indienen bij uw lokale btw-instanties voor elke vorm van belastingtegoed.  Neem contact op met uw eigen belastingadviseurs voor meer informatie over dit onderwerp. | 
+| **Wat moet ik doen met de formulieren?** | Over het algemeen is er geen specifieke actie van uw kant vereist. Het formulier 1042-S kan nuttig zijn voor u als u een aanvraag wilt indienen bij uw lokale belastinginstanties voor elke vorm van belastingtegoed.  Neem contact op met uw eigen belastingadviseurs voor meer informatie over dit onderwerp. | 
 | **Waarom is de belasting voor mijn betalingen ingehouden toen ik een W8-formulier invullen?** | Belastingen worden ingetrokken als een van de volgende:<br/><br/>1. U hebt het belastinggedeelte van de W8 niet correct voltooid, of <br/>2. U woont in een land dat geen belasting heeft met de Verenigde Staten.<br/><br/>U kunt op Partner Center bezoek gaan om een bijgewerkt W8-formulier in te dienen.<br/><br/> **Opmerking:** Niet alle inkomsten zijn onderworpen aan holding. | 
-| **Ik heb een bijgewerkt W8-formulier met geldige informatie verzonden. Kan Microsoft de ingehouden belasting terugbetaald?** | Zodra de belasting is ingetrokken, kan deze niet meer worden gerestitueerd. Neem contact op met uw belastingadviseurs om te bespreken of u een lokaal tegoed voor deze belastingen kunt claimen of dat u een restitutie kunt aanvragen bij de IRS. | 
-| **Welke verkopen worden gerapporteerd op formulier 1042-S?** | Alleen verkoop aan koperen die zich in de Verenigde Staten die zijn geclassificeerd als onderworpen aan **belasting,** kunnen worden rapporteren.  Alle andere verkopen worden niet als rapporteerbaar beschouwd. | 
+| **Ik heb een bijgewerkt W8-formulier met geldige informatie verzonden. Kan Microsoft de ingehouden belasting terugbetaald?** | Zodra de belasting is ingetrokken, kan deze niet meer worden gerestitueerd. Neem contact op met uw belastingmedewerker om te bespreken of u een lokaal tegoed voor deze belastingen kunt claimen of dat u een restitutie kunt aanvragen bij de IRS. | 
+| **Welke verkopen worden gerapporteerd op formulier 1042-S?** | Alleen verkoop aan koperen in de Verenigde Staten die zijn geclassificeerd als onderworpen aan **belastingen,** kunnen worden rapporteren.  Alle andere verkopen worden niet als rapporteerbaar beschouwd. | 
 | **Waarom heb ik drie kopieën van hetzelfde formulier 1042-S in één envelop gekregen?** | Voor IRS-regelgeving moeten drie kopieën van het formulier worden opgegeven:<br/><br/>- Eén voor de records van de ontvanger<br/>- Een voor het indienen van een Verenigde Staten federale belastingaangifte (indien van toepassing)<br/>- Een voor het indienen met een Verenigde Staten belastingaangifte (indien van toepassing) |
 
 > [!NOTE]

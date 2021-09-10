@@ -10,11 +10,11 @@ ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d5d6004299ebd8e5d94a51837e486b66a88b4aa1
-ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "123088534"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957262"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkopen aan gespecialiseerde branches zoals educatie, non-profit en overheidsgebruikers
 
@@ -27,7 +27,7 @@ Microsoft biedt speciale, gereduceerde prijzen voor bepaalde groepen klanten, wa
 |**Speciale prijzen**   |**Vereiste kwalificaties voor resellers**   |**Vereiste kwalificaties van de klant**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Onderwijs   |Geen   | Moet een [gekwalificeerde education-gebruiker zijn](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-| Us Federal Government - [Office Government Community Cloud (GCC) High and DoD environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Als u deze Azure Government, moet u zich inschrijven met behulp van het [Microsoft US Government Cloud Validation-formulier](https://azuregov.microsoft.com/csp). Het verkopen van op licenties gebaseerde abonnementen is alleen beschikbaar bij uitnodiging.|   Moet een gekwalificeerde [Amerikaanse federale overheid zijn](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
+| Us Federal Government - [Office Government Community Cloud (GCC) High and DoD environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Als u Azure Government, moet u zich inschrijven met behulp van het [Microsoft US Government Cloud Validation-formulier](https://azuregov.microsoft.com/csp). Het verkopen van op licenties gebaseerde abonnementen is alleen beschikbaar bij uitnodiging.|   Moet een gekwalificeerde [Amerikaanse federale overheid zijn](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
 | Us Federal Government - GCC Moderate-omgeving | U moet in aanmerking komen voor samenwerking met Amerikaanse overheidsklanten door het formulier in te vullen: Vertel [ons over uw Directe CSP-partnerorganisatie.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Ga voor stapsgewijs instructies naar [Verkoop Office 365 Government GCC CSP-abonnementen aan gekwalificeerde klanten](/partner-center/csp-gcc-overview) | Moet een gekwalificeerde [amerikaanse overheidsentiteit zijn.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Ga voor stapsgewijs instructies naar [Verkoop Office 365 Government GCC CSP-abonnementen aan gekwalificeerde klanten](/partner-center/csp-gcc-overview)  |
 | Alle andere overheidsentiteiten | Geen. Partners moeten inrichten met behulp van 'zakelijke' aanbiedingen. | Geen
 Non-profit  |Geen|Meld u aan via het [non-profit programma van Microsoft om](https://nonprofit.microsoft.com/#/register) in aanmerking te komen.   |
@@ -46,7 +46,7 @@ De volgende stappen zijn alleen van toepassing op indirecte providers en partner
 
 1. Selecteer in **Partner Center** menu **Klanten.** Kies de klant in de lijst.
 
-2. Selecteer account in het menu van **de klant.** Zoek in **de sectie** Bedrijfsgegevens naar **Speciale kwalificaties.**
+2. Selecteer account in het menu van de **klant.** Zoek in **de sectie** Bedrijfsgegevens naar **Speciale kwalificaties.**
 
 3. Als **Speciale kwalificaties** is ingesteld op **Geen,** maar de klant  in feite voldoet aan de kwalificaties, kunt u de gegevens bijwerken om ze op te nemen.
 
@@ -70,10 +70,10 @@ Aankoopregels voor het verkopen van speciale aanbiedingen aan klanten:
 | Commercieel |Commercieel | Non-profitorganisatie, onderwijs of Government Community Cloud |
 | Non-profit |Commercieel, non-profit | Onderwijs of Government Community Cloud |
 | Onderwijs |Commercieel, onderwijs | Non-profitorganisatie of Government Community Cloud |
-| Government Community Cloud |Government Community Cloud | Non-profitorganisatie, onderwijs of commercieel |
+| Government Community Cloud |Government Community Cloud | Non-profit, onderwijs of commercieel |
 | Entiteit in eigendom van staat  | Commercieel  | Non-profitorganisatie, onderwijs of Government Community Cloud  |
 | If Education and State Owned Entity | Commercieel, onderwijs | Non-profitorganisatie of Government Community Cloud |
-| If State Owned Entity en Government Community Cloud | Government Community Cloud | Non-profitorganisatie, onderwijs of commercieel |
+| If State Owned Entity en Government Community Cloud | Government Community Cloud | Non-profit, onderwijs of commercieel |
 
 ## <a name="next-steps"></a>Volgende stappen
 

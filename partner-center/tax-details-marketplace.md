@@ -1,36 +1,36 @@
 ---
 title: Belastinggegevens voor commerciële marketplace van Microsoft
-description: Meer informatie over belastingoverwegingen voor prijsselectie, gevolgen voor uitbetalingen en belastingverantwoordelijkheid voor uw distributieregio's.
+description: Meer informatie over belastingoverwegingen voor prijsselectie, gevolgen voor uitbetaling en belastingverantwoordelijkheid voor uw distributieregio's.
 ms.topic: conceptual
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 author: jasongroce
 ms.author: davjan
 ms.date: 06/29/2021
-ms.openlocfilehash: c534da518ff6663808d5399c268056bb9c33d2fc39fd396bf9154ae0ea83243a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6f1d0805fab0488739cc35849c2fd5a64db7b35b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691716"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957196"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Belastinggegevens voor uitgevers van commerciële marketplace
 
 **Juiste rollen:** globale beheerder
 
-Deze pagina bevat de belastingverantwoordelijkheden en belastingoverwegingen voor uitgevers van commerciële marketplaces (uitgevers) en ontwikkelaars van consumentenmarktplaats in verband met eindaankopen van Publisher-/ontwikkelaarsproducten die zijn opgenomen in respectievelijk de [Microsoft Azure Marketplace Publisher-overeenkomst](/legal/marketplace/msft-publisher-agreement) en de [Overeenkomst voor app-ontwikkelaars.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)  De onderstaande informatie is een aanvulling op en is niet bedoeld ter vervanging van de voorwaarden in de Microsoft Publisher overeenkomst en de Overeenkomst voor app-ontwikkelaars.  Tenzij anders vermeld, is de onderstaande informatie van toepassing op uitgevers van commerciële marketplaces en ontwikkelaars van consumentenmarktplaats die hun producten/aanbiedingen beschikbaar maken voor verkoop via Microsoft Marketplaces. 
+Op deze pagina worden de belastingverantwoordelijkheden en belastingoverwegingen voor uitgevers van commerciële marketplaces (uitgevers) en ontwikkelaars van consumentenmarktplaats in verband met de aankopen van Publisher-/ontwikkelaarsproducten door eindgebruikers bekeken die respectievelijk voldoen aan de Publisher-overeenkomst van [Microsoft Azure Marketplace](/legal/marketplace/msft-publisher-agreement) en de [Overeenkomst voor app-ontwikkelaars.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)  De onderstaande informatie is een aanvulling op en is niet bedoeld ter vervanging van de voorwaarden in de Microsoft Publisher overeenkomst en de Overeenkomst voor app-ontwikkelaars.  Tenzij anders vermeld, is de onderstaande informatie van toepassing op uitgevers van commerciële marketplaces en ontwikkelaars van consumentenmarktplaats die hun producten/aanbiedingen beschikbaar maken voor verkoop via Microsoft Marketplaces. 
 
 ## <a name="end-customer-taxation"></a>Belasting van eindklant
 
-De verantwoordelijkheden van Microsoft en uitgevers/ontwikkelaars voor verkoop, gebruik, goederen en services, eventuele toegevoegde waarde ofvergelijkbare belastingen, indien van toepassing, op eindklantverkoop (eindklantbelasting) zijn afhankelijk van het land waarin uitgevers/ontwikkelaars ervoor kiezen om producten/aanbiedingen beschikbaar te stellen voor verkoop aan eindklanten via de Microsoft Marketplace(s). In de onderstaande tabel worden de omstandigheden en verantwoordelijkheid voor eindklantbelasting beschreven in landen met verkoop die in aanmerking komt via Microsoft Marketplace(s).  De onderstaande informatie kan worden gewijzigd en uitgevers/ontwikkelaars zijn verantwoordelijk voor het controleren van deze pagina op actuele, nauwkeurige informatie.
+Elk van de verantwoordelijkheden van Microsoft en Uitgevers/Ontwikkelaars voor verkoop, gebruik, goederen en services, toegevoegde waardeof vergelijkbare belastingen, indien van toepassing, op eindklantverkoop (eindklantbelasting) is afhankelijk van het land waarin uitgevers/ontwikkelaars ervoor kiezen om producten/aanbiedingen beschikbaar te stellen voor verkoop aan eindklanten via de Microsoft Marketplace(s). In de onderstaande tabel worden de omstandigheden en verantwoordelijkheid voor eindklantbelasting beschreven in landen met verkoop die in aanmerking komt via Microsoft Marketplace(s).  De onderstaande informatie kan worden gewijzigd en uitgevers/ontwikkelaars zijn verantwoordelijk voor het controleren van deze pagina op actuele, nauwkeurige informatie.
 
-In **Publisher/door** ontwikkelaars beheerde landen fungeert Microsoft als een agent of commissionaire (indien van toepassing) van Publisher/Developer. Uitgevers/ontwikkelaars erkennen en zijn het ermee eens dat uitgevers/ontwikkelaars de enige verantwoordelijkheid hebben om alle naleving te bepalen die vereist is voor en om eindklantbelasting te beheren, inclusief maar niet beperkt tot registratie, belastingberekening, belastingverzameling, btw-overboeking, validatie van de bedrijfsstatus van klanten en het leveren van belastingfacturen aan klanten. Uitgevers/ontwikkelaars erkennen dat Microsoft momenteel met betrekking tot verkoop in een door Publisher/developer beheerd land mogelijk niet de transactiegegevens kan verstrekken die uitgevers/ontwikkelaars nodig hebben om klanten belastingfacturen te verstrekken. 
+In **Publisher/door** ontwikkelaars beheerde landen fungeert Microsoft als een agent of commissionaire (indien van toepassing) van Publisher/Developer. Uitgevers/ontwikkelaars erkennen en zijn het ermee eens dat uitgevers/ontwikkelaars de enige verantwoordelijkheid hebben om alle naleving te bepalen die vereist is voor en om eindklantbelasting te beheren, inclusief maar niet beperkt tot registratie, belastingberekening, belastingverzameling, btw-afboeking, validatie van de bedrijfsstatus van klanten en het leveren van belastingfacturen aan klanten. Uitgevers/ontwikkelaars erkennen dat Microsoft momenteel met betrekking tot verkoop in een Publisher/Developer Managed Country mogelijk niet de transactiegegevens kan verstrekken die uitgevers/ontwikkelaars nodig hebben om klanten belastingfacturen te verstrekken. 
 
-In **door Microsoft beheerde landen** fungeert Microsoft als agent van de Publisher/developer. Microsoft neemt de verantwoordelijkheid voor het beheren van de eindgebruikersbelasting, waaronder het berekenen, verzamelen en/of afrekenen van bepaalde belastingen. Voor commerciële marketplace kan dit ook bestaan uit het valideren van de bedrijfsstatus van eindklanten door belastingregistratienummers of uitzonderingscertificaten te verkrijgen. Microsoft beheert eindgebruikersbelasting via lokale partners of externe partners die lokaal zijn geregistreerd. Microsoft-facturen onder het registratienummer van Microsoft. Microsoft omvat alle belastingen die zijn verzameld van eindklanten over de btw-terugbelasting van Microsoft.
+In **door Microsoft beheerde landen** fungeert Microsoft als agent van de Publisher/ontwikkelaar. Microsoft neemt de verantwoordelijkheid voor het beheren van de belasting van eindklant, waaronder het berekenen, verzamelen en/of afrekenen van bepaalde belastingen. Voor commerciële marketplace kan dit ook bestaan uit het valideren van de bedrijfsstatus van eindklanten door belastingregistratienummers of vrijstellingscertificaten te verkrijgen. Microsoft beheert eindgebruikersbelasting via lokale partners of externe partners die lokaal zijn geregistreerd. Microsoft-facturen onder het registratienummer van Microsoft. Microsoft omvat alle belastingen die zijn verzameld van eindklanten over de btw-terugbelasting van Microsoft.
 
-Microsoft garandeert niet dat de acties van Microsoft volledig voldoen aan de verplichtingen Publisher/ontwikkelaars in door Microsoft beheerde landen.  Voor alle door Microsoft beheerde landen raadt Microsoft uitgevers/ontwikkelaars sterk aan om samen met hun eigen belastingadviseurs te werken om na te gaan of de door Microsoft beheerde belasting voldoende voldoet aan de nalevingsvereisten van uitgevers/ontwikkelaars. Dit is met name essentieel voor alle door Microsoft beheerde landen van waaruit uitgevers/ontwikkelaars hun producten/aanbiedingen verkopen.  Microsoft fungeert als agent van Publisher/ontwikkelaar in door Microsoft beheerde landen.
+Microsoft garandeert niet dat de acties van Microsoft volledig voldoen aan de verplichtingen Publisher/ontwikkelaars in door Microsoft beheerde landen.  Voor alle door Microsoft beheerde landen raadt Microsoft uitgevers/ontwikkelaars ten zeerste aan om samen met hun eigen belastingadviseurs te werken om na te gaan of door Microsoft beheerde belasting voldoende voldoet aan de nalevingsvereisten van uitgevers/ontwikkelaars. Dit is met name essentieel voor alle door Microsoft beheerde landen van waaruit uitgevers/ontwikkelaars hun producten/aanbiedingen verkopen.  Microsoft fungeert als agent van Publisher/ontwikkelaar in door Microsoft beheerde landen.
 
-In **Reseller-landen** fungeert Microsoft als reseller, in plaats van als agent van Publisher/ontwikkelaar, bij het beschikbaar maken van Publisher/Developer-producten/-aanbiedingen voor verkoop aan eindklanten via de Microsoft Marketplace(s).  Uitgevers/ontwikkelaars zijn verantwoordelijk voor de verkoop, het gebruik, goederen en services, eventuele toegevoegde waarde of vergelijkbare belastingen voor de verkoop van producten/aanbiedingen aan Microsoft, en Microsoft is verantwoordelijk voor alle eindklantbelasting voor eindklanten.
+In **Reseller-landen** fungeert Microsoft als reseller, in plaats van als Publisher/Developer-agent, bij het beschikbaar maken van Publisher/Developer-producten/-aanbiedingen voor verkoop aan eindklanten via de Microsoft Marketplace(s).  Uitgevers/ontwikkelaars zijn verantwoordelijk voor de verkoop, het gebruik, goederen en services, eventuele toegevoegde waarde of vergelijkbare belastingen voor de verkoop van producten/aanbiedingen aan Microsoft, en Microsoft is verantwoordelijk voor alle eindklantbelasting voor eindklanten.
 
 
 ### <a name="publisherdeveloper-managed-countries"></a>Publisher/door ontwikkelaars beheerde landen: 
@@ -91,16 +91,16 @@ In **Reseller-landen** fungeert Microsoft als reseller, in plaats van als agent 
 | Cyprus                   | Italië                             | Roemenië               | Turkije                              |
 | Tsjechië                  | Letland                            | Rusland                | Verenigde Arabische Emiraten                |
 | Denemarken                  | Liechtenstein                     | Saoedi-Arabië          | Verenigd Koninkrijk                      |
-| Estland                  | Litouwen                         | Servië                | Verenigde Staten ook Voorsen |
+| Estland                  | Litouwen                         | Servië                | Verenigde Staten met inbegrip van |
 
 
 ### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Belasting voor eindklant met verschillen in marketplace
 
 |**Land**|**Commerciële marketplace (Azure Marketplace & AppSource)**| **Consumentenmarktplaats (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|Brazilië|Reseller behalve: Publisher beheerd voor aankopen die zijn gedaan via Cloud Solution Provider -klantaankoopscenario (CSP)|Door ontwikkelaar beheerd, behalve: Reseller voor aankopen die zijn gedaan via apparaten die worden uitgevoerd op Windows 10|
-|Mexico|Door Microsoft beheerd, behalve: Reseller voor aankopen via een Enterprise Agreement-klantaankoopscenario|Door Microsoft beheerd|
-|Australië|Door Microsoft beheerd, behalve: Publisher beheerd voor aankopen via enterprise agreement-klantaankoopscenario|Door Microsoft beheerd|
+|Brazilië|Reseller behalve: Publisher beheerd voor aankopen die zijn gedaan via een Cloud Solution Provider (CSP) klantaankoopscenario|Door de ontwikkelaar beheerd, behalve: Reseller voor aankopen die zijn gedaan via apparaten die worden uitgevoerd op Windows 10|
+|Mexico|Door Microsoft beheerd behalve: Reseller voor aankopen via een Enterprise Agreement-klantaankoopscenario|Door Microsoft beheerd|
+|Australië|Beheerd door Microsoft behalve: Publisher beheerd voor aankopen via een Enterprise Agreement-klantaankoopscenario|Door Microsoft beheerd|
 China|Marketplace niet ingeschakeld|Reseller ingeschakeld, behalve: ontwikkelaar die wordt beheerd voor mobiele communicatieapparaten met Windows phone 7.x en op pc's met Windows 8.x|
 | Bahrein | Publisher beheerd | Door Microsoft beheerd                      |
 | Oman | Publisher beheerd | Door Microsoft beheerd                         |
@@ -109,11 +109,11 @@ China|Marketplace niet ingeschakeld|Reseller ingeschakeld, behalve: ontwikkelaar
 
 ## <a name="tax-considerations-on-payouts"></a>Belastingoverwegingen voor uitbetalingen
 
-In door uitgevers/ontwikkelaars beheerde landen valt Microsoft-uitbetaling aan uitgevers/ontwikkelaars niet onder de winkelkosten en eventuele toepasselijke belastingen, waaronder een van de volgende: bronbelasting en verkoop, gebruik, goederen en services, toegevoegde waarde of vergelijkbare belastingen op de winkelkosten.
+In door uitgevers/ontwikkelaars beheerde landen geldt voor Microsoft niets meer dan de winkelkosten en eventuele toepasselijke belastingen, waaronder de volgende: bronbelasting en verkoop, gebruik, goederen en services, toegevoegde waarde of vergelijkbare belastingen op de winkelkosten.
 
-In toepasselijke door Microsoft beheerde landen en wederverkopers valt De uitbetaling van Microsoft aan uitgevers/ontwikkelaars af van de winkelkosten en eventuele toepasselijke belastingen, waaronder een van de volgende: Eindbelasting voor klanten, bronbelasting en verkoop, gebruik, goederen en services, toegevoegde waarde of vergelijkbare belastingen op de winkelkosten. In [de rapporten](payout-statement.md) die Microsoft beschikbaar stelt voor uitgevers/ontwikkelaars wordt de hoogte van deze belastingen aangegeven. 
+In toepasselijke door Microsoft beheerde landen en wederverkopers is uitbetaling van Microsoft aan uitgevers/ontwikkelaars exclusief de winkelkosten en eventuele toepasselijke belastingen, waaronder een van de volgende: Eindbelasting voor klanten, bronbelasting en verkoop, gebruik, goederen en services, toegevoegde waarde of vergelijkbare belastingen op de winkelkosten. In [de](payout-statement.md) rapporten die Microsoft beschikbaar stelt voor uitgevers/ontwikkelaars wordt de hoogte van deze belastingen aangegeven. 
 
-Microsoft int belasting op winkelkosten in de volgende landen waar uitgevers/ontwikkelaars ervoor kiezen om producten/aanbiedingen beschikbaar te maken voor verkoop aan eindklanten via de Microsoft Marketplace(s):
+Microsoft int belasting op winkelkosten in de volgende landen waar uitgevers/ontwikkelaars ervoor kiezen om producten/aanbiedingen beschikbaar te stellen voor verkoop aan eindklanten via de Microsoft Marketplace(s):
 
 |**Land**|**Commerciële marketplace**|**Consumentenmarktplaats**|
 |----------------|-----------------------------|-----------------------|
@@ -127,35 +127,35 @@ Microsoft int belasting op winkelkosten in de volgende landen waar uitgevers/ont
 
 ### <a name="end-customer-taxation"></a>Belasting voor eindklant
 
-- Scenario 1: De klant in een Publisher beheerd land koopt een aanbieding
+- Scenario 1: de klant in een Publisher beheerd land koopt een aanbieding
 
-  :::image type="content" source="images/tax/scenario-one.png" alt-text="Grafiek die laat zien hoe uitgever betaalt.":::
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="Grafiek waarin wordt weergegeven hoe de uitgever betaalt.":::
 
-- Scenario 2: De klant in een door Microsoft beheerd land koopt een aanbieding (Publisher niet relevant)
+- Scenario 2: de klant in een door Microsoft beheerd land koopt een aanbieding (Publisher niet relevant)
 
   :::image type="content" source="images/tax/scenario-two.png" alt-text="Grafiek met belasting in door Microsoft beheerd land.":::
 
-- Scenario 3: Een uitgever van een vreemde uitgever maakt een grensoverschrijdende verkoop aan een in de EU geregistreerde klant met btw-nummer in een door Microsoft beheerd land
+- Scenario drie: Een uitgever van een vreemde uitgever doet een grensoverschrijdende verkoop aan een geregistreerde klant met btw-nummer (BTW) in een door Microsoft beheerd land
 
-  :::image type="content" source="images/tax/scenario-three.png" alt-text="Grafiek die laat zien hoe btw-btw van invloed is op de belasting."::: 
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="Grafiek met de invloed van btw in de EU."::: 
 
-- Scenario 4: Een uitgever van het land maakt een nationale verkoop aan een klant in een door Microsoft beheerd land of een niet-nationale verkoop aan een klant in Zwitserland
+- Scenario 4: Een vreemde uitgever doet een nationale verkoop aan een klant die zich in een door Microsoft beheerd land bevindt of een niet-nationale verkoop aan een klant in Zwitserland
 
-  :::image type="content" source="images/tax/scenario-four.png" alt-text="Grafiek die laat zien hoe btw wordt verwerkt.":::
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="Grafiek met de manier waarop btw wordt verwerkt.":::
 
-- Scenario 5: De klant in een door Microsoft beheerd land koopt een aanbieding waarbij er belasting is op store-servicekosten
+- Scenario 5: de klant in een door Microsoft beheerd land koopt een aanbieding waarbij er belasting is op store-servicekosten
 
-  :::image type="content" source="images/tax/scenario-five.png" alt-text="Grafiek die laat zien hoe storeservicekosten van invloed zijn op de belasting.":::
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="Grafiek waarin wordt getoond hoe storeservicekosten van invloed zijn op de belasting.":::
 
 ### <a name="withholding-tax"></a>Bronbelasting
 
-- Scenario 1: Een vreemde uitgever (zonder toepasselijke belastingvoordelen op het belastingprofiel) wordt verkocht aan een Amerikaanse klant. 
+- Scenario 1: Een vreemde uitgever (zonder toepasselijke belastingvoordelen op het belastingprofiel) maakt een verkoop aan een Amerikaanse klant. 
 
   :::image type="content" source="images/tax/withholding-one.png" alt-text="Grafiek met bronbelasting zonder belasting.":::
 
-- Scenario 2: Een vreemde uitgever (met toepasselijke belastingvoordelen op een belastingprofiel tot nul procent tarief) waarbij een klant een verkoop aan de Amerikaanse klant doet. 
+- Scenario 2: Een vreemde uitgever (met toepasselijke belastingvoordelen op een belastingprofiel tot een tarief van nul procent) waarbij een klant een verkoop aan een Amerikaanse klant doet. 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="Grafiek met bronbelasting met belasting.":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="Grafiek met bronbelasting met belastingbelasting.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 

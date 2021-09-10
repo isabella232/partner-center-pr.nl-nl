@@ -1,6 +1,6 @@
 ---
 title: Reserveringsreserveringen Microsoft Azure klanten kopen
-description: Meer informatie over het kopen of kopen van Azure-reserveringen namens uw klanten in Partner Center. Geeft ook markten weer waarin Azure-reserveringen niet beschikbaar zijn.
+description: Meer informatie over het kopen of kopen van Azure-reserveringen namens uw klanten in Partner Center. Toont ook markten waar Azure-reserveringen niet beschikbaar zijn.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -10,38 +10,38 @@ ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
 ms.openlocfilehash: 112296baffe38b81a1a0516e62fa31525d1e3b3d
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102418"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956875"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Koop Microsoft Azure namens uw klanten in Partner Center
 
-**Juiste rollen:** beheeragent | Globale beheerder | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
+**Juiste rollen:** beheeragent | Globale | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
 
-In dit artikel wordt uitgelegd hoe u Azure-reserveringen koopt of aanschaft namens uw klanten in Partner Center. Het identificeert ook markten waar Azure-reserveringen niet beschikbaar zijn.
+In dit artikel wordt uitgelegd hoe u Azure-reserveringen koopt of koopt namens uw klanten in Partner Center. Het identificeert ook markten waar Azure-reserveringen niet beschikbaar zijn.
  
 > [!NOTE]
-> Dit artikel is alleen van toepassing op partners in het Cloud Solution Provider (CSP)-programma. Klanten die andere typen abonnementen gebruiken (zoals betalen per gebruik, afzonderlijke, Microsoft-klantovereenkomst- of Enterprise Agreement-abonnementen), moeten in plaats daarvan deze documentatie voor [Azure-reserveringen lezen.](/azure/cost-management-billing/reservations)
+> Dit artikel is alleen van toepassing op partners in het Cloud Solution Provider (CSP)-programma. Klanten die gebruikmaken van andere typen abonnementen (zoals betalen per gebruik, afzonderlijke, Microsoft-klantovereenkomst- of Enterprise Agreement-abonnementen), moeten in plaats daarvan deze documentatie over [Azure-reserveringen lezen.](/azure/cost-management-billing/reservations)
 
 ## <a name="before-you-begin"></a>Voordat u begint
 
-Lees de belangrijke informatie hieronder voordat u Azure-reserveringen namens uw klanten koopt. (Wilt u dat klanten hun eigen Azure-reserveringen kunnen kopen bij een eerder Azure-abonnement dat u voor hen hebt aangeschaft? Zie [Klanten toestemming geven om hun eigen Azure-reserveringen te kopen.)](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)
+Bekijk de belangrijke informatie hieronder voordat u Azure-reserveringen namens uw klanten koopt. (Wilt u dat klanten hun eigen Azure-reserveringen kunnen kopen bij een eerder Azure-abonnement dat u voor hen hebt aangeschaft? Zie [Klanten toestemming geven om hun eigen Azure-reserveringen te kopen.)](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)
 
-- Als en wanneer uw klant de nieuwe Microsoft-klantovereenkomst (zie Klantacceptatie van de [Microsoft-klantovereenkomst](confirm-customer-agreement.md)bevestigen), moet u Azure-reserveringen aanschaffen onder het Azure-plan. Lees [Azure-abonnement aanschaffen voor meer informatie.](purchase-azure-plan.md)
+- Als en wanneer uw klant de nieuwe Microsoft-klantovereenkomst (zie Klantacceptatie van de [Microsoft-klantovereenkomst](confirm-customer-agreement.md)bevestigen), moet u Azure-reserveringen kopen onder het Azure-plan. Lees [Azure-abonnement kopen voor meer informatie.](purchase-azure-plan.md)
 
 - Klanten moeten al een actief Azure-abonnement hebben voordat u namens hen reserveringen kunt kopen
   
-- Kosten voor softwareabonnementen, zoals SQL Database of SUSE Linux-software, zijn niet inbegrepen in de Azure-reserveringsprijzen
+- Kosten voor softwareabonnementen, zoals SQL Database of SUSE Linux-software, zijn niet inbegrepen in azure-reserveringsprijzen
 
-- De commerciële prijzen van Microsoft omvatten geen belastingen, tenzij uw locatie Brazilië is. Als uw locatie Brazilië is, bevat de commerciële prijs aan u de juiste belastingen
+- De commerciële prijzen van Microsoft omvatten geen belastingen, tenzij uw locatie Brazilië is. Als uw locatie Brazilië is, bevat de commerciële prijs de juiste belastingen
 
-- Verkoop- en helpdeskmedewerkers hebben expliciete toegang nodig tot het Azure-abonnement, zodat ze het kunnen kopen of beheren in de Azure Portal- en bestandsondersteuningsaanvragen, inclusief voor omruiling en restitutie namens de klant  
+- Verkoop- en helpdeskmedewerkers hebben expliciete toegang nodig tot het Azure-abonnement, zodat ze het kunnen kopen of beheren in de Azure Portal en ondersteuningsaanvragen kunnen indienen, inclusief voor omruiling en restitutie namens de klant  
 
 - Als u een indirecte provider bent en u Azure-reserveringen koopt via de Azure Portal, wordt de Partner of Record (indirecte reseller) overgenomen van het Azure CSP-abonnement dat u selecteert.
 
-- De Partner of Record voor Azure-reserveringen kan niet na aankoop worden gewijzigd. U kunt de bestaande reservering annuleren en een nieuwe aanschaffen met de nieuwe Partner of Record.
+- De Partner of Record voor Azure-reserveringen kan na aankoop niet worden gewijzigd. U kunt de bestaande reservering annuleren en een nieuwe aanschaffen met de nieuwe Partner of Record.
 
 - Als een klant een Azure-abonnement wil overdragen van Direct of EA naar CSP, worden reserveringen niet overgedragen.
 
@@ -74,7 +74,7 @@ Lees de belangrijke informatie hieronder voordat u Azure-reserveringen namens uw
 > | Centraal-Afrikaanse Republiek     | Liberia     | Somalië     |
 > | Tsjaad     | Madagaskar     | Zuid-Georgië en de Zuidelijke Sandwicheilanden     |
 > | China     | Malawi     | Zuid-Soedan     |
-> | Christmaseiland     | Maldiven     | St Helena, Ascension, Tristan da Cunha     |
+> | Christmaseiland     | Maldiven     | St Helena, Zetten, Tristan da Cunha     |
 > | Cocoseilanden     | Mali     | Suriname     |
 > | Comoren     | Marshalleilanden     | Svalbard     |
 > | Congo     | Martinique     | Swaziland     |
@@ -108,7 +108,7 @@ Volg de onderstaande stappen om Microsoft Azure te kopen namens uw klanten in Pa
 
     c. Kies in de lijst **Reserveringstype** het type reservering dat de klant wil.
 
-4. Azure-reserveringen moeten zijn gekoppeld aan een actief Azure-abonnement. Kies in de lijst Klantabonnement het abonnement van de klant aan wie u **Azure-reserveringen wilt** toevoegen. 
+4. Azure-reserveringen moeten worden gekoppeld aan een actief Azure-abonnement. Kies in de lijst Klantabonnement het abonnement van de klant aan wie u **Azure-reserveringen wilt** toevoegen. 
 
    >[!IMPORTANT]
    >Als de klant nog geen actief Azure-abonnement heeft, selecteert u **Azure om** er nu een toe te voegen. 
@@ -138,7 +138,7 @@ Volg de onderstaande stappen om Microsoft Azure te kopen namens uw klanten in Pa
 
 9. Selecteer **Kopen om** de order te kopen. De details van uw bestelling, inclusief uw ordernummer, worden weergegeven op de **pagina** Bevestigen. Selecteer **Done** om naar de pagina **Ordergeschiedenis te** gaan. 
 
-10. Als u de reservering van de klant in de  Azure Portal wilt beheren, gaat u naar de klant op de pagina Klanten en selecteert u vervolgens de pijl-omlaag om de rij van de klant uit te vouwen. Selecteer **Microsoft Azure Beheerportal** om de record van de klant in de Azure Portal.
+10. Als u de reservering van de klant in de Azure Portal  wilt beheren, gaat u naar de klant op de pagina Klanten en selecteert u vervolgens de pijl-omlaag om de rij van de klant uit te vouwen. Selecteer **Microsoft Azure Beheerportal** om de record van de klant in de Azure Portal.
 
 ## <a name="next-steps"></a>Volgende stappen
 
@@ -147,5 +147,5 @@ Volg de onderstaande stappen om Microsoft Azure te kopen namens uw klanten in Pa
 |Overzicht van Azure-reserveringen in CSP  | [Verkopen Microsoft Azure gereserveerde instanties](azure-reservations.md) |
 |Azure-reserveringen beheren in Partner Center | [Azure-reserveringen beheren in Partner Center](azure-reservations-manage.md)
 |De juiste VM-grootte bepalen en het gebruik van de klant-VM controleren   |[VM-formaat voor maximaal azure-reserveringsgebruik](azure-usage.md)   |
-|Azure-reserveringen kopen met behulp van Partner Center API | [Aankoop van Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) in de documentatie Partner Center ontwikkelaars   |
+|Azure-reserveringen kopen met behulp van de Partner Center-API | [Aankoop van Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) in de Partner Center ontwikkelaarsdocumentatie   |
 |Klanten toestemming geven om hun eigen Azure-reserveringen te kopen  | [Klanten toestemming geven om hun eigen Azure-reserveringen te kopen](give-customers-permission.md)  |

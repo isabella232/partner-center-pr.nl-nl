@@ -8,21 +8,21 @@ ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 67013f1761b629c8611241a4b1a8616e04c425a366b363ffb219d4923f417f63
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5099a851dc30767802af507e4840c714e47736e9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694713"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957229"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>De kosten betalen die zijn gekoppeld aan een silver- of gold-competentie
 
-**Juiste rollen:** BEHEER VAN MPN-partner | Accountbeheerder
+**Juiste rollen:** BEHEER DOOR MPN-partner | Accountbeheerder
 
 In dit artikel wordt beschreven hoe en wanneer u de kosten betaalt die zijn gekoppeld aan het verkrijgen van een silver- of gold Microsoft Partner Network competentie. In dit artikel wordt ook beschreven hoe u de betalingswijze van uw voorkeur wijzigt, hoe u een order annuleert en hoe u een korting van 25 procent ontvangt wanneer u overstapt van een silver-competentie naar een gold-competentie.
 
 > [!NOTE]
-> Zie Voor meer informatie over de voordelen van het verkrijgen van een silver- of gold-competentie, de specifieke competenties die beschikbaar zijn en hun unieke vereisten, Microsoft Partner Network [competenties.](https://partner.microsoft.com/membership/competencies) U kunt ook de Microsoft Partner Network [voor](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) competenties controleren voor meer informatie over de voordelen voor elke beschikbare competentie.
+> Zie voor meer informatie over de voordelen van het verkrijgen van een silver- of gold-competentie, de specifieke competenties die beschikbaar zijn en hun unieke vereisten, Microsoft Partner Network [competenties.](https://partner.microsoft.com/membership/competencies) U kunt ook de Microsoft Partner Network [voor](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) competenties controleren voor meer informatie over de voordelen voor elke beschikbare competentie.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Voldoen aan de vereisten van een competentie en de kosten betalen
 
@@ -34,9 +34,9 @@ Anders volgt u deze stappen om de kosten voor een silver- of gold-competentie te
 
 - U hebt al voldaan aan de [vereisten om](https://partner.microsoft.com/membership/competencies) een specifieke silver- of gold-competentie te verkrijgen.
 
-- Aan u is de rol van Partner Center globale beheerder of [MPN-partnerbeheerder toegewezen.](./permissions-overview.md) Als u een gastgebruiker bent zonder een van deze rollen, wordt u de toegang geweigerd tot sommige van de Partner Center pagina's die hieronder worden beschreven. Als dit het geval is, neem dan contact op [met uw globale beheerder](./find-your-role.md) en vraag deze om u de juiste rol toe te wijzen. 
+- Aan u is de rol van Partner Center globale beheerder of [MPN-partnerbeheerder toegewezen.](./permissions-overview.md) Als u een gastgebruiker bent zonder een van deze rollen, krijgt u geen toegang tot sommige van de Partner Center pagina's die hieronder worden beschreven. Als dit het geval is, neem dan contact op [met uw globale beheerder](./find-your-role.md) en vraag deze om u de juiste rol toe te wijzen. 
 
-1. Meld u met de werkaccountreferenties van uw organisatie aan bij het Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Meld u met de referenties voor het werkaccount van uw organisatie aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
 2. Selecteer [Lidmaatschapsaanbiedingen](https://partner.microsoft.com/dashboard/mpn/offers) in het navigatiemenu. 
 
@@ -44,7 +44,7 @@ Anders volgt u deze stappen om de kosten voor een silver- of gold-competentie te
 
 4. Selecteer de **optie Abonneren** rechts onder aan de specifieke tegel Silver- of Gold-lidmaatschap.
 
-   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Pagina met lidmaatschapsaanbiedingen met silver- of gold-lidmaatschappen waarop de partner zich kan abonneren of kan kopen." border="false":::
+   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="De pagina lidmaatschapsaanbiedingen met silver- of gold-lidmaatschappen waarop de partner zich kan abonneren of kan kopen." border="false":::
 
    > [!Note]
    > Als u nog niet aan de vereisten voor de gewenste silver- of gold-competentie hebt voldaan, kunt u zich niet abonneren op het silver/gold-lidmaatschap of de bijbehorende competentiekosten betalen. Als u al een goudkleurige competentiepartner bent, worden de incrementele voordelen voor een silver-competentie automatisch aan u toegekend. In dit scenario is de optie om de silver-competentiekosten te betalen ook niet beschikbaar.
@@ -61,7 +61,7 @@ Anders volgt u deze stappen om de kosten voor een silver- of gold-competentie te
 
 Volg deze stappen om uw creditcardbetaling te voltooien voor een bijbehorend silver- of gold-competentielidmaatschap.
 
-1. Als u Creditcard **hebt geselecteerd als** betalingswijze van uw voorkeur, wordt de pagina Met creditcardgegevens weergegeven. 
+1. Als u Creditcard **hebt geselecteerd als** uw voorkeursmethode voor betaling, wordt de pagina Met creditcardgegevens weergegeven. 
 
    :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="Lidmaatschap biedt de pagina met creditcardgegevens voor betalingen." border="false":::
 
@@ -80,20 +80,20 @@ Zodra de creditcardgegevens zijn ontvangen en de transactie is voltooid, wordt u
 
 Volg deze stappen om uw elektronische bankoverdracht te voltooien voor een bijbehorend competentielidmaatschap van silver of gold.
 
-1. Als u **Electronic Bank Transfer hebt geselecteerd** als uw voorkeursmethode voor betaling, ziet u de pagina **Aankoopdetails** controleren.
+1. Als u **Bankoverboeking als** uw voorkeursmethode voor betaling hebt geselecteerd, ziet u de **pagina Aankoopdetails** controleren.
 
    :::image type="content" source="images/offers/4-mpn-competency-payment-review-purchase-details.png" alt-text="Lidmaatschap biedt de pagina met aankoopdetails van elektronische bankoverdracht." border="false":::
 
-1. Selecteer de **koppeling** overeenkomst onderaan deze pagina en bekijk de aankoopvoorwaarden voor MPN-aanbieding namens uw bedrijf. Deze overeenkomst biedt belangrijke informatie over uw factureringsrekening, verlenging, geschiktheid voor restitutie en belastingen.
+1. Selecteer de **koppeling** overeenkomst onder aan deze pagina en bekijk de aankoopvoorwaarden voor mpn-aanbieding namens uw bedrijf. Deze overeenkomst biedt belangrijke informatie over uw factureringsrekening, verlenging, geschiktheid voor restitutie en belastingen.
 
-1. Controleer de details van de bankoverdracht die u nodig hebt. 
+1. Controleer de bankgegevens die u nodig hebt. 
 
 1. Noteer **in het gebied** Uw geselecteerde aankoop het bedrag dat wordt veroorzaakt door Microsoft en de specifieke valutakosten. U moet dat bedrag in die specifieke valuta overdragen van uw bankrekening.
 
 1. Wanneer u tevreden bent met alle informatie die u nodig hebt, selecteert u **Verzenden.**
 
    > [!NOTE]
-   > Uw **ordernummer en** **MPN-id** worden weergegeven zodra u **de bestelling hebt** verzenden. Noteer deze informatie. U hebt deze later nodig om uw bankoverdracht te voltooien.
+   > Uw **ordernummer en** **MPN-id** worden weergegeven zodra u **de bestelling hebt** verzenden. Noteer deze informatie. U hebt deze later nodig om uw bankoverboeking te voltooien.
 
 1. U ziet een bevestigingspagina waarop wordt aangegeven dat uw inzending is geslaagd. Nadat u de overboeking met uw bank hebt voltooid, moet u terugkeren naar deze pagina om uw betalingsbewijs te uploaden.
 
@@ -111,13 +111,13 @@ Volg deze stappen om uw elektronische bankoverdracht te voltooien voor een bijbe
    - Het overdrachtsbedrag dat wordt weergegeven in de juiste valuta
    - Uw ordernummer en MPN-id-nummer
 
-1. Zie de volgende sectie voor stappen voor het uploaden van uw betalingsdocument over overboeking.
+1. Zie de volgende sectie voor de stappen voor het uploaden van uw betalingsdocument over overboeking.
 
 ### <a name="upload-proof-of-wire-transfer-payment"></a>Upload van betaling via overboeking
 
 Als u uw silver- of gold-lidmaatschapskosten betaalt via elektronische overboeking, moet u een betalingsbewijs uploaden naar Partner Center. Volg deze stappen om dit te doen:
 
-1. Ga terug naar Partner Center [dashboard](https://partner.microsoft.com/dashboard)en selecteer vervolgens de optie **Lidmaatschapsaanbiedingen** in het navigatiemenu aan de linkerkant.
+1. Ga terug naar Partner Center [dashboard en](https://partner.microsoft.com/dashboard)selecteer vervolgens de optie **Lidmaatschapsaanbiedingen** in het navigatiemenu aan de linkerkant.
 
 1. Zoek uw specifieke aanbieding in de lijst Met aangeschafte aanbiedingen. Selecteer vervolgens onder de kolom Actie voor die aanbieding Upload **betalingsbewijs**.
 
@@ -139,11 +139,11 @@ Als het betalingsproces niet volledig is voltooid binnen 30 dagen na de aanmaakd
 
 ## <a name="switch-from-electronic-bank-transfer-payment-to-credit-card-payment-method"></a>Overstappen van betaling via elektronische overboeking naar betalingswijze voor creditcard
 
-U kunt later besluiten om uw betalingswijzen te wijzigen voor de kosten die zijn gekoppeld aan een silver- of gold-competentielidmaatschap. U kunt bijvoorbeeld besluiten een creditcardbetaling te gebruiken in plaats van een digitale bankoverboeking. Of mogelijk hebt u al een niet-genactioneerde elektronische bankoverboekingsorder gemaakt in het systeem.
+U kunt later besluiten om uw betalingswijzen te wijzigen voor de kosten die zijn gekoppeld aan een silver- of gold-competentielidmaatschap. U kunt bijvoorbeeld besluiten om een creditcardbetaling te gebruiken in plaats van een elektronische bankoverboeking. Of u hebt mogelijk al een niet-genactioneerde elektronische bankoverboekingsorder in het systeem gemaakt.
 
-Als u uw betalingsvoorkeuren voor een bestaande bestelling wilt wijzigen, moet u eerst de bestelling annuleren en deze vervolgens opnieuw inkopen met behulp van de betalingswijze van uw voorkeur.
+Als u uw betalingsvoorkeuren voor een bestaande order wilt wijzigen, moet u eerst de bestelling annuleren en deze vervolgens opnieuw inkopen met behulp van de betalingswijze van uw voorkeur.
 
-Ga als volgt te werk om een bestaande, niet-genactioneerde elektronische bankoverdracht te annuleren en uw betalingsvoorkeuren te wijzigen:
+Ga als volgt te werk om een bestaande, niet-genactioneerde elektronische bankoverboeking te annuleren en uw betalingsvoorkeuren te wijzigen:
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard) van het Partnercentrum.
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 23068edcb633bc1a0c8359c8ad122455e573126b4ad9c54b10d105f9156b002c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693959"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957268"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Promoties gebruiken om nieuwe klanten aan te trekken en de besparingen aan hen door te geven
 
@@ -39,7 +39,7 @@ Neem even de tijd om deze belangrijke feiten over promoties te bekijken:
 
 ## <a name="see-available-promotions"></a>Beschikbare promoties bekijken
 
-U kunt op de pagina **Promoties** zien voor welke promoties u in aanmerking komt. Selecteer **Promoties in uw** **Partner Center** voor een lijst met huidige promoties, samen met de korting, het promotietype en de begin- en einddatums voor het abonnement. Als er geen promoties beschikbaar zijn, wordt dit in een bericht aangegeven. 
+U kunt op de pagina **Promoties** zien voor welke promoties u in aanmerking komt. Selecteer **Promoties in uw** **Partner Center** menu voor een lijst met huidige promoties, samen met de korting, het promotietype en de begin- en einddatums voor het abonnement. Als er geen promoties beschikbaar zijn, wordt dit in een bericht aangegeven. 
 
 > [!NOTE]  
 > U kunt ook promoties bekijken bij het doen van een aankoop. Wanneer u een abonnement selecteert, wordt de promotieprijs weergegeven op de pagina **Controleren**.

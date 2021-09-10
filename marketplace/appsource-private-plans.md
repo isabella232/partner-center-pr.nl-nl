@@ -7,12 +7,12 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 06/08/2021
 robots: noindex
-ms.openlocfilehash: 2e55bd233d347cc7c23d60eb832c8fddfcfe524f4fb055e33e2a7a275eddee49
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a392859c1106c747e0e7c696927ef3b25262e411
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683826"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936801"
 ---
 # <a name="private-plans-in-microsoft-appsource"></a>Persoonlijke abonnementen in Microsoft AppSource
 
@@ -20,7 +20,7 @@ Persoonlijke abonnementen zijn de manier waarop uitgevers aangepaste abonnemente
 
 ## <a name="ask-your-isv-for-a-private-plan"></a>Uw ISV vragen om een privé-abonnement
 
-Als u een privé-abonnement voor u beschikbaar wilt stellen in AppSource, moet u rechtstreeks contact opnemen met de ISV en onderhandelen over een aangepaste prijs en technische specificaties. Zodra de voorwaarden van het privé-abonnement zijn overeengekomen, maakt de ISV een plan voor u en wijst deze toe aan de tenant-id van uw organisatie, die u moet verstrekken.
+Als u een privé-abonnement beschikbaar wilt stellen in AppSource, moet u rechtstreeks contact opnemen met de ISV en onderhandelen over een aangepaste prijs en technische specificaties. Zodra de voorwaarden van het privé-abonnement zijn overeengekomen, maakt de ISV een plan voor u en wijst deze toe aan de tenant-id van uw organisatie, die u moet verstrekken.
 
 ### <a name="finding-your-tenant-id"></a>Uw tenant-id zoeken
 
@@ -31,7 +31,7 @@ Als u een privé-abonnement voor u beschikbaar wilt stellen in AppSource, moet u
 
 ## <a name="find-a-private-plan-in-appsource"></a>Een privé-abonnement zoeken in AppSource
 
-Het kan tot 48 uur duren nadat de ISV het nieuwe privé-abonnement heeft gepubliceerd voordat u het in AppSource ziet. Als u persoonlijke abonnementen wilt zoeken die zijn gekoppeld aan uw tenant-id, selecteert u Persoonlijke **abonnementen** (pictogram Vergrendelen) in de rechterbovenhoek van AppSource.
+Het kan tot 48 uur duren nadat de ISV het nieuwe privé-abonnement heeft gepubliceerd voordat u het in AppSource ziet. Als u persoonlijke abonnementen wilt zoeken die zijn gekoppeld aan uw tenant-id, selecteert u Persoonlijke **abonnementen** (vergrendelingspictogram) in de rechterbovenhoek van AppSource.
 
 :::image type="content" source="media/private-offers/lock-icon.png" alt-text="Toont het vergrendelingspictogram (hangslot) in de bovenste werkbalk.":::
 
@@ -39,7 +39,7 @@ Als u niet bent aangemeld, wordt u gevraagd dit te doen. U kunt vervolgens de pe
 
 :::image type="content" source="media/private-offers/plan-pricing-tab.png" alt-text="Persoonlijke aanbiedingen worden weergegeven op het tabblad Abonnement en prijzen.":::
 
-Als er geen persoonlijke abonnementen beschikbaar zijn voor uw tenant, wordt in een bericht weergegeven dat u geen persoonlijke abonnementen of aanbiedingen hebt.
+Als er geen privé-abonnementen beschikbaar zijn voor uw tenant, wordt in een bericht weergegeven dat u geen persoonlijke abonnementen of aanbiedingen hebt.
 
 ## <a name="purchase-a-private-plan"></a>Een privé-abonnement kopen
 

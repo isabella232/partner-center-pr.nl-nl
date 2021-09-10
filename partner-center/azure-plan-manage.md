@@ -9,30 +9,30 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14dc31f11a63520c06ee0c7c7b0a9d3830e652efd4ad75d00d7997f032af7252
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ce0eaa6a4ec04dc514b241b7f90bf32dd3106e41
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690331"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956830"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Abonnementen en resources beheren onder het Azure-abonnement
 
 **Juiste rollen:** Beheerdersagent
 
 
-In dit artikel wordt uitgelegd hoe CSP-partners verschillende opties voor op rollen gebaseerd toegangsbeheer (RBAC) kunnen gebruiken om operationeel beheer en beheer van de Azure-resources van een klant te krijgen. Wanneer u een klant overplaatst naar het Azure-plan, krijgt u standaard bevoorrechte beheerdersrechten toegewezen in Azure (abonnementseigenaarsrechten via beheerder namens).
+In dit artikel wordt uitgelegd hoe CSP-partners verschillende opties voor op rollen gebaseerd toegangsbeheer (RBAC) kunnen gebruiken om operationeel beheer en beheer van de Azure-resources van een klant te krijgen. Wanneer u een klant overplaatst naar het Azure-plan, krijgt u standaard bevoegde beheerdersrechten toegewezen in Azure (abonnementseigenaarsrechten via beheerder namens).
 
  > [!NOTE]
  > Beheerdersrechten voor het Azure-abonnement kunnen door de klant worden verwijderd op abonnements-, resourcegroep- of workloadniveau. 
 
  Partners kunnen 24x7 operationeel beheer en beheer van de Azure-resources van een klant in CSP krijgen door gebruik te maken van verschillende opties die worden geboden via de functie voor op rollen gebaseerd toegangsbeheer (RBAC). 
 
-- **Admin on Behalf Of (AOBO)** - Met [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)heeft elke gebruiker met de rol Beheerderagent in de partnerten tenant RBAC-eigenaarstoegang tot Azure-abonnementen die u via het CSP-programma maakt.
+- **Admin on Behalf Of (AOBO)** - Met [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)heeft elke gebruiker met de rol Beheerderagent in de partnertenator RBAC-eigenaarstoegang tot Azure-abonnementen die u via het CSP-programma maakt.
 
 - **Azure Lighthouse:** AOBO biedt niet de flexibiliteit om afzonderlijke groepen te maken die met verschillende klanten werken of om verschillende rollen in te stellen voor groepen of gebruikers. Met Azure Lighthouse kunt u verschillende groepen toewijzen aan verschillende klanten of rollen. Omdat gebruikers het juiste toegangsniveau hebben via gedelegeerd resourcebeheer van Azure, kunt u het aantal gebruikers met de rol Beheerderagent verminderen (en dus volledige AOBO-toegang hebben). Dit helpt de beveiliging te verbeteren door onnodige toegang tot de resources van uw klanten te beperken. Het biedt u ook meer flexibiliteit om meerdere klanten op schaal te beheren. Lees voor meer informatie [Azure Lighthouse en het Cloud Solution Provider programma](/azure/lighthouse/concepts/cloud-solution-provider).
 
-- **Directory- of gastgebruikers of [service-principals:](/azure/active-directory/develop/app-objects-and-service-principals)** u kunt gedetailleerde toegang tot CSP-abonnementen delegeren door gebruikers toe te voegen in de klantmap of gastgebruikers toe te voegen en specifieke RBAC-rollen toe te wijzen.
+- **Directory of gastgebruikers of [service-principals:](/azure/active-directory/develop/app-objects-and-service-principals)** u kunt gedetailleerde toegang tot CSP-abonnementen delegeren door gebruikers toe te voegen aan de klantmap of gastgebruikers toe te voegen en specifieke RBAC-rollen toe te wijzen.
 
 Microsoft raadt gebruikers aan de minimale machtigingen te hebben die ze nodig hebben om hun werk uit te voeren als beveiligingspraktijken. Zie [Azure Active Directory Privileged Identity Management resources](/azure/active-directory/privileged-identity-management/pim-configure).
 
@@ -42,10 +42,10 @@ In de volgende tabel ziet u de methoden die worden gebruikt om uw partner-id te 
 
 |**Categorie**   |**Scenario**   |**MPN-id-associatie**|
 |-----------------|:------------------------|:------------------|
-|Aobo   |Directe CSP-partner of indirecte provider maakt het abonnement voor de klant, waardoor de directe CSP-partner of indirecte provider de standaardeigenaar van het abonnement wordt met behulp van AOBO; Directe CSP-partner of indirecte provider geven indirecte reseller toegang tot het abonnement met behulp van AOBO.|Automatisch (geen partnerwerk vereist)|
+|AOBO   |Directe CSP-partner of indirecte provider maakt het abonnement voor de klant, waardoor de directe CSP-partner of indirecte provider de standaardeigenaar van het abonnement wordt met behulp van AOBO; Directe CSP-partner of indirecte provider geven indirecte reseller toegang tot het abonnement met behulp van AOBO.|Automatisch (geen partnerwerk vereist)|
 |Azure Lighthouse|Partner maakt een nieuwe [Managed Services-aanbieding in Marketplace.](/azure/lighthouse/concepts/managed-services-offers) Deze aanbieding wordt geaccepteerd in het CSP-abonnement en de partner krijgt toegang tot het CSP-abonnement.|Automatisch (geen partnerwerk vereist)|
-|Azure Lighthouse|Partner implementeert [ARM-sjabloon](/azure/lighthouse/how-to/onboard-customer) in Azure-abonnement|De partner moet de MPN-id koppelen aan de gebruiker of service-principal in de partner-tenant. Voor meer informatie: [koppeling partner-id](/azure/billing/billing-partner-admin-link-started).|
-|Directory- of gastgebruiker|Partner maakt een nieuwe gebruiker of service-principal in de klantmap en geeft de gebruiker toegang tot het CSP-abonnement. Partner maakt een nieuwe gebruiker of service-principal in de directory van de klant. De partner voegt de gebruiker toe aan een groep en geeft toegang tot het CSP-abonnement aan de groep.|De partner moet de MPN-id koppelen aan de gebruiker of service-principal in de tenant van de klant. Voor meer informatie: [koppeling partner-id](/azure/billing/billing-partner-admin-link-started).|
+|Azure Lighthouse|Partner implementeert [ARM-sjabloon](/azure/lighthouse/how-to/onboard-customer) in Azure-abonnement|De partner moet de MPN-id koppelen aan de gebruiker of service-principal in de partner-tenant. Voor meer informatie: koppeling [partner-id](/azure/billing/billing-partner-admin-link-started).|
+|Directory- of gastgebruiker|Partner maakt een nieuwe gebruiker of service-principal in de klantmap en geeft de gebruiker toegang tot het CSP-abonnement. Partner maakt een nieuwe gebruiker of service-principal in de directory van de klant. De partner voegt de gebruiker toe aan een groep en geeft toegang tot het CSP-abonnement aan de groep.|De partner moet de MPN-id koppelen aan de gebruiker of service-principal in de tenant van de klant. Voor meer informatie: koppeling [partner-id](/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Bevestig dat u beheerderstoegang hebt
 
@@ -67,7 +67,7 @@ U hebt beheerderstoegang nodig om de services van uw klant te beheren en om verd
 
 ### <a name="aobo-removal"></a>AOBO verwijderen
 
-Klanten kunnen de toegang tot hun abonnementen beheren door naar **Access Control** op de Azure Portal. Op het **tabblad Roltoewijzingen** selecteren ze **Toegang verwijderen.** Als dit gebeurt, kunt u het volgende doen:
+Klanten kunnen de toegang tot hun abonnementen beheren door naar **de** Access Control te Azure Portal. Op het **tabblad Roltoewijzingen** selecteren ze **Toegang verwijderen.** Als dit gebeurt, kunt u het volgende doen:
 
 - Praat met uw klant om te zien of beheerderstoegang opnieuw kan worden ingesteld.
 
@@ -81,7 +81,7 @@ Lees Rollen en machtigingen voor het partnertegoed om te zien welke rollen in aa
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Beheerdersbevoegdheden voor uw Azure CSP ingetrokken en opnieuw in te stellen](revoke-reinstate-csp.md)
+- [Beheerdersbevoegdheden voor Azure CSP inroepen en opnieuw inroepen](revoke-reinstate-csp.md)
 
 - [Partnertegoed - overzicht](partner-earned-credit.md)
 

@@ -7,22 +7,22 @@ author: Guyshu
 ms.author: gushuchm
 ms.custom: contperf-fy21q3
 ms.date: 03/09/2021
-ms.openlocfilehash: 8942f319c408ac6277601b25c25e72eaec34c321308311de3259527c3a170a51
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686728"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936825"
 ---
 # <a name="what-is-azure-marketplace"></a>Wat is Azure Marketplace?
 
-[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) is een online winkel die duizenden IT-softwaretoepassingen en -services bevat die zijn gebouwd door toonaangevende technologiebedrijven. In Azure Marketplace u de software en services die u nodig hebt om nieuwe oplossingen te bouwen en uw cloudinfrastructuur te beheren, te vinden, te proberen, te kopen en te implementeren. De catalogus bevat oplossingen voor verschillende branches en technische gebieden, gratis proefversies en adviesservices van Microsoft-partners.
+[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) is een online winkel met duizenden IT-softwaretoepassingen en -services die zijn gebouwd door toonaangevende technologiebedrijven. In Azure Marketplace u de software en services die u nodig hebt om nieuwe oplossingen te bouwen en uw cloudinfrastructuur te beheren, te vinden, te proberen, te kopen en te implementeren. De catalogus bevat oplossingen voor verschillende branches en technische gebieden, gratis proefversies en adviesservices van Microsoft-partners.
 
 ## <a name="find-what-you-need-in-azure-marketplace"></a>Zoek wat u nodig hebt in Azure Marketplace
 
 Azure Marketplace biedt eenvoudige zoek- en filteropties om snel te vinden wat u zoekt. Gebruik de zoekbalk bovenaan de pagina om oplossingen te vinden op leverancier, productnaam of trefwoorden.
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Toont het hoofdvenster Azure Marketplace, waarin u kunt kiezen of u door Apps of Adviesservices wilt bladeren.":::
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Toont het hoofdvenster Azure Marketplace, waarin u kunt kiezen of u door Apps of Consulting Services wilt bladeren.":::
 
 Wanneer u de app-galerie verkent, gebruikt u de filters bovenaan om de resultaten te beperken op basis van de beschikbaarheid van een gratis proefversie of test drive, besturingssysteem, uitgever, prijsmodel of producttype.
 
@@ -32,7 +32,7 @@ In het meest linkse deelvenster kunt u de catalogus filteren op categorieën zoa
 
 :::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="Toont categorieën met subcategorieën.":::
 
-Azure Marketplace vereenvoudigt de aanschaf van software en IT-beheer (met hun verschillende prijsopties en meerdere implementatiemethoden) om u flexibiliteit te bieden om te voldoen aan uw unieke bedrijfsbehoeften. Het stroomlijnt ook de aanschaf met standaardcontractovereenkomsten, geconsolideerde facturering en facturering en gecentraliseerd abonnementsbeheer. De Azure Marketplace catalogus is beschikbaar in de online winkel en via de Azure Portal.
+Azure Marketplace vereenvoudigt de aanschaf van software en IT-beheer (met hun verschillende prijsopties en meerdere implementatiemethoden) om u flexibiliteit te bieden om te voldoen aan uw unieke zakelijke behoeften. Het stroomlijnt ook de aanschaf met standaardcontractovereenkomsten, geconsolideerde facturering en facturering en gecentraliseerd abonnementsbeheer. De Azure Marketplace-catalogus is beschikbaar in de online winkel en via de Azure Portal.
 
 ## <a name="microsoft-preferred-solutions"></a>Voorkeursoplossingen van Microsoft
 
@@ -88,5 +88,5 @@ Elke productpagina bevat beoordelingen en beoordelingen van andere klanten. Clas
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Azure Marketplace aanschaffen](azure-purchasing-invoicing.md)
+- [Azure Marketplace kopen](azure-purchasing-invoicing.md)
 - [Wat is Microsoft AppSource?](appsource-overview.md)

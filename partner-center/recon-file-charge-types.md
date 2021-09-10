@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e41210f6eedbea36e72d5d4408fd102e7f7d3289f3f1a7c0ee635fe226aa427
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: fe37a7cdc6ac8e60b9cc5672f4b53813e1f194f8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688893"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957490"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Inzicht in de verschillende kostentypen in Partner Center afstemmingsbestanden
 
@@ -31,7 +31,7 @@ Beide [afstemmingsbestanden](usage-based-recon-files.md) [](license-based-recon-
 
 ## <a name="map-charge-types-to-invoice-charges"></a>Kostentypen aan factuurkosten toe te rekenen
 
-Als u kruisverwijzingen wilt maken tussen kostenbedragen tussen uw factuur- en afstemmingsbestand, gebruikt u de filteropties in Microsoft Excel. Filter op kostentypen in uw afstemmingsbestand om de factuurkosten toe te rekenen aan een set uitsplitsingen van kosten in het afstemmingsbestand.
+Als u kruisverwijzingen wilt maken tussen de kostenbedragen tussen uw factuur- en afstemmingsbestand, gebruikt u de filteropties in Microsoft Excel. Filter op kostentypen in uw afstemmingsbestand om de factuurkosten toe te rekenen aan een set uitsplitsingen van kosten in het afstemmingsbestand.
 
 ## <a name="license-based-charges"></a>Kosten op basis van licenties
 
@@ -48,8 +48,8 @@ Als u deze licentiekosten wilt toevoegen aan uw factuur, somt u de kolom **Amoun
 | Prorate fees when convert away from current offering (Prorate-kosten bij het omzetten van de huidige aanbieding) | Naar rekening gebrachte kosten na het omzetten van het huidige maandelijkse abonnement naar een jaarlijks abonnement. |
 | Prorate fees when convert to a new offering (Prorate-kosten bij conversie naar een nieuwe aanbieding) | Naar rekening gebrachte kosten na het converteren van een maandelijks abonnement naar een nieuw jaarlijks abonnement. |
 | Prorate kosten bij aankoop | Het kostentype voor een abonnement wanneer u zowel maandelijkse als jaarlijkse facturering gebruikt. |
-| Prorate fee when renew (Prorate fee bij vernieuwen) | Pro prognosekosten bij het verlengen van het abonnement. |
-| Kosten vernieuwen | Kosten voor het verlengen van een abonnement |
+| Prorate fee when renew (Prorate fee bij verlenging) | Pro rated kosten bij abonnementsvernieuwing. |
+| Kosten voor vernieuwen | Kosten voor het verlengen van een abonnement |
 | Prorate fees when activate (Prorate-kosten bij activeren) | Pro factureringskosten vanaf activering tot het einde van de factureringsperiode. |
 
 ## <a name="one-time-charges"></a>Een een time-kosten
@@ -80,7 +80,7 @@ Als u deze gebruikskosten wilt toevoegen aan uw factuur, somt u de kolom **Preta
 Deze tegoeden aan uw factuur toe te wijsen:
 
 - Som de **TotalForCustomer op** uit het op licenties gebaseerde bestand.
-- Som de **kolom PostTaxTotal op** uit het bestand op basis van gebruik.
+- Som de **kolom PostTaxTotal** op uit het bestand op basis van gebruik.
 
 | Beschrijving van kosten (kolom ChargeType in afstemmingsbestand) | Uitleg over kosten |
 | ------------------------------------------------------------- | ------------------ |
@@ -88,7 +88,7 @@ Deze tegoeden aan uw factuur toe te wijsen:
 
 ### <a name="usage-based-discounts"></a>Kortingen op basis van gebruik
 
-Als u deze kortingen op basis van gebruik wilt toevoegen aan uw factuur, somt u de **kolom PretaxCharges** op uit het bestand op basis van gebruik.
+Als u deze kortingen op basis van gebruik wilt toevoegen aan uw factuur, somt u de kolom **PretaxCharges** op uit het bestand op basis van gebruik.
 
 | Beschrijving van kosten (kolom ChargeType in afstemmingsbestand) | Uitleg over kosten |
 | ------------------------------------------------------------- | ------------------ |

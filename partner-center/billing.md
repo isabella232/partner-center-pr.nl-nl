@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: cb3edae4b0b5a9687dc25006fde9db86143860d9b44aa790f62fd1340e5deab8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: bb7bea476a79096890e3ae33c0256200eae18968
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692973"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956905"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Overzicht: Belangrijkste artikelen over facturering en belasting in Partner Center
 
@@ -36,7 +36,7 @@ Dit artikel bevat koppelingen naar informatie over facturerings- en belastingond
 | [Niet-betaling, fraude of misbruik](non-payment-fraud-misuse.md) | Het beheren van niet-betaling, fraude of misbruik door uw klanten in Partner Center. |
 | [Een SLA-tegoed aanvragen voor uitval](request-credit.md) | Een SLA-tegoed aanvragen bij Microsoft voor uw klanten wanneer er een servicestoring is. |
 
-Als u op zoek bent naar Partner Center API-factureringsgegevens en -resources, bekijkt u de factureringsdocumentatie [voor ontwikkelaars.](/partner-center/develop/manage-billing)
+Als u op zoek bent naar Partner Center api-factureringsgegevens en -resources, bekijkt u de factureringsdocumentatie [voor ontwikkelaars.](/partner-center/develop/manage-billing)
 
 ## <a name="next-steps"></a>Volgende stappen
 

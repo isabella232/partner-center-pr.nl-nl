@@ -10,12 +10,12 @@ metadata:
   ms.author: kashanum
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: 81b8a8981233179e03733047552049dc0afd0627ee5bca3e74702e9b2df54bec
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115682399"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123957601"
 title: Veelgestelde vragen over Solution Assessment-incentives voor chip (Channel Incentives Platform)
 summary: >
   **Juiste rollen:** primaire contactpersoon of programmabeheerder
@@ -33,9 +33,9 @@ sections:
     answer: >
       Neem contact op met uw lokale Solution Assessment Specialist (SAS) om het proces te starten.
   - question: >
-      Hoe kan ik ik mijn bank- en belastinggegevens in?
+      Hoe kan ik ik mijn bank- en belastinggegevens indienen?
     answer: >
-      Lees [Navigeren door de CHIP](chip-intro.md) voor stapsgewijs instructies voor het indienen van uw bank- en belastingprofielen.
+      Lees [Navigeren door de CHIP](chip-intro.md) voor stapsgewijs instructies over het indienen van uw bank- en belastingprofielen.
   - question: >
       De status van mijn deal is goedgekeurd in CHIP. Waarom is deze nog niet betaald?
     answer: >
@@ -55,7 +55,7 @@ sections:
   - question: >
       Hoe kan ik een nieuwe beheerder/gebruiker toevoegen aan CHIP?
     answer: >
-      De contactpersoon van de primaire partner (beheerder) is verantwoordelijk voor het uitnodigen van alle andere gebruikers in het bedrijf om zich in te schrijven voor CHIP. Ze zijn ook verantwoordelijk voor gebruikerstoegang, waaronder het deactiveren van gebruikers die het bedrijf verlaten. Lees de [platformhandleiding voor Channel Incentives.](chip-intro.md)
+      De contactpersoon van de primaire partner (beheerder) is verantwoordelijk voor het uitnodigen van alle andere gebruikers in het bedrijf om zich in te schrijven voor CHIP. Ze zijn ook verantwoordelijk voor gebruikerstoegang, waaronder het deactiveren van gebruikers die het bedrijf verlaten. Lees de [platformhandleiding voor Channel Incentives](chip-intro.md).
   - question: >
       De primaire beheerder heeft ons bedrijf verlaten. Hoe wijzigen we mijn primaire beheerder in CHIP?
     answer: >
@@ -65,5 +65,5 @@ sections:
       Selecteer in Partner Center dashboard **ondersteuning** in het menu links. Selecteer **Incentives** als uw categorie of zoek de naam van uw programma in het gebied Door onderwerpen bladeren.
 
 
-      Als u de beschikbare onderwerpspecifieke hulp hebt bekeken en u nog steeds hulp nodig hebt, kunt u een ticket maken via de optie Aanbevolen documenten – **Een ondersteuningsticket** maken.
+      Als u na het bekijken van de beschikbare onderwerpspecifieke hulp nog steeds hulp nodig hebt, kunt u een ticket maken via de optie Aanbevolen documenten – **Een ondersteuningsticket** maken.
 additionalContent: "\n## <a name=\"next-steps\"></a>Volgende stappen\n\n- [Navigeren door CHIP](chip-intro.md)"

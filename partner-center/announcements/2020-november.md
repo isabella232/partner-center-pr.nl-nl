@@ -1,6 +1,6 @@
 ---
 title: November 2020-aankondigingen
-description: Aankondigingen van november 2020 voor Microsoft Partner Center waaronder nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
+description: Aankondigingen van november 2020 voor Microsoft Partner Center nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-announcements
@@ -9,21 +9,21 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 36e2b846cd7929632c54c4ee6c274ebdd6ddf5dabc92da25ba41c65eaff1847a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 981ddf4511be5e23092dae72bdf6e3d93e850d58
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688349"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957052"
 ---
 # <a name="november-2020-announcements"></a>November 2020-aankondigingen
 
 Op deze pagina worden de aankondigingen voor Microsoft Partner Center voor november 2020.
 
-Aankondigingen van 2020: [april](2020-april.md)  |  [mei](2020-may.md)  |  [juli](2020-june.md)  |  [augustus](2020-july.md)  |  [](2020-august.md)  |  [september](2020-september.md)  |  [|](2020-October.md) November
+Aankondigingen voor 2020: [april](2020-april.md)  |  [mei](2020-may.md)  |  [juli](2020-june.md)  |  [augustus](2020-july.md)  |  [](2020-august.md)  |  [september](2020-september.md)  |  [|](2020-October.md) November
 
 ______________
-## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Introductie van de mogelijkheid om SaaS-aanbiedingen aan te schaffen met facturering naar Partner Center 
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Introductie van de mogelijkheid om SaaS-aanbiedingen te kopen met facturering naar Partner Center 
 
 ### <a name="categories"></a>Categorieën
 
@@ -32,7 +32,7 @@ ______________
 
 ### <a name="summary"></a>Samenvatting
 
-Microsoft introduceert de mogelijkheid voor partners in het Cloud Solution Provider-programma om SaaS-aanbiedingen aan te schaffen met facturering naar gebruik in Partner Center. 
+Microsoft introduceert de mogelijkheid voor partners in het Cloud Solution Provider-programma om SaaS-aanbiedingen te kopen met facturering naar gebruik in Partner Center. 
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -40,7 +40,7 @@ Alle partners
 
 ### <a name="details"></a>Details
 
-Microsoft introduceert de mogelijkheid voor partners in het Cloud Solution Provider-programma, met inbegrip van indirecte [](/azure/marketplace/partner-center-portal/saas-metered-billing)providers en partners voor directe facturering, om SaaS-aanbiedingen met facturering naar gebruik te kopen   in Partner Center. Vandaag de dag kunnen partners in Cloud Solution Provider programma [SaaS-aanbiedingen](../csp-commercial-marketplace-purchase.md)met facturering naar een datameter bekijken en kopen via Azure Portal .Dankzij deze nieuwe ervaring kunnen partners deze aanbiedingen aanschaffen via de CSP Marketplace in Partner Center en de API, net als bij andere typen SaaS-aanbiedingen. 
+Microsoft introduceert de mogelijkheid voor partners in het Cloud Solution Provider-programma, waaronder indirecte providers en [](/azure/marketplace/partner-center-portal/saas-metered-billing)partners voor directe facturering, om SaaS-aanbiedingen met facturering naar gebruik te kopen   in Partner Center. Vandaag de dag kunnen partners in Cloud Solution Provider programma [SaaS-aanbiedingen](../csp-commercial-marketplace-purchase.md)met facturering naar een datameter bekijken en kopen via de Azure Portal .Met deze nieuwe ervaring kunnen partners deze aanbiedingen kopen via de CSP Marketplace in Partner Center en de API, net als bij andere SaaS-aanbiedingstypen. 
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -57,7 +57,7 @@ ______________
 
 ### <a name="summary"></a>Samenvatting
 
-Vanaf 18 november Partner Center de nieuwe ervaring voor accountbeheer uitgerold om de gebruikerservaring voor partners te verbeteren. Partners kunnen nu hun account voor alle programma's beheren vanuit Instellingen -> accountinstellingen.
+Vanaf 18 november Partner Center de nieuwe accountbeheerervaring uitgerold om de gebruikerservaring voor partners te verbeteren. Partners kunnen nu hun account voor alle programma's beheren vanuit Instellingen -> Account-instellingen.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -65,19 +65,19 @@ Alle partners
 
 ### <a name="details"></a>Details
 
-De belangrijkste wijziging in accountbeheer is  de integratie van de eerder afzonderlijke partnerinstellingenweergave voor partners die zijn ingeschreven in  commerciële programma's (Microsoft Partner Network, Cloud Solution Provider, verwijzingen, enzovoort) en de weergave Instellingen voor ontwikkelaars voor partners die zijn ingeschreven bij ontwikkelaarsprogramma's (commerciële marketplace, Windows & Xbox, enzovoort) in een uniforme weergave **accountinstellingen.**
+De belangrijkste wijziging in accountbeheer is  de integratie van de eerder afzonderlijke partnerinstellingenweergave voor partners die zijn ingeschreven in  commerciële programma's (Microsoft Partner Network, Cloud Solution Provider, verwijzingen, enzovoort) en de weergave Instellingen voor ontwikkelaars voor partners die zijn ingeschreven in ontwikkelaarsprogramma's (Commerciële marketplace, Windows & Xbox, enzovoort) in een uniforme weergave **accountinstellingen.**
 
 ### <a name="entry-point"></a>Toegangspunt
 
-Meld u aan Partner Center dashboard, selecteer het pictogram  **Instellingen**   klik op **Accountinstellingen.** U hoeft niet langer te kiezen tussen Partner en Ontwikkelaar, omdat alle profielen en instellingen nu worden gecombineerd.
+Meld u aan bij Partner Center dashboard, selecteer het pictogram  **Instellingen**   en klik op **Accountinstellingen.** U hoeft niet langer te kiezen tussen Partner en Ontwikkelaar, omdat alle profielen en instellingen nu worden gecombineerd.
 
 ### <a name="left-navigation-hierarchy"></a>Linkernavigatiehiërarchie
 
 - Organisatieprofiel
    - Juridisch: beheer uw juridische bedrijfsprofiel, partnerprofiel en bedrijfslocaties.
    - Tenants: al uw informatie over uw Azure AD-tenants, commercieel en ontwikkelaar, wordt hier bijgespoord.
-   - Id's: Partner Center voor uw bedrijf - uw MPNID's, publisherId's, enzovoort.
-- Gebruikersbeheer: beheer uw gebruikers en wijs ze vanaf één plek commerciële en ontwikkelaarsrollen toe. U kunt hier ook groepen en Azure AD-toepassingen beheren.
+   - Id's: Partner Center-id's voor uw bedrijf- uw MPNID's, publisherId's, enzovoort.
+- Gebruikersbeheer: beheer uw gebruikers en wijs ze commerciële en ontwikkelaarsrollen vanaf één plek toe. U kunt hier ook groepen en Azure AD-toepassingen beheren.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -85,26 +85,26 @@ Deel deze informatie met alle juiste contactpersonen in uw bedrijf.
 
 ______________
 
-## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 for mid-market Promo (LATAM, APAC and India)
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 voor promotie halverwege de markt (LATAM, APAC en India)
 
 ### <a name="categories"></a>Categorieën
 - Datum 2020-11-18
 - Aanbiedingen/markten
 
 ### <a name="summary"></a>Samenvatting
-We introduceren een nieuwe Office 365 E1 Promo voor de mid-market, beperkt tot de opkomende markten van LATAM, India en APAC (met uitzondering van de ontwikkelde markten binnen APAC).
+We introduceren een nieuwe Office 365 E1 Promo voor de middelgrote markt, beperkt tot de opkomende markten VAN LATAM, India en APAC (met uitzondering van ontwikkelde markten binnen APAC).
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken in de deelnemende markten die hierboven worden vermeld.
 
 ### <a name="details"></a>Details
-De Promo bestaat uit 30% korting op Office 365 E1 voor CSP. Deze wordt op 1 december 2020 gelanceerd en is zes maanden beschikbaar tot en met 31 mei 2021. Deze promotie is alleen beschikbaar voor klanten die niet bekend zijn met de CLOUD CLOUD en maximaal 500 seats hebben. Houd er rekening mee dat dit beperkt is tot opkomende markten van LATAM, India en APAC, om overgang naar de cloud mogelijk te maken. 
+De promo bestaat uit 30% korting op Office 365 E1 voor CSP. Deze wordt op 1 december 2020 gelanceerd en is zes maanden beschikbaar tot en met 31 mei 2021. Deze promotie is alleen beschikbaar voor klanten die niet bekend zijn met de CLOUD CLOUD en maximaal 500 seats hebben. Houd er rekening mee dat dit beperkt is tot opkomende markten van LATAM, India en APAC, om overgang naar de cloud mogelijk te maken. 
 
 #### <a name="offer-details"></a>Aanbiedingsdetails
 
    |**Naam van aanbieding**|**Aanbiedings-id**|
    |-------------------|:------|
-   |Office 365 E1 voor promotie op het midden van de markt|d20fctuur5-f524-45e4-97b1-59a94c21778f|
+   |Office 365 E1 voor promotie op de mid-market|d20fctuur5-f524-45e4-97b1-59a94c21778f|
 
 ### <a name="next-steps"></a>Volgende stappen
 Deze is beschikbaar op 1 december. In de tussentijd kunt u deze informatie delen met alle juiste contactpersonen binnen uw organisatie (in de deelnemende regio's). Begin in contact te komen met klanten die zich nog niet in de cloud in de deelnemende regio's hebben. 
@@ -114,50 +114,50 @@ Neem contact [Partner Center ondersteuning voor](https://partner.microsoft.com/d
 
 ______________
 
-## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Partner Center API-updates en gebruikersinterface (UI) verbeteren om de screening van klanten in bepaalde landen te verbeteren
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Partner Center api-updates en gebruikersinterface (UI) verbeteren om de screening van klanten in bepaalde landen te verbeteren
 
 ### <a name="categories"></a>Categorieën
 
 - Datum 2020-11-17
-- Mogelijkheden | Verbeterde screening van klanten
+- Mogelijkheden | Verbeterde klantscreening
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
 Directe factuurpartners of indirecte providers die deelnemen aan het Cloud Solution Provider (CSP)-programma met nieuwe of bestaande klanten in de volgende landen:
 
 - Wit (AM)
-- 16:00 uur (AZ)
+- 2012 (AZ)
 - None (BY)
 - Y (HU)
-- Monseed (KZ)
+- China (KZ)
 - Kyrgyzstan (KG)
-- 12.000 (MD)
+- 2012 (MD)
 - Rusland (RU)
-- Tjikjikjik (TJ)
-- Uzbekjik (UZ)
-- Tussens (UA)
+- Tjikjik (TJ)
+- Uzbekische (UZ)
+- Rusland (UA)
 
 ### <a name="summary"></a>Samenvatting
 
-Als onderdeel van de voortdurende toezegging van Microsoft aan klanten en partners met het gebruik van compatibele zakelijke procedures, wordt sommige partners met klanten in bepaalde landen nu gevraagd om enkele extra velden met gegevens over deze klanten in te vullen wanneer de partner de volgende keer probeert een bestaand klantabonnement bij te werken of een nieuw abonnement voor een nieuwe klant te maken. 
+Als onderdeel van de voortdurende toezegging van Microsoft aan klanten en partners met het maken van compatibele zakelijke procedures, wordt sommige partners met klanten in bepaalde landen nu gevraagd om een paar extra velden met gegevens over deze klanten in te vullen wanneer de partner de volgende keer probeert een bestaand klantabonnement bij te werken of een nieuw abonnement voor een nieuwe klant te maken. 
 
 ### <a name="details"></a>Details
 
-Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het transacteren van klantabonnementen in het CSP-programma. Als onderdeel van deze inspanning hebben we een aantal verbeteringen Partner Center API en gebruikersinterface geïntroduceerd die van invloed zijn op partners die voldoen aan alle volgende criteria: 
+Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het transacteren van klantabonnementen in het CSP-programma. Als onderdeel van deze inspanning hebben we een aantal api Partner Center en gebruikersinterfaceverbeteringen geïntroduceerd die van invloed zijn op partners die voldoen aan alle volgende criteria: 
 
 - De partner heeft een directe factureringsrelatie met Microsoft (zoals een partner voor directe facturering of een indirecte provider); En
 
-- De partner doet zaken met nieuwe of bestaande klanten in de volgende landen:Cens (AM), Elkaar (AZ), Compens (BY), Nuy (HU),Iek (KZ), Kyrgyzstan (KG), Omen (MD), Rusland (RU), Tjoekikjik (TJ), Uzbekië (UZ) en Omstand (UA) 
+- De partner doet zaken met nieuwe of bestaande klanten in de volgende landen: 1000 (AM), Kunnending (AZ), Nuenen (BY), Verenigde Staten (HU), Als (KZ), Kyrgyzstan (KG), Oman (MD), Rusland (RU), Tjikië (TJ), UZ (UZ) en UA (UA) 
 
-Voor dergelijke partners met een klant in deze landen moet de partner nu de juridische id **van** de specifieke klant (ook wel **organisatie-INN** van de klant genoemd) en het **Telefoon-nummer** van de klant indienen wanneer de partner de volgende keer probeert een abonnement voor die klant bij te werken of te maken. Deze partners kunnen er nu ook voor kiezen om een optionele **middelste** naam voor de klant in te voeren.
+Voor dergelijke partners met een klant in deze landen moet de partner nu de juridische id **van** de specifieke klant (ook wel de **ORGANISATIE-INN** van de klant **genoemd)** en het Telefoon-nummer van de klant indienen wanneer de partner de volgende keer probeert een abonnement voor die klant bij te werken of te maken. Deze partners kunnen er nu ook voor kiezen om een optionele **middelste** naam voor de klant in te voeren.
 
 ### <a name="partner-center-enhancements"></a>Partner Center verbeteringen
 
-- Partner Center van de gebruikersinterface om de validatie van klanten in specifieke landen te verbeteren
+- Partner Center gebruikersinterface verbeteren om de validatie van klanten in specifieke landen te verbeteren
 
 - Nieuwe API's ter ondersteuning van verbeterde validatie van klanten in specifieke landen
 
-**Wijzigingen in de Partner Center ui - Klantaccount**
+**Wijzigingen in de pagina Partner Center-gebruikersinterface - Klantaccount**
 
 De Partner Center klantaccount is als volgt bijgewerkt:
 
@@ -174,17 +174,17 @@ De veldvereisten voor **de landspecifieke organisatie-INN** (juridische id) word
 
 | Land/regio | A14-Area | ISO-landcode | Vereisten voor veldtekens | Landspecifieke veldnaam in native taal | Engelse vertaling of opmerkingen |
 |---------|----------|------------------|------------------------|--------------------|--------------------------------------|
-| Armenië | Cee      | AM               | 8 of 10 cijfers         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/openbaar servicenummer                     |
-| Azerbeidzjan| Cee      | AZ               | 7 of 10 cijfers         | :::no-loc text="ИНН/VOEN/ПИК"::: | TIN/INN/PIC              |
-| Belarus | Cee      | BY               | 9 cijfers         | :::no-loc text="УНП"::: | UNP (dit betekent belasting-id)                    |
-| Hongarije | Cee      | HU               | 10 of 11 cijfers         | :::no-loc text="TIN"::: | TIN (belasting-id)                     |
-| Kazachstan | Cee      | KZ              | 12 cijfers         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
-| Kirgistan | Cee      | KG               | 14 cijfers         | :::no-loc text="ИНН"::: | UNN/openbaar servicenummer                     |
-| Moldavië  | Cee        | MD               | 6, 7, 8 of 13 cijfers         | :::no-loc text="IDNO/IDNP"::: | Het unieke id-nummer (IDNO) dat aan de juridische entiteit is toegewezen, wordt ook als fiscale code gevormd. \"Staatsregister van wetseenheden met betrekking tot bedrijven die zijn geregistreerd in de Republiek Van Dienst, gepubliceerd door het Amerikaanse ministerie van informatie en communicatietechnologie in de overheidsportal van open data data.gov.md.\"                    |
-| Rusland | Cee      | RU               | 9, 10 of 12 cijfers         | :::no-loc text="ИНН"::: | Inn                     |
-| Tadzjikistan | Cee      | Tj               | 9, 10 of 12 cijfers     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/EIN/KPP                     |
-| Oezbekistan | Cee     | UZ               | 9 cijfers                 | :::no-loc text="INN":::         | Inn                               |
-| Oekraïne   | Cee      | UA               | 8, 10 of 12 cijfers      | :::no-loc text="EGRPOU/EDRPOU":::        | Identificatiecode van een juridische entiteit                             | 
+| Armenië | CEE      | AM               | 8 of 10 cijfers         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/openbaar servicenummer                     |
+| Azerbeidzjan| CEE      | AZ               | 7 of 10 cijfers         | :::no-loc text="ИНН/VOEN/ПИК"::: | TIN/INN/PIC              |
+| Belarus | CEE      | BY               | 9 cijfers         | :::no-loc text="УНП"::: | UNP (dit betekent belasting-id)                    |
+| Hongarije | CEE      | HU               | 10 of 11 cijfers         | :::no-loc text="TIN"::: | TIN (belasting-id)                     |
+| Kazachstan | CEE      | KZ              | 12 cijfers         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
+| Kirgistan | CEE      | KG               | 14 cijfers         | :::no-loc text="ИНН"::: | UNN/openbaar servicenummer                     |
+| Moldavië  | CEE        | MD               | 6, 7, 8 of 13 cijfers         | :::no-loc text="IDNO/IDNP"::: | Het unieke id-nummer (IDNO) dat aan de juridische entiteit is toegewezen, wordt ook als fiscale code gevormd. \"State Register of Law Units met betrekking tot bedrijven die zijn geregistreerd in de Republiek Van Dienst, gepubliceerd door het Amerikaanse ministerie van informatie- en communicatietechnologie in de overheidsportal van open data data.gov.md.\"                    |
+| Rusland | CEE      | RU               | 9, 10 of 12 cijfers         | :::no-loc text="ИНН"::: | INN                     |
+| Tadzjikistan | CEE      | TJ               | 9, 10 of 12 cijfers     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/EIN/KPP                     |
+| Oezbekistan | CEE     | UZ               | 9 cijfers                 | :::no-loc text="INN":::         | INN                               |
+| Oekraïne   | CEE      | UA               | 8, 10 of 12 cijfers      | :::no-loc text="EGRPOU/EDRPOU":::        | Identificatiecode van een juridische entiteit                             | 
 
 **Wijzigingen in de Partner Center-API**
 
@@ -193,7 +193,7 @@ De volgende contractwijzigingen worden aangebracht in de Partner Center API. Dez
 > [!NOTE]
 > Als u een partner bent die een strikte interpretatie van het JSON-antwoord van Partner Center gebruikt, kan dit gevolgen hebben voor deze wijzigingen als updates niet aan uw kant worden voltooid. JSON is geen aanbevolen integratie met Partner Center API's.
 
-| Updates voor REST-resources | Verwante Partner Center documentatie |
+| Updates voor REST-resources | Gerelateerde Partner Center documentatie |
 |---------------------------|-----------------------|
 | Nieuw vereist veld: organizationRegistrationNumber | - [Een klant maken](/partner-center/develop/create-a-customer#company-profile)<br/>- [Een klant maken voor een indirecte reseller](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [Klantbronnen](/partner-center/develop/customer-resources#customercompanyprofile) |
 | Bijgewerkt veld nu vereist: PhoneNumber<br/>Optioneel veld: MiddleName | - [Resources voor hulpprogramma's](/partner-center/develop/utility-resources#address) |
@@ -235,7 +235,7 @@ public class Address
 ```
 
 
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>EU/EFTA Wijziging van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen.  
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>EU/EFTA Wijziging van partnerfactureringsvaluta voor nieuwe commerciële aanbiedingen.  
 
 ### <a name="categories"></a>Categorieën
 - Datum 2020-11-17
@@ -251,7 +251,7 @@ In de regio van de Europese Unie (EU)/Europese Free Trade Association (EFTA) geb
 
 - **Fase 1: Nieuwe klanten die een nieuwe commerceaanbieding in CSP kopen**
 
-Vanaf januari 2021 worden partners met nieuwe klanten die nieuwe commerceaanbiedingen kopen, gefactureerd voor deze aankopen in partnerlocatievaluta. Partners met bestaande klanten die al nieuwe commerceaanbiedingen in CSP hebben aangeschaft, worden in deze fase nog steeds gefactureerd in de valuta van de factureringslocatie van de klant. 
+Vanaf januari 2021 worden partners die nieuwe klanten hebben die nieuwe commerceaanbiedingen kopen, gefactureerd voor deze aankopen in partnerlocatievaluta. Partners met bestaande klanten die al nieuwe commerceaanbiedingen in CSP hebben aangeschaft, worden in deze fase nog steeds gefactureerd in de valuta van de factureringslocatie van de klant. 
 
 - **Fase 2: bestaande klanten die vóór januari 2021 een nieuwe commerceaanbieding in CSP hebben gekocht** 
 
@@ -259,7 +259,7 @@ Na fase 1 en tijdens kalenderjaar 2021 zal Microsoft de facturering van nieuwe c
 
 >[Opmerking] Deze wijziging is alleen van invloed op de factureringsvaluta van partners en niet op de prijzen van nieuwe commerceaanbiedingen in CSP. 
 
-De nieuwe commerce-aanbiedingen die binnen het bereik van deze wijziging vallen, zijn: Azure-abonnementen die deel uitmaken van een Azure-plan, Azure-reserveringen, serverabonnementen, permanente software en aankopen op de commerciële Microsoft-marketplace in het Cloud Solution Provider-programma.
+De nieuwe commerceaanbiedingen die binnen het bereik van deze wijziging vallen, zijn: Azure-abonnementen die deel uitmaken van een Azure-plan, Azure-reserveringen, serverabonnementen, permanente software en aankopen op de commerciële Microsoft-marketplace in het Cloud Solution Provider-programma.
 
 ### <a name="partner-benefits"></a>Voordelen van partners  
 
@@ -292,22 +292,22 @@ Microsoft introduceert API-beperking voor partners die Partner Center API's aanr
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die het programma Cloud Solution Provider gebruiken
+Partners die het Cloud Solution Provider gebruiken
 
 ### <a name="details"></a>Details
 
-Microsoft implementeert API-beperking in het eerste kwartaal van 2021 om consistentere prestaties mogelijk te maken binnen een tijdspanne voor partners die de api'Partner Center aanroepen. Beperking beperkt het aantal aanvragen voor een service binnen een bepaalde periode om te voorkomen dat resources te veel worden gebruikt. Wanneer een drempelwaarde voor bandbreedtebeperking wordt overschreden, Partner Center verdere aanvragen van die client voor een bepaalde periode beperken.  
+Microsoft implementeert API-beperking in het eerste kwartaal van 2021 om consistentere prestaties mogelijk te maken binnen een periode voor partners die de api's Partner Center aanroepen. Beperking beperkt het aantal aanvragen voor een service binnen een bepaalde periode om te voorkomen dat resources te veel worden gebruikt. Wanneer een drempelwaarde voor bandbreedtebeperking wordt overschreden, Partner Center verdere aanvragen van die client voor een bepaalde periode beperken.  
 
 ### <a name="partner-benefits"></a>Voordelen van partners 
 
-Partner Center is ontworpen voor het verwerken van een groot aantal aanvragen, maar als een groot aantal aanvragen wordt gedaan door een paar partners, helpt beperking om optimale prestaties en betrouwbaarheid voor alle partners te behouden. Het zorgt voor minimale downtime. Door het grote aantal aanvragen te verminderen, kunnen we zorgen voor consistente prestaties voor alle partners. 
+Partner Center is ontworpen voor het verwerken van een groot aantal aanvragen, maar als een groot aantal aanvragen wordt gedaan door een paar partners, helpt beperking om optimale prestaties en betrouwbaarheid voor alle partners te behouden. Dit zorgt voor minimale downtime. Door het grote aantal aanvragen te verminderen, kunnen we zorgen voor consistente prestaties voor alle partners. 
 
 
 ### <a name="apis-to-be-throttled"></a>API's die moeten worden beperkt
 
 | **Bewerking** | **Documentatie voor Partnercentrum** |
 |-------------------------|----------------------------------|
-|{baseURL}/v1/customers/{customer_id}/subscriptions|[Alle abonnementen van een klant op te halen](/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[Alle abonnementen van een klant krijgen](/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Een abonnement ophalen op basis van id](/partner-center/develop/get-a-subscription-by-id) | 
 |{baseURL}/v1/customers/{customer_id}/orders|[Alle bestellingen van een klant ophalen](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Een bestelling ophalen op basis van id](/partner-center/develop/get-an-order-by-id)|  
@@ -325,7 +325,7 @@ Deze aankondiging is erop gericht partners in een vroeg stadium op de kennis van
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Lees [de richtlijnen voor API-beperking](/partner-center/develop/api-throttling-guidance)en neem de benodigde stappen. 
+Bekijk [de richtlijnen voor API-beperking](/partner-center/develop/api-throttling-guidance)en neem de benodigde stappen. 
 
 ______________
 
@@ -338,15 +338,15 @@ ______________
 
 ### <a name="context"></a>Context
 
-- In februari van dit jaar werden partners gevraagd de Microsoft-klantovereenkomst (MCuA) te ondertekenen. Dit was een migratie van de vorige Microsoft Cloud-overeenkomst (MCA). 
+- In februari van dit jaar zijn partners gevraagd om de Microsoft-klantovereenkomst (MCuA) te ondertekenen. Dit was een migratie van de vorige Microsoft Cloud-overeenkomst (MCA). 
 - Als onderdeel van deze wijzigingspartner is gevraagd of de partners de parameter overeenkomsttype moeten opnemen, zoals hier wordt [beschreven.](/partner-center/develop/get-confirmation-of-customer-agreement)
 
 ### <a name="what-happened-next"></a>Wat is er nu gebeurd:
 
-- Niet alle partners hebben de parameteraanvraag opgenomen in hun implementatie. Microsoft heeft de MCA aan deze partners geretourneerd.
+- Niet alle partners hebben de parameteraanvraag opgenomen in hun implementatie. Microsoft heeft de MCA naar deze partners geretourneerd.
 - De partner zou vervolgens de ondertekeningsaanvraag opnieuw naar de klant sturen en de MCA opnieuw naar Microsoft sturen. 
 - De duplicatie heeft invloed gehad op de mogelijkheid van Microsoft om de service aan partners te leveren.
-- In september 2020 hebben we een melding verzonden naar partners, via Yammer in meerdere forums, waarin we partners hebben gevraagd de parameter te herstellen. Microsoft kan de duplicaten niet meer accepteren en zou 409-fouten ontvangen.
+- In september 2020 hebben we een melding verzonden naar partners, via Yammer in meerdere forums, met het verzoek om partners de parameter te laten herstellen. Microsoft kan de duplicaten niet meer accepteren en zou 409-fouten ontvangen.
 
 >[Opmerking] dit is GEEN nieuwe contract-/API-wijziging voor partners.
 
@@ -371,7 +371,7 @@ ______________
 ### <a name="categories"></a>Categorieën
 
 - Datum 2020-11-10
-- Mogelijkheden | Efficiëntie van & vergroten
+- Mogelijkheden | Efficiëntie van & verhogen
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -383,29 +383,29 @@ Testen is nu beschikbaar voor Partner Center API-updates en UI-verbeteringen voo
 
 ### <a name="details"></a>Details
 
-Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het uitvoeren van Academische aanbiedingen in het CSP-programma. Als onderdeel van dit artikel introduceren we verbeteringen Partner Center API en gebruikersinterface in het tweede kwartaal van dit fiscale jaar (FY21 Q2). Deze verbeteringen bieden meer duidelijkheid en inzicht in het klantvalidatieproces, evenals de mogelijkheid om nauwkeurigere gegevens in te voegen, waardoor de klantvalidatie wordt verbeterd.
+Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het uitvoeren van academische aanbiedingen in het CSP-programma. Als onderdeel van dit artikel introduceren we verbeteringen Partner Center API en gebruikersinterface in het tweede kwartaal van dit fiscale jaar (FY21 Q2). Deze verbeteringen bieden meer duidelijkheid en inzicht in het klantvalidatieproces, evenals de mogelijkheid om nauwkeurigere gegevens in te voegen, waardoor de klantvalidatie wordt verbeterd.
 
 **Partner Center verbeteringen**
 
 - Nieuwe API's voor GET- en POST-kwalificaties ter ondersteuning van nauwkeurige gegevensinvoer en het validatieproces van de Education-klant door Microsoft.
 
-- Ui-verbeteringen ter ondersteuning van nauwkeurige gegevensinvoer en het verbeteren van het validatieproces van education-klanten door Microsoft.
+- Verbeteringen in de gebruikersinterface ter ondersteuning van nauwkeurige gegevensinvoer en het verbeteren van het validatieproces van education-klanten door Microsoft.
 
 Testen.
 
-Partners kunnen deze verbeteringen vanaf oktober 2020 testen om meer inzicht te krijgen in de API's en gegevensinvoer die nodig zijn voor een geslaagde klantvalidatie. Binnenkort geven we meer informatie over de exacte timing en hoe u kunt deelnemen. De bestaande Partner Center API's worden vóór het einde van FY21 Q2 in gebruik genomen. Op dat moment moet u zijn overgestappen naar de Partner Center API's.
+Partners kunnen deze verbeteringen vanaf oktober 2020 testen om meer inzicht te krijgen in de API's en gegevensinvoer die nodig zijn voor een geslaagde klantvalidatie. Binnenkort geven we meer informatie over de exacte timing en hoe u kunt deelnemen. De bestaande Partner Center API's worden vóór het einde van FY21 Q2 ingetrokken. Op dat moment moet u zijn overgestappen naar de Partner Center API's.
 
-   - Testen beschikbaar De partnertestdatums zijn van 2 oktober tot 2 december 2020. Partners die willen deelnemen, moeten de testhandleiding voor Partner Center Education-klanten downloaden voor informatie over hoe u zich kunt voorbereiden, hoe u zich kunt registreren en wat u kunt verwachten tijdens de testfase.
+   - Beschikbare testen De partnertestdatums zijn van 2 oktober tot 2 december 2020. Partners die willen deelnemen, moeten de klantentesthandleiding voor Partner Center Education downloaden voor informatie over hoe u zich kunt voorbereiden, hoe u zich kunt registreren en wat u kunt verwachten tijdens de testfase.
 
 **Bibliotheek- en Bibliotheekklanten**
 
-Naast deze verbeteringen kondigen we met trots aan dat we in FY21 Q2 academische aanbiedingen voor Bibliotheek- en Amerikaanse klanten inschakelen, waardoor we de Education-klanten met wie u CSP-aanbiedingen kunt aanbieden, kunnen uitbreiden.
+Naast deze verbeteringen kondigen we met trots aan dat we in FY21 Q2 academische aanbiedingen voor bibliotheek- en schoolklanten gaan inschakelen, waardoor de Education-klanten met wie u CSP-aanbiedingen kunt aanbieden, worden uitgebreid.
 
 Microsoft behoudt zich het recht voor om de status van een klant of voorgestelde klant te controleren als gekwalificeerde onderwijsgebruiker. Raadpleeg de [academic Qualified Education User requirements (Gebruikersvereisten voor Academic Qualified Education)](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) voor meer informatie.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de nieuwe Partner Center ui- en API-wijzigingen, [evenals](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) de testhandleiding in het validatieproces voor Partner Center Education-klanten
+- Bekijk de nieuwe Partner Center ui- en API-wijzigingen, [evenals](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) de testhandleiding in de Partner Center Education-klantvalidatieproces verbeteringen in het verzamelen van inhoud
 
 - Meld u aan om deel te nemen aan het testen. (Zie de [testhandleiding](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) voor meer informatie.) 
 
@@ -457,13 +457,13 @@ Microsoft Teams-ruimten Premium SKU voor Microsoft Teams via het Cloud Solution 
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
+Alle partners die het programma Cloud Solution Provider (CSP)
 
 ### <a name="details"></a>Details
 
 De nieuwe Microsoft Teams-ruimten Premium SKU voor Microsoft Teams-ruimten is nu beschikbaar voor uw klanten die CSP via u aanschaffen tegen USD 50 per apparaat per maand. De Microsoft Teams-ruimten Premium-SKU is een alternatief voor de Microsoft Teams-ruimten Standard-SKU (voorheen Vergaderruimte Licentie genoemd). Deze SKU omvat alles in de standaardaanbieding, zoals de benodigde licenties voor Microsoft Teams, Skype voor Bedrijven Online en Intune-beheer. De aanbieding maakt ook Telefoonsysteem, die nodig zijn voor PSTN-integratie (Public Switched Telephone Network) en audiovergaderingen, indien beschikbaar. 
 
-Met het Premium-aanbod hebben klanten toegang tot de nieuw uitgebrachte Microsoft Teams-ruimten Managed Services, waar experts het beheer en de bewerkingen voor vergaderruimten namens de klant afhandelen. Deze cloudservice voor IT-beheer en -controle houdt Microsoft Teams-ruimten apparaten en hun randapparatuur up-to-date en veilig. Ze worden ook proactief bewaakt en beheerd, met behoud van een omgeving die is geoptimaliseerd voor een geweldige ervaring in de ruimte.
+Met de Premium-aanbieding hebben klanten toegang tot de nieuw uitgebrachte Microsoft Teams-ruimten Managed Services, waar experts het beheer en de bewerkingen voor vergaderruimten namens de klant afhandelen. Deze cloudservice voor IT-beheer en -controle houdt Microsoft Teams-ruimten apparaten en hun randapparatuur up-to-date en veilig. Ze worden ook proactief bewaakt en beheerd, met behoud van een omgeving die is geoptimaliseerd voor een geweldige ervaring in de ruimte.
 
 #### <a name="released-at-launch"></a>Uitgebracht bij de lancering
 
@@ -484,8 +484,8 @@ Met het Premium-aanbod hebben klanten toegang tot de nieuw uitgebrachte Microsof
 - Realtime bewaking en hoofdoorzaakanalyse: Bewaking en detectie met gecoördineerd reactie op incidentbeheer, aangestuurd door Microsoft in coördinatie met de klant, indien nodig. Met de mobiele app kunt u onderweg gewaarschuwd blijven.
 - Beheerde updates: Beheer en levering van toepassingen, Windows KB en firmware-updates.
 - Beveiliging tegen beveiligingsrisico's: beveiliging tegen bedreigingen via Microsoft Defender Advanced Threat Protection.
-- Klantondersteuning: 24x7x365-ticketondersteuning via ons speciale Service Operations Center met ondersteuning voor het herstellen van incidenten voor niet-geautomatiseerde gevallen. Gedetailleerd toegangsbeheer op basis van rollen.
-- Insights en aanbevelingen: Geaggregeerde inzichten in klanten en rapporten over de gezondheid van de ruimte, inventaris, gebruik, onlinevergaderingen en incidenttrends.
+- Klantondersteuning: 24x7x365-ticketondersteuning via ons speciale Service Operations Center met ondersteuning voor incidentremediatie voor niet-geautomatiseerde gevallen. Gedetailleerd toegangsbeheer op basis van rollen.
+- Insights en aanbevelingen: Geaggregeerde inzichten voor klanten en rapporten over de gezondheid van de ruimte, inventaris, gebruik, onlinevergaderingen en incidenttrends.
 
 #### <a name="offer-details"></a>Aanbiedingsdetails
 
@@ -501,7 +501,7 @@ Met het Premium-aanbod hebben klanten toegang tot de nieuw uitgebrachte Microsof
 - Vertrouwd raken met de nieuwe aanbieding en de geografische beschikbaarheid. 
 - Meer informatie over Microsoft Rooms en verwante aanbiedingen op [Microsoft Team Rooms](https://rooms.microsoft.com/).
 - Gebruik de [Teams partnerhandleiding](https://aka.ms/teamscallingmeetingsguide) om uw praktijk te ontwikkelen met Teams Meeting Rooms en een aanbieding te maken die gereed is voor co-verkoop.
-- Bekijk de [Microsoft Teams-ruimten veelgestelde](https://aka.ms/PartnerMTRFAQ) vragen voor meer informatie over de productoplossing en -services. 
+- Bekijk de [Microsoft Teams-ruimten veelgestelde vragen](https://aka.ms/PartnerMTRFAQ) voor meer informatie over de productoplossing en -services. 
 - Deel deze informatie met alle juiste contactpersonen in uw organisatie en begrijp de verkoop- en cross-sellmogelijkheden.
 
 ________________
@@ -533,7 +533,7 @@ De nieuwe Advanced Communications-invoeggebruiker voor Microsoft Teams in GCC is
 
 #### <a name="frequently-asked-questions"></a>Veelgestelde vragen 
 
-**Wat is Advanced Communications?** Deze nieuwe Microsoft Teams stelt klanten in staat om hun communicatie-ervaring verder te verbeteren. De SKU kan worden aangeschaft boven op elke Microsoft 365 SKU waar ze op zijn geabonneerd.
+**Wat is Advanced Communications?** Met deze Microsoft Teams kunnen klanten hun communicatie-ervaring verder verbeteren. De SKU kan worden aangeschaft boven op elke Microsoft 365 SKU waar ze op zijn geabonneerd.
 
 **Hoeveel kost het?** De commerciële ERP is USD 12 per gebruiker per maand.
 
@@ -543,7 +543,7 @@ De nieuwe Advanced Communications-invoeggebruiker voor Microsoft Teams in GCC is
 
 **Waar kan het worden verkocht?** Het kan worden verkocht in Amerikaanse markten.
 
-**Wat zijn de vereisten?** Elke Microsoft 365 of Office 365 suite die Microsoft Teams bevat, kan deze invoeg-on hebben.
+**Wat zijn de vereisten?** Elke Microsoft 365 of Office 365 suite met Microsoft Teams kan deze invoegvoeging hebben.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -566,13 +566,13 @@ Directe providers, indirecte providers en indirecte resellers
 
 #### <a name="new-offers"></a>Nieuwe aanbiedingen
 
-Op 1 november 2020 heeft Microsoft Dynamics 365 Project Operations-aanbiedingen uitgebracht en Dynamics 365 Project Service Automation (PSA) voor commerciële klanten verwijderd. Deze communicatie biedt aanvullende informatie over de toewijzing van rechten voor dubbel gebruik vanaf deze lancering en nieuwe ingesloten aanbiedingen van onafhankelijke softwareleveranciers (ISV's).
+Op 1 november 2020 heeft Microsoft Dynamics 365 Project Operations-aanbiedingen uitgebracht en Dynamics 365 Project Service Automation (PSA) voor commerciële klanten verwijderd. Deze communicatie biedt aanvullende informatie over de toewijzing van rechten voor dubbel gebruik vanaf deze lancering en nieuwe isv-aanbiedingen (Independent Software Vendor).
 
 #### <a name="project-operations-isv-embed-offers"></a>Project Aanbiedingen voor isv-insluiten van Operations ISV
 
-Op 1 november 2020 heeft Microsoft drie extra ISV Embed-aanbiedingen van 36 maanden voor Dynamics 365 for Project Operations uitgebracht voor klanten van Cloud Solution Provider (CSP). Zie het tabblad Project bewerkingen in het document [Dynamics CSP Offers-November 2020 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls) SKU-details.
+Op 1 november 2020 heeft Microsoft drie extra ISV Embed-aanbiedingen van 36 maanden voor Dynamics 365 for Project Operations uitgebracht voor klanten van Cloud Solution Provider (CSP). Zie het tabblad Project Bewerkingen in het document [Dynamics CSP Offers-November 2020 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls) SKU-details.
 
-#### <a name="project-operations-dual-use-rights-mapping"></a>Project Toewijzing van rechten voor dubbel gebruik van bewerkingen
+#### <a name="project-operations-dual-use-rights-mapping"></a>Project Toewijzing van rechten voor dubbel gebruik in bewerkingen
 
 In de volgende tabel vindt u informatie over on-premises toewijzing van Dynamics 365-rechten voor dubbel gebruik voor Project Operations-aanbiedingen:
 
@@ -582,8 +582,8 @@ In de volgende tabel vindt u informatie over on-premises toewijzing van Dynamics
    |D365-Project bewerkingen|D365 for Operations, on-prem (AX Server) met behulp van de Dyn365 Project Operations SKU (109108477)|
    |D365 Project Operations Attach|D365 for Operations, on-prem (AX Server) met behulp van de Dyn365 Project Operations SKU (109108477)|
    |D365 Finance met Project Operations|D365 for Operations, on-prem (AX Server) met behulp van de Dyn365 Project Operations SKU (109108477)|
-   |D365 Finance Attach with Project Operations|D365 for Operations, on-prem (AX Server) met behulp van de Dyn365 Project Operations SKU (109108477)|
-   |D365 Unified Operations – Activiteit met Project Operations|D365 for Operations, on-prem (AX Server) met behulp van de Dyn365 Project Operations SKU (109108477)|
+   |D365 Finance Attach met Project Operations|D365 for Operations, on-prem (AX Server) met behulp van de Dyn365 Project Operations SKU (109108477)|
+   |D365 Unified Operations : activiteit met Project bewerkingen|D365 for Operations, on-prem (AX Server) met behulp van de Dyn365 Project Operations SKU (109108477)|
 
 #### <a name="previously-announced"></a>Eerder aangekondigd
 
@@ -591,7 +591,7 @@ Op 1 november 2020 heeft Microsoft de volgende nieuwe en bijgewerkte Dynamics 36
 
 - Dynamics 365 Customer Voice USL 
 
-Bekijk het Project Bewerkingen in het [document Dynamics CSP Offers-November 2020 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) details van de aanbiedings-id.
+Bekijk het Project Bewerkingen in het document [Dynamics CSP Offers-November 2020 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) details van de aanbiedings-id.
 
 Meer resources vindt u op de startpagina van Microsoft Dynamics 365 Customer Voice.
 
@@ -632,8 +632,8 @@ Microsoft 365 Business Voice kunnen worden toegevoegd aan de volgende abonnement
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Zorg dat u vertrouwd bent en deel de informatie in de lijst met preview-prijzen met alle juiste contactpersonen in uw organisatie. 
-- Bekijk alle gereedheidsmaterialen in de Cloud Solution Provider Program Updates resource gallery: [Introducing Microsoft 365 Business Voice for small and medium businesses](https://partner.microsoft.com/resources/collection/m365-voice-smb#/)(Introductie tot Microsoft 365 Business Voice voor kleine en middelgrote bedrijven). 
+- Zorg dat u vertrouwd bent en deel de informatie in de preview-prijslijst met alle juiste contactpersonen in uw organisatie. 
+- Bekijk alle gereedheidsmaterialen in de Cloud Solution Provider Program Updates- resourcegalerie: [Introductie Microsoft 365 Business Voice voor kleine en middelgrote bedrijven.](https://partner.microsoft.com/resources/collection/m365-voice-smb#/) 
 
 ________________
 
@@ -654,7 +654,7 @@ Alle partners die het CSP-programma gebruiken
 
 ### <a name="details"></a>Details
 
-Met ingang van 1 november 2020 tot en met 30 april 2021 zijn nieuwe en verlengingsabonnementen van Microsoft 365 Business Voice met aanroepend abonnement en Microsoft 365 Business Voice zonder abonnement aanroepen onderhevig aan kortingsprijzen. Microsoft 365 Business Voice abonnement voor oproepen is onderworpen aan een korting van 25 procent voor 12 maanden en Microsoft 365 Business Voice zonder abonnement aanroepen is onderworpen aan een korting van 33 procent voor 12 maanden. 
+Met ingang van 1 november 2020 tot en met 30 april 2021 zijn nieuwe abonnementen en verlengingsabonnementen van Microsoft 365 Business Voice met oproepabonnement en Microsoft 365 Business Voice zonder oproepabonnement onderhevig aan kortingsprijzen. Microsoft 365 Business Voice abonnement voor oproepen is onderworpen aan een korting van 25 procent voor 12 maanden en Microsoft 365 Business Voice zonder abonnement aanroepen is onderworpen aan een korting van 33 procent voor 12 maanden. 
 
 #### <a name="offer-details"></a>Aanbiedingsdetails
 
@@ -666,7 +666,7 @@ Met ingang van 1 november 2020 tot en met 30 april 2021 zijn nieuwe en verlengin
    |Microsoft 365 Business Voice (zonder oproepabonnement) Promotie voor ingebruikname|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
    |Microsoft 365 Business Voice (zonder oproepabonnement) Promotie voor ingebruikname|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
    |Microsoft 365 Business Voice (zonder oproepabonnement) Promotie voor ingebruikname|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
-   |Microsoft 365 Business Voice (zonder abonnement aan te roepen) voor us Adoption Promo|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   |Microsoft 365 Business Voice (zonder abonnement aanroepen) voor us Adoption Promo|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
 
 Deze promoties zijn van invloed op de volgende klanten:
 

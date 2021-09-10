@@ -9,16 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7981df966b352f266f03be96ee4895d0d48f24a694737d979e60b399c8658b69
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d0ff46b09d2d9008302825daeb07b5ffa05a5650
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696577"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956890"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Een btw-nummer toevoegen aan uw factureringsprofiel
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Factureringsbeheerder | Beheeragent | Verkoopagent
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Factureringsbeheerders | Beheeragent | Verkoopagent
 
 U kunt de volgende procedure gebruiken om uw factureringsprofiel bij te werken met uw btw-id. (Houd er rekening mee dat dit mogelijk niet mogelijk is in uw land of regio.)
 

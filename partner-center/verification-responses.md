@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 64acff2ff7d518e549f4c90ba898496c522550a7
-ms.sourcegitcommit: 7607ab0e3255f7184332e457366a9ddbfe305f35
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "123275978"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957322"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Uw accountgegevens controleren wanneer u zich inschrijft voor een nieuw Partner Center-programma
 

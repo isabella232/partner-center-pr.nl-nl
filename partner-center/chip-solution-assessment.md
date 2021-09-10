@@ -1,26 +1,26 @@
 ---
-title: STATUS VAN DE OPLOSSINGSEVALUATIEKANS
+title: Status van chipoplossingsevaluatiekans
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Meer informatie over het vinden van de status van uw oplossingsevaluatiekans in het Channel Incentives Platform (CHIP).
+description: Meer informatie over het vinden van de status van uw oplossingsevaluatiekans in chip (Channel Incentives Platform).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64443f28df956c9ecb9b8b1220c66d1ac740f126a6faedf34ce7d5e9a3c4139e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692650"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957613"
 ---
-# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>De status van uw Oplossingsevaluaties-kans vinden op CHIP
+# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>De status van uw oplossingsevaluaties-kans vinden op CHIP
 
 **Juiste rollen:** primaire contactpersoon of programmabeheerder
 
-Partners kunnen de status van een Solution Assessments-kans op CHIP bekijken.
+Partners kunnen de status van een oplossingsevaluaties op CHIP controleren.
 
 ## <a name="determine-the-status-of-your-deal"></a>De status van uw deal bepalen
 
@@ -30,15 +30,15 @@ Zorg ervoor dat uw deal de in aanmerking komende verkoopfase heeft bereikt en is
 1. Typ of **plak in** het veld Opportunity ID het id-nummer van de kans.
 3. Klik op Zoeken.
 
-1. Klik **op Weergeven** onder de kolom **POE** om de details van de kans weer te geven. Controleer de status van de kans. Als de mogelijkheid de status **Verzenden** heeft, moeten de PO-documenten (Proof of Execution) worden verzonden om verder te kunnen gaan in het betalingsproces.
+1. Klik **op Weergave** onder de kolom **POE** om de details van de kans weer te geven. Controleer de status van de kans. Als de mogelijkheid de status **Indienen** heeft, moeten de POE-documenten (Proof of Execution) worden ingediend om verder te kunnen gaan in het betalingsproces.
  
-1. Klik op de koppeling Bewerken om te controleren of alle PO-documenten zijn geüpload. Let op als er EENO is geüpload en het vak EM-goedkeuring is ingeschakeld.
+1. Klik op de koppeling Bewerken om te controleren of alle POE-documenten zijn geüpload. Let op als er EEND is geüpload en het vak EM-goedkeuring is ingeschakeld.
  
-1. Ga terug naar de zoekresultaten en klik op de naam van de relevante deal om de details van de deal op te halen. 
+1. Ga terug naar de zoekresultaten en klik op de relevante dealnaam om de details van de deal op te halen. 
 
-1. Bepaal op basis van de informatie in stap 4 tot en met 6 of aan de minimale vereisten voor het verdienen van een incentive is voldaan. Als niet aan een van de vereisten is voldaan, gaat u als volgt te werk:
+1. Bepaal op basis van de informatie in stap 4 tot en met 6 of aan de minimale vereisten voor incentive-inkomsten is voldaan. Als niet aan een vereiste is voldaan, gaat u als volgt te werk:
  
-     - Als PO niet is geüpload, moet u deze uploaden naar CHIP.
+     - Als PO niet is geüpload, moet u het uploaden naar CHIP.
  
      - Open CHIP en meld u aan met uw Microsoft-account (vorige live-id).
  
@@ -46,11 +46,11 @@ Zorg ervoor dat uw deal de in aanmerking komende verkoopfase heeft bereikt en is
 
      - Onder de **ik moet...** klikt u op **Deals zoeken.**
 
-     - Typ uw opportunity id in het **vak Opportunity** en klik op **Search.**
+     - Typ uw kans-id in het **vak Opportunity** en klik op **Search.**
 
      - Zodra de mogelijkheid zichtbaar is, klikt u op **Verzenden.**
   
-     - Blader in het nieuwe POE-menu naar het vereiste PO-document en selecteer dit.
+     - Blader in het nieuwe POE-menu naar het vereiste POE-document en selecteer het.
 
      - Klik Upload Document.
 

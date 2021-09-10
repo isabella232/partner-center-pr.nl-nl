@@ -9,16 +9,16 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: d19000e9aa006c619bb7c5923155f6b832d9b283c0d8df41b82f8a02aeb3ba6c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7246b2c56af25386cc81faf7c2fccdfda8d6905a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691358"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957103"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Het Azure Expert Managed Services Provider-programma
 
-**Juiste rollen:** Accountbeheerdersaccounts | Beheer van bedrijfsprofiel | Globale beheerders | MPN-partnerbeheerder
+**Juiste rollen:** Accountbeheerdersaccounts | Bedrijfsprofielbeheerders | Globale | MPN-partnerbeheerder
 
 Als uw bedrijf graag Azure-services aan klanten wil verkopen en beheren, kunt u zich aanmelden voor het Azure Expert Managed Services Provider programma. Azure Expert MSP-partners verdienen een exclusieve badge die ze differentiëren van andere Microsoft-partners en krijgen de hoogste prioriteit in de verwijzingsen engine. Ze krijgen prioriteit voor betrokkenheid bij co-verkoop, krijgen ondersteuning bij het ontwikkelen van nieuwe procedures en kunnen deelnemen aan exclusieve evenementen.
 

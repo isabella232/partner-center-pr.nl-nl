@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 30f55040f8d504aa7418228e42156565b510b04a2fa1efa84f2e9b1ae7ac4db9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 256e93499a3a9b2786d8d1a309077b645aecd81c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692956"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957466"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Licenties op hetzelfde moment toewijzen aan of intrekken voor meerdere gebruikers in een klantaccount
 
@@ -32,7 +32,7 @@ De Partner Center houdt alle licentierechten van de klant bij en geeft deze weer
 
 3. Schakel het selectievakje voor twee of meer gebruikers in de lijst in. (Als u alle gebruikers op de huidige pagina wilt selecteren, selecteert u het selectievakje bovenaan de **kolom Gebruikers.)**
 
-    U kunt gebruikers op meerdere pagina's zoeken en selecteren met behulp van de **hulpprogramma's Eerste,** **Vorige,** **Volgende** **en Laatste.**
+    U kunt gebruikers zoeken en selecteren op meerdere pagina's met behulp van de **hulpprogramma's Eerste,** **Vorige,** **Volgende** **en Laatste.**
 
 4. Selecteer de **koppeling Geselecteerde** gebruikers. In de weergegeven lijst worden de geselecteerde gebruikers weergegeven.
 
@@ -76,7 +76,7 @@ De Partner Center houdt alle licentierechten van de klant bij en geeft deze weer
 
     Door de **hulpprogramma's Eerste**, **Vorige**, **Volgende** en **Laatste** gaan om andere gebruikers te zoeken en te selecteren. U kunt selecteren op meerdere pagina's.
 
-4. Nadat u de gebruikers hebt geselecteerd, kiest u **de koppeling Geselecteerde** gebruikers. In de weergegeven lijst worden alleen de geselecteerde gebruikers weergegeven.
+4. Nadat u de gebruikers hebt geselecteerd, kiest u de koppeling **Geselecteerde** gebruikers. In de weergegeven lijst worden alleen de geselecteerde gebruikers weergegeven.
 
 5. Selecteer de **koppeling Licenties** beheren.
 

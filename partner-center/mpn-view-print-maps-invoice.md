@@ -9,22 +9,22 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d552cef5617c4755d5ded8c80be722e6bd81d5d8ea3817500817828b8b42481
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f5448932c9016f346f18882ad0070108f684e941
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694588"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957232"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturen en belastingen in de Microsoft Partner Network
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeraccount van MPN-| Factureringsbeheerder | Beheeragent
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeraccount van MPN-| Factureringsbeheerders | Beheeragent
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Uw MPN-lidmaatschapsfactuur weergeven of downloaden
 
-Gebruik de onderstaande stappen om de definitieve factuur te bekijken of te downloaden voor een order die betrekking heeft op uw lidmaatschap van de Microsoft Partner Network. Facturen zijn algemeen beschikbaar 10 dagen nadat de betaling is voltooid. Neem contact op met uw regionale servicecentrum voor meer informatie.  
+Gebruik de onderstaande stappen om de definitieve factuur voor een order met betrekking tot uw lidmaatschap in de Microsoft Partner Network. Facturen zijn algemeen beschikbaar 10 dagen nadat de betaling is voltooid. Neem contact op met uw regionale servicecentrum voor meer informatie.  
 
-U moet een Globale beheerder of MPN-partnerbeheerder zijn om deze procedure uit te voeren. 
+U moet een beheerder Globale beheerder mpn-partner zijn om deze procedure uit te voeren. 
 
 1.  Meld u [Partner Center](https://partner.microsoft.com/dashboard/home) met uw werkaccount en selecteer **MPN** in het menu links.
 
@@ -32,16 +32,16 @@ U moet een Globale beheerder of MPN-partnerbeheerder zijn om deze procedure uit 
 
 6.  Selecteer de factuur die u wilt en selecteer vervolgens **Factuur downloaden.** 
 
-## <a name="file-a-tax-exemption"></a>Een btw-vrijstelling indienen
+## <a name="file-a-tax-exemption"></a>Een belastingvrijstelling indienen
 
 1.  Selecteer Partner Center in **Instellingen**.
     - Selecteer Partnerprofiel om uw MPN-id **te vinden.**
 
-2.  Maak een nieuw ondersteuningsticket. Selecteer Partner Center **serviceaanvragen,** selecteer **Partner Center aanvragen** en selecteer vervolgens **Nieuwe aanvraag.**
+2.  Maak een nieuw ondersteuningsticket. Selecteer Partner Center **serviceaanvragen,** selecteer **Partner Center aanvragen** en selecteer **vervolgens Nieuwe aanvraag.**
 
-3.  Vul het formulier in. Voor het **type probleem selecteert** u **Kan mijn profiel niet beheren.** Neem uw MPN-id op in de beschrijving.
+3.  Vul het formulier in. Voor het **Type probleem selecteert** u **Kan mijn profiel niet beheren.** Neem uw MPN-id op in de beschrijving.
 
-4.  Nadat u het ticket hebt verzonden, ontvangt u via Microsoft een e-mail voor meer informatie. Wanneer u antwoordt, voeg dan de juiste ondersteunende documentatie bij voor uw btw-vrijstellingscertificaten.
+4.  Nadat u het ticket hebt verzonden, ontvangt u via Microsoft een e-mail voor meer informatie. Wanneer u antwoordt, moet u de juiste ondersteunende documentatie voor uw btw-vrijstellingscertificaten bij te dragen.
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Uw btw-nummer naar Microsoft verzenden
 
@@ -49,10 +49,10 @@ U moet een Globale beheerder of MPN-partnerbeheerder zijn om deze procedure uit 
 
 2.  Selecteer **Uw btw-nummer toevoegen.** 
 
-3.  Voer de btw-id voor uw bedrijf in, **selecteer Toevoegen** en selecteer **vervolgens Volgende.** 
+3.  Voer de btw-id voor uw bedrijf in, selecteer **Toevoegen** en selecteer **vervolgens Volgende.** 
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Overzicht van Partner Center facturering](billing-basics.md)
 
-- [Gecrediteerd krijgen voor bronbelasting](withholding-tax-credit-form.md)
+- [Gecrediteerd worden voor bronbelasting](withholding-tax-credit-form.md)

@@ -8,15 +8,15 @@ metadata:
   author: eunjkim520
   ms.author: eunjkim
   ms.date: 05/06/2021
-  ms.openlocfilehash: a952e9b69e96c1a3e535637488a7b2f4199efa25f5c4814952d29d900fc16f4e
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: 350c726467c3ba4342159a56b8ccfe77610c6b63
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115688944"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123957154"
 title: Veelvoorkomende vragen over uitbetalingen en belastingen
 summary: >
-  **Juiste rollen:** Accountbeheerder | Globale beheerders | Incentives-beheerder
+  **Juiste rollen:** Accountbeheerdersaccounts | Globale | Incentives-beheerder
 
 
   In dit artikel vindt u antwoorden op veelgestelde vragen over uitbetalingen en belastinggegevens in Partner Center. Onderwerpen die aan bod komen, zijn onder andere de timing van betalingen, het controleren van de geschiktheid van uw inkomsten en het belang van het correct instellen van uw uitbetalings- en belastingprofielen.
@@ -45,7 +45,7 @@ sections:
   - question: >
       Mijn organisatie neemt deel aan meerdere programma's. Moet ik mijn betalings- en belastingprofiel meerdere keren verstrekken?
     answer: >
-      Dit is afhankelijk van de behoeften van uw organisatie. Betalingsprofielen worden gemaakt op organisatieniveau, waardoor hetzelfde bankprofiel kan worden toegewezen aan meerdere MPN-id's en programma's binnen een organisatie. In de meeste gevallen kunt u een bestaand profiel opnieuw gebruiken of een nieuw profiel maken.
+      Dit is afhankelijk van de behoeften van uw organisatie. Betalingsprofielen worden gemaakt op organisatieniveau, zodat hetzelfde bankprofiel kan worden toegewezen aan meerdere MPN-id's en programma's binnen een organisatie. In de meeste gevallen kunt u een bestaand profiel opnieuw gebruiken of een nieuw profiel maken.
 
 
       Er kunnen echter uitzonderingen zijn wanneer u uw bankprofiel toepast op verschillende landen of regio's, omdat er mogelijk lokale bank- of belastingregels van toepassing zijn.
@@ -108,7 +108,7 @@ sections:
 
       - Controleer het klantkanaal voor uw klantabonnement in [het rapport van klanten.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer)
 
-      - Voor zakelijke klanten worden de inkomsten van uitgevers 1-2 dagen na de datum van de inkooporder weergegeven in de instructie.
+      - Voor zakelijke klanten worden de inkomsten van uitgevers 1-2 dagen na de aankooporderdatum weergegeven in de instructie.
 
       - Voor niet-enterprise-klanten worden de inkomsten van uitgevers 1-2 dagen nadat de klantbetaling is ontvangen weergegeven in het overzicht.
 
@@ -125,7 +125,7 @@ sections:
   - question: >
       Hoe kan ik instellen dat mijn account geen betaling ontvangt?
     answer: >
-      U kunt betalingen in [uitbetalingsprofiel houden.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) Als u dit wilt doen, **controleert u De** wachtstand en houdt Microsoft de betaling aan u vast totdat u de hold vrijgave.
+      U kunt betalingen in [uitbetalingsprofiel houden.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) Als u dit wilt doen, controleert **u De** wachtstand en houdt Microsoft de betaling aan u vast totdat u de hold vrijgave.
   - question: >
       Waarom ontvang ik mijn betaling in een andere valuta dan de aankoopvaluta?
     answer: >
@@ -157,7 +157,7 @@ sections:
       Bronbelasting is van toepassing op Amerikaanse uitgevers die een W-9-formulier hebben ingediend. Bronbelasting wordt berekend over een maandelijkse betaling.
 
 
-      **Meer weten:** [Commerciële Marketplace Publisher overeenkomst,](/legal/marketplace/msft-publisher-agreement) [details uitbetalingsbeleid](payout-policy-details.md)
+      **Meer weten:** [Commerciële Marketplace Publisher Overeenkomst,](/legal/marketplace/msft-publisher-agreement) [Details uitbetalingsbeleid](payout-policy-details.md)
 - name: Toegang tot uitbetalingsoverzicht
   questions:
   - question: >
@@ -179,7 +179,7 @@ sections:
 
       - **Verwerkt:** inkomsten zijn gerijpt en worden voorbereid op een maandelijkse betaling. Betalingen worden elke 15e van elke maand vrijgegeven.
 
-      - **Verzonden:** de betaling is vrijgegeven aan uw bank op basis van uw uitbetalingsprofiel.
+      - **Verzonden:** de betaling is vrijgegeven voor uw bank op basis van uw uitbetalingsprofiel.
   - question: >
       Hoe kan ik belastingformulieren voor servicekosten downloaden?
     answer: >
@@ -194,7 +194,7 @@ sections:
       Ga naar de [Profielpagina](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) om uw belastingformulieren voor het eind van het jaar weer te geven.
 
 
-      **Meer weten:** [Uitbetalingsverklaringen,](payout-statement.md) [Transactiegeschiedenis downloaden](payout-statement.md#transaction-history-download)
+      **Meer weten:** [Uitbetalingsverklaringen](payout-statement.md), [Transactiegeschiedenis downloaden](payout-statement.md#transaction-history-download)
 - name: Historische instructies
   questions:
   - question: >
@@ -203,7 +203,7 @@ sections:
       In het historische overzicht wordt een momentopname weergegeven van de uitbetalingsgegevens van oktober 2019. Helaas worden de uitbetalingsgegevens hier niet vernieuwd. Als u de meest recente informatie wilt ontvangen, dient u een ondersteuningsticket in voor de meest recente gegevens.
 
 
-      **Meer weten:** [Uitbetalingsverklaringen,](payout-statement.md) [Transactiegeschiedenis downloaden](payout-statement.md#transaction-history-download)
+      **Meer weten:** [Uitbetalingsverklaringen](payout-statement.md), [Transactiegeschiedenis downloaden](payout-statement.md#transaction-history-download)
 - name: Uitbetalingsexport-API
   questions:
   - question: >

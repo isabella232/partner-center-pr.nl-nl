@@ -8,12 +8,12 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 61a4a4d21aa2c9ba28c373e7a112c81a785c43e1e37bf696deb77434516a9e7c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687768"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957696"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Documenten maken en verzenden voor uw incentives proof of execution (PoE)
 
@@ -52,9 +52,9 @@ Voordat u wordt betaald voor uw incentives-werk, moet u een gedetailleerd bewijs
 
 10. Upload een van de volgende twee documenten op de pagina **Factuur- en onkostengegevens**:
     - **Factuur van derden**  Selecteer in **het veld Factuur van derden** de optie Bestanden slepen of bladeren om te **uploaden.** Voeg de factuur en de vereiste factuurgegevens toe en selecteer vervolgens **Opslaan.**
-    - **Rapport certificeringsservice**  Selecteer **Certificeringsservicerapport toevoegen.** Vul op **de pagina Een certificeringsservicerapport** genereren de vereiste velden in en selecteer **opslaan.**
+    - **Rapport certificeringsservice**  Selecteer **Certificeringsservicerapport toevoegen.** Vul op **de pagina Een certificeringsservicerapport** genereren de vereiste velden in en selecteer **Opslaan.**
 
-11. U kunt indien nodig **ook Bewijsdocumenten** uploaden. Selecteer in **het veld Documenten bewijs** de optie Bestanden slepen of bladeren om te **uploaden.** Als u Documenten bewijs selecteert, moet u verklarende opmerkingen toevoegen. Als u dat hebt gedaan, selecteert u **Opslaan**.
+11. U kunt indien nodig **ook Bewijsdocumenten** uploaden. Selecteer in **het veld Documenten bewijs** de optie Bestanden slepen of bladeren om te **uploaden.** Als u Bewijsdocumenten selecteert, moet u verklarende opmerkingen toevoegen. Als u dat hebt gedaan, selecteert u **Opslaan**.
 
 12. Voer eventuele laatste opmerkingen in voordat u uw PoE indient en selecteer **vervolgens Claim indienen.**
 

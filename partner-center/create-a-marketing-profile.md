@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/09/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Meer informatie over het krijgen van verkoop leads van Microsoft. Eén sleutel is het maken van een bedrijfsprofiel in Partner Center waarmee klanten u gemakkelijker kunnen vinden.
+description: Meer informatie over het krijgen van verkoop leads van Microsoft. Een van de belangrijkste is het maken van een bedrijfsprofiel in Partner Center waarmee klanten u gemakkelijker kunnen vinden.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a9c0d970b4ddbdf22e0443ca9e6a2d06a031d0a9
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914444"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957073"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Een bedrijfsprofiel maken om microsoft-verkoop leads te krijgen en klanten te helpen u te vinden
 
@@ -37,7 +37,7 @@ Het maken van een bedrijfsprofiel is de eerste stap voor het verkrijgen van verw
 
 Maak profielen voor elke regio waarin u bent gemachtigd om zaken te doen.
 
-1. Selecteer in **Partner Center** menu  Verwijzingen Bedrijfsprofielen en selecteer een &gt;  &gt; land/regio > **[Een bedrijfsprofiel maken.](https://partner.microsoft.com/referrals/businessprofiles/)**
+1. Selecteer in **Partner Center** menu Verwijzingen  Bedrijfsprofielen en selecteer een &gt;  &gt; land/regio > Een **[bedrijfsprofiel maken.](https://partner.microsoft.com/referrals/businessprofiles/)**
 
 2. Selecteer op **de pagina Een bedrijfsprofiel** maken een regio en voer vervolgens uw profielgegevens in.
    > [!NOTE]  

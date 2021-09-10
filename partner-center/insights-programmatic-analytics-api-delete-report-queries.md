@@ -8,12 +8,12 @@ description: Gebruik deze API om door de gebruiker gedefinieerde query's in Part
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 4714d523ff9942838e9666fe75f3df21aae69e043b6d9be1e1819cbd52dfb6ff
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f755bc13ff4e0c4bc3a2c6ceda123c6a2bc47dc5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681651"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957409"
 ---
 # <a name="delete-report-queries-api"></a>API voor rapportquery's verwijderen
 
@@ -93,7 +93,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    Type     |    Ingesteld op userDefined voor door de gebruiker gemaakte query's     |
 |    Gebruiker     |    Gebruikers-id die de query heeft gemaakt     |
 |    CreatedTime     |    Tijdstip van het maken van de query     |
-|    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |
+|    TotalCount     |    Aantal gegevenssets in de matrix Waarde     |
 |    Bericht     |    Statusbericht van de uitvoering van de API     |
 |    StatusCode     |    Resultaatcode. De mogelijke waarden zijn 200, 400, 401, 403, 500     |
 |        |        |

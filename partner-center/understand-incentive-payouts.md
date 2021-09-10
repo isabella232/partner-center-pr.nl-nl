@@ -9,21 +9,21 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 1e09ac0497fafd6e2db2927c372edc22826ad825c713dba7d9c5854d0bfe64d9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681281"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957223"
 ---
 # <a name="view-your-incentives-program-details"></a>De details van uw incentives-programma weergeven
 
-**Juiste rollen:** Incentives-| Incentives-gebruikers | Globale beheerders | MPN-partnerbeheerder
+**Juiste rollen:** Incentives-| Incentives-gebruikers | Globale | MPN-partnerbeheerder
 
 In dit artikel wordt de overzichtspagina Mijn **incentives** uitgelegd, met de algemene status van uw incentive-programma's en de status van elk programma op elke locatie. Het geeft ook de verschillende inschrijvingsstatussen.
 
 >[!NOTE]
->Zie Partner Investments [and Incentives](https://partner.microsoft.com/membership/partner-incentives) (aanmelden vereist) voor meer informatie over incentives en incentive-functies in Partner Center.
+>Zie Partner [Investments and Incentives](https://partner.microsoft.com/membership/partner-incentives) (aanmelden vereist) voor meer informatie over incentives en incentive-functies in Partner Center.
 
 ## <a name="access-the-incentives-overview-page"></a>Toegang tot de overzichtspagina voor incentives
 
@@ -46,14 +46,14 @@ In de volgende tabel worden de verschillende inschrijvingsstatussen uitgelegd di
 | Vereiste actie  | De partner heeft een uitnodiging geaccepteerd om zich in te schrijven voor een incentive-programma, maar moet mogelijk bank- of belastinggegevens bijwerken. Zie de **kolom Acties vereist** voor alle volgende stappen of koppelingen voor het bijwerken van uw bank- of belastinggegevens in Partner Center. |
 | Beëindigde  | Het specifieke incentive-programma wordt niet meer aangeboden in het incentives-systeem. |
 | Geregistreerd  | Alle belasting- en bankgegevens zijn gevalideerd. Er is geen verdere registratieactie vereist door de partner. |
-| Bezig met registreren  | De gebruiker is geen Incentive-beheerder en de  inschrijving heeft de registratie de vereiste actie of de inschrijving **valideren.**|
-| Inactief/niet-inligeerbaar | Het incentive-programma is op dit moment mogelijk niet open voor inschrijving of de partner voldoet niet aan de huidige geschiktheid voor inschrijving of herinschrijving. <br><br> Als de status **Ineligible** is, voldoet de partner niet aan de huidige geschiktheidsvereisten voor het programma; Als u **de koppeling Geschiktheidsvereisten** bekijken selecteert onder de inschrijvingsstatus, worden de vereisten voor geschiktheid en aan welke van deze vereisten is voldaan. <br><br> Mogelijk ziet u ook **een Inactieve** status voor inschrijvingen van virtuele organisaties (VORG) of PGA-inschrijvingen (Partner Global Account) die niet meer actief zijn in het incentive-programma.  |
+| Bezig met registreren  | De gebruiker is geen Incentive-beheerder en de  inschrijving heeft de vereiste actie of **validatie van de** inschrijvingsgegevens.|
+| Inactief/niet-inligeerbaar | Het incentive-programma is op dit moment mogelijk niet open voor inschrijving of de partner voldoet niet aan de huidige geschiktheid voor inschrijving of herinschrijving. <br><br> Als de status **Ineligible** is, voldoet de partner niet aan de huidige geschiktheidsvereisten voor het programma; Als u **de koppeling Geschiktheidsvereisten** bekijken selecteert onder de inschrijvingsstatus, ziet u de vereisten voor geschiktheid en aan welke van deze vereisten is voldaan. <br><br> Mogelijk ziet u ook **een Inactieve** status voor inschrijvingen van virtuele organisaties (VORG) of PGA-inschrijvingen (Partner Global Account) die niet meer actief zijn in het incentive-programma.  |
 | Uitgenodigd  | Er is een nieuwe uitnodiging voor de inschrijving van het incentive-programma verzonden naar de partner, maar de partner is het inschrijvingsproces nog niet gestart. In de **aangrenzende kolom Acties** vereist ziet u de volgende stappen en eventuele gerelateerde koppelingen.  |
 | Inschrijving valideren  | De partner heeft bank- en belastinggegevens voor een nieuwe of bestaande inschrijving al ingevuld of bijgewerkt en wacht tot Microsoft deze informatie valideert. Tijdens het validatieproces **kan het valideren van de inschrijving** maximaal 48 uur worden weergegeven.  |
 
 ## <a name="see-your-payment-information"></a>Uw betalingsgegevens bekijken
 
-Selecteer het uitbetalingspictogram in de rechterbovenhoek van het scherm voor toegang tot deze verschillende samenvattingen:
+Selecteer het uitbetalingspictogram in de rechterbovenhoek van het scherm om toegang te krijgen tot deze verschillende samenvattingen:
 
 - Transactiegeschiedenis
 - Betalingen

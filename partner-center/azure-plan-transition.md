@@ -9,26 +9,26 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 9e02655d2f09ee0c6ca4c7e5fabc60d992d121bb1aceb4de3741af9010752d68
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: eb9d88935bdc339c01ac47153c3d4a23047dc406
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680753"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123956887"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Klanten overstappen op Een Azure-abonnement overstappen van bestaande CSP Azure-aanbiedingen
 
 **Van toepassing op**: Partner Center 
 
-**Juiste rollen:** beheeragent | Factureringsbeheerders | Globale beheerders | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
+**Juiste rollen:** beheeragent | Factureringsbeheerders | Globale | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
 
 In dit artikel wordt uitgelegd hoe CSP-partners Partner Center om klanten te verplaatsen van bestaande CSP Azure-aanbiedingen naar Azure-services onder het Azure-plan. Indirecte providers en directe factuurpartners kunnen overstappen op de nieuwe commerce-ervaring die beschikbaar is in het Microsoft Cloud Service Provider Program (CSP) voor Azure. (Indirecte resellers moeten via hun indirecte providers werken.) Klanten hebben een gestroomlijnde manier om cloudservices te kopen, of het nu gaat om aankopen van partners, microsoft-verkopers of rechtstreeks op internet.
 
-De overgangsmogelijkheid is alleen voor klanten die overstappen op de nieuwe commerce-ervaring voor Azure en die de Microsoft-klantovereenkomst. Het is niet voor andere aanbiedingen in CSP, zoals Office 365 of Dynamics 365.
+De overgangsmogelijkheid is alleen beschikbaar voor klanten die overstappen op de nieuwe commerce-ervaring voor Azure en die de Microsoft-klantovereenkomst. Het is niet voor andere aanbiedingen in CSP, zoals Office 365 of Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Bestaande CSP-aanbiedingen overstappen naar een Azure-plan
 
-In de nieuwe commerce-ervaring in het CSP-programma kunt u een klant van hun bestaande CSP Azure-aanbiedingen overstappen naar Azure-services onder het Azure-plan vanuit Partner Center. Hiervoor moeten de partner en de klant een tot stand gebrachte resellerrelatie hebben via Partner Center en moet de klant de Microsoft-klantovereenkomst.
+In de nieuwe commerce-ervaring van het CSP-programma kunt u een klant vanuit het CSP-programma overstappen van hun bestaande CSP Azure-aanbiedingen naar Azure-services onder het Azure-Partner Center. Hiervoor moeten de partner en de klant een bestaande resellerrelatie hebben via Partner Center en moet de klant de Microsoft-klantovereenkomst.
 
 ### <a name="select-transition-to-azure-plan"></a>Overgang naar Azure-plan selecteren
 
@@ -52,11 +52,11 @@ In de nieuwe commerce-ervaring in het CSP-programma kunt u een klant van hun bes
 
    Een partner heeft bijvoorbeeld twee verschillende aanbiedingen Microsoft Azure en heeft twee afzonderlijke SOORTEN in de aankoop opgenomen. In dit geval koopt de overgangswerkstroom twee Azure-abonnementen (één per reseller) en worden de respectieve Azure-abonnementen automatisch onder de Azure-abonnementen in kaart gebracht.  
 
-   **Een Azure-abonnement toewijzen aan een Azure-abonnement**
+   **Azure-abonnement toewijzen aan Azure-plan**
 
    Na de aankoop van een of meer Azure-abonnementen worden de bestaande Azure-abonnementen door ons systeem aan de Azure-abonnementen toe te staan. De voortgang kan worden bekeken in Azure Portal en in het Partnercentrum.
 
-4. Ga terug naar de pagina Partner Center **van uw** klant om de budgetlimiet bij te werken met behulp van hun lokale valuta.
+4. Ga terug naar de pagina met Partner Center **van uw** klant om de budgetlimiet bij te werken met behulp van hun lokale valuta.
 
    :::image type="content" source="images/azure/transition3.png" alt-text="Gedeeltelijke weergave van Partner Center abonnementen met budgetlimieten die zijn ingesteld in lokale valuta voor een factureringsperiode.":::
 
@@ -82,13 +82,13 @@ Als u een klant over overstapt van een bestaande CSP Azure-aanbieding, heeft dit
 
 - Als u beheerderstoegangsrechten voor het bestaande CSP-abonnement hebt, hebt u nog steeds toegang wanneer dat abonnement wordt gemigreerd.
 
-Als u directe Enterprise Agreements wilt overstappen op CSP- en Server- en Cloud-inschrijvingen naar Azure-services, leest u Eigendom van facturering van [Azure-abonnementen](/azure/billing/mpa-request-ownership) voor Microsoft Partner-overeenkomst
+Als u directe Enterprise Agreements wilt overstappen op CSP- en Server- en Cloud-inschrijvingen naar Azure-services, leest u Eigendom van facturering van [Azure-abonnementen](/azure/billing/mpa-request-ownership) Microsoft Partner-overeenkomst
 
 ### <a name="audit-log"></a>Auditlogboek
 
 Als u facturering wilt afstemmen, bekijkt u uw geschiedenis van Microsoft Azure (0145P) abonnementen op **de pagina** Abonnementen.
 
-Een Microsoft Azure (0145P) bestaat uit twee delen:
+Het Microsoft Azure (0145P) bestaat uit twee delen:
 
 1. Commerce-abonnement
 2. Azure-abonnement (rechten)

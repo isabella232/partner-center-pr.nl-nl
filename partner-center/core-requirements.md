@@ -4,36 +4,36 @@ ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Meer informatie over het genereren van vraag, het begrijpen van de ontwikkeling van de markt en het maximaliseren van de gereedheid van partners voor de activiteiten in uw incentives-programma.
+description: Meer informatie over het genereren van vraag, het begrijpen van marktontwikkeling en het maximaliseren van de gereedheid van partners voor de activiteiten in uw incentives-programma.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00f92dbe0c4a537626c5956e69c0b2d4b6dda20220f7b162e5d34ebfe24c5554
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681940"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957160"
 ---
-# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Kernvereisten voor de activiteiten in uw incentive-programma
+# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Belangrijkste vereisten voor de activiteiten in uw incentive-programma
 
 **Juiste rollen:** Incentives-| Incentives-gebruiker
 
-Elk type activiteit waarvoor u een incentives-claim indient, heeft kernvereisten. U moet laten zien dat u aan deze vereisten hebt voldaan in uw bewijs van uitvoering. Voor sommige activiteiten zijn ook specifieke communicatietypen en metrische gegevens vereist.
+Elk type activiteit waarvoor u een incentives-claim indient, heeft kernvereisten. U moet laten zien dat u aan deze vereisten hebt voldaan in uw bewijs van uitvoeringsdocumenten. Voor sommige activiteiten zijn ook specifieke communicatietypen en metrische gegevens vereist.
 
 De volgende tabellen geven een overzicht van de belangrijkste vereisten voor elk van de geaccepteerde activiteiten. 
 
 ## <a name="demand-generation"></a>Vraag genereren
 
-### <a name="print-advertising"></a>Reclame afdrukken
+### <a name="print-advertising"></a>Advertenties afdrukken
 
 | Categorie | Bewijs van uitvoering    |
 | ------ | ----------- |
-| Kernvereisten    | Bedrijfsmerk- en contactgegevens<br><br>Microsoft-inhoud |
+| Kernvereisten    | Merk- en contactgegevens van het bedrijf<br><br>Microsoft-inhoud |
 | Communicatievereisten | Kopie van het laatste communicatie-onderdeel (op basis van reclame) met programmaspecifieke kernvereisten |
-| Metrische gegevens     | Geschat bereik van klant (of partner) |
-|In aanmerking komende uitgaven    | Plaatsing van externe media<br><br>Gedrukt materiaal<br><br>Marketing- en creatieve services voor de prijsinstantie, inclusief kosten voor de instantie  |
+| Metrische gegevens     | Geschatte klant (of partner) bereik |
+|In aanmerking komende uitgaven    | Plaatsing van externe media<br><br>Gedrukt materiaal<br><br>Marketing- en creatieve services voor de prijsinstantie, inclusief bureaukosten  |
 
 ### <a name="digital-advertising"></a>Digitale reclame
 
@@ -42,16 +42,16 @@ De volgende tabellen geven een overzicht van de belangrijkste vereisten voor elk
 | Kernvereisten | NA |
 | Communicatievereisten | Schermopname van digitale aankondiging<br><br>AND<br><br>URL van landingspagina, met programmaspecifieke kernvereisten |
 | Metrische gegevens     | Samenvatting van resultaten (zoals doorklikrapport) |
-|In aanmerking komende uitgaven    | Plaatsing van externe media<br><br>Kosten - instantie: Marketing- en creatieve services, inclusief kosten voor de instantie |
+|In aanmerking komende uitgaven    | Plaatsing van externe media<br><br>Kosten - instantie: Marketing- en creatieve services, inclusief bureaukosten |
 
 ### <a name="direct-mail-email-and-short-message-service-sms"></a>Service voor directe e-mail, e-mail en korte berichten (sms)
 
 | Categorie | Bewijs van uitvoering    |
 | ------ | ----------- |
 | Kernvereisten    | NA |
-| Communicatievereisten | 1) Kopie van het laatste communicatie-onderdeel met programmaspecifieke kernvereisten<br><br>2) Het bewijs van distributie kan bestaan uit een postmarked verzendings envelop of een ander bewijs van post-of-mailing (directe e-mail), een laatste e-mailbericht met een gedate koptekst of een ander bewijs van e-mail of een foto van een telefoonbericht (sms) |
-| Metrische gegevens     | Geschat bereik van klant (of partner) |
-|In aanmerking komende uitgaven    | Database-aanschaf<br><br>Gedrukt materiaal<br><br>Verzendkosten<br><br>Kosten - instantie: Marketing- en creatieve services, inclusief kosten voor de instantie |
+| Communicatievereisten | 1) Kopie van het laatste communicatie-onderdeel met programmaspecifieke kernvereisten<br><br>2) Het bewijs van distributie kan bestaan uit een postmarked verzend envelop of ander bewijs van postbezorging (direct mail), laatste e-mail met een gedate koptekst of een ander bewijs van e-mail of een foto van een telefoonbericht (sms) |
+| Metrische gegevens     | Geschatte klant (of partner) bereik |
+|In aanmerking komende uitgaven    | Databaseovername<br><br>Gedrukt materiaal<br><br>Verzendkosten<br><br>Kosten - instantie: Marketing- en creatieve services, inclusief bureaukosten |
 
 ### <a name="partner-website-and-search-engine"></a>Partnerwebsite en zoekmachine
 
@@ -60,29 +60,29 @@ De volgende tabellen geven een overzicht van de belangrijkste vereisten voor elk
 | Kernvereisten    | NA |
 | Communicatievereisten | URL en/of schermopnamen van sitepagina('s) met URL<br><br>Verklaring van werk- of serviceovereenkomst voor SEO-project (alleen SEO-activiteit) |
 | Metrische gegevens     | Samenvatting van resultaten (zoals doorklikrapport) |
-|In aanmerking komende uitgaven    | Kosten - instantie: Marketingservices, inclusief instantiekosten<br><br>Programmeren/ontwikkelen: Kosten voor programmeren en ontwikkeling<br><br>Kosten - SEO: optimalisatie- en onderhoudskosten  |
+|In aanmerking komende uitgaven    | Kosten - instantie: Marketingservices, inclusief bureaukosten<br><br>Programmeren/ontwikkelen: Programmeer- en ontwikkelingskosten<br><br>Kosten - SEO: optimalisatie- en onderhoudskosten  |
 
-### <a name="microsoft-syndicated-content"></a>Door Microsoft verwerkte inhoud
+### <a name="microsoft-syndicated-content"></a>Microsoft-inhoud
 
 | Categorie | Bewijs van uitvoering    |
 | ------ | ----------- |
 | Kernvereisten    | NA |
-| Communicatievereisten | URL en/of schermopnamen van sitepagina's met URL |
+| Communicatievereisten | URL en/of schermafbeeldingen van sitepagina's met URL |
 | Metrische gegevens     | Samenvatting van resultaten (zoals doorklikrapport) |
-|In aanmerking komende uitgaven    | Werkelijke kosten tot USD 18.750 per gebruiksperiode voor: kosten - marketingservices van de instantie, inclusief bureaukosten<br><br>Kosten voor programmeren en ontwikkeling<br><br>Plaatsing van media  |
+|In aanmerking komende uitgaven    | Werkelijke kosten tot USD 18.750 per gebruiksperiode voor: kosten - marketingservices voor bureaus, inclusief bureaukosten<br><br>Programmeer- en ontwikkelingskosten<br><br>Plaatsing van media  |
 
-### <a name="multi-touch-digital-campaign"></a>Digitale multi-touchcampagne
+### <a name="multi-touch-digital-campaign"></a>Digitale campagne met meerdere aanrakingen
 
 | Categorie | Bewijs van uitvoering    |
 | ------ | ----------- |
 | Kernvereisten    |NA |
 | Communicatievereisten | Alle bewijs van uitvoering zoals beschreven op de toepasselijke activiteitspagina is vereist<br><br>Digitale reclame<br><br>Directe e-mail<br><br>Partnerwebsite en zoekmachineoptimalisatie<br><br>Telemarketing  |
 | Metrische gegevens     | NA |
-|In aanmerking komende uitgaven    | Plaatsing van externe media<br><br>Kosten - instantie: Marketing- en creatieve services, inclusief kosten voor de instantie<br><br>Database-aanschaf<br><br>Programmeren/ontwikkelen: Kosten voor programmeren en ontwikkeling<br><br>Kosten - SEO: optimalisatie- en onderhoudskosten<br><br>Kosten - kosten van het callcenter van derden |
+|In aanmerking komende uitgaven    | Plaatsing van externe media<br><br>Kosten - instantie: Marketing- en creatieve services, inclusief bureaukosten<br><br>Databaseovername<br><br>Programmeren/ontwikkelen: Programmeer- en ontwikkelingskosten<br><br>Kosten - SEO: optimalisatie- en onderhoudskosten<br><br>Kosten - Kosten van callcenters van derden |
 
 ## <a name="market-development"></a>Marktontwikkeling
 
-### <a name="telemarketing-and-expositions"></a>Telemarketing en -klanten
+### <a name="telemarketing-and-expositions"></a>Telemarketing en -reclame
 
 | Categorie | Bewijs van uitvoering    |
 | ------ | ----------- |
@@ -125,7 +125,7 @@ De volgende tabellen geven een overzicht van de belangrijkste vereisten voor elk
 | Kernvereisten    | Bedrijfsnaam en contactgegevens: interne wedstrijdregels zijn voldoende als de bedrijfsnaam/merknaam is opgenomen in het communicatiemateriaal<br><br>Microsoft-inhoud |
 | Communicatievereisten   | Aanbieding met voorwaarden tonen. Werkelijke kosten tot 25% totaal van het verdiend coöp-bedrag per gebruiksperiode. Surface-partners kunnen maximaal 100% van het verdiend coöp-bedrag per gebruiksperiode claimen voor in aanmerking komende activiteitenkosten. |
 | Metrische gegevens     | Samenvatting van de resultaten |
-|In aanmerking komende uitgaven    | Werkelijke kosten tot 25% van het totale bedrag voor verdiend coöp per gebruiksperiode voor: Ondertekenen, weergeven, gedrukt materiaal<br><br>Giveaways<br><br>Kosten - instantie: Marketingservices, inclusief bureaukosten<br><br>Surface-partners kunnen maximaal 100% van het verdiend coöp-bedrag per gebruiksperiode claimen voor in aanmerking komende activiteitenkosten |
+|In aanmerking komende uitgaven    | Werkelijke kosten tot 25% van het totale bedrag voor verdiend co-op-bedrag per gebruiksperiode voor: Signage, display, printed materials<br><br>Giveaways<br><br>Kosten - instantie: Marketingservices, inclusief bureaukosten<br><br>Surface-partners kunnen maximaal 100% van het verdiend coöp-bedrag per gebruiksperiode claimen voor in aanmerking komende activiteitenkosten |
 
 ### <a name="on-site-champ"></a>On-site:
 
@@ -172,7 +172,7 @@ De volgende tabellen geven een overzicht van de belangrijkste vereisten voor elk
 | Kernvereisten    | Cursuscode/examencode op Microsoft Learning |
 | Communicatievereisten | Factuur van derden met cursuscode en voltooiingsdatum of factuur met examencode en voltooiingsdatum |
 | Metrische gegevens     | Lijst met deelnemers en kosten per persoon |
-|In aanmerking komende uitgaven    | Kosten - examen: Microsoft-examenkosten voor certificeringen en competenties<br><br>Kosten - training/kosten: Microsoft-kosten voor certificeringen en competenties, inclusief on-demand trainingskosten<br><br>Training van ISV-oplossingen van derden: kosten voor training voor oplossingen van derden die kunnen worden gebruikt of zich op Microsoft-toepassingen en -platformen bevinden<br><br>Kosten - MCT-verlenging: Microsoft Certified Trainer kosten voor verlenging (geen metrische gegevens vereist)<br><br>|
+|In aanmerking komende uitgaven    | Kosten - examen: Microsoft-examenkosten voor certificeringen en competenties<br><br>Kosten - training/kosten: Microsoft-kosten voor certificeringen en competenties, inclusief on-demand trainingskosten<br><br>Training van ISV-oplossingen van derden: kosten voor training voor oplossingen van derden die kunnen worden gebruikt of zich op Microsoft-toepassingen en -platformen bevinden<br><br>Kosten - MCT-verlenging: Microsoft Certified Trainer verlengingskosten (geen metrische gegevens vereist)<br><br>|
 
 ### <a name="internal-training-and-floor-days"></a>Interne training en dagen van vloer
 
@@ -187,16 +187,16 @@ De volgende tabellen geven een overzicht van de belangrijkste vereisten voor elk
 
 | Categorie | Bewijs van uitvoering    |
 | ------ | ----------- |
-| Kernvereisten    | Door Microsoft gehoste conferenties. De kosten voor airfare/hotel zijn beperkt tot USD 5.000 per persoon per conferentie, beperkt tot 3 deelnemers, met een totaallimiet van USD 45.000 voor tarief/kosten voor trainen/hotelkosten per periode per programma. Hosting kan verschillende rechten hebben. |
+| Kernvereisten    | Door Microsoft gehoste conferenties. De kosten voor airfare/hotel zijn beperkt tot USD 5.000 per persoon per conferentie, beperkt tot 3 deelnemers, met een totaallimiet van USD 45.000 voor de kosten voor airfare/train tarief/hotelkosten per periode per programma. Hosting kan verschillende rechten hebben. |
 | Communicatievereisten | Kopie van uitnodiging voor conferentie/gebeurtenis of registratiebevestiging met bewijs dat de conferentie wordt gehost door Microsoft<br><br>Reisroute met reisdatums (reizen - alleen kosten voor vluchten) |
 | Metrische gegevens     | NA |
-|In aanmerking komende uitgaven    | Kosten - Registratie: voor maximaal 3 deelnemers per conferentie<br><br>Reizen - airfare/hotel: transport (tarief of train tarief en toepasselijke belastingen) en hotel (alleen kamertarief en toepasselijke belastingen)<br><br>Opmerking: Reis- en hotelkosten worden beperkt tot USD 5.000 per persoon per conferentie, beperkt tot 3 deelnemers, met een totaallimiet van USD 45.000 voor kosten per vlucht/reis/hotelkosten per periode per programma. Hosting kan verschillende rechten hebben. |
+|In aanmerking komende uitgaven    | Kosten - Registratie: voor maximaal 3 deelnemers per conferentie<br><br>Reizen - tarief/hotel: transport (tarief of train tarief en toepasselijke belastingen) en hotel (alleen kamertarief en toepasselijke belastingen)<br><br>Opmerking: Reis-/hotelkosten worden beperkt tot USD 5.000 per persoon per conferentie, beperkt tot 3 deelnemers, met een totale limiet van USD 45.000 voor kosten per vlucht/reis/hotelkosten per periode per programma. Hosting kan verschillende rechten hebben. |
 
 ### <a name="product-seedingdemo-units"></a>Product seeding/demo-eenheden
 
 | Categorie | Bewijs van uitvoering    |
 | ------ | ----------- |
-| Kernvereisten    | U kunt maximaal 10% van het totale opgebouwde coöp-bedrag of USD 3000 claimen, wat groter is dan of per programmaperiode. Surface PC & Hub-partners hebben geen claimslimiet. |
+| Kernvereisten    | U kunt maximaal 10% van het totale opgebouwde coöp-bedrag of USD 3000 claimen, wat groter is dan of per programmaperiode. Surface PC & Hub-partners hebben geen claimlimiet. |
 | Communicatievereisten | Systeemspecificaties voor demo-eenheden die in-house zijn gebouwd.<br><br>Bewijs van levering voor demo-eenheid van derden.<br><br>Bewijs van demo-eenheid van derden. |
 | Metrische gegevens     | NA |
 |In aanmerking komende uitgaven    | NA |

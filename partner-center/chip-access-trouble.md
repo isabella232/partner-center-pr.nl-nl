@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8808460154d9031c522befb0798fd7dfe6814123b63cc26e9ecb97f678cabbea
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682415"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957598"
 ---
 # <a name="troubleshoot-issues-with-accessing-chip"></a>Problemen met toegang tot CHIP oplossen
 
