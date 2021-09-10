@@ -11,10 +11,10 @@ ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 7995ee8f4da20d80fd260bcb77665e244e448227
 ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/09/2021
-ms.locfileid: "124343093"
+ms.locfileid: "123956998"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Een nieuwe klantrecord toevoegen in Partner Center
 
@@ -32,7 +32,7 @@ In dit artikel wordt beschreven hoe u een nieuwe klant toevoegt aan Partner Cent
 - **Bevestig Microsoft-klantovereenkomst:** voordat u namens een klant een order kunt plaatsen, moet u bevestigen dat de klant de [Microsoft-klantovereenkomst.](confirm-customer-agreement.md)
 - **** Verschillende stappen gebruiken voor bestaande klanten: voor bestaande klanten, met inbegrip van [](multichannel.md) klanten die al klantrecords in Partner Center via een [scenario](multipartner.md) met meerdere kanalen of meerdere klanten [hebben,](request-a-relationship-with-a-customer.md)kunt u een relatie met hen aanvragen in plaats van de stappen hier te volgen.
 - **Voer gedetailleerde, nauwkeurige klantgegevens in:** om de klantverificatie, moet u ervoor zorgen dat u:
-  - Voer de exacte juridische/officiële naam in zoals deze wordt weergegeven in de officiële documenten.
+  - Voer de exacte juridische/officiële naam in zoals deze in de officiële documenten wordt weergegeven.
   - Vermijd het gebruik van acroniemen of korte formulieren.
   - Gebruik geen testnamen.
   - Geef volledige, exacte adresgegevens op (bijvoorbeeld locatiegegevens, plaats, staat, land en postcode).
@@ -48,7 +48,7 @@ Bij het invoeren van een bedrijfsnaam is het volgende niet toegestaan:
 - Zelfstandige afkortingen uit de beperkte lijst gebruiken, zoals LLC, Inc, enzovoort (zie [de onderstaande](#table-of-abbreviations) tabel).
 - Namen gebruiken met TDL-extensies (Internet Top-Level Domain), zoals '.com', '.org', '.edu', '.club', enzovoort [(zie](#table-of-top-level-domain-extensions) de onderstaande tabel).
 
-- Het gebruik van hetzelfde teken herhaalde drie of meer keren zonder andere tekens, zoals 999.
+- Het gebruik van hetzelfde teken heeft drie of meer keren herhaald zonder andere tekens, zoals 999.
 
 - Spaties en/of tabbladen gebruiken die zijn gemengd met afzonderlijke tekens, zoals 1 2 3.
 
@@ -74,12 +74,12 @@ Bij het invoeren van een e-mailadres van de klant is het volgende niet toegestaa
    >Volgens de staatswetgeving van de EU/EFTA moeten partners die transacties in deze landen hebben, extra resellers declareeren die zijn gekoppeld aan een transactie. De volgende regels zijn van toepassing:
    >- Er moet een eerste reseller worden gekozen vóór eventuele extra resellers
    >- Aanvullende resellers hebben geen recht op extra incentives, aanbiedingen, enzovoort.
-   >- Aanvullende ingevoerde verkopers worden gevalideerd om ervoor te zorgen dat de juiste MPN-id wordt ingevoerd, indien van toepassing, en dat de reseller de MPA heeft ondertekend.
+   >- Aanvullende ingevoerde verkoper wordt gevalideerd om ervoor te zorgen dat de juiste MPN-id wordt ingevoerd, indien van toepassing, en dat de reseller de MPA heeft ondertekend.
    >- Er kunnen maximaal vijf extra resellers worden ingevoerd als onderdeel van de transactie 
 
 4. Als u een indirecte provider bent, selecteert u de indirecte reseller die u wilt koppelen aan de abonnementen van deze klant in de lijst.
 
-5. Wanneer u klaar bent met het invoeren van de vereiste gegevens, selecteert **u Volgende: Abonnementen.**
+5. Wanneer u klaar bent met het invoeren van de vereiste gegevens, selecteert u **Volgende: Abonnementen.**
 
 6. Selecteer op **de pagina** Abonnementen de aanbieding(en) die uw klant bij u wil kopen, voer het aantal licenties in en selecteer **volgende: Controleren.**
 
@@ -91,11 +91,11 @@ Bij het invoeren van een e-mailadres van de klant is het volgende niet toegestaa
 
 Partners voor directe factuur en indirecte providers die records toevoegen voor klanten in de volgende landen, moeten ook het telefoonnummer en de registratie-id van het bedrijf invoeren (ook wel de ORGANISATIE-INN genoemd):
 
-10, 2016, 2016, 2018, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2018 en 2018.
+2016, 2016, 2016, 2016, 2.000.000.000.000.
 
 ## <a name="company-name-and-email-characters-abbreviations-and-extensions"></a>Bedrijfsnaam en e-mailtekens, afkortingen en extensies
 
-In de volgende tabellen worden de items vermeld die worden vermeld in [de bovenstaande](#new-rules-for-company-name-and-email-address) sectie nieuwe regels.
+In de volgende tabellen worden de items vermeld die worden vermeld in [de bovenstaande sectie](#new-rules-for-company-name-and-email-address) met nieuwe regels.
 
 ### <a name="table-of-special-characters"></a>Tabel met speciale tekens
 
@@ -119,15 +119,15 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 
 | Afgekort. | Afgekort. | Afgekort. | Afgekort. |
 | ----- | ----- | ----- | ----- |
-|"c p a" | pty | "l. l. c." | gmbh |
-| "c.p.a." | "pty ltd" | "l.l.c." | ". |
+|" c p a" | pty | "l. l. c." | gmbh |
+| "c.p.a." | "pty ltd" | "l.l.c." | "group" |
 | l.l.p. | "pte ltd" | " l l p" | "wll" |
 | "c. p. a." | 'beperkte privé' | corp | "lda" |
 | "l. l. p." | "pvt" | "corporation" | "sarl" |
 | " l l c" | "pvt ltd" | "inc" | "kft" |
-| 'corp'. | "zrt" | "opgenomen" | ltd |
-| 'llc'. | "ooo" | 'beperkt' | ltd. |
-| 'llp'. | "llp" | "llc" | "sdn kunt u"
+| corp. | "zrt" | "opgenomen" | "ltd" |
+| llc. | "ooo" | 'beperkt' | ltd. |
+| 'llp'. | "llp" | "llc" | "sdn pkd"
 
 ### <a name="table-of-top-level-domain-extensions"></a>Tabel met domeinextensies op het hoogste niveau
 
@@ -139,9 +139,9 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 | .af | .be | .cf | .dm |
 | .ag | .bf | .cg | .do |
 | .ai | .bg | .ch | .dz |
-| .al | .kunt u | .ci | .fm |
+| .al | . | .ci | .fm |
 | .am | .bi | .ck | .fo |
-| .an | .kunt u | .cl | .fr |
+| .an | . | .cl | .fr |
 | .ao | .bl | .cm | .ga |
 | .aq | .bm | .cn | .gb |
 | .ar | .bn | .co | .gd |
@@ -150,14 +150,14 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 | .au | .br | .cv | .gg |
 | .aw | .bs | .cw | .gh |
 | .ax | .bt | .cx | .gi |
-| .az | .nl | .cy | .gl |
+| .az | .b.v. | .cy | .gl |
 | .ec | .bw | . gaan | .gm |
 | .ee | .by | .eu | .gn |
 | .eg | .bz | .fi | .gp |
 | .eh | .es | .fj | .gq |
 | .er | .et | .fk | .gr |
 | .gs | .gw | .hm | .ht |
-| .gt | .der | .hn | .hu |
+| .gt | . | .hn | .hu |
 | .gu | .hk | .hr | .id |
 | .ie | .kz | .mo | .nz |
 | .il | .la | .mp | .om |
