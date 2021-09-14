@@ -10,18 +10,18 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d2888a8deffffa3b281ca088696184fdb52376be
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957352"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244731"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Het eigendom van het domein controleren om een globale beheerder te worden (Engelstalig) 
 
 
 **Juiste rollen:** Globale | Accountbeheerder
 
-Als u in Partner Center wilt werken, moet u eerst het eigendom van uw domein verifiëren en een globale beheerder voor uw bedrijf worden. Bovendien zijn aan uw werknemers niet de rollen toegewezen die nodig zijn om aan de slag te gaan.  Om in de Partner Center iedereen een rol, die machtigingen bevat, aan hen toegewezen.  
+Als u in Partner Center wilt werken, moet u eerst het eigendom van uw domein verifiëren en een globale beheerder voor uw bedrijf worden. Bovendien zijn aan uw werknemers niet de rollen toegewezen die nodig zijn om aan de slag te gaan.  Als u in de Partner Center moet iedereen een rol hebben die machtigingen bevat.  
 
 ## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Controleer of uw domeineigendom een globale beheerder wordt in Partner Center
 
@@ -50,7 +50,7 @@ Als u het eigendom van uw domein verifieert, wordt u ook een globale beheerder. 
 
 ## <a name="find-the-companys-global-admin"></a>De globale beheerder van het bedrijf zoeken
 
-1. Selecteer in **Instellingen rechtsboven** in het Partner Center de optie **Gebruikersbeheer.**
+1. Selecteer in **Instellingen rechterbovenboven** in Partner Center de optie **Gebruikersbeheer.**
 
 1. Filter op globale beheerder in het zoekvak. Er wordt een lijst met globale beheerders in uw bedrijf weergegeven. Als uw bedrijf nog geen globale beheerder heeft, volgt u de onderstaande instructies.
 

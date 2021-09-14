@@ -10,15 +10,15 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: f594b7d39234080e2c3f99c05a2e64fdaa18f0dd
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956911"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244734"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Factureringsoverzicht voor partners van het CSP-programma die in Partner Center werkzaam zijn 
 
-**Juiste rollen:** beheeragent | Factureringsbeheerder | Globale beheerder | Helpdeskagent | Verkoopagent
+**Juiste rollen:** beheeragent | Factureringsbeheerders | Globale beheerder | Helpdeskagent | Verkoopagent
 
 Dit artikel bevat de basisfacturerings- en factuurgegevens voor CSP-partners in Partner Center waaronder hoe u klanten kunt factureren en hoe u uw factuur kunt vinden en lezen.
 
@@ -35,13 +35,13 @@ Uw factuur zoeken:
 
 ## <a name="bill-your-customers"></a>Uw klanten in rekening brengen
 
-Microsoft heeft geen vereisten of voorwaarden over hoe u uw eigen facturering verwerkt.
+Microsoft heeft geen vereisten of voorwaarden over hoe u met uw eigen facturering omgaat.
 
 Zie uw afstemmingsbestanden om het gebruik van een klant [te bepalen.](#find-your-bill) Gebruik de naam van de klant en andere relevante velden om het gebruik te bepalen.
 
 ### <a name="billing-types"></a>Factureringstypen
 
-Factureringstypen in Partner Center zijn **op licenties gebaseerde facturering,** **facturering** op basis van gebruik en een **een time-facturering.** 
+Factureringstypen in Partner Center **zijn op licenties gebaseerde facturering,** facturering op **basis** van gebruik en een **een time-facturering.** 
 
 ### <a name="billing-currency"></a>Factureringsvaluta
 
@@ -51,11 +51,11 @@ Factureringstypen in Partner Center zijn **op licenties gebaseerde facturering,*
 
 ## <a name="invoices"></a>Facturen
 
-Uw factuur is een overzicht van alle kosten voor de huidige factureringsperiode. Dit omvat kosten voor het hele programma, alle producten en alle klanten. Zie Algemene factureringsscenario's voor voorbeelden van maandelijkse en jaarlijkse [factureringsscenario's](common-billing-scenarios.md)
+Uw factuur is een overzicht van alle kosten voor de huidige factureringsperiode. Dit omvat kosten voor het hele programma, alle producten en alle klanten. Zie Veelvoorkomende factureringsscenario's voor voorbeelden van maandelijkse en jaarlijkse [factureringsscenario's](common-billing-scenarios.md)
 
 Voor op gebruik en op licenties gebaseerde facturering is uw factuur binnen twee (2) dagen beschikbaar vanaf de door u geselecteerde factureringsdatum (in UTC-tijd). Als u bijvoorbeeld een factureringsdatum van 12 september hebt, begint het proces voor het genereren van facturen om 12:00 uur UTC op de 13e en wordt het proces op de 14e om 12:00 uur UTC voltooid. 
 
-Voor eenmalige en terugkerende facturering wordt de factureringsperiode aangepast aan de kalendermaand en de factuur-/afstemmingsbestanden zijn niet later beschikbaar dan de achtste van elke maand. Lees Facturering voor [Azure-plan voor meer informatie.](azure-plan-billing.md) 
+Voor eenmalige en terugkerende facturering wordt de factureringsperiode aangepast aan de kalendermaand en de factuur-/afstemmingsbestanden zijn niet later beschikbaar dan de achtste van elke maand. Lees Facturering van [Azure-plan voor meer informatie.](azure-plan-billing.md) 
 
 ## <a name="price-lists"></a>Prijslijsten
 
@@ -77,11 +77,11 @@ Betalingsvoorwaarden zijn netto 60 dagen. Facturen moeten worden betaald op de e
 
 U kunt de volledige functionaliteit van uw opgeschorte accounts opnieuw krijgen wanneer u het verschuldigde bedrag betaalt.
 
-Zodra de gecorrigeerde factureringsgegevens zijn verstrekt, wordt uw betaling binnen vijf werkdagen Partner Center weergegeven op de pagina met facturering.
+Zodra de gecorrigeerde factureringsgegevens zijn verstrekt, wordt uw betaling binnen vijf werkdagen weergegeven op Partner Center pagina voor facturering.
 
 ### <a name="taxes-and-vat"></a>Belastingen en BTW
 
-U wordt belast op basis van uw gegevens (niet de gegevens van uw klanten), omdat de factureringsrelatie tussen Microsoft en u is. U kunt uw belasting-id indienen tijdens het installatieproces van het account of later via een ondersteuningsaanvraag. De wijzigingen worden weergegeven in de volgende factureringscyclus.
+U wordt belast op basis van uw gegevens (niet de gegevens van uw klanten), omdat de factureringsrelatie tussen Microsoft en u is. U kunt uw btw-id indienen tijdens het installatieproces van het account of later via een ondersteuningsaanvraag. De wijzigingen worden weergegeven in de volgende factureringscyclus.
 
 Voor **holding en btw-vrijstelling** moet u belastingdocumentatie indienen via een ondersteuningsaanvraag. U ziet de wijzigingen en de juiste restituties voor de volgende factureringscyclus. Meer informatie over het [indienen van bronbelasting](withholding-tax-credit-form.md). 
 
@@ -99,7 +99,7 @@ Microsoft maakt geen kosten voor vroegtijdige beëindiging in rekening voor annu
 
 ### <a name="billing-rules"></a>Factureringsregels
 
-Er zijn momenteel twee soorten factureringsfrequenties: jaarlijks & maandelijks.  
+Er zijn momenteel twee soorten factureringsfrequenties: jaarlijks & maand.  
 Servicetarieven naar gebruik kunnen binnen de factuurcyclus veranderen.
 
 #### <a name="annual-billing-rules"></a>Jaarlijkse factureringsregels 
@@ -130,7 +130,7 @@ Servicetarieven naar gebruik kunnen binnen de factuurcyclus veranderen.
 Mogelijk moet u om de volgende redenen een tegoed of rebill aanvragen:
 
 - U moet correcties voor adres- of inkooporders toepassen.
-- Er is een btw-restitutie toegepast nadat de factuur is gegenereerd. U kunt een tegoed of rebill aanvragen om de belastingteruggave terug te halen naar de oorspronkelijke factuur. Hetzelfde geldt voor restituties. U kunt een tegoed of gefactureerde factuur aanvragen en vervolgens een restitutie aanvragen.
+- Er is een btw-restitutie toegepast nadat de factuur is gegenereerd. U kunt een tegoed of een herfacturatie aanvragen om de btw-restitutie terug te krijgen op de oorspronkelijke factuur. Hetzelfde geldt voor restituties. U kunt een tegoed of gefactureerde factuur aanvragen en vervolgens een restitutie aanvragen.
 
 **Voor alle eenmalige en terugkerende transacties** kan Microsoft een tegoednota uitgeven wanneer u een tegoed of een nieuwe facturering aanvraagt. De factuur wordt geannuleerd wanneer het tegoed wordt uitgegeven. 
 
