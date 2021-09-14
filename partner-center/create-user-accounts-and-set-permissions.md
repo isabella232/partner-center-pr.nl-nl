@@ -10,17 +10,17 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
 ms.openlocfilehash: 71a330356b6c4b3792086f1bc2823e0e067e04ae
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957070"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244935"
 ---
 # <a name="create-user-accounts"></a>Gebruikersaccounts maken  
 
-**Juiste rollen:** Accountbeheerdersaccounts | Globale | Beheerder van gebruikersbeheer
+**Juiste rollen:** Accountbeheerder | Globale | Beheerder van gebruikersbeheer
 
-Maak gebruikersaccounts voor werknemers die toegang tot de Partner Center. Deze taken moeten worden uitgevoerd door de beheerder van het gebruikersbeheer, de accountbeheerder of de globale beheerder. De gebruiker die deze taken uitvoert, moet ook de AAD-rollen (Azure Active Directory) van Gebruikersbeheerder of Globale beheerder. Zie Machtigingen voor beheerdersrollen in Azure Active Directory voor [meer informatie over AAD-Azure Active Directory.](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)
+Maak gebruikersaccounts voor werknemers die toegang tot de Partner Center. Deze taken moeten worden uitgevoerd door de beheerder van het gebruikersbeheer, de accountbeheerder of de globale beheerder. De gebruiker die deze taken uitvoert, moet ook de AAD-rollen (Azure Active Directory gebruikersbeheerder of -beheerder) Globale beheerder. Zie Beheerdersrolmachtigingen in Azure Active Directory voor meer informatie [over AAD-Azure Active Directory.](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)
 
 ## <a name="add-a-new-user"></a>Een nieuwe gebruiker toevoegen
 

@@ -10,11 +10,11 @@ metadata:
   ms.author: mseamons
   ms.localizationpriority: medium
   ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123957680"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126244917"
 title: Veelgestelde vragen over Incentives
 summary: >
   **Juiste rollen:** Incentives-| Incentives-gebruiker
@@ -26,7 +26,7 @@ sections:
     answer: >
       Nee. Zowel de globale beheerder als de accountbeheerder kunnen gebruikers toewijzen als Incentives-beheerders. Incentives-beheerders beheren de incentives-programma's van het bedrijf via Partner Center. Zie Overzicht van machtigingen [voor meer informatie.](permissions-overview.md)
   - question: >
-      Wat moet ik doen als ik zie dat mijn bedrijf al lid is van de Microsoft Partner Network (MPN)?
+      Wat moet ik doen als ik vind dat mijn bedrijf al lid is van de Microsoft Partner Network (MPN)?
     answer: >
       Als u probeert lid te worden van MPN en uw bedrijf al lid is, herkent MPN het domein en koppelt u u aan het bestaande account. Het bestaande account kan hetzelfde bedrijf of een gerelateerd bedrijf zijn dat hetzelfde e-maildomein gebruikt, of dezelfde Azure Activity Directory (Azure AD) om meerdere domeinen te beheren.
 
@@ -47,14 +47,14 @@ sections:
       Zie Overzicht van machtigingen [voor meer informatie.](permissions-overview.md)
   - question: >
       Hoe kan ik erachter komen wie globale beheerdersrechten of accountbeheerdersrechten voor mijn bedrijf heeft?
-    answer: "Een globale beheerder of accountbeheerder zoeken die rolwijzigingen kan aanbrengen of rollen kan toewijzen aan een nieuwe gebruiker:\n\n1. Selecteer in het pictogram Accountinstellingen in de rechterboven Partner Center de optie **Gebruikersbeheer.**\n2. Filter op Globale **beheerder of** **Accountbeheerder.**\n3. U kunt ook naar Mijn profiel **gaan,** Rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen. \n \nZie Uw rol zoeken [voor meer informatie.](find-your-role.md)  \n"
+    answer: "Een globale beheerder of accountbeheerder zoeken die rolwijzigingen kan aanbrengen of rollen kan toewijzen aan een nieuwe gebruiker:\n\n1. Selecteer in het pictogram Accountinstellingen rechtsboven Partner Center de optie **Gebruikersbeheer.**\n2. Filter op Globale **beheerder of** **Accountbeheerder.**\n3. U kunt ook naar Mijn profiel **gaan,** Rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen. \n \nZie Uw rol zoeken [voor meer informatie.](find-your-role.md)  \n"
   - question: >
       Ik heb geen toegang tot incentives met mijn referenties.
     answer: >
       De waarschijnlijke reden dat u Incentives niet ziet, is dat u niet de juiste machtigingen hebt. Gebruik de volgende procedure om dit op te lossen.
 
 
-      1. Meld u aan [Partner Center dashboard met](https://partner.microsoft.com/dashboard/) uw Azure AD-tenantreferenties (uw werkreferenties). Als u zich niet kunt aanmelden, neem dan contact op met de globale beheerder van uw bedrijf.
+      1. Meld u aan [bij Partner Center dashboard](https://partner.microsoft.com/dashboard/) met uw Azure AD-tenantreferenties (uw werkreferenties). Als u zich niet kunt aanmelden, neem dan contact op met de globale beheerder van uw bedrijf.
 
 
       2. Als u tijdens het aanmelden wordt gevraagd  om een keuze te maken uit uw werkaccount of **persoonlijke account,** selecteert u **Werkaccount.**

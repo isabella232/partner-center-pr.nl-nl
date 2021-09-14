@@ -1,5 +1,5 @@
 ---
-title: Uw eerste API-aanroep maken om toegang te krijgen tot analysegegevens van Partner Insights
+title: Uw eerste API-aanroep maken om toegang te krijgen tot analysegegevens van partnerinzichten
 description: Voorbeelden om te leren hoe u de API gebruikt voor toegang tot analysegegevens van partnerinzichten.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,15 +9,15 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
 ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957445"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244890"
 ---
-# <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Uw eerste API-aanroep maken om toegang te krijgen tot analysegegevens van Partner Insights
+# <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Uw eerste API-aanroep maken om toegang te krijgen tot analysegegevens van partnerinzichten
 
-Zie API's voor toegang tot analytische gegevens van partnerinzichten voor een lijst met de API's voor toegang tot [analysegegevens van partnerinzichten.](insights-programmatic-analytics-available-api.md) Voordat u uw eerste API-aanroep maakt, moet u ervoor zorgen dat u aan de vereisten voor programmatische toegang tot partnergegevens Insights analytics-gegevens hebt voldaan. [](insights-programmatic-prerequisites.md)
+Zie API's voor toegang tot analysegegevens van partnerinzichten voor een lijst met de API's voor toegang tot [analysegegevens van partnerinzichten.](insights-programmatic-analytics-available-api.md) Voordat u uw eerste API-aanroep maakt, moet u ervoor zorgen dat u aan de vereisten voor programmatische toegang tot Partner-Insights analytics-gegevens hebt voldaan. [](insights-programmatic-prerequisites.md)
 
 ## <a name="token-generation"></a>Token genereren
 
@@ -55,7 +55,7 @@ curl --location --request POST 'https://login.microsoftonline.com/<tenantId>/oau
 }
 ```
 
-Zie Toegang tot analytische gegevens met Store-services voor meer informatie over het verkrijgen van een Azure AD-token voor [uw toepassing.](/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-2-obtain-an-azure-ad-access-token)
+Zie Toegang tot analysegegevens met Store-services voor meer informatie over het verkrijgen van een Azure AD-token voor [uw toepassing.](/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-2-obtain-an-azure-ad-access-token)
 
 ## <a name="programmatic-api-call"></a>Programmatische API-aanroep
 
@@ -330,7 +330,7 @@ curl
 
 Bij een geslaagde uitvoering wordt `reportId` een gegenereerd die moet worden gebruikt om een download van het rapport te plannen.
 
-### <a name="step-5-execute-report-executions-api"></a>Stap 5: API voor rapportuitvoeringen uitvoeren
+### <a name="step-5-execute-report-executions-api"></a>Stap 5: API voor het uitvoeren van rapportuitvoeringen
 
 In deze stap gebruiken we de API voor rapportuitvoeringen om de beveiligde locatie (URL) van het rapport op te halen.
 

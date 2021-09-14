@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Ontdek hoe een geautoriseerde abonnementsadviseur gebruik kan Partner Center om een aankoopaanbieding en aangepaste URL te maken om op te nemen in Office 365 uitnodigingen voor een proefabonnement.
+description: Ontdek hoe een geautoriseerde abonnementsadviseur Partner Center om een aankoopaanbieding en aangepaste URL te maken om op te nemen in Office 365 uitnodigingen voor een proefabonnement.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ab85a6cb11a49f48362299c27bd110ec0cf54cb5
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957583"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245651"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Adviseurs: Een aankoopaanbieding maken
 
@@ -25,11 +25,11 @@ ms.locfileid: "123957583"
 > [!NOTE]
 > Deze functie is alleen beschikbaar voor Microsoft-partners die gemachtigde abonnementsadviseurs zijn.
 
-Nadat u een uitnodiging voor een proefabonnement voor Office 365 hebt verzonden naar een client, kunt u een aankoopaanbieding maken en verzenden die is aangepast aan de behoeften van uw client. Als u bent gecertificeerd om gedelegeerd beheer aan te bieden, kunt u een optie toevoegen aan de aankoopaanbieding waarmee u het account namens uw client kunt beheren.
+Nadat u een uitnodiging voor een proefabonnement voor Office 365 naar een client hebt verzonden, kunt u een aankoopaanbieding maken en verzenden die is aangepast aan de behoeften van uw client. Als u bent gecertificeerd voor gedelegeerd beheer, kunt u een optie toevoegen aan de aankoopaanbieding waarmee u het account namens uw client kunt beheren.
 
-Wanneer u de aankoopaanbieding maakt, maakt de wizard **Aankoopaanbieding maken** een aangepaste URL voor u. De URL bevat een ingesloten code die u identificeert als abonnementsadviseur. U kunt deze URL gebruiken voor een of meer clients. Verzend de URL naar uw client in een e-mailbericht. U kunt de URL ook op uw website plaatsen. Als uw client de aanbieding accepteert, wordt u gekoppeld aan de aankoop van uw client.
+Wanneer u de aankoopaanbieding maakt, maakt de wizard **Aanbieding** maken een aangepaste URL voor u. De URL bevat een ingesloten code die u identificeert als de abonnementsadviseur. U kunt deze URL gebruiken voor een of meer clients. Verzend de URL naar uw client in een e-mailbericht. U kunt de URL ook op uw website plaatsen. Als uw client de aanbieding accepteert, wordt u gekoppeld aan de aankoop van uw client.
 
-Als uw client een ander aantal licenties wil, stuurt u hen een nieuwe aanbieding of kan deze het aantal licenties wijzigen wanneer ze het abonnement aanschaffen.
+Als uw client een ander aantal licenties wil, stuurt u ze een nieuwe aanbieding of kunnen ze het aantal licenties wijzigen wanneer ze het abonnement aanschaffen.
 
 ## <a name="to-create-a-purchase-offer"></a>Een aankoopaanbieding maken
 
@@ -39,7 +39,7 @@ Als uw client een ander aantal licenties wil, stuurt u hen een nieuwe aanbieding
 
     - **Partner kantoor:** als uw bedrijf meerdere kantoren heeft, kiest u het kantoor waar u deze aankoopaanbieding aan wilt koppelen.
 
-        Zie Een locatie toevoegen als u partner [office-locaties wilt toevoegen.](manage-locations.md) Het kan tot 24 uur na het maken van nieuwe kantoorlocaties duren voordat ze worden weergegeven in de **lijst Partner office.**
+        Zie Een locatie toevoegen als u officelocaties [van partners wilt toevoegen.](manage-locations.md) Het kan tot 24 uur duren voordat nieuwe kantoorlocaties worden weergegeven in de lijst **Partner** office.
 
     - **Gebruikslocatie:** selecteer de locatie waar uw client de services gaat gebruiken.
     - Abonnementen: de lijst met abonnementen die u kunt kiezen, wordt bepaald door de **gebruikslocatie** van het land of de regio van uw client. Vink het selectievakje aan van het abonnement of de abonnementen die u uw client aanbiedt.
@@ -48,7 +48,7 @@ Als uw client een ander aantal licenties wil, stuurt u hen een nieuwe aanbieding
 
 3. Selecteer **Next**.
 
-4. Kopieer op **de pagina** Verzenden de informatie en URL van de aankoopaanbieding en plak deze in een e-mailbericht, een document of een webpagina om een aangepaste aankoopaanbieding te maken.
+4. Kopieer op **de pagina** Verzenden de informatie en URL van de aankoopaanbieding en plak deze in een e-mailbericht, document of webpagina om een aangepaste aankoopaanbieding te maken.
 
     > [!NOTE]
     > Noteer de overzichts-id van **de aankoopaanbieding.** Gebruik deze om de aanbieding bij te houden.
@@ -57,15 +57,15 @@ Als uw client een ander aantal licenties wil, stuurt u hen een nieuwe aanbieding
 
     Verzend de aankoopaanbieding naar uw client.
 
-6. Wanneer u uw bericht aan past, kunt u overwegen deze informatie op te geven:
+6. Wanneer u uw bericht aan te passen, kunt u overwegen om deze informatie op te geven:
 
     - Identificeer uzelf als een geautoriseerde Microsoft Cloud Partner.
     - Laat clients weten dat ze rechtstreeks door Microsoft worden gefactureerd.
-    - Vertel klanten hoe ze contact met u kunnen opnemen met vragen over de service of de aanbieding.
-    - Laat klanten weten dat ze het aantal aangeschafte gebruikerslicenties bepalen en dat ze het aantal licenties kunnen wijzigen wanneer ze de aanbieding accepteren.
+    - Vertel clients hoe ze contact met u kunnen opnemen met vragen over de service of de aanbieding.
+    - Laat clients weten dat ze het aantal aangeschafte gebruikerslicenties bepalen en het aantal licenties kunnen wijzigen wanneer ze de aanbieding accepteren.
     - Als u gedelegeerd beheer aanbiedt, legt u uit wat dit inhoudt en wat uw verantwoordelijkheden zijn. Zie Gedelegeerd beheer aanbieden voor meer informatie [over gedelegeerd beheer.](customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Bouw uw clientbasis met Office 365 proefuitnodigingen en aanbiedingen](advisors-build-your-business.md)
+- [Bouw uw clientbasis met uitnodigingen Office 365 proefabonnement en aanbiedingen](advisors-build-your-business.md)
 - [Partners kunnen zich niet meer registreren als adviseurs](advisors-no-csp.md)

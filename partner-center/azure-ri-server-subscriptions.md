@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 752b7b9eee2da69dec597f56d1ddc2968aa7c29a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957640"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244737"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Gereserveerde VM& s (RI) en serverabonnementen voor klanten verkrijgen, inrichten en beheren
 
@@ -28,22 +28,22 @@ Azure-reserveringen helpen u geld te besparen door vooraf te betalen voor een of
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Waarom moeten klanten een reservering kopen?
 
-Als klanten virtuele machines, Azure Cosmos DB of SQL databases hebben die langere tijd worden uitgevoerd, is het kopen van een reservering de meest rendabele optie. Als een klant bijvoorbeeld continu vier exemplaren van een service zonder reservering gebruikt, worden er kosten in rekening gebracht tegen tarieven voor betalen per gebruik. Als ze een reservering voor deze resources aanschaffen, krijgen ze onmiddellijk de reserveringskorting. De resources worden niet langer gefactureerd met de tarieven voor betalen per gebruik.
+Als klanten virtuele machines, Azure Cosmos DB of SQL databases hebben die voor langere tijd worden uitgevoerd, is het kopen van een reservering de meest rendabele optie. Als een klant bijvoorbeeld continu vier exemplaren van een service zonder reservering gebruikt, worden er kosten in rekening gebracht tegen tarieven voor betalen per gebruik. Als ze een reservering voor deze resources aanschaffen, krijgen ze onmiddellijk de reserveringskorting. De resources worden niet langer gefactureerd met de tarieven voor betalen per gebruik.
 
 ### <a name="compelling-new-azure-offer-in-csp"></a>Aantrekkelijke nieuwe Azure-aanbieding in CSP
 
-Door Azure-reserveringen en serverabonnementen over te brengen naar het CSP-programma, is Microsoft haar partners beter in staat om te voldoen aan de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare, permanente cloudworkloads. Met het CSP-programma kunnen partners Azure-reserveringen en serverabonnementen verkrijgen, inrichten en beheren namens commerciële klanten via Microsoft Partner Center en Azure Portal.
+Door Azure-reserveringen en serverabonnementen over te brengen naar het CSP-programma, is Microsoft haar partners beter in staat om te voldoen aan de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare, permanente cloudworkloads. Met het CSP-programma kunnen partners Azure-reserveringen en -serverabonnementen namens commerciële klanten verkrijgen, inrichten en beheren via Microsoft Partner Center en Azure Portal.
 We geven zelfs partners in ons CSP-programma opties over hoe Azure-reserveringen kunnen worden aangeschaft. CSP-partners kunnen [Azure-reserveringen](azure-reservations-buying.md) kopen namens een [](give-customers-permission.md) klant of ze kunnen de klant toestaan om hun eigen reserveringen te kopen bij een eerder Azure-abonnement dat de partner voor hen heeft gekocht.
 
 Azure-reserveringen bieden klanten de flexibiliteit van virtualisatie voor een breed scala aan computeroplossingen, waaronder ontwikkeling en testen, het uitvoeren van toepassingen en het uitbreiden van het datacenter.
 
-Met [Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) kunnen commerciële klanten nu bijvoorbeeld tot 72% besparen ten opzichte van betalen per gebruik met azure-VM's door de virtuele machine voor een periode van 1 of 3 jaar te kopen of te reserveren. Windows Serverklanten met Azure Hybrid Benefit, opgenomen in Software Assurance, kunnen maximaal 80% besparen in vergelijking met betalen per gebruik-prijzen.
+Met [Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) kunnen commerciële klanten nu bijvoorbeeld tot 72% besparen ten opzichte van betalen per gebruik met Azure-VM's door de virtuele machine voor een periode van 1 of 3 jaar te kopen of te reserveren. Windows Serverklanten met Azure Hybrid Benefit, opgenomen in Software Assurance, kunnen maximaal 80% besparen in vergelijking met betalen per gebruik-prijzen.
 
 Met een niet-overeenkomende combinatie van aantrekkelijke prijzen en niet-overeenkomende implementatieflexibiliteit, zien klanten de beste algemene waarde wanneer ze Azure-reserveringen kiezen.
 
 - Zie [Reserveringen kopen in](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) de Azure-portal.
 
-- Zie de **commerciële prijslijst voor Azure RI CSP** onder de [](https://partner.microsoft.com/dashboard/sell/pricingandoffers) categorie **Microsoft Azure Reserved Instances** op de pagina Prijzen en aanbiedingen in Partner Center voor softwareabonnementen en jaarlijkse Linux ISV-abonnementen.
+- Zie de commerciële prijslijst voor **Azure RI CSP** onder de [](https://partner.microsoft.com/dashboard/sell/pricingandoffers) categorie Microsoft Azure **Reserved Instances** op de pagina Prijzen en aanbiedingen in Partner Center voor softwareabonnementen en jaarlijkse Linux ISV-abonnementen.
 
 
  
@@ -92,7 +92,7 @@ Als u wilt weten hoe u Azure-reserveringen bij uw klanten kunt plaatsen en zo sn
 
 - [Azure prijscalculator](https://azure.microsoft.com/pricing/calculator)
 
-- [Azure Databricks eenheidsreserveringen](/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks-eenheidsreserveringen](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>Training
@@ -110,11 +110,11 @@ Eerder vastgelegde gebeurtenissen van Licentieverlenings readiness on-demand omv
 
 ## <a name="operations"></a>Operations
 
-[Partner Center](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)nieuwe handleiding voor commercebewerkingen: uitgebreide handleiding voor belangrijke beleids- en operationele aspecten, zoals overeenkomsten, bestellen via Partner Center, factuur, prijslijstdetails, incentives, afstemmingsbestand, API/SDK, Sandbox en Azure Partner Shared Services.
+[Partner Center](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)nieuwe handleiding voor commercebewerkingen: uitgebreide handleiding voor belangrijke beleids- en operationele aspecten, zoals overeenkomsten, bestellen via Partner Center, factuur, prijslijstgegevens, incentives, afstemmingsbestand, API/SDK, Sandbox en Azure Partner Shared Services.
 
 ## <a name="azure-hybrid-benefit"></a>Azure Hybrid Benefit
 
-De [Azure Hybrid Benefit](https://azure.microsoft.com/pricing/hybrid-benefit) is een prijsvoordeel voor klanten die licenties hebben met Software Assurance, waarmee de waarde van bestaande on-premises Windows Server- en/of SQL Server-licenties wordt gemaximaliseerd bij de migratie naar Azure. In aanmerking komende klanten kunnen maximaal 40%* besparen op Azure Virtual Machines (infrastructuur als een dienst of IaaS) en tot 55% besparen op Azure SQL Database (platform as a service of PaaS) en SQL Server op Azure Virtual Machines (IaaS) met Azure Hybrid Benefit, wat tot 80% toeneemt in combinatie met gereserveerde Instanties van Azure.
+De [Azure Hybrid Benefit](https://azure.microsoft.com/pricing/hybrid-benefit) is een prijsvoordeel voor klanten die licenties hebben met Software Assurance, waarmee de waarde van bestaande on-premises Windows Server- en/of SQL Server-licenties wordt gemaximaliseerd bij de migratie naar Azure. In aanmerking komende klanten kunnen maximaal 40% besparen op Azure Virtual Machines (infrastructuur als een dienst of IaaS) en tot 55% besparen op Azure SQL Database (platform as a service of PaaS) en SQL Server op Azure Virtual Machines (IaaS) met Azure Hybrid Benefit, wat tot 80% toeneemt in combinatie met gereserveerde Instanties van Azure.
 
 ## <a name="next-steps"></a>Volgende stappen
 

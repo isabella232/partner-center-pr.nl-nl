@@ -9,11 +9,11 @@ ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
 ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957830"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244814"
 ---
 # <a name="value-added-tax-vat-information"></a>Btw-gegevens (value added tax)
 
@@ -24,7 +24,7 @@ Als u tijdens het registratieproces van de Partner Center een btw-nummer (btw) m
 
 ## <a name="understanding-vat-numbers"></a>Inzicht in btw-nummers
 
-Een btw-nummer is een id die wordt gebruikt voor landen of regio's in de Europese Unie. Zie de officiële site btw-informatie van de Europese Unie [Exchange System (WILT)](http://ec.europa.eu/taxation_customs/vies/vieshome.do)voor meer informatie.
+Een btw-nummer is een id die wordt gebruikt voor landen of regio's in de Europese Unie. Zie voor meer informatie de officiële site [van het BTW-Exchange-systeem van de](http://ec.europa.eu/taxation_customs/vies/vieshome.do)Europese Unie.
 
 ## <a name="location-specific-vat-information"></a>Locatiespecifieke btw-gegevens
 
@@ -34,7 +34,7 @@ De volgende gegevens zijn uniek voor de landen of regio's die hieronder worden v
 
 In de lid staten van de Europese Unie moeten partners hun geldige btw-nummer voor de omgekeerde kosten en de juiste facturering verstrekken. Het btw-nummer moet als geldig worden geaccepteerd.
 
-Microsoft biedt geen ondersteuning voor tegoeden en herfacturing. Voordat u abonnementen verkoopt, moet u [uw btw-nummer](organization-tax-info.md) registreren in Partner Center.
+Microsoft biedt geen ondersteuning voor tegoeden en herfacturing. Voordat u abonnementen verkoopt, moet u [uw btw-nummer registreren](organization-tax-info.md) in Partner Center.
 
 ### <a name="south-africa"></a>Zuid-Afrika
 
@@ -50,7 +50,7 @@ Houd er rekening mee dat Microsoft geen belastingadvies geeft en dat de volgende
 
 |Land/regio | Btw-gegevens |
 |:------------|:----------|
-|Oostenrijk  |- Btw-nummerindeling: 1 letter en 8 cijfers<br/>- Land-/regiocode: AT<br/>- Voorbeeld: U12345678<br/>- Opmerkingen: het eerste teken is altijd 'U'. |
+|Oostenrijk  |- Btw-nummerindeling: 1 letter en 8 cijfers<br/>- Land-/regiocode: AT<br/>- Voorbeeld: U12345678<br/>- Opmerkingen: Het eerste teken is altijd 'U'. |
 |België  |- Btw-nummernotatie: 10 cijfers<br/>- Land-/regiocode: BE<br/>- Voorbeeld: 1234567890<br/>- Opmerkingen: 9 cijfers vóór 1 januari 2007. |
 | Bulgarije  |- Btw-nummernotatie: 9 of 10 cijfers<br/>- Land-/regiocode: BG<br/>- Voorbeeld: 123456789 of 0123456789 |
 | Kroatië |- Btw-nummerindeling: 2 letters en 11 cijfers<br/>- Land-/regiocode: HR<br/>- Voorbeeld: HR12345678901<br/>- Opmerkingen: De eerste tekens zijn altijd 'HR'. |
@@ -59,26 +59,26 @@ Houd er rekening mee dat Microsoft geen belastingadvies geeft en dat de volgende
 | Denemarken |- Btw-nummernotatie: 8 cijfers<br/>- Land-/regiocode: DK<br/>- Voorbeeld: 12345678<br/> |
 |Estland |- Btw-nummernotatie: 9 cijfers<br/>- Land-/regiocode: EE<br/>- Voorbeeld: 123456789<br/> |
 |Finland |- Btw-nummerindeling: cijfers<br/>- Land-/regiocode: FI<br/>- Voorbeeld: 12345678 |
-|Frankrijk |- Btw-nummerindeling: 11 cijfers<br/>- Land-/regiocode: FR<br/>- Voorbeeld: 12345678901, X1234567890, 1X123456789 of XX123456789<br/>-Opmerkingen: kan alfabetische tekens bevatten, met uitzondering van I of Q als het eerste of tweede teken, of als het eerste en tweede teken, gevolgd door 9 cijfers. |
+|Frankrijk |- Btw-nummernotatie: 11 cijfers<br/>- Land-/regiocode: FR<br/>- Voorbeeld: 12345678901, X1234567890, 1X123456789 of XX123456789<br/>-Opmerkingen: kan alfabetische tekens bevatten, met uitzondering van I of Q als het eerste of tweede teken, of als het eerste en tweede teken, gevolgd door 9 cijfers. |
 |Duitsland |- Btw-nummernotatie: 9 cijfers<br/>- Land-/regiocode: DE<br/>- Voorbeeld: 123456789<br/>-Opmerkingen: Moet het 9-cijfer 'Umsatzsteur Identifikationnummer' (Ust ID Nr.) |
 |Griekenland |- Btw-nummernotatie: 9 cijfers<br/>- Land-/regiocode: EL, GR<br/>- Voorbeeld: 123456789 |
 |Hongarije |- Btw-nummernotatie: 8 cijfers<br/>- Land-/regiocode: HU<br/>- Voorbeeld: 12345678 |
 |Ierland |- Btw-nummernotatie: 8 cijfers<br/>- Land-/regiocode: IE<br/>- Voorbeeld: 1234567X of 1X34567X<br/>-Opmerkingen: bevat 1 of 2 alfabetische tekens: laatste, of tweede en laatste. |
-|Italië |- Btw-nummerindeling: 11 cijfers<br/>- Land-/regiocode: IT<br/>- Voorbeeld: 12345678901 |
-|Letland |- Btw-nummerindeling: 11 cijfers<br/>- Land-/regiocode: LV<br/>- Voorbeeld: 01234567890 |
+|Italië |- Btw-nummernotatie: 11 cijfers<br/>- Land-/regiocode: IT<br/>- Voorbeeld: 12345678901 |
+|Letland |- Btw-nummernotatie: 11 cijfers<br/>- Land-/regiocode: LV<br/>- Voorbeeld: 01234567890 |
 |Litouwen |- Btw-nummernotatie: 9 of 12 cijfers<br/>- Land-/regiocode: LT<br/>- Voorbeeld: 123456789 of 012345678901 |
-|Luxemburg |- Btw-nummernotatie: 8 cijfers<br/>- Land-/regiocode: LU<br/>- Voorbeeld: 12345678 |
+|Luxemburg |- Btw-nummerindeling: 8 cijfers<br/>- Land-/regiocode: LU<br/>- Voorbeeld: 12345678 |
 |Malta |- Btw-nummerindeling: 2 letters en 8 cijfers<br/>- Land-/regiocode: MT</br>-Voorbeeld: MT12345678<br/>- Opmerkingen: De eerste tekens zijn altijd 'MT'. |
 |Nederland |- Btw-nummerindeling: 11 cijfers en 1 letter<br/>- Land-/regiocode: NL<br/>- Voorbeeld: 123456789B01<br/>-Opmerkingen: Tiende teken is altijd 'B'. |
-|Polen |- Btw-nummernotatie: 10 cijfers<br/>- Land-/regiocode: PL<br/>- Voorbeeld: 1234567890 |
-|Portugal |- Btw-nummernotatie: 9 cijfers<br/>- Land-/regiocode: PT<br/>- Voorbeeld: 123456789 |
+|Polen |- Btw-nummerindeling: 10 cijfers<br/>- Land-/regiocode: PL<br/>- Voorbeeld: 1234567890 |
+|Portugal |- Btw-nummerindeling: 9 cijfers<br/>- Land-/regiocode: PT<br/>- Voorbeeld: 123456789 |
 |Roemenië |- Btw-nummerindeling: 2 letters en 8-10 cijfers<br/>- Land-/regiocode: RO<br/>- Voorbeeld: RO12345678, RO123456789 of RO1234567890<br/>- Opmerkingen: De eerste tekens zijn altijd 'RO' |
-|Slowakije |- Btw-nummernotatie: 10 cijfers<br/>- Land-/regiocode: SK<br/>- Voorbeeld: 1234567890<br/>- Opmerkingen: De eerste tekens zijn altijd 'SI'. |
+|Slowakije |- Btw-nummerindeling: 10 cijfers<br/>- Land-/regiocode: SK<br/>- Voorbeeld: 1234567890<br/>- Opmerkingen: De eerste tekens zijn altijd 'SI'. |
 |Slovenië |- Btw-nummerindeling: 2 letters en 8 cijfers<br/>- Land-/regiocode: SI<br/>- Voorbeeld: SI12345678<br/>- Opmerkingen: De eerste tekens zijn altijd 'SI'. |
-|Spanje |- Btw-nummernotatie: 9 cijfers<br/>- Land-/regiocode: ES<br/>- Voorbeeld: X12345678, 12345678X of X1234567X<br/>-Opmerkingen: bevat 1 of 2 letters: eerste, laatste of eerste en laatste. |
-|Zweden |- Btw-nummerindeling: 12 cijfers<br/>- Land-/regiocode: SE<br/>- Voorbeeld: 123456789001<br/>- Opmerkingen: De laatste 2 tekens moeten '01' zijn. |
-|Verenigd Koninkrijk |- Btw-nummernotatie: 9 of 12 cijfers<br/>- Land-/regiocode: GB<br/>- Voorbeeld: 123456789 of 123456789001<br/>- Opmerkingen: 9 cijfers in het algemeen, maar 12 cijfers als het getal een subbedrijf binnen een groep vertegenwoordigt. |
+|Spanje |- Btw-nummerindeling: 9 cijfers<br/>- Land-/regiocode: ES<br/>- Voorbeeld: X12345678, 12345678X of X1234567X<br/>-Opmerkingen: bevat 1 of 2 letters: eerste, laatste of eerste en laatste. |
+|Zweden |- Btw-nummerindeling: 12 cijfers<br/>- Land-/regiocode: SE<br/>- Voorbeeld: 123456789001<br/>-Opmerkingen: De laatste 2 tekens moeten '01' zijn. |
+|Verenigd Koninkrijk |- Btw-nummerindeling: 9 of 12 cijfers<br/>- Land-/regiocode: GB<br/>- Voorbeeld: 123456789 of 123456789001<br/>- Opmerkingen: 9 cijfers in het algemeen, maar 12 cijfers als het getal een subbedrijf binnen een groep vertegenwoordigt. |
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Informatie over de belasting van het bedrijf en het toevoegen of verzenden van btw-Partner Center aankopen](organization-tax-info.md)
+- [Informatie over de bedrijfsbelasting en het toevoegen of verzenden van btw-Partner Center-aankopen](organization-tax-info.md)

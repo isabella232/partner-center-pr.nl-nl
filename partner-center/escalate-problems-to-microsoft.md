@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
 ms.openlocfilehash: 276747cffb3007e5403cb8238b0540fe191e34cb
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245015"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Problemen naar Microsoft escaleren en leren welke problemen geschikter zijn voor escalatie van Microsoft  
 
@@ -46,14 +46,14 @@ Er zijn echter verschillende categorieën problemen die u aan Microsoft moet gev
 
 4. Selecteer **Nieuwe aanvraag** en selecteer vervolgens **Microsoft Office 365**.
 
-5. U gaat naar de Office 365 portal waar u zich moet aanmelden met uw Partner Center referenties.
+5. U wordt naar de portal Office 365 waar u zich moet aanmelden met uw Partner Center referenties.
 
 6. Selecteer **Ondersteuning**, **Nieuwe serviceaanvraag** in het menu aan de linkerkant.
 
 7. Selecteer het ondersteuningsonderwerp.
 
 >[!NOTE]
->Het is belangrijk om te beginnen vanaf het Partner Center dashboard, zodat de relatie tussen partner en klant behouden blijft. 
+>Het is belangrijk om te beginnen vanaf Partner Center dashboard, zodat de relatie tussen partner en klant behouden blijft. 
 
 Zie Problemen rapporteren namens een klant voor meer informatie over het melden van problemen [namens de klant.](report-problems-on-behalf-of-a-customer.md)
 

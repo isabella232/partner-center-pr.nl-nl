@@ -10,15 +10,15 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 9568a014de926682dd89dd9d06d1c6ca5b98ac71
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956920"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244973"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Algemene factureringsscenario's voor SaaS-transacties op basis van licenties in Partner Center
 
-**Juiste rollen:** beheeragent | Factureringsbeheerder | Helpdeskagent | Verkoopagent
+**Juiste rollen:** beheeragent | Factureringsbeheerders | Helpdeskagent | Verkoopagent
 
 
 Deze [veelvoorkomende factureringsscenario's](common-billing-scenarios.md) zijn van toepassing op SaaS-abonnementen (Software as a Service) op basis van licenties in Partner Center.
@@ -27,7 +27,7 @@ Deze [veelvoorkomende factureringsscenario's](common-billing-scenarios.md) zijn 
 
 In dit scenario wordt de facturering voor de verlenging van een saaS-abonnement op basis van een gratis proefversie beschreven. De verlenging converteert de gratis proefversie naar een betaald abonnement aan het einde van de gratis proefperiode.
 
-In dit voorbeeld hebt u op 10 juni een gratis proefversie aangeschaft van een SaaS-abonnement op basis van licenties (software als een service). Deze gratis proefversie wordt automatisch verlengd als een betaald abonnement wanneer de gratis proefperiode eindigt.
+In dit voorbeeld hebt u op 10 juni een gratis proefversie aangeschaft van een SaaS-abonnement op basis van licenties (software als een dienst). Deze gratis proefversie wordt automatisch verlengd als een betaald abonnement wanneer de gratis proefperiode eindigt.
 
 De recon-bestanden bevatten de volgende kosten:
 
@@ -52,7 +52,7 @@ Het recon-bestand bevat de volgende kosten:
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>SaaS-abonnement voor aangepaste meters converteren naar een andere SKU
 
-In dit scenario wordt beschreven hoe u op dezelfde datum een SaaS-abonnement voor aangepaste meters converteert van de ene SKU (Stock Keeping Unit) naar een andere SKU voor hetzelfde product.
+In dit scenario wordt beschreven hoe u op dezelfde datum een SaaS-abonnement met een aangepaste meter converteert van de ene SKU (Stock Keeping Unit) naar een andere SKU voor hetzelfde product.
 
 In dit scenario hebt u één SKU (Silver) aangeschaft onder een product en deze op dezelfde datum geconverteerd naar een andere beschikbare SKU (Brons) onder dit product.
 
@@ -64,9 +64,9 @@ Het recon-bestand bevat de volgende kosten:
 | 06/10/2019 | Zilver | 06/10/2019 | 06/10/2019 | $ 20 | 1 | -$20 | Converteren | Prorated rebill for custom meter SaaS subscription (Prorated Rebill voor SaaS-abonnement met aangepaste meter) |
 | 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | $ 10 | 1 | $ 10 | Converteren | SaaS-abonnement voor aangepaste meter |
 
-## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Een SaaS-abonnement voor klantmeters kopen en annuleren op dezelfde datum
+## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Op dezelfde datum een SaaS-abonnement voor een klantmeter kopen en annuleren
 
-In dit scenario wordt de facturering beschreven voor een SaaS-abonnement voor klantmeters dat u op dezelfde Azure Portal hebt aangeschaft en geannuleerd.
+In dit scenario wordt de facturering beschreven voor een SaaS-abonnement voor de klantmeter dat u op dezelfde Azure Portal hebt aangeschaft en geannuleerd.
 
 In dit scenario hebt u een SaaS-abonnement voor aangepaste meters aangeschaft op Azure Portal. Vervolgens hebt u het abonnement op dezelfde datum geannuleerd.
 

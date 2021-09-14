@@ -1,5 +1,5 @@
 ---
-title: Een Azure-abonnement overdragen aan een andere partner
+title: Een Azure-abonnement overdragen naar een andere partner
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
@@ -10,11 +10,11 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/21/2021
 ms.openlocfilehash: 28e90ec4a699e2d8830f3695a30151e6b00e8cd1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246189"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-partner-without-converting-them-to-an-azure-plan"></a>De Azure-abonnementen van een klant overdragen aan een andere partner zonder deze te converteren naar een Azure-plan
 
@@ -28,7 +28,7 @@ In de eerste sectie, Een Azure-abonnement overdragen naar een andere [partner,](
 
 In de volgende sectie, Een eerder azure-aanbiedingsabonnement overdragen zonder dit te converteren naar het [Azure-plan,](#transferring-a-previous-azure-offer-subscription-without-converting-it-to-the-azure-plan)wordt kort beschreven hoe het nieuwe Azure-plan wordt geïntroduceerd. Vervolgens wordt een speciaal geval beschreven waarin sommige abonnementen op de vorige Azure-aanbieding kunnen worden overgedragen naar een andere CSP zonder deze te converteren naar het nieuwe Azure-plan.
 
-De klant, de huidige serviceprovider en een nieuwe serviceprovider hebben allemaal verantwoordelijkheden bij het overdragen van een klantabonnement naar [een nieuwe Azure-serviceprovider.](#responsibilities-when-transferring-a-customer-subscription-to-a-new-azure-service-provider) Een klant moet van plan zijn nauw samen te werken met de huidige partner om de overgang soepel te laten verlopen.
+De klant, de huidige serviceprovider en een nieuwe serviceprovider hebben allemaal verantwoordelijkheden bij het overdragen van een klantabonnement [naar een nieuwe Azure-serviceprovider.](#responsibilities-when-transferring-a-customer-subscription-to-a-new-azure-service-provider) Een klant moet van plan zijn nauw samen te werken met de huidige partner om de overgang soepel te laten verlopen.
 
  Informatie op hoog niveau om Azure-abonnees te helpen abonnementen over te dragen van en naar CSP-partners vindt u in Azure-abonnementen overdragen tussen [abonnees en CSP's.](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
 
@@ -40,7 +40,7 @@ Meer informatie over hoe klanten hun Azure-abonnementen van de ene partner naar 
 - Een partner moet een directe provider of een indirecte provider zijn om een abonnement over te dragen.
 - Abonnementen die aan de volgende aanbiedingen zijn gekoppeld, kunnen niet worden overgedragen: Azure-abonnement, Office 365, Enterprise Mobility Suite en Microsoft Dynamics CRM.
 - Een klant moet zich in hetzelfde land als een partner hebben om een abonnement over te dragen.
-- Partners die in Microsoft Cloud for US Government of Microsoft Cloud Duitsland werken, moeten toestemming vragen om de service of het abonnement van een klant te beheren. Zie Machtigingen verkrijgen voor het beheren van de service of het [abonnement van een klant voor meer informatie.](/partner-center/customers-revoke-admin-privileges)
+- Partners die in Microsoft Cloud for US Government Microsoft Cloud Duitsland werken, moeten toestemming vragen om de service of het abonnement van een klant te beheren. Zie Machtigingen verkrijgen voor het beheren van de service of het [abonnement van een klant voor meer informatie.](/partner-center/customers-revoke-admin-privileges)
 
 ## <a name="transferring-azure-subscriptions-to-another-partner"></a>Azure-abonnementen overdragen naar een andere partner
 
@@ -54,7 +54,7 @@ Het overdragen van een Azure-abonnement van de ene CSP-partner naar een andere i
 |2     |         |[Ondersteuningsticket maken om overdracht aan te vragen](#step-2-current-provider-creates-azure-support-ticket-to-request-a-transfer)        |         |
 |3     |         |[Formulier voor voltooide overdracht verzenden naar klant](#step-3-current-partner-completes-transfer-form-and-sends-it-to-the-customer)|         |
 |4     |         |[De wijziging van het Cloud Solution Provider voltooien](#step-3-current-partner-completes-transfer-form-and-sends-it-to-the-customer)       |         |
-|5     |[Retourformulier controleren, & ondertekenen](#step-5-the-customer-and-new-partner-review--return-the-form)       |         |[Retourformulier controleren, & ondertekenen](#step-5-the-customer-and-new-partner-review--return-the-form)         |
+|5     |[Formulier controleren, ondertekenen & retourneren](#step-5-the-customer-and-new-partner-review--return-the-form)       |         |[Formulier controleren, ondertekenen & retourneren](#step-5-the-customer-and-new-partner-review--return-the-form)         |
 |6     |         |[Formulier controleren en koppelen aan serviceaanvraag](#step-6-current-partner-reviews-form-and-attaches-it-to-the-service-request)        |         |
 |7     |         |         |[Oude partner uit account verwijderen](#step-7-new-partner-removes-old-partner-from-account)         |
 |8     |         |         |[Verouderde toegangsmachtigingen verwijderen](#step-8-new-partner-removes-outdated-access-permissions)         |
@@ -82,17 +82,17 @@ De huidige partner maakt een ondersteuning voor Azure om een abonnementsoverdrac
 
 #### <a name="step-3-current-partner-completes-transfer-form-and-sends-it-to-the-customer"></a>Stap 3: De huidige partner voltooit het overdrachtsformulier en verzendt het naar de klant
 
-De huidige partner downloadt en voltooit de wijziging [van Cloud Solution Provider formulier](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC), ondertekent dit en verzendt het vervolgens naar de klant.
+De huidige partner downloadt en voltooit de wijziging [van Cloud Solution Provider formulier](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC), ondertekent het en verzendt het vervolgens naar de klant.
 
 #### <a name="step-4-current-partner-completes-current-partner-fills-in-the-change-of-cloud-solution-provider-form"></a>Stap 4: Huidige partner vult het formulier Wijziging van Cloud Solution Provider in
 
-De huidige partner voltooit de [wijziging van Cloud Solution Provider formulier](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC), ondertekent het en verzendt het naar de klant.
+De huidige partner voltooit de [wijziging van Cloud Solution Provider formulier,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)ondertekent het en verzendt het naar de klant.
 
 Een van de informatie die nodig is om *het formulier Change of Cloud Solution Provider* in te vullen, is:
 
 - **De contactgegevens van de huidige** partner en de Microsoft-id (te vinden in het Partner Center-menu door Accountinstellingen te selecteren **> Organisatieprofiel).**
-- **De Microsoft-id van de** klant (te vinden in  het Partner Center-menu door Klanten te selecteren en vervolgens de vermelding van de klant uit te breiden om hun Microsoft-id weer te geven).
--  De abonnements-id die u wilt overdragen (deze kunt u  vinden in het menu Partner Center door Klanten te selecteren en vervolgens de aanbieding van de klant uit te breiden, Abonnementen weergeven te selecteren en vervolgens het gekozen abonnement uit te breiden om de **abonnements-id** weer te geven.
+- **De Microsoft-id van** de klant (te vinden in  het Partner Center-menu door Klanten te selecteren en vervolgens de vermelding van de klant uit te breiden om hun Microsoft-id weer te geven).
+-  De abonnements-id die u wilt overdragen (te vinden in  het Partner Center-menu door Klanten te selecteren en vervolgens de aanbieding van de klant uit te breiden, Abonnementen weergeven te selecteren en vervolgens het gekozen abonnement uit te breiden om de **abonnements-id** weer te geven.
 
 #### <a name="step-5-the-customer-and-new-partner-review--return-the-form"></a>Stap 5: de klant en de nieuwe partnerbeoordeling & formulier te retourneren
 
@@ -102,12 +102,12 @@ Samenwerken, de klant en de nieuwe partner:
 1. Controleer of de nieuwe klant een contractovereenkomst heeft.
 1. Verzend het formulier terug naar de huidige partner.
 
-#### <a name="step-6-current-partner-reviews-form-and-attaches-it-to-the-service-request"></a>Stap 6: het formulier beoordelingen van de huidige partner en het formulier koppelen aan de serviceaanvraag
+#### <a name="step-6-current-partner-reviews-form-and-attaches-it-to-the-service-request"></a>Stap 6: het formulier van de huidige partnerbeoordelingen en het formulier wordt gekoppeld aan de serviceaanvraag
 
 Wanneer de huidige partner het formulier ontvangt, gebeurt het volgende:
 
 - Zorg ervoor dat het formulier contactgegevens voor beide partnerbeheerders bevat. (Microsoft-ondersteuning contact op met beide beheerders om de overdracht te controleren.)
-- Controleer of ze alle drie de handtekeningen hebben en gebruik vervolgens de optie **Upload** ingevulde formulier bij de bestaande serviceaanvraag te koppelen. (Een ondersteuningstechnicus van Microsoft neemt binnen acht werkdagen contact met hen op om ontvangst en voltooiing te valideren.)
+- Controleer of ze alle drie de handtekeningen hebben en gebruik vervolgens de optie **Upload** om het ingevulde formulier bij de bestaande serviceaanvraag te koppelen. (Een ondersteuningstechnicus van Microsoft neemt binnen acht werkdagen contact met hen op om ontvangst en voltooiing te valideren.)
 
 #### <a name="step-7-new-partner-removes-old-partner-from-account"></a>Stap 7: nieuwe partner verwijdert oude partner uit account
 
@@ -140,8 +140,8 @@ Get-AzRoleAssignment
 
    **Verouderde toegangsmachtigingen verwijderen:**
 
-   1. Selecteer in Partner Center menu **Klanten**.
-   1. Zoek de klant op in de lijst met klanten.
+   1. Selecteer in Partner Center menu **Klanten.**
+   1. Zoek de klant in de lijst met klanten.
    1. Dubbelklik op de bedrijfsnaam van de klant. De pagina **Abonnementen van de** klant wordt weergegeven.
    1. Selecteer Servicebeheer in het detailmenu **van de klant.**
    1. Selecteer **Microsoft Azure** onder **Microsoft Azure Beheerportal**.
@@ -159,7 +159,7 @@ Microsoft heeft in juli [](/partner-center/azure-plan-lp)2021 een nieuwe commerc
 
 De overgang van de vorige Azure-aanbieding naar het Azure-plan bestaat uit drie fasen:
 
-**Fase 1:** Sinds de introductie van het Azure-plan in juli 2021 zijn alle nieuwe klanten van het Azure CSP-programma op het Azure-plan geplaatst. Partners kunnen de vorige Azure-aanbieding blijven uitvoeren met klanten die deze al hebben aangeschaft.
+**Fase 1:** sinds de introductie van het Azure-plan in juli 2021 zijn alle nieuwe klanten van Azure CSP-programma's op het Azure-plan geplaatst. Partners kunnen de vorige Azure-aanbieding blijven uitvoeren met klanten die deze al hebben aangeschaft.
 
 **Fase 2:** op 1 februari 2022 worden incentives en de kans op marges van partners verwijderd uit de vorige Azure-aanbieding.
 

@@ -1,5 +1,5 @@
 ---
-title: Voeg Azure Partner Shared Services
+title: Een Azure Partner Shared Services
 description: Gebruik Azure Partner Shared Services Om Azure-abonnementen voor eigen gebruik te kopen en om een uniforme methode te hebben voor het kopen, bijhouden en beheren van Azure.
 ms.topic: article
 ms.service: partner-dashboard
@@ -10,23 +10,23 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
 ms.openlocfilehash: 35c5d378f66071f3c97abdf74eec27e78a8ac778
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957328"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246191"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Voeg Azure Partner Shared Services zodat partners Azure-abonnementen voor hun eigen gebruik kunnen kopen
 
 **Juiste rollen:** globale | Beheeragent | Verkoopagent
 
-Azure Partner Shared Services (APSS) is een nieuw aanbiedingstype voor partners in het Cloud Solution Provider-programma (CSP), waardoor partners Azure-abonnementen voor eigen gebruik kunnen aanschaffen.Het biedt partners de mogelijkheid om een uniforme methode te gebruiken voor het kopen, bijhouden en beheren van Azure, naast de mogelijkheid om hun Azure-licentieverlening en verkoopovereenkomsten met Microsoft te consolideren. Met APSS hebben partners nu dezelfde flexibiliteit om Azure-abonnementen in CSP te gebruiken als in de Microsoft Enterprise Agreement- en Web Direct-programma's, om scenario's te openen zoals: ontwikkel- en testomgevingen bouwen, interne workloads implementeren en gedeelde services of toepassingen met meerdere tenants hosten.  
+Azure Partner Shared Services (APSS) is een nieuw aanbiedingstype voor partners in het Cloud Solution Provider-programma (CSP), waardoor partners Azure-abonnementen voor eigen gebruik kunnen aanschaffen.Het biedt partners de mogelijkheid om een uniforme methode te gebruiken voor het kopen, bijhouden en beheren van Azure, naast de mogelijkheid om hun Azure-licentieverlening te consolideren en overeenkomsten voor opnieuw verkopen met Microsoft te consolideren. Met APSS hebben partners nu dezelfde flexibiliteit om Azure-abonnementen in CSP te gebruiken als in de Microsoft Enterprise Agreement- en Web Direct-programma's, door scenario's te openen zoals: ontwikkel- en testomgevingen bouwen, interne workloads implementeren en gedeelde services of toepassingen met meerdere tenants hosten.  
 
 ## <a name="create-the-shared-services-tenant"></a>De tenant voor gedeelde services maken
 
 1. Ga naar **Instellingen**  >  **Accountinstellingen**  >  **Gedeelde services**.
 
-   :::image type="content" source="images/sharedservices2.png" alt-text="Accountinstellingen > Gedeelde services":::
+   :::image type="content" source="images/sharedservices2.png" alt-text="Accountinstellingen > gedeelde services":::
 
 2. Als u nog geen tenant voor gedeelde services hebt, selecteert u **Gedeelde services maken.**
 
@@ -40,13 +40,13 @@ Azure Partner Shared Services (APSS) is een nieuw aanbiedingstype voor partners 
 
 - Het Azure - Interne/gedeelde services is een nieuw Azure-aanbiedingstype in CSP dat toegankelijk is via Partner Center die partners krijgen voor hun eigen gebruik van Azure.
 
-- Azure Partner Shared Services-abonnementen komen in aanmerking en kunnen worden gebruikt voor het kopen van RIs.
+- Azure Partner Shared Services-abonnementen komen in aanmerking en kunnen worden gebruikt om RE's aan te schaffen.
 
 - De Azure - Interne/gedeelde services kan alleen worden toegepast op de tenant voor gedeelde services.
 
 - Het primaire gebruik voor het Azure - Interne/gedeelde services is, zodat u Azure kunt gebruiken voor uw eigen ontwikkelingsdoeleinden. De gedeelde tenant die u gebruikt voor het inrichten van deze aanbieding, kan niet worden gebruikt voor andere services, Office 365 of Dynamics-licenties.
 
-- U kunt het abonnement opzeggen zoals elk ander abonnement. Ga naar de **instellingen Alles weergeven**  >  **instellingen Gedeelde**  >  **services**. Selecteer het Azure - Interne/gedeelde services abonnement en annuleer het.
+- U kunt het abonnement opzeggen zoals elk ander abonnement. Ga naar de **instellingen**  >  **Alles weergeven instellingen** Gedeelde  >  **services**. Selecteer het Azure - Interne/gedeelde services abonnement en annuleer het.
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Toegang tot Azure Partner Shared Services verbruiksgegevens
 

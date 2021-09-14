@@ -7,11 +7,11 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 08/27/2021
 ms.openlocfilehash: d8c55ce8f6a0c5da3bf2f02c899196e8fd6fd2e0
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936880"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244964"
 ---
 # <a name="private-plans-in-azure-marketplace"></a>Persoonlijke abonnementen in Azure Marketplace
 
@@ -24,7 +24,7 @@ Wanneer een partner een privé-abonnement publiceert, is dit alleen zichtbaar vo
 > [!NOTE]
 > Persoonlijke abonnementen zijn doorzoekbaar, maar niet filterbaar (op categorie) in de Azure Portal.
 
-Selecteer in Azure Portal **+ Een resource maken** of zoek naar 'marketplace' om naar de pagina Marketplace **te** gaan. Als u in aanmerking komt voor persoonlijke abonnementen, ziet u bovenaan de pagina de **banner** U hebt privéproducten die beschikbaar zijn. Selecteer **Privéproducten weergeven om** naar de pagina met uw persoonlijke abonnementen te gaan.
+Selecteer in Azure Portal **+ Een resource maken** of zoek naar 'marketplace' om naar de pagina Marketplace **te** gaan. Als u in aanmerking komt voor persoonlijke abonnementen, ziet u de banner **U hebt** privéproducten beschikbaar bovenaan de pagina. Selecteer **Privéproducten weergeven om** naar de pagina met uw persoonlijke abonnementen te gaan.
 
 :::image type="content" source="media/private-offers/private-products-banner.png" lightbox="media/private-offers/private-products-banner.png" alt-text="De banner die wordt weergegeven wanneer u persoonlijke producten beschikbaar hebt.":::
 

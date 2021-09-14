@@ -3,16 +3,16 @@ title: Uitbetalingsgegevens per regio - Commerciële marketplace van Microsoft
 description: Meer informatie over betalingstermijnen en de Microsoft-online winkels waar u betalingen kunt ontvangen. Deze kunnen per land, regio en type uitbetalingsaccount verschillen.
 author: eunjkim520
 ms.author: eunjkim
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-payouts
 ms.topic: conceptual
 ms.date: 02/02/2021
-ms.openlocfilehash: 51b2ca2ce98789b41014597efd695fc61e7cbada
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e0b9479e8d595a90205d789e447e426ea159ffff
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957169"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245687"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Betalingsdrempels, methoden en tijdsbestek
 
@@ -35,7 +35,7 @@ Normaal gesproken verzenden we elke betaling die in een bepaalde maand moet word
 | | |
 
 >[!NOTE]
->Als gevolg van wijzigingen in de wisselkoersen kan het exacte verkoopbedrag enigszins verschillen van de ene valuta naar de andere. Exchange worden maandelijks berekend. Op basis van de tijd waarop uw transactie heeft plaatsgevonden, wordt de juiste wisselkoers toegepast. De wisselkoers en de datumsnelheid waarvoor deze van kracht was, worden aangegeven in uw uitbetalingsrapport in respectievelijk de kolommen exchangeRate en exchangeRateDate.
+>Als gevolg van wijzigingen in de wisselkoersen kan het exacte verkoopbedrag enigszins verschillen van de ene valuta naar de andere. Exchange worden maandelijks berekend. Op basis van het moment waarop uw transactie heeft plaatsgevonden, wordt de juiste wisselkoers toegepast. De wisselkoers en de datumsnelheid waarvoor deze van kracht was, worden aangegeven in uw uitbetalingsrapport in respectievelijk de kolommen exchangeRate en exchangeRateDate.
 
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Betalingswijzen in landen en regio's

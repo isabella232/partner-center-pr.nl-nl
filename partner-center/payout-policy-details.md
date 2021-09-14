@@ -1,22 +1,22 @@
 ---
 title: Uitbetalingsschema's en-processen
 description: Meer informatie over uitbetalingen en transacties, zoals betalingsschema's en recoupmentprocessen voor Azure Marketplace en andere transacties.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-payouts
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 05/25/2021
-ms.openlocfilehash: 417421ad51c30d067ce3eb2189534a391b2951a2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: d30dbc3db4727aac815c37406d36f416b4563f10
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957193"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245695"
 ---
 # <a name="payout-schedules-and-processes"></a>Uitbetalingsschema's en-processen
 
-**Juiste rollen:** Accountbeheerdersaccounts | Globale beheerder
+**Juiste rollen:** Accountbeheerder | Globale beheerder
 
 In dit artikel wordt het betalingsschema van Microsoft beschreven, waar u de status van een uitbetaling kunt vinden en het proces voor niet-betaling door de klant.
 
@@ -26,7 +26,7 @@ In de volgende secties wordt het uitbetalingsproces voor **Enterprise Agreement*
 
 ### <a name="transactions-when-customer-has-an-enterprise-agreement"></a>Transacties wanneer de klant een Enterprise Agreement
 
-Wanneer een klant een product bij Microsoft AppSource of Azure Marketplace koopt met behulp van hun bestaande Microsoft Enterprise Agreement voor transacties, zullen we uitbetalingen uitgeven in de volgende uitbetalingscyclus, 30 dagen na klantfactuur. Transacties waarbij een klant een creditcard gebruikt, hebben een periode van 30 dagen voorafgaand aan uitbetaling.
+Wanneer een klant een product aanschaft bij Microsoft AppSource of Azure Marketplace met behulp van hun bestaande Microsoft Enterprise Agreement voor transacties, zullen we uitbetalingen uitgeven in de volgende uitbetalingscyclus, 30 dagen na klantfactuur. Transacties waarbij een klant een creditcard gebruikt, hebben een periode van 30 dagen voorafgaand aan uitbetaling.
 
 Een uitbetaling vindt vaak plaats voordat Microsoft de betaling van de klant int. Zie [Proces voor niet-betaling door](#process-for-customer-non-payment) de klant hieronder voor de acties die we uitvoeren als de klant Microsoft niet kan betalen, maar we al een uitbetaling hebben uitgegeven.
 
@@ -40,7 +40,7 @@ Een uitbetaling vindt vaak plaats voordat Microsoft de betaling van de klant int
 | Factuur betaald door klant | Microsoft verzamelt betaling van klant | Geen wijziging | **Maand 4 tot en met 12** |
 |
 
-\* Uitbetalingsdatum is in Pacific Standard Time (PST).
+\* De uitbetalingsdatum is in Pacific Standard Time (PST).
 
 :::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Tijdlijn van betalingen voor Enterprise Agreement-klanten.":::
 
@@ -64,7 +64,7 @@ Alle aankopen met een creditcard of maandelijkse factuur hebben een periode van 
 
 ## <a name="process-for-customer-non-payment"></a>Proces voor niet-betaling door klant
 
-In zeldzame gevallen kan Microsoft geen betalingen van klanten innen voor hun aankopen op de commerciële marketplace. Wanneer een klant microsoft niet kan betalen volgens het factureringsschema, beginnen we met het verzamelingsproces. Dit proces duurt ongeveer vier maanden en omvat permanente communicatie van Microsoft. Als er aan het einde van dit proces geen betaling is ontvangen, schrijft Microsoft het bedrag af als niet-af te halen.
+In zeldzame gevallen kan Microsoft geen betalingen van klanten innen voor hun aankopen op de commerciële marketplace. Wanneer een klant microsoft niet kan betalen volgens het factureringsschema, beginnen we met het verzamelingsproces. Dit proces duurt ongeveer vier maanden en omvat permanente communicatie van Microsoft. Als er aan het einde van dit proces geen betaling is ontvangen, schrijft Microsoft het bedrag af als niet-in te zamelijk.
 
 Volgens het uitbetalingsproces dat hier wordt verwoord, heeft Microsoft mogelijk al geld betaald aan uitgevers (u) die uiteindelijk niet kunnen worden opgehaald. Daarom hebben we een proces voor het afstemmen van deze bedragen.
 
@@ -82,7 +82,7 @@ De volgende planning is een voorbeeld:
 | Klant ontvangt bericht over beëindiging | 2/1/2021 | Geen |
 | Einde van het verzamelingsproces/ geld wordt afgeschreven | 2/15/2021 | E-mailmelding die wordt verzonden naar de uitgever dat het bedrag is afgeschreven. |
 | Uitbetaling wordt in mindering gebracht | 01-03-2021 | Publisher ziet een negatieve transactie in Partner Center uitbetalingsoverzicht |
-| Uitbetaling is ingetrokken | 3/15/2021 | Toekomstige uitbetalingen worden weergegeven in Partner Center uitbetalingsoverzicht. Publisher ontvangt geen betaling totdat het saldo niet langer negatief is.  |
+| Uitbetaling is ingehouden | 3/15/2021 | Toekomstige uitbetalingen worden weergegeven in Partner Center uitbetalingsoverzicht. Publisher ontvangt geen betaling totdat het saldo niet langer negatief is.  |
 |||
 
 \* De uitbetalingsdatum is in Pacific Standard Time (PST).

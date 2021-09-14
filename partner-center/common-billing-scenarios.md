@@ -10,15 +10,15 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 8ad05edf9c1d67a5e373fde26bf10a4f6ad50cd6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956899"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245536"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Algemene factureringsscenario's voor CSP-programmapartners die in Partner Center
 
-**Juiste rollen:** beheeragent | Factureringsbeheerder | Helpdeskagent | Verkoopagent
+**Juiste rollen:** beheeragent | Factureringsbeheerders | Helpdeskagent | Verkoopagent
 
 In deze artikelen wordt uitgelegd wat u op uw factuur kunt verwachten nadat u nieuwe abonnementen hebt toevoegen, het aantal licenties aan een abonnement hebt aangepast of een abonnement hebt geannuleerd. Andere [Partner Center factureringstypen,](./billing-basics.md)zoals abonnementen op basis van gebruik en licenties, worden anders gefactureerd.
 
@@ -38,9 +38,9 @@ De factureringsfrequentie van een onlineservice voor een klant wijzigen:
 
 ## <a name="billing-scenarios"></a>Factureringsscenario's
 
-| Type facturering | Scenario's behandeld |
+| Type facturering | Scenario's die worden behandeld |
 | --------------- | ----------------- |
 | [Maandelijkse facturering](common-billing-scenarios-monthly.md) | Het toevoegen van nieuwe abonnementen, het wijzigen van de licentiehoeveelheid en het opschorten van abonnementen. |
 | [Jaarlijkse facturering](common-billing-scenarios-annual.md) | Het toevoegen van nieuwe abonnementen, het toevoegen van licenties vóór uw factureringsdatum, het wijzigen van de licentiehoeveelheid en het opschorten en opnieuw activeren van abonnementen. |
-| [Facturering voor eenmalige en terugkerende aankopen selecteren](common-billing-scenarios-onetime-recurring.md) | Abonnementen kopen, meer abonnementen toevoegen, licenties toevoegen en verwijderen. |
+| [Facturering voor eenmalige en geselecteerde terugkerende aankopen](common-billing-scenarios-onetime-recurring.md) | Abonnementen kopen, meer abonnementen toevoegen, licenties toevoegen en verwijderen. |
 | [Facturering voor SaaS-abonnementen op basis van licenties](common-billing-scenarios-saas.md) | Gratis proefversies voor SaaS-abonnementen (Software as a Service) op basis van licenties. SaaS-abonnementen voor aangepaste meters kopen en annuleren. |

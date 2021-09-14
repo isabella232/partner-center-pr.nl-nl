@@ -10,30 +10,30 @@ ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2d9924b8d361be4237c613467a1d36db29cf7d9e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957280"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244997"
 ---
-# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Aanbiedingen verkopen aan klanten uit het onderwijs en een klant in het onderwijs maken in Partner Center
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Aanbiedingen verkopen aan klanten uit het onderwijs en een onderwijsklant maken in Partner Center
 
 **Juiste rollen:** Globale | Beheeragent | Verkoopagent
 
 ## <a name="create-an-education-customer"></a>Een onderwijsklant maken
 
-In dit artikel wordt uitgelegd hoe u een education-klant maakt in Partner Center en onderwijsproducten aan hen verkoopt. Het bevat ook informatie over het weergeven van de verificatiestatus en het indien nodig opnieuw indienen van de verificatieaanvraag. Onderwijsaanbiedingen zijn **momenteel alleen beschikbaar** voor op licenties gebaseerde services zoals Microsoft 365, Dynamics, Intune enzovoort. Het is niet beschikbaar voor andere typen (softwareabonnementen, permanente software of Azure-producten).
+In dit artikel wordt uitgelegd hoe u een education-klant maakt in Partner Center en onderwijsproducten aan hen verkoopt. Het bevat ook informatie over het weergeven van de verificatiestatus en het indien nodig opnieuw indienen van de verificatieaanvraag. Onderwijsaanbiedingen zijn **momenteel alleen beschikbaar voor op** licenties gebaseerde services zoals Microsoft 365, Dynamics, Intune enzovoort. Het is niet beschikbaar voor andere typen (softwareabonnementen, permanente software of Azure-producten).
 
 > [!IMPORTANT]
 > Microsoft verifieert elke nieuw gemaakte tenant van een education-klant om ervoor te zorgen dat ze gekwalificeerd zijn voor onderwijsaanbiedingen.  Voer de vereiste gegevens zo nauwkeurig en volledig mogelijk in om vertragingen in het verificatieproces te voorkomen.
 
 1. Meld u aan bij Partnercentrum.
 
-2. Selecteer **Klanten** en selecteer vervolgens **Een klant toevoegen.** Selecteer **Education** in **de vervolgkeuze.**  Vul indien nodig de overige accountgegevens in.  Belangrijke velden die het verificatieproces ondersteunen, zijn onder andere:
+2. Selecteer **Klanten** en selecteer vervolgens **Een klant toevoegen.** Selecteer **Education** in **de vervolgkeuzekeuzeronde Speciale kwalificaties.**  Vul indien nodig de overige accountgegevens in.  Belangrijke velden die het verificatieproces ondersteunen, zijn onder andere:
 
    - **Bedrijfsnaam:** VOER NAAM VAN JURIDISCHE ENTITEIT IN - vereist voor verificatie
    - **Land-/regio- en adresregels:** VOER HET VOLLEDIGE E-MAILADRES VAN DE ENTITEIT IN, vereist voor verificatie
-   - **E-mailadres:** voer het e-mailadres in dat eigendom is van de entiteit( geen gratis of on.microsoft.com mail) dat is vereist voor verificatie
+   - **E-mailadres:** voer het e-mailadres in dat eigendom is van de entiteit( geen gratis e-mail of on.microsoft.com mail) dat is vereist voor verificatie
    - **Contactgegevens van de klant:** deze gegevens worden gebruikt als onderdeel van het verificatieproces
    - **Primaire domeinnaam: wordt** gebruikt om het account en de e-mailadressen van de klant te maken.  Kies een naam die vergelijkbaar is met de bedrijfsnaam zonder spaties of speciale tekens.  Deze naam kan later niet meer worden gewijzigd.
 
@@ -47,7 +47,7 @@ In dit artikel wordt uitgelegd hoe u een education-klant maakt in Partner Center
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Bevestig de verificatiestatus van uw onderwijsklant
 
-Zie speciale kwalificatiestatus **op de pagina Account** van de **klant.**
+Zie speciale kwalificatiestatus op **de pagina Account** van de **klant.**
 Statusvoorbeelden:
 
 - Als de klant is geslaagd voor verificatie: Education
@@ -60,7 +60,7 @@ Statusvoorbeelden:
 
 - Als de klant niet is gelabeld als education-klant: Geen
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="education-klant wordt niet als zodanig gelabeld." lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="education-klant wordt niet als zodanig getagd." lightbox="images/edu/account-one-expanded.png":::
 
 - Als de klant wordt beoordeeld als een Education-klant: In beoordeling
 
@@ -72,7 +72,7 @@ Als de eerste verificatie door uw klant mislukt, kunt u de gegevens corrigeren e
 
 ### <a name="correct-the-customer-account-information"></a>Accountgegevens van klant corrigeren
 
-U moet globale beheerdersbevoegdheden hebben om de gegevens van de klant bij te werken. U kunt de gegevens in Office 365 portal bijwerken omdat deze gegevens niet kunnen worden bijgewerkt vanuit Partner Center portal.
+U moet globale beheerdersbevoegdheden hebben om de gegevens van de klant bij te werken. U kunt de gegevens op de Office 365-portal bijwerken omdat deze gegevens niet kunnen worden bijgewerkt vanuit Partner Center portal.
 
 1. Op de **pagina Account** ziet u informatie met de mededeling dat de kwalificatie van de klant wordt beschouwd als 'Geen opleidingsklant'.
 

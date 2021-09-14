@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
 ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957616"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245635"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Gegevens verzamelen over hoe goed uw klanten en Azure-abonnementen het doen
 
@@ -24,7 +24,7 @@ ms.locfileid: "123957616"
 
 Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegevens op de **Azure-gebruikspagina** om uw successen en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.
 
-Als u het **Azure-gebruik wilt bekijken,** moet u zich aanmelden Partner Center [dashboard](https://partner.microsoft.com/dashboard). Selecteer **Analytics** in het Partner Center menu en selecteer vervolgens **Azure-gebruik.**
+Meld u aan bij het dashboard om naar het **Azure-gebruik** Partner Center [gaan.](https://partner.microsoft.com/dashboard) Selecteer **Analytics** in het Partner Center menu en selecteer vervolgens **Azure-gebruik.**
 
 > [!NOTE]
 > Azure-gebruiksanalyse is alleen beschikbaar voor partners in het Cloud Solution Provider programma.
@@ -49,7 +49,7 @@ In deze sectie wordt het voorspelde verlooprisico voor Azure-abonnementen aangeg
 
 - Lijst met specifieke abonnementen zonder Azure-gebruik in de opgegeven periode  
 
-## <a name="azure-subscription-churn"></a>Azure-abonnementsverloop
+## <a name="azure-subscription-churn"></a>Verloop van Azure-abonnement
 
 - **Actieve abonnementen:** aantal actieve abonnementen op datum  
 - **Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date (Aantal abonnementen dat is gedeprovisioneerd of opgeschort op datum)  
@@ -64,4 +64,4 @@ In deze sectie wordt het voorspelde verlooprisico voor Azure-abonnementen aangeg
 
  ## <a name="next-steps"></a>Volgende stappen
 
-- [Het Azure-abonnement kopen voor klanten & nieuwste Azure-services te gebruiken tegen tarieven voor betalen per gebruik](purchase-azure-plan.md)
+- [Het Azure-abonnement kopen voor klanten & toegang tot de nieuwste Azure-services tegen betalen per gebruik-tarieven](purchase-azure-plan.md)

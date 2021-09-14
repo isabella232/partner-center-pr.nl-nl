@@ -10,11 +10,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957613"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244951"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>De status van uw oplossingsevaluaties-kans vinden op CHIP
 
@@ -30,7 +30,7 @@ Zorg ervoor dat uw deal de in aanmerking komende verkoopfase heeft bereikt en is
 1. Typ of **plak in** het veld Opportunity ID het id-nummer van de kans.
 3. Klik op Zoeken.
 
-1. Klik **op Weergave** onder de kolom **POE** om de details van de kans weer te geven. Controleer de status van de kans. Als de mogelijkheid de status **Indienen** heeft, moeten de POE-documenten (Proof of Execution) worden ingediend om verder te kunnen gaan in het betalingsproces.
+1. Klik **op Weergave** onder de kolom **POE** om de details van de kans weer te geven. Controleer de status van de kans. Als de mogelijkheid de status **Verzenden** heeft, moeten de POE-documenten (Proof of Execution) worden ingediend om verder te kunnen gaan in het betalingsproces.
  
 1. Klik op de koppeling Bewerken om te controleren of alle POE-documenten zijn geüpload. Let op als er EEND is geüpload en het vak EM-goedkeuring is ingeschakeld.
  

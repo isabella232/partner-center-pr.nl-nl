@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2b79943185cbd940b164508ee8ac14203ddeccb8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956908"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244837"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Meer informatie over belastingen en belastingvrijstellingsgegevens per regio of land voor partners in het CSP-programma
 
@@ -33,17 +33,17 @@ Zie de informatie voor andere regio's als u zich in een ander land of een andere
 
 ### <a name="canada"></a>Canada
 
-De meeste wederverkopers zijn niet vrijgesteld van btw voor goederen en diensten (GST)/verkoopbelasting (HST)/Quebec sales tax (QST). Neem contact op met uw belastingadviseur om te bepalen of u in aanmerking komt voor uitzondering en welke documentatie u aan Microsoft moet verstrekken. De belasting wordt weergegeven in twee afzonderlijke regels voor Canada: GST/HST en PST/QST.
+De meeste wederverkopers zijn niet uitgesloten van btw voor goederen en diensten (GST)/verkoopbelasting (HST)/Quebec sales tax (QST). Neem contact op met uw belastingadviseur om te bepalen of u in aanmerking komt voor uitzondering en welke documentatie u aan Microsoft moet verstrekken. De belasting wordt weergegeven in twee afzonderlijke regels voor Canada: GST/HST en PST/QST.
 
 Voor een PST-vrijstelling (BC sales tax) moet u een belastingvrijstelling indienen zoals beschreven. Geef uw BC PST# of een voltooid en ondertekend certificaat *van Uitzondering Algemeen op.*
 
 ### <a name="united-states"></a>Verenigde Staten
 
-Alle resellers in de Verenigde Staten moeten binnen 30 dagen na het accepteren van de Microsoft Reseller-overeenkomst documentatie over btw-vrijstelling bieden. Elke staat heeft verschillende uitzonderingscertificaten voor de certificaten. Werk samen met uw belastingadviseur om te bepalen wat relevant is voor uw juridische adres en geregistreerde staten.
+Van alle resellers in de Verenigde Staten wordt verwacht dat ze binnen 30 dagen na het accepteren van de Microsoft Reseller-overeenkomst documentatie over btw-vrijstelling bieden. Elke staat heeft verschillende uitzonderingscertificaten voor de certificaten. Werk samen met uw belastingadviseur om te bepalen wat relevant is voor uw juridische adres en geregistreerde staten.
 
 In de Verenigde Staten, met inbegrip van Moet u de btw voor verkoop en gebruik afzonderlijk opnnen.  Met ingang van augustus 2021 wordt de belasting op Microsoft-factuur afzonderlijk vermeld, tenzij anders vermeld.  Bovendien wordt de Belasting voor Den Staten afzonderlijk vermeld op het niveau van de spelen en het niveau van de belastingen als Btw en Btw.
 
-Dit kan bijvoorbeeld het verlenen van vrijstellingscertificaten  zijn die in meerdere staten werken, zoals het Certificaat voor verkoop stroomlijnen en tax *agreement-vrijstelling* gebruiken of het *MTC Uniform Sales & Use Tax Exemption Certificate*.
+Dit kan het volgende omvatten: vrijstellingscertificaten  die in meerdere staten werken, zoals het Certificaat voor verkoop stroomlijnen en Tax *Agreement-certificaat* van vrijstelling gebruiken of het *MTC Uniform Sales & Use Tax Exemption Certificate*.
 
 ### <a name="other-regions"></a>Andere regio's
 

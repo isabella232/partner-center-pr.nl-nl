@@ -3,24 +3,24 @@ title: Een Azure-abonnement van een Azure-plan overdragen naar een andere CSP-pa
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Meer informatie over het wijzigen van Cloud Solution Provider programmapartner die is gekoppeld aan de Azure-abonnementen van een klant onder een Azure-abonnement.
+description: Meer informatie over het wijzigen van Cloud Solution Provider programmapartner die is gekoppeld aan de Azure-abonnementen van een klant onder een Azure-plan.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/21/2021
 ms.openlocfilehash: 14f03a8eb899f7224a38b0f998edd72077b34b3b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957475"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244714"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-csp-under-an-azure-plan"></a>De Azure-abonnementen van een klant overdragen naar een andere CSP (onder een Azure-plan)
 
-**Juiste rollen:** Accountbeheerdersaccounts | Verkoopagent | Factureringsagent
+**Juiste rollen:** Accountbeheerder | Verkoopagent | Factureringsagent
 
-In dit artikel wordt beschreven hoe klanten hun Azure-abonnementen kunnen wijzigen van de ene partner in het Cloud Solution Provider-programma (CSP) naar een andere, onder een Azure-plan.
+In dit artikel wordt beschreven hoe klanten hun Azure-abonnementen kunnen wijzigen van de ene partner in het Cloud Solution Provider(CSP)-programma naar een andere, onder een Azure-plan.
 
 Volg deze stappen om de Azure-abonnementen van een klant over te schakelen van een andere partner. De huidige partner, de toekomstige partner en de klant hebben allemaal de stappen die moeten worden voltooid.
 
@@ -38,7 +38,7 @@ De klant moet communiceren met zowel de huidige als de toekomstige partner voord
 - Facturering en facturering worden verplaatst naar de toekomstige partner wanneer het abonnement wordt overgedragen.
 - Op rollen gebaseerd toegangsbeheer (RBAC) van Azure wordt niet beïnvloed door overdrachten.
 - Beheerder namens (AOBO) wordt niet standaard verleend aan de toekomstige partner.
-- Producten van derden Azure Marketplace overdragen zolang de producten voldoen aan de Azure Marketplace geschiktheidscontrole.
+- Producten van Azure Marketplace worden overgeplaatst zolang de producten voldoen aan Azure Marketplace geschiktheidscontrole.
     - Er zijn geen speciale kortingen of regionale beperkingen.
     - De producten zijn niet gebaseerd op een abonnement.
     - De toekomstige partner moet samenwerken met de uitgever om ervoor te zorgen dat de uitgever op de toegestane lijst staat voor implementatie van het product.
@@ -57,7 +57,7 @@ De klant moet communiceren met zowel de huidige als de toekomstige partner voord
 
 ## <a name="customer-tasks"></a>Klanttaken
 
-Als u Azure-abonnementen wilt overdragen, moet de klant het proces starten door contact op te nemen met de huidige partner. De klant moet de bedrijfsnaam en Microsoft-id van de huidige partner verzamelen, zodat de toekomstige partner het formulier voor de overdracht namens de klant kan invullen.
+Als u Azure-abonnementen wilt overdragen, moet de klant het proces starten door contact op te nemen met de huidige partner. De klant moet de bedrijfsnaam en Microsoft-id van de huidige partner verzamelen, zodat de toekomstige partner namens de klant het formulier voor de overdrachtsaanvraag kan invullen.
 
 Klanten moeten ook de abonnementen identificeren die ze willen overdragen van de huidige partner. U kunt geen partners wijzigen voor Office 365, Enterprise Mobility Suite of Microsoft Dynamics CRM abonnementen.
 
@@ -91,7 +91,7 @@ De toekomstige partner van het abonnement moet een overdrachtsaanvraagformulier 
 
 De beheerderagent van de huidige partner voor de klant ontvangt een e-mail met de mededeling dat een klant een overdracht van abonnementen aanvraagt:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Schermopname met een e-mailmelding van een klantaanvraag voor overdracht.":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Schermopname van een e-mailmelding van een klantaanvraag voor overdracht.":::
 
 De huidige partner moet het formulier voor de overdrachtsaanvraag van de Partner Center om de abonnementsoverdracht te voltooien.
 

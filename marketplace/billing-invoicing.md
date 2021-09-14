@@ -7,11 +7,11 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 05/04/2021
 ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936837"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244855"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace en facturering beheren
 
@@ -19,7 +19,7 @@ In dit artikel worden facturerings- en factureringsgegevens voor Azure Marketpla
 
 ## <a name="microsoft-supports-multiple-currencies"></a>Microsoft ondersteunt meerdere valuta's
 
-Azure Marketplace zijn geprijsd en gefactureerd in deze 17 valuta's:
+Azure Marketplace-aanbiedingen worden in deze 17 valuta's gefactureerd en gefactureerd:
 
 - Australische dollar (AUD)
 - Braziliaans real (BRL)
@@ -33,7 +33,7 @@ Azure Marketplace zijn geprijsd en gefactureerd in deze 17 valuta's:
 - Koreaans gewonnen (KRW)
 - Nieuw-Zeelandse dollar (NZD)
 - Noors kronen (NOK)
-- Russisch(WASE)
+- Russisch-2017 (RUSSIAN)
 - Zweeds kronen (SEK)
 - Franeke (CHF)
 - Amerikaanse dollar (TWD)
@@ -49,11 +49,11 @@ U wordt gefactureerd voor uw terugkerende aankopen in de periode waarin u deze h
 > De serviceperiode is de periode waarvoor u hebt betaald om de service te gebruiken. De service wordt automatisch verlengd op de en van de serviceperiode, tenzij u vooraf annuleert.
 
 > [!NOTE]
-> We passen de factureringsperiode (of de laatste dag van de factureringsmaand) aan als de verlengingsdatum van de maand niet gelijk kan zijn aan de aankoopmaand. Dit betekent dat als u zich op 31-1-2017 zou abonneren, de einddatum van de facturering wordt aangepast naar 2/27, met de verlengingsdatum respectievelijk 2/28 (2/28 en 2/29, als u begint in een leap-jaar).
+> We passen de factureringsperiode (of de laatste dag van de factureringsmaand) aan als de verlengingsdatum van de maand niet gelijk kan zijn aan de aankoopmaand. Dit betekent dat als u zich op 31-1-201 zou abonneren, de einddatum van de facturering wordt aangepast naar 2/27, met de verlengingsdatum respectievelijk 2/28 (2/28 en 2/29, als u begint in een leap-jaar).
 
 ## <a name="invoices"></a>Facturen
 
-U ontvangt aan het begin van elke kalendermaand een e-mail wanneer uw factuur beschikbaar is in de Azure Portal. Op uw factuur worden alle gratis en betaalde aanbiedingen vermeld die u hebt aangeschaft en/of verbruikt tijdens de kalendermaand. Als u alleen gratis aanbiedingen hebt, ziet u alleen regelitems van $ 0 en hoeft u geen betalingsactie uit te voeren. **Enterprise Agreement ontvangen** een gecombineerde factuur met zowel Azure- als Azure Marketplace kosten (met uitzondering van klanten in Australië, Japan en Singapore). **Klanten die rechtstreeks vanuit Azure Marketplace,** ontvangen alleen een factuur voor Azure Marketplace aankopen. Zie Facturen voor [MOSP-accounts voor meer informatie.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)
+U ontvangt aan het begin van elke kalendermaand een e-mail wanneer uw factuur beschikbaar is in de Azure Portal. Op uw factuur worden alle gratis en betaalde aanbiedingen vermeld die u hebt aangeschaft en/of verbruikt tijdens de kalendermaand. Als u alleen gratis aanbiedingen hebt, ziet u alleen regelitems van $ 0 en hoeft u geen betalingsactie uit te voeren. **Enterprise Agreement ontvangen** een gecombineerde factuur met zowel Azure- als Azure Marketplace-kosten (met uitzondering van klanten in Australië, Japan en Singapore). **Klanten die rechtstreeks vanuit Azure Marketplace,** ontvangen alleen een factuur voor Azure Marketplace aankopen. Zie Facturen voor [MOSP-accounts voor meer informatie.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)
 
 Wanneer u uw factuur ontvangt, varieert het volgende:
 
@@ -67,4 +67,4 @@ Zie Meer informatie over uw externe [Azure-servicekosten](/azure/cost-management
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Wat is Azure Marketplace?](azure-marketplace-overview.md)
-- [Azure Marketplace kopen](azure-purchasing-invoicing.md)
+- [Azure Marketplace aanschaffen](azure-purchasing-invoicing.md)

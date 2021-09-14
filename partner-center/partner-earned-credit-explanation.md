@@ -10,19 +10,19 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3583614b1bf89a3c9297f123f12355b8a2ad7d1e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956857"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244886"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hoe het verdiende tegoed van de partner wordt berekend en betaald
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Factureringsbeheerder | Verkoopagent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Factureringsbeheerders | Verkoopagent
 
 Partner earned credit (PEC) for managed services recognizes and rewards partners who own IT operational control and management of some or all of a customers's Azure environment. 
 
-Als CSP-partner krijgt u standaard de benodigde toegangsrechten voor het abonnement van uw klant, zodat u operationeel beheer en beheer kunt uitvoeren van de resources in het abonnement. Andere manieren waarop klanten toegang voor partners kunnen inrichten, wordt beschreven in de volgende sectie.
+Als CSP-partner krijgt u standaard de benodigde toegangsrechten voor het abonnement van uw klant, zodat u operationeel beheer en beheer van de resources in het abonnement kunt uitvoeren. Andere manieren waarop klanten toegang voor partners kunnen inrichten, wordt beschreven in de volgende sectie.
 
 Het maandelijkse factuurbedrag is het nettobedrag van het tegoed van de partner. U kunt de details van PEC bekijken in uw maandelijkse recon-bestand. Zie de volgende artikelen voor aanvullende manieren waarop een klant toegang kan inrichten voor de transacting partner:
 
@@ -34,9 +34,9 @@ Het maandelijkse factuurbedrag is het nettobedrag van het tegoed van de partner.
 Voor het ontvangen van partnertegoed (PEC) gelden de volgende vereisten:
 
 - U moet een actieve MPN-overeenkomst en een geldige [RBAC-rol](/azure/role-based-access-control/overview) (role-based [access control)](azure-roles-perms-pec.md) hebben.
-- U moet beheerdersbevoegdheden [namens (AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) hebben voor het Azure-abonnement, de Azure-resourcegroep of de Azure-resource van de klant, of een geldige [RBAC-rol.](azure-roles-perms-pec.md)
+- U moet beheerdersbevoegdheden namens [(AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) hebben voor het Azure-abonnement, de Azure-resourcegroep of de Azure-resource van de klant, of een geldige [RBAC-rol.](azure-roles-perms-pec.md)
 - In het geval van indirecte providers en hun indirecte resellers komt een indirecte provider in aanmerking voor PEC als de indirecte provider of de indirecte reseller ofwel AOBO-bevoegdheden of een in aanmerking komende RBAC-rol hebben. Zie Beheerdersbevoegdheden voor Azure CSP [herstellen voor meer informatie.](revoke-reinstate-csp.md)
-- De MPN-id van de partner moet behoren tot dezelfde v-org als de MPN-id van de koper of de MPN-id van Partner of Record (MPN). Zie [Uw partner-id koppelen om de impact op gedelegeerde resources te volgen](/azure/lighthouse/how-to/partner-earned-credit) voor meer informatie.
+- De MPN-id van de partner moet deel uitmaken van dezelfde v-org als de MPN-id van de koper of de MPN-id van Partner of Record (MPN). Zie [Uw partner-id koppelen om de impact op gedelegeerde resources te volgen](/azure/lighthouse/how-to/partner-earned-credit) voor meer informatie.
 - PEC wordt verdiend op Azure-resourceniveau, resourcegroep of abonnement. Als een partner geldige toegang heeft op het niveau van het abonnement of de resourcegroep, verdient elke resource die wordt geworpen naar de hogere entiteit PEC.
 - PEC is niet van toepassing op de volgende services:
     - Reserveringen voor Azure-plannen
@@ -52,9 +52,9 @@ Zie Rollen en machtigingen die zijn vereist om partnertegoed te verdienen voor m
 
 ## <a name="calculation"></a>Berekening
 
-PEC wordt dagelijks berekend. U wordt betaald voor elke dag dat u voor PEC in aanmerking komt voor toegang tot elk abonnement. Hoewel PEC-gegevens niet op uw maandelijkse factuur worden weergegeven, worden de PEC-inkomsten in de aangepaste nettokostenregel in de factuur meegenomen. U vindt meer PEC-gegevens over het [dagelijkse gebruiksbestand](daily-rated-usage-recon-files.md) en in het maandelijkse factuur recon-bestand.
+PEC wordt dagelijks berekend. U wordt betaald voor elke dag dat u voor PEC in aanmerking komt voor toegang tot elk abonnement. Hoewel PEC-gegevens niet op uw maandelijkse factuur worden weergegeven, worden de PEC-inkomsten in de aangepaste nettokostenregel in de factuur meegenomen. U vindt meer PEC-gegevens over het [dagelijkse gebruiksbestand](daily-rated-usage-recon-files.md) en in het maandelijkse factuur reconbestand.
 
-:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Schermopname van een Partner Center-afstemmingsbestand dat kolommen identificeert." border="false":::
+:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Schermopname van een Partner Center afstemmingsbestand dat kolommen identificeert." border="false":::
 
 In de onderstaande tabel worden de PEC-elementen beschreven die zijn gevonden in het maandelijkse factuur reconbestand. Alle waarden zijn in USD, zoals wordt weergegeven in de kolom AI, PricingCurrency.
 
@@ -104,7 +104,7 @@ In de weergave Kostenanalyse worden de kosten voor uw factureringsaccount weerge
 U kunt ook groeperen op en filteren op de eigenschap **PartnerEarnedCreditApplied** met behulp van de filterfuncties **Groeperen op** **en** Toevoegen. Op deze manier kunt u inzoomen op kosten met PEC en de kosten die geen PEC hebben toegepast.
 
 ## <a name="how-is-pec-paid"></a>Hoe wordt PEC betaald?
-PEC-inkomsten worden in rekening gebracht in de aangepaste nettokostenregel binnen de factuur. Het **totaal** van de hieronder weergegeven factuur illustreert dit. Zie het maandelijkse factuurafstemmingsbestand en het dagelijks beoordeelde gebruiksbestand van Azure voor meer informatie over correcties.
+PEC-inkomsten worden in rekening gebracht op de aangepaste nettokostenregel binnen de factuur. Het **totaal** van de hieronder weergegeven factuur illustreert dit. Zie het maandelijkse factuurafstemmingsbestand en het dagelijks beoordeelde gebruiksbestand van Azure voor meer informatie over correcties.
 
 :::image type="content" source="images/advanced-specializations/invoice.png" alt-text="Schermopname van een Partner Center met de melding dat de details van de aanpassing worden weergegeven in recon- en dagelijkse gebruiksbestanden van Azure." border="false":::
 

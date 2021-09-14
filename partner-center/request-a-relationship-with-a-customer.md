@@ -9,11 +9,11 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956992"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246204"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Een wederverkoper-relatie aanvragen bij een klant in het Partner Center
 
@@ -24,7 +24,7 @@ Als u de service of het abonnement van een klant namens hen wilt beheren, moet d
 Als u een resellerrelatie met een klant tot stand wilt brengen en alleen de Azure-abonnementen wilt beheren die u inrichten, hoeft u geen beheerdersmachtigingen te verkrijgen.
 
 >[!NOTE] 
->De optie om geen machtigingen aan te vragen is niet beschikbaar voor partners die werken in Microsoft Cloud for US Government of Microsoft Cloud Duitsland. Zie Klanten delegeren beheerbevoegdheden aan [partners voor meer informatie.](customers-revoke-admin-privileges.md)
+>De optie om geen machtigingen aan te vragen is niet beschikbaar voor partners die in Microsoft Cloud for US Government of Microsoft Cloud Duitsland werken. Zie Klanten delegeren beheerbevoegdheden aan [partners voor meer informatie.](customers-revoke-admin-privileges.md)
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Een klant uitnodigen om een resellerrelatie met u tot stand te stellen
 
@@ -52,7 +52,7 @@ U kunt een resellerrelatie met een klant aanvragen vanuit uw land of in dezelfde
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Wijzigingen in de gebruikersuitnodigingservaring
 
-De klantervaring voor het accepteren van een uitnodiging voor een resellerrelatie van een Cloud Solution Provider -partner (CSP) wordt gehost door verschillende klantgerichte portals. De locatie van de portal is afhankelijk van of een klant zich in een openbare cloud van Microsoft of een nationale cloud bevindt:
+De klantervaring voor het accepteren van een uitnodiging voor een resellerrelatie van een Cloud Solution Provider-partner (CSP) wordt gehost door verschillende klantgerichte portals. De locatie van de portal is afhankelijk van of een klant zich in een openbare cloud van Microsoft of een nationale cloud bevindt:
 
 |Typen cloudklanten  | Waar accepteert een klant een uitnodiging voor een resellerrelatie? |
 |---------|---------

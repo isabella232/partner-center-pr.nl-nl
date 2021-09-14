@@ -9,11 +9,11 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
 ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957696"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244913"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Documenten maken en verzenden voor uw incentives proof of execution (PoE)
 
@@ -51,7 +51,7 @@ Voordat u wordt betaald voor uw incentives-werk, moet u een gedetailleerd bewijs
 9. Wanneer u klaar bent, selecteert u **Claim maken**.
 
 10. Upload een van de volgende twee documenten op de pagina **Factuur- en onkostengegevens**:
-    - **Factuur van derden**  Selecteer in **het veld Factuur van derden** de optie Bestanden slepen of bladeren om te **uploaden.** Voeg de factuur en de vereiste factuurgegevens toe en selecteer vervolgens **Opslaan.**
+    - **Factuur van derden**  Selecteer in **het veld Factuur van derden** de optie Bestanden slepen of bladeren om te **uploaden.** Voeg de factuur en de vereiste factuurgegevens toe en selecteer **opslaan.**
     - **Rapport certificeringsservice**  Selecteer **Certificeringsservicerapport toevoegen.** Vul op **de pagina Een certificeringsservicerapport** genereren de vereiste velden in en selecteer **Opslaan.**
 
 11. U kunt indien nodig **ook Bewijsdocumenten** uploaden. Selecteer in **het veld Documenten bewijs** de optie Bestanden slepen of bladeren om te **uploaden.** Als u Bewijsdocumenten selecteert, moet u verklarende opmerkingen toevoegen. Als u dat hebt gedaan, selecteert u **Opslaan**.

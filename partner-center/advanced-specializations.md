@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3ed73b67b38eba1793e79908223810cda25b2201
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957139"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245659"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Een geavanceerde specialisatie verdienen om uw gevalideerde mogelijkheden te laten zien
 
@@ -45,7 +45,7 @@ Elke geavanceerde specialisatie komt overeen met een oplossingsgebied:
 - Analyse op Microsoft Azure
 - Migratie van Data Warehouse naar Microsoft Azure
 - Kubernetes in Microsoft Azure
-- Migratie van Linux- en open source-databases naar Microsoft Azure
+- Migratie van Linux- en opensourcedatabases naar Microsoft Azure
 - Microsoft Windows Virtual Desktop
 - Modernisering van webtoepassingen voor Microsoft Azure
 - SAP in Microsoft Azure
@@ -60,7 +60,7 @@ Elke geavanceerde specialisatie komt overeen met een oplossingsgebied:
 
 **Business Applications** geavanceerde specialisaties zijn onder andere:
 
-- Ontwikkeling van toepassingen met weinig code
+- Toepassingsontwikkeling met weinig code
 - Small and Midsize Business Management
 
 **Geavanceerde specialisaties** voor Modern Work zijn onder andere:

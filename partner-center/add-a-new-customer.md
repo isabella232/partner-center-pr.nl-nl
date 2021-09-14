@@ -10,15 +10,15 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 7995ee8f4da20d80fd260bcb77665e244e448227
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: HT
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956998"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244811"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Een nieuwe klantrecord toevoegen in Partner Center
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent
 
 In dit artikel wordt beschreven hoe u een nieuwe klant toevoegt aan Partner Center. Deze stappen zijn vereist voordat u abonnementen kunt verkopen, facturering kunt beheren of ondersteuning kunt bieden aan een klant.
 
@@ -26,12 +26,12 @@ In dit artikel wordt beschreven hoe u een nieuwe klant toevoegt aan Partner Cent
 
 **Wanneer u een nieuwe klantrecord toevoegt in Partner Center:**
 
-- **Gebruik de juiste registratie-id:** bij het invoeren van uw bedrijfsregistratie-id moet u uw zakelijke btw-id gebruiken en niet het persoonlijke id van de klant.
+- **Gebruik de juiste registratie-id:** bij het invoeren van uw bedrijfsregistratie-id moet u uw zakelijke btw-id gebruiken en niet de persoonlijke id van de klant.
 
 - **Voer aanvullende informatie in voor** sommige landen: de registratie-id en het telefoonnummer van het bedrijf zijn vereist voor sommige landen als u een directe factuurpartner of een indirecte provider bent [](#company-registration-id-and-phone-number-required-for-some-countries)
 - **Bevestig Microsoft-klantovereenkomst:** voordat u namens een klant een order kunt plaatsen, moet u bevestigen dat de klant de [Microsoft-klantovereenkomst.](confirm-customer-agreement.md)
-- **** Verschillende stappen gebruiken voor bestaande klanten: voor bestaande klanten, met inbegrip van [](multichannel.md) klanten die al klantrecords in Partner Center via een [scenario](multipartner.md) met meerdere kanalen of meerdere klanten [hebben,](request-a-relationship-with-a-customer.md)kunt u een relatie met hen aanvragen in plaats van de stappen hier te volgen.
-- **Voer gedetailleerde, nauwkeurige klantgegevens in:** om de klantverificatie, moet u ervoor zorgen dat u:
+- **** Gebruik verschillende stappen voor bestaande klanten: voor bestaande klanten, met inbegrip [](multichannel.md) van klanten die al klantrecords in Partner Center hebben via een [scenario](multipartner.md) met meerdere kanalen of meerdere [partner,](request-a-relationship-with-a-customer.md)kunt u een relatie met hen aanvragen in plaats van de stappen hier te volgen.
+- **Voer gedetailleerde, nauwkeurige klantgegevens in:** zorg ervoor klantverificatie u het volgende kunt doen:
   - Voer de exacte juridische/officiële naam in zoals deze in de officiële documenten wordt weergegeven.
   - Vermijd het gebruik van acroniemen of korte formulieren.
   - Gebruik geen testnamen.
@@ -42,25 +42,25 @@ In dit artikel wordt beschreven hoe u een nieuwe klant toevoegt aan Partner Cent
 Vanaf 22 september 2021 zijn de volgende nieuwe validatieregels van toepassing.
 
 Bij het invoeren van een bedrijfsnaam is het volgende niet toegestaan:
-- Gebruik slechts één teken.
-- Alleen speciale tekens gebruiken, zoals &$^# (zie [de onderstaande](#table-of-special-characters) tabel).
+- Met slechts één teken.
+- Gebruik alleen speciale tekens, zoals &$^# (zie [de onderstaande](#table-of-special-characters) tabel).
 - Alleen spaties en/of tabbladen gebruiken.
-- Zelfstandige afkortingen uit de beperkte lijst gebruiken, zoals LLC, Inc, enzovoort (zie [de onderstaande](#table-of-abbreviations) tabel).
+- Zelfstandige afkortingen gebruiken uit de beperkte lijst, zoals LLC, Inc, enzovoort (zie [de onderstaande](#table-of-abbreviations) tabel).
 - Namen gebruiken met TDL-extensies (Internet Top-Level Domain), zoals '.com', '.org', '.edu', '.club', enzovoort [(zie](#table-of-top-level-domain-extensions) de onderstaande tabel).
 
-- Het gebruik van hetzelfde teken heeft drie of meer keren herhaald zonder andere tekens, zoals 999.
+- Het gebruik van hetzelfde teken herhaalde drie of meer keren zonder andere tekens, zoals 999.
 
-- Spaties en/of tabbladen gebruiken die zijn gemengd met afzonderlijke tekens, zoals 1 2 3.
+- Het gebruik van spaties en/of tabbladen gemengd met afzonderlijke tekens, zoals 1 2 3.
 
 Bij het invoeren van een e-mailadres van de klant is het volgende niet toegestaan:
 
-- Het e-mailadres mag geen @microsoft.com bevatten.
-- Het e-mailadres van de klant mag niet dezelfde domeinnaam bevatten als de partner. Een partner met de naam ABC kan bijvoorbeeld geen e-mail van een klant maken met @abc.com .
+- Het e-mailadres mag niet @microsoft.com bevatten.
+- Het e-mailadres van de klant mag niet dezelfde domeinnaam bevatten als de partner. Een partner met de naam ABC kan bijvoorbeeld geen klant-e-mail maken met @abc.com .
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Een nieuwe klant toevoegen in het Partner Center
 
 1. Selecteer in Partner Center menu **Klanten** en selecteer vervolgens Klant **toevoegen.**
-2. Als uw klant een onderwijsinstelling is, [bekijkt u hoe u een klant voor deductie maakt.](sell-to-education-customers.md)
+2. Als uw klant een onderwijsinstelling is, [bekijkt u hoe u een klant voor eductie maakt.](sell-to-education-customers.md)
 
 3. Voer op **de pagina Accountgegevens** de details en primaire contactgegevens van de klant in.
    >[!IMPORTANT]
@@ -68,20 +68,20 @@ Bij het invoeren van een e-mailadres van de klant is het volgende niet toegestaa
    >
    >Ik bevestig dat mijn organisatie als indirecte partner optreedt bij het kiezen van een reseller en als directe partner als er geen reseller wordt geselecteerd
    >
-   >Ik bevestig dat ik geen producten die in deze bestelling zijn gekocht, opnieuw verkoop aan andere partners die zijn gelieerd aan mijn bovenliggende organisatie
+   >Ik bevestig dat ik geen producten die in deze bestelling zijn gekocht, opnieuw verkoop aan andere partners die zijn verbonden met mijn bovenliggende organisatie
 
    >[!NOTE]
    >Volgens de staatswetgeving van de EU/EFTA moeten partners die transacties in deze landen hebben, extra resellers declareeren die zijn gekoppeld aan een transactie. De volgende regels zijn van toepassing:
    >- Er moet een eerste reseller worden gekozen vóór eventuele extra resellers
-   >- Aanvullende resellers hebben geen recht op extra incentives, aanbiedingen, enzovoort.
-   >- Aanvullende ingevoerde verkoper wordt gevalideerd om ervoor te zorgen dat de juiste MPN-id wordt ingevoerd, indien van toepassing, en dat de reseller de MPA heeft ondertekend.
+   >- Extra resellers hebben geen recht op extra incentives, aanbiedingen, enzovoort.
+   >- Aanvullende ingevoerde verkopers worden gevalideerd om ervoor te zorgen dat de juiste MPN-id wordt ingevoerd, indien van toepassing, en dat de wederverkoper de MPA heeft ondertekend.
    >- Er kunnen maximaal vijf extra resellers worden ingevoerd als onderdeel van de transactie 
 
 4. Als u een indirecte provider bent, selecteert u de indirecte reseller die u wilt koppelen aan de abonnementen van deze klant in de lijst.
 
-5. Wanneer u klaar bent met het invoeren van de vereiste gegevens, selecteert u **Volgende: Abonnementen.**
+5. Wanneer u klaar bent met het invoeren van de vereiste gegevens, **selecteert u Volgende: Abonnementen.**
 
-6. Selecteer op **de pagina** Abonnementen de aanbieding(en) die uw klant bij u wil kopen, voer het aantal licenties in en selecteer **volgende: Controleren.**
+6. Selecteer op **de pagina** Abonnementen de aanbieding(en) die uw klant van u wil kopen, voer het aantal licenties in en selecteer vervolgens **Volgende: Controleren.**
 
 7. Controleer op **de** pagina Controleren uw vermeldingen op nauwkeurigheid en selecteer vervolgens **Verzenden.**
 
@@ -89,13 +89,13 @@ Bij het invoeren van een e-mailadres van de klant is het volgende niet toegestaa
 
 ## <a name="company-registration-id-and-phone-number-required-for-some-countries"></a>Bedrijfsregistratie-id en telefoonnummer vereist voor sommige landen
 
-Partners voor directe factuur en indirecte providers die records toevoegen voor klanten in de volgende landen, moeten ook het telefoonnummer en de registratie-id van het bedrijf invoeren (ook wel de ORGANISATIE-INN genoemd):
+Partners voor directe factuur en indirecte providers die records toevoegen voor klanten in de volgende landen, moeten ook het bedrijfstelefoonnummer en de registratie-id (ook wel de ORGANISATIE-INN genoemd) invoeren:
 
-2016, 2016, 2016, 2016, 2.000.000.000.000.
+100, 100, 100, 100, 100, 100, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016.
 
 ## <a name="company-name-and-email-characters-abbreviations-and-extensions"></a>Bedrijfsnaam en e-mailtekens, afkortingen en extensies
 
-In de volgende tabellen worden de items vermeld die worden vermeld in [de bovenstaande sectie](#new-rules-for-company-name-and-email-address) met nieuwe regels.
+In de volgende tabellen worden de items vermeld die worden vermeld in [de bovenstaande sectie](#new-rules-for-company-name-and-email-address) nieuwe regels.
 
 ### <a name="table-of-special-characters"></a>Tabel met speciale tekens
 
@@ -119,11 +119,11 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 
 | Afgekort. | Afgekort. | Afgekort. | Afgekort. |
 | ----- | ----- | ----- | ----- |
-|" c p a" | pty | "l. l. c." | gmbh |
-| "c.p.a." | "pty ltd" | "l.l.c." | "group" |
-| l.l.p. | "pte ltd" | " l l p" | "wll" |
-| "c. p. a." | 'beperkte privé' | corp | "lda" |
-| "l. l. p." | "pvt" | "corporation" | "sarl" |
+|"c p a" | pty | 'l. l. c." | gmbh |
+| 'c.p.a.' | "pty ltd" | 'l.l.c'. | "kunt u" |
+| l.l.p. | "pte ltd" | "l l p" | "wll" |
+| "c. p. a." | 'privé beperkt' | corp | 'lda' |
+| 'l. l. p." | 'pvt' | "corporation" | "sarl" |
 | " l l c" | "pvt ltd" | "inc" | "kft" |
 | corp. | "zrt" | "opgenomen" | "ltd" |
 | llc. | "ooo" | 'beperkt' | ltd. |
@@ -150,7 +150,7 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 | .au | .br | .cv | .gg |
 | .aw | .bs | .cw | .gh |
 | .ax | .bt | .cx | .gi |
-| .az | .b.v. | .cy | .gl |
+| .az | .b. | .cy | .gl |
 | .ec | .bw | . gaan | .gm |
 | .ee | .by | .eu | .gn |
 | .eg | .bz | .fi | .gp |
@@ -164,7 +164,7 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 | .im | .lb | .mq | .pa |
 | .in | .lc | .mr | .pe |
 | .io | .li | .ms | .pf |
-| .iq | . | .mt | .pg |
+| .iq | .kunt u | .mt | .pg |
 | .ir | .lr | .mu | .ph |
 | .is | .ls | .mv | .pk |
 | .it | .lt | . | .pl |

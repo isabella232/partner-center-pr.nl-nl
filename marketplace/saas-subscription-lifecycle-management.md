@@ -8,19 +8,19 @@ ms.date: 08/20/2021
 ms.author: yonits
 author: yonits
 ms.openlocfilehash: fed2b2f7b951a7dc6ee16fb126f3f5f774df18c9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936865"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245580"
 ---
 # <a name="saas-subscription-lifecycle-management"></a>Levenscyclusbeheer voor SaaS-abonnementen
 
-In dit artikel wordt beschreven hoe u een SaaS-resource detecteert, wat de verschillen zijn tussen SaaS en het klassieke SaaS-resourcebeheer en saaS-resourcebeheer in de Azure Portal.
+In dit artikel wordt beschreven hoe u een SaaS-resource detecteert, wat de verschillen zijn tussen SaaS en het klassieke SaaS-resourcebeheer en saaS-resourcebeheer in Azure Portal.
 
 ## <a name="find-a-saas-resource"></a>Een SaaS-resource zoeken
 
-Wanneer u een SaaS-aanbieding aanschaft bij Azure Marketplace, wordt er een SaaS-abonnement (Software as a Service) gemaakt in de Azure Portal (zie Een [SaaS-aanbieding](purchase-saas-offer-in-azure-portal.md)kopen in Azure Portal). Een SaaS-resource zoeken in de portal:
+Wanneer u een SaaS-aanbieding aanschaft bij Azure Marketplace, wordt er een SaaS-abonnement (Software as a Service) gemaakt in de Azure Portal (zie [Een SaaS-aanbieding](purchase-saas-offer-in-azure-portal.md)kopen in Azure Portal). Een SaaS-resource zoeken in de portal:
 
 - **Algemeen zoekvenster** (boven) : zoek uw SaaS-abonnement op naam.
 - **SaaS:** geeft al uw SaaS-abonnementen weer. Er zijn twee typen SaaS-lijsten: zie de volgende sectie.
@@ -74,7 +74,7 @@ Voor abonnementen op basis van een seat kunt u het aantal gebruikers dat u tijde
 - Als de uitgever niet aan de aanvraag kan voldoen, kunt u rechtstreeks contact met de uitgever opnemen.
 
 > [!NOTE]
-> De uitgever kan weigeren om de wijziging goed te keuren als dit niet haalbaar is binnen de service. In dit geval mislukt de wijziging.
+> De uitgever kan weigeren de wijziging goed te keuren als dit niet haalbaar is binnen de service. In dit geval mislukt de wijziging.
 
 ### <a name="edit-recurring-billing"></a>Terugkerende facturering bewerken
 
@@ -84,13 +84,13 @@ Met terugkerende facturering kunt u de verlenging van uw SaaS-abonnement beheren
 
 Bekijk facturen voor uw Azure-abonnement en Azure Marketplace producten die zijn aangeschaft met dit abonnement. Voor SaaS die u hebt aangeschaft in de portal, raadpleegt  u de factureringspagina op de pagina SaaS-abonnement in de sectie Facturering. U wordt dan omgeleid **naar Cost Management**.
 
-Cost Management helpt u inzicht te krijgen in uw factuurinsplitsing, uw factureringsrekening en abonnementen te beheren, Azure-uitgaven te bewaken/beheren en het resourcegebruik te optimaliseren. Hiermee kunt u kosten analyseren, budgetten maken en beheren, en meer. Hiermee kunt u bijvoorbeeld uw aangepaste metergebruik bijhouden (voor SaaS-abonnementen die zijn gemaakt na februari 2021 of verplaatst naar een resourcegroep). Meer informatie over kostenbeheer kunt u [vinden Azure Cost Management + Billing documentatie](/azure/cost-management-billing/).
+Cost Management helpt u inzicht te krijgen in uw factuurinsplitsing, uw factureringsaccount en abonnementen te beheren, Azure-uitgaven te bewaken/beheren en het resourcegebruik te optimaliseren. Hiermee kunt u kosten analyseren, budgetten maken en beheren, en meer. Hiermee kunt u bijvoorbeeld uw aangepaste metergebruik bijhouden (voor SaaS-abonnementen die zijn gemaakt na februari 2021 of verplaatst naar een resourcegroep). Meer informatie over kostenbeheer kunt u [vinden Azure Cost Management + Billing documentatie](/azure/cost-management-billing/).
 
 Als uw aankoop is gedaan via Microsoft AppSource, kunt u uw facturen weergeven in het Microsoft-beheercentrum onder **Facturen & betalingen.**
 
 ### <a name="cancel-subscription"></a>Abonnement annuleren
 
-Als u annuleert, wordt uw toegang tot de software die u hebt aangeschaft als onderdeel van dit SaaS-abonnement, verwijderd. Restituties worden verwerkt volgens het restitutiebeleid; Zie Restitutiebeleid voor Microsoft AppSource en Azure Marketplace voor [meer Azure Marketplace.](refund-policies.md)
+Als u annuleert, wordt uw toegang tot de software die u hebt aangeschaft als onderdeel van dit SaaS-abonnement verwijderd. Restituties worden verwerkt volgens het restitutiebeleid; Zie Restitutiebeleid voor Microsoft AppSource en Azure Marketplace voor [meer informatie.](refund-policies.md)
 
 Als uw abonnement onder het  tenantniveau met leesmachtigingen valt, kunt u een abonnement niet annuleren. Neem in plaats daarvan contact op met de persoon **met eigenaarsmachtigingen.**
 
@@ -120,7 +120,7 @@ Er zijn enkele gevallen waarin de wijziging mogelijk niet werkt:
 - Als het SaaS-abonnement een resource op abonnementsniveau is:
     - U hebt *de machtiging Lezen* of *Eigenaar/Inzender* nodig voor het Azure-doelabonnement.
     - U hebt *eigenaars-/inzendermachtigingen* nodig voor de doelresourcegroep.
-    - Als er al een SaaS-abonnement met dezelfde naam in de doelresourcegroep bestaat, selecteert u een andere doelresourcegroep.
+    - Als er al een SaaS-abonnement met dezelfde naam bestaat in de doelresourcegroep, selecteert u een andere doelresourcegroep.
 - Het Azure-doelabonnement en het resourceabonnement ondergaan alle controles die tijdens de aankoop worden uitgevoerd. Zie de sectie [SaaS-abonnement](purchase-saas-offer-in-azure-portal.md#saas-subscription-and-configuration) en -configuratie in Een **SaaS-aanbieding** kopen in de sectie Azure Portal.
 
 ## <a name="next-steps"></a>Volgende stappen

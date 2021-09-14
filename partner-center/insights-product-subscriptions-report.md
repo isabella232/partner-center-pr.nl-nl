@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Bekijk wat u goed doet en waar u kunt verbeteren met betrekking tot de cloudabonnementen die u voor uw klanten verkoopt of beheert.
+description: Bekijk wat u goed doet en waar u de cloudabonnementen kunt verbeteren die u voor uw klanten verkoopt of beheert.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: eefb4f4ee6657acf583ad0b5d4149e662c320184
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957031"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244897"
 ---
-# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Productabonnementen is beschikbaar via het Partner Center Insights dashboard
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Productabonnementen is beschikbaar via Partner Center Insights dashboard
 
 **Juiste rollen:** Globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
@@ -32,7 +32,7 @@ U kunt de volgende secties bekijken in het rapport Productabonnementen.
 - Trend in producten
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
@@ -53,7 +53,7 @@ Zie hieronder voor meer informatie over elke sectie van de samenvatting:
   - De Micro-grafiek geeft een trend van de maand-over-maand weer van actieve abonnementen tijdens het geselecteerde datumbereik.
 
 - Abonnementen toegevoegd:
-  - Het totale aantal klantabonnementen dat door u is toegevoegd (verkocht of beheerd) tijdens het geselecteerde datumbereik. Nieuwe abonnementen met de **status Actief** **of Vernieuwd** worden geteld als Toegevoegde abonnementen.
+  - Het totale aantal klantabonnementen dat door u is toegevoegd (verkocht of beheerd) tijdens het geselecteerde datumbereik. Nieuwe abonnementen met de **status Actief** **of** Vernieuwd worden geteld als Toegevoegde abonnementen.
   - Percentage groei of afname van abonnementen toegevoegd in de afgelopen volledige maand vergeleken met de eerste volledige maand.
   - De Micro-grafiek geeft een maandelijkse trend weer van abonnementen die zijn toegevoegd tijdens het geselecteerde datumbereik.
 
@@ -78,7 +78,7 @@ U kunt een land in het raster zoeken en selecteren om in te zoomen op de locatie
 
 Deze weergave toont een trend van abonnementen. Deze zijn onderverdeeld in verschillende categorieën (Nieuw, Bestaand, Verloop) voor het geselecteerde datumbereik. De x-as vertegenwoordigt maanden van het geselecteerde datumbereik. De Y-as vertegenwoordigt het aantal abonnementen. Verloopabonnementen worden weergegeven op de negatieve schaal van de Y-as. 
 
-In het gestapelde kolomdiagram wordt een uitsplitsing weergegeven van nieuwe, bestaande en afgevallen abonnementen voor de maand. U kunt het kolomdiagram opnieuw opbouwen, opgesplitst met specifieke stack-items. Selecteer de specifieke items in de legenda om dit te doen. U kunt ook de schuifregelaar boven op het diagram gebruiken om in te zoomen op een specifieke periode.
+In het gestapelde kolomdiagram wordt een uitsplitsing weergegeven van nieuwe, bestaande en verloopde abonnementen voor de maand. U kunt het kolomdiagram opnieuw opbouwen, opgesplitst met specifieke stack-items. Selecteer de specifieke items in de legenda om dit te doen. U kunt ook de schuifregelaar boven op het diagram gebruiken om in te zoomen op een specifieke periode.
 
 :::image type="content" source="images/insights/sub-report-sub-adds-churns.png" alt-text="abonnements toegevoegd en verloop.":::
 
@@ -90,7 +90,7 @@ Deze weergave geeft een uitsplitsing van uw huidige abonnementen op uw Microsoft
 
 ## <a name="subscription-state-distribution"></a>Distributie van abonnementstoestand
 
-In deze weergave ziet u de distributie van uw huidige klantabonnementen op abonnementsstatus of -status. Dit omvat de volgende abonnementsindelingen: **Actief,** **Uitgeschakeld,** **Deprovisioned,** **Openen,** **InGracePeriod,** **Gesloten** en **Overige**.
+Deze weergave toont de distributie van uw huidige klantabonnementen op abonnementsstatus of -status. Dit omvat de volgende abonnementsindelingen: **Actief,** **Uitgeschakeld,** **Deprovisioned,** **Openen,** **InGracePeriod,** **Gesloten** en **Overige**.
 
 :::image type="content" source="images/insights/sub-report-sub-states.png" alt-text="distributie van abonnementstoestand.":::
 
@@ -98,7 +98,7 @@ In deze weergave ziet u de distributie van uw huidige klantabonnementen op abonn
 
 In deze weergave ziet u een staafdiagram en twee cirkeldiagrammen. Het staafdiagram toont een maandelijkse trend van abonnementen, onderverdeeld naar commerciële producten, zoals Azure, Office en Dynamics.
 
-De twee cirkeldiagrammen geven een uitsplitsing van uw huidige klantabonnementen weer. In het eerste cirkeldiagram worden abonnementen op producten weergegeven. In het tweede cirkeldiagram worden abonnementen op SKU's of abonnementen weergegeven. Wanneer u een product  selecteert in de uitsplitsing op het cirkeldiagram Producten, toont het aangrenzende cirkeldiagram een uitsplitsing van de abonnementen van dat product op SKU's.
+De twee cirkeldiagrammen geven een uitsplitsing van uw huidige klantabonnementen weer. In het eerste cirkeldiagram worden abonnementen op producten weergegeven. In het tweede cirkeldiagram worden abonnementen op sku's of abonnementen opgebreed. Wanneer u een product  selecteert in de uitsplitsing op het cirkeldiagram Producten, toont het aangrenzende cirkeldiagram een uitsplitsing van de abonnementen van dat product op SKU's.
 
 :::image type="content" source="images/insights/sub-report-prods-trend.png" alt-text="trend in producten.":::
 

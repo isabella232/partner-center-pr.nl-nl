@@ -7,13 +7,13 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 06/22/2021
 ms.openlocfilehash: 42e08be73fb6bd1b26e75f461ede51b1e18b909b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244856"
 ---
-# <a name="azure-marketplace-purchasing"></a>Azure Marketplace aanschaffen
+# <a name="azure-marketplace-purchasing"></a>Azure Marketplace kopen
 
 Azure Marketplace beschikt over talloze hulpprogramma's en functies die het aankoopproces vereenvoudigen, factureren en beheren.
 
@@ -29,7 +29,7 @@ Nadat u de juiste softwaretoepassing hebt gevonden, is het eenvoudig om de aanko
 
 Voordat u een aankoop voltooit, moet u ervoor zorgen dat de gebruiker de juiste configuratie heeft in de Azure-tenant. Dit helpt fouten tijdens de aankoop te voorkomen.
 
-Zoek in Azure Marketplace in de Azure Portal de toepassing die u wilt  kopen en selecteer Maken **of Instellen en abonneren.** U wordt gevraagd om enkele gegevens in te vullen voordat u uw nieuwe oplossing kunt gebruiken.
+Zoek in Azure Marketplace in de Azure Portal de toepassing die u wilt kopen  en selecteer Maken **of Instellen en abonneren.** U wordt gevraagd om enkele gegevens in te vullen voordat u uw nieuwe oplossing kunt gebruiken.
 
 > [!CAUTION]
 > Goedkeuring in Private Marketplace duidt niet op de aanschaf van een oplossing.
@@ -42,7 +42,7 @@ Als u een oplossing wilt implementeren vanuit de  Azure Marketplace Online Store
 
 :::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Het Azure Marketplace aanmeldingsvenster.":::
 
-Wanneer u zich hebt aanmelden, wordt u omgeleid naar het product in de Azure Portal uw aankoop te voltooien.
+Nadat u zich hebt aanmelden, wordt u omgeleid naar het product in de Azure Portal om uw aankoop te voltooien.
 
 ## <a name="purchase-policy-management"></a>Beheer van aankoopbeleid
 
@@ -50,7 +50,7 @@ Met Microsoft kunt u gebruikersaankopen beheren via uw factureringsprofiel als d
 
 - **Gratis en betaald:** hiermee kunnen gebruikers elke Azure Marketplace verkrijgen.
 - **Gratis:** hiermee kunnen gebruikers alleen gratis software van Azure Marketplace.
-- **Nee:** hiermee voorkomt u dat gebruikers software implementeren vanuit Azure Marketplace.
+- **Nee:** hiermee voorkomt u dat gebruikers software van Azure Marketplace.
 
 Deze instellingen zijn van toepassing op alle gebruikers met toegang tot uw Azure-abonnement, zodat u de IT-aanschaf kunt beheren via de Azure Portal.
 
@@ -58,7 +58,7 @@ Deze instellingen zijn van toepassing op alle gebruikers met toegang tot uw Azur
 
 ## <a name="cost-management"></a>Kostenbeheer
 
-Wanneer u producten van Azure Marketplace, wilt u inzichten krijgen die u helpen bij het beheren van kosten. Azure Cost Management is een gratis hulpprogramma voor het weergeven van informatie over de producten die u hebt aangeschaft. U kunt Cost Management voor meer informatie over de services waar u in de afgelopen tijd geld aan uit geeft en hoe deze kosten worden bij te houden ten opzichte van de budgetten die u hebt ingesteld. Naast het instellen van budgetten kunt u rapporten plannen en abonnementskosten analyseren. Lees meer over Azure Cost Management door de module Microsoft Learn kosten analyseren en budgetten maken met [Azure Cost Management.](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)
+Wanneer u producten koopt bij Azure Marketplace, wilt u inzichten krijgen die u helpen bij het beheren van kosten. Azure Cost Management is een gratis hulpprogramma voor het weergeven van informatie over de producten die u hebt aangeschaft. U kunt deze Cost Management om details te bekijken van de services waar u in de afgelopen tijd geld aan uit geeft en hoe deze kosten worden bij te houden ten opzichte van de budgetten die u hebt ingesteld. Naast het instellen van budgetten kunt u rapporten plannen en abonnementskosten analyseren. Meer informatie over Azure Cost Management door de module Microsoft Learn kosten analyseren en budgetten maken met [Azure Cost Management.](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)
 
 U kunt de kosten en facturen van uw Azure Marketplace bekijken via het hulpprogramma kostenanalyse onder Azure Cost Management.
 

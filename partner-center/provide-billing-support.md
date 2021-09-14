@@ -10,11 +10,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 40bf13a114eeb2eaaaf8fcae76d52de13d206d9d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957379"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245001"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Factureringsondersteuning bieden voor uw klanten en hulp bieden bij het beantwoorden van hun vragen over facturering
 
@@ -31,7 +31,7 @@ U bent eigenaar van de factureringsrelatie met uw klanten en u bent verantwoorde
 
 ## <a name="microsoft-partner-support-guidance"></a>Ondersteuningshulp voor Microsoft-partners
 
-Partners die werken in het Cloud Solution Provider-model (CSP) zijn de vertrouwde advisor voor hun klanten en zijn eigenaar van de relatie end-to-end, inclusief ondersteuning wanneer hun klant een vraag of probleem heeft. Via ondersteuningscontactpunten kunnen partners meer te weten komen over de klant en hun bedrijf om nieuwe services en oplossingen te identificeren die waarde creëren.
+Partners die in het CSP-model (Cloud Solution Provider) werken, zijn de vertrouwde advisor voor hun klanten en zijn eigenaar van de relatie end-to-end, inclusief ondersteuning wanneer hun klant een vraag of probleem heeft. Via ondersteuningscontactpunten kunnen partners meer te weten komen over de klant en hun bedrijf om nieuwe services en oplossingen te identificeren die waarde creëren.
 
 Om aan de ondersteuningsvereiste te voldoen, kan de partner ondersteuning van een andere entiteit opnieuw verkopen, kan de partner de ondersteuning geheel of een deel van de ondersteuningsstructuur uitbesteeden en/of kan de partner een structuur instellen om rechtstreeks ondersteuning te bieden.  De partner kan kosten in rekening brengen voor alle of een deel van de ondersteuning die aan klanten wordt geleverd. De partner moet aan hun klanten de ondersteuning verwoorden die ze bieden, de serviceuren en contactmethode en de prijzen (indien in rekening worden brengen voor ondersteuning). 
 

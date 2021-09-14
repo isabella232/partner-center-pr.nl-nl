@@ -10,23 +10,23 @@ ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 2878512167bd0afa2901031bca60828685eb52c1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957133"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245744"
 ---
 # <a name="using-the-skills-report"></a>Het vaardighedenrapport gebruiken
 
 **Juiste rollen:** BEHEER VAN MPN-partner | Globale beheerder
 
-Met het vaardighedenrapport kunnen partners in de Microsoft Partner Network de vaardigheden beoordelen die zijn voltooid door gebruikers in hun partnerbedrijf. Vaardigheden in het rapport kunnen evaluaties, certificeringen of examens van de technische gebruikers van de partner omvatten. 
+Met het vaardighedenrapport kunnen partners in de Microsoft Partner Network de vaardigheden beoordelen die zijn voltooid door gebruikers in hun partnerbedrijf. De vaardigheden in het rapport kunnen evaluaties, certificeringen of examens van de technische gebruikers van de partner omvatten. 
 
 Het behalen van deze soorten vaardigheden van een partnerbedrijf is een van de vereisten voor de partner om de silver- of gold-status te verkrijgen binnen een specifieke Microsoft-competentie. Competenties worden door partners gebruikt om hun technische expertise te demonstreren aan huidige en nieuwe klanten. Ze bieden ook veel voordelen voor partners die deze bereiken. Zie de pagina Microsoft Partner Network competenties voor meer informatie over de beschikbare [competenties](https://partner.microsoft.com/membership/competencies) en hun voordelen.
 
 De MPN-partnerbeheerder of globale beheerder van uw bedrijf kan de volgende taken met betrekking tot het vaardighedenrapport uitvoeren:
 
-- Controleer het vaardighedenrapport regelmatig om de voortgang van gebruikersvaardigheden te bekijken ten opzichte van het behalen van een of meer belangrijke competenties van uw bedrijf. Wanneer een gebruiker uw bedrijf verlaat, kunt u relevante vaardigheden verliezen. Op dezelfde manier kunt u bepaalde vaardigheden opdoen wanneer een nieuwe gebruiker lid wordt.
+- Controleer het vaardighedenrapport regelmatig om de voortgang van gebruikersvaardigheden te bekijken ten opzichte van het behalen van een of meer belangrijke competenties van uw bedrijf. Wanneer een gebruiker uw bedrijf verlaat, verliest u mogelijk relevante vaardigheden. Op dezelfde manier kunt u bepaalde vaardigheden opdoen wanneer een nieuwe gebruiker lid wordt.
 
 - Plan toekomstige vaardighedentraining om ervoor te zorgen dat uw partnerbedrijf voldoet aan de vaardighedenvereisten voor een specifieke competentie. Dit helpt uw partnerbedrijf om een nieuwe silver- of gold-competentie te verdienen of een bestaande silver- of gold-competentie te behouden. Voor bestaande silver- of gold-competenties moeten beheerders het vaardighedenrapport ten minste drie maanden vóór de jubileumdatum van de competentie controleren om te bepalen of het bereiken/vernieuwen van competentie risico loopt. Met deze waarschuwing kunt u uw gebruikers de tijd geven om nieuwe vaardigheden op te doen.
 - Bevestig dat alle technische gebruikers in uw bedrijf worden weergegeven in het vaardighedenrapport en dat ze hun Learn-account onmiddellijk hebben gekoppeld aan hun Partner Center gebruikersaccount. In latere secties van dit artikel wordt beschreven hoe u dit doet.
@@ -45,7 +45,7 @@ Voordat u het vaardighedenrapport kunt bekijken en de vaardigheden van uw bedrij
 - Zorg ervoor dat de gebruikers van uw bedrijf ook een eigen gebruikersaccount hebben in Partner Center. 
    Het gebruikersaccount moet zijn gekoppeld aan uw partnerbedrijf. Zie een [gebruikersaccount maken of beheren.](create-user-accounts-and-set-permissions.md)
 - Zorg ervoor dat de gebruikers van uw bedrijf hun vaardigheden of certificeringen koppelen aan hun Partner Center gebruikersaccount. 
-   Voordat hun vaardigheden of certificeringen kunnen worden weergegeven in het Partner Center-vaardighedenrapport, moeten gebruikers ervoor zorgen dat ze hun [Microsoft Learning-account (MCP-id)](ms-learn-associate.md)hebben gekoppeld aan Partner Center en Partner University. Nadat de gebruiker deze stappen heeft doorlopen, kan het 24 tot 72 uur duren voordat zijn vaardigheden worden weergegeven in het vaardighedenrapport. Deze reeks stappen moet ook worden uitgevoerd door nieuwe gebruikers die onlangs bij uw bedrijf zijn gaan werken.
+   Voordat hun vaardigheden of certificeringen kunnen worden weergegeven in het Partner Center-vaardighedenrapport, moeten gebruikers ervoor zorgen dat ze hun [Microsoft Learning-account (MCP-id)](ms-learn-associate.md)hebben gekoppeld aan Partner Center en Partner University. Nadat de gebruiker deze stappen heeft doorlopen, kan het tussen 24 en 72 uur duren voordat zijn vaardigheden worden weergegeven in het vaardighedenrapport. Deze reeks stappen moet ook worden uitgevoerd door nieuwe gebruikers die onlangs bij uw bedrijf zijn gaan werken.
 
    > [!NOTE]
    > Gebruikers moeten hetzelfde e-mailadres gebruiken dat ze hebben gebruikt in MsCert, Microsoft Learn of de Partner University-portal wanneer ze examens of cursussen volgen. Als een gebruiker een ander e-mailadres heeft gebruikt dan het e-mailadres dat aan de gebruiker is gekoppeld in het Partner Center-gebruikersaccount, moet deze mogelijk samenwerken met de beheerder van het MPN-account of de globale beheerder.
@@ -58,14 +58,14 @@ Volg deze stappen om de gegevens van het vaardighedenrapport van de Partner Cent
 2. Selecteer in het navigatiemenu links **MPN gevolgd** door **Competenties**.
 3. Zoek de volgende opties in de rechterbovenhoek van de pagina Competenties: **Rapport** Competentieprestaties en **Vaardighedenrapport downloaden.** U hebt de mogelijkheid om gegevens van vaardighedenrapport weer te geven in Partner Center gebruikersinterface of als een gedownload spreadsheet.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="Partner Center pagina Competenties met twee opties gemarkeerd in de rechterbovenhoek." border="true":::
-   - Voor een eenvoudig leesweergave van gegevens van vaardighedenrapport selecteert u Rapport Competentieprestaties, gevolgd door Gebruikersvaardighedengegevens  in de linkerbovenhoek van de rapportpagina Competentie. 
-      :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Partner Center pagina Competentierapport met de optie Gebruikersvaardigheden in de linkerbovenhoek." border="true":::
+   - Voor een eenvoudig leesweergave van gegevens van vaardighedenrapport selecteert u **Rapport** Competentieprestaties, gevolgd door Gebruikersvaardighedengegevens  in de linkerbovenhoek van de rapportpagina Competentie. 
+      :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Partner Center rapportpagina Competentie met de optie Gebruikersvaardigheden in de linkerbovenhoek." border="true":::
    - Als u het rapport in spreadsheetindeling wilt downloaden, **selecteert u Vaardighedenrapport downloaden.** Zodra het bestand wordt gedownload en geopend, ziet u een tabel met details over de vaardigheden van elke gebruiker. De kolommen Gekoppeld aan **PMC** en Gekoppeld aan **pc** geven aan of de vaardigheden van de gebruiker al zijn gekoppeld aan hun eerdere Partner Membership Center-account (PMC) en hun Partner Center-account (pc). Als u nog steeds gebruikers in PMC hebt, zie dan de latere sectie over PMC-gebruikers.
    
       :::image type="content" source="images/competencies/mpn-skills-report-3.png" alt-text="Partner Center spreadsheet met meerdere kolommen met voorbeeldgegevens met de status van het bereiken van gebruikersvaardigheden." border="true":::
 
 > [!Note]
-> Wanneer een gebruiker de 'Microsoft-examens en -certificeringen' of 'Microsoft-training & evaluaties' voor het eerst koppelt of nieuwe vaardigheden voltooit; Het kan tot 72 uur duren voordat de vaardigheden worden weergegeven in het vaardighedenrapport. Alleen vaardigheden die relevant zijn voor de competenties en programma's van Partner Center worden weergegeven in het vaardighedenrapport. Niet-gestopte vaardigheden kunnen ook 12 maanden of meer nadat ze zijn uitgetrokken, worden weergegeven in het rapport. Tenzij een examen, evaluatie of certificering specifiek wordt vermeld als onderdeelvan de vereisten van een specifieke competentie, [](https://partner.microsoft.com/membership/competencies)wordt deze niet overwogen om aan die competentie te voldoen. 
+> Wanneer een gebruiker de 'Microsoft-examens en -certificeringen' of 'Microsoft-training & evaluaties' voor het eerst koppelt of nieuwe vaardigheden voltooit; Het kan tot 72 uur duren voordat de vaardigheden worden weergegeven in het vaardighedenrapport. Alleen vaardigheden die relevant zijn voor de competenties en programma's van Partner Center worden weergegeven in het vaardighedenrapport. Niet-gestopte vaardigheden kunnen ook 12 maanden of meer nadat ze zijn uitgetrokken, worden weergegeven in het rapport. Tenzij een examen, evaluatie of certificering specifiek wordt vermeld als onderdeelvan de vereisten van een specifieke competentie, [](https://partner.microsoft.com/membership/competencies)wordt het niet overwogen om aan die competentie te voldoen. 
 
 ## <a name="skills-report-and-pmc-users"></a>Vaardighedenrapport en PMC-gebruikers
 
@@ -77,7 +77,7 @@ Als uw partnerbedrijf het lidmaatschap heeft verplaatst van PMC naar Partner Cen
  
 - Geldige vaardigheden die worden weergegeven in **de kolom Relevant voor competenties (optie) of Programma's**
 
-Als u gebruikers hebt die voldoen aan de bovenstaande criteria, kunt u contact met hen opnemen door hen te vragen om Partner Center [zo](ms-learn-associate.md) snel mogelijk te koppelen.
+Als u gebruikers hebt die voldoen aan de bovenstaande criteria, neem dan contact met hen op om hen te vragen Partner Center [zo](ms-learn-associate.md) snel mogelijk te koppelen.
 
 ## <a name="troubleshoot-issues-with-the-skills-report"></a>Problemen met het vaardighedenrapport oplossen
 
@@ -106,24 +106,24 @@ Als een gebruiker vaardigheden heeft voltooid, maar deze niet wordt weergegeven 
 
 - De gebruiker heeft zijn vaardigheden al gekoppeld in Partner Center
 
-- De vaardigheden van de gebruiker maken deel uit van de vereisten van een specifieke competentie (zoals weergegeven in het Partner Center-dashboard of op de Microsoft Partner Network Competencies-pagina).
+- De vaardigheden van de gebruiker maken deel uit van de vereisten van een specifieke competentie (zoals wordt weergegeven in het Partner Center-dashboard of op de pagina Microsoft Partner Network Competenties).
 
 - 72 uur zijn verstreken sinds de gebruiker na 72 uur zijn vaardigheden heeft voltooid. Als de vaardighedengegevens nog steeds niet de voltooiing van de vaardigheden van de gebruiker weerspiegelen, moet de MPN-accountbeheerder of MPN-partnerbeheerder contact opnemen met [Microsoft Partner Support.](https://partner.microsoft.com/support) Voordat u contact op met Microsoft Partner Support, moet u bereid zijn om de volgende informatie te verzamelen en te verzenden:
 
-- Een kopie van het **geëxporteerde rapport van gebruikers (of** een schermopname van het rapport). Voor toegang tot dit rapport meldt u zich aan Partner Center selecteert u vervolgens **Gebruikersbeheer,** gevolgd door **Rapport van gebruikers exporteren.** In het rapport ziet u wie toegang heeft tot Partner University of wie hun Microsoft-Learning account heeft gekoppeld.' Gebruikers kunnen mogelijk ook een schermopname van  deze informatie maken door Rechtsboven in het dashboard mijn profiel Partner Center selecteren.
+- Een kopie van het **geëxporteerde rapport van gebruikers (of** een schermopname van het rapport). Voor toegang tot dit rapport meldt u zich aan Partner Center selecteert u **vervolgens Gebruikersbeheer,** gevolgd door **Rapport van gebruikers exporteren.** In het rapport ziet u wie toegang heeft tot Partner University of wie hun Microsoft-Learning account heeft gekoppeld.' Gebruikers kunnen mogelijk ook een schermopname van  deze informatie maken door Rechtsboven in het dashboard mijn Partner Center selecteren.
 
 - Een gedownloade versie van het meest recente vaardighedenrapport, zoals eerder in dit artikel is beschreven.
 
 - Bewijs dat de gebruiker relevante Microsoft-examens, certificeringen of training en evaluaties heeft voltooid. Zie de volgende bewijsvoorbeelden.
 
    > [!NOTE]
-   > Op dit Partner Center alleen certificering van twee bronnen, Microsoft Learning en Partner University. Elk ander certificaat dat is ontvangen van andere bronnen (zoals OpenedX), wordt niet in aanmerking genomen.
+   > Momenteel herkent Partner Center alleen certificering van twee bronnen, Microsoft Learning en Partner University. Elk ander certificaat dat is ontvangen van andere bronnen (zoals OpenedX), wordt niet in aanmerking genomen.
 
    **Proof example #1 – Microsoft Certification Official Transcript**
 
    :::image type="content" source="images/competencies/mpn-skills-report-4.png" alt-text="Voorbeeld van officiële transcriptie van Microsoft-certificering." border="true":::
 
-   **Proof example #2 – Microsoft Online Training Course Completion** Sample certificate :::image type="content" source="images/competencies/mpn-skills-report-5.png" alt-text="titled Microsoft Online Training Course Completion(Voorbeeld" border="true"::: van een Microsoft Online Training Course Completion).
+   **Proof example #2 – Microsoft Online Training Course Completion** Sample certificate :::image type="content" source="images/competencies/mpn-skills-report-5.png" alt-text="titled Microsoft Online Training Course Completion(Voorbeeld" border="true"::: van een microsoft Online Training Course Completion).
 
 ## <a name="next-steps"></a>Volgende stappen
 

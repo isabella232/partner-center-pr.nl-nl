@@ -10,11 +10,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957628"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244954"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Betalingsstatus en berekeningsgegevens van Solution Assessment
 
@@ -35,7 +35,7 @@ U kunt de betalingsstatus van de status van een Solution Assessment-kans bekijke
     - Als er een betalingsaanvraag is gemaakt, gaat u verder met stap 7.
 7. Controleer de status van de betalingsaanvraag.
 
-    - In afwachting van betalingsbeoordeling: Neem contact op met het Channel Incentives-team voor verder onderzoek. Neem contact op met de hieronder vermelde contactgegevens.
+    - In afwachting van betalingsbeoordeling: Neem contact op met het Channel Incentives-team voor verder onderzoek: contactgegevens die hieronder worden vermeld.
     - Goedgekeurde betaling: De betaling wordt door Microsoft binnen 35 dagen na het einde van de maand gerenderd na em-certificering van volledigheid van overeenkomst in CHIP waarin een betalingsaanvraag is gemaakt
     -  Verzonden betaling: klik op de hyperlink status om de details van de betalingsversie weer te geven.
     - Betaling geannuleerd: klik op de hyperlink status om de reden van de afwijzing weer te geven. Neem contact op met het Channel Incentives-team voor meer informatie.

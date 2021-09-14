@@ -10,11 +10,11 @@ ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 84448566bb3a5d4ef8655ccfee86e7d39f4a6642
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244868"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Een opgeschort Partner Center-account herstellen - ontdek waarom dit gebeurt en wat u eraan kunt doen
 
@@ -27,13 +27,13 @@ Dit artikel legt uit wat u moet doen als uw Partnercentrum-account is geschorst.
 > [!IMPORTANT]  
 > Hoewel uw Partner Center-account is opgeschort, kunt u uw bestaande implementaties, licenties en services blijven beheren. Het is echter niet mogelijk om nieuwe licenties of services te autoriseren of door te verkopen, totdat uw account weer in orde is.
 
-## <a name="why-partner-center-accounts-are-suspended"></a>Waarom Partner Center-accounts zijn opgeschort
+## <a name="why-partner-center-accounts-are-suspended"></a>Waarom Partner Center accounts zijn opgeschort
 
-Microsoft schort een Partner Center account op om een van de volgende redenen:
+Microsoft schort een Partner Center een van de volgende redenen op:
 
 - Wanneer het huidige factureringsbedrag meer dan 60 dagen achterstallig is
 - Wanneer significant account misbruik wordt gedetecteerd
-- Wanneer problemen van invloed zijn op indirecte providerbewerkingen en een negatieve invloed hebben op uw account (alleen indirecte resellers)
+- Wanneer problemen invloed hebben op indirecte providerbewerkingen en een negatieve invloed hebben op uw account (alleen indirecte resellers)
 - Wanneer uw accountprofiel de status Mislukt of Afgewezen heeft
 
 ## <a name="what-to-do-if-your-account-is-suspended"></a>Wat te doen als uw account is opgeschort
@@ -44,7 +44,7 @@ Als u niet zeker weet of uw account actueel is, selecteert u **Facturering** in 
 
 Als uw account achterstallig is, volgt u de instructies op uw factuur om de betaling te regelen en dient u vervolgens een ondersteuningsaanvraag in om uw account opnieuw in te stellen. 
 
-Neem contact op met ondersteuning voor aanvullende hulp bij het opnieuw activeren [van uw account.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)
+Neem contact op met ondersteuning voor meer hulp bij het opnieuw activeren [van uw account.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)
 
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -10,11 +10,11 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2d0c1e05ff0e0b9c807dfc7beb1136cec87b4069
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957250"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244809"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Tegoed ontvangen op uw Partner Center voor holding
 
@@ -22,7 +22,7 @@ ms.locfileid: "123957250"
 
 ## <a name="overview"></a>Overzicht
 
-Cloud Solution Provider (CSP)-partners in sommige landen ontvangen factuurbedragen met btw. Sommige van deze partners betalen hun lokale btw-instantie in plaats van Microsoft. Als u uw lokale belastinginstantie wel betaalt, moet u een aanvraag voor belasting in de bron indienen, inclusief uw belastingcertificaat om het belaste bedrag van eerdere facturen te kunnen leeg maken. Deze gewiste bedragen worden weergegeven in de kolom **Laatste betaling** op de **pagina Facturering** in Partner Center.
+Cloud Solution Provider (CSP)-partners in sommige landen ontvangen factuurbedragen met btw. Sommige van deze partners betalen hun lokale btw-instantie in plaats van Microsoft. Als u uw lokale belastinginstantie wel betaalt, moet u een aanvraag voor belasting in te dienen met inbegrip van uw belastingcertificaat om het belaste bedrag van eerdere facturen te kunnen leeg maken. Deze gewiste bedragen worden weergegeven in de kolom **Laatste betaling** op de **pagina Facturering** in Partner Center.
 
 Partners die worden gebruikt om aanvragen voor belasting in te dienen door serviceaanvragen (ondersteuningstickets van partners) te maken in Partner Center. Dit proces is in januari 2020 gewijzigd. CSP-partners moeten nu aanvragen voor holding indienen op **de** pagina Facturering in plaats van ondersteuningsaanvragen te maken.
 
@@ -37,7 +37,7 @@ Volg deze stappen om een nieuwe belasting in te dienen:
 
 2. Kies facturering in het menu aan de linkerkant **en** ga naar **Factureringsgeschiedenis.**
 
-3. Selecteer **Nieuwe verzenden** naast de factuur voor wie u een machtiging wilt indienen. Met de koppeling Nieuwe belasting inzenden gaat u naar de pagina **Nieuwe aanvraag voor belastingafdacht.**
+3. Selecteer **Nieuwe verzenden** naast de factuur voor wie u een machtiging wilt indienen. Met de koppeling Nieuwe aanvraag voor belasting inzenden gaat u **naar de pagina Nieuwe aanvraag voor belastingafdacht.**
 
    :::image type="content" source="images/wht1.png" alt-text="Nieuwe belasting voor een factuur indienen.":::
 
@@ -70,7 +70,7 @@ Het beoordelingsteam kan vereisen dat u correcties moet toepassen en een aanvraa
 
 4. Selecteer de aanvraag-id voor belasting en de status die u naar de pagina van de aanvraag sturen.
 
-5. Selecteer **Bijwerken en opnieuw inzenden** onder **Status**.
+5. Selecteer **Bijwerken en opnieuw inzenden** onder **Status.**
 
 6. Bekijk de opmerkingen van de beoordelaars waarin wordt belicht wat er moet worden gewijzigd.
 
@@ -91,7 +91,7 @@ Gew cleared bedragen worden weergegeven in de sectie **Factureringsgeschiedenis 
 
 Het verwerken van de aanvragen voor belasting zou twee dagen moeten duren, ervan uitgaande dat het belastingcertificaat en het juiste bedrag juist zijn. Als er wijzigingen nodig zijn, duurt dit langer vanwege de correcties die moeten worden aangebracht en opnieuw moeten worden ingediend.
 
-Als u vragen hebt over het aanvraagproces voor het aanvragen van bronbelasting, dient u een ticket in bij partnerondersteuning. U hebt de aanvraag-id voor holding nodig om vragen op te lossen.
+Als u vragen hebt over het aanvraagproces voor het aanvragen van bronbelasting, dient u een ticket in bij de ondersteuning van de partner. U hebt de aanvraag-id voor holding nodig om vragen op te lossen.
 
 ## <a name="german-tax-withholding"></a>Duitse belasting in holding
 
@@ -99,13 +99,13 @@ Partners die duitse belastingaanvragen indienen, moeten onthouden dat ze harde k
 
 - ATTN: EOC Tax Team Marianne Gannon
 - Microsoft EMEA Operations Centre
-- Eén Microsoft-plaats,
+- Eén Microsoft Place,
 - South County Business Park
 - 18, Dublin, Ierland
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Vragen en hulp bij aanvragen voor belasting
 
-Partners moeten het hierboven beschreven nieuwe proces gebruiken om nieuwe aanvragen in te dienen en geen ondersteuningsaanvragen meer te maken voor nieuwe aanvragen voor belasting. Partners met meer vragen over aanvragen voor belasting kunnen [ondersteuningsaanvragen indienen.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Ondersteuningsaanvragen zijn bedoeld om partners te helpen bij bestaande aanvragen, zodat ze hun **aanvraag-id** moeten hebben om een nieuw ticket in te dienen. Als partners geen aanvraag kunnen indienen met behulp van het nieuwe proces, moeten ze een aantal (alle enen) invoeren in het formulier voor ondersteuningsaanvraag. 
+Partners moeten het nieuwe proces dat hierboven wordt beschreven, gebruiken om nieuwe aanvragen in te dienen en geen ondersteuningsaanvragen meer te maken voor nieuwe aanvragen voor belastingafdacht. Partners met meer vragen over aanvragen voor belasting kunnen [ondersteuningsaanvragen indienen.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Ondersteuningsaanvragen zijn bedoeld om partners te helpen bij bestaande aanvragen, zodat ze hun **aanvraag-id** moeten hebben om een nieuw ticket in te dienen. Als partners geen aanvraag kunnen indienen met behulp van het nieuwe proces, moeten ze een aantal (alle enen) invoeren in het formulier voor ondersteuningsaanvraag. 
 
    > [!IMPORTANT]
-   > Partners hoeven geen contact op te nemen met de ondersteuning als hun aanvraagstatus **Voltooid is.** Deze status wordt in de **factureringsgeschiedenis naast** de factuur voor de inzending vermeld. **De laatste betalingsbedragen** naast de factuur moeten het bedrag voor belasting weerspiegelen binnen tien dagen nadat de aanvraag is gemarkeerd als **Voltooid.**
+   > Partners hoeven geen contact op te nemen met de ondersteuning als hun aanvraagstatus **Voltooid is.** Deze status wordt in de **factureringsgeschiedenis naast** de factuur voor de inzending vermeld. **De laatste betalingsbedragen** naast de factuur moeten het holdingbedrag weerspiegelen binnen tien dagen nadat de aanvraag is gemarkeerd als **Voltooid.**

@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 1c346e5e680fdd0b0b82715160b238e1e6b6a9a9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957472"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244772"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gebruikers en gebruikerslicenties voor klantaccounts beheren 
 
@@ -77,7 +77,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 
 3. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
 
-4. Selecteer wachtwoord opnieuw instellen onderaan het **scherm.** 
+4. Selecteer onder aan het scherm Wachtwoord **opnieuw instellen.** 
 
 5. Verzend het nieuwe tijdelijke wachtwoord naar de gebruiker.
 
@@ -85,7 +85,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Gebruikersaccounts voor een klant verwijderen
 
-1. Selecteer klanten **Partner Center** het menu **.** Kies de klant in de lijst.
+1. Selecteer in **Partner Center** menu **Klanten.** Kies de klant in de lijst.
 
 2. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
 

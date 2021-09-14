@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Meer informatie over hoe indirecte providers samenwerken met indirecte resellers in het Cloud Solution Provider -programma (CSP) en bepalen welke rol het meest voor u het beste is.
+description: Meer informatie over hoe indirecte providers samenwerken met indirecte resellers in het Cloud Solution Provider (CSP)-programma en bepalen welke rol het meest bij u in de weg staat.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 93ebd29529812535d2847485d2c9fe751fa5a9f8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957481"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244808"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Verschillende manieren waarop u met andere partners kunt werken in Partner Center
 
@@ -48,9 +48,9 @@ Ondersteuning voor meerdere partners is ook beschikbaar in de nationale cloudaan
 
 ## <a name="multi-channel-support"></a>Ondersteuning voor meerdere kanalen
 
-Partner Center functie voor meerdere kanalen biedt ondersteuning voor scenario's waarin een klant een partner wil in dienst nemen om een abonnement in te leveren en te ondersteunen dat ze elders hebben gekocht. Zie [Ondersteuning voor meerdere kanalen](multichannel.md) voor meer informatie.
+Partner Center functie voor meerdere kanalen biedt ondersteuning voor scenario's waarin een klant een partner wil in dienst nemen om een abonnement dat ze elders hebben aangeschaft, in terichten en te ondersteunen. Zie [Ondersteuning voor meerdere kanalen](multichannel.md) voor meer informatie.
 
 Ondersteuning voor meerdere kanalen is ook beschikbaar in de nationale cloudaanbiedingen van Microsoft.
 
 > [!IMPORTANT]  
-> Een partner in het CSP-programma kan de onlineservices verkopen aan een andere partner in het CSP-programma. Deze beperking geldt alleen voor de tenant die wordt gebruikt voor het uitvoeren van CSP-transacties. CSP-partners die een niet-CSP-tenant gebruiken voor hun bedrijfsgebruik, kunnen onlineservices aanschaffen bij een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Nieuws over functiereleases of beleidswijzigingen wordt aangekondigd via de gebruikelijke communicatiekanalen, waaronder [Partner Center aankondigingen](announcements/index.md).
+> Een partner in het CSP-programma kan momenteel onlineservices verkopen aan een andere partner in het CSP-programma. Deze beperking geldt alleen voor de tenant die wordt gebruikt voor het uitvoeren van CSP-transacties. CSP-partners die een niet-CSP-tenant gebruiken voor hun bedrijfsgebruik, kunnen een onlineservices van een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Elk nieuws over functiereleases of beleidswijzigingen wordt aangekondigd via de gebruikelijke communicatiekanalen, waaronder [Partner Center aankondigingen](announcements/index.md).

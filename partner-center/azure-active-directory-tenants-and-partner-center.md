@@ -10,11 +10,11 @@ ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
 ms.openlocfilehash: c1f74e2977b110befd38c741259e84dd8bc9acb6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957100"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244767"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Een werkaccount maken dat uw bedrijf koppelt aan uw Partner Center account
 
@@ -26,12 +26,12 @@ Microsoft vereist dat u het werkaccount van uw bedrijf koppelt aan uw nieuwe Par
 
 ## <a name="the-work-account-email-address"></a>Het e-mailadres van het werkaccount
 
-Uw werkaccount of werk-e-mailadres is het e-mailadres dat u van uw bedrijf ontvangt. Een e-mail voor een werkaccount heeft meestal de indeling `you@yourcompany.com` . Persoonlijke e-mailadressen zoals Hotmail, Gmail of Yahoo zijn geen werke-mail en kunnen niet worden gebruikt voor uw Partner Center account.
+Uw werkaccount of werke-mail is het e-mailadres dat u van uw bedrijf ontvangt. Een e-mail voor een werkaccount heeft meestal de indeling `you@yourcompany.com` . Persoonlijke e-mailadressen, zoals Hotmail, Gmail of Yahoo, zijn geen werk-e-mail en kunnen niet worden gebruikt voor uw Partner Center account.
 
 Als u meer dan één geldig zakelijk e-mailadres hebt, gebruikt u het e-mailadres dat is gekoppeld aan uw hoofdkantoor in plaats van de regionale afdeling. Gebruik bijvoorbeeld uw e-mailadres in plaats van `contoso.com` het `contoso.uk` adres.
 
 > [!NOTE]  
-> Voordat u een bestaand werkaccount gebruikt, moet u bedenken hoeveel gebruikers in het werkaccount toegang moeten hebben tot Partner Center. Als u gebruikers in het werkaccount hebt die geen toegang nodig hebben tot Partner Center, kunt u overwegen om een nieuw account te maken voor alleen de gebruikers die toegang Partner Center nodig hebben.
+> Voordat u een bestaand werkaccount gebruikt, moet u bedenken hoeveel gebruikers in het werkaccount toegang moeten hebben tot Partner Center. Als u gebruikers in het werkaccount hebt die geen toegang nodig hebben tot Partner Center, kunt u overwegen een nieuw account te maken voor alleen de gebruikers die toegang Partner Center nodig hebben.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Weet u niet zeker of uw bedrijf al een werkaccount heeft?
 

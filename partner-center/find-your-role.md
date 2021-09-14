@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
 ms.openlocfilehash: e7e18c967481e0bfb6e6b8466746beb5ed8459b9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957226"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245005"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Uw rol, uw machtigingen en uw globale beheerder zoeken
 
@@ -32,7 +32,7 @@ Als uw globale beheerder u niets heeft verteld, kunt u op de volgende manier na 
 1. Selecteer het **tabblad Rollen en** machtigingen. U ziet uw rollen en machtigingen.
  
 >[!Note]
->Als u tijdens het aanmelden geen programma ziet, betekent dit meestal dat u niet de juiste machtigingen hebt om in dat programma te werken. Als u bijvoorbeeld de pagina Incentives niet ziet wanneer u zich aan melden, hebt u geen incentives-machtigingen. Uw globale beheerder kan u de benodigde machtigingen geven.
+>Als u tijdens het aanmelden geen programma ziet, betekent dit meestal dat u niet de juiste machtigingen hebt om in dat programma te werken. Als u bijvoorbeeld de pagina Incentives niet ziet wanneer u zich aanmelden, hebt u geen incentives-machtigingen. Uw globale beheerder kan u de benodigde machtigingen geven.
 
 ## <a name="find-your-global-admin"></a>Uw globale beheerder zoeken
 

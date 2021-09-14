@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 1416c9b12cb6670eb2598f8baa4839996e29f09b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244773"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Azure-abonnementen toewijzen aan klanten in Partner Center
 
@@ -24,7 +24,7 @@ ms.locfileid: "123957334"
 
 1. Selecteer **Klanten** in **Partner Center** menu en zoek de klant die u wilt beheren.
 
-2. Selecteer de pijl-omlaag aan het einde van de rij om de record van de klant uit te vouwen en selecteer **vervolgens Microsoft Azure Beheerportal**. U wordt omgeleid naar [de Azure Portal](https://portal.azure.com/) waar u de abonnementen van de klant kunt beheren.
+2. Selecteer de pijl-omlaag aan het einde van de rij om de record van de klant uit te vouwen en selecteer vervolgens **Microsoft Azure Beheerportal**. U wordt omgeleid naar [de Azure Portal](https://portal.azure.com/) waar u de abonnementen van de klant kunt beheren.
 
 3. Selecteer in Azure Portal de **optie Abonnementen.**
 

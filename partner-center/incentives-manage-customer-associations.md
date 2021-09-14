@@ -1,6 +1,6 @@
 ---
-title: Incentives-klantorganisaties
-description: Belangrijke processen en tijdlijnen voor het beheren van klant Partner of Record geclaimde gegevens (CPOR).
+title: Incentives-klant verbanden
+description: Informatie over belangrijke processen en tijdlijnen voor het beheren van klant Partner of Record geclaimde gegevens (CPOR).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
@@ -9,17 +9,17 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
 ms.openlocfilehash: d99de8ed53ae6ed7fa094f6da7a8947c1bcfccb9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957211"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244916"
 ---
 # <a name="manage-incentives-customer-associations"></a>Klant verbanden met incentives beheren
 
-**Juiste rollen:** Factureringsbeheerder | Globale beheerder | Incentives-beheerder
+**Juiste rollen:** Factureringsbeheerders | Globale beheerder | Incentives-beheerder
 
-Het CPOR-platform (Geclaimde Partner of Record) wordt gebruikt voor partners om zichzelf te koppelen aan eindklanten waarvoor ze het gebruik of de aankoop van Microsoft-producten beïnvloeden. Op dit moment ondersteunt het CPOR-platform de Business Applications en Microsoft 365 producten. Partners gebruiken deze associatiemethode om inzicht te krijgen in de prestaties van klanten, om incentives te ontvangen via de OSU- en OSA-programma's en om een inkomstenassoring te verdienen als zakelijke beïnvloeder.  
+Het CPOR-platform (Geclaimde Partner of Record) wordt gebruikt voor partners om zichzelf te koppelen aan eindklanten waarvoor ze het gebruik of de aankoop van Microsoft-producten beïnvloeden. Momenteel ondersteunt het CPOR-platform de Business Applications en Microsoft 365 producten. Partners gebruiken deze associatiemethode om inzicht te krijgen in de prestaties van klanten, om incentives te ontvangen via de OSU- en OSA-programma's en om een inkomstenassoring te verdienen als zakelijke beïnvloeder.  
 
 ## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Hoe uw CPOR-associatieclaim zich verhoudt tot incentives
 
@@ -33,7 +33,7 @@ Als uw CPOR-associatieclaim is goedgekeurd en in aanmerking komt voor incentives
 
 - Verzonden: De status wordt maximaal vijf werkdagen verzonden totdat Microsoft het goedkeuringsproces start.
 - Onder Beoordeling: Microsoft heeft vijf werkdagen de tijd om een beslissing te nemen op basis van het bewijs van uitvoering dat u levert.
-- Partneractie vereist: als een revisor u opmerkingen en een verzoek om aanvullende informatie stuurt, hebt u vijf werkdagen om te reageren. Er moet binnen tien dagen een beslissing worden genomen over uw CPOR-associatieclaim op basis van de SLA van de revisor, plus de hoeveelheid tijd die nodig is om revisoren van poe's (Proof of Execution) te voorzien van aanvullende informatie.
+- Actie van partner vereist: Als een revisor opmerkingen en een verzoek om aanvullende informatie stuurt, hebt u vijf werkdagen om te reageren. Er moet binnen tien dagen een beslissing worden genomen over uw CPOR-associatieclaim op basis van de SLA van de revisor, plus de hoeveelheid tijd die nodig is om revisoren van poe's (Proof of Execution) te voorzien van aanvullende informatie.
 - Goedgekeurd: uw CPOR-associatieclaim is goedgekeurd. Nadat uw associatie is goedgekeurd, wordt er een melding verzonden naar de klant, zodat deze de mogelijkheid krijgt om uw associatie te weigeren. De klant heeft dan zeven dagen de tijd om af te zien. Zodra deze toestemmingsperiode is verstreken, wordt de claim verzonden om de geschiktheid voor incentive-programma's te beoordelen.
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>De status van uw CPOR-associatieclaim weergeven
@@ -48,7 +48,7 @@ Dit zijn de statussen en hun betekenis:
 |  Ingediend  | De partner heeft de CPOR-associatieclaim ingediend, maar Microsoft is het beoordelingsproces nog niet gestart.   |
 |  Wordt beoordeeld  | Microsoft is begonnen met het valideren van uw PoE-documentatie. We kunnen contact met u opnemen voor meer informatie. De SLA voor het beoordelingsproces is vijf werkdagen.  |
 |  Afgewezen  | Uw PoE was onvoldoende of u hebt niet binnen vijf werkdagen gereageerd volgens de Richtlijnen voor PoE-controle en de claim is geweigerd.   |
-|  Goedgekeurd  | De claim is goedgekeurd. Na goedkeuring van Microsoft heeft de klant de mogelijkheid gekregen om uw associatie te weigeren. De klant heeft zeven dagen de tijd om uit te kiezen na goedkeuring van Microsoft. Hoewel uw claim wordt weer gegeven als goedgekeurd, wordt deze alleen verzonden voor incentive-evaluatie nadat de toestemmingsperiode is verstreken.   |
+|  Goedgekeurd  | De claim is goedgekeurd. Na goedkeuring van Microsoft heeft de klant de mogelijkheid gekregen om uw associatie te weigeren. De klant heeft zeven dagen de tijd om af te zien van de goedkeuring van Microsoft. Hoewel uw claim wordt weer gegeven als goedgekeurd, wordt deze alleen verzonden voor incentive-evaluatie nadat de toestemmingsperiode is verstreken.   |
 |  Partneractie vereist  | Microsoft heeft de PoE van uw CPOR-associatieclaim beoordeeld en heeft meer informatie nodig met betrekking tot uw PoE voor de producten/workloads die u hebt geclaimd. U hebt vijf werkdagen de tijd om aangevraagde gegevens op te geven en uw claim opnieuw in te dienen, anders wordt deze geweigerd. Hieronder vindt u mogelijke redenen waarom aanvullende informatie nodig is:
 
 - Missing All PoE (Ontbrekende PoE): PoE ontbreekt omdat een onjuist bestand is geüpload of een bestand dat niet bij de CPOR-koppelingsclaim hoort
@@ -79,7 +79,7 @@ Als er 30 dagen zijn verstreken en u nog steeds een afgewezen claim wilt betwist
 
 Er zijn drie belangrijke redenen waarom een CPOR-associatieclaim moet worden afgewezen.
 
-**Partneraanvraag:** Partners kunnen een aanvraag indienen om hun associatie te laten afgewezen. Deze logica wordt vooral gebruikt wanneer de partner per ongeluk een CPOR-associatieclaim heeft gemaakt met behulp van een onjuiste MPN, een onjuiste activiteit heeft gekozen (u hebt bijvoorbeeld gekozen voor Omzetbinding in plaats van pre-sales) of niet langer met de klant werkt.
+**Partneraanvraag:** Partners kunnen een aanvraag indienen om hun associatie te laten afgewezen. Deze logica wordt voornamelijk gebruikt wanneer de partner per ongeluk een CPOR-associatieclaim heeft gemaakt met behulp van een onjuiste MPN, een onjuiste activiteit heeft gekozen (u hebt bijvoorbeeld Gekozen voor Omzetbinding in plaats van Pre-Sales) of niet langer met de klant werkt.
 
 **Klantte weigeren:** Zodra de CPOR-associatieclaim het PoE-goedkeuringsproces heeft doorlopen, verandert de status ervan in Goedgekeurd terwijl de klant de mogelijkheid krijgt om toestemming van de associatie te weigeren. Als de klant toestemming weigert, wordt de koppeling geweigerd.
 
@@ -113,7 +113,7 @@ Zodra revisoren uw PoE hebben doorgegaan, kunnen ze bepalen dat er aanvullende i
 
 ## <a name="view-claim-history"></a>Claimgeschiedenis weergeven
 
-In de CPOR-associatieclaim, rechtsboven, is  er een knop Geschiedenis waarmee u alle wijzigingen, opmerkingen en acties op deze claim kunt zien vanuit het perspectief van een partner en revisor.
+In de CPOR-associatieclaim, rechtsboven, is  er een knop Geschiedenis waarmee u alle wijzigingen, opmerkingen en acties die zijn ondernomen op deze claim kunt zien vanuit het perspectief van een partner en revisor.
 
 ## <a name="next-steps"></a>Volgende stappen
 

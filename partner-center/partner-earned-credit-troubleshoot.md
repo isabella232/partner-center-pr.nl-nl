@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 07/22/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Meer informatie over het oplossen van factuurproblemen en andere problemen met betrekking tot partnertegoed (PEC).
+description: Meer informatie over het oplossen van factuurproblemen en andere problemen met betrekking tot partnertegoeden (PEC).
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957791"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244877"
 ---
 # <a name="troubleshooting-partner-earned-credit"></a>Problemen met partnertegoed oplossen
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Factureringsbeheerder | Verkoopagent
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Factureringsbeheerders | Verkoopagent
 
 ## <a name="troubleshooting-guide"></a>Handleiding voor het oplossen van problemen
 
@@ -32,11 +32,11 @@ Als u problemen hebt met PEC, zoals toegang of ontbrekende gegevens, controleert
 
 4. Zorg er bij Indirecte providers voor dat de MPN-id van de reseller die is ingevoerd in Partner Center (of via API) overeenkomt met de MPN-id van de reseller die is ingevoerd in de Azure Portal.
 
-5. Controleer of uw aanbieding in aanmerking komt. (Oude Azure-aanbiedingen, gereserveerde Azure-instanties en producten van derden komen niet in aanmerking.)
+5. Controleer of uw aanbieding in aanmerking komt. (Oude Azure-aanbiedingen, gereserveerde Instanties van Azure en producten van derden komen niet in aanmerking.)
 
-6. Controleer of u een geldige rol hebt voor Beheer namens (AOBO) of Role-Based Access Control (RBAC) voor het abonnement/de resourcegroep/resource.
+6. Controleer of u een geldige rol Voor beheer namens (AOBO) of Role-Based Access Control (RBAC) hebt voor het abonnement/de resourcegroep/resource.
 
-7. Bepaal of de klant uw RBAC-rol heeft verwijderd. Zo ja, zie Beheerdersbevoegdheden voor de abonnementsabonnementen van een klant Azure CSP herstellen
+7. Bepaal of de klant uw RBAC-rol heeft verwijderd. Als dat het zo is, zie Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen
 
 8. Controleer of u de hele dag beheerderstoegang hebt.
 

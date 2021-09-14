@@ -10,11 +10,11 @@ ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 355f4917098ae6f6e383bf1a889197a725777311
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957460"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246209"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Een resellerrelatie met een klant aanvragen in het Partnercentrum
 
@@ -22,7 +22,7 @@ ms.locfileid: "123957460"
 
 In dit artikel wordt beschreven hoe u een resellerrelatie met een klant in Partner Center.
 
-Directe partners of indirecte providers: als u niet langer met een klant transacteert, kunt u de relatie in de Partner Center.
+Directe partners of indirecte providers: als u niet meer met een klant werkt, kunt u de relatie in de Partner Center.
 
 Het verwijderen van een relatie heeft de volgende gevolgen:
 
@@ -41,13 +41,13 @@ Als u de relatie wilt verwijderen, moet u reserveringen voor gereserveerde insta
 
    2. Selecteer **onder Abonnementen** een abonnement.
 
-   3. Selecteer **Tijdelijk tijdelijk**
+   3. Selecteer **Tijdelijk opgeschort**
 
    4. Herhaal deze stappen voor elk actief abonnement.
 
 2. **Verwijder de relatie in Partner Center:**
 
-   a. Ga in Partner Center naar **Klanten en** selecteer een klant.
+   a. Ga in Partner Center naar **Klanten** en selecteer een klant.
 
    b. Selecteer het **account**.
 
@@ -58,4 +58,4 @@ Als u de relatie wilt verwijderen, moet u reserveringen voor gereserveerde insta
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Een relatie met een klant aanvragen of opnieuw tot stand laten komen](request-a-relationship-with-a-customer.md)
+- [Een relatie met een klant aanvragen of opnieuw tot stand stellen](request-a-relationship-with-a-customer.md)

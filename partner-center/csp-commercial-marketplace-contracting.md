@@ -10,18 +10,18 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 4304d57e122adcfbb36cf32a302d316174b26d90
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956959"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244927"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contracten voor CSP-partners die zaken doen in de commerciële marketplace
 
 
 **Juiste rollen:** Globale | Beheeragent
 
-Dit artikel gaat over contracten voor partners in het CSP-programma die ervoor kiezen om ISV Marketplace-aanbiedingen of -producten voor hun klanten te kopen via de commerciële marketplace Partner Center de Azure Portal.
+Dit artikel gaat over contracten voor partners in het CSP-programma die ervoor kiezen om ISV Marketplace-aanbiedingen of -producten voor hun klanten te kopen via de commerciële marketplace van Partner Center de Azure Portal.
 
 De [CSP programmagids](https://go.microsoft.com/fwlink/p/?LinkId=617100) bevat de voorwaarden voor aanbiedingen op de commerciële marketplace tussen Microsoft en partners in het CSP-programma. CSP-partners moeten deze voorwaarden controleren om ervoor te zorgen dat ze voldoen aan de voorwaarden binnen het programma.  
 
@@ -36,7 +36,7 @@ Zie voor meer informatie over de voorwaarden voor CSP-activiteiten in de commerc
 
 - **De sectie 'Aanbiedingen van derden'** in de [CSP-programmagids.](https://go.microsoft.com/fwlink/p/?LinkId=617100) Dit biedt de voorwaarden voor de verkoop van ISV-oplossingen door partners in het CSP-programma.
 
-- **Het Microsoft Partner-overeenkomst (MPA) bepaalt** het CSP-programma, en vervangt de bestaande MCRA en MCDA. De MPA is beschikbaar op [Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) zodat partners die ervoor kiezen om deel te nemen aan het CSP-programma deze kunnen controleren en accepteren.
+- **De Microsoft Partner-overeenkomst (MPA) bepaalt** het CSP-programma, en vervangt de bestaande MCRA en MCDA. De MPA is beschikbaar op [Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) zodat partners die ervoor kiezen om deel te nemen aan het CSP-programma deze kunnen controleren en accepteren.
   
 Microsoft accepteert geen juridische verantwoordelijkheid voor de levering van services tussen verhandelende partijen en biedt geen mechanisme voor partners om juridische voorwaarden vast te stellen via het handelsplatform. Als de partners die transacties uitvoeren aanvullende juridische voorwaarden nodig hebben, moeten ze rechtstreeks een overeenkomst uitvoeren.
 

@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7ca839abb193f09d37769e14eedf08ea415e902f
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957493"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245727"
 ---
 # <a name="new-commerce-experience-for-license-based-services"></a>Nieuwe commerce-ervaring voor op licenties gebaseerde services
 
@@ -24,7 +24,7 @@ ms.locfileid: "123957493"
 - Verkoopagent
 - Globale beheerder
 
-Microsoft heeft een nieuwe commerce-ervaring in Partner Center voor op licenties gebaseerde services. De nieuwe commerce-ervaring biedt partners meer flexibiliteit en mogelijkheden bij het kopen en beheren van producten zoals Microsoft 365, Dynamics 365, Windows Intune en andere services die al jaren beschikbaar zijn in Partner Center.
+Microsoft heeft een nieuwe commerce-ervaring geïntroduceerd in Partner Center voor op licenties gebaseerde services. De nieuwe commerce-ervaring biedt partners meer flexibiliteit en mogelijkheden bij het kopen en beheren van producten zoals Microsoft 365, Dynamics 365, Windows Intune en andere services die al jaren beschikbaar zijn in Partner Center.
 
 Partners kunnen op de traditionele manier nog steeds services voor licentiebases  aanschaffen, maar zien nieuwe commerce-indicatoren voor deze aanbiedingen in de catalogus.
 

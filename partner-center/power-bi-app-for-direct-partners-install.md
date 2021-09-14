@@ -11,11 +11,11 @@ ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957699"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244838"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Install and preview the Partner Center Analytics app for Microsoft Power BI (Partner Center Analytics-app voor Microsoft Power BI installeren en preview bekijken)
 
@@ -32,7 +32,7 @@ Selecteer de toepassing die het meest relevant is voor uw bedrijf in de volgende
 
 - [Indirecte reseller](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
-Voordat u de preview-Partner Center analytics-app installeert, moet u ervoor zorgen dat u aan de volgende vereisten voldoet.
+Voordat u de preview-Partner Center Analytics-app installeert, moet u ervoor zorgen dat u aan de volgende vereisten voldoet.
 
 - U kiest de juiste Power BI app voor uw bedrijf.
 
@@ -42,7 +42,7 @@ Voordat u de preview-Partner Center analytics-app installeert, moet u ervoor zor
 
 - U kunt zich aanmelden bij Power BI.
 
-- U kunt zich aanmelden als globale beheerder, beheerderagent of factureringsbeheerder bij de [tenant van uw Azure Active Directory (Azure AD).](azure-active-directory-tenants-and-partner-center.md)
+- U kunt zich aanmelden als globale beheerder, beheerderagent of factureringsbeheerder bij de [tenant van uw bedrijf Azure Active Directory (Azure AD).](azure-active-directory-tenants-and-partner-center.md)
 
 ## <a name="to-install-the-app"></a>De app installeren
 
@@ -64,9 +64,9 @@ Voordat u de preview-Partner Center analytics-app installeert, moet u ervoor zor
 
 9. Aan de slag het scherm van uw nieuwe app wordt geopend.
 
-10. Als u verbinding wilt maken met de gegevens, **selecteert Verbinding maken**.
+10. Als u verbinding wilt maken met de gegevens, **selecteert u Verbinding maken.**
 
-11. Controleer **in Verbinding maken** het pop-upvenster Partner Center Analytics of de verificatiemethode **is** ingesteld op **oAuth2** of selecteer **oAuth2** in de lijst als dat niet zo is. 
+11. Controleer in **Verbinding maken** Partner Center Analytics-pop-upvenster of de verificatiemethode **is** ingesteld op **oAuth2** of selecteer **oAuth2** in de lijst als dat niet zo is. 
 
 > [!NOTE]  
 >  Het kan enkele minuten duren voordat dit venster wordt weergegeven.

@@ -9,15 +9,15 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.openlocfilehash: a8a94fc1a6e69bab0a7671bd27949e271a77dbbe
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957412"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244895"
 ---
 # <a name="delete-report-api"></a>Rapport-API verwijderen
 
-Bij de uitvoering verwijdert deze API alle uitvoeringsrecords voor het rapport en het rapport.
+Bij de uitvoering worden met deze API alle records voor de uitvoering van het rapport en het rapport verwijderd.
 
 **Aanvraagsyntaxis**
 
@@ -30,7 +30,7 @@ Bij de uitvoering verwijdert deze API alle uitvoeringsrecords voor het rapport e
 
 |    Header    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in de vorm`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 
@@ -57,7 +57,7 @@ Geen
 
 De nettolading van het antwoord is als volgt gestructureerd:
 
-Responscode: 200, 400, 401, 403, 404, 500
+Antwoordcode: 200, 400, 401, 403, 404, 500
 
 Voorbeeld van nettolading van antwoord:
 
@@ -96,12 +96,12 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    Parameter    |    Beschrijving    |
 |    ----    |    ----    |
 |    ReportId     |    Universally Unique Identifier (UUID) van het verwijderde rapport     |
-|    ReportName     |    Naam die tijdens het maken aan het rapport is gegeven     |
+|    ReportName     |    Naam die aan het rapport is gegeven tijdens het maken     |
 |    Description     |    Beschrijving gegeven tijdens het maken van het rapport     |
 |    QueryId     |    Query-id doorgegeven op het moment dat het rapport werd gemaakt     |
 |    Query’s uitvoeren     |    Querytekst die wordt uitgevoerd voor dit rapport     |
 |    Gebruiker     |    Gebruikers-id die wordt gebruikt om het rapport te maken     |
-|    CreatedTime     |    Het tijdstip dat het rapport is gemaakt. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Tijd dat het rapport is gemaakt. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Het tijdstip dat het rapport voor het laatst is gewijzigd. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |
 |    ExecuteNow     |    ExecuteNow-vlag ingesteld op het moment dat het rapport werd gemaakt     |
 |    StartTime     |    Tijd dat de uitvoering van het rapport begint. De tijdnotatie is yyyy-MM-ddTHH:mm:ssZ     |

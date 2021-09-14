@@ -9,11 +9,11 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244896"
 ---
 # <a name="get-report-queries-api"></a>API voor rapportquery's opvragen
 
@@ -30,7 +30,7 @@ De API Rapportquery's verkrijgen haalt alle query's op die beschikbaar zijn voor
 
 |    Header    |    Type    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in het formulier`Bearer <token>`    |
+|    Autorisatie    |    tekenreeks    |    Vereist. Het Azure Active Directory (AAD) in de vorm`Bearer <token>`    |
 |    Content-Type    |    tekenreeks    |    `Application/JSON`    |
 |        |        |        |
 
@@ -94,7 +94,7 @@ Deze tabel definieert de belangrijkste elementen in het antwoord:
 |    Name     |    Naam die aan de query is gegeven op het moment dat de query wordt gemaakt     |
 |    Description     |    Beschrijving opgegeven tijdens het maken van de query     |
 |    Query’s uitvoeren     |    Rapportqueryreeks     |
-|    Type     |    Ingesteld op userDefined voor door de gebruiker gemaakte query's en het systeem voor vooraf gedefinieerde systeemquery's     |
+|    Type     |    Ingesteld op userDefined voor door de gebruiker gemaakte query's en systeem voor vooraf gedefinieerde systeemquery's     |
 |    Gebruiker     |    Gebruikers-id die de query heeft gemaakt     |
 |    CreatedTime     |    Tijdstip van het maken van de query     |
 |    Totaal aantal     |    Aantal gegevenssets in de matrix Waarde     |

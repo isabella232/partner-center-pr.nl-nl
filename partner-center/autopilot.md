@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 95a201c53fc2eaf230d08bb4cfdd03a5747b5c05
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957325"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244771"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Windows Autopilot-profielen gebruiken op nieuwe apparaten om de kant-en-klaar-ervaring van een klant aan te passen
 
@@ -22,7 +22,7 @@ ms.locfileid: "123957325"
 
 Als u klantapparaten beheert, moet u mogelijk de out-of-box experience (OOBE) aanpassen voor de gebruikers van de klant. U kunt nieuwe apparaten vooraf configureren met Windows Autopilot-profielen voordat u de apparaten aan klanten levert en nieuwe profielen kunt toepassen op apparaten die klanten al hebben aangeschaft. 
 
-Houd er rekening mee dat OEM's zijn begonnen met het gebruik van een verzendlabel aan de buitenzijde van het Autopilot-apparaatvak, met daarin de **PKID (Product Key ID)** van het apparaat.  Deze 1-dimensionale, leesbare streepjescode biedt downstreampartners een manier om apparaten te registreren voor Autopilot zonder dat de apparaat-id's moeten worden uit postvak gemaakt en de apparaat-id op een alternatieve manier moet worden gesereerd.
+Houd er rekening mee dat OEM's zijn begonnen met het gebruik van een verzendlabel aan de buitenzijde van het Autopilot-apparaatvak, met daarin de **PKID (Product Key ID)** van het apparaat.  Deze 1-dimensionale, leesbare streepjescode biedt downstreampartners een manier om apparaten te registreren voor Autopilot zonder dat de apparaten uit het postvak moeten worden geplaatst en de apparaat-id op een alternatieve manier moeten worden gesereerd.
 
 In dit artikel wordt uitgelegd hoe u Autopilot-profielen kunt maken en toepassen op apparaten in Partner Center.
 
@@ -35,7 +35,7 @@ Als u nog niet bekend bent met Autopilot, bekijkt u de informatie in deze artike
 
 Met de Windows Autopilot-functie in Partner Center kunt u aangepaste profielen maken om toe te passen op apparaten van klanten. De volgende profielinstellingen waren beschikbaar op het moment dat dit artikel werd gepubliceerd:
 
-- Privacy-instellingen overslaan. Met deze optionele Autopilot-profielinstelling kunnen organisaties geen vragen stellen over privacy-instellingen tijdens het OOBE-proces.
+- Privacy-instellingen overslaan. Met deze optionele Autopilot-profielinstelling kunnen organisaties tijdens het OOBE-proces geen vragen stellen over privacy-instellingen.
 
 - Het maken van lokale beheerdersaccounts op het apparaat uitschakelen. Organisaties kunnen bepalen of de gebruiker die het apparaat instel, beheerderstoegang moet hebben zodra het proces is voltooid.
 
@@ -43,7 +43,7 @@ Met de Windows Autopilot-functie in Partner Center kunt u aangepaste profielen m
 
 - Sla Cortana pagina's voor OneDrive- en OEM-registratie over. Alle apparaten die zijn geregistreerd bij Autopilot slaan deze pagina's automatisch over tijdens het OOBE-proces (Out-Of-Box Experience).
 
-- Gebruikslicentieovereenkomst (EULA) overslaan. Vanaf Windows 10 versie 1709 kunnen organisaties besluiten de pagina met de eula die tijdens het OOBE-proces wordt gepresenteerd, over te slaan. Zie [Windows autopilot-eula](#windows-autopilot-eula-dismissal) hieronder voor belangrijke informatie over het overslaan van de eula-pagina tijdens Windows installatie.
+- Gebruikslicentieovereenkomst (EULA) overslaan. Vanaf versie Windows 10 versie 1709 kunnen organisaties besluiten de pagina met de eula die tijdens het OOBE-proces wordt gepresenteerd, over te slaan. Zie [Windows Autopilot EULA](#windows-autopilot-eula-dismissal) hieronder voor belangrijke informatie over het overslaan van de eula-pagina tijdens het instellen Windows eula.
 
 De volgende profiel- en apparaatbeheermachtigingen en -beperkingen zijn van toepassing:
 
@@ -75,11 +75,11 @@ In Partner Center kunt u Windows Autopilot-implementatieprofielen maken en deze 
    - Lokaal beheerdersaccount uitschakelen tijdens de installatie
   
    - Pagina's automatisch overslaan tijdens de installatie<br>
-        (Inclusief *de pagina's Automatisch instellen* voor werk of school selecteren en *Pagina'Cortana, OneDrive oem-registratie instellen)*
+        (Inclusief *de pagina's Automatisch instellen* voor werk of school selecteren en *Pagina'Cortana, OneDrive- en OEM-registratie-instellingen overslaan)*
   
    - Gebruikersinterfaceovereenkomst (EULA) overslaan<br> 
        >[!IMPORTANT] 
-       >Zie [Windows autopilot-eula](#windows-autopilot-eula-dismissal) hieronder voor belangrijke informatie over het overslaan van de eula-pagina tijdens Windows installatie.
+       >Zie [Windows Autopilot EULA](#windows-autopilot-eula-dismissal) hieronder voor belangrijke informatie over het overslaan van de eula-pagina tijdens het instellen Windows eula.
 
 5. Selecteer **Verzenden** wanneer u klaar bent.
 
@@ -150,14 +150,14 @@ Volg de onderstaande instructies om apparaten toe te voegen aan het account van 
 
 3. Selecteer **onder Profielen toepassen op apparaten** de optie Apparaten **toevoegen.**
 
-4. Voer een naam in voor de lijst met apparaten en selecteer vervolgens **Bladeren** om de lijst van de klant te uploaden (in .csv bestandsindeling) naar Partner Center.
+4. Voer een naam in voor de lijst met apparaten en selecteer vervolgens **Bladeren** om de lijst van de klant (in .csv bestandsindeling) te uploaden naar Partner Center.
 
     >[!NOTE]
-    >U hebt dit bestand .csv ontvangen bij de aankoop van uw apparaat. Als u geen .csv hebt ontvangen, kunt u er zelf een maken door de stappen in Apparaten toevoegen aan Windows [Autopilot te volgen.](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)  
+    >U hebt dit .csv ontvangen bij de aankoop van uw apparaat. Als u geen .csv hebt ontvangen, kunt u er zelf een maken door de stappen in Apparaten toevoegen aan Windows [Autopilot te volgen.](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)  
 
-5. Upload het .csv en selecteer vervolgens **Opslaan.**
+5. Upload het .csv bestand en selecteer **vervolgens Opslaan.**
 
-Als u een foutbericht krijgt terwijl u probeert het .csv-bestand te uploaden, moet u de bestandsindeling controleren. U kunt alleen de hardwarehash gebruiken, of de OEM-naam, het serienummer en het model (in die kolomvolgorde) of de Windows-product-id. U kunt ook het voorbeeldbestand .csv de koppeling naast **Apparaten toevoegen** gebruiken om een apparaatlijst te maken.
+Als u een foutbericht krijgt terwijl u probeert het .csv-bestand te uploaden, moet u de bestandsindeling controleren. U kunt alleen de hardwarehash gebruiken, of de OEM-naam, het serienummer en het model (in die kolomvolgorde) of de Windows-product-id. U kunt ook het voorbeeldbestand .csv de koppeling naast **Apparaten toevoegen** gebruiken om een apparatenlijst te maken.
 
 Uw .csv ziet er als het volgende uit:
 
@@ -187,4 +187,4 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 Windows Met Autopilot kunt u aangepaste installaties van Windows op apparaten die u voor uw klanten beheert. Als de klant gemachtigd is om dit te doen, kunt u bepaalde instelschermen onderdrukken of verbergen die normaal gesproken aan gebruikers worden gepresenteerd bij het instellen van Windows, met inbegrip van het acceptatiescherm voor de gebruikersinterface (gebruikslicentieovereenkomst).
 
-Door deze functie te gebruiken, gaat u ermee akkoord dat het onderdrukken of verbergen van schermen die zijn ontworpen om gebruikers te voorzien van kennisgeving of acceptatie van voorwaarden betekent dat u voldoende toestemming en autorisatie van uw klant hebt verkregen om voorwaarden te verbergen, en dat u namens uw klant (ongeacht of het om een organisatie of een afzonderlijke gebruiker gaat),  toestemming geven voor kennisgevingen en alle voorwaarden accepteren die van toepassing zijn op uw klant. Dit omvat overeenkomst met de voorwaarden van de licentie of kennisgeving die aan de gebruiker wordt gepresenteerd als u deze niet onderdrukt of verbergt met behulp van dit hulpprogramma. Uw klant mag de Windows-software op deze apparaten niet gebruiken als de klant geen geldige licentie voor de software heeft verkregen van Microsoft of zijn gelicentieerde distributeurs.
+Door deze functie te gebruiken, gaat u ermee akkoord dat het onderdrukken of verbergen van schermen die zijn ontworpen om gebruikers te voorzien van kennisgeving of acceptatie van voorwaarden betekent dat u voldoende toestemming en autorisatie van uw klant hebt verkregen om voorwaarden te verbergen, en dat u namens uw klant (ongeacht of het om een organisatie of een afzonderlijke gebruiker gaat),  toestemming geven voor kennisgevingen en alle voorwaarden accepteren die van toepassing zijn op uw klant. Dit omvat overeenkomst met de voorwaarden van de licentie of kennisgeving die aan de gebruiker zou worden gepresenteerd als u deze niet onderdrukt of verbergt met behulp van dit hulpprogramma. Uw klant mag de Windows-software op deze apparaten niet gebruiken als de klant geen geldige licentie voor de software heeft verkregen van Microsoft of zijn gelicentieerde distributeurs.

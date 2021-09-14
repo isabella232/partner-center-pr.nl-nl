@@ -10,11 +10,11 @@ ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
 ms.openlocfilehash: 40bf84ed47c946b84f511693d9f8351b3ffa5a95
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957523"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244755"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Beginnen met betalen per gebruik-tarieven met het Azure-plan
 
@@ -25,35 +25,35 @@ Microsoft heeft een nieuwe commerce-ervaring in Partner Center.  Met deze nieuwe
 
 Dit plan vereenvoudigt de aankoopervaring: u kunt meerdere Azure-abonnementen in een Azure-abonnement hebben. U hoeft niet langer een afzonderlijke order per Azure-abonnement in te dienen. En in deze nieuwe commerce-ervaring voor Azure zijn we afgestemd op één globaal prijsprincipe waarmee CSP-partners Azure tegen de gepubliceerde prijzen kunnen aanbieden.
 
-Voor de digitale transformatiebehoeften van onze klanten zijn nieuwe vaardigheden van partners vereist. Veel klanten zijn op zoek naar partners om services te bieden die verder gaan dan de transactie, om hun cloudtraject soepeler te laten verlopen en Azure-services efficiënt te gebruiken. Microsoft-partners spelen een cruciale rol in alle fasen van de levenscyclus van de klant. Dit soort partnerservices zijn van aard en omvatten azure estate monitoring, beleids- en governancebeheer, afstemming van instellingen en configuraties, technische ondersteuning en tal van andere services. Ze vereisen dat een partner nauw vertrouwd is met de Azure-omgeving van de klant en continue en juiste governance en controle heeft over de onderliggende resources die ze beheren. Factureringspartners die dit 24 x 7 cloudbewerkingsbeheer bieden, komen in aanmerking voor partnertegoed voor **services die** voor dat werk worden beheerd.
+Voor de digitale transformatiebehoeften van onze klanten zijn nieuwe vaardigheden van partners vereist. Veel klanten zijn op zoek naar partners om services te bieden die verder gaan dan de transactie, om hun cloudtraject soepeler te laten verlopen en Azure-services efficiënt te gebruiken. Microsoft-partners spelen een cruciale rol in alle fasen van de levenscyclus van de klant. Dit soort partnerservices zijn van aard en omvatten azure estate monitoring, beleids- en governancebeheer, afstemming van instellingen en configuraties, technische ondersteuning en tal van andere services. Ze vereisen dat een partner nauw vertrouwd is met de Azure-omgeving van de klant en continue en juiste governance en controle heeft over de onderliggende resources die ze beheren. Factureringspartners die dit cloudbewerkingsbeheer 24 x 7 bieden, komen in aanmerking voor partnertegoed voor **services die** voor dat werk worden beheerd.
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Zorg ervoor dat uw klanten de Microsoft-klantovereenkomst
 
 Sinds 1 oktober 2019 is de Microsoft-klantovereenkomst een doorlopende overeenkomst beschikbaar die de aankoopervaring van klanten vereenvoudigt en stroomlijnt met een volledig digitaal proces. Alle klanten die willen profiteren van de nieuwe commerce-ervaring in CSP voor Azure, moeten de Microsoft-klantovereenkomst.
 
-Partners die een transact willen uitvoeren onder het nieuwe Azure-plan en een nieuwe order willen plaatsen, moeten de klantacceptatie van de Microsoft-klantovereenkomst bevestigen met behulp van het Partner Center-dashboard en de API in productie.
+Partners die een transact willen uitvoeren onder het nieuwe Azure-plan en een nieuwe order willen plaatsen, moeten de klantacceptatie van de Microsoft-klantovereenkomst bevestigen met behulp van het Partner Center dashboard en de API in productie.
 
 Vanaf 1 februari 2020 wordt de bestaande Microsoft Cloud-overeenkomst verwijderd uit het CSP-programma. Vanaf dat moment is partnerbevestiging (attestation) van de acceptatie van de klant voor de nieuwe Microsoft-klantovereenkomst vereist voor alle andere aanbiedingen, waaronder Microsoft 365, Dynamics 365 en bestaande Azure. Partners in de CSP kunnen geen nieuwe bestelling voor de klant maken zonder attestation van de Microsoft-klantovereenkomst.
 
-Lees Acceptatie van de Microsoft-klantovereenkomst [voor meer Microsoft-klantovereenkomst](confirm-customer-agreement.md)
+Lees Acceptatie van [klantacceptatie van](confirm-customer-agreement.md) de Microsoft-klantovereenkomst voor meer informatie
 
 ## <a name="security-and-access-control-practices"></a>Beveiligings- en toegangsbeheerprocedures
 
 Ter bescherming van partners en klanten introduceren we een set verplichte beveiligingsvereisten voor adviseurs, Configuratiescherm-leveranciers en partners die deelnemen aan het Cloud Solution Provider-programma.
 
-Partners die de verplichte beveiligingsvereisten niet implementeren, kunnen geen zaken doen in het Cloud Solution Provider-programma of tenants van klanten beheren met beheerdersrechten voor delegeren zodra deze vereisten zijn afgedwongen. Er wordt een datum voor technische afdwinging voor de vereisten gemaakt en partners worden op de hoogte gesteld van de datum met gedetailleerde informatie.
+Partners die de verplichte beveiligingsvereisten niet implementeren, kunnen geen transact uitvoeren in het Cloud Solution Provider-programma of tenants van klanten beheren met beheerdersrechten voor delegeren zodra deze vereisten zijn afgedwongen. Er wordt een datum voor technische afdwinging voor de vereisten gemaakt en partners worden op de hoogte gesteld van de datum met gedetailleerde informatie.
 
 ## <a name="actions-to-take-to-implement-mfa"></a>Acties die moeten worden ondernomen om MFA te implementeren
 
 Gezien de zeer bevoorrechte aard van partner zijn, moeten we ervoor zorgen dat elke gebruiker een MFA-uitdaging heeft voor elke afzonderlijke verificatie. Dit kan op een van de volgende manieren:
 
 - Implementatie van Azure AD Premium en ervoor zorgen dat meervoudige verificatie (MFA) wordt afgedwongen voor elke gebruiker
-- De standaardinstellingen voor [Azure AD-beveiliging implementeren](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- De [standaardinstellingen voor Azure AD-beveiliging implementeren](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Een oplossing van derden implementeren en ervoor zorgen dat MFA wordt afgedwongen voor elke gebruiker
 
 Vanaf 1 augustus 2019 moeten alle partners meervoudige verificatie afdwingen voor alle gebruikers, inclusief serviceaccounts, in hun partner-tenant. Gedetailleerde informatie over deze beveiligingsvereisten vindt u in [Beveiligingsvereisten van partners.](partner-security-requirements.md)
 
-Microsoft raadt partners aan om zorgvuldig gebruik te maken van RBAC, volgens de aanbevolen procedures die via de [Azure Active Directory Privileged Identity Management ingeschakeld.](/azure/active-directory/privileged-identity-management/pim-configure)
+Microsoft raadt partners aan om zorgvuldig gebruik te maken van RBAC, volgens de aanbevolen procedures die zijn ingeschakeld via [Azure Active Directory Privileged Identity Management resources.](/azure/active-directory/privileged-identity-management/pim-configure)
 
 ## <a name="read-more-about-the-azure-plan"></a>Meer informatie over het Azure-plan
 

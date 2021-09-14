@@ -10,11 +10,11 @@ ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 0a3af74158b36442118d41662744fc921277963c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956863"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246195"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen  
 
@@ -27,7 +27,7 @@ Als Cloud Solution Provider (CSP)-partner verwachten uw klanten vaak dat u hun A
 Er zijn twee niveaus van beheerdersbevoegdheden voor Azure in CSP.
 
 - **Beheerdersbevoegdheden op tenantniveau (gedelegeerde beheerdersbevoegdheden)**: CSP-partners krijgen deze bevoegdheden tijdens het tot stand brengen van een CSP-resellerrelatie met klanten. Gedelegeerde beheerdersbevoegdheden geven CSP-partners toegang tot de tenants van hun klanten. Met deze toegang kunnen ze beheerfuncties uitvoeren, zoals gebruikers toevoegen/beheren, wachtwoorden opnieuw instellen en gebruikerslicenties beheren.
-- **Beheerdersbevoegdheden op abonnementsniveau:** CSP-partners krijgen deze bevoegdheden tijdens het maken van Azure CSP voor hun klanten. Deze bevoegdheden geven CSP-partners volledige toegang tot deze abonnementen, zodat ze Azure-resources kunnen inrichten en beheren.
+- **Beheerdersbevoegdheden op abonnementsniveau:** CSP-partners krijgen deze bevoegdheden tijdens het maken van Azure CSP-abonnementen voor hun klanten. Deze bevoegdheden geven CSP-partners volledige toegang tot deze abonnementen, zodat ze Azure-resources kunnen inrichten en beheren.
 
 ## <a name="reinstate-csp-a-partners-admin-privileges"></a>De beheerdersbevoegdheden van een partner opnieuw in CSP herstellen
 
@@ -35,7 +35,7 @@ Uw klant kan de CSP-roltoewijzing opnieuw maken als u de van de `object ID` groe
 
 1. Meld u aan bij Partner Center dashboard.
 
-2. Selecteer in Partner Center menu **Klanten**.
+2. Selecteer in Partner Center menu **Klanten.**
 
 3. Selecteer de klant met wie u werkt en vraag **een resellerrelatie aan.** Met deze actie wordt een koppeling gegenereerd naar de klant met tenantbeheerdersrechten.
 

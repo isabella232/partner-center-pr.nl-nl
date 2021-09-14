@@ -9,15 +9,15 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.openlocfilehash: cbd9f7fd08dfc4cfd247a0ed07a2c12845c5514c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957397"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244893"
 ---
 # <a name="available-apis-for-partner-insights-analytics"></a>Beschikbare API's voor analyse van partnerinzichten
 
-Hieronder vindt u de lijst met API's voor analyse van partnerinzichten en de bijbehorende functies.
+Hieronder vindt u een lijst met API's voor analyse van partnerinzichten en de bijbehorende functies.
 
 ## <a name="dataset-pull-apis"></a>Pull-API's voor gegevenssets
 
@@ -46,7 +46,7 @@ Hieronder vindt u de lijst met API's voor analyse van partnerinzichten en de bij
 | **API** | **Functionaliteit** |
 | --- | --- |
 | [Rapport maken](insights-programmatic-access-paradigm.md#create-report-api) | Een query wordt gepland om regelmatig te worden uitgevoerd. |
-| [RAPPORTquery UITPROBEREN](insights-programmatic-analytics-api-try-report-queries.md) | Hiermee wordt een query-instructie rapport uitgevoerd. Retourneert slechts 10 records die een partner kan gebruiken om te controleren of de gegevens zijn zoals verwacht. |
+| [RAPPORTquery UITPROBEREN](insights-programmatic-analytics-api-try-report-queries.md) | Hiermee wordt een rapportquery-instructie uitgevoerd. Retourneert slechts 10 records die een partner kan gebruiken om te controleren of de gegevens zijn zoals verwacht. |
 | [Rapport ophalen](insights-programmatic-analytics-api-get-report.md) | Haal alle rapporten op die zijn gepland. |
 | [Rapport bijwerken](insights-programmatic-analytics-api-update-report.md) | Wijzig een rapportparameter. |
 | [Rapport verwijderen](insights-programmatic-analytics-api-delete-report.md) | Hiermee verwijdert u alle records voor de uitvoering van het rapport en het rapport. |

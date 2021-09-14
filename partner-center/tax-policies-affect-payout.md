@@ -8,11 +8,11 @@ author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
 ms.openlocfilehash: 6a069db0334b13309e39e08bcc7b70f22eaa5c69
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957803"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244831"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Hoe belastingbeleid van invloed is op uitbetaling voor Azure Marketplace
 
@@ -47,17 +47,17 @@ Zie [Scenario D](#foreign-publisher-transacts-with-us-customer) voor transacties
 
 Zie Abonnementen en prijzen voor commerciële marketplace-aanbiedingen voor meer informatie over landspecifieke prijzen (bijvoorbeeld om toekomstige belastingen [te compenseren).](/azure/marketplace/plans-pricing#custom-prices)
 
-:::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Toont de werkstroom voor het uitbetalingsprocesscenario C.":::
+:::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Toont de werkstroom voor uitbetalingsprocesscenario C.":::
 
 ## <a name="foreign-publisher-transacts-with-us-customer"></a>Foreign Publisher Transacts with US Customer
 
-**Scenario D:** alle uitgevers van vreemde landen (zoals gedefinieerd door hun Partner Center Tax Profile Information) in landen zonder amerikaanse toestemming (zie [Scenario E](#foreign-publisher-with-a-treaty-transacts-with-us-customer)) die een verkoop aan een Amerikaanse klant doen (zoals gedefinieerd door het adres van hun klantaccount). De Amerikaanse overheid vereist dat Microsoft bronbelasting in rekening stelt namens de uitgever. De belasting die wordt ingehouden van uitbetaling aan de uitgever wordt berekend op basis van de prijs van de aanbieding.
+**Scenario D:** alle uitgevers van vreemde uitgevers (zoals gedefinieerd door hun Partner Center Tax Profile Information) in landen zonder amerikaanse toestemming (zie [Scenario E](#foreign-publisher-with-a-treaty-transacts-with-us-customer)) die een verkoop aan een Amerikaanse klant doen (zoals gedefinieerd door het adres van hun klantaccount). De Amerikaanse overheid vereist dat Microsoft bronbelasting in rekening stelt namens de uitgever. De belasting die wordt ingehouden van uitbetaling aan de uitgever wordt berekend op basis van de prijs van de aanbieding.
 
 :::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="Toont de werkstroom voor uitbetalingsprocesscenario D.":::
 
 ## <a name="foreign-publisher-with-a-treaty-transacts-with-us-customer"></a>Uitgever van het land met een Transacts-overeenkomst met een Amerikaanse klant
 
-**Scenario E:** alle uitgevers van vreemde landen (zoals gedefinieerd door hun Partner Center Tax Profile Information) in landen met een Amerikaanse aankoop aan een Amerikaanse klant (zoals gedefinieerd door het adres van hun klantaccount). Voor de Amerikaanse overheid hoeft Microsoft geen bronbelasting in te voeren namens de uitgever.
+**Scenario E:** alle uitgevers van vreemde uitgevers (zoals gedefinieerd door hun Partner Center Tax Profile Information) in landen waar een Amerikaanse klant een verkoop wil doen aan een Amerikaanse klant (zoals gedefinieerd door het adres van hun klantaccount). Voor de Amerikaanse overheid hoeft Microsoft geen bronbelasting in te voeren namens de uitgever.
 
 :::image type="content" source="images/tax-policies/payout-scenario-e.png" alt-text="Toont de werkstroom voor uitbetalingsprocesscenario E.":::
 

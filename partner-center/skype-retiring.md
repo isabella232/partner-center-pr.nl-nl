@@ -1,6 +1,6 @@
 ---
 title: Skype voor Bedrijven migreren
-description: Leer hoe en wanneer u bepaalde klanten met verlopende Skype voor Bedrijven Online-abonnement 1 migreert naar nieuwe Office 365 versies.
+description: Ontdek hoe en wanneer u bepaalde klanten met verlopende Skype voor Bedrijven Online-abonnement 1 naar nieuwe Office 365 migreert.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -10,24 +10,24 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
 ms.openlocfilehash: 58908e966eb80d219afa0cbc8c043932f5aef1a1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957806"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244993"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Abonnementen op Skype voor Bedrijven Online Plan 1 migreren naar nieuwere versie van Office 365)
 
 **Juiste rollen:** Verkoopagent
 
-Het Skype voor Bedrijven Online-abonnement 1 wordt met ingang van 1 augustus 2018 ingetrokken. Na die datum kunnen klanten geen nieuwe Skype voor Bedrijven Abonnement 1-abonnementen meer aanschaffen. Bestaande abonnementen worden niet automatisch verlengd wanneer ze verlopen en bieden geen verlengingsoptie. Op de detailpagina van het abonnement is de Skype voor Bedrijven Online-abonnement 1 gewijzigd in 'Verloopt op [datum]' van 'Automatisch verlengen op [datum]'.  
+Het Skype voor Bedrijven Online-abonnement 1 wordt met ingang van 1 augustus 2018 ingetrokken. Na die datum kunnen klanten geen nieuwe Skype voor Bedrijven abonnement 1 meer aanschaffen. Bestaande abonnementen worden niet automatisch verlengd wanneer ze verlopen en bieden geen optie voor verlenging. Op de detailpagina van het abonnement is de Skype voor Bedrijven Online-abonnementsstatus gewijzigd in 'Verloopt op [datum]' van 'Automatisch verlengen op [datum]'.  
 
 Om de continuïteit voor klanten te waarborgen, moet u klanten met verlopen Skype voor Bedrijven Online Plan 1-abonnementen overstappen naar een ondersteunde SKU-optie, die hieronder wordt vermeld. Het is raadzaam om klanten vóór de jaarlijkse einddatum van het abonnement over te brengen naar nieuwe abonnementen om service-uitval voor klanten te voorkomen. 
 
 >[!NOTE]
 >Zowel Skype voor Bedrijven online abonnement 1 commerciële SKU's als overheids-SKU's worden ingetrokken.
 
-Als u de API (Commerce REST (EIGENDOM) of Partner Center) gebruikt, gaat u naar verlopende abonnementen door de einddatum van het abonnement te evalueren, samen met de eigenschap auto renew = False. De Skype voor Bedrijven Online Plan 1-abonnementen worden op 1 september 2018 ingesteld op automatisch verlengen=Onwaar. U kunt klanten op elk moment verplaatsen naar een nieuw abonnement. 
+Als u de API (Commerce REST (FALSE) of Partner Center) gebruikt, gaat u naar verlopende abonnementen door de einddatum van het abonnement samen met de eigenschap auto renew = False te evalueren. De Skype voor Bedrijven Online Plan 1-abonnementen worden op 1 september 2018 ingesteld op automatisch verlengen=Onwaar. U kunt klanten op elk moment naar een nieuw plan verplaatsen. 
 
 ## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Skype voor Bedrijven Vervangingsplannen online abonnement 1
 
@@ -68,7 +68,7 @@ Uw klant moet nu zowel oude als nieuwe abonnementen hebben, het oude Skype voor 
 
 6. Selecteer **Indienen**. Een bevestigingspagina bevat de nieuwe licentietoewijzingen. Ga door met hetzelfde proces voor andere gebruikers die licentietoewijzingen nodig hebben.
 
-Nadat u de gebruikerslicentie hebt verplaatst naar de nieuwe service, kunt u het uit gebruik genomen abonnement veilig op klantniveau annuleren.
+Nadat u de gebruikerslicentie naar de nieuwe service hebt verplaatst, kunt u het uit gebruik genomen abonnement veilig op klantniveau annuleren.
 
 7. Selecteer in **Partner Center** menu **Klanten.** Selecteer de klant van wie u het abonnement annuleert.
 

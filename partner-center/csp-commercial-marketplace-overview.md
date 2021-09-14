@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a899226e60e575d6c8aee003130b5390af023394
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956926"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244920"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Overzicht van de commerciële marketplace in Partner Center
 
@@ -22,17 +22,17 @@ ms.locfileid: "123956926"
 
 Als partner in het Cloud Solution Provider(CSP)-programma kunt u Microsoft-producten bundelen en verkopen, samen met oplossingen die zijn gepubliceerd door ISV's (Independent Software Vendors) van derden. Door oplossingen op deze manier te bundelen, kunt u eindklanten beter bedienen en uw CSP-services laten groeien.
 
-Als partner in het CSP-programma kunt u Partner Center isv-oplossingen aanschaffen via de commerciële marketplace van Microsoft. Dit biedt u en uw klanten verschillende belangrijke voordelen:
+Als partner in het CSP-programma kunt u Partner Center om veel ISV-oplossingen te kopen via de commerciële marketplace van Microsoft. Dit biedt u en uw klanten verschillende belangrijke voordelen:
 
 - Toegang tot een catalogus met softwareoplossingen die zijn geoptimaliseerd voor Microsoft-technologieën en -omgevingen.
 - Vereenvoudigde contractering en verkorte inkoopcyclus.
 - Eén integratie met Partner Center API's. (Dankzij deze integratie krijgt u nog meer toegang tot een catalogus met ISV-oplossingen, worden de kosten van operationele activiteiten en engineering verlaagd en wordt het beheer van meerdere leveranciersabonnementen en facturering via één provider gestroomlijnd.)
 - Gestroomlijnde implementatie en inrichting in de Azure-tenant van de klant (voor op virtuele machines gebaseerde oplossingen).
-- Vermindert potentiële uitdagingen met directe ISV-aankoop of -contracting, configuratie en integratie van Microsoft-oplossingen en de noodzaak om terugkerende facturen van meerdere leveranciers te beheren of consolideren.
+- Vermindert potentiële uitdagingen met directe ISV-aankoop of -contracting, configuratie en integratie van Microsoft-oplossingen en de noodzaak om terugkerende facturen van meerdere leveranciers te beheren of te consolideren.
 
 ## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Overzicht van CSP-aanbiedingen in de commerciële marketplace
 
-Als u een partner in het CSP-programma bent, zijn er veel commerciële marketplace-activiteiten die u mogelijk wilt uitvoeren met betrekking tot ISV-aanbiedingen. Zie de volgende tabel voor meer informatie over elke activiteit.
+Als u een partner bent in het CSP-programma, zijn er veel commerciële marketplace-activiteiten die u mogelijk wilt uitvoeren met betrekking tot ISV-aanbiedingen. Zie de volgende tabel voor meer informatie over elke activiteit.
 
 |**Als u wilt**  |**Lezen**   |
 |:------------------------------------|:------------------|

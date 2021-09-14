@@ -10,13 +10,13 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 378181838841a6763130394a35c3d5a3804fa72b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244841"
 ---
-# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Gebruik Partner Center om u aan te melden voor geavanceerde specialisaties en hun status te controleren
+# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Gebruik Partner Center om geavanceerde specialisaties aan te melden en hun status te controleren
 
 **Juiste rollen:** globale | Accountbeheerder
 
@@ -36,7 +36,7 @@ Voor toegang tot dit gebied moet u de rol van **MPN-accountbeheerder** of global
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
-2. Selecteer de **MPN-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
+2. Selecteer de **mpn-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
 
 3. Als u details wilt weergeven, selecteert u de naam van de geavanceerde specialisatie. U ziet specifieke vereisten en stappen, uw huidige status en koppelingen naar verdere stappen of resources.
 
@@ -94,13 +94,13 @@ In de volgende secties wordt beschreven hoe u een controle kunt plannen of klant
 
 Naast hun eigen vereisten moet u voor sommige geavanceerde specialisaties ook slagen voor *een geplande controle.* Zie de eerdere lijst met geavanceerde specialisaties waarvoor een controle is vereist.
 
-Volg vervolgens deze stappen om een controle in de Partner Center:
+Volg vervolgens deze stappen om een controle in een Partner Center:
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
-2. Selecteer de **MPN-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
+2. Selecteer de **mpn-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
 
-3. Selecteer de naam van de geavanceerde specialisatie die u nodig hebt om een controle te plannen. Stel bijvoorbeeld dat u Modernisering van webtoepassingen selecteert **om te Microsoft Azure.** De pagina met vereisten wordt vervolgens weergegeven voor deze geavanceerde specialisatie.
+3. Selecteer de naam van de geavanceerde specialisatie die vereist dat u een controle wilt plannen. Stel bijvoorbeeld dat u Modernisering van webtoepassingen selecteert om **te Microsoft Azure.** De pagina met vereisten wordt vervolgens weergegeven voor deze geavanceerde specialisatie.
 
    :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="Pagina met voorbeeldvereisten met vereisten voor het verdienen van een specifieke geavanceerde specialisatie.":::
 
@@ -117,7 +117,7 @@ Volg vervolgens deze stappen om klantverwijzingen op te geven in Partner Center:
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
-2. Selecteer de **MPN-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
+2. Selecteer de **mpn-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
 
 3. Selecteer de naam van de geavanceerde specialisatie die vereist dat u klantverwijzingen op geeft. Stel bijvoorbeeld dat u Vergaderingen en Vergaderruimten selecteert **voor Microsoft Teams.**
 
@@ -130,7 +130,7 @@ Volg vervolgens deze stappen om klantverwijzingen op te geven in Partner Center:
 ## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Hoe Azure Consumption Revenue (ACR) wordt berekend voor elke geavanceerde specialisatie:
 
 - Partner-naar-klant-associaties zijn opgenomen: Digitale [Partner of Record-koppeling](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) aan een klant, of CSP-partner voor directe factuur of indirecte CSP-reseller voor een klant- of [PAL-koppeling (Partner Admin Link)](/azure/cost-management-billing/manage/link-partner-id) met een klant.
-- ACR van abonnementen met aanbiedingstypen Trial, Benefits-programma's, Ondersteuning en Intern wordt niet meegetelde voor de geavanceerde specialisatie.
+- ACR van abonnementen met aanbiedingstypen Proefversie, Voordelen-programma's, Ondersteuning en Intern wordt niet meegerekend voor de geavanceerde specialisatie.
 
 **Velden voor omzet azure-verbruik**
 
@@ -139,7 +139,7 @@ Volg vervolgens deze stappen om klantverwijzingen op te geven in Partner Center:
 | Serviceniveau 1 | Het hoogste niveau waarop Azure-services zijn gebundeld (zie: https://azure.microsoft.com/services/) . |
 | Serviceniveau 2 | Op het tweede niveau gebaseerde Azure-services (bijvoorbeeld: https://azure.microsoft.com/pricing/) |
 | Serviceniveau 3 | Op het derde niveau gebaseerde Azure-services (bijvoorbeeld: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Serviceniveau 4 | Op het vierde niveau gebaseerde Azure-services (bijvoorbeeld: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Serviceniveau 4 | Op het vierde niveau gebaseerde Azure-services op het hoogste niveau (bijvoorbeeld: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Servicegroep 2 | Groeperen van Azure-services op basis van een servicecategorie |
 | Servicegroep 3 | Groeperen van Azure-services op basis van een servicesubcategorie |
 | Service-beïnvloeder | Groeperen van Azure-services die zijn toe te staan aan een specifieke verbruiksactiviteit |
@@ -152,16 +152,16 @@ Volg vervolgens deze stappen om klantverwijzingen op te geven in Partner Center:
     - Azure Synapse Analytics ACR: servicegroep 3 = SQL DW
 - Kubernetes in Microsoft Azure
     - Azure Kubernetes Service ACR (AKS) : Service Influencer = AKS , AKS-Engine
-    - Azure RedHat OpenShift ACR: Service Group 3 = ARO, Service Level 2 = All except "Unknown"
+    - Azure RedHat OpenShift ACR: servicegroep 3 = ARO, serviceniveau 2 = alles behalve 'Onbekend'
 - Microsoft Windows Virtual Desktop
-    - Windows Virtual Desktop ACR : Service Influencer = NATIVE WVD
+    - Windows Virtual Desktop ACR: Service Influencer = NATIVE WVD
 - Modernisering van webtoepassingen voor Microsoft Azure
-    - Azure App Service ACR : Service Level 1 = Compute and Service Level 2 = Azure App Service
+    - Azure App Service ACR: Service Level 1 = Compute en Service Level 2 = Azure App Service
     - Azure Spring Cloud ACR:
         - ACR-aanpassingstype = N.v.t.
-        - Servicegroep 2 = App-dev
+        - Servicegroep 2 = App Dev
         - Servicegroep 3 = Spring Cloud 
-        - Serviceniveau 2 = Alle behalve 'Onbekend'
+        - Serviceniveau 2 = Alles behalve 'Onbekend'
 
 - Analyse op Microsoft Azure
     - Azure Synapse Analytics ACR: servicegroep 3 = SQL DW
@@ -170,41 +170,41 @@ Volg vervolgens deze stappen om klantverwijzingen op te geven in Partner Center:
     - Azure Data Factory ACR: Service Group3 = Data Factory  
 - Hybride cloudinfrastructuur met Microsoft Azure Stack HCI
     - Azure Stack HCI ACR: Service Level 2 = Azure Stack HCI
-- Microsoft Azure VMware Solution
-    - Azure VMware Solutions (AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution by Virtustream, Specialized Compute Azure VMware Solution
+- Microsoft Azure VMware-oplossing
+    - AZURE VMware Solutions (AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution by Virtustream, Specialized Compute Azure VMware Solution
 - Hybride bewerkingen en beheer met Microsoft Azure Arc 
     - Arc-server ACR: Service Level 4 = Azure Policy
     - Kubernetes ACR met Arc: Service Level 4 = Azure Arc
 - AI en Machine Learning in Microsoft Azure
-    - AI ACR: Service Group 2 = AI
+    - AI ACR: servicegroep 2 = AI
 
 
 - Migratie van Windows Server en SQL Server naar Microsoft Azure
     - Windows ACR: 
         - ACR Adjustment Type = N/A, Compute Core SW = Core,
-        - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN of Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
+        - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN or Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
         - Serviceniveau 2= Cloud Services, Container Instances, Container Registry, Specialized Compute, Virtual Machines, Virtual Machines Licenses
     - SQL Database (DB) ACR: servicegroep 3 = SQLDB
-    - SQL Managed Instance (MI) ACR: servicegroep 3 = SQL DB MI
+    - SQL Managed Instance (MI) ACR: Service Group 3 = SQL DB MI
     - SQL VM ACR: servicegroep 3 = SQL op IaaS, SQL op IaaS-VM
 - Linux- Open-Source databasemigratie naar Microsoft Azure
     - Linux Virtual Machines (VM)ACR:
         - Optie 1:
-            - ACR Adjustment Type = N/A, Service Level 2 = Virtual Machines, Compute OS = Linux, Compute OS Attribute = Non-Windows , UNKNOWN , Windows
-            - Service level 4= All EXCEPT Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
-        - Optie 2: alleen filters vereisen op serviceniveau 4, andere velden zoals Besturingssysteem-/compute-kenmerken van rekenkracht zijn niet vereist
+            - ACR-aanpassingstype= N/A, Service Level 2 = Virtual Machines, Compute OS = Linux, Compute OS Attribute = Non-Windows , UNKNOWN , Windows
+            - Serviceniveau 4= Alle behalve Cloud Services MS-serie, Virtual Machines MS-serie, Virtual Machines MS Series Windows, Virtual Machines MSv2-serie, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
+        - Optie 2: alleen filters vereisen op serviceniveau 4, andere velden, zoals Os-/compute-besturingssysteemkenmerken, zijn niet vereist
             - Serviceniveau 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux met hoge SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
-    - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MariaDB
+    - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases en Service Level 2 = Azure Database for MariaDB
     - Azure DB for MySql ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MySQL and MySQL Database on Azure
     - Azure DB for Postgre SQL ACR: Service Level 1 = Databases and Service Level 2 = PostgreSQL
-    - Azure COSMOS DB ACR: Service Level 1 = Databases en serviceniveau 2 = CosmosDB
+    - Azure COSMOS DB ACR: serviceniveau 1 = Databases en serviceniveau 2 = CosmosDB
 - Bedreigingsbeveiliging
     - Azure Sentinel ACR: Service Level 4 = Sentinel
 - Cloudbeveiliging
     - Hybrid Environment XDR and Network Security ACR: Service Level 4 = Azure Defender for SQL, Azure Defender for container registries, Azure Defender voor Kubernetes, Azure Defender for Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
     
 - SAP in Microsoft Azure
-    - SAP-workloads ACR: Service level 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, SAP HANA on Azure Large Instances,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Additional Messages, SAP Cloud Platform Integration Suite - Standard Edition, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain,  SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, serverloze runtime, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
+    - SAP Workloads ACR: Service Level 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, SAP HANA on Azure Large Instances,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Additional Messages, SAP Cloud Platform Integration Suite - Standard Edition, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain,  SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, serverloze runtime, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
 
 ## <a name="next-steps"></a>Volgende stappen
 

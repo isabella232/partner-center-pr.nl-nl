@@ -1,6 +1,6 @@
 ---
 title: Beschikbare Azure-services in Azure CSP
-description: In dit artikel worden de Azure-services besproken die wel en niet beschikbaar zijn in het Programma azure Cloud Solution Provider (CSP).
+description: In dit artikel worden de Azure-services besproken die wel en niet beschikbaar zijn in het programma Azure Cloud Solution Provider (CSP).
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -10,11 +10,11 @@ ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 6037044a72bd9bd71131ddbc66fec0555bbd5f86
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957610"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244757"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure-services die beschikbaar zijn in het Azure Cloud Solution Provider (CSP)-programma
 
@@ -22,7 +22,7 @@ ms.locfileid: "123957610"
 
 ## <a name="available-azure-services-in-azure-csp"></a>Beschikbare Azure-services in Azure CSP
 
-In dit artikel worden de Azure-services vermeld die wel en niet beschikbaar zijn in het programma Azure Cloud Solution Provider (CSP). Ook wordt de beschikbaarheid van de service in de nationale clouds [Microsoft Azure Duitsland](https://azure.microsoft.com/overview/clouds/germany/) en Microsoft Azure [Government besproken.](https://azure.microsoft.com/overview/clouds/government/)
+In dit artikel vindt u een overzicht van de Azure-services die wel en niet beschikbaar zijn in het Programma Azure Cloud Solution Provider (CSP). Ook wordt de beschikbaarheid van de service in de nationale clouds [Microsoft Azure Duitsland](https://azure.microsoft.com/overview/clouds/germany/) en Microsoft Azure [Government besproken.](https://azure.microsoft.com/overview/clouds/government/)
 
 >[!Note]
 > [Azure China](https://www.azure.cn/) is niet beschikbaar in het Azure CSP programma.
@@ -41,7 +41,7 @@ Voor de volgende services zijn speciale configuraties in CSP vereist:
 
 - [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) Alleen gebruikers van de tenant van de klant hebben toegang tot gegevens in hun Time Series Insights omgeving. Partners kunnen standaard de Time Series Insights-omgeving van hun klant beheren, maar als ze toegang nodig hebben tot de gegevens in de omgeving, moeten ze worden toegevoegd aan de tenant van de klant.
+- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) Alleen gebruikers van de tenant van de klant hebben toegang tot gegevens in hun Time Series Insights omgeving. Partners kunnen de Time Series-Insights-omgeving van hun klant standaard beheren, maar als ze toegang nodig hebben tot de gegevens in de omgeving, moeten ze worden toegevoegd aan de tenant van de klant.
 
 - Beheercertificaten voor het authenticeren van Azure SDK-bibliotheken via een certificaat worden niet ondersteund in het CSP-model.  Gebruik in plaats daarvan azure AD-service-principalverificatie en de Azure.Identity-bibliotheek.  Referentie [verifiëren met de Azure SDK voor .NET](/dotnet/azure/sdk/authentication)
 
@@ -67,7 +67,7 @@ Niet alle Azure Marketplace zijn momenteel beschikbaar in Azure CSP abonnementen
 
 - Items van derden met betalen per Azure Marketplace: deze items zijn beschikbaar als de provider naar het CSP-kanaal heeft gepubliceerd. Zie Abonnementen verkopen voor Azure Marketplace [producten voor meer informatie.](csp-commercial-marketplace-overview.md)
 
-- Citrix XenApp Essentials: Partners kunnen XenApp Essentials aanschaffen voor klanten in CSP. Zie voor meer informatie de volgende Citrix-blog: [Distributie van XenApp Essentials nu beschikbaar via Microsoft Cloud Solution Provider kanaal](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/).
+- Citrix XenApp Essentials: Partners kunnen XenApp Essentials aanschaffen voor klanten in CSP. Zie voor meer informatie de volgende Citrix-blog: [Distributie van XenApp Essentials nu beschikbaar via Microsoft Cloud Solution Provider Kanaal](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/).
 
 ## <a name="national-clouds"></a>Nationale clouds
 

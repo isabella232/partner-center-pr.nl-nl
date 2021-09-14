@@ -126,7 +126,7 @@
 - name: CSP-overeenkomsten
   href: microsoft-partner-agreement.md
   items:
-    - name: Hoe indirecte providers hun resellers kunnen helpen de MPA over te nemen
+    - name: Hoe indirecte providers hun resellers kunnen helpen de MPA te gebruiken
       href: mpa-indirect-provider-faq.yml
       displayName: 'csp, mpa, indirect, provider'
     - name: 'CSP-overeenkomsten, prijslijsten, aanbiedingen'
@@ -267,6 +267,8 @@
           displayName: mpn
     - name: Uw deals registreren
       href: register-deals.md
+    - name: Veelgestelde vragen over verwijzingen
+      href: referrals-faq.md
     - name: Verwijzingsanalyse
       items:
         - name: Inzichten over leads verkrijgen
@@ -388,7 +390,7 @@
       href: modern-invoice-reconciliation-file.md
     - name: Effectieve berekening van eenheidsprijs
       href: effective-unit-price-calculation.md
-    - name: Afdwinging van tegoedlimiet
+    - name: Afdwingen van tegoedlimiet
       href: credit-limit-enforcement.md
     - name: Algemene scenario's voor facturering
       href: common-billing-scenarios.md

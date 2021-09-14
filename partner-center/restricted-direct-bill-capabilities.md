@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Meer informatie over Cloud Solution Provider (CSP) vereisten voor directe factuurpartners en wat u kunt doen om te voorkomen dat mogelijkheden worden beperkt. Ontdek of uw mogelijkheden zijn beperkt.
+description: Meer informatie over Cloud Solution Provider partnervereisten voor directe factuur (CSP) en wat u kunt doen om te voorkomen dat mogelijkheden worden beperkt. Ontdek of uw mogelijkheden zijn beperkt.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: edb67f6ae3054bf5214611ab3ac5ef4ed6713aef
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957319"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246198"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Beperkte mogelijkheden voor directe factuur en de vereisten die nodig zijn voor CSP-partners voor directe factuur
 
@@ -39,7 +39,7 @@ Volg deze stappen om te controleren of de toegang van de tenant van de partner v
 
 4. Als de programmastatus de waarde **beperkt heeft,** betekent dit dat de toegang van de tenant van uw directe factuurpartner tot de mogelijkheden voor directe factuur is beperkt.
 
-## <a name="affected-direct-bill-capabilities"></a>Betrokken mogelijkheden voor directe factuur
+## <a name="affected-direct-bill-capabilities"></a>Beïnvloede mogelijkheden voor directe factuur
 
 Als uw mogelijkheden voor directe factuur zijn beperkt, kunt u geen nieuwe aankopen meer doen voor uw klanten in Partner Center. Deze beperking omvat:
 
@@ -47,7 +47,7 @@ Als uw mogelijkheden voor directe factuur zijn beperkt, kunt u geen nieuwe aanko
 
 - Op licenties gebaseerde abonnementen
 
-- Voeg nieuwe invoegtoepassingen toe aan bestaande abonnementen op basis van licenties.
+- Voeg nieuwe invoegtoepassingen toe aan bestaande op licenties gebaseerde abonnementen.
 
 - Een een keer software- en reserveringsproducten aanschaffen (bijvoorbeeld softwareabonnementen, permanente software en instanties van gereserveerde azure-VM's).
 
@@ -66,7 +66,7 @@ Bestaande directe-factuurabonnementen worden niet beïnvloed. Ze blijven geldig 
 
 - Implementeer nieuwe Azure-resources en beheer bestaande Azure-resources onder bestaande Azure-abonnementen. Dit omvat resources die beschikbaar zijn via Azure Marketplace en Visual Studio-abonnementen.
 
-Naast nieuwe aankopen hebt u geen toegang tot de volgende mogelijkheden voor directe factuur in Partner Center:
+Naast nieuwe aankopen hebt u geen toegang tot de volgende mogelijkheden voor directe Partner Center:
 
 - U kunt geen nieuwe klantten tenants maken. De **optie Klant** maken op de **pagina** Klanten in Partner Center is niet beschikbaar.
 

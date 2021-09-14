@@ -10,17 +10,17 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 576845e9e5a5cf999415952a14023fc81c15fa32
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956983"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245540"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Licenties of meer services toevoegen aan het abonnement van een klant
 
-**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent | Helpdeskagent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent | Helpdeskagent
 
-Als uw klant meer licenties nodig heeft dan het huidige abonnement biedt, of een andere versie met aanvullende services, kunt u het abonnement mogelijk upgraden. Zie Overschakelen naar een ander abonnement [Microsoft 365-apps voor bedrijven meer informatie.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+Als uw klant meer licenties nodig heeft dan het huidige abonnement biedt, of een andere versie met aanvullende services, kunt u mogelijk het abonnement upgraden. Zie Overschakelen naar een ander abonnement Microsoft 365-apps voor bedrijven [meer informatie.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Upgrades die worden ondersteund in het CSP-programma <a id="upgradesubscription"></a>
 
@@ -32,7 +32,7 @@ De volgende upgrades worden ondersteund in het Cloud Solution Provider programma
 | Microsoft 365 Business Standard    | - Office 365 Enterprise E3 <br/> - Office 365 Enterprise E5 <br/> |
 | Microsoft 365 Business Basic | - Microsoft 365 Business Standard ² <br/> - Office 365 Enterprise E1 <br/> - Office 365 Enterprise E3<br/> - Office 365 Enterprise E5 <br/> |
 
-² Microsoft 365-apps voor bedrijven India en Microsoft 365 Business Basic India kunnen worden geüpgraded naar Microsoft 365 Business Standard India, niet naar Microsoft 365 Business Standard.
+² Microsoft 365-apps voor bedrijven India en Microsoft 365 Business Basic India kunnen worden bijgewerkt naar Microsoft 365 Business Standard India, niet naar Microsoft 365 Business Standard.
 
 ## <a name="upgrades-supported-for-new-commerce-subscriptions"></a>Upgrades die worden ondersteund voor nieuwe commerce-abonnementen<a id="upgradesubscriptionnewcommerce"></a>
 
@@ -51,13 +51,13 @@ Abonnementen kunnen worden bijgewerkt als deze voorwaarden van toepassing zijn:
 
 - Het abonnement moet actief zijn (niet opgeschort of geannuleerd).
 
-- U moet beheerdersbevoegdheden voor deze klant en service hebben. Meer informatie over het [aanvragen van gedelegeerde beheerdersbevoegdheden.](request-a-relationship-with-a-customer.md)
+- U moet gedelegeerde beheerdersbevoegdheden hebben voor deze klant en service. Meer informatie over het [aanvragen van gedelegeerde beheerdersbevoegdheden.](request-a-relationship-with-a-customer.md)
 
 - De klant kan nog geen abonnementen hebben die de extra services bevatten.
 
 - De klant kan nog niet de abonnementen hebben waar u ze naar wilt upgraden.
 
-In de laatste twee gevallen is het mogelijk dat de klant deze abonnementen of services heeft aangeschaft bij een andere partner of een ander kanaal, en dat de klant deze niet bij u kan kopen, tenzij hij de bestaande eerst annuleert. Zie [multikanaals voor meer informatie.](multichannel.md)
+In de laatste twee gevallen is het mogelijk dat de klant deze abonnementen of services heeft aangeschaft bij een andere partner of een ander kanaal en dat ze deze niet bij u kunnen kopen, tenzij ze hun bestaande eerst annuleren. Zie [multi-channel voor meer informatie.](multichannel.md)
 
 Zie Een abonnement annuleren en een nieuw abonnement toevoegen in Algemene factureringsscenario's voor meer informatie over de gevolgen [voor facturering.](common-billing-scenarios.md)
 
@@ -65,11 +65,11 @@ Zie Een abonnement annuleren en een nieuw abonnement toevoegen in Algemene factu
 
 1. Als u wilt zien of een abonnement in aanmerking komt voor een upgrade, kiest u uw klant en opent u vervolgens de lijst met abonnementen.
 
-2. Als het abonnement kan worden bijgewerkt, ziet u een informatief pictogram direct na de naam van het abonnement. Beweeg de muisaanwijzer over dit pictogram en selecteer **vervolgens Nu upgraden.**
+2. Als het abonnement kan worden bijgewerkt, ziet u direct na de naam van het abonnement een informatief pictogram. Beweeg de muisaanwijzer over dit pictogram en selecteer **vervolgens Nu upgraden.**
 
 3. Selecteer de nieuwe aanbieding en kies vervolgens **Verzenden.**
 
-4. Er is mogelijk extra werk nodig om bepaalde gebruikersaccounts voor bepaalde services over te brengen. Als dit het Partner Center, wordt een lijst met betrokken accounts en services weergegeven. Zie het Knowledge Base-artikel Problemen bij het opnieuw toewijzen van licenties terwijl u van plan [wisselt in Office 365.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+4. Er is mogelijk extra werk nodig om sommige gebruikersaccounts voor bepaalde services over te brengen. Zo ja, dan Partner Center een lijst met betrokken accounts en services. Zie het Knowledge Base-artikel Problemen bij het opnieuw toewijzen van licenties terwijl u van plan [wisselt in Office 365.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 ## <a name="upgrade-a-new-commerce-subscription"></a>Een nieuw commerce-abonnement upgraden
 
@@ -82,11 +82,11 @@ Zie Een abonnement annuleren en een nieuw abonnement toevoegen in Algemene factu
 
 3. Selecteer **Indienen**.
 
-4. Het is mogelijk dat de klant deze abonnementen of services heeft aangeschaft bij een andere partner of een ander kanaal en deze seats handmatig moet toewijzen
+4. Het is mogelijk dat de klant deze abonnementen of services heeft aangeschaft van een andere partner of een ander kanaal en deze seats handmatig moet toewijzen
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Overschakelen naar een ander Microsoft 365 voor een bedrijfsplan](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- [Overschakelen naar een ander Microsoft 365 bedrijfsplan](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [Gedelegeerde beheerdersbevoegdheden aanvragen](request-a-relationship-with-a-customer.md)
 

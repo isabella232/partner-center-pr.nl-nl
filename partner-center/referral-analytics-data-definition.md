@@ -1,29 +1,29 @@
 ---
-title: Definities van verwijzingsanalysegegevens
+title: Verwijzingsanalysegegevensdefinities
 ms.topic: article
 ms.date: 08/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Het document bevat verschillende rapporten en de gegevensdefinities, die u kunt downloaden van de verwijzingsanalysepagina's.
+description: Het document bevat verschillende rapporten en hun gegevensdefinities, die u kunt downloaden van de verwijzingsanalysepagina's.
 author: v-sausharma
 ms.author: v-sausharma
 ms.localizationpriority: medium
 ms.openlocfilehash: e2409dcbfd2a9de677ef4ec79bf8749072859325
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957782"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244869"
 ---
-# <a name="referral-analytics-export--data-definitions"></a>Verwijzingsanalyse exporteren – Gegevensdefinities
+# <a name="referral-analytics-export--data-definitions"></a>Exporteren van verwijzingsanalyses : gegevensdefinities
 
-**Juiste rollen:** Verwijzingenbeheerder
+**Juiste rollen:** Verwijzingsbeheerder
 
 ## <a name="introduction"></a>Introductie
 
-Met behulp van de knop Exporteren op de pagina Analyse van lead en co-verkoop kunt u de onbewerkte gegevenssets exporteren.
+Met behulp van de knop Exporteren op de pagina Analyse voor lead en co-verkoop kunt u de onbewerkte gegevenssets exporteren.
 
-De verschillende rapporten die u samen met de gegevensdefinities kunt downloaden, worden vermeld in de volgende tabellen:
+De verschillende rapporten, die u samen met de gegevensdefinities kunt downloaden, worden weergegeven in de volgende tabellen:
 
 ## <a name="leads-export"></a>Leads exporteren
 
@@ -32,7 +32,7 @@ De verschillende rapporten die u samen met de gegevensdefinities kunt downloaden
 |   Verwijzings-id |   Unieke id voor verwijzing  |
 |   Land van klant    |   Land van de klant |
 |   Naam van klant   |   Naam van de klant    |
-|   Verwijzingsdatum maken  |   Aanmaakdatum van verwijzing   |
+|   Verwijzingsdatum  |   Aanmaakdatum van verwijzing   |
 |   Verwijzingsbron |   Bron van de verwijzing: Qualified, Marketplace  |
 |   Verwijzingstype   |   Type lead    |
 |   Richting van lead  |   Richting van de lead   |
@@ -44,7 +44,7 @@ De verschillende rapporten die u samen met de gegevensdefinities kunt downloaden
 |       |       |
 
 
-## <a name="co-sell-export"></a>Export bij co-verkoop
+## <a name="co-sell-export"></a>Export voor co-verkoop
 
 |   Kolomnaam |   Gegevensbeschrijving    |
 |    ----    |    ----    |
@@ -52,12 +52,12 @@ De verschillende rapporten die u samen met de gegevensdefinities kunt downloaden
 |   Land van klant    |   Land van de klant |
 |   Plaats van klant   |   Plaats van de klant    |
 |   Naam van klant   |   Naam van de klant    |
-|   Verwijzingsdatum maken  |   Aanmaakdatum van verwijzing   |
-|   Dealtype   |   Type deal: co-sell, partner-led, private |
+|   Verwijzingsdatum  |   Aanmaakdatum van verwijzing   |
+|   Dealtype   |   Type deal: co-sell, door partner geleid, privé |
 |   Dealrichting  |   Richting van de deal: binnenkomend en uitgaand    |
 |   Dealvaluta   |   Valuta van de deal    |
-|   Geschatte waarde deal    |   Geschatte waarde van deal geleverd door partner    |
-|   Geschatte waarde deal (USD)  |   Geschatte waarde van deal geleverd door partner in USD |
+|   Geschatte dealwaarde    |   Geschatte waarde van deal opgegeven door partner    |
+|   Geschatte dealwaarde (USD)  |   Geschatte dealwaarde geleverd door partner in USD |
 |   Id van de oplossing     |   Lijst met de oplossings-id |
 |   Naam van de oplossing   |   Lijst met de namen van de oplossingen  |
 |   MPN-id  |   Netwerk-id van Microsoft-partner van de partner |
@@ -68,22 +68,22 @@ De verschillende rapporten die u samen met de gegevensdefinities kunt downloaden
 |   Aanmaakdatum van Microsoft-verwijzing    |   Verwijzingsdatum door microsoft |
 |   Voornaam geregistreerde contactpersoon   |   Voornaam van de contactpersoon van de partner die is opgegeven tijdens de registratie van de deal |
 |   Achternaam geregistreerde contactpersoon    |   Achternaam van de contactpersoon van de partner die is opgegeven tijdens de registratie van de deal  |
-|   E-mailadres geregistreerde contactpersoon    |   E-mailadres van partnercontact opgegeven tijdens dealregistratie  |
-|   Telefoonnummer geregistreerde contactpersoon |   Telefoon aantal partnercontacten dat is opgegeven tijdens de registratie van de deal   |
+|   E-mailadres geregistreerde contactpersoon    |   E-mailadres van partnercontact die is opgegeven tijdens de registratie van de deal  |
+|   Geregistreerd telefoonnummer van contactpersoon |   Telefoon aantal partnercontacten dat is opgegeven tijdens de registratie van de deal   |
 |   Contractvaluta   |   Valuta van het contract dat is opgegeven tijdens de registratie van de deal  |
 |   Contractwaarde  |   Totale contractwaarde die is opgegeven tijdens de registratie van de deal. Dit omvat software- en servicekosten, maar geen hardwarekosten  |
 |   Contractwaarde (USD)    |   Totale contractwaarde in USD die is opgegeven tijdens de registratie van de deal   |
 |   Begindatum van contract |   Begindatum van het contract dat is opgegeven tijdens de registratie van de deal    |
 |   Einddatum van contract   |   Einddatum van het contract dat is opgegeven tijdens de registratie van de deal  |
-|   Contract Sign Date  |   De tekendatum van het contract dat is opgegeven tijdens de registratie van de deal |
+|   Contract Sign Date  |   De aanmeldingsdatum van het contract dat is opgegeven tijdens de registratie van de deal |
 |   Contracttype   |   Type contract    |
-|   Oplossings-id voor geregistreerde deal |   Id van de oplossing voor dealregistratie    |
-|   Naam van oplossing voor geregistreerde deal   |   Naam van de oplossing voor dealregistratie  |
+|   Oplossings-id geregistreerde deal |   Id van de oplossing voor dealregistratie    |
+|   Naam van geregistreerde dealoplossing   |   Naam van de oplossing voor dealregistratie  |
 |   Valuta van geregistreerde dealoplossing   |   Valuta voor de oplossing die is opgegeven tijdens de registratie van de deal |
 |   Oplossingswaarde voor geregistreerde deal  |   Oplossingswaarde die is opgegeven tijdens de registratie van de deal. Over het algemeen is dit de totale contractwaarde, zonder eventuele niet-terugkerende implementatiekosten.   |
 |   Oplossingswaarde geregistreerde deal (USD)    |   Oplossingswaarde in USD die is opgegeven tijdens de registratie van de deal |
 |   Geïmplementeerd op |   Geeft aan of de oplossing is geïmplementeerd in Azure of in andere    |
-|   Primaire implementatie op   |   Geeft aan of de oplossing is geïmplementeerd op de tenant van de klant of de partnerten tenant  |
+|   Primaire implementatie op   |   Geeft aan of de oplossing is geïmplementeerd op de tenant van de klant of partnerten tenant  |
 |   Datum van deal maken  |   Aanmaakdatum van dealregistratie  |
 |   Verzonden datum van deal     |   Verzonden datum van dealregistratie |
 |   Goedgekeurde/afgewezen datum van deal     |   Goedgekeurde/afgewezen datum van deal. Dit wordt aan de statuskolom toegekend. |

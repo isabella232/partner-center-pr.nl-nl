@@ -9,11 +9,11 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957688"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244914"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Een marketingplan genereren voor uw incentives-programma
 
@@ -28,7 +28,7 @@ U kunt uw plannen weergeven door **Planbeheer te selecteren** op uw **Incentives
 >[!NOTE]
 >Mogelijk ziet u Planbeheer niet op uw Incentives-pagina. Dit komt doordat Partner Center dashboard dynamisch is en alleen wordt weergegeven wat geschikt is voor uw specifieke rol en activiteiten. Als planbeheer niet wordt weergegeven op uw Incentives-pagina, betekent dit waarschijnlijk dat u momenteel niet bent ingeschreven bij een programma met plannen. Neem contact op met uw Incentives-beheerder voor hulp.
 
-Zie uw programmahandleiding voor meer informatie Incentives-programma plannen voor uw specifieke Incentives-programma.
+Zie uw programmahandleiding voor meer Incentives-programma over plannen voor uw specifieke Incentives-programma.
 
 ## <a name="how-to-submit-a-plan"></a>Een plan indienen
 

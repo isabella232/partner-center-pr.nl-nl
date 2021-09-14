@@ -10,11 +10,11 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 23ca72fada539b5036dfd6cf0ac04a5c18b5d96d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956866"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245608"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Klanten in de Partner Center om hun eigen producten of services te kopen
 
@@ -24,9 +24,9 @@ In dit artikel wordt beschreven hoe een partner in het Cloud Solution Provider (
 
 Partners in het CSP-programma gebruiken vaak Partner Center en de commerciële marketplace om oplossingen en services voor hun klanten te kopen. Partners bieden sommige klanten vervolgens de mogelijkheid om deze services rechtstreeks vanuit de Azure Portal.
 
-Hier volgt een voorbeeld. Stel dat u een Azure-abonnement koopt voor een klant in Partner Center. Vervolgens besluit u namens de klant andere resources of services aan dat abonnement toe te voegen. In dit geval kunt u Azure-reserveringen toevoegen aan het abonnement van de klant (zoals het toevoegen van gereserveerde instanties van virtuele machines). U kunt de klant vervolgens toestaan om de Azure-reserveringsbronnen zelf in te Azure Portal.
+Hier volgt een voorbeeld. Stel dat u een Azure-abonnement voor een klant koopt in Partner Center. Vervolgens besluit u namens de klant andere resources of services aan dat abonnement toe te voegen. In dit geval kunt u Azure-reserveringen toevoegen aan het abonnement van de klant (zoals het toevoegen van gereserveerde instanties van virtuele machines). U kunt de klant vervolgens toestaan om de Azure-reserveringsbronnen zelf in te Azure Portal.
 
-Met de functie **Klantmachtigingen** geeft u klanten nu meer selfserviceopties met Azure-resources. Door machtigingen voor de klant in te stellen, kunt u klanten toestaan om hun eigen resources te kopen (zoals het kopen van hun eigen Azure-reserveringen).  
+Met de functie **Klantmachtigingen** geeft u klanten nu meer selfserviceopties met Azure-resources. Door machtigingen voor de klant in te stellen, kunt u klanten toestaan hun eigen resources te kopen (zoals het kopen van hun eigen Azure-reserveringen).  
 
 ## <a name="overview-of-customer-permissions-in-partner-center"></a>Overzicht van klantmachtigingen in Partner Center
 
@@ -46,20 +46,20 @@ Houd rekening met de volgende belangrijke punten voordat u klantmachtigingen in 
 
 - U kunt klantmachtigingen in- of uitschakelen met behulp van het Partner Center dashboard of [Partner Center API's.](/partner-center/develop/manage-customers)
 
-- Nadat u machtigingen voor een specifieke klant hebt ingeschakeld (inschakelen), bent u verantwoordelijk voor het betalen voor alle volgende aankopen die door die klant worden gedaan. Als klanten een aankoop die ze hebben gedaan willen inruilen, annuleren of vernieuwen (of als ze het initiële bereik van een reservering willen wijzigen), kunnen ze dit niet zelf doen. Ze moeten u, als partner, vragen om hen te helpen bij het inruilen, annuleren en vernieuwen van aankopen, of om later wijzigingen aan te brengen in het bereik van een reservering.  
+- Nadat u machtigingen voor een specifieke klant hebt ingeschakeld (ingeschakeld), bent u verantwoordelijk voor het betalen van alle volgende aankopen die door die klant worden gedaan. Als klanten een aankoop die ze hebben gedaan willen inruilen, annuleren of vernieuwen (of als ze het initiële bereik van een reservering willen wijzigen), kunnen ze dit niet zelf doen. Ze moeten u, als partner, vragen om hen te helpen bij het inruilen, annuleren en vernieuwen van aankopen, of om later wijzigingen aan te brengen in het bereik van een reservering.  
 
 - Nadat u machtigingen voor een specifieke  klant hebt in gebruik genomen, wordt u niet op de hoogte gesteld van latere aankopen van de klant.
 
 - Latere aankopen die door de klant worden gedaan, worden weergegeven in Partner Center alle aankopen die u hebt gedaan. U vindt deze aankopen op de  pagina Ordergeschiedenis  van de klant, de pagina Reserveringen van de klant of in het [**activiteitenlogboek.**](activity-logs.md)
 
 >[!NOTE]
-> Zie Klanten helpen bij het beheren van reserveringen die ze kopen voor meer informatie over prijzen die de klant zal betalen en hoe u klanten helpt bij het beheren van [hun aankopen.](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
+> Zie Klanten helpen bij het beheren van reserveringen die ze kopen voor meer informatie over prijzen die de klant zal betalen en hoe klanten hun aankopen [kunnen beheren.](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Klanten toestemming geven om hun eigen Azure-reserveringen te kopen
 
 Azure-reserveringen zijn een uitstekende manier om Azure-services te kopen tegen een gereduceerd tarief. Zie Wat zijn Azure-reserveringen? voor meer informatie over de voordelen [van Azure-reserveringen.](/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 
-Nu hebt u de keuze om Azure-reserveringen namens uw klanten te kopen, zoals u mogelijk al hebt gedaan. U kunt klanten ook toestemming geven om hun eigen Azure-reserveringen te kopen.
+U hebt nu de keuze om Azure-reserveringen namens uw klanten te kopen, zoals u mogelijk al hebt gedaan. U kunt klanten ook toestemming geven om hun eigen Azure-reserveringen te kopen.
 
 >[!NOTE]
 > Nadat u klanten toestemming hebt gegeven om hun eigen Azure-reserveringen te kopen, helpt u hen bij het beheren van de reserveringen die ze aanschaffen. Zie Klanten helpen bij het [beheren van reserveringen die ze kopen voor meer informatie.](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
@@ -70,13 +70,13 @@ Nu hebt u de keuze om Azure-reserveringen namens uw klanten te kopen, zoals u mo
 
 2. Controleer of aan de klant de rol eigenaar **is** toegewezen voor dit abonnement.
 
-3. Schakel klantmachtigingen in (schakel deze functie **in op Aan)** om hun eigen Azure-reserveringen te kopen.
+3. Schakel klantmachtigingen in (schakel deze functie **in op Aan)** om hun eigen Azure-reserveringen aan te schaffen.
 
 Elke stap wordt hieronder weergegeven.
 
 ### <a name="verify-the-customer-has-an-existing-azure-subscription"></a>Controleren of de klant een bestaand Azure-abonnement heeft
 
-Voordat u klanten toestemming geeft om hun eigen Azure-reserveringen te kopen, moet u controleren of de klant een bestaand Azure-abonnement of azure global-abonnement heeft. Als de klant geen huidig Azure-abonnement in Partner Center, moet u een abonnement voor hem of haar kopen voordat u de klantmachtigingen in kunt zetten.
+Voordat u klanten toestemming geeft om hun eigen Azure-reserveringen te kopen, moet u controleren of de klant een bestaand Azure-abonnement of azure global-abonnement heeft. Als de klant geen huidig Azure-abonnement in Partner Center, moet u een abonnement voor hem of haar kopen voordat u de machtigingen van de klant in kunt zetten.
 
 - Als u wilt zien of een klant al een Azure-abonnement heeft, meld u zich aan bij Partner Center dashboard en selecteert u **vervolgens CSP** gevolgd door **Klanten**. Selecteer de specifieke klant in de lijst. Selecteer vervolgens **Abonnementen en** zoek naar abonnementen op basis van gebruik voor Azure-plan of Azure Global.
 
@@ -86,10 +86,10 @@ Voordat u klanten toestemming geeft om hun eigen Azure-reserveringen te kopen, m
 
 Nadat u hebt gecontroleerd of de klant een bestaand Azure-abonnement heeft, moet u  ook controleren of aan de belangrijkste gebruikers die zijn gekoppeld aan uw klant de juiste eigenaarsrol is toegewezen voor dat Azure-abonnement. Dit is de op rollen gebaseerde toegang (RBAC) die de klant nodig heeft om Azure-reserveringen te kopen voor een Azure-abonnement dat u hebt aangeschaft.
 
-Sommige partners hebben mogelijk al de rol eigenaar **toegewezen** aan klanten die hun eigen Azure-resources actief willen beheren en inrichten. Als u de status Eigenaar **al hebt** toegewezen aan een klant om eerdere abonnementen te beheren die u voor deze klanten hebt aangeschaft, kunt u deze stap overslaan.  
+Sommige partners hebben mogelijk al de rol eigenaar **toegewezen** aan klanten die hun eigen Azure-resources actief willen beheren en inrichten. Als u de status Eigenaar **al hebt** toegewezen aan een klant om eerdere abonnementen te beheren die u voor hen hebt aangeschaft, kunt u deze stap overslaan.  
 
 > [!IMPORTANT]
-> Als aan een klant niet  de rol eigenaar is toegewezen, ontvangt deze een foutmelding in de Azure Portal verhindert dat ze Azure-reserveringen kopen.
+> Als aan een klant niet  de rol Van eigenaar is toegewezen, ontvangt deze een foutmelding in de Azure Portal verhindert dat ze Azure-reserveringen kopen.
 
 Om te controleren of aan de klant de rol Van eigenaar **is** toegewezen voor een Azure-abonnement:
 
@@ -99,7 +99,7 @@ Om te controleren of aan de klant de rol Van eigenaar **is** toegewezen voor een
 
 3. Selecteer **Abonnementen voor** die klant en zoek het specifieke Azure-abonnement.
 
-4. Selecteer de **knop** Beheren naast het abonnement van die klant. Als u dit doet, wordt [Azure Portal](https://portal.azure.com/).
+4. Selecteer de **knop** Beheren naast het abonnement van die klant. Als u dit doet, wordt [Azure Portal.](https://portal.azure.com/)
 
 5. Volg deze stappen **om een** gebruiker toe te wijzen als beheerder om de rol Eigenaar toe te wijzen aan een [specifieke gebruiker.](/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator)
 
@@ -143,11 +143,11 @@ Help klanten meer inzicht te krijgen in het beheren van deze aspecten van Azure-
 
 **Prijzen die klanten betalen voor hun reserveringen.** Uw klant koopt Azure-reserveringen aan op basis van een abonnement dat u eerder voor hen hebt gekocht in uw factureringsrekening van uw CSP-partner. De prijs van de klant voor alle Azure-reserveringen die hij op basis van dit abonnement aanschaft, wordt ook door u ingesteld. Deze prijs kan verschillen van de Web Direct-prijs die de klant in de Azure Portal.
 
-**Hoe klanten hun gebruik van een reservering kunnen optimaliseren.** Sommige klanten kunnen profiteren van meer informatie over het optimaliseren van hun gebruik van een reservering of hoe ze het initiële bereik van een reservering kunnen toewijzen tijdens hun aankoop. Vraag klanten om Reserveringen voor [Azure-resources beheren te](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)lezen voor meer informatie.
+**Hoe klanten hun gebruik van een reservering kunnen optimaliseren.** Sommige klanten kunnen profiteren van meer informatie over het optimaliseren van hun gebruik van een reservering of hoe ze het initiële bereik van een reservering kunnen toewijzen tijdens hun aankoop. Vraag klanten voor meer informatie Reserveringen [voor Azure-resources beheren](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)te lezen.
 
-**Wat gebeurt er wanneer een klant een reservering met een gedeeld bereik koopt?** Wanneer klanten een reservering kopen op basis van een eerder CSP-abonnement en een gedeeld bereik toewijzen aan die reservering, zijn eventuele kortingen die de klant heeft gegeven door de CSP van toepassing op overeenkomend gebruik voor alle abonnementen die de CSP-partner voor die klant heeft aangeschaft.
+**Wat gebeurt er wanneer een klant een reservering met een gedeeld bereik koopt?** Wanneer klanten een reservering kopen op basis van een eerder CSP-abonnement en een gedeeld bereik aan die reservering toewijzen, zijn eventuele kortingen die de klant heeft gegeven door de CSP van toepassing op overeenkomend gebruik voor alle abonnementen die de CSP-partner voor die klant heeft aangeschaft.
 
-**Wat moeten klanten doen als ze een aankoop die ze hebben gedaan willen inruilen, annuleren of vernieuwen, of het initiële bereik van een reservering willen wijzigen?** Klanten moeten hun partner vragen om hen te helpen bij het wijzigen van het initiële bereik van een reservering. Ze hebben ook hulp van een partner nodig bij het inruilen, annuleren of vernieuwen van een reservering. Ze kunnen deze taken niet zelf uitvoeren met reserveringen op basis van abonnementen die voor hen zijn gekocht door een CSP-partner.
+**Wat moeten klanten doen als ze een aankoop die ze hebben gedaan willen inruilen, annuleren of vernieuwen, of het initiële bereik van een reservering willen wijzigen?** Klanten moeten hun partner vragen om hen te helpen bij het wijzigen van het initiële bereik van een reservering. Ze hebben ook hulp van een partner nodig bij het inruilen, annuleren of verlengen van een reservering. Ze kunnen deze taken niet zelf uitvoeren met reserveringen op basis van abonnementen die voor hen zijn gekocht door een CSP-partner.
 
 ## <a name="next-steps"></a>Volgende stappen
 

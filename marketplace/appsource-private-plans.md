@@ -8,11 +8,11 @@ ms.author: gushuchm
 ms.date: 06/08/2021
 robots: noindex
 ms.openlocfilehash: a392859c1106c747e0e7c696927ef3b25262e411
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936801"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244866"
 ---
 # <a name="private-plans-in-microsoft-appsource"></a>Persoonlijke abonnementen in Microsoft AppSource
 
@@ -20,7 +20,7 @@ Persoonlijke abonnementen zijn de manier waarop uitgevers aangepaste abonnemente
 
 ## <a name="ask-your-isv-for-a-private-plan"></a>Uw ISV vragen om een privé-abonnement
 
-Als u een privé-abonnement beschikbaar wilt stellen in AppSource, moet u rechtstreeks contact opnemen met de ISV en onderhandelen over een aangepaste prijs en technische specificaties. Zodra de voorwaarden van het privé-abonnement zijn overeengekomen, maakt de ISV een plan voor u en wijst deze toe aan de tenant-id van uw organisatie, die u moet verstrekken.
+Als u een privé-abonnement voor u beschikbaar wilt stellen in AppSource, moet u rechtstreeks contact opnemen met de ISV en onderhandelen over een aangepaste prijs en technische specificaties. Zodra de voorwaarden van het privé-abonnement zijn overeengekomen, maakt de ISV een plan voor u en wijst deze toe aan de tenant-id van uw organisatie, die u moet verstrekken.
 
 ### <a name="finding-your-tenant-id"></a>Uw tenant-id zoeken
 
@@ -39,11 +39,11 @@ Als u niet bent aangemeld, wordt u gevraagd dit te doen. U kunt vervolgens de pe
 
 :::image type="content" source="media/private-offers/plan-pricing-tab.png" alt-text="Persoonlijke aanbiedingen worden weergegeven op het tabblad Abonnement en prijzen.":::
 
-Als er geen privé-abonnementen beschikbaar zijn voor uw tenant, wordt in een bericht weergegeven dat u geen persoonlijke abonnementen of aanbiedingen hebt.
+Als er geen persoonlijke abonnementen beschikbaar zijn voor uw tenant, wordt in een bericht weergegeven dat u geen persoonlijke abonnementen of aanbiedingen hebt.
 
 ## <a name="purchase-a-private-plan"></a>Een privé-abonnement kopen
 
-Een ISV kan een of meer privéabonnementen in een aanbieding opnemen. Elke aanbieding kan zowel openbare als persoonlijke abonnementen hebben, maar privéabonnementen worden weergegeven op een afzonderlijke aanbiedingspagina die wordt weergegeven via het pictogram Privéaanbiedingen (hangslot) rechtsboven op de pagina.
+Een ISV kan een of meer privéabonnementen binnen een aanbieding opnemen. Elke aanbieding kan zowel openbare als persoonlijke abonnementen hebben, maar privéabonnementen worden weergegeven op een afzonderlijke aanbiedingspagina die wordt weergegeven via het pictogram Privéaanbiedingen (hangslot) rechtsboven op de pagina.
 
 Beschikbare privé-abonnementen worden weergegeven op **het tabblad Abonnementen en** prijzen. Persoonlijke abonnementen hebben een opvallende blauwe badge.
 

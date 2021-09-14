@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 08672379e300eccf18a0a1f0cfc1e41b4b7dbc91
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957827"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126245596"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Problemen met accountinstallatie of MPN-verlenging oplossen
 
@@ -24,7 +24,7 @@ Hier zijn enkele suggesties voor het oplossen van veelvoorkomende problemen die 
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Wat gebeurt er als u migreert van Partner Membership Center en u geen velden met bedrijfsgegevens kunt bewerken
 
-In gevallen waarin uw bedrijf al aanwezig is in Partner Center (bijvoorbeeld een Cloud Solution Provider(CSP)-account), wordt een alleen-lezen scherm weergegeven. In dit scherm wordt alle informatie over uw bedrijf weergegeven zoals deze bestaat in Partner Center.
+Als uw bedrijf al aanwezig is in Partner Center (bijvoorbeeld een Cloud Solution Provider(CSP)-account), wordt er een alleen-lezenscherm weergegeven. In dit scherm wordt alle informatie over uw bedrijf weergegeven zoals deze bestaat in Partner Center.
 
 U kunt de details op dit scherm niet wijzigen. Dit is een ontwerp en geen fout.
 
@@ -43,7 +43,7 @@ Lees Selfservice registreren [voor meer informatie.](/azure/active-directory/use
 
 Als u uw wachtwoord bent vergeten, selecteert u Op de aanmeldingspagina de optie **Hebt u geen toegang tot uw account?**. Met deze optie kunt u uw wachtwoord opnieuw instellen of uw globale beheerder vragen om u nieuwe referenties toe te wijzen.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Op het scherm Vertel ons over uw bedrijf ziet u de fout 'Er is iets misgegaan'
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Op het scherm Vertel ons over uw bedrijf ontvangt u de fout 'Er is iets misgegaan'
 
 Dit foutbericht wordt meestal weergegeven als u per ongeluk speciale tekens, spaties of landcode in uw bedrijfstelefoonnummer gebruikt. De waarde die is ingevoerd in Telefoon veld Getal mag maximaal 10 tekens bevatten.
 

@@ -10,18 +10,18 @@ ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ce0eaa6a4ec04dc514b241b7f90bf32dd3106e41
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956830"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244750"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Abonnementen en resources beheren onder het Azure-abonnement
 
 **Juiste rollen:** Beheerdersagent
 
 
-In dit artikel wordt uitgelegd hoe CSP-partners verschillende opties voor op rollen gebaseerd toegangsbeheer (RBAC) kunnen gebruiken om operationeel beheer en beheer van de Azure-resources van een klant te krijgen. Wanneer u een klant overplaatst naar het Azure-plan, krijgt u standaard bevoegde beheerdersrechten toegewezen in Azure (abonnementseigenaarsrechten via beheerder namens).
+In dit artikel wordt uitgelegd hoe CSP-partners verschillende opties voor op rollen gebaseerd toegangsbeheer (RBAC) kunnen gebruiken om operationeel beheer en beheer van de Azure-resources van een klant te krijgen. Wanneer u een klant overplaatst naar het Azure-plan, krijgt u standaard bevoorrechte beheerdersrechten toegewezen in Azure (abonnementseigenaarsrechten via beheerder namens).
 
  > [!NOTE]
  > Beheerdersrechten voor het Azure-abonnement kunnen door de klant worden verwijderd op abonnements-, resourcegroep- of workloadniveau. 
@@ -32,9 +32,9 @@ In dit artikel wordt uitgelegd hoe CSP-partners verschillende opties voor op rol
 
 - **Azure Lighthouse:** AOBO biedt niet de flexibiliteit om afzonderlijke groepen te maken die met verschillende klanten werken of om verschillende rollen in te stellen voor groepen of gebruikers. Met Azure Lighthouse kunt u verschillende groepen toewijzen aan verschillende klanten of rollen. Omdat gebruikers het juiste toegangsniveau hebben via gedelegeerd resourcebeheer van Azure, kunt u het aantal gebruikers met de rol Beheerderagent verminderen (en dus volledige AOBO-toegang hebben). Dit helpt de beveiliging te verbeteren door onnodige toegang tot de resources van uw klanten te beperken. Het biedt u ook meer flexibiliteit om meerdere klanten op schaal te beheren. Lees voor meer informatie [Azure Lighthouse en het Cloud Solution Provider programma](/azure/lighthouse/concepts/cloud-solution-provider).
 
-- **Directory of gastgebruikers of [service-principals:](/azure/active-directory/develop/app-objects-and-service-principals)** u kunt gedetailleerde toegang tot CSP-abonnementen delegeren door gebruikers toe te voegen aan de klantmap of gastgebruikers toe te voegen en specifieke RBAC-rollen toe te wijzen.
+- **Directory- of gastgebruikers of [service-principals:](/azure/active-directory/develop/app-objects-and-service-principals)** u kunt gedetailleerde toegang tot CSP-abonnementen delegeren door gebruikers toe te voegen aan de klantmap of gastgebruikers toe te voegen en specifieke RBAC-rollen toe te wijzen.
 
-Microsoft raadt gebruikers aan de minimale machtigingen te hebben die ze nodig hebben om hun werk uit te voeren als beveiligingspraktijken. Zie [Azure Active Directory Privileged Identity Management resources](/azure/active-directory/privileged-identity-management/pim-configure).
+Microsoft raadt gebruikers aan de minimale machtigingen te hebben die ze nodig hebben om hun werk uit te voeren als beveiligingsoefening. Zie [Azure Active Directory Privileged Identity Management resources](/azure/active-directory/privileged-identity-management/pim-configure).
 
 ## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Uw partner-id (MPN-id) koppelen aan uw referenties voor het beheren van de Azure-resources van de klant
 
@@ -42,16 +42,16 @@ In de volgende tabel ziet u de methoden die worden gebruikt om uw partner-id te 
 
 |**Categorie**   |**Scenario**   |**MPN-id-associatie**|
 |-----------------|:------------------------|:------------------|
-|AOBO   |Directe CSP-partner of indirecte provider maakt het abonnement voor de klant, waardoor de directe CSP-partner of indirecte provider de standaardeigenaar van het abonnement wordt met behulp van AOBO; Directe CSP-partner of indirecte provider geven indirecte reseller toegang tot het abonnement met behulp van AOBO.|Automatisch (geen partnerwerk vereist)|
-|Azure Lighthouse|Partner maakt een nieuwe [Managed Services-aanbieding in Marketplace.](/azure/lighthouse/concepts/managed-services-offers) Deze aanbieding wordt geaccepteerd in het CSP-abonnement en de partner krijgt toegang tot het CSP-abonnement.|Automatisch (geen partnerwerk vereist)|
-|Azure Lighthouse|Partner implementeert [ARM-sjabloon](/azure/lighthouse/how-to/onboard-customer) in Azure-abonnement|De partner moet de MPN-id koppelen aan de gebruiker of service-principal in de partner-tenant. Voor meer informatie: koppeling [partner-id](/azure/billing/billing-partner-admin-link-started).|
-|Directory- of gastgebruiker|Partner maakt een nieuwe gebruiker of service-principal in de klantmap en geeft de gebruiker toegang tot het CSP-abonnement. Partner maakt een nieuwe gebruiker of service-principal in de directory van de klant. De partner voegt de gebruiker toe aan een groep en geeft toegang tot het CSP-abonnement aan de groep.|De partner moet de MPN-id koppelen aan de gebruiker of service-principal in de tenant van de klant. Voor meer informatie: koppeling [partner-id](/azure/billing/billing-partner-admin-link-started).|
+|AOBO   |De directe CSP-partner of indirecte provider maakt het abonnement voor de klant, waardoor de directe CSP-partner of indirecte provider de standaardeigenaar van het abonnement wordt met AOBO; Directe CSP-partner of indirecte provider geven indirecte reseller toegang tot het abonnement met behulp van AOBO.|Automatisch (geen partnerwerk vereist)|
+|Azure Lighthouse|Partner maakt een nieuwe [Aanbieding voor beheerde services in Marketplace.](/azure/lighthouse/concepts/managed-services-offers) Deze aanbieding wordt geaccepteerd voor het CSP-abonnement en de partner krijgt toegang tot het CSP-abonnement.|Automatisch (geen partnerwerk vereist)|
+|Azure Lighthouse|Partner implementeert [ARM-sjabloon](/azure/lighthouse/how-to/onboard-customer) in Azure-abonnement|De partner moet de MPN-id koppelen aan de gebruiker of service-principal in de partner-tenant. Voor meer informatie: [koppeling partner-id](/azure/billing/billing-partner-admin-link-started).|
+|Directory of gastgebruiker|Partner maakt een nieuwe gebruiker of service-principal in de klantmap en geeft de gebruiker toegang tot het CSP-abonnement. Partner maakt een nieuwe gebruiker of service-principal in de directory van de klant. De partner voegt de gebruiker toe aan een groep en geeft toegang tot het CSP-abonnement aan de groep.|De partner moet de MPN-id koppelen aan de gebruiker of service-principal in de tenant van de klant. Voor meer informatie: [koppeling partner-id](/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Bevestig dat u beheerderstoegang hebt
 
-U hebt beheerderstoegang nodig om de services van uw klant te beheren en om verdiend tegoed te ontvangen. Lees [Partnertegoeden voor](partner-earned-credit.md) gedetailleerde informatie over verdiend tegoed. U hebt twee manieren om ervoor te zorgen dat u weet dat u beheerderstoegang hebt.
+U hebt beheerderstoegang nodig om de services van uw klant te beheren en om verdiend tegoed te ontvangen. Lees [Partnertegoeden voor](partner-earned-credit.md) gedetailleerde informatie over verdiend tegoed. U kunt er op twee manieren voor zorgen dat u weet dat u beheerderstoegang hebt.
 
-- Het dagelijkse gebruiksbestand controleren: dit kan worden bepaald door de eenheidsprijs en de effectieve eenheidsprijs in het dagelijkse gebruiksbestand te bekijken en te controleren of er korting wordt toegepast. Als u de korting ontvangt, bent u de beheerder.
+- Controleer het bestand voor dagelijks gebruik: dit kan worden bepaald door de eenheidsprijs en de effectieve eenheidsprijs in het dagelijkse gebruiksbestand te controleren en te bevestigen of er korting wordt toegepast. Als u de korting ontvangt, bent u de beheerder.
 
 - Een Azure Monitor-waarschuwing maken: u kunt een [](/azure/azure-monitor/platform/alerts-activity-log) waarschuwing voor Azure Monitor activiteitenlogboek maken om een melding te ontvangen wanneer uw RBAC-toegang wordt verwijderd uit het CSP-abonnement.
 
@@ -61,13 +61,13 @@ U hebt beheerderstoegang nodig om de services van uw klant te beheren en om verd
 
    :::image type="content" source="images/azure/azurealert1.png" alt-text="azure-waarschuwing.":::
 
-2. Selecteer het type actie dat u wilt dat de waarschuwing moet ondernemen. Als u bijvoorbeeld opgeeft dat u een e-mailbericht wilt ontvangen, ontvangt u een e-mail met de melding dat een roltoewijzing wordt verwijderd.
+2. Selecteer het type actie dat door de waarschuwing moet worden genomen. Als u bijvoorbeeld opgeeft dat u een e-mailbericht wilt ontvangen, ontvangt u een e-mail met de melding dat een roltoewijzing wordt verwijderd.
 
    :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="waarschuwing configureren.":::
 
 ### <a name="aobo-removal"></a>AOBO verwijderen
 
-Klanten kunnen de toegang tot hun abonnementen beheren door naar **de** Access Control te Azure Portal. Op het **tabblad Roltoewijzingen** selecteren ze **Toegang verwijderen.** Als dit gebeurt, kunt u het volgende doen:
+Klanten kunnen de toegang tot hun abonnementen beheren door naar de Access Control **te** Azure Portal. Op het **tabblad Roltoewijzingen** selecteren ze **Toegang verwijderen.** Als dit gebeurt, kunt u het volgende doen:
 
 - Praat met uw klant om te zien of beheerderstoegang opnieuw kan worden ingesteld.
 
@@ -77,7 +77,7 @@ Klanten kunnen de toegang tot hun abonnementen beheren door naar **de** Access C
 
 Toegang op basis van rollen verschilt van beheerderstoegang. Rollen bepalen precies wat u wel en niet kunt doen. Beheerderstoegang is breder.
 
-Lees Rollen en machtigingen voor het partnertegoed om te zien welke rollen in aanmerking komen om PEC [te verdienen.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)
+Als u wilt zien welke rollen in aanmerking komen om PEC te verdienen, leest u Rollen en machtigingen [voor het partnertegoed](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2).
 
 ## <a name="next-steps"></a>Volgende stappen
 

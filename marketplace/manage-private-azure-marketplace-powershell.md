@@ -1,5 +1,5 @@
 ---
-title: 'Quickstart: Een privé-Azure Marketplace met PowerShell'
+title: 'Quickstart: Een privé-Azure Marketplace met Behulp van PowerShell'
 description: In deze quickstart ziet u hoe u aanbiedingen in een privé-Azure Marketplace beheert met Azure PowerShell.
 author: keferna
 ms.author: keferna
@@ -9,18 +9,18 @@ ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
 ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936879"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244848"
 ---
-# <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Quickstart: Een privé-Azure Marketplace met PowerShell
+# <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Quickstart: Een privé-Azure Marketplace met Behulp van PowerShell
 
 In dit artikel wordt beschreven hoe u aanbiedingen in een privé-Azure Marketplace met behulp van de PowerShell-module [Az.Marketplace.](/powershell/module/az.marketplace)
 
 > [!IMPORTANT]
-> Privé Azure Marketplace versie is momenteel beschikbaar als openbare preview. Deze preview-versie wordt geleverd zonder Service Level Agreement. Dit wordt niet aanbevolen voor productieworkloads. Sommige functies worden mogelijk niet ondersteund of hebben beperkte mogelijkheden. Zie [Supplemental Terms of Use for Microsoft Azure Previews (Aanvullende gebruiksvoorwaarden voor Microsoft Azure-previews)](https://azure.microsoft.com/support/legal/preview-supplemental-terms/) voor meer informatie.
+> Privé Azure Marketplace is momenteel beschikbaar als openbare preview. Deze preview-versie wordt geleverd zonder Service Level Agreement. Dit wordt niet aanbevolen voor productieworkloads. Sommige functies worden mogelijk niet ondersteund of hebben beperkte mogelijkheden. Zie [Supplemental Terms of Use for Microsoft Azure Previews (Aanvullende gebruiksvoorwaarden voor Microsoft Azure-previews)](https://azure.microsoft.com/support/legal/preview-supplemental-terms/) voor meer informatie.
 
 ## <a name="requirements"></a>Vereisten
 
@@ -33,7 +33,7 @@ In dit artikel wordt beschreven hoe u aanbiedingen in een privé-Azure Marketpla
   * Raadpleeg [Overzicht van Azure Cloud Shell](/azure/cloud-shell/overview) voor meer informatie.
 
   > [!IMPORTANT]
-  > Hoewel de **PowerShell-module Az.Marketplace** in preview is, moet u deze afzonderlijk installeren met behulp van de `Install-Module` cmdlet . Nadat de PowerShell-module algemeen beschikbaar is geworden, wordt deze onderdeel van toekomstige releases van de Az PowerShell-module en is deze standaard beschikbaar vanuit Azure Cloud Shell.
+  > Hoewel de PowerShell-module **Az.Marketplace** in preview is, moet u deze afzonderlijk installeren met behulp van de `Install-Module` cmdlet . Nadat de PowerShell-module algemeen beschikbaar is geworden, wordt deze onderdeel van toekomstige releases van de Az PowerShell-module en is deze standaard beschikbaar vanuit Azure Cloud Shell.
 
   ```azurepowershell-interactive
   Install-Module -Name Az.Marketplace
@@ -64,7 +64,7 @@ Type           : Microsoft.Marketplace/privateStores
 
 ## <a name="add-an-offer-to-a-private-marketplace"></a>Een aanbieding toevoegen aan een privé-marketplace
 
-Als u een aanbieding wilt toevoegen aan een privé-winkel, gebruikt u de cmdlet [Set-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/set-azmarketplaceprivatestoreoffer) In het volgende voorbeeld wordt de opgegeven aanbieding toegevoegd aan een privé-marketplace voor een privéopslag die wordt gemaakt onder het tenantbereik.
+Als u een aanbieding wilt toevoegen aan een privé-winkel, gebruikt u de cmdlet [Set-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/set-azmarketplaceprivatestoreoffer) In het volgende voorbeeld wordt de opgegeven aanbieding toegevoegd aan een privémarktplaats voor een persoonlijke winkel die wordt gemaakt onder het tenantbereik.
 
 ```azurepowershell-interactive
 $Params = @{
@@ -97,9 +97,9 @@ Name                      : publisherid.offerid
 Type                      : Microsoft.Marketplace/privateStores/offers
 ```
 
-## <a name="get-private-store-offers"></a>Aanbiedingen voor privé-winkels downloaden
+## <a name="get-private-store-offers"></a>Aanbiedingen voor persoonlijke winkels downloaden
 
-Als u een of meer aanbiedingen voor een privé-winkel wilt krijgen, gebruikt u de cmdlet [Get-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/get-azmarketplaceprivatestoreoffer) In het volgende voorbeeld worden aanbiedingen ontvangen die zijn gekoppeld aan de opgegeven privéopslag die zijn toegevoegd onder het tenantbereik.
+Als u een of meer aanbiedingen voor persoonlijke winkels wilt krijgen, gebruikt u de cmdlet [Get-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/get-azmarketplaceprivatestoreoffer) In het volgende voorbeeld worden aanbiedingen ontvangen die zijn gekoppeld aan de opgegeven privéopslag die zijn toegevoegd onder het tenantbereik.
 
 ```azurepowershell-interactive
 Get-AzMarketplacePrivateStoreOffer -PrivateStoreId 00000000-0000-0000-0000-000000000000
@@ -138,7 +138,7 @@ Type                      : Microsoft.Marketplace/privateStores/offers
 
 ## <a name="remove-an-offer"></a>Een aanbieding verwijderen
 
-Als u een aanbieding uit een privé-winkel wilt verwijderen, gebruikt u de cmdlet [Remove-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/remove-azmarketplaceprivatestoreoffer) In het volgende voorbeeld wordt een aanbieding verwijderd uit een privé-winkel die is gemaakt in het tenantbereik.
+Als u een aanbieding uit een privé-winkel wilt verwijderen, gebruikt u de cmdlet [Remove-AzMarketplacePrivateStoreOffer.](/powershell/module/az.marketplace/remove-azmarketplaceprivatestoreoffer) In het volgende voorbeeld wordt een aanbieding verwijderd uit een persoonlijke winkel die is gemaakt in het tenantbereik.
 
 ```azurepowershell-interactive
 Remove-AzMarketplacePrivateStoreOffer -privateStoreId 00000000-0000-0000-0000-000000000000 -offerId publisherid.offerid

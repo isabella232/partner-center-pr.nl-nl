@@ -10,11 +10,11 @@ ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957631"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126244925"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Licenties beheren in Marketplace-aanbiedingen
 
@@ -75,11 +75,11 @@ De eerste stap in het licentieproces is het maken van uw commerciële marketplac
 In deze stappen definieert u het plan of de plannen die u wilt inschakelen voor uw aanbieding.
 
 1. Selecteer in het navigatiemenu aan de **linkerkant Overzicht plannen** en selecteer **vervolgens Nieuw abonnement maken.**
-2. Voer een **plan-id** en **plannaam** in en selecteer **vervolgens Maken.**
+2. Voer een **plan-id** en **plannaam in** en selecteer **vervolgens Maken.**
 3. Voer op **de pagina Abonnementsvermelding** de beschrijving van uw abonnement **in.**
 4. Als u de beschrijving wilt opslaan en later wilt voltooien, selecteert **u Concept opslaan.**
 
-5. Wanneer u klaar bent, selecteert u **Controleren en publiceren.** De plangegevens worden nu weergegeven op de appsource.microsoft.com onder aanbiedingsvermelding (sectie abonnementen).
+5. Wanneer u klaar bent, selecteert u **Controleren en publiceren.** De plangegevens worden nu weergegeven op appsource.microsoft.com aanbiedingsvermelding (sectie abonnementen).
 
 6. Nadat u alle plannen voor deze aanbieding hebt gemaakt, moet u de service-id van elk plan kopiëren. Selecteer **Bovenaan de pagina** Abonnementsvermelding de optie Planoverzicht. Kopieer de service-id voor elk plan naar een veilige locatie.
 
@@ -89,7 +89,7 @@ De volgende stap is het bijwerken van uw oplossing door de service-ID's toe te v
 
 ## <a name="upload-your-package-and-publish-your-offer"></a>Upload pakket maken en uw aanbieding publiceren
 
-1. Selecteer commerciële marketplace in het navigatiedeelvenster **aan de linkerkant** en selecteer **vervolgens Technische configuratie.**
+1. Selecteer in het navigatiedeelvenster links **Commerciële marketplace** en selecteer vervolgens **Technische configuratie.**
 2. Selecteer **onder Basislicentiemodel** de optie **Gebruiker**.
 3. Voer **onder CRM-pakket** de URL van uw pakketlocatie in.
 4. Gebruik de andere tabbladen in het linkernavigatievenster om andere vereiste gegevens in te voeren. Wanneer u klaar bent, selecteert u **Controleren en publiceren.**
@@ -129,21 +129,21 @@ Gebruik de volgende procedure om de klant uit te nodigen om deel te nemen aan de
 5. Selecteer licenties beheren op de **overzichtspagina voor deze deal.**
 6. Selecteer in **het venster Licenties beheren** de klant in de **vervolgkeuzelijst Klantgegevens.** Als de klantrelatie nog niet bestaat, selecteert u **+Een nieuwe klant uitnodigen om toestemming te geven.**
 7. Kopieer de koppeling die wordt weergegeven.
-8. Stuur deze koppeling via e-mail naar de factureringsbeheerder of globale beheerder van uw klant. Laat deze koppeling gebruiken om toegang te krijgen tot admin.microsoft.com en de relatie die u tot stand wilt laten komen, te accepteren en autoriseerde.
+8. Stuur deze koppeling via e-mail naar de factureringsbeheerder of globale beheerder van uw klant en laat deze deze koppeling gebruiken om toegang te krijgen tot admin.microsoft.com en de relatie die u tot stand wilt stellen te accepteren en autoriseerde.
 
     >[!NOTE]
     >De relatie wordt pas tot stand gebracht als de klant deze stap uitvoert.
 
 ## <a name="activate-manage-and-remove-your-licenses"></a>Uw licenties activeren, beheren en verwijderen
 
-Zodra uw klant de relatie met u heeft geautoriseerd, kunt u beginnen met het toevoegen van plannen vanuit uw aanbieding en licenties toewijzen aan elk plan.
+Zodra uw klant de relatie met u heeft geautoriseerd, kunt u beginnen met het toevoegen van plannen vanuit uw aanbieding en het toewijzen van licenties aan elk plan.
 
 1. Selecteer in het venster Licenties beheren voor deze deal de optie **+Een abonnement toevoegen.**
-2. Vul de **velden Abonnementen voor deze oplossing** en Aantal **licenties** in en selecteer vervolgens **Licenties bijwerken.** De licenties zijn beschikbaar op admin.microsoft.com klanten kunnen beheren en toewijzen aan werknemers.
+2. Vul de **velden Abonnementen voor deze oplossing** en Aantal **licenties** in en selecteer vervolgens **Licenties bijwerken.** De licenties zijn beschikbaar op elk admin.microsoft.com klanten kunnen beheren en toewijzen aan werknemers.
 
     - Als u het aantal licenties voor een bestaand abonnement  wilt wijzigen, voert u het nieuwe nummer in het veld Aantal licenties in en selecteert u **vervolgens Licenties bijwerken.**
 
-    - Als u licenties voor een deal wilt deactiveren  of verwijderen, selecteert u het prullenbakpictogram in het veld Acties en selecteert u **vervolgens Licenties bijwerken.**
+    - Als u licenties voor een deal wilt deactiveren of verwijderen, selecteert u het prullenbakpictogram in het **veld** Acties en selecteert u **vervolgens Licenties bijwerken.**
 
 ## <a name="next-steps"></a>Volgende stappen
 
