@@ -1,20 +1,20 @@
 ---
 title: Nieuwe commerciële promoties
 ms.topic: article
-ms.date: 08/30/2021
+ms.date: 09/03/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Meer informatie over nieuwe commerce-ervaringen voor het detecteren en kopen van promoties.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abb1bc79bc3a67ccb9f3d067f6eeb8cb22a6b3f5
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: dc2d52dd444168b32f0cadaeccec1e6d906348d1
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957767"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828297"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Inleiding: Nieuwe commerciële promoties
 
@@ -34,7 +34,7 @@ Microsoft biedt ondersteuning voor promoties in nieuwe handel. Deze promoties he
 Partners kunnen promoties ontdekken door de achterstand van promoties te bezoeken of door de getPromotions-API aan te roepen. De achterstand bij promoties is een Microsoft-lijst met beschikbare promoties die partners moeten kennen. De lijst wordt maandelijks opeengepdatet en bijgewerkt. 
 
 
-## <a name="operationalize-promotions"></a>Niveaupromoties operationeel maken ##
+## <a name="operationalize-promotions"></a>Promoties operationeel maken ##
 
 Partners kunnen de promoties operationeel maken door de getPromotions-API te implementeren. Deze API retourneert alle promoties die bestaan voor een bepaalde markt (het land van de klant) en het segment. De API retourneert de lijst met promoties en belangrijke informatie om de partner te helpen begrijpen welke promoties beschikbaar zijn voor klanten in verschillende landen. 
 
@@ -56,7 +56,7 @@ Partners kunnen bekijken of een klantaankoop in aanmerking komt voor een promoti
 
 ## <a name="promotions-and-renewals"></a>Promoties en verlengingen ##
 
-Aanbiedingskortingen die worden toegepast, gelden voor de duur van de aankoop. Abonnementen met toegepaste promoties behouden de actieprijs als de verlengingsdatum binnen het datumbereik van de promotieduur valt. Verlengingen buiten het datumbereik van de promotieduur worden verlengd tot de prijs die niet is gepromotie (in de lijst met prijzen). Partners kunnen de verlengingsstatus bijhouden voor de prijspunten op de pagina met abonnementsgegevens en op de instructies voor gegevensvernieuwing voor getSubscription.
+Aanbiedingskortingen wanneer deze worden toegepast, gelden voor de duur van de aankoop. Abonnementen met toegepaste promoties behouden de actieprijs als de verlengingsdatum binnen het datumbereik van de promotieduur valt. Verlengingen buiten het datumbereik van de promotieduur worden verlengd tot de prijs die niet is gepromotie (in de lijst met prijzen). Partners kunnen de verlengingsstatus bijhouden voor de prijspunten op de pagina met abonnementsgegevens en op de instructies voor gegevensvernieuwing voor getSubscription.
 
 
 ## <a name="promotions-and-upgrades"></a>Promoties en upgrades ##

@@ -1,6 +1,6 @@
 ---
 title: Aankondigingen van september 2021
-description: Aankondigingen van september 2021 voor Microsoft Partner Center nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
+description: Aankondigingen van september 2021 voor Microsoft Partner Center waaronder nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-announcements
@@ -10,17 +10,55 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/10/2021
-ms.openlocfilehash: dfb3d2dccfdec0512e8517ab7d815bd076570958
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/13/2021
+ms.openlocfilehash: f34234bebb8353315029eaab76aa52cb30df6e6a
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244782"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828229"
 ---
 # <a name="september-2021-announcements"></a>Aankondigingen van september 2021
 
 Deze pagina bevat de aankondigingen voor Microsoft Partner Center voor september 2021.
+
+_____________
+
+## <a name="coming-soon-delegated-administrative-privileges-monitoring-and-self-service-removal"></a><a name="11"></a> Binnenkort: controle van gedelegeerde beheerdersbevoegdheden en selfserviceverwijdering
+
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-13-10
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Microsoft start nieuwe rapportagehulpprogramma's die actieve DAP-verbindingen (gedelegeerde beheerdersbevoegdheden) weergeven, zodat partners ongebruikte DAP-verbindingen kunnen uitschakelen.
+
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
+
+Partners voor directe factuur, indirecte providers en indirecte resellers die via het Cloud Solution Provider werken
+
+### <a name="details"></a>Details
+
+Partners kunnen gedelegeerde beheerdersbevoegdheden (DAP) gebruiken om de services van hun klanten te beheren en te ondersteunen.
+
+Om de beveiliging binnen het partner- en klantecosysteem te verbeteren, raadt Microsoft aan DAP uit te schakelen wanneer deze niet in gebruik is.
+
+Vanaf eind oktober start Microsoft nieuwe rapportagehulpprogramma's, zodat de beheeragents van partners DAP-verbindingen met hun klanten kunnen controleren. Deze rapportage legt vast hoe partneragents via DAP toegang hebben tot tenants van klanten in alle tenants. Partners kunnen vervolgens DAP-verbindingen controleren en verwijderen die niet in gebruik zijn.
+
+Voor meer informatie over deze nieuwe rapportagefunctie [](https://partner.microsoft.com/resources/detail/dap-monitoring-and-self-serve-removal-pdf) hebben we een handleiding gemaakt die de verschillende filters en velden documenteert die beschikbaar zijn in het rapport.
+
+#### <a name="key-considerations"></a>Belangrijkste overwegingen
+
+- Door DAP-toegang voor een klant uit te schakelen, worden de beheerdersrechten van de partner uitgeschakeld voor het beheren van mogelijkheden op de tenant van de klant.  
+- Transacting-partners kunnen orders namens hun klanten blijven plaatsen.
+- Partneragents kunnen geen ondersteuningsticket meer voor hun klanten bij Microsoft maken.  
+- Het uitschakelen van DAP heeft geen invloed op de huidige rollen voor op rollen gebaseerd toegangsbeheer voor een abonnement en heeft geen invloed op partnertegoeden.
+
+### <a name="next-steps"></a>Volgende stappen
+
+Bekijk de [resources](https://partner.microsoft.com/resources/collection/delegated-administrative-privileges-dap#/) over dit onderwerp en deel deze met de juiste belanghebbenden in uw organisatie.
 
 ## <a name="september-cloud-solution-provider-community-update-and-reminders"></a><a name="10"></a>Update Cloud Solution Provider community van september en herinneringen
 
@@ -31,11 +69,11 @@ Deze pagina bevat de aankondigingen voor Microsoft Partner Center voor september
 
 ### <a name="summary"></a>Samenvatting
 
-De [maandelijkse Cloud Solution Provider (CSP)](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) van de CSP is nu beschikbaar, samen met aanvullende [CSP-communityresources](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/) die u essentiële programma-updates bieden.
+De [Cloud Solution Provider (CSP)](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) maandelijkse update-nieuwsbrief is nu beschikbaar, samen met aanvullende [CSP-communityresources](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/) die u essentiële programma-updates bieden.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Directe CSP-factuurpartners en indirecte providers
+CSP-partners voor directe factuur en indirecte providers
 
 ### <a name="details"></a>Details
 
@@ -49,7 +87,7 @@ De resources van deze maand hebben betrekking op de volgende onderwerpen:
 
 - [Inleiding tot licentieondersteuning voor partners](https://partner.microsoft.com/resources/detail/introduction-to-licensing-support-for-partners-pdf)
 - [Handleiding voor de site productvoorwaarden voor partners](https://partner.microsoft.com/resources/detail/product-terms-site-guide-for-partners-pdf)
-- [Een ondersteuningsding melden](https://partner.microsoft.com/resources/detail/how-to-report-a-support-scam-pdf)
+- [Een ondersteuningssyte melden](https://partner.microsoft.com/resources/detail/how-to-report-a-support-scam-pdf)
 - [Wijziging van programmakenmerk voor Microsoft 365-apps for Enterprise](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
 
 #### <a name="csp-community-qa-reminder"></a>CSP Community Q&A reminder
@@ -62,28 +100,28 @@ De maandelijkse Q&A-sessie van de CSP-community biedt u de mogelijkheid om meer 
 
 In de maandelijkse [CSP-communityverzameling](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/)vindt u het volgende:
 
-- De downloadbare [CSP Monthly Update-nieuwsbrief](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) waarin recente CSP-aankondigingen, updates, gebeurtenissen en herinneringen worden samengevoegd in een eenvoudig te lezen document.
-- De [aankondigings agenda van de CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-september-2021-pdf) met een tijdlijn van toekomstige wijzigingen die van invloed zijn op het programma.
+- De downloadbare [CSP Monthly Update-nieuwsbrief](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) waarin recente CSP-aankondigingen, updates, gebeurtenissen en herinneringen worden geaggregeerd in een eenvoudig te lezen document.
+- De [aankondigings agenda van de CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-september-2021-pdf) met een tijdlijnweergave van toekomstige wijzigingen die van invloed zijn op het programma.
 - De **nieuwe** [productlancerings](https://partner.microsoft.com/resources/detail/product-launch-calendar-september-pdf) agenda waar u toekomstige productlanceringen en aanbiedingen kunt bekijken.
-- De [global promo-gereedheidshandleiding](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) waarin recente en toekomstige promoties worden verzameld die beschikbaar zijn voor partners en klanten.
+- De [Global Promo Readiness Guide (Handleiding](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) voor gereedheid voor wereldwijde promotie) waarin recente en toekomstige promoties worden verzameld die beschikbaar zijn voor partners en klanten.
 - [CSP start updatebronnen](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) met eenvoudig te gebruiken inhoud over belangrijke operationele wijzigingen.
-- [Vernieuwingen en herinneringen over](https://partner.microsoft.com/resources/detail/csp-september-2021-refreshers-and-reminders-pdf) belangrijke CSP-onderwerpen die interesse en query's ontvangen.
+- [Vernieuwingen en herinneringen over belangrijke](https://partner.microsoft.com/resources/detail/csp-september-2021-refreshers-and-reminders-pdf) CSP-onderwerpen die interesse en query's ontvangen.
 
-Hebt u licentie-gereedheid nodig? De [maandelijkse CSP Spotlight-webinars hebben](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) betrekking op de meest recente CSP-licentiegegevens die beschikbaar zijn voor alle partners.
+Hebt u licentie-gereedheid nodig? De [maandelijkse webinars met CSP-spotlight hebben](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) betrekking op de meest recente CSP-licentiegegevens die beschikbaar zijn voor alle partners.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de resources van de community en registreer u voor de Q&A community-oproep.
+Bekijk de resources van de community en registreer u voor de Q&Een community-oproep.
 
 ### <a name="questions"></a>Vragen?
 
-De maandelijkse Q&A-oproep van de CSP-community is de beste plek om vragen te stellen over operationele veranderingen in het CSP-programma. U kunt [een vraag indienen tot](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) 48 uur vóór de oproep. Alle startvragen worden beantwoord in de aanroep en/of in het Q&A-document dat na de aanroep is gepubliceerd. U kunt de communityverzameling van de afgelopen maand [bezoeken](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) en het Q&A-document bekijken dat na de gebeurtenis van augustus is gepubliceerd.
+De maandelijkse CSP-community Q&A call is de beste plek om vragen te stellen over operationele veranderingen in het CSP-programma. U kunt [een vraag indienen tot](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) 48 uur vóór de oproep. Alle startvragen worden beantwoord in de aanroep en/of in het Q&A-document dat na de aanroep is gepubliceerd. U kunt de communityverzameling van de [afgelopen maand](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) bezoeken en het Q&A-document bekijken dat na de gebeurtenis van augustus is gepubliceerd.
 
-Vragen over andere CSP-onderwerpen? Ga naar [de Partner Center ondersteuningspagina](https://partner.microsoft.com/support/?stage=1).
+Vragen over een ander CSP-onderwerp? Ga naar [de Partner Center ondersteuningspagina](https://partner.microsoft.com/support/?stage=1).
 
 _____________
 
-## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> September co-sell met Microsoft Q&A community call reminder (Herinnering aan een communitygesprek)
+## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> September co-sell met Microsoft Q&A community call reminder
 
 ### <a name="categories"></a>Categorieën
 
@@ -92,16 +130,16 @@ _____________
 
 ### <a name="summary"></a>Samenvatting
 
-[Registreer u nu](https://globalpbocomm.eventbuilder.com/GlobalCoSell) voor de communitysessie van september, waarin de nieuwste lanceringen en verbeteringen van de commerciële marketplace en verwijzingenmodules in Partner Center.
+[Registreer u nu](https://globalpbocomm.eventbuilder.com/GlobalCoSell) voor de communitysessie van september, waarin de meest recente lanceringen en verbeteringen van de commerciële marketplace en verwijzingenmodules in Partner Center.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
 Deze sessie is toegewezen aan Partner Center gebruikersrollen die de volgende beheren:
 
 - Commerciële marketplace-module voor publicatiebeheer van aanbieding.
-- De module Verwijzingen voor het beheer van leads en het delen van kansen voor co-verkoop.
+- De module Verwijzingen voor leads en het beheer van het delen van kansen voor co-verkoop.
 
-Alle andere Partner Center hebben toegang tot inhoud op aanvraag in de [resourcegalerie van Operations Readiness.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
+Alle andere Partner Center hebben toegang tot inhoud op aanvraag in de [operations readiness-resourcegalerie.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
 
 ### <a name="details"></a>Details
 
@@ -109,33 +147,33 @@ Belangrijke artikelen voor deze maand zijn:
 
 #### <a name="commercial-marketplace"></a>Commerciële marketplace
 
-- [Solution Finder is nu geïntegreerd in AppSource](https://appsource.microsoft.com/blogs/now-live-on-microsoft-appsource-tap-into-the-unrivaled-microsoft-partner-ecosystem-to-accelerate-your-digital-transformation)
-- [Richtlijnen en machtigingen die nodig zijn voor het publiceren van een aanbieding in de commerciële marketplace (downloads PowerPoint presentatie)](https://assetsprod.microsoft.com/mpn/guidance-and-permissions-needed-to-publish-an-offer-and-co-sell-with-ms.pptm)
+- [Oplossingsverdeler is nu geïntegreerd in AppSource](https://appsource.microsoft.com/blogs/now-live-on-microsoft-appsource-tap-into-the-unrivaled-microsoft-partner-ecosystem-to-accelerate-your-digital-transformation)
+- [Richtlijnen en machtigingen die nodig zijn om een aanbieding te publiceren in de commerciële marketplace (downloads PowerPoint presentatie)](https://assetsprod.microsoft.com/mpn/guidance-and-permissions-needed-to-publish-an-offer-and-co-sell-with-ms.pptm)
 
 #### <a name="referral"></a>Verwijzing
 
-- [Co-sell configureren voor een commerciële marketplace-aanbieding](/azure/marketplace/co-sell-configure)
+- [Co-verkoop configureren voor een commerciële marketplace-aanbieding](/azure/marketplace/co-sell-configure)
 - [Regels voor routering van binnenkomende verkoopkansen maken en beheren: Partner Center](../routing-rules.md)
 - [Kansen voor co-verkoop beheren: Partner Center](../manage-co-sell-opportunities.md#accepted-stage)
-- [Registratiegegevens voor deal zijn nu beschikbaar voor export in verwijzingsgegevens Insights](./2021-july.md#17)
+- [Registratiegegevens voor deal zijn nu beschikbaar voor export in Verwijzingsgegevens Insights](./2021-july.md#17)
 
 #### <a name="refresh"></a>Vernieuwen
 
 - [Ervaring met co-verkoop in Partner Center](/azure/marketplace/co-sell-configure#enter-your-contacts)
 - [Verwijzingsbeheer in Partner Center](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx)
-- [Deals voor co-verkoop op schaal delen met behulp van Partner Center mogelijkheid voor bulkbewerkingen](./2021-february.md#13)
+- [Deals voor co-verkoop op schaal delen met behulp Partner Center bulkbewerkingen](./2021-february.md#13)
 - [Meer flexibiliteit met door partners geleide deals voor co-verkoop](./2021-february.md#11)
 - [Verwijzingsverwijzingen Insights in Partner Center](../referral-insights.md)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de [resources van de community](https://partner.microsoft.com/resources/collection/september-2021-co-sell-partner-community-content#/)en registreer u voor de Q&A community-oproep.
+Bekijk de [resources van de community](https://partner.microsoft.com/resources/collection/september-2021-co-sell-partner-community-content#/)en registreer u voor de Q&Een community-oproep.
 
 ### <a name="questions"></a>Vragen?
 
-De Q&Een community-oproep is de beste plaats om vragen te stellen over operationele wijzigingen. U kunt [een vraag indienen tot](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) 48 uur vóór de oproep. Alle startvragen worden beantwoord in de aanroep en/of in het Q&A-document dat na de aanroep is gepubliceerd.  
+De Q&A community-oproep is de beste plek om vragen te stellen over operationele wijzigingen. U kunt [een vraag indienen tot](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) 48 uur vóór de oproep. Alle startvragen worden beantwoord in de aanroep en/of in het Q&A-document dat na de aanroep is gepubliceerd.  
 
-Als u vragen hebt over andere onderwerpen, gaat u naar de [Partner Center ondersteuningspagina](https://partner.microsoft.com/support/?stage=1).
+Als u vragen hebt over andere onderwerpen, gaat u naar de [Partner Center ondersteuningspagina.](https://partner.microsoft.com/support/?stage=1)
 
 _____________
 
@@ -152,21 +190,21 @@ Om partners en klanten te helpen hun bedrijf te runnen op basis van vertrouwen, 
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Directe CSP-factuurpartners en indirecte providers
+CSP-partners voor directe factuur en indirecte providers
 
 ### <a name="details"></a>Details
 
-Microsoft wordt uitgevoerd op vertrouwen. We stellen alles in het werk om een compatibele, veilige en veilige methode te bieden voor het valideren van de bedrijfs- en e-mailadresgegevens van klanten. Vanaf 22 september 2021 werken we de validaties van e-mail en bedrijfsnaam bij. Zie How [to add a new customer record (Een nieuwe klantrecord toevoegen) voor meer informatie.](../add-a-new-customer.md)
+Microsoft wordt uitgevoerd op vertrouwen. We willen een compatibele, veilige en veilige methode bieden voor het valideren van de bedrijfsnaam en e-mailadresgegevens van de klant. Vanaf 22 september 2021 werken we de validaties van e-mail en bedrijfsnaam bij. Zie How [to add a new customer record (Een nieuwe klantrecord toevoegen) voor meer informatie.](../add-a-new-customer.md)
 
 _____________
 
-## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Gereedheid: Attestation voor dubbele modus en aanvullende resellerdeclaratie
+## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Gereedheid: Attestation met dubbele modus en aanvullende resellerdeclaratie
 
 ### <a name="summary"></a>Samenvatting
 
 Om partners en klanten te helpen hun bedrijf te runnen op basis van vertrouwen, moeten partners bevestigen dat ze als directe of indirecte partners optreden wanneer ze dezelfde tenant-id per transactie gebruiken.
 
-We vragen ook aan alle partners die transacties in EU-/EFTA-landen verwerken om extra resellers (maximaal 5) te declaren die bij de transactie betrokken zijn.
+We vragen ook aan alle partners die transacties in de EU/EFTA-landen verwerken om eventuele extra resellers (maximaal 5) te declareeren die bij de transactie betrokken zijn.
 
 ### <a name="categories"></a>Categorieën
 
@@ -193,25 +231,10 @@ De volgende API's worden beïnvloed en details zijn gedeeld en dienovereenkomsti
 
 De extra resellers zijn van invloed op partners die in de volgende EU-/EFTA-landen werken:
 
-| Landen | Landen | Landen |
-| ----- |----- | ----- |
-| Andorra | Griekenland | Noorwegen |
-| Oostenrijk | Groenland | Polen |
-| België | Guernsey | Portugal |
-| Bouveteiland | 2019:00 uur (dekt De plaats van de stad) | Roemenië |
-| Bulgarije | Hongarije | San Marino |
-| Kroatië | IJsland | Slowakije |
-| Cyprus | Ierland | Slovenië |
-| Tsjechië | Isle of Man | Spanje |
-| Denemarken | Italië | Spitsbergen en Jan Mayen |
-| Estland | Jersey | Zweden |
-| Faröer | Letland | Zwitserland |
-| Finland | Liechtenstein | Noorwegen |
-| Frankrijk | Litouwen | Polen |
-| Duitsland | Luxemburg | Portugal |
-| Gibraltar | Malta | Roemenië |
-| Monaco | San Marino | Nederland |
-| Slowakije | Verenigd Koninkrijk: NOG TE WETEN |
+| EU-/EFTA-landen | &nbsp; | &nbsp; |
+| --- | --- | --- |
+| Andorra<br>Oostenrijk<br>België<br>Bouveteiland<br>Bulgarije<br>Kroatië<br>Cyprus<br>Tsjechië<br>Denemarken<br>Estland<br>Faröer<br>Finland<br>Frankrijk<br>Duitsland<br>Gibraltar | Griekenland<br>Groenland<br>Guernsey<br>10. See (dekt De plaats van de stad)<br>Hongarije<br>IJsland<br>Ierland<br>Isle of Man<br>Italië<br>Jersey<br>Letland<br>Liechtenstein<br>Litouwen<br>Luxemburg<br>Malta | Monaco<br>Nederland<br>Noorwegen<br>Polen<br>Portugal<br>Roemenië<br>San Marino<br>Slowakije<br>Slovenië<br>Spanje<br>Spitsbergen en Jan Mayen<br>Zweden<br>Zwitserland<br>Verenigd Koninkrijk: NOG TE WETEN |
+|
 
 Als u wilt deelnemen aan de proef, neemt u contact op met uw expert op het gebied van onderwerp (Ali Kunnenki) en geeft u de tenant-id van de partner op zodat deze kan worden toegevoegd aan de vlucht.
 
@@ -230,7 +253,7 @@ De prijslijsten voor doorlopende software en softwareabonnementen die zijn gepub
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Indirecte providers en directe factuurpartners die permanent software- en softwareabonnementen in het Cloud Solution Provider in Rusland.
+Indirecte providers en directe factuurpartners die permanente software- en softwareabonnementen in het Cloud Solution Provider in Rusland.
 
 ### <a name="details"></a>Details
 
@@ -251,7 +274,7 @@ _____________
 
 ### <a name="summary"></a>Samenvatting
 
-De prijzenlijst van september en de preview van oktober hadden een onjuiste lijstprijs voor Microsoft 365 Business Basic in USD.
+De prijslijst van september en de preview van oktober hadden een onjuiste lijstprijs voor Microsoft 365 Business Basic in USD.
 
 ### <a name="categories"></a>Categorieën
 
@@ -275,10 +298,33 @@ De beïnvloede aanbieding omvat:
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Partners die services op basis van licenties in USD gebruiken, moeten de meest recente prijslijst downloaden om de gecorrigeerde prijs te zien.
+Partners die gelicentieerde services in USD gebruiken, moeten de meest recente prijslijst downloaden om de gecorrigeerde prijs te zien.
 
-_____________
+________________
+## <a name="nigeria-and-thailand-are-now-microsoft-managed-countries"></a><a name="4-5"></a>Nu worden door Microsoft beheerde landen door Microsoft beheerde landen.
 
+### <a name="categories"></a>Categorieën
+
+- Datum: 2021-09-01
+- Functies
+
+### <a name="summary"></a>Samenvatting
+
+Nu worden door Microsoft beheerde landen door Microsoft beheerd.
+
+### <a name="impacted-audience"></a>Beïnvloede doelgroep
+
+Partners die een transact hebben in Moet enIngen.
+
+### <a name="details"></a>Details
+
+Zie [Belastinggegevens voor uitgevers van de commerciële marketplace.](../tax-details-marketplace.md)
+
+### <a name="questions"></a>Vragen
+
+Raadpleeg voor meer vragen over deze aanbiedingen uw relevante Yammer community's.
+
+________________
 ## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>Aankondiging van Intune per apparaat voor Enterprise voor CSP-partners
 
 ### <a name="categories"></a>Categorieën
@@ -288,7 +334,7 @@ _____________
 
 ### <a name="summary"></a>Samenvatting
 
-We kondigen een nieuwe Intune-aanbieding per apparaat aan die beschikbaar is vanaf 1 september.
+We kondigen een nieuwe Intune-aanbieding per apparaat aan die vanaf 1 september beschikbaar is.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -296,20 +342,20 @@ Partners die werken in het Cloud Solution Provider (CSP)-programma.
 
 ### <a name="details"></a>Details
 
-Microsoft Intune is het meest uitgebreide uniforme eindpuntbeheerplatform voor het beheren en beveiligen van zowel fysieke als virtuele eindpunten in uw organisatie. We kondigen een nieuwe Intune-aanbieding per apparaat aan om Enterprise-organisaties te helpen bij het beheren van apparaten die zijn toegewezen aan een geverifieerde gebruiker (dat wil zeggen niet gebruikt door meerdere geverifieerde gebruikers).
+Microsoft Intune is het meest uitgebreide uniforme eindpuntbeheerplatform voor het beheren en beveiligen van zowel fysieke als virtuele eindpunten in uw organisatie. We kondigen een nieuwe Intune-aanbieding per apparaat aan om Bedrijfsorganisaties te helpen bij het beheren van apparaten die zijn toegewezen aan een geverifieerde gebruiker (dat wil zeggen niet gebruikt door meerdere geverifieerde gebruikers).
 
-Deze aanbieding, die beschikbaar is op 1 september 2021, maakt gebruik van Intune per apparaat tijdens het toevoegen van Azure Active Directory (Azure AD). Het is een volledig functionele out-of-the-box-ervaring en bevat de volgende serviceplannen:
+Deze aanbieding, die beschikbaar is op 1 september 2021, maakt gebruik van Intune per apparaat tijdens het toevoegen Azure Active Directory (Azure AD). Het is een volledig functionele out-of-the-box-ervaring en bevat de volgende serviceplannen:
 
 - Exchange Stichting
 - Microsoft Intune
 - Azure Active Directory for Education.
 
-Op basis van feedback van onze Microsoft-partners is Intune per apparaat voor Enterprise gemaakt om te worden opgenomen in een verkoop per apparaat (apparaat + Windows + Intune) als een aanbieding van vijf jaar die de levensduur van het apparaat omvat. Deze nieuwe aanbieding helpt CSP's bij het vereenvoudigen van dealstructuren en biedt hun klanten een concurrerendere deal.
+Op basis van feedback van onze Microsoft-partners is Intune per apparaat voor Enterprise gemaakt om te worden opgenomen in een verkoop per apparaat (apparaat + Windows + Intune) als een aanbieding voor vijf jaar die de levensduur van het apparaat omvat. Deze nieuwe aanbieding helpt CSP's dealstructuren te vereenvoudigen en hun klanten een concurrerendere deal te bieden.
 
 Items die u moet noteren over de nieuwe Intune-aanbieding per apparaat:
 
-- Het is een SaaS Enterprise-aanbieding en is niet ontworpen voor klanten & SMB -klanten (Small & Medium Business).
-- Het is alleen beschikbaar voor CSP's en niet beschikbaar in Volume Licensing of Web Direct.
+- Het is een SaaS Enterprise-aanbieding en is niet ontworpen voor klanten & SMB (Small & Medium Business).
+- Het is alleen beschikbaar voor CSP's en niet beschikbaar in volumelicenties of Web Direct.
 - De kosten zijn $ 150 (USD/ERP) voor een abonnement van vijf jaar.
 - Aanbiedings-id: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
 - Het werkt out-of-the-box voor Windows apparaten die zijn toegewezen aan één geverifieerde gebruiker.
@@ -321,7 +367,7 @@ Raadpleeg voor meer vragen over deze aanbiedingen uw relevante Yammer community'
 
 _____________
 
-## <a name="key-updates-for-the-new-commerce-experience-for-cloud-solution-provider-csp-seat-based-offers"></a><a name="3"></a>Belangrijke updates voor de nieuwe commerce-ervaring voor Cloud Solution Provider(CSP) aanbiedingen op basis van een seat
+## <a name="key-updates-for-the-new-commerce-experience-for-cloud-solution-provider-csp-seat-based-offers"></a><a name="3"></a>Belangrijke updates voor de nieuwe commerce-ervaring voor Cloud Solution Provider(CSP)-aanbiedingen op basis van een seat
 
 ### <a name="summary"></a>Samenvatting
 
@@ -334,49 +380,49 @@ Als vervolg op de openbaarmaking van 19 augustus 2021 heeft Microsoft belangrijk
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-CSP-partners voor directe factuur en indirecte providers en resellers via hun indirecte providers
+CSP-partners voor directe factuur, indirecte providers en resellers via hun indirecte providers
 
 ### <a name="details"></a>Details
 
-Op 19 augustus 2021 heeft [Microsoft](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) de nieuwe commerce-ervaring aangekondigd voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based aanbiedingen voor breedte beweging vanaf oktober 2021. Als vervolg op deze aankondiging hebben we de volgende belangrijke updates om uw organisatie te helpen bij het voorbereiden op deze transformatie:
+Op 19 augustus 2021 heeft [Microsoft](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) de nieuwe commerce-ervaring aangekondigd voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based aanbiedingen voor breedte beweging vanaf oktober 2021. Als vervolg op deze aankondiging hebben we de volgende belangrijke updates om uw organisatie te helpen zich voor te bereiden op deze transformatie:
 
-- Lancering van de op seat gebaseerde aanbiedingen voor geïntegreerde sandboxtests
+- Introductie van de op seat gebaseerde aanbiedingen voor geïntegreerde sandboxtests
 - Herinnering voor aanstaande CSP Q&A-aanroepen in september
 - Microsoft Commerce Incentive-programma
 
-#### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Introductie van op seat gebaseerde aanbiedingen voor geïntegreerde sandboxtests
+#### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Introductie van aanbiedingen op basis van een seat voor geïntegreerde sandboxtests
 
-Vanaf 1 september 2021 biedt Microsoft op seat gebaseerde aanbiedingen voor geïntegreerde [sandboxtests](/partner-center/develop/test-and-debug) in de nieuwe [commerce-ervaring](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) voor het CSP-programma.
+Met ingang van 1 september 2021 heeft Microsoft op seat gebaseerde aanbiedingen ingeschakeld voor geïntegreerde [sandboxtests](/partner-center/develop/test-and-debug) in de [nieuwe commerce-ervaring](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) voor het CSP-programma.
 
-De toevoeging van Microsoft 365, Dynamics 365, Power Platform en Windows 365-aanbiedingen in CSP aan de nieuwe commerce-ervaring is een andere belangrijke mijlpaal in ons nieuwe commercetraject. Microsoft investeert in productinnovaties, betere hulpprogramma's en toegang tot nieuwe zakelijke kansen waarmee partners hun CSP-omzet kunnen vergroten en klanten meer opties kunnen bieden. We ontwikkelen ons commerceplatform en stroomlijnen de processen voor order- en abonnementsbeheer om partners en klanten te helpen slagen via digitale transformatie.
+De toevoeging van Microsoft 365-, Dynamics 365-, Power Platform- en Windows 365-aanbiedingen in CSP aan de nieuwe commerce-ervaring is een andere belangrijke mijlpaal in ons nieuwe commercetraject. Microsoft investeert in productinnovaties, betere hulpprogramma's en toegang tot nieuwe zakelijke kansen waarmee partners hun CSP-omzet kunnen vergroten en klanten meer opties kunnen bieden. We ontwikkelen ons commerceplatform en stroomlijnen de processen voor order- en abonnementsbeheer om partners en klanten te helpen slagen via digitale transformatie.
 
 Partners die deelnemen aan de sandbox-testomgeving hebben vroegtijdig inzicht in de nieuwe commerce-ervaring voor aanbiedingen op basis van seat, waardoor vooraf plannen, operationele activiteiten en technische integratie mogelijk zijn voor deze aanbiedingen.
 
-Door deel te nemen aan de sandbox-omgeving kan uw organisatie:
+Door deel te nemen aan de sandbox-omgeving kan uw organisatie het volgende doen:
 
 - API-integratie uitvoeren in een testomgeving voordat u deze in productie implementeert
-- Voldoende tijd om de nieuwe commerce-ervaring te operationeel maken vóór de lancering
+- Voldoende tijd om de nieuwe commerce-ervaring operationeel te maken vóór de lancering
 
 De tabel bevat een overzicht van de belangrijkste functies die beschikbaar zijn in de geïntegreerde sandbox-testomgeving:
 
-| Instellen van gedelegeerde beheerdersbevoegdheden van partner/klant | Gedeeltelijke subupgrade- volledige functie |
+| Instellen van door partner/klant gedelegeerde beheerdersbevoegdheden | Gedeeltelijke subupgrade- volledige functie |
 | ----------- | ---------------|
 | Modellen met 1 laag, 2 lagen | Gedeeltelijke abonnementsupgrade via ondersteuning |
-| Side-by-side detectie van huidige en nieuwe ervaring | Geplande wijzigingen bij verlenging  |
+| Side-by-side detectie van de huidige en nieuwe ervaring | Geplande wijzigingen bij verlenging  |
 | Modern ontdekken en kopen (producten selecteren) | Opschorten/hervatten (via ondersteuning) |
-| Abonnement beheren (automatisch verlengen, plaatsen toevoegen, beweging annuleren) | Gratis proefversies (alleen MAC-presentatie) |
+| Abonnement beheren (automatisch verlengen, plaatsen toevoegen, beweging annuleren) | Gratis proefversies (alleen MAC-presentment) |
 | Onafhankelijke invoegtoepassingen  | Partnervaluta |
 | Factureringsplannen | Prijstransparantie  |
 | Levenscyclusbeheer van abonnementen (respijtperiode) | Jaarlijkse factureringsplannen voor aanbiedingen voor meerdere jaren  |
 | Eigendomsbeperkingen | Suspend/resume (via self-serve)  |
-| Factuur-/reconbestanden | Automatische-seatverplaatsing voor overgangen van SKU's voor volledige hoeveelheid |
-| SKU-upgrades voor de gemiddelde hoeveelheid | Gratis proefversie (met volledige presentatie) |
+| Factuur-/reconbestanden | Automatische-seat opnieuw toewijzen voor SKU-overgangen voor volledige hoeveelheid |
+| SKU-upgrades voor de volledige hoeveelheid op de gemiddelde termijn | Gratis proefversie (met volledige presentatie) |
 | Afdwinging van annuleringsbeleid: 30 dagen blokkering annuleren na 30 dagen (wordt bij algemene beschikbaarheid gewijzigd in 72 uur) |  |
 |
 
 #### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Herinnering voor aanstaande CSP Q&A-aanroepen in september
 
-Registreer u voor de komende [CSP Q&A Community](https://globalpbocomm.eventbuilder.com/GlobalCSP) Calls op 15 en 16 september om te leren en vragen te stellen over de nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based aanbiedingen voor breedte motion die in oktober 2021 beschikbaar komen. CSP Community Q&A-aanroepen zijn speciaal bedoeld om CSP-directe factuur en indirecte partners te helpen met vragen met betrekking tot CSP-lanceringen en toekomstige wijzigingen. Voor uw gemak worden communityverzamelingen van tevoren beschikbaar gesteld in de galerie voor [gereedheid](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) van partners, waar u materiaal kunt bekijken dat wordt besproken op de Q&A-aanroep.
+Registreer u voor de komende [CSP Q&A Community](https://globalpbocomm.eventbuilder.com/GlobalCSP) Calls op 15 en 16 september om te leren en vragen te stellen over de nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based aanbiedingen voor breedte motion die in oktober 2021 wordt verwacht. CSP Community Q&A-aanroepen zijn speciaal bedoeld om CSP-directe factuur en indirecte partners te helpen met vragen met betrekking tot CSP-lanceringen en toekomstige wijzigingen. Voor uw gemak worden communityverzamelingen van tevoren beschikbaar gesteld in de galerie voor [gereedheid](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) van partners, waar u materiaal kunt bekijken dat wordt besproken op de Q&A-aanroep.
 
 Als u deel wilt nemen aan en/of eerdere opnamen van CSP Fundamentals-aanroepen wilt vinden, raadpleegt u [CSP fundamentals registration (Basisregistratie van CSP-basisprincipes).](https://globalpbocomm.eventbuilder.com/CSPFundamentals)
 
@@ -384,9 +430,9 @@ Als u deel wilt nemen aan en/of eerdere opnamen van CSP Fundamentals-aanroepen w
 
 Op 1 september 2021 heeft Microsoft partners op de hoogte gesteld van de volgende stappen in de ontwikkeling van het incentive-programma van de partner dat in oktober beschikbaar moet zijn. De twee belangrijkste onderdelen van deze communicatie zijn de FY22-incentiveshandleidingen en informatie over de verbeterde incentives-ervaring die wordt ontwikkeld binnen Partner Center.
 
-- **Verbeterde partnerervaring**  Begin oktober investeert Microsoft in één betrokkenheids- en activiteitenplatform binnen Partner Center dat een gecentraliseerd doel is voor partners om incentives te verdienen tijdens de aankoop van beweging en fasen van de levenscyclus van de klant.
+- **Verbeterde partnerervaring**  Begin oktober investeert Microsoft in één betrokkenheids- en activiteitenplatform binnen Partner Center dat een gecentraliseerd doel is voor partners om incentives te verdienen tijdens de aankoop van beweging en fasen van de levenscyclus van klanten.
 
-- **Nieuwe benadering van incentives**  Er worden nog steeds nieuwe incentive- en investeringsaanbiedingen toegevoegd aan het Microsoft Commerce Incentives programma. In overeenstemming met de inspanningen om de partnerervaring te vereenvoudigen, consolideert Microsoft de incentive-programmahandleidingen in één document dat wordt gehost binnen Partner Center.
+- **Nieuwe benadering van incentives**  Nieuwe incentive- en investeringsaanbiedingen worden nog steeds toegevoegd aan het Microsoft Commerce Incentives programma. In overeenstemming met de inspanningen om de partnerervaring te vereenvoudigen, consolideert Microsoft de incentive-programmahandleidingen in één document dat wordt gehost binnen Partner Center.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -396,13 +442,13 @@ Op 1 september 2021 heeft Microsoft partners op de hoogte gesteld van de volgend
 - Lees de [CSP-handleiding](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf) voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 in de nieuwe commerce-ervaring voor meer informatie over de functies, bedrijfsregels en stapsgewijs instructies voor de release. Controleer regelmatig de bedieningshandleiding, omdat deze regelmatig wordt bijgewerkt.
 - Bekijk de resources die worden beschreven in de [gereedheidskaart](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf).
 - Bekijk de [documentatiemap van de API.](https://partner.microsoft.com/resources/collection/api-documentation#/)
-- Voor ondersteuning kunt u een ondersteuningsticket maken of een bericht plaatsen op de conversaties op de [Partnercentrum-SDK-](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)en API Yammer-groep, waar presentaties en opnamen van de functie-walk throughs in de maand september worden geplaatst.
+- Voor ondersteuning kunt u een ondersteuningsticket maken of een bericht plaatsen op de conversaties op de Partnercentrum-SDK- en [API-Yammer-groep,](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)waar presentaties en opnamen van de functie-walk throughs in de maand september worden geplaatst.
 
 #### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Herinnering voor aanstaande CSP Q&A-aanroepen in september
 
 - Registreer u voor de [komende CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) op 15 of 16 september.
 - Bekijk de nieuwe commerce-ervaring voor de verzameling aanbiedingen op basis van CSP-seat [voor](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) deze lancering.
-- Neem deel aan de CSP Q&A Community Call en stel vragen die uw organisatie heeft over de nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based voor breedte beweging.
+- Neem deel aan de CSP Q&A Community Call en stel vragen die uw organisatie heeft met betrekking tot de nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based for breadth motion.
 
 #### <a name="microsoft-commerce-incentive-program"></a>Microsoft Commerce Incentive-programma
 
@@ -444,7 +490,7 @@ Voor meer vragen over deze aanbiedingen controleert u uw relevante Yammer commun
 
 _____________
 
-## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Software in Microsoft China Cloud Solution Provider (MCCL CSP) om transacties te starten vanaf 12 augustus
+## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Software in Microsoft China Cloud Solution Provider program (MCCL CSP) om transacties te starten vanaf 12 augustus
 
 ### <a name="summary"></a>Samenvatting
 
@@ -465,7 +511,7 @@ McCL CSP-programmapartners
 
 - Op 12 augustus 2021 start MCCL CSP transacties voor Klanten van China.
 
-- Klanten kunnen tot en met 31 december 2021 softwarelicenties blijven kopen met behulp van een partner in het Open License-programma. Permanente licenties zijn beschikbaar in zowel MCCL CSP als de Open License-programma's tot de afschaffing van het Open License-programma.
+- Klanten kunnen tot en met 31 december 2021 softwarelicenties blijven kopen met behulp van een partner in het Open License-programma. Doorlopende licenties zijn beschikbaar in zowel MCCL CSP als de Open License-programma's tot de afschaffing van het Open License-programma.
 
 #### <a name="open-license-program-deprecation"></a>Afschaffing van open licentieprogramma
 
@@ -475,7 +521,7 @@ McCL CSP-programmapartners
 
 #### <a name="software-assurance-sa-purchases"></a>Software Assurance (SA) aankopen
 
-- De SA-aanbiedingen met Open License (L&SA) blijven beschikbaar in OVS (Open Value) en OvS (Open Value Subscription). Sa en L-&SA zijn echter niet beschikbaar in het MCCL CSP-programma, omdat er geen plan is om dit aan te bieden in MCCL CSP.
+- De SA-aanbiedingen met Open License (L&SA) blijven beschikbaar in Open Value (OV) en Open Value Subscription (OVS). Sa en L-&SA zijn echter niet beschikbaar in het MCCL CSP-programma, omdat er geen plan is om dit aan te bieden in MCCL CSP.
 
 - SA-voordelen blijven bestaan totdat de SA-termijn verloopt, zelfs als de vervaldatum na 1 januari 2022 is.
 
@@ -490,7 +536,7 @@ McCL CSP-programmapartners
 
 - Indirecte providers en geselecteerde indirecte resellers worden in augustus uitgenodigd voor het testen van de productieomgeving om de transactiefunctie te controleren.
 
-- Gereedheidsworkshops voor indirecte partners zijn in juli van start gaan en worden voortgezet tot december 2021.
+- Gereedheidsworkshops voor indirecte partners zijn in juli van start gaan en gaan door tot december 2021.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -504,4 +550,4 @@ Houd er rekening mee dat deze wijzigingen alleen van toepassing zijn op MCCL CSP
 
 ### <a name="questions"></a>Vragen?
 
-Als u aanvullende vragen hebt, kunt u met uw lokale partnerontwikkelingsmanager praten.
+Als u aanvullende vragen hebt, kunt u een vraag stellen aan uw lokale partnerontwikkelingsmanager.
