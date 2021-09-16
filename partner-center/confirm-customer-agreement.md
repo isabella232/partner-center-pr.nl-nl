@@ -10,11 +10,11 @@ ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
 ms.openlocfilehash: 205de1c852d263e79978358229f1365852872232
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127872302"
+ms.locfileid: "127876778"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Controleren of uw klant de Microsoft-klantovereenkomst heeft geaccepteerd voor het CSP-programma
 
@@ -123,7 +123,7 @@ Gebruik de volgende stappen om een nieuwe klant te maken in Partner Center nodig
 
 5. Wanneer u het **bevestigingsscherm** in de nieuwe klantwerkstroom bereikt, moet u de klantreferenties opslaan. U moet deze referenties later aan uw klant geven.
 
-6. Maak buiten Partner Center een e-mail waarin de klant wordt uitgenodigd om de Microsoft-klantovereenkomst te Microsoft 365-beheer Center. Zorg ervoor dat u deze items in het e-mailbericht op neem:
+6. Maak buiten Partner Center een e-mail waarin de klant wordt uitgenodigd om de Microsoft-klantovereenkomst te accepteren in Microsoft 365-beheer Center. Zorg ervoor dat u deze items in het e-mailbericht op neem:
 
    - Een koppeling naar deze [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) (aanmelden vereist)
 
@@ -141,17 +141,17 @@ Gebruik de volgende stappen om een nieuwe klant uit te nodigen om de resellerrel
 
 1. Selecteer op **het tabblad** Klanten Partner Center koppeling Een **resellerrelatie aanvragen.** 
 
-2. Er wordt een automatische e-mailsjabloon gegenereerd, inclusief tekst en een geparameteriseerde URL die de klant naar het Microsoft 365-beheer leidt.
+2. Er wordt een automatische e-mailsjabloon gegenereerd, inclusief tekst en een geparameteriseerde URL die de klant doorgeeft aan Microsoft 365-beheer Center.
 
 3. U kunt de automatisch gegenereerde e-mailsjabloon aanpassen en vervolgens **Kopiëren naar klembord of** Openen in **e-mail selecteren.**
 
-4. Gebruik deze e-mailsjabloon om de klant uit te nodigen om de **aanvraag voor een resellerrelatie** en **de** Microsoft-klantovereenkomst. (Opmerking: Zorg ervoor dat de partner in de e-mailnodiging ook de URL bevat die automatisch is opgegeven, evenals de klantreferenties die onlangs zijn gemaakt.)
+4. Gebruik deze e-mailsjabloon om de klant uit te nodigen om de aanvraag voor **een resellerrelatie** en de **Microsoft-klantovereenkomst.** (Opmerking: Zorg ervoor dat de partner in de e-mailnodiging ook de URL bevat die automatisch is opgegeven, evenals de klantreferenties die onlangs zijn gemaakt.)
 
    :::image type="content" source="images/mca/createrelationship.png" alt-text="een relatie maken.":::
 
 5. De klant ontvangt een uitnodiging via e-mail en klikt op de geparameteriseerde URL. 
 
-6. De klant gebruikt de referenties die u in de e-mail hebt verstrekt om zich aan te melden Microsoft 365-beheer Center.
+6. De klant gebruikt de referenties die u in de e-mail hebt verstrekt om zich aan te melden bij Microsoft 365-beheer Center.
 
 7. De klant controleert het selectievakje om de **resellerrelatie te** **accepteren en Microsoft-klantovereenkomst.** 
 

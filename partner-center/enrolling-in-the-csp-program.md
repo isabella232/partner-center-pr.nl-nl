@@ -4,7 +4,7 @@ ms.topic: how-to
 ms.date: 08/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Leer hoe u zich kunt inschrijven in het Cloud Solution Provider (CSP)-programma dat het beste bij uw bedrijf past, zoals indirecte reseller of partner voor directe factuur.
+description: Meer informatie over hoe u zich kunt inschrijven in het Cloud Solution Provider (CSP)-programma dat het beste bij uw bedrijf past, zoals indirecte reseller of partner voor directe factuur.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
@@ -14,7 +14,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127876999"
+ms.locfileid: "127886266"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registreren bij het Cloud Solution Provider-programma
 
@@ -35,7 +35,7 @@ Als u de CSP-toepassing wilt voltooien, hebt u de MPN-id van uw bedrijf, het vol
     - Als u al bent ingeschreven in het MPN-programma, selecteert u de MPN-locatie-id die is gekoppeld aan uw incentives-inschrijvingen. De MPN-id van de locatie moet actief zijn en zich in hetzelfde land bevinden als uw CSP-account.
     - Als u zich niet hebt geregistreerd voor het MPN-programma, moet [u zich vandaag registreren.](mpn-overview.md)
 
-3. Maak uw partnerprofiel. U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd bij [Dun & Brad door,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert  **u Handmatig invoeren.**
+3. Maak uw partnerprofiel. U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd bij [Dun & Brad gaan,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert  **u Handmatig invoeren.**
 
     Voor sommige landen wordt uw adres gevalideerd wanneer u uw adres handmatig in typt. Als het adres dat u op invoeren verschilt van het gevalideerde adres, raden we u aan het gevalideerde adres te gebruiken. Dit zorgt ervoor dat de elementen van het adres worden gestandaardiseerd zoals gedefinieerd door de postinstantie van het land, correct zijn opgemaakt en verzendbaar zijn.
 
@@ -45,7 +45,7 @@ Als u de CSP-toepassing wilt voltooien, hebt u de MPN-id van uw bedrijf, het vol
 5. Nadat we uw gegevens hebben geverifieerd, accepteert u de overeenkomst voor indirecte resellers van Microsoft.
 
 > [!IMPORTANT]  
-> Een partner in het CSP-programma kan momenteel onlineservices verkopen aan een andere partner in het CSP-programma. Deze beperking geldt alleen voor de tenant die wordt gebruikt voor het uitvoeren van CSP-transacties. CSP-partners die een niet-CSP-tenant gebruiken voor hun bedrijfsgebruik, kunnen onlineservices aanschaffen bij een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Nieuws over functiereleases of beleidswijzigingen wordt aangekondigd via de gebruikelijke communicatiekanalen, waaronder [Partner Center aankondigingen](announcements/index.md).
+> Een partner in het CSP-programma kan de onlineservices verkopen aan een andere partner in het CSP-programma. Deze beperking geldt alleen voor de tenant die wordt gebruikt voor het uitvoeren van CSP-transacties. CSP-partners die een niet-CSP-tenant gebruiken voor hun bedrijfsgebruik, kunnen een onlineservices van een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Nieuws over functiereleases of beleidswijzigingen wordt aangekondigd via de gebruikelijke communicatiekanalen, waaronder [Partner Center aankondigingen](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Inschrijven als een indirecte reseller
 
