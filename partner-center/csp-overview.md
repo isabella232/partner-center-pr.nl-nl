@@ -9,29 +9,29 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61117b77efdb447abad482654afc7220aa2bcce6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 054bbf79169948e0e691e4357e47992c6471da21
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123956962"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127876693"
 ---
-# <a name="cloud-solution-provider-program"></a>Cloud Solution Provider-programma 
+# <a name="cloud-solution-provider-program"></a>Cloud Solution Provider-programma
 
 **Juiste rollen:** alle partners die meer willen weten over CSP
 
-In dit artikel wordt een overzicht gegeven van het Cloud Solution Provider-programma (CSP) en worden de verschillende operationele modellen en hun vereisten uitgelegd, evenals andere informatie over verkopen via dit programma.  Het CSP-programma helpt u om meer betrokken te zijn bij de bedrijven van uw klanten, naast het opnieuw verkopen van licenties, en kan de volgende voordelen bieden: 
+In dit artikel wordt een overzicht gegeven van het Cloud Solution Provider-programma (CSP) en worden de verschillende operationele modellen en hun vereisten beschreven, evenals andere informatie over verkopen via dit programma.  Het CSP-programma helpt u om meer betrokken te zijn bij de bedrijven van uw klanten, naast het opnieuw verkopen van licenties, en kan de volgende voordelen bieden:
 
 - Diepere klantbetrokkenheid: Als u regelmatig met uw klanten in contact komt, betekent dit dat u een beter inzicht krijgt in hun bedrijf en behoeften.
 - Verhoogde winst: het bieden van meer ondersteuning en factureringsservices, zowel zelf als via een indirecte provider, opent nieuwe inkomstenstromen.  
 - Waarde toevoegen: U kunt klanten branchespecifieke oplossingen aanbieden die zijn gebundeld met Microsoft-producten.
-- Beheerde services bieden: U bent goed in de positie om te voldoen aan de vraag van klanten naar beheerde services. 
+- Beheerde services bieden: U bent goed in de positie om te voldoen aan de vraag van klanten naar beheerde services.
 
 ## <a name="which-csp-model-is-best-for-me"></a>Welk CSP-model is het beste voor mij?
 
 ### <a name="indirect-model"></a>Indirect model
 
-Microsoft helpt alle partners die deelnemen aan het Cloud Solution Provider programma het beste model voor hun bedrijf te vinden om te groeien. Microsoft heeft een wereldwijd netwerk van gekwalificeerde indirecte providers gebouwd die partners helpen hun cloudbedrijf te laten groeien in het Cloud Solution Provider programma. Door lid te worden als een indirecte reseller, kunt u uw marktverdeler versnellen met minimale operationele complexiteit. 
+Microsoft helpt alle partners die deelnemen aan het Cloud Solution Provider het beste model voor hun bedrijf te vinden om te groeien. Microsoft heeft een wereldwijd netwerk van gekwalificeerde indirecte providers gebouwd die partners helpen hun cloudbedrijf te laten groeien in het Cloud Solution Provider programma. Door lid te worden als een indirecte reseller, kunt u uw marktverdeler versnellen met minimale operationele complexiteit. 
 
 Als indirecte reseller kunt u samenwerken met indirecte providers die de hulpprogramma's en resources kunnen leveren om u te helpen uw klantrelatie te beheren. Met het indirecte model kunt u aankopen doen bij een indirecte provider die met u kan samenwerken voor klantondersteuning en facturering.
 Wat u nodig hebt: 
@@ -42,14 +42,14 @@ Wat u nodig hebt:
 
 ### <a name="direct-bill-model"></a>Model voor directe factuur
 
-In het model voor directe factuur kopen partners Microsoft-producten en -abonnementen rechtstreeks van Microsoft en verkopen ze deze rechtstreeks aan hun klanten via hun in-house verkoopmedewerkers. Partners die al werken met of bereid zijn om de juiste verkoop-, facturerings- en ondersteuningsinfrastructuur te ontwikkelen, kunnen het directe model kiezen. De inschrijvingsvereisten voor partners met directe factuur zijn bijgewerkt vanaf 27 oktober 2020.
+In het model voor directe factuur kopen partners Microsoft-producten en -abonnementen rechtstreeks van Microsoft en verkopen ze deze rechtstreeks aan hun klanten via hun in-house verkoopmedewerkers. Partners die al werken met of bereid zijn om de juiste verkoop-, facturerings- en ondersteuningsinfrastructuur te ontwikkelen, kunnen het directe model kiezen. De inschrijvingsvereisten voor partners met directe factuur zijn op 27 oktober 2020 bijgewerkt.
 
 #### <a name="requirements"></a>Vereisten
 
 Bekijk de bijgewerkte vereisten en aanbevelingen voor directe factuurinschrijving hieronder om te evalueren hoe u een efficiënter bedrijf kunt bouwen en uitbreiden met het juiste model in het Cloud Solution Provider programma:  
 
-- **Ondersteuning:** Breid uw ondersteuningsmogelijkheden uit door een-op-een cloudondersteuning met prioriteit aan te kopen met een Microsoft Advanced Support for Partners-pakket. Of kies een Microsoft Premier Support for Partners-pakket voor toegang tot de volledige catalogus met proactieve services, ondersteuning voor 24/7 onderbrekings-/oplossingsondersteuning en technisch accountbeheer in de cloud, hybride en on-premises. Bekijk de Microsoft Partner-overeenkomst meer inzicht te krijgen in uw ondersteuningsverplichtingen
-- **Prestatievereiste:** Zorg ervoor dat u ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma hebt gedurende de voorgaande twaalf maanden als indirecte reseller. Partners kunnen hun na twaalf maanden aan omzet op Partner Center. De verkopen van uw USD 300.000 na twaalf maanden omzet zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste USD 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.
+- **Ondersteuning:** Breid uw ondersteuningsmogelijkheden uit door een-op-een cloudondersteuning met prioriteit aan te kopen met een Microsoft Advanced Support for Partners-pakket. U kunt ook een Microsoft Premier Support for Partners-pakket kiezen voor toegang tot de volledige catalogus met proactieve services, ondersteuning voor 24/7 onderbrekings-/oplossingsondersteuning en technisch accountbeheer in de cloud, hybride en on-premises. Bekijk de Microsoft Partner-overeenkomst meer inzicht te krijgen in uw ondersteuningsverplichtingen
+- **Prestatievereiste:** Zorg ervoor dat u ten minste USD 300.000 in Cloud Solution Provider jaaromzet van het programma hebt gedurende de voorgaande 12 maanden als indirecte reseller. Partners kunnen hun na twaalf maanden aan omzet op Partner Center. De verkopen van uw USD 300.000 na twaalf maanden omzet zijn onderhevig aan controle en verificatie door Microsoft en u wordt mogelijk gevraagd om aanvullende informatie te verstrekken. De omzetvereiste USD 300.000 wordt berekend op basis van de cloudomzet en zal permanente software in CSP uitsluiten.
 - Voldoen aan de minimale infrastructuurmogelijkheden, zoals facturering en inrichting
 - Een actief lidmaatschap van de Microsoft Partner Network mpn-id voor de locatie waarin u wilt verkopen.
 
@@ -59,13 +59,13 @@ Bekijk de bijgewerkte vereisten en aanbevelingen voor directe factuurinschrijvin
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Waar kan ik verkopen via het CSP-programma?
 
-De locatie van uw bedrijf bepaalt uw markt. Uw markt omvat de regio's en/of landen waar u CSP-aanbiedingen kunt verkopen. Zie Cloud Solution Provider programma regionale markten en [valuta's voor](regional-authorization-overview.md) de volledige lijst met CSP-markten en valuta's.
+De locatie van uw bedrijf bepaalt uw markt. Uw markt omvat de regio's en/of landen waar u CSP-aanbiedingen kunt verkopen. Zie Cloud Solution Provider programma regionale markten en [valuta's](regional-authorization-overview.md) voor de volledige lijst met CSP-markten en valuta's.
 
-Voordat u CSP-aanbiedingen namens een klant kunt bestellen, moet de klant de Microsoft-klantovereenkomst. U kunt hier de toepasselijke Microsoft-klantovereenkomst vinden voor de locatie van uw [klant.](agreements.md)  
+Voordat u CSP-aanbiedingen namens een klant kunt bestellen, moet de klant de Microsoft-klantovereenkomst. U vindt de toepasselijke overeenkomst voor de locatie van uw klant in [*Microsoft-klantovereenkomsten per regio en taal.*](agreements.md)  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>Wat kan ik verkopen via het CSP-programma?
 
-U kunt het volledige scala aan [Microsoft-cloudservices](https://partner.microsoft.com/cloud-solution-provider/products-and-services)verkopen, evenals tal van aanvullende aanbiedingen die regelmatig veranderen. Als u de CSP-aanbiedingen voor de huidige maand wilt bekijken, meld u zich aan bij de Partner Center gaat u naar de pagina [**Prijzen en**](https://partnercenter.microsoft.com/pcv/sales) aanbiedingen.
+U kunt het volledige scala aan [Microsoft-cloudservices en](https://partner.microsoft.com/cloud-solution-provider/products-and-services)tal van andere aanbiedingen verkopen die regelmatig veranderen. Als u de CSP-aanbiedingen voor de huidige maand wilt bekijken, meld u zich aan bij de Partner Center gaat u naar de pagina [*Prijzen en*](https://partnercenter.microsoft.com/pcv/sales) aanbiedingen.
 
 ## <a name="next-steps"></a>Volgende stappen
 

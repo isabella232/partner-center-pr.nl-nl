@@ -1,20 +1,20 @@
 ---
 title: New commerce telco pay as you go
 ms.topic: article
-ms.date: 08/30/2021
+ms.date: 09/03/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Meer informatie over nieuwe commerce-ervaringen voor het kopen van aanbiedingen waarmee u kunt betalen wanneer u over de uitval gaat.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f934b8d858c1fc30d0140d19fb0697ba6bd9001
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: b7f3fa6ce3b92e7b182192290f5ebb4ee167ff7a
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126245728"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127872183"
 ---
 # <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Inleiding: Nieuwe commerce-uitval voor betalen per telco
 
@@ -24,22 +24,22 @@ ms.locfileid: "126245728"
 - Verkoopagent
 - Globale beheerder
 
-> [!Note] 
-> De wijzigingen in de nieuwe commerce-ervaring zijn momenteel alleen beschikbaar voor partners die deel uitmaken van Microsoft 365/Dynamics 365 New Commerce Experience Technical Preview.
+> [!NOTE]
+> De wijzigingen in de nieuwe commerce-ervaring zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technische preview van Microsoft 365/Dynamics 365 New Commerce Experience.
 
-Sommige op licenties gebaseerde producten omvatten services met toegewezen aanroepplannen. Deze aanroepende abonnementen worden doorgaans met een toewijzing per licentie voor minuten per maand, meestal 120 per licentie. 
+Sommige op licenties gebaseerde producten omvatten services met toegewezen aanroepplannen. Deze aanroepende abonnementen worden doorgaans met een toewijzing per licentie voor minuten per maand, meestal 120 per licentie.
 
 In traditionele partnerscenario's op basis van licenties was er geen manier om servicegebruik buiten de maandelijkse limieten in te stellen. Klanten die meer dan 120 minuten nodig hebben om communicatietegoeden te kopen, of *comm-tegoed* zelf rechtstreeks van Microsoft.  Deze communicatietegoeden zijn niet aangeboden in Partner Center.
 
 ## <a name="using-new-commerce-telco-pay-as-you-go"></a>Gebruik van nieuwe commerce telco betalen per gebruik ##
 
-Deze beperking is verholpen in nieuwe handel waardoor de partner uitvalmogelijkheden kan inschakelen voor services die dit toestaan. Partners kunnen aanbiedingen kopen die uitvalmogelijkheden bevatten. Deze aanbiedingen worden in de kolom met prijslijsttags aangeduid met *IncludeOverage*. De catalogus-SKU bevat ook een eigenschap om te bepalen of de SKU de mogelijkheid tot uitval ondersteunt. Partners kopen gewoon de aanbiedingen en het systeem configureert en besturingssysteemabonnementen die geen kosten hebben en worden alleen gefactureerd wanneer de gebruikers van de klant de toegewezen maandelijkse belminuten die bij de aangeschafte aanbieding worden ontvangen, over het bestek heen zien. 
+Deze beperking is verholpen in nieuwe handel waardoor de partner uitvalmogelijkheden kan inschakelen voor services die dit toestaan. Partners kunnen aanbiedingen kopen die uitvalmogelijkheden bevatten. Deze aanbiedingen worden in de kolom met prijslijsttags aangeduid met *IncludeOverage*. De catalogus-SKU bevat ook een eigenschap om te bepalen of de SKU de mogelijkheid tot uitval ondersteunt. Partners kopen gewoon de aanbiedingen en het systeem configureert en besturingssysteemabonnementen die geen kosten hebben en worden alleen gefactureerd wanneer de gebruikers van de klant de toegewezen maandelijkse belminuten die bij de aangeschafte aanbieding worden ontvangen, over het bestek heen zien.
 
 Partners kunnen het uitvalgebruik traceren door naar de Azure Portal en de mogelijkheden en functies voor kostenbeheer te gebruiken. Partners hebben ook de mogelijkheid om de  uitval op elk moment in te stellen op Geen als ze uitval op elk moment willen uitschakelen of uitschakelen.
 
 Partners kunnen bepalen welke producten uitvalmogelijkheden bevatten door de product-SKU's van de partnercentrumcatalogus te bekijken. 
 
-Partners die producten met uitval aanschaffen, maken de uitval mogelijk door toegang te krijgen tot *de* pagina Uitval beheren op de pagina Abonnementen beheren. Hierdoor kan de partner uitval activeren en het gewenste verbruiksabonnement toewijzen waar de uitvalkosten naar zullen stromen. De partner kan uitval op elk moment uitschakelen door het verbruiksabonnement toe te wijzen aan *Geen.* 
+Partners die producten met uitval aanschaffen, maken de uitval mogelijk door toegang te krijgen tot *de* pagina Uitval beheren op de pagina Abonnementen beheren. Hierdoor kan de partner uitval activeren en het gewenste verbruiksabonnement toewijzen waar de uitvalkosten naar zullen stromen. De partner kan uitval op elk moment uitschakelen door het verbruiksabonnement toe te wijzen aan *Geen.*
 
 Partners wijzen uitval toe of schakelen deze uit met de *functie Uitval* beheren in de lijst met abonnementen. Dit is alleen toegankelijk als de partner abonnementen heeft die uitval inschakelen. Maandelijkse uitvalkosten worden opgeteld bij het toegewezen abonnement en worden geïdentificeerd in het afstemmingsbestand van partners. Partners kunnen het uitvalgebruik bijhouden door de mogelijkheden van Azure Cost Management in de Azure Portal. 
 

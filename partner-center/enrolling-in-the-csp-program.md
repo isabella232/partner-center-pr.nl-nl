@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 498148f661a728979073ea43e3c186f2f0bb5ae6
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127862354"
+ms.locfileid: "127876999"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registreren bij het Cloud Solution Provider-programma
 
@@ -93,7 +93,7 @@ Nadat we hebben gecontroleerd of uw bedrijf voldoet aan de geschiktheidsvereiste
 
 Naarmate het CSP-programma zich blijft ontwikkelen en groeien, wilt u er mogelijk liever aan deelnemen als indirecte reseller in plaats van als partner voor directe factuur. U kunt uw tenant voor directe factuur overstappen naar het model voor indirecte resellers in Partner Center.
 
-Zie Overgang van Cloud Solution Provider partner voor directe factuur (CSP) naar indirecte [CSP-reseller](transition-direct-to-indirect.md) voor informatie over het overstappen van een directe factuurpartner naar een indirecte reseller.
+Zie [Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller](transition-direct-to-indirect.md) (Overgang van Cloud Solution Provider partner voor directe factuur naar indirecte CSP-reseller) voor informatie over de overgang van een directe factuurpartner naar een indirecte reseller.
 
 ## <a name="csp-regional-markets-and-currencies"></a>Regionale CSP-markten en -valuta's
 

@@ -9,11 +9,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
 ms.openlocfilehash: bda06ce5f929d784f95ed9a9c248c29f6209356e
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127862337"
+ms.locfileid: "127876965"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Gebruik deze resources om incentives-plannen en bewijs van uitvoering te maken
 
@@ -21,7 +21,7 @@ ms.locfileid: "127862337"
 
 In dit artikel worden enkele van de belangrijkste documenten beschreven die u nodig hebt om succesvol te zijn en betaald te krijgen voor uw werk in een specifiek incentives-programma. Deze documenten omvatten:
 
-- Een incentives-abonnement
+- Een incentives-plan
 - Een gedetailleerd bewijs van uitvoering (PoE)
 
 Afhankelijk van het type incentives-programma dat u hebt ingeschreven, zijn uw plan en uw Proof of Execution (PoE) een succes voor u met incentives.
@@ -42,11 +42,11 @@ In de volgende resources wordt uitgelegd hoe u deze belangrijke incentives-docum
 
 |  **Om dit te doen**  |  **Leest u**  |
 |--------------|-----------|
-| Meer informatie over het maken van een coöpclaimplan voor incentives | [Uw plan maken](incentives-create-your-plan.md)  |
+| Meer informatie over het maken van een co-op-claimplan voor incentives | [Uw plan maken](incentives-create-your-plan.md)  |
 Meer informatie over het maken van een bewijs van uitvoering | [Uw bewijs van uitvoering voorbereiden](incentives-prepare-your-proof-of-execution.md)  |
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - Meer informatie over [het maken van uw eigen abonnement](incentives-create-your-plan.md)
-- Meer informatie over het [proces van claims voor incentives voor samenwerking](claims-overview.md)
+- Meer informatie over het [proces voor claims voor incentives](claims-overview.md)
 - Meer informatie over [incentives voor klantorganisaties met behulp van het CPOR-model](submit-osa-claim.md)
