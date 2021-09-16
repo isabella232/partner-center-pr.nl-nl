@@ -10,11 +10,11 @@ ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
 ms.openlocfilehash: 205de1c852d263e79978358229f1365852872232
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828382"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862405"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Controleren of uw klant de Microsoft-klantovereenkomst heeft geaccepteerd voor het CSP-programma
 
@@ -61,7 +61,7 @@ U moet een beheerderagent of verkoopagent zijn om dit te doen:
 
 2. Selecteer **Accountgegevens.**
 
-3. Selecteer **Microsoft-klantovereenkomst**, **bijwerken.**
+3. Selecteer **onder Microsoft-klantovereenkomst** de optie **Bijwerken.**
 
 4. Voer de **voornaam**, **achternaam,** het **e-mailadres** en **het Telefoon** (optioneel) in van de persoon die de overeenkomst heeft geaccepteerd. Voer **onder Acceptatiedatum van overeenkomst** de juiste datum in. U kunt dit niet instellen op een toekomstige datum.
 

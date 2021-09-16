@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 08/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Meer informatie over hoe u zich kunt inschrijven in het Cloud Solution Provider(CSP)-verkoopmodel dat het beste bij uw bedrijf past, zoals indirecte reseller of partner voor directe factuur.
+description: Leer hoe u zich kunt inschrijven in het Cloud Solution Provider (CSP)-programma dat het beste bij uw bedrijf past, zoals indirecte reseller of partner voor directe factuur.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 498148f661a728979073ea43e3c186f2f0bb5ae6
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828314"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862354"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registreren bij het Cloud Solution Provider-programma
 
@@ -22,7 +22,7 @@ ms.locfileid: "127828314"
 
 ## <a name="get-started"></a>Aan de slag
 
-De snel groeiende vraag naar cloudoplossingen en -services betekent veel mogelijkheden voor Microsoft-partners van elke omvang om voordelige cloudoplossingsbedrijven te bouwen. Partners die klaar zijn om de markt op te gaan, maar die niet meerdere leveranciers willen beheren of die mogelijk geen end-to-end infrastructuur voor klantrelatiebeheer hebben, kunnen zich als indirecte resellers inschrijven voor het programma Cloud Solution Provider (CSP) van Microsoft.
+De snel groeiende vraag naar cloudoplossingen en -services betekent veel mogelijkheden voor Microsoft-partners van elke omvang om voordelige cloudoplossingsbedrijven te bouwen. Partners die klaar zijn om de markt op te gaan, maar die niet meerdere leveranciers willen beheren, of die mogelijk geen end-to-end infrastructuur voor klantrelatiebeheer hebben, kunnen zich als indirecte resellers inschrijven voor het programma Cloud Solution Provider (CSP) van Microsoft.
 
 
 Als u zich wilt inschrijven voor Cloud Solution Provider programma, hebt u eerst een MPN-id nodig. Hebt u er nog geen? [Voeg de Microsoft Partner Network](https://partner.microsoft.com/).
@@ -35,7 +35,7 @@ Als u de CSP-toepassing wilt voltooien, hebt u de MPN-id van uw bedrijf, het vol
     - Als u al bent ingeschreven in het MPN-programma, selecteert u de MPN-locatie-id die is gekoppeld aan uw incentives-inschrijvingen. De MPN-id van de locatie moet actief zijn en zich in hetzelfde land bevinden als uw CSP-account.
     - Als u zich niet hebt geregistreerd voor het MPN-programma, moet [u zich vandaag registreren.](mpn-overview.md)
 
-3. Maak uw partnerprofiel. U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd bij [Dun & Braden,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert  **u Handmatig invoeren.**
+3. Maak uw partnerprofiel. U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd bij [Dun & Brad door,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert  **u Handmatig invoeren.**
 
     Voor sommige landen wordt uw adres gevalideerd wanneer u uw adres handmatig in typt. Als het adres dat u op invoeren verschilt van het gevalideerde adres, raden we u aan het gevalideerde adres te gebruiken. Dit zorgt ervoor dat de elementen van het adres worden gestandaardiseerd zoals gedefinieerd door de postinstantie van het land, correct zijn opgemaakt en verzendbaar zijn.
 
@@ -45,7 +45,7 @@ Als u de CSP-toepassing wilt voltooien, hebt u de MPN-id van uw bedrijf, het vol
 5. Nadat we uw gegevens hebben geverifieerd, accepteert u de overeenkomst voor indirecte resellers van Microsoft.
 
 > [!IMPORTANT]  
-> Een partner in het CSP-programma kan momenteel onlineservices verkopen aan een andere partner in het CSP-programma. Deze beperking geldt alleen voor de tenant die wordt gebruikt voor het uitvoeren van CSP-transacties. CSP-partners die een niet-CSP-tenant gebruiken voor hun bedrijfsgebruik, kunnen een onlineservices van een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Elk nieuws over functiereleases of beleidswijzigingen wordt aangekondigd via de gebruikelijke communicatiekanalen, waaronder [Partner Center aankondigingen](announcements/index.md).
+> Een partner in het CSP-programma kan momenteel onlineservices verkopen aan een andere partner in het CSP-programma. Deze beperking geldt alleen voor de tenant die wordt gebruikt voor het uitvoeren van CSP-transacties. CSP-partners die een niet-CSP-tenant gebruiken voor hun bedrijfsgebruik, kunnen onlineservices aanschaffen bij een andere CSP-partner. Microsoft controleert voortdurend het beleid en de mogelijkheden van alle programma's. Nieuws over functiereleases of beleidswijzigingen wordt aangekondigd via de gebruikelijke communicatiekanalen, waaronder [Partner Center aankondigingen](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Inschrijven als een indirecte reseller
 
@@ -67,7 +67,7 @@ Zie Aan de slag als indirecte [reseller](https://partner.microsoft.com/cloud-sol
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Inschrijven als partner voor directe factuur
 
-Als partner voor directe factuur bent u eigenaar van de end-to-end-relatie met uw klant en met Microsoft. De inschrijvingsvereisten voor partners met directe factuur zijn bijgewerkt vanaf 27 oktober 2020. Deze vereisten helpen u om uw bedrijfsgroei te versnellen met het juiste Cloud Solution Provider programmamodel en om uw klantrelaties te versterken met services met toegevoegde waarde en ondersteuning.  
+Als partner voor directe factuur bent u eigenaar van de end-to-end-relatie met uw klant en met Microsoft. De inschrijvingsvereisten voor partners met directe factuur zijn bijgewerkt vanaf 27 oktober 2020. Deze vereisten helpen u om uw bedrijfsgroei te versnellen met het juiste Cloud Solution Provider programmamodel en om uw klantrelaties te versterken met services en ondersteuning met toegevoegde waarde.  
 
 ### <a name="minimum-requirements"></a>Minimale vereisten
 
@@ -93,7 +93,7 @@ Nadat we hebben gecontroleerd of uw bedrijf voldoet aan de geschiktheidsvereiste
 
 Naarmate het CSP-programma zich blijft ontwikkelen en groeien, wilt u er mogelijk liever aan deelnemen als indirecte reseller in plaats van als partner voor directe factuur. U kunt uw tenant voor directe factuur overstappen naar het model voor indirecte resellers in Partner Center.
 
-Zie [Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller](transition-direct-to-indirect.md) (Overstappen van een directe factuurpartner naar een indirecte CSP-reseller) voor informatie over het overstappen van een directe factuurpartner naar een indirecte reseller.
+Zie Overgang van Cloud Solution Provider partner voor directe factuur (CSP) naar indirecte [CSP-reseller](transition-direct-to-indirect.md) voor informatie over het overstappen van een directe factuurpartner naar een indirecte reseller.
 
 ## <a name="csp-regional-markets-and-currencies"></a>Regionale CSP-markten en -valuta's
 
