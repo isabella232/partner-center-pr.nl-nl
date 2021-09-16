@@ -16,7 +16,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127877033"
+ms.locfileid: "127894027"
 ---
 # <a name="september-2021-announcements"></a>Aankondigingen van september 2021
 
@@ -287,7 +287,7 @@ Indirecte providers en directe factuurpartners die op licenties gebaseerde servi
 
 ### <a name="details"></a>Details
 
-De prijslijst van september en de preview-versie van oktober voor op licenties gebaseerde services die zijn gepost op 1 september 2021 hadden een onjuiste lijstprijs voor Microsoft 365 Business Basic. Gecorrigeerde prijslijsten zijn gepubliceerd op 2 september 2021. Dit heeft alleen gevolgen voor USD.
+De prijslijst van september en de preview-versie van oktober voor op licenties gebaseerde services die zijn gepost op 1 september 2021, hadden een onjuiste lijstprijs voor Microsoft 365 Business Basic. Gecorrigeerde prijslijsten zijn gepubliceerd op 2 september 2021. Dit heeft alleen gevolgen voor USD.
 
 De beïnvloede aanbieding omvat:
 
