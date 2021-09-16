@@ -9,11 +9,11 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 6f70a4a30346c6ef82e36c414559da6e79a373e0
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127886197"
+ms.locfileid: "127898359"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Beschikbare verdiend, geclaimde en resterende coöp-tegoeden weergeven
 

@@ -14,7 +14,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127886147"
+ms.locfileid: "127894061"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Inleiding: Nieuwe commerciële promoties
 
