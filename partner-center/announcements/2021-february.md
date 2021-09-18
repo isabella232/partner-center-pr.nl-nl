@@ -1,6 +1,6 @@
 ---
 title: Aankondigingen van februari 2021
-description: Aankondigingen van februari 2021 voor Microsoft Partner Center nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
+description: Aankondigingen van februari 2021 voor Microsoft Partner Center met inbegrip van nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-announcements
@@ -11,19 +11,19 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: c7ae6a138f90f79e85c0ab8132873988524b9890
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 4e4c27c9c2382098705b65ece808e4c74a82731f
+ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244790"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127932797"
 ---
 # <a name="february-2021-announcements"></a>Aankondigingen van februari 2021
 
-Op deze pagina staan de aankondigingen voor Microsoft Partner Center voor februari 2021.
+Op deze pagina worden de aankondigingen voor Microsoft Partner Center voor februari 2021.
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Herinnering: afschaffing van de GET-kwalificatie op 4 mei 2021
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Herinnering: Afschaffing van GET-kwalificatie op 4 mei 2021
 
 ### <a name="categories"></a>Categorieën
 
@@ -32,17 +32,17 @@ ________________
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die academici, non-profitorganisaties en Government Community Cloud (GCC) verkopen via het Cloud Solution Provider-programma met behulp van de Partner Center-API
+Partners die academicus, non-profit en Government Community Cloud (GCC) verkopen via het Cloud Solution Provider-programma met behulp van de Partner Center-API
 
 ### <a name="details"></a>Details
 
-Deze aankondiging is een vervolg op de Partner Center [verbeteringen die in december zijn uitgebracht.](2020-december.md#1) Als onderdeel van deze release zijn nieuwe API's voor GET- en POST-kwalificaties geïmplementeerd. Als gevolg hiervan wordt de bestaande GET-kwalificatie op 4 mei 2021 ingetrokken. Op dat moment moet u zijn overstappen op het gebruik van de nieuwe POST Partner Center-API's in aankoopaanbiedingen voor onderwijs en de nieuwe API voor GET-kwalificaties om vooraf gekwalificeerde Non-profit- en GCC-aanbiedingen te kopen.
+Deze aankondiging is een vervolg op de verbeteringen Partner Center [in december zijn uitgebracht.](2020-december.md#1) Als onderdeel van deze release zijn nieuwe API's voor GET- en POST-kwalificaties geïmplementeerd. Als gevolg hiervan wordt de bestaande GET-kwalificatie op 4 mei 2021 ingetrokken. Op dat moment moet u zijn overstappen op het gebruik van de nieuwe POST Partner Center-API's in aankoopaanbiedingen voor onderwijs en de nieuwe API voor GET-kwalificaties voor het kopen van vooraf gekwalificeerde non-profit- en GCC-aanbiedingen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
 - Werk bij naar de nieuwe API's voor een geslaagde en tijdige overgang.
 
-- Bekijk de nieuwe api Partner Center wijzigingen en handleiding in de Operations Readiness-resources: verbeteringen Partner Center [Education-klantvalidatieproces.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Bekijk de nieuwe api Partner Center wijzigingen en handleiding in de Operations Readiness-resources: verbeteringen van [Partner Center Education-klantvalidatieproces.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
 - Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers om hen te helpen zich voor te bereiden op deze wijzigingen.
 
@@ -53,8 +53,8 @@ Voor vragen met betrekking tot deze melding kunt u contact opnemen [met Partner 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
 - April: Herinnering aan aanstaande afschaffing van GET-kwalificatie 
-- Februari: Bijgewerkte tijdlijnen voor het aftrekken van GET-& PUT-kwalificaties
-- Januari: Herinnering aan aanstaande afschaffingen van GET-& PUT-kwalificaties
+- Februari: Tijdlijnen bijgewerkt voor afschaffing van GET-& PUT-kwalificaties
+- Januari: Herinnering aan toekomstige afschaffingen van GET-& PUT-kwalificaties
 
 
 ________________
@@ -62,7 +62,7 @@ ________________
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 25-02-2021
+- Datum: 2021-02-25
 - Verbeterde beveiliging en naleving
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
@@ -71,28 +71,28 @@ Partners die samen verkopen in Partner Center
 
 ### <a name="summary"></a>Samenvatting
 
-Partners voor co-verkoop kunnen nu verkoopkansen op schaal exporteren en importeren met behulp van de nieuwe functie Partner Center CSV-bestands bulkbewerkingen.
+Co-sellingpartners kunnen nu verkoopkansen op schaal exporteren en importeren met behulp van de nieuwe functie Partner Center CSV-bestands bulkbewerkingen.
 
 ### <a name="details"></a>Details
 
-Partners voor co-verkoop kunnen nu verkoopkansen op schaal exporteren en importeren met behulp van de nieuwe functie Partner Center CSV-bestands bulkbewerkingen. Hiermee wordt uw ervaring voor het delen van verwijzingen en de bedrijfscontinuïteit bij het overzetten van partnerverkoop en -Verbinding maken. Het is ook een alternatief voor investeringen in de Partner Center API.
+Co-sellingpartners kunnen nu verkoopkansen op schaal exporteren en importeren met behulp van de nieuwe functie Partner Center CSV-bestands bulkbewerkingen. Hiermee wordt uw ervaring voor het delen van verwijzingen en bedrijfscontinuïteit gewaarborgd wanneer u overstapt van partnerverkoop Verbinding maken. Het is ook een alternatief voor investeringen in de Partner Center API.
 
 Zie het artikel dat wordt vermeld in de volgende sectie voor meer informatie. 
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Lees bulkbewerkingen voor verkoopkansen met behulp van [csv-bestanden (door komma's](../bulk-operations.md)gescheiden waarden) voor meer informatie over de mogelijkheid voor bulkbewerkingen.
+Lees Bulkbewerkingen voor verkoopkansen met behulp van [csv-bestanden (door komma's](../bulk-operations.md)gescheiden waarden) voor meer informatie over de mogelijkheid voor bulkbewerkingen.
 
 ### <a name="questions"></a>Vragen?
 
 Neem contact [op](https://partner.microsoft.com/support/?stage=1) met ondersteuning als u nog vragen hebt.
 
 ________________
-## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Uw deals migreren van Partner Sales Verbinding maken (PSC) met behulp van de functie voor nieuwe dealmigratie
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Uw deals migreren van Partner Sales Verbinding maken (PSC) met behulp van de nieuwe functie voor dealmigratie
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 25-02-2021
+- Datum: 2021-02-25
 - Functies
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
@@ -105,13 +105,13 @@ Partners met deals in Partner Sales Verbinding maken (PSC) kunnen profiteren van
 
 ### <a name="details"></a>Details
 
-Partners met deals in PSC kunnen nu sneller profiteren van de nieuwe ervaring voor co-verkoop binnen Partner Center en het werken op twee platforms elimineren door hun deals voor co-verkoop te migreren naar Partner Center met behulp van de functie voor dealmigratie.
+Partners met deals in PSC kunnen nu sneller profiteren van de nieuwe ervaring voor co-verkoop binnen Partner Center en het werken op twee platforms elimineren door hun deals voor co-verkoop te migreren naar Partner Center met behulp van de dealmigratiefunctie.
 
 Zie het artikel dat wordt vermeld in de volgende sectie voor meer informatie.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Meer informatie over de functie voor dealmigratie kunt u lezen in de sectie migratie van **PSC-deals** in de handleiding voor [co-verkoop in Partner Center (PC)](../psc-to-pc.md)voor partners die migreren van Partner Sales Verbinding maken (PSC) .
+Meer informatie over de dealmigratiefunctie kunt u vinden in de sectie Migratie van **PSC-deals** in de handleiding voor [co-verkoop in Partner Center (PC)](../psc-to-pc.md)voor partners die migreren vanuit Partner Sales Verbinding maken (PSC).
 
 ### <a name="questions"></a>Vragen?
 
@@ -122,7 +122,7 @@ ________________
 
 ### <a name="categories"></a>Categorieën
 
-- Datum: 25-02-2021
+- Datum: 2021-02-25
 - Functies
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
@@ -135,9 +135,9 @@ Partners kunnen microsoft-verkopers nu uitnodigen na het maken van een door een 
 
 ### <a name="details"></a>Details
 
-Partners hebben nu de mogelijkheid om Microsoft-verkopers uit te nodigen na het maken van een door een partner geleide collectieve-verkoopdeal om er een gezamenlijke verkoopactiviteit van te maken. De details van de deal worden pas gedeeld met het verkoopteam van Microsoft als de partner expliciet verkopershulp van Microsoft nodig heeft. Dit scenario komt ook in aanmerking voor de Microsoft-verkoperssprik.
+Partners hebben nu de mogelijkheid om Microsoft-verkopers uit te nodigen na het maken van een door een partner geleide collectieve-verkoopdeal om er een gezamenlijke verkoopactiviteit van te maken. De details van de deal worden pas gedeeld met het Microsoft-verkoopteam als de partner expliciet verkopershulp van Microsoft nodig heeft. Dit scenario komt ook in aanmerking voor de Microsoft-verkoperssprik.
 
-Houd er rekening mee dat door partners geleide deals voor co-verkoop op elk moment kunnen worden bijgewerkt naar actieve co-verkoop op elk moment voordat de deal wordt gesloten.
+Houd er rekening mee dat door partners geleide deals voor co-verkoop op elk moment kunnen worden bijgewerkt naar actieve co-sell op elk moment voordat de deal wordt gesloten.
 
 Zie het artikel dat wordt vermeld in de volgende sectie voor meer informatie.
 
@@ -159,7 +159,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Als onderdeel van onze toezegging om partners en klanten te helpen hun bedrijf te runnen op basis van vertrouwen, vragen we aanvullende klantgegevens aan, met ingang van 25 maart 2021.
+Als onderdeel van onze inzet om partners en klanten te helpen hun bedrijf te runnen op basis van vertrouwen, vragen we aanvullende klantgegevens aan, met ingang van 25 maart 2021.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -167,9 +167,9 @@ CSP-partners voor directe factuur en indirecte providers die nieuwe of bestaande
 
 ### <a name="details"></a>Details
 
-Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het transacteren van klantabonnementen in het CSP-programma. Op 25 maart 2021 introduceren we verbeteringen in Partner Center API en gebruikersinterface (UI) die van invloed zijn op partners die aan beide van de volgende criteria voldoen:
+Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het transacteren van klantabonnementen in het CSP-programma. Op 25 maart 2021 introduceren we verbeteringen van Partner Center API en gebruikersinterface (UI) die van invloed zijn op partners die aan beide van de volgende criteria voldoen:
 
-1. De partner heeft een directe factureringsrelatie met Microsoft (wat betekent dat de partner een partner voor directe facturering of een indirecte provider is).
+1. De partner heeft een directe factureringsrelatie met Microsoft (wat betekent dat de partner een directe factureringspartner of een indirecte provider is).
 
 2. De partner doet zaken met nieuwe of bestaande klanten in de volgende landen:
 
@@ -187,11 +187,11 @@ Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele,
     - Verenigde Arabische Emiraten
     - Venezuela
 
-Partners die aan de criteria voldoen, moeten de bedrijfsregistratie-id (ook wel de INN van de organisatie van de klant genoemd) en het telefoonnummer van een klant indienen wanneer ze de volgende keer een abonnement voor die klant bijwerken of maken. Deze partners kunnen ook een optionele middelste naam voor de klant invoeren.
+Partners die aan de criteria voldoen, moeten de bedrijfsregistratie-id (ook wel inN van de organisatie van de klant genoemd) en het telefoonnummer van een klant indienen wanneer ze de volgende keer een abonnement voor die klant bijwerken of maken. Deze partners kunnen ook een optionele middelste naam voor de klant invoeren.
 
-Houd er rekening mee dat wanneer u uw bedrijfsregistratie-id toevoegt, u uw zakelijke btw-id moet gebruiken en niet de persoonlijke id van de klant.
+Houd er rekening mee dat wanneer u uw bedrijfsregistratie-id toevoegt, u uw bedrijfsbelasting-id moet gebruiken en niet de persoonlijke id van de klant.
 
-Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben al een eerdere versie van november 2020 in gebruik.
+Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben in november 2020 al een eerdere release gehad.
 
 - Armenië
 - Azerbeidzjan
@@ -205,20 +205,20 @@ Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, h
 - Oekraïne
 - Oezbekistan
 
-Partners met klanten in de rest van de wereld kunnen eind maart 2021 de bedrijfsregistratie-id, het telefoonnummer en de middelste naam voor klanten invoeren als optionele gegevens.
+Partners met klanten in de rest van de wereld kunnen eind maart 2021 de bedrijfsregistratie-id, het telefoonnummer en de middelste naam voor klanten invoeren als optionele details.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de technische documentatie en veelgestelde vragen in de verzameling [toegewezen partners](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
-- Bereid u voor op het opnemen van de wijzigingen Partner Center API en webgebruikerservaring. API's/SDK's zijn beschikbaar voor testen.
+- Bekijk de technische documentatie en veelgestelde vragen in de speciale [partnerverzameling](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
+- Bereid u voor op het opnemen van de wijzigingen met Partner Center API en webgebruikerservaring. API/SDK's zijn beschikbaar om te testen.
 - Zorg ervoor dat u de aanvullende gegevens indient bij het onboarden van nieuwe klanten of het wijzigen van bestaande klantgegevens.
-- Als u een CPV-oplossing (Configuratieschermleverancier) gebruikt, raadpleegt u uw CPV.
+- Als u een CPV-oplossing (Panel Vendor) gebruikt, raadpleegt u uw CPV.
 
 ### <a name="questions"></a>Vragen?
 
-Neem contact op met uw belastingadviseur of lokale belastingbureau als u vragen hebt met betrekking tot de registratie-id van het bedrijf (ook wel INN of TIN genoemd). Microsoft kan geen richtlijnen geven over belastingzaken.
+Neem contact op met uw belastingadviseur of lokale btw-kantoor als u vragen hebt met betrekking tot de registratie-id van het bedrijf (ook wel INN of TIN genoemd). Microsoft kan geen richtlijnen geven over belastingzaken.
 
-Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u een [serviceaanvraag.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u [een serviceaanvraag.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 ### <a name="change-log"></a>Wijzigingslogboek:
 
@@ -236,7 +236,7 @@ Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u een [s
 
 
 ________________
-## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Nu live: Migratie van DocuSign naar Adobe Sign voor partners onder Microsoft Partner-overeenkomsten (MVA's)
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Now Live: DocuSign migration to Adobe Sign for partners under Microsoft Partner Agreements (MPAs) (Nu live: DocuSign-migratie naar Adobe Sign voor partners onder Microsoft Partner-overeenkomsten (MVA's)
 
 ### <a name="categories"></a>Categorieën
 
@@ -249,26 +249,26 @@ Microsoft zal alle elektronische handtekeningverwerking overstappen van DocuSign
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Bestaande directe en indirecte Cloud Solution Provider (CSP) onder MPA.
+Bestaande partners voor directe en indirecte Cloud Solution Provider (CSP) onder MPA.
 
 ### <a name="details"></a>Details
 
-In februari 2021 gaat Microsoft alle verwerking van elektronische handtekeningen over van DocuSign naar Adobe Sign voor CSP-partners.
+In februari 2021 begint Microsoft met de overgang van alle elektronische handtekeningverwerking van DocuSign naar Adobe Sign voor CSP-partners.
 
 U kunt een soepele overgang verwachten. Na de migratie ontvangt u een e-mailbericht van , in plaats van adobesign@adobesign.com DocuSign, wanneer uw elektronische handtekening vereist is. Dit e-mailbericht biedt u een koppeling naar de webpagina van Adobe Sign waar u zich moet aanmelden. Microsoft-partners moeten bestaande overeenkomsten niet opnieuw ondertekenen, alleen toekomstige kanaalovereenkomsten. Partners in Rusland, Rusland en Rusland moeten de Handtekening jaarlijks fysiek of elektronisch opnieuw ondertekenen.
 
-U vindt een voorbeeld van een e-mail met een handtekeningaanvraag voor Adobe Sign in [de resourcegalerie](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).
+U vindt een voorbeeld van een e-mail met een Adobe Sign-handtekeningaanvraag in [de resourcegalerie.](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)
 
-Voor de beste ervaring moet u het volgende doen:
+Zorg ervoor dat u het volgende doet voor de beste ervaring:
 
-1. Voeg adobesign@adobesign.com toe aan de lijst met veilige afzenders om te voorkomen dat e-mailberichten van dit account rechtstreeks naar uw map voor ongewenste e-mail gaan.
-2. Werk samen met uw IT-afdeling aan het volgende:
-    - Voeg het e-mailadres toe aan de lijst met veilige afzenders om ervoor te zorgen dat het niet is opgenomen in een vooraf vastgestelde adobesign@adobesign.com phishingregel.
-    - Werk bestaand beveiligingsbeleid bij om ervoor te zorgen dat alle vereiste ontvangers documentatie kunnen ondertekenen onder uw Adobe Sign-bedrijfslicentie.
+1. Voeg toe aan de lijst met veilige afzenders om te voorkomen dat e-mailberichten van adobesign@adobesign.com dit account rechtstreeks in uw map voor ongewenste e-mail worden geplaatst.
+2. Werk samen met uw IT-afdeling om het volgende te doen:
+    - Voeg het e-mailadres toe aan de lijst met veilige afzenders om ervoor te zorgen dat het niet is opgenomen in een adobesign@adobesign.com vooraf opgestelde phishingregel.
+    - Werk bestaand beveiligingsbeleid bij om ervoor te zorgen dat alle vereiste ontvangers documentatie kunnen ondertekenen onder uw Licentie voor Adobe Sign Enterprise.
 
-Resources met betrekking tot onboarding, functionaliteit en vragen over bedrijfsproces vindt u op de [Adobe Sign Migration Partner-pagina.](https://aka.ms/eSignature/External)
+Resources met betrekking tot onboarding, functionaliteit en vragen over bedrijfsproces vindt u op de [pagina Adobe Sign Migration Partner](https://aka.ms/eSignature/External).
 
-Adobe Sign is de voorkeursoplossing voor Elektronische handtekeningen (ESS) van Microsoft. De overgang naar Adobe Sign zorgt voor een veilige en efficiënte elektronische handtekening die onze klanten en partners meer waarde biedt.
+Adobe Sign is de favoriete ESS-oplossing (Electronic Signature Solution) van Microsoft. De overgang naar Adobe Sign zorgt voor een veilige en efficiënte elektronische handtekeningervaring die onze klanten en partners meer waarde biedt.
 
 Raadpleeg de volgende zelfstudies voor meer informatie over het elektronisch ondertekenen van documenten en delegering van elektronische handtekeningen:
 
@@ -281,7 +281,7 @@ Deel deze informatie met de juiste belanghebbenden in uw organisatie.
 
 ### <a name="questions"></a>Vragen?
 
-Als u vragen hebt, kunt u contact opnemen met uw Regional Operations Center het [Call Logging Tool (CLT) of](https://clt.partners.extranet.microsoft.com/CLT) op Ms [verkennen.](https://www.explore.ms/) Volg het standaard CLT-proces nauwkeurig, zodat we uw query zo snel mogelijk kunnen oplossen.
+Als u vragen hebt, kunt u contact opnemen met Regional Operations Center via [clt (Call Logging Tool)](https://clt.partners.extranet.microsoft.com/CLT) of op [MS verkennen.](https://www.explore.ms/) Volg het standaard CLT-proces nauwkeurig, zodat we uw query zo snel mogelijk kunnen oplossen.
 
 ### <a name="change-log"></a>Wijzigingslogboek
 
@@ -290,7 +290,7 @@ Als u vragen hebt, kunt u contact opnemen met uw Regional Operations Center het 
 
 _____________
 
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Herinnering: Introductie van API-beperking voor partners die api'Partner Center aanroepen
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Herinnering: Introductie van API-beperking voor partners die Partner Center API's aanroepen
 
 ### <a name="categories"></a>Categorieën
 
@@ -303,11 +303,11 @@ Microsoft implementeert API-beperking om binnen een tijdspanne consistentere pre
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die het programma Cloud Solution Provider (CSP)  
+Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken  
 
 ### <a name="details"></a>Details
 
-Vanaf februari 2021 implementeert Microsoft API-beperking om binnen een periode consistentere prestaties mogelijk te maken voor partners die de api's Partner Center aanroepen.Beperking beperkt het aantal aanvragen voor een service in een tijdsspanne om te voorkomen dat resources te veel worden gebruikt.Wanneer een drempelwaarde voor beperking wordt overschreden, beperkt Partner Center verdere aanvragen van die client voor een bepaalde periode.
+Vanaf februari 2021 implementeert Microsoft API-beperking om binnen een periode consistentere prestaties mogelijk te maken voor partners die de api's Partner Center aanroepen.Beperking beperkt het aantal aanvragen naar een service in een tijdsspanne om te voorkomen dat resources te veel worden gebruikt.Wanneer een drempelwaarde voor bandbreedtebeperking wordt overschreden, Partner Center verdere aanvragen van die client voor een bepaalde periode beperkt.
 
 **Voordelen van partners:**
 
@@ -332,8 +332,8 @@ Partner Center is ontworpen voor het verwerken van een groot aantal aanvragen, m
 |{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [Alle overdrachten van een klant krijgen](/partner-center/develop/get-all-of-a-customer-s-transfers) |
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Upgradestatus van product ophalen](/partner-center/develop/get-product-upgrade-status) |
 |{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [Een lijst met aanbiedingen voor omzetten van de proefversie ophalen](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
- 
-We raden partners ten zeerste aan om de API voor activiteitenlogboek te gebruiken voor meer efficiëntie en om beperking te voorkomen.Raadpleeg hier de details voor meer informatie over [deze functie.](/partner-center/develop/api-throttling-guidance)  
+
+We raden partners ten zeerste aan om de API voor activiteitenlogboek te gebruiken voor meer efficiëntie en om beperking te voorkomen.Raadpleeg voor meer informatie over deze functie de informatie in API-beperkingsinformatie voor partners die Partner Center [API's aanroepen.](/partner-center/develop/api-throttling-guidance)  
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -341,7 +341,7 @@ Bekijk de [resources](/partner-center/develop/api-throttling-guidance)   voo
 
 _______________
 
-## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Introductie Microsoft Viva onderwerpen
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Introductie van Microsoft Viva onderwerpen
 
 ### <a name="categories"></a>Categorieën
 
@@ -350,11 +350,11 @@ _______________
 
 ### <a name="affected-audience"></a>Betrokken doelgroep
 
-Alle partners die het programma Cloud Solution Provider (CSP) gebruiken
+Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
 
 ### <a name="details"></a>Details
 
-Microsoft Viva Onderwerpen zijn van toepassing op kunstmatige intelligentie (AI) om kennis en expertise van binnen uw organisatie te identificeren en deze te cureren in gedeelde onderwerpen, zoals producten, klanten of projecten. Met in immersieve onderwerpkaarten en onderwerppagina's vindt u kennis in de context van uw teams, projecten en documenten. AI en mensen werken samen om kennis te verbeteren en deze beschikbaar te maken in de apps die u elke dag gebruikt. 
+Microsoft Viva Onderwerpen zijn van toepassing op kunstmatige intelligentie (AI) om kennis en expertise van uw organisatie te identificeren en deze te cureren in gedeelde onderwerpen, zoals producten, klanten of projecten. Met in immersieve onderwerpkaarten en onderwerppagina's vindt kennis u in de context van uw teams, projecten en documenten. AI en mensen werken samen om kennis te verbeteren en deze beschikbaar te maken in de apps die u elke dag gebruikt. 
 
 Gebruikers moeten een licentie hebben met een van de volgende opties om in aanmerking te komen voor Topics:   
 - Microsoft 365 F1, F3, E3, A3, E5 of A5 
@@ -396,7 +396,7 @@ De prijslijst op basis van licentievoorbeelden voor maart 2021 is bijgewerkt met
  
 Naam van aanbieding: Microsoft 365 E3 Offer ID: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 Material ID: AAA-35638
 
-Deze Microsoft 365 E3 prijsupdates zijn beperkt tot deze valuta's: JPY (Japans), GBP (Great British Pond), EUR (Europese Unie), AUD (Australische dollar). Er zijn andere prijswijzigingen in het bestand van maart en partners moeten de meest recente preview krijgen om de andere verwachte wijzigingen weer te geven.
+Deze Microsoft 365 E3 prijsupdates zijn beperkt tot de volgende valuta's: JPY (Japans- ( British) , GBP (Great British Pond), EUR (Europese Unie), AUD (Australische dollar). Er zijn andere prijswijzigingen in het bestand van maart en partners moeten de meest recente preview krijgen om de andere verwachte wijzigingen weer te geven.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -413,7 +413,7 @@ _______________
 
 ### <a name="affected-audience"></a>Betrokken doelgroep
 
-Alle partners die het programma Cloud Solution Provider (CSP) gebruiken
+Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
 
 ### <a name="summary"></a>Samenvatting
 
@@ -421,7 +421,7 @@ De prijslijst met preview-prijzen op basis van licenties is bijgewerkt voor de n
 
 ### <a name="details"></a>Details
 
-Wijzigingen in de FX-snelheid voor maart zijn niet opgenomen in de vorige prijslijsten op basis van licenties van maart. Dit bestand is bijgewerkt met de verwachte wijzigingen in de Noors-kronenprijs. Partners moeten het meest recente huidige preview-prijsbestand krijgen om deze wijzigingen te zien die worden verwacht voor 1 maart 2021. Deze wijzigingen zijn alleen van toepassing op prijzen voor de Noors krone-valuta.
+Wijzigingen in de FX-snelheid voor maart zijn niet opgenomen in de vorige prijslijsten op basis van licenties van maart. Dit bestand is bijgewerkt met de verwachte wijzigingen in de Noors-kroneprijs. Partners moeten het meest recente huidige preview-prijsbestand krijgen om deze wijzigingen te zien die worden verwacht voor 1 maart 2021. Deze wijzigingen zijn alleen van toepassing op prijzen voor de Noors krone-valuta.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -429,7 +429,7 @@ Partners moeten het preview-bestand van de huidige prijslijst downloaden voor ve
 
 _______________
 
-## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Premium evaluaties, een invoeging voor Compliance Manager, is vanaf 1 maart 2021
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Premium evaluaties, een invoeg-on voor Compliance Manager, is vanaf 1 maart 2021
 
 ### <a name="categories"></a>Categorieën
 
@@ -438,7 +438,7 @@ _______________
 
 ### <a name="affected-audience"></a>Betrokken doelgroep
 
-Alle partners die het programma Cloud Solution Provider (CSP) gebruiken
+Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
 
 ### <a name="summary"></a>Samenvatting
 
@@ -453,7 +453,7 @@ Premium evaluaties zijn een optionele invoeg-on voor Compliance Manager en kunne
 |CSP - Corp - Addon|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
 |CSP - Corp - Proefversie|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
 |CSP - Onderwijs - Onderwijsmedewerkers - Invoegaanvoeging|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
-|CSP - Onderwijsinstelling - Onderwijsinstelling - Proefversie|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+|CSP - Onderwijs - Onderwijsmedewerkers - Proefversie|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -500,11 +500,11 @@ Dit is wat er nieuw is in de module Partner Center verwijzingen:
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Alle partners die de module Verwijzingen in Partner Center  
 
-- [Nieuwe SMB-verbindingen maken:](../connect-with-your-customers.md)samen verkopen en samenwerken met Microsoft-verkopers om binnenkomende verkoopkansen te krijgen met betrekking tot SMB-klanten.
+- [Nieuwe SMB-verbindingen maken:](../connect-with-your-customers.md)Samen verkopen en samenwerken met Microsoft-verkopers om binnenkomende verkoopkansen te krijgen met betrekking tot SMB-klanten.
 
 - [Verwijzingsmachtigingen](../permissions-overview.md#manage-referrals)uitbreiden: wijs de verwijzingsmachtigingen van gebruikers toe op basis van de vraag of u wilt dat ze over beheerdersmachtigingen (toegang tot alle mogelijkheden voor co-verkoop) of gebruikersmachtigingen (toegang tot de specifieke verkoopkansen van de gebruiker) hebben.
 
-- [Partnerverkoop Verbinding maken](../psc-to-pc.md#user-migration)gebruikersmigratie: wijs bestaande gebruikersmachtigingen voor Partner Sales Verbinding maken toe aan de bijbehorende machtigingen voor Partner Center Verwijzingsbeheerder en verwijzingsgebruiker, en pas vervolgens massaal de nieuwe machtigingen toe op gebruikers. Bekijk [de documentatie over verwijzingsmachtigingen](../permissions-overview.md#manage-referrals) voor meer informatie over verwijzingsbeheer.  
+- [Gebruikersmigratie partnerverkoop Verbinding maken:](../psc-to-pc.md#user-migration)wijs bestaande gebruikersmachtigingen voor Partner Sales Verbinding maken toe aan de bijbehorende machtigingen voor Partner Center Verwijzingsbeheerder en verwijzingsgebruikers, en pas vervolgens massaal de nieuwe machtigingen toe op gebruikers. Bekijk [de documentatie over verwijzingsmachtigingen](../permissions-overview.md#manage-referrals) voor meer informatie over verwijzingsbeheer.  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partners met aanbiedingen die gereed zijn voor co-verkoop
 
@@ -512,7 +512,7 @@ Dit is wat er nieuw is in de module Partner Center verwijzingen:
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partners met een vertransactiesde aanbieding met behulp van een oplossing die in aanmerking komt voor Een Azure-incentive in de commerciële marketplace
 
-- [Automatische](../register-deals.md)dealregistratie gebruiken: bespaar tijd en zorg voor nauwkeurigheid door het registreren van vertransactiesde Microsoft Commercial Marketplace Azure-aanbiedingen met behulp van het selectievakje 'Deze deal/winst is of wordt verwerkt via Azure Marketplace of AppSource'. Zolang de transactiedatum juist is, worden de gegevens voor de registratie van de deal rechtstreeks uit de commerciële marketplace van Microsoft gehaald.
+- Registratie van automatische [deal gebruiken:](../register-deals.md)bespaar tijd en zorg voor nauwkeurigheid door het registreren van tijdelijke Microsoft Commercial Marketplace Azure-aanbiedingen met behulp van het selectievakje 'Deze deal/winst is of wordt verwerkt via Azure Marketplace of AppSource'. Zolang de transactiedatum juist is, worden de gegevens voor de registratie van de deal rechtstreeks uit de commerciële marketplace van Microsoft gehaald.
 
 ### <a name="questions"></a>Vragen?
 
@@ -530,7 +530,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die academische, non-profit- en GCC-aanbiedingen verkopen via het Cloud Solution Provider-programma met behulp van Partner Center API
+Partners die academische, non-profit- en GCC-aanbiedingen verkopen via het Cloud Solution Provider-programma met behulp van de Partner Center-API
 
 ### <a name="details"></a>Details
 
@@ -539,7 +539,7 @@ Deze aankondiging is een vervolg op de verbeteringen Partner Center [in december
 ### <a name="next-steps"></a>Volgende stappen
 
 - **Bijwerken naar de nieuwe API's voor** een geslaagde en tijdige overgang
-- **Bekijk de nieuwe api Partner Center wijzigingen** en handleiding in de Operations Readiness-resources: verbeteringen van Partner Center [Education-klantvalidatieproces](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Bekijk de nieuwe api Partner Center wijzigingen en** handleiding in de Operations Readiness-resources: verbeteringen van Partner Center [Education-klantvalidatieproces](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - **Deel deze informatie met de juiste teams** binnen uw organisatie en met uw wederverkopers om hen te helpen zich voor te bereiden op deze wijzigingen.
 
 ### <a name="questions"></a>Vragen?
