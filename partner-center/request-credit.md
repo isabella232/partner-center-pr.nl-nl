@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: f5745a74e4368b42c4ce7b1b828ced8f79e49581
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/18/2021
-ms.locfileid: "127918590"
+ms.locfileid: "127958828"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Hoe en wanneer u een tegoed kunt aanvragen bij Microsoft
 
@@ -90,7 +90,7 @@ Voor tegoedaanvragen voor dubbele licenties (bijvoorbeeld wanneer een klant dubb
 Voor tegoedaanvragen voor service-uitval:
 
 - SLA-tegoeden van Microsoft worden bepaald op basis van de service(s) die zijn beïnvloed. Als uw klant bijvoorbeeld een Office 365-suite heeft maar alleen een SharePoint-storing heeft ondervonden, wordt het SLA-tegoed alleen goedgekeurd voor SharePoint en niet voor het hele abonnement van de klant
-- Tegoeden worden prorated op basis van de betrokken service en de duur van de storing. Zie het document Geconsolideerde SLA voor Online Services voor de typen scenario's die in aanmerking komen voor [SLA-tegoed.](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) Deze informatie is ook van toepassing op services die via het Cloud Solution Provider (CSP)-programma worden verkocht.
+- Tegoeden worden prorated op basis van de betrokken service en de duur van de storing. Zie het document Geconsolideerde SLA voor Online Services voor de typen scenario's die in aanmerking komen voor [SLA-tegoed.](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) Deze informatie is ook van toepassing op services die worden verkocht via Cloud Solution Provider (CSP)-programma.
 - Tegoedaanvragen moeten worden ingediend aan het einde van de kalendermaand na de maand waarin het incident zich heeft voorgedaan. Als het incident bijvoorbeeld op 15 februari heeft plaatsgevonden, moeten we de claim en alle vereiste informatie voor 31 maart ontvangen. (Meer informatie staat in het *formulier Aanvraag voor tegoed of restitutie).*
 
 - U moet bewijzen leveren dat de klant is beïnvloed door de storing en dat de klant een SLA-tegoed heeft aangevraagd. Tenant-id en storings-id van de klant (van Service Health Dashboard) moeten worden opgegeven. Het e-mailadres van de klant dat als bewijs is verzonden, moet afkomstig zijn van het domein van de betrokken tenant. (E-mail vanaf een persoonlijk adres is niet acceptabel).
