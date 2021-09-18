@@ -13,8 +13,8 @@ ms.openlocfilehash: 78cff330e2fc91ac3867874470b69c022927079e
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127894095"
+ms.lasthandoff: 09/17/2021
+ms.locfileid: "127906363"
 ---
 # <a name="partner-center-announcements"></a>Aankondigingen van partnercentrum
 
@@ -22,47 +22,47 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 
 |**Categorie**|**Aankondigingen van september 2021**|**Aangekondigd**|
 |---------|:---------|:---------|
-|Functies|[Binnenkort: Controle van gedelegeerde beheerdersbevoegdheden en verwijderen van selfservice](2021-september.md#11)|13 september|
+|Functies|[Binnenkort: controle van gedelegeerde beheerdersbevoegdheden en selfserviceverwijdering](2021-september.md#11)|13 september|
 |Functies|[Update Cloud Solution Provider community van september en herinneringen](2021-september.md#10)|10 september|
 |Gereedheid|[September co-sell met Microsoft Q&A community call reminder](2021-september.md#9)|9 september|
 |Gereedheid|[Nieuwe validatieregels voor bedrijfsnaam en e-mailadres op 22 september](2021-september.md#8)|7 september|
-|Gereedheid|[Attestation in dual-modus en aanvullende resellerdeclaratie](2021-september.md#7)|7 september|
-|Aanbiedingen en markten|[Prijslijsten voor doorlopende software- en softwareabonnementen opnieuw gepubliceerd om prijsverhogingen in Rusland op te lossen](2021-september.md#6)|3 september|
+|Gereedheid|[Attestation voor dubbele modus en aanvullende resellerdeclaratie](2021-september.md#7)|7 september|
+|Aanbiedingen en markten|[Prijslijsten voor doorlopende software en softwareabonnementen opnieuw gepubliceerd om prijsverhogingen in Rusland op te lossen](2021-september.md#6)|3 september|
 |Aanbiedingen en markten|[Correcties van de prijslijst voor op licenties gebaseerde services van september en de preview van oktober voor Microsoft 365 Business Basic (USD)](2021-september.md#5)|2 september|
 |Functies|[Aankondiging van Intune per apparaat voor Enterprise voor CSP-partners](2021-september.md#4)| 2 september |
-|Functies|[Belangrijke updates voor de nieuwe commerce-ervaring voor Cloud Solution Provider(CSP)-aanbiedingen op basis van een seat](2021-september.md#3)| 1 september |
+|Functies|[Belangrijke updates voor de nieuwe commerce-ervaring voor Cloud Solution Provider (CSP)-aanbiedingen op basis van een seat](2021-september.md#3)| 1 september |
 |Uw bedrijf laten groeien|[Productlanceringen en aanbiedingen van deze maand weergeven](2021-september.md#2)| 1 september |
-|Uw bedrijf laten groeien|[Software in Microsoft China Cloud Solution Provider program (MCCL CSP) om transacties te starten vanaf 12 augustus](2021-september.md#1)| 1 september |
+|Uw bedrijf laten groeien|[Software in Microsoft China Cloud Solution Provider programma (MCCL CSP) om transacties te starten vanaf 12 augustus](2021-september.md#1)| 1 september |
 |**Categorie**|**Aankondigingen van augustus 2021**|**Aangekondigd**|
-|Functies|[Privacybeheer voor Microsoft 365 is vertraagd](2021-august.md#20)| 31 augustus |
+|Functies|[Privacybeheer voor Microsoft 365 starten is vertraagd](2021-august.md#20)| 31 augustus |
 |Functies|[Aankondiging van Windows algemene beschikbaarheid van Server 2022 in oktober](2021-august.md#19)| 26 augustus |
-|Functies|[Aanbiedingen op basis van seat voor geïntegreerde sandboxtests in de nieuwe commerce-ervaring](2021-august.md#18)| 25 augustus |
-|Uw bedrijf laten groeien|[Update van factuurstructuur voor de VERENIGDE Staten, Den Staten en Canada](2021-august.md#17)| 24 augustus |
-|Functies|[Nu live: Nieuwe commerce-ervaring in CSP voor Azure uitbreiden naar Government Community Cloud (GCC)](2021-august.md#16)| 24 augustus |
-|Functies|[Fase 2 nu live: EU/EFTA en UK wijzigen van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen](2021-august.md#15)| 23 augustus |
-|Functies|[Nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based voor breedte beweging](2021-august.md#14)| 19 augustus |
+|Functies|[Op seat gebaseerde aanbiedingen voor geïntegreerde sandboxtests in de nieuwe commerce-ervaring](2021-august.md#18)| 25 augustus |
+|Uw bedrijf laten groeien|[Update van factuurstructuur voor de VERENIGDE Staten, Canada en Canada](2021-august.md#17)| 24 augustus |
+|Functies|[Nu live: Nieuwe commerce-ervaring in CSP voor Azure die wordt uitgebreid naar Government Community Cloud (GCC)](2021-august.md#16)| 24 augustus |
+|Functies|[Fase 2 nu live: EU/EFTA en VK wijzigen van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen](2021-august.md#15)| 23 augustus |
+|Functies|[Nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based voor breedte motion](2021-august.md#14)| 19 augustus |
 |Functies|[Update naar onze commerciële prijzen voor Microsoft 365](2021-august.md#13)| 19 augustus |
-|Functies|[Update Cloud Solution Provider en herinneringen van de CSP-community van augustus](2021-august.md#12)| 16 augustus |
+|Functies|[Update en Cloud Solution Provider van de CSP -community van augustus](2021-august.md#12)| 16 augustus |
 |Uw bedrijf laten groeien|[Get Genuine Windows GGWA-aanbiedingen (Agreement) in het Cloud Solution Provider programma tijdelijk niet beschikbaar](2021-august.md#11)| 16 augustus |
 |Aanbiedingen/markten|[De meest recente promoties en aanbiedingen weergeven](2021-august.md#10)| 10 augustus |
 |Functies|[Nalevingscontrole via het PAM-team (Partner Accountability Management)](2021-august.md#9)| 9 augustus |
 |Aanbiedingen/markten|[Windows 365 nu beschikbaar voor aankoop: Hybride Windows voor een hybride wereld](2021-august.md#8)| 9 augustus |
 |Aanbiedingen/markten|[Toekomstige wijzigingen in prijslijsten voor Azure-plannen voor nieuwe commerce-ervaring](2021-august.md#6)| 4 augustus |
-|Functies|[CSP voor nieuwe commerce-ervaring in Azure wordt uitgebreid naar het Platform](2021-august.md#5)| 3 augustus |
+|Functies|[CSP voor Nieuwe commerce-ervaring van Azure breidt uit naar Het Bedrijf](2021-august.md#5)| 3 augustus |
 |Functies|[Programmatische toegang tot partner- Insights analytics-gegevens](2021-august.md#4)| 3 augustus |
-|Aanbiedingen/markten|[Attestation van aanbieding vereist voor sommige Windows 365-aanbiedingen](2021-august.md#3)| 1 augustus |
+|Aanbiedingen/markten|[Attestation-aanbieding vereist voor sommige Windows 365-aanbiedingen](2021-august.md#3)| 1 augustus |
 |Functies|[Productlanceringen en aanbiedingen van deze maand weergeven](2021-august.md#1)| 1 augustus |
 |**Categorie**|**Aankondigingen van juli 2021**|**Aangekondigd**|
 |Functies|[Nieuwe commerce-ervaring in CSP voor Azure die wordt uitgebreid naar Government Community Cloud (GCC)](2021-july.md#16)| 26 juli |
-|Functies|[Uitbreiding van het hulpprogramma voor de overdracht van Azure-abonnementen tussen partners in het Cloud Solution Provider (CSP)-programma](2021-july.md#15)| 21 juli |
+|Functies|[Verbetering van het hulpprogramma voor de overdracht van Azure-abonnementen tussen partners in het Cloud Solution Provider (CSP)-programma](2021-july.md#15)| 21 juli |
 |Functies|[Wijzigingen in de beschikbaarheid van Azure-aanbieding met betrekking tot de nieuwe commerce-ervaring in CSP voor Azure](2021-july.md#14)| 21 juli |
 |Moderne werkplek|[Introductie van Windows 365: hybride Windows voor een hybride wereld](2021-july.md#13)| 20 juli |
-|Functies|[Introductie van API-beperking voor partners die Partner Center API's aanroepen](2021-july.md#12)| 19 juli |
-|Functies|[Nieuwe softwareaanbiedingen die beschikbaar zijn in het Cloud Solution Provider (CSP)-programma en wijzigingen in het Open License-programma](2021-july.md#11)| 19 juli |
+|Functies|[Introductie van API-beperking voor partners die api'Partner Center aanroepen](2021-july.md#12)| 19 juli |
+|Functies|[Nieuwe softwareaanbiedingen die beschikbaar zijn in het programma Cloud Solution Provider (CSP) en wijzigingen in het Open License-programma](2021-july.md#11)| 19 juli |
 |Aanbiedingen/markten|[Correcties van de prijslijst met licentieservices van augustus voor Enterprise Mobility & Security (EMS) E3](2021-july.md#10)| 16 juli |
 |Functies|[Wijziging van software in Microsoft China Corporation Limited (MCCL) Cloud Solution Provider (CSP) en open licentie](2021-july.md#9)| 13 juli |
-|Gereedheid|[Wijzigingen in de validatie-API van Cloud Solution Provider -klantadres (CSP) voor live gaan op 13 juli 2021](2021-july.md#8)| 12 juli |
-|Functies|[Update en Cloud Solution Provider van de CSP-community van juli](2021-july.md#7)| 12 juli |
+|Gereedheid|[Wijzigingen in de validatie Cloud Solution Provider-API voor klantadressen van de klant (CSP) gaan live op 13 juli 2021](2021-july.md#8)| 12 juli |
+|Functies|[Update en Cloud Solution Provider van de CSP -community van juli](2021-july.md#7)| 12 juli |
 |Functies|[Houd uw Microsoft-certificeringen actief met hulp van Partner Center](2021-july.md#6)| 9 juli |
 |Functies|[SDK-release op .NET Standard (v2.0.1)](2021-july.md#5)| 7 juli |
 |Functies|[Aankondiging van transparantie van klantkorting](2021-july.md#4)| 7 juli |
@@ -70,30 +70,30 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Functies|[Productlanceringen en aanbiedingen van deze maand weergeven](2021-july.md#2)|1 juli|
 |Functies|[Dynamics 365 Cloudmigratie promotie en pensioen van aanbiedingen met korting](2021-july.md#1)|1 juli|
 |**Categorie**|**Aankondigingen van juni 2021**|**Aangekondigd**|
-|Functies|[Update van fase 2: eu-/EFTA- en UK-wijziging van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen](2021-june.md#9)|24 juni|
+|Functies|[Update fase 2: EU/EFTA en VK wijzigen van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen](2021-june.md#9)|24 juni|
 |Functies|[De meest recente promoties en aanbiedingen weergeven](2021-june.md#8)|22 juni|
-|Functies|[Fase 1: wijzigingen in Azure bieden beschikbaarheid in de Cloud Solution Provider (CSP) met betrekking tot de nieuwe commerce-ervaring die binnenkort beschikbaar is](2021-june.md#7)|21 juni|
-|Uw bedrijf laten groeien|[Update en Cloud Solution Provider van de CSP-community van juni](2021-june.md#6)|11 juni|
-|Aanbiedingen en markten|[Cloud Solution Provider (CSP)-promotie-extensies voor Microsoft 365 audiovergaderingen en Microsoft 365 Business Voice](2021-june.md#5)|11 juni|
-|Functies|[Lijst met doorlopende softwareprijzen gecorrigeerd en opnieuw gepubliceerd](2021-june.md#4)|4 juni|
+|Functies|[Fase 1: Wijzigingen in Azure bieden beschikbaarheid in de Cloud Solution Provider (CSP) met betrekking tot de nieuwe commerce-ervaring die binnenkort beschikbaar is](2021-june.md#7)|21 juni|
+|Uw bedrijf laten groeien|[Update Cloud Solution Provider en herinneringen van de CSP-community (juni 2018)](2021-june.md#6)|11 juni|
+|Aanbiedingen en markten|[Cloud Solution Provider (CSP) promo-extensies voor Microsoft 365 Audio Conferencing en Microsoft 365 Business Voice](2021-june.md#5)|11 juni|
+|Functies|[Prijslijst voor permanente software gecorrigeerd en opnieuw gepubliceerd](2021-june.md#4)|4 juni|
 |Functies|[Correcties in de preview-versie van de prijslijst voor op licenties gebaseerde services van juli](2021-june.md#3)|4 juni|
 |Functies|[Aanvullende kolommen voor uitgebreidere informatie in Azure-gebruiksrapporten](2021-june.md#2)|2 juni|
 |Functies|[Productlanceringen en aanbiedingen van deze maand weergeven](2021-june.md#1)|1 juni|
 |**Categorie**|**Aankondigingen van mei 2021**|**Aangekondigd**|
-|Functies|[Sandbox-ondersteuning voor indirect model om end-to-end-API-testen mogelijk te maken](2021-may.md#15)|25 mei|
-|Mogelijkheden, verbetert de naleving van & beveiliging |[Updates van juni voor Online Services (OLS) en softwarekanaalautorisatiehandleiding](2021-may.md#14)|25 mei|
+|Functies|[Sandbox-ondersteuning voor indirect model om end-to-end-API-tests mogelijk te maken](2021-may.md#15)|25 mei|
+|Mogelijkheden, verbetert de naleving van & beveiliging |[Updates van juni voor onlineservices (OLS) en autorisatiehandleiding voor softwarekanaal](2021-may.md#14)|25 mei|
 |Functies|[Updates voor het transacteren van permanente software in CSP en wijzigingen in het Open License-programma](2021-may.md#13)|17 mei|
-|Functies|[Fase 2 binnenkort beschikbaar: EU/EFTA en UK wijzigen van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen](2021-may.md#12)|17 mei|
+|Functies|[Fase 2 binnenkort beschikbaar: eu-/EFTA- en UK-wijziging van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen](2021-may.md#12)|17 mei|
 |Functies|[Afschaffing van Microsoft 365 Business Voice Aan de slag Wizard (GSW)](2021-may.md#11)|14 mei|
-|Functies|[Update Cloud Solution Provider de CSP-community en herinneringen](2021-may.md#10)|13 mei|
+|Functies|[Update Cloud Solution Provider community en herinneringen van de CSP (May Cloud Solution Provider)](2021-may.md#10)|13 mei|
 |Functies|[Analyse voor door partners geleide deals voor co-verkoop](2021-may.md#9)|10 mei|
 |Functies|[Hosting- en SPLA Reseller Incentive-programma's uitgebreid tot en met 30 september 2021](2021-may.md#8)|7 mei|
-|Functies|[Standaardfunctie voor bankprofiel is beschikbaar in Partner Center voor incentive-inschrijving](2021-may.md#7)|7 mei|
+|Functies|[De standaardfunctie voor bankprofiel is beschikbaar in Partner Center voor incentive-inschrijving](2021-may.md#7)|7 mei|
 |Functies|[Update: De productlancering van Scheduler is vertraagd](2021-may.md#6)|5 mei|
 |Functies|[CSP-doorlopende software binnenkort beschikbaar in China](2021-may.md#5)|5 mei|
 |Functies|[Laatste herinnering: afschaffing van de GET-kwalificatie op 6 mei 2021](2021-may.md#4)|4 mei|
 |Aanbiedingen/markten|[Correcties naar prijslijst op basis van licenties van 1 mei 2021](2021-may.md#3)|4 mei|
-|Functies|[Aankondiging van kwalificatie van entiteit in staatsbedrijf](2021-may.md#2)|4 mei|
+|Functies|[Aankondiging van kwalificatie van entiteit in staats-eigendom](2021-may.md#2)|4 mei|
 | Aanbiedingen/Business Applications|[Productlanceringen en aanbiedingen van deze maand weergeven](2021-may.md#1)|3 mei, bijgewerkt op 7 mei|
 |**Categorie**|**Aankondigingen van april 2021**|**Aangekondigd**|
 |Gereedheid|[Bijgewerkte API voor validatie van CSP-klantadressen die in juni live gaat; testmogelijkheid nu beschikbaar](2021-april.md#10)|30 april|
@@ -101,7 +101,7 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Functies|[Cloud Solution Provider (CSP)-beleid voor de retourperiode van software en de vervaldatum van de downloadkoppeling](2021-april.md#8)|21 april|
 |Uw bedrijf laten groeien|[Licentieprogramma openen: resellers overstappen naar het Cloud Solution Provider (CSP)-programma](2021-april.md#7)|19 april|
 |Functies|[Nu live: Globale handleiding voor promotie-gereedheid](2021-april.md#6)|16 april|
-|Community: Uitnodigingen en herinneringen|[Update en Cloud Solution Provider van de CSP-community van april](2021-april.md#5)|16 april|
+|Community: Uitnodigingen en herinneringen|[Update en Cloud Solution Provider de CSP-community van april](2021-april.md#5)|16 april|
 |Functies|[Herinnering: Afschaffing van GET-kwalificatie op 4 mei 2021](2021-april.md#4)|9 april|
 |Functies|[Nieuwe indeling voor de nieuwe PDF-factuur voor commerce in CSP](2021-april.md#3)|5 april|
 |Functies|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2021-april.md#2)|2 april|
@@ -116,35 +116,35 @@ Meer informatie over belangrijke updates in Partnercentrum. Deze informatie word
 |Functies|[Commerciële CSP-marketplace-aanbieding en FY21 CSP-incentives voor in aanmerking komende aanbiedingen](2021-march.md#12)|18 maart|
 |Functies|[Power BI Premium naamgeving van aanbieding en vereiste update](2021-march.md#11)|18 maart|
 |Aanbiedingen/markten|[Prijsupdates van maart voor Microsoft 365 F3](2021-march.md#10)|16 maart|
-|Efficiëntie van & verhogen|[Werk de naam van een juridisch bedrijf bij via Partner Center](2021-march.md#9)|16 maart|
-|Functies|[Bijwerken naar Cloud Solution Provider (CSP)-programma-ontwikkeling en wijzigingen in het Open License-programma](2021-march.md#8)|15 maart|
-|Uw bedrijf laten groeien|[Update naar een eerdere aankondiging: Premium Assessments, een invoegaanvoeging voor Compliance Manager](2021-march.md#7)|15 maart|
+|Efficiëntie van & vergroten|[Werk de naam van een juridisch bedrijf bij via Partner Center](2021-march.md#9)|16 maart|
+|Functies|[Bijwerken naar Cloud Solution Provider programma-ontwikkeling (CSP) en wijzigingen in het Open License-programma](2021-march.md#8)|15 maart|
+|Uw bedrijf laten groeien|[Update naar een eerdere aankondiging: Premium Assessments, een invoeg-on voor Compliance Manager](2021-march.md#7)|15 maart|
 |Functies|[Uw oplossingen migreren van ONE Commercial Partner (OCP) go-to-market (GTM) naar de commerciële marketplace van Microsoft](2021-march.md#6)|12 maart|
-|Functies|[De nieuwe commerce-ervaring in het Cloud Solution Provider (CSP)-programma voor Azure uitbreiden naar Rusland](2021-march.md#5)|10 maart|
+|Functies|[De nieuwe commerce-ervaring in het Cloud Solution Provider (CSP)-programma voor Azure naar Rusland uitbreiden](2021-march.md#5)|10 maart|
 |Functies|[Partner Center softwarelicentiesleutel en downloadafhandeling](2021-march.md#4)|5 maart|
 |Functies|[Uw deals migreren van Partner Sales Verbinding maken (PSC) naar Partner Center](2021-march.md#3)|5 maart|
 |Functies|[Nieuwe Microsoft Dynamics 365-producten en -aanbiedingen beschikbaar op 1 april 2021](2021-march.md#2)|4 maart|
 |Functies|[Microsoft Universeel afdrukken nu beschikbaar in sommige suites](2021-march.md#1)|3 maart|
 |**Categorie**|**Aankondigingen van februari 2021**|**Aangekondigd**|
-|Functies|[API's voor PUT-kwalificatie worden ingetrokken, GET wordt in mei ingetrokken](2021-february.md#14)|25 februari|
-|Functies|[Deals voor co-verkoop op schaal delen met behulp Partner Center bulkbewerkingen](2021-february.md#13)|25 februari|
-|Functies|[Uw deals migreren van Partner Sales Verbinding maken (PSC) met behulp van de functie voor nieuwe dealmigratie](2021-february.md#12)|25 februari|
+|Functies|[PUT-kwalificatie-API's zijn ingetrokken, GET wordt in mei ingetrokken](2021-february.md#14)|25 februari|
+|Functies|[Deals voor co-verkoop op schaal delen met behulp van Partner Center mogelijkheid voor bulkbewerkingen](2021-february.md#13)|25 februari|
+|Functies|[Uw deals migreren van Partner Sales Verbinding maken (PSC) met behulp van de nieuwe functie voor dealmigratie](2021-february.md#12)|25 februari|
 |Functies|[Meer flexibiliteit met door partners geleide deals voor co-verkoop](2021-february.md#11)|25 februari|
-|Functies|[Wijzigingen in de onboarding van Cloud Solution Provider (CSP) van de klant](2021-february.md#10)|25 februari|
-|Functies|[Nu live: Migratie van DocuSign naar Adobe Sign voor partners onder Microsoft Partner-overeenkomsten (MVA's)](2021-february.md#9)|16 februari|
+|Functies|[Wijzigingen in de onboarding van Cloud Solution Provider (CSP)-klant](2021-february.md#10)|25 februari|
+|Functies|[Now Live: DocuSign migration to Adobe Sign for partners under Microsoft Partner Agreements (MPAs) (Nu live: DocuSign-migratie naar Adobe Sign voor partners onder Microsoft Partner-overeenkomsten (MVA's)](2021-february.md#9)|16 februari|
 |Uw bedrijf laten groeien|[Herinnering: Maak kennis met API-beperking voor partners die Partner Center-API's aanroepen](2021-february.md#8)|16 februari|
 |Functies|[Introductie van Microsoft Viva onderwerpen](2021-february.md#7)|12 februari|
 |Aanbiedingen/markten|[Microsoft 365 E3 prijswijzigingen vanaf maart 2021](2021-february.md#6)|11 februari|
-|Aanbiedingen/markten|[Prijslijst met preview-prijzen op basis van licenties bijgewerkt voor Noors](2021-february.md#5)|10 februari|
-|Functies|[Premium evaluaties, een invoeging voor Compliance Manager, is vanaf 1 maart 2021](2021-february.md#4)|5 februari|
+|Aanbiedingen/markten|[Prijslijst op basis van licentievoorbeeld bijgewerkt voor Noors kronen](2021-february.md#5)|10 februari|
+|Functies|[Premium evaluaties, een invoeg-on voor Compliance Manager, is vanaf 1 maart 2021](2021-february.md#4)|5 februari|
 |Functies|[Reageren op COVID-19: Microsoft Partner Network update](2021-february.md#3)|4 februari|
 |Functies|[Nieuwe updates voor de module Verwijzingen in Partner Center](2021-february.md#2)|4 februari|
 |Moderne werkplek|[Afschaffing en afschaffing van PUT-kwalificatie-API's voor het validatieproces van de Education-klant voor 25 februari 2021 en de GET-kwalificatie voor 4 mei 2021](2021-february.md#1)|4 februari|
 | **Categorie** | **Aankondigingen van januari 2021** | **Aangekondigd** |
 |Moderne werkplek|[Fase 1 nu live: EU/EFTA & UK Wijziging van partnerfactureringsvaluta voor nieuwe commerceaanbiedingen](2021-january.md#15)|28 januari|
 |Moderne werkplek|[Wijzigingen in de onboardingvereisten voor Cloud Solution Provider-klanten (CSP-klanten)](2021-january.md#14)|28 januari|
-|Functies|[Microsoft Partner-overeenkomst (MPA) – indirecte resellerupdates & veelgestelde vragen](2021-january.md#13)|27 januari|
-|Functies|[Partner Center auditlogboek wijzigen om twee nieuwe bewerkingstypen voor DAP op te nemen](2021-january.md#12)|25 januari|
+|Functies|[Microsoft Partner-overeenkomst (MPA) – indirecte resellerupdate voor & veelgestelde vragen](2021-january.md#13)|27 januari|
+|Functies|[Partner Center auditlogboekwijzigingen die twee nieuwe bewerkingstypen voor DAP bevatten](2021-january.md#12)|25 januari|
 |Functies|[Wijzigingen in de beschikbaarheid van Azure-aanbieding in CSP met betrekking tot de nieuwe commerce-ervaring in CSP voor Azure](2021-january.md#11)|21 januari|
 |Uw bedrijf laten groeien|[Onbeperkt geldige software nu algemeen beschikbaar in het Cloud Solution Provider-programma ](2021-january.md#10)|19 januari|
 |Uw bedrijf laten groeien|[Herinnering: Maak kennis met API-beperking voor partners die Partner Center-API's aanroepen](2021-january.md#9)|19 januari|

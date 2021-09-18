@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: f5745a74e4368b42c4ce7b1b828ced8f79e49581
-ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127900420"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127918590"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Hoe en wanneer u een tegoed kunt aanvragen bij Microsoft
 
@@ -50,7 +50,7 @@ Tegoedaanvragen worden alleen geaccepteerd van directe en indirecte CSP-provider
 
 1. Selecteer **Nieuwe aanvraag.**
 
-1. Selecteer **Bladeren in onderwerpen** en selecteer **Categorie** = CSP, **Onderwerp** = Facturering en facturering en **Subonderwerp** = Tegoedaanvragen en restituties.
+1. Selecteer **Bladeren in onderwerpen** en selecteer **Categorie** = CSP, **Onderwerp** = Facturering en facturering, en **Subonderwerp** = Tegoedaanvragen en restituties.
 
 1. Selecteer op **de pagina** Aanbevolen oplossingen onder Hebt u meer **hulp nodig?** de **optie Ja.**
 
@@ -89,9 +89,9 @@ Voor tegoedaanvragen voor dubbele licenties (bijvoorbeeld wanneer een klant dubb
 
 Voor tegoedaanvragen voor service-uitval:
 
-- SLA-tegoeden van Microsoft worden bepaald op basis van de service(s) die zijn beïnvloed. Als uw klant bijvoorbeeld een Office 365-pakket heeft maar alleen een SharePoint-storing heeft ondervonden, wordt het SLA-tegoed alleen goedgekeurd voor SharePoint en niet voor het hele plan van de klant
-- Tegoeden worden pro rated op basis van de betrokken service en de duur van de storing. Zie het document Online Services Consolidated SLA voor de typen scenario's die in aanmerking komen voor [SLA-tegoed.](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) Deze informatie is ook van toepassing op services die worden verkocht via Cloud Solution Provider (CSP)-programma.
-- Tegoedaanvragen moeten worden ingediend aan het einde van de kalendermaand na de maand waarin het incident zich heeft voorgedaan. Als het incident bijvoorbeeld op 15 februari heeft plaatsgevonden, moeten we de claim en alle vereiste informatie voor 31 maart ontvangen. (Meer informatie staat in het *formulier Voor tegoed of restitutie aanvragen).*
+- SLA-tegoeden van Microsoft worden bepaald op basis van de service(s) die zijn beïnvloed. Als uw klant bijvoorbeeld een Office 365-suite heeft maar alleen een SharePoint-storing heeft ondervonden, wordt het SLA-tegoed alleen goedgekeurd voor SharePoint en niet voor het hele abonnement van de klant
+- Tegoeden worden prorated op basis van de betrokken service en de duur van de storing. Zie het document Geconsolideerde SLA voor Online Services voor de typen scenario's die in aanmerking komen voor [SLA-tegoed.](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) Deze informatie is ook van toepassing op services die via het Cloud Solution Provider (CSP)-programma worden verkocht.
+- Tegoedaanvragen moeten worden ingediend aan het einde van de kalendermaand na de maand waarin het incident zich heeft voorgedaan. Als het incident bijvoorbeeld op 15 februari heeft plaatsgevonden, moeten we de claim en alle vereiste informatie voor 31 maart ontvangen. (Meer informatie staat in het *formulier Aanvraag voor tegoed of restitutie).*
 
 - U moet bewijzen leveren dat de klant is beïnvloed door de storing en dat de klant een SLA-tegoed heeft aangevraagd. Tenant-id en storings-id van de klant (van Service Health Dashboard) moeten worden opgegeven. Het e-mailadres van de klant dat als bewijs is verzonden, moet afkomstig zijn van het domein van de betrokken tenant. (E-mail vanaf een persoonlijk adres is niet acceptabel).
 
@@ -109,13 +109,13 @@ Voordat u [een SLA-tegoedaanvraag bij](https://www.microsoft.com/licensing/docs/
 - Bewijs dat de klant is beïnvloed door de storing en een SLA-tegoed heeft aangevraagd.
 - Zijn de beïnvloede abonnementen aangeschaft via CSP? (Ja of nee)
 
-### <a name="evidence-that-proves-customer-impact"></a>Bewijs dat de impact van de klant aangetoond
+### <a name="evidence-that-proves-customer-impact"></a>Bewijs dat de impact van de klant aantoont
 
 - Informatie over de tijd en duur van de downtime
 - Het aantal en de locatie(en) van de betrokken gebruikers (indien van toepassing)
 - Beschrijvingen van uw pogingen om het incident op te lossen op het moment van het optreden
 - Een e-mailbericht van de beïnvloede klant die ondersteuning en vervolgens tegoed aanvraagt
-- Het ondersteuningsticketnummer en de details van de contactpersoon van de klant met betrekking tot het oplossen van service-impact
+- Het nummer van het ondersteuningsticket en de details van de contactpersoon van de klant met betrekking tot het oplossen van service-impact
 
 ### <a name="outage-incident-identifier"></a>Incident-id van storing
 
