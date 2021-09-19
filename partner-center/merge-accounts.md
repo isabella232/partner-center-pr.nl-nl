@@ -1,6 +1,6 @@
 ---
 title: Uw partneraccount samenvoegen met een ander partneraccount
-description: Meer informatie over het samenvoegen van uw partneraccount met een ander partneraccount in Partner Center - voor bedrijven die actieve Microsoft-partners zijn in Partner Center.
+description: Meer informatie over het samenvoegen van uw partneraccount met een ander partneraccount in Partner Center voor bedrijven die actieve Microsoft-partners zijn in Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
@@ -9,11 +9,11 @@ ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
 ms.openlocfilehash: 4b913754dd73f99e8aa363d257a9ac658d190b6a
-ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
+ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127958866"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127962540"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Uw partneraccount samenvoegen met een ander partneraccount
 
@@ -55,11 +55,11 @@ Als u besluit de uitnodiging voor het samenvoegen van accounts te accepteren: ·
 
 - Alle bestaande competenties (Gold/Silver), aankopen (zoals Microsoft Action Pack) en bijbehorende voordelen blijven behouden tijdens consolidatie. Als beide bedrijven dezelfde competentie hebben, maar de ene is goud en het andere zilver, wordt de competentie met het hoogste vaardigheidsniveau toegekend en hebben partners één set van silver-voordelen en één set goud voordelen voor die competentie tot de volgende verlenging. 
 
-- De hoogste jubileumdatum voor Microsoft Action Pack behouden na de fusie. Als de jubileumdatum voor bedrijf 1 bijvoorbeeld 20 juni 2020 is voor Action Pack-verlenging en de jubileumdatum voor Action Pack-verlenging voor bedrijf 2 oktober 2020 is, gebruikt Microsoft de datum van oktober 2020 als de nieuwe jubileumdatum voor het samengevoegde bedrijf.
+- De hoogste jubileumdatum voor Microsoft Action Pack behouden na de fusie. Als de jubileumdatum voor bedrijf 1 bijvoorbeeld 20 juni 2020 is voor Action Pack-verlenging en de jubileumdatum voor de verlenging van Action Pack voor bedrijf 2 oktober 2020 is, gebruikt Microsoft de datum van oktober 2020 als de nieuwe jubileumdatum voor het samengevoegde bedrijf.
 
 - Tijdens de samenvoeging van het account en tot de volgende verlenging behoudt elk account Action Pack en/of competentievoordelen. Bij verlenging zijn standaardregels voor Action Pack en competentievernieuwing van toepassing.
 
-- Na de verlenging worden voordelen die zijn opgenomen bij het bereiken van competentie en Action Pack geïmplementeerd voor het globale partneraccount van het partnerbedrijf:
+- Na verlenging worden voordelen die zijn opgenomen bij het bereiken van competentie en Action Pack geïmplementeerd voor het globale partneraccount van het partnerbedrijf:
 
   - Microsoft Action Pack: Het partnerbedrijf kan één aankoop doen Action Pack globale partneraccount.
 
@@ -103,7 +103,7 @@ Als u besluit de uitnodiging voor het samenvoegen van accounts te accepteren: ·
     c. een gold-competentie die verloopt op 1 oktober 2020
 2. Fabrikam, Inc. heeft
  
-    a. een algemene MPN-id van 3333333 en twee ONDERLIGGENDe LOCATIE MPN-id's van 4444444 en 5555555
+    a. een algemene MPN-id van 3333333 en twee onderliggende LOCATIE MPN-id's van 4444444 en 5555555
 
     b.  een Azure AD-tenant = @fabrikam.com
 
