@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: f5745a74e4368b42c4ce7b1b828ced8f79e49581
-ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127958828"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128034604"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Hoe en wanneer u een tegoed kunt aanvragen bij Microsoft
 
