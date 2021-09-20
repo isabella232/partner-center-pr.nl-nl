@@ -1,6 +1,6 @@
 ---
 title: Aankondigingen van september 2021
-description: Aankondigingen van september 2021 voor Microsoft Partner Center met inbegrip van nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
+description: Aankondigingen van september 2021 voor Microsoft Partner Center waaronder nieuwe mogelijkheden, promoties, aanbiedingen, markten of wijzigingen in bestaande aanbiedingen.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-announcements
@@ -10,13 +10,13 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/13/2021
-ms.openlocfilehash: f34234bebb8353315029eaab76aa52cb30df6e6a
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.date: 09/16/2021
+ms.openlocfilehash: aa7276cb39febbd9d30f89f7d4bc53a8fd20038f
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/17/2021
-ms.locfileid: "127906300"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128007178"
 ---
 # <a name="september-2021-announcements"></a>Aankondigingen van september 2021
 
@@ -111,7 +111,7 @@ Hebt u licentie-gereedheid nodig? De [maandelijkse webinars met CSP-spotlight he
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de resources van de community en registreer u voor de Q&A-community-oproep.
+Bekijk de resources van de community en registreer u voor de Q&Een community-oproep.
 
 ### <a name="questions"></a>Vragen?
 
@@ -196,6 +196,33 @@ CSP-partners voor directe factuur en indirecte providers
 
 Microsoft wordt uitgevoerd op vertrouwen. We willen een compatibele, veilige en veilige methode bieden voor het valideren van de bedrijfsnaam en e-mailadresgegevens van de klant. Vanaf 22 september 2021 werken we de validaties van e-mail en bedrijfsnaam bij. Zie How [to add a new customer record (Een nieuwe klantrecord toevoegen) voor meer informatie.](../add-a-new-customer.md)
 
+#### <a name="new-rules-for-company-name-and-email-address"></a>Nieuwe regels voor bedrijfsnaam en e-mailadres
+
+Vanaf 22 september 2021 zijn de volgende nieuwe validatieregels van toepassing.
+
+Bij het invoeren van een bedrijfsnaam is het volgende niet toegestaan:
+
+- Met slechts één teken.
+- Gebruik alleen speciale tekens, zoals &$^# (zie [tabel](../add-a-new-customer.md#table-of-special-characters)).
+- Alleen spaties en/of tabbladen gebruiken.
+- Zelfstandige afkortingen gebruiken uit de beperkte lijst, zoals LLC, Inc, enzovoort (zie [tabel](../add-a-new-customer.md#table-of-abbreviations)).
+- Namen gebruiken met TDL-extensies (Internet Top-Level Domain), zoals '.com', '.org', '.edu', '.club', enzovoort (zie [tabel](../add-a-new-customer.md#table-of-top-level-domain-extensions)).
+- Het gebruik van hetzelfde teken herhaalde drie of meer keren zonder andere tekens, zoals 999.
+- Het gebruik van spaties en/of tabbladen gemengd met afzonderlijke tekens, zoals 1 2 3.
+
+Bij het invoeren van een e-mailadres van de klant is het volgende niet toegestaan:
+- Het e-mailadres mag niet @microsoft.com bevatten.
+- Het e-mailadres van de klant mag niet dezelfde domeinnaam bevatten als de partner. Een partner met de naam ABC kan bijvoorbeeld geen klant-e-mail maken met @abc.com .
+
+Meer informatie vindt u tijdens de EAP-webinar:
+- Dek: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240](https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240)
+
+- Opname: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216](https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216)
+ 
+#### <a name="partner-and-customer-impact"></a>Impact van partner en klant
+
+Partners kunnen vanaf 22 september geen klanten maken, tenzij ze voldoen aan de bovenstaande regels.
+
 _____________
 
 ## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Gereedheid: Attestation met dubbele modus en aanvullende resellerdeclaratie
@@ -213,7 +240,7 @@ We vragen ook aan alle partners die transacties in de EU/EFTA-landen verwerken o
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-CSP-partners voor directe factuur en indirecte providers die zowel directe als indirecte partners zijn
+Indirecte CSP-providers die zowel directe als indirecte partners zijn
 
 Indirecte partners die werken in EU-/EFTA-landen
 
@@ -222,6 +249,14 @@ Indirecte partners die werken in EU-/EFTA-landen
 Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor het transacteren van klantabonnementen in het CSP-programma.
 
 Vanaf 7 september 2021 openen we een pilot voor partners om de mogelijkheid te testen op nieuwe attestation-vereisten en aanvullende resellers (alleen EU/EFTA) wijzigingen aan te brengen in de API's Winkelwagen maken, Winkelwagen bijwerken en Order maken. Houd er rekening mee dat deze wijzigingen bestaande ervaringen voor deze API's zullen breken. Daarom wordt het ten zeerste aangeraden dat partners van de gelegenheid gebruik maken om deel te nemen aan de pilot vóór de volledige lancering in december.
+
+#### <a name="partner-and-customer-impact"></a>Impact van partner en klant
+
+- WIJZIGING DIE VAN INVLOED IS: Indirecte partners kunnen geen aankopen voltooien zonder eerst te bevestigen dat ze als directe of indirecte partners optreden
+- EU-/EFTA-partners voldoen niet aan de eu-regelgeving als ze geen aanvullende resellers declareeren en opnemen die betrokken zijn bij de transactie
+- Meer informatie vindt u tijdens de EAP-webinar: 
+- Dek: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240](https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240)
+- Opname: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216](https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216)
 
 De volgende API's worden beïnvloed en details zijn gedeeld en dienovereenkomstig bijgewerkt:
 
@@ -233,14 +268,14 @@ De extra resellers zijn van invloed op partners die in de volgende EU-/EFTA-land
 
 | EU-/EFTA-landen | &nbsp; | &nbsp; |
 | --- | --- | --- |
-| Andorra<br>Oostenrijk<br>België<br>Bouveteiland<br>Bulgarije<br>Kroatië<br>Cyprus<br>Tsjechië<br>Denemarken<br>Estland<br>Faröer<br>Finland<br>Frankrijk<br>Duitsland<br>Gibraltar | Griekenland<br>Groenland<br>Guernsey<br>2019:00 uur (dekt De plaats van de stad)<br>Hongarije<br>IJsland<br>Ierland<br>Isle of Man<br>Italië<br>Jersey<br>Letland<br>Liechtenstein<br>Litouwen<br>Luxemburg<br>Malta | Monaco<br>Nederland<br>Noorwegen<br>Polen<br>Portugal<br>Roemenië<br>San Marino<br>Slowakije<br>Slovenië<br>Spanje<br>Spitsbergen en Jan Mayen<br>Zweden<br>Zwitserland<br>Verenigd Koninkrijk: NOG TE WETEN |
+| Andorra<br>Oostenrijk<br>België<br>Bouveteiland<br>Bulgarije<br>Kroatië<br>Cyprus<br>Tsjechië<br>Denemarken<br>Estland<br>Faröer<br>Finland<br>Frankrijk<br>Duitsland<br>Gibraltar | Griekenland<br>Groenland<br>Guernsey<br>2019:00 uur (dekt De plaats van de stad)<br>Hongarije<br>IJsland<br>Ierland<br>Isle of Man<br>Italië<br>Jersey<br>Letland<br>Liechtenstein<br>Litouwen<br>Luxemburg<br>Malta | Monaco<br>Nederland<br>Noorwegen<br>Polen<br>Portugal<br>Roemenië<br>San Marino<br>Slowakije<br>Slovenië<br>Spanje<br>Spitsbergen en Jan Mayen<br>Zweden<br>Zwitserland<br>Verenigd Koninkrijk: nog te weten |
 |
 
-Als u wilt deelnemen aan de proef, neemt u contact op met uw expert op het gebied van onderwerp (Ali Kunnenki) en geeft u de tenant-id van de partner op zodat deze kan worden toegevoegd aan de vlucht.
+Als u wilt deelnemen aan de pilot, neemt u contact op met uw deskundige op het gebied van onderwerp (Ali Kunnenki) en geeft u de tenant-id van de partner op, zodat deze kunnen worden toegevoegd aan de vlucht.
 
 _____________
 
-## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Prijslijsten voor doorlopende software en softwareabonnementen opnieuw gepubliceerd om prijsverhogingen in Rusland op te lossen
+## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Prijslijsten voor doorlopende software- en softwareabonnementen opnieuw gepubliceerd om prijsverhogingen in Rusland op te lossen
 
 ### <a name="categories"></a>Categorieën
 
@@ -249,7 +284,7 @@ _____________
 
 ### <a name="summary"></a>Samenvatting
 
-De prijslijsten voor doorlopende software en softwareabonnementen die zijn gepubliceerd op 1 september 2021, zijn op 3 september opnieuw gepubliceerd om een prijsprobleem in Rusland te corrigeren.
+De prijslijsten voor doorlopende software en softwareabonnementen die zijn gepubliceerd op 1 september 2021, zijn opnieuw gepubliceerd op 3 september om een prijsprobleem in Rusland te corrigeren.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -257,16 +292,16 @@ Indirecte providers en directe factuurpartners die permanente software- en softw
 
 ### <a name="details"></a>Details
 
-De prijslijsten voor doorlopende software- en softwareabonnementen die op 1 september zijn gepubliceerd, hadden een onjuiste prijsverhoging van 15,2% voor alle producten.
+De prijslijsten voor doorlopende software en softwareabonnementen die op 1 september zijn gepubliceerd, hadden een onjuiste prijsverhoging van 15,2% voor alle producten.
 
 De prijsverhoging van ~15,2% wordt van kracht op 1 oktober **2021,** niet in september. De prijslijsten zijn opnieuw gepubliceerd met de juiste prijsinformatie.
 
-Partners die producten hebben gekocht tussen 1 september en 3 september, worden tegen de gecorrigeerde prijzen in rekening gebracht, zoals wordt weergegeven in de meest recente prijslijsten.
+Partners die producten hebben gekocht tussen 1 september en 3 september, worden in rekening gebracht tegen de gecorrigeerde prijzen die worden weergegeven in de meest recente prijslijsten.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Partners die permanent software- en softwareabonnementen in Rusland hebben, moeten de meest recente prijslijst downloaden om de gecorrigeerde prijzen te zien.
-- Raadpleeg deze aankondiging voor meer informatie over de prijsverhogingen die in oktober worden [verwacht.](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/)
+- Partners die permanent software- en softwareabonnementen in Rusland vereenig, moeten de meest recente prijslijst downloaden om de gecorrigeerde prijzen te zien.
+- Raadpleeg deze aankondiging voor meer informatie over de prijsverhogingen die in oktober [worden verwacht.](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/)
 
 _____________
 
@@ -287,7 +322,7 @@ Indirecte providers en directe factuurpartners die op licenties gebaseerde servi
 
 ### <a name="details"></a>Details
 
-De prijslijst van september en de preview-versie van oktober voor op licenties gebaseerde services die zijn gepost op 1 september 2021, hadden een onjuiste lijstprijs voor Microsoft 365 Business Basic. Gecorrigeerde prijslijsten zijn gepubliceerd op 2 september 2021. Dit heeft alleen gevolgen voor USD.
+De prijslijst van september en de preview-versie van oktober voor op licenties gebaseerde services die zijn gepost op 1 september 2021 hadden een onjuiste lijstprijs voor Microsoft 365 Business Basic. Gecorrigeerde prijslijsten zijn gepubliceerd op 2 september 2021. Dit heeft alleen gevolgen voor USD.
 
 De beïnvloede aanbieding omvat:
 
@@ -314,7 +349,7 @@ Vandaag de dag zijn Zij en Zij door Microsoft beheerde landen.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners die een transact hebben in Voor en Doorn.
+Partners die een transact hebben in Hebben en Moeten.
 
 ### <a name="details"></a>Details
 
@@ -344,7 +379,7 @@ Partners die werken in het Cloud Solution Provider (CSP)-programma.
 
 Microsoft Intune is het meest uitgebreide uniforme eindpuntbeheerplatform voor het beheren en beveiligen van zowel fysieke als virtuele eindpunten in uw organisatie. We kondigen een nieuwe Intune-aanbieding per apparaat aan om Enterprise-organisaties te helpen bij het beheren van apparaten die zijn toegewezen aan een geverifieerde gebruiker (dat wil zeggen niet gebruikt door meerdere geverifieerde gebruikers).
 
-Deze aanbieding, die beschikbaar is op 1 september 2021, maakt gebruik van Intune per apparaat tijdens het toevoegen van Azure Active Directory (Azure AD). Het is een volledig functionele out-of-the-box-ervaring en bevat de volgende serviceplannen:
+Deze aanbieding, beschikbaar op 1 september 2021, maakt gebruik van Intune per apparaat tijdens het toevoegen van Azure Active Directory (Azure AD). Het is een volledig functionele out-of-the-box-ervaring en bevat de volgende serviceplannen:
 
 - Exchange Stichting
 - Microsoft Intune
@@ -392,37 +427,37 @@ Op 19 augustus 2021 heeft [Microsoft](https://partner.microsoft.com/resources/de
 
 #### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Introductie van aanbiedingen op basis van een seat voor geïntegreerde sandboxtests
 
-Vanaf 1 september 2021 biedt Microsoft op seat gebaseerde aanbiedingen voor geïntegreerde [sandboxtests](/partner-center/develop/test-and-debug) in de nieuwe [commerce-ervaring](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) voor het CSP-programma.
+Met ingang van 1 september 2021 heeft Microsoft op seat gebaseerde aanbiedingen ingeschakeld voor geïntegreerde [sandboxtests](/partner-center/develop/test-and-debug) in de nieuwe [commerce-ervaring](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) voor het CSP-programma.
 
 De toevoeging van Microsoft 365-, Dynamics 365-, Power Platform- en Windows 365-aanbiedingen in CSP aan de nieuwe commerce-ervaring is een andere belangrijke mijlpaal in ons nieuwe commercetraject. Microsoft investeert in productinnovaties, betere hulpprogramma's en toegang tot nieuwe zakelijke kansen waarmee partners hun CSP-omzet kunnen vergroten en klanten meer opties kunnen bieden. We ontwikkelen ons commerceplatform en stroomlijnen de processen voor order- en abonnementsbeheer om partners en klanten te helpen slagen via digitale transformatie.
 
 Partners die deelnemen aan de sandbox-testomgeving hebben vroegtijdig inzicht in de nieuwe commerce-ervaring voor aanbiedingen op basis van seat, waardoor vooraf plannen, operationele activiteiten en technische integratie mogelijk zijn voor deze aanbiedingen.
 
-Door deel te nemen aan de sandbox-omgeving kan uw organisatie:
+Door deel te nemen aan de sandbox-omgeving kan uw organisatie het volgende doen:
 
 - API-integratie uitvoeren in een testomgeving voordat u deze in productie implementeert
-- Voldoende tijd om de nieuwe commerce-ervaring vóór de lancering operationeel te maken
+- Voldoende tijd om de nieuwe commerce-ervaring operationeel te maken vóór de lancering
 
 De tabel bevat een overzicht van de belangrijkste functies die beschikbaar zijn in de geïntegreerde sandbox-testomgeving:
 
-| Instellen van gedelegeerde beheerdersbevoegdheden van partner/klant | Gedeeltelijke subupgrade- volledige functie |
+| Instellen van door partner/klant gedelegeerde beheerdersbevoegdheden | Gedeeltelijke subupgrade- volledige functie |
 | ----------- | ---------------|
 | Modellen met 1 laag, 2 lagen | Gedeeltelijke abonnementsupgrade via ondersteuning |
-| Side-by-side detectie van huidige en nieuwe ervaring | Geplande wijzigingen bij verlenging  |
+| Side-by-side detectie van de huidige en nieuwe ervaring | Geplande wijzigingen bij verlenging  |
 | Modern ontdekken en kopen (producten selecteren) | Opschorten/hervatten (via ondersteuning) |
-| Abonnement beheren (automatisch verlengen, plaatsen toevoegen, beweging annuleren) | Gratis proefversies (alleen MAC-presentatie) |
+| Abonnement beheren (automatisch verlengen, plaatsen toevoegen, beweging annuleren) | Gratis proefversies (alleen MAC-presentment) |
 | Onafhankelijke invoegtoepassingen  | Partnervaluta |
 | Factureringsplannen | Prijstransparantie  |
 | Levenscyclusbeheer van abonnementen (respijtperiode) | Jaarlijkse factureringsplannen voor aanbiedingen voor meerdere jaren  |
 | Eigendomsbeperkingen | Suspend/resume (via self-serve)  |
-| Factuur-/reconbestanden | Opnieuw toewijzen van auto-seat voor overgangen van SKU's voor volledige hoeveelheid |
+| Factuur-/reconbestanden | Automatische-seat opnieuw toewijzen voor SKU-overgangen voor volledige hoeveelheid |
 | SKU-upgrades voor volledige hoeveelheid op de korte termijn | Gratis proefversie (met volledige presentatie) |
 | Afdwingen van annuleringsbeleid: 30 dagen blok annuleren na 30 dagen (wordt bij algemene beschikbaarheid gewijzigd in 72 uur) |  |
 |
 
 #### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Herinnering voor aanstaande CSP Q&A-aanroepen in september
 
-Registreer u voor de komende [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) op 15 september en 16 september om te leren en vragen te stellen over de nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based aanbiedingen voor breedte beweging vanaf oktober 2021. CSP Community Q&A-aanroepen zijn speciaal bedoeld om CSP directe factuur en indirecte partners te helpen met vragen met betrekking tot CSP-lanceringen en aanstaande wijzigingen. Voor uw gemak worden communityverzamelingen van tevoren beschikbaar gesteld in de galerie voor [gereedheid](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) van partners, waar u materiaal kunt bekijken dat wordt besproken op de Q&A-aanroep.
+Registreer u voor de komende [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) op 15 en 16 september om te leren en vragen te stellen over de nieuwe commerce-ervaring voor Microsoft 365, Dynamics 365, Power Platform en Windows 365 seat-based aanbiedingen voor breedte beweging vanaf oktober 2021. CSP Community Q&A-aanroepen zijn speciaal bedoeld om CSP directe factuur en indirecte partners te helpen met vragen met betrekking tot CSP-lanceringen en aanstaande wijzigingen. Voor uw gemak worden communityverzamelingen van tevoren beschikbaar gesteld in de galerie voor [gereedheid](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) van partners, waar u materiaal kunt bekijken dat wordt besproken op de Q&A-aanroep.
 
 Als u aanwezig wilt zijn en/of eerdere opnamen van CSP Fundamentals-aanroepen wilt vinden, raadpleegt u CSP fundamentals registration (Registratie van [basisprincipes van CSP).](https://globalpbocomm.eventbuilder.com/CSPFundamentals)
 
