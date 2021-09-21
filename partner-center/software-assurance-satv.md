@@ -10,15 +10,15 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.openlocfilehash: e9313a7d7f6554a544eeb81a023db3a3a3eeff22
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: ab5eda007f87f22fa3375b8e05adfccd6ebc285e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127966187"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "128058923"
 ---
 # <a name="training-vouchers-program-retirement"></a>Pensioen van trainingsprogramma voor het programma
 
-Software Assurance SatV's (trainingsprogramma's) worden volledig buiten gebruik Software Assurance-voordelen, maar klanten kunnen hun trainingsdagen blijven gebruiken voor training met docent terwijl de docent geldig is. Dit zijn de belangrijke datums voorafgaand aan de uittreding van het programma: 
+Software Assurance SatV's (Training Instructor) worden volledig buiten gebruik genomen van Software Assurance-voordelen, maar klanten kunnen hun cursusdagen blijven gebruiken voor training met docent terwijl de docent geldig is. Dit zijn de belangrijke datums voorafgaand aan de uittreding van het programma: 
 
 - 1 februari 2020: Azure-training is teruggetrokken uit de trainingscatalogus.
 - 1 februari 2020: TrainingSprogramma kan niet meer worden geconverteerd naar Planning Services-dagen.  
@@ -85,6 +85,6 @@ Lees de veelgestelde vragen en bekijk het [SATV-programmabeleid voor meer inform
 
 Zie ook:
 
-- [Software Assurance trainingsprogrammawerkstroom (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
+- [Software Assurance Werkstroom voor trainingsprogramma's (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
 - [Software Assurance Veelgestelde vragen over trainingsprogramma's (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
 - [Software Assurance(SATV)-beleid voor training](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
