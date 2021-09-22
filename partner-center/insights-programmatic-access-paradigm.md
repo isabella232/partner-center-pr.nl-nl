@@ -9,11 +9,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
 ms.openlocfilehash: 304607b5d79b0ad8a07c3efe690ccb7feef83331
-ms.sourcegitcommit: ab5eda007f87f22fa3375b8e05adfccd6ebc285e
+ms.sourcegitcommit: 23ba623b50b06c866703fd876f1b40f3a49ce504
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/21/2021
-ms.locfileid: "128058940"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128074611"
 ---
 # <a name="programmatic-access-paradigm"></a>Programmatisch toegangsparadigma
 
@@ -26,7 +26,7 @@ Deze lijst bevat meer informatie over afbeelding 1.
 
 1. De clienttoepassing kan het aangepaste rapportschema/de aangepaste sjabloon definiëren door de [API rapportquery maken aan te roepen.](#create-report-query-api) U kunt ook een rapportsjabloon (QueryId) kiezen uit de voorbeelden van de rapportsjabloonbibliotheek in Lijst met systeemquery's voor programmatische toegang tot [partnerinzichten.](insights-programmatic-system-queries.md)
 2. Als dit is gelukt, retourneert de API Rapportquery maken de QueryId.
-3. De clienttoepassing moet vervolgens [](#create-report-api) de API Rapport maken aanroepen met behulp van de QueryId, samen met de begindatum van het rapport, het herhalingsinterval, het terugkeerpatroon en een optionele callback-URI.
+3. De clienttoepassing moet vervolgens [](#create-report-api) de API Rapport maken aanroepen met behulp van de QueryId, samen met de begindatum van het rapport, herhalingsinterval, terugkeerpatroon en een optionele callback-URI.
 4. Bij geslaagd retourneert [de API Rapport maken](#create-report-api) de ReportId.
 5. De clienttoepassing krijgt een melding via de callback-URL zodra de rapportgegevens gereed zijn om te worden gedownload.
 6. De clienttoepassing gebruikt vervolgens de GET [Report Executions-API om](#get-report-execution-api) de status van het rapport op te vragen met de rapport-id en het datumbereik.
@@ -40,7 +40,7 @@ Hoewel we [systeemquery's bieden die](insights-programmatic-system-queries.md) u
 
 De API helpt bij het maken van aangepaste query's die de gegevensset definiëren van waaruit kolommen en metrische gegevens moeten worden geëxporteerd. De API biedt de flexibiliteit om een nieuwe rapportagesjabloon te maken op basis van de behoeften van uw bedrijf.  
 
-U kunt ook de [systeemquery's gebruiken die](insights-programmatic-system-queries.md) we bieden. Wanneer aangepaste rapportsjablonen niet nodig zijn, kunt u [Rapport-API](#create-report-api) maken rechtstreeks aanroepen met behulp van de QueryId's van de systeemquery's die worden geleverd.  
+U kunt ook de [systeemquery's gebruiken die](insights-programmatic-system-queries.md) we bieden. Wanneer u geen aangepaste rapportsjablonen nodig hebt, kunt u [Rapport-API](#create-report-api) maken rechtstreeks aanroepen met behulp van de QueryIds van de systeemquery's die worden geleverd.  
 
 In het volgende voorbeeld ziet u hoe u een aangepaste query maakt om de top 10 klanten op te halen op omzet voor de afgelopen maand.
 
@@ -83,7 +83,7 @@ Deze tabel bevat de belangrijkste definities van elementen in de nettolading van
 
 |Parameter|    Vereist     |    Beschrijving     |    Toegestane waarden     |
 |-----|    -----    |    -----    |    -----    |
-|Naam |    Yes     |    Gebruiksvriendelijke naam van de query     |    tekenreeks     |
+|Name |    Yes     |    Gebruiksvriendelijke naam van de query     |    tekenreeks     |
 |    Beschrijving     |    Nee     |    Beschrijving van wat de query retourneert     |    tekenreeks     |
 |    Query’s uitvoeren     |    Yes     |    Rapportqueryreeks     |    Gegevenstype: tekenreeks <br> [Aangepaste query op](insights-programmatic-custom-query.md) basis van bedrijfsvraag |
 |        |        |        |        |
@@ -127,7 +127,7 @@ Deze tabel bevat de belangrijkste definities van elementen in de nettolading van
 |    Parameter     |    Beschrijving     |
 |    ----    |    ----    |
 |    QueryId     |    Universally Unique Identifier (UUID) van de query die u hebt gemaakt     |
-|    Naam     |    Gebruiksvriendelijke naam voor de query in de nettolading van de aanvraag     |
+|    Name     |    Gebruiksvriendelijke naam voor de query in de nettolading van de aanvraag     |
 |    Description     |    Beschrijving gegeven tijdens het maken van de query     |
 |    Query’s uitvoeren     |    Rapportquery doorgegeven als invoer tijdens het maken van de query     |
 |    Type     |    Ingesteld op `userDefined`     |
@@ -145,7 +145,7 @@ Voor systeemquery's die we bieden, kan de API rapport maken ook worden aangeroep
 
 ### <a name="callback-url"></a>URL voor aanroep
 
-De API voor het maken van een rapport accepteert een callback-URL. Deze URL wordt aangeroepen zodra het genereren van het rapport is geslaagd. De callback-URL moet openbaar bereikbaar zijn. Naast de URL kan ook een callback-methode worden gegeven. De callback-methode kan alleen GET of POST zijn. De standaardmethode als er geen waarde wordt doorgegeven, is POST. De reportId die het genereren heeft voltooid, wordt altijd terugverdiend tijdens de callback.
+De API voor het maken van een rapport accepteert een callback-URL. Deze URL wordt aangeroepen zodra het genereren van het rapport is geslaagd. De callback-URL moet openbaar bereikbaar zijn. Naast de URL kan ook een callback-methode worden gegeven. De callback-methode kan alleen GET of POST zijn. De standaardmethode als er geen waarde wordt doorgegeven, is POST. De reportId die het genereren heeft voltooid, wordt altijd tijdens de callback doorberekend.
 
 POST-callback: Als de doorgegeven URL `https://www.contosso.com/callback` is, wordt de teruggeroepen URL `https://www.contosso.com/callback/<reportID>` 
 
@@ -208,7 +208,7 @@ De belangrijkste definities van elementen in de nettolading van de aanvraag word
 |    QueryId     |    Yes     |    Rapportquery-id     |    tekenreeks     |
 |    StartTime     |    Yes     |    UTC-tijdstempel waarop het genereren van het rapport begint. <br> De indeling moet zijn: yyyy-MM-ddTHH:mm:ssZ       |    tekenreeks     |
 |    ExecuteNow     |    No     |    Deze parameter moet worden gebruikt om een rapport te maken dat slechts één keer wordt uitgevoerd. `StartTime`, `RecurrenceInterval` en worden genegeerd als deze is ingesteld op `RecurrenceCount` true. Het rapport wordt onmiddellijk op een asynchrone manier uitgevoerd     |    waar/onwaar     |
-|    QueryStartTime     |    No     |    Hiermee geeft u eventueel de begintijd op voor de query die de gegevens extraheert. Deze parameter is alleen van toepassing voor een een time-execution reports die `ExecuteNow` zijn ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
+|    QueryStartTime     |    No     |    Hiermee geeft u eventueel de begintijd op voor de query die de gegevens extraheert. Deze parameter is alleen van toepassing voor een een time-execution-rapporten die `ExecuteNow` zijn ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
 |    QueryEndTime     |    No     |    Hiermee geeft u eventueel de eindtijd op voor de query die de gegevens extraheert. Deze parameter is alleen van toepassing voor één keer uitvoeringsrapport dat `ExecuteNow` is ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
 |    RecurrenceInterval     |    Yes     |    Frequentie in uren waarop het rapport moet worden gegenereerd. <br> Minimumwaarde is 4 en Maximumwaarde is 2160.      |    geheel getal     |
 |    RecurrenceCount     |    No     |    Het aantal rapporten dat moet worden gegenereerd.     |    geheel getal     |

@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
 ms.openlocfilehash: 2b05046118c83c0d398272da68054a8a0c9c48e4
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: 23ba623b50b06c866703fd876f1b40f3a49ce504
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127987624"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128074628"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Handleiding voor het maken en beheren van IOT-deals in Partner Center (PC) voor IOT-partners die migreren vanuit Partner Sales Verbinding maken (PSC)
 
@@ -146,7 +146,7 @@ U kunt de mogelijkheden voor bulksgewijs downloaden en uploaden in PSC gebruiken
 >[!Note]
 > De dealmigratie slaagt zelfs als niet aan de bovenstaande vereisten wordt voldaan. U kunt de status van de deal echter niet wijzigen als een van de hierboven genoemde vereiste velden in Partner Center niet beschikbaar zijn. Vervolgens moet u alle vereiste gegevens invoeren die ontbreken in de deals in Partner Center aan de slag te gaan. **Het wordt ten zeerste aangeraden om de in aanmerking komende deals in PSC op te schonen voordat u deze migreert naar Partner Center.**
 
-De dealmigratie in Partner Center is gebouwd als een ervaring met één klik. U hoeft alleen maar op de knop **'Deals migreren' te klikken** zodra uw bedrijf klaar is om de in aanmerking komende deals te migreren. **U kunt de deals die u wilt migreren vanuit PSC niet kiezen. Als u geen deals wilt migreren naar Partner Center, verplaatst u deze naar de gesloten status in PSC voordat u de migratie start.**
+De dealmigratie in Partner Center is gebouwd als een ervaring met één klik. U hoeft alleen maar op de knop Deals **migreren te klikken** zodra uw bedrijf klaar is om de in aanmerking komende deals te migreren. **U kunt de deals die u wilt migreren vanuit PSC niet kiezen. Als u geen deals wilt migreren naar Partner Center, verplaatst u deze naar de gesloten status in PSC voordat u de migratie start.**
 
 >[!Note]
 > Nadat de migratie is geïnitieerd, kan het tot 24 uur duren voordat **de deals zijn gemigreerd.**
@@ -163,12 +163,12 @@ Het rapport bevat de onderstaande details.
 
 Alle deals die zijn gemigreerd, zijn niet zichtbaar in PSC. U kunt blijven werken aan de gemigreerde deals in Partner Center.
 
-Deals die zijn gemigreerd vanuit PSC zijn beschikbaar op het tabblad Uitgaand van de pagina Kansen voor co-verkoop. Alle deals worden gemaakt als door partners geleide deals. Ze zijn zichtbaar voor Microsoft-verkopers.
+Deals die zijn gemigreerd vanuit PSC zijn beschikbaar op het tabblad Uitgaand van de pagina Verkoopkansen voor co-verkoop. Alle deals worden gemaakt als door partners geleide deals. Ze zijn zichtbaar voor Microsoft-verkopers.
 
 >[!Important]
-> Als er fouten zijn waardoor sommige deals niet kunnen worden gemigreerd, kunt u de dealmigratie opnieuw starten door te klikken op de knop **Deals migreren.** Deze functie wordt alleen ingeschakeld als er nog enkele in aanmerking komende deals moeten worden gemigreerd. Dit is ook handig als u zich in de overgangsfase waar een aantal nieuwe deals worden gemaakt in PSC na het initiëren van de dealmigratie.
+> Als er fouten zijn waardoor sommige deals niet kunnen worden gemigreerd, kunt u de dealmigratie opnieuw starten door te klikken op de knop **Deals migreren.** Deze wordt alleen ingeschakeld als er nog deals zijn die in aanmerking komen om te worden gemigreerd. Dit is ook handig als u zich in de overgangsfase waar een aantal nieuwe deals worden gemaakt in PSC na het initiëren van de dealmigratie.
 
-Zodra alle deals zijn gemigreerd, wordt er een banner  weergegeven met 'Geen **deals** om te migreren' met de knop 'Deals migreren' **uitgeschakeld.**
+Zodra alle deals zijn gemigreerd, wordt er een banner weergegeven met 'Geen **deals** om te migreren' met de knop **'Deals** migreren' **uitgeschakeld.**
 
 ## <a name="next-steps"></a>Volgende stappen
 
@@ -177,7 +177,7 @@ Dit is een belangrijke stap, waarmee u wordt voorbereid op het beheer van IOT-de
 
 ## <a name="differences-between-psc-and-pc-workflows"></a>Verschillen tussen PSC- en PC-werkstromen
 
-|**Scenario**|**Partnerverkoop Verbinding maken**|**Partnercentrum**|
+|**Scenario**|**Partner sales Verbinding maken**|**Partnercentrum**|
 |-----|:-----|:-----|
 |Gebruikersrollen|PSC heeft beheerders-, dealmanager- en verkoperrollen.|Partner Center heeft [de rollen Verwijzingsbeheerder](permissions-overview.md#manage-referrals) en Verwijzingsgebruiker die zowel lees- als schrijfmachtigingen geeft op basis van het locatiebereik.|
 |Microsoft-verkopersgegevens|Zichtbaar zodra er een deal wordt gemaakt.|Microsoft-verkopersdetails zijn niet zichtbaar voor partners, omdat het dealtype wordt geleid door een partner.
@@ -191,7 +191,7 @@ In de volgende secties worden veelgestelde vragen over de migratie beantwoord.
 
 ### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 - Wat moet ik doen als ik geen toegang heb tot Partner Center?
 
-U kunt contact opnemen met uw beheerders die worden vermeld op de pagina Geen toegang om de rollen toegewezen te krijgen. U hebt de [verwijzingsbeheerdersrol nodig](permissions-overview.md#manage-referrals) voor de lees- en schrijfmachtiging in de sectie verwijzingen. Als u alleen zakelijke profielen beheert, hebt u de beheerdersrol bedrijfsprofiel nodig in Partner Center.
+U kunt contact opnemen met uw beheerders die worden vermeld op de pagina Geen toegang om de rollen toegewezen te krijgen. U hebt de [verwijzingsbeheerdersrol](permissions-overview.md#manage-referrals) nodig voor de lees- en schrijfmachtiging in de sectie verwijzingen. Als u alleen zakelijke profielen beheert, hebt u de beheerdersrol bedrijfsprofiel nodig in Partner Center.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Afbeelding van de ervaring geen toegang in Partner Center.":::
 
