@@ -12,11 +12,11 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 09/01/2021
 ms.openlocfilehash: a6cd5e9734a2ba9657649f012225dee96cd1e265
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127960890"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309725"
 ---
 # <a name="april-2021-announcements"></a>Aankondigingen van april 2021
 
@@ -83,7 +83,7 @@ Partner Center API Swagger-documenten zijn gemigreerd van de vorige [Swagger-doc
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Partners voor directe factuur en indirecte providers die deelnemen aan het Cloud Solution Provider (CSP)-programma dat gebruik maakt van de Partner Center API's
+Directe factuurpartners en indirecte providers die deelnemen aan het Cloud Solution Provider (CSP)-programma dat gebruik maakt van de Partner Center API's
 
 ### <a name="details"></a>Details
 
@@ -91,7 +91,7 @@ Vanaf 26 april 2021 bevindt de Partner Center API Swagger-documentatie, inclusie
 
 ### <a name="benefits"></a>Voordelen
 
-De Partner Center API Swagger biedt een **Functie** uitproberen. Als u deze functie wilt gebruiken, moet u een Bearer-token hebben, dat u kunt genereren door de stappen te volgen die worden vermeld in [Partner Center Verificatie.](/partner-center/develop/partner-center-authentication#app--user-authentication)
+De Partner Center API Swagger-documentatie biedt de **functie Uitproberen.** Als u deze functie wilt gebruiken, moet u een Bearer-token hebben, dat u kunt genereren door de stappen te volgen die worden vermeld in [Partner Center Verificatie.](/partner-center/develop/partner-center-authentication#app--user-authentication)
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -102,7 +102,7 @@ Deel deze informatie binnen uw organisatie, zodat het juiste team de processen k
 Voor vragen over deze aanbiedingen raadpleegt u uw relevante Yammer community's.
 
 ________________
-## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Cloud Solution Provider (CSP)-beleid voor de retourperiode van software en de vervaldatum van de downloadkoppeling
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Cloud Solution Provider (CSP)-beleid voor retourperiode van software en kennisgeving over het verlopen van de downloadkoppeling
 
 ### <a name="categories"></a>Categorieën
 
@@ -119,11 +119,11 @@ Partners die aanbiedingen voor doorlopende software of softwareabonnementen in C
 
 ### <a name="details"></a>Details
 
-Let op de volgende belangrijke meldingen met betrekking tot permanente software en softwareabonnementen via Partner Center:
+Houd rekening met de volgende belangrijke meldingen met betrekking tot continue software- en softwareabonnementen via Partner Center:
 
 #### <a name="software-return-period-policy"></a>Beleid voor retourperiode van software
 
-Vanaf 1 juni 2021 verandert de retourperiode voor softwareaanbiedingen in CSP, zoals vermeld in de Microsoft Partner-overeenkomst (MPA), van 60 dagen vanaf de orderdatum in 30 dagen na de orderdatum.
+Vanaf 1 juni 2021 verandert de retourperiode voor softwareaanbiedingen in CSP, zoals vermeld in de Microsoft Partner-overeenkomst (MPA), van 60 dagen vanaf de orderdatum in 30 dagen vanaf de orderdatum.
 
 Nadat een order voor een softwareaanbieding is verzonden, hebben partners 30 dagen na de orderdatum de tijd om wijzigingen in een dergelijke volgorde in te dienen:
 
@@ -135,7 +135,7 @@ Dit bericht is een vervolg op onze e-mailberichten die in december 2020 en april
 
 #### <a name="software-download-link-expiry"></a>Het downloaden van software verloopt
 
-Vanaf 3 juni 2021 hebben de software downloadkoppelingen voor permanente software- en softwareabonnementproductaankopen via Partner Center een vervaldatum van vijf dagen vanaf de eerste download. De verloopperiode is van toepassing op alle aankopen vóór 3 juni 2021, en op of na 3 juni 2021.
+Vanaf 3 juni 2021 hebben de software downloadkoppelingen voor continue software- en softwareabonnementproductaankopen via Partner Center een vervaldatum van vijf dagen vanaf de eerste download. De verloopperiode is van toepassing op alle aankopen vóór 3 juni 2021, en op of na 3 juni 2021.
 
 ### <a name="next-steps"></a>Volgende stappen
 
@@ -205,9 +205,9 @@ Gebruik de komende maanden om resellers met een open licentie te helpen zich in 
 
 #### <a name="open-license-resellers"></a>Licentie-resellers openen
 
-- Als uw organisatie momenteel niet is ingeschreven bij het CSP-programma, neem dan contact op met uw distributeur voor informatie over hoe u aan de slag kunt gaan. Verbinding maken indirecte provider in Verbinding maken met een vertrouwde indirecte provider en [uw bedrijf laten groeien.](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)
+- Als uw organisatie momenteel niet is ingeschreven bij het CSP-programma, neem dan contact op met uw distributeur voor informatie over hoe u aan de slag kunt gaan. Verbinding maken indirecte provider op Verbinding maken met een vertrouwde indirecte provider en [laat uw bedrijf groeien.](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)
 
-- Als uw organisatie al is ingeschreven bij het CSP-programma, kunt u meer informatie krijgen over permanente software in CSP op [Permanent software in Cloud Solution Provider programma](https://partner.microsoft.com/resources/collection/software-in-csp).
+- Als uw organisatie al is ingeschreven bij het CSP-programma, kunt u meer informatie krijgen over permanente software in CSP op [Permanent software in](https://partner.microsoft.com/resources/collection/software-in-csp)het Cloud Solution Provider programma .
 
 ### <a name="questions"></a>Vragen?
 
@@ -243,13 +243,13 @@ Koppelingen naar deze handleiding worden ook opgenomen in de volgende verzamelin
 
 - [Partner-nieuwsbrieven,](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)zoals maandelijkse update van CSP
 
-Als maandelijkse herinnering publiceren we ook een Partner Center bij elk nieuw probleem van de algemene handleiding voor promotie-gereedheid.
+Als maandelijkse herinnering publiceren we ook een Partner Center aankondiging met elk nieuw probleem van de algemene handleiding voor promotie-gereedheid.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Aan het begin van elke maand vindt u de meest recente algemene handleiding voor [gereedheid](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) voor promotie in de [resourcegalerie van Operations Readiness.](https://partner.microsoft.com/resources)
+Aan het begin van elke maand vindt u de meest recente algemene handleiding voor [gereedheid](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) voor promotie in de resourcegalerie van [Operations Readiness.](https://partner.microsoft.com/resources)
 
-Deel deze informatie met de juiste contactpersonen in uw organisaties en laat ons weten hoe nuttig de handleiding is via de pagina 'Was deze pagina nuttig?' aan het einde van elke pagina.
+Deel deze informatie met de juiste contactpersonen in uw organisatie en laat ons weten hoe nuttig de handleiding is via de pagina 'Was deze pagina nuttig?' aan het einde van elke pagina.
 
 ________________
 ## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Update en Cloud Solution Provider van de CSP-community van april
@@ -271,7 +271,7 @@ Directe CSP-factuurpartners en indirecte providers
 
 Deze maand bevatten de resources de volgende belangrijke onderwerpen:
 
-- [Wijzigingen in het CSP-programma en open license-programma bijwerken](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+- [Updates voor de ontwikkeling van CSP-programma's en wijzigingen in het Open License-programma](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
 
 - [Wijzigingen in de onboardingvereisten voor CSP-klanten in bepaalde regio's](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
 
@@ -285,21 +285,21 @@ In de [CSP-communityverzameling](https://partner.microsoft.com/resources/collect
 
 - De nieuwe [kalender voor productlancering,](https://partner.microsoft.com/resources/detail/product-launch-calendar-april-pdf)waar u toekomstige productlanceringen en -aanbiedingen kunt bekijken.
 
-- [CSP start updatebronnen](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) met eenvoudig te gebruiken inhoud over belangrijke operationele wijzigingen.
+- [CSP start updatebronnen met](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) eenvoudig te gebruiken inhoud over belangrijke operationele wijzigingen.
 
 - [Vernieuwingen en herinneringen over](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf) belangrijke CSP-onderwerpen die interesse en query's ontvangen.
 
 #### <a name="csp-community-call-qas"></a>CSP Community Call Q&As
 
-Community Call Q&As zijn beschikbaar om u te helpen met vragen met betrekking tot toekomstige wijzigingen. Registreer u nu voor CSP Community Call Q&Zoals die plaatsvinden in april, mei en juni. Deze zijn gericht op de meest recente lanceringen, belangrijke vernieuwingen en herinneringen.
+Community Call Q&As zijn beschikbaar om u te helpen met vragen met betrekking tot toekomstige wijzigingen. Registreer u nu voor CSP Community Call Q&Zoals die worden uitgevoerd in april, mei en juni. Deze zijn gericht op de meest recente lanceringen, belangrijke vernieuwingen en herinneringen.
 
 [Registreer u hier.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="next-steps"></a>Volgende stappen
 
-Bekijk de resources van de community en registreer u voor de Q-&A.
+Bekijk de resources van de community en registreer u voor de Q&A-communityoproep.
 
-Om ervoor te zorgen dat u het meeste uit de Community-oproep Q&A kunt halen, bekijkt u de inhoud van de community op aanvraag en dient u uw vragen maximaal 48 uur vóór de oproep in.
+Om ervoor te zorgen dat u het meeste uit de Community Call Q&A kunt halen, bekijkt u de inhoud van de community op aanvraag en dient u uw vragen maximaal 48 uur vóór de oproep in.
 
 ### <a name="questions"></a>Vragen?
 
@@ -322,13 +322,13 @@ Partners die academicus, non-profit en Government Community Cloud (GCC) verkopen
 
 ### <a name="details"></a>Details
 
-Deze aankondiging is een vervolg op de verbeteringen Partner Center [in december zijn uitgebracht.](./2020-december.md#1) Als onderdeel van deze release zijn nieuwe API's voor GET- en POST-kwalificaties geïmplementeerd. Als gevolg hiervan wordt de bestaande GET-kwalificatie op 6 mei **2021** ingetrokken. Op dat moment moet u zijn overstappen op het gebruik van de nieuwe POST Partner Center API's. Met de nieuwe POST-API's kunt u Education-aanbiedingen aanschaffen, terwijl u met de nieuwe GET-API's vooraf gekwalificeerde Non-profitorganisaties en GCC aanschaffen.
+Deze aankondiging is een vervolg op de verbeteringen Partner Center [in december zijn uitgebracht.](./2020-december.md#1) Als onderdeel van deze release zijn nieuwe API's voor GET- en POST-kwalificaties geïmplementeerd. Als gevolg hiervan wordt de bestaande GET-kwalificatie op 6 mei **2021** ingetrokken. Op dat moment moet u zijn overstappen op het gebruik van de nieuwe POST Partner Center API's. Met de nieuwe POST-API's kunt u Education-aanbiedingen aanschaffen, terwijl u met de nieuwe GET-API's vooraf gekwalificeerde Non-profit- en GCC aanschaffen.
 
 ### <a name="next-steps"></a>Volgende stappen
 
 - **Werk bij naar de nieuwe API's** voor een geslaagde en tijdige overgang.
 
-- **Bekijk de nieuwe Partner Center API-wijzigingen** en Handleiding in de Operations Readiness-resources: verbeteringen Partner Center [Education-klantvalidatieproces.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Bekijk de nieuwe api Partner Center wijzigingen** en handleiding in de Operations Readiness-resources: verbeteringen Partner Center [Education-klantvalidatieproces.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
 - Deel deze informatie met de juiste teams binnen uw organisatie en met uw wederverkopers om hen te helpen zich voor te bereiden op deze wijzigingen.
 
@@ -338,13 +338,13 @@ Voor vragen met betrekking tot deze melding kunt u contact opnemen [met Partner 
 
 ### <a name="change-log"></a>Wijzigingenlogboek
 
-- 4 mei 2021: Laatste herinnering van aanstaande afschaffing van GET-kwalificatie
+- 4 mei 2021: Laatste herinnering aan aanstaande afschaffing van GET-kwalificatie
 
 - 9 april 2021: Herinnering aan aanstaande afschaffing van GET-kwalificatie 
 
-- Februari: Bijgewerkte tijdlijnen voor het aftrekken van GET-& PUT-kwalificaties
+- Februari: Tijdlijnen bijgewerkt voor afschaffing van GET-& PUT-kwalificaties
 
-- Januari: Herinnering aan aanstaande afschaffingen van GET-& PUT-kwalificaties
+- Januari: Herinnering aan toekomstige afschaffingen van GET-& PUT-kwalificaties
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nieuwe indeling voor de nieuwe PDF-factuur voor commerce in CSP
@@ -356,7 +356,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Microsoft introduceert een nieuwe indeling voor de nieuwe PDF-factuur voor commerce in het Cloud Solution Provider-programma (CSP) om factureringsgegevens per productdetails weer te geven in plaats van een SKU-beschrijving.
+Microsoft introduceert een nieuwe indeling voor de nieuwe PDF-factuur voor commerce in het Cloud Solution Provider-programma (CSP) om factureringsgegevens weer te geven op productdetails in plaats van SKU-beschrijving.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -364,23 +364,23 @@ Partners die het CSP-programma gebruiken
 
 ### <a name="details"></a>Details
 
-Vanaf mei 2021 introduceert Microsoft een nieuwe indeling voor de nieuwe PDF-factuur voor commerce in het CSP-programma om factureringsgegevens weer te geven op productdetails in plaats van SKU-beschrijving. Met deze nieuwe update aggregeren we de regelitems op producttype terwijl elk product op een afzonderlijke regel wordt weergegeven.
+Vanaf mei 2021 introduceert Microsoft een nieuwe indeling voor de nieuwe PDF-factuur voor commerce in het CSP-programma om factureringsgegevens per productdetails weer te geven in plaats van een SKU-beschrijving. Met deze nieuwe update aggregeren we de regelitems op producttype terwijl elk product op een afzonderlijke regel wordt weergegeven.
 
-Partners zullen deze wijziging van kracht zien in hun factuur van mei voor de factureringsperiode tussen 1 april 2021 en 30 april 2021. De betrokken aanbiedingen zijn Microsoft Azure gereserveerde instantie, Azure-abonnementen (Azure-abonnement) en Marketplace.
+Partners zullen deze wijziging van kracht zien in hun factuur voor mei voor de factureringsperiode tussen 1 april 2021 en 30 april 2021. De betrokken aanbiedingen zijn Microsoft Azure gereserveerde instantie, Azure-abonnementen (Azure-plan) en Marketplace.
 
 Alle credit-rebill-aanvragen die worden gedaan nadat de factuurindeling is bijgewerkt, worden gegenereerd in de nieuwe indeling.
 
-#### <a name="partner-benefits"></a>Partnervoordelen
+#### <a name="partner-benefits"></a>Voordelen van partners
 
 Deze update biedt de volgende verbeteringen in de factureringservaring voor partners:
 
-- Gereduceerde factuurgrootte met behoud van kritieke gegevens
+- Gereduceerde factuurgrootte terwijl kritieke gegevens behouden blijven
 
 - Afstemming van de indeling op de industriestandaarden voor compacte en gebruiksvriendelijke facturen 
 
 De volgende elementen worden niet beïnvloed:
 
-- Pagina factureringsoverzicht op de FACTUUR-PDF
+- Pagina factureringsoverzicht op de PDF-factuur
 
 - Bestaande facturerings-API's
 
@@ -393,7 +393,7 @@ De volgende elementen worden niet beïnvloed:
 Lees de informatie over dit onderwerp in de [resourcegalerie Operations Readiness](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) op de website van de Microsoft-partner. Voor meer informatie over facturerings- en belastingonderwerpen, waaronder factureringsresources, facturen, CSP-facturering en belastingen, gaat u naar de sectie Facturering [in](../billing.md) Partner Center.
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Wijzigingen in de onboardingvereisten Cloud Solution Provider CSP-klant
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Wijzigingen in de onboardingvereisten Cloud Solution Provider de klant (CSP)
 
 ### <a name="categories"></a>Categorieën
 
@@ -402,7 +402,7 @@ ________________
 
 ### <a name="summary"></a>Samenvatting
 
-Als onderdeel van onze toezegging om partners en klanten te helpen hun bedrijf te runnen op basis van vertrouwen, vragen we aanvullende klantgegevens aan, met ingang van 25 maart 2021.
+Als onderdeel van onze inzet om partners en klanten te helpen hun bedrijf te runnen op basis van vertrouwen, vragen we aanvullende klantgegevens aan, met ingang van 25 maart 2021.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
@@ -410,9 +410,9 @@ CSP-partners voor directe factuur en indirecte providers die nieuwe of bestaande
 
 ### <a name="details"></a>Details
 
-Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het transacteren van klantabonnementen in het CSP-programma. Op 25 maart 2021 introduceren we verbeteringen van Partner Center API en gebruikersinterface (UI) die van invloed zijn op partners die aan beide van de volgende criteria voldoen:
+Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele, veilige en veilige methode voor klantvalidatie voor het transacteren van klantabonnementen in het CSP-programma. Op 25 maart 2021 introduceren we verbeteringen in Partner Center API en gebruikersinterface (UI) die van invloed zijn op partners die aan beide van de volgende criteria voldoen:
 
-- De partner heeft een directe factureringsrelatie met Microsoft (wat betekent dat de partner een partner voor directe facturering of een indirecte provider is).
+- De partner heeft een directe factureringsrelatie met Microsoft (wat betekent dat de partner een directe factureringspartner of een indirecte provider is).
 
 - De partner doet zaken met nieuwe of bestaande klanten in de volgende landen:
 
@@ -432,9 +432,9 @@ Microsoft wordt uitgevoerd op vertrouwen. We zetten ons in voor een compatibele,
 
 Partners die aan de criteria voldoen, moeten de bedrijfsregistratie-id (ook wel de INN van de organisatie van de klant genoemd) en het telefoonnummer van een klant indienen wanneer ze de volgende keer een abonnement voor die klant bijwerken of maken. Deze partners kunnen ook een optionele middelste naam voor de klant invoeren.
 
-Houd er rekening mee dat wanneer u uw bedrijfsregistratie-id toevoegt, u uw zakelijke btw-id moet gebruiken en niet de persoonlijke id van de klant.
+Houd er rekening mee dat wanneer u uw bedrijfsregistratie-id toevoegt, u uw bedrijfsbelasting-id moet gebruiken en niet de persoonlijke id van de klant.
 
-Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben al een eerdere versie van november 2020 in gebruik.
+Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, hebben in november 2020 al een eerdere versie in gebruik.
 
 - Armenië
 - Azerbeidzjan
@@ -448,23 +448,23 @@ Partners die zaken doen met nieuwe of bestaande klanten in de volgende landen, h
 - Oekraïne
 - Oezbekistan
 
-Partners met klanten in de rest van de wereld hebben eind maart 2021 de mogelijkheid om de bedrijfsregistratie-id, het telefoonnummer en de middelste naam voor klanten in te voeren als optionele gegevens.
+Partners met klanten in de rest van de wereld kunnen eind maart 2021 de bedrijfsregistratie-id, het telefoonnummer en de middelste naam voor klanten invoeren als optionele details.
 
 ### <a name="next-steps"></a>Volgende stappen
 
-- Bekijk de technische documentatie en veelgestelde vragen in de verzameling [toegewezen partners](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
-- Bereid u voor op het opnemen van de wijzigingen Partner Center api en webgebruikerservaring. API's/SDK's zijn beschikbaar voor testen.
+- Bekijk de technische documentatie en veelgestelde vragen in de speciale [partnerverzameling](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) voor meer gedetailleerde richtlijnen.
+- Bereid u voor op het opnemen van de wijzigingen met behulp Partner Center API en webgebruikerservaring. API/SDK's zijn beschikbaar om te testen.
 - Zorg ervoor dat u de aanvullende gegevens indient bij het onboarden van nieuwe klanten of het wijzigen van bestaande klantgegevens.
-- Als u een CPV-oplossing (Configuratieschermleverancier) gebruikt, raadpleegt u uw CPV.
+- Als u een CPV-oplossing (Panel Vendor) gebruikt, raadpleegt u uw CPV.
 
 >[!NOTE]
->Als een CSP-transactie niet kan worden verwerkt, kan dit betekenen dat de tenant niet wordt gevalideerd. Als dit gebeurt, moet de klant een proefaanbieding aanschaffen via de Microsoft-beheerportal.
+>Als een CSP-transactie niet kan worden verwerkt, kan dit betekenen dat de tenant niet wordt gevalideerd. Als dit gebeurt, moet de klant een proefabonnement aanschaffen via de Microsoft-beheerportal.
 >
 >#### <a name="purchase-a-trial-offer"></a>Een proefversie aanschaffen
 >
 >1. Open de [portal van het Microsoft-beheercentrum.](https://admin.microsoft.com/)
 >
->2. Selecteer in het navigatiemenu links **Facturering** en vervolgens **Services aanschaffen.**
+>2. Selecteer in het navigatiemenu aan de **linkerkant Facturering** en vervolgens **Services aanschaffen.**
 >
 >3. Selecteer het plan en selecteer vervolgens **Uitchecken.**
 >
@@ -472,9 +472,9 @@ Partners met klanten in de rest van de wereld hebben eind maart 2021 de mogelijk
 
 ### <a name="questions"></a>Vragen?
 
-Neem contact op met uw belastingadviseur of lokale belastingbureau als u vragen hebt met betrekking tot de registratie-id van het bedrijf (ook wel INN of TIN genoemd). Microsoft kan geen richtlijnen geven over belastingzaken.
+Neem contact op met uw belastingadviseur of lokale belasting kantoor als u vragen hebt met betrekking tot de registratie-id van het bedrijf (ook wel INN of TIN genoemd). Microsoft kan geen richtlijnen geven over belastingzaken.
 
-Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u een [serviceaanvraag.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u [een serviceaanvraag](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ## <a name="view-this-months-product-launches-and-offers"></a><a name="1"></a>Productlanceringen en aanbiedingen van deze maand weergeven
 
@@ -485,11 +485,11 @@ Als u ondersteuning nodig hebt voor uw bewerkingen met Microsoft, opent u een [s
  
 ### <a name="summary"></a>Samenvatting
 
-De productlanceringsdatum van april 2021 is nu gepubliceerd.
+De kalender voor productlancering van april 2021 is nu gepubliceerd.
 
 ### <a name="impacted-audience"></a>Beïnvloede doelgroep
 
-Alle partners die het programma Cloud Solution Provider (CSP)
+Alle partners die het CSP-programma (Cloud Solution Provider) gebruiken
 
 ### <a name="details"></a>Details
 
@@ -501,4 +501,4 @@ Bekijk de [kalender voor productlancering](https://partner.microsoft.com/resourc
 
 ### <a name="questions"></a>Vragen?
 
-Raadpleeg uw relevante community's voor meer vragen over Yammer aanbiedingen.
+Als u meer vragen over deze aanbiedingen hebt, controleert u uw relevante Yammer community's.

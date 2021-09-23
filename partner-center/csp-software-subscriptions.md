@@ -9,22 +9,22 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 162de08f0114d24cc72d21387ca004e7901c15a2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 3123313525fb245db2abbe3175cd820b53c41898
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957358"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312201"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Softwareabonnementen verkopen via het Cloud Solution Provider (CSP)-programma
 
 **Juiste rollen:** beheeragent | Globale beheerder
 
-Met Azure-reserveringen en serverabonnementen (Windows Server- en SQL Server-abonnementen) kunnen partners in het CSP-programma beter in staat zijn om beter te voldoen aan de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare en permanente cloudworkloads. 
+Met Azure-reserveringen en serverabonnementen (Windows Server- en SQL Server-abonnementen) kunnen partners in het CSP-programma beter in op de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare en permanente cloudworkloads. 
 
-U kunt nu Azure-reserveringen en Server-abonnementen verkrijgen, inrichten en beheren namens commerciële klanten via Partner Center en de Azure Portal door gebruik te maken van de Azure Hybrid Benefit.
+U kunt nu Azure-reserveringen en Server-abonnementen namens commerciële klanten verkrijgen, inrichten en beheren via Partner Center en de Azure Portal door gebruik te maken van de Azure Hybrid Benefit.
 
-Met Azure Hybrid Benefit kunt u meer waarde uit uw Windows Server-licenties halen en tot 40 procent besparen op virtuele machines. U kunt het voordeel gebruiken met Windows Server Datacenter- en Standard-editielicenties die worden gedekt door Software Assurance. Afhankelijk van de editie kunt u uw licenties converteren of opnieuw gebruiken om virtuele machines van Windows Server in Azure uit te voeren en een lager basisrekentarief te betalen (bijvoorbeeld tarieven voor virtuele Linux-machines).
+Met Azure Hybrid Benefit kunt u meer waarde uit uw Windows Server-licenties halen en tot wel 40 procent besparen op virtuele machines. U kunt het voordeel gebruiken met licenties Windows Server Datacenter en Standard Edition die onder Software Assurance. Afhankelijk van de editie kunt u uw licenties converteren of opnieuw gebruiken om virtuele Windows Server-machines in Azure uit te voeren en een lager basisrekentarief te betalen (bijvoorbeeld tarieven voor virtuele Linux-machines).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Niet-beschikbare markten voor Azure-reserveringen
 
@@ -55,7 +55,7 @@ Met Azure Hybrid Benefit kunt u meer waarde uit uw Windows Server-licenties hale
 > | Centraal-Afrikaanse Republiek     | Liberia     | Somalië     |
 > | Tsjaad     | Madagaskar     | Zuid-Georgië en de Zuidelijke Sandwicheilanden     |
 > | China     | Malawi     | Zuid-Soedan     |
-> | Christmaseiland     | Maldiven     | St Helena, Zetten, Tristan da Cunha     |
+> | Christmaseiland     | Maldiven     | St Helena, Ascension, Tristan da Cunha     |
 > | Cocoseilanden     | Mali     | Suriname     |
 > | Comoren     | Marshalleilanden     | Svalbard     |
 > | Congo     | Martinique     | Swaziland     |
@@ -85,14 +85,14 @@ Softwareabonnementen kopen namens een klant:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Software-abonnementen activeren en beheren
 
-Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (partners die Partner Center; klanten die het Microsoft 365-beheer Center gebruiken). Gebruik de volgende procedure om dit te doen. Het is belangrijk om inzicht te krijgen in de risico's die gepaard gaan met het kopiëren van koppelingen en het downloaden van software. Zie Using Partner Center to obtain customer **software downloads and license keys** (Softwaredownloads en licentiesleutels van klanten verkrijgen) in de Partner Center New Commerce Operations Guide voor meer [informatie.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (partners die Partner Center; klanten die het Microsoft 365-beheer Center gebruiken). Gebruik de volgende procedure om dit te doen. Het is belangrijk om inzicht te krijgen in de risico's die gepaard gaan met het kopiëren van koppelingen en het downloaden van software. Zie Using Partner Center to obtain customer **software downloads and license keys** in de Partner Center New Commerce Operations Guide voor meer [informatie.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 >[!NOTE]
 >U moet een beheerderagent in Partner Center om de koppeling naar sleutels en downloads te verkrijgen.
 
 1. Ga naar de detailpagina van uw klant en selecteer **Software**. U ziet een lijst met alle software die u namens de klant hebt aangeschaft.
 
-2. Kies **productversie**, **taal**, **bit** en selecteer **Sleutels en downloads ophalen.** 
+2. Kies **productversie,** **taal**, **bit** en selecteer **Sleutels en downloads ophalen.** 
 
 3. Kies **Sleutel downloaden** om het 32-cijferige product weer te geven in een pop-updialoogvenster, dat u kunt kopiëren en verzenden naar de klant. 
 
@@ -103,7 +103,18 @@ Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (pa
 6. U kunt de **softwareorder** ook annuleren en een tegoed van 100% ontvangen (indien uitgevoerd binnen de annuleringsbeleidsperiode van 30 dagen).
 
 >[!NOTE]
->Alleen klanten hebben toegang om de productcodes te zien en informatie te downloaden in het Microsoft 365-beheer Center (globale beheerdersrol vereist). Partners moeten deze Partner Center gebruiken om deze informatie te bekijken.
+>Alleen klanten hebben toegang tot de productcodes en het downloaden van informatie in Microsoft 365-beheer Center (globale beheerdersrol vereist). Partners moeten deze Partner Center gebruiken om deze informatie te bekijken.
+
+> [!NOTE]
+> CSP-aankopen worden geactiveerd via een MULTIPLE Activation Key (MAK). Key Management Service sleutels (KMS) zijn niet toegestaan, zelfs niet op aanvraag. 
+
+## <a name="move-a-customers-on-premises-license-from-vl-to-csp-with-no-downtime"></a>De on-premises licentie van een klant zonder downtime verplaatsen van VL naar CSP
+
+Hoewel KMS sleutels niet beschikbaar zijn in CSP, kunt u nog steeds de on-premises licenties van uw klant van VL naar CSP verplaatsen en downtime voorkomen als gevolg van de schakelaar voor het aankoopkanaal. KMS licenties distribueert naar de clients en ze blijven meestal 180 dagen actief voordat het apparaat die activering probeert te vernieuwen. Dit betekent dat het apparaat al is geactiveerd en enige tijd actief is voordat er problemen optreden. 
+
+Als de klant gedurende deze periode de nieuwe MAK implementeert, handmatig of via een script (met ), treedt `slmgr.vbs` er geen downtime op. Als de klant de nieuwe MAK gedurende deze tijd niet implementeert en later probeert de licentie te verlengen, kan het apparaat in sommige functies worden beperkt of geblokkeerd totdat het opnieuw wordt geactiveerd. 
+
+Ga voor meer informatie naar Clients activeren met Windows 10 [(Windows 10) - Windows Deployment](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal). Voor hulp bij dit type implementatie kunt u een aanvraag voor technische [presales-](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request) en implementatieservices indienen.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download- en licentiesleutels voor serverabonnementen die beschikbaar zijn via Microsoft 365-beheer Center voor klanten 
 
@@ -114,7 +125,7 @@ Uw klanten kunnen licentiesleutels voor CSP-serverabonnementen en downloads opha
 Voor controle- of nalevingsdoeleinden moet u mogelijk een lijst controleren met gebruikers die softwaresleutels voor serverabonnementen hebben gebruikt of software voor serverabonnementen hebben gedownload. Gebruik de onderstaande procedure om toegang te krijgen tot deze informatie. 
 
 >[!NOTE]
->U moet een Globale beheerder, accountbeheerder, verwijzingsbeheerder of beheerder van marketinginhoud zijn om deze activiteitenlogboeken te kunnen bekijken. 
+>U moet een Globale beheerder, accountbeheerder, verwijzingsbeheerder of beheerder van marketinginhoud zijn om deze activiteitenlogboeken te kunnen zien. 
 
 1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
@@ -122,7 +133,7 @@ Voor controle- of nalevingsdoeleinden moet u mogelijk een lijst controleren met 
 
 3. Selecteer activiteitenlogboek in **het menu.**
 
-4. Voer het datumbereik in voor de activiteit die u wilt zien. In het activiteitenlogboek wordt een lijst weergegeven met gebruikers die tijdens de opgegeven periode toegang hebben gehad tot softwaresleutels of gedownloade software. 
+4. Voer het datumbereik in voor de activiteit die u wilt zien. In het activiteitenlogboek wordt een lijst weergegeven met gebruikers die tijdens de opgegeven periode softwaresleutels of gedownloade software hebben gebruikt. 
 
 ## <a name="cancel-a-purchase"></a>Een aankoop annuleren
 
@@ -152,7 +163,7 @@ Volg de onderstaande stappen om een aankoop te annuleren:
 
 6. Selecteer in de vervolgkeuzelijst Ordernummer het juiste order-id-nummer dat u wilt annuleren. (Meer informatie over een order- of order-id-nummer vindt u op de pagina **Ordergeschiedenis van de** klant.)
 
-7. Schakel het selectievakje in om te bevestigen dat u het bericht **Belangrijk met** betrekking tot annulering hebt gelezen. (Raadpleeg de belangrijke **opmerking** hieronder voor meer informatie over wat er gebeurt nadat u een aankoop hebt geannuleerd.)
+7. Schakel het selectievakje in om te bevestigen dat u het bericht **Belangrijk met** betrekking tot annulering hebt gelezen. (Raadpleeg de belangrijke **opmerking** hieronder voor meer informatie over wat er gebeurt nadat u een aankoop annuleert.)
 
 8. Selecteer **Verzenden om** uw aankoop te annuleren. Als u meerdere orders voor een klant wilt annuleren, moet u stap 4 t/m 6 nogmaals uitvoeren voor elk uniek order-id-nummer.
 
@@ -165,7 +176,7 @@ Wanneer u een order probeert te annuleren, Partner Center u mogelijk ook andere 
 - Als we meer informatie over uw annuleringsaanvraag nodig hebben, krijgt u mogelijk een koppeling naar een **klantondersteuningsaanvraagformulier.**
 
 >[!IMPORTANT]
->Nadat u een order hebt geannuleerd, wordt er een bericht weergegeven waarin de annulering wordt bevestigd. Er kan echter een vertraging van maximaal 15 minuten zijn voordat de annulering wordt weergegeven op Partner Center dashboard. 
+>Nadat u een order hebt geannuleerd, wordt er een bericht weergegeven waarin de annulering wordt bevestigd. Er kan echter een vertraging van maximaal 15 minuten zijn voordat de annulering wordt weergegeven op het Partner Center dashboard. 
 
 ### <a name="post-cancellation-details"></a>Details na annulering
 
@@ -175,17 +186,17 @@ Nadat u een aankoop hebt geannuleerd:
 
 - Het geannuleerde item wordt nog steeds weergegeven op de pagina Softwaredetails van de klant, maar de activeringssleutel is niet beschikbaar.
 
-- Er wordt een tegoed voor de geannuleerde order weergegeven op uw volgende maandelijkse factuur. Permanente software ontvangt een tegoed van 100% en softwareabonnementen ontvangen een prorated tegoed.
+- Er wordt een tegoed voor de geannuleerde order weergegeven op uw volgende maandelijkse factuur. Permanente software ontvangt een tegoed van 100% en softwareabonnementen ontvangen een pro 100%-tegoed.
 
 ### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Een klantondersteuningsaanvraag indienen om een aankoop te annuleren
 
-Als u hebt geprobeerd een software-aankoop via Partner Center te annuleren, maar u wordt gevraagd meer informatie op te geven en een formulier voor klantondersteuning in te vullen, kunnen deze stappen u helpen:
+Als u hebt geprobeerd een software-aankoop via Partner Center annuleren, maar u wordt gevraagd meer informatie op te geven en een klantondersteuningsaanvraagformulier in te vullen, kunnen deze stappen u helpen:
 
-1. Wanneer u de koppeling **klantondersteuningsaanvraag selecteert** in het venster Aankoop annuleren, wordt de Partner Center **de** pagina Een probleem met de klant melden geopend.
+1. Wanneer u de koppeling **klantondersteuningsaanvraag selecteert** in het venster Aankoop annuleren, wordt de pagina Een probleem melden **Partner Center** geopend.
 
-2. Selecteer **onder Details** in de lijst Type probleem **CSP Purchase/Refund namens klanten.**
+2. Selecteer **onder Details** in de lijst Type probleem de optie **CSP-aankoop/-restitutie namens klanten**.
 
-3. Vul de velden Impact en Title in.
+3. Vul de velden Impact en Titel in.
 
 4. Geef in het veld Beschrijving de volgende informatie op:
 
@@ -196,7 +207,7 @@ Als u hebt geprobeerd een software-aankoop via Partner Center te annuleren, maar
 
 5. Voer in het veld Contactpersoon uw naam, e-mailadres en telefoonnummer in.
 
-6. Als u om wat voor reden dan ook een bestand wilt toevoegen, **selecteert u Bestanden toevoegen.** Deze stap is optioneel.
+6. Als u om wat voor reden dan ook een bestand wilt bijvoegen, **selecteert u Bestanden toevoegen.** Deze stap is optioneel.
 
 7. Wanneer u klaar bent, selecteert u **Verzenden.**
 
