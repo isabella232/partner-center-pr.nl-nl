@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ef1a80330e05252bbe3b8e53f1061b1f8ca55c2f
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128317064"
+ms.locfileid: "128322030"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Verschillen tussen Azure-aanbiedingen in het CSP-programma vergelijken
 
@@ -39,7 +39,7 @@ De volgende tabel bevat een overzicht van de belangrijkste verschillen tussen CS
 |Geo-beschikbaarheid|139 landen - Een volledige lijst met deze landen is beschikbaar in de Veelgestelde vragen over [Azure-prijzen.](https://azure.microsoft.com/pricing/faq/)|De matrix New Commerce Offers Country Availability en Customer Currency toont het bereik van waar deze aanbiedingen in aanmerking komen om beschikbaar te worden gesteld in CSP door de partner.|Zie New Commerce Offers Country Availability and Customer Currency Matrix (Beschikbaarheid van nieuwe commerceaanbiedingen voor landen en valutamatrix voor klanten) voor meer informatie. Hetzelfde implementatieschema is van toepassing op alle nieuwe commerceaanbiedingen.|Zie New Commerce Offers Country Availability and Customer Currency Matrix (Beschikbaarheid van nieuwe commerceaanbiedingen voor landen en valutamatrix voor klanten) voor meer informatie.  Hetzelfde implementatieschema is van toepassing op alle nieuwe commerceaanbiedingen.|247 landen|
 |Ondersteuningsvereisten|Standaard-CSP-ondersteuningsvereisten.|De uitgever van de aanbieding is verantwoordelijk voor technische ondersteuning.  CSP-partner is verantwoordelijk voor pre-salesactiviteiten, transactie- en factureringsondersteuning.|Standaard-CSP-ondersteuningsvereisten.|Standaard-CSP-ondersteuningsvereisten.|Standaard-CSP-ondersteuningsvereisten.|
 
-*Microsoft biedt api's voor prijslijst in het vierde kwartaal voor programmatische toegang tot realtime toegang tot Azure-meterprijzen.
+*Microsoft biedt api's voor prijslijst in het vierde kwartaal aan voor programmatische toegang in realtime voor Azure-meterprijzen.
 
 ## <a name="next-steps"></a>Volgende stappen
 
