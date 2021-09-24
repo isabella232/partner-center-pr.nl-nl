@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc2d52dd444168b32f0cadaeccec1e6d906348d1
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.openlocfilehash: 3bea75ba3170462f19d35ef2eaf35878269f832e
+ms.sourcegitcommit: a2eeae26d2a6e8badb0f2e9d9144533b7e9392c8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/17/2021
-ms.locfileid: "127906329"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128517716"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Inleiding: Nieuwe commerciële promoties
 
@@ -34,9 +34,9 @@ Microsoft biedt ondersteuning voor promoties in nieuwe handel. Deze promoties he
 Partners kunnen promoties ontdekken door de achterstand van promoties te bezoeken of door de getPromotions-API aan te roepen. De achterstand bij promoties is een Microsoft-lijst met beschikbare promoties die partners moeten kennen. De lijst wordt maandelijks opeengepdatet en bijgewerkt. 
 
 
-## <a name="operationalize-promotions"></a>Promoties operationeel maken ##
+## <a name="operationalize-promotions"></a>Niveaupromoties operationeel maken ##
 
-Partners kunnen de promoties operationeel maken door de getPromotions-API te implementeren. Deze API retourneert alle promoties die bestaan voor een bepaalde markt (het land van de klant) en het segment. De API retourneert de lijst met promoties en belangrijke informatie om de partner inzicht te geven in welke promoties beschikbaar zijn voor klanten in verschillende landen. 
+Partners kunnen de promoties operationeel maken door de getPromotions-API te implementeren. Deze API retourneert alle promoties die bestaan voor een bepaalde markt (het land van de klant) en het segment. De API retourneert de lijst met promoties en belangrijke informatie om de partner te helpen begrijpen welke promoties beschikbaar zijn voor klanten in verschillende landen. 
 
 
 De getPromotions-API bevat de volgende gegevens voor een bepaalde promotie:
@@ -45,19 +45,17 @@ De getPromotions-API bevat de volgende gegevens voor een bepaalde promotie:
 - Het kortingspercentage voor de promotie
 - De producten en SKU's voor welke promotie beschikbaar is
 
-Promoties worden toegepast door het partnercentrum wanneer de partner de product-SKU koopt waarop de promotie beschikbaar is. Partneracties zijn beschikbaar in de gebruikersinterface van de partnercentrumcatalogus in de product-SKU-details. Ze kunnen klikken op De promotiegegevens weergeven voor meer informatie over de promotie. De mogelijkheid om de promotiedetails weer te geven, is toegankelijk via de SKU-details op de cataloguspagina, de beoordelingspagina voorafgaand aan het indienen van de aankoop, de bevestiging nadat de order is verzonden en de pagina ordergeschiedenis. 
-
+Promoties worden toegepast door het partnercentrum wanneer de partner de product-SKU koopt waarop de promotie beschikbaar is. Partneracties zijn beschikbaar in de gebruikersinterface van de partnercentrumcatalogus in de product-SKU-details. Ze kunnen klikken op De details van de promotie weergeven voor meer informatie over de promotie. De mogelijkheid om de promotiedetails weer te geven, is toegankelijk via de SKU-details op de cataloguspagina, de beoordelingspagina voorafgaand aan het indienen van de aankoop, de bevestiging nadat de order is verzonden en de pagina ordergeschiedenis. 
 
 ## <a name="verify-eligibility"></a>Geschiktheid controleren ##
 
 Partners kunnen bekijken of een klantaankoop in aanmerking komt voor een promotie door de informatie te bekijken op de beoordelingspagina in het partnercentrum voordat ze het product kopen. Partners kunnen ook de verifyPromotionEligibility-API aanroepen, door de tenant-id van de klant en de promotie-id door te geven. De aanroep retourneert true als de klant in aanmerking komt. Als de klant niet in aanmerking komt, retourneert de API de voorwaarden die niet zijn voldaan om de promotie van toepassing te laten zijn. 
 
-
+Partners kunnen validatie-geschiktheid aanroepen en resultaten terug krijgen. Geschiktheidsfouten kunnen worden gebaseerd op het aantal seats, incompatibele voorwaarden of limieten voor het aantal keren dat een promotie kan worden toegepast op de product-SKU van een klant.
 
 ## <a name="promotions-and-renewals"></a>Promoties en verlengingen ##
 
-Aanbiedingskortingen wanneer deze worden toegepast, gelden voor de duur van de aankoop. Abonnementen met toegepaste promoties behouden de actieprijs als de verlengingsdatum binnen het datumbereik van de promotieduur valt. Verlengingen buiten het datumbereik van de promotieduur worden verlengd tot de prijs die niet is gepromotie (in de lijst met prijzen). Partners kunnen de verlengingsstatus bijhouden voor de prijspunten op de pagina met abonnementsgegevens en op de instructies voor het verlengen van abonnementsgegevens.
-
+Aanbiedingskortingen wanneer deze worden toegepast, gelden voor de duur van de aankoop. Abonnementen met toegepaste promoties behouden de actieprijs als de verlengingsdatum binnen het datumbereik van de promotieduur valt. Verlengingen buiten het datumbereik van de promotieduur worden verlengd tot de prijs die niet is gepromotie (in de lijst met prijzen). Partners kunnen de verlengingsstatus bijhouden voor de prijspunten op de pagina met abonnementsgegevens en op de instructies voor gegevensvernieuwing voor getSubscription.
 
 ## <a name="promotions-and-upgrades"></a>Promoties en upgrades ##
 Partners die upgraden van een abonnement naar een andere SKU laten de promotieprijs achter. Deze actie treedt op omdat de promotie is geconfigureerd voor de SKU die ze verlaten wanneer ze upgraden naar een andere SKU. Partners die upgraden naar een SKU die mogelijk een promotie heeft, krijgen niet automatisch de promotieprijs. Als ze de promotieprijs nodig hebben of willen hebben voor de SKU waar ze naar willen gaan, moeten ze de nieuwe SKU handmatig aanschaffen als een nieuw abonnement. Momenteel worden promoties alleen toegepast op nieuwe abonnementen en verlengingen.

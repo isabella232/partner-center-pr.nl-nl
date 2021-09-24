@@ -14,7 +14,7 @@
       displayName: mpn
     - name: Problemen met het instellen van accounts oplossen
       href: troubleshoot-account-sign-n.md
-    - name: Partner Membership Center met pensioen gaan
+    - name: Partner Membership Center pensioen
       href: partner-membership-center-retirement-faq.md
     - name: Lidmaatschapsvoordelen
       items:
@@ -83,7 +83,7 @@
         - name: Meer informatie over competenties
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Registreren als Learning partner
+        - name: Registreren als een Learning partner
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Veelgestelde vragen over competenties
@@ -106,7 +106,7 @@
           displayName: 'mpn, Advanced specializations'
     - name: Een Azure Expert MSP worden
       href: azure-expert-msp.md
-- name: Cloud Solution Provider program (CSP)
+- name: Cloud Solution Provider Program (CSP)
   href: csp-overview.md
   displayName: csp
   items:
@@ -121,7 +121,7 @@
     - name: Directe CSP-factureringspartner overschakelen naar indirecte reseller
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: Partners kunnen zich niet langer inschrijven als advisor
+    - name: Partners kunnen niet langer worden ingeschreven als adviseurs
       href: advisors-no-csp.md
 - name: CSP-overeenkomsten
   href: microsoft-partner-agreement.md
@@ -191,9 +191,9 @@
         - name: Uw partnerprofiel bijwerken
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Partner Finder-lijst met certificeringen
+        - name: Partner Finder-lijstcertificering
           href: partner-finder-certification.md
-        - name: Informatie over registratie-id-nummer
+        - name: Registratie-id-nummergegevens
           href: reg-number-id.md
         - name: Control Panel Vendor worden
           href: enroll-as-cpv.md
@@ -246,7 +246,7 @@
       href: manage-leads.md
     - name: Collectieve verkoopkansen beheren
       items:
-        - name: Over collectieve verkoopleads
+        - name: Over kansen voor co-verkoop
           href: manage-co-sell-opportunities.md
         - name: Bulkbewerkingen
           href: bulk-operations.md
@@ -330,6 +330,9 @@
         - name: Goedkeuring en deadlines voor coöperatieve claims
           href: incentives-managing-co-op-claims.md
           displayName: incentives
+        - name: Geweigerde claims
+          href: reject-claims.md
+          displayName: incentives
     - name: Incentives-claims voor CPOR-koppeling
       items:
         - name: CPOR-koppelingen begrijpen
@@ -390,7 +393,7 @@
       href: modern-invoice-reconciliation-file.md
     - name: Effectieve berekening van eenheidsprijs
       href: effective-unit-price-calculation.md
-    - name: Afdwingen van tegoedlimiet
+    - name: Afdwinging van tegoedlimiet
       href: credit-limit-enforcement.md
     - name: Algemene scenario's voor facturering
       href: common-billing-scenarios.md
@@ -586,7 +589,7 @@
       href: new-commerce-license-based.md
       displayName: new commerce
       items:
-        - name: Nieuw telco-betalen voor commerce
+        - name: Nieuwe commerce telco payg
           href: new-commerce-telco-payg.md
         - name: Nieuwe commerciële promoties
           href: new-commerce-promotions.md
@@ -726,7 +729,7 @@
               href: insights-programmatic-system-queries.md
             - name: Voorbeeldquery's
               href: insights-programmatic-sample-queries.md
-            - name: Aangepaste queryspecificatie
+            - name: Specificatie van aangepaste query's
               href: insights-programmatic-custom-query.md
             - name: Voorbeeldtoepassing
               href: insights-programmatic-sample-application.md
