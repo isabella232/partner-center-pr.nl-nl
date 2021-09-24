@@ -13,7 +13,7 @@ ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128367124"
+ms.locfileid: "128369322"
 ---
 # <a name="rejected-co-op-claims"></a>Geweigerde claims voor samenwerking
 **Juiste rollen:** Incentives-| Incentives-gebruiker

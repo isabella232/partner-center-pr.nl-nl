@@ -10,11 +10,11 @@ ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ac0004b2197aca7c161216726361c946ebe86775
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366098"
+ms.locfileid: "128367141"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkopen aan gespecialiseerde branches zoals educatie, non-profit en overheidsgebruikers
 
@@ -73,9 +73,9 @@ Aankoopregels voor het verkopen van speciale aanbiedingen aan klanten:
 | Government Community Cloud |Government Community Cloud | Non-profit, onderwijs of commercieel |
 | Entiteit die eigendom is van de staat  | Commercieel  | Non-profit, onderwijs of Government Community Cloud  |
 | If Education and State Owned Entity | Commercieel, onderwijs | Non-profitorganisatie of Government Community Cloud |
-| If State Owned Entity en Government Community Cloud | Government Community Cloud | Non-profit, onderwijs of commercieel |
+| If State Owned Entity and Government Community Cloud | Government Community Cloud | Non-profit, onderwijs of commercieel |
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- [Verkoop Minecraft: Education Edition abonnementen aan onderwijsklanten](minecraft-subscriptions.md)
+- [Verkopen Minecraft: Education Edition aan onderwijsklanten](minecraft-subscriptions.md)
 - [Partnercentrum voor Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

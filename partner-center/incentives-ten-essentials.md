@@ -13,7 +13,7 @@ ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366081"
+ms.locfileid: "128359411"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>De tien essentiële onderdelen voor het werken met incentives
 
