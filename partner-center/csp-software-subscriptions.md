@@ -10,21 +10,21 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3123313525fb245db2abbe3175cd820b53c41898
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312201"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366064"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Softwareabonnementen verkopen via het Cloud Solution Provider (CSP)-programma
 
 **Juiste rollen:** beheeragent | Globale beheerder
 
-Met Azure-reserveringen en serverabonnementen (Windows Server- en SQL Server-abonnementen) kunnen partners in het CSP-programma beter in op de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare en permanente cloudworkloads. 
+Met Azure-reserveringen en serverabonnementen (Windows Server- en SQL Server-abonnementen) kunnen partners in het CSP-programma beter voldoen aan de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare en permanente cloudworkloads. 
 
 U kunt nu Azure-reserveringen en Server-abonnementen namens commerciële klanten verkrijgen, inrichten en beheren via Partner Center en de Azure Portal door gebruik te maken van de Azure Hybrid Benefit.
 
-Met Azure Hybrid Benefit kunt u meer waarde uit uw Windows Server-licenties halen en tot wel 40 procent besparen op virtuele machines. U kunt het voordeel gebruiken met licenties Windows Server Datacenter en Standard Edition die onder Software Assurance. Afhankelijk van de editie kunt u uw licenties converteren of opnieuw gebruiken om virtuele Windows Server-machines in Azure uit te voeren en een lager basisrekentarief te betalen (bijvoorbeeld tarieven voor virtuele Linux-machines).
+Met Azure Hybrid Benefit kunt u meer waarde uit uw Windows Server-licenties halen en tot wel 40 procent besparen op virtuele machines. U kunt het voordeel gebruiken met licenties Windows Server Datacenter en Standard Edition die worden gedekt Software Assurance. Afhankelijk van de editie kunt u uw licenties converteren of opnieuw gebruiken om virtuele Windows Server-machines in Azure uit te voeren en een lager basisrekentarief te betalen (bijvoorbeeld tarieven voor virtuele Linux-machines).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Niet-beschikbare markten voor Azure-reserveringen
 
@@ -112,9 +112,9 @@ Nadat u uw software hebt aangeschaft, moeten u of uw klanten deze downloaden (pa
 
 Hoewel KMS sleutels niet beschikbaar zijn in CSP, kunt u nog steeds de on-premises licenties van uw klant van VL naar CSP verplaatsen en downtime voorkomen als gevolg van de schakelaar voor het aankoopkanaal. KMS licenties distribueert naar de clients en ze blijven meestal 180 dagen actief voordat het apparaat die activering probeert te vernieuwen. Dit betekent dat het apparaat al is geactiveerd en enige tijd actief is voordat er problemen optreden. 
 
-Als de klant gedurende deze periode de nieuwe MAK implementeert, handmatig of via een script (met ), treedt `slmgr.vbs` er geen downtime op. Als de klant de nieuwe MAK gedurende deze tijd niet implementeert en later probeert de licentie te verlengen, kan het apparaat in sommige functies worden beperkt of geblokkeerd totdat het opnieuw wordt geactiveerd. 
+Als de klant gedurende deze tijd de nieuwe MAK implementeert, handmatig of via een script (met ), treedt `slmgr.vbs` er geen downtime op. Als de klant de nieuwe MAK gedurende deze tijd niet implementeert en later probeert de licentie te verlengen, kan het apparaat in sommige functies worden beperkt of geblokkeerd totdat het opnieuw wordt geactiveerd. 
 
-Ga voor meer informatie naar Clients activeren met Windows 10 [(Windows 10) - Windows Deployment](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal). Voor hulp bij dit type implementatie kunt u een aanvraag voor technische [presales-](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request) en implementatieservices indienen.
+Ga voor meer informatie naar [Clients activeren met Windows 10 (Windows 10) - Windows Deployment](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal). Voor hulp bij dit type implementatie kunt u een aanvraag voor technische [presales-](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request) en implementatieservices indienen.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Download- en licentiesleutels voor serverabonnementen die beschikbaar zijn via Microsoft 365-beheer Center voor klanten 
 
@@ -133,7 +133,7 @@ Voor controle- of nalevingsdoeleinden moet u mogelijk een lijst controleren met 
 
 3. Selecteer activiteitenlogboek in **het menu.**
 
-4. Voer het datumbereik in voor de activiteit die u wilt zien. In het activiteitenlogboek wordt een lijst weergegeven met gebruikers die tijdens de opgegeven periode softwaresleutels of gedownloade software hebben gebruikt. 
+4. Voer het datumbereik in voor de activiteit die u wilt zien. In het activiteitenlogboek wordt een lijst weergegeven met gebruikers die tijdens de opgegeven periode toegang hebben gehad tot softwaresleutels of gedownloade software. 
 
 ## <a name="cancel-a-purchase"></a>Een aankoop annuleren
 
@@ -190,11 +190,11 @@ Nadat u een aankoop hebt geannuleerd:
 
 ### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Een klantondersteuningsaanvraag indienen om een aankoop te annuleren
 
-Als u hebt geprobeerd een software-aankoop via Partner Center annuleren, maar u wordt gevraagd meer informatie op te geven en een klantondersteuningsaanvraagformulier in te vullen, kunnen deze stappen u helpen:
+Als u hebt geprobeerd een software-aankoop via Partner Center te annuleren, maar u wordt gevraagd meer informatie op te geven en een klantondersteuningsaanvraagformulier in te vullen, kunnen deze stappen u helpen:
 
 1. Wanneer u de koppeling **klantondersteuningsaanvraag selecteert** in het venster Aankoop annuleren, wordt de pagina Een probleem melden **Partner Center** geopend.
 
-2. Selecteer **onder Details** in de lijst Type probleem de optie **CSP-aankoop/-restitutie namens klanten**.
+2. Selecteer **onder Details** in de lijst Type probleem de optie **CSP Purchase/Refund namens klanten**.
 
 3. Vul de velden Impact en Titel in.
 

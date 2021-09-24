@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 05/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Ontdek hoe Microsoft Partner Network een account voor Partner Center maken om hun netwerkvoordelen en -competenties te beheren.
+description: Ontdek hoe Microsoft Partner Network een Partner Center kunnen maken om hun netwerkvoordelen en -competenties te beheren.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b88698cec01e7a5a3701d420298d93640d0fdbbf
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 0410e8fe4239915c445125951076ff170cef3a91
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957400"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366149"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Een MPN-account maken in Partner Center netwerkvoordelen en -competenties te beheren
 
 **Juiste rollen:** MPN-partnerbeheerder
 
-Als u geen Microsoft Partner Network (MPN) hebt en geen MPN-id hebt, kunt u uw inschrijving starten door de inschrijvingsinstructies [te volgen.](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)
+Als u nog geen Microsoft Partner Network (MPN) hebt en geen MPN-id hebt, kunt u uw inschrijving starten door de inschrijvingsinstructies [te volgen.](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)
 
 ## <a name="prerequisites"></a>Vereisten 
 
@@ -32,12 +32,12 @@ Wanneer u klaar bent om een account te maken op Partner Center, hebt u de volgen
 
 - De autoriteit voor het ondertekenen van juridische overeenkomsten. Zorg ervoor dat u gemachtigd bent om namens uw bedrijf juridische overeenkomsten te ondertekenen, aangezien u hier tijdens het inschrijvingsproces om wordt gevraagd.
 
-- Naam en bedrijfse-mailadres van de persoon die u wilt gebruiken als primaire contactpersoon. Om de beveiliging en privacy van uw bedrijf te waarborgen, sturen we een e-mail naar uw primaire contactpersoon om het e-mailadres te verifiëren en ervoor te zorgen dat het e-mailadres van uw bedrijf is. Nadat de primaire contactpersoon het e-mailadres heeft geverifieerd, gaan we verder met de beoordeling van de verstrekte informatie. Verificatie duurt meestal 3-5 werkdagen. 
+- Naam en bedrijfse-mailadres van de persoon die u wilt gebruiken als primaire contactpersoon. Om de beveiliging en privacy van uw bedrijf te waarborgen, sturen we een e-mail naar uw primaire contactpersoon om het e-mailadres te verifiëren en ervoor te zorgen dat het e-mailadres bij uw bedrijf hoort. Nadat de primaire contactpersoon het e-mailadres heeft geverifieerd, gaan we verder met de beoordeling van de verstrekte informatie. Verificatie duurt meestal 3-5 werkdagen. 
 
 - Zie Accountverificatie voor meer informatie [over het verificatieproces.](verification-responses.md)
 
 > [!NOTE]
-> Als u een account in de Partner Membership Center (PMC) had, is dit gemigreerd naar Partner Center. Klik voor meer informatie over [de Partner Membership Center pensioen](partner-membership-center-retirement-faq.md).
+> Als u een account in de Partner Membership Center (PMC) had, werd het gemigreerd naar Partner Center. Klik op voor meer informatie over [de Partner Membership Center pensioen](partner-membership-center-retirement-faq.md).
 
 ## <a name="get-started"></a>Aan de slag
 
@@ -45,7 +45,7 @@ Wanneer u klaar bent om een account te maken op Partner Center, hebt u de volgen
 
     a.  Het e-mailadres moet geldig zijn en toegankelijk zijn voor u, omdat we een verificatiecode naar dat e-mailbericht verzenden om door te gaan.
 
-    b.  Het e-mailadres mag geen woorden bevatten zoals 'info', 'admin', email@ '' '. Of " marketing@.. ."; deze adresindelingen worden niet ondersteund.
+    b.  Het e-mailadres mag geen woorden bevatten als 'info', 'admin', email@ '' '. Of " marketing@.. ."; deze adresindelingen worden niet ondersteund.
 
     c.  Als u MAPS wilt kopen of competenties wilt beheren, moet u dit account upgraden door uw domein [te verifiëren](become-global-admin.md) en beheerder te worden. 
 
@@ -56,9 +56,9 @@ Wanneer u klaar bent om een account te maken op Partner Center, hebt u de volgen
 
 3. Geef de juridische bedrijfsgegevens van uw bedrijf op.
 
-    U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd bij [Dun & Brad gaan,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert u **Handmatig.**
+    U kunt uw bedrijfsprofiel op zoeken of handmatig bedrijfsgegevens invoeren. Als uw bedrijf is geregistreerd bij [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)gebruikt u de DUNS-id om uw bedrijfsgegevens op te zoeken. Als u uw bedrijfsgegevens zelf wilt verstrekken, selecteert u **Handmatig.**
 
-    Als uw bedrijf zich in **Heeft** bevindt, Hebt u, **Kyrgyzstan,** **Tijdens**, **Uzbekkka** of **Rusland** en voert u uw adres handmatig in, dan wordt uw adres voor u gevalideerd.  Als de door u invoeren verschilt van het gevalideerde adres, raden we u aan het gevalideerde adres te gebruiken. Dit zorgt ervoor dat de elementen van het adres worden gestandaardiseerd zoals gedefinieerd door de postinstantie van het land, correct opgemaakt en verzendbaar.  
+    Als uw bedrijf zich in Het bedrijf bevindt, **Omdat**, **Kyrgyzstan,**  **Uzbekjik** of **Rusland**, en u uw adres handmatig invoeren, wordt uw adres voor u gevalideerd.  Als de door u invoeren verschilt van het gevalideerde adres, raden we u aan het gevalideerde adres te gebruiken. Dit zorgt ervoor dat de elementen van het adres worden gestandaardiseerd zoals gedefinieerd door de postinstantie van het land, correct opgemaakt en verzendbaar.  
 
     Nadat u de bedrijfsgegevens hebt opgegeven, voert u de primaire contactgegevens in. De primaire contactpersoon moet de persoon in uw bedrijf zijn met wie we contact kunnen opnemen over uw toepassing (deze contactpersoon kan u of een andere persoon in uw bedrijf zijn).
 
@@ -87,7 +87,7 @@ De volgende tabel bevat voorbeelden van de registratienummers die voor elk land 
 | **Kirgistan**  | INN – Btw-nummer |
 | **Moldavië**  | IDNO: het unieke statusidentificatienummer dat is toegewezen aan de juridische entiteit (ook wel bekend als . Fiscale code).<br>IDNP – Persoonlijke code geboorte ('Numarul de Identificare') |
 | **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer | 
-| **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Btw-nummer<br>[PESEL:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) het nationale identificatienummer dat wordt gebruikt in Rusland (Pools Powszechny Moetenniczny System EwidencjiEmentnoicici, Universal Electronic System for Registration of the Population) |
+| **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Btw-nummer<br>[PESEL:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) het nationale identificatienummer dat wordt gebruikt in Rusland (Pools Powszechny Cijferniczny System EwidencjiEmentnoicici, Universal Electronic System for Registration of the Population) |
 | **Rusland**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – Btw-nummer (Russisch "Individualiy Nomer Nalogoplatelshika") |
 | **Saoedi-Arabië** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Btw-nummer |
 | **Zuid-Afrika** | TRN : registratienummer voor verkeer |
@@ -96,8 +96,8 @@ De volgende tabel bevat voorbeelden van de registratienummers die voor elk land 
 | **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |
 | **Turkije** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Btw-nummer<br>NIN |
 | **Oekraïne**  | EGRPOU<br>EDRPOU : lokale id |
-| **Verenigde Arabische Emiraten** | Btw-nummer<br>[BTW-nummer:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) ook wel een btw-registratienummer genoemd. Dit is het unieke nummer dat een bebelastingspersoon (zakelijk) of niet-belastbare juridische entiteit identificeert die is geregistreerd voor btw. |
-| **Verenigde Staten** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Identificatienummer van werkgever |
+| **Verenigde Arabische Emiraten** | Btw-nummer<br>[Btw-nummer:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) ook wel een btw-registratienummer genoemd. Dit is het unieke nummer dat een bebelastingspersoon (zakelijk) of niet-belastbare juridische entiteit identificeert die is geregistreerd voor btw. |
+| **Verenigde Staten** | [EIN](https://www.irs.gov/taxtopics/tc755) – Identificatienummer van werkgever |
 | **Oezbekistan**  | INN – Btw-nummer |
 | **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Btw-nummer |
 | **Venezuela** | WANT: is een btw-nummer ('Registro de Identificificón Fiscal') |
@@ -106,9 +106,9 @@ De volgende tabel bevat voorbeelden van de registratienummers die voor elk land 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Accountgegevens weergeven of de MPN-overeenkomst weergeven en downloaden
 
-Meld u aan Partner Center met uw MPN-referenties. Selecteer [**Partnerprofiel om**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) de juridische gegevens van uw bedrijf, uw verificatiestatus en uw MPN-ID's weer te geven en indien nodig ook nieuwe MPN-locaties te maken. 
+Meld u Partner Center mpn-referenties aan. Selecteer [**Partnerprofiel om**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) de juridische gegevens van uw bedrijf, uw verificatiestatus en uw MPN-ID's weer te geven en indien nodig ook nieuwe MPN-locaties te maken. 
 
-U kunt ook andere belangrijke informatie weergeven, zoals MPN-id's, MPN-locaties beheren en Microsoft Partner-overeenkomst weergeven met behulp van de linkermenukoppelingen, zoals wordt weergegeven in de volgende schermopname.
+U kunt ook andere belangrijke informatie weergeven, zoals MPN-id's, MPN-locaties beheren en Microsoft Partner-overeenkomst weergeven met behulp van de linkse menukoppelingen, zoals wordt weergegeven in de volgende schermopname.
 
 :::image type="content" source="images/mpn-new.png" alt-text="Partnerprofiel.":::
 

@@ -13,12 +13,12 @@ ms.openlocfilehash: ac0004b2197aca7c161216726361c946ebe86775
 ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322469"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366098"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkopen aan gespecialiseerde branches zoals educatie, non-profit en overheidsgebruikers
 
-**Juiste rollen:** Globale | Beheeragent | Verkoopagent
+**Juiste rollen:** globale | Beheeragent | Verkoopagent
 
 Microsoft biedt speciale, gereduceerde prijzen voor bepaalde groepen klanten, waaronder klanten uit het onderwijs, non-profitklanten, kleine bedrijven en overheidsentiteiten. Zowel u als uw klant moeten gekwalificeerd zijn voordat u ze speciale prijzen kunt aanbieden. Deze speciale aanbiedingen zijn momenteel beschikbaar voor op licenties gebaseerde **services,** zoals Microsoft 365, Dynamics, Intune, enzovoort, en doorlopende software. Het is niet beschikbaar voor softwareabonnementen of Azure-services.
 
@@ -27,7 +27,7 @@ Microsoft biedt speciale, gereduceerde prijzen voor bepaalde groepen klanten, wa
 |**Speciale prijzen**   |**Vereiste kwalificaties voor resellers**   |**Vereiste kwalificaties van de klant**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Onderwijs   |Geen   | Moet een [gekwalificeerde education-gebruiker zijn](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-| Us Federal Government - [Office Government Community Cloud (GCC) High and DoD environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Als u Azure Government, moet u zich inschrijven met behulp van [het Microsoft US Government Cloud Validation-formulier](https://azuregov.microsoft.com/csp). Het verkopen van op licenties gebaseerde abonnementen is alleen beschikbaar bij uitnodiging.|   Moet een gekwalificeerde [Amerikaanse federale overheidsentiteit zijn](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
+| Us Federal Government - [Office Government Community Cloud (GCC) High- en DoD-omgevingen](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Als u Azure Government, moet u zich inschrijven met behulp van [het Microsoft US Government Cloud Validation-formulier](https://azuregov.microsoft.com/csp). Het verkopen van op licenties gebaseerde abonnementen is alleen beschikbaar bij uitnodiging.|   Moet een gekwalificeerde [Amerikaanse federale overheidsentiteit zijn](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
 | Us Federal Government - GCC Moderate-omgeving | U moet in aanmerking komen voor samenwerking met Amerikaanse overheidsklanten door het formulier in te vullen. Vertel [ons meer over uw Directe CSP-partnerorganisatie.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Ga voor stapsgewijse instructies naar [Office 365 Government GCC verkopen voor CSP-abonnementen aan gekwalificeerde klanten](./csp-gcc-overview.md) | Moet een [gekwalificeerde amerikaanse overheidsentiteit zijn.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Ga voor stapsgewijse instructies naar [Office 365 Government GCC verkopen voor CSP-abonnementen aan gekwalificeerde klanten](./csp-gcc-overview.md)  |
 | Alle andere overheidsentiteiten | Geen. Partners moeten inrichten met behulp van 'zakelijke' aanbiedingen. | Geen
 Non-profit  |Geen|Meld u aan via het [non-profit programma van Microsoft om](https://nonprofit.microsoft.com/#/register) in aanmerking te komen.   |
@@ -44,11 +44,11 @@ De volgende stappen zijn alleen van toepassing op indirecte providers en partner
 
 ## <a name="check-the-customer-qualifications"></a>De kwalificaties van klanten controleren
 
-1. Selecteer klanten **Partner Center** het menu **.** Kies de klant in de lijst.
+1. Selecteer in **Partner Center** menu **Klanten.** Kies de klant in de lijst.
 
 2. Selecteer Account in het menu van **de klant.** Zoek in **de sectie** Bedrijfsgegevens naar **Speciale kwalificaties.**
 
-3. Als **Speciale kwalificaties** is ingesteld op **Geen,** maar de klant  in feite wel voldoet aan de kwalificaties, kunt u de gegevens bijwerken om ze op te nemen.
+3. Als Speciale kwalificaties is ingesteld op **Geen,** maar de klant  in feite wel voldoet aan de **kwalificaties,** kunt u de gegevens bijwerken om ze op te nemen.
 
 ## <a name="where-to-find-special-offers"></a>Waar vind ik speciale aanbiedingen?
 
@@ -67,11 +67,11 @@ Aankoopregels voor het verkopen van speciale aanbiedingen aan klanten:
 
 |**Klanttype**   |**Kan worden verkocht**   |**Kan niet worden verkocht**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| Commercieel |Commercieel | Non-profitorganisatie, onderwijs of Government Community Cloud |
+| Commercieel |Commercieel | Non-profit, onderwijs of Government Community Cloud |
 | Non-profit |Commercieel, non-profit | Onderwijs of Government Community Cloud |
 | Onderwijs |Commercieel, onderwijs | Non-profitorganisatie of Government Community Cloud |
 | Government Community Cloud |Government Community Cloud | Non-profit, onderwijs of commercieel |
-| Entiteit die eigendom is van de staat  | Commercieel  | Non-profitorganisatie, onderwijs of Government Community Cloud  |
+| Entiteit die eigendom is van de staat  | Commercieel  | Non-profit, onderwijs of Government Community Cloud  |
 | If Education and State Owned Entity | Commercieel, onderwijs | Non-profitorganisatie of Government Community Cloud |
 | If State Owned Entity en Government Community Cloud | Government Community Cloud | Non-profit, onderwijs of commercieel |
 

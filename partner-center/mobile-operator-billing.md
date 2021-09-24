@@ -1,6 +1,6 @@
 ---
 title: Facturering voor mobiele operatoren - Microsoft Store
-description: De Microsoft Store mobile operator-facturering als betalingswijze voor mobiele operators die deze mogelijkheid ondersteunen.
+description: De Microsoft Store biedt mobile operator-facturering als betalingswijze voor mobiele operators die deze mogelijkheid ondersteunen.
 ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
@@ -10,11 +10,11 @@ author: hickeys
 keywords: windows 10, uwp, mobiele operators, mobiele facturering, facturering voor mobiele operatoren
 ms.localizationpriority: medium
 ms.openlocfilehash: 7fab4915273fa611d0bb0b9115926ce84521a509
-ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127958845"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128359479"
 ---
 # <a name="mobile-operator-billing"></a>Facturering van mobiele provider
 

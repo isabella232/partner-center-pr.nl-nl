@@ -12,8 +12,8 @@ ms.openlocfilehash: 674cc6f800edc540920d80bedd031fae959b973b
 ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322544"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366119"
 ---
 # <a name="programmatic-access-paradigm"></a>Programmatisch toegangsparadigma
 
@@ -145,7 +145,7 @@ Voor systeemquery's die we bieden, kan de API rapport maken ook worden aangeroep
 
 ### <a name="callback-url"></a>URL voor aanroep
 
-De API voor het maken van een rapport accepteert een callback-URL. Deze URL wordt aangeroepen zodra het genereren van het rapport is geslaagd. De callback-URL moet openbaar bereikbaar zijn. Naast de URL kan ook een callback-methode worden gegeven. De callback-methode kan alleen GET of POST zijn. De standaardmethode als er geen waarde wordt doorgegeven, is POST. De reportId die het genereren heeft voltooid, wordt altijd tijdens de callback doorberekend.
+De API voor het maken van een rapport accepteert een callback-URL. Deze URL wordt aangeroepen zodra het genereren van het rapport is geslaagd. De callback-URL moet openbaar bereikbaar zijn. Naast de URL kan ook een callback-methode worden gegeven. De callback-methode kan alleen GET of POST zijn. De standaardmethode als er geen waarde wordt doorgegeven, is POST. De reportId die het genereren heeft voltooid, wordt altijd tijdens de callback terugverdiend.
 
 POST-callback: Als de doorgegeven URL is, wordt de teruggeroepen `https://www.contosso.com/callback` URL `https://www.contosso.com/callback/<reportID>` 
 
@@ -153,7 +153,7 @@ GET-callback: als de doorgegeven URL is, wordt de teruggeroepen `https://www.con
 
 ### <a name="executenow-reports"></a>ExecuteNow-rapporten
 
-Er is een inrichting voor het genereren van een rapport zonder planning. In het rapport API-nettolading maken kan een parameter worden geaccepteerd, waarmee het rapport in dequerie wordt opgemaakt zodra `ExecuteNow` de API wordt aangeroepen. Wanneer `ExecuteNow` is ingesteld op true, worden de velden, , genegeerd omdat deze rapporten niet zijn `StartTime` `RecurrenceCount` `RecurrenceInterval` gepland.
+Er is een inrichting voor het genereren van een rapport zonder planning. Het rapport API-nettolading maken kan een parameter accepteren, waarmee het rapport in dequeque wordt opgemaakt zodra de `ExecuteNow` API wordt aangeroepen. Wanneer `ExecuteNow` is ingesteld op true, worden de velden: , , genegeerd omdat deze rapporten niet zijn `StartTime` `RecurrenceCount` `RecurrenceInterval` gepland.
 
 Er kunnen twee extra velden worden doorgegeven wanneer `ExecuteNow` waar is, `QueryStartTime` en `QueryEndTime` . Deze twee velden overschrijven het `TIMESPAN` veld in de query. Deze velden zijn niet van toepassing op geplande rapporten, omdat gegevens continu worden gegenereerd gedurende een vaste periode die niet verandert.
 
@@ -178,7 +178,7 @@ Geen
 
 Geen
 
-### <a name="sample-request-payload"></a>Voorbeeld van nettolading van aanvraag
+### <a name="sample-request-payload"></a>Nettolading van voorbeeldaanvraag
 
 ```json
 {
@@ -207,9 +207,9 @@ De belangrijkste definities van elementen in de nettolading van de aanvraag word
 |    Beschrijving     |    Nee     |    Beschrijving van het gemaakte rapport     |    tekenreeks     |
 |    QueryId     |    Yes     |    Rapportquery-id     |    tekenreeks     |
 |    StartTime     |    Yes     |    UTC-tijdstempel waarop het genereren van het rapport begint. <br> De indeling moet zijn: yyyy-MM-ddTHH:mm:ssZ       |    tekenreeks     |
-|    ExecuteNow     |    No     |    Deze parameter moet worden gebruikt om een rapport te maken dat slechts één keer wordt uitgevoerd. `StartTime`, `RecurrenceInterval` en worden genegeerd als deze is ingesteld op `RecurrenceCount` true. Het rapport wordt onmiddellijk op een asynchrone manier uitgevoerd     |    waar/onwaar     |
-|    QueryStartTime     |    No     |    Hiermee geeft u eventueel de begintijd op voor de query die de gegevens extraheert. Deze parameter is alleen van toepassing voor een een time-execution reports die `ExecuteNow` zijn ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
-|    QueryEndTime     |    No     |    Hiermee geeft u eventueel de eindtijd op voor de query die de gegevens extraheert. Deze parameter is alleen van toepassing voor één keer uitvoeringsrapport dat `ExecuteNow` is ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
+|    ExecuteNow     |    No     |    Deze parameter moet worden gebruikt om een rapport te maken dat slechts één keer wordt uitgevoerd. `StartTime`, `RecurrenceInterval` en worden genegeerd als deze is ingesteld op `RecurrenceCount` true. Het rapport wordt onmiddellijk asynchroon uitgevoerd     |    waar/onwaar     |
+|    QueryStartTime     |    No     |    Hiermee geeft u optioneel de begintijd op voor de query die de gegevens extraheert. Deze parameter is alleen van toepassing voor een een time-execution-rapporten die `ExecuteNow` zijn ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
+|    QueryEndTime     |    No     |    Hiermee geeft u desgewenst de eindtijd op voor het extraheren van de gegevens door de query. Deze parameter is alleen van toepassing voor één keer uitvoeringsrapport dat `ExecuteNow` is ingesteld op true. Als u deze parameter instelt, `TIMESPAN` worden de opgegeven in de query overschrijven. De indeling moet yyyy-MM-ddTHH:mm:ssZ zijn     |    Tijdstempel als tekenreeks     |
 |    RecurrenceInterval     |    Yes     |    Frequentie in uren waarop het rapport moet worden gegenereerd. <br> Minimumwaarde is 4 en Maximumwaarde is 2160.      |    geheel getal     |
 |    RecurrenceCount     |    No     |    Het aantal rapporten dat moet worden gegenereerd.     |    geheel getal     |
 |    Indeling     |    No     |    Bestandsindeling van het geëxporteerde bestand. <br> De standaardwaarde is CSV.    |    "CSV"/"TSV"     |

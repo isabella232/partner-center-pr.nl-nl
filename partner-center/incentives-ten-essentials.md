@@ -1,6 +1,6 @@
 ---
 title: De tien essentiële onderdelen voor het werken met incentives
-description: Volg deze 10 suggesties om uw incentive-programma-ervaring te verbeteren en eerder uitbetalingen te ontvangen.
+description: Volg deze 10 suggesties om de ervaring van uw incentive-programma te verbeteren en eerder uitbetalingen te ontvangen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -12,8 +12,8 @@ ms.openlocfilehash: ed1959e9b264b3f324fb0f2f528971163160f431
 ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322402"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366081"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>De tien essentiële onderdelen voor het werken met incentives
 
@@ -45,7 +45,7 @@ U kunt antwoorden krijgen op veelvoorkomende vragen over incentives voordat u ze
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Bevestig dat uw programma in aanmerking komt
 
-Dit omvat in het algemeen dat u Microsoft alle vereiste documentatie over bedrijfsprofiel hebt verstrekt en dat u alle vereiste competenties hebt behaald. Zie [Bevestig dat uw programma in aanmerking komt.](incentives-determined-your-program-eligibility.md)
+Dit omvat in het algemeen dat u Microsoft alle vereiste bedrijfsprofieldocumentatie hebt verstrekt en dat u alle vereiste competenties hebt behaald. Zie [Bevestig dat uw programma in aanmerking komt.](incentives-determined-your-program-eligibility.md)
 
 ## <a name="7-confirm-your-earnings-eligibility"></a>7. Bevestig uw inkomsten in aanmerking komen
 
@@ -53,7 +53,7 @@ Net als bij de vorige taak moet u er doorgaans voor zorgen dat u Microsoft alle 
 
 ## <a name="8-gather-the-necessary-enrollment-information"></a>8. Verzamel de benodigde inschrijvingsgegevens
 
-Voor inschrijving in het incentives-programma is een bepaalde hoeveelheid informatie over uw bedrijf vereist. Zorg ervoor dat u alles bij elkaar hebt voordat u aan de slag gaat. Download en lees de [Incentive-inschrijving](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) in Partner Center PDF-bestand voor meer informatie.
+Voor inschrijving in het incentives-programma is een bepaalde hoeveelheid informatie over uw bedrijf vereist. Zorg ervoor dat u alles bij elkaar hebt voordat u aan de slag gaat. Download en lees voor meer informatie de [Incentive-inschrijving in Partner Center](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) PDF-bestand.
 
 ## <a name="9-learn-how-other-partners-do-it"></a>9. Meer informatie over hoe andere partners dit doen
 
