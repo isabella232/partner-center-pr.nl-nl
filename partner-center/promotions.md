@@ -4,26 +4,27 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Ontdek hoe Microsoft-partners in het Cloud Solution Provider-programma abonnementen kunnen kopen tegen promotieprijzen en kunnen besparen op hun klanten.
+description: Ontdek hoe Microsoft-partners in het Cloud Solution Provider-programma abonnementen kunnen kopen tegen promotieprijzen en besparingen aan hun klanten kunnen doorgeven.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 83f4bb361002a903bff1b3d1433d09b9d244632a
+ms.sourcegitcommit: dd900161830c59bcf3c5d700d524436ee05cd987
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957268"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128714110"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Promoties gebruiken om nieuwe klanten aan te trekken en de besparingen aan hen door te geven
 
-
-
-**Juiste rollen:** beheeragent | Beheeraccount van MPN-| Factureringsbeheerder | Verkoopagent
-
+**Juiste rollen:** beheeragent | Beheeraccount van MPN-| Factureringsbeheerders | Verkoopagent
 
 Microsoft biedt af en toe promoties voor op licenties gebaseerde abonnementen, zodat u de besparingen kunt doorgeven aan klanten en uw bedrijf kunt laten groeien. 
+
+> [!Note] 
+> In dit artikel wordt beschreven hoe promoties werken voor traditionele abonnementen op basis van licenties. Informatie over hoe promoties werken voor nieuwe commerce-abonnementen op basis van licenties vindt u in het nieuwe onderwerp [over commerciële promoties.](new-commerce-promotions.md)
+> 
 
 Microsoft biedt twee soorten promoties: die beschikbaar zijn voor alle in aanmerking komende partners in het Cloud Solution Provider-programma (CSP) en die alleen beschikbaar zijn voor partners in een bepaalde geografische regio.
 
@@ -39,7 +40,7 @@ Neem even de tijd om deze belangrijke feiten over promoties te bekijken:
 
 ## <a name="see-available-promotions"></a>Beschikbare promoties bekijken
 
-U kunt op de pagina **Promoties** zien voor welke promoties u in aanmerking komt. Selecteer **Promoties in uw** **Partner Center** menu voor een lijst met huidige promoties, samen met de korting, het promotietype en de begin- en einddatums voor het abonnement. Als er geen promoties beschikbaar zijn, wordt dit in een bericht aangegeven. 
+U kunt op de pagina **Promoties** zien voor welke promoties u in aanmerking komt. Selecteer **Promoties in uw** **Partner Center** voor een lijst met huidige promoties, samen met de korting, het promotietype en de begin- en einddatum voor het abonnement. Als er geen promoties beschikbaar zijn, wordt dit in een bericht aangegeven. 
 
 > [!NOTE]  
 > U kunt ook promoties bekijken bij het doen van een aankoop. Wanneer u een abonnement selecteert, wordt de promotieprijs weergegeven op de pagina **Controleren**.
