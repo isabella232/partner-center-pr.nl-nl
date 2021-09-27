@@ -4,22 +4,22 @@ description: Meer informatie over de CloudAscent Propensity-rapporten in Partner
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 4248c3d72512073ba361bf1e0ee276a766b04176
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 14e0ceb931a5eb58dcbab480617e093ebc36df43
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957364"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070882"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent Propensity-rapporten die beschikbaar zijn via Partner Center dashboard
 
 **Juiste rollen:** Rapportviewer voor leidinggevenden | Rapportviewer
 
-Het Partner Center dashboard bevat downloadbare propensiteitsgegevens uit het CloudAscent-programma. De gegevens tonen de kans van klanten om Microsoft-producten te kopen.  In dit artikel wordt de uitsplitsing van deze gegevens beschreven, hoe u de score gebruikt en wat deze betekent.
+Het Partner Center dashboard bevat downloadbare ondersteuningsgegevens uit het CloudAscent-programma. De gegevens tonen de kans van klanten om Microsoft-producten te kopen.  In dit artikel wordt de uitsplitsing van deze gegevens beschreven, hoe u de score gebruikt en wat deze betekent.
 
 ## <a name="summary-definitions"></a>Samenvattingsdefinities
 
@@ -27,7 +27,7 @@ Het Partner Center dashboard bevat downloadbare propensiteitsgegevens uit het Cl
 - **Verlopen overeenkomsten:** binnen het huidige boekjaar geven we het aantal verlopende overeenkomsten op.
 - **Open Expiring Revenue:** de omzet die is gekoppeld aan de openstaande verloopovereenkomsten.
 
-:::image type="content" source="images/insights/customer-opportunity-1.png" alt-text="Schermopname van het dashboard Samenvatting van verkoopkansen van klanten.":::
+:::image type="content" source="images/insights/customer-opportunity-1.png" alt-text="Schermopname van het dashboard Overzicht van verkoopkansen van klanten.":::
 
 ## <a name="cloudascent-smb-segmentation"></a>CloudAscent SMB-segmentatie
 
@@ -37,8 +37,8 @@ Het segment voor kleine tot middelgrote bedrijven (SMB) is onderverdeeld in drie
 
    We definiëren Top Unmanaged op twee manieren:
 
-   - **Belangrijkste niet-beherende gebruikers:** bevat accounts met 300 of meer werknemers. User-Based-accounts zijn geweldige doelen voor de eerste aankoop of uitbreiding van abonnementsproducten op basis van gebruikers, zoals Microsoft 365, Dynamics 365 of Surface.
-   - **Belangrijkste onmanaged rekenkracht:** bevat accounts met een Azure-potentieel van meer dan $ 10.000. Compute-accounts omvatten bestaande Azure. accounts met aanzienlijk potentieel voor het komende jaar en accounts die Azure nog niet hebben aangeschaft, maar een potentieel hebben voor Azure van meer dan $ 10.000.
+   - **Belangrijkste niet-managed op basis van gebruikers:** bevat accounts met 300 of meer werknemers. User-Based zijn uitstekende doelen voor de eerste aankoop of uitbreiding van abonnementsproducten op basis van gebruikers, zoals Microsoft 365, Dynamics 365 of Surface.
+   - **Belangrijkste onmanaged rekenkracht:** bevat accounts met een Azure-potentieel van meer dan $ 10.000. Rekenaccounts omvatten bestaande Azure. accounts met aanzienlijk potentieel voor het komende jaar en accounts die Azure nog niet hebben aangeschaft, maar een potentieel hebben voor Azure van meer dan $ 10.000.
 
 2. **Middelgrote bedrijven** omvatten bestaande klanten en prospectaccounts met 25 tot 300 werknemers.
 
@@ -50,7 +50,7 @@ Het segment voor kleine tot middelgrote bedrijven (SMB) is onderverdeeld in drie
 
 **De belangrijkste subsegmenten Unmanaged** en **Medium Business** vertegenwoordigen klanten met een hoge levensduur (LTV) voor Microsoft en Microsoft-partners. Daarom zijn ze de hoofdgebieden van de focus om de groei in dit segment te stimuleren. In deze twee subsegmenten zijn we beter in staat om de socket te verkrijgen met Microsoft 365, verder geld te verdienen met D365-/Azure LOB-apps (Line-Of-Business) en een hoge LTV voor Microsoft te realiseren.
 
-Op dit moment hebben we twee belangrijke gebieden van kansen: 1. onze klant voegt groei toe; 2. hoewel we goed zijn in het verkrijgen van cloudsockers die Microsoft 365, hebben we een grote kans in Dynamics 365 en Azure.
+Op dit moment hebben we twee belangrijke gebieden van kansen: 1. onze klant voegt groei toe; 2. hoewel we goed in staat zijn om cloudsockers te verkrijgen die Microsoft 365, hebben we een grote kans in Dynamics 365 en Azure.
 
 De volgende schermopname vertegenwoordigt de vier SMB-subsegmenten. CloudAscent prioriteert de profilering, score en modellering van alle niet-beherende en middelgrote zakelijke accounts.
 
@@ -58,11 +58,11 @@ De volgende schermopname vertegenwoordigt de vier SMB-subsegmenten. CloudAscent 
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
-SMB maakt gebruik machine learning om voorspellingen van verkoop- en marketingklant binnen de segmenten Top Unmanaged en Medium Business te stimuleren. Hoe worden signalen verzameld en omgezet in aanbevelingen voor goedheid?
+SMB gebruikt machine learning om voorspellingen van verkoop- en marketingklant binnen de segmenten Top Unmanaged en Medium Business te stimuleren. Hoe worden signalen verzameld en omgezet in aanbevelingen voor goedheid?
 
-- **Gegevensverzameling:** web-crawlers scannen en verzamelen miljarden klantsignalen door de bedrijfsdomeinen te pingen en blogposts, drukreleases, sociale streams en technische forums te bewaken.  Naast de verzamelde signalen wordt er firmographics-informatie verzameld uit zowel interne als externe bronnen, zoals D&B, een intern Microsoft-abonnement en transactionele gegevens.
+- **Gegevensverzameling:** web-crawlers scannen en verzamelen miljarden klantsignalen door de bedrijfsdomeinen te pingen en blogposts, drukreleases, sociale streams en technische forums te bewaken.  Naast de verzamelde signalen wordt er firmographics-informatie verzameld uit zowel interne als externe bronnen, zoals D&B, het interne Microsoft-abonnement en transactionele gegevens.
 
-- **Machine Learning:** De signalen worden ingevoerd in het machine learning-model dat per cloudproduct en cluster een gestructureerde gegevensset van verkoop- en marketingvoorspellingen voor elke klant uitvoert.  Elke klant wordt op basis van een look-gelijk model gescored op de belangrijkste SMB van Microsoft die bepaalt wat de klant past, en machine learning-algoritmen die het onlinegedrag van de klant integreren, definiëren als Intentie. De score wordt samengevoegd in clusters die laten zien dat een klant microsoft cloudproducten wil kopen.
+- **Machine Learning:** De signalen worden ingevoerd in het machine learning-model dat per cloudproduct en cluster een gestructureerde gegevensset van verkoop- en marketingvoorspellingen voor elke klant uitvoert.  Elke klant wordt scoren met behulp van een model dat lijkt op het belangrijkste SMB van Microsoft dat de fit van de klant bepaalt, en machine learning-algoritmen die het onlinegedrag van de klant integreren, definiëren als Intentie. De score wordt samengevoegd in clusters die laten zien dat een klant microsoft cloudproducten wil kopen.
 
 - **Optimalisatie:** het Machine Learning optimaliseert de modellen door de transactiegegevens maandelijks en de abonnementsgegevens per kwartaal te gebruiken.  Met behulp van de winst-/verliesgegevens past de Machine Learning de algoritmen aan en controleert deze of de modellen werken zoals verwacht door clusteraanbevelingen te vergelijken met verkoopkansen die in MSX worden gebruikt.
 
@@ -74,7 +74,7 @@ Hoe worden aanbevelingen voor de eigenheid gemaakt?
 
 Met behulp van signalen die worden verzameld via web-crawlers en gegevens die afkomstig zijn uit verschillende bronnen, consolideren we de firmographics-gegevens en de signalen voor sociale media van de klant.  De score maakt gebruik van deze signalen en gegevens in vergelijkingsmodellen voor geschikte en scoring-modellen voor Intentie.
 
-1. Passend klantaccount
+1. Klantaccount aanpassen
 
    - Interne en externe gegevenspunten die firmographics definiëren.
 
@@ -103,9 +103,9 @@ Met behulp van signalen die worden verzameld via web-crawlers en gegevens die af
 
    Met de clustering kunnen gebruikers zich richten op specifieke klanten voor verkoop- en marketinginitiatieven op basis van segmentfactoren, bijvoorbeeld: product, geo, branche en verticaal.
 
-   Het **tabblad Propensity-model** in de CloudAscent Workbooks deelt de eigenaarschap en de geschatte witruimte-omzet. Voor het definiëren van de clustering van Fit and Intent doorlopen we de volgende stappen:
+   Het **tabblad Propensity-model** in de CloudAscent Workbooks deelt de reactiviteit en de geschatte witruimte-omzet. Voor het definiëren van de clustering van Fit and Intent doorlopen we de volgende stappen:
 
-      1. Met ML Modellen berekenen we eerst De score voor klantfitting en intentiescore op een schaal van 100.  Exacte scores variëren op basis van ML modellen.  Voorbeeldscores hieronder:
+      1. Met behulp ML Modellen berekenen we eerst de Customer Fit Score en intent Score op een schaal van 100.  Exacte scores variëren op basis van ML modellen.  Voorbeeldscores hieronder:
 
          |**Classificatie**|**Score**|
          |---------|:---------|

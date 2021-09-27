@@ -4,16 +4,16 @@ description: Meer informatie over de systeemquery's die u kunt gebruiken voor to
 ms.topic: reference
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9f82907d24a1693097d8c9cfc42094be067639b1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: deb932d84ac3b1f3d6d9a63e0ef1fa75df3e4dcd
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957439"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070764"
 ---
 # <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>Lijst met systeemquery's voor programmatische toegang tot partnerinzichten
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Meer informatie over het downloaden en exporteren van gegevens vanuit het Partner Center dashboard voor geïntegreerde rapportage en Partner Center Insights rapporten.
-author: shthota77
-ms.author: shthota
+description: Meer informatie over het downloaden en exporteren van gegevens vanuit het Partner Center dashboard voor uniforme rapportage en Partner Center Insights rapporten.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ed4e14e5e0e0855dd09e91325ed46610c3acae
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 0451322dae1d08f07a6698b43733dc354e160604
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244908"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071477"
 ---
 # <a name="download-reports"></a>Rapporten downloaden
 
@@ -49,7 +49,7 @@ De volgende rapporten kunnen worden gedownload:
 
 **Azure-gebruik** biedt de azure-gebruiksgegevens. Deze gegevens zijn voor de Azure-abonnementen die worden verkocht of beheerd door de partner. De gebruiksgegevens worden gesplitst per metercategorie en andere sleuteldimenssie. Het rapport wordt maandelijks geaggregeerd.
 
-**Office 365: licentiegebruik bevat de** gebruiksgegevens van Office 365 licenties die zijn verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
+**Office 365: licentiegebruik bevat** de gebruiksgegevens van Office 365 licenties die worden verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals maandelijkse actieve gebruikers (MAU), gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 
 **Enterprise Mobility : licentiegebruik bevat de**  gebruiksgegevens van Enterprise Mobility-licenties die worden verkocht of beheerd door de partner. Het biedt ook klantgegevens en belangrijke metrische gegevens, zoals MAU, gekwalificeerde rechten, en meer. Het rapport wordt maandelijks geaggregeerd.
 

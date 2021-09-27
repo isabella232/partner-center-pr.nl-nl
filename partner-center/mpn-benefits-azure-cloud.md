@@ -9,31 +9,28 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd9d14fd6f7cc9f0376b550e4d87aa5de499312f
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 77a3a85472a430228b5a9c5d11b013a4c4db9f0b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957538"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070277"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Het gebied met voordelen van Azure- en cloudproducten in Partner Center
 
 **Juiste rollen:** Globale | MPN-partnerbeheerder
 
-In dit artikel worden de specifieke voordelen van Azure en de cloud beschreven die beschikbaar zijn voor partners binnen Partner Center. U leert ook hoe u bepaalde typen Azure- en cloudabonnementen activeert.
+In dit artikel worden de specifieke voordelen van Azure en de cloud beschreven die voor partners beschikbaar zijn binnen Partner Center. U leert ook hoe u bepaalde typen Azure- en cloudabonnementen activeert.
  
 ## <a name="overview"></a>Overzicht
 
-Als partner in de Microsoft Partner Network hebt u mogelijk toegang tot veel technische en [go-to-market-voordelen](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) voor verschillende gebieden. Als aan u een van de bovenstaande rollen in Partner Center is toegewezen, kunt u veel van deze voordelen rechtstreeks vanuit het Partner Center verkennen. 
-
-> [!NOTE]
-> Voor toegang tot Partner Center Benefits hoeft u zich alleen aan te melden bij het Partner Center [dashboard](https://partner.microsoft.com/dashboard) en **MPN** te selecteren in het navigatiemenu aan de linkerkant. Selecteer vervolgens **Voordelen in** het menu, gevolgd door de specifieke voordelen of het gebied dat u wilt verkennen.
+Als partner in de Microsoft Partner Network hebt u mogelijk toegang tot veel technische en [go-to-market-voordelen](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) voor verschillende gebieden. Als aan u een van de bovenstaande rollen in Partner Center is toegewezen, kunt u veel van deze voordelen rechtstreeks vanuit het Partner Center verkennen.
 
 Een van de voordelen die mogelijk voor u beschikbaar zijn, is **Azure & cloudproducten.** Wanneer u **Azure & cloud selecteert** in Partner Center menu **Voordelen,** wordt de pagina **Azure & cloudproducten** weergegeven.
 
 Op deze pagina worden de volgende details weergegeven:
 
-- Verschillende voordelen & Azure & cloudproductabonnementen die voor u beschikbaar zijn, of het nu gaat om op licenties gebaseerde abonnementen of abonnementen op basis van gebruik
+- Verschillende voordelen & Azure & cloudproductabonnementen, of u nu abonnementen op basis van licenties of abonnementen op basis van gebruik hebt
 - Toegewezen licentiehoeveelheid voor elk product
 - Het aanbiedingstype dat een specifiek voordeelproduct voor u heeft ingericht
 - Het voordeeltype (of het nu afkomstig is van de kern of incrementeel)
@@ -71,7 +68,7 @@ Als u een Microsoft Azure wilt activeren in Partner Center, moet u toegang toewi
 
 - Wanneer u een maandelijks Azure-tegoed van ongeveer $ 100 per maand (of gelijkwaardig in lokale valuta) toewijst, moet u er rekening mee houden dat u op elk moment gebruikers kunt toevoegen aan of verwijderen uit dit abonnement.
 
-- Wanneer u het Azure-tegoed bulksgewijs (jaarlijks) toewijst, is de optie Verwijderen niet beschikbaar in Partner Center.  In plaats daarvan moet u het bulktegoed tijdens uw inschrijvingsjaar overdragen naar iemand anders. Het Azure-abonnement voor bulktegoeden (jaarlijks) kan ook niet worden gecombineerd met andere aanbiedingen voor licenties, vooruitbetaalde of tegoeden (bijvoorbeeld Microsoft Enterprise Agreement, Cloud Solution Provider, Azure in Open, Azure Pass, Microsoft Action Pack, enzovoort).
+- Wanneer u het Azure-tegoed bulksgewijs (jaarlijks) toewijst, is de optie Verwijderen niet beschikbaar in Partner Center.  In plaats daarvan moet u het bulktegoed tijdens uw inschrijvingsjaar overdragen naar iemand anders. Het azure-abonnement voor bulktegoeden (jaarlijks) kan ook niet worden gecombineerd met andere aanbiedingen voor licenties, vooruitbetaalde of tegoeden (bijvoorbeeld Microsoft Enterprise Agreement, Cloud Solution Provider, Azure in Open, Azure Pass, Microsoft Action Pack, enzovoort).
 
 ### <a name="license-based-subscriptions"></a>Op licenties gebaseerde abonnementen
 
@@ -106,7 +103,7 @@ Als u hulp nodig hebt bij de installatie of implementatie van M365-voordelen, ge
 >
 > - Controleer of u meer licenties (seats) moet toevoegen, hoeveel en of u de einddatum wilt verlengen. Als u ervoor kiest om meer licenties  (seats) toe te voegen en u de einddatum niet uitbreidt, biedt het systeem u minder dan 12 maanden actief abonnement. 
 >
-> - Zorg ervoor dat u bent aangemeld met de juiste referenties en dat u de sleutels op de juiste Azure Active Directory (AAD)-tenant activeert. Meld u altijd aan met een privé-/incognito-browservenster om ervoor te zorgen dat u sleutels op de juiste tenant activeert.
+> - Zorg ervoor dat u bent aangemeld met de juiste referenties en dat u de sleutels op de juiste AAD-tenant (Azure Active Directory) activeert. Meld u altijd aan met een privé-/incognito-browservenster om ervoor te zorgen dat u sleutels op de juiste tenant activeert.
 >
 > - De vervaldatum van het voordeel dat wordt weergegeven in Microsoft Partner Center geeft de laatste datum aan waarop gebruiksrechten voor dat voordeel moeten worden gebruikt. Deze datum kan afwijken van de einddatum van het abonnement die wordt vermeld in de portal van het M365-beheercentrum. Dit kan worden veroorzaakt door verschillende factoren, zoals de activeringsdatum van het voordeel, het aantal licenties dat is gekoppeld aan de sleutel en de licenties die zijn toegevoegd of uitgebreid in de beheerportal.
 
@@ -160,19 +157,19 @@ In deze sectie worden enkele voorbeeldlicentiescenario's beschreven voor abonnem
 
 ### <a name="scenario-1"></a>Scenario 1
 
-Als u 100 licenties actief hebt voor een abonnement en u probeert de einddatum te verlengen met behulp van een sleutel met 25 licenties, wordt de einddatum met drie (3) maanden verlengd voor het abonnement met 100 licenties.
+Als u 100 licenties hebt die actief zijn voor een abonnement en u probeert de einddatum te verlengen met behulp van een sleutel met 25 licenties, wordt de einddatum met drie (3) maanden verlengd voor het abonnement met 100 licenties.
 
 ### <a name="scenario-2"></a>Scenario 2
 
-Als u 100 licenties actief hebt voor een abonnement en u probeert de einddatum te verlengen met behulp van een sleutel met 100 licenties, wordt de einddatum met 12 maanden verlengd.
+Als u 100 licenties actief hebt voor een abonnement en u de einddatum probeert te verlengen met behulp van een sleutel met 100 licenties, wordt de einddatum met 12 maanden verlengd.
 
 ### <a name="scenario-3"></a>Scenario 3
 
-Als u vijf (5) licenties hebt die actief zijn voor een abonnement en u de einddatum probeert te verlengen met behulp van een sleutel met 10 licenties, wordt de einddatum met 24 maanden verlengd voor het abonnement met vijf (5) licenties (of seats).
+Als u vijf (5) licenties hebt die actief zijn voor een abonnement en u probeert de einddatum te verlengen met behulp van een sleutel met 10 licenties, wordt de einddatum met 24 maanden verlengd voor het abonnement met vijf (5) licenties (of seats).
 
 ### <a name="scenario-4"></a>Scenario 4
 
-Als u de einddatum probeert uit te breiden met behulp van een sleutel met meer dan 3x actieve licenties/seats, wordt het volgende foutbericht weergegeven. Dit bericht is een ontwerp, omdat de einddatum van het abonnement met maximaal drie jaar kan worden verlengd.
+Als u de einddatum wilt verlengen met behulp van een sleutel met meer dan 3x actieve licenties/seats, wordt het volgende foutbericht weergegeven. Dit bericht is een ontwerp, omdat de einddatum van het abonnement met maximaal drie jaar kan worden verlengd.
 
 :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Foutbericht over Azure- en cloudproducten." border="false":::
 

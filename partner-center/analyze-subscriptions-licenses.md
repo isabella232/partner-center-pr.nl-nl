@@ -3,18 +3,18 @@ title: Abonnementen en licenties analyseren
 description: Meer informatie over het gebruik van de metrische gegevens op de pagina Abonnements- en licentieanalyse om uw succes en gebieden te identificeren die meer aandacht nodig hebben.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: amitravat
-ms.author: amrava
+author: kshitishsahoo
+ms.author: ksahoo
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 393f0ee6c49cbbdf814a823f732bb4b92d4deb2e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 15343553a97824bec75679d6f00497feb6527e39
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126245616"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072499"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Abonnementen en licenties analyseren om zakelijke beslissingen en nieuwe doelen te realiseren
 
@@ -25,7 +25,7 @@ Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegeven
 **TTM-omzet CSP (USD)**: deze metrische waarde vertegenwoordigt de geaggregeerde gefactureerde CSP-omzet (USD) voor de twaalf maanden (TTM) voor de partnerlocatieaccounts en het globale partneraccount (PGA) waar dit CSP-account aan is gekoppeld. Als u andere CSP-accounts met een andere PGA hebt, moet u zich aanmelden bij elk van deze accounts om de bijbehorende geaggregeerde TTM-omzet weer te geven.  Klik op de koppeling met downloadgegevens voor een uitsplitsing van de TTM-omzet (USD) per MPN-id.
 
 >[!NOTE]
->Lokale valutaprijzen (Legacy Commerce FX) in Commercial worden beheerd tot binnen +/-5% van Amerikaanse dollars. De Legacy Commerce Exchange Rate (FX) verschilt van de FX-tarieven voor facturering die door Azure worden gebruikt in de Modern Commerce-ervaring. De fx-tarieven voor facturering voor modern commerce zijn gebaseerd op Microsoft P&L-tarieven (Fx Fx-tarieven van de schatkistfeed). Legacy Commerce FX-tarieven zijn vertrouwelijk van Microsoft.
+>Lokale valutaprijzen (Legacy Commerce FX) in Commercial worden beheerd tot binnen +/-5% van Amerikaanse dollars. De Legacy Commerce Exchange Rate (FX) verschilt van de FX-tarieven voor facturering die door Azure worden gebruikt in de Modern Commerce-ervaring. De FX-tarieven voor facturering in Modern Commerce zijn gebaseerd op Microsoft P&L-tarieven (Fx Fx-tarieven van de schatkistfeed). Legacy Commerce FX-tarieven zijn vertrouwelijk van Microsoft.
 
 
 De rest van het rapport kan draaien op basis van de volgende producten:
@@ -64,7 +64,7 @@ We volgen de volgende metrische gegevens:
 **Abonnementsverloop**  
  - **Nieuwe abonnementen:** aantal nieuwe abonnementen voor de periode, met uitzondering van proefaanbiedingen  
  
- - **Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date (Aantal abonnementen dat is gedeprovisioneerd of opgeschort op datum)  
+ - **Deprovisioned subscriptions**:Count of subscriptions deprovisioned or suspended by date  
 
 **Opgeschorte abonnementen** 
  
@@ -78,7 +78,7 @@ We volgen de volgende metrische gegevens:
 
  - **Conversie van proefversie:** het aantal **actieve abonnementen** waarbij de proefversie die is betaald voor conversie is opgetreden tijdens de opgegeven periode  
 
-**Proefabonnementen die over 30 dagen eindigen**  
+**Proefabonnementen die eindigen op 30 dagen**  
 
  - Lijst met proefversies die zijn gestart, waarbij de einddatum binnen 30 dagen ligt en er geen betaalde begindatum is gekoppeld aan het abonnement  
 

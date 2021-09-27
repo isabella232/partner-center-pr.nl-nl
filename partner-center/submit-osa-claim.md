@@ -1,27 +1,27 @@
 ---
 title: Een klantkoppeling maken
 ms.topic: article
-ms.date: 10/28/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Maak klant associations with the Claiming Partner of Record (CPOR)-model. Helpt bij het beheren van verkoop, gebruik en incentives Microsoft 365 & Dynamics 365-klanten.
+description: Maak klant verbanden met het Claiming Partner of Record (CPOR)-model. Helpt bij het beheren van verkoop, gebruik en incentives Microsoft 365 & Dynamics 365-klanten.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 196009d9271324377be02d0b2d12ba8a4d7a993c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 87c2fc9b9d835b7dfcfbe8736e82d3862409c124
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957220"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073581"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Klant verbanden via het model Geclaimde Partner of Record (CPOR) voor Microsoft 365 en Dynamics 365
 
 
 **Juiste rollen:** Incentives-beheerder
 
-Op 1 oktober 2019 is Microsoft begonnen met het Claiming Partner of Record-model (CPOR) voor het beheren van de verbanden die u hebt met uw Microsoft 365- en Dynamics 365-klanten met betrekking tot het Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 en OSU-Business Application incentives.
+Op 1 oktober 2019 is Microsoft begonnen met het gebruik van het Claiming Partner of Record-model (CPOR) voor het beheren van de verbanden die u hebt met uw Microsoft 365- en Dynamics 365-klanten met betrekking tot het Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 en OSU-Business Application incentives.
 
 >[!Important]
 > CPOR-claims (Customer Association) zijn alleen van toepassing op de Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 en OSU-Business Application incentive-programma's. Als u een claim voor samenwerking indient voor een ander programma, zoals Cloud Solution Provider (CSP), Managed Reseller, Hosting of Surface, raadpleegt u het proces voor samenwerkingsclaims dat hier wordt beschreven. <br><br>Wanneer u uw claim indient, valideert Microsoft deze. We kunnen u op dit moment om meer informatie vragen. We stellen de klant ook op de hoogte van uw associatieaanvraag. Klanten hebben vijf werkdagen om af te zien. Als ze zich niet uiten, is uw associatie met deze specifieke tenant en workload officieel. Op dit moment hebt u toegang tot de gebruiksgegevens van de klant. 
@@ -62,6 +62,50 @@ U moet ook de volgende punten begrijpen:
 
 ## <a name="create-a-customer-association"></a>Een klantkoppeling maken
 
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
+
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/).
+
+2. Selecteer de **tegel Incentives** en selecteer vervolgens **Klant associations**.
+
+3. Selecteer boven aan de pagina Klant associations de optie **+ Customer association.**
+
+4. Selecteer de **MPN-ID** van de partnerlocatie die aan de klant moet worden gekoppeld en voeg vervolgens de domeinnaam en directory-id van de klant toe. [Zoek deze](find-ids-and-domain-names.md)
+
+5. Selecteer **Doorgaan**.
+
+6. Selecteer het **gebied Oplossing en** **Activiteit**. 
+
+   > [!NOTE]
+   > Als u Business Applications selecteert, selecteert u **Gebruik en/of Pre-sales** of **Omzet-associatie** en selecteert u **vervolgens Doorgaan.**
+   >
+   > Als u Revenue association selecteert, wordt u gevraagd om iets andere informatie dan hieronder wordt weergegeven.
+
+7. Voer de juiste informatie in op **de pagina Klant** koppelen en selecteer vervolgens Claim **maken.**
+
+8. Selecteer de producten die zijn gekoppeld aan deze klantbinding en selecteer vervolgens **Doorgaan.**
+
+9. Vul de contactgegevens van de klant en van uw bedrijf in. Alle velden zijn verplicht. 
+
+   > [!NOTE]
+   > Als uw product Dynamics 365 is en het product dat u kiest meerdere abonnementen heeft voor deze specifieke klant, moet u ook de abonnements-id invoeren.
+
+10. Uw PoE leveren. U kunt deze naar het vak slepen, naar uw eigen ondersteunende documentatie bladeren of een sjabloon gebruiken door **Download template** te selecteren. 
+
+11. Voeg desgewenst opmerkingen toe en sla deze op voordat u **Submit claim** selecteert. Er wordt een e-mail verzonden naar de klant met het verzoek om goedkeuring voor de klantkoppeling.
+
+   > [!NOTE]
+   > Zodra u uw klantbinding hebt indienen, kunt u deze niet meer bewerken.
+
+De status van de klantkoppeling wordt weergegeven in het veld **Status**.
+
+Selecteer **History** om de geschiedenis van een klantkoppeling te bekijken.
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
 1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/).
 
 2. Selecteer het **tabblad Incentives,** selecteer **Overzicht** en selecteer vervolgens **Klant associations.**
@@ -72,12 +116,12 @@ U moet ook de volgende punten begrijpen:
 
 5. Selecteer **Doorgaan**.
 
-6. Selecteer het **gebied Oplossing en** **Activiteit**. 
+6. Selecteer het **gebied Oplossing en** **Activiteit**.
 
-   >[!Note]
+   > [!NOTE]
+   > Als u Business Applications selecteert, selecteert u **Gebruik en/of Pre-sales** of **Omzet-associatie** en selecteert u **vervolgens Doorgaan.**
    >
-   >Als u Business Applications selecteert, selecteert u **Gebruik en/of Pre-sales** of **Omzet-associatie** en selecteert u **vervolgens Doorgaan.** 
-   <br><br>Als u Revenue association selecteert, wordt u gevraagd om iets andere informatie dan hieronder wordt weergegeven.
+   > Als u Revenue association selecteert, wordt u gevraagd om iets andere informatie dan hieronder wordt weergegeven.
 
 7. Voer de juiste informatie in op **de pagina Klant** koppelen en selecteer vervolgens Claim **maken.**
 
@@ -85,19 +129,21 @@ U moet ook de volgende punten begrijpen:
 
 9. Vul de contactgegevens van de klant en van uw bedrijf in. Alle velden zijn verplicht. 
 
-   >[!NOTE]
-   >Als uw product Dynamics 365 is en het product dat u kiest meerdere abonnementen heeft voor deze specifieke klant, moet u ook de abonnements-id invoeren.
+   > [!NOTE]
+   > Als uw product Dynamics 365 is en het product dat u kiest meerdere abonnementen heeft voor deze specifieke klant, moet u ook de abonnements-id invoeren.
 
 10. Uw PoE leveren. U kunt deze naar het vak slepen, naar uw eigen ondersteunende documentatie bladeren of een sjabloon gebruiken door **Download template** te selecteren. 
 
 11. Voeg desgewenst opmerkingen toe en sla deze op voordat u **Submit claim** selecteert. Er wordt een e-mail verzonden naar de klant met het verzoek om goedkeuring voor de klantkoppeling.
 
-   >[!NOTE]
-   >Zodra u uw klantbinding hebt indienen, kunt u deze niet meer bewerken.
+   > [!NOTE]
+   > Zodra u uw klantbinding hebt indienen, kunt u deze niet meer bewerken.
 
 De status van de klantkoppeling wordt weergegeven in het veld **Status**.
 
 Selecteer **History** om de geschiedenis van een klantkoppeling te bekijken.
+
+* * *
 
 ## <a name="next-steps"></a>Volgende stappen
 

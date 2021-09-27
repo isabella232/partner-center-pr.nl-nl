@@ -1,19 +1,19 @@
 ---
 title: Incentives-inschrijving
 ms.topic: how-to
-ms.date: 04/15/2021
+ms.date: 09/27/2021
 description: Schrijf u in voor het incentives-programma en wijs de benodigde rollen toe voor gebruikersbeheer. In dit artikel wordt het inschrijvingsproces beschreven.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: f3be1b1d267321a4229ba3ea56aa950e14538289
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: c9a7dbae07ece38668a0b59b31c6e3e70e2280df
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957187"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074905"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inschrijving en gebruikersbeheer in het incentives-programma
 
@@ -33,13 +33,13 @@ Het inschrijvingsproces bestaat uit twee stappen.
 Als u zich wilt inschrijven voor Partner Center incentive-programma, moet de Globale beheerder- of accountbeheerder uw bedrijfsgebruikers instellen als Incentive-beheerders. Zie Manage your Partner Center account (Uw account beheren) voor meer informatie over [partneraccounts, Partner Center en machtigingen.](partner-center-account-setup.md) De Globale beheerder kunt uw bedrijfsgebruikers ook instellen via de Azure Active Directory (Azure AD).
 
 >[!NOTE]
->Alleen de Incentive-beheerder kan zich inschrijven voor incentive-programma's. Als er geen Incentive-beheerder voor uw locatie is, moeten Globale beheerder accountbeheerder er een toewijzen. De Incentive-beheerder moet worden toegewezen voor de MPN-locatie-ID's. De Globale beheerder of accountbeheerder kan ook worden toegewezen als de Incentive-beheerder. Zie Incentives beheren voor meer informatie [over verschillende rollen.](permissions-overview.md#manage-incentives)
+>Alleen de Incentive-beheerder kan zich inschrijven voor incentive-programma's. Als er geen Incentive-beheerder voor uw locatie is, moeten Globale beheerder en accountbeheerder er een toewijzen. De Incentive-beheerder moet worden toegewezen voor de MPN-locatie-ID's. De Globale beheerder of accountbeheerder kan ook worden toegewezen als de Incentive-beheerder. Zie Incentives beheren voor meer informatie [over verschillende rollen.](permissions-overview.md#manage-incentives)
 
 ## <a name="enrollment-process"></a>Inschrijvingsproces
 
-Zodra uw organisatie in aanmerking komt voor incentives, stuurt Microsoft een uitnodiging naar de Incentive-beheerder van de in aanmerking komende MPNLocationID om het inschrijvingsproces te starten. Dit e-mailbericht wordt verzonden **vanuit Microsoft Partner Center** en heeft het onderwerp Partner Incentive **Enrollment Invitation**. Open de uitnodiging en selecteer **Aan de slag**.
+Zodra uw organisatie in aanmerking komt voor incentives, stuurt Microsoft een uitnodiging naar de Incentive-beheerder van de in aanmerking komende MPNLocationID om het inschrijvingsproces te starten. Dit e-mailbericht wordt verzonden **vanuit Microsoft Partner Center** en heeft het onderwerp Uitnodiging voor Partner **Incentive-inschrijving.** Open de uitnodiging en selecteer **Aan de slag**.
 
-U ziet ook een uitnodiging op de Partner Center startpagina. Zodra u dat bericht hebt geselecteerd, kunt u het niet meer zien. De Incentive-beheerder kan het proces echter nog steeds voltooien door zich aan te melden bij Partner Center [dashboard](https://partner.microsoft.com/dashboard/) en Overzicht te selecteren **onder** **Incentives** in het linkernavigatiepaneel. Selecteer **Inschrijven en** voltooi vervolgens het uitbetalings- en belastingprofiel voor het programma.
+U ziet ook een uitnodiging op de Partner Center startpagina. Zodra u dat bericht hebt geselecteerd, kunt u het niet meer zien. De Incentive-beheerder kan het proces echter nog steeds voltooien door zich aan te melden bij Partner Center [dashboard](https://partner.microsoft.com/dashboard/) en de **tegel Incentives te** selecteren. Selecteer **Inschrijven en** voltooi vervolgens het uitbetalings- en belastingprofiel voor het programma.
 
 Als u al een standaard bankprofiel hebt ingesteld voor een MPN-locatie en u zich probeert in  te schrijven voor dezelfde MPN-locatie in een incentive-programma, ziet u het standaard bankprofiel wanneer u Inschrijven selecteert en de uitnodiging accepteert. U krijgt ook een beschikbaar belastingprofiel te zien als u dit hebt gemaakt voor die MPN-locatie. Als Microsoft over alle vereiste bank- en belastingprofielgegevens beschikt, wordt u gevraagd om Indienen te selecteren **om** de inschrijving te voltooien. Zie [Een standaard bankprofiel instellen.](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)
 

@@ -4,28 +4,28 @@ description: Gebruik de voorbeeldquery's om programmatisch toegang te krijgen to
 ms.topic: reference
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 36da8a59548142bf09daf42dbc936fba15d46d1e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 18e50ec8108f5998b57630960026d039ab68803a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957394"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075321"
 ---
 # <a name="sample-queries-for-partner-center-insights-report"></a>Voorbeeldquery's voor Partner Center insights-rapport
 
-Dit artikel bevat voorbeeldquery's voor de partnerrapporten Insights rapporten. U kunt deze query's gebruiken door het eindpunt rapportquery-API maken aan te roepen. Indien nodig kan de api-aanroep [Rapportquery maken](insights-programmatic-access-paradigm.md#create-report-query-api) worden gewijzigd om meer kolommen toe te voegen, de berekeningsperiode aan te passen en filtervoorwaarden toe te voegen.
+Dit artikel bevat voorbeeldquery's voor de partner Insights rapporten. U kunt deze query's gebruiken door het eindpunt van de API voor rapportquery's maken aan te roepen. Indien nodig kan de api-aanroep [Rapportquery maken](insights-programmatic-access-paradigm.md#create-report-query-api) worden gewijzigd om meer kolommen toe te voegen, de berekeningsperiode aan te passen en filtervoorwaarden toe te voegen.
 
-Raadpleeg gegevensdefinities voor meer informatie over de kolomnamen, kenmerken en [beschrijvingen.](insights-data-definitions.md)
+Raadpleeg de Gegevensdefinities voor meer informatie over de kolomnamen, kenmerken en [beschrijvingen.](insights-data-definitions.md)
 
 ## <a name="customer-details"></a>Klantgegevens
 
 Deze voorbeeldquery's zijn van toepassing op het detailrapport van de klant:
 
-### <a name="by-geography"></a>Op geografische locatie
+### <a name="by-geography"></a>Op geografie
 
 Lijst met klanten van een specifieke geografie in de afgelopen maand.
 
@@ -37,7 +37,7 @@ WHERE CustomerMarket='United States' TIMESPAN LAST_MONTH
 
 ### <a name="by-sku-and-billed-revenue"></a>Per SKU en gefactureerde omzet
 
-Lijst met klanten die een specifieke SKU en gefactureerde omzet gebruiken, is in de afgelopen 6 maanden meer dan 20.000
+Lijst met klanten die een specifieke SKU en gefactureerde omzet gebruiken, is in de afgelopen zes maanden meer dan 20.000
 
 ```sql
 SELECT CustomerName, CustomerTpid, SKU, Month, BilledRevenueUSD 
@@ -47,7 +47,7 @@ WHERE SKU='MICROSOFT 365 BUSINESS STANDARD' AND BilledRevenueUSD>20000 TIMESPAN 
 
 ### <a name="by-available-seats"></a>Op beschikbare seats
 
-Top 10 klanten op basis van beschikbare seats in de afgelopen maand
+Top 10 van klanten op basis van beschikbare seats in de afgelopen maand
 
 ```sql
 SELECT CustomerName, CustomerTpid, Product, AvailableSeats 
@@ -58,7 +58,7 @@ FROM CustomersAndTenants ORDER BY AvailableSeats DESC LIMIT 10 TIMESPAN LAST_MON
 
 Deze voorbeeldquery's zijn van toepassing op het partnerprofielrapport:
 
-### <a name="by-geography"></a>Op geografische locatie
+### <a name="by-geography"></a>Op geografie
 
 Lijst met partners uit een specifieke geografie.
 
@@ -82,9 +82,9 @@ WHERE PGAMpnId='1001xx'
 
 Deze voorbeeldquery's zijn van toepassing op het prestatierapport van de reseller:
 
-### <a name="by-geography"></a>Op geografische locatie
+### <a name="by-geography"></a>Op geografie
 
-Lijst met resellers van een specifieke geografie in de afgelopen maand.
+Lijst met resellers uit een specifieke geografie in de afgelopen maand.
 
 ```sql
 SELECT ResellerMpnId, ResellerName 
@@ -94,7 +94,7 @@ WHERE ResellerMarket='US' TIMESPAN LAST_MONTH
 
 ### <a name="by-reseller"></a>Per reseller
 
-Aantal klanten, aantal abonnementen, totale beschikbare seats, totaal aantal toegewezen seats, totale omzet voor een specifieke reseller.
+Aantal klanten, aantal abonnementen, totale beschikbare seats, totaal toegewezen plaatsen, totale omzet voor een specifieke reseller.
 
 ```sql
 SELECT ResellerMpnId, ResellerName, CustomerCount, SubscriptionCount, TotalAvailableSeats, TotalAssignedSeats, TotalRevenue 
@@ -116,11 +116,11 @@ TIMESPAN LAST_MONTH
 
 ## <a name="subscription-details"></a>Abonnementsgegevens
 
-Deze voorbeeldquery's zijn van toepassing op het rapport met abonnementsdetails:
+Deze voorbeeldquery's zijn van toepassing op het rapport met abonnementsgegevens:
 
 ### <a name="by-renewal-eligibility"></a>Door geschiktheid voor verlenging
 
-Lijst met abonnementen die niet in aanmerking komen voor automatische verlenging in de afgelopen maand.
+Lijst met abonnementen die de afgelopen maand niet in aanmerking komen voor automatische verlenging.
 
 ```sql
 SELECT SubscriptionId, SubscriptionEndDate, CustomerName, CustomerTpid, Product 
@@ -140,7 +140,7 @@ WHERE SubscriptionState='Disabled' TIMESPAN LAST_MONTH
 
 ### <a name="counts-for-six-months"></a>Tellingen voor zes maanden
 
-Aantal abonnementen, totaal aantal verkochte seats, klanttelling voor een specifieke partner in de afgelopen zes maanden.
+Aantal abonnementen, totaal aantal verkochte seats, klant aantal voor een specifieke partner in de afgelopen zes maanden.
 
 ```sql
 SELECT MPNId, SubscriptionCount, TotalSoldSeats, BilledRevenueUSD, CustomerCount 
@@ -163,9 +163,9 @@ WHERE MeterCategory='Azure DNS'
 TIMESPAN LAST_6_MONTHS
 ```
 
-### <a name="by-total-acr"></a>Op totaal ACR
+### <a name="by-total-acr"></a>Op totale ACR
 
-Lijst met Azure-gebruiksabonnementen waarbij de totale ACR de afgelopen zes maanden hoger is dan 20.000
+Lijst met Azure-gebruiksabonnementen waarbij de totale ACR in de afgelopen zes maanden groter is dan 20.000
 
 ```sql
 SELECT SubscriptionId, ServiceName, CustomerName, Month, UsageUnits, UsageQuantity, TotalACR 

@@ -8,16 +8,15 @@ ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
-ms.date: 10/12/2020
-ms.openlocfilehash: e7e18c967481e0bfb6e6b8466746beb5ed8459b9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/27/2021
+ms.openlocfilehash: 12355f2c7559e24d6ccfcc4feb22d43745b741c9
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126245005"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071423"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Uw rol, uw machtigingen en uw globale beheerder zoeken
-
 
 **Juiste rollen:** alle Partner Center gebruikers
 
@@ -25,27 +24,28 @@ ms.locfileid: "126245005"
 
 Als uw globale beheerder u niets heeft verteld, kunt u op de volgende manier na gaan welke rol u in Partner Center hebt:
 
-1. Meld u aan Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
 
-1. Selecteer het **pictogram Accountinstellingen** en selecteer vervolgens **Mijn profiel**.
- 
-1. Selecteer het **tabblad Rollen en** machtigingen. U ziet uw rollen en machtigingen.
- 
->[!Note]
->Als u tijdens het aanmelden geen programma ziet, betekent dit meestal dat u niet de juiste machtigingen hebt om in dat programma te werken. Als u bijvoorbeeld de pagina Incentives niet ziet wanneer u zich aanmelden, hebt u geen incentives-machtigingen. Uw globale beheerder kan u de benodigde machtigingen geven.
+2. Selecteer het Instellingen tandwielpictogram en vervolgens **Account Instellingen** en selecteer **Mijn profiel**.
+
+3. Selecteer het **tabblad Rollen en** machtigingen. U ziet uw rollen en machtigingen.
+
+> [!NOTE]
+> Als u tijdens het aanmelden geen programma ziet, betekent dit meestal dat u niet de juiste machtigingen hebt om in dat programma te werken. Als u bijvoorbeeld de pagina Incentives niet ziet wanneer u zich aanmelden, hebt u geen incentives-machtigingen. Uw globale beheerder kan u de benodigde machtigingen geven.
 
 ## <a name="find-your-global-admin"></a>Uw globale beheerder zoeken
 
 Soms moet de rol van een gebruiker worden gewijzigd of wil een nieuwe gebruiker een specifieke roltoewijzing.
 
-Een globale beheerder zoeken die rolwijzigingen kan aanbrengen of rollen kan toewijzen aan een nieuwe gebruiker: 
+Een globale beheerder zoeken die rolwijzigingen kan aanbrengen of rollen kan toewijzen aan een nieuwe gebruiker:
 
-1. Selecteer in **het pictogram Accountinstellingen** rechtsboven Partner Center de optie **Gebruikersbeheer.**
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
 
-1. Filteren op globale beheerder
+2. Selecteer het Instellingen tandwielpictogram en vervolgens **Account Instellingen** en selecteer **vervolgens Gebruikersbeheer.**
 
-1. U kunt ook naar Mijn profiel **gaan,** Rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen.  
+3. Filter op globale beheerder.
 
+4. U kunt ook naar Mijn profiel **gaan,** rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen. 
 
 ## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Een nieuwe globale beheerder toewijzen aan uw bedrijf
 
@@ -54,4 +54,3 @@ Als uw globale beheerder het bedrijf verlaat, moet iemand anders deze rol invull
 [Nieuwe globale beheerder voor Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
 
 [Nieuwe globale beheerder voor Office 365](https://admin.microsoft.com/)
-

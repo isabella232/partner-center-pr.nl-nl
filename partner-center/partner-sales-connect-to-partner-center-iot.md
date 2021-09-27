@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 07/07/2021
-ms.openlocfilehash: 2b05046118c83c0d398272da68054a8a0c9c48e4
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.date: 09/27/2021
+ms.openlocfilehash: 1e32ed101c733ced14ac02f7e58b924d78313358
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128360199"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075791"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Handleiding voor het maken en beheren van IOT-deals in Partner Center (PC) voor IOT-partners die migreren vanuit Partner Sales Verbinding maken (PSC)
 
@@ -22,10 +22,10 @@ ms.locfileid: "128360199"
 
 Dit artikel bevat richtlijnen voor IOT-partners die migreren van Partner Sales Verbinding maken (PSC) naar Partner Center (PC), zodat ze deals in een Partner Center.
 
->[!Note]
+> [!NOTE]
 > Deze handleiding is alleen **van toepassing voor IOT-zakelijke partners die** hun deals beheren in PSC.
 
->[!Important]
+> [!IMPORTANT]
 > Vanaf 15 augustus 2021 kan uw bedrijf geen deals maken of bewerken in PSC. **U kunt nog steeds de bestaande dealsgegevens downloaden met behulp van de bulkexportfunctie in PSC. U kunt ook [openstaande deals migreren van](partner-sales-connect-to-partner-center-iot.md#psc-deals-migration) PSC naar Partner Center na deze datum.**
 
 Zoals u weet, **heeft uw bedrijf na 30 augustus 2021** geen toegang meer tot PSC. U vindt echter nog steeds alles wat u wilt doen in Partner Center, zoals het maken en beheren van deals.
@@ -39,7 +39,7 @@ Er zijn echter wel verschillen. De volgende richtlijnen kunnen helpen om uw over
 - U hebt een e-mailadres van het werk nodig om u aan te melden [bij Partner Center](https://partner.microsoft.com/).
 - Stel uw account in met behulp van de Partner Center [accountbeheerder](permissions-overview.md).
 - Meer informatie over het maken en beheren van IOT-deals in Partner Center door dit document te lezen.
-- Stel gebruikersaccounts in Partner Center voor al uw PSC-gebruikers (beheerders-, dealbeheer- en verkoperrollen) en wijs deze gebruikersrollen toe als [verwijzingsbeheerder of verwijzingsgebruiker.](permissions-overview.md)
+- Stel gebruikersaccounts in Partner Center voor al uw PSC-gebruikers (beheerders-, dealbeheer- en verkoperrollen) en wijs deze gebruikersrollen voor verwijzingsbeheerder of verwijzing [toe.](permissions-overview.md)
 
 ### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Als u een PSC-dealmanager of verkoper bent
 
@@ -53,33 +53,33 @@ Er zijn echter wel verschillen. De volgende richtlijnen kunnen helpen om uw over
 
 Selecteer in Partner Center linkernavigatiemenu **de optie Verwijzingen.** Controleer of u toegang hebt tot de pagina Kansen voor co-verkoop.
 
-  >[!Note]
+  > [!NOTE]
   > Mogelijk moet u zich bij uw Partner Center en weer aanmelden om uw referenties te vernieuwen voor toegang tot de verwijzingenpagina's.
 
 **Als** u de optie  Verwijzingen niet ziet in het Partner Center-menu of de pagina's met verwijzingen, neem dan contact op met de [accountbeheerder](permissions-overview.md) van uw bedrijf en vraag deze om u toegang te geven tot de optie Verwijzingen en het bijbehorende gebied.
 
 Ga als volgende te werk om de accountbeheerder van uw bedrijf te vinden:
 
-1. Selecteer **Accountinstellingen** in het tandwielpictogram rechtsboven in Partner Center dashboard.
+1. Selecteer het Instellingen tandwielpictogram in het Partner Center dashboard en selecteer **vervolgens Accountinstellingen.**
 
-1. Selecteer **Gebruikersbeheer in** het navigatiemenu links op het tweede niveau.
+2. Selecteer **Gebruikersbeheer in** het navigatiemenu links op het tweede niveau.
 
-1. Selecteer bovenaan de lijst met gebruikers de **vervolgkeuzelijst** Filter. Wijzig de optie in **Accountbeheerder**.
+3. Selecteer bovenaan de lijst met gebruikers de **vervolgkeuzelijst** Filter. Wijzig de optie in **Accountbeheerder**.
 
    Op de pagina worden alle accountbeheerders met hun respectieve e-mailadressen weergegeven. Stuur een e-mail naar een van deze en vraag deze om de beheerdersrol verwijzingen toe te wijzen voor uw werkaccount.
 
   :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Afbeelding van de accountbeheerders op de pagina Gebruikersbeheer van partnerinstellingen.":::
 
->[!Important]
->- Als uw rol alleen betrekking heeft op het beheren van gebruikers in PSC, vraagt u de accountbeheerder van uw bedrijf u de [rol van accountbeheerder](permissions-overview.md#manage-mpn-membership-and-your-company) toe te wijzen in Partner Center volgens het beleid van uw bedrijf.
->- Als uw rol ook het beheren van ioT-deals omvat, vraagt u om waar nodig de gebruikersrol verwijzingenbeheerder of verwijzingen toegewezen te krijgen. [](permissions-overview.md#manage-referrals)
+> [!IMPORTANT]
+> - Als uw rol alleen betrekking heeft op het beheren van gebruikers in PSC, vraagt u de accountbeheerder van uw bedrijf u de [rol van accountbeheerder](permissions-overview.md#manage-mpn-membership-and-your-company) toe te wijzen in Partner Center volgens het beleid van uw bedrijf.
+> - Als uw rol ook het beheren van ioT-deals omvat, vraagt u om waar nodig de gebruikersrol verwijzingenbeheerder of verwijzingen toegewezen te krijgen. [](permissions-overview.md#manage-referrals)
 > - Het is een goed idee om ook één lead voor wijzigingsbeheer te benoemen bij de PSC-beheerders. Zo voorkomt u dat alle PSC-beheerders afzonderlijk contact moeten maken met Partner Center accountbeheerders. In plaats daarvan kan de lead voor wijzigingsbeheer de primaire persoon zijn die met de Partner Center accountbeheerder werkt.
 
 ## <a name="user-migration"></a>Gebruikersmigratie
 
 Nadat u uw account hebt ingesteld in Partner Center, gebruikt u de wizard gebruikersmigratie op de pagina verkoopkansen om automatisch Partner Center toewijzen aan werknemers van uw bedrijf.
 
->[!Note]
+> [!NOTE]
 > Gebruikersmigratie kan alleen worden uitgevoerd door [accountbeheerders](permissions-overview.md#manage-mpn-membership-and-your-company) van uw bedrijf. Als u niet de rol van accountbeheerder hebt, zoek dan een accountbeheerder die u kan helpen bij het instellen van de gebruikersaccounts met behulp van de wizard gebruikersmigratie.
 
 :::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Afbeelding van de wizard gebruikersmigratie.":::
@@ -106,12 +106,12 @@ Soms kan de migratie mislukken en leiden tot fouten. Hier zijn enkele redenen wa
 2. De PSC-gebruiker gebruikt mogelijk een account uit een ander domein dan het account dat u gebruikt in Partner Center.
 
    Als u fouten met betrekking tot scenario 1 en 2 wilt oplossen, vraagt u de gebruiker zich aan te melden bij Partner Center met het werkaccount dat is gekoppeld aan uw Azure AD-tenant. Uw [globale beheerder](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) kan u helpen.
-   
+
    Uw globale beheerder zoeken: 
-   1. Meld u aan Partner Center [dashboard en](https://partner.microsoft.com/dashboard) selecteer **Accountinstellingen** in het tandwielpictogram rechtsboven.
+   1. Meld u aan bij [Partner Center dashboard en](https://partner.microsoft.com/dashboard) selecteer Instellingen tandwielpictogram en vervolgens **Accountinstellingen.**
    2. Selecteer **Gebruikersbeheer in** de linkernavigatiebalk op het tweede niveau.
    3. Selecteer bovenaan de lijst met gebruikers de **vervolgkeuzelijst Filter** en wijzig de optie in **Globale beheerder.** Op de pagina worden vervolgens alle globale beheerders met hun respectieve e-mailadressen weergegeven. Vraag een van deze om de rol van verwijzingsbeheerder voor uw werkaccount toe te wijzen.
-   
+
       De globale beheerder kan een nieuw gebruikersaccount maken in uw Azure AD-tenant of gastgebruikerstoegang toewijzen aan de andere domeinaccountgebruikers. Zodra de accounts zijn ingesteld voor alle PSC-dealmanagers en -gebruikers, moeten ze zich aanmelden bij Partner Center, **Verwijzingen** selecteren in het navigatiemenu aan de linkerkant en bevestigen dat ze de pagina Verwijzingen kunnen zien.
 
 3. De gebruiker heeft al een verwijzingsrol toegewezen in Partner Center.
@@ -143,13 +143,13 @@ Voordat u begint met de dealmigratie Partner Center, volgt u de onderstaande ins
 
 U kunt de mogelijkheden voor bulksgewijs downloaden en uploaden in PSC gebruiken om alle ontbrekende details in de deal toe te voegen voor alle in aanmerking komende deals.
 
->[!Note]
+> [!NOTE]
 > De dealmigratie slaagt zelfs als niet aan de bovenstaande vereisten wordt voldaan. U kunt de status van de deal echter niet wijzigen als een van de hierboven genoemde vereiste velden in Partner Center niet beschikbaar zijn. Vervolgens moet u alle vereiste gegevens invoeren die ontbreken in de deals in Partner Center aan de slag te gaan. **Het wordt ten zeerste aangeraden om de in aanmerking komende deals in PSC op te schonen voordat u deze migreert naar Partner Center.**
 
 De dealmigratie in Partner Center is gebouwd als een ervaring met één klik. U hoeft alleen maar op de knop **'Deals migreren' te klikken** zodra uw bedrijf klaar is om de in aanmerking komende deals te migreren. **U kunt de deals die u wilt migreren vanuit PSC niet kiezen. Als u geen deals wilt migreren naar Partner Center, verplaatst u deze naar de gesloten status in PSC voordat u de migratie start.**
 
->[!Note]
-> Nadat de migratie is geïnitieerd, kan het tot 24 uur duren voordat **de deals zijn gemigreerd.**
+> [!NOTE]
+> Vanaf het moment dat de migratie wordt gestart, kan het tot 24 uur duren voordat alle deals zijn gemigreerd.
 
 Zodra de migratie is voltooid, is de status van het bannerbericht gewijzigd, met een koppeling naar het migratierapport. Download het rapport om de details weer te geven van deals die zijn gemigreerd van PSC naar Partner Center.
 
@@ -165,15 +165,13 @@ Alle deals die zijn gemigreerd, zijn niet zichtbaar in PSC. U kunt blijven werke
 
 Deals die zijn gemigreerd vanuit PSC zijn beschikbaar op het tabblad Uitgaand van de pagina Verkoopkansen voor co-verkoop. Alle deals worden gemaakt als door partners geleide deals. Ze zijn zichtbaar voor Microsoft-verkopers.
 
->[!Important]
+> [!NOTE]
 > Als er fouten zijn waardoor sommige deals niet kunnen worden gemigreerd, kunt u de dealmigratie opnieuw starten door te klikken op de knop **Deals migreren.** Deze wordt alleen ingeschakeld als er nog deals zijn die in aanmerking komen om te worden gemigreerd. Dit is ook handig als u zich in de overgangsfase waar een aantal nieuwe deals worden gemaakt in PSC na het initiëren van de dealmigratie.
 
 Zodra alle deals zijn gemigreerd, wordt er een banner  weergegeven met 'Geen **deals** om te migreren' met de knop 'Deals migreren' **uitgeschakeld.**
 
-## <a name="next-steps"></a>Volgende stappen
-
-Meer informatie over het maken en beheren van IOT-deals in Partner Center.
-Dit is een belangrijke stap, waarmee u wordt voorbereid op het beheer van IOT-deals in Partner Center. Krijg inzicht in de werkstromen en de wijzigingen in Partner Center u effectief deals kunt maken en beheren. Begin met het volledig lezen van dit document.
+> [!IMPORTANT]
+> Vervolgens moet u verdienen met het maken en beheren van IoT-deals in Partner Center. Dit is een belangrijke stap die u voorbereidt op het beheer van IoT-deals. Krijg inzicht in de werkstromen en de wijzigingen in Partner Center u effectief deals kunt maken en beheren. Begin met het volledig lezen van dit document.
 
 ## <a name="differences-between-psc-and-pc-workflows"></a>Verschillen tussen PSC- en PC-werkstromen
 
@@ -189,44 +187,48 @@ Dit is een belangrijke stap, waarmee u wordt voorbereid op het beheer van IOT-de
 
 In de volgende secties worden veelgestelde vragen over de migratie beantwoord.
 
-### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 - Wat moet ik doen als ik geen toegang heb tot Partner Center?
+### <a name="what-should-i-do-if-i-dont-have-access-to-partner-center"></a>Wat moet ik doen als ik geen toegang heb tot Partner Center?
 
 U kunt contact opnemen met uw beheerders die worden vermeld op de pagina Geen toegang om de rollen toegewezen te krijgen. U hebt de [verwijzingsbeheerdersrol nodig](permissions-overview.md#manage-referrals) voor de lees- en schrijfmachtiging in de sectie verwijzingen. Als u alleen zakelijke profielen beheert, hebt u de beheerdersrol bedrijfsprofiel nodig in Partner Center.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Afbeelding van de ervaring geen toegang in Partner Center.":::
 
-### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2 - Wie mij toegang verlenen tot de sectie Verwijzingen in Partner Center?
+### <a name="who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Wie mij toegang verlenen tot de sectie Verwijzingen in Partner Center?
 
 Uw [accountbeheerder](permissions-overview.md#manage-mpn-membership-and-your-company) kan u toegang verlenen tot het tabblad Verwijzingen. Als u de accountbeheerder wilt zoeken, selecteert u **Accountinstellingen** in het tandwielpictogram rechtsboven in Partner Center [dashboard.](https://partner.microsoft.com/dashboard) Selecteer vervolgens **Gebruikersbeheer in** de linkernavigatiebalk op het tweede niveau. Selecteer bovenaan de lijst met gebruikers de **vervolgkeuzelijst Filter** en wijzig de optie in **accountbeheerder**. Op de pagina worden alle accountbeheerders met hun respectieve e-mailadressen weergegeven. Vraag een van deze om de rol van verwijzingsbeheerder voor uw werkaccount toe te wijzen.
 
-### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3: de knop +nieuwe deal wordt grijs voor ons account. Wat moet ik doen om deals te maken?
+### <a name="the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>De knop nieuwe deal wordt grijs voor ons account. Wat moet ik doen om deals te maken?
 
 Dit gebeurt alleen als de MPN-id die is gekoppeld aan uw account niet is ingeschakeld voor het maken van IOT-deals. Neem contact op met het IOT-bedrijfsteam via de e-mail die is verstrekt tijdens de trainingssessies of maak een ondersteuningsticket om uw MPN-id in te stellen voor IOT-deals.
 
-### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 - Kan ik deals toewijzen aan een specifieke persoon van onze organisatie, zoals PSC?
+### <a name="can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>Kan ik deals toewijzen aan een specifieke persoon uit onze organisatie, zoals PSC?
 
 U kunt teamleden toewijzen aan een specifieke deal. Het blokkeert niet dat andere verwijzingsbeheerders deze deals kunnen bekijken of gebruiken.
 
-### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5 - Is er een weergave van alle deals die aan mij zijn toegewezen?
+### <a name="is-there-a-view-of-all-the-deals-assigned-to-me"></a>Is er een weergave van alle deals die aan mij zijn toegewezen?
 
 U kunt de functie Favorieten gebruiken. Dit is een tabblad op gebruikersniveau. U kunt alle deals die aan u zijn toegewezen markeren als favorieten om snel toegang te krijgen tot de deals.
 
-### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6 - Is er een alleen-lezenweergave voor de deals?
+### <a name="is-there-a-read-only-view-for-the-deals"></a>Is er een alleen-lezenweergave voor de deals?
 
 Nee, er is geen alleen-lezen weergave van de deals in de sectie verwijzingen.
 
-### <a name="7---is-adding-a-customer-organization-mandatory"></a>7 - Is het toevoegen van een klantorganisatie verplicht?
+### <a name="is-adding-a-customer-organization-mandatory"></a>Is het toevoegen van een klantorganisatie verplicht?
 
 Ja, het toevoegen van [een klantorganisatie](./manage-co-sell-opportunities.md#select-your-customer) is verplicht in Partner Center. Zoek eerst naar de locatie waar de klant zich bevindt. Op basis van de details die u hebt; U kunt specifieke details toevoegen, zoals de exacte naam van het gebouw of alleen plaatsdetails opgeven. De organisatiezoekactie haalt alle juridische entiteiten op die overeenkomen met de naam die u hebt invoeren, zodat u geen adresgegevens hoeft in te voeren. Alle gegevens worden automatisch ingevuld op basis van de geselecteerde organisatie.
 
-### <a name="8---are-customer-contact-details-mandatory"></a>8 - Zijn contactgegevens van de klant verplicht?
+### <a name="are-customer-contact-details-mandatory"></a>Zijn contactgegevens van klanten verplicht?
 
 Ja, contactgegevens van klanten zijn verplicht voor het maken van IOT-deals.
 
-### <a name="9---how-many-solutions-can-i-add-to-a-deal"></a>9 - Hoeveel oplossingen kan ik toevoegen aan een deal?
+### <a name="how-many-solutions-can-i-add-to-a-deal"></a>Hoeveel oplossingen kan ik toevoegen aan een deal?
 
 U kunt maximaal 50 oplossingen (vergelijkbaar met 'producten' in PSC) toevoegen aan een deal. Zowel de hoeveelheid als de geschatte einddatum voor de oplossingen is verplicht en de geschatte einddatum van oplossingen moet eerder zijn dan de geschatte einddatum in de sectie details van de deal.
 
-### <a name="10---where-can-i-find-the-opportunity-id"></a>10 - Waar vind ik de id van de kans?
+### <a name="where-can-i-find-the-opportunity-id"></a>Waar vind ik de id van de kans?
 
 De kans-id in PSC is hetzelfde als de verwijzings-id in Partner Center. U vindt de verwijzings-id naast de dealnaam wanneer u een deal opent.
+
+## <a name="next-steps"></a>Volgende stappen
+
+- [Breid uw bedrijf uit met verwijzingen](./grow-your-business.md)

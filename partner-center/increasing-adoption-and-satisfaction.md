@@ -1,7 +1,7 @@
 ---
 title: Acceptatie en tevredenheid verhogen
 ms.topic: how-to
-ms.date: 11/03/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
 description: Meer informatie over het gebruik van metrische gegevens in Partner Center. Metrische gegevens kunnen laten zien of uw bedrijf groeit, hoe klanten hun licenties gebruiken en waar ze zich kunnen richten op investeringen.
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e04334490f77add4f95627d3d4c5d5762a79c86
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e6cf260df6f1b5d3ae814678c47f13b2b4015b62
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957469"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074778"
 ---
-# <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Metrische gegevens in Partner Center acceptatie en tevredenheid te verhogen
+# <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Gebruik metrische gegevens in Partner Center acceptatie en tevredenheid te verhogen
 
 **Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent
 
-Onze partners gebruiken veel metrische gegevens om te meten of hun bedrijf groeit en waar ze zich kunnen richten op investeringen. Partner Center kunt u gegevens verstrekken over of en hoe uw klanten de licenties gebruiken die ze hebben aangeschaft. Deze informatie is beschikbaar voor Office producten (inclusief OneDrive voor Bedrijven, die samen met de SharePoint).
+Onze partners gebruiken veel metrische gegevens om te meten of hun bedrijf groeit en waar ze zich kunnen richten op investeringen. Partner Center kunnen helpen door gegevens op te geven over of en hoe uw klanten de licenties gebruiken die ze hebben aangeschaft. Deze informatie is beschikbaar voor Office producten (inclusief OneDrive voor Bedrijven, die samen met de SharePoint).
 
 U kunt gegevens voor al uw klanten bekijken via het Cloud Solution Provider programma. Sommige klanten kunnen licenties kopen bij andere partners of rechtstreeks bij Microsoft. Voor deze situaties ziet u het totale aantal licenties voor alle partners. Als u alleen uw eigen licenties wilt zien, gaat u naar de abonnementen van de klant.
 
@@ -33,15 +33,47 @@ U vindt licentie- en gebruikersgegevens voor één klant of in uw portfolio.
 
 ### <a name="find-license-and-user-data-for-a-single-customer"></a>Licentie- en gebruikersgegevens voor één klant zoeken
 
-1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2. Selecteer **Klanten** in de **Partner Center**
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard) van het Partnercentrum.
+
+2. Selecteer de **tegel** Klanten.
 
 3. Kies een klant.
 
 4. Selecteer **Klantinzichten.**
 
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
+
+2. Selecteer **Klanten**.
+
+3. Kies een klant.
+
+4. Selecteer **Klantinzichten.**
+
+* * *
+
 ### <a name="find-license-and-user-data-across-your-portfolio"></a>Licentie- en gebruikersgegevens in uw portfolio zoeken
+
+U kunt ook inzicht krijgen in uw licentie- en gebruikersgegevens.
+
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
+
+2. Selecteer de **Insights** en kies een van de analyseopties in het menu.
+
+3. Als u implementatie- en gebruiksgegevens wilt downloaden in de hele klantenset, selecteert u de **optie Exporteren** (pijl-omlaag).
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
 1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
@@ -49,7 +81,9 @@ U vindt licentie- en gebruikersgegevens voor één klant of in uw portfolio.
 
 3. Als u implementatie- en gebruiksgegevens wilt downloaden in de hele klantenset, selecteert u de **optie Exporteren** (pijl-omlaag).
 
-Terminologie:
+* * *
+
+### <a name="terminology"></a>Terminologie
 
 - **Rechten** = een licentie die de gebruiker mag gebruiken (deze is niet opgeschort vanwege fraude of niet-betaling, is niet bijgewerkt naar een andere licentie, is niet geannuleerd door de gebruiker of een ander probleem).
 
@@ -67,7 +101,7 @@ Terminologie:
 
   - Als de klant een proefabonnement heeft, wordt de activiteit geteld, maar wordt het abonnement niet meegetelde voor het totale aantal rechten.
 
-  - Als sommige klanten gebruik maken van Yammer aanzienlijk meer dan ze met hun licentie recht hebben, kunnen de gegevens aanzienlijk worden scheef gemaakt.
+  - Als sommige klanten veel meer Yammer dan ze met hun licentie recht hebben, kunnen de gegevens aanzienlijk worden scheef scheef gemaakt.
 
 ## <a name="next-steps"></a>Volgende stappen
 
@@ -88,4 +122,3 @@ Als u veel Help- en gebruiksvragen hebt, de acceptatiecijfers voor uw account la
 **Wat u kunt** proberen: u kunt een dubbele strategie voor het aanbieden van training (persoonlijk of online) gebruiken om de algehele expertise van klanten te vergroten en tegelijkertijd enkele van de selfserviceopties te promoten die beschikbaar zijn voor klanten.
 
 Mogelijk wilt u uw ondersteuningssite opnieuw ontwerpen om ook de selfserviceopties op te nemen die worden beschreven in [Klantzelfondersteuning](customer-self-support.md) naast uw contactgegevens voor ondersteuning.
-

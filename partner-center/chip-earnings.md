@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8703d9a8c482ac3fba5497780b2f5163bf86061
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 717c59a2985fa36ba553a631dca155c1f0263905
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244711"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074059"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Inkomsten weergeven met behulp van het CHIP-hulpprogramma
 
@@ -29,14 +29,16 @@ U hebt toegang tot uw incentives-instructie via het Channel Incentives Platform 
 2. Selecteer het incentives-programma waarin u geïnteresseerd bent.
 
 3. Selecteer **onder Programmaoverzicht** de periode of maand. 
-1. Selecteer Berekeningsdetails in de vervolgkeuzelijst.
-1.  Klik **op Openen** op de meldingsbalk om uw instructie te openen.
+
+4. Selecteer Berekeningsdetails in de vervolgkeuzelijst.
+
+5.  Klik **op Openen** op de meldingsbalk om uw instructie te openen.
 
 ### <a name="explanation-of-details-tabs"></a>Uitleg van tabbladen met details
 
 |**TAB-toets**|**Definition**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Bevat details voor het incentives-programma voor de geselecteerde periode, waaronder de naam van de klant, overeenkomst, levergegevens|
+|DetailReport-Flatfile|Bevat details voor het incentives-programma voor de geselecteerde periode, waaronder de naam van de klant, overeenkomst, leverdetails|
 |DeltaReport-pivot|Updates van de laatste gepubliceerde instructie alleen voor Enterprise|
 |DetailReport-pivot|Overzicht van betalingsgegevens, inclusief valuta en betalingsbedrag|
 |Prestatiedetails|Basislijnwaarde, prestatie- en groeipercentage voor alleen SPLAR|

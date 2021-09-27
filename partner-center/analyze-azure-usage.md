@@ -1,30 +1,30 @@
 ---
-title: Azure-gebruik analyseren om uw bedrijf te helpen groeien
-description: Meer informatie over het gebruik Partner Center om gegevens op te halen over het gebruik van de Azure-abonnementen van uw klanten. Gegevens omvatten verkochte abonnementen, die risico lopen en in gebruik zijn.
+title: Azure-gebruik analyseren om uw bedrijf te laten groeien
+description: Meer informatie over het gebruik Partner Center om gegevens op te halen over het gebruik van de Azure-abonnementen van uw klanten. Gegevens omvatten verkochte abonnementen, risico's en in gebruik.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: amitravat
-ms.author: amrava
+author: kshitishsahoo
+ms.author: ksahoo
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: d11e673658ce52bdd41732a4e5b678ff681326a3
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126245635"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072463"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Gegevens verzamelen over hoe goed uw klanten en Azure-abonnementen het doen
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Gegevens verzamelen over hoe goed het gaat met uw klanten en Azure-abonnementen
 
 
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Verkoopagent
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent | Verkoopagent
 
-Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegevens op de **Azure-gebruikspagina** om uw successen en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.
+Gegevens zijn de basis voor zakelijke beslissingen. Gebruik de metrische gegevens op de **Azure-gebruikspagina** om uw succes en gebieden te identificeren die meer aandacht nodig hebben. Gebruik deze informatie bij het plannen van nieuwe bedrijfsdoelen.
 
-Meld u aan bij het dashboard om naar het **Azure-gebruik** Partner Center [gaan.](https://partner.microsoft.com/dashboard) Selecteer **Analytics** in het Partner Center menu en selecteer vervolgens **Azure-gebruik.**
+Als u het **Azure-gebruik wilt bekijken,** meld u zich aan Partner Center [dashboard,](https://partner.microsoft.com/dashboard) **selecteert** u Analyse en vervolgens **Azure-gebruik.**
 
 > [!NOTE]
 > Azure-gebruiksanalyse is alleen beschikbaar voor partners in het Cloud Solution Provider programma.
@@ -64,4 +64,4 @@ In deze sectie wordt het voorspelde verlooprisico voor Azure-abonnementen aangeg
 
  ## <a name="next-steps"></a>Volgende stappen
 
-- [Het Azure-abonnement kopen voor klanten & toegang tot de nieuwste Azure-services tegen betalen per gebruik-tarieven](purchase-azure-plan.md)
+- [Het Azure-abonnement kopen voor klanten & nieuwste Azure-services te gebruiken tegen tarieven voor betalen per gebruik](purchase-azure-plan.md)

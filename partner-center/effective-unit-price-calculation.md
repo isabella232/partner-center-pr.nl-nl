@@ -1,7 +1,7 @@
 ---
 title: Effectieve berekening van eenheidsprijs
 ms.topic: how-to
-ms.date: 04/02/2021
+ms.date: 09/27/2021
 description: Meer informatie over de effectieve eenheidsprijs en hoe deze wordt berekend. Dit artikel bevat ook een voorbeeldberekening.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4148e9be6ab5bd3e5a146c0ed5479d8ad9723204
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 252ec080dcc7e521e1db74eb5bdd668d8cd081e7
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957487"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071504"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Berekening van de effectieve eenheidsprijs voor azure-planverbruik
 
@@ -34,11 +34,28 @@ Omdat we het verbruik dagelijks bewaken gedurende de factureringscyclus, zal de 
 
 ## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Uitzoeken of voor uw meter gelaagde prijzen worden gebruikt
 
-Als u niet weet of uw meter gelaagde prijzen gebruikt, gebruikt u de onderstaande procedure om erachter te komen. 
+Als u niet weet of uw meter gelaagde prijzen gebruikt, gebruikt u de onderstaande procedure om erachter te komen.
+
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
 1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
+
+2. Selecteer de **tegel Prijzen** en selecteer vervolgens **Prijzen voor Azure-abonnement.**
+
+3. Zoek uw meter op id en download vervolgens uw prijsgegevens.
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
+
 2. Selecteer **Verkopen,** selecteer **Prijzen en aanbiedingen** en selecteer vervolgens Prijzen voor **Azure-abonnement.**
-3. Zoek uw meter op id en download vervolgens uw prijsgegevens. 
+
+3. Zoek uw meter op id en download vervolgens uw prijsgegevens.
+
+* * *
 
 ## <a name="sample-calculation"></a>Voorbeeldberekening
 
@@ -54,10 +71,8 @@ In de tabel zijn de volgende waarden van toepassing:
 
 - **Effectieve eenheidsprijs** = BCU/BC
 
->[!NOTE]
-
->Opmerking: de meter in dit voorbeeld heeft geen prijscategorie of andere kortingen: de effectieve eenheidsprijs is afhankelijk van kortingspercentages en andere aanpassingen.
-
+> [!NOTE]
+> De meter in dit voorbeeld heeft geen prijscategorie of andere kortingen: de effectieve eenheidsprijs houdt rekening met kortingspercentages en andere aanpassingen.
 
 | Datum | BCU (factureerbare verbruikseenheid) | BC (factureerbare kosten) | Effectieve eenheidsprijs |
 | ------ | ----------- | ----------- | ----------- |  

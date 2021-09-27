@@ -5,20 +5,20 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Bekijk een momentopname van hoe u het doet met verkoop en implementatie, klantgroei en omzetgroei met licenties, abonnementen en Azure-verbruik.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 439d49a7286ae9a2a1d61a088d86ec32b3f8fcb5
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957028"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071883"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Overzicht van dashboardrapporten die beschikbaar zijn in Partner Center Insights
  
-**Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
+**Juiste rollen:** Globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
 Het Insights overzichtsdashboard biedt een momentopname van de Key Performance Indicators (KPI's), zoals Klanten, Abonnementen, Azure Consumption Revenue en Licenses. U kunt de volgende grafieken visualiseren in het rapport Overzicht.
 
@@ -47,7 +47,7 @@ Het **gebied Klanten** omvat:
 
 ### <a name="azure-consumed-revenue-acr"></a>Omzet uit Azure-verbruik (ACR)
 
-Het **Omzet uit Azure-verbruik (ACR)** in het overzicht omvat:
+Het **Omzet uit Azure-verbruik (ACR)** in de Samenvatting omvat:
 
 - Het totale ACR (in Amerikaanse dollars) dat aan u is toegekend voor het geselecteerde datumbereik.
 - Het percentage groei of afname in ACR (in Amerikaanse dollars) tijdens het geselecteerde datumbereik.
@@ -115,4 +115,4 @@ Trend van licenties die zijn toegewezen door alle klanten tijdens het geselectee
 
 ## <a name="next-steps"></a>Volgende stappen
 
-Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).
+Zie voor meer rapporten [Partner Center Insights.](partner-center-insights.md)

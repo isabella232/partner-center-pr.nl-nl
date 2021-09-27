@@ -2,21 +2,21 @@
 metadata:
   title: Microsoft Partner Network voordelen - veelgestelde vragen
   ms.topic: article
-  ms.date: 12/15/2020
+  ms.date: 09/27/2021
   description: Antwoorden op vragen over het verlopen, verlengen en activeren van licenties voor Azure, cloud, Visual Studio en technische en ondersteuningsvoordelen
   ms.service: partner-dashboard
   ms.subservice: partnercenter-benefits
-  author: arpithakanuganti
-  ms.author: v-arkanu
+  author: keramp88
+  ms.author: keramp
   ms.localizationpriority: medium
   ms.custom: SEOJUNE20
-  ms.openlocfilehash: 8ca944dfe4b3bca722c1c5d82eee261c64a64715
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+  ms.openlocfilehash: 5e897fc5046647176e4f605b9226a6280b409938
+  ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126244733"
-title: Microsoft Partner Network - veelgestelde vragen (FAQ)
+  ms.lasthandoff: 09/27/2021
+  ms.locfileid: "129074129"
+title: Microsoft Partner Network- veelgestelde vragen (FAQ)
 summary: >
   **Juiste rollen:** MPN-partnerbeheerder
 
@@ -37,20 +37,17 @@ sections:
       1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
 
-      2. Selecteer MPN in het **linkernavigatiebalk.**
+      2. Selecteer de **tegel** Voordelen. Als u de weergave Werkruimten niet gebruikt, selecteert u **MPN** en vervolgens **Voordelen**.
 
 
-      3. Selecteer op **het tabblad MPN** de **optie** Voordelen.
+      3. Activeer het voordeel dat u wilt.
 
 
-      4. Activeer het voordeel dat u wilt.
-
-
-      Als het voordeel dat u wilt niet beschikbaar is, moet u uw Partner Center en het bovenstaande proces herhalen.
+      Als het voordeel dat u wilt niet beschikbaar is, moet u uw Partner Center verlengen en het bovenstaande proces herhalen.
   - question: >
       Ik heb een melding ontvangen dat mijn abonnement binnenkort verloopt- wat moet ik doen
     answer: >
-      Meld u aan bij de cloudportal die de melding heeft gegenereerd, controleer de vervaldatum van uw bestaande abonnementen en voeg vervolgens licenties toe aan het verlopende abonnement of breid het bestaande abonnement uit voor het volgende jaar van inschrijving.
+      Meld u aan bij de cloudportal die de melding heeft gegenereerd, controleer de vervaldatum van uw bestaande abonnement(en) en voeg vervolgens licenties toe aan het verlopende abonnement of breid het bestaande abonnement uit voor het volgende jaar van inschrijving.
   - question: >
       Wanneer kan ik mijn lidmaatschap verlengen?
     answer: >
@@ -72,22 +69,22 @@ sections:
   questions:
   - question: >
       Hoe werkt Visual Studio activering in Partner Center
-    answer: "U kunt abonnementen toewijzen aan iedereen in de lijst Gebruikersbeheer in Partner Center of in uw AAD-tenant (Azure Active Directory), door de volgende stappen uit te voeren:\n\n1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).\n\n2. Selecteer in Partner Center menu **MPN.**\n\n3. Selecteer **Voordelen** en selecteer vervolgens **Visual Studio**.\n\n4. Wijs de gewenste gebruikers toe aan Visual Studio beschikbare abonnementen.\n\nNadat u het abonnement hebt toegewezen, moet de gebruiker zich aanmelden bij Visual Studio om het te beheren.\n\n> [!Note]  \n> Visual Studio abonnementen kunnen opnieuw worden toegewezen van de ene abonnee naar de andere als er 90 dagen zijn verstreken sinds het moment van de oorspronkelijke toewijzing.\n"
+    answer: "U kunt abonnementen toewijzen aan iedereen in de lijst Gebruikersbeheer in Partner Center of in uw AAD-tenant (Azure Active Directory), door de volgende stappen uit te voeren:\n\n1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).\n\n2. Selecteer in Partner Center menu **Voordelen.** Als u de weergave Werkruimten niet hebt ingeschakeld, selecteert u **MPN** en vervolgens **Voordelen.**\n\n3. Selecteer **Visual Studio**.\n\n4. Wijs de gewenste gebruikers toe aan Visual Studio beschikbare abonnementen.\n\nNadat u het abonnement hebt toegewezen, moet de gebruiker zich aanmelden bij Visual Studio om het te beheren.\n\n> [!Note]  \n> Visual Studio abonnementen kunnen opnieuw worden toegewezen van de ene abonnee naar de andere als er 90 dagen zijn verstreken sinds het moment van de oorspronkelijke toewijzing.\n"
 - name: Technische voordelen en ondersteuning
   questions:
   - question: >
       Ik kan de software die ik heb gedownload van de Partner Center. Hoe kan ik hulp krijgen
     answer: >
-      Installatie, activering en andere productgerelateerde hulp wordt geboden via Microsoft-ondersteuning. Ga als volgt te werk om hulp te krijgen:
+      Installatie, activering en andere productgerelateerde hulp worden geboden via Microsoft-ondersteuning. Ga als volgt te werk om hulp te krijgen:
 
 
       1. Meld u aan bij het [Partnercentrum-dashboard](https://partner.microsoft.com/dashboard/).
 
 
-      2. Selecteer in Partner Center menu **MPN.**
+      2. Selecteer in Partner Center menu **Voordelen.** Als u de weergave Werkruimten niet gebruikt, selecteert u **MPN en** vervolgens **Voordelen**.
 
 
-      3. Selecteer **Voordelen** en selecteer vervolgens **Technische voordelen.**
+      3. Selecteer **Technische voordelen.**
 
 
       4. Gebruik de sectie Technische voordelen om een toegangs-id/contract-id te activeren en te ontvangen.

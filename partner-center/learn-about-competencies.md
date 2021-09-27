@@ -1,7 +1,7 @@
 ---
-title: Microsoft Gold, Silver-competentievereisten
+title: Onderscheid maken tussen uw bedrijf door Microsoft-competenties te verkrijgen
 ms.topic: article
-ms.date: 01/26/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Meer informatie over het verdienen van de microsoft-partnerstatus en het aan trekken van nieuwe klanten door te voldoen aan competentievereisten om gold- en silver-lidmaatschapsniveaus te verdienen.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2eecc1963c83ea3deb4caf5116b05aaccbf857af
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: b1adacebbf4c0f8b97187386def43a3006920c08
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957145"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075285"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Onderscheid maken tussen uw bedrijf door Microsoft-competenties te verkrijgen
 
@@ -34,13 +34,28 @@ Het bereiken van een competentie kan ook een vermelding zijn voor verdere voorde
 
 ## <a name="check-your-status-as-you-attain-a-competency"></a>Controleer uw status wanneer u een competentie bereikt
 
-U kunt de vereisten en wat uw bedrijf heeft bereikt bekijken op basis van het competentiegebied van uw Partner Center dashboard.
+U kunt de vereisten en wat uw bedrijf heeft bereikt bekijken vanuit het competentiegebied van uw Partner Center dashboard.
 
-1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u deze [in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/home).
+
+2. Selecteer de **tegel** Lidmaatschap en selecteer vervolgens **Competenties.**
+
+3. Selecteer de naam van de competentie en de specifieke competentieoptie om details te bekijken. U kunt zien wat u hebt voltooid en u kunt ook de volledige vereisten en koppelingen naar de specifieke examens en de validatiedatums van het beëindigde examen bekijken.
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/home).
 
 2. Selecteer **Competenties** in het gedeelte MPN van het menu Partnercentrum.
 
 3. Selecteer de naam van de competentie en de specifieke competentieoptie om details te bekijken. U kunt zien wat u hebt voltooid en u kunt ook de volledige vereisten en koppelingen naar de specifieke examens en de validatiedatums van het beëindigde examen bekijken.
+
+* * *
 
 ## <a name="competency-areas"></a>Competentiegebieden
 

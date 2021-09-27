@@ -5,15 +5,15 @@ ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Bekijk wat u goed doet en waar u het gebruik kunt verbeteren van Dynamics-abonnementen die u voor uw klanten verkoopt of beheert.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: d547e61ac6087d4bc38dcd3881b1c4a7a6b11588
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957707"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071133"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Het Dynamics-gebruiksrapport is beschikbaar via Partner Center Insights dashboard
 
@@ -82,6 +82,6 @@ De Dynamics-gebruiksdistributie toont de uitsplitsing van beschikbare seats, act
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).
+- Zie voor meer [rapporten Partner Center Insights](partner-center-insights.md).
 
-- U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het Insights dashboard. [Meer informatie](insights-download-reports.md) 
+- U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in Insights dashboard. [Meer informatie](insights-download-reports.md) 

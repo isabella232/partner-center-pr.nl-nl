@@ -2,21 +2,21 @@
 title: Aanbiedingen verkopen aan klanten uit het onderwijs
 description: Meer informatie over het maken van een education-klant en het verkopen van aanbiedingen in Partner Center. Dit omvat het bevestigen van de verificatiestatus voor uw education-klant.
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d9924b8d361be4237c613467a1d36db29cf7d9e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 8c0d278de5cef254839bfa324efc701fc788a830
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244997"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075651"
 ---
-# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Aanbiedingen verkopen aan klanten uit het onderwijs en een onderwijsklant maken in Partner Center
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Aanbiedingen verkopen aan klanten uit het onderwijs en het maken van een education-klant in Partner Center
 
 **Juiste rollen:** Globale | Beheeragent | Verkoopagent
 
@@ -27,13 +27,40 @@ In dit artikel wordt uitgelegd hoe u een education-klant maakt in Partner Center
 > [!IMPORTANT]
 > Microsoft verifieert elke nieuw gemaakte tenant van een education-klant om ervoor te zorgen dat ze gekwalificeerd zijn voor onderwijsaanbiedingen.  Voer de vereiste gegevens zo nauwkeurig en volledig mogelijk in om vertragingen in het verificatieproces te voorkomen.
 
-1. Meld u aan bij Partnercentrum.
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u deze [in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
+
+2. Selecteer de **tegel** Klanten en selecteer **vervolgens Een klant toevoegen.** 
+
+3. Selecteer **Education** in **de vervolgkeuzekeuzeronde Speciale kwalificaties.**  Vul indien nodig de overige accountgegevens in.  Belangrijke velden die het verificatieproces ondersteunen, zijn onder andere:
+
+   - **Bedrijfsnaam:** VOER NAAM VAN JURIDISCHE ENTITEIT IN - vereist voor verificatie
+   - **Land-/regio- en adresregels:** VOER HET VOLLEDIGE E-MAILADRES VAN DE ENTITEIT IN, vereist voor verificatie
+   - **E-mailadres:** voer het e-mailadres in dat eigendom is van de entiteit, niet een gratis e on.microsoft.com mail, dat is vereist voor verificatie
+   - **Contactgegevens van de klant:** deze gegevens worden gebruikt als onderdeel van het verificatieproces
+   - **Primaire domeinnaam: wordt** gebruikt om het account en de e-mailadressen van de klant te maken.  Kies een naam die vergelijkbaar is met de bedrijfsnaam zonder spaties of speciale tekens.  Deze naam kan later niet meer worden gewijzigd.
+
+4. Wanneer u klaar bent, selecteert u **Controleren.**
+
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Education-klantaccount.":::
+
+5. Nadat u **Controleren hebt bevestigd,** ontvangt u de **status InReview** als de verzonden informatie geldig is. 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="Het account van de education-klant wordt beoordeeld."lightbox="images/edu/create-review-expanded.png":::
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
 
 2. Selecteer **Klanten** en selecteer vervolgens **Een klant toevoegen.** Selecteer **Education** in **de vervolgkeuzekeuzeronde Speciale kwalificaties.**  Vul indien nodig de overige accountgegevens in.  Belangrijke velden die het verificatieproces ondersteunen, zijn onder andere:
 
    - **Bedrijfsnaam:** VOER NAAM VAN JURIDISCHE ENTITEIT IN - vereist voor verificatie
    - **Land-/regio- en adresregels:** VOER HET VOLLEDIGE E-MAILADRES VAN DE ENTITEIT IN, vereist voor verificatie
-   - **E-mailadres:** voer het e-mailadres in dat eigendom is van de entiteit( geen gratis e-mail of on.microsoft.com mail) dat is vereist voor verificatie
+   - **E-mailadres:** voer het e-mailadres in dat eigendom is van de entiteit, niet een gratis e on.microsoft.com mail, dat is vereist voor verificatie
    - **Contactgegevens van de klant:** deze gegevens worden gebruikt als onderdeel van het verificatieproces
    - **Primaire domeinnaam: wordt** gebruikt om het account en de e-mailadressen van de klant te maken.  Kies een naam die vergelijkbaar is met de bedrijfsnaam zonder spaties of speciale tekens.  Deze naam kan later niet meer worden gewijzigd.
 
@@ -45,6 +72,8 @@ In dit artikel wordt uitgelegd hoe u een education-klant maakt in Partner Center
 
     :::image type="content" source="images/edu/create-review.png" alt-text="Het account van de education-klant wordt beoordeeld."lightbox="images/edu/create-review-expanded.png":::
 
+* * *
+
 ### <a name="confirm-your-education-customers-verification-status"></a>Bevestig de verificatiestatus van uw onderwijsklant
 
 Zie speciale kwalificatiestatus op **de pagina Account** van de **klant.**
@@ -52,7 +81,7 @@ Statusvoorbeelden:
 
 - Als de klant is geslaagd voor verificatie: Education
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Onderwijsverificatie is geslaagd.":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="De onderwijsverificatie is geslaagd.":::
 
 - Als de klant niet is geverifieerd: Geen education-klant
 
@@ -60,7 +89,7 @@ Statusvoorbeelden:
 
 - Als de klant niet is gelabeld als education-klant: Geen
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="education-klant wordt niet als zodanig getagd." lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="education-klant wordt niet als zodanig gelabeld." lightbox="images/edu/account-one-expanded.png":::
 
 - Als de klant wordt beoordeeld als een Education-klant: In beoordeling
 
@@ -78,9 +107,9 @@ U moet globale beheerdersbevoegdheden hebben om de gegevens van de klant bij te 
 
 2. Vernieuw uw browser om de pagina opnieuw in te stellen. Er is een **knop Bijwerken** en de status **Speciale kwalificaties** is ingesteld op **Geen.**
 
-3. Selecteer **Update**. Selecteer op **de pagina Servicebeheer** **de Office 365**.
+3. Selecteer **Update**. Selecteer op **de pagina Servicebeheer** **de optie Office 365**.
 
-4. U wordt omgeleid naar het Office 365-beheercentrum op een nieuw tabblad van uw browser. U wordt mogelijk gevraagd u aan te melden met uw referenties.
+4. U wordt omgeleid naar het Office 365 beheercentrum op een nieuw tabblad van uw browser. U wordt mogelijk gevraagd u aan te melden met uw referenties.
 
 5. Selecteer **Instellingen**.
 

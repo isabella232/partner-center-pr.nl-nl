@@ -1,6 +1,6 @@
 ---
 title: Statusrapport van beveiligingsvereisten
-ms.date: 10/30/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 description: Meer informatie over het controleren van de naleving van uw beveiligingsvereisten met het statusrapport van de beveiligingsvereisten en Partner Center MFA-rapport
@@ -9,23 +9,23 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7f28f6333542fb1a2f11b9cc48c00777f1977c1a
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: cfdb409b844d2e304a61654cbea144f9f1d14350
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128359394"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071756"
 ---
 # <a name="security-requirements-status-report"></a>Statusrapport van beveiligingsvereisten
 
 **Juiste rollen:** CPV-| Globale beheerder
 
-In dit artikel wordt het statusrapport van de beveiligingsvereisten in Partner Center. Dit rapport bevat metrische gegevens over naleving [van de beveiligingsvereisten van](partner-security-requirements.md) partners voor meervoudige verificatie (MFA) voor gebruikers in uw partner-tenant.
+In dit artikel wordt het statusrapport over beveiligingsvereisten in Partner Center. Dit rapport bevat metrische gegevens over naleving [van de beveiligingsvereisten van](partner-security-requirements.md) partners voor meervoudige verificatie (MFA) voor gebruikers in uw partner-tenant.
 
-Voor toegang tot dit rapport in [Partner Center](https://partner.microsoft.com/dashboard)gaat u **naar Instellingen**  >  **Accountinstellingen**  >  **Beveiligingsvereisten.** Het rapport wordt dagelijks bijgewerkt en geeft aanmeldingsgegevens van de afgelopen zeven dagen weer.
+Voor toegang tot dit rapport in [Partner Center](https://partner.microsoft.com/dashboard)selecteert u Instellingen tandwielpictogram, vervolgens **Accountinstellingen** en vervolgens Status **van beveiligingsvereisten.** Het rapport wordt dagelijks bijgewerkt en geeft aanmeldingsgegevens van de afgelopen zeven dagen weer.
 
 >[!NOTE]
->Het statusrapport van de beveiligingsvereisten wordt alleen ondersteund in Partner Center. Het is niet beschikbaar in de Microsoft Cloud for US Government of Microsoft Cloud Duitsland. We raden u ten zeerste aan dat alle partners die via een soevereine cloud (Amerikaanse overheid en Duitsland) werken, onmiddellijk aan deze nieuwe beveiligingsvereisten voldoen. Deze partners zijn momenteel echter niet vereist om te voldoen aan de nieuwe beveiligingsvereisten. Microsoft geeft in de toekomst aanvullende informatie over het afdwingen van deze beveiligingsvereisten voor onafhankelijke clouds.
+>Het statusrapport van de beveiligingsvereisten wordt alleen ondersteund in Partner Center. Het is niet beschikbaar in de Microsoft Cloud for US Government of Microsoft Cloud Duitsland. Het wordt ten zeerste aangeraden dat alle partners die via een soevereine cloud (Amerikaanse overheid en Duitsland) werken, onmiddellijk aan deze nieuwe beveiligingsvereisten voldoen. Deze partners zijn momenteel echter niet vereist om te voldoen aan de nieuwe beveiligingsvereisten. Microsoft geeft in de toekomst aanvullende informatie over het afdwingen van deze beveiligingsvereisten voor onafhankelijke clouds.
 
 ## <a name="security-status-metrics"></a>Metrische gegevens over de beveiligingsstatus
 
@@ -36,11 +36,11 @@ Het statusrapport van de beveiligingsvereisten biedt inzicht in de implementatie
 Het metrische percentage ingeschakelde gebruikersaccounts met MFA dat wordt afgedwongen met behulp van de hier vermelde **opties:** toont het percentage ingeschakelde gebruikersaccounts op uw partner-tenant dat MFA heeft afgedwongen. U kunt een van deze [MFA-opties gebruiken om naleving](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) te bereiken. Deze gegevens worden dagelijks vastgelegd en gerapporteerd. Bijvoorbeeld:
 
 - Contoso is een CSP-partner met 110 gebruikersaccounts in de tenant. 10 van deze gebruikersaccounts zijn uitgeschakeld. 
-- Van de overige 100 gebruikersaccounts worden 90 afgedwongen MFA met behulp van de opgegeven [MFA-opties](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started). De metrische gegevens tonen daarom 90%. 
+- Van de overige 100 gebruikersaccounts worden 90 afgedwongen MFA met behulp van de opgegeven [MFA-opties.](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) De metrische gegevens tonen daarom 90%. 
 
 ### <a name="partner-center-requests-with-mfa"></a>Partner Center aanvragen met MFA
 
-Telkens wanneer uw werknemers zich aanmelden bij Partner Center om te werken of, via API's, gegevens op te halen of te verzenden via Partner Center, wordt hun beveiligingsstatus op de proef gesteld en bij te houden. Ook zijn uw toepassingen en toepassingen van configuratieschermleveranciers opgenomen in het bijhouden van beveiligingsstatussen. Deze gegevens worden weergegeven in metrische gegevens onder Percentage aanvragen voor **Partner Center met MFA** en weerspiegelt de afgelopen zeven dagen.
+Telkens wanneer uw werknemers zich aanmelden bij Partner Center om te werken of, via API's, gegevens op te halen of te verzenden via Partner Center, wordt hun beveiligingsstatus op de proef gesteld en bij te houden. Ook zijn uw toepassingen en toepassingen van configuratieschermleveranciers opgenomen in het bijhouden van beveiligingsstatussen. Deze gegevens worden weergegeven in metrische gegevens onder Percentage aanvragen **voor Partner Center met MFA** en weerspiegelt de afgelopen zeven dagen.
 
 #### <a name="dashboard-mfa-verification"></a>MFA-verificatie op dashboard
 
@@ -49,22 +49,22 @@ De metrische **gegevens via Partner Center-portal** zijn gerelateerd aan activit
 - Contoso is een CSP-partner met twee beheerdersagents, Jane en John.
 - Op de eerste dag heeft Jane zich aangemeld bij het Partner Center zonder MFA-verificatie en drie bewerkingen uitgevoerd.
 - Op de tweede dag heeft John zich aangemeld bij Partner Center dashboard zonder MFA-verificatie en vijf bewerkingen uitgevoerd.
-- Op de derde dag heeft Jane zich aangemeld bij het Partner Center dashboard met MFA-verificatie en twee bewerkingen uitgevoerd.
+- Op de derde dag heeft Jane zich aangemeld bij Partner Center dashboard met MFA-verificatie en twee bewerkingen uitgevoerd.
 - Er zijn geen bewerkingen uitgevoerd door een van beide agent op de resterende vier dagen.
-- Van de tien bewerkingen die in het tijdvenster van zeven dagen zijn uitgevoerd, zijn er twee uitgevoerd door de gebruiker met MFA-verificatie. Daarom toont het metrische gegevens 20%.
+- Van de tien bewerkingen die in het tijdvenster van zeven dagen zijn uitgevoerd, zijn er twee uitgevoerd door de gebruiker met MFA-verificatie. De metrische gegevens tonen daarom 20%.
 
-Gebruik het bestand **Portal-aanvragen** zonder MFA om te begrijpen welke gebruiker zich heeft aangemeld bij Partner Center dashboard zonder MFA-verificatie en de tijd van het laatste bezoek tijdens het rapportagevenster.
+Gebruik het bestand Portal-aanvragen zonder **MFA** om te begrijpen welke gebruiker zich heeft aangemeld bij Partner Center dashboard zonder MFA-verificatie en de tijd van het laatste bezoek tijdens het rapportagevenster.
 
 #### <a name="appuser-mfa-verification"></a>MFA-verificatie voor app en gebruiker
 
-De metrische gegevens **via API of SDK** zijn gerelateerd aan App+User-verificatie via Partner Center API-aanvragen. Het meet het percentage API-aanvragen dat is gedaan met behulp van een toegangs token met MFA-claim. Bijvoorbeeld:
+De metrische gegevens **via API of SDK** zijn gerelateerd aan App+User-verificatie via Partner Center API-aanvragen. Het meet het percentage API-aanvragen dat is gemaakt met behulp van een toegangs token met MFA-claim. Bijvoorbeeld:
 
 - Fabrikam is een CSP-partner en heeft een CSP-toepassing die gebruikmaakt van een combinatie van App+User-verificatie en verificatiemethoden voor alleen apps.
 - Op de eerste dag heeft de toepassing drie API-aanvragen gedaan, die werden geback-token dat is verkregen via de verificatiemethode App+User zonder MFA-verificatie.
-- Op de tweede dag heeft de toepassing vijf API-aanvragen gedaan, die werden gebacked door een toegangs token dat is verkregen met behulp van verificatie alleen voor apps.
+- Op de tweede dag heeft de toepassing vijf API-aanvragen gedaan, die werden gebacked door een toegangs token dat is verkregen met alleen-app-verificatie.
 - Op de derde dag heeft de toepassing twee API-aanvragen gedaan, die werden geback-token dat is verkregen met behulp van de verificatiemethode App+User met MFA-verificatie.
 - Er zijn geen bewerkingen uitgevoerd door een van beide agent op de resterende vier dagen.
-- De vijf API-aanvragen op de tweede dag, die werden gebacked door een toegangsken dat is verkregen via alleen-app-verificatie, worden weggelaten uit de metrische gegevens omdat deze geen gebruikmaakt van gebruikersreferenties. Van de resterende vijf bewerkingen werden twee van deze twee back-outs gemaakt door een toegangs token dat is verkregen met MFA-verificatie. De metrische gegevens tonen daarom 40%.
+- De vijf API-aanvragen op de tweede dag, die werden geback-token dat is verkregen via alleen-app-verificatie, worden weggelaten uit de metrische gegevens omdat deze geen gebruikmaakt van gebruikersreferenties. Van de resterende vijf bewerkingen werden twee van deze twee back-outs gemaakt door een toegangs token dat is verkregen met MFA-verificatie. De metrische gegevens tonen daarom 40%.
 
 Als u wilt weten welke app- en gebruikersactiviteiten leiden tot de niet-100% voor deze metrische gegevens, gebruikt u bestanden:
 
@@ -91,10 +91,10 @@ Begrijpen of uw huidige MFA-implementatie alle gebruikersaccounts of slechts enk
 
 ### <a name="review-your-mfa-conditions"></a>Uw MFA-voorwaarden controleren
 
-Begrijpen of uw huidige implementatie alleen MFA onder specifieke voorwaarden afdwingt. Sommige MFA-oplossingen bieden flexibiliteit om MFA alleen af te dwingen wanneer aan bepaalde voorwaarden wordt voldaan. De gebruiker heeft bijvoorbeeld toegang vanaf een onbekend apparaat of een onbekende locatie. Een gebruiker die is ingeschakeld voor MFA, maar geen MFA-verificatie hoeft te voltooien bij het openen van Partner Center, kan ertoe leiden dat de metrische gegevens niet 100% zijn.
+Begrijpen of uw huidige implementatie alleen MFA afdwingt onder specifieke voorwaarden. Sommige MFA-oplossingen bieden flexibiliteit om MFA alleen af te dwingen wanneer aan bepaalde voorwaarden wordt voldaan. De gebruiker heeft bijvoorbeeld toegang vanaf een onbekend apparaat of een onbekende locatie. Een gebruiker die is ingeschakeld voor MFA, maar geen MFA-verificatie hoeft te voltooien bij het openen van Partner Center, kan ertoe leiden dat de metrische gegevens niet 100% zijn.
 
->[!NOTE]
->Voor partners die MFA hebben geïmplementeerd met standaardinstellingen voor Azure AD-beveiliging, is het belangrijk te weten dat voor niet-beheerdersgebruikersaccounts meervoudige verificatie wordt afgedwongen op basis van risico. Gebruikers wordt alleen tijdens riskante aanmeldingspogingen om MFA gevraagd (bijvoorbeeld wanneer de gebruiker zich aanmeldt vanaf een andere locatie). Bovendien hebben gebruikers maximaal 14 dagen de tijd om zich te registreren voor MFA. Gebruikers die de MFA-registratie niet hebben voltooid, worden niet om MFA-verificatie tijdens de periode van 14 dagen gesteld. Daarom wordt verwacht dat de metrische gegevens mogelijk niet 100% zijn voor partners die MFA hebben geïmplementeerd met de standaardinstellingen voor Azure AD-beveiliging.
+> [!NOTE]
+> Voor partners die MFA hebben geïmplementeerd met standaardinstellingen voor Azure AD-beveiliging, is het belangrijk te weten dat voor gebruikersaccounts zonder beheerdersrechten meervoudige verificatie wordt afgedwongen op basis van risico' s. Gebruikers wordt alleen tijdens riskante aanmeldingspogingen om MFA gevraagd (bijvoorbeeld wanneer de gebruiker zich aanmeldt vanaf een andere locatie). Bovendien hebben gebruikers maximaal 14 dagen de tijd om zich te registreren voor MFA. Gebruikers die de MFA-registratie niet hebben voltooid, worden niet om MFA-verificatie tijdens de periode van 14 dagen gesteld. Daarom wordt verwacht dat de metrische gegevens mogelijk niet 100% zijn voor partners die MFA hebben geïmplementeerd met standaardinstellingen voor Azure AD-beveiliging.
 
 ### <a name="review-third-party-mfa-configurations"></a>MFA-configuraties van derden controleren
 

@@ -3,18 +3,18 @@ title: Verwijzingsinzichten ophalen
 ms.topic: article
 ms.date: 04/30/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-referrals
-description: Controleer regelmatig uw verwijzingsinzichtgegevens in Partner Center om trends te zien voor adres- of verbeteringsgebieden om u te helpen uw bedrijfsdoelen te bereiken.
-author: rajap-ms
-ms.author: rajap
+ms.subservice: partnercenter-insights
+description: Controleer uw verwijzingsinzichtgegevens regelmatig in Partner Center om trends te zien voor het aanpakken van of verbeteringsgebieden om u te helpen uw bedrijfsdoelen te bereiken.
+author: v-sausharma
+ms.author: v-sausharma
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8886831228807c48bd3666daa485ac5357c8c6e2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 33b88445bb17a5b5a463635dcd76d728ce58a08e
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957310"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070318"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Verwijzingsinzichten verkrijgen in Partner Center en ontdekken hoe uw verwijzingen het doen
 
@@ -22,14 +22,14 @@ ms.locfileid: "123957310"
 
 Op **de pagina Kansen voor co-verkoop** onder de sectie **Analyse** in Verwijzingen kunt u zien hoe het gaat met uw verwijzingen. Bekijk deze metrische gegevens regelmatig om trends of gebieden te identificeren die aandacht nodig hebben en ga aan de slag met uw bedrijfsdoelen.
 
-Ga in het Partner Center-menu naar Verwijzingen > Analytics > Kansen voor co-verkoop om inzicht te krijgen in uw inzichten over > **verkoopkansen.**
+Ga in het Partner Center-menu naar Verwijzingen > Analytics > Kansen voor **co-verkoop** om inzicht te krijgen in uw inzichten over verkoopkansen.
 
 > [!Important]
 > Het filter voor dealtype wordt vooraf toegepast met het type **Co-sell** en **Partner-led** geselecteerd voor alle gegevens. Verwijder het filter als u de gegevens voor alle of specifieke typen deals wilt analyseren.
 
 ## <a name="apply-filters"></a>Filters toepassen
 
-Aan de bovenkant van de **pagina Verkoopkansen kunt** u de periode selecteren waarvoor u gegevens wilt tonen. De standaardselectie is **3 miljoen** (drie maanden), maar u kunt er in plaats daarvan voor kiezen om gegevens voor zes maanden of één jaar weer te geven. U kunt ook Aangepast **selecteren om** gegevens voor alle verwijzingen in een specifieke periode weer te geven.
+Aan de bovenkant van de **pagina Verkoopkansen** kunt u de periode selecteren waarvoor u gegevens wilt tonen. De standaardselectie is **3 miljoen** (drie maanden), maar u kunt er in plaats daarvan voor kiezen om gegevens voor zes maanden of één jaar weer te geven. U kunt ook Aangepast **selecteren om** gegevens voor alle verwijzingen in een specifieke periode weer te geven.
 
 U kunt de **knop Filters** selecteren om het deelvenster te openen waarmee u alle gegevens op deze pagina kunt filteren op Klantnaam, Land, Dealtype, Dealrichting, Oplossingsnaam en Status. Hieronder vindt u de details van deze filters.
 
@@ -62,7 +62,7 @@ Binnenkomende deals voor co-verkoop kunnen worden samengevoegd in Geaccepteerd, 
 
 Door partners geleide, privé- en co-sell uitgaande deals worden samengevoegd in Gemaakt omdat deze typen deals worden gemaakt door partners.
 
-:::image type="content" source="images/referrals/outbound.png" alt-text="Afbeelding met de staten voor uitgaande verwijzingen.":::
+:::image type="content" source="images/referrals/outbound.png" alt-text="Afbeelding van de staten voor uitgaande verwijzingen.":::
 
 :::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="Afbeelding van de conversietrechter voor verwijzingen.":::
 
@@ -92,7 +92,7 @@ Deze sectie helpt u bij het analyseren van  de redenen waarom de deals door uw b
 
 ## <a name="comparison-charts"></a>Vergelijkingsdiagrammen
 
-De vergelijkingssectie helpt u bij het vergelijken van de gegevens met betrekking tot verwijzingen op basis van meerdere dimensies, zowel op het volume als de waarde van de deals die is gewonnen in usd pivot. De drie dimensies die u kunt kiezen om gegevens te vergelijken, zijn:
+De vergelijkingssectie helpt u bij het vergelijken van de gegevens met betrekking tot verwijzingen op basis van meerdere dimensies, zowel op het volume als de waarde van de deals die is gewonnen in usd pivot. De drie dimensies die u kunt kiezen om gegevens te vergelijken zijn:
 
 - Dealtype
 - Markten
@@ -114,7 +114,7 @@ U kunt de verwijzings- en dealregistratiegegevens exporteren. De volgende inform
 
 ## <a name="no-data"></a>Geen gegevens
 
-Er kunnen meerdere redenen zijn waarom u een lege grafiek krijgt, zoals hieronder, wanneer u de analyse voor co-verkoop gebruikt, zoals hieronder wordt beschreven.
+Er kunnen meerdere redenen zijn waarom u een lege grafiek zoals hieronder krijgt bij het openen van de analyse voor co-sell, zoals hieronder wordt beschreven.
 
 - Er zijn geen gegevens voor dit account. Probeer deals te maken om dit rapport te vullen.
 - Er is een probleem met de netwerkverbinding. Controleer uw internetverbinding en probeer het opnieuw.
@@ -125,7 +125,7 @@ Er kunnen meerdere redenen zijn waarom u een lege grafiek krijgt, zoals hieronde
 :::image type="content" source="images/referrals/nodata.png" alt-text="Afbeelding met geen gegevensvisualisatie voor verwijzingen.":::
 
 > [!NOTE]
-> Op de pagina **Inzichten voor verwijzingen** worden alleen gegevens weergegeven voor verwijzingen die zijn gegenereerd in het Partnercentrum. Er worden geen gegevens voor verwijzingen die zijn gegenereerd via [partnerverkoopgegevens Verbinding maken](psc-to-pc.md) andere mechanismen.
+> Op de pagina **Inzichten voor verwijzingen** worden alleen gegevens weergegeven voor verwijzingen die zijn gegenereerd in het Partnercentrum. Er worden geen gegevens voor verwijzingen die zijn gegenereerd via [partnerverkoop Verbinding maken](psc-to-pc.md) andere mechanismen.
 
 > [!TIP]
 > Als u wilt zien hoe uw bedrijfsprofiel presteert in [de](https://www.microsoft.com/solution-providers/home) ervaring Een [oplossingsprovider](referral-leads-insights.md)zoeken, bekijkt u de pagina Inzichten voor leads.

@@ -1,7 +1,7 @@
 ---
 title: Een nieuwe klantrecord toevoegen
 ms.topic: how-to
-ms.date: 09/07/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
 description: Meer informatie over het toevoegen van een nieuwe klantrecord in Partner Center. Vervolgens kunt u de klantabonnementen verkopen, facturering beheren of klantondersteuning bieden.
@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7995ee8f4da20d80fd260bcb77665e244e448227
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 99057daa14fc279fde2a676a315d3cc8930f88aa
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244811"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072420"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Een nieuwe klantrecord toevoegen in Partner Center
 
@@ -24,13 +24,16 @@ In dit artikel wordt beschreven hoe u een nieuwe klant toevoegt aan Partner Cent
 
 ## <a name="considerations"></a>Overwegingen
 
-**Wanneer u een nieuwe klantrecord toevoegt in Partner Center:**
+Wanneer u een nieuwe klantrecord toevoegt in Partner Center:
 
 - **Gebruik de juiste registratie-id:** bij het invoeren van uw bedrijfsregistratie-id moet u uw zakelijke btw-id gebruiken en niet de persoonlijke id van de klant.
 
 - **Voer aanvullende informatie in voor** sommige landen: de registratie-id en het telefoonnummer van het bedrijf zijn vereist voor sommige landen als u een directe factuurpartner of een indirecte provider bent [](#company-registration-id-and-phone-number-required-for-some-countries)
+
 - **Bevestig Microsoft-klantovereenkomst:** voordat u namens een klant een order kunt plaatsen, moet u bevestigen dat de klant de [Microsoft-klantovereenkomst.](confirm-customer-agreement.md)
+
 - **** Gebruik verschillende stappen voor bestaande klanten: voor bestaande klanten, met inbegrip [](multichannel.md) van klanten die al klantrecords in Partner Center hebben via een [scenario](multipartner.md) met meerdere kanalen of meerdere [partner,](request-a-relationship-with-a-customer.md)kunt u een relatie met hen aanvragen in plaats van de stappen hier te volgen.
+
 - **Voer gedetailleerde, nauwkeurige klantgegevens in:** zorg ervoor klantverificatie u het volgende kunt doen:
   - Voer de exacte juridische/officiële naam in zoals deze in de officiële documenten wordt weergegeven.
   - Vermijd het gebruik van acroniemen of korte formulieren.
@@ -59,7 +62,41 @@ Bij het invoeren van een e-mailadres van de klant is het volgende niet toegestaa
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Een nieuwe klant toevoegen in het Partner Center
 
-1. Selecteer in Partner Center menu **Klanten** en selecteer vervolgens Klant **toevoegen.**
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Meld u aan bij [Partner Center dashboard,](https://partner.microsoft.com/dashboard)selecteer de **tegel** Klanten en selecteer **vervolgens Klant toevoegen.**
+
+2. Als uw klant een onderwijsinstelling is, [bekijkt u hoe u een klant voor eductie maakt.](sell-to-education-customers.md)
+
+3. Voer op **de pagina Accountgegevens** de details en primaire contactgegevens van de klant in.
+   >[!IMPORTANT]
+   >Partners moeten het volgende bevestigen:
+   >
+   >Ik bevestig dat mijn organisatie als indirecte partner optreedt bij het kiezen van een reseller en als directe partner als er geen reseller wordt geselecteerd
+   >
+   >Ik bevestig dat ik geen producten die in deze bestelling zijn gekocht, opnieuw verkoop aan andere partners die zijn verbonden met mijn bovenliggende organisatie
+
+   >[!NOTE]
+   >Volgens de staatswetgeving van de EU/EFTA moeten partners die transacties in deze landen hebben, extra resellers declareeren die zijn gekoppeld aan een transactie. De volgende regels zijn van toepassing:
+   >- Er moet een eerste reseller worden gekozen vóór eventuele extra resellers
+   >- Extra resellers hebben geen recht op extra incentives, aanbiedingen, enzovoort.
+   >- Aanvullende ingevoerde verkopers worden gevalideerd om ervoor te zorgen dat de juiste MPN-id wordt ingevoerd, indien van toepassing, en dat de wederverkoper de MPA heeft ondertekend.
+   >- Er kunnen maximaal vijf extra resellers worden ingevoerd als onderdeel van de transactie
+
+4. Als u een indirecte provider bent, selecteert u de indirecte reseller die u wilt koppelen aan de abonnementen van deze klant in de lijst.
+
+5. Selecteer **Beoordelen**.
+
+6. Selecteer **Indienen**.
+
+7. Als u abonnementen wilt toevoegen, selecteert **u Producten toevoegen.**
+
+8. Wanneer u klaar bent met het toevoegen van klantgegevens en de vereiste abonnementen hebt aangeschaft, selecteert u **Gereed.**
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Meld u aan bij [Partner Center dashboard,](https://partner.microsoft.com/dashboard)selecteer **Klanten** en selecteer **vervolgens Klant toevoegen.**
+
 2. Als uw klant een onderwijsinstelling is, [bekijkt u hoe u een klant voor eductie maakt.](sell-to-education-customers.md)
 
 3. Voer op **de pagina Accountgegevens** de details en primaire contactgegevens van de klant in.
@@ -86,6 +123,8 @@ Bij het invoeren van een e-mailadres van de klant is het volgende niet toegestaa
 7. Controleer op **de** pagina Controleren uw vermeldingen op nauwkeurigheid en selecteer vervolgens **Verzenden.**
 
 8. Wanneer u klaar bent met het toevoegen van klantgegevens en de vereiste abonnementen hebt aangeschaft, selecteert u **Gereed.**
+
+* * *
 
 ## <a name="company-registration-id-and-phone-number-required-for-some-countries"></a>Bedrijfsregistratie-id en telefoonnummer vereist voor sommige landen
 
@@ -125,9 +164,9 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 | "c. p. a." | 'privé beperkt' | corp | 'lda' |
 | 'l. l. p." | 'pvt' | "corporation" | "sarl" |
 | " l l c" | "pvt ltd" | "inc" | "kft" |
-| corp. | "zrt" | "opgenomen" | "ltd" |
-| llc. | "ooo" | 'beperkt' | ltd. |
-| 'llp'. | "llp" | "llc" | "sdn pkd"
+| 'corp'. | "zrt" | "opgenomen" | ltd |
+| 'llc'. | "ooo" | 'beperkt' | ltd. |
+| 'llp'. | "llp" | "llc" | "sdn kunt u"
 
 ### <a name="table-of-top-level-domain-extensions"></a>Tabel met domeinextensies op het hoogste niveau
 
@@ -139,9 +178,9 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 | .af | .be | .cf | .dm |
 | .ag | .bf | .cg | .do |
 | .ai | .bg | .ch | .dz |
-| .al | . | .ci | .fm |
+| .al | .kunt u | .ci | .fm |
 | .am | .bi | .ck | .fo |
-| .an | . | .cl | .fr |
+| .an | .kunt u | .cl | .fr |
 | .ao | .bl | .cm | .ga |
 | .aq | .bm | .cn | .gb |
 | .ar | .bn | .co | .gd |
@@ -150,21 +189,21 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 | .au | .br | .cv | .gg |
 | .aw | .bs | .cw | .gh |
 | .ax | .bt | .cx | .gi |
-| .az | .b. | .cy | .gl |
+| .az | .b.v. | .cy | .gl |
 | .ec | .bw | . gaan | .gm |
 | .ee | .by | .eu | .gn |
 | .eg | .bz | .fi | .gp |
 | .eh | .es | .fj | .gq |
 | .er | .et | .fk | .gr |
 | .gs | .gw | .hm | .ht |
-| .gt | . | .hn | .hu |
+| .gt | .der | .hn | .hu |
 | .gu | .hk | .hr | .id |
 | .ie | .kz | .mo | .nz |
 | .il | .la | .mp | .om |
 | .im | .lb | .mq | .pa |
 | .in | .lc | .mr | .pe |
 | .io | .li | .ms | .pf |
-| .iq | .kunt u | .mt | .pg |
+| .iq | . | .mt | .pg |
 | .ir | .lr | .mu | .ph |
 | .is | .ls | .mv | .pk |
 | .it | .lt | . | .pl |
@@ -206,4 +245,4 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie Partneraanbiedingen in het Cloud Solution Provider-programma voor meer informatie over wat u aan klanten kunt verkopen via het [Cloud Solution Provider-programma](csp-offers.md)
+- Zie Partneraanbiedingen in het Cloud Solution Provider-programma voor meer informatie over wat u aan klanten kunt verkopen via het [Cloud Solution Provider-programma.](csp-offers.md)

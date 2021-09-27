@@ -1,19 +1,19 @@
 ---
 title: Uw partneraccount samenvoegen met een ander partneraccount
-description: Meer informatie over het samenvoegen van uw partneraccount met een ander partneraccount in Partner Center - voor bedrijven die actieve Microsoft-partners zijn in Partner Center.
+description: Meer informatie over het samenvoegen van uw partneraccount met een ander partneraccount in Partner Center voor bedrijven die actieve Microsoft-partners zijn in Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
-ms.date: 06/12/2020
-ms.openlocfilehash: 4b913754dd73f99e8aa363d257a9ac658d190b6a
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.date: 09/27/2021
+ms.openlocfilehash: 090deddc8cdb06fe1b5f884b3efa9031fd93364b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128321996"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071840"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Uw partneraccount samenvoegen met een ander partneraccount
 
@@ -61,7 +61,7 @@ Als u besluit de uitnodiging voor het samenvoegen van accounts te accepteren: ·
 
 - Na verlenging worden voordelen die zijn opgenomen bij het bereiken van competentie en Action Pack geïmplementeerd voor het globale partneraccount van het partnerbedrijf:
 
-  - Microsoft Action Pack: Het partnerbedrijf kan één aankoop doen Action Pack globale partneraccount.
+  - Microsoft Action Pack: Het partnerbedrijf kan één aankoop doen Action Pack account van een partner.
 
   - Competentie: Het partnerbedrijf ontvangt één pakket kernvoordelen, gekoppeld aan het hoogst haalbare bereik, plus competentiespecifieke voordelen die de partner in aanmerking komt voor een algemeen partneraccount.
 
@@ -79,18 +79,20 @@ Als u besluit de uitnodiging voor het samenvoegen van accounts te accepteren: ·
 
 - Er is geen effect op DPOR of PAL-associatie. Eventuele gekoppelde bijdragen aan de omzet stromen naar het nieuwe globale partneraccount
 
-## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Een bedrijf uitnodigen om zijn of haar Partner Center-account samen te voegen met uw Partner Center account
+## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Een bedrijf uitnodigen om zijn of haar Partner Center account samen te voegen met uw Partner Center account
 
->[!Note]
->Als u de account wilt laten samenvoegen, moet u de **accountbeheerder voor** uw bedrijf zijn.
+> [!NOTE]
+> Als u de account wilt laten samenvoegen, moet u de **accountbeheerder voor** uw bedrijf zijn.
 
-1. Selecteer **Instellingen** in uw Partner Center dashboard. 
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
+ 
+2. Selecteer het Instellingen tandwielpictogram en selecteer vervolgens **Accountinstellingen.**
 
-2. Selecteer **Account samenvoegen.**
+3. Selecteer **Account samenvoegen.**
 
-3. Voeg de MPN-id toe in het **partnerprofiel** van het account dat u wilt uitnodigen om samen te voegen met u. U moet de globale MPN-id van de partner gebruiken. U kunt geen MPN-locatie-id gebruiken.
+4. Voeg de MPN-id toe in het **partnerprofiel** van het account dat u wilt uitnodigen om samen te voegen met u. U moet de globale MPN-id van de partner gebruiken. U kunt geen MPN-locatie-id gebruiken.
 
-4. Wanneer u Samenvoegen **selecteert,** wordt er een uitnodiging verzonden naar het partnerbedrijf. Wanneer ze uw aanvraag accepteren, kunt u de account samenvoegen binnen Partner Center. Als het bedrijf uw aanvraag voor het samenvoegen van accounts weigert, kan het bedrijf uitleggen waarom de aanvraag is afgewezen. Onder Samenvoeggeschiedenis vindt u een lijst met alle samenvoegingen **van uw account.**
+5. Wanneer u Samenvoegen **selecteert,** wordt er een uitnodiging verzonden naar het partnerbedrijf. Wanneer ze uw aanvraag accepteren, kunt u de account samenvoegen binnen Partner Center. Als het bedrijf uw aanvraag voor het samenvoegen van accounts weigert, kan het bedrijf uitleggen waarom de aanvraag is afgewezen. Onder Samenvoeggeschiedenis vindt u een lijst met alle samenvoegingen **van uw account.**
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Voorbeeld van het samenvoegen van accounts door twee bedrijven
 
@@ -103,7 +105,7 @@ Als u besluit de uitnodiging voor het samenvoegen van accounts te accepteren: ·
     c. een gold-competentie die verloopt op 1 oktober 2020
 2. Fabrikam, Inc. heeft
  
-    a. een algemene MPN-id van 3333333 en twee onderliggende LOCATIE MPN-id's van 4444444 en 5555555
+    a. een algemene MPN-id van 3333333 en twee onderliggende locatie MPN-id's van 4444444 en 5555555
 
     b.  een Azure AD-tenant = @fabrikam.com
 
@@ -113,7 +115,7 @@ Als u besluit de uitnodiging voor het samenvoegen van accounts te accepteren: ·
 5.  Contoso controleert de details van de samenvoeging op dezelfde pagina en geeft een bevestiging om door te gaan met de fusie van het account.
 6.  Na de fusie wordt het bedrijfsaccount weergegeven als:
 
-    a.  Een bedrijf met de naam Contoso met een globale MPN-id van 1111111 en 4 mpn-id's voor de onderliggende locatie van 2222222, 3333333, 4444444 en 5555555
+    a.  Een bedrijf met de naam Contoso met een globale MPN-id van 1111111 en 4 MPN-id's voor de onderliggende locatie van 2222222, 3333333, 4444444 en 5555555
     
     b.  Het heeft twee Azure AD-tenants ( @contoso.com + ) die toegang hebben tot hetzelfde @fabrikam.com Partner Center account
     

@@ -1,7 +1,7 @@
 ---
 title: Uw account voor het partnercentrum beheren
-ms.topic: conceptual
-ms.date: 03/18/2021
+ms.topic: overview
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 description: Meer informatie over het Partner Center voor het beheren van uw bedrijfsprofiel, bank- en belastinggegevens, rollen, machtigingen en meer.
@@ -9,14 +9,14 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cfb8e05a9d09aa3b7214ac3c1024348348416d5
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: bf343da721c87a684beb59fb581e0f7b01c770b0
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126245712"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070807"
 ---
-# <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Uw Partner Center beheren - bedrijfsprofiel, bankgegevens, rollen, machtigingen en meer
+# <a name="partner-center-account-management"></a>Partner Center accountbeheer
 
 **Juiste rollen:** Globale | Accountbeheerder
 
@@ -24,18 +24,14 @@ Het account dat u maakt op Partner Center u zich inschrijft, is uw zakelijke e-m
 
 Zie ook de artikelen [Invite employees to join Partner Center](./partner-membership-center-retirement-faq.md) en Add a new [user](create-user-accounts-and-set-permissions.md).
 
->[!NOTE]
->Het menu Accountinstellingen wordt gewijzigd, afhankelijk van de programma's waarin u bent ingeschreven. Als u bijvoorbeeld een partner bent in het Cloud Solution Provider-programma (CSP), kunt u uw gedeelde Azure-services beheren via **accountinstellingen.**
+> [!NOTE]
+> Het menu Accountinstellingen wordt gewijzigd, afhankelijk van de programma's waarin u bent ingeschreven. Als u bijvoorbeeld een partner bent in het Cloud Solution Provider-programma (CSP), kunt u uw gedeelde Azure-services beheren via **accountinstellingen.**
 
 ## <a name="account-management"></a>Accountbeheer
 
-Alle commerciële en ontwikkelaarspartners hebben toegang tot **accountbeheer** in Partner Center door zich aan te melden bij het [Partner Center-dashboard](https://partner.microsoft.com/dashboard) en **Instellingen** (het tandwielpictogram) in de rechterbovenhoek van het scherm te selecteren en vervolgens Accountinstellingen te **selecteren.** U hoeft niet langer te kiezen tussen partner- en ontwikkelaarsinstellingen. Alle profielen en instellingen worden nu gecombineerd.
+Alle commerciële en ontwikkelaarspartners hebben toegang tot **accountbeheer** in Partner Center door zich aan te melden bij het [Partner Center-dashboard](https://partner.microsoft.com/dashboard) en het tandwielpictogram Instellingen selecteren en vervolgens **Accountinstellingen te selecteren.** U hoeft niet langer te kiezen tussen partner- en ontwikkelaarsinstellingen. Alle profielen en instellingen worden nu gecombineerd.
 
-:::image type="content" source="images/accountsettings/opening.png" alt-text="pictogram instellingen.":::
-
-Hiermee wordt de pagina met accountinstellingen weergegeven.
-
-:::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Instellingen menu.":::
+:::image type="content" source="images/accountsettings/opening.png" alt-text="Schermopname van het Instellingen tandwielpictogram uitv expanded.":::
 
 ### <a name="locate-your-mpn-id"></a>Uw MPN-id zoeken
 
@@ -45,8 +41,6 @@ Of u nu een partner of ontwikkelaar bent, gebruik uw MPN-id voor bijvoorbeeld he
 
 Wanneer u het pictogram **Instellingen** selecteert en het menu **Accountinstellingen** opent, **is** de standaardweergave, als uw bedrijf deel uitmaakt van het Cloud Solution Provider-programma, Juridische gegevens met twee tabbladen: **Partner** en **Reseller.** Elk tabblad bevat aspecten van uw bedrijf.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu toont tabbladen voor Partners en Resellers.":::
-
 Het tabblad Partner bevat alle juridische bedrijfsgegevens, zoals geregistreerde juridische naam en adres voor uw bedrijf, evenals de primaire contactpersoon en bedrijfslocaties. Het tabblad Reseller voor partners die CSP-zaken doen, bevat het **klantondersteuningsprofiel**.
 
 Als uw bedrijf niet deelneemt aan CSP, wordt in de standaardweergave alleen het **tabblad Partner** weergegeven, met het **klantondersteuningsprofiel**.
@@ -55,15 +49,11 @@ Als uw bedrijf niet deelneemt aan CSP, wordt in de standaardweergave alleen het 
 
 U kunt deel uitmaken van meer dan één account. U kunt controleren of u deel uitmaakt van meerdere accounts door de aanwezigheid van de 'account picker' in het navigatiemenu aan de linkerkant.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificeer de account- picker.":::
-
 Als u de account- picker niet ziet, maakt u slechts deel uit van één account. 
 
 Wanneer u deze picker selecteert, worden alle accounts waar u deel van uitmaakt, weergegeven als een lijst. Vervolgens kunt u een van deze selecteren en overschakelen naar dat account. Alles daarna wordt weergegeven in de context van dat account.  
 
 In het onderstaande voorbeeld maakt de aangemelde gebruiker deel uit van de drie gemarkeerde accounts. De gebruiker kan schakelen tussen deze twee door op een account te klikken.
-
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="De accounts waar u deel van uitmaakt.":::
 
 ## <a name="organization-profile"></a>Organisatieprofiel
 
@@ -101,7 +91,7 @@ Op deze pagina wordt het type samenwerking met Microsoft aangegeven, zoals onafh
 
 ### <a name="account-merge-profile"></a>Account samenvoegen-profiel
 
-Wanneer u een bedrijf uitnodigt dat een actief account in Partner Center om hun account samen te voegen met het uwe, wordt die informatie beheerd op de **pagina Account samenvoegen.** Zoek de MPN-id op voor het bedrijf dat u wilt uitnodigen om samen te voegen met uw bedrijf, huidige fusies te bekijken en uitnodigingen te verzenden naar bedrijven. Accepteer of weiger hier een uitnodiging om uw bedrijfsaccount samen te voegen met het account van een ander bedrijf. Zie Uw partneraccount samenvoegen met een [ander partneraccount voor meer informatie.](merge-accounts.md)
+Wanneer u een bedrijf met een actief account in Partner Center om hun account samen te voegen met het uwe, wordt die informatie beheerd op de **pagina Account samenvoegen.** Zoek de MPN-id op voor het bedrijf dat u wilt uitnodigen om samen te voegen met uw bedrijf, huidige fusies te bekijken en uitnodigingen te verzenden naar bedrijven. Accepteer of weiger hier een uitnodiging om uw bedrijfsaccount samen te voegen met het account van een ander bedrijf. Zie Uw partneraccount samenvoegen met een [ander partneraccount voor meer informatie.](merge-accounts.md)
 
 ## <a name="payout-and-tax"></a>Uitbetaling en belasting
 
@@ -116,29 +106,24 @@ Waar u aan werkt in Partner Center de gebieden die u kunt bijwerken of zien, is 
 Werk uw voorkeurs-e-mail bij om Partner Center ontvangen:
 
 1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
-1. Ga naar [**Betrokkenheidsvoorkeur,**](https://partner.microsoft.com/dashboard/engagement/preference)selecteer de koppeling **Wijzigen,** werk het e-mailadres bij en selecteer **Opslaan.**
+
+2. Selecteer het Instellingen tandwielpictogram en vervolgens [**Mijn voorkeuren.**](https://partner.microsoft.com/dashboard/engagement/preference)
+
+3. Selecteer **Wijzigen,** werk het e-mailadres bij en selecteer **Opslaan.**
 
 ### <a name="find-your-user-role"></a>Uw gebruikersrol zoeken
 
-1. Ga naar **Instellingen** en selecteer **Mijn profiel**.
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
 
-1. Op de **pagina Details** ziet u uw persoonlijke gegevens wanneer deze betrekking hebben op uw werk en uw leer-, examen- en certificeringsgegevens.
+2. Selecteer het Instellingen tandwielpictogram en vervolgens **Account Instellingen** en selecteer **Mijn profiel**.
 
-1. Selecteer het **tabblad Rollen en machtigingen** om alle rollen te zien die aan u zijn toegewezen en de machtigingen die deze rollen bieden.
+3. Op de profielpagina ziet u uw persoonlijke gegevens wanneer deze betrekking hebben op uw werk en uw leer-, examen- en certificeringsgegevens.
+
+4. Selecteer het **tabblad Rollen en machtigingen** om alle rollen te zien die aan u zijn toegewezen en de machtigingen die deze rollen bieden.
 
 ## <a name="programs-in-which-you-are-enrolled"></a>Programma's waarin u bent ingeschreven
 
 Het werk dat u doet om uw Partner Center-account te beheren, heeft betrekking op de specifieke programma's waarin u bent ingeschreven en de gebruikersrollen en machtigingen die u hebt toegewezen in Partner Center.
-
-Om te zien tot welke programma's u toegang hebt:
-
-1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
-
-2. In het linkernavigatiemenu worden de programma's weergegeven die u hebt ingeschreven en worden de beschikbare opties voor elk programma weergegeven.
-
-Hier is een voorbeeld. Stel dat een gebruiker toegang heeft tot drie programma's in Partner Center dashboard: het **MPN-programma,** het **programma Verwijzingen** en het **programma Commerciële** marketplace. Wanneer ze zich aanmelden bij Partner Center dashboard, zien ze deze drie programma's aan de linkerkant van het scherm.
-
-:::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Menu Ingeschreven programma's.":::
 
 ### <a name="enrolling-in-programs"></a>Registreren in programma's
 
@@ -148,7 +133,7 @@ Zie de volgende gedeeltelijke lijst voor meer informatie over Partner Center reg
 
 - [Commercial Marketplace-programma](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft Partner Network lidmaatschapsvoordelen](mpn-overview.md)
-- [CSP-programma](./enrolling-in-the-csp-program.md)
+- [Cloud Solution Provider-programma](./enrolling-in-the-csp-program.md)
 - [Office Winkel](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Zie ook Partner network resources (Netwerkresources van partners) voor meer Partner Center registratie [in uw programma's.](https://partner.microsoft.com/)

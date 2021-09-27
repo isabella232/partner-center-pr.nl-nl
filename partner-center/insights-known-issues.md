@@ -5,16 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Meer informatie over bekende problemen met betrekking tot Partner Center Insights (PCI)-rapporten. Informatie kan bekende renderingproblemen of rapportagebeperkingen omvatten.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d40c0c8bab2b7f49797feb3685920210198a6d3
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 434dafb42a21a8ed555b6b873e9b83bc8ab5e2d6
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957722"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074669"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights : veelgestelde vragen
 
@@ -24,7 +24,7 @@ In dit artikel worden bekende problemen beschreven voor het weergeven of weergev
 
 V) **Ik zie de hub Insights niet in mijn Partner Center account. Wat moet ik doen?**
 
-A) Zorg ervoor dat u bent aangemeld bij het mpn Microsoft Partner Network account voor uw organisatie. U hebt geen toegang tot Insights dashboard van uw Cloud Solution Provider (CSP)-account. Zorg er ook voor dat de rol Rapportviewer of Executive rapportviewer is verleend door uw globale beheerder.  Zie dit artikel voor meer informatie [over rollen.](./insights-roles.md)
+A) Zorg ervoor dat u bent aangemeld bij het mpn Microsoft Partner Network account voor uw organisatie. U hebt geen toegang tot Insights dashboard vanuit uw Cloud Solution Provider (CSP)-account. Zorg er ook voor dat de rol Rapportviewer of Executive rapportviewer is verleend door uw globale beheerder.  Zie dit artikel voor meer informatie [over rollen.](./insights-roles.md)
 
 V) Ik kan geen gefactureerde omzet of **Omzet uit Azure-verbruik (ACR) in mijn rapporten zien. Waarom is dat?**
 

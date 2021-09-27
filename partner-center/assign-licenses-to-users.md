@@ -1,7 +1,7 @@
 ---
 title: Gebruikers beheren voor klantaccounts
 ms.topic: how-to
-ms.date: 02/25/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
 description: 'Gebruikers voor uw klanten beheren in Partner Center: maak gebruikersaccounts, voeg gebruikerslicenties toe of verwijder deze, stel wachtwoorden opnieuw in en verwijder of herstel gebruikersaccounts.'
@@ -9,24 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c346e5e680fdd0b0b82715160b238e1e6b6a9a9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: dca930586fd17e9c70e80455802cf3f587170a42
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244772"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070488"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gebruikers en gebruikerslicenties voor klantaccounts beheren 
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent
-
+**Juiste rollen:** Globale | Gebruikersbeheerbeheer | Beheeragent
 
 U kunt nieuwe gebruikers maken en verwijderen in het account van een klant. U kunt ook een of meer gebruikersaccounts herstellen die u eerder binnen 30 dagen na de verwijdering hebt verwijderd. De vorige abonnementstoewijzingen van de gebruiker worden ook hersteld (ervan uitgaande dat de vorige toewijzingen beschikbaar zijn).
 
-Wanneer u nieuwe abonnementen voor een klant koopt, moet de klant u een lijst geven met alle gebruikers die accounts nodig hebben, hun gebruikersmachtigingen en welke services elke gebruiker nodig heeft.  
+Wanneer u nieuwe abonnementen voor een klant koopt, moet de klant u een lijst geven met alle gebruikers die accounts nodig hebben, hun gebruikersmachtigingen en welke services elke gebruiker nodig heeft.
 
->[!NOTE]
->In **de sectie** Gebruikers en licenties van het tabblad Klant ziet u alle gebruikers die zijn gemaakt in de tenant van een specifieke klant, met inbegrip van gebruikers die licenties hebben aangeschaft van een andere CSP-partner of van een ander aankoopkanaal. 
+> [!NOTE]
+> In **de** sectie Gebruikers en licenties van het tabblad Klant ziet u alle gebruikers die zijn gemaakt in de tenant van een specifieke klant, inclusief gebruikers met licenties die zijn aangeschaft bij een andere CSP-partner **of** via een ander aankoopkanaal.
 
 U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-multiple-users.md) tegelijk toewijzen door de namen te importeren met behulp van een Excel compatibel .csv [spreadsheetbestand](adding-multiple-users-to-a-customer-account.md).
 
@@ -34,19 +33,38 @@ U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-mult
 
 ## <a name="create-user-accounts-for-a-customer"></a>Gebruikersaccounts maken voor een klant
 
-1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
-3. Selecteer gebruikers en licenties in het menu **van de klant.**
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard)de **tegel Klanten** en selecteer vervolgens de klant in de lijst Klant.
 
-4. Voor elke gebruiker die u toevoegt, selecteert u **Abonnement toevoegen** en vult u de gegevens in, inclusief machtigingen en licenties. U moet vervolgens de wijzigingen **Opslaan**.
+2. Selecteer gebruikers en licenties in het menu **van de klant.**
 
-5. Zorg ervoor dat u de gebruikersnaam en het tijdelijke wachtwoord vast weet te stellen die u naar de gebruiker wilt verzenden.
+3. Voor elke gebruiker die u toevoegt, selecteert u Abonnement **toevoegen** en vult u de gegevens in, inclusief machtigingen en licenties. U moet vervolgens de wijzigingen **Opslaan**.
 
-6. Als u meerdere gebruikers één voor één toevoegt, gebruikt **u Een andere gebruiker toevoegen.**
+4. Zorg ervoor dat u de gebruikersnaam en het tijdelijke wachtwoord vastrecordt die u naar de gebruiker wilt verzenden.
 
-7. U kunt ook meerdere gebruikers tegelijk toevoegen door een Excel compatibele .csv [spreadsheetbestand te importeren.](adding-multiple-users-to-a-customer-account.md) U kunt wachten totdat u klaar bent met de hele set voordat u de namen en wachtwoorden via het bevestigingsscherm per e-mail kunt afdrukken of afdrukken.
+5. Als u meerdere gebruikers één voor één toevoegt, gebruikt **u Een andere gebruiker toevoegen.**
+
+6. U kunt ook meerdere gebruikers tegelijk toevoegen door een Excel compatibele .csv [spreadsheetbestand te importeren.](adding-multiple-users-to-a-customer-account.md) U kunt wachten totdat u klaar bent met de hele set voordat u de namen en wachtwoorden via het bevestigingsscherm per e-mail kunt afdrukken.
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard) **klanten** en selecteer vervolgens de klant in de lijst Klant.
+
+2. Selecteer gebruikers en licenties in het menu **van de klant.**
+
+3. Voor elke gebruiker die u toevoegt, selecteert u Abonnement **toevoegen** en vult u de gegevens in, inclusief machtigingen en licenties. U moet vervolgens de wijzigingen **Opslaan**.
+
+4. Zorg ervoor dat u de gebruikersnaam en het tijdelijke wachtwoord vastrecordt die u naar de gebruiker wilt verzenden.
+
+5. Als u meerdere gebruikers één voor één toevoegt, gebruikt **u Een andere gebruiker toevoegen.**
+
+6. U kunt ook meerdere gebruikers tegelijk toevoegen door een Excel compatibele .csv [spreadsheetbestand te importeren.](adding-multiple-users-to-a-customer-account.md) U kunt wachten totdat u klaar bent met de hele set voordat u de namen en wachtwoorden via het bevestigingsscherm per e-mail kunt afdrukken.
+
+* * *
 
 <a href="" id="userlicensing"></a>
 
@@ -54,50 +72,105 @@ U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-mult
 
 De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebruikerslicenties voor Microsoft-producten. Zie Licenties voor een SaaS-abonnement toevoegen of verwijderen als u gebruikerslicenties wilt toevoegen of verwijderen voor [SaaS-abonnementen](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)op basis van licenties in de commerciële marketplace.
 
-1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
-3. Selecteer gebruikers en licenties in het menu **van de klant.**
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard)de **tegel Klanten** en selecteer vervolgens de klant in de lijst Klant.
 
-4. Kies een of meer gebruikers uit de lijst. Als de klant bijvoorbeeld zojuist nieuwe licenties heeft aangeschaft en u deze wilt toewijzen aan mensen die deze nog niet hebben, kunt u de optie Gebruikers filteren **op...** gebruiken om de juiste groep te vinden.
+2. Selecteer gebruikers en licenties in het menu **van de klant.**
 
-5. Selecteer **Licenties beheren**. Maak uw wijzigingen en klik vervolgens op **Opslaan.**
+3. Kies een of meer gebruikers uit de lijst. Als de klant bijvoorbeeld zojuist nieuwe licenties heeft aangeschaft en u deze wilt toewijzen aan mensen die deze nog niet hebben, kunt u de optie Gebruikers filteren **op...** gebruiken om de juiste groep te vinden.
+
+4. Selecteer **Licenties beheren**. Maak uw wijzigingen en klik vervolgens op **Opslaan.**
 
 > [!NOTE]
-> Voor [Azure Marketplace worden](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)licentietoewijzing en activering beheerd via de ONAFHANKELIJKE softwareleverancier (ISV) die het product heeft gepubliceerd.
+> Voor [Azure Marketplace worden](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)licentietoewijzing en -activering beheerd via de Onafhankelijke softwareleverancier (ISV) die het product heeft gepubliceerd.
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard) **klanten** en selecteer vervolgens de klant in de lijst Klant.
+
+2. Selecteer gebruikers en licenties in het menu **van de klant.**
+
+3. Kies een of meer gebruikers uit de lijst. Als de klant bijvoorbeeld zojuist nieuwe licenties heeft aangeschaft en u deze wilt toewijzen aan mensen die deze nog niet hebben, kunt u de optie Gebruikers filteren **op...** gebruiken om de juiste groep te vinden.
+
+4. Selecteer **Licenties beheren**. Maak uw wijzigingen en klik vervolgens op **Opslaan.**
+
+> [!NOTE]
+> Voor [Azure Marketplace worden](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)licentietoewijzing en -activering beheerd via de Onafhankelijke softwareleverancier (ISV) die het product heeft gepubliceerd.
+
+* * *
 
 <a href="" id="resetpassword"></a>
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Het wachtwoord van een gebruiker opnieuw instellen voor een klant
 
-1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard) van het Partnercentrum.
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
-3. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
+1. Meld u aan bij [Partner Center dashboard,](https://partner.microsoft.com/dashboard)selecteer de **tegel** Klanten en selecteer vervolgens de klant in de lijst Klant.
 
-4. Selecteer onder aan het scherm Wachtwoord **opnieuw instellen.** 
+2. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
 
-5. Verzend het nieuwe tijdelijke wachtwoord naar de gebruiker.
+3. Selecteer onder aan het scherm Wachtwoord **opnieuw instellen.**
+
+4. Verzend het nieuwe tijdelijke wachtwoord naar de gebruiker.
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Meld u aan bij [Partner Center dashboard,](https://partner.microsoft.com/dashboard)selecteer **Klanten** en selecteer vervolgens de klant in de lijst Klant.
+
+2. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
+
+3. Selecteer onder aan het scherm Wachtwoord **opnieuw instellen.**
+
+4. Verzend het nieuwe tijdelijke wachtwoord naar de gebruiker.
+
+* * *
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Gebruikersaccounts voor een klant verwijderen
 
-1. Selecteer in **Partner Center** menu **Klanten.** Kies de klant in de lijst.
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard)de **tegel Klanten** en selecteer vervolgens de klant in de lijst Klant.
 
 2. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
 
-3. Selecteer onderaan het scherm Gebruikersaccount **verwijderen.**
+3. Selecteer onderaan het scherm **Gebruikersaccount verwijderen.**
 
 Als u dit account wilt herstellen, kunt u het vinden op het tabblad **Verwijderde** gebruikers van de lijst Gebruikers **en licenties van de** klant. U hebt 30 dagen de tijd om een verwijderde gebruiker te herstellen.
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard) **klanten** en selecteer vervolgens de klant in de lijst Klant.
+
+2. Selecteer gebruikers en licenties in het menu **van de klant.** Kies de gebruiker in de lijst.
+
+3. Selecteer onderaan het scherm **Gebruikersaccount verwijderen.**
+
+Als u dit account wilt herstellen, kunt u het vinden op het tabblad **Verwijderde** gebruikers van de lijst Gebruikers **en licenties van de** klant. U hebt 30 dagen de tijd om een verwijderde gebruiker te herstellen.
+
+* * *
 
 <a href="" id="restoreuseraccounts"></a>
 
 ## <a name="restore-deleted-user-accounts"></a>Verwijderde gebruikersaccounts herstellen
 
-1. Selecteer in **Partner Center** menu **Klanten** en kies vervolgens de klant in de lijst.
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard)de **tegel Klanten** en selecteer vervolgens de klant in de lijst Klant.
 
 2. Selecteer **Gebruikers en licenties.**
 
@@ -106,6 +179,20 @@ Als u dit account wilt herstellen, kunt u het vinden op het tabblad **Verwijderd
 4. Selecteer een of meer van de selectievakjes van de verwijderde gebruikers en selecteer vervolgens **Herstellen.**
 
     Alle geselecteerde gebruikersaccounts worden opnieuw weergegeven op **de pagina Gebruikers en** licenties.
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard) **klanten** en selecteer vervolgens de klant in de lijst Klant.
+
+2. Selecteer **Gebruikers en licenties.**
+
+3. Selecteer **het tabblad Verwijderde gebruikers (** ). Deze moet **(1)** of hoger lezen wanneer er verwijderde gebruikers zijn die kunnen worden hersteld.
+
+4. Selecteer een of meer van de selectievakjes van de verwijderde gebruikers en selecteer vervolgens **Herstellen.**
+
+    Alle geselecteerde gebruikersaccounts worden opnieuw weergegeven op **de pagina Gebruikers en** licenties.
+
+* * *
 
 ## <a name="next-steps"></a>Volgende stappen
 

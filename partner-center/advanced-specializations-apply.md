@@ -1,7 +1,7 @@
 ---
 title: Toepassen op geavanceerde specialisaties
 ms.topic: how-to
-ms.date: 09/16/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Uw bedrijfsprofiel versterken in de Microsoft-partnerdirectory. Meer informatie over het gebruik Partner Center om u aan te melden voor geavanceerde specialisaties en deze te verdienen.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: a558ff40727d13045a74343fa9146443b88bc69c
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322098"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070569"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Gebruik Partner Center om geavanceerde specialisaties aan te melden en de status ervan te controleren
 
@@ -32,7 +32,26 @@ Veel van het proces is beschikbaar vanuit het Partner Center dashboard. Alleen g
 
 Als u toegang wilt krijgen tot dit gebied, moet u de rol van **MPN-accountbeheerder** of globale beheerder **krijgen** voor het Microsoft-partneraccount van uw organisatie.
 
-### <a name="follow-these-steps-to-access-this-area"></a>Volg deze stappen om toegang te krijgen tot dit gebied:
+### <a name="to-access-this-area"></a>Toegang krijgen tot dit gebied
+
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u deze [in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Meld u aan bij [Partner Center dashboard en](https://partner.microsoft.com/dashboard/home) selecteer de **tegel** Lidmaatschap.
+
+2. Selecteer **Geavanceerde specialisaties** en selecteer vervolgens het gebied waarin u geïnteresseerd bent: Azure, Modern werk, Beveiliging of Bedrijfstoepassingen.
+
+3. Als u details wilt weergeven, selecteert u de naam van de geavanceerde specialisatie. U ziet specifieke vereisten en stappen, uw huidige status en koppelingen naar verdere stappen of resources.
+
+   U kunt terugkeren naar dit gebied van Partner Center om uw huidige status te zien bij het bereiken van een geavanceerde specialisatie.
+
+4. Nadat u alle vereisten voor een geavanceerde specialisatie hebt voltooid, controleert u dit  gebied van Partner Center opnieuw om te zien of uw status is gewijzigd in Actief voor een specifieke geavanceerde specialisatie.
+
+   Met de actieve status wordt automatisch een geavanceerde specialisatietag voor uw **bedrijfsprofiel mogelijk** gemaakt. Dit profiel is dan zichtbaar voor alle klanten die een [oplossingsprovider proberen te vinden.](https://www.microsoft.com/solution-providers/home)
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
 
@@ -45,6 +64,8 @@ Als u toegang wilt krijgen tot dit gebied, moet u de rol van **MPN-accountbeheer
 4. Nadat u alle vereisten voor een geavanceerde specialisatie hebt voltooid, controleert u dit  gebied van Partner Center opnieuw om te zien of uw status is gewijzigd in Actief voor een specifieke geavanceerde specialisatie.
 
    Met de actieve status wordt automatisch een geavanceerde specialisatietag voor uw **bedrijfsprofiel mogelijk** gemaakt. Dit profiel is dan zichtbaar voor alle klanten die een [oplossingsprovider proberen te vinden.](https://www.microsoft.com/solution-providers/home)
+
+* * *
 
 ## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Gebruik Partner Center om een controle te plannen of klantverwijzingen op te nemen voor geavanceerde specialisaties
 
@@ -94,11 +115,13 @@ In de volgende secties wordt beschreven hoe u een audit kunt plannen of klantver
 
 Naast hun eigen vereisten moet u voor sommige geavanceerde specialisaties ook slagen voor *een geplande controle.* Zie de eerdere lijst met geavanceerde specialisaties waarvoor een controle is vereist.
 
-Volg vervolgens deze stappen om een controle in de volgende Partner Center:
+Volg vervolgens deze stappen om een controle in een Partner Center:
 
-1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
-2. Selecteer de **MPN-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
+1. Meld u aan bij [Partner Center dashboard en](https://partner.microsoft.com/dashboard/home) selecteer de **tegel** Lidmaatschap.
+
+2. Selecteer **Geavanceerde specialisaties** en selecteer vervolgens het gebied waarin u geïnteresseerd bent: Azure, Modern werk, Beveiliging of Bedrijfstoepassingen.
 
 3. Selecteer de naam van de geavanceerde specialisatie die vereist dat u een controle wilt plannen. Stel bijvoorbeeld dat u Modernisering van webtoepassingen selecteert om **te Microsoft Azure.** De pagina vereisten wordt vervolgens weergegeven voor deze geavanceerde specialisatie.
 
@@ -109,13 +132,42 @@ Volg vervolgens deze stappen om een controle in de volgende Partner Center:
    - Totdat u aan alle vereisten op deze pagina voldoet, blijft uw status **Niet gestart.** De **knop Controle plannen** blijft ook uitgeschakeld. 
    - Zodra aan alle vereisten en de controle is voldaan, wordt uw status gewijzigd in **Actief.**
 
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Meld u aan bij [Partner Center dashboard](https://partner.microsoft.com/dashboard/home) en selecteer **MPN** in het menu en vervolgens **Adv. Specialisaties** om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
+
+2. Selecteer de naam van de geavanceerde specialisatie die vereist dat u een controle wilt plannen. Stel bijvoorbeeld dat u Modernisering van webtoepassingen selecteert om **te Microsoft Azure.** De pagina vereisten wordt vervolgens weergegeven voor deze geavanceerde specialisatie.
+
+   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="Pagina met voorbeeldvereisten met vereisten voor het verdienen van een specifieke geavanceerde specialisatie.":::
+
+3. Zodra u aan alle vereisten voor deze geavanceerde specialisatie voldoet, kunt u op deze pagina de knop **Controle** plannen selecteren.
+
+   - Totdat u aan alle vereisten op deze pagina voldoet, blijft uw status **Niet gestart.** De **knop Controle plannen** blijft ook uitgeschakeld. 
+   - Zodra aan alle vereisten en de controle is voldaan, wordt uw status gewijzigd in **Actief.**
+
+* * *
+
 ## <a name="provide-customer-references-in-partner-center"></a>Geef klantverwijzingen op in Partner Center
 
 Naast hun eigen vereisten moet u voor sommige geavanceerde specialisaties ook *klantverwijzingen verstrekken.* Bekijk de eerdere lijst met geavanceerde specialisaties waarvoor klantverwijzingen zijn vereist.
 
 Volg vervolgens deze stappen om klantverwijzingen op te geven in Partner Center:
 
-1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/home) van het Partnercentrum.
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Meld u aan bij [Partner Center dashboard en](https://partner.microsoft.com/dashboard/home) selecteer de **tegel** Lidmaatschap.
+
+2. Selecteer **Geavanceerde specialisaties** en selecteer vervolgens het gebied waarin u geïnteresseerd bent: Azure, Modern werk, Beveiliging of Bedrijfstoepassingen.
+
+3. Selecteer de naam van de geavanceerde specialisatie die vereist dat u klantverwijzingen op te geven. Als u bijvoorbeeld Vergaderingen en **vergaderruimten selecteert voor Microsoft Teams:**
+
+   De pagina vereisten wordt weergegeven voor deze geavanceerde specialisatie. Naast goudkleurige competentie, certificeringen en een prestatievereiste, moet u voor deze geavanceerde specialisatie drie klantverwijzingen bieden die laten zien hoe u deze kunt implementeren en beheren.
+
+4. Totdat u voldoet aan alle vereisten die op deze pagina worden weergegeven en klantverwijzingen hebt verstrekt, blijft uw status **Niet gestart.** Zodra aan alle vereisten is voldaan, wordt uw status gewijzigd in **Actief.**
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/home).
 
 2. Selecteer de **MPN-sectie** van Partner Center menu, gevolgd door **Adv. Specialisaties.** Het menu wordt uitgebreid om alle geavanceerde specialisaties weer te geven die voor u beschikbaar zijn.
 
@@ -127,12 +179,14 @@ Volg vervolgens deze stappen om klantverwijzingen op te geven in Partner Center:
 
 4. Totdat u voldoet aan alle vereisten die op deze pagina worden weergegeven en klantverwijzingen hebt verstrekt, blijft uw status **Niet gestart.** Zodra aan alle vereisten is voldaan, wordt uw status gewijzigd in **Actief.**
 
-## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Hoe Azure Consumption Revenue (ACR) wordt berekend voor elke geavanceerde specialisatie:
+* * *
+
+## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Hoe Azure Consumption Revenue (ACR) wordt berekend voor elke geavanceerde specialisatie
 
 - Partner-naar-klant-associaties zijn opgenomen: Digitale [Partner of Record-koppeling](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) naar een klant, of CSP-partner voor directe factuur of indirecte CSP-reseller voor een klant- of [PAL-koppeling (Partner Admin Link)](/azure/cost-management-billing/manage/link-partner-id) aan een klant.
 - ACR van abonnementen met aanbiedingstypen Trial, Benefits-programma's, Ondersteuning en Intern wordt niet meegetelde bij de geavanceerde specialisatie.
 
-**Velden voor omzet azure-verbruik**
+### <a name="azure-consumption-revenue-fields"></a>Velden voor omzet azure-verbruik
 
 | Veldnaam | Beschrijving van veld |
 |-------------|----------------------|
@@ -191,7 +245,7 @@ Volg vervolgens deze stappen om klantverwijzingen op te geven in Partner Center:
     - Linux Virtual Machines (VM)ACR:
         - Optie 1:
             - ACR-aanpassingstype= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = Non-Windows , UNKNOWN , Windows
-            - Serviceniveau 4= Alle behalve Cloud Services MS-serie, Virtual Machines MS-serie, Virtual Machines MS Series Windows, Virtual Machines MSv2-serie, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
+            - Serviceniveau 4= Alle behalve Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2-serie, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
         - Optie 2: alleen filters vereisen op serviceniveau 4, andere velden, zoals Os-/compute-besturingssysteemkenmerken, zijn niet vereist
             - Serviceniveau 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux met hoge SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
     - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases en Service Level 2 = Azure Database for MariaDB

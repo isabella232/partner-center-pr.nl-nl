@@ -9,12 +9,12 @@ metadata:
   author: mseamons
   ms.author: mseamons
   ms.localizationpriority: medium
-  ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+  ms.openlocfilehash: 3ef9c906bfd631588448b77ce38d967984cb9fcc
+  ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126244917"
+  ms.lasthandoff: 09/27/2021
+  ms.locfileid: "129074845"
 title: Veelgestelde vragen over Incentives
 summary: >
   **Juiste rollen:** Incentives-| Incentives-gebruiker
@@ -47,7 +47,7 @@ sections:
       Zie Overzicht van machtigingen [voor meer informatie.](permissions-overview.md)
   - question: >
       Hoe kan ik erachter komen wie globale beheerdersrechten of accountbeheerdersrechten voor mijn bedrijf heeft?
-    answer: "Een globale beheerder of accountbeheerder zoeken die rolwijzigingen kan aanbrengen of rollen kan toewijzen aan een nieuwe gebruiker:\n\n1. Selecteer in het pictogram Accountinstellingen rechtsboven Partner Center de optie **Gebruikersbeheer.**\n2. Filter op Globale **beheerder of** **Accountbeheerder.**\n3. U kunt ook naar Mijn profiel **gaan,** Rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen. \n \nZie Uw rol zoeken [voor meer informatie.](find-your-role.md)  \n"
+    answer: "Een globale beheerder of accountbeheerder zoeken die rolwijzigingen kan aanbrengen of rollen kan toewijzen aan een nieuwe gebruiker:\n\n1. Selecteer in Partner Center dashboard het pictogram Instellingen en vervolgens **Account Instellingen** en selecteer **vervolgens Gebruikersbeheer.**\n2. Filter op Globale **beheerder of** **Accountbeheerder.**\n3. U kunt ook naar Mijn profiel **gaan,** rollen en machtigingen selecteren en een lijst bekijken met de verschillende beheerders die u kunnen helpen uw machtigingen uit te verhogen. \n \nZie Uw rol zoeken [voor meer informatie.](find-your-role.md)  \n"
   - question: >
       Ik heb geen toegang tot incentives met mijn referenties.
     answer: >

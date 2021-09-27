@@ -4,16 +4,16 @@ description: Meer informatie over het maken van aangepaste query's voor het extr
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 636d2eba7d259ae5e4525100b8d26e25ff031f48
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 2bf688e5068c1a88d0c5d1b6e7da7c94f8a4e7e8
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957388"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073411"
 ---
 # <a name="custom-query-specification"></a>Aangepaste queryspecificatie
 
@@ -64,30 +64,30 @@ Dit is een voorbeeld van een gegevensset die wordt weergegeven als een JSON:
 ## <a name="parts-of-a-dataset"></a>Onderdelen van een gegevensset
 
 - De naam van een gegevensset is net als de naam van een databasetabel. Bijvoorbeeld OfficeUsage. Een gegevensset bevat een lijst met kolommen die kunnen worden geselecteerd, zoals CustomerTenantId.
-- Een gegevensset bevat ook metrische gegevens, die net als aggregatiefuncties in een database zijn. Bijvoorbeeld TotalMonthlyActiveUsers.
-- Er zijn vaste tijdsspannes over welke gegevens kunnen worden geëxporteerd.
+- Een gegevensset bevat ook metrische gegevens, zoals aggregatiefuncties in een database. Bijvoorbeeld TotalMonthlyActiveUsers.
+- Er zijn vaste tijdsspannen waarin gegevens kunnen worden geëxporteerd.
 
 ## <a name="formulating-a-query-on-a-dataset"></a>Een query op een gegevensset formuleren
 
 Dit zijn enkele voorbeeldquery's die laten zien hoe u verschillende typen gegevens kunt extraheren.
 
-|Query’s uitvoeren|    Description    |
+|Query’s uitvoeren|    Beschrijving    |
 |----|    ----    |
 |**SELECT** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **TIMESPAN** LAST_MONTH|    Met deze query worden elke CusotmerTenantID en de bijbehorende PaidAvailableUnits in de afgelopen maand opgevraagd.    |
-|**SELECT** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **ORDER** BY PaidAvailableUnits **LIMIT** 10|    Met deze query worden de top 10 tenants van klanten in aflopende volgorde van het aantal betaalde beschikbare eenheden opgevraagd.     |
-|**SELECT** CustomerTenantId, PaidAvailableUnits, MonthlyActiveUsers **FROM** OfficeUsage **WHERE** MonthlyActiveUsers > 100000 **ORDER BY** MonthlyActiveUsers **TIMESPAN** LAST_6_MONTHS |    Met deze query worden de PaidAvailableUnits en MonthlyActiveUsers van alle klanten met MonthlyActiveUsers hoger dan 100.000 klanten opgevraagd.     |
-|**SELECT** CustomerTenantId, Month, MonthlyActiveUsers **FROM** <br>OfficeUsage **WHERE** CustomerTpId IN ('2a31c234-1f4e-4c60-909e-76d234f93161', '80780748-3f9a-11eb-b378-0242ac130002') |    Deze query krijgt de CustomerTenantId en de maandelijks actieve gebruikers voor elke maand op basis van de twee CustomerTpId-waarden: '2a31c234-1f4e-4c60-909e-976d234f93161' en '80780748-3f9a-11eb-b378-0242ac130002'.     |
+|**SELECT** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **ORDER** BY PaidAvailableUnits **LIMIT** 10|    Met deze query worden de top 10 van de tenants van klanten in aflopende volgorde van het aantal betaalde beschikbare eenheden opgevraagd.     |
+|**SELECT** CustomerTenantId, PaidAvailableUnits, MonthlyActiveUsers **FROM** OfficeUsage **WHERE** MonthlyActiveUsers > 100000 **ORDER BY** MonthlyActiveUsers **TIMESPAN** LAST_6_MONTHS |    Deze query krijgt de PaidAvailableUnits en MonthlyActiveUsers van alle klanten met MonthlyActiveUsers die groter zijn dan 100.000.     |
+|**SELECT** CustomerTenantId, Month, MonthlyActiveUsers **FROM** <br>OfficeUsage **WHERE** CustomerTpId IN ('2a31c234-1f4e-4c60-909e-76d234f93161', '80780748-3f9a-11eb-b378-0242ac130002') |    Met deze query worden de CustomerTenantId en de maandelijks actieve gebruikers voor elke maand opgevraagd met de twee waarden voor CustomerTpId: '2a31c234-1f4e-4c60-909e-976d234f93161' en '80780748-3f9a-11eb-b378-0242ac130002'.     |
 |        |        |
 
 ## <a name="query-specification"></a>Queryspecificatie
 
 In deze sectie worden de querydefinitie en -structuur beschreven.
 
-## <a name="grammar-reference"></a>Naslag voor grammatica
+## <a name="grammar-reference"></a>Grammaticaverwijzing
 
 In deze tabel worden de symbolen beschreven die worden gebruikt in query's.
 
-|    Query’s uitvoeren    |    Description    |
+|    Query’s uitvoeren    |    Beschrijving    |
 |    ----    |    ----    |
 |    `?`    |    Optioneel    |
 |    `*`    |    Nul of meer    |
@@ -99,12 +99,12 @@ In deze tabel worden de symbolen beschreven die worden gebruikt in query's.
 
 De query-instructie bevat de volgende componenten: SelectClause, FromClause, WhereClause, OrderClause, LimitClause en TimeSpan.
 
-- **SelectClause**: `SELECT ColumOrMetricName (, ColumOrMetricName)*`
+- **SelectClause:**`SELECT ColumOrMetricName (, ColumOrMetricName)*`
     - **ColumOrMetricName:** kolommen en metrische gegevens die zijn gedefinieerd in de gegevensset
-- **FromKlause:**`FROM DatasetName`
+- **FromClause:**`FROM DatasetName`
     - **DatasetName:** de naam van de gegevensset die is gedefinieerd in de gegevensset
 - **WhereClause:**`WHERE FilterCondition (AND FilterCondition)`
-    - **FilterCondition:** Operatorwaarde ColumOrMetricName
+    - **FilterCondition:** ColumOrMetricName Operator Value
         - **Operator**:  `=` | `>` | `<` | `>=` | `<=` | `!=` | `LIKE` | `NOT LIKE` | `IN` | `NOT IN`
         - **Waarde:**| StringLiteral | MultiNumberList-| MultiStringList
             - **Getal**: `-? [0-9]+ (. [0-9] [0-9]*)?`
@@ -132,7 +132,7 @@ Elk onderdeel wordt hieronder beschreven.
 
 In dit deel van de query worden de kolommen opgegeven die worden geëxporteerd. De kolommen die kunnen worden geselecteerd, zijn de velden die worden vermeld in de secties *selectableColumns* en *availableMetrics* van een gegevensset.
 
-Optioneel kan `DISTINCT` het trefwoord worden opgegeven na `SELECT` . Als `DISTINCT` is opgegeven, bevatten de uiteindelijke geëxporteerde rijen altijd afzonderlijke waarden van de geselecteerde kolommen. Metrische gegevens worden berekend voor elke afzonderlijke combinatie van de geselecteerde kolommen. Het trefwoord is daarom niet vereist wanneer een metrische kolom wordt opgenomen `DISTINCT` in de lijst met geselecteerde kolommen.
+Optioneel kan `DISTINCT` het trefwoord worden opgegeven na `SELECT` . Als `DISTINCT` is opgegeven, bevatten de uiteindelijke geëxporteerde rijen altijd afzonderlijke waarden van de geselecteerde kolommen. Metrische gegevens worden berekend voor elke afzonderlijke combinatie van de geselecteerde kolommen. Het trefwoord is daarom niet vereist wanneer een kolom met metrische gegevens wordt opgenomen `DISTINCT` in de lijst met geselecteerde kolommen.
 
 **Voorbeeld:**
 
@@ -152,7 +152,7 @@ Dit deel van de query geeft de gegevensset aan van waaruit gegevens moeten worde
 
 ### `WHERE`
 
-Dit deel van de query wordt gebruikt om filtervoorwaarden op te geven voor de gegevensset. Alleen rijen die overeenkomen met alle voorwaarden die in deze component worden vermeld, zijn aanwezig in het uiteindelijke geëxporteerde bestand. De filtervoorwaarde kan worden gebruikt voor alle kolommen die worden vermeld in *selectableColumns* en *availableMetrics.* De waarden die zijn opgegeven in de filtervoorwaarde kunnen alleen een lijst met getallen of een lijst met tekenreeksen zijn wanneer de operator of `IN` `NOT IN` is. De waarden kunnen altijd worden opgegeven als een letterlijke tekenreeks en worden geconverteerd naar de native typen kolommen. Meerdere filtervoorwaarden moeten worden gescheiden door een AND-bewerking.
+Dit deel van de query wordt gebruikt om filtervoorwaarden op te geven voor de gegevensset. Alleen rijen die overeenkomen met alle voorwaarden die in deze component worden vermeld, zijn aanwezig in het uiteindelijke geëxporteerde bestand. De filtervoorwaarde kan worden gebruikt voor alle kolommen die worden vermeld in *selectableColumns* en *availableMetrics.* De waarden die zijn opgegeven in de filtervoorwaarde kunnen alleen een lijst met getallen of een lijst met tekenreeksen zijn als de operator `IN` of `NOT IN` is. De waarden kunnen altijd worden opgegeven als een letterlijke tekenreeks en worden geconverteerd naar de native typen kolommen. Meerdere filtervoorwaarden moeten worden gescheiden door een AND-bewerking.
 
 **Voorbeeld:**
 
@@ -164,7 +164,7 @@ Dit deel van de query wordt gebruikt om filtervoorwaarden op te geven voor de ge
 
 ### `ORDER BY`
 
-In dit deel van de query worden de bestelcriteria voor de geëxporteerde rijen opgegeven. De kolommen waarop de volgorde kan worden gedefinieerd, moeten afkomstig zijn uit *de selectableColumns* en *availableMetrics* van de gegevensset. Als er geen volgorde is opgegeven, wordt deze standaard ingesteld op DESC in de kolom. Ordenen kan worden gedefinieerd voor meerdere kolommen door de criteria te scheiden met een komma.
+In dit deel van de query worden de bestelcriteria voor de geëxporteerde rijen opgegeven. De kolommen waarop de volgorde kan worden gedefinieerd, moeten afkomstig zijn uit *de selectableColumns* en *availableMetrics* van de gegevensset. Als er geen volgorde is opgegeven, wordt deze standaard ingesteld op DESC in de kolom. Volgorde kan worden gedefinieerd voor meerdere kolommen door de criteria te scheiden met een komma.
 
 **Voorbeeld:**
 
@@ -173,15 +173,15 @@ In dit deel van de query worden de bestelcriteria voor de geëxporteerde rijen o
 
 ### `LIMIT`
 
-In dit deel van de query geeft u het aantal rijen op dat wordt geëxporteerd. Het getal dat u opgeeft, moet een positief geheel getal zijn dat geenzero is.
+In dit deel van de query wordt het aantal rijen opgegeven dat wordt geëxporteerd. Het getal dat u opgeeft, moet een positief geheel getal zonderzero zijn.
 
 ### `TIMESPAN`
 
-Dit deel van de query geeft de tijdsduur aan waarvoor de gegevens moeten worden geëxporteerd. De mogelijke waarden moeten afkomstig zijn uit het *veld availableDateRanges* in de gegevenssetdefinitie.
+Dit deel van de query geeft de tijdsduur aan waarvoor de gegevens moeten worden geëxporteerd. De mogelijke waarden moeten afkomstig zijn uit het *veld availableDateRanges* in de definitie van de gegevensset.
 
 ### <a name="case-sensitivity-in-query-specification"></a>Gevoeligheid van case in queryspecificatie
 
-De specificatie is volledig niet-casegevoelig. Vooraf gedefinieerde trefwoorden, kolomnamen en waarden kunnen worden opgegeven met hoofdletters of kleine hoofdletters.
+De specificatie is volledig niet-casegevoelig. Vooraf gedefinieerde trefwoorden, kolomnamen en waarden kunnen worden opgegeven met behulp van hoofdletters of kleine waarden.
 
 ## <a name="next-steps"></a>Volgende stappen
 

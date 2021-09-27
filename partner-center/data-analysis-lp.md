@@ -1,20 +1,20 @@
 ---
 title: Analyse gebruiken voor abonnementsinzichten
 ms.topic: article
-ms.date: 11/13/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Meer informatie over het gebruik van analyses in Partner Center om meer inzicht te krijgen in uw bedrijf en hoe uw klanten de licenties gebruiken die u hebt aangeschaft.
-author: shthota77
-ms.author: shthota
+description: Meer informatie over het gebruik van Partner Center om meer inzicht te krijgen in uw bedrijf en hoe uw klanten de licenties gebruiken die u hebt aangeschaft.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e94a57b6e93c86a24458862a3dd4a6ccc0b14885
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: aa7352277e241156884f6fda07f64cab5cb5b21a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957683"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073493"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Analyse gebruiken voor meer informatie over de omzet van abonnementen
 
@@ -24,16 +24,30 @@ Als u manieren wilt plannen om uw CSP-bedrijf te ontwikkelen, moet u weten hoe u
 
 ## <a name="access-to-the-subscription-analytics"></a>Toegang tot de Subscription Analytics
 
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard/home)en selecteer vervolgens **de Insights** tegel.
+
+2. Selecteer **Analyseren** en selecteer vervolgens **Abonnementsanalyse.**
+
+3. De na twaalf maanden volgende CSP-omzet wordt boven aan de pagina weergegeven
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
 1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard/home)
-1. Selecteer in CSP in Partner Center menu analyseren **en** selecteer vervolgens **Abonnementsanalyse.**
 
-1. De na twaalf maanden volgende CSP-omzet wordt boven aan de pagina weergegeven
+2. Selecteer **onder CSP** in Partner Center menu analyseren en selecteer vervolgens **Abonnementsanalyse.**
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Abonnementsscherm.":::
+3. De na twaalf maanden volgende CSP-omzet wordt boven aan de pagina weergegeven
+
+* * *
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>CSP-omzet Twelve-Month (TTM)
 
-Na 12 maanden vertegenwoordigt de CSP-omzet de Cloud Solution Provider programma-omzet in USD op het niveau van een algemeen partneraccount. De gegevens worden elke maand vernieuwd om de twaalfmaandse omzet tot de voorgaande maand weer te geven. Op 9 september 2020 ziet u bijvoorbeeld de TTM voor de vaste periode van september 2019 tot augustus 2020. Softwareabonnementen worden uitgesloten. TTM-omzet weerspiegelt alleen de in aanmerking komende omzet waarvoor de facturen al zijn betaald. 
+Na 12 maanden vertegenwoordigt de CSP-omzet het Cloud Solution Provider programma-omzet in USD op het niveau van een algemeen partneraccount. De gegevens worden elke maand vernieuwd om de twaalfmaandse omzet tot de voorgaande maand weer te geven. Op 9 september 2020 ziet u bijvoorbeeld de TTM voor de vaste periode van september 2019 tot augustus 2020. Softwareabonnementen worden uitgesloten. TTM-omzet weerspiegelt alleen de in aanmerking komende omzet waarvoor de facturen al zijn betaald. 
 
 De omzet die wordt weergegeven Partner Center wordt berekend voor een vast tijdsinterval van 12 maanden en kan niet worden gewijzigd in een kortere periode.
 
@@ -41,14 +55,14 @@ Een uitsplitsing van de omzet op het niveau van uw partnerlocatieaccount bekijke
 
 - Selecteer de koppeling Details downloaden en download een TSV-bestand met de TTM-omzet voor al uw locaties.
 
->[!NOTE] 
->Het opsommen van de afzonderlijke TTM-omzetnummers over MPN-ID's in het TSV-bestand lijkt mogelijk groter te zijn dan de totale TTM-omzet die wordt weergegeven op Partner Center. Dit komt doordat de omzet dubbel kan worden geteld voor abonnementen met meerdere partnervermeldingen in het gedownloade bestand.
+> [!NOTE]
+> Het opsommen van de afzonderlijke TTM-omzetnummers over MPN-ID's in het TSV-bestand lijkt mogelijk groter te zijn dan de totale TTM-omzet die wordt weergegeven op Partner Center. Dit komt doordat de omzet dubbel kan worden geteld voor abonnementen met meerdere partnervermeldingen in het gedownloade bestand.
 
 ## <a name="subscription-summary"></a>Abonnementsoverzicht
 
 In de onderste helft van het scherm wordt een samenvatting van de abonnementen weergegeven. Gebruik de volgende filters om de benodigde abonnementsgegevens te bekijken:  
 
-1. **Duur:** u kunt ervoor kiezen om het abonnementsoverzicht voor weer te geven 
+1. **Duur:** u kunt ervoor kiezen om het abonnementsoverzicht te bekijken voor:
 
 - 30D : afgelopen 30 dagen
 - 3M : afgelopen 3 maanden
@@ -56,7 +70,7 @@ In de onderste helft van het scherm wordt een samenvatting van de abonnementen w
 - 12 miljoen – afgelopen 12 maanden
 
 2. **Producttype:**
- 
+
 - Office 365
 - Microsoft 365
 - Dynamics 365
@@ -64,16 +78,8 @@ In de onderste helft van het scherm wordt een samenvatting van de abonnementen w
 
 Het toepassen van deze filters heeft geen invloed op de metrische TTM-omzet boven aan dit rapport.
 
-
- 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Analyseren hoe uw klanten de licenties gebruiken die ze hebben aangeschaft](increasing-adoption-and-satisfaction.md)  
 - [Activiteitenlogboeken voor klanten weergeven](activity-logs.md)
 - [Analyse-app van het Partnercentrum voor Power BI](power-bi-app-for-direct-partners.md)
-
-
-
-
-
-

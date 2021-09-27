@@ -4,16 +4,16 @@ description: Voorbeelden om te leren hoe u de API gebruikt voor toegang tot anal
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 622cb3eb44b5d89b8721c223aac44635a1782ac7
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244890"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071860"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Uw eerste API-aanroep maken om toegang te krijgen tot analysegegevens van partnerinzichten
 
@@ -330,7 +330,7 @@ curl
 
 Bij een geslaagde uitvoering wordt `reportId` een gegenereerd die moet worden gebruikt om een download van het rapport te plannen.
 
-### <a name="step-5-execute-report-executions-api"></a>Stap 5: API voor het uitvoeren van rapportuitvoeringen
+### <a name="step-5-execute-report-executions-api"></a>Stap 5: API voor rapportuitvoeringen uitvoeren
 
 In deze stap gebruiken we de API voor rapportuitvoeringen om de beveiligde locatie (URL) van het rapport op te halen.
 

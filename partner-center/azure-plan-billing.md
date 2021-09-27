@@ -1,7 +1,7 @@
 ---
 title: Facturering van Azure-plan - &-bestanden
 ms.topic: article
-ms.date: 05/19/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 description: Meer informatie over het openen en begrijpen van de factuur- en afstemmingsbestandsstructuur met betrekking tot facturering voor het Azure-plan.
@@ -9,14 +9,14 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5300f32dc7784a4a4c521db70513ba4b9f21a854
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: a5942cf0fb69dc94cb45184a2abb9e8f6068073b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244756"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074241"
 ---
-# <a name="new-commerce-experience-in-csp---azure-billing"></a>Nieuwe Commerce-ervaring in CSP - Azure-facturering 
+# <a name="new-commerce-experience-in-csp---azure-billing"></a>Nieuwe Commerce-ervaring in CSP - Azure-facturering
 
 **Juiste rollen:** beheeragent | Factureringsbeheerders | Globale beheerder
 
@@ -42,29 +42,46 @@ De globale beheerder of factureringsbeheerder voor uw bedrijf ontvangt een e-mai
 
 Voor toegang tot het factuur- en afstemmingsbestand:
 
-1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard/) van het Partnercentrum.
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2. Selecteer in Partner Center menu **Facturering.**
+#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 
-3. Selecteer het tabblad **Terugkerend en** **Eenmalige** en de valuta waarin u geïnteresseerd bent.
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard/)de **tegel** Facturering.
+
+2. Selecteer het tabblad **Terugkerend en** **Eenmalige** en de valuta waarin u geïnteresseerd bent.
+
+   :::image type="content" source="images/azure/billing-workspace-1.png" alt-text="Schermopname van de factureringsgeschiedenis.":::
+
+3. Selecteer **Factuur-** **of afstemmingsbestand.**
+
+   Als u historische facturen en afstemmingsbestanden wilt weergeven, vouwt u de onderstaande rij Factureringsgeschiedenis uit.
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard/) **facturering.**
+
+2. Selecteer het tabblad **Terugkerend en** **Eenmalige** en de valuta waarin u geïnteresseerd bent.
 
    :::image type="content" source="images/azure/billing3.png" alt-text="Facturering.":::
 
-4. Selecteer **Factuur-** **of afstemmingsbestand.**  
+3. Selecteer **Factuur-** **of afstemmingsbestand.**
 
-   Als u historische facturen en recon-bestanden wilt weergeven, vouwt u de onderstaande rij Factureringsgeschiedenis uit.
+   Als u historische facturen en afstemmingsbestanden wilt weergeven, vouwt u de onderstaande rij Factureringsgeschiedenis uit.
 
-## <a name="understanding-usage-data"></a>Inzicht in gebruiksgegevens 
+* * *
 
-1. Azure-plan is de hoofdcontainer of container op het hoogste niveau voor gebruik. Al het gebruik is gekoppeld aan één Azure-plan.
+## <a name="about-usage-data"></a>Over gebruiksgegevens
 
-2. Binnen een abonnement zijn er een of meer Azure-abonnementen. Dit zijn containers die worden gebruikt voor resourcebeheer en implementatie. 
+- Azure-plan is de hoofdcontainer of container op het hoogste niveau voor gebruik. Al het gebruik is gekoppeld aan één Azure-plan.
 
-3. Binnen een abonnement voegen resourcegroepen toe aan groepsresources. Elke resource wordt geïmplementeerd in één resourcegroep. 
+- Binnen een abonnement zijn er een of meer Azure-abonnementen. Dit zijn containers die worden gebruikt voor resourcebeheer en implementatie.
 
-4. Voorbeelden van resources zijn virtuele machines en opslagaccounts. 
+- Binnen een abonnement voegen resourcegroepen toe aan groepsresources. Elke resource wordt geïmplementeerd in één resourcegroep.
 
-5. Bronmeters: Meters zijn metingen van het verbruik van een resource en één resource kan het gebruik voor meerdere meters gebruiken. Meters worden geïdentificeerd door een ProductId, SKUId en AvailabilityId. 
+- Voorbeelden van resources zijn virtuele machines en opslagaccounts.
+
+- Bronmeters: Meters zijn metingen van het verbruik van een resource en één resource kan het gebruik voor meerdere meters gebruiken. Meters worden geïdentificeerd door een ProductId, SKUId en AvailabilityId.
 
 ### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hiërarchie van abonnementsresourcegroepen en meting
 
@@ -90,32 +107,32 @@ Voor toegang tot het factuur- en afstemmingsbestand:
         - Virtual Network Interface (resource)
             - Geen factureringsmeter
 
-## <a name="read-the-invoice"></a>De factuur lezen
+## <a name="about-your-invoice"></a>Over uw factuur
 
-1. Factuur is niet later dan de acht dagen van elke maand beschikbaar.
+- Factuur is niet later dan de acht dagen van elke maand beschikbaar.
 
-2. Partners hebben 60 dagen de tijd om de betaling te betalen.
+- Partners hebben 60 dagen de tijd om de betaling opnieuw in te betalen.
 
-3. De factureringsperiode heeft betrekking op een bepaalde kalendermaand, bijvoorbeeld 10/1-10/31.
+- De factureringsperiode heeft betrekking op een bepaalde kalendermaand, bijvoorbeeld 10/1-10/31.
 
-4. Kosten zijn netto correcties (bedrag is netto van 'Partnertegoed voor beheerde services').
+- Kosten zijn netto correcties (bedrag is netto van 'Partnertegoed voor beheerde services').
 
-5. Controleer het factuur recon-bestand en het bestand met dagelijks beoordeeld gebruik voor aanvullende factureringsgegevens.
+- Controleer het factuur recon-bestand en het bestand met dagelijks beoordeeld gebruik voor aanvullende factureringsgegevens.
 
    :::image type="content" source="images/azure/invoice1.png" alt-text="Factuur.":::
 
-## <a name="read-the-invoice-reconciliation-file"></a>Het factuurafstemmingsbestand lezen
+## <a name="about-your-invoice-reconciliation-file"></a>Over uw factuurafstemmingsbestand
 
-1. Elke combinatie van Azure-plan en -meter kan maximaal twee factureringslijnen in het reconbestand hebben.
+- Elke combinatie van Azure-plan en -meter kan maximaal twee factureringslijnen in het afstemmingsbestand (recon) hebben.
 
-2. Als de meter is gekwalificeerd voor elk type korting of tegoed (zoals gelaagde kortingen of het partnertegoed voor beheerde services) gedurende de hele kalendermaand, bevat het recon-bestand slechts één factureringsregel. De kolom **PriceAdjusmentDescription verwijst** naar de korting of het verdiend tegoed.
+- Als de meter is gekwalificeerd voor elk type korting of tegoed (zoals gelaagde kortingen of het partnertegoed voor beheerde services) gedurende de hele kalendermaand, bevat het reconbestand slechts één factureringsregel. De kolom **PriceAdjusmentDescription verwijst** naar de korting of het verdiend tegoed.
 
-3. Als er geen resources zijn voor een bepaalde meter die in aanmerking komen voor korting of partnertegoed, bevat het reconbestand slechts één factureringsregel en is de effectieve eenheidsprijs de detailhandelprijs (de eenheidsprijs).
+- Als er geen resources zijn voor een bepaalde meter die in aanmerking komen voor korting of partnertegoed, bevat het reconbestand slechts één factureringsregel en is de effectieve eenheidsprijs de detailhandelprijs (de eenheidsprijs).
 
-4. Als de meter of resources die die meter uitzenden, gekwalificeerd zijn voor partnertegoed voor **services** die een deel van de maand worden beheerd, bevat het reconbestand twee factureringslijnen. Eén regel vertegenwoordigt de dagen dat de meter is gekwalificeerd en de tweede regel de dagen dat de meter niet in aanmerking komt.
+- Als de meter of resources die die meter uitzenden, gekwalificeerd zijn voor partnertegoed voor **services** die een deel van de maand worden beheerd, bevat het reconbestand twee factureringslijnen. Eén regel vertegenwoordigt de dagen dat de meter is gekwalificeerd en de tweede regel de dagen dat de meter niet in aanmerking komt.
 
->[!NOTE]
->U kunt uw Azure-verbruik afstemmen in uw een-keer-aankoop recon-bestand. Om dit te doen, gaat u naar uw dagelijks beoordeelde gebruiks reconbestand en zoekt u naar uw SubscriptionID. Hiermee worden alle kosten weergegeven die zijn gekoppeld aan uw Azure-plan-id. Uw Azure SubscriptionID wordt weergegeven als de EntitlementID.
+> [!NOTE]
+> U kunt uw Azure-verbruik afstemmen in uw een-keer-aankoop recon-bestand. Om dit te doen, gaat u naar uw dagelijks beoordeelde gebruiks reconbestand en zoekt u naar uw SubscriptionID. Hiermee worden alle kosten weergegeven die zijn gekoppeld aan uw Azure-plan-id. Uw Azure SubscriptionID wordt weergegeven als de EntitlementID.
 
 ## <a name="read-the-daily-usage-file"></a>Het dagelijkse gebruiksbestand lezen
 
@@ -139,32 +156,30 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 Azure-services via een Azure-plan worden in USD gefactureerd en gefactureerd in de toegewezen valuta van het partnerland. Als de factureringsvaluta niet usd is, wordt het gebruikte valutatarief (Foreign Exchange) weergegeven op de laatste pagina van de factuur. FX-tarieven worden maandelijks bepaald en toegepast op de volgende factuur. Bekijk voor een volledige lijst met landvaluta de nieuwe commerceaanbiedingen voor de beschikbaarheid van landen en [partnervalutamatrix.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
-Microsoft past een vooraf bepaalde wisselkoers toe op basisprijzen van USD om te komen tot de totale kosten voor Azure-services die elke kalendermaand zijn gekocht of verbruikt. De maandelijkse wisselkoers is het tussentijdse tarief dat is gepubliceerd door Den Haags (meestal) twee werkdagen vóór de voorgaande maand om 16:00 GMT. 
+Microsoft past een vooraf bepaalde wisselkoers toe op basisprijzen van USD om te komen tot de totale kosten voor Azure-services die elke kalendermaand zijn gekocht of verbruikt. De maandelijkse wisselkoers is het tussentijdse tarief dat is gepubliceerd door Den Haags (meestal) twee werkdagen vóór de voorgaande maand om 16:00 GMT.
 
-**Bijvoorbeeld:** De wisselkoers van Microsoft in december zou voor een bepaalde valuta het middentarief van Den Haags zijn op of rond 29 november. Dit tarief wordt toegepast op alle aankopen in die valuta van 1 december tot en met 31 december. 
+**Bijvoorbeeld:** De wisselkoers van Microsoft in december zou voor een bepaalde valuta het middentarief van Den Haags zijn op of rond 29 november. Dit tarief wordt toegepast op alle aankopen in die valuta van 1 december tot en met 31 december.
 
 ## <a name="azure-reservations"></a>Azure-reserveringen
 
-
 Als u [Azure-reserveringen aanschaft](azure-reservations.md) via een Azure-abonnement, kunt u kiezen voor een een-keer- of maandelijkse facturering.
-
 
 ## <a name="azure-spending"></a>Uitgaven voor Azure
 
 De bestaande Azure-bestedingservaring wordt bijgewerkt ter ondersteuning van de nieuwe facturering van Azure-plannen in Partner Center. Hierdoor kunnen partners:
 
-- Waarschuwingen weergeven, beheren en ontvangen voor budgetten die zijn ingesteld op klantniveau 
+- Waarschuwingen weergeven, beheren en ontvangen voor budgetten die zijn ingesteld op klantniveau
 
 - Totale geschatte uitgaven voor een Azure-plan weergeven (onderverdeeld op resource- en meterniveau)
 
-Omdat het factureringsmodel voor Azure-services via een Azure-plan gebruik na betaling is, kunnen partners een maandelijks budget toepassen en het gebruikspercentage bijhouden om een hogere factuur te voorkomen dan verwacht. Een budget kan worden toegepast op één klant of meerdere klanten tegelijk. 
+Omdat het factureringsmodel voor Azure-services via een Azure-abonnement gebruik na betaling is, kunnen partners een maandelijks budget toepassen en het gebruikspercentage bijhouden om een hogere factuur te voorkomen dan verwacht. Een budget kan worden toegepast op één klant of meerdere klanten tegelijk.
 
 :::image type="content" source="images/azure/azurespend.png" alt-text="Azure-uitgaven.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie hoe het partnertegoed (PEC) wordt berekend. Meld u aan Partner Center [dashboard en](https://partner.microsoft.com/dashboard/) zoek de prijslijst die beschikbaar is.
+- Zie hoe het partnertegoed (PEC) wordt berekend. Meld u aan bij [Partner Center dashboard en](https://partner.microsoft.com/dashboard/) selecteer de tegel **Prijzen** om de beschikbare prijslijsten te vinden.
 
 - Meer informatie over [het kopen van het Azure-abonnement](purchase-azure-plan.md)
 
-- Bekijk de [prijslijst voor de nieuwe commerce-ervaring in CSP](azure-plan-price-list.md)
+- Zie de [prijslijst voor de nieuwe commerce-ervaring in CSP](azure-plan-price-list.md)

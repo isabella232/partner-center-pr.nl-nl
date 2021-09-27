@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8abd34ff7cc47edf59be6532dcc7e9c7e0dd1533
-ms.sourcegitcommit: dd900161830c59bcf3c5d700d524436ee05cd987
+ms.openlocfilehash: b5b4e3ec2ef4c37b742102d287e5eddd93690fdb
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128714144"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075180"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Inleiding: Nieuwe commerciële promoties
 
@@ -54,7 +54,7 @@ Partners kunnen bekijken of een klantaankoop in aanmerking komt voor een promoti
 Partners kunnen geschiktheid voor validatie aanroepen en resultaten terug krijgen. Geschiktheidsfouten kunnen worden gebaseerd op het aantal incompatibele voorwaarden of limieten voor het aantal keren dat een promotie kan worden toegepast op de product-SKU van een klant.
 
 >[!IMPORTANT]
-> Partners moeten promoties controleren voordat ze een transactie indienen. Op de Partner Center  controlepagina als partners geen promotie zien, wordt deze niet toegepast op de transactie. De partner krijgt de prijs voor niet-promotie. Partners kunnen ook de API van het winkelwagenregelitem bekijken om te zien of de promotie aanwezig is voordat ze een transactie indienen. Partners kunnen de API voor verificatiepromoties aanroepen voordat ze transacties verzenden om te controleren of de SKU-combinatie van hun klantproduct in aanmerking komt voor de promotie, en zo niet, de redenen voor ineligibility.
+> Partners moeten promoties controleren voordat ze een transactie indienen. Als partners *Partner Center* een promotie niet zien, wordt deze niet toegepast op de transactie, maar krijgt de partner de prijs voor niet-promotie. Partners kunnen ook de API van het winkelwagenregelitem bekijken om te zien of de promotie aanwezig is voordat ze een transactie indienen. Partners kunnen de API voor verificatiepromoties aanroepen voordat ze transacties verzenden om te controleren of de SKU-combinatie van hun klantproduct in aanmerking komt voor de promotie, en zo niet, de redenen voor ineligibility.
 
 Er zijn drie redenen waarom een klant mogelijk niet in aanmerking komt voor een promotie. Deze niet-in aanmerking komende typen worden geretourneerd in de api voor validatiepromotie in gevallen waarin de klant niet in aanmerking komt.
 
@@ -79,7 +79,3 @@ Partners die upgraden van een abonnement naar een andere SKU, laten de promotiep
 
 ## <a name="promotions-and-migrations"></a>Promoties en migraties ##
 Partners kunnen de abonnementen van hun klanten migreren van traditionele Microsoft 365/Dynamics 365 naar nieuwe commerceversies van hun abonnementen. De migraties zijn beschikbaar via de gebruikersinterface Partner Center of via het aanroepen van de migratie-API's. Partners die migreren van een traditioneel abonnement naar nieuwe commerce krijgen de promotie wanneer ze migreren, zolang de product-SKU die ze verplaatsen, in overeenstemming is met de promotiedefinitie. Partners moeten de API voor geschiktheid controleren aanroepen om ervoor te zorgen dat de doelproduct-SKU vóór de migratie de promotieprijs zal toepassen.
-
-
-
-

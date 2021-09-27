@@ -9,25 +9,24 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceb54243f3032de0667b67fc2e84c1ba6d05cd5b
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 101fed7eebf2e96b50e2bbbe091403769844bc1e
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246201"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071541"
 ---
 # <a name="reset-my-password"></a>Mijn wachtwoord opnieuw instellen
  
-**Juiste rollen:** globale | Alle partners die geïnteresseerd zijn in Partner Center
-
+**Juiste rollen:** Globale | Alle partners die geïnteresseerd zijn in Partner Center
 
 Als u uw wachtwoord niet meer Partner Center, kunt u het opnieuw instellen.
 
 ## <a name="to-reset-your-partner-center-password"></a>Uw wachtwoord voor Partner Center opnieuw instellen
 
-Als u deze methode wilt gebruiken, moet uw globale beheerder al de mogelijkheid hebben ingesteld om uw wachtwoord zelf opnieuw in te stellen. (Als uw globale beheerder deze functie niet heeft uitgevoerd, vraagt u deze om uw wachtwoord voor u [opnieuw in te stellen.)](reset-a-user-password.md)
+Als u deze methode wilt gebruiken, moet uw globale beheerder al de mogelijkheid hebben ingesteld om uw wachtwoord zelf opnieuw in te stellen. (Als uw globale beheerder deze functie niet heeft uitgevoerd, vraagt u deze om uw [wachtwoord voor u opnieuw in te stellen.)](reset-a-user-password.md)
 
-1. Selecteer op **het scherm** Aanmelden de optie Geen toegang tot **uw account?** en selecteer vervolgens **Volgende.**
+1. Selecteer in **het scherm** Aanmelden de optie Hebt u geen toegang tot **uw account?** en selecteer vervolgens **Volgende.**
 
 2. Selecteer **Werk- of schoolaccount.**
 
@@ -37,7 +36,7 @@ Als u deze methode wilt gebruiken, moet uw globale beheerder al de mogelijkheid 
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Als uw globale beheerder het bedrijf heeft verlaten
 
-Als uw globale beheerder uw bedrijf heeft verlaten of is overgegaan op een andere rol en u een nieuwe globale beheerder moet toevoegen, moet u een serviceaanvraag in de [Microsoft Partner Network portal.](https://partner.microsoft.com/commercial#/) De ondersteuningsagent kan vragen om verhoging van de bevoegdheden van een gebruiker aan de globale beheerder als uw requestor de vereiste persoonlijke identiteitsgegevens kan verstrekken en aanvullende informatie over uw bedrijf kan verstrekken. 
+Als uw globale beheerder uw bedrijf heeft verlaten of is overgegaan naar een andere rol en u een nieuwe globale beheerder moet toevoegen, moet u een serviceaanvraag op de [Microsoft Partner Network-portal.](https://partner.microsoft.com/commercial#/) De ondersteuningsagent kan vragen om benodigde bevoegdheden van een gebruiker aan de globale beheerder als uw requestor de vereiste persoonlijke identiteitsgegevens kan verstrekken en aanvullende informatie over uw bedrijf kan verstrekken. 
 
 ## <a name="next-steps"></a>Volgende stappen
 

@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Meer informatie over hoe een CSP-partner (Cloud Solution Provider)-programma kan Partner Center om over te gaan van directe factuurpartner naar indirecte reseller.
+description: Ontdek hoe een Cloud Solution Provider (CSP)-programmapartner de Partner Center om over te gaan van directe-factuurpartner naar indirecte reseller.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17f0a23814213805d239d887719c5c3885234390
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 7de99f6471e6d7d96df311584592ed5b12223a8c
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126245600"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073727"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller (Overstappen van partner voor directe facturering van Cloud Solution Provider naar indirecte CSP-reseller)
 
@@ -22,23 +22,23 @@ ms.locfileid: "126245600"
 
 > [!NOTE]
 > Dit artikel is bedoeld voor directe factuurpartners die hebben besloten over testappen naar indirecte resellers. Zelfs als u nog geen expliciete beslissing hebt genomen om u in te schrijven [](direct-partner-new-requirements.md) als een indirecte reseller, worden directe factuurpartners die niet voldoen aan de nieuwe vereisten voor het CSP Direct Bill Partner-programma, door Microsoft geïnformeerd wanneer de mogelijkheden voor directe factuur worden [beperkt.](restricted-direct-bill-capabilities.md)
-<br>Vanaf januari 2021 wordt een nieuwe omzetvereiste toegevoegd. Partners die zijn geregistreerd als partner voor directe factuur moeten in de afgelopen 12 maanden ten minste USD 300.000 hebben betaald in de omzet van het CSP-programma op het niveau van een algemeen partneraccount.
+<br>Vanaf januari 2021 wordt een nieuwe omzetvereiste toegevoegd. Partners die zijn ingeschreven als partner voor directe factuur moeten in de afgelopen 12 maanden ten minste USD 300.000 aan omzet van het CSP-programma hebben afgeschreven op het niveau van een algemeen partneraccount.
 
 U kunt zich inschrijven voor het indirecte resellerprogramma met behulp van uw bestaande tenant voor directe factuur.
 
 ## <a name="get-started"></a>Aan de slag
 
-1. Zorg ervoor dat uw partnerprofiel in Partner Center en Microsoft Partner Network MPN-id actueel is.
+1. Zorg ervoor dat uw partnerprofiel in Partner Center en Microsoft Partner Network ID (MPN) actueel is.
 
-2. Meld u aan Partner Center globale beheerder voor de tenant voor directe factuur die u over wilt zetten naar indirecte reseller.
+2. Meld u aan Partner Center globale beheerder voor de tenant voor directe factuur die u over wilt zetten naar een indirecte reseller.
 
    :::image type="content" source="images/direct/direct1.png" alt-text="Overzicht.":::
 
-3. Controleer de details van uw partner op het inschrijvingsformulier.
+3. Controleer de gegevens van uw partner op het inschrijvingsformulier.
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Schrijf u nu in.":::
 
-4. Selecteer Nu inschrijven. Uw indirecte resellerbedrijf gebruikt dezelfde azure Microsoft Azure Active Directory (Azure AD) die u voor uw directe bedrijf gebruikt.
+4. Selecteer **Nu inschrijven.** Uw indirecte resellerbedrijf maakt gebruik van dezelfde azure Microsoft Azure Active Directory-tenant (Azure AD) die u voor uw directe bedrijf gebruikt.
 
     > [!NOTE]
     > In eerste instantie is deze nieuwe overgangsmogelijkheid beschikbaar voor partners met de jubileumdatums van september tot en met december. Als u geen jubileumdatum tussen september en december hebt, ziet u de mogelijkheid op dit moment niet. Partners met een jubileumdatum na december 2018 worden later op de hoogte gesteld zodra de functie is ingeschakeld voor de partners.
@@ -46,7 +46,7 @@ U kunt zich inschrijven voor het indirecte resellerprogramma met behulp van uw b
 5. Wanneer uw inschrijving is goedgekeurd, moet u zich opnieuw aanmelden Partner Center registreren.
 
     > [!NOTE]
-    > Hoewel goedkeuring meestal onmiddellijk is, kan dit maximaal vijf werkdagen duren. Na goedkeuring ontvangt u een melding naar het e-mailadres dat u hebt opgegeven onder primaire contactpersoon in het inschrijvingsformulier. U kunt ook uw inschrijvingsstatus controleren onder **Instellingen**  >  **Account Instellingen** Partner  >  **profile** > Program info.
+    > Hoewel goedkeuring meestal onmiddellijk is, kan dit maximaal vijf werkdagen duren. Na goedkeuring ontvangt u een melding naar het e-mailadres dat u hebt opgegeven onder primaire contactpersoon in het inschrijvingsformulier. U kunt ook uw inschrijvingsstatus controleren **onder Instellingen**  >  **Account Instellingen** Partner  >  **profile** > Program info.
 
 6. Op de **pagina** Overzicht ziet u de overeenkomst voor indirecte resellers. Selecteer **Accepteren en doorgaan.** Met deze actie worden de mogelijkheden van indirecte resellers mogelijk.
 
@@ -65,7 +65,7 @@ Tijdens deze fase blijft u de abonnementsbehoeften van uw directe klanten behere
 
 ## <a name="find-an-indirect-provider"></a>Een indirecte provider zoeken
 
-Na het inschrijven wordt een koppeling naar indirecte providers weergegeven in het linkernavigatiebalk. Als indirecte reseller gaat u een relatie tot stand brengen met een indirecte provider die vervolgens uw facturering kan afhandelen, producten voor uw klanten kan kopen en infrastructuur kan ondersteunen.
+Na het inschrijven wordt er een koppeling naar indirecte providers weergegeven in het linkernavigatiebalkje. Als indirecte reseller gaat u een relatie tot stand brengen met een indirecte provider die vervolgens uw facturering kan afhandelen, producten voor uw klanten kan kopen en infrastructuur kan ondersteunen.
 
 Verschillende indirecte providers bieden verschillende ondersteuning en services, dus u moet de providers in uw regio evalueren om te bepalen welke het beste voldoen aan uw behoeften. Over het algemeen doen de meeste providers het volgende:
 
@@ -79,7 +79,7 @@ Lees Partner  [with indirect providers (Partner met indirecte providers) voor me
 
 ## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Een uitnodiging voor samenwerking accepteren van uw indirecte provider
 
-Wanneer u een indirecte provider vindt om mee samen te werken, kunt u een partnerschap tot stand met de indirecte provider in Partner Center.
+Wanneer u een indirecte provider vindt om mee samen te werken, kunt u een partnerschap met de indirecte provider tot stand Partner Center.
 
 De indirecte provider die u selecteert, stuurt u via e-mail een uitnodigingskoppeling naar uw samenwerkingsmail die u naar de uitnodiging in de Partner Center. Zorg ervoor dat uw globale beheerder zich bij Partner Center en de uitnodigingskoppeling volgt. Wanneer u de uitnodiging accepteert, wordt de naam van de provider weergegeven in de lijst met indirecte provider.
 
@@ -147,7 +147,7 @@ U vindt een gedetailleerd overzicht van het stapsgewijs proces in het [document 
 
 U kunt de functie voor de uitbreiding van reseller-relaties gebruiken om een resellerrelatie tot stand te brengen tussen uw bestaande klanten met directe factuur en uw indirecte provider met behulp Partner Center Dashboard. Let op het volgende voordat u de functie gebruikt:
 
-- Deze functie is alleen beschikbaar voor directe factuurpartners die overstappen naar een indirecte reseller, hebben de inschrijving van de [indirecte reseller voltooid.](#get-started)
+- Deze functie is alleen beschikbaar voor directe factuurpartners die overstappen naar een indirecte reseller, hebben de inschrijving voor indirecte [resellers voltooid.](#get-started)
 
 - U kunt deze functie alleen toepassen op bestaande klanten met een directe factuur. Dit is niet van toepassing op [indirecte resellerklanten.](#acquire-new-customers-as-indirect-reseller)
 
@@ -160,7 +160,7 @@ U kunt de functie voor de uitbreiding van reseller-relaties gebruiken om een res
 
 - Uw indirecte provider krijgt geen gedelegeerde beheerdersbevoegdheden [voor de](customers-revoke-admin-privileges.md) tenant van de klant. Als uw indirecte provider gedelegeerde beheerdersbevoegdheden vereist, moet u in plaats daarvan een indirecte reselleruitnodiging naar de klant verzenden.
 
-- Zodra de resellerrelatie tot stand is gebracht, wordt de indirecte provider weergegeven als een CSP-partner voor de klant op de pagina [Partnerrelaties](https://admin.microsoft.com/AdminPortal/Home#/partners) in Microsoft 365-beheer Center en [Microsoft Store voor Bedrijven](/microsoft-store/work-with-partner-microsoft-store-business).
+- Zodra de resellerrelatie tot stand is gebracht, wordt de indirecte provider weergegeven als een CSP-partner voor de klant op de pagina Partnerrelaties in [Microsoft 365-beheer Center](https://admin.microsoft.com/AdminPortal/Home#/partners) en [Microsoft Store voor Bedrijven](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Om verwarring en verwarring te voorkomen, bent u contractueel verplicht door uw partnerovereenkomst om de klant van de directe factuur op de hoogte te stellen en toestemming te krijgen voordat u de functie relatie-extensie gebruikt om een resellerrelatie tot stand te krijgen tussen een bestaande klant met een directe factuur en een indirecte provider.
@@ -187,7 +187,7 @@ U kunt deze functie als volgende gebruiken op een bestaande klant-tenant:
 
 Uw indirecte provider kan geen orders indienen voor uw bestaande klanten met directe factuur totdat ze een resellerrelatie met hen hebben. Als u de resellerrelatie tussen uw bestaande klanten en uw indirecte provider tot stand wilt brengen, nodigt u de klant uit met behulp van een indirecte reselleruitnodiging.
 
-1. Selecteer **Indirecte providers in** Partner Center linkernavigatiebalk.
+1. Selecteer **Indirecte providers** in Partner Center linkernavigatiebalk.
 
 2. Selecteer **Nieuwe klanten uitnodigen** om een klant uit te nodigen om tegelijkertijd een resellerrelatie met u en de indirecte provider tot stand te brengen. De provider moet een resellerrelatie hebben met uw klant, zodat ze namens uw klant orders kunnen indienen wanneer de klant nieuwe abonnementen wil kopen of nieuwe licenties wil toevoegen aan bestaande abonnementen.
 
@@ -197,7 +197,7 @@ Uw indirecte provider kan geen orders indienen voor uw bestaande klanten met dir
 
 4. Bewerk de tekst in het e-mailbericht om te zeggen wat u nodig hebt, maar zorg ervoor dat u de koppeling op social media gebruikt om de klant rechtstreeks te verbinden met zowel uw account als het account van uw provider. Selecteer vervolgens **Done**.
 
-5. Nadat de klant u en uw provider heeft gemachtigd om hun wederverkopers van records te zijn, hebt u beheerdersmachtigingen voor het beheren van hun abonnementen, licenties en gebruikers namens hen, en kan uw indirecte provider namens hen orders indienen.
+5. Nadat de klant u en uw provider heeft gemachtigd om hun wederverkopers van records te zijn, hebt u beheerdersmachtigingen voor het beheren van hun abonnementen, licenties en gebruikers namens hen, en kan uw indirecte provider namens hen orders verzenden.
 
 6. Als u het account, de services, gebruikers en licenties van de klant wilt beheren, vouwt u de record van de klant uit door de pijl-omlaag bij hun naam te selecteren.
 
@@ -215,7 +215,7 @@ Microsoft Cloud-overeenkomst is geldig tot en met 31 januari 2020. Na die datum 
 
 - **De klant heeft Microsoft-klantovereenkomst u geaccepteerd via partnerverklaring**
 
-   De acceptatie wordt niet bewaard. Werk samen met de indirecte provider om de acceptatie van de [klant in Partner Center](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers).
+   De acceptatie wordt niet bewaard. Werk samen met de indirecte provider om [de acceptatie van](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers)de klant in Partner Center .
 
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Bestaande abonnementen voor directe factuur overdragen naar indirecte provider
 
@@ -318,9 +318,9 @@ Een overdrachtsaanvraag controleren en accepteren als de indirecte provider:
 
 De overgangspartner moet het volgende doen:
 
-1. Meld u aan Partner Center als een **beheerderagent** **of verkoopagent.**
+1. Meld u aan bij Partner Center **beheerderagent** of **verkoopagent.**
 
-2. Selecteer op **de** pagina Klanten de beoogde klant en selecteer het pictogram **Snelle koppelingen** om de overzichtsweergave van de klant uit te vouwen.
+2. Selecteer op **de pagina** Klanten de beoogde klant en selecteer het pictogram **Snelle koppelingen** om de overzichtsweergave van de klant uit te vouwen.
 
 3. Selecteer **Abonnementen weergeven.**
 
@@ -332,7 +332,7 @@ De overgangspartner moet het volgende doen:
 
    1. Als dit een Azure-abonnement (MS-AZR-0145P) is, wordt het niet meer weergegeven.
 
-   2. Als dit een op licenties gebaseerd abonnement (Office 365, Dynamics, Intune) is, wordt dit weergegeven met de status **Tijdelijk.**
+   2. Als dit een op licenties gebaseerd abonnement (Office 365, Dynamics, Intune), wordt dit weergegeven met de status **Tijdelijk.**
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Abonnement is opgeschort.":::
 
@@ -355,7 +355,7 @@ De overgangspartner moet het volgende doen:
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Inschrijven voor incentives voor indirecte resellers
 
-Nadat u zich hebt geregistreerd als een indirecte reseller op uw bestaande tenant van uw partner voor directe factuur, ontvangt u binnen 30 dagen een uitnodiging om u in te schrijven voor indirecte resellers. De uitnodiging is gebaseerd op het MPN-partneraccount dat momenteel is gekoppeld aan de tenant van uw CSP-partner. De uitnodiging wordt verzonden naar het e-mailadres dat is gekoppeld aan het MPN-account van de partner.
+Nadat u zich hebt geregistreerd als een indirecte reseller op uw bestaande tenant van de partner voor directe factuur, ontvangt u binnen 30 dagen een uitnodiging om u in te schrijven voor een indirecte reseller. De uitnodiging is gebaseerd op het MPN-partneraccount dat momenteel is gekoppeld aan de tenant van uw CSP-partner. De uitnodiging wordt verzonden naar het e-mailadres dat is gekoppeld aan het MPN-account van de partner.
 
 U komt ook in aanmerking voor inschrijving voor incentive-programma's voor directe factuur bij dezelfde partner-tenant. U moet de programma's afzonderlijk beheren.
 

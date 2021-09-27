@@ -4,17 +4,17 @@ description: Verken dit uniforme Partner Center rapportagedashboard. Bekijk hoe 
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2061286ecb048647d666438a34b4759175b7deb4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 297f63aa4777f7a5448ec915e727b18dacdd0bc5
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957037"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075041"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: een dashboard dat laat zien hoe het gaat met een commerciële Microsoft-partner
 
@@ -22,11 +22,11 @@ ms.locfileid: "123957037"
 
 ## <a name="introduction"></a>Introductie
 
-Het Insights dashboard is een geïntegreerd rapportagedashboard in Partner Center voor commerciële microsoft-partners die zijn ingeschreven in het Microsoft Partner Network(MPN)-programma. Het Insights-dashboard biedt een weergave van 360 graden van uw Key Performance Indicators (KPI) voor cloudproducten zoals Office, Azure, Dynamics en licentiemodellen zoals CSP en EA. Het toont een uitgebreide set KPI-rapporten die u kunnen helpen bij het nemen van gegevensgestuurde beslissingen voor uw organisatie. 
+Het Insights dashboard is een geïntegreerd rapportagedashboard in Partner Center voor commerciële microsoft-partners die zijn ingeschreven in het Microsoft Partner Network(MPN)-programma. Het Insights-dashboard biedt een 360-graden weergave van uw Key Performance Indicators (KPI) voor cloudproducten zoals Office, Azure, Dynamics en licentiemodellen zoals CSP en EA. Het toont een uitgebreide set KPI-rapporten die u kunnen helpen bij het nemen van gegevensgestuurde beslissingen voor uw organisatie. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Op rollen gebaseerd toegangsbeheer voor het Insights dashboard
 
-Er zijn twee nieuwe rollen in Partner Center speciaal ontworpen voor toegang tot Insights: Report **Viewer** en **Executive Report Viewer.** Gebruikers met de rol Executive Report Viewer hebben toegang tot alle rapportagegegevenssets, terwijl gebruikers met de rol Rapportviewer geen toegang hebben tot gevoelige gegevenssets, zoals omzet en persoonlijke gegevens van klanten/werknemers. 
+Er zijn twee nieuwe rollen in Partner Center speciaal ontworpen voor toegang tot Insights: **Report Viewer** en Executive **Report Viewer.** Gebruikers met de rol Executive Report Viewer hebben toegang tot alle rapportagegegevenssets, terwijl gebruikers met de rol Rapportviewer geen toegang hebben tot gevoelige gegevenssets, zoals omzet en persoonlijke gegevens van klanten/werknemers. 
 
 De globale beheerder of de accountbeheerder kan deze rollen toewijzen aan gebruikers en worden toegewezen voor het hele bedrijf of voor een specifieke MPN-locatie.  
 
@@ -57,7 +57,7 @@ De volgende rapporten zijn beschikbaar als onderdeel van het Insights dashboard.
 
 :::image type="content" source="images/insights/introduction.png" alt-text="Inleidingskaart.":::
 
-**Feedbackknop:** elk diagram/besturingselement in Insights rapporten is opgenomen met een feedbackknop waarmee u feedback kunt geven over een rapportfunctie. 
+**Feedbackknop:** elk diagram/besturingselement in alle Insights rapporten is opgenomen met een feedbackknop waarmee u feedback van instanties kunt geven over een rapportfunctie. 
 
  
 **Filters op paginaniveau:** met uitzondering van de rapporten Overzicht, Voordelen en Competenties kunt u Insights filters op paginaniveau toepassen. 
