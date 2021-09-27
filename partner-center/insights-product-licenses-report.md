@@ -5,16 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Raadpleeg dit productlicentierapport en leer hoe u kunt verbeteren met de gelicentieerde cloudproducten die u voor uw klanten verkoopt of beheert.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: c51a97b9f4484c64dd112527e350ad65f070c862
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957025"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075878"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport Productlicenties in het Partner Center Insights dashboard
 
@@ -28,7 +28,7 @@ Het rapport Productlicenties bevat licentieanalyses voor cloudproducten op basis
 - Licentiedistributie per partnerlocaties, verkoopkanaal, SKU's, type partner koppelen, segment
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of rapportviewer voor leidinggevenden. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor het rapport.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met minder bevoegdheden voor leidinggevenden.
 
 ## <a name="summary"></a>Samenvatting
 
@@ -38,17 +38,17 @@ De samenvattingssectie bevat een momentopnameweergave van key performance indica
 
 Zie hieronder voor meer informatie over elke sectie van de samenvatting:
 
-- Licenties: 
+- Licenties:
   - Het huidige aantal licenties dat door u is verkocht of beheerd voor cloudproducten op basis van licenties, zoals Office 365, Dynamics, Microsoft 365, Microsoft Power BI en andere.
   - Percentagegroei of afname van deze licenties over het geselecteerde datumbereik.
-  - Micrografiek voor licentietrends: De micrografiek geeft de trend van het aantal licenties voor de maand na maand weer tijdens het geselecteerde datumbereik
+  - Micrografiek voor licentietrends: De micrografiek toont de trend van het aantal licenties gedurende de maand gedurende het geselecteerde datumbereik
 
 - Geïmplementeerde licenties:
   - Huidig aantal van alle toegewezen licenties van uw klant.
   - Percentagegroei of afname van deze licenties tijdens de geselecteerde periode.
   - Micrografiek voor het aantal licenties: In de micrografiek wordt de trend voor de maand-over-maand van het aantal toegewezen licenties weergegeven tijdens het geselecteerde datumbereik.
 
-- Actieve licenties: 
+- Actieve licenties:
   - Het huidige aantal van alle klantlicenties met een actief gebruik gedurende de afgelopen 30 dagen tijdens het geselecteerde datumbereik.
   - Percentagegroei of afname van deze licenties tijdens het geselecteerde datumbereik.
   - In de Micro-grafiek wordt de trend voor het aantal licenties gedurende het geselecteerde datumbereik voor de maand-over-maand weergegeven.
@@ -81,7 +81,7 @@ In deze weergave ziet u een uitsplitsing van uw klantlicenties per product en la
 
 ## <a name="next-steps"></a>Volgende stappen
 
-Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).
+Zie voor meer [rapporten Partner Center Insights](partner-center-insights.md).
 
 >[!NOTE] 
-> U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het Insights dashboard. [Meer informatie](insights-download-reports.md)
+> U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in Insights dashboard. [Meer informatie](insights-download-reports.md)

@@ -1,20 +1,20 @@
 ---
 title: Partnerbijdrage-indicatoren - SMMCS
 ms.topic: article
-ms.date: 09/15/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Meer informatie over de PCI-partners (Partner Contribution Indicators) die nodig zijn om te voldoen aan de competentie Small en Midmarket Cloud Solutions.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1477ac6f5675c820564606c7ce5f0b7a5871305
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: ad938d03dca9008168fda6a7c5eebed9a0aa3f07
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128422397"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075829"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Gebruik indicatoren voor partnerbijdrage om de competentie Small and Midmarket Cloud Solutions te verkrijgen
 
@@ -23,7 +23,7 @@ ms.locfileid: "128422397"
 In dit artikel worden zes belangrijke PCI-indicatoren (Partner Contribution Indicators) beschreven die worden gebruikt om de voortgang van een partner bij het bereiken of behouden van een Silver- of Gold Small- en Midmarket Cloud Solutions-competentie te beoordelen via de cloud Business Applications SMB-optie.
 
 > [!NOTE]
-> Ontdek hoe partners een andere set metrische gegevens voor partnerbijdrage-indicator gebruiken om de Silver- of Gold Cloud-Business Applications bereiken. Zie Use [Partner Contribution Indicators for the Cloud Business Applications competency (Indicatoren voor partnerbijdragen gebruiken voor de Cloud Business Applications competentie) voor meer informatie.](partner-contribution-indicators.md) U kunt ook [meer lezen over](https://partner.microsoft.com/membership/competencies) de verschillende beschikbare competenties en hun vereisten.
+> Ontdek hoe partners een andere set metrische gegevens voor partnerbijdrage-indicator gebruiken om de Silver- of Gold Cloud-Business Applications bereiken. Zie Use [Partner Contribution Indicators for the Cloud Business Applications competency (Indicatoren voor partnerbijdragen gebruiken voor de cloud-Business Applications competentie) voor meer informatie.](partner-contribution-indicators.md) U kunt ook [meer lezen over](https://partner.microsoft.com/membership/competencies) de verschillende beschikbare competenties en hun vereisten.
 
 Dit artikel bevat informatie over:
 
@@ -48,25 +48,25 @@ Wanneer een partner bijvoorbeeld bepaalde niveaus van impact in belangrijke indi
 
 ## <a name="pci-scoring-based-on-six-key-indicators"></a>PCI-scores op basis van zes sleutelindicatoren
 
-PCI biedt een geavanceerde weergave van de technische mogelijkheden van een partner, de mogelijkheid om succes van klanten en hun verkoopprestaties te stimuleren. Om partners te helpen de competentie Silver of Gold Small en Midmarket Cloud Solutions te verkrijgen via de Cloud Business Applications SMB-optie, meet PCI de prestaties van uw bedrijf op het vorige jaar aan de hand van zes belangrijke indicatoren:
+PCI biedt een geavanceerde weergave van de technische mogelijkheden van een partner, de mogelijkheid om succes van klanten en hun verkoopprestaties te stimuleren. Om partners te helpen de competentie Silver of Gold Small en Midmarket Cloud Solutions te verkrijgen via de Cloud Business Applications SMB-optie, meet PCI de prestaties van uw bedrijf ten afgelopen jaar aan de hand van zes belangrijke indicatoren:
 
-*Prestatie-indicatoren:*
+### <a name="performance-indicators"></a>Prestatie-indicatoren
 
-1. **Netto nieuwe omzet:** Netto nieuwe omzet in alle verkoopkanalen voor specifieke Microsoft-producten. (Zie Definities voor de netto nieuwe omzet voor meer informatie over deze [metrische](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue)gegevens.)
+- **Netto nieuwe omzet:** Netto nieuwe omzet in alle verkoopkanalen voor specifieke Microsoft-producten. (Zie Definities voor de netto nieuwe omzet voor meer informatie over deze [metrische](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue)gegevens.)
 
-2. **Nettoklant voegt** toe: Nettoklanten die zijn verkregen voor specifieke Microsoft-producten in alle verkoopkanalen. (Zie Definities voor net customer adds voor meer informatie over deze metrische [gegevens.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)
+- **Nettoklant voegt** toe: Nettoklanten die zijn verkregen voor specifieke Microsoft-producten in alle verkoopkanalen. (Zie Definities voor net customer adds voor meer informatie over deze metrische [gegevens.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)
 
-*Mogelijkheidsindicatoren:*
+### <a name="capability-indicators"></a>Mogelijkheidsindicatoren
 
-3. **Functionele consultants:** aantal personen met een momenteel actieve Functioneel consultant Associate-certificering voor Dynamics 365. (Zie Definities voor functionele consultants voor meer informatie over deze [metrische gegevens.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
+- **Functionele consultants:** aantal personen met een momenteel actieve Functioneel consultant Associate-certificering voor Dynamics 365. (Zie Definities voor functionele consultants voor meer informatie over deze [metrische gegevens.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
 
-4. **Ontwikkelaars:** aantal personen met een momenteel actieve certificering voor Ontwikkelaars koppelen voor Dynamics 365. (Zie Definities voor ontwikkelaars voor meer informatie over deze [metrische gegevens.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)
+- **Ontwikkelaars:** aantal personen met een momenteel actieve certificering voor Ontwikkelaars koppelen voor Dynamics 365. (Zie Definities voor ontwikkelaars voor meer informatie over deze [metrische gegevens.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)
 
-*Indicatoren voor klantsucces:*
+### <a name="customer-success-indicators"></a>Indicatoren voor klantsucces
 
-5. **Nieuwe implementaties:** het aantal productieten tenants dat een specifieke gebruiksdrempelwaarde heeft overschreden gedurende de afgelopen 12 maanden. (Zie Definities voor nieuwe implementaties voor meer informatie over [deze metrische gegevens.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments)
+- **Nieuwe implementaties:** het aantal productieten tenants dat een specifieke gebruiksdrempelwaarde heeft overschreden gedurende de afgelopen 12 maanden. (Zie Definities voor nieuwe implementaties voor meer informatie over [deze metrische gegevens.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments)
 
-6. **Maandelijks actieve gebruikersgroei:** groei van maandelijks actieve gebruikers voor al uw klanten in de afgelopen 12 maanden. (Zie Definities voor maandelijks actieve gebruikersgroei voor meer informatie over [deze metrische gegevens.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
+- **Maandelijks actieve gebruikersgroei:** groei van maandelijks actieve gebruikers voor al uw klanten in de afgelopen 12 maanden. (Zie Definities voor maandelijks actieve gebruikersgroei voor meer informatie over [deze metrische gegevens.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Hoe PCI-score van invloed is op geschiktheid van competentie
 Punten worden toegekend voor elke bereikt indicator, wat resulteert in een PCI-score met één getal. Er zijn maximaal 100 punten mogelijk. 
@@ -97,7 +97,7 @@ Elke indicator levert een score op die wordt toegevoegd aan het totaal. Dit zijn
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Drempelwaarden voor elke PCI-metrische gegevens voor deze competentie
 
-Elke PCI-metriek heeft door Microsoft ingesteld drempelwaarden waarmee het maximum aantal punten van uw bedrijf kan worden verdiend om de competentie Silver of Gold Small en Midmarket Cloud Solutions te bereiken via de cloud Business Applications SMB-optie.
+Elke PCI-metriek heeft door Microsoft bepaalde drempelwaarden waarmee het maximum aantal punten van uw bedrijf kan worden verdiend om de competentie Silver of Gold Small en Midmarket Cloud Solutions te bereiken via de cloud Business Applications SMB-optie.
 
 Punten voor elke metrische gegevens worden na elkaar geteld om een afzonderlijke PCI-score te krijgen. Deze score wordt maandelijks bijgewerkt.
 
@@ -105,7 +105,7 @@ Partners kunnen het maximum aantal punten voor een bepaald metrisch gegeven verd
 
 Een marktpartner met $ 15.000 aan netto nieuwe omzet verdient bijvoorbeeld de helft ($ 15.000/$ 30.000) van de maximaal 10 punten.
 
-In de volgende tabel worden de specifieke drempelwaarden voor partnerbijdrage-indicator beschreven die u kunt bereiken om maximale punten te behalen voor het bereiken van de competentie Silver of Gold Small en Midmarket Cloud Solutions via de cloud Business Applications SMB-optie.
+De volgende tabel beschrijft de specifieke drempelwaarden voor partnerbijdrage-indicator die u kunt bereiken om maximumpunten te verdienen voor het bereiken van de competentie Silver of Gold Small en Midmarket Cloud Solutions via de cloud Business Applications SMB-optie.
 
 | PCI-metriek | Prestatie-indicator: Netto nieuwe omzet | Prestatie-indicator: Net customer adds | Mogelijkheidsindicator: Functionele consultants | Mogelijkheidsindicator: Ontwikkelaars | Indicator voor klantsucces: Nieuwe implementaties | Indicator voor klantsucces: Maandelijks actieve gebruikersgroei |
 |---|:---:|:---:|:------:|:---:|:---:|:----:|
@@ -153,7 +153,7 @@ Netto nieuwe omzet is een [prestatie-indicator](partner-contribution-indicators-
 - Netto nieuwe omzet wordt gedefinieerd als netto nieuwe gefactureerde omzet voor alle verkoopkanalen voor in aanmerking komende Dynamics 365-producten.
 - De netto-omzet wordt opgeteld over een periode van 12 maanden met een maximaal mogelijke inkomsten van 10 punten.
 - Punten voor de netto nieuwe omzet worden berekend als facturering minus tegoed en samengevoegd over 12 maanden.
-- De netto-omzet wordt berekend op basis van een combinatie van de volgende, in aanmerking komende producten:
+- De netto nieuwe omzet wordt berekend op basis van een combinatie van de volgende, in aanmerking komende producten:
   - Producten die in aanmerking komen voor Dynamics 365 Customer Engagement zijn onder andere: Verkoop, Marketing, Klantenservice, Field Service, Project-server, Plan 1, Automation, Marketing, Microsoft Relationship Sales
   - Producten die in aanmerking komen voor Finance and Operations zijn onder andere: Dynamics 365 Business Central, Capacity and Storage, Finance and Operations (inclusief fraudebeveiliging, bewerkingen, detailhandel, HR, plan 2), mixed reality, teamlid
   
@@ -166,13 +166,13 @@ Net customer adds is een [prestatie-indicator.](partner-contribution-indicators-
 
 - Netto-klantgegevens worden opgeteld over een periode van 12 maanden na elkaar. 
 
-- Er zijn in totaal 10 netto-klant-toevoegingen mogelijk, met een maximaal mogelijke omzet van 10 punten (één punt voor elke netto-klant add).
+- Er zijn in totaal 10 netto-klant-toevoegingen mogelijk, met een maximale omzet van 10 punten (één punt voor elke netto-klant die wordt toegevoegd).
 
 - Netklanten worden toegevoegd in alle verkoopkanalen.
 
 - Punten voor nettoklanten worden maandelijks berekend als klanten die zijn toegevoegd min klanten verloren en worden geaggregeerd over 12 maanden.
 
-- Een **klant toevoegen** wordt gedefinieerd onder de volgende voorwaarden: Wanneer een klant in een vorige maand geen betaalde seats heeft voor al zijn abonnementen, maar in de huidige maand ten minste één betaalde seat heeft.
+- Een **klant-invoeging** wordt gedefinieerd onder de volgende voorwaarden: Wanneer een klant in een vorige maand geen betaalde seats heeft voor al zijn abonnementen, maar in de huidige maand ten minste één betaalde seat heeft.
 
 - Een **verloren klant** wordt gedefinieerd onder de volgende voorwaarden: Wanneer een klant in een  vorige maand ten minste één betaalde seat in al zijn abonnementen heeft en in de huidige maand geen betaalde seats heeft.
 
@@ -184,13 +184,13 @@ Net customer adds is een [prestatie-indicator.](partner-contribution-indicators-
 
   **Voor meerdere partners, dezelfde klant, verschillende abonnementen:**
 
-  - Alle partners die aan de klant zijn gekoppeld, krijgen tegoed voor een nieuwe klant die wordt toegevoegd in de maand dat de klant wordt toegevoegd.
+  - Alle partners die aan de klant zijn gekoppeld, krijgen tegoed voor een nieuwe klant die is toegevoegd in de maand dat de klant wordt toegevoegd.
   
   - Volgende partners die zich via oude of nieuwe abonnementen aan dezelfde klant koppelen, krijgen geen nieuw klanttegoed voor die klant.
   
-  - Alle partners die aan de klant zijn gekoppeld, verliezen tegoed voor een nieuwe klant-invoeging in de maand dat de klant verloren gaat.
+  - Alle partners die aan de klant zijn gekoppeld, verliezen tegoed voor een nieuwe klant die is toe te voegen in de maand dat de klant verloren gaat.
   
-  - Elke partner die vervolgens via oude of nieuwe abonnementen aan dezelfde klant wordt koppelen, krijgt een nieuw tegoed voor de klant.
+  - Elke partner die vervolgens via oude of nieuwe abonnementen aan dezelfde klant is verbonden, krijgt een nieuw tegoed voor de klant.
   
   **Wanneer de klant al rechtstreeks met Microsoft werkt:**
 
@@ -200,18 +200,18 @@ Net customer adds is een [prestatie-indicator.](partner-contribution-indicators-
 
 Functionele consultants zijn een [mogelijkheidsindicator.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) De punten van deze indicator worden als volgt berekend voor deze competentie:
 
-- Functionele consultant-indicatorpunten zijn gebaseerd op de momentopname van de huidige maand met een maximale omzet van 30 punten.
+- Functionele consultantindicatorpunten zijn gebaseerd op de momentopname van de huidige maand met een maximale omzet van 30 punten.
 
 - Functionele consultants worden gedefinieerd als het aantal personen met een momenteel actieve Functioneel consultant Associate-certificering, zoals een Customer Engagement Functioneel consultant-certificering of een Certificering voor Finance and Operations Functioneel consultant.
 
 Om maximaal **30** functionele consultantpunten te verdienen voor het bereiken van deze competentie, moeten partners **5** consultants hebben die een van de volgende functies hebben:
 - Certificering van Customer Engagement-Functioneel consultant
 - Certificering voor Finance and Operations Functioneel consultant
-- Certificering van business central Functioneel consultant
+- Bedrijfscertificering Functioneel consultant Business Central
 
 Om vijf consultants te bereiken, kunnen partners consultants met een van de drie certificeringstypen combineren en matchen.
 
-Om Customer Engagement te Functioneel consultant certificering koppelen, moet een persoon slagen voor het volgende examen:
+Om Customer Engagement te Functioneel consultant certificering koppelen, moet een persoon het volgende examen afleggen:
   - PL-200<br/>
   **en** een van de volgende examens:
   - MB-210, MB-220, MB-230 of MB-240
@@ -229,13 +229,13 @@ Om business central te Functioneel consultant certificering koppelen, moet een p
 
 Ontwikkelaars zijn een [mogelijkheidsindicator.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) De punten van deze indicator worden als volgt berekend voor deze competentie:
 
-- Ontwikkelaars worden gedefinieerd als het aantal personen met een momenteel actieve Certificering voor Customer Engagement Developer Associate of een certificering voor Finance and Operations Developer Associate.
+- Ontwikkelaars worden gedefinieerd als het aantal personen met een momenteel actieve certificering voor Customer Engagement Developer Associate of een certificering voor Finance and Operations Developer Associate.
 
 - Punten voor de ontwikkelaarsindicator zijn gebaseerd op de momentopname van de huidige maand met maximaal 5 punten beschikbaar.
 
 - Om vijf consultants te bereiken, kunnen partners consultants die een van beide certificeringstype hebben, als volgt combineren en matchen:
 
-  Als u certificering voor Customer Engagement Developer Associate wilt behalen, moet een persoon het volgende examen afleggen:
+  Als u certificering voor Customer Engagement Developer Associate wilt behalen, moet een persoon slagen voor het volgende examen:
   - PL-400
 
   Als u certificering voor Finance and Operations Developer Associate wilt behalen, moet een persoon slagen voor deze examens:
@@ -260,19 +260,19 @@ Nieuwe implementaties zijn een indicator [voor klantsucces.](partner-contributio
 
 - Maandelijks actieve gebruikers worden aan het einde van elke maand berekend.
 
-- Partners worden gekoppeld aan tenants op abonnementsniveau. Abonnementen worden aan de volgende, in aanmerking komende producten in kaart gebracht:
+- Partners worden gekoppeld aan tenants op abonnementsniveau. Abonnementen worden aan de volgende, in aanmerking komende producten toe te staan:
   - Producten die in aanmerking komen voor Dynamics 365 Customer Engagement zijn onder andere: Verkoop, Marketing, Klantenservice, Field Service, Project-server, Plan 1, Automation, Marketing, Microsoft Relationship Sales
   - Producten die in aanmerking komen voor Finance and Operations zijn onder andere: Business Central, Capacity and Storage, Finance and Operations (inclusief fraudebeveiliging, bewerkingen, detailhandel, HR, plan 2), mixed reality, teamlid
 
 ### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>Definities voor PCI-#6: groei van maandelijks actieve gebruikers
 
-Maandelijks actieve gebruikersgroei is een [succesindicator voor klanten.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) De punten van deze indicator worden als volgt voor deze competentie berekend:
+Maandelijks actieve gebruikersgroei is een [succesindicator voor klanten.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) De punten van deze indicator worden als volgt berekend voor deze competentie:
 
 - Maandelijks actieve gebruikersgroei wordt gedefinieerd als de groei van maandelijks actieve gebruikers in het hele klantenbestand in de afgelopen 12 maanden.
 
-- Maandelijks actieve gebruikers worden geteld op abonnementsniveau en opgeteld voor alle betaalde abonnementen die zijn toegerekend aan een partner.
+- Maandelijks actieve gebruikers worden geteld op abonnementsniveau en opgeteld over alle betaalde abonnementen die aan een partner zijn toegerekend.
 
-- De indicator voor maandelijks actieve gebruikersgroei vergelijkt de huidige maand met een basislijn van 12 maanden geleden. Er zijn maximaal 25 punten beschikbaar om toe te passen om de competentie Gold of Silver Small en Midmarket Cloud Solutions te bereiken via de cloud-Business Applications SMB-optie.
+- De maandelijks actieve gebruikersgroeiindicator vergelijkt de huidige maand met een basislijn van 12 maanden geleden. Er zijn 25 maximumpunten beschikbaar om toe te passen voor het bereiken van de competentie Gold of Silver Small en Midmarket Cloud Solutions via de cloud Business Applications SMB-optie.
 
 - Maandelijks actieve gebruikers worden aan het einde van elke maand berekend.
 
@@ -282,11 +282,28 @@ Maandelijks actieve gebruikersgroei is een [succesindicator voor klanten.](partn
 
 ## <a name="how-to-access-partner-contribution-indicators"></a>Toegang tot partnerbijdrage-indicatoren
 
-In deze sectie wordt beschreven hoe u toegang krijgt tot de details van de partnerbijdrage-indicatoren en de voortgang van de partner.
+In deze sectie wordt beschreven hoe u toegang krijgt tot de details van partnerbijdrage-indicatoren en de voortgang van de partner.
 
 ### <a name="access-partner-contribution-indicators"></a>Access Partner Contribution Indicators
 
 Volg deze stappen om de tabel Partner Contribution Indicators weer te geven:
+
+> [!NOTE]
+> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
+
+1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard) van het Partnercentrum.
+
+2. Selecteer de **tegel Marketplace** en selecteer vervolgens **Competenties.**
+
+3. Selecteer de **competentie Small and Midmarket Cloud Solutions,** gevolgd door de **optie Cloud Business Applications SMB.**
+
+4. Bekijk in de sectie Samenvatting uw voortgang, prestaties en gerelateerde score tot heden.
+
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="De tabel Partner Contribution Indicators lezen.":::
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard) van het Partnercentrum.
 
@@ -297,6 +314,8 @@ Volg deze stappen om de tabel Partner Contribution Indicators weer te geven:
 4. Bekijk in de sectie Samenvatting uw voortgang, prestaties en gerelateerde score tot heden.
 
    :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="De tabel Partner Contribution Indicators lezen.":::
+
+* * *
 
 ## <a name="next-steps"></a>Volgende stappen
 

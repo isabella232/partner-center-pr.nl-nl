@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Bekijk wat u goed doet en waar u het gebruik kunt verbeteren van Power BI abonnementen die u voor uw klanten verkoopt of beheert.
-author: shganesh-dev
-ms.author: shganesh
+description: Bekijk wat u goed doet en waar u het gebruik van uw Power BI die u voor uw klanten verkoopt of beheert, kunt verbeteren.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4cb47cf8cd3dbd12a57cab40a5a5d09888f324
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 6930d2b67c7f527c8d768a1fa6ba3c5ef6103bf4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244903"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075896"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI gebruiksrapport dat beschikbaar is via het Partner Center Insights dashboard
 
@@ -22,17 +22,17 @@ ms.locfileid: "126244903"
 Het Power BI bevat gebruiksgegevens voor de Microsoft Power BI-abonnementen die u hebt verkocht of beheert voor uw klanten. U kunt de volgende secties bekijken in het Power BI gebruiksrapport.
 
 - Samenvatting
-- Power BI geografie gebruiken
+- Power BI per geografie
 - Power BI gebruik per SKU
 - Prestaties van abonnementen
 - Power BI gebruiksdistributie
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals Globale beheerder, Accountbeheerder, Rapportviewer of Leidinggevende rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersbevoegdheden voor rapportviewers.
 
 ## <a name="summary"></a>Samenvatting
 
-De samenvattingssectie bevat een momentopnameweergave van de belangrijkste indicatoren met betrekking tot Power BI die u hebt verkocht of beheert voor uw klanten. 
+De samenvattingssectie bevat een momentopnameweergave van de belangrijkste indicatoren die betrekking hebben op Power BI gebruiksabonnementen die u hebt verkocht of beheert voor uw klanten. 
 
 - Beschikbare seats: het totale aantal licenties dat tijdens het geselecteerde tijdsbestek is verkocht.
 
@@ -52,9 +52,9 @@ De samenvattingssectie bevat een momentopnameweergave van de belangrijkste indic
 
 :::image type="content" source="images/insights/pbi-usage-summary.png" alt-text="Power BI gebruiksoverzicht.":::
 
-## <a name="power-bi-usage-by-geography"></a>Power BI geografie gebruiken
+## <a name="power-bi-usage-by-geography"></a>Power BI per geografie
 
-De **Power BI geografie geeft** de verdeling van beschikbare seats en actieve seats per klantland weer. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkere kleuren hogere waarden vertegenwoordigen. U kunt een land in het raster zoeken en selecteren om op in te zoomen.
+De **Power BI geografie** geeft de verdeling van beschikbare seats en actieve seats per klantland weer. Lichtere kleuren op de kaart vertegenwoordigen lagere waarden, terwijl donkere kleuren hogere waarden vertegenwoordigen. U kunt een land in het raster zoeken en selecteren om op in te zoomen.
 
 De **tabel Aantal landen/regio's** bevat het totale aantal landen/regio's waar Azure-gebruiksgebeurtenissen worden gegenereerd.
 
@@ -76,12 +76,12 @@ De prestaties van Abonnementen tonen de maandelijkse trend van actief gebruik pe
 
 ## <a name="power-bi-usage-distribution"></a>Power BI gebruiksdistributie
 
-De Power BI geeft de uitsplitsing van beschikbare seats, actieve seats en toegewezen seats per SKU weer.
+De Power BI verdeling van het gebruik toont de uitsplitsing van beschikbare seats, actieve seats en toegewezen seats op SKU's.
 
 :::image type="content" source="images/insights/pbi-usage-distribution.png" alt-text="Power BI gebruiksdistributie.":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie voor meer rapporten [Partner Center Insights](partner-center-insights.md).
+- Zie voor meer [rapporten Partner Center Insights.](partner-center-insights.md)
 
-- U kunt de onbewerkte gegevens voor dit rapport downloaden via de sectie Rapporten downloaden in het Insights dashboard. [Meer informatie](insights-download-reports.md) 
+- U kunt de onbewerkte gegevens voor dit rapport downloaden uit de sectie Rapporten downloaden in het Insights dashboard. [Meer informatie](insights-download-reports.md) 

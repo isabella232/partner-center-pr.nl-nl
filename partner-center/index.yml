@@ -1,100 +1,206 @@
-### YamlMime:Landing
+### YamlMime:Hub
 title: Documentatie voor Partnercentrum
-summary: In Partnercentrum kunt u uw bedrijf laten groeien via het MPN (Microsoft Partner Network), het CSP-programma (Cloud Solution Provider), en meer.
+summary: 'In Partnercentrum kunt u uw bedrijf laten groeien via het MPN (Microsoft Partner Network), het CSP-programma (Cloud Solution Provider), en meer.'
 metadata:
   title: Documentatie voor Partnercentrum
-  description: In Partnercentrum kunt u uw bedrijf laten groeien via het MPN (Microsoft Partner Network), het CSP-programma (Cloud Solution Provider), en meer.
-  ms.service: partner-dashboard
-  ms.topic: landing-page
-  author: JasonGroce
+  description: 'Partner Center kunt u uw bedrijf laten groeien via Microsoft Partner Network (MPN), het programma Cloud Solution Provider (CSP), het commerciële marketplace-programma en meer.'
+  services: service
   ms.author: jasongroce
-  ms.date: 02/01/2021
-  ms.openlocfilehash: efc7956295944a40a9574c7678da8ef20cd04fd9
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
-  ms.translationtype: MT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126249643"
-landingContent:
-- title: Aan de slag gaan met Partnercentrum
-  linkLists:
-  - linkListType: get-started
-    links:
-    - text: Wat is Partnercentrum?
+  ms.date: 09/01/2021
+highlightedContent:
+  items:
+    - title: Partnercentrum
+      itemType: get-started
       url: overview.md
-    - text: Aankondigingen van partnercentrum
-      url: announcements/index.md
-    - text: Partner van Microsoft
-      url: mpn-overview.md
-    - text: Een Partnercentrum-account maken
+    - title: Microsoft Partner Network
+      itemType: get-started
       url: mpn-create-a-partner-center-account.md
-    - text: De voordelen en aanbiedingen van uw MPN lidmaatschap beheren
-      url: manage-your-partner-network-benefits.md
-- title: Uw bedrijf laten groeien
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Communiceren met uw klanten
-      url: connect-with-your-customers.md
-    - text: CSP-programma (Cloud Solution Provider)
-      url: csp-overview.md
-    - text: Klantverwijzingen ophalen
-      url: manage-leads.md
-    - text: Incentives-programma's
-      url: incentives-get-started-intro.md
-    - text: Collectieve verkoopkansen beheren
-      url: manage-co-sell-opportunities.md
-    - text: Een geavanceerde specialisatie verdienen
-      url: advanced-specializations.md
-- title: Belangrijke concepten en taken
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Accepteer de Microsoft Partner-overeenkomst
-      url: microsoft-partner-agreement.md
-    - text: Beveiligingsvereisten voor Partnercentrum
-      url: partner-security-requirements.md
-    - text: Een bedrijfsprofiel maken
-      url: create-a-marketing-profile.md
-    - text: Inleiding tot het Azure-abonnement
-      url: azure-plan-lp.md
-    - text: Ondersteuning krijgen van Microsoft
-      url: support-from-microsoft.md
-    - text: Meer informatie over Microsoft 365 Lighthouse
-      url: /microsoft-365/lighthouse/m365-lighthouse-overview
-    - text: Meer informatie over Azure Lighthouse
-      url: /azure/lighthouse/overview
-  - linkListType: how-to-guide
-    links:
-    - text: Uw MPN-accountlocaties beheren
-      url: manage-locations.md
-    - text: Uw MPN-aanbiedingen vernieuwen
-      url: renew-mpn-offers.md
-    - text: Uw MPN-voordelen zoeken
-      url: mpn-find-benefits.md
-    - text: Uw rol vinden
-      url: find-your-role.md
-- title: Accounts en facturering
-  linkLists:
-  - linkListType: how-to-guide
-    links:
-    - text: Uw account voor het partnercentrum beheren
-      url: partner-center-account-setup.md
-    - text: Rollen en machtigingen toewijzen aan gebruikers
-      url: permissions-overview.md
-    - text: Billing basics (Grondbeginselen van facturering)
-      url: billing-basics.md
-    - text: Stel uw betalingsaccount en belastingformulieren
-      url: set-up-your-payout-account.md
-    - text: Meer informatie over uw factuur
-      url: read-your-bill.md
-- title: Verkopen in de commerciële marketplace (ISV's)
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Documentatie voor de commerciële marketplace
-      url: /azure/marketplace
-    - text: Wat is de commerciële marketplace van Microsoft?
-      url: /azure/marketplace/overview
-    - text: Uw publicatieopties bepalen
-      url: /azure/marketplace/determine-your-listing-type
+    - title: Cloud Solution Provider
+      itemType: get-started
+      url: enrolling-in-the-csp-program.md
+    - title: Commerciële marketplace
+      itemType: get-started
+      url: /azure/marketplace/
+conceptualContent:
+  items:
+    - title: Inschrijven
+      links:
+        - url: mpn-create-a-partner-center-account.md
+          itemType: overview
+          text: Microsoft Partner Network
+        - url: csp-overview.md
+          itemType: how-to-guide
+          text: Cloud Solution Provider (CSP)
+        - url: enrolling-in-the-csp-program.md
+          itemType: how-to-guide
+          text: Indirecte of directe CSP
+      footerLink:
+        url: enrolling-in-the-csp-program.md
+        text: Meer informatie
+    - title: Lidmaatschap
+      links:
+        - url: mpn-overview.md
+          itemType: overview
+          text: Overzicht
+        - url: mpn-create-a-partner-center-account.md
+          itemType: how-to-guide
+          text: MPN-account maken
+        - url: mpn-get-action-pack.md
+          itemType: get-started
+          text: Aanbiedingen Action Pack kopen
+      footerLink:
+        url: mpn-benefits-map-competency-learning-option-enroll.md
+        text: Meer informatie
+    - title: Voordelen
+      links:
+        - url: manage-your-partner-network-benefits.md
+          itemType: overview
+          text: Overzicht
+        - url: benefits-faq.yml
+          itemType: concept
+          text: Veelgestelde vragen over de voordelen
+        - url: mpn-find-benefits.md
+          itemType: how-to-guide
+          text: Voordelen zoeken
+      footerLink:
+        url: renew-mpn-offers.md
+        text: Meer informatie
+    - title: Verwijzingen
+      links:
+        - url: referrals.md
+          itemType: overview
+          text: Overzicht
+        - url: grow-your-business.md
+          itemType: how-to-guide
+          text: Leads op halen
+        - url: manage-leads.md
+          itemType: how-to-guide
+          text: Leads beheren
+      footerLink:
+        url: register-deals.md
+        text: Meer informatie
+    - title: Customers
+      links:
+        - url: connect-with-your-customers.md
+          itemType: overview
+          text: Overzicht
+        - url: find-a-partner.md
+          itemType: how-to-guide
+          text: Een partner of oplossingsprovider zoeken
+        - url: see-your-customer-list.md
+          itemType: how-to-guide
+          text: Uw lijst met klanten weergeven
+      footerLink:
+        url: request-a-relationship-with-a-customer.md
+        text: Meer informatie
+    - title: Billing
+      links:
+        - url: billing.md
+          itemType: overview
+          text: Overzicht
+        - url: read-your-bill.md
+          itemType: concept
+          text: Meer informatie over uw factuur
+        - url: use-the-reconciliation-files.md
+          itemType: tutorial
+          text: Recon-bestanden gebruiken
+      footerLink:
+        url: billing.md
+        text: Meer informatie
+    - title: Prijzen
+      links:
+        - url: pricing-and-offers.md
+          itemType: overview
+          text: Overzicht
+        - url: partner-earned-credit.md
+          itemType: concept
+          text: Partnertegoed
+        - url: promotions.md
+          itemType: how-to-guide
+          text: Promoties gebruiken
+      footerLink:
+        url: csp-commercial-marketplace-overview.md
+        text: Meer informatie
+    - title: Incentives
+      links:
+        - url: incentives-get-started-intro.md
+          itemType: overview
+          text: Overzicht
+        - url: incentives-enroll.md
+          itemType: get-started
+          text: Inschrijven bij Incentives
+        - url: chip-intro.md
+          itemType: concept
+          text: Wat is CHIP?
+      footerLink:
+        url: incentives-determined-your-program-eligibility.md
+        text: Meer informatie
+    - title: Marketplace-aanbiedingen
+      links:
+        - url: /azure/marketplace/overview
+          itemType: concept
+          text: Overzicht van de commerciële marketplace
+        - url: /azure/marketplace/publisher-guide-by-offer-type
+          itemType: how-to-guide
+          text: Publicatiehandleiding voor aanbieding
+        - url: /azure/marketplace/policies-terms
+          itemType: concept
+          text: Beleidsregels en voorwaarden
+      footerLink:
+        url: /azure/marketplace/determine-your-listing-type
+        text: Meer informatie
+    - title: Uitbetalingen
+      links:
+        - url: non-payment-fraud-misuse.md
+          itemType: overview
+          text: Overzicht
+        - url: payment-thresholds-methods-timeframes.md
+          itemType: concept
+          text: Betalingsdrempels
+        - url: understand-irs-tax-forms.md
+          itemType: concept
+          text: Belastingformulieren begrijpen
+      footerLink:
+        url: mobile-operator-billing.md
+        text: Meer informatie
+    - title: Inzichten
+      links:
+        - url: partner-center-insights.md
+          itemType: get-started
+          text: Overzicht
+        - url: insights-overview-report.md
+          itemType: concept
+          text: Beschikbare rapporten
+        - url: insights-roles.md
+          itemType: concept
+          text: Toegang verlenen tot rapporten
+      footerLink:
+        url: insights-known-issues.md
+        text: Meer informatie
+    - title: Accounts
+      links:
+        - url: partner-center-account-setup.md
+          itemType: overview
+          text: Overzicht
+        - url: manage-locations.md
+          itemType: how-to-guide
+          text: Locaties beheren
+        - url: create-user-accounts-and-set-permissions.md
+          itemType: how-to-guide
+          text: Gebruikersaccounts maken
+      footerLink:
+        url: find-your-role.md
+        text: Meer informatie
+additionalContent:
+  sections:
+    - title: Meer informatie
+      items:
+        - title: Aankondigingen van partnercentrum
+          summary: Ontvang het laatste nieuws op Partner Center.
+          url: ./announcements/index.md
+        - title: Microsoft AppSource
+          summary: Meer informatie over Microsoft AppSource.
+          url: /marketplace/appsource-overview
+        - title: Azure Marketplace
+          summary: Meer informatie over de Azure Marketplace.
+          url: /marketplace/azure-marketplace-overview
