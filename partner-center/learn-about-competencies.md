@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1adacebbf4c0f8b97187386def43a3006920c08
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 567b21c75da3696814d5dfb4bf7ad2613fe098a3
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075285"
+ms.locfileid: "129089501"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Onderscheid maken tussen uw bedrijf door Microsoft-competenties te verkrijgen
 
@@ -37,7 +37,7 @@ Het bereiken van een competentie kan ook een vermelding zijn voor verdere voorde
 U kunt de vereisten en wat uw bedrijf heeft bereikt bekijken vanuit het competentiegebied van uw Partner Center dashboard.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u deze [in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 

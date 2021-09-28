@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2bc31961dd073c2300ba8ee5229b72c86019e217
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: e22067cafa7c8fc1d6c1dc6c8e0cf70f6134a61f
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072588"
+ms.locfileid: "129089450"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Tegoed ontvangen op uw Partner Center voor belasting
 
@@ -34,7 +34,7 @@ Partners die worden gebruikt om aanvragen voor belasting in te dienen door servi
 Volg deze stappen om een nieuwe belasting in te dienen:
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -97,7 +97,7 @@ Volg deze stappen om een nieuwe belasting in te dienen:
 Het beoordelingsteam kan vereisen dat u correcties moet toepassen en een aanvraag opnieuw moet indienen voordat deze kan worden goedgekeurd. Ze wijzigen de status in **Partneractie in behandeling.** De aanvraag corrigeren en opnieuw indienen:
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -152,7 +152,7 @@ Gew cleared bedragen worden weergegeven in de sectie **Factureringspagina factur
 
 Het verwerken van de aanvragen voor belasting moet twee dagen duren, ervan uitgaande dat het belastingcertificaat en het juiste bedrag juist zijn. Als er wijzigingen vereist zijn, duurt dit langer vanwege de correcties die moeten worden aangebracht en opnieuw moeten worden ingediend.
 
-Als u vragen hebt over het aanvraagproces voor het aanvragen van bronbelasting, dient u een ticket in bij partnerondersteuning. U hebt de aanvraag-id voor holding nodig om vragen op te lossen.
+Als u vragen hebt over het aanvraagproces voor het aanvragen van bronbelasting, dient u een ticket in bij de ondersteuning van de partner. U hebt de aanvraag-id voor holding nodig om vragen op te lossen.
 
 ## <a name="german-tax-withholding"></a>Duitse belasting in holding
 
@@ -166,7 +166,7 @@ Partners die duitse belastingaanvragen indienen, moeten onthouden dat ze harde k
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Vragen en hulp bij aanvragen voor belasting
 
-Partners moeten het nieuwe proces dat hierboven wordt beschreven, gebruiken om nieuwe aanvragen in te dienen en geen ondersteuningsaanvragen meer te maken voor nieuwe aanvragen voor belastingafdacht. Partners met meer vragen over aanvragen voor belasting kunnen [ondersteuningsaanvragen indienen.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Ondersteuningsaanvragen zijn bedoeld om partners te helpen bij bestaande aanvragen, zodat ze hun **aanvraag-id** moeten hebben om een nieuw ticket in te dienen. Als partners geen aanvraag kunnen indienen met behulp van het nieuwe proces, moeten ze een aantal (alle enen) invoeren in het formulier voor ondersteuningsaanvraag. 
+Partners moeten het hierboven beschreven nieuwe proces gebruiken om nieuwe aanvragen in te dienen en geen ondersteuningsaanvragen meer te maken voor nieuwe aanvragen voor belasting. Partners met meer vragen over aanvragen voor belasting kunnen [ondersteuningsaanvragen indienen.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Ondersteuningsaanvragen zijn bedoeld om partners te helpen bij bestaande aanvragen, zodat ze hun **aanvraag-id** moeten hebben om een nieuw ticket in te dienen. Als partners geen aanvraag kunnen indienen met behulp van het nieuwe proces, moeten ze een aantal (alle enen) invoeren in het formulier voor ondersteuningsaanvraag. 
 
    > [!IMPORTANT]
-   > Partners hoeven geen contact op te nemen met de ondersteuning als hun aanvraagstatus **Voltooid is.** Deze status wordt in de **factureringsgeschiedenis naast** de factuur voor de inzending vermeld. **De laatste betalingsbedragen** naast de factuur moeten het holdingbedrag weerspiegelen binnen tien dagen nadat de aanvraag is gemarkeerd als **Voltooid.**
+   > Partners hoeven geen contact op te nemen met de ondersteuning als hun aanvraagstatus **Voltooid is.** Deze status wordt in de **factureringsgeschiedenis naast** de factuur voor de inzending vermeld. **De laatste betalingsbedragen** naast de factuur moeten het bedrag voor belasting weerspiegelen binnen tien dagen nadat de aanvraag is gemarkeerd als **Voltooid.**

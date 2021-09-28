@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dca930586fd17e9c70e80455802cf3f587170a42
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: eb4163a2db470bec7c09c4a800f01becce4e21d3
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070488"
+ms.locfileid: "129088882"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gebruikers en gebruikerslicenties voor klantaccounts beheren 
 
@@ -34,7 +34,7 @@ U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-mult
 ## <a name="create-user-accounts-for-a-customer"></a>Gebruikersaccounts maken voor een klant
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -48,7 +48,7 @@ U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-mult
 
 5. Als u meerdere gebruikers één voor één toevoegt, gebruikt **u Een andere gebruiker toevoegen.**
 
-6. U kunt ook meerdere gebruikers tegelijk toevoegen door een Excel compatibele .csv [spreadsheetbestand te importeren.](adding-multiple-users-to-a-customer-account.md) U kunt wachten totdat u klaar bent met de hele set voordat u de namen en wachtwoorden via het bevestigingsscherm per e-mail kunt afdrukken.
+6. U kunt ook meerdere gebruikers tegelijk toevoegen door een Excel te importeren .csv [spreadsheetbestand](adding-multiple-users-to-a-customer-account.md). U kunt wachten totdat u klaar bent met de hele set voordat u de namen en wachtwoorden via het bevestigingsscherm per e-mail kunt afdrukken.
 
 #### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
@@ -62,7 +62,7 @@ U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-mult
 
 5. Als u meerdere gebruikers één voor één toevoegt, gebruikt **u Een andere gebruiker toevoegen.**
 
-6. U kunt ook meerdere gebruikers tegelijk toevoegen door een Excel compatibele .csv [spreadsheetbestand te importeren.](adding-multiple-users-to-a-customer-account.md) U kunt wachten totdat u klaar bent met de hele set voordat u de namen en wachtwoorden via het bevestigingsscherm per e-mail kunt afdrukken.
+6. U kunt ook meerdere gebruikers tegelijk toevoegen door een Excel te importeren .csv [spreadsheetbestand](adding-multiple-users-to-a-customer-account.md). U kunt wachten totdat u klaar bent met de hele set voordat u de namen en wachtwoorden via het bevestigingsscherm per e-mail kunt afdrukken.
 
 * * *
 
@@ -73,7 +73,7 @@ U kunt [abonnementen aan meerdere gebruikers](bulk-license-provisioning-for-mult
 De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebruikerslicenties voor Microsoft-producten. Zie Licenties voor een SaaS-abonnement toevoegen of verwijderen als u gebruikerslicenties wilt toevoegen of verwijderen voor [SaaS-abonnementen](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)op basis van licenties in de commerciële marketplace.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -86,7 +86,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 4. Selecteer **Licenties beheren**. Maak uw wijzigingen en klik vervolgens op **Opslaan.**
 
 > [!NOTE]
-> Voor [Azure Marketplace worden](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)licentietoewijzing en -activering beheerd via de Onafhankelijke softwareleverancier (ISV) die het product heeft gepubliceerd.
+> Voor [Azure Marketplace producten](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)worden licentietoewijzing en -activering beheerd via de Onafhankelijke softwareleverancier (ISV) die het product heeft gepubliceerd.
 
 #### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
@@ -99,7 +99,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 4. Selecteer **Licenties beheren**. Maak uw wijzigingen en klik vervolgens op **Opslaan.**
 
 > [!NOTE]
-> Voor [Azure Marketplace worden](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)licentietoewijzing en -activering beheerd via de Onafhankelijke softwareleverancier (ISV) die het product heeft gepubliceerd.
+> Voor [Azure Marketplace producten](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)worden licentietoewijzing en -activering beheerd via de Onafhankelijke softwareleverancier (ISV) die het product heeft gepubliceerd.
 
 * * *
 
@@ -108,7 +108,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 ## <a name="reset-a-users-password-for-a-customer"></a>Het wachtwoord van een gebruiker opnieuw instellen voor een klant
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -137,7 +137,7 @@ De volgende stappen zijn van toepassing op het toevoegen of verwijderen van gebr
 ## <a name="delete-user-accounts-for-a-customer"></a>Gebruikersaccounts voor een klant verwijderen
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -166,7 +166,7 @@ Als u dit account wilt herstellen, kunt u het vinden op het tabblad **Verwijderd
 ## <a name="restore-deleted-user-accounts"></a>Verwijderde gebruikersaccounts herstellen
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 

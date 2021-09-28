@@ -9,12 +9,12 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad938d03dca9008168fda6a7c5eebed9a0aa3f07
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 5e07298d406b586ad7f3747b1804b37c0cc2ac28
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075829"
+ms.locfileid: "129089467"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Gebruik indicatoren voor partnerbijdrage om de competentie Small and Midmarket Cloud Solutions te verkrijgen
 
@@ -184,11 +184,11 @@ Net customer adds is een [prestatie-indicator.](partner-contribution-indicators-
 
   **Voor meerdere partners, dezelfde klant, verschillende abonnementen:**
 
-  - Alle partners die aan de klant zijn gekoppeld, krijgen tegoed voor een nieuwe klant die is toegevoegd in de maand dat de klant wordt toegevoegd.
+  - Alle partners die aan de klant zijn gekoppeld, krijgen tegoed voor een nieuwe klant die wordt toegevoegd in de maand dat de klant wordt toegevoegd.
   
   - Volgende partners die zich via oude of nieuwe abonnementen aan dezelfde klant koppelen, krijgen geen nieuw klanttegoed voor die klant.
   
-  - Alle partners die aan de klant zijn gekoppeld, verliezen tegoed voor een nieuwe klant die is toe te voegen in de maand dat de klant verloren gaat.
+  - Alle partners die aan de klant zijn gekoppeld, verliezen tegoed voor een nieuwe klant-invoeging in de maand dat de klant verloren gaat.
   
   - Elke partner die vervolgens via oude of nieuwe abonnementen aan dezelfde klant is verbonden, krijgt een nieuw tegoed voor de klant.
   
@@ -200,7 +200,7 @@ Net customer adds is een [prestatie-indicator.](partner-contribution-indicators-
 
 Functionele consultants zijn een [mogelijkheidsindicator.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) De punten van deze indicator worden als volgt berekend voor deze competentie:
 
-- Functionele consultantindicatorpunten zijn gebaseerd op de momentopname van de huidige maand met een maximale omzet van 30 punten.
+- Functionele consultant-indicatorpunten zijn gebaseerd op de momentopname van de huidige maand met een maximale omzet van 30 punten.
 
 - Functionele consultants worden gedefinieerd als het aantal personen met een momenteel actieve Functioneel consultant Associate-certificering, zoals een Customer Engagement Functioneel consultant-certificering of een Certificering voor Finance and Operations Functioneel consultant.
 
@@ -216,7 +216,7 @@ Om Customer Engagement te Functioneel consultant certificering koppelen, moet ee
   **en** een van de volgende examens:
   - MB-210, MB-220, MB-230 of MB-240
 
-Om Finance and Operations-certificering Functioneel consultant koppelen, moet een persoon slagen voor deze examens:
+Als u Finance and Operations-Functioneel consultant certificering wilt koppelen, moet een persoon slagen voor deze examens:
 
   - MB-300<br/>
   **en** een van de volgende examens:
@@ -229,7 +229,7 @@ Om business central te Functioneel consultant certificering koppelen, moet een p
 
 Ontwikkelaars zijn een [mogelijkheidsindicator.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) De punten van deze indicator worden als volgt berekend voor deze competentie:
 
-- Ontwikkelaars worden gedefinieerd als het aantal personen met een momenteel actieve certificering voor Customer Engagement Developer Associate of een certificering voor Finance and Operations Developer Associate.
+- Ontwikkelaars worden gedefinieerd als het aantal personen met een momenteel actieve Certificering voor Customer Engagement Developer Associate of een certificering voor Finance and Operations Developer Associate.
 
 - Punten voor de ontwikkelaarsindicator zijn gebaseerd op de momentopname van de huidige maand met maximaal 5 punten beschikbaar.
 
@@ -260,19 +260,19 @@ Nieuwe implementaties zijn een indicator [voor klantsucces.](partner-contributio
 
 - Maandelijks actieve gebruikers worden aan het einde van elke maand berekend.
 
-- Partners worden gekoppeld aan tenants op abonnementsniveau. Abonnementen worden aan de volgende, in aanmerking komende producten toe te staan:
+- Partners worden gekoppeld aan tenants op abonnementsniveau. Abonnementen worden aan de volgende, in aanmerking komende producten in kaart gebracht:
   - Producten die in aanmerking komen voor Dynamics 365 Customer Engagement zijn onder andere: Verkoop, Marketing, Klantenservice, Field Service, Project-server, Plan 1, Automation, Marketing, Microsoft Relationship Sales
   - Producten die in aanmerking komen voor Finance and Operations zijn onder andere: Business Central, Capacity and Storage, Finance and Operations (inclusief fraudebeveiliging, bewerkingen, detailhandel, HR, plan 2), mixed reality, teamlid
 
 ### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>Definities voor PCI-#6: groei van maandelijks actieve gebruikers
 
-Maandelijks actieve gebruikersgroei is een [succesindicator voor klanten.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) De punten van deze indicator worden als volgt berekend voor deze competentie:
+Maandelijks actieve gebruikersgroei is een [succesindicator voor klanten.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) De punten van deze indicator worden als volgt voor deze competentie berekend:
 
 - Maandelijks actieve gebruikersgroei wordt gedefinieerd als de groei van maandelijks actieve gebruikers in het hele klantenbestand in de afgelopen 12 maanden.
 
-- Maandelijks actieve gebruikers worden geteld op abonnementsniveau en opgeteld over alle betaalde abonnementen die aan een partner zijn toegerekend.
+- Maandelijks actieve gebruikers worden geteld op abonnementsniveau en opgeteld voor alle betaalde abonnementen die zijn toegerekend aan een partner.
 
-- De maandelijks actieve gebruikersgroeiindicator vergelijkt de huidige maand met een basislijn van 12 maanden geleden. Er zijn 25 maximumpunten beschikbaar om toe te passen voor het bereiken van de competentie Gold of Silver Small en Midmarket Cloud Solutions via de cloud Business Applications SMB-optie.
+- De indicator voor maandelijks actieve gebruikersgroei vergelijkt de huidige maand met een basislijn van 12 maanden geleden. Er zijn maximaal 25 punten beschikbaar om toe te passen om de competentie Gold of Silver Small en Midmarket Cloud Solutions te bereiken via de cloud-Business Applications SMB-optie.
 
 - Maandelijks actieve gebruikers worden aan het einde van elke maand berekend.
 
@@ -282,20 +282,20 @@ Maandelijks actieve gebruikersgroei is een [succesindicator voor klanten.](partn
 
 ## <a name="how-to-access-partner-contribution-indicators"></a>Toegang tot partnerbijdrage-indicatoren
 
-In deze sectie wordt beschreven hoe u toegang krijgt tot de details van partnerbijdrage-indicatoren en de voortgang van de partner.
+In deze sectie wordt beschreven hoe u toegang krijgt tot de details van de partnerbijdrage-indicatoren en de voortgang van de partner.
 
 ### <a name="access-partner-contribution-indicators"></a>Access Partner Contribution Indicators
 
 Volg deze stappen om de tabel Partner Contribution Indicators weer te geven:
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
 1. Meld u aan bij het [dashboard](https://partner.microsoft.com/dashboard) van het Partnercentrum.
 
-2. Selecteer de **tegel Marketplace** en selecteer vervolgens **Competenties.**
+2. Selecteer de **tegel Marketplace** en selecteer vervolgens **Competenties**.
 
 3. Selecteer de **competentie Small and Midmarket Cloud Solutions,** gevolgd door de **optie Cloud Business Applications SMB.**
 

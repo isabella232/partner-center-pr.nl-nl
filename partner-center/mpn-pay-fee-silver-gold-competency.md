@@ -8,12 +8,12 @@ ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: e93f2fc198fae3e4cee663bd992c42feb0980bf7
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: c64eafb7b0b00eb840a472b01a9ad6c5bfa52fb8
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072919"
+ms.locfileid: "129088923"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>De kosten betalen die zijn gekoppeld aan een silver- of gold-competentie
 
@@ -22,11 +22,11 @@ ms.locfileid: "129072919"
 In dit artikel wordt beschreven hoe en wanneer u de kosten betaalt die zijn gekoppeld aan het verkrijgen van een silver- of gold Microsoft Partner Network competentie. In dit artikel wordt ook beschreven hoe u de betalingswijze van uw voorkeur wijzigt, hoe u een order annuleert en hoe u een korting van 25 procent ontvangt wanneer u overstapt van een silver-competentie naar een gold-competentie.
 
 > [!NOTE]
-> Zie Voor meer informatie over de voordelen van het verkrijgen van een silver- of gold-competentie, de specifieke competenties die beschikbaar zijn en hun unieke vereisten, Microsoft Partner Network [competenties.](https://partner.microsoft.com/membership/competencies) U kunt ook de Microsoft Partner Network [voor competenties](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) controleren voor meer informatie over de voordelen voor elke beschikbare competentie.
+> Zie voor meer informatie over de voordelen van het verkrijgen van een silver- of gold-competentie, de specifieke competenties die beschikbaar zijn en hun unieke vereisten, Microsoft Partner Network [competenties.](https://partner.microsoft.com/membership/competencies) U kunt ook de Microsoft Partner Network [voor](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) competenties controleren voor meer informatie over de voordelen voor elke beschikbare competentie.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Voldoen aan de vereisten van een competentie en de kosten betalen
 
-Als u al aan de vereisten voor het verkrijgen van een specifieke silver- of gold-competentie hebt voldaan (of als u al een silver- of gold-competentie hebt), kunt u snel de kosten van de competentie controleren. Selecteer het [tabblad compare-offers](https://partner.microsoft.com/membership/compare-offers) in het Partner Center.
+Als u al aan de vereisten voor het verkrijgen van een specifieke silver- of gold-competentie hebt voldaan (of als u al een silver- of gold-competentie hebt), kunt u snel de kosten van de competentie controleren. Selecteer gewoon het [tabblad compare-offers](https://partner.microsoft.com/membership/compare-offers) in de Partner Center.
 
 Anders volgt u deze stappen om de kosten voor een silver- of gold-competentie te betalen. Bij de stappen wordt ervan uitgenomen dat u aan de volgende vereisten hebt voldaan:
 
@@ -37,11 +37,11 @@ Anders volgt u deze stappen om de kosten voor een silver- of gold-competentie te
 - Aan u is de rol van Partner Center globale beheerder of [MPN-partnerbeheerder toegewezen.](./permissions-overview.md) Als u een gastgebruiker bent zonder een van deze rollen, wordt u de toegang geweigerd tot sommige van de Partner Center pagina's die hieronder worden beschreven. Als dit het geval is, neem dan contact op [met uw globale beheerder](./find-your-role.md) en vraag deze om u de juiste rol toe te wijzen.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 
-1. Meld u met de referenties voor het werkaccount van uw organisatie aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Meld u met behulp van de werkaccountreferenties van uw organisatie aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
 2. Selecteer de **tegel Lidmaatschap** en selecteer **Lidmaatschapsaanbiedingen.**
 
@@ -56,13 +56,13 @@ Anders volgt u deze stappen om de kosten voor een silver- of gold-competentie te
 
 5. Controleer en **bevestig uw gegevens** op de pagina Aankoopdetails.
 
-   (Meer informatie over het [bijwerken van de belasting-id-gegevens](./organization-tax-info.md) van uw bedrijf of de factuur van uw bedrijf [ **aan/Verkocht aan bedrijfsadres**](./mpn-get-action-pack.md).)
+   (Meer informatie over het [bijwerken van de belasting-id-gegevens](./organization-tax-info.md) van uw bedrijf of de factuur van uw bedrijf [ **naar/Verkocht aan** bedrijfsadres](./mpn-get-action-pack.md).)
 
 6. Zoek linksonder op de pagina de sectie **Uw betalingsvoorkeur selecteren.** Selecteer de optie **Creditcard of** Electronic **Bank Transfer** en selecteer vervolgens **Volgende.** Zie de volgende secties voor verdere stappen die aan beide opties zijn gekoppeld.
 
 #### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
-1. Meld u met de referenties voor het werkaccount van uw organisatie aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Meld u met behulp van de werkaccountreferenties van uw organisatie aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
 2. Selecteer [Lidmaatschapsaanbiedingen](https://partner.microsoft.com/dashboard/mpn/offers) in het navigatiemenu.
 
@@ -77,7 +77,7 @@ Anders volgt u deze stappen om de kosten voor een silver- of gold-competentie te
 
 5. Controleer en **bevestig uw gegevens** op de pagina Aankoopdetails.
 
-   (Meer informatie over het [bijwerken van de belasting-id-gegevens](./organization-tax-info.md) van uw bedrijf of de factuur van uw bedrijf [ **aan/Verkocht aan bedrijfsadres**](./mpn-get-action-pack.md).)
+   (Meer informatie over het [bijwerken van de belasting-id-gegevens](./organization-tax-info.md) van uw bedrijf of de factuur van uw bedrijf [ **naar/Verkocht aan** bedrijfsadres](./mpn-get-action-pack.md).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Lidmaatschap biedt de pagina met aankoopdetails met betalingsvoorkeuren." border="false":::
 
@@ -106,18 +106,18 @@ Zodra de creditcardgegevens zijn ontvangen en de transactie is voltooid, wordt u
 
 Volg deze stappen om uw elektronische bankoverdracht te voltooien voor een bijbehorend competentielidmaatschap van silver of gold.
 
-1. Als u **Electronic Bank Transfer hebt geselecteerd** als uw voorkeursmethode voor betaling, ziet u de pagina **Aankoopdetails** controleren.
+1. Als u **Bankoverboeking als** uw voorkeursmethode voor betaling hebt geselecteerd, ziet u de **pagina Aankoopdetails** controleren.
 
 2. Selecteer de **koppeling** overeenkomst onder aan deze pagina en bekijk de aankoopvoorwaarden voor mpn-aanbieding namens uw bedrijf. Deze overeenkomst biedt belangrijke informatie over uw factureringsrekening, verlenging, geschiktheid voor restitutie en belastingen.
 
-3. Controleer de details van de bankoverdracht die u nodig hebt. 
+3. Controleer de bankgegevens die u nodig hebt. 
 
 4. Noteer **in het gebied** Uw geselecteerde aankoop het bedrag dat wordt veroorzaakt door Microsoft en de specifieke valutakosten. U moet dat bedrag in die specifieke valuta overdragen van uw bankrekening.
 
 5. Wanneer u tevreden bent met alle informatie die u nodig hebt, selecteert u **Verzenden.**
 
    > [!NOTE]
-   > Uw **ordernummer en** **MPN-id** worden weergegeven zodra u **de order hebt** verzenden. Noteer deze informatie. U hebt deze later nodig om uw bankoverboeking te voltooien.
+   > Uw **ordernummer en** **MPN-id** worden weergegeven zodra u **de bestelling hebt** verzenden. Noteer deze informatie. U hebt deze later nodig om uw bankoverboeking te voltooien.
 
 6. U ziet een bevestigingspagina waarop wordt aangegeven dat uw inzending is geslaagd. Nadat u de overboeking met uw bank hebt voltooid, moet u terugkeren naar deze pagina om uw betalingsbewijs te uploaden.
 
@@ -135,9 +135,9 @@ Volg deze stappen om uw elektronische bankoverdracht te voltooien voor een bijbe
    - Het overdrachtsbedrag dat wordt weergegeven in de juiste valuta
    - Uw ordernummer en MPN-id-nummer
 
-9. Zie de volgende sectie voor stappen voor het uploaden van uw betalingsdocument over overboeking.
+9. Zie de volgende sectie voor de stappen voor het uploaden van uw betalingsdocument over overboeking.
 
-### <a name="upload-proof-of-wire-transfer-payment"></a>Upload bewijs van betaling via overboeking
+### <a name="upload-proof-of-wire-transfer-payment"></a>Upload van betaling via overboeking
 
 Als u uw silver- of gold-lidmaatschapskosten betaalt via elektronische overboeking, moet u een betalingsbewijs uploaden naar Partner Center. Volg deze stappen om dit te doen:
 
@@ -162,9 +162,9 @@ Als het betalingsproces niet volledig is voltooid binnen 30 dagen na de aanmaakd
 
 ## <a name="switch-from-electronic-bank-transfer-payment-to-credit-card-payment-method"></a>Overstappen van betaling via elektronische overboeking naar betalingswijze voor creditcard
 
-U kunt later besluiten om uw betalingswijzen te wijzigen voor de kosten die zijn gekoppeld aan een silver- of gold-competentielidmaatschap. U kunt bijvoorbeeld besluiten een creditcardbetaling te gebruiken in plaats van een digitale bankoverboeking. Of u hebt mogelijk al een niet-genactioneerde elektronische bankoverboekingsorder in het systeem gemaakt.
+U kunt later besluiten om uw betalingswijzen te wijzigen voor de kosten die zijn gekoppeld aan een silver- of gold-competentielidmaatschap. U kunt bijvoorbeeld besluiten om een creditcardbetaling te gebruiken in plaats van een elektronische bankoverboeking. Of u hebt mogelijk al een niet-genactioneerde elektronische bankoverboekingsorder in het systeem gemaakt.
 
-Als u uw betalingsvoorkeuren voor een bestaande bestelling wilt wijzigen, moet u eerst de bestelling annuleren en deze vervolgens opnieuw inkopen met behulp van de betalingswijze van uw voorkeur.
+Als u uw betalingsvoorkeuren voor een bestaande order wilt wijzigen, moet u eerst de bestelling annuleren en deze vervolgens opnieuw inkopen met behulp van de betalingswijze van uw voorkeur.
 
 Ga als volgt te werk om een bestaande, niet-genactioneerde elektronische bankoverboeking te annuleren en uw betalingsvoorkeuren te wijzigen:
 
@@ -191,9 +191,9 @@ Ga als volgt te werk om te zien waar uw korting van 25 procent wordt toegepast:
 
 2. Zoek onder Beschikbare aanbiedingen naar een gold-lidmaatschapstegel. Als u eerder een Silver-lidmaatschap hebt bereikt en betaald, wordt het gold-lidmaatschapsbedrag aangepast aan de korting van 25 procent.
 
-   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Aanbiedingen voor aangeschaft lidmaatschap tonen een goudkleurige tegelaanbieding met een korting van 25 procent op zilver tot goud." border="false":::
+   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Aanbiedingen voor aangeschaft lidmaatschap tonen een gold-tegelaanbieding met een silver-tot-gold-korting van 25 procent." border="false":::
 
-3. Selecteer **Abonneren** op de tegel Gold-lidmaatschap die de korting weerspiegelt. Op de pagina met aankoopdetails wordt ook de korting voor de geselecteerde aankoop weergegeven.
+3. Selecteer **Abonneren** op de tegel Gold-lidmaatschap die de korting weerspiegelt. Op de pagina met aankoopgegevens wordt ook de korting voor de geselecteerde aankoop weergegeven.
 
    :::image type="content" source="images/offers/10-mpn-competency-silver-to-gold-discount-2.png" alt-text="De pagina Details toont de aanbieding met een korting van 25 procent." border="false":::
 

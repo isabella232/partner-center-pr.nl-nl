@@ -1,6 +1,6 @@
 ---
 title: Coöperatieve claims beheren
-description: Informatie over het proces van claims voor samenwerking, waaronder deadlines, valutaproblemen en het betwisten van een afgewezen claim voor samenwerking.
+description: Informatie over het proces van claims voor samenwerking, waaronder deadlines, valutaproblemen en hoe u een afgewezen claim voor samenwerking kunt betwisten.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,14 +8,14 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/27/2021
-ms.openlocfilehash: 256183d80eea3ead7f94a8f798be75ae345db4e3
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 2e271d303f51548da1f63120275f5eb7532352c0
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075503"
+ms.locfileid: "129088430"
 ---
-# <a name="manage-incentives-co-op-claims"></a>Coöpclaims voor incentives beheren
+# <a name="manage-incentives-co-op-claims"></a>Co-op-claims voor incentives beheren
 
 **Juiste rollen:** Incentives-beheerder
 
@@ -25,7 +25,7 @@ De volgende inhoud bevat informatie over het beheren van claims voor samenwerkin
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>Wanneer wordt mijn claim voor samenwerking goedgekeurd?
 
-Claims voor samenwerking worden binnen twee werkdagen nadat ze zijn ingediend, beoordeeld. Zodra ze als geldig worden beschouwd, worden ze ingesteld op de status Goedgekeurd.  
+Claims voor samenwerking worden binnen twee werkdagen nadat ze zijn ingediend, beoordeeld. Zodra ze als geldig worden beschouwd, worden ze ingesteld op De status Goedgekeurd.  
 
 Hier volgen de verschillende mogelijke statussen voor uw claims voor samenwerking.
 
@@ -53,14 +53,14 @@ Elk incentive-programma heeft een bankprofiel dat is gemaakt tijdens de configur
 
 ## <a name="rejected-co-op-claims"></a>Geweigerde claims voor samenwerking
 
-Als het materiaal dat u hebt aangeleverd met uw claim voor samenwerking ontoereikend is, wordt de claim geweigerd. U kunt de redenen voor de afwijzing bekijken in het veld **Geschiedenis** van de pagina van de claim. Als u de afwijzing wilt betwisten, gebruikt u de volgende procedure:
+Als het materiaal dat u hebt aangeleverd met uw claim voor samenwerking ontoereikend is, wordt de claim geweigerd. U kunt de redenen voor de afwijzing bekijken in het veld **Geschiedenis** van de pagina van de claim. Gebruik de volgende procedure om de afwijzing te betwisten:
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>Een afgewezen claim voor samenwerking betwisten
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u deze [in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 
 1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/).
 

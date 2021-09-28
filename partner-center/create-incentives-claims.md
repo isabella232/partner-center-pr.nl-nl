@@ -9,21 +9,21 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6ebf01d4c5d5cbcd867d915a95cfc8bb5c2679a0
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 0e227cbdcb1aaf222baa5821acfe5ccd4cd8f089
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073919"
+ms.locfileid: "129089790"
 ---
-# <a name="create-and-manage-an-incentives-co-op-claim"></a>Een co-opclaim voor incentives maken en beheren
+# <a name="create-and-manage-an-incentives-co-op-claim"></a>Een co-op-claim voor incentives maken en beheren
 
 **Juiste rollen:** globale | Incentives-| Incentives-gebruiker
 
 U kunt een incentives-claim starten vanuit Partner Center.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 

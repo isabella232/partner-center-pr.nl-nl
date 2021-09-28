@@ -2,18 +2,18 @@
 title: Beschikbare coöperatieve fondsen weergeven
 ms.topic: article
 ms.date: 09/27/2021
-description: Meer informatie over het weergeven van uw verdiend, geclaimde en resterende co-op-bedrag, het weergeven van vervaldatums en het afstemmen van inconsistente bedragen.
+description: Meer informatie over het weergeven van uw verdiend, geclaimde en resterende samenwerkingsbedragen, het weergeven van vervaldatums en het afstemmen van inconsistente bedragen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: f66871639256484bfe7d1a2221acbf11313ac39b
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 90e074bc2b6d1485cdd868fdf66b4f509ca4d5a4
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074874"
+ms.locfileid: "129090130"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Beschikbare verdiend, geclaimde en resterende coöp-tegoeden weergeven
 
@@ -24,7 +24,7 @@ U kunt uw incentive co-op-bedrag bijhouden, bewaken en afstemmen in Partner Cent
 ## <a name="view-your-funds"></a>Uw geld weergeven
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -40,7 +40,7 @@ U kunt uw incentive co-op-bedrag bijhouden, bewaken en afstemmen in Partner Cent
 
 6. Als u alle claims wilt weergeven die zijn ingediend voor de geselecteerde periode, schuift u naar de onderkant van de pagina.
 
-Als u denkt dat er discrepanties zijn in de bedragen die in de samenvatting worden weergegeven, kunt u het transactierapport van de vorige periode downloaden. Dit rapport helpt u bij het bepalen van de hoeveelheid co-op-geld dat u hebt verdiend voor de geselecteerde gebruiksperiode. Zie Transactiegeschiedenis als u transactierapporten wilt downloaden of claims wilt valideren die zijn ingediend om ervoor te zorgen dat het resterende coöpbedrag [nauwkeurig is.](./payout-statement.md#transaction-history)
+Als u denkt dat er discrepanties zijn in de bedragen die in de samenvatting worden weergegeven, kunt u het transactierapport van de vorige periode downloaden. Dit rapport helpt u bij het bepalen van de hoeveelheid co-op-geld dat u hebt verdiend voor de geselecteerde gebruiksperiode. Zie Transactiegeschiedenis om transactierapporten te downloaden of claims te valideren die zijn ingediend om ervoor te zorgen dat het resterende coöpbedrag [nauwkeurig is.](./payout-statement.md#transaction-history)
 
 #### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
@@ -56,17 +56,17 @@ Als u denkt dat er discrepanties zijn in de bedragen die in de samenvatting word
 
 6. Als u alle claims wilt weergeven die zijn ingediend voor de geselecteerde periode, schuift u naar de onderkant van de pagina.
 
-Als u denkt dat er discrepanties zijn in de bedragen die in de samenvatting worden weergegeven, kunt u het transactierapport van de vorige periode downloaden. Dit rapport helpt u bij het bepalen van de hoeveelheid co-op-geld dat u hebt verdiend voor de geselecteerde gebruiksperiode. Zie Transactiegeschiedenis als u transactierapporten wilt downloaden of claims wilt valideren die zijn ingediend om ervoor te zorgen dat het resterende coöpbedrag [nauwkeurig is.](./payout-statement.md#transaction-history)
+Als u denkt dat er discrepanties zijn in de bedragen die in de samenvatting worden weergegeven, kunt u het transactierapport van de vorige periode downloaden. Dit rapport helpt u bij het bepalen van de hoeveelheid co-op-geld dat u hebt verdiend voor de geselecteerde gebruiksperiode. Zie Transactiegeschiedenis om transactierapporten te downloaden of claims te valideren die zijn ingediend om ervoor te zorgen dat het resterende coöpbedrag [nauwkeurig is.](./payout-statement.md#transaction-history)
 
 * * *
 
 ## <a name="view-estimated-earnings-during-the-current-period"></a>Geschatte inkomsten weergeven tijdens de huidige periode
-Co-op-inkomsten voor de huidige inkomstenperiode zijn pas zichtbaar in de weergave Co-op-beheer na het begin van de claimperiode voor de huidige inkomstenperiode. Gebruik de volgende procedure om uw geschatte co-op-inkomsten voor de huidige inkomstenperiode te bekijken:
+Co-op-inkomsten voor de huidige inkomstenperiode zijn pas zichtbaar in de weergave Co-op-beheer na het begin van de claimperiode voor de huidige inkomstenperiode. Gebruik de volgende procedure om uw geschatte coöp-inkomsten voor de huidige inkomstenperiode te bekijken:
 
 ### <a name="view-your-estimated-co-op-earnings-for-the-current-earning-period"></a>Uw geschatte co-op-inkomsten voor de huidige inkomstenperiode weergeven
 
 1. Selecteer op **de pagina Transactiegeschiedenis** de datums voor de huidige inkomstenperiode.
-2. Selecteer onder **het filter Inkomstentype** **de optie Co-op.** Uw inkomsten worden weergegeven.
+2. Selecteer co-op **onder** het filter **Inkomstentype.** Uw inkomsten worden weergegeven.
 3. Selecteer **Downloaden om** deze gegevens te downloaden.
 
 ### <a name="co-op-threshold"></a>Drempelwaarde voor samenwerking

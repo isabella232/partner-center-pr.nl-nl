@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f74e98cd187b6b2e3099c5649511bdccbd6a432f
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: a76190a4bbea62a3b8da11b165e148b8fc2a9551
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072496"
+ms.locfileid: "129089190"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Upload een .csv gebruikersbestand toevoegen aan het account van een klant
 
@@ -25,7 +25,7 @@ Voeg meerdere gebruikers tegelijk toe aan het account van een klant door een geg
 ## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Het bestand van klantgebruikers maken en uploaden naar het klantaccount
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -39,13 +39,13 @@ Voeg meerdere gebruikers tegelijk toe aan het account van een klant door een geg
 
 5. Selecteer **Upload gebruikersgegevens.** 
 
-6. Selecteer uw gegevensbestand in de bestands selector en selecteer **vervolgens Openen.**
+6. Selecteer in de bestands selector uw gegevensbestand en selecteer vervolgens **Openen.**
 
 7. Selecteer **Valideren**.
 
     De meeste fouten bij het maken van een account worden veroorzaakt door problemen met gegevensbestanden, waaronder ontbrekende gegevens, onjuist vormgevormde of gedupliceerde e-mailadressen of te veel records in het bestand.
 
-8. Nadat het Partner Center bestand hebt gevalideerd, selecteert u de geografische **locatie** voor de nieuwe gebruikers.
+8. Nadat het Partner Center bestand is gevalideerd, selecteert u de geografische **locatie** voor de nieuwe gebruikers.
 
 9. Selecteer **Opslaan**.
 
@@ -68,13 +68,13 @@ Voeg meerdere gebruikers tegelijk toe aan het account van een klant door een geg
 
 5. Selecteer **Upload gebruikersgegevens.** 
 
-6. Selecteer uw gegevensbestand in de bestands selector en selecteer **vervolgens Openen.**
+6. Selecteer in de bestands selector uw gegevensbestand en selecteer vervolgens **Openen.**
 
 7. Selecteer **Valideren**.
 
     De meeste fouten bij het maken van een account worden veroorzaakt door problemen met gegevensbestanden, waaronder ontbrekende gegevens, onjuist vormgevormde of gedupliceerde e-mailadressen of te veel records in het bestand.
 
-8. Nadat het Partner Center bestand hebt gevalideerd, selecteert u de geografische **locatie** voor de nieuwe gebruikers.
+8. Nadat het Partner Center bestand is gevalideerd, selecteert u de geografische **locatie** voor de nieuwe gebruikers.
 
 9. Selecteer **Opslaan**.
 

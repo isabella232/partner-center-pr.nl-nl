@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 986022da183b4d7a2e31b700b1dcfca34de64f98
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 9d9c33d2f30b4a1c3be96336686ff8ac88baf4f9
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070836"
+ms.locfileid: "129088566"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Kansen voor co-verkoop beheren in Partner Center
 
@@ -42,7 +42,7 @@ Een of meer microsoft-verkoopmedewerkers zijn actief betrokken bij de deal om ee
 ## <a name="access-the-co-sell-section"></a>Toegang tot de sectie Co-sell
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view/)
 
@@ -89,7 +89,7 @@ Als u een verkoopkans wilt Partner Center, klikt u op de knop **Nieuwe** deal op
 
 Selecteer de klant voor een specifieke deal. Voer de locatie in en begin met het typen van de naam. In het suggestiesvak worden aanbevelingen weergegeven op basis van de zoekcriteria. Omdat veel bedrijven meer dan één bedrijfsentiteit op dezelfde locatie hebben, ziet u mogelijk meerdere resultaten. Als u niet zeker weet welke u moet kiezen, kunt u controleren welk D-U-N-S-nummer bij uw klant hoort. Zorg ervoor dat u de exacte overeenkomst selecteert voor de klant met wie u werkt.
 
-Wanneer u op **De klant selecteren** klikt, wordt u gevraagd de naam, het telefoonnummer en het e-mailadres in te voeren voor de persoon die het belangrijkste contactpunt voor deze deal is. Deze details zijn optioneel en zijn alleen vereist als u van plan bent Microsoft Sales uit te nodigen om u te helpen bij de betrokkenheid. Selecteer **Next**.
+Wanneer u op **De klant selecteren** klikt, wordt u gevraagd de naam, het telefoonnummer en het e-mailadres in te voeren voor de persoon die het belangrijkste contactpunt voor deze deal is. Deze details zijn optioneel en zijn alleen vereist als u microsoft-verkoop wilt uitnodigen om u te helpen bij de betrokkenheid. Selecteer **Next**.
 
 > [!IMPORTANT]
 > Zorg ervoor dat u de toestemming van de klant hebt verkregen om de contactgegevens voor de deal aan Microsoft door te geven. Microsoft kan deze informatie gebruiken om rechtstreeks contact op te nemen met de klant.
@@ -188,44 +188,44 @@ Hieronder vindt u de tabel met de verkoopfasen en de bijbehorende percentages vo
 |:----|:-----|:-----|
 |Gemaakt|10%|Een uitgaande deal maken.|
 |Geaccepteerd|10%|Een binnenkomende deal accepteren.|
-|Gekwalificeerd|20%|De waarde van de deal en de klantvereisten kwalificeren voordat u verdergaat.|
+|Gekwalificeerd|20%|De waarde van de deal en de vereisten van de klant kwalificeren voordat u verdergaat.|
 |Ontwikkeld|40%|De deal verder ontwikkelen om inzicht te krijgen in de gedetailleerde vereisten voor het voorbereiden van een POC of andere artefacten die vereist zijn voor een formeel voorstel.|
 |Voorgesteld|60%|Een formeel voorstel doen aan de klant op basis van hun vereisten.|
-|Onderhandeld|80%|Onderhandelen over de definitieve voorwaarden op basis van het voorstel om bij de eindtoestand te komen: winst of verlies van de deal.|
+|Onderhandeld|80%|Onderhandelen over de uiteindelijke voorwaarden op basis van het voorstel om bij de eindtoestand te komen: winst of verlies van de deal.|
 |Won|100%|De deal markeren als gewonnen.|
 
-Wanneer u klaar bent, kunt u een van de twee acties uitvoeren, die de deal markeren als **Gewonnen** of Verloren om **het** resultaat te rapporteren.
+Wanneer u klaar bent, kunt u een van de twee acties uitvoeren, die de deal markeren als **Gewonnen** of **Verloren** om het resultaat te rapporteren.
 
-Het is niet nodig dat uw bedrijf dezelfde verkoopfasen volgt. Dit is hoe Partner Center verkoopfasen van deal herkent en de fasen van uw bedrijf automatisch toekent aan deze standaardfasen als u deze waarden door geeft met behulp van de API. Als u de Partner Center UX gebruikt, worden de percentages zoals weergegeven in de tabel gebruikt om de verkoopfasen te markeren.
+Het is niet nodig dat uw bedrijf dezelfde verkoopfasen volgt. Dit is hoe Partner Center verkoopfasen van deal herkent en automatisch de fasen van uw bedrijf aan deze standaardfasen toekent als u deze waarden door geeft met behulp van de API. Als u de Partner Center UX gebruikt, worden de percentages zoals weergegeven in de tabel gebruikt om de verkoopfasen te markeren.
 
 > [!NOTE]
-> Voor bepaalde in aanmerking komende oplossingen wordt u, nadat u Gewonnen hebt geselecteerd, gevraagd om aanvullende informatie op te geven om uw deal te registreren. Microsoft bekijkt de informatie die u hier op geeft en kan tijdens het beoordelingsproces om aanvullende informatie vragen. Zie Uw deals registreren [voor meer informatie.](register-deals.md)
+> Voor bepaalde in aanmerking komende oplossingen wordt u, nadat u Gewonnen hebt geselecteerd, gevraagd om aanvullende informatie op te geven om uw deal te registreren. Microsoft beoordeelt de informatie die u hier op geeft en kan tijdens het beoordelingsproces om aanvullende informatie vragen. Zie Uw deals registreren [voor meer informatie.](register-deals.md)
 >
-> Als de deal in aanmerking komt voor dealregistratie, moet u ervoor zorgen dat er een hiaat van 72 uur is tussen het maken van de deal en de deal die als gewonnen wordt gemarkeerd. Het sluiten van de deal zoals eerder is gewonnen, kan ertoe leiden dat dealregistraties worden afgewezen.
+> Als de deal in aanmerking komt voor dealregistratie, zorg er dan voor dat er een hiaat van 72 uur is tussen het maken van de deal en de deal die als gewonnen wordt gemarkeerd. Het sluiten van de deal zoals eerder is gewonnen, kan ertoe leiden dat dealregistraties worden afgewezen.
 
 Een deal komt alleen in aanmerking voor dealregistratie als deze voldoet aan alle onderstaande criteria.
 
 - Het type deal is co-sell of partner-led.
 - De dealwaarde is groter dan of gelijk aan USD 25.000. De valutaconversie is gebaseerd op de maandelijkse wisselkoersen die zijn gepubliceerd door Exchanges.
-- Het klantaccount dat voor de deal is geselecteerd, wordt beheerd door Microsoft. Dit zijn accounts waarbij het Microsoft-verkoopteam een bestaande relatie met het bedrijf heeft.
+- Het klantaccount dat voor de deal is geselecteerd, wordt beheerd door Microsoft. Dit zijn accounts waarbij het verkoopteam van Microsoft een bestaande relatie met het bedrijf heeft.
 - Er is een oplossing die in aanmerking komt voor een incentive in de deal.
-- De status van de deal is gewonnen.
-- Als het type deal co-sell is, heeft Microsoft de uitnodiging geaccepteerd of de deal gemarkeerd als gewonnen. U kunt de Microsoft-status begrijpen door te kijken naar de Microsoft-kaart onder de details van uw deal.
+- De status van de deal wordt gewonnen.
+- Als het type deal co-sell is, heeft Microsoft de uitnodiging geaccepteerd of de deal gemarkeerd als gewonnen. U kunt de Status van Microsoft begrijpen door te kijken naar de Microsoft-kaart onder de details van uw deal.
 
 > [!IMPORTANT]
-> Registreer de deal alleen als de naam van uw bedrijf en de oplossing die in aanmerking komt voor een incentive in de deal duidelijk worden vermeld in het contract met de klant.
+> Registreer de deal alleen als de bedrijfsnaam en de oplossing die in aanmerking komt voor een incentive in de deal duidelijk worden vermeld in het contract met de klant.
 
 Als de deal in aanmerking komt voor dealregistratie, wordt er een andere mijlpaal toegevoegd aan de levenscyclus van de deal met de naam 'Dealregistratie', zoals hieronder wordt weergegeven.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Afbeelding van de levenscyclus van de deal, de locatie van waaruit de dealregistratie kan worden gestart.":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Afbeelding van de levenscyclus van de deal, de locatie van waaruit de registratie van de deal kan worden gestart.":::
 
-U kunt ervoor kiezen om de deal onmiddellijk te registreren nadat u de deal hebt gekozen als gewonnen of op een later tijdstip via de knop Nu registreren voor de levenscyclus van **de** deal.
-Zodra de deal is geregistreerd, kunt u de voortgang van de dealvalidatie vanuit dezelfde levenscyclus bekijken. Als er actie van uw bedrijf is vereist, worden de juiste fouten weergegeven in de weergave levenscyclus van de deal. De deal wordt gesloten wanneer de dealvalidatie is voltooid.
+U kunt ervoor kiezen om de deal onmiddellijk te registreren nadat u de  deal als gewonnen hebt geregistreerd of op een later tijdstip via de knop Nu registreren in de levenscyclus van de deal.
+Zodra de deal is geregistreerd, kunt u de voortgang van de dealvalidatie vanuit dezelfde levenscyclus bekijken. Als er actie van uw bedrijf is vereist, worden de juiste fouten weergegeven in de levenscyclusweergave van de deal. De deal wordt gesloten wanneer de dealvalidatie is voltooid.
 
 > [!IMPORTANT]
 > Zowel de dealbeoordeling als de definitieve validatiestatus zijn alleen van toepassing op de IP-deals voor co-verkoop.
 
-Voor bepaalde in aanmerking komende oplossingen wordt u, nadat u **Gewonnen** hebt geselecteerd, gevraagd om aanvullende informatie op te geven om uw deal te registreren. Microsoft bekijkt de informatie die u hier op geeft en kan tijdens het beoordelingsproces om aanvullende informatie vragen. Zie Uw deals registreren [voor meer informatie.](register-deals.md)
+Voor bepaalde in aanmerking komende oplossingen wordt u, nadat u **Gewonnen hebt** geselecteerd, gevraagd om aanvullende informatie op te geven om uw deal te registreren. Microsoft beoordeelt de informatie die u hier op geeft en kan tijdens het beoordelingsproces om aanvullende informatie vragen. Zie Uw deals registreren [voor meer informatie.](register-deals.md)
 
 ### <a name="closed-stage"></a>Gesloten fase
 
@@ -235,13 +235,13 @@ Dit is de laatste fase voor alle verkoopkansen. U kunt alle deals bekijken die i
 
 ### <a name="can-a-deal-be-edited-after-its-marked-as-won-or-lost"></a>Kan een deal worden bewerkt nadat deze is gemarkeerd als gewonnen of verloren?
 
-Deals kunnen niet worden gewijzigd zodra ze een terminale status krijgen. Verlopen, weigeren, gewonnen en verloren zijn terminale staten waarin er geen verdere updates mogelijk zijn voor de deal. Wees voorzichtig wanneer u de deal naar een van deze terminale staten verplaatst.
+Deals kunnen niet worden gewijzigd wanneer ze een terminale status krijgen. Verlopen, weigeren, gewonnen en verloren zijn terminale staten waarin geen verdere updates mogelijk zijn voor de deal. Wees voorzichtig wanneer u de deal naar een van deze terminale staten verplaatst.
 
 ### <a name="who-gets-an-email-notification-from-partner-center"></a>Wie een e-mailmelding ontvangen van Partner Center?
 
-In de onderstaande werkstroom wordt uitgelegd hoe de e-mailberichten worden verzonden naar de partners vanuit het Partner Center voor nieuwe inkomende verwijzingen van partners.
+In de onderstaande werkstroom wordt uitgelegd hoe de e-mailberichten worden verzonden naar de partners vanuit het Partner Center verwijzingssysteem voor inkomende verwijzingen van nieuwe partners.
 
-:::image type="content" source="images/referrals/noti-workflow.png" alt-text="Afbeelding met de logica van hoe e-mailberichten worden verzonden naar partners voor nieuwe binnenkomende verwijzingen.":::
+:::image type="content" source="images/referrals/noti-workflow.png" alt-text="Afbeelding met de logica van hoe e-mailberichten naar partners worden verzonden voor nieuwe binnenkomende verwijzingen.":::
 
 ### <a name="what-type-of-incentives-are-eligible-for-deal-registration"></a>Welk type incentives komen in aanmerking voor dealregistratie?
 
@@ -253,11 +253,11 @@ Alleen IP-incentives komen in aanmerking voor dealregistratie. Dit zijn onder an
 
 ## <a name="get-more-co-sell-opportunities"></a>Meer mogelijkheden voor co-verkoop
 
-Hier vindt u tips om meer mogelijkheden voor co-verkoop te krijgen die geschikt zijn voor uw bedrijf:
+Hier vindt u enkele tips om meer mogelijkheden voor co-verkoop te krijgen die geschikt zijn voor uw bedrijf:
 
-- **Snel reageren op deals.** Wanneer u tijdig op binnenkomende aanvragen reageert, vergroten we uw zichtbaarheid in toekomstige partnerzoekresultaten stapsgewijs. Zorg ervoor dat uw team snel reageert met uw intentie.
+- **Snel reageren op deals.** Wanneer u tijdig op binnenkomende aanvragen reageert, vergroten we uw zichtbaarheid in toekomstige zoekresultaten van partners progressief. Zorg ervoor dat uw team snel reageert met uw intentie.
 - **Wees choosie met de deals die u accepteert.** We controleren de typen deals die u accepteert en weigert en gebruiken deze informatie om u te helpen vergelijkbare deals te vinden. Het accepteren van deals die niet geschikt zijn, verbetert uw zoekresultaten niet en kan van invloed zijn op de kwaliteit van de kansen die u ontvangt.
-- **Rapporteer de geschatte dealgrootten, sluitingsdatums** en de definitieve status van uw deals (gewonnen of verloren). We gebruiken deze informatie om u kwaliteitsverwijzingen te blijven bieden.
+- **Rapporteer de geschatte dealgrootten, einddatums** en de uiteindelijke status van uw deals (gewonnen of verloren). We gebruiken deze informatie om u kwaliteitsverwijzingen te blijven bieden.
 
 ## <a name="next-steps"></a>Volgende stappen
 
@@ -265,4 +265,4 @@ Hier vindt u tips om meer mogelijkheden voor co-verkoop te krijgen die geschikt 
 
 - [De connector voor co-verkoop voor Dynamics 365 CRM kopen](connector-dynamics.md)
 
-- [De connector voor co-sell voor Salesforce CRM kopen](connector-salesforce.md)
+- [De connector voor co-verkoop voor Salesforce CRM op halen](connector-salesforce.md)

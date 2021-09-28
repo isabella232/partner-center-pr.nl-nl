@@ -8,12 +8,12 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/27/2021
-ms.openlocfilehash: ffb8ba5d56a75c585e5caad1212943c90d39b161
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: d93cb3e6c44cf14c37985ac81b97d1ad6204a147
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071902"
+ms.locfileid: "129089858"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution"></a>Documenten maken en verzenden voor de uitvoering van uw incentives
 
@@ -24,7 +24,7 @@ Voordat u wordt betaald voor uw incentives-werk, moet u een gedetailleerd bewijs
 ## <a name="how-to-submit-a-proof-of-execution"></a>Een bewijs van uitvoering indienen
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u deze [in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -105,7 +105,7 @@ Voordat u wordt betaald voor uw incentives-werk, moet u een gedetailleerd bewijs
 ## <a name="view-the-status-of-a-proof-of-execution"></a>De status van een bewijs van uitvoering weergeven
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u deze [in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 

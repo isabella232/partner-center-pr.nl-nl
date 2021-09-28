@@ -4,34 +4,34 @@ ms.topic: how-to
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Als u in Partner Center wilt werken, moet u eerst het eigendom van uw domein verifiëren. Meer informatie over hoe u dit doet en hoe u een globale beheerder wordt die gebruikers kan toevoegen.
+description: Als u in Partner Center wilt werken, moet u eerst het eigendom van uw domein controleren. Meer informatie over hoe u dit doet en hoe u een globale beheerder wordt die gebruikers kan toevoegen.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a54678e19547d73ae6f0acb0e781bb9693cf0608
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: f82d1c6828d357bd9dc5dc9475c757b06593e66e
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074108"
+ms.locfileid: "129088821"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Het eigendom van het domein controleren om een globale beheerder te worden (Engelstalig)
 
-**Juiste rollen:** globale | Accountbeheerder
+**Juiste rollen:** Globale | Accountbeheerder
 
 Als u in Partner Center wilt werken, moet u eerst het eigendom van uw domein verifiëren en een globale beheerder voor uw bedrijf worden. Bovendien zijn aan uw werknemers niet de rollen toegewezen die nodig zijn om aan de slag te gaan.  Als u in de Partner Center moet iedereen een rol hebben die machtigingen bevat.
 
-## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Verifieer uw domeineigendom om een globale beheerder te worden in Partner Center
+## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Controleer of uw domeineigendom een globale beheerder wordt in Partner Center
 
 Als u een globale beheerder voor uw bedrijf wilt worden, moet u het eigendom van het domein verifiëren.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
-1. Meld u aan bij [Partner Center dashboard](https://partner.microsoft.com/dashboard) en selecteer de **tegel** Lidmaatschap. Selecteer vervolgens **Globale beheerder worden.**
+1. Meld u aan bij [Partner Center dashboard](https://partner.microsoft.com/dashboard) en selecteer **de** tegel Lidmaatschap. Selecteer vervolgens Globale **beheerder worden.**
 
 2. Selecteer **Een globale beheerder worden.**
 
@@ -47,8 +47,8 @@ Als u een globale beheerder voor uw bedrijf wilt worden, moet u het eigendom van
 
 Als u het eigendom van uw domein verifieert, wordt u ook een globale beheerder. Enkele van de machtigingen die bij de globale beheerdersrol worden gebruikt, zijn:
 
-- Heeft toegang tot alle Microsoft-account/services met volledige bevoegdheden
-- Ondersteuningstickets maken voor de Partner Center
+- Toegang tot alle Microsoft-account/services met volledige bevoegdheden
+- Ondersteuningstickets voor de Partner Center
 - Overeenkomsten, prijslijsten en aanbiedingen weergeven
 - Billing
 - Partnergebruikers weergeven, maken en beheren
@@ -58,7 +58,7 @@ Als u het eigendom van uw domein verifieert, wordt u ook een globale beheerder. 
 
 1. Selecteer op Partner Center dashboard op de pagina **Lidmaatschapsaanbiedingen** de optie **Globale beheerder worden.**
 
-2. Kopieer op **de pagina Domeineigendom** verifiëren de TXT-waarden uit de tabel. U ziet dat uw domein al voor u is geselecteerd.
+2. Kopieer op **de pagina Eigendom van domein** verifiëren de TXT-waarden uit de tabel. U ziet dat uw domein al voor u is geselecteerd.
 
 3. Meld u aan bij uw domein.
 
@@ -70,8 +70,8 @@ Als u het eigendom van uw domein verifieert, wordt u ook een globale beheerder. 
 
 Als u het eigendom van uw domein verifieert, wordt u ook een globale beheerder. Enkele van de machtigingen die bij de globale beheerdersrol worden gebruikt, zijn:
 
-- Heeft toegang tot alle Microsoft-account/services met volledige bevoegdheden
-- Ondersteuningstickets maken voor de Partner Center
+- Toegang tot alle Microsoft-account/services met volledige bevoegdheden
+- Ondersteuningstickets voor de Partner Center
 - Overeenkomsten, prijslijsten en aanbiedingen weergeven
 - Billing
 - Partnergebruikers weergeven, maken en beheren

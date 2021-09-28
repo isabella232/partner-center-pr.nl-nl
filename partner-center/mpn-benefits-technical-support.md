@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/27/2021
-ms.openlocfilehash: cfe35e6e1ae9f277150cfb21ba69d0fa35210123
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: d4f238233ba63912546122fdeb5cd0f0b98249cc
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072879"
+ms.locfileid: "129088532"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Technische ondersteuning voor on-premises of cloudproducten
 
@@ -32,7 +32,7 @@ Op [de pagina Technische](https://partner.microsoft.com/dashboard/mpn/membership
 
 2. Technical Presales and Deployment Services (TPD) - [meer informatie](technical-benefits.md)
 
-Dit artikel is bedoeld voor leden van de Microsoft Partner Network (MPN) die willen weten hoe ze hun technische voordelen activeren, toegangs-id en contract-id kunnen bekijken, weten welke producten en versies worden ondersteund en hoe ze een proces kunnen starten om een incident/ticket voor technische ondersteuning te maken met mpn-partnervoordelen
+Dit artikel is bedoeld voor leden van de Microsoft Partner Network (MPN) die willen weten hoe ze hun technische voordelen activeren, toegangs-id en contract-id kunnen bekijken, weten welke producten en versies worden ondersteund en hoe ze een proces kunnen starten voor het maken van een incident/ticket voor technische ondersteuning met mpn-partnervoordelen
 
 ### <a name="steps"></a>Stappen
 
@@ -49,16 +49,16 @@ Dit artikel is bedoeld voor leden van de Microsoft Partner Network (MPN) die wil
 Uw technische voordelen weergeven of activeren in Partner Center:
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
-1. Meld u aan met uw MPN-account bij het Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Meld u aan met uw MPN-account in het Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
    > [!NOTE]
    > Als uw account alleen is gekoppeld aan CSP en niet is gekoppeld aan MPN, ziet u het foutbericht 'U bent niet gemachtigd voor deze actie'. U moet een MPN-account hebben.
 
-2. Selecteer de **tegel** Voordelen en selecteer vervolgens **Technische voordelen.** Op de pagina Technische voordelen worden de actieve Gold-, Silver- of Microsoft Action Pack-lidmaatschapsaanbiedingen van uw organisatie weergegeven.
+2. Selecteer de **tegel** Voordelen en selecteer vervolgens **Technische voordelen.** Op de pagina Technische voordelen worden actieve Gold-, Silver- of Microsoft Action Pack-lidmaatschapsaanbiedingen van uw organisatie weergegeven.
 
    > [!NOTE]
    > Als u geen actieve lidmaatschapsaanbiedingen hebt, ziet u het bericht 'Het lijkt erop dat u nog geen voordelen hebt'. Als uw bedrijf actieve lidmaatschapsaanbiedingen heeft, maar u deze niet kunt zien, hebt u zich aangemeld met het verkeerde account. Als u uw account wilt controleren, selecteert u het **pictogram Account** rechtsboven op de pagina en selecteert u Aanmelden met een ander **account** (indien nodig).
@@ -78,12 +78,12 @@ Uw technische voordelen weergeven of activeren in Partner Center:
 
 #### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
-1. Meld u aan met uw MPN-account bij het Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Meld u aan met uw MPN-account in het Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
    > [!NOTE]
    > Als uw account alleen is gekoppeld aan CSP en niet is gekoppeld aan MPN, ziet u het foutbericht 'U bent niet gemachtigd voor deze actie'. U moet een MPN-account hebben.
 
-2. Vouw **Voordelen uit** in het linkernavigatiemenu en selecteer Technische [**voordelen.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Op de pagina Technische voordelen worden de actieve Gold-, Silver- of Microsoft Action Pack-lidmaatschapsaanbiedingen van uw organisatie weergegeven.
+2. Vouw **Voordelen uit** in het linkernavigatiemenu en selecteer Technische [**voordelen.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Op de pagina Technische voordelen worden actieve Gold-, Silver- of Microsoft Action Pack-lidmaatschapsaanbiedingen van uw organisatie weergegeven.
 
    > [!NOTE]
    > Als u geen actieve lidmaatschapsaanbiedingen hebt, ziet u het bericht 'Het lijkt erop dat u nog geen voordelen hebt'. Als uw bedrijf actieve lidmaatschapsaanbiedingen heeft, maar u deze niet kunt zien, hebt u zich aangemeld met het verkeerde account. Als u uw account wilt controleren, selecteert u het **pictogram Account** rechtsboven op de pagina en selecteert u Aanmelden met een ander **account** (indien nodig).

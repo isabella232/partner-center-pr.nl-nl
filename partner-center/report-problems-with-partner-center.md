@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee4272003216e16813fabde5dae76d60ec515308
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 5532be819ba5da8bcd4a96e04e7f71d724470e07
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075725"
+ms.locfileid: "129090215"
 ---
 # <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Diagnostische gegevens verzamelen en problemen rapporteren in Partner Center
 
@@ -28,7 +28,7 @@ Neem contact Partner Center ondersteuning als u problemen hebt of hulp nodig heb
 ## <a name="report-a-problem-with-the-partner-center"></a>Een probleem met de Partner Center
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -89,7 +89,7 @@ Met het plannen van afspraken kunt u een afspraak plannen met de advocate die aa
 
 6. U ontvangt een e-mail van Partner Center Afspraken. Open de bestandsbijlage .ics om de afspraak toe te voegen aan uw agenda. Er kunnen ook herinneringsmails naar u worden verzonden.
 
-7. Als u uw afspraak wilt wijzigen, gaat u terug naar de pagina met ticketdetails in Partner Center selecteert u **Deze afspraak opnieuw** plannen of Deze afspraak **annuleren.** 
+7. Als u uw afspraak wilt wijzigen, gaat u terug naar de pagina met ticketdetails in Partner Center selecteert u Deze afspraak **opnieuw** plannen of **Deze afspraak annuleren.** 
 
     > [!NOTE]
     > Plan een ondersteuningsafspraak in preview:
@@ -100,7 +100,7 @@ Met het plannen van afspraken kunt u een afspraak plannen met de advocate die aa
 
 #### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
-1. Klik [Partner Center Help en](https://partner.microsoft.com/dashboard/support/servicerequests)ondersteuning op uw open aanvraag om ticketgegevens weer te geven. Selecteer in Een ondersteuningsafspraak plannen **(preview)** een beschikbare datum en tijd. De beschikbare afspraaktijden zijn gebaseerd op de agendabeschikbaarheid van de Support Advocate en worden weergegeven in uw lokale tijdzone.
+1. Klik [Partner Center help en](https://partner.microsoft.com/dashboard/support/servicerequests)ondersteuning op uw open aanvraag om ticketgegevens weer te geven. Selecteer in Een ondersteuningsafspraak plannen **(preview)** een beschikbare datum en tijd. De beschikbare afspraaktijden zijn gebaseerd op de agendabeschikbaarheid van de Support Advocate en worden weergegeven in uw lokale tijdzone.
 
 :::image type="content" source="images/support/ticket.png" alt-text="Een ondersteuningsafspraak plannen.":::
 
@@ -114,7 +114,7 @@ Met het plannen van afspraken kunt u een afspraak plannen met de advocate die aa
 
 4.  U ontvangt een e-mail van Partner Center Afspraken. Open de bestandsbijlage .ics om de afspraak toe te voegen aan uw agenda. Er kunnen ook herinneringsmails naar u worden verzonden.
 
-5.  Als u uw afspraak wilt wijzigen, gaat u terug naar de pagina met ticketdetails in Partner Center selecteert u **Deze afspraak opnieuw** plannen of Deze afspraak **annuleren.**
+5.  Als u uw afspraak wilt wijzigen, gaat u terug naar de pagina met ticketdetails in Partner Center selecteert u Deze afspraak **opnieuw** plannen of **Deze afspraak annuleren.**
 
 Plan een ondersteuningsafspraak in preview:
 - In de bevestigings- en herinneringsmails van de vergadering wordt de afspraaktijd mogelijk weergegeven in een andere tijdzone dan uw lokale tijd.  Met het bijgevoegde ICS-bestand wordt de afspraak echter op het juiste lokale tijdstip aan uw agenda toegevoegd. 

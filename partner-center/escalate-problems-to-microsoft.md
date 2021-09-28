@@ -9,12 +9,12 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/27/2021
-ms.openlocfilehash: c62a53f3af908fa1fd77f0c252404602cffbae9a
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 0b6eaaae15d85e99a5c65ce5cd3b5fb5b7727332
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071491"
+ms.locfileid: "129089926"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Problemen naar Microsoft escaleren en leren welke problemen geschikter zijn voor escalatie van Microsoft  
 
@@ -39,7 +39,7 @@ Er zijn echter verschillende soorten problemen die u aan Microsoft moet door gev
 ## <a name="submit-a-support-request"></a>Een ondersteuningsaanvraag indienen
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 

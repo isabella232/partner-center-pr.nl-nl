@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Meer informatie over het instellen en beheren van licenties voor uw aanbiedingen op de commerciële marketplace van ISV.
+description: Meer informatie over het instellen en beheren van licenties voor uw aanbiedingen op de commerciële ISV-marketplace.
 author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0043a9d6f39b4c6858a6e69f73c6c7503b17508e
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 80d8def7f72243106aa0cc1645276e4512b004ef
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073843"
+ms.locfileid: "129089841"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Licenties beheren in Marketplace-aanbiedingen
 
@@ -29,17 +29,17 @@ In dit artikel wordt beschreven hoe u een aanbieding in Partner Center instelt, 
 
 ### <a name="commercial-marketplace-basics"></a>Basisbeginselen van de commerciële marketplace
 
-Voordat u met dit proces begint, moet u zich vertrouwd maken met de basisbeginselen van de commerciële marketplace. Aan de slag met de artikelen in de onderstaande tabel. 
+Voordat u met dit proces begint, moet u vertrouwd raken met de basisbeginselen van de commerciële marketplace. Aan de slag met de artikelen in de onderstaande tabel. 
 
 | Onderwerp  | Artikel  |
 |-------|--------|
 |Commerciële marketplace-abonnementen | [Abonnementen en prijzen voor aanbiedingen op de commerciële marketplace](/azure/marketplace/plans-pricing)    |
-|Aanbiedingen voor commerciële marketplace  | [Typen vermeldingen](/azure/marketplace/determine-your-listing-type)    |
+|Aanbiedingen op de commerciële marketplace  | [Lijsttypen](/azure/marketplace/determine-your-listing-type)    |
 |Commerciële marketplace-accounts |  [Een account voor een commerciële marketplace maken in het Partnercentrum](/azure/marketplace/create-account) |
 
 ### <a name="determine-your-offer-id"></a>Uw aanbiedings-id bepalen
 
-In de onderstaande procedures wordt u gevraagd een aanbiedings-id in te voeren. Neem nu even de tijd om een geschikte aanbiedings-id te vinden, waarbij u rekening houdt met de volgende punten:
+In de onderstaande procedures wordt u gevraagd een aanbiedings-id in te voeren. Neem de tijd om een geschikte aanbiedings-id te vinden, waarbij u rekening houdt met de volgende punten:
 
 - Deze id is zichtbaar voor klanten in het webadres voor de Marketplace-aanbieding en Azure Resource Manager sjablonen, indien van toepassing.
 - De aanbiedings-id in combinatie met Publisher id moet minder dan 40 tekens lang zijn.
@@ -55,12 +55,12 @@ De alias Aanbieding is de naam die wordt gebruikt voor de aanbieding in Partner 
 
 ## <a name="create-your-offer"></a>Uw aanbieding maken
 
-De eerste stap in het licentieproces is het maken van uw commerciële marketplace-aanbieding.
+De eerste stap in het licentieproces is het maken van uw aanbieding op de commerciële marketplace.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 
 1. Meld u aan [bij Partner Center dashboard](https://partner.microsoft.com/dashboard/)en selecteer vervolgens de **tegel Marketplace-aanbiedingen.**
 2. Selecteer bovenaan de pagina Overzicht de optie Nieuwe **aanbieding** en selecteer vervolgens **Dynamics 365 for Customer Engagement & PowerApps.**
@@ -68,11 +68,11 @@ De eerste stap in het licentieproces is het maken van uw commerciële marketplac
 4. Selecteer **Maken om** de aanbieding te genereren en door te gaan.
 5. Kies uw licentieopties.
 
-    - Als u licentiebeheer voor uw aanbieding wilt inschakelen, selecteert **u App-licentiebeheer via Microsoft inschakelen.** Dit is een een time-instelling en u kunt deze niet meer wijzigen nadat uw aanbieding is gepubliceerd.
+    - Als u licentiebeheer voor uw aanbieding wilt inschakelen, selecteert u **App-licentiebeheer via Microsoft inschakelen.** Dit is een een time-instelling en u kunt deze niet meer wijzigen nadat uw aanbieding is gepubliceerd.
 
     - U kunt klanten ook in staat stellen om de basisfunctionaliteit van uw app uit te voeren zonder licentie en Premium-functies uit te voeren zodra ze een licentie hebben aangeschaft. Als u dit wilt doen, **selecteert u Klanten toestaan mijn app te installeren, zelfs als er geen licenties zijn toegewezen.**
 
-    - Als u niet wilt dat licentiebeheer voor uw aanbieding is ingeschakeld, selecteert u Nu downloaden **(gratis)**, **Gratis proefversie** of **Neem contact met mij op.**
+    - Als u niet wilt dat licentiebeheer voor uw aanbieding is ingeschakeld, selecteert u Nu downloaden **(gratis)**, **Gratis** proefversie of **Neem contact met mij op.**
 
 #### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
@@ -83,11 +83,11 @@ De eerste stap in het licentieproces is het maken van uw commerciële marketplac
 5. Selecteer **Maken om** de aanbieding te genereren en door te gaan.
 6. Kies uw licentieopties.
 
-    - Als u licentiebeheer voor uw aanbieding wilt inschakelen, selecteert **u App-licentiebeheer via Microsoft inschakelen.** Dit is een een time-instelling en u kunt deze niet meer wijzigen nadat uw aanbieding is gepubliceerd.
+    - Als u licentiebeheer voor uw aanbieding wilt inschakelen, selecteert u **App-licentiebeheer via Microsoft inschakelen.** Dit is een een time-instelling en u kunt deze niet meer wijzigen nadat uw aanbieding is gepubliceerd.
 
     - U kunt klanten ook in staat stellen om de basisfunctionaliteit van uw app uit te voeren zonder licentie en Premium-functies uit te voeren zodra ze een licentie hebben aangeschaft. Als u dit wilt doen, **selecteert u Klanten toestaan mijn app te installeren, zelfs als er geen licenties zijn toegewezen.**
 
-    - Als u niet wilt dat licentiebeheer voor uw aanbieding is ingeschakeld, selecteert u Nu downloaden **(gratis)**, **Gratis proefversie** of **Neem contact met mij op.**
+    - Als u niet wilt dat licentiebeheer voor uw aanbieding is ingeschakeld, selecteert u Nu downloaden **(gratis)**, **Gratis** proefversie of **Neem contact met mij op.**
 
 * * *
 
@@ -95,41 +95,41 @@ De eerste stap in het licentieproces is het maken van uw commerciële marketplac
 
 In deze stappen definieert u het plan of de plannen die u wilt inschakelen voor uw aanbieding.
 
-1. Selecteer vanuit een specifieke aanbieding **Abonnementsoverzicht** en selecteer **vervolgens Nieuw abonnement maken.**
-2. Voer een **plan-id** en **plannaam** in en selecteer **vervolgens Maken.**
+1. Selecteer vanuit een specifieke aanbieding **Overzicht plannen** en selecteer vervolgens Nieuw **plan maken.**
+2. Voer een **plan-id** en **plannaam in** en selecteer **vervolgens Maken.**
 3. Voer op **de pagina Abonnementsvermelding** de beschrijving van uw abonnement **in.**
-4. Als u de beschrijving wilt opslaan en later wilt voltooien, selecteert **u Concept opslaan.**
+4. Als u de beschrijving wilt opslaan en later wilt voltooien, **selecteert u Concept opslaan.**
 
-5. Wanneer u klaar bent, selecteert u **Controleren en publiceren.** De plangegevens worden nu weergegeven op de appsource.microsoft.com onder aanbiedingsvermelding (sectie abonnementen).
+5. Wanneer u klaar bent, selecteert u **Controleren en publiceren.** De plangegevens worden nu weergegeven op appsource.microsoft.com aanbieding (sectie abonnementen).
 
-6. Nadat u alle plannen voor deze aanbieding hebt gemaakt, moet u de service-id van elk plan kopiëren. Selecteer **Bovenaan de pagina** Abonnementsvermelding de optie Planoverzicht. Kopieer de service-id voor elk plan naar een veilige locatie.
+6. Nadat u alle plannen voor deze aanbieding hebt gemaakt, moet u de service-id van elk plan kopiëren. Selecteer **Bovenaan de pagina** Lijst met plannen de optie Planoverzicht. Kopieer de service-id voor elk plan naar een veilige locatie.
 
 ## <a name="add-service-ids-to-your-solution"></a>Service-ID's toevoegen aan uw oplossing
 
-De volgende stap is het bijwerken van uw oplossing door de service-ID's toe te voegen voor elk plan dat u zojuist hebt gekopieerd. Zie Create an [AppSource Package for your solution (Een AppSource-pakket maken voor uw oplossing) voor hulp.](/powerapps/developer/data-platform/create-package-app-appsource)
+De volgende stap is het bijwerken van uw oplossing door de service-ID's toe te voegen voor elk plan dat u zojuist hebt gekopieerd. Zie Create an [AppSource Package for your solution (Een AppSource-pakket maken voor uw oplossing) voor hulp hiervoor.](/powerapps/developer/data-platform/create-package-app-appsource)
 
 ## <a name="upload-your-package-and-publish-your-offer"></a>Upload pakket maken en uw aanbieding publiceren
 
 1. Selecteer vanuit een specifieke aanbieding en selecteer **Technische configuratie.**
 2. Selecteer **onder Basislicentiemodel** de optie **Gebruiker**.
-3. Voer **onder CRM-pakket** de URL van uw pakketlocatie in.
-4. Gebruik de andere tabbladen in het linkernavigatievenster om andere vereiste gegevens in te voeren. Wanneer u klaar bent, selecteert u **Controleren en publiceren.**
+3. Voer **onder CRM-pakket** de URL van de pakketlocatie in.
+4. Gebruik de andere tabbladen in het linkernavigatiedeelvenster om andere vereiste gegevens in te voeren. Wanneer u klaar bent, selecteert u **Controleren en publiceren.**
 
 Nadat u de aanbieding hebt gepubliceerd, controleren en verifiëren we uw gegevens. Als er problemen zijn met dit proces, stellen we u hiervan op de hoogte. Wanneer alle problemen zijn opgelost, ontvangt u een melding dat uw aanbieding beschikbaar is in AppSource. Op dat moment kunt u het live maken.
 
 ## <a name="make-your-offer-live-in-partner-center"></a>Uw aanbieding live maken in Partner Center
 
-De onderstaande procedure laat u zien hoe u uw aanbieding live kunt maken in AppSource. Zie Inleiding tot lijstopties voor meer informatie [over dit proces.](/azure/marketplace/determine-your-listing-type)
+Met de onderstaande procedure doorloopt u het proces voor het live maken van uw aanbieding in AppSource. Zie Inleiding tot aanbiedingsopties voor meer informatie [over dit proces.](/azure/marketplace/determine-your-listing-type)
 
 > [!NOTE]
 > Nadat u uw aanbieding hebt gepubliceerd, duurt het 4-6 uur om live te gaan.
 
-1. Selecteer Live gaan bij een **specifieke aanbieding.**
-2. Als u uw aanbiedingsvermelding op AppSource wilt bekijken, selecteert u de **koppeling AppSource** onder aan de **overzichtspagina van de** aanbieding.
+1. Selecteer live gaan vanuit een specifieke **aanbieding.**
+2. Als u uw aanbiedingsvermelding op AppSource wilt zien, selecteert u de **koppeling AppSource** onder aan de **overzichtspagina van de** aanbieding.
 
     - **Voor aanbiedingen met licentie:** als voor uw aanbieding een licentiecontrole is vereist, kunnen gebruikers alleen een lead invoeren door op **Contact** opnemen te klikken, zodat u met hen kunt communiceren.
 
-    - **Voor aanbiedingen met licentie met** een gratis installatieoptie: als voor uw aanbieding  geen licentiecontrole is vereist, zien beheerders naast Contact opnemen ook de knop Nu **downloaden.** Gebruikers die de optie voor gratis installatie willen proberen, moeten klikken op Nu downloaden **om** de aanbieding te installeren in Power Platform Beheercentrum. Gebruikers kunnen contact opnemen **nog steeds gebruiken** als ze vragen hebben of als ze willen upgraden naar een betaald abonnement.
+    - **Voor aanbiedingen met licentie** met een gratis installatieoptie: als voor uw aanbieding  geen licentiecontrole is vereist, zien beheerders de knop Nu downloaden naast **Contact opnemen.** Gebruikers die uw gratis installatieoptie willen proberen, moeten klikken op Nu downloaden. Dit brengt hen bij het installeren van de aanbieding in Power Platform Beheercentrum. Gebruikers kunnen contact **met mij opnemen** als ze vragen hebben of als ze willen upgraden naar een betaald abonnement.
 
 ## <a name="register-isv-connect-deal-in-deal-registration"></a>ISV-Verbinding maken registreren in dealregistratie
 
@@ -140,12 +140,12 @@ Voordat u licenties aan een klant kunt toewijzen, moet elke verkoop worden gereg
 Gebruik de volgende procedure om de klant uit te nodigen om deel te nemen aan deze deal.  
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 
 1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard/).
-2. Selecteer de **tegel** Verwijzingen.
+2. Selecteer de **tegel Verwijzingen.**
 3. Selecteer **Dealregistratie.**
 4. Filter op **Verzonden** deals, selecteer **het tabblad Wordt** uitgevoerd en selecteer vervolgens de deal die u wilt.
 5. Selecteer licenties beheren op de **overzichtspagina voor deze deal.**

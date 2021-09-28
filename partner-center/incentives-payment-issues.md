@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c8f7f7f063c10c50a42468447083e588c1783f18
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4b76defa310f339f6fec05e0ceeec01a56c80729
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074885"
+ms.locfileid: "129089875"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Problemen met ontbrekende betalingen, onjuiste inkomsten en andere problemen oplossen
 
@@ -74,7 +74,7 @@ Als deze acties niet helpen en uw betalingen nog steeds ontbreken of onjuist zij
 U kunt uw aanpassingen zoeken en afstemmen door uw inkomsten- en transactiegegevens te downloaden.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 
@@ -144,13 +144,13 @@ Ontbrekende of onjuiste inkomsten kunnen worden veroorzaakt door een van de volg
 
 - **Mogelijk hebt u niet voldaan aan de vereisten.**  Controleer of u hebt voldaan aan de regels voor [geschiktheid](#my-payment-is-missing-or-incorrect) en in aanmerking komende regels voor de beloning die u zoekt.
 
-- **Er kan een verschil zijn.**  Als u voldoet aan [](incentives-confirm-your-earnings-eligibility.md) [zowel de programmavereisten](incentives-determined-your-program-eligibility.md) als de inkomstenvereisten en uw inkomsten nog steeds onjuist lijken te zijn, kan de volgende informatie u helpen uw gegevens op te halen.
+- **Er kan een verschil zijn.**  Als u voldoet aan [](incentives-confirm-your-earnings-eligibility.md) [zowel de geschiktheidsvereisten](incentives-determined-your-program-eligibility.md) als de geschiktheidsvereisten voor inkomsten en uw inkomsten nog steeds onjuist lijken te zijn, kan de volgende informatie u helpen uw gegevens op te halen.
 
 Inkomsten worden weergegeven op zowel de pagina **Transactiegeschiedenis** als de **pagina Betalingen.** U kunt beide pagina's openen door de **tegel Uitbetalingen** te selecteren in [Partner Center dashboard](https://partner.microsoft.com/dashboard).
 
-Maandelijkse inkomstenbedragen in de weergave Transactiegeschiedenis komen mogelijk niet overeen met het betalingsbedrag dat voor een specifieke maand is ontvangen. Dit komt door herberekeningen en correcties voor eerdere inkomstenperioden die worden toegepast op toekomstige betalingen.
+Maandelijkse inkomstenbedragen in de weergave Transactiegeschiedenis komen mogelijk niet overeen met het ontvangen bedrag voor een specifieke maand. Dit komt door herberekeningen en aanpassingen voor eerdere inkomstenperioden die worden toegepast op toekomstige betalingen.
 
-Een aanpassing voor de inkomsten van januari 2019 die in september 2019 is verwerkt, wordt bijvoorbeeld niet weerspiegeld in het inkomstenbedrag voor september 2019; Wanneer de betaling voor september 2019 wordt ontvangen, bevat deze echter de correctie voor januari 2019 die in september is toegepast.
+Een aanpassing voor de inkomsten van januari 2019 die in september 2019 is verwerkt, wordt bijvoorbeeld niet weerspiegeld in het inkomstenbedrag voor september 2019; Wanneer de betaling voor september 2019 echter wordt ontvangen, bevat deze de aanpassing voor januari 2019 die in september is toegepast.
 
 In dit scenario moet u de transactiegegevens downloaden om een volledig overzicht te krijgen van alle inkomsten die zijn opgenomen in uw betaling.  Daarnaast kunt u naar de weergave Betalingen navigeren om transacties voor elke betaling te downloaden.
 
@@ -160,12 +160,12 @@ Deze weergave toont trends in inkomsten en betalingen per maand, inkomsten per s
 
 ### <a name="payments"></a>Betalingen
 
-In deze weergave kunt u betalingen voor alle programma's en MPN-ID's bekijken. Gegevens zijn alleen zichtbaar voor de programma's en MPN-ID's waarvoor u een incentive-gebruiker of -beheerder bent. In deze weergave kunt u overboekingen downloaden of transactiedetails per betaling weergeven.
+In deze weergave kunt u betalingen voor alle programma's en MPN-ID's bekijken. Gegevens zijn alleen zichtbaar voor de programma's en MPN-ID's waarvoor u een incentive-gebruiker of -beheerder bent. In deze weergave kunt u de overboeking downloaden of transactiedetails per betaling weergeven.
 
 | Functie | Gaat u hierheen |
 | ------ | :----------- |
-| Uw betalingsgegevens per regel weergeven, inclusief inkomsten- en betalingsbedragen in lokale valuta  | Zie het **veld Lijst met betalingen**   |
-| Een overboekingsletter downloaden   |  Selecteer **Overboeking van betaling**  |
+| Uw betalingsgegevens per regel weergeven, inclusief inkomsten en betalingsbedragen in lokale valuta  | Zie het **veld Lijst met betalingen**   |
+| Een overboekingsletter downloaden   |  **Betalingsoverboeking selecteren**  |
 | Details van transactieniveau voor een specifieke betaling weergeven |  Weergave **selecteren**  |
 | Transactiedetails exporteren naar Excel  |  Selecteer **Downloaden starten** en selecteer vervolgens Gegevens **exporteren.** Alle geselecteerde filters worden toegepast op de geëxporteerde gegevens. Zodra de status is gewijzigd in Voltooid, selecteert u **Downloaden** en volgt u de aanwijzingen om het gedetailleerde transactierapport te exporteren. Vernieuw de pagina als de status niet binnen vijf minuten is bijgewerkt.  |
 
@@ -173,13 +173,13 @@ In deze weergave kunt u betalingen voor alle programma's en MPN-ID's bekijken. G
 
 Als u geen betalings- of transactiegegevens kunt vinden, controleert u of u de juiste filters hebt toegepast. Omdat sommige programmanamen zijn gewijzigd (bijvoorbeeld CSP 1T Direct Partner is nu CSP Direct Bill Partner), moet u mogelijk meerdere selecties gebruiken.
 
-Als u uw verdiensten nog steeds niet kunt vinden of als u denkt dat de weergegeven verdiensten onjuist zijn, neem dan contact op met [ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Als u uw verdiensten nog steeds niet kunt vinden of als u denkt dat de weergegeven inkomsten onjuist zijn, neem dan contact op met [ondersteuning](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>Hoe kan ik mijn inkomsten afstemmen?
 
 Als er sprake is van een discrepantie in uw verdiensten, voert u de volgende stappen uit:
 
-1. **Controleer of u in aanmerking komt voor verdiensten**.  Inkomsten zijn alleen beschikbaar als u voldoet aan zowel de geschiktheid [van het programma](incentives-determined-your-program-eligibility.md) als de [inkomsten.](incentives-confirm-your-earnings-eligibility.md)
+1. **Controleer of u in aanmerking komt voor verdiensten**.  Inkomsten zijn alleen beschikbaar als u voldoet aan de geschiktheid van zowel [het programma](incentives-determined-your-program-eligibility.md) als [de inkomsten.](incentives-confirm-your-earnings-eligibility.md)
 
 2. **Controleer of het betalingsprofiel is voltooid**.  De startdatum voor uw incentive-beloning is de eerste dag van de maand waarin u aan alle geschiktheidsvereisten hebt voldaan, met inbegrip van onboarding met uitbetalings- en belastinggegevens Winsten zijn niet beschikbaar voor de maanden voorafgaand aan het indienen van de uitbetalings- en belastinggegevens Als u bijvoorbeeld alle vereisten in april 2020 indient, is de startdatum van uw verdiensten 1 april 2020. 
 
@@ -189,13 +189,13 @@ Als deze acties niet helpen en uw inkomsten nog steeds niet zijn afgestemd, neem
 
 ## <a name="where-can-i-find-my-rates"></a>Waar kan ik mijn tarieven vinden?
 
-1. Meld u aan bij de [pagina Incentives voor](https://partner.microsoft.com/membership/partner-incentives) partners.
+1. Meld u aan bij de [incentives-pagina van de](https://partner.microsoft.com/membership/partner-incentives) partner.
 
 2. Schuif omlaag om toegang te krijgen tot de documenten voor uw programma.
 
 3. Selecteer de documentkoppeling voor het betreffende programma.
 
-4. Raadpleeg in het document de sectie **Programmastructuur en Tarieven**.
+4. Raadpleeg in het document de sectie **Programmastructuur en Tarieven.**
 
 ## <a name="next-steps"></a>Volgende stappen
 

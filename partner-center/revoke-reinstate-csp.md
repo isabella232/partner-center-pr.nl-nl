@@ -4,23 +4,23 @@ ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Leer hoe u klanten kunt helpen de beheerdersbevoegdheden van een partner te herstellen, zodat de partner kan helpen bij het beheren van de Azure Cloud Solution Provider(CSP)-abonnementen van een klant.
+description: Meer informatie over hoe u klanten kunt helpen de beheerdersbevoegdheden van een partner te herstellen, zodat de partner kan helpen bij het beheren van de Azure Cloud Solution Provider(CSP)-abonnementen van een klant.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea64a6030acbc41aec085b3a0a7927d8ed28cc88
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: b6c1bd203fa65873819239b35b0abddcc53bd736
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070181"
+ms.locfileid: "129090181"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen  
 
 **Juiste rollen:** Globale | Beheeragent
 
-Als Cloud Solution Provider (CSP)-programmapartner vertrouwen uw klanten vaak op u om hun Azure-gebruik en hun systemen te beheren. U hebt beheerdersbevoegdheden nodig om ze te helpen. Als u nog geen beheerdersbevoegdheden hebt, kunt u samen met uw klant deze opnieuw in gebruik nemen.
+Als een Cloud Solution Provider (CSP)-programmapartner vertrouwen uw klanten vaak op u om hun Azure-gebruik en hun systemen te beheren. U hebt beheerdersbevoegdheden nodig om ze te helpen. Als u nog geen beheerdersbevoegdheden hebt, kunt u samen met uw klant deze opnieuw in gebruik nemen.
 
 ## <a name="admin-privileges-for-azure-in-the-csp-program"></a>Beheerdersbevoegdheden voor Azure in het CSP-programma
 
@@ -34,15 +34,15 @@ Sommige beheerdersbevoegdheden worden automatisch verleend wanneer u een reselle
 U kunt samenwerken met uw klant om weer gedelegeerde beheerdersbevoegdheden te krijgen.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
 1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
 
 2. Selecteer de **tegel** Klanten.
 
-3. Selecteer de klant met wie u werkt en vraag **een resellerrelatie aan.** Met deze actie wordt een koppeling gegenereerd naar de klant die tenantbeheerdersrechten heeft.
+3. Selecteer de klant met wie u werkt en vraag **een resellerrelatie aan.** Met deze actie wordt een koppeling gegenereerd naar de klant met tenantbeheerdersrechten.
 
 4. Uw klant moet de koppeling selecteren en de aanvraag voor de resellerrelatie goedkeuren.
 
@@ -147,7 +147,7 @@ New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope
    1. De rol van **eigenaar** of **beheerder van gebruikerstoegang** 
    2. Machtigingen voor het maken van roltoewijzingen op abonnementsniveau
 
-6. Om het proces te voltooien, moet uw klant het volgende doen, met behulp van PowerShell of Azure CLI. 
+6. Om het proces te voltooien, moet uw klant het volgende doen met behulp van PowerShell of Azure CLI. 
 
    1. Als u PowerShell gebruikt, moet de klant de `Az.Resources` module bijwerken.
 
@@ -207,7 +207,7 @@ In plaats van eigenaarsmachtigingen te verlenen op abonnementsniveau, kunt u dez
    az role assignment create --role "Owner" --assignee-object-id <Object ID of the AdminAgents group from step 4> --scope "<Resource URI>"
    ```
 
-Als de bovenstaande stappen niet werken of als er fouten optreden bij het proberen, probeert u de volgende catch-all-procedure om de beheerdersrechten voor uw klant te herstellen:
+Als de bovenstaande stappen niet werken of als u fouten krijgt bij het proberen, probeert u de volgende catch-all-procedure om de beheerdersrechten voor uw klant te herstellen:
 
 ```powershell
 Install-Module -Name Az.Resources -Force -Verbose
@@ -220,7 +220,7 @@ New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope
 * * *
 
 ### <a name="troubleshooting"></a>Problemen oplossen
-Als de klant stap 6 niet kan voltooien, stelt u de volgende opdracht voor en geeft u het resulterende bestand aan `newRoleAssignment.log` Microsoft op voor verdere analyse:
+Als de klant stap 6 niet kan voltooien, stelt u de volgende opdracht voor en geeft u het resulterende bestand op `newRoleAssignment.log` aan Microsoft voor verdere analyse:
 
 ```powershell
 New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<customer subscription>" -ObjectType "ForeignGroup" -Debug > newRoleAssignment.log

@@ -1,5 +1,5 @@
 ---
-title: Facturering van Azure-plan - &-bestanden
+title: Azure-planfacturering - &-bestanden
 ms.topic: article
 ms.date: 09/27/2021
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5942cf0fb69dc94cb45184a2abb9e8f6068073b
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: ad04b7af67bb4cf664b2a552c94fc96fa25e5349
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074241"
+ms.locfileid: "129089263"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nieuwe Commerce-ervaring in CSP - Azure-facturering
 
@@ -24,15 +24,15 @@ In dit artikel wordt uitgelegd hoe u de factuur- en afstemmingsbestandsstructuur
 
 ## <a name="summary-of-billing-essentials"></a>Samenvatting van de belangrijkste factureringsgegevens
 
-- **Factuurdatum:** Het factuur- en afstemmingsbestand is op de 8e (middernacht UTC) beschikbaar in Partner Center dashboard/API.
+- **Factuurdatum:** Het factuur- en afstemmingsbestand is vanaf de 8e (middernacht UTC) beschikbaar in Partner Center dashboard/API.
 
-- Factuurfactureringsperiode: de factuurfactureringsperiode is afgestemd op de kalendermaand, bijvoorbeeld 10/1-10/31, 11/1-11/30.
+- Factuurfactureringsperiode: de factureringsperiode van de factuur wordt afgestemd op de kalendermaand, bijvoorbeeld 10-1-10/31, 11-1-11/30.
 
-- **Serviceperioden voor** kosten: de kosten worden afgestemd op de kalendermaand. Als de gefactureerde partner bijvoorbeeld Azure-services toevoegt via een Azure-plan op 15-10 en de klant het verbruik van Azure-services begint op 10/15, ontvangt de gefactureerde partner factuur/recon op 11/8 voor klantverbruik voor de serviceperiode 10/15 - 10/31. De factuur van de volgende maand die wordt gegenereerd op 12/8 bevat alle kosten voor de serviceperiode 11/1- 11/31.
+- **Serviceperioden voor kosten:** de kosten worden afgestemd op de kalendermaand. Als de gefactureerde partner bijvoorbeeld Azure-services toevoegt via een Azure-abonnement op 15-10-2015 en de klant het verbruik van Azure-services op 15/15 begint, ontvangt de gefactureerde partner factuur/recon voor klantverbruik op 11/8 voor de serviceperiode 10/15 - 10/31. De factuur van de volgende maand die wordt gegenereerd op 12/8 bevat alle kosten voor de serviceperiode 11/1- 11/31.
 
 - **Betalingstermijn factuur:** netto 60 dagen.
 
-- **Factuurvaluta:** vanaf augustus 2021 worden alle partners gefactureerd in de valuta van de partnerlocatie, ongeacht de locatie van de klant aan wie u de producten hebt verkocht.
+- **Factuurvaluta:** vanaf augustus 2021 worden alle partners gefactureerd in de partnerlocatievaluta, ongeacht de locatie van de klant aan wie u de producten hebt verkocht.
 
 - **Incentives voor partners:** betaalde 45 dagen vanaf het einde van de factuurmaand.
 
@@ -43,13 +43,13 @@ De globale beheerder of factureringsbeheerder voor uw bedrijf ontvangt een e-mai
 Voor toegang tot het factuur- en afstemmingsbestand:
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
-1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard/)de **tegel** Facturering.
+1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard/)de **tegel Facturering.**
 
-2. Selecteer het tabblad **Terugkerend en** **Eenmalige** en de valuta waarin u geïnteresseerd bent.
+2. Selecteer het tabblad **Terugkerend en** **Eenmalige** en de valuta waarin u bent geïnteresseerd.
 
    :::image type="content" source="images/azure/billing-workspace-1.png" alt-text="Schermopname van de factureringsgeschiedenis.":::
 
@@ -61,7 +61,7 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 1. Selecteer in [Partner Center dashboard](https://partner.microsoft.com/dashboard/) **facturering.**
 
-2. Selecteer het tabblad **Terugkerend en** **Eenmalige** en de valuta waarin u geïnteresseerd bent.
+2. Selecteer het tabblad **Terugkerend en** **Eenmalige** en de valuta waarin u bent geïnteresseerd.
 
    :::image type="content" source="images/azure/billing3.png" alt-text="Facturering.":::
 
@@ -81,9 +81,9 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 - Voorbeelden van resources zijn virtuele machines en opslagaccounts.
 
-- Bronmeters: Meters zijn metingen van het verbruik van een resource en één resource kan het gebruik voor meerdere meters gebruiken. Meters worden geïdentificeerd door een ProductId, SKUId en AvailabilityId.
+- Meter voor het gebruik van resources: Meters zijn metingen van het verbruik van een resource en één resource kan gebruik voor meerdere meters gebruiken. Meters worden geïdentificeerd door een ProductId, SKUId en AvailabilityId.
 
-### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hiërarchie van abonnementsresourcegroepen en meting
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hiërarchie van abonnementsresourcegroepen en -meting
 
 **Azure-account (tenant)**
 
@@ -111,13 +111,13 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 - Factuur is niet later dan de acht dagen van elke maand beschikbaar.
 
-- Partners hebben 60 dagen de tijd om de betaling opnieuw in te betalen.
+- Partners hebben 60 dagen de tijd om de betaling te betalen.
 
-- De factureringsperiode heeft betrekking op een bepaalde kalendermaand, bijvoorbeeld 10/1-10/31.
+- De factureringsperiode heeft betrekking op een bepaalde kalendermaand, bijvoorbeeld 10-1-10/31.
 
-- Kosten zijn netto correcties (bedrag is netto van 'Partnertegoed voor beheerde services').
+- Kosten zijn netto aanpassingen (bedrag is netto van 'Partnertegoed voor beheerde services').
 
-- Controleer het factuur recon-bestand en het bestand met dagelijks beoordeeld gebruik voor aanvullende factureringsgegevens.
+- Controleer het recon-bestand van de factuur en het bestand met dagelijks beoordeeld gebruik voor aanvullende factureringsgegevens.
 
    :::image type="content" source="images/azure/invoice1.png" alt-text="Factuur.":::
 
@@ -125,18 +125,18 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 - Elke combinatie van Azure-plan en -meter kan maximaal twee factureringslijnen in het afstemmingsbestand (recon) hebben.
 
-- Als de meter is gekwalificeerd voor elk type korting of tegoed (zoals gelaagde kortingen of het partnertegoed voor beheerde services) gedurende de hele kalendermaand, bevat het reconbestand slechts één factureringsregel. De kolom **PriceAdjusmentDescription verwijst** naar de korting of het verdiend tegoed.
+- Als de meter is gekwalificeerd voor elk type korting of tegoed (zoals gelaagde kortingen of het partnertegoed voor beheerde services) gedurende de hele kalendermaand, bevat het reconsgetal slechts één factureringsregel. De kolom **PriceAdjusmentDescription verwijst** naar de korting of het verdiend tegoed.
 
-- Als er geen resources zijn voor een bepaalde meter die in aanmerking komen voor korting of partnertegoed, bevat het reconbestand slechts één factureringsregel en is de effectieve eenheidsprijs de detailhandelprijs (de eenheidsprijs).
+- Als er geen resources zijn voor een bepaalde meter die in aanmerking komen voor korting of partnertegoed, bevat het recon-bestand slechts één factureringsregel en is de effectieve eenheidsprijs de detailhandelprijs (de eenheidsprijs).
 
-- Als de meter of resources die die meter uitzenden, gekwalificeerd zijn voor partnertegoed voor **services** die een deel van de maand worden beheerd, bevat het reconbestand twee factureringslijnen. Eén regel vertegenwoordigt de dagen dat de meter is gekwalificeerd en de tweede regel de dagen dat de meter niet in aanmerking komt.
+- Als de meter, of resources die die meter uitzenden, is gekwalificeerd voor partnertegoed voor **services** die een deel van de maand worden beheerd, bevat het recon-bestand twee factureringsregels. Eén regel vertegenwoordigt de dagen dat de meter is gekwalificeerd en de tweede regel de dagen dat de meter niet in aanmerking komt.
 
 > [!NOTE]
-> U kunt uw Azure-verbruik afstemmen in uw een-keer-aankoop recon-bestand. Om dit te doen, gaat u naar uw dagelijks beoordeelde gebruiks reconbestand en zoekt u naar uw SubscriptionID. Hiermee worden alle kosten weergegeven die zijn gekoppeld aan uw Azure-plan-id. Uw Azure SubscriptionID wordt weergegeven als de EntitlementID.
+> U kunt uw Azure-verbruik afstemmen in uw een-time recon-bestand voor aankopen. Als u dit wilt doen, gaat u naar het reconbestand met dagelijks beoordeelde gebruiksgegevens en zoekt u naar uw SubscriptionID. Hiermee worden alle kosten weergegeven die zijn gekoppeld aan uw Azure-plan-id. Uw Azure SubscriptionID wordt weergegeven als de EntitlementID.
 
 ## <a name="read-the-daily-usage-file"></a>Het dagelijkse gebruiksbestand lezen
 
-- Abonnementsmeters onder een Azure-plan worden dagelijks beoordeeld en gecumuleerd.
+- Abonnementsmeters onder een Azure-abonnement worden dagelijks beoordeeld en gecumuleerd.
 
 - **Partnertegoed voor beheerde services** wordt dagelijks bepaald en toegepast.
 
@@ -144,25 +144,25 @@ Voor toegang tot het factuur- en afstemmingsbestand:
 
 - In het voorbeeld hieronder:
 
-  - Meter die is gekwalificeerd **voor partnertegoed** voor services die worden beheerd van 7/1 - 7/3 (let op: de effectieve eenheidsprijs is de handelsprijs die minder partnertegoed is.
+  - Meter die is gekwalificeerd voor **partnertegoed** voor services die worden beheerd van 7/1 - 7/3 (let op: de effectieve eenheidsprijs is de detailhandelprijs minder partnertegoed.
 
-  - Meter komt niet in aanmerking voor **partnertegoed** voor services die worden beheerd van 7-4-7-7-2017 (de effectieve eenheidsprijs is de detailhandelsprijs).
+  - Meter komt niet in aanmerking voor **partnertegoed** voor services die worden beheerd op 7-7-7-2017 (de effectieve eenheidsprijs is de detailhandelsprijs).
 
-  - Meter die is gekwalificeerd **voor partnertegoed** voor services die worden beheerd van 7/8 - 7/31 (let op: de effectieve eenheidsprijs is de detailhandelsprijs die minder partnertegoed is).
+  - Meter die is gekwalificeerd voor **partnertegoed** voor services die worden beheerd van 7-7-31-2031 (de effectieve eenheidsprijs is de detailhandelprijs minder partnertegoed).
 
    :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
 ## <a name="invoice-in-partner-location-currency"></a>Factuur in partnerlocatievaluta
 
-Azure-services via een Azure-plan worden in USD gefactureerd en gefactureerd in de toegewezen valuta van het partnerland. Als de factureringsvaluta niet usd is, wordt het gebruikte valutatarief (Foreign Exchange) weergegeven op de laatste pagina van de factuur. FX-tarieven worden maandelijks bepaald en toegepast op de volgende factuur. Bekijk voor een volledige lijst met landvaluta de nieuwe commerceaanbiedingen voor de beschikbaarheid van landen en [partnervalutamatrix.](https://go.microsoft.com/fwlink/?linkid=2112354)
+Azure-services via een Azure-plan worden in USD gefactureerd en gefactureerd in de toegewezen valuta van het partnerland. Als de factureringsvaluta niet usd is, wordt het gebruikte valutatarief (FX) weergegeven op de laatste pagina van de factuur. FX-tarieven worden maandelijks bepaald en toegepast op de volgende factuur. Bekijk voor een volledige lijst met valuta's per land de nieuwe commerceaanbiedingen voor de beschikbaarheid van landen en [de partnervalutamatrix.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
-Microsoft past een vooraf bepaalde wisselkoers toe op basisprijzen van USD om te komen tot de totale kosten voor Azure-services die elke kalendermaand zijn gekocht of verbruikt. De maandelijkse wisselkoers is het tussentijdse tarief dat is gepubliceerd door Den Haags (meestal) twee werkdagen vóór de voorgaande maand om 16:00 GMT.
+Microsoft past een vooraf bepaalde wisselkoers toe op basisprijzen van USD om te komen tot de totale kosten voor Azure-services die elke kalendermaand zijn gekocht of verbruikt. De maandelijkse wisselkoers is het middentarief dat is gepubliceerd door Deen (meestal) twee werkdagen vóór de voorgaande maand om 16:00 GMT.
 
-**Bijvoorbeeld:** De wisselkoers van Microsoft in december zou voor een bepaalde valuta het middentarief van Den Haags zijn op of rond 29 november. Dit tarief wordt toegepast op alle aankopen in die valuta van 1 december tot en met 31 december.
+**Bijvoorbeeld:** De wisselkoers van Microsoft in december zou voor een bepaalde valuta het middentarief van Den Middelingen zijn op of rond 29 november. Dit tarief wordt toegepast op alle aankopen in die valuta van 1 december tot en met 31 december.
 
 ## <a name="azure-reservations"></a>Azure-reserveringen
 
-Als u [Azure-reserveringen aanschaft](azure-reservations.md) via een Azure-abonnement, kunt u kiezen voor een een-keer- of maandelijkse facturering.
+Als u [Azure-reserveringen aanschaft](azure-reservations.md) via een Azure-abonnement, kunt u een een time- of maandelijkse facturering kiezen.
 
 ## <a name="azure-spending"></a>Uitgaven voor Azure
 
@@ -178,8 +178,8 @@ Omdat het factureringsmodel voor Azure-services via een Azure-abonnement gebruik
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie hoe het partnertegoed (PEC) wordt berekend. Meld u aan bij [Partner Center dashboard en](https://partner.microsoft.com/dashboard/) selecteer de tegel **Prijzen** om de beschikbare prijslijsten te vinden.
+- Zie hoe het partnertegoed (PEC) wordt berekend. Meld u aan bij [Partner Center dashboard en](https://partner.microsoft.com/dashboard/) selecteer de **tegel Prijzen** om de beschikbare prijslijsten te vinden.
 
 - Meer informatie over [het kopen van het Azure-abonnement](purchase-azure-plan.md)
 
-- Zie de [prijslijst voor de nieuwe commerce-ervaring in CSP](azure-plan-price-list.md)
+- Bekijk de [prijslijst voor de nieuwe commerce-ervaring in CSP](azure-plan-price-list.md)

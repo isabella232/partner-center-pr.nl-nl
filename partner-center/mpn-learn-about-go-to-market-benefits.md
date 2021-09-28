@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0acf5fefa9232286d51bfc4152c78f0f42c0aad0
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: ab098f836f1c778654df2b80e7ee6b779998f9c9
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075234"
+ms.locfileid: "129088804"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Uw Go-To-Market met Microsoft-aanbiedingen verkennen
 
@@ -53,7 +53,7 @@ Aanvullende Go-To-Market-aanbiedingen die  beschikbaar zijn voor partners met Go
 Uw Go-To-Market-aanbiedingen weergeven:
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 

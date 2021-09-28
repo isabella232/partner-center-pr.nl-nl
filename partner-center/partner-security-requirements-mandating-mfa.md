@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7608e14e855e71b8c8b91f7bd982bfcb7b54bda6
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 52bc5ed79ff2eee0e42a7195294f445b7f6f4b56
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073123"
+ms.locfileid: "129089246"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Multi-Factor Authentication (MFA) voor uw partner-tenant verplichten
 
@@ -38,13 +38,13 @@ Bepaalde pagina's in Partner Center dashboard worden beveiligd met MFA, waaronde
 - Alle pagina's op **het tabblad > aanvragen** van klanten, bijvoorbeeld de pagina die wordt weergegeven onder https://partner.microsoft.com/dashboard/support/csp/customers/*
 - Pagina Facturering
 
-In de volgende tabel ziet u welke gebruikerstypen zijn gemachtigd voor toegang tot deze met MFA beveiligde pagina's (en worden daarom beïnvloed door deze functie).
+In de volgende tabel ziet u welke gebruikerstypen zijn gemachtigd voor toegang tot deze met MFA beveiligde pagina's (en daarom worden beïnvloed door deze functie).
 
 
 | Pagina met MFA-bescherming       | Beheerdersagents      |  Verkoopmedewerkers     |   Helpdeskmedewerkers     | Globale beheerder      |  Factureringsbeheerder     | 
 |---    |---    |---    |---    |---    |---    |
 | Alle pagina's op het tabblad Klanten      |   x    |    x   |  x     |       |       |
-| Alle pagina's onder > tabblad Klantaanvragen     | x      |       |    x   |       |       |
+| Alle pagina's onder het tabblad > klantenaanvragen     | x      |       |    x   |       |       |
 | Pagina Facturering     |   x    |       |       |    x   |   x    |
 
 Als u toegang probeert te krijgen tot een van deze pagina's en u de MFA-verificatie nog niet eerder hebt voltooid, moet u dit doen. Andere pagina's Partner Center, zoals de pagina Overzicht, Service Health pagina Statuscontrole vereist geen MFA.
@@ -59,7 +59,7 @@ Als u wilt laten zien hoe verificatie werkt in Partner Center dashboard, kunt u 
 
 2. Jane start een nieuwe browsersessie en navigeert naar Partner Center overzichtspagina van het dashboard (die niet met MFA is beveiligd). Partner Center Jane omgeleid naar Azure AD om zich aan te melden.
 
-3. Vanwege de bestaande Azure AD MFA-installatie door Contoso is Jane vereist om MFA-verificatie te voltooien. Na een geslaagde aanmelding en MFA-verificatie wordt Jane teruggeleid naar Partner Center dashboardoverzichtspagina.
+3. Vanwege de bestaande Azure AD MFA-installatie door Contoso is Jane vereist om MFA-verificatie te voltooien. Na een geslaagde aanmelding en MFA-verificatie wordt Jane teruggeleid naar Partner Center overzichtspagina van het dashboard.
 
 4. Jane probeert toegang te krijgen tot een van de pagina's met MFA-Partner Center. Omdat Jane de MFA-verificatie al eerder heeft voltooid tijdens het aanmelden, heeft Jane toegang tot de pagina met MFA-bescherming zonder dat ze MFA-verificatie opnieuw moet door te voeren.
 
@@ -69,7 +69,7 @@ Als u wilt laten zien hoe verificatie werkt in Partner Center dashboard, kunt u 
 
 2. Hiermee start u een nieuwe browsersessie en navigeert u naar Partner Center overzichtspagina van het dashboard (die niet met MFA is beveiligd). Partner Center omgeleid naar Azure AD om u aan te melden.
 
-3. Omdat Wingtip identiteitsfederatie heeft ingesteld, leidt Azure ADMpt om naar de federatief-id-provider om aanmelding en MFA-verificatie te voltooien. Na een geslaagde aanmelding en MFA-verificatie wordt Hij teruggeleid naar Azure AD en vervolgens naar Partner Center dashboardpagina.
+3. Omdat Wingtip identiteitsfederatie heeft ingesteld, leidt Azure ADMpt om naar de federatief-id-provider om aanmelding en MFA-verificatie te voltooien. Na een geslaagde aanmelding en MFA-verificatie wordt Hij teruggeleid naar Azure AD en vervolgens naar Partner Center dashboardoverzichtspagina.
 
 4. Er wordt geprobeerd toegang te krijgen tot een van de pagina's met MFA-Partner Center. Omdat Dev al MFA-verificatie heeft voltooid tijdens het aanmelden, heeft Hij toegang tot de met MFA beveiligde pagina zonder dat MFA-verificatie opnieuw moet worden uitgevoerd.
 
@@ -94,10 +94,10 @@ Als u wilt laten zien hoe verificatie werkt in Partner Center dashboard, kunt u 
 
 De Partner Center-API ondersteunt zowel app-only verificatie als app+gebruikersverificatie. 
 
-Wanneer app- en gebruikersverificatie wordt gebruikt, Partner Center MFA-verificatie vereist. Om precies te zijn: wanneer een partnertoepassing een API-aanvraag naar Partner Center wil verzenden, moet deze een toegangs token bevatten in de autorisatie-header van de aanvraag. 
+Wanneer App+ Gebruikersverificatie wordt gebruikt, Partner Center MFA-verificatie vereist. Om precies te zijn: wanneer een partnertoepassing een API-aanvraag naar Partner Center wil verzenden, moet deze een toegangs token bevatten in de autorisatie-header van de aanvraag. 
 
 > [!NOTE]
->Het [veilig toepassingsmodel](/partner-center/develop/enable-secure-app-model) framework is een schaalbaar framework voor het authenticeren van CSP-partners en CPV's via de Microsoft Azure MFA-architectuur bij het aanroepen Partner Center API's. U moet dit framework implementeren voordat u MFA in uw tenant inschakelen. 
+>Het [veilig toepassingsmodel](/partner-center/develop/enable-secure-app-model) framework is een schaalbaar framework voor het authenticeren van CSP-partners en CPV's via de Microsoft Azure MFA-architectuur bij het aanroepen van Partner Center API's. U moet dit framework implementeren voordat u MFA in uw tenant inschakelen. 
 
 Wanneer Partner Center een API-aanvraag ontvangt met een toegangs token dat is verkregen met app- en gebruikersverificatie, controleert de Partner Center-API of de *MFA-waarde* aanwezig is in de CLAIM Authentication *Method Reference (AMR).* U kunt een JWT-decoder gebruiken om te controleren of een toegangsteken de verwachte amr-waarde (Authentication Method Reference) bevat of niet:
 
@@ -139,44 +139,44 @@ WWW-Authenticate: Bearer error="invalid_token"
 Date: Thu, 14 Feb 2019 21:54:58 GMT
 ```
 
-Wanneer App-Only verificatie wordt gebruikt, werken de API's die ondersteuning bieden App-Only verificatie continu zonder MFA.
+Wanneer App-Only verificatie wordt gebruikt, werken de API's die ondersteuning bieden App-Only verificatie continu zonder MFA te vereisen.
 
 ## <a name="partner-delegated-administration"></a>Gedelegeerd beheer van partners
 
-Partneraccounts, waaronder beheerdersagents en helpdeskmedewerkers, kunnen hun gedelegeerde beheerdersbevoegdheden van de partner gebruiken om klantresources te beheren via Microsoft Online Services-portals, opdrachtregelinterface (CLI) en API's (met behulp van App+User-verificatie).
+Partneraccounts, waaronder beheerdersagents en helpdeskmedewerkers, kunnen hun gedelegeerde beheerdersbevoegdheden van partners gebruiken om klantresources te beheren via Microsoft Online Services-portals, cli (opdrachtregelinterface) en API's (met behulp van App+User-verificatie).
 
 ### <a name="using-service-portals"></a>Serviceportals gebruiken
 
 Bij het openen van Microsoft Online Services-portals met behulp van de door de partner gedelegeerde beheerdersbevoegdheden (Admin-On-Behalf-Of) voor het beheren van klantresources, is voor veel van deze portals vereist dat het partneraccount interactief wordt geverifieerd, met de Azure AD-tenant van de klant ingesteld als verificatiecontext. Het partneraccount is vereist om u aan te melden bij de tenant van de klant.
 
-Wanneer Azure AD dergelijke verificatieaanvragen ontvangt, moet het partneraccount MFA-verificatie voltooien. Er zijn twee mogelijke gebruikerservaringen, afhankelijk van of het partneraccount een beheerde of federatief identiteit is:
+Wanneer Azure AD dergelijke verificatieaanvragen ontvangt, moet het partneraccount de MFA-verificatie voltooien. Er zijn twee mogelijke gebruikerservaringen, afhankelijk van of het partneraccount een beheerde of federatief identiteit is:
 
 - Als het partneraccount een **beheerde** identiteit is, wordt de gebruiker rechtstreeks door Azure AD gevraagd om de MFA-verificatie te voltooien. Als het partneraccount niet eerder is geregistreerd voor MFA bij Azure AD, wordt de gebruiker gevraagd om eerst de [MFA-registratie te](#mfa-registration-experience) voltooien.
 
-- Als het partneraccount een **federatief** identiteit is, is de ervaring afhankelijk van hoe de partnerbeheerder federatie in Azure AD heeft geconfigureerd. Bij het instellen van federatie in Azure AD kan de partnerbeheerder aan Azure AD aangeven of de federatie-id-provider MFA ondersteunt of niet. Zo ja, dan wordt de gebruiker door Azure AD omgeleid naar de federatief-id-provider om de MFA-verificatie te voltooien. Anders wordt de gebruiker rechtstreeks door Azure AD gevraagd om de MFA-verificatie te voltooien. Als het partneraccount niet eerder is geregistreerd voor MFA bij Azure AD, wordt de gebruiker gevraagd om eerst [de MFA-registratie te](#mfa-registration-experience) voltooien.
+- Als het partneraccount een **federatief** identiteit is, is de ervaring afhankelijk van hoe de partnerbeheerder federatie in Azure AD heeft geconfigureerd. Bij het instellen van federatie in Azure AD kan de partnerbeheerder aan Azure AD aangeven of de federatie-id-provider MFA ondersteunt of niet. Zo ja, dan wordt de gebruiker door Azure AD omgeleid naar de federatief-id-provider om de MFA-verificatie te voltooien. Anders wordt de gebruiker rechtstreeks door Azure AD gevraagd om de MFA-verificatie te voltooien. Als het partneraccount niet eerder is geregistreerd voor MFA bij Azure AD, wordt de gebruiker gevraagd om eerst de [MFA-registratie te](#mfa-registration-experience) voltooien.
 
-De algehele ervaring is vergelijkbaar met het scenario waarin een tenant van een eindklant MFA heeft geïmplementeerd voor de beheerders. De tenant van de klant heeft bijvoorbeeld [de standaardinstellingen](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)voor Azure AD-beveiliging ingeschakeld. Hiervoor zijn alle accounts met beheerdersrechten vereist om zich met MFA-verificatie aan te melden bij de klantten tenant, inclusief beheerdersagents en helpdeskmedewerkers. Voor testdoeleinden kunnen partners de [standaardinstellingen](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) voor Azure AD-beveiliging inschakelen in de tenant van de klant en vervolgens proberen gedelegeerde beheerdersbevoegdheden van de partner te gebruiken om toegang te krijgen tot de tenant van de klant.
+De algehele ervaring is vergelijkbaar met het scenario waarin een eindklantten tenant MFA heeft geïmplementeerd voor de beheerders. De tenant van de klant heeft bijvoorbeeld [standaardinstellingen](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)voor Azure AD-beveiliging ingeschakeld, waarvoor alle accounts met beheerdersrechten zijn vereist om zich aan te melden bij de tenant van de klant met MFA-verificatie, inclusief beheerdersagents en helpdeskmedewerkers. Voor testdoeleinden kunnen partners de [standaardinstellingen](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) voor Azure AD-beveiliging inschakelen in de tenant van de klant en vervolgens proberen gedelegeerde beheerdersbevoegdheden van de partner te gebruiken om toegang te krijgen tot de tenant van de klant.
 
 > [!NOTE]
-> Niet alle Microsoft Online Service Portals vereisen partneraccounts om zich aan te melden bij de tenant van de klant bij het openen van klantresources met behulp van gedelegeerde beheerdersbevoegdheden van de partner. In plaats daarvan hebben ze alleen de partneraccounts nodig om zich aan te melden bij de partner-tenant. Een voorbeeld is het Exchange-beheercentrum. Na een periode verwachten we dat voor deze portals partneraccounts nodig zijn om zich aan te melden bij de tenant van de klant wanneer ze de gedelegeerde beheerdersbevoegdheden van de partner gebruiken.
+> Niet alle Microsoft Online Service Portals vereisen partneraccounts om zich aan te melden bij de tenant van de klant bij het openen van klantresources met behulp van gedelegeerde beheerdersbevoegdheden van de partner. In plaats daarvan hebben ze alleen de partneraccounts nodig om zich aan te melden bij de partner-tenant. Een voorbeeld is het Exchange-beheercentrum. Na een periode verwachten we dat voor deze portals partneraccounts moeten worden gebruikt om zich aan te melden bij de tenant van de klant bij gebruik van gedelegeerde beheerdersbevoegdheden van de partner.
 
 ### <a name="using-service-apis"></a>Service-API's gebruiken
 
-Sommige MICROSOFT Online Services-API's (zoals Azure Resource Manager, Azure AD Graph, Microsoft Graph enzovoort) ondersteunen partners die gedelegeerde beheerdersbevoegdheden van partners gebruiken om klantresources programmatisch te beheren. Als u gedelegeerde beheerdersbevoegdheden van de partner wilt gebruiken met deze API's, moet de partnertoepassing een toegangs token opnemen in de header Autorisatie van de API-aanvraag, waarbij het toegangsken wordt verkregen door een partnergebruikersaccount te hebben om te verifiëren met Azure AD, waarbij de Azure AD-verificatiecontext van de klant is ingesteld. De partnertoepassing is vereist voor aanmelding met een partnergebruikersaccount bij de tenant van de klant.
+Sommige Microsoft Online Services-API's (zoals Azure Resource Manager, Azure AD Graph, Microsoft Graph, enzovoort) ondersteunen partners die gedelegeerde beheerdersbevoegdheden van partners gebruiken voor het programmatisch beheren van klantresources. Als u gedelegeerde beheerdersbevoegdheden van de partner wilt gebruiken met deze API's, moet de partnertoepassing een toegangs token opnemen in de header Autorisatie van DE API-aanvraag, waarbij het toegangsken wordt verkregen door een partnergebruikersaccount te laten verifiëren met Azure AD, waarbij de Azure AD-klant is ingesteld als verificatiecontext. De partnertoepassing moet een partnergebruikersaccount hebben om zich aan te melden bij de tenant van de klant.
 
-Wanneer Azure AD een dergelijke verificatieaanvraag ontvangt, heeft Azure AD het partnergebruikersaccount nodig om MFA-verificatie te voltooien. Als het partnergebruikersaccount nog niet eerder is geregistreerd voor MFA, wordt het gebruikersaccount gevraagd om eerst de MFA-registratie te voltooien.
+Wanneer Azure AD een dergelijke verificatieaanvraag ontvangt, heeft Azure AD het partnergebruikersaccount nodig om de MFA-verificatie te voltooien. Als het partnergebruikersaccount nog niet eerder is geregistreerd voor MFA, wordt het gebruikersaccount gevraagd om eerst de MFA-registratie te voltooien.
 
 Alle partnertoepassingen die zijn geïntegreerd met deze API's met behulp van gedelegeerde beheerdersbevoegdheden van de partner, worden beïnvloed door deze functie. Om ervoor te zorgen dat partnertoepassingen zonder onderbreking met deze API's kunnen blijven werken:
 
-- Partner moet voorkomen dat niet-interactieve gebruikersverificatiemethode met Azure AD wordt gebruikt om het toegangs token te verkrijgen. Wanneer u niet-interactieve gebruikersverificatiemethode zoals [Wachtwoord Flow,](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)kan Azure AD de gebruiker niet vragen om MFA-verificatie te voltooien. Partner moet overschakelen naar het gebruik van interactieve gebruikersverificatiemethode zoals [OpenID Verbinding maken stroom.](/azure/active-directory/develop/v1-protocols-openid-connect-code)
+- Partner moet voorkomen dat niet-interactieve gebruikersverificatiemethode met Azure AD wordt gebruikt om het toegangsken te verkrijgen. Wanneer u een niet-interactieve gebruikersverificatiemethode gebruikt, zoals Wachtwoord [Flow,](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)kan Azure AD de gebruiker niet vragen om MFA-verificatie te voltooien. Partner moet overschakelen naar het gebruik van een interactieve gebruikersverificatiemethode, zoals [OpenID Verbinding maken stroom.](/azure/active-directory/develop/v1-protocols-openid-connect-code)
 
-- Tijdens de interactieve verificatiemethode voor gebruikers moet de partner een partnergebruikersaccount gebruiken dat al is ingeschakeld voor MFA. Als dit wordt gevraagd door Azure AD, kan de partner ook de MFA-registratie en MFA-verificatie tijdens het aanmelden voltooien.
+- Tijdens de interactieve verificatiemethode voor gebruikers moet de partner een partnergebruikersaccount gebruiken dat al is ingeschakeld voor MFA. Als u hier om wordt gevraagd door Azure AD, kan de partner ook MFA-registratie en MFA-verificatie voltooien tijdens het aanmelden.
 
-- Dit is vergelijkbaar met het scenario waarin een eindklantten tenant MFA heeft geïmplementeerd voor de beheerders. De tenant van de klant heeft bijvoorbeeld [de standaardinstellingen](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)voor Azure AD-beveiliging ingeschakeld. Hiervoor zijn alle gebruikersaccounts met beheerdersrechten vereist om zich met MFA-verificatie aan te melden bij de tenant van de klant, met inbegrip van beheerdersagents en helpdeskmedewerkers. Voor testdoeleinden kunnen partners de [standaardinstellingen](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) voor Azure AD-beveiliging inschakelen in de tenant van de klant en vervolgens proberen gedelegeerde beheerdersbevoegdheden van de partner te gebruiken om programmatisch toegang te krijgen tot de tenant van de klant.
+- Dit is vergelijkbaar met het scenario waarin een eindklantten tenant MFA heeft geïmplementeerd voor de beheerders. De tenant van de klant heeft bijvoorbeeld [standaardinstellingen](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)voor Azure AD-beveiliging ingeschakeld. Hiervoor zijn alle gebruikersaccounts met beheerdersrechten vereist om zich aan te melden bij de tenant van de klant met MFA-verificatie, inclusief beheerdersagents en helpdeskmedewerkers. Voor testdoeleinden kunnen partners de [standaardinstellingen](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) voor Azure AD-beveiliging inschakelen in de tenant van de klant en vervolgens proberen de gedelegeerde beheerdersbevoegdheden van de partner te gebruiken om programmatisch toegang te krijgen tot de tenant van de klant.
 
 ### <a name="mfa-registration-experience"></a>MFA-registratie-ervaring
 
-Als tijdens MFA-verificatie het partneraccount nog niet eerder is geregistreerd voor MFA, wordt de gebruiker door Azure AD gevraagd om eerst de MFA-registratie te voltooien:
+Als het partneraccount tijdens MFA-verificatie nog niet eerder is geregistreerd voor MFA, wordt de gebruiker eerst door Azure AD gevraagd om de MFA-registratie te voltooien:
 
 :::image type="content" source="images/MfaRegistration1.png" alt-text="MFA-registratie stap 1.":::
 
@@ -188,23 +188,23 @@ Na een geslaagde registratie moet de gebruiker de MFA-verificatie voltooien op b
  
 ## <a name="list-of-common-issues"></a>Lijst met veelvoorkomende problemen
 
-Voordat u een technische [uitzondering op de](#how-to-submit-a-request-for-technical-exception) MFA-vereiste aanvraagt, bekijkt u de lijst met veelvoorkomende problemen die zijn gerapporteerd door andere partners om te begrijpen of uw aanvraag geldig is.
+Voordat u een technische [uitzondering op de](#how-to-submit-a-request-for-technical-exception) MFA-vereiste aanvraagt, bekijkt u de lijst met veelvoorkomende problemen die door andere partners zijn gerapporteerd om te begrijpen of uw aanvraag geldig is.
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Probleem 1: Partner heeft meer tijd nodig om MFA te implementeren voor hun partneragents
-Een partner is nog niet gestart of is nog bezig met het implementeren van MFA voor de partneragents die toegang nodig hebben tot Microsoft Online Services-portals met behulp van gedelegeerde beheerdersbevoegdheden van partners om klantresources te beheren. De partner heeft meer tijd nodig om de MFA-implementatie te voltooien. Is dit probleem een geldige reden voor een technische uitzondering?
+Een partner is nog niet gestart of is nog bezig met het implementeren van MFA voor hun partneragents die toegang nodig hebben tot Microsoft Online Services-portals met behulp van gedelegeerde beheerdersbevoegdheden van partners om klantresources te beheren. De partner heeft meer tijd nodig om de MFA-implementatie te voltooien. Is dit probleem een geldige reden voor een technische uitzondering?
 
 **Antwoord:** Nee. Partner moet plannen maken voor het implementeren van MFA voor hun gebruikers om onderbrekingen te voorkomen.
 
 > [!NOTE]
-> Hoewel de partner MFA niet heeft geïmplementeerd voor de partneragenten, hebben de partneragents nog steeds toegang tot Microsoft Online Services-portals met behulp van gedelegeerde beheerdersbevoegdheden van partners, mits ze MFA-registratie en MFA-verificatie kunnen voltooien wanneer ze worden gevraagd tijdens het aanmelden bij de tenant van de klant. Het voltooien van MFA-registratie schakelt de gebruiker niet automatisch in voor MFA.
+> Hoewel de partner MFA niet heeft geïmplementeerd voor hun partneragents, hebben de partneragents nog steeds toegang tot Microsoft Online Services-portals met behulp van gedelegeerde beheerdersbevoegdheden van partners, mits ze MFA-registratie en MFA-verificatie kunnen voltooien wanneer hier om wordt gevraagd tijdens het aanmelden bij de tenant van de klant. Als u MFA-registratie voltooit, wordt de gebruiker niet automatisch ingeschakeld voor MFA.
 
-##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Probleem 2: Partner heeft MFA niet geïmplementeerd voor gebruikersaccounts die geen gedelegeerde beheerdersbevoegdheden gebruiken
-Een partner heeft een aantal gebruikers in hun partnerten tenants die geen toegang nodig hebben tot Microsoft Online Services-portals voor het beheren van klantresources met behulp van gedelegeerde beheerdersbevoegdheden van partners. De partner is bezig met het implementeren van MFA voor deze gebruikers en heeft meer tijd nodig om dit te voltooien. Is dit probleem een geldige reden voor een technische uitzondering?
+##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Probleem 2: Partner heeft geen MFA geïmplementeerd voor gebruikersaccounts die geen gedelegeerde beheerdersbevoegdheden gebruiken
+Een partner heeft een aantal gebruikers in hun partnerten tenants die geen toegang nodig hebben tot Microsoft Online Services-portals voor het beheren van klantresources met behulp van gedelegeerde beheerdersbevoegdheden van partners. De partner is bezig met het implementeren van MFA voor deze gebruikers en heeft meer tijd nodig om te voltooien. Is dit probleem een geldige reden voor een technische uitzondering?
 
 **Antwoord:** Nee. Omdat deze gebruikersaccounts geen gedelegeerde beheerdersbevoegdheden van partners gebruiken voor het beheren van klantresources, zijn ze niet vereist om zich aan te melden bij de tenant van de klant. Ze worden niet beïnvloed door azure AD waarvoor MFA-verificatie is vereist tijdens het aanmelden bij de tenant van de klant.
 
-##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Probleem 3: Partner heeft MFA niet geïmplementeerd voor gebruikersserviceaccounts
-Een partner heeft een aantal gebruikersaccounts in hun partnerten tenants, die door apparaten worden gebruikt als serviceaccounts. Dit zijn accounts met beperkte bevoegdheden waarvoor geen toegang Partner Center en Microsoft Online Services-portals voor het beheren van klantresources met behulp van gedelegeerde beheerdersbevoegdheden van partners. Is dit probleem een geldige reden voor een technische uitzondering?
+##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Probleem 3: Partner heeft geen MFA geïmplementeerd voor gebruikersserviceaccounts
+Een partner heeft een aantal gebruikersaccounts in hun partnerten tenants, die door apparaten worden gebruikt als serviceaccounts. Dit zijn accounts met beperkte bevoegdheden waarvoor geen toegang is Partner Center microsoft Online Services-portals voor het beheren van klantresources met behulp van gedelegeerde beheerdersbevoegdheden van partners. Is dit probleem een geldige reden voor een technische uitzondering?
 
 **Antwoord:** Nee. Omdat deze gebruikersaccounts geen gedelegeerde beheerdersbevoegdheden van partners gebruiken voor het beheren van klantresources, zijn ze niet vereist om zich aan te melden bij de tenant van de klant. Ze worden niet beïnvloed door azure AD waarvoor MFA-verificatie is vereist tijdens het aanmelden bij de tenant van de klant.
 
@@ -215,19 +215,19 @@ Een partner heeft 'clean desk'-beleid, waardoor werknemers hun persoonlijke mobi
 - Partner kan zich ook registreren voor Azure AD Premium MFA-oplossingen van derden (compatibel met Azure AD) die aanvullende verificatiemethoden kunnen bieden.
 
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>Probleem 5: Partner kan MFA niet implementeren vanwege het gebruik van verouderde verificatieprotocollen
-Een partner heeft een aantal partneragents die nog steeds gebruikmaken van verouderde verificatieprotocollen, die niet compatibel zijn met MFA. De gebruikers gebruiken bijvoorbeeld nog steeds Outlook 2010, dat is gebaseerd op verouderde verificatieprotocollen. Het inschakelen van MFA voor deze partneragenten verstoort het gebruik van verouderde verificatieprotocollen.
+Een partner heeft een aantal partneragents die nog gebruikmaken van verouderde verificatieprotocollen, die niet compatibel zijn met MFA. De gebruikers gebruiken bijvoorbeeld nog steeds Outlook 2010, dat is gebaseerd op verouderde verificatieprotocollen. Het inschakelen van MFA voor deze partneragents verstoort het gebruik van verouderde verificatieprotocollen.
 
-**Antwoord:** Nee, dit is geen geldige reden voor een technische uitzondering. Partners worden ten zeerste aangeraden af te stappen van het gebruik van verouderde verificatieprotocollen vanwege mogelijke gevolgen voor de beveiliging, omdat deze protocollen niet kunnen worden beveiligd met MFA-verificatie en veel vatbaarder zijn voor referentierisico's. Als het gebruik van verouderde verificatieprotocollen geen optie is, kunnen partners overwegen om zich aan te melden voor Azure AD Premium, die het gebruik van toepassingswachtwoorden ondersteunt. Toepassingswachtwoorden zijn een een keer door het systeem gegenereerde wachtwoorden en zijn meestal sterker dan door mensen gegenereerde wachtwoorden. Met behulp van toepassingswachtwoorden kunnen partners MFA implementeren voor hun gebruikers, terwijl ze alleen voor verouderde verificatieprotocollen terugvallen op toepassingswachtwoorden.
+**Antwoord:** Nee, dit is geen geldige reden voor een technische uitzondering. Partners worden ten zeerste aangeraden af te zien van het gebruik van verouderde verificatieprotocollen vanwege mogelijke gevolgen voor de beveiliging, omdat deze protocollen niet kunnen worden beveiligd met MFA-verificatie en veel vatbaarder zijn voor referentierisico's. Als het niet mogelijk is om af te zien van het gebruik van verouderde verificatieprotocollen, moeten partners overwegen om zich aan te melden voor Azure AD Premium, dat ondersteuning biedt voor het gebruik van toepassingswachtwoorden. Toepassingswachtwoorden zijn een een keer door het systeem gegenereerde wachtwoorden en zijn meestal sterker dan door mensen gegenereerde wachtwoorden. Met behulp van toepassingswachtwoorden kunnen partners MFA implementeren voor hun gebruikers, terwijl ze alleen voor verouderde verificatieprotocollen terugvallen op toepassingswachtwoorden.
 
-Lees het bericht over de [Basisverificatie](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) en Exchange Online voor meer informatie over het meest recente plan voor het ondersteunen van verouderde verificatie voor Outlook en volg de blog van het [Exchange-team](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) om het volgende nieuws te lezen. 
+Lees het bericht over de Basisverificatie en [Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) voor meer informatie over het meest recente plan voor het ondersteunen van verouderde verificatie voor Outlook en volg de blog van het [Exchange-team](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) voor het volgende nieuws. 
 
 > [!NOTE]
-> Hoewel de partner MFA niet heeft geïmplementeerd voor de partneragenten, hebben de partneragents nog steeds toegang tot Microsoft Online Services-portals met behulp van gedelegeerde beheerdersbevoegdheden van partners, mits ze MFA-registratie en MFA-verificatie kunnen voltooien wanneer ze worden gevraagd tijdens het aanmelden bij de tenant van de klant. Het voltooien van MFA-registratie schakelt de gebruiker niet automatisch in voor MFA.
+> Hoewel de partner MFA niet heeft geïmplementeerd voor hun partneragents, hebben de partneragents nog steeds toegang tot Microsoft Online Services-portals met behulp van gedelegeerde beheerdersbevoegdheden van partners, mits ze MFA-registratie en MFA-verificatie kunnen voltooien wanneer hier om wordt gevraagd tijdens het aanmelden bij de tenant van de klant. Als u MFA-registratie voltooit, wordt de gebruiker niet automatisch ingeschakeld voor MFA.
 
-##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>Probleem 6: De partner heeft MFA van derden geïmplementeerd die niet wordt herkend door Azure AD
+##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>Probleem 6: De partner heeft externe MFA geïmplementeerd die niet wordt herkend door Azure AD
 Een partner heeft MFA geïmplementeerd voor hun gebruikers met behulp van een MFA-oplossing van derden. De partner kan de MFA-oplossing van derden echter niet correct configureren om aan Azure AD door te geven dat MFA-verificatie is voltooid tijdens gebruikersverificatie. Is dit een geldige reden voor een technische uitzondering?
 
-**Antwoord:** Ja, dit probleem kan worden beschouwd als een geldige reden voor een technische uitzondering. Voordat u een aanvraag voor technische uitzondering indient, moet u bij de provider van de MFA-oplossing van derden bevestigen dat de MFA-oplossing niet kan worden geconfigureerd om de claim *authenticationmethodsreferences* (met waarde *multipleauthn*) naar Azure AD te sturen om aan te geven dat MFA-verificatie is voltooid tijdens gebruikersverificatie. Tijdens het indienen van een aanvraag voor technische uitzondering, moet u details opgeven van de gebruikte MFA-oplossing van derden en de methode van integratie aangeven (bijvoorbeeld via identiteitsfederatie of het gebruik van Aangepast beheer van Azure AD), en de volgende informatie in de aanvraag voor technische uitzonderingen opgeven als de ondersteunende documenten:
+**Antwoord:** Ja, dit probleem kan worden beschouwd als een geldige reden voor een technische uitzondering. Voordat u een aanvraag voor technische uitzondering indient, moet u bij de provider van de MFA-oplossing van derden bevestigen dat de MFA-oplossing niet kan worden geconfigureerd om de claim *authenticationmethodsreferences* (met de waarde *multipleauthn*) naar Azure AD te sturen om aan te geven dat MFA-verificatie is voltooid tijdens de gebruikersverificatie. Tijdens het indienen van een aanvraag voor technische uitzondering, moet u details opgeven van de gebruikte MFA-oplossing van derden en de integratiemethode aangeven (bijvoorbeeld via identiteitsfederatie of het gebruik van Aangepast beheer van Azure AD), en de volgende informatie in de aanvraag voor technische uitzonderingen opgeven als de ondersteunende documenten:
 
 - De MFA-configuraties van derden.
 
@@ -235,26 +235,26 @@ Een partner heeft MFA geïmplementeerd voor hun gebruikers met behulp van een MF
 
 - De inkooporder van de MFA-oplossing van derden die u gebruikt of die u wilt gebruiken.
 
-## <a name="how-to-submit-a-request-for-technical-exception"></a>Een aanvraag indienen voor een technische uitzondering
+## <a name="how-to-submit-a-request-for-technical-exception"></a>Een aanvraag indienen voor technische uitzonderingen
 
 Partners kunnen een technische uitzondering aanvragen om MFA-verificatie te onderdrukken als ze technische problemen ondervinden met Microsoft Online Services en er geen haalbare oplossing of tijdelijke oplossing is. Bekijk voordat u dit doet de [lijst met veelvoorkomende problemen](#list-of-common-issues) in de vorige sectie.
 
-Een aanvraag voor een technische uitzondering indienen:
+Een aanvraag voor technische uitzondering indienen:
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
 1. Meld u aan bij [Partner Center dashboard](https://partner.microsoft.com/dashboard) als globale beheerder of beheerderagent.
 
 2. Selecteer de **tegel Help en ondersteuning** en selecteer vervolgens **Nieuwe aanvraag.**
 
-3. Zoeken naar **MFA - Aanvraag voor uitzondering** in het zoekvak; of selecteer **CSP** in Categorie, selecteer **vervolgens Accounts, Onboarding, Toegang** vanuit onderwerp, selecteer vervolgens **MFA - Aanvraag** voor uitzondering van het subonderwerp en selecteer vervolgens volgende **stap.**
+3. Zoeken naar **MFA- Uitzondering aanvragen** in het zoekvak; of selecteer **CSP** in Categorie, selecteer **vervolgens Accounts, Onboarding, Toegang** vanuit onderwerp, selecteer **vervolgens MFA - Aanvraag** voor uitzondering van het subonderwerp en selecteer vervolgens volgende **stap.**
 
-4. Geef de details op die zijn aangevraagd om een serviceaanvraag voor technische uitzondering in te dienen en selecteer **Verzenden.**
+4. Geef details op die zijn aangevraagd om een serviceaanvraag voor technische uitzondering in te dienen en selecteer **Verzenden.**
 
-Het kan tot drie werkdagen duren voordat Microsoft een reactie geeft op een aanvraag voor technische uitzonderingen.
+Het kan tot drie werkdagen duren voordat Microsoft een reactie geeft op een aanvraag voor technische uitzondering.
 
 #### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
@@ -262,11 +262,11 @@ Het kan tot drie werkdagen duren voordat Microsoft een reactie geeft op een aanv
 
 2. Maak een nieuwe partnerserviceaanvraag door **Ondersteuning** te selecteren, vervolgens **Partnerondersteuningsaanvragen** en vervolgens **Nieuwe aanvraag te selecteren.**
 
-3. Zoeken naar **MFA - Aanvraag voor uitzondering** in het zoekvak; of selecteer **CSP** in Categorie, selecteer **vervolgens Accounts, Onboarding, Toegang** vanuit onderwerp, selecteer vervolgens **MFA - Aanvraag** voor uitzondering van het subonderwerp en selecteer vervolgens volgende **stap.**
+3. Zoeken naar **MFA- Uitzondering aanvragen** in het zoekvak; of selecteer **CSP** in Categorie, selecteer **vervolgens Accounts, Onboarding, Toegang** vanuit onderwerp, selecteer **vervolgens MFA - Aanvraag** voor uitzondering van het subonderwerp en selecteer vervolgens volgende **stap.**
 
-4. Geef de details op die zijn aangevraagd om een serviceaanvraag voor technische uitzondering in te dienen en selecteer **Verzenden.**
+4. Geef details op die zijn aangevraagd om een serviceaanvraag voor technische uitzondering in te dienen en selecteer **Verzenden.**
 
-Het kan tot drie werkdagen duren voordat Microsoft een reactie geeft op een aanvraag voor technische uitzonderingen.
+Het kan tot drie werkdagen duren voordat Microsoft een reactie geeft op een aanvraag voor technische uitzondering.
 
 * * *
 

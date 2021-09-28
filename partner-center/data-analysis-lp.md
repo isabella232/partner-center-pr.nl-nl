@@ -9,12 +9,12 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa7352277e241156884f6fda07f64cab5cb5b21a
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 640fda04742db736234f66ead0ed9a4a9b5af95b
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073493"
+ms.locfileid: "129090096"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Analyse gebruiken voor meer informatie over de omzet van abonnementen
 
@@ -25,7 +25,7 @@ Als u manieren wilt plannen om uw CSP-bedrijf te ontwikkelen, moet u weten hoe u
 ## <a name="access-to-the-subscription-analytics"></a>Toegang tot de Subscription Analytics
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 

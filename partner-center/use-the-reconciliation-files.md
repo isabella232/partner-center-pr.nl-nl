@@ -2,34 +2,34 @@
 title: Uw afstemmingsbestanden gebruiken
 ms.topic: article
 ms.date: 09/27/2021
-description: Meer informatie over afstemmingsbestanden in Partner Center hoe u de gedetailleerde weergaven van regelitemkosten voor een bepaalde factureringscyclus interpreteert.
+description: Meer informatie over afstemmingsbestanden in Partner Center en hoe u de gedetailleerde weergaven van line-item van kosten voor een bepaalde factureringscyclus interpreteert.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dcfcc7b555b3cdfb44549a78f1134672e0ea914
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 15767f57131013b2087f76145851ce7d122548ff
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072803"
+ms.locfileid: "129088447"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Informatie over het lezen van de regelitems in uw Partner Center afstemmingsbestanden
 
-**Juiste rollen:** Factureringsbeheerders | Globale beheerder
+**Juiste rollen:** Factureringsbeheerder | Globale beheerder
 
-U kunt uw afstemmingsbestanden downloaden Partner Center voor een gedetailleerde weergave van alle kosten in een factureringscyclus. Details van regelitem omvatten kosten voor de abonnementen van elke klant en gedetailleerde gebeurtenissen (zoals het op de korte termijn toevoegen van licenties aan een abonnement).
+U kunt uw afstemmingsbestanden downloaden Partner Center voor een gedetailleerde, line-itemweergave van elke kosten in een factureringscyclus. Details van regelitem bevatten kosten voor de abonnementen van elke klant en gedetailleerde gebeurtenissen (zoals het op de korte termijn toevoegen van licenties aan een abonnement).
 
-Zie Uw factuur lezen voor **meer informatie** over het lezen van [uw factuur.](read-your-bill.md)
+Zie Uw factuur lezen voor meer **informatie** over het [lezen van uw factuur.](read-your-bill.md)
 
 ## <a name="understand-reconciliation-file-fields"></a>Velden voor afstemmingsbestand begrijpen
 
 - [Velden voor afstemmingsbestand op basis van licentie](license-based-recon-files.md)
 - [Velden voor afstemmingsbestand op basis van gebruik](usage-based-recon-files.md)
 - [Velden voor afstemmingsbestand over dagelijks gebruik](daily-rated-usage-recon-files.md)
-- [Velden voor CSP-afstemmingsbestand voor een een time-aankoop](modern-invoice-reconciliation-file.md)
+- [Velden voor CSP-afstemmingsbestand voor een een keer aanschaffen](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Inzicht in kostentypen in afstemmingsbestanden
 
@@ -46,7 +46,7 @@ Volg deze stappen om eventuele opmaakproblemen in uw afstemmingsbestanden op te 
 3. Open de **wizard Tekst converteren naar kolommen.** Selecteer op het lint **Gegevens** en selecteer vervolgens Tekst **naar kolommen.**
 4. Selecteer in de wizard **Bestandstype met scheidingstekens.** Selecteer vervolgens **Volgende**.
 5. Selecteer in **het veld Scheidingstekens** de optie **Komma**. (Als **Tab** al is geselecteerd, kunt u deze optie ingeschakeld laten.) Selecteer vervolgens **Volgende.**
-6. Selecteer **datum:MDY** **in** het veld Kolomgegevensindeling. Selecteer vervolgens **Volgende**.
+6. Selecteer  **datum:MDY** in het veld Kolomgegevensindeling. Selecteer vervolgens **Volgende**.
 7. Selecteer in **het veld Kolomgegevensindeling** de optie **Tekst** voor alle hoeveelheid kolommen. Selecteer vervolgens **Voltooien**.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Afstemmingsbestanden programmatisch downloaden
@@ -61,58 +61,58 @@ Als u een afstemmingsbestand kunt downloaden maar niet kunt openen in Microsoft 
 
 1. Download het afstemmingsbestand zoals u dat normaal zou doen.
 2. Download, installeer en open een exemplaar van Microsoft Power BI.
-3. Selecteer op Power BI **tabblad Start** de optie **Gegevens verzamelen.**
+3. Selecteer op Power BI **tabblad Start** de optie **Gegevens op halen.**
 4. Selecteer **Tekst/CSV** **in** de lijst met algemene gegevensbronnen.
 5. Open het reconbestand wanneer u daarom wordt gevraagd.
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Open een reconbestand in een Excel draaitabel
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Open een recon-bestand in een Excel draaitabel
 
 1. Download het afstemmingsbestand zoals u dat normaal zou doen.
 2. Open een nieuw bestand in Microsoft Excel.
-3. Selecteer op **het** tabblad Gegevens de optie **Gegevens downloaden,** selecteer **Uit bestand** en selecteer vervolgens **Tekst/CSV.**
+3. Selecteer op **het tabblad** Gegevens de optie **Gegevens downloaden,** selecteer **Uit bestand** en selecteer vervolgens **Tekst/CSV.**
 4. Open het reconbestand wanneer u daarom wordt gevraagd. Uw gegevens worden weergegeven.
-5. Selecteer in **de** vervolgkeuzelijst Laden de optie **Laden naar** en selecteer vervolgens **OK.**
+5. Selecteer in **de vervolgkeuzelijst** Laden de optie **Laden naar** en selecteer vervolgens **OK.**
 6. Selecteer in **het dialoogvenster Gegevens** importeren de optie **Draaitabelrapport om** het bestand te openen.
 
-## <a name="negative-amount-displayed"></a>Negatief bedrag weergegeven
+## <a name="negative-amount-displayed"></a>Negatieve hoeveelheid weergegeven
 
 Mogelijk ziet u een negatief bedrag in uw afstemmingsbestand. Dit wordt mogelijk veroorzaakt door een van de volgende zaken:
 
-- U hebt het aantal licenties onlangs geannuleerd of verlaagd
+- U hebt onlangs het aantal licenties geannuleerd of verlaagd
 - U hebt tegoed ontvangen voor een servicelicentieovereenkomst (SLA) of voor Azure-verbruik
 
 Voor meer informatie over deze transactie raadpleegt u de bijbehorende kostentype-eigenschap in uw afstemmingsbestand.
 
 ## <a name="map-taxes-or-vat"></a>Btw of btw in kaart brengen
 
-Belastingen of btw-waarde (BTW) aan uw factuur toe te voegen:
+Belastingen of btw (btw) aan uw factuur toevoegen:
 
 - Som de **kolom Belasting** op uit het op licenties gebaseerde bestand.
 - Som de **kolom TaxAmount** op uit het bestand op basis van gebruik.
 
 ## <a name="itemize-reconciliation-files-by-partner"></a>Afstemmingsbestanden itemeren per partner
 
-Partners in het **indirecte model kunnen** deze aanvullende velden gebruiken in zowel op licenties gebaseerde als op gebruik gebaseerde afstemmingsbestanden om de bestanden per reseller te itemeren.
+Partners in het **indirecte model kunnen** deze aanvullende velden gebruiken in afstemmingsbestanden op basis van licenties en gebruik om de bestanden per reseller te itemeren.
 
 | MPN-id | Beschrijving |
 | ------ | ----------- |
 | MPN-id | De Microsoft Partner Network (MPN)-id van de Cloud Solution Provider (CSP)-partner (direct of indirect). |
-| [MPN-id van reseller](#reseller-mpn-id) | De [MPN-id van de reseller van de record voor het abonnement](#reseller-mpn-id). Dit veld komt overeen met de reseller-id die wordt vermeld voor het specifieke abonnement in Partner Center. Wordt alleen weergegeven in afstemmingsbestanden voor partners in het indirecte model. |
+| [MPN-id voor reseller](#reseller-mpn-id) | De [MPN-id van de wederverkoper van de record voor het abonnement](#reseller-mpn-id). Dit veld komt overeen met de reseller-id die wordt vermeld voor het specifieke abonnement in Partner Center. Wordt alleen weergegeven in afstemmingsbestanden voor partners in het indirecte model. |
 
-### <a name="reseller-mpn-id"></a>MPN-id van reseller
+### <a name="reseller-mpn-id"></a>MPN-id voor reseller
 
-Als een CSP-partner het abonnement rechtstreeks aan de klant heeft verkocht, wordt de **MPN-id** twee keer vermeld, zowel als de **MPN-id** van de reseller en de **MPN-id** van de reseller.
+Als een CSP-partner het abonnement rechtstreeks aan de klant heeft verkocht, wordt de **MPN-id** twee keer weergegeven, zowel als de **MPN-id** en de **MPN-id** van de reseller.
 
 Als een CSP-partner een reseller zonder **MPN-id** heeft, wordt deze waarde in plaats daarvan ingesteld op de **MPN-id van de partner.**
 
-Als de CSP-partner een **MPN-id** voor resellers verwijdert, wordt deze waarde ingesteld *op -1.*
+Als de CSP-partner een **MPN-id voor** resellers verwijdert, wordt deze waarde ingesteld *op -1.*
 
 Als u de MPN-id van **de reseller wilt weergeven of bijwerken:**
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u deze [in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+#### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 
 1. Meld u aan bij het [dashboard van het Partnercentrum](https://partner.microsoft.com/dashboard).
 
@@ -122,7 +122,7 @@ Als u de MPN-id van **de reseller wilt weergeven of bijwerken:**
 
 4. Kies het abonnement in de lijst.
 
-5. Selecteer **Bijwerken om** de reseller -id (MPN) te wijzigen.
+5. Selecteer **Bijwerken om** de reseller (MPN-id) te wijzigen.
 
 #### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
@@ -136,7 +136,7 @@ Als u de MPN-id van **de reseller wilt weergeven of bijwerken:**
 
 5. Kies het abonnement in de lijst.
 
-6. Selecteer **Bijwerken om** de reseller -id (MPN) te wijzigen.
+6. Selecteer **Bijwerken om** de reseller (MPN-id) te wijzigen.
 
 * * *
 

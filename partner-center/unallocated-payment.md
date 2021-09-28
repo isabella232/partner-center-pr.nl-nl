@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db271f6fb0ecad7a50ae43e28b29c33931bca0c9
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 60082ab97940c350f4b1cddbb49f3cc1128dfe49
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071256"
+ms.locfileid: "129088482"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Niet-toegewezen betalingen beheren op uw Partner Center factureringspagina
 
@@ -25,7 +25,7 @@ Af en toe wordt er mogelijk een niet-toegewezen betaling weergegeven op uw factu
 ## <a name="to-view-your-unallocated-payments"></a>Uw niet-toegewezen betalingen weergeven
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 

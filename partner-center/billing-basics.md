@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a57ed239e331c43cbfeaf1d1c860972824e0f848
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: eb9fff7ddbf828cbf15ad447c66ed18dfcb0643b
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072431"
+ms.locfileid: "129089162"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Factureringsoverzicht voor partners van het CSP-programma die in Partner Center werkzaam zijn 
 
@@ -25,7 +25,7 @@ Dit artikel bevat de basisfacturerings- en factuurgegevens voor CSP-partners in 
 ## <a name="find-your-bill"></a>Uw factuur zoeken
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -119,7 +119,7 @@ Er zijn twee soorten factureringsfrequenties: jaarlijks en maandelijks. Servicet
 
 - Facturering valt onder 12 maandelijkse betalingen of één jaarlijkse betaling per jaarabonnement.
 
-- U wordt vooraf gefactureerd voor de volgende factureringsperiode voor op licenties gebaseerde services, op basis van het aantal licenties aan het einde van de vorige factureringsperiode.
+- U wordt vooraf gefactureerd voor de volgende factureringsperiode voor op licenties gebaseerde services, op basis van het aantal licenties aan het einde van de voorafgaande factureringsperiode.
 
 - Eventuele wijzigingen in het aantal licenties (pro rata berekening op basis van licentiedagen) worden achteraf gefactureerd/gefactureerd. Pro-rataberekening maakt gebruik van de volgende formule:
 
@@ -140,7 +140,7 @@ Er zijn twee soorten factureringsfrequenties: jaarlijks en maandelijks. Servicet
 Mogelijk moet u om de volgende redenen een tegoed of een nieuwebill aanvragen:
 
 - U moet de adres- of inkoopordercorrecties toepassen.
-- Er is een belastingrestitutie toegepast nadat de factuur is gegenereerd. U kunt een tegoed of factuur aanvragen om de belastingrestitutie terug te krijgen in de oorspronkelijke factuur. Hetzelfde geldt ook voor restituties. U kunt een tegoed of factuur van de oorspronkelijke factuur aanvragen en vervolgens een restitutie aanvragen.
+- Er is een belastingrestitutie toegepast nadat de factuur is gegenereerd. U kunt een tegoed of factuur aanvragen om de belastingrestitutie terug te halen naar de oorspronkelijke factuur. Hetzelfde geldt ook voor restituties. U kunt een tegoed of factuur van de oorspronkelijke factuur aanvragen en vervolgens een restitutie aanvragen.
 
 **Voor alle eenmalige en terugkerende transacties** kan Microsoft een tegoednota uitgeven wanneer u een tegoed of een rebill aanvraagt. De factuur wordt geannuleerd wanneer het tegoed wordt uitgegeven.
 

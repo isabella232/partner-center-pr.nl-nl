@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6cf260df6f1b5d3ae814678c47f13b2b4015b62
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4ec75b05ea9d81693a7c2592db80710c6c948433
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074778"
+ms.locfileid: "129088906"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Gebruik metrische gegevens in Partner Center acceptatie en tevredenheid te verhogen
 
@@ -34,7 +34,7 @@ U vindt licentie- en gebruikersgegevens voor één klant of in uw portfolio.
 ### <a name="find-license-and-user-data-for-a-single-customer"></a>Licentie- en gebruikersgegevens voor één klant zoeken
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -63,7 +63,7 @@ U vindt licentie- en gebruikersgegevens voor één klant of in uw portfolio.
 U kunt ook inzicht krijgen in uw licentie- en gebruikersgegevens.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 

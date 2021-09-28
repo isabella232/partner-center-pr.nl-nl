@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2004734a250a23be3037342ecc01f5e6bf7b51b0
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: df1e7f4aa34c44f0fcb030cda3df1d6f9cb241f9
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070197"
+ms.locfileid: "129089518"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Inzicht in uw factuur- en afstemmingsbestand - informatie over hoe u deze kunt vinden in Partner Center
 
@@ -24,10 +24,10 @@ Uw factuur is een overzicht van al uw Partner Center kosten voor het programma, 
 
 ## <a name="find-your-bill-and-reconciliation-file"></a>Uw factuur- en afstemmingsbestand zoeken
 
-U vindt uw factuur op de factureringspagina van het dashboard in Partner Center. Op deze pagina vindt u ook uw factureringsgeschiedenis, bestedingstrends en afstemmingsbestanden.
+U vindt uw factuur op de pagina Facturering van het dashboard in Partner Center. Op deze pagina vindt u ook uw factureringsgeschiedenis, bestedingstrends en afstemmingsbestanden.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 
@@ -57,7 +57,7 @@ Vorige facturen vindt u in de sectie Factureringsgeschiedenis. Kies het juiste j
 
 ## <a name="invoice-types"></a>Factuurtypen
 
-Microsoft zal één factuur uitgeven voor kosten op basis van licenties (zoals Office 365) en kosten op basis van gebruik (zoals Azure) en een afzonderlijke factuur voor een time-kosten (zoals Azure RI, Marketplace of Azure-plan).
+Microsoft geeft één factuur uit voor kosten op basis van licenties (zoals Office 365) en kosten op basis van gebruik (zoals Azure) en een afzonderlijke factuur voor een een time-kosten (zoals Azure RI, Marketplace of Azure-plan).
 
 Bijvoorbeeld:  
 
@@ -77,7 +77,7 @@ Bijvoorbeeld:
 
 - De partner ontvangt één PDF-factuur en één afstemmingsbestand voor de kosten voor het Azure-plan in DEN. 
 
-- Partner ontvangt een ander PDF-factuurbestand en één afstemmingsbestand waarin de kosten voor 145p-aanbieding in EURO (of factureringsvaluta van de partner) worden vermeld. 
+- Partner ontvangt een ander PDF-factuurbestand en één afstemmingsbestand voor de kosten voor 145p-aanbieding in EURO (of partnerfactureringsvaluta). 
 
 ## <a name="understanding-invoice-pdf"></a>Informatie over factuur-PDF 
 
@@ -101,11 +101,11 @@ Hieronder vindt u enkele van de belangrijkste velden in het PDF-document voor fa
 
 **Betalingsinstructies:** beschrijving van het betalen van uw factuur, op basis van uw regio. Zorg er altijd voor dat u uw factuurnummer bij het doen van een betaling op uw factuur vermeldt. 
 
-Zie Velden voor factuurbestand voor een gedetailleerde beschrijving van alle velden in uw factuurbestand (inclusief velden voor [een een time-charges).](invoice-file.md) 
+Zie Velden voor factuurbestand voor een gedetailleerde beschrijving van alle velden in uw factuurbestand (inclusief velden voor een [een time-charges).](invoice-file.md) 
 
 ## <a name="understand-reconciliation-files"></a>Afstemmingsbestanden begrijpen
 
- Afstemmingsbestanden, die een inzoom-/gespecificeerde details van uw kosten bieden, kunnen samen met de pdf-factuur worden gedownload. De afstemmingsbestanden bevatten klant-id's en abonnements-id's die u kunt gebruiken om klantfacturen te maken. Zie De afstemmingsbestanden gebruiken voor meer [informatie over afstemmingsbestanden.](use-the-reconciliation-files.md) 
+ Afstemmingsbestanden, die een inzoom-/gespecificeerde details van uw kosten bieden, kunnen samen met de pdf-factuur worden gedownload. De afstemmingsbestanden bevatten klant-id's en abonnements-id's die u kunt gebruiken om klantfacturen te maken. Zie De afstemmingsbestanden gebruiken voor meer informatie [over afstemmingsbestanden.](use-the-reconciliation-files.md) 
 
 ## <a name="next-steps"></a>Volgende stappen
 

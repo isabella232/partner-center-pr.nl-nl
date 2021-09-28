@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fd77aa8e6dbd9536d1e8aed528ddb37f2749f99f
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 5271f70bee15582689670007a22d858760c104d9
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071111"
+ms.locfileid: "129090164"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Hoe en wanneer u een tegoed kunt aanvragen bij Microsoft
 
@@ -52,7 +52,7 @@ Tegoedaanvragen worden alleen geaccepteerd van directe en indirecte CSP-provider
 
 4. Selecteer **Door onderwerpen** bladeren en selecteer **Categorie** = CSP, **Onderwerp** = Facturering en facturering en **Subonderwerp** = Tegoedaanvragen en restituties.
 
-5. Selecteer op **de pagina** Aanbevolen oplossingen onder Hebt u meer **hulp nodig?** de **optie Ja.**
+5. Selecteer op **de pagina** Aanbevolen oplossingen onder Hebt u meer **hulp nodig?** de optie **Ja.**
 
 6. Vul op **de** pagina Details de sectie **Probleemdetails** in. Voer in **het** tekstvak Details de vereiste gegevens in die worden beschreven in **het** formulier Voor tegoed of **restitutie aanvragen.**
 
@@ -60,15 +60,15 @@ Tegoedaanvragen worden alleen geaccepteerd van directe en indirecte CSP-provider
 
 #### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
 
-1. Download en vul de [*aanvraag voor tegoed of restitutieformulier in.*](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3eWCb) (Houd er rekening mee dat als u de voorgaande koppeling selecteert, het formulier rechtstreeks naar uw computer wordt gedownload.)
+1. Download en vul het [*aanvraagformulier voor tegoed of restitutie in.*](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3eWCb) (Houd er rekening mee dat als u de voorgaande koppeling selecteert, het formulier rechtstreeks naar uw computer wordt gedownload.)
 
-2. Meld u aan bij Partner Center [dashboard en](https://partner.microsoft.com/dashboard) selecteer **Serviceaanvragen.**
+2. Meld u aan bij [Partner Center dashboard en](https://partner.microsoft.com/dashboard) selecteer **Serviceaanvragen.**
 
 3. Selecteer **Nieuwe aanvraag.**
 
 4. Selecteer **Door onderwerpen** bladeren en selecteer **Categorie** = CSP, **Onderwerp** = Facturering en facturering en **Subonderwerp** = Tegoedaanvragen en restituties.
 
-5. Selecteer op **de pagina** Aanbevolen oplossingen onder Hebt u meer **hulp nodig?** de **optie Ja.**
+5. Selecteer op **de pagina** Aanbevolen oplossingen onder Hebt u meer **hulp nodig?** de optie **Ja.**
 
 6. Vul op **de** pagina Details de sectie **Probleemdetails** in. Voer in **het tekstvak** Details de vereiste informatie in die wordt beschreven in **aanvraag voor tegoed** of **restitutieformulier.**
 
@@ -83,7 +83,7 @@ In deze sectie worden enkele tegoeden beschreven die u kunt aanvragen.
 ### <a name="accidental-purchase-credit"></a>Onopzettelijk aankooptegoed
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -118,7 +118,7 @@ Voor tegoedaanvragen voor verouderde aanbiedingen van Microsoft 365 of Microsoft
 
 - Annuleringen van abonnementen binnen 30 dagen na aankoop worden 100% gerestitueerd zonder dat u een serviceaanvraag hoeft te maken. Het tegoed wordt weergegeven in het factuur-/afstemmingsbestand dat is uitgegeven nadat het abonnement is opgeschort.
 
-- Als u een abonnement in maanden 2 tot en met 12 schort, wordt u naar eigen goedheid gecrediteerd. Als u een volledige restitutie wilt ontvangen vanaf het begin van het abonnement, moet een aanvraag binnen **90** dagen na aankoop worden ingediend, met uitzondering van:
+- Als u een abonnement in maanden 2 tot en met 12 opzegt, wordt u naar eigen goedheid gecrediteerd. Als u een volledige restitutie wilt ontvangen vanaf het begin van het abonnement, moet een aanvraag binnen **90** dagen na aankoop worden ingediend, met uitzondering van:
 
   - Microsoft Power BI Premium P1:Een aanvraag moet binnen **zeven** dagen worden ingediend voor een restitutie van 100%. Na zeven dagen worden vaste kosten in mindering gebracht op het tegoed.
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b32e1e2b45d7f263e04f04c4836d96aaaf63cdb
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 95065d8e496021e720ebbd2e897b88d9d8198d82
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071341"
+ms.locfileid: "129089603"
 ---
 # <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Het Azure-abonnement kopen voor klanten en toegang krijgen tot de nieuwste Azure-services
 
@@ -30,7 +30,7 @@ De nieuwe commerce-ervaring in CSP voor Azure is momenteel gepland om beschikbaa
 
 ## <a name="how-to-purchase-azure-plan"></a>Een Azure-abonnement kopen
 
-Hoe u het Azure-abonnement aanschaft, is vergelijkbaar met het kopen van een ander abonnement. Het belangrijkste verschil is dat u, voordat u uw order daadwerkelijk gaat plaatsen, moet bevestigen dat uw klant de Microsoft-klantovereenkomst.
+De manier waarop u het Azure-abonnement aanschaft, is vergelijkbaar met het kopen van een ander abonnement. Het belangrijkste verschil is dat u, voordat u uw order daadwerkelijk plaats, moet bevestigen dat uw klant de Microsoft-klantovereenkomst.
 
 1. Selecteer **Commercieel segment** en typ vervolgens 'Microsoft Azure'.
 
@@ -38,13 +38,13 @@ Hoe u het Azure-abonnement aanschaft, is vergelijkbaar met het kopen van een and
 
    :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Aankoop.":::
 
-De partner moet bevestigen dat de klant de voorwaarden van de Microsoft-klantovereenkomst heeft geaccepteerd. Lees Acceptatie van de klant bevestigen van de Microsoft-klantovereenkomst voor meer informatie over hoe de partner [dit kan Microsoft-klantovereenkomst.](./confirm-customer-agreement.md) Andere resources zijn beschikbaar in de [resourcegalerie.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
+De partner moet bevestigen dat de klant de voorwaarden heeft Microsoft-klantovereenkomst geaccepteerd. Lees Acceptatie van de klant bevestigen van de Microsoft-klantovereenkomst voor meer informatie [over hoe de partner dit kan Microsoft-klantovereenkomst.](./confirm-customer-agreement.md) Andere resources zijn beschikbaar in de [resourcegalerie.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
 Bevestig vervolgens digitaal of nodig de klant uit om de Microsoft-klantovereenkomst rechtstreeks bij Microsoft te ondertekenen. 
 
 ### <a name="to-invite-the-customer-to-sign-the-agreement-directly"></a>De klant uitnodigen om de overeenkomst rechtstreeks te ondertekenen
 
-1. Selecteer op de pagina **Account van** de klant de optie **Bijwerken** naast **Microsoft-klantovereenkomst.**
+1. Selecteer op de pagina **Account van** de klant **de** optie Bijwerken **naast Microsoft-klantovereenkomst.**
 
 2. Vul de informatie in over de persoon in het bedrijf van de klant die de Microsoft Customer Agremeent heeft geaccepteerd.
 
@@ -67,17 +67,17 @@ Zie Een Azure-plan maken om Partner Center Azure-plan te [vinden.](/partner-cent
 
 ## <a name="review-and-buy"></a>Beoordelen en kopen
 
-Ga terug naar **de pagina Een product** toevoegen waar u kunt zien dat het Azure-plan is toegevoegd. Selecteer **Controleren** om uw aankoop te controleren en selecteer vervolgens **Kopen.** 
+Ga terug naar **de pagina Een product** toevoegen waar u kunt zien dat het Azure-plan is toegevoegd. Selecteer **Controleren om** uw aankoop te controleren en selecteer vervolgens **Kopen.** 
 
 > [!NOTE]
 > Nadat u het Azure-abonnement voor een klant hebt gekocht, kunt u geen Microsoft Azure (0145p) meer aanschaffen voor die klant. U moet toekomstige abonnementen maken via het Azure-plan.
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure-reserveringen kopen onder het Azure-abonnement 
   
-U kunt ook Microsoft Azure azure-abonnement namens uw klanten kopen in Partner Center. (Als u dat liever hebt, kunt u uw klanten ook toestemming geven om hun eigen [Azure-reserveringen](give-customers-permission.md) te kopen bij een eerder abonnement dat u voor hen hebt aangeschaft.)
+U kunt ook namens uw klanten Microsoft Azure namens uw klanten in Partner Center. (Als u dat liever hebt, kunt u uw klanten ook toestemming geven om hun eigen [Azure-reserveringen](give-customers-permission.md) te kopen bij een eerder abonnement dat u voor hen hebt aangeschaft.)
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Voor meer informatie over de interface van werkruimten en hoe u deze in kunt [Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Voor meer informatie over de werkruimte-interface [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimtenweergave](#tab/workspaces-view)
 

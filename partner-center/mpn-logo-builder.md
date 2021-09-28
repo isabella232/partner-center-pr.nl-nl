@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4d7f60254383ed6aee8c228a422dcb8f15730c22
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 6e42bd8c2e8cd4c5309042b8fe14eb9943dabc24
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070211"
+ms.locfileid: "129088787"
 ---
 # <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>Een partnerlogo, gecertificeerde letter of award-logo maken
 
@@ -54,7 +54,7 @@ Eerder gemaakte en opgeslagen logo's zijn beschikbaar in uw **onlangs opgeslagen
 Als u eerder logo's hebt gemaakt, selecteert **u Alles weergeven** om de volledige bibliotheek weer te krijgen.
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -97,7 +97,7 @@ Als u eerder logo's hebt gemaakt, selecteert **u Alles weergeven** om de volledi
 ## <a name="create-a-certified-letter-using-logo-builder"></a>Een gecertificeerde letter maken met Logo Builder
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -142,30 +142,13 @@ Als u eerder logo's hebt gemaakt, selecteert **u Alles weergeven** om de volledi
 ## <a name="create-an-award-logo-using-logo-builder"></a>Een award-logo maken met Logo Builder
 
 > [!NOTE]
-> De Partner Center preview-interface biedt u een efficiëntere en productieve gebruikerservaring via logisch gegroepeerde werkruimten. Zie Getting around Partner Center voor meer informatie over de interface van werkruimten en hoe u [deze in Partner Center.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
 1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard) met uw werkaccount.
 
 2. Selecteer de **tegel Voordelen** en selecteer vervolgens **Logo Builder.**
-
-3. Selecteer **onder Uw logo bouwen** in het vak **Beloningen** het plusteken.
-
-4. Selecteer in **de vervolgkeuzelijst & de** sjabloon het jaar van de prijs. Beschikbare sjablonen worden weergegeven onder de vervolgkeuzelijst.
-
-5. Selecteer **Maken** voor de sjabloon die u wilt gebruiken.
-
-6. Gebruik vervolgens de volgende stappen om uw award-logo aan te passen:
-    1. Selecteer **in Beschikbare toekenningen** de prijs die u wilt in het logo.
-    2. Voer **bij Award name** een naam in voor uw logo.
-    3. Wanneer u klaar bent met het aanpassen van uw award-logo, selecteert u **Opslaan** **of Opslaan & downloaden.**
-
-#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
-
-1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard) met uw werkaccount.
-
-2. Selecteer in Partner Center menu onder **Voordelen** de optie **Logo Builder.**
 
 3. Selecteer **onder Uw logo bouwen** in het vak **Beloningen** het plusteken.
 
@@ -176,7 +159,24 @@ Als u eerder logo's hebt gemaakt, selecteert **u Alles weergeven** om de volledi
 6. Gebruik vervolgens de volgende stappen om uw award-logo aan te passen:
     1. Selecteer **in Beschikbare toekenningen** de prijs die u wilt in het logo.
     2. Voer **bij Award name** een naam in voor uw logo.
-    3. Wanneer u klaar bent met het aanpassen van uw award-logo, selecteert u **Opslaan** **of Opslaan & downloaden.**
+    3. Wanneer u klaar bent met het aanpassen van uw award-logo, selecteert u **Opslaan** of **Opslaan & downloaden.**
+
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard) met uw werkaccount.
+
+2. Selecteer in Partner Center menu onder **Voordelen** de optie **Logo Builder.**
+
+3. Selecteer **onder Uw logo bouwen** in het vak **Beloningen** het plusteken.
+
+4. Selecteer in **de vervolgkeuzelijst & de** sjabloon het jaar van de prijs. Beschikbare sjablonen worden weergegeven onder de vervolgkeuzelijst.
+
+5. Selecteer **Maken** voor de sjabloon die u wilt gebruiken.
+
+6. Gebruik vervolgens de volgende stappen om uw award-logo aan te passen:
+    1. Selecteer **in Beschikbare toekenningen** de prijs die u wilt in het logo.
+    2. Voer **bij Award name** een naam in voor uw logo.
+    3. Wanneer u klaar bent met het aanpassen van uw award-logo, selecteert u **Opslaan** of **Opslaan & downloaden.**
 
 * * *
 
