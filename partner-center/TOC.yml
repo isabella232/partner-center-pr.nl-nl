@@ -22,7 +22,7 @@
       href: indirect-reseller-tasks-in-partner-center.md
     - name: Registreren als een Azure Expert MSP
       href: azure-expert-msp.md
-    - name: Registreren als Configuratiescherm leverancier
+    - name: Registreren als een Configuratiescherm leverancier
       href: enroll-as-cpv.md
     - name: Verificatie van account voltooien
       href: verification-responses.md
@@ -419,7 +419,7 @@
           href: advisors-build-your-business.md
         - name: Een aanbieding maken voor een Office 365-aankoop
           href: advisor-create-a-purchase-offer.md
-    - name: Partners kunnen zich niet langer inschrijven als advisor
+    - name: Partners kunnen niet langer worden ingeschreven als adviseurs
       href: advisors-no-csp.md
     - name: CSP-aanbiedingen
       items:
@@ -459,7 +459,7 @@
           href: new-commerce-license-based.md
           displayName: new commerce
           items:
-            - name: Nieuwe commerce telco payg
+            - name: Nieuw telco-betalen voor commerce
               href: new-commerce-telco-payg.md
             - name: Nieuwe commerciële promoties
               href: new-commerce-promotions.md
@@ -517,7 +517,7 @@
           href: incentives-enroll.md
         - name: Programmageschiktheid controleren
           href: incentives-determined-your-program-eligibility.md
-        - name: Uitbetalings- en belastingprofielen begrijpen
+        - name: Inzicht in uitbetalings- en belastingprofielen voor incentives
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
         - name: Winstgeschiktheid controleren
           href: incentives-confirm-your-earnings-eligibility.md
@@ -593,7 +593,7 @@
   href: /azure/marketplace
 - name: Uitbetalingen
   items:
-    - name: Overzicht van uitbetalingen
+    - name: Overzicht uitbetalingen
       href: non-payment-fraud-misuse.md
     - name: Facturering van mobiele provider
       href: mobile-operator-billing.md
@@ -607,11 +607,11 @@
       href: payout-policy-details.md
     - name: Uitbetalingsinstructies
       href: payout-statement.md
-    - name: Stel uw betalingsaccount en belastingformulieren
+    - name: Uitbetalings- en belastingprofielen voor de commerciële marketplace instellen
       href: set-up-your-payout-account.md
     - name: Belastinggegevens voor uitgevers van commerciële marketplace
       href: tax-details-marketplace.md
-    - name: Meer inzicht in belastingen
+    - name: Inzicht in belastingen
       items:
         - name: Hoe belastingbeleid van invloed is op uitbetaling
           href: tax-policies-affect-payout.md

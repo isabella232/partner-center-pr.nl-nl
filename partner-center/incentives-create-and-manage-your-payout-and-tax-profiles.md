@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e010800cb4ac77d44eda0de2fdc04c29d57b33ce
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 3ae0059e5e4401afd34d095964b62a74174e891a
+ms.sourcegitcommit: 4bdf04eaca11a1065a4146fc3269ee4a8a7a6828
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073819"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "129157036"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Uitbetalings- en belastingprofielen voor incentives maken en beheren in Partner Center
 
@@ -46,7 +46,7 @@ Als uw bedrijf is ingeschreven in meerdere incentive-programma's, kunt u voor al
 De onderstaande secties helpen u bij het maken en beheren van betalings- en belastingprofielen in Partner Center.
 
 > [!IMPORTANT]
-> U moet een Incentive-beheerder zijn om betalings- en belastingprofielen te kunnen maken of beheren in Partner Center. Incentive-rollen moeten worden toegewezen aan elke MPN-locatie onder elk incentive-programma. Zie Gebruikersaccounts maken voor meer informatie over het toevoegen van Incentive-beheerders in [Partner Center.](create-user-accounts-and-set-permissions.md)
+> U moet een Incentive-beheerder zijn om betalings- en belastingprofielen te kunnen maken of beheren in Partner Center. Incentive-rollen moeten worden toegewezen aan elke MPN-locatie onder elk incentive-programma. Zie Gebruikersaccounts maken voor meer informatie over het toevoegen van Incentive Partner Center beheerders aan [een account.](create-user-accounts-and-set-permissions.md)
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Toegang tot de sectie uitbetaling en belasting in Partner Center
 
@@ -68,11 +68,11 @@ De onderstaande secties helpen u bij het maken en beheren van betalings- en bela
 
    Er wordt een lijst met uw programma's weergegeven. Selecteer de pijl naast een programma om de profieldetails te bekijken.
 
-3. Selecteer in **de vervolgkeuzelijst** Belastingprofiel het balkprofiel dat u wilt of selecteer de optie om een nieuw profiel te maken. Wanneer u de optie voor het maken van een nieuw profiel selecteert, wordt u op de juiste wijze omgeleid.  Selecteer **Doorgaan** in het pop-upvenster. Hieronder vindt u het proces voor het maken van een nieuw belastingprofiel.
+3. Selecteer in **de vervolgkeuzelijst** Belastingprofiel het balkprofiel dat u wilt of selecteer de optie om een nieuw profiel te maken. Wanneer u de optie selecteert om een nieuw profiel te maken, wordt u op de juiste wijze omgeleid.  Selecteer **Doorgaan** in het pop-upvenster. Hieronder vindt u het proces voor het maken van een nieuw belastingprofiel.
 
 4. Selecteer **Betalingswijze**.
 
-   - Als u Digitale **bankoverboeking als** betalingswijze hebt geselecteerd, selecteert u het betalingsprofiel dat u wilt gebruiken of selecteert u de optie om een nieuw profiel te maken. Wanneer u de optie voor het maken van een nieuw profiel selecteert, wordt u op de juiste wijze omgeleid. Selecteer Doorgaan in het pop-upvenster. Het proces voor het maken van een nieuw betalingsprofiel is hieronder beschreven.
+   - Als u Digitale **bankoverboeking als** betalingswijze hebt geselecteerd, selecteert u het betalingsprofiel dat u wilt of selecteert u de optie om een nieuw profiel te maken. Wanneer u de optie selecteert om een nieuw profiel te maken, wordt u op de juiste wijze omgeleid. Selecteer Doorgaan in het pop-upvenster. Het proces voor het maken van een nieuw betalingsprofiel is hieronder beschreven.
 
    - Als u Tegoednota **als betalingswijze hebt** geselecteerd, voltooit u de verificatie. Hiermee wordt bevestigd dat het SAP-nummer waarnaar wordt verwezen bij uw organisatie hoort.
 
@@ -83,13 +83,13 @@ De onderstaande secties helpen u bij het maken en beheren van betalings- en bela
 
     - Als uw MPN-locatie-id wordt betaald door een lokale Microsoft-dochteronderneming voor een bepaald incentive-programma en LRD(limited risk distributor) tegoednota als betalingswijze toestaat, wordt uw betalingsprofiel vooraf ingevuld met de betalingswijze LRD Credit Note. In de rij LRD credit note payment method voor het respectieve  incentive-programma en de locatie-MPN-id ziet u Bevestigd of **Verificatie nodig** als de status in de sectie betalingsprofiel.
 
-       Selecteer **Verificatie nodig om** de details van de CSP-tenant-id die zijn gekoppeld aan de MPN-locatie en betalingswijze te bevestigen en te controleren om de betaling van de tegoednota te ontvangen. Controleer en **controleer in het dialoogvenster Details** van tegoednota's of de opgegeven CSP-tenant-id en -details juist zijn. Als u meer dan één tenant-id krijgt, selecteert u zorgvuldig de CSP-tenant-id waarvoor u betalingen wilt ontvangen. Selecteer vervolgens Bevestigen **om te** bevestigen dat uw bedrijfsgegevens juist zijn en dat de incentive-betaling moet worden verricht aan de CSP-tenant-id die u hebt geselecteerd.
+       Selecteer **Verificatie nodig om** de details van de CSP-tenant-id die zijn gekoppeld aan de MPN-locatie en betalingswijze te bevestigen en te controleren om de betaling van de tegoednota te ontvangen. Controleer en **controleer in het dialoogvenster Details** van tegoednota's of de opgegeven CSP-tenant-id en -details juist zijn. Als u meer dan één tenant-id krijgt, selecteert u zorgvuldig de CSP-tenant-id waarvoor u betalingen wilt ontvangen. Selecteer vervolgens Bevestigen **om** te bevestigen dat uw bedrijfsgegevens juist zijn en dat de incentive-betaling moet worden verricht aan de CSP-tenant-id die u hebt geselecteerd.
 
-      Als de status **Bevestigd is,** is de toewijzing van de CSP-tenant-id voltooid en is er geen verdere actie vereist. U kunt nog steeds Bevestigen selecteren om de details van de toewijzing weer te geven.
+      Als de status **Bevestigd is,** is de toewijzing van de CSP-tenant-id voltooid en is er geen verdere actie vereist. U kunt nog steeds Bevestigd selecteren om de details van de toewijzing weer te geven.
 
       In landen waar partners expliciet een verzoek moeten indienen om een btw-vrijstelling toe te passen, is er een optie om btw-vrijstelling toe te passen naast het belastingprofiel in de sectie belastingprofiel van het incentive-programma en de locatie MPN. Als u dit selectievakje incheckt, worden de voordelen van btw-vrijstelling toegepast op uw incentive-tegoed. 
 
-      Momenteel is de betalingswijze LRD Credit Note alleen beschikbaar voor partners in Australië, Nieuw-Zeeland en Canada voor het Microsoft Commerce Incentive-programma. Als u een directe factuurpartner of indirecte provider bent in deze drie landen die zijn ingeschreven voor het MCI-programma en u LRD-tegoed niet als de beschikbare betalingswijze ziet, controleert u of uw tenant-id is gekoppeld aan het relevante MPN-locatieaccount van de partner. Lees hoe u uw organisatieprofiel bijwerkt [voor meer informatie.](update-your-partner-profile.md)
+      Op dit moment is de betalingswijze LRD Credit Note alleen beschikbaar voor australië, Nieuw-Zeeland, Canada, Canada, Canada, Italië, Italië, Frankrijk, Duitsland, Nederland, Zwitserland, Zwitserland, Zwitserland en het Verenigd Koninkrijk voor het Microsoft Commerce Incentive-programma en het Incentive-programma voor campagnes. Als u een directe factuurpartner of indirecte provider bent in deze landen die zijn ingeschreven voor het MCI-programma of het campagnesprogramma en u LRD-tegoed niet ziet als de beschikbare betalingswijze, controleert u of uw tenant-id is gekoppeld aan het relevante MPN-locatieaccount van de partner. Lees hoe u uw organisatieprofiel bijwerkt [voor meer informatie.](update-your-partner-profile.md)
 
 5. Selecteer de **valuta**.
 
@@ -137,7 +137,7 @@ Bankprofielen worden gemaakt op bedrijfsniveau. Hierdoor kan één bankprofiel w
 
 6. Wanneer de velden zijn ingevuld, selecteert **u Voltooien** en vervolgens **Bevestigen om** uw bankprofiel te maken.
 
-U wordt omgeleid naar de pagina **Uitbetalings- en belastingprofielen.** De status van uw nieuwe profiel is In afwachting van **Microsoft-validatie** totdat de validatie is voltooid. Dit proces kan tot 48 uur duren. Zodra de validatie is voltooid, wordt uw profielstatus weergegeven als **Goedgekeurd of** **Actie vereist.** Als **actie vereist is,** herhaalt u de bovenstaande stappen en geeft u de benodigde informatie op.
+U wordt omgeleid naar de pagina **Uitbetalings- en belastingprofielen.** De status van uw nieuwe profiel is In behandeling voor **Microsoft-validatie** totdat de validatie is voltooid. Dit proces kan tot 48 uur duren. Zodra de validatie is voltooid, wordt uw profielstatus weergegeven als **Goedgekeurd of** **Actie vereist.** Als **actie vereist is,** herhaalt u de bovenstaande stappen en geeft u de benodigde informatie op.
 
 ## <a name="create-your-tax-profile"></a>Uw belastingprofiel maken
 
