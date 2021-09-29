@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Meer informatie over hoe CSP-programmapartners Partner Center de prijslijst voor abonnementen onder het Azure-abonnement te bekijken.
+description: Meer informatie over hoe CSP-programmapartners Partner Center de prijslijst voor abonnementen onder het Azure-plan te bekijken.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73b47b62ce996156c7e780450bada1bdbec9f4b0
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 2b8ac518e4a5e13fe1c0f6545537c233b483e86a
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244751"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191505"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Prijslijst voor de nieuwe Commerce-ervaring in CSP voor Azure
 
@@ -32,16 +32,29 @@ Als u zich hebt *geregistreerd op of na* 21 juli 2021
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Bekijk de prijzen voor abonnementen onder de prijzen van het Azure-abonnement
 
-1.  Selecteer in Partner Center menu Verkopen **en** vervolgens **Prijzen en aanbiedingen.**
+> [!NOTE]
+> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
+
+1. Meld u aan bij [Partner Center dashboard,](https://partner.microsoft.com/dashboard)selecteer de **tegel Prijzen** en selecteer vervolgens **Prijzen en aanbiedingen.**
+
 2.  Selecteer **onder Prijzen voor Azure-abonnementsverbruik** en prijzen voor **Azure-planreserveringen** het land en vervolgens de downloadkoppeling.
+
    - Selecteer **voor Wisselkoersen de** downloadkoppeling onder de sectie .
 
-   > [!NOTE] 
+#### <a name="current-view"></a>[Huidige weergave](#tab/current-view)
+
+1.  Meld u aan bij Partner Center menu, selecteer **Verkopen** en vervolgens **Prijzen en aanbiedingen.**
+
+2.  Selecteer **onder Prijzen voor Azure-abonnementsverbruik** en prijzen voor **Azure-planreserveringen** het land en vervolgens de downloadkoppeling.
+
+   - Selecteer **voor Wisselkoersen de** downloadkoppeling onder de sectie .
+
+   > [!NOTE]
    > **FX-tarieven** zijn niet specifiek voor landen.
 
-   :::image type="content" source="images/azure/pricing-new.png" alt-text="Schermopname van prijzen en aanbiedingen met de nieuwe commerce-ervaring.":::
-
-   > [!NOTE] 
+   > [!NOTE]
    > U kunt twee verschillende prijslijsten exporteren: Prijzen van Azure-plannen en Prijzen van derden voor Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Details van azure-prijslijst
@@ -56,7 +69,7 @@ Als u zich hebt *geregistreerd op of na* 21 juli 2021
 
   - **Prijzen van vorige maand:** Downloads van elk type resource zijn per maand. Voor prijsbestanden bevat dit alle meters die beschikbaar waren tijdens die maand. Als er midden in de maand een nieuwe meter wordt geopend, wordt deze als een meter met een effectieve datum als beschikbaarheidsdatum weer geven. Vergelijkbaar met prijzen die niet meer beschikbaar zijn, met een effectieve einddatum die beschrijft wanneer ze niet meer beschikbaar zijn.
 
-  - **FX-tarieven:** FX-tarieven zijn beschikbaar voor het downloaden van de dag vóór de 1e van de maand, 18:00 pst. Als u bijvoorbeeld de tarieven voor november wilt, downloadt u de tarieven op 31 oktober. Fx-tarieven van de vorige maand zijn ook beschikbaar.
+  - **FX-tarieven:** FX-tarieven kunnen worden gedownload op de dag vóór de 1e van de maand, 18:00 pst. Als u bijvoorbeeld de tarieven voor november wilt, downloadt u de tarieven op 31 oktober. Fx-tarieven van de vorige maand zijn ook beschikbaar.
 
 - Prijzen in de prijslijsten zijn directe prijzen. Sommige partners komen mogelijk in aanmerking voor partnertegoeden. Lees How the partner earned credit is calculated and paid (Hoe het partnertegoed wordt berekend en betaald) voor meer informatie over hoe het [partnertegoed wordt berekend.](partner-earned-credit-explanation.md)
 
@@ -110,7 +123,7 @@ De prijs-API heeft een ander eindpunt dan de andere PARTNER CENTER API's. De pri
 Met deze API kunnen partners ook maandelijkse wisselkoersen ophalen, omdat de prijzen van het Azure-plan alleen in USD zijn. U kunt de API's gebruiken om prijzen en wisselkoersen voor de huidige maand of vorige maanden op te halen.
 
 > [!NOTE]
-> De prijs-API is specifiek voor prijzen voor Azure-plannen. U moet nog steeds de bestaande RateCard-API en prijslijsten gebruiken die op de pagina 'Prijzen en aanbiedingen' van de Partner Center worden geplaatst voor Azure-resources of reserveringen die zijn geïmplementeerd op abonnementen die niet van een Azure-abonnement zijn. De API voor prijzen voor Azure-plannen biedt geen ondersteuning voor software, marketplace of licenties, zoals Microsoft 365 of Dynamics 365.
+> De prijs-API is specifiek voor prijzen voor Azure-plannen. U moet nog steeds de bestaande RateCard-API en prijslijsten gebruiken die op de pagina 'Prijzen en aanbiedingen' van de Partner Center worden geplaatst voor Azure-resources of reserveringen die zijn geïmplementeerd in niet-Azure-abonnementsabonnementen. De API voor prijzen voor Azure-plannen biedt geen ondersteuning voor software, marketplace of licenties, zoals Microsoft 365 of Dynamics 365.
 
 Zie de volledige API-documentatie voor prijzen voor meer informatie over prijzen voor Azure-plannen en API's voor [wisselkoersen.](/partner/develop/pricing)
 

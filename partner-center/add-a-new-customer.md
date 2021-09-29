@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 99057daa14fc279fde2a676a315d3cc8930f88aa
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 0d3b7787cf0f41a04f0a662450040802d74e9ef7
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072420"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191438"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Een nieuwe klantrecord toevoegen in Partner Center
 
@@ -61,6 +61,9 @@ Bij het invoeren van een e-mailadres van de klant is het volgende niet toegestaa
 - Het e-mailadres van de klant mag niet dezelfde domeinnaam bevatten als de partner. Een partner met de naam ABC kan bijvoorbeeld geen klant-e-mail maken met @abc.com .
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Een nieuwe klant toevoegen in het Partner Center
+
+> [!NOTE]
+> Zie Voor meer informatie over de interface van werkruimten [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -159,14 +162,14 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 | Afgekort. | Afgekort. | Afgekort. | Afgekort. |
 | ----- | ----- | ----- | ----- |
 |"c p a" | pty | 'l. l. c." | gmbh |
-| 'c.p.a.' | "pty ltd" | 'l.l.c'. | "kunt u" |
-| l.l.p. | "pte ltd" | "l l p" | "wll" |
-| "c. p. a." | 'privé beperkt' | corp | 'lda' |
-| 'l. l. p." | 'pvt' | "corporation" | "sarl" |
+| "c.p.a." | "pty ltd" | "l.l.c." | "group" |
+| l.l.p. | "pte ltd" | " l l p" | "wll" |
+| "c. p. a." | 'beperkte privé' | corp | "lda" |
+| "l. l. p." | "pvt" | "corporation" | "sarl" |
 | " l l c" | "pvt ltd" | "inc" | "kft" |
-| 'corp'. | "zrt" | "opgenomen" | ltd |
-| 'llc'. | "ooo" | 'beperkt' | ltd. |
-| 'llp'. | "llp" | "llc" | "sdn kunt u"
+| corp. | "zrt" | "opgenomen" | "ltd" |
+| llc. | "ooo" | 'beperkt' | ltd. |
+| 'llp'. | "llp" | "llc" | "sdn pkd"
 
 ### <a name="table-of-top-level-domain-extensions"></a>Tabel met domeinextensies op het hoogste niveau
 
@@ -178,9 +181,9 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 | .af | .be | .cf | .dm |
 | .ag | .bf | .cg | .do |
 | .ai | .bg | .ch | .dz |
-| .al | .kunt u | .ci | .fm |
+| .al | . | .ci | .fm |
 | .am | .bi | .ck | .fo |
-| .an | .kunt u | .cl | .fr |
+| .an | . | .cl | .fr |
 | .ao | .bl | .cm | .ga |
 | .aq | .bm | .cn | .gb |
 | .ar | .bn | .co | .gd |
@@ -189,21 +192,21 @@ In de volgende tabellen worden de items vermeld die worden vermeld in [de bovens
 | .au | .br | .cv | .gg |
 | .aw | .bs | .cw | .gh |
 | .ax | .bt | .cx | .gi |
-| .az | .b.v. | .cy | .gl |
+| .az | .nl | .cy | .gl |
 | .ec | .bw | . gaan | .gm |
 | .ee | .by | .eu | .gn |
 | .eg | .bz | .fi | .gp |
 | .eh | .es | .fj | .gq |
 | .er | .et | .fk | .gr |
 | .gs | .gw | .hm | .ht |
-| .gt | .der | .hn | .hu |
+| .gt | . | .hn | .hu |
 | .gu | .hk | .hr | .id |
 | .ie | .kz | .mo | .nz |
 | .il | .la | .mp | .om |
 | .im | .lb | .mq | .pa |
 | .in | .lc | .mr | .pe |
 | .io | .li | .ms | .pf |
-| .iq | . | .mt | .pg |
+| .iq | .kunt u | .mt | .pg |
 | .ir | .lr | .mu | .ph |
 | .is | .ls | .mv | .pk |
 | .it | .lt | . | .pl |

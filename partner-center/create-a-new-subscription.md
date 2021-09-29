@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: f959dfad32fbe1f4f5f71d3dcbdc64f07ee5b901
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: e3696ea77d6b073e625e64425cf7764194acfd15
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129089807"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191473"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Klantabonnementen maken, onderbreken of annuleren
 
@@ -27,7 +27,7 @@ Nadat u een record van uw klant in de Partner Center, kunt u deze abonnementen v
 Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Als u een lijst wilt bekijken met aanbiedingen die zijn beperkt, gaat u naar Partner Center pagina Met prijzen en aanbiedingen.
 
 > [!IMPORTANT]
-> Als partner in het CSP-programma kunt u  saaS-abonnementen op basis van licenties of SaaS-abonnementen met datalicenties aanschaffen bij **ISV-uitgevers** binnen Partner Center. Dit betekent dat u elke  SaaS-aanbieding op basis van licenties of naar [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) gebruik kunt aanschaffen die de **ISV-uitgever** voor u beschikbaar heeft gesteld, inclusief exclusieve aanbiedingen waarvoor u toegang hebt. Als u andere commerciële marketplace-aanbiedingen van ISV's wilt kopen of beheren (zoals aanbiedingen op basis van gebruik met betrekking tot Azure-toepassingen, containers of VM's), gaat u naar de [Azure Portal.](https://portal.azure.com/)
+> Als partner in het CSP-programma kunt u  SaaS-abonnementen op basis van licenties of saaS-abonnementen met datalicenties aanschaffen bij **ISV-uitgevers** binnen Partner Center. Dit betekent dat u elke  SaaS-aanbieding op basis van licenties of naar [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) gebruik kunt aanschaffen die de **ISV-uitgever** voor u beschikbaar heeft gesteld, inclusief exclusieve aanbiedingen waarvoor u toegang hebt. Als u andere commerciële marketplace-aanbiedingen van ISV's wilt kopen of beheren (zoals aanbiedingen op basis van gebruik met betrekking tot Azure-toepassingen, containers of VM's), gaat u [naar de Azure Portal.](https://portal.azure.com/)
 
 > [!NOTE]
 > Alle datums en tijden in Partner Center worden opgegeven in de tijdstandaard Universal Time Coordinated (UTC). Dit kan tot 24 uur verschillen van uw lokale tijd.
@@ -143,12 +143,18 @@ Wanneer u de status van een abonnement wijzigt in **Tijdelijk,** kunnen gebruike
 
 4. Kies **Onderbroken** bij **Status**. Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
-5. Alle gegevens worden verwijderd, tenzij het abonnement binnen 90 dagen opnieuw wordt geactiveerd of 90 dagen plus het aantal dagen tussen het moment dat het account is geopend en de eerste factureringsperiode (maximaal 120 dagen).
+5. Alle gegevens worden verwijderd, tenzij het abonnement binnen 90 dagen opnieuw wordt geactiveerd, of 90 dagen plus het aantal dagen tussen het moment dat het account is geopend en de eerste factureringsperiode (maximaal 120 dagen).
 
-Wanneer u een abonnement onder de  knop Tijdelijk opzegt, wordt aangegeven wanneer het abonnement automatisch verloopt als u het abonnement niet opnieuw activeren. 
+Wanneer u een abonnement onder de  knop Tijdelijk opschorten ziet, wordt aangegeven wanneer het abonnement automatisch verloopt als u het abonnement niet opnieuw activeren. 
 
->[!NOTE]
->CSP-abonnementen hebben geen verlopen periode (zoals web-direct abonnementen doen) waarin de services nog steeds werken, maar het abonnement geen factureringskosten genereert. CSP-abonnementen zijn actief of tijdelijk (of volledig verwijderd).
+> [!NOTE]
+> CSP-abonnementen hebben geen verlopen periode (zoals web-directe abonnementen) waarin de services nog steeds werken, maar het abonnement geen factureringskosten genereert. CSP-abonnementen zijn actief of tijdelijk (of volledig verwijderd).
+
+> [!NOTE]
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+
+Als u nieuwe commerce-abonnementen wilt opschorten of nieuwe handelsabonnementen opnieuw wilt activeren, maakt u een serviceaanvraag en neem contact op met de ondersteuning.
+
 
 ### <a name="cancel-a-subscription"></a>Een abonnement annuleren
 
@@ -169,42 +175,149 @@ Voor aanbiedingen die jaarlijks worden gefactureerd:
 Nadat deze perioden zijn afgelopen, ziet u niet langer de optie om het abonnement te annuleren.
 
 > [!NOTE]
-> ISV-services van derden (die bijvoorbeeld virtuele machines of containers gebruiken) op basis van gebruik en naar gebruik komen niet in aanmerking voor retournering. Op gebruik gebaseerde services kunnen worden verwijderd als annuleringsmethode. Omdat de kosten na gebruik worden gefactureerd, komen deze services niet in aanmerking voor restitutie.
+> ISV-services van derden (die bijvoorbeeld gebruikmaken van virtuele machines of containers) op basis van gebruik en naar gebruik, komen niet in aanmerking voor retournering. Op gebruik gebaseerde services kunnen worden gede inrichting als annuleringsmethode. Omdat de kosten na gebruik worden gefactureerd, komen deze services niet in aanmerking voor restitutie.
 
 Ga als volgt te werk om een SaaS-abonnement op basis van een licentie van een ISV-uitgever te annuleren:
 
-1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
 2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
 3. Zoek het abonnement dat u wilt annuleren.
 
-4. Selecteer annuleren **in de** kolom **Status.** Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
+4. Selecteer annuleren **in** de kolom **Status.** Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
 5. Als er een dialoogvenster wordt weergegeven, vult u relevante gegevens in en selecteert u **Verzenden.**
 
-6. Selecteer Ja, annuleren om de annulering te **bevestigen.**
+6. Selecteer Ja, annuleren om de annulering **te bevestigen.**
 
 > [!NOTE]
-> U kunt er ook voor kiezen om een abonnement Azure Marketplace annuleren met behulp van API's. Zie Een abonnement op Azure Marketplace [annuleren om dit Azure Marketplace doen.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
+> U kunt er ook voor kiezen om een abonnement Azure Marketplace annuleren met behulp van API's. Zie Een abonnement op Azure Marketplace [annuleren om dit te doen.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
 
-### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Kiezen of u een abonnement op de commerciële marketplace automatisch wilt verlengen
+### <a name="cancel-a-new-commerce-subscription"></a>Een nieuw commerce-abonnement annuleren
 
-Actieve abonnementen zijn standaard ingesteld om automatisch te worden verlengd wanneer de abonnementsperiode verloopt. Voor [abonnementen op commerciële marketplace-producten](csp-commercial-marketplace-overview.md)kunt u ervoor kiezen om het abonnement niet automatisch te verlengen.
+> [!Note] 
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+
+Voor nieuwe commerceaanbiedingen kunt u het abonnement op elk moment vóór de periode voor de termijn annuleren. Wanneer u een abonnement annuleert, verliest de klant onmiddellijk toegang tot de service. De toegang kan niet worden hersteld na annulering. De volgende annuleringsopties zijn beschikbaar voor een partner nadat het abonnement is aangeschaft: 
+
+- Binnen 24 uur na de begindatum van het abonnement: u kunt het hele abonnement binnen de eerste 24 uur annuleren voor volledige restitutie.  
+- Binnen 30 dagen na de begindatum van het abonnement: u kunt het hele abonnement binnen de eerste 30 dagen annuleren. U krijgt een restitutie voor het volledige bedrag minus pro-rated bedrag voor de dagen dat u het abonnement hebt gebruikt.
+- Na 30 dagen van de begindatum van het abonnement: u kunt het abonnement niet annuleren.
+
+### <a name="pause-and-resume-a-new-commerce-subscription"></a>Een nieuw commerce-abonnement onderbreken en hervatten
+
+> [!NOTE]
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+
+In het geval van niet-betaling van de klant, ook wel het 'dunning scenario' genoemd, kunnen partners hun abonnement onderbreken en hervatten om de toegang van de klant tot de services van het abonnement onmiddellijk te blokkeren.
+
+Als de abonnementen van de klant worden onderbroken, wordt de mogelijkheid om zich aan te melden en hun services te gebruiken uitgeschakeld totdat het abonnement wordt hervat.
+
+U kunt een abonnement onderbreken met behulp Partner Center:
+
+1. Ga naar de abonnementspagina van de klant en selecteer het abonnement dat u wilt onderbreken.
+
+2. Selecteer het **keuzerondje** Suspend.
+
+3. Selecteer OK in het **pop-updialoogvenster.**
+
+4. Het abonnement heeft nu de status Onderbroken en de partner wordt nog steeds gefactureerd voor het abonnement.
+
+Onderbreken is omkeerbaar via Partner Center gebruikersinterface of API's, waarmee de toegang van een klant tot de services van een abonnement onmiddellijk wordt hersteld.
+
+> [!IMPORTANT]
+> Als u een abonnement onderpauzeert, worden alle instellingen voor automatisch verlengen uitgeschakeld en worden eventuele bestaande geplande wijzigingen verwijderd. Het onderbreken van een abonnement heeft alleen invloed op de toegang tot de service van de klant en de facturering van de partner blijft in de onderbroken status.
+
+### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription-or-a-new-commerce-subscription"></a>Kies of u een abonnement op de commerciële marketplace of een nieuw commerce-abonnement automatisch wilt verlengen
+
+> [!NOTE]
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+
+Actieve abonnementen zijn standaard ingesteld om automatisch te worden verlengd wanneer de abonnementsperiode verloopt. Voor [abonnementen op commerciële marketplace-producten](csp-commercial-marketplace-overview.md)of nieuwe commerce-abonnementen kunt u ervoor kiezen om het abonnement niet automatisch te verlengen.
+
+Als u wilt voorkomen dat een actief abonnement op de commerciële marketplace of nieuwe commerce-abonnementen automatisch wordt verlengd:
 
 Als u wilt voorkomen dat een actief abonnement op de commerciële marketplace automatisch wordt verlengd:
 
-1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Meld u aan bij Partner Center [dashboard.](https://partner.microsoft.com/dashboard)
 
 2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
-3. Selecteer **Abonnementen**. Hier worden alle op licenties gebaseerde abonnementen vermeld die u voor de klant hebt aangeschaft.
+3. Selecteer **Abonnementen**. Hiermee worden alle op licenties gebaseerde abonnementen vermeld die u voor de klant hebt aangeschaft.
 
 4. Selecteer in **de** kolom Abonnement het abonnement dat u wilt wijzigen.
 
-5. Zoek op de pagina met abonnementsdetails **de sectie Status** en vink het selectievakje Automatisch **verlengen** aan.
+5. Zoek op de pagina met abonnementsdetails **de sectie Status** en vink het selectievakje Automatisch **verlengen** uit.
 
 6. Selecteer **Indienen**.
+
+### <a name="manage-new-commerce-renewals-with-scheduled-changes"></a>Nieuwe handelsvernieuwingen beheren met geplande wijzigingen
+
+> [!NOTE]
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+
+Sommige wijzigingen in abonnementen kunnen alleen plaatsvinden aan het einde van een periode. Deze wijzigingen kunnen worden gepland zodat ze gemakkelijk aan het einde van de term kunnen worden toegepast. Voorbeelden van wijzigingen die moeten worden gepland:
+
+- SKU downgrades
+- Seatverminderingen
+- Wijzigingen in verschillende voorwaarden
+- Wijzigingen in factureringsfrequentie
+
+Andere wijzigingen, zoals upgrades of toename van de seat, kunnen tijdens de periode worden toegepast.
+
+Planningswijzigingen vinden plaats bij verlenging wanneer het abonnement wordt verlengd voor de volgende termijn.
+
+Vereisten voor geplande wijzigingen:
+
+- Abonnement is actief 
+- Automatisch vernieuwen is aan
+- SKU moet in aanmerking komen voor upgrade voor geplande upgrades
+
+Als u een nieuwe wijziging wilt plannen die moet worden uitgevoerd tijdens de verlenging:
+
+1. Meld u aan bij Partner Center dashboard.
+
+2. Kies een **klant** in de lijst met klanten.
+
+3. Kies het abonnement dat u wilt beheren.
+
+4. Selecteer **Vernieuwingen beheren.**
+
+5. Selecteer een andere Waardewijziging voor SKU, hoeveelheid, termijn of factureringsfrequentie:
+
+   - **Current** is de huidige waarde van het abonnement
+
+   - **Wijzigen** in is de laatst opgeslagen waarde die u wilt toepassen bij de verlenging van het nieuwe abonnement
+
+6. Selecteer **Indienen**.
+
+7. De wijzigingen vinden plaats bij verlenging.
+
+Partners hebben toegang **tot Vernieuwingen beheren om** bestaande geplande wijziging weer te geven, bij te werken of te verwijderen.
+
+> [!NOTE]
+> - Proefversies worden standaard aan het einde van hun termijn ge converteerd naar de betaalde SKU. 
+> - Voor geplande SKU-upgrades/downgrades moet het opnieuw toewijzen van gebruikerslicenties handmatig worden uitgevoerd.
+> - Opgeslagen geplande wijzigingen worden verwijderd als de volgende tussentijdse updates worden aangebracht in het abonnement.
+
+### <a name="partial-upgrades-in-new-commerce-subscriptions"></a>Gedeeltelijke upgrades in nieuwe commerce-abonnementen
+
+> [!NOTE]
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+
+Met gedeeltelijke upgrades kan een partner bepaalde licenties van de ene SKU naar de andere aanwijzen. Met de vorige upgradefunctionaliteit in traditionele abonnementen op basis van licenties konden alleen alle licenties worden bijgewerkt. Nieuwe handel stelt een partner in staat om bepaalde licenties op hun gemak te verplaatsen. Hierdoor heeft de partner meer controle over het beheer van upgrades, waardoor sommige gebruikers naar een nieuwe SKU kunnen worden verplaatst zonder ze allemaal te verplaatsen.
+
+Gedeeltelijke upgrades kunnen worden gepland om aan het einde van een termijn te worden gepland of kunnen op de korte termijn worden gestart.
+
+Gedeeltelijke upgradedetails:
+
+- Gedefinieerd als gedeeltelijk als het aantal upgradelicenties anders is dan het initiële abonnement.
+- Als u een upgrades op de korte termijn start, worden bestaande geplande upgrades verwijderd.
+- Upgrades kunnen alleen worden gestart vanuit abonnementen met de **status** Actief.
+- Een nieuw abonnement dat is gemaakt tijdens het upgraden, heeft dezelfde einddatums als het abonnement waar de upgrade van afkomstig is.
+
+Partners hebben toegang tot het abonnement waar ze naar willen upgraden bij het configureren van het aantal licenties en het abonnement waarvoor ze een upgrade willen uitvoeren. Partners kunnen een nieuw **abonnement** selecteren of een bestaand abonnement selecteren.
 
 ## <a name="next-steps"></a>Volgende stappen
 
