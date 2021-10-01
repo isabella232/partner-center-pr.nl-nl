@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 ms.topic: how-to
 ms.date: 09/29/2021
 ms.custom: template-how-to
-ms.openlocfilehash: 4d4d3de7bc53440765538654f8e82c3c048f5922
-ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
+ms.openlocfilehash: bfa3185213abe5e166c3049602d3ca2dc16be70c
+ms.sourcegitcommit: 6d29e7e6d700ee5638ba10ee12f75e37f993dae9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129293390"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "129365138"
 ---
 # <a name="customers-page-for-mci-engagements"></a>Pagina Klanten voor MCI-betrokkenheid
 
@@ -22,7 +22,7 @@ ms.locfileid: "129293390"
 >[!NOTE]
 >Dit is alleen van toepassing op betrokkenheid bij build-intenties, dat wil zeggen workshops. 
 
-Op **de** pagina Klanten worden klanten gesorteerd op in aanmerking komende, niet-in aanmerking komende klanten en voltooid voor elke betrokkenheid. De pagina wordt vooraf weergegeven met alle klanten die toestemming hebben gegeven voor een workshop in Partner Center. 
+Op **de** pagina Klanten worden klanten gesorteerd op in aanmerking komende, niet-in aanmerking komende klanten en wordt elke betrokkenheid voltooid. De pagina wordt vooraf weergegeven met alle klanten die toestemming hebben gegeven voor een workshop in Partner Center. 
 
 :::image type="content" source="images/incentives/customers-page.png" alt-text="Schermopname van de pagina Klanten." lightbox="images/incentives/customers-page.png":::
 
@@ -32,7 +32,7 @@ Op **de** pagina Klanten worden klanten gesorteerd op in aanmerking komende, nie
    - De klant voldoet niet aan de geschiktheidscriteria voor de betrokkenheid, 
    - De klant heeft toestemming gegeven aan een andere partner, of 
    - De klant heeft al met een andere partner deelgenomen aan de workshop. 
-- Op **het** tabblad Voltooid ziet u alle klanten voor wie u deze workshop hebt voltooid. U kunt de details van uw claim met deze klant bekijken door Workshopclaim **weergeven te selecteren** onder de **kolom** Actie.
+- Op **het tabblad** Voltooien ziet u alle klanten voor wie u deze workshop hebt voltooid. U kunt de details van uw claim met deze klant bekijken door Workshopclaim **weergeven te selecteren** onder de **kolom** Actie.
 
 Voor elke betrokkenheid moet u een klant toevoegen of een klant claimen (niet beide).
 
@@ -88,12 +88,12 @@ Nadat u een klant hebt toegevoegd of geclaimd, ziet u hoeveel dagen u nog hebt o
 Zodra de klant toestemming heeft gegeven, hebt u 90 dagen om de workshop uit te voeren.
 
 ## <a name="next-steps"></a>Volgende stappen
-[Een workshopclaim indienen](/mci-engagements-workshop)
+[Een workshopclaim indienen](/partner-center/mci-engagements-workshop)
 
-[Overzicht en geschiktheid van MCI-betrokkenheiden](/mci-engagements)
+[Overzicht en geschiktheid van MCI-betrokkenheiden](/partner-center/mci-engagements)
 
-[Gebruik deze resources om aan de slag te gaan met incentives](/incentives-get-started-intro)
+[Gebruik deze resources om aan de slag te gaan met incentives](/partner-center/incentives-get-started-intro)
 
-[Geschiktheid van uw incentives-programma bepalen](/incentives-determined-your-program-eligibility)
+[Geschiktheid van uw incentives-programma bepalen](/partner-center/incentives-determined-your-program-eligibility)
 
-[Inschrijving en gebruikersbeheer in het incentives-programma](/incentives-enroll)
+[Inschrijving en gebruikersbeheer in het incentives-programma](/partner-center/incentives-enroll)

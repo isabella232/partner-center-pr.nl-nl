@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 ms.topic: how-to
 ms.date: 09/29/2021
 ms.custom: template-how-to
-ms.openlocfilehash: ef8463a626e2a7d562f83d58fb4c46ba1626d421
-ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
+ms.openlocfilehash: 49799e85d3894fd1fd069853ee1dd5595bd7a3e5
+ms.sourcegitcommit: 6d29e7e6d700ee5638ba10ee12f75e37f993dae9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129293381"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "129365123"
 ---
 # <a name="submit-an-mci-engagements-workshop-claim"></a>Een workshopclaim voor MCI-betrokkenheid indienen 
 
@@ -26,7 +26,7 @@ Zodra de workshop is voltooid, moet u een workshopclaim indienen om de betaling 
 ## <a name="how-to-submit-a-workshop-claim"></a>Een workshopclaim indienen 
 
 1. Ga naar de **sectie In** aanmerking komend van **de pagina** Klanten.
-2. Selecteer **Workshopclaim verzenden** onder de **kolom Actie** voor die klant.
+2. Selecteer **Workshopclaim indienen** onder de **kolom Actie** voor die klant.
 3. Dien bewijs van uitvoering in volgens de regels van de workshop. Dit omvat vier items:
    - het document over zoeken en aanbevelingen
    - de partnerenquête (zie hieronder)
@@ -48,12 +48,12 @@ Zodra de workshop is voltooid, moet u een workshopclaim indienen om de betaling 
    - Zodra uw claim is goedgekeurd, ontvangt u betaling volgens de betalingscyclus van het MCI-programma.
   
  ## <a name="next-steps"></a>Volgende stappen
-[Overzicht en geschiktheid van MCI-betrokkenheiden](/mci-engagements)
+[Overzicht en geschiktheid van MCI-betrokkenheiden](/partner-center/mci-engagements)
 
-[Pagina met klanten voor MCI-betrokkenheid](/mci-engagements-customers)
+[Pagina met klanten voor MCI-betrokkenheid](/partner-center/mci-engagements-customers)
 
-[Gebruik deze resources om aan de slag te gaan met incentives](/incentives-get-started-intro)
+[Gebruik deze resources om aan de slag te gaan met incentives](/partner-center/incentives-get-started-intro)
 
-[Geschiktheid van uw incentives-programma bepalen](/incentives-determined-your-program-eligibility)
+[Geschiktheid van uw incentives-programma bepalen](/partner-center/incentives-determined-your-program-eligibility)
 
-[Inschrijving en gebruikersbeheer in het incentives-programma](/incentives-enroll)
+[Inschrijving en gebruikersbeheer in het incentives-programma](/partner-center/incentives-enroll)
