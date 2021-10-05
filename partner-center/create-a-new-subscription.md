@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 680845d173ad69c46dc78c767fb53476750ad24f
-ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
+ms.openlocfilehash: 1a2e13bf45b10bebe6ab0492ac059dc1d6a6c0ca
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "129415549"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452410"
 ---
 # <a name="manage-customer-subscriptions"></a>Klantabonnementen beheren
 
@@ -145,37 +145,37 @@ Wanneer u de status van een abonnement wijzigt in **Tijdelijk,** kunnen gebruike
 
 5. Alle gegevens worden verwijderd, tenzij het abonnement binnen 90 dagen opnieuw wordt geactiveerd, of 90 dagen plus het aantal dagen tussen het moment dat het account is geopend en de eerste factureringsperiode (maximaal 120 dagen).
 
-Wanneer u een abonnement onder de  knop Tijdelijk opschorten ziet, wordt aangegeven wanneer het abonnement automatisch verloopt als u het abonnement niet opnieuw activeren. 
+Wanneer u een abonnement onder de  knop Tijdelijk opzegt, wordt aangegeven wanneer het abonnement automatisch verloopt als u het abonnement niet opnieuw activeren. 
 
 > [!NOTE]
 > CSP-abonnementen hebben geen verlopen periode (zoals web-directe abonnementen) waarin de services nog steeds werken, maar het abonnement geen factureringskosten genereert. CSP-abonnementen zijn actief of tijdelijk (of volledig verwijderd).
 
 > [!NOTE]
-> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technische preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
 
-Als u nieuwe commerce-abonnementen wilt opschorten of nieuwe commerce-abonnementen opnieuw wilt activeren, maakt u een serviceaanvraag en neem contact op met de ondersteuning.
+Als u nieuwe commerce-abonnementen wilt opschorten of nieuwe handelsabonnementen opnieuw wilt activeren, maakt u een serviceaanvraag en neem contact op met de ondersteuning.
 
 
 ### <a name="cancel-a-subscription"></a>Een abonnement annuleren
 
-U kunt SaaS-abonnementen op basis van licenties van ISV-uitgevers van derden annuleren binnen de Partner Center [commerciële marketplace.](csp-commercial-marketplace-overview.md) Zolang u binnen de annuleringsperiode annuleert, ontvangt u een volledige restitutie.
+U kunt SaaS-abonnementen op basis van licenties annuleren van ISV-uitgevers van derden binnen de Partner Center [commerciële marketplace.](csp-commercial-marketplace-overview.md) Zolang u binnen de annuleringsperiode annuleert, ontvangt u een volledige restitutie.
 
 Voor ISV-aanbiedingen die maandelijks worden gefactureerd:
 
-- Als u minder dan 24 uur na het plaatsen van de bestelling annuleert, ontvangt u een volledig tegoed op de volgende factuur.
+- Als u minder dan 24 uur na het plaatsen van de order annuleert, ontvangt u een volledig tegoed op de volgende factuur.
 
 - Als u later dan 24 uur na het plaatsen van de order annuleert, wordt de annulering gepland bij verlenging.
 
 Voor aanbiedingen die jaarlijks worden gefactureerd:
 
-- Als u minder dan 14 dagen na het plaatsen van de bestelling annuleert, ontvangt u een volledig tegoed op de volgende factuur.
+- Als u minder dan 14 dagen na het plaatsen van de order annuleert, ontvangt u een volledig tegoed op de volgende factuur.
 
 - Als u later dan 14 dagen na het plaatsen van de order annuleert, wordt de annulering gepland bij verlenging.
 
 Nadat deze perioden zijn afgelopen, ziet u niet langer de optie om het abonnement te annuleren.
 
 > [!NOTE]
-> ISV-services van derden (die bijvoorbeeld gebruikmaken van virtuele machines of containers) op basis van gebruik en naar gebruik, komen niet in aanmerking voor retournering. Op gebruik gebaseerde services kunnen worden gede inrichting als annuleringsmethode. Omdat de kosten na gebruik worden gefactureerd, komen deze services niet in aanmerking voor restitutie.
+> ISV-services van derden (die bijvoorbeeld virtuele machines of containers gebruiken) op basis van gebruik en naar gebruik komen niet in aanmerking voor retournering. Op gebruik gebaseerde services kunnen worden verwijderd als annuleringsmethode. Omdat de kosten na gebruik worden gefactureerd, komen deze services niet in aanmerking voor restitutie.
 
 Ga als volgt te werk om een SaaS-abonnement op basis van een licentie van een ISV-uitgever te annuleren:
 
@@ -187,21 +187,21 @@ Ga als volgt te werk om een SaaS-abonnement op basis van een licentie van een IS
 
 4. Selecteer annuleren **in** de kolom **Status.** Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
-5. Als er een dialoogvenster wordt weergegeven, vult u relevante gegevens in en selecteert u **Verzenden.**
+5. Als er een dialoogvenster wordt weergegeven, vult u alle relevante gegevens in en selecteert u **Verzenden.**
 
 6. Selecteer Ja, annuleren om de annulering **te bevestigen.**
 
 > [!NOTE]
 > U kunt er ook voor kiezen om een abonnement Azure Marketplace annuleren met behulp van API's. Zie Een abonnement op Azure Marketplace [annuleren om dit te doen.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
 
-## <a name="suspend-or-cancel-a-new-commerce-subscription"></a>Een nieuw commerce-abonnement opschorten of annuleren
+## <a name="suspend-or-cancel-a-new-commerce-subscription"></a>Een nieuw commerce-abonnement opzeggen of annuleren
 
 ### <a name="suspend-a-new-commerce-subscription"></a>Een nieuw commerce-abonnement opschorten
 
 > [!NOTE]
-> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technische preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
 
-In het geval van niet-betaling van de klant, ook wel het 'dunning scenario' genoemd, kunnen partners hun abonnement onderbreken en hervatten om de toegang van de klant tot de services van het abonnement onmiddellijk te blokkeren.
+In het geval van niet-betaling van de klant, ook wel het 'dunningscenario' genoemd, kunnen partners hun abonnement onderbreken en hervatten om de toegang van de klant tot de services van het abonnement onmiddellijk te blokkeren.
 
 Partners kunnen een abonnement op elk moment onderbreken en hervatten zonder opzegging. De facturering van partners wordt echter voortgezet tijdens de opzegging. 
 
@@ -215,7 +215,7 @@ U kunt een abonnement onderbreken met behulp van Partner Center:
 
 3. Selecteer OK in het **pop-updialoogvenster.**
 
-4. Het abonnement heeft nu de status Onderbroken en de partner wordt nog steeds gefactureerd voor het abonnement.
+4. Het abonnement heeft nu een onderbroken status en de partner wordt nog steeds gefactureerd voor het abonnement.
 
 Onderbreken is omkeerbaar via Partner Center gebruikersinterface of API's waarmee de toegang van een klant tot de services van een abonnement onmiddellijk wordt hersteld.
 
@@ -225,20 +225,20 @@ Onderbreken is omkeerbaar via Partner Center gebruikersinterface of API's waarme
 ### <a name="cancel-a-new-commerce-subscription"></a>Een nieuw commerce-abonnement annuleren
 
 > [!Note] 
-> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technische preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
 
-Voor nieuwe commerceaanbiedingen kunnen partners hun abonnement opzeggen met een restitutie naar waarde binnen de **eerste 72** uur voor elke periode **(berekend per dag).**  
+Voor nieuwe commerceaanbiedingen kunnen partners hun abonnement opzeggen met een pro **72-restitutie** binnen de eerste 72 uur voor elke periode **(proration berekend per dag).**  
 
-Na 72 uur is opzegging niet meer beschikbaar en wordt de partner gefactureerd voor de volledige termijn, zelfs als de klant stopt met betalen voor of het abonnement gebruikt (van toepassing op een factureringsplan).
+Na 72 uur is annulering niet meer beschikbaar en wordt de partner gefactureerd voor de volledige termijn, zelfs als de klant niet meer betaalt voor of het abonnement gebruikt (van toepassing op een factureringsplan).
 
 Wanneer een annulering is voltooid, heeft de klant onmiddellijk geen toegang meer tot de service en kan de service niet worden hersteld. De status van het abonnement kan niet worden hersteld.  
 
-Als er halverwege de termijn licenties worden toegevoegd, geldt hetzelfde beleid van 72 uur voor het verminderen van extra licenties. Het aantal toegevoegde licenties moet worden verlaagd via **ondersteuningsaanvragen.**
+Als er halverwege de termijn licenties worden toegevoegd, is hetzelfde beleid van 72 uur van toepassing op het verminderen van extra licenties. Het verminderen van het aantal toegevoegde licenties moet worden uitgevoerd via **ondersteuningsaanvragen.**
 
 ## <a name="subscription-renewals"></a>Abonnementsvernieuwingen
 
 > [!NOTE]
-> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technische preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
 
 Actieve abonnementen zijn standaard ingesteld om automatisch te worden verlengd wanneer de abonnementsperiode verloopt. Voor [abonnementen op commerciële marketplace-producten](csp-commercial-marketplace-overview.md)of nieuwe commerce-abonnementen kunt u ervoor kiezen om het abonnement niet automatisch te verlengen.
 
@@ -248,7 +248,7 @@ Als u wilt voorkomen dat een actief abonnement op de commerciële marketplace of
 
 2. Selecteer in Partner Center menu **Klanten** en kies vervolgens een klant in de lijst.
 
-3. Selecteer **Abonnementen**. Hiermee worden alle op licenties gebaseerde abonnementen vermeld die u voor de klant hebt aangeschaft.
+3. Selecteer **Abonnementen**. Hier worden alle op licenties gebaseerde abonnementen vermeld die u voor de klant hebt aangeschaft.
 
 4. Selecteer in **de** kolom Abonnement het abonnement dat u wilt wijzigen.
 
@@ -259,11 +259,11 @@ Als u wilt voorkomen dat een actief abonnement op de commerciële marketplace of
 ### <a name="manage-new-commerce-renewals-with-scheduled-changes"></a>Nieuwe handelsvernieuwingen beheren met geplande wijzigingen
 
 > [!NOTE]
-> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technische preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
 
-Sommige wijzigingen in abonnementen kunnen alleen plaatsvinden aan het einde van een periode. Deze wijzigingen kunnen worden gepland zodat ze gemakkelijk aan het einde van de term kunnen worden toegepast. Voorbeelden van wijzigingen die moeten worden gepland:
+Sommige wijzigingen in abonnementen kunnen alleen aan het einde van een termijn plaatsvinden. Deze wijzigingen kunnen worden gepland zodat ze gemakkelijk aan het einde van de term worden toegepast. Voorbeelden van wijzigingen die moeten worden gepland:
 
-- licentieverminderingen
+- licentiekortingen
 - Wijzigingen in factureringsperiode
 - Wijzigingen in factureringsfrequentie
 
@@ -274,10 +274,10 @@ Planningswijzigingen vinden plaats bij verlenging wanneer het abonnement wordt v
 Vereisten voor geplande wijzigingen:
 
 - Abonnement is actief 
-- Automatisch vernieuwen is aan
+- Automatisch verlengen is aan
 - SKU moet in aanmerking komen voor een upgrade
 
-Als u een nieuwe wijziging wilt plannen die moet worden uitgevoerd tijdens de verlenging:
+Een nieuwe wijziging plannen bij verlenging:
 
 1. Meld u aan bij Partner Center dashboard.
 
@@ -289,7 +289,7 @@ Als u een nieuwe wijziging wilt plannen die moet worden uitgevoerd tijdens de ve
 
 5. Selecteer een andere Waardewijziging voor SKU, hoeveelheid, termijn of factureringsfrequentie:
 
-   - **Current** is de huidige waarde van het abonnement
+   - **Huidig** is de huidige waarde van het abonnement
 
    - **Wijzigen** in is de laatst opgeslagen waarde die u wilt toepassen bij verlenging van het nieuwe abonnement
 
@@ -297,17 +297,17 @@ Als u een nieuwe wijziging wilt plannen die moet worden uitgevoerd tijdens de ve
 
 7. De wijzigingen vinden plaats bij verlenging.
 
-Partners hebben toegang **tot Vernieuwingen beheren om** bestaande geplande wijziging weer te geven, bij te werken of te verwijderen.
+Partners hebben toegang tot **Vernieuwingen beheren om** bestaande geplande wijziging weer te geven, bij te werken of te verwijderen.
 
 > [!NOTE]
-> - Proefversies worden standaard ge converteerd naar de betaalde equivalente SKU aan het einde van de proefperiode.
-> - Als de licentiehoeveelheid voor geplande SKU-upgrades niet wordt gewijzigd, wordt het opnieuw toewijzen van gebruikerslicenties automatisch uitgevoerd, anders moet dit handmatig worden gedaan.
-> - Opgeslagen geplande wijzigingen worden verwijderd als er op de korte termijn updates worden aangebracht in het abonnement.
+> - Proefversies worden aan het einde van de proefperiode standaard ge converteerd naar de betaalde equivalente SKU.
+> - Als het aantal licenties voor geplande SKU-upgrades niet wordt gewijzigd, wordt het opnieuw toewijzen van gebruikerslicenties automatisch uitgevoerd, anders moet dit handmatig worden uitgevoerd.
+> - Opgeslagen geplande wijzigingen worden verwijderd als er op de korte termijn updates worden doorgevoerd in het abonnement.
 
 Opgeslagen geplande wijzigingen worden verwijderd wanneer de volgende wijzigingen op de korte termijn worden aangebracht:  
 
-- Automatisch vernieuwen is uitgeschakeld 
-- Hoeveelheid is gewijzigd 
+- Automatisch verlengen is uitgeschakeld 
+- Hoeveelheid wordt gewijzigd 
 - Abonnement is geannuleerd 
 - SKU is bijgewerkt 
 - De proefversie wordt geconverteerd 
@@ -354,6 +354,33 @@ In beide gevallen van licentievermindering krijgt u een restitutie voor het voll
 
 Als er meer **dan 72** uur zijn verstreken sinds de abonnementsorder is  geplaatst of er extra licenties zijn toegevoegd, kan het aantal licenties niet worden verlaagd tot het volgende annuleringsvenster bij verlenging.
 
+## <a name="switching-billing-plans"></a>Schakelen tussen factureringsplannen
+
+Partners hebben de flexibiliteit om hun factureringsplan en factureringsperiode samen te schakelen. Ze hebben ook de mogelijkheid om alleen hun factureringsplan halverwege de termijn over te schakelen, zonder de factureringsperiode helemaal opnieuw in te stellen.
+
+### <a name="just-changing-billing-frequency-scheduled-change"></a>Alleen de factureringsfrequentie wijzigen (geplande wijziging)
+
+Partners kunnen alleen het factureringsplan via Partner Center in slechts enkele stappen wijzigen, die van kracht worden in de volgende factureringscyclus:
+
+1. Ga naar de abonnementspagina van de klant en selecteer het abonnement dat u wilt wijzigen.
+
+2. Selecteer de **koppeling Factureringsfrequentie** beheren.
+
+3. Er wordt een zijpaneel geopend met de huidige factureringsfrequentie en een vervolgkeuzevenster met de opties om de frequentie in te wijzigen.
+
+4. Zodra een nieuwe waarde is geselecteerd, worden de nieuwe factureringswijzigingen doorgevoerd in de **volgende** factureringscyclus (GEEN onmiddellijke wijziging).
+
+### <a name="changing-billing-frequency-along-with-billing-term-and-other-fields-immediate-change"></a>Factureringsfrequentie wijzigen, samen met factureringsperiode en andere velden (onmiddellijke wijziging)
+
+De partner kan de factureringsfrequentie, samen met de factureringstermijn en andere velden, ook via de Partner Center wijzigen, waardoor een onmiddellijke wijziging wordt veroorzaakt:
+
+1. Ga naar de abonnementspagina van de klant en selecteer het abonnement dat u wilt wijzigen.
+
+2. Wijzig de duur van de term door een optie in de vervolgkeuzeoptie te selecteren. Hiermee opent u een andere vervolgkeuze voor het wijzigen van de factureringsfrequentie.
+
+3. Selecteer een andere factureringsfrequentie in de vervolgkeuzekeuze.
+
+4. Zodra u de wijzigingen hebt aangebracht en op Verzenden hebt geklikt, worden de nieuwe factureringswijzigingen onmiddellijk **doorgevoerd.**
 
 ## <a name="next-steps"></a>Volgende stappen
 

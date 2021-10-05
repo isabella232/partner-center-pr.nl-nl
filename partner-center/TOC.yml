@@ -2,7 +2,7 @@
   href: index.yml
 - name: Wat is Partnercentrum?
   href: overview.md
-- name: De Partner Center
+- name: Aan de Partner Center
   href: get-around-partner-center.md
 - name: Aankondigingen
   href: announcements/TOC.md
@@ -24,7 +24,7 @@
       href: azure-expert-msp.md
     - name: Registreren als Configuratiescherm leverancier
       href: enroll-as-cpv.md
-    - name: Accountverificatie voltooien
+    - name: Verificatie van account voltooien
       href: verification-responses.md
     - name: Problemen met het instellen van accounts oplossen
       href: troubleshoot-account-sign-n.md
@@ -78,7 +78,7 @@
           href: multi-tenant-account.md
         - name: Uw partnerprofiel bijwerken
           href: update-your-partner-profile.md
-        - name: Informatie over registratie-id-nummer
+        - name: Registratie-id-nummergegevens
           href: reg-number-id.md
         - name: Geblokkeerde accounts herstellen
           href: suspended-partner-center-account.md
@@ -124,7 +124,7 @@
       href: mpn-view-print-maps-invoice.md
     - name: Softwaregarantie
       items:
-        - name: Software Assurance programma's
+        - name: Software Assurance-programma's
           href: software-assurance-lp.md
         - name: Vouchers voor trainingen (SATV)
           href: software-assurance-satv.md
@@ -158,7 +158,7 @@
       href: csp-regional-authorization-tenant-consolidation.md
     - name: Learn-account koppelen
       href: ms-learn-associate.md
-    - name: Partner Membership Center met pensioen gaan
+    - name: Partner Membership Center pensioen
       href: partner-membership-center-retirement-faq.md
 - name: Voordelen
   items:
@@ -264,10 +264,12 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: Servicestatus controleren
           href: check-service-health.md
-        - name: Bevestigen dat de klant de Microsoft-klantovereenkomst
+        - name: De klantacceptatie van de Microsoft-klantovereenkomst
           href: confirm-customer-agreement.md
-        - name: 'Klantabonnementen maken, onderbreken of annuleren'
+        - name: Klantabonnementen beheren
           href: create-a-new-subscription.md
+        - name: Abonnementen migreren naar nieuwe handel
+          href: migrate-subscriptions-to-new-commerce.md
         - name: On-premises software verkopen via het CSP-programma
           href: csp-on-premise-software.md
         - name: Klantcommunicatie van Microsoft
@@ -419,7 +421,7 @@
           href: advisors-build-your-business.md
         - name: Een aanbieding maken voor een Office 365-aankoop
           href: advisor-create-a-purchase-offer.md
-    - name: Partners kunnen niet langer worden ingeschreven als adviseurs
+    - name: Partners kunnen zich niet langer inschrijven als advisor
       href: advisors-no-csp.md
     - name: CSP-aanbiedingen
       items:
@@ -623,7 +625,7 @@
       href: set-up-your-payout-account.md
     - name: Belastinggegevens voor uitgevers van commerciële marketplace
       href: tax-details-marketplace.md
-    - name: Inzicht in belastingen
+    - name: Meer inzicht in belastingen
       items:
         - name: Hoe belastingbeleid van invloed is op uitbetaling
           href: tax-policies-affect-payout.md
@@ -717,7 +719,7 @@
           href: insights-programmatic-system-queries.md
         - name: Voorbeeldquery's
           href: insights-programmatic-sample-queries.md
-        - name: Aangepaste queryspecificatie
+        - name: Specificatie van aangepaste query's
           href: insights-programmatic-custom-query.md
         - name: Voorbeeldtoepassing
           href: insights-programmatic-sample-application.md
