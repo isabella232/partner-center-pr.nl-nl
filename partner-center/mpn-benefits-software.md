@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8180f8cae9228f6ed6bb8c1a5953fe1314eb6fc5
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 584f3bad4fa6fcbe661973a344459a6c0a2ec6c3
+ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073608"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129525255"
 ---
 # <a name="mpn-benefits---software"></a>MPN-voordelen - Software
 
@@ -26,9 +26,9 @@ In dit artikel worden de on-premises softwarevoordelen beschreven die beschikbaa
 
 ## <a name="manage-software-products-and-product-keys"></a>Softwareproducten en productcodes beheren
 
-Selecteer het softwareproduct dat van belang is en zoek de specifieke instructies voor elk product door op het vervolgkeuzesymbool te klikken in de regel met de productnaam.
+Selecteer het softwareproduct dat van belang is en zoek de specifieke instructies voor elk product door te klikken op het vervolgkeuzesymbool in de regel met de productnaam.
 
-Als voor een product een productcode is vereist voor de installatie, wordt u tijdens het installatieproces gevraagd om een productcode in te voeren. U kunt kiezen uit hetzelfde deelvenster in Partner Center waarin u de softwareversie hebt gekozen die u wilt downloaden.
+Als voor een product een productcode is vereist voor de installatie, wordt u tijdens het installatieproces gevraagd om een productcode in te voeren. U kunt kiezen uit hetzelfde deelvenster in Partner Center waar u de softwareversie hebt gekozen die u wilt downloaden.
 
 Productactivering is vereist voor **Windows server-** en **clientbesturingssystemen** en **alle Microsoft Office clienttoepassingen.** Niet alle producten vereisen productactivering.
 
@@ -42,7 +42,7 @@ Het aantal activeringen dat wordt geteld op basis van een productcode is gebasee
 
 - Als de software op dezelfde computer is geïnstalleerd zonder belangrijke hardwarewijzigingen, wordt productactivering niet meegetelde voor de productcode.
 
-- Als de software op dezelfde computer is geïnstalleerd met aanzienlijke hardwarewijzigingen, wordt productactivering geteld op basis van de productcode.
+- Als de software op dezelfde computer is geïnstalleerd met belangrijke hardwarewijzigingen, wordt productactivering geteld op basis van de productcode.
 
 ## <a name="troubleshooting-scenarios"></a>Scenario’s voor probleemoplossing
 
@@ -53,6 +53,9 @@ Het aantal activeringen dat wordt geteld op basis van een productcode is gebasee
 - **U ontvangt een bericht met de melding dat u de maximaal beschikbare activeringen voor een productcode hebt bereikt bij het activeren van software.**
 
     U hebt een specifiek aantal activeringen per product via de MPN-lidmaatschapsvoordelen. Als u het maximum aantal activeringen hebt bereikt of overschreden, kunt u niet meer licenties activeren met behulp van de opgegeven productcode.
+
+ > [!Note]
+ > Licentiesleutels voor Office Professional Plus 2019 verkregen via IUR-licenties op Partner Center werken niet wanneer deze zijn geïnstalleerd in macOS.
 
  ## <a name="next-steps"></a>Volgende stappen
 
