@@ -9,40 +9,40 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 584f3bad4fa6fcbe661973a344459a6c0a2ec6c3
-ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
+ms.openlocfilehash: e184bc11dbe7501351b517f904f0169af5a934f0
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129525255"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565183"
 ---
 # <a name="mpn-benefits---software"></a>MPN-voordelen - Software
 
-**Juiste rollen:** Globale | MPN-partnerbeheerder
+**Juiste rollen:** globale | MPN-partnerbeheerder
 
 ## <a name="overview"></a>Overzicht
 
-In dit artikel worden de on-premises softwarevoordelen beschreven die beschikbaar zijn voor partners binnen Partner Center. Als u alle softwareproducten wilt zien waar u recht op hebt als onderdeel van uw actieve [inschrijvingsaanbieding,](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software)moet u zich aanmelden bij Partner Center Benefits .
+In dit artikel worden de on-premises softwarevoordelen beschreven die beschikbaar zijn voor partners binnen Partner Center. Als u alle softwareproducten wilt zien waar u recht op hebt als onderdeel van uw actieve [inschrijvingsaanbieding,](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software)meld u zich aan bij Partner Center Benefits .
 
 ## <a name="manage-software-products-and-product-keys"></a>Softwareproducten en productcodes beheren
 
-Selecteer het softwareproduct dat van belang is en zoek de specifieke instructies voor elk product door te klikken op het vervolgkeuzesymbool in de regel met de productnaam.
+Selecteer het softwareproduct dat van belang is en zoek de specifieke instructies voor elk product door op het vervolgkeuzesymbool te klikken in de regel met de productnaam.
 
 Als voor een product een productcode is vereist voor de installatie, wordt u tijdens het installatieproces gevraagd om een productcode in te voeren. U kunt kiezen uit hetzelfde deelvenster in Partner Center waar u de softwareversie hebt gekozen die u wilt downloaden.
 
-Productactivering is vereist voor **Windows server-** en **clientbesturingssystemen** en **alle Microsoft Office clienttoepassingen.** Niet alle producten vereisen productactivering.
+Productactivering is vereist **voor Windows server-** en **clientbesturingssystemen** en **alle Microsoft Office clienttoepassingen.** Niet alle producten vereisen productactivering.
 
 :::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Softwareproductvoordelen die voor u beschikbaar zijn op MPN." border="false":::
 
 ## <a name="how-activations-are-counted"></a>Hoe activeringen worden geteld
 
-Het aantal activeringen dat wordt geteld op basis van een productcode is gebaseerd op de volgende scenario's
+Het aantal activeringen dat wordt geteld voor een productcode is gebaseerd op de volgende scenario's
 
-- Als de software op een nieuwe computer is geïnstalleerd, wordt het aantal productactiveringen voor de sleutel met één verhoogd.
+- Als de software op een nieuwe computer is geïnstalleerd, wordt het aantal productactiveringen op basis van de sleutel met één verhoogd.
 
 - Als de software op dezelfde computer is geïnstalleerd zonder belangrijke hardwarewijzigingen, wordt productactivering niet meegetelde voor de productcode.
 
-- Als de software op dezelfde computer is geïnstalleerd met belangrijke hardwarewijzigingen, wordt productactivering geteld op basis van de productcode.
+- Als de software op dezelfde computer is geïnstalleerd met aanzienlijke hardwarewijzigingen, wordt productactivering meegetelde voor de productcode.
 
 ## <a name="troubleshooting-scenarios"></a>Scenario’s voor probleemoplossing
 
@@ -50,12 +50,12 @@ Het aantal activeringen dat wordt geteld op basis van een productcode is gebasee
 
     CAL's zijn geen product dat kan worden gedownload. De activering van CAL's wordt beheerd op het Server-product zelf.
 
-- **U ontvangt een bericht met de melding dat u de maximaal beschikbare activeringen voor een productcode hebt bereikt bij het activeren van software.**
+- **U ontvangt een bericht met de melding dat u het maximum aantal beschikbare activeringen voor een productcode hebt bereikt bij het activeren van software.**
 
-    U hebt een specifiek aantal activeringen per product via de MPN-lidmaatschapsvoordelen. Als u het maximum aantal activeringen hebt bereikt of overschreden, kunt u niet meer licenties activeren met behulp van de opgegeven productcode.
+    U hebt een specifiek aantal activeringen per product via de mpn-lidmaatschapsvoordelen. Als u het maximum aantal activeringen hebt bereikt of overschreden, kunt u niet meer licenties activeren met behulp van de opgegeven productcode.
 
  > [!Note]
- > Licentiesleutels voor Office Professional Plus 2019 verkregen via IUR-licenties op Partner Center werken niet wanneer deze zijn geïnstalleerd in macOS.
+ > Licentiesleutels voor Office Professional Plus 2019 verkregen via IUR-licenties op Partner Center werken niet wanneer ze zijn geïnstalleerd in macOS.
 
  ## <a name="next-steps"></a>Volgende stappen
 

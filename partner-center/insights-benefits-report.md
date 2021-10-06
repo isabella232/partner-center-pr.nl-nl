@@ -4,25 +4,25 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Kijk welke soorten voordelen van Microsoft Partner u hebt gekregen om uw bedrijf te helpen groeien, de efficiëntie te verbeteren en de vaardigheden van uw team te verbeteren.
+description: Kijk welke typen voordelen van Microsoft Partner u hebt gekregen om uw bedrijf te vergroten, de efficiëntie te verbeteren en de vaardigheden van uw team te verbeteren.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 759d5d5f1d258325a00bbc53833059de61707c77
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4121e754595bc4992196108cdbcf365a48ac50f4
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074448"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565271"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapport Met voordelen dat beschikbaar is via Partner Center Insights dashboard
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Het rapport Voordelen is beschikbaar via het Partner Center Insights dashboard
 
-**Juiste rollen:** Globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
+**Juiste rollen:** globale | Beheeragent | Rapportviewer | Rapportviewer voor leidinggevenden
 
 Als Microsoft-partner hebt u toegang tot tal van voordelen die gebruikmaken van de nieuwste technologie en innovaties om u te helpen de vaardigheden van uw team te verbeteren, de efficiëntie te verbeteren en uw bedrijf te laten groeien. Voordelenpakketten zijn onder andere: toewijzingen van gelicentieerde software, cloudservices, Visual Studio abonnementen en ondersteuning. Deze pakketten kunnen ook bepaalde Go-To-Market-resources, aanbiedingen en programma's bevatten. Het rapport Voordelen bevat trends van de voordelen die u hebt gebruikt en het gebruik ervan tijdens het geselecteerde datumbereik.
 
-:::image type="content" source="images/insights/benefits-intro.png" alt-text="overzicht van de voordelenpagina.":::
+:::image type="content" source="images/insights/benefits-intro.png" alt-text="overzicht van de pagina voordelen.":::
 
 U kunt de volgende grafieken visualiseren in het rapport Voordelen:
 
@@ -34,19 +34,19 @@ U kunt de volgende grafieken visualiseren in het rapport Voordelen:
 - Go-to-market
 
  > [!NOTE]
- > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie de globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met beheerdersrechten voor rapportviewers.
+ > Dit rapport is beschikbaar via het Insights dashboard. Als u dit rapport wilt weergeven, moet aan u een specifieke rol zijn toegewezen in Partner Center, zoals globale beheerder, accountbeheerder, rapportviewer of executive rapportviewer. Zie De globale beheerder van uw bedrijf voor meer informatie. Specifieke typen gegevens in dit rapport zijn mogelijk ook alleen beschikbaar voor gebruikers met bevoegdheden voor Executive Report Viewer.
 
 ## <a name="summary"></a>Samenvatting
 
-De sectie Samenvatting bevat de voordelen van gelicentieerde software, cloudservices (niet-Azure), Visual Studio-abonnementen, technische ondersteuning en bepaalde Go-To-Market-services of -aanbiedingen.
+De sectie Samenvatting bevat de voordelen die worden verleend op het gebied van gelicentieerde software, cloudservices (niet-Azure), Visual Studio-abonnementen, technische ondersteuning en bepaalde Go-To-Market-services of -aanbiedingen.
 
-Voorbeeld: Microsoft Partner Network (MPN)-lidmaatschapspartners komen in aanmerking voor technische ondersteuning van on-premises producten en cloudproducten. Partners die de Silver-competentie hebben, krijgen technische ondersteuning voor 15 incidenten voor on-premises producten. Ze kunnen deze ondersteuning gebruiken als dat nodig is. 
+Voorbeeld: Microsoft Partner Network (MPN)-lidmaatschapspartners komen in aanmerking voor technische ondersteuning van on-premises producten en cloudproducten. Partners die silver-competentie hebben, krijgen technische ondersteuning voor 15 incidenten voor on-premises producten. Ze kunnen deze ondersteuning naar behoefte gebruiken.
 
 :::image type="content" source="images/insights/benefits-summary.png" alt-text="samenvatting van voordelen.":::
 
 ## <a name="cloud-services-granted"></a>Cloudservices verleend
 
-Deze grafiek toont de maandelijkse trend van licenties die zijn verleend tijdens het geselecteerde datumbereik voor op licenties gebaseerde abonnementen van de geselecteerde cloudservice.
+In deze grafiek wordt de maandelijkse trend weergegeven van licenties die zijn verleend tijdens het geselecteerde datumbereik voor op licenties gebaseerde abonnementen van de geselecteerde cloudservice.
 Selecteer een cloudservice op het **tabblad Services** om de grafiek voor een specifieke cloudservice weer te geven. De lijngrafiek vertegenwoordigt de algemene licenties die aan uw bedrijf zijn verleend.
 
 :::image type="content" source="images/insights/benefits-cloud-services-granted.png" alt-text="cloudservices verleend.":::
@@ -59,17 +59,17 @@ In deze grafiek wordt de maandelijkse trend weergegeven van licenties die zijn v
 
 ## <a name="visual-studio-subscriptions"></a>Visual Studio-abonnementen
 
-Deze grafiek toont de maandelijkse trend van Visual Studio geactiveerd op basis van abonnementen die u hebt toegewezen tijdens het geselecteerde datumbereik.
+Deze grafiek toont de maandelijkse trend van Visual Studio die zijn geactiveerd voor abonnementen die u tijdens het geselecteerde datumbereik hebt toegewezen.
 
-Selecteer een tabblad boven aan de grafiek om de trend weer te geven van een specifiek Visual Studio-abonnement dat als voordelen wordt verleend. Kolommen in de grafiek vertegenwoordigen licenties die zijn verbruikt voor het abonnement. De lijngrafiek vertegenwoordigt de algemene licenties die zijn toegewezen voor het abonnement.
+Selecteer een tabblad boven aan de grafiek om de trend weer te geven van een specifiek Visual Studio abonnement dat als voordelen wordt verleend. Kolommen in de grafiek vertegenwoordigen licenties die worden gebruikt voor het abonnement. De lijngrafiek vertegenwoordigt de algemene licenties die zijn toegewezen voor het abonnement.
 
 :::image type="content" source="images/insights/benefits-visual-studio-subscriptions.png" alt-text="Visual Studio abonnementen.":::
 
 ## <a name="technical-benefits"></a>Technische voordelen
 
-Deze grafiek toont de maandelijkse trend van ondersteuningsvoordelen die worden verleend tijdens het geselecteerde datumbereik.
+In dit diagram wordt de maandelijkse trend weergegeven van ondersteuningsvoordelen die zijn verleend tijdens het geselecteerde datumbereik.
 
-Selecteer een tabblad boven aan de grafiek om de trend te bekijken van een specifiek ondersteuningsvoordeel dat aan u is verleend. De lijngrafiek geeft de totale uren aan ondersteuning weer die zijn toegewezen voor het geselecteerde ondersteuningsvoordeel.
+Selecteer een tabblad boven aan de grafiek om de trend weer te geven van een specifiek ondersteuningsvoordeel dat aan u is verleend. De lijngrafiek vertegenwoordigt de totale uren aan ondersteuning die zijn toegewezen voor het geselecteerde ondersteuningsvoordeel.
 
 :::image type="content" source="images/insights/benefits-technical-benefits.png" alt-text="technische voordelen.":::
 
@@ -83,4 +83,4 @@ Selecteer een Go-To-Market-aanbieding of servicecategorie in de vervolgkeuzelijs
 
 ## <a name="next-steps"></a>Volgende stappen
 
-- Zie voor meer [rapporten Partner Center Insights.](partner-center-insights.md)
+- Zie voor meer rapporten [Partner Center Insights.](partner-center-insights.md)

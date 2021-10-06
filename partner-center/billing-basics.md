@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb9fff7ddbf828cbf15ad447c66ed18dfcb0643b
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: a676785f690d0e3cb2b4e6e4de03b78480b0db70
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129089162"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565305"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Factureringsoverzicht voor partners van het CSP-programma die in Partner Center werkzaam zijn 
 
@@ -25,7 +25,7 @@ Dit artikel bevat de basisfacturerings- en factuurgegevens voor CSP-partners in 
 ## <a name="find-your-bill"></a>Uw factuur zoeken
 
 > [!NOTE]
-> Zie Getting around Partner Center voor meer informatie over [de werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Zie Getting around Partner Center voor meer informatie over de [werkruimte-interface.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Werkruimteweergave](#tab/workspaces-view)
 
@@ -53,7 +53,7 @@ Zie uw afstemmingsbestanden om het gebruik van een klant [te bepalen.](#find-you
 
 ### <a name="billing-types"></a>Factureringstypen
 
-Factureringstypen in Partner Center zijn op licenties gebaseerde **facturering,** **facturering** op basis van gebruik en een **een time-facturering**.
+Factureringstypen in Partner Center omvatten **facturering op basis** van licenties, **facturering** op basis van gebruik en een **een time-facturering**.
 
 ### <a name="billing-currency"></a>Factureringsvaluta
 
@@ -73,7 +73,7 @@ Voor eenmalige en terugkerende facturering wordt de factureringsperiode aangepas
 
 Prijslijsten worden maandelijks bijgewerkt. Preview-prijslijsten zijn één (1) maand van tevoren beschikbaar.
 
-Als u de meest recente Cloud Solution Provider programma's en aanbiedingen wilt bekijken, selecteert Partner Center dashboard de **tegel** Prijzen. U vindt afzonderlijke prijslijsten voor de verschillende typen producten die beschikbaar zijn. De volgende prijslijsten zijn beschikbaar op de **pagina Prijzen en** aanbiedingen:
+Als u de meest recente Cloud Solution Provider programma's en aanbiedingen wilt bekijken, selecteert Partner Center dashboard **de** tegel Prijzen. U vindt afzonderlijke prijslijsten voor de verschillende typen producten die beschikbaar zijn. De volgende prijslijsten zijn beschikbaar op de **pagina Prijslijsten:**
 
 **Op licenties gebaseerde** prijzen worden gegarandeerd voor de duur van het abonnement, meestal 12 maanden na de aankoopdatum.
 
@@ -87,13 +87,13 @@ U ziet achteraf **aanpassingen en** **tegoeden** op uw volgende factureringsfact
 
 De betalingsvoorwaarden zijn netto 60 dagen. Facturen moeten worden betaald op de einddatum van de factuur (60 dagen na de factureringsdatum), anders is uw account delinquent, wat van invloed kan zijn op uw inschrijving in CSP.
 
-U kunt de volledige functionaliteit van uw opgeschorte accounts herstellen wanneer u het verschuldigde bedrag betaalt.
+U kunt de volledige functionaliteit van uw opgeschorte accounts herstellen wanneer u het achterbetalen bedrag betaalt.
 
-Zodra de gecorrigeerde factureringsgegevens zijn opgegeven, is uw betaling binnen vijf werkdagen zichtbaar op Partner Center factureringspagina.
+Zodra de gecorrigeerde factureringsgegevens zijn opgegeven, wordt uw betaling binnen vijf werkdagen Partner Center weergegeven op de pagina Partner Center facturering.
 
 ### <a name="taxes-and-vat"></a>Belastingen en btw
 
-U wordt belast op basis van uw gegevens (niet de gegevens van uw klanten), omdat de factureringsrelatie tussen Microsoft en u is. U kunt uw belasting-id indienen tijdens het installatieproces van het account of later via een ondersteuningsaanvraag. De wijzigingen worden weergegeven in uw volgende factureringscyclus.
+U wordt belast op basis van uw gegevens (niet de gegevens van uw klanten), omdat de factureringsrelatie tussen Microsoft en u is. U kunt uw btw-id indienen tijdens het installatieproces van het account of later via een ondersteuningsaanvraag. De wijzigingen worden weergegeven in uw volgende factureringscyclus.
 
 Voor **bron- en btw-vrijstelling** moet u belastingdocumentatie indienen via een ondersteuningsaanvraag. U ziet de wijzigingen en de juiste restituties voor uw volgende factureringscyclus. Meer informatie over het [indienen van bronbelasting](withholding-tax-credit-form.md). 
 
@@ -111,7 +111,7 @@ Microsoft maakt geen kosten voor vroegtijdige beëindiging in rekening voor annu
 
 ### <a name="billing-rules"></a>Factureringsregels
 
-Er zijn twee soorten factureringsfrequenties: jaarlijks en maandelijks. Servicetarieven naar gebruik kunnen binnen de factuurcyclus worden gewijzigd.
+Er zijn twee soorten factureringsfrequenties: jaarlijks en maandelijks. Servicetarieven naar gebruik kunnen binnen de factuurcyclus veranderen.
 
 #### <a name="annual-billing-rules"></a>Jaarlijkse factureringsregels
 
@@ -131,7 +131,7 @@ Er zijn twee soorten factureringsfrequenties: jaarlijks en maandelijks. Servicet
 
 - Abonnementen zijn maandelijks en worden automatisch verlengd tegen de nieuwe servicetarieven naar gebruik. U wordt elke maand gefactureerd voor het gebruik van de vorige maand.
 
-- Servicetarieven naar gebruik kunnen binnen de factuurcyclus worden gewijzigd.
+- Servicetarieven naar gebruik kunnen binnen de factuurcyclus veranderen.
 
 - Op de factuur die u ontvangt, worden alleen de kosten voor die maand bijgerekend.
 

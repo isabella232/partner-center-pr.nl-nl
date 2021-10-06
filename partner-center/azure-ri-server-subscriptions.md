@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 752b7b9eee2da69dec597f56d1ddc2968aa7c29a
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: a05dd4aaf10a373047992c5fdd4d0f83e930f1cf
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244737"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565132"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Gereserveerde VM& s (RI) en serverabonnementen voor klanten verkrijgen, inrichten en beheren
 
@@ -24,15 +24,15 @@ ms.locfileid: "126244737"
 
 ## <a name="what-are-azure-reservations"></a>Wat zijn Azure-reserveringen?
 
-Azure-reserveringen helpen u geld te besparen door vooraf te betalen voor een of drie jaar aan virtuele machines, SQL Database rekencapaciteit, Azure Cosmos DB doorvoer of andere Azure-resources. Als u vooraf betaalt, kunt u korting krijgen op de resources die u gebruikt. Reserveringen kunnen uw virtuele machine, SQL database compute, Azure Cosmos DB en andere resourcekosten aanzienlijk verlagen, tot wel 72% in vergelijking met de prijzen voor betalen per gebruik. Reserveringen voorzien in een korting op de factuur en zijn niet van invloed op de runtime-status van uw resources. Zie Wat zijn [Azure-reserveringen? voor meer informatie.](/azure/billing/billing-save-compute-costs-reservations)
+Azure-reserveringen helpen u geld te besparen door vooraf te betalen voor een of drie jaar aan virtuele machines, SQL Database-rekencapaciteit, Azure Cosmos DB doorvoer of andere Azure-resources. Als u vooraf betaalt, kunt u korting krijgen op de resources die u gebruikt. Reserveringen kunnen uw virtuele machine, SQL database compute, Azure Cosmos DB en andere resourcekosten aanzienlijk verlagen, tot wel 72% in vergelijking met de prijzen voor betalen per gebruik. Reserveringen voorzien in een korting op de factuur en zijn niet van invloed op de runtime-status van uw resources. Zie Wat zijn [Azure-reserveringen? voor meer informatie.](/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Waarom moeten klanten een reservering kopen?
 
-Als klanten virtuele machines, Azure Cosmos DB of SQL databases hebben die voor langere tijd worden uitgevoerd, is het kopen van een reservering de meest rendabele optie. Als een klant bijvoorbeeld continu vier exemplaren van een service zonder reservering gebruikt, worden er kosten in rekening gebracht tegen tarieven voor betalen per gebruik. Als ze een reservering voor deze resources aanschaffen, krijgen ze onmiddellijk de reserveringskorting. De resources worden niet langer gefactureerd met de tarieven voor betalen per gebruik.
+Als klanten virtuele machines, Azure Cosmos DB of SQL databases hebben die gedurende een lange periode worden uitgevoerd, biedt het kopen van een reservering hen de meest rendabele optie. Als een klant bijvoorbeeld continu vier exemplaren van een service zonder reservering gebruikt, worden er kosten in rekening gebracht tegen tarieven voor betalen per gebruik. Als ze een reservering voor deze resources aanschaffen, krijgen ze onmiddellijk de reserveringskorting. De resources worden niet langer gefactureerd met de tarieven voor betalen per gebruik.
 
 ### <a name="compelling-new-azure-offer-in-csp"></a>Aantrekkelijke nieuwe Azure-aanbieding in CSP
 
-Door Azure-reserveringen en serverabonnementen over te brengen naar het CSP-programma, is Microsoft haar partners beter in staat om te voldoen aan de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare, permanente cloudworkloads. Met het CSP-programma kunnen partners Azure-reserveringen en -serverabonnementen namens commerciële klanten verkrijgen, inrichten en beheren via Microsoft Partner Center en Azure Portal.
+Door Azure Reservations en Server Subscriptions over te brengen naar het CSP-programma, is Microsoft haar partners beter in staat om te voldoen aan de snel groeiende vraag van klanten naar rendabele oplossingen ter ondersteuning van zeer voorspelbare, permanente cloudworkloads. Met het CSP-programma kunnen partners Azure-reserveringen en -serverabonnementen namens commerciële klanten verkrijgen, inrichten en beheren via Microsoft Partner Center en Azure Portal.
 We geven zelfs partners in ons CSP-programma opties over hoe Azure-reserveringen kunnen worden aangeschaft. CSP-partners kunnen [Azure-reserveringen](azure-reservations-buying.md) kopen namens een [](give-customers-permission.md) klant of ze kunnen de klant toestaan om hun eigen reserveringen te kopen bij een eerder Azure-abonnement dat de partner voor hen heeft gekocht.
 
 Azure-reserveringen bieden klanten de flexibiliteit van virtualisatie voor een breed scala aan computeroplossingen, waaronder ontwikkeling en testen, het uitvoeren van toepassingen en het uitbreiden van het datacenter.
@@ -43,10 +43,8 @@ Met een niet-overeenkomende combinatie van aantrekkelijke prijzen en niet-overee
 
 - Zie [Reserveringen kopen in](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) de Azure-portal.
 
-- Zie de commerciële prijslijst voor **Azure RI CSP** onder de [](https://partner.microsoft.com/dashboard/sell/pricingandoffers) categorie Microsoft Azure **Reserved Instances** op de pagina Prijzen en aanbiedingen in Partner Center voor softwareabonnementen en jaarlijkse Linux ISV-abonnementen.
+- Zie de **commerciële prijslijst voor Azure RI CSP** onder de [](https://partner.microsoft.com/dashboard/sell/pricingandoffers) categorie **Microsoft Azure Reserved Instances** op de pagina Prijslijsten in Partner Center voor softwareabonnementen en jaarlijkse Linux ISV-abonnementen.
 
-
- 
 **Jaarlijkse Linux ISV-abonnementen**
 
 - SUSE Linux
@@ -92,17 +90,17 @@ Als u wilt weten hoe u Azure-reserveringen bij uw klanten kunt plaatsen en zo sn
 
 - [Azure prijscalculator](https://azure.microsoft.com/pricing/calculator)
 
-- [Azure Databricks-eenheidsreserveringen](/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks eenheidsreserveringen](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>Training
 
 Registreer u om [webinars over gereedheid voor](https://commercial-licensing.eventbuilder.com/FY2019_ALL) commerciële licenties en on-demand gebeurtenissen weer te geven.
-Eerder vastgelegde gebeurtenissen van Licentieverlenings readiness on-demand omvatten onderwerpen zoals:
+Eerder vastgelegde gebeurtenissen met betrekking tot licentie-gereedheid op aanvraag omvatten onderwerpen zoals:
 
 - CSP Online Services, CSP Azure en algemene licentie-updates, waaronder Azure (november 2018)
 
-- SQL Flexibiliteit van gereserveerde & databasecapaciteit (augustus 2018)
+- SQL Flexibiliteit van de & databasecapaciteit (augustus 2018)
 
 - Serverabonnementen in CSP (juli 2018)
 

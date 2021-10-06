@@ -32,7 +32,7 @@
       items:
         - name: CSP-overeenkomsten
           href: microsoft-partner-agreement.md
-        - name: Hoe indirecte providers hun resellers kunnen helpen de MPA over te nemen
+        - name: Hoe indirecte providers hun resellers kunnen helpen de MPA te gebruiken
           href: mpa-indirect-provider-faq.yml
         - name: 'Regionale markten voor CSP, valuta'
           href: regional-authorization-overview.md
@@ -158,7 +158,7 @@
       href: csp-regional-authorization-tenant-consolidation.md
     - name: Learn-account koppelen
       href: ms-learn-associate.md
-    - name: Partner Membership Center met pensioen gaan
+    - name: Partner Membership Center pensioen
       href: partner-membership-center-retirement-faq.md
 - name: Voordelen
   items:
@@ -271,7 +271,7 @@
         - name: Abonnementen migreren naar nieuwe commerce
           href: migrate-subscriptions-to-new-commerce.md
         - name: On-premises software verkopen via het CSP-programma
-          href: csp-on-premise-software.md
+          href: csp-on-premises-software.md
         - name: Klantcommunicatie van Microsoft
           href: customer-communication-from-microsoft.md
         - name: Technische ondersteuning bieden
@@ -607,7 +607,7 @@
   href: /azure/marketplace
 - name: Uitbetalingen
   items:
-    - name: Overzicht van uitbetalingen
+    - name: Overzicht uitbetalingen
       href: non-payment-fraud-misuse.md
     - name: Facturering van mobiele provider
       href: mobile-operator-billing.md
@@ -621,7 +621,7 @@
       href: payout-policy-details.md
     - name: Uitbetalingsinstructies
       href: payout-statement.md
-    - name: Samenvatting van omzet
+    - name: Opbrengstoverzicht
       href: revenue-summary.md
     - name: Gegevenspagina uitbetalingen exporteren
       href: payouts-enhanced-exports.md
@@ -723,7 +723,7 @@
           href: insights-programmatic-system-queries.md
         - name: Voorbeeldquery's
           href: insights-programmatic-sample-queries.md
-        - name: Aangepaste queryspecificatie
+        - name: Specificatie van aangepaste query's
           href: insights-programmatic-custom-query.md
         - name: Voorbeeldtoepassing
           href: insights-programmatic-sample-application.md

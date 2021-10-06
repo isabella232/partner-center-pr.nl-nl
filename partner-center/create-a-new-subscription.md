@@ -9,25 +9,25 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a2e13bf45b10bebe6ab0492ac059dc1d6a6c0ca
-ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
+ms.openlocfilehash: c42e2e8dbc98bdf9ed0e2994bfb7ad49848aad76
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129452410"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565328"
 ---
 # <a name="manage-customer-subscriptions"></a>Klantabonnementen beheren
 
 **Van toepassing op**: Partner Center | Partner Center voor Microsoft Cloud for US Government
 
-**Juiste rollen:** beheeragent | Factureringsbeheerders | Globale beheerder | Helpdeskagent | Verkoopagent
+**Juiste rollen:** Beheeragent | Factureringsbeheerders | Globale beheerder | Helpdeskagent | Verkoopagent
 
-Nadat u een record van uw klant in de Partner Center, kunt u ze abonnementen verkopen aan producten in de catalogus. Dit omvat producten die zijn gepubliceerd door Microsoft en SaaS-producten (Software as a Service) die door onafhankelijke onafhankelijke softwareleveranciers (ISV's) zijn gepubliceerd op [de commerciële marketplace.](https://azuremarketplace.microsoft.com/marketplace)
+Nadat u een record van uw klant in de Partner Center, kunt u deze abonnementen verkopen aan producten in de catalogus. Dit omvat producten die zijn gepubliceerd door Microsoft en SaaS-producten (Software as a Service) die door onafhankelijke onafhankelijke softwareleveranciers (ISV's) zijn gepubliceerd op [de commerciële marketplace.](https://azuremarketplace.microsoft.com/marketplace)
 
-Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Als u een lijst wilt bekijken met aanbiedingen die zijn beperkt, gaat u naar Partner Center pagina Prijzen en aanbiedingen.
+Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Als u een lijst wilt bekijken met aanbiedingen die zijn beperkt, gaat u naar Partner Center **pagina Prijslijsten.**
 
 > [!IMPORTANT]
-> Als partner in het CSP-programma kunt u  SaaS-abonnementen op basis van licenties of saaS-abonnementen met datalicenties aanschaffen bij **ISV-uitgevers** binnen Partner Center. Dit betekent dat u elke  SaaS-aanbieding op basis van licenties of naar [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) gebruik kunt aanschaffen die de **ISV-uitgever** voor u beschikbaar heeft gesteld, inclusief exclusieve aanbiedingen waarvoor u toegang hebt. Als u andere commerciële marketplace-aanbiedingen van ISV's wilt kopen of beheren (zoals aanbiedingen op basis van gebruik met betrekking tot Azure-toepassingen, containers of VM's), gaat u [naar de Azure Portal.](https://portal.azure.com/)
+> Als partner in het CSP-programma kunt u  SaaS-abonnementen op basis van licenties of SaaS-abonnementen met datalicenties aanschaffen bij **ISV-uitgevers** binnen Partner Center. Dit betekent dat u elke  SaaS-aanbieding op basis van licenties of naar [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) gebruik kunt aanschaffen die de **ISV-uitgever** voor u beschikbaar heeft gesteld, inclusief exclusieve aanbiedingen waarvoor u toegang hebt. Als u andere commerciële marketplace-aanbiedingen van ISV's wilt kopen of beheren (zoals aanbiedingen op basis van gebruik met betrekking tot Azure-toepassingen, containers of [VM's),](https://portal.azure.com/)gaat u naar de Azure Portal .
 
 > [!NOTE]
 > Alle datums en tijden in Partner Center worden opgegeven in de UTC-tijdstandaard (Universal Time Coordinated). Dit kan tot 24 uur verschillen van uw lokale tijd.
@@ -51,7 +51,7 @@ Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Als u een lijs
 4. Selecteer de productabonnementen die u voor uw klant wilt kopen. De producten die u ziet, zijn afhankelijk van het type klantsegment (onderwijs, overheid, enzovoort) en de filters die u hebt toegepast. Sommige aanbiedingen die op de Marketplace worden weergegeven, zijn mogelijk niet altijd beschikbaar voor een specifieke klant of een specifieke CSP-partner. Dit kan de volgende zijn:
    - De klant heeft al een abonnement op dat product en er is er slechts één toegestaan
    - Het abonnement van de klant is mogelijk tijdelijk opgeschort (in dit geval kunt u het abonnement opnieuw activeren in plaats van een nieuw abonnement aan te schaffen.)
-   - Voor ISV SaaS-aanbiedingen kunnen er enkele redenen zijn waarom de aanbieding niet beschikbaar is om te kopen: De ISV biedt mogelijk geen ondersteuning voor het factureringsland of de regio van de klant; De ISV heeft er mogelijk voor gekozen om de aanbieding niet beschikbaar te maken via het CSP-programma; of kan de ISV de aanbieding uitsluitend hebben [gedaan](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) aan bepaalde CSP-partners. De ISV-aanbieding is mogelijk ook niet transacteerbaar via de Partner Center (bijvoorbeeld containers of sommige aanbiedingen op basis van gebruik).  
+   - Voor ISV SaaS-aanbiedingen kunnen er enkele redenen zijn waarom de aanbieding niet beschikbaar is om aan te schaffen: De ISV biedt mogelijk geen ondersteuning voor het factureringsland of de regio van de klant; De ISV heeft er mogelijk voor gekozen om de aanbieding niet beschikbaar te maken via het CSP-programma; of kan de ISV de aanbieding uitsluitend hebben [gedaan](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) aan bepaalde CSP-partners. De ISV-aanbieding is mogelijk ook niet transacteerbaar via de Partner Center (bijvoorbeeld containers of sommige aanbiedingen op basis van gebruik).  
 
 5. Voer voor elk abonnement dat u wilt toevoegen het aantal licenties in (indien nodig) en selecteer **Toevoegen aan winkelwagen.**
 
@@ -85,7 +85,7 @@ Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Als u een lijs
 4. Selecteer de productabonnementen die u voor uw klant wilt kopen. De producten die u ziet, zijn afhankelijk van het type klantsegment (onderwijs, overheid, enzovoort) en de filters die u hebt toegepast. Sommige aanbiedingen die op de Marketplace worden weergegeven, zijn mogelijk niet altijd beschikbaar voor een specifieke klant of een specifieke CSP-partner. Dit kan de volgende zijn:
    - De klant heeft al een abonnement op dat product en er is er slechts één toegestaan
    - Het abonnement van de klant is mogelijk tijdelijk opgeschort (in dit geval kunt u het abonnement opnieuw activeren in plaats van een nieuw abonnement aan te schaffen.)
-   - Voor ISV SaaS-aanbiedingen kunnen er enkele redenen zijn waarom de aanbieding niet beschikbaar is om te kopen: De ISV biedt mogelijk geen ondersteuning voor het factureringsland of de regio van de klant; De ISV heeft er mogelijk voor gekozen om de aanbieding niet beschikbaar te maken via het CSP-programma; of kan de ISV de aanbieding uitsluitend hebben [gedaan](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) aan bepaalde CSP-partners. De ISV-aanbieding is mogelijk ook niet transacteerbaar via de Partner Center (bijvoorbeeld containers of sommige aanbiedingen op basis van gebruik).  
+   - Voor ISV SaaS-aanbiedingen kunnen er enkele redenen zijn waarom de aanbieding niet beschikbaar is om aan te schaffen: De ISV biedt mogelijk geen ondersteuning voor het factureringsland of de regio van de klant; De ISV heeft er mogelijk voor gekozen om de aanbieding niet beschikbaar te maken via het CSP-programma; of kan de ISV de aanbieding uitsluitend hebben [gedaan](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) aan bepaalde CSP-partners. De ISV-aanbieding is mogelijk ook niet transacteerbaar via de Partner Center (bijvoorbeeld containers of sommige aanbiedingen op basis van gebruik).  
 
 5. Voer voor elk abonnement dat u wilt toevoegen het aantal licenties in (indien nodig) en selecteer **Toevoegen aan winkelwagen.**
 
@@ -109,7 +109,7 @@ Sommige aanbiedingen zijn beperkt tot één abonnement per klant. Als u een lijs
 
 ## <a name="update-subscriptions-with-add-ons"></a>Abonnementen bijwerken met invoegtoepassingen
 
-Als de klant een invoegabonnement wil aanschaffen, moet deze eerst een actief basisabonnement hebben.  U kunt invoegtoepassingen niet aanschaffen via de catalogus.
+Als de klant een invoegaanvoeging wilt aanschaffen, moet deze eerst een actief basisabonnement hebben.  U kunt invoegtoepassingen niet aanschaffen via de catalogus.
 
 1. Meld u aan bij Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
@@ -143,15 +143,15 @@ Wanneer u de status van een abonnement wijzigt in **Tijdelijk,** kunnen gebruike
 
 4. Kies **Onderbroken** bij **Status**. Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
-5. Alle gegevens worden verwijderd, tenzij het abonnement binnen 90 dagen opnieuw wordt geactiveerd, of 90 dagen plus het aantal dagen tussen het moment dat het account is geopend en de eerste factureringsperiode (maximaal 120 dagen).
+5. Alle gegevens worden verwijderd, tenzij het abonnement binnen 90 dagen opnieuw wordt geactiveerd of 90 dagen plus het aantal dagen tussen het moment dat het account is geopend en de eerste factureringsperiode (maximaal 120 dagen).
 
 Wanneer u een abonnement onder de  knop Tijdelijk opzegt, wordt aangegeven wanneer het abonnement automatisch verloopt als u het abonnement niet opnieuw activeren. 
 
 > [!NOTE]
-> CSP-abonnementen hebben geen verlopen periode (zoals web-directe abonnementen) waarin de services nog steeds werken, maar het abonnement geen factureringskosten genereert. CSP-abonnementen zijn actief of tijdelijk (of volledig verwijderd).
+> CSP-abonnementen hebben geen verlopen periode (zoals web-direct abonnementen doen) waarin de services nog steeds werken, maar het abonnement geen factureringskosten genereert. CSP-abonnementen zijn actief of tijdelijk (of volledig verwijderd).
 
 > [!NOTE]
-> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview Microsoft 365/Dynamics 365 New Commerce Experience.
 
 Als u nieuwe commerce-abonnementen wilt opschorten of nieuwe handelsabonnementen opnieuw wilt activeren, maakt u een serviceaanvraag en neem contact op met de ondersteuning.
 
@@ -187,19 +187,19 @@ Ga als volgt te werk om een SaaS-abonnement op basis van een licentie van een IS
 
 4. Selecteer annuleren **in** de kolom **Status.** Kies vervolgens **Verzenden** om de wijzigingen vast te leggen.
 
-5. Als er een dialoogvenster wordt weergegeven, vult u alle relevante gegevens in en selecteert u **Verzenden.**
+5. Als er een dialoogvenster wordt weergegeven, vult u relevante gegevens in en selecteert u **Verzenden.**
 
 6. Selecteer Ja, annuleren om de annulering **te bevestigen.**
 
 > [!NOTE]
-> U kunt er ook voor kiezen om een abonnement Azure Marketplace annuleren met behulp van API's. Zie Een abonnement op Azure Marketplace [annuleren om dit te doen.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
+> U kunt er ook voor kiezen om een Azure Marketplace annuleren met behulp van API's. Zie Een abonnement op Azure Marketplace [annuleren om dit te doen.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
 
 ## <a name="suspend-or-cancel-a-new-commerce-subscription"></a>Een nieuw commerce-abonnement opzeggen of annuleren
 
 ### <a name="suspend-a-new-commerce-subscription"></a>Een nieuw commerce-abonnement opschorten
 
 > [!NOTE]
-> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview Microsoft 365/Dynamics 365 New Commerce Experience.
 
 In het geval van niet-betaling van de klant, ook wel het 'dunningscenario' genoemd, kunnen partners hun abonnement onderbreken en hervatten om de toegang van de klant tot de services van het abonnement onmiddellijk te blokkeren.
 
@@ -220,14 +220,14 @@ U kunt een abonnement onderbreken met behulp van Partner Center:
 Onderbreken is omkeerbaar via Partner Center gebruikersinterface of API's waarmee de toegang van een klant tot de services van een abonnement onmiddellijk wordt hersteld.
 
 > [!IMPORTANT]
-> Als u een abonnement onderpauzeert, worden alle instellingen voor automatisch verlengen uitgeschakeld en worden eventuele bestaande geplande wijzigingen verwijderd. Het onderbreken van een abonnement heeft alleen invloed op de toegang tot de service van de klant en de facturering van de partner blijft in de onderbroken status.
+> Als u een abonnement onderwijt, worden alle instellingen voor automatisch verlengen uitgeschakeld en worden eventuele bestaande geplande wijzigingen verwijderd. Het onderbreken van een abonnement heeft alleen invloed op de toegang tot de service van de klant en de facturering van de partner blijft in de onderbroken status.
 
 ### <a name="cancel-a-new-commerce-subscription"></a>Een nieuw commerce-abonnement annuleren
 
 > [!Note] 
-> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview Microsoft 365/Dynamics 365 New Commerce Experience.
 
-Voor nieuwe commerceaanbiedingen kunnen partners hun abonnement opzeggen met een pro **72-restitutie** binnen de eerste 72 uur voor elke periode **(proration berekend per dag).**  
+Voor nieuwe commerceaanbiedingen kunnen partners hun abonnement opzeggen met een restitutie naar waarde binnen de **eerste 72** uur voor elke periode **(proration berekend per dag).**  
 
 Na 72 uur is annulering niet meer beschikbaar en wordt de partner gefactureerd voor de volledige termijn, zelfs als de klant niet meer betaalt voor of het abonnement gebruikt (van toepassing op een factureringsplan).
 
@@ -238,7 +238,7 @@ Als er halverwege de termijn licenties worden toegevoegd, is hetzelfde beleid va
 ## <a name="subscription-renewals"></a>Abonnementsvernieuwingen
 
 > [!NOTE]
-> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview Microsoft 365/Dynamics 365 New Commerce Experience.
 
 Actieve abonnementen zijn standaard ingesteld om automatisch te worden verlengd wanneer de abonnementsperiode verloopt. Voor [abonnementen op commerciële marketplace-producten](csp-commercial-marketplace-overview.md)of nieuwe commerce-abonnementen kunt u ervoor kiezen om het abonnement niet automatisch te verlengen.
 
@@ -259,7 +259,7 @@ Als u wilt voorkomen dat een actief abonnement op de commerciële marketplace of
 ### <a name="manage-new-commerce-renewals-with-scheduled-changes"></a>Nieuwe handelsvernieuwingen beheren met geplande wijzigingen
 
 > [!NOTE]
-> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview van Microsoft 365/Dynamics 365 New Commerce Experience.
+> Nieuwe commercewijzigingen zijn momenteel alleen beschikbaar voor partners die deel uitmaken van de technical preview Microsoft 365/Dynamics 365 New Commerce Experience.
 
 Sommige wijzigingen in abonnementen kunnen alleen aan het einde van een termijn plaatsvinden. Deze wijzigingen kunnen worden gepland zodat ze gemakkelijk aan het einde van de term worden toegepast. Voorbeelden van wijzigingen die moeten worden gepland:
 
@@ -318,7 +318,7 @@ Voor nieuwe handel betekent een upgrade van het ene betaalde abonnement naar het
 
 Partners kunnen selecteren naar welk abonnement ze een upgrade willen uitvoeren bij het configureren van het aantal licenties. Partners kunnen een nieuw **abonnement** selecteren of een **bestaand abonnement** selecteren als dit in aanmerking komt voor de upgrade. 
 
-Upgrades kunnen uit twee typen bestaan: **Volledige upgrade** en **Gedeeltelijke upgrade.**
+Upgrades kunnen uit twee typen bestaan: **volledige upgrade** en **gedeeltelijke upgrade.**
 
 > [!NOTE]
 > - Upgrades kunnen worden gepland aan het einde van een termijn of kunnen halverwege de termijn worden gestart.
@@ -336,9 +336,9 @@ Met gedeeltelijke upgrades kan een partner bepaalde licenties van de ene SKU naa
 Details van gedeeltelijke upgrade:
 
 - Deze optie is gedeeltelijk gedefinieerd als het aantal upgradelicenties kleiner is dan het oorspronkelijke abonnement.
-- Een nieuw abonnement dat is gemaakt tijdens een gedeeltelijke upgrade, heeft dezelfde einddatums als het abonnement waar de upgrade van afkomstig is.
+- Een nieuw abonnement dat wordt gemaakt tijdens een gedeeltelijke upgrade, heeft dezelfde einddatums als het abonnement waar de upgrade van afkomstig is.
 
-## <a name="increasing-and-reducing-licenses-in-new-commerce-subscriptions"></a>Licenties in nieuwe commerce-abonnementen verhogen en verminderen
+## <a name="increasing-and-reducing-licenses-in-new-commerce-subscriptions"></a>Licenties verhogen en verminderen in nieuwe commerce-abonnementen
 
 Het aantal licenties voor  een abonnement kan op elk moment worden verhoogd, met factureringscorrecties die worden weergegeven in het volgende factuur- en afstemmingsbestand. 
 
