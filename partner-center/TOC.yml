@@ -32,7 +32,7 @@
       items:
         - name: CSP-overeenkomsten
           href: microsoft-partner-agreement.md
-        - name: Hoe indirecte providers hun resellers kunnen helpen de MPA over te nemen
+        - name: Hoe indirecte providers hun resellers kunnen helpen de MPA te gebruiken
           href: mpa-indirect-provider-faq.yml
         - name: 'Regionale markten voor CSP, valuta'
           href: regional-authorization-overview.md
@@ -158,7 +158,7 @@
       href: csp-regional-authorization-tenant-consolidation.md
     - name: Learn-account koppelen
       href: ms-learn-associate.md
-    - name: Partner Membership Center pensioen
+    - name: Partner Membership Center met pensioen gaan
       href: partner-membership-center-retirement-faq.md
 - name: Voordelen
   items:
@@ -224,6 +224,8 @@
           href: partner-sales-connect-to-partner-center-iot.md
     - name: Uw deals registreren
       href: register-deals.md
+    - name: Oplossingsevaluaties beheren
+      href: solution-assessments.md
     - name: Veelgestelde vragen over verwijzingen
       href: referrals-faq.md
 - name: Customers
@@ -393,6 +395,8 @@
           href: csp-commercial-marketplace-purchase.md
         - name: Licenties beheren in Marketplace-aanbiedingen
           href: csp-commercial-marketplace-licensing.md
+        - name: Marketplace-marges
+          href: csp-commercial-marketplace-margins.md
         - name: Exclusieve Marketplace-aanbiedingen van ISV's (Independent Software Vendor)
           href: isv-opt-in.md
         - name: Marketplace-aanbiedingen beheren
@@ -421,7 +425,7 @@
           href: advisors-build-your-business.md
         - name: Een aanbieding maken voor een Office 365-aankoop
           href: advisor-create-a-purchase-offer.md
-    - name: Partners kunnen zich niet langer inschrijven als advisor
+    - name: Partners kunnen niet langer worden ingeschreven als adviseurs
       href: advisors-no-csp.md
     - name: CSP-aanbiedingen
       items:
@@ -607,7 +611,7 @@
   href: /azure/marketplace
 - name: Uitbetalingen
   items:
-    - name: Overzicht uitbetalingen
+    - name: Overzicht van uitbetalingen
       href: non-payment-fraud-misuse.md
     - name: Facturering van mobiele provider
       href: mobile-operator-billing.md
@@ -621,7 +625,7 @@
       href: payout-policy-details.md
     - name: Uitbetalingsinstructies
       href: payout-statement.md
-    - name: Opbrengstoverzicht
+    - name: Samenvatting van omzet
       href: revenue-summary.md
     - name: Gegevenspagina uitbetalingen exporteren
       href: payouts-enhanced-exports.md
@@ -723,7 +727,7 @@
           href: insights-programmatic-system-queries.md
         - name: Voorbeeldquery's
           href: insights-programmatic-sample-queries.md
-        - name: Specificatie van aangepaste query's
+        - name: Aangepaste queryspecificatie
           href: insights-programmatic-custom-query.md
         - name: Voorbeeldtoepassing
           href: insights-programmatic-sample-application.md
