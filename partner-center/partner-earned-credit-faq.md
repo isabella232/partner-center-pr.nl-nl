@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae78b13ae17b223e1cb540bea50168d02bcb9a1c
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 7e09a4f82704a7336ea7a30241219f9e19d2ef5c
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244885"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593273"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Veelgestelde vragen over partnertegoeden
 
@@ -24,7 +24,7 @@ Hieronder volgt een lijst met veelgestelde vragen over partnertegoeden.
 
 ## <a name="how-much-is-pec"></a>Hoeveel is PEC?
 
-Het bedrag dat partners voor PEC verdienen, varieert (zie [Berekening).](partner-earned-credit-explanation.md#calculation) U vindt het tarief op de pagina prijslijst in Partner Center.
+Het bedrag dat partners voor PEC verdienen, varieert (zie [Berekening](partner-earned-credit-explanation.md#calculation)). Het tarief vindt u op de pagina prijslijst in Partner Center.
 
 ## <a name="what-azure-services-are-eligible-for-pec"></a>Welke Azure-services komen in aanmerking voor PEC?
 
@@ -46,7 +46,7 @@ PEC-gegevens kunnen rechtstreeks door partners worden opgevraagd via API, dageli
 
 Er zijn twee afstemmingsbestanden in Partner Center onder Facturering die kunnen worden gebruikt.
 
-- Dagelijks beoordeeld gebruik afstemmen-recente activiteit (.csv)
+- Dagelijks beoordeeld gebruik afstemmen van recente activiteit (.csv)
 - Afstemming-recente activiteit (.csv)
 
 Voor afstemming kan de partner de velden ProductID, SKUID en AvailabilityID uit deze twee bestanden vergelijken voor elke SubscriptionID.
@@ -59,7 +59,7 @@ Ja, de CSP Indirect Provider moet [RBAC-toegang](/azure/role-based-access-contro
 
 ## <a name="what-happens-if-a-customer-removes-a-partners-rbac-admin-access"></a>Wat gebeurt er als een klant de RBAC-beheerderstoegang van een partner verwijdert?
 
-Een partner zonder de juiste RBAC-toegang in CSP behoudt nog steeds de Azure-factureringsrelatie en verantwoordelijkheid van de klant met Microsoft. Hoewel dit geen invloed heeft op een partner die de vorige Azure-aanbieding in CSP verkoopt, komt de gefactureerde partner voor de nieuwe Azure-aanbieding in CSP niet in aanmerking voor PEC op hun Azure-factuur. Partners kunnen gedeeltelijke beheerderstoegang verkrijgen in CSP door toegang te verkrijgen via een gebruikersaccount via directory-/gasttoegang met behulp van RBAC of via Azure Lighthouse. Zie Beheerdersbevoegdheden voor de Azure CSP van [een klant herstellen voor meer informatie.](revoke-reinstate-csp.md)
+Een partner zonder de juiste RBAC-toegang in CSP behoudt nog steeds de Azure-factureringsrelatie en verantwoordelijkheid van de klant met Microsoft. Hoewel dit geen invloed heeft op een partner die de vorige Azure-aanbieding in CSP verkoopt, komt de gefactureerde partner voor de nieuwe Azure-aanbieding in CSP niet in aanmerking voor PEC op hun Azure-factuur. Partners kunnen gedeeltelijke beheerderstoegang verkrijgen in CSP door toegang te verkrijgen via een gebruikersaccount via directory-/gasttoegang met behulp van RBAC of via Azure Lighthouse. Zie Beheerdersbevoegdheden voor de Azure CSP van [een klant herstellen voor meer informatie.](reinstate-csp.md)
 
 :::image type="content" source="images/advanced-specializations/permissions.png" alt-text="Schermopname van de pagina Toegangsbeheer waar u beheerdersmachtigingen kunt herstellen." border="false":::
 
@@ -67,7 +67,7 @@ Een partner zonder de juiste RBAC-toegang in CSP behoudt nog steeds de Azure-fac
 
 Er zijn verschillende manieren waarop een partner kan bevestigen dat deze de juiste toegang heeft tot de Azure-resources van een klant.
 
-- Bekijk het dagelijkse gebruiksbestand: als een partner het partnertegoed voor beheerde services ontvangt, heeft deze partner beheerderstoegang. Dit kan worden bepaald door de eenheidsprijs en de effectieve eenheidsprijs in het dagelijkse gebruiksbestand te controleren en te controleren of er korting wordt toegepast.
+- Bekijk het dagelijkse gebruiksbestand: als een partner het partnertegoed voor beheerde services ontvangt, heeft deze partner beheerderstoegang. Dit kan worden bepaald door de eenheidsprijs en de effectieve eenheidsprijs in het dagelijkse gebruiksbestand te controleren en te bevestigen of er korting wordt toegepast.
 - Een waarschuwing voor Azure Monitor maken: [](/azure/azure-monitor/platform/alerts-activity-log) u kunt waarschuwingen voor activiteitenlogboek maken met behulp van Azure Monitor om meldingen te ontvangen wanneer uw RBAC-toegang wordt verwijderd uit CSP-abonnementen. Raadpleeg de handleiding partnertegoeden en technische documentatie.
 
 ## <a name="why-dont-i-see-pec-on-the-invoice"></a>Waarom zie ik PEC niet op de factuur?
@@ -79,7 +79,7 @@ PEC wordt niet expliciet vermeld op de factuur en er is geen afzonderlijk regeli
 - [Prijslijst voor de nieuwe commerce-ervaring voor Azure in CSP](azure-plan-price-list.md)
 - [Abonnementen en resources beheren onder het Azure-abonnement](azure-plan-manage.md)
 - [Nieuwe Commerce-ervaring in CSP - Azure-facturering](azure-plan-billing.md)
-- [Beheerdersbevoegdheden voor Azure CSP-abonnementen opnieuw instellen](revoke-reinstate-csp.md)
+- [Beheerdersbevoegdheden voor Azure CSP-abonnementen opnieuw instellen](reinstate-csp.md)
 - [Partnertegoed - overzicht](partner-earned-credit.md)
 - [Rollen, machtigingen voor partnertegoed](azure-roles-perms-pec.md)
 - [Inzicht in partnertegoed (handleiding)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (aanmelding vereist)

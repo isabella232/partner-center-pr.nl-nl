@@ -9,25 +9,25 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56884a5a6cbfbade881154275129c63dcd3456d8
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: e4ce75e246139ab2384d478ca02b281848fb7521
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128422431"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593324"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Hoe het verdiende tegoed van de partner wordt berekend en betaald
 
-**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Factureringsbeheerders | Verkoopagent
+**Juiste rollen:** globale | Gebruikersbeheerbeheerders | Beheeragent | Factureringsbeheerder | Verkoopagent
 
 Partner earned credit (PEC) for managed services recognizes and rewards partners who own IT operational control and management of some or all of a customers's Azure environment. 
 
-Als CSP-partner krijgt u standaard de benodigde toegangsrechten voor het abonnement van uw klant, zodat u operationeel beheer en beheer kunt uitvoeren van de resources in het abonnement. Andere manieren waarop klanten toegang voor partners kunnen inrichten, wordt beschreven in de volgende sectie.
+Als CSP-partner krijgt u standaard de benodigde toegangsrechten voor het abonnement van uw klant, zodat u operationeel beheer en beheer van de resources in het abonnement kunt uitvoeren. Andere manieren waarop klanten toegang voor partners kunnen inrichten, wordt beschreven in de volgende sectie.
 
 Het maandelijkse factuurbedrag is het nettobedrag van het tegoed van de partner. U kunt de details van PEC bekijken in uw maandelijkse recon-bestand. Zie de volgende artikelen voor aanvullende manieren waarop een klant toegang kan inrichten voor de transacting partner:
 
 - [Abonnementen en resources beheren onder het Azure-abonnement](azure-plan-manage.md)
-- [Beheerdersbevoegdheden voor Azure CSP-abonnementen opnieuw instellen](revoke-reinstate-csp.md)
+- [Beheerdersbevoegdheden voor Azure CSP-abonnementen opnieuw instellen](reinstate-csp.md)
 
 ## <a name="eligibility"></a>Subsidiabiliteit
 
@@ -35,7 +35,7 @@ Voor het ontvangen van partnertegoed (PEC) gelden de volgende vereisten:
 
 - U moet een actieve MPN-overeenkomst en een geldige [RBAC-rol](/azure/role-based-access-control/overview) (role-based [access control)](azure-roles-perms-pec.md) hebben.
 - U moet beheerdersbevoegdheden namens [(AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) hebben voor het Azure-abonnement, de Azure-resourcegroep of de Azure-resource van de klant, of een geldige [RBAC-rol.](azure-roles-perms-pec.md)
-- In het geval van indirecte providers en hun indirecte resellers komt een indirecte provider in aanmerking voor PEC als de indirecte provider of de indirecte reseller ofwel AOBO-bevoegdheden of een in aanmerking komende RBAC-rol hebben. Zie Beheerdersbevoegdheden voor Azure CSP [herstellen voor meer informatie.](revoke-reinstate-csp.md)
+- In het geval van indirecte providers en hun indirecte resellers komt een indirecte provider in aanmerking voor PEC als de indirecte provider of de indirecte reseller ofwel AOBO-bevoegdheden of een in aanmerking komende RBAC-rol hebben. Zie Beheerdersbevoegdheden voor Azure CSP [herstellen voor meer informatie.](reinstate-csp.md)
 - De MPN-id van de partner moet behoren tot dezelfde v-org als de MPN-id van de koper of de MPN-id van Partner of Record (MPN). Zie [Uw partner-id koppelen om de impact op gedelegeerde resources te volgen](/azure/lighthouse/how-to/partner-earned-credit) voor meer informatie.
 - PEC wordt verdiend op Azure-resourceniveau, resourcegroep of abonnement. Als een partner geldige toegang heeft op het niveau van het abonnement of de resourcegroep, verdient elke resource die wordt geworpen naar de hogere entiteit PEC.
 - PEC is niet van toepassing op de volgende services:
@@ -54,7 +54,7 @@ Zie Rollen en machtigingen die zijn vereist om partnertegoed te verdienen voor m
 
 PEC wordt dagelijks berekend. U wordt betaald voor elke dag dat u voor PEC in aanmerking komt voor toegang tot elk abonnement. Hoewel PEC-gegevens niet op uw maandelijkse factuur worden weergegeven, worden de PEC-inkomsten in de aangepaste nettokostenregel in de factuur meegenomen. U vindt meer PEC-gegevens over het [dagelijkse gebruiksbestand](daily-rated-usage-recon-files.md) en in het maandelijkse factuur reconbestand.
 
-:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Schermopname van een Partner Center afstemmingsbestand dat kolommen identificeert." border="false":::
+:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Schermopname van een Partner Center-afstemmingsbestand dat kolommen identificeert." border="false":::
 
 In de onderstaande tabel worden de PEC-elementen beschreven die zijn gevonden in het maandelijkse factuur reconbestand. Alle waarden zijn in USD, zoals wordt weergegeven in de kolom AI, PricingCurrency.
 
@@ -90,7 +90,7 @@ Azure Cost Management (ACM) met behulp van Kostenanalyse kunt u als partner de k
 3. Selecteer **Kostenanalyse.**
 In de weergave Kostenanalyse worden de kosten voor uw factureringsaccount weergegeven voor alle services die zijn gekocht en verbruikt tegen de prijzen die u microsoft betaalt.
 
-:::image type="content" source="images/advanced-specializations/partner-cost.png" alt-text="Schermopname van de pagina Kostenanalyse voor kostenbeheer." border="false":::
+:::image type="content" source="images/advanced-specializations/partner-cost.png" alt-text="Schermopname van de pagina Kostenanalyse van cost management." border="false":::
 
 4. Selecteer partnerEarnedCreditApplied in de vervolgkeuzelijst draaigrafiek. 
 
@@ -106,14 +106,14 @@ U kunt ook groeperen op en filteren op de eigenschap **PartnerEarnedCreditApplie
 ## <a name="how-is-pec-paid"></a>Hoe wordt PEC betaald?
 PEC-inkomsten worden in rekening gebracht op de aangepaste nettokostenregel binnen de factuur. Het **totaal** van de hieronder weergegeven factuur illustreert dit. Zie het maandelijkse factuurafstemmingsbestand en het dagelijks beoordeelde gebruiksbestand van Azure voor meer informatie over correcties.
 
-:::image type="content" source="images/advanced-specializations/invoice.png" alt-text="Schermopname van een Partner Center met de melding dat aanpassingsgegevens worden weergegeven in recon- en dagelijkse gebruiksbestanden van Azure." border="false":::
+:::image type="content" source="images/advanced-specializations/invoice.png" alt-text="Schermopname van een Partner Center met de melding dat de details van de aanpassing worden weergegeven in recon- en dagelijkse gebruiksbestanden van Azure." border="false":::
 
 ## <a name="next-steps"></a>Volgende stappen
 
 - [Prijslijst voor de nieuwe commerce-ervaring voor Azure in CSP](azure-plan-price-list.md)
 - [Abonnementen en resources beheren onder het Azure-abonnement](azure-plan-manage.md)
 - [Nieuwe Commerce-ervaring in CSP - Azure-facturering](azure-plan-billing.md)
-- [Beheerdersbevoegdheden voor Azure CSP-abonnementen opnieuw instellen](revoke-reinstate-csp.md)
+- [Beheerdersbevoegdheden voor Azure CSP-abonnementen opnieuw instellen](reinstate-csp.md)
 - [Partnertegoed - overzicht](partner-earned-credit.md)
 - [Rollen, machtigingen voor partnertegoed](azure-roles-perms-pec.md)
 - [Inzicht in partnertegoed (handleiding)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (aanmelding vereist)

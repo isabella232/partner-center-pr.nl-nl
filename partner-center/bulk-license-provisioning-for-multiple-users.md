@@ -9,16 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 256e93499a3a9b2786d8d1a309077b645aecd81c
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: d31e8c6825a1caa4e0bb5bf8fb78c3619d802dc3
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244727"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129592768"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Licenties tegelijkertijd toewijzen aan of intrekken voor meerdere gebruikers in een klantaccount
 
-**Juiste rollen:** beheeragent | Globale | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
+**Juiste rollen:** beheeragent | Globale beheerders | Helpdeskagent | Verkoopagent | Beheerder van gebruikersbeheer
 
 U kunt licenties en services toewijzen aan een gebruiker of aan meerdere gebruikers tegelijk in een klantaccount en licentietoewijzingen aan gebruikers intrekken.
 
@@ -44,7 +44,7 @@ De Partner Center houdt alle licentierechten van de klant bij en geeft deze weer
 
        - Wanneer alle geselecteerde gebruikers al een licentie hebben, wordt het selectievakje van het product ingevuld.
 
-       - Als sommige van de geselecteerde gebruikers een productlicentie hebben, is het selectievakje van het product gedeeltelijk ingevuld.
+       - Als sommige geselecteerde gebruikers een productlicentie hebben, is het selectievakje van het product gedeeltelijk ingevuld.
 
        - Als geen van de geselecteerde gebruikers een productlicentie heeft, is het selectievakje leeg.
 
@@ -90,4 +90,4 @@ De Partner Center houdt alle licentierechten van de klant bij en geeft deze weer
 
 - [Licenties toewijzen aan een gebruiker](assign-licenses-to-users.md)
 
-- [Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen](revoke-reinstate-csp.md)
+- [Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen](reinstate-csp.md)

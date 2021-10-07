@@ -32,7 +32,7 @@
       items:
         - name: CSP-overeenkomsten
           href: microsoft-partner-agreement.md
-        - name: Hoe indirecte providers hun resellers kunnen helpen de MPA te gebruiken
+        - name: Hoe indirecte providers hun resellers kunnen helpen de MPA over te nemen
           href: mpa-indirect-provider-faq.yml
         - name: 'Regionale markten voor CSP, valuta'
           href: regional-authorization-overview.md
@@ -305,7 +305,7 @@
     - name: Licenties toewijzen aan resources
       href: support-resources-licensing.md
     - name: Beheerdersbevoegdheden voor Azure CSP-abonnementen opnieuw instellen
-      href: revoke-reinstate-csp.md
+      href: reinstate-csp.md
     - name: Overdracht van Azure-abonnementen
       href: switch-azure-subscriptions-to-a-different-partner.md
     - name: Klanten van op licenties gebaseerde services verplaatsen naar het CSP-programma
@@ -421,7 +421,7 @@
           href: advisors-build-your-business.md
         - name: Een aanbieding maken voor een Office 365-aankoop
           href: advisor-create-a-purchase-offer.md
-    - name: Partners kunnen niet langer worden ingeschreven als adviseurs
+    - name: Partners kunnen zich niet langer inschrijven als advisor
       href: advisors-no-csp.md
     - name: CSP-aanbiedingen
       items:

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 07/22/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Meer informatie over het oplossen van factuurproblemen en andere problemen met betrekking tot partnertegoeden (PEC).
+description: Meer informatie over het oplossen van factuurproblemen en andere problemen met betrekking tot partnertegoed (PEC).
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: a8bb370c7154c8033990cac798c28e01eec7e17f
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126244877"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593222"
 ---
 # <a name="troubleshooting-partner-earned-credit"></a>Problemen met partnertegoed oplossen
 
@@ -36,7 +36,7 @@ Als u problemen hebt met PEC, zoals toegang of ontbrekende gegevens, controleert
 
 6. Controleer of u een geldige rol Voor beheer namens (AOBO) of Role-Based Access Control (RBAC) hebt voor het abonnement/de resourcegroep/resource.
 
-7. Bepaal of de klant uw RBAC-rol heeft verwijderd. Als dat het zo is, zie Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen
+7. Bepaal of de klant uw RBAC-rol heeft verwijderd. Als dit het zo is, zie Beheerdersbevoegdheden voor de Azure CSP van een klant herstellen
 
 8. Controleer of u de hele dag beheerderstoegang hebt.
 
@@ -47,7 +47,7 @@ Als u problemen hebt met PEC, zoals toegang of ontbrekende gegevens, controleert
 - [Prijslijst voor de nieuwe commerce-ervaring voor Azure in CSP](azure-plan-price-list.md)
 - [Abonnementen en resources beheren onder het Azure-abonnement](azure-plan-manage.md)
 - [Nieuwe Commerce-ervaring in CSP - Azure-facturering](azure-plan-billing.md)
-- [Beheerdersbevoegdheden voor Azure CSP-abonnementen opnieuw instellen](revoke-reinstate-csp.md)
+- [Beheerdersbevoegdheden voor Azure CSP-abonnementen opnieuw instellen](reinstate-csp.md)
 - [Partnertegoed - overzicht](partner-earned-credit.md)
 - [Rollen, machtigingen voor partnertegoed](azure-roles-perms-pec.md)
 - [Inzicht in partnertegoed (handleiding)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (aanmelding vereist)

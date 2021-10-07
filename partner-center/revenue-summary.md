@@ -1,6 +1,6 @@
 ---
-title: Samenvatting van omzet in het Partner Center dashboard
-description: U kunt de samenvatting omzet en inkomsten weergeven en gegevens exporteren over niet-in aanmerking komende transacties.
+title: Samenvatting van omzet in Partner Center dashboard
+description: U kunt de samenvatting Revenue gebruiken om te begrijpen hoe de omzet die wordt gegenereerd door het klantverbruik van Azure-services bijdraagt aan uw inkomsten en waarom bepaalde omzet mogelijk niet in aanmerking komt voor inkomsten.
 author: satinder37
 ms.author: sabaja
 ms.service: partner-dashboard
@@ -8,22 +8,22 @@ ms.topic: conceptual
 ms.date: 10/04/2021
 ms.custom: template-concept
 customer intent: As an incentive user or incentive admin, I want to be able to read and export revenue data from Partner Center so I can see our earnings and learn why any transactions were reported ineligible.
-ms.openlocfilehash: 9ec9d64127f537ac74615a8fbe17499ebb5872dd
-ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
+ms.openlocfilehash: 11e58324adf38e92fc892ec5dd62933e6372f2cb
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129528610"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593341"
 ---
 # <a name="revenue-summary"></a>Opbrengstoverzicht
 
-U kunt de samenvatting Revenue gebruiken om te begrijpen hoe de omzet die wordt gegenereerd door het klantverbruik van Azure-services bijdraagt aan uw inkomsten en waarom bepaalde omzet niet in aanmerking komt voor inkomsten.
+U kunt de samenvatting Revenue gebruiken om te begrijpen hoe de omzet die wordt gegenereerd door het klantverbruik van Azure-services bijdraagt aan uw inkomsten en waarom bepaalde omzet mogelijk niet in aanmerking komt voor inkomsten.
 
 :::image type="content" source="images/revenue-summary/revenue-reporting-diagram.png" alt-text="Diagram van hoe de omzet wordt geëvalueerd en gerapporteerd op Partner Center":::
 
 De samenvatting Omzet wordt pas bijgewerkt nadat de transacties zijn geëvalueerd, zodat het Azure-verbruik dat plaatsvindt in oktober pas wordt weergegeven in de samenvatting Omzet tot bijvoorbeeld november.
 
-De samenvatting Van omzet staat in de werkruimte Uitbetalingen, samen met [de pagina Transactiegeschiedenis](https://partner.microsoft.com/dashboard/payouts/reports/transactionhistory) [en Betalingen.](https://partner.microsoft.com/dashboard/payouts/reports/incentivepayments)
+De samenvatting Omzet staat in de werkruimte Uitbetalingen, samen met de [pagina Transactiegeschiedenis](https://partner.microsoft.com/dashboard/payouts/reports/transactionhistory) [en Betalingen.](https://partner.microsoft.com/dashboard/payouts/reports/incentivepayments)
 
 ## <a name="using-the-revenue-summary"></a>De samenvatting Revenue gebruiken
 
@@ -32,7 +32,7 @@ Met behulp van de samenvatting Revenue kunt u het volgende doen:
 - Zoek in aanmerking komende omzet en de resulterende inkomsten op per klant of abonnement.
 - Aanvulling op wat u leert uit de [transactiegeschiedenis met](https://partner.microsoft.com/dashboard/payouts/reports/transactionhistory)  inzichten over onderliggende omzetbedragen.
 - Zoek eventuele in aanmerking komende omzet op en ontdek waarom die omzet niet in aanmerking komt.
-- Exporteren van gegevens over ineligible transacties, met inbegrip van de redenen voor [ineligibility](#ineligibility-reasons) en [kenmerken,](#exported-data-attributes)waarmee u kunt begrijpen waarom deze transacties geen incentives hebben verdiend.
+- Gegevens exporteren over ineligible transacties, met inbegrip van de redenen voor [ineligibility](#ineligibility-reasons) en [kenmerken,](#exported-data-attributes)waarmee u beter begrijpt waarom deze transacties geen incentives hebben verdiend.
 
 ## <a name="access-roles-and-permissions"></a>Toegang tot rollen en machtigingen
 
@@ -57,7 +57,7 @@ U kunt zoeken naar informatie over elke klant in het klantoverzicht, niet alleen
 
 ## <a name="eligible-transactions"></a>In aanmerking komende transacties
 
-*In aanmerking komende transacties* zijn transacties die omzet opleveren die in aanmerking komt voor inkomstenbetalingen.
+*In aanmerking komende transacties* zijn transacties die omzet opleveren die in aanmerking komen voor inkomstenbetalingen.
 
 U kunt zoeken naar informatie over in aanmerking komende transacties op klant-id of abonnements-id. U kunt echter geen gegevens exporteren over in aanmerking komende transacties.
 
@@ -66,7 +66,7 @@ U kunt zoeken naar informatie over in aanmerking komende transacties op klant-id
 *Ineligible transacties zijn* transacties die niet in aanmerking komen voor inkomstenbetalingen.
 
 - De redenen waarom transacties als niet-in aanmerking komend voor inkomsten worden vermeld in de sectie Redenen voor [ineligibility](#ineligibility-reasons) van dit artikel.
-- U kunt gegevens zoeken en  [exporteren](#exporting-data) over alle niet-in aanmerking komende transacties om erachter te komen waarom u mogelijk geen MCI-incentives hebt verdiend.
+- U kunt gegevens over  [niet-in](#exporting-data) aanmerking komende transacties zoeken en exporteren om erachter te komen waarom u mogelijk geen MCI-incentives hebt verdiend.
 - In de samenvatting Omzet wordt altijd de meest recente omzetclassificatie weergegeven (zodat u niet kunt zien hoe een transactie een maand eerder is geclassificeerd). Een transactie die één maand als niet-in aanmerking komend is gemarkeerd, kan de volgende maand als in aanmerking komend worden gemarkeerd.
 
 Niet-in aanmerking komende transacties die worden vermeld in de samenvatting Omzet hebben kenmerken die het volgende omvatten:
@@ -81,7 +81,7 @@ U kunt in aanmerking komende transacties doorzoeken op klantnaam en abonnements-
 
 ## <a name="ineligibility-reasons"></a>Redenen voor ineligibility
 
-*Ineligibility reasons* in the tables that follow indicate why revenue was classified ineligible for earnings. Elke rij in de tabellen bevat ook een uitleg over of en hoe een partner met niet-in aanmerking komende inkomsten weer in aanmerking kan komen voor inkomsten.
+*Ineligibility reasons* in the tables that follow indicate why revenue was classified ineligible for earnings. Elke rij in de tabellen bevat ook een uitleg over of en hoe een partner met ineligible verdiensten weer in aanmerking kan komen voor inkomsten.
 
 Sommige ineligibility redenen in deze tabellen zijn mogelijk niet van toepassing op een bepaalde betrokkenheid.
 
@@ -95,7 +95,7 @@ Er zijn drie categorieën van ineligibility:
 
 |Reden van ineligibility|Actie van partner vereist?|Opnieuw in aanmerking komen|
 |---------|---------|---------|
-|Klant is een openbare sector|Ja, als de klant zich in Verenigde Staten, Bijeen of India|Als u hebt gereageerd op een PO-aanvraag (Proof of Execution) en deze is afgewezen, kunt u niet opnieuw in aanmerking komen. (Wanneer een POE wordt afgewezen, wordt er een e-mail verzonden waarin wordt uitgelegd waarom.)<br><br>U kunt binnen 90 dagen na de transactie/inkomstendatum een andere POE aanvragen. (Zorg ervoor dat u de ontvangst van de E-MAIL-e-mail bevestigt wanneer deze binnenkomt.) U kunt de ineligibility ook binnen 90 dagen betwisten door contact op te nemen met de ondersteuning met de reden van ineligibility, abonnement en klantgegevens en de reden voor betwisting.|
+|Klant is een openbare sector|Ja, als de klant zich in Verenigde Staten, Bijeen of India|Als u hebt gereageerd op een PO-aanvraag (Proof of Execution) en deze is afgewezen, kunt u niet opnieuw in aanmerking komen. (Wanneer een POE wordt afgewezen, wordt er een e-mail verzonden waarin wordt uitgelegd waarom.)<br><br>U kunt binnen 90 dagen na de transactie/inkomstendatum een andere POE aanvragen. (Zorg ervoor dat u de ontvangst van de E-MAIL-e-mail bevestigt wanneer deze binnenkomt.) U kunt ineligibility ook binnen 90 dagen betwisten door contact op te nemen met ondersteuning met de reden van ineligibility, abonnement en klantgegevens en de reden voor betwisting.|
 |De omzet van China mag niet eigendom zijn van een niet-China-partner|No|Partner kan niet opnieuw in aanmerking komen door beleid.|
 
 ### <a name="ineligible-partner"></a>Ineligible partner
@@ -113,7 +113,7 @@ Er zijn drie categorieën van ineligibility:
 
 |Reden van ineligibility|Actie van partner vereist?|Opnieuw in aanmerking komen|
 |---------|---------|---------|
-|Bewijs van uitvoering is niet goedgekeurd|Ja, als u niet hebt gereageerd op een E-mail van Microsoft over het bewijs van uitvoering van een digitale partner of record (DPOR)|Het bewijs van uitvoering van de aanvraag is alleen van toepassing op openbare sector of DPOR. Met ingang van 1 oktober 2021 wordt DPOR niet langer gecentraliseerd voor Azure, waardoor ERE-aanvragen niet meer worden verzonden.<br><br>Als u op een e-mail hebt gereageerd met het onderwerp 'Bewijs van uitvoering vereist' en uw antwoord is afgewezen, kunt u niet opnieuw in aanmerking komen.|
+|Bewijs van uitvoering is niet goedgekeurd|Ja, als u niet hebt gereageerd op een E-mail van Microsoft over het bewijs van uitvoering van een digitale partner of record (DPOR)|Het bewijs van uitvoering van de aanvraag is alleen van toepassing op de openbare sector of DPOR. Met ingang van 1 oktober 2021 wordt DPOR niet langer gecentraliseerd voor Azure, waardoor ERE-aanvragen niet meer worden verzonden.<br><br>Als u op een e-mail hebt gereageerd met het onderwerp 'Bewijs van uitvoering vereist' en uw antwoord is afgewezen, kunt u niet opnieuw in aanmerking komen.|
 
 ## <a name="exporting-data"></a>Gegevens exporteren
 
